@@ -1,6 +1,6 @@
 # Rhadoo
 
-Rhadoo is a Minimal and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Rhadoo is a Minimal and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Rhadoo is a minimal and house artist based in Romania, with 185 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Petre Inspirescu, Raresh and RPR Soundsystem. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -9,7 +9,6 @@ Rhadoo is a minimal and house artist based in Romania, with 185 gigs on soundche
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
-| Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
 | Fri, 9 Oct 2026 | Les Beaux-Arts de Marseille - Inseamm. | Marseille |
 | Sat, 10 Oct 2026 | Under Bron | Stockholm |
 | Fri, 30 Oct 2026 | Les Enfants Brillants | Barcelona |

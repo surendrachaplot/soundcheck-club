@@ -1,14 +1,13 @@
 # Christian AB
 
-Christian AB is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Christian AB is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Circolo Amelia, Milan on Sat, 10 Oct 2026.
 
-Christian AB is a techno and house artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Christian AB, Francesco Del Garda and Call Super. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
+Christian AB is a techno and house artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Christian AB, Francesco Del Garda and Call Super. Next up: Circolo Amelia, Milan on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
 | Sat, 10 Oct 2026 | Circolo Amelia | Milan |
 | Fri, 23 Oct 2026 | Lofi | Amsterdam |
 | Fri, 23 Oct 2026 | Lofi | Amsterdam |

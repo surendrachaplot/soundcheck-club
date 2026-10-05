@@ -1,6 +1,6 @@
 # La Terrrazza Closing Night 02 x Courtesy at La Terrrazza
 
-La Terrrazza Closing Night 02 x Courtesy on Sat 10 Oct, Barcelona. 1 artist: Courtesy. Club and Electronica. See the line-up on soundcheck.
+La Terrrazza Closing Night 02 x Courtesy on Sat 10 Oct, Barcelona. 3 artists: Courtesy, Nahoomie and PAURRO. Club and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ La Terrrazza Closing Night 02 x Courtesy on Sat 10 Oct, Barcelona. 1 artist: Cou
 ## Line-up
 
 - Courtesy
+- Nahoomie
+- PAURRO
 
 *Source: [soundcheck](https://soundcheck.club/e/2503554-la-terrrazza-closing-night-02-x-courtesy-at-la-terrrazza/)*

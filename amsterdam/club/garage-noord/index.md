@@ -9,7 +9,7 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 14 upcoming gig
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Buttechno (live), Andy Garvey, Lara Renner, Bar40 hosted by ponte-neuro | Andy Garvey, Buttechno, Daya, Lara Renner |
-| Sat, 10 Oct 2026 | klub Krai x b:3tter irl x Smokeshow | Celeb, Chickenmilk dot com, EVER, Freestyler (2), Krai, Tracey, baby ganoush |
+| Sat, 10 Oct 2026 | klub Krai x b:3tter irl x Smokeshow | Celeb, Chickenmilk dot com, EVER, Freestyler (2), Krai, baby ganoush |
 | Fri, 16 Oct 2026 | co-curated by T.NO with Toma Kami, MALLAURY, T.NO Bar40 hosted by Crossover | Dubrunner, Garnett, Jackie Jr., MALLAURY, T.NO, Toma Kami, UNAUNA |
 | Sat, 17 Oct 2026 | Mick Harris presents Culvert Dubs, Vanja Rakic b2b Olgica, Brent Jacko Bar40 hosted by SUBURBIA | Ben Vince, Brent Jacko, Marijn S, Mick Harris, Olgica, Pebblle, Vanja Rakic, Xterea |
 | Wed, 21 Oct 2026 | Firewire (ADE) w/username, jenny sparks, Mesin Slat, 300SkullsAndCounting, iced lattina | 300SkullsAndCounting, iced lattina, screenage dj |

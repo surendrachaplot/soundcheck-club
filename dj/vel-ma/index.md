@@ -1,8 +1,8 @@
 # VEL (MA)
 
-VEL (MA) is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Le Cargö, West on Wed, 7 Oct 2026.
+VEL (MA) is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Le Cargö, West on Wed, 7 Oct 2026.
 
-VEL (MA) is a techno and trance artist based in France, with 146 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Anetha, A Strange Wedding and Mac Declos. Next up: Le Cargö, West on Wed 7 Oct.
+VEL (MA) is a techno and trance artist based in France, with 147 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Anetha, A Strange Wedding and Mac Declos. Next up: Le Cargö, West on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ VEL (MA) is a techno and trance artist based in France, with 146 gigs on soundch
 | Wed, 21 Oct 2026 | Yellow House | Amsterdam |
 | Sat, 31 Oct 2026 | TBA - Secret Warehouse | Paris |
 | Sat, 7 Nov 2026 | Zoo | Geneva |
+| Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 

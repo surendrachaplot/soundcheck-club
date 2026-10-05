@@ -1,6 +1,6 @@
 # Congo Natty / KAYA FYAH - holdtight. / No Phones Party / Jungle, Dub, Breaks at Concorde 2
 
-Congo Natty / KAYA FYAH - holdtight. / No Phones Party / Jungle, Dub, Breaks at Concorde 2 on Sat 24 Oct, Brighton. 2 artists: Congo Natty and INKY MCKAY. See the line-up on soundcheck.
+Congo Natty / KAYA FYAH - holdtight. / No Phones Party / Jungle, Dub, Breaks at Concorde 2 on Sat 24 Oct, Brighton. 2 artists: Congo Natty and INKY MCKAY. Dub and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

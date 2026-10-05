@@ -1,14 +1,13 @@
 # Neel
 
-Neel is a Techno and Electronica artist with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Neel is a Techno and Electronica artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Bunker, Turin on Fri, 9 Oct 2026.
 
-Neel is a techno and electronica artist based in Italy, with 102 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 28 more. Often billed alongside Anthony Linell, Donato Dozzy and Kudeki. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
+Neel is a techno and electronica artist based in Italy, with 102 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 28 more. Often billed alongside Anthony Linell, Donato Dozzy and Kudeki. Next up: Bunker, Turin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
 | Fri, 9 Oct 2026 | Bunker | Turin |
 | Thu, 22 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 30 Oct 2026 | Tangent Gallery | Detroit |

@@ -1,8 +1,8 @@
 # Miley Serious
 
-Miley Serious is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Barn Radio, Portland on Fri, 9 Oct 2026.
+Miley Serious is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Barn Radio, Portland on Fri, 9 Oct 2026.
 
-Miley Serious is a techno and house artist based in France, with 173 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 52 more. Often billed alongside Lu2k, Dr Dubplate and Shampain. Next up: Barn Radio, Portland on Fri 9 Oct.
+Miley Serious is a techno and house artist based in France, with 174 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 52 more. Often billed alongside Lu2k, Dr Dubplate and Shampain. Next up: Barn Radio, Portland on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Miley Serious is a techno and house artist based in France, with 173 gigs on sou
 | Sat, 14 Nov 2026 | Hangaren | Copenhagen |
 | Fri, 27 Nov 2026 | Stinsen | Stockholm |
 | Sat, 28 Nov 2026 | Stinsen | Stockholm |
+| Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 

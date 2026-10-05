@@ -1,0 +1,18 @@
+# Curated Wax 6th Birthday - Noizar (Closer Kyiv) at EXIT Glasgow
+
+Curated Wax 6th Birthday - Noizar (Closer Kyiv) at EXIT Glasgow on Fri 13 Nov, Glasgow. 4 artists: Elk, Green like the Colour, Noizar and Patch FD. Techno and Electro. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 13 Nov 2026 |
+| Venue | EXIT Glasgow |
+| City | Glasgow |
+
+## Line-up
+
+- Elk
+- Green like the Colour
+- Noizar
+- Patch FD
+
+*Source: [soundcheck](https://soundcheck.club/e/2542096-curated-wax-6th-birthday-noizar-closer-kyiv-at-exit-glasgow/)*

@@ -1,8 +1,8 @@
 # Yucky
 
-Yucky is a Dubstep and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Toffler, Rotterdam on Fri, 9 Oct 2026.
+Yucky is a Dubstep and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Toffler, Rotterdam on Fri, 9 Oct 2026.
 
-Yucky is a dubstep and house artist based in Netherlands, with 44 gigs on soundcheck across Amsterdam, Rhineland Palatinate, Rotterdam and San Francisco/Oakland and 2 more. Often billed alongside Styn, A For Alpha and Koperblond. Next up: Toffler, Rotterdam on Fri 9 Oct.
+Yucky is a dubstep and house artist based in Netherlands, with 45 gigs on soundcheck across Amsterdam, Rhineland Palatinate, Rotterdam and San Francisco/Oakland and 2 more. Often billed alongside Styn, A For Alpha and Koperblond. Next up: Toffler, Rotterdam on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Yucky is a dubstep and house artist based in Netherlands, with 44 gigs on soundc
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Toffler | Rotterdam |
 | Thu, 22 Oct 2026 | Huis van Iemand Anders | Amsterdam |
+| Sun, 25 Oct 2026 | TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam | Amsterdam |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Alarico
 
-Alarico is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Sub Club, Glasgow on Fri, 9 Oct 2026.
+Alarico is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Sub Club, Glasgow on Fri, 9 Oct 2026.
 
-Alarico is a techno and house artist based in Italy, with 275 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 72 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Sub Club, Glasgow on Fri 9 Oct.
+Alarico is a techno and house artist based in Italy, with 276 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 72 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Sub Club, Glasgow on Fri 9 Oct.
 
 ## Upcoming shows
 

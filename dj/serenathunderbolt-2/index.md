@@ -1,14 +1,15 @@
 # Serena Thunderbolt (2)
 
-Serena Thunderbolt (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - The Random Club, Rome on Wed, 7 Oct 2026.
+Serena Thunderbolt (2) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - The Random Club, Rome on Wed, 7 Oct 2026.
 
-Serena Thunderbolt is a techno and trance artist based in Italy, with 10 gigs on soundcheck across Barcelona, Berlin, London and Rome. Often billed alongside Erica (IT), A.I.F.O.S. and Aithō. Next up: TBA - The Random Club, Rome on Wed 7 Oct.
+Serena Thunderbolt is a techno and trance artist based in Italy, with 11 gigs on soundcheck across Barcelona, Berlin, London and Rome. Often billed alongside Erica (IT), A.I.F.O.S. and Aithō. Next up: TBA - The Random Club, Rome on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 7 Oct 2026 | TBA - The Random Club | Rome |
+| Fri, 16 Oct 2026 | Soap House - Ex Saponerie Mira Lanza | Rome |
 
 ## Recently played
 

@@ -1,14 +1,16 @@
 # YONKS
 
-YONKS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Flinders, Sydney on Sat, 10 Oct 2026.
+YONKS is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Flinders, Sydney on Sat, 10 Oct 2026.
 
-YONKS is a techno and industrial artist based in Australia, with 10 gigs on soundcheck across Sydney. Often billed alongside MSG, Bleach and Ember Electra. Next up: The Flinders, Sydney on Sat 10 Oct.
+YONKS is a techno and industrial artist based in Australia, with 12 gigs on soundcheck across Sydney. Often billed alongside MSG, Bleach and ORKA. Next up: The Flinders, Sydney on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | The Flinders | Sydney |
+| Fri, 6 Nov 2026 | The Flinders | Sydney |
+| Sat, 21 Nov 2026 | The Flinders | Sydney |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ YONKS is a techno and industrial artist based in Australia, with 10 gigs on soun
 
 ## Shares bills with
 
-MSG, Bleach, Ember Electra
+MSG, Bleach, ORKA
 
 *Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yonks/)*

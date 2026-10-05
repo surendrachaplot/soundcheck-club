@@ -1,8 +1,8 @@
 # Degs
 
-Degs is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at ZeyZey, Miami on Thu, 8 Oct 2026.
+Degs is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at ZeyZey, Miami on Thu, 8 Oct 2026.
 
-Degs is a drum & bass and jungle artist based in United Kingdom, with 74 gigs on soundcheck across Amsterdam, Auckland, Berlin and Birmingham and 27 more. Often billed alongside Whiney, Unglued and Metrik. Next up: ZeyZey, Miami on Thu 8 Oct.
+Degs is a drum & bass and jungle artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Auckland, Berlin and Birmingham and 27 more. Often billed alongside Whiney, Unglued and Metrik. Next up: ZeyZey, Miami on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Degs is a drum & bass and jungle artist based in United Kingdom, with 74 gigs on
 | Wed, 14 Oct 2026 | 3oz Dive Club | San Diego |
 | Thu, 22 Oct 2026 | Phoenix Landing | Boston |
 | Sat, 7 Nov 2026 | Mina Museum | Cluj-napoca |
+| Fri, 20 Nov 2026 | Quarters | Brighton |
 
 ## Recently played
 

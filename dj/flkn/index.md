@@ -1,13 +1,14 @@
 # FLKN
 
-FLKN is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 17 Oct 2026.
+FLKN is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Flinders, Sydney on Fri, 16 Oct 2026.
 
-FLKN is a techno and acid artist based in France, with 27 gigs on soundcheck across Berlin, Brussels, Cologne and Lisbon and 6 more. Often billed alongside Jacidorex, Protokseed and DXPE (ES). Next up: TBA - Il Mercato Centrale, Melbourne on Sat 17 Oct.
+FLKN is a techno and acid artist based in France, with 28 gigs on soundcheck across Berlin, Brussels, Cologne and Lisbon and 7 more. Often billed alongside Jacidorex, Protokseed and DXPE (ES). Next up: The Flinders, Sydney on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | The Flinders | Sydney |
 | Sat, 17 Oct 2026 | TBA - Il Mercato Centrale | Melbourne |
 
 ## Recently played

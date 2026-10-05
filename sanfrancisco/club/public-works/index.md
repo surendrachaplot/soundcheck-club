@@ -12,7 +12,7 @@ Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 22 
 | Sat, 10 Oct 2026 | Bart Skils | Bart Skils, Dean Samaras |
 | Sat, 10 Oct 2026 | GIVE UNTIL GONE presents Clearcast b2b SHAKING | Clearcast, SHAKING, Saffaire, cstr |
 | Thu, 15 Oct 2026 | New Nostalgia x Public Release: Heliotropic 3 |  |
-| Fri, 16 Oct 2026 | PW 16-Year Anniversary Night One: Detroit Love with Carl Craig & Moodymann | Carl Craig |
+| Fri, 16 Oct 2026 | PW 16-Year Anniversary Night One: Detroit Love with Carl Craig & Moodymann | Carl Craig, Moodymann |
 | Sat, 17 Oct 2026 | PW 16-Year Anniversary Night Three: QUEEN OUT x FAKE & GAY: Tsu Nami, Goth Jafar, Joella | Adam Kraft, Goth Jafar, MASHALLAH, Star Eater, Yuca Frita |
 | Fri, 23 Oct 2026 | EAZYBAKED presented by Public Works & Insomniac |  |
 | Fri, 23 Oct 2026 | First Contact |  |

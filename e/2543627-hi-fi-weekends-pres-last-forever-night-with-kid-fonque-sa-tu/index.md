@@ -1,6 +1,6 @@
-# Hi-Fi Weekends pres LAST FOREVER NIGHT with Kid Fonque (SA), Turbojazz, Gramophone at Bluesquare
+# Hi-Fi Weekends pres LAST FOREVER NIGHT with Kid Fonque (SA), Turbojazz, Gramophone *FREE ENTRY* at Bluesquare
 
-Hi-Fi Weekends pres LAST FOREVER NIGHT with Kid Fonque (SA), Turbojazz, Gramophone at Bluesquare on Sat 17 Oct, Milan. 3 artists: Gramophone, Kid Fonque and Turbojazz. Deep House and Afro House. See the line-up on soundcheck.
+Hi-Fi Weekends pres LAST FOREVER NIGHT with Kid Fonque (SA), Turbojazz, Gramophone *FREE ENTRY* at Bluesquare on Sat 17 Oct, Milan. 3 artists: Gramophone, Kid Fonque and Turbojazz. Deep House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

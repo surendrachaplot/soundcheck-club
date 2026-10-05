@@ -1,13 +1,14 @@
 # BZZHOUND
 
-BZZHOUND is a Reggaeton and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 23 Oct 2026.
+BZZHOUND is a Techno and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Core, Madrid on Fri, 9 Oct 2026.
 
-BZZHOUND is a reggaeton and techno artist based in Colombia, with 60 gigs on soundcheck across Barcelona, Berlin, Leipzig and Lisbon and 3 more. Often billed alongside Linapary, DJ2D2 and Dirti Larita. Next up: Razzmatazz, Barcelona on Fri 23 Oct.
+BZZHOUND is a techno and reggaeton artist based in Colombia, with 61 gigs on soundcheck across Barcelona, Berlin, Leipzig and Lisbon and 3 more. Often billed alongside Linapary, DJ2D2 and Dirti Larita. Next up: Core, Madrid on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Core | Madrid |
 | Fri, 23 Oct 2026 | Razzmatazz | Barcelona |
 
 ## Recently played

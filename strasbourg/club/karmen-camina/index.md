@@ -1,8 +1,8 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 13 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "COMBO CLUB [Madbès & Alpha Sect • VOIDE ( Ambre & teinture-mère)]" on Thu, 8 Oct 2026.
+Karmen Camina is a music venue in Strasbourg with 14 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "COMBO CLUB [Madbès & Alpha Sect • VOIDE ( Ambre & teinture-mère)]" on Thu, 8 Oct 2026.
 
-Karmen Camina is a music venue in Strasbourg listed on soundcheck. 13 upcoming gigs, with line-ups including 1client, Alpha Sect, Amadeo Savio and Anthea and 2 more. See dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
+Karmen Camina is a music venue in Strasbourg listed on soundcheck. 14 upcoming gigs, with line-ups including 1client, ALOT, Alpha Sect and Amadeo Savio and 2 more. See dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
 ## What's on
 
@@ -12,12 +12,12 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 13 upcoming g
 | Fri, 9 Oct 2026 | SPECIAL GROOVE [Koboyo • LPV • 7seconds] | Koboyo, LPV |
 | Sat, 10 Oct 2026 | KC [Astral Travel (aka Anthea & Oshana) • Joey 808 & 1client] | 1client, Anthea, Astral Travel, Joey 808, Oshana |
 | Thu, 15 Oct 2026 | COMBO CLUB [Carlita Bandita • K2S • Neurone (Syn & Tatlo)] |  |
+| Fri, 16 Oct 2026 | TOY TONICS [ALOT • Gee Lane • Margarita Tempête] | ALOT, Gee Lane |
 | Sat, 17 Oct 2026 | KC x EURO IDOL [Canelle Doublekick • ANTONY NO LIMIT • GQB • TURBOMAT +TBA] | Canelle Doublekick, GQB (FR) |
 | Thu, 22 Oct 2026 | COMBO CLUB [House n°6 (Kate & Laisse Lucie Faire) • KICKS • Ordinaire Takeover] | KICKS, Ordinaire Records |
 | Thu, 29 Oct 2026 | COMBO CLUB [Breki • Cilex • KOZYSTORM • Mokass • Sonova • Viaak • YXAM • Zygo Matić] |  |
 | Fri, 30 Oct 2026 | SINIAL x PARODIA [Lola Haro • Nathan Melja • Amadeo & Varhat] | Amadeo Savio, Lola Haro, Nathan Melja, Varhat |
 | Sat, 31 Oct 2026 | KC [WICKED GIRLS (Louisahhh & kimifromtheinternet) • +TBA] | Louisahhh |
-| Sat, 14 Nov 2026 | KC [Nicolas Lutz • Sedef Adasï +TBA] | Nicolas Lutz, Sedef Adasï |
 
 ## Address
 

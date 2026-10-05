@@ -10,7 +10,7 @@ DURO is a music venue in Milan listed on soundcheck. 24 upcoming gigs, with line
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | ECHO - Shonky | Shonky |
 | Fri, 9 Oct 2026 | Echo // Shonky | Shonky |
-| Sat, 10 Oct 2026 | MOAB at Duro Club with Daniel Avery, Burden b2b secret guest (UK), Leena | Burden, Daniel Avery, Leena |
+| Sat, 10 Oct 2026 | MOAB at Duro Club with Daniel Avery(UK), Burden b2b secret guest (IT), Leena | Burden, Daniel Avery, Leena |
 | Sat, 10 Oct 2026 | MOAB - Daniel Avery | Daniel Avery |
 | Sat, 10 Oct 2026 | MOAB // Daniel Avery | Daniel Avery |
 | Fri, 16 Oct 2026 | SOS - Gene On Earth | Gene On Earth |

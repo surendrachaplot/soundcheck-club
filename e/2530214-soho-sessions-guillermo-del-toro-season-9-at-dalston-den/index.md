@@ -1,6 +1,6 @@
 # SOHO SESSIONS • GUILLERMO DEL TORO • SEASON 9 at Dalston Den
 
-SOHO SESSIONS • GUILLERMO DEL TORO • SEASON 9 at Dalston Den on Fri 30 Oct, London. 4 artists: Adela, KOKOH, Natalie K Marsland and VENERE. Techno and House. See the line-up on soundcheck.
+SOHO SESSIONS • GUILLERMO DEL TORO • SEASON 9 at Dalston Den on Fri 30 Oct, London. 3 artists: Adela, KOKOH and Natalie K Marsland. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,5 @@ SOHO SESSIONS • GUILLERMO DEL TORO • SEASON 9 at Dalston Den on Fri 30 Oct, 
 - Adela
 - KOKOH
 - Natalie K Marsland
-- VENERE
 
 *Source: [soundcheck](https://soundcheck.club/e/2530214-soho-sessions-guillermo-del-toro-season-9-at-dalston-den/)*

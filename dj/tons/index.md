@@ -1,14 +1,15 @@
 # TONS
 
-TONS is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at IDRA, Manchester on Sat, 10 Oct 2026.
+TONS is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at IDRA, Manchester on Sat, 10 Oct 2026.
 
-TONS is a tech house and house artist based in Venezuela, with 117 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 18 more. Often billed alongside Miguelle, Ben Sterling and Marco Carola. Next up: IDRA, Manchester on Sat 10 Oct.
+TONS is a tech house and house artist based in Venezuela, with 118 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 19 more. Often billed alongside Miguelle, Ben Sterling and Marco Carola. Next up: IDRA, Manchester on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | IDRA | Manchester |
+| Sat, 24 Oct 2026 | Amnesia Milano | Milan |
 | Sat, 28 Nov 2026 | TBA | Mexico City |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Sat, 12 Dec 2026 | Bohemia Beach Club | Dubai |

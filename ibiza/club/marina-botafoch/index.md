@@ -2,13 +2,13 @@
 
 Marina Botafoch is a music venue in Ibiza with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. The next is "Homies IBIZA · LOVE · BOAT PARTY" on Mon, 12 Oct 2026.
 
-Marina Botafoch is a music venue in Ibiza listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Paseo Marítimo s/n 7800 Ibiza -Baleares.
+Marina Botafoch is a music venue in Ibiza listed on soundcheck. 1 upcoming gig, with line-ups including Camilo Miranda, Christian Len, Luca Averna and Sadeedo and 1 more. See dates, start times and who's playing. Paseo Marítimo s/n 7800 Ibiza -Baleares.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 12 Oct 2026 | Homies IBIZA · LOVE · BOAT PARTY |  |
+| Mon, 12 Oct 2026 | Homies IBIZA · LOVE · BOAT PARTY | Camilo Miranda, Christian Len, Luca Averna, Sadeedo, VILA (BCN) |
 
 ## Address
 

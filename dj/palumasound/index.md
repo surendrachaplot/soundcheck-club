@@ -1,8 +1,8 @@
 # Paluma Sound
 
-Paluma Sound is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Forge, Bucharest on Fri, 9 Oct 2026.
+Paluma Sound is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Forge, Bucharest on Fri, 9 Oct 2026.
 
-Paluma Sound is a house and techno artist based in United States of America, with 30 gigs on soundcheck across Belgrade, Berlin, Bristol and Bucharest and 6 more. Often billed alongside Shaolin Cowboy, sunflwr and DJ Houseplants. Next up: Forge, Bucharest on Fri 9 Oct.
+Paluma Sound is a house and techno artist based in United States of America, with 31 gigs on soundcheck across Belgrade, Berlin, Bristol and Bucharest and 7 more. Often billed alongside Shaolin Cowboy, sunflwr and DJ Houseplants. Next up: Forge, Bucharest on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Paluma Sound is a house and techno artist based in United States of America, wit
 | Fri, 9 Oct 2026 | Forge | Bucharest |
 | Tue, 27 Oct 2026 | Fuchs2 | Prague |
 | Fri, 30 Oct 2026 | Bi Nuu | Berlin |
+| Fri, 6 Nov 2026 | Gallery 1986 | Vilnius |
 | Sat, 7 Nov 2026 | KC Grad | Belgrade |
 | Sat, 14 Nov 2026 | Phonox | London |
 

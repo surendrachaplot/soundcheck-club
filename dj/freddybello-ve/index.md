@@ -1,14 +1,14 @@
 # Freddy Bello
 
-Freddy Bello is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at NIX Barcelon, Barcelona on Fri, 16 Oct 2026.
+Freddy Bello is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at NIX Barcelona, Barcelona on Fri, 16 Oct 2026.
 
-Freddy Bello is a tech house and house artist, with 35 gigs on soundcheck across Barcelona, Boston, Ibiza and Madrid and 1 more. Often billed alongside HANIE, Rubenus and Sebastian Ledher. Next up: NIX Barcelon, Barcelona on Fri 16 Oct.
+Freddy Bello is a tech house and house artist, with 35 gigs on soundcheck across Barcelona, Boston, Ibiza and Madrid and 1 more. Often billed alongside HANIE, Rubenus and Sebastian Ledher. Next up: NIX Barcelona, Barcelona on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | NIX Barcelon | Barcelona |
+| Fri, 16 Oct 2026 | NIX Barcelona | Barcelona |
 
 ## Recently played
 

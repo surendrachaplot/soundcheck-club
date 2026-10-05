@@ -2,7 +2,7 @@
 
 Hamadi is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 11 Oct 2026.
 
-Hamadi is a techno and experimental artist based in United States of America, with 7 gigs on soundcheck across New York City. Often billed alongside 8ULENTINA, Peregrine (US) and Arushi Jain. Next up: Bossa Nova Civic Club, New York City on Sun 11 Oct.
+Hamadi is a techno and experimental artist based in United States of America, with 7 gigs on soundcheck across New York City. Often billed alongside 8ULENTINA, Peregrine (US) and A7ba L Jelly. Next up: Bossa Nova Civic Club, New York City on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ Hamadi is a techno and experimental artist based in United States of America, wi
 
 ## Shares bills with
 
-8ULENTINA, Peregrine (US), Arushi Jain
+8ULENTINA, Peregrine (US), A7ba L Jelly
 
 *Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hamadi/)*

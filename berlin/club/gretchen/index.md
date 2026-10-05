@@ -1,14 +1,13 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 43 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "15 Years Gretchen:  RYMDEN *live" on Mon, 5 Oct 2026.
+Gretchen is a music venue in Berlin with 42 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "15 Years Gretchen: THEE SINSEERS *live" on Wed, 7 Oct 2026.
 
-Gretchen is a music venue in Berlin listed on soundcheck. 43 upcoming gigs, with line-ups including Acid Arab, Alley Cat, alllone and Allynx and 2 more. See dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
+Gretchen is a music venue in Berlin listed on soundcheck. 42 upcoming gigs, with line-ups including Acid Arab, Alley Cat, alllone and Allynx and 2 more. See dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 5 Oct 2026 | 15 Years Gretchen:  RYMDEN *live |  |
 | Wed, 7 Oct 2026 | 15 Years Gretchen: THEE SINSEERS *live |  |
 | Fri, 9 Oct 2026 | 15 Years Gretchen: MR. SCRUFF & MOE | Mr Scruff, moe. |
 | Sat, 10 Oct 2026 | 15 Years Gretchen: JOSHUA IDEHEN *live | Femdelic |
@@ -18,6 +17,7 @@ Gretchen is a music venue in Berlin listed on soundcheck. 43 upcoming gigs, with
 | Fri, 16 Oct 2026 | 15 Years Gretchen: Acid Arab - LA HAFLA WEEKENDER Day 2 | Acid Arab |
 | Sun, 18 Oct 2026 | 15 Years Gretchen: Takuya Nakamura | Takuya Nakamura |
 | Thu, 22 Oct 2026 | G SESSIONS - 360 ° (Live) Show feat. JAMIE LEEMING, BREKKY BOY & MAXED OUT |  |
+| Fri, 23 Oct 2026 | Skeler |  |
 
 ## Address
 

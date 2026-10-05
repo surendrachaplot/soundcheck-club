@@ -1,8 +1,8 @@
 # The Classic Grand
 
-The Classic Grand is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "NSN presents: THE CIRCUIT 003 with MAHTAL, SWANNY and more" on Fri, 9 Oct 2026.
+The Classic Grand is a music venue in Glasgow with 14 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "NSN presents: THE CIRCUIT 003 with MAHTAL, SWANNY and more" on Fri, 9 Oct 2026.
 
-The Classic Grand is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs, with line-ups including 2 Sick Puppiez, Argy(uk), Charlie B and Dougal and 2 more. See dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
+The Classic Grand is a music venue in Glasgow listed on soundcheck. 14 upcoming gigs, with line-ups including 2 Sick Puppiez, Argy(uk), Charlie B and Dougal and 2 more. See dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
 
 ## What's on
 

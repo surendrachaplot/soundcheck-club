@@ -1,6 +1,6 @@
 # Der 8. Tag by Electroamore at Unter Deck
 
-Der 8. Tag by Electroamore at Unter Deck on Sat 14 Nov, Munich. 3 artists: DJ FM & DJ FREUND, Fej:tal and RONNY. Techno and Electro. See the line-up on soundcheck.
+Der 8. Tag by Electroamore at Unter Deck on Sat 14 Nov, Munich. 4 artists: Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND, Fej:tal and RONNY. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Der 8. Tag by Electroamore at Unter Deck on Sat 14 Nov, Munich. 3 artists: DJ FM
 
 ## Line-up
 
+- Die Tektonische Plattenverschiebung
 - DJ FM & DJ FREUND
 - Fej:tal
 - RONNY

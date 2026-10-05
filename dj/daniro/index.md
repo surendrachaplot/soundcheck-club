@@ -1,14 +1,15 @@
 # Daniro
 
-Daniro is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Lunchbox, Atlanta on Sat, 10 Oct 2026.
+Daniro is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Lunchbox, Atlanta on Sat, 10 Oct 2026.
 
-Daniro is a club and techno artist based in United States of America, with 102 gigs on soundcheck across Atlanta, Chicago, Helsinki and Los Angeles and 4 more. Often billed alongside Bodegaparty, PINKYY and shekdash. Next up: Lunchbox, Atlanta on Sat 10 Oct.
+Daniro is a club and techno artist based in United States of America, with 103 gigs on soundcheck across Atlanta, Chicago, Helsinki and Los Angeles and 4 more. Often billed alongside Bodegaparty, PINKYY and shekdash. Next up: Lunchbox, Atlanta on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Lunchbox | Atlanta |
+| Sat, 24 Oct 2026 | TBA - Brooklyn | New York City |
 | Sat, 31 Oct 2026 | TBA | Los-angeles |
 
 ## Recently played

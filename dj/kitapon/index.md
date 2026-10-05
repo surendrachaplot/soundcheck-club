@@ -1,13 +1,14 @@
 # kitapon
 
-kitapon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at West Harlem, Kyoto on Sat, 24 Oct 2026.
+kitapon is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at West Harlem, Kyoto on Wed, 14 Oct 2026.
 
-kitapon is a house and techno artist based in Japan, with 98 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Lomax, droove and Ryogo. Next up: West Harlem, Kyoto on Sat 24 Oct.
+kitapon is a house and techno artist based in Japan, with 99 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Lomax, droove and Ryogo. Next up: West Harlem, Kyoto on Wed 14 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 14 Oct 2026 | West Harlem | Kyoto |
 | Sat, 24 Oct 2026 | West Harlem | Kyoto |
 | Sat, 31 Oct 2026 | West Harlem | Kyoto |
 

@@ -1,14 +1,13 @@
 # Val Vashar
 
-Val Vashar is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Val Vashar is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Rote Flora, Hamburg on Sat, 17 Oct 2026.
 
-Val Vashar is a techno and psytrance artist based in Croatia, with 12 gigs on soundcheck across Amsterdam, Basel, Berlin and Bristol and 5 more. Often billed alongside Adriana Lopez, Innersha and Josephine Wedekind. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
+Val Vashar is a techno and psytrance artist based in Croatia, with 12 gigs on soundcheck across Amsterdam, Basel, Berlin and Bristol and 5 more. Often billed alongside Adriana Lopez, Innersha and Josephine Wedekind. Next up: Rote Flora, Hamburg on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
 | Sat, 17 Oct 2026 | Rote Flora | Hamburg |
 
 ## Recently played

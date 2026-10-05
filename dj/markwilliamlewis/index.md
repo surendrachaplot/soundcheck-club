@@ -9,7 +9,7 @@ Mark William Lewis is an experimental and hip-hop artist based in United Kingdom
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
-| Thu, 8 Oct 2026 | TBA | Krakow |
+| Thu, 8 Oct 2026 | Teatr Łaźnia Nowa | Krakow |
 | Wed, 21 Oct 2026 | Plan B | Malmo |
 
 ## Recently played

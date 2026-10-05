@@ -1,8 +1,8 @@
 # LSB
 
-LSB is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+LSB is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
-LSB is a drum & bass and jungle artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 24 more. Often billed alongside DRS, MC Fox and Workforce. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
+LSB is a drum & bass and jungle artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 24 more. Often billed alongside DRS, MC Fox and Workforce. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ LSB is a drum & bass and jungle artist based in United Kingdom, with 63 gigs on 
 | Sat, 17 Oct 2026 | Sound Machine | Toronto |
 | Sat, 24 Oct 2026 | Phonox | London |
 | Sat, 31 Oct 2026 | Volks | Brighton |
+| Sat, 19 Dec 2026 | M.O.T | London |
 
 ## Recently played
 

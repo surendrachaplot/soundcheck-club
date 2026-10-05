@@ -1,14 +1,13 @@
 # Mama Snake
 
-Mama Snake is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Mama Snake is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 10 Oct 2026.
 
-Mama Snake is a techno and trance artist based in Denmark, with 203 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 52 more. Often billed alongside Spekki Webu, BASHKKA and DJ TOOL. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
+Mama Snake is a techno and trance artist based in Denmark, with 203 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 52 more. Often billed alongside Spekki Webu, BASHKKA and DJ TOOL. Next up: RSO.BERLIN, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
 | Sat, 10 Oct 2026 | RSO.BERLIN | Berlin |
 | Fri, 23 Oct 2026 | De Fik Garden | Amsterdam |
 | Sat, 31 Oct 2026 | FOLD | London |

@@ -1,14 +1,15 @@
 # Ste Flynn
 
-Ste Flynn is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Centre Point, Dublin on Fri, 20 Nov 2026.
+Ste Flynn is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Centre Point, Dublin on Fri, 20 Nov 2026.
 
-Ste Flynn is a progressive house and deep house artist, with 33 gigs on soundcheck across Berlin and Dublin. Often billed alongside Mulljoy, Paul Gill and seboro. Next up: Centre Point, Dublin on Fri 20 Nov.
+Ste Flynn is a progressive house and deep house artist, with 34 gigs on soundcheck across Berlin and Dublin. Often billed alongside Mulljoy, Paul Gill and seboro. Next up: Centre Point, Dublin on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Centre Point | Dublin |
+| Sat, 28 Nov 2026 | block. | Dublin |
 
 ## Recently played
 

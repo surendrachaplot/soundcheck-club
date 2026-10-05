@@ -1,14 +1,13 @@
 # Deejay Energy
 
-Deejay Energy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at West Harlem, Kyoto on Mon, 5 Oct 2026.
+Deejay Energy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Triangle, Osaka on Wed, 14 Oct 2026.
 
-Deejay Energy is a techno and house artist based in Mexico, with 78 gigs on soundcheck across Amsterdam, Athens, Berlin and Boston and 6 more. Often billed alongside Enya Botello, Bluecommand and Phanta. Next up: West Harlem, Kyoto on Mon 5 Oct.
+Deejay Energy is a techno and house artist based in Mexico, with 78 gigs on soundcheck across Amsterdam, Athens, Berlin and Boston and 6 more. Often billed alongside Enya Botello, Bluecommand and Phanta. Next up: Triangle, Osaka on Wed 14 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 5 Oct 2026 | West Harlem | Kyoto |
 | Wed, 14 Oct 2026 | Triangle | Osaka |
 
 ## Recently played

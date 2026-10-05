@@ -1,14 +1,15 @@
 # Monarch
 
-Monarch is a music venue in San Francisco/Oakland with 12 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Linska" on Fri, 9 Oct 2026.
+Monarch is a music venue in San Francisco/Oakland with 13 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Linska" on Fri, 9 Oct 2026.
 
-Monarch is a music venue in San Francisco/Oakland listed on soundcheck. 12 upcoming gigs, with line-ups including 1OO1O, 2AT, arktoi and BAD JUUJU and 2 more. See dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
+Monarch is a music venue in San Francisco/Oakland listed on soundcheck. 13 upcoming gigs, with line-ups including 1OO1O, 2AT, arktoi and BAD JUUJU and 2 more. See dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Linska | Linska |
+| Sat, 10 Oct 2026 | ELECTRIC FIELDS After Party |  |
 | Thu, 15 Oct 2026 | Bump | Huffy (2) |
 | Fri, 16 Oct 2026 | THEMATIC ENTERTAINMENT x PROPER TINGS PRESENT: DR. USHŪU & TWO SWORDS |  |
 | Sat, 17 Oct 2026 | REGGAETON MEXA vs. REGGAETON PR | EarthAngel |
@@ -17,7 +18,6 @@ Monarch is a music venue in San Francisco/Oakland listed on soundcheck. 12 upcom
 | Thu, 29 Oct 2026 | Random Access: RNDM-AXS _ 1029 - 'Halloween Special | Byter, KAJE |
 | Sat, 31 Oct 2026 | THE AFTERLIFE |  |
 | Sat, 14 Nov 2026 | Mostly Cloudy: Regal86 + 1OO1O | 1OO1O, BAD JUUJU, Julia Rose, NATHALIA (2), Regal86, S.I.M, Saffaire, Skiis |
-| Fri, 20 Nov 2026 | Marsolo | Marsolo |
 
 ## Address
 

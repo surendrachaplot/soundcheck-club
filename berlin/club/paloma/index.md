@@ -9,7 +9,7 @@ Paloma is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, with l
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | pre:sense [vinyl only] | Elvin, Erik Jabari |
-| Fri, 9 Oct 2026 | Rengade Snares | Bassdee, Sven von Thülen |
+| Fri, 9 Oct 2026 | Renegade Snares | Bassdee, Sven von Thülen |
 | Fri, 9 Oct 2026 | Aquatic Travellers Vol. 13 | Black Mirror Park, Lily Haz, bb:fm |
 | Sat, 10 Oct 2026 | Grow! For It | Jonny Nemetz |
 | Sat, 10 Oct 2026 | MUSTER: SIDE B  | KaioBarssalos, MASCHA, TEHOTU |

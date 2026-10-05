@@ -16,7 +16,7 @@ M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with li
 | Sat, 24 Oct 2026 | Goanautika w./ Bliss | Allexandra, Azura, Basstronauten, Bliss (1), Daniel Boon, LORD of Psychedelics (2) |
 | Fri, 30 Oct 2026 | Nyctophilia | NYXEA, SON!CA |
 | Sat, 31 Oct 2026 | Intoxication Halloween SPECIAL |  |
-| Fri, 6 Nov 2026 | 9Y TEKKNOLOGIE |  |
+| Fri, 6 Nov 2026 | 9Y TEKKNOLOGIE  • D-FENCE • FABITEKK • BEATFORCE • WOLLI • EYCER • KOKSBERG • PHIEISI • SNAKE16 | Tekk, Tekk DJ'z, Tekk Nikk, Tekknik |
 | Sat, 7 Nov 2026 | GOA Special pres Reverence [Brasilian Psytrance] |  |
 
 ## Address

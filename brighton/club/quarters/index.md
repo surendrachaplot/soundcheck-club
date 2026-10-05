@@ -1,8 +1,8 @@
 # Quarters
 
-Quarters is a music venue in Brighton with 15 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "SuperCharged presents Amplify & Basstripper" on Fri, 9 Oct 2026.
+Quarters is a music venue in Brighton with 16 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "SuperCharged presents Amplify & Basstripper" on Fri, 9 Oct 2026.
 
-Quarters is a music venue in Brighton listed on soundcheck. 15 upcoming gigs, with line-ups including 4am Kru, Acid Carbon, Andy C and Basstripper and 2 more. See dates, start times and who's playing. 187-193 Kings Road, Brighton, BN1 1NB.
+Quarters is a music venue in Brighton listed on soundcheck. 16 upcoming gigs, with line-ups including 4am Kru, Acid Carbon, Andy C and Basstripper and 2 more. See dates, start times and who's playing. 187-193 Kings Road, Brighton, BN1 1NB.
 
 ## What's on
 

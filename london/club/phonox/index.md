@@ -1,8 +1,8 @@
 # Phonox
 
-Phonox is a music venue in London with 36 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Insomnia London: Shirley Temper, Tino & Ned Spencer" on Thu, 8 Oct 2026.
+Phonox is a music venue in London with 37 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Insomnia London: Shirley Temper, Tino & Ned Spencer" on Thu, 8 Oct 2026.
 
-Phonox is a music venue in London listed on soundcheck. 36 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Amy Os, Angel D'lite and Anish Kumar and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
+Phonox is a music venue in London listed on soundcheck. 37 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Amy Os, Angel D'lite and Anish Kumar and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Phonox is a music venue in London listed on soundcheck. 36 upcoming gigs, with l
 | Sat, 17 Oct 2026 | A LOVE FROM OUTER SPACE (All Day Long) | A LOVE FROM OUTER SPACE, Sean Johnston |
 | Thu, 22 Oct 2026 | Insomnia London: Paleman, Buckfast Barbie & DJelley | Buckfast Barbie, DJelley, Paleman |
 | Fri, 23 Oct 2026 | Anish Kumar (All Night Long): 4 Fridays at Phonox (Closing Party)  | Anish Kumar |
-| Sat, 24 Oct 2026 | Mr. Scruff (6 Hour DJ Set) | Mr Scruff, Vanessa Freeman |
+| Sat, 24 Oct 2026 | Mr. Scruff (All Day Long) | Mr Scruff, Vanessa Freeman |
 
 ## Address
 

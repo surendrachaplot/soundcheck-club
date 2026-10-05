@@ -14,7 +14,7 @@ Dalston Den is a music venue in London listed on soundcheck. 13 upcoming gigs, w
 | Thu, 22 Oct 2026 | Halloween 2026 |  |
 | Fri, 23 Oct 2026 | Jex on Dex presents: Last Dance in the Den | Jex on Dex |
 | Sat, 24 Oct 2026 | One Foot in the Rave - 3rd Birthday | AMAR (UK), David Ramsay, Yazmin (UK), bubushko |
-| Fri, 30 Oct 2026 | SOHO SESSIONS • GUILLERMO DEL TORO • SEASON 9  | Adela, KOKOH, Natalie K Marsland, VENERE |
+| Fri, 30 Oct 2026 | SOHO SESSIONS • GUILLERMO DEL TORO • SEASON 9  | Adela, KOKOH, Natalie K Marsland |
 | Fri, 6 Nov 2026 | Breakaway: Free Entry Before 12am - Jungle / Drum & Bass |  |
 | Fri, 13 Nov 2026 | Breakaway: Free Entry Before 12am - Jungle / Drum & Bass |  |
 | Fri, 27 Nov 2026 | Breakaway: Autumn Residency Closing Party - Jungle / Drum & Bass |  |

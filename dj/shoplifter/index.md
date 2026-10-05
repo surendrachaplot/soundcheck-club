@@ -1,8 +1,8 @@
 # Shoplifter
 
-Shoplifter is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Prisma, Berlin on Tue, 13 Oct 2026.
+Shoplifter is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Prisma, Berlin on Tue, 13 Oct 2026.
 
-Shoplifter is a techno and house artist based in Belgium, with 64 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 6 more. Often billed alongside DC Noises, Casper and KŌMA. Next up: Prisma, Berlin on Tue 13 Oct.
+Shoplifter is a techno and house artist based in Belgium, with 65 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 6 more. Often billed alongside DC Noises, Casper and KŌMA. Next up: Prisma, Berlin on Tue 13 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Shoplifter is a techno and house artist based in Belgium, with 64 gigs on soundc
 | --- | --- | --- |
 | Tue, 13 Oct 2026 | Prisma | Berlin |
 | Fri, 23 Oct 2026 | Pllek | Amsterdam |
+| Sat, 7 Nov 2026 | Botanique | Brussels |
 
 ## Recently played
 

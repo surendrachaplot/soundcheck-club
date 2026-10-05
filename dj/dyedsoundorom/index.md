@@ -1,8 +1,8 @@
 # Dyed Soundorom
 
-Dyed Soundorom is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at FOLD, London on Sat, 10 Oct 2026.
+Dyed Soundorom is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at FOLD, London on Sat, 10 Oct 2026.
 
-Dyed Soundorom is a house and tech house artist based in France, with 227 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 54 more. Often billed alongside Shonky, Apollonia and Dan Ghenacia. Next up: FOLD, London on Sat 10 Oct.
+Dyed Soundorom is a house and tech house artist based in France, with 228 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 54 more. Often billed alongside Shonky, Apollonia and Dan Ghenacia. Next up: FOLD, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Dyed Soundorom is a house and tech house artist based in France, with 227 gigs o
 | Fri, 13 Nov 2026 | Stardust Garage | Austin |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
+| Fri, 4 Dec 2026 | Floyd | Miami |
 
 ## Recently played
 

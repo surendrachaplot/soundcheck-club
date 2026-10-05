@@ -1,13 +1,14 @@
 # Supernature Disco
 
-Supernature Disco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Trades Club, North on Sat, 31 Oct 2026.
+Supernature Disco is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Joshua Brooks, Manchester on Sun, 25 Oct 2026.
 
-Supernature Disco is a house and disco artist based in United Kingdom, with 54 gigs on soundcheck across London, Manchester, Newcastle and North. Often billed alongside James Greenwood, Chris Massey and Jamie Bull. Next up: Trades Club, North on Sat 31 Oct.
+Supernature Disco is a house and disco artist based in United Kingdom, with 55 gigs on soundcheck across London, Manchester, Newcastle and North. Often billed alongside James Greenwood, Chris Massey and Jamie Bull. Next up: Joshua Brooks, Manchester on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 25 Oct 2026 | Joshua Brooks | Manchester |
 | Sat, 31 Oct 2026 | Trades Club | North |
 
 ## Recently played

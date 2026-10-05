@@ -1,14 +1,15 @@
 # Andres Campo
 
-Andres Campo is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Sophie Festival, Malaga on Sun, 1 Nov 2026.
+Andres Campo is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Sophie Festival, Malaga on Sun, 1 Nov 2026.
 
-Andres Campo is a techno and tech house artist based in Spain, with 80 gigs on soundcheck across Amsterdam, Bali, Barcelona and Buenos Aires and 15 more. Often billed alongside Fatima Hajji, Luca Donzelli and Luxi Villar. Next up: Sophie Festival, Malaga on Sun 1 Nov.
+Andres Campo is a techno and tech house artist based in Spain, with 81 gigs on soundcheck across Amsterdam, Bali, Barcelona and Buenos Aires and 15 more. Often billed alongside Fatima Hajji, Luca Donzelli and Luxi Villar. Next up: Sophie Festival, Malaga on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | Sophie Festival | Malaga |
+| Fri, 1 Jan 2027 | Fabrik | Madrid |
 
 ## Recently played
 

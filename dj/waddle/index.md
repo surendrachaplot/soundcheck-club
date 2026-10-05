@@ -1,13 +1,14 @@
 # WADDLE
 
-WADDLE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Mood Ring, New York City on Sat, 17 Oct 2026.
+WADDLE is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Bolero, Seoul on Thu, 8 Oct 2026.
 
-WADDLE is a techno and house artist based in United States of America, with 65 gigs on soundcheck across New York City, San Francisco/Oakland and Seoul. Often billed alongside duco, NIJEII and y2aura. Next up: Mood Ring, New York City on Sat 17 Oct.
+WADDLE is a techno and house artist based in United States of America, with 66 gigs on soundcheck across New York City, San Francisco/Oakland and Seoul. Often billed alongside duco, NIJEII and y2aura. Next up: Bolero, Seoul on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 8 Oct 2026 | Bolero | Seoul |
 | Sat, 17 Oct 2026 | Mood Ring | New York City |
 | Sat, 14 Nov 2026 | Elsewhere | New York City |
 

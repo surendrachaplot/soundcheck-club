@@ -2,7 +2,7 @@
 
 Equus Belli is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at La Station - Gare des Mines, Paris on Sun, 11 Oct 2026.
 
-Equus Belli is a techno and house artist based in France, with 23 gigs on soundcheck across Berlin and Paris. Often billed alongside A.Litique, Litoshka and Maris Shilton. Next up: La Station - Gare des Mines, Paris on Sun 11 Oct.
+Equus Belli is a techno and house artist based in France, with 23 gigs on soundcheck across Berlin and Paris. Often billed alongside A.Litique, Litoshka and Lea Occhi. Next up: La Station - Gare des Mines, Paris on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Equus Belli is a techno and house artist based in France, with 23 gigs on soundc
 
 ## Shares bills with
 
-A.Litique, Litoshka, Maris Shilton
+A.Litique, Litoshka, Lea Occhi
 
 *Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/equusbelli/)*

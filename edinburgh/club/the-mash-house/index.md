@@ -8,7 +8,7 @@ The Mash House is a music venue in Edinburgh listed on soundcheck. 4 upcoming gi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Night Tube // MASH HOUSE SPECIAL | Ben Kok (2), Casi (UK), Pheebs |
+| Fri, 9 Oct 2026 | Night Tube // MASH HOUSE SPECIAL | Ben Kok (2), Casi (UK), Iris Seery, Pheebs |
 | Sat, 10 Oct 2026 | CRT presents NewTone // Inafekt | CLEAR UK, DJ PLANE-SPOTTER, Inafekt, NewTone, Phoebe Roper |
 | Sat, 10 Oct 2026 | Underground Solution 30th Birthday Party (Part 1) | Accident Machine, Euan Fryer, G-Mac, George T, Proc Fiskal, Rebecca Vasmant, discjocelyne |
 | Fri, 30 Oct 2026 | CALYX - Halloween Hell Raiser pt.II: Lineup TBA |  |

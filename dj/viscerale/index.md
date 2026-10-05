@@ -1,14 +1,15 @@
 # Viscerale
 
-Viscerale is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at OXI, Berlin on Tue, 27 Oct 2026.
+Viscerale is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at OXI, Berlin on Tue, 27 Oct 2026.
 
-Viscerale is a techno and trance artist based in Germany, with 60 gigs on soundcheck across Amsterdam, Berlin, Budapest and Copenhagen and 9 more. Often billed alongside LØUS, FLUCC and Dagobird. Next up: OXI, Berlin on Tue 27 Oct.
+Viscerale is a techno and trance artist based in Germany, with 61 gigs on soundcheck across Amsterdam, Berlin, Budapest and Copenhagen and 9 more. Often billed alongside LØUS, FLUCC and Dagobird. Next up: OXI, Berlin on Tue 27 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 27 Oct 2026 | OXI | Berlin |
+| Fri, 30 Oct 2026 | OST | Berlin |
 
 ## Recently played
 

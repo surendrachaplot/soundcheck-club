@@ -1,14 +1,15 @@
 # Velvet Pistol
 
-Velvet Pistol is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Wed, 14 Oct 2026.
+Velvet Pistol is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Wed, 14 Oct 2026.
 
-Velvet Pistol is a house and tech house artist based in United States of America, with 13 gigs on soundcheck across San Francisco/Oakland. Often billed alongside DJ Parrot, Olly Junglist and RCA. Next up: F8 1192 Folsom, San Francisco/Oakland on Wed 14 Oct.
+Velvet Pistol is a house and tech house artist based in United States of America, with 14 gigs on soundcheck across San Francisco/Oakland. Often billed alongside DJ Parrot, Olly Junglist and RCA. Next up: F8 1192 Folsom, San Francisco/Oakland on Wed 14 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 14 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
+| Sat, 31 Oct 2026 | TBA - Gold Bar Distillery Treasure Island | San Francisco/Oakland |
 
 ## Recently played
 

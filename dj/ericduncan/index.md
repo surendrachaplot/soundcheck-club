@@ -1,13 +1,14 @@
 # Eric Duncan
 
-Eric Duncan is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Potato Head Beach Club, Bali on Fri, 16 Oct 2026.
+Eric Duncan is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Yoshibar, Bangkok on Sat, 10 Oct 2026.
 
-Eric Duncan is a house and disco artist based in United States of America, with 59 gigs on soundcheck across Athens, Bali, Bangkok and Belgrade and 20 more. Often billed alongside FFAN, Monkey Timers and YOSHIHAARAA. Next up: Potato Head Beach Club, Bali on Fri 16 Oct.
+Eric Duncan is a house and disco artist based in United States of America, with 60 gigs on soundcheck across Athens, Bali, Bangkok and Belgrade and 20 more. Often billed alongside FFAN, Monkey Timers and YOSHIHAARAA. Next up: Yoshibar, Bangkok on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Yoshibar | Bangkok |
 | Fri, 16 Oct 2026 | Potato Head Beach Club | Bali |
 | Fri, 23 Oct 2026 | VENT | Tokyo |
 | Fri, 30 Oct 2026 | BAR Inc | Osaka |

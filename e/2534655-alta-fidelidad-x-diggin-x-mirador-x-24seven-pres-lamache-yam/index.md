@@ -1,6 +1,6 @@
 # Alta Fidelidad x Diggin' x Mirador x 24seven pres. Lamache, Yamour, Voodoos & Taboos - 2 stages at Seaseaclub Barcelona
 
-Alta Fidelidad x Diggin' x Mirador x 24seven pres. Lamache, Yamour, Voodoos & Taboos - 2 stages at Seaseaclub Barcelona on Sat 10 Oct, Barcelona. 11 artists: arnald, Camion Bazar, Diesco and Lamache and 7 more. Techno and House. See the line-up on soundcheck.
+Alta Fidelidad x Diggin' x Mirador x 24seven pres. Lamache, Yamour, Voodoos & Taboos - 2 stages at Seaseaclub Barcelona on Sat 10 Oct, Barcelona. 10 artists: arnald, Diesco, Lamache and Nancy and 6 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Alta Fidelidad x Diggin' x Mirador x 24seven pres. Lamache, Yamour, Voodoos & Ta
 ## Line-up
 
 - arnald
-- Camion Bazar
 - Diesco
 - Lamache
 - Nancy (3)

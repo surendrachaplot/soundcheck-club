@@ -1,6 +1,6 @@
 # Snooze After Hours at NUMBER 90 LONDON
 
-Snooze After Hours at NUMBER 90 LONDON on Sun 1 Nov, London. 6 artists: Eric Cloutier, Ireen Amnes, Livid (UK) and Mister Willis and 2 more. Techno. See the line-up on soundcheck.
+Snooze After Hours at NUMBER 90 LONDON on Sun 1 Nov, London. 7 artists: Blasha & Allatt, Eric Cloutier, Ireen Amnes and Livid (UK) and 3 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Snooze After Hours at NUMBER 90 LONDON on Sun 1 Nov, London. 6 artists: Eric Clo
 
 ## Line-up
 
+- Blasha & Allatt
 - Eric Cloutier
 - Ireen Amnes
 - Livid (UK)

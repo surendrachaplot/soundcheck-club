@@ -1,8 +1,8 @@
 # mad miran
 
-mad miran is a Techno and Bass artist with 9 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Pawnshop, Taipei on Thu, 8 Oct 2026.
+mad miran is a Techno and Bass artist with 10 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Pawnshop, Taipei on Thu, 8 Oct 2026.
 
-mad miran is a techno and bass artist based in Netherlands, with 204 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 44 more. Often billed alongside Identified Patient, Pariah and DjRUM. Next up: Pawnshop, Taipei on Thu 8 Oct.
+mad miran is a techno and bass artist based in Netherlands, with 205 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 44 more. Often billed alongside Identified Patient, Pariah and DjRUM. Next up: Pawnshop, Taipei on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ mad miran is a techno and bass artist based in Netherlands, with 204 gigs on sou
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Sat, 24 Oct 2026 | Radio Radio | Amsterdam |
+| Sat, 24 Oct 2026 | ingang | Amsterdam |
 | Sun, 25 Oct 2026 | Skatecafe | Amsterdam |
 | Sat, 14 Nov 2026 | Plaza Monumental de Barcelona | Barcelona |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |

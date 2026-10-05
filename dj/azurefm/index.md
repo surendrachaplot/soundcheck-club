@@ -1,14 +1,13 @@
 # Azure
 
-Azure is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Planet Wax, London on Sun, 4 Oct 2026.
+Azure is a Club and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Cafe, San Francisco/Oakland on Thu, 15 Oct 2026.
 
-Azure is a club and house artist based in United States of America, with 47 gigs on soundcheck across Bristol, Chicago, London and Los Angeles and 2 more. Often billed alongside Bianca Maieli, CHRYSALIS and Pauliewog. Next up: Planet Wax, London on Sun 4 Oct.
+Azure is a club and house artist based in United States of America, with 47 gigs on soundcheck across Bristol, Chicago, London and Los Angeles and 2 more. Often billed alongside Bianca Maieli, CHRYSALIS and Pauliewog. Next up: The Cafe, San Francisco/Oakland on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Planet Wax | London |
 | Thu, 15 Oct 2026 | The Cafe | San Francisco/Oakland |
 
 ## Recently played

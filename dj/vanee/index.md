@@ -9,7 +9,7 @@ Vanee is a tech house and house artist based in Venezuela, with 27 gigs on sound
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Smokey Club | Amsterdam |
-| Fri, 23 Oct 2026 | NIX Barcelon | Barcelona |
+| Fri, 23 Oct 2026 | NIX Barcelona | Barcelona |
 
 ## Recently played
 

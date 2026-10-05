@@ -1,13 +1,14 @@
 # DJ LoveCatt
 
-DJ LoveCatt is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Stadtgarten Konzertsaal / Cafe, Cologne on Sat, 7 Nov 2026.
+DJ LoveCatt is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Kulturhuset Indre By, Copenhagen on Sun, 18 Oct 2026.
 
-DJ LoveCatt is a house and techno artist based in Denmark, with 69 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen. Often billed alongside Robin Flux, CAYOOTEE and Ghosten. Next up: Stadtgarten Konzertsaal / Cafe, Cologne on Sat 7 Nov.
+DJ LoveCatt is a house and disco artist based in Denmark, with 70 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen. Often billed alongside Robin Flux, CAYOOTEE and Ghosten. Next up: Kulturhuset Indre By, Copenhagen on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 18 Oct 2026 | Kulturhuset Indre By | Copenhagen |
 | Sat, 7 Nov 2026 | Stadtgarten Konzertsaal / Cafe | Cologne |
 | Sat, 5 Dec 2026 | Paloma | Berlin |
 

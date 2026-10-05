@@ -1,13 +1,14 @@
 # Rikuto
 
-Rikuto is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Club Daphnia, Osaka on Sat, 5 Dec 2026.
+Rikuto is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Mitsuki, Tokyo on Tue, 6 Oct 2026.
 
-Rikuto is a techno and house artist based in Japan, with 107 gigs on soundcheck across Brisbane, Osaka, Seoul and Tokyo. Often billed alongside Rikuto Shibazaki, Goodrug and KCD(JP). Next up: Club Daphnia, Osaka on Sat 5 Dec.
+Rikuto is a techno and house artist based in Japan, with 108 gigs on soundcheck across Brisbane, Osaka, Seoul and Tokyo. Often billed alongside Rikuto Shibazaki, Goodrug and KCD(JP). Next up: Mitsuki, Tokyo on Tue 6 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 6 Oct 2026 | Mitsuki | Tokyo |
 | Sat, 5 Dec 2026 | Club Daphnia | Osaka |
 
 ## Recently played

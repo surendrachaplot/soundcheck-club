@@ -1,8 +1,8 @@
 # Mia Cecille
 
-Mia Cecille is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 8 Oct 2026.
+Mia Cecille is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 8 Oct 2026.
 
-Mia Cecille is a house and techno artist based in Netherlands, with 91 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Berlin and 14 more. Often billed alongside Marie K, Daan Donk and 42nd Avenue. Next up: TILLATEC, Amsterdam on Thu 8 Oct.
+Mia Cecille is a house and techno artist based in Netherlands, with 92 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Berlin and 14 more. Often billed alongside Marie K, Daan Donk and 42nd Avenue. Next up: TILLATEC, Amsterdam on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Mia Cecille is a house and techno artist based in Netherlands, with 91 gigs on s
 | Thu, 8 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 9 Oct 2026 | BRET | Amsterdam |
 | Sat, 17 Oct 2026 | ASIAT Park | Brussels |
+| Sat, 24 Oct 2026 | ingang | Amsterdam |
 | Sat, 28 Nov 2026 | Garage Noord | Amsterdam |
 
 ## Recently played

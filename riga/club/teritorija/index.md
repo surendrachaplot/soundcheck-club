@@ -12,11 +12,11 @@ Teritorija is a music venue in Riga listed on soundcheck. 15 upcoming gigs, with
 | Sat, 10 Oct 2026 | Aniri Chan // Pulss | Aniri Chan, Pulss |
 | Fri, 16 Oct 2026 | Platz fur Tanz x Teritorija 10 Years Anniversary | Dmitry Puffin, Ksenia Kamikaza, Notwelcome, VLAD PHANGAN |
 | Sat, 17 Oct 2026 | Alexcel // Leksy | Leksy |
-| Fri, 23 Oct 2026 | // | ARRISHA, Ksenia Kamikaza, Measure Divide, UZAY |
+| Fri, 23 Oct 2026 | // | ARRISHA, Ksenia Kamikaza, Measure Divide, Pire, UZAY |
 | Sat, 24 Oct 2026 | Golden Habit | Golden Habit |
 | Fri, 30 Oct 2026 | mOZ // VLAD PHANGAN | VLAD PHANGAN, mOZ (2) |
 | Sat, 31 Oct 2026 | Esoniq | Esoniq |
-| Sat, 31 Oct 2026 | BASS SLAUGHTER x TRT: HALLOWEEN NIGHTMARE - Night | DENOVA, Leprosy, Marex Kai, RAWKORED, XSYNC19 |
+| Sat, 31 Oct 2026 | BASS SLAUGHTER x TRT: HALLOWEEN NIGHTMARE - Night | DENOVA, Esoniq, Leprosy, Marex Kai, RAWKORED, XSYNC19 |
 | Sat, 31 Oct 2026 | BASS SLAUGHTER session 7 (HALLOWEEN NIGHTMARE) - Evening | MVKO, XSYNC19, oshigakill |
 
 ## Address

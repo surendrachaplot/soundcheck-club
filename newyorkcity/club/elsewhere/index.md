@@ -1,8 +1,8 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Marsolo, JACK MARLOW, Natalia Roth, Blaise Bracic, cutback! + friends: LILLE, Dylan Rhee" on Fri, 16 Oct 2026.
+Elsewhere is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Marsolo, JACK MARLOW, Natalia Roth, Blaise Bracic, cutback! + friends: LILLE, Dylan Rhee" on Fri, 16 Oct 2026.
 
-Elsewhere is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including 6 SENSE, AEREA, Alex Farell and Ali RQ and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
+Elsewhere is a music venue in New York City listed on soundcheck. 16 upcoming gigs, with line-ups including 6 SENSE, AEREA, Alex Farell and Ali RQ and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
 ## What's on
 

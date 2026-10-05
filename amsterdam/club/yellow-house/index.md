@@ -8,7 +8,7 @@ Yellow House is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Nachtraaf: Y4R4 invites | DECADANCE, Lasse, Millyosa, Quincy (BE), Y4R4, inKKiss |
+| Fri, 9 Oct 2026 | Nachtraaf: Y4R4 invites | DECADANCE, Lasse, Millyosa, Y4R4, inKKiss |
 | Sat, 10 Oct 2026 | Femme Tale |  |
 | Fri, 16 Oct 2026 | Lemon Works | Mattia Rizzi |
 | Fri, 16 Oct 2026 | Lemon Works | Mattia Rizzi, Max (IT), RACH |

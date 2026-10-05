@@ -1,6 +1,6 @@
 # Tech House Night // Free entry before 9:30pm at Munster Munch
 
-Tech House Night // Free entry before 9:30pm at Munster Munch on Fri 9 Oct, London. 4 artists: Areeb Abbasi, Auseeb, Phåro and Picep. Tech House. See the line-up on soundcheck.
+Tech House Night // Free entry before 9:30pm at Munster Munch on Fri 9 Oct, London. 4 artists: Areeb Abbasi, Auseeb, Phåro and Selch. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,6 @@ Tech House Night // Free entry before 9:30pm at Munster Munch on Fri 9 Oct, Lond
 - Areeb Abbasi
 - Auseeb
 - Phåro (2)
-- Picep
+- Selch
 
 *Source: [soundcheck](https://soundcheck.club/e/2532630-tech-house-night-free-entry-before-9-30pm-at-munster-munch/)*

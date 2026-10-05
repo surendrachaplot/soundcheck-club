@@ -1,6 +1,6 @@
 # Disco Pastrami: STILL HUNGRY [OPENING NIGHT] at Ragoo
 
-Disco Pastrami: STILL HUNGRY [OPENING NIGHT] at Ragoo on Thu 15 Oct, Milan. 1 artist: Y-DAPT. House and Electronica. See the line-up on soundcheck.
+Disco Pastrami: STILL HUNGRY [OPENING NIGHT] at Ragoo on Thu 15 Oct, Milan. 2 artists: Dr. Dwarf and Y-DAPT. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Disco Pastrami: STILL HUNGRY [OPENING NIGHT] at Ragoo on Thu 15 Oct, Milan. 1 ar
 
 ## Line-up
 
+- Dr. Dwarf
 - Y-DAPT
 
 *Source: [soundcheck](https://soundcheck.club/e/2525036-disco-pastrami-still-hungry-opening-night-at-ragoo/)*

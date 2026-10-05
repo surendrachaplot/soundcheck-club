@@ -2,7 +2,7 @@
 
 Natalie K Marsland is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Dalston Den, London on Fri, 30 Oct 2026.
 
-Natalie K Marsland is a house and techno artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside KOKOH, VENERE and Adela. Next up: Dalston Den, London on Fri 30 Oct.
+Natalie K Marsland is a house and techno artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside KOKOH, Adela and Bibiminor. Next up: Dalston Den, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ Natalie K Marsland is a house and techno artist based in United Kingdom, with 4 
 
 ## Shares bills with
 
-KOKOH, VENERE, Adela
+KOKOH, Adela, Bibiminor
 
 *Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nataliekmarsland/)*

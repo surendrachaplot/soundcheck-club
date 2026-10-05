@@ -1,14 +1,13 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Vermilion" on Mon, 5 Oct 2026.
+Enter Shibuya is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "青山蜂 - Aoyama Hachi - × ENTER" on Tue, 6 Oct 2026.
 
-Enter Shibuya is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with line-ups including AMIDAdrive, Amps, Blackship and Dan-neo and 2 more. See dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
+Enter Shibuya is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with line-ups including AMIDAdrive, Amps, Blackship and comm and 2 more. See dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 5 Oct 2026 | Vermilion | kengotaki, megu |
 | Tue, 6 Oct 2026 | 青山蜂 - Aoyama Hachi - × ENTER | KUNPEI, LEFTOLD, Sunga, U-T, r1ku |
 | Wed, 7 Oct 2026 | CONNECT THE DOTS | AMIDAdrive, Labyrinthine, LØST, YUKIMASA |
 | Thu, 8 Oct 2026 | TENBIN | Shoma fr,dambosound |
@@ -18,6 +17,7 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, 
 | Wed, 14 Oct 2026 | Game Chakra | Foodman, Taigen Kawabe |
 | Thu, 15 Oct 2026 | BS0xtra | Mars89, NullDaSensei, ykah |
 | Fri, 16 Oct 2026 | cipher take over ENTER | DANDAN, Dan-neo, Finsent C, KMG, Marco Yanes, TEI TEI, UG (1) |
+| Sat, 17 Oct 2026 | OPIOID | Blackship, KIMNA, Katsu Arai, imus |
 
 ## Address
 

@@ -1,14 +1,15 @@
 # Meduzah
 
-Meduzah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Turbina, Budapest on Fri, 16 Oct 2026.
+Meduzah is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Turbina, Budapest on Fri, 16 Oct 2026.
 
-Meduzah is a techno and house artist based in Hungary, with 75 gigs on soundcheck across Budapest. Often billed alongside Kiqo, klpflrtpr and Rozalina. Next up: Turbina, Budapest on Fri 16 Oct.
+Meduzah is a techno and house artist based in Hungary, with 76 gigs on soundcheck across Budapest. Often billed alongside Kiqo, klpflrtpr and Rozalina. Next up: Turbina, Budapest on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Turbina | Budapest |
+| Fri, 30 Oct 2026 | Atno | Budapest |
 
 ## Recently played
 

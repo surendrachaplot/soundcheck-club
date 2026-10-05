@@ -1,0 +1,22 @@
+# Maschine 24-7 / RAW Techno / Burzeltach - BBQ & RAVE at Der Weiße Hase
+
+Maschine 24-7 / RAW Techno / Burzeltach - BBQ & RAVE at Der Weiße Hase on Sat 10 Oct, Berlin. 8 artists: Bisk, Jens Schwan, La Boum Fatale and Maschine and 4 more. Techno. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 10 Oct 2026 |
+| Venue | Der Weiße Hase |
+| City | Berlin |
+
+## Line-up
+
+- Bisk
+- Jens Schwan
+- La Boum Fatale
+- Maschine
+- Morris Fitch
+- NIKO INCRAVALLE
+- NONTOX Rabbits
+- Tom Marten
+
+*Source: [soundcheck](https://soundcheck.club/e/2544392-maschine-24-7-raw-techno-burzeltach-bbq-rave-at-der-wei-e-ha/)*

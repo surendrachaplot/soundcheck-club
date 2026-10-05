@@ -1,14 +1,13 @@
 # Neue Zukunft
 
-Neue Zukunft is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "The Asteroid No.4 (US), Acid Rooster" on Mon, 5 Oct 2026.
+Neue Zukunft is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "A BRIDGE BETWEEN" on Sun, 11 Oct 2026.
 
-Neue Zukunft is a music venue in Berlin listed on soundcheck. 9 upcoming gigs. See dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
+Neue Zukunft is a music venue in Berlin listed on soundcheck. 8 upcoming gigs. See dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 5 Oct 2026 | The Asteroid No.4 (US), Acid Rooster |  |
 | Sun, 11 Oct 2026 | A BRIDGE BETWEEN |  |
 | Wed, 14 Oct 2026 | Dazzling Killmen (US), Prophet & Flesh |  |
 | Sun, 25 Oct 2026 | Lagrimas (US), ONLY, Greetings From |  |

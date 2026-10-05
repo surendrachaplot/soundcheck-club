@@ -1,14 +1,13 @@
 # Tíago
 
-Tíago is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Tíago is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Ministerium Club, Lisbon on Sat, 10 Oct 2026.
 
-Tíago is a techno and house artist based in Portugal, with 80 gigs on soundcheck across Lisbon and Porto. Often billed alongside Helio, Manuel Cotta and Francisca Urbano. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
+Tíago is a techno and house artist based in Portugal, with 80 gigs on soundcheck across Lisbon and Porto. Often billed alongside Helio, Manuel Cotta and Francisca Urbano. Next up: Ministerium Club, Lisbon on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
 | Sat, 10 Oct 2026 | Ministerium Club | Lisbon |
 | Fri, 16 Oct 2026 | Ministerium Club | Lisbon |
 

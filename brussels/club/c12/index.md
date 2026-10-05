@@ -2,7 +2,7 @@
 
 C12 is a music venue in Brussels with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "C12 x UNTIMED with Quelza, DJ Nobu, Emily Jeanne" on Fri, 9 Oct 2026.
 
-C12 is a music venue in Brussels listed on soundcheck. 6 upcoming gigs, with line-ups including AAguilAA, Altinbas, Clara D and Dj handbag and 2 more. See dates, start times and who's playing. 116 rue Marché aux Herbes 1000 Brussels.
+C12 is a music venue in Brussels listed on soundcheck. 6 upcoming gigs, with line-ups including AAguilAA, Altinbas, Boris and Clara D and 2 more. See dates, start times and who's playing. 116 rue Marché aux Herbes 1000 Brussels.
 
 ## What's on
 
@@ -13,7 +13,7 @@ C12 is a music venue in Brussels listed on soundcheck. 6 upcoming gigs, with lin
 | Sat, 17 Oct 2026 | C12 Nite x Museum Night Fever with Hyperaktivist, Keyser, NMSS, Vera Moro | Hyperaktivist, Keyser, Laura Charlier, NMSS, Vera Moro |
 | Sat, 31 Oct 2026 | C12 Halloween with Luke Slater, Kasper Marott, Clara D, Paulo Sea | Altinbas, Clara D, Kasper Marott, Luke Slater, Paulo Sea, r.omy |
 | Fri, 20 Nov 2026 | Séance |  |
-| Sat, 28 Nov 2026 | GEGEN BRUSSELS |  |
+| Sat, 28 Nov 2026 | GEGEN BRUSSELS | Boris, Mar/us |
 
 ## Address
 

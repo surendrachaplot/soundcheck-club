@@ -1,0 +1,19 @@
+# EXTENDED: Bad Boombox B2B Club Angel / salute / Gerardo Niva / Maruwa at Mondo
+
+EXTENDED: Bad Boombox B2B Club Angel / salute / Gerardo Niva / Maruwa at Mondo on Sun 11 Oct, Madrid. 5 artists: Bad Boombox, Club Angel, Gerardo Niva and Maruwa and 1 more. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sun, 11 Oct 2026 |
+| Venue | Mondo |
+| City | Madrid |
+
+## Line-up
+
+- Bad Boombox
+- Club Angel
+- Gerardo Niva
+- Maruwa
+- salute
+
+*Source: [soundcheck](https://soundcheck.club/e/2494379-extended-bad-boombox-b2b-club-angel-salute-gerardo-niva-maru/)*

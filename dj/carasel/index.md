@@ -1,14 +1,15 @@
 # Carasel
 
-Carasel is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Carasel is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
-Carasel is a drum & bass and jungle artist based in United Kingdom, with 71 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 7 more. Often billed alongside Jakes, IC3 and Inja. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
+Carasel is a drum & bass and jungle artist based in United Kingdom, with 72 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 7 more. Often billed alongside Jakes, IC3 and Inja. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
+| Sat, 10 Oct 2026 | Sawmills | Bristol |
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
 | Fri, 4 Dec 2026 | The Prospect Building | Bristol |
 

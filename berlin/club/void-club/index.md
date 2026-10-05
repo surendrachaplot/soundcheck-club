@@ -8,7 +8,7 @@ Void Club is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, wit
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Seazed x Synpathy / Bounce, Hardtechno & Trance Night (2 Floors) | Brizze, HAINZE, Rheindaaa, RichBeat, Sonse, Surgical, VIØLITAS, bbymeister, cee_ohh, dööskopp, elvito, subga |
+| Fri, 9 Oct 2026 | Seazed x Synpathy / Bounce, Hardtechno & Trance Night (2 Floors) | Brizze, DJ Taxiteller, HAINZE, Rheindaaa, RichBeat, Sonse, Surgical, VIØLITAS, bbymeister, cee_ohh, dööskopp, elvito, subga |
 | Sat, 10 Oct 2026 | Machine Lab by Modular Circuit - Tag der Clubkultur | Allexandra, Blosvenn, Dshanna, Electra (2), Frisqo, Gabrielle (DE), Jessica Kert, Julez (live), LEIA (2), Melanchromie, elfie, phlipzee |
 | Fri, 16 Oct 2026 | Enter the Void #82 with Gourski, Exploid, Upzet, Ed Shepherd, Enjean, Crashkitt, Noctunal | Crashkitt, Ed Shepherd, Exploid, Gourski, Kainam, Trippyverse, Upzet |
 | Sat, 17 Oct 2026 | Expedicion 30 with Roots., Mavidius, Baraquz | Mavidius |

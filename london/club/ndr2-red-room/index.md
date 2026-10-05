@@ -9,7 +9,7 @@ NDR2 Red Room is a music venue in London listed on soundcheck. 8 upcoming gigs, 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 7 Oct 2026 | Club Cold Blood presents - BEACH GOTHIC (Orchid EP Release Party) | The Lizard Queen |
-| Fri, 9 Oct 2026 | Syz & HARRY RAPLEY ALL NIGHT LONG // RED ROOM | Syz |
+| Fri, 9 Oct 2026 | Syz, HARRY RAPLEY & LUKE PHILLIPS ALL NIGHT LONG // RED ROOM | Syz |
 | Sat, 10 Oct 2026 | Slam Duncs Vinyl Instore | Duncan Thomas, Jive Talk |
 | Fri, 16 Oct 2026 | Granville Collective - Pop-up + Afterparty | JYE., LEN., Tempz |
 | Sat, 17 Oct 2026 | Sequence : Howtin & Friends | NADZ., quarter ohm |

@@ -2,7 +2,7 @@
 
 Eastway Baths is a music venue in London with 9 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Cocada da Pazsarinha" on Fri, 9 Oct 2026.
 
-Eastway Baths is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Chadzing Kung, Charlie Dark, ChunS!ut and Giles Smith and 2 more. See dates, start times and who's playing. 80 Eastway, E9 5JH.
+Eastway Baths is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Alexander Nut, Chadzing Kung, Charlie Dark and ChunS!ut and 2 more. See dates, start times and who's playing. 80 Eastway, E9 5JH.
 
 ## What's on
 
@@ -13,10 +13,10 @@ Eastway Baths is a music venue in London listed on soundcheck. 9 upcoming gigs, 
 | Sun, 11 Oct 2026 | GIANT STEPS | Giles Smith |
 | Thu, 15 Oct 2026 | DERIVO: 'firewall' | Chadzing Kung, ChunS!ut, GRE9 |
 | Sun, 25 Oct 2026 | GIANT STEPS | Palo Santo Discos, Poly-Ritmo |
-| Sun, 8 Nov 2026 | GIANT STEPS |  |
+| Sun, 8 Nov 2026 | GIANT STEPS | Alexander Nut |
 | Sat, 14 Nov 2026 | GIANT STEPS (LATE) |  |
 | Sun, 22 Nov 2026 | GIANT STEPS | Charlie Dark |
-| Sun, 13 Dec 2026 | GIANT STEPS |  |
+| Sun, 13 Dec 2026 | GIANT STEPS | Manfredas |
 
 ## Address
 

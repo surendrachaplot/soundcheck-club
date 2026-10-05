@@ -1,14 +1,13 @@
 # Tonbo
 
-Tonbo is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
+Tonbo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at WOMB, Tokyo on Fri, 9 Oct 2026.
 
-Tonbo is a techno and house artist based in Japan, with 40 gigs on soundcheck across Bangkok, Berlin, Kanto and Kyushu and 2 more. Often billed alongside Nory Kimijima, Sunga and REO MATSUMOTO. Next up: INN The Park Fukuoka, Kyushu on Fri 2 Oct.
+Tonbo is a techno and house artist based in Japan, with 40 gigs on soundcheck across Bangkok, Berlin, Kanto and Kyushu and 2 more. Often billed alongside Nory Kimijima, Sunga and REO MATSUMOTO. Next up: WOMB, Tokyo on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | INN The Park Fukuoka | Kyushu |
 | Fri, 9 Oct 2026 | WOMB | Tokyo |
 | Sun, 11 Oct 2026 | Land Knot | Kanto |
 | Sat, 17 Oct 2026 | Bar Temp. | Bangkok |

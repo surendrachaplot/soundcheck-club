@@ -1,14 +1,15 @@
 # Nico Ramírez
 
-Nico Ramírez is a Afro Tech and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at 45 London, London on Fri, 30 Oct 2026.
+Nico Ramírez is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at 45 London, London on Fri, 30 Oct 2026.
 
-Nico Ramírez is an afro tech and tech house artist based in United Kingdom, with 8 gigs on soundcheck across London and Milan. Often billed alongside Ramoss, Pedro Villa and Ale Grooves. Next up: 45 London, London on Fri 30 Oct.
+Nico Ramírez is a tech house and minimal artist based in United Kingdom, with 9 gigs on soundcheck across London and Milan. Often billed alongside Ramoss, Ale Grooves and Pedro Villa. Next up: 45 London, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | 45 London | London |
+| Sat, 7 Nov 2026 | Gallery | London |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ Nico Ramírez is an afro tech and tech house artist based in United Kingdom, wit
 
 ## Shares bills with
 
-Ramoss, Pedro Villa, Ale Grooves
+Ramoss, Ale Grooves, Pedro Villa
 
 *Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoramírez/)*

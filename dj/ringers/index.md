@@ -1,14 +1,15 @@
 # RINGERS
 
-RINGERS is a Jungle and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Movers, Nottingham on Thu, 8 Oct 2026.
+RINGERS is a Garage and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Movers, Nottingham on Thu, 8 Oct 2026.
 
-RINGERS is a jungle and bass artist based in United Kingdom, with 17 gigs on soundcheck across Birmingham, Leeds, London and Nottingham. Often billed alongside Syntax, Bad B!tch Dubz and Bakey. Next up: Movers, Nottingham on Thu 8 Oct.
+RINGERS is a garage and jungle artist based in United Kingdom, with 18 gigs on soundcheck across Birmingham, Leeds, London and Nottingham. Often billed alongside Syntax, Bad B!tch Dubz and Bakey. Next up: Movers, Nottingham on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | Movers | Nottingham |
+| Fri, 30 Oct 2026 | The Drop inn | Birmingham |
 
 ## Recently played
 

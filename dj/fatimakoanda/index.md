@@ -1,14 +1,15 @@
 # Fatima Koanda
 
-Fatima Koanda is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Q Club, Milan on Fri, 9 Oct 2026.
+Fatima Koanda is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Q Club, Milan on Fri, 9 Oct 2026.
 
-Fatima Koanda is a house and techno artist based in Italy, with 50 gigs on soundcheck across Berlin, Copenhagen, Helsinki and Ibiza and 8 more. Often billed alongside Kingsizebed, Aaron Blau and Hiroko Hacci. Next up: Q Club, Milan on Fri 9 Oct.
+Fatima Koanda is a house and techno artist based in Italy, with 51 gigs on soundcheck across Berlin, Copenhagen, Helsinki and Ibiza and 8 more. Often billed alongside Kingsizebed, Aaron Blau and Hiroko Hacci. Next up: Q Club, Milan on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Q Club | Milan |
+| Sat, 24 Oct 2026 | PAC Padiglione D'arte Contemporanea | Milan |
 
 ## Recently played
 

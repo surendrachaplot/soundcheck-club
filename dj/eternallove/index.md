@@ -1,13 +1,15 @@
 # Eternal Love
 
-Eternal Love is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Plantation, Paris on Sat, 10 Oct 2026.
+Eternal Love is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Department 184, Milan on Fri, 9 Oct 2026.
 
-Eternal Love is a house and disco artist based in Italy, with 127 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 33 more. Often billed alongside Dirty Channels, Larry Masmero and Pitaya Soundsystem. Next up: Plantation, Paris on Sat 10 Oct.
+Eternal Love is a house and disco artist based in Italy, with 129 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 33 more. Often billed alongside Dirty Channels, Larry Masmero and Pitaya Soundsystem. Next up: Department 184, Milan on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Department 184 | Milan |
+| Fri, 9 Oct 2026 | Department 184 | Milan |
 | Sat, 10 Oct 2026 | Plantation | Paris |
 | Fri, 23 Oct 2026 | Circolo Magnolia | Milan |
 | Sat, 24 Oct 2026 | San Francisco | Amsterdam |

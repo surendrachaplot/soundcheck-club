@@ -1,8 +1,8 @@
 # Pijus
 
-Pijus is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Junkyard Club, Tbilisi on Tue, 13 Oct 2026.
+Pijus is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Junkyard Club, Tbilisi on Tue, 13 Oct 2026.
 
-Pijus is a house and techno artist based in Lithuania, with 14 gigs on soundcheck across Amsterdam, Berlin, Dublin and London and 5 more. Often billed alongside Shaolin Cowboy, lizaliza and Target Demographic. Next up: TBA - Junkyard Club, Tbilisi on Tue 13 Oct.
+Pijus is a house and techno artist based in Lithuania, with 15 gigs on soundcheck across Amsterdam, Berlin, Dublin and London and 6 more. Often billed alongside Shaolin Cowboy, lizaliza and Target Demographic. Next up: TBA - Junkyard Club, Tbilisi on Tue 13 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Pijus is a house and techno artist based in Lithuania, with 14 gigs on soundchec
 | Thu, 22 Oct 2026 | Waterhouse Studios | Amsterdam |
 | Fri, 30 Oct 2026 | Bi Nuu | Berlin |
 | Sat, 31 Oct 2026 | OCZKI | Warsaw |
+| Fri, 6 Nov 2026 | Gallery 1986 | Vilnius |
 
 ## Recently played
 

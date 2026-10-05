@@ -1,6 +1,6 @@
 # LOOP NYD FESTIVAL 2027 at Fabrik
 
-LOOP NYD FESTIVAL 2027 at Fabrik on Fri 1 Jan, Madrid. 4 artists: Adrian Mills, fumi (DE), Marco Carola and Paco Osuna. See the line-up on soundcheck.
+LOOP NYD FESTIVAL 2027 at Fabrik on Fri 1 Jan, Madrid. 5 artists: Adrian Mills, Andres Campo, fumi (DE) and Marco Carola and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ LOOP NYD FESTIVAL 2027 at Fabrik on Fri 1 Jan, Madrid. 4 artists: Adrian Mills, 
 ## Line-up
 
 - Adrian Mills
+- Andres Campo
 - fumi (DE)
 - Marco Carola
 - Paco Osuna

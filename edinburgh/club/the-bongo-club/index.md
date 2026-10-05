@@ -13,7 +13,7 @@ The Bongo Club is a music venue in Edinburgh listed on soundcheck. 16 upcoming g
 | Fri, 9 Oct 2026 | Disorder presents: Bryan Gee & Freddy B [JUNGLE AND DRUM & BASS] | Bryan Gee, Harry Jackson |
 | Sat, 10 Oct 2026 | Hobbes Music x Noetic Rhythm: Jacksonville, Shosha, Hobbes + more TBA | Hobbes, Jacksonville, Shosha |
 | Thu, 15 Oct 2026 | Origins: Osmosis Jones | Osmosis Jones |
-| Fri, 16 Oct 2026 | Tektite: Karl Radox, Esfi + residents | FOLIE (UK), Rodent |
+| Fri, 16 Oct 2026 | Tektite: Karl Radox (Jigsore), Esfi (Venom) + residents | FOLIE (UK), Rodent |
 | Sat, 24 Oct 2026 | Chromatic: Oneman20 | Oneman, ZO3 (1) |
 | Wed, 28 Oct 2026 | HOOSEPARTY: THE FINAL GIRLS | Miss Cabbage, Salam Kitty |
 | Thu, 29 Oct 2026 | TOTEM Halloween: Silva Snipa (Vinyl-Only UKG) | Maya Hacker, Silva Snipa, Trucha |

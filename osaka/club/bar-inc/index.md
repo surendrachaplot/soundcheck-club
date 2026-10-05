@@ -2,7 +2,7 @@
 
 BAR Inc is a music venue in Osaka with 27 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "WEEKDAY ORDERS" on Wed, 7 Oct 2026.
 
-BAR Inc is a music venue in Osaka listed on soundcheck. 27 upcoming gigs, with line-ups including AOKI takamasa, Benedek, COTA and Daisuke Kakimoto and 2 more. See dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
+BAR Inc is a music venue in Osaka listed on soundcheck. 27 upcoming gigs, with line-ups including AOKI takamasa, Benedek, cazbow and COTA and 2 more. See dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
 
 ## What's on
 

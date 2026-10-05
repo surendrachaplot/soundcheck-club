@@ -1,14 +1,15 @@
 # Aya.
 
-Aya. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 5 Oct 2026.
+Aya. is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 5 Oct 2026.
 
-Aya. is a house and techno artist based in South Korea, with 3 gigs on soundcheck across Seoul and Warsaw. Often billed alongside Daul, Hansy and Jenna. Next up: Stoked&stoned, Seoul on Mon 5 Oct.
+Aya. is a house and techno artist based in South Korea, with 4 gigs on soundcheck across Seoul and Warsaw. Often billed alongside Nolove, Daul and Hansy. Next up: Stoked&stoned, Seoul on Mon 5 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 5 Oct 2026 | Stoked&stoned | Seoul |
+| Sat, 10 Oct 2026 | Stoked&stoned | Seoul |
 
 ## Recently played
 
@@ -17,6 +18,6 @@ Aya. is a house and techno artist based in South Korea, with 3 gigs on soundchec
 
 ## Shares bills with
 
-Daul, Hansy, Jenna
+Nolove, Daul, Hansy
 
 *Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aya./)*

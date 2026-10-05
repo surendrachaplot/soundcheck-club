@@ -2,7 +2,7 @@
 
 Mike BC is a Acid and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Outlaws Yacht Club, Leeds on Sun, 11 Oct 2026.
 
-Mike BC is an acid and downtempo artist, with 27 gigs on soundcheck across Leeds and Manchester. Often billed alongside Simon Scott, Annie Errez and Bobby O'Donnell. Next up: Outlaws Yacht Club, Leeds on Sun 11 Oct.
+Mike BC is an acid and downtempo artist based in United Kingdom, with 27 gigs on soundcheck across Leeds and Manchester. Often billed alongside Simon Scott, Annie Errez and Bobby O'Donnell. Next up: Outlaws Yacht Club, Leeds on Sun 11 Oct.
 
 ## Upcoming shows
 

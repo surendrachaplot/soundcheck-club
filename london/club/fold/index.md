@@ -1,8 +1,8 @@
 # FOLD
 
-FOLD is a music venue in London with 25 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Labyrinth presents: 12 hours of Life & Death at FOLD" on Fri, 9 Oct 2026.
+FOLD is a music venue in London with 26 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Labyrinth presents: 12 hours of Life & Death at FOLD" on Fri, 9 Oct 2026.
 
-FOLD is a music venue in London listed on soundcheck. 25 upcoming gigs, with line-ups including aalice, Aaron J, Ahmet Sisman and Alba Heidari and 2 more. See dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
+FOLD is a music venue in London listed on soundcheck. 26 upcoming gigs, with line-ups including aalice, Aaron J, Ahmet Sisman and Alba Heidari and 2 more. See dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
 ## What's on
 

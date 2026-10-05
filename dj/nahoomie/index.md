@@ -1,13 +1,14 @@
 # Nahoomie
 
-Nahoomie is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at La Paloma, Barcelona on Fri, 16 Oct 2026.
+Nahoomie is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 10 Oct 2026.
 
-Nahoomie is a house and disco artist based in Spain, with 62 gigs on soundcheck across Barcelona, Berlin, Madrid and Mexico City. Often billed alongside Verushka, Alvva and Gazzi. Next up: La Paloma, Barcelona on Fri 16 Oct.
+Nahoomie is a house and electronica artist based in Spain, with 63 gigs on soundcheck across Barcelona, Berlin, Madrid and Mexico City. Often billed alongside Verushka, Alvva and Gazzi. Next up: La Terrrazza, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | La Terrrazza | Barcelona |
 | Fri, 16 Oct 2026 | La Paloma | Barcelona |
 
 ## Recently played

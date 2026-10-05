@@ -2,7 +2,7 @@
 
 BABii is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The White Hotel, Manchester on Sat, 10 Oct 2026.
 
-BABii is a club and electronica artist, with 39 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 18 more. Often billed alongside Iglooghost, User2222 and Isla Den. Next up: The White Hotel, Manchester on Sat 10 Oct.
+BABii is a club and electronica artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 18 more. Often billed alongside Iglooghost, User2222 and Isla Den. Next up: The White Hotel, Manchester on Sat 10 Oct.
 
 ## Upcoming shows
 

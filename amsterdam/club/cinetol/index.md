@@ -1,8 +1,8 @@
 # Cinetol
 
-Cinetol is a music venue in Amsterdam with 21 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Deep Forest" on Tue, 6 Oct 2026.
+Cinetol is a music venue in Amsterdam with 22 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Deep Forest" on Tue, 6 Oct 2026.
 
-Cinetol is a music venue in Amsterdam listed on soundcheck. 21 upcoming gigs, with line-ups including Deep Forest, Dublon, echofarmer and Lynnic and 2 more. See dates, start times and who's playing. Tolstraat 182, 1074VM Amsterdam.
+Cinetol is a music venue in Amsterdam listed on soundcheck. 22 upcoming gigs, with line-ups including Deep Forest, Dublon, echofarmer and Lucy Snake and 2 more. See dates, start times and who's playing. Tolstraat 182, 1074VM Amsterdam.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Cinetol is a music venue in Amsterdam listed on soundcheck. 21 upcoming gigs, wi
 | Thu, 22 Oct 2026 | Niels Orens support: echofarmer | Niels Orens, echofarmer |
 | Fri, 23 Oct 2026 | Warhaus - i.s.m paradiso | Warhaus |
 | Fri, 23 Oct 2026 | Warhaus - Ha Ha Heartbeats - ADE | Warhaus |
-| Sat, 24 Oct 2026 | Dublon (ADE) | Dublon |
+| Fri, 23 Oct 2026 | PULSO ADE SHOWCASE | Lucy Snake, Magin Karica |
 
 ## Address
 

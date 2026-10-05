@@ -1,14 +1,13 @@
 # Ge-ology
 
-Ge-ology is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
+Ge-ology is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Palais Mascotte, Zurich on Fri, 16 Oct 2026.
 
-Ge-ology is a house and disco artist based in United States of America, with 85 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brussels and 24 more. Often billed alongside Cosmo (NY), Disgonuts and Aaron Dae. Next up: INN The Park Fukuoka, Kyushu on Fri 2 Oct.
+Ge-ology is a house and disco artist based in United States of America, with 85 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brussels and 24 more. Often billed alongside Cosmo (NY), Disgonuts and Aaron Dae. Next up: Palais Mascotte, Zurich on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | INN The Park Fukuoka | Kyushu |
 | Fri, 16 Oct 2026 | Palais Mascotte | Zurich |
 | Sat, 17 Oct 2026 | ASIAT Park | Brussels |
 | Sat, 31 Oct 2026 | public records | New York City |

@@ -1,8 +1,8 @@
 # OXI
 
-OXI is a music venue in Berlin with 27 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "✦encore.une.fois✦ / TUESDAY TECHNO RAVE" on Tue, 6 Oct 2026.
+OXI is a music venue in Berlin with 29 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "✦encore.une.fois✦ / TUESDAY TECHNO RAVE" on Tue, 6 Oct 2026.
 
-OXI is a music venue in Berlin listed on soundcheck. 27 upcoming gigs, with line-ups including Aero, Alexa Fluor, Amo (IT) and Ana Molina and 2 more. See dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
+OXI is a music venue in Berlin listed on soundcheck. 29 upcoming gigs, with line-ups including Aero, Alexa Fluor, Amo (IT) and Ana Molina and 2 more. See dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
 ## What's on
 

@@ -1,14 +1,15 @@
 # Kiqo
 
-Kiqo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Textilgyár, Budapest on Sat, 10 Oct 2026.
+Kiqo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Textilgyár, Budapest on Sat, 10 Oct 2026.
 
-Kiqo is a house and techno artist based in Hungary, with 77 gigs on soundcheck across Budapest and Madrid. Often billed alongside Meduzah, baeker and klpflrtpr. Next up: Textilgyár, Budapest on Sat 10 Oct.
+Kiqo is a house and techno artist based in Hungary, with 78 gigs on soundcheck across Budapest and Madrid. Often billed alongside Meduzah, baeker and klpflrtpr. Next up: Textilgyár, Budapest on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Textilgyár | Budapest |
+| Fri, 30 Oct 2026 | Atno | Budapest |
 
 ## Recently played
 

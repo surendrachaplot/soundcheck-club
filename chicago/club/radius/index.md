@@ -8,7 +8,7 @@ Radius is a music venue in Chicago listed on soundcheck. 31 upcoming gigs, with 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Overmono at Cermak Hall | Overmono |
+| Thu, 8 Oct 2026 | Overmono at Cermak Hall | Hot Take, Overmono |
 | Fri, 9 Oct 2026 | Afrojack presents Control | Afrojack |
 | Sat, 10 Oct 2026 | Hamdi FC vs. Chicago | Cesco, Hamdi (UK), Machinedrum, Sam Binga |
 | Sat, 10 Oct 2026 | Maddix at Cermak Hall |  |

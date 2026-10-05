@@ -9,7 +9,7 @@ Clarissa Connelly is an electronic artist based in Denmark, with 8 gigs on sound
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
-| Thu, 8 Oct 2026 | TBA | Krakow |
+| Thu, 8 Oct 2026 | Teatr Łaźnia Nowa | Krakow |
 
 ## Recently played
 

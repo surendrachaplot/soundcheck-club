@@ -10,7 +10,7 @@ ciao ciao Bar is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, 
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Others To The Front | boyyyish, materia hache |
 | Sun, 11 Oct 2026 | SWOON | Ahni, Evalyn, Pppainterrr, Reinartz, Sióg |
-| Tue, 13 Oct 2026 | missed call · of hours | TT TM, the pesto |
+| Tue, 13 Oct 2026 | missed call · off hours | Nikklaas, the pesto |
 | Thu, 5 Nov 2026 | OSZI - First signal | Die Grillen, Gabrielle (DE), Planetary Echoes, Varia Aves |
 
 ## Address

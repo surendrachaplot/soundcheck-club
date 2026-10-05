@@ -9,7 +9,7 @@ Munster Munch is a music venue in London listed on soundcheck. 5 upcoming gigs, 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | Munster Munch (Studio 1690) x Faded: OPEN DECKS (Leicester Square) | Faded Society |
-| Fri, 9 Oct 2026 | Tech House Night // Free entry before 9:30pm | Areeb Abbasi, Auseeb, Phåro (2), Picep |
+| Fri, 9 Oct 2026 | Tech House Night // Free entry before 9:30pm | Areeb Abbasi, Auseeb, Phåro (2), Selch |
 | Sat, 24 Oct 2026 | Blink Twice Nights | Blink Twice, Houdinyx, Picep |
 | Sat, 31 Oct 2026 | Absolute Deck Shellings presents: The Monster Bash | DJ Leeloo, VYPERBOY |
 | Sat, 21 Nov 2026 | Hardcore = Spiritual |  |

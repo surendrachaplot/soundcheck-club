@@ -1,14 +1,15 @@
 # Lovie
 
-Lovie is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Nowadays, New York City on Fri, 16 Oct 2026.
+Lovie is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Nowadays, New York City on Fri, 16 Oct 2026.
 
-Lovie is a house and deep house artist based in United States of America, with 128 gigs on soundcheck across Athens, Berlin, Brighton and Detroit and 12 more. Often billed alongside Honey Bun, JADALAREIGN and Kfeelz. Next up: Nowadays, New York City on Fri 16 Oct.
+Lovie is a house and deep house artist based in United States of America, with 129 gigs on soundcheck across Athens, Berlin, Brighton and Detroit and 12 more. Often billed alongside Honey Bun, JADALAREIGN and Kfeelz. Next up: Nowadays, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Nowadays | New York City |
+| Sat, 31 Oct 2026 | TBA - Brooklyn | New York City |
 
 ## Recently played
 

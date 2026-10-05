@@ -1,14 +1,14 @@
 # Marco Tropeano
 
-Marco Tropeano is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at NIX Barcelon, Barcelona on Fri, 23 Oct 2026.
+Marco Tropeano is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at NIX Barcelona, Barcelona on Fri, 23 Oct 2026.
 
-Marco Tropeano is a tech house and house artist based in Italy, with 33 gigs on soundcheck across Bali, Barcelona, Bucharest and Buenos Aires and 7 more. Often billed alongside Joseph Capriati, Indira Paganotto and Andrea Saba. Next up: NIX Barcelon, Barcelona on Fri 23 Oct.
+Marco Tropeano is a tech house and house artist based in Italy, with 33 gigs on soundcheck across Bali, Barcelona, Bucharest and Buenos Aires and 7 more. Often billed alongside Joseph Capriati, Indira Paganotto and Andrea Saba. Next up: NIX Barcelona, Barcelona on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | NIX Barcelon | Barcelona |
+| Fri, 23 Oct 2026 | NIX Barcelona | Barcelona |
 | Sat, 5 Dec 2026 | 99 Scott Ave | New York City |
 
 ## Recently played

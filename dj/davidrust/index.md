@@ -1,8 +1,8 @@
 # David Rust
 
-David Rust is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Liquid Room, Edinburgh on Fri, 9 Oct 2026.
+David Rust is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Liquid Room, Edinburgh on Fri, 9 Oct 2026.
 
-David Rust is a trance and techno artist based in United Kingdom, with 20 gigs on soundcheck across Cardiff, Dundee, Edinburgh and Glasgow and 11 more. Often billed alongside Billy Gillies, Aaron Hibell and Aly & Fila. Next up: The Liquid Room, Edinburgh on Fri 9 Oct.
+David Rust is a trance and techno artist based in United Kingdom, with 21 gigs on soundcheck across Cardiff, Dundee, Edinburgh and Glasgow and 11 more. Often billed alongside Billy Gillies, Aaron Hibell and Aly & Fila. Next up: The Liquid Room, Edinburgh on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ David Rust is a trance and techno artist based in United Kingdom, with 20 gigs o
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | The Liquid Room | Edinburgh |
 | Fri, 30 Oct 2026 | WaV | Liverpool |
+| Sat, 31 Oct 2026 | Fat Sams Dundee | Dundee |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 
 ## Recently played

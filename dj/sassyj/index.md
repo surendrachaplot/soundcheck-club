@@ -1,8 +1,8 @@
 # Sassy J
 
-Sassy J is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Palais Mascotte, Zurich on Fri, 16 Oct 2026.
+Sassy J is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Palais Mascotte, Zurich on Fri, 16 Oct 2026.
 
-Sassy J is a house and disco artist based in Switzerland, with 47 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 19 more. Often billed alongside Antal, Eternal Love and Hunee. Next up: Palais Mascotte, Zurich on Fri 16 Oct.
+Sassy J is a house and disco artist based in Switzerland, with 48 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 20 more. Often billed alongside Antal, Eternal Love and Hunee. Next up: Palais Mascotte, Zurich on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sassy J is a house and disco artist based in Switzerland, with 47 gigs on soundc
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Palais Mascotte | Zurich |
 | Sat, 24 Oct 2026 | Hearth | Amsterdam |
+| Fri, 30 Oct 2026 | Elysia | Basel |
 
 ## Recently played
 

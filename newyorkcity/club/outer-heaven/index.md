@@ -13,7 +13,7 @@ Outer Heaven is a music venue in New York City listed on soundcheck. 30 upcoming
 | Fri, 9 Oct 2026 | pregame presents: Monk Birthday Bash | Armii1n, John Everett, Monk (2), Zayd |
 | Fri, 9 Oct 2026 | Pregame presents: Monk Bday Bash | Armii1n, John Everett, Monk (2), Zayd |
 | Sat, 10 Oct 2026 | Outer Heaven presents: Demi Riquisimo | Demi Riquisimo, Jack Mulqueen, Tolga |
-| Sun, 11 Oct 2026 | Sunday Soirée | Jeny Michelle, La Vega, Luciio, Willy Gorgon |
+| Sun, 11 Oct 2026 | Outer Heaven presents: Sunday Soirée w/ Jeny Michelle, Derrik Muñoz, Willy Gorgon | Jeny Michelle, La Vega, Luciio, Willy Gorgon |
 | Wed, 14 Oct 2026 | Outer Heaven presents: Robbie Lumpkin | Robbie Lumpkin |
 | Thu, 15 Oct 2026 | Outer Heaven presents: Timo Lee - UMA DJ | Timo Lee, UMA DJ |
 | Fri, 16 Oct 2026 | Outer Heaven Records 002 Release Party: A.Wild | A.Wild, Chloe Battelle |

@@ -2,7 +2,7 @@
 
 LUAIN is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Ulster Sports Club, Belfast on Fri, 30 Oct 2026.
 
-LUAIN is a techno and tech house artist, with 7 gigs on soundcheck across Belfast. Often billed alongside OISINOK, Popper Cherry and Princess Glitoris. Next up: The Ulster Sports Club, Belfast on Fri 30 Oct.
+LUAIN is a techno and tech house artist based in Ireland, with 7 gigs on soundcheck across Belfast. Often billed alongside OISINOK, Popper Cherry and Princess Glitoris. Next up: The Ulster Sports Club, Belfast on Fri 30 Oct.
 
 ## Upcoming shows
 

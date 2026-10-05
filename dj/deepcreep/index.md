@@ -1,13 +1,14 @@
 # deep creep
 
-deep creep is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Signal, New York City on Fri, 30 Oct 2026.
+deep creep is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
 
-deep creep is a techno and house artist based in United States of America, with 107 gigs on soundcheck across Auckland, Berlin, Brisbane and Brussels and 15 more. Often billed alongside DJ Fart in the Club, Amelia Holt and Aurora Halal. Next up: Signal, New York City on Fri 30 Oct.
+deep creep is a techno and house artist based in United States of America, with 108 gigs on soundcheck across Amsterdam, Auckland, Berlin and Brisbane and 16 more. Often billed alongside DJ Fart in the Club, Amelia Holt and Aurora Halal. Next up: ingang, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | ingang | Amsterdam |
 | Fri, 30 Oct 2026 | Signal | New York City |
 | Sat, 31 Oct 2026 | Shunter | Rotterdam |
 | Fri, 6 Nov 2026 | TBA - Mount Adrah, Wiradjuri Country NSW | New-south-wales |

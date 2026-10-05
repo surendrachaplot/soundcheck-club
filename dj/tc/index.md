@@ -1,8 +1,8 @@
 # TC
 
-TC is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Basing House, London on Sat, 31 Oct 2026.
+TC is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Basing House, London on Sat, 31 Oct 2026.
 
-TC is a drum & bass and jungle artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam, Bristol, Budapest and Glasgow and 5 more. Often billed alongside Jakes, Carasel and Danny Byrd. Next up: Basing House, London on Sat 31 Oct.
+TC is a drum & bass and jungle artist based in United Kingdom, with 21 gigs on soundcheck across Amsterdam, Bristol, Budapest and Glasgow and 5 more. Often billed alongside Jakes, Carasel and Danny Byrd. Next up: Basing House, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ TC is a drum & bass and jungle artist based in United Kingdom, with 20 gigs on s
 | Sat, 31 Oct 2026 | Basing House | London |
 | Sat, 28 Nov 2026 | Westhafen | Leipzig |
 | Fri, 4 Dec 2026 | The Prospect Building | Bristol |
+| Thu, 31 Dec 2026 | Fire | London |
 
 ## Recently played
 

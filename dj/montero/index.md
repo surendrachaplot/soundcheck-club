@@ -1,14 +1,13 @@
 # Montero
 
-Montero is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Montero is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at 7833 Soundlab, Barcelona on Fri, 9 Oct 2026.
 
-Montero is a techno and house artist based in Spain, with 73 gigs on soundcheck across Barcelona, Berlin, Lisbon and London and 10 more. Often billed alongside Tauer, Anika Kunst and Stojche. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
+Montero is a techno and house artist based in Spain, with 73 gigs on soundcheck across Barcelona, Berlin, Lisbon and London and 10 more. Often billed alongside Tauer, Anika Kunst and Stojche. Next up: 7833 Soundlab, Barcelona on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
 | Fri, 9 Oct 2026 | 7833 Soundlab | Barcelona |
 | Fri, 16 Oct 2026 | Studio Club Malaga | Malaga |
 | Fri, 23 Oct 2026 | essaim | Paris |

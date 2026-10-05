@@ -1,8 +1,8 @@
 # Mich (10)
 
-Mich (10) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Buenos Aires on Sat, 10 Oct 2026.
+Mich (10) is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Buenos Aires on Sat, 10 Oct 2026.
 
-Mich is a house and electro artist based in Argentina, with 7 gigs on soundcheck across Buenos Aires. Often billed alongside Manu Oubiña, Guile and LUKAS. Next up: TBA, Buenos Aires on Sat 10 Oct.
+Mich is a house and electro artist based in Argentina, with 8 gigs on soundcheck across Buenos Aires and Switzerland. Often billed alongside Manu Oubiña, Guile and LUKAS. Next up: TBA, Buenos Aires on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mich is a house and electro artist based in Argentina, with 7 gigs on soundcheck
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | TBA | Buenos Aires |
 | Fri, 16 Oct 2026 | Avant Garten | Buenos Aires |
+| Sat, 21 Nov 2026 | Auberge | Switzerland |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # Gui (PT)
 
-Gui (PT) is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Planet Wax, London on Sat, 21 Nov 2026.
+Gui (PT) is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
 
-Gui (PT) is a drum & bass and jungle artist, with 6 gigs on soundcheck across Amsterdam, Brighton, London and Oslo. Often billed alongside MYNX, AMR and Beano. Next up: Planet Wax, London on Sat 21 Nov.
+Gui (PT) is a drum & bass and jungle artist, with 7 gigs on soundcheck across Amsterdam, Brighton, London and Oslo. Often billed alongside MYNX, ADHI and AMR. Next up: ingang, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | ingang | Amsterdam |
 | Sat, 21 Nov 2026 | Planet Wax | London |
 
 ## Recently played
@@ -20,6 +21,6 @@ Gui (PT) is a drum & bass and jungle artist, with 6 gigs on soundcheck across Am
 
 ## Shares bills with
 
-MYNX, AMR, Beano
+MYNX, ADHI, AMR
 
 *Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gui/)*

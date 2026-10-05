@@ -1,8 +1,8 @@
 # Ste Roberts
 
-Ste Roberts is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Gaffe, London on Fri, 9 Oct 2026.
+Ste Roberts is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Gaffe, London on Fri, 9 Oct 2026.
 
-Ste Roberts is a techno and electro artist based in United Kingdom, with 59 gigs on soundcheck across Berlin, Bristol, Edinburgh and Leeds and 4 more. Often billed alongside Alien Communications, Jos and De La Reef. Next up: Gaffe, London on Fri 9 Oct.
+Ste Roberts is a techno and electro artist based in United Kingdom, with 60 gigs on soundcheck across Berlin, Bristol, Edinburgh and Leeds and 4 more. Often billed alongside Alien Communications, Jos and De La Reef. Next up: Gaffe, London on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ste Roberts is a techno and electro artist based in United Kingdom, with 59 gigs
 | Fri, 9 Oct 2026 | Gaffe | London |
 | Sun, 25 Oct 2026 | Vittoria Wharf Studio | London |
 | Sat, 31 Oct 2026 | East London Brewing Company | London |
+| Fri, 6 Nov 2026 | The Love Inn | Bristol |
 | Sat, 5 Dec 2026 | Hidden | Manchester |
 
 ## Recently played

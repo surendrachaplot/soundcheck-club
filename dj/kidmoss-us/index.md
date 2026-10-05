@@ -1,13 +1,14 @@
 # Kid Moss
 
-Kid Moss is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 29 Oct 2026.
+Kid Moss is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Bridge 48, Barcelona on Sat, 10 Oct 2026.
 
-Kid Moss is a house and techno artist based in Venezuela, with 91 gigs on soundcheck across Barcelona, Berlin, Geneva and London and 1 more. Often billed alongside Guedes (ES), Guedes and IVAN POSEIDON. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 29 Oct.
+Kid Moss is a house and techno artist based in Venezuela, with 92 gigs on soundcheck across Barcelona, Berlin, Geneva and London and 1 more. Often billed alongside Guedes (ES), Guedes and IVAN POSEIDON. Next up: Bridge 48, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Bridge 48 | Barcelona |
 | Thu, 29 Oct 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 
 ## Recently played

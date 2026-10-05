@@ -1,8 +1,8 @@
 # Nihility
 
-Nihility is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Wych, Toronto on Thu, 8 Oct 2026.
+Nihility is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Wych, Toronto on Thu, 8 Oct 2026.
 
-Nihility is a garage and bass artist based in Canada, with 13 gigs on soundcheck across New York City and Toronto. Often billed alongside In Depth Subject, NiUNiU and jwon. Next up: The Wych, Toronto on Thu 8 Oct.
+Nihility is a garage and bass artist based in Canada, with 14 gigs on soundcheck across Copenhagen, New York City and Toronto. Often billed alongside In Depth Subject, NiUNiU and jwon. Next up: The Wych, Toronto on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nihility is a garage and bass artist based in Canada, with 13 gigs on soundcheck
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | The Wych | Toronto |
 | Sat, 10 Oct 2026 | TBA - Secret Location | Toronto |
+| Sat, 10 Oct 2026 | Hangaren | Copenhagen |
 
 ## Recently played
 

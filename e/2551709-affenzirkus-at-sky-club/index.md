@@ -1,6 +1,6 @@
 # Affenzirkus at Sky Club
 
-Affenzirkus at Sky Club on Sat 12 Dec, Leipzig. 6 artists: BLUME, Fuchs, Paul Wolf and TAKTSTÖRER and 2 more. Techno and House. See the line-up on soundcheck.
+Affenzirkus at Sky Club on Sat 12 Dec, Leipzig. 4 artists: Paul Wolf, TAKTSTÖRER, Thomas Lizzara and Tiefundton. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,6 @@ Affenzirkus at Sky Club on Sat 12 Dec, Leipzig. 6 artists: BLUME, Fuchs, Paul Wo
 
 ## Line-up
 
-- BLUME
-- Fuchs
 - Paul Wolf
 - TAKTSTÖRER
 - Thomas Lizzara

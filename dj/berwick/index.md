@@ -1,14 +1,15 @@
 # Berwick
 
-Berwick is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The System, Sheffield on Fri, 16 Oct 2026.
+Berwick is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The System, Sheffield on Fri, 16 Oct 2026.
 
-Berwick is a techno and electro artist based in United Kingdom, with 23 gigs on soundcheck across Berlin, Brighton, Bristol and London and 2 more. Often billed alongside YouYou, Yushh and 1-800 GIRLS. Next up: The System, Sheffield on Fri 16 Oct.
+Berwick is a techno and electro artist based in United Kingdom, with 24 gigs on soundcheck across Berlin, Brighton, Bristol and London and 2 more. Often billed alongside YouYou, Yushh and 1-800 GIRLS. Next up: The System, Sheffield on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | The System | Sheffield |
+| Sat, 17 Oct 2026 | Grub Records | Sheffield |
 | Fri, 6 Nov 2026 | Strange Brew | Bristol |
 | Fri, 20 Nov 2026 | The Glove That Fits | London |
 

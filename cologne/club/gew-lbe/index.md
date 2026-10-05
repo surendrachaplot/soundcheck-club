@@ -11,7 +11,7 @@ Gewölbe is a music venue in Cologne listed on soundcheck. 11 upcoming gigs, wit
 | Fri, 9 Oct 2026 | Klubnacht with DJ Frank, Narciss, Shumi | DJ Frank, Narciss, Shumi |
 | Sat, 10 Oct 2026 | Feines Tier with Franca & Philipp Fein | Franca, Philipp Fein |
 | Sat, 17 Oct 2026 | krakelee club with Andy Garvey, a:tok, oskø | Andy Garvey, a:tok, oskø |
-| Sun, 18 Oct 2026 | Research with Bennet, dj sweet6teen, Lara Fein | Bennet, Lara Fein, dj sweet6teen |
+| Sun, 18 Oct 2026 | Research with Bennet, dj sweet6teen, Lara Fein | Bennet (DE), Lara Fein, dj sweet6teen |
 | Sat, 24 Oct 2026 | breakfest with Leyla & tanjuesch, lu.wicked, Zenker Brothers | Leyla (3), Zenker Brothers, lu.wicked, tanjuesch |
 | Fri, 30 Oct 2026 | Klubnacht with Anna Cainelli, Fritz Kalkbrenner, Motip White | Anna Cainelli, Fritz Kalkbrenner, Motip White |
 | Sat, 31 Oct 2026 | instinkt lab with 04061, Blasha & Allatt, mojo | 04061, Blasha & Allatt, mojo |

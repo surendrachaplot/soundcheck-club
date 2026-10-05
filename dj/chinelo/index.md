@@ -1,14 +1,15 @@
 # Chinelo
 
-Chinelo is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Sound Machine, Toronto on Fri, 9 Oct 2026.
+Chinelo is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Sound Machine, Toronto on Fri, 9 Oct 2026.
 
-Chinelo is a club and techno artist based in Canada, with 72 gigs on soundcheck across New York City, Toronto and Vancouver. Often billed alongside HVN, Ard1n and Litney. Next up: Sound Machine, Toronto on Fri 9 Oct.
+Chinelo is a club and techno artist based in Canada, with 73 gigs on soundcheck across New York City, Toronto and Vancouver. Often billed alongside HVN, Ard1n and Litney. Next up: Sound Machine, Toronto on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Sound Machine | Toronto |
+| Sat, 14 Nov 2026 | Mooi Space | Toronto |
 
 ## Recently played
 

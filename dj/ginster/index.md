@@ -1,0 +1,28 @@
+# Ginster
+
+Ginster is a Garage and Grime artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Soup, Manchester on Fri, 20 Nov 2026.
+
+Ginster is a garage and grime artist based in United Kingdom, with 17 gigs on soundcheck across Manchester. Often billed alongside imad:re, DJ Moo (UK) and SHADEV. Next up: Soup, Manchester on Fri 20 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 20 Nov 2026 | Soup | Manchester |
+
+## Recently played
+
+- Ramona, Manchester · Sat, 29 Aug 2026
+- Stage and Radio, Manchester · Thu, 4 Jun 2026
+- The Bag Factory, Manchester · Fri, 15 May 2026
+- Stage and Radio, Manchester · Thu, 7 May 2026
+- Soup, Manchester · Thu, 5 Mar 2026
+- Stage and Radio, Manchester · Thu, 12 Feb 2026
+- Stage and Radio, Manchester · Thu, 22 Jan 2026
+- Six Trees Bar And Kitchen Manchester, Manchester · Wed, 26 Nov 2025
+
+## Shares bills with
+
+imad:re, DJ Moo (UK), SHADEV
+
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ginster/)*

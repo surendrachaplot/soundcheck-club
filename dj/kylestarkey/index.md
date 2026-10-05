@@ -1,8 +1,8 @@
 # Kyle Starkey
 
-Kyle Starkey is a Techno and House artist with 19 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
+Kyle Starkey is a Techno and House artist with 20 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
 
-Kyle Starkey is a techno and house artist based in United Kingdom, with 177 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 42 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
+Kyle Starkey is a techno and house artist based in United Kingdom, with 178 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 42 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ Kyle Starkey is a techno and house artist based in United Kingdom, with 177 gigs
 | Sat, 10 Oct 2026 | Mint XL | Leeds |
 | Fri, 16 Oct 2026 | Unit 51 | Aberdeen |
 | Sat, 17 Oct 2026 | The Liquid Room | Edinburgh |
+| Sun, 18 Oct 2026 | Sub Club | Glasgow |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sat, 24 Oct 2026 | Pllek | Amsterdam |
 | Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sat, 31 Oct 2026 | Floyd | Miami |
 | Sat, 7 Nov 2026 | 99 Scott Ave | New York City |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
-| Fri, 13 Nov 2026 | Club Vinyl | Denver |
 
 ## Recently played
 

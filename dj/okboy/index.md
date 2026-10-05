@@ -1,14 +1,15 @@
 # OKBOY
 
-OKBOY is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Nakano Heavysick Zero, Tokyo on Thu, 22 Oct 2026.
+OKBOY is a Hip-Hop and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Nakano Heavysick Zero, Tokyo on Thu, 22 Oct 2026.
 
-OKBOY is a hip-hop and bass artist based in Japan, with 11 gigs on soundcheck across Tokyo. Often billed alongside Dogwoods, iida Reo and MonoGoi. Next up: Nakano Heavysick Zero, Tokyo on Thu 22 Oct.
+OKBOY is a hip-hop and bass artist based in Japan, with 12 gigs on soundcheck across Tokyo. Often billed alongside Dogwoods, iida Reo and MonoGoi. Next up: Nakano Heavysick Zero, Tokyo on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Nakano Heavysick Zero | Tokyo |
+| Fri, 30 Oct 2026 | Enter Shibuya | Tokyo |
 
 ## Recently played
 

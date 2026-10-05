@@ -1,13 +1,14 @@
 # AIDEL
 
-AIDEL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Strays, Detroit on Sat, 24 Oct 2026.
+AIDEL is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Marble Bar, Detroit on Sat, 10 Oct 2026.
 
-AIDEL is a techno and house artist based in United States of America, with 36 gigs on soundcheck across Detroit. Often billed alongside Amino, Wax Assassin and we1sman. Next up: The Strays, Detroit on Sat 24 Oct.
+AIDEL is a techno and house artist based in United States of America, with 37 gigs on soundcheck across Detroit. Often billed alongside Amino, Wax Assassin and we1sman. Next up: Marble Bar, Detroit on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Marble Bar | Detroit |
 | Sat, 24 Oct 2026 | The Strays | Detroit |
 
 ## Recently played

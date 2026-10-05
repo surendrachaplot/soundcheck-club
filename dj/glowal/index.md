@@ -1,14 +1,15 @@
 # Glowal
 
-Glowal is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Thu, 22 Oct 2026.
+Glowal is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Thu, 22 Oct 2026.
 
-Glowal is a techno and house artist based in Italy, with 53 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 23 more. Often billed alongside Miss Monique, Axel Haube and 8KAYS. Next up: Amsterdam Central Station, Amsterdam on Thu 22 Oct.
+Glowal is a techno and house artist based in Italy, with 54 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 23 more. Often billed alongside Miss Monique, Axel Haube and 8KAYS. Next up: Amsterdam Central Station, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Amsterdam Central Station | Amsterdam |
+| Sun, 25 Oct 2026 | Koepelkerk | Amsterdam |
 | Sat, 31 Oct 2026 | Villa Blanca Lifestyle | Los Angeles |
 
 ## Recently played

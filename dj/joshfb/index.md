@@ -1,13 +1,14 @@
 # JOSH FB
 
-JOSH FB is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Djoon, Paris on Sat, 17 Oct 2026.
+JOSH FB is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Club Malasaña, Madrid on Fri, 9 Oct 2026.
 
-JOSH FB is a disco and house artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Berlin, Bristol and Edinburgh and 10 more. Often billed alongside Sunni D, Léna C and Boboxa. Next up: Djoon, Paris on Sat 17 Oct.
+JOSH FB is a house and disco artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Berlin, Bristol and Edinburgh and 10 more. Often billed alongside Sunni D, Léna C and Boboxa. Next up: Club Malasaña, Madrid on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Club Malasaña | Madrid |
 | Sat, 17 Oct 2026 | Djoon | Paris |
 | Fri, 6 Nov 2026 | Cult=us | Rotterdam |
 

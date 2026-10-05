@@ -1,6 +1,6 @@
 # system SPOOKY OCTOBER PASS at TBA
 
-system SPOOKY OCTOBER PASS at TBA on Sat 10 Oct, Toronto. 12 artists: DURDENHAUER, Eskha, Kichta and KILL 9 1 and 8 more. See the line-up on soundcheck.
+system SPOOKY OCTOBER PASS at TBA on Sat 10 Oct, Toronto. 12 artists: DURDENHAUER, Eskha, Kichta and KILL 9 1 and 8 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

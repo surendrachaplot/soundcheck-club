@@ -2,7 +2,7 @@
 
 Chico Blanco is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at La Terrrazza, Barcelona on Fri, 9 Oct 2026.
 
-Chico Blanco is a techno and house artist based in Spain, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Los Angeles and 4 more. Often billed alongside 8Kitoo, acidheaven and Perra Inmunda. Next up: La Terrrazza, Barcelona on Fri 9 Oct.
+Chico Blanco is a techno and house artist based in Spain, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Los Angeles and 4 more. Often billed alongside 8Kitoo, acidheaven and Juguete. Next up: La Terrrazza, Barcelona on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Chico Blanco is a techno and house artist based in Spain, with 43 gigs on soundc
 
 ## Shares bills with
 
-8Kitoo, acidheaven, Perra Inmunda
+8Kitoo, acidheaven, Juguete
 
 *Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chicoblanco/)*

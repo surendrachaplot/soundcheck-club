@@ -1,8 +1,8 @@
 # Joshua Brooks
 
-Joshua Brooks is a music venue in Manchester with 20 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Mike Morrisey + Louis Millne + MOJO (4F) - Joshua Brooks Manchester" on Fri, 9 Oct 2026.
+Joshua Brooks is a music venue in Manchester with 21 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Mike Morrisey + Louis Millne + MOJO (4F) - Joshua Brooks Manchester" on Fri, 9 Oct 2026.
 
-Joshua Brooks is a music venue in Manchester listed on soundcheck. 20 upcoming gigs, with line-ups including AYDN, Badger (UK), Benny L and CEEKAY and 2 more. See dates, start times and who's playing. 106 Princess Street; Manchester; M1 6NG, United Kingdom.
+Joshua Brooks is a music venue in Manchester listed on soundcheck. 21 upcoming gigs, with line-ups including AYDN, Badger (UK), Benny L and CEEKAY and 2 more. See dates, start times and who's playing. 106 Princess Street; Manchester; M1 6NG, United Kingdom.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Joshua Brooks is a music venue in Manchester listed on soundcheck. 20 upcoming g
 | Sat, 17 Oct 2026 | Dimitri From Paris - Day Time Disco - Joshua Brooks Manchester | Dimitri From Paris |
 | Fri, 23 Oct 2026 | Full Circle: Shadow Child + Huxley - Joshua Brooks Manchester | Huxley, Jimmy Switch, Shadow Child |
 | Sat, 24 Oct 2026 | Dusky: Signals Tour - Manchester | Dusky |
+| Sun, 25 Oct 2026 | Supernature on Sunday 11th birthday with Chris Massey// Ryan Hughes | Chris Massey, James Greenwood, Supernature Disco |
 | Sat, 31 Oct 2026 | Halloween: Prunk + Watchers - Joshua Brooks Manchester | Prunk, Watchers |
-| Fri, 6 Nov 2026 | Nastia + Support  | AYDN, CEEKAY, Ezrela, Nastia |
 
 ## Address
 

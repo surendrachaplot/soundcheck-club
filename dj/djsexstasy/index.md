@@ -1,8 +1,8 @@
 # DJ SEXSTASY
 
-DJ SEXSTASY is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Artheater, Cologne on Fri, 9 Oct 2026.
+DJ SEXSTASY is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Artheater, Cologne on Fri, 9 Oct 2026.
 
-DJ SEXSTASY is a techno and trance artist based in Brazil, with 42 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 14 more. Often billed alongside Rishka, Towicz and Cara Elizabeth. Next up: Artheater, Cologne on Fri 9 Oct.
+DJ SEXSTASY is a techno and trance artist based in Brazil, with 43 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Budapest and 15 more. Often billed alongside Rishka, Towicz and Cara Elizabeth. Next up: Artheater, Cologne on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DJ SEXSTASY is a techno and trance artist based in Brazil, with 42 gigs on sound
 | Sat, 17 Oct 2026 | Ritter Butzke | Berlin |
 | Thu, 22 Oct 2026 | Melkweg | Amsterdam |
 | Sat, 24 Oct 2026 | Club NYX | Amsterdam |
+| Fri, 30 Oct 2026 | TBA - Secret Location | Atlanta |
 | Sat, 31 Oct 2026 | 888 Garage | San Francisco/Oakland |
 | Fri, 6 Nov 2026 | TBA | Los Angeles |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |

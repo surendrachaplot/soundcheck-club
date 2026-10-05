@@ -12,7 +12,7 @@ Unter Deck is a music venue in Munich listed on soundcheck. 6 upcoming gigs, wit
 | Wed, 7 Oct 2026 | Isarbass im Unter Deck |  |
 | Fri, 9 Oct 2026 | Off Supply with Zo Pea & floor length skirts | Off Supply, Zoe Pea, floor length skirts |
 | Wed, 21 Oct 2026 | 3 Jahre Electroamore Residency im Unter Deck | DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung, Kim_Twiddle, RONNY, Safahs |
-| Sat, 14 Nov 2026 | Der 8. Tag by Electroamore | DJ FM & DJ FREUND, Fej:tal, RONNY |
+| Sat, 14 Nov 2026 | Der 8. Tag by Electroamore | DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung, Fej:tal, RONNY |
 | Tue, 24 Nov 2026 | Tuesday in Love: Safahs all night long | Safahs |
 
 ## Address

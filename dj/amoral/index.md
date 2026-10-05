@@ -1,8 +1,8 @@
 # AMORAL
 
-AMORAL is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Paris, Paris on Sat, 10 Oct 2026.
+AMORAL is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Paris, Paris on Sat, 10 Oct 2026.
 
-AMORAL is a techno and house artist based in Netherlands, with 166 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 37 more. Often billed alongside MARRØN, Rene Wise and Lobster (NL). Next up: TBA - Paris, Paris on Sat 10 Oct.
+AMORAL is a techno and house artist based in Netherlands, with 167 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 37 more. Often billed alongside MARRØN, Rene Wise and Lobster (NL). Next up: TBA - Paris, Paris on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ AMORAL is a techno and house artist based in Netherlands, with 166 gigs on sound
 | Fri, 16 Oct 2026 | Den Anden Side | Copenhagen |
 | Fri, 23 Oct 2026 | Sugarfactory | Amsterdam |
 | Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
+| Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # OK EG
 
-OK EG is a Techno and Electronica artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Montreal on Sat, 10 Oct 2026.
+OK EG is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Montreal on Sat, 10 Oct 2026.
 
-OK EG is a techno and electronica artist based in Australia, with 56 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 17 more. Often billed alongside Kia (AU), Bambi (FR) and Notte Infinita. Next up: TBA, Montreal on Sat 10 Oct.
+OK EG is a techno and experimental artist based in Australia, with 56 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 17 more. Often billed alongside Kia (AU), Bambi (FR) and Notte Infinita. Next up: TBA, Montreal on Sat 10 Oct.
 
 ## Upcoming shows
 

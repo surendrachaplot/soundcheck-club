@@ -1,8 +1,8 @@
 # Kacy
 
-Kacy is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Schlachthof Wiesbaden, Frankfurt on Sat, 17 Oct 2026.
+Kacy is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Schlachthof Wiesbaden, Frankfurt on Sat, 17 Oct 2026.
 
-Kacy is a techno and trance artist based in Germany, with 82 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Leipzig and 3 more. Often billed alongside Polytoxic, CiKi and DeGuzman. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 17 Oct.
+Kacy is a techno and trance artist based in Germany, with 83 gigs on soundcheck across Augsburg, Berlin, Frankfurt and Hamburg and 4 more. Often billed alongside Polytoxic, CiKi and DeGuzman. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Kacy is a techno and trance artist based in Germany, with 82 gigs on soundcheck 
 | Fri, 30 Oct 2026 | Tanzhaus West | Frankfurt |
 | Sat, 28 Nov 2026 | MTW | Frankfurt |
 | Fri, 4 Dec 2026 | Airport Würzburg | Nürnberg |
+| Sat, 5 Dec 2026 | Kesselhaus Augsburg | Augsburg |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # Sayuri (1)
 
-Sayuri (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Smolna, Warsaw on Wed, 7 Oct 2026.
+Sayuri (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Fridas Pier, Stuttgart on Fri, 9 Oct 2026.
 
-Sayuri is a techno and house artist based in Japan, with 21 gigs on soundcheck across Mexico City, Stuttgart, Tokyo and Warsaw. Often billed alongside ZuKaRoHi, ALI3N and Alex Ormond. Next up: Smolna, Warsaw on Wed 7 Oct.
+Sayuri is a techno and house artist based in Japan, with 20 gigs on soundcheck across Mexico City, Stuttgart and Tokyo. Often billed alongside ZuKaRoHi, ALI3N and Alex Ormond. Next up: Fridas Pier, Stuttgart on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 7 Oct 2026 | Smolna | Warsaw |
 | Fri, 9 Oct 2026 | Fridas Pier | Stuttgart |
 
 ## Recently played

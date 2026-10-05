@@ -16,7 +16,7 @@ EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 15 upcoming gigs,
 | Fri, 30 Oct 2026 | Luna Roja presents: ORBE (w/ Ángel Negrín & Creadh) | Angel Negrin, ORBE |
 | Sat, 31 Oct 2026 | EXIT CLUB: Halloween | Headless Horseman, Lizzie Urquhart, Marc Matter, Rrose, TRSSX |
 | Fri, 6 Nov 2026 | EXIT x Tanum Sound present: Aba Shanti-I, ojoo, Mellowdramatics & Klaus | Aba Shanti-I, Mellowdramatics, ojoo |
-| Fri, 13 Nov 2026 | Curated Wax 6th Birthday | Elk, Patch FD |
+| Fri, 13 Nov 2026 | Curated Wax 6th Birthday - Noizar (Closer Kyiv) | Elk, Green like the Colour, Noizar, Patch FD |
 | Sat, 14 Nov 2026 | EXIT CLUB | Stefan Goldmann, TRSSX |
 
 ## Address

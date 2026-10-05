@@ -2,7 +2,7 @@
 
 Bulbul Berlin is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "TAG DER CLUBKULTUR 2026 - HOUSE OF OTHERS" on Thu, 8 Oct 2026.
 
-Bulbul Berlin is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including aksendo, boyyyish, Club Suave and Concentio and 2 more. See dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
+Bulbul Berlin is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including aksendo, batmanka, boyyyish and Club Suave and 2 more. See dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
 ## What's on
 
@@ -16,7 +16,7 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 12 upcoming gigs,
 | Sat, 17 Oct 2026 | WUP TAKE OVER: Club Suave, Deepmore, Mati Amoretti, VALENCE | Club Suave, Deepmore, Mati Amoretti, VALENCE |
 | Thu, 22 Oct 2026 | Groove Shapes: Kafuné, kairavi, Krakau | Kafuné, kairavi |
 | Fri, 23 Oct 2026 | Groovity Berlin: Andrew Xas, Ivan Le Mutant, Mia Bergmann, MAIROS | MAIROS, Mia Bergmann |
-| Sat, 24 Oct 2026 | HOUSE LOVERS: HATT.D, DJ Glitterelli, van Kay & More | DJ Glitterelli, van Kay |
+| Sat, 24 Oct 2026 | HOUSE LOVERS: HATT.D, DJ Glitterelli, batmanka, van Kay | DJ Glitterelli, batmanka, van Kay |
 | Thu, 29 Oct 2026 | XOXA's Club Angel: Panooc, Immy b2b Mx. Blaire | Immy, Mx. Blaire, Panooc |
 
 ## Address

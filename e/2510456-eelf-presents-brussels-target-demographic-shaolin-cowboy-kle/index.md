@@ -1,6 +1,6 @@
-# EELF Presents - Brussels: Target Demographic, Shaolin Cowboy, Kleinefrigo + more TBA at Illegaal
+# EELF Presents - Brussels: Target Demographic, Shaolin Cowboy, Kleinefrigo at Illegaal
 
-EELF Presents - Brussels: Target Demographic, Shaolin Cowboy, Kleinefrigo + more TBA at Illegaal on Fri 16 Oct, Brussels. 3 artists: Kleinefrigo, Shaolin Cowboy and Target Demographic. Breakbeat and House. See the line-up on soundcheck.
+EELF Presents - Brussels: Target Demographic, Shaolin Cowboy, Kleinefrigo at Illegaal on Fri 16 Oct, Brussels. 3 artists: Kleinefrigo, Shaolin Cowboy and Target Demographic. Breakbeat and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

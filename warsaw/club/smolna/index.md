@@ -8,7 +8,7 @@ Smolna is a music venue in Warsaw listed on soundcheck. 26 upcoming gigs, with l
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 7 Oct 2026 | HIDEOUT SOCIAL CLUB #26 // TCBRX x SAYURI x Tuchowsky | Sayuri (1), Tuchowsky |
+| Wed, 7 Oct 2026 | HIDEOUT SOCIAL CLUB #26 // TCBRX x SAYURI x Tuchowsky | S A Y U R I, Tuchowsky |
 | Thu, 8 Oct 2026 | SMLИ Thursday x Academy Showcase: Mordeaux, Violent, Theviacya, Vozny | Mordeaux, Theviacya, Violent |
 | Fri, 9 Oct 2026 | Smolna: Kollektiv Turmstrasse - Etnika Elektronika x The X Festival | CJ Art, Essex, Hraach, Kollektiv Turmstrasse |
 | Sat, 10 Oct 2026 | Smolna: Charlie Sparks, shot by stanley | Charlie Sparks, Pysh, shot by stanley, vitcat (3) |

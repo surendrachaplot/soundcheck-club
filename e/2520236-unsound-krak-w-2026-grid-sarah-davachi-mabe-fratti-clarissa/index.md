@@ -1,11 +1,11 @@
-# Unsound Kraków 2026 GRID - Sarah Davachi / Mabe Fratti / Clarissa Connelly / Mark William Lewis at TBA
+# Unsound Kraków 2026 GRID - Sarah Davachi / Mabe Fratti / Clarissa Connelly / Mark William Lewis at Teatr Łaźnia Nowa
 
-Unsound Kraków 2026 GRID - Sarah Davachi / Mabe Fratti / Clarissa Connelly / Mark William Lewis at TBA on Thu 8 Oct, Krakow. 4 artists: Clarissa Connelly, Mabe Fratti, Mark William Lewis and Sarah Davachi. See the line-up on soundcheck.
+Unsound Kraków 2026 GRID - Sarah Davachi / Mabe Fratti / Clarissa Connelly / Mark William Lewis at Teatr Łaźnia Nowa on Thu 8 Oct, Krakow. 4 artists: Clarissa Connelly, Mabe Fratti, Mark William Lewis and Sarah Davachi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Thu, 8 Oct 2026 |
-| Venue | TBA |
+| Venue | Teatr Łaźnia Nowa |
 | City | Krakow |
 
 ## Line-up

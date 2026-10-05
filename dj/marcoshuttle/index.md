@@ -1,14 +1,13 @@
 # Marco Shuttle
 
-Marco Shuttle is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Marco Shuttle is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 9 Oct 2026.
 
-Marco Shuttle is a techno and house artist based in Italy, with 157 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 34 more. Often billed alongside Jane Fitz, Erika and Paquita Gordon. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
+Marco Shuttle is a techno and house artist based in Italy, with 157 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 34 more. Often billed alongside Jane Fitz, Erika and Paquita Gordon. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
 | Fri, 9 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 10 Oct 2026 | TBA - Paris | Paris |
 | Fri, 23 Oct 2026 | Lofi | Amsterdam |

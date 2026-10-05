@@ -1,14 +1,15 @@
 # Ale Grooves
 
-Ale Grooves is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at 45 London, London on Fri, 30 Oct 2026.
+Ale Grooves is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at 45 London, London on Fri, 30 Oct 2026.
 
-Ale Grooves is a tech house and minimal artist based in Colombia, with 34 gigs on soundcheck across London and Zurich. Often billed alongside Ramoss, Pedro Villa and Munooz. Next up: 45 London, London on Fri 30 Oct.
+Ale Grooves is a tech house and minimal artist based in Colombia, with 35 gigs on soundcheck across London and Zurich. Often billed alongside Ramoss, Pedro Villa and Munooz. Next up: 45 London, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | 45 London | London |
+| Sat, 7 Nov 2026 | Gallery | London |
 
 ## Recently played
 

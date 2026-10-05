@@ -1,14 +1,15 @@
 # KOSHIRO
 
-KOSHIRO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at VENT, Tokyo on Sun, 11 Oct 2026.
+KOSHIRO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at VENT, Tokyo on Sun, 11 Oct 2026.
 
-KOSHIRO is a techno and trance artist based in Japan, with 51 gigs on soundcheck across Osaka and Tokyo. Often billed alongside YANNY, Lynta and AI. Next up: VENT, Tokyo on Sun 11 Oct.
+KOSHIRO is a techno and trance artist based in Japan, with 52 gigs on soundcheck across Osaka and Tokyo. Often billed alongside YANNY, Lynta and AI. Next up: VENT, Tokyo on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | VENT | Tokyo |
+| Fri, 23 Oct 2026 | Z Maruyama | Tokyo |
 
 ## Recently played
 

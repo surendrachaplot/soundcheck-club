@@ -1,14 +1,14 @@
 # Rex Sepulveda
 
-Rex Sepulveda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Spkrbox, Detroit on Sat, 24 Oct 2026.
+Rex Sepulveda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Spkrbox, Detroit on Fri, 23 Oct 2026.
 
-Rex Sepulveda is a techno and house artist based in United States of America, with 10 gigs on soundcheck across Detroit and Toronto. Often billed alongside Augustus Williams, Dru Ruiz and DJ Seoul. Next up: Spkrbox, Detroit on Sat 24 Oct.
+Rex Sepulveda is a techno and house artist based in United States of America, with 10 gigs on soundcheck across Detroit and Toronto. Often billed alongside Augustus Williams, Dru Ruiz and DJ Seoul. Next up: Spkrbox, Detroit on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Spkrbox | Detroit |
+| Fri, 23 Oct 2026 | Spkrbox | Detroit |
 
 ## Recently played
 

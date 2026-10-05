@@ -1,8 +1,8 @@
 # DJ girlcrush
 
-DJ girlcrush is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Selva NYC, New York City on Tue, 6 Oct 2026.
+DJ girlcrush is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Selva NYC, New York City on Tue, 6 Oct 2026.
 
-DJ girlcrush is a techno and house artist based in United States of America, with 46 gigs on soundcheck across New York City. Often billed alongside Kristen London, Cryostatik and CMD+JAZMINE. Next up: Selva NYC, New York City on Tue 6 Oct.
+DJ girlcrush is a techno and house artist based in United States of America, with 47 gigs on soundcheck across New York City. Often billed alongside Kristen London, Cryostatik and Ah Dek. Next up: Selva NYC, New York City on Tue 6 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DJ girlcrush is a techno and house artist based in United States of America, wit
 | Tue, 6 Oct 2026 | Selva NYC | New York City |
 | Fri, 9 Oct 2026 | Honey's | New York City |
 | Thu, 15 Oct 2026 | Boyfriend co-op | New York City |
+| Thu, 5 Nov 2026 | Bossa Nova Civic Club | New-york-city |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ DJ girlcrush is a techno and house artist based in United States of America, wit
 
 ## Shares bills with
 
-Kristen London, Cryostatik, CMD+JAZMINE
+Kristen London, Cryostatik, Ah Dek
 
 *Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgirlcrush/)*

@@ -1,8 +1,8 @@
 # Yan (CZ)
 
-Yan (CZ) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Yan (CZ) is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
-Yan (CZ) is a techno and trance artist based in Czech Republic, with 98 gigs on soundcheck across Barcelona, Berlin, Birmingham and Bristol and 14 more. Often billed alongside Alfred Czital, Dash (CZ) and NCOL. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
+Yan (CZ) is a techno and trance artist based in Czech Republic, with 99 gigs on soundcheck across Barcelona, Berlin, Birmingham and Bristol and 14 more. Often billed alongside Alfred Czital, Dash (CZ) and NCOL. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Yan (CZ) is a techno and trance artist based in Czech Republic, with 98 gigs on 
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 9 Oct 2026 | Twist Bar | Prague |
+| Sat, 10 Oct 2026 | Gaswrx Birmingham | Birmingham |
 | Fri, 16 Oct 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played

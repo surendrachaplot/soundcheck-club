@@ -9,7 +9,7 @@ Bi Nuu is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with li
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Stella & The Longos + Sua Galera [LIVE] | Stella and The Longos |
-| Fri, 30 Oct 2026 | EELF Presents - Berlin (Halloween Party): Target Demographic, Shaolin Cowboy, GEE LEE + TBA | GEE LEE, Paluma Sound, Pijus, Shaolin Cowboy, Target Demographic, upper class |
+| Fri, 30 Oct 2026 | EELF HALLOWEEN - BERLIN: Target Demographic, Shaolin Cowboy, GEE LEE, Pijus, Paluma Sound | GEE LEE, Paluma Sound, Pijus, Shaolin Cowboy, Target Demographic, upper class |
 
 ## Address
 

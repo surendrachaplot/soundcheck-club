@@ -1,8 +1,8 @@
 # Stamina (DE)
 
-Stamina (DE) is a House and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 9 Oct 2026.
+Stamina (DE) is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 9 Oct 2026.
 
-Stamina (DE) is a house and minimal techno artist based in Germany, with 26 gigs on soundcheck across Berlin, Hamburg, Istanbul and London and 2 more. Often billed alongside DJ Regret, IC3 and K Motionz. Next up: Humboldthain Club, Berlin on Fri 9 Oct.
+Stamina (DE) is a drum & bass and bass artist based in Germany, with 27 gigs on soundcheck across Berlin, Birmingham, Hamburg and Istanbul and 3 more. Often billed alongside IC3, K Motionz and LowQui. Next up: Humboldthain Club, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Stamina (DE) is a house and minimal techno artist based in Germany, with 26 gigs
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Humboldthain Club | Berlin |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
+| Sat, 10 Oct 2026 | Gaswrx Birmingham | Birmingham |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Stamina (DE) is a house and minimal techno artist based in Germany, with 26 gigs
 
 ## Shares bills with
 
-DJ Regret, IC3, K Motionz
+IC3, K Motionz, LowQui
 
 *Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stamina-DE/)*

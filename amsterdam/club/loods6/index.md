@@ -10,9 +10,9 @@ Loods6 is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Currents - Configuration I | Rrose |
 | Thu, 22 Oct 2026 | FIBER Festival, CTM Festival, in:resonance, 4DSOUND, Ambrio, Sol Systems & Loods6 pres Currents | NTHNG (2), Nadia Struiwigh, OK EG, Rrose, State OFFF, Wata Igarashi, Zohar |
-| Fri, 23 Oct 2026 | Currents - Configuration II | Nadia Struiwigh, OK EG, State OFFF, Wata Igarashi, Zohar |
+| Fri, 23 Oct 2026 | Currents - Configuration II - Wata Igarashi, Nadia Struiwigh, Zohar, State OFFF, OK EG  | Nadia Struiwigh, OK EG, State OFFF, Wata Igarashi, Zohar |
 | Sat, 24 Oct 2026 | Currents - Configuration III | Loek Frey, nthng |
-| Sat, 24 Oct 2026 | Currents - Workshops & Demos |  |
+| Sat, 24 Oct 2026 | Currents - Spatial Sound Workshops &  Ambrio Mixer Demos |  |
 | Sun, 25 Oct 2026 | Currents - Gathering Sounds: Spatial Sound Meetup |  |
 
 *Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/loods6/)*

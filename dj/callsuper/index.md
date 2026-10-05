@@ -1,8 +1,8 @@
 # Call Super
 
-Call Super is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+Call Super is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
-Call Super is a house and techno artist based in United Kingdom, with 217 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 64 more. Often billed alongside Shanti Celeste, Anz and Ogazón. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
+Call Super is a house and techno artist based in United Kingdom, with 218 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 64 more. Often billed alongside Shanti Celeste, Anz and Ogazón. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Call Super is a house and techno artist based in United Kingdom, with 217 gigs o
 | Fri, 23 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 | Sun, 25 Oct 2026 | Skatecafe | Amsterdam |
+| Fri, 13 Nov 2026 | Fidelity Studio | Dublin |
 | Fri, 20 Nov 2026 | CLUB RAUM | Amsterdam |
 | Sat, 21 Nov 2026 | Open Ground | Wuppertal |
 

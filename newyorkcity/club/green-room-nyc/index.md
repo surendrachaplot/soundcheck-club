@@ -14,7 +14,7 @@ Green Room NYC is a music venue in New York City listed on soundcheck. 7 upcomin
 | Sat, 17 Oct 2026 | RAW CUTS Records: JT Donaldson | JT Donaldson, Jack Mulqueen, La Vega, MANE (IN), Notar, Tim Lucent, Willy Gorgon, shanty mane |
 | Sat, 24 Oct 2026 | Golden Record NYC x FIGA present DEBONAIR | DEBONAIR, LUNÁTICA, ROCCO (FIGA), Via App |
 | Fri, 30 Oct 2026 | Level III Halloween: Bambounou, Dennis Free, Mai Iachetti, MESA, RHR, Rose Kourts | Bambounou, Dennis Free, MESA (DJ), Mai iachetti, RHR, Rose Kourts |
-| Fri, 4 Dec 2026 | Golden Record NYC x pregame present Krol | Armii1n, Kiyoshi, Krol |
+| Fri, 4 Dec 2026 | Golden Record NYC x pregame present Krol | Armii1n, Krol |
 
 ## Address
 

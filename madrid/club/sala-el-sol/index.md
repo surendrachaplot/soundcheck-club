@@ -2,13 +2,13 @@
 
 Sala El Sol is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Elements Cave" on Wed, 7 Oct 2026.
 
-Sala El Sol is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including Mietze Conte, Pulpix, Tori and Trenzark. See dates, start times and who's playing. Calle Jardines 3, 28013 Madrid, Spain.
+Sala El Sol is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including Mietze Conte, Nixy, Picotres and Pulpix and 2 more. See dates, start times and who's playing. Calle Jardines 3, 28013 Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 7 Oct 2026 | Elements Cave |  |
+| Wed, 7 Oct 2026 | Elements Cave | Nixy, Picotres |
 | Wed, 14 Oct 2026 | Elements Cave |  |
 | Fri, 16 Oct 2026 | Elements Cave x FARFACID (Live Set) | Pulpix, Tori, Trenzark |
 | Wed, 21 Oct 2026 | Elements Cave |  |

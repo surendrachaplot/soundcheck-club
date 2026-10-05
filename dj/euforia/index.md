@@ -1,14 +1,14 @@
 # Euforia
 
-Euforia is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - L2 Sant Martí, Barcelona on Sat, 10 Oct 2026.
+Euforia is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - L2 Sant Martí, Barcelona on Fri, 9 Oct 2026.
 
-Euforia is a techno and house artist, with 5 gigs on soundcheck across Barcelona. Often billed alongside Bapho999, Dora Jeen and Ody.ssey. Next up: TBA - L2 Sant Martí, Barcelona on Sat 10 Oct.
+Euforia is a techno and house artist, with 5 gigs on soundcheck across Barcelona. Often billed alongside Bapho999, Dora Jeen and Ody.ssey. Next up: TBA - L2 Sant Martí, Barcelona on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | TBA - L2 Sant Martí | Barcelona |
+| Fri, 9 Oct 2026 | TBA - L2 Sant Martí | Barcelona |
 | Sat, 31 Oct 2026 | TBA | Barcelona |
 
 ## Recently played

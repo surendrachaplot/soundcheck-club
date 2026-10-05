@@ -1,8 +1,8 @@
 # Marlie
 
-Marlie is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Ushuaïa Ibiza, Ibiza on Sat, 10 Oct 2026.
+Marlie is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Ushuaïa Ibiza, Ibiza on Sat, 10 Oct 2026.
 
-Marlie is a house and tech house artist, with 130 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 25 more. Often billed alongside Enzo Siragusa, Traumer and PACH. Next up: Ushuaïa Ibiza, Ibiza on Sat 10 Oct.
+Marlie is a house and tech house artist, with 131 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 25 more. Often billed alongside Enzo Siragusa, Traumer and PACH. Next up: Ushuaïa Ibiza, Ibiza on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Marlie is a house and tech house artist, with 130 gigs on soundcheck across Amst
 | Sun, 22 Nov 2026 | Blackstone Street Warehouse | Liverpool |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
+| Fri, 4 Dec 2026 | Floyd | Miami |
 
 ## Recently played
 

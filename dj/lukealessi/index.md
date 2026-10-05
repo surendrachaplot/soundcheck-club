@@ -1,13 +1,14 @@
 # Luke Alessi
 
-Luke Alessi is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
+Luke Alessi is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Switch, Porto on Sat, 17 Oct 2026.
 
-Luke Alessi is a house and techno artist based in Australia, with 121 gigs on soundcheck across Amsterdam, Austin, Bangkok and Belgrade and 36 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed 21 Oct.
+Luke Alessi is a house and techno artist based in Australia, with 122 gigs on soundcheck across Amsterdam, Austin, Bangkok and Belgrade and 36 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: Switch, Porto on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Switch | Porto |
 | Wed, 21 Oct 2026 | Tropeninstituut: Koninklijk Instituut Voor de Tropen | Amsterdam |
 | Thu, 22 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | BRET | Amsterdam |

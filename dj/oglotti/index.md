@@ -1,14 +1,15 @@
 # OG Lotti
 
-OG Lotti is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Warerhouse Alioth, 4142 Münchenstein, Basel on Sat, 10 Oct 2026.
+OG Lotti is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Warerhouse Alioth, 4142 Münchenstein, Basel on Sat, 10 Oct 2026.
 
-OG Lotti is a techno and trance artist based in Switzerland, with 15 gigs on soundcheck across Basel and Zurich. Often billed alongside Twenny5, kso12 and AEREA. Next up: TBA - Warerhouse Alioth, 4142 Münchenstein, Basel on Sat 10 Oct.
+OG Lotti is a techno and trance artist based in Switzerland, with 16 gigs on soundcheck across Basel and Zurich. Often billed alongside Tanja Alison, Twenny5 and kso12. Next up: TBA - Warerhouse Alioth, 4142 Münchenstein, Basel on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | TBA - Warerhouse Alioth, 4142 Münchenstein | Basel |
+| Fri, 30 Oct 2026 | Elysia | Basel |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ OG Lotti is a techno and trance artist based in Switzerland, with 15 gigs on sou
 
 ## Shares bills with
 
-Twenny5, kso12, AEREA
+Tanja Alison, Twenny5, kso12
 
 *Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oglotti/)*

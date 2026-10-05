@@ -13,7 +13,7 @@ STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 6 upcoming gig
 | Fri, 16 Oct 2026 | 4SOME INVITES - PUZZ |  |
 | Fri, 23 Oct 2026 | VAN DER WIESE - HardWanted x TribeDistrict - KRK | KRZ (PL) |
 | Fri, 27 Nov 2026 | 2 Years of Citadel w/Brutal Forms | Forest (PL), Lyor Kalt, Skumring_, Zeitreise |
-| Sat, 5 Dec 2026 | MOMENTUUM x NO SAD TECHNO pres SYNKRETIC 2 |  |
+| Sat, 5 Dec 2026 | MOMENTUUM x NO SAD TECHNO: SYNKRETIC 2  |  |
 
 ## Address
 

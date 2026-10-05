@@ -9,7 +9,7 @@ INVERNO is a techno and house artist based in Germany, with 75 gigs on soundchec
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | TBA - Secret Location | Berlin |
-| Sat, 12 Dec 2026 | TBA - Secret Location | Berlin |
+| Thu, 10 Dec 2026 | TBA - Secret Location | Berlin |
 
 ## Recently played
 

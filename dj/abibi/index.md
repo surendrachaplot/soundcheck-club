@@ -1,14 +1,15 @@
 # Abibi
 
-Abibi is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Renate, Berlin on Thu, 8 Oct 2026.
+Abibi is a Breakbeat and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Renate, Berlin on Thu, 8 Oct 2026.
 
-Abibi is a breakbeat and bass artist based in Pakistan, with 17 gigs on soundcheck across Berlin and London. Often billed alongside Gavsborg, Marylou and Perera Elsewhere. Next up: Renate, Berlin on Thu 8 Oct.
+Abibi is a breakbeat and house artist based in Pakistan, with 18 gigs on soundcheck across Berlin, London and Tokyo. Often billed alongside Gavsborg, Marylou and Perera Elsewhere. Next up: Renate, Berlin on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | Renate | Berlin |
+| Sat, 17 Oct 2026 | HVEN | Tokyo |
 
 ## Recently played
 

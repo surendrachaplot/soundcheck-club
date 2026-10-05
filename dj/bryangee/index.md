@@ -1,8 +1,8 @@
 # Bryan Gee
 
-Bryan Gee is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Bongo Club, Edinburgh on Fri, 9 Oct 2026.
+Bryan Gee is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Bongo Club, Edinburgh on Fri, 9 Oct 2026.
 
-Bryan Gee is a drum & bass and jungle artist based in United Kingdom, with 105 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bangkok and 20 more. Often billed alongside Dillinja, Jumping Jack Frost and IC3. Next up: The Bongo Club, Edinburgh on Fri 9 Oct.
+Bryan Gee is a drum & bass and jungle artist based in United Kingdom, with 106 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bangkok and 20 more. Often billed alongside Dillinja, IC3 and Jumping Jack Frost. Next up: The Bongo Club, Edinburgh on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Bryan Gee is a drum & bass and jungle artist based in United Kingdom, with 105 g
 | Sat, 14 Nov 2026 | fabric | London |
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
 | Sat, 21 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
+| Thu, 31 Dec 2026 | Fire | London |
 
 ## Recently played
 
@@ -27,6 +28,6 @@ Bryan Gee is a drum & bass and jungle artist based in United Kingdom, with 105 g
 
 ## Shares bills with
 
-Dillinja, Jumping Jack Frost, IC3
+Dillinja, IC3, Jumping Jack Frost
 
 *Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bryangee/)*

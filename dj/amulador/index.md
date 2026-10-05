@@ -1,14 +1,13 @@
 # Amulador
 
-Amulador is a Techno and Electronica artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Amulador is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Gare Porto, Porto on Sat, 10 Oct 2026.
 
-Amulador is a techno and electronica artist based in Portugal, with 208 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside Andre Cascais, Maria Callapez and Tiago Fragateiro. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
+Amulador is a techno and electronica artist based in Portugal, with 208 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside Andre Cascais, Maria Callapez and Tiago Fragateiro. Next up: Gare Porto, Porto on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
 | Sat, 10 Oct 2026 | Gare Porto | Porto |
 | Fri, 30 Oct 2026 | Gare Porto | Porto |
 | Sat, 14 Nov 2026 | Collect LX Factory | Lisbon |

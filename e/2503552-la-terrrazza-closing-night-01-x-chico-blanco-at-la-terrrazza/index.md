@@ -1,6 +1,6 @@
 # La Terrrazza Closing Night 01 x Chico Blanco at La Terrrazza
 
-La Terrrazza Closing Night 01 x Chico Blanco on Fri 9 Oct, Barcelona. 1 artist: Chico Blanco. Club and Electronica. See the line-up on soundcheck.
+La Terrrazza Closing Night 01 x Chico Blanco on Fri 9 Oct, Barcelona. 3 artists: Byron Yeates, Chico Blanco and Juguete. Club and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ La Terrrazza Closing Night 01 x Chico Blanco on Fri 9 Oct, Barcelona. 1 artist: 
 
 ## Line-up
 
+- Byron Yeates
 - Chico Blanco
+- Juguete
 
 *Source: [soundcheck](https://soundcheck.club/e/2503552-la-terrrazza-closing-night-01-x-chico-blanco-at-la-terrrazza/)*

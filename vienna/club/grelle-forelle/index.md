@@ -9,7 +9,7 @@ Grelle Forelle is a music venue in Vienna listed on soundcheck. 9 upcoming gigs,
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Pan-Pot - Zuckerwatt | Crazy Sonic, Pan-Pot |
-| Sat, 10 Oct 2026 | Radio Rudina | AEND, Bambi-S, CHERCHES, COBRA, DJ Lelo, Vivienna |
+| Sat, 10 Oct 2026 | Radio Rudina | AEND, Bambi-S, CHERCHES, COBRA, DJ Lelo, DJ.org, IVAN., Vivienna |
 | Sun, 11 Oct 2026 | LIVE Modeselektor |  |
 | Fri, 16 Oct 2026 | F*CKEN PLUS Fold Pro Max | DJ Deadlift, Gerald VDH, JERM |
 | Fri, 23 Oct 2026 | Sven Väth / TURBO | Andy Catana, MARØ (2), Maurizio Schmitz, Sven Vath |

@@ -1,8 +1,8 @@
 # Julie Desire
 
-Julie Desire is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
+Julie Desire is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
 
-Julie Desire is a techno and house artist based in France, with 112 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 21 more. Often billed alongside Cheriii, Mars O10C and A-440. Next up: RAWFACTORY, Amsterdam on Thu 22 Oct.
+Julie Desire is a techno and house artist based in France, with 113 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 21 more. Often billed alongside Cheriii, Mars O10C and A-440. Next up: RAWFACTORY, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Julie Desire is a techno and house artist based in France, with 112 gigs on soun
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sat, 24 Oct 2026 | DRUMSHEDS | London |
 | Sat, 14 Nov 2026 | TRAUM | Antwerp |
+| Sat, 5 Dec 2026 | Renate | Berlin |
 
 ## Recently played
 

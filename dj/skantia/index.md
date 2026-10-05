@@ -1,13 +1,14 @@
 # Skantia
 
-Skantia is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Ijland, Amsterdam on Thu, 22 Oct 2026.
+Skantia is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Gaswrx Birmingham, Birmingham on Sat, 10 Oct 2026.
 
-Skantia is a drum & bass and bass artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 21 more. Often billed alongside Simula, Disrupta and K Motionz. Next up: Ijland, Amsterdam on Thu 22 Oct.
+Skantia is a drum & bass and bass artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 21 more. Often billed alongside Simula, Disrupta and K Motionz. Next up: Gaswrx Birmingham, Birmingham on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Gaswrx Birmingham | Birmingham |
 | Thu, 22 Oct 2026 | Ijland | Amsterdam |
 | Fri, 23 Oct 2026 | fabric | London |
 | Fri, 30 Oct 2026 | Kompass Klub | Ghent |

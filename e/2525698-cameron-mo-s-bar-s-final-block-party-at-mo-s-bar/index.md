@@ -1,11 +1,16 @@
 # Cameron & Mo's Bar's Final Block Party at Mo's Bar
 
-Cameron & Mo's Bar's Final Block Party on Sat 10 Oct, New York City. House and Deep House. See the line-up on soundcheck.
+Cameron & Mo's Bar's Final Block Party on Sat 10 Oct, New York City. 2 artists: merlin bobb and Soul Summit Music. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 10 Oct 2026 |
 | Venue | Mo's Bar |
 | City | New York City |
+
+## Line-up
+
+- merlin bobb
+- Soul Summit Music
 
 *Source: [soundcheck](https://soundcheck.club/e/2525698-cameron-mo-s-bar-s-final-block-party-at-mo-s-bar/)*

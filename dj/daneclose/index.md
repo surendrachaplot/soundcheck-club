@@ -2,7 +2,7 @@
 
 Dane Close is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
 
-Dane Close is an electronic artist, with 4 gigs on soundcheck across Berlin. Often billed alongside Amelia Holt, An-i and André Pahl. Next up: The Buzz, Berlin on Fri 20 Nov.
+Dane Close is an electronic artist, with 4 gigs on soundcheck across Berlin. Often billed alongside Alessandro Adriani, Amelia Holt and An-i. Next up: The Buzz, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ Dane Close is an electronic artist, with 4 gigs on soundcheck across Berlin. Oft
 
 ## Shares bills with
 
-Amelia Holt, An-i, André Pahl
+Alessandro Adriani, Amelia Holt, An-i
 
 *Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daneclose/)*

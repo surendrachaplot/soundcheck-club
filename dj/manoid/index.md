@@ -1,14 +1,15 @@
 # Manoid
 
-Manoid is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Hevre, Krakow on Fri, 16 Oct 2026.
+Manoid is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Hevre, Krakow on Fri, 16 Oct 2026.
 
-Manoid is a techno and trance artist based in Poland, with 8 gigs on soundcheck across Berlin, Geneva, Krakow and Warsaw. Often billed alongside discox, 6EJOU and A.N.I.. Next up: Hevre, Krakow on Fri 16 Oct.
+Manoid is a techno and house artist based in Poland, with 9 gigs on soundcheck across Berlin, Geneva, Krakow and Warsaw. Often billed alongside KinkyOutsider, discox and 6EJOU. Next up: Hevre, Krakow on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Hevre | Krakow |
+| Fri, 30 Oct 2026 | Pałac Kultury i Nauki | Warsaw |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ Manoid is a techno and trance artist based in Poland, with 8 gigs on soundcheck 
 
 ## Shares bills with
 
-discox, 6EJOU, A.N.I.
+KinkyOutsider, discox, 6EJOU
 
 *Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manoid/)*

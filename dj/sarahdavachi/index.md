@@ -9,7 +9,7 @@ Sarah Davachi is an experimental and minimal artist based in United States of Am
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
-| Thu, 8 Oct 2026 | TBA | Krakow |
+| Thu, 8 Oct 2026 | Teatr Łaźnia Nowa | Krakow |
 | Thu, 22 Oct 2026 | Gedächtniskirche | Berlin |
 
 ## Recently played

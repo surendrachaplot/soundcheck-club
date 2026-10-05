@@ -8,7 +8,7 @@ The Ground at Club Space is a music venue in Miami listed on soundcheck. 12 upco
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Rebecca Black: Exhibitionism on Tour | Winter Wrong |
+| Fri, 9 Oct 2026 | Rebecca Black: Exhibitionism on Tour | Winter Wrong, phiphi |
 | Thu, 15 Oct 2026 | Satellite: Flying Lotus (DJ Set)  More | Actress, Flying Lotus, Ivy Lab, Loukeman, Suzi Analogue |
 | Sat, 17 Oct 2026 | Satellite: HAAi, Jacques Greene, & DJ Fuckoff | DJ Fuckoff, HAAi, Jacques Greene |
 | Sun, 18 Oct 2026 | Satellite: 1tbsp, DJ Chaotic Ugly, Safety Trance, TECH G1RLS, & More | 1tbsp, Safety Trance |

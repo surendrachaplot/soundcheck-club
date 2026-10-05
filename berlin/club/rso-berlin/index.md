@@ -2,7 +2,7 @@
 
 RSO.BERLIN is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Radiance w/ BLUME, Delta Rain, Human Space Machine, Luigi Tozzi live" on Fri, 9 Oct 2026.
 
-RSO.BERLIN is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including Justine Perry, AEREA, Alfred Czital and ALI3N and 2 more. See dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
+RSO.BERLIN is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including Justine Perry, Adiel, AEREA and Akua and 2 more. See dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # Kaj.O
 
-Kaj.O is a Breakbeat and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Tama, Poznan on Fri, 6 Nov 2026.
+Kaj.O is a Breakbeat and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Tama, Poznan on Fri, 6 Nov 2026.
 
-Kaj.O is a breakbeat and bass artist, with 10 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Solin, shhron and Adnable. Next up: Tama, Poznan on Fri 6 Nov.
+Kaj.O is a breakbeat and drum & bass artist, with 11 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Solin, shhron and Adnable. Next up: Tama, Poznan on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kaj.O is a breakbeat and bass artist, with 10 gigs on soundcheck across Krakow, 
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Tama | Poznan |
 | Sat, 7 Nov 2026 | Ciało | Wroclaw |
+| Tue, 10 Nov 2026 | Butelkownia | Warsaw |
 
 ## Recently played
 

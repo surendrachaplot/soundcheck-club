@@ -1,14 +1,14 @@
 # sweetapple
 
-sweetapple is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Spkrbox, Detroit on Sat, 24 Oct 2026.
+sweetapple is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Spkrbox, Detroit on Fri, 23 Oct 2026.
 
-sweetapple is a techno and house artist, with 7 gigs on soundcheck across Berlin, Detroit and Hamburg. Often billed alongside Dirty Daddy Don, Carmen 16 and ADMN. Next up: Spkrbox, Detroit on Sat 24 Oct.
+sweetapple is a techno and house artist, with 7 gigs on soundcheck across Berlin, Detroit and Hamburg. Often billed alongside Dirty Daddy Don, Carmen 16 and ADMN. Next up: Spkrbox, Detroit on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Spkrbox | Detroit |
+| Fri, 23 Oct 2026 | Spkrbox | Detroit |
 
 ## Recently played
 

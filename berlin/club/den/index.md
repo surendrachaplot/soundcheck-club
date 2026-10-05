@@ -8,7 +8,7 @@
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 7 Oct 2026 | ＬＩＬＩＴＨ ✦ 5€ PRE-SALE |  |
+| Wed, 7 Oct 2026 | ＬＩＬＩＴＨ ✦ 5€ PRE-SALE | J~Dizz¥ |
 | Thu, 8 Oct 2026 | BLACK OWLS - TECHNO and D'N'B | ALIS., ANDI A., Deskai, Krackk, Lola Brennt |
 | Fri, 9 Oct 2026 | SYNOID | Acierate, Nanzhen Yang |
 | Fri, 9 Oct 2026 | BAILE TRAMA 4TH ANNIVERSARY | Cmba, GUS (4), Isa Castelari, N3LYSTAR, SILVASURFER, SZAL, auto_timer |

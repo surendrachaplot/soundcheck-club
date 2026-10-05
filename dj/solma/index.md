@@ -2,7 +2,7 @@
 
 Solma is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Mitsuki, Tokyo on Mon, 5 Oct 2026.
 
-Solma is a techno and bass artist based in France, with 29 gigs on soundcheck across Barcelona, Brussels, Copenhagen and Dublin and 7 more. Often billed alongside Fluid Matter, Jan Swam and EMA. Next up: Mitsuki, Tokyo on Mon 5 Oct.
+Solma is a techno and bass artist based in France, with 30 gigs on soundcheck across Barcelona, Brussels, Copenhagen and Dublin and 7 more. Often billed alongside Fluid Matter, Jan Swam and EMA. Next up: Mitsuki, Tokyo on Mon 5 Oct.
 
 ## Upcoming shows
 

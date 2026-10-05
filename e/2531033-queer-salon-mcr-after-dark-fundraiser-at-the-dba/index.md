@@ -1,6 +1,6 @@
 # Queer Salon MCR After Dark Fundraiser at The DBA
 
-Queer Salon MCR After Dark Fundraiser at The DBA on Thu 15 Oct, Manchester. 5 artists: Deventi, Egg On Toast, Rúadh and Sayang and 1 more. Breakbeat and Techno. See the line-up on soundcheck.
+Queer Salon MCR After Dark Fundraiser at The DBA on Thu 15 Oct, Manchester. 5 artists: Deventi, Egg On Toast, Rúadh and Sayang and 1 more. Breakbeat and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

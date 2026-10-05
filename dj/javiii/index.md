@@ -1,14 +1,15 @@
 # JAViii
 
-JAViii is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Coconut Club, Austin on Sat, 17 Oct 2026.
+JAViii is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Coconut Club, Austin on Sat, 17 Oct 2026.
 
-JAViii is a house and acid artist based in United States of America, with 35 gigs on soundcheck across Austin. Often billed alongside Purple Matter, Brett Johnson and The Electric Pearl. Next up: Coconut Club, Austin on Sat 17 Oct.
+JAViii is a house and acid artist based in United States of America, with 36 gigs on soundcheck across Austin and Houston. Often billed alongside Purple Matter, Brett Johnson and The Electric Pearl. Next up: Coconut Club, Austin on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Coconut Club | Austin |
+| Sat, 31 Oct 2026 | Art Club | Houston |
 
 ## Recently played
 

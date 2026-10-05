@@ -1,14 +1,15 @@
 # Workforce
 
-Workforce is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Workforce is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
-Workforce is a drum & bass and jungle artist based in United Kingdom, with 44 gigs on soundcheck across Berlin, Birmingham, Brighton and Bristol and 12 more. Often billed alongside SP:MC, LSB and Halogenix. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
+Workforce is a drum & bass and jungle artist based in United Kingdom, with 45 gigs on soundcheck across Berlin, Birmingham, Brighton and Bristol and 12 more. Often billed alongside SP:MC, Halogenix and LSB. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
+| Sat, 10 Oct 2026 | Gaswrx Birmingham | Birmingham |
 | Sat, 7 Nov 2026 | M.O.T | London |
 
 ## Recently played
@@ -24,6 +25,6 @@ Workforce is a drum & bass and jungle artist based in United Kingdom, with 44 gi
 
 ## Shares bills with
 
-SP:MC, LSB, Halogenix
+SP:MC, Halogenix, LSB
 
 *Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/workforce/)*

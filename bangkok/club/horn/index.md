@@ -1,8 +1,8 @@
 # Horn
 
-Horn is a music venue in Bangkok with 9 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "FEED with OXYBOY / Elila.b / GAPFXCK" on Thu, 8 Oct 2026.
+Horn is a music venue in Bangkok with 10 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "FEED with OXYBOY / Elila.b / GAPFXCK" on Thu, 8 Oct 2026.
 
-Horn is a music venue in Bangkok listed on soundcheck. 9 upcoming gigs, with line-ups including 5.5MM, Cardi L, CEM and Ciriya and 2 more. See dates, start times and who's playing. 4th floor, 71 -73 Silom 4 Alley, Suriya Wong, Bang Rak, Bangkok 10500, Thailand.
+Horn is a music venue in Bangkok listed on soundcheck. 10 upcoming gigs, with line-ups including 5.5MM, Brownie Popkens, Cardi L and CEM and 2 more. See dates, start times and who's playing. 4th floor, 71 -73 Silom 4 Alley, Suriya Wong, Bang Rak, Bangkok 10500, Thailand.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Horn is a music venue in Bangkok listed on soundcheck. 9 upcoming gigs, with lin
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | FEED with OXYBOY / Elila.b / GAPFXCK | OXYBOY |
 | Fri, 9 Oct 2026 | BUNKER: MAYTAE / Mae Happyair / Marmosets | MAYTAE, Mae Happyair, Marmosets |
+| Sat, 10 Oct 2026 | LAB: Brownie Popkens / MJMA / 5.5MM / CallMeKevin / Sriracha Czaddy | 5.5MM, Brownie Popkens, MJMA, Sriracha Czaddy |
 | Thu, 15 Oct 2026 | REBELS with Krch.160 / kaïa / Eizu | Eizu 映図 |
 | Fri, 16 Oct 2026 | BERLINCIAGAY X Horn | OLLE (TH), TMI., Tom Peters |
 | Sat, 17 Oct 2026 | Snug Night | OMOLOKO, Ouissam, Partok |

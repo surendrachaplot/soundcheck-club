@@ -1,8 +1,8 @@
 # Phil Berg
 
-Phil Berg is a Techno and Club artist with 12 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Village Underground Lisboa, Lisbon on Sat, 10 Oct 2026.
+Phil Berg is a Techno and Club artist with 13 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Village Underground Lisboa, Lisbon on Sat, 10 Oct 2026.
 
-Phil Berg is a techno and club artist based in Germany, with 151 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Lobster (NL), future.666 and Grace Dahl. Next up: Village Underground Lisboa, Lisbon on Sat 10 Oct.
+Phil Berg is a techno and club artist based in Germany, with 152 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Lobster (NL), future.666 and Grace Dahl. Next up: Village Underground Lisboa, Lisbon on Sat 10 Oct.
 
 ## Upcoming shows
 

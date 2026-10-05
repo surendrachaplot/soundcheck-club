@@ -1,8 +1,8 @@
 # Romantso
 
-Romantso is a music venue in Athens with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "SONOTOPIA: Athens Dubs with K.atou & Jay Glass Dubs" on Thu, 8 Oct 2026.
+Romantso is a music venue in Athens with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "SONOTOPIA: Athens Dubs with K.atou & Jay Glass Dubs" on Thu, 8 Oct 2026.
 
-Romantso is a music venue in Athens listed on soundcheck. 3 upcoming gigs, with line-ups including Chevy, Cryogenics, Franz Scala and Italo Brutalo and 2 more. See dates, start times and who's playing. Αnaxagora 3-5, Athens 10552, Greece.
+Romantso is a music venue in Athens listed on soundcheck. 4 upcoming gigs, with line-ups including Chevy, Cryogenics, Franz Scala and Italo Brutalo and 2 more. See dates, start times and who's playing. Αnaxagora 3-5, Athens 10552, Greece.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Romantso is a music venue in Athens listed on soundcheck. 3 upcoming gigs, with 
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | SONOTOPIA: Athens Dubs with K.atou & Jay Glass Dubs | Jay Glass Dubs, K.atou |
 | Fri, 9 Oct 2026 | SONOTOPIA: Steppaz & Bass (Klinical, Insomniac, Cryogenics) | Cryogenics |
+| Tue, 27 Oct 2026 | BODY DOUBLE x VYSSKA | VYSSKA |
 | Sat, 7 Nov 2026 | MO'FI RECORDS Showcase #1 with Franz Scala (IT) & Italo Brutalo (DE) | Chevy, Franz Scala, Italo Brutalo |
 
 ## Address

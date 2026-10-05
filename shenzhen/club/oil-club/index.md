@@ -1,14 +1,13 @@
 # OIL Club
 
-OIL Club is a music venue in Shenzhen with 17 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "AFROPULZ TAKEOVER x MSF CREW" on Mon, 5 Oct 2026.
+OIL Club is a music venue in Shenzhen with 16 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "塞挺SETTING x Couch Co-Op: CHAV Party 006 深圳站- OIL 来了就是摇! 中外社会摇对决" on Tue, 6 Oct 2026.
 
-OIL Club is a music venue in Shenzhen listed on soundcheck. 17 upcoming gigs, with line-ups including ADEAD, Alion, Beibeilon and DJ 86 and 2 more. See dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
+OIL Club is a music venue in Shenzhen listed on soundcheck. 16 upcoming gigs, with line-ups including ADEAD, Alion, Beibeilon and DJ 86 and 2 more. See dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 5 Oct 2026 | AFROPULZ TAKEOVER x MSF CREW |  |
 | Tue, 6 Oct 2026 | 塞挺SETTING x Couch Co-Op: CHAV Party 006 深圳站- OIL 来了就是摇! 中外社会摇对决 |  |
 | Fri, 9 Oct 2026 | Night at the Angel's Temple-夜殿天使 | ADEAD, nabii, zzm (2) |
 | Sat, 10 Oct 2026 | Knot pres. Massive Gain 【Onleash + Fakethias】 | Fakethias, Manson, Onleash |
@@ -18,6 +17,7 @@ OIL Club is a music venue in Shenzhen listed on soundcheck. 17 upcoming gigs, wi
 | Sat, 17 Oct 2026 | OIL Pres. Evian Christ | DJ 86, Evian Christ, zzm (2) |
 | Sun, 18 Oct 2026 | Deep Roit vol.2 |  |
 | Thu, 22 Oct 2026 | SiM Pres.舞池杀器 Bass与Techno双修的波兰宝藏制作人Holoe | meta (CN) |
+| Fri, 23 Oct 2026 | OIL Pres. Schwefelgelb | Schwefelgelb |
 
 ## Address
 

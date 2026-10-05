@@ -1,14 +1,15 @@
 # ORKA
 
-ORKA is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Flinders, Sydney on Fri, 9 Oct 2026.
+ORKA is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Flinders, Sydney on Fri, 9 Oct 2026.
 
-ORKA is a techno and industrial artist based in United Kingdom, with 23 gigs on soundcheck across Lisbon, London, Paris and San Francisco/Oakland and 1 more. Often billed alongside keanu, Ember Electra and Pandemonium. Next up: The Flinders, Sydney on Fri 9 Oct.
+ORKA is a techno and industrial artist based in United Kingdom, with 24 gigs on soundcheck across Lisbon, London, Paris and San Francisco/Oakland and 1 more. Often billed alongside keanu, Ember Electra and Pandemonium. Next up: The Flinders, Sydney on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | The Flinders | Sydney |
+| Fri, 6 Nov 2026 | The Flinders | Sydney |
 
 ## Recently played
 

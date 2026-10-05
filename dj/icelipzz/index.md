@@ -1,13 +1,14 @@
 # IceLipzz
 
-IceLipzz is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
+IceLipzz is a Techno and Gabber artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
 
-IceLipzz is a techno and trance artist based in Germany, with 16 gigs on soundcheck across Berlin, Hamburg, Manchester and Munich and 2 more. Often billed alongside LØUS, FLUCC and Osiris. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
+IceLipzz is a techno and gabber artist based in Germany, with 17 gigs on soundcheck across Berlin, Hamburg, Manchester and Munich and 2 more. Often billed alongside LØUS, FLUCC and Osiris. Next up: OST, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | OST | Berlin |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played

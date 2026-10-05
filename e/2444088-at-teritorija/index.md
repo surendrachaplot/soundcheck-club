@@ -1,6 +1,6 @@
 # // at Teritorija
 
-// at Teritorija on Fri 23 Oct, Riga. 4 artists: ARRISHA, Ksenia Kamikaza, Measure Divide and UZAY. House. See the line-up on soundcheck.
+// at Teritorija on Fri 23 Oct, Riga. 5 artists: ARRISHA, Ksenia Kamikaza, Measure Divide and Pire and 1 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@
 - ARRISHA
 - Ksenia Kamikaza
 - Measure Divide
+- Pire
 - UZAY
 
 *Source: [soundcheck](https://soundcheck.club/e/2444088-at-teritorija/)*

@@ -1,6 +1,6 @@
 # Sameheads 20th Birthday at The Buzz
 
-Sameheads 20th Birthday at The Buzz on Fri 20 Nov, Berlin. 29 artists: Amelia Holt, An-i, André Pahl and Caillou and 25 more. See the line-up on soundcheck.
+Sameheads 20th Birthday at The Buzz on Fri 20 Nov, Berlin. 30 artists: Alessandro Adriani, Amelia Holt, An-i and André Pahl and 26 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Sameheads 20th Birthday at The Buzz on Fri 20 Nov, Berlin. 29 artists: Amelia Ho
 
 ## Line-up
 
+- Alessandro Adriani
 - Amelia Holt
 - An-i
 - André Pahl

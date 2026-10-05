@@ -1,8 +1,8 @@
 # Cecilia Ena
 
-Cecilia Ena is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Pirate Studio Dalston, London on Thu, 15 Oct 2026.
+Cecilia Ena is a Progressive House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Pirate Studio Dalston, London on Thu, 15 Oct 2026.
 
-Cecilia Ena is a progressive house and techno artist based in Italy, with 34 gigs on soundcheck across London. Often billed alongside Jesus RedSoul, hisnameisevgeni and Alan Mathew. Next up: Pirate Studio Dalston, London on Thu 15 Oct.
+Cecilia Ena is a progressive house and electronica artist based in Italy, with 35 gigs on soundcheck across London. Often billed alongside Jesus RedSoul, hisnameisevgeni and Alan Mathew. Next up: Pirate Studio Dalston, London on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Cecilia Ena is a progressive house and techno artist based in Italy, with 34 gig
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | Pirate Studio Dalston | London |
 | Fri, 30 Oct 2026 | Two Tribes CAMPFIRE | London |
+| Sat, 28 Nov 2026 | Hoxton Cabin | London |
 
 ## Recently played
 

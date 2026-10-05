@@ -1,13 +1,14 @@
 # Francesco Carvetta
 
-Francesco Carvetta is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 16 Oct 2026.
+Francesco Carvetta is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Mitsuki, Tokyo on Tue, 6 Oct 2026.
 
-Francesco Carvetta is a house and electronica artist, with 33 gigs on soundcheck across Barcelona, Berlin, Ibiza and London and 5 more. Often billed alongside Hitch, Jorge Escribano and Avo (ES). Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 16 Oct.
+Francesco Carvetta is a house and electro artist, with 34 gigs on soundcheck across Barcelona, Berlin, Ibiza and London and 6 more. Often billed alongside Hitch, Jorge Escribano and Avo (ES). Next up: Mitsuki, Tokyo on Tue 6 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 6 Oct 2026 | Mitsuki | Tokyo |
 | Fri, 16 Oct 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 7 Nov 2026 | Seaseaclub Barcelona | Barcelona |
 

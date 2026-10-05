@@ -1,8 +1,8 @@
 # Honey Bun
 
-Honey Bun is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Bossa Nova Civic Club, New York City on Thu, 8 Oct 2026.
+Honey Bun is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Bossa Nova Civic Club, New York City on Thu, 8 Oct 2026.
 
-Honey Bun is a house and techno artist based in United States of America, with 148 gigs on soundcheck across Amsterdam, Boston, Brussels and London and 5 more. Often billed alongside Lovie, Stonie Blue and Ayanna Heaven. Next up: Bossa Nova Civic Club, New York City on Thu 8 Oct.
+Honey Bun is a house and techno artist based in United States of America, with 149 gigs on soundcheck across Amsterdam, Boston, Brussels and London and 5 more. Often billed alongside Lovie, Stonie Blue and Ayanna Heaven. Next up: Bossa Nova Civic Club, New York City on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Honey Bun is a house and techno artist based in United States of America, with 1
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 17 Oct 2026 | Nowadays | New York City |
+| Sat, 31 Oct 2026 | TBA - Brooklyn | New York City |
 
 ## Recently played
 

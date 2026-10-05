@@ -1,6 +1,6 @@
 # Overmono at Cermak Hall at Radius
 
-Overmono at Cermak Hall at Radius on Thu 8 Oct, Chicago. 1 artist: Overmono. See the line-up on soundcheck.
+Overmono at Cermak Hall at Radius on Thu 8 Oct, Chicago. 2 artists: Hot Take and Overmono. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Overmono at Cermak Hall at Radius on Thu 8 Oct, Chicago. 1 artist: Overmono. See
 
 ## Line-up
 
+- Hot Take
 - Overmono
 
 *Source: [soundcheck](https://soundcheck.club/e/2446098-overmono-at-cermak-hall-at-radius/)*

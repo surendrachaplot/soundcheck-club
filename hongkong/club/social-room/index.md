@@ -1,8 +1,8 @@
 # Social Room
 
-Social Room is a music venue in Hong Kong with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "AXIS I LILIUM INFERNUM" on Fri, 9 Oct 2026.
+Social Room is a music venue in Hong Kong with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "AXIS I LILIUM INFERNUM" on Fri, 9 Oct 2026.
 
-Social Room is a music venue in Hong Kong listed on soundcheck. 4 upcoming gigs, with line-ups including DJ FU, ILLI (HK), Mengzy and SARS and 1 more. See dates, start times and who's playing. 74-78 Stanley Street; Won Hing Building, 3/F; Central, Hong Kong.
+Social Room is a music venue in Hong Kong listed on soundcheck. 5 upcoming gigs, with line-ups including DJ FU, Faye, illi and ILLI (HK) and 2 more. See dates, start times and who's playing. 74-78 Stanley Street; Won Hing Building, 3/F; Central, Hong Kong.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Social Room is a music venue in Hong Kong listed on soundcheck. 4 upcoming gigs,
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | AXIS I LILIUM INFERNUM | SARS |
 | Fri, 9 Oct 2026 | Axis I LILIUM INFERNUM |  |
+| Fri, 16 Oct 2026 | CIRCLE 4th Anniversary: 肆 · 行無忌 | Faye, Immuno, KOLAK, Shelf-Index, illi |
 | Sun, 18 Oct 2026 | HEAVY BASS LATIN'S PACE |  |
 | Sat, 24 Oct 2026 | Magical Disc Adventure: 100% Vinyl UKG, Jungle, D&B, 140, Dubstep | DJ FU (2), ILLI (HK), Mengzy, Shins |
 

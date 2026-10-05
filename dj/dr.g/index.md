@@ -1,8 +1,8 @@
 # Dr. G
 
-Dr. G is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Virage, Paris on Sat, 10 Oct 2026.
+Dr. G is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Virage, Paris on Sat, 10 Oct 2026.
 
-Dr. G is a techno and trance artist based in Belgium, with 35 gigs on soundcheck across Amsterdam, Berlin, Brussels and Ghent and 7 more. Often billed alongside MOKER, Cleopard2000 and EMILIJA. Next up: Virage, Paris on Sat 10 Oct.
+Dr. G is a techno and trance artist based in Belgium, with 36 gigs on soundcheck across Amsterdam, Berlin, Brussels and Geneva and 8 more. Often billed alongside MOKER, Cleopard2000 and EMILIJA. Next up: Virage, Paris on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Dr. G is a techno and trance artist based in Belgium, with 35 gigs on soundcheck
 | Sat, 10 Oct 2026 | Virage | Paris |
 | Thu, 22 Oct 2026 | Lofi | Amsterdam |
 | Fri, 23 Oct 2026 | Basement (Amsterdam) | Amsterdam |
+| Sat, 31 Oct 2026 | Zoo | Geneva |
 
 ## Recently played
 

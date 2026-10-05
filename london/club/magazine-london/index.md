@@ -10,7 +10,7 @@ Magazine London is a music venue in London listed on soundcheck. 5 upcoming gigs
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | The Hydra presents Autechre | Autechre, Space Afrika |
 | Sat, 24 Oct 2026 | Autechre |  |
-| Sat, 31 Oct 2026 | The Hydra presents Honey Dijon - 4 Hour Set | Honey Dijon |
+| Sat, 31 Oct 2026 | The Hydra presents Honey Dijon - 4 Hour Set (Halloween) | Honey Dijon |
 | Sat, 21 Nov 2026 | KI/KI | KI/KI |
 | Sat, 28 Nov 2026 | Indo Warehouse |  |
 

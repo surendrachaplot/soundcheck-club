@@ -11,7 +11,7 @@ Bar Datcha is a music venue in Montreal listed on soundcheck. 12 upcoming gigs, 
 | Thu, 8 Oct 2026 | James Benjamin, Hydra, Mak1ntouch, Lucid Grooves | James Benjamin, Lucid Grooves, hÿdra |
 | Fri, 9 Oct 2026 | Datcha NONSTOP: Blu:sh [Berlin], Frankie Teardrop, Syd Woz, ZDBT | Blu:sh, Frankie Teardrop, Syd Woz, ZDBT |
 | Sat, 10 Oct 2026 | Club Haram: Maral Mane, Claireyyy, mayalabae, Cirque Cosmic, Badgalquirit | Badgalquirit, Cirque Cosmic, Claireyy, Maral Mane, mayalabae |
-| Thu, 15 Oct 2026 | Panatekk: Laf Homme (NYC), Ekitwanda, Juju le Moko | Ekitwanda, Juju le Moko |
+| Thu, 15 Oct 2026 | Panatekk: venus in bed, Ekitwanda, Juju le Moko | Ekitwanda, Juju le Moko, venus in bed |
 | Fri, 16 Oct 2026 | Datcha NONSTOP: Rabzi, Bwi-Bwi, Silktits, 99hp | 99hp, Bwi-Bwi, Rabzi, Silktits |
 | Sat, 17 Oct 2026 | CLEO LEIGH, Dj Hermano, Excalibur | CLEO LEIGH, Dj Hermano, Excalibur |
 | Thu, 22 Oct 2026 | RABOTEK: G L O W Z I, Raylhem, Jey Syano, DJ Prospekt | G L O W Z I, Raylhem |

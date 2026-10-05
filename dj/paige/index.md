@@ -1,8 +1,8 @@
 # Paige
 
-Paige is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Toronto on Sat, 10 Oct 2026.
+Paige is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Toronto on Sat, 10 Oct 2026.
 
-Paige is a progressive house and techno artist, with 15 gigs on soundcheck across Amsterdam, Berlin, Ibiza and London and 4 more. Often billed alongside Bailey Ibbs, Debbie. and Franky Wah. Next up: TBA, Toronto on Sat 10 Oct.
+Paige is a techno and progressive house artist, with 15 gigs on soundcheck across Amsterdam, Berlin, Ibiza and London and 4 more. Often billed alongside Bailey Ibbs, Debbie. and Franky Wah. Next up: TBA, Toronto on Sat 10 Oct.
 
 ## Upcoming shows
 

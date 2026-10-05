@@ -15,7 +15,7 @@
 | Sat, 7 Nov 2026 | Escapada - BACK TO THE GOLDEN ERA - 93 Feet East | Carlos Aries, Jerome Six, Lee Luxe, Mark Radford, RENZO., Rhiavas |
 | Sun, 8 Nov 2026 | AFTERJAM [05]: LONDON | HALFPINT, Jamback, Stacie Fields |
 | Sat, 14 Nov 2026 | Deep Into Soul x Djoon | Afshin, Kapela, Neil Pierce, Sy Sez |
-| Fri, 20 Nov 2026 | Job de Jong b2b Dennis Quin - All Night Long | Dennis Quin, Job de Jong |
+| Fri, 20 Nov 2026 | [SOLD OUT] Job de Jong b2b Dennis Quin - All Night Long | Dennis Quin, Job de Jong |
 | Sat, 28 Nov 2026 | Kinky Malinki Ibiza Reunion + 28th Birthday | F Red, Jamie Hayhoe, Josh, SOMEGUY, Tristan Ingram |
 | Sat, 5 Dec 2026 | Mondo | Darren Tate, Simon Gregory, nümind |
 

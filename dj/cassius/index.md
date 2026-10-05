@@ -1,8 +1,8 @@
 # Cassius
 
-Cassius is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Button Factory, Dublin on Fri, 16 Oct 2026.
+Cassius is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Button Factory, Dublin on Fri, 16 Oct 2026.
 
-Cassius is a house and techno artist based in France, with 50 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brussels and 21 more. Often billed alongside Myd, Busy P and Etienne De Crecy. Next up: Button Factory, Dublin on Fri 16 Oct.
+Cassius is a house and techno artist based in France, with 51 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brussels and 22 more. Often billed alongside Myd, Busy P and Etienne De Crecy. Next up: Button Factory, Dublin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Cassius is a house and techno artist based in France, with 50 gigs on soundcheck
 | Fri, 30 Oct 2026 | Pumpehuset | Copenhagen |
 | Sat, 31 Oct 2026 | Outernet Live | London |
 | Sat, 7 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 14 Nov 2026 | SWG3 | Glasgow |
 | Sat, 28 Nov 2026 | Lula Club | Madrid |
 | Wed, 9 Dec 2026 | TBA - Lyon - Confluence | Lyon |
 

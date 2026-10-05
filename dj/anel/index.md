@@ -1,14 +1,15 @@
 # Anèl
 
-Anèl is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Skatecafe, Amsterdam on Sat, 24 Oct 2026.
+Anèl is a Baile Funk and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Skatecafe, Amsterdam on Sat, 24 Oct 2026.
 
-Anèl is an electronic artist based in Netherlands, with 3 gigs on soundcheck across Amsterdam. Often billed alongside Amz, Cinnaman and Dengdeng. Next up: Skatecafe, Amsterdam on Sat 24 Oct.
+Anèl is a baile funk and club artist based in Netherlands, with 4 gigs on soundcheck across Amsterdam. Often billed alongside Tida Kamara, Amz and Cinnaman. Next up: Skatecafe, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Skatecafe | Amsterdam |
+| Sun, 25 Oct 2026 | TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam | Amsterdam |
 
 ## Recently played
 
@@ -17,6 +18,6 @@ Anèl is an electronic artist based in Netherlands, with 3 gigs on soundcheck ac
 
 ## Shares bills with
 
-Amz, Cinnaman, Dengdeng
+Tida Kamara, Amz, Cinnaman
 
 *Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anel/)*

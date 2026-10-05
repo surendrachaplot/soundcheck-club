@@ -9,7 +9,7 @@ H0L0 is a music venue in New York City listed on soundcheck. 12 upcoming gigs, w
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | ReSolute with Aurora Halal | Amelia Holt, Aurora Halal, Dio Garcia, Joiah, SPRKLBB, Serrian, Seth Magoon |
-| Sat, 10 Oct 2026 | Road to Trotamundo | !NN, Alec Falconer, Bruno Limma, CAMILLA, David Berrie, Harrisôn, Kurilo, Lorenzo Slider, MANNY, Matt Foley, Max Sprauer, RAAUL, SOLANA, San Dee, Woreq |
+| Sat, 10 Oct 2026 | Road to Trotamundo | !NN, Alec Falconer, Bruno Limma, CAMILLA, DJ Rino, David Berrie, Harrisôn, Kurilo, Lorenzo Slider, MANNY, Matt Foley, Max Sprauer, RAAUL, SOLANA, San Dee, Woreq |
 | Sat, 17 Oct 2026 | KEIN KLUB | Amelia Holt, Intergalactic Gary, Mike Servito, Soundstream |
 | Sun, 18 Oct 2026 | The Ritual with Anané & Louie Vega | Anane, Louie Vega |
 | Fri, 23 Oct 2026 | Effy | Effy |

@@ -1,6 +1,6 @@
 # La Cigale
 
-La Cigale is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. The next is "Minelek Sessions" on Tue, 6 Oct 2026.
+La Cigale is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. The next is "Minelek Sessions 06/10/26" on Tue, 6 Oct 2026.
 
 La Cigale is a music venue in Buenos Aires listed on soundcheck. 1 upcoming gig, with line-ups including Berger Muzik. See dates, start times and who's playing. 25 de Mayo 597, C1002ABK CABA, Argentina.
 
@@ -8,7 +8,7 @@ La Cigale is a music venue in Buenos Aires listed on soundcheck. 1 upcoming gig,
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 6 Oct 2026 | Minelek Sessions | Berger Muzik |
+| Tue, 6 Oct 2026 | Minelek Sessions 06/10/26 | Berger Muzik |
 
 ## Address
 

@@ -14,7 +14,7 @@ Movers is a music venue in Nottingham listed on soundcheck. 24 upcoming gigs, wi
 | Thu, 15 Oct 2026 | Pool Table Launch: Pool, Board Games & Cocktails |  |
 | Fri, 16 Oct 2026 | Electroclash: indie, dance & post-punk |  |
 | Sat, 17 Oct 2026 | Macca [NTS, One Glove], Golden Lights & Mucho Maas | Golden Lights, Macca. |
-| Thu, 22 Oct 2026 | Ballistik: Pool Tournament |  |
+| Thu, 22 Oct 2026 | Ballistik: Queer Pool Tournament |  |
 | Fri, 23 Oct 2026 | Honey Dips: RnB, Slow Jamz & Old-Skool Hip-Hop |  |
 | Sat, 24 Oct 2026 | Soul Buggin' 22nd Birthday with Jamz Supernova | Jamz Supernova |
 | Sat, 24 Oct 2026 | Soul Buggin' 22nd Birthday with Jamz Supernova | Jamz Supernova |

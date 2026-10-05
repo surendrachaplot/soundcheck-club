@@ -1,14 +1,13 @@
 # Mor Elian
 
-Mor Elian is a Techno and Bass artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Auditorium San Fedele, Milan on Mon, 5 Oct 2026.
+Mor Elian is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at OHM, Berlin on Sat, 10 Oct 2026.
 
-Mor Elian is a techno and bass artist based in United States of America, with 130 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 34 more. Often billed alongside Rhyw, Pariah and Marie Montexier. Next up: Auditorium San Fedele, Milan on Mon 5 Oct.
+Mor Elian is a techno and bass artist based in United States of America, with 130 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 34 more. Often billed alongside Rhyw, Pariah and Marie Montexier. Next up: OHM, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 5 Oct 2026 | Auditorium San Fedele | Milan |
 | Sat, 10 Oct 2026 | OHM | Berlin |
 | Thu, 22 Oct 2026 | Skatecafe | Amsterdam |
 | Sat, 24 Oct 2026 | Nowadays | New York City |

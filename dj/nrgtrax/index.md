@@ -1,13 +1,14 @@
 # NRG Trax
 
-NRG Trax is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at SWG3, Glasgow on Sat, 7 Nov 2026.
+NRG Trax is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at SWG3, Glasgow on Sat, 7 Nov 2026.
 
-NRG Trax is a tech house and techno artist based in United Kingdom, with 13 gigs on soundcheck across Edinburgh, Glasgow, Madrid and Newcastle. Often billed alongside Andy Whitby, George Bowie and Klubfiller. Next up: SWG3, Glasgow on Sat 7 Nov.
+NRG Trax is a tech house and techno artist based in United Kingdom, with 14 gigs on soundcheck across Edinburgh, Glasgow, Madrid and Newcastle. Often billed alongside Andy Whitby, George Bowie and Klubfiller. Next up: SWG3, Glasgow on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | SWG3 | Glasgow |
 | Sat, 7 Nov 2026 | SWG3 | Glasgow |
 
 ## Recently played

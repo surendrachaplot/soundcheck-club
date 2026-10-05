@@ -1,14 +1,15 @@
 # CRYFXB
 
-CRYFXB is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Eden NYC, New York City on Fri, 23 Oct 2026.
+CRYFXB is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Eden NYC, New York City on Fri, 23 Oct 2026.
 
-CRYFXB is a techno and trance artist based in Venezuela, with 44 gigs on soundcheck across New York City and Philadelphia. Often billed alongside Rapture, Purdy and CATA. Next up: Eden NYC, New York City on Fri 23 Oct.
+CRYFXB is a techno and trance artist based in Venezuela, with 45 gigs on soundcheck across New York City and Philadelphia. Often billed alongside Rapture, Purdy and CATA. Next up: Eden NYC, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Eden NYC | New York City |
+| Mon, 16 Nov 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 

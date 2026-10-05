@@ -11,7 +11,7 @@ Xuxa is a music venue in Austin listed on soundcheck. 5 upcoming gigs, with line
 | Fri, 9 Oct 2026 | DJ Q & Brett Johnson (Vinyl Night) ( + Afters) | Brett Johnson |
 | Sat, 10 Oct 2026 | SECOND SATURDAYS: Brett Johnson, Brother Pate, Victor S + Mando | Brett Johnson, Brother Pate |
 | Sat, 10 Oct 2026 | Might Be Magic Second Saturdays | Brett Johnson, Brother Pate |
-| Sat, 10 Oct 2026 | Full Hendy + Al V Dam + Majesty | Al V Dam, Full Hendy, MAJESTYOFDIVINITY |
+| Sat, 10 Oct 2026 | Full Hendy + Al V Dam + Majesty (+Afters) (11PM) | Al V Dam, Full Hendy, MAJESTYOFDIVINITY |
 | Fri, 6 Nov 2026 | KITCHEN TECHNO WELCOMES SHDW | Hana Sabri, Natch Nadjafi, Owen Green, SHDW |
 
 ## Address

@@ -9,7 +9,7 @@ Mabe Fratti is an experimental and ambient artist based in Guatemala, with 6 gig
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
-| Thu, 8 Oct 2026 | TBA | Krakow |
+| Thu, 8 Oct 2026 | Teatr Łaźnia Nowa | Krakow |
 
 ## Recently played
 

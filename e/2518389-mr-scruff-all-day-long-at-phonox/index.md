@@ -1,0 +1,16 @@
+# Mr. Scruff (All Day Long) at Phonox
+
+Mr. Scruff (All Day Long) at Phonox on Sat 24 Oct, London. 2 artists: Mr Scruff and Vanessa Freeman. House and Jazz. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 24 Oct 2026 |
+| Venue | Phonox |
+| City | London |
+
+## Line-up
+
+- Mr Scruff
+- Vanessa Freeman
+
+*Source: [soundcheck](https://soundcheck.club/e/2518389-mr-scruff-all-day-long-at-phonox/)*

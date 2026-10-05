@@ -1,6 +1,6 @@
 # BASS SLAUGHTER x TRT: HALLOWEEN NIGHTMARE - Night at Teritorija
 
-BASS SLAUGHTER x TRT: HALLOWEEN NIGHTMARE - Night at Teritorija on Sat 31 Oct, Riga. 5 artists: DENOVA, Leprosy, Marex Kai and RAWKORED and 1 more. House and Hardcore. See the line-up on soundcheck.
+BASS SLAUGHTER x TRT: HALLOWEEN NIGHTMARE - Night at Teritorija on Sat 31 Oct, Riga. 6 artists: DENOVA, Esoniq, Leprosy and Marex Kai and 2 more. House and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ BASS SLAUGHTER x TRT: HALLOWEEN NIGHTMARE - Night at Teritorija on Sat 31 Oct, R
 ## Line-up
 
 - DENOVA
+- Esoniq
 - Leprosy
 - Marex Kai
 - RAWKORED

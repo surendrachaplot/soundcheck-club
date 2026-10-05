@@ -1,15 +1,15 @@
 # MOTOKA
 
-MOTOKA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Royal Lounge, Tokyo on Mon, 5 Oct 2026.
+MOTOKA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at R Lounge, Tokyo on Thu, 8 Oct 2026.
 
-MOTOKA is a techno and house artist based in Japan, with 132 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), Junya and BERLINER KINDL. Next up: Royal Lounge, Tokyo on Mon 5 Oct.
+MOTOKA is a techno and house artist based in Japan, with 133 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), Junya and BERLINER KINDL. Next up: R Lounge, Tokyo on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 5 Oct 2026 | Royal Lounge | Tokyo |
 | Thu, 8 Oct 2026 | R Lounge | Tokyo |
+| Wed, 21 Oct 2026 | Azumaya | Tokyo |
 | Fri, 13 Nov 2026 | R Lounge | Tokyo |
 | Thu, 19 Nov 2026 | Cafe & Bar Extrawelt | Tokyo |
 

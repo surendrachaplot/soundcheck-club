@@ -9,7 +9,7 @@ Echoføn is a techno and dub artist, with 9 gigs on soundcheck across Detroit an
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Marble Bar | Detroit |
-| Sat, 24 Oct 2026 | Spkrbox | Detroit |
+| Fri, 23 Oct 2026 | Spkrbox | Detroit |
 | Sat, 21 Nov 2026 | Tangent Gallery | Detroit |
 
 ## Recently played

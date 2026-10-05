@@ -1,8 +1,8 @@
 # Adiel
 
-Adiel is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at RAWFACTORY, Amsterdam on Fri, 23 Oct 2026.
+Adiel is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at RAWFACTORY, Amsterdam on Fri, 23 Oct 2026.
 
-Adiel is a techno and house artist based in Italy, with 222 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 60 more. Often billed alongside Héctor Oaks, Nina Kraviz and Marcel Dettmann. Next up: RAWFACTORY, Amsterdam on Fri 23 Oct.
+Adiel is a techno and house artist based in Italy, with 223 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 60 more. Often billed alongside Héctor Oaks, Nina Kraviz and Marcel Dettmann. Next up: RAWFACTORY, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Adiel is a techno and house artist based in Italy, with 222 gigs on soundcheck a
 | Fri, 20 Nov 2026 | Radius | Chicago |
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 | Sat, 12 Dec 2026 | KALT | Strasbourg |
+| Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
 | Fri, 1 Jan 2027 | Bosc Tancat / Diverbosc | Barcelona |
 | Fri, 29 Jan 2027 | Cosmos Club Sevilla | South |
 

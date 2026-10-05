@@ -1,6 +1,6 @@
 # Archie Holmes x Arts of the Unknown - Vol.02 at Last Arch
 
-Archie Holmes x Arts of the Unknown - Vol.02 at Last Arch on Sat 24 Oct, London. 2 artists: Archie Holmes and Arts of the Unknown. House and Garage. See the line-up on soundcheck.
+Archie Holmes x Arts of the Unknown - Vol.02 at Last Arch on Sat 24 Oct, London. 4 artists: Archie Holmes, Arts of the Unknown, Dimi Darko and J. Peacock. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,7 @@ Archie Holmes x Arts of the Unknown - Vol.02 at Last Arch on Sat 24 Oct, London.
 
 - Archie Holmes
 - Arts of the Unknown
+- Dimi Darko
+- J. Peacock
 
 *Source: [soundcheck](https://soundcheck.club/e/2528588-archie-holmes-x-arts-of-the-unknown-vol-02-at-last-arch/)*

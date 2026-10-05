@@ -17,7 +17,7 @@ Good Room is a music venue in New York City listed on soundcheck. 13 upcoming gi
 | Sat, 24 Oct 2026 | FIXED with Mozhgan, JDH & Dave P, Universal Cave (all night) | JDH & Dave P, Mozhgan, Universal Cave |
 | Fri, 30 Oct 2026 | Synthicide Halloween ft Terence Fixmer, Andi, Justin Aulis Long, Stiffdance | Andi, Justin Aulis Long, Stiffdance, Terence Fixmer |
 | Fri, 6 Nov 2026 | 22 Years of FIXED ft Kelly Lee Owens (dj set), JDH & Dave P, Ivan Berko (all night) | Ivan Berko, JDH & Dave P, Kelly Lee Owens |
-| Sat, 7 Nov 2026 | Members Party: Tam Tam, Mike Guimond & Harim | Harim, Mike Guimond, Tam Tam |
+| Sat, 7 Nov 2026 | Members Party: Tam Tam, Mike Guimond & Harim, Fever Dream & ellen.j | Fever Dream, Harim, Mike Guimond, Tam Tam, ellen.j |
 
 ## Address
 

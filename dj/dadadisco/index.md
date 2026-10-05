@@ -2,7 +2,7 @@
 
 Dada Disco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Nonsense, Paris on Thu, 8 Oct 2026.
 
-Dada Disco is a house and disco artist, with 29 gigs on soundcheck across Barcelona, Berlin, Istanbul and Lisbon and 3 more. Often billed alongside Frozilla, Johannes Albert and Ady Toledano. Next up: Nonsense, Paris on Thu 8 Oct.
+Dada Disco is a house and disco artist based in Germany, with 29 gigs on soundcheck across Barcelona, Berlin, Istanbul and Lisbon and 3 more. Often billed alongside Frozilla, Johannes Albert and Ady Toledano. Next up: Nonsense, Paris on Thu 8 Oct.
 
 ## Upcoming shows
 

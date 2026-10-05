@@ -11,7 +11,7 @@ Last Arch is a music venue in London listed on soundcheck. 12 upcoming gigs, wit
 | Sat, 10 Oct 2026 | 2 Years of Last Arch - Conectat x Dubøka - 12Hr Party - Mihai Pol & Constratti | Constratti, Faraz (UK), Mihai Pol, Veerline and Hunter |
 | Sat, 17 Oct 2026 | Mödum presents - Suciu, Beckhäuser, Kyle&Sam, Bonza, Josh b2b Oli |  |
 | Fri, 23 Oct 2026 | Double Dip: Just Jane + DASHY & more | DASHY, Just Jane |
-| Sat, 24 Oct 2026 | Archie Holmes x Arts of the Unknown - Vol.02 | Archie Holmes, Arts of the Unknown |
+| Sat, 24 Oct 2026 | Archie Holmes x Arts of the Unknown - Vol.02 | Archie Holmes, Arts of the Unknown, Dimi Darko, J. Peacock |
 | Fri, 30 Oct 2026 | [CANCELLED] Más Música | HiFever, Luke Mannion, Ryan Nicholls, Timmy P, Tobias Lineker, Vince LaSalle |
 | Sat, 31 Oct 2026 | Holy Grail Presents: Halloween with Higgo | Higgo, THIRZA |
 | Fri, 6 Nov 2026 | SOLAS Studios presents: SOLAS & Friends (Chapter 2) |  |

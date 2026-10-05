@@ -1,14 +1,15 @@
 # Mila (5)
 
-Mila (5) is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Stadion Strahov, Prague on Sat, 10 Oct 2026.
+Mila (5) is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Stadion Strahov, Prague on Sat, 10 Oct 2026.
 
-Mila is a techno and industrial artist based in Poland, with 3 gigs on soundcheck across Prague, Vienna and Warsaw. Often billed alongside 2NDRA, RiVid and SCHELLT. Next up: Stadion Strahov, Prague on Sat 10 Oct.
+Mila is a techno and industrial artist based in Poland, with 4 gigs on soundcheck across Poznan, Prague, Vienna and Warsaw. Often billed alongside VRAXX, 2NDRA and Jake Fill. Next up: Stadion Strahov, Prague on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Stadion Strahov | Prague |
+| Sat, 17 Oct 2026 | SCHRON | Poznan |
 | Fri, 6 Nov 2026 | Piękno | Warsaw |
 
 ## Recently played
@@ -17,6 +18,6 @@ Mila is a techno and industrial artist based in Poland, with 3 gigs on soundchec
 
 ## Shares bills with
 
-2NDRA, RiVid, SCHELLT
+VRAXX, 2NDRA, Jake Fill
 
 *Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mila-5/)*

@@ -1,8 +1,8 @@
 # Eichi Abe
 
-Eichi Abe is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 9 Oct 2026.
+Eichi Abe is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 9 Oct 2026.
 
-Eichi Abe is a techno and electronica artist based in Japan, with 105 gigs on soundcheck across Hong Kong, Kuala Lumpur, Kyoto and Osaka and 4 more. Often billed alongside JUN INAGAWA, ecec and WAGAHAI IS NEKO. Next up: Circus Tokyo, Tokyo on Fri 9 Oct.
+Eichi Abe is a techno and electronica artist based in Japan, with 106 gigs on soundcheck across Hong Kong, Kuala Lumpur, Kyoto and Osaka and 4 more. Often billed alongside JUN INAGAWA, ecec and WAGAHAI IS NEKO. Next up: Circus Tokyo, Tokyo on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Eichi Abe is a techno and electronica artist based in Japan, with 105 gigs on so
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Circus Tokyo | Tokyo |
 | Sun, 11 Oct 2026 | VENT | Tokyo |
+| Fri, 30 Oct 2026 | Enter Shibuya | Tokyo |
 
 ## Recently played
 

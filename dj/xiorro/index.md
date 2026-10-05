@@ -1,8 +1,8 @@
 # Xiorro
 
-Xiorro is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Meet Berlage, Amsterdam on Sat, 24 Oct 2026.
+Xiorro is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Meet Berlage, Amsterdam on Sat, 24 Oct 2026.
 
-Xiorro is a techno and house artist based in United States of America, with 82 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Boston and 25 more. Often billed alongside Laure Croft, Parallx and Faster Horses. Next up: Meet Berlage, Amsterdam on Sat 24 Oct.
+Xiorro is a techno and house artist based in United States of America, with 83 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Boston and 25 more. Often billed alongside Laure Croft, Parallx and Disguised. Next up: Meet Berlage, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Xiorro is a techno and house artist based in United States of America, with 82 g
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Meet Berlage | Amsterdam |
 | Fri, 13 Nov 2026 | Peti Kupe | Zagreb |
+| Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Xiorro is a techno and house artist based in United States of America, with 82 g
 
 ## Shares bills with
 
-Laure Croft, Parallx, Faster Horses
+Laure Croft, Parallx, Disguised
 
 *Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xiorro/)*
