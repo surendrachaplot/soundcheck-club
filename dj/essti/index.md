@@ -2,7 +2,7 @@
 
 ESSTI is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Cadavra, Madrid on Thu, 31 Dec 2026.
 
-ESSTI is an electronica and house artist, with 8 gigs on soundcheck across Madrid. Often billed alongside Brody, frankydrama and ANGEL. Next up: Cadavra, Madrid on Thu 31 Dec.
+ESSTI is an electronica and house artist, with 8 gigs on soundcheck across Madrid. Often billed alongside Brody, frankydrama and Luska. Next up: Cadavra, Madrid on Thu 31 Dec.
 
 ## Upcoming shows
 
@@ -22,6 +22,6 @@ ESSTI is an electronica and house artist, with 8 gigs on soundcheck across Madri
 
 ## Shares bills with
 
-Brody (2), frankydrama, ANGEL (3)
+Brody (2), frankydrama, Luska
 
 *Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/essti/)*

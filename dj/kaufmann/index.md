@@ -12,7 +12,7 @@ Kaufmann is a techno and house artist based in Germany, with 149 gigs on soundch
 | Sat, 17 Oct 2026 | Hoppetosse | Berlin |
 | Thu, 22 Oct 2026 | Sugarfactory | Amsterdam |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
-| Sat, 24 Oct 2026 | Amsterdam Club Train | Amsterdam |
+| Sat, 24 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 | Fri, 30 Oct 2026 | Smolna | Warsaw |
 | Fri, 6 Nov 2026 | Fridas Pier | Stuttgart |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |

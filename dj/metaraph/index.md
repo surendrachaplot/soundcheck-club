@@ -1,13 +1,14 @@
 # Metaraph
 
-Metaraph is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 10 Oct 2026.
+Metaraph is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Core, Madrid on Thu, 8 Oct 2026.
 
-Metaraph is a techno and house artist based in United Kingdom, with 154 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 45 more. Often billed alongside Mar/us, Ellen Allien and Samantha Togni. Next up: RSO.BERLIN, Berlin on Sat 10 Oct.
+Metaraph is a techno and house artist based in United Kingdom, with 155 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 45 more. Often billed alongside Mar/us, Ellen Allien and Samantha Togni. Next up: Core, Madrid on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 8 Oct 2026 | Core | Madrid |
 | Sat, 10 Oct 2026 | RSO.BERLIN | Berlin |
 | Fri, 23 Oct 2026 | Elastica | Vilnius |
 | Fri, 13 Nov 2026 | FOLD | London |

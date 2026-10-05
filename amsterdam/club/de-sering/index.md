@@ -15,7 +15,7 @@ De Sering is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, w
 | Thu, 22 Oct 2026 | DC Salas & Magma invite - Amsterdam Dance Event | Ava Eva, Bon Public, DC Salas, Enrica Falqui |
 | Fri, 23 Oct 2026 | Dusty Cabinets / Friday | Camille Maria, Darwin, Marylou, Zoë Mc Pherson |
 | Sat, 24 Oct 2026 | Dusty Cabinets / Saturday | LNR (UK), MBODJ, k means |
-| Sat, 14 Nov 2026 | SCENE presents Club Season: |  |
+| Sat, 14 Nov 2026 | SCENE presents Club Season: | Polli Panda |
 
 ## Address
 

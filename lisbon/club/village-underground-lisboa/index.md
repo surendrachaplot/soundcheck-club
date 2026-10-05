@@ -1,8 +1,8 @@
 # Village Underground Lisboa
 
-Village Underground Lisboa is a music venue in Lisbon with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Superlativo by Super Bock: niina's Love Club" on Fri, 9 Oct 2026.
+Village Underground Lisboa is a music venue in Lisbon with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Superlativo by Super Bock: niina's Love Club" on Fri, 9 Oct 2026.
 
-Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 7 upcoming gigs, with line-ups including Bryto, Camps, CIINTRA and Enkō and 2 more. See dates, start times and who's playing. Avenida da India 52, 1300-299 Lisboa.
+Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 8 upcoming gigs, with line-ups including Bryto, Camps, CIINTRA and ELEVIN and 2 more. See dates, start times and who's playing. Avenida da India 52, 1300-299 Lisboa.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 7 up
 | Sat, 10 Oct 2026 | afterglow: grounding - Open Air | kazarov |
 | Thu, 15 Oct 2026 | 12-HOUR PARTY PEOPLE: Closing Summer | Bryto, Gabriel Brasil, Khalil Suleman, Kristina (2) |
 | Fri, 16 Oct 2026 | Impulso I | CIINTRA, Enkō, Luis FMR |
+| Sat, 17 Oct 2026 | ELEVIN Extended Hybrid Set - Open-Air Sunset Season Closing | ELEVIN |
 | Sat, 24 Oct 2026 | Tarantism: Day & Night |  |
 | Fri, 30 Oct 2026 | NEXUS: FRIDAY BEAT INFERNO | Camps (1) |
 

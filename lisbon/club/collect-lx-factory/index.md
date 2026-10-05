@@ -12,7 +12,7 @@ Collect LX Factory is a music venue in Lisbon listed on soundcheck. 10 upcoming 
 | Thu, 15 Oct 2026 | Collectors with Caroline Letho, Mafalda Mais, Enko | Caroline Lethô, Enkō, Mafalda Mais |
 | Fri, 16 Oct 2026 | [ju:dtend'en:s] | Daniel Lien, Flord King, Nico O'Konor |
 | Sat, 17 Oct 2026 | Collect LX Factory presents Shoal (live) | Billi, Shoal, Ze Salvador |
-| Sat, 24 Oct 2026 | CONTRATEMPOS CLUBBING & Basscalhau - TBA |  |
+| Sat, 24 Oct 2026 | CONTRATEMPOS CLUBBING & Basscalhau - BOP (UK) Collect LX Factory  |  |
 | Thu, 29 Oct 2026 | Collectors with Stan Yaroslavsky, André Sousa, Pawl | Pawl, Stan Yaroslavsky |
 | Sat, 31 Oct 2026 | XDB Residency | XDB |
 | Sat, 14 Nov 2026 | Collect LX Factory presents Dorisburg (live) | Amulador, Dorisburg, Elless & Benn |

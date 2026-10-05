@@ -13,7 +13,7 @@ Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 6 upcomi
 | Sat, 24 Oct 2026 | Late Night Essentials 4th Birthday | Isaac Frost, Kristina May, Neev. |
 | Sat, 31 Oct 2026 | Point of No Return | Rosy Ross |
 | Sat, 7 Nov 2026 | IMPULSE CONTROL: Nexus, Keepsakes, TRSSX + more | B4mba, CHEZA LUCINA, Keepsakes, Mooki6, New Flesh (2), TOOTHTAXI, TRSSX, Toni S |
-| Fri, 27 Nov 2026 | How It Started 8: Extended Sessions - 100% Vinyl - Multi-Genre Underground Music | ETHICS, Hickey |
+| Fri, 27 Nov 2026 | How It Started 8: Extended Sessions - 100% Vinyl - Jungle/D&B/Hardcore | ETHICS, Hickey |
 
 ## Address
 

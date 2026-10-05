@@ -1,14 +1,13 @@
 # Madame Claude
 
-Madame Claude is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Madame Claude's Experimontag" on Mon, 5 Oct 2026.
+Madame Claude is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "HOLYWORLD - 2 Floors" on Fri, 9 Oct 2026.
 
-Madame Claude is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Devin Gray, DJ Fiona, doctor doms and Heshumi and 2 more. See dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
+Madame Claude is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Devin Gray, DJ Fiona, doctor doms and Heshumi and 2 more. See dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 5 Oct 2026 | Madame Claude's Experimontag |  |
 | Fri, 9 Oct 2026 | HOLYWORLD - 2 Floors | DJ Fiona, Heshumi, Holywanderer, Sakrum, doctor doms, tech_punk |
 | Sat, 10 Oct 2026 | AkA + Bleedingblackwood + Sugartin + Rheinkalk (DJ-Set) - TAG DER CLUBKULTUR Festival Week |  |
 | Mon, 12 Oct 2026 | Devin Gray's Most Definitely |  |

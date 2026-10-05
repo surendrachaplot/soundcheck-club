@@ -1,8 +1,8 @@
 # Tinzo
 
-Tinzo is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Don Quixote, Los Angeles on Fri, 16 Oct 2026.
+Tinzo is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Don Quixote, Los Angeles on Fri, 16 Oct 2026.
 
-Tinzo is a house and techno artist based in United States of America, with 124 gigs on soundcheck across Austin, Barcelona, Boston and Chicago and 18 more. Often billed alongside Jojo Lorenzo, RaeCola and Varist. Next up: Don Quixote, Los Angeles on Fri 16 Oct.
+Tinzo is a house and techno artist based in United States of America, with 125 gigs on soundcheck across Austin, Barcelona, Boston and Chicago and 19 more. Often billed alongside Jojo Lorenzo, RaeCola and Varist. Next up: Don Quixote, Los Angeles on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Tinzo is a house and techno artist based in United States of America, with 124 g
 | Fri, 6 Nov 2026 | smartbar | Chicago |
 | Sat, 7 Nov 2026 | Le Studio TD | Montreal |
 | Fri, 13 Nov 2026 | Smolna | Warsaw |
+| Sat, 5 Dec 2026 | The Fruit | North-carolina |
 
 ## Recently played
 

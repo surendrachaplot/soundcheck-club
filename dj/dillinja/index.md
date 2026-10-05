@@ -1,8 +1,8 @@
 # Dillinja
 
-Dillinja is a Drum & Bass and Jungle artist with 9 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Cakeshop, Seoul on Sat, 10 Oct 2026.
+Dillinja is a Drum & Bass and Jungle artist with 10 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Cakeshop, Seoul on Sat, 10 Oct 2026.
 
-Dillinja is a drum & bass and jungle artist based in United Kingdom, with 122 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 30 more. Often billed alongside IC3, Bryan Gee and MC GQ. Next up: Cakeshop, Seoul on Sat 10 Oct.
+Dillinja is a drum & bass and jungle artist based in United Kingdom, with 123 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 30 more. Often billed alongside IC3, Bryan Gee and MC GQ. Next up: Cakeshop, Seoul on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dillinja is a drum & bass and jungle artist based in United Kingdom, with 122 gi
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Cakeshop | Seoul |
 | Fri, 23 Oct 2026 | Sidney & Matilda | Sheffield |
+| Sat, 7 Nov 2026 | XOYO | London |
 | Sat, 14 Nov 2026 | fabric | London |
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |

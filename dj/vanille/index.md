@@ -2,7 +2,7 @@
 
 Vanille is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Badaboum, Paris on Sat, 10 Oct 2026.
 
-Vanille is a techno and electro artist, with 78 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 14 more. Often billed alongside MCR-T, Yasmin Regisford and Behzad. Next up: Badaboum, Paris on Sat 10 Oct.
+Vanille is a techno and electro artist based in France, with 78 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 14 more. Often billed alongside MCR-T, Yasmin Regisford and Behzad. Next up: Badaboum, Paris on Sat 10 Oct.
 
 ## Upcoming shows
 

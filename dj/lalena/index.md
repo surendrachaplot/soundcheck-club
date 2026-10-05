@@ -9,7 +9,7 @@ LALENA is a techno and house artist based in Germany, with 66 gigs on soundcheck
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Het Sieraad | Amsterdam |
-| Sat, 24 Oct 2026 | Amsterdam Club Train | Amsterdam |
+| Sat, 24 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 
 ## Recently played

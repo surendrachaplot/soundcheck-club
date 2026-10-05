@@ -1,6 +1,6 @@
 # Binder Official London Launch Party at TBA - Secret East London Location
 
-Binder Official London Launch Party at TBA - Secret East London Location on Sat 10 Oct, London. 8 artists: Atoxyl, Eudoxie, LEWCIFER and LOVECAT and 4 more. Techno and Jungle. See the line-up on soundcheck.
+Binder Official London Launch Party at TBA - Secret East London Location on Sat 10 Oct, London. 7 artists: Eudoxie, LEWCIFER, LOVECAT and Maizy West and 3 more. Techno and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,13 +10,12 @@ Binder Official London Launch Party at TBA - Secret East London Location on Sat 
 
 ## Line-up
 
-- Atoxyl
 - Eudoxie
 - LEWCIFER
 - LOVECAT
 - Maizy West
 - Sissy Cinnamon
+- Spinks
 - Ting Run Run
-- YOYO (UK)
 
 *Source: [soundcheck](https://soundcheck.club/e/2552880-binder-official-london-launch-party-at-tba-secret-east-londo/)*

@@ -9,8 +9,8 @@ Chica Club is a music venue in Barcelona listed on soundcheck. 6 upcoming gigs, 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 14 Oct 2026 | Electrostad: FREE PARTY with Victor Hugo & friends | Victor Hugo |
-| Wed, 21 Oct 2026 | Electrostad: FREE PARTY with Victor Hugo & friends | Victor Hugo |
-| Wed, 28 Oct 2026 | Electrostad: FREE PARTY with Victor Hugo & friends | Victor Hugo |
+| Wed, 21 Oct 2026 | Electrostad: FREE PARTY with PINI, Victor Hugo & friends | Victor Hugo |
+| Wed, 28 Oct 2026 | Electrostad: FREE PARTY with PINI, Victor Hugo & friends | Victor Hugo |
 | Wed, 4 Nov 2026 | Electrostad: FREE PARTY with Victor Hugo & friends | Victor Hugo |
 | Wed, 11 Nov 2026 | Electrostad: FREE PARTY with Victor Hugo & friends | Victor Hugo |
 | Wed, 25 Nov 2026 | Electrostad: FREE PARTY with Victor Hugo & friends | Victor Hugo |

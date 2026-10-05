@@ -11,7 +11,7 @@ Pan-Pot is a techno and house artist based in Germany, with 185 gigs on soundche
 | Fri, 9 Oct 2026 | Grelle Forelle | Vienna |
 | Fri, 16 Oct 2026 | Hangar Luke Beograd | Belgrade |
 | Sat, 24 Oct 2026 | Het Sieraad | Amsterdam |
-| Sat, 24 Oct 2026 | Amsterdam Club Train | Amsterdam |
+| Sat, 24 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 | Fri, 30 Oct 2026 | BERHTA | Washington DC |
 | Sat, 31 Oct 2026 | TBA - Club Guatemala | Guatemala |
 | Sat, 31 Oct 2026 | Club Guatemala | Guatemala |

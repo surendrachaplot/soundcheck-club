@@ -1,13 +1,14 @@
 # KELLY TEE
 
-KELLY TEE is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 11 Oct 2026.
+KELLY TEE is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Chinese Laundry, Sydney on Sat, 10 Oct 2026.
 
-KELLY TEE is a house and techno artist based in United Kingdom, with 96 gigs on soundcheck across Cologne, Melbourne and Sydney. Often billed alongside Boogs, Spacey Space and Ben Silver (AUS). Next up: Revolver Upstairs, Melbourne on Sun 11 Oct.
+KELLY TEE is a house and techno artist based in United Kingdom, with 97 gigs on soundcheck across Cologne, Melbourne and Sydney. Often billed alongside Boogs, Spacey Space and Ben Silver (AUS). Next up: Chinese Laundry, Sydney on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Chinese Laundry | Sydney |
 | Sun, 11 Oct 2026 | Revolver Upstairs | Melbourne |
 | Fri, 16 Oct 2026 | OneSixOne | Melbourne |
 

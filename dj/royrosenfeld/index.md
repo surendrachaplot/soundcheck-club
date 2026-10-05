@@ -1,8 +1,8 @@
 # Roy Rosenfeld
 
-Roy Rosenfeld is a House and Progressive House artist with 11 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Club Vaag, Antwerp on Fri, 9 Oct 2026.
+Roy Rosenfeld is a House and Progressive House artist with 12 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Club Vaag, Antwerp on Fri, 9 Oct 2026.
 
-Roy Rosenfeld is a house and progressive house artist based in Czech Republic, with 124 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 30 more. Often billed alongside Sebastien Leger, Guy Mantzur and Lee Burridge. Next up: Club Vaag, Antwerp on Fri 9 Oct.
+Roy Rosenfeld is a house and progressive house artist based in Czech Republic, with 125 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 30 more. Often billed alongside Sebastien Leger, Guy Mantzur and Lee Burridge. Next up: Club Vaag, Antwerp on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Roy Rosenfeld is a house and progressive house artist based in Czech Republic, w
 | Sat, 31 Oct 2026 | TBA - Downtown LA | Los Angeles |
 | Sun, 1 Nov 2026 | TBA - Private Location | San Diego |
 | Fri, 13 Nov 2026 | Upside | Florida |
+| Sat, 12 Dec 2026 | Bikini Club | Barcelona |
 
 ## Recently played
 
