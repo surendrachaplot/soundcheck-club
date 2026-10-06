@@ -1,6 +1,6 @@
 # KELLY TEE
 
-KELLY TEE is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Chinese Laundry, Sydney on Sat, 10 Oct 2026.
+KELLY TEE is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Chinese Laundry, Sydney on Sat, 10 Oct 2026.
 
 KELLY TEE is a house and techno artist based in United Kingdom, with 97 gigs on soundcheck across Cologne, Melbourne and Sydney. Often billed alongside Boogs, Spacey Space and Ben Silver (AUS). Next up: Chinese Laundry, Sydney on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ KELLY TEE is a house and techno artist based in United Kingdom, with 97 gigs on 
 
 Boogs, Spacey Space, Ben Silver (AUS)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kellytee/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kellytee/)*

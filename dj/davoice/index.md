@@ -1,6 +1,6 @@
 # Da Voice
 
-Da Voice is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Distillery, Leipzig on Sat, 24 Oct 2026.
+Da Voice is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Distillery, Leipzig on Sat, 24 Oct 2026.
 
 Da Voice is a techno and minimal techno artist based in Germany, with 4 gigs on soundcheck across Hamburg and Leipzig. Often billed alongside Florian Martin, Platten Karton and Renegat. Next up: Distillery, Leipzig on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ Da Voice is a techno and minimal techno artist based in Germany, with 4 gigs on 
 
 Florian Martin, Platten Karton, Renegat
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davoice/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davoice/)*

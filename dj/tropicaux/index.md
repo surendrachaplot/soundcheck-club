@@ -1,6 +1,6 @@
 # Tropicaux
 
-Tropicaux is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Buff Club, Glasgow on Fri, 23 Oct 2026.
+Tropicaux is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Buff Club, Glasgow on Fri, 23 Oct 2026.
 
 Tropicaux is a disco and house artist, with 5 gigs on soundcheck across Glasgow. Often billed alongside djsmuz, Amizl and Brody James. Next up: The Buff Club, Glasgow on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Tropicaux is a disco and house artist, with 5 gigs on soundcheck across Glasgow.
 
 djsmuz, Amizl, Brody James
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tropicaux/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tropicaux/)*

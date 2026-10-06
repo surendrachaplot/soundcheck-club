@@ -1,6 +1,6 @@
 # Craze
 
-Craze is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at ZeyZey, Miami on Thu, 8 Oct 2026.
+Craze is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at ZeyZey, Miami on Thu, 8 Oct 2026.
 
 Craze is a drum & bass and jungle artist based in United States of America, with 61 gigs on soundcheck across Amsterdam, Auckland, Austin and Boston and 16 more. Often billed alongside shinobi (US), Solartrak and Billy Daniel Bunter. Next up: ZeyZey, Miami on Thu 8 Oct.
 
@@ -29,4 +29,4 @@ Craze is a drum & bass and jungle artist based in United States of America, with
 
 shinobi (US), Solartrak, Billy Daniel Bunter
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craze/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craze/)*

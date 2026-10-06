@@ -1,6 +1,6 @@
 # Grawinkel
 
-Grawinkel is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at elipamanoke, Leipzig on Sat, 10 Oct 2026.
+Grawinkel is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at elipamanoke, Leipzig on Sat, 10 Oct 2026.
 
 Grawinkel is a drum & bass and dubstep artist, with 4 gigs on soundcheck across Leipzig. Often billed alongside DJ Annita, Hemilotl and Tr One. Next up: elipamanoke, Leipzig on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ Grawinkel is a drum & bass and dubstep artist, with 4 gigs on soundcheck across 
 
 DJ Annita, Hemilotl, Tr One
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grawinkel/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grawinkel/)*

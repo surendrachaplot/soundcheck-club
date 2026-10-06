@@ -1,6 +1,6 @@
 # A7ba L Jelly
 
-A7ba L Jelly is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 11 Oct 2026.
+A7ba L Jelly is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 11 Oct 2026.
 
 A7ba L Jelly is an experimental and club artist, with 7 gigs on soundcheck across Berlin, Lisbon, New York City and Prague and 1 more. Often billed alongside 8ULENTINA, AfroNinja and BADSISTA. Next up: Bossa Nova Civic Club, New York City on Sun 11 Oct.
 
@@ -23,4 +23,4 @@ A7ba L Jelly is an experimental and club artist, with 7 gigs on soundcheck acros
 
 8ULENTINA, AfroNinja, BADSISTA
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a7baljelly/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a7baljelly/)*

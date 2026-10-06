@@ -1,6 +1,6 @@
 # HangryRacoon
 
-HangryRacoon is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Star Of Kings, London on Thu, 8 Oct 2026.
+HangryRacoon is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Star Of Kings, London on Thu, 8 Oct 2026.
 
 HangryRacoon is a house and bass artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside BENXTAN, Slipstream and Noizfiend. Next up: The Star Of Kings, London on Thu 8 Oct.
 
@@ -20,4 +20,4 @@ HangryRacoon is a house and bass artist based in United Kingdom, with 4 gigs on 
 
 BENXTAN, Slipstream, Noizfiend
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hangryracoon/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hangryracoon/)*

@@ -1,14 +1,14 @@
 # Steph Angel
 
-Steph Angel is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - BOSTON SECRET LOCATION , Boston on Sat, 31 Oct 2026.
+Steph Angel is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Boston, Boston on Sat, 31 Oct 2026.
 
-Steph Angel is a techno and acid artist based in United States of America, with 8 gigs on soundcheck across Boston. Often billed alongside The Consciousness, ANDRÉS GARCIL and Anna Eberg. Next up: TBA - BOSTON SECRET LOCATION , Boston on Sat 31 Oct.
+Steph Angel is a techno and acid artist based in United States of America, with 8 gigs on soundcheck across Boston. Often billed alongside The Consciousness, ANDRÉS GARCIL and Anna Eberg. Next up: TBA - Boston, Boston on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | TBA - BOSTON SECRET LOCATION  | Boston |
+| Sat, 31 Oct 2026 | TBA - Boston | Boston |
 
 ## Recently played
 
@@ -24,4 +24,4 @@ Steph Angel is a techno and acid artist based in United States of America, with 
 
 The Consciousness, ANDRÉS GARCIL, Anna Eberg
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephangel/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephangel/)*

@@ -1,6 +1,6 @@
 # Viénce
 
-Viénce is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Marmorbar, Berlin on Sat, 10 Oct 2026.
+Viénce is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Marmorbar, Berlin on Sat, 10 Oct 2026.
 
 Viénce is a house and techno artist, with 19 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Otal, SELESSA T. and CBR (Berlin). Next up: Marmorbar, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Viénce is a house and techno artist, with 19 gigs on soundcheck across Amsterda
 
 Otal, SELESSA T., CBR (Berlin)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vience-de/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vience-de/)*

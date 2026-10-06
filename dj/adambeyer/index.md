@@ -1,6 +1,6 @@
 # Adam Beyer
 
-Adam Beyer is a Techno and Tech House artist with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at LAB theCLUB, Madrid on Fri, 9 Oct 2026.
+Adam Beyer is a Techno and Tech House artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at LAB theCLUB, Madrid on Fri, 9 Oct 2026.
 
 Adam Beyer is a techno and tech house artist based in Sweden, with 191 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 49 more. Often billed alongside Eric Prydz, Bart Skils and Patrick Topping. Next up: LAB theCLUB, Madrid on Fri 9 Oct.
 
@@ -31,4 +31,4 @@ Adam Beyer is a techno and tech house artist based in Sweden, with 191 gigs on s
 
 Eric Prydz, Bart Skils, Patrick Topping
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adambeyer/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adambeyer/)*

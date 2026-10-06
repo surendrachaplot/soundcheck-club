@@ -1,6 +1,6 @@
 # Michael Gray
 
-Michael Gray is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Pilgrim, Newcastle on Sat, 24 Oct 2026.
+Michael Gray is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Pilgrim, Newcastle on Sat, 24 Oct 2026.
 
 Michael Gray is a house and disco artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Brighton and 14 more. Often billed alongside Melvo Baptiste, Dave Lee and MiNNA. Next up: Pilgrim, Newcastle on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ Michael Gray is a house and disco artist based in United Kingdom, with 48 gigs o
 
 Melvo Baptiste, Dave Lee, MiNNA
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelgray/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelgray/)*

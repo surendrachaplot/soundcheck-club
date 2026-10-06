@@ -1,6 +1,6 @@
 # Bjørn
 
-Bjørn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Underground SF, San Francisco/Oakland on Fri, 18 Dec 2026.
+Bjørn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Underground SF, San Francisco/Oakland on Fri, 18 Dec 2026.
 
 Bjørn is a techno and house artist based in United States of America, with 4 gigs on soundcheck across Hamburg and San Francisco/Oakland. Often billed alongside Jordan, 480P (US) and Claire Short. Next up: Underground SF, San Francisco/Oakland on Fri 18 Dec.
 
@@ -20,4 +20,4 @@ Bjørn is a techno and house artist based in United States of America, with 4 gi
 
 Jordan, 480P (US), Claire Short
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bjorn-us/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bjorn-us/)*

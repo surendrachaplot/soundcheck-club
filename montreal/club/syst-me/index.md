@@ -1,6 +1,6 @@
 # Système
 
-Système is a music venue in Montreal with 16 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Ramzilla + Juan Izguerra" on Thu, 8 Oct 2026.
+Système is a music venue in Montreal with 16 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Ramzilla + Juan Izguerra" on Thu, 8 Oct 2026.
 
 Système is a music venue in Montreal listed on soundcheck. 16 upcoming gigs, with line-ups including AṢKIM, AADJA, Alina (MTL) and Ana Luisa and 2 more. See dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
 
@@ -23,4 +23,4 @@ Système is a music venue in Montreal listed on soundcheck. 16 upcoming gigs, wi
 
 7119 Saint Hubert, Montreal QC H2S2N1 Canada, Montreal
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*

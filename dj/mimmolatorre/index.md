@@ -1,6 +1,6 @@
 # Mimmo La Torre
 
-Mimmo La Torre is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Süss War Gestern, Berlin on Tue, 6 Oct 2026.
+Mimmo La Torre is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Süss War Gestern, Berlin on Tue, 6 Oct 2026.
 
 Mimmo La Torre is a house and electro artist, with 8 gigs on soundcheck across Berlin. Often billed alongside Frederik Neu, Hyperbole and Lcaise. Next up: Süss War Gestern, Berlin on Tue 6 Oct.
 
@@ -24,4 +24,4 @@ Mimmo La Torre is a house and electro artist, with 8 gigs on soundcheck across B
 
 Frederik Neu, Hyperbole, Lcaise
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimmolatorre/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimmolatorre/)*

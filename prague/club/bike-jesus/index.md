@@ -1,6 +1,6 @@
 # Bike Jesus
 
-Bike Jesus is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "✭EERIE COLLECTIVE✭ at Bike Jesus" on Fri, 9 Oct 2026.
+Bike Jesus is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "✭EERIE COLLECTIVE✭ at Bike Jesus" on Fri, 9 Oct 2026.
 
 Bike Jesus is a music venue in Prague listed on soundcheck. 10 upcoming gigs, with line-ups including Andrea Dare, AVHD, Barbellay and Big Lil and 2 more. See dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
 
@@ -23,4 +23,4 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 10 upcoming gigs, wi
 
 ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia, Prague
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*

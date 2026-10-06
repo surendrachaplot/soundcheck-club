@@ -1,13 +1,14 @@
 # CASSIMM
 
-CASSIMM is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Club Morocco, Costanera, Buenos Aires on Sun, 11 Oct 2026.
+CASSIMM is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Sonorama, Medellin on Sat, 10 Oct 2026.
 
-CASSIMM is a house and tech house artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belfast and 16 more. Often billed alongside Claptone, Mark Knight and Martin Ikin. Next up: TBA - Club Morocco, Costanera, Buenos Aires on Sun 11 Oct.
+CASSIMM is a house and tech house artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belfast and 17 more. Often billed alongside Claptone, Mark Knight and Martin Ikin. Next up: Sonorama, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Sonorama | Medellin |
 | Sun, 11 Oct 2026 | TBA - Club Morocco, Costanera | Buenos Aires |
 
 ## Recently played
@@ -25,4 +26,4 @@ CASSIMM is a house and tech house artist based in United Kingdom, with 51 gigs o
 
 Claptone, Mark Knight, Martin Ikin
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassimm/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassimm/)*

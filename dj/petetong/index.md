@@ -1,6 +1,6 @@
 # Pete Tong
 
-Pete Tong is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Great Pyramids OF Giza, Egypt on Fri, 9 Oct 2026.
+Pete Tong is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The Great Pyramids OF Giza, Egypt on Fri, 9 Oct 2026.
 
 Pete Tong is a house and techno artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Austin, Berlin and Bristol and 14 more. Often billed alongside Jaguar, Airrica and Arielle Free. Next up: The Great Pyramids OF Giza, Egypt on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Pete Tong is a house and techno artist based in United Kingdom, with 53 gigs on 
 
 Jaguar, Airrica, Arielle Free
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petetong/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petetong/)*

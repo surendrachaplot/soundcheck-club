@@ -1,6 +1,6 @@
 # Richey V
 
-Richey V is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Main Club, Milan on Thu, 8 Oct 2026.
+Richey V is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Main Club, Milan on Thu, 8 Oct 2026.
 
 Richey V is a techno and electronica artist based in Italy, with 71 gigs on soundcheck across Ibiza and Milan. Often billed alongside Massi Rocket, Francis Arvel and Andrea Isella. Next up: Main Club, Milan on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Richey V is a techno and electronica artist based in Italy, with 71 gigs on soun
 
 Massi Rocket, Francis Arvel, Andrea Isella
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richeyv/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richeyv/)*

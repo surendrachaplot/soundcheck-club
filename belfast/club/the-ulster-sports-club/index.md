@@ -1,6 +1,6 @@
 # The Ulster Sports Club
 
-The Ulster Sports Club is a music venue in Belfast with 9 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "LEATHERETTE" on Sat, 10 Oct 2026.
+The Ulster Sports Club is a music venue in Belfast with 9 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "LEATHERETTE" on Sat, 10 Oct 2026.
 
 The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 9 upcoming gigs, with line-ups including ByPhil, Chris Flannigan, Conor Schmtz and Cooke and 2 more. See dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
 
@@ -22,4 +22,4 @@ The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 9 upcom
 
 The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom, Belfast
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*

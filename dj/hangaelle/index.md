@@ -1,6 +1,6 @@
 # Hangaelle
 
-Hangaelle is a Amapiano and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Toronto on Sun, 11 Oct 2026.
+Hangaelle is a Amapiano and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA, Toronto on Sun, 11 Oct 2026.
 
 Hangaelle is an amapiano and afro house artist based in Canada, with 39 gigs on soundcheck across Berlin, London, Los Angeles and Montreal and 2 more. Often billed alongside ADEOLA, ISA. and martinses. Next up: TBA, Toronto on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Hangaelle is an amapiano and afro house artist based in Canada, with 39 gigs on 
 
 ADEOLA, ISA., martinses
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hangaelle/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hangaelle/)*

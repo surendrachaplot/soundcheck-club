@@ -1,6 +1,6 @@
 # CEM
 
-CEM is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at KOK Bazar, Kazakhstan on Fri, 16 Oct 2026.
+CEM is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at KOK Bazar, Kazakhstan on Fri, 16 Oct 2026.
 
 CEM is a techno and house artist based in Germany, with 211 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 51 more. Often billed alongside MCMLXXXV, JASSS and Dj Saliva. Next up: KOK Bazar, Kazakhstan on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ CEM is a techno and house artist based in Germany, with 211 gigs on soundcheck a
 
 MCMLXXXV, JASSS, Dj Saliva
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cem/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cem/)*

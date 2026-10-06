@@ -1,6 +1,6 @@
 # George Rallis
 
-George Rallis is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Onassis Ready, Athens on Fri, 9 Oct 2026.
+George Rallis is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Onassis Ready, Athens on Fri, 9 Oct 2026.
 
 George Rallis is an electronic artist, with 5 gigs on soundcheck across Athens. Often billed alongside Alexander Skancke, Anna Vs June and Baggymilziade. Next up: Onassis Ready, Athens on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ George Rallis is an electronic artist, with 5 gigs on soundcheck across Athens. 
 
 Alexander Skancke, Anna Vs June, Baggymilziade
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgerallis/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgerallis/)*

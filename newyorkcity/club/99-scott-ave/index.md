@@ -1,6 +1,6 @@
 # 99 Scott Ave
 
-99 Scott Ave is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "ARODES w. ARYMÉ & Martim Rola" on Fri, 9 Oct 2026.
+99 Scott Ave is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "ARODES w. ARYMÉ & Martim Rola" on Fri, 9 Oct 2026.
 
 99 Scott Ave is a music venue in New York City listed on soundcheck. 11 upcoming gigs, with line-ups including ARODES, ARYMÉ, Benwal and Danni Gato and 2 more. See dates, start times and who's playing. 99 Scott Ave, Brooklyn, NY 11237.
 
@@ -23,4 +23,4 @@
 
 99 Scott Ave, Brooklyn, NY 11237, New York City
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/99-scott-ave/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/99-scott-ave/)*

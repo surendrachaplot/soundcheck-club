@@ -1,14 +1,15 @@
 # DJ Matpat
 
-DJ Matpat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Pennsylvania on Sat, 10 Oct 2026.
+DJ Matpat is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA, Pennsylvania on Sat, 10 Oct 2026.
 
-DJ Matpat is a house and techno artist based in United States of America, with 59 gigs on soundcheck across Boston, Detroit, Glasgow and Miami and 4 more. Often billed alongside Shang, Elvin T and Céleste. Next up: TBA, Pennsylvania on Sat 10 Oct.
+DJ Matpat is a house and techno artist based in United States of America, with 60 gigs on soundcheck across Boston, Detroit, Glasgow and Miami and 4 more. Often billed alongside Shang, Elvin T and America Loves Me. Next up: TBA, Pennsylvania on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | TBA | Pennsylvania |
+| Sat, 24 Oct 2026 | Bastet | Philadelphia |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ DJ Matpat is a house and techno artist based in United States of America, with 5
 
 ## Shares bills with
 
-Shang, Elvin T, Céleste
+Shang, Elvin T, America Loves Me
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmatpat/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmatpat/)*

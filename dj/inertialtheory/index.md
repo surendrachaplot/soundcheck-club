@@ -1,6 +1,6 @@
 # Inertial Theory
 
-Inertial Theory is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Sala Siroco, Madrid on Fri, 13 Nov 2026.
+Inertial Theory is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Sala Siroco, Madrid on Fri, 13 Nov 2026.
 
 Inertial Theory is a techno and electronica artist based in Spain, with 4 gigs on soundcheck across Madrid. Often billed alongside Atum Rex and Oxbin. Next up: Sala Siroco, Madrid on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ Inertial Theory is a techno and electronica artist based in Spain, with 4 gigs o
 
 Atum Rex, Oxbin
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inertialtheory/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inertialtheory/)*

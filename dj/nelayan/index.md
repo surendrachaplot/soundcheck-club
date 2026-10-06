@@ -1,13 +1,14 @@
 # Nelayan
 
-Nelayan is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sun, 25 Oct 2026.
+Nelayan is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
-Nelayan is a techno and club artist based in France, with 6 gigs on soundcheck across Amsterdam and Barcelona. Often billed alongside Julian Ess, AELVA K and Albin Brezlan. Next up: Amsterdam Central Station, Amsterdam on Sun 25 Oct.
+Nelayan is a techno and club artist based in France, with 7 gigs on soundcheck across Amsterdam and Barcelona. Often billed alongside Julian Ess, AELVA K and Albin Brezlan. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 | Sun, 25 Oct 2026 | Amsterdam Central Station | Amsterdam |
 
 ## Recently played
@@ -22,4 +23,4 @@ Nelayan is a techno and club artist based in France, with 6 gigs on soundcheck a
 
 Julian Ess, AELVA K, Albin Brezlan
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nelayan/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nelayan/)*

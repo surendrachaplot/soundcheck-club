@@ -1,6 +1,6 @@
 # Tom Ellis
 
-Tom Ellis is a Jazz and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Cafe De Leven, Amsterdam on Sat, 24 Oct 2026.
+Tom Ellis is a Jazz and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Cafe De Leven, Amsterdam on Sat, 24 Oct 2026.
 
 Tom Ellis is a jazz and deep house artist, with 8 gigs on soundcheck across Amsterdam, Berlin, London and Rotterdam. Often billed alongside Steven Pieters, Anna Wall and Carl H. Next up: Cafe De Leven, Amsterdam on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Tom Ellis is a jazz and deep house artist, with 8 gigs on soundcheck across Amst
 
 Steven Pieters, Anna Wall, Carl H
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomellis/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomellis/)*

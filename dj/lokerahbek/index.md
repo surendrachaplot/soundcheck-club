@@ -1,6 +1,6 @@
 # Loke Rahbek
 
-Loke Rahbek is a Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Communale Saint-Ouen, Paris on Thu, 12 Nov 2026.
+Loke Rahbek is a Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Communale Saint-Ouen, Paris on Thu, 12 Nov 2026.
 
 Loke Rahbek is an ambient artist based in Denmark, with 5 gigs on soundcheck across Copenhagen and Paris. Often billed alongside Frederik Valentin, Vanity Productions and oqbqbo. Next up: Communale Saint-Ouen, Paris on Thu 12 Nov.
 
@@ -21,4 +21,4 @@ Loke Rahbek is an ambient artist based in Denmark, with 5 gigs on soundcheck acr
 
 Frederik Valentin, Vanity Productions, oqbqbo
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lokerahbek/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lokerahbek/)*

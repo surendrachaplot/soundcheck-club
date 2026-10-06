@@ -1,6 +1,6 @@
 # Manu Oubiña
 
-Manu Oubiña is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Rūmu, Lisbon on Wed, 7 Oct 2026.
+Manu Oubiña is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Rūmu, Lisbon on Wed, 7 Oct 2026.
 
 Manu Oubiña is a house and electro artist based in Argentina, with 126 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 8 more. Often billed alongside LUKAS, Guile and Chris Gorrie. Next up: Rūmu, Lisbon on Wed 7 Oct.
 
@@ -29,4 +29,4 @@ Manu Oubiña is a house and electro artist based in Argentina, with 126 gigs on 
 
 LUKAS (4), Guile, Chris Gorrie
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manuoubina/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manuoubina/)*

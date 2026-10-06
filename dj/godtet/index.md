@@ -1,6 +1,6 @@
 # GODTET
 
-GODTET is a Jazz and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+GODTET is a Jazz and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 GODTET is a jazz and deep house artist, with 5 gigs on soundcheck across Athens, London, Sydney and Thailand. Often billed alongside Alex Albrecht, Bins and Bouffant Bouffant. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -21,4 +21,4 @@ GODTET is a jazz and deep house artist, with 5 gigs on soundcheck across Athens,
 
 Alex Albrecht, Bins, Bouffant Bouffant
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/godtet/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/godtet/)*

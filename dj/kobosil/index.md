@@ -1,6 +1,6 @@
 # Kobosil
 
-Kobosil is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at [UNVRS], Ibiza on Thu, 8 Oct 2026.
+Kobosil is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at [UNVRS], Ibiza on Thu, 8 Oct 2026.
 
 Kobosil is a techno and house artist based in Germany, with 235 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside Somewhen, Clara Cuvé and I Hate Models. Next up: [UNVRS], Ibiza on Thu 8 Oct.
 
@@ -33,4 +33,4 @@ Kobosil is a techno and house artist based in Germany, with 235 gigs on soundche
 
 Somewhen, Clara Cuvé, I Hate Models
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*

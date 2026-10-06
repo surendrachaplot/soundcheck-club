@@ -1,6 +1,6 @@
 # Aemilius
 
-Aemilius is a Reggaeton and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Club Magno, Madrid on Thu, 8 Oct 2026.
+Aemilius is a Reggaeton and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Club Magno, Madrid on Thu, 8 Oct 2026.
 
 Aemilius is a reggaeton and baile funk artist based in Spain, with 9 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Nine B, Diego Armando and Maxvll. Next up: Club Magno, Madrid on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Aemilius is a reggaeton and baile funk artist based in Spain, with 9 gigs on sou
 
 Nine B, Diego Armando, Maxvll
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aemilius/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aemilius/)*

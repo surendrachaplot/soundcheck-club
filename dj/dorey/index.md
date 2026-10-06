@@ -1,6 +1,6 @@
 # DOREY
 
-DOREY is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Lakeside Pavilion, Melbourne on Sat, 24 Oct 2026.
+DOREY is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Lakeside Pavilion, Melbourne on Sat, 24 Oct 2026.
 
 DOREY is a house and trance artist based in United Kingdom, with 13 gigs on soundcheck across Aberdeen, Amsterdam, Dundee and Glasgow and 2 more. Often billed alongside Céleste, AKA DISPLAY and Amy Wiles. Next up: Lakeside Pavilion, Melbourne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DOREY is a house and trance artist based in United Kingdom, with 13 gigs on soun
 
 Céleste, AKA DISPLAY, Amy Wiles
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dorey/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dorey/)*

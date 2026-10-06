@@ -1,6 +1,6 @@
 # Zaphy
 
-Zaphy is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Prisma, Berlin on Tue, 6 Oct 2026.
+Zaphy is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Prisma, Berlin on Tue, 6 Oct 2026.
 
 Zaphy is a techno and acid artist based in Chile, with 28 gigs on soundcheck across Amsterdam, Berlin, Bucharest and London and 2 more. Often billed alongside Robin Hastings, Arok Shiva and DMS1N3RGY. Next up: Prisma, Berlin on Tue 6 Oct.
 
@@ -26,4 +26,4 @@ Zaphy is a techno and acid artist based in Chile, with 28 gigs on soundcheck acr
 
 Robin Hastings, Arok Shiva, DMS1N3RGY
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zaphy/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zaphy/)*

@@ -1,13 +1,14 @@
 # Jellyfish
 
-Jellyfish is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Brooklyn, New York City on Sat, 31 Oct 2026.
+Jellyfish is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at SideQuest on 44th, Pittsburgh on Sat, 17 Oct 2026.
 
-Jellyfish is a house and acid artist based in United States of America, with 20 gigs on soundcheck across Chicago, London, Mexico City and New York City and 2 more. Often billed alongside Formosa, Ricky Mawzlin and Baronhawk Poitier. Next up: TBA - Brooklyn, New York City on Sat 31 Oct.
+Jellyfish is a house and acid artist based in United States of America, with 21 gigs on soundcheck across Chicago, London, Mexico City and New York City and 3 more. Often billed alongside Formosa, Ricky Mawzlin and Baronhawk Poitier. Next up: SideQuest on 44th, Pittsburgh on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | SideQuest on 44th | Pittsburgh |
 | Sat, 31 Oct 2026 | TBA - Brooklyn | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jellyfish is a house and acid artist based in United States of America, with 20 
 
 Formosa (1), Ricky Mawzlin, Baronhawk Poitier
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jellyfish/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jellyfish/)*

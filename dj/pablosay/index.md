@@ -1,6 +1,6 @@
 # Pablo Say
 
-Pablo Say is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Romania on Fri, 18 Jun 2027.
+Pablo Say is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA, Romania on Fri, 18 Jun 2027.
 
 Pablo Say is a techno and house artist, with 38 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Cologne and 11 more. Often billed alongside Spartaque, AKITEK and Adam Beyer. Next up: TBA, Romania on Fri 18 Jun.
 
@@ -25,4 +25,4 @@ Pablo Say is a techno and house artist, with 38 gigs on soundcheck across Amster
 
 Spartaque, AKITEK, Adam Beyer
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablosay/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablosay/)*

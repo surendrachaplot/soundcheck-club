@@ -1,6 +1,6 @@
 # Olive Anguz
 
-Olive Anguz is a Trance and Techno artist with 10 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at GASHOUDER, Amsterdam on Wed, 21 Oct 2026.
+Olive Anguz is a Trance and Techno artist with 10 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at GASHOUDER, Amsterdam on Wed, 21 Oct 2026.
 
 Olive Anguz is a trance and techno artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam, London, Madrid and Netherlands and 3 more. Often billed alongside Benwal, NewTone and Gerardo Niva. Next up: GASHOUDER, Amsterdam on Wed 21 Oct.
 
@@ -29,4 +29,4 @@ Olive Anguz is a trance and techno artist based in Netherlands, with 13 gigs on 
 
 Benwal, NewTone, Gerardo Niva
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliveanguz/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliveanguz/)*

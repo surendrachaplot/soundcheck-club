@@ -1,6 +1,6 @@
 # DNOPF
 
-DNOPF is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Bolero, Seoul on Sat, 10 Oct 2026.
+DNOPF is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Bolero, Seoul on Sat, 10 Oct 2026.
 
 DNOPF is a hip-hop and club artist, with 25 gigs on soundcheck across Bangkok, Seoul and Tokyo. Often billed alongside CHANXER, BILL.E and Conan. Next up: Bolero, Seoul on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DNOPF is a hip-hop and club artist, with 25 gigs on soundcheck across Bangkok, S
 
 CHANXER, BILL.E, Conan
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dnopf/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dnopf/)*

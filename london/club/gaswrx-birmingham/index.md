@@ -1,6 +1,6 @@
 # Gaswrx Birmingham
 
-Gaswrx Birmingham is a music venue in London with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "WAH Birmingham // Pendulum (dj set), K Motionz, SOTA, Window Kid & More" on Sat, 10 Oct 2026.
+Gaswrx Birmingham is a music venue in London with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "WAH Birmingham // Pendulum (dj set), K Motionz, SOTA, Window Kid & More" on Sat, 10 Oct 2026.
 
 Gaswrx Birmingham is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Above & Beyond, Anaïs, Basstripper and Charlie Tee and 2 more. See dates, start times and who's playing. 50 Adderley Street, Digbeth, Birmingham, B9 4ED.
 
@@ -18,4 +18,4 @@ Gaswrx Birmingham is a music venue in London listed on soundcheck. 5 upcoming gi
 
 50 Adderley Street, Digbeth, Birmingham, B9 4ED, London
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaswrx-birmingham/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaswrx-birmingham/)*

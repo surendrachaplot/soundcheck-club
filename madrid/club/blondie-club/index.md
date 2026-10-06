@@ -1,6 +1,6 @@
 # Blondie Club
 
-Blondie Club is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. The next is "FJAKA Picante" on Thu, 8 Oct 2026.
+Blondie Club is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "FJAKA Picante" on Thu, 8 Oct 2026.
 
 Blondie Club is a music venue in Madrid listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Blondie Club is a music venue in Madrid listed on soundcheck. 1 upcoming gig. Se
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | FJAKA Picante |  |
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/blondie-club/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/blondie-club/)*

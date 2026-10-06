@@ -1,6 +1,6 @@
 # Deiv Schon
 
-Deiv Schon is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at 7833 Soundlab, Barcelona on Fri, 23 Oct 2026.
+Deiv Schon is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at 7833 Soundlab, Barcelona on Fri, 23 Oct 2026.
 
 Deiv Schon is a deep house and house artist based in Argentina, with 11 gigs on soundcheck across Barcelona, Buenos Aires, Ibiza and Los Angeles and 3 more. Often billed alongside Martinignaccio, 1 to 1 and Borak. Next up: 7833 Soundlab, Barcelona on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Deiv Schon is a deep house and house artist based in Argentina, with 11 gigs on 
 
 Martinignaccio, 1 to 1, Borak
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deivschon/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deivschon/)*

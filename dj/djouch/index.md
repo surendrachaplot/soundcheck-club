@@ -1,6 +1,6 @@
 # DJ Ouch!
 
-DJ Ouch! is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Luu Bar, Ho-chi-minh-city on Thu, 24 Dec 2026.
+DJ Ouch! is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Luu Bar, Ho-chi-minh-city on Thu, 24 Dec 2026.
 
 DJ Ouch! is a techno and house artist, with 4 gigs on soundcheck across Bangkok, Barcelona, Ho Chi Minh City and London. Often billed alongside Autumns, Ben Kaczor and Faux Naif. Next up: Luu Bar, Ho Chi Minh City on Thu 24 Dec.
 
@@ -20,4 +20,4 @@ DJ Ouch! is a techno and house artist, with 4 gigs on soundcheck across Bangkok,
 
 Autumns, Ben Kaczor, Faux Naif
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djouch/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djouch/)*

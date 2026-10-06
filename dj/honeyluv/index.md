@@ -1,6 +1,6 @@
 # HoneyLuv
 
-HoneyLuv is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Volt Club Milano, Milan on Thu, 8 Oct 2026.
+HoneyLuv is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Volt Club Milano, Milan on Thu, 8 Oct 2026.
 
 HoneyLuv is a house and tech house artist based in United States of America, with 170 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 41 more. Often billed alongside Dennis Ferrer, Nic Fanciulli and Andrea Oliva. Next up: Volt Club Milano, Milan on Thu 8 Oct.
 
@@ -30,4 +30,4 @@ HoneyLuv is a house and tech house artist based in United States of America, wit
 
 Dennis Ferrer, Nic Fanciulli, Andrea Oliva
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honeyluv/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honeyluv/)*

@@ -1,6 +1,6 @@
 # Uplift (UK)
 
-Uplift (UK) is a Drum & Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Electrowerkz, London on Sat, 17 Oct 2026.
+Uplift (UK) is a Drum & Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Electrowerkz, London on Sat, 17 Oct 2026.
 
 Uplift (UK) is a drum & bass and breakbeat artist based in United Kingdom, with 5 gigs on soundcheck across Ibiza and London. Often billed alongside Arkyn, Slipmatt and AKTIVE. Next up: Electrowerkz, London on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ Uplift (UK) is a drum & bass and breakbeat artist based in United Kingdom, with 
 
 Arkyn, Slipmatt, AKTIVE
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uplift-uk/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uplift-uk/)*

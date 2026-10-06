@@ -1,6 +1,6 @@
 # Bunker Club
 
-Bunker Club is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. The next is "Cutting Floor - Aanjaalii + more" on Fri, 16 Oct 2026.
+Bunker Club is a music venue in London with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "Cutting Floor - Aanjaalii + more" on Fri, 16 Oct 2026.
 
 Bunker Club is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 46 Deptford Broadway; Deptford; London SE8 4PH; United Kingdom.
 
@@ -14,4 +14,4 @@ Bunker Club is a music venue in London listed on soundcheck. 1 upcoming gig. See
 
 46 Deptford Broadway; Deptford; London SE8 4PH; United Kingdom, London
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bunker-club/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bunker-club/)*

@@ -1,6 +1,6 @@
 # DJ Jonne Sins
 
-DJ Jonne Sins is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Fundbureau, Hamburg on Fri, 9 Oct 2026.
+DJ Jonne Sins is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Fundbureau, Hamburg on Fri, 9 Oct 2026.
 
 DJ Jonne Sins is a trance and techno artist based in Germany, with 5 gigs on soundcheck across Hamburg. Often billed alongside Hida Douse, Robin Kock and DJ DRECKISCH. Next up: Fundbureau, Hamburg on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ DJ Jonne Sins is a trance and techno artist based in Germany, with 5 gigs on sou
 
 Hida Douse, Robin Kock (2), DJ DRECKISCH
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjonnesins/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjonnesins/)*

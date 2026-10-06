@@ -1,6 +1,6 @@
 # DPAZ
 
-DPAZ is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at X Private Club, Madrid on Sat, 24 Oct 2026.
+DPAZ is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at X Private Club, Madrid on Sat, 24 Oct 2026.
 
 DPAZ is a deep house and tech house artist, with 5 gigs on soundcheck across Berlin and Madrid. Often billed alongside miAs, Hightower Soundsystem and Kotelett. Next up: X Private Club, Madrid on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ DPAZ is a deep house and tech house artist, with 5 gigs on soundcheck across Ber
 
 miAs, Hightower Soundsystem, Kotelett
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dpaz/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dpaz/)*

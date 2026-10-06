@@ -1,6 +1,6 @@
 # GESHAY
 
-GESHAY is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Matriarch LA, Los Angeles on Sat, 10 Oct 2026.
+GESHAY is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Matriarch LA, Los Angeles on Sat, 10 Oct 2026.
 
 GESHAY is a house and disco artist based in United States of America, with 10 gigs on soundcheck across Los Angeles and San Diego. Often billed alongside Bella Cosmic, AKIVA and AMIRA. Next up: Matriarch LA, Los Angeles on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ GESHAY is a house and disco artist based in United States of America, with 10 gi
 
 Bella Cosmic, AKIVA, AMIRA
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geshay/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geshay/)*

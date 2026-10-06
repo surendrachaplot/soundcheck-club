@@ -1,6 +1,6 @@
 # Brunno
 
-Brunno is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Esbirra Ibiza, Ibiza on Sat, 17 Oct 2026.
+Brunno is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Esbirra Ibiza, Ibiza on Sat, 17 Oct 2026.
 
 Brunno is a house and minimal artist based in Spain, with 44 gigs on soundcheck across Barcelona, Berlin, Ibiza and Lisbon and 2 more. Often billed alongside MARYO, Enzo Leep and Waffle. Next up: Esbirra Ibiza, Ibiza on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Brunno is a house and minimal artist based in Spain, with 44 gigs on soundcheck 
 
 MARYO, Enzo Leep, Waffle
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunno-es/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunno-es/)*

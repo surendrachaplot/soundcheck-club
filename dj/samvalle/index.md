@@ -1,6 +1,6 @@
 # Sam Valle
 
-Sam Valle is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 7 Oct 2026.
+Sam Valle is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 7 Oct 2026.
 
 Sam Valle is a techno and house artist based in United States of America, with 54 gigs on soundcheck across Amsterdam, New York City, San Francisco/Oakland and Tokyo. Often billed alongside SHRAY, Choo Choo and ceviché. Next up: Bossa Nova Civic Club, New York City on Wed 7 Oct.
 
@@ -26,4 +26,4 @@ Sam Valle is a techno and house artist based in United States of America, with 5
 
 SHRAY, Choo Choo, ceviché
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samvalle/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samvalle/)*

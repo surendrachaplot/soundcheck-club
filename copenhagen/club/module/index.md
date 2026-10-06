@@ -1,6 +1,6 @@
 # MODULE
 
-MODULE is a music venue in Copenhagen with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "TorsdagsTechno: avoN's Besties VOL II" on Thu, 8 Oct 2026.
+MODULE is a music venue in Copenhagen with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "TorsdagsTechno: avoN's Besties VOL II" on Thu, 8 Oct 2026.
 
 MODULE is a music venue in Copenhagen listed on soundcheck. 4 upcoming gigs, with line-ups including avoN, Baime, Balrog and B From E and 2 more. See dates, start times and who's playing. Vesterbrogade 2B, 1620 København V, Danmark.
 
@@ -17,4 +17,4 @@ MODULE is a music venue in Copenhagen listed on soundcheck. 4 upcoming gigs, wit
 
 Vesterbrogade 2B, 1620 København V, Danmark, Copenhagen
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/module/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/module/)*

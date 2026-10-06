@@ -1,6 +1,6 @@
 # Archie Hamilton
 
-Archie Hamilton is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Cova Santa, Ibiza on Tue, 6 Oct 2026.
+Archie Hamilton is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Cova Santa, Ibiza on Tue, 6 Oct 2026.
 
 Archie Hamilton is a house and tech house artist based in United Kingdom, with 213 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: Cova Santa, Ibiza on Tue 6 Oct.
 
@@ -34,4 +34,4 @@ Archie Hamilton is a house and tech house artist based in United Kingdom, with 2
 
 Jamie Jones, East End Dubs, Prunk
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*

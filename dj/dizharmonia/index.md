@@ -1,14 +1,14 @@
 # Dizharmonia
 
-Dizharmonia is a Minimal Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Amsterdam Club Train, Amsterdam on Sat, 24 Oct 2026.
+Dizharmonia is a Minimal Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sat, 24 Oct 2026.
 
-Dizharmonia is a minimal techno and deep house artist, with 6 gigs on soundcheck across Amsterdam, Berlin, Madrid and Singapore. Often billed alongside OIBAF, Till Antonio and AMARE. Next up: Amsterdam Club Train, Amsterdam on Sat 24 Oct.
+Dizharmonia is a minimal techno and deep house artist, with 6 gigs on soundcheck across Amsterdam, Berlin, Madrid and Singapore. Often billed alongside OIBAF, Till Antonio and AMARE. Next up: 50:Hertz Club Train, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Amsterdam Club Train | Amsterdam |
+| Sat, 24 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 
 ## Recently played
 
@@ -22,4 +22,4 @@ Dizharmonia is a minimal techno and deep house artist, with 6 gigs on soundcheck
 
 OIBAF, Till Antonio, AMARE
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dizharmonia/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dizharmonia/)*

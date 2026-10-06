@@ -1,14 +1,13 @@
 # ddwy
 
-ddwy is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Heim Shanghai, Shanghai on Wed, 30 Sept 2026.
+ddwy is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Forestlimit, Tokyo on Wed, 7 Oct 2026.
 
-ddwy is a house and techno artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Berlin, Bristol and Copenhagen and 20 more. Often billed alongside Inner Totality, Denzel and Bell Towers. Next up: Heim Shanghai, Shanghai on Wed 30 Sept.
+ddwy is a house and techno artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Berlin, Bristol and Copenhagen and 20 more. Often billed alongside Inner Totality, Denzel and Bell Towers. Next up: Forestlimit, Tokyo on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Heim Shanghai | Shanghai |
 | Wed, 7 Oct 2026 | Forestlimit | Tokyo |
 | Sat, 17 Oct 2026 | Compufunk Records | Osaka |
 | Fri, 23 Oct 2026 | West Harlem | Kyoto |
@@ -28,4 +27,4 @@ ddwy is a house and techno artist based in United Kingdom, with 61 gigs on sound
 
 Inner Totality, Denzel, Bell Towers
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ddwy/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ddwy/)*

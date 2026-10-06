@@ -1,6 +1,6 @@
 # Hangar48 Club
 
-Hangar48 Club is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "JODITA MADRID" on Fri, 9 Oct 2026.
+Hangar48 Club is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "JODITA MADRID" on Fri, 9 Oct 2026.
 
 Hangar48 Club is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including alguien, Andrés Mokk, Brigado Crew and De Santis and 2 more. See dates, start times and who's playing. C. de Bailén, 24, 28005 Madrid.
 
@@ -23,4 +23,4 @@ Hangar48 Club is a music venue in Madrid listed on soundcheck. 11 upcoming gigs,
 
 C. de Bailén, 24, 28005 Madrid, Madrid
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/hangar48-club/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/hangar48-club/)*

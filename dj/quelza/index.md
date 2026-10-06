@@ -1,6 +1,6 @@
 # Quelza
 
-Quelza is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at C12, Brussels on Fri, 9 Oct 2026.
+Quelza is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at C12, Brussels on Fri, 9 Oct 2026.
 
 Quelza is a techno and house artist based in France, with 219 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 62 more. Often billed alongside BASHKKA, Freddy K and JakoJako. Next up: C12, Brussels on Fri 9 Oct.
 
@@ -35,4 +35,4 @@ Quelza is a techno and house artist based in France, with 219 gigs on soundcheck
 
 BASHKKA, Freddy K, JakoJako
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quelza/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quelza/)*

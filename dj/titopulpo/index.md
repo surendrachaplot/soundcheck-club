@@ -1,6 +1,6 @@
 # Tito Pulpo
 
-Tito Pulpo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Fuengirola - Mijas Costa, Malaga on Fri, 23 Apr 2027.
+Tito Pulpo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Fuengirola - Mijas Costa, Malaga on Fri, 23 Apr 2027.
 
 Tito Pulpo is a house and deep house artist based in Spain, with 16 gigs on soundcheck across London and Malaga. Often billed alongside Stuart Patterson, Milady and Ronnie Herel. Next up: TBA - Fuengirola - Mijas Costa, Malaga on Fri 23 Apr.
 
@@ -25,4 +25,4 @@ Tito Pulpo is a house and deep house artist based in Spain, with 16 gigs on soun
 
 Stuart Patterson, Milady, Ronnie Herel
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/titopulpo/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/titopulpo/)*

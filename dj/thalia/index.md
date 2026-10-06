@@ -1,6 +1,6 @@
 # Thalia
 
-Thalia is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Club Rodenburg, Netherlands on Fri, 27 Nov 2026.
+Thalia is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Club Rodenburg, Netherlands on Fri, 27 Nov 2026.
 
 Thalia is a house and techno artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam, Bangkok, Hamburg and Netherlands and 1 more. Often billed alongside TheKoosy, Andrés and BALAI. Next up: Club Rodenburg, Netherlands on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Thalia is a house and techno artist based in Netherlands, with 9 gigs on soundch
 
 TheKoosy, Andrés, BALAI
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thalia/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thalia/)*

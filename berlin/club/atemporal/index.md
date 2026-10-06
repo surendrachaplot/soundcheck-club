@@ -1,6 +1,6 @@
 # Atemporal
 
-Atemporal is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Hermanos Guitierrez - Ojos del Condor listening session" on Wed, 7 Oct 2026.
+Atemporal is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Hermanos Guitierrez - Ojos del Condor listening session" on Wed, 7 Oct 2026.
 
 Atemporal is a music venue in Berlin listed on soundcheck. 7 upcoming gigs. See dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
 
@@ -20,4 +20,4 @@ Atemporal is a music venue in Berlin listed on soundcheck. 7 upcoming gigs. See 
 
 Boxhagener Str. 96 1st floor left, 10245 Berlin, Berlin
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*

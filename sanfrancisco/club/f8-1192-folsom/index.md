@@ -1,6 +1,6 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 17 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "CLOWNZONE - Goth Clown Night" on Tue, 6 Oct 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 17 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "CLOWNZONE - Goth Clown Night" on Tue, 6 Oct 2026.
 
 F8 1192 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 17 upcoming gigs, with line-ups including Alkemiss Erika, ANCARCO, Arreola Grande and bastiengoat and 2 more. See dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
@@ -23,4 +23,4 @@ F8 1192 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 1
 
 1192 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*

@@ -1,6 +1,6 @@
 # AXU (2)
 
-AXU (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Crate Brewery, London on Sat, 10 Oct 2026.
+AXU (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Crate Brewery, London on Sat, 10 Oct 2026.
 
 AXU is a house and techno artist, with 13 gigs on soundcheck across London. Often billed alongside Phenomenon, haukeheyen and Vivi. Next up: Crate Brewery, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ AXU is a house and techno artist, with 13 gigs on soundcheck across London. Ofte
 
 Phenomenon, haukeheyen, Vivi (2)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axu-2/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axu-2/)*

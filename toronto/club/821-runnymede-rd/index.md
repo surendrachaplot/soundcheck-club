@@ -1,6 +1,6 @@
 # 821 Runnymede Rd
 
-821 Runnymede Rd is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "444: Jayron Kichta Eskha" on Sat, 10 Oct 2026.
+821 Runnymede Rd is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "444: Jayron Kichta Eskha" on Sat, 10 Oct 2026.
 
 821 Runnymede Rd is a music venue in Toronto listed on soundcheck. 3 upcoming gigs, with line-ups including 1tbsp, Ana Luisa, Choirboi and Eskha and 2 more. See dates, start times and who's playing. 821 Runnymede Rd.
 
@@ -16,4 +16,4 @@
 
 821 Runnymede Rd, Toronto
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/821-runnymede-rd/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/821-runnymede-rd/)*

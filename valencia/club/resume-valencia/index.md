@@ -1,6 +1,6 @@
 # Resume Valencia
 
-Resume Valencia is a music venue in Valencia with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "CARLOS GROOVE, Pol R" on Fri, 9 Oct 2026.
+Resume Valencia is a music venue in Valencia with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "CARLOS GROOVE, Pol R" on Fri, 9 Oct 2026.
 
 Resume Valencia is a music venue in Valencia listed on soundcheck. 7 upcoming gigs, with line-ups including Blanch, DANI RUBIO, IKAKO and Melgar and 2 more. See dates, start times and who's playing. Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia.
 
@@ -20,4 +20,4 @@ Resume Valencia is a music venue in Valencia listed on soundcheck. 7 upcoming gi
 
 Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia, Valencia
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*

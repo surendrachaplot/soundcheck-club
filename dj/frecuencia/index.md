@@ -1,6 +1,6 @@
 # FRECUENCIA
 
-FRECUENCIA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Tunnel Club, Pereira on Sat, 10 Oct 2026.
+FRECUENCIA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Tunnel Club, Pereira on Sat, 10 Oct 2026.
 
 FRECUENCIA is a house and techno artist based in Colombia, with 17 gigs on soundcheck across Athens, Barcelona, Berlin and Frankfurt and 3 more. Often billed alongside Reign Of Time, eveava and Gaia. Next up: Tunnel Club, Pereira on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ FRECUENCIA is a house and techno artist based in Colombia, with 17 gigs on sound
 
 Reign Of Time, eveava, Gaia (2)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frecuencia/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frecuencia/)*

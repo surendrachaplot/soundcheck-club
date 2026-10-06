@@ -1,6 +1,6 @@
 # Mx. Blaire
 
-Mx. Blaire is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Vespers Club, London on Fri, 16 Oct 2026.
+Mx. Blaire is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Vespers Club, London on Fri, 16 Oct 2026.
 
 Mx. Blaire is a house and techno artist based in United States of America, with 56 gigs on soundcheck across Amsterdam, Berlin, Boston and Chicago and 5 more. Often billed alongside Adam Unknown, Jordan Graham and Math3ca. Next up: Vespers Club, London on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Mx. Blaire is a house and techno artist based in United States of America, with 
 
 Adam Unknown, Jordan Graham, Math3ca
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mxblaire/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mxblaire/)*

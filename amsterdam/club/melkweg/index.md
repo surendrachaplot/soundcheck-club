@@ -1,14 +1,13 @@
 # Melkweg
 
-Melkweg is a music venue in Amsterdam with 57 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Cheeky Monday: Gremlinz" on Mon, 5 Oct 2026.
+Melkweg is a music venue in Amsterdam with 56 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Techno Tuesday Amsterdam, Dexon, Inez Akker Jayzo" on Tue, 6 Oct 2026.
 
-Melkweg is a music venue in Amsterdam listed on soundcheck. 57 upcoming gigs, with line-ups including 2HOT2PLAY, 4am Kru, Yulia Niko and ALT8 and 2 more. See dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
+Melkweg is a music venue in Amsterdam listed on soundcheck. 56 upcoming gigs, with line-ups including 2HOT2PLAY, 4am Kru, Yulia Niko and ALT8 and 2 more. See dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 5 Oct 2026 | Cheeky Monday: Gremlinz | Gremlinz |
 | Tue, 6 Oct 2026 | Techno Tuesday Amsterdam, Dexon, Inez Akker Jayzo | Dexon, Inez Akker, Jayzo |
 | Sat, 10 Oct 2026 | Hard Attack | Gysèle |
 | Mon, 12 Oct 2026 | Cheeky Monday: Yamatai X Stupid X Transparent Audio | Geostatic, Stupid Crew |
@@ -18,9 +17,10 @@ Melkweg is a music venue in Amsterdam listed on soundcheck. 57 upcoming gigs, wi
 | Wed, 21 Oct 2026 | Mind Enterprises - ADE |  |
 | Wed, 21 Oct 2026 | ADE Opening Concert: KYBBA & Metropole Orkest + special guests (Sold Out) |  |
 | Wed, 21 Oct 2026 | Mind Enterprises - ADE |  |
+| Wed, 21 Oct 2026 | bitbird presents: San Holo & DROELOE - ADE | San Holo |
 
 ## Address
 
 Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam, Amsterdam
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*

@@ -1,6 +1,6 @@
 # Radio Revolution
 
-Radio Revolution is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Asia Publication Culture & Information Center, Seoul on Sat, 10 Oct 2026.
+Radio Revolution is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Asia Publication Culture & Information Center, Seoul on Sat, 10 Oct 2026.
 
 Radio Revolution is a house and minimal artist based in South Korea, with 99 gigs on soundcheck across Osaka, Seoul and Singapore. Often billed alongside DJ Jinwook, Jongho and Chae. Next up: Asia Publication Culture & Information Center, Seoul on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Radio Revolution is a house and minimal artist based in South Korea, with 99 gig
 
 DJ Jinwook, Jongho, Chae
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/radiorevolution/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/radiorevolution/)*

@@ -1,8 +1,8 @@
 # David Jackson
 
-David Jackson is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Carriageworks, Sydney on Sat, 10 Oct 2026.
+David Jackson is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Carriageworks, Sydney on Sat, 10 Oct 2026.
 
-David Jackson is a house and techno artist based in Ireland, with 36 gigs on soundcheck across Amsterdam, Berlin, Bucharest and Cork and 14 more. Often billed alongside Mall Grab, Effy and Claire O'Brien. Next up: Carriageworks, Sydney on Sat 10 Oct.
+David Jackson is a house and techno artist based in Ireland, with 37 gigs on soundcheck across Amsterdam, Berlin, Bucharest and Cork and 15 more. Often billed alongside Mall Grab, Effy and Claire O'Brien. Next up: Carriageworks, Sydney on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ David Jackson is a house and techno artist based in Ireland, with 36 gigs on sou
 | Sat, 10 Oct 2026 | Carriageworks | Sydney |
 | Thu, 15 Oct 2026 | Solace | Melbourne |
 | Fri, 16 Oct 2026 | Glamorama | Melbourne |
+| Sat, 17 Oct 2026 | Bloom | Victoria |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ David Jackson is a house and techno artist based in Ireland, with 36 gigs on sou
 
 Mall Grab, Effy, Claire O'Brien
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidjackson/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidjackson/)*

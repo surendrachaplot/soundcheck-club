@@ -1,6 +1,6 @@
 # JAMS (UK)
 
-JAMS (UK) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 14 Nov 2026.
+JAMS (UK) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 14 Nov 2026.
 
 JAMS (UK) is a house and acid artist based in United Kingdom, with 4 gigs on soundcheck across Manchester. Often billed alongside GayBoy, King Kit and mxtina. Next up: Honey Street Studio, Manchester on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ JAMS (UK) is a house and acid artist based in United Kingdom, with 4 gigs on sou
 
 GayBoy, King Kit, mxtina
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jams-uk/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jams-uk/)*

@@ -1,6 +1,6 @@
 # uiava
 
-uiava is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Sekta Selekta, Krakow on Fri, 9 Oct 2026.
+uiava is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Sekta Selekta, Krakow on Fri, 9 Oct 2026.
 
 uiava is a house and tech house artist based in Ukraine, with 48 gigs on soundcheck across Berlin, Krakow, London and Warsaw. Often billed alongside Easy Audio, bart ender and Jellin. Next up: Sekta Selekta, Krakow on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ uiava is a house and tech house artist based in Ukraine, with 48 gigs on soundch
 
 Easy Audio, bart ender, Jellin
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uiava/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uiava/)*

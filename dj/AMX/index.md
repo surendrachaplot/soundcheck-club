@@ -1,6 +1,6 @@
 # The AM/AMX
 
-The AM/AMX is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Secret Location, Sacramento on Sat, 17 Oct 2026.
+The AM/AMX is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Secret Location, Sacramento on Sat, 17 Oct 2026.
 
 The AM/AMX is a techno and house artist based in United States of America, with 86 gigs on soundcheck across Berlin, Chicago, Detroit and Los Angeles and 4 more. Often billed alongside Ash Lauryn, Isaac Prieto and Blackmoonchild. Next up: TBA - Secret Location, Sacramento on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ The AM/AMX is a techno and house artist based in United States of America, with 
 
 Ash Lauryn, Isaac Prieto, Blackmoonchild
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/AMX/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/AMX/)*

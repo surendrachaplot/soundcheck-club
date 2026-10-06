@@ -1,6 +1,6 @@
 # Kungs
 
-Kungs is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 9 Oct 2026.
+Kungs is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 9 Oct 2026.
 
 Kungs is a house and disco artist based in France, with 29 gigs on soundcheck across Austin, Barcelona, Berlin and Chicago and 13 more. Often billed alongside CHRIS STASSY, Isa Rojas and Purple Disco Machine. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Kungs is a house and disco artist based in France, with 29 gigs on soundcheck ac
 
 CHRIS STASSY, Isa Rojas, Purple Disco Machine
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kungs/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kungs/)*

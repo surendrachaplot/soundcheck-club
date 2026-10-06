@@ -1,6 +1,6 @@
 # Strange Brew
 
-Strange Brew is a music venue in Bristol with 12 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Yu Su pres. Foundry AV + JJJJJerome Ellis + Memotone" on Wed, 7 Oct 2026.
+Strange Brew is a music venue in Bristol with 12 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Yu Su pres. Foundry AV + JJJJJerome Ellis + Memotone" on Wed, 7 Oct 2026.
 
 Strange Brew is a music venue in Bristol listed on soundcheck. 12 upcoming gigs, with line-ups including Anina, Bakey, Berwick and BLUMITSU and 2 more. See dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
 
@@ -23,4 +23,4 @@ Strange Brew is a music venue in Bristol listed on soundcheck. 12 upcoming gigs,
 
 10-12 Fairfax Street, Bristol, BS1 3DB, Bristol
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*

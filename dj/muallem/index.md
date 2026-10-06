@@ -1,8 +1,8 @@
 # Muallem
 
-Muallem is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Golden Pudel Club, Hamburg on Fri, 9 Oct 2026.
+Muallem is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Golden Pudel Club, Hamburg on Fri, 9 Oct 2026.
 
-Muallem is a house and techno artist based in Germany, with 75 gigs on soundcheck across Amsterdam, Bali, Berlin and Cologne and 4 more. Often billed alongside BASHKKA, vince and Jorkes. Next up: Golden Pudel Club, Hamburg on Fri 9 Oct.
+Muallem is a house and techno artist based in Germany, with 76 gigs on soundcheck across Amsterdam, Bali, Berlin and Cologne and 5 more. Often billed alongside BASHKKA, vince and Jorkes. Next up: Golden Pudel Club, Hamburg on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Muallem is a house and techno artist based in Germany, with 75 gigs on soundchec
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Golden Pudel Club | Hamburg |
 | Sat, 17 Oct 2026 | Romantica | Stuttgart |
+| Sat, 31 Oct 2026 | H0L0 | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Muallem is a house and techno artist based in Germany, with 75 gigs on soundchec
 
 BASHKKA, vince, Jorkes
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muallem/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muallem/)*

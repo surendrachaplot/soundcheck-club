@@ -1,6 +1,6 @@
 # TIDEE
 
-TIDEE is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
+TIDEE is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
 
 TIDEE is a techno and deep house artist based in Netherlands, with 14 gigs on soundcheck across Amsterdam. Often billed alongside Joris Turenhout, Azzurro and Juliet Fox. Next up: Oosterbar, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ TIDEE is a techno and deep house artist based in Netherlands, with 14 gigs on so
 
 Joris Turenhout, Azzurro, Juliet Fox
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tidee/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tidee/)*

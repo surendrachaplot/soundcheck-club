@@ -1,6 +1,6 @@
 # KATRINA
 
-KATRINA is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Pawnshop, Taipei on Sat, 10 Oct 2026.
+KATRINA is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Pawnshop, Taipei on Sat, 10 Oct 2026.
 
 KATRINA is a club and techno artist based in Taiwan, with 9 gigs on soundcheck across Kyoto, Seoul, Shenzhen and Taipei and 2 more. Often billed alongside KUAN, 3ASiC and AARON. Next up: Pawnshop, Taipei on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ KATRINA is a club and techno artist based in Taiwan, with 9 gigs on soundcheck a
 
 KUAN, 3ASiC, AARON
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katrina/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katrina/)*

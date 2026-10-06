@@ -1,6 +1,6 @@
 # Illegal Shipment
 
-Illegal Shipment is a Garage and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Dalston Den, London on Fri, 9 Oct 2026.
+Illegal Shipment is a Garage and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Dalston Den, London on Fri, 9 Oct 2026.
 
 Illegal Shipment is a garage and dubstep artist, with 5 gigs on soundcheck across Amsterdam, London and Warsaw. Often billed alongside Delian Sound, Edge <3 and Axle. Next up: Dalston Den, London on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ Illegal Shipment is a garage and dubstep artist, with 5 gigs on soundcheck acros
 
 Delian Sound, Edge <3, Axle
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/illegalshipment/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/illegalshipment/)*

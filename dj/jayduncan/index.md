@@ -1,6 +1,6 @@
 # Jay Duncan
 
-Jay Duncan is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at M.O.T, London on Thu, 29 Oct 2026.
+Jay Duncan is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at M.O.T, London on Thu, 29 Oct 2026.
 
 Jay Duncan is a techno and bass artist based in United Kingdom, with 70 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 11 more. Often billed alongside Lukas Wigflex, Bethan and FAFF. Next up: M.O.T, London on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ Jay Duncan is a techno and bass artist based in United Kingdom, with 70 gigs on 
 
 Lukas Wigflex, Bethan, FAFF
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayduncan/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayduncan/)*

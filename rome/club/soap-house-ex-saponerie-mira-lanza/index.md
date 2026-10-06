@@ -1,6 +1,6 @@
 # Soap House - Ex Saponerie Mira Lanza
 
-Soap House - Ex Saponerie Mira Lanza is a music venue in Rome with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Ondalenta at Soap House 9/10" on Fri, 9 Oct 2026.
+Soap House - Ex Saponerie Mira Lanza is a music venue in Rome with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Ondalenta at Soap House 9/10" on Fri, 9 Oct 2026.
 
 Soap House - Ex Saponerie Mira Lanza is a music venue in Rome listed on soundcheck. 3 upcoming gigs, with line-ups including Carlo Ciferni, Francesco Zappala, Giorgia Angiuli and Jalex and 1 more. See dates, start times and who's playing. Via degli Argonauti, 20, 00154 Roma RM.
 
@@ -16,4 +16,4 @@ Soap House - Ex Saponerie Mira Lanza is a music venue in Rome listed on soundche
 
 Via degli Argonauti, 20, 00154 Roma RM, Rome
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/soap-house-ex-saponerie-mira-lanza/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/soap-house-ex-saponerie-mira-lanza/)*

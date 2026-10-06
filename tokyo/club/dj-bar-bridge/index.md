@@ -1,6 +1,6 @@
 # DJ Bar Bridge
 
-DJ Bar Bridge is a music venue in Tokyo with 47 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "PRIMAL DUB, Diceman & Shoma fr,dambosound" on Tue, 6 Oct 2026.
+DJ Bar Bridge is a music venue in Tokyo with 47 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "PRIMAL DUB, Diceman & Shoma fr,dambosound" on Tue, 6 Oct 2026.
 
 DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 47 upcoming gigs, with line-ups including Anthony Parasole, Dazzle Drums, Diceman and DJ Emma and 2 more. See dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
 
@@ -23,4 +23,4 @@ DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 47 upcoming gigs, 
 
 Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan, Tokyo
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*

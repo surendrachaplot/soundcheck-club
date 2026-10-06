@@ -1,6 +1,6 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 42 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "15 Years Gretchen: THEE SINSEERS *live" on Wed, 7 Oct 2026.
+Gretchen is a music venue in Berlin with 42 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "15 Years Gretchen: THEE SINSEERS *live" on Wed, 7 Oct 2026.
 
 Gretchen is a music venue in Berlin listed on soundcheck. 42 upcoming gigs, with line-ups including Acid Arab, Alley Cat, alllone and Allynx and 2 more. See dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
@@ -23,4 +23,4 @@ Gretchen is a music venue in Berlin listed on soundcheck. 42 upcoming gigs, with
 
 Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany, Berlin
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*

@@ -1,6 +1,6 @@
 # TBA - VELVET Lounge
 
-TBA - VELVET Lounge is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "VELVET Lounge -Disco & Funky House-" on Tue, 6 Oct 2026.
+TBA - VELVET Lounge is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "VELVET Lounge -Disco & Funky House-" on Tue, 6 Oct 2026.
 
 TBA - VELVET Lounge is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ TBA - VELVET Lounge is a music venue in Tokyo listed on soundcheck. 6 upcoming g
 | Sat, 10 Oct 2026 | VELVET Lounge -ALL House & Techno- |  |
 | Sun, 11 Oct 2026 | VELVET Lounge -Organic House- |  |
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/tba-velvet-lounge/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/tba-velvet-lounge/)*

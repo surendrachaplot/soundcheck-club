@@ -1,6 +1,6 @@
 # Autechre
 
-Autechre is a IDM and Techno artist with 12 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Toplocentrala, Sofia on Tue, 6 Oct 2026.
+Autechre is a IDM and Techno artist with 12 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Toplocentrala, Sofia on Tue, 6 Oct 2026.
 
 Autechre is an idm and techno artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Mark Broom, HiTech and ojoo. Next up: Toplocentrala, Sofia on Tue 6 Oct.
 
@@ -36,4 +36,4 @@ Autechre is an idm and techno artist based in United Kingdom, with 58 gigs on so
 
 Mark Broom, HiTech, ojoo
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autechre/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autechre/)*

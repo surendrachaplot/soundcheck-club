@@ -1,6 +1,6 @@
 # The Hefker Girl
 
-The Hefker Girl is a House and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Archivio New Location: 55 MEADOW STREET, BK, New York City on Tue, 6 Oct 2026.
+The Hefker Girl is a House and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Archivio New Location: 55 MEADOW STREET, BK, New York City on Tue, 6 Oct 2026.
 
 The Hefker Girl is a house and dub techno artist based in United States of America, with 27 gigs on soundcheck across New York City. Often billed alongside Valentin Lamar, J. Mordechai and ALIKHAN. Next up: TBA - Archivio New Location: 55 MEADOW STREET, BK, New York City on Tue 6 Oct.
 
@@ -26,4 +26,4 @@ The Hefker Girl is a house and dub techno artist based in United States of Ameri
 
 Valentin Lamar, J. Mordechai, ALIKHAN
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thehefkergirl/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thehefkergirl/)*

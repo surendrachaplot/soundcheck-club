@@ -1,6 +1,6 @@
 # AWEN
 
-AWEN is a Afro House and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Great Pyramids OF Giza, Egypt on Fri, 9 Oct 2026.
+AWEN is a Afro House and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The Great Pyramids OF Giza, Egypt on Fri, 9 Oct 2026.
 
 AWEN is an afro house and house artist based in France, with 81 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 28 more. Often billed alongside Shimza, DJEFF and Francis Mercier. Next up: The Great Pyramids OF Giza, Egypt on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ AWEN is an afro house and house artist based in France, with 81 gigs on soundche
 
 Shimza, DJEFF, Francis Mercier
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/awen/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/awen/)*

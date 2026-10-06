@@ -1,6 +1,6 @@
 # k.meower
 
-k.meower is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Sensorium, Berlin on Wed, 7 Oct 2026.
+k.meower is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Sensorium, Berlin on Wed, 7 Oct 2026.
 
 k.meower is a techno and tech house artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside peak2soon, Vantavision and April (UK). Next up: Sensorium, Berlin on Wed 7 Oct.
 
@@ -22,4 +22,4 @@ k.meower is a techno and tech house artist based in Germany, with 6 gigs on soun
 
 peak2soon, Vantavision, April (UK)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k.meower/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k.meower/)*

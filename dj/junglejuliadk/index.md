@@ -1,6 +1,6 @@
 # Jungle Julia(DK)
 
-Jungle Julia(DK) is a Dancehall and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Sigurd CPH, Copenhagen on Sat, 31 Oct 2026.
+Jungle Julia(DK) is a Dancehall and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Sigurd CPH, Copenhagen on Sat, 31 Oct 2026.
 
 Jungle Julia(DK) is a dancehall and techno artist based in Denmark, with 4 gigs on soundcheck across Copenhagen. Often billed alongside Acid Pauli, Afgang and Amelie Lens. Next up: Sigurd CPH, Copenhagen on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Jungle Julia(DK) is a dancehall and techno artist based in Denmark, with 4 gigs 
 
 Acid Pauli, Afgang, Amelie Lens
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/junglejuliadk/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/junglejuliadk/)*

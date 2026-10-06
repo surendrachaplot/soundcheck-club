@@ -1,6 +1,6 @@
 # KR:KD K
 
-KR:KD K is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at John Doe, Amsterdam on Sat, 24 Oct 2026.
+KR:KD K is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at John Doe, Amsterdam on Sat, 24 Oct 2026.
 
 KR:KD K is a techno and industrial artist based in Bulgaria, with 4 gigs on soundcheck across Amsterdam and London. Often billed alongside DMS1N3RGY, Billy Currie and DEEPHELLBOY. Next up: John Doe, Amsterdam on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ KR:KD K is a techno and industrial artist based in Bulgaria, with 4 gigs on soun
 
 DMS1N3RGY, Billy Currie, DEEPHELLBOY
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krkdk/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krkdk/)*

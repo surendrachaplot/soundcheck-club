@@ -1,6 +1,6 @@
 # U (UK)
 
-U (UK) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Todmorden Unitarian Church, North on Fri, 9 Oct 2026.
+U (UK) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Todmorden Unitarian Church, North on Fri, 9 Oct 2026.
 
 U (UK) is a techno and house artist based in United Kingdom, with 15 gigs on soundcheck across London, Montreal, North and Osaka and 1 more. Often billed alongside Neon Noir, Blood Orange and Ciel. Next up: Todmorden Unitarian Church, North on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ U (UK) is a techno and house artist based in United Kingdom, with 15 gigs on sou
 
 Neon Noir, Blood Orange, Ciel
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uuk/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uuk/)*

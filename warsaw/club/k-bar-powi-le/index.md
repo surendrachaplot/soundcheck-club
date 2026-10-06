@@ -1,6 +1,6 @@
 # K-Bar Powiśle
 
-K-Bar Powiśle is a music venue in Warsaw with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Blotski Beat: B-DAY BASH" on Fri, 9 Oct 2026.
+K-Bar Powiśle is a music venue in Warsaw with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Blotski Beat: B-DAY BASH" on Fri, 9 Oct 2026.
 
 K-Bar Powiśle is a music venue in Warsaw listed on soundcheck. 4 upcoming gigs, with line-ups including Abrew, Chupax, Cosmic Force and Daichi Wada and 2 more. See dates, start times and who's playing. aleja 3 maja i Leona Kruczkowskiego, 00-380 Warszawa.
 
@@ -17,4 +17,4 @@ K-Bar Powiśle is a music venue in Warsaw listed on soundcheck. 4 upcoming gigs,
 
 aleja 3 maja i Leona Kruczkowskiego, 00-380 Warszawa, Warsaw
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/k-bar-powi-le/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/k-bar-powi-le/)*

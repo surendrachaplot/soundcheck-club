@@ -1,6 +1,6 @@
 # Raina
 
-Raina is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Pawnshop, Taipei on Sat, 10 Oct 2026.
+Raina is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Pawnshop, Taipei on Sat, 10 Oct 2026.
 
 Raina is a house and electronica artist based in Taiwan, with 5 gigs on soundcheck across Bristol, Taipei and Tokyo. Often billed alongside Benebe, Bo Yin and Chamba. Next up: Pawnshop, Taipei on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ Raina is a house and electronica artist based in Taiwan, with 5 gigs on soundche
 
 Benebe, Bo Yin, Chamba
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raina/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raina/)*

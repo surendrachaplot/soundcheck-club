@@ -1,6 +1,6 @@
 # Débris
 
-Débris is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Oshiris" on Tue, 6 Oct 2026.
+Débris is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Oshiris" on Tue, 6 Oct 2026.
 
 Débris is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including cirra, cosmolady, DJ Flexure and Dr.Tommy and 2 more. See dates, start times and who's playing. Daikanyamacho 11-12, Shibuya-ku, Tokyo, 150-0034 Japan.
 
@@ -22,4 +22,4 @@ Débris is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with li
 
 Daikanyamacho 11-12, Shibuya-ku, Tokyo, 150-0034 Japan, Tokyo
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/d-bris/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/d-bris/)*

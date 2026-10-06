@@ -1,6 +1,6 @@
 # TBA - Reforma
 
-TBA - Reforma is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Cultura Subterránea Mx I Pre-Halloween 2026" on Fri, 16 Oct 2026.
+TBA - Reforma is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Cultura Subterránea Mx " on Fri, 16 Oct 2026.
 
 TBA - Reforma is a music venue in Mexico City listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
@@ -8,7 +8,7 @@ TBA - Reforma is a music venue in Mexico City listed on soundcheck. 2 upcoming g
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Cultura Subterránea Mx I Pre-Halloween 2026 |  |
+| Fri, 16 Oct 2026 | Cultura Subterránea Mx  |  |
 | Fri, 30 Oct 2026 | Cultura Subterránea Mx I Halloween 2026 |  |
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-reforma/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-reforma/)*

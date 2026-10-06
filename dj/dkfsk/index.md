@@ -1,6 +1,6 @@
 # DKFSK
 
-DKFSK is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Studio Orfei, Sofia on Sat, 31 Oct 2026.
+DKFSK is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Studio Orfei, Sofia on Sat, 31 Oct 2026.
 
 DKFSK is a techno and electro artist based in Bulgaria, with 4 gigs on soundcheck across Amsterdam, Belgrade and Sofia. Often billed alongside Asarri, Deeda and .rigid. Next up: TBA - Studio Orfei, Sofia on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ DKFSK is a techno and electro artist based in Bulgaria, with 4 gigs on soundchec
 
 Asarri, Deeda, .rigid
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dkfsk/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dkfsk/)*

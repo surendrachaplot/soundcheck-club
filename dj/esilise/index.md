@@ -1,6 +1,6 @@
 # Esilise
 
-Esilise is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Halle de La Machine, Toulouse on Sat, 10 Oct 2026.
+Esilise is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Halle de La Machine, Toulouse on Sat, 10 Oct 2026.
 
 Esilise is a techno and industrial artist based in France, with 47 gigs on soundcheck across Barcelona, Basel, Berlin and Budapest and 11 more. Often billed alongside Krypton, NICE KEED and Doruksen. Next up: Halle de La Machine, Toulouse on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Esilise is a techno and industrial artist based in France, with 47 gigs on sound
 
 Krypton, NICE KEED, Doruksen
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esilise/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esilise/)*

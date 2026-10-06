@@ -1,6 +1,6 @@
 # Halloween Weekender: Apollonia,  PARAMIDA, Mathew Jonson (LIVE) + many more at Signal
 
-Halloween Weekender: Apollonia,  PARAMIDA, Mathew Jonson (LIVE) + many more at Signal on Fri 30 Oct, New York City. 28 artists: 98dots, Alvaro Medina, Apollonia and Bobby. and 24 more. See the line-up on soundcheck.
+Halloween Weekender: Apollonia,  PARAMIDA, Mathew Jonson (LIVE) + many more at Signal on Fri 30 Oct, New York City. 27 artists: 98dots, Alvaro Medina, Apollonia and Bobby. and 23 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,7 +15,6 @@ Halloween Weekender: Apollonia,  PARAMIDA, Mathew Jonson (LIVE) + many more at S
 - Apollonia
 - Bobby.
 - Chloe Battelle
-- deep creep
 - DJ Brian
 - Henry Chow
 - Hodge

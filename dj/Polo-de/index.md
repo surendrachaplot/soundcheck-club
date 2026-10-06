@@ -1,6 +1,6 @@
 # Polo (DE)
 
-Polo (DE) is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Labüsch-Bar, Winterthur, Zurich on Fri, 9 Oct 2026.
+Polo (DE) is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Labüsch-Bar, Winterthur, Zurich on Fri, 9 Oct 2026.
 
 Polo (DE) is a house and ambient artist based in Germany, with 4 gigs on soundcheck across Hamburg, Leipzig and Zurich. Often billed alongside 96kbps, AALIYAH and BEQA. Next up: Labüsch-Bar, Winterthur, Zurich on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ Polo (DE) is a house and ambient artist based in Germany, with 4 gigs on soundch
 
 96kbps, AALIYAH, BEQA
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Polo-de/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Polo-de/)*

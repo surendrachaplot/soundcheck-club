@@ -1,6 +1,6 @@
 # Renate
 
-Renate is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Core to Core - Haram Night, saHHara – سَهّارة, Dub&Dal, Fiestuki and Haus of Audacity" on Thu, 8 Oct 2026.
+Renate is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Core to Core - Haram Night, saHHara – سَهّارة, Dub&Dal, Fiestuki and Haus of Audacity" on Thu, 8 Oct 2026.
 
 Renate is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including 16 Faces, Aalia Iraki, Abibi and Abstraxion and 2 more. See dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Renate is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with l
 
 Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*

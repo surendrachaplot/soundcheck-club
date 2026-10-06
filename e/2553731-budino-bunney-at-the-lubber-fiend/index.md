@@ -1,6 +1,6 @@
 # Budino & Bunney at The Lubber Fiend
 
-Budino & Bunney at The Lubber Fiend on Sat 21 Nov, Newcastle. 2 artists: Budino and Bunney. See the line-up on soundcheck.
+Budino & Bunney at The Lubber Fiend on Sat 21 Nov, Newcastle. 2 artists: Budino and Bunney. Progressive House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

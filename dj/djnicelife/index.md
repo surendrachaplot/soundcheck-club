@@ -1,6 +1,6 @@
 # DJ Nicelife
 
-DJ Nicelife is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at E-Werk Kulturzentrum, Nürnberg on Sat, 17 Oct 2026.
+DJ Nicelife is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at E-Werk Kulturzentrum, Nürnberg on Sat, 17 Oct 2026.
 
 DJ Nicelife is a techno and trance artist based in Germany, with 4 gigs on soundcheck across Berlin, Cologne and Nürnberg. Often billed alongside Amøn, DICE and ANDATA. Next up: E-Werk Kulturzentrum, Nürnberg on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ DJ Nicelife is a techno and trance artist based in Germany, with 4 gigs on sound
 
 Amøn, DICE, ANDATA
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnicelife/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnicelife/)*

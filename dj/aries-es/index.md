@@ -1,6 +1,6 @@
 # Ari (ES)
 
-Ari (ES) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Warerhouse Alioth, 4142 Münchenstein, Basel on Sat, 10 Oct 2026.
+Ari (ES) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Warerhouse Alioth, 4142 Münchenstein, Basel on Sat, 10 Oct 2026.
 
 Ari (ES) is a trance and techno artist based in Spain, with 4 gigs on soundcheck across Basel, Berlin, Munich and Valencia. Often billed alongside Feldberg, mogli and @n3opapi. Next up: TBA - Warerhouse Alioth, 4142 Münchenstein, Basel on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ Ari (ES) is a trance and techno artist based in Spain, with 4 gigs on soundcheck
 
 Feldberg, mogli (2), @n3opapi
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aries-es/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aries-es/)*

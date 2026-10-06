@@ -1,6 +1,6 @@
 # Yhii
 
-Yhii is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - MOXIR, Armenia on Sat, 17 Oct 2026.
+Yhii is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - MOXIR, Armenia on Sat, 17 Oct 2026.
 
 Yhii is an electronic artist, with 5 gigs on soundcheck across Armenia, Athens, Berlin and Tbilisi. Often billed alongside ANNA JAPARIDZE, Ario and Bassil. Next up: TBA - MOXIR, Armenia on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ Yhii is an electronic artist, with 5 gigs on soundcheck across Armenia, Athens, 
 
 ANNA JAPARIDZE, Ario, Bassil
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yhii/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yhii/)*

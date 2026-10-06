@@ -1,6 +1,6 @@
 # Spinks
 
-Spinks is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Secret East London Location, London on Sat, 10 Oct 2026.
+Spinks is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Secret East London Location, London on Sat, 10 Oct 2026.
 
 Spinks is a techno and house artist based in United Kingdom, with 58 gigs on soundcheck across Brighton and London. Often billed alongside Atoxyl, Yiota and Acid Carbon. Next up: TBA - Secret East London Location, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Spinks is a techno and house artist based in United Kingdom, with 58 gigs on sou
 
 Atoxyl, Yiota, Acid Carbon
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spinks/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spinks/)*

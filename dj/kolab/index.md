@@ -1,6 +1,6 @@
 # Kø:lab
 
-Kø:lab is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at OST, Berlin on Fri, 16 Oct 2026.
+Kø:lab is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at OST, Berlin on Fri, 16 Oct 2026.
 
 Kø:lab is a techno and trance artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Ankara, Barcelona and Berlin and 21 more. Often billed alongside SEKTOR69, Cara Elizabeth and Dominique Lamee. Next up: OST, Berlin on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Kø:lab is a techno and trance artist based in Germany, with 114 gigs on soundch
 
 SEKTOR69, Cara Elizabeth, Dominique Lamee
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kolab/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kolab/)*

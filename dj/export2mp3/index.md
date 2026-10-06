@@ -1,6 +1,6 @@
 # EXPORT2MP3
 
-EXPORT2MP3 is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Pearl, Vancouver on Fri, 9 Oct 2026.
+EXPORT2MP3 is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Pearl, Vancouver on Fri, 9 Oct 2026.
 
 EXPORT2MP3 is a techno and gabber artist based in Canada, with 5 gigs on soundcheck across Vancouver. Often billed alongside Daniel Lin, BOBSY! and DJ TRANCERIGHTS. Next up: The Pearl, Vancouver on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ EXPORT2MP3 is a techno and gabber artist based in Canada, with 5 gigs on soundch
 
 Daniel Lin, BOBSY!, DJ TRANCERIGHTS
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/export2mp3/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/export2mp3/)*

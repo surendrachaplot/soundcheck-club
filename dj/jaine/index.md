@@ -1,6 +1,6 @@
 # Jaine
 
-Jaine is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
+Jaine is a House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
 
 Jaine is a house artist, with 5 gigs on soundcheck across Amsterdam. Often billed alongside ADHI, Alex Downey and Alexia Glensy. Next up: ingang, Amsterdam on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ Jaine is a house artist, with 5 gigs on soundcheck across Amsterdam. Often bille
 
 ADHI, Alex Downey, Alexia Glensy
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaine/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaine/)*

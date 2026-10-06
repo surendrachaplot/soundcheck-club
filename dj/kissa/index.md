@@ -1,6 +1,6 @@
 # KISSA
 
-KISSA is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at La Cova, Hamburg on Fri, 9 Oct 2026.
+KISSA is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at La Cova, Hamburg on Fri, 9 Oct 2026.
 
 KISSA is a techno and electro artist based in Germany, with 5 gigs on soundcheck across Hamburg. Often billed alongside TZO, AH-N!CE and Natta. Next up: La Cova, Hamburg on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ KISSA is a techno and electro artist based in Germany, with 5 gigs on soundcheck
 
 TZO (1), AH-N!CE, Natta
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kissa/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kissa/)*

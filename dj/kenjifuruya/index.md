@@ -1,6 +1,6 @@
 # KENJI FURUYA
 
-KENJI FURUYA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at R Lounge, Tokyo on Thu, 8 Oct 2026.
+KENJI FURUYA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at R Lounge, Tokyo on Thu, 8 Oct 2026.
 
 KENJI FURUYA is a techno and house artist based in Japan, with 31 gigs on soundcheck across Tokyo. Often billed alongside FUJIMON, Kulage and uuu7. Next up: R Lounge, Tokyo on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ KENJI FURUYA is a techno and house artist based in Japan, with 31 gigs on soundc
 
 FUJIMON, Kulage, uuu7
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjifuruya/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjifuruya/)*

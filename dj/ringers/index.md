@@ -1,6 +1,6 @@
 # RINGERS
 
-RINGERS is a Garage and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Movers, Nottingham on Thu, 8 Oct 2026.
+RINGERS is a Garage and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Movers, Nottingham on Thu, 8 Oct 2026.
 
 RINGERS is a garage and jungle artist based in United Kingdom, with 18 gigs on soundcheck across Birmingham, Leeds, London and Nottingham. Often billed alongside Syntax, Bad B!tch Dubz and Bakey. Next up: Movers, Nottingham on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ RINGERS is a garage and jungle artist based in United Kingdom, with 18 gigs on s
 
 Syntax (2), Bad B!tch Dubz, Bakey
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ringers/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ringers/)*

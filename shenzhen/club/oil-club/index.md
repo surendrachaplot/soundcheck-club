@@ -1,6 +1,6 @@
 # OIL Club
 
-OIL Club is a music venue in Shenzhen with 16 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "塞挺SETTING x Couch Co-Op: CHAV Party 006 深圳站- OIL 来了就是摇! 中外社会摇对决" on Tue, 6 Oct 2026.
+OIL Club is a music venue in Shenzhen with 16 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "塞挺SETTING x Couch Co-Op: CHAV Party 006 深圳站- OIL 来了就是摇! 中外社会摇对决" on Tue, 6 Oct 2026.
 
 OIL Club is a music venue in Shenzhen listed on soundcheck. 16 upcoming gigs, with line-ups including ADEAD, Alion, Beibeilon and DJ 86 and 2 more. See dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
 
@@ -23,4 +23,4 @@ OIL Club is a music venue in Shenzhen listed on soundcheck. 16 upcoming gigs, wi
 
 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen, Shenzhen
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*

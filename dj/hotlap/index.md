@@ -1,6 +1,6 @@
 # HotLap
 
-HotLap is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Dojo Boutique Club, Budapest on Sat, 17 Oct 2026.
+HotLap is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Dojo Boutique Club, Budapest on Sat, 17 Oct 2026.
 
 HotLap is an afro house and house artist based in United States of America, with 15 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Budapest and 8 more. Often billed alongside Cima, ADAPT (DK) and ARKADYAN. Next up: Dojo Boutique Club, Budapest on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ HotLap is an afro house and house artist based in United States of America, with
 
 Cima, ADAPT (DK), ARKADYAN
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotlap/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotlap/)*

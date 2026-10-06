@@ -1,6 +1,6 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "FLINTA* CLUB DECK x Friends - STAY CORE" on Thu, 8 Oct 2026.
+Klunkerkranich is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "FLINTA* CLUB DECK x Friends - STAY CORE" on Thu, 8 Oct 2026.
 
 Klunkerkranich is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including aqwapi, Be.Bab, cee_ohh and CLAVD and 2 more. See dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
@@ -18,4 +18,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 5 upcoming gigs,
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

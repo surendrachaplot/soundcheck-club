@@ -1,6 +1,6 @@
 # PRST
 
-PRST is a music venue in Vienna with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "PRST x POPCHOP FOOD WEEK x SAKE WEEK 2026" on Thu, 8 Oct 2026.
+PRST is a music venue in Vienna with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "PRST x POPCHOP FOOD WEEK x SAKE WEEK 2026" on Thu, 8 Oct 2026.
 
 PRST is a music venue in Vienna listed on soundcheck. 7 upcoming gigs, with line-ups including Andy Catana, Apua, ATNIL and Camion Bazar and 2 more. See dates, start times and who's playing. Praterstraße 18, 1020 Wien, Austria.
 
@@ -20,4 +20,4 @@ PRST is a music venue in Vienna listed on soundcheck. 7 upcoming gigs, with line
 
 Praterstraße 18, 1020 Wien, Austria, Vienna
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*

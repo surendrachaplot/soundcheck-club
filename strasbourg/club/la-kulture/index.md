@@ -1,6 +1,6 @@
 # La Kulture
 
-La Kulture is a music venue in Strasbourg with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Kulture Club TecHouse: Schaed //   Maÿ" on Sat, 10 Oct 2026.
+La Kulture is a music venue in Strasbourg with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Kulture Club TecHouse: Schaed //   Maÿ" on Sat, 10 Oct 2026.
 
 La Kulture is a music venue in Strasbourg listed on soundcheck. 2 upcoming gigs, with line-ups including Derode and Schaed. See dates, start times and who's playing. 9 Rue des Bateliers, 67000 Strasbourg, France.
 
@@ -15,4 +15,4 @@ La Kulture is a music venue in Strasbourg listed on soundcheck. 2 upcoming gigs,
 
 9 Rue des Bateliers, 67000 Strasbourg, France, Strasbourg
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/la-kulture/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/la-kulture/)*

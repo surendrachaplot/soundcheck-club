@@ -1,6 +1,6 @@
 # Michel de Hey
 
-Michel de Hey is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Paradiso, Amsterdam on Sat, 10 Oct 2026.
+Michel de Hey is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Paradiso, Amsterdam on Sat, 10 Oct 2026.
 
 Michel de Hey is a house and tech house artist based in Netherlands, with 135 gigs on soundcheck across Amsterdam, Ibiza, Malta and Netherlands and 4 more. Often billed alongside Benny Rodrigues, Prunk and AAT (NL). Next up: Paradiso, Amsterdam on Sat 10 Oct.
 
@@ -31,4 +31,4 @@ Michel de Hey is a house and tech house artist based in Netherlands, with 135 gi
 
 Benny Rodrigues, Prunk, AAT (NL)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/micheldehey/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/micheldehey/)*

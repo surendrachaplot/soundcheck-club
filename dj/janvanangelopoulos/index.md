@@ -1,6 +1,6 @@
 # Jan Van Angelopoulos
 
-Jan Van Angelopoulos is a Electronica and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Onassis Ready, Athens on Fri, 9 Oct 2026.
+Jan Van Angelopoulos is a Electronica and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Onassis Ready, Athens on Fri, 9 Oct 2026.
 
 Jan Van Angelopoulos is an electronica and acid artist, with 5 gigs on soundcheck across Athens, Edinburgh, Glasgow and Manchester. Often billed alongside Anna Vs June, Pako Vega and Ana K Miller. Next up: Onassis Ready, Athens on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ Jan Van Angelopoulos is an electronica and acid artist, with 5 gigs on soundchec
 
 Anna Vs June, Pako Vega, Ana K Miller
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janvanangelopoulos/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janvanangelopoulos/)*

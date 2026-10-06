@@ -1,6 +1,6 @@
 # KATHERYNE
 
-KATHERYNE is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Nether Club, Bucharest on Fri, 16 Oct 2026.
+KATHERYNE is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Nether Club, Bucharest on Fri, 16 Oct 2026.
 
 KATHERYNE is a techno and electro artist based in Romania, with 12 gigs on soundcheck across Bucharest. Often billed alongside AMEDEUS, Amnesico and Sandraz. Next up: Nether Club, Bucharest on Fri 16 Oct.
 
@@ -10,7 +10,7 @@ KATHERYNE is a techno and electro artist based in Romania, with 12 gigs on sound
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Nether Club | Bucharest |
 | Fri, 20 Nov 2026 | Nether Club | Bucharest |
-| Sat, 5 Dec 2026 | TBA | Bucharest |
+| Sat, 5 Dec 2026 | Nether Club | Bucharest |
 | Fri, 18 Dec 2026 | Nether Club | Bucharest |
 
 ## Recently played
@@ -28,4 +28,4 @@ KATHERYNE is a techno and electro artist based in Romania, with 12 gigs on sound
 
 AMEDEUS, Amnesico, Sandraz
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katheryne/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katheryne/)*

@@ -1,6 +1,6 @@
 # Zorz
 
-Zorz is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Astron Club, Athens on Sat, 10 Oct 2026.
+Zorz is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Astron Club, Athens on Sat, 10 Oct 2026.
 
 Zorz is a techno and experimental artist based in Greece, with 20 gigs on soundcheck across Athens, Berlin, London and Tbilisi and 1 more. Often billed alongside 3.14, Kondaktor and LYCURGUS. Next up: Astron Club, Athens on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Zorz is a techno and experimental artist based in Greece, with 20 gigs on soundc
 
 3.14, Kondaktor, LYCURGUS
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zorz/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zorz/)*

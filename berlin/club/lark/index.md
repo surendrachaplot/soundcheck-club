@@ -1,6 +1,6 @@
 # Lark
 
-Lark is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "SUBrina FUNdraiser" on Fri, 9 Oct 2026.
+Lark is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "SUBrina FUNdraiser" on Fri, 9 Oct 2026.
 
 Lark is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including _hiø, asphalt angel, BAMBI (UK) and CHRANDY and 2 more. See dates, start times and who's playing. Holzmarktstrasse 15-18, 10179.
 
@@ -23,4 +23,4 @@ Lark is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with lin
 
 Holzmarktstrasse 15-18, 10179, Berlin
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*

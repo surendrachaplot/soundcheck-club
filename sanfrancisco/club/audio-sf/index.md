@@ -1,8 +1,8 @@
 # Audio SF
 
-Audio SF is a music venue in San Francisco/Oakland with 25 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Baauer" on Fri, 9 Oct 2026.
+Audio SF is a music venue in San Francisco/Oakland with 26 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Baauer" on Fri, 9 Oct 2026.
 
-Audio SF is a music venue in San Francisco/Oakland listed on soundcheck. 25 upcoming gigs, with line-ups including ALMAS, Baauer, Cristoph and Danny Krivit and 2 more. See dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
+Audio SF is a music venue in San Francisco/Oakland listed on soundcheck. 26 upcoming gigs, with line-ups including ALMAS, Baauer, Cristoph and Danny Krivit and 2 more. See dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Audio SF is a music venue in San Francisco/Oakland listed on soundcheck. 25 upco
 | Sat, 17 Oct 2026 | Welker |  |
 | Sun, 18 Oct 2026 | The Praise Party San Francisco: David Harness & DJ Spen | DJ Spen, David Harness |
 | Fri, 23 Oct 2026 | Clüb De Combat |  |
+| Sat, 24 Oct 2026 | Treasure Island After Party with Special Guests |  |
 | Fri, 30 Oct 2026 | Audio Halloween with Darude |  |
 | Sat, 31 Oct 2026 | Audio Halloween with Sistek | Sistek |
-| Fri, 6 Nov 2026 | AR/CO |  |
 
 ## Address
 
 316 11th St; San Francisco CA 94103; United States, San Francisco/Oakland
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*

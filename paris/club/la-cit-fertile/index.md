@@ -1,6 +1,6 @@
 # La Cité Fertile
 
-La Cité Fertile is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "SOUND ENFORCERS feat Gilb'R, Dj Volta, DJ Jee, Oxyd" on Sat, 10 Oct 2026.
+La Cité Fertile is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "SOUND ENFORCERS feat Gilb'R, Dj Volta, DJ Jee, Oxyd" on Sat, 10 Oct 2026.
 
 La Cité Fertile is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Jee, dj volta, Gilb'R and Kameliia and 2 more. See dates, start times and who's playing. 14 avenue Edouard Vaillant, 93500 Pantin.
 
@@ -15,4 +15,4 @@ La Cité Fertile is a music venue in Paris listed on soundcheck. 2 upcoming gigs
 
 14 avenue Edouard Vaillant, 93500 Pantin, Paris
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cit-fertile/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cit-fertile/)*

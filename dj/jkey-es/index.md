@@ -1,6 +1,6 @@
 # JKEY
 
-JKEY is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Bridge 48, Barcelona on Sat, 7 Nov 2026.
+JKEY is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Bridge 48, Barcelona on Sat, 7 Nov 2026.
 
 JKEY is a techno and minimal techno artist based in Spain, with 4 gigs on soundcheck across Barcelona. Often billed alongside Arcfilter, Comarca and David Villalobos. Next up: Bridge 48, Barcelona on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ JKEY is a techno and minimal techno artist based in Spain, with 4 gigs on soundc
 
 Arcfilter, Comarca, David Villalobos
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jkey-es/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jkey-es/)*

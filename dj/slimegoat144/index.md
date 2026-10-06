@@ -1,6 +1,6 @@
 # Slimegoat144
 
-Slimegoat144 is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Agora Rollberg, Berlin on Tue, 13 Oct 2026.
+Slimegoat144 is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Agora Rollberg, Berlin on Tue, 13 Oct 2026.
 
 Slimegoat144 is a techno and tech house artist based in Germany, with 10 gigs on soundcheck across Berlin. Often billed alongside cell1, 4NOUK and Amo (IT). Next up: Agora Rollberg, Berlin on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ Slimegoat144 is a techno and tech house artist based in Germany, with 10 gigs on
 
 cell1, 4NOUK, Amo (IT)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slimegoat144/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slimegoat144/)*

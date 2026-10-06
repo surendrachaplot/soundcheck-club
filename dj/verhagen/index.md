@@ -1,6 +1,6 @@
 # Verhagen
 
-Verhagen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Nest, Basel on Fri, 16 Oct 2026.
+Verhagen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Nest, Basel on Fri, 16 Oct 2026.
 
 Verhagen is a techno and house artist based in Switzerland, with 13 gigs on soundcheck across Basel. Often billed alongside HÆNGSTLICH, Kosta and Echonomist. Next up: Nest, Basel on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Verhagen is a techno and house artist based in Switzerland, with 13 gigs on soun
 
 HÆNGSTLICH, Kosta, Echonomist
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verhagen/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verhagen/)*

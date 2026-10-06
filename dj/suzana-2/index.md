@@ -1,6 +1,6 @@
 # Suzana
 
-Suzana is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Peti Kupe, Zagreb on Fri, 20 Nov 2026.
+Suzana is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Peti Kupe, Zagreb on Fri, 20 Nov 2026.
 
 Suzana is a techno artist based in Serbia, with 7 gigs on soundcheck across Belgrade and Zagreb. Often billed alongside Stameni, laccotti and Tarens. Next up: Peti Kupe, Zagreb on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ Suzana is a techno artist based in Serbia, with 7 gigs on soundcheck across Belg
 
 Stameni, laccotti, Tarens
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suzana-2/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suzana-2/)*

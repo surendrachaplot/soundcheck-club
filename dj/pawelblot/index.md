@@ -1,6 +1,6 @@
 # Pawel Blot
 
-Pawel Blot is a Italo Disco and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at K-Bar Powiśle, Warsaw on Fri, 9 Oct 2026.
+Pawel Blot is a Italo Disco and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at K-Bar Powiśle, Warsaw on Fri, 9 Oct 2026.
 
 Pawel Blot is an italo disco and acid artist based in Poland, with 31 gigs on soundcheck across Barcelona, Berlin, Krakow and The Hague and 1 more. Often billed alongside Pitti Schmitti, Cosmic Force and Internal Operator. Next up: K-Bar Powiśle, Warsaw on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Pawel Blot is an italo disco and acid artist based in Poland, with 31 gigs on so
 
 Pitti Schmitti, Cosmic Force, Internal Operator
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pawelblot/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pawelblot/)*

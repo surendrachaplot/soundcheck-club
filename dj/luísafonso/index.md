@@ -1,6 +1,6 @@
 # Luís Afonso
 
-Luís Afonso is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Era uma vez no Porto, Porto on Wed, 14 Oct 2026.
+Luís Afonso is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Era uma vez no Porto, Porto on Wed, 14 Oct 2026.
 
 Luís Afonso is a house and techno artist based in Portugal, with 11 gigs on soundcheck across Porto. Often billed alongside Alfonsvs, Adriana Ruas and Nuno Carneiro. Next up: Era uma vez no Porto, Porto on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ Luís Afonso is a house and techno artist based in Portugal, with 11 gigs on sou
 
 Alfonsvs, Adriana Ruas, Nuno Carneiro
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luísafonso/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luísafonso/)*

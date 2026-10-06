@@ -1,6 +1,6 @@
 # Ol.G
 
-Ol.G is a Bass and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+Ol.G is a Bass and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 Ol.G is a bass and electro artist based in United Kingdom, with 4 gigs on soundcheck across North and Sheffield. Often billed alongside Joi L.F, Esmé and Porter Brook. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ Ol.G is a bass and electro artist based in United Kingdom, with 4 gigs on soundc
 
 Joi L.F, Esmé, Porter Brook
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ol.g/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ol.g/)*

@@ -1,6 +1,6 @@
 # UNER
 
-UNER is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at High Club Room, Madrid on Thu, 8 Oct 2026.
+UNER is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at High Club Room, Madrid on Thu, 8 Oct 2026.
 
 UNER is a house and electronica artist based in Spain, with 14 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Sergio Bifeis, David Ponziano and GIVIO. Next up: High Club Room, Madrid on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ UNER is a house and electronica artist based in Spain, with 14 gigs on soundchec
 
 Sergio Bifeis, David Ponziano, GIVIO
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uner/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uner/)*

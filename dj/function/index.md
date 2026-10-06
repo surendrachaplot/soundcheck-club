@@ -1,6 +1,6 @@
 # Function
 
-Function is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at fi, Cologne on Sat, 24 Oct 2026.
+Function is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at fi, Cologne on Sat, 24 Oct 2026.
 
 Function is a techno and house artist based in United States of America, with 132 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Regis, Sandwell District and Sarah Wreath. Next up: fi, Cologne on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ Function is a techno and house artist based in United States of America, with 13
 
 Regis, Sandwell District, Sarah Wreath
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/function/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/function/)*

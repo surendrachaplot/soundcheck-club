@@ -1,6 +1,6 @@
 # ebb/flow collective
 
-ebb/flow collective is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Low Profile Studios, London on Sat, 21 Nov 2026.
+ebb/flow collective is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Low Profile Studios, London on Sat, 21 Nov 2026.
 
 ebb/flow collective is an italo disco and house artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside Filippo MSM and Kalani. Next up: Low Profile Studios, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ ebb/flow collective is an italo disco and house artist based in United Kingdom, 
 
 Filippo MSM, Kalani
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ebbflowcollective/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ebbflowcollective/)*

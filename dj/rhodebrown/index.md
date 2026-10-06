@@ -1,6 +1,6 @@
 # Rhode & Brown
 
-Rhode & Brown is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at SASS Music Club, Vienna on Fri, 9 Oct 2026.
+Rhode & Brown is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at SASS Music Club, Vienna on Fri, 9 Oct 2026.
 
 Rhode & Brown are a house and disco duo based in Germany, with 51 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Copenhagen and 6 more. Often billed alongside Benjamin Fröhlich, Jeyrototo and Rosa Red. Next up: SASS Music Club, Vienna on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Rhode & Brown are a house and disco duo based in Germany, with 51 gigs on soundc
 
 Benjamin Fröhlich, Jeyrototo, Rosa Red
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhodebrown/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhodebrown/)*

@@ -1,6 +1,6 @@
 # Goldener Reiter
 
-Goldener Reiter is a music venue in Munich with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Smooth Sailing Sessions with Ben Gomori, Didem, Jeyrototo and Louis EMP" on Fri, 16 Oct 2026.
+Goldener Reiter is a music venue in Munich with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Smooth Sailing Sessions with Ben Gomori, Didem, Jeyrototo and Louis EMP" on Fri, 16 Oct 2026.
 
 Goldener Reiter is a music venue in Munich listed on soundcheck. 3 upcoming gigs, with line-ups including Ben Gomori, die_ley, DJ ASS TITS and DJ Business and 2 more. See dates, start times and who's playing. Theklastraße 1 Munich, Germany 80469.
 
@@ -16,4 +16,4 @@ Goldener Reiter is a music venue in Munich listed on soundcheck. 3 upcoming gigs
 
 Theklastraße 1 Munich, Germany 80469, Munich
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*

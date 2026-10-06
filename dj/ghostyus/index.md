@@ -1,6 +1,6 @@
 # Ghosty (US)
 
-Ghosty (US) is a Garage and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Johnny Noodle King, Detroit on Sat, 17 Oct 2026.
+Ghosty (US) is a Garage and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Johnny Noodle King, Detroit on Sat, 17 Oct 2026.
 
 Ghosty (US) is a garage and tech house artist, with 5 gigs on soundcheck across Detroit and New York City. Often billed alongside Provider (US), DJVODKASODA and Duck Trash. Next up: TBA - Johnny Noodle King, Detroit on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ Ghosty (US) is a garage and tech house artist, with 5 gigs on soundcheck across 
 
 Provider (US), DJVODKASODA, Duck Trash
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ghostyus/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ghostyus/)*

@@ -1,6 +1,6 @@
 # Studionotte
 
-Studionotte is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "MUM MILANO" on Fri, 9 Oct 2026.
+Studionotte is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "MUM MILANO" on Fri, 9 Oct 2026.
 
 Studionotte is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including ANDREA SALVAGGIO, Charlie (RO), Fabrizio Siano and LAMALICE and 1 more. See dates, start times and who's playing. Via Feltre, 30, 20132 Milano MI.
 
@@ -15,4 +15,4 @@ Studionotte is a music venue in Milan listed on soundcheck. 2 upcoming gigs, wit
 
 Via Feltre, 30, 20132 Milano MI, Milan
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/studionotte/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/studionotte/)*

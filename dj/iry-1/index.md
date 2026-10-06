@@ -1,6 +1,6 @@
 # IRY (1)
 
-IRY (1) is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at WOMB, Tokyo on Sun, 11 Oct 2026.
+IRY (1) is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at WOMB, Tokyo on Sun, 11 Oct 2026.
 
 IRY is a trance and psytrance artist based in Japan, with 4 gigs on soundcheck across Tokyo. Often billed alongside Yamato, DJ Yogurt and ERIMIYA. Next up: WOMB, Tokyo on Sun 11 Oct.
 
@@ -20,4 +20,4 @@ IRY is a trance and psytrance artist based in Japan, with 4 gigs on soundcheck a
 
 Yamato, DJ Yogurt, ERIMIYA
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iry-1/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iry-1/)*

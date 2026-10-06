@@ -1,6 +1,6 @@
 # Tah (1)
 
-Tah (1) is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Umbria Arts, Philadelphia on Sat, 31 Oct 2026.
+Tah (1) is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Umbria Arts, Philadelphia on Sat, 31 Oct 2026.
 
 Tah is a club and ghetto tech artist based in United States of America, with 43 gigs on soundcheck across Detroit, London, Los Angeles and New York City and 4 more. Often billed alongside ARCHANGEL (US), purp and CalvoMusic. Next up: Umbria Arts, Philadelphia on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Tah is a club and ghetto tech artist based in United States of America, with 43 
 
 ARCHANGEL (US), purp, CalvoMusic
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tah-1/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tah-1/)*

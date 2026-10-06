@@ -1,6 +1,6 @@
 # entity_A
 
-entity_A is a Electro and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Mood Ring, New York City on Thu, 8 Oct 2026.
+entity_A is a Electro and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Mood Ring, New York City on Thu, 8 Oct 2026.
 
 entity_A is an electro and garage artist based in United States of America, with 5 gigs on soundcheck across New York City. Often billed alongside Bella Hex, DJ Fang and EAMMS. Next up: Mood Ring, New York City on Thu 8 Oct.
 
@@ -21,4 +21,4 @@ entity_A is an electro and garage artist based in United States of America, with
 
 Bella Hex, DJ Fang, EAMMS
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/entity_a/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/entity_a/)*

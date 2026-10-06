@@ -1,6 +1,6 @@
 # Alec Falconer
 
-Alec Falconer is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Paraiso Estereo, Miami on Fri, 9 Oct 2026.
+Alec Falconer is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Paraiso Estereo, Miami on Fri, 9 Oct 2026.
 
 Alec Falconer is a house and garage artist based in United Kingdom, with 116 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Berlin and 29 more. Often billed alongside Harry Wills, Dr Banana and Phone Traxxx. Next up: Paraiso Estereo, Miami on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Alec Falconer is a house and garage artist based in United Kingdom, with 116 gig
 
 Harry Wills, Dr Banana, Phone Traxxx
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alecfalconer/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alecfalconer/)*

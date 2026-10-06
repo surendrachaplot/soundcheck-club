@@ -1,6 +1,6 @@
 # EVER
 
-EVER is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 10 Oct 2026.
+EVER is a House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 10 Oct 2026.
 
 EVER is a house artist based in Taiwan, with 5 gigs on soundcheck across Amsterdam and London. Often billed alongside Krai, Andrea and BARROSKINI. Next up: Garage Noord, Amsterdam on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ EVER is a house artist based in Taiwan, with 5 gigs on soundcheck across Amsterd
 
 Krai, Andrea, BARROSKINI
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ever/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ever/)*

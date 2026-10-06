@@ -1,6 +1,6 @@
 # DJ Scallywag
 
-DJ Scallywag is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Jupiter Disco, New York City on Sun, 1 Nov 2026.
+DJ Scallywag is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Jupiter Disco, New York City on Sun, 1 Nov 2026.
 
 DJ Scallywag is a techno and house artist based in United States of America, with 5 gigs on soundcheck across New York City. Often billed alongside Ben Zo, Abby Echiverri and AceMo. Next up: Jupiter Disco, New York City on Sun 1 Nov.
 
@@ -21,4 +21,4 @@ DJ Scallywag is a techno and house artist based in United States of America, wit
 
 Ben Zo, Abby Echiverri, AceMo
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djscallywag/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djscallywag/)*

@@ -1,6 +1,6 @@
 # Nick Warren
 
-Nick Warren is a Progressive House and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Reddo Warsaw Club, Warsaw on Fri, 9 Oct 2026.
+Nick Warren is a Progressive House and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Reddo Warsaw Club, Warsaw on Fri, 9 Oct 2026.
 
 Nick Warren is a progressive house and house artist based in United Kingdom, with 138 gigs on soundcheck across Amsterdam, Argentina, Athens and Bali and 37 more. Often billed alongside Hernan Cattaneo, Martin Fredes and Sasha. Next up: Reddo Warsaw Club, Warsaw on Fri 9 Oct.
 
@@ -32,4 +32,4 @@ Nick Warren is a progressive house and house artist based in United Kingdom, wit
 
 Hernan Cattaneo, Martin Fredes, Sasha
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickwarren/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickwarren/)*

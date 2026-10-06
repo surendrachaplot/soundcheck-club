@@ -1,6 +1,6 @@
 # Namasenda
 
-Namasenda is a Club and Pop artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Rua Sacadura Cabral, 59 - Saúde, Rio de Janeiro - RJ, 20081-261, Brazil, Rio-de-janeiro on Sat, 10 Oct 2026.
+Namasenda is a Club and Pop artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Rua Sacadura Cabral, 59 - Saúde, Rio de Janeiro - RJ, 20081-261, Brazil, Rio-de-janeiro on Sat, 10 Oct 2026.
 
 Namasenda is a club and pop artist based in Sweden, with 20 gigs on soundcheck across Barcelona, Brussels, Glasgow and Leipzig and 9 more. Often billed alongside Boys Noize, DJ AYA and Danielle. Next up: TBA - Rua Sacadura Cabral, 59 - Saúde, Rio de Janeiro - RJ, 20081-261, Brazil, Rio De Janeiro on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Namasenda is a club and pop artist based in Sweden, with 20 gigs on soundcheck a
 
 Boys Noize, DJ AYA, Danielle
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/namasenda/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/namasenda/)*

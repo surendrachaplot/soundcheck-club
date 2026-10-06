@@ -1,6 +1,6 @@
-# WEV and Stonie Blue at Le Bain
+# wev and Stonie Blue at Le Bain
 
-WEV and Stonie Blue at Le Bain on Sat 17 Oct, New York City. 2 artists: Stonie Blue and wev (US). See the line-up on soundcheck.
+wev and Stonie Blue at Le Bain on Sat 17 Oct, New York City. 2 artists: Stonie Blue and wev (US). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # P errine
 
-P errine is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Lyon - Confluence, Lyon on Wed, 9 Dec 2026.
+P errine is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Lyon - Confluence, Lyon on Wed, 9 Dec 2026.
 
 P errine is a techno and house artist based in France, with 45 gigs on soundcheck across Berlin, Hamburg, Lyon and Marseille and 2 more. Often billed alongside Axel Blanc, IMA:R and Pablo Valentino. Next up: TBA - Lyon - Confluence, Lyon on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ P errine is a techno and house artist based in France, with 45 gigs on soundchec
 
 Axel Blanc, IMA:R, Pablo Valentino
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perrine-fr/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perrine-fr/)*

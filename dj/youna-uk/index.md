@@ -1,14 +1,14 @@
 # YOUNA
 
-YOUNA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Amsterdam Club Train, Amsterdam on Sat, 24 Oct 2026.
+YOUNA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sat, 24 Oct 2026.
 
-YOUNA is a techno and house artist based in South Korea, with 11 gigs on soundcheck across Amsterdam, Copenhagen, London and Miami and 4 more. Often billed alongside Armin van Buuren, Omnya and AMARE. Next up: Amsterdam Club Train, Amsterdam on Sat 24 Oct.
+YOUNA is a techno and house artist based in South Korea, with 11 gigs on soundcheck across Amsterdam, Copenhagen, London and Miami and 4 more. Often billed alongside Armin van Buuren, Omnya and AMARE. Next up: 50:Hertz Club Train, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Amsterdam Club Train | Amsterdam |
+| Sat, 24 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 | Sat, 24 Oct 2026 | Oosterbar | Amsterdam |
 
 ## Recently played
@@ -26,4 +26,4 @@ YOUNA is a techno and house artist based in South Korea, with 11 gigs on soundch
 
 Armin van Buuren, Omnya, AMARE
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youna-uk/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youna-uk/)*

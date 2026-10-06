@@ -1,6 +1,6 @@
 # Local Dub
 
-Local Dub is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Cause, London on Sun, 1 Nov 2026.
+Local Dub is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Cause, London on Sun, 1 Nov 2026.
 
 Local Dub is a tech house and house artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 5 more. Often billed alongside Josh Baker, Alexandria and Jentzen. Next up: The Cause, London on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Local Dub is a tech house and house artist based in United Kingdom, with 32 gigs
 
 Josh Baker, Alexandria, Jentzen
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/localdub/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/localdub/)*

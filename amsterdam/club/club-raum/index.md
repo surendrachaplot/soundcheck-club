@@ -1,6 +1,6 @@
 # CLUB RAUM
 
-CLUB RAUM is a music venue in Amsterdam with 12 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Leon Vynehall, Yu Su, Marie K" on Fri, 9 Oct 2026.
+CLUB RAUM is a music venue in Amsterdam with 12 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Leon Vynehall, Yu Su, Marie K" on Fri, 9 Oct 2026.
 
 CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 12 upcoming gigs, with line-ups including Abstract Division, Afra, Aldonna and Alex Kassian and 2 more. See dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
 
@@ -23,4 +23,4 @@ CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 12 upcoming gigs, 
 
 Humberweg 3, 1043 AC Amsterdam, Amsterdam
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*

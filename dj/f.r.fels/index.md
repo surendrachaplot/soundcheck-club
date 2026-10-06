@@ -1,6 +1,6 @@
 # F.R. Fels
 
-F.R. Fels is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Neue Welle, Leipzig on Fri, 16 Oct 2026.
+F.R. Fels is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Neue Welle, Leipzig on Fri, 16 Oct 2026.
 
 F.R. Fels is a house and techno artist, with 5 gigs on soundcheck across Leipzig. Often billed alongside Interviews, Credit 00 and DJ Stingray 313. Next up: Neue Welle, Leipzig on Fri 16 Oct.
 
@@ -21,4 +21,4 @@ F.R. Fels is a house and techno artist, with 5 gigs on soundcheck across Leipzig
 
 Interviews, Credit 00, DJ Stingray 313
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/f.r.fels/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/f.r.fels/)*

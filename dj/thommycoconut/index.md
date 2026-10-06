@@ -1,6 +1,6 @@
 # Thommy Coconut
 
-Thommy Coconut is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Club Exil, Vienna on Fri, 9 Oct 2026.
+Thommy Coconut is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Club Exil, Vienna on Fri, 9 Oct 2026.
 
 Thommy Coconut is a techno and trance artist, with 13 gigs on soundcheck across Berlin, New York City, Stuttgart and Vienna. Often billed alongside Felix Roth, DJ Vibekiller and PAUNA. Next up: Club Exil, Vienna on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Thommy Coconut is a techno and trance artist, with 13 gigs on soundcheck across 
 
 Felix Roth, DJ Vibekiller, PAUNA
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thommycoconut/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thommycoconut/)*

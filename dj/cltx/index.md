@@ -1,6 +1,6 @@
 # CLTX
 
-CLTX is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at E1, London on Fri, 16 Oct 2026.
+CLTX is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at E1, London on Fri, 16 Oct 2026.
 
 CLTX is a techno and trance artist based in France, with 174 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside DYEN, Alignment and Charlie Sparks. Next up: E1, London on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ CLTX is a techno and trance artist based in France, with 174 gigs on soundcheck 
 
 DYEN, Alignment, Charlie Sparks
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cltx/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cltx/)*

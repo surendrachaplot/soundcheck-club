@@ -1,6 +1,6 @@
 # k0v-
 
-k0v- is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Circus Tokyo, Tokyo on Sun, 11 Oct 2026.
+k0v- is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Circus Tokyo, Tokyo on Sun, 11 Oct 2026.
 
 k0v- is a techno and minimal techno artist based in Japan, with 5 gigs on soundcheck across Tokyo. Often billed alongside Uich, YuWa and TEI TEI. Next up: Circus Tokyo, Tokyo on Sun 11 Oct.
 
@@ -21,4 +21,4 @@ k0v- is a techno and minimal techno artist based in Japan, with 5 gigs on soundc
 
 Uich, YuWa, TEI TEI
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k0v-jp/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k0v-jp/)*

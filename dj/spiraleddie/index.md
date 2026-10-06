@@ -1,6 +1,6 @@
 # Spiral Eddie
 
-Spiral Eddie is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Silence Please, New York City on Sat, 10 Oct 2026.
+Spiral Eddie is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Silence Please, New York City on Sat, 10 Oct 2026.
 
 Spiral Eddie is a house and minimal artist based in United States of America, with 27 gigs on soundcheck across New York City. Often billed alongside datadata, DJ Sour and Max Watts. Next up: Silence Please, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Spiral Eddie is a house and minimal artist based in United States of America, wi
 
 datadata, DJ Sour, Max Watts
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spiraleddie/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spiraleddie/)*

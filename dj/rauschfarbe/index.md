@@ -1,6 +1,6 @@
 # Rausch & Farbe
 
-Rausch & Farbe is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at elipamanoke, Leipzig on Fri, 16 Oct 2026.
+Rausch & Farbe is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at elipamanoke, Leipzig on Fri, 16 Oct 2026.
 
 Rausch & Farbe are a techno and house duo based in Germany, with 13 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside Wiebe Roose, BOHO and Rn86. Next up: elipamanoke, Leipzig on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Rausch & Farbe are a techno and house duo based in Germany, with 13 gigs on soun
 
 Wiebe Roose, BOHO, Rn86
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rauschfarbe/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rauschfarbe/)*

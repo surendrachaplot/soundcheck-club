@@ -1,8 +1,8 @@
 # Wax Music Lounge
 
-Wax Music Lounge is a music venue in Melbourne with 58 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "BRAZLOMBIA" on Tue, 6 Oct 2026.
+Wax Music Lounge is a music venue in Melbourne with 58 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "BRAZLOMBIA" on Tue, 6 Oct 2026.
 
-Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 58 upcoming gigs, with line-ups including Beatski, Dj Nyack, Mothafunk and Savage The Girl. See dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
+Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 58 upcoming gigs, with line-ups including Beatski, CHARLES-EDDY, Dj Nyack and Mothafunk and 1 more. See dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 58 upcoming
 
 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria, Melbourne
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*

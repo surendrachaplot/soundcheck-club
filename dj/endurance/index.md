@@ -1,6 +1,6 @@
 # Endurance
 
-Endurance is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Upsidedown, Osaka on Fri, 16 Oct 2026.
+Endurance is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Upsidedown, Osaka on Fri, 16 Oct 2026.
 
 Endurance is an ambient and techno artist based in Japan, with 39 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Loe (JP), AOKI takamasa and Ario. Next up: Upsidedown, Osaka on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Endurance is an ambient and techno artist based in Japan, with 39 gigs on soundc
 
 Loe (JP), AOKI takamasa, Ario
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/endurance/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/endurance/)*

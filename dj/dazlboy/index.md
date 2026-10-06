@@ -1,6 +1,6 @@
 # DAZLBØY
 
-DAZLBØY is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Cause, London on Sat, 24 Oct 2026.
+DAZLBØY is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Cause, London on Sat, 24 Oct 2026.
 
 DAZLBØY is a club and baile funk artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Bristol, Brussels and London and 4 more. Often billed alongside GUS, Carlos do Complexo and DJ RaMeMes. Next up: The Cause, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DAZLBØY is a club and baile funk artist based in United Kingdom, with 18 gigs o
 
 GUS (4), Carlos do Complexo, DJ RaMeMes
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dazlboy/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dazlboy/)*

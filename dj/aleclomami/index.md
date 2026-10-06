@@ -1,6 +1,6 @@
 # Alec Lomami
 
-Alec Lomami is a Club and Gqom artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Snug Harbor, Charlotte on Sat, 24 Oct 2026.
+Alec Lomami is a Club and Gqom artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Snug Harbor, Charlotte on Sat, 24 Oct 2026.
 
 Alec Lomami is a club and gqom artist, with 5 gigs on soundcheck across Charlotte, Chicago, New York City and Tokyo. Often billed alongside AG, Andrew (TREKKIE TRAX) and Basile. Next up: Snug Harbor, Charlotte on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ Alec Lomami is a club and gqom artist, with 5 gigs on soundcheck across Charlott
 
 AG (1), Andrew (TREKKIE TRAX), Basile
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleclomami/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleclomami/)*

@@ -1,6 +1,6 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "EARTHTONES: Pedestrian Access, Frank Garret, Jake Korolev + Mago, Lulannie" on Wed, 7 Oct 2026.
+Jupiter Disco is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "EARTHTONES: Pedestrian Access, Frank Garret, Jake Korolev + Mago, Lulannie" on Wed, 7 Oct 2026.
 
 Jupiter Disco is a music venue in New York City listed on soundcheck. 19 upcoming gigs, with line-ups including Alpaca_, Ardio Zemog, Balam and BbbBbBB and 2 more. See dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
@@ -23,4 +23,4 @@ Jupiter Disco is a music venue in New York City listed on soundcheck. 19 upcomin
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

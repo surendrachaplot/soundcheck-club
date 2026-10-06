@@ -1,6 +1,6 @@
 # The Blackmailer
 
-The Blackmailer is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - ANZEN Späti, Berlin on Sat, 10 Oct 2026.
+The Blackmailer is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - ANZEN Späti, Berlin on Sat, 10 Oct 2026.
 
 The Blackmailer is a techno artist based in Germany, with 12 gigs on soundcheck across Berlin and London. Often billed alongside Marc Moeller, ROJI and Basstronauten. Next up: TBA - ANZEN Späti, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ The Blackmailer is a techno artist based in Germany, with 12 gigs on soundcheck 
 
 Marc Moeller, ROJI, Basstronauten
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theblackmailer/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theblackmailer/)*

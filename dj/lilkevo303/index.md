@@ -1,8 +1,8 @@
 # Lil Kevo 303
 
-Lil Kevo 303 is a Breakcore and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The DBA, Manchester on Mon, 12 Oct 2026.
+Lil Kevo 303 is a Breakcore and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The DBA, Manchester on Mon, 12 Oct 2026.
 
-Lil Kevo 303 is a breakcore and hardcore artist based in United States of America, with 39 gigs on soundcheck across Barcelona, Berlin, Birmingham and Boston and 16 more. Often billed alongside Hitori Tori, goreshit and 99jakes. Next up: The DBA, Manchester on Mon 12 Oct.
+Lil Kevo 303 is a breakcore and hardcore artist based in United States of America, with 40 gigs on soundcheck across Barcelona, Berlin, Birmingham and Boston and 17 more. Often billed alongside Hitori Tori, goreshit and 99jakes. Next up: The DBA, Manchester on Mon 12 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Lil Kevo 303 is a breakcore and hardcore artist based in United States of Americ
 | Tue, 13 Oct 2026 | The Blue Note Club | Midlands |
 | Wed, 14 Oct 2026 | Vespers Club | London |
 | Fri, 23 Oct 2026 | Suki10c | Birmingham |
+| Sat, 24 Oct 2026 | Altenburg 1964 | Prague |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Lil Kevo 303 is a breakcore and hardcore artist based in United States of Americ
 
 Hitori Tori, goreshit, 99jakes
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilkevo303/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilkevo303/)*

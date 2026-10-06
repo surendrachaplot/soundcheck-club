@@ -1,6 +1,6 @@
 # clubasia
 
-clubasia is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "club asia THUSRDAY -2nd THUSRDAY 4th ANNIVERASARY-" on Thu, 8 Oct 2026.
+clubasia is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "club asia THUSRDAY -2nd THUSRDAY 4th ANNIVERASARY-" on Thu, 8 Oct 2026.
 
 clubasia is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with line-ups including ASIN, Bass, Calavera and Can and 2 more. See dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
 
@@ -23,4 +23,4 @@ clubasia is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with 
 
 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan, Tokyo
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*

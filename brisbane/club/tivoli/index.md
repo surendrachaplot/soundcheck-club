@@ -1,6 +1,6 @@
 # Tivoli
 
-Tivoli is a music venue in Brisbane with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. The next is "oskar med k - AU Tour 2027" on Thu, 7 Jan 2027.
+Tivoli is a music venue in Brisbane with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "oskar med k - AU Tour 2027" on Thu, 7 Jan 2027.
 
 Tivoli is a music venue in Brisbane listed on soundcheck. 1 upcoming gig, with line-ups including oskar med k. See dates, start times and who's playing. 52 Costin St; Fortitude Valley, QLD 4006; Australia.
 
@@ -14,4 +14,4 @@ Tivoli is a music venue in Brisbane listed on soundcheck. 1 upcoming gig, with l
 
 52 Costin St; Fortitude Valley, QLD 4006; Australia, Brisbane
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/tivoli/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/tivoli/)*

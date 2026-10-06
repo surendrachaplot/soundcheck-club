@@ -1,6 +1,6 @@
 # Chris Liebing
 
-Chris Liebing is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Kran Beograd, Belgrade on Fri, 9 Oct 2026.
+Chris Liebing is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Kran Beograd, Belgrade on Fri, 9 Oct 2026.
 
 Chris Liebing is a techno and house artist based in Germany, with 193 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Speedy J, Daria Kolosova and FJAAK. Next up: Kran Beograd, Belgrade on Fri 9 Oct.
 
@@ -36,4 +36,4 @@ Chris Liebing is a techno and house artist based in Germany, with 193 gigs on so
 
 Speedy J, Daria Kolosova, FJAAK
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliebing/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliebing/)*

@@ -1,6 +1,6 @@
 # Specka
 
-Specka is a music venue in Madrid with 14 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "28B$, Dylan Desler y Tukeskusha: Papo2oo4+Subjxct 5 / Rapp Gotti / KN Moreno & Shenko" on Fri, 9 Oct 2026.
+Specka is a music venue in Madrid with 14 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "28B$, Dylan Desler y Tukeskusha: Papo2oo4+Subjxct 5 / Rapp Gotti / KN Moreno & Shenko" on Fri, 9 Oct 2026.
 
 Specka is a music venue in Madrid listed on soundcheck. 14 upcoming gigs, with line-ups including Alvaro Cabana, Anthony Rother, Belkan and Brody and 2 more. See dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
 
@@ -23,4 +23,4 @@ Specka is a music venue in Madrid listed on soundcheck. 14 upcoming gigs, with l
 
 Calle Orense, 26 bajos Madrid 28020, Madrid
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*

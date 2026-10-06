@@ -1,6 +1,6 @@
 # Ritter Butzke
 
-Ritter Butzke is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Electric Animals x Loop" on Fri, 9 Oct 2026.
+Ritter Butzke is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Electric Animals x Loop" on Fri, 9 Oct 2026.
 
 Ritter Butzke is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including Aaron Hibell, Aio, Alan Fitzpatrick and Alex Stein and 2 more. See dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 26 upcoming gigs,
 
 Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*

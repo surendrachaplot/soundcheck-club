@@ -1,6 +1,6 @@
 # Barry Can't Swim
 
-Barry Can't Swim is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+Barry Can't Swim is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
 Barry Can't Swim is a house and techno artist based in United Kingdom, with 78 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Belfast and 33 more. Often billed alongside salute, Avalon Emerson and Interplanetary Criminal. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Barry Can't Swim is a house and techno artist based in United Kingdom, with 78 g
 
 salute, Avalon Emerson, Interplanetary Criminal
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barrycantswim/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barrycantswim/)*

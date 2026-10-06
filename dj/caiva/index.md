@@ -1,6 +1,6 @@
 # CAIVA
 
-CAIVA is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Le Cargö, West on Wed, 7 Oct 2026.
+CAIVA is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Le Cargö, West on Wed, 7 Oct 2026.
 
 CAIVA is a techno and trance artist based in Germany, with 165 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 38 more. Often billed alongside Frederic., Part Time Killer and Lacchesi. Next up: Le Cargö, West on Wed 7 Oct.
 
@@ -31,4 +31,4 @@ CAIVA is a techno and trance artist based in Germany, with 165 gigs on soundchec
 
 Frederic., Part Time Killer, Lacchesi
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caiva/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caiva/)*

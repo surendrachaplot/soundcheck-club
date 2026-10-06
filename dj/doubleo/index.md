@@ -1,6 +1,6 @@
 # Double O
 
-Double O is a Jungle and Drum & Bass artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Open Ground, Wuppertal on Sat, 10 Oct 2026.
+Double O is a Jungle and Drum & Bass artist with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Open Ground, Wuppertal on Sat, 10 Oct 2026.
 
 Double O is a jungle and drum & bass artist based in United Kingdom, with 93 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 17 more. Often billed alongside Mantra, Blackeye MC and Decibella. Next up: Open Ground, Wuppertal on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Double O is a jungle and drum & bass artist based in United Kingdom, with 93 gig
 
 Mantra, Blackeye MC, Decibella
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doubleo/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doubleo/)*

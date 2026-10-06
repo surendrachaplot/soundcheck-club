@@ -1,6 +1,6 @@
 # Myles Apps
 
-Myles Apps is a Electro and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at NDR2 Red Room, London on Sat, 7 Nov 2026.
+Myles Apps is a Electro and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at NDR2 Red Room, London on Sat, 7 Nov 2026.
 
 Myles Apps is an electro and tech house artist based in United Kingdom, with 13 gigs on soundcheck across London. Often billed alongside Rhys Dyer, Aaron Burr and Calla. Next up: NDR2 Red Room, London on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Myles Apps is an electro and tech house artist based in United Kingdom, with 13 
 
 Rhys Dyer, Aaron Burr (2), Calla
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mylesapps/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mylesapps/)*

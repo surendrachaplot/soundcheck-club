@@ -1,6 +1,6 @@
 # Sameheads
 
-Sameheads is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "CLUB KIDZ" on Thu, 8 Oct 2026.
+Sameheads is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "CLUB KIDZ" on Thu, 8 Oct 2026.
 
 Sameheads is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Anna Wall, Balearic Banana, Caillou and Carl Hang and 2 more. See dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Sameheads is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, wit
 
 Richardstrasse 10; Neukölln; 12043 Berlin; Germany, Berlin
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*

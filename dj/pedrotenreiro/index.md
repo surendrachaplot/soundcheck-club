@@ -1,6 +1,6 @@
 # Pedro Tenreiro
 
-Pedro Tenreiro is a Club and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Pérola Negra Club, Porto on Sat, 24 Oct 2026.
+Pedro Tenreiro is a Club and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Pérola Negra Club, Porto on Sat, 24 Oct 2026.
 
 Pedro Tenreiro is a club and disco artist, with 11 gigs on soundcheck across Lisbon and Porto. Often billed alongside Yen Sung, Helena Guedes and Francisco AP. Next up: Pérola Negra Club, Porto on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Pedro Tenreiro is a club and disco artist, with 11 gigs on soundcheck across Lis
 
 Yen Sung, Helena Guedes, Francisco AP
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrotenreiro/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrotenreiro/)*

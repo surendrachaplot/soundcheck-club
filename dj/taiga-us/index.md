@@ -1,6 +1,6 @@
 # Taiga
 
-Taiga is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Kaskada, Warsaw on Sat, 24 Oct 2026.
+Taiga is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Kaskada, Warsaw on Sat, 24 Oct 2026.
 
 Taiga is a house and techno artist based in United States of America, with 42 gigs on soundcheck across Auckland, Manchester, New York City and Paris and 4 more. Often billed alongside Hugo (US), Lucho and Mazko A. Next up: Kaskada, Warsaw on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Taiga is a house and techno artist based in United States of America, with 42 gi
 
 Hugo (US), Lucho (1), Mazko A
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taiga-us/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taiga-us/)*

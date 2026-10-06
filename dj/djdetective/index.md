@@ -1,6 +1,6 @@
 # DJ Detective
 
-DJ Detective is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Ikii, Berlin on Tue, 6 Oct 2026.
+DJ Detective is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Ikii, Berlin on Tue, 6 Oct 2026.
 
 DJ Detective is a trance and house artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside Suzanne Dolmancé, ADO (DE) and Ado. Next up: Ikii, Berlin on Tue 6 Oct.
 
@@ -21,4 +21,4 @@ DJ Detective is a trance and house artist based in Germany, with 5 gigs on sound
 
 Suzanne Dolmancé, ADO (DE), Ado
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdetective/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdetective/)*

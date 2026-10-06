@@ -1,6 +1,6 @@
 # Greg Brockmann
 
-Greg Brockmann is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 18 Oct 2026.
+Greg Brockmann is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 18 Oct 2026.
 
 Greg Brockmann is a techno and minimal techno artist, with 40 gigs on soundcheck across Barcelona and London. Often billed alongside Sam Bangura, Jeneva and Olita (UK). Next up: Starlane Pizza Bar, London on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Greg Brockmann is a techno and minimal techno artist, with 40 gigs on soundcheck
 
 Sam Bangura, Jeneva, Olita (UK)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gregbrockmann/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gregbrockmann/)*

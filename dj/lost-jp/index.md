@@ -1,6 +1,6 @@
 # LØST
 
-LØST is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Enter Shibuya, Tokyo on Wed, 7 Oct 2026.
+LØST is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Enter Shibuya, Tokyo on Wed, 7 Oct 2026.
 
 LØST is a techno and trance artist based in Japan, with 80 gigs on soundcheck across Tokyo. Often billed alongside savezearth, comm and TEI TEI. Next up: Enter Shibuya, Tokyo on Wed 7 Oct.
 
@@ -27,4 +27,4 @@ LØST is a techno and trance artist based in Japan, with 80 gigs on soundcheck a
 
 savezearth, comm, TEI TEI
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lost-jp/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lost-jp/)*

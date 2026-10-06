@@ -1,6 +1,6 @@
 # Luka Jukic
 
-Luka Jukic is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Kran Beograd, Belgrade on Fri, 9 Oct 2026.
+Luka Jukic is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Kran Beograd, Belgrade on Fri, 9 Oct 2026.
 
 Luka Jukic is a techno and electronica artist based in Serbia, with 26 gigs on soundcheck across Belgrade, Berlin and Croatia. Often billed alongside Lollipop Janosz, .Paragon and Impedance. Next up: Kran Beograd, Belgrade on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Luka Jukic is a techno and electronica artist based in Serbia, with 26 gigs on s
 
 Lollipop Janosz, .Paragon, Impedance
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukajukic-rs/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukajukic-rs/)*

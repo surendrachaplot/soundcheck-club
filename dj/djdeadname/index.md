@@ -1,14 +1,15 @@
 # DJ DEADNAME
 
-DJ DEADNAME is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at telos.haus, New York City on Sun, 11 Oct 2026.
+DJ DEADNAME is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at telos.haus, New York City on Sun, 11 Oct 2026.
 
-DJ DEADNAME is a bass and techno artist based in United States of America, with 101 gigs on soundcheck across Boston, Chicago, Los Angeles and Montreal and 4 more. Often billed alongside Eva Loveless, Male Merge and Surgery. Next up: telos.haus, New York City on Sun 11 Oct.
+DJ DEADNAME is a bass and techno artist based in United States of America, with 102 gigs on soundcheck across Boston, Chicago, Los Angeles and Montreal and 4 more. Often billed alongside Eva Loveless, Male Merge and Surgery. Next up: telos.haus, New York City on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | telos.haus | New York City |
+| Fri, 23 Oct 2026 | Good Room | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ DEADNAME is a bass and techno artist based in United States of America, with 
 
 Eva Loveless, Male Merge, Surgery
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeadname/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeadname/)*

@@ -1,8 +1,8 @@
 # Mitch Presents
 
-Mitch Presents is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at radial, London on Sun, 25 Oct 2026.
+Mitch Presents is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at radial, London on Sun, 25 Oct 2026.
 
-Mitch Presents is a house and disco artist, with 26 gigs on soundcheck across Cork, Galway, London and New York City and 1 more. Often billed alongside Yawlag Collective, Chucky ár nGrá and AADM. Next up: radial, London on Sun 25 Oct.
+Mitch Presents is a house and disco artist based in Ireland, with 26 gigs on soundcheck across Cork, Galway, London and New York City and 1 more. Often billed alongside Yawlag Collective, Chucky ár nGrá and AADM. Next up: radial, London on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Mitch Presents is a house and disco artist, with 26 gigs on soundcheck across Co
 
 Yawlag Collective, Chucky ár nGrá, AADM
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchpresents/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchpresents/)*

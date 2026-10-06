@@ -1,6 +1,6 @@
 # sabenzzzo
 
-sabenzzzo is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Locke, Hamburg on Fri, 9 Oct 2026.
+sabenzzzo is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Locke, Hamburg on Fri, 9 Oct 2026.
 
 sabenzzzo is a techno and hardcore artist based in Georgia, with 6 gigs on soundcheck across Hamburg and Malta. Often billed alongside vibemeister, Shilo and 3LEEZA. Next up: Locke, Hamburg on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ sabenzzzo is a techno and hardcore artist based in Georgia, with 6 gigs on sound
 
 vibemeister, Shilo, 3LEEZA
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabenzzzo/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabenzzzo/)*

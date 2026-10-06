@@ -1,6 +1,6 @@
 # Wanderlust
 
-Wanderlust is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. The next is "Flash Cocotte Halloween Edition" on Sat, 31 Oct 2026.
+Wanderlust is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "Flash Cocotte Halloween Edition" on Sat, 31 Oct 2026.
 
 Wanderlust is a music venue in Paris listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 32 quai d'Austerlitz, 75013 Paris.
 
@@ -14,4 +14,4 @@ Wanderlust is a music venue in Paris listed on soundcheck. 1 upcoming gig. See d
 
 32 quai d'Austerlitz, 75013 Paris, Paris
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/wanderlust/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/wanderlust/)*

@@ -1,0 +1,15 @@
+# OBMIILL at TBA - obmiill
+
+OBMIILL at TBA - obmiill on Sat 17 Oct, Barcelona. 1 artist: ALEKSANDRE. Techno and Club. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 17 Oct 2026 |
+| Venue | TBA - obmiill |
+| City | Barcelona |
+
+## Line-up
+
+- ALEKSANDRE
+
+*Source: [soundcheck](https://soundcheck.club/e/2548345-obmiill-at-tba-obmiill/)*

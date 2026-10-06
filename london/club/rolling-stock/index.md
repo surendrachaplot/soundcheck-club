@@ -1,6 +1,6 @@
 # Rolling Stock
 
-Rolling Stock is a music venue in London with 9 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Thursday Social" on Thu, 8 Oct 2026.
+Rolling Stock is a music venue in London with 9 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Thursday Social" on Thu, 8 Oct 2026.
 
 Rolling Stock is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Caren G., Cat Caesura, DJ Black Moses and George Peck and 2 more. See dates, start times and who's playing. 48 Kingsland Road, Shoreditch E2 8AA.
 
@@ -22,4 +22,4 @@ Rolling Stock is a music venue in London listed on soundcheck. 9 upcoming gigs, 
 
 48 Kingsland Road, Shoreditch E2 8AA, London
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/rolling-stock/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/rolling-stock/)*

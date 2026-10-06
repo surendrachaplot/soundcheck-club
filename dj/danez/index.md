@@ -1,6 +1,6 @@
 # DAN:EZ
 
-DAN:EZ is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam, Amsterdam on Wed, 21 Oct 2026.
+DAN:EZ is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam, Amsterdam on Wed, 21 Oct 2026.
 
 DAN:EZ is a techno and minimal techno artist based in Spain, with 4 gigs on soundcheck across Amsterdam. Often billed alongside Alex Sharp, DEVREE and Ides of March. Next up: Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam, Amsterdam on Wed 21 Oct.
 
@@ -20,4 +20,4 @@ DAN:EZ is a techno and minimal techno artist based in Spain, with 4 gigs on soun
 
 Alex Sharp, DEVREE, Ides of March
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danez/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danez/)*

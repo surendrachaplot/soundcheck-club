@@ -1,6 +1,6 @@
 # kneiz
 
-kneiz is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Garage Klub, Antwerp on Fri, 9 Oct 2026.
+kneiz is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Garage Klub, Antwerp on Fri, 9 Oct 2026.
 
 kneiz is a trance and house artist based in Belgium, with 13 gigs on soundcheck across Antwerp, Ghent and Los Angeles. Often billed alongside Geheimzinnig Soundsystem, Lisa Korver and Alycia Bezgo. Next up: Garage Klub, Antwerp on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ kneiz is a trance and house artist based in Belgium, with 13 gigs on soundcheck 
 
 Geheimzinnig Soundsystem, Lisa Korver, Alycia Bezgo
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kneiz/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kneiz/)*

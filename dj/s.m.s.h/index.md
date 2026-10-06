@@ -1,6 +1,6 @@
 # S.M.S.H
 
-S.M.S.H is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Pillbox Beijing, Beijing on Sat, 10 Oct 2026.
+S.M.S.H is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Pillbox Beijing, Beijing on Sat, 10 Oct 2026.
 
 S.M.S.H is a club and techno artist, with 6 gigs on soundcheck across Beijing, Seoul and Shenzhen. Often billed alongside W.X.M, Alex Wilcox and Arexibo. Next up: Pillbox Beijing, Beijing on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ S.M.S.H is a club and techno artist, with 6 gigs on soundcheck across Beijing, S
 
 W.X.M, Alex Wilcox, Arexibo
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s.m.s.h/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s.m.s.h/)*

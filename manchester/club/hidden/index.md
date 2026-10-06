@@ -1,6 +1,6 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Freak Queer Rave w/ Dr. Rubinstein, Nene H, ketia & Egg On Toast" on Fri, 9 Oct 2026.
+Hidden is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Freak Queer Rave w/ Dr. Rubinstein, Nene H, ketia & Egg On Toast" on Fri, 9 Oct 2026.
 
 Hidden is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, with line-ups including Agnelli & Nelson, Amelia Leigh, Amoss and Andre Zimmer and 2 more. See dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
@@ -23,4 +23,4 @@ Hidden is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, wi
 
 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom, Manchester
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*

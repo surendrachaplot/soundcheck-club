@@ -1,6 +1,6 @@
 # SCHELLT
 
-SCHELLT is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Stadion Strahov, Prague on Sat, 10 Oct 2026.
+SCHELLT is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Stadion Strahov, Prague on Sat, 10 Oct 2026.
 
 SCHELLT is a techno and trance artist based in Ukraine, with 52 gigs on soundcheck across Berlin, Bucharest, Hamburg and Krakow and 4 more. Often billed alongside VRAXX, Józef Keuner and ERNST (UA). Next up: Stadion Strahov, Prague on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ SCHELLT is a techno and trance artist based in Ukraine, with 52 gigs on soundche
 
 VRAXX, Józef Keuner, ERNST (UA)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schellt/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schellt/)*

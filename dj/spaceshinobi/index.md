@@ -1,6 +1,6 @@
 # Space Shinobi
 
-Space Shinobi is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 11 Oct 2026.
+Space Shinobi is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 11 Oct 2026.
 
 Space Shinobi is a minimal and minimal techno artist based in United Kingdom, with 26 gigs on soundcheck across London. Often billed alongside Reeno, A.T.A. and Andrea Giudice. Next up: Starlane Pizza Bar, London on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Space Shinobi is a minimal and minimal techno artist based in United Kingdom, wi
 
 Reeno, A.T.A., Andrea Giudice
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceshinobi/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceshinobi/)*

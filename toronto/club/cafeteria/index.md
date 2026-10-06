@@ -1,6 +1,6 @@
 # Cafeteria
 
-Cafeteria is a music venue in Toronto with 9 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "GAY RIGHTS x SISSY" on Fri, 9 Oct 2026.
+Cafeteria is a music venue in Toronto with 9 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "GAY RIGHTS x SISSY" on Fri, 9 Oct 2026.
 
 Cafeteria is a music venue in Toronto listed on soundcheck. 9 upcoming gigs, with line-ups including 1morning, Amedeo (CA), Ard1n and Blackman and 2 more. See dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
 
@@ -22,4 +22,4 @@ Cafeteria is a music venue in Toronto listed on soundcheck. 9 upcoming gigs, wit
 
 1650 Dupont St, Toronto, ON M6P 3T2, Canada, Toronto
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*

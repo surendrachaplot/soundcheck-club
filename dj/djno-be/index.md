@@ -1,6 +1,6 @@
 # DJNO
 
-DJNO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Trix, Antwerp on Sat, 10 Oct 2026.
+DJNO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Trix, Antwerp on Sat, 10 Oct 2026.
 
 DJNO is a house and techno artist based in Belgium, with 5 gigs on soundcheck across Antwerp. Often billed alongside DOUBLE P, LEGOLANE and Butchpm. Next up: Trix, Antwerp on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ DJNO is a house and techno artist based in Belgium, with 5 gigs on soundcheck ac
 
 DOUBLE P, LEGOLANE, Butchpm
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djno-be/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djno-be/)*

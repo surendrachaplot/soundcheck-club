@@ -1,6 +1,6 @@
 # Buddha Blaze
 
-Buddha Blaze is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Salon Badin, Montreal on Fri, 9 Oct 2026.
+Buddha Blaze is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Salon Badin, Montreal on Fri, 9 Oct 2026.
 
 Buddha Blaze is an electronic artist based in Canada, with 8 gigs on soundcheck across Montreal. Often billed alongside Kris Guilty. Next up: Salon Badin, Montreal on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ Buddha Blaze is an electronic artist based in Canada, with 8 gigs on soundcheck 
 
 Kris Guilty
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buddhablaze/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buddhablaze/)*

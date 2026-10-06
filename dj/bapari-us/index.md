@@ -1,6 +1,6 @@
 # Bapari
 
-Bapari is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Volksbühne, Berlin on Thu, 22 Oct 2026.
+Bapari is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Volksbühne, Berlin on Thu, 22 Oct 2026.
 
 Bapari is a techno and club artist based in United States of America, with 94 gigs on soundcheck across Amsterdam, Athens, Austin and Basel and 19 more. Often billed alongside Sevyn 0000, Memphy and Stealth Angel. Next up: Volksbühne, Berlin on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Bapari is a techno and club artist based in United States of America, with 94 gi
 
 Sevyn 0000, Memphy, Stealth Angel
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bapari-us/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bapari-us/)*

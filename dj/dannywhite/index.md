@@ -1,14 +1,16 @@
 # Danny White
 
-Danny White is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at public records, New York City on Thu, 8 Oct 2026.
+Danny White is a Electro and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at public records, New York City on Thu, 8 Oct 2026.
 
-Danny White is an electro and techno artist based in United States of America, with 17 gigs on soundcheck across Austin, Berlin and New York City. Often billed alongside Andi, Semita Serpens and Midnight Magic. Next up: public records, New York City on Thu 8 Oct.
+Danny White is an electro and techno artist based in United States of America, with 19 gigs on soundcheck across Austin, Berlin, New Orleans and New York City. Often billed alongside Andi, Semita Serpens and Interesting Results. Next up: public records, New York City on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | public records | New York City |
+| Thu, 29 Oct 2026 | The Crypt (New Orleans) | New-orleans |
+| Thu, 29 Oct 2026 | The Crypt (New Orleans) | New-orleans |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ Danny White is an electro and techno artist based in United States of America, w
 
 ## Shares bills with
 
-Andi, Semita Serpens, Midnight Magic
+Andi, Semita Serpens, Interesting Results
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannywhite/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannywhite/)*

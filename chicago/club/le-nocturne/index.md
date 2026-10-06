@@ -1,6 +1,6 @@
 # Le Nocturne
 
-Le Nocturne is a music venue in Chicago with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "A House Music is Love Day Party. Free with RSVP" on Sat, 10 Oct 2026.
+Le Nocturne is a music venue in Chicago with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "A House Music is Love Day Party. Free with RSVP" on Sat, 10 Oct 2026.
 
 Le Nocturne is a music venue in Chicago listed on soundcheck. 4 upcoming gigs, with line-ups including Duke Shin, Gene Hunt, Mike Dunn and Terry Hunter and 1 more. See dates, start times and who's playing. 4810 N Brodway, Chicago IL - 60640.
 
@@ -17,4 +17,4 @@ Le Nocturne is a music venue in Chicago listed on soundcheck. 4 upcoming gigs, w
 
 4810 N Brodway, Chicago IL - 60640, Chicago
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/le-nocturne/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/le-nocturne/)*

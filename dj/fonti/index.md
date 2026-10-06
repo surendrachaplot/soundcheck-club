@@ -1,6 +1,6 @@
 # Fonti
 
-Fonti is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Amnesia Milano, Milan on Sat, 17 Oct 2026.
+Fonti is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Amnesia Milano, Milan on Sat, 17 Oct 2026.
 
 Fonti is a garage and house artist, with 9 gigs on soundcheck across Birmingham, London and Milan. Often billed alongside MC Bushkin, MC DT and Artful Dodger. Next up: Amnesia Milano, Milan on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Fonti is a garage and house artist, with 9 gigs on soundcheck across Birmingham,
 
 MC Bushkin, MC DT, Artful Dodger
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fonti/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fonti/)*

@@ -1,6 +1,6 @@
 # Momus
 
-Momus is a House and Vaporwave artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Myra, Lisbon on Sat, 10 Oct 2026.
+Momus is a House and Vaporwave artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Myra, Lisbon on Sat, 10 Oct 2026.
 
 Momus is a house and vaporwave artist based in France, with 13 gigs on soundcheck across Lisbon, New York City and Paris. Often billed alongside Rogue Fire, ADREE and Aline Umber. Next up: Myra, Lisbon on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Momus is a house and vaporwave artist based in France, with 13 gigs on soundchec
 
 Rogue Fire, ADREE, Aline Umber
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/momus/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/momus/)*

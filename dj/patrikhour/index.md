@@ -1,6 +1,6 @@
 # PATRIK HOUR
 
-PATRIK HOUR is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Otto Wagner Areal, Vienna on Sat, 31 Oct 2026.
+PATRIK HOUR is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Otto Wagner Areal, Vienna on Sat, 31 Oct 2026.
 
 PATRIK HOUR is a house and minimal artist, with 22 gigs on soundcheck across Frankfurt and Vienna. Often billed alongside SEBSIS, CHRIS KAPLANER and BELLA (AT). Next up: Otto Wagner Areal, Vienna on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ PATRIK HOUR is a house and minimal artist, with 22 gigs on soundcheck across Fra
 
 SEBSIS, CHRIS KAPLANER, BELLA (AT)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrikhour/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrikhour/)*

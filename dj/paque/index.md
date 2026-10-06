@@ -1,6 +1,6 @@
 # Paqué
 
-Paqué is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Bar Billie, Amsterdam on Fri, 23 Oct 2026.
+Paqué is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Bar Billie, Amsterdam on Fri, 23 Oct 2026.
 
 Paqué is a house and techno artist, with 5 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside ZOËZO, 9LALEY and Adrian.. Next up: TBA - Bar Billie, Amsterdam on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Paqué is a house and techno artist, with 5 gigs on soundcheck across Amsterdam 
 
 ZOËZO, 9LALEY, Adrian.
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paque/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paque/)*

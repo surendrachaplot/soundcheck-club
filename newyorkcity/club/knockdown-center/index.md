@@ -1,6 +1,6 @@
 # Knockdown Center
 
-Knockdown Center is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "RUSH presents: KETTAMA" on Wed, 7 Oct 2026.
+Knockdown Center is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "RUSH presents: KETTAMA" on Wed, 7 Oct 2026.
 
 Knockdown Center is a music venue in New York City listed on soundcheck. 14 upcoming gigs, with line-ups including Afem Syko, Anastazja, DAX J and Derrick Carter and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
 
@@ -23,4 +23,4 @@ Knockdown Center is a music venue in New York City listed on soundcheck. 14 upco
 
 52-19 Flushing Ave., Queens, NY 11378 USA, New York City
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*

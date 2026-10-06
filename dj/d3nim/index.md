@@ -1,6 +1,6 @@
 # D3NIM
 
-D3NIM is a Club and Footwork artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Bolero, Seoul on Thu, 8 Oct 2026.
+D3NIM is a Club and Footwork artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Bolero, Seoul on Thu, 8 Oct 2026.
 
 D3NIM is a club and footwork artist based in United States of America, with 26 gigs on soundcheck across London, Miami, New York City and San Diego and 1 more. Often billed alongside Tice Cin, JEAN-PIERRE and Avenhue. Next up: Bolero, Seoul on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ D3NIM is a club and footwork artist based in United States of America, with 26 g
 
 Tice Cin, JEAN-PIERRE, Avenhue
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d3nim/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d3nim/)*

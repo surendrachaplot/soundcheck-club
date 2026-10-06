@@ -1,6 +1,6 @@
 # Yunu
 
-Yunu is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Bolero, Seoul on Sat, 10 Oct 2026.
+Yunu is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Bolero, Seoul on Sat, 10 Oct 2026.
 
 Yunu is a club and hip-hop artist based in South Korea, with 63 gigs on soundcheck across Seoul. Often billed alongside SKiiDA, BILL.E and DJ Co.kr. Next up: Bolero, Seoul on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Yunu is a club and hip-hop artist based in South Korea, with 63 gigs on soundche
 
 SKiiDA, BILL.E, DJ Co.kr
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yunu/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yunu/)*

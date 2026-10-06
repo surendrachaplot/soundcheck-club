@@ -1,6 +1,6 @@
 # Hootananny Brixton
 
-Hootananny Brixton is a music venue in London with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Chronicles of Dub: Sir Coxsone Sound + Friends" on Fri, 9 Oct 2026.
+Hootananny Brixton is a music venue in London with 8 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Chronicles of Dub: Sir Coxsone Sound + Friends" on Fri, 9 Oct 2026.
 
 Hootananny Brixton is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Atjazz, Groove Assassin, Harry Hayes and Junior Simba and 2 more. See dates, start times and who's playing. 95 Effra Road, Brixton, London, SW2 1DF.
 
@@ -21,4 +21,4 @@ Hootananny Brixton is a music venue in London listed on soundcheck. 8 upcoming g
 
 95 Effra Road, Brixton, London, SW2 1DF, London
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/hootananny-brixton/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/hootananny-brixton/)*

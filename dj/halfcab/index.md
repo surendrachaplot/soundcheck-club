@@ -1,6 +1,6 @@
 # Halfcab
 
-Halfcab is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Edifício Touring, Rio-de-janeiro on Fri, 9 Oct 2026.
+Halfcab is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Edifício Touring, Rio-de-janeiro on Fri, 9 Oct 2026.
 
 Halfcab is a house and tech house artist based in Brazil, with 23 gigs on soundcheck across Liverpool, Malta, Rio De Janeiro and Sao Paulo. Often billed alongside L_cio, Solarce Brothers and Ashibah. Next up: Edifício Touring, Rio De Janeiro on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Halfcab is a house and tech house artist based in Brazil, with 23 gigs on soundc
 
 L_cio, Solarce Brothers, Ashibah
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halfcab/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halfcab/)*

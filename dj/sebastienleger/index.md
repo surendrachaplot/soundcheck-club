@@ -1,6 +1,6 @@
 # Sebastien Leger
 
-Sebastien Leger is a House and Progressive House artist with 11 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Club Vaag, Antwerp on Fri, 9 Oct 2026.
+Sebastien Leger is a House and Progressive House artist with 11 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Club Vaag, Antwerp on Fri, 9 Oct 2026.
 
 Sebastien Leger is a house and progressive house artist based in France, with 136 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside Roy Rosenfeld, Tim Green and Khen. Next up: Club Vaag, Antwerp on Fri 9 Oct.
 
@@ -35,4 +35,4 @@ Sebastien Leger is a house and progressive house artist based in France, with 13
 
 Roy Rosenfeld, Tim Green, Khen
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastienleger/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastienleger/)*

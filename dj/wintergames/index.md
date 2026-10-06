@@ -1,6 +1,6 @@
 # Winter Games
 
-Winter Games is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Kaiku, Helsinki on Sat, 24 Oct 2026.
+Winter Games is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Kaiku, Helsinki on Sat, 24 Oct 2026.
 
 Winter Games is an electronic artist based in Finland, with 6 gigs on soundcheck across Helsinki, London and Manchester. Often billed alongside Somepoe, Jamie Unknown and MEERA (UK). Next up: Kaiku, Helsinki on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Winter Games is an electronic artist based in Finland, with 6 gigs on soundcheck
 
 Somepoe, Jamie Unknown, MEERA (UK)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wintergames/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wintergames/)*

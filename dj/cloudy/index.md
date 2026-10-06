@@ -1,6 +1,6 @@
 # Cloudy
 
-Cloudy is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Arzenal, Budapest on Fri, 9 Oct 2026.
+Cloudy is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Arzenal, Budapest on Fri, 9 Oct 2026.
 
 Cloudy is a techno and trance artist based in Germany, with 227 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 61 more. Often billed alongside Adrian Mills, KUKO and Johannes Schuster. Next up: Arzenal, Budapest on Fri 9 Oct.
 
@@ -36,4 +36,4 @@ Cloudy is a techno and trance artist based in Germany, with 227 gigs on soundche
 
 Adrian Mills, KUKO, Johannes Schuster
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cloudy/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cloudy/)*

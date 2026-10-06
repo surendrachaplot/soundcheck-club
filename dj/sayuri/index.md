@@ -1,6 +1,6 @@
 # S A Y U R I
 
-S A Y U R I is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Smolna, Warsaw on Wed, 7 Oct 2026.
+S A Y U R I is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Smolna, Warsaw on Wed, 7 Oct 2026.
 
 S A Y U R I is a bass and garage artist based in Poland, with 5 gigs on soundcheck across Warsaw. Often billed alongside The 3D, Aslamin and Avtomat. Next up: Smolna, Warsaw on Wed 7 Oct.
 
@@ -21,4 +21,4 @@ S A Y U R I is a bass and garage artist based in Poland, with 5 gigs on soundche
 
 The 3D, Aslamin, Avtomat
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sayuri/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sayuri/)*

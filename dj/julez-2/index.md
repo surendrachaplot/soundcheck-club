@@ -1,6 +1,6 @@
 # Julez (2)
 
-Julez (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Flash, Washington DC on Sat, 5 Dec 2026.
+Julez (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Flash, Washington DC on Sat, 5 Dec 2026.
 
 Julez is a house and tech house artist based in United States of America, with 15 gigs on soundcheck across Washington DC. Often billed alongside Adyy Love, Candywax and Electro-cute. Next up: Flash, Washington DC on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Julez is a house and tech house artist based in United States of America, with 1
 
 Adyy Love, Candywax, Electro-cute
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julez-2/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julez-2/)*

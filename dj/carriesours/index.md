@@ -1,6 +1,6 @@
 # Carrie Sours
 
-Carrie Sours is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at H0L0, New York City on Sat, 24 Oct 2026.
+Carrie Sours is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at H0L0, New York City on Sat, 24 Oct 2026.
 
 Carrie Sours is a house and acid artist based in United States of America, with 4 gigs on soundcheck across Detroit, New York City, Philadelphia and Washington DC. Often billed alongside 'nohup', 999ADJ and Aaron Clark. Next up: H0L0, New York City on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ Carrie Sours is a house and acid artist based in United States of America, with 
 
 'nohup', 999ADJ, Aaron Clark
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carriesours/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carriesours/)*

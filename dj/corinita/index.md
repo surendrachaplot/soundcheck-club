@@ -1,6 +1,6 @@
 # Corinita
 
-Corinita is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Système, Montreal on Fri, 30 Oct 2026.
+Corinita is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Système, Montreal on Fri, 30 Oct 2026.
 
 Corinita is a techno and house artist based in Canada, with 41 gigs on soundcheck across Montreal and Toronto. Often billed alongside No Police, Xia and Meen Moreen. Next up: Système, Montreal on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Corinita is a techno and house artist based in Canada, with 41 gigs on soundchec
 
 No Police, Xia (2), Meen Moreen
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/corinita/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/corinita/)*

@@ -1,17 +1,18 @@
 # Platform9
 
-Platform9 is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. The next is "SLAB presents Cinthie with Kozue" on Fri, 20 Nov 2026.
+Platform9 is a music venue in Vancouver with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "No Point Music: HALLOWEEN 26'" on Sat, 31 Oct 2026.
 
-Platform9 is a music venue in Vancouver listed on soundcheck. 1 upcoming gig, with line-ups including Cinthie and Kozue. See dates, start times and who's playing. 390 Industrial Ave, Vancouver, BC V6A 2P3 Canada.
+Platform9 is a music venue in Vancouver listed on soundcheck. 2 upcoming gigs, with line-ups including Cinthie and Kozue. See dates, start times and who's playing. 390 Industrial Ave, Vancouver, BC V6A 2P3 Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | No Point Music: HALLOWEEN 26' |  |
 | Fri, 20 Nov 2026 | SLAB presents Cinthie with Kozue | Cinthie, Kozue |
 
 ## Address
 
 390 Industrial Ave, Vancouver, BC V6A 2P3 Canada, Vancouver
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/platform9/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/platform9/)*

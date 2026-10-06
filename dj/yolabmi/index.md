@@ -1,6 +1,6 @@
 # yolabmi
 
-yolabmi is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Bonobo, Tokyo on Sat, 17 Oct 2026.
+yolabmi is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Bonobo, Tokyo on Sat, 17 Oct 2026.
 
 yolabmi is an experimental and electro artist based in Japan, with 24 gigs on soundcheck across Tokyo. Often billed alongside YELLOWUHURU, Foodman and SOGI. Next up: Bonobo, Tokyo on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ yolabmi is an experimental and electro artist based in Japan, with 24 gigs on so
 
 YELLOWUHURU, Foodman, SOGI
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yolabmi/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yolabmi/)*

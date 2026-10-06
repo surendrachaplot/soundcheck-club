@@ -1,6 +1,6 @@
 # Sploofi
 
-Sploofi is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Secret Broklyn Loft Location , New York City on Sat, 10 Oct 2026.
+Sploofi is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Secret Broklyn Loft Location , New York City on Sat, 10 Oct 2026.
 
 Sploofi is a techno and experimental artist based in United States of America, with 48 gigs on soundcheck across Amsterdam, Berlin, Montreal and New York City and 1 more. Often billed alongside Nicolò Bernardi, Ron Like Hell and Denise Rabe. Next up: TBA - Secret Broklyn Loft Location , New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Sploofi is a techno and experimental artist based in United States of America, w
 
 Nicolò Bernardi, Ron Like Hell, Denise Rabe
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sploofi/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sploofi/)*

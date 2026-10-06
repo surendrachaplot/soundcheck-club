@@ -1,6 +1,6 @@
 # Resonate
 
-Resonate is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+Resonate is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 Resonate is an electronic artist based in Italy, with 5 gigs on soundcheck across Glasgow and North. Often billed alongside Cubensis, 96 Back and Anz. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ Resonate is an electronic artist based in Italy, with 5 gigs on soundcheck acros
 
 Cubensis, 96 Back, Anz
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/resonate/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/resonate/)*

@@ -1,6 +1,6 @@
 # The Sound House
 
-The Sound House is a music venue in Dublin with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Girls of the Internet (Live)" on Thu, 8 Oct 2026.
+The Sound House is a music venue in Dublin with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Girls of the Internet (Live)" on Thu, 8 Oct 2026.
 
 The Sound House is a music venue in Dublin listed on soundcheck. 7 upcoming gigs, with line-ups including Girls of the Internet, Máthair, MAV666 and Sean Johnston and 2 more. See dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
 
@@ -20,4 +20,4 @@ The Sound House is a music venue in Dublin listed on soundcheck. 7 upcoming gigs
 
 28 Eden Quay, Dublin, Ireland., Dublin
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*

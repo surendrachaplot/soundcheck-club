@@ -1,6 +1,6 @@
 # E1
 
-E1 is a music venue in London with 42 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "ALIVE: Afem Syko, HU, Becky Stroke, ASHTREY" on Fri, 9 Oct 2026.
+E1 is a music venue in London with 42 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "ALIVE: Afem Syko, HU, Becky Stroke, ASHTREY" on Fri, 9 Oct 2026.
 
 E1 is a music venue in London listed on soundcheck. 42 upcoming gigs, with line-ups including 8KAYS, Paolo Ferrara, ABEL (UK) and ACOR and 2 more. See dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
@@ -23,4 +23,4 @@ E1 is a music venue in London listed on soundcheck. 42 upcoming gigs, with line-
 
 110 Pennington Street, Wapping, London E1W 2BB, London
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*

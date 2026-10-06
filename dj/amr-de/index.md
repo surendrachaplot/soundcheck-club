@@ -1,6 +1,6 @@
 # AMR
 
-AMR is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Aye, Cork on Sat, 24 Oct 2026.
+AMR is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Aye, Cork on Sat, 24 Oct 2026.
 
 AMR is a techno and acid artist, with 12 gigs on soundcheck across Athens, Cologne, Cork and Oslo and 1 more. Often billed alongside An Daghdha, CHACHØU and Franco Cepulo. Next up: Aye, Cork on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ AMR is a techno and acid artist, with 12 gigs on soundcheck across Athens, Colog
 
 An Daghdha, CHACHØU, Franco Cepulo
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amr-de/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amr-de/)*

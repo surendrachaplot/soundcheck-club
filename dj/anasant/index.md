@@ -1,6 +1,6 @@
 # Ana Sant
 
-Ana Sant is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Sala Siroco, Madrid on Thu, 8 Oct 2026.
+Ana Sant is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Sala Siroco, Madrid on Thu, 8 Oct 2026.
 
 Ana Sant is a techno artist based in Spain, with 11 gigs on soundcheck across Madrid. Often billed alongside KSAL, Vandiaz and ANJELIKA SAHAKIAN. Next up: Sala Siroco, Madrid on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Ana Sant is a techno artist based in Spain, with 11 gigs on soundcheck across Ma
 
 KSAL, Vandiaz, ANJELIKA SAHAKIAN
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anasant/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anasant/)*

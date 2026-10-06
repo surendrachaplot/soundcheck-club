@@ -1,6 +1,6 @@
 # Cryogenics
 
-Cryogenics is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Romantso, Athens on Fri, 9 Oct 2026.
+Cryogenics is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Romantso, Athens on Fri, 9 Oct 2026.
 
 Cryogenics is a drum & bass artist, with 5 gigs on soundcheck across Athens. Often billed alongside Boycott, BASS VIP and Nuskope. Next up: Romantso, Athens on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ Cryogenics is a drum & bass artist, with 5 gigs on soundcheck across Athens. Oft
 
 Boycott, BASS VIP, Nuskope
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cryogenics/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cryogenics/)*

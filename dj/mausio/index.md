@@ -1,6 +1,6 @@
 # MAUSIO
 
-MAUSIO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Douala, Baden-w-rttemberg on Sat, 10 Oct 2026.
+MAUSIO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Douala, Baden-w-rttemberg on Sat, 10 Oct 2026.
 
 MAUSIO is a house and techno artist based in Germany, with 11 gigs on soundcheck across Baden W Rttemberg, Berlin, Cologne and Frankfurt and 3 more. Often billed alongside Wankelmut, AVAION and Alfred Heinrichs. Next up: Douala, Baden W Rttemberg on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ MAUSIO is a house and techno artist based in Germany, with 11 gigs on soundcheck
 
 Wankelmut, AVAION, Alfred Heinrichs
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mausio/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mausio/)*

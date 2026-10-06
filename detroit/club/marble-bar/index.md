@@ -1,6 +1,6 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "The Occasional Thursday Party with London Elektricity" on Thu, 8 Oct 2026.
+Marble Bar is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "The Occasional Thursday Party with London Elektricity" on Thu, 8 Oct 2026.
 
 Marble Bar is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, with line-ups including AIDEL, BRALLE, Craze and Earlll and 2 more. See dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
@@ -21,4 +21,4 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, wi
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

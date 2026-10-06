@@ -1,6 +1,6 @@
 # JNJS
 
-JNJS is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Oven Club, Valencia on Sat, 10 Oct 2026.
+JNJS is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Oven Club, Valencia on Sat, 10 Oct 2026.
 
 JNJS is a house and minimal artist based in Spain, with 77 gigs on soundcheck across Bangkok, Barcelona, Berlin and Ibiza and 10 more. Often billed alongside Tania Vulcano, Carlos Vila and Sossa. Next up: Oven Club, Valencia on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ JNJS is a house and minimal artist based in Spain, with 77 gigs on soundcheck ac
 
 Tania Vulcano, Carlos Vila, Sossa
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jnjs/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jnjs/)*

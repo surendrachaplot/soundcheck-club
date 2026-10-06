@@ -1,8 +1,8 @@
 # Alice Youngling
 
-Alice Youngling is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 17 Oct 2026.
+Alice Youngling is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 17 Oct 2026.
 
-Alice Youngling is a house and progressive house artist, with 126 gigs on soundcheck across Barcelona, London, Paris and Prague. Often billed alongside Andrea Love, Cabana and Jo Kazan. Next up: Seaseaclub Barcelona, Barcelona on Sat 17 Oct.
+Alice Youngling is a house and progressive house artist based in Switzerland, with 126 gigs on soundcheck across Barcelona, London, Paris and Prague. Often billed alongside Andrea Love, Cabana and Jo Kazan. Next up: Seaseaclub Barcelona, Barcelona on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Alice Youngling is a house and progressive house artist, with 126 gigs on soundc
 
 Andrea Love, Cabana, Jo Kazan
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliceyoungling/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliceyoungling/)*

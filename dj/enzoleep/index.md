@@ -1,6 +1,6 @@
 # Enzo Leep
 
-Enzo Leep is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Pandora Sevilla, South on Sat, 10 Oct 2026.
+Enzo Leep is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Pandora Sevilla, South on Sat, 10 Oct 2026.
 
 Enzo Leep is a house and electronica artist based in Spain, with 65 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 13 more. Often billed alongside ELVI (SE), Ion Pananides and Alvaro Medina. Next up: Pandora Sevilla, South on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Enzo Leep is a house and electronica artist based in Spain, with 65 gigs on soun
 
 ELVI (SE), Ion Pananides, Alvaro Medina
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoleep/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoleep/)*

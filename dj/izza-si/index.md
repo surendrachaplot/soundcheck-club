@@ -1,6 +1,6 @@
 # IZZA (SI)
 
-IZZA (SI) is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Club der Visionaere, Berlin on Tue, 6 Oct 2026.
+IZZA (SI) is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Club der Visionaere, Berlin on Tue, 6 Oct 2026.
 
 IZZA (SI) is a deep house and house artist, with 9 gigs on soundcheck across Berlin, Mexico City, Prague and Rome and 1 more. Often billed alongside Michael Wagner, Aton and Barreto. Next up: Club der Visionaere, Berlin on Tue 6 Oct.
 
@@ -25,4 +25,4 @@ IZZA (SI) is a deep house and house artist, with 9 gigs on soundcheck across Ber
 
 Michael Wagner, Aton, Barreto
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/izza-si/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/izza-si/)*

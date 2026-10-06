@@ -1,6 +1,6 @@
 # ELLA WAX
 
-ELLA WAX is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at OXI, Berlin on Fri, 6 Nov 2026.
+ELLA WAX is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at OXI, Berlin on Fri, 6 Nov 2026.
 
 ELLA WAX is a techno artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside GVMEDNA, DEN!SE and Solvados. Next up: OXI, Berlin on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ ELLA WAX is a techno artist based in Germany, with 6 gigs on soundcheck across B
 
 GVMEDNA, DEN!SE, Solvados
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellawax/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellawax/)*

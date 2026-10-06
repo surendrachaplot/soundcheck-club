@@ -1,6 +1,6 @@
 # sweetestcape
 
-sweetestcape is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Secret Location, London on Sat, 17 Oct 2026.
+sweetestcape is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Secret Location, London on Sat, 17 Oct 2026.
 
 sweetestcape is a house and techno artist based in United Kingdom, with 32 gigs on soundcheck across Berlin, Budapest and London. Often billed alongside Amphia, THEMPRESS and ASHTREY. Next up: Secret Location, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ sweetestcape is a house and techno artist based in United Kingdom, with 32 gigs 
 
 Amphia, THEMPRESS, ASHTREY
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetestcape/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetestcape/)*

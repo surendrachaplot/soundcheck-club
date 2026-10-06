@@ -1,6 +1,6 @@
 # Turbina
 
-Turbina is a music venue in Budapest with 10 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "TECHNO SYMPOSIUM WITH PAULA SANZ – LAYERS OF CONSISTENCY" on Thu, 8 Oct 2026.
+Turbina is a music venue in Budapest with 10 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "TECHNO SYMPOSIUM WITH PAULA SANZ – LAYERS OF CONSISTENCY" on Thu, 8 Oct 2026.
 
 Turbina is a music venue in Budapest listed on soundcheck. 10 upcoming gigs, with line-ups including Akác, Arash Ete, Captain Hook and CRIME and 2 more. See dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
 
@@ -23,4 +23,4 @@ Turbina is a music venue in Budapest listed on soundcheck. 10 upcoming gigs, wit
 
 Budapest, Vajdahunyad street 4., 1082, Budapest
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*

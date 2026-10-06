@@ -1,6 +1,6 @@
 # Irene Kimova
 
-Irene Kimova is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Irene Kimova is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Irene Kimova is an electronic artist based in Russia, with 4 gigs on soundcheck across Athens and Greece. Often billed alongside DjGus, Liou and Nausicaä. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -21,4 +21,4 @@ Irene Kimova is an electronic artist based in Russia, with 4 gigs on soundcheck 
 
 DjGus, Liou, Nausicaä
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irenekimova/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irenekimova/)*

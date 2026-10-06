@@ -1,6 +1,6 @@
 # Benabou
 
-Benabou is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
+Benabou is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
 
 Benabou is a techno and electro artist based in France, with 29 gigs on soundcheck across Berlin, Lyon and Paris. Often billed alongside Zadig, future.666 and ÜBERKIKZ. Next up: RSO.BERLIN, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Benabou is a techno and electro artist based in France, with 29 gigs on soundche
 
 Zadig, future.666, ÜBERKIKZ
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benabou/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benabou/)*

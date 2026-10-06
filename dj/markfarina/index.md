@@ -1,6 +1,6 @@
 # Mark Farina
 
-Mark Farina is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - The Market, San Francisco/Oakland on Sat, 17 Oct 2026.
+Mark Farina is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - The Market, San Francisco/Oakland on Sat, 17 Oct 2026.
 
 Mark Farina is a house and deep house artist based in United States of America, with 121 gigs on soundcheck across Antwerp, Auckland, Chicago and Denver and 20 more. Often billed alongside DJ Heather, Derrick Carter and Doc Martin. Next up: TBA - The Market, San Francisco/Oakland on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Mark Farina is a house and deep house artist based in United States of America, 
 
 DJ Heather, Derrick Carter, Doc Martin
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markfarina/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markfarina/)*

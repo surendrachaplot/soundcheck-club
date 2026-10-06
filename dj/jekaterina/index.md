@@ -1,6 +1,6 @@
 # Jekaterina
 
-Jekaterina is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Dedaena Bar, Tbilisi on Thu, 8 Oct 2026.
+Jekaterina is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Dedaena Bar, Tbilisi on Thu, 8 Oct 2026.
 
 Jekaterina is a techno and house artist, with 8 gigs on soundcheck across Helsinki and Tbilisi. Often billed alongside FIILIA, P o B and ANTRO. Next up: Dedaena Bar, Tbilisi on Thu 8 Oct.
 
@@ -24,4 +24,4 @@ Jekaterina is a techno and house artist, with 8 gigs on soundcheck across Helsin
 
 FIILIA (2), P o B, ANTRO
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jekaterina/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jekaterina/)*

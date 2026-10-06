@@ -1,6 +1,6 @@
 # Tim Hecker
 
-Tim Hecker is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Tim Hecker is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 Tim Hecker is an ambient and techno artist based in Canada, with 19 gigs on soundcheck across Athens, Barcelona, Berlin and Budapest and 13 more. Often billed alongside upsammy, Grand River and ABADIR. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Tim Hecker is an ambient and techno artist based in Canada, with 19 gigs on soun
 
 upsammy, Grand River, ABADIR
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timhecker/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timhecker/)*

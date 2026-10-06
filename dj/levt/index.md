@@ -1,6 +1,6 @@
 # Levt
 
-Levt is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 10 Oct 2026.
+Levt is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 10 Oct 2026.
 
 Levt is a techno and house artist based in Germany, with 29 gigs on soundcheck across Berlin, Bremen, Cologne and Düsseldorf and 7 more. Often billed alongside I Hate Models, Alignment and Charlie Sparks. Next up: Uebel & Gefährlich, Hamburg on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Levt is a techno and house artist based in Germany, with 29 gigs on soundcheck a
 
 I Hate Models, Alignment, Charlie Sparks
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/levt/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/levt/)*

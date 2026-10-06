@@ -1,6 +1,6 @@
 # Daniel Bell
 
-Daniel Bell is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Circus Osaka, Osaka on Sat, 10 Oct 2026.
+Daniel Bell is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Circus Osaka, Osaka on Sat, 10 Oct 2026.
 
 Daniel Bell is a techno and house artist based in United States of America, with 100 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 28 more. Often billed alongside Erika, BMG and Mike Servito. Next up: Circus Osaka, Osaka on Sat 10 Oct.
 
@@ -34,4 +34,4 @@ Daniel Bell is a techno and house artist based in United States of America, with
 
 Erika, BMG, Mike Servito
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielbell/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielbell/)*

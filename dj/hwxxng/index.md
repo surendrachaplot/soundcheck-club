@@ -1,6 +1,6 @@
 # HWXXNG
 
-HWXXNG is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Acud Macht NEU, Berlin on Sat, 31 Oct 2026.
+HWXXNG is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Acud Macht NEU, Berlin on Sat, 31 Oct 2026.
 
 HWXXNG is a bass and experimental artist, with 14 gigs on soundcheck across Berlin, Hamburg, Milan and Seoul. Often billed alongside Pisitakun, EuroEyez and KLAUDIO. Next up: Acud Macht NEU, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ HWXXNG is a bass and experimental artist, with 14 gigs on soundcheck across Berl
 
 Pisitakun, EuroEyez, KLAUDIO
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hwxxng/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hwxxng/)*

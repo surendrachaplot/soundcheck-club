@@ -1,6 +1,6 @@
 # Fanatek
 
-Fanatek is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Tirana, Tirana on Fri, 30 Oct 2026.
+Fanatek is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Tirana, Tirana on Fri, 30 Oct 2026.
 
 Fanatek is a techno and experimental artist, with 4 gigs on soundcheck across Amsterdam, Athens and Tirana. Often billed alongside 6EJOU, ARZY and Alex Sharp. Next up: TBA - Tirana, Tirana on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ Fanatek is a techno and experimental artist, with 4 gigs on soundcheck across Am
 
 6EJOU, ARZY, Alex Sharp
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fanatek/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fanatek/)*

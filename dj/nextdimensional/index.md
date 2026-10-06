@@ -1,6 +1,6 @@
 # nextdimensional
 
-nextdimensional is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Point Ephémère, Paris on Sat, 10 Oct 2026.
+nextdimensional is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Point Ephémère, Paris on Sat, 10 Oct 2026.
 
 nextdimensional is a techno and club artist based in United States of America, with 95 gigs on soundcheck across Chicago, Minneapolis St Paul, Montreal and New York City and 7 more. Often billed alongside HONEY B, RITCHRD and DJ CARO. Next up: Point Ephémère, Paris on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ nextdimensional is a techno and club artist based in United States of America, w
 
 HONEY B, RITCHRD, DJ CARO
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nextdimensional/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nextdimensional/)*

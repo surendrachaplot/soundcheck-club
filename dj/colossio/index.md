@@ -1,6 +1,6 @@
 # Colossio
 
-Colossio is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+Colossio is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
 Colossio is a techno and house artist based in Mexico, with 24 gigs on soundcheck across Barcelona, Berlin, Lisbon and Madrid and 2 more. Often billed alongside Cabizbajo, Andre VII and AAAA. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Colossio is a techno and house artist based in Mexico, with 24 gigs on soundchec
 
 Cabizbajo, Andre VII, AAAA
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colossio/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colossio/)*

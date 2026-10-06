@@ -1,6 +1,6 @@
 # Murphy's Law
 
-Murphy's Law is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Jimmy Woo, Amsterdam on Fri, 23 Oct 2026.
+Murphy's Law is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Jimmy Woo, Amsterdam on Fri, 23 Oct 2026.
 
 Murphy's Law is a house and tech house artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Auckland, Austin and Brighton and 24 more. Often billed alongside Darius Syrossian, David Penn and Nick Curly. Next up: Jimmy Woo, Amsterdam on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ Murphy's Law is a house and tech house artist based in United Kingdom, with 75 g
 
 Darius Syrossian, David Penn, Nick Curly
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/murphyslaw/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/murphyslaw/)*

@@ -1,6 +1,6 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 22 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Roam x Sirens: Man Power. 25 Years of Roam" on Fri, 9 Oct 2026.
+Public Works is a music venue in San Francisco/Oakland with 22 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Roam x Sirens: Man Power. 25 Years of Roam" on Fri, 9 Oct 2026.
 
 Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 22 upcoming gigs, with line-ups including Adam Kraft, Alex Oxley, Alkemiss Erika and ALMAS and 2 more. See dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
@@ -23,4 +23,4 @@ Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 22 
 
 161 Erie Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*

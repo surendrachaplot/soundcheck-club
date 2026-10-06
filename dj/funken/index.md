@@ -1,6 +1,6 @@
 # Funken
 
-Funken is a Dub and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at YSY, Berlin on Sun, 18 Oct 2026.
+Funken is a Dub and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at YSY, Berlin on Sun, 18 Oct 2026.
 
 Funken is a dub and downtempo artist, with 30 gigs on soundcheck across Berlin. Often billed alongside Al_Massimo, Overthink 71 and Paoler. Next up: YSY, Berlin on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Funken is a dub and downtempo artist, with 30 gigs on soundcheck across Berlin. 
 
 Al_Massimo, Overthink 71, Paoler
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funken/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funken/)*

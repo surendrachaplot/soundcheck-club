@@ -1,14 +1,15 @@
 # CJ Art
 
-CJ Art is a Psytrance and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Smolna, Warsaw on Fri, 9 Oct 2026.
+CJ Art is a Psytrance and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Smolna, Warsaw on Fri, 9 Oct 2026.
 
-CJ Art is a psytrance and downtempo artist based in Poland, with 16 gigs on soundcheck across Krakow, London and Warsaw. Often billed alongside 4\4, Abyss and D-Unity. Next up: Smolna, Warsaw on Fri 9 Oct.
+CJ Art is a psytrance and downtempo artist based in Poland, with 17 gigs on soundcheck across Krakow, London, Poland and Warsaw. Often billed alongside 4\4, Abyss and D-Unity. Next up: Smolna, Warsaw on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Smolna | Warsaw |
+| Fri, 30 Oct 2026 | Klub Graffiti | Poland |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ CJ Art is a psytrance and downtempo artist based in Poland, with 16 gigs on soun
 
 4\4, Abyss, D-Unity
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cjart/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cjart/)*

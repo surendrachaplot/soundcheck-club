@@ -1,14 +1,15 @@
 # Caleb Jackson
 
-Caleb Jackson is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Refuge, New-york-city on Sat, 10 Oct 2026.
+Caleb Jackson is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Refuge, New-york-city on Sat, 10 Oct 2026.
 
-Caleb Jackson is a house and techno artist based in Australia, with 70 gigs on soundcheck across Amsterdam, Auckland, Bali and Berlin and 11 more. Often billed alongside Jacqui Cunningham, Bella Backe and Elijah Something. Next up: Refuge, New York City on Sat 10 Oct.
+Caleb Jackson is a house and techno artist based in Australia, with 71 gigs on soundcheck across Amsterdam, Auckland, Bali and Berlin and 12 more. Often billed alongside Jacqui Cunningham, Bella Backe and Elijah Something. Next up: Refuge, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Refuge | New-york-city |
+| Fri, 16 Oct 2026 | Tigres de la Noche | Washington DC |
 | Fri, 23 Oct 2026 | Ijland | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 31 Oct 2026 | The Gathering @ Armature Works | Tampa-bay |
@@ -30,4 +31,4 @@ Caleb Jackson is a house and techno artist based in Australia, with 70 gigs on s
 
 Jacqui Cunningham, Bella Backe, Elijah Something
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calebjackson/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calebjackson/)*

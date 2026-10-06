@@ -1,6 +1,6 @@
 # M5R (1)
 
-M5R (1) is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at La Gata del Born, Barcelona on Fri, 9 Oct 2026.
+M5R (1) is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at La Gata del Born, Barcelona on Fri, 9 Oct 2026.
 
 M5R is a techno artist, with 5 gigs on soundcheck across Barcelona. Often billed alongside Avraxas, Bapho999 and Gabriella Ponce. Next up: La Gata del Born, Barcelona on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ M5R is a techno artist, with 5 gigs on soundcheck across Barcelona. Often billed
 
 Avraxas, Bapho999, Gabriella Ponce
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m5r-1/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m5r-1/)*

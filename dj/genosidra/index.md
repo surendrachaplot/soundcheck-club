@@ -1,6 +1,6 @@
 # Genosidra
 
-Genosidra is a Guaracha and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Amalgame Club, Switzerland on Sat, 10 Oct 2026.
+Genosidra is a Guaracha and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Amalgame Club, Switzerland on Sat, 10 Oct 2026.
 
 Genosidra is a guaracha and latin bass artist based in Colombia, with 36 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Geneva and 12 more. Often billed alongside FKS, Gadutra and Lechuga Zafiro. Next up: Amalgame Club, Switzerland on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Genosidra is a guaracha and latin bass artist based in Colombia, with 36 gigs on
 
 FKS (1), Gadutra, Lechuga Zafiro
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/genosidra/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/genosidra/)*

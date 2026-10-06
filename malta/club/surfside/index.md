@@ -1,6 +1,6 @@
 # Surfside
 
-Surfside is a music venue in Malta with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "A Little Crush" on Wed, 7 Oct 2026.
+Surfside is a music venue in Malta with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "A Little Crush" on Wed, 7 Oct 2026.
 
 Surfside is a music venue in Malta listed on soundcheck. 2 upcoming gigs, with line-ups including Edd. See dates, start times and who's playing. Tower Road, Sliema, Malta.
 
@@ -15,4 +15,4 @@ Surfside is a music venue in Malta listed on soundcheck. 2 upcoming gigs, with l
 
 Tower Road, Sliema, Malta, Malta
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/malta/club/surfside/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/malta/club/surfside/)*

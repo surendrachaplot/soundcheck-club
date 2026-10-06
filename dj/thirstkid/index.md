@@ -1,6 +1,6 @@
 # ThirstKid
 
-ThirstKid is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 17 Oct 2026.
+ThirstKid is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 17 Oct 2026.
 
 ThirstKid is a house and disco artist, with 5 gigs on soundcheck across Bangkok, Seoul and Tokyo. Often billed alongside Chris MS, Duality and Giantsiam. Next up: DJ Bar Bridge Shinjuku, Tokyo on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ ThirstKid is a house and disco artist, with 5 gigs on soundcheck across Bangkok,
 
 Chris MS, Duality, Giantsiam
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thirstkid/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thirstkid/)*

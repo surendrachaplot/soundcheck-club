@@ -1,6 +1,6 @@
 # Charmed
 
-Charmed is a Bass and Footwork artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Bossa Nova Civic Club, New York City on Thu, 15 Oct 2026.
+Charmed is a Bass and Footwork artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Bossa Nova Civic Club, New York City on Thu, 15 Oct 2026.
 
 Charmed is a bass and footwork artist based in United States of America, with 4 gigs on soundcheck across New York City. Often billed alongside BABEITSPURR, KC (NYC) and ARCHANGEL (US). Next up: Bossa Nova Civic Club, New York City on Thu 15 Oct.
 
@@ -20,4 +20,4 @@ Charmed is a bass and footwork artist based in United States of America, with 4 
 
 BABEITSPURR, KC (NYC), ARCHANGEL (US)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charmed/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charmed/)*

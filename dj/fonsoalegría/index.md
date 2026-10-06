@@ -1,6 +1,6 @@
 # Fonso Alegría
 
-Fonso Alegría is a Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Subcero Club, Madrid on Fri, 9 Oct 2026.
+Fonso Alegría is a Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Subcero Club, Madrid on Fri, 9 Oct 2026.
 
 Fonso Alegría is an electronica artist based in Spain, with 4 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Diego Sarria, Orson Sinaka and Santacreu. Next up: Subcero Club, Madrid on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ Fonso Alegría is an electronica artist based in Spain, with 4 gigs on soundchec
 
 Diego Sarria, Orson Sinaka, Santacreu
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fonsoalegría/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fonsoalegría/)*

@@ -1,6 +1,6 @@
 # Keyblow
 
-Keyblow is a Electronica and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Garage 442, Barcelona on Wed, 7 Oct 2026.
+Keyblow is a Electronica and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Garage 442, Barcelona on Wed, 7 Oct 2026.
 
 Keyblow is an electronica and deep house artist based in Argentina, with 161 gigs on soundcheck across Barcelona and Naples. Often billed alongside Saulo Pisa, Arturo Rivera and Arielo. Next up: Garage 442, Barcelona on Wed 7 Oct.
 
@@ -26,4 +26,4 @@ Keyblow is an electronica and deep house artist based in Argentina, with 161 gig
 
 Saulo Pisa, Arturo Rivera, Arielo
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keyblow/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keyblow/)*

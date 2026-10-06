@@ -1,6 +1,6 @@
 # ZAGUN
 
-ZAGUN is a Techno and Psytrance artist with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Blvck Water, Osaka on Tue, 6 Oct 2026.
+ZAGUN is a Techno and Psytrance artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Blvck Water, Osaka on Tue, 6 Oct 2026.
 
 ZAGUN is a techno and psytrance artist based in Japan, with 136 gigs on soundcheck across Osaka and Tokyo. Often billed alongside FENGX2, 死者蘇生CH and _goodbyeforever_. Next up: Blvck Water, Osaka on Tue 6 Oct.
 
@@ -31,4 +31,4 @@ ZAGUN is a techno and psytrance artist based in Japan, with 136 gigs on soundche
 
 FENGX2, 死者蘇生CH, _goodbyeforever_
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zagun/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zagun/)*

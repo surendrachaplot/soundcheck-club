@@ -1,6 +1,6 @@
 # Bahnwärter Thiel
 
-Bahnwärter Thiel is a music venue in Munich with 10 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "135+ mit Cycling Club Collective & 808 Kollektive" on Thu, 8 Oct 2026.
+Bahnwärter Thiel is a music venue in Munich with 10 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "135+ mit Cycling Club Collective & 808 Kollektive" on Thu, 8 Oct 2026.
 
 Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 10 upcoming gigs, with line-ups including ANASTASÍA, Anna Lazer, aufleguan and avely and 2 more. See dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
 
@@ -23,4 +23,4 @@ Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 10 upcoming g
 
 Tumblingerstraße 29, 80333 München, Munich
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*

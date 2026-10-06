@@ -1,6 +1,6 @@
 # Sala ART
 
-Sala ART is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "CHRØMA 2nd ANNIVERSARY: Airod" on Fri, 9 Oct 2026.
+Sala ART is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "CHRØMA 2nd ANNIVERSARY: Airod" on Fri, 9 Oct 2026.
 
 Sala ART is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, with line-ups including Airod, Grau, Héctor Pericet and Javiherr and 2 more. See dates, start times and who's playing. P.º de la Florida, 2, 28008 Madrid.
 
@@ -16,4 +16,4 @@ Sala ART is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, with 
 
 P.º de la Florida, 2, 28008 Madrid, Madrid
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-art/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-art/)*

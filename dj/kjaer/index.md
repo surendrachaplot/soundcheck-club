@@ -1,6 +1,6 @@
 # KJAER
 
-KJAER is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Loft, Vienna on Fri, 20 Nov 2026.
+KJAER is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Loft, Vienna on Fri, 20 Nov 2026.
 
 KJAER is a techno artist, with 4 gigs on soundcheck across Prague and Vienna. Often billed alongside B E C K, Chicano and Chris Dove. Next up: The Loft, Vienna on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ KJAER is a techno artist, with 4 gigs on soundcheck across Prague and Vienna. Of
 
 B E C K, Chicano, Chris Dove
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kjaer/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kjaer/)*

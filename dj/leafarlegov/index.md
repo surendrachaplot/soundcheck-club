@@ -1,6 +1,6 @@
 # Leafar Legov
 
-Leafar Legov is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Sala Roxy, Guadalajara on Sat, 10 Oct 2026.
+Leafar Legov is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Sala Roxy, Guadalajara on Sat, 10 Oct 2026.
 
 Leafar Legov is a house and techno artist based in Germany, with 101 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 34 more. Often billed alongside Konstantin, Edward and Map.ache. Next up: Sala Roxy, Guadalajara on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Leafar Legov is a house and techno artist based in Germany, with 101 gigs on sou
 
 Konstantin, Edward, Map.ache
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leafarlegov/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leafarlegov/)*

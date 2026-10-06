@@ -1,6 +1,6 @@
 # SAMO (JP)
 
-SAMO (JP) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Circus Osaka, Osaka on Sun, 11 Oct 2026.
+SAMO (JP) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Circus Osaka, Osaka on Sun, 11 Oct 2026.
 
 SAMO (JP) is a house and techno artist based in Japan, with 181 gigs on soundcheck across Kyoto, Osaka, San Francisco/Oakland and Seoul and 2 more. Often billed alongside r1ku, kengotaki and YUVIE. Next up: Circus Osaka, Osaka on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ SAMO (JP) is a house and techno artist based in Japan, with 181 gigs on soundche
 
 r1ku, kengotaki, YUVIE
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samojp/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samojp/)*

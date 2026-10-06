@@ -1,6 +1,6 @@
 # Don Bellanton
 
-Don Bellanton is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Oven Club, Valencia on Fri, 16 Oct 2026.
+Don Bellanton is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Oven Club, Valencia on Fri, 16 Oct 2026.
 
 Don Bellanton is a house and tech house artist, with 10 gigs on soundcheck across Barcelona, Ibiza, Madrid and Valencia. Often billed alongside Mar-T, AGELESS and Alvaro Medina. Next up: Oven Club, Valencia on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Don Bellanton is a house and tech house artist, with 10 gigs on soundcheck acros
 
 Mar-T, AGELESS, Alvaro Medina
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donbellanton/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donbellanton/)*

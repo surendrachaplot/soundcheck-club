@@ -1,6 +1,6 @@
 # pretzelz
 
-pretzelz is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Flinders, Sydney on Fri, 23 Oct 2026.
+pretzelz is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Flinders, Sydney on Fri, 23 Oct 2026.
 
 pretzelz is a techno and industrial artist based in Australia, with 26 gigs on soundcheck across Sydney. Often billed alongside ARTISAH, Kvrt and Pandemonium. Next up: The Flinders, Sydney on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ pretzelz is a techno and industrial artist based in Australia, with 26 gigs on s
 
 ARTISAH, Kvrt, Pandemonium
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pretzelz/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pretzelz/)*

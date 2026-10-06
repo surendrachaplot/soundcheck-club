@@ -1,6 +1,6 @@
 # Fünk
 
-Fünk is a music venue in Mexico City with 13 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Bon Vivant 10 Years" on Thu, 8 Oct 2026.
+Fünk is a music venue in Mexico City with 13 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Bon Vivant 10 Years" on Thu, 8 Oct 2026.
 
 Fünk is a music venue in Mexico City listed on soundcheck. 13 upcoming gigs, with line-ups including Alby Esc, Astroboii, BADSISTA and Bluecommand and 2 more. See dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
@@ -9,7 +9,7 @@ Fünk is a music venue in Mexico City listed on soundcheck. 13 upcoming gigs, wi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | Bon Vivant 10 Years | Mejia, Sakro |
-| Thu, 8 Oct 2026 | Silueta x Fünk |  |
+| Thu, 8 Oct 2026 | Silueta x Fünk | Ian Martz |
 | Fri, 9 Oct 2026 | Disco Bacocho: María Nocheydía + Lorena + Solarx | LORENA (MX), Maria Nocheydía |
 | Sat, 10 Oct 2026 | Matias Aguayo + Thomass Jackson + EVNR | EVNR, Matias Aguayo, Thomass Jackson |
 | Thu, 15 Oct 2026 | Ssensorial x Fünk | Astroboii, Cubenx, Niño Arbol, Ursula Prawn |
@@ -23,4 +23,4 @@ Fünk is a music venue in Mexico City listed on soundcheck. 13 upcoming gigs, wi
 
 Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico, Mexico City
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*

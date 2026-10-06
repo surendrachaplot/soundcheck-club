@@ -1,13 +1,14 @@
 # Astro
 
-Astro is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 10 Oct 2026.
+Astro is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Bar Oriente, Mexico City on Wed, 7 Oct 2026.
 
-Astro is a house and electronica artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Buenos Aires and 3 more. Often billed alongside Febe, Miss Voltaghe and O-MAN. Next up: People's Leisure Club, Edinburgh on Sat 10 Oct.
+Astro is a house and electronica artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Buenos Aires and 3 more. Often billed alongside Febe, Miss Voltaghe and O-MAN. Next up: Bar Oriente, Mexico City on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 7 Oct 2026 | Bar Oriente | Mexico City |
 | Sat, 10 Oct 2026 | People's Leisure Club | Edinburgh |
 
 ## Recently played
@@ -25,4 +26,4 @@ Astro is a house and electronica artist based in United Kingdom, with 35 gigs on
 
 Febe, Miss Voltaghe, O-MAN
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/astro/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/astro/)*

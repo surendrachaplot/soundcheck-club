@@ -1,6 +1,6 @@
 # Delilah
 
-Delilah is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
+Delilah is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
 
 Delilah is a house and tech house artist based in United Kingdom, with 42 gigs on soundcheck across Berlin, Bristol, Brussels and Dublin and 9 more. Often billed alongside MiNNA, Rossi and Sidney Charles. Next up: Hï Ibiza, Ibiza on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ Delilah is a house and tech house artist based in United Kingdom, with 42 gigs o
 
 MiNNA, Rossi, Sidney Charles
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delilah/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delilah/)*

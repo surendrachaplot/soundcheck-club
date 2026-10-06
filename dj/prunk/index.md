@@ -1,6 +1,6 @@
 # Prunk
 
-Prunk is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Cova Santa, Ibiza on Tue, 6 Oct 2026.
+Prunk is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Cova Santa, Ibiza on Tue, 6 Oct 2026.
 
 Prunk is a house and tech house artist based in Netherlands, with 308 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 42 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: Cova Santa, Ibiza on Tue 6 Oct.
 
@@ -36,4 +36,4 @@ Prunk is a house and tech house artist based in Netherlands, with 308 gigs on so
 
 Kellie Allen, M-High, Robbie Doherty
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prunk/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prunk/)*

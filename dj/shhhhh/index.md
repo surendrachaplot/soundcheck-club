@@ -1,6 +1,6 @@
 # Shhhhh
 
-Shhhhh is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Z Maruyama, Tokyo on Fri, 23 Oct 2026.
+Shhhhh is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Z Maruyama, Tokyo on Fri, 23 Oct 2026.
 
 Shhhhh is a techno and house artist based in Japan, with 104 gigs on soundcheck across Bali, Chubu, Hong Kong and Kyoto and 7 more. Often billed alongside Compuma, imus and AKIRAM EN. Next up: Z Maruyama, Tokyo on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Shhhhh is a techno and house artist based in Japan, with 104 gigs on soundcheck 
 
 Compuma, imus, AKIRAM EN
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shhhhh/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shhhhh/)*

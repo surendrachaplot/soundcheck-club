@@ -1,6 +1,6 @@
 # Chaos In The CBD
 
-Chaos In The CBD is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Les Enfants Brillants, Barcelona on Sun, 11 Oct 2026.
+Chaos In The CBD is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Les Enfants Brillants, Barcelona on Sun, 11 Oct 2026.
 
 Chaos In The CBD is a house and techno artist based in New Zealand, with 218 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 57 more. Often billed alongside Sally C, Seth Troxler and Ben UFO. Next up: Les Enfants Brillants, Barcelona on Sun 11 Oct.
 
@@ -34,4 +34,4 @@ Chaos In The CBD is a house and techno artist based in New Zealand, with 218 gig
 
 Sally C, Seth Troxler, Ben UFO
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosinthecbd/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosinthecbd/)*

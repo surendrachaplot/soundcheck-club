@@ -1,6 +1,6 @@
 # Dogenzaka Church
 
-Dogenzaka Church is a music venue in Tokyo with 11 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "MISH-MASH" on Wed, 7 Oct 2026.
+Dogenzaka Church is a music venue in Tokyo with 11 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "MISH-MASH" on Wed, 7 Oct 2026.
 
 Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, with line-ups including EIJI, Hironobu Jyounai, Nevermind and vinylDJ Eiji Takehana and 2 more. See dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階.
 
@@ -23,4 +23,4 @@ Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 11 upcoming gig
 
 Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階, Tokyo
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dogenzaka-church/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dogenzaka-church/)*

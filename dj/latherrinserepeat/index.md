@@ -1,6 +1,6 @@
 # Lather Rinse Repeat
 
-Lather Rinse Repeat is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - LOCATION SENT TO TIX HOLDERS ON DAY OF EVENT, Montreal on Sat, 10 Oct 2026.
+Lather Rinse Repeat is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - LOCATION SENT TO TIX HOLDERS ON DAY OF EVENT, Montreal on Sat, 10 Oct 2026.
 
 Lather Rinse Repeat is a house and bass artist, with 30 gigs on soundcheck across Montreal and Toronto. Often billed alongside h1bou, Field Note and Pretty Privilege. Next up: TBA - LOCATION SENT TO TIX HOLDERS ON DAY OF EVENT, Montreal on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Lather Rinse Repeat is a house and bass artist, with 30 gigs on soundcheck acros
 
 h1bou, Field Note, Pretty Privilege
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/latherrinserepeat/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/latherrinserepeat/)*

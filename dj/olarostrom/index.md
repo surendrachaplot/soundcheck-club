@@ -1,8 +1,8 @@
 # Ola Roström
 
-Ola Roström is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
+Ola Roström is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
 
-Ola Roström is a techno and trance artist, with 17 gigs on soundcheck across Amsterdam and Stockholm. Often billed alongside Joris Turenhout, Dual Drive and Gestalt. Next up: Oosterbar, Amsterdam on Sat 24 Oct.
+Ola Roström is a techno and trance artist based in Sweden, with 17 gigs on soundcheck across Amsterdam and Stockholm. Often billed alongside Joris Turenhout, Dual Drive and Gestalt. Next up: Oosterbar, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Ola Roström is a techno and trance artist, with 17 gigs on soundcheck across Am
 
 Joris Turenhout, Dual Drive, Gestalt
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olarostrom/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olarostrom/)*

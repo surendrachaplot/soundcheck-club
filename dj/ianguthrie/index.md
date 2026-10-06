@@ -1,6 +1,6 @@
 # Ian Guthrie
 
-Ian Guthrie is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Standard Time, Toronto on Fri, 20 Nov 2026.
+Ian Guthrie is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Standard Time, Toronto on Fri, 20 Nov 2026.
 
 Ian Guthrie is a techno artist based in Canada, with 5 gigs on soundcheck across Toronto. Often billed alongside Jeremy P. Caulfield, Lee Osborne and Greg Gow. Next up: Standard Time, Toronto on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ Ian Guthrie is a techno artist based in Canada, with 5 gigs on soundcheck across
 
 Jeremy P. Caulfield, Lee Osborne, Greg Gow
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ianguthrie/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ianguthrie/)*

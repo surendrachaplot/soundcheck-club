@@ -1,6 +1,6 @@
 # Die Rakete
 
-Die Rakete is a music venue in Nürnberg with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Allabouttekkno" on Fri, 9 Oct 2026.
+Die Rakete is a music venue in Nürnberg with 8 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Allabouttekkno" on Fri, 9 Oct 2026.
 
 Die Rakete is a music venue in Nürnberg listed on soundcheck. 8 upcoming gigs, with line-ups including Anna Reusch, Annie O, Emina Helena and Ezio Aguiar and 2 more. See dates, start times and who's playing. Vogelweiherstraße 64, 90441 Nürnberg.
 
@@ -21,4 +21,4 @@ Die Rakete is a music venue in Nürnberg listed on soundcheck. 8 upcoming gigs, 
 
 Vogelweiherstraße 64, 90441 Nürnberg, Nürnberg
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*

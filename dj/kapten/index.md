@@ -1,6 +1,6 @@
 # Kapten
 
-Kapten is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
+Kapten is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
 
 Kapten is a house and afro house artist, with 4 gigs on soundcheck across London and New York City. Often billed alongside CAPTNNN', Cordioli and GENNARO. Next up: One Marylebone, London on Thu 29 Oct.
 
@@ -20,4 +20,4 @@ Kapten is a house and afro house artist, with 4 gigs on soundcheck across London
 
 CAPTNNN', Cordioli, GENNARO
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kapten/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kapten/)*

@@ -1,6 +1,6 @@
 # Avni Leka
 
-Avni Leka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Cabaret  Aléatoire, Marseille on Fri, 27 Nov 2026.
+Avni Leka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Cabaret  Aléatoire, Marseille on Fri, 27 Nov 2026.
 
 Avni Leka is a techno and house artist based in Albania, with 5 gigs on soundcheck across Istanbul and Marseille. Often billed alongside Elyas, Freddy K and Lewis Fautzi. Next up: Cabaret  Aléatoire, Marseille on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ Avni Leka is a techno and house artist based in Albania, with 5 gigs on soundche
 
 Elyas, Freddy K, Lewis Fautzi
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avnileka/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avnileka/)*

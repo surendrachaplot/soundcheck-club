@@ -1,6 +1,6 @@
 # Eschschloraque
 
-Eschschloraque is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "PingPongPremiere" on Wed, 7 Oct 2026.
+Eschschloraque is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "PingPongPremiere" on Wed, 7 Oct 2026.
 
 Eschschloraque is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Lancer, MissVergnügen and Robot Girl. See dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
 
@@ -20,4 +20,4 @@ Eschschloraque is a music venue in Berlin listed on soundcheck. 7 upcoming gigs,
 
 Rosenthaler Str. 39, 10178 Berlin, Germany, Berlin
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*

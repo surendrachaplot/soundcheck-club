@@ -1,6 +1,6 @@
 # Teja House
 
-Teja House is a music venue in Lisbon with 14 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "TEJAM Sessions" on Tue, 6 Oct 2026.
+Teja House is a music venue in Lisbon with 14 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "TEJAM Sessions" on Tue, 6 Oct 2026.
 
 Teja House is a music venue in Lisbon listed on soundcheck. 14 upcoming gigs, with line-ups including 40D (Dj), Armanda, fajardo and GAYANCE and 2 more. See dates, start times and who's playing. Cais do Sodré 5, 1200-450 Lisboa.
 
@@ -23,4 +23,4 @@ Teja House is a music venue in Lisbon listed on soundcheck. 14 upcoming gigs, wi
 
 Cais do Sodré 5, 1200-450 Lisboa, Lisbon
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/teja-house/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/teja-house/)*

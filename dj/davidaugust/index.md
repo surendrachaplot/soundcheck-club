@@ -1,6 +1,6 @@
 # David August
 
-David August is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Monopol Madrid, Madrid on Wed, 7 Oct 2026.
+David August is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Monopol Madrid, Madrid on Wed, 7 Oct 2026.
 
 David August is an experimental and electronica artist, with 37 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Sofia Kourtesis, Bendik Giske and Cassius. Next up: Monopol Madrid, Madrid on Wed 7 Oct.
 
@@ -27,4 +27,4 @@ David August is an experimental and electronica artist, with 37 gigs on soundche
 
 Sofia Kourtesis, Bendik Giske, Cassius
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidaugust/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidaugust/)*

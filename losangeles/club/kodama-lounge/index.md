@@ -1,6 +1,6 @@
 # Kodama Lounge
 
-Kodama Lounge is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. The next is "UKIYO SESSIONS × Kodama Lounge" on Sat, 17 Oct 2026.
+Kodama Lounge is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "UKIYO SESSIONS × Kodama Lounge" on Sat, 17 Oct 2026.
 
 Kodama Lounge is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Nghi. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Kodama Lounge is a music venue in Los Angeles listed on soundcheck. 1 upcoming g
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | UKIYO SESSIONS × Kodama Lounge | Nghi |
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/kodama-lounge/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/kodama-lounge/)*

@@ -1,6 +1,6 @@
 # NEBESNY
 
-NEBESNY is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Avve, Bangkok on Fri, 9 Oct 2026.
+NEBESNY is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Avve, Bangkok on Fri, 9 Oct 2026.
 
 NEBESNY is a techno and breakbeat artist based in Russia, with 8 gigs on soundcheck across Bangkok. Often billed alongside Jorgium, REIKS and x_me. Next up: Avve, Bangkok on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ NEBESNY is a techno and breakbeat artist based in Russia, with 8 gigs on soundch
 
 Jorgium, REIKS, x_me
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nebesny/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nebesny/)*

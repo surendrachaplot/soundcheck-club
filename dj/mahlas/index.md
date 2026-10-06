@@ -1,6 +1,6 @@
 # Mahlas
 
-Mahlas is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at KitKatClub, Berlin on Mon, 26 Oct 2026.
+Mahlas is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at KitKatClub, Berlin on Mon, 26 Oct 2026.
 
 Mahlas is a techno and house artist based in Turkey, with 5 gigs on soundcheck across Berlin. Often billed alongside Astrocue, Frankie Flowerz and Radio Renato. Next up: KitKatClub, Berlin on Mon 26 Oct.
 
@@ -21,4 +21,4 @@ Mahlas is a techno and house artist based in Turkey, with 5 gigs on soundcheck a
 
 Astrocue, Frankie Flowerz, Radio Renato
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahlas/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahlas/)*

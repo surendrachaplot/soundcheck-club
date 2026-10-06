@@ -1,6 +1,6 @@
 # Vladislav Nogin
 
-Vladislav Nogin is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Klub Under, Belgrade on Fri, 23 Oct 2026.
+Vladislav Nogin is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Klub Under, Belgrade on Fri, 23 Oct 2026.
 
 Vladislav Nogin is a techno and industrial artist, with 5 gigs on soundcheck across Belgrade. Often billed alongside Death Joy, ALDES and Rave Syndicate. Next up: Klub Under, Belgrade on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Vladislav Nogin is a techno and industrial artist, with 5 gigs on soundcheck acr
 
 Death Joy, ALDES (2), Rave Syndicate
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladislavnogin/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladislavnogin/)*

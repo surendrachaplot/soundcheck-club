@@ -1,6 +1,6 @@
 # Last Life
 
-Last Life is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Campidarte Sardegna, Central on Sun, 18 Oct 2026.
+Last Life is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Campidarte Sardegna, Central on Sun, 18 Oct 2026.
 
 Last Life is an electronic artist, with 4 gigs on soundcheck across Central, Lisbon, London and Prague. Often billed alongside Benski, Blackeye MC and Dusty Ohms. Next up: Campidarte Sardegna, Central on Sun 18 Oct.
 
@@ -20,4 +20,4 @@ Last Life is an electronic artist, with 4 gigs on soundcheck across Central, Lis
 
 Benski, Blackeye MC, Dusty Ohms
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lastlife/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lastlife/)*

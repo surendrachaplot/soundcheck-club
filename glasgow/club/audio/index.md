@@ -1,6 +1,6 @@
 # Audio
 
-Audio is a music venue in Glasgow with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "D3CøD3D" on Sat, 17 Oct 2026.
+Audio is a music venue in Glasgow with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "D3CøD3D" on Sat, 17 Oct 2026.
 
 Audio is a music venue in Glasgow listed on soundcheck. 5 upcoming gigs, with line-ups including Benny Page and DJ Hybrid. See dates, start times and who's playing. 14 Midland Street, G1 4PP.
 
@@ -18,4 +18,4 @@ Audio is a music venue in Glasgow listed on soundcheck. 5 upcoming gigs, with li
 
 14 Midland Street, G1 4PP, Glasgow
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/audio/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/audio/)*

@@ -1,6 +1,6 @@
 # Diego Barrera
 
-Diego Barrera is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Union Club, Vauxhall, London on Fri, 9 Oct 2026.
+Diego Barrera is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Union Club, Vauxhall, London on Fri, 9 Oct 2026.
 
 Diego Barrera is a house and tech house artist, with 6 gigs on soundcheck across London and Miami. Often billed alongside Alejandro Blanco, Amal Nemer and Charles Meyer (US). Next up: Union Club, Vauxhall, London on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ Diego Barrera is a house and tech house artist, with 6 gigs on soundcheck across
 
 Alejandro Blanco, Amal Nemer, Charles Meyer (US)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diegobarrera/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diegobarrera/)*

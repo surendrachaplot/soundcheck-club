@@ -1,6 +1,6 @@
 # Minimüzikhol
 
-Minimüzikhol is a music venue in Istanbul with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "dj sweet6teen B2B Vinz Sosa" on Fri, 9 Oct 2026.
+Minimüzikhol is a music venue in Istanbul with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "dj sweet6teen B2B Vinz Sosa" on Fri, 9 Oct 2026.
 
 Minimüzikhol is a music venue in Istanbul listed on soundcheck. 4 upcoming gigs, with line-ups including dj sweet6teen, Fault, Loulou Ferrari and Murat Uncuoglu and 2 more. See dates, start times and who's playing. Siraselviler Caddesi Soganci Sok. Cihangir Palas No:3/1 Beyoglu Istanbul.
 
@@ -17,4 +17,4 @@ Minimüzikhol is a music venue in Istanbul listed on soundcheck. 4 upcoming gigs
 
 Siraselviler Caddesi Soganci Sok. Cihangir Palas No:3/1 Beyoglu Istanbul, Istanbul
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/minim-zikhol/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/minim-zikhol/)*

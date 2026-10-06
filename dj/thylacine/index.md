@@ -1,6 +1,6 @@
 # Thylacine
 
-Thylacine is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at D! Club, Lausanne on Thu, 22 Oct 2026.
+Thylacine is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at D! Club, Lausanne on Thu, 22 Oct 2026.
 
 Thylacine is an electronica and techno artist based in France, with 39 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 17 more. Often billed alongside il:lo, Parra for Cuva and Cincity. Next up: D! Club, Lausanne on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Thylacine is an electronica and techno artist based in France, with 39 gigs on s
 
 il:lo, Parra for Cuva, Cincity
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thylacine/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thylacine/)*

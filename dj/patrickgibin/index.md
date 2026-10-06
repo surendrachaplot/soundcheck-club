@@ -1,6 +1,6 @@
 # Patrick Gibin
 
-Patrick Gibin is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Space Studios, South-east on Sat, 10 Oct 2026.
+Patrick Gibin is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Space Studios, South-east on Sat, 10 Oct 2026.
 
 Patrick Gibin is a house and funk / soul artist based in Italy, with 23 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 6 more. Often billed alongside Volcov, Craig White and Kaidi Tatham. Next up: Space Studios, South East on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Patrick Gibin is a house and funk / soul artist based in Italy, with 23 gigs on 
 
 Volcov, Craig White, Kaidi Tatham
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickgibin/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickgibin/)*

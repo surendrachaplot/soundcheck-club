@@ -1,6 +1,6 @@
 # Münich
 
-Münich is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Department 184, Milan on Fri, 16 Oct 2026.
+Münich is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Department 184, Milan on Fri, 16 Oct 2026.
 
 Münich is a techno artist based in Italy, with 18 gigs on soundcheck across Milan. Often billed alongside Diamantha, MISERIA and M.Vertigo. Next up: Department 184, Milan on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Münich is a techno artist based in Italy, with 18 gigs on soundcheck across Mil
 
 Diamantha, MISERIA, M.Vertigo
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munich/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munich/)*

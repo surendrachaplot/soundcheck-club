@@ -1,6 +1,6 @@
 # Senda
 
-Senda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Joule, Osaka on Fri, 6 Nov 2026.
+Senda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Joule, Osaka on Fri, 6 Nov 2026.
 
 Senda is a techno and house artist based in Japan, with 32 gigs on soundcheck across Osaka. Often billed alongside Nao Nomura, DMITRI ABSINTHE and KENJI MARUI. Next up: Joule, Osaka on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Senda is a techno and house artist based in Japan, with 32 gigs on soundcheck ac
 
 Nao Nomura, DMITRI ABSINTHE, KENJI MARUI
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/senda/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/senda/)*

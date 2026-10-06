@@ -1,6 +1,6 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 12 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Hop on The Top (Closing Party) Open Air Hip Hop Party at La Terrrazza" on Fri, 9 Oct 2026.
+La Terrrazza is a music venue in Barcelona with 12 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Hop on The Top (Closing Party) Open Air Hip Hop Party at La Terrrazza" on Fri, 9 Oct 2026.
 
 La Terrrazza is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs, with line-ups including Byron Yeates, Chico Blanco, Courtesy and DJ AMAZING and 2 more. See dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
@@ -23,4 +23,4 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 12 upcoming gig
 
 Avinguda Francesc Ferrer i Guardia, 13, 08038, Barcelona
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*

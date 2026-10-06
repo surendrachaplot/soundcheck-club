@@ -1,6 +1,6 @@
 # Burdekin Hotel
 
-Burdekin Hotel is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "200 Plus Presents: We Rob Rave" on Fri, 9 Oct 2026.
+Burdekin Hotel is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "200 Plus Presents: We Rob Rave" on Fri, 9 Oct 2026.
 
 Burdekin Hotel is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including Elina, Melt Unit and Xian. See dates, start times and who's playing. 2 Oxford St; Darlinghurst, NSW 2010; Australia.
 
@@ -15,4 +15,4 @@ Burdekin Hotel is a music venue in Sydney listed on soundcheck. 2 upcoming gigs,
 
 2 Oxford St; Darlinghurst, NSW 2010; Australia, Sydney
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/burdekin-hotel/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/burdekin-hotel/)*

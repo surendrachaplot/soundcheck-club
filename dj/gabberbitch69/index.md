@@ -1,6 +1,6 @@
 # Gabberbitch69
 
-Gabberbitch69 is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Echostage, Washington DC on Fri, 13 Nov 2026.
+Gabberbitch69 is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Echostage, Washington DC on Fri, 13 Nov 2026.
 
 Gabberbitch69 is a hardcore and techno artist based in United States of America, with 64 gigs on soundcheck across Berlin, Copenhagen, Miami and Nashville and 3 more. Often billed alongside Franxx, DJ Land Reform and GET FACE. Next up: Echostage, Washington DC on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Gabberbitch69 is a hardcore and techno artist based in United States of America,
 
 Franxx, DJ Land Reform, GET FACE
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabberbitch69/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabberbitch69/)*

@@ -1,6 +1,6 @@
 # YoungWoman
 
-YoungWoman is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at export, Rotterdam on Sat, 17 Oct 2026.
+YoungWoman is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at export, Rotterdam on Sat, 17 Oct 2026.
 
 YoungWoman is a techno and bass artist based in Egypt, with 76 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 5 more. Often billed alongside Slimfit, ZOBAYDA and Chinnamasta. Next up: export, Rotterdam on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ YoungWoman is a techno and bass artist based in Egypt, with 76 gigs on soundchec
 
 Slimfit, ZOBAYDA, Chinnamasta
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngwoman/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngwoman/)*

@@ -1,6 +1,6 @@
 # Takenbymarshall
 
-Takenbymarshall is a Hardcore and Breakcore artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Off The Cuff, London on Fri, 9 Oct 2026.
+Takenbymarshall is a Hardcore and Breakcore artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Off The Cuff, London on Fri, 9 Oct 2026.
 
 Takenbymarshall is a hardcore and breakcore artist based in United Kingdom, with 45 gigs on soundcheck across Bangkok, Glasgow, London and Manchester. Often billed alongside Compulsive Leia, alterum and it_dont_Matt.er. Next up: Off The Cuff, London on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Takenbymarshall is a hardcore and breakcore artist based in United Kingdom, with
 
 Compulsive Leia, alterum, it_dont_Matt.er
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takenbymarshall/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takenbymarshall/)*

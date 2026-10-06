@@ -1,6 +1,6 @@
 # Max Watts
 
-Max Watts is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Brewing Brothers Courtyard, South-east on Fri, 6 Nov 2026.
+Max Watts is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Brewing Brothers Courtyard, South-east on Fri, 6 Nov 2026.
 
 Max Watts is a techno and house artist based in United States of America, with 102 gigs on soundcheck across Berlin, Chicago, Detroit and London and 10 more. Often billed alongside Sugar, Miguel Cisne and MGUN. Next up: Brewing Brothers Courtyard, South East on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Max Watts is a techno and house artist based in United States of America, with 1
 
 Sugar (4), Miguel Cisne, MGUN
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwatts/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwatts/)*

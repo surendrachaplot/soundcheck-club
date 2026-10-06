@@ -1,6 +1,6 @@
 # Husa & Zeyada
 
-Husa & Zeyada is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Óbuda Bay, Budapest on Sat, 17 Oct 2026.
+Husa & Zeyada is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Óbuda Bay, Budapest on Sat, 17 Oct 2026.
 
 Husa & Zeyada are a progressive house and deep house duo based in Egypt, with 9 gigs on soundcheck across Budapest, Ibiza, London and Mexico City and 2 more. Often billed alongside Mustafa Ismaeel, Antaares and Dexter Crowe. Next up: Óbuda Bay, Budapest on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Husa & Zeyada are a progressive house and deep house duo based in Egypt, with 9 
 
 Mustafa Ismaeel, Antaares, Dexter Crowe
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/husazeyada-2/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/husazeyada-2/)*

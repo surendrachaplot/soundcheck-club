@@ -1,6 +1,6 @@
 # Yachtklub
 
-Yachtklub is a music venue in Frankfurt with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "NSB code (Hard Groove / Techno)" on Fri, 9 Oct 2026.
+Yachtklub is a music venue in Frankfurt with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "NSB code (Hard Groove / Techno)" on Fri, 9 Oct 2026.
 
 Yachtklub is a music venue in Frankfurt listed on soundcheck. 2 upcoming gigs, with line-ups including Adriano Guglielmo, Chesney and IraYa. See dates, start times and who's playing. Sachsenhäuser Ufer, 60594 Frankfurt am Main, Germany.
 
@@ -15,4 +15,4 @@ Yachtklub is a music venue in Frankfurt listed on soundcheck. 2 upcoming gigs, w
 
 Sachsenhäuser Ufer, 60594 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/yachtklub/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/yachtklub/)*

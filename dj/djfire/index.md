@@ -1,6 +1,6 @@
 # DJ Fire
 
-DJ Fire is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at DJ Bar Bridge, Tokyo on Fri, 16 Oct 2026.
+DJ Fire is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at DJ Bar Bridge, Tokyo on Fri, 16 Oct 2026.
 
 DJ Fire is a house and techno artist, with 4 gigs on soundcheck across New York City and Tokyo. Often billed alongside Anthony Parasole, Blazer Sound System and Deejay Energy. Next up: DJ Bar Bridge, Tokyo on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ DJ Fire is a house and techno artist, with 4 gigs on soundcheck across New York 
 
 Anthony Parasole, Blazer Sound System, Deejay Energy
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfire/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfire/)*

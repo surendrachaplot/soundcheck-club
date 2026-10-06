@@ -1,6 +1,6 @@
 # FATIA
 
-FATIA is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Thu, 22 Oct 2026.
+FATIA is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Thu, 22 Oct 2026.
 
 FATIA is a house and afro house artist based in Belgium, with 9 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside AMARE, René Opsedee and Rodham. Next up: Nicholas Groente & Fruit, Amsterdam on Thu 22 Oct.
 
@@ -9,7 +9,7 @@ FATIA is a house and afro house artist based in Belgium, with 9 gigs on soundche
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Nicholas Groente & Fruit | Amsterdam |
-| Sat, 24 Oct 2026 | Amsterdam Club Train | Amsterdam |
+| Sat, 24 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ FATIA is a house and afro house artist based in Belgium, with 9 gigs on soundche
 
 AMARE, René Opsedee, Rodham
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fatia/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fatia/)*

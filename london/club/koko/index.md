@@ -1,6 +1,6 @@
 # KOKO
 
-KOKO is a music venue in London with 31 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "KOKO Electronic: Swimming Paul" on Fri, 9 Oct 2026.
+KOKO is a music venue in London with 31 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "KOKO Electronic: Swimming Paul" on Fri, 9 Oct 2026.
 
 KOKO is a music venue in London listed on soundcheck. 31 upcoming gigs, with line-ups including Andrea Oliva, Argia, Arnie Wrong and ARODES and 2 more. See dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
 
@@ -23,4 +23,4 @@ KOKO is a music venue in London listed on soundcheck. 31 upcoming gigs, with lin
 
 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom, London
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*

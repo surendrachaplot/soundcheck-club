@@ -1,6 +1,6 @@
 # Ignez
 
-Ignez is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 9 Oct 2026.
+Ignez is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 9 Oct 2026.
 
 Ignez is a techno and house artist based in Netherlands, with 201 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 59 more. Often billed alongside Yanamaste, Inox Traxx and MARRØN. Next up: Tokonoma Club, Frankfurt on Fri 9 Oct.
 
@@ -36,4 +36,4 @@ Ignez is a techno and house artist based in Netherlands, with 201 gigs on soundc
 
 Yanamaste, Inox Traxx, MARRØN
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*

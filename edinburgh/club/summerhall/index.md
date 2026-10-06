@@ -1,17 +1,18 @@
 # Summerhall
 
-Summerhall is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. The next is "Tierhaus invites Leon Schanzenbach + more: Halloween special @ Summerall, Newington" on Sat, 31 Oct 2026.
+Summerhall is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Tierhaus Halloween special @ Summerhall, Newington" on Sat, 31 Oct 2026.
 
-Summerhall is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig, with line-ups including LEON SCHANZENBACH. See dates, start times and who's playing. 1 Summerhall, Edinburgh, EH9 1PL.
+Summerhall is a music venue in Edinburgh listed on soundcheck. 2 upcoming gigs, with line-ups including LEON SCHANZENBACH. See dates, start times and who's playing. 1 Summerhall, Edinburgh, EH9 1PL.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Tierhaus invites Leon Schanzenbach + more: Halloween special @ Summerall, Newington | LEON SCHANZENBACH |
+| Sat, 31 Oct 2026 | Tierhaus Halloween special @ Summerhall, Newington | LEON SCHANZENBACH |
+| Sat, 28 Nov 2026 | Tierhaus invites LEON SCHANZENBACH + more at Summerhall, Newington | LEON SCHANZENBACH |
 
 ## Address
 
 1 Summerhall, Edinburgh, EH9 1PL, Edinburgh
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/summerhall/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/summerhall/)*

@@ -1,6 +1,6 @@
 # Arkadiusz Dmytrow
 
-Arkadiusz Dmytrow is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
+Arkadiusz Dmytrow is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
 
 Arkadiusz Dmytrow is a house and tech house artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside Maria Theresia von Eberg, francesca (DE) and Ata. Next up: Kater, Berlin on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Arkadiusz Dmytrow is a house and tech house artist based in Germany, with 5 gigs
 
 Maria Theresia von Eberg, francesca (DE), Ata
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arkadiuszdmytrow/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arkadiuszdmytrow/)*

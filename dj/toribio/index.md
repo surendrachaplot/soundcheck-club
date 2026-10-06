@@ -1,6 +1,6 @@
 # Toribio
 
-Toribio is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Djoon, Paris on Fri, 9 Oct 2026.
+Toribio is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Djoon, Paris on Fri, 9 Oct 2026.
 
 Toribio is a house and disco artist based in United States of America, with 218 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Mickey Perez, Love Injection and Guthrie. Next up: Djoon, Paris on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Toribio is a house and disco artist based in United States of America, with 218 
 
 Mickey Perez, Love Injection, Guthrie
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*

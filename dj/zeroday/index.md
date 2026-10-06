@@ -1,6 +1,6 @@
 # zeroday
 
-zeroday is a Electronica and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at underiolo, Warsaw on Fri, 16 Oct 2026.
+zeroday is a Electronica and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at underiolo, Warsaw on Fri, 16 Oct 2026.
 
 zeroday is an electronica and minimal artist based in Ukraine, with 48 gigs on soundcheck across Berlin, Krakow and Warsaw. Often billed alongside Slowmode, JESS.mp5 and Salat. Next up: underiolo, Warsaw on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ zeroday is an electronica and minimal artist based in Ukraine, with 48 gigs on s
 
 Slowmode, JESS.mp5, Salat
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeroday/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeroday/)*

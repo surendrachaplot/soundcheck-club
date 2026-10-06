@@ -1,6 +1,6 @@
 # Hardsoul
 
-Hardsoul is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Poppodium Volt, Netherlands on Fri, 30 Oct 2026.
+Hardsoul is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Poppodium Volt, Netherlands on Fri, 30 Oct 2026.
 
 Hardsoul is a funk / soul and house artist based in Netherlands, with 4 gigs on soundcheck across Ibiza, Liverpool and Netherlands. Often billed alongside ROOG, ALXS and Brian S.. Next up: Poppodium Volt, Netherlands on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ Hardsoul is a funk / soul and house artist based in Netherlands, with 4 gigs on 
 
 ROOG, ALXS, Brian S.
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hardsoul/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hardsoul/)*

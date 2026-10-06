@@ -1,6 +1,6 @@
 # DJ Gregory
 
-DJ Gregory is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Das Viertel, Basel on Sat, 10 Oct 2026.
+DJ Gregory is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Das Viertel, Basel on Sat, 10 Oct 2026.
 
 DJ Gregory is a house and afro house artist based in France, with 24 gigs on soundcheck across Amsterdam, Basel, Birmingham and Edinburgh and 8 more. Often billed alongside Bob Sinclar, Laurent Garnier and Marina Trench. Next up: Das Viertel, Basel on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ DJ Gregory is a house and afro house artist based in France, with 24 gigs on sou
 
 Bob Sinclar, Laurent Garnier, Marina Trench
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgregory/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgregory/)*

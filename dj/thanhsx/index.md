@@ -1,6 +1,6 @@
 # Thanhsx
 
-Thanhsx is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Fucine Vulcano, Milan on Sat, 10 Oct 2026.
+Thanhsx is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Fucine Vulcano, Milan on Sat, 10 Oct 2026.
 
 Thanhsx is a house and acid artist based in Italy, with 9 gigs on soundcheck across Milan. Often billed alongside Kingsizebed, 131bpm and R.ocks. Next up: Fucine Vulcano, Milan on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Thanhsx is a house and acid artist based in Italy, with 9 gigs on soundcheck acr
 
 Kingsizebed, 131bpm, R.ocks
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thanhsx/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thanhsx/)*

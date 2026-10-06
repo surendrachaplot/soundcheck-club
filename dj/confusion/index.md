@@ -1,6 +1,6 @@
 # Confusion
 
-Confusion is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Blast Galaxy, Amsterdam on Fri, 23 Oct 2026.
+Confusion is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Blast Galaxy, Amsterdam on Fri, 23 Oct 2026.
 
 Confusion is a techno and minimal techno artist based in Germany, with 20 gigs on soundcheck across Amsterdam, Berlin, Düsseldorf and Frankfurt and 4 more. Often billed alongside Nastaran, CAIVA and Nortsch. Next up: Blast Galaxy, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Confusion is a techno and minimal techno artist based in Germany, with 20 gigs o
 
 Nastaran, CAIVA, Nortsch
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/confusion/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/confusion/)*

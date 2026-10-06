@@ -1,6 +1,6 @@
 # Robbie Lumpkin
 
-Robbie Lumpkin is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Outer Heaven, New York City on Wed, 14 Oct 2026.
+Robbie Lumpkin is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Outer Heaven, New York City on Wed, 14 Oct 2026.
 
 Robbie Lumpkin is a house and minimal artist based in United States of America, with 5 gigs on soundcheck across New York City. Often billed alongside A-Kintero, For Future's Sake and Kate Garvey. Next up: Outer Heaven, New York City on Wed 14 Oct.
 
@@ -21,4 +21,4 @@ Robbie Lumpkin is a house and minimal artist based in United States of America, 
 
 A-Kintero, For Future's Sake, Kate Garvey
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robbielumpkin/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robbielumpkin/)*

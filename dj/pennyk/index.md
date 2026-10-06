@@ -1,6 +1,6 @@
 # Penny K
 
-Penny K is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Base Events Venue, Cyprus on Fri, 6 Aug 2027.
+Penny K is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Base Events Venue, Cyprus on Fri, 6 Aug 2027.
 
 Penny K is an electronic artist based in Cyprus, with 5 gigs on soundcheck across Athens, Berlin, Cyprus and Oslo. Often billed alongside Dreus, AWEN and Adam Beyer. Next up: Base Events Venue, Cyprus on Fri 6 Aug.
 
@@ -21,4 +21,4 @@ Penny K is an electronic artist based in Cyprus, with 5 gigs on soundcheck acros
 
 Dreus, AWEN, Adam Beyer
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pennyk/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pennyk/)*

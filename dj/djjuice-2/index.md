@@ -1,6 +1,6 @@
 # DJ Juice (2)
 
-DJ Juice (2) is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Thu, 8 Oct 2026.
+DJ Juice (2) is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Thu, 8 Oct 2026.
 
 DJ Juice is a progressive house and house artist based in Australia, with 5 gigs on soundcheck across Leeds, Melbourne and Tokyo. Often billed alongside Casper Collins, Midnight Boil and Subaske. Next up: UTOPIA / DYSTOPIA, Tokyo on Thu 8 Oct.
 
@@ -21,4 +21,4 @@ DJ Juice is a progressive house and house artist based in Australia, with 5 gigs
 
 Casper Collins, Midnight Boil, Subaske
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjuice-2/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjuice-2/)*

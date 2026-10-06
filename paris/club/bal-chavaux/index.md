@@ -1,6 +1,6 @@
 # Bal Chavaux
 
-Bal Chavaux is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Volteface Anniversary" on Fri, 9 Oct 2026.
+Bal Chavaux is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Volteface Anniversary" on Fri, 9 Oct 2026.
 
 Bal Chavaux is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Adam Pits, Azo, Camion Bazar and Canine Cracks and 2 more. See dates, start times and who's playing. 1 Av. de la Résistance, 93100 Montreuil.
 
@@ -17,4 +17,4 @@ Bal Chavaux is a music venue in Paris listed on soundcheck. 4 upcoming gigs, wit
 
 1 Av. de la Résistance, 93100 Montreuil, Paris
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/bal-chavaux/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/bal-chavaux/)*

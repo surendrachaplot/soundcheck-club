@@ -1,6 +1,6 @@
 # TaoFu
 
-TaoFu is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Factory 47, Hanoi on Fri, 9 Oct 2026.
+TaoFu is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Factory 47, Hanoi on Fri, 9 Oct 2026.
 
 TaoFu is a tech house and techno artist, with 5 gigs on soundcheck across Bangkok, Hanoi, Seoul and Singapore. Often billed alongside Di Linh, Miss Lil and Ouissam. Next up: Factory 47, Hanoi on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ TaoFu is a tech house and techno artist, with 5 gigs on soundcheck across Bangko
 
 Di Linh, Miss Lil, Ouissam
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taofu/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taofu/)*

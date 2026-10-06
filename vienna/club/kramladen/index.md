@@ -1,6 +1,6 @@
 # Kramladen
 
-Kramladen is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "TECHNO IM BOGEN" on Sat, 10 Oct 2026.
+Kramladen is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "TECHNO IM BOGEN" on Sat, 10 Oct 2026.
 
 Kramladen is a music venue in Vienna listed on soundcheck. 2 upcoming gigs, with line-ups including Fede Frostl, Groefer and Huebl. See dates, start times and who's playing. U-Bahnbogen 39-40, Lerchenfeldergürtel, 1080 Wien.
 
@@ -15,4 +15,4 @@ Kramladen is a music venue in Vienna listed on soundcheck. 2 upcoming gigs, with
 
 U-Bahnbogen 39-40, Lerchenfeldergürtel, 1080 Wien, Vienna
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/kramladen/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/kramladen/)*

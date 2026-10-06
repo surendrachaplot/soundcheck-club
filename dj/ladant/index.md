@@ -1,6 +1,6 @@
 # Ladant
 
-Ladant is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Avant Garten, Buenos Aires on Fri, 18 Dec 2026.
+Ladant is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Avant Garten, Buenos Aires on Fri, 18 Dec 2026.
 
 Ladant is a house and minimal artist based in Argentina, with 4 gigs on soundcheck across Buenos Aires. Often billed alongside Smitarello, Rast.. and Manu Oubiña. Next up: Avant Garten, Buenos Aires on Fri 18 Dec.
 
@@ -20,4 +20,4 @@ Ladant is a house and minimal artist based in Argentina, with 4 gigs on soundche
 
 Smitarello, Rast.., Manu Oubiña
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladant/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladant/)*

@@ -1,6 +1,6 @@
 # Switch
 
-Switch is a music venue in Porto with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Dan Shake" on Sat, 10 Oct 2026.
+Switch is a music venue in Porto with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Dan Shake" on Sat, 10 Oct 2026.
 
 Switch is a music venue in Porto listed on soundcheck. 4 upcoming gigs, with line-ups including Dan Shake, DJ Vibe, Jonathan Kaspar and Luke Alessi and 2 more. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Switch is a music venue in Porto listed on soundcheck. 4 upcoming gigs, with lin
 | Sat, 17 Oct 2026 | Luke Alessi + Cuba | Luke Alessi |
 | Sat, 31 Oct 2026 | Halloween Switch with DJ Vibe & More | DJ Vibe, MXGPU, Moullinex |
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/switch/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/switch/)*

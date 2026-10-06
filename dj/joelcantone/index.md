@@ -1,6 +1,6 @@
 # Joel Cantone
 
-Joel Cantone is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Chinese Laundry, Sydney on Sat, 10 Oct 2026.
+Joel Cantone is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Chinese Laundry, Sydney on Sat, 10 Oct 2026.
 
 Joel Cantone is a house and tech house artist based in Australia, with 21 gigs on soundcheck across Bali, Brisbane, Manchester and Melbourne and 1 more. Often billed alongside Aidan Bega, RSquared and Adam Holt. Next up: Chinese Laundry, Sydney on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Joel Cantone is a house and tech house artist based in Australia, with 21 gigs o
 
 Aidan Bega, RSquared, Adam Holt
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joelcantone/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joelcantone/)*

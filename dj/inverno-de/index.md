@@ -1,6 +1,6 @@
 # INVERNO
 
-INVERNO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 6 Nov 2026.
+INVERNO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 6 Nov 2026.
 
 INVERNO is a techno and house artist based in Germany, with 75 gigs on soundcheck across Berlin, Brussels, Hamburg and Krakow and 10 more. Often billed alongside Ká (DE), Triqi and hripsime. Next up: TBA - Secret Location, Berlin on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ INVERNO is a techno and house artist based in Germany, with 75 gigs on soundchec
 
 Ká (DE), Triqi, hripsime
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inverno-de/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inverno-de/)*

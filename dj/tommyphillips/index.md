@@ -1,14 +1,13 @@
 # Tommy Phillips
 
-Tommy Phillips is a Tech House and House artist with 13 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Amnesia Ibiza, Ibiza on Mon, 5 Oct 2026.
+Tommy Phillips is a Tech House and House artist with 13 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Camp and Furnace, Liverpool on Fri, 9 Oct 2026.
 
-Tommy Phillips is a tech house and house artist based in United Kingdom, with 75 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 28 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: Amnesia Ibiza, Ibiza on Mon 5 Oct.
+Tommy Phillips is a tech house and house artist based in United Kingdom, with 76 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Austin and 29 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: Camp and Furnace, Liverpool on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 5 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Camp and Furnace | Liverpool |
 | Tue, 20 Oct 2026 | Odyssey Cork | Cork |
 | Wed, 21 Oct 2026 | Electric Galway | Galway |
@@ -20,9 +19,11 @@ Tommy Phillips is a tech house and house artist based in United Kingdom, with 75
 | Fri, 4 Dec 2026 | Coda | Toronto |
 | Sat, 5 Dec 2026 | Descent | Boston |
 | Sun, 13 Dec 2026 | Superior Ingredients | New York City |
+| Thu, 31 Dec 2026 | Petco Park | San-diego |
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza · Mon, 5 Oct 2026
 - DRUMSHEDS, London · Sat, 3 Oct 2026
 - 528 Ibiza, Ibiza · Sun, 20 Sept 2026
 - TBA - KENT COUNTY SHOWGROUND, London · Sat, 12 Sept 2026
@@ -30,10 +31,9 @@ Tommy Phillips is a tech house and house artist based in United Kingdom, with 75
 - A.i Warehouse, Washington DC · Sat, 5 Sept 2026
 - Kelvedon Hall, London · Sat, 29 Aug 2026
 - Boomerang Beach, The Hague · Sun, 23 Aug 2026
-- Audio SF, San Francisco/Oakland · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Joss Dean, Max Dean, Luke Dean_
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*

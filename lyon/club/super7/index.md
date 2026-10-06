@@ -1,6 +1,6 @@
 # Super7
 
-Super7 is a music venue in Lyon with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Super7, lieu de vie et club" on Thu, 8 Oct 2026.
+Super7 is a music venue in Lyon with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Super7, lieu de vie et club" on Thu, 8 Oct 2026.
 
 Super7 is a music venue in Lyon listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. 40 rue Saint-Jérôme 69007 Lyon.
 
@@ -17,4 +17,4 @@ Super7 is a music venue in Lyon listed on soundcheck. 4 upcoming gigs. See dates
 
 40 rue Saint-Jérôme 69007 Lyon, Lyon
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super7/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super7/)*

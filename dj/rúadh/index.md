@@ -1,6 +1,6 @@
 # Rúadh
 
-Rúadh is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The DBA, Manchester on Thu, 15 Oct 2026.
+Rúadh is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The DBA, Manchester on Thu, 15 Oct 2026.
 
 Rúadh is a techno and house artist based in United Kingdom, with 9 gigs on soundcheck across Manchester. Often billed alongside Deventi, Jase Jeffery and Connor (UK). Next up: The DBA, Manchester on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Rúadh is a techno and house artist based in United Kingdom, with 9 gigs on soun
 
 Deventi, Jase Jeffery, Connor (UK)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rúadh/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rúadh/)*

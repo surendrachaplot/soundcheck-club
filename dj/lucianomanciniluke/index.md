@@ -1,6 +1,6 @@
 # Luciano Mancini Luke
 
-Luciano Mancini Luke is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Bar22, Amsterdam on Sun, 25 Oct 2026.
+Luciano Mancini Luke is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Bar22, Amsterdam on Sun, 25 Oct 2026.
 
 Luciano Mancini Luke is a techno artist based in Italy, with 5 gigs on soundcheck across Amsterdam and London. Often billed alongside Tribe Dj, Paolo Tossio and Erica (IT). Next up: Bar22, Amsterdam on Sun 25 Oct.
 
@@ -21,4 +21,4 @@ Luciano Mancini Luke is a techno artist based in Italy, with 5 gigs on soundchec
 
 Tribe Dj, Paolo Tossio, Erica (IT)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucianomanciniluke/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucianomanciniluke/)*

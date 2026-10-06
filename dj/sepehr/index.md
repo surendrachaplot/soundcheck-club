@@ -1,6 +1,6 @@
 # Sepehr
 
-Sepehr is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Open Ground, Wuppertal on Sat, 24 Oct 2026.
+Sepehr is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Open Ground, Wuppertal on Sat, 24 Oct 2026.
 
 Sepehr is a techno and house artist based in United States of America, with 133 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 33 more. Often billed alongside Elena Colombi, Kia (AU) and Objekt. Next up: Open Ground, Wuppertal on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Sepehr is a techno and house artist based in United States of America, with 133 
 
 Elena Colombi, Kia (AU), Objekt
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sepehr/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sepehr/)*

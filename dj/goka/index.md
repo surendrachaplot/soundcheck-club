@@ -1,6 +1,6 @@
 # Goka
 
-Goka is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Spaceroom, Tbilisi on Fri, 23 Oct 2026.
+Goka is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Spaceroom, Tbilisi on Fri, 23 Oct 2026.
 
 Goka is a dubstep and bass artist, with 4 gigs on soundcheck across Tbilisi. Often billed alongside The Machete Boyz, irrationalizard and RafDog. Next up: TBA - Spaceroom, Tbilisi on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ Goka is a dubstep and bass artist, with 4 gigs on soundcheck across Tbilisi. Oft
 
 The Machete Boyz, irrationalizard, RafDog
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goka/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goka/)*

@@ -1,6 +1,6 @@
 # Dogs I Know
 
-Dogs I Know is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Bluesquare, Milan on Sat, 10 Oct 2026.
+Dogs I Know is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Bluesquare, Milan on Sat, 10 Oct 2026.
 
 Dogs I Know is a techno and house artist, with 14 gigs on soundcheck across Milan. Often billed alongside Cristian Comes, Matteo Busan and Kang Brulèe. Next up: Bluesquare, Milan on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Dogs I Know is a techno and house artist, with 14 gigs on soundcheck across Mila
 
 Cristian Comes, Matteo Busan, Kang Brulèe
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dogsiknow/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dogsiknow/)*

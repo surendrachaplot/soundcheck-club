@@ -1,6 +1,6 @@
 # Jennifer Loveless
 
-Jennifer Loveless is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at 528 Ibiza, Ibiza on Tue, 6 Oct 2026.
+Jennifer Loveless is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at 528 Ibiza, Ibiza on Tue, 6 Oct 2026.
 
 Jennifer Loveless is a house and techno artist based in Australia, with 251 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 55 more. Often billed alongside Fafi Abdel Nour, ISAbella and BASHKKA. Next up: 528 Ibiza, Ibiza on Tue 6 Oct.
 
@@ -34,4 +34,4 @@ Jennifer Loveless is a house and techno artist based in Australia, with 251 gigs
 
 Fafi Abdel Nour, ISAbella, BASHKKA
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*

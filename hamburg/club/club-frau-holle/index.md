@@ -1,6 +1,6 @@
 # Club Frau Holle
 
-Club Frau Holle is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "ohschonhell Session" on Fri, 9 Oct 2026.
+Club Frau Holle is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "ohschonhell Session" on Fri, 9 Oct 2026.
 
 Club Frau Holle is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with line-ups including Batte, Rainer Wachtelborn and Timeless Moments. See dates, start times and who's playing. Friedrichsstrasse 9, 20359 Hamburg.
 
@@ -15,4 +15,4 @@ Club Frau Holle is a music venue in Hamburg listed on soundcheck. 2 upcoming gig
 
 Friedrichsstrasse 9, 20359 Hamburg, Hamburg
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*

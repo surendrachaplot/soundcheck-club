@@ -1,6 +1,6 @@
 # M.O.T
 
-M.O.T is a music venue in London with 39 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Peterparker69, 1LDK & Bornstars [Eastern Margins & FORM presents]" on Wed, 7 Oct 2026.
+M.O.T is a music venue in London with 39 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Peterparker69, 1LDK & Bornstars [Eastern Margins & FORM presents]" on Wed, 7 Oct 2026.
 
 M.O.T is a music venue in London listed on soundcheck. 39 upcoming gigs, with line-ups including 1LDK, abs8lute, Addison Groove and Agility and 2 more. See dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
@@ -23,4 +23,4 @@ M.O.T is a music venue in London listed on soundcheck. 39 upcoming gigs, with li
 
 Orion Business Centre, Surrey Canal Rd SE14 5RT, London
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*

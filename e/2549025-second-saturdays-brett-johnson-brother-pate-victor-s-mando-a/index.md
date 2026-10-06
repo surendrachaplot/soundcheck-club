@@ -1,11 +1,11 @@
-# SECOND SATURDAYS: Brett Johnson, Brother Pate, Victor S + Mando at Xuxa
+# SECOND SATURDAYS: Brett Johnson, Brother Pate, Victor S + Mando at Neon Grotto
 
-SECOND SATURDAYS: Brett Johnson, Brother Pate, Victor S + Mando at Xuxa on Sat 10 Oct, Austin. 2 artists: Brett Johnson and Brother Pate. House and Minimal. See the line-up on soundcheck.
+SECOND SATURDAYS: Brett Johnson, Brother Pate, Victor S + Mando at Neon Grotto on Sat 10 Oct, Austin. 2 artists: Brett Johnson and Brother Pate. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 10 Oct 2026 |
-| Venue | Xuxa |
+| Venue | Neon Grotto |
 | City | Austin |
 
 ## Line-up

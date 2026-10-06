@@ -1,6 +1,6 @@
 # Yoey
 
-Yoey is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 31 Oct 2026.
+Yoey is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 31 Oct 2026.
 
 Yoey is a techno and house artist, with 5 gigs on soundcheck across Amsterdam and San Diego. Often billed alongside Christoph Cham, Dari¥a and Gostoso. Next up: Toekomstmuziek, Amsterdam on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Yoey is a techno and house artist, with 5 gigs on soundcheck across Amsterdam an
 
 Christoph Cham, Dari¥a, Gostoso
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoey/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoey/)*

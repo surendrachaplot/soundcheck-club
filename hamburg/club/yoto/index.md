@@ -1,6 +1,6 @@
 # YOTO
 
-YOTO is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "KXA 'New Era' Releaseparty - hosted by ONLY1WAY" on Fri, 9 Oct 2026.
+YOTO is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "KXA 'New Era' Releaseparty - hosted by ONLY1WAY" on Fri, 9 Oct 2026.
 
 YOTO is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with line-ups including Kofi Ryan. See dates, start times and who's playing. Basement, Schulterblatt 73, 20357 Hamburg, Germany.
 
@@ -16,4 +16,4 @@ YOTO is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with lin
 
 Basement, Schulterblatt 73, 20357 Hamburg, Germany, Hamburg
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/yoto/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/yoto/)*

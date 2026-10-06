@@ -1,6 +1,6 @@
 # DJ Linda
 
-DJ Linda is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 19 Oct 2026.
+DJ Linda is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 19 Oct 2026.
 
 DJ Linda is an experimental and techno artist, with 5 gigs on soundcheck across Istanbul and New York City. Often billed alongside Bookworms, Max Watts and Niyah West. Next up: Bossa Nova Civic Club, New York City on Mon 19 Oct.
 
@@ -21,4 +21,4 @@ DJ Linda is an experimental and techno artist, with 5 gigs on soundcheck across 
 
 Bookworms, Max Watts, Niyah West
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlinda/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlinda/)*

@@ -1,6 +1,6 @@
 # LO-LOW
 
-LO-LOW is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 18 Oct 2026.
+LO-LOW is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 18 Oct 2026.
 
 LO-LOW is a techno and house artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Berlin, London and Manchester and 2 more. Often billed alongside David Ramsay, Samantha Togni and Jeneva. Next up: Starlane Pizza Bar, London on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ LO-LOW is a techno and house artist based in United Kingdom, with 86 gigs on sou
 
 David Ramsay, Samantha Togni, Jeneva
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lo-low/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lo-low/)*

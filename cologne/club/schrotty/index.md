@@ -1,6 +1,6 @@
 # Schrotty
 
-Schrotty is a music venue in Cologne with 10 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "240 KM/H pres. Serafina B2B ALL NIGHT LONG" on Fri, 9 Oct 2026.
+Schrotty is a music venue in Cologne with 10 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "240 KM/H pres. Serafina B2B ALL NIGHT LONG" on Fri, 9 Oct 2026.
 
 Schrotty is a music venue in Cologne listed on soundcheck. 10 upcoming gigs, with line-ups including Andreas Kraemer, anyka, A*S*Y*S and BabaBass3000 and 2 more. See dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
 
@@ -23,4 +23,4 @@ Schrotty is a music venue in Cologne listed on soundcheck. 10 upcoming gigs, wit
 
 Vogelsanger Straße 406, 50827 Köln, Cologne
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*

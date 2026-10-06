@@ -1,6 +1,6 @@
 # Ness
 
-Ness is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
+Ness is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
 
 Ness is a techno and trance artist based in Italy, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 24 more. Often billed alongside Andrea Cossu, YUTA and Frank Heise. Next up: Bassiani, Tbilisi on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Ness is a techno and trance artist based in Italy, with 43 gigs on soundcheck ac
 
 Andrea Cossu, YUTA, Frank Heise
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ness/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ness/)*

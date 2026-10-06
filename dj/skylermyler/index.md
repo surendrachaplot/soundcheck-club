@@ -1,6 +1,6 @@
 # SKYLERMYLER
 
-SKYLERMYLER is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Phonox, London on Fri, 18 Dec 2026.
+SKYLERMYLER is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Phonox, London on Fri, 18 Dec 2026.
 
 SKYLERMYLER is an electronica and house artist based in United Kingdom, with 5 gigs on soundcheck across Glasgow and London. Often billed alongside CLO, Céleste and DART. Next up: Phonox, London on Fri 18 Dec.
 
@@ -21,4 +21,4 @@ SKYLERMYLER is an electronica and house artist based in United Kingdom, with 5 g
 
 CLO (2), Céleste, DART
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skylermyler/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skylermyler/)*

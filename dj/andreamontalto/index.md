@@ -1,6 +1,6 @@
 # Andrea Montalto
 
-Andrea Montalto is a Balearic and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Total Refreshment Centre, London on Sat, 10 Oct 2026.
+Andrea Montalto is a Balearic and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Total Refreshment Centre, London on Sat, 10 Oct 2026.
 
 Andrea Montalto is a balearic and disco artist based in United Kingdom, with 27 gigs on soundcheck across Bristol, Edinburgh, Glasgow and London and 2 more. Often billed alongside Joseph Russell, Kacper Pieta and Linga Sound. Next up: Total Refreshment Centre, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Andrea Montalto is a balearic and disco artist based in United Kingdom, with 27 
 
 Joseph Russell, Kacper Pieta, Linga Sound
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreamontalto/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreamontalto/)*

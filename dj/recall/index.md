@@ -1,6 +1,6 @@
 # recall
 
-recall is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Strasse E, Dresden on Sat, 31 Oct 2026.
+recall is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Strasse E, Dresden on Sat, 31 Oct 2026.
 
 recall is a house and funk / soul artist, with 5 gigs on soundcheck across Dresden, Frankfurt and Toronto. Often billed alongside 999ADJ, Anubis and DETEST. Next up: Strasse E, Dresden on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ recall is a house and funk / soul artist, with 5 gigs on soundcheck across Dresd
 
 999ADJ, Anubis, DETEST
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/recall/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/recall/)*

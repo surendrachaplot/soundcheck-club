@@ -1,6 +1,6 @@
 # Shaan (2)
 
-Shaan (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 1 Nov 2026.
+Shaan (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 1 Nov 2026.
 
 Shaan is a techno and house artist based in Denmark, with 7 gigs on soundcheck across Copenhagen. Often billed alongside Entree, Dennis DAFG and Frida(y). Next up: Pylonen - Frizonen Langebro, Copenhagen on Sun 1 Nov.
 
@@ -23,4 +23,4 @@ Shaan is a techno and house artist based in Denmark, with 7 gigs on soundcheck a
 
 Entree, Dennis DAFG, Frida(y)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaan-2/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaan-2/)*

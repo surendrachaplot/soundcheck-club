@@ -1,6 +1,6 @@
 # Soul Stew
 
-Soul Stew is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Space Studios, South-east on Sat, 10 Oct 2026.
+Soul Stew is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Space Studios, South-east on Sat, 10 Oct 2026.
 
 Soul Stew is a house and techno artist, with 9 gigs on soundcheck across Bristol, Copenhagen, Liverpool and London and 1 more. Often billed alongside Bill Please, Hot Cross Fun and Jack N. Next up: Space Studios, South East on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Soul Stew is a house and techno artist, with 9 gigs on soundcheck across Bristol
 
 Bill Please, Hot Cross Fun, Jack N
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulstew/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulstew/)*

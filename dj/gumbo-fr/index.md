@@ -1,6 +1,6 @@
 # Gumbo
 
-Gumbo is a House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at XOYO, London on Sat, 7 Nov 2026.
+Gumbo is a House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at XOYO, London on Sat, 7 Nov 2026.
 
 Gumbo is a house and latin bass artist based in France, with 4 gigs on soundcheck across London and Osaka. Often billed alongside KEi, Crissy Criss and DJ Hazard. Next up: XOYO, London on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ Gumbo is a house and latin bass artist based in France, with 4 gigs on soundchec
 
 KEi, Crissy Criss, DJ Hazard
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gumbo-fr/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gumbo-fr/)*

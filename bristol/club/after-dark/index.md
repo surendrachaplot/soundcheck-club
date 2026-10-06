@@ -1,6 +1,6 @@
 # After Dark
 
-After Dark is a music venue in Bristol with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "After Dark presents....Ruggz with Jazzo" on Sat, 10 Oct 2026.
+After Dark is a music venue in Bristol with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "After Dark presents....Ruggz with Jazzo" on Sat, 10 Oct 2026.
 
 After Dark is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, with line-ups including AÆE, Griff, Hayliegh and Jakobin and 2 more. See dates, start times and who's playing. Crusader House, 12 St Stephen's St, Bristol BS1 1EL.
 
@@ -18,4 +18,4 @@ After Dark is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, wi
 
 Crusader House, 12 St Stephen's St, Bristol BS1 1EL, Bristol
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/after-dark/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/after-dark/)*

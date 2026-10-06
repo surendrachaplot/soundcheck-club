@@ -1,6 +1,6 @@
 # Level Astoria
 
-Level Astoria is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. The next is "Motion Massacre Halloween Party" on Fri, 30 Oct 2026.
+Level Astoria is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "Motion Massacre Halloween Party" on Fri, 30 Oct 2026.
 
 Level Astoria is a music venue in New York City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Level Astoria Nightclub 23-66 Steinway Street.
 
@@ -14,4 +14,4 @@ Level Astoria is a music venue in New York City listed on soundcheck. 1 upcoming
 
 Level Astoria Nightclub 23-66 Steinway Street, New York City
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/level-astoria/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/level-astoria/)*

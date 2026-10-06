@@ -1,6 +1,6 @@
 # Obscur
 
-Obscur is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at 1912 Trnovo, Slovenia on Fri, 9 Oct 2026.
+Obscur is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at 1912 Trnovo, Slovenia on Fri, 9 Oct 2026.
 
 Obscur is a techno and electro artist based in Slovenia, with 11 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 4 more. Often billed alongside 04061, 314A and A.mo. Next up: 1912 Trnovo, Slovenia on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Obscur is a techno and electro artist based in Slovenia, with 11 gigs on soundch
 
 04061, 314A, A.mo
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obscur/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obscur/)*

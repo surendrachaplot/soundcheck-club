@@ -1,8 +1,8 @@
 # Argenis Brito
 
-Argenis Brito is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Yellow House, Amsterdam on Thu, 22 Oct 2026.
+Argenis Brito is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Yellow House, Amsterdam on Thu, 22 Oct 2026.
 
-Argenis Brito is a house and minimal artist based in Venezuela, with 38 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 7 more. Often billed alongside Dandy Jack, Nils Ohrmann and Israel Sunshine. Next up: Yellow House, Amsterdam on Thu 22 Oct.
+Argenis Brito is a house and techno artist based in Venezuela, with 39 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 7 more. Often billed alongside Dandy Jack, Nils Ohrmann and Israel Sunshine. Next up: Yellow House, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Argenis Brito is a house and minimal artist based in Venezuela, with 38 gigs on 
 | Thu, 22 Oct 2026 | Yellow House | Amsterdam |
 | Sat, 24 Oct 2026 | Hoppetosse | Berlin |
 | Fri, 30 Oct 2026 | Paraiso Estereo | Miami |
+| Sat, 31 Oct 2026 | H0L0 | New York City |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Argenis Brito is a house and minimal artist based in Venezuela, with 38 gigs on 
 
 Dandy Jack, Nils Ohrmann, Israel Sunshine
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/argenisbrito/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/argenisbrito/)*

@@ -1,6 +1,6 @@
 # 131bpm
 
-131bpm is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Fucine Vulcano, Milan on Sat, 10 Oct 2026.
+131bpm is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Fucine Vulcano, Milan on Sat, 10 Oct 2026.
 
 131bpm is a house and techno artist, with 128 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 25 more. Often billed alongside Camilla Rae, Aaron Blau and Stella Zekri. Next up: Fucine Vulcano, Milan on Sat 10 Oct.
 
@@ -27,4 +27,4 @@
 
 Camilla Rae, Aaron Blau, Stella Zekri
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/131bpm/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/131bpm/)*

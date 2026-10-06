@@ -1,6 +1,6 @@
 # Ben Klock
 
-Ben Klock is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 10 Oct 2026.
+Ben Klock is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 10 Oct 2026.
 
 Ben Klock is a techno and house artist based in Germany, with 266 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 60 more. Often billed alongside Marcel Dettmann, Fadi Mohem and Rødhåd. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 10 Oct.
 
@@ -36,4 +36,4 @@ Ben Klock is a techno and house artist based in Germany, with 266 gigs on soundc
 
 Marcel Dettmann, Fadi Mohem, Rødhåd
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*

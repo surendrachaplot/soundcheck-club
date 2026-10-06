@@ -1,6 +1,6 @@
 # The Shapeshifters
 
-The Shapeshifters is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Joshua Brooks, Manchester on Sat, 10 Oct 2026.
+The Shapeshifters is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Joshua Brooks, Manchester on Sat, 10 Oct 2026.
 
 The Shapeshifters is a house and disco artist based in United Kingdom, with 122 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 30 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Natasha Diggs. Next up: Joshua Brooks, Manchester on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ The Shapeshifters is a house and disco artist based in United Kingdom, with 122 
 
 Melvo Baptiste, Horse Meat Disco, Natasha Diggs
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shapeshifters/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shapeshifters/)*

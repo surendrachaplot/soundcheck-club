@@ -1,6 +1,6 @@
 # Alex Q (3)
 
-Alex Q (3) is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Yard, Manchester on Sat, 7 Nov 2026.
+Alex Q (3) is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Yard, Manchester on Sat, 7 Nov 2026.
 
 Alex Q is an electro and techno artist based in United Kingdom, with 4 gigs on soundcheck across Manchester. Often billed alongside Cruveiller, ADNR and Onur Özer. Next up: The Yard, Manchester on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ Alex Q is an electro and techno artist based in United Kingdom, with 4 gigs on s
 
 Cruveiller, ADNR, Onur Özer
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexq-3/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexq-3/)*

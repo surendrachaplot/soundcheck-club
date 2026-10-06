@@ -1,6 +1,6 @@
 # Camo & Krooked
 
-Camo & Krooked is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Camo & Krooked is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
 Camo & Krooked are a drum & bass and jungle duo based in Austria, with 80 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 33 more. Often billed alongside Mefjus, Disrupta and Kanine. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
@@ -16,6 +16,7 @@ Camo & Krooked are a drum & bass and jungle duo based in Austria, with 80 gigs o
 
 ## Recently played
 
+- The Ivy, Sydney · Mon, 5 Oct 2026
 - The Trusts Stadium, Auckland · Sat, 3 Oct 2026
 - Wolfbrook Arena, Christchurch · Fri, 2 Oct 2026
 - Burswood Dome, Perth · Sun, 27 Sept 2026
@@ -23,10 +24,9 @@ Camo & Krooked are a drum & bass and jungle duo based in Austria, with 80 gigs o
 - UNO MALTA, Malta · Thu, 3 Sept 2026
 - H2o6, Riga · Sat, 29 Aug 2026
 - Document, Bristol · Sat, 18 Jul 2026
-- Tägi, Zurich · Fri, 10 Jul 2026
 
 ## Shares bills with
 
 Mefjus, Disrupta, Kanine
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camokrooked/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camokrooked/)*

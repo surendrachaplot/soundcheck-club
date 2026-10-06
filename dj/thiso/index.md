@@ -1,6 +1,6 @@
 # THISO
 
-THISO is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Cabaret  Aléatoire, Marseille on Sat, 17 Oct 2026.
+THISO is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Cabaret  Aléatoire, Marseille on Sat, 17 Oct 2026.
 
 THISO is a techno and trance artist based in Netherlands, with 31 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Cologne and 11 more. Often billed alongside Niotech, 3LEEZA and AREA ØNE. Next up: Cabaret  Aléatoire, Marseille on Sat 17 Oct.
 
@@ -30,4 +30,4 @@ THISO is a techno and trance artist based in Netherlands, with 31 gigs on soundc
 
 Niotech, 3LEEZA, AREA ØNE
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thiso/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thiso/)*

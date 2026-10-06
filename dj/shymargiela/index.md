@@ -1,6 +1,6 @@
 # Shy Margiela
 
-Shy Margiela is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Boondocks, Houston on Sat, 10 Oct 2026.
+Shy Margiela is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Boondocks, Houston on Sat, 10 Oct 2026.
 
 Shy Margiela is a club and techno artist based in United States of America, with 10 gigs on soundcheck across Detroit, Houston, Los Angeles and Mexico City and 1 more. Often billed alongside Amarji King, HYPERFEMME and Mexican Jihad. Next up: Boondocks, Houston on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Shy Margiela is a club and techno artist based in United States of America, with
 
 Amarji King, HYPERFEMME, Mexican Jihad
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shymargiela/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shymargiela/)*

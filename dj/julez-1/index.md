@@ -1,6 +1,6 @@
 # Julez (1)
 
-Julez (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Berlin on Sat, 17 Oct 2026.
+Julez (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA, Berlin on Sat, 17 Oct 2026.
 
 Julez is a techno and house artist, with 4 gigs on soundcheck across Berlin, Cologne and Washington DC. Often billed alongside Acid Foxy, Annemalie and Arutani. Next up: TBA, Berlin on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ Julez is a techno and house artist, with 4 gigs on soundcheck across Berlin, Col
 
 Acid Foxy, Annemalie, Arutani
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julez-1/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julez-1/)*

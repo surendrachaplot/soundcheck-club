@@ -1,6 +1,6 @@
 # Fairhurst
 
-Fairhurst is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Freeze HiFi, Liverpool on Tue, 6 Oct 2026.
+Fairhurst is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Freeze HiFi, Liverpool on Tue, 6 Oct 2026.
 
 Fairhurst is a disco and house artist based in United Kingdom, with 28 gigs on soundcheck across Liverpool and Manchester. Often billed alongside Mark Hanson, Dance for Plants and Guevarism. Next up: Freeze HiFi, Liverpool on Tue 6 Oct.
 
@@ -25,4 +25,4 @@ Fairhurst is a disco and house artist based in United Kingdom, with 28 gigs on s
 
 Mark Hanson, Dance for Plants, Guevarism
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fairhurst/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fairhurst/)*

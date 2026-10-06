@@ -1,6 +1,6 @@
 # Tricky
 
-Tricky is a Experimental and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Fine Line Music Cafe, Minneapolis-st-paul on Tue, 6 Oct 2026.
+Tricky is a Experimental and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Fine Line Music Cafe, Minneapolis-st-paul on Tue, 6 Oct 2026.
 
 Tricky is an experimental and hip-hop artist based in United Kingdom, with 19 gigs on soundcheck across Bristol, Bucharest, Budapest and Copenhagen and 8 more. Often billed alongside Jenny C, Bassvictim and Beltran. Next up: Fine Line Music Cafe, Minneapolis St Paul on Tue 6 Oct.
 
@@ -26,4 +26,4 @@ Tricky is an experimental and hip-hop artist based in United Kingdom, with 19 gi
 
 Jenny C (1), Bassvictim, Beltran
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tricky/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tricky/)*

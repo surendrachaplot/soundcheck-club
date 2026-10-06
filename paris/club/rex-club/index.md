@@ -1,6 +1,6 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 17 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Tape: Maudux, PEAKSOU, Vespera, Naïs" on Wed, 7 Oct 2026.
+Rex Club is a music venue in Paris with 17 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Tape: Maudux, PEAKSOU, Vespera, Naïs" on Wed, 7 Oct 2026.
 
 Rex Club is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with line-ups including 2ManyDJs, Anja Sugar, Antal and Anthea and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
@@ -23,4 +23,4 @@ Rex Club is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with 
 
 5 boulevard Poissonnière; 75002; Paris; France, Paris
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*

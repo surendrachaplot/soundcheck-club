@@ -1,6 +1,6 @@
 # NYCO (NL)
 
-NYCO (NL) is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Toronto on Sat, 3 Oct 2026.
+NYCO (NL) is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA, Toronto on Sat, 3 Oct 2026.
 
 NYCO (NL) is a techno and trance artist based in Netherlands, with 33 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 11 more. Often billed alongside Cynthia Spiering, DURDENHAUER and KARAH. Next up: TBA, Toronto on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ NYCO (NL) is a techno and trance artist based in Netherlands, with 33 gigs on so
 
 Cynthia Spiering, DURDENHAUER, KARAH
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyco-nl/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyco-nl/)*

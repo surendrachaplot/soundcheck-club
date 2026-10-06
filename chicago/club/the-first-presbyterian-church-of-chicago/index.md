@@ -1,6 +1,6 @@
 # The First Presbyterian Church of Chicago
 
-The First Presbyterian Church of Chicago is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. The next is "Evensong" on Sat, 17 Oct 2026.
+The First Presbyterian Church of Chicago is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "Evensong" on Sat, 17 Oct 2026.
 
 The First Presbyterian Church of Chicago is a music venue in Chicago listed on soundcheck. 1 upcoming gig, with line-ups including Abisai, Hameedullah, JULLS and Swan Drama and 1 more. See dates, start times and who's playing. 6400 S Kimbark Ave, Chicago, IL 60637.
 
@@ -14,4 +14,4 @@ The First Presbyterian Church of Chicago is a music venue in Chicago listed on s
 
 6400 S Kimbark Ave, Chicago, IL 60637, Chicago
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-first-presbyterian-church-of-chicago/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-first-presbyterian-church-of-chicago/)*

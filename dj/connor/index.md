@@ -1,6 +1,6 @@
 # Connor
 
-Connor is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Mitsuki, Tokyo on Sat, 17 Oct 2026.
+Connor is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Mitsuki, Tokyo on Sat, 17 Oct 2026.
 
 Connor is a house and techno artist based in Japan, with 30 gigs on soundcheck across Kyoto, Melbourne, Osaka and Tokyo. Often billed alongside KABUTO, Shhhhh and DJ Shibata. Next up: Mitsuki, Tokyo on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Connor is a house and techno artist based in Japan, with 30 gigs on soundcheck a
 
 KABUTO, Shhhhh, DJ Shibata
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/connor/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/connor/)*

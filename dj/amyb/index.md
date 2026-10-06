@@ -1,6 +1,6 @@
 # Amy  B
 
-Amy  B is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Planet Wax, London on Sun, 11 Oct 2026.
+Amy  B is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Planet Wax, London on Sun, 11 Oct 2026.
 
 Amy  B is a drum & bass and jungle artist, with 6 gigs on soundcheck across London. Often billed alongside Slundarq, Badly Drawn Banana and DJ Brockie. Next up: Planet Wax, London on Sun 11 Oct.
 
@@ -22,4 +22,4 @@ Amy  B is a drum & bass and jungle artist, with 6 gigs on soundcheck across Lond
 
 Slundarq, Badly Drawn Banana, DJ Brockie
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amyb/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amyb/)*

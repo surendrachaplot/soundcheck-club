@@ -1,6 +1,6 @@
 # Lead Ore
 
-Lead Ore is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at De Fik Garden, Amsterdam on Sat, 24 Oct 2026.
+Lead Ore is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at De Fik Garden, Amsterdam on Sat, 24 Oct 2026.
 
 Lead Ore is a trance and techno artist based in Denmark, with 16 gigs on soundcheck across Amsterdam and Copenhagen. Often billed alongside CF682, Alexander Santana and DJ Spice. Next up: De Fik Garden, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Lead Ore is a trance and techno artist based in Denmark, with 16 gigs on soundch
 
 CF682, Alexander Santana, DJ Spice
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leadore/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leadore/)*

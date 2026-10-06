@@ -1,6 +1,6 @@
 # Nicco Lupen
 
-Nicco Lupen is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Richy Happy Bar, Prague on Sat, 10 Oct 2026.
+Nicco Lupen is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Richy Happy Bar, Prague on Sat, 10 Oct 2026.
 
 Nicco Lupen is a house and tech house artist based in Italy, with 41 gigs on soundcheck across Prague. Often billed alongside Sam Gittis, Romerlin and rockorosso. Next up: Richy Happy Bar, Prague on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Nicco Lupen is a house and tech house artist based in Italy, with 41 gigs on sou
 
 Sam Gittis, Romerlin, rockorosso
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niccolupen/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niccolupen/)*

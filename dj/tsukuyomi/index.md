@@ -1,6 +1,6 @@
 # Tsukuyomi
 
-Tsukuyomi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at KHIDI, Tbilisi on Sat, 10 Oct 2026.
+Tsukuyomi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at KHIDI, Tbilisi on Sat, 10 Oct 2026.
 
 Tsukuyomi is a techno and trance artist based in Georgia, with 22 gigs on soundcheck across Prague and Tbilisi. Often billed alongside Boyd Schidt, MSTN and Lilith.. Next up: KHIDI, Tbilisi on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Tsukuyomi is a techno and trance artist based in Georgia, with 22 gigs on soundc
 
 Boyd Schidt, MSTN, Lilith.
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsukuyomi/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsukuyomi/)*

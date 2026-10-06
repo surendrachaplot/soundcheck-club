@@ -1,6 +1,6 @@
 # Locre
 
-Locre is a Club and R&B artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 17 Oct 2026.
+Locre is a Club and R&B artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 17 Oct 2026.
 
 Locre is a club and r&b artist based in Germany, with 17 gigs on soundcheck across Berlin. Often billed alongside Warlord®, Anthracene and Sugar Barbie. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Locre is a club and r&b artist based in Germany, with 17 gigs on soundcheck acro
 
 Warlord®, Anthracene, Sugar Barbie
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locre/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locre/)*

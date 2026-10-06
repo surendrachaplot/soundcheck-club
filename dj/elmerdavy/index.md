@@ -1,6 +1,6 @@
 # ELMER DAVY
 
-ELMER DAVY is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - LFO, Madrid on Sat, 24 Oct 2026.
+ELMER DAVY is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - LFO, Madrid on Sat, 24 Oct 2026.
 
 ELMER DAVY is an electro and house artist based in Spain, with 5 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Andi, Codex Empire and Cyber. Next up: TBA - LFO, Madrid on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ ELMER DAVY is an electro and house artist based in Spain, with 5 gigs on soundch
 
 Andi, Codex Empire, Cyber (1)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elmerdavy/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elmerdavy/)*

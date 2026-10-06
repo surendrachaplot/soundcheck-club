@@ -1,6 +1,6 @@
 # FILM
 
-FILM is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at DeTour, Tokyo on Tue, 6 Oct 2026.
+FILM is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at DeTour, Tokyo on Tue, 6 Oct 2026.
 
 FILM is a house and techno artist, with 4 gigs on soundcheck across Bangkok, Lisbon, Miami and Tokyo. Often billed alongside BEPPU, Jirus (MELA) and Saku NewMoon. Next up: DeTour, Tokyo on Tue 6 Oct.
 
@@ -20,4 +20,4 @@ FILM is a house and techno artist, with 4 gigs on soundcheck across Bangkok, Lis
 
 BEPPU, Jirus (MELA), Saku NewMoon
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/film/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/film/)*

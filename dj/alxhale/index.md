@@ -1,6 +1,6 @@
 # Alx Hale
 
-Alx Hale is a Minimal and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Toronto on Sun, 11 Oct 2026.
+Alx Hale is a Minimal and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA, Toronto on Sun, 11 Oct 2026.
 
 Alx Hale is a minimal and deep house artist, with 4 gigs on soundcheck across Toronto. Often billed alongside Fabe, Fauren and Fido Dido. Next up: TBA, Toronto on Sun 11 Oct.
 
@@ -20,4 +20,4 @@ Alx Hale is a minimal and deep house artist, with 4 gigs on soundcheck across To
 
 Fabe, Fauren, Fido Dido
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alxhale/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alxhale/)*

@@ -1,6 +1,6 @@
 # Noto Philadelphia
 
-Noto Philadelphia is a music venue in Philadelphia with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "PTO: Anfisa Letyago" on Thu, 15 Oct 2026.
+Noto Philadelphia is a music venue in Philadelphia with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "PTO: Anfisa Letyago" on Thu, 15 Oct 2026.
 
 Noto Philadelphia is a music venue in Philadelphia listed on soundcheck. 6 upcoming gigs, with line-ups including ANDi MANDi, Anfisa Letyago, Joyhauser and Kobza and 2 more. See dates, start times and who's playing. 1209 Vine Street Philadelphia, Pennsylvania.
 
@@ -19,4 +19,4 @@ Noto Philadelphia is a music venue in Philadelphia listed on soundcheck. 6 upcom
 
 1209 Vine Street Philadelphia, Pennsylvania, Philadelphia
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/noto-philadelphia/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/noto-philadelphia/)*

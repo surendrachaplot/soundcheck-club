@@ -1,6 +1,6 @@
 # ädene
 
-ädene is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Vektor - The Klub, Budapest on Sat, 17 Oct 2026.
+ädene is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Vektor - The Klub, Budapest on Sat, 17 Oct 2026.
 
 ädene is a techno and industrial artist based in Hungary, with 52 gigs on soundcheck across Budapest. Often billed alongside Johanna Bozai, rav:n and Kamafaka. Next up: Vektor - The Klub, Budapest on Sat 17 Oct.
 
@@ -26,4 +26,4 @@
 
 Johanna Bozai, rav:n, Kamafaka
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adene/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adene/)*

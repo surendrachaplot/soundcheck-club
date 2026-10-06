@@ -1,6 +1,6 @@
 # dtekk
 
-dtekk is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+dtekk is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 dtekk is a techno and electro artist based in Poland, with 61 gigs on soundcheck across Berlin, Krakow, Lisbon and Oslo and 3 more. Often billed alongside Kovvalsky, Blazej Malinowski and MATRIX3K. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ dtekk is a techno and electro artist based in Poland, with 61 gigs on soundcheck
 
 Kovvalsky, Blazej Malinowski, MATRIX3K
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dtekk-pl/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dtekk-pl/)*

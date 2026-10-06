@@ -1,8 +1,8 @@
 # IndeniaL
 
-IndeniaL is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - SECRET LOCATION, Belfast on Sat, 10 Oct 2026.
+IndeniaL is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - SECRET LOCATION, Belfast on Sat, 10 Oct 2026.
 
-IndeniaL is a techno and house artist, with 18 gigs on soundcheck across Belfast. Often billed alongside CIAN__, Matcha and Princess Glitoris. Next up: TBA - SECRET LOCATION, Belfast on Sat 10 Oct.
+IndeniaL is a techno and house artist based in Ireland, with 18 gigs on soundcheck across Belfast. Often billed alongside CIAN__, Matcha and Princess Glitoris. Next up: TBA - SECRET LOCATION, Belfast on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ IndeniaL is a techno and house artist, with 18 gigs on soundcheck across Belfast
 
 CIAN__, Matcha, Princess Glitoris
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/indenial/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/indenial/)*

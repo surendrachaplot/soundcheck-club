@@ -1,6 +1,6 @@
 # Giselle
 
-Giselle is a music venue in Düsseldorf with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Spooky Surf Club with Lavan (Ascension on Wax, Berlin) & DJ Flatbeat" on Sat, 10 Oct 2026.
+Giselle is a music venue in Düsseldorf with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Spooky Surf Club with Lavan (Ascension on Wax, Berlin) & DJ Flatbeat" on Sat, 10 Oct 2026.
 
 Giselle is a music venue in Düsseldorf listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Flatbeat, Lavan, Mille (DE) and MILLE. See dates, start times and who's playing. 147 Oststrasse 40210.
 
@@ -15,4 +15,4 @@ Giselle is a music venue in Düsseldorf listed on soundcheck. 2 upcoming gigs, w
 
 147 Oststrasse 40210, Düsseldorf
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*

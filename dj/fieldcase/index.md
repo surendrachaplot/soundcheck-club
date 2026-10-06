@@ -1,6 +1,6 @@
 # Field Case
 
-Field Case is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Autumn Three, London on Thu, 8 Oct 2026.
+Field Case is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Autumn Three, London on Thu, 8 Oct 2026.
 
 Field Case is a techno and experimental artist based in United Kingdom, with 11 gigs on soundcheck across Bristol and London. Often billed alongside Ceegal, Livid (UK) and Nanzhen Yang. Next up: Autumn Three, London on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Field Case is a techno and experimental artist based in United Kingdom, with 11 
 
 Ceegal, Livid (UK), Nanzhen Yang
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fieldcase/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fieldcase/)*

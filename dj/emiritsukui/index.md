@@ -1,6 +1,6 @@
 # EMIRI TSUKUI
 
-EMIRI TSUKUI is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 10 Oct 2026.
+EMIRI TSUKUI is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 10 Oct 2026.
 
 EMIRI TSUKUI is a techno and psytrance artist based in Japan, with 17 gigs on soundcheck across Berlin, Osaka and Tokyo. Often billed alongside Kojiro, Taichi Kawahira and TEI TEI. Next up: PKH Warehouse, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ EMIRI TSUKUI is a techno and psytrance artist based in Japan, with 17 gigs on so
 
 Kojiro, Taichi Kawahira, TEI TEI
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emiritsukui/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emiritsukui/)*

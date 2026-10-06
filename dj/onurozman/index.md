@@ -1,6 +1,6 @@
 # Onur Ozman
 
-Onur Ozman is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Secret Location, Switzerland on Sat, 24 Oct 2026.
+Onur Ozman is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Secret Location, Switzerland on Sat, 24 Oct 2026.
 
 Onur Ozman is a techno and house artist based in Switzerland, with 22 gigs on soundcheck across Berlin, Frankfurt, Istanbul and Switzerland and 1 more. Often billed alongside Impérieux, Carla Durisch and Rebekah Abdeen. Next up: TBA - Secret Location, Switzerland on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Onur Ozman is a techno and house artist based in Switzerland, with 22 gigs on so
 
 Impérieux, Carla Durisch, Rebekah Abdeen
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onurozman/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onurozman/)*

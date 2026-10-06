@@ -1,6 +1,6 @@
 # Oscar Maillo
 
-Oscar Maillo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Private Hi-Fi Club (C/ Badajoz 115), Barcelona on Fri, 9 Oct 2026.
+Oscar Maillo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Private Hi-Fi Club (C/ Badajoz 115), Barcelona on Fri, 9 Oct 2026.
 
 Oscar Maillo is a house and techno artist based in Spain, with 8 gigs on soundcheck across Barcelona. Often billed alongside XipNoize, PAZ WAZ HERE and Gabo Oliveira. Next up: TBA - Private Hi-Fi Club (C/ Badajoz 115), Barcelona on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ Oscar Maillo is a house and techno artist based in Spain, with 8 gigs on soundch
 
 XipNoize, PAZ WAZ HERE, Gabo Oliveira
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarmaillo/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarmaillo/)*

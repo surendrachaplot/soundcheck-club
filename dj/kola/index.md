@@ -1,6 +1,6 @@
 # KOLA
 
-KOLA is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Belvedere du Centre Des Sciences de Montréal, Montreal on Sun, 11 Oct 2026.
+KOLA is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Belvedere du Centre Des Sciences de Montréal, Montreal on Sun, 11 Oct 2026.
 
 KOLA is a house and funk / soul artist, with 4 gigs on soundcheck across Montreal. Often billed alongside Bolarinho, Demuir and Loops and Us. Next up: Belvedere du Centre Des Sciences de Montréal, Montreal on Sun 11 Oct.
 
@@ -20,4 +20,4 @@ KOLA is a house and funk / soul artist, with 4 gigs on soundcheck across Montrea
 
 Bolarinho, Demuir, Loops and Us
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kola/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kola/)*

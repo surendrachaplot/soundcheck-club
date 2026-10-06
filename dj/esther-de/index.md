@@ -1,6 +1,6 @@
 # Esther
 
-Esther is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
+Esther is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
 
 Esther is a techno and house artist based in Germany, with 17 gigs on soundcheck across Bangkok, Berlin, Cardiff and Cologne and 6 more. Often billed alongside Justus Kaya, MIXXR and Maeximum. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Esther is a techno and house artist based in Germany, with 17 gigs on soundcheck
 
 Justus Kaya, MIXXR, Maeximum
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esther-de/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esther-de/)*

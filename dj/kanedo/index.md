@@ -1,6 +1,6 @@
 # Kanedo
 
-Kanedo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Macarena Club, Barcelona on Tue, 6 Oct 2026.
+Kanedo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Macarena Club, Barcelona on Tue, 6 Oct 2026.
 
 Kanedo is a house and deep house artist based in Spain, with 128 gigs on soundcheck across Athens, Barcelona, Ibiza and London and 1 more. Often billed alongside Viktor Olle, Naommi and Michael Sutton. Next up: Macarena Club, Barcelona on Tue 6 Oct.
 
@@ -25,4 +25,4 @@ Kanedo is a house and deep house artist based in Spain, with 128 gigs on soundch
 
 Viktor Olle, Naommi, Michael Sutton
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanedo/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanedo/)*

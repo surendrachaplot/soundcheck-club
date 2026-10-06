@@ -1,6 +1,6 @@
 # Till Antonio
 
-Till Antonio is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at MH5 Rooftop, Munich on Sat, 10 Oct 2026.
+Till Antonio is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at MH5 Rooftop, Munich on Sat, 10 Oct 2026.
 
 Till Antonio is a techno and house artist based in Germany, with 84 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 15 more. Often billed alongside Michael Ritter, Intaktogene and Felix E. Next up: MH5 Rooftop, Munich on Sat 10 Oct.
 
@@ -9,7 +9,7 @@ Till Antonio is a techno and house artist based in Germany, with 84 gigs on soun
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | MH5 Rooftop | Munich |
-| Sat, 24 Oct 2026 | Amsterdam Club Train | Amsterdam |
+| Sat, 24 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Till Antonio is a techno and house artist based in Germany, with 84 gigs on soun
 
 Michael Ritter, Intaktogene, Felix E
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tillantonio/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tillantonio/)*

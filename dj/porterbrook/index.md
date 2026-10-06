@@ -1,6 +1,6 @@
 # Porter Brook
 
-Porter Brook is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+Porter Brook is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 Porter Brook is a techno and house artist based in United Kingdom, with 27 gigs on soundcheck across Amsterdam, Berlin, Leipzig and London and 3 more. Often billed alongside LINTD, Kop-Z and MYNA. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Porter Brook is a techno and house artist based in United Kingdom, with 27 gigs 
 
 LINTD, Kop-Z, MYNA
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/porterbrook/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/porterbrook/)*

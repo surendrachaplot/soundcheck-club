@@ -1,13 +1,14 @@
 # Nachtigaller
 
-Nachtigaller is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Slaktkyrkan, Stockholm on Sat, 28 Nov 2026.
+Nachtigaller is a Techno and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at CLUB OST & RENATE BERLIN, Berlin on Sat, 21 Nov 2026.
 
-Nachtigaller is a techno and hip-hop artist based in Germany, with 18 gigs on soundcheck across Berlin, Cologne, Dortmund Essen and Frankfurt and 6 more. Often billed alongside A.N.I., Jozh and Negativ. Next up: Slaktkyrkan, Stockholm on Sat 28 Nov.
+Nachtigaller is a techno and hip-hop artist based in Germany, with 19 gigs on soundcheck across Berlin, Cologne, Dortmund Essen and Frankfurt and 6 more. Often billed alongside A.N.I., DTEXX and Filialleiter. Next up: CLUB OST & RENATE BERLIN, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | CLUB OST & RENATE BERLIN | Berlin |
 | Sat, 28 Nov 2026 | Slaktkyrkan | Stockholm |
 
 ## Recently played
@@ -23,6 +24,6 @@ Nachtigaller is a techno and hip-hop artist based in Germany, with 18 gigs on so
 
 ## Shares bills with
 
-A.N.I., Jozh, Negativ
+A.N.I., DTEXX, Filialleiter
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nachtigaller/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nachtigaller/)*

@@ -1,8 +1,8 @@
 # Mayell
 
-Mayell is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Tenuta Tor De' Sordi, Rome on Sat, 10 Oct 2026.
+Mayell is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Tenuta Tor De' Sordi, Rome on Sat, 10 Oct 2026.
 
-Mayell is a house and techno artist based in Slovenia, with 116 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Sibil, O.BEE and Tomas Station. Next up: Tenuta Tor De' Sordi, Rome on Sat 10 Oct.
+Mayell is a house and techno artist based in Slovenia, with 117 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Sibil, O.BEE and Tomas Station. Next up: Tenuta Tor De' Sordi, Rome on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Mayell is a house and techno artist based in Slovenia, with 116 gigs on soundche
 | Sat, 24 Oct 2026 | BRET | Amsterdam |
 | Sun, 25 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | TBA - Downtown LA | Los Angeles |
+| Sat, 31 Oct 2026 | H0L0 | New York City |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Mayell is a house and techno artist based in Slovenia, with 116 gigs on soundche
 
 Sibil (1), O.BEE, Tomas Station
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayell/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayell/)*

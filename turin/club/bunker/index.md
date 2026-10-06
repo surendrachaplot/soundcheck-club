@@ -1,6 +1,6 @@
 # Bunker
 
-Bunker is a music venue in Turin with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Vestalia w/ Neel, Future Nomadz, Stefania Vos, Enea Pascal, Filippo Scorcucchi" on Fri, 9 Oct 2026.
+Bunker is a music venue in Turin with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Vestalia w/ Neel, Future Nomadz, Stefania Vos, Enea Pascal, Filippo Scorcucchi" on Fri, 9 Oct 2026.
 
 Bunker is a music venue in Turin listed on soundcheck. 5 upcoming gigs, with line-ups including ANNĒ, BLACK CROW, Daniele Baldelli and Danny Wabbit and 2 more. See dates, start times and who's playing. Via Niccolò Paganini, 0/200, 10154 Torino TO, Italy.
 
@@ -18,4 +18,4 @@ Bunker is a music venue in Turin listed on soundcheck. 5 upcoming gigs, with lin
 
 Via Niccolò Paganini, 0/200, 10154 Torino TO, Italy, Turin
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/bunker/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/bunker/)*

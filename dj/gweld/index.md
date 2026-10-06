@@ -1,6 +1,6 @@
 # GWELD
 
-GWELD is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Toffler, Rotterdam on Fri, 30 Oct 2026.
+GWELD is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Toffler, Rotterdam on Fri, 30 Oct 2026.
 
 GWELD is a techno and industrial artist based in Netherlands, with 4 gigs on soundcheck across Amsterdam, Berlin, Budapest and Rotterdam. Often billed alongside KASSIS, SEMPLIFIER and ANXIETY. Next up: Toffler, Rotterdam on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ GWELD is a techno and industrial artist based in Netherlands, with 4 gigs on sou
 
 KASSIS, SEMPLIFIER, ANXIETY (2)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gweld/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gweld/)*

@@ -1,6 +1,6 @@
 # Ironbase
 
-Ironbase is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Stromwerk Dresden, Dresden on Sat, 24 Oct 2026.
+Ironbase is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Stromwerk Dresden, Dresden on Sat, 24 Oct 2026.
 
 Ironbase is an electronic artist, with 4 gigs on soundcheck across Berlin and Dresden. Often billed alongside AARON, Alex Stein and Brox Kadus. Next up: Stromwerk Dresden, Dresden on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ Ironbase is an electronic artist, with 4 gigs on soundcheck across Berlin and Dr
 
 AARON, Alex Stein, Brox Kadus
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ironbase/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ironbase/)*

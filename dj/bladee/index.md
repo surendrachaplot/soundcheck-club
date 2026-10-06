@@ -1,6 +1,6 @@
 # Bladee
 
-Bladee is a Experimental and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Bladee is a Experimental and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
 Bladee is an experimental and pop artist based in Sweden, with 4 gigs on soundcheck across Helsinki, London, Los Angeles and Turin. Often billed alongside 999999999, AANYA and Antal. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
@@ -20,4 +20,4 @@ Bladee is an experimental and pop artist based in Sweden, with 4 gigs on soundch
 
 999999999, AANYA, Antal
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bladee/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bladee/)*

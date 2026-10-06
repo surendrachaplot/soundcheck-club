@@ -1,6 +1,6 @@
 # Purple Flame
 
-Purple Flame is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Espace Vanhomwegen, Rue de Russie 31, Brussels on Fri, 9 Oct 2026.
+Purple Flame is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Espace Vanhomwegen, Rue de Russie 31, Brussels on Fri, 9 Oct 2026.
 
 Purple Flame is a downtempo and house artist, with 10 gigs on soundcheck across Barcelona, Brussels and Tbilisi. Often billed alongside &RY., Aman Dava and Anushka Chkheidze. Next up: TBA - Espace Vanhomwegen, Rue de Russie 31, Brussels on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Purple Flame is a downtempo and house artist, with 10 gigs on soundcheck across 
 
 &RY., Aman Dava, Anushka Chkheidze
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purpleflame/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purpleflame/)*

@@ -1,6 +1,6 @@
 # Hartley
 
-Hartley is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Dubai on Sat, 7 Nov 2026.
+Hartley is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA, Dubai on Sat, 7 Nov 2026.
 
 Hartley is an electronic artist, with 4 gigs on soundcheck across Barcelona, Dubai, Ibiza and New York City. Often billed alongside ACA (YU), Cristina Lazic and Dale Hart. Next up: TBA, Dubai on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ Hartley is an electronic artist, with 4 gigs on soundcheck across Barcelona, Dub
 
 ACA (YU), Cristina Lazic, Dale Hart
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hartley/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hartley/)*

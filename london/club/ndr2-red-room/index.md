@@ -1,8 +1,8 @@
 # NDR2 Red Room
 
-NDR2 Red Room is a music venue in London with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Club Cold Blood presents - BEACH GOTHIC (Orchid EP Release Party)" on Wed, 7 Oct 2026.
+NDR2 Red Room is a music venue in London with 9 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Club Cold Blood presents - BEACH GOTHIC (Orchid EP Release Party)" on Wed, 7 Oct 2026.
 
-NDR2 Red Room is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Aaron Burr, Duncan Thomas, Jabba & The Hutt and Jive Talk and 2 more. See dates, start times and who's playing. 182 Stoke Newington Rd, London N16 7UY.
+NDR2 Red Room is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Aaron Burr, Alex, from Deep, Aria and Benny Ill and 2 more. See dates, start times and who's playing. 182 Stoke Newington Rd, London N16 7UY.
 
 ## What's on
 
@@ -15,10 +15,11 @@ NDR2 Red Room is a music venue in London listed on soundcheck. 8 upcoming gigs, 
 | Sat, 17 Oct 2026 | Sequence : Howtin & Friends | NADZ., quarter ohm |
 | Fri, 23 Oct 2026 | Adult Party 2.0 |  |
 | Sat, 24 Oct 2026 | Jabba and The Hutt's Red Room | JUST FINN, Jabba & The Hutt, Lyde |
+| Sat, 31 Oct 2026 | Syncopate presents: Benny Ill (Horsepower Productions) | Alex, from Deep, Aria (3), Benny Ill, Ovrtic |
 | Sat, 7 Nov 2026 | Grounded London: NDR2 RedRoom | Aaron Burr (2), Martel (UK), Myles Apps, Rhys Dyer |
 
 ## Address
 
 182 Stoke Newington Rd, London N16 7UY, London
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ndr2-red-room/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ndr2-red-room/)*

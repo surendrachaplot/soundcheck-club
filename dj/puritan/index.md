@@ -1,6 +1,6 @@
 # Puritan
 
-Puritan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at KHIDI, Tbilisi on Fri, 9 Oct 2026.
+Puritan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at KHIDI, Tbilisi on Fri, 9 Oct 2026.
 
 Puritan is a techno and house artist based in Georgia, with 64 gigs on soundcheck across Athens, Berlin, London and Strasbourg and 1 more. Often billed alongside Boyd Schidt, Frequency Shifter and Liza Rivs. Next up: KHIDI, Tbilisi on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Puritan is a techno and house artist based in Georgia, with 64 gigs on soundchec
 
 Boyd Schidt, Frequency Shifter, Liza Rivs
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/puritan/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/puritan/)*

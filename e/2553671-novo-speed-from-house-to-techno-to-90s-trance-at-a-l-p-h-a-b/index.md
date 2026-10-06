@@ -1,6 +1,6 @@
 # Novo Speed - From House to Techno to 90s Trance at A L P H A B E T
 
-Novo Speed - From House to Techno to 90s Trance at A L P H A B E T on Fri 13 Nov, Brighton. 2 artists: Florence. and Vergano. See the line-up on soundcheck.
+Novo Speed - From House to Techno to 90s Trance at A L P H A B E T on Fri 13 Nov, Brighton. 2 artists: Florence. and Vergano. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

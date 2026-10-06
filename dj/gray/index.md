@@ -1,6 +1,6 @@
 # Gray
 
-Gray is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 31 Oct 2026.
+Gray is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 31 Oct 2026.
 
 Gray is a jungle and drum & bass artist, with 4 gigs on soundcheck across Berlin, Manchester and Paris. Often billed alongside Benny L, Diagnostix and Frankie Flowerz. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Gray is a jungle and drum & bass artist, with 4 gigs on soundcheck across Berlin
 
 Benny L, Diagnostix, Frankie Flowerz
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gray/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gray/)*

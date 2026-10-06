@@ -1,6 +1,6 @@
 # Andy Garvey
 
-Andy Garvey is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Le Cargö, West on Wed, 7 Oct 2026.
+Andy Garvey is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Le Cargö, West on Wed, 7 Oct 2026.
 
 Andy Garvey is a techno and trance artist based in Australia, with 97 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 23 more. Often billed alongside DJ Scorpion, Konduku and Mama Snake. Next up: Le Cargö, West on Wed 7 Oct.
 
@@ -30,4 +30,4 @@ Andy Garvey is a techno and trance artist based in Australia, with 97 gigs on so
 
 DJ Scorpion, Konduku, Mama Snake
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andygarvey/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andygarvey/)*

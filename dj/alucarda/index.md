@@ -1,6 +1,6 @@
 # Alucarda
 
-Alucarda is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Vagabond, Washington DC on Sat, 10 Oct 2026.
+Alucarda is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Vagabond, Washington DC on Sat, 10 Oct 2026.
 
 Alucarda is a club and techno artist based in Mexico, with 18 gigs on soundcheck across Washington DC. Often billed alongside znorthy, Trinity Forever and lasokko. Next up: Vagabond, Washington DC on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Alucarda is a club and techno artist based in Mexico, with 18 gigs on soundcheck
 
 znorthy, Trinity Forever, lasokko
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alucarda/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alucarda/)*

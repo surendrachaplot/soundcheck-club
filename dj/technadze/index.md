@@ -1,6 +1,6 @@
 # Technadze
 
-Technadze is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Jènemar Passéjure, Prague on Sat, 17 Oct 2026.
+Technadze is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Jènemar Passéjure, Prague on Sat, 17 Oct 2026.
 
 Technadze is a techno and house artist based in Georgia, with 25 gigs on soundcheck across Berlin, Krakow and Prague. Often billed alongside MLK:M, Kavkaz Widow and Diva. Next up: Jènemar Passéjure, Prague on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Technadze is a techno and house artist based in Georgia, with 25 gigs on soundch
 
 MLK:M, Kavkaz Widow, Diva
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/technadze/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/technadze/)*

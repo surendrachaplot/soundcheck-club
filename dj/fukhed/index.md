@@ -1,6 +1,6 @@
 # FUKHED
 
-FUKHED is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 9 Oct 2026.
+FUKHED is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 9 Oct 2026.
 
 FUKHED is a techno and house artist based in Australia, with 58 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Brisbane and 9 more. Often billed alongside SPFDJ, cera and dameeeela. Next up: Carousel Bar & Ballroom, Sydney on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ FUKHED is a techno and house artist based in Australia, with 58 gigs on soundche
 
 SPFDJ, cera, dameeeela
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fukhed/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fukhed/)*

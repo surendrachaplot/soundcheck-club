@@ -1,6 +1,6 @@
 # Objekt
 
-Objekt is a Techno and Bass artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at smartbar, Chicago on Fri, 9 Oct 2026.
+Objekt is a Techno and Bass artist with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at smartbar, Chicago on Fri, 9 Oct 2026.
 
 Objekt is a techno and bass artist, with 179 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 57 more. Often billed alongside CCL, DjRUM and Call Super. Next up: smartbar, Chicago on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ Objekt is a techno and bass artist, with 179 gigs on soundcheck across Amsterdam
 
 CCL, DjRUM, Call Super
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/objekt/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/objekt/)*

@@ -1,6 +1,6 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 15 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "ALL AT ONCE presents Helena Gao" on Thu, 8 Oct 2026.
+Ormside Projects is a music venue in London with 15 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "ALL AT ONCE presents Helena Gao" on Thu, 8 Oct 2026.
 
 Ormside Projects is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Ab.Diablo, amil raja, Appleblim and Beatrice M. and 2 more. See dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
@@ -23,4 +23,4 @@ Ormside Projects is a music venue in London listed on soundcheck. 15 upcoming gi
 
 32 Ormside St, London SE15 1TR, UK, London
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*

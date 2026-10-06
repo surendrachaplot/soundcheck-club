@@ -1,6 +1,6 @@
 # Frankhan Selectist
 
-Frankhan Selectist is a music venue in Istanbul with 15 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Juan Atkins: The Godfather of Techno" on Fri, 9 Oct 2026.
+Frankhan Selectist is a music venue in Istanbul with 15 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Juan Atkins: The Godfather of Techno" on Fri, 9 Oct 2026.
 
 Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 15 upcoming gigs, with line-ups including Alican, Berkan V8, BOOSAY and Delilah and 2 more. See dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
 
@@ -23,4 +23,4 @@ Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 15 upcomin
 
 Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul, Istanbul
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*

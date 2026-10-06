@@ -1,6 +1,6 @@
 # Shelly
 
-Shelly is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at VENT, Tokyo on Sat, 17 Oct 2026.
+Shelly is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at VENT, Tokyo on Sat, 17 Oct 2026.
 
 Shelly is a techno and house artist based in Spain, with 33 gigs on soundcheck across Athens, Barcelona, Copenhagen and Manchester and 1 more. Often billed alongside Dani Savant, Taichi Kawahira and DANA NADA. Next up: VENT, Tokyo on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Shelly is a techno and house artist based in Spain, with 33 gigs on soundcheck a
 
 Dani Savant, Taichi Kawahira, DANA NADA
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shelly/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shelly/)*

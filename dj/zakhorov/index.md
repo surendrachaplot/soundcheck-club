@@ -1,6 +1,6 @@
 # Zakhorov
 
-Zakhorov is a Electronica and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Atno, Budapest on Thu, 22 Oct 2026.
+Zakhorov is a Electronica and Dub artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Atno, Budapest on Thu, 22 Oct 2026.
 
 Zakhorov is an electronica and dub artist, with 17 gigs on soundcheck across Budapest and Vienna. Often billed alongside Meo Culpa, OIEE and Csodaszoba. Next up: Atno, Budapest on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Zakhorov is an electronica and dub artist, with 17 gigs on soundcheck across Bud
 
 Meo Culpa, OIEE, Csodaszoba
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zakhorov/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zakhorov/)*

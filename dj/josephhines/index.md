@@ -1,6 +1,6 @@
 # Joseph Hines
 
-Joseph Hines is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Lock Inn Camden, London on Sat, 31 Oct 2026.
+Joseph Hines is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Lock Inn Camden, London on Sat, 31 Oct 2026.
 
 Joseph Hines is a garage and house artist, with 4 gigs on soundcheck across London. Often billed alongside DJ Fiddla, Ace Shyllon and Bushman (UK). Next up: Lock Inn Camden, London on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Joseph Hines is a garage and house artist, with 4 gigs on soundcheck across Lond
 
 DJ Fiddla, Ace Shyllon, Bushman (UK)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josephhines/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josephhines/)*

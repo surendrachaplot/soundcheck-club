@@ -1,6 +1,6 @@
 # Chelina Manuhutu
 
-Chelina Manuhutu is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Q-Factory, Amsterdam on Thu, 22 Oct 2026.
+Chelina Manuhutu is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Q-Factory, Amsterdam on Thu, 22 Oct 2026.
 
 Chelina Manuhutu is a tech house and house artist based in Netherlands, with 152 gigs on soundcheck across Amsterdam, Athens, Austria and Bali and 32 more. Often billed alongside Andrea Oliva, Marco Carola and Nic Fanciulli. Next up: Q-Factory, Amsterdam on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Chelina Manuhutu is a tech house and house artist based in Netherlands, with 152
 
 Andrea Oliva, Marco Carola, Nic Fanciulli
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chelinamanuhutu/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chelinamanuhutu/)*

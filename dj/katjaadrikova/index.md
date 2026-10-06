@@ -1,6 +1,6 @@
 # Katja Adrikova
 
-Katja Adrikova is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Hall, Tallinn on Fri, 30 Oct 2026.
+Katja Adrikova is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Hall, Tallinn on Fri, 30 Oct 2026.
 
 Katja Adrikova is a house and techno artist based in Estonia, with 31 gigs on soundcheck across Berlin, Tallinn and Warsaw. Often billed alongside Micaela Saraceno, Tanel Mütt and Brett Rästas. Next up: Hall, Tallinn on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Katja Adrikova is a house and techno artist based in Estonia, with 31 gigs on so
 
 Micaela Saraceno, Tanel Mütt, Brett Rästas
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katjaadrikova/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katjaadrikova/)*

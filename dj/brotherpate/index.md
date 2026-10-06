@@ -1,14 +1,14 @@
 # Brother Pate
 
-Brother Pate is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Xuxa, Austin on Sat, 10 Oct 2026.
+Brother Pate is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Neon Grotto, Austin on Sat, 10 Oct 2026.
 
-Brother Pate is a house and disco artist based in United States of America, with 54 gigs on soundcheck across Austin. Often billed alongside Thurman Jackson, Brett Johnson and Marcus Lott. Next up: Xuxa, Austin on Sat 10 Oct.
+Brother Pate is a house and disco artist based in United States of America, with 54 gigs on soundcheck across Austin. Often billed alongside Thurman Jackson, Brett Johnson and Marcus Lott. Next up: Neon Grotto, Austin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Xuxa | Austin |
+| Sat, 10 Oct 2026 | Neon Grotto | Austin |
 | Sat, 10 Oct 2026 | Xuxa | Austin |
 
 ## Recently played
@@ -26,4 +26,4 @@ Brother Pate is a house and disco artist based in United States of America, with
 
 Thurman Jackson, Brett Johnson, Marcus Lott
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brotherpate/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brotherpate/)*

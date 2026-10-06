@@ -1,6 +1,6 @@
 # El Rio
 
-El Rio is a music venue in San Francisco/Oakland with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Bussdown Baddies" on Fri, 9 Oct 2026.
+El Rio is a music venue in San Francisco/Oakland with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Bussdown Baddies" on Fri, 9 Oct 2026.
 
 El Rio is a music venue in San Francisco/Oakland listed on soundcheck. 6 upcoming gigs, with line-ups including Dj Nico, ECTO, FINISHHER and FREAK POV and 2 more. See dates, start times and who's playing. 3158 Mission St, San Francisco, CA 94110, USA.
 
@@ -19,4 +19,4 @@ El Rio is a music venue in San Francisco/Oakland listed on soundcheck. 6 upcomin
 
 3158 Mission St, San Francisco, CA 94110, USA, San Francisco/Oakland
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/el-rio/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/el-rio/)*

@@ -1,15 +1,14 @@
 # Studio56
 
-Studio56 is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Fracture W/ Dj Aleathory , Dj Épi , Shockwave" on Sun, 4 Oct 2026.
+Studio56 is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Fracture W/ Dj Aleathory , Dj Épi , Shockwave" on Sun, 4 Oct 2026.
 
-Studio56 is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including Ant1, BUD, Drivr and Killoverjoy and 2 more. See dates, start times and who's playing. 56 rue de la Fontaine au Roi 75011 Paris.
+Studio56 is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Ant1, Drivr, MØZ and Shockwave and 2 more. See dates, start times and who's playing. 56 rue de la Fontaine au Roi 75011 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | Fracture W/ Dj Aleathory , Dj Épi , Shockwave | Shockwave |
-| Mon, 5 Oct 2026 | Core W/ Acafly , Bud , Killoverjoy | BUD (1), Killoverjoy |
 | Tue, 6 Oct 2026 | Signal W/ Draigs , Møz, Thundersamurai | MØZ |
 | Wed, 7 Oct 2026 | Resonance W/ Xaper , Jeffellhypno , Void | Void (3) |
 | Thu, 8 Oct 2026 | Discovery Présente : Queenz Of Ze Night | Tsaou |
@@ -20,4 +19,4 @@ Studio56 is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with l
 
 56 rue de la Fontaine au Roi 75011 Paris, Paris
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/studio56/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/studio56/)*

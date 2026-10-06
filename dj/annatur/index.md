@@ -1,6 +1,6 @@
 # Anna Tur
 
-Anna Tur is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Anna Tur is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
 Anna Tur is a techno and house artist based in Spain, with 75 gigs on soundcheck across Amsterdam, Antwerp, Austria and Barcelona and 20 more. Often billed alongside STELLA BOSSI, ASK:ME and Carl Cox. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Anna Tur is a techno and house artist based in Spain, with 75 gigs on soundcheck
 
 STELLA BOSSI, ASK:ME, Carl Cox
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annatur/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annatur/)*

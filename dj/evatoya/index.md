@@ -1,6 +1,6 @@
 # Eva Toya
 
-Eva Toya is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at M7 Club, Barcelona on Thu, 12 Nov 2026.
+Eva Toya is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at M7 Club, Barcelona on Thu, 12 Nov 2026.
 
 Eva Toya is a techno and house artist based in Spain, with 5 gigs on soundcheck across Barcelona and Ibiza. Often billed alongside Adviro, ArceX and BreakStyle. Next up: M7 Club, Barcelona on Thu 12 Nov.
 
@@ -21,4 +21,4 @@ Eva Toya is a techno and house artist based in Spain, with 5 gigs on soundcheck 
 
 Adviro, ArceX, BreakStyle
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evatoya/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evatoya/)*

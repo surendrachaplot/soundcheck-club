@@ -1,6 +1,6 @@
 # Time is the new space
 
-Time is the new space is a music venue in Rotterdam with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "CHESS NIGHT W/ E4" on Wed, 7 Oct 2026.
+Time is the new space is a music venue in Rotterdam with 8 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "CHESS NIGHT W/ E4" on Wed, 7 Oct 2026.
 
 Time is the new space is a music venue in Rotterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Helmond Lang, Italo Brutalo, Marsman and Moses Joses and 2 more. See dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
 
@@ -21,4 +21,4 @@ Time is the new space is a music venue in Rotterdam listed on soundcheck. 8 upco
 
 Schiekade 185, 3013 BR, Rotterdam, Netherlands, Rotterdam
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*

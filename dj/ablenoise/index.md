@@ -1,6 +1,6 @@
 # Able Noise
 
-Able Noise is a Experimental and Drone artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at ESC Atelier, Rome on Sat, 17 Oct 2026.
+Able Noise is a Experimental and Drone artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at ESC Atelier, Rome on Sat, 17 Oct 2026.
 
 Able Noise is an experimental and drone artist based in Greece, with 18 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 11 more. Often billed alongside Andriana-Yaroslava Saienko, Coby Sey and DjRUM. Next up: ESC Atelier, Rome on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Able Noise is an experimental and drone artist based in Greece, with 18 gigs on 
 
 Andriana-Yaroslava Saienko, Coby Sey, DjRUM
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ablenoise/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ablenoise/)*

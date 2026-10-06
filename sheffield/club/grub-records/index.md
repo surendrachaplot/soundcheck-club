@@ -1,6 +1,6 @@
 # Grub Records
 
-Grub Records is a music venue in Sheffield with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Peachy Dynamite Records" on Fri, 9 Oct 2026.
+Grub Records is a music venue in Sheffield with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Peachy Dynamite Records" on Fri, 9 Oct 2026.
 
 Grub Records is a music venue in Sheffield listed on soundcheck. 6 upcoming gigs, with line-ups including Alex Osifo, Berwick, Charlotte Ord and Joi L.F and 2 more. See dates, start times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.
 
@@ -19,4 +19,4 @@ Grub Records is a music venue in Sheffield listed on soundcheck. 6 upcoming gigs
 
 Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU, Sheffield
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*

@@ -1,6 +1,6 @@
 # Picasso
 
-Picasso is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA -  Kummelholmen, Stockholm on Sat, 10 Oct 2026.
+Picasso is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA -  Kummelholmen, Stockholm on Sat, 10 Oct 2026.
 
 Picasso is a house and techno artist based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Bowyer, Kian OK and Duowe. Next up: TBA -  Kummelholmen, Stockholm on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Picasso is a house and techno artist based in United Kingdom, with 40 gigs on so
 
 Bowyer, Kian OK, Duowe
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/picasso/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/picasso/)*

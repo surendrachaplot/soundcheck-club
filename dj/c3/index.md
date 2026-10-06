@@ -1,6 +1,6 @@
 # C:3
 
-C:3 is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Bullet Bar, Los Angeles on Sat, 24 Oct 2026.
+C:3 is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The Bullet Bar, Los Angeles on Sat, 24 Oct 2026.
 
 C:3 is a house and techno artist based in United States of America, with 3 gigs on soundcheck across Los Angeles and San Diego. Often billed alongside -CZAR, ALZU and MOOSE. Next up: The Bullet Bar, Los Angeles on Sat 24 Oct.
 
@@ -19,4 +19,4 @@ C:3 is a house and techno artist based in United States of America, with 3 gigs 
 
 -CZAR, ALZU, MOOSE (3)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c3/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c3/)*

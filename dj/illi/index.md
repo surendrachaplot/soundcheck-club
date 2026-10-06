@@ -1,6 +1,6 @@
 # illi
 
-illi is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Social Room, Hong Kong on Fri, 16 Oct 2026.
+illi is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Social Room, Hong Kong on Fri, 16 Oct 2026.
 
 illi is a house and electro artist, with 9 gigs on soundcheck across Hong Kong, London and Paris. Often billed alongside Fiocco, Boudewijn Ericx and DJ Rino. Next up: Social Room, Hong Kong on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ illi is a house and electro artist, with 9 gigs on soundcheck across Hong Kong, 
 
 Fiocco, Boudewijn Ericx, DJ Rino
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/illi/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/illi/)*

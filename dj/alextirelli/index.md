@@ -1,6 +1,6 @@
 # Alex Tirelli
 
-Alex Tirelli is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Kulturkirken Jakob, Oslo on Thu, 31 Dec 2026.
+Alex Tirelli is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Kulturkirken Jakob, Oslo on Thu, 31 Dec 2026.
 
 Alex Tirelli is a techno and dub techno artist, with 5 gigs on soundcheck across Barcelona, Malta and Oslo. Often billed alongside ABSIS, Aa Sudd and Carlo & Selma. Next up: Kulturkirken Jakob, Oslo on Thu 31 Dec.
 
@@ -21,4 +21,4 @@ Alex Tirelli is a techno and dub techno artist, with 5 gigs on soundcheck across
 
 ABSIS, Aa Sudd, Carlo & Selma
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alextirelli/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alextirelli/)*

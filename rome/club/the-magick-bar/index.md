@@ -1,6 +1,6 @@
 # THE MAGICK BAR
 
-THE MAGICK BAR is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Jungle at Magick bar" on Tue, 6 Oct 2026.
+THE MAGICK BAR is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Jungle at Magick bar" on Tue, 6 Oct 2026.
 
 THE MAGICK BAR is a music venue in Rome listed on soundcheck. 2 upcoming gigs, with line-ups including Mordak, Petra and Sunday Bath. See dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
 
@@ -15,4 +15,4 @@ THE MAGICK BAR is a music venue in Rome listed on soundcheck. 2 upcoming gigs, w
 
 Via Lungotevere Oberdan, 2 Rome, Italy 00195, Rome
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*

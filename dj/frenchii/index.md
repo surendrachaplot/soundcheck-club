@@ -1,6 +1,6 @@
 # French II
 
-French II is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Hall of Fame, Netherlands on Fri, 9 Oct 2026.
+French II is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Hall of Fame, Netherlands on Fri, 9 Oct 2026.
 
 French II is a techno and house artist based in Netherlands, with 40 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 11 more. Often billed alongside Alberta Balsam, Bastian Benjamin and Milio. Next up: Hall of Fame, Netherlands on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ French II is a techno and house artist based in Netherlands, with 40 gigs on sou
 
 Alberta Balsam, Bastian Benjamin, Milio
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frenchii/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frenchii/)*

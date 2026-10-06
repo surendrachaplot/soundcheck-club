@@ -1,6 +1,6 @@
 # Franco Cinelli
 
-Franco Cinelli is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Hoppetosse, Berlin on Sat, 10 Oct 2026.
+Franco Cinelli is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Hoppetosse, Berlin on Sat, 10 Oct 2026.
 
 Franco Cinelli is a house and tech house artist based in Argentina, with 46 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 11 more. Often billed alongside Momo Trosman, Arapu and Raresh. Next up: Hoppetosse, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Franco Cinelli is a house and tech house artist based in Argentina, with 46 gigs
 
 Momo Trosman, Arapu, Raresh
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francocinelli/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francocinelli/)*

@@ -1,6 +1,6 @@
 # Razz (MT)
 
-Razz (MT) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Liquid Club, Malta on Sat, 14 Nov 2026.
+Razz (MT) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Liquid Club, Malta on Sat, 14 Nov 2026.
 
 Razz (MT) is a techno and house artist based in Malta, with 5 gigs on soundcheck across Malta. Often billed alongside GVZ, Kyle Cortis and AP. Next up: Liquid Club, Malta on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ Razz (MT) is a techno and house artist based in Malta, with 5 gigs on soundcheck
 
 GVZ (1), Kyle Cortis, AP (5)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/razzmt/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/razzmt/)*

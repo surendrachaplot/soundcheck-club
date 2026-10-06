@@ -1,6 +1,6 @@
 # awryly
 
-awryly is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Teele Square, Somerville - DM for Address, Boston on Sat, 10 Oct 2026.
+awryly is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Teele Square, Somerville - DM for Address, Boston on Sat, 10 Oct 2026.
 
 awryly is an ambient and experimental artist based in United States of America, with 6 gigs on soundcheck across Boston, New York City and San Francisco/Oakland. Often billed alongside Bakh Inamov, Beyond the Black Hole and Consciousness Lab. Next up: TBA - Teele Square, Somerville - DM for Address, Boston on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ awryly is an ambient and experimental artist based in United States of America, 
 
 Bakh Inamov, Beyond the Black Hole, Consciousness Lab
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/awryly/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/awryly/)*

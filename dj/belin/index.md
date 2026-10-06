@@ -1,6 +1,6 @@
 # Belin
 
-Belin is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Under Club, Buenos Aires on Sat, 10 Oct 2026.
+Belin is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Under Club, Buenos Aires on Sat, 10 Oct 2026.
 
 Belin is a techno and industrial artist based in Turkey, with 30 gigs on soundcheck across Buenos Aires, Istanbul, London and Osaka. Often billed alongside Jehra, Brojski and MATT.. Next up: Under Club, Buenos Aires on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Belin is a techno and industrial artist based in Turkey, with 30 gigs on soundch
 
 Jehra, Brojski, MATT.
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belin/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belin/)*

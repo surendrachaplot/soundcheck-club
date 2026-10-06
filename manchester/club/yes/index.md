@@ -1,6 +1,6 @@
 # Yes
 
-Yes is a music venue in Manchester with 15 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Digitalism" on Fri, 9 Oct 2026.
+Yes is a music venue in Manchester with 15 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Digitalism" on Fri, 9 Oct 2026.
 
 Yes is a music venue in Manchester listed on soundcheck. 15 upcoming gigs, with line-ups including Celdred, Digitalism, DJ POLLY and Forbid and 2 more. See dates, start times and who's playing. 38 Charles Street Manchester, M1 7BD, United Kingdom.
 
@@ -23,4 +23,4 @@ Yes is a music venue in Manchester listed on soundcheck. 15 upcoming gigs, with 
 
 38 Charles Street Manchester, M1 7BD, United Kingdom, Manchester
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*

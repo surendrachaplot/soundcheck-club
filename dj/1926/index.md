@@ -1,6 +1,6 @@
 # 19:26
 
-19:26 is a Techno and Electronica artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Resident Denver, Denver on Fri, 9 Oct 2026.
+19:26 is a Techno and Electronica artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Resident Denver, Denver on Fri, 9 Oct 2026.
 
 19:26 is a techno and electronica artist based in Italy, with 69 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 24 more. Often billed alongside Tale Of Us, Chris Avantgarde and Kevin de Vries. Next up: Resident Denver, Denver on Fri 9 Oct.
 
@@ -28,4 +28,4 @@
 
 Tale Of Us, Chris Avantgarde, Kevin de Vries
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1926/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1926/)*

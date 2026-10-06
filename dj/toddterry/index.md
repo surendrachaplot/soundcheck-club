@@ -1,6 +1,6 @@
 # Todd Terry
 
-Todd Terry is a House and Disco artist with 9 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Pitt Market, Edinburgh on Sat, 10 Oct 2026.
+Todd Terry is a House and Disco artist with 9 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The Pitt Market, Edinburgh on Sat, 10 Oct 2026.
 
 Todd Terry is a house and disco artist based in United States of America, with 155 gigs on soundcheck across Amsterdam, Bali, Barcelona and Bristol and 30 more. Often billed alongside Janika Tenn, Ferreck Dawn and Melvo Baptiste. Next up: The Pitt Market, Edinburgh on Sat 10 Oct.
 
@@ -33,4 +33,4 @@ Todd Terry is a house and disco artist based in United States of America, with 1
 
 Janika Tenn, Ferreck Dawn, Melvo Baptiste
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*

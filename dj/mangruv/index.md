@@ -1,6 +1,6 @@
 # Mangruv
 
-Mangruv is a Techno and Drone artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
+Mangruv is a Techno and Drone artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
 
 Mangruv is a techno and drone artist based in Netherlands, with 14 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside ADHI, Amz and Naone. Next up: ingang, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Mangruv is a techno and drone artist based in Netherlands, with 14 gigs on sound
 
 ADHI, Amz, Naone
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mangruv/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mangruv/)*

@@ -1,6 +1,6 @@
 # NuCasa
 
-NuCasa is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at M.N.Roy, Mexico City on Sat, 10 Oct 2026.
+NuCasa is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at M.N.Roy, Mexico City on Sat, 10 Oct 2026.
 
 NuCasa is a house and afro house artist based in Poland, with 53 gigs on soundcheck across Berlin, Mexico City and Warsaw. Often billed alongside Angelo Mike, Konca and Kuvau. Next up: M.N.Roy, Mexico City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ NuCasa is a house and afro house artist based in Poland, with 53 gigs on soundch
 
 Angelo Mike, Konca, Kuvau
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nucasa/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nucasa/)*

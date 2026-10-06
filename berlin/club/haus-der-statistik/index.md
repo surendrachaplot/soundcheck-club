@@ -1,6 +1,6 @@
 # Haus der Statistik
 
-Haus der Statistik is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "TESA (LV), D'CO" on Thu, 8 Oct 2026.
+Haus der Statistik is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "TESA (LV), D'CO" on Thu, 8 Oct 2026.
 
 Haus der Statistik is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including lovetempo and Moriah Plaza. See dates, start times and who's playing. Otto-Braun Straße 70-72, Block OTTO.
 
@@ -15,4 +15,4 @@ Haus der Statistik is a music venue in Berlin listed on soundcheck. 2 upcoming g
 
 Otto-Braun Straße 70-72, Block OTTO, Berlin
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-statistik/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-statistik/)*

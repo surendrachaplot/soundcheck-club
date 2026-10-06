@@ -1,14 +1,13 @@
 # The Sultan Room
 
-The Sultan Room is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "New York Modular Society 7th Anniversary" on Mon, 5 Oct 2026.
+The Sultan Room is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Confetti x Khel" on Thu, 8 Oct 2026.
 
-The Sultan Room is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including 5ToK3, Ben The Glorious Bastard, Crew Called Self and DJ Lawyer and 2 more. See dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
+The Sultan Room is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including DJ Lawyer, Hard Boiled Babe, Marjorine and Nina Moss. See dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 5 Oct 2026 | New York Modular Society 7th Anniversary | 5ToK3, Ben The Glorious Bastard, Crew Called Self, Todd Sines |
 | Thu, 8 Oct 2026 | Confetti x Khel |  |
 | Sat, 10 Oct 2026 | The Eel Pit X Silkpunk presents: Ph0, Pair of Sloths, Piranhana, DJ Lobo Camilo & Marjorine | Marjorine |
 | Wed, 21 Oct 2026 | The Pink Rambo | Hard Boiled Babe, Nina Moss |
@@ -20,4 +19,4 @@ The Sultan Room is a music venue in New York City listed on soundcheck. 7 upcomi
 
 234 Starr St. Brooklyn, NY 11237, New York City
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*

@@ -1,6 +1,6 @@
 # The Bongo Club
 
-The Bongo Club is a music venue in Edinburgh with 16 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Volta: Janverse, Vulpine [Drum & Bass / Jungle]" on Tue, 6 Oct 2026.
+The Bongo Club is a music venue in Edinburgh with 16 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Volta: Janverse, Vulpine + residents [Drum & Bass / Jungle / UKG]" on Tue, 6 Oct 2026.
 
 The Bongo Club is a music venue in Edinburgh listed on soundcheck. 16 upcoming gigs, with line-ups including Bryan Gee, Capo Lee, Casement and DJ Gregory and 2 more. See dates, start times and who's playing. 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom.
 
@@ -8,7 +8,7 @@ The Bongo Club is a music venue in Edinburgh listed on soundcheck. 16 upcoming g
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 6 Oct 2026 | Volta: Janverse, Vulpine [Drum & Bass / Jungle] | Janverse, Rodent |
+| Tue, 6 Oct 2026 | Volta: Janverse, Vulpine + residents [Drum & Bass / Jungle / UKG] | Janverse, Rodent |
 | Thu, 8 Oct 2026 | CandyFlip X Form 696: Capo Lee | Capo Lee, Casement, FOLIE (UK), JI_2001, Lara Sinclair |
 | Fri, 9 Oct 2026 | Disorder presents: Bryan Gee & Freddy B [JUNGLE AND DRUM & BASS] | Bryan Gee, Harry Jackson |
 | Sat, 10 Oct 2026 | Hobbes Music x Noetic Rhythm: Jacksonville, Shosha, Hobbes + more TBA | Hobbes, Jacksonville, Shosha |
@@ -23,4 +23,4 @@ The Bongo Club is a music venue in Edinburgh listed on soundcheck. 16 upcoming g
 
 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom, Edinburgh
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*

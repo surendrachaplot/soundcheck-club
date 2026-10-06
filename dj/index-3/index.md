@@ -1,6 +1,6 @@
 # INDEX (3)
 
-INDEX (3) is a Drum & Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Triangle, Osaka on Sun, 11 Oct 2026.
+INDEX (3) is a Drum & Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Triangle, Osaka on Sun, 11 Oct 2026.
 
 INDEX is a drum & bass and hardcore artist based in Japan, with 5 gigs on soundcheck across Osaka and Tokyo. Often billed alongside kakepon, Small Face and Ben Suff Donk. Next up: Triangle, Osaka on Sun 11 Oct.
 
@@ -21,4 +21,4 @@ INDEX is a drum & bass and hardcore artist based in Japan, with 5 gigs on soundc
 
 kakepon, Small Face, Ben Suff Donk
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/index-3/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/index-3/)*

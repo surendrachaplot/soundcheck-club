@@ -1,6 +1,6 @@
 # Dis-Funkshen
 
-Dis-Funkshen is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Civic Underground, Sydney on Sat, 10 Oct 2026.
+Dis-Funkshen is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Civic Underground, Sydney on Sat, 10 Oct 2026.
 
 Dis-Funkshen is a techno and acid artist based in Australia, with 4 gigs on soundcheck across Sydney. Often billed alongside Bryan Ro, Barbuto and Michael Scheppert. Next up: Civic Underground, Sydney on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ Dis-Funkshen is a techno and acid artist based in Australia, with 4 gigs on soun
 
 Bryan Ro, Barbuto, Michael Scheppert
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dis-funkshen/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dis-funkshen/)*

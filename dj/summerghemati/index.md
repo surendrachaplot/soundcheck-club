@@ -1,6 +1,6 @@
 # Summer Ghemati
 
-Summer Ghemati is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Upper East, London on Sat, 10 Oct 2026.
+Summer Ghemati is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Upper East, London on Sat, 10 Oct 2026.
 
 Summer Ghemati is a house and tech house artist based in United Kingdom, with 34 gigs on soundcheck across Barcelona, Brighton, Ibiza and London and 2 more. Often billed alongside Max Dean, Joss Dean and Luke Dean_. Next up: Upper East, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Summer Ghemati is a house and tech house artist based in United Kingdom, with 34
 
 Max Dean, Joss Dean, Luke Dean_
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/summerghemati/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/summerghemati/)*

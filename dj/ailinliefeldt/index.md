@@ -1,6 +1,6 @@
 # Ailin Liefeldt
 
-Ailin Liefeldt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 31 Oct 2026.
+Ailin Liefeldt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 31 Oct 2026.
 
 Ailin Liefeldt is a house and techno artist, with 4 gigs on soundcheck across Berlin. Often billed alongside ailin, AHAB and ANNAWAFFEL. Next up: Jonny Knüppel, Berlin on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Ailin Liefeldt is a house and techno artist, with 4 gigs on soundcheck across Be
 
 ailin, AHAB, ANNAWAFFEL
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ailinliefeldt/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ailinliefeldt/)*

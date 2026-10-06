@@ -1,6 +1,6 @@
 # Shane Blitz
 
-Shane Blitz is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Planet Wax, London on Sat, 14 Nov 2026.
+Shane Blitz is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Planet Wax, London on Sat, 14 Nov 2026.
 
 Shane Blitz is a garage and house artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Lawrence Anthony, Munchie MC and DJ Brockie. Next up: Planet Wax, London on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ Shane Blitz is a garage and house artist based in United Kingdom, with 5 gigs on
 
 Lawrence Anthony, Munchie MC, DJ Brockie
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaneblitz/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaneblitz/)*

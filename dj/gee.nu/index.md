@@ -1,6 +1,6 @@
 # Gee.nu
 
-Gee.nu is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Tijuana on Sat, 10 Oct 2026.
+Gee.nu is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA, Tijuana on Sat, 10 Oct 2026.
 
 Gee.nu is a house and minimal artist based in United States of America, with 31 gigs on soundcheck across Los Angeles, Seattle and Tijuana. Often billed alongside Artur (US), Zalapa and Krane. Next up: TBA, Tijuana on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Gee.nu is a house and minimal artist based in United States of America, with 31 
 
 Artur (US), Zalapa, Krane
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gee.nu/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gee.nu/)*

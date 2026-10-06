@@ -1,6 +1,6 @@
 # Five Alive
 
-Five Alive is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
+Five Alive is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
 
 Five Alive is a jungle and drum & bass artist based in Canada, with 17 gigs on soundcheck across Amsterdam, Brighton, London and Manchester and 2 more. Often billed alongside Nicky Blackmarket, Ray Keith and Billy Daniel Bunter. Next up: Marshall Arena, South East on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Five Alive is a jungle and drum & bass artist based in Canada, with 17 gigs on s
 
 Nicky Blackmarket, Ray Keith, Billy Daniel Bunter
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fivealive/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fivealive/)*

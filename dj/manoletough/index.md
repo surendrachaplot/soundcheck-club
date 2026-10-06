@@ -1,6 +1,6 @@
 # Mano Le Tough
 
-Mano Le Tough is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at La Terrrazza, Barcelona on Sun, 11 Oct 2026.
+Mano Le Tough is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at La Terrrazza, Barcelona on Sun, 11 Oct 2026.
 
 Mano Le Tough is a house and techno artist based in Germany, with 167 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 52 more. Often billed alongside Âme, Jonathan Kaspar and Sossa. Next up: La Terrrazza, Barcelona on Sun 11 Oct.
 
@@ -29,4 +29,4 @@ Mano Le Tough is a house and techno artist based in Germany, with 167 gigs on so
 
 Âme, Jonathan Kaspar, Sossa
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manoletough/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manoletough/)*

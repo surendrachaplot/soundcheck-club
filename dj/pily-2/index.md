@@ -1,6 +1,6 @@
 # Pily (2)
 
-Pily (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Pily (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Pily is a house and techno artist based in United States of America, with 23 gigs on soundcheck across Berlin, Chicago, Greece and Los Angeles and 4 more. Often billed alongside Dana Ruh, Steingold and Alex Dima. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Pily is a house and techno artist based in United States of America, with 23 gig
 
 Dana Ruh, Steingold, Alex Dima
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pily-2/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pily-2/)*

@@ -1,6 +1,6 @@
 # corto.alto
 
-corto.alto is a Jazz and Experimental artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at AB Club (Ancienne Belgique), Brussels on Mon, 12 Oct 2026.
+corto.alto is a Jazz and Experimental artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at AB Club (Ancienne Belgique), Brussels on Mon, 12 Oct 2026.
 
 corto.alto is a jazz and experimental artist based in United Kingdom, with 22 gigs on soundcheck across Berlin, Birmingham, Bristol and Brussels and 11 more. Often billed alongside Chunky, Craig Charles and Joy Guidry. Next up: AB Club (Ancienne Belgique), Brussels on Mon 12 Oct.
 
@@ -28,4 +28,4 @@ corto.alto is a jazz and experimental artist based in United Kingdom, with 22 gi
 
 Chunky, Craig Charles, Joy Guidry
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/corto.alto/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/corto.alto/)*

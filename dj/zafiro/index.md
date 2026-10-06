@@ -1,6 +1,6 @@
 # Zafiro
 
-Zafiro is a Reggaeton and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 16 Oct 2026.
+Zafiro is a Reggaeton and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 16 Oct 2026.
 
 Zafiro is a reggaeton and breakbeat artist based in Colombia, with 10 gigs on soundcheck across Melbourne. Often billed alongside Freddy Gardens, Palazzo and TheCamiloS. Next up: Angel Music Bar, Melbourne on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Zafiro is a reggaeton and breakbeat artist based in Colombia, with 10 gigs on so
 
 Freddy Gardens, Palazzo (2), TheCamiloS
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zafiro/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zafiro/)*

@@ -1,6 +1,6 @@
 # Human Robot
 
-Human Robot is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Spkrbox, Detroit on Tue, 6 Oct 2026.
+Human Robot is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Spkrbox, Detroit on Tue, 6 Oct 2026.
 
 Human Robot is a techno and electronica artist based in Brazil, with 114 gigs on soundcheck across Detroit. Often billed alongside Gary Martin, Body Mechanic and DJ Krazy. Next up: Spkrbox, Detroit on Tue 6 Oct.
 
@@ -25,4 +25,4 @@ Human Robot is a techno and electronica artist based in Brazil, with 114 gigs on
 
 Gary Martin, Body Mechanic, DJ Krazy
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/humanrobot/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/humanrobot/)*

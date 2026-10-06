@@ -1,6 +1,6 @@
 # DJ Love UK
 
-DJ Love UK is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 10 Oct 2026.
+DJ Love UK is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 10 Oct 2026.
 
 DJ Love UK is a techno and garage artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Belfast, Berlin and Bristol and 9 more. Often billed alongside Dusty Dan, Gemi (UK) and THELMA. Next up: Starlane Pizza Bar, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ DJ Love UK is a techno and garage artist based in United Kingdom, with 51 gigs o
 
 Dusty Dan, Gemi (UK), THELMA
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djloveuk/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djloveuk/)*

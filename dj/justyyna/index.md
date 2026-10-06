@@ -1,6 +1,6 @@
 # Justyyna
 
-Justyyna is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Nico's Bar, Glasgow on Fri, 13 Nov 2026.
+Justyyna is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Nico's Bar, Glasgow on Fri, 13 Nov 2026.
 
 Justyyna is a house and trance artist based in United Kingdom, with 4 gigs on soundcheck across Glasgow. Often billed alongside MMS, eurokels and ANGELDOOF. Next up: Nico's Bar, Glasgow on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ Justyyna is a house and trance artist based in United Kingdom, with 4 gigs on so
 
 MMS (2), eurokels, ANGELDOOF
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justyyna/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justyyna/)*

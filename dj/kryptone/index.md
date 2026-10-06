@@ -1,6 +1,6 @@
 # KRYPTONE
 
-KRYPTONE is a Progressive House and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Colombo, Sri-lanka on Sat, 31 Oct 2026.
+KRYPTONE is a Progressive House and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Colombo, Sri-lanka on Sat, 31 Oct 2026.
 
 KRYPTONE is a progressive house and psytrance artist, with 4 gigs on soundcheck across Manchester, Melbourne, Philadelphia and Sri Lanka. Often billed alongside ECHO DAFT, Freetech and Kasper Koman. Next up: TBA - Colombo, Sri Lanka on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ KRYPTONE is a progressive house and psytrance artist, with 4 gigs on soundcheck 
 
 ECHO DAFT, Freetech, Kasper Koman
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kryptone/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kryptone/)*

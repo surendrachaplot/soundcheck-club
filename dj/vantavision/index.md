@@ -1,6 +1,6 @@
 # Vantavision
 
-Vantavision is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Prisma, Berlin on Tue, 6 Oct 2026.
+Vantavision is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Prisma, Berlin on Tue, 6 Oct 2026.
 
 Vantavision is a techno and house artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside Noxumi, k.meower and April (UK). Next up: Prisma, Berlin on Tue 6 Oct.
 
@@ -20,4 +20,4 @@ Vantavision is a techno and house artist based in Germany, with 4 gigs on soundc
 
 Noxumi, k.meower, April (UK)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vantavision/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vantavision/)*

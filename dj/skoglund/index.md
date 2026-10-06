@@ -1,6 +1,6 @@
 # skoglund
 
-skoglund is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Good Room, New York City on Thu, 22 Oct 2026.
+skoglund is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Good Room, New York City on Thu, 22 Oct 2026.
 
 skoglund is a techno and house artist based in United States of America, with 13 gigs on soundcheck across New York City. Often billed alongside Erik Braun, HNDRNC and Ron Like Hell. Next up: Good Room, New York City on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ skoglund is a techno and house artist based in United States of America, with 13
 
 Erik Braun, HNDRNC, Ron Like Hell
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skoglund/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skoglund/)*

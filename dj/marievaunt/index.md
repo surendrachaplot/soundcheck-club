@@ -1,13 +1,14 @@
 # Marie Vaunt
 
-Marie Vaunt is a Techno and Acid artist with 9 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Halle Tony Garnier, Lyon on Sat, 24 Oct 2026.
+Marie Vaunt is a Techno and Acid artist with 10 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
-Marie Vaunt is a techno and acid artist based in United States of America, with 84 gigs on soundcheck across Amsterdam, Arizona, Athens and Auckland and 40 more. Often billed alongside Space 92, Maddix and Eli Brown. Next up: Halle Tony Garnier, Lyon on Sat 24 Oct.
+Marie Vaunt is a techno and acid artist based in United States of America, with 85 gigs on soundcheck across Amsterdam, Arizona, Athens and Auckland and 40 more. Often billed alongside Space 92, Maddix and Eli Brown. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 | Sat, 24 Oct 2026 | Halle Tony Garnier | Lyon |
 | Sun, 25 Oct 2026 | John Doe | Amsterdam |
 | Fri, 30 Oct 2026 | Westworld of Scottsdale | Arizona |
@@ -33,4 +34,4 @@ Marie Vaunt is a techno and acid artist based in United States of America, with 
 
 Space 92, Maddix, Eli Brown
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marievaunt/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marievaunt/)*

@@ -1,8 +1,8 @@
 # 1LDK
 
-1LDK is a Pop and Experimental artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at M.O.T, London on Wed, 7 Oct 2026.
+1LDK is a Pop and Experimental artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at M.O.T, London on Wed, 7 Oct 2026.
 
-1LDK is a pop and experimental artist based in Japan, with 7 gigs on soundcheck across Berlin, Cologne, London and Paris and 1 more. Often billed alongside Andriana-Yaroslava Saienko, Carrier and Catu Diosis. Next up: M.O.T, London on Wed 7 Oct.
+1LDK is a pop and experimental artist based in Japan, with 8 gigs on soundcheck across Barcelona, Berlin, Cologne and London and 2 more. Often billed alongside Andriana-Yaroslava Saienko, Carrier and Catu Diosis. Next up: M.O.T, London on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@
 | Wed, 7 Oct 2026 | M.O.T | London |
 | Thu, 15 Oct 2026 | The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller | Cologne |
 | Thu, 15 Oct 2026 | TBA - Multi venue | Cologne |
+| Sat, 17 Oct 2026 | El Pumarejo Barcelona | Barcelona |
 
 ## Recently played
 
@@ -23,4 +24,4 @@
 
 Andriana-Yaroslava Saienko, Carrier, Catu Diosis
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1ldk/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1ldk/)*

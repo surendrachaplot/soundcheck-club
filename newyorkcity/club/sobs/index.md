@@ -1,6 +1,6 @@
 # SOBs
 
-SOBs is a music venue in New York City with 24 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Jeff Bernat - Luv Language Tour" on Tue, 6 Oct 2026.
+SOBs is a music venue in New York City with 24 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Jeff Bernat - Luv Language Tour" on Tue, 6 Oct 2026.
 
 SOBs is a music venue in New York City listed on soundcheck. 24 upcoming gigs, with line-ups including 444, Joon, Token and VANI. See dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
 
@@ -23,4 +23,4 @@ SOBs is a music venue in New York City listed on soundcheck. 24 upcoming gigs, w
 
 204 Varick Street, New York, NY 10014-4810, USA, New York City
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*

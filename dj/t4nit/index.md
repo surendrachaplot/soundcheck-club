@@ -1,6 +1,6 @@
 # T4NIT
 
-T4NIT is a Pop and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Gretchen, Berlin on Fri, 27 Nov 2026.
+T4NIT is a Pop and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Gretchen, Berlin on Fri, 27 Nov 2026.
 
 T4NIT is a pop and techno artist based in Austria, with 5 gigs on soundcheck across Berlin and Vienna. Often billed alongside ADIRA, Hassandra and ARMANA KHAN. Next up: Gretchen, Berlin on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ T4NIT is a pop and techno artist based in Austria, with 5 gigs on soundcheck acr
 
 ADIRA, Hassandra, ARMANA KHAN
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t4nit/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t4nit/)*

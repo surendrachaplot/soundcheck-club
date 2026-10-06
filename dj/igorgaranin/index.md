@@ -1,6 +1,6 @@
 # Igor Garanin
 
-Igor Garanin is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Lower Deck, London on Sat, 5 Dec 2026.
+Igor Garanin is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Lower Deck, London on Sat, 5 Dec 2026.
 
 Igor Garanin is a progressive house and deep house artist based in Azerbaijan, with 6 gigs on soundcheck across London. Often billed alongside Amber Stomp, GYS (TT) and PROFF. Next up: Lower Deck, London on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ Igor Garanin is a progressive house and deep house artist based in Azerbaijan, w
 
 Amber Stomp, GYS (TT), PROFF
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/igorgaranin/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/igorgaranin/)*

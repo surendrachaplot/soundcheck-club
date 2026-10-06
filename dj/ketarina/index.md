@@ -1,6 +1,6 @@
 # Ketarina
 
-Ketarina is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at ÆDEN, Berlin on Fri, 23 Oct 2026.
+Ketarina is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at ÆDEN, Berlin on Fri, 23 Oct 2026.
 
 Ketarina is a techno and trance artist based in Portugal, with 110 gigs on soundcheck across Barcelona, Basel, Berlin and Lisbon and 5 more. Often billed alongside Taxsh, Madson Carpenter and Schusta. Next up: ÆDEN, Berlin on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Ketarina is a techno and trance artist based in Portugal, with 110 gigs on sound
 
 Taxsh, Madson Carpenter, Schusta
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ketarina/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ketarina/)*

@@ -1,6 +1,6 @@
 # ILAYRUNI
 
-ILAYRUNI is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+ILAYRUNI is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
 ILAYRUNI is an electronic artist based in Spain, with 5 gigs on soundcheck across Barcelona, Central and Madrid. Often billed alongside Decoder, Judy (ES) and 69DB. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ ILAYRUNI is an electronic artist based in Spain, with 5 gigs on soundcheck acros
 
 Decoder, Judy (ES), 69DB
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilayruni/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilayruni/)*

@@ -1,6 +1,6 @@
 # Michael ReDark
 
-Michael ReDark is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Hoxton Cabin, London on Sat, 28 Nov 2026.
+Michael ReDark is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Hoxton Cabin, London on Sat, 28 Nov 2026.
 
 Michael ReDark is a progressive house and electronica artist, with 5 gigs on soundcheck across Barcelona, Berlin and London. Often billed alongside Jesus RedSoul, Cecilia Ena and Darren Black. Next up: Hoxton Cabin, London on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Michael ReDark is a progressive house and electronica artist, with 5 gigs on sou
 
 Jesus RedSoul, Cecilia Ena, Darren Black
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelredark/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelredark/)*

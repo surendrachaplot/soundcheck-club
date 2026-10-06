@@ -1,6 +1,6 @@
 # L.F.T.
 
-L.F.T. is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Golden Pudel Club, Hamburg on Thu, 15 Oct 2026.
+L.F.T. is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Golden Pudel Club, Hamburg on Thu, 15 Oct 2026.
 
 L.F.T. is a techno and electro artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside Festnacht, DJ MELL G and Afra. Next up: Golden Pudel Club, Hamburg on Thu 15 Oct.
 
@@ -28,4 +28,4 @@ L.F.T. is a techno and electro artist based in Germany, with 114 gigs on soundch
 
 Festnacht, DJ MELL G, Afra
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lft/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lft/)*

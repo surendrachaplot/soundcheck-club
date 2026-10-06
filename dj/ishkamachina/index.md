@@ -1,6 +1,6 @@
 # ishka machina
 
-ishka machina is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Bike Jesus, Prague on Fri, 9 Oct 2026.
+ishka machina is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Bike Jesus, Prague on Fri, 9 Oct 2026.
 
 ishka machina is a techno and trance artist based in India, with 72 gigs on soundcheck across Berlin, Munich, Prague and Vienna. Often billed alongside Takē, AVHD and zazitech. Next up: Bike Jesus, Prague on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ ishka machina is a techno and trance artist based in India, with 72 gigs on soun
 
 Takē, AVHD, zazitech
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ishkamachina/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ishkamachina/)*

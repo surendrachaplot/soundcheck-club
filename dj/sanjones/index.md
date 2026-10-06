@@ -1,6 +1,6 @@
 # San Jones
 
-San Jones is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Garage 442, Barcelona on Fri, 9 Oct 2026.
+San Jones is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Garage 442, Barcelona on Fri, 9 Oct 2026.
 
 San Jones is a deep house and house artist, with 8 gigs on soundcheck across Barcelona, Berlin and Tokyo. Often billed alongside Ayako, La Rage and Atletico. Next up: Garage 442, Barcelona on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ San Jones is a deep house and house artist, with 8 gigs on soundcheck across Bar
 
 Ayako, La Rage, Atletico
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanjones/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanjones/)*

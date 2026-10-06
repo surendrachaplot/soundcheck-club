@@ -1,6 +1,6 @@
 # berlinClub
 
-berlinClub is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "El Búho After Party · Modis + El Búho DJ Set + Invitados" on Thu, 8 Oct 2026.
+berlinClub is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "El Búho After Party · Modis + El Búho DJ Set + Invitados" on Thu, 8 Oct 2026.
 
 berlinClub is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including Alejandro Paz, Alexis mayer, Daddy Squad and David Calo and 2 more. See dates, start times and who's playing. Costanilla de los Ángeles, 20, 28013 Madrid.
 
@@ -19,4 +19,4 @@ berlinClub is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, wit
 
 Costanilla de los Ángeles, 20, 28013 Madrid, Madrid
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/berlinclub/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/berlinclub/)*

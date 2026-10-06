@@ -1,6 +1,6 @@
 # FIDDI
 
-FIDDI is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at radial, London on Sat, 10 Oct 2026.
+FIDDI is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at radial, London on Sat, 10 Oct 2026.
 
 FIDDI is a house and acid artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside D.G., Hecha and John Xie. Next up: radial, London on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ FIDDI is a house and acid artist based in United Kingdom, with 5 gigs on soundch
 
 D.G., Hecha, John Xie
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fiddi/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fiddi/)*

@@ -1,6 +1,6 @@
 # Frederic.
 
-Frederic. is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 10 Oct 2026.
+Frederic. is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 10 Oct 2026.
 
 Frederic. is a techno and trance artist based in Germany, with 178 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belfast and 32 more. Often billed alongside CAIVA, Part Time Killer and MCR-T. Next up: Tokonoma Club, Frankfurt on Sat 10 Oct.
 
@@ -31,4 +31,4 @@ Frederic. is a techno and trance artist based in Germany, with 178 gigs on sound
 
 CAIVA, Part Time Killer, MCR-T
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frederic-de/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frederic-de/)*

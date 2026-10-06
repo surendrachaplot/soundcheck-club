@@ -1,6 +1,6 @@
 # Palais Mascotte
 
-Palais Mascotte is a music venue in Zurich with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "TOY TONICS JAM ZURICH: Gee Lane  Davide Dev VALENTINO VIVACE (DJ SET)" on Fri, 9 Oct 2026.
+Palais Mascotte is a music venue in Zurich with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "TOY TONICS JAM ZURICH: Gee Lane  Davide Dev VALENTINO VIVACE (DJ SET)" on Fri, 9 Oct 2026.
 
 Palais Mascotte is a music venue in Zurich listed on soundcheck. 4 upcoming gigs, with line-ups including Davide Dev, Flo Real, Ge-ology and Gee Lane and 2 more. See dates, start times and who's playing. Theaterstrasse 10, 8001 Zürich.
 
@@ -17,4 +17,4 @@ Palais Mascotte is a music venue in Zurich listed on soundcheck. 4 upcoming gigs
 
 Theaterstrasse 10, 8001 Zürich, Zurich
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/palais-mascotte/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/palais-mascotte/)*

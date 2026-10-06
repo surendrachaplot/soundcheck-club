@@ -1,6 +1,6 @@
 # PANDAS
 
-PANDAS is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 12 Oct 2026.
+PANDAS is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 12 Oct 2026.
 
 PANDAS is a house and r&b artist based in Japan, with 5 gigs on soundcheck across Tokyo. Often billed alongside LIGHTING MIURA, MASAYASU and YMASA. Next up: DJ Bar Bridge Shinjuku, Tokyo on Mon 12 Oct.
 
@@ -21,4 +21,4 @@ PANDAS is a house and r&b artist based in Japan, with 5 gigs on soundcheck acros
 
 LIGHTING MIURA, MASAYASU, YMASA
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pandas/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pandas/)*

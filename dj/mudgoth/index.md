@@ -1,6 +1,6 @@
 # mudgoth
 
-mudgoth is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Location Distributed Day Of, Chicago on Sat, 31 Oct 2026.
+mudgoth is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Location Distributed Day Of, Chicago on Sat, 31 Oct 2026.
 
 mudgoth is a techno and breakbeat artist, with 5 gigs on soundcheck across Chicago. Often billed alongside uRaNg3L, Absono and CTRLFR33K. Next up: TBA - Location Distributed Day Of, Chicago on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ mudgoth is a techno and breakbeat artist, with 5 gigs on soundcheck across Chica
 
 uRaNg3L, Absono, CTRLFR33K
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mudgoth/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mudgoth/)*

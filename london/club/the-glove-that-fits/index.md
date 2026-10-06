@@ -1,6 +1,6 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 20 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Fragment: Open Decks" on Thu, 8 Oct 2026.
+The Glove That Fits is a music venue in London with 20 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Fragment: Open Decks" on Thu, 8 Oct 2026.
 
 The Glove That Fits is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including Aisling, Amor Ante, Ardishko and Baby Rollén and 2 more. See dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
@@ -23,4 +23,4 @@ The Glove That Fits is a music venue in London listed on soundcheck. 20 upcoming
 
 179 Morning Lane, Hackney, E96LH, United Kingdom, London
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*

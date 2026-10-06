@@ -1,6 +1,6 @@
 # Optimuss
 
-Optimuss is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at K-30, Saint-petersburg on Sat, 7 Nov 2026.
+Optimuss is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at K-30, Saint-petersburg on Sat, 7 Nov 2026.
 
 Optimuss is an industrial and techno artist based in Russia, with 5 gigs on soundcheck across Amsterdam, Berlin, Budapest and Madrid and 1 more. Often billed alongside D|K|OXY, FOGGA and VRODAK. Next up: K-30, Saint Petersburg on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ Optimuss is an industrial and techno artist based in Russia, with 5 gigs on soun
 
 D|K|OXY, FOGGA, VRODAK
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/optimuss/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/optimuss/)*

@@ -1,6 +1,6 @@
 # Bsmnt
 
-Bsmnt is a music venue in Boston with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Boston Ravers present: Victor Calderone" on Sun, 11 Oct 2026.
+Bsmnt is a music venue in Boston with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Boston Ravers present: Victor Calderone" on Sun, 11 Oct 2026.
 
 Bsmnt is a music venue in Boston listed on soundcheck. 3 upcoming gigs, with line-ups including Kasia (OFC), Marco Strous and Victor Calderone. See dates, start times and who's playing. 100 stuart st, boston, ma.
 
@@ -16,4 +16,4 @@ Bsmnt is a music venue in Boston listed on soundcheck. 3 upcoming gigs, with lin
 
 100 stuart st, boston, ma, Boston
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/bsmnt/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/bsmnt/)*

@@ -1,6 +1,6 @@
 # Dj Alyaz
 
-Dj Alyaz is a Grime and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Fuchs2, Prague on Sat, 10 Oct 2026.
+Dj Alyaz is a Grime and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Fuchs2, Prague on Sat, 10 Oct 2026.
 
 Dj Alyaz is a grime and bass artist based in Czech Republic, with 26 gigs on soundcheck across Berlin, Helsinki, Prague and Riga. Often billed alongside Sir Free, JohnyM and Tereza.Pro. Next up: Fuchs2, Prague on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Dj Alyaz is a grime and bass artist based in Czech Republic, with 26 gigs on sou
 
 Sir Free, JohnyM, Tereza.Pro
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djalyaz/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djalyaz/)*

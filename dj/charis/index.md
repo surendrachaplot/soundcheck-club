@@ -1,6 +1,6 @@
 # charis
 
-charis is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Bullingdon, South-east on Sat, 17 Oct 2026.
+charis is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Bullingdon, South-east on Sat, 17 Oct 2026.
 
 charis is a drum & bass and house artist based in Germany, with 14 gigs on soundcheck across Berlin, Leipzig, London and South East. Often billed alongside Sparkly Pony, 000vda and ANTHRAZIT. Next up: The Bullingdon, South East on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ charis is a drum & bass and house artist based in Germany, with 14 gigs on sound
 
 Sparkly Pony, 000vda, ANTHRAZIT
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charis/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charis/)*

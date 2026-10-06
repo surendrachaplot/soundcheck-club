@@ -1,6 +1,6 @@
 # Loods6
 
-Loods6 is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Currents - Configuration I" on Thu, 22 Oct 2026.
+Loods6 is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Currents - Configuration I" on Thu, 22 Oct 2026.
 
 Loods6 is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Loek Frey, Nadia Struiwigh, nthng and NTHNG and 2 more. See dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ Loods6 is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with
 | Sat, 24 Oct 2026 | Currents - Spatial Sound Workshops &  Ambrio Mixer Demos |  |
 | Sun, 25 Oct 2026 | Currents - Gathering Sounds: Spatial Sound Meetup |  |
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/loods6/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/loods6/)*

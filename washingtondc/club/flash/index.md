@@ -1,6 +1,6 @@
 # Flash
 
-Flash is a music venue in Washington DC with 21 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "FOCUS: Marcel Dettmann" on Fri, 9 Oct 2026.
+Flash is a music venue in Washington DC with 21 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "FOCUS: Marcel Dettmann" on Fri, 9 Oct 2026.
 
 Flash is a music venue in Washington DC listed on soundcheck. 21 upcoming gigs, with line-ups including Adrian Collazo, Adyy Love, Alan Fitzpatrick and Aline Umber and 2 more. See dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
 
@@ -23,4 +23,4 @@ Flash is a music venue in Washington DC listed on soundcheck. 21 upcoming gigs, 
 
 645 Florida Ave, NW, Washington, D.C. 20001, Washington DC
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*

@@ -1,6 +1,6 @@
 # Somewhen
 
-Somewhen is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Brooklyn Roots Collective, New York City on Sat, 17 Oct 2026.
+Somewhen is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Brooklyn Roots Collective, New York City on Sat, 17 Oct 2026.
 
 Somewhen is a techno and trance artist based in Germany, with 216 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 61 more. Often billed alongside Kobosil, Clara Cuvé and In Verruf. Next up: Brooklyn Roots Collective, New York City on Sat 17 Oct.
 
@@ -34,4 +34,4 @@ Somewhen is a techno and trance artist based in Germany, with 216 gigs on soundc
 
 Kobosil, Clara Cuvé, In Verruf
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*

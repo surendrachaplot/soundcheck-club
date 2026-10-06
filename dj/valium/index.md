@@ -1,6 +1,6 @@
 # Valium
 
-Valium is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Oven Club, Valencia on Thu, 8 Oct 2026.
+Valium is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Oven Club, Valencia on Thu, 8 Oct 2026.
 
 Valium is a house and tech house artist based in Spain, with 28 gigs on soundcheck across Barcelona, Madrid, Rome and Valencia. Often billed alongside DISTORT (ES), Juguete and nBlueMoney. Next up: Oven Club, Valencia on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Valium is a house and tech house artist based in Spain, with 28 gigs on soundche
 
 DISTORT (ES), Juguete, nBlueMoney
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valium/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valium/)*

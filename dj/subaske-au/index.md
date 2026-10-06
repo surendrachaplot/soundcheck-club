@@ -1,6 +1,6 @@
 # Subaske
 
-Subaske is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Thu, 8 Oct 2026.
+Subaske is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Thu, 8 Oct 2026.
 
 Subaske is a techno and house artist based in Australia, with 5 gigs on soundcheck across Sydney and Tokyo. Often billed alongside Air Max '97, Alec Sander and DJ GOANNA. Next up: UTOPIA / DYSTOPIA, Tokyo on Thu 8 Oct.
 
@@ -21,4 +21,4 @@ Subaske is a techno and house artist based in Australia, with 5 gigs on soundche
 
 Air Max '97, Alec Sander, DJ GOANNA
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subaske-au/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subaske-au/)*

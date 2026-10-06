@@ -1,6 +1,6 @@
 # Hades
 
-Hades is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at WaV, Liverpool on Sat, 10 Oct 2026.
+Hades is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at WaV, Liverpool on Sat, 10 Oct 2026.
 
 Hades is a techno and hardcore artist based in Netherlands, with 68 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 26 more. Often billed alongside KARAH, CARV and JAZZY. Next up: WaV, Liverpool on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Hades is a techno and hardcore artist based in Netherlands, with 68 gigs on soun
 
 KARAH, CARV, JAZZY (2)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hades/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hades/)*

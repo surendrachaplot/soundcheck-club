@@ -1,6 +1,6 @@
 # Hedon: Vampire Weekend at Domicile
 
-Hedon: Vampire Weekend at Domicile on Fri 23 Oct, Miami. 7 artists: Carla Schmitt, Dani Thorne, INSTINCT and Lara Klart and 3 more. See the line-up on soundcheck.
+Hedon: Vampire Weekend at Domicile on Fri 23 Oct, Miami. 7 artists: Carla Schmitt, Dani Thorne, INSTINCT and Lara Klart and 3 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

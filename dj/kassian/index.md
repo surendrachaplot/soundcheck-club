@@ -1,6 +1,6 @@
 # Kassian
 
-Kassian is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
+Kassian is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
 
 Kassian is a house and techno artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Belfast and 15 more. Often billed alongside Joe Milli, Jay Carder and Breaka. Next up: Zwart Goud Record Store, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Kassian is a house and techno artist based in United Kingdom, with 50 gigs on so
 
 Joe Milli, Jay Carder, Breaka
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kassian/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kassian/)*

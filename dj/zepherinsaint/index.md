@@ -1,6 +1,6 @@
 # Zepherin Saint
 
-Zepherin Saint is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Thornbury Theatre, Victoria on Sat, 10 Oct 2026.
+Zepherin Saint is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The Thornbury Theatre, Victoria on Sat, 10 Oct 2026.
 
 Zepherin Saint is a house and deep house artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Auckland, Madrid and Melbourne and 3 more. Often billed alongside Mike Gurrieri, Zjoso and Chris NG. Next up: The Thornbury Theatre, Victoria on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Zepherin Saint is a house and deep house artist based in United Kingdom, with 50
 
 Mike Gurrieri, Zjoso, Chris NG
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zepherinsaint/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zepherinsaint/)*

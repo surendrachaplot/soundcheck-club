@@ -1,14 +1,14 @@
 # Paul Anthonee
 
-Paul Anthonee is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Amsterdam Club Train, Amsterdam on Sat, 24 Oct 2026.
+Paul Anthonee is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sat, 24 Oct 2026.
 
-Paul Anthonee is a techno and house artist based in Cyprus, with 4 gigs on soundcheck across Amsterdam, Berlin and Romania. Often billed alongside Darin Epsilon, SHAZZE and 6RAJ. Next up: Amsterdam Club Train, Amsterdam on Sat 24 Oct.
+Paul Anthonee is a techno and house artist based in Cyprus, with 4 gigs on soundcheck across Amsterdam, Berlin and Romania. Often billed alongside Darin Epsilon, SHAZZE and 6RAJ. Next up: 50:Hertz Club Train, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Amsterdam Club Train | Amsterdam |
+| Sat, 24 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 | Fri, 18 Jun 2027 | TBA | Romania |
 
 ## Recently played
@@ -20,4 +20,4 @@ Paul Anthonee is a techno and house artist based in Cyprus, with 4 gigs on sound
 
 Darin Epsilon, SHAZZE, 6RAJ
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulanthonee/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulanthonee/)*

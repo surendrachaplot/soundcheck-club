@@ -1,6 +1,6 @@
 # Karaoke
 
-Karaoke is a Hip-Hop and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Labüsch-Bar, Winterthur, Zurich on Fri, 16 Oct 2026.
+Karaoke is a Hip-Hop and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Labüsch-Bar, Winterthur, Zurich on Fri, 16 Oct 2026.
 
 Karaoke is a hip-hop and pop artist, with 4 gigs on soundcheck across Bangkok, Washington DC and Zurich. Often billed alongside Afrobeat, MeeT and dj do (NL). Next up: Labüsch-Bar, Winterthur, Zurich on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ Karaoke is a hip-hop and pop artist, with 4 gigs on soundcheck across Bangkok, W
 
 Afrobeat, MeeT, dj do (NL)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karaoke/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karaoke/)*

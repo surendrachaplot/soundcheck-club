@@ -1,6 +1,6 @@
 # Magin Karica
 
-Magin Karica is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Cinetol, Amsterdam on Fri, 23 Oct 2026.
+Magin Karica is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Cinetol, Amsterdam on Fri, 23 Oct 2026.
 
 Magin Karica is a techno and house artist based in Portugal, with 5 gigs on soundcheck across Amsterdam, Berlin and Lisbon. Often billed alongside Lucy Snake, Marco Ramos and Brusca. Next up: Cinetol, Amsterdam on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Magin Karica is a techno and house artist based in Portugal, with 5 gigs on soun
 
 Lucy Snake, Marco Ramos, Brusca
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maginkarica/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maginkarica/)*

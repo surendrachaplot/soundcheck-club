@@ -1,6 +1,6 @@
 # Lunecell
 
-Lunecell is a Psytrance and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Sydney on Thu, 8 Oct 2026.
+Lunecell is a Psytrance and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA, Sydney on Thu, 8 Oct 2026.
 
 Lunecell is a psytrance and drum & bass artist, with 5 gigs on soundcheck across Boston, New York City, Philadelphia and Sydney. Often billed alongside A Strange Wedding, Andrey Trofimov and Andy Garvey. Next up: TBA, Sydney on Thu 8 Oct.
 
@@ -21,4 +21,4 @@ Lunecell is a psytrance and drum & bass artist, with 5 gigs on soundcheck across
 
 A Strange Wedding, Andrey Trofimov, Andy Garvey
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lunecell/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lunecell/)*

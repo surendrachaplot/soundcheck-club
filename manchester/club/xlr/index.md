@@ -1,6 +1,6 @@
 # XLR
 
-XLR is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Sucker Punch X XLR [B.Y.O.B]" on Fri, 9 Oct 2026.
+XLR is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Sucker Punch X XLR [B.Y.O.B]" on Fri, 9 Oct 2026.
 
 XLR is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with line-ups including 0akley, abejizaza, Azrel and DJ HEADTORCH and 2 more. See dates, start times and who's playing. 455 Wilmslow Road, Withington, Manchester, M20 4AN.
 
@@ -21,4 +21,4 @@ XLR is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with l
 
 455 Wilmslow Road, Withington, Manchester, M20 4AN, Manchester
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/xlr/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/xlr/)*

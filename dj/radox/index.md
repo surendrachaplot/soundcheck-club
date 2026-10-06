@@ -1,14 +1,15 @@
 # Radox
 
-Radox is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Forge, Bucharest on Fri, 13 Nov 2026.
+Radox is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Forge, Bucharest on Fri, 13 Nov 2026.
 
-Radox is a techno and trance artist based in Romania, with 45 gigs on soundcheck across Berlin, Bucharest and Malta. Often billed alongside FAUST, Thomas Rob and Kanghu. Next up: Forge, Bucharest on Fri 13 Nov.
+Radox is a techno and trance artist based in Romania, with 46 gigs on soundcheck across Berlin, Bucharest and Malta. Often billed alongside FAUST, Thomas Rob and Kanghu. Next up: Forge, Bucharest on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Forge | Bucharest |
+| Fri, 15 Jan 2027 | TBA | Bucharest |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Radox is a techno and trance artist based in Romania, with 45 gigs on soundcheck
 
 FAUST (1), Thomas Rob, Kanghu
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/radox/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/radox/)*

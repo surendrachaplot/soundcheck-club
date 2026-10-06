@@ -1,6 +1,6 @@
 # Yotto
 
-Yotto is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Bootshaus, Cologne on Sat, 17 Oct 2026.
+Yotto is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Bootshaus, Cologne on Sat, 17 Oct 2026.
 
 Yotto is a progressive house and techno artist based in Finland, with 102 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 33 more. Often billed alongside Nicky Elisabeth, Cristoph and Qrion. Next up: Bootshaus, Cologne on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Yotto is a progressive house and techno artist based in Finland, with 102 gigs o
 
 Nicky Elisabeth, Cristoph, Qrion
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yotto/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yotto/)*

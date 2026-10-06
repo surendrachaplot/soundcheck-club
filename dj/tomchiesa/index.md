@@ -1,8 +1,8 @@
 # TOM CHIESA
 
-TOM CHIESA is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Skin Club, Madrid on Fri, 16 Oct 2026.
+TOM CHIESA is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Skin Club, Madrid on Fri, 16 Oct 2026.
 
-TOM CHIESA is a techno and club artist, with 49 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Lisbon and 3 more. Often billed alongside Rubén Secaduras, PATTY&SELMA and ADHDaddy. Next up: Skin Club, Madrid on Fri 16 Oct.
+TOM CHIESA is a techno and club artist based in Venezuela, with 49 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Lisbon and 3 more. Often billed alongside Rubén Secaduras, PATTY&SELMA and ADHDaddy. Next up: Skin Club, Madrid on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ TOM CHIESA is a techno and club artist, with 49 gigs on soundcheck across Amster
 
 Rubén Secaduras, PATTY&SELMA, ADHDaddy
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomchiesa/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomchiesa/)*

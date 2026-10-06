@@ -1,6 +1,6 @@
 # DJ Tree
 
-DJ Tree is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at feedbk, New York City on Fri, 9 Oct 2026.
+DJ Tree is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at feedbk, New York City on Fri, 9 Oct 2026.
 
 DJ Tree is a techno and house artist based in Germany, with 51 gigs on soundcheck across Bali, Barcelona, Berlin and Bucharest and 16 more. Often billed alongside Dizzy, Matthias and Niff. Next up: feedbk, New York City on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DJ Tree is a techno and house artist based in Germany, with 51 gigs on soundchec
 
 Dizzy, Matthias (1), Niff
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtree/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtree/)*

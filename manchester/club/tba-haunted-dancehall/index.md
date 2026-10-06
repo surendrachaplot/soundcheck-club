@@ -1,6 +1,6 @@
 # TBA - Haunted Dancehall
 
-TBA - Haunted Dancehall is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. The next is "In Store with Bonnie & Stripe" on Sat, 10 Oct 2026.
+TBA - Haunted Dancehall is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "In Store with Bonnie & Stripe" on Sat, 10 Oct 2026.
 
 TBA - Haunted Dancehall is a music venue in Manchester listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Haunted Dancehall is a music venue in Manchester listed on soundcheck. 1 u
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | In Store with Bonnie & Stripe |  |
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/tba-haunted-dancehall/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/tba-haunted-dancehall/)*

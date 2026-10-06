@@ -1,6 +1,6 @@
 # Maveen
 
-Maveen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Berkeley Suite, Glasgow on Fri, 9 Oct 2026.
+Maveen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Berkeley Suite, Glasgow on Fri, 9 Oct 2026.
 
 Maveen is a techno and house artist based in Uganda, with 59 gigs on soundcheck across Dundee, Edinburgh, Glasgow and Manchester. Often billed alongside Shakara, DIJA and Plantainchipps. Next up: The Berkeley Suite, Glasgow on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Maveen is a techno and house artist based in Uganda, with 59 gigs on soundcheck 
 
 Shakara, DIJA, Plantainchipps
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maveen/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maveen/)*

@@ -1,6 +1,6 @@
 # DJ Dios
 
-DJ Dios is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Späti 4 You, Berlin on Sat, 31 Oct 2026.
+DJ Dios is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Späti 4 You, Berlin on Sat, 31 Oct 2026.
 
 DJ Dios is a techno and trance artist based in Germany, with 13 gigs on soundcheck across Berlin. Often billed alongside FRÆNCIS, JENKA and Momentune. Next up: Späti 4 You, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ Dios is a techno and trance artist based in Germany, with 13 gigs on soundche
 
 FRÆNCIS, JENKA, Momentune
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdios/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdios/)*

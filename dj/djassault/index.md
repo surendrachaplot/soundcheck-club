@@ -1,6 +1,6 @@
 # DJ Assault
 
-DJ Assault is a Ghetto Tech and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at BASIS, Utrecht on Fri, 9 Oct 2026.
+DJ Assault is a Ghetto Tech and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at BASIS, Utrecht on Fri, 9 Oct 2026.
 
 DJ Assault is a ghetto tech and techno artist based in United States of America, with 172 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside Fullbodydurag, Detroit In Effect and Sheefy McFly. Next up: BASIS, Utrecht on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ DJ Assault is a ghetto tech and techno artist based in United States of America,
 
 Fullbodydurag, Detroit In Effect, Sheefy McFly
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djassault/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djassault/)*

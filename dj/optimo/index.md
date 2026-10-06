@@ -1,6 +1,6 @@
 # Optimo (Espacio)
 
-Optimo (Espacio) is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Palladium, Geneva on Fri, 9 Oct 2026.
+Optimo (Espacio) is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Palladium, Geneva on Fri, 9 Oct 2026.
 
 Optimo (Espacio) is a house and techno artist based in United Kingdom, with 195 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 44 more. Often billed alongside Daniel Avery, HAAi and Batu. Next up: Palladium, Geneva on Fri 9 Oct.
 
@@ -35,4 +35,4 @@ Optimo (Espacio) is a house and techno artist based in United Kingdom, with 195 
 
 Daniel Avery, HAAi, Batu
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*

@@ -1,6 +1,6 @@
 # DJ Geheimagent
 
-DJ Geheimagent is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Z-Bau, Nürnberg on Sat, 17 Oct 2026.
+DJ Geheimagent is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Z-Bau, Nürnberg on Sat, 17 Oct 2026.
 
 DJ Geheimagent is a trance and techno artist based in Germany, with 4 gigs on soundcheck across Nürnberg. Often billed alongside DJ SHADY MF, Maddy V and Salush. Next up: Z-Bau, Nürnberg on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ DJ Geheimagent is a trance and techno artist based in Germany, with 4 gigs on so
 
 DJ SHADY MF, Maddy V, Salush
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgeheimagent/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgeheimagent/)*

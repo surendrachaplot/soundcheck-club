@@ -1,6 +1,6 @@
 # FLUCC
 
-FLUCC is a music venue in Vienna with 14 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "LICCHT w/ DELI GIRLS (US) // RENT (A)" on Tue, 6 Oct 2026.
+FLUCC is a music venue in Vienna with 14 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "LICCHT w/ DELI GIRLS (US) // RENT (A)" on Tue, 6 Oct 2026.
 
 FLUCC is a music venue in Vienna listed on soundcheck. 14 upcoming gigs, with line-ups including Altroy Jerome, AMOVV, anxxxious_t and Authentically Plastic and 2 more. See dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
 
@@ -23,4 +23,4 @@ FLUCC is a music venue in Vienna listed on soundcheck. 14 upcoming gigs, with li
 
 Praterstern 5; Vienna 1020; Austria, Vienna
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*

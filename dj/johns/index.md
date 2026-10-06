@@ -1,6 +1,6 @@
 # John's
 
-John's is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Tola, London on Sat, 17 Oct 2026.
+John's is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Tola, London on Sat, 17 Oct 2026.
 
 John's is a house and techno artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Colaps, Cristian Sirica and Misura. Next up: Tola, London on Sat 17 Oct.
 
@@ -22,4 +22,4 @@ John's is a house and techno artist based in United Kingdom, with 6 gigs on soun
 
 Colaps, Cristian Sirica, Misura
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johns/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johns/)*

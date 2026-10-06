@@ -1,6 +1,6 @@
 # CHAZZ D&B
 
-CHAZZ D&B is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Esbirra Ibiza, Ibiza on Fri, 9 Oct 2026.
+CHAZZ D&B is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Esbirra Ibiza, Ibiza on Fri, 9 Oct 2026.
 
 CHAZZ D&B is a drum & bass and jungle artist based in Germany, with 4 gigs on soundcheck across Ibiza. Often billed alongside CHAZZ. Next up: Esbirra Ibiza, Ibiza on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ CHAZZ D&B is a drum & bass and jungle artist based in Germany, with 4 gigs on so
 
 CHAZZ (2)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chazz-dnb/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chazz-dnb/)*

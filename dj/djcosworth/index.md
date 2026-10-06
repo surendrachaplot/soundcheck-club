@@ -1,6 +1,6 @@
 # DJ Cosworth
 
-DJ Cosworth is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Stealth, Nottingham on Fri, 9 Oct 2026.
+DJ Cosworth is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Stealth, Nottingham on Fri, 9 Oct 2026.
 
 DJ Cosworth is a garage and house artist based in United Kingdom, with 82 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Belfast and 21 more. Often billed alongside Oldboy, Dr Dubplate and Bakey. Next up: Stealth, Nottingham on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ DJ Cosworth is a garage and house artist based in United Kingdom, with 82 gigs o
 
 Oldboy, Dr Dubplate, Bakey
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcosworth/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcosworth/)*

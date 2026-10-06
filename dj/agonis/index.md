@@ -1,6 +1,6 @@
 # Agonis
 
-Agonis is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Signal, New York City on Fri, 9 Oct 2026.
+Agonis is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Signal, New York City on Fri, 9 Oct 2026.
 
 Agonis is a techno and experimental artist based in Switzerland, with 75 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 24 more. Often billed alongside Garçon, Timnah and Konduku. Next up: Signal, New York City on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Agonis is a techno and experimental artist based in Switzerland, with 75 gigs on
 
 Garçon, Timnah, Konduku
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agonis/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agonis/)*

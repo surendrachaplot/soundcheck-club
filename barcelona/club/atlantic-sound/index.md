@@ -1,6 +1,6 @@
 # Atlantic Sound
 
-Atlantic Sound is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "INFRAMUNDIO II" on Fri, 23 Oct 2026.
+Atlantic Sound is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "INFRAMUNDIO II" on Fri, 23 Oct 2026.
 
 Atlantic Sound is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Armero, gitano del futuro, Pestdokter and REGGIO and 2 more. See dates, start times and who's playing. Carrer del Plom, 1, Sants-Montjuïc, 08038 Barcelona.
 
@@ -15,4 +15,4 @@ Atlantic Sound is a music venue in Barcelona listed on soundcheck. 2 upcoming gi
 
 Carrer del Plom, 1, Sants-Montjuïc, 08038 Barcelona, Barcelona
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/atlantic-sound/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/atlantic-sound/)*

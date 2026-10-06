@@ -1,6 +1,6 @@
 # TBA - Secret Location (Madrid)
 
-TBA - Secret Location (Madrid) is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "The Rose Island III Anniversary" on Sat, 10 Oct 2026.
+TBA - Secret Location (Madrid) is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "The Rose Island III Anniversary" on Sat, 10 Oct 2026.
 
 TBA - Secret Location (Madrid) is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with line-ups including Butter.Jim, Cristal Roto, Dana Kuehr and DELASFLORES and 2 more. See dates, start times and who's playing.
 
@@ -16,4 +16,4 @@ TBA - Secret Location (Madrid) is a music venue in Madrid listed on soundcheck. 
 | Sun, 6 Dec 2026 | MyPleasure // ANNIVERSARY WEEK // Climax |  |
 | Mon, 7 Dec 2026 | MyPleasure // ANNIVERSARY WEEK // Ending |  |
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-secret-location-madrid/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-secret-location-madrid/)*

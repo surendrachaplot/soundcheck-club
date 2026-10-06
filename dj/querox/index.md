@@ -1,6 +1,6 @@
 # Querox
 
-Querox is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at KitKatClub, Berlin on Wed, 28 Oct 2026.
+Querox is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at KitKatClub, Berlin on Wed, 28 Oct 2026.
 
 Querox is a trance and techno artist based in Germany, with 13 gigs on soundcheck across Bangkok, Berlin and Hamburg. Often billed alongside Basstronauten, Daniel Boon and DJ Jordan. Next up: KitKatClub, Berlin on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Querox is a trance and techno artist based in Germany, with 13 gigs on soundchec
 
 Basstronauten, Daniel Boon, DJ Jordan
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/querox/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/querox/)*

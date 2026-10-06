@@ -1,6 +1,6 @@
 # Elderbrook
 
-Elderbrook is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Edifício Touring, Rio-de-janeiro on Fri, 9 Oct 2026.
+Elderbrook is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Edifício Touring, Rio-de-janeiro on Fri, 9 Oct 2026.
 
 Elderbrook is a house and electro artist based in United Kingdom, with 83 gigs on soundcheck across Austin, Bali, Barcelona and Basel and 34 more. Often billed alongside Cassian, Eli Brown and Boys Noize. Next up: Edifício Touring, Rio De Janeiro on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Elderbrook is a house and electro artist based in United Kingdom, with 83 gigs o
 
 Cassian, Eli Brown, Boys Noize
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elderbrook/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elderbrook/)*

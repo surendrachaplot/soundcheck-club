@@ -1,6 +1,6 @@
 # Rafael
 
-Rafael is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Rafael is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Rafael is a house and tech house artist, with 37 gigs on soundcheck across Austin, Berlin, Chicago and Dublin and 11 more. Often billed alongside OMRI., Flor Coto and Luke Dean_. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Rafael is a house and tech house artist, with 37 gigs on soundcheck across Austi
 
 OMRI., Flor Coto, Luke Dean_
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafael/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafael/)*

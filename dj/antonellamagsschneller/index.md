@@ -1,6 +1,6 @@
 # Antonella mags schneller
 
-Antonella mags schneller is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at ://about blank, Berlin on Sat, 24 Oct 2026.
+Antonella mags schneller is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at ://about blank, Berlin on Sat, 24 Oct 2026.
 
 Antonella mags schneller is a techno and trance artist, with 4 gigs on soundcheck across Berlin. Often billed alongside JUWLZ, ASTRANA and Abimixx. Next up: ://about blank, Berlin on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ Antonella mags schneller is a techno and trance artist, with 4 gigs on soundchec
 
 JUWLZ, ASTRANA, Abimixx
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antonellamagsschneller/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antonellamagsschneller/)*

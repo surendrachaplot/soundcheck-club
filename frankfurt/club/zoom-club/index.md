@@ -1,6 +1,6 @@
 # Zoom Club
 
-Zoom Club is a music venue in Frankfurt with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "4 My People X Femme Frequency" on Sat, 17 Oct 2026.
+Zoom Club is a music venue in Frankfurt with 8 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "4 My People X Femme Frequency" on Sat, 17 Oct 2026.
 
 Zoom Club is a music venue in Frankfurt listed on soundcheck. 8 upcoming gigs, with line-ups including 18+, CAIVA, Cera Khin and Fedele and 2 more. See dates, start times and who's playing. Carl-Benz-Straße 21, 60386 Frankfurt am Main, Germany.
 
@@ -21,4 +21,4 @@ Zoom Club is a music venue in Frankfurt listed on soundcheck. 8 upcoming gigs, w
 
 Carl-Benz-Straße 21, 60386 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/zoom-club/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/zoom-club/)*

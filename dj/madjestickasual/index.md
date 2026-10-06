@@ -1,6 +1,6 @@
 # Madjestic Kasual
 
-Madjestic Kasual is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Vespers Club, London on Thu, 8 Oct 2026.
+Madjestic Kasual is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Vespers Club, London on Thu, 8 Oct 2026.
 
 Madjestic Kasual is a club and experimental artist, with 39 gigs on soundcheck across Amsterdam, Berlin, Dundee and Geneva and 6 more. Often billed alongside DJ Pitch, Organ Tapes and blastah. Next up: Vespers Club, London on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Madjestic Kasual is a club and experimental artist, with 39 gigs on soundcheck a
 
 DJ Pitch, Organ Tapes, blastah
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madjestickasual/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madjestickasual/)*

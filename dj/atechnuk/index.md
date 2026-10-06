@@ -1,6 +1,6 @@
 # a:technuk
 
-a:technuk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at elipamanoke, Leipzig on Sat, 31 Oct 2026.
+a:technuk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at elipamanoke, Leipzig on Sat, 31 Oct 2026.
 
 a:technuk is a techno and house artist, with 6 gigs on soundcheck across Leipzig. Often billed alongside Junction, Siggi Petrol and SCHUB. Next up: elipamanoke, Leipzig on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ a:technuk is a techno and house artist, with 6 gigs on soundcheck across Leipzig
 
 Junction, Siggi Petrol, SCHUB
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atechnuk/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atechnuk/)*

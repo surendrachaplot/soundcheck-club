@@ -1,6 +1,6 @@
 # Diceman
 
-Diceman is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at DJ Bar Bridge, Tokyo on Tue, 6 Oct 2026.
+Diceman is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at DJ Bar Bridge, Tokyo on Tue, 6 Oct 2026.
 
 Diceman is a dub and bass artist based in Japan, with 32 gigs on soundcheck across Tokyo. Often billed alongside Aimos, Kodai and Ozwick. Next up: DJ Bar Bridge, Tokyo on Tue 6 Oct.
 
@@ -25,4 +25,4 @@ Diceman is a dub and bass artist based in Japan, with 32 gigs on soundcheck acro
 
 Aimos, Kodai, Ozwick
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diceman/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diceman/)*

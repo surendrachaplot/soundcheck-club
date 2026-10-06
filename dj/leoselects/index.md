@@ -1,6 +1,6 @@
 # LEO SELECTS
 
-LEO SELECTS is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at M.O.T, London on Fri, 9 Oct 2026.
+LEO SELECTS is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at M.O.T, London on Fri, 9 Oct 2026.
 
 LEO SELECTS is a jungle and drum & bass artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside Agility, Bryn Brax and OS:MAN. Next up: M.O.T, London on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ LEO SELECTS is a jungle and drum & bass artist based in United Kingdom, with 4 g
 
 Agility, Bryn Brax, OS:MAN
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leoselects/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leoselects/)*

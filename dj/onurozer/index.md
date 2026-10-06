@@ -1,8 +1,8 @@
 # Onur Özer
 
-Onur Özer is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Onur Özer is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Onur Özer is a techno and house artist based in Germany, with 116 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Christian AB, Francesco Del Garda and Lumiere. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Onur Özer is a techno and house artist based in Germany, with 117 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Christian AB, Francesco Del Garda and Lumiere. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Onur Özer is a techno and house artist based in Germany, with 116 gigs on sound
 | Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Sun, 25 Oct 2026 | Pllek | Amsterdam |
 | Fri, 30 Oct 2026 | TBA - Downtown LA | Los Angeles |
+| Sat, 31 Oct 2026 | H0L0 | New York City |
 | Sat, 7 Nov 2026 | The Yard | Manchester |
 
 ## Recently played
@@ -31,4 +32,4 @@ Onur Özer is a techno and house artist based in Germany, with 116 gigs on sound
 
 Christian AB, Francesco Del Garda, Lumiere
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onurozer/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onurozer/)*

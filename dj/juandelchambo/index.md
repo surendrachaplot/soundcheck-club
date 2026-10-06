@@ -1,6 +1,6 @@
 # Juan Del Chambo
 
-Juan Del Chambo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Artheater, Cologne on Sat, 10 Oct 2026.
+Juan Del Chambo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Artheater, Cologne on Sat, 10 Oct 2026.
 
 Juan Del Chambo is a techno and house artist based in Germany, with 63 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 2 more. Often billed alongside KEN (DE), DJ PayPaul and Chaos Techno.Berlin. Next up: Artheater, Cologne on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Juan Del Chambo is a techno and house artist based in Germany, with 63 gigs on s
 
 KEN (DE), DJ PayPaul, Chaos Techno.Berlin
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juandelchambo/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juandelchambo/)*

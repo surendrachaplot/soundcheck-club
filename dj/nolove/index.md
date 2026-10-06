@@ -1,6 +1,6 @@
 # Nolove
 
-Nolove is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 5 Oct 2026.
+Nolove is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 5 Oct 2026.
 
 Nolove is a house and techno artist based in South Korea, with 116 gigs on soundcheck across Seoul. Often billed alongside Youngseok, Gyusco and JNS. Next up: Stoked&stoned, Seoul on Mon 5 Oct.
 
@@ -13,6 +13,7 @@ Nolove is a house and techno artist based in South Korea, with 116 gigs on sound
 
 ## Recently played
 
+- Stoked&stoned, Seoul · Mon, 5 Oct 2026
 - Stoked&stoned, Seoul · Mon, 28 Sept 2026
 - Stoked&stoned, Seoul · Fri, 25 Sept 2026
 - Stoked&stoned, Seoul · Mon, 21 Sept 2026
@@ -20,10 +21,9 @@ Nolove is a house and techno artist based in South Korea, with 116 gigs on sound
 - Stoked&stoned, Seoul · Sat, 12 Sept 2026
 - Stoked&stoned, Seoul · Thu, 10 Sept 2026
 - Stoked&stoned, Seoul · Mon, 7 Sept 2026
-- Stoked&stoned, Seoul · Sun, 6 Sept 2026
 
 ## Shares bills with
 
 Youngseok, Gyusco, JNS
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nolove/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nolove/)*

@@ -1,6 +1,6 @@
 # Vagabond
 
-Vagabond is a music venue in Washington DC with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. The next is "RUSH from RPG Collective" on Sat, 10 Oct 2026.
+Vagabond is a music venue in Washington DC with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "RUSH from RPG Collective" on Sat, 10 Oct 2026.
 
 Vagabond is a music venue in Washington DC listed on soundcheck. 1 upcoming gig, with line-ups including Alucarda and DJ KATTCO. See dates, start times and who's playing. 1836 18th Street NW, Washington, DC.
 
@@ -14,4 +14,4 @@ Vagabond is a music venue in Washington DC listed on soundcheck. 1 upcoming gig,
 
 1836 18th Street NW, Washington, DC, Washington DC
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/vagabond/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/vagabond/)*

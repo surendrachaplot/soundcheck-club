@@ -1,6 +1,6 @@
 # Kyk
 
-Kyk is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at K-30, Saint-petersburg on Sat, 7 Nov 2026.
+Kyk is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at K-30, Saint-petersburg on Sat, 7 Nov 2026.
 
 Kyk is an industrial and techno artist, with 4 gigs on soundcheck across Bangkok, Budapest and Saint Petersburg. Often billed alongside Chain Damage, BANDEE and JULIA. Next up: K-30, Saint Petersburg on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ Kyk is an industrial and techno artist, with 4 gigs on soundcheck across Bangkok
 
 Chain Damage, BANDEE, JULIA
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyk-1/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyk-1/)*

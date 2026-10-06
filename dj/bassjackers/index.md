@@ -1,13 +1,14 @@
 # Bassjackers
 
-Bassjackers is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
+Bassjackers is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
-Bassjackers is a house and electro artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Barcelona, Cologne and Denver and 12 more. Often billed alongside Dimitri Vegas & Like Mike, Laidback Luke and Steve Aoki. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
+Bassjackers is a house and electro artist based in Netherlands, with 29 gigs on soundcheck across Amsterdam, Barcelona, Cologne and Denver and 12 more. Often billed alongside Dimitri Vegas & Like Mike, Charlie Sparks and Laidback Luke. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 
 ## Recently played
@@ -23,6 +24,6 @@ Bassjackers is a house and electro artist based in Netherlands, with 28 gigs on 
 
 ## Shares bills with
 
-Dimitri Vegas & Like Mike, Laidback Luke, Steve Aoki
+Dimitri Vegas & Like Mike, Charlie Sparks, Laidback Luke
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bassjackers/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bassjackers/)*

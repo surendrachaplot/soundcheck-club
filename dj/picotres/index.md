@@ -1,6 +1,6 @@
 # Picotres
 
-Picotres is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Sala El Sol, Madrid on Wed, 7 Oct 2026.
+Picotres is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Sala El Sol, Madrid on Wed, 7 Oct 2026.
 
 Picotres is a techno and acid artist based in Spain, with 19 gigs on soundcheck across Madrid. Often billed alongside Pulpix, Trenzark and JayVi. Next up: Sala El Sol, Madrid on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ Picotres is a techno and acid artist based in Spain, with 19 gigs on soundcheck 
 
 Pulpix, Trenzark, JayVi
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/picotres/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/picotres/)*

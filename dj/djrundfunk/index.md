@@ -1,6 +1,6 @@
 # DjRundfunk
 
-DjRundfunk is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Fridas Pier, Stuttgart on Fri, 16 Oct 2026.
+DjRundfunk is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Fridas Pier, Stuttgart on Fri, 16 Oct 2026.
 
 DjRundfunk is a trance and techno artist based in Germany, with 4 gigs on soundcheck across Berlin, Cologne and Stuttgart. Often billed alongside 3LEEZA, AMO and Amo (IT). Next up: Fridas Pier, Stuttgart on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ DjRundfunk is a trance and techno artist based in Germany, with 4 gigs on soundc
 
 3LEEZA, AMO, Amo (IT)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrundfunk/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrundfunk/)*

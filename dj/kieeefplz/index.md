@@ -1,6 +1,6 @@
 # kieeef plz
 
-kieeef plz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 26 Oct 2026.
+kieeef plz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 26 Oct 2026.
 
 kieeef plz is a house and techno artist based in United States of America, with 6 gigs on soundcheck across New York City. Often billed alongside A lana, Brutal Twink and Kiss Kiss. Next up: Bossa Nova Civic Club, New York City on Mon 26 Oct.
 
@@ -22,4 +22,4 @@ kieeef plz is a house and techno artist based in United States of America, with 
 
 A lana, Brutal Twink, Kiss Kiss
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kieeefplz/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kieeefplz/)*

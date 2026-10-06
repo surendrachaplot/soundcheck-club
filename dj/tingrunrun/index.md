@@ -1,6 +1,6 @@
 # Ting Run Run
 
-Ting Run Run is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Secret East London Location, London on Sat, 10 Oct 2026.
+Ting Run Run is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Secret East London Location, London on Sat, 10 Oct 2026.
 
 Ting Run Run is a house and techno artist based in United Kingdom, with 42 gigs on soundcheck across London and Toronto. Often billed alongside Deejay Nye, ADRIAN LECA and LaAng. Next up: TBA - Secret East London Location, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Ting Run Run is a house and techno artist based in United Kingdom, with 42 gigs 
 
 Deejay Nye, ADRIAN LECA, LaAng
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tingrunrun/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tingrunrun/)*

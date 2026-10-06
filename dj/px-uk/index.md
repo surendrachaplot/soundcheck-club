@@ -1,6 +1,6 @@
 # Px (UK)
 
-Px (UK) is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Two Tribes CAMPFIRE, London on Fri, 16 Oct 2026.
+Px (UK) is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Two Tribes CAMPFIRE, London on Fri, 16 Oct 2026.
 
 Px (UK) is a garage and house artist based in United Kingdom, with 6 gigs on soundcheck across Berlin and London. Often billed alongside Glitch (LDN), POLLY (UK) and Buday. Next up: Two Tribes CAMPFIRE, London on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Px (UK) is a garage and house artist based in United Kingdom, with 6 gigs on sou
 
 Glitch (LDN), POLLY (UK), Buday
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/px-uk/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/px-uk/)*

@@ -1,6 +1,6 @@
 # Jozef Conor
 
-Jozef Conor is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at underiolo, Warsaw on Thu, 8 Oct 2026.
+Jozef Conor is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at underiolo, Warsaw on Thu, 8 Oct 2026.
 
 Jozef Conor is a house and techno artist, with 5 gigs on soundcheck across Melbourne and Warsaw. Often billed alongside Dylan Griffin, Mike Callander and Acid Safari. Next up: underiolo, Warsaw on Thu 8 Oct.
 
@@ -21,4 +21,4 @@ Jozef Conor is a house and techno artist, with 5 gigs on soundcheck across Melbo
 
 Dylan Griffin, Mike Callander, Acid Safari
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jozefconor/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jozefconor/)*

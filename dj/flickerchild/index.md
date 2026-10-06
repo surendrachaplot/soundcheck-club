@@ -1,6 +1,6 @@
 # Flickerchild
 
-Flickerchild is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Block1, Berlin on Fri, 16 Oct 2026.
+Flickerchild is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Block1, Berlin on Fri, 16 Oct 2026.
 
 Flickerchild is a house and electronica artist, with 6 gigs on soundcheck across Berlin. Often billed alongside Atxa, Tasfet and Lu_x2. Next up: Block1, Berlin on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Flickerchild is a house and electronica artist, with 6 gigs on soundcheck across
 
 Atxa, Tasfet, Lu_x2
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flickerchild/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flickerchild/)*

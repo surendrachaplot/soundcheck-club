@@ -1,6 +1,6 @@
 # James Owen
 
-James Owen is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at underiolo, Warsaw on Thu, 8 Oct 2026.
+James Owen is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at underiolo, Warsaw on Thu, 8 Oct 2026.
 
 James Owen is a house and deep house artist based in Australia, with 7 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Aftersunday, Fibon and Jozef Conor. Next up: underiolo, Warsaw on Thu 8 Oct.
 
@@ -23,4 +23,4 @@ James Owen is a house and deep house artist based in Australia, with 7 gigs on s
 
 Aftersunday, Fibon, Jozef Conor
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesowen/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesowen/)*

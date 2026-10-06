@@ -1,6 +1,6 @@
 # PAULAH
 
-PAULAH is a Guaracha and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Pillbox Beijing, Beijing on Sat, 10 Oct 2026.
+PAULAH is a Guaracha and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Pillbox Beijing, Beijing on Sat, 10 Oct 2026.
 
 PAULAH is a guaracha and latin bass artist based in Germany, with 48 gigs on soundcheck across Barcelona, Beijing and Berlin. Often billed alongside FISK, Paulawar and Simón JaVa. Next up: Pillbox Beijing, Beijing on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ PAULAH is a guaracha and latin bass artist based in Germany, with 48 gigs on sou
 
 FISK, Paulawar, Simón JaVa
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulah/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulah/)*

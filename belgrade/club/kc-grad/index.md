@@ -1,6 +1,6 @@
 # KC Grad
 
-KC Grad is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Alexander Zaloopin, Uvazhaemiy, DJ Blevanson" on Thu, 15 Oct 2026.
+KC Grad is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Alexander Zaloopin, Uvazhaemiy, DJ Blevanson" on Thu, 15 Oct 2026.
 
 KC Grad is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs, with line-ups including Paluma Sound and Shaolin Cowboy. See dates, start times and who's playing. Belgrade, 11000, Serbia.
 
@@ -15,4 +15,4 @@ KC Grad is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs, with
 
 Belgrade, 11000, Serbia, Belgrade
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kc-grad/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kc-grad/)*

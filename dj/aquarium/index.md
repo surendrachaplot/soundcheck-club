@@ -1,6 +1,6 @@
 # Aquarium
 
-Aquarium is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Topazdeluxe, Monterrey on Sat, 10 Oct 2026.
+Aquarium is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Topazdeluxe, Monterrey on Sat, 10 Oct 2026.
 
 Aquarium is a house and techno artist based in Japan, with 18 gigs on soundcheck across Berlin, Monterrey and Tokyo. Often billed alongside lostbaggage, suimin and ADAME (MX). Next up: Topazdeluxe, Monterrey on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Aquarium is a house and techno artist based in Japan, with 18 gigs on soundcheck
 
 lostbaggage, suimin, ADAME (MX)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aquarium/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aquarium/)*

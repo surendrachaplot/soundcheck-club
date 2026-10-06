@@ -1,6 +1,6 @@
 # HGods
 
-HGods is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Eivissa Event Ship - Danzigerkade 55, Amsterdam on Fri, 23 Oct 2026.
+HGods is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Eivissa Event Ship - Danzigerkade 55, Amsterdam on Fri, 23 Oct 2026.
 
 HGods is a dubstep and bass artist based in United States of America, with 4 gigs on soundcheck across Amsterdam and New York City. Often billed alongside AnD, Black Tiger Sex Machine and tallbrowndude. Next up: TBA - Eivissa Event Ship - Danzigerkade 55, Amsterdam on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ HGods is a dubstep and bass artist based in United States of America, with 4 gig
 
 AnD, Black Tiger Sex Machine, tallbrowndude
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hgods/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hgods/)*

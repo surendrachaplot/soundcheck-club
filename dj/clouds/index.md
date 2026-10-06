@@ -1,6 +1,6 @@
 # Clouds
 
-Clouds is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at 24 Kitchen Street, Liverpool on Fri, 9 Oct 2026.
+Clouds is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at 24 Kitchen Street, Liverpool on Fri, 9 Oct 2026.
 
 Clouds is a techno and trance artist based in United Kingdom, with 95 gigs on soundcheck across Aberdeen, Amsterdam, Basel and Belfast and 27 more. Often billed alongside Tommy Holohan, X CLUB. and Faster Horses. Next up: 24 Kitchen Street, Liverpool on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ Clouds is a techno and trance artist based in United Kingdom, with 95 gigs on so
 
 Tommy Holohan, X CLUB., Faster Horses
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clouds/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clouds/)*

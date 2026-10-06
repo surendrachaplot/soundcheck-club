@@ -1,6 +1,6 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 12 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Substrate Pres. Wata Igarashi" on Thu, 8 Oct 2026.
+TRANSMISSION DC is a music venue in Washington DC with 12 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Substrate Pres. Wata Igarashi" on Thu, 8 Oct 2026.
 
 TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 12 upcoming gigs, with line-ups including 1tbsp, 6 SENSE, D.Dan and Diyanna Monet and 2 more. See dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
@@ -23,4 +23,4 @@ TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 12 upcom
 
 1353 H st NE, Washington, DC, 20002, Washington DC
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*

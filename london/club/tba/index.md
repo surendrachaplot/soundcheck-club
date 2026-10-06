@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a music venue in London with 310 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "system SPOOKY OCTOBER PASS" on Sat, 3 Oct 2026.
+TBA is a music venue in London with 312 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "system SPOOKY OCTOBER PASS" on Sat, 3 Oct 2026.
 
-TBA is a music venue in London listed on soundcheck. 310 upcoming gigs, with line-ups including 1-800 GIRLS, 8h sleep, 8ULENTINA and 96 Back and 2 more. See dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 312 upcoming gigs, with line-ups including 1-800 GIRLS, 8h sleep, 8ULENTINA and 96 Back and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -19,4 +19,4 @@ TBA is a music venue in London listed on soundcheck. 310 upcoming gigs, with lin
 | Fri, 9 Oct 2026 | HDC presents: The Advent + CSILLA & RAH | CSILLA, RAH (US), The Advent |
 | Fri, 9 Oct 2026 | Hybrid Identity: sapphic autumn | Antenes, Constructible, Emsho, Ron Like Hell, Scotia, threehz |
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*

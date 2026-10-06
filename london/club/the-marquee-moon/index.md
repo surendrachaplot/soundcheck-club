@@ -1,6 +1,6 @@
 # The Marquee Moon
 
-The Marquee Moon is a music venue in London with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Pieces Chess Club" on Thu, 8 Oct 2026.
+The Marquee Moon is a music venue in London with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Pieces Chess Club" on Thu, 8 Oct 2026.
 
 The Marquee Moon is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Babyccino and raina. See dates, start times and who's playing. 48 Stoke Newington Road, N16 7XJ.
 
@@ -15,4 +15,4 @@ The Marquee Moon is a music venue in London listed on soundcheck. 2 upcoming gig
 
 48 Stoke Newington Road, N16 7XJ, London
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-marquee-moon/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-marquee-moon/)*

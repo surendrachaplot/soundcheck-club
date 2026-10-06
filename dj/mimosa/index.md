@@ -1,6 +1,6 @@
 # MiMOSA
 
-MiMOSA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 23 Oct 2026.
+MiMOSA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 23 Oct 2026.
 
 MiMOSA is a house and techno artist based in United States of America, with 10 gigs on soundcheck across Berlin, Melbourne, San Francisco/Oakland and Sydney. Often billed alongside Toska, 2HOT2PLAY and AMPRS&ND. Next up: The Great Northern, San Francisco/Oakland on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ MiMOSA is a house and techno artist based in United States of America, with 10 g
 
 Toska, 2HOT2PLAY, AMPRS&ND
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimosa/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimosa/)*

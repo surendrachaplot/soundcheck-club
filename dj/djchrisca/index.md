@@ -1,6 +1,6 @@
 # DJ Chris (CA)
 
-DJ Chris (CA) is a Minimal Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at EL SÓTANO, Madrid on Fri, 23 Oct 2026.
+DJ Chris (CA) is a Minimal Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at EL SÓTANO, Madrid on Fri, 23 Oct 2026.
 
 DJ Chris (CA) is a minimal techno and house artist based in Canada, with 40 gigs on soundcheck across Bangkok, Madrid, Mexico City and Toronto. Often billed alongside International Habibi, Vladislove and Blkvirgo. Next up: EL SÓTANO, Madrid on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ DJ Chris (CA) is a minimal techno and house artist based in Canada, with 40 gigs
 
 International Habibi, Vladislove, Blkvirgo
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djchrisca/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djchrisca/)*

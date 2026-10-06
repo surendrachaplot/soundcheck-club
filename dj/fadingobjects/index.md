@@ -1,6 +1,6 @@
 # Fading Objects
 
-Fading Objects is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Pan-Pan, Birmingham on Sat, 21 Nov 2026.
+Fading Objects is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Pan-Pan, Birmingham on Sat, 21 Nov 2026.
 
 Fading Objects is a house and jazz artist, with 4 gigs on soundcheck across Birmingham, Brighton and London. Often billed alongside Managed Decline, D.N.S and Nonna Fab. Next up: Pan-Pan, Birmingham on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ Fading Objects is a house and jazz artist, with 4 gigs on soundcheck across Birm
 
 Managed Decline, D.N.S, Nonna Fab
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fadingobjects/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fadingobjects/)*

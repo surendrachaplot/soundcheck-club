@@ -1,6 +1,6 @@
 # Marmosets
 
-Marmosets is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Horn, Bangkok on Fri, 9 Oct 2026.
+Marmosets is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Horn, Bangkok on Fri, 9 Oct 2026.
 
 Marmosets is a techno and experimental artist based in Thailand, with 40 gigs on soundcheck across Bangkok, Berlin, Seoul and Tokyo. Often billed alongside Winkieb, DJ Sweed and MAYTAE. Next up: Horn, Bangkok on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Marmosets is a techno and experimental artist based in Thailand, with 40 gigs on
 
 Winkieb, DJ Sweed, MAYTAE
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marmosets/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marmosets/)*

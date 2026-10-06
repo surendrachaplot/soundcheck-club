@@ -1,6 +1,6 @@
 # Keleo
 
-Keleo is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Club Sauvage, Ghent on Fri, 23 Oct 2026.
+Keleo is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Club Sauvage, Ghent on Fri, 23 Oct 2026.
 
 Keleo is a deep house and progressive house artist based in Belgium, with 4 gigs on soundcheck across Ghent and London. Often billed alongside Harry Oliver, HÖLIVER and KT. Next up: Club Sauvage, Ghent on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ Keleo is a deep house and progressive house artist based in Belgium, with 4 gigs
 
 Harry Oliver, HÖLIVER, KT
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keleo/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keleo/)*

@@ -1,6 +1,6 @@
 # Jordan Villa
 
-Jordan Villa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at renae, Manchester on Sat, 10 Oct 2026.
+Jordan Villa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at renae, Manchester on Sat, 10 Oct 2026.
 
 Jordan Villa is a house and techno artist based in United Kingdom, with 23 gigs on soundcheck across Belfast, Manchester and Rotterdam. Often billed alongside Aletha, Joe Motion and Joe Roche. Next up: renae, Manchester on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Jordan Villa is a house and techno artist based in United Kingdom, with 23 gigs 
 
 Aletha, Joe Motion, Joe Roche
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanvilla/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanvilla/)*

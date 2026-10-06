@@ -1,6 +1,6 @@
 # Lillevan
 
-Lillevan is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
+Lillevan is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
 
 Lillevan is an experimental and electronica artist based in Germany, with 4 gigs on soundcheck across Barcelona, Berlin and Montreal. Often billed alongside Fennesz, Ah! Kosmos and Debit. Next up: Fira Barcelona, Barcelona on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ Lillevan is an experimental and electronica artist based in Germany, with 4 gigs
 
 Fennesz, Ah! Kosmos, Debit
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lillevan/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lillevan/)*

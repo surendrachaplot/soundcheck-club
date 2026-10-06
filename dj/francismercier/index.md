@@ -1,14 +1,13 @@
 # Francis Mercier
 
-Francis Mercier is a Afro House and House artist with 14 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Hï Ibiza, Ibiza on Mon, 5 Oct 2026.
+Francis Mercier is a Afro House and House artist with 13 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at OMNIA Dayclub, Las-vegas on Fri, 9 Oct 2026.
 
-Francis Mercier is an afro house and house artist based in United States of America, with 181 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: Hï Ibiza, Ibiza on Mon 5 Oct.
+Francis Mercier is an afro house and house artist based in United States of America, with 181 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: OMNIA Dayclub, Las Vegas on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 5 Oct 2026 | Hï Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | OMNIA Dayclub | Las-vegas |
 | Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Sun, 11 Oct 2026 | Pacha New York | New York City |
@@ -20,9 +19,11 @@ Francis Mercier is an afro house and house artist based in United States of Amer
 | Sun, 22 Nov 2026 | KOKO | London |
 | Fri, 11 Dec 2026 | A.i Warehouse | Washington DC |
 | Sat, 19 Dec 2026 | White Bay Power Station | Sydney |
+| Sun, 20 Dec 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 
 ## Recently played
 
+- Hï Ibiza, Ibiza · Mon, 5 Oct 2026
 - D! Club, Lausanne · Sun, 4 Oct 2026
 - Hï Ibiza, Ibiza · Mon, 28 Sept 2026
 - Bloody Louis, Brussels · Fri, 25 Sept 2026
@@ -30,10 +31,9 @@ Francis Mercier is an afro house and house artist based in United States of Amer
 - Reframe Studios Indoors, Los Angeles · Sat, 19 Sept 2026
 - Hï Ibiza, Ibiza · Mon, 14 Sept 2026
 - Lula Club, Madrid · Sun, 13 Sept 2026
-- Hï Ibiza, Ibiza · Mon, 7 Sept 2026
 
 ## Shares bills with
 
 Andrea Oliva, Nadrums, ARYMÉ
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*

@@ -1,6 +1,6 @@
 # Paula Koski
 
-Paula Koski is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 10 Oct 2026.
+Paula Koski is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 10 Oct 2026.
 
 Paula Koski is a techno and house artist based in Finland, with 132 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside Justine Perry, CEB (FI) and Ben Klock. Next up: Tresor / Globus, Berlin on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Paula Koski is a techno and house artist based in Finland, with 132 gigs on soun
 
 Justine Perry, CEB (FI), Ben Klock
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulakoski/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulakoski/)*

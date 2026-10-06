@@ -1,6 +1,6 @@
 # LILLI & 4LOVE
 
-LILLI & 4LOVE is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
+LILLI & 4LOVE is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
 
 LILLI & 4LOVE are an electronic duo based in Germany, with 4 gigs on soundcheck across Amsterdam, Berlin, London and Munich. Often billed alongside Diffrent, Bella Claxton and Call Super. Next up: Thuishaven, Amsterdam on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ LILLI & 4LOVE are an electronic duo based in Germany, with 4 gigs on soundcheck 
 
 Diffrent, Bella Claxton, Call Super
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilliand4love/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilliand4love/)*

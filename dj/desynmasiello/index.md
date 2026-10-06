@@ -1,6 +1,6 @@
 # Desyn
 
-Desyn is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Masada, Milan on Sat, 10 Oct 2026.
+Desyn is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Masada, Milan on Sat, 10 Oct 2026.
 
 Desyn is a house and techno artist based in United Kingdom, with 105 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Tom Morgan, Faciendo Soundsystem and Rama NYC. Next up: Masada, Milan on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Desyn is a house and techno artist based in United Kingdom, with 105 gigs on sou
 
 Tom Morgan, Faciendo Soundsystem, Rama NYC
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desynmasiello/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desynmasiello/)*

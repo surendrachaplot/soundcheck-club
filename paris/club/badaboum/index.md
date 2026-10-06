@@ -1,6 +1,6 @@
 # Badaboum
 
-Badaboum is a music venue in Paris with 15 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Club — LA CH!CK: REGGAETON ALLSTARS REVIVAL" on Thu, 8 Oct 2026.
+Badaboum is a music venue in Paris with 15 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Club — LA CH!CK: REGGAETON ALLSTARS REVIVAL" on Thu, 8 Oct 2026.
 
 Badaboum is a music venue in Paris listed on soundcheck. 15 upcoming gigs, with line-ups including Curses, Dana Kuehr, Dj Koyla and Elise Massoni and 2 more. See dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
 
@@ -23,4 +23,4 @@ Badaboum is a music venue in Paris listed on soundcheck. 15 upcoming gigs, with 
 
 2 bis rue des Taillandiers; 75011; Paris; France, Paris
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*

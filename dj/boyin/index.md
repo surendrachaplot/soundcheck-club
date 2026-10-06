@@ -1,6 +1,6 @@
 # Bo Yin
 
-Bo Yin is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Pawnshop, Taipei on Sat, 10 Oct 2026.
+Bo Yin is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Pawnshop, Taipei on Sat, 10 Oct 2026.
 
 Bo Yin is a bass and dubstep artist based in Taiwan, with 4 gigs on soundcheck across Taipei and Tokyo. Often billed alongside Goth-Trad, CITY1 and Eichi Abe. Next up: Pawnshop, Taipei on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ Bo Yin is a bass and dubstep artist based in Taiwan, with 4 gigs on soundcheck a
 
 Goth-Trad, CITY1, Eichi Abe
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boyin/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boyin/)*

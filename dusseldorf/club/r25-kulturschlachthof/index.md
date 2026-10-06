@@ -1,6 +1,6 @@
 # R25 Kulturschlachthof
 
-R25 Kulturschlachthof is a music venue in Düsseldorf with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "TECHNO: DARK TIMES EDITION (ft. DETOXX & CANUMABOYS)" on Fri, 16 Oct 2026.
+R25 Kulturschlachthof is a music venue in Düsseldorf with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "TECHNO: DARK TIMES EDITION (ft. DETOXX & CANUMABOYS)" on Fri, 16 Oct 2026.
 
 R25 Kulturschlachthof is a music venue in Düsseldorf listed on soundcheck. 4 upcoming gigs, with line-ups including Alena, BrettHit, canumaboys and Demontime and 2 more. See dates, start times and who's playing. Rather Strasse 25, 40476 Düsseldorf, Deutschland.
 
@@ -17,4 +17,4 @@ R25 Kulturschlachthof is a music venue in Düsseldorf listed on soundcheck. 4 up
 
 Rather Strasse 25, 40476 Düsseldorf, Deutschland, Düsseldorf
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/r25-kulturschlachthof/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/r25-kulturschlachthof/)*

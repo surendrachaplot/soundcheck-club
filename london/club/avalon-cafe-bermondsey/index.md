@@ -1,6 +1,6 @@
 # Avalon Cafe Bermondsey
 
-Avalon Cafe Bermondsey is a music venue in London with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Sevy Verna, My Tiny Room, Boxmen, Jawharp" on Thu, 8 Oct 2026.
+Avalon Cafe Bermondsey is a music venue in London with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Sevy Verna, My Tiny Room, Boxmen, Jawharp" on Thu, 8 Oct 2026.
 
 Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including B4mba, batgirl, Caroune and Cersy and 2 more. See dates, start times and who's playing. Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom.
 
@@ -19,4 +19,4 @@ Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 6 upcomi
 
 Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom, London
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/avalon-cafe-bermondsey/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/avalon-cafe-bermondsey/)*

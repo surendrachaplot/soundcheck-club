@@ -1,6 +1,6 @@
 # The Ivy
 
-The Ivy is a music venue in Sydney with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "ZURI feat. Alex Wann (FR)" on Sat, 10 Oct 2026.
+The Ivy is a music venue in Sydney with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "ZURI feat. Alex Wann (FR)" on Sat, 10 Oct 2026.
 
 The Ivy is a music venue in Sydney listed on soundcheck. 7 upcoming gigs, with line-ups including AEREA, AKEYLAH, Alex Wann and Azyr and 2 more. See dates, start times and who's playing. 320-330 George St; Sydney, NSW 2000; Australia.
 
@@ -20,4 +20,4 @@ The Ivy is a music venue in Sydney listed on soundcheck. 7 upcoming gigs, with l
 
 320-330 George St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-ivy/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-ivy/)*

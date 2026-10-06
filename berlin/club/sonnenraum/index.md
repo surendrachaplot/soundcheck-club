@@ -1,6 +1,6 @@
 # Sonnenraum
 
-Sonnenraum is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "XJAZZ Funeral Party" on Fri, 9 Oct 2026.
+Sonnenraum is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "XJAZZ Funeral Party" on Fri, 9 Oct 2026.
 
 Sonnenraum is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Allynx, Daniel Best, Delfonic and Dragana and 2 more. See dates, start times and who's playing. Eichenstraße 4A, 12435 Berlin, Germany.
 
@@ -16,4 +16,4 @@ Sonnenraum is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, wit
 
 Eichenstraße 4A, 12435 Berlin, Germany, Berlin
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sonnenraum/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sonnenraum/)*

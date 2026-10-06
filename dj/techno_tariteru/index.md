@@ -1,6 +1,6 @@
 # TECHNO_TARITERU?
 
-TECHNO_TARITERU? is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at HVEN, Tokyo on Fri, 9 Oct 2026.
+TECHNO_TARITERU? is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at HVEN, Tokyo on Fri, 9 Oct 2026.
 
 TECHNO_TARITERU? is a techno and trance artist based in Japan, with 5 gigs on soundcheck across Osaka and Tokyo. Often billed alongside STRATAH, JOKESONYOU and Liza. Next up: HVEN, Tokyo on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ TECHNO_TARITERU? is a techno and trance artist based in Japan, with 5 gigs on so
 
 STRATAH, JOKESONYOU, Liza
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/techno_tariteru/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/techno_tariteru/)*

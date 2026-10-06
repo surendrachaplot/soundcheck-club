@@ -1,6 +1,6 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 68 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Projekt Boki" on Tue, 6 Oct 2026.
+Lokschuppen Berlin is a music venue in Berlin with 68 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Projekt Boki" on Tue, 6 Oct 2026.
 
 Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 68 upcoming gigs, with line-ups including 1luu, 4NOUK, 5euroGoldi and 9LALEY and 2 more. See dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 68 upcoming 
 
 Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany, Berlin
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*

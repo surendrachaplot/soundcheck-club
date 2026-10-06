@@ -1,6 +1,6 @@
 # Økapi
 
-Økapi is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Kunst Kabinett Seoul, Seoul on Fri, 9 Oct 2026.
+Økapi is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Kunst Kabinett Seoul, Seoul on Fri, 9 Oct 2026.
 
 Økapi is a techno and electronica artist based in Italy, with 5 gigs on soundcheck across Ghent, Seoul, Tokyo and Turin. Often billed alongside Bluemarina, Conor Thomas and DJ Marcelle. Next up: Kunst Kabinett Seoul, Seoul on Fri 9 Oct.
 
@@ -21,4 +21,4 @@
 
 Bluemarina, Conor Thomas, DJ Marcelle
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okapi-it/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okapi-it/)*

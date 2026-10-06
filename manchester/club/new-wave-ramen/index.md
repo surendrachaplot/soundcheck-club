@@ -1,6 +1,6 @@
 # New Wave Ramen
 
-New Wave Ramen is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "NWR: Joey T" on Fri, 9 Oct 2026.
+New Wave Ramen is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "NWR: Joey T" on Fri, 9 Oct 2026.
 
 New Wave Ramen is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with line-ups including Andy Hickford, Bobby Thorpe, Joe Morris and Joey T and 1 more. See dates, start times and who's playing. 16 Tib Ln, M2 4JB.
 
@@ -21,4 +21,4 @@ New Wave Ramen is a music venue in Manchester listed on soundcheck. 8 upcoming g
 
 16 Tib Ln, M2 4JB, Manchester
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/new-wave-ramen/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/new-wave-ramen/)*

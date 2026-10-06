@@ -1,6 +1,6 @@
 # LaMia Mari
 
-LaMia Mari is a Electronica and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Dabadaba, North on Fri, 23 Oct 2026.
+LaMia Mari is a Electronica and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Dabadaba, North on Fri, 23 Oct 2026.
 
 LaMia Mari is an electronica and downtempo artist, with 4 gigs on soundcheck across Madrid, Mexico City and North. Often billed alongside Alois, Cybebe and ED (MX). Next up: Dabadaba, North on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ LaMia Mari is an electronica and downtempo artist, with 4 gigs on soundcheck acr
 
 Alois, Cybebe, ED (MX)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamiamari/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamiamari/)*

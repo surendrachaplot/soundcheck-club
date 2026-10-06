@@ -1,6 +1,6 @@
 # GVMEDNA
 
-GVMEDNA is a Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at OXI, Berlin on Sat, 10 Oct 2026.
+GVMEDNA is a Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at OXI, Berlin on Sat, 10 Oct 2026.
 
 GVMEDNA is a techno artist based in Germany, with 13 gigs on soundcheck across Berlin. Often billed alongside DEN!SE, TAKT130 and BRT.C. Next up: OXI, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ GVMEDNA is a techno artist based in Germany, with 13 gigs on soundcheck across B
 
 DEN!SE, TAKT130, BRT.C
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gvmedna/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gvmedna/)*

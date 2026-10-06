@@ -1,6 +1,6 @@
 # Chicks Luv Us
 
-Chicks Luv Us is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Rocket Club, Milan on Thu, 8 Oct 2026.
+Chicks Luv Us is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The Rocket Club, Milan on Thu, 8 Oct 2026.
 
 Chicks Luv Us is a tech house and house artist based in France, with 59 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Bucharest and 18 more. Often billed alongside Chris Di Perri, GW Harrison and Ben Sterling. Next up: The Rocket Club, Milan on Thu 8 Oct.
 
@@ -27,4 +27,4 @@ Chicks Luv Us is a tech house and house artist based in France, with 59 gigs on 
 
 Chris Di Perri, GW Harrison, Ben Sterling
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chicksluvus/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chicksluvus/)*

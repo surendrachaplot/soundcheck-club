@@ -1,6 +1,6 @@
 # The Pickle
 
-The Pickle is a music venue in Miami with 12 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "The Pickle" on Fri, 16 Oct 2026.
+The Pickle is a music venue in Miami with 12 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "The Pickle" on Fri, 16 Oct 2026.
 
 The Pickle is a music venue in Miami listed on soundcheck. 12 upcoming gigs, with line-ups including 1morning, Anthea, Danny Daze and David Berrie and 2 more. See dates, start times and who's playing. 1395 NW 57th Ave.
 
@@ -23,4 +23,4 @@ The Pickle is a music venue in Miami listed on soundcheck. 12 upcoming gigs, wit
 
 1395 NW 57th Ave, Miami
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-pickle/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-pickle/)*

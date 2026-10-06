@@ -1,6 +1,6 @@
 # EPHACY
 
-EPHACY is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Port Beach Brewery, Perth on Sat, 10 Oct 2026.
+EPHACY is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Port Beach Brewery, Perth on Sat, 10 Oct 2026.
 
 EPHACY is a progressive house and tech house artist, with 5 gigs on soundcheck across Melbourne and Perth. Often billed alongside Elsie, Simon TK and Afrodisiac. Next up: Port Beach Brewery, Perth on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ EPHACY is a progressive house and tech house artist, with 5 gigs on soundcheck a
 
 Elsie, Simon TK, Afrodisiac
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ephacy/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ephacy/)*

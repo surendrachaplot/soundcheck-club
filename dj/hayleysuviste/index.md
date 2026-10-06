@@ -1,6 +1,6 @@
 # Hayley Suviste
 
-Hayley Suviste is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at International Anthony Burgess Foundation, Manchester on Fri, 9 Oct 2026.
+Hayley Suviste is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at International Anthony Burgess Foundation, Manchester on Fri, 9 Oct 2026.
 
 Hayley Suviste is an experimental and club artist based in United Kingdom, with 4 gigs on soundcheck across Manchester. Often billed alongside Fiesta En El Vacío, Jose Macabra and Kelly Moran. Next up: International Anthony Burgess Foundation, Manchester on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ Hayley Suviste is an experimental and club artist based in United Kingdom, with 
 
 Fiesta En El Vacío, Jose Macabra, Kelly Moran
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleysuviste/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleysuviste/)*

@@ -1,6 +1,6 @@
 # Dan Shake
 
-Dan Shake is a House and Disco artist with 11 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Sala Villanos, Madrid on Fri, 9 Oct 2026.
+Dan Shake is a House and Disco artist with 11 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Sala Villanos, Madrid on Fri, 9 Oct 2026.
 
 Dan Shake is a house and disco artist based in United Kingdom, with 198 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 47 more. Often billed alongside Eliza Rose, Eats Everything and MiNNA. Next up: Sala Villanos, Madrid on Fri 9 Oct.
 
@@ -35,4 +35,4 @@ Dan Shake is a house and disco artist based in United Kingdom, with 198 gigs on 
 
 Eliza Rose, Eats Everything, MiNNA
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*

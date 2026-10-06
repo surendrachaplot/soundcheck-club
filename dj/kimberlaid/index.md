@@ -1,6 +1,6 @@
 # KimberlaID
 
-KimberlaID is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
+KimberlaID is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
 
 KimberlaID is a techno and hardcore artist based in France, with 53 gigs on soundcheck across Berlin, Brussels, Geneva and Ibiza and 10 more. Often billed alongside Karlfroye, Lolalita and Claude Murder. Next up: Airport Würzburg, Nürnberg on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ KimberlaID is a techno and hardcore artist based in France, with 53 gigs on soun
 
 Karlfroye, Lolalita, Claude Murder
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimberlaid/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimberlaid/)*

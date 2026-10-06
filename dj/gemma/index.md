@@ -1,6 +1,6 @@
 # GEMMA
 
-GEMMA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Otra Historia Club Cultural, Buenos Aires on Sat, 24 Oct 2026.
+GEMMA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Otra Historia Club Cultural, Buenos Aires on Sat, 24 Oct 2026.
 
 GEMMA is a house and techno artist, with 4 gigs on soundcheck across Barcelona and Buenos Aires. Often billed alongside ANDRES CAPRA, &Rey and Alice Youngling. Next up: Otra Historia Club Cultural, Buenos Aires on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ GEMMA is a house and techno artist, with 4 gigs on soundcheck across Barcelona a
 
 ANDRES CAPRA, &Rey, Alice Youngling
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gemma/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gemma/)*

@@ -1,6 +1,6 @@
 # FANXI B
 
-FANXI B is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Fridas Pier, Stuttgart on Fri, 27 Nov 2026.
+FANXI B is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Fridas Pier, Stuttgart on Fri, 27 Nov 2026.
 
 FANXI B is a techno and house artist based in Germany, with 4 gigs on soundcheck across Stuttgart. Often billed alongside Oxygliano, DJ Unholy and Fabian Kaa. Next up: Fridas Pier, Stuttgart on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ FANXI B is a techno and house artist based in Germany, with 4 gigs on soundcheck
 
 Oxygliano, DJ Unholy, Fabian Kaa
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fanxib/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fanxib/)*

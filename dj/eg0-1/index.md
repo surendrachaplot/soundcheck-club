@@ -1,6 +1,6 @@
 # EG0 (1)
 
-EG0 (1) is a Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Matrix Club Berlin (Techno Stage), Berlin on Fri, 9 Oct 2026.
+EG0 (1) is a Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Matrix Club Berlin (Techno Stage), Berlin on Fri, 9 Oct 2026.
 
 EG0 is a techno artist, with 3 gigs on soundcheck across Berlin. Often billed alongside FREEGO, AINA.KRU and M21SIX. Next up: Matrix Club Berlin (Techno Stage), Berlin on Fri 9 Oct.
 
@@ -19,4 +19,4 @@ EG0 is a techno artist, with 3 gigs on soundcheck across Berlin. Often billed al
 
 FREEGO, AINA.KRU, M21SIX
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eg0-1/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eg0-1/)*

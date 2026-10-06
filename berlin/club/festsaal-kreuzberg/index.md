@@ -1,6 +1,6 @@
 # Festsaal Kreuzberg
 
-Festsaal Kreuzberg is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Official Semester Opening | 3 Floors | Glow Sticks | Outdoor Area" on Fri, 9 Oct 2026.
+Festsaal Kreuzberg is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Official Semester Opening | 3 Floors | Glow Sticks | Outdoor Area" on Fri, 9 Oct 2026.
 
 Festsaal Kreuzberg is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Absolute Body Control, Claudia Kane, LAVION and Mercúrio Gótico and 2 more. See dates, start times and who's playing. Am Flutgraben 2, 12435 Berlin.
 
@@ -16,4 +16,4 @@ Festsaal Kreuzberg is a music venue in Berlin listed on soundcheck. 3 upcoming g
 
 Am Flutgraben 2, 12435 Berlin, Berlin
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/festsaal-kreuzberg/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/festsaal-kreuzberg/)*

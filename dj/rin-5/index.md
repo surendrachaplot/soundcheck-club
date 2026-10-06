@@ -1,6 +1,6 @@
 # RIN (5)
 
-RIN (5) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Daikanyama ORD., Tokyo on Sun, 11 Oct 2026.
+RIN (5) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Daikanyama ORD., Tokyo on Sun, 11 Oct 2026.
 
 RIN is a techno and house artist based in Japan, with 16 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), Krankent and MAHO. Next up: Daikanyama ORD., Tokyo on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ RIN is a techno and house artist based in Japan, with 16 gigs on soundcheck acro
 
 SIGNAL (JP), Krankent, MAHO
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rin-5/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rin-5/)*

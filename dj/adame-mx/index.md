@@ -1,6 +1,6 @@
 # ADAME (MX)
 
-ADAME (MX) is a Baile Funk and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Topazdeluxe, Monterrey on Sat, 10 Oct 2026.
+ADAME (MX) is a Baile Funk and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Topazdeluxe, Monterrey on Sat, 10 Oct 2026.
 
 ADAME (MX) is a baile funk and garage artist based in Mexico, with 4 gigs on soundcheck across Helsinki, Lisbon, Monterrey and Sao Paulo. Often billed alongside Aquarium, GAVI and R4KEL. Next up: Topazdeluxe, Monterrey on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ ADAME (MX) is a baile funk and garage artist based in Mexico, with 4 gigs on sou
 
 Aquarium, GAVI, R4KEL
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adame-mx/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adame-mx/)*

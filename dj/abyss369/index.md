@@ -1,8 +1,8 @@
 # ABYSS 369
 
-ABYSS 369 is a Hardcore and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at CIRCOLO BOTULINO, Milan on Fri, 9 Oct 2026.
+ABYSS 369 is a Hardcore and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at CIRCOLO BOTULINO, Milan on Fri, 9 Oct 2026.
 
-ABYSS 369 is a hardcore and industrial artist, with 19 gigs on soundcheck across Milan. Often billed alongside ANKKH, Dshock and STABILINDA. Next up: CIRCOLO BOTULINO, Milan on Fri 9 Oct.
+ABYSS 369 is a hardcore and industrial artist based in Italy, with 19 gigs on soundcheck across Milan. Often billed alongside ANKKH, Dshock and STABILINDA. Next up: CIRCOLO BOTULINO, Milan on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ ABYSS 369 is a hardcore and industrial artist, with 19 gigs on soundcheck across
 
 ANKKH, Dshock, STABILINDA
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abyss369/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abyss369/)*

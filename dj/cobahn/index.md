@@ -1,13 +1,15 @@
 # Cobahn
 
-Cobahn is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at ingang, Amsterdam on Thu, 22 Oct 2026.
+Cobahn is a Techno and Experimental artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Mitsuki, Tokyo on Tue, 13 Oct 2026.
 
-Cobahn is a techno and experimental artist based in South Korea, with 67 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 9 more. Often billed alongside Woody92, Remma and Konduku. Next up: ingang, Amsterdam on Thu 22 Oct.
+Cobahn is a techno and experimental artist based in South Korea, with 69 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 10 more. Often billed alongside Woody92, Remma and Konduku. Next up: Mitsuki, Tokyo on Tue 13 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 13 Oct 2026 | Mitsuki | Tokyo |
+| Sat, 17 Oct 2026 | vurt. | Seoul |
 | Thu, 22 Oct 2026 | ingang | Amsterdam |
 | Sat, 31 Oct 2026 | OXI | Berlin |
 | Sat, 19 Dec 2026 | 013 Poppodium | Netherlands |
@@ -27,4 +29,4 @@ Cobahn is a techno and experimental artist based in South Korea, with 67 gigs on
 
 Woody92, Remma, Konduku
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cobahn/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cobahn/)*

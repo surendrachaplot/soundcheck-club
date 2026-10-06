@@ -1,6 +1,6 @@
 # Setaoc Mass
 
-Setaoc Mass is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Bassement, Madrid on Fri, 9 Oct 2026.
+Setaoc Mass is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The Bassement, Madrid on Fri, 9 Oct 2026.
 
 Setaoc Mass is a techno and house artist based in United Kingdom, with 184 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 58 more. Often billed alongside Philippa Pacho, Altinbas and Phara. Next up: The Bassement, Madrid on Fri 9 Oct.
 
@@ -31,4 +31,4 @@ Setaoc Mass is a techno and house artist based in United Kingdom, with 184 gigs 
 
 Philippa Pacho, Altinbas, Phara
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/setaocmass/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/setaocmass/)*

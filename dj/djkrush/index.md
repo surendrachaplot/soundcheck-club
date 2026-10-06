@@ -1,6 +1,6 @@
 # DJ Krush
 
-DJ Krush is a Hip-Hop and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Jazz Cafe, London on Tue, 6 Oct 2026.
+DJ Krush is a Hip-Hop and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The Jazz Cafe, London on Tue, 6 Oct 2026.
 
 DJ Krush is a hip-hop and techno artist based in Japan, with 58 gigs on soundcheck across Amsterdam, Athens, Berlin and Budapest and 13 more. Often billed alongside DJ Quietstorm, Herbalistek and Jomo. Next up: The Jazz Cafe, London on Tue 6 Oct.
 
@@ -31,4 +31,4 @@ DJ Krush is a hip-hop and techno artist based in Japan, with 58 gigs on soundche
 
 DJ Quietstorm, Herbalistek, Jomo
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkrush/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkrush/)*

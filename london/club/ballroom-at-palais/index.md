@@ -1,6 +1,6 @@
 # Ballroom at Palais
 
-Ballroom at Palais is a music venue in London with 12 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Ballroom at Palais: Ryan Taylor" on Thu, 8 Oct 2026.
+Ballroom at Palais is a music venue in London with 12 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Ballroom at Palais: Ryan Taylor" on Thu, 8 Oct 2026.
 
 Ballroom at Palais is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Bekefi, Evie, Kian OK and Marie Malarie and 2 more. See dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
@@ -23,4 +23,4 @@ Ballroom at Palais is a music venue in London listed on soundcheck. 12 upcoming 
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballroom-at-palais/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballroom-at-palais/)*

@@ -1,6 +1,6 @@
 # Owain K
 
-Owain K is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Pipe & Slippers, Bristol on Fri, 9 Oct 2026.
+Owain K is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Pipe & Slippers, Bristol on Fri, 9 Oct 2026.
 
 Owain K is a house and acid artist based in United Kingdom, with 73 gigs on soundcheck across Bristol, Cardiff, London and Manchester. Often billed alongside Placid, Zobol and Alien Communications. Next up: The Pipe & Slippers, Bristol on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Owain K is a house and acid artist based in United Kingdom, with 73 gigs on soun
 
 Placid, Zobol, Alien Communications
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/owaink/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/owaink/)*

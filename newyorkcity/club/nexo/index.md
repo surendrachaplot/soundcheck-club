@@ -1,6 +1,6 @@
 # Nexo
 
-Nexo is a music venue in New York City with 21 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "King of Kings Reggaeton Party Nightclub" on Sat, 10 Oct 2026.
+Nexo is a music venue in New York City with 21 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "King of Kings Reggaeton Party Nightclub" on Sat, 10 Oct 2026.
 
 Nexo is a music venue in New York City listed on soundcheck. 21 upcoming gigs. See dates, start times and who's playing. 29 W 36th St., New York, NY 10018, USA.
 
@@ -23,4 +23,4 @@ Nexo is a music venue in New York City listed on soundcheck. 21 upcoming gigs. S
 
 29 W 36th St., New York, NY 10018, USA, New York City
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nexo/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nexo/)*

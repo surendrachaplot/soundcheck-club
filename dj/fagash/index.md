@@ -1,6 +1,6 @@
 # FAGASH
 
-FAGASH is a Bass and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Yard, Manchester on Sat, 24 Oct 2026.
+FAGASH is a Bass and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Yard, Manchester on Sat, 24 Oct 2026.
 
 FAGASH is a bass and trance artist based in United Kingdom, with 6 gigs on soundcheck across Manchester. Often billed alongside SDJ, maevie and ANT1. Next up: The Yard, Manchester on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ FAGASH is a bass and trance artist based in United Kingdom, with 6 gigs on sound
 
 SDJ (1), maevie, ANT1 (2)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fagash/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fagash/)*

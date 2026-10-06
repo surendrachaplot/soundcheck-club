@@ -1,6 +1,6 @@
 # bomb shelter crew
 
-bomb shelter crew is a Jungle and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at M.O.T, London on Sat, 10 Oct 2026.
+bomb shelter crew is a Jungle and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at M.O.T, London on Sat, 10 Oct 2026.
 
 bomb shelter crew is a jungle and hardcore artist based in United Kingdom, with 28 gigs on soundcheck across London. Often billed alongside Rhi Spect, Snoozy and DJ LESSONS. Next up: M.O.T, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ bomb shelter crew is a jungle and hardcore artist based in United Kingdom, with 
 
 Rhi Spect, Snoozy, DJ LESSONS
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bombsheltercrew/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bombsheltercrew/)*

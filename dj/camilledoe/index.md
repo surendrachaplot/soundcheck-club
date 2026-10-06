@@ -1,6 +1,6 @@
 # Camille Doe
 
-Camille Doe is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
+Camille Doe is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
 
 Camille Doe is a house and garage artist based in France, with 78 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Copenhagen and 7 more. Often billed alongside Lefblom, GOGO GREEN and Ams (FR). Next up: Depot Mayfield, Manchester on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Camille Doe is a house and garage artist based in France, with 78 gigs on soundc
 
 Lefblom, GOGO GREEN, Ams (FR)
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camilledoe/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camilledoe/)*

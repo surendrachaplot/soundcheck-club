@@ -1,6 +1,6 @@
 # VYPERBOY
 
-VYPERBOY is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Munster Munch, London on Sat, 31 Oct 2026.
+VYPERBOY is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Munster Munch, London on Sat, 31 Oct 2026.
 
 VYPERBOY is a house and garage artist, with 7 gigs on soundcheck across London. Often billed alongside Arjayes, Blink Twice and DAMPY. Next up: Munster Munch, London on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ VYPERBOY is a house and garage artist, with 7 gigs on soundcheck across London. 
 
 Arjayes, Blink Twice, DAMPY
 
-*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vyperboy/)*
+*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vyperboy/)*
