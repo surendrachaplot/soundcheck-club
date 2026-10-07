@@ -1,14 +1,13 @@
 # SALIMATA
 
-SALIMATA is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+SALIMATA is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
 
-SALIMATA is a house and afro house artist based in Germany, with 57 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 6 more. Often billed alongside JANE RYSE, KimPalm and Bossy Doll Bina. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+SALIMATA is a house and afro house artist based in Germany, with 57 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 6 more. Often billed alongside JANE RYSE, KimPalm and Bossy Doll Bina. Next up: RSO.BERLIN, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Sat, 31 Oct 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ SALIMATA is a house and afro house artist based in Germany, with 57 gigs on soun
 
 JANE RYSE, KimPalm, Bossy Doll Bina
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salimata/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salimata/)*

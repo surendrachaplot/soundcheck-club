@@ -1,6 +1,6 @@
 # Sandy Rivera
 
-Sandy Rivera is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The Midway, San Francisco/Oakland on Sun, 11 Oct 2026.
+Sandy Rivera is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Midway, San Francisco/Oakland on Sun, 11 Oct 2026.
 
 Sandy Rivera is a house and deep house artist based in United States of America, with 53 gigs on soundcheck across Auckland, Barcelona, Berlin and Brighton and 21 more. Often billed alongside Ella Knight, Chez Damier and Kellie Allen. Next up: The Midway, San Francisco/Oakland on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Sandy Rivera is a house and deep house artist based in United States of America,
 
 Ella Knight, Chez Damier, Kellie Allen
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandyrivera/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandyrivera/)*

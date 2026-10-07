@@ -1,6 +1,6 @@
 # J. Peacock
 
-J. Peacock is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Last Arch, London on Sat, 24 Oct 2026.
+J. Peacock is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Last Arch, London on Sat, 24 Oct 2026.
 
 J. Peacock is a house and disco artist based in United Kingdom, with 7 gigs on soundcheck across Detroit and London. Often billed alongside Laurence Guy, MARINI and Archie Holmes. Next up: Last Arch, London on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ J. Peacock is a house and disco artist based in United Kingdom, with 7 gigs on s
 
 Laurence Guy, MARINI, Archie Holmes
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.peacock/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.peacock/)*

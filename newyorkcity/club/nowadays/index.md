@@ -1,8 +1,8 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 20 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Octo Octa & Faited, Eva Loveless" on Thu, 8 Oct 2026.
+Nowadays is a music venue in New York City with 34 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Octo Octa & Faited, Eva Loveless" on Thu, 8 Oct 2026.
 
-Nowadays is a music venue in New York City listed on soundcheck. 20 upcoming gigs, with line-ups including 1tbsp, LYDO, ābnamā and Arthur (DE) and 2 more. See dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
+Nowadays is a music venue in New York City listed on soundcheck. 34 upcoming gigs, with line-ups including 1tbsp, LYDO, ābnamā and AceMo and 2 more. See dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Nowadays is a music venue in New York City listed on soundcheck. 20 upcoming gig
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

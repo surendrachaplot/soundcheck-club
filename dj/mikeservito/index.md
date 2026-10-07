@@ -1,8 +1,8 @@
 # Mike Servito
 
-Mike Servito is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Paragon, New York City on Fri, 9 Oct 2026.
+Mike Servito is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Paragon, New York City on Fri, 9 Oct 2026.
 
-Mike Servito is a house and techno artist based in United States of America, with 297 gigs on soundcheck across Amsterdam, Austin, Berlin and Boston and 30 more. Often billed alongside Erika, Shaun J. Wright and Carlos Souffront. Next up: Paragon, New York City on Fri 9 Oct.
+Mike Servito is a house and techno artist based in United States of America, with 298 gigs on soundcheck across Amsterdam, Austin, Berlin and Boston and 30 more. Often billed alongside Erika, Shaun J. Wright and Carlos Souffront. Next up: Paragon, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@ Mike Servito is a house and techno artist based in United States of America, wit
 | Sat, 31 Oct 2026 | Tangent Gallery | Detroit |
 | Sun, 1 Nov 2026 | Signal | New York City |
 | Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
+| Sat, 7 Nov 2026 | BASEMENT | New York City |
 | Fri, 13 Nov 2026 | TBA - Secret Dungeon Location | Pittsburgh |
-| Sat, 14 Nov 2026 | Nowadays | New York City |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Mike Servito is a house and techno artist based in United States of America, wit
 
 Erika, Shaun J. Wright, Carlos Souffront
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*

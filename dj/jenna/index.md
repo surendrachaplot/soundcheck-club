@@ -1,6 +1,6 @@
 # Jenna
 
-Jenna is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 5 Oct 2026.
+Jenna is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 5 Oct 2026.
 
 Jenna is a house and techno artist based in South Korea, with 21 gigs on soundcheck across Seoul. Often billed alongside Mignon, Sebibadboy and DJ Botermelk. Next up: Stoked&stoned, Seoul on Mon 5 Oct.
 
@@ -26,4 +26,4 @@ Jenna is a house and techno artist based in South Korea, with 21 gigs on soundch
 
 Mignon (2), Sebibadboy, DJ Botermelk
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenna/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenna/)*

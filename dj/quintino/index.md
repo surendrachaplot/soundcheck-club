@@ -1,6 +1,6 @@
 # Quintino
 
-Quintino is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Future Nightlife, Toronto on Fri, 23 Oct 2026.
+Quintino is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Future Nightlife, Toronto on Fri, 23 Oct 2026.
 
 Quintino is a house and electro artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam, Austin, Cologne and Ibiza and 4 more. Often billed alongside Lucas & Steve, Afrojack and Alignment. Next up: Future Nightlife, Toronto on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Quintino is a house and electro artist based in Netherlands, with 10 gigs on sou
 
 Lucas & Steve, Afrojack, Alignment
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quintino/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quintino/)*

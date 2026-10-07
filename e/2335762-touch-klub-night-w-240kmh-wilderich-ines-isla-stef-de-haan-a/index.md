@@ -1,6 +1,6 @@
 # TOUCHÉ KLUB NIGHT w./ [240KMH] Wilderich, ines isla, Stef de Haan at Lokschuppen Berlin
 
-TOUCHÉ KLUB NIGHT w./ [240KMH] Wilderich, ines isla, Stef de Haan at Lokschuppen Berlin on Sat 7 Nov, Berlin. 9 artists: FANK, Filialleiter, ines isla and Josiane and 5 more. See the line-up on soundcheck.
+TOUCHÉ KLUB NIGHT w./ [240KMH] Wilderich, ines isla, Stef de Haan at Lokschuppen Berlin on Sat 7 Nov, Berlin. 9 artists: FANK, Filialleiter, ines isla and Josiane and 5 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

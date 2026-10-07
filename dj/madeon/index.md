@@ -1,6 +1,6 @@
 # Madeon
 
-Madeon is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Shrine Auditorium and Expo Hall, Los Angeles on Sat, 24 Oct 2026.
+Madeon is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Shrine Auditorium and Expo Hall, Los Angeles on Sat, 24 Oct 2026.
 
 Madeon is an electro and house artist based in France, with 3 gigs on soundcheck across Chicago, Los Angeles and San Francisco/Oakland. Next up: Shrine Auditorium and Expo Hall, Los Angeles on Sat 24 Oct.
 
@@ -15,4 +15,4 @@ Madeon is an electro and house artist based in France, with 3 gigs on soundcheck
 
 - Bill Graham Civic Auditorium, San Francisco/Oakland · Fri, 2 Oct 2026
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madeon/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madeon/)*

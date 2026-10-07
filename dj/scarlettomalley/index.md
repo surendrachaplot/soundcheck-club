@@ -1,8 +1,8 @@
 # Scarlett O'Malley
 
-Scarlett O'Malley is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The Prospect Building, Bristol on Sat, 17 Oct 2026.
+Scarlett O'Malley is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Prospect Building, Bristol on Sat, 17 Oct 2026.
 
-Scarlett O'Malley is a house and disco artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 12 more. Often billed alongside Ella Knight, Lulah Francs and Michelle Manetti. Next up: The Prospect Building, Bristol on Sat 17 Oct.
+Scarlett O'Malley is a house and disco artist based in United Kingdom, with 100 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 12 more. Often billed alongside Ella Knight, Lulah Francs and Michelle Manetti. Next up: The Prospect Building, Bristol on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Scarlett O'Malley is a house and disco artist based in United Kingdom, with 99 g
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | The Prospect Building | Bristol |
 | Thu, 22 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
+| Thu, 22 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 | Fri, 30 Oct 2026 | EartH | London |
 | Sat, 14 Nov 2026 | Palais | London |
 | Fri, 20 Nov 2026 | Tresor / Globus | Berlin |
@@ -29,4 +30,4 @@ Scarlett O'Malley is a house and disco artist based in United Kingdom, with 99 g
 
 Ella Knight, Lulah Francs, Michelle Manetti
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scarlettomalley/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scarlettomalley/)*

@@ -1,6 +1,6 @@
 # The Chemist
 
-The Chemist is a music venue in Boston with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "GROOVE FREQUENCY PRESENTS: HOUSE GROOVES" on Wed, 7 Oct 2026.
+The Chemist is a music venue in Boston with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "GROOVE FREQUENCY PRESENTS: HOUSE GROOVES" on Wed, 7 Oct 2026.
 
 The Chemist is a music venue in Boston listed on soundcheck. 5 upcoming gigs, with line-ups including Lufer, Medux and Sergio Santos. See dates, start times and who's playing. 109 High St, Boston, MA, 02110.
 
@@ -18,4 +18,4 @@ The Chemist is a music venue in Boston listed on soundcheck. 5 upcoming gigs, wi
 
 109 High St, Boston, MA, 02110, Boston
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-chemist/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-chemist/)*

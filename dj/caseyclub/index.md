@@ -1,6 +1,6 @@
 # Casey Club
 
-Casey Club is a Dubstep and Bass artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+Casey Club is a Dubstep and Bass artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
 Casey Club is a dubstep and bass artist based in United Kingdom, with 17 gigs on soundcheck across Brighton, Bristol, Detroit and Jacksonville and 5 more. Often billed alongside Flava D, A Little Sound and Anaïs. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Casey Club is a dubstep and bass artist based in United Kingdom, with 17 gigs on
 
 Flava D, A Little Sound, Anaïs
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caseyclub/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caseyclub/)*

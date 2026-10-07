@@ -1,6 +1,6 @@
 # Kitty Hall
 
-Kitty Hall is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Chelmsford City Racecourse, London on Sat, 31 Oct 2026.
+Kitty Hall is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Chelmsford City Racecourse, London on Sat, 31 Oct 2026.
 
 Kitty Hall is a house and tech house artist based in United Kingdom, with 14 gigs on soundcheck across Brighton, Edinburgh, Glasgow and Ibiza and 4 more. Often billed alongside George Mensah, Sammy Porter and Benji King. Next up: Chelmsford City Racecourse, London on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Kitty Hall is a house and tech house artist based in United Kingdom, with 14 gig
 
 George Mensah, Sammy Porter, Benji King
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kittyhall/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kittyhall/)*

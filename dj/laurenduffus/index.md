@@ -1,6 +1,6 @@
 # Lauren Duffus
 
-Lauren Duffus is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Pustervik, Gothenburg on Fri, 11 Dec 2026.
+Lauren Duffus is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Pustervik, Gothenburg on Fri, 11 Dec 2026.
 
 Lauren Duffus is an experimental and bass artist, with 55 gigs on soundcheck across Amsterdam, Berlin, Brussels and Buenos Aires and 14 more. Often billed alongside 2K88, Rainy Miller and Bianca Scout. Next up: Pustervik, Gothenburg on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Lauren Duffus is an experimental and bass artist, with 55 gigs on soundcheck acr
 
 2K88, Rainy Miller, Bianca Scout
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenduffus/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenduffus/)*

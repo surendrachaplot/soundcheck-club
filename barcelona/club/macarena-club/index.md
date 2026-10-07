@@ -1,14 +1,13 @@
 # Macarena Club
 
-Macarena Club is a music venue in Barcelona with 26 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Plastic Night presents Emotions Records 2º Anniversary" on Tue, 6 Oct 2026.
+Macarena Club is a music venue in Barcelona with 25 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Original Silk" on Wed, 7 Oct 2026.
 
-Macarena Club is a music venue in Barcelona listed on soundcheck. 26 upcoming gigs, with line-ups including Jo-Sie, Amadori, Arval and August Artier and 2 more. See dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
+Macarena Club is a music venue in Barcelona listed on soundcheck. 25 upcoming gigs, with line-ups including Jo-Sie, Amadori, Arval and August Artier and 2 more. See dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 6 Oct 2026 | Plastic Night presents Emotions Records 2º Anniversary | Big AL, Death on the Balcony, Kanedo, Rory Cochrane |
 | Wed, 7 Oct 2026 | Original Silk | Jones May, Pau Guilera |
 | Thu, 8 Oct 2026 | Auténtico | Karla Amaro, Stefano Noferini |
 | Fri, 9 Oct 2026 | Alter Ego Ibiza | Hofer66 |
@@ -18,9 +17,10 @@ Macarena Club is a music venue in Barcelona listed on soundcheck. 26 upcoming gi
 | Tue, 13 Oct 2026 | Bridge48 | Matteo Bigliardi |
 | Wed, 14 Oct 2026 | Mise en Place | MAF, Paul Wolsch |
 | Thu, 15 Oct 2026 | Funk D'Void & Friends | Dan McKie, Funk D'Void, Paul Nolan, Usurp |
+| Fri, 16 Oct 2026 | Müsex Industries | Iñigo Díaz, Regina Star |
 
 ## Address
 
 Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain, Barcelona
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/macarena-club/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/macarena-club/)*

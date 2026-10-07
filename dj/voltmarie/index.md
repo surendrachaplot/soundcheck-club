@@ -1,6 +1,6 @@
 # VOLTMARIE
 
-VOLTMARIE is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Club Exil, Vienna on Fri, 9 Oct 2026.
+VOLTMARIE is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Club Exil, Vienna on Fri, 9 Oct 2026.
 
 VOLTMARIE is a techno and club artist based in Austria, with 20 gigs on soundcheck across Vienna. Often billed alongside Eminelli, ninon. and MELIMEKO. Next up: Club Exil, Vienna on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ VOLTMARIE is a techno and club artist based in Austria, with 20 gigs on soundche
 
 Eminelli, ninon., MELIMEKO
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voltmarie/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voltmarie/)*

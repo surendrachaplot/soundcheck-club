@@ -1,8 +1,8 @@
 # Ixbalanke
 
-Ixbalanke is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA, Cologne on Sat, 24 Oct 2026.
+Ixbalanke is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, Cologne on Sat, 24 Oct 2026.
 
-Ixbalanke is a techno and electro artist based in Mexico, with 7 gigs on soundcheck across Amsterdam, Berlin, Cologne and Mexico City and 3 more. Often billed alongside DJ Roach, T.Linder and Adonis Wolf. Next up: TBA, Cologne on Sat 24 Oct.
+Ixbalanke is a techno and electro artist based in Mexico, with 7 gigs on soundcheck across Amsterdam, Berlin, Cologne and Mexico City and 3 more. Often billed alongside T.Linder, Adonis Wolf and Amotik. Next up: TBA, Cologne on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ Ixbalanke is a techno and electro artist based in Mexico, with 7 gigs on soundch
 
 ## Shares bills with
 
-DJ Roach, T.Linder, Adonis Wolf
+T.Linder, Adonis Wolf, Amotik
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ixbalanke/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ixbalanke/)*

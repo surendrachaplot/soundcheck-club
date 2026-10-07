@@ -1,6 +1,6 @@
 # Prospa
 
-Prospa is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Shrine Auditorium and Expo Hall, Los Angeles on Wed, 14 Oct 2026.
+Prospa is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Shrine Auditorium and Expo Hall, Los Angeles on Wed, 14 Oct 2026.
 
 Prospa is a house and techno artist based in United Kingdom, with 183 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 48 more. Often billed alongside Seth Troxler, Josh Baker and Carlita. Next up: Shrine Auditorium and Expo Hall, Los Angeles on Wed 14 Oct.
 
@@ -34,4 +34,4 @@ Prospa is a house and techno artist based in United Kingdom, with 183 gigs on so
 
 Seth Troxler, Josh Baker, Carlita
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prospa/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prospa/)*

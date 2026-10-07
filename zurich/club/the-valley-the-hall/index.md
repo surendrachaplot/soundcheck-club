@@ -1,6 +1,6 @@
 # The Valley - The Hall
 
-The Valley - The Hall is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "HARDER THAN HARD - THE VALLEY" on Sat, 10 Oct 2026.
+The Valley - The Hall is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "HARDER THAN HARD - THE VALLEY" on Sat, 10 Oct 2026.
 
 The Valley - The Hall is a music venue in Zurich listed on soundcheck. 1 upcoming gig, with line-ups including REA (AL). See dates, start times and who's playing. Kemptpark 33, 8310 Kemptthal.
 
@@ -14,4 +14,4 @@ The Valley - The Hall is a music venue in Zurich listed on soundcheck. 1 upcomin
 
 Kemptpark 33, 8310 Kemptthal, Zurich
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/the-valley-the-hall/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/the-valley-the-hall/)*

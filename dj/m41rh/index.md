@@ -1,8 +1,8 @@
 # M41RH
 
-M41RH is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Club Exil, Vienna on Fri, 9 Oct 2026.
+M41RH is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Club Exil, Vienna on Fri, 9 Oct 2026.
 
-M41RH is a techno and breakbeat artist, with 18 gigs on soundcheck across Vienna. Often billed alongside Ridgie, Dcascallana and PAUNA. Next up: Club Exil, Vienna on Fri 9 Oct.
+M41RH is a techno and breakbeat artist based in Austria, with 18 gigs on soundcheck across Vienna. Often billed alongside Ridgie, Dcascallana and PAUNA. Next up: Club Exil, Vienna on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ M41RH is a techno and breakbeat artist, with 18 gigs on soundcheck across Vienna
 
 Ridgie, Dcascallana, PAUNA
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m41rh/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m41rh/)*

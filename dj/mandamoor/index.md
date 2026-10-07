@@ -1,6 +1,6 @@
 # Manda Moor
 
-Manda Moor is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at [UNVRS], Ibiza on Wed, 7 Oct 2026.
+Manda Moor is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at [UNVRS], Ibiza on Wed, 7 Oct 2026.
 
 Manda Moor is a tech house and house artist based in France, with 175 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Jamie Jones, Sirus Hood and Loco Dice. Next up: [UNVRS], Ibiza on Wed 7 Oct.
 
@@ -28,4 +28,4 @@ Manda Moor is a tech house and house artist based in France, with 175 gigs on so
 
 Jamie Jones, Sirus Hood, Loco Dice
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandamoor/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandamoor/)*

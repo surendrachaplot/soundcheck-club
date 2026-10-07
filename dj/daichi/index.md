@@ -1,14 +1,15 @@
 # Daichi
 
-Daichi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Solfa, Tokyo on Thu, 8 Oct 2026.
+Daichi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Solfa, Tokyo on Thu, 8 Oct 2026.
 
-Daichi is a house and techno artist based in Japan, with 116 gigs on soundcheck across Kyoto, Melbourne, Osaka and Tokyo. Often billed alongside YO.AN, Kenji Takimi and YAMARCHY. Next up: Solfa, Tokyo on Thu 8 Oct.
+Daichi is a house and techno artist based in Japan, with 117 gigs on soundcheck across Kyoto, Melbourne, Osaka and Tokyo. Often billed alongside YAMARCHY, YO.AN and Kenji Takimi. Next up: Solfa, Tokyo on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | Solfa | Tokyo |
+| Sun, 11 Oct 2026 | Mitsuki | Tokyo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Daichi is a house and techno artist based in Japan, with 116 gigs on soundcheck 
 
 ## Shares bills with
 
-YO.AN, Kenji Takimi, YAMARCHY
+YAMARCHY, YO.AN, Kenji Takimi
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daichi/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daichi/)*

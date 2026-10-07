@@ -1,6 +1,6 @@
 # sima k
 
-sima k is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Hoxton Cabin, London on Fri, 9 Oct 2026.
+sima k is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Hoxton Cabin, London on Fri, 9 Oct 2026.
 
 sima k is a house and tech house artist, with 27 gigs on soundcheck across Amsterdam, Ghent, London and Rotterdam. Often billed alongside Daan Donk, Taylor Taylor and Hannecart. Next up: Hoxton Cabin, London on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ sima k is a house and tech house artist, with 27 gigs on soundcheck across Amste
 
 Daan Donk, Taylor Taylor, Hannecart
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sima-k/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sima-k/)*

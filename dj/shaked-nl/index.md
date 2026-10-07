@@ -1,14 +1,13 @@
 # Shakèd
 
-Shakèd is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Shakèd is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Yellow House, Amsterdam on Fri, 23 Oct 2026.
 
-Shakèd is a house and minimal artist based in Netherlands, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 6 more. Often billed alongside Julien Simmons, Cabanne and Dana Ruh. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Shakèd is a house and minimal artist based in Netherlands, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 6 more. Often billed alongside Julien Simmons, Cabanne and Dana Ruh. Next up: Yellow House, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Fri, 23 Oct 2026 | Yellow House | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 
@@ -27,4 +26,4 @@ Shakèd is a house and minimal artist based in Netherlands, with 45 gigs on soun
 
 Julien Simmons, Cabanne, Dana Ruh
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaked-nl/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaked-nl/)*

@@ -1,6 +1,6 @@
 # Tina Tornade
 
-Tina Tornade is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Le Lieu Unique / Nantes, Nantes on Sat, 10 Oct 2026.
+Tina Tornade is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Le Lieu Unique / Nantes, Nantes on Sat, 10 Oct 2026.
 
 Tina Tornade is a techno and bass artist based in France, with 46 gigs on soundcheck across Nantes, Paris and Strasbourg. Often billed alongside KUSS, Alys LF and Or'l. Next up: Le Lieu Unique / Nantes, Nantes on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Tina Tornade is a techno and bass artist based in France, with 46 gigs on soundc
 
 KUSS, Alys LF, Or'l
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinatornade/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinatornade/)*

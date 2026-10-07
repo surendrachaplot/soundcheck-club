@@ -1,6 +1,6 @@
 # Luko
 
-Luko is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+Luko is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
 Luko is a house and techno artist based in France, with 13 gigs on soundcheck across Berlin, Lyon and Munich. Often billed alongside Pablo, XCS and Adri Tüde. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Luko is a house and techno artist based in France, with 13 gigs on soundcheck ac
 
 Pablo, XCS, Adri Tüde
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luko/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luko/)*

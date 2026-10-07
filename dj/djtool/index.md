@@ -1,6 +1,6 @@
 # DJ TOOL
 
-DJ TOOL is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - 4211 Todd Ln Suite A, Austin on Fri, 9 Oct 2026.
+DJ TOOL is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - 4211 Todd Ln Suite A, Austin on Fri, 9 Oct 2026.
 
 DJ TOOL is a techno and house artist based in Denmark, with 194 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 51 more. Often billed alongside Yazzus, Hyperaktivist and D.Dan. Next up: TBA - 4211 Todd Ln Suite A, Austin on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ DJ TOOL is a techno and house artist based in Denmark, with 194 gigs on soundche
 
 Yazzus, Hyperaktivist, D.Dan
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtool/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtool/)*

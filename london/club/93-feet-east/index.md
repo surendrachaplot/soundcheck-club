@@ -1,6 +1,6 @@
 # 93 Feet East
 
-93 Feet East is a music venue in London with 11 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Jammin' @ 93 Feet East [Live Room]" on Sat, 10 Oct 2026.
+93 Feet East is a music venue in London with 11 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Jammin' @ 93 Feet East [Live Room]" on Sat, 10 Oct 2026.
 
 93 Feet East is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Afshin, Alexandria, Carlos Aries and Dan Cowan and 2 more. See dates, start times and who's playing. The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom.
 
@@ -23,4 +23,4 @@
 
 The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom, London
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/93-feet-east/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/93-feet-east/)*

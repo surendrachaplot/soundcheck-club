@@ -1,8 +1,8 @@
 # Victor Hugo
 
-Victor Hugo is a House and Electronica artist with 17 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Sidecar, Barcelona on Sun, 11 Oct 2026.
+Victor Hugo is a House and Electronica artist with 18 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Sidecar, Barcelona on Sun, 11 Oct 2026.
 
-Victor Hugo is a house and electronica artist based in Mexico, with 83 gigs on soundcheck across Barcelona, Ibiza, Madrid and Mexico City. Often billed alongside Eudald Selva, INOFF and Elwei. Next up: Sidecar, Barcelona on Sun 11 Oct.
+Victor Hugo is a house and electronica artist based in Mexico, with 84 gigs on soundcheck across Barcelona, Ibiza, Madrid and Mexico City. Often billed alongside INOFF, Eudald Selva and PINI. Next up: Sidecar, Barcelona on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@ Victor Hugo is a house and electronica artist based in Mexico, with 83 gigs on s
 | Sun, 8 Nov 2026 | Sidecar | Barcelona |
 | Wed, 11 Nov 2026 | Chica Club | Barcelona |
 | Sun, 15 Nov 2026 | Sidecar | Barcelona |
+| Wed, 18 Nov 2026 | Chica Club | Barcelona |
 | Sun, 22 Nov 2026 | Sidecar | Barcelona |
-| Wed, 25 Nov 2026 | Chica Club | Barcelona |
 
 ## Recently played
 
@@ -34,6 +34,6 @@ Victor Hugo is a house and electronica artist based in Mexico, with 83 gigs on s
 
 ## Shares bills with
 
-Eudald Selva, INOFF, Elwei
+INOFF, Eudald Selva, PINI
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victorhugo/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victorhugo/)*

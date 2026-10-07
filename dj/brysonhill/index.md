@@ -1,13 +1,14 @@
 # Bryson Hill
 
-Bryson Hill is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
+Bryson Hill is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 9 Oct 2026.
 
-Bryson Hill is a house and techno artist based in Australia, with 10 gigs on soundcheck across Melbourne, Seoul, Sydney and Victoria. Often billed alongside Carla Martinez, Club Angel and James Pepper. Next up: Barunah Plains, Victoria on Mon 28 Dec.
+Bryson Hill is a house and techno artist based in Australia, with 11 gigs on soundcheck across Melbourne, Seoul, Sydney and Victoria. Often billed alongside Carla Martinez, Club Angel and James Pepper. Next up: Carousel Bar & Ballroom, Sydney on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Carousel Bar & Ballroom | Sydney |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 
 ## Recently played
@@ -25,4 +26,4 @@ Bryson Hill is a house and techno artist based in Australia, with 10 gigs on sou
 
 Carla Martinez, Club Angel, James Pepper
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brysonhill/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brysonhill/)*

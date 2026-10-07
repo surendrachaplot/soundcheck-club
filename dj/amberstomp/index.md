@@ -1,6 +1,6 @@
 # Amber Stomp
 
-Amber Stomp is a House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Lower Deck, London on Sat, 5 Dec 2026.
+Amber Stomp is a House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Lower Deck, London on Sat, 5 Dec 2026.
 
 Amber Stomp is a house artist based in Netherlands, with 6 gigs on soundcheck across London. Often billed alongside Altayef, Igor Garanin and PARTS. Next up: Lower Deck, London on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ Amber Stomp is a house artist based in Netherlands, with 6 gigs on soundcheck ac
 
 Altayef, Igor Garanin, PARTS
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amberstomp/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amberstomp/)*

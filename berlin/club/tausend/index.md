@@ -1,6 +1,6 @@
 # Tausend
 
-Tausend is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "HOUSE QUEENS" on Thu, 8 Oct 2026.
+Tausend is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "HOUSE QUEENS" on Thu, 8 Oct 2026.
 
 Tausend is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Bombata, Carla Valenti, Butterhands and LIZZN and 2 more. See dates, start times and who's playing. Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany.
 
@@ -20,4 +20,4 @@ Tausend is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with l
 
 Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany, Berlin
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tausend/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tausend/)*

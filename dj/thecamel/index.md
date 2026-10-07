@@ -1,14 +1,14 @@
 # The Camel
 
-The Camel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Agora Rollberg, Berlin on Tue, 13 Oct 2026.
+The Camel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, Berlin on Tue, 13 Oct 2026.
 
-The Camel is a techno and house artist based in Germany, with 46 gigs on soundcheck across Berlin. Often billed alongside Al Aslan, Dj Fugitive and EMIRA. Next up: Agora Rollberg, Berlin on Tue 13 Oct.
+The Camel is a techno and house artist based in Germany, with 46 gigs on soundcheck across Berlin. Often billed alongside Al Aslan, Dj Fugitive and EMIRA. Next up: TBA, Berlin on Tue 13 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 13 Oct 2026 | Agora Rollberg | Berlin |
+| Tue, 13 Oct 2026 | TBA | Berlin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ The Camel is a techno and house artist based in Germany, with 46 gigs on soundch
 
 Al Aslan, Dj Fugitive, EMIRA
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thecamel/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thecamel/)*

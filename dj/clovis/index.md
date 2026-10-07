@@ -1,14 +1,13 @@
 # Clovis
 
-Clovis is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Clovis is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Haus der Visionäre, Berlin on Sat, 10 Oct 2026.
 
-Clovis is a house and minimal artist based in Germany, with 95 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 15 more. Often billed alongside Cesar Merveille, Topper and Inner. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Clovis is a house and minimal artist based in Germany, with 95 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 15 more. Often billed alongside Cesar Merveille, Topper and Inner. Next up: Haus der Visionäre, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Sat, 10 Oct 2026 | Haus der Visionäre | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Clovis is a house and minimal artist based in Germany, with 95 gigs on soundchec
 
 Cesar Merveille, Topper, Inner
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clovis/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clovis/)*

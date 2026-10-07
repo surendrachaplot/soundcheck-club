@@ -1,6 +1,6 @@
 # Village Studios
 
-Village Studios is a music venue in Vancouver with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Jazzy" on Sun, 11 Oct 2026.
+Village Studios is a music venue in Vancouver with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Jazzy" on Sun, 11 Oct 2026.
 
 Village Studios is a music venue in Vancouver listed on soundcheck. 4 upcoming gigs, with line-ups including BINKY, Brendocha, EQ (Estratosfera + Qiri) and Jazzy (IRL). See dates, start times and who's playing. 1024 Davie Street, Vancouver, BC, V6E 1M, Canada.
 
@@ -17,4 +17,4 @@ Village Studios is a music venue in Vancouver listed on soundcheck. 4 upcoming g
 
 1024 Davie Street, Vancouver, BC, V6E 1M, Canada, Vancouver
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/village-studios/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/village-studios/)*

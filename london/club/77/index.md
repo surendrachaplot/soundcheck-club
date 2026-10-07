@@ -1,8 +1,8 @@
 # 77
 
-77 is a music venue in London with 18 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "77 hosts MASAKA AFRICANA: Novak & Vidojean & Mickey Dastinz" on Fri, 9 Oct 2026.
+77 is a music venue in London with 18 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "77 hosts MASAKA AFRICANA: Novak & Vidojean & Mickey Dastinz" on Fri, 9 Oct 2026.
 
-77 is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including Alan Dixon, AliTR, Angela Rose and Cinar and 2 more. See dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
+77 is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including Akhil (UK), Alan Dixon, AliTR and Angela Rose and 2 more. See dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
 ## What's on
 
@@ -16,11 +16,11 @@
 | Mon, 19 Oct 2026 | FullHouse Monday Party: Special Guest |  |
 | Tue, 20 Oct 2026 | 77: Alan Dixon | Alan Dixon, Sam Holland |
 | Fri, 23 Oct 2026 | 77 SESSIONS: DEB FA | Kidflo |
-| Sat, 24 Oct 2026 | Pyra x Residents presents: A House on Fire II |  |
+| Sat, 24 Oct 2026 | Pyra x Residents presents: A House on Fire II | Akhil (UK), S FLY |
 | Mon, 26 Oct 2026 | FullHouse Monday Party: Special Guest |  |
 
 ## Address
 
 77 Welbeck Street, W1G 0BB, London
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*

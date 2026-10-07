@@ -1,13 +1,14 @@
 # Alex Diwa
 
-Alex Diwa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Club 77, Sydney on Fri, 16 Oct 2026.
+Alex Diwa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Music Room, Melbourne on Fri, 9 Oct 2026.
 
-Alex Diwa is a house and techno artist based in Australia, with 20 gigs on soundcheck across Sydney. Often billed alongside Unprotected Success, Harry Court and Milkpaste. Next up: Club 77, Sydney on Fri 16 Oct.
+Alex Diwa is a house and techno artist based in Australia, with 21 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Harry Court, Unprotected Success and Milkpaste. Next up: Music Room, Melbourne on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Music Room | Melbourne |
 | Fri, 16 Oct 2026 | Club 77 | Sydney |
 | Sat, 7 Nov 2026 | Fraser Park | Sydney |
 
@@ -24,6 +25,6 @@ Alex Diwa is a house and techno artist based in Australia, with 20 gigs on sound
 
 ## Shares bills with
 
-Unprotected Success, Harry Court, Milkpaste
+Harry Court, Unprotected Success, Milkpaste
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdiwa/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdiwa/)*

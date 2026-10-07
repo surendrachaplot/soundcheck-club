@@ -1,6 +1,6 @@
 # RSquared
 
-RSquared is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - IT CLUB - SAN BORJA, Peru on Fri, 9 Oct 2026.
+RSquared is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - IT CLUB - SAN BORJA, Peru on Fri, 9 Oct 2026.
 
 RSquared is a tech house and house artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brisbane and 19 more. Often billed alongside Paco Osuna, Iglesias and Fatzo. Next up: TBA - IT CLUB - SAN BORJA, Peru on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ RSquared is a tech house and house artist based in United Kingdom, with 60 gigs 
 
 Paco Osuna, Iglesias, Fatzo
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rsquared/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rsquared/)*

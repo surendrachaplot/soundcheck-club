@@ -1,6 +1,6 @@
 # Klanglos
 
-Klanglos is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Schrotty, Cologne on Sat, 31 Oct 2026.
+Klanglos is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Schrotty, Cologne on Sat, 31 Oct 2026.
 
 Klanglos is a techno and house artist based in Germany, with 52 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 10 more. Often billed alongside Mark Dekoda, Sylvie Miles and Ben Dust. Next up: Schrotty, Cologne on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Klanglos is a techno and house artist based in Germany, with 52 gigs on soundche
 
 Mark Dekoda, Sylvie Miles, Ben Dust
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klanglos/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klanglos/)*

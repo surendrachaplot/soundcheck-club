@@ -1,6 +1,6 @@
 # Miguel Herreras
 
-Miguel Herreras is a Funk / Soul and Jazz artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Koda, Rotterdam on Sun, 11 Oct 2026.
+Miguel Herreras is a Funk / Soul and Jazz artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Koda, Rotterdam on Sun, 11 Oct 2026.
 
 Miguel Herreras is a funk / soul and jazz artist, with 7 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside Alex Pi, BRKN and Ben Diggins. Next up: Koda, Rotterdam on Sun 11 Oct.
 
@@ -23,4 +23,4 @@ Miguel Herreras is a funk / soul and jazz artist, with 7 gigs on soundcheck acro
 
 Alex Pi, BRKN, Ben Diggins
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelherreras/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelherreras/)*

@@ -1,8 +1,8 @@
 # Channel One Sound
 
-Channel One Sound is a Dub and Bass artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Volks, Brighton on Fri, 9 Oct 2026.
+Channel One Sound is a Dub and Bass artist with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Volks, Brighton on Fri, 9 Oct 2026.
 
-Channel One Sound is a dub and bass artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 16 more. Often billed alongside Kahn, Breakfake and Dubkasm. Next up: Volks, Brighton on Fri 9 Oct.
+Channel One Sound is a dub and bass artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 16 more. Often billed alongside Kahn, Breakfake and Dubkasm. Next up: Volks, Brighton on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Channel One Sound is a dub and bass artist based in United Kingdom, with 64 gigs
 | Thu, 5 Nov 2026 | Electric Studios | Sheffield |
 | Fri, 6 Nov 2026 | 24 Kitchen Street | Liverpool |
 | Fri, 13 Nov 2026 | Zoo | Geneva |
+| Fri, 4 Dec 2026 | fabric | London |
 | Fri, 18 Dec 2026 | The Prospect Building | Bristol |
 
 ## Recently played
@@ -31,4 +32,4 @@ Channel One Sound is a dub and bass artist based in United Kingdom, with 64 gigs
 
 Kahn, Breakfake, Dubkasm
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/channelonesound/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/channelonesound/)*

@@ -1,14 +1,15 @@
 # Seelie
 
-Seelie is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Dual, Bangkok on Sat, 31 Oct 2026.
+Seelie is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Dual, Bangkok on Sat, 31 Oct 2026.
 
-Seelie is a house and disco artist based in United Kingdom, with 74 gigs on soundcheck across Bangkok, Hong Kong, Kyoto and Lisbon and 5 more. Often billed alongside Brent Burns, Mr.Mowgli and Pam Anantr. Next up: Dual, Bangkok on Sat 31 Oct.
+Seelie is a house and disco artist based in United Kingdom, with 75 gigs on soundcheck across Bangkok, Hong Kong, Kyoto and Lisbon and 5 more. Often billed alongside Brent Burns, Mr.Mowgli and Pam Anantr. Next up: Dual, Bangkok on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Dual | Bangkok |
+| Sat, 7 Nov 2026 | Chang Chui Creative Park | Bangkok |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Seelie is a house and disco artist based in United Kingdom, with 74 gigs on soun
 
 Brent Burns, Mr.Mowgli, Pam Anantr
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seelie/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seelie/)*

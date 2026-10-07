@@ -1,6 +1,6 @@
 # Fort Romeau
 
-Fort Romeau is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Club Malasaña, Madrid on Sat, 10 Oct 2026.
+Fort Romeau is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Club Malasaña, Madrid on Sat, 10 Oct 2026.
 
 Fort Romeau is a house and techno artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Austin, Berlin and Brisbane and 16 more. Often billed alongside Alinka, Caspa Mono and Inox Traxx. Next up: Club Malasaña, Madrid on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Fort Romeau is a house and techno artist based in United Kingdom, with 36 gigs o
 
 Alinka, Caspa Mono, Inox Traxx
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fortromeau/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fortromeau/)*

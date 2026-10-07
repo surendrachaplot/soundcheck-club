@@ -1,6 +1,6 @@
 # Aio
 
-Aio is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Culture Box, Copenhagen on Fri, 9 Oct 2026.
+Aio is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Culture Box, Copenhagen on Fri, 9 Oct 2026.
 
 Aio is a techno and house artist based in Germany, with 71 gigs on soundcheck across Auckland, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside Aender, Maurice Mino and Konfusia. Next up: Culture Box, Copenhagen on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Aio is a techno and house artist based in Germany, with 71 gigs on soundcheck ac
 
 Aender, Maurice Mino, Konfusia
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aio/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aio/)*

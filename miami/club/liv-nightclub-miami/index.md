@@ -1,8 +1,8 @@
 # LIV Nightclub Miami
 
-LIV Nightclub Miami is a music venue in Miami with 13 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Alesso" on Fri, 9 Oct 2026.
+LIV Nightclub Miami is a music venue in Miami with 14 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Alesso" on Fri, 9 Oct 2026.
 
-LIV Nightclub Miami is a music venue in Miami listed on soundcheck. 13 upcoming gigs. See dates, start times and who's playing. 4441 Collins Ave; Miami Beach, FL 33139; United States.
+LIV Nightclub Miami is a music venue in Miami listed on soundcheck. 14 upcoming gigs. See dates, start times and who's playing. 4441 Collins Ave; Miami Beach, FL 33139; United States.
 
 ## What's on
 
@@ -23,4 +23,4 @@ LIV Nightclub Miami is a music venue in Miami listed on soundcheck. 13 upcoming 
 
 4441 Collins Ave; Miami Beach, FL 33139; United States, Miami
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/liv-nightclub-miami/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/liv-nightclub-miami/)*

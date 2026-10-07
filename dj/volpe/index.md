@@ -1,6 +1,6 @@
 # Volpe
 
-Volpe is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Nomad Warehouse // Galpón Mercedes Sosa, Buenos Aires on Sat, 10 Oct 2026.
+Volpe is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Nomad Warehouse // Galpón Mercedes Sosa, Buenos Aires on Sat, 10 Oct 2026.
 
 Volpe is a techno and dub techno artist based in Argentina, with 46 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Brussels and 7 more. Often billed alongside Daisy Weweh, Phil Berg and ÜBERKIKZ. Next up: Nomad Warehouse // Galpón Mercedes Sosa, Buenos Aires on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Volpe is a techno and dub techno artist based in Argentina, with 46 gigs on soun
 
 Daisy Weweh, Phil Berg, ÜBERKIKZ
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/volpe/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/volpe/)*

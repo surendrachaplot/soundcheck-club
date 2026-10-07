@@ -1,6 +1,6 @@
 # 40D (Dj)
 
-40D (Dj) is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Teja House, Lisbon on Fri, 16 Oct 2026.
+40D (Dj) is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Teja House, Lisbon on Fri, 16 Oct 2026.
 
 40D (Dj) is an afro house and house artist based in Mozambique, with 8 gigs on soundcheck across Lisbon, London and Porto. Often billed alongside AfroKillerz, Boddhi Satva and DJ IC. Next up: Teja House, Lisbon on Fri 16 Oct.
 
@@ -24,4 +24,4 @@
 
 AfroKillerz, Boddhi Satva, DJ IC
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/40d-dj/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/40d-dj/)*

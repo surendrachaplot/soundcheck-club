@@ -1,8 +1,8 @@
 # Denzel
 
-Denzel is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Sameheads, Berlin on Fri, 9 Oct 2026.
+Denzel is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Sameheads, Berlin on Fri, 9 Oct 2026.
 
-Denzel is a techno and house artist based in Finland, with 119 gigs on soundcheck across Amsterdam, Berlin, Bristol and Helsinki and 8 more. Often billed alongside Joni DJ, Justus Valtanen and Daniel Kayrouz. Next up: Sameheads, Berlin on Fri 9 Oct.
+Denzel is a techno and house artist based in Finland, with 120 gigs on soundcheck across Amsterdam, Berlin, Bristol and Helsinki and 8 more. Often billed alongside Joni DJ, Justus Valtanen and Daniel Kayrouz. Next up: Sameheads, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Denzel is a techno and house artist based in Finland, with 119 gigs on soundchec
 | Fri, 9 Oct 2026 | Sameheads | Berlin |
 | Sat, 10 Oct 2026 | Post Bar | Helsinki |
 | Fri, 23 Oct 2026 | Kaiku | Helsinki |
+| Sat, 14 Nov 2026 | Post Bar | Helsinki |
 | Sat, 26 Dec 2026 | Post Bar | Helsinki |
 
 ## Recently played
@@ -28,4 +29,4 @@ Denzel is a techno and house artist based in Finland, with 119 gigs on soundchec
 
 Joni DJ, Justus Valtanen, Daniel Kayrouz
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denzel/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denzel/)*

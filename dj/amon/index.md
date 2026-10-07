@@ -1,6 +1,6 @@
 # Amøn
 
-Amøn is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 24 Oct 2026.
+Amøn is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 24 Oct 2026.
 
 Amøn is a techno and trance artist based in Germany, with 105 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 6 more. Often billed alongside KLING&KLANG, DETOXX and Cobb Douglas. Next up: Toekomstmuziek, Amsterdam on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Amøn is a techno and trance artist based in Germany, with 105 gigs on soundchec
 
 KLING&KLANG, DETOXX, Cobb Douglas
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amon/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amon/)*

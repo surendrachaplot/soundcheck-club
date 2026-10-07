@@ -1,6 +1,6 @@
 # Cam Stockman
 
-Cam Stockman is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Fvtvr, Paris on Fri, 9 Oct 2026.
+Cam Stockman is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Fvtvr, Paris on Fri, 9 Oct 2026.
 
 Cam Stockman is a house and tech house artist based in United Kingdom, with 73 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 24 more. Often billed alongside Tommy Phillips, Gaskin and Jamback. Next up: Fvtvr, Paris on Fri 9 Oct.
 
@@ -36,4 +36,4 @@ Cam Stockman is a house and tech house artist based in United Kingdom, with 73 g
 
 Tommy Phillips, Gaskin, Jamback
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*

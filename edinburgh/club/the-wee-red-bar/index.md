@@ -1,6 +1,6 @@
 # The Wee Red Bar
 
-The Wee Red Bar is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Shenanigans 1st anniversary Halloween bash" on Fri, 30 Oct 2026.
+The Wee Red Bar is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Shenanigans 1st anniversary Halloween bash" on Fri, 30 Oct 2026.
 
 The Wee Red Bar is a music venue in Edinburgh listed on soundcheck. 2 upcoming gigs, with line-ups including Buckfast Barbie and PYOTOR. See dates, start times and who's playing. Edinburgh College of Art, 74 Lauriston Place; Edinburgh, EH3 9DF; Scotland.
 
@@ -15,4 +15,4 @@ The Wee Red Bar is a music venue in Edinburgh listed on soundcheck. 2 upcoming g
 
 Edinburgh College of Art, 74 Lauriston Place; Edinburgh, EH3 9DF; Scotland, Edinburgh
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-wee-red-bar/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-wee-red-bar/)*

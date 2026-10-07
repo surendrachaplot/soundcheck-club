@@ -1,6 +1,6 @@
 # Re Pigi
 
-Re Pigi is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Main Club, Milan on Thu, 8 Oct 2026.
+Re Pigi is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Main Club, Milan on Thu, 8 Oct 2026.
 
 Re Pigi is a techno and electronica artist based in Italy, with 50 gigs on soundcheck across Milan. Often billed alongside AllaDerivaLontano, Hi/Fi and Hutchee. Next up: Main Club, Milan on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Re Pigi is a techno and electronica artist based in Italy, with 50 gigs on sound
 
 AllaDerivaLontano, Hi/Fi, Hutchee
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/repigi/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/repigi/)*

@@ -1,14 +1,14 @@
 # MIC (10)
 
-MIC (10) is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+MIC (10) is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 9 Oct 2026.
 
-MIC is an electronic artist based in Germany, with 11 gigs on soundcheck across Athens, Berlin, Greece and Warsaw. Often billed alongside Liou, Nausicaä and Sibil. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+MIC is an electronic artist based in Germany, with 12 gigs on soundcheck across Athens, Berlin, Greece and Tbilisi and 1 more. Often billed alongside Liou, Nausicaä and Sibil. Next up: Mtkvarze, Tbilisi on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
+| Fri, 9 Oct 2026 | Mtkvarze | Tbilisi |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ MIC is an electronic artist based in Germany, with 11 gigs on soundcheck across 
 
 Liou, Nausicaä, Sibil (1)
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mic-10/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mic-10/)*

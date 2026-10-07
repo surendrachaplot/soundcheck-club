@@ -1,13 +1,14 @@
 # Cosmjn
 
-Cosmjn is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Silent Studios, Auckland on Sat, 17 Oct 2026.
+Cosmjn is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Coil, Melbourne on Fri, 9 Oct 2026.
 
-Cosmjn is a minimal and house artist based in Romania, with 61 gigs on soundcheck across Auckland, Barcelona, Berlin and Boston and 23 more. Often billed alongside Lizz, Andrei Ciubuc and Herodot. Next up: Silent Studios, Auckland on Sat 17 Oct.
+Cosmjn is a minimal and house artist based in Romania, with 62 gigs on soundcheck across Auckland, Barcelona, Berlin and Boston and 23 more. Often billed alongside Lizz, Andrei Ciubuc and Herodot. Next up: Coil, Melbourne on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Coil | Melbourne |
 | Sat, 17 Oct 2026 | Silent Studios | Auckland |
 
 ## Recently played
@@ -25,4 +26,4 @@ Cosmjn is a minimal and house artist based in Romania, with 61 gigs on soundchec
 
 Lizz, Andrei Ciubuc, Herodot
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmjn/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmjn/)*

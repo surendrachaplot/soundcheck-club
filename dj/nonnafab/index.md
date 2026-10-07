@@ -1,6 +1,6 @@
 # Nonna Fab
 
-Nonna Fab is a Jazz and Funk / Soul artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+Nonna Fab is a Jazz and Funk / Soul artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 Nonna Fab is a jazz and funk / soul artist based in United Kingdom, with 95 gigs on soundcheck across Birmingham, Cardiff, Leeds and Liverpool and 5 more. Often billed alongside Joi La Frique, Sirrey and Wow & Flutter. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Nonna Fab is a jazz and funk / soul artist based in United Kingdom, with 95 gigs
 
 Joi La Frique, Sirrey, Wow & Flutter
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nonnafab/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nonnafab/)*

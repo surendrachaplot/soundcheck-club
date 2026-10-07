@@ -1,6 +1,6 @@
 # Mike Millrain
 
-Mike Millrain is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Rolling Stock, London on Sat, 28 Nov 2026.
+Mike Millrain is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Rolling Stock, London on Sat, 28 Nov 2026.
 
 Mike Millrain is a garage and techno artist based in United Kingdom, with 7 gigs on soundcheck across London, Manchester and Toronto. Often billed alongside Chunky, Lady Passion and Rich Reason. Next up: Rolling Stock, London on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Mike Millrain is a garage and techno artist based in United Kingdom, with 7 gigs
 
 Chunky, Lady Passion, Rich Reason
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemillrain/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemillrain/)*

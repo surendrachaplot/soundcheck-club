@@ -1,6 +1,6 @@
 # millwac
 
-millwac is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Meraki, Liverpool on Sat, 24 Oct 2026.
+millwac is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Meraki, Liverpool on Sat, 24 Oct 2026.
 
 millwac is a techno and trance artist based in United Kingdom, with 8 gigs on soundcheck across Leeds, Liverpool, Manchester and Sheffield. Often billed alongside CHVZ, CIVILIAN and Cimmerian. Next up: Meraki, Liverpool on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ millwac is a techno and trance artist based in United Kingdom, with 8 gigs on so
 
 CHVZ, CIVILIAN, Cimmerian
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/millwac/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/millwac/)*

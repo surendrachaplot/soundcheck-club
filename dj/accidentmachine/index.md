@@ -1,6 +1,6 @@
 # Accident Machine
 
-Accident Machine is a Electronica and Acid artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The Mash House, Edinburgh on Sat, 10 Oct 2026.
+Accident Machine is a Electronica and Acid artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Mash House, Edinburgh on Sat, 10 Oct 2026.
 
 Accident Machine is an electronica and acid artist based in United Kingdom, with 22 gigs on soundcheck across Aberdeen, Edinburgh, Glasgow and Newcastle. Often billed alongside Marie Davidson, Sarah/Shaun and Optimo (Espacio). Next up: The Mash House, Edinburgh on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Accident Machine is an electronica and acid artist based in United Kingdom, with
 
 Marie Davidson, Sarah/Shaun, Optimo (Espacio)
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/accidentmachine/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/accidentmachine/)*

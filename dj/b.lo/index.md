@@ -1,14 +1,15 @@
 # b.lo
 
-b.lo is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The DBA, Manchester on Fri, 16 Oct 2026.
+b.lo is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The DBA, Manchester on Fri, 16 Oct 2026.
 
-b.lo is an electro and techno artist based in United Kingdom, with 26 gigs on soundcheck across Manchester. Often billed alongside GFA, teepee h and Hanz. Next up: The DBA, Manchester on Fri 16 Oct.
+b.lo is an electro and techno artist based in United Kingdom, with 27 gigs on soundcheck across Manchester. Often billed alongside GFA, Hanz and teepee h. Next up: The DBA, Manchester on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | The DBA | Manchester |
+| Sat, 14 Nov 2026 | Hidden | Manchester |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ b.lo is an electro and techno artist based in United Kingdom, with 26 gigs on so
 
 ## Shares bills with
 
-GFA, teepee h, Hanz
+GFA, Hanz, teepee h
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b.lo/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b.lo/)*

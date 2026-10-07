@@ -1,8 +1,8 @@
 # Henry Saiz
 
-Henry Saiz is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Pacific Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Henry Saiz is a Progressive House and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Pacific Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Henry Saiz is a progressive house and house artist based in Spain, with 63 gigs on soundcheck across Amsterdam, Barcelona, Brisbane and Bristol and 18 more. Often billed alongside Amadori, Luciano Lozz and Gespona. Next up: Pacific Amsterdam, Amsterdam on Fri 23 Oct.
+Henry Saiz is a progressive house and house artist based in Spain, with 64 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Brisbane and 19 more. Often billed alongside Amadori, Luciano Lozz and Gespona. Next up: Pacific Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Henry Saiz is a progressive house and house artist based in Spain, with 63 gigs 
 | Fri, 23 Oct 2026 | Pacific Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Onder Hans | Amsterdam |
 | Sat, 7 Nov 2026 | Cafe Del Mar | Sydney |
+| Sun, 8 Nov 2026 | HI-SO Rooftop Bar | Auckland |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Henry Saiz is a progressive house and house artist based in Spain, with 63 gigs 
 
 Amadori, Luciano Lozz, Gespona
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henrysaiz/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henrysaiz/)*

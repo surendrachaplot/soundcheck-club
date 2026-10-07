@@ -1,8 +1,8 @@
 # Flash
 
-Flash is a music venue in Washington DC with 21 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "FOCUS: Marcel Dettmann" on Fri, 9 Oct 2026.
+Flash is a music venue in Washington DC with 21 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "FOCUS: Marcel Dettmann" on Fri, 9 Oct 2026.
 
-Flash is a music venue in Washington DC listed on soundcheck. 21 upcoming gigs, with line-ups including Adrian Collazo, Adyy Love, Alan Fitzpatrick and Aline Umber and 2 more. See dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
+Flash is a music venue in Washington DC listed on soundcheck. 21 upcoming gigs, with line-ups including Aaron Sparks, Adrian Collazo, Adyy Love and Alan Fitzpatrick and 2 more. See dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Flash is a music venue in Washington DC listed on soundcheck. 21 upcoming gigs, 
 | Sat, 17 Oct 2026 | Resident Nights: Apollo Dust - House Twelve - Yannis | Adyy Love, Apollo Dust, BE EZY, E-QUE, House Twelve, MANNE, SPCL.K |
 | Sun, 18 Oct 2026 | Sunday Love: Willikens & Ivkovic - Diego Knows - Katrina Mir | Diego Knows, Katrina Mir, Lena Willikens, Vladimir Ivkovic |
 | Fri, 23 Oct 2026 | The Carry Nation | DJ KATTCO, Fish House Funk, Keenan Orr, Lemz, The Carry Nation |
-| Sat, 24 Oct 2026 | INVT | INVT |
-| Sun, 25 Oct 2026 | Sunday Love: Anthony Middleton - OliverTiERRA | Anthony Middleton, TiERRA |
+| Sat, 24 Oct 2026 | INVT | ANNYA, INVT, VYNX |
+| Sun, 25 Oct 2026 | Sunday Love: Anthony Middleton - OliverTiERRA - Conscious Contact | Anthony Middleton, Conscious Contact, TiERRA |
 
 ## Address
 
 645 Florida Ave, NW, Washington, D.C. 20001, Washington DC
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*

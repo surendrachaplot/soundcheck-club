@@ -1,14 +1,15 @@
 # Mati Amoretti
 
-Mati Amoretti is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 17 Oct 2026.
+Mati Amoretti is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 17 Oct 2026.
 
-Mati Amoretti is a house and techno artist based in Argentina, with 26 gigs on soundcheck across Berlin and Madrid. Often billed alongside oulcan, Tom Pavicich and Nacho Carbajal. Next up: Bulbul Berlin, Berlin on Sat 17 Oct.
+Mati Amoretti is a house and techno artist based in Argentina, with 27 gigs on soundcheck across Berlin and Madrid. Often billed alongside oulcan, Tom Pavicich and Nacho Carbajal. Next up: Bulbul Berlin, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Bulbul Berlin | Berlin |
+| Fri, 23 Oct 2026 | Crack Bellmer | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Mati Amoretti is a house and techno artist based in Argentina, with 26 gigs on s
 
 oulcan, Tom Pavicich, Nacho Carbajal
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matiamoretti/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matiamoretti/)*

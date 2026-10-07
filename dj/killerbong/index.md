@@ -1,6 +1,6 @@
 # KILLER BONG
 
-KILLER BONG is a Jazz and Dub artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at WOMB, Tokyo on Fri, 9 Oct 2026.
+KILLER BONG is a Jazz and Dub artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at WOMB, Tokyo on Fri, 9 Oct 2026.
 
 KILLER BONG is a jazz and dub artist based in Japan, with 7 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Aki Dolanikov, Atsuki and Eda. Next up: WOMB, Tokyo on Fri 9 Oct.
 
@@ -23,4 +23,4 @@ KILLER BONG is a jazz and dub artist based in Japan, with 7 gigs on soundcheck a
 
 Aki Dolanikov, Atsuki, Eda
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/killerbong/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/killerbong/)*

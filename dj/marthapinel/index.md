@@ -1,6 +1,6 @@
 # Martha Pinel
 
-Martha Pinel is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Secret, Rio-de-janeiro on Sat, 10 Oct 2026.
+Martha Pinel is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Secret, Rio-de-janeiro on Sat, 10 Oct 2026.
 
 Martha Pinel is a house and disco artist based in Brazil, with 35 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Lisbon and 6 more. Often billed alongside Kapote, Paco Cabana and Tessuto. Next up: TBA - Secret, Rio De Janeiro on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Martha Pinel is a house and disco artist based in Brazil, with 35 gigs on soundc
 
 Kapote, Paco Cabana, Tessuto
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marthapinel/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marthapinel/)*

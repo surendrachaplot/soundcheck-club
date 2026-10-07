@@ -1,6 +1,6 @@
 # Global
 
-Global is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 9 Oct 2026.
+Global is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 9 Oct 2026.
 
 Global is an experimental and electro artist based in Germany, with 20 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Glasgow and 4 more. Often billed alongside Sodomland, Blood of Aza and Europa. Next up: Razzmatazz, Barcelona on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Global is an experimental and electro artist based in Germany, with 20 gigs on s
 
 Sodomland, Blood of Aza, Europa (1)
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/global/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/global/)*

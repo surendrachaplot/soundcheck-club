@@ -1,6 +1,6 @@
 # Martin Books
 
-Martin Books is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Stromwerk Dresden, Dresden on Sat, 24 Oct 2026.
+Martin Books is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Stromwerk Dresden, Dresden on Sat, 24 Oct 2026.
 
 Martin Books is a techno and tech house artist based in Germany, with 15 gigs on soundcheck across Berlin, Brussels, Dresden and Frankfurt. Often billed alongside Basstronauten, Daniel Boon and Grace Thompson. Next up: Stromwerk Dresden, Dresden on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Martin Books is a techno and tech house artist based in Germany, with 15 gigs on
 
 Basstronauten, Daniel Boon, Grace Thompson
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinbooks/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinbooks/)*

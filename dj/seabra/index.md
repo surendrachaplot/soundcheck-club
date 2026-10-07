@@ -1,14 +1,15 @@
 # Seabra
 
-Seabra is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at La Java, Paris on Sat, 24 Oct 2026.
+Seabra is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at La Java, Paris on Sat, 24 Oct 2026.
 
-Seabra is a house and pop artist based in France, with 9 gigs on soundcheck across Paris and Sao Paulo. Often billed alongside Blinkduus Dischetto, Von Riu and Amine S. Next up: La Java, Paris on Sat 24 Oct.
+Seabra is a house and techno artist based in France, with 10 gigs on soundcheck across Paris and Sao Paulo. Often billed alongside Blinkduus Dischetto, Von Riu and Amine S. Next up: La Java, Paris on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | La Java | Paris |
+| Sat, 14 Nov 2026 | Cabaret Sauvage | Paris |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Seabra is a house and pop artist based in France, with 9 gigs on soundcheck acro
 
 Blinkduus Dischetto (2), Von Riu, Amine S
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seabra/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seabra/)*

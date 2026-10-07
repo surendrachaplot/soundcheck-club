@@ -1,6 +1,6 @@
 # AKIRAM EN
 
-AKIRAM EN is a Techno and Experimental artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 10 Oct 2026.
+AKIRAM EN is a Techno and Experimental artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 10 Oct 2026.
 
 AKIRAM EN is a techno and experimental artist based in Japan, with 166 gigs on soundcheck across Amsterdam, Berlin, Kyoto and Osaka and 3 more. Often billed alongside Ginji, KIMURA and SAITO. Next up: DJ Bar Bridge Shinjuku, Tokyo on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ AKIRAM EN is a techno and experimental artist based in Japan, with 166 gigs on s
 
 Ginji, KIMURA, SAITO
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akiramen/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akiramen/)*

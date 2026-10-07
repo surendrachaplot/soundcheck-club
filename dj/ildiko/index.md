@@ -1,6 +1,6 @@
 # Ildikó
 
-Ildikó is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA, Berlin on Sat, 28 Nov 2026.
+Ildikó is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, Berlin on Sat, 28 Nov 2026.
 
 Ildikó is a techno and experimental artist based in Germany, with 6 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Munich. Often billed alongside Voltmar, Anna Butter and DJ Hell. Next up: TBA, Berlin on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Ildikó is a techno and experimental artist based in Germany, with 6 gigs on sou
 
 Voltmar, Anna Butter, DJ Hell
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ildiko/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ildiko/)*

@@ -1,14 +1,15 @@
 # Davis Galvin
 
-Davis Galvin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at SideQuest on 44th, Pittsburgh on Sat, 17 Oct 2026.
+Davis Galvin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at SideQuest on 44th, Pittsburgh on Sat, 17 Oct 2026.
 
-Davis Galvin is a techno and house artist, with 15 gigs on soundcheck across Boston, Chicago, Detroit and Mexico City and 3 more. Often billed alongside Ali Berger, Nick Boyd and ADAB. Next up: SideQuest on 44th, Pittsburgh on Sat 17 Oct.
+Davis Galvin is a techno and house artist based in United States of America, with 16 gigs on soundcheck across Boston, Chicago, Detroit and Mexico City and 3 more. Often billed alongside Ali Berger, Nick Boyd and ADAB. Next up: SideQuest on 44th, Pittsburgh on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | SideQuest on 44th | Pittsburgh |
+| Sun, 15 Nov 2026 | Collapse | Pittsburgh |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Davis Galvin is a techno and house artist, with 15 gigs on soundcheck across Bos
 
 Ali Berger, Nick Boyd, ADAB
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davisgalvin/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davisgalvin/)*

@@ -1,6 +1,6 @@
 # Kollektiv Sheesh
 
-Kollektiv Sheesh is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Beate Uwe, Berlin on Sun, 11 Oct 2026.
+Kollektiv Sheesh is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Beate Uwe, Berlin on Sun, 11 Oct 2026.
 
 Kollektiv Sheesh is a techno and deep house artist based in Germany, with 76 gigs on soundcheck across Berlin, Hamburg, Stuttgart and Vienna. Often billed alongside Nugi, Nya Nyx and Just Emma. Next up: Beate Uwe, Berlin on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Kollektiv Sheesh is a techno and deep house artist based in Germany, with 76 gig
 
 Nugi, Nya Nyx, Just Emma
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kollektivsheesh/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kollektivsheesh/)*

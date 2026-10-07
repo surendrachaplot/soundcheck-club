@@ -1,14 +1,15 @@
 # Ysanne
 
-Ysanne is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Social, London on Fri, 16 Oct 2026.
+Ysanne is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Social, London on Fri, 16 Oct 2026.
 
-Ysanne is a house and techno artist based in United Kingdom, with 53 gigs on soundcheck across Brighton, Glasgow, Liverpool and London and 1 more. Often billed alongside Michelle Manetti, Jaye Ward and Kmya. Next up: The Social, London on Fri 16 Oct.
+Ysanne is a house and techno artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Brighton, Glasgow and Liverpool and 2 more. Often billed alongside Michelle Manetti, Jaye Ward and Kmya. Next up: The Social, London on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | The Social | London |
+| Thu, 22 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ysanne is a house and techno artist based in United Kingdom, with 53 gigs on sou
 
 Michelle Manetti, Jaye Ward, Kmya
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ysanne/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ysanne/)*

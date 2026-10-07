@@ -1,6 +1,6 @@
 # STAF EV
 
-STAF EV is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at OCZKI, Warsaw on Sat, 24 Oct 2026.
+STAF EV is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at OCZKI, Warsaw on Sat, 24 Oct 2026.
 
 STAF EV is an industrial and techno artist based in Poland, with 8 gigs on soundcheck across Warsaw. Often billed alongside MIKASO, Józef Keuner and RIØT. Next up: OCZKI, Warsaw on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ STAF EV is an industrial and techno artist based in Poland, with 8 gigs on sound
 
 MIKASO, Józef Keuner, RIØT
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stafev/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stafev/)*

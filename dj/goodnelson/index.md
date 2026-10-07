@@ -1,6 +1,6 @@
 # Good Nelson
 
-Good Nelson is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Folklor, Lausanne on Sat, 10 Oct 2026.
+Good Nelson is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Folklor, Lausanne on Sat, 10 Oct 2026.
 
 Good Nelson is a minimal techno and house artist based in Chile, with 10 gigs on soundcheck across Barcelona, Berlin, Lausanne and Lisbon. Often billed alongside Elwei, Miguel Silva and Popsky. Next up: Folklor, Lausanne on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Good Nelson is a minimal techno and house artist based in Chile, with 10 gigs on
 
 Elwei, Miguel Silva, Popsky
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goodnelson/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goodnelson/)*

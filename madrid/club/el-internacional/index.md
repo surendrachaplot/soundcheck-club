@@ -1,17 +1,21 @@
 # El Internacional
 
-El Internacional is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "Jazz Club by 55b" on Thu, 8 Oct 2026.
+El Internacional is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Jazz Club by 55b" on Thu, 8 Oct 2026.
 
-El Internacional is a music venue in Madrid listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Calle de Cedaceros, 11, 28014, Madrid, Spain.
+El Internacional is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with line-ups including DIGUES, Gazzi and SENDA FATAL. See dates, start times and who's playing. Calle de Cedaceros, 11, 28014, Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | Jazz Club by 55b |  |
+| Fri, 9 Oct 2026 | El Internacional Club | SENDA FATAL |
+| Sat, 10 Oct 2026 | El Internacional Club | Gazzi |
+| Sun, 11 Oct 2026 | El Internacional Club - Víspera de festivo | DIGUES |
+| Thu, 15 Oct 2026 | Jazz Club by 55b |  |
 
 ## Address
 
 Calle de Cedaceros, 11, 28014, Madrid, Spain, Madrid
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-internacional/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-internacional/)*

@@ -1,14 +1,13 @@
 # Jane Fitz
 
-Jane Fitz is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Jane Fitz is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Sub Club, Glasgow on Sat, 10 Oct 2026.
 
-Jane Fitz is a techno and house artist based in United Kingdom, with 178 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 36 more. Often billed alongside Marco Shuttle, Francesco Del Garda and DJ Nobu. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Jane Fitz is a techno and house artist based in United Kingdom, with 178 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 36 more. Often billed alongside Marco Shuttle, Francesco Del Garda and DJ Nobu. Next up: Sub Club, Glasgow on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Sat, 10 Oct 2026 | Sub Club | Glasgow |
 | Sat, 17 Oct 2026 | fabric | London |
 | Sun, 25 Oct 2026 | TBA | Amsterdam |
@@ -20,6 +19,7 @@ Jane Fitz is a techno and house artist based in United Kingdom, with 178 gigs on
 | Fri, 4 Dec 2026 | 宀 Club | Hong Kong |
 | Sun, 20 Dec 2026 | Macadam | Nantes |
 | Fri, 22 Jan 2027 | The Golden Lion | Manchester |
+| Fri, 2 Apr 2027 | TBA | Sheffield |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Jane Fitz is a techno and house artist based in United Kingdom, with 178 gigs on
 
 Marco Shuttle, Francesco Del Garda, DJ Nobu
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janefitz/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janefitz/)*

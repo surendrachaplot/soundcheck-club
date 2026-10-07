@@ -1,6 +1,6 @@
 # Chinese Laundry
 
-Chinese Laundry is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Chinese Laundry Invites MONDE SONIQ + MISS SUNSHINE & FRIENDS" on Fri, 9 Oct 2026.
+Chinese Laundry is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Chinese Laundry Invites MONDE SONIQ + MISS SUNSHINE & FRIENDS" on Fri, 9 Oct 2026.
 
 Chinese Laundry is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including Daes, Daitto, Joel Cantone and KELLY TEE and 2 more. See dates, start times and who's playing. 111 Sussex St; Sydney, NSW 2000; Australia.
 
@@ -15,4 +15,4 @@ Chinese Laundry is a music venue in Sydney listed on soundcheck. 2 upcoming gigs
 
 111 Sussex St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*

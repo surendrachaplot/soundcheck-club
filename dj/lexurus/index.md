@@ -1,6 +1,6 @@
 # Lexurus
 
-Lexurus is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Ääniwalli, Helsinki on Fri, 13 Nov 2026.
+Lexurus is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Ääniwalli, Helsinki on Fri, 13 Nov 2026.
 
 Lexurus is a drum & bass and bass artist based in Netherlands, with 14 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 6 more. Often billed alongside Maduk, MOTA and Telomic. Next up: Ääniwalli, Helsinki on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Lexurus is a drum & bass and bass artist based in Netherlands, with 14 gigs on s
 
 Maduk, MOTA, Telomic
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexurus/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexurus/)*

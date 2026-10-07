@@ -1,6 +1,6 @@
 # Masters At Work
 
-Masters At Work is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Amnesia Ibiza, Ibiza on Fri, 9 Oct 2026.
+Masters At Work is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Amnesia Ibiza, Ibiza on Fri, 9 Oct 2026.
 
 Masters At Work is a house and techno artist based in United States of America, with 23 gigs on soundcheck across Amsterdam, Cork, Detroit and Ibiza and 5 more. Often billed alongside Kenny Dope, Carl Craig and Horse Meat Disco. Next up: Amnesia Ibiza, Ibiza on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Masters At Work is a house and techno artist based in United States of America, 
 
 Kenny Dope, Carl Craig, Horse Meat Disco
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maw/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maw/)*

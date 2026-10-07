@@ -1,6 +1,6 @@
 # Adame DJ
 
-Adame DJ is a Baile Funk and Experimental artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Mia Mao, Paris on Fri, 16 Oct 2026.
+Adame DJ is a Baile Funk and Experimental artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Mia Mao, Paris on Fri, 16 Oct 2026.
 
 Adame DJ is a baile funk and experimental artist based in Brazil, with 9 gigs on soundcheck across Barcelona, Milan, Paris and Sao Paulo. Often billed alongside Kanti, Acidnena and BRAVA. Next up: Mia Mao, Paris on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Adame DJ is a baile funk and experimental artist based in Brazil, with 9 gigs on
 
 Kanti, Acidnena, BRAVA
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamedj/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamedj/)*

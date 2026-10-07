@@ -1,6 +1,6 @@
 # DJ Sarah
 
-DJ Sarah is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Revolver Upstairs, Melbourne on Fri, 9 Oct 2026.
+DJ Sarah is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Revolver Upstairs, Melbourne on Fri, 9 Oct 2026.
 
 DJ Sarah is a house and techno artist based in Australia, with 16 gigs on soundcheck across Berlin, Melbourne and Sydney. Often billed alongside Acid Safari, Georgia Bird and JOVE. Next up: Revolver Upstairs, Melbourne on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DJ Sarah is a house and techno artist based in Australia, with 16 gigs on soundc
 
 Acid Safari, Georgia Bird, JOVE
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsarah/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsarah/)*

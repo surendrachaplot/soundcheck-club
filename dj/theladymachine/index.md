@@ -1,8 +1,8 @@
 # The Lady Machine
 
-The Lady Machine is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The Bassement, Madrid on Fri, 9 Oct 2026.
+The Lady Machine is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Bassement, Madrid on Fri, 9 Oct 2026.
 
-The Lady Machine is a techno and house artist based in Brazil, with 191 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 44 more. Often billed alongside Freddy K, Blasha & Allatt and Rakans. Next up: The Bassement, Madrid on Fri 9 Oct.
+The Lady Machine is a techno and house artist based in Brazil, with 192 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 44 more. Often billed alongside Freddy K, Blasha & Allatt and Rakans. Next up: The Bassement, Madrid on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ The Lady Machine is a techno and house artist based in Brazil, with 191 gigs on 
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 30 Oct 2026 | Club Drugstore | Serbia |
 | Sat, 7 Nov 2026 | Universe Athens | Athens |
+| Sat, 14 Nov 2026 | BASEMENT | New York City |
 | Fri, 20 Nov 2026 | Standard Time | Toronto |
 | Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
@@ -35,4 +36,4 @@ The Lady Machine is a techno and house artist based in Brazil, with 191 gigs on 
 
 Freddy K, Blasha & Allatt, Rakans
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theladymachine/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theladymachine/)*

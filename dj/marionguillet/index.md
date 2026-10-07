@@ -1,6 +1,6 @@
 # Marion Guillet
 
-Marion Guillet is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Le Poisson Volant, Paris on Thu, 15 Oct 2026.
+Marion Guillet is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Le Poisson Volant, Paris on Thu, 15 Oct 2026.
 
 Marion Guillet is a house and techno artist, with 9 gigs on soundcheck across Paris. Often billed alongside Alek Lee, Amarou and Dissemblance. Next up: Le Poisson Volant, Paris on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Marion Guillet is a house and techno artist, with 9 gigs on soundcheck across Pa
 
 Alek Lee, Amarou, Dissemblance
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marionguillet/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marionguillet/)*

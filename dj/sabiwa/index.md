@@ -1,6 +1,6 @@
 # Sabiwa
 
-Sabiwa is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Paral•lel 62, Barcelona on Fri, 9 Oct 2026.
+Sabiwa is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Paral•lel 62, Barcelona on Fri, 9 Oct 2026.
 
 Sabiwa is an experimental and ambient artist based in Germany, with 14 gigs on soundcheck across Barcelona, Berlin, Copenhagen and London and 1 more. Often billed alongside Pisitakun, Wanton Witch and HWXXNG. Next up: Paral•lel 62, Barcelona on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Sabiwa is an experimental and ambient artist based in Germany, with 14 gigs on s
 
 Pisitakun, Wanton Witch, HWXXNG
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabiwa/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabiwa/)*

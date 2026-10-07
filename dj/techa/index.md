@@ -1,13 +1,14 @@
 # Techa
 
-Techa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Unmute, Hanoi on Fri, 16 Oct 2026.
+Techa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Le Maquis Club, Hanoi on Sat, 10 Oct 2026.
 
-Techa is a house and techno artist, with 13 gigs on soundcheck across Bangkok, Belgrade, Hanoi and Hong Kong and 3 more. Often billed alongside Dusan Nikolic, Faxtory and Teodora Van Context. Next up: Unmute, Hanoi on Fri 16 Oct.
+Techa is a house and techno artist, with 14 gigs on soundcheck across Bangkok, Belgrade, Hanoi and Hong Kong and 3 more. Often billed alongside Dusan Nikolic, Faxtory and Teodora Van Context. Next up: Le Maquis Club, Hanoi on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Le Maquis Club | Hanoi |
 | Fri, 16 Oct 2026 | Unmute | Hanoi |
 
 ## Recently played
@@ -25,4 +26,4 @@ Techa is a house and techno artist, with 13 gigs on soundcheck across Bangkok, B
 
 Dusan Nikolic, Faxtory, Teodora Van Context
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/techa/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/techa/)*

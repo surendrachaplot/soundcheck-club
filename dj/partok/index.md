@@ -1,8 +1,8 @@
 # Partok
 
-Partok is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Pillbox Beijing, Beijing on Fri, 9 Oct 2026.
+Partok is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Pillbox Beijing, Beijing on Fri, 9 Oct 2026.
 
-Partok is a house and techno artist, with 111 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Roi Perez, David Elimelech and BASHKKA. Next up: Pillbox Beijing, Beijing on Fri 9 Oct.
+Partok is a house and techno artist, with 112 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Roi Perez, David Elimelech and BASHKKA. Next up: Pillbox Beijing, Beijing on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Partok is a house and techno artist, with 111 gigs on soundcheck across Amsterda
 | Fri, 9 Oct 2026 | Pillbox Beijing | Beijing |
 | Fri, 16 Oct 2026 | OIL Club | Shenzhen |
 | Sat, 17 Oct 2026 | Horn | Bangkok |
+| Sat, 7 Nov 2026 | BASEMENT | New York City |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Partok is a house and techno artist, with 111 gigs on soundcheck across Amsterda
 
 Roi Perez, David Elimelech, BASHKKA
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/partok/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/partok/)*

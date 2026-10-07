@@ -1,6 +1,6 @@
 # Supergloss
 
-Supergloss is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Smoke & Mirrors, Chicago on Fri, 9 Oct 2026.
+Supergloss is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Smoke & Mirrors, Chicago on Fri, 9 Oct 2026.
 
 Supergloss is a techno and trance artist based in Germany, with 217 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Funk Tribu, Omon Breaker and MALUGI. Next up: Smoke & Mirrors, Chicago on Fri 9 Oct.
 
@@ -35,4 +35,4 @@ Supergloss is a techno and trance artist based in Germany, with 217 gigs on soun
 
 Funk Tribu, Omon Breaker, MALUGI
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*

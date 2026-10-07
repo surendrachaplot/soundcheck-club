@@ -1,13 +1,14 @@
 # 25ohms
 
-25ohms is a Hardcore and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - 25 Baldwin (Rear Alley), Toronto on Sat, 31 Oct 2026.
+25ohms is a Hardcore and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Cafeteria, Toronto on Sat, 10 Oct 2026.
 
-25ohms is a hardcore and house artist based in Canada, with 5 gigs on soundcheck across Toronto. Often billed alongside Audi Étoffe, 666.pastel and Baby Bimbo. Next up: TBA - 25 Baldwin (Rear Alley), Toronto on Sat 31 Oct.
+25ohms is a hardcore and house artist based in Canada, with 6 gigs on soundcheck across Toronto. Often billed alongside Audi Étoffe, 666.pastel and Baby Bimbo. Next up: Cafeteria, Toronto on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Cafeteria | Toronto |
 | Sat, 31 Oct 2026 | TBA - 25 Baldwin (Rear Alley) | Toronto |
 
 ## Recently played
@@ -21,4 +22,4 @@
 
 Audi Étoffe, 666.pastel, Baby Bimbo
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/25ohms/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/25ohms/)*

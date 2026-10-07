@@ -1,14 +1,15 @@
 # Paige Julia
 
-Paige Julia is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Sydenham Underpass, Christchurch on Sat, 31 Oct 2026.
+Paige Julia is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Sydenham Underpass, Christchurch on Sat, 31 Oct 2026.
 
-Paige Julia is a bass and drum & bass artist based in New Zealand, with 26 gigs on soundcheck across Auckland, Bristol, Christchurch and Leeds and 5 more. Often billed alongside Dylan C, Alix Perez and Mia Kober. Next up: Sydenham Underpass, Christchurch on Sat 31 Oct.
+Paige Julia is a bass and drum & bass artist based in New Zealand, with 27 gigs on soundcheck across Auckland, Bristol, Christchurch and Leeds and 5 more. Often billed alongside Dylan C, Rob Warner and Alix Perez. Next up: Sydenham Underpass, Christchurch on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Sydenham Underpass | Christchurch |
+| Wed, 30 Dec 2026 | Leighton's Farm | Auckland |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Paige Julia is a bass and drum & bass artist based in New Zealand, with 26 gigs 
 
 ## Shares bills with
 
-Dylan C, Alix Perez, Mia Kober
+Dylan C, Rob Warner, Alix Perez
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paigejulia/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paigejulia/)*

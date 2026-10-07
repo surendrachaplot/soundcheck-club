@@ -1,14 +1,13 @@
 # Jennifer Loveless
 
-Jennifer Loveless is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at 528 Ibiza, Ibiza on Tue, 6 Oct 2026.
+Jennifer Loveless is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Passeio Marítimo de Algés, Portugal, Lisbon on Sat, 10 Oct 2026.
 
-Jennifer Loveless is a house and techno artist based in Australia, with 251 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 55 more. Often billed alongside Fafi Abdel Nour, ISAbella and BASHKKA. Next up: 528 Ibiza, Ibiza on Tue 6 Oct.
+Jennifer Loveless is a house and techno artist based in Australia, with 251 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 55 more. Often billed alongside Fafi Abdel Nour, ISAbella and BASHKKA. Next up: TBA - Passeio Marítimo de Algés, Portugal, Lisbon on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 6 Oct 2026 | 528 Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | TBA - Passeio Marítimo de Algés, Portugal | Lisbon |
 | Fri, 16 Oct 2026 | The White Hotel | Manchester |
 | Thu, 22 Oct 2026 | Skatecafe | Amsterdam |
@@ -21,6 +20,7 @@ Jennifer Loveless is a house and techno artist based in Australia, with 251 gigs
 
 ## Recently played
 
+- 528 Ibiza, Ibiza · Tue, 6 Oct 2026
 - Sonnenraum, Berlin · Sun, 4 Oct 2026
 - Fuse, Brussels · Sat, 3 Oct 2026
 - TBA, Amsterdam · Fri, 2 Oct 2026
@@ -28,10 +28,9 @@ Jennifer Loveless is a house and techno artist based in Australia, with 251 gigs
 - Floyd, Miami · Fri, 25 Sept 2026
 - Sunday Sunday, Mexico City · Sun, 20 Sept 2026
 - 3oz Dive Club, San Diego · Fri, 18 Sept 2026
-- Berghain | Panorama Bar | Säule, Berlin · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Fafi Abdel Nour, ISAbella, BASHKKA
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*

@@ -1,8 +1,8 @@
 # NEGRACONDA
 
-NEGRACONDA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA, Mexico City on Sat, 10 Oct 2026.
+NEGRACONDA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, Mexico City on Sat, 10 Oct 2026.
 
-NEGRACONDA is a techno and house artist based in Mexico, with 80 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Magnolia Coronado, Bruja Prieta and Enya Botello. Next up: TBA, Mexico City on Sat 10 Oct.
+NEGRACONDA is a techno and house artist based in Mexico, with 81 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Magnolia Coronado, Bruja Prieta and Enya Botello. Next up: TBA, Mexico City on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ NEGRACONDA is a techno and house artist based in Mexico, with 80 gigs on soundch
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | TBA | Mexico City |
 | Sat, 24 Oct 2026 | TBA | Mexico City |
+| Sat, 24 Oct 2026 | Brutal Mx | Mexico City |
 | Fri, 30 Oct 2026 | Dallas Club | Mexico City |
 
 ## Recently played
@@ -27,4 +28,4 @@ NEGRACONDA is a techno and house artist based in Mexico, with 80 gigs on soundch
 
 Magnolia Coronado, Bruja Prieta, Enya Botello
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/negraconda/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/negraconda/)*

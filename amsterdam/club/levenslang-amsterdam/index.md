@@ -1,6 +1,6 @@
 # Levenslang Amsterdam
 
-Levenslang Amsterdam is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Intercell ADE Kickoff | ADE By Day" on Wed, 21 Oct 2026.
+Levenslang Amsterdam is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Intercell ADE Kickoff | ADE By Day" on Wed, 21 Oct 2026.
 
 Levenslang Amsterdam is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Kepler, Adriana Lopez, Alex Di Stefano and A.M. Project and 2 more. See dates, start times and who's playing. H.J.E. Wenckebachweg 48, 1096AN, Amsterdam.
 
@@ -23,4 +23,4 @@ Levenslang Amsterdam is a music venue in Amsterdam listed on soundcheck. 10 upco
 
 H.J.E. Wenckebachweg 48, 1096AN, Amsterdam, Amsterdam
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/levenslang-amsterdam/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/levenslang-amsterdam/)*

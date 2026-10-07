@@ -1,6 +1,6 @@
 # Vís (1)
 
-Vís (1) is a Techno and Dub artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at West Harlem, Kyoto on Wed, 7 Oct 2026.
+Vís (1) is a Techno and Dub artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at West Harlem, Kyoto on Wed, 7 Oct 2026.
 
 Vís is a techno and dub artist based in Japan, with 133 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Ryogo, Chanaz and E.O.U. Next up: West Harlem, Kyoto on Wed 7 Oct.
 
@@ -29,4 +29,4 @@ Vís is a techno and dub artist based in Japan, with 133 gigs on soundcheck acro
 
 Ryogo, Chanaz, E.O.U
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vís-1/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vís-1/)*

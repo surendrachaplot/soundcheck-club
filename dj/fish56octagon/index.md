@@ -1,14 +1,15 @@
 # Fish56Octagon
 
-Fish56Octagon is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The Dome, Liverpool on Sat, 10 Oct 2026.
+Fish56Octagon is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Dome, Liverpool on Sat, 10 Oct 2026.
 
-Fish56Octagon is a house and techno artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 25 more. Often billed alongside Ben Hemsley, 4am Kru and Ghoulish. Next up: The Dome, Liverpool on Sat 10 Oct.
+Fish56Octagon is a house and techno artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 25 more. Often billed alongside Ben Hemsley, 4am Kru and Ghoulish. Next up: The Dome, Liverpool on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | The Dome | Liverpool |
+| Fri, 16 Oct 2026 | 02 Victoria Warehouse | Manchester |
 | Fri, 30 Oct 2026 | TBA - Palais Nottingham | Nottingham |
 | Sat, 31 Oct 2026 | DRUMSHEDS | London |
 | Fri, 27 Nov 2026 | Digital | Newcastle |
@@ -30,4 +31,4 @@ Fish56Octagon is a house and techno artist based in United Kingdom, with 64 gigs
 
 Ben Hemsley, 4am Kru, Ghoulish
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fish56octagon/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fish56octagon/)*

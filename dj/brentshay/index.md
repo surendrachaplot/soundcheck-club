@@ -1,6 +1,6 @@
 # Brent Shay
 
-Brent Shay is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Spkrbox, Detroit on Wed, 7 Oct 2026.
+Brent Shay is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Spkrbox, Detroit on Wed, 7 Oct 2026.
 
 Brent Shay is a techno and house artist based in United States of America, with 99 gigs on soundcheck across Detroit, London, New York City and Paris and 2 more. Often billed alongside Dj Disc, Pitchblnd and Nikkie Nocturnal. Next up: Spkrbox, Detroit on Wed 7 Oct.
 
@@ -28,4 +28,4 @@ Brent Shay is a techno and house artist based in United States of America, with 
 
 Dj Disc, Pitchblnd, Nikkie Nocturnal
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brentshay/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brentshay/)*

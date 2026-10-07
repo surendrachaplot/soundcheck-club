@@ -1,6 +1,6 @@
 # Mondo
 
-Mondo is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Alignment / Barbara Lago / pavvvvvvlo" on Thu, 8 Oct 2026.
+Mondo is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Alignment / Barbara Lago / pavvvvvvlo" on Thu, 8 Oct 2026.
 
 Mondo is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including Alignment, Bad Boombox, Bárbara Lago and Benwal and 2 more. See dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
 
@@ -23,4 +23,4 @@ Mondo is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with li
 
 Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid, Madrid
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*

@@ -1,6 +1,6 @@
 # Dixon
 
-Dixon is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The Garage, Madrid on Sun, 11 Oct 2026.
+Dixon is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Garage, Madrid on Sun, 11 Oct 2026.
 
 Dixon is a house and techno artist based in Germany, with 194 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Jimi Jules, Âme and Trikk. Next up: The Garage, Madrid on Sun 11 Oct.
 
@@ -31,4 +31,4 @@ Dixon is a house and techno artist based in Germany, with 194 gigs on soundcheck
 
 Jimi Jules, Âme, Trikk
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dixon/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dixon/)*

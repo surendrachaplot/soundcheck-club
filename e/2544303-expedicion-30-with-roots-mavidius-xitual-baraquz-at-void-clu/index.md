@@ -1,0 +1,15 @@
+# Expedicion 30 with Roots., Mavidius, Xitual, Baraquz at Void Club
+
+Expedicion 30 with Roots., Mavidius, Xitual, Baraquz at Void Club on Sat 17 Oct, Berlin. 1 artist: Mavidius. Techno and Psytrance. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 17 Oct 2026 |
+| Venue | Void Club |
+| City | Berlin |
+
+## Line-up
+
+- Mavidius
+
+*Source: [soundcheck](https://soundcheck.club/e/2544303-expedicion-30-with-roots-mavidius-xitual-baraquz-at-void-clu/)*

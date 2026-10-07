@@ -1,13 +1,14 @@
 # Aleska
 
-Aleska is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 2 Nov 2026.
+Aleska is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Mood Ring, New York City on Thu, 22 Oct 2026.
 
-Aleska is a techno and house artist based in United States of America, with 22 gigs on soundcheck across Austin, Berlin, Madrid and New York City. Often billed alongside Sam Valle, elle xxo and Fattie Bee. Next up: Bossa Nova Civic Club, New York City on Mon 2 Nov.
+Aleska is a techno and house artist based in United States of America, with 23 gigs on soundcheck across Austin, Berlin, Madrid and New York City. Often billed alongside Sam Valle, elle xxo and Remniqe. Next up: Mood Ring, New York City on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Mood Ring | New York City |
 | Mon, 2 Nov 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
@@ -23,6 +24,6 @@ Aleska is a techno and house artist based in United States of America, with 22 g
 
 ## Shares bills with
 
-Sam Valle, elle xxo, Fattie Bee
+Sam Valle, elle xxo, Remniqe
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleska/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleska/)*

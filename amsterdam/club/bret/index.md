@@ -1,8 +1,8 @@
 # BRET
 
-BRET is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Festen, Mia Cecille b2b Zeynep, Nathan Homan" on Fri, 9 Oct 2026.
+BRET is a music venue in Amsterdam with 16 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Festen, Mia Cecille b2b Zeynep, Nathan Homan" on Fri, 9 Oct 2026.
 
-BRET is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including Al Ex, Alex Dima, Alexia Glensy and Andy Luff and 2 more. See dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
+BRET is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, with line-ups including Al Ex, Alex Dima, Alexia Glensy and Andy Luff and 2 more. See dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
 
 ## What's on
 
@@ -23,4 +23,4 @@ BRET is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with 
 
 Orlyplein 76, 1043 DP Amsterdam, Netherlands, Amsterdam
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*

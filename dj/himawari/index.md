@@ -1,8 +1,8 @@
 # HIMAWARI
 
-HIMAWARI is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Saloon, Tokyo on Fri, 9 Oct 2026.
+HIMAWARI is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Saloon, Tokyo on Fri, 9 Oct 2026.
 
-HIMAWARI is a house and techno artist based in Japan, with 141 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Romy Mats, kengotaki and CYBERHACKSYSTEM. Next up: Saloon, Tokyo on Fri 9 Oct.
+HIMAWARI is a house and techno artist based in Japan, with 142 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Romy Mats, kengotaki and CYBERHACKSYSTEM. Next up: Saloon, Tokyo on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ HIMAWARI is a house and techno artist based in Japan, with 141 gigs on soundchec
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Saloon | Tokyo |
 | Wed, 14 Oct 2026 | TBA | Tokyo |
+| Sat, 31 Oct 2026 | WOMB | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ HIMAWARI is a house and techno artist based in Japan, with 141 gigs on soundchec
 
 Romy Mats, kengotaki, CYBERHACKSYSTEM
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/himawari/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/himawari/)*

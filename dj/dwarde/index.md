@@ -1,8 +1,8 @@
 # Dwarde
 
-Dwarde is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at radial, London on Fri, 9 Oct 2026.
+Dwarde is a Jungle and Drum & Bass artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at radial, London on Fri, 9 Oct 2026.
 
-Dwarde is a jungle and drum & bass artist based in United Kingdom, with 122 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 26 more. Often billed alongside Tim Reaper, Coco Bryce and Hughesee. Next up: radial, London on Fri 9 Oct.
+Dwarde is a jungle and drum & bass artist based in United Kingdom, with 123 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 27 more. Often billed alongside Tim Reaper, Coco Bryce and Hughesee. Next up: radial, London on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Dwarde is a jungle and drum & bass artist based in United Kingdom, with 122 gigs
 | Sat, 10 Oct 2026 | TRAUM | Antwerp |
 | Sat, 17 Oct 2026 | M.O.T | London |
 | Fri, 23 Oct 2026 | Rebellion | Manchester |
+| Sat, 5 Dec 2026 | Under Bron | Stockholm |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Dwarde is a jungle and drum & bass artist based in United Kingdom, with 122 gigs
 
 Tim Reaper, Coco Bryce, Hughesee
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dwarde/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dwarde/)*

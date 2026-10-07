@@ -1,6 +1,6 @@
 # Piknic Électronik / Parc Jean Drapeau
 
-Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Meduza - Parc Jean-Drapeau" on Fri, 9 Oct 2026.
+Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Meduza - Parc Jean-Drapeau" on Fri, 9 Oct 2026.
 
 Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on soundcheck. 5 upcoming gigs, with line-ups including Beltran, Demi Riquisimo, Eli Brown and ENAMOR and 2 more. See dates, start times and who's playing. Jardin le Petit Prince, Montréal, QC H3C 4G8.
 
@@ -18,4 +18,4 @@ Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on so
 
 Jardin le Petit Prince, Montréal, QC H3C 4G8, Montreal
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/piknic-lectronik-parc-jean-drapeau/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/piknic-lectronik-parc-jean-drapeau/)*

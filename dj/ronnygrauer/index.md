@@ -1,6 +1,6 @@
 # Ronny Grauer
 
-Ronny Grauer is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Bar & Kantine Schiffbau, Zurich on Sat, 31 Oct 2026.
+Ronny Grauer is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Bar & Kantine Schiffbau, Zurich on Sat, 31 Oct 2026.
 
 Ronny Grauer is a house and afro house artist based in Switzerland, with 52 gigs on soundcheck across Zurich. Often billed alongside Dejan, Anthik and whereisvero. Next up: Bar & Kantine Schiffbau, Zurich on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ronny Grauer is a house and afro house artist based in Switzerland, with 52 gigs
 
 Dejan, Anthik, whereisvero
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronnygrauer/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronnygrauer/)*

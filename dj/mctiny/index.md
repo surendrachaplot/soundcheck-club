@@ -1,6 +1,6 @@
 # MC Tiny
 
-MC Tiny is a Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Classic Grand, Glasgow on Fri, 4 Dec 2026.
+MC Tiny is a Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at The Classic Grand, Glasgow on Fri, 4 Dec 2026.
 
 MC Tiny is a hardcore artist based in United Kingdom, with 6 gigs on soundcheck across Glasgow. Often billed alongside Oakzy B, MC Tazo and 2 Sick Puppiez. Next up: The Classic Grand, Glasgow on Fri 4 Dec.
 
@@ -22,4 +22,4 @@ MC Tiny is a hardcore artist based in United Kingdom, with 6 gigs on soundcheck 
 
 Oakzy B, MC Tazo, 2 Sick Puppiez
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mctiny/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mctiny/)*

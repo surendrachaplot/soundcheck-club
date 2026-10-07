@@ -1,6 +1,6 @@
 # JAEHAN (2)
 
-JAEHAN (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The Opera, Seoul on Fri, 9 Oct 2026.
+JAEHAN (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Opera, Seoul on Fri, 9 Oct 2026.
 
 JAEHAN is a house and techno artist based in South Korea, with 64 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Shinyoung, SEOD and Youknowsong. Next up: The Opera, Seoul on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ JAEHAN is a house and techno artist based in South Korea, with 64 gigs on soundc
 
 Shinyoung, SEOD, Youknowsong
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaehan-2/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaehan-2/)*

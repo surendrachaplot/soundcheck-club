@@ -1,6 +1,6 @@
 # Arval
 
-Arval is a Minimal and Electronica artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Macarena Club, Barcelona on Sat, 10 Oct 2026.
+Arval is a Minimal and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Macarena Club, Barcelona on Sat, 10 Oct 2026.
 
 Arval is a minimal and electronica artist based in Spain, with 36 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 3 more. Often billed alongside Moruki, Memed Awad and Cesare vs Disorder. Next up: Macarena Club, Barcelona on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Arval is a minimal and electronica artist based in Spain, with 36 gigs on soundc
 
 Moruki, Memed Awad, Cesare vs Disorder
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arval/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arval/)*

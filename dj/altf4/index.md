@@ -1,8 +1,8 @@
 # ALTF4
 
-ALTF4 is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at rake?raka?, Osaka on Sat, 10 Oct 2026.
+ALTF4 is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at rake?raka?, Osaka on Sat, 10 Oct 2026.
 
-ALTF4 is a techno and trance artist based in Japan, with 35 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside HSC, cyber milk chan and MATSURYO. Next up: rake?raka?, Osaka on Sat 10 Oct.
+ALTF4 is a techno and trance artist based in Japan, with 36 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside HSC, MATSURYO and cyber milk chan. Next up: rake?raka?, Osaka on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ ALTF4 is a techno and trance artist based in Japan, with 35 gigs on soundcheck a
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | rake?raka? | Osaka |
 | Wed, 14 Oct 2026 | rake?raka? | Osaka |
+| Wed, 4 Nov 2026 | rake?raka? | Osaka |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ ALTF4 is a techno and trance artist based in Japan, with 35 gigs on soundcheck a
 
 ## Shares bills with
 
-HSC (1), cyber milk chan, MATSURYO
+HSC (1), MATSURYO, cyber milk chan
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/altf4/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/altf4/)*

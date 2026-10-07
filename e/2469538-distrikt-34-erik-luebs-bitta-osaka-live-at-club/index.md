@@ -1,0 +1,15 @@
+# Distrikt 34: Erik Luebs (Bitta, Osaka) [LIVE] at 宀 Club
+
+Distrikt 34: Erik Luebs (Bitta, Osaka) [LIVE] at 宀 Club on Fri 13 Nov, Hong Kong. 1 artist: Erik Luebs. Techno. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 13 Nov 2026 |
+| Venue | 宀 Club |
+| City | Hong Kong |
+
+## Line-up
+
+- Erik Luebs
+
+*Source: [soundcheck](https://soundcheck.club/e/2469538-distrikt-34-erik-luebs-bitta-osaka-live-at-club/)*

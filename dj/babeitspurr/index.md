@@ -1,8 +1,8 @@
 # BABEITSPURR
 
-BABEITSPURR is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Bossa Nova Civic Club, New York City on Thu, 15 Oct 2026.
+BABEITSPURR is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Bossa Nova Civic Club, New York City on Thu, 15 Oct 2026.
 
-BABEITSPURR is a club and techno artist based in United States of America, with 43 gigs on soundcheck across New York City. Often billed alongside BEYBLADE SHAWTY, KC (NYC) and Petal. Next up: Bossa Nova Civic Club, New York City on Thu 15 Oct.
+BABEITSPURR is a club and techno artist based in United States of America, with 44 gigs on soundcheck across New York City. Often billed alongside BEYBLADE SHAWTY, KC (NYC) and Charmed. Next up: Bossa Nova Civic Club, New York City on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ BABEITSPURR is a club and techno artist based in United States of America, with 
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 16 Oct 2026 | The Chocolate Factory | New-york-city |
+| Thu, 22 Oct 2026 | Mood Ring | New York City |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ BABEITSPURR is a club and techno artist based in United States of America, with 
 
 ## Shares bills with
 
-BEYBLADE SHAWTY, KC (NYC), Petal
+BEYBLADE SHAWTY, KC (NYC), Charmed
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babeitspurr/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babeitspurr/)*

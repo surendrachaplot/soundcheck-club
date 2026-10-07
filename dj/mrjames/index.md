@@ -1,6 +1,6 @@
 # Mr James
 
-Mr James is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
+Mr James is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
 
 Mr James is a house and disco artist based in United Kingdom, with 22 gigs on soundcheck across London. Often billed alongside Max Sinàl, Tilt DJs and Studio Batsumi. Next up: The Cause, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Mr James is a house and disco artist based in United Kingdom, with 22 gigs on so
 
 Max Sinàl, Tilt DJs, Studio Batsumi
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrjames/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrjames/)*

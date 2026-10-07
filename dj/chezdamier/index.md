@@ -1,6 +1,6 @@
 # Chez Damier
 
-Chez Damier is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at La Paloma, Barcelona on Fri, 9 Oct 2026.
+Chez Damier is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at La Paloma, Barcelona on Fri, 9 Oct 2026.
 
 Chez Damier is a house and techno artist based in United States of America, with 150 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Eddie Leader, DJ Deep and Dennis Ferrer. Next up: La Paloma, Barcelona on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Chez Damier is a house and techno artist based in United States of America, with
 
 Eddie Leader, DJ Deep, Dennis Ferrer
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*

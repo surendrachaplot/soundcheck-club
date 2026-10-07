@@ -1,8 +1,8 @@
 # Depot Mayfield
 
-Depot Mayfield is a music venue in Manchester with 18 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "WHP presents: Worried About Henry" on Fri, 9 Oct 2026.
+Depot Mayfield is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "WHP presents: Worried About Henry" on Fri, 9 Oct 2026.
 
-Depot Mayfield is a music venue in Manchester listed on soundcheck. 18 upcoming gigs, with line-ups including 2FEL, 2Shy MC, 4000 Hz and 4am Kru and 2 more. See dates, start times and who's playing. 11 Baring St, Manchester, M1 2PY.
+Depot Mayfield is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, with line-ups including Spinelli, 2FEL, 2ManyDJs and 2Shy MC and 2 more. See dates, start times and who's playing. 11 Baring St, Manchester, M1 2PY.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Depot Mayfield is a music venue in Manchester listed on soundcheck. 18 upcoming 
 
 11 Baring St, Manchester, M1 2PY, Manchester
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*

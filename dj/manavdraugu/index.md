@@ -1,6 +1,6 @@
 # Manav/draugu
 
-Manav/draugu is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at B2 Rīga, Riga on Sat, 17 Oct 2026.
+Manav/draugu is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at B2 Rīga, Riga on Sat, 17 Oct 2026.
 
 Manav/draugu is a house and tech house artist based in Latvia, with 9 gigs on soundcheck across Riga. Often billed alongside Kapusta, Adam Blake and Balmishev. Next up: B2 Rīga, Riga on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Manav/draugu is a house and tech house artist based in Latvia, with 9 gigs on so
 
 Kapusta, Adam Blake, Balmishev
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manavdraugu/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manavdraugu/)*

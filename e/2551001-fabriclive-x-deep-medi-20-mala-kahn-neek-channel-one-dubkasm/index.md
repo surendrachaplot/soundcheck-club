@@ -1,6 +1,6 @@
 # FABRICLIVE X DEEP MEDi 20: Mala, Kahn & Neek, Channel One, Dubkasm, Kundarini B2B Breakfake at fabric
 
-FABRICLIVE X DEEP MEDi 20: Mala, Kahn & Neek, Channel One, Dubkasm, Kundarini B2B Breakfake at fabric on Fri 4 Dec, London. 10 artists: Breakfake, Dubkasm, Felixculpah and Kahn and 6 more. Dub and Dubstep. See the line-up on soundcheck.
+FABRICLIVE X DEEP MEDi 20: Mala, Kahn & Neek, Channel One, Dubkasm, Kundarini B2B Breakfake at fabric on Fri 4 Dec, London. 11 artists: Breakfake, Channel One Sound, Dubkasm and Felixculpah and 7 more. Dub and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ FABRICLIVE X DEEP MEDi 20: Mala, Kahn & Neek, Channel One, Dubkasm, Kundarini B2
 ## Line-up
 
 - Breakfake
+- Channel One Sound
 - Dubkasm
 - Felixculpah
 - Kahn

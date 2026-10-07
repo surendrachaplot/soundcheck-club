@@ -1,6 +1,6 @@
 # Medallion Man
 
-Medallion Man is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at radial, London on Fri, 9 Oct 2026.
+Medallion Man is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at radial, London on Fri, 9 Oct 2026.
 
 Medallion Man is a techno and electro artist based in United Kingdom, with 40 gigs on soundcheck across Berlin, Birmingham, Detroit and Edinburgh and 9 more. Often billed alongside Sunden, Charlie Boy Manson and L KAE F. Next up: radial, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Medallion Man is a techno and electro artist based in United Kingdom, with 40 gi
 
 Sunden, Charlie Boy Manson, L KAE F
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medallionman/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medallionman/)*

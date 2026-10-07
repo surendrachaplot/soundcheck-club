@@ -1,6 +1,6 @@
 # The Redwood Bar And Grill
 
-The Redwood Bar And Grill is a music venue in Los Angeles with 25 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Hashtronaut" on Thu, 8 Oct 2026.
+The Redwood Bar And Grill is a music venue in Los Angeles with 25 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Hashtronaut" on Thu, 8 Oct 2026.
 
 The Redwood Bar And Grill is a music venue in Los Angeles listed on soundcheck. 25 upcoming gigs. See dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
 
@@ -23,4 +23,4 @@ The Redwood Bar And Grill is a music venue in Los Angeles listed on soundcheck. 
 
 316 W. 2nd Street, Los Angeles, CA  90012, Los Angeles
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/)*

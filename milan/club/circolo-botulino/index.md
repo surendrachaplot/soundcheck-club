@@ -1,6 +1,6 @@
 # CIRCOLO BOTULINO
 
-CIRCOLO BOTULINO is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "CONFUSION IN SEX pres. 'Mission Impussyboy' with ABYSS" on Fri, 9 Oct 2026.
+CIRCOLO BOTULINO is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "CONFUSION IN SEX pres. 'Mission Impussyboy' with ABYSS" on Fri, 9 Oct 2026.
 
 CIRCOLO BOTULINO is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including ABYSS 369, DJ PIRO, EMME and OTHERSIDE (ITA) and 1 more. See dates, start times and who's playing. Via Plezzo, 16, 20132 Milano MI, Italy.
 
@@ -15,4 +15,4 @@ CIRCOLO BOTULINO is a music venue in Milan listed on soundcheck. 2 upcoming gigs
 
 Via Plezzo, 16, 20132 Milano MI, Italy, Milan
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-botulino/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-botulino/)*

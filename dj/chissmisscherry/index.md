@@ -1,14 +1,14 @@
 # Chissmiss Cherry
 
-Chissmiss Cherry is a Club and Footwork artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Vers, Toronto on Sat, 17 Oct 2026.
+Chissmiss Cherry is a Club and Footwork artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Vers Cafe, Toronto on Sat, 17 Oct 2026.
 
-Chissmiss Cherry is a club and footwork artist, with 18 gigs on soundcheck across Toronto. Often billed alongside INCOGNITA, INTROSPKT and Ace Dillinger. Next up: TBA - Vers, Toronto on Sat 17 Oct.
+Chissmiss Cherry is a club and footwork artist, with 18 gigs on soundcheck across Toronto. Often billed alongside INCOGNITA, INTROSPKT and Ace Dillinger. Next up: TBA - Vers Cafe, Toronto on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA - Vers | Toronto |
+| Sat, 17 Oct 2026 | TBA - Vers Cafe | Toronto |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Chissmiss Cherry is a club and footwork artist, with 18 gigs on soundcheck acros
 
 INCOGNITA, INTROSPKT, Ace Dillinger
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chissmisscherry/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chissmisscherry/)*

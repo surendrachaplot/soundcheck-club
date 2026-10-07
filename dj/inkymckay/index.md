@@ -1,6 +1,6 @@
 # INKY MCKAY
 
-INKY MCKAY is a Garage and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Patterns, Brighton on Fri, 9 Oct 2026.
+INKY MCKAY is a Garage and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Patterns, Brighton on Fri, 9 Oct 2026.
 
 INKY MCKAY is a garage and jungle artist based in United Kingdom, with 17 gigs on soundcheck across Brighton and Liverpool. Often billed alongside JAY-MO, Octave Ian and Luv (UK). Next up: Patterns, Brighton on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ INKY MCKAY is a garage and jungle artist based in United Kingdom, with 17 gigs o
 
 JAY-MO, Octave Ian, Luv (UK)
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inkymckay/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inkymckay/)*

@@ -1,6 +1,6 @@
 # YuYu Cine Club
 
-YuYu Cine Club is a music venue in Mexico City with 8 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Yu Yu Cine Club: Time x Discos Sentimiento with acidheaven (Maricas)" on Fri, 9 Oct 2026.
+YuYu Cine Club is a music venue in Mexico City with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Yu Yu Cine Club: Time x Discos Sentimiento with acidheaven (Maricas)" on Fri, 9 Oct 2026.
 
 YuYu Cine Club is a music venue in Mexico City listed on soundcheck. 8 upcoming gigs, with line-ups including acidheaven, Astroboii, Bluecommand and D. Tiffany and 2 more. See dates, start times and who's playing. Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX.
 
@@ -21,4 +21,4 @@ YuYu Cine Club is a music venue in Mexico City listed on soundcheck. 8 upcoming 
 
 Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX, Mexico City
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/yuyu-cine-club/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/yuyu-cine-club/)*

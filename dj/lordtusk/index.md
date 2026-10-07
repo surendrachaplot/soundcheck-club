@@ -1,14 +1,15 @@
 # Lord Tusk
 
-Lord Tusk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Ormside Projects, London on Fri, 30 Oct 2026.
+Lord Tusk is a Dub and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Ormside Projects, London on Fri, 30 Oct 2026.
 
-Lord Tusk is a house and techno artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside James Massiah, Christian AB and John T. Gast. Next up: Ormside Projects, London on Fri 30 Oct.
+Lord Tusk is a dub and house artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside James Massiah, Christian AB and John T. Gast. Next up: Ormside Projects, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Ormside Projects | London |
+| Thu, 17 Dec 2026 | The White Hotel | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Lord Tusk is a house and techno artist based in United Kingdom, with 52 gigs on 
 
 James Massiah, Christian AB, John T. Gast
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lordtusk/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lordtusk/)*

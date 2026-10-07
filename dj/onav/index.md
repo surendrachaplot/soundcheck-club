@@ -1,6 +1,6 @@
 # ona:v
 
-ona:v is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Nice N Sleazy, Glasgow on Sat, 24 Oct 2026.
+ona:v is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Nice N Sleazy, Glasgow on Sat, 24 Oct 2026.
 
 ona:v is a techno and electro artist based in United Kingdom, with 108 gigs on soundcheck across Barcelona, Berlin, Brighton and Edinburgh and 5 more. Often billed alongside ENAEN, Iona.Violet and iluna. Next up: Nice N Sleazy, Glasgow on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ ona:v is a techno and electro artist based in United Kingdom, with 108 gigs on s
 
 ENAEN, Iona.Violet, iluna
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onav/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onav/)*

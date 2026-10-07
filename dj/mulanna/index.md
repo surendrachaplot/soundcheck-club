@@ -1,6 +1,6 @@
 # mul/ANNA
 
-mul/ANNA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at dubble, Amsterdam on Sat, 10 Oct 2026.
+mul/ANNA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at dubble, Amsterdam on Sat, 10 Oct 2026.
 
 mul/ANNA is a techno and house artist based in Netherlands, with 63 gigs on soundcheck across Amsterdam, Madrid, Rotterdam and The Hague and 1 more. Often billed alongside TWIENA, Jeans (NL) and Afra. Next up: dubble, Amsterdam on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ mul/ANNA is a techno and house artist based in Netherlands, with 63 gigs on soun
 
 TWIENA, Jeans (NL), Afra
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mulanna/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mulanna/)*

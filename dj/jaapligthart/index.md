@@ -1,6 +1,6 @@
 # Jaap Ligthart
 
-Jaap Ligthart is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Akhnaton, Amsterdam on Sat, 24 Oct 2026.
+Jaap Ligthart is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Akhnaton, Amsterdam on Sat, 24 Oct 2026.
 
 Jaap Ligthart is a progressive house and techno artist based in Netherlands, with 30 gigs on soundcheck across Amsterdam, Budapest, Copenhagen and Lisbon and 2 more. Often billed alongside Jochem Hamerling, Cris-H and Hady Tarek. Next up: Akhnaton, Amsterdam on Sat 24 Oct.
 
@@ -10,7 +10,7 @@ Jaap Ligthart is a progressive house and techno artist based in Netherlands, wit
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Akhnaton | Amsterdam |
 | Sun, 25 Oct 2026 | Veronica Schip | Amsterdam |
-| Sun, 25 Oct 2026 | Aevum x 50:Hertz House & Techno Club Rembrandt Square / Rembrandtplein 45, Amsterdam | Amsterdam |
+| Sun, 25 Oct 2026 |  | Amsterdam |
 
 ## Recently played
 
@@ -27,4 +27,4 @@ Jaap Ligthart is a progressive house and techno artist based in Netherlands, wit
 
 Jochem Hamerling, Cris-H, Hady Tarek
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaapligthart/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaapligthart/)*

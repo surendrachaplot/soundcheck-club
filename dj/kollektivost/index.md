@@ -1,14 +1,13 @@
 # Kollektiv Ost
 
-Kollektiv Ost is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Kollektiv Ost is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Edem Beach Club, Greece on Wed, 26 May 2027.
 
-Kollektiv Ost is a techno and house artist based in Germany, with 13 gigs on soundcheck across Berlin, Greece and Hamburg. Often billed alongside Danilo Kupfernagel, LEENI and Maurice Mino. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Kollektiv Ost is a techno and house artist based in Germany, with 13 gigs on soundcheck across Berlin, Greece and Hamburg. Often billed alongside Danilo Kupfernagel, LEENI and Maurice Mino. Next up: Edem Beach Club, Greece on Wed 26 May.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Wed, 26 May 2027 | Edem Beach Club | Greece |
 
 ## Recently played
@@ -26,4 +25,4 @@ Kollektiv Ost is a techno and house artist based in Germany, with 13 gigs on sou
 
 Danilo Kupfernagel, LEENI, Maurice Mino
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kollektivost/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kollektivost/)*

@@ -1,6 +1,6 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Doka Studio with Moxes - 36framez" on Fri, 9 Oct 2026.
+Doka is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Doka Studio with Moxes - 36framez" on Fri, 9 Oct 2026.
 
 Doka is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including 36framez, Antal, Anz and Ays (NL) and 2 more. See dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
@@ -23,4 +23,4 @@ Doka is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with 
 
 Wibautstraat 150, 1091 GR Amsterdam, Netherlands, Amsterdam
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*

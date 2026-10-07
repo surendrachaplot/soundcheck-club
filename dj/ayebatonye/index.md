@@ -1,8 +1,8 @@
 # Ayebatonye
 
-Ayebatonye is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Miscellania, Melbourne on Fri, 16 Oct 2026.
+Ayebatonye is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Miscellania, Melbourne on Fri, 16 Oct 2026.
 
-Ayebatonye is a house and techno artist based in Australia, with 33 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside Four Tet, Jyoty and Simonetti. Next up: Miscellania, Melbourne on Fri 16 Oct.
+Ayebatonye is a house and techno artist based in Australia, with 33 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside Four Tet, Jyoty and Ruben Secaduras. Next up: Miscellania, Melbourne on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Ayebatonye is a house and techno artist based in Australia, with 33 gigs on soun
 
 ## Shares bills with
 
-Four Tet, Jyoty, Simonetti
+Four Tet, Jyoty, Ruben Secaduras
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayebatonye/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayebatonye/)*

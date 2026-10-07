@@ -1,14 +1,15 @@
 # Madelic
 
-Madelic is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Planet Wax, London on Sat, 31 Oct 2026.
+Madelic is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Planet Wax, London on Sat, 31 Oct 2026.
 
-Madelic is a house and tech house artist, with 45 gigs on soundcheck across London, Tokyo and Toronto. Often billed alongside FITS ME FUNNY, AKWA and Elianne. Next up: Planet Wax, London on Sat 31 Oct.
+Madelic is a house and tech house artist, with 46 gigs on soundcheck across London, Tokyo and Toronto. Often billed alongside Elianne, FITS ME FUNNY and AKWA. Next up: Planet Wax, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Planet Wax | London |
+| Fri, 13 Nov 2026 | M.O.T | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Madelic is a house and tech house artist, with 45 gigs on soundcheck across Lond
 
 ## Shares bills with
 
-FITS ME FUNNY, AKWA, Elianne
+Elianne, FITS ME FUNNY, AKWA
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madelic/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madelic/)*

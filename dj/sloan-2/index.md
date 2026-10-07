@@ -1,6 +1,6 @@
 # Sloan (2)
 
-Sloan (2) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Locale, Glasgow on Sat, 31 Oct 2026.
+Sloan (2) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at The Locale, Glasgow on Sat, 31 Oct 2026.
 
 Sloan is a techno and bass artist based in United Kingdom, with 44 gigs on soundcheck across Edinburgh, Glasgow, Lisbon and London and 1 more. Often billed alongside Civic Grief, dj peanut and Skillis. Next up: The Locale, Glasgow on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sloan is a techno and bass artist based in United Kingdom, with 44 gigs on sound
 
 Civic Grief, dj peanut, Skillis
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sloan-2/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sloan-2/)*

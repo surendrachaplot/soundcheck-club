@@ -1,6 +1,6 @@
 # Spooky Surf Club with DJ MILLE (Planet Pluto, Hamburg), Phantomas & Wellness West at Giselle
 
-Spooky Surf Club with DJ MILLE (Planet Pluto, Hamburg), Phantomas & Wellness West at Giselle on Sat 5 Dec, Düsseldorf. 2 artists: MILLE and Mille (DE). Tech House and Deep House. See the line-up on soundcheck.
+Spooky Surf Club with DJ MILLE (Planet Pluto, Hamburg), Phantomas & Wellness West at Giselle on Sat 5 Dec, Düsseldorf. 1 artist: Mille (DE). Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Spooky Surf Club with DJ MILLE (Planet Pluto, Hamburg), Phantomas & Wellness Wes
 
 ## Line-up
 
-- MILLE
 - Mille (DE)
 
 *Source: [soundcheck](https://soundcheck.club/e/2377312-spooky-surf-club-with-dj-mille-planet-pluto-hamburg-phantoma/)*

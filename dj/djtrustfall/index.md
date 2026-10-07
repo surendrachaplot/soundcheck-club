@@ -1,6 +1,6 @@
 # DJ Trustfall
 
-DJ Trustfall is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at 1point4hertz, Toronto on Sat, 24 Oct 2026.
+DJ Trustfall is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at 1point4hertz, Toronto on Sat, 24 Oct 2026.
 
 DJ Trustfall is a house and club artist based in Canada, with 34 gigs on soundcheck across Toronto. Often billed alongside Raf Reza, Trustfall and Kai (TO). Next up: 1point4hertz, Toronto on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ DJ Trustfall is a house and club artist based in Canada, with 34 gigs on soundch
 
 Raf Reza, Trustfall, Kai (TO)
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtrustfall/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtrustfall/)*

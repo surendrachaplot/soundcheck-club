@@ -1,6 +1,6 @@
 # Mikalah Watego
 
-Mikalah Watego is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+Mikalah Watego is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
 Mikalah Watego is a techno and house artist based in Australia, with 39 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside Hasvat Informant, Ed Kent and Moopie. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
@@ -31,4 +31,4 @@ Mikalah Watego is a techno and house artist based in Australia, with 39 gigs on 
 
 Hasvat Informant, Ed Kent, Moopie
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikalahwatego/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikalahwatego/)*

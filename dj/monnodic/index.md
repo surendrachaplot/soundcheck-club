@@ -1,6 +1,6 @@
 # Monnodic
 
-Monnodic is a Minimal Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Kolokotroni 9, Athens on Sat, 10 Oct 2026.
+Monnodic is a Minimal Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Kolokotroni 9, Athens on Sat, 10 Oct 2026.
 
 Monnodic is a minimal techno and tech house artist, with 7 gigs on soundcheck across Athens. Often billed alongside MAN WITH THE SPEAKER, Marsha and Mr.M. Next up: Kolokotroni 9, Athens on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Monnodic is a minimal techno and tech house artist, with 7 gigs on soundcheck ac
 
 MAN WITH THE SPEAKER, Marsha, Mr.M
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monnodic/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monnodic/)*

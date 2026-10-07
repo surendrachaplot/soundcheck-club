@@ -1,6 +1,6 @@
 # BassLayerz
 
-BassLayerz is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+BassLayerz is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
 BassLayerz is a drum & bass and jungle artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Birmingham and 12 more. Often billed alongside Hedex, IC3 and Carasel. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ BassLayerz is a drum & bass and jungle artist based in United Kingdom, with 62 g
 
 Hedex, IC3, Carasel
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basslayerz/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basslayerz/)*

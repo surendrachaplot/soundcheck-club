@@ -1,6 +1,6 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Mahmut Orhan Closing" on Wed, 7 Oct 2026.
+Chinois Ibiza is a music venue in Ibiza with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Mahmut Orhan Closing" on Wed, 7 Oct 2026.
 
 Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 5 upcoming gigs, with line-ups including Avangart Tabldot, Bambounou, Butch and Carl Bergé and 2 more. See dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
@@ -18,4 +18,4 @@ Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 5 upcoming gigs, w
 
 Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain, Ibiza
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*

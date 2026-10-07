@@ -1,14 +1,15 @@
 # Ayham
 
-Ayham is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Agora Rollberg, Berlin on Tue, 13 Oct 2026.
+Ayham is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, Berlin on Tue, 13 Oct 2026.
 
-Ayham is a techno and house artist based in Germany, with 42 gigs on soundcheck across Berlin. Often billed alongside The Camel, Blck-Swan and H7. Next up: Agora Rollberg, Berlin on Tue 13 Oct.
+Ayham is a techno and house artist based in Germany, with 43 gigs on soundcheck across Berlin. Often billed alongside The Camel, Blck-Swan and H7. Next up: TBA, Berlin on Tue 13 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 13 Oct 2026 | Agora Rollberg | Berlin |
+| Tue, 13 Oct 2026 | TBA | Berlin |
+| Sun, 8 Nov 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ayham is a techno and house artist based in Germany, with 42 gigs on soundcheck 
 
 The Camel, Blck-Swan, H7 (3)
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayham/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayham/)*

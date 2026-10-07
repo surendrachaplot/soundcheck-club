@@ -1,6 +1,6 @@
 # Emanuel Eisbrenner
 
-Emanuel Eisbrenner is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Der Weiße Hase, Berlin on Fri, 30 Oct 2026.
+Emanuel Eisbrenner is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Der Weiße Hase, Berlin on Fri, 30 Oct 2026.
 
 Emanuel Eisbrenner is a techno and tech house artist, with 32 gigs on soundcheck across Berlin and Detroit. Often billed alongside DAV3, DAZA and Mathias Birnbaum. Next up: Der Weiße Hase, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Emanuel Eisbrenner is a techno and tech house artist, with 32 gigs on soundcheck
 
 DAV3, DAZA, Mathias Birnbaum
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emanueleisbrenner/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emanueleisbrenner/)*

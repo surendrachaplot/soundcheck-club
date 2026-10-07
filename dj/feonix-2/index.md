@@ -1,13 +1,14 @@
 # Feonix (2)
 
-Feonix (2) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Brooklyn, New York City on Sat, 17 Oct 2026.
+Feonix (2) is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Paul's Casablanca, New York City on Wed, 7 Oct 2026.
 
-Feonix is a techno and club artist based in United States of America, with 12 gigs on soundcheck across New York City. Often billed alongside TYJAH, DREAMINSLOW and Franzini. Next up: TBA - Brooklyn, New York City on Sat 17 Oct.
+Feonix is a club and techno artist based in United States of America, with 13 gigs on soundcheck across New York City. Often billed alongside TYJAH, DREAMINSLOW and Franzini. Next up: Paul's Casablanca, New York City on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 7 Oct 2026 | Paul's Casablanca | New York City |
 | Sat, 17 Oct 2026 | TBA - Brooklyn | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Feonix is a techno and club artist based in United States of America, with 12 gi
 
 TYJAH, DREAMINSLOW, Franzini
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feonix-2/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feonix-2/)*

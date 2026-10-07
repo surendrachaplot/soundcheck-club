@@ -1,13 +1,14 @@
 # sadgal
 
-sadgal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Ex Fabrica de Harina Anden Tacuba, Mexico City on Sat, 31 Oct 2026.
+sadgal is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Japan Monterrey, Mexico City on Sat, 10 Oct 2026.
 
-sadgal is a techno and house artist based in Mexico, with 110 gigs on soundcheck across Barcelona, Madrid and Mexico City. Often billed alongside Celice Monnette, Dj Fucci and Enya Botello. Next up: Ex Fabrica de Harina Anden Tacuba, Mexico City on Sat 31 Oct.
+sadgal is a techno and house artist based in Mexico, with 111 gigs on soundcheck across Barcelona, Madrid and Mexico City. Often billed alongside Celice Monnette, Dj Fucci and Enya Botello. Next up: Japan Monterrey, Mexico City on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Japan Monterrey | Mexico City |
 | Sat, 31 Oct 2026 | Ex Fabrica de Harina Anden Tacuba | Mexico City |
 
 ## Recently played
@@ -25,4 +26,4 @@ sadgal is a techno and house artist based in Mexico, with 110 gigs on soundcheck
 
 Celice Monnette, Dj Fucci, Enya Botello
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sadgal/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sadgal/)*

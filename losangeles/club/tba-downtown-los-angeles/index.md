@@ -1,6 +1,6 @@
 # TBA - Downtown Los Angeles
 
-TBA - Downtown Los Angeles is a music venue in Los Angeles with 11 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Lights Down Low Feat. Ben UFO" on Fri, 9 Oct 2026.
+TBA - Downtown Los Angeles is a music venue in Los Angeles with 11 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Lights Down Low Feat. Ben UFO" on Fri, 9 Oct 2026.
 
 TBA - Downtown Los Angeles is a music venue in Los Angeles listed on soundcheck. 11 upcoming gigs, with line-ups including Avalon Emerson, Baauer, Ben UFO and Bianca Lexis and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Downtown Los Angeles is a music venue in Los Angeles listed on soundcheck.
 | Sat, 21 Nov 2026 | Lights Down Low x WARP MODE feat. Baauer + umru | Baauer, Bianca Oblivion, Star Eyes, umru |
 | Sat, 28 Nov 2026 | Midnight Lovers with Demi Riquisimo - All Night Long | Demi Riquisimo |
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*

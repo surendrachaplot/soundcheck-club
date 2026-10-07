@@ -1,14 +1,13 @@
 # Anthea
 
-Anthea is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Anthea is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Karmen Camina, Strasbourg on Sat, 10 Oct 2026.
 
-Anthea is a house and techno artist based in United Kingdom, with 178 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 43 more. Often billed alongside Oshana, tINI and Astral Travel. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Anthea is a house and techno artist based in United Kingdom, with 178 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 43 more. Often billed alongside Oshana, tINI and Astral Travel. Next up: Karmen Camina, Strasbourg on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Sat, 10 Oct 2026 | Karmen Camina | Strasbourg |
 | Thu, 22 Oct 2026 | Garage Noord | Amsterdam |
 | Thu, 29 Oct 2026 | Jaeger | Oslo |
@@ -33,4 +32,4 @@ Anthea is a house and techno artist based in United Kingdom, with 178 gigs on so
 
 Oshana, tINI, Astral Travel
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthea/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthea/)*

@@ -1,6 +1,6 @@
 # Xavi Metralla
 
-Xavi Metralla is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at EL SÓTANO, Madrid on Sat, 24 Oct 2026.
+Xavi Metralla is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at EL SÓTANO, Madrid on Sat, 24 Oct 2026.
 
 Xavi Metralla is a hardcore and trance artist based in Spain, with 6 gigs on soundcheck across Barcelona, Berlin and Madrid. Often billed alongside DJ Skudero, Marian Dacal and Ricardo F. Next up: EL SÓTANO, Madrid on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Xavi Metralla is a hardcore and trance artist based in Spain, with 6 gigs on sou
 
 DJ Skudero, Marian Dacal, Ricardo F
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xavimetralla/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xavimetralla/)*

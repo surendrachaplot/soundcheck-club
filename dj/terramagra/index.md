@@ -1,6 +1,6 @@
 # Terra Magra
 
-Terra Magra is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Bossa Nova Civic Club, New-york-city on Thu, 22 Oct 2026.
+Terra Magra is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Bossa Nova Civic Club, New-york-city on Thu, 22 Oct 2026.
 
 Terra Magra is a house and techno artist based in United States of America, with 6 gigs on soundcheck across New York City. Often billed alongside Iggy Nuclear, Kettle and Rila. Next up: Bossa Nova Civic Club, New York City on Thu 22 Oct.
 
@@ -22,4 +22,4 @@ Terra Magra is a house and techno artist based in United States of America, with
 
 Iggy Nuclear, Kettle, Rila
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terramagra/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terramagra/)*

@@ -1,6 +1,6 @@
 # The Horse & Groom
 
-The Horse & Groom is a music venue in London with 9 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Soul On Wax free Oct Daytime party" on Sat, 10 Oct 2026.
+The Horse & Groom is a music venue in London with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Soul On Wax free Oct Daytime party" on Sat, 10 Oct 2026.
 
 The Horse & Groom is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Blink Twice, Cowlick, Ed Vedra and Em i6 and 2 more. See dates, start times and who's playing. 28 Curtain Road; Shoreditch; London EC2A 3NZ; United Kingdom.
 
@@ -22,4 +22,4 @@ The Horse & Groom is a music venue in London listed on soundcheck. 9 upcoming gi
 
 28 Curtain Road; Shoreditch; London EC2A 3NZ; United Kingdom, London
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-horse-groom/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-horse-groom/)*

@@ -1,13 +1,14 @@
 # Eptic
 
-Eptic is a Dubstep and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Pandora Sevilla, South on Sat, 7 Nov 2026.
+Eptic is a Dubstep and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Turbinenhalle, Oberhausen on Sat, 10 Oct 2026.
 
-Eptic is a dubstep and drum & bass artist based in Belgium, with 20 gigs on soundcheck across Austin, Barcelona, Brussels and Budapest and 11 more. Often billed alongside Borgore, Camo & Krooked and Fatima Hajji. Next up: Pandora Sevilla, South on Sat 7 Nov.
+Eptic is a dubstep and drum & bass artist based in Belgium, with 21 gigs on soundcheck across Austin, Barcelona, Brussels and Budapest and 12 more. Often billed alongside Borgore, Camo & Krooked and Fatima Hajji. Next up: Turbinenhalle, Oberhausen on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Turbinenhalle | Oberhausen |
 | Sat, 7 Nov 2026 | Pandora Sevilla | South |
 | Fri, 20 Nov 2026 | SILO | New York City |
 
@@ -26,4 +27,4 @@ Eptic is a dubstep and drum & bass artist based in Belgium, with 20 gigs on soun
 
 Borgore, Camo & Krooked, Fatima Hajji
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eptic/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eptic/)*

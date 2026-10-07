@@ -1,6 +1,6 @@
 # ReSolute presents: Why So Serious! at H0L0
 
-ReSolute presents: Why So Serious! at H0L0 on Sat 31 Oct, New York City. 23 artists: Argenis Brito, Caruan, Connie and Dandy Jack and 19 more. Techno and House. See the line-up on soundcheck.
+ReSolute presents: Why So Serious! at H0L0 on Sat 31 Oct, New York City. 21 artists: Argenis Brito, Caruan, Connie and Dandy Jack and 17 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,13 +16,12 @@ ReSolute presents: Why So Serious! at H0L0 on Sat 31 Oct, New York City. 23 arti
 - Dandy Jack
 - E.LINA
 - Heidi Lawden
+- Jonny Sum
 - Maksim
 - Masomenos
 - Mayell
 - Muallem
-- Nesta
 - O.BEE
-- Ohm Hourani
 - Onur Özer
 - Rasho
 - Ron Like Hell
@@ -31,7 +30,6 @@ ReSolute presents: Why So Serious! at H0L0 on Sat 31 Oct, New York City. 23 arti
 - Sweely
 - Tobias Lindén
 - Tomas Station
-- Tomoki Tamura
 - Willy Soul
 
 *Source: [soundcheck](https://soundcheck.club/e/2488860-resolute-presents-why-so-serious-at-h0l0/)*

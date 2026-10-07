@@ -1,8 +1,8 @@
 # Dj Danifox
 
-Dj Danifox is a Kuduro and Afrobeats artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Dj Danifox is a Kuduro and Afrobeats artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-Dj Danifox is a kuduro and afrobeats artist based in Portugal, with 51 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Brussels and 18 more. Often billed alongside DJ Nigga Fox, DJ Firmeza and DJ Lycox. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
+Dj Danifox is a kuduro and afrobeats artist based in Portugal, with 52 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Brussels and 18 more. Often billed alongside DJ Nigga Fox, DJ Firmeza and DJ Lycox. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dj Danifox is a kuduro and afrobeats artist based in Portugal, with 51 gigs on s
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Sat, 10 Oct 2026 | Hotel Forum | Krakow |
+| Sat, 31 Oct 2026 | Blå | Oslo |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 
 ## Recently played
@@ -27,4 +28,4 @@ Dj Danifox is a kuduro and afrobeats artist based in Portugal, with 51 gigs on s
 
 DJ Nigga Fox, DJ Firmeza, DJ Lycox
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdanifox/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdanifox/)*

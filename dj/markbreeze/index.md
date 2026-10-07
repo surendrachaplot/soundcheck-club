@@ -1,6 +1,6 @@
 # Mark Breeze
 
-Mark Breeze is a Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Old Firestation, South-east on Sat, 31 Oct 2026.
+Mark Breeze is a Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at The Old Firestation, South-east on Sat, 31 Oct 2026.
 
 Mark Breeze is a hardcore artist based in United Kingdom, with 12 gigs on soundcheck across Amsterdam, Glasgow, London and Los Angeles and 4 more. Often billed alongside Dougal, Hixxy and Scott Brown. Next up: The Old Firestation, South East on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Mark Breeze is a hardcore artist based in United Kingdom, with 12 gigs on soundc
 
 Dougal, Hixxy, Scott Brown
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markbreeze/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markbreeze/)*

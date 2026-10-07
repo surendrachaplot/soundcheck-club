@@ -1,14 +1,15 @@
 # SONYDIAM
 
-SONYDIAM is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Krftwrk, Odense on Sat, 10 Oct 2026.
+SONYDIAM is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Krftwrk, Odense on Sat, 10 Oct 2026.
 
-SONYDIAM is a trance and techno artist based in Ukraine, with 5 gigs on soundcheck across Copenhagen and Odense. Often billed alongside ASTA MARI, Adam Eisert and Alexander Santana. Next up: Krftwrk, Odense on Sat 10 Oct.
+SONYDIAM is a techno and trance artist based in Ukraine, with 6 gigs on soundcheck across Copenhagen and Odense. Often billed alongside ASTA MARI, Adam Eisert and Alexander Santana. Next up: Krftwrk, Odense on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Krftwrk | Odense |
+| Sat, 5 Dec 2026 | Culture Box | Copenhagen |
 
 ## Recently played
 
@@ -21,4 +22,4 @@ SONYDIAM is a trance and techno artist based in Ukraine, with 5 gigs on soundche
 
 ASTA MARI, Adam Eisert, Alexander Santana
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonydiam/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonydiam/)*

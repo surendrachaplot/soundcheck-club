@@ -1,14 +1,13 @@
 # Innassi
 
-Innassi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Innassi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Ble Azure Peninsula, Athens on Sun, 11 Oct 2026.
 
-Innassi is a house and techno artist based in Greece, with 47 gigs on soundcheck across Amsterdam, Athens, Berlin and Frankfurt and 2 more. Often billed alongside ClubKid, OPHELIA and MAN WITH THE SPEAKER. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Innassi is a house and techno artist based in Greece, with 47 gigs on soundcheck across Amsterdam, Athens, Berlin and Frankfurt and 2 more. Often billed alongside ClubKid, OPHELIA and MAN WITH THE SPEAKER. Next up: Ble Azure Peninsula, Athens on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Sun, 11 Oct 2026 | Ble Azure Peninsula | Athens |
 
 ## Recently played
@@ -26,4 +25,4 @@ Innassi is a house and techno artist based in Greece, with 47 gigs on soundcheck
 
 ClubKid, OPHELIA (1), MAN WITH THE SPEAKER
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innassi/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innassi/)*

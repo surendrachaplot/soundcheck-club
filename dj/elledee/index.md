@@ -1,6 +1,6 @@
 # Elle Dee
 
-Elle Dee is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 7 Oct 2026.
+Elle Dee is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 7 Oct 2026.
 
 Elle Dee is a techno and house artist based in Brazil, with 76 gigs on soundcheck across Berlin, Boston, Chicago and Detroit and 2 more. Often billed alongside Lauren Flax, Mike Servito and Juana. Next up: Bossa Nova Civic Club, New York City on Wed 7 Oct.
 
@@ -27,4 +27,4 @@ Elle Dee is a techno and house artist based in Brazil, with 76 gigs on soundchec
 
 Lauren Flax, Mike Servito, Juana
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elledee/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elledee/)*

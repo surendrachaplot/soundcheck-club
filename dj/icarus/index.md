@@ -1,6 +1,6 @@
 # Icarus
 
-Icarus is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at E1, London on Sat, 10 Oct 2026.
+Icarus is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at E1, London on Sat, 10 Oct 2026.
 
 Icarus is a house and garage artist based in United Kingdom, with 18 gigs on soundcheck across Bristol, Denver, Ghent and Istanbul and 7 more. Often billed alongside Estiva, L.GU. and MXV (UK). Next up: E1, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Icarus is a house and garage artist based in United Kingdom, with 18 gigs on sou
 
 Estiva, L.GU., MXV (UK)
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icarus/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icarus/)*

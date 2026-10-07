@@ -1,6 +1,6 @@
 # Holder
 
-Holder is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Life Park, Istanbul on Sat, 10 Oct 2026.
+Holder is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Life Park, Istanbul on Sat, 10 Oct 2026.
 
 Holder is a house and deep house artist based in Mexico, with 20 gigs on soundcheck across Istanbul, Los Angeles, Mexico City and Miami and 1 more. Often billed alongside Mirá Mirá, Sergio Borquez and GOLDEN PINEAPPLE. Next up: Life Park, Istanbul on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Holder is a house and deep house artist based in Mexico, with 20 gigs on soundch
 
 Mirá Mirá, Sergio Borquez, GOLDEN PINEAPPLE
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holder/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holder/)*

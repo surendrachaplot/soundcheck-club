@@ -1,14 +1,15 @@
 # Araminta
 
-Araminta is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Arts District Los Angeles, Los Angeles on Sat, 31 Oct 2026.
+Araminta is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Arts District Los Angeles, Los Angeles on Sat, 31 Oct 2026.
 
-Araminta is a house and tech house artist based in United Kingdom, with 21 gigs on soundcheck across Los Angeles. Often billed alongside MAEYO, hombre plata and Shredy. Next up: TBA - Arts District Los Angeles, Los Angeles on Sat 31 Oct.
+Araminta is a house and tech house artist based in United Kingdom, with 22 gigs on soundcheck across Los Angeles. Often billed alongside MAEYO, hombre plata and Shredy. Next up: TBA - Arts District Los Angeles, Los Angeles on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TBA - Arts District Los Angeles | Los Angeles |
+| Sat, 31 Oct 2026 | ORIGIN | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Araminta is a house and tech house artist based in United Kingdom, with 21 gigs 
 
 MAEYO, hombre plata, Shredy
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/araminta/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/araminta/)*

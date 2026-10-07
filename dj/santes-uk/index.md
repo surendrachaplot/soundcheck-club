@@ -1,8 +1,8 @@
 # Santes
 
-Santes is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Wharf Chambers, Leeds on Fri, 6 Nov 2026.
+Santes is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Wharf Chambers, Leeds on Fri, 6 Nov 2026.
 
-Santes is a techno and acid artist, with 12 gigs on soundcheck across Leeds and Manchester. Often billed alongside ASHTYLR, Princess Elf Bar and ZESTY (UK). Next up: Wharf Chambers, Leeds on Fri 6 Nov.
+Santes is a techno and acid artist, with 12 gigs on soundcheck across Leeds and Manchester. Often billed alongside ASHTYLR, HEATHER BOA and Princess Elf Bar. Next up: Wharf Chambers, Leeds on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Santes is a techno and acid artist, with 12 gigs on soundcheck across Leeds and 
 
 ## Shares bills with
 
-ASHTYLR, Princess Elf Bar, ZESTY (UK)
+ASHTYLR, HEATHER BOA, Princess Elf Bar
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santes-uk/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santes-uk/)*

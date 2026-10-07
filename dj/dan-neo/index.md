@@ -1,6 +1,6 @@
 # Dan-neo
 
-Dan-neo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Enter Shibuya, Tokyo on Fri, 16 Oct 2026.
+Dan-neo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Enter Shibuya, Tokyo on Fri, 16 Oct 2026.
 
 Dan-neo is a techno and house artist based in China, with 53 gigs on soundcheck across Hong Kong, Kansai, Kyoto and Seoul and 1 more. Often billed alongside Finsent C, Konnection and MarcoYu. Next up: Enter Shibuya, Tokyo on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Dan-neo is a techno and house artist based in China, with 53 gigs on soundcheck 
 
 Finsent C, Konnection, MarcoYu
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dan-neo/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dan-neo/)*

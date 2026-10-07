@@ -1,6 +1,6 @@
 # Midline
 
-Midline is a music venue in Miami with 9 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Starjunk 95 MIAMI" on Fri, 9 Oct 2026.
+Midline is a music venue in Miami with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Starjunk 95 MIAMI" on Fri, 9 Oct 2026.
 
 Midline is a music venue in Miami listed on soundcheck. 9 upcoming gigs, with line-ups including DJ Habibeats and Mose. See dates, start times and who's playing.
 
@@ -18,4 +18,4 @@ Midline is a music venue in Miami listed on soundcheck. 9 upcoming gigs, with li
 | Sat, 28 Nov 2026 | WonkyWilla MIAMI |  |
 | Fri, 11 Dec 2026 | NOREH MIAMI |  |
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/midline/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/midline/)*

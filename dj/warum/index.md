@@ -1,13 +1,14 @@
 # Warum
 
-Warum is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Le Sucre, Lyon on Fri, 30 Oct 2026.
+Warum is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Super7, Lyon on Fri, 9 Oct 2026.
 
-Warum is a techno and acid artist based in France, with 40 gigs on soundcheck across Berlin, Lyon, Marseille and Milan and 4 more. Often billed alongside Tushen Raï, Cornelius Doctor and Patxi. Next up: Le Sucre, Lyon on Fri 30 Oct.
+Warum is a techno and acid artist based in France, with 41 gigs on soundcheck across Berlin, Lyon, Marseille and Milan and 4 more. Often billed alongside Tushen Raï, Cornelius Doctor and Patxi. Next up: Super7, Lyon on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Super7 | Lyon |
 | Fri, 30 Oct 2026 | Le Sucre | Lyon |
 | Wed, 9 Dec 2026 | TBA - Lyon - Confluence | Lyon |
 
@@ -26,4 +27,4 @@ Warum is a techno and acid artist based in France, with 40 gigs on soundcheck ac
 
 Tushen Raï, Cornelius Doctor, Patxi
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/warum/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/warum/)*

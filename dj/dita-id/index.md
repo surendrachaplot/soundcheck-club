@@ -1,8 +1,8 @@
 # DITA (ID)
 
-DITA (ID) is a House and Balearic artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Klymax Discotheque, Bali on Fri, 9 Oct 2026.
+DITA (ID) is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Klymax Discotheque, Bali on Fri, 9 Oct 2026.
 
-DITA (ID) is a house and balearic artist based in Indonesia, with 112 gigs on soundcheck across Amsterdam, Bali, Bangkok and Berlin and 13 more. Often billed alongside Archie Dennis, PNNY and Avalon Emerson. Next up: Klymax Discotheque, Bali on Fri 9 Oct.
+DITA (ID) is a house and disco artist based in Indonesia, with 113 gigs on soundcheck across Amsterdam, Bali, Bangkok and Berlin and 13 more. Often billed alongside Archie Dennis, Brent Burns and PNNY. Next up: Klymax Discotheque, Bali on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DITA (ID) is a house and balearic artist based in Indonesia, with 112 gigs on so
 | Fri, 9 Oct 2026 | Klymax Discotheque | Bali |
 | Sun, 18 Oct 2026 | National Art School | Sydney |
 | Sat, 31 Oct 2026 | Collingwood Children's Farm | Melbourne |
+| Sat, 7 Nov 2026 | Chang Chui Creative Park | Bangkok |
 | Thu, 31 Dec 2026 | Potato Head Beach Club | Bali |
 
 ## Recently played
@@ -26,6 +27,6 @@ DITA (ID) is a house and balearic artist based in Indonesia, with 112 gigs on so
 
 ## Shares bills with
 
-Archie Dennis, PNNY, Avalon Emerson
+Archie Dennis, Brent Burns, PNNY
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*

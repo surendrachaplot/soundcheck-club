@@ -1,8 +1,8 @@
 # GiGi FM
 
-GiGi FM is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+GiGi FM is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
-GiGi FM is a techno and house artist, with 175 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 51 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
+GiGi FM is a techno and house artist, with 176 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 51 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ GiGi FM is a techno and house artist, with 175 gigs on soundcheck across Adelaid
 
 Altinbas, Polygonia, DVS1
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*

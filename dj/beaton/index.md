@@ -1,6 +1,6 @@
 # Beaton
 
-Beaton is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Timber Loft, London on Fri, 23 Oct 2026.
+Beaton is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at The Timber Loft, London on Fri, 23 Oct 2026.
 
 Beaton is a tech house and deep house artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Alex Mills, Ammo Avenue and Amy Os. Next up: The Timber Loft, London on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Beaton is a tech house and deep house artist based in United Kingdom, with 5 gig
 
 Alex Mills, Ammo Avenue, Amy Os
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beaton/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beaton/)*

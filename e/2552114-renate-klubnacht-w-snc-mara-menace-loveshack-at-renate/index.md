@@ -1,6 +1,6 @@
 # Renate Klubnacht w/ SNC, Mara Menace & Loveshack at Renate
 
-Renate Klubnacht w/ SNC, Mara Menace & Loveshack on Sat 14 Nov, Berlin. 3 artists: EMIRA, exuvia and Mara Menace. Techno and House. See the line-up on soundcheck.
+Renate Klubnacht w/ SNC, Mara Menace & Loveshack on Sat 14 Nov, Berlin. 4 artists: Bekkler, EMIRA, exuvia and Mara Menace. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Renate Klubnacht w/ SNC, Mara Menace & Loveshack on Sat 14 Nov, Berlin. 3 artist
 
 ## Line-up
 
+- Bekkler
 - EMIRA
 - exuvia
 - Mara Menace

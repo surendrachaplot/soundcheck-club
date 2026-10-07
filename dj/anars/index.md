@@ -1,6 +1,6 @@
 # Ana Rs
 
-Ana Rs is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA, Portland on Fri, 30 Oct 2026.
+Ana Rs is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, Portland on Fri, 30 Oct 2026.
 
 Ana Rs is a techno and house artist based in Montenegro, with 38 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 19 more. Often billed alongside CONCEPTUAL, Adriana Lopez and Hadone. Next up: TBA, Portland on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Ana Rs is a techno and house artist based in Montenegro, with 38 gigs on soundch
 
 CONCEPTUAL, Adriana Lopez, Hadone
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anars/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anars/)*

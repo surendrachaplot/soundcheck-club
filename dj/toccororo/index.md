@@ -1,6 +1,6 @@
 # TOCCORORO
 
-TOCCORORO is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at fabric, London on Fri, 30 Oct 2026.
+TOCCORORO is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at fabric, London on Fri, 30 Oct 2026.
 
 TOCCORORO is a techno and house artist based in Spain, with 137 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 37 more. Often billed alongside JASSS, Manuka Honey and SPFDJ. Next up: fabric, London on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ TOCCORORO is a techno and house artist based in Spain, with 137 gigs on soundche
 
 JASSS, Manuka Honey, SPFDJ
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toccororo/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toccororo/)*

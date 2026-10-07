@@ -1,8 +1,8 @@
 # Bushbaby
 
-Bushbaby is a Garage and Bass artist with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The Loft, Manchester on Thu, 8 Oct 2026.
+Bushbaby is a Garage and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Loft, Manchester on Thu, 8 Oct 2026.
 
-Bushbaby is a garage and bass artist based in United Kingdom, with 90 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 31 more. Often billed alongside MPH, CHRIS STASSY and Conducta. Next up: The Loft, Manchester on Thu 8 Oct.
+Bushbaby is a garage and house artist based in United Kingdom, with 92 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 33 more. Often billed alongside MPH, CHRIS STASSY and Conducta. Next up: The Loft, Manchester on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ Bushbaby is a garage and bass artist based in United Kingdom, with 90 gigs on so
 | Thu, 8 Oct 2026 | The Loft | Manchester |
 | Sat, 17 Oct 2026 | Digital | Newcastle |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Fri, 20 Nov 2026 | SWG3 | Glasgow |
+| Sat, 21 Nov 2026 | The Liquid Room | Edinburgh |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
@@ -30,4 +32,4 @@ Bushbaby is a garage and bass artist based in United Kingdom, with 90 gigs on so
 
 MPH (1), CHRIS STASSY, Conducta
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbaby/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbaby/)*

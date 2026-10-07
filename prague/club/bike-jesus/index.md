@@ -1,14 +1,14 @@
 # Bike Jesus
 
-Bike Jesus is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "✭EERIE COLLECTIVE✭ at Bike Jesus" on Fri, 9 Oct 2026.
+Bike Jesus is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "✭EERIE COLLECTIVE✭ KRISTIE KARDIO, TAUREAN , zazitech, ishka machina, Kaotic, ZiZi " on Fri, 9 Oct 2026.
 
-Bike Jesus is a music venue in Prague listed on soundcheck. 10 upcoming gigs, with line-ups including Andrea Dare, AVHD, Barbellay and Big Lil and 2 more. See dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
+Bike Jesus is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with line-ups including Andrea Dare, AVHD, Barbellay and Big Lil and 2 more. See dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | ✭EERIE COLLECTIVE✭ at Bike Jesus | KRISTIE KARDIO, Kaotic, TAUREAN (2), ZiZi, ishka machina, zazitech |
+| Fri, 9 Oct 2026 | ✭EERIE COLLECTIVE✭ KRISTIE KARDIO, TAUREAN , zazitech, ishka machina, Kaotic, ZiZi  | KRISTIE KARDIO, Kaotic, TAUREAN (2), ZiZi, ishka machina, zazitech |
 | Fri, 9 Oct 2026 | Main Character / Bouncy & Groovy / Revolution Stage | Big Lil, Diva, Katrixia, XENEA LUMRA |
 | Sat, 10 Oct 2026 | ★ HD World ★ | AVHD, LickMySoul, MARS (4), dylan.james |
 | Sat, 17 Oct 2026 | Veil' Amor: NIGHT AT BIKE | Diva, Fembot, S.N.R.I., Yo Eva |
@@ -17,10 +17,10 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 10 upcoming gigs, wi
 | Sat, 24 Oct 2026 | VOID x Decadance with Barbellay, Fantomass, Keporkak, MURKEZZI, VOID RIDER | Barbellay, CRY.NN, Fantomass, Keporkak, MURKEZZI, VOID RIDER |
 | Fri, 30 Oct 2026 | glitter.hit meets Transatlantic: Europa + Freestyler + Lux18 + Rama + domizako + TBA | Europa (1), Freestyler (2), Lux18, Rama (2), domizako |
 | Sat, 31 Oct 2026 | ƑƩⱮӾႠӨⱤƩ: Ӈలҝลţల ርลไไĬתּဌ | Mother Menace, SAVBEA, XENEA LUMRA |
-| Wed, 2 Dec 2026 | Fejká | Fejká |
+| Fri, 6 Nov 2026 | LYRA with FUNK 'D' VOID | Funk D'Void, Ondrej Husak, Rico Casazza, Roman Rai, Smeti, Täino |
 
 ## Address
 
 ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia, Prague
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*

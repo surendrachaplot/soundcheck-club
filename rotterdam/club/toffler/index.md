@@ -1,6 +1,6 @@
 # Toffler
 
-Toffler is a music venue in Rotterdam with 12 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Toffler presents Soul Mass Transit System" on Fri, 9 Oct 2026.
+Toffler is a music venue in Rotterdam with 12 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Toffler presents Soul Mass Transit System" on Fri, 9 Oct 2026.
 
 Toffler is a music venue in Rotterdam listed on soundcheck. 12 upcoming gigs, with line-ups including AIS, Chess, DAF and Divasi and 2 more. See dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
 
@@ -23,4 +23,4 @@ Toffler is a music venue in Rotterdam listed on soundcheck. 12 upcoming gigs, wi
 
 Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands, Rotterdam
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*

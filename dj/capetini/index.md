@@ -1,6 +1,6 @@
 # Capetini
 
-Capetini is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Fabriketa, Sao Paulo on Sat, 14 Nov 2026.
+Capetini is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Fabriketa, Sao Paulo on Sat, 14 Nov 2026.
 
 Capetini is a house and techno artist, with 13 gigs on soundcheck across Sao Paulo. Often billed alongside Gop Tun DJs, Cashu and Kontronatura. Next up: Fabriketa, Sao Paulo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Capetini is a house and techno artist, with 13 gigs on soundcheck across Sao Pau
 
 Gop Tun DJs, Cashu, Kontronatura
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/capetini/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/capetini/)*

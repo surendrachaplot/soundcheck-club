@@ -1,6 +1,6 @@
 # jaytaylor
 
-jaytaylor is a Electro and Breakcore artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Vauxhall Arches, London on Fri, 16 Oct 2026.
+jaytaylor is a Electro and Breakcore artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Vauxhall Arches, London on Fri, 16 Oct 2026.
 
 jaytaylor is an electro and breakcore artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside EVIL THWEK, it_dont_Matt.er and Compulsive Leia. Next up: Vauxhall Arches, London on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ jaytaylor is an electro and breakcore artist based in United Kingdom, with 6 gig
 
 EVIL THWEK, it_dont_Matt.er, Compulsive Leia
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaytaylor/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaytaylor/)*

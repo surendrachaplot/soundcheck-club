@@ -1,6 +1,6 @@
 # Amnesia Ibiza
 
-Amnesia Ibiza is a music venue in Ibiza with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Teletech Closing Party" on Thu, 8 Oct 2026.
+Amnesia Ibiza is a music venue in Ibiza with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Teletech Closing Party" on Thu, 8 Oct 2026.
 
 Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 2 upcoming gigs, with line-ups including Bella Claxton, Benwal, blk. and Clara Cuvé and 2 more. See dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
 
@@ -15,4 +15,4 @@ Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 2 upcoming gigs, w
 
 Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza, Ibiza
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*

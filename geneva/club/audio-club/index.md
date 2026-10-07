@@ -1,6 +1,6 @@
 # Audio Club
 
-Audio Club is a music venue in Geneva with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Âme DJ · Dachshund · DJ Reas" on Fri, 9 Oct 2026.
+Audio Club is a music venue in Geneva with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Âme DJ · Dachshund · DJ Reas" on Fri, 9 Oct 2026.
 
 Audio Club is a music venue in Geneva listed on soundcheck. 4 upcoming gigs, with line-ups including Âme, Chloe Martinez, Dachshund and Deborah De Luca and 2 more. See dates, start times and who's playing. Boissonnas 20,  1227 Les Acacias - Genève.
 
@@ -17,4 +17,4 @@ Audio Club is a music venue in Geneva listed on soundcheck. 4 upcoming gigs, wit
 
 Boissonnas 20,  1227 Les Acacias - Genève, Geneva
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/audio-club/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/audio-club/)*

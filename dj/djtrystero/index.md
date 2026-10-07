@@ -1,14 +1,15 @@
 # DJ Trystero
 
-DJ Trystero is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Saloon, Tokyo on Fri, 9 Oct 2026.
+DJ Trystero is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Saloon, Tokyo on Fri, 9 Oct 2026.
 
-DJ Trystero is a house and techno artist based in Japan, with 33 gigs on soundcheck across Berlin, London, New York City and Seoul and 1 more. Often billed alongside Trystero, PLO Man and Changsie. Next up: Saloon, Tokyo on Fri 9 Oct.
+DJ Trystero is a house and techno artist based in Japan, with 34 gigs on soundcheck across Berlin, London, New York City and Seoul and 2 more. Often billed alongside Trystero, PLO Man and Changsie. Next up: Saloon, Tokyo on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Saloon | Tokyo |
+| Sat, 24 Oct 2026 | 桃園玉山街影視基地 | Taipei |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ Trystero is a house and techno artist based in Japan, with 33 gigs on soundch
 
 Trystero, PLO Man, Changsie
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtrystero/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtrystero/)*

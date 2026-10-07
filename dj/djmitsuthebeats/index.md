@@ -1,6 +1,6 @@
 # DJ Mitsu The Beats
 
-DJ Mitsu The Beats is a Hip-Hop and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Club Metro, Kyoto on Mon, 12 Oct 2026.
+DJ Mitsu The Beats is a Hip-Hop and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Club Metro, Kyoto on Mon, 12 Oct 2026.
 
 DJ Mitsu The Beats is a hip-hop and downtempo artist based in Japan, with 8 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside CH.0, DJ Kensei and DJ Koco aka Shimokita. Next up: Club Metro, Kyoto on Mon 12 Oct.
 
@@ -24,4 +24,4 @@ DJ Mitsu The Beats is a hip-hop and downtempo artist based in Japan, with 8 gigs
 
 CH.0, DJ Kensei, DJ Koco aka Shimokita
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmitsuthebeats/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmitsuthebeats/)*

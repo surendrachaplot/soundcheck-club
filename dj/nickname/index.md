@@ -1,6 +1,6 @@
 # nickname
 
-nickname is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Black Scorpion Music بلک اسکورپیون موزیک, The-hague on Tue, 1 Aug 2028.
+nickname is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Black Scorpion Music بلک اسکورپیون موزیک, The-hague on Tue, 1 Aug 2028.
 
 nickname is a bass and drum & bass artist, with 14 gigs on soundcheck across Auckland, London, Melbourne and Sydney and 1 more. Often billed alongside Ekzander, Brown Suga Princess and Jungist. Next up: TBA - Black Scorpion Music بلک اسکورپیون موزیک, The Hague on Tue 1 Aug.
 
@@ -25,4 +25,4 @@ nickname is a bass and drum & bass artist, with 14 gigs on soundcheck across Auc
 
 Ekzander, Brown Suga Princess, Jungist
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickname/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickname/)*

@@ -1,6 +1,6 @@
 # Nicky Romero
 
-Nicky Romero is a Progressive House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at DRUMSHEDS, London on Fri, 9 Oct 2026.
+Nicky Romero is a Progressive House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at DRUMSHEDS, London on Fri, 9 Oct 2026.
 
 Nicky Romero is a progressive house and club artist based in Netherlands, with 30 gigs on soundcheck across Amsterdam, Bangkok, Boston and Denver and 13 more. Often billed alongside Afrojack, Alesso and Alignment. Next up: DRUMSHEDS, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Nicky Romero is a progressive house and club artist based in Netherlands, with 3
 
 Afrojack, Alesso, Alignment
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyromero/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyromero/)*

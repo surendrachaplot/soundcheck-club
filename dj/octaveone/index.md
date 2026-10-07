@@ -1,8 +1,8 @@
 # Octave One
 
-Octave One is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Jaeger, Oslo on Fri, 9 Oct 2026.
+Octave One is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Jaeger, Oslo on Fri, 9 Oct 2026.
 
-Octave One is a techno and house artist based in United States of America, with 97 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 35 more. Often billed alongside Carl Craig, Charlotte de Witte and FJAAK. Next up: Jaeger, Oslo on Fri 9 Oct.
+Octave One is a techno and house artist based in United States of America, with 99 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 35 more. Often billed alongside Carl Craig, Charlotte de Witte and FJAAK. Next up: Jaeger, Oslo on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Octave One is a techno and house artist based in United States of America, with 
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Jaeger | Oslo |
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
+| Fri, 16 Oct 2026 | Public Works | San Francisco/Oakland |
+| Sat, 17 Oct 2026 | TBA | Los Angeles |
 | Fri, 23 Oct 2026 | Q-Factory | Amsterdam |
 | Thu, 5 Nov 2026 | Base Sous-Marine de Bordeaux | Bordeaux |
 | Fri, 6 Nov 2026 | Den Anden Side | Copenhagen |
@@ -29,4 +31,4 @@ Octave One is a techno and house artist based in United States of America, with 
 
 Carl Craig, Charlotte de Witte, FJAAK
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/octaveone/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/octaveone/)*

@@ -1,0 +1,28 @@
+# Menqui
+
+Menqui is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
+
+Menqui is a techno and disco artist based in Germany, with 24 gigs on soundcheck across Berlin and Prague. Often billed alongside Benedikt Frey, Chris Imler and Hendrik Stein. Next up: The Buzz, Berlin on Fri 20 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 20 Nov 2026 | The Buzz | Berlin |
+
+## Recently played
+
+- Kater, Berlin · Sat, 19 Sept 2026
+- Paloma, Berlin · Fri, 3 Jul 2026
+- Sameheads, Berlin · Fri, 22 May 2026
+- Gaswerksiedlung, Berlin · Fri, 1 May 2026
+- Tendance, Prague · Sat, 28 Mar 2026
+- Sameheads, Berlin · Thu, 20 Nov 2025
+- arkaoda Berlin, Berlin · Sat, 30 Aug 2025
+- 90mil, Berlin · Sat, 26 Jul 2025
+
+## Shares bills with
+
+Benedikt Frey, Chris Imler, Hendrik Stein
+
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/menqui/)*

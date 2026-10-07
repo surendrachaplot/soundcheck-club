@@ -1,13 +1,14 @@
 # Rev Lon
 
-Rev Lon is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Heide Museum of Modern Art Sculpture Park, Melbourne on Sat, 19 Dec 2026.
+Rev Lon is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Coil, Melbourne on Sat, 10 Oct 2026.
 
-Rev Lon is a house and tech house artist, with 40 gigs on soundcheck across Berlin, Edinburgh, Hobart and Lisbon and 2 more. Often billed alongside Bex, Terri and Katharine. Next up: Heide Museum of Modern Art Sculpture Park, Melbourne on Sat 19 Dec.
+Rev Lon is a house and tech house artist, with 41 gigs on soundcheck across Berlin, Edinburgh, Hobart and Lisbon and 2 more. Often billed alongside Bex, Terri and Katharine. Next up: Coil, Melbourne on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Coil | Melbourne |
 | Sat, 19 Dec 2026 | Heide Museum of Modern Art Sculpture Park | Melbourne |
 
 ## Recently played
@@ -25,4 +26,4 @@ Rev Lon is a house and tech house artist, with 40 gigs on soundcheck across Berl
 
 Bex, Terri (2), Katharine
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/revlon/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/revlon/)*

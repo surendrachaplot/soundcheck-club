@@ -1,6 +1,6 @@
-# No Point Music: HALLOWEEN 26' at Platform9
+# No Point Music: HALLOWEEN '26 at Platform9
 
-No Point Music: HALLOWEEN 26' at Platform9 on Sat 31 Oct, Vancouver. House. See the line-up on soundcheck.
+No Point Music: HALLOWEEN '26 at Platform9 on Sat 31 Oct, Vancouver. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

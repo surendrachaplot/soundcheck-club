@@ -1,8 +1,8 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "ØXYL: BYORN, TESTPRESS, NYRA, SIKOTI, MEYEM & MORE" on Fri, 9 Oct 2026.
+Kilomètre25 is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "ØXYL: BYORN, TESTPRESS, NYRA, SIKOTI, MEYEM & MORE" on Fri, 9 Oct 2026.
 
-Kilomètre25 is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including NYRA (DE), ASLO, Avenir and BIIA and 2 more. See dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
+Kilomètre25 is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including NYRA (DE), ASLO, Avenir and BIIA and 2 more. See dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
 ## What's on
 
@@ -15,9 +15,10 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 7 upcoming gigs, wi
 | Fri, 23 Oct 2026 | FIGHT CLUB: snoritz, GIO, DVAID, KHØNG, Eva Vrijdag | DVAID, Eva Vrijdag, GIØ (1), snoritz |
 | Sat, 24 Oct 2026 | ACID KISS: DJ Pierre, Miss Djax, DR RUBINSTEIN | DJ Jee, DJ Pierre, Dr. Rubinstein, Miss Djax, Sarah Sommers |
 | Fri, 30 Oct 2026 | HUSH: 3LEESA, IOSIO, K0:LAB, REVEX, THISO, TOXIMAMI | IOSIO, THISO, TOXIMAMI |
+| Sat, 31 Oct 2026 | KILOMETRE25 CLOSING: HALLOWEN with THELMA, Danny Wabbit | Cattoni, DJ Hyperdrive, Danny Wabbit, Forest (PL), In-Tan, THELMA |
 
 ## Address
 
 8 Boulevard MacDonald 75019 Paris, Paris
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*

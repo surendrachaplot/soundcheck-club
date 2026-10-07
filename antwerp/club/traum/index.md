@@ -1,6 +1,6 @@
 # TRAUM
 
-TRAUM is a music venue in Antwerp with 13 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Traum Nacht: Moodymann, Oko Stellar, Mab'ish" on Fri, 9 Oct 2026.
+TRAUM is a music venue in Antwerp with 13 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Traum Nacht: Moodymann, Oko Stellar, Mab'ish" on Fri, 9 Oct 2026.
 
 TRAUM is a music venue in Antwerp listed on soundcheck. 13 upcoming gigs, with line-ups including Justine Perry, Bevan, Casper and Cheriii and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TRAUM is a music venue in Antwerp listed on soundcheck. 13 upcoming gigs, with l
 | Sat, 7 Nov 2026 | Traum Nacht: John Talabot, Casper | Casper, John Talabot |
 | Fri, 13 Nov 2026 | Traum Nacht: DTM Funk (All Night Long) | DTM Funk |
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*

@@ -1,13 +1,14 @@
 # Karani
 
-Karani is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Brooman NSW, Sydney on Fri, 27 Nov 2026.
+Karani is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 30 Oct 2026.
 
-Karani is a house and techno artist based in Sweden, with 25 gigs on soundcheck across Berlin, Leipzig, London and Melbourne and 3 more. Often billed alongside Caesarr, Byron Yeates and DJ Nah Care. Next up: TBA - Brooman NSW, Sydney on Fri 27 Nov.
+Karani is a house and techno artist based in Sweden, with 26 gigs on soundcheck across Berlin, Leipzig, London and Melbourne and 3 more. Often billed alongside Caesarr, Byron Yeates and DJ Nah Care. Next up: Angel Music Bar, Melbourne on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Angel Music Bar | Melbourne |
 | Fri, 27 Nov 2026 | TBA - Brooman NSW | Sydney |
 | Fri, 27 Nov 2026 | TBA | New-south-wales |
 
@@ -26,4 +27,4 @@ Karani is a house and techno artist based in Sweden, with 25 gigs on soundcheck 
 
 Caesarr, Byron Yeates, DJ Nah Care
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karani/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karani/)*

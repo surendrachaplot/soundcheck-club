@@ -1,6 +1,6 @@
 # Jatra
 
-Jatra is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Kalif Storch, Erfurt on Sat, 10 Oct 2026.
+Jatra is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Kalif Storch, Erfurt on Sat, 10 Oct 2026.
 
 Jatra is a techno and trance artist, with 7 gigs on soundcheck across Berlin, Erfurt, Leipzig and Munich. Often billed alongside Jaszaloth, TRITØNUS and ELOISA. Next up: Kalif Storch, Erfurt on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Jatra is a techno and trance artist, with 7 gigs on soundcheck across Berlin, Er
 
 Jaszaloth, TRITØNUS, ELOISA
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jatra/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jatra/)*

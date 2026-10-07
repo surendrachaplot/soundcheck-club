@@ -1,6 +1,6 @@
 # Space Invadrz Division meets Infonabeat Mexiko / Vocoder at TBA
 
-Space Invadrz Division meets Infonabeat Mexiko / Vocoder at TBA on Sat 24 Oct, Cologne. 3 artists: DJ Roach, Ixbalanke and Redmadvelvet. Techno and Acid. See the line-up on soundcheck.
+Space Invadrz Division meets Infonabeat Mexiko / Vocoder at TBA on Sat 24 Oct, Cologne. 2 artists: Ixbalanke and Redmadvelvet. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Space Invadrz Division meets Infonabeat Mexiko / Vocoder at TBA on Sat 24 Oct, C
 
 ## Line-up
 
-- DJ Roach
 - Ixbalanke
 - Redmadvelvet
 

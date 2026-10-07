@@ -1,13 +1,14 @@
 # Miss Bible
 
-Miss Bible is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - 1215 Bloor St. West, Toronto on Fri, 20 Nov 2026.
+Miss Bible is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Cafeteria, Toronto on Sat, 10 Oct 2026.
 
-Miss Bible is a club and techno artist based in Canada, with 21 gigs on soundcheck across Toronto. Often billed alongside EMRYSLAZULI, Ard1n and LAZULI DOLL. Next up: TBA - 1215 Bloor St. West, Toronto on Fri 20 Nov.
+Miss Bible is a club and techno artist based in Canada, with 22 gigs on soundcheck across Toronto. Often billed alongside EMRYSLAZULI, Ard1n and LAZULI DOLL. Next up: Cafeteria, Toronto on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Cafeteria | Toronto |
 | Fri, 20 Nov 2026 | TBA - 1215 Bloor St. West | Toronto |
 
 ## Recently played
@@ -25,4 +26,4 @@ Miss Bible is a club and techno artist based in Canada, with 21 gigs on soundche
 
 EMRYSLAZULI, Ard1n, LAZULI DOLL
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missbible/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missbible/)*

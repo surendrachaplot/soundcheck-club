@@ -1,6 +1,6 @@
 # Mike Simonetti
 
-Mike Simonetti is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Gabriela, New York City on Sat, 10 Oct 2026.
+Mike Simonetti is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Gabriela, New York City on Sat, 10 Oct 2026.
 
 Mike Simonetti is an acid and house artist based in United States of America, with 37 gigs on soundcheck across Dublin, London, Los Angeles and Miami and 3 more. Often billed alongside Simonetti, Elvin T and Alexis Taylor. Next up: Gabriela, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Mike Simonetti is an acid and house artist based in United States of America, wi
 
 Simonetti, Elvin T, Alexis Taylor
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikesimonetti/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikesimonetti/)*

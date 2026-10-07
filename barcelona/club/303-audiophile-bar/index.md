@@ -1,6 +1,6 @@
 # 303 Audiophile Bar
 
-303 Audiophile Bar is a music venue in Barcelona with 15 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Siku presents: Onoffon, Rufo, shank at 303" on Thu, 8 Oct 2026.
+303 Audiophile Bar is a music venue in Barcelona with 15 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Siku presents: Onoffon, Rufo, shank at 303" on Thu, 8 Oct 2026.
 
 303 Audiophile Bar is a music venue in Barcelona listed on soundcheck. 15 upcoming gigs, with line-ups including AARON GEHRIG, Alex Garcia, Andrea Love and B2G and 2 more. See dates, start times and who's playing. C/ de Casp, 33B, L'Eixample, 08010 Barcelona.
 
@@ -14,7 +14,7 @@
 | Thu, 15 Oct 2026 | InterAct ar 303 | Ivan Pugliares, Lea Corio, Lupe Republic, Reezar |
 | Fri, 16 Oct 2026 | El Bassline pres. DoubtingThomas (Live) | AARON GEHRIG, DoubtingThomas, Fedo (UA) |
 | Sat, 17 Oct 2026 | Portia Cassau at 303 | DECA (VE), Moreon |
-| Thu, 22 Oct 2026 | Sounds of Barcy at 303 | B2G (1), Breezywav, Milla Campollo |
+| Thu, 22 Oct 2026 | Sounds of Barcy at 303 | B2G (1), Breezywav |
 | Fri, 23 Oct 2026 | Error 404 pres. Enrico Vivaldi at 303 | Enrico Vivaldi |
 | Sat, 24 Oct 2026 | Seguim pres. Lazer Man at 303 | Alex Garcia (2), Vince Void |
 | Thu, 29 Oct 2026 | 303 pres. INDRA TRAFERRI / Jade Rolt / Diana | Diana (3), INDRA TRAFERRI, Jade Rolt |
@@ -23,4 +23,4 @@
 
 C/ de Casp, 33B, L'Eixample, 08010 Barcelona, Barcelona
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*

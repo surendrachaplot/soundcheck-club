@@ -1,14 +1,13 @@
 # dj sweet6teen
 
-dj sweet6teen is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+dj sweet6teen is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Minimüzikhol, Istanbul on Fri, 9 Oct 2026.
 
-dj sweet6teen is a house and techno artist based in Germany, with 250 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 47 more. Often billed alongside Angel D'lite, Sansibar and Gene On Earth. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+dj sweet6teen is a house and techno artist based in Germany, with 252 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 47 more. Often billed alongside Angel D'lite, Sansibar and Gene On Earth. Next up: Minimüzikhol, Istanbul on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Fri, 9 Oct 2026 | Minimüzikhol | Istanbul |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Sat, 17 Oct 2026 | Under The Arches | Leeds |
@@ -16,10 +15,11 @@ dj sweet6teen is a house and techno artist based in Germany, with 250 gigs on so
 | Thu, 22 Oct 2026 | Pllek | Amsterdam |
 | Fri, 30 Oct 2026 | FORGE | Sheffield |
 | Sat, 31 Oct 2026 | Otto Wagner Areal | Vienna |
+| Fri, 6 Nov 2026 | Badaboum | Paris |
+| Sat, 7 Nov 2026 | C12 | Brussels |
 | Fri, 13 Nov 2026 | The Loft | Manchester |
 | Sat, 14 Nov 2026 | Azimut Club | Turin |
 | Fri, 20 Nov 2026 | Cobalt Studios | Newcastle |
-| Sat, 21 Nov 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ dj sweet6teen is a house and techno artist based in Germany, with 250 gigs on so
 
 Angel D'lite, Sansibar, Gene On Earth
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*

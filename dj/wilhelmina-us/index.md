@@ -1,14 +1,15 @@
 # WILHELMINA
 
-WILHELMINA is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA, Philadelphia on Sat, 10 Oct 2026.
+WILHELMINA is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, Philadelphia on Sat, 10 Oct 2026.
 
-WILHELMINA is a club and techno artist based in Philippines, with 38 gigs on soundcheck across Chicago, Houston, Melbourne and New York City and 4 more. Often billed alongside Castillonaire, rogue.wav and EMZ!. Next up: TBA, Philadelphia on Sat 10 Oct.
+WILHELMINA is a club and techno artist based in Philippines, with 39 gigs on soundcheck across Chicago, Houston, Melbourne and Montreal and 5 more. Often billed alongside Castillonaire, rogue.wav and EMZ!. Next up: TBA, Philadelphia on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | TBA | Philadelphia |
+| Sat, 31 Oct 2026 | Fairmount Theatre | Montreal |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ WILHELMINA is a club and techno artist based in Philippines, with 38 gigs on sou
 
 Castillonaire, rogue.wav, EMZ!
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wilhelmina-us/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wilhelmina-us/)*

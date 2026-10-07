@@ -1,8 +1,8 @@
 # BEQA
 
-BEQA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Hoppetosse, Berlin on Sat, 24 Oct 2026.
+BEQA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Hoppetosse, Berlin on Sat, 24 Oct 2026.
 
-BEQA is a house and tech house artist, with 49 gigs on soundcheck across Berlin, Hamburg, Tbilisi and Valencia. Often billed alongside SUMO, IKAKO and Rati. Next up: Hoppetosse, Berlin on Sat 24 Oct.
+BEQA is a house and tech house artist based in Georgia, with 49 gigs on soundcheck across Berlin, Hamburg, Tbilisi and Valencia. Often billed alongside SUMO, IKAKO and Rati. Next up: Hoppetosse, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ BEQA is a house and tech house artist, with 49 gigs on soundcheck across Berlin,
 
 SUMO, IKAKO, Rati
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beqa/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beqa/)*

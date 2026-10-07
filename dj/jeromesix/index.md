@@ -1,6 +1,6 @@
 # Jerome Six
 
-Jerome Six is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Basing House, London on Sat, 10 Oct 2026.
+Jerome Six is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Basing House, London on Sat, 10 Oct 2026.
 
 Jerome Six is a tech house and house artist based in United Kingdom, with 162 gigs on soundcheck across Algarve, Amsterdam, Birmingham and Ibiza and 4 more. Often billed alongside JAYDAA, Shenin Amara and Brian Smith. Next up: Basing House, London on Sat 10 Oct.
 
@@ -31,4 +31,4 @@ Jerome Six is a tech house and house artist based in United Kingdom, with 162 gi
 
 JAYDAA, Shenin Amara, Brian Smith
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeromesix/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeromesix/)*

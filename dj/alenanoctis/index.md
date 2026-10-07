@@ -1,14 +1,14 @@
 # Alena Noctis
 
-Alena Noctis is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Alena Noctis is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at null, Amsterdam on Thu, 22 Oct 2026.
 
-Alena Noctis is a techno and acid artist based in Austria, with 29 gigs on soundcheck across Amsterdam, Budapest, Munich and Vienna. Often billed alongside Relinquo, Patrik Pagan and DANBERG. Next up: Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam, Amsterdam on Thu 22 Oct.
+Alena Noctis is a techno and acid artist based in Austria, with 29 gigs on soundcheck across Amsterdam, Budapest, Munich and Vienna. Often billed alongside Relinquo, Patrik Pagan and DANBERG. 1 upcoming gig listed.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Aevum x 50:Hertz House & Techno Club Rembrandt Square / Rembrandtplein 45, Amsterdam | Amsterdam |
+| Thu, 22 Oct 2026 |  | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Alena Noctis is a techno and acid artist based in Austria, with 29 gigs on sound
 
 Relinquo, Patrik Pagan, DANBERG
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alenanoctis/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alenanoctis/)*

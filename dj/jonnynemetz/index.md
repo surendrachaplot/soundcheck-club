@@ -1,6 +1,6 @@
 # Jonny Nemetz
 
-Jonny Nemetz is a Ambient and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Paloma, Berlin on Sat, 10 Oct 2026.
+Jonny Nemetz is a Ambient and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Paloma, Berlin on Sat, 10 Oct 2026.
 
 Jonny Nemetz is an ambient and electronica artist based in Austria, with 9 gigs on soundcheck across Berlin and Vienna. Often billed alongside Jonatore, Alexandra Marr and Gostoso. Next up: Paloma, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Jonny Nemetz is an ambient and electronica artist based in Austria, with 9 gigs 
 
 Jonatore, Alexandra Marr, Gostoso
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnynemetz/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnynemetz/)*

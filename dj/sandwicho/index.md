@@ -1,6 +1,6 @@
 # Sandwicho
 
-Sandwicho is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Laboratorio Octogon, Madrid on Sun, 11 Oct 2026.
+Sandwicho is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Laboratorio Octogon, Madrid on Sun, 11 Oct 2026.
 
 Sandwicho is a techno and trance artist based in Spain, with 38 gigs on soundcheck across Barcelona, Belgrade, Berlin and Madrid and 3 more. Often billed alongside Ozzwald, Cobb Douglas and JRG. Next up: Laboratorio Octogon, Madrid on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Sandwicho is a techno and trance artist based in Spain, with 38 gigs on soundche
 
 Ozzwald, Cobb Douglas, JRG
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwicho/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwicho/)*

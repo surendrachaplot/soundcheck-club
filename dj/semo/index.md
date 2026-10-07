@@ -1,6 +1,6 @@
 # Semo
 
-Semo is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Bolero, Seoul on Sat, 10 Oct 2026.
+Semo is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Bolero, Seoul on Sat, 10 Oct 2026.
 
 Semo is a house and club artist based in South Korea, with 42 gigs on soundcheck across Seoul. Often billed alongside Gyusco, KIKOH and Youngseok. Next up: Bolero, Seoul on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Semo is a house and club artist based in South Korea, with 42 gigs on soundcheck
 
 Gyusco, KIKOH, Youngseok
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/semo/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/semo/)*

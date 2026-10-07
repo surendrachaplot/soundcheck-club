@@ -1,6 +1,6 @@
 # Otik
 
-Otik is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Greyhound, London on Sat, 10 Oct 2026.
+Otik is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at The Greyhound, London on Sat, 10 Oct 2026.
 
 Otik is a techno and house artist based in United Kingdom, with 42 gigs on soundcheck across Berlin, Bristol, Edinburgh and Ibiza and 9 more. Often billed alongside SHERELLE, Kareem Ali and Nia Archives. Next up: The Greyhound, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Otik is a techno and house artist based in United Kingdom, with 42 gigs on sound
 
 SHERELLE, Kareem Ali, Nia Archives
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otik/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otik/)*

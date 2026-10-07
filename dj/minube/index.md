@@ -1,6 +1,6 @@
 # Minube
 
-Minube is a Minimal and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Yan Gastro, Istanbul on Sat, 21 Nov 2026.
+Minube is a Minimal and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Yan Gastro, Istanbul on Sat, 21 Nov 2026.
 
 Minube is a minimal and electronica artist, with 8 gigs on soundcheck across Barcelona, Berlin, Budapest and Istanbul and 2 more. Often billed alongside Ana Molina, Andrija Jäger and BasMe. Next up: Yan Gastro, Istanbul on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Minube is a minimal and electronica artist, with 8 gigs on soundcheck across Bar
 
 Ana Molina, Andrija Jäger, BasMe
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minube/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minube/)*

@@ -1,13 +1,14 @@
 # Nastia
 
-Nastia is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 17 Oct 2026.
+Nastia is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Switch, Porto on Fri, 9 Oct 2026.
 
-Nastia is a techno and house artist based in Ukraine, with 172 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 60 more. Often billed alongside Stef Mendesidis, The Advent and DJ Bone. Next up: Tresor / Globus, Berlin on Sat 17 Oct.
+Nastia is a techno and house artist based in Ukraine, with 173 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 61 more. Often billed alongside Stef Mendesidis, The Advent and DJ Bone. Next up: Switch, Porto on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Switch | Porto |
 | Sat, 17 Oct 2026 | Tresor / Globus | Berlin |
 | Wed, 21 Oct 2026 | Zwart Goud Record Store | Amsterdam |
 | Wed, 21 Oct 2026 | RADION | Amsterdam |
@@ -33,4 +34,4 @@ Nastia is a techno and house artist based in Ukraine, with 172 gigs on soundchec
 
 Stef Mendesidis, The Advent, DJ Bone
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nastia/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nastia/)*

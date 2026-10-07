@@ -1,8 +1,8 @@
 # Cordell Johnson
 
-Cordell Johnson is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Epiphany Center for the Arts, Chicago on Sat, 24 Oct 2026.
+Cordell Johnson is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Epiphany Center for the Arts, Chicago on Sat, 24 Oct 2026.
 
-Cordell Johnson is a deep house and disco artist, with 92 gigs on soundcheck across Amsterdam, Chicago, Detroit and Lisbon and 2 more. Often billed alongside James Vincent, Lorenzo Dewberry and CTRLZORA. Next up: Epiphany Center for the Arts, Chicago on Sat 24 Oct.
+Cordell Johnson is a deep house and disco artist based in United States of America, with 92 gigs on soundcheck across Amsterdam, Chicago, Detroit and Lisbon and 2 more. Often billed alongside James Vincent, Lorenzo Dewberry and CTRLZORA. Next up: Epiphany Center for the Arts, Chicago on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Cordell Johnson is a deep house and disco artist, with 92 gigs on soundcheck acr
 
 James Vincent, Lorenzo Dewberry, CTRLZORA
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cordelljohnson/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cordelljohnson/)*

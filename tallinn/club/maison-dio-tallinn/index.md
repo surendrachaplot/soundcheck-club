@@ -1,6 +1,6 @@
 # Maison Dio Tallinn
 
-Maison Dio Tallinn is a music venue in Tallinn with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "VERTIGO x MAISON DIO - 015" on Fri, 9 Oct 2026.
+Maison Dio Tallinn is a music venue in Tallinn with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "VERTIGO x MAISON DIO - 015" on Fri, 9 Oct 2026.
 
 Maison Dio Tallinn is a music venue in Tallinn listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Quest, Janika Tenn and Todd Terry. See dates, start times and who's playing. Tallinn, 10143, Rävala pst 12, Harjumaakond, Estonia.
 
@@ -15,4 +15,4 @@ Maison Dio Tallinn is a music venue in Tallinn listed on soundcheck. 2 upcoming 
 
 Tallinn, 10143, Rävala pst 12, Harjumaakond, Estonia, Tallinn
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/maison-dio-tallinn/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/maison-dio-tallinn/)*

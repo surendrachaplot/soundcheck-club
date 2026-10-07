@@ -1,6 +1,6 @@
 # DECADANCE
 
-DECADANCE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Yellow House, Amsterdam on Fri, 9 Oct 2026.
+DECADANCE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Yellow House, Amsterdam on Fri, 9 Oct 2026.
 
 DECADANCE is a techno and trance artist, with 26 gigs on soundcheck across Amsterdam, Belgrade, Cologne and Copenhagen and 4 more. Often billed alongside Tiarnola, Alec Dienaar and Fran LF. Next up: Yellow House, Amsterdam on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DECADANCE is a techno and trance artist, with 26 gigs on soundcheck across Amste
 
 Tiarnola, Alec Dienaar, Fran LF
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/decadance/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/decadance/)*

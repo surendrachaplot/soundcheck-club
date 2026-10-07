@@ -1,6 +1,6 @@
 # Kieran Landwehr
 
-Kieran Landwehr is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
+Kieran Landwehr is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
 
 Kieran Landwehr is a house and techno artist based in Germany, with 20 gigs on soundcheck across Athens, Berlin and Tanzania. Often billed alongside Carmen Electro, Dreimal T and Handmade. Next up: Soundscapes Zanzi, Tanzania on Thu 21 Jan.
 
@@ -25,4 +25,4 @@ Kieran Landwehr is a house and techno artist based in Germany, with 20 gigs on s
 
 Carmen Electro, Dreimal T, Handmade
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kieranlandwehr/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kieranlandwehr/)*

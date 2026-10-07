@@ -1,14 +1,15 @@
 # Myrtle
 
-Myrtle is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at People's Leisure Club, Edinburgh on Tue, 20 Oct 2026.
+Myrtle is a Bass and Grime artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at People's Leisure Club, Edinburgh on Tue, 20 Oct 2026.
 
-Myrtle is a bass and dubstep artist based in United Kingdom, with 12 gigs on soundcheck across Edinburgh. Often billed alongside Lara Sinclair, ZO3 and Buckfast Barbie. Next up: People's Leisure Club, Edinburgh on Tue 20 Oct.
+Myrtle is a bass and grime artist based in United Kingdom, with 13 gigs on soundcheck across Edinburgh. Often billed alongside Buckfast Barbie, Lara Sinclair and ZO3. Next up: People's Leisure Club, Edinburgh on Tue 20 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 20 Oct 2026 | People's Leisure Club | Edinburgh |
+| Fri, 23 Oct 2026 | People's Leisure Club | Edinburgh |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Myrtle is a bass and dubstep artist based in United Kingdom, with 12 gigs on sou
 
 ## Shares bills with
 
-Lara Sinclair, ZO3 (1), Buckfast Barbie
+Buckfast Barbie, Lara Sinclair, ZO3 (1)
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myrtle/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myrtle/)*

@@ -1,6 +1,6 @@
 # Shockwave
 
-Shockwave is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Studio56, Paris on Sun, 4 Oct 2026.
+Shockwave is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Studio56, Paris on Sun, 4 Oct 2026.
 
 Shockwave is an electronic artist, with 10 gigs on soundcheck across Berlin and Paris. Often billed alongside Graftak, Antwerp and Drivr. Next up: Studio56, Paris on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Shockwave is an electronic artist, with 10 gigs on soundcheck across Berlin and 
 
 Graftak, Antwerp, Drivr
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shockwave/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shockwave/)*

@@ -1,6 +1,6 @@
 # DJ Ruffneck
 
-DJ Ruffneck is a Gabber and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
+DJ Ruffneck is a Gabber and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
 
 DJ Ruffneck is a gabber and hardcore artist, with 12 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Glasgow and 4 more. Often billed alongside Akemiö Grey, FLUCC and Gysèle. Next up: OST, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DJ Ruffneck is a gabber and hardcore artist, with 12 gigs on soundcheck across A
 
 Akemiö Grey, FLUCC, Gysèle
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djruffneck/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djruffneck/)*

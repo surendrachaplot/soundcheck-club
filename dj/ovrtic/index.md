@@ -1,6 +1,6 @@
 # Ovrtic
 
-Ovrtic is a Garage and UK Funky artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at NDR2 Red Room, London on Sat, 31 Oct 2026.
+Ovrtic is a Garage and UK Funky artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at NDR2 Red Room, London on Sat, 31 Oct 2026.
 
 Ovrtic is a garage and uk funky artist based in United Kingdom, with 22 gigs on soundcheck across London. Often billed alongside Mo Dardouk, Missy T and Belmar (UK). Next up: NDR2 Red Room, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ovrtic is a garage and uk funky artist based in United Kingdom, with 22 gigs on 
 
 Mo Dardouk, Missy T, Belmar (UK)
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ovrtic/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ovrtic/)*

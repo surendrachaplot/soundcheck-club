@@ -1,14 +1,13 @@
 # The Big Romance
 
-The Big Romance is a music venue in Dublin with 8 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Selectors Night" on Tue, 6 Oct 2026.
+The Big Romance is a music venue in Dublin with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Miya" on Wed, 7 Oct 2026.
 
-The Big Romance is a music venue in Dublin listed on soundcheck. 8 upcoming gigs, with line-ups including Bull Horris, Enclave, funksmack and Kaycee and 2 more. See dates, start times and who's playing. 98 Parnell St, Rotunda, Dublin, D01 T2T3, Ireland.
+The Big Romance is a music venue in Dublin listed on soundcheck. 7 upcoming gigs, with line-ups including Bull Horris, Enclave, funksmack and Kaycee and 2 more. See dates, start times and who's playing. 98 Parnell St, Rotunda, Dublin, D01 T2T3, Ireland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 6 Oct 2026 | Selectors Night |  |
 | Wed, 7 Oct 2026 | Miya |  |
 | Thu, 8 Oct 2026 | Young Hearts Run Free |  |
 | Fri, 9 Oct 2026 | Tadgh K b2b Bull Horris | Bull Horris, Tadhg K |
@@ -21,4 +20,4 @@ The Big Romance is a music venue in Dublin listed on soundcheck. 8 upcoming gigs
 
 98 Parnell St, Rotunda, Dublin, D01 T2T3, Ireland, Dublin
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-big-romance/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-big-romance/)*

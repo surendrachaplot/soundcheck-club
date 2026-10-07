@@ -1,6 +1,6 @@
 # Lastriko
 
-Lastriko is a music venue in Krakow with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "STRÓM" on Fri, 9 Oct 2026.
+Lastriko is a music venue in Krakow with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "STRÓM" on Fri, 9 Oct 2026.
 
 Lastriko is a music venue in Krakow listed on soundcheck. 2 upcoming gigs, with line-ups including ASEC, Oscar Thous and SA:FIR. See dates, start times and who's playing. Gołębia 6, 31-007 Kraków, Poland.
 
@@ -15,4 +15,4 @@ Lastriko is a music venue in Krakow listed on soundcheck. 2 upcoming gigs, with 
 
 Gołębia 6, 31-007 Kraków, Poland, Krakow
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/lastriko/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/lastriko/)*

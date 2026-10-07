@@ -1,14 +1,15 @@
 # Tuxedo
 
-Tuxedo is a Progressive House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Reddo Warsaw Club, Warsaw on Fri, 9 Oct 2026.
+Tuxedo is a Progressive House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Reddo Warsaw Club, Warsaw on Fri, 9 Oct 2026.
 
-Tuxedo is a progressive house and funk / soul artist based in Poland, with 6 gigs on soundcheck across Los Angeles, Tokyo and Warsaw. Often billed alongside Angelo Mike, Not Dead Yet and DUSS. Next up: Reddo Warsaw Club, Warsaw on Fri 9 Oct.
+Tuxedo is a progressive house and funk / soul artist based in Poland, with 7 gigs on soundcheck across Los Angeles, Tokyo and Warsaw. Often billed alongside Angelo Mike, Nick Warren and Not Dead Yet. Next up: Reddo Warsaw Club, Warsaw on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Reddo Warsaw Club | Warsaw |
+| Fri, 9 Oct 2026 | REDDO Warsaw | Warsaw |
 
 ## Recently played
 
@@ -20,6 +21,6 @@ Tuxedo is a progressive house and funk / soul artist based in Poland, with 6 gig
 
 ## Shares bills with
 
-Angelo Mike, Not Dead Yet, DUSS
+Angelo Mike, Nick Warren, Not Dead Yet
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tuxedo/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tuxedo/)*

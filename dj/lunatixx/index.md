@@ -1,6 +1,6 @@
 # LUNATIXX
 
-LUNATIXX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Mia Mao, Paris on Thu, 15 Oct 2026.
+LUNATIXX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Mia Mao, Paris on Thu, 15 Oct 2026.
 
 LUNATIXX is a techno and trance artist based in France, with 8 gigs on soundcheck across Berlin and Paris. Often billed alongside A2XBY, ANØMALY and BETÏSES. Next up: Mia Mao, Paris on Thu 15 Oct.
 
@@ -24,4 +24,4 @@ LUNATIXX is a techno and trance artist based in France, with 8 gigs on soundchec
 
 A2XBY, ANØMALY, BETÏSES
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lunatixx/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lunatixx/)*

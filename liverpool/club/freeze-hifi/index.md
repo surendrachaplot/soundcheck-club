@@ -1,14 +1,13 @@
 # Freeze HiFi
 
-Freeze HiFi is a music venue in Liverpool with 18 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "BEECHY & FRIENDS with Fairhurst" on Tue, 6 Oct 2026.
+Freeze HiFi is a music venue in Liverpool with 17 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Kirollus All Night Long [SOLD OUT]" on Fri, 9 Oct 2026.
 
-Freeze HiFi is a music venue in Liverpool listed on soundcheck. 18 upcoming gigs, with line-ups including Beechy, Fairhurst, Graeme Park and K-Klass and 2 more. See dates, start times and who's playing. 82 Wood Street, Liverpool, United Kingdom, L1 4DQ.
+Freeze HiFi is a music venue in Liverpool listed on soundcheck. 17 upcoming gigs, with line-ups including Beechy, Graeme Park, K-Klass and Kirollus and 2 more. See dates, start times and who's playing. 82 Wood Street, Liverpool, United Kingdom, L1 4DQ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 6 Oct 2026 | BEECHY & FRIENDS with Fairhurst | Beechy, Fairhurst |
 | Fri, 9 Oct 2026 | Kirollus All Night Long [SOLD OUT] | Kirollus |
 | Sat, 10 Oct 2026 | K-Klass at Freeze Project | K-Klass |
 | Tue, 13 Oct 2026 | BEECHY & FRIENDS with DK STEREO | Beechy |
@@ -18,9 +17,10 @@ Freeze HiFi is a music venue in Liverpool listed on soundcheck. 18 upcoming gigs
 | Sat, 31 Oct 2026 | Graeme Park, Todd Terry & More at Freeze Project | Graeme Park, Todd Terry |
 | Tue, 3 Nov 2026 | BEECHY & FRIENDS with Riggo | Beechy |
 | Tue, 10 Nov 2026 | LARA-RA & FRIENDS with Clara B | LARA-RA |
+| Tue, 17 Nov 2026 | BEECHY & FRIENDS with TBA | Beechy |
 
 ## Address
 
 82 Wood Street, Liverpool, United Kingdom, L1 4DQ, Liverpool
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/freeze-hifi/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/freeze-hifi/)*

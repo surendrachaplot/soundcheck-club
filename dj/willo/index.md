@@ -1,6 +1,6 @@
 # Willo
 
-Willo is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Knockdown Center, New York City on Wed, 7 Oct 2026.
+Willo is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Knockdown Center, New York City on Wed, 7 Oct 2026.
 
 Willo is a house and techno artist based in Australia, with 35 gigs on soundcheck across Amsterdam, Brisbane, Chicago and Dublin and 9 more. Often billed alongside 1tbsp, Ayebatonye and Duskus. Next up: Knockdown Center, New York City on Wed 7 Oct.
 
@@ -30,4 +30,4 @@ Willo is a house and techno artist based in Australia, with 35 gigs on soundchec
 
 1tbsp, Ayebatonye, Duskus
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willo/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willo/)*

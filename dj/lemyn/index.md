@@ -1,6 +1,6 @@
 # Lemyn
 
-Lemyn is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Freeze HiFi, Liverpool on Tue, 20 Oct 2026.
+Lemyn is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Freeze HiFi, Liverpool on Tue, 20 Oct 2026.
 
 Lemyn is a disco and house artist based in United Kingdom, with 44 gigs on soundcheck across Leeds, Liverpool and Manchester. Often billed alongside Sound of Drowning, All Trades and Beat Detective. Next up: Freeze HiFi, Liverpool on Tue 20 Oct.
 
@@ -25,4 +25,4 @@ Lemyn is a disco and house artist based in United Kingdom, with 44 gigs on sound
 
 Sound of Drowning, All Trades, Beat Detective
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lemyn/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lemyn/)*

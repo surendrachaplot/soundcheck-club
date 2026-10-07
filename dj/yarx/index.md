@@ -1,6 +1,6 @@
 # yarx
 
-yarx is a Jungle and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Various Locations in Innsbruck, Austria on Thu, 15 Oct 2026.
+yarx is a Jungle and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Various Locations in Innsbruck, Austria on Thu, 15 Oct 2026.
 
 yarx is a jungle and pop artist based in Turkey, with 19 gigs on soundcheck across Austria, Hamburg and Vienna. Often billed alongside neon.kotze, Antonia XM and Peter Puenktlich. Next up: TBA - Various Locations in Innsbruck, Austria on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ yarx is a jungle and pop artist based in Turkey, with 19 gigs on soundcheck acro
 
 neon.kotze, Antonia XM, Peter Puenktlich (2)
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yarx/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yarx/)*

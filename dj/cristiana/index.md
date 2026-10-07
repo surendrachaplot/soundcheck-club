@@ -1,6 +1,6 @@
 # CRISTI:ANA
 
-CRISTI:ANA is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Junction Underground, Toronto on Fri, 9 Oct 2026.
+CRISTI:ANA is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Junction Underground, Toronto on Fri, 9 Oct 2026.
 
 CRISTI:ANA is a techno and tech house artist based in Canada, with 40 gigs on soundcheck across Montreal and Toronto. Often billed alongside SAMM DU, VARON and Cozmic Cat. Next up: Junction Underground, Toronto on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ CRISTI:ANA is a techno and tech house artist based in Canada, with 40 gigs on so
 
 SAMM DU, VARON, Cozmic Cat
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiana/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiana/)*

@@ -1,14 +1,15 @@
 # Martyn Bootyspoon
 
-Martyn Bootyspoon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Paragon, New York City on Sat, 10 Oct 2026.
+Martyn Bootyspoon is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Paragon, New York City on Sat, 10 Oct 2026.
 
-Martyn Bootyspoon is a techno and house artist based in Canada, with 106 gigs on soundcheck across Austin, Berlin, Chicago and Denver and 19 more. Often billed alongside Goddollars, Jacques Greene and Finn. Next up: Paragon, New York City on Sat 10 Oct.
+Martyn Bootyspoon is a techno and house artist based in Canada, with 107 gigs on soundcheck across Austin, Berlin, Chicago and Denver and 19 more. Often billed alongside Goddollars, Jacques Greene and Finn. Next up: Paragon, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Paragon | New York City |
+| Fri, 30 Oct 2026 | 1088 rue Clark | Montreal |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Martyn Bootyspoon is a techno and house artist based in Canada, with 106 gigs on
 
 Goddollars, Jacques Greene, Finn
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martynbootyspoon/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martynbootyspoon/)*

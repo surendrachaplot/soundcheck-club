@@ -1,6 +1,6 @@
 # ÜBERKIKZ
 
-ÜBERKIKZ is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Fuse, Brussels on Sat, 10 Oct 2026.
+ÜBERKIKZ is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Fuse, Brussels on Sat, 10 Oct 2026.
 
 ÜBERKIKZ is a techno and house artist based in Russia, with 180 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside future.666, DJ Hyperdrive and fumi (DE). Next up: Fuse, Brussels on Sat 10 Oct.
 
@@ -36,4 +36,4 @@
 
 future.666, DJ Hyperdrive, fumi (DE)
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uberkikz/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uberkikz/)*

@@ -1,6 +1,6 @@
 # Bella Claxton
 
-Bella Claxton is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+Bella Claxton is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
 Bella Claxton is a techno and house artist based in Australia, with 127 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 27 more. Often billed alongside Faster Horses, Kyle Starkey and LAMMER. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
@@ -36,4 +36,4 @@ Bella Claxton is a techno and house artist based in Australia, with 127 gigs on 
 
 Faster Horses, Kyle Starkey, LAMMER
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaclaxton/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaclaxton/)*

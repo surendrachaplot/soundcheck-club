@@ -1,14 +1,13 @@
 # Mihnea Rog
 
-Mihnea Rog is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Mihnea Rog is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Department 184, Milan on Sat, 17 Oct 2026.
 
-Mihnea Rog is a techno and house artist based in Romania, with 20 gigs on soundcheck across Bucharest, Greece, London and Milan and 1 more. Often billed alongside Cap, DumitrEscu and BILA. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Mihnea Rog is a techno and house artist based in Romania, with 20 gigs on soundcheck across Bucharest, Greece, London and Milan and 1 more. Often billed alongside Cap, DumitrEscu and BILA. Next up: Department 184, Milan on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Sat, 17 Oct 2026 | Department 184 | Milan |
 | Thu, 5 Nov 2026 | One Resort | Tunisia |
 
@@ -27,4 +26,4 @@ Mihnea Rog is a techno and house artist based in Romania, with 20 gigs on soundc
 
 Cap, DumitrEscu, BILA
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mihnearog/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mihnearog/)*

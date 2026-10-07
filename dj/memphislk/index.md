@@ -1,6 +1,6 @@
 # Memphis LK
 
-Memphis LK is a House and Pop artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+Memphis LK is a House and Pop artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
 Memphis LK is a house and pop artist based in Australia, with 23 gigs on soundcheck across Auckland, Brisbane, Brussels and Edinburgh and 5 more. Often billed alongside Harry Hayes, Hasvat Informant and KSMBA. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
@@ -27,4 +27,4 @@ Memphis LK is a house and pop artist based in Australia, with 23 gigs on soundch
 
 Harry Hayes, Hasvat Informant, KSMBA
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memphislk/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memphislk/)*

@@ -1,6 +1,6 @@
 # Special Guest DJ
 
-Special Guest DJ is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Process PDX, Portland on Thu, 8 Oct 2026.
+Special Guest DJ is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Process PDX, Portland on Thu, 8 Oct 2026.
 
 Special Guest DJ is a techno and bass artist based in United States of America, with 73 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 19 more. Often billed alongside Ben Bondy, CCL and Vlada. Next up: Process PDX, Portland on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Special Guest DJ is a techno and bass artist based in United States of America, 
 
 Ben Bondy, CCL, Vlada
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguestdj/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguestdj/)*

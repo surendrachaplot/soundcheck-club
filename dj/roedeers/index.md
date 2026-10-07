@@ -1,6 +1,6 @@
 # Roe Deers
 
-Roe Deers is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 16 Oct 2026.
+Roe Deers is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 16 Oct 2026.
 
 Roe Deers is a house and techno artist, with 19 gigs on soundcheck across Bali, Barcelona, Berlin and Cologne and 8 more. Often billed alongside Aiste Regina, Rolling Dynamite and Clicklounge. Next up: Gallery 1986, Vilnius on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Roe Deers is a house and techno artist, with 19 gigs on soundcheck across Bali, 
 
 Aiste Regina, Rolling Dynamite, Clicklounge
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roedeers/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roedeers/)*

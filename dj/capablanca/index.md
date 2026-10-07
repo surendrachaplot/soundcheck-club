@@ -1,6 +1,6 @@
 # Capablanca
 
-Capablanca is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
+Capablanca is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
 
 Capablanca is a house and techno artist based in Germany, with 40 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bucharest and 6 more. Often billed alongside FFAN, CHIDA and CVLT. Next up: The Buzz, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Capablanca is a house and techno artist based in Germany, with 40 gigs on soundc
 
 FFAN, CHIDA, CVLT
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/capablanca/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/capablanca/)*

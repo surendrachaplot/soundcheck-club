@@ -1,6 +1,6 @@
 # Le Bain
 
-Le Bain is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "DANCE DANCE DANCE" on Wed, 7 Oct 2026.
+Le Bain is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "DANCE DANCE DANCE" on Wed, 7 Oct 2026.
 
 Le Bain is a music venue in New York City listed on soundcheck. 11 upcoming gigs, with line-ups including Anane, Curly Nez, DJ Moma and DJ TONY TOUCH and 2 more. See dates, start times and who's playing. 444 W 13th Street, New York, NY 10014.
 
@@ -23,4 +23,4 @@ Le Bain is a music venue in New York City listed on soundcheck. 11 upcoming gigs
 
 444 W 13th Street, New York, NY 10014, New York City
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-bain/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-bain/)*

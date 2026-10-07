@@ -1,14 +1,15 @@
 # J Wax
 
-J Wax is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Circus Osaka, Osaka on Fri, 30 Oct 2026.
+J Wax is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Circus Osaka, Osaka on Fri, 30 Oct 2026.
 
-J Wax is a techno and bass artist based in United Kingdom, with 72 gigs on soundcheck across Aberdeen, Berlin, Brussels and Cork and 12 more. Often billed alongside Dansa, Provost (UK) and Et Al. Next up: Circus Osaka, Osaka on Fri 30 Oct.
+J Wax is a techno and bass artist based in United Kingdom, with 73 gigs on soundcheck across Aberdeen, Berlin, Brussels and Cork and 12 more. Often billed alongside Dansa, Provost (UK) and Et Al. Next up: Circus Osaka, Osaka on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Circus Osaka | Osaka |
+| Sat, 31 Oct 2026 | Circus Tokyo | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ J Wax is a techno and bass artist based in United Kingdom, with 72 gigs on sound
 
 Dansa, Provost (UK), Et Al (1)
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jwax/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jwax/)*

@@ -1,13 +1,13 @@
 # Eclipse Club
 
-Eclipse Club is a music venue in Naples with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "Mutate: Winter Season Opening with: Ben Sims, Hashashin, SKITE" on Sat, 17 Oct 2026.
+Eclipse Club is a music venue in Naples with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "Mutate: Winter Season Opening with: Ben Sims, Hashashin, SKITE" on Sat, 17 Oct 2026.
 
-Eclipse Club is a music venue in Naples listed on soundcheck. 1 upcoming gig, with line-ups including Ben Sims and Hashashin. See dates, start times and who's playing.
+Eclipse Club is a music venue in Naples listed on soundcheck. 1 upcoming gig, with line-ups including Ben Sims, Hashashin and Skite. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Mutate: Winter Season Opening with: Ben Sims, Hashashin, SKITE | Ben Sims, Hashashin |
+| Sat, 17 Oct 2026 | Mutate: Winter Season Opening with: Ben Sims, Hashashin, SKITE | Ben Sims, Hashashin, Skite |
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/eclipse-club/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/eclipse-club/)*

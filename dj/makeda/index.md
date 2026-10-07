@@ -1,6 +1,6 @@
 # Makeda
 
-Makeda is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Dabadaba, North on Fri, 23 Oct 2026.
+Makeda is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Dabadaba, North on Fri, 23 Oct 2026.
 
 Makeda is a club and experimental artist, with 6 gigs on soundcheck across Melbourne, North and Sydney. Often billed alongside 404.zero, Coki and Con Pani. Next up: Dabadaba, North on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ Makeda is a club and experimental artist, with 6 gigs on soundcheck across Melbo
 
 404.zero, Coki, Con Pani
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makeda/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makeda/)*

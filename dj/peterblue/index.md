@@ -1,8 +1,8 @@
 # PETERBLUE
 
-PETERBLUE is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Club Cultural Lima, Peru on Wed, 7 Oct 2026.
+PETERBLUE is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Club Cultural Lima, Peru on Wed, 7 Oct 2026.
 
-PETERBLUE is a techno and trance artist based in Colombia, with 65 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Noise Mafia, Adrian Mills and Afem Syko. Next up: Club Cultural Lima, Peru on Wed 7 Oct.
+PETERBLUE is a techno and trance artist based in Colombia, with 66 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Noise Mafia, Adrian Mills and Afem Syko. Next up: Club Cultural Lima, Peru on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ PETERBLUE is a techno and trance artist based in Colombia, with 65 gigs on sound
 | Fri, 16 Oct 2026 | Sonora Bordeaux | Bordeaux |
 | Fri, 16 Oct 2026 | Parc des Expositions de Bordeaux lac | Bordeaux |
 | Sat, 24 Oct 2026 | H7 Warehouse | Amsterdam |
+| Fri, 13 Nov 2026 | Colour Factory | London |
 | Fri, 5 Mar 2027 | RSO.BERLIN | Berlin |
 
 ## Recently played
@@ -30,4 +31,4 @@ PETERBLUE is a techno and trance artist based in Colombia, with 65 gigs on sound
 
 Noise Mafia, Adrian Mills, Afem Syko
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterblue/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterblue/)*

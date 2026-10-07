@@ -1,6 +1,6 @@
 # DJ Howard
 
-DJ Howard is a Tech House and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Safestay Rooftop, Barcelona on Sat, 10 Oct 2026.
+DJ Howard is a Tech House and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Safestay Rooftop, Barcelona on Sat, 10 Oct 2026.
 
 DJ Howard is a tech house and pop artist based in Spain, with 18 gigs on soundcheck across Barcelona. Often billed alongside DJ DMG, bankrow and ARGAN. Next up: Safestay Rooftop, Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DJ Howard is a tech house and pop artist based in Spain, with 18 gigs on soundch
 
 DJ DMG, bankrow, ARGAN
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhoward/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhoward/)*

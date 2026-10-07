@@ -1,8 +1,8 @@
 # THELMA
 
-THELMA is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Lofi, Amsterdam on Sat, 24 Oct 2026.
+THELMA is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Lofi, Amsterdam on Sat, 24 Oct 2026.
 
-THELMA is a techno and house artist based in Switzerland, with 100 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 36 more. Often billed alongside Faster Horses, Skin On Skin and Helena Lauwaert. Next up: Lofi, Amsterdam on Sat 24 Oct.
+THELMA is a techno and house artist based in Switzerland, with 101 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 36 more. Often billed alongside Faster Horses, Skin On Skin and Helena Lauwaert. Next up: Lofi, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ THELMA is a techno and house artist based in Switzerland, with 100 gigs on sound
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Lofi | Amsterdam |
 | Sat, 24 Oct 2026 | Levenslang Amsterdam | Amsterdam |
+| Sat, 31 Oct 2026 | Kilomètre25 | Paris |
 | Sat, 21 Nov 2026 | Werkspoorkathedraal | Netherlands |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Sun, 28 Feb 2027 | Odonien | Cologne |
@@ -30,4 +31,4 @@ THELMA is a techno and house artist based in Switzerland, with 100 gigs on sound
 
 Faster Horses, Skin On Skin, Helena Lauwaert
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thelma/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thelma/)*

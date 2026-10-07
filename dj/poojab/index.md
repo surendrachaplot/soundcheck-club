@@ -1,13 +1,14 @@
 # Pooja B
 
-Pooja B is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Le Romandie, Lausanne on Sat, 17 Oct 2026.
+Pooja B is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Our Sake Club, Berlin on Thu, 15 Oct 2026.
 
-Pooja B is a techno and house artist based in India, with 69 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Frankfurt and 11 more. Often billed alongside Gioski, Cristian Marras and DE FEO. Next up: Le Romandie, Lausanne on Sat 17 Oct.
+Pooja B is a techno and house artist based in India, with 70 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Frankfurt and 11 more. Often billed alongside Gioski, Cristian Marras and DE FEO. Next up: Our Sake Club, Berlin on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 15 Oct 2026 | Our Sake Club | Berlin |
 | Sat, 17 Oct 2026 | Le Romandie | Lausanne |
 | Fri, 23 Oct 2026 | Tresor / Globus | Berlin |
 | Fri, 30 Oct 2026 | TRAUM | Antwerp |
@@ -27,4 +28,4 @@ Pooja B is a techno and house artist based in India, with 69 gigs on soundcheck 
 
 Gioski, Cristian Marras, DE FEO
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poojab/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poojab/)*

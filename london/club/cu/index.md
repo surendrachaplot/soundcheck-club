@@ -1,8 +1,8 @@
 # Cu
 
-Cu is a music venue in London with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Homerton YAROU" on Thu, 8 Oct 2026.
+Cu is a music venue in London with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Homerton YAROU" on Thu, 8 Oct 2026.
 
-Cu is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including babybear, Bisect, Cathal and ETHICS and 2 more. See dates, start times and who's playing. 574, 576 Kingsland Rd, London E8 4AP, United Kingdom.
+Cu is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including babybear, Bisect, Cathal and ETHICS and 2 more. See dates, start times and who's playing. 574, 576 Kingsland Rd, London E8 4AP, United Kingdom.
 
 ## What's on
 
@@ -14,10 +14,11 @@ Cu is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-u
 | Sat, 17 Oct 2026 | Grooves #17: Propulsion, Hickey, Tombs, Merlin, Renfer, Bisect [turntable-only, DnB & jungle] | Bisect, ETHICS, Hickey, Merlin (2) |
 | Sat, 24 Oct 2026 | clockwork: dj ladle, dj fynn, corchuelo, something good |  |
 | Fri, 30 Oct 2026 | Get On - London | Cathal, Horne, Luun |
+| Fri, 6 Nov 2026 | disco-nnect |  |
 | Fri, 13 Nov 2026 | Sonnee presents: SOLAA London | Sonnee |
 
 ## Address
 
 574, 576 Kingsland Rd, London E8 4AP, United Kingdom, London
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*

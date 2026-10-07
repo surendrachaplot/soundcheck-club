@@ -1,6 +1,6 @@
 # Tati Pimont
 
-Tati Pimont is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Fabriketa, Sao Paulo on Sat, 14 Nov 2026.
+Tati Pimont is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Fabriketa, Sao Paulo on Sat, 14 Nov 2026.
 
 Tati Pimont is a house and techno artist based in Brazil, with 21 gigs on soundcheck across Berlin, Brussels, Lisbon and London and 3 more. Often billed alongside Galvin, Hollanda and Adi (CO). Next up: Fabriketa, Sao Paulo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Tati Pimont is a house and techno artist based in Brazil, with 21 gigs on soundc
 
 Galvin, Hollanda (2), Adi (CO)
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tatipimont/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tatipimont/)*

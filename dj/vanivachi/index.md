@@ -1,14 +1,15 @@
 # Vani Vachi
 
-Vani Vachi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Mena Berlin, Berlin on Fri, 9 Oct 2026.
+Vani Vachi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Mena Berlin, Berlin on Fri, 9 Oct 2026.
 
-Vani Vachi is a techno and house artist, with 72 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 12 more. Often billed alongside Tweeman, Ruslan Mays and Nastya Muravyova. Next up: Mena Berlin, Berlin on Fri 9 Oct.
+Vani Vachi is a techno and house artist, with 73 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 13 more. Often billed alongside Tweeman, Ruslan Mays and Nastya Muravyova. Next up: Mena Berlin, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Mena Berlin | Berlin |
+| Fri, 20 Nov 2026 | Forge | Bucharest |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Vani Vachi is a techno and house artist, with 72 gigs on soundcheck across Amste
 
 Tweeman, Ruslan Mays, Nastya Muravyova
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanivachi/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanivachi/)*

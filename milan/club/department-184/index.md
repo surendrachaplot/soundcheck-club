@@ -1,8 +1,8 @@
 # Department 184
 
-Department 184 is a music venue in Milan with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "OKTOBERFAST Festival" on Fri, 9 Oct 2026.
+Department 184 is a music venue in Milan with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "OKTOBERFAST Festival" on Fri, 9 Oct 2026.
 
-Department 184 is a music venue in Milan listed on soundcheck. 7 upcoming gigs, with line-ups including Alex Brasile, AllaDerivaLontano, ALXV and Cap and 2 more. See dates, start times and who's playing. Via Varesina, 184, 20156 Milano MI.
+Department 184 is a music venue in Milan listed on soundcheck. 8 upcoming gigs, with line-ups including Alex Brasile, AllaDerivaLontano, ALXV and Cap and 2 more. See dates, start times and who's playing. Via Varesina, 184, 20156 Milano MI.
 
 ## What's on
 
@@ -12,6 +12,7 @@ Department 184 is a music venue in Milan listed on soundcheck. 7 upcoming gigs, 
 | Fri, 9 Oct 2026 | CLUBBERS FACTORY w// FEEL ROUGE | Cristina Lazic, Eternal Love |
 | Fri, 9 Oct 2026 | BC4C x FEEL ROUGE w// Cristina Lazic & Eternal Love | Cristina Lazic, Eternal Love |
 | Sat, 10 Oct 2026 | CLUBBERS FACTORY - 10th october W// OFFUNIVERSE | TWENTY SIX |
+| Sun, 11 Oct 2026 | IDOL -AFTER PARTY MILANO /After the last track | Simon T, The Robinson |
 | Fri, 16 Oct 2026 | INNER CIRCLE - / RUIZ OSC1 | FRANCESCO GUZZO, MISERIA, Münich, RUIZ OSC1 |
 | Sat, 17 Oct 2026 | DUB x SNRS | Cap, Mihnea Rog, Simon T, Tizz |
 | Sun, 18 Oct 2026 | Technocrazia Season Opening - 12H All Day Long | ALXV, Alex Brasile, AllaDerivaLontano, DIVY, Daichi Wada, Fran LF, HIBA.KNTK, Kora Lyssa, Rorschack, Spad |
@@ -20,4 +21,4 @@ Department 184 is a music venue in Milan listed on soundcheck. 7 upcoming gigs, 
 
 Via Varesina, 184, 20156 Milano MI, Milan
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/department-184/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/department-184/)*

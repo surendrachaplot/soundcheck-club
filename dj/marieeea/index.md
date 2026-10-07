@@ -1,8 +1,8 @@
 # MARIEEEA
 
-MARIEEEA is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at E1, London on Fri, 16 Oct 2026.
+MARIEEEA is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at E1, London on Fri, 16 Oct 2026.
 
-MARIEEEA is a techno and trance artist based in United Kingdom, with 43 gigs on soundcheck across Barcelona, Berlin, Brighton and Bucharest and 5 more. Often billed alongside Sohtech, CLTX and DEBBIE (IT). Next up: E1, London on Fri 16 Oct.
+MARIEEEA is a techno and trance artist based in United Kingdom, with 43 gigs on soundcheck across Barcelona, Berlin, Brighton and Bucharest and 5 more. Often billed alongside Sohtech, DEBBIE (IT) and Elle Rêve. Next up: E1, London on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ MARIEEEA is a techno and trance artist based in United Kingdom, with 43 gigs on 
 
 ## Shares bills with
 
-Sohtech, CLTX, DEBBIE (IT)
+Sohtech, DEBBIE (IT), Elle Rêve
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marieeea/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marieeea/)*

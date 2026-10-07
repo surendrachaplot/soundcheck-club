@@ -1,8 +1,8 @@
 # Drunken Kong
 
-Drunken Kong is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at WOMB, Tokyo on Sat, 17 Oct 2026.
+Drunken Kong is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at WOMB, Tokyo on Sat, 17 Oct 2026.
 
-Drunken Kong is a techno and house artist based in Japan, with 143 gigs on soundcheck across Amsterdam, Bali, Bangkok and Berlin and 18 more. Often billed alongside RINALUCKY, Shogo Ito and U:ICHI. Next up: WOMB, Tokyo on Sat 17 Oct.
+Drunken Kong is a techno and house artist based in Japan, with 144 gigs on soundcheck across Amsterdam, Bali, Bangkok and Berlin and 18 more. Often billed alongside Shogo Ito, RINALUCKY and U:ICHI. Next up: WOMB, Tokyo on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Drunken Kong is a techno and house artist based in Japan, with 143 gigs on sound
 | Sat, 17 Oct 2026 | WOMB | Tokyo |
 | Sat, 24 Oct 2026 | elsewhere | Brisbane |
 | Sat, 31 Oct 2026 | VENT | Tokyo |
+| Sun, 8 Nov 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Drunken Kong is a techno and house artist based in Japan, with 143 gigs on sound
 
 ## Shares bills with
 
-RINALUCKY, Shogo Ito, U:ICHI
+Shogo Ito, RINALUCKY, U:ICHI
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drunkenkong/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drunkenkong/)*

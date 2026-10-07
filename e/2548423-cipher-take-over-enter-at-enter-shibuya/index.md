@@ -1,6 +1,6 @@
 # cipher take over ENTER at Enter Shibuya
 
-cipher take over ENTER at Enter Shibuya on Fri 16 Oct, Tokyo. 7 artists: Dan-neo, DANDAN, Finsent C and KMG and 3 more. Techno. See the line-up on soundcheck.
+cipher take over ENTER at Enter Shibuya on Fri 16 Oct, Tokyo. 6 artists: Dan-neo, DANDAN, Finsent C and KMG and 2 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,7 +14,6 @@ cipher take over ENTER at Enter Shibuya on Fri 16 Oct, Tokyo. 7 artists: Dan-neo
 - DANDAN
 - Finsent C
 - KMG
-- Marco Yanes
 - TEI TEI
 - UG (1)
 

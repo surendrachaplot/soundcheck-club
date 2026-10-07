@@ -1,6 +1,6 @@
 # PTMC
 
-PTMC is a electronic artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA, Perth on Sat, 10 Oct 2026.
+PTMC is a electronic artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, Perth on Sat, 10 Oct 2026.
 
 PTMC is an electronic artist, with 3 gigs on soundcheck across Hobart and Perth. Often billed alongside GiGi FM, Alex Morris and Amphi. Next up: TBA, Perth on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ PTMC is an electronic artist, with 3 gigs on soundcheck across Hobart and Perth.
 
 GiGi FM, Alex Morris, Amphi
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ptmc/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ptmc/)*

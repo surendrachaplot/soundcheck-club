@@ -1,8 +1,8 @@
 # Palais
 
-Palais is a music venue in London with 18 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Origins x Small Talk: Alex Kassian & Sinéad" on Fri, 9 Oct 2026.
+Palais is a music venue in London with 20 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Origins x Small Talk: Alex Kassian & Sinéad" on Fri, 9 Oct 2026.
 
-Palais is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including Adi (CO), Alex Kassian, Aurora Halal and Axel Boman and 2 more. See dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
+Palais is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including Adi (CO), Alex Kassian, Aurora Halal and Axel Boman and 2 more. See dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
 ## What's on
 
@@ -11,7 +11,7 @@ Palais is a music venue in London listed on soundcheck. 18 upcoming gigs, with l
 | Fri, 9 Oct 2026 | Origins x Small Talk: Alex Kassian & Sinéad | Alex Kassian, Sinéad |
 | Sat, 10 Oct 2026 | Palais ...IsBurning  |  |
 | Sat, 10 Oct 2026 | A Day with Tobiahs |  |
-| Fri, 16 Oct 2026 | Palais: Conducta b2b DJ SWISHA (All Night Long) | Conducta, DJ SWISHA |
+| Fri, 16 Oct 2026 | Palais: Conducta b2b DJ SWISHA (All Night Long) [SOLD OUT] | Conducta, DJ SWISHA |
 | Sat, 17 Oct 2026 | BASHKKA presents INVIGORATE A.M. with GIDEÖN & Pancratio   | BASHKKA, GIDEÖN, Pancratio |
 | Fri, 23 Oct 2026 | Origins: Hamish & Toby (All Night Long) | Hamish & Toby |
 | Sat, 24 Oct 2026 | Palais: Aurora Halal (All Night Long) | Aurora Halal |
@@ -23,4 +23,4 @@ Palais is a music venue in London listed on soundcheck. 18 upcoming gigs, with l
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*

@@ -1,8 +1,8 @@
 # Delano Legito
 
-Delano Legito is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Lantaren/Venster, Rotterdam on Sat, 10 Oct 2026.
+Delano Legito is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Lantaren/Venster, Rotterdam on Sat, 10 Oct 2026.
 
-Delano Legito is a techno and house artist based in Netherlands, with 106 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Julie, Amotik and Serti. Next up: Lantaren/Venster, Rotterdam on Sat 10 Oct.
+Delano Legito is a techno and house artist based in Netherlands, with 107 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Julie, Amotik and Serti. Next up: Lantaren/Venster, Rotterdam on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Delano Legito is a techno and house artist based in Netherlands, with 106 gigs o
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Lantaren/Venster | Rotterdam |
 | Sat, 24 Oct 2026 | De Fik Garden | Amsterdam |
+| Fri, 6 Nov 2026 | KHIDI | Tbilisi |
 | Fri, 27 Nov 2026 | Astoria | Turin |
 
 ## Recently played
@@ -27,4 +28,4 @@ Delano Legito is a techno and house artist based in Netherlands, with 106 gigs o
 
 Julie, Amotik, Serti
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delanolegito/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delanolegito/)*

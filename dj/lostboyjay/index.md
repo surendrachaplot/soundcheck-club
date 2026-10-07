@@ -1,6 +1,6 @@
 # LOSTBOYJAY
 
-LOSTBOYJAY is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Twenty Two, Dublin on Fri, 9 Oct 2026.
+LOSTBOYJAY is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Twenty Two, Dublin on Fri, 9 Oct 2026.
 
 LOSTBOYJAY is a house and deep house artist based in Canada, with 22 gigs on soundcheck across Austin, Brisbane, Chicago and Denver and 9 more. Often billed alongside Keys N Krates, Andrew Pololos and Armand Van Helden. Next up: Twenty Two, Dublin on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ LOSTBOYJAY is a house and deep house artist based in Canada, with 22 gigs on sou
 
 Keys N Krates, Andrew Pololos, Armand Van Helden
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lostboyjay/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lostboyjay/)*

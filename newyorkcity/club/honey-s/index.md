@@ -1,6 +1,6 @@
 # Honey's
 
-Honey's is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Village Hidden in Sound" on Fri, 9 Oct 2026.
+Honey's is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Village Hidden in Sound" on Fri, 9 Oct 2026.
 
 Honey's is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Amelia Holt, ceviché, DJ Freedem and DJ girlcrush and 2 more. See dates, start times and who's playing. 93 Scott Avenue, Brooklyn, NY 11237.
 
@@ -19,4 +19,4 @@ Honey's is a music venue in New York City listed on soundcheck. 6 upcoming gigs,
 
 93 Scott Avenue, Brooklyn, NY 11237, New York City
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/honey-s/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/honey-s/)*

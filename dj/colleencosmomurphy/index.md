@@ -1,8 +1,8 @@
 # Colleen 'Cosmo' Murphy
 
-Colleen 'Cosmo' Murphy is a Disco and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Green Room NYC, New York City on Fri, 9 Oct 2026.
+Colleen 'Cosmo' Murphy is a Disco and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Green Room NYC, New York City on Fri, 9 Oct 2026.
 
-Colleen 'Cosmo' Murphy is a disco and house artist based in United Kingdom, with 89 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 29 more. Often billed alongside Horse Meat Disco, Francois K and Love Injection. Next up: Green Room NYC, New York City on Fri 9 Oct.
+Colleen 'Cosmo' Murphy is a disco and house artist based in United Kingdom, with 90 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 29 more. Often billed alongside Horse Meat Disco, Francois K and Love Injection. Next up: Green Room NYC, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Colleen 'Cosmo' Murphy is a disco and house artist based in United Kingdom, with
 | Sat, 17 Oct 2026 | Cobalt Studios | Newcastle |
 | Fri, 23 Oct 2026 | The Golden Lion | Manchester |
 | Fri, 6 Nov 2026 | The Fox and Firkin | London |
+| Sat, 7 Nov 2026 | La Paloma | Barcelona |
 | Tue, 10 Nov 2026 | Hidden Grooves | London |
 | Sat, 14 Nov 2026 | Hope House | Leeds |
 | Sat, 26 Dec 2026 | TBA - Fortim CE | Brazil |
@@ -31,4 +32,4 @@ Colleen 'Cosmo' Murphy is a disco and house artist based in United Kingdom, with
 
 Horse Meat Disco, Francois K, Love Injection
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colleencosmomurphy/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colleencosmomurphy/)*

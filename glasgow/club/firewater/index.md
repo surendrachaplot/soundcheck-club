@@ -1,6 +1,6 @@
 # Firewater
 
-Firewater is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "BRAE 001" on Sat, 17 Oct 2026.
+Firewater is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "BRAE 001" on Sat, 17 Oct 2026.
 
 Firewater is a music venue in Glasgow listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. G2 3HW, 341 Sauchiehall Street,.
 
@@ -14,4 +14,4 @@ Firewater is a music venue in Glasgow listed on soundcheck. 1 upcoming gig. See 
 
 G2 3HW, 341 Sauchiehall Street,, Glasgow
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/firewater/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/firewater/)*

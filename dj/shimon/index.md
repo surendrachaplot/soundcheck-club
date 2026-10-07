@@ -1,6 +1,6 @@
 # Shimon
 
-Shimon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 16 Oct 2026.
+Shimon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 16 Oct 2026.
 
 Shimon is a house and techno artist based in United Kingdom, with 41 gigs on soundcheck across Amsterdam, Berlin, Geneva and Hamburg and 7 more. Often billed alongside Farry, Edouard! and Benny L. Next up: Gallery 1986, Vilnius on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Shimon is a house and techno artist based in United Kingdom, with 41 gigs on sou
 
 Farry, Edouard!, Benny L
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shimon/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shimon/)*

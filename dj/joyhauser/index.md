@@ -1,6 +1,6 @@
 # Joyhauser
 
-Joyhauser is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Palladium Riga, Riga on Fri, 9 Oct 2026.
+Joyhauser is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Palladium Riga, Riga on Fri, 9 Oct 2026.
 
 Joyhauser is a techno and trance artist based in Belgium, with 125 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Juliet Fox, Pan-Pot and Bart Skils. Next up: Palladium Riga, Riga on Fri 9 Oct.
 
@@ -31,4 +31,4 @@ Joyhauser is a techno and trance artist based in Belgium, with 125 gigs on sound
 
 Juliet Fox, Pan-Pot, Bart Skils
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joyhauser/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joyhauser/)*

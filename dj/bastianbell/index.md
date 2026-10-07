@@ -1,6 +1,6 @@
 # Bastian Bell
 
-Bastian Bell is a Hip-Hop and R&B artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Revo Rooftop, Mexico City on Sat, 31 Oct 2026.
+Bastian Bell is a Hip-Hop and R&B artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Revo Rooftop, Mexico City on Sat, 31 Oct 2026.
 
 Bastian Bell is a hip-hop and r&b artist based in Mexico, with 60 gigs on soundcheck across Mexico City and San Francisco/Oakland. Often billed alongside Dj Dizam, Tchakomi and Black Daria. Next up: Revo Rooftop, Mexico City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Bastian Bell is a hip-hop and r&b artist based in Mexico, with 60 gigs on soundc
 
 Dj Dizam, Tchakomi, Black Daria
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bastianbell/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bastianbell/)*

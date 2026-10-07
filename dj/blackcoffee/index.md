@@ -1,6 +1,6 @@
 # Black Coffee
 
-Black Coffee is a Afro House and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
+Black Coffee is a Afro House and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
 
 Black Coffee is an afro house and house artist based in South Africa, with 281 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Damian Lazarus, Paul Reynolds and Skepta. Next up: Hï Ibiza, Ibiza on Fri 9 Oct.
 
@@ -12,7 +12,7 @@ Black Coffee is an afro house and house artist based in South Africa, with 281 g
 | Sat, 17 Oct 2026 | Pacha New York | New York City |
 | Sat, 17 Oct 2026 | Pacha New York | New York City |
 | Wed, 21 Oct 2026 | Ziggo Dome | Amsterdam |
-| Fri, 30 Oct 2026 | TBA - Austin, Texas Open Air | Austin |
+| Fri, 30 Oct 2026 | Carson Creek Ranch | Austin |
 
 ## Recently played
 
@@ -29,4 +29,4 @@ Black Coffee is an afro house and house artist based in South Africa, with 281 g
 
 Damian Lazarus, Paul Reynolds, Skepta
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcoffee/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcoffee/)*

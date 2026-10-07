@@ -1,6 +1,6 @@
 # Luc (1)
 
-Luc (1) is a Electronica and Dancehall artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Club NYX, Amsterdam on Sat, 10 Oct 2026.
+Luc (1) is a Electronica and Dancehall artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Club NYX, Amsterdam on Sat, 10 Oct 2026.
 
 Luc is an electronica and dancehall artist based in Italy, with 25 gigs on soundcheck across Amsterdam, Barcelona, Berlin and London and 7 more. Often billed alongside Brasi, Lumiere and Marcolino. Next up: Club NYX, Amsterdam on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Luc is an electronica and dancehall artist based in Italy, with 25 gigs on sound
 
 Brasi, Lumiere, Marcolino
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luc-1/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luc-1/)*

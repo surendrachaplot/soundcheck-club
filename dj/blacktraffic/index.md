@@ -1,6 +1,6 @@
 # Black Traffic
 
-Black Traffic is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Tempo, Glasgow on Sat, 10 Oct 2026.
+Black Traffic is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Tempo, Glasgow on Sat, 10 Oct 2026.
 
 Black Traffic is a techno and hardcore artist based in Ireland, with 79 gigs on soundcheck across Aberdeen, Amsterdam, Belfast and Birmingham and 13 more. Often billed alongside blk., Jezza & Jod and Jason Cluff. Next up: Tempo, Glasgow on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Black Traffic is a techno and hardcore artist based in Ireland, with 79 gigs on 
 
 blk., Jezza & Jod, Jason Cluff
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktraffic/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktraffic/)*

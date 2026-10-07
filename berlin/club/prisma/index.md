@@ -1,14 +1,13 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Klubkneipe x Tuesday Ritual - Speedconnection with yourself and others" on Tue, 6 Oct 2026.
+Prisma is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Sssmile Afterhour VINYL SPECIAL" on Thu, 8 Oct 2026.
 
-Prisma is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including Agustin Mendez, D.Sociation, DJ Kodah and Domovnika and 2 more. See dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
+Prisma is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Agustin Mendez, D.Sociation, DJ Kodah and Domovnika and 2 more. See dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 6 Oct 2026 | Klubkneipe x Tuesday Ritual - Speedconnection with yourself and others | Domovnika, KÜRÜF, RÄK, Tosha, Vantavision, Zaphy |
 | Thu, 8 Oct 2026 | Sssmile Afterhour VINYL SPECIAL | LNZ. |
 | Sun, 11 Oct 2026 | Klubkneipe x House Cats | Kalimanda |
 | Tue, 13 Oct 2026 | Klubkneipe x Tuesday Ritual - Zine Workshop & Dance with Friends Takeover | Shoplifter, Thys |
@@ -18,9 +17,10 @@ Prisma is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with l
 | Thu, 22 Oct 2026 | Sssmile Afterhour | Kalimanda |
 | Sun, 25 Oct 2026 | Klubkneipe x Resonance | Emilion Dollar Baby, Kazuki Takahashi |
 | Tue, 27 Oct 2026 | Klubkneipe x Tuesday Ritual - Tattoo Flash Day | DJ Kodah, Domovnika, Michael Marchi |
+| Thu, 29 Oct 2026 | Sssmile Instagram | Kazuki Takahashi, LeoSkiDj, The Shredder |
 
 ## Address
 
 Brückenstraße 1, 10179 Berlin, Berlin
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*

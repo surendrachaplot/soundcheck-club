@@ -1,6 +1,6 @@
 # TBA - ROOM THE CLUB 
 
-TBA - ROOM THE CLUB  is a music venue in Valencia with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "H4T3R VALENCIA w KRUELTY & BEN TECHY" on Thu, 8 Oct 2026.
+TBA - ROOM THE CLUB  is a music venue in Valencia with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "H4T3R VALENCIA w FUMI & BEN TECHY" on Thu, 8 Oct 2026.
 
 TBA - ROOM THE CLUB  is a music venue in Valencia listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ TBA - ROOM THE CLUB  is a music venue in Valencia listed on soundcheck. 1 upcomi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | H4T3R VALENCIA w KRUELTY & BEN TECHY |  |
+| Thu, 8 Oct 2026 | H4T3R VALENCIA w FUMI & BEN TECHY |  |
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/tba-room-the-club/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/tba-room-the-club/)*

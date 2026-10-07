@@ -1,8 +1,8 @@
 # Two Tribes CAMPFIRE
 
-Two Tribes CAMPFIRE is a music venue in London with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "DSTRICT" on Sat, 10 Oct 2026.
+Two Tribes CAMPFIRE is a music venue in London with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "DSTRICT" on Sat, 10 Oct 2026.
 
-Two Tribes CAMPFIRE is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Agility, B2B The Movement, Blake and Bryn Brax and 2 more. See dates, start times and who's playing. Tile Yard Studios, Tileyard Road, Kings Cross, London N7 9AH.
+Two Tribes CAMPFIRE is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including A.N.T, Agility, B2B The Movement and Blake and 2 more. See dates, start times and who's playing. Tile Yard Studios, Tileyard Road, Kings Cross, London N7 9AH.
 
 ## What's on
 
@@ -11,10 +11,10 @@ Two Tribes CAMPFIRE is a music venue in London listed on soundcheck. 4 upcoming 
 | Sat, 10 Oct 2026 | DSTRICT | B2B The Movement, Rhiavas, cZ (UK) |
 | Fri, 16 Oct 2026 | NOUGHTIES - House, Garage, Trance, Euro-Dance - FREE | Glitch (LDN), Kitsch, POLLY (UK), Px (UK) |
 | Fri, 30 Oct 2026 | Red Eye - Open Air Day Party | Cecilia Ena, Jesus RedSoul, Tate Tosto |
-| Sat, 31 Oct 2026 | Ghost Notes - Halloween Day Party | Agility, Blake (2), Bryn Brax, Fracture, Whatsname, zoneSL |
+| Sat, 31 Oct 2026 | Ghost Notes - Halloween All-Dayer - Coalition x After Hours x TBA | A.N.T, Agility, Blake (2), Bryn Brax, Fracture, Whatsname, zoneSL |
 
 ## Address
 
 Tile Yard Studios, Tileyard Road, Kings Cross, London N7 9AH, London
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-tribes-campfire/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-tribes-campfire/)*

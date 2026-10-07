@@ -1,6 +1,6 @@
 # R-ODERICK
 
-R-ODERICK is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at 1point4hertz, Toronto on Sat, 24 Oct 2026.
+R-ODERICK is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at 1point4hertz, Toronto on Sat, 24 Oct 2026.
 
 R-ODERICK is a techno and house artist based in Canada, with 64 gigs on soundcheck across Berlin, Montreal and Toronto. Often billed alongside Stashole, Venus in Foil and Adam X. Next up: 1point4hertz, Toronto on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ R-ODERICK is a techno and house artist based in Canada, with 64 gigs on soundche
 
 Stashole, Venus in Foil, Adam X
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r-oderick/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r-oderick/)*

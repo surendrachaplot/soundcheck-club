@@ -1,6 +1,6 @@
 # Southbank Warehouse
 
-Southbank Warehouse is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "L8LOADER" on Fri, 9 Oct 2026.
+Southbank Warehouse is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "L8LOADER" on Fri, 9 Oct 2026.
 
 Southbank Warehouse is a music venue in Sheffield listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 90 Effingham Road, Sheffield, S4 7YS.
 
@@ -14,4 +14,4 @@ Southbank Warehouse is a music venue in Sheffield listed on soundcheck. 1 upcomi
 
 90 Effingham Road, Sheffield, S4 7YS, Sheffield
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/southbank-warehouse/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/southbank-warehouse/)*

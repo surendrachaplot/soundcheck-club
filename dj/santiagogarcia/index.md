@@ -1,6 +1,6 @@
 # Santiago Garcia
 
-Santiago Garcia is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 31 Oct 2026.
+Santiago Garcia is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 31 Oct 2026.
 
 Santiago Garcia is a deep house and house artist based in Argentina, with 46 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Chicago and 13 more. Often billed alongside Bedouin, Amiti and Avangart Tabldot. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Santiago Garcia is a deep house and house artist based in Argentina, with 46 gig
 
 Bedouin, Amiti, Avangart Tabldot
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santiagogarcia/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santiagogarcia/)*

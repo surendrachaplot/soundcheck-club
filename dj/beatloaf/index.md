@@ -1,6 +1,6 @@
 # BeatLoaf
 
-BeatLoaf is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - MJ’s North End Ice Cream, Detroit on Fri, 9 Oct 2026.
+BeatLoaf is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - MJ’s North End Ice Cream, Detroit on Fri, 9 Oct 2026.
 
 BeatLoaf is a house and techno artist based in United States of America, with 48 gigs on soundcheck across Chicago, Detroit and Leeds. Often billed alongside RIRKIN, Carl Bottles and Jeff Garcia. Next up: TBA - MJ’s North End Ice Cream, Detroit on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ BeatLoaf is a house and techno artist based in United States of America, with 48
 
 RIRKIN, Carl Bottles, Jeff Garcia
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beatloaf/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beatloaf/)*

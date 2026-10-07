@@ -1,6 +1,6 @@
 # Marco Strous
 
-Marco Strous is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Q Nightclub, Seattle on Sat, 10 Oct 2026.
+Marco Strous is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Q Nightclub, Seattle on Sat, 10 Oct 2026.
 
 Marco Strous is a tech house and house artist based in Portugal, with 42 gigs on soundcheck across Austin, Boston, Chicago and Houston and 14 more. Often billed alongside Chris Lake, MPH and Jackie Hollander. Next up: Q Nightclub, Seattle on Sat 10 Oct.
 
@@ -31,4 +31,4 @@ Marco Strous is a tech house and house artist based in Portugal, with 42 gigs on
 
 Chris Lake, MPH (1), Jackie Hollander
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcostrous/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcostrous/)*

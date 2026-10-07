@@ -1,6 +1,6 @@
 # Adam Vandal
 
-Adam Vandal is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 10 Oct 2026.
+Adam Vandal is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 10 Oct 2026.
 
 Adam Vandal is an acid and techno artist, with 13 gigs on soundcheck across Berlin, Geneva, Ghent and Prague and 1 more. Often billed alongside Midirama, Bazooka Joe and 23Shayatin. Next up: PKH Warehouse, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Adam Vandal is an acid and techno artist, with 13 gigs on soundcheck across Berl
 
 Midirama, Bazooka Joe, 23Shayatin
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamvandal/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamvandal/)*

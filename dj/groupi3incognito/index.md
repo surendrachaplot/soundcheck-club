@@ -1,6 +1,6 @@
 # groupi3incognito
 
-groupi3incognito is a Reggaeton and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Orange Room, London on Sat, 24 Oct 2026.
+groupi3incognito is a Reggaeton and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at The Orange Room, London on Sat, 24 Oct 2026.
 
 groupi3incognito is a reggaeton and latin bass artist based in United Kingdom, with 7 gigs on soundcheck across Bristol and London. Often billed alongside Coren, EWASOUNDZ and Ivicore. Next up: The Orange Room, London on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ groupi3incognito is a reggaeton and latin bass artist based in United Kingdom, w
 
 Coren, EWASOUNDZ, Ivicore
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groupi3incognito/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groupi3incognito/)*

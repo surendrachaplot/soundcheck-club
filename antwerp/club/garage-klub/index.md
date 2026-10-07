@@ -1,6 +1,6 @@
 # Garage Klub
 
-Garage Klub is a music venue in Antwerp with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "ZONNEWENDE x GARAGE" on Fri, 9 Oct 2026.
+Garage Klub is a music venue in Antwerp with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "ZONNEWENDE x GARAGE" on Fri, 9 Oct 2026.
 
 Garage Klub is a music venue in Antwerp listed on soundcheck. 3 upcoming gigs, with line-ups including 2ManyDJs, Ben Techy, BØĘRY and Cassius and 2 more. See dates, start times and who's playing. Noorderlaan 72, 2030 Antwerpen, Belgium.
 
@@ -16,4 +16,4 @@ Garage Klub is a music venue in Antwerp listed on soundcheck. 3 upcoming gigs, w
 
 Noorderlaan 72, 2030 Antwerpen, Belgium, Antwerp
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/garage-klub/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/garage-klub/)*

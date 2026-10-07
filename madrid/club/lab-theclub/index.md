@@ -1,6 +1,6 @@
 # LAB theCLUB
 
-LAB theCLUB is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "BRNT with Adam Beyer" on Fri, 9 Oct 2026.
+LAB theCLUB is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "BRNT with Adam Beyer" on Fri, 9 Oct 2026.
 
 LAB theCLUB is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including Adam Beyer, Claptone, Djammin and Joris Voorn and 2 more. See dates, start times and who's playing. Estación de Chamartín. Primera planta s/n 28036 Madrid.
 
@@ -22,4 +22,4 @@ LAB theCLUB is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, wi
 
 Estación de Chamartín. Primera planta s/n 28036 Madrid, Madrid
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*

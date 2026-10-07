@@ -1,6 +1,6 @@
 # Slumdog
 
-Slumdog is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Glamorama, Melbourne on Sat, 10 Oct 2026.
+Slumdog is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Glamorama, Melbourne on Sat, 10 Oct 2026.
 
 Slumdog is a house and electronica artist based in Australia, with 59 gigs on soundcheck across Melbourne. Often billed alongside Joey Coco, dozie (uk) and Kailyn Crabbe. Next up: Glamorama, Melbourne on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Slumdog is a house and electronica artist based in Australia, with 59 gigs on so
 
 Joey Coco, dozie (uk), Kailyn Crabbe
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slumdog/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slumdog/)*

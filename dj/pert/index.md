@@ -1,6 +1,6 @@
 # PERT
 
-PERT is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 17 Oct 2026.
+PERT is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 17 Oct 2026.
 
 PERT is a techno and electronica artist based in Argentina, with 35 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Vienna. Often billed alongside JXXXO, Beau Didier and Forello. Next up: Lokschuppen Berlin, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ PERT is a techno and electronica artist based in Argentina, with 35 gigs on soun
 
 JXXXO, Beau Didier, Forello
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pert/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pert/)*

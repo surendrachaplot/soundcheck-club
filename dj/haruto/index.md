@@ -1,6 +1,6 @@
 # HARUTO
 
-HARUTO is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Red Bar, Tokyo on Wed, 7 Oct 2026.
+HARUTO is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Red Bar, Tokyo on Wed, 7 Oct 2026.
 
 HARUTO is a house and techno artist based in Japan, with 107 gigs on soundcheck across Osaka and Tokyo. Often billed alongside YASUHARU MOTOMIYA, CALPISS and KUBOTA. Next up: Red Bar, Tokyo on Wed 7 Oct.
 
@@ -27,4 +27,4 @@ HARUTO is a house and techno artist based in Japan, with 107 gigs on soundcheck 
 
 YASUHARU MOTOMIYA, CALPISS, KUBOTA
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haruto/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haruto/)*

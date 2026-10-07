@@ -1,6 +1,6 @@
 # Audiodrome
 
-Audiodrome is a music venue in Turin with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "DYEN for OVER PARTY" on Fri, 9 Oct 2026.
+Audiodrome is a music venue in Turin with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "DYEN for OVER PARTY" on Fri, 9 Oct 2026.
 
 Audiodrome is a music venue in Turin listed on soundcheck. 6 upcoming gigs, with line-ups including DYEN, Enrico Sangiuliano, Gandalf and Luca Agnelli and 2 more. See dates, start times and who's playing. Strada Mongina 9, 10024 Moncalieri (TO), Italy.
 
@@ -19,4 +19,4 @@ Audiodrome is a music venue in Turin listed on soundcheck. 6 upcoming gigs, with
 
 Strada Mongina 9, 10024 Moncalieri (TO), Italy, Turin
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/audiodrome/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/audiodrome/)*

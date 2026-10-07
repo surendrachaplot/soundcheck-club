@@ -1,8 +1,8 @@
 # Brtinzz
 
-Brtinzz is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Klub K4, Ljubljana on Fri, 9 Oct 2026.
+Brtinzz is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Klub K4, Ljubljana on Fri, 9 Oct 2026.
 
-Brtinzz is a techno and trance artist based in Slovenia, with 40 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 9 more. Often billed alongside GLIA, Manrick Stapez and PHLOXO. Next up: Klub K4, Ljubljana on Fri 9 Oct.
+Brtinzz is a techno and trance artist based in Slovenia, with 41 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 9 more. Often billed alongside GLIA, Manrick Stapez and Asarri. Next up: Klub K4, Ljubljana on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Brtinzz is a techno and trance artist based in Slovenia, with 40 gigs on soundch
 | Fri, 9 Oct 2026 | Klub K4 | Ljubljana |
 | Fri, 23 Oct 2026 | Bar Broei | Ghent |
 | Sat, 24 Oct 2026 | BASIS | Utrecht |
+| Fri, 4 Dec 2026 | Drugstore Beograd | Belgrade |
 | Wed, 30 Dec 2026 | MUENZE | Berlin |
 
 ## Recently played
@@ -26,6 +27,6 @@ Brtinzz is a techno and trance artist based in Slovenia, with 40 gigs on soundch
 
 ## Shares bills with
 
-GLIA, Manrick Stapez, PHLOXO
+GLIA, Manrick Stapez, Asarri
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brtinzz/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brtinzz/)*

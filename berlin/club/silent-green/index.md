@@ -1,14 +1,13 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "weed420 + Tufi" on Tue, 6 Oct 2026.
+Silent Green is a music venue in Berlin with 19 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Ensemble Nist-Nah + Shouji Hara" on Wed, 7 Oct 2026.
 
-Silent Green is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including Abdullah Miniawy, Abul Mogard, Ana Roxanne and Andriy K. and 2 more. See dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
+Silent Green is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, with line-ups including Abdullah Miniawy, Abul Mogard, Ana Roxanne and Andriy K. and 2 more. See dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 6 Oct 2026 | weed420 + Tufi |  |
 | Wed, 7 Oct 2026 | Ensemble Nist-Nah + Shouji Hara |  |
 | Tue, 13 Oct 2026 | Ryoko Ono + Hanno Leichtmann + Sergeant | Hanno Leichtmann |
 | Tue, 13 Oct 2026 | 10 Years of Musikfonds: Concerts, talks, installations, video |  |
@@ -18,9 +17,10 @@ Silent Green is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, 
 | Wed, 21 Oct 2026 | Sintonia 2026 Attunement I | Concepción Huerta |
 | Fri, 23 Oct 2026 | Acephalic Headspace with Lésions Graves, ladr ache |  |
 | Fri, 23 Oct 2026 | Half Light with Abul Mogard, Marja de Sanctis, Rafael Anton Irisarri, Concepción Huerta | Abul Mogard, Concepción Huerta, Rafael Anton Irisarri |
+| Thu, 29 Oct 2026 | Temple of Faitiche pres. U.e. (Ulla) + Martin Brandlmayr | Ulla |
 
 ## Address
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

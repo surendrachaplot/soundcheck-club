@@ -1,6 +1,6 @@
 # Volt Club Milano
 
-Volt Club Milano is a music venue in Milan with 12 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "HoneyLuv + La Hara" on Thu, 8 Oct 2026.
+Volt Club Milano is a music venue in Milan with 12 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "HoneyLuv + La Hara" on Thu, 8 Oct 2026.
 
 Volt Club Milano is a music venue in Milan listed on soundcheck. 12 upcoming gigs, with line-ups including ALDAVE, Alessio Cristiano, AMÉMÉ and Auggië and 2 more. See dates, start times and who's playing. Via Molino delle Armi, 16, 20123 Milano MI, Italy.
 
@@ -23,4 +23,4 @@ Volt Club Milano is a music venue in Milan listed on soundcheck. 12 upcoming gig
 
 Via Molino delle Armi, 16, 20123 Milano MI, Italy, Milan
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/volt-club-milano/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/volt-club-milano/)*

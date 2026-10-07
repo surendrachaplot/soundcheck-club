@@ -1,8 +1,8 @@
 # E.LINA
 
-E.LINA is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Tenuta Tor De' Sordi, Rome on Sat, 10 Oct 2026.
+E.LINA is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Tenuta Tor De' Sordi, Rome on Sat, 10 Oct 2026.
 
-E.LINA is a house and techno artist based in Ukraine, with 154 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 33 more. Often billed alongside Annyrock, DJ Senc and Dyed Soundorom. Next up: Tenuta Tor De' Sordi, Rome on Sat 10 Oct.
+E.LINA is a house and techno artist based in Ukraine, with 155 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 34 more. Often billed alongside Annyrock, DJ Senc and Dyed Soundorom. Next up: Tenuta Tor De' Sordi, Rome on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ E.LINA is a house and techno artist based in Ukraine, with 154 gigs on soundchec
 | Thu, 29 Oct 2026 | TBA | London |
 | Fri, 30 Oct 2026 | Orlagh House | Dublin |
 | Sat, 31 Oct 2026 | H0L0 | New York City |
+| Fri, 6 Nov 2026 | PRST | Vienna |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 
 ## Recently played
@@ -33,4 +34,4 @@ E.LINA is a house and techno artist based in Ukraine, with 154 gigs on soundchec
 
 Annyrock, DJ Senc, Dyed Soundorom
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e-lina/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e-lina/)*

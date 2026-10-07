@@ -1,6 +1,6 @@
 # Catz 'N Dogz
 
-Catz 'N Dogz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at BORIS CLUB, Barcelona on Fri, 16 Oct 2026.
+Catz 'N Dogz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at BORIS CLUB, Barcelona on Fri, 16 Oct 2026.
 
 Catz 'N Dogz is a house and techno artist based in Poland, with 85 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 23 more. Often billed alongside The Shapeshifters, Eats Everything and Jellybean Benitez. Next up: BORIS CLUB, Barcelona on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Catz 'N Dogz is a house and techno artist based in Poland, with 85 gigs on sound
 
 The Shapeshifters, Eats Everything, Jellybean Benitez
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catzndogz/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catzndogz/)*

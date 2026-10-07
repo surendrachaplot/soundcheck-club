@@ -1,6 +1,6 @@
 # Alex Kennon
 
-Alex Kennon is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat, 31 Oct 2026.
+Alex Kennon is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat, 31 Oct 2026.
 
 Alex Kennon is a house and tech house artist based in Italy, with 38 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Hong Kong and 13 more. Often billed alongside And Hazel, Gonçalo and Kantarik. Next up: Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Alex Kennon is a house and tech house artist based in Italy, with 38 gigs on sou
 
 And Hazel, Gonçalo, Kantarik
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexkennon/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexkennon/)*

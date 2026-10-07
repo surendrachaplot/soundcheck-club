@@ -1,6 +1,6 @@
 # Tribal Infernal at Prvert Club
 
-Tribal Infernal at Prvert Club on Sat 31 Oct, Monterrey. 2 artists: Dj Fucci and Freebot. See the line-up on soundcheck.
+Tribal Infernal at Prvert Club on Sat 31 Oct, Monterrey. 3 artists: Dj Fucci, Freebot and Thug Papi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Tribal Infernal at Prvert Club on Sat 31 Oct, Monterrey. 2 artists: Dj Fucci and
 
 - Dj Fucci
 - Freebot
+- Thug Papi
 
 *Source: [soundcheck](https://soundcheck.club/e/2546118-tribal-infernal-at-prvert-club/)*

@@ -1,6 +1,6 @@
 # Istanbul Ghetto Club
 
-Istanbul Ghetto Club is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Arch Club Live Stage, Athens on Sat, 10 Oct 2026.
+Istanbul Ghetto Club is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Arch Club Live Stage, Athens on Sat, 10 Oct 2026.
 
 Istanbul Ghetto Club is a techno and acid artist, with 47 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 28 more. Often billed alongside Azu Tiwaline, Mehmet Aslan and BASHKKA. Next up: Arch Club Live Stage, Athens on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Istanbul Ghetto Club is a techno and acid artist, with 47 gigs on soundcheck acr
 
 Azu Tiwaline, Mehmet Aslan, BASHKKA
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/istanbulghettoclub/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/istanbulghettoclub/)*

@@ -1,8 +1,8 @@
 # Courtesy
 
-Courtesy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 10 Oct 2026.
+Courtesy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 10 Oct 2026.
 
-Courtesy is a techno and house artist based in Denmark, with 157 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside Byron Yeates, MCR-T and BASHKKA. Next up: La Terrrazza, Barcelona on Sat 10 Oct.
+Courtesy is a techno and house artist based in Denmark, with 158 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside Byron Yeates, MCR-T and BASHKKA. Next up: La Terrrazza, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Courtesy is a techno and house artist based in Denmark, with 157 gigs on soundch
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | La Terrrazza | Barcelona |
 | Thu, 22 Oct 2026 | Garage Noord | Amsterdam |
+| Fri, 20 Nov 2026 | BASEMENT | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Courtesy is a techno and house artist based in Denmark, with 157 gigs on soundch
 
 Byron Yeates, MCR-T, BASHKKA
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/courtesy/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/courtesy/)*

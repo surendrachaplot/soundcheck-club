@@ -1,6 +1,6 @@
 # Chloe Lula
 
-Chloe Lula is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 21 Nov 2026.
+Chloe Lula is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 21 Nov 2026.
 
 Chloe Lula is an industrial and techno artist based in Germany, with 12 gigs on soundcheck across Barcelona, Berlin and London. Often billed alongside Ireen Amnes, Barbara Preisinger and Helena Hauff. Next up: Tresor / Globus, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Chloe Lula is an industrial and techno artist based in Germany, with 12 gigs on 
 
 Ireen Amnes, Barbara Preisinger, Helena Hauff
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chloelula/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chloelula/)*

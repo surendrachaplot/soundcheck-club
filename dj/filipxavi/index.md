@@ -1,8 +1,8 @@
 # Filip Xavi
 
-Filip Xavi is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Drugstore Beograd, Belgrade on Sat, 10 Oct 2026.
+Filip Xavi is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Drugstore Beograd, Belgrade on Sat, 10 Oct 2026.
 
-Filip Xavi is a techno and electro artist based in Serbia, with 57 gigs on soundcheck across Belgrade, Shenzhen and Tokyo. Often billed alongside Lollipop Janosz, Impedance and ROPE. Next up: Drugstore Beograd, Belgrade on Sat 10 Oct.
+Filip Xavi is a techno and electro artist based in Serbia, with 58 gigs on soundcheck across Belgrade, Shenzhen, Tokyo and Vienna. Often billed alongside Lollipop Janosz, Impedance and ROPE. Next up: Drugstore Beograd, Belgrade on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Filip Xavi is a techno and electro artist based in Serbia, with 57 gigs on sound
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Drugstore Beograd | Belgrade |
 | Fri, 23 Oct 2026 | Drugstore Beograd | Belgrade |
+| Sat, 24 Oct 2026 | the inner circle vienna / wien | Vienna |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Filip Xavi is a techno and electro artist based in Serbia, with 57 gigs on sound
 
 Lollipop Janosz, Impedance, ROPE
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/filipxavi/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/filipxavi/)*

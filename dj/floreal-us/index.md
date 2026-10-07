@@ -1,6 +1,6 @@
 # Flo Real
 
-Flo Real is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Palais Mascotte, Zurich on Fri, 23 Oct 2026.
+Flo Real is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Palais Mascotte, Zurich on Fri, 23 Oct 2026.
 
 Flo Real is a house and techno artist based in Austria, with 42 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 9 more. Often billed alongside Moodymann, JP Bechamel and Rumi de Baires. Next up: Palais Mascotte, Zurich on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Flo Real is a house and techno artist based in Austria, with 42 gigs on soundche
 
 Moodymann, JP Bechamel, Rumi de Baires
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floreal-us/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floreal-us/)*

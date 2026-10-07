@@ -1,6 +1,6 @@
 # Salzbauer
 
-Salzbauer is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Tanzhaus West, Frankfurt on Fri, 23 Oct 2026.
+Salzbauer is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Tanzhaus West, Frankfurt on Fri, 23 Oct 2026.
 
 Salzbauer is a trance and techno artist based in Germany, with 47 gigs on soundcheck across Antwerp, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside SOHOE, Stinny Stone and futurristic. Next up: Tanzhaus West, Frankfurt on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Salzbauer is a trance and techno artist based in Germany, with 47 gigs on soundc
 
 SOHOE, Stinny Stone, futurristic
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salzbauer/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salzbauer/)*

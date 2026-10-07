@@ -1,6 +1,6 @@
 # Carla Valenti
 
-Carla Valenti is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Tausend, Berlin on Fri, 9 Oct 2026.
+Carla Valenti is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Tausend, Berlin on Fri, 9 Oct 2026.
 
 Carla Valenti is a house and downtempo artist based in Chile, with 35 gigs on soundcheck across Barcelona, Berlin, Ibiza and Madrid and 1 more. Often billed alongside Djoan, Isa Rojas and Lupe Republic. Next up: Tausend, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Carla Valenti is a house and downtempo artist based in Chile, with 35 gigs on so
 
 Djoan, Isa Rojas, Lupe Republic
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlavalenti/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlavalenti/)*

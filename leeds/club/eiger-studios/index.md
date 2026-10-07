@@ -1,6 +1,6 @@
 # Eiger Studios
 
-Eiger Studios is a music venue in Leeds with 11 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Stick To The Slug with Ekkel & Lewis Laycock" on Sat, 10 Oct 2026.
+Eiger Studios is a music venue in Leeds with 11 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Stick To The Slug with Ekkel & Lewis Laycock" on Sat, 10 Oct 2026.
 
 Eiger Studios is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, with line-ups including Bobby., BUTCHABOI, Decka and Ekkel and 2 more. See dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
 
@@ -23,4 +23,4 @@ Eiger Studios is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, 
 
 Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF, Leeds
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*

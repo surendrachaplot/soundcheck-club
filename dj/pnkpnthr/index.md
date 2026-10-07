@@ -1,6 +1,6 @@
 # pnk pnthr
 
-pnk pnthr is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 15 Oct 2026.
+pnk pnthr is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 15 Oct 2026.
 
 pnk pnthr is a trance and techno artist, with 22 gigs on soundcheck across Berlin, Budapest and Munich. Often billed alongside vSto, TOON WORLD and LUCKY4U. Next up: Bahnwärter Thiel, Munich on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ pnk pnthr is a trance and techno artist, with 22 gigs on soundcheck across Berli
 
 vSto, TOON WORLD, LUCKY4U
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pnkpnthr/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pnkpnthr/)*

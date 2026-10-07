@@ -1,6 +1,6 @@
 # ⋆⌂ 𖡼. ᴅᴀᴅɪ-ʏᴀ 大地屋 𖤣𖥧 at M.O.T
 
-⋆⌂ 𖡼. ᴅᴀᴅɪ-ʏᴀ 大地屋 𖤣𖥧 at M.O.T on Thu 8 Oct, London. 3 artists: Dachen, Dirty K and nuum. Club and Electronica. See the line-up on soundcheck.
+⋆⌂ 𖡼. ᴅᴀᴅɪ-ʏᴀ 大地屋 𖤣𖥧 at M.O.T on Thu 8 Oct, London. 4 artists: Dachen, Dirty K, DJ mǐn and nuum. Club and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@
 
 - Dachen
 - Dirty K
+- DJ mǐn
 - nuum
 
 *Source: [soundcheck](https://soundcheck.club/e/2546225-at-m-o-t/)*

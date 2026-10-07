@@ -1,14 +1,15 @@
 # imad:re
 
-imad:re is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at renae, Manchester on Sat, 10 Oct 2026.
+imad:re is a Bass and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at renae, Manchester on Sat, 10 Oct 2026.
 
-imad:re is a house and bass artist based in United Kingdom, with 55 gigs on soundcheck across Ibiza, Leeds, London and Manchester and 1 more. Often billed alongside Ginster, RYLO (UK) and Amelia Leigh. Next up: renae, Manchester on Sat 10 Oct.
+imad:re is a bass and house artist based in United Kingdom, with 56 gigs on soundcheck across Edinburgh, Ibiza, Leeds and London and 2 more. Often billed alongside Ginster, RYLO (UK) and Amelia Leigh. Next up: renae, Manchester on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | renae | Manchester |
+| Fri, 23 Oct 2026 | People's Leisure Club | Edinburgh |
 | Fri, 20 Nov 2026 | Soup | Manchester |
 
 ## Recently played
@@ -26,4 +27,4 @@ imad:re is a house and bass artist based in United Kingdom, with 55 gigs on soun
 
 Ginster, RYLO (UK), Amelia Leigh
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imadre/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imadre/)*

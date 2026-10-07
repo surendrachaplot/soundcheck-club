@@ -1,14 +1,15 @@
 # six-winged hilda
 
-six-winged hilda is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Social, London on Sat, 24 Oct 2026.
+six-winged hilda is a Club and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Social, London on Sat, 24 Oct 2026.
 
-six-winged hilda is an electro and club artist, with 12 gigs on soundcheck across London and Manchester. Often billed alongside Loveblade, abejisama and AEON FUX. Next up: The Social, London on Sat 24 Oct.
+six-winged hilda is a club and electro artist, with 13 gigs on soundcheck across London and Manchester. Often billed alongside Loveblade, abejisama and madame3swords. Next up: The Social, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | The Social | London |
+| Thu, 29 Oct 2026 | M.O.T | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ six-winged hilda is an electro and club artist, with 12 gigs on soundcheck acros
 
 ## Shares bills with
 
-Loveblade, abejisama, AEON FUX
+Loveblade, abejisama, madame3swords
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/six-wingedhilda/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/six-wingedhilda/)*

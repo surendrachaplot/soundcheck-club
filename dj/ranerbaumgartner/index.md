@@ -1,6 +1,6 @@
 # Raner Baumgartner
 
-Raner Baumgartner is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Sala Cocó, Madrid on Sat, 10 Oct 2026.
+Raner Baumgartner is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Sala Cocó, Madrid on Sat, 10 Oct 2026.
 
 Raner Baumgartner is a techno and electronica artist based in Spain, with 13 gigs on soundcheck across Madrid. Often billed alongside KITAE, Groovemami and Køni. Next up: Sala Cocó, Madrid on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Raner Baumgartner is a techno and electronica artist based in Spain, with 13 gig
 
 KITAE, Groovemami, Køni
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ranerbaumgartner/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ranerbaumgartner/)*

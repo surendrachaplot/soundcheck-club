@@ -1,6 +1,6 @@
 # Ghost Story* with LF SYSTEM at Pygmalion
 
-Ghost Story* with LF SYSTEM at Pygmalion on Fri 30 Oct, Dublin. 2 artists: LF SYSTEM and Vlad Katana. House and Disco. See the line-up on soundcheck.
+Ghost Story* with LF SYSTEM at Pygmalion on Fri 30 Oct, Dublin. 3 artists: Evan McGee, LF SYSTEM and Vlad Katana. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Ghost Story* with LF SYSTEM at Pygmalion on Fri 30 Oct, Dublin. 2 artists: LF SY
 
 ## Line-up
 
+- Evan McGee
 - LF SYSTEM
 - Vlad Katana
 

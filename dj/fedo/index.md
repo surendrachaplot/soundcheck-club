@@ -1,6 +1,6 @@
 # Fedo
 
-Fedo is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Supermarket, Zurich on Fri, 9 Oct 2026.
+Fedo is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Supermarket, Zurich on Fri, 9 Oct 2026.
 
 Fedo is a house and minimal artist based in Australia, with 6 gigs on soundcheck across Barcelona, Berlin and Zurich. Often billed alongside Akyra, Alexxx and Jack Clark. Next up: Supermarket, Zurich on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ Fedo is a house and minimal artist based in Australia, with 6 gigs on soundcheck
 
 Akyra, Alexxx, Jack Clark
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fedo/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fedo/)*

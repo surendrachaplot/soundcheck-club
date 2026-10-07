@@ -1,6 +1,6 @@
 # Alan Fitzpatrick
 
-Alan Fitzpatrick is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Oxford Art Factory, Sydney on Fri, 9 Oct 2026.
+Alan Fitzpatrick is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Oxford Art Factory, Sydney on Fri, 9 Oct 2026.
 
 Alan Fitzpatrick is a techno and house artist based in United Kingdom, with 116 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Belgrade and 37 more. Often billed alongside Jamie Jones, Marco Faraone and Ben Hemsley. Next up: Oxford Art Factory, Sydney on Fri 9 Oct.
 
@@ -15,7 +15,7 @@ Alan Fitzpatrick is a techno and house artist based in United Kingdom, with 116 
 | Sat, 17 Oct 2026 | Villa Nightclub | Perth |
 | Wed, 21 Oct 2026 | Q-Factory | Amsterdam |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
-| Sat, 24 Oct 2026 | Aevum x 50:Hertz House & Techno Club Rembrandt Square / Rembrandtplein 45, Amsterdam | Amsterdam |
+| Sat, 24 Oct 2026 |  | Amsterdam |
 | Sat, 7 Nov 2026 | Flash | Washington DC |
 | Sat, 21 Nov 2026 | Ritter Butzke | Berlin |
 
@@ -34,4 +34,4 @@ Alan Fitzpatrick is a techno and house artist based in United Kingdom, with 116 
 
 Jamie Jones, Marco Faraone, Ben Hemsley
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alanfitzpatrick/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alanfitzpatrick/)*

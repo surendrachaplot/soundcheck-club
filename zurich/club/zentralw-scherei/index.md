@@ -1,6 +1,6 @@
 # Zentralwäscherei
 
-Zentralwäscherei is a music venue in Zurich with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Dubtopia 15 years in ZW" on Sat, 10 Oct 2026.
+Zentralwäscherei is a music venue in Zurich with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Dubtopia 15 years in ZW" on Sat, 10 Oct 2026.
 
 Zentralwäscherei is a music venue in Zurich listed on soundcheck. 5 upcoming gigs, with line-ups including CRi, F1-PV, Lord Spikeheart and ojoo and 2 more. See dates, start times and who's playing. Neue Hard 12, Verein Zentralwaescherei, 8005 Zurich.
 
@@ -18,4 +18,4 @@ Zentralwäscherei is a music venue in Zurich listed on soundcheck. 5 upcoming gi
 
 Neue Hard 12, Verein Zentralwaescherei, 8005 Zurich, Zurich
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zentralw-scherei/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zentralw-scherei/)*

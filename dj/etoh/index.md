@@ -1,6 +1,6 @@
 # EtOH
 
-EtOH is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The Pearl, Vancouver on Sat, 17 Oct 2026.
+EtOH is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Pearl, Vancouver on Sat, 17 Oct 2026.
 
 EtOH is a techno and hardcore artist based in Canada, with 69 gigs on soundcheck across Vancouver. Often billed alongside TR4CK ID?, ANTI-NOTHING and ANGEL CANNON. Next up: The Pearl, Vancouver on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ EtOH is a techno and hardcore artist based in Canada, with 69 gigs on soundcheck
 
 TR4CK ID?, ANTI-NOTHING, ANGEL CANNON
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etoh/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etoh/)*

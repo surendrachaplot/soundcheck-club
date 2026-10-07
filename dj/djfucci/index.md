@@ -1,6 +1,6 @@
 # Dj Fucci
 
-Dj Fucci is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 9 Oct 2026.
+Dj Fucci is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 9 Oct 2026.
 
 Dj Fucci is a techno and house artist based in Mexico, with 112 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Hong Kong and 13 more. Often billed alongside sadgal, Enya Botello and Octoptic. Next up: SISSI'S Amsterdam, Amsterdam on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Dj Fucci is a techno and house artist based in Mexico, with 112 gigs on soundche
 
 sadgal, Enya Botello, Octoptic
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfucci/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfucci/)*

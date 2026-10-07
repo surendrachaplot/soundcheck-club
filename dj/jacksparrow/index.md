@@ -1,6 +1,6 @@
 # Jack Sparrow
 
-Jack Sparrow is a Dub and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Dom Technika, Poznan on Sat, 10 Oct 2026.
+Jack Sparrow is a Dub and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Dom Technika, Poznan on Sat, 10 Oct 2026.
 
 Jack Sparrow is a dub and drum & bass artist based in United Kingdom, with 6 gigs on soundcheck across Leeds, Manchester and Poznan. Often billed alongside Iration Steppas, SGT Pokes and Breakfake. Next up: Dom Technika, Poznan on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Jack Sparrow is a dub and drum & bass artist based in United Kingdom, with 6 gig
 
 Iration Steppas, SGT Pokes, Breakfake
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacksparrow/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacksparrow/)*

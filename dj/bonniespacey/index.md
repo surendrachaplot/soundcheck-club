@@ -1,8 +1,8 @@
 # Bonnie Spacey
 
-Bonnie Spacey is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at elipamanoke, Leipzig on Fri, 16 Oct 2026.
+Bonnie Spacey is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at elipamanoke, Leipzig on Fri, 16 Oct 2026.
 
-Bonnie Spacey is a techno and house artist based in France, with 59 gigs on soundcheck across Berlin, Brussels, Frankfurt and Leipzig and 7 more. Often billed alongside Franz Matthews, BOHO and gizA djs. Next up: elipamanoke, Leipzig on Fri 16 Oct.
+Bonnie Spacey is a techno and house artist based in France, with 60 gigs on soundcheck across Berlin, Brussels, Cologne and Frankfurt and 8 more. Often billed alongside Franz Matthews, BOHO and gizA djs. Next up: elipamanoke, Leipzig on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Bonnie Spacey is a techno and house artist based in France, with 59 gigs on soun
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | elipamanoke | Leipzig |
 | Fri, 20 Nov 2026 | Kater | Berlin |
+| Sat, 5 Dec 2026 | fi | Cologne |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Bonnie Spacey is a techno and house artist based in France, with 59 gigs on soun
 
 Franz Matthews, BOHO, gizA djs
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bonniespacey/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bonniespacey/)*

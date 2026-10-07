@@ -1,0 +1,28 @@
+# MSKI
+
+MSKI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 10 Oct 2026.
+
+MSKI is a techno and trance artist based in Germany, with 10 gigs on soundcheck across Frankfurt. Often billed alongside Disguised, Alina Viktoria and Bad Robot. Next up: Tokonoma Club, Frankfurt on Sat 10 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 10 Oct 2026 | Tokonoma Club | Frankfurt |
+
+## Recently played
+
+- Tanzhaus West, Frankfurt · Sat, 8 Aug 2026
+- Tokonoma Club, Frankfurt · Sun, 24 May 2026
+- Cafe Koz, Frankfurt · Thu, 23 Oct 2025
+- Silbergold, Frankfurt · Thu, 15 Aug 2024
+- Tanzhaus West, Frankfurt · Fri, 19 Jul 2024
+- Freud Raum für Kunst und Kultur, Frankfurt · Sat, 15 Jun 2024
+- Freud Raum für Kunst und Kultur, Frankfurt · Fri, 19 Jan 2024
+- Silbergold, Frankfurt · Thu, 24 Aug 2023
+
+## Shares bills with
+
+Disguised, Alina Viktoria, Bad Robot
+
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mski/)*

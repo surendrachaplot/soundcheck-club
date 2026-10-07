@@ -1,14 +1,15 @@
 # dj sneaze
 
-dj sneaze is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Movers, Nottingham on Sat, 10 Oct 2026.
+dj sneaze is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Movers, Nottingham on Sat, 10 Oct 2026.
 
-dj sneaze is a house and techno artist based in United Kingdom, with 10 gigs on soundcheck across Nottingham. Often billed alongside Sam On Ice, Mush Love (UK) and Evil Woman. Next up: Movers, Nottingham on Sat 10 Oct.
+dj sneaze is a house and techno artist based in United Kingdom, with 11 gigs on soundcheck across Nottingham. Often billed alongside Mush Love (UK), Sam On Ice and Evil Woman. Next up: Movers, Nottingham on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Movers | Nottingham |
+| Sat, 7 Nov 2026 | The Model | Nottingham |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ dj sneaze is a house and techno artist based in United Kingdom, with 10 gigs on 
 
 ## Shares bills with
 
-Sam On Ice, Mush Love (UK), Evil Woman
+Mush Love (UK), Sam On Ice, Evil Woman
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsneaze/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsneaze/)*

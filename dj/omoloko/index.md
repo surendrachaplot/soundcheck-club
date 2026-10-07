@@ -1,8 +1,8 @@
 # OMOLOKO
 
-OMOLOKO is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Horn, Bangkok on Sat, 17 Oct 2026.
+OMOLOKO is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Horn, Bangkok on Sat, 17 Oct 2026.
 
-OMOLOKO is a house and techno artist based in Brazil, with 89 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 31 more. Often billed alongside Kabulom, BADSISTA and Cashu. Next up: Horn, Bangkok on Sat 17 Oct.
+OMOLOKO is a house and techno artist based in Brazil, with 90 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 31 more. Often billed alongside Kabulom, BADSISTA and Cashu. Next up: Horn, Bangkok on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ OMOLOKO is a house and techno artist based in Brazil, with 89 gigs on soundcheck
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Horn | Bangkok |
 | Fri, 30 Oct 2026 | Unmute | Hanoi |
+| Sat, 7 Nov 2026 | Chang Chui Creative Park | Bangkok |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 
 ## Recently played
@@ -27,4 +28,4 @@ OMOLOKO is a house and techno artist based in Brazil, with 89 gigs on soundcheck
 
 Kabulom, BADSISTA, Cashu
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omoloko/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omoloko/)*

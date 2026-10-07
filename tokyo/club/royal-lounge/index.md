@@ -1,6 +1,6 @@
 # Royal Lounge
 
-Royal Lounge is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Sunset House Rooftop" on Sun, 11 Oct 2026.
+Royal Lounge is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Sunset House Rooftop" on Sun, 11 Oct 2026.
 
 Royal Lounge is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including Aleyum, ANZU, Ayantula and Dan Miyagishi and 2 more. See dates, start times and who's playing. 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001.
 
@@ -16,4 +16,4 @@ Royal Lounge is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, wi
 
 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001, Tokyo
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/royal-lounge/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/royal-lounge/)*

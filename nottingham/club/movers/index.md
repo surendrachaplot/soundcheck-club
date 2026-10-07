@@ -1,8 +1,8 @@
 # Movers
 
-Movers is a music venue in Nottingham with 26 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "foundation.fm presents Drop Pin x Gyals In Notts - Nottingham" on Thu, 8 Oct 2026.
+Movers is a music venue in Nottingham with 29 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "foundation.fm presents Drop Pin x Gyals In Notts - Nottingham" on Thu, 8 Oct 2026.
 
-Movers is a music venue in Nottingham listed on soundcheck. 26 upcoming gigs, with line-ups including Aaron Dynamic, Alex Traska, Alien Communications and Brawther and 2 more. See dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
+Movers is a music venue in Nottingham listed on soundcheck. 29 upcoming gigs, with line-ups including Aaron Dynamic, Alex Traska, Alien Communications and Brawther and 2 more. See dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Movers is a music venue in Nottingham listed on soundcheck. 26 upcoming gigs, wi
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

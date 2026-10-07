@@ -1,14 +1,15 @@
 # KONZ
 
-KONZ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Circle Lincoln, Midlands on Sat, 17 Oct 2026.
+KONZ is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Circle Lincoln, Midlands on Sat, 17 Oct 2026.
 
-KONZ is a techno and house artist, with 37 gigs on soundcheck across Berlin, Hamburg, London and Mexico City and 2 more. Often billed alongside djslut, Amphia and VINVAR. Next up: Circle Lincoln, Midlands on Sat 17 Oct.
+KONZ is a techno and house artist, with 38 gigs on soundcheck across Berlin, Hamburg, London and Mexico City and 3 more. Often billed alongside djslut, Amphia and VINVAR. Next up: Circle Lincoln, Midlands on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Circle Lincoln | Midlands |
+| Sat, 14 Nov 2026 | BASEMENT | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ KONZ is a techno and house artist, with 37 gigs on soundcheck across Berlin, Ham
 
 djslut, Amphia, VINVAR
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konz/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konz/)*

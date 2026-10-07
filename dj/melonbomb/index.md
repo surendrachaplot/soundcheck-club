@@ -1,6 +1,6 @@
 # Melon Bomb
 
-Melon Bomb is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
+Melon Bomb is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
 
 Melon Bomb is a house and techno artist based in Spain, with 74 gigs on soundcheck across Berlin, Dublin, Glasgow and Ibiza and 10 more. Often billed alongside Carl Cox, Sophie Lloyd and Melvo Baptiste. Next up: Hï Ibiza, Ibiza on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Melon Bomb is a house and techno artist based in Spain, with 74 gigs on soundche
 
 Carl Cox, Sophie Lloyd, Melvo Baptiste
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melonbomb/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melonbomb/)*

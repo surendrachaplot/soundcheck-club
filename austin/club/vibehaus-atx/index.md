@@ -1,6 +1,6 @@
 # Vibehaus ATX
 
-Vibehaus ATX is a music venue in Austin with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "Audiation welcomes Daniel Bell" on Fri, 6 Nov 2026.
+Vibehaus ATX is a music venue in Austin with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "Audiation welcomes Daniel Bell" on Fri, 6 Nov 2026.
 
 Vibehaus ATX is a music venue in Austin listed on soundcheck. 1 upcoming gig, with line-ups including Brad Duke, Brett Johnson and Daniel Bell. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Vibehaus ATX is a music venue in Austin listed on soundcheck. 1 upcoming gig, wi
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Audiation welcomes Daniel Bell | Brad Duke, Brett Johnson, Daniel Bell |
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/vibehaus-atx/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/vibehaus-atx/)*

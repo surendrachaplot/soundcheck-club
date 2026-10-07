@@ -1,14 +1,15 @@
 # Seanni B
 
-Seanni B is a Club and Breakcore artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Secret Location, Detroit on Fri, 9 Oct 2026.
+Seanni B is a Club and Breakcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Secret Location, Detroit on Fri, 9 Oct 2026.
 
-Seanni B is a club and breakcore artist based in United States of America, with 48 gigs on soundcheck across Chicago, Detroit and Philadelphia. Often billed alongside Kuuma, Obi-Wan Shinobi and madeofants. Next up: TBA - Secret Location, Detroit on Fri 9 Oct.
+Seanni B is a club and breakcore artist based in United States of America, with 49 gigs on soundcheck across Chicago, Detroit and Philadelphia. Often billed alongside Obi-Wan Shinobi, Kuuma and madeofants. Next up: TBA - Secret Location, Detroit on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | TBA - Secret Location | Detroit |
+| Sat, 31 Oct 2026 | Gotta Gacha | Detroit |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Seanni B is a club and breakcore artist based in United States of America, with 
 
 ## Shares bills with
 
-Kuuma, Obi-Wan Shinobi, madeofants
+Obi-Wan Shinobi, Kuuma, madeofants
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seannib/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seannib/)*

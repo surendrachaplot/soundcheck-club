@@ -1,6 +1,6 @@
 # YASMEENAH (2)
 
-YASMEENAH (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Good Room, New York City on Fri, 23 Oct 2026.
+YASMEENAH (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Good Room, New York City on Fri, 23 Oct 2026.
 
 YASMEENAH is a techno and house artist based in United States of America, with 23 gigs on soundcheck across Berlin, Chicago, Detroit and London and 1 more. Often billed alongside Blackmoonchild, DJ Etta (US) and A K. Next up: Good Room, New York City on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ YASMEENAH is a techno and house artist based in United States of America, with 2
 
 Blackmoonchild, DJ Etta (US), A K
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmeenahxo/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmeenahxo/)*

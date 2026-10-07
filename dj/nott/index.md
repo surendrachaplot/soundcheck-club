@@ -1,14 +1,14 @@
 # Nótt
 
-Nótt is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Toronto, Toronto on Sat, 17 Oct 2026.
+Nótt is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at 821 Runnymede Rd, Toronto on Sat, 17 Oct 2026.
 
-Nótt is a techno and house artist based in Canada, with 12 gigs on soundcheck across Toronto. Often billed alongside A.J. Matos, A_C_E. and Anfisa Letyago. Next up: TBA - Toronto, Toronto on Sat 17 Oct.
+Nótt is a techno and house artist based in Canada, with 12 gigs on soundcheck across Toronto. Often billed alongside A.J. Matos, A_C_E. and Anfisa Letyago. Next up: 821 Runnymede Rd, Toronto on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA - Toronto | Toronto |
+| Sat, 17 Oct 2026 | 821 Runnymede Rd | Toronto |
 | Sat, 20 Feb 2027 | TBA - Warehouse Location | Toronto |
 
 ## Recently played
@@ -26,4 +26,4 @@ Nótt is a techno and house artist based in Canada, with 12 gigs on soundcheck a
 
 A.J. Matos, A_C_E., Anfisa Letyago
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nott/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nott/)*

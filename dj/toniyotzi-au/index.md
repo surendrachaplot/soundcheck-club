@@ -1,6 +1,6 @@
 # Toni Yotzi
 
-Toni Yotzi is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+Toni Yotzi is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
 Toni Yotzi is a house and tech house artist based in Australia, with 55 gigs on soundcheck across Bangkok, Bristol, Hobart and London and 6 more. Often billed alongside Primitive Needs, Bex and Dawn Again. Next up: TBA, Victoria on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Toni Yotzi is a house and tech house artist based in Australia, with 55 gigs on 
 
 Primitive Needs, Bex, Dawn Again
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toniyotzi-au/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toniyotzi-au/)*

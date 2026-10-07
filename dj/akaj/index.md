@@ -1,14 +1,13 @@
 # Akaj
 
-Akaj is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Akaj is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Fvtvr, Paris on Fri, 9 Oct 2026.
 
-Akaj is a house and electro artist based in Slovenia, with 31 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Audri, Eliza and Enrica Hz. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Akaj is a house and electro artist based in Slovenia, with 31 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Audri, Eliza and Enrica Hz. Next up: Fvtvr, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Fri, 9 Oct 2026 | Fvtvr | Paris |
 
 ## Recently played
@@ -26,4 +25,4 @@ Akaj is a house and electro artist based in Slovenia, with 31 gigs on soundcheck
 
 Audri, Eliza (2), Enrica Hz
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akaj/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akaj/)*

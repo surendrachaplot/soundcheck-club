@@ -1,8 +1,8 @@
 # CALLUSH
 
-CALLUSH is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at De Flesjesfabriek, Ghent on Sat, 17 Oct 2026.
+CALLUSH is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at De Flesjesfabriek, Ghent on Sat, 17 Oct 2026.
 
-CALLUSH is a techno and house artist based in Germany, with 119 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 44 more. Often billed alongside DYEN, NOVAH and Afem Syko. Next up: De Flesjesfabriek, Ghent on Sat 17 Oct.
+CALLUSH is a techno and house artist based in Germany, with 120 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 44 more. Often billed alongside DYEN, NOVAH and Afem Syko. Next up: De Flesjesfabriek, Ghent on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ CALLUSH is a techno and house artist based in Germany, with 119 gigs on soundche
 | Sat, 17 Oct 2026 | De Flesjesfabriek | Ghent |
 | Sat, 31 Oct 2026 | Gotec | Karlsruhe |
 | Fri, 6 Nov 2026 | OST | Berlin |
+| Sat, 7 Nov 2026 | Bootshaus | Cologne |
 | Thu, 31 Dec 2026 | Klokgebouw | Eindhoven |
 
 ## Recently played
@@ -28,4 +29,4 @@ CALLUSH is a techno and house artist based in Germany, with 119 gigs on soundche
 
 DYEN, NOVAH, Afem Syko
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/callush/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/callush/)*

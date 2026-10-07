@@ -1,14 +1,15 @@
 # Laetizia
 
-Laetizia is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Golden Pudel Club, Hamburg on Sun, 11 Oct 2026.
+Laetizia is a House and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Golden Pudel Club, Hamburg on Sun, 11 Oct 2026.
 
-Laetizia is a house and experimental artist based in Germany, with 43 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Munich. Often billed alongside N:in (DE), Shimmy Robin and dj blip. Next up: Golden Pudel Club, Hamburg on Sun 11 Oct.
+Laetizia is a house and experimental artist based in Germany, with 44 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Munich. Often billed alongside N:in (DE), Shimmy Robin and dj blip. Next up: Golden Pudel Club, Hamburg on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | Golden Pudel Club | Hamburg |
+| Sat, 7 Nov 2026 | Renate | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Laetizia is a house and experimental artist based in Germany, with 43 gigs on so
 
 N:in (DE), Shimmy Robin, dj blip
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laetizia/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laetizia/)*

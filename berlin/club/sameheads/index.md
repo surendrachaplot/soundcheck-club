@@ -1,8 +1,8 @@
 # Sameheads
 
-Sameheads is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "CLUB KIDZ" on Thu, 8 Oct 2026.
+Sameheads is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "CLUB KIDZ" on Thu, 8 Oct 2026.
 
-Sameheads is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Anna Wall, Balearic Banana, Caillou and Carl Hang and 2 more. See dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
+Sameheads is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Anna Wall, Balearic Banana, Caillou and Carl Hang and 2 more. See dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Sameheads is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, wit
 | Fri, 16 Oct 2026 | KLAASH | Caillou, Electrosexual, Melanie Havens, Paty Vapor, Wisdom Tits |
 | Sat, 17 Oct 2026 | Lewie's Acid House | Ellie Stokes, Tornado Wallace |
 | Fri, 23 Oct 2026 | Liquid Dance | Esther Dune, Hara Katsiki, Rena Volvo |
+| Sat, 24 Oct 2026 | SAFADA | DJ LOUI FROM JUPITER4, Gadutra, Juba |
 | Thu, 29 Oct 2026 | XPAM x Record Turnover | HMEHDI, Krohm, XZ5000, Yozy, olesia |
 | Fri, 30 Oct 2026 | We'll be there in a bit with Rhyw, Samira, Levente | Levente, Rhyw, Samira (NL) |
-| Sat, 31 Oct 2026 | Weddings vs Funerals - Sameheads Halloween Costume Party | DJ soFa, Miss Take |
 
 ## Address
 
 Richardstrasse 10; Neukölln; 12043 Berlin; Germany, Berlin
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*

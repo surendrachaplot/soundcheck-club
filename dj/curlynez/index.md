@@ -1,6 +1,6 @@
 # Curly Nez
 
-Curly Nez is a Reggaeton and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Le Bain, New York City on Wed, 7 Oct 2026.
+Curly Nez is a Reggaeton and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Le Bain, New York City on Wed, 7 Oct 2026.
 
 Curly Nez is a reggaeton and techno artist, with 7 gigs on soundcheck across New York City. Often billed alongside BNJY, DJ Moma and Dj Logo. Next up: Le Bain, New York City on Wed 7 Oct.
 
@@ -23,4 +23,4 @@ Curly Nez is a reggaeton and techno artist, with 7 gigs on soundcheck across New
 
 BNJY, DJ Moma, Dj Logo
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/curlynez/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/curlynez/)*

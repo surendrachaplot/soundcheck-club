@@ -1,6 +1,6 @@
 # Leztopia x sub:terra at M.O.T
 
-Leztopia x sub:terra at M.O.T on Fri 13 Nov, London. 2 artists: Elianne and Lulah Francs. House and Acid. See the line-up on soundcheck.
+Leztopia x sub:terra at M.O.T on Fri 13 Nov, London. 5 artists: Aldonna, Daisy Moon, Elianne and Lulah Francs and 1 more. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,10 @@ Leztopia x sub:terra at M.O.T on Fri 13 Nov, London. 2 artists: Elianne and Lula
 
 ## Line-up
 
+- Aldonna
+- Daisy Moon
 - Elianne
 - Lulah Francs
+- Madelic
 
 *Source: [soundcheck](https://soundcheck.club/e/2541404-leztopia-x-sub-terra-at-m-o-t/)*

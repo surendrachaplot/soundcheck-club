@@ -1,14 +1,13 @@
 # Daniel Avery
 
-Daniel Avery is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at 528 Ibiza, Ibiza on Tue, 6 Oct 2026.
+Daniel Avery is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at DURO, Milan on Sat, 10 Oct 2026.
 
-Daniel Avery is a techno and house artist based in United Kingdom, with 165 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 47 more. Often billed alongside Richard Fearless, Optimo (Espacio) and Tapefeed. Next up: 528 Ibiza, Ibiza on Tue 6 Oct.
+Daniel Avery is a techno and house artist based in United Kingdom, with 165 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 47 more. Often billed alongside Richard Fearless, Optimo (Espacio) and Tapefeed. Next up: DURO, Milan on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 6 Oct 2026 | 528 Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | DURO | Milan |
 | Sat, 10 Oct 2026 | DURO | Milan |
 | Sat, 10 Oct 2026 | DURO | Milan |
@@ -22,6 +21,7 @@ Daniel Avery is a techno and house artist based in United Kingdom, with 165 gigs
 
 ## Recently played
 
+- 528 Ibiza, Ibiza · Tue, 6 Oct 2026
 - Halle Tropisme, Montpellier · Sun, 4 Oct 2026
 - Halle Tropisme, Montpellier · Sun, 4 Oct 2026
 - KALT, Strasbourg · Sat, 26 Sept 2026
@@ -29,10 +29,9 @@ Daniel Avery is a techno and house artist based in United Kingdom, with 165 gigs
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 - The Independent, San Francisco/Oakland · Fri, 18 Sept 2026
 - El Rey Theatre, Los Angeles · Thu, 17 Sept 2026
-- El Rey Theatre, Los Angeles · Thu, 17 Sept 2026
 
 ## Shares bills with
 
 Richard Fearless, Optimo (Espacio), Tapefeed
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*

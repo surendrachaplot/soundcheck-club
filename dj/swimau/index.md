@@ -1,6 +1,6 @@
 # SWIM (AU)
 
-SWIM (AU) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Ijland, Amsterdam on Sat, 24 Oct 2026.
+SWIM (AU) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Ijland, Amsterdam on Sat, 24 Oct 2026.
 
 SWIM (AU) is a house and techno artist based in Australia, with 52 gigs on soundcheck across Amsterdam, Belfast, Berlin and Brighton and 19 more. Often billed alongside CRUSH3d, DJ Heartstring and Bella Claxton. Next up: Ijland, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ SWIM (AU) is a house and techno artist based in Australia, with 52 gigs on sound
 
 CRUSH3d, DJ Heartstring, Bella Claxton
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swimau/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swimau/)*

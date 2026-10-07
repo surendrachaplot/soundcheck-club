@@ -1,6 +1,6 @@
 # CHICO
 
-CHICO is a music venue in Mexico City with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Troniic Giirls vol. 3" on Fri, 23 Oct 2026.
+CHICO is a music venue in Mexico City with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Troniic Giirls vol. 3" on Fri, 23 Oct 2026.
 
 CHICO is a music venue in Mexico City listed on soundcheck. 4 upcoming gigs, with line-ups including Aliien Giirl, Concepción Huerta, Fortier and Kitsunee and 2 more. See dates, start times and who's playing. Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX.
 
@@ -17,4 +17,4 @@ CHICO is a music venue in Mexico City listed on soundcheck. 4 upcoming gigs, wit
 
 Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*

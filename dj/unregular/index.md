@@ -1,6 +1,6 @@
 # Unregular
 
-Unregular is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Club Poema, Utrecht on Thu, 31 Dec 2026.
+Unregular is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Club Poema, Utrecht on Thu, 31 Dec 2026.
 
 Unregular is a house and trance artist based in Belgium, with 5 gigs on soundcheck across Amsterdam, Antwerp and Utrecht. Often billed alongside Arter, Faster Horses and Jef Nice. Next up: Club Poema, Utrecht on Thu 31 Dec.
 
@@ -21,4 +21,4 @@ Unregular is a house and trance artist based in Belgium, with 5 gigs on soundche
 
 Arter, Faster Horses, Jef Nice
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unregular/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unregular/)*

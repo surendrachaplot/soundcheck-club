@@ -1,14 +1,14 @@
 # MILA DUCH
 
-MILA DUCH is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Agora Rollberg, Berlin on Tue, 13 Oct 2026.
+MILA DUCH is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, Berlin on Tue, 13 Oct 2026.
 
-MILA DUCH is a techno and minimal techno artist based in Argentina, with 24 gigs on soundcheck across Berlin, Buenos Aires, Copenhagen and Leipzig and 1 more. Often billed alongside PAULITTAHH, PALOMA and Anna Logic. Next up: Agora Rollberg, Berlin on Tue 13 Oct.
+MILA DUCH is a techno and minimal techno artist based in Argentina, with 24 gigs on soundcheck across Berlin, Buenos Aires, Copenhagen and Leipzig and 1 more. Often billed alongside PAULITTAHH, PALOMA and Anna Logic. Next up: TBA, Berlin on Tue 13 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 13 Oct 2026 | Agora Rollberg | Berlin |
+| Tue, 13 Oct 2026 | TBA | Berlin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ MILA DUCH is a techno and minimal techno artist based in Argentina, with 24 gigs
 
 PAULITTAHH, PALOMA (4), Anna Logic
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miladuch/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miladuch/)*

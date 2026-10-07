@@ -1,6 +1,6 @@
 # Agents Of Time
 
-Agents Of Time is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Luz De Gas, Barcelona on Sat, 7 Nov 2026.
+Agents Of Time is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Luz De Gas, Barcelona on Sat, 7 Nov 2026.
 
 Agents Of Time is a techno and house artist based in Italy, with 123 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Stephan Bodzin, Henri Bergmann and Artbat. Next up: Luz De Gas, Barcelona on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Agents Of Time is a techno and house artist based in Italy, with 123 gigs on sou
 
 Stephan Bodzin, Henri Bergmann, Artbat
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agentsoftime/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agentsoftime/)*

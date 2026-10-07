@@ -1,6 +1,6 @@
 # KlangKuenstler
 
-KlangKuenstler is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Spook Club, Valencia on Thu, 8 Oct 2026.
+KlangKuenstler is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Spook Club, Valencia on Thu, 8 Oct 2026.
 
 KlangKuenstler is a techno and house artist based in Germany, with 179 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 63 more. Often billed alongside Daria Kolosova, I Hate Models and Kobosil. Next up: Spook Club, Valencia on Thu 8 Oct.
 
@@ -33,4 +33,4 @@ KlangKuenstler is a techno and house artist based in Germany, with 179 gigs on s
 
 Daria Kolosova, I Hate Models, Kobosil
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klangkuenstler/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klangkuenstler/)*

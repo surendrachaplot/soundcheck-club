@@ -1,6 +1,6 @@
 # Crackazat & Jimpster (Live) at The Jazz Cafe
 
-Crackazat & Jimpster (Live) at The Jazz Cafe on Sat 17 Oct, London. 2 artists: Crackazat and Jimpster. House and Broken Beat. See the line-up on soundcheck.
+Crackazat & Jimpster (Live) at The Jazz Cafe on Sat 17 Oct, London. 3 artists: Crackazat, Faro and Jimpster. House and Broken Beat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Crackazat & Jimpster (Live) at The Jazz Cafe on Sat 17 Oct, London. 2 artists: C
 ## Line-up
 
 - Crackazat
+- Faro
 - Jimpster
 
 *Source: [soundcheck](https://soundcheck.club/e/2486816-crackazat-jimpster-live-at-the-jazz-cafe/)*

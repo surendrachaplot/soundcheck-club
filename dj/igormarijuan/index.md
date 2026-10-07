@@ -1,6 +1,6 @@
 # Igor Marijuan
 
-Igor Marijuan is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 10 Oct 2026.
+Igor Marijuan is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 10 Oct 2026.
 
 Igor Marijuan is a house and deep house artist based in Spain, with 71 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 4 more. Often billed alongside unders, BOHEM and Lee Burridge. Next up: Do Not Sit On The Furniture, Miami on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Igor Marijuan is a house and deep house artist based in Spain, with 71 gigs on s
 
 unders, BOHEM, Lee Burridge
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/igormarijuan/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/igormarijuan/)*

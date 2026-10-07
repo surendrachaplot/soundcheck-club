@@ -1,14 +1,13 @@
 # Miss I
 
-Miss I is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Miss I is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Rest Favignana, Sicily on Fri, 16 Oct 2026.
 
-Miss I is a house and techno artist based in Romania, with 41 gigs on soundcheck across Berlin, Brussels, Bucharest and Greece and 5 more. Often billed alongside oddist, Andrei Ciubuc and Clovis. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Miss I is a house and techno artist based in Romania, with 41 gigs on soundcheck across Berlin, Brussels, Bucharest and Greece and 5 more. Often billed alongside oddist, Andrei Ciubuc and Clovis. Next up: Rest Favignana, Sicily on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Fri, 16 Oct 2026 | Rest Favignana | Sicily |
 
 ## Recently played
@@ -26,4 +25,4 @@ Miss I is a house and techno artist based in Romania, with 41 gigs on soundcheck
 
 oddist, Andrei Ciubuc, Clovis
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missi/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missi/)*

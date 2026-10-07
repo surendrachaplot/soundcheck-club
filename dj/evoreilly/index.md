@@ -1,6 +1,6 @@
 # Ev O'Reilly
 
-Ev O'Reilly is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Taco Loco, Vancouver on Sat, 10 Oct 2026.
+Ev O'Reilly is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Taco Loco, Vancouver on Sat, 10 Oct 2026.
 
 Ev O'Reilly is a house and minimal artist based in Ireland, with 27 gigs on soundcheck across Vancouver. Often billed alongside Lalo Campo, miniski and dj_2button. Next up: Taco Loco, Vancouver on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Ev O'Reilly is a house and minimal artist based in Ireland, with 27 gigs on soun
 
 Lalo Campo, miniski, dj_2button
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evoreilly/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evoreilly/)*

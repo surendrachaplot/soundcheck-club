@@ -1,6 +1,6 @@
 # Paulawar
 
-Paulawar is a Bass and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA -  VARIOUS, Berlin on Fri, 2 Oct 2026.
+Paulawar is a Bass and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA -  VARIOUS, Berlin on Fri, 2 Oct 2026.
 
 Paulawar is a bass and reggaeton artist based in Chile, with 31 gigs on soundcheck across Berlin and Paris. Often billed alongside Taradud, PAULAH and Dakn. Next up: TBA -  VARIOUS, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Paulawar is a bass and reggaeton artist based in Chile, with 31 gigs on soundche
 
 Taradud, PAULAH, Dakn
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulawar/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulawar/)*

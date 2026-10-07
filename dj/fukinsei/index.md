@@ -1,6 +1,6 @@
 # Fukinsei
 
-Fukinsei is a Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Giri, Berlin on Wed, 7 Oct 2026.
+Fukinsei is a Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Giri, Berlin on Wed, 7 Oct 2026.
 
 Fukinsei is a bass and experimental artist based in Italy, with 46 gigs on soundcheck across Berlin, Hamburg, Krakow and Lyon and 4 more. Often billed alongside Assyouti, Ben Sleia and DE:MA. Next up: Giri, Berlin on Wed 7 Oct.
 
@@ -26,4 +26,4 @@ Fukinsei is a bass and experimental artist based in Italy, with 46 gigs on sound
 
 Assyouti, Ben Sleia, DE:MA
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fukinsei/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fukinsei/)*

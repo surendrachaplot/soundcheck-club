@@ -1,6 +1,6 @@
 # Shonky
 
-Shonky is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at DURO, Milan on Fri, 9 Oct 2026.
+Shonky is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at DURO, Milan on Fri, 9 Oct 2026.
 
 Shonky is a house and tech house artist based in France, with 231 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: DURO, Milan on Fri 9 Oct.
 
@@ -34,4 +34,4 @@ Shonky is a house and tech house artist based in France, with 231 gigs on soundc
 
 Dyed Soundorom, Dan Ghenacia, Apollonia
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shonky/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shonky/)*

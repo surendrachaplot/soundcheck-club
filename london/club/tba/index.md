@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a music venue in London with 312 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "system SPOOKY OCTOBER PASS" on Sat, 3 Oct 2026.
+TBA is a music venue in London with 325 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "system SPOOKY OCTOBER PASS" on Sat, 3 Oct 2026.
 
-TBA is a music venue in London listed on soundcheck. 312 upcoming gigs, with line-ups including 1-800 GIRLS, 8h sleep, 8ULENTINA and 96 Back and 2 more. See dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 325 upcoming gigs, with line-ups including 1-800 GIRLS, 8h sleep, 8ULENTINA and 96 Back and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -13,10 +13,10 @@ TBA is a music venue in London listed on soundcheck. 312 upcoming gigs, with lin
 | Thu, 8 Oct 2026 | - |  |
 | Thu, 8 Oct 2026 | High Fade Secret Show - Edinburgh | High Fade |
 | Thu, 8 Oct 2026 | Infra presents: Zenker Brothers, Manny Underground, & VEZ | VEZ., Zenker Brothers |
+| Thu, 8 Oct 2026 | Duende |  |
 | Fri, 9 Oct 2026 | VANTEK X LIVID: Pawlowski | Behrad Tehrani, C-Star, Pawlowski, SÜRVIVØR |
 | Fri, 9 Oct 2026 | (after) hours 001 |  |
 | Fri, 9 Oct 2026 | Medea Projekt: Cosey Mueller + F.T.F (far too frail) + Dilunar + Tau Ceti + bis.danni | Cristóval Dilunar, Tau Ceti |
 | Fri, 9 Oct 2026 | HDC presents: The Advent + CSILLA & RAH | CSILLA, RAH (US), The Advent |
-| Fri, 9 Oct 2026 | Hybrid Identity: sapphic autumn | Antenes, Constructible, Emsho, Ron Like Hell, Scotia, threehz |
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*

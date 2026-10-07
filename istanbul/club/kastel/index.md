@@ -1,6 +1,6 @@
 # Kastel
 
-Kastel is a music venue in Istanbul with 8 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Kastel with Oliver Huntemann" on Wed, 7 Oct 2026.
+Kastel is a music venue in Istanbul with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Kastel with Oliver Huntemann" on Wed, 7 Oct 2026.
 
 Kastel is a music venue in Istanbul listed on soundcheck. 8 upcoming gigs, with line-ups including Alican, Benny Benassi, Fault and Fuchs and 2 more. See dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
 
@@ -21,4 +21,4 @@ Kastel is a music venue in Istanbul listed on soundcheck. 8 upcoming gigs, with 
 
 Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey, Istanbul
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*

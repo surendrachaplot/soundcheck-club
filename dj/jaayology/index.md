@@ -1,6 +1,6 @@
 # Jaayology
 
-Jaayology is a Jazz and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Outdoors Garden (30 Mins From Bcn), Barcelona on Sat, 10 Oct 2026.
+Jaayology is a Jazz and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Outdoors Garden (30 Mins From Bcn), Barcelona on Sat, 10 Oct 2026.
 
 Jaayology is a jazz and funk / soul artist based in Brazil, with 46 gigs on soundcheck across Bangkok, Barcelona, Chicago and Hong Kong and 3 more. Often billed alongside Fred Guzzo, Camilo Miranda and Zonzo. Next up: TBA - Outdoors Garden (30 Mins From Bcn), Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Jaayology is a jazz and funk / soul artist based in Brazil, with 46 gigs on soun
 
 Fred Guzzo, Camilo Miranda, Zonzo
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaayology/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaayology/)*

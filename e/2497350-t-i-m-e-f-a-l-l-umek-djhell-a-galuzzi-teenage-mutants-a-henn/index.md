@@ -1,6 +1,6 @@
 # T.I.M.E.F.A.L.L. - Umek - DjHell - A.Galuzzi - Teenage Mutants - A.Henneberg  uvm at DSTRKT Club Berlin
 
-T.I.M.E.F.A.L.L. - Umek - DjHell - A.Galuzzi - Teenage Mutants - A.Henneberg  uvm at DSTRKT Club Berlin on Sat 28 Nov, Berlin. 11 artists: André Galluzzi, Andreas Henneberg, BLYSS and Cat Vermillion and 7 more. Techno and Hardcore. See the line-up on soundcheck.
+T.I.M.E.F.A.L.L. - Umek - DjHell - A.Galuzzi - Teenage Mutants - A.Henneberg  uvm at DSTRKT Club Berlin on Sat 28 Nov, Berlin. 9 artists: Andreas Henneberg, BLYSS, Cat Vermillion and DJ Hell and 5 more. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,12 +10,10 @@ T.I.M.E.F.A.L.L. - Umek - DjHell - A.Galuzzi - Teenage Mutants - A.Henneberg  uv
 
 ## Line-up
 
-- André Galluzzi
 - Andreas Henneberg
 - BLYSS
 - Cat Vermillion
 - DJ Hell
-- Fab Massimo
 - Jil Tanner
 - JOANNA COELHO
 - Rose

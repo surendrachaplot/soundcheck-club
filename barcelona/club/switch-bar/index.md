@@ -1,6 +1,6 @@
 # Switch Bar
 
-Switch Bar is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Bobare Wednesday: Concrete Joe / LM" on Wed, 7 Oct 2026.
+Switch Bar is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Bobare Wednesday: Concrete Joe / LM" on Wed, 7 Oct 2026.
 
 Switch Bar is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, with line-ups including Konnin, LeMichael, LM and Rumbler. See dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
 
@@ -16,4 +16,4 @@ Switch Bar is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, 
 
 Carrer Francisco Giner, 24, 08012 Barcelona, Spain, Barcelona
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*

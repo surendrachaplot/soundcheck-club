@@ -1,6 +1,6 @@
 # Nene H
 
-Nene H is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Hidden, Manchester on Fri, 9 Oct 2026.
+Nene H is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Hidden, Manchester on Fri, 9 Oct 2026.
 
 Nene H is a techno and house artist based in Germany, with 211 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Hyperaktivist, Mama Snake and Mary Lake. Next up: Hidden, Manchester on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ Nene H is a techno and house artist based in Germany, with 211 gigs on soundchec
 
 Hyperaktivist, Mama Snake, Mary Lake
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neneh/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neneh/)*

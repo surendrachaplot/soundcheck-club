@@ -1,14 +1,13 @@
 # Eleou
 
-Eleou is a IDM and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Eleou is a IDM and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Edem Beach Club, Greece on Wed, 26 May 2027.
 
-Eleou is an idm and house artist based in United States of America, with 33 gigs on soundcheck across Athens, Barcelona, Brussels and Greece and 4 more. Often billed alongside True Vine, Bort and Ostara. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Eleou is an idm and house artist based in United States of America, with 33 gigs on soundcheck across Athens, Barcelona, Brussels and Greece and 4 more. Often billed alongside True Vine, Bort and Ostara. Next up: Edem Beach Club, Greece on Wed 26 May.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Wed, 26 May 2027 | Edem Beach Club | Greece |
 
 ## Recently played
@@ -26,4 +25,4 @@ Eleou is an idm and house artist based in United States of America, with 33 gigs
 
 True Vine, Bort, Ostara
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eleou/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eleou/)*

@@ -1,6 +1,6 @@
 # DENA (IT)
 
-DENA (IT) is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 29 Oct 2026.
+DENA (IT) is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 29 Oct 2026.
 
 DENA (IT) is a house and breakbeat artist based in Italy, with 25 gigs on soundcheck across Barcelona, Los Angeles, Mallorca and Munich. Often billed alongside August Artier, UNKNOW (IT) and Adrian Bigueur. Next up: Bahnwärter Thiel, Munich on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ DENA (IT) is a house and breakbeat artist based in Italy, with 25 gigs on soundc
 
 August Artier, UNKNOW (IT), Adrian Bigueur
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dena-it/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dena-it/)*

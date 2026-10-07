@@ -1,6 +1,6 @@
 # Commune
 
-Commune is a music venue in Liverpool with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "Croakheads North x Seel Street Sound System" on Sat, 10 Oct 2026.
+Commune is a music venue in Liverpool with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "Croakheads North x Seel Street Sound System" on Sat, 10 Oct 2026.
 
 Commune is a music venue in Liverpool listed on soundcheck. 1 upcoming gig, with line-ups including Madelaine Jemine. See dates, start times and who's playing. Constance St, Liverpool L3 8HB.
 
@@ -14,4 +14,4 @@ Commune is a music venue in Liverpool listed on soundcheck. 1 upcoming gig, with
 
 Constance St, Liverpool L3 8HB, Liverpool
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/commune/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/commune/)*

@@ -1,6 +1,6 @@
 # The Baptist
 
-The Baptist is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at 404.EXE, Atlanta on Sat, 10 Oct 2026.
+The Baptist is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at 404.EXE, Atlanta on Sat, 10 Oct 2026.
 
 The Baptist is a techno and house artist based in United States of America, with 25 gigs on soundcheck across Atlanta, Boston, Los Angeles and New York City and 3 more. Often billed alongside Xolo, Amino and Christopher Foor. Next up: 404.EXE, Atlanta on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ The Baptist is a techno and house artist based in United States of America, with
 
 Xolo, Amino, Christopher Foor
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebaptist/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebaptist/)*

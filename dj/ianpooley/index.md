@@ -1,6 +1,6 @@
 # Ian Pooley
 
-Ian Pooley is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Secret Location , Mexico City on Sat, 10 Oct 2026.
+Ian Pooley is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Secret Location , Mexico City on Sat, 10 Oct 2026.
 
 Ian Pooley is a house and techno artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Athens, Auckland and Bangkok and 45 more. Often billed alongside dj sweet6teen, Eva Crystaltips and Luca Olivotto. Next up: TBA - Secret Location , Mexico City on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Ian Pooley is a house and techno artist based in Germany, with 114 gigs on sound
 
 dj sweet6teen, Eva Crystaltips, Luca Olivotto
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ianpooley/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ianpooley/)*

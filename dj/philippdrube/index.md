@@ -1,14 +1,15 @@
 # Philipp Drube
 
-Philipp Drube is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at elipamanoke, Leipzig on Fri, 23 Oct 2026.
+Philipp Drube is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at elipamanoke, Leipzig on Fri, 23 Oct 2026.
 
-Philipp Drube is a techno and trance artist based in Germany, with 70 gigs on soundcheck across Berlin, Brussels, Budapest and Copenhagen and 14 more. Often billed alongside Frank Heise, DINA and Inverse Element. Next up: elipamanoke, Leipzig on Fri 23 Oct.
+Philipp Drube is a techno and trance artist based in Germany, with 71 gigs on soundcheck across Berlin, Brussels, Budapest and Copenhagen and 14 more. Often billed alongside Frank Heise, DINA and Inverse Element. Next up: elipamanoke, Leipzig on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | elipamanoke | Leipzig |
+| Fri, 6 Nov 2026 | KHIDI | Tbilisi |
 | Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Philipp Drube is a techno and trance artist based in Germany, with 70 gigs on so
 
 Frank Heise, DINA, Inverse Element
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippdrube/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippdrube/)*

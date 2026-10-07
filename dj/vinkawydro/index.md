@@ -1,14 +1,14 @@
 # Vinka Wydro
 
-Vinka Wydro is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Oddity Club, Athens on Sat, 10 Oct 2026.
+Vinka Wydro is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Temple Club, Athens on Sat, 10 Oct 2026.
 
-Vinka Wydro is a techno and industrial artist based in France, with 62 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 19 more. Often billed alongside Angel Karel, DEBBIE (IT) and LiXaa. Next up: Oddity Club, Athens on Sat 10 Oct.
+Vinka Wydro is a techno and industrial artist based in France, with 62 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 19 more. Often billed alongside Angel Karel, DEBBIE (IT) and LiXaa. Next up: TBA - Temple Club, Athens on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Oddity Club | Athens |
+| Sat, 10 Oct 2026 | TBA - Temple Club | Athens |
 | Wed, 21 Oct 2026 | Rex Club | Paris |
 
 ## Recently played
@@ -26,4 +26,4 @@ Vinka Wydro is a techno and industrial artist based in France, with 62 gigs on s
 
 Angel Karel, DEBBIE (IT), LiXaa
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vinkawydro/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vinkawydro/)*

@@ -1,14 +1,15 @@
 # fleika
 
-fleika is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Twist Bar, Prague on Fri, 30 Oct 2026.
+fleika is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Twist Bar, Prague on Fri, 30 Oct 2026.
 
-fleika is a techno and house artist, with 86 gigs on soundcheck across Athens, Berlin, Hong Kong and Lisbon and 8 more. Often billed alongside Marie Pravda, Pink Concrete and Axis Alpha. Next up: Twist Bar, Prague on Fri 30 Oct.
+fleika is a techno and house artist, with 87 gigs on soundcheck across Athens, Berlin, Hong Kong and Lisbon and 8 more. Often billed alongside Marie Pravda, Pink Concrete and Axis Alpha. Next up: Twist Bar, Prague on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Twist Bar | Prague |
+| Fri, 13 Nov 2026 | Stadion Strahov | Prague |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ fleika is a techno and house artist, with 86 gigs on soundcheck across Athens, B
 
 Marie Pravda, Pink Concrete, Axis Alpha
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fleika/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fleika/)*

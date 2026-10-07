@@ -1,6 +1,6 @@
 # NØA (DE)
 
-NØA (DE) is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at KHC Neustrelitz, Mecklenburg-vorpommern on Sat, 24 Oct 2026.
+NØA (DE) is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at KHC Neustrelitz, Mecklenburg-vorpommern on Sat, 24 Oct 2026.
 
 NØA (DE) is a techno and acid artist based in Germany, with 9 gigs on soundcheck across Berlin, Krakow and Mecklenburg Vorpommern. Often billed alongside TechTonic, Filialleiter and MARRE. Next up: KHC Neustrelitz, Mecklenburg Vorpommern on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ NØA (DE) is a techno and acid artist based in Germany, with 9 gigs on soundchec
 
 TechTonic, Filialleiter, MARRE
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noade/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noade/)*

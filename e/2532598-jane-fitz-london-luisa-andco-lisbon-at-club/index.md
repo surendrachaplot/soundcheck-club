@@ -1,6 +1,6 @@
-# Jane Fitz (宀, London)  Luisa (andco, Lisbon) at 宀 Club
+# Jane Fitz (宀, London) & Luisa (andco, Lisbon) at 宀 Club
 
-Jane Fitz (宀, London)  Luisa (andco, Lisbon) at 宀 Club on Fri 4 Dec, Hong Kong. 2 artists: Jane Fitz and Luisa. Techno and House. See the line-up on soundcheck.
+Jane Fitz (宀, London) & Luisa (andco, Lisbon) at 宀 Club on Fri 4 Dec, Hong Kong. 2 artists: Jane Fitz and Luisa. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

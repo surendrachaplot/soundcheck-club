@@ -17,7 +17,7 @@ CARTULIS (TECHNO/HOUSE) at WOMB on Sat 24 Oct, Tokyo. 9 artists: CHIDA, DSKE, Ju
 - RYOKEI
 - teppei
 - Unai Trotti
-- Yama
+- YAMA(JP/OSK)
 - Z@p
 
 *Source: [soundcheck](https://soundcheck.club/e/2522407-cartulis-techno-house-at-womb/)*

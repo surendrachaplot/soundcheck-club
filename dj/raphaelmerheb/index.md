@@ -1,6 +1,6 @@
 # Raphael Merheb
 
-Raphael Merheb is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Raphael Merheb is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Raphael Merheb is a minimal and house artist, with 6 gigs on soundcheck across Athens, Berlin, Budapest and Tunisia. Often billed alongside 3LIAS, Baban and Cez. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -22,4 +22,4 @@ Raphael Merheb is a minimal and house artist, with 6 gigs on soundcheck across A
 
 3LIAS, Baban, Cez (1)
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaelmerheb/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaelmerheb/)*

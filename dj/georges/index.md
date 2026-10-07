@@ -1,6 +1,6 @@
 # Georges
 
-Georges is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Sacré, Paris on Thu, 8 Oct 2026.
+Georges is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Sacré, Paris on Thu, 8 Oct 2026.
 
 Georges is a house and disco artist, with 11 gigs on soundcheck across Paris and Strasbourg. Often billed alongside Fleur De Mur, Bellaire and Contrecoeur. Next up: Sacré, Paris on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Georges is a house and disco artist, with 11 gigs on soundcheck across Paris and
 
 Fleur De Mur, Bellaire, Contrecoeur
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georges/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georges/)*

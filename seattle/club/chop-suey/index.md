@@ -1,6 +1,6 @@
 # Chop Suey
 
-Chop Suey is a music venue in Seattle with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "SORRY FOR PARTY ROCKING (2010-2015 Pop & EDM All Night Long!)" on Fri, 9 Oct 2026.
+Chop Suey is a music venue in Seattle with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "SORRY FOR PARTY ROCKING (2010-2015 Pop & EDM All Night Long!)" on Fri, 9 Oct 2026.
 
 Chop Suey is a music venue in Seattle listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 1325 E. Madison; Seattle, WA 98122; United States.
 
@@ -15,4 +15,4 @@ Chop Suey is a music venue in Seattle listed on soundcheck. 2 upcoming gigs. See
 
 1325 E. Madison; Seattle, WA 98122; United States, Seattle
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/chop-suey/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/chop-suey/)*

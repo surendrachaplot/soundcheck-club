@@ -1,6 +1,6 @@
 # DJ Shimamura
 
-DJ Shimamura is a Hardcore and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Roop Sounds, Chubu on Sat, 14 Nov 2026.
+DJ Shimamura is a Hardcore and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Roop Sounds, Chubu on Sat, 14 Nov 2026.
 
 DJ Shimamura is a hardcore and club artist based in Japan, with 51 gigs on soundcheck across Bangkok, Chubu, Osaka and Tokyo. Often billed alongside M-Project, MIDI War and NATSUMI. Next up: Roop Sounds, Chubu on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ DJ Shimamura is a hardcore and club artist based in Japan, with 51 gigs on sound
 
 M-Project, MIDI War, NATSUMI
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djshimamura/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djshimamura/)*

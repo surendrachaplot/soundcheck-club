@@ -1,6 +1,6 @@
 # Mizz Softee: CORA, DJ Saliva, Mohajer, Succubass, DJ G, Eugenia, Hank Jackson, Matas + more at Signal
 
-Mizz Softee: CORA, DJ Saliva, Mohajer, Succubass, DJ G, Eugenia, Hank Jackson, Matas + more at Signal on Sun 11 Oct, New York City. 10 artists: CORA, DJ G., Dj Saliva and Eugenia and 6 more. Techno and House. See the line-up on soundcheck.
+Mizz Softee: CORA, DJ Saliva, Mohajer, Succubass, DJ G, Eugenia, Hank Jackson, Matas + more at Signal on Sun 11 Oct, New York City. 10 artists: Cora (CN), DJ G., Dj Saliva and Eugenia and 6 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Mizz Softee: CORA, DJ Saliva, Mohajer, Succubass, DJ G, Eugenia, Hank Jackson, M
 
 ## Line-up
 
-- CORA
+- Cora (CN)
 - DJ G.
 - Dj Saliva
 - Eugenia

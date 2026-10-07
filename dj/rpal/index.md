@@ -1,6 +1,6 @@
 # rPal
 
-rPal is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Model, Nottingham on Sat, 31 Oct 2026.
+rPal is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at The Model, Nottingham on Sat, 31 Oct 2026.
 
 rPal is a house and techno artist based in United Kingdom, with 25 gigs on soundcheck across Nottingham. Often billed alongside Mush Love (UK), Brad Bradley and James Tristan. Next up: The Model, Nottingham on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ rPal is a house and techno artist based in United Kingdom, with 25 gigs on sound
 
 Mush Love (UK), Brad Bradley, James Tristan
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rpal/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rpal/)*

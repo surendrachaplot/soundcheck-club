@@ -1,6 +1,6 @@
 # DJ Moma
 
-DJ Moma is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Le Bain, New York City on Wed, 7 Oct 2026.
+DJ Moma is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Le Bain, New York City on Wed, 7 Oct 2026.
 
 DJ Moma is a house and r&b artist, with 130 gigs on soundcheck across Amsterdam, Chicago, Houston and Los Angeles and 4 more. Often billed alongside Eli Escobar, Boy Cordero and Suga Shay. Next up: Le Bain, New York City on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ DJ Moma is a house and r&b artist, with 130 gigs on soundcheck across Amsterdam,
 
 Eli Escobar, Boy Cordero, Suga Shay
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmoma/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmoma/)*

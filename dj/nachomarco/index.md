@@ -1,6 +1,6 @@
 # Nacho Marco
 
-Nacho Marco is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Sala Villanos, Madrid on Fri, 13 Nov 2026.
+Nacho Marco is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Sala Villanos, Madrid on Fri, 13 Nov 2026.
 
 Nacho Marco is an electronica and house artist based in Spain, with 26 gigs on soundcheck across Barcelona, Berlin, Madrid and Valencia. Often billed alongside Satoshi Tomiie, Steve Bug and Acid Hero. Next up: Sala Villanos, Madrid on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Nacho Marco is an electronica and house artist based in Spain, with 26 gigs on s
 
 Satoshi Tomiie, Steve Bug, Acid Hero
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nachomarco/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nachomarco/)*

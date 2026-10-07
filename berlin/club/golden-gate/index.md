@@ -1,6 +1,6 @@
 # Golden Gate
 
-Golden Gate is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Hidden Variables" on Thu, 8 Oct 2026.
+Golden Gate is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Hidden Variables" on Thu, 8 Oct 2026.
 
 Golden Gate is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Adine Frost, Barbara Alvarez, Click | Click and ELLA and 2 more. See dates, start times and who's playing. Dircksenstrasse 78; Mitte; 10178 Berlin; Germany.
 
@@ -16,4 +16,4 @@ Golden Gate is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, wi
 
 Dircksenstrasse 78; Mitte; 10178 Berlin; Germany, Berlin
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*

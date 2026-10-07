@@ -1,6 +1,6 @@
 # Unité.22
 
-Unité.22 is a music venue in Marseille with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Rêves Tour X Unité.22 (Marseille)" on Sat, 10 Oct 2026.
+Unité.22 is a music venue in Marseille with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Rêves Tour X Unité.22 (Marseille)" on Sat, 10 Oct 2026.
 
 Unité.22 is a music venue in Marseille listed on soundcheck. 3 upcoming gigs, with line-ups including Boskøw, Feroui, notinbed and Rachel Noon and 1 more. See dates, start times and who's playing. 22 rue jobin, 13003 Marseille.
 
@@ -16,4 +16,4 @@ Unité.22 is a music venue in Marseille listed on soundcheck. 3 upcoming gigs, w
 
 22 rue jobin, 13003 Marseille, Marseille
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/unit-22/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/unit-22/)*

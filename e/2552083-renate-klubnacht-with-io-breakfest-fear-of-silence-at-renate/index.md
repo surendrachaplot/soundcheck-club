@@ -1,6 +1,6 @@
 # Renate Klubnacht with IO, Breakfest & Fear Of SIlence at Renate
 
-Renate Klubnacht with IO, Breakfest & Fear Of SIlence on Sat 7 Nov, Berlin. 12 artists: Delta Division, dérive, Esther and Justus Kaya and 8 more. Techno and House. See the line-up on soundcheck.
+Renate Klubnacht with IO, Breakfest & Fear Of SIlence on Sat 7 Nov, Berlin. 13 artists: Delta Division, dérive, Esgeem and Justus Kaya and 9 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,10 +12,11 @@ Renate Klubnacht with IO, Breakfest & Fear Of SIlence on Sat 7 Nov, Berlin. 12 a
 
 - Delta Division
 - dérive
-- Esther
+- Esgeem
 - Justus Kaya
+- Laetizia
 - lu.wicked
-- MANTIS
+- Mantis (IT)
 - Mordio
 - N:in (DE)
 - Rompa

@@ -1,6 +1,6 @@
 # Surgeon
 
-Surgeon is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at CLUB RAUM, Amsterdam on Sat, 10 Oct 2026.
+Surgeon is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at CLUB RAUM, Amsterdam on Sat, 10 Oct 2026.
 
 Surgeon is a techno and house artist based in United Kingdom, with 132 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 39 more. Often billed alongside Speedy J, DJ Pete and Eris Drew. Next up: CLUB RAUM, Amsterdam on Sat 10 Oct.
 
@@ -31,4 +31,4 @@ Surgeon is a techno and house artist based in United Kingdom, with 132 gigs on s
 
 Speedy J, DJ Pete, Eris Drew
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeon/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeon/)*

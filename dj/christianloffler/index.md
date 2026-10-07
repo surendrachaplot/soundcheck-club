@@ -1,14 +1,15 @@
 # Christian Löffler
 
-Christian Löffler is a House and Electronica artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Roxy, Prague on Fri, 9 Oct 2026.
+Christian Löffler is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Roxy, Prague on Fri, 9 Oct 2026.
 
-Christian Löffler is a house and electronica artist based in Germany, with 102 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 42 more. Often billed alongside Parra for Cuva, ELIF and Holly North. Next up: Roxy, Prague on Fri 9 Oct.
+Christian Löffler is a house and techno artist based in Germany, with 103 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside Parra for Cuva, ELIF and Holly North. Next up: Roxy, Prague on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Roxy | Prague |
+| Sat, 10 Oct 2026 | Sektor 6D | Warsaw |
 | Fri, 30 Oct 2026 | EQ San Diego | San Diego |
 | Sat, 31 Oct 2026 | Public Works | San Francisco/Oakland |
 | Fri, 13 Nov 2026 | ZeyZey | Miami |
@@ -29,4 +30,4 @@ Christian Löffler is a house and electronica artist based in Germany, with 102 
 
 Parra for Cuva, ELIF, Holly North
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christianloffler/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christianloffler/)*

@@ -1,13 +1,14 @@
 # Aron Friedman
 
-Aron Friedman is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Fri, 23 Oct 2026.
+Aron Friedman is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Café Katoen, Amsterdam on Thu, 22 Oct 2026.
 
-Aron Friedman is a tech house and techno artist based in Netherlands, with 26 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Galen, Amandla and Boj Tieman. Next up: THE OTHER SIDE, Amsterdam on Fri 23 Oct.
+Aron Friedman is a tech house and techno artist based in Netherlands, with 27 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Galen, RAAF and Amandla. Next up: Café Katoen, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Café Katoen | Amsterdam |
 | Fri, 23 Oct 2026 | THE OTHER SIDE | Amsterdam |
 
 ## Recently played
@@ -23,6 +24,6 @@ Aron Friedman is a tech house and techno artist based in Netherlands, with 26 gi
 
 ## Shares bills with
 
-Galen, Amandla, Boj Tieman
+Galen, RAAF, Amandla
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aronfriedman/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aronfriedman/)*

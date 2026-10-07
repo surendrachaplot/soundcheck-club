@@ -1,6 +1,6 @@
 # MindGazm
 
-MindGazm is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Upside, Florida on Sat, 10 Oct 2026.
+MindGazm is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Upside, Florida on Sat, 10 Oct 2026.
 
 MindGazm is a deep house and progressive house artist based in United States of America, with 35 gigs on soundcheck across Florida, Miami and New York City. Often billed alongside Max White, Alexander Technique and Brandon Morales. Next up: Upside, Florida on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ MindGazm is a deep house and progressive house artist based in United States of 
 
 Max White, Alexander Technique, Brandon Morales
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mindgazm/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mindgazm/)*

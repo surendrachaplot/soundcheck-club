@@ -1,6 +1,6 @@
 # The Avalanches
 
-The Avalanches is a Electronica and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at DRUMSHEDS, London on Sat, 10 Oct 2026.
+The Avalanches is a Electronica and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
 The Avalanches is an electronica and house artist based in Australia, with 10 gigs on soundcheck across Bali, Bristol, Brussels and London and 5 more. Often billed alongside 2ManyDJs, 4am Kru and 96 Back. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ The Avalanches is an electronica and house artist based in Australia, with 10 gi
 
 2ManyDJs, 4am Kru, 96 Back
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avalanches/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avalanches/)*

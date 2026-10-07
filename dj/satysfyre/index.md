@@ -1,8 +1,8 @@
 # SATYS FYRE
 
-SATYS FYRE is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Phantom Bar Berlin, Berlin on Wed, 7 Oct 2026.
+SATYS FYRE is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Phantom Bar Berlin, Berlin on Wed, 7 Oct 2026.
 
-SATYS FYRE is a techno and trance artist based in Germany, with 60 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig and 4 more. Often billed alongside Cleopard2000, Elotrance and Mika Heggemann. Next up: Phantom Bar Berlin, Berlin on Wed 7 Oct.
+SATYS FYRE is a techno and trance artist based in Germany, with 61 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig and 5 more. Often billed alongside Cleopard2000, Elotrance and Mika Heggemann. Next up: Phantom Bar Berlin, Berlin on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ SATYS FYRE is a techno and trance artist based in Germany, with 60 gigs on sound
 | Wed, 7 Oct 2026 | Phantom Bar Berlin | Berlin |
 | Fri, 9 Oct 2026 | Uebel & Gefährlich | Hamburg |
 | Sat, 10 Oct 2026 | Fvtvr | Paris |
+| Wed, 14 Oct 2026 | Amp | Munster |
 | Sat, 5 Dec 2026 | OST | Berlin |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 
@@ -29,4 +30,4 @@ SATYS FYRE is a techno and trance artist based in Germany, with 60 gigs on sound
 
 Cleopard2000, Elotrance, Mika Heggemann
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satysfyre/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satysfyre/)*

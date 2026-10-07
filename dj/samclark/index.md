@@ -1,6 +1,6 @@
 # Sam Clark
 
-Sam Clark is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Honey's, New York City on Fri, 16 Oct 2026.
+Sam Clark is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Honey's, New York City on Fri, 16 Oct 2026.
 
 Sam Clark is a house and deep house artist based in United States of America, with 17 gigs on soundcheck across Austin and New York City. Often billed alongside Horse Opera, Brett Johnson and TORSK. Next up: Honey's, New York City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Sam Clark is a house and deep house artist based in United States of America, wi
 
 Horse Opera, Brett Johnson, TORSK
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samclark/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samclark/)*

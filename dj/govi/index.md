@@ -1,6 +1,6 @@
 # GOVI
 
-GOVI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Mooi Space, Toronto on Sat, 14 Nov 2026.
+GOVI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Mooi Space, Toronto on Sat, 14 Nov 2026.
 
 GOVI is a house and techno artist, with 8 gigs on soundcheck across Madrid, Munich, Sydney and Tokyo and 1 more. Often billed alongside 1-800 NATZ, Ana Luisa and Barlo. Next up: Mooi Space, Toronto on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ GOVI is a house and techno artist, with 8 gigs on soundcheck across Madrid, Muni
 
 1-800 NATZ, Ana Luisa, Barlo
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/govi/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/govi/)*

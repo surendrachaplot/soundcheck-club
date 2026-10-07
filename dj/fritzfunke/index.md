@@ -1,6 +1,6 @@
 # Fritz Funke
 
-Fritz Funke is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Minimal Bar, Berlin on Fri, 13 Nov 2026.
+Fritz Funke is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Minimal Bar, Berlin on Fri, 13 Nov 2026.
 
 Fritz Funke is an electronic artist based in Germany, with 25 gigs on soundcheck across Berlin. Often billed alongside Kat Kat Tat. Next up: Minimal Bar, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Fritz Funke is an electronic artist based in Germany, with 25 gigs on soundcheck
 
 Kat Kat Tat
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fritzfunke/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fritzfunke/)*

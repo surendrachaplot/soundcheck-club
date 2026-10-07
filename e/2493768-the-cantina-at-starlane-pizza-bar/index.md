@@ -1,6 +1,6 @@
 # The Cantina at Starlane Pizza Bar
 
-The Cantina at Starlane Pizza Bar on Fri 16 Oct, London. 3 artists: Freddie Grisbi, Goutham and obviouslyalex. Tech House and Deep House. See the line-up on soundcheck.
+The Cantina at Starlane Pizza Bar on Fri 16 Oct, London. 4 artists: Fino Fino, Freddie Grisbi, Goutham and obviouslyalex. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ The Cantina at Starlane Pizza Bar on Fri 16 Oct, London. 3 artists: Freddie Gris
 
 ## Line-up
 
+- Fino Fino
 - Freddie Grisbi
 - Goutham
 - obviouslyalex

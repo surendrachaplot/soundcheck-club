@@ -1,6 +1,6 @@
 # Muziekgebouw aan t' IJ
 
-Muziekgebouw aan t' IJ is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "ADE: Nkisi + Crawler + 2K88, Rainy Miller, Bianca Scout" on Wed, 21 Oct 2026.
+Muziekgebouw aan t' IJ is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "ADE: Nkisi + Crawler + 2K88, Rainy Miller, Bianca Scout" on Wed, 21 Oct 2026.
 
 Muziekgebouw aan t' IJ is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including 2K88, Bianca Scout, Castle and Crawler and 2 more. See dates, start times and who's playing. Piet Heinkade 1, 1019 BR Amsterdam.
 
@@ -18,4 +18,4 @@ Muziekgebouw aan t' IJ is a music venue in Amsterdam listed on soundcheck. 5 upc
 
 Piet Heinkade 1, 1019 BR Amsterdam, Amsterdam
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/muziekgebouw-aan-t-ij/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/muziekgebouw-aan-t-ij/)*

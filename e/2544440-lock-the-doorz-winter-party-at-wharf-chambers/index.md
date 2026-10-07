@@ -1,6 +1,6 @@
 # Lock the Doorz: WINTER PARTY at Wharf Chambers
 
-Lock the Doorz: WINTER PARTY at Wharf Chambers on Fri 6 Nov, Leeds. 2 artists: Kuriboh and Santes. Techno and Acid. See the line-up on soundcheck.
+Lock the Doorz: WINTER PARTY at Wharf Chambers on Fri 6 Nov, Leeds. 3 artists: HEATHER BOA, Kuriboh and Santes. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Lock the Doorz: WINTER PARTY at Wharf Chambers on Fri 6 Nov, Leeds. 2 artists: K
 
 ## Line-up
 
+- HEATHER BOA
 - Kuriboh
 - Santes
 

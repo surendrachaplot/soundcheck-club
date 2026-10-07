@@ -1,6 +1,6 @@
 # Plot 22
 
-Plot 22 is a music venue in Sheffield with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Wobble Unit x USP Events" on Sat, 17 Oct 2026.
+Plot 22 is a music venue in Sheffield with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Wobble Unit x USP Events" on Sat, 17 Oct 2026.
 
 Plot 22 is a music venue in Sheffield listed on soundcheck. 3 upcoming gigs, with line-ups including Kid Lib, Soul Mass Transit System and Tommy Badman. See dates, start times and who's playing. 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS.
 
@@ -16,4 +16,4 @@ Plot 22 is a music venue in Sheffield listed on soundcheck. 3 upcoming gigs, wit
 
 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS, Sheffield
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/plot-22/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/plot-22/)*

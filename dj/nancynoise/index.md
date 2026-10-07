@@ -1,6 +1,6 @@
 # Nancy Noise
 
-Nancy Noise is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Babble, Brighton on Sat, 31 Oct 2026.
+Nancy Noise is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Babble, Brighton on Sat, 31 Oct 2026.
 
 Nancy Noise is a house and balearic artist based in United Kingdom, with 29 gigs on soundcheck across Brighton, Edinburgh, Ibiza and London and 2 more. Often billed alongside Terry Farley, Lisa Loud and Stuart Patterson. Next up: Babble, Brighton on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Nancy Noise is a house and balearic artist based in United Kingdom, with 29 gigs
 
 Terry Farley, Lisa Loud, Stuart Patterson
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nancynoise/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nancynoise/)*

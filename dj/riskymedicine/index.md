@@ -1,6 +1,6 @@
 # Risky Medicine
 
-Risky Medicine is a Techno and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Bsmt 254, Toronto on Sun, 11 Oct 2026.
+Risky Medicine is a Techno and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Bsmt 254, Toronto on Sun, 11 Oct 2026.
 
 Risky Medicine is a techno and afro tech artist based in Canada, with 7 gigs on soundcheck across Toronto. Often billed alongside Miss Kleio, SouthPawBrown and 'PAVV'. Next up: Bsmt 254, Toronto on Sun 11 Oct.
 
@@ -23,4 +23,4 @@ Risky Medicine is a techno and afro tech artist based in Canada, with 7 gigs on 
 
 Miss Kleio, SouthPawBrown, 'PAVV'
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riskymedicine/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riskymedicine/)*

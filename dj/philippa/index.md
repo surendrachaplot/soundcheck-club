@@ -1,6 +1,6 @@
 # Philippa
 
-Philippa is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Transit, Amsterdam on Thu, 22 Oct 2026.
+Philippa is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Transit, Amsterdam on Thu, 22 Oct 2026.
 
 Philippa is a house and deep house artist based in New Zealand, with 26 gigs on soundcheck across Amsterdam, Auckland, Berlin and Ibiza and 2 more. Often billed alongside Markus Tone, Alex Barck and Luca Olivotto. Next up: Transit, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Philippa is a house and deep house artist based in New Zealand, with 26 gigs on 
 
 Markus Tone, Alex Barck, Luca Olivotto
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippa/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippa/)*

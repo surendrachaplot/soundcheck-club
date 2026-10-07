@@ -1,6 +1,6 @@
 # Dafne x Modvlar with Charlie + Isaiia b2b Fabrizio Siano + Taglialatela at Studionotte
 
-Dafne x Modvlar with Charlie + Isaiia b2b Fabrizio Siano + Taglialatela at Studionotte on Sat 10 Oct, Milan. 2 artists: Charlie (RO) and Fabrizio Siano. Electro and Minimal. See the line-up on soundcheck.
+Dafne x Modvlar with Charlie + Isaiia b2b Fabrizio Siano + Taglialatela at Studionotte on Sat 10 Oct, Milan. 3 artists: Charlie (RO), Fabrizio Siano and RTGL. Electro and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Dafne x Modvlar with Charlie + Isaiia b2b Fabrizio Siano + Taglialatela at Studi
 
 - Charlie (RO)
 - Fabrizio Siano
+- RTGL
 
 *Source: [soundcheck](https://soundcheck.club/e/2544931-dafne-x-modvlar-with-charlie-isaiia-b2b-fabrizio-siano-tagli/)*

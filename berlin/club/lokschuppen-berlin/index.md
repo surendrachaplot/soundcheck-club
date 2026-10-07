@@ -1,14 +1,13 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 68 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Projekt Boki" on Tue, 6 Oct 2026.
+Lokschuppen Berlin is a music venue in Berlin with 67 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "SIGNALS - 5€ Tickets - w/ DJ Henk, DETOXX, DJ St4rlight b2b bbysonni" on Wed, 7 Oct 2026.
 
-Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 68 upcoming gigs, with line-ups including 1luu, 4NOUK, 5euroGoldi and 9LALEY and 2 more. See dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
+Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 67 upcoming gigs, with line-ups including 1luu, 4NOUK, 5euroGoldi and 9LALEY and 2 more. See dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 6 Oct 2026 | Projekt Boki | DJ Spaßgetränk, EZA (DE), Florelle, Lezza, Paul Bauhaus, TANZBAER, jeanska |
 | Wed, 7 Oct 2026 | SIGNALS - 5€ Tickets - w/ DJ Henk, DETOXX, DJ St4rlight b2b bbysonni | DETOXX, DJ Henk |
 | Thu, 8 Oct 2026 | Chantal's House of Shame |  |
 | Fri, 9 Oct 2026 | DEMOLATE w./ DJ Dextro, Alberto Tolo, Rill, Katnada | Alberto Tolo, Artifex (DE), DJ Dextro, Gloria Rose, Katnada, Maximus (DE), Ricksen, Rill |
@@ -18,9 +17,10 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 68 upcoming 
 | Sun, 11 Oct 2026 | wieder: BOILER ROOM SETUP + MARKETPLACE |  |
 | Wed, 14 Oct 2026 | SIGNALS - 5€ Tickets - with GI.O, Blame the Booker, RichBeat | Blame the Booker, GI.O, RichBeat |
 | Thu, 15 Oct 2026 | Chantal's House of Shame |  |
+| Fri, 16 Oct 2026 | WHALIEN x PISICA pres Creeds, BENNETT, FOVOS, Niotech, HANÀ and more tba | BENNETT, HANÀ, PEAKSOU, Saar (FR), Treibende Kraft, Westfall |
 
 ## Address
 
 Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany, Berlin
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*

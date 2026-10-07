@@ -1,14 +1,13 @@
 # Araña Club
 
-Araña Club is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "MAD RAVE | Larouge ANL By Elements Cave" on Tue, 6 Oct 2026.
+Araña Club is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "EUPHORIA BACK TO MADRIZ" on Sun, 11 Oct 2026.
 
-Araña Club is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with line-ups including JvggedDoggie, KITAE, KZTÀ and LA CATHARSIS and 2 more. See dates, start times and who's playing. Madrid, Centro 28013, Calle Flor Baja 6, , Madrid.
+Araña Club is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with line-ups including JvggedDoggie, KITAE, KZTÀ and LA CATHARSIS and 2 more. See dates, start times and who's playing. Madrid, Centro 28013, Calle Flor Baja 6, , Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 6 Oct 2026 | MAD RAVE / Larouge ANL By Elements Cave | Larouge |
 | Sun, 11 Oct 2026 | EUPHORIA BACK TO MADRIZ | KITAE, Raner Baumgartner |
 | Tue, 13 Oct 2026 | MAD RAVE by Elements Cave |  |
 | Fri, 16 Oct 2026 | SPEEDWAX invites: Nahum Korm [LISTAS GRATIS] | JvggedDoggie, KZTÀ, LA CATHARSIS, Nahum Korm, P1P3 |
@@ -21,4 +20,4 @@ Araña Club is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, wi
 
 Madrid, Centro 28013, Calle Flor Baja 6, , Madrid, Madrid
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/ara-a-club/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/ara-a-club/)*

@@ -1,8 +1,8 @@
 # SALOME
 
-SALOME is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 8 Oct 2026.
+SALOME is a Techno and Electro artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 8 Oct 2026.
 
-SALOME is a techno and electro artist based in Georgia, with 213 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside MCMLXXXV, CEM and SPFDJ. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 8 Oct.
+SALOME is a techno and electro artist based in Georgia, with 214 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside MCMLXXXV, CEM and SPFDJ. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ SALOME is a techno and electro artist based in Georgia, with 213 gigs on soundch
 | Fri, 30 Oct 2026 | Gold Bar Hangar | California |
 | Sat, 31 Oct 2026 | BASEMENT | New York City |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
+| Fri, 20 Nov 2026 | Fuse | Brussels |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ SALOME is a techno and electro artist based in Georgia, with 213 gigs on soundch
 
 MCMLXXXV, CEM, SPFDJ
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*

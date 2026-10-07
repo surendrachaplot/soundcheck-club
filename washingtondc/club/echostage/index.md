@@ -1,6 +1,6 @@
 # Echostage
 
-Echostage is a music venue in Washington DC with 17 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Afrojack w/ Green Velvet" on Sat, 10 Oct 2026.
+Echostage is a music venue in Washington DC with 17 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Afrojack w/ Green Velvet" on Sat, 10 Oct 2026.
 
 Echostage is a music venue in Washington DC listed on soundcheck. 17 upcoming gigs, with line-ups including 10cust, Afrojack, Brutalismus 3000 and Casey Club and 2 more. See dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
 
@@ -23,4 +23,4 @@ Echostage is a music venue in Washington DC listed on soundcheck. 17 upcoming gi
 
 2135 Queens Chapel Road NE, Washington, DC 20018, Washington DC
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*

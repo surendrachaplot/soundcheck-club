@@ -1,6 +1,6 @@
 # DJ Firmeza
 
-DJ Firmeza is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+DJ Firmeza is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 DJ Firmeza is an experimental and techno artist based in Portugal, with 44 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 14 more. Often billed alongside Dj Danifox, DJ Nigga Fox and Nídia. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ DJ Firmeza is an experimental and techno artist based in Portugal, with 44 gigs 
 
 Dj Danifox, DJ Nigga Fox, Nídia
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfirmeza/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfirmeza/)*

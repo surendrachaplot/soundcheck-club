@@ -1,6 +1,6 @@
 # LUISELLE
 
-LUISELLE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 12 Oct 2026.
+LUISELLE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 12 Oct 2026.
 
 LUISELLE is a techno and house artist based in Germany, with 30 gigs on soundcheck across Berlin and London. Often billed alongside Flight Mode (DE), Kobzev and G.oss. Next up: Tresor / Globus, Berlin on Mon 12 Oct.
 
@@ -26,4 +26,4 @@ LUISELLE is a techno and house artist based in Germany, with 30 gigs on soundche
 
 Flight Mode (DE), Kobzev, G.oss
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luiselle/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luiselle/)*

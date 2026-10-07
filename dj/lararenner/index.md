@@ -1,6 +1,6 @@
 # Lara Renner
 
-Lara Renner is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Garage Noord, Amsterdam on Fri, 9 Oct 2026.
+Lara Renner is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Garage Noord, Amsterdam on Fri, 9 Oct 2026.
 
 Lara Renner is a techno and trance artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Brussels, Istanbul and Vienna. Often billed alongside Delano Legito, Floris Fahrenheit and AfroNinja. Next up: Garage Noord, Amsterdam on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Lara Renner is a techno and trance artist based in Netherlands, with 28 gigs on 
 
 Delano Legito, Floris Fahrenheit, AfroNinja
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lararenner/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lararenner/)*

@@ -1,6 +1,6 @@
 # Citrus City presents: Nora at Stage and Radio
 
-Citrus City presents: Nora at Stage and Radio on Fri 13 Nov, Manchester. 2 artists: Holba and Nora (UK). Techno and Electro. See the line-up on soundcheck.
+Citrus City presents: Nora at Stage and Radio on Fri 13 Nov, Manchester. 3 artists: Holba, Nora (UK) and Orlanda. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Citrus City presents: Nora at Stage and Radio on Fri 13 Nov, Manchester. 2 artis
 
 - Holba
 - Nora (UK)
+- Orlanda
 
 *Source: [soundcheck](https://soundcheck.club/e/2524988-citrus-city-presents-nora-at-stage-and-radio/)*

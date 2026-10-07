@@ -1,6 +1,6 @@
 # TBA - Secret
 
-TBA - Secret is a music venue in London with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "BBZAO SCANDALO" on Sat, 10 Oct 2026.
+TBA - Secret is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "BBZAO SCANDALO" on Sat, 10 Oct 2026.
 
 TBA - Secret is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Martha Pinel and S-candalo. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - Secret is a music venue in London listed on soundcheck. 2 upcoming gigs, w
 | Sat, 10 Oct 2026 | BBZAO SCANDALO | S-candalo |
 | Sat, 10 Oct 2026 | DRINKZINHO - EDIÇÃO GALERIA (JANTARZINHO & CALORÉ) | Martha Pinel |
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret/)*

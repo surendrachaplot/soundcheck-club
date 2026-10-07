@@ -1,6 +1,6 @@
 # wooqee
 
-wooqee is a Tech House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at B-SIDE, Warsaw on Fri, 9 Oct 2026.
+wooqee is a Tech House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at B-SIDE, Warsaw on Fri, 9 Oct 2026.
 
 wooqee is a tech house and electro artist, with 12 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Hozy, Ilya Semashkevich and Samogulov. Next up: B-SIDE, Warsaw on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ wooqee is a tech house and electro artist, with 12 gigs on soundcheck across Kra
 
 Hozy, Ilya Semashkevich, Samogulov
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wooqee/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wooqee/)*

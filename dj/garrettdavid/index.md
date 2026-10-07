@@ -1,14 +1,13 @@
 # Garrett David
 
-Garrett David is a House and Disco artist with 11 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Garrett David is a House and Disco artist with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Frankhan Selectist, Istanbul on Sat, 10 Oct 2026.
 
-Garrett David is a house and disco artist based in United States of America, with 210 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 38 more. Often billed alongside Michael Serafini, Derrick Carter and Tomas Station. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Garrett David is a house and disco artist based in United States of America, with 210 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 38 more. Often billed alongside Michael Serafini, Derrick Carter and Tomas Station. Next up: Frankhan Selectist, Istanbul on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Sat, 10 Oct 2026 | Frankhan Selectist | Istanbul |
 | Fri, 16 Oct 2026 | Hoppetosse | Berlin |
 | Sat, 17 Oct 2026 | Sawmills | Bristol |
@@ -35,4 +34,4 @@ Garrett David is a house and disco artist based in United States of America, wit
 
 Michael Serafini, Derrick Carter, Tomas Station
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*

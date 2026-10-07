@@ -1,6 +1,6 @@
 # Basstripper
 
-Basstripper is a Drum & Bass and Bass artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Quarters, Brighton on Fri, 9 Oct 2026.
+Basstripper is a Drum & Bass and Bass artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Quarters, Brighton on Fri, 9 Oct 2026.
 
 Basstripper is a drum & bass and bass artist based in Belgium, with 47 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Birmingham and 22 more. Often billed alongside Hedex, BassLayerz and Camo & Krooked. Next up: Quarters, Brighton on Fri 9 Oct.
 
@@ -31,4 +31,4 @@ Basstripper is a drum & bass and bass artist based in Belgium, with 47 gigs on s
 
 Hedex, BassLayerz, Camo & Krooked
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basstripper/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basstripper/)*

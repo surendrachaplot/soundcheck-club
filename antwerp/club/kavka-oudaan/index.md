@@ -1,6 +1,6 @@
 # Kavka Oudaan
 
-Kavka Oudaan is a music venue in Antwerp with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "VERGEETACHTIG invites Gabriel Muñoz" on Fri, 16 Oct 2026.
+Kavka Oudaan is a music venue in Antwerp with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "VERGEETACHTIG invites Gabriel Muñoz" on Fri, 16 Oct 2026.
 
 Kavka Oudaan is a music venue in Antwerp listed on soundcheck. 2 upcoming gigs, with line-ups including Forbidden Fruit, Gabriel Muñoz and Ivy Lab. See dates, start times and who's playing. Oudaan 14; 2000 Antwerpen; Belgium.
 
@@ -15,4 +15,4 @@ Kavka Oudaan is a music venue in Antwerp listed on soundcheck. 2 upcoming gigs, 
 
 Oudaan 14; 2000 Antwerpen; Belgium, Antwerp
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/kavka-oudaan/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/kavka-oudaan/)*

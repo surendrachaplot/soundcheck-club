@@ -1,14 +1,16 @@
 # Ricardo Roessel
 
-Ricardo Roessel is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at La Chinesca, Philadelphia on Sun, 11 Oct 2026.
+Ricardo Roessel is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Secret Warehouse Location, Boston on Sat, 10 Oct 2026.
 
-Ricardo Roessel is a house and techno artist based in United States of America, with 73 gigs on soundcheck across Berlin, Chicago, Copenhagen and Denver and 10 more. Often billed alongside Crisco, Ika (GE) and Usherenko. Next up: La Chinesca, Philadelphia on Sun 11 Oct.
+Ricardo Roessel is a house and techno artist based in United States of America, with 75 gigs on soundcheck across Berlin, Boston, Chicago and Copenhagen and 11 more. Often billed alongside Crisco, Ika (GE) and Usherenko. Next up: TBA - Secret Warehouse Location, Boston on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | TBA - Secret Warehouse Location | Boston |
 | Sun, 11 Oct 2026 | La Chinesca | Philadelphia |
+| Fri, 16 Oct 2026 | TBA - Secret Location | Chicago |
 | Sat, 31 Oct 2026 | TBA - Arts District LA | Los Angeles |
 
 ## Recently played
@@ -26,4 +28,4 @@ Ricardo Roessel is a house and techno artist based in United States of America, 
 
 Crisco, Ika (GE), Usherenko
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardoroessel-us/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardoroessel-us/)*

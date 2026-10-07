@@ -1,14 +1,13 @@
 # Samir Chani
 
-Samir Chani is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Samir Chani is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Mesa Verde, Luxembourg on Sat, 31 Oct 2026.
 
-Samir Chani is a house and techno artist based in Luxembourg, with 13 gigs on soundcheck across Brussels, Greece, London and Luxembourg and 1 more. Often billed alongside Mauro Ferno, Anthea and Elia Nafzger. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Samir Chani is a house and techno artist based in Luxembourg, with 13 gigs on soundcheck across Brussels, Greece, London and Luxembourg and 1 more. Often billed alongside Mauro Ferno, Anthea and Elia Nafzger. Next up: Mesa Verde, Luxembourg on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Sat, 31 Oct 2026 | Mesa Verde | Luxembourg |
 | Sat, 14 Nov 2026 | fabric | London |
 
@@ -27,4 +26,4 @@ Samir Chani is a house and techno artist based in Luxembourg, with 13 gigs on so
 
 Mauro Ferno, Anthea, Elia Nafzger
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samirchani/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samirchani/)*

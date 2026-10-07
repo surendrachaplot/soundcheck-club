@@ -1,6 +1,6 @@
 # Sonia Calico
 
-Sonia Calico is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Paral•lel 62, Barcelona on Fri, 9 Oct 2026.
+Sonia Calico is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Paral•lel 62, Barcelona on Fri, 9 Oct 2026.
 
 Sonia Calico is a techno and ambient artist based in Taiwan, with 12 gigs on soundcheck across Bangkok, Barcelona, London and Lyon and 4 more. Often billed alongside Baalti, Sabiwa and Scintii. Next up: Paral•lel 62, Barcelona on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Sonia Calico is a techno and ambient artist based in Taiwan, with 12 gigs on sou
 
 Baalti, Sabiwa, Scintii
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soniacalico/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soniacalico/)*

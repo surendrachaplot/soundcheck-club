@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 4 Nov, Berlin. 2 artists: H7 and UniKhatu. Techno and Tech House. See the line-up on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 4 Nov, Berlin. 3 artists: H7, ØVERLOAD and UniKhatu. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ TECHNO MITTWOCH at Sensorium on Wed 4 Nov, Berlin. 2 artists: H7 and UniKhatu. T
 ## Line-up
 
 - H7 (3)
+- ØVERLOAD
 - UniKhatu
 
 *Source: [soundcheck](https://soundcheck.club/e/2518122-techno-mittwoch-at-sensorium/)*

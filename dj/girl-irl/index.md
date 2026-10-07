@@ -1,6 +1,6 @@
 # girl_irl
 
-girl_irl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Mood Ring, New York City on Sat, 10 Oct 2026.
+girl_irl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Mood Ring, New York City on Sat, 10 Oct 2026.
 
 girl_irl is a techno and house artist based in United States of America, with 48 gigs on soundcheck across Barcelona, Chicago, Los Angeles and Miami and 5 more. Often billed alongside DJ ing, Brant Wolff and Flash Gea. Next up: Mood Ring, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ girl_irl is a techno and house artist based in United States of America, with 48
 
 DJ ing, Brant Wolff, Flash Gea
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/girl-irl/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/girl-irl/)*

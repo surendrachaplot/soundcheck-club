@@ -1,6 +1,6 @@
 # Nachtwasser
 
-Nachtwasser is a Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Fridas Pier, Stuttgart on Fri, 16 Oct 2026.
+Nachtwasser is a Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Fridas Pier, Stuttgart on Fri, 16 Oct 2026.
 
 Nachtwasser is a trance artist based in Germany, with 9 gigs on soundcheck across Berlin, Cologne, Stuttgart and Vienna. Often billed alongside BabaBass3000, SUITSIDE and Atzendent. Next up: Fridas Pier, Stuttgart on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Nachtwasser is a trance artist based in Germany, with 9 gigs on soundcheck acros
 
 BabaBass3000, SUITSIDE, Atzendent
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nachtwasser/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nachtwasser/)*

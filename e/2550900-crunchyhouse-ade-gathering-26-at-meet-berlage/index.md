@@ -1,6 +1,6 @@
 # CrunchyHouse ADE Gathering '26 at Meet Berlage
 
-CrunchyHouse ADE Gathering '26 at Meet Berlage on Fri 23 Oct, Amsterdam. 3 artists: A.M. Project, ALE_MELLONI and Klevi Koci. House and Deep House. See the line-up on soundcheck.
+CrunchyHouse ADE Gathering '26 at Meet Berlage on Fri 23 Oct, Amsterdam. 4 artists: A.M. Project, ALE_MELLONI, brotherz and Klevi Koci. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ CrunchyHouse ADE Gathering '26 at Meet Berlage on Fri 23 Oct, Amsterdam. 3 artis
 
 - A.M. Project
 - ALE_MELLONI
+- brotherz
 - Klevi Koci
 
 *Source: [soundcheck](https://soundcheck.club/e/2550900-crunchyhouse-ade-gathering-26-at-meet-berlage/)*

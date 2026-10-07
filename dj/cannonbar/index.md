@@ -1,6 +1,6 @@
 # Cannonbar
 
-Cannonbar is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Virage, Paris on Sat, 31 Oct 2026.
+Cannonbar is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Virage, Paris on Sat, 31 Oct 2026.
 
 Cannonbar is a techno and acid artist based in France, with 25 gigs on soundcheck across Brussels, Madrid and Paris. Often billed alongside Corbeille Dallas, 6thFloor and Lia Catreux. Next up: Virage, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Cannonbar is a techno and acid artist based in France, with 25 gigs on soundchec
 
 Corbeille Dallas, 6thFloor, Lia Catreux
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cannonbar/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cannonbar/)*

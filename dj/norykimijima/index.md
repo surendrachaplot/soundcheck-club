@@ -1,6 +1,6 @@
 # Nory Kimijima
 
-Nory Kimijima is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Kantine am Berghain, Berlin on Sat, 10 Oct 2026.
+Nory Kimijima is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Kantine am Berghain, Berlin on Sat, 10 Oct 2026.
 
 Nory Kimijima is a techno and house artist based in Japan, with 23 gigs on soundcheck across Berlin and Tokyo. Often billed alongside Tonbo, aixx and Mattia Prete. Next up: Kantine am Berghain, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Nory Kimijima is a techno and house artist based in Japan, with 23 gigs on sound
 
 Tonbo, aixx, Mattia Prete
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/norykimijima/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/norykimijima/)*

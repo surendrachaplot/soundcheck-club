@@ -1,6 +1,6 @@
 # Shosho
 
-Shosho is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Cafe De Vlieger, Amsterdam on Sat, 24 Oct 2026.
+Shosho is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Cafe De Vlieger, Amsterdam on Sat, 24 Oct 2026.
 
 Shosho is a house and jazz artist based in Bulgaria, with 6 gigs on soundcheck across Amsterdam and Tokyo. Often billed alongside JINI, Leo Gabriel and Armenski. Next up: Cafe De Vlieger, Amsterdam on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Shosho is a house and jazz artist based in Bulgaria, with 6 gigs on soundcheck a
 
 JINI, Leo Gabriel, Armenski
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shosho/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shosho/)*

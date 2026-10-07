@@ -1,6 +1,6 @@
 # BENITO (DE)
 
-BENITO (DE) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at ://about blank, Berlin on Sat, 5 Dec 2026.
+BENITO (DE) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at ://about blank, Berlin on Sat, 5 Dec 2026.
 
 BENITO (DE) is a trance and techno artist based in Germany, with 34 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Leipzig and 1 more. Often billed alongside Limoncello, BRTLGR and Bruno Brero. Next up: ://about blank, Berlin on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ BENITO (DE) is a trance and techno artist based in Germany, with 34 gigs on soun
 
 Limoncello, BRTLGR, Bruno Brero
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benito-de/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benito-de/)*

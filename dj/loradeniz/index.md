@@ -1,8 +1,8 @@
 # Loradeniz
 
-Loradeniz is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Thu, 22 Oct 2026.
+Loradeniz is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Thu, 22 Oct 2026.
 
-Loradeniz is a techno and electronica artist, with 45 gigs on soundcheck across Amsterdam, Berlin, Glasgow and Istanbul and 3 more. Often billed alongside Interstellar Funk, Fafi Abdel Nour and Afra. Next up: THE OTHER SIDE, Amsterdam on Thu 22 Oct.
+Loradeniz is a techno and electronica artist, with 46 gigs on soundcheck across Amsterdam, Berlin, Glasgow and Istanbul and 3 more. Often billed alongside Interstellar Funk, Fafi Abdel Nour and Faustin (NL). Next up: THE OTHER SIDE, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Loradeniz is a techno and electronica artist, with 45 gigs on soundcheck across 
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
+| Sat, 7 Nov 2026 | TBA - noord | Amsterdam |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Loradeniz is a techno and electronica artist, with 45 gigs on soundcheck across 
 
 ## Shares bills with
 
-Interstellar Funk, Fafi Abdel Nour, Afra
+Interstellar Funk, Fafi Abdel Nour, Faustin (NL)
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loradeniz/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loradeniz/)*

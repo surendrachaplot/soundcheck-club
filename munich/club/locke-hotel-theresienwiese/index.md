@@ -1,6 +1,6 @@
 # Locke Hotel Theresienwiese
 
-Locke Hotel Theresienwiese is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "Apér Concrete Garden" on Sat, 17 Oct 2026.
+Locke Hotel Theresienwiese is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "Apér Concrete Garden" on Sat, 17 Oct 2026.
 
 Locke Hotel Theresienwiese is a music venue in Munich listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Locke Hotel Theresienwiese is a music venue in Munich listed on soundcheck. 1 up
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Apér Concrete Garden |  |
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/locke-hotel-theresienwiese/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/locke-hotel-theresienwiese/)*

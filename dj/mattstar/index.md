@@ -1,6 +1,6 @@
 # Matt Star
 
-Matt Star is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Parkside Studios, Hesse on Sat, 10 Oct 2026.
+Matt Star is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Parkside Studios, Hesse on Sat, 10 Oct 2026.
 
 Matt Star is a house and techno artist based in Germany, with 22 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hesse and 1 more. Often billed alongside Robert Drewek, Dana Ruh and Move D. Next up: Parkside Studios, Hesse on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Matt Star is a house and techno artist based in Germany, with 22 gigs on soundch
 
 Robert Drewek, Dana Ruh, Move D
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattstar/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattstar/)*

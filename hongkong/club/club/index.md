@@ -1,6 +1,6 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 16 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Darkmetaz x Yee with 69DB (Spiral Tribe, London) [LIVE]" on Fri, 9 Oct 2026.
+宀 Club is a music venue in Hong Kong with 16 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Darkmetaz x Yee with 69DB (Spiral Tribe, London) [LIVE]" on Fri, 9 Oct 2026.
 
 宀 Club is a music venue in Hong Kong listed on soundcheck. 16 upcoming gigs, with line-ups including 69DB, Bouffant Bouffant, Carl H and Charlieowo and 2 more. See dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
@@ -16,11 +16,11 @@
 | Fri, 30 Oct 2026 | Daura (Stoked Lint, Montreal) [All Night Long Vinyl Set] | Daura |
 | Fri, 6 Nov 2026 | Charlieowo invites Meixing (Beijing) | Charlieowo |
 | Sat, 7 Nov 2026 | 宀 Invites Ivan Smagghe (London) + SAM Futura. (宀, Hong Kong) | Ivan Smagghe, SAM Futura. |
-| Fri, 13 Nov 2026 | Distrikt 35: Erik Luebs (Bitta, Osaka) [LIVE] | Erik Luebs |
+| Fri, 13 Nov 2026 | Distrikt 34: Erik Luebs (Bitta, Osaka) [LIVE] | Erik Luebs |
 | Sat, 14 Nov 2026 | VG+ with Kuba'97 (Beautiful Freaks, Brussels) [All Night Long Vinyl Set] | Kuba'97 |
 
 ## Address
 
 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong, Hong Kong
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*

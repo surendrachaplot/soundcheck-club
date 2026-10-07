@@ -1,6 +1,6 @@
 # Holy Priest
 
-Holy Priest is a Techno and Hardcore artist with 15 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The Concourse Project, Austin on Sat, 10 Oct 2026.
+Holy Priest is a Techno and Hardcore artist with 15 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Concourse Project, Austin on Sat, 10 Oct 2026.
 
 Holy Priest is a techno and hardcore artist based in Germany, with 134 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Austin and 54 more. Often billed alongside elMefti, Onlynumbers and Fantasm. Next up: The Concourse Project, Austin on Sat 10 Oct.
 
@@ -36,4 +36,4 @@ Holy Priest is a techno and hardcore artist based in Germany, with 134 gigs on s
 
 elMefti, Onlynumbers, Fantasm
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holypriest/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holypriest/)*

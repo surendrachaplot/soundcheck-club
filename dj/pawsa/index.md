@@ -1,14 +1,15 @@
 # PAWSA
 
-PAWSA is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+PAWSA is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-PAWSA is a house and tech house artist based in United Kingdom, with 145 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 41 more. Often billed alongside Dennis Cruz, Silvie Loto and ANOTR. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+PAWSA is a house and tech house artist based in United Kingdom, with 146 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 41 more. Often billed alongside Dennis Cruz, Silvie Loto and ANOTR. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
+| Fri, 16 Oct 2026 | Blow | Buenos Aires |
 | Sun, 18 Oct 2026 | Pacha New York | New York City |
 | Sun, 25 Oct 2026 | Taets Art & Event Park | Amsterdam |
 | Sat, 21 Nov 2026 | TBA - Arena Norte, Nuñez | Buenos Aires |
@@ -29,4 +30,4 @@ PAWSA is a house and tech house artist based in United Kingdom, with 145 gigs on
 
 Dennis Cruz, Silvie Loto, ANOTR
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pawsa/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pawsa/)*

@@ -1,14 +1,13 @@
 # Konstantin
 
-Konstantin is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Konstantin is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Foro Frontera, Mexico City on Fri, 9 Oct 2026.
 
-Konstantin is a house and techno artist based in Germany, with 173 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 36 more. Often billed alongside Leafar Legov, Map.ache and Edward. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Konstantin is a house and techno artist based in Germany, with 173 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 36 more. Often billed alongside Leafar Legov, Map.ache and Edward. Next up: Foro Frontera, Mexico City on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Fri, 9 Oct 2026 | Foro Frontera | Mexico City |
 | Sat, 10 Oct 2026 | Sala Roxy | Guadalajara |
 | Fri, 23 Oct 2026 | ingang | Amsterdam |
@@ -31,4 +30,4 @@ Konstantin is a house and techno artist based in Germany, with 173 gigs on sound
 
 Leafar Legov, Map.ache, Edward
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantin/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantin/)*

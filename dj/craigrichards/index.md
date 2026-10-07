@@ -1,8 +1,8 @@
 # Craig Richards
 
-Craig Richards is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at fabric, London on Sat, 17 Oct 2026.
+Craig Richards is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at fabric, London on Sat, 17 Oct 2026.
 
-Craig Richards is a house and techno artist based in United Kingdom, with 156 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 28 more. Often billed alongside Bobby., Francesco Del Garda and Christian AB. Next up: fabric, London on Sat 17 Oct.
+Craig Richards is a house and techno artist based in United Kingdom, with 157 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 28 more. Often billed alongside Bobby., Francesco Del Garda and Christian AB. Next up: fabric, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Craig Richards is a house and techno artist based in United Kingdom, with 156 gi
 | Thu, 22 Oct 2026 | Klaproos | Amsterdam |
 | Fri, 23 Oct 2026 | Het Salon | Amsterdam |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |
+| Sat, 31 Oct 2026 | WOMB | Tokyo |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Craig Richards is a house and techno artist based in United Kingdom, with 156 gi
 
 Bobby., Francesco Del Garda, Christian AB
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*

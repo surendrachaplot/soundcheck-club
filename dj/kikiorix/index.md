@@ -1,8 +1,8 @@
 # Kikiorix
 
-Kikiorix is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at WOMB, Tokyo on Sat, 10 Oct 2026.
+Kikiorix is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at WOMB, Tokyo on Sat, 10 Oct 2026.
 
-Kikiorix is a house and techno artist based in Japan, with 71 gigs on soundcheck across Amsterdam, Bali, Berlin and Lisbon and 9 more. Often billed alongside Sisi, Kenji Takimi and Satoshi Otsuki. Next up: WOMB, Tokyo on Sat 10 Oct.
+Kikiorix is a house and techno artist based in Japan, with 73 gigs on soundcheck across Amsterdam, Bali, Bangkok and Berlin and 10 more. Often billed alongside Sisi, Kenji Takimi and Satoshi Otsuki. Next up: WOMB, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Kikiorix is a house and techno artist based in Japan, with 71 gigs on soundcheck
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | WOMB | Tokyo |
 | Sun, 18 Oct 2026 | National Art School | Sydney |
+| Sat, 7 Nov 2026 | Chang Chui Creative Park | Bangkok |
+| Fri, 20 Nov 2026 | WOMB | Tokyo |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ Kikiorix is a house and techno artist based in Japan, with 71 gigs on soundcheck
 
 Sisi, Kenji Takimi, Satoshi Otsuki
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kikiorix/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kikiorix/)*

@@ -1,6 +1,6 @@
 # Devil's Daughter
 
-Devil's Daughter is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA, London on Wed, 4 Nov 2026.
+Devil's Daughter is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, London on Wed, 4 Nov 2026.
 
 Devil's Daughter is a techno and house artist, with 7 gigs on soundcheck across London. Often billed alongside Cirkle, Gridlock and Alba Heidari. Next up: TBA, London on Wed 4 Nov.
 
@@ -23,4 +23,4 @@ Devil's Daughter is a techno and house artist, with 7 gigs on soundcheck across 
 
 Cirkle, Gridlock, Alba Heidari
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/devilsdaughter/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/devilsdaughter/)*

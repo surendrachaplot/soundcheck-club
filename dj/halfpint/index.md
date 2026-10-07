@@ -1,6 +1,6 @@
 # HALFPINT
 
-HALFPINT is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at fabric, London on Fri, 16 Oct 2026.
+HALFPINT is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at fabric, London on Fri, 16 Oct 2026.
 
 HALFPINT is a house and techno artist based in United Kingdom, with 50 gigs on soundcheck across Aberdeen, Amsterdam, Brighton and Central and 6 more. Often billed alongside Jamback, Sossa and Seth Troxler. Next up: fabric, London on Fri 16 Oct.
 
@@ -31,4 +31,4 @@ HALFPINT is a house and techno artist based in United Kingdom, with 50 gigs on s
 
 Jamback, Sossa, Seth Troxler
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halfpint/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halfpint/)*

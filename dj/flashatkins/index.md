@@ -1,6 +1,6 @@
 # Flash Atkins
 
-Flash Atkins is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Trades Club, North on Sat, 31 Oct 2026.
+Flash Atkins is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Trades Club, North on Sat, 31 Oct 2026.
 
 Flash Atkins is a house and disco artist, with 7 gigs on soundcheck across Manchester, Newcastle, North and Oslo. Often billed alongside Chris Massey, G-HA and Lindstrom. Next up: Trades Club, North on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Flash Atkins is a house and disco artist, with 7 gigs on soundcheck across Manch
 
 Chris Massey, G-HA, Lindstrom
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flashatkins/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flashatkins/)*

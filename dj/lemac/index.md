@@ -1,13 +1,14 @@
 # Lemac
 
-Lemac is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 10 Oct 2026.
+Lemac is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 10 Oct 2026.
 
-Lemac is a techno and house artist, with 14 gigs on soundcheck across Frankfurt, Marseille, Seoul and Valencia. Often billed alongside Dawit Asfaha, SAFA and Hamdi Ryder. Next up: Tokonoma Club, Frankfurt on Sat 10 Oct.
+Lemac is a techno and house artist, with 15 gigs on soundcheck across Frankfurt, Marseille, Seoul and Valencia. Often billed alongside Dawit Asfaha, SAFA and Frederic.. Next up: Tokonoma Club, Frankfurt on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Tokonoma Club | Frankfurt |
 | Sat, 10 Oct 2026 | Tokonoma Club | Frankfurt |
 
 ## Recently played
@@ -23,6 +24,6 @@ Lemac is a techno and house artist, with 14 gigs on soundcheck across Frankfurt,
 
 ## Shares bills with
 
-Dawit Asfaha, SAFA, Hamdi Ryder
+Dawit Asfaha, SAFA, Frederic.
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lemac/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lemac/)*

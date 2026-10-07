@@ -1,6 +1,6 @@
 # miipmiip
 
-miipmiip is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The Dolphin, Philadelphia on Fri, 23 Oct 2026.
+miipmiip is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Dolphin, Philadelphia on Fri, 23 Oct 2026.
 
 miipmiip is a club and techno artist based in Colombia, with 10 gigs on soundcheck across Philadelphia. Often billed alongside America Loves Me, DJ Matpat and ONEELEVEN. Next up: The Dolphin, Philadelphia on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ miipmiip is a club and techno artist based in Colombia, with 10 gigs on soundche
 
 America Loves Me, DJ Matpat, ONEELEVEN
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miipmiip/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miipmiip/)*

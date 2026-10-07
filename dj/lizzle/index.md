@@ -1,6 +1,6 @@
 # Lizzle
 
-Lizzle is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at fi, Cologne on Fri, 9 Oct 2026.
+Lizzle is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at fi, Cologne on Fri, 9 Oct 2026.
 
 Lizzle is a house and techno artist based in Germany, with 10 gigs on soundcheck across Berlin, Cologne and Munich. Often billed alongside DJ Business, Sneaky Pete and 3Hertz. Next up: fi, Cologne on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Lizzle is a house and techno artist based in Germany, with 10 gigs on soundcheck
 
 DJ Business (2), Sneaky Pete, 3Hertz
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzle/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzle/)*

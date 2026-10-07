@@ -1,8 +1,8 @@
 # Salon Daomé
 
-Salon Daomé is a music venue in Montreal with 12 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "KONTRAST MONTREAL" on Thu, 8 Oct 2026.
+Salon Daomé is a music venue in Montreal with 13 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "KONTRAST MONTREAL" on Thu, 8 Oct 2026.
 
-Salon Daomé is a music venue in Montreal listed on soundcheck. 12 upcoming gigs, with line-ups including Audio Sin, Audrey Bélanger, CUERPOS and Dj Hermano and 2 more. See dates, start times and who's playing. 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8.
+Salon Daomé is a music venue in Montreal listed on soundcheck. 13 upcoming gigs, with line-ups including Audio Sin, Audrey Bélanger, CUERPOS and Dj Hermano and 2 more. See dates, start times and who's playing. 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Salon Daomé is a music venue in Montreal listed on soundcheck. 12 upcoming gigs
 
 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8, Montreal
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*

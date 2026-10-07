@@ -1,6 +1,6 @@
 # G SPOT HALLOWEEN with BNZN, Softdrive, Rittmus at Fundbureau
 
-G SPOT HALLOWEEN with BNZN, Softdrive, Rittmus at Fundbureau on Sat 31 Oct, Hamburg. 3 artists: BNZN, Rittmus and Softdrive. Trance and House. See the line-up on soundcheck.
+G SPOT HALLOWEEN with BNZN, Softdrive, Rittmus at Fundbureau on Sat 31 Oct, Hamburg. 4 artists: BNZN, Lennart Ken, Rittmus and Softdrive. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ G SPOT HALLOWEEN with BNZN, Softdrive, Rittmus at Fundbureau on Sat 31 Oct, Hamb
 ## Line-up
 
 - BNZN
+- Lennart Ken
 - Rittmus
 - Softdrive
 

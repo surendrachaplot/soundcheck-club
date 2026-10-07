@@ -1,8 +1,8 @@
 # more eaze
 
-more eaze is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Centro Cultural Conde Duque, Madrid on Fri, 16 Oct 2026.
+more eaze is a Experimental and Ambient artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Centro Cultural Conde Duque, Madrid on Fri, 16 Oct 2026.
 
-more eaze is an experimental and ambient artist, with 18 gigs on soundcheck across Berlin, Glasgow, London and Madrid and 5 more. Often billed alongside Carmen Villain, aya and Andriana-Yaroslava Saienko. Next up: Centro Cultural Conde Duque, Madrid on Fri 16 Oct.
+more eaze is an experimental and ambient artist, with 19 gigs on soundcheck across Berlin, Glasgow, London and Madrid and 5 more. Often billed alongside Carmen Villain, aya and Andriana-Yaroslava Saienko. Next up: Centro Cultural Conde Duque, Madrid on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ more eaze is an experimental and ambient artist, with 18 gigs on soundcheck acro
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Centro Cultural Conde Duque | Madrid |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
+| Thu, 19 Nov 2026 | Nowadays | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ more eaze is an experimental and ambient artist, with 18 gigs on soundcheck acro
 
 Carmen Villain, aya, Andriana-Yaroslava Saienko
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moreeaze/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moreeaze/)*

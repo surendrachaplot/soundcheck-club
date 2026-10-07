@@ -1,6 +1,6 @@
 # Gee Lane
 
-Gee Lane is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Palais Mascotte, Zurich on Fri, 9 Oct 2026.
+Gee Lane is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Palais Mascotte, Zurich on Fri, 9 Oct 2026.
 
 Gee Lane is a house and disco artist based in Spain, with 118 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 32 more. Often billed alongside Kapote, Sam Ruffillo and Cody Currie. Next up: Palais Mascotte, Zurich on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Gee Lane is a house and disco artist based in Spain, with 118 gigs on soundcheck
 
 Kapote, Sam Ruffillo, Cody Currie
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geelane/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geelane/)*

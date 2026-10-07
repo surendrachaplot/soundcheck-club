@@ -1,14 +1,15 @@
 # 反核機動隊
 
-反核機動隊 is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Suns Shimokitazawa, Tokyo on Fri, 30 Oct 2026.
+反核機動隊 is a Jungle and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Suns Shimokitazawa, Tokyo on Fri, 30 Oct 2026.
 
-反核機動隊 is a jungle and drum & bass artist based in Japan, with 6 gigs on soundcheck across Tokyo. Often billed alongside ALPHA, Acrocanthosaurus and DUCK. Next up: Suns Shimokitazawa, Tokyo on Fri 30 Oct.
+反核機動隊 is a jungle and bass artist based in Japan, with 7 gigs on soundcheck across Tokyo. Often billed alongside ALPHA, Acrocanthosaurus and saqess. Next up: Suns Shimokitazawa, Tokyo on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Suns Shimokitazawa | Tokyo |
+| Tue, 3 Nov 2026 | Shinjuku Duusraa | Tokyo |
 
 ## Recently played
 
@@ -20,6 +21,6 @@
 
 ## Shares bills with
 
-ALPHA (4), Acrocanthosaurus, DUCK
+ALPHA (4), Acrocanthosaurus, saqess
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hankakukidotai/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hankakukidotai/)*

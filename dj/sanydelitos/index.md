@@ -1,6 +1,6 @@
 # Sany Delitos
 
-Sany Delitos is a Reggaeton and Guaracha artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Club Magno, Madrid on Thu, 8 Oct 2026.
+Sany Delitos is a Reggaeton and Guaracha artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Club Magno, Madrid on Thu, 8 Oct 2026.
 
 Sany Delitos is a reggaeton and guaracha artist based in Spain, with 53 gigs on soundcheck across Barcelona, Madrid, Malaga and New York City. Often billed alongside Nukki, Diego Armando and Maxvll. Next up: Club Magno, Madrid on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Sany Delitos is a reggaeton and guaracha artist based in Spain, with 53 gigs on 
 
 Nukki, Diego Armando, Maxvll
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanydelitos/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanydelitos/)*

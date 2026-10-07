@@ -1,6 +1,6 @@
 # Interval - Kumi (3 hours) at Glamorama
 
-Interval - Kumi (3 hours) at Glamorama on Fri 9 Oct, Melbourne. 1 artist: Kumi. Trance and House. See the line-up on soundcheck.
+Interval - Kumi (3 hours) at Glamorama on Fri 9 Oct, Melbourne. 3 artists: Kumi, LUBU and N.Y.A. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ Interval - Kumi (3 hours) at Glamorama on Fri 9 Oct, Melbourne. 1 artist: Kumi. 
 ## Line-up
 
 - Kumi
+- LUBU
+- N.Y.A
 
 *Source: [soundcheck](https://soundcheck.club/e/2550672-interval-kumi-3-hours-at-glamorama/)*

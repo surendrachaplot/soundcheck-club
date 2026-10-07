@@ -1,6 +1,6 @@
 # WADDLE
 
-WADDLE is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Bolero, Seoul on Thu, 8 Oct 2026.
+WADDLE is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Bolero, Seoul on Thu, 8 Oct 2026.
 
 WADDLE is a techno and house artist based in United States of America, with 67 gigs on soundcheck across New York City, San Francisco/Oakland and Seoul. Often billed alongside duco, y2aura and NIJEII. Next up: Bolero, Seoul on Thu 8 Oct.
 
@@ -28,4 +28,4 @@ WADDLE is a techno and house artist based in United States of America, with 67 g
 
 duco, y2aura, NIJEII
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waddle/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waddle/)*

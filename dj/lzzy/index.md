@@ -1,6 +1,6 @@
 # LZZY
 
-LZZY is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - YKO KL - THE FIVE DAMANSARA HEIGHTS, Kuala Lumpur on Wed, 7 Oct 2026.
+LZZY is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - YKO KL - THE FIVE DAMANSARA HEIGHTS, Kuala Lumpur on Wed, 7 Oct 2026.
 
 LZZY is a house and techno artist based in Malaysia, with 65 gigs on soundcheck across Kuala Lumpur, Lisbon and Singapore. Often billed alongside JonnyVicious, Roshan and Rimka. Next up: TBA - YKO KL - THE FIVE DAMANSARA HEIGHTS, Kuala Lumpur on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ LZZY is a house and techno artist based in Malaysia, with 65 gigs on soundcheck 
 
 JonnyVicious, Roshan, Rimka
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lzzy/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lzzy/)*

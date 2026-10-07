@@ -1,6 +1,6 @@
 # Altenburg 1964
 
-Altenburg 1964 is a music venue in Prague with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "ELYSIA - BRAZILIAN FUNK " on Sat, 10 Oct 2026.
+Altenburg 1964 is a music venue in Prague with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "ELYSIA - BRAZILIAN FUNK " on Sat, 10 Oct 2026.
 
 Altenburg 1964 is a music venue in Prague listed on soundcheck. 3 upcoming gigs, with line-ups including AINUR UNX, BoLs/sLoB, divinity statue and HKKPTR and 2 more. See dates, start times and who's playing. Partyzánská 18/23, 17000 Praha 7.
 
@@ -16,4 +16,4 @@ Altenburg 1964 is a music venue in Prague listed on soundcheck. 3 upcoming gigs,
 
 Partyzánská 18/23, 17000 Praha 7, Prague
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*

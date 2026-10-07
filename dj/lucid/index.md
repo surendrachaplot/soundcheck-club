@@ -1,6 +1,6 @@
 # Lucid
 
-Lucid is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at CLUB OST & RENATE BERLIN, Berlin on Sat, 21 Nov 2026.
+Lucid is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at CLUB OST & RENATE BERLIN, Berlin on Sat, 21 Nov 2026.
 
 Lucid is a techno and minimal techno artist based in Australia, with 9 gigs on soundcheck across Amsterdam, Berlin, Bremen and Frankfurt and 2 more. Often billed alongside 6am at the Garage, A.N.I. and ALLY. Next up: CLUB OST & RENATE BERLIN, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Lucid is a techno and minimal techno artist based in Australia, with 9 gigs on s
 
 6am at the Garage, A.N.I., ALLY
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucid/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucid/)*

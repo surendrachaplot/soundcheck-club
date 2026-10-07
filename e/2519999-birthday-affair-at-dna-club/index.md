@@ -1,6 +1,6 @@
 # BIRTHDAY AFFAIR at DNA. CLUB
 
-BIRTHDAY AFFAIR at DNA. CLUB on Fri 23 Oct, Berlin. 5 artists: CUT:NA, EMIRA, L-AUX and LO-2C and 1 more. Techno and Minimal Techno. See the line-up on soundcheck.
+BIRTHDAY AFFAIR at DNA. CLUB on Fri 23 Oct, Berlin. 7 artists: CUT:NA, DJ Saunameister, EMIRA and Jeffrey (DE) and 3 more. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,9 @@ BIRTHDAY AFFAIR at DNA. CLUB on Fri 23 Oct, Berlin. 5 artists: CUT:NA, EMIRA, L-
 ## Line-up
 
 - CUT:NA
+- DJ Saunameister
 - EMIRA
+- Jeffrey (DE)
 - L-AUX
 - LO-2C
 - RECLUSE (2)

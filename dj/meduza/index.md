@@ -1,8 +1,8 @@
 # Meduza
 
-Meduza is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 9 Oct 2026.
+Meduza is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 9 Oct 2026.
 
-Meduza is a house and techno artist based in Italy, with 175 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 33 more. Often billed alongside James Hype (UK), David Guetta and Arielle Free. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Fri 9 Oct.
+Meduza is a house and techno artist based in Italy, with 176 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 33 more. Often billed alongside James Hype (UK), David Guetta and Arielle Free. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Meduza is a house and techno artist based in Italy, with 175 gigs on soundcheck 
 | Fri, 9 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Thu, 22 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Sat, 31 Oct 2026 | Cipriani Wall Street | New York City |
 | Fri, 1 Jan 2027 | Savaya Bali | Bali |
 | Wed, 17 Mar 2027 | Happy Bay Beach | Saint-martin |
 | Thu, 12 Aug 2027 | Hellissandur, Iceland | Iceland |
@@ -30,4 +31,4 @@ Meduza is a house and techno artist based in Italy, with 175 gigs on soundcheck 
 
 James Hype (UK), David Guetta, Arielle Free
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meduza/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meduza/)*

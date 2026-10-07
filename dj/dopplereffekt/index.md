@@ -1,6 +1,6 @@
 # Dopplereffekt
 
-Dopplereffekt is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at L'Alhambra, Geneva on Thu, 8 Oct 2026.
+Dopplereffekt is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at L'Alhambra, Geneva on Thu, 8 Oct 2026.
 
 Dopplereffekt is a techno and electro artist based in United States of America, with 40 gigs on soundcheck across Amsterdam, Berlin, Bristol and Chicago and 19 more. Often billed alongside Aurora Halal, Octo Octa and Skee Mask. Next up: L'Alhambra, Geneva on Thu 8 Oct.
 
@@ -27,4 +27,4 @@ Dopplereffekt is a techno and electro artist based in United States of America, 
 
 Aurora Halal, Octo Octa, Skee Mask
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dopplereffekt/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dopplereffekt/)*

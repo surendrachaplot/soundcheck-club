@@ -1,8 +1,8 @@
 # Vinz (ITA)
 
-Vinz (ITA) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Forum Station, Barcelona on Sun, 11 Oct 2026.
+Vinz (ITA) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Forum Station, Barcelona on Sun, 11 Oct 2026.
 
-Vinz (ITA) is a house and tech house artist, with 7 gigs on soundcheck across Barcelona. Often billed alongside Mario Chicoli, Mastro Sally and Babo. Next up: Forum Station, Barcelona on Sun 11 Oct.
+Vinz (ITA) is a house and tech house artist based in Italy, with 7 gigs on soundcheck across Barcelona. Often billed alongside Mario Chicoli, Mastro Sally and Babo. Next up: Forum Station, Barcelona on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Vinz (ITA) is a house and tech house artist, with 7 gigs on soundcheck across Ba
 
 Mario Chicoli, Mastro Sally, Babo
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vinzita/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vinzita/)*

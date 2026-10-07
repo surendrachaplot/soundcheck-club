@@ -1,6 +1,6 @@
 # Dim
 
-Dim is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Feloneezy presents: Unlimited Peace (Live)" on Fri, 6 Nov 2026.
+Dim is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Feloneezy presents: Unlimited Peace (Live)" on Fri, 6 Nov 2026.
 
 Dim is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs, with line-ups including Feloneezy, schwabe and Years of Denial. See dates, start times and who's playing. Cetinjska 15a Belgrade, Serbia.
 
@@ -15,4 +15,4 @@ Dim is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs, with lin
 
 Cetinjska 15a Belgrade, Serbia, Belgrade
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/dim/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/dim/)*

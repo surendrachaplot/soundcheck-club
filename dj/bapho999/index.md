@@ -1,6 +1,6 @@
 # Bapho999
 
-Bapho999 is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - L2 Sant Martí, Barcelona on Fri, 9 Oct 2026.
+Bapho999 is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - L2 Sant Martí, Barcelona on Fri, 9 Oct 2026.
 
 Bapho999 is a techno artist, with 19 gigs on soundcheck across Barcelona. Often billed alongside Kymmy, Euforia and BACO. Next up: TBA - L2 Sant Martí, Barcelona on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Bapho999 is a techno artist, with 19 gigs on soundcheck across Barcelona. Often 
 
 Kymmy, Euforia, BACO
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bapho999/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bapho999/)*

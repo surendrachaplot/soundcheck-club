@@ -1,13 +1,14 @@
 # Sam Paganini
 
-Sam Paganini is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at ART Madrid Club, Madrid on Fri, 30 Oct 2026.
+Sam Paganini is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Cieloterra, Rome on Sat, 10 Oct 2026.
 
-Sam Paganini is a techno and house artist based in Italy, with 102 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Nuke, Adiel and Anfisa Letyago. Next up: ART Madrid Club, Madrid on Fri 30 Oct.
+Sam Paganini is a techno and house artist based in Italy, with 103 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Nuke, Adiel and Anfisa Letyago. Next up: Cieloterra, Rome on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Cieloterra | Rome |
 | Fri, 30 Oct 2026 | ART Madrid Club | Madrid |
 | Fri, 6 Nov 2026 | Club Exil | Vienna |
 | Sat, 12 Dec 2026 | Parque Norte | Medellin |
@@ -27,4 +28,4 @@ Sam Paganini is a techno and house artist based in Italy, with 102 gigs on sound
 
 Nuke, Adiel, Anfisa Letyago
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sampaganini/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sampaganini/)*

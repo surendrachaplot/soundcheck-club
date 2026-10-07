@@ -1,8 +1,8 @@
 # Roland Gonzales
 
-Roland Gonzales is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at 416 Snack Bar, Toronto on Tue, 13 Oct 2026.
+Roland Gonzales is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at 416 Snack Bar, Toronto on Tue, 13 Oct 2026.
 
-Roland Gonzales is a house and disco artist based in Canada, with 143 gigs on soundcheck across Kyoto, Montreal, New York City and Toronto and 1 more. Often billed alongside Sakiko Nagai, Toronto Hustle and Gil Masuda. Next up: 416 Snack Bar, Toronto on Tue 13 Oct.
+Roland Gonzales is a house and disco artist based in Canada, with 145 gigs on soundcheck across Kyoto, Montreal, New York City and Toronto and 1 more. Often billed alongside Sakiko Nagai, Toronto Hustle and Gil Masuda. Next up: 416 Snack Bar, Toronto on Tue 13 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ Roland Gonzales is a house and disco artist based in Canada, with 143 gigs on so
 | Sat, 17 Oct 2026 | The Little Jerry | Toronto |
 | Sun, 25 Oct 2026 | Sans Soleil | Montreal |
 | Sat, 31 Oct 2026 | TBA - 70 Huron St  | Toronto |
+| Fri, 6 Nov 2026 | 915 Dupont | Toronto |
+| Thu, 19 Nov 2026 | Bar Gobo | Vancouver |
 
 ## Recently played
 
@@ -28,4 +30,4 @@ Roland Gonzales is a house and disco artist based in Canada, with 143 gigs on so
 
 Sakiko Nagai, Toronto Hustle, Gil Masuda
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandgonzales/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandgonzales/)*

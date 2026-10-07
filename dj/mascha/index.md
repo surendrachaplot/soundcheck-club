@@ -1,14 +1,15 @@
 # MASCHA
 
-MASCHA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Paloma, Berlin on Sat, 10 Oct 2026.
+MASCHA is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Paloma, Berlin on Sat, 10 Oct 2026.
 
-MASCHA is a techno and house artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Hamburg and 8 more. Often billed alongside Black Mirror Park, Ursula Prawn and Kat Davids. Next up: Paloma, Berlin on Sat 10 Oct.
+MASCHA is a techno and house artist based in Germany, with 79 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Hamburg and 8 more. Often billed alongside Black Mirror Park, Ursula Prawn and Kat Davids. Next up: Paloma, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Paloma | Berlin |
+| Thu, 15 Oct 2026 | Our Sake Club | Berlin |
 | Fri, 16 Oct 2026 | Frekuence | Tirana |
 | Sat, 24 Oct 2026 | Bordello Aperitivo | Amsterdam |
 | Fri, 30 Oct 2026 | Renate | Berlin |
@@ -28,4 +29,4 @@ MASCHA is a techno and house artist based in Germany, with 78 gigs on soundcheck
 
 Black Mirror Park, Ursula Prawn, Kat Davids
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mascha/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mascha/)*

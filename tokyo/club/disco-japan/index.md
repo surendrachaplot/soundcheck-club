@@ -1,6 +1,6 @@
 # Disco Japan
 
-Disco Japan is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "T.N.network — Trance, Progressive & Beyond" on Sat, 17 Oct 2026.
+Disco Japan is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "T.N.network — Trance, Progressive & Beyond" on Sat, 17 Oct 2026.
 
 Disco Japan is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including Neri. See dates, start times and who's playing. 1-4-13 Tsukagoshi, Warabi City, Saitama Prefecture, Japan, 335-0002.
 
@@ -14,4 +14,4 @@ Disco Japan is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with
 
 1-4-13 Tsukagoshi, Warabi City, Saitama Prefecture, Japan, 335-0002, Tokyo
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/disco-japan/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/disco-japan/)*

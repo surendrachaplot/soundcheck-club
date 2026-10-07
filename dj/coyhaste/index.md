@@ -1,6 +1,6 @@
 # Coy Haste
 
-Coy Haste is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Standard Time, Toronto on Fri, 9 Oct 2026.
+Coy Haste is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Standard Time, Toronto on Fri, 9 Oct 2026.
 
 Coy Haste is a disco and house artist based in Canada, with 13 gigs on soundcheck across Dublin, Mexico City and Toronto. Often billed alongside Oreku, Dacou and Afrique Like Me. Next up: Standard Time, Toronto on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Coy Haste is a disco and house artist based in Canada, with 13 gigs on soundchec
 
 Oreku, Dacou, Afrique Like Me
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coyhaste/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coyhaste/)*

@@ -1,6 +1,6 @@
 # Dimension
 
-Dimension is a Drum & Bass and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Factory Town, Miami on Fri, 9 Oct 2026.
+Dimension is a Drum & Bass and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Factory Town, Miami on Fri, 9 Oct 2026.
 
 Dimension is a drum & bass and house artist based in United Kingdom, with 72 gigs on soundcheck across Amsterdam, Auckland, Austin and Birmingham and 30 more. Often billed alongside Sub Focus, Culture Shock and Andy C. Next up: Factory Town, Miami on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Dimension is a drum & bass and house artist based in United Kingdom, with 72 gig
 
 Sub Focus, Culture Shock, Andy C
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimension/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimension/)*

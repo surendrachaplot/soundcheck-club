@@ -1,13 +1,14 @@
 # Melanie Ribbe
 
-Melanie Ribbe is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Bikini Club, Barcelona on Fri, 23 Oct 2026.
+Melanie Ribbe is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Playa Soleil Ibiza, Ibiza on Wed, 7 Oct 2026.
 
-Melanie Ribbe is a tech house and techno artist based in Germany, with 113 gigs on soundcheck across Amsterdam, Austin, Austria and Bali and 26 more. Often billed alongside Paco Osuna, Chris Di Perri and De La Swing. Next up: Bikini Club, Barcelona on Fri 23 Oct.
+Melanie Ribbe is a tech house and techno artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Austin, Austria and Bali and 26 more. Often billed alongside Paco Osuna, Chris Di Perri and De La Swing. Next up: Playa Soleil Ibiza, Ibiza on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 7 Oct 2026 | Playa Soleil Ibiza | Ibiza |
 | Fri, 23 Oct 2026 | Bikini Club | Barcelona |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 
@@ -26,4 +27,4 @@ Melanie Ribbe is a tech house and techno artist based in Germany, with 113 gigs 
 
 Paco Osuna, Chris Di Perri, De La Swing
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melanieribbe-uk/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melanieribbe-uk/)*

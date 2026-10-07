@@ -1,6 +1,6 @@
 # The Advent
 
-The Advent is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA, Washington DC on Fri, 9 Oct 2026.
+The Advent is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, Washington DC on Fri, 9 Oct 2026.
 
 The Advent is a techno and house artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 39 more. Often billed alongside Nastia, Philippa Pacho and STERAC. Next up: TBA, Washington DC on Fri 9 Oct.
 
@@ -31,4 +31,4 @@ The Advent is a techno and house artist based in United Kingdom, with 99 gigs on
 
 Nastia, Philippa Pacho, STERAC
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theadvent/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theadvent/)*

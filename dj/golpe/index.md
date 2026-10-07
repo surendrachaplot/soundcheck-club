@@ -1,6 +1,6 @@
 # Golpe
 
-Golpe is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at WDM, Hannover on Sat, 10 Oct 2026.
+Golpe is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at WDM, Hannover on Sat, 10 Oct 2026.
 
 Golpe is a techno and trance artist based in Czech Republic, with 43 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 13 more. Often billed alongside RiVid, Svetec and ViperXXL. Next up: WDM, Hannover on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Golpe is a techno and trance artist based in Czech Republic, with 43 gigs on sou
 
 RiVid, Svetec, ViperXXL
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/golpe/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/golpe/)*

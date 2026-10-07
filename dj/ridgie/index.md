@@ -1,8 +1,8 @@
 # Ridgie
 
-Ridgie is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Club Exil, Vienna on Fri, 9 Oct 2026.
+Ridgie is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Club Exil, Vienna on Fri, 9 Oct 2026.
 
-Ridgie is a techno and breakbeat artist, with 21 gigs on soundcheck across Vienna. Often billed alongside M41RH, Orens K and LTO.. Next up: Club Exil, Vienna on Fri 9 Oct.
+Ridgie is a techno and breakbeat artist based in Croatia, with 21 gigs on soundcheck across Vienna. Often billed alongside M41RH, Orens K and LTO.. Next up: Club Exil, Vienna on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Ridgie is a techno and breakbeat artist, with 21 gigs on soundcheck across Vienn
 
 M41RH, Orens K, LTO.
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ridgie/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ridgie/)*

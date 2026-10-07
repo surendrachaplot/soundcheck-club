@@ -1,14 +1,13 @@
 # Thabo
 
-Thabo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Thabo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Salon Iksv, Istanbul on Sat, 17 Oct 2026.
 
-Thabo is a house and techno artist based in Germany, with 86 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 18 more. Often billed alongside Thalo Santana, Blame Anthony and Butterhands. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Thabo is a house and techno artist based in Germany, with 86 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 18 more. Often billed alongside Thalo Santana, Blame Anthony and Butterhands. Next up: Salon Iksv, Istanbul on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Sat, 17 Oct 2026 | Salon Iksv | Istanbul |
 | Sat, 24 Oct 2026 | TILLATEC | Amsterdam |
 
@@ -27,4 +26,4 @@ Thabo is a house and techno artist based in Germany, with 86 gigs on soundcheck 
 
 Thalo Santana, Blame Anthony, Butterhands
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thabogetsome/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thabogetsome/)*

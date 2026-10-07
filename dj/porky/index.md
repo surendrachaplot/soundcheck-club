@@ -1,14 +1,15 @@
 # Porky
 
-Porky is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Arts District Los Angeles, Los Angeles on Sat, 31 Oct 2026.
+Porky is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Arts District Los Angeles, Los Angeles on Sat, 31 Oct 2026.
 
-Porky is a house and techno artist based in United States of America, with 47 gigs on soundcheck across Austin, Chicago, Denver and Detroit and 8 more. Often billed alongside Lee Reynolds, Mikey Lion and Marbs. Next up: TBA - Arts District Los Angeles, Los Angeles on Sat 31 Oct.
+Porky is a house and techno artist based in United States of America, with 48 gigs on soundcheck across Austin, Chicago, Denver and Detroit and 8 more. Often billed alongside Lee Reynolds, Mikey Lion and Marbs. Next up: TBA - Arts District Los Angeles, Los Angeles on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TBA - Arts District Los Angeles | Los Angeles |
+| Sat, 31 Oct 2026 | ORIGIN | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Porky is a house and techno artist based in United States of America, with 47 gi
 
 Lee Reynolds, Mikey Lion, Marbs
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/porky/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/porky/)*

@@ -1,6 +1,6 @@
 # BLACKLIST FESTIVAL 2026 at Turbinenhalle
 
-BLACKLIST FESTIVAL 2026 at Turbinenhalle on Sat 10 Oct, Oberhausen. 10 artists: ESKEI83, Flux Pavilion, Gourski and K Motionz and 6 more. Dubstep. See the line-up on soundcheck.
+BLACKLIST FESTIVAL 2026 at Turbinenhalle on Sat 10 Oct, Oberhausen. 16 artists: Blooom, CODE, Doctor P and Eptic and 12 more. Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,15 +10,21 @@ BLACKLIST FESTIVAL 2026 at Turbinenhalle on Sat 10 Oct, Oberhausen. 10 artists: 
 
 ## Line-up
 
+- Blooom
+- CODE (3)
+- Doctor P
+- Eptic
 - ESKEI83
 - Flux Pavilion
 - Gourski
-- K Motionz
-- Kanine
+- IRON
 - Kara (UK)
 - Koven
 - Krewella
-- Mefjus
-- SKIYE
+- NeO
+- Simula
+- SKYE
+- T & Sugah
+- Zomboy
 
 *Source: [soundcheck](https://soundcheck.club/e/2291915-blacklist-festival-2026-at-turbinenhalle/)*

@@ -1,14 +1,13 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 84 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "go.play mit Foly" on Tue, 6 Oct 2026.
+Minimal Bar is a music venue in Berlin with 89 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "mittendrin mit Gazztel" on Wed, 7 Oct 2026.
 
-Minimal Bar is a music venue in Berlin listed on soundcheck. 84 upcoming gigs, with line-ups including Andi de Luxe, Beshy, Bruno Bleckmann and CL-ljud and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
+Minimal Bar is a music venue in Berlin listed on soundcheck. 89 upcoming gigs, with line-ups including Andi de Luxe, Beshy, Bruno Bleckmann and CL-ljud and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 6 Oct 2026 | go.play mit Foly | Foly |
 | Wed, 7 Oct 2026 | mittendrin mit Gazztel |  |
 | Thu, 8 Oct 2026 | Electronic.thursday with sciarada & freunde |  |
 | Fri, 9 Oct 2026 | sturmfrei mit Oaky & Andi de Luxe | Andi de Luxe, Oaky |
@@ -18,9 +17,10 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 84 upcoming gigs, w
 | Tue, 13 Oct 2026 | go.play mit Pablo Cornejo (Chile) | Pablo Cornejo |
 | Wed, 14 Oct 2026 | mittendrin mit Beshy | Beshy |
 | Thu, 15 Oct 2026 | electronic.thursday mit Pyrame | Pyrame |
+| Thu, 15 Oct 2026 | 'SHADES OF HOUSE: Celebrate with Pyrame & You're Next Records!' | LETVINK, Substrack, Tom Mils |
 
 ## Address
 
 Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*

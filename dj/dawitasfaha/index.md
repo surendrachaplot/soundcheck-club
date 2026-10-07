@@ -1,13 +1,14 @@
 # Dawit Asfaha
 
-Dawit Asfaha is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 10 Oct 2026.
+Dawit Asfaha is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 10 Oct 2026.
 
-Dawit Asfaha is a house and techno artist, with 18 gigs on soundcheck across Frankfurt. Often billed alongside Julian Muller, Lemac and SAFA. Next up: Tokonoma Club, Frankfurt on Sat 10 Oct.
+Dawit Asfaha is a house and techno artist, with 19 gigs on soundcheck across Frankfurt. Often billed alongside Julian Muller, Lemac and SAFA. Next up: Tokonoma Club, Frankfurt on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Tokonoma Club | Frankfurt |
 | Sat, 10 Oct 2026 | Tokonoma Club | Frankfurt |
 
 ## Recently played
@@ -25,4 +26,4 @@ Dawit Asfaha is a house and techno artist, with 18 gigs on soundcheck across Fra
 
 Julian Muller, Lemac, SAFA
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dawitasfaha/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dawitasfaha/)*

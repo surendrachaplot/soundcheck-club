@@ -1,6 +1,6 @@
 # Shaka
 
-Shaka is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Elysia, Basel on Fri, 30 Oct 2026.
+Shaka is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Elysia, Basel on Fri, 30 Oct 2026.
 
 Shaka is a disco and house artist based in Switzerland, with 8 gigs on soundcheck across Basel and Tokyo. Often billed alongside Folamour, HIKARU and MICO. Next up: Elysia, Basel on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Shaka is a disco and house artist based in Switzerland, with 8 gigs on soundchec
 
 Folamour, HIKARU, MICO
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaka/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaka/)*

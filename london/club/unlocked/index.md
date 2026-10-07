@@ -1,8 +1,8 @@
 # UNLOCKED
 
-UNLOCKED is a music venue in London with 11 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Kings of the Rollers 'The Holy Grail' Album Launch" on Thu, 8 Oct 2026.
+UNLOCKED is a music venue in London with 12 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Kings of the Rollers 'The Holy Grail' Album Launch" on Thu, 8 Oct 2026.
 
-UNLOCKED is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Alythia Kwan, Andhim, Bradley Skeng and Carlita and 2 more. See dates, start times and who's playing. 118, Curtain Road, London, EC2A 3AY.
+UNLOCKED is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Alythia Kwan, Andhim, Bradley Skeng and Carlita and 2 more. See dates, start times and who's playing. 118, Curtain Road, London, EC2A 3AY.
 
 ## What's on
 
@@ -23,4 +23,4 @@ UNLOCKED is a music venue in London listed on soundcheck. 11 upcoming gigs, with
 
 118, Curtain Road, London, EC2A 3AY, London
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*

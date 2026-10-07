@@ -1,6 +1,6 @@
 # Azure
 
-Azure is a Club and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Cafe, San Francisco/Oakland on Thu, 15 Oct 2026.
+Azure is a Club and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at The Cafe, San Francisco/Oakland on Thu, 15 Oct 2026.
 
 Azure is a club and house artist based in United States of America, with 47 gigs on soundcheck across Bristol, Chicago, London and Los Angeles and 2 more. Often billed alongside Bianca Maieli, CHRYSALIS and Pauliewog. Next up: The Cafe, San Francisco/Oakland on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Azure is a club and house artist based in United States of America, with 47 gigs
 
 Bianca Maieli, CHRYSALIS, Pauliewog
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azurefm/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azurefm/)*

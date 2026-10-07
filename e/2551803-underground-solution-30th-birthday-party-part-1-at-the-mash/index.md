@@ -1,6 +1,6 @@
 # Underground Solution 30th Birthday Party (Part 1) at The Mash House
 
-Underground Solution 30th Birthday Party (Part 1) at The Mash House on Sat 10 Oct, Edinburgh. 7 artists: Accident Machine, discjocelyne, Euan Fryer and G-Mac and 3 more. House and Electronica. See the line-up on soundcheck.
+Underground Solution 30th Birthday Party (Part 1) at The Mash House on Sat 10 Oct, Edinburgh. 8 artists: Accident Machine, discjocelyne, Euan Fryer and Feena and 4 more. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Underground Solution 30th Birthday Party (Part 1) at The Mash House on Sat 10 Oc
 - Accident Machine
 - discjocelyne
 - Euan Fryer
+- Feena
 - G-Mac
 - George T
 - Proc Fiskal

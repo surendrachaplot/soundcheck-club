@@ -1,6 +1,6 @@
 # DJ Wow
 
-DJ Wow is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Bolero, Seoul on Sat, 10 Oct 2026.
+DJ Wow is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Bolero, Seoul on Sat, 10 Oct 2026.
 
 DJ Wow is a house and disco artist based in South Korea, with 60 gigs on soundcheck across Barcelona and Seoul. Often billed alongside Daul, RTRP and TRUEUNSOL. Next up: Bolero, Seoul on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DJ Wow is a house and disco artist based in South Korea, with 60 gigs on soundch
 
 Daul, RTRP, TRUEUNSOL
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwow/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwow/)*

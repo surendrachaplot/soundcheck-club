@@ -1,13 +1,14 @@
 # Didi Han
 
-Didi Han is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
+Didi Han is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Badaboum, Paris on Fri, 23 Oct 2026.
 
-Didi Han is a house and techno artist based in South Korea, with 55 gigs on soundcheck across Amsterdam, Bali, Bangkok and Hong Kong and 14 more. Often billed alongside Cezaire, Darius (FR) and Angie (FR). Next up: Depot Mayfield, Manchester on Fri 6 Nov.
+Didi Han is a house and techno artist based in South Korea, with 56 gigs on soundcheck across Amsterdam, Bali, Bangkok and Hong Kong and 14 more. Often billed alongside Cezaire, Darius (FR) and Angie (FR). Next up: Badaboum, Paris on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Badaboum | Paris |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
@@ -25,4 +26,4 @@ Didi Han is a house and techno artist based in South Korea, with 55 gigs on soun
 
 Cezaire, Darius (FR), Angie (FR)
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/didihan/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/didihan/)*

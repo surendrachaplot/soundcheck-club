@@ -1,13 +1,14 @@
 # MXGN
 
-MXGN is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Mia Mao, Paris on Fri, 23 Oct 2026.
+MXGN is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Alte Kaserne, Zurich on Fri, 16 Oct 2026.
 
-MXGN is a techno and trance artist based in United Kingdom, with 18 gigs on soundcheck across Berlin, Edinburgh, Hannover and Ibiza and 5 more. Often billed alongside Alex Farell, Faster Horses and Anetha. Next up: Mia Mao, Paris on Fri 23 Oct.
+MXGN is a techno and trance artist based in United Kingdom, with 19 gigs on soundcheck across Berlin, Edinburgh, Hannover and Ibiza and 6 more. Often billed alongside Alex Farell, Faster Horses and Anetha. Next up: Alte Kaserne, Zurich on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Alte Kaserne | Zurich |
 | Fri, 23 Oct 2026 | Mia Mao | Paris |
 | Sat, 24 Oct 2026 | The Liquid Room | Edinburgh |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
@@ -28,4 +29,4 @@ MXGN is a techno and trance artist based in United Kingdom, with 18 gigs on soun
 
 Alex Farell, Faster Horses, Anetha
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mxgn/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mxgn/)*

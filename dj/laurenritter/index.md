@@ -1,13 +1,14 @@
 # Lauren Ritter
 
-Lauren Ritter is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at H0L0, New York City on Sat, 7 Nov 2026.
+Lauren Ritter is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Signal, New York City on Fri, 23 Oct 2026.
 
-Lauren Ritter is a house and deep house artist, with 59 gigs on soundcheck across Ibiza, Miami, New York City and San Francisco/Oakland and 1 more. Often billed alongside Maksim, Connie and Asha Jasz. Next up: H0L0, New York City on Sat 7 Nov.
+Lauren Ritter is a house and deep house artist, with 60 gigs on soundcheck across Ibiza, Miami, New York City and San Francisco/Oakland and 1 more. Often billed alongside Maksim, Connie and Asha Jasz. Next up: Signal, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Signal | New York City |
 | Sat, 7 Nov 2026 | H0L0 | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Lauren Ritter is a house and deep house artist, with 59 gigs on soundcheck acros
 
 Maksim, Connie, Asha Jasz
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenritter/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenritter/)*

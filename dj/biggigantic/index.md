@@ -1,6 +1,6 @@
 # Big Gigantic
 
-Big Gigantic is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+Big Gigantic is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
 Big Gigantic is a bass and house artist based in United States of America, with 11 gigs on soundcheck across Boston, Denver, Detroit and Jacksonville and 4 more. Often billed alongside Bonnie, DJ Snake and Excision. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Big Gigantic is a bass and house artist based in United States of America, with 
 
 Bonnie, DJ Snake, Excision
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biggigantic/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biggigantic/)*

@@ -1,6 +1,6 @@
 # Prologue at Mitsuki
 
-Prologue at Mitsuki on Tue 13 Oct, Tokyo. 3 artists: Cobahn, KOSHIRO and YUTA. See the line-up on soundcheck.
+Prologue at Mitsuki on Tue 13 Oct, Tokyo. 3 artists: Cobahn, KOSHIRO and YUTA. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
-# Social Terrace - from 6AM till 8PM - Limited Capacity (open-bar till 9AM at TBA - Porta Romana Area
+# Social Terrace - from 6AM till 8PM - Limited Capacity (open-bar till 9AM) at TBA - Porta Romana Area
 
-Social Terrace - from 6AM till 8PM - Limited Capacity (open-bar till 9AM at TBA - Porta Romana Area on Sun 11 Oct, Milan. Progressive House and Electronica. See the line-up on soundcheck.
+Social Terrace - from 6AM till 8PM - Limited Capacity (open-bar till 9AM) at TBA - Porta Romana Area on Sun 11 Oct, Milan. Progressive House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Héctor Pericet
 
-Héctor Pericet is a Tech House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at EL SÓTANO, Madrid on Sun, 11 Oct 2026.
+Héctor Pericet is a Tech House and Minimal artist with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at EL SÓTANO, Madrid on Sun, 11 Oct 2026.
 
-Héctor Pericet is a tech house and minimal artist based in Spain, with 24 gigs on soundcheck across Madrid. Often billed alongside Julio Machicado, Grau and Grau (ES). Next up: EL SÓTANO, Madrid on Sun 11 Oct.
+Héctor Pericet is a tech house and minimal artist based in Spain, with 28 gigs on soundcheck across Madrid. Often billed alongside Julio Machicado, Grau and Grau (ES). Next up: EL SÓTANO, Madrid on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,10 @@ Héctor Pericet is a tech house and minimal artist based in Spain, with 24 gigs 
 | Sun, 18 Oct 2026 | EL SÓTANO | Madrid |
 | Sat, 24 Oct 2026 | Sala ART | Madrid |
 | Sun, 25 Oct 2026 | EL SÓTANO | Madrid |
+| Sun, 1 Nov 2026 | EL SÓTANO | Madrid |
+| Sun, 8 Nov 2026 | EL SÓTANO | Madrid |
+| Sun, 22 Nov 2026 | EL SÓTANO | Madrid |
+| Sun, 29 Nov 2026 | EL SÓTANO | Madrid |
 
 ## Recently played
 
@@ -28,4 +32,4 @@ Héctor Pericet is a tech house and minimal artist based in Spain, with 24 gigs 
 
 Julio Machicado, Grau, Grau (ES)
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorpericet/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorpericet/)*

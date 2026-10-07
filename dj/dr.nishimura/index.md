@@ -1,6 +1,6 @@
 # Dr. Nishimura
 
-Dr. Nishimura is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 9 Oct 2026.
+Dr. Nishimura is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 9 Oct 2026.
 
 Dr. Nishimura is a techno and house artist based in Japan, with 40 gigs on soundcheck across Hong Kong, Kyoto, Milan and Osaka and 1 more. Often billed alongside Compuma, Akie and Chanaz. Next up: MIDNIGHT EAST, Tokyo on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Dr. Nishimura is a techno and house artist based in Japan, with 40 gigs on sound
 
 Compuma, Akie, Chanaz
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.nishimura/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.nishimura/)*

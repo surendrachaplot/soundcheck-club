@@ -1,13 +1,14 @@
 # Free Zing
 
-Free Zing is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Cadavra, Madrid on Thu, 31 Dec 2026.
+Free Zing is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at M.O.T, London on Fri, 9 Oct 2026.
 
-Free Zing is a techno and electro artist based in Spain, with 61 gigs on soundcheck across Barcelona, Berlin, Birmingham and Bristol and 8 more. Often billed alongside Alien Communications, BAYS and Jos. Next up: Cadavra, Madrid on Thu 31 Dec.
+Free Zing is a techno and electro artist based in Spain, with 62 gigs on soundcheck across Barcelona, Berlin, Birmingham and Bristol and 8 more. Often billed alongside Alien Communications, BAYS and Jos. Next up: M.O.T, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | M.O.T | London |
 | Thu, 31 Dec 2026 | Cadavra | Madrid |
 
 ## Recently played
@@ -25,4 +26,4 @@ Free Zing is a techno and electro artist based in Spain, with 61 gigs on soundch
 
 Alien Communications, BAYS, Jos
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freezing/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freezing/)*

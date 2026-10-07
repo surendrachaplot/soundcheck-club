@@ -1,6 +1,6 @@
 # New Factory
 
-New Factory is a music venue in Nantes with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "It's Ariana Bitch Party Nantes avec Mami Watta" on Fri, 9 Oct 2026.
+New Factory is a music venue in Nantes with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "It's Ariana Bitch Party Nantes avec Mami Watta" on Fri, 9 Oct 2026.
 
 New Factory is a music venue in Nantes listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 12 rue de Rieux 44000 Nantes, France.
 
@@ -14,4 +14,4 @@ New Factory is a music venue in Nantes listed on soundcheck. 1 upcoming gig. See
 
 12 rue de Rieux 44000 Nantes, France, Nantes
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/new-factory/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/new-factory/)*

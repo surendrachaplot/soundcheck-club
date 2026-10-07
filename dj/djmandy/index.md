@@ -1,13 +1,15 @@
 # DJ MANDY
 
-DJ MANDY is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Fonda Theatre, Los Angeles on Fri, 30 Oct 2026.
+DJ MANDY is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Bsmnt, Boston on Fri, 9 Oct 2026.
 
-DJ MANDY is a house and techno artist based in United States of America, with 23 gigs on soundcheck across Boston, Dallas Fort Worth, Detroit and Houston and 9 more. Often billed alongside Gryffin, I Hate Models and Josh Baker. Next up: Fonda Theatre, Los Angeles on Fri 30 Oct.
+DJ MANDY is a house and tech house artist based in United States of America, with 25 gigs on soundcheck across Boston, Dallas Fort Worth, Detroit and Houston and 9 more. Often billed alongside Gryffin, I Hate Models and Josh Baker. Next up: Bsmnt, Boston on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Bsmnt | Boston |
+| Sat, 10 Oct 2026 | Bsmnt | Boston |
 | Fri, 30 Oct 2026 | Fonda Theatre | Los Angeles |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
@@ -28,4 +30,4 @@ DJ MANDY is a house and techno artist based in United States of America, with 23
 
 Gryffin, I Hate Models, Josh Baker
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmandy/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmandy/)*

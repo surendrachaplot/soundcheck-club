@@ -1,14 +1,15 @@
 # D-Program
 
-D-Program is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at DNA Lounge, San Francisco/Oakland on Sat, 10 Oct 2026.
+D-Program is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at DNA Lounge, San Francisco/Oakland on Sat, 10 Oct 2026.
 
-D-Program is a drum & bass and jungle artist based in United States of America, with 7 gigs on soundcheck across Boston, Detroit and San Francisco/Oakland. Often billed alongside BLU, DJ Girl and ImpirumCrypt. Next up: DNA Lounge, San Francisco/Oakland on Sat 10 Oct.
+D-Program is a drum & bass and jungle artist based in United States of America, with 8 gigs on soundcheck across Boston, Detroit and San Francisco/Oakland. Often billed alongside BLU, DJ Girl and ImpirumCrypt. Next up: DNA Lounge, San Francisco/Oakland on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | DNA Lounge | San Francisco/Oakland |
+| Sat, 24 Oct 2026 | District 288 | Boston |
 
 ## Recently played
 
@@ -23,4 +24,4 @@ D-Program is a drum & bass and jungle artist based in United States of America, 
 
 BLU (3), DJ Girl, ImpirumCrypt
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d-program/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d-program/)*

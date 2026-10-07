@@ -1,6 +1,6 @@
 # SCOPÁVIK Night with Cobahn at vurt.
 
-SCOPÁVIK Night with Cobahn at vurt. on Sat 17 Oct, Seoul. 4 artists: Cobahn, Scøpe, Ve Bogel and Xanexx. See the line-up on soundcheck.
+SCOPÁVIK Night with Cobahn at vurt. on Sat 17 Oct, Seoul. 4 artists: Cobahn, Scøpe, Ve Bogel and Xanexx. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,15 @@
 # Zuzana Hakl
 
-Zuzana Hakl is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Fuchs2, Prague on Fri, 16 Oct 2026.
+Zuzana Hakl is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Fuchs2, Prague on Fri, 16 Oct 2026.
 
-Zuzana Hakl is a techno and trance artist based in Czech Republic, with 69 gigs on soundcheck across Lisbon and Prague. Often billed alongside TerminusTechnikus, Epoché and SJ Yellow. Next up: Fuchs2, Prague on Fri 16 Oct.
+Zuzana Hakl is a techno and trance artist based in Czech Republic, with 70 gigs on soundcheck across Lisbon and Prague. Often billed alongside TerminusTechnikus, Epoché and SJ Yellow. Next up: Fuchs2, Prague on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Fuchs2 | Prague |
+| Sat, 14 Nov 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Zuzana Hakl is a techno and trance artist based in Czech Republic, with 69 gigs 
 
 TerminusTechnikus, Epoché, SJ Yellow
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zuzanahakl/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zuzanahakl/)*

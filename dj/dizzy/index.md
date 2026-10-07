@@ -1,6 +1,6 @@
 # Dizzy
 
-Dizzy is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at feedbk, New York City on Fri, 9 Oct 2026.
+Dizzy is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at feedbk, New York City on Fri, 9 Oct 2026.
 
 Dizzy is a techno and house artist based in Italy, with 43 gigs on soundcheck across Barcelona, Berlin, Lisbon and London and 8 more. Often billed alongside Pabie, Brasi and DJ Tree. Next up: feedbk, New York City on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Dizzy is a techno and house artist based in Italy, with 43 gigs on soundcheck ac
 
 Pabie, Brasi, DJ Tree
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzy/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzy/)*

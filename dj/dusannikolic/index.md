@@ -1,13 +1,14 @@
 # Dusan Nikolic
 
-Dusan Nikolic is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Unmute, Hanoi on Fri, 16 Oct 2026.
+Dusan Nikolic is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Le Maquis Club, Hanoi on Sat, 10 Oct 2026.
 
-Dusan Nikolic is a house and techno artist based in Serbia, with 5 gigs on soundcheck across Bangkok, Belgrade, Hanoi and Seoul. Often billed alongside Techa, Anh Vy and Carl H. Next up: Unmute, Hanoi on Fri 16 Oct.
+Dusan Nikolic is a house and techno artist based in Serbia, with 6 gigs on soundcheck across Bangkok, Belgrade, Hanoi and Seoul. Often billed alongside Techa, Zwi and Anh Vy. Next up: Le Maquis Club, Hanoi on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Le Maquis Club | Hanoi |
 | Fri, 16 Oct 2026 | Unmute | Hanoi |
 
 ## Recently played
@@ -19,6 +20,6 @@ Dusan Nikolic is a house and techno artist based in Serbia, with 5 gigs on sound
 
 ## Shares bills with
 
-Techa, Anh Vy, Carl H
+Techa, Zwi, Anh Vy
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dusannikolic/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dusannikolic/)*

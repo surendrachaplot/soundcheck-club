@@ -1,6 +1,6 @@
 # Billi
 
-Billi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 9 Oct 2026.
+Billi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 9 Oct 2026.
 
 Billi is a house and techno artist based in Portugal, with 19 gigs on soundcheck across Barcelona and Lisbon. Often billed alongside Pitcho, FRESKO and Francisca Urbano. Next up: Lux Fragil, Lisbon on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Billi is a house and techno artist based in Portugal, with 19 gigs on soundcheck
 
 Pitcho, FRESKO, Francisca Urbano
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billi/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billi/)*

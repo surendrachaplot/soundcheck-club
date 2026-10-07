@@ -1,6 +1,6 @@
 # Wutu
 
-Wutu is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at OXI, Berlin on Fri, 9 Oct 2026.
+Wutu is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at OXI, Berlin on Fri, 9 Oct 2026.
 
 Wutu is an experimental and electronica artist based in Italy, with 17 gigs on soundcheck across Amsterdam, Berlin, Lisbon and Milan and 1 more. Often billed alongside Gropina, Alicia Carrera and Camille Maria. Next up: OXI, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Wutu is an experimental and electronica artist based in Italy, with 17 gigs on s
 
 Gropina, Alicia Carrera, Camille Maria
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wutu/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wutu/)*

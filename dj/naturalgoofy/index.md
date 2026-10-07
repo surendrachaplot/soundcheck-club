@@ -1,6 +1,6 @@
 # Natural Goofy
 
-Natural Goofy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 28 Oct 2026.
+Natural Goofy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 28 Oct 2026.
 
 Natural Goofy is a house and techno artist based in Spain, with 31 gigs on soundcheck across Barcelona, Berlin, Hamburg and Lisbon and 5 more. Often billed alongside Comik Sans, Arista and Cortazar. Next up: Tresor / Globus, Berlin on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Natural Goofy is a house and techno artist based in Spain, with 31 gigs on sound
 
 Comik Sans, Arista, Cortazar
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naturalgoofy/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naturalgoofy/)*

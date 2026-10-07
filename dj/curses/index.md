@@ -1,8 +1,8 @@
 # Curses
 
-Curses is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Fuse, Brussels on Sat, 10 Oct 2026.
+Curses is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Fuse, Brussels on Sat, 10 Oct 2026.
 
-Curses is a techno and house artist based in United States of America, with 180 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Rakans, The Lady Machine and Cormac. Next up: Fuse, Brussels on Sat 10 Oct.
+Curses is a techno and house artist based in United States of America, with 181 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside The Lady Machine, Rakans and Cormac. Next up: Fuse, Brussels on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Curses is a techno and house artist based in United States of America, with 180 
 | Sat, 31 Oct 2026 | KHIDI | Tbilisi |
 | Thu, 5 Nov 2026 | WOLF Barcelona | Barcelona |
 | Fri, 6 Nov 2026 | Sala Nazca | Madrid |
+| Sat, 14 Nov 2026 | BASEMENT | New York City |
 | Sat, 28 Nov 2026 | The Cause | London |
 
 ## Recently played
@@ -29,6 +30,6 @@ Curses is a techno and house artist based in United States of America, with 180 
 
 ## Shares bills with
 
-Rakans, The Lady Machine, Cormac
+The Lady Machine, Rakans, Cormac
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/curses/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/curses/)*

@@ -1,6 +1,6 @@
 # Domicile
 
-Domicile is a music venue in Miami with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "DVS1" on Fri, 9 Oct 2026.
+Domicile is a music venue in Miami with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "DVS1" on Fri, 9 Oct 2026.
 
 Domicile is a music venue in Miami listed on soundcheck. 3 upcoming gigs, with line-ups including Carla Schmitt, Cristobal Pesce, Dani Thorne and DVS1 and 2 more. See dates, start times and who's playing. 2900 NW Seventh Ave, Miami, FL  33127.
 
@@ -16,4 +16,4 @@ Domicile is a music venue in Miami listed on soundcheck. 3 upcoming gigs, with l
 
 2900 NW Seventh Ave, Miami, FL  33127, Miami
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/domicile/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/domicile/)*

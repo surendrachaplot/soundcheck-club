@@ -1,6 +1,6 @@
 # Edge (GE)
 
-Edge (GE) is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Bassiani, Tbilisi on Fri, 16 Oct 2026.
+Edge (GE) is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Bassiani, Tbilisi on Fri, 16 Oct 2026.
 
 Edge (GE) is an electronic artist based in Georgia, with 6 gigs on soundcheck across Tbilisi. Often billed alongside 2ciu, 3AM and Anthony Rother. Next up: Bassiani, Tbilisi on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Edge (GE) is an electronic artist based in Georgia, with 6 gigs on soundcheck ac
 
 2ciu, 3AM, Anthony Rother
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edge-ge/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edge-ge/)*

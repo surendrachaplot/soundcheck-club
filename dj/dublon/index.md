@@ -1,6 +1,6 @@
 # Dublon
 
-Dublon is a House and Jazz artist with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Substation, Seattle on Thu, 8 Oct 2026.
+Dublon is a House and Jazz artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Substation, Seattle on Thu, 8 Oct 2026.
 
 Dublon is a house and jazz artist based in Denmark, with 35 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 14 more. Often billed alongside Agathe Mougin, Amy Jor and Argia. Next up: Substation, Seattle on Thu 8 Oct.
 
@@ -30,4 +30,4 @@ Dublon is a house and jazz artist based in Denmark, with 35 gigs on soundcheck a
 
 Agathe Mougin, Amy Jor, Argia
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dublon/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dublon/)*

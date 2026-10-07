@@ -1,6 +1,6 @@
 # Sinesthesia
 
-Sinesthesia is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Macadam, Nantes on Fri, 30 Oct 2026.
+Sinesthesia is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Macadam, Nantes on Fri, 30 Oct 2026.
 
 Sinesthesia is a techno artist based in France, with 17 gigs on soundcheck across Berlin, Nantes and Paris. Often billed alongside Iman Janes, Bailey Ibbs and Ian Maur. Next up: Macadam, Nantes on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sinesthesia is a techno artist based in France, with 17 gigs on soundcheck acros
 
 Iman Janes, Bailey Ibbs, Ian Maur
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinesthesia/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinesthesia/)*

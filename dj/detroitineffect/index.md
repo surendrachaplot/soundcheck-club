@@ -1,8 +1,8 @@
 # Detroit In Effect
 
-Detroit In Effect is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Frankhan Selectist, Istanbul on Fri, 16 Oct 2026.
+Detroit In Effect is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Frankhan Selectist, Istanbul on Fri, 16 Oct 2026.
 
-Detroit In Effect is a techno and electro artist based in United States of America, with 111 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 37 more. Often billed alongside Serge, Binh and DJ Assault. Next up: Frankhan Selectist, Istanbul on Fri 16 Oct.
+Detroit In Effect is a techno and electro artist based in United States of America, with 112 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 37 more. Often billed alongside Serge, Afra and Binh. Next up: Frankhan Selectist, Istanbul on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Detroit In Effect is a techno and electro artist based in United States of Ameri
 | Fri, 16 Oct 2026 | Frankhan Selectist | Istanbul |
 | Thu, 22 Oct 2026 | CLUB RAUM | Amsterdam |
 | Sat, 31 Oct 2026 | Lincoln Factory | Detroit |
+| Fri, 6 Nov 2026 | public records | New York City |
 | Sat, 14 Nov 2026 | Hidden | Manchester |
 | Fri, 20 Nov 2026 | Night Tales Loft | London |
 
@@ -27,6 +28,6 @@ Detroit In Effect is a techno and electro artist based in United States of Ameri
 
 ## Shares bills with
 
-Serge, Binh, DJ Assault
+Serge, Afra, Binh
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/detroitineffect/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/detroitineffect/)*

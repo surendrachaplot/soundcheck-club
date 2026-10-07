@@ -1,6 +1,6 @@
 # SASHE (2)
 
-SASHE (2) is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at John Doe, Amsterdam on Wed, 7 Oct 2026.
+SASHE (2) is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at John Doe, Amsterdam on Wed, 7 Oct 2026.
 
 SASHE is a techno artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam. Often billed alongside Gaya Carmeli, BVNNII and LEX LEDU. Next up: John Doe, Amsterdam on Wed 7 Oct.
 
@@ -23,4 +23,4 @@ SASHE is a techno artist based in Netherlands, with 7 gigs on soundcheck across 
 
 Gaya Carmeli, BVNNII, LEX LEDU
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sashe-2/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sashe-2/)*

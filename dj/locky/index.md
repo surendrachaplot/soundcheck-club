@@ -1,6 +1,6 @@
 # Locky
 
-Locky is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Toffler, Rotterdam on Sat, 10 Oct 2026.
+Locky is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Toffler, Rotterdam on Sat, 10 Oct 2026.
 
 Locky is a house and tech house artist based in United Kingdom, with 153 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belgrade and 31 more. Often billed alongside Mad.Again, Luke Dean_ and Liam Palmer. Next up: Toffler, Rotterdam on Sat 10 Oct.
 
@@ -35,4 +35,4 @@ Locky is a house and tech house artist based in United Kingdom, with 153 gigs on
 
 Mad.Again (2), Luke Dean_, Liam Palmer
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*

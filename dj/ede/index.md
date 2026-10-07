@@ -1,6 +1,6 @@
 # Ede
 
-Ede is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Izmir Marriott Pagos Rooftop, Izmir on Sat, 10 Oct 2026.
+Ede is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Izmir Marriott Pagos Rooftop, Izmir on Sat, 10 Oct 2026.
 
 Ede is a techno and house artist based in Germany, with 96 gigs on soundcheck across Amsterdam, Athens, Austria and Barcelona and 25 more. Often billed alongside Skatman, julës jay and JAMIIE. Next up: TBA - Izmir Marriott Pagos Rooftop, Izmir on Sat 10 Oct.
 
@@ -31,4 +31,4 @@ Ede is a techno and house artist based in Germany, with 96 gigs on soundcheck ac
 
 Skatman, julës jay, JAMIIE
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ede/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ede/)*

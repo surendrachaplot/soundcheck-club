@@ -1,6 +1,6 @@
 # RedEarth
 
-RedEarth is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Monk's Brew Club, Singapore on Thu, 4 Mar 2027.
+RedEarth is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Monk's Brew Club, Singapore on Thu, 4 Mar 2027.
 
 RedEarth is an electronic artist based in United Kingdom, with 6 gigs on soundcheck across London and Singapore. Often billed alongside katamine, ALVAZ and Altayef. Next up: Monk's Brew Club, Singapore on Thu 4 Mar.
 
@@ -22,4 +22,4 @@ RedEarth is an electronic artist based in United Kingdom, with 6 gigs on soundch
 
 katamine, ALVAZ, Altayef
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redearth/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redearth/)*

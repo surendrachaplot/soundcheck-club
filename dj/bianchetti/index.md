@@ -1,6 +1,6 @@
 # Bianchetti
 
-Bianchetti is a House and UK Funky artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Bianchetti is a House and UK Funky artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Bianchetti is a house and uk funky artist based in Chile, with 6 gigs on soundcheck across Amsterdam, Barcelona and Berlin. Often billed alongside DJ Vivona, JP Hernández and TWOEF. Next up: Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Bianchetti is a house and uk funky artist based in Chile, with 6 gigs on soundch
 
 DJ Vivona, JP Hernández, TWOEF
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bianchetti/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bianchetti/)*

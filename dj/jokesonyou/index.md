@@ -1,6 +1,6 @@
 # JOKESONYOU
 
-JOKESONYOU is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 24 Oct 2026.
+JOKESONYOU is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 24 Oct 2026.
 
 JOKESONYOU is a techno and trance artist based in Australia, with 64 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside 3LEEZA, Azyr and The Muffin Man. Next up: Toekomstmuziek, Amsterdam on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ JOKESONYOU is a techno and trance artist based in Australia, with 64 gigs on sou
 
 3LEEZA, Azyr, The Muffin Man
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jokesonyou/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jokesonyou/)*

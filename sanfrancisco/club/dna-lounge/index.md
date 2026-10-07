@@ -1,14 +1,15 @@
 # DNA Lounge
 
-DNA Lounge is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "LAST FRIDAY NIGHT (Y2K-2010's Throwbacks All Night Long!)" on Fri, 9 Oct 2026.
+DNA Lounge is a music venue in San Francisco/Oakland with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "LAST FRIDAY NIGHT (Y2K-2010's Throwbacks All Night Long!)" on Fri, 9 Oct 2026.
 
-DNA Lounge is a music venue in San Francisco/Oakland listed on soundcheck. 3 upcoming gigs, with line-ups including D-Program. See dates, start times and who's playing. 375 Eleventh Street, San Francisco, CA 94103, United States.
+DNA Lounge is a music venue in San Francisco/Oakland listed on soundcheck. 4 upcoming gigs, with line-ups including Chuck Gunn, D-Program, Discnogirl and Fawks and 2 more. See dates, start times and who's playing. 375 Eleventh Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | LAST FRIDAY NIGHT (Y2K-2010's Throwbacks All Night Long!) |  |
+| Fri, 9 Oct 2026 | Club Antonio presents SINKITTY | Chuck Gunn, Discnogirl, Fawks, Matthew Paul, SINKITTY |
 | Sat, 10 Oct 2026 | Secret Psychedelica: Libra 2026 with Peacedragon, DJ Icon, Treetop, | D-Program |
 | Sun, 11 Oct 2026 | Egyptian Lover + Love Supreme |  |
 
@@ -16,4 +17,4 @@ DNA Lounge is a music venue in San Francisco/Oakland listed on soundcheck. 3 upc
 
 375 Eleventh Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/dna-lounge/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/dna-lounge/)*

@@ -1,0 +1,16 @@
+# Palais: Conducta b2b DJ SWISHA (All Night Long) [SOLD OUT] at Palais
+
+Palais: Conducta b2b DJ SWISHA (All Night Long) [SOLD OUT] on Fri 16 Oct, London. 2 artists: Conducta and DJ SWISHA. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 16 Oct 2026 |
+| Venue | Palais |
+| City | London |
+
+## Line-up
+
+- Conducta
+- DJ SWISHA
+
+*Source: [soundcheck](https://soundcheck.club/e/2491574-palais-conducta-b2b-dj-swisha-all-night-long-sold-out-at-pal/)*

@@ -1,14 +1,13 @@
 # Kalyjama
 
-Kalyjama is a Electro and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Kalyjama is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at S//IP, Cyprus on Fri, 9 Oct 2026.
 
-Kalyjama is an electro and acid artist based in Greece, with 25 gigs on soundcheck across Athens, Cyprus, Greece and Munich. Often billed alongside RNO, Useless Co. and 22. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Kalyjama is an electro and acid artist based in Greece, with 25 gigs on soundcheck across Athens, Cyprus, Greece and Munich. Often billed alongside RNO, Useless Co. and 22. Next up: S//IP, Cyprus on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Fri, 9 Oct 2026 | S//IP | Cyprus |
 
 ## Recently played
@@ -26,4 +25,4 @@ Kalyjama is an electro and acid artist based in Greece, with 25 gigs on soundche
 
 RNO (1), Useless Co., 22 (1)
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalyjama/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalyjama/)*

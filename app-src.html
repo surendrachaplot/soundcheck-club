@@ -5273,7 +5273,7 @@ a.dst-full-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1791241771078">
+<meta name="sc-build" content="1791367314451">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -5333,7 +5333,7 @@ a.dst-full-t:hover{text-decoration:underline}
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-06/">Tue 6 Oct <span class="c">6 events</span></a></li><li><a href="/london/2026-10-07/">Wed 7 Oct <span class="c">15 events</span></a></li><li><a href="/london/2026-10-08/">Thu 8 Oct <span class="c">36 events</span></a></li><li><a href="/london/2026-10-09/">Fri 9 Oct <span class="c">99 events</span></a></li><li><a href="/london/2026-10-10/">Sat 10 Oct <span class="c">125 events</span></a></li><li><a href="/london/2026-10-11/">Sun 11 Oct <span class="c">17 events</span></a></li><li><a href="/london/2026-10-12/">Mon 12 Oct <span class="c">5 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-07/">Wed 7 Oct <span class="c">15 events</span></a></li><li><a href="/london/2026-10-08/">Thu 8 Oct <span class="c">36 events</span></a></li><li><a href="/london/2026-10-09/">Fri 9 Oct <span class="c">100 events</span></a></li><li><a href="/london/2026-10-10/">Sat 10 Oct <span class="c">129 events</span></a></li><li><a href="/london/2026-10-11/">Sun 11 Oct <span class="c">17 events</span></a></li><li><a href="/london/2026-10-12/">Mon 12 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-13/">Tue 13 Oct <span class="c">4 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -9859,9 +9859,19 @@ a.dst-full-t:hover{text-decoration:underline}
     // search result therefore ended up titled "soundcheck · Singapore" — the feed
     // finished after the page called setSeo and overwrote it. The title belongs to
     // whatever is on screen, so the feed only claims it when nothing is over it.
+    // A landing page (/boston/techno/, /london/this-weekend/, /tokyo/2026-10-08/) shows
+    // the city feed, and the feed used to replace its baked, unique title with the one
+    // generic city title: a crawler that runs scripts saw 308 pages with the same title.
+    // The baked title stays while the feed is still the city the page booted in.
+    var _seoBakedOk=!/^\/(dj|e|promoter|v|u|me)\/|\/club\//.test(location.pathname), _seoBakedCity;
+    function cityTitle(){
+      if(_seoBakedCity===undefined) _seoBakedCity=currentCity;
+      if(_seoBakedOk && currentCity===_seoBakedCity) return _seoDefaultTitle;
+      return 'soundcheck · '+cityMeta().name+' · gigs & artist sets';
+    }
     function setCityTitle(){
       if(document.body.classList.contains('page-on')) return;
-      document.title='soundcheck · '+cityMeta().name+' · gigs & artist sets';
+      document.title=cityTitle();
     }
     function setSeo(title, desc, jsonld, canonical){
       if(title) document.title=title;
@@ -9876,7 +9886,7 @@ a.dst-full-t:hover{text-decoration:underline}
       var cn=(typeof cityLabel==='function'?cityLabel(currentCity):'')||'your city';
       var nCities=(typeof CITY_LIST!=='undefined'&&CITY_LIST.length)||104;
       var d="Gigs in "+cn+" tonight. Line-ups, venues and artist sets in "+nCities+" cities on soundcheck.";
-      setSeo(_seoDefaultTitle, d, null, location.origin+(typeof cityPath==='function'?cityPath(currentCity):SC_BASE));
+      setSeo(cityTitle(), d, null, location.origin+(typeof cityPath==='function'?cityPath(currentCity):SC_BASE));
     }
     // The in-app "Back" steps one level through real history (matches the
     // browser back button). At the app's first entry it lands on home.

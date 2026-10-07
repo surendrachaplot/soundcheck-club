@@ -1,6 +1,6 @@
 # WE.LL
 
-WE.LL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Gaffe, London on Fri, 23 Oct 2026.
+WE.LL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Gaffe, London on Fri, 23 Oct 2026.
 
 WE.LL is a techno and house artist based in United States of America, with 14 gigs on soundcheck across Copenhagen, London and New York City. Often billed alongside babsko, kuini2000 and Mama Snake. Next up: Gaffe, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ WE.LL is a techno and house artist based in United States of America, with 14 gi
 
 babsko, kuini2000, Mama Snake
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/we.ll/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/we.ll/)*

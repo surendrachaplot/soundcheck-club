@@ -1,6 +1,6 @@
 # Malachy
 
-Malachy is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Hidden, Manchester on Fri, 16 Oct 2026.
+Malachy is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Hidden, Manchester on Fri, 16 Oct 2026.
 
 Malachy is a house and garage artist based in United Kingdom, with 13 gigs on soundcheck across Leeds, Liverpool, London and Manchester and 1 more. Often billed alongside Jelsen, Alec Falconer and Tino. Next up: Hidden, Manchester on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Malachy is a house and garage artist based in United Kingdom, with 13 gigs on so
 
 Jelsen, Alec Falconer, Tino
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malachy/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malachy/)*

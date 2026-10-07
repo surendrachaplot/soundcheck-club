@@ -1,8 +1,8 @@
 # Aldonna
 
-Aldonna is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 10 Oct 2026.
+Aldonna is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 10 Oct 2026.
 
-Aldonna is a house and techno artist based in Australia, with 137 gigs on soundcheck across Amsterdam, Bali, Berlin and Brisbane and 27 more. Often billed alongside Tjade, D Stone and DAWS. Next up: Den Anden Side, Copenhagen on Sat 10 Oct.
+Aldonna is a house and techno artist based in Australia, with 139 gigs on soundcheck across Amsterdam, Bali, Berlin and Brisbane and 27 more. Often billed alongside Tjade, D Stone and DAWS. Next up: Den Anden Side, Copenhagen on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,7 +14,9 @@ Aldonna is a house and techno artist based in Australia, with 137 gigs on soundc
 | Thu, 22 Oct 2026 | Klaproos | Amsterdam |
 | Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Loft Studios | London |
+| Sat, 7 Nov 2026 | Circolo Amelia | Milan |
 | Sun, 8 Nov 2026 | CLUB RAUM | Amsterdam |
+| Fri, 13 Nov 2026 | M.O.T | London |
 
 ## Recently played
 
@@ -31,4 +33,4 @@ Aldonna is a house and techno artist based in Australia, with 137 gigs on soundc
 
 Tjade, D Stone, DAWS
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*

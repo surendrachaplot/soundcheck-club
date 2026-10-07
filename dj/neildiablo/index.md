@@ -1,6 +1,6 @@
 # Neil Diablo
 
-Neil Diablo is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Bar Shrimp, Manchester on Sat, 10 Oct 2026.
+Neil Diablo is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Bar Shrimp, Manchester on Sat, 10 Oct 2026.
 
 Neil Diablo is a disco and house artist based in United Kingdom, with 19 gigs on soundcheck across Ibiza, Leeds, Liverpool and London and 1 more. Often billed alongside Il Bosco, James Holroyd and Crazy P. Next up: Bar Shrimp, Manchester on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Neil Diablo is a disco and house artist based in United Kingdom, with 19 gigs on
 
 Il Bosco, James Holroyd, Crazy P
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neildiablo/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neildiablo/)*

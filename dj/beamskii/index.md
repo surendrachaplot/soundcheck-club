@@ -1,14 +1,15 @@
 # Beamskii
 
-Beamskii is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Foufounes Electronique, Montreal on Sat, 17 Oct 2026.
+Beamskii is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Foufounes Electronique, Montreal on Sat, 17 Oct 2026.
 
-Beamskii is a hardcore and techno artist based in Canada, with 40 gigs on soundcheck across Mexico City, Montreal and Toronto. Often billed alongside Outback, Neo Edo and D.Blavatsky. Next up: Foufounes Electronique, Montreal on Sat 17 Oct.
+Beamskii is a hardcore and techno artist based in Canada, with 41 gigs on soundcheck across Mexico City, Montreal and Toronto. Often billed alongside Outback, Neo Edo and the bald girl. Next up: Foufounes Electronique, Montreal on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Foufounes Electronique | Montreal |
+| Sat, 31 Oct 2026 | ESC | Montreal |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Beamskii is a hardcore and techno artist based in Canada, with 40 gigs on soundc
 
 ## Shares bills with
 
-Outback, Neo Edo, D.Blavatsky
+Outback, Neo Edo, the bald girl
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beamskii/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beamskii/)*

@@ -1,8 +1,8 @@
 # Moondog Hifi
 
-Moondog Hifi is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Deep Listening" on Tue, 6 Oct 2026.
+Moondog Hifi is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Deep Listening" on Tue, 6 Oct 2026.
 
-Moondog Hifi is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including Big Red and Derek Russo. See dates, start times and who's playing. 119 Ingraham Street, Brooklyn, NY 11237.
+Moondog Hifi is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including Big Red and Derek Russo. See dates, start times and who's playing. 119 Ingraham Street, Brooklyn, NY 11237.
 
 ## What's on
 
@@ -15,9 +15,11 @@ Moondog Hifi is a music venue in New York City listed on soundcheck. 7 upcoming 
 | Fri, 9 Oct 2026 | Boogie / Funk / Int'l Disco Vinyl Set |  |
 | Sat, 10 Oct 2026 | Sasta |  |
 | Sun, 11 Oct 2026 | Super Gay Sunday | Big Red |
+| Tue, 13 Oct 2026 | Deep Listening |  |
+| Wed, 14 Oct 2026 | Wednesday JAmZZ: Eternal Wind Trio |  |
 
 ## Address
 
 119 Ingraham Street, Brooklyn, NY 11237, New York City
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/moondog-hifi/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/moondog-hifi/)*

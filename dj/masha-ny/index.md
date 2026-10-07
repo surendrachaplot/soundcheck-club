@@ -1,8 +1,8 @@
 # Ma Sha
 
-Ma Sha is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The Fruit, North-carolina on Fri, 23 Oct 2026.
+Ma Sha is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Fruit, North-carolina on Fri, 23 Oct 2026.
 
-Ma Sha is a techno and bass artist based in United States of America, with 98 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bristol and 28 more. Often billed alongside Sobolik, Sheepshead and Ayesha. Next up: The Fruit, North Carolina on Fri 23 Oct.
+Ma Sha is a techno and bass artist based in United States of America, with 99 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bristol and 28 more. Often billed alongside Sobolik, Sheepshead and Ayesha. Next up: The Fruit, North Carolina on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ma Sha is a techno and bass artist based in United States of America, with 98 gi
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | The Fruit | North-carolina |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 7 Nov 2026 | Nowadays | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ma Sha is a techno and bass artist based in United States of America, with 98 gi
 
 Sobolik, Sheepshead, Ayesha
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masha-ny/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masha-ny/)*

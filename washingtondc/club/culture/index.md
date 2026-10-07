@@ -1,6 +1,6 @@
 # Culture
 
-Culture is a music venue in Washington DC with 8 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Nü Androids presents: Morgan Seatree" on Fri, 9 Oct 2026.
+Culture is a music venue in Washington DC with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Nü Androids presents: Morgan Seatree" on Fri, 9 Oct 2026.
 
 Culture is a music venue in Washington DC listed on soundcheck. 8 upcoming gigs, with line-ups including Amtrac, Kenny Dope, Morgan Seatree and NOVAH and 1 more. See dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, United States.
 
@@ -21,4 +21,4 @@ Culture is a music venue in Washington DC listed on soundcheck. 8 upcoming gigs,
 
 2002 Fenwick St NE, Washington, DC 20002, United States, Washington DC
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/culture/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/culture/)*

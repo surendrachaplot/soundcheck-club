@@ -1,8 +1,8 @@
 # Mahmut Orhan
 
-Mahmut Orhan is a House and Afro House artist with 10 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Chinois Ibiza, Ibiza on Wed, 7 Oct 2026.
+Mahmut Orhan is a House and Afro House artist with 11 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Chinois Ibiza, Ibiza on Wed, 7 Oct 2026.
 
-Mahmut Orhan is a house and afro house artist based in Turkey, with 132 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Francis Mercier, Shimza and ARODES. Next up: Chinois Ibiza, Ibiza on Wed 7 Oct.
+Mahmut Orhan is a house and afro house artist based in Turkey, with 133 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Francis Mercier, Shimza and ARODES. Next up: Chinois Ibiza, Ibiza on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Mahmut Orhan is a house and afro house artist based in Turkey, with 132 gigs on 
 | Sat, 17 Oct 2026 | UFO im Velodrom | Berlin |
 | Fri, 23 Oct 2026 | Theater Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Phantom, Paris | Paris |
+| Wed, 28 Oct 2026 | Klein Phönix | Istanbul |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 | Sat, 19 Dec 2026 | White Bay Power Station | Sydney |
 | Sun, 20 Dec 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
@@ -34,4 +35,4 @@ Mahmut Orhan is a house and afro house artist based in Turkey, with 132 gigs on 
 
 Francis Mercier, Shimza, ARODES
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*

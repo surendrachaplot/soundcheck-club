@@ -1,8 +1,8 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 31 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "TECHROOM: JC, Danny Valen, Alberto Fandos, Tabu Vibar" on Thu, 8 Oct 2026.
+EL SÓTANO is a music venue in Madrid with 36 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "TECHROOM: JC, Danny Valen, Alberto Fandos, Tabu Vibar" on Thu, 8 Oct 2026.
 
-EL SÓTANO is a music venue in Madrid listed on soundcheck. 31 upcoming gigs, with line-ups including Alexander Kowalski, Arok Shiva, Babylon Whore and Bigot3x and 2 more. See dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
+EL SÓTANO is a music venue in Madrid listed on soundcheck. 36 upcoming gigs, with line-ups including Alexander Kowalski, Arok Shiva, Babylon Whore and Bigot3x and 2 more. See dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
 ## What's on
 
@@ -23,4 +23,4 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 31 upcoming gigs, wi
 
 Calle de las Maldonadas, 6, 28005 Madrid, España, Madrid
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*

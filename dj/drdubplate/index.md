@@ -1,8 +1,8 @@
 # Dr Dubplate
 
-Dr Dubplate is a Garage and Bass artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
+Dr Dubplate is a Garage and Bass artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
 
-Dr Dubplate is a garage and bass artist based in United Kingdom, with 146 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 33 more. Often billed alongside Bakey, Yemz and Soul Mass Transit System. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
+Dr Dubplate is a garage and bass artist based in United Kingdom, with 147 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 33 more. Often billed alongside Bakey, Yemz and Fliss Mayo. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Dr Dubplate is a garage and bass artist based in United Kingdom, with 146 gigs o
 | Thu, 22 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Sat, 31 Oct 2026 | Mint Warehouse | Leeds |
 | Fri, 6 Nov 2026 | Cabaret Voltaire | Edinburgh |
+| Sat, 28 Nov 2026 | The Prospect Building | Bristol |
 
 ## Recently played
 
@@ -27,6 +28,6 @@ Dr Dubplate is a garage and bass artist based in United Kingdom, with 146 gigs o
 
 ## Shares bills with
 
-Bakey, Yemz, Soul Mass Transit System
+Bakey, Yemz, Fliss Mayo
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drdubplate/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drdubplate/)*

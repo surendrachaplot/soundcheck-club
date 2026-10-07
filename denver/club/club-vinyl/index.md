@@ -1,8 +1,8 @@
 # Club Vinyl
 
-Club Vinyl is a music venue in Denver with 13 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Evan Giia (DJ Set)" on Fri, 9 Oct 2026.
+Club Vinyl is a music venue in Denver with 14 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Evan Giia (DJ Set)" on Fri, 9 Oct 2026.
 
-Club Vinyl is a music venue in Denver listed on soundcheck. 13 upcoming gigs, with line-ups including ALT8, Andre Power, Benwal and Broken Hill and 2 more. See dates, start times and who's playing. 1082 Broadway; Denver, CO 80203; United States.
+Club Vinyl is a music venue in Denver listed on soundcheck. 14 upcoming gigs, with line-ups including ALT8, Andre Power, Benwal and Broken Hill and 2 more. See dates, start times and who's playing. 1082 Broadway; Denver, CO 80203; United States.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Club Vinyl is a music venue in Denver listed on soundcheck. 13 upcoming gigs, wi
 
 1082 Broadway; Denver, CO 80203; United States, Denver
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/club-vinyl/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/club-vinyl/)*

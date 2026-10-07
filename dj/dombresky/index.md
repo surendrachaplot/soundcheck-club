@@ -1,6 +1,6 @@
 # Dombresky
 
-Dombresky is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Dombresky is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Dombresky is a house and tech house artist based in France, with 146 gigs on soundcheck across Arizona, Austin, Bali and Barcelona and 33 more. Often billed alongside Jaded (UK), Tini Gessler and Purple Disco Machine. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Dombresky is a house and tech house artist based in France, with 146 gigs on sou
 
 Jaded (UK), Tini Gessler, Purple Disco Machine
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*

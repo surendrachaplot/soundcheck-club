@@ -1,6 +1,6 @@
 # Indira Paganotto
 
-Indira Paganotto is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at [UNVRS], Ibiza on Thu, 8 Oct 2026.
+Indira Paganotto is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at [UNVRS], Ibiza on Thu, 8 Oct 2026.
 
 Indira Paganotto is a techno and house artist based in Spain, with 202 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Athens and 58 more. Often billed alongside Joseph Capriati, Patrick Mason and Nico Moreno. Next up: [UNVRS], Ibiza on Thu 8 Oct.
 
@@ -36,4 +36,4 @@ Indira Paganotto is a techno and house artist based in Spain, with 202 gigs on s
 
 Joseph Capriati, Patrick Mason, Nico Moreno
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/indirapaganotto/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/indirapaganotto/)*

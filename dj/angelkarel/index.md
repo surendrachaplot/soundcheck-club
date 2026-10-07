@@ -1,6 +1,6 @@
 # Angel Karel
 
-Angel Karel is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at L'entrepôt Club, South-west on Fri, 9 Oct 2026.
+Angel Karel is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at L'entrepôt Club, South-west on Fri, 9 Oct 2026.
 
 Angel Karel is a techno and industrial artist based in France, with 75 gigs on soundcheck across Amsterdam, Berlin, Cologne and Geneva and 15 more. Often billed alongside Vinka Wydro, LiXaa and Aida Arko. Next up: L'entrepôt Club, South West on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Angel Karel is a techno and industrial artist based in France, with 75 gigs on s
 
 Vinka Wydro, LiXaa, Aida Arko
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angelkarel/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angelkarel/)*

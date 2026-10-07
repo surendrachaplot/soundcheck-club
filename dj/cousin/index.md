@@ -1,6 +1,6 @@
 # Cousin
 
-Cousin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Solace, Melbourne on Fri, 9 Oct 2026.
+Cousin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Solace, Melbourne on Fri, 9 Oct 2026.
 
 Cousin is a techno and house artist based in Australia, with 92 gigs on soundcheck across Amsterdam, Athens, Auckland and Berlin and 19 more. Often billed alongside DJ Fart in the Club, D-Grade and Kia (AU). Next up: Solace, Melbourne on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Cousin is a techno and house artist based in Australia, with 92 gigs on soundche
 
 DJ Fart in the Club, D-Grade, Kia (AU)
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cousin/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cousin/)*

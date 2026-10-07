@@ -1,6 +1,6 @@
 # Dodi
 
-Dodi is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
+Dodi is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
 
 Dodi is a techno and deep house artist based in Sweden, with 6 gigs on soundcheck across Amsterdam and Stockholm. Often billed alongside Otto Ferdinand, Rasmus Damkier and Ahed. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Dodi is a techno and deep house artist based in Sweden, with 6 gigs on soundchec
 
 Otto Ferdinand, Rasmus Damkier, Ahed
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dodi-sw/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dodi-sw/)*

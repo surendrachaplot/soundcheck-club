@@ -1,6 +1,6 @@
 # SVRS
 
-SVRS is a Club and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Bolero, Seoul on Fri, 9 Oct 2026.
+SVRS is a Club and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Bolero, Seoul on Fri, 9 Oct 2026.
 
 SVRS is a club and house artist, with 20 gigs on soundcheck across Seoul. Often billed alongside Multivsn, SUJINPAAK and SKiiDA. Next up: Bolero, Seoul on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ SVRS is a club and house artist, with 20 gigs on soundcheck across Seoul. Often 
 
 Multivsn, SUJINPAAK, SKiiDA
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svrs/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svrs/)*

@@ -1,6 +1,6 @@
 # Henning Baer
 
-Henning Baer is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at VENT, Tokyo on Sat, 10 Oct 2026.
+Henning Baer is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at VENT, Tokyo on Sat, 10 Oct 2026.
 
 Henning Baer is a techno and house artist based in Germany, with 79 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside P.E.A.R.L., JKS and Laure Croft. Next up: VENT, Tokyo on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Henning Baer is a techno and house artist based in Germany, with 79 gigs on soun
 
 P.E.A.R.L., JKS, Laure Croft
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henningbaer/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henningbaer/)*

@@ -1,8 +1,8 @@
 # Calla
 
-Calla is a Electro and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Cellar, London on Sun, 11 Oct 2026.
+Calla is a Electro and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Cellar, London on Sun, 11 Oct 2026.
 
-Calla is an electro and tech house artist based in United Kingdom, with 22 gigs on soundcheck across Dublin, London and Manchester. Often billed alongside Wilba, Muster Men and DMC.. Next up: Cellar, London on Sun 11 Oct.
+Calla is an electro and tech house artist based in United Kingdom, with 22 gigs on soundcheck across Dublin, London and Manchester. Often billed alongside Wilba, Muster Men and Guzman. Next up: Cellar, London on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Calla is an electro and tech house artist based in United Kingdom, with 22 gigs 
 
 ## Shares bills with
 
-Wilba, Muster Men, DMC.
+Wilba, Muster Men, Guzman (2)
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calla/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calla/)*

@@ -1,6 +1,6 @@
 # deep glens
 
-deep glens is a Experimental and IDM artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Revealed to ticket holders day of show, Seattle on Mon, 12 Oct 2026.
+deep glens is a Experimental and IDM artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Revealed to ticket holders day of show, Seattle on Mon, 12 Oct 2026.
 
 deep glens is an experimental and idm artist based in United States of America, with 4 gigs on soundcheck across Austin, Chicago, Detroit and Seattle. Often billed alongside Provider.999, Tammy Lakkis and Taqsim. Next up: TBA - Revealed to ticket holders day of show, Seattle on Mon 12 Oct.
 
@@ -20,4 +20,4 @@ deep glens is an experimental and idm artist based in United States of America, 
 
 Provider.999, Tammy Lakkis, Taqsim
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepglens/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepglens/)*

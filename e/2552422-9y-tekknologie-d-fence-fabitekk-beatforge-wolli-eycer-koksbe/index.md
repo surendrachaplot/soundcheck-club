@@ -1,6 +1,6 @@
 # 9Y TEKKNOLOGIE  • D-FENCE • FABITEKK • BEATFORGE • WOLLI • EYCER • KOKSBERG • PHIEISI • SNAKE16 at M-BIA
 
-9Y TEKKNOLOGIE  • D-FENCE • FABITEKK • BEATFORGE • WOLLI • EYCER • KOKSBERG • PHIEISI • SNAKE16 at M-BIA on Fri 6 Nov, Berlin. 5 artists: Tekk, Tekk DJ'z, Tekk Nikk and Tekknik and 1 more. Techno and Hardcore. See the line-up on soundcheck.
+9Y TEKKNOLOGIE  • D-FENCE • FABITEKK • BEATFORGE • WOLLI • EYCER • KOKSBERG • PHIEISI • SNAKE16 at M-BIA on Fri 6 Nov, Berlin. 7 artists: Sei A, Techno Frühstück, Tekk and Tekk DJ'z and 3 more. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@
 
 ## Line-up
 
+- Sei A
+- Techno Frühstück
 - Tekk
 - Tekk DJ'z
 - Tekk Nikk

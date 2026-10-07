@@ -1,6 +1,6 @@
 # Luke Mannion
 
-Luke Mannion is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Last Arch, London on Fri, 30 Oct 2026.
+Luke Mannion is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Last Arch, London on Fri, 30 Oct 2026.
 
 Luke Mannion is a deep house and house artist based in Zimbabwe, with 18 gigs on soundcheck across London. Often billed alongside Jankovich, Jude Lenihan and Ricky Dee. Next up: Last Arch, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Luke Mannion is a deep house and house artist based in Zimbabwe, with 18 gigs on
 
 Jankovich, Jude Lenihan, Ricky Dee
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukemannion/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukemannion/)*

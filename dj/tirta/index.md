@@ -1,6 +1,6 @@
 # TIRTA
 
-TIRTA is a Bass and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Crate Brewery, London on Sat, 10 Oct 2026.
+TIRTA is a Bass and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Crate Brewery, London on Sat, 10 Oct 2026.
 
 TIRTA is a bass and disco artist based in United Kingdom, with 23 gigs on soundcheck across Bristol and London. Often billed alongside Deejay Nye, Vince Lam and Stella Z. Next up: Crate Brewery, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ TIRTA is a bass and disco artist based in United Kingdom, with 23 gigs on soundc
 
 Deejay Nye, Vince Lam, Stella Z
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tirta/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tirta/)*

@@ -1,14 +1,14 @@
 # Al Aslan
 
-Al Aslan is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Agora Rollberg, Berlin on Tue, 13 Oct 2026.
+Al Aslan is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, Berlin on Tue, 13 Oct 2026.
 
-Al Aslan is a techno and trance artist based in Germany, with 74 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Opal, The Camel and Dj Fugitive. Next up: Agora Rollberg, Berlin on Tue 13 Oct.
+Al Aslan is a techno and trance artist based in Germany, with 74 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Opal, The Camel and Dj Fugitive. Next up: TBA, Berlin on Tue 13 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 13 Oct 2026 | Agora Rollberg | Berlin |
+| Tue, 13 Oct 2026 | TBA | Berlin |
 | Sat, 24 Oct 2026 | ://about blank | Berlin |
 
 ## Recently played
@@ -26,4 +26,4 @@ Al Aslan is a techno and trance artist based in Germany, with 74 gigs on soundch
 
 Opal, The Camel, Dj Fugitive
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alaslan/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alaslan/)*

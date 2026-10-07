@@ -1,14 +1,15 @@
 # Carl Craig
 
-Carl Craig is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 16 Oct 2026.
+Carl Craig is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 16 Oct 2026.
 
-Carl Craig is a house and techno artist based in United States of America, with 277 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: Public Works, San Francisco/Oakland on Fri 16 Oct.
+Carl Craig is a house and techno artist based in United States of America, with 278 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: Public Works, San Francisco/Oakland on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Public Works | San Francisco/Oakland |
+| Sat, 17 Oct 2026 | TBA | Los Angeles |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 24 Oct 2026 | Madam | Amsterdam |
@@ -35,4 +36,4 @@ Carl Craig is a house and techno artist based in United States of America, with 
 
 Moodymann, DJ Holographic, Seth Troxler
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*

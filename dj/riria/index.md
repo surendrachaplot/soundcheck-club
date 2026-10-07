@@ -1,8 +1,8 @@
 # RIRIA
 
-RIRIA is a Bass and Techno artist with 10 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The Nest, Nottingham on Sat, 17 Oct 2026.
+RIRIA is a Bass and Techno artist with 12 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Nest, Nottingham on Sat, 17 Oct 2026.
 
-RIRIA is a bass and techno artist based in Japan, with 99 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 36 more. Often billed alongside Diffrent, ryota dj and KETTAMA. Next up: The Nest, Nottingham on Sat 17 Oct.
+RIRIA is a bass and techno artist based in Japan, with 101 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 37 more. Often billed alongside Diffrent, Yung Singh and ryota dj. Next up: The Nest, Nottingham on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -15,8 +15,10 @@ RIRIA is a bass and techno artist based in Japan, with 99 gigs on soundcheck acr
 | Sat, 24 Oct 2026 | PRE-Reserved | Netherlands |
 | Sat, 31 Oct 2026 | Brussels Gate | Brussels |
 | Fri, 6 Nov 2026 | Wigwam | Dublin |
+| Sat, 7 Nov 2026 | Roxy | Prague |
 | Fri, 13 Nov 2026 | Quarters | Brighton |
 | Sat, 14 Nov 2026 | The Loft | Manchester |
+| Sat, 28 Nov 2026 | The Prospect Building | Bristol |
 | Sat, 5 Dec 2026 | Village Underground | London |
 
 ## Recently played
@@ -32,6 +34,6 @@ RIRIA is a bass and techno artist based in Japan, with 99 gigs on soundcheck acr
 
 ## Shares bills with
 
-Diffrent, ryota dj, KETTAMA
+Diffrent, Yung Singh, ryota dj
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riria/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riria/)*

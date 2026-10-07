@@ -1,6 +1,6 @@
 # Enish Glasgow
 
-Enish Glasgow is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "TMAN XPRESS Live In Glasgow" on Fri, 9 Oct 2026.
+Enish Glasgow is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "TMAN XPRESS Live In Glasgow" on Fri, 9 Oct 2026.
 
 Enish Glasgow is a music venue in Glasgow listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 186 Bath St, Glasgow G2 4HG.
 
@@ -14,4 +14,4 @@ Enish Glasgow is a music venue in Glasgow listed on soundcheck. 1 upcoming gig. 
 
 186 Bath St, Glasgow G2 4HG, Glasgow
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/enish-glasgow/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/enish-glasgow/)*

@@ -1,6 +1,6 @@
 # itsadisasta
 
-itsadisasta is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at elipamanoke, Leipzig on Fri, 9 Oct 2026.
+itsadisasta is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at elipamanoke, Leipzig on Fri, 9 Oct 2026.
 
 itsadisasta is a techno and trance artist based in Germany, with 36 gigs on soundcheck across Berlin, Cologne, Leipzig and Riga. Often billed alongside genelle, Justamicrodose and SPLINTER. Next up: elipamanoke, Leipzig on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ itsadisasta is a techno and trance artist based in Germany, with 36 gigs on soun
 
 genelle, Justamicrodose, SPLINTER (2)
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/itsadisasta/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/itsadisasta/)*

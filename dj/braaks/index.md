@@ -1,6 +1,6 @@
 # Braaks
 
-Braaks is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Bricks, London on Fri, 20 Nov 2026.
+Braaks is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Bricks, London on Fri, 20 Nov 2026.
 
 Braaks is a house and deep house artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Alexander Nut, Blush and Dominic Aquila. Next up: Bricks, London on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ Braaks is a house and deep house artist based in United Kingdom, with 6 gigs on 
 
 Alexander Nut, Blush, Dominic Aquila
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/braaks/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/braaks/)*

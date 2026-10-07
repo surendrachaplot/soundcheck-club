@@ -1,13 +1,14 @@
 # Racing Nokia
 
-Racing Nokia is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Point Ephémère, Paris on Sat, 24 Oct 2026.
+Racing Nokia is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Le Chapiteau - Marseille, Marseille on Fri, 9 Oct 2026.
 
-Racing Nokia is a bass and techno artist based in France, with 38 gigs on soundcheck across Berlin, Lisbon, London and Lyon and 5 more. Often billed alongside Dario (DE), VOST and Laze. Next up: Point Ephémère, Paris on Sat 24 Oct.
+Racing Nokia is a bass and techno artist based in France, with 39 gigs on soundcheck across Berlin, Lisbon, London and Lyon and 5 more. Often billed alongside Dario (DE), VOST and Laze. Next up: Le Chapiteau - Marseille, Marseille on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Le Chapiteau - Marseille | Marseille |
 | Sat, 24 Oct 2026 | Point Ephémère | Paris |
 
 ## Recently played
@@ -25,4 +26,4 @@ Racing Nokia is a bass and techno artist based in France, with 38 gigs on soundc
 
 Dario (DE), VOST (3), Laze
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/racingnokia/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/racingnokia/)*

@@ -1,6 +1,6 @@
 # Nine B
 
-Nine B is a Baile Funk and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Club Magno, Madrid on Thu, 8 Oct 2026.
+Nine B is a Baile Funk and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Club Magno, Madrid on Thu, 8 Oct 2026.
 
 Nine B is a baile funk and reggaeton artist, with 6 gigs on soundcheck across Madrid. Often billed alongside Aemilius, Diego Armando and Linapary. Next up: Club Magno, Madrid on Thu 8 Oct.
 
@@ -22,4 +22,4 @@ Nine B is a baile funk and reggaeton artist, with 6 gigs on soundcheck across Ma
 
 Aemilius, Diego Armando, Linapary
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nineb/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nineb/)*

@@ -1,6 +1,6 @@
 # Neonlight
 
-Neonlight is a Drum & Bass and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Void Hall, Berlin on Fri, 9 Oct 2026.
+Neonlight is a Drum & Bass and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Void Hall, Berlin on Fri, 9 Oct 2026.
 
 Neonlight is a drum & bass and psytrance artist based in Germany, with 19 gigs on soundcheck across Berlin, Bristol, Budapest and Cologne and 7 more. Often billed alongside Black Sun Empire, Badlokk and Merikan. Next up: Void Hall, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Neonlight is a drum & bass and psytrance artist based in Germany, with 19 gigs o
 
 Black Sun Empire, Badlokk, Merikan
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neonlight/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neonlight/)*

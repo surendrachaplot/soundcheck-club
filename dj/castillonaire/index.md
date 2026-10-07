@@ -1,6 +1,6 @@
 # Castillonaire
 
-Castillonaire is a Club and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Bolero, Seoul on Thu, 8 Oct 2026.
+Castillonaire is a Club and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Bolero, Seoul on Thu, 8 Oct 2026.
 
 Castillonaire is a club and house artist based in United States of America, with 31 gigs on soundcheck across Detroit, Los Angeles, Melbourne and Mexico City and 4 more. Often billed alongside rogue.wav, WILHELMINA and Choo Choo. Next up: Bolero, Seoul on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Castillonaire is a club and house artist based in United States of America, with
 
 rogue.wav, WILHELMINA, Choo Choo
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/castillonaire/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/castillonaire/)*

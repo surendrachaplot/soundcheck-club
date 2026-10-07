@@ -1,6 +1,6 @@
 # Meldaboi
 
-Meldaboi is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Bike Jesus, Prague on Fri, 23 Oct 2026.
+Meldaboi is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Bike Jesus, Prague on Fri, 23 Oct 2026.
 
 Meldaboi is a house and breakbeat artist based in Czech Republic, with 17 gigs on soundcheck across Prague. Often billed alongside SMB, Silverbo1 and Fatty M. Next up: Bike Jesus, Prague on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Meldaboi is a house and breakbeat artist based in Czech Republic, with 17 gigs o
 
 SMB (1), Silverbo1, Fatty M
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meldaboi/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meldaboi/)*

@@ -1,6 +1,6 @@
 # Sigh Club NYE Edition at Cadavra
 
-Sigh Club NYE Edition at Cadavra on Thu 31 Dec, Madrid. 13 artists: Avo (ES), Borja S, Cecilio and Cesc (ES) and 9 more. Electronica. See the line-up on soundcheck.
+Sigh Club NYE Edition at Cadavra on Thu 31 Dec, Madrid. 14 artists: Avo (ES), Borja S, Cecilio and Cesc (ES) and 10 more. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Sigh Club NYE Edition at Cadavra on Thu 31 Dec, Madrid. 13 artists: Avo (ES), Bo
 - Borja S
 - Cecilio
 - Cesc (ES)
+- DANIL0
 - DMX Krew
 - ESSTI
 - F. Vinuesa

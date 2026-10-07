@@ -1,6 +1,6 @@
 # AVANTIME
 
-AVANTIME is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Bricks, London on Sat, 28 Nov 2026.
+AVANTIME is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Bricks, London on Sat, 28 Nov 2026.
 
 AVANTIME is a progressive house and house artist based in United Kingdom, with 37 gigs on soundcheck across London and Munich. Often billed alongside Gus Emmett, Innerstice and Marksman. Next up: Bricks, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ AVANTIME is a progressive house and house artist based in United Kingdom, with 3
 
 Gus Emmett, Innerstice, Marksman
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avantime/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avantime/)*

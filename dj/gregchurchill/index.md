@@ -1,14 +1,15 @@
 # Greg Churchill
 
-Greg Churchill is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Silent Studios, Auckland on Sat, 10 Oct 2026.
+Greg Churchill is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Silent Studios, Auckland on Sat, 10 Oct 2026.
 
-Greg Churchill is a house and techno artist based in New Zealand, with 33 gigs on soundcheck across Auckland. Often billed alongside Andy Vann, Matt Drake and Ana Teles. Next up: Silent Studios, Auckland on Sat 10 Oct.
+Greg Churchill is a house and techno artist based in New Zealand, with 34 gigs on soundcheck across Auckland. Often billed alongside Andy Vann, Matt Drake and Out Of Sorts. Next up: Silent Studios, Auckland on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Silent Studios | Auckland |
+| Wed, 30 Dec 2026 | Leighton's Farm | Auckland |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Greg Churchill is a house and techno artist based in New Zealand, with 33 gigs o
 
 ## Shares bills with
 
-Andy Vann, Matt Drake, Ana Teles
+Andy Vann, Matt Drake, Out Of Sorts
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gregchurchill/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gregchurchill/)*

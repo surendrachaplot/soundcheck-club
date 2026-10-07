@@ -1,6 +1,6 @@
 # San Nicola
 
-San Nicola is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Rest Favignana, Sicily on Fri, 16 Oct 2026.
+San Nicola is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Rest Favignana, Sicily on Fri, 16 Oct 2026.
 
 San Nicola is a house and techno artist based in Italy, with 26 gigs on soundcheck across Naples, Rome and Sicily. Often billed alongside Kodacci, Joe Rosh and lōrenzo. Next up: Rest Favignana, Sicily on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ San Nicola is a house and techno artist based in Italy, with 26 gigs on soundche
 
 Kodacci, Joe Rosh, lōrenzo
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sannicola/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sannicola/)*

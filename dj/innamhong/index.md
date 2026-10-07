@@ -1,6 +1,6 @@
 # innamhong
 
-innamhong is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Modeci, Seoul on Thu, 8 Oct 2026.
+innamhong is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Modeci, Seoul on Thu, 8 Oct 2026.
 
 innamhong is a breakbeat and house artist, with 6 gigs on soundcheck across Seoul. Often billed alongside AEIDA, WEEUN KIM and BAAWLA. Next up: Modeci, Seoul on Thu 8 Oct.
 
@@ -22,4 +22,4 @@ innamhong is a breakbeat and house artist, with 6 gigs on soundcheck across Seou
 
 AEIDA, WEEUN KIM, BAAWLA
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innamhong/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innamhong/)*

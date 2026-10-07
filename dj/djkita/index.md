@@ -1,13 +1,14 @@
 # DJ Kita
 
-DJ Kita is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA, Los-angeles on Sat, 31 Oct 2026.
+DJ Kita is a Hip-Hop and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - DTLA, Los Angeles on Thu, 8 Oct 2026.
 
-DJ Kita is a hip-hop and club artist based in United States of America, with 46 gigs on soundcheck across Los Angeles, New York City and Tokyo. Often billed alongside BAE BAE, Alxander Ivey and DeFacto X. Next up: TBA, Los Angeles on Sat 31 Oct.
+DJ Kita is a hip-hop and club artist based in United States of America, with 47 gigs on soundcheck across Los Angeles, New York City and Tokyo. Often billed alongside BAE BAE, Alxander Ivey and DeFacto X. Next up: TBA - DTLA, Los Angeles on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 8 Oct 2026 | TBA - DTLA | Los Angeles |
 | Sat, 31 Oct 2026 | TBA | Los-angeles |
 
 ## Recently played
@@ -25,4 +26,4 @@ DJ Kita is a hip-hop and club artist based in United States of America, with 46 
 
 BAE BAE, Alxander Ivey, DeFacto X
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkita/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkita/)*

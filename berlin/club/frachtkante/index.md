@@ -1,6 +1,6 @@
 # frachtkante
 
-frachtkante is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "khisdapaze Open Air: Summer Closing" on Sat, 17 Oct 2026.
+frachtkante is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "khisdapaze Open Air: Summer Closing" on Sat, 17 Oct 2026.
 
 frachtkante is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Urban Tech Republic, 13405 Berlin, Germany.
 
@@ -14,4 +14,4 @@ frachtkante is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See
 
 Urban Tech Republic, 13405 Berlin, Germany, Berlin
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/frachtkante/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/frachtkante/)*

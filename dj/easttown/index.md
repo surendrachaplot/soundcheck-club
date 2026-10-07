@@ -1,6 +1,6 @@
 # Easttown
 
-Easttown is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Easttown is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
 Easttown is a house and tech house artist based in Netherlands, with 105 gigs on soundcheck across Amsterdam, Barcelona, Basel and Ibiza and 12 more. Often billed alongside Rooléh, Joëlla Jackson and AAT (NL). Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
@@ -31,4 +31,4 @@ Easttown is a house and tech house artist based in Netherlands, with 105 gigs on
 
 Rooléh, Joëlla Jackson, AAT (NL)
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*

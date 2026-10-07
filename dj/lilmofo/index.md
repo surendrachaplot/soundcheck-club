@@ -1,13 +1,14 @@
 # Lil Mofo
 
-Lil Mofo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Open, Tokyo on Fri, 30 Oct 2026.
+Lil Mofo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at 桃園玉山街影視基地, Taipei on Sat, 24 Oct 2026.
 
-Lil Mofo is a house and techno artist based in Japan, with 100 gigs on soundcheck across Amsterdam, Berlin, Bristol and Glasgow and 10 more. Often billed alongside OG Militant B, HIBI BLISS and BEENIE PIMP. Next up: Open, Tokyo on Fri 30 Oct.
+Lil Mofo is a house and techno artist based in Japan, with 101 gigs on soundcheck across Amsterdam, Berlin, Bristol and Glasgow and 11 more. Often billed alongside OG Militant B, HIBI BLISS and BEENIE PIMP. Next up: 桃園玉山街影視基地, Taipei on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | 桃園玉山街影視基地 | Taipei |
 | Fri, 30 Oct 2026 | Open | Tokyo |
 | Mon, 2 Nov 2026 | Grassroots | Tokyo |
 
@@ -26,4 +27,4 @@ Lil Mofo is a house and techno artist based in Japan, with 100 gigs on soundchec
 
 OG Militant B, HIBI BLISS, BEENIE PIMP
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilmofo/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilmofo/)*

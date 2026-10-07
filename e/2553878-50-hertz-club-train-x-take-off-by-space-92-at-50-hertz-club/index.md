@@ -1,6 +1,6 @@
 # 50:Hertz Club Train X TAKE OFF By Space 92 at 50:Hertz Club Train
 
-50:Hertz Club Train X TAKE OFF By Space 92 on Thu 22 Oct, Amsterdam. 12 artists: Amber Broos, Bassjackers, Charlie Sparks and Connect and 8 more. See the line-up on soundcheck.
+50:Hertz Club Train X TAKE OFF By Space 92 on Thu 22 Oct, Amsterdam. 12 artists: Amber Broos, Bassjackers, Charlie Sparks and Connect and 8 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

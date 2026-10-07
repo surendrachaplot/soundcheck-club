@@ -1,6 +1,6 @@
 # Myd
 
-Myd is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at DRUMSHEDS, London on Sat, 10 Oct 2026.
+Myd is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
 Myd is a house and electro artist based in France, with 111 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 28 more. Often billed alongside Busy P, Breakbot and Cassius. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Myd is a house and electro artist based in France, with 111 gigs on soundcheck a
 
 Busy P, Breakbot, Cassius
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myd/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myd/)*

@@ -1,6 +1,6 @@
 # FOREVER 25 curated by Mila Stern & Esther Silex at Kater
 
-FOREVER 25 curated by Mila Stern & Esther Silex at Kater on Fri 30 Oct, Berlin. 24 artists: Arkadiusz Dmytrow, Ata, Barbara Preisinger and BODYSHIFT and 20 more. House and Tech House. See the line-up on soundcheck.
+FOREVER 25 curated by Mila Stern & Esther Silex at Kater on Fri 30 Oct, Berlin. 26 artists: Arkadiusz Dmytrow, Ata, Barbara Preisinger and BODYSHIFT and 22 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -24,12 +24,14 @@ FOREVER 25 curated by Mila Stern & Esther Silex at Kater on Fri 30 Oct, Berlin. 
 - Habikat
 - Josiane
 - karete bu
+- KC Wray
 - Kenny Larkin
-- Lars Eidinger
 - Maria Theresia von Eberg
 - Marta Aurelia
 - Mila Stern
+- Peter Invasion
 - Power Squad
+- Sexy Lazer
 - Stella Zekri
 - UFO Space
 - Vitaly

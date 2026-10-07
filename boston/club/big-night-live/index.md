@@ -1,13 +1,14 @@
 # Big Night Live
 
-Big Night Live is a music venue in Boston with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "San Holo: True Love in a Made Up World" on Fri, 9 Oct 2026.
+Big Night Live is a music venue in Boston with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Happy Daze" on Wed, 7 Oct 2026.
 
-Big Night Live is a music venue in Boston listed on soundcheck. 5 upcoming gigs, with line-ups including Matroda, Mochakk, Pauly D and San Holo. See dates, start times and who's playing. 110 Causeway St, Boston, MA 02114, USA.
+Big Night Live is a music venue in Boston listed on soundcheck. 6 upcoming gigs, with line-ups including Matroda, Mochakk, Pauly D and San Holo. See dates, start times and who's playing. 110 Causeway St, Boston, MA 02114, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Wed, 7 Oct 2026 | Happy Daze |  |
 | Fri, 9 Oct 2026 | San Holo: True Love in a Made Up World | San Holo |
 | Sat, 10 Oct 2026 | Matroda | Matroda |
 | Thu, 29 Oct 2026 | Mochakk | Mochakk |
@@ -18,4 +19,4 @@ Big Night Live is a music venue in Boston listed on soundcheck. 5 upcoming gigs,
 
 110 Causeway St, Boston, MA 02114, USA, Boston
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/big-night-live/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/big-night-live/)*

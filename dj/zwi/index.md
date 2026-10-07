@@ -1,14 +1,15 @@
 # Zwi
 
-Zwi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Factory 47, Hanoi on Fri, 9 Oct 2026.
+Zwi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Factory 47, Hanoi on Fri, 9 Oct 2026.
 
-Zwi is a house and techno artist based in Russia, with 17 gigs on soundcheck across Bali, Bangkok, Hanoi and Hong Kong and 3 more. Often billed alongside Ouissam, CONG and Di Linh. Next up: Factory 47, Hanoi on Fri 9 Oct.
+Zwi is a house and techno artist based in Russia, with 18 gigs on soundcheck across Bali, Bangkok, Hanoi and Hong Kong and 3 more. Often billed alongside Ouissam, CONG and Di Linh. Next up: Factory 47, Hanoi on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Factory 47 | Hanoi |
+| Sat, 10 Oct 2026 | Le Maquis Club | Hanoi |
 | Fri, 16 Oct 2026 | Unmute | Hanoi |
 
 ## Recently played
@@ -26,4 +27,4 @@ Zwi is a house and techno artist based in Russia, with 17 gigs on soundcheck acr
 
 Ouissam, CONG, Di Linh
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zwi/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zwi/)*

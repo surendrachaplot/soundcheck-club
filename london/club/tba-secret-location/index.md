@@ -1,14 +1,13 @@
-# TBA - Secret Location
+# TBA - Secret Location 
 
-TBA - Secret Location is a music venue in London with 56 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "REI MARA, Dj PeXu, DjFferent, DJ El Tel, Shane DB - RadioLDN - (CANCEL)" on Mon, 5 Oct 2026.
+TBA - Secret Location  is a music venue in London with 59 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "KODE - KAIXA ESQUERDA - RJ" on Fri, 9 Oct 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 56 upcoming gigs, with line-ups including .cosm, The AM/AMX, Aleakim and Alena Vox and 2 more. See dates, start times and who's playing.
+TBA - Secret Location  is a music venue in London listed on soundcheck. 59 upcoming gigs, with line-ups including .cosm, The AM/AMX, Aleakim and Alena Vox and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 5 Oct 2026 | REI MARA, Dj PeXu, DjFferent, DJ El Tel, Shane DB - RadioLDN - (CANCEL) | Dj PeXu, Shane DB |
 | Fri, 9 Oct 2026 | KODE - KAIXA ESQUERDA - RJ | Aleakim, Alírio, Ananda (BR), Bitter Babe |
 | Fri, 9 Oct 2026 | ZERO RANGE - Chapter 1: Fissure | Young Gaina, sakali |
 | Fri, 9 Oct 2026 | HAREBRAINED: DEFCON ULTIMATE // Breakcore, Hardstyle, and Hyperpop Hits 4 Lovers & Frenemies | Baseck, Kuuma, OMO (US), Seanni B, fi3nd, joycxi, madeofants |
@@ -18,5 +17,6 @@ TBA - Secret Location is a music venue in London listed on soundcheck. 56 upcomi
 | Sat, 10 Oct 2026 | Parallel presents IndeniaL b2b mkbest | IndeniaL, mkbest |
 | Sat, 10 Oct 2026 | Himmel unter Berlin Vol. III | Andreas Lutz, Kon (FR), Martin Messier, media.tribe |
 | Sat, 10 Oct 2026 | The Last Beach Rave (2 Stages) |  |
+| Sun, 11 Oct 2026 | Himmel unter Berlin Vol. III | Andreas Lutz, Kon (FR), Martin Messier, media.tribe |
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

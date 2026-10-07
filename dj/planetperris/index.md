@@ -1,13 +1,14 @@
 # planetperris
 
-planetperris is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Banya Brooklyn, New York City on Sun, 11 Oct 2026.
+planetperris is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Animal, New York City on Fri, 9 Oct 2026.
 
-planetperris is a house and techno artist based in United States of America, with 46 gigs on soundcheck across New York City. Often billed alongside Perris, BEARCAT and Sam Clarke. Next up: Banya Brooklyn, New York City on Sun 11 Oct.
+planetperris is a house and techno artist based in United States of America, with 47 gigs on soundcheck across New York City. Often billed alongside Perris, BEARCAT and Sam Clarke. Next up: Animal, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Animal | New York City |
 | Sun, 11 Oct 2026 | Banya Brooklyn | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ planetperris is a house and techno artist based in United States of America, wit
 
 Perris, BEARCAT, Sam Clarke
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/planetperris/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/planetperris/)*

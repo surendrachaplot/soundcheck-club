@@ -1,6 +1,6 @@
 # Joshua Tree
 
-Joshua Tree is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Northern Lights Lounge, Detroit on Thu, 8 Oct 2026.
+Joshua Tree is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Northern Lights Lounge, Detroit on Thu, 8 Oct 2026.
 
 Joshua Tree is a house and techno artist based in United States of America, with 41 gigs on soundcheck across Berlin, Detroit and Washington DC. Often billed alongside Augustus Williams, DJ Katalist and Drivetrain. Next up: Northern Lights Lounge, Detroit on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Joshua Tree is a house and techno artist based in United States of America, with
 
 Augustus Williams, DJ Katalist, Drivetrain
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuatree/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuatree/)*

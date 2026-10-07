@@ -1,6 +1,6 @@
 # joa picaro
 
-joa picaro is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Hotel Cecil, Copenhagen on Fri, 16 Oct 2026.
+joa picaro is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Hotel Cecil, Copenhagen on Fri, 16 Oct 2026.
 
 joa picaro is a house and club artist based in Denmark, with 9 gigs on soundcheck across Copenhagen. Often billed alongside Anders HP, CERJ and Business Risky. Next up: Hotel Cecil, Copenhagen on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ joa picaro is a house and club artist based in Denmark, with 9 gigs on soundchec
 
 Anders HP, CERJ, Business Risky
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joapicaro/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joapicaro/)*

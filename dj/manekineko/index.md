@@ -1,6 +1,6 @@
 # Maneki Neko
 
-Maneki Neko is a New Wave and EBM artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Tendance, Prague on Wed, 7 Oct 2026.
+Maneki Neko is a New Wave and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Tendance, Prague on Wed, 7 Oct 2026.
 
 Maneki Neko is a new wave and ebm artist based in Czech Republic, with 16 gigs on soundcheck across Berlin and Prague. Often billed alongside 3ever, DDK and Demonika. Next up: Tendance, Prague on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ Maneki Neko is a new wave and ebm artist based in Czech Republic, with 16 gigs o
 
 3ever, DDK (1), Demonika
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manekineko/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manekineko/)*

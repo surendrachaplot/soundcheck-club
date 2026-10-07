@@ -1,14 +1,15 @@
 # Gina Breeze
 
-Gina Breeze is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
+Gina Breeze is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
 
-Gina Breeze is a house and disco artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Edinburgh and 6 more. Often billed alongside Jamie Bull, Horse Meat Disco and CC:DISCO!. Next up: Depot Mayfield, Manchester on Sat 7 Nov.
+Gina Breeze is a house and disco artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Edinburgh and 6 more. Often billed alongside Jamie Bull, Horse Meat Disco and Krysko. Next up: Depot Mayfield, Manchester on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Gina Breeze is a house and disco artist based in United Kingdom, with 58 gigs on
 
 ## Shares bills with
 
-Jamie Bull, Horse Meat Disco, CC:DISCO!
+Jamie Bull, Horse Meat Disco, Krysko
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ginabreeze-uk/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ginabreeze-uk/)*

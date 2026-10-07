@@ -1,6 +1,6 @@
 # Jenn Chunes
 
-Jenn Chunes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Pisco Bar, Kuala Lumpur on Sat, 24 Oct 2026.
+Jenn Chunes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Pisco Bar, Kuala Lumpur on Sat, 24 Oct 2026.
 
 Jenn Chunes is a house and techno artist based in Malaysia, with 15 gigs on soundcheck across Kuala Lumpur, Melbourne and Singapore. Often billed alongside Bongomann, Dexter Colt and Babycino. Next up: Pisco Bar, Kuala Lumpur on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Jenn Chunes is a house and techno artist based in Malaysia, with 15 gigs on soun
 
 Bongomann, Dexter Colt, Babycino
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jennchunes/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jennchunes/)*

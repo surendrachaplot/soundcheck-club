@@ -1,6 +1,6 @@
 # Lion Super Club
 
-Lion Super Club is a music venue in Seoul with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "LIONESS Bass Edition: LOW END" on Thu, 8 Oct 2026.
+Lion Super Club is a music venue in Seoul with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "LIONESS Bass Edition: LOW END" on Thu, 8 Oct 2026.
 
 Lion Super Club is a music venue in Seoul listed on soundcheck. 5 upcoming gigs, with line-ups including CamelPhat and Morten. See dates, start times and who's playing. 1F, 535 Dosan-daero, Gangnam-gu, Seoul 06011, South Korea.
 
@@ -18,4 +18,4 @@ Lion Super Club is a music venue in Seoul listed on soundcheck. 5 upcoming gigs,
 
 1F, 535 Dosan-daero, Gangnam-gu, Seoul 06011, South Korea, Seoul
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/lion-super-club/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/lion-super-club/)*

@@ -1,6 +1,6 @@
 # Tadhg K
 
-Tadhg K is a Electro and Club artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The Big Romance, Dublin on Fri, 9 Oct 2026.
+Tadhg K is a Electro and Club artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Big Romance, Dublin on Fri, 9 Oct 2026.
 
 Tadhg K is an electro and club artist based in Ireland, with 45 gigs on soundcheck across Berlin, Dublin, Edinburgh and Glasgow and 1 more. Often billed alongside Bull Horris, Alba and E The Artist. Next up: The Big Romance, Dublin on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Tadhg K is an electro and club artist based in Ireland, with 45 gigs on soundche
 
 Bull Horris, Alba (2), E The Artist
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tadhgk/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tadhgk/)*

@@ -1,14 +1,15 @@
 # Baby Bimbo
 
-Baby Bimbo is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Le Red Room, Montreal on Fri, 16 Oct 2026.
+Baby Bimbo is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Le Red Room, Montreal on Fri, 16 Oct 2026.
 
-Baby Bimbo is a hardcore and techno artist based in Canada, with 28 gigs on soundcheck across Montreal and Toronto. Often billed alongside the bald girl, DJ Pacifier and Outback. Next up: Le Red Room, Montreal on Fri 16 Oct.
+Baby Bimbo is a hardcore and gabber artist based in Canada, with 29 gigs on soundcheck across Montreal and Toronto. Often billed alongside the bald girl, Outback and DJ Pacifier. Next up: Le Red Room, Montreal on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Le Red Room | Montreal |
+| Sat, 31 Oct 2026 | ESC | Montreal |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Baby Bimbo is a hardcore and techno artist based in Canada, with 28 gigs on soun
 
 ## Shares bills with
 
-the bald girl, DJ Pacifier, Outback
+the bald girl, Outback, DJ Pacifier
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babybimbo/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babybimbo/)*

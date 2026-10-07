@@ -1,13 +1,14 @@
 # Bill Sanders
 
-Bill Sanders is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at AMT, Berlin on Fri, 13 Nov 2026.
+Bill Sanders is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Animal, New York City on Sun, 11 Oct 2026.
 
-Bill Sanders is a house and techno artist based in Greece, with 39 gigs on soundcheck across Athens, Berlin and New York City. Often billed alongside ClubKid, The Dreamer and .Fro.. Next up: AMT, Berlin on Fri 13 Nov.
+Bill Sanders is a house and techno artist based in Greece, with 40 gigs on soundcheck across Athens, Berlin and New York City. Often billed alongside ClubKid, The Dreamer and .Fro.. Next up: Animal, New York City on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 11 Oct 2026 | Animal | New York City |
 | Fri, 13 Nov 2026 | AMT | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Bill Sanders is a house and techno artist based in Greece, with 39 gigs on sound
 
 ClubKid, The Dreamer, .Fro.
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billsanders/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billsanders/)*

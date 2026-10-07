@@ -1,6 +1,6 @@
 # TBA - 1215 Bloor St. West
 
-TBA - 1215 Bloor St. West is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "House of Bottoms presents: Scorpio Seduction" on Fri, 20 Nov 2026.
+TBA - 1215 Bloor St. West is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "House of Bottoms presents: SCORPIO SEDUCTION" on Fri, 20 Nov 2026.
 
 TBA - 1215 Bloor St. West is a music venue in Toronto listed on soundcheck. 1 upcoming gig, with line-ups including Miss Bible, ngoma, OGQT and VUHNNY. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ TBA - 1215 Bloor St. West is a music venue in Toronto listed on soundcheck. 1 up
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | House of Bottoms presents: Scorpio Seduction | Miss Bible, OGQT, VUHNNY, ngoma |
+| Fri, 20 Nov 2026 | House of Bottoms presents: SCORPIO SEDUCTION | Miss Bible, OGQT, VUHNNY, ngoma |
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-1215-bloor-st-west/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-1215-bloor-st-west/)*

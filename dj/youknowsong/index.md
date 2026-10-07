@@ -1,6 +1,6 @@
 # Youknowsong
 
-Youknowsong is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Opera, Seoul on Fri, 9 Oct 2026.
+Youknowsong is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at The Opera, Seoul on Fri, 9 Oct 2026.
 
 Youknowsong is a house and techno artist based in South Korea, with 107 gigs on soundcheck across Bangkok, Hong Kong, Osaka and Seoul and 2 more. Often billed alongside Cozyhoon, Shinyoung and JAEHAN. Next up: The Opera, Seoul on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Youknowsong is a house and techno artist based in South Korea, with 107 gigs on 
 
 Cozyhoon, Shinyoung, JAEHAN (2)
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youknowsong/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youknowsong/)*

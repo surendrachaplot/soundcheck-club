@@ -1,6 +1,6 @@
 # Coco & Breezy
 
-Coco & Breezy is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The Great Pyramids OF Giza, Egypt on Fri, 9 Oct 2026.
+Coco & Breezy is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Great Pyramids OF Giza, Egypt on Fri, 9 Oct 2026.
 
 Coco & Breezy are a house and techno duo based in United States of America, with 87 gigs on soundcheck across Austin, Boston, Chicago and Copenhagen and 22 more. Often billed alongside Aluna, Breezy and Eric Prydz. Next up: The Great Pyramids OF Giza, Egypt on Fri 9 Oct.
 
@@ -9,7 +9,7 @@ Coco & Breezy are a house and techno duo based in United States of America, with
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | The Great Pyramids OF Giza | Egypt |
-| Fri, 23 Oct 2026 | BAR15 | Stockholm |
+| Fri, 23 Oct 2026 | TBA | Stockholm |
 | Fri, 13 Nov 2026 | Woldenberg Riverfront Park | New-orleans |
 
 ## Recently played
@@ -27,4 +27,4 @@ Coco & Breezy are a house and techno duo based in United States of America, with
 
 Aluna, Breezy, Eric Prydz
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cocobreezy/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cocobreezy/)*

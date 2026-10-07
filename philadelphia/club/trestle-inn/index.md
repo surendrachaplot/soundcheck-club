@@ -1,6 +1,6 @@
 # Trestle Inn
 
-Trestle Inn is a music venue in Philadelphia with 16 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "SATURNIA" on Sat, 3 Oct 2026.
+Trestle Inn is a music venue in Philadelphia with 16 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "SATURNIA" on Sat, 3 Oct 2026.
 
 Trestle Inn is a music venue in Philadelphia listed on soundcheck. 16 upcoming gigs, with line-ups including DJ Dommis and Particle Ray. See dates, start times and who's playing. 339 N. 11th St; Philadelphia; PA 19107.
 
@@ -23,4 +23,4 @@ Trestle Inn is a music venue in Philadelphia listed on soundcheck. 16 upcoming g
 
 339 N. 11th St; Philadelphia; PA 19107, Philadelphia
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/trestle-inn/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/trestle-inn/)*

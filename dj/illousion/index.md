@@ -1,6 +1,6 @@
 # illousion
 
-illousion is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Jonny Knüppel, Berlin on Fri, 9 Oct 2026.
+illousion is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Jonny Knüppel, Berlin on Fri, 9 Oct 2026.
 
 illousion is a techno and house artist, with 25 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Carlotta Jacobi, Big Honey and Kikimike. Next up: Jonny Knüppel, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ illousion is a techno and house artist, with 25 gigs on soundcheck across Berlin
 
 Carlotta Jacobi, Big Honey, Kikimike
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/illousion/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/illousion/)*

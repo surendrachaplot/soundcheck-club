@@ -1,6 +1,6 @@
 # Premises presents: Terrence Dixon at TBA
 
-Premises presents: Terrence Dixon at TBA on Sat 31 Oct, Chicago. 4 artists: COBRA B, program17, Sound Psychologist and Terrence Dixon. Techno and Minimal. See the line-up on soundcheck.
+Premises presents: Terrence Dixon at TBA on Sat 31 Oct, Chicago. 5 artists: COBRA B, program17, Sound Psychologist and Terrence Dixon and 1 more. Techno and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ Premises presents: Terrence Dixon at TBA on Sat 31 Oct, Chicago. 4 artists: COBR
 - program17
 - Sound Psychologist
 - Terrence Dixon
+- Yanna Lynette
 
 *Source: [soundcheck](https://soundcheck.club/e/2550466-premises-presents-terrence-dixon-at-tba/)*

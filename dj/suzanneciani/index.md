@@ -1,6 +1,6 @@
 # Suzanne Ciani
 
-Suzanne Ciani is a Experimental and Electronica artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Lietuvos Nacionalinis Kultūros Centras, Lithuania on Wed, 7 Oct 2026.
+Suzanne Ciani is a Experimental and Electronica artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Lietuvos Nacionalinis Kultūros Centras, Lithuania on Wed, 7 Oct 2026.
 
 Suzanne Ciani is an experimental and electronica artist based in United States of America, with 31 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Actress, Eiko Ishibashi and Blawan. Next up: Lietuvos Nacionalinis Kultūros Centras, Lithuania on Wed 7 Oct.
 
@@ -29,4 +29,4 @@ Suzanne Ciani is an experimental and electronica artist based in United States o
 
 Actress, Eiko Ishibashi, Blawan
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suzanneciani/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suzanneciani/)*

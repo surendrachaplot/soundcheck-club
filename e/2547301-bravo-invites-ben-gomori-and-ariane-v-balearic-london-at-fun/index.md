@@ -1,6 +1,6 @@
 # Bravo invites Ben Gomori and Ariane V (Balearic London) at Funkhaus
 
-Bravo invites Ben Gomori and Ariane V (Balearic London) at Funkhaus on Sat 17 Oct, Vienna. 4 artists: Ariane V, Ben Gomori, Felix Wolfs and Scheibosan. Disco and Balearic. See the line-up on soundcheck.
+Bravo invites Ben Gomori and Ariane V (Balearic London) at Funkhaus on Sat 17 Oct, Vienna. 3 artists: Ariane V, Ben Gomori and Scheibosan. Disco and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ Bravo invites Ben Gomori and Ariane V (Balearic London) at Funkhaus on Sat 17 Oc
 
 - Ariane V
 - Ben Gomori
-- Felix Wolfs
 - Scheibosan
 
 *Source: [soundcheck](https://soundcheck.club/e/2547301-bravo-invites-ben-gomori-and-ariane-v-balearic-london-at-fun/)*

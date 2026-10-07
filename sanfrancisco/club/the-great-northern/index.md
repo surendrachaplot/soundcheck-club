@@ -1,6 +1,6 @@
 # The Great Northern
 
-The Great Northern is a music venue in San Francisco/Oakland with 15 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Woo York (Live) - San Francisco" on Fri, 9 Oct 2026.
+The Great Northern is a music venue in San Francisco/Oakland with 15 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Woo York (Live) - San Francisco" on Fri, 9 Oct 2026.
 
 The Great Northern is a music venue in San Francisco/Oakland listed on soundcheck. 15 upcoming gigs, with line-ups including arktoi, Avalon Emerson, BEYA and Camillionaire and 2 more. See dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
 
@@ -12,7 +12,7 @@ The Great Northern is a music venue in San Francisco/Oakland listed on soundchec
 | Fri, 9 Oct 2026 | SET with Woo York [Live] | Emanate, Sezer Uysal, Woo York |
 | Sat, 10 Oct 2026 | ELECTRIC FIELDS - FREE PARTY - GOLDEN GATE PARK BANDSHELL | Carrieondisco, DJ M3, J Key, LEDET, discoesq |
 | Fri, 16 Oct 2026 | Dragons, Dykes & DJs | Lil Bebe Cyborg, arktoi |
-| Sat, 17 Oct 2026 | Lee Foss - The Great Northern | Lee Foss |
+| Sat, 17 Oct 2026 | SET UNDERGROUND | Lee Foss |
 | Sat, 17 Oct 2026 | SET with Lee Foss | Lee Foss |
 | Wed, 21 Oct 2026 | Nahko and Medicine for the People 'HOKA' 10th Anniversary Tour |  |
 | Fri, 23 Oct 2026 | ZOMBIE PROM - The Widdler & More! Halloween Costume Ball | Camillionaire, MiMOSA, NAYAN |
@@ -23,4 +23,4 @@ The Great Northern is a music venue in San Francisco/Oakland listed on soundchec
 
 119 Utah St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*

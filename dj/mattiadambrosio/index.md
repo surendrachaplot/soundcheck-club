@@ -1,6 +1,6 @@
 # Mattia Dambrosio
 
-Mattia Dambrosio is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 9 Oct 2026.
+Mattia Dambrosio is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 9 Oct 2026.
 
 Mattia Dambrosio is a techno and downtempo artist based in Italy, with 26 gigs on soundcheck across Milan. Often billed alongside Outburst Knobs, Münch and Viels. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Mattia Dambrosio is a techno and downtempo artist based in Italy, with 26 gigs o
 
 Outburst Knobs, Münch, Viels
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiadambrosio/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiadambrosio/)*

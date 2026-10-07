@@ -1,14 +1,15 @@
 # Aletha
 
-Aletha is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
+Aletha is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
 
-Aletha is a house and techno artist based in United Kingdom, with 74 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Brighton and 14 more. Often billed alongside Zuri, Joe Motion and DJ BORING. Next up: Depot Mayfield, Manchester on Sat 21 Nov.
+Aletha is a house and techno artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Brighton and 14 more. Often billed alongside Zuri, Eich and Ewan McVicar. Next up: Depot Mayfield, Manchester on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Aletha is a house and techno artist based in United Kingdom, with 74 gigs on sou
 
 ## Shares bills with
 
-Zuri, Joe Motion, DJ BORING
+Zuri, Eich, Ewan McVicar
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aletha/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aletha/)*

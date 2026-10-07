@@ -1,6 +1,6 @@
 # Autumn Three
 
-Autumn Three is a music venue in London with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "LOAM 002" on Thu, 8 Oct 2026.
+Autumn Three is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "LOAM 002" on Thu, 8 Oct 2026.
 
 Autumn Three is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Field Case, luvandula, Nanzhen Yang and TSUNIMAN. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Autumn Three is a music venue in London listed on soundcheck. 1 upcoming gig, wi
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | LOAM 002 | Field Case, Nanzhen Yang, TSUNIMAN, luvandula |
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/autumn-three/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/autumn-three/)*

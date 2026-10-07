@@ -1,6 +1,6 @@
 # MUSE(O)FIRE
 
-MUSE(O)FIRE is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at The Compound, Baltimore on Fri, 16 Oct 2026.
+MUSE(O)FIRE is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at The Compound, Baltimore on Fri, 16 Oct 2026.
 
 MUSE(O)FIRE is a house and electro artist based in United States of America, with 8 gigs on soundcheck across Baltimore, New York City and Washington DC. Often billed alongside EL SUCIO, Girlypop Princess and BIIANCO. Next up: The Compound, Baltimore on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ MUSE(O)FIRE is a house and electro artist based in United States of America, wit
 
 EL SUCIO, Girlypop Princess, BIIANCO
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/museofire/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/museofire/)*

@@ -1,6 +1,6 @@
 # DJ Dommis
 
-DJ Dommis is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Trestle Inn, Philadelphia on Sat, 3 Oct 2026.
+DJ Dommis is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Trestle Inn, Philadelphia on Sat, 3 Oct 2026.
 
 DJ Dommis is a house and disco artist based in United States of America, with 41 gigs on soundcheck across New York City and Philadelphia. Often billed alongside DJ Delish, Rob Paine and DJ lil'dave. Next up: Trestle Inn, Philadelphia on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DJ Dommis is a house and disco artist based in United States of America, with 41
 
 DJ Delish, Rob Paine, DJ lil'dave
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdommis/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdommis/)*

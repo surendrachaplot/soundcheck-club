@@ -1,6 +1,6 @@
 # Benny Ill
 
-Benny Ill is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Gaffe, London on Sat, 10 Oct 2026.
+Benny Ill is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Gaffe, London on Sat, 10 Oct 2026.
 
 Benny Ill is a dubstep and bass artist based in United Kingdom, with 17 gigs on soundcheck across Athens, Leeds, London and Stockholm. Often billed alongside Horsepower Productions, Benton (UK) and Breakfake. Next up: Gaffe, London on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Benny Ill is a dubstep and bass artist based in United Kingdom, with 17 gigs on 
 
 Horsepower Productions, Benton (UK), Breakfake
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyill/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyill/)*

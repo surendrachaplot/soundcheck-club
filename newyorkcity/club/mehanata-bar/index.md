@@ -1,6 +1,6 @@
 # Mehanata Bar
 
-Mehanata Bar is a music venue in New York City with 37 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "CLUBSESSION VOL. 13: UNDEADLY" on Thu, 8 Oct 2026.
+Mehanata Bar is a music venue in New York City with 37 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "CLUBSESSION VOL. 13: UNDEADLY" on Thu, 8 Oct 2026.
 
 Mehanata Bar is a music venue in New York City listed on soundcheck. 37 upcoming gigs, with line-ups including DJ Sauci Soni and MAXWELL HöUSE. See dates, start times and who's playing. 113, Ludlow street.
 
@@ -23,4 +23,4 @@ Mehanata Bar is a music venue in New York City listed on soundcheck. 37 upcoming
 
 113, Ludlow street, New York City
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mehanata-bar/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mehanata-bar/)*

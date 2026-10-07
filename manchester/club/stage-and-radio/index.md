@@ -1,8 +1,8 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 26 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "NOXVAULT TECHNO @Stage&Radio 07.10.26" on Wed, 7 Oct 2026.
+Stage and Radio is a music venue in Manchester with 31 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "NOXVAULT TECHNO @Stage&Radio 07.10.26" on Wed, 7 Oct 2026.
 
-Stage and Radio is a music venue in Manchester listed on soundcheck. 26 upcoming gigs, with line-ups including adamine, AJC (UK), AJ Jonesy and Alex Milo and 2 more. See dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
+Stage and Radio is a music venue in Manchester listed on soundcheck. 31 upcoming gigs, with line-ups including 4D (UK), adamine, AJC (UK) and AJ Jonesy and 2 more. See dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 26 upcoming
 
 43 Port St, Manchester M1 2EQ, Manchester
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*

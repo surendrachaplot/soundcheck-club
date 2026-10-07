@@ -1,14 +1,15 @@
 # Mowie (2)
 
-Mowie (2) is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Le Red Room, Montreal on Fri, 16 Oct 2026.
+Mowie (2) is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Le Red Room, Montreal on Fri, 16 Oct 2026.
 
-Mowie is a hardcore and gabber artist based in Canada, with 18 gigs on soundcheck across Montreal and Toronto. Often billed alongside the bald girl, Baby Bimbo and Outback. Next up: Le Red Room, Montreal on Fri 16 Oct.
+Mowie is a hardcore and gabber artist based in Canada, with 19 gigs on soundcheck across Montreal and Toronto. Often billed alongside the bald girl, Baby Bimbo and Outback. Next up: Le Red Room, Montreal on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Le Red Room | Montreal |
+| Sat, 31 Oct 2026 | ESC | Montreal |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Mowie is a hardcore and gabber artist based in Canada, with 18 gigs on soundchec
 
 the bald girl, Baby Bimbo, Outback
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mowie-2/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mowie-2/)*

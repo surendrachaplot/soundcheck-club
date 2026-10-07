@@ -1,8 +1,8 @@
 # Sophti
 
-Sophti is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Garagen, Cologne on Sat, 10 Oct 2026.
+Sophti is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Garagen, Cologne on Sat, 10 Oct 2026.
 
-Sophti is a techno and house artist based in Germany, with 36 gigs on soundcheck across Berlin, Cologne, Hamburg and Karlsruhe and 5 more. Often billed alongside DJ Business, Cufme and Wall Ra. Next up: Garagen, Cologne on Sat 10 Oct.
+Sophti is a techno and house artist based in Germany, with 37 gigs on soundcheck across Berlin, Cologne, Hamburg and Karlsruhe and 5 more. Often billed alongside DJ Business, Cufme and Wall Ra. Next up: Garagen, Cologne on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sophti is a techno and house artist based in Germany, with 36 gigs on soundcheck
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Garagen | Cologne |
 | Fri, 6 Nov 2026 | Grelle Forelle | Vienna |
+| Sat, 7 Nov 2026 | Werk2 | Leipzig |
 | Wed, 11 Nov 2026 | Gewölbe | Cologne |
 | Fri, 13 Nov 2026 | C2 OST | Karlsruhe |
 | Sat, 28 Nov 2026 | MS Stubnitz | Hamburg |
@@ -30,4 +31,4 @@ Sophti is a techno and house artist based in Germany, with 36 gigs on soundcheck
 
 DJ Business (2), Cufme, Wall Ra
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophti/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophti/)*

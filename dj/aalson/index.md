@@ -1,6 +1,6 @@
 # Aalson
 
-Aalson is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Rockstore, Montpellier on Fri, 20 Nov 2026.
+Aalson is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Rockstore, Montpellier on Fri, 20 Nov 2026.
 
 Aalson is a techno and electro artist, with 15 gigs on soundcheck across Amsterdam, Basel, Copenhagen and London and 6 more. Often billed alongside Worakls, Teho and Innerstice. Next up: Rockstore, Montpellier on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Aalson is a techno and electro artist, with 15 gigs on soundcheck across Amsterd
 
 Worakls, Teho, Innerstice
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aalson/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aalson/)*

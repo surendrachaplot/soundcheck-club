@@ -1,6 +1,6 @@
 # SPIKA
 
-SPIKA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Scotch of St James, London on Thu, 29 Oct 2026.
+SPIKA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Scotch of St James, London on Thu, 29 Oct 2026.
 
 SPIKA is a house and tech house artist, with 15 gigs on soundcheck across London and Mexico City. Often billed alongside AGELESS, DJ Melech and Darco. Next up: Scotch of St James, London on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ SPIKA is a house and tech house artist, with 15 gigs on soundcheck across London
 
 AGELESS, DJ Melech, Darco
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spika/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spika/)*

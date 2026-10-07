@@ -1,6 +1,6 @@
 # MC PAT FLYNN (IRE) at Selina's
 
-MC PAT FLYNN (IRE) at Selina's on Sat 7 Nov, Sydney. Hip-Hop. See the line-up on soundcheck.
+MC PAT FLYNN (IRE) at Selina's on Sat 7 Nov, Sydney. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

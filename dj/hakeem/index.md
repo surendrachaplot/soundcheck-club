@@ -1,6 +1,6 @@
 # Hakeem
 
-Hakeem is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at MODULE, Copenhagen on Fri, 9 Oct 2026.
+Hakeem is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at MODULE, Copenhagen on Fri, 9 Oct 2026.
 
 Hakeem is a house and techno artist based in United States of America, with 13 gigs on soundcheck across Copenhagen and Oslo. Often billed alongside Baime, DJ Nah Care and Gavnlig. Next up: MODULE, Copenhagen on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Hakeem is a house and techno artist based in United States of America, with 13 g
 
 Baime, DJ Nah Care, Gavnlig
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hakeem/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hakeem/)*

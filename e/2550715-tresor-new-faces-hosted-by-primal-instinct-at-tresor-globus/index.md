@@ -1,6 +1,6 @@
 # Tresor New Faces hosted by Primal Instinct at Tresor / Globus
 
-Tresor New Faces hosted by Primal Instinct at Tresor / Globus on Wed 4 Nov, Berlin. 4 artists: Briain, DJ Sun, Evvolita and YAZMIN (MT). Techno. See the line-up on soundcheck.
+Tresor New Faces hosted by Primal Instinct at Tresor / Globus on Wed 4 Nov, Berlin. 4 artists: Briain, DJ SUN (CH/DE), Evvolita and YAZMIN (MT). Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ Tresor New Faces hosted by Primal Instinct at Tresor / Globus on Wed 4 Nov, Berl
 ## Line-up
 
 - Briain
-- DJ Sun
+- DJ SUN (CH/DE)
 - Evvolita
 - YAZMIN (MT)
 

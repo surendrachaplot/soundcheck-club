@@ -1,6 +1,6 @@
 # nachtschade presents Sam Goku, Ana Karla, Jake McKay at Jolene
 
-nachtschade presents Sam Goku, Ana Karla, Jake McKay at Jolene on Sat 10 Oct, Copenhagen. 3 artists: Ana Karla, Jake Mckay and Sam Goku. Techno and House. See the line-up on soundcheck.
+nachtschade presents Sam Goku, Ana Karla, Jake McKay at Jolene on Sat 10 Oct, Copenhagen. 6 artists: Ana Karla, G.HO, Jake Mckay and Lentza and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,10 @@ nachtschade presents Sam Goku, Ana Karla, Jake McKay at Jolene on Sat 10 Oct, Co
 ## Line-up
 
 - Ana Karla
+- G.HO
 - Jake Mckay
+- Lentza
 - Sam Goku
+- Teison
 
 *Source: [soundcheck](https://soundcheck.club/e/2552778-nachtschade-presents-sam-goku-ana-karla-jake-mckay-at-jolene/)*

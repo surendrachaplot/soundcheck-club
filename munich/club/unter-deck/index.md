@@ -1,6 +1,6 @@
 # Unter Deck
 
-Unter Deck is a music venue in Munich with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Tuesday in Love: DJ FREUND all night long" on Tue, 6 Oct 2026.
+Unter Deck is a music venue in Munich with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Isarbass im Unter Deck" on Wed, 7 Oct 2026.
 
 Unter Deck is a music venue in Munich listed on soundcheck. 6 upcoming gigs, with line-ups including Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND, Fej:tal and floor length skirts and 2 more. See dates, start times and who's playing. Oberanger 26, 80331 München.
 
@@ -8,15 +8,15 @@ Unter Deck is a music venue in Munich listed on soundcheck. 6 upcoming gigs, wit
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 6 Oct 2026 | Tuesday in Love: DJ FREUND all night long | DJ FM & DJ FREUND |
 | Wed, 7 Oct 2026 | Isarbass im Unter Deck |  |
 | Fri, 9 Oct 2026 | Off Supply with Zo Pea & floor length skirts | Off Supply, Zoe Pea, floor length skirts |
-| Wed, 21 Oct 2026 | 3 Jahre Electroamore Residency im Unter Deck | DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung, Kim_Twiddle, RONNY, Safahs |
+| Wed, 21 Oct 2026 | 3 Jahre Electroamore Residency im Unter Deck | DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung, RONNY, Safahs |
 | Sat, 14 Nov 2026 | Der 8. Tag by Electroamore | DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung, Fej:tal, RONNY |
 | Tue, 24 Nov 2026 | Tuesday in Love: Safahs all night long | Safahs |
+| Tue, 15 Dec 2026 | Tuesday in love mit DJ Freund und Die Tektonische Plattenverschiebung | DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung |
 
 ## Address
 
 Oberanger 26, 80331 München, Munich
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*

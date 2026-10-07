@@ -1,6 +1,6 @@
 # Shanti Celeste's Birthday Party at KOKO
 
-Shanti Celeste's Birthday Party at KOKO on Sat 24 Oct, London. 3 artists: Danielle, Leon Vynehall and Shanti Celeste. See the line-up on soundcheck.
+Shanti Celeste's Birthday Party at KOKO on Sat 24 Oct, London. 5 artists: Danielle, Ellie Stokes, Gramrcy and Leon Vynehall and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ Shanti Celeste's Birthday Party at KOKO on Sat 24 Oct, London. 3 artists: Daniel
 ## Line-up
 
 - Danielle
+- Ellie Stokes
+- Gramrcy
 - Leon Vynehall
 - Shanti Celeste
 

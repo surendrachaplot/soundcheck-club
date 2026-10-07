@@ -1,8 +1,8 @@
 # Giri
 
-Giri is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Giri x Club Tender (fka Tendersesh) for Tag Der Clubkultur" on Wed, 7 Oct 2026.
+Giri is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Giri x Club Tender (fka Tendersesh) for Tag Der Clubkultur" on Wed, 7 Oct 2026.
 
-Giri is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including ANTRO, Bakläxa, Bass and Dj Hidrataccioni and 2 more. See dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
+Giri is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including ANTRO, Bakläxa, Bass and Dj Hidrataccioni and 2 more. See dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Giri is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with lin
 | Wed, 21 Oct 2026 | Giri x Currents | Memeshift |
 | Thu, 22 Oct 2026 | Giri x Kontralamakina Records | Fuerza Kontraria, Nases Morur, Thravsma |
 | Fri, 23 Oct 2026 | Giri x Rawa Club: Mexican Ambient Night Vol. IV | Dj Hidrataccioni |
-| Wed, 28 Oct 2026 | Occultists Showcase |  |
+| Sat, 24 Oct 2026 | Satelliet Studio |  |
 
 ## Address
 
 Hermannstrasse 14, 12049 Berlin, Berlin
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*

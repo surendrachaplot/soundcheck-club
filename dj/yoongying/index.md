@@ -1,6 +1,6 @@
 # Yoongying
 
-Yoongying is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
+Yoongying is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
 
 Yoongying is a techno and electro artist based in Thailand, with 113 gigs on soundcheck across Bangkok and Kuala Lumpur. Often billed alongside DJ Krit Morton, DJ Sweed and DJ Nava. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Yoongying is a techno and electro artist based in Thailand, with 113 gigs on sou
 
 DJ Krit Morton, DJ Sweed, DJ Nava
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoongying/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoongying/)*

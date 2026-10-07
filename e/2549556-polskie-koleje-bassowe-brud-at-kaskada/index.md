@@ -1,6 +1,6 @@
 # POLSKIE KOLEJE BASSOWE × BRUD at Kaskada
 
-POLSKIE KOLEJE BASSOWE × BRUD at Kaskada on Sat 24 Oct, Warsaw. 5 artists: BROTHER TIM, Muzaman, Sickute and Taiga and 1 more. Drum & Bass and Bass. See the line-up on soundcheck.
+POLSKIE KOLEJE BASSOWE × BRUD at Kaskada on Sat 24 Oct, Warsaw. 4 artists: BROTHER TIM, Muzaman, Sickute and U Lad. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,6 @@ POLSKIE KOLEJE BASSOWE × BRUD at Kaskada on Sat 24 Oct, Warsaw. 5 artists: BROT
 - BROTHER TIM
 - Muzaman
 - Sickute
-- Taiga
 - U Lad
 
 *Source: [soundcheck](https://soundcheck.club/e/2549556-polskie-koleje-bassowe-brud-at-kaskada/)*

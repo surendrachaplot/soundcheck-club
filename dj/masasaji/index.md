@@ -1,6 +1,6 @@
 # Masa Saji
 
-Masa Saji is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Signal, New York City on Sun, 11 Oct 2026.
+Masa Saji is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Signal, New York City on Sun, 11 Oct 2026.
 
 Masa Saji is a techno and house artist based in Germany, with 13 gigs on soundcheck across Berlin, New York City and Tokyo. Often billed alongside RAFAELO, Christopher Lawrenz and Steve Challier. Next up: Signal, New York City on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Masa Saji is a techno and house artist based in Germany, with 13 gigs on soundch
 
 RAFAELO, Christopher Lawrenz, Steve Challier
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masasaji/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masasaji/)*

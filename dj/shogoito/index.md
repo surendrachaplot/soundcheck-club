@@ -1,8 +1,8 @@
 # Shogo Ito
 
-Shogo Ito is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Z Maruyama, Tokyo on Sat, 10 Oct 2026.
+Shogo Ito is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Z Maruyama, Tokyo on Sat, 10 Oct 2026.
 
-Shogo Ito is a techno and progressive house artist based in Japan, with 62 gigs on soundcheck across Osaka and Tokyo. Often billed alongside U:ICHI, Drunken Kong and AHREUM. Next up: Z Maruyama, Tokyo on Sat 10 Oct.
+Shogo Ito is a techno and progressive house artist based in Japan, with 63 gigs on soundcheck across Osaka and Tokyo. Often billed alongside U:ICHI, Drunken Kong and AHREUM. Next up: Z Maruyama, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Shogo Ito is a techno and progressive house artist based in Japan, with 62 gigs 
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Z Maruyama | Tokyo |
 | Thu, 29 Oct 2026 | Enter Shibuya | Tokyo |
+| Sun, 8 Nov 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Shogo Ito is a techno and progressive house artist based in Japan, with 62 gigs 
 
 U:ICHI, Drunken Kong, AHREUM
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shogoito/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shogoito/)*

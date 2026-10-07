@@ -1,6 +1,6 @@
 # Tanzhaus West
 
-Tanzhaus West is a music venue in Frankfurt with 9 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Hard Impact Hard Techno Floor at RAWK, Tanzhaus West, Frankfurt" on Fri, 9 Oct 2026.
+Tanzhaus West is a music venue in Frankfurt with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Hard Impact Hard Techno Floor at RAWK, Tanzhaus West, Frankfurt" on Fri, 9 Oct 2026.
 
 Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 9 upcoming gigs, with line-ups including ADHASS, AMBAM, assena and CEM and 2 more. See dates, start times and who's playing. Gutleutstrasse 294; 60327 Frankfurt; Germany.
 
@@ -22,4 +22,4 @@ Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 9 upcoming gig
 
 Gutleutstrasse 294; 60327 Frankfurt; Germany, Frankfurt
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*

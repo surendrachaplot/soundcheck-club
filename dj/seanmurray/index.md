@@ -1,6 +1,6 @@
 # Sean Murray
 
-Sean Murray is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Shim's Surplus Supplies, Nevada on Fri, 6 Nov 2026.
+Sean Murray is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Shim's Surplus Supplies, Nevada on Fri, 6 Nov 2026.
 
 Sean Murray is a house and acid artist, with 7 gigs on soundcheck across Nevada and San Francisco/Oakland. Often billed alongside Solar, Galen and Eichef. Next up: Shim's Surplus Supplies, Nevada on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ Sean Murray is a house and acid artist, with 7 gigs on soundcheck across Nevada 
 
 Solar, Galen, Eichef
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seanmurray/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seanmurray/)*

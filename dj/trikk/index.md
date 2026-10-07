@@ -1,6 +1,6 @@
 # Trikk
 
-Trikk is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The Garage, Madrid on Sun, 11 Oct 2026.
+Trikk is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Garage, Madrid on Sun, 11 Oct 2026.
 
 Trikk is a house and techno artist based in Portugal, with 161 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: The Garage, Madrid on Sun 11 Oct.
 
@@ -30,4 +30,4 @@ Trikk is a house and techno artist based in Portugal, with 161 gigs on soundchec
 
 Âme, Jimi Jules, Dixon
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trikk/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trikk/)*

@@ -1,6 +1,6 @@
 # MikeQ
 
-MikeQ is a Ballroom and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Mood Ring, New York City on Fri, 9 Oct 2026.
+MikeQ is a Ballroom and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Mood Ring, New York City on Fri, 9 Oct 2026.
 
 MikeQ is a ballroom and club artist based in United States of America, with 47 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 17 more. Often billed alongside Sinjin Hawke, Leonce and Litney. Next up: Mood Ring, New York City on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ MikeQ is a ballroom and club artist based in United States of America, with 47 g
 
 Sinjin Hawke, Leonce, Litney
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeq/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeq/)*

@@ -1,6 +1,6 @@
 # Nono Gigsta
 
-Nono Gigsta is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Left Bank, Tbilisi on Sat, 10 Oct 2026.
+Nono Gigsta is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Left Bank, Tbilisi on Sat, 10 Oct 2026.
 
 Nono Gigsta is a bass and techno artist based in Belgium, with 73 gigs on soundcheck across Amsterdam, Armenia, Berlin and Bristol and 24 more. Often billed alongside CCL, Minor Science and Nazar. Next up: Left Bank, Tbilisi on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Nono Gigsta is a bass and techno artist based in Belgium, with 73 gigs on soundc
 
 CCL, Minor Science, Nazar
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigsta-de/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigsta-de/)*

@@ -1,6 +1,6 @@
 # MILKMANN
 
-MILKMANN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Débris, Tokyo on Sun, 11 Oct 2026.
+MILKMANN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Débris, Tokyo on Sun, 11 Oct 2026.
 
 MILKMANN is a house and techno artist, with 11 gigs on soundcheck across Tokyo. Often billed alongside DJ Flexure, Ippei and LEFTOLD. Next up: Débris, Tokyo on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ MILKMANN is a house and techno artist, with 11 gigs on soundcheck across Tokyo. 
 
 DJ Flexure, Ippei, LEFTOLD
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milkmann-jp/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milkmann-jp/)*

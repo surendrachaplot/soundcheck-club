@@ -1,6 +1,6 @@
 # Block1
 
-Block1 is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "XebeK" on Fri, 16 Oct 2026.
+Block1 is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "XebeK" on Fri, 16 Oct 2026.
 
 Block1 is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Atxa, DAAS, Flickerchild and Gunilla and 2 more. See dates, start times and who's playing. Blockdammweg 1, Berlin 10317.
 
@@ -15,4 +15,4 @@ Block1 is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with li
 
 Blockdammweg 1, Berlin 10317, Berlin
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/block1/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/block1/)*

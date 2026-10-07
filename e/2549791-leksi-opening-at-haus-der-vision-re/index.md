@@ -1,6 +1,6 @@
 # Leksi Opening at Haus der Visionäre
 
-Leksi Opening at Haus der Visionäre on Thu 8 Oct, Berlin. 3 artists: Huerta, Markus Sommer and Ponura. House. See the line-up on soundcheck.
+Leksi Opening at Haus der Visionäre on Thu 8 Oct, Berlin. 4 artists: Huerta, Markus Sommer, Ponura and Strobocop. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Leksi Opening at Haus der Visionäre on Thu 8 Oct, Berlin. 3 artists: Huerta, Ma
 - Huerta
 - Markus Sommer
 - Ponura
+- Strobocop
 
 *Source: [soundcheck](https://soundcheck.club/e/2549791-leksi-opening-at-haus-der-vision-re/)*

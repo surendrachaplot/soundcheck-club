@@ -1,13 +1,14 @@
 # Talpah
 
-Talpah is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Talpah is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Panke, Berlin on Fri, 23 Oct 2026.
 
-Talpah is an experimental and electronica artist based in Italy, with 22 gigs on soundcheck across Amsterdam, Berlin, Budapest and Glasgow and 7 more. Often billed alongside Ciro Vitiello, KOPI O and Mvcoko. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
+Talpah is an experimental and electronica artist based in Italy, with 23 gigs on soundcheck across Amsterdam, Berlin, Budapest and Glasgow and 7 more. Often billed alongside Ciro Vitiello, KOPI O and Mvcoko. Next up: Panke, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Panke | Berlin |
 | Thu, 29 Oct 2026 | Lingotto Fiere | Turin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Talpah is an experimental and electronica artist based in Italy, with 22 gigs on
 
 Ciro Vitiello, KOPI O, Mvcoko
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/talpah/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/talpah/)*

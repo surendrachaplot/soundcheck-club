@@ -1,6 +1,6 @@
 # Lysia
 
-Lysia is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Edifício Touring, Rio-de-janeiro on Fri, 9 Oct 2026.
+Lysia is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Edifício Touring, Rio-de-janeiro on Fri, 9 Oct 2026.
 
 Lysia is a house and balearic artist based in Brazil, with 9 gigs on soundcheck across Lisbon, Munich, Rio De Janeiro and Sao Paulo and 1 more. Often billed alongside Gaspar Muniz, Kair and AMÉMÉ. Next up: Edifício Touring, Rio De Janeiro on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Lysia is a house and balearic artist based in Brazil, with 9 gigs on soundcheck 
 
 Gaspar Muniz, Kair, AMÉMÉ
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lysia/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lysia/)*

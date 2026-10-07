@@ -1,6 +1,6 @@
-# House of Bottoms presents: Scorpio Seduction at TBA - 1215 Bloor St. West
+# House of Bottoms presents: SCORPIO SEDUCTION at TBA - 1215 Bloor St. West
 
-House of Bottoms presents: Scorpio Seduction at TBA - 1215 Bloor St. West on Fri 20 Nov, Toronto. 4 artists: Miss Bible, ngoma, OGQT and VUHNNY. Bass and Club. See the line-up on soundcheck.
+House of Bottoms presents: SCORPIO SEDUCTION at TBA - 1215 Bloor St. West on Fri 20 Nov, Toronto. 4 artists: Miss Bible, ngoma, OGQT and VUHNNY. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

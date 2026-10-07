@@ -1,6 +1,6 @@
 # Jorge Caiado
 
-Jorge Caiado is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Honey's, New York City on Fri, 16 Oct 2026.
+Jorge Caiado is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Honey's, New York City on Fri, 16 Oct 2026.
 
 Jorge Caiado is a house and techno artist based in Portugal, with 134 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Chicago and 17 more. Often billed alongside Kee_ko, Guy from 1990 and Sara Wual. Next up: Honey's, New York City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Jorge Caiado is a house and techno artist based in Portugal, with 134 gigs on so
 
 Kee_ko, Guy from 1990, Sara Wual
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgecaiado/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgecaiado/)*

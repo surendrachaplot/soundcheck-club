@@ -1,6 +1,6 @@
 # LSDXOXO
 
-LSDXOXO is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 9 Oct 2026.
+LSDXOXO is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 9 Oct 2026.
 
 LSDXOXO is a techno and house artist based in United States of America, with 201 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 58 more. Often billed alongside VTSS, Boys Noize and Helena Hauff. Next up: Nitsa Club, Barcelona on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ LSDXOXO is a techno and house artist based in United States of America, with 201
 
 VTSS, Boys Noize, Helena Hauff
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lsdxoxo/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lsdxoxo/)*

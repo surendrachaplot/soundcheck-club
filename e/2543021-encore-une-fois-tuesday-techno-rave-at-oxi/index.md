@@ -1,6 +1,6 @@
 # ✦encore.une.fois✦ / TUESDAY TECHNO RAVE at OXI
 
-✦encore.une.fois✦ / TUESDAY TECHNO RAVE at OXI on Tue 20 Oct, Berlin. 4 artists: CALiACRA, DJ Sun, LPV and New Frames. Techno. See the line-up on soundcheck.
+✦encore.une.fois✦ / TUESDAY TECHNO RAVE at OXI on Tue 20 Oct, Berlin. 4 artists: CALiACRA, DJ SUN (CH/DE), LPV and New Frames. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@
 ## Line-up
 
 - CALiACRA
-- DJ Sun
+- DJ SUN (CH/DE)
 - LPV
 - New Frames
 

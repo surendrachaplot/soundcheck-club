@@ -1,6 +1,6 @@
 # Crusy
 
-Crusy is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Marina Bay Sands, Singapore on Fri, 9 Oct 2026.
+Crusy is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Marina Bay Sands, Singapore on Fri, 9 Oct 2026.
 
 Crusy is a house and tech house artist based in Spain, with 36 gigs on soundcheck across Boston, Chicago, Detroit and Ibiza and 12 more. Often billed alongside Tony Romera, Claptone and AAfrAA. Next up: Marina Bay Sands, Singapore on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Crusy is a house and tech house artist based in Spain, with 36 gigs on soundchec
 
 Tony Romera, Claptone, AAfrAA
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crusy/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crusy/)*

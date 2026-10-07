@@ -1,6 +1,6 @@
 # Skip
 
-Skip is a Progressive House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The DBA, Manchester on Sat, 24 Oct 2026.
+Skip is a Progressive House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The DBA, Manchester on Sat, 24 Oct 2026.
 
 Skip is a progressive house and electronica artist based in United Kingdom, with 8 gigs on soundcheck across Berlin and Manchester. Often billed alongside The Brokers, Róisín W and David James MCR. Next up: The DBA, Manchester on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Skip is a progressive house and electronica artist based in United Kingdom, with
 
 The Brokers, Róisín W, David James MCR
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skip/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skip/)*

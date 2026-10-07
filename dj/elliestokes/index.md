@@ -1,14 +1,16 @@
 # Ellie Stokes
 
-Ellie Stokes is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Sameheads, Berlin on Sat, 17 Oct 2026.
+Ellie Stokes is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 11 Oct 2026.
 
-Ellie Stokes is a house and techno artist based in United Kingdom, with 92 gigs on soundcheck across Athens, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside Chez de Milo, Dave Harvey and Ivan Smagghe. Next up: Sameheads, Berlin on Sat 17 Oct.
+Ellie Stokes is a house and techno artist based in United Kingdom, with 94 gigs on soundcheck across Athens, Barcelona, Belgrade and Berlin and 17 more. Often billed alongside Chez de Milo, Dave Harvey and Ivan Smagghe. Next up: Pikes Ibiza, Ibiza on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 11 Oct 2026 | Pikes Ibiza | Ibiza |
 | Sat, 17 Oct 2026 | Sameheads | Berlin |
+| Sat, 24 Oct 2026 | KOKO | London |
 | Sat, 31 Oct 2026 | The Cause | London |
 
 ## Recently played
@@ -26,4 +28,4 @@ Ellie Stokes is a house and techno artist based in United Kingdom, with 92 gigs 
 
 Chez de Milo, Dave Harvey, Ivan Smagghe
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliestokes/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliestokes/)*

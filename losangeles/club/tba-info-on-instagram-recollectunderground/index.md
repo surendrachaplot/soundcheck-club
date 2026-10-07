@@ -1,0 +1,13 @@
+# TBA - INFO ON INSTAGRAM @RECOLLECTUNDERGROUND
+
+TBA - INFO ON INSTAGRAM @RECOLLECTUNDERGROUND is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "RECOLLECT UNDERGROUND" on Thu, 15 Oct 2026.
+
+TBA - INFO ON INSTAGRAM @RECOLLECTUNDERGROUND is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including James Blonde, JTJ and Tamara Lanza. See dates, start times and who's playing.
+
+## What's on
+
+| Date | Gig | Line-up |
+| --- | --- | --- |
+| Thu, 15 Oct 2026 | RECOLLECT UNDERGROUND | JTJ, James Blonde, Tamara Lanza |
+
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-info-on-instagram-recollectunderground/)*

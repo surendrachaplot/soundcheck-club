@@ -1,6 +1,6 @@
 # Mao Loading
 
-Mao Loading is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Egua, Bogot on Wed, 7 Oct 2026.
+Mao Loading is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Egua, Bogot on Wed, 7 Oct 2026.
 
 Mao Loading is a house and techno artist, with 7 gigs on soundcheck across Barcelona, Berlin, Bogot and Oslo and 1 more. Often billed alongside Casablanca 303, Gabo Forero and Adi Dassler. Next up: Egua, Bogot on Wed 7 Oct.
 
@@ -23,4 +23,4 @@ Mao Loading is a house and techno artist, with 7 gigs on soundcheck across Barce
 
 Casablanca 303, Gabo Forero, Adi Dassler
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maoloading/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maoloading/)*

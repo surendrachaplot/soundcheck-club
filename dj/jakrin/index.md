@@ -1,8 +1,8 @@
 # JAKRIN
 
-JAKRIN is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Culture Cafe, Bangkok on Thu, 29 Oct 2026.
+JAKRIN is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Culture Cafe, Bangkok on Thu, 29 Oct 2026.
 
-JAKRIN is a techno and house artist based in Thailand, with 75 gigs on soundcheck across Bali, Bangkok, Seoul and Thailand. Often billed alongside Payu, Jirus (MELA) and DZ GAS. Next up: Culture Cafe, Bangkok on Thu 29 Oct.
+JAKRIN is a techno and house artist based in Thailand, with 76 gigs on soundcheck across Bali, Bangkok, Seoul and Thailand. Often billed alongside Payu, Jirus (MELA) and DZ GAS. Next up: Culture Cafe, Bangkok on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ JAKRIN is a techno and house artist based in Thailand, with 75 gigs on soundchec
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Culture Cafe | Bangkok |
 | Fri, 30 Oct 2026 | Dual | Bangkok |
+| Thu, 26 Nov 2026 | Culture Cafe | Bangkok |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 
 ## Recently played
@@ -27,4 +28,4 @@ JAKRIN is a techno and house artist based in Thailand, with 75 gigs on soundchec
 
 Payu, Jirus (MELA), DZ GAS
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakrin/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakrin/)*

@@ -1,8 +1,8 @@
 # M75 (1)
 
-M75 (1) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at The Model, Nottingham on Fri, 9 Oct 2026.
+M75 (1) is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Model, Nottingham on Fri, 9 Oct 2026.
 
-M75 is a techno and bass artist based in United Kingdom, with 22 gigs on soundcheck across Manchester and Nottingham. Often billed alongside Jimmy Rocket, Toura and Aura (UK). Next up: The Model, Nottingham on Fri 9 Oct.
+M75 is a techno and bass artist based in United Kingdom, with 23 gigs on soundcheck across Manchester and Nottingham. Often billed alongside Jimmy Rocket, Toura and Aura (UK). Next up: The Model, Nottingham on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ M75 is a techno and bass artist based in United Kingdom, with 22 gigs on soundch
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | The Model | Nottingham |
 | Sun, 25 Oct 2026 | The Model | Nottingham |
+| Fri, 6 Nov 2026 | The Model | Nottingham |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ M75 is a techno and bass artist based in United Kingdom, with 22 gigs on soundch
 
 Jimmy Rocket, Toura, Aura (UK)
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m75-1/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m75-1/)*

@@ -1,6 +1,6 @@
 # SHUFFA
 
-SHUFFA is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at SWG3, Glasgow on Fri, 9 Oct 2026.
+SHUFFA is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at SWG3, Glasgow on Fri, 9 Oct 2026.
 
 SHUFFA is a garage and house artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Auckland, Australian Capital Territory and Belfast and 16 more. Often billed alongside Diffrent, Rich Reason and T-Man (UK). Next up: SWG3, Glasgow on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ SHUFFA is a garage and house artist based in United Kingdom, with 49 gigs on sou
 
 Diffrent, Rich Reason, T-Man (UK)
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shuffa/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shuffa/)*

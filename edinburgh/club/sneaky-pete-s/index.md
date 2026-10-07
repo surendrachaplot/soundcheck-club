@@ -1,14 +1,13 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 27 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "RARE Club // Ben2Ben" on Tue, 6 Oct 2026.
+Sneaky Pete's is a music venue in Edinburgh with 26 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Andromeda Returns: IZP Vol.2" on Wed, 7 Oct 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 27 upcoming gigs, with line-ups including ACHIRĀ, BORLEY, Buckley (UK) and ButhoTheWarrior and 2 more. See dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 26 upcoming gigs, with line-ups including ACHIRĀ, BORLEY, Buckley (UK) and ButhoTheWarrior and 2 more. See dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 6 Oct 2026 | RARE Club // Ben2Ben |  |
 | Wed, 7 Oct 2026 | Andromeda Returns: IZP Vol.2 | Caspar, IZP (1) |
 | Thu, 8 Oct 2026 | Morrison Street with Mass Medium / Club Caviar  |  |
 | Fri, 9 Oct 2026 | mantle: ophélie 𖦹 Feena | Feena, ophélie |
@@ -18,9 +17,10 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 27 upcoming gi
 | Wed, 14 Oct 2026 | Buckley Curates: Buckley B2B Dyslecta B2B harpriya (All Night Long) | Buckley (UK), Dyslecta, harpriya |
 | Fri, 16 Oct 2026 | discotia 010: VO!D D!SCO (Jane Darke & JON KRIEGER) | JON KRIEGER, Jane Darke, discotia |
 | Sun, 18 Oct 2026 | Romare: Free Time – Edinburgh | Romare |
+| Tue, 20 Oct 2026 | RARE Club // HAPOL | HAPOL |
 
 ## Address
 
 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom, Edinburgh
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*

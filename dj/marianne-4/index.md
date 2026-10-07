@@ -1,6 +1,6 @@
 # marianne (4)
 
-marianne (4) is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Fanfulla 5/a, Rome on Thu, 8 Oct 2026.
+marianne (4) is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Fanfulla 5/a, Rome on Thu, 8 Oct 2026.
 
 marianne is an electronic artist based in Italy, with 6 gigs on soundcheck across Rome. Often billed alongside Monuas, Collarbone and Daura. Next up: Fanfulla 5/a, Rome on Thu 8 Oct.
 
@@ -22,4 +22,4 @@ marianne is an electronic artist based in Italy, with 6 gigs on soundcheck acros
 
 Monuas, Collarbone, Daura
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marianne-4/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marianne-4/)*

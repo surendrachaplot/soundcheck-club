@@ -1,6 +1,6 @@
 # Turnbalism
 
-Turnbalism is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Le Bain, New York City on Sat, 10 Oct 2026.
+Turnbalism is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Le Bain, New York City on Sat, 10 Oct 2026.
 
 Turnbalism is a house and tech house artist, with 9 gigs on soundcheck across New York City and Paris. Often billed alongside beewack, Danny Fortunato and HOLDTight. Next up: Le Bain, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Turnbalism is a house and tech house artist, with 9 gigs on soundcheck across Ne
 
 beewack, Danny Fortunato, HOLDTight
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/turnbalism/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/turnbalism/)*

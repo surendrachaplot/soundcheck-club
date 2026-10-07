@@ -1,6 +1,6 @@
 # Zeynep
 
-Zeynep is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at BRET, Amsterdam on Fri, 9 Oct 2026.
+Zeynep is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at BRET, Amsterdam on Fri, 9 Oct 2026.
 
 Zeynep is a techno and house artist based in Germany, with 93 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Alfred Czital, Yan (CZ) and Raleigh. Next up: BRET, Amsterdam on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Zeynep is a techno and house artist based in Germany, with 93 gigs on soundcheck
 
 Alfred Czital, Yan (CZ), Raleigh
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeynep-de/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeynep-de/)*

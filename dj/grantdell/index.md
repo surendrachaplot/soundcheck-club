@@ -1,6 +1,6 @@
 # Grant Dell
 
-Grant Dell is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at SASS Music Club, Vienna on Sat, 10 Oct 2026.
+Grant Dell is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at SASS Music Club, Vienna on Sat, 10 Oct 2026.
 
 Grant Dell is a house and tech house artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Berlin, Boston and Brighton and 10 more. Often billed alongside 3 Minds, Adam Collins and Laurence. Next up: SASS Music Club, Vienna on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Grant Dell is a house and tech house artist based in United Kingdom, with 30 gig
 
 3 Minds, Adam Collins, Laurence
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grantdell/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grantdell/)*

@@ -1,6 +1,6 @@
 # Under Club
 
-Under Club is a music venue in Buenos Aires with 6 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "Belin - Gonzalo Trejo - Istvan Roux - Jorge Ciccioli - NTRM" on Sat, 10 Oct 2026.
+Under Club is a music venue in Buenos Aires with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Belin - Gonzalo Trejo - Istvan Roux - Jorge Ciccioli - NTRM" on Sat, 10 Oct 2026.
 
 Under Club is a music venue in Buenos Aires listed on soundcheck. 6 upcoming gigs, with line-ups including Ana Hagen, Belin, Fabio Florido and Floorplan and 2 more. See dates, start times and who's playing. Niceto Vega 5699, 1425, Ciudad de Buenos Aires.
 
@@ -19,4 +19,4 @@ Under Club is a music venue in Buenos Aires listed on soundcheck. 6 upcoming gig
 
 Niceto Vega 5699, 1425, Ciudad de Buenos Aires, Buenos Aires
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/under-club/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/under-club/)*

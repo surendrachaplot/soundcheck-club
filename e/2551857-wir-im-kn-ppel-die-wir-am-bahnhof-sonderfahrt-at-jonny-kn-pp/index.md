@@ -1,6 +1,6 @@
 # WIR im Knüppel - Die Wir am Bahnhof Sonderfahrt at Jonny Knüppel
 
-WIR im Knüppel - Die Wir am Bahnhof Sonderfahrt at Jonny Knüppel on Sat 31 Oct, Berlin. 8 artists: AHAB, Ailin Liefeldt, ANNAWAFFEL and CosmiKat and 4 more. Techno and House. See the line-up on soundcheck.
+WIR im Knüppel - Die Wir am Bahnhof Sonderfahrt at Jonny Knüppel on Sat 31 Oct, Berlin. 9 artists: AHAB, Ailin Liefeldt, ANNAWAFFEL and Captain Ahoi and 5 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ WIR im Knüppel - Die Wir am Bahnhof Sonderfahrt at Jonny Knüppel on Sat 31 Oct
 - AHAB
 - Ailin Liefeldt
 - ANNAWAFFEL
+- Captain Ahoi
 - CosmiKat
 - Glumo
 - Herr Potpourri

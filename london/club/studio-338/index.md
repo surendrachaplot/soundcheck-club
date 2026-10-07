@@ -1,6 +1,6 @@
 # Studio 338
 
-Studio 338 is a music venue in London with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "House of Desire After Dark" on Fri, 23 Oct 2026.
+Studio 338 is a music venue in London with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "House of Desire After Dark" on Fri, 23 Oct 2026.
 
 Studio 338 is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including ASHOJU, Bontan, Chicks Luv Us and DELTA LABS and 2 more. See dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
 
@@ -18,4 +18,4 @@ Studio 338 is a music venue in London listed on soundcheck. 5 upcoming gigs, wit
 
 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom, London
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*

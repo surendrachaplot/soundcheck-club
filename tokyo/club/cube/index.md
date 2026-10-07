@@ -1,6 +1,6 @@
 # Cube
 
-Cube is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "HARDHOUSE COVENANT" on Fri, 23 Oct 2026.
+Cube is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "HARDHOUSE COVENANT" on Fri, 23 Oct 2026.
 
 Cube is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including CD HATA, GENDER-K, KAMIKAZE and KATIMI AI and 2 more. See dates, start times and who's playing. 3-4-11 B1 Chuoiikurabil, Azabudai, Minato-ku, Tokyo.
 
@@ -15,4 +15,4 @@ Cube is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-
 
 3-4-11 B1 Chuoiikurabil, Azabudai, Minato-ku, Tokyo, Tokyo
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cube/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cube/)*

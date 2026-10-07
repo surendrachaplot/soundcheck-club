@@ -1,6 +1,6 @@
 # Click | Click
 
-Click | Click is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Golden Gate, Berlin on Thu, 8 Oct 2026.
+Click | Click is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Golden Gate, Berlin on Thu, 8 Oct 2026.
 
 Click | Click is a house and techno artist based in Germany, with 33 gigs on soundcheck across Augsburg, Berlin, Hamburg and Munich and 2 more. Often billed alongside Milk N Coffee, Somaphon and Rene Oldenburg. Next up: Golden Gate, Berlin on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Click | Click is a house and techno artist based in Germany, with 33 gigs on sou
 
 Milk N Coffee, Somaphon, Rene Oldenburg
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clickclick/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clickclick/)*

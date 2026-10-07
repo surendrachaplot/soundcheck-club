@@ -1,13 +1,14 @@
 # James Newmarch
 
-James Newmarch is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at 宀 Club, Hong Kong on Fri, 27 Nov 2026.
+James Newmarch is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at WOMB, Tokyo on Fri, 20 Nov 2026.
 
-James Newmarch is a techno and house artist based in United Kingdom, with 72 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 15 more. Often billed alongside Voicedrone, Anabel Arroyo and Alba Heidari. Next up: 宀 Club, Hong Kong on Fri 27 Nov.
+James Newmarch is a techno and house artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 16 more. Often billed alongside Voicedrone, Anabel Arroyo and Alba Heidari. Next up: WOMB, Tokyo on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | WOMB | Tokyo |
 | Fri, 27 Nov 2026 | 宀 Club | Hong Kong |
 | Sat, 12 Dec 2026 | Palais | London |
 
@@ -26,4 +27,4 @@ James Newmarch is a techno and house artist based in United Kingdom, with 72 gig
 
 Voicedrone, Anabel Arroyo, Alba Heidari
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesnewmarch/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesnewmarch/)*

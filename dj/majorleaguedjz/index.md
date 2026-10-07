@@ -1,14 +1,15 @@
 # Major League Djz
 
-Major League Djz is a Afro House and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Chinois Ibiza, Ibiza on Fri, 9 Oct 2026.
+Major League Djz is a Afro House and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Chinois Ibiza, Ibiza on Fri, 9 Oct 2026.
 
-Major League Djz is an afro house and house artist based in South Africa, with 105 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 28 more. Often billed alongside Honey Dijon, DJ Tennis and Kitty Amor. Next up: Chinois Ibiza, Ibiza on Fri 9 Oct.
+Major League Djz is an afro house and house artist based in South Africa, with 106 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 29 more. Often billed alongside Honey Dijon, DJ Tennis and Kitty Amor. Next up: Chinois Ibiza, Ibiza on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Chinois Ibiza | Ibiza |
+| Fri, 30 Oct 2026 | Queen Elizabeth Theatre | Toronto |
 | Sat, 31 Oct 2026 | Elsewhere | New York City |
 | Sat, 28 Nov 2026 | Waagnatie Expo & Events | Antwerp |
 | Fri, 11 Dec 2026 | Fållan | Stockholm |
@@ -28,4 +29,4 @@ Major League Djz is an afro house and house artist based in South Africa, with 1
 
 Honey Dijon, DJ Tennis, Kitty Amor
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majorleaguedjz/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majorleaguedjz/)*

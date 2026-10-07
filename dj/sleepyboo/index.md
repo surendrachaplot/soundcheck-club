@@ -1,6 +1,6 @@
 # Sleepy & Boo
 
-Sleepy & Boo is a Deep House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Mr. Purple, New York City on Fri, 9 Oct 2026.
+Sleepy & Boo is a Deep House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Mr. Purple, New York City on Fri, 9 Oct 2026.
 
 Sleepy & Boo are a deep house and techno duo based in United States of America, with 197 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Detroit and 5 more. Often billed alongside Navider, Alex Sharp and D.T.H.. Next up: Mr. Purple, New York City on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Sleepy & Boo are a deep house and techno duo based in United States of America, 
 
 Navider, Alex Sharp, D.T.H.
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyboo/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyboo/)*

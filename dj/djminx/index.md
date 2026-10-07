@@ -1,6 +1,6 @@
 # DJ Minx
 
-DJ Minx is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Lincoln Factory, Detroit on Sat, 10 Oct 2026.
+DJ Minx is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Lincoln Factory, Detroit on Sat, 10 Oct 2026.
 
 DJ Minx is a house and techno artist based in United States of America, with 182 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside DJ Holographic, Carl Craig and Soul Clap. Next up: Lincoln Factory, Detroit on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ DJ Minx is a house and techno artist based in United States of America, with 182
 
 DJ Holographic, Carl Craig, Soul Clap
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djminx/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djminx/)*

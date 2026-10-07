@@ -1,6 +1,6 @@
 # Cirque Du Soir
 
-Cirque Du Soir is a music venue in London with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "CZN Halloween × Cirque London" on Tue, 27 Oct 2026.
+Cirque Du Soir is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "CZN Halloween × Cirque London" on Tue, 27 Oct 2026.
 
 Cirque Du Soir is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 21 Ganton Street; Soho; London W1S 3BF; United Kingdom.
 
@@ -14,4 +14,4 @@ Cirque Du Soir is a music venue in London listed on soundcheck. 1 upcoming gig. 
 
 21 Ganton Street; Soho; London W1S 3BF; United Kingdom, London
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/cirque-du-soir/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/cirque-du-soir/)*

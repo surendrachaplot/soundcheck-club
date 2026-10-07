@@ -1,13 +1,14 @@
 # CHIEF QUEEF
 
-CHIEF QUEEF is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at C2 OST, Karlsruhe on Fri, 13 Nov 2026.
+CHIEF QUEEF is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Werk2, Leipzig on Sat, 7 Nov 2026.
 
-CHIEF QUEEF is a techno and bass artist based in Germany, with 16 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Karlsruhe and 2 more. Often billed alongside DJ BREXIT, JoyBoy and Sophti. Next up: C2 OST, Karlsruhe on Fri 13 Nov.
+CHIEF QUEEF is a techno and bass artist based in Germany, with 17 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Karlsruhe and 3 more. Often billed alongside DJ BREXIT, JoyBoy and Sophti. Next up: Werk2, Leipzig on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Werk2 | Leipzig |
 | Fri, 13 Nov 2026 | C2 OST | Karlsruhe |
 | Sat, 28 Nov 2026 | MS Stubnitz | Hamburg |
 
@@ -26,4 +27,4 @@ CHIEF QUEEF is a techno and bass artist based in Germany, with 16 gigs on soundc
 
 DJ BREXIT, JoyBoy, Sophti
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chiefqueef/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chiefqueef/)*

@@ -1,6 +1,6 @@
 # Öona Dahl
 
-Öona Dahl is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at fabric, London on Sat, 24 Oct 2026.
+Öona Dahl is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at fabric, London on Sat, 24 Oct 2026.
 
 Öona Dahl is a house and techno artist based in United States of America, with 55 gigs on soundcheck across Austin, Barcelona, Basel and Berlin and 15 more. Often billed alongside DJ Three, Anton Tumas and Sydney Blu. Next up: fabric, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@
 
 DJ Three, Anton Tumas, Sydney Blu
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oonadahl/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oonadahl/)*

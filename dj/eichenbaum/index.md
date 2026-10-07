@@ -1,6 +1,6 @@
 # Eichenbaum
 
-Eichenbaum is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Особняк "Орбита" от Вани Дмитриенко, Moscow on Fri, 9 Oct 2026.
+Eichenbaum is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Особняк "Орбита" от Вани Дмитриенко, Moscow on Fri, 9 Oct 2026.
 
 Eichenbaum is a progressive house and house artist based in Argentina, with 20 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Budapest and 4 more. Often billed alongside Guy J, Sasha and Franky Wah. Next up: Особняк "Орбита" от Вани Дмитриенко, Moscow on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Eichenbaum is a progressive house and house artist based in Argentina, with 20 g
 
 Guy J, Sasha, Franky Wah
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eichenbaum/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eichenbaum/)*

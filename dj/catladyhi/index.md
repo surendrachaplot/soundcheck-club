@@ -1,14 +1,15 @@
 # CatLadyHi
 
-CatLadyHi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Dead Letter No. 9, New York City on Fri, 23 Oct 2026.
+CatLadyHi is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Dead Letter No. 9, New York City on Fri, 23 Oct 2026.
 
-CatLadyHi is a house and tech house artist based in United States of America, with 26 gigs on soundcheck across New York City. Often billed alongside Miss Hazard, Beltran and Eric Modz. Next up: Dead Letter No. 9, New York City on Fri 23 Oct.
+CatLadyHi is a house and tech house artist based in United States of America, with 27 gigs on soundcheck across New York City. Often billed alongside Miss Hazard, Beltran and Eric Modz. Next up: Dead Letter No. 9, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Dead Letter No. 9 | New York City |
+| Fri, 30 Oct 2026 | Westlight Rooftop at The William Vale | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ CatLadyHi is a house and tech house artist based in United States of America, wi
 
 Miss Hazard, Beltran, Eric Modz
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catladyhi/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catladyhi/)*

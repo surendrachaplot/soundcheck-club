@@ -1,6 +1,6 @@
 # Absono
 
-Absono is a Gabber and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at TBA - Location Distributed Day Of, Chicago on Sat, 31 Oct 2026.
+Absono is a Gabber and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Location Distributed Day Of, Chicago on Sat, 31 Oct 2026.
 
 Absono is a gabber and hardcore artist based in United States of America, with 12 gigs on soundcheck across Chicago and New York City. Often billed alongside Flapjack, J3rmgirl and spliffany evans. Next up: TBA - Location Distributed Day Of, Chicago on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Absono is a gabber and hardcore artist based in United States of America, with 1
 
 Flapjack, J3rmgirl, spliffany evans
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/absono/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/absono/)*

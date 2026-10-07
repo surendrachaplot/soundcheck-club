@@ -1,13 +1,14 @@
 # Sojo
 
-Sojo is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Resume Valencia, Valencia on Fri, 23 Oct 2026.
+Sojo is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at nueve cero nueve, Mexico City on Fri, 9 Oct 2026.
 
-Sojo is a house and minimal artist based in Mexico, with 14 gigs on soundcheck across Mexico City, Paris and Valencia. Often billed alongside Alex Neri, Figurative Records and HVSH. Next up: Resume Valencia, Valencia on Fri 23 Oct.
+Sojo is a house and minimal artist based in Mexico, with 15 gigs on soundcheck across Mexico City, Paris and Valencia. Often billed alongside O.D.C.A, Alex Neri and Figurative Records. Next up: nueve cero nueve, Mexico City on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | nueve cero nueve | Mexico City |
 | Fri, 23 Oct 2026 | Resume Valencia | Valencia |
 
 ## Recently played
@@ -23,6 +24,6 @@ Sojo is a house and minimal artist based in Mexico, with 14 gigs on soundcheck a
 
 ## Shares bills with
 
-Alex Neri, Figurative Records, HVSH
+O.D.C.A, Alex Neri, Figurative Records
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sojo/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sojo/)*

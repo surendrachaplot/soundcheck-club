@@ -1,0 +1,20 @@
+# ✭EERIE COLLECTIVE✭ KRISTIE KARDIO, TAUREAN , zazitech, ishka machina, Kaotic, ZiZi at Bike Jesus
+
+✭EERIE COLLECTIVE✭ KRISTIE KARDIO, TAUREAN , zazitech, ishka machina, Kaotic, ZiZi at Bike Jesus on Fri 9 Oct, Prague. 6 artists: ishka machina, Kaotic, KRISTIE KARDIO and TAUREAN and 2 more. Techno and Tech House. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 9 Oct 2026 |
+| Venue | Bike Jesus |
+| City | Prague |
+
+## Line-up
+
+- ishka machina
+- Kaotic
+- KRISTIE KARDIO
+- TAUREAN (2)
+- zazitech
+- ZiZi
+
+*Source: [soundcheck](https://soundcheck.club/e/2528787-eerie-collective-kristie-kardio-taurean-zazitech-ishka-machi/)*

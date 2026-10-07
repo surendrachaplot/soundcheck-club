@@ -1,8 +1,8 @@
 # Triangle
 
-Triangle is a music venue in Osaka with 5 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. The next is "BOX" on Wed, 7 Oct 2026.
+Triangle is a music venue in Osaka with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "BOX" on Wed, 7 Oct 2026.
 
-Triangle is a music venue in Osaka listed on soundcheck. 5 upcoming gigs, with line-ups including Deejay Energy, DropTop, INDEX and into and 2 more. See dates, start times and who's playing. 2-18-5 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan.
+Triangle is a music venue in Osaka listed on soundcheck. 6 upcoming gigs, with line-ups including CH1LL, Deejay Energy, DropTop and INDEX and 2 more. See dates, start times and who's playing. 2-18-5 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan.
 
 ## What's on
 
@@ -13,9 +13,10 @@ Triangle is a music venue in Osaka listed on soundcheck. 5 upcoming gigs, with l
 | Wed, 14 Oct 2026 | RUN DA BASS | Deejay Energy, M!ST, kakepon |
 | Fri, 30 Oct 2026 | The Network | DropTop |
 | Fri, 6 Nov 2026 | RAVING APE | Savage States, ZAGUN, matres |
+| Sat, 7 Nov 2026 | HARDER EVOLUTION presents: Flow of Euphoria feat. Euphorizer | CH1LL |
 
 ## Address
 
 2-18-5 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan, Osaka
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/triangle/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/triangle/)*

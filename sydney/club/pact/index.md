@@ -1,6 +1,6 @@
 # Pact
 
-Pact is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. The next is "jacques emery presents: invisible threads" on Thu, 22 Oct 2026.
+Pact is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "jacques emery presents: invisible threads" on Thu, 22 Oct 2026.
 
 Pact is a music venue in Sydney listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 107 Railway Parade, Erskineville NSW 2043.
 
@@ -14,4 +14,4 @@ Pact is a music venue in Sydney listed on soundcheck. 1 upcoming gig. See dates,
 
 107 Railway Parade, Erskineville NSW 2043, Sydney
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/pact/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/pact/)*

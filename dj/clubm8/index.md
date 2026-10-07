@@ -1,6 +1,6 @@
 # clubm8
 
-clubm8 is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at ÆDEN, Berlin on Sat, 24 Oct 2026.
+clubm8 is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at ÆDEN, Berlin on Sat, 24 Oct 2026.
 
 clubm8 is a techno and trance artist based in Germany, with 4 gigs on soundcheck across Berlin, Cologne and Leipzig. Often billed alongside Andara Nox, Anna Hoeber and April the pink. Next up: ÆDEN, Berlin on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ clubm8 is a techno and trance artist based in Germany, with 4 gigs on soundcheck
 
 Andara Nox, Anna Hoeber, April the pink
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubm8/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubm8/)*

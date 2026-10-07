@@ -1,11 +1,15 @@
 # CLUB MUSIC 10/9 at UndergroundSF at Underground SF
 
-CLUB MUSIC 10/9 at UndergroundSF at Underground SF on Fri 9 Oct, San Francisco/Oakland. Baile Funk and Club. See the line-up on soundcheck.
+CLUB MUSIC 10/9 at UndergroundSF at Underground SF on Fri 9 Oct, San Francisco/Oakland. 1 artist: møod ring. Baile Funk and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 9 Oct 2026 |
 | Venue | Underground SF |
 | City | San Francisco/Oakland |
+
+## Line-up
+
+- møod ring
 
 *Source: [soundcheck](https://soundcheck.club/e/2542463-club-music-10-9-at-undergroundsf-at-underground-sf/)*

@@ -1,8 +1,8 @@
 # PRADA2000
 
-PRADA2000 is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+PRADA2000 is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
 
-PRADA2000 is a techno and trance artist based in Germany, with 167 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 42 more. Often billed alongside Cleopard2000, Adrian Mills and Mika Heggemann. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
+PRADA2000 is a techno and trance artist based in Germany, with 168 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 42 more. Often billed alongside Cleopard2000, Adrian Mills and Mika Heggemann. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ PRADA2000 is a techno and trance artist based in Germany, with 167 gigs on sound
 | Fri, 16 Oct 2026 | Nitsa Club | Barcelona |
 | Sat, 17 Oct 2026 | Gotec | Karlsruhe |
 | Fri, 23 Oct 2026 | Nxt Museum | Amsterdam |
+| Fri, 27 Nov 2026 | RSO.BERLIN | Berlin |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Sat, 19 Dec 2026 | Pavilhão Carlos Lopes | Lisbon |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
@@ -31,4 +32,4 @@ PRADA2000 is a techno and trance artist based in Germany, with 167 gigs on sound
 
 Cleopard2000, Adrian Mills, Mika Heggemann
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prada2000/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prada2000/)*

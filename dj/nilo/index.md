@@ -1,13 +1,15 @@
 # Nilo
 
-Nilo is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Basis Vinschgau Venosta, North on Sat, 31 Oct 2026.
+Nilo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Tana Kiosk, Naples on Sat, 10 Oct 2026.
 
-Nilo is a techno and trance artist based in Italy, with 11 gigs on soundcheck across Naples and North. Often billed alongside Jesooria, Amiran and Benth.. Next up: Basis Vinschgau Venosta, North on Sat 31 Oct.
+Nilo is a techno and house artist based in Italy, with 13 gigs on soundcheck across Naples and North. Often billed alongside Amiran, Jesooria and Kobold. Next up: Tana Kiosk, Naples on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Tana Kiosk | Naples |
+| Sat, 17 Oct 2026 | Tana Kiosk | Naples |
 | Sat, 31 Oct 2026 | Basis Vinschgau Venosta | North |
 
 ## Recently played
@@ -23,6 +25,6 @@ Nilo is a techno and trance artist based in Italy, with 11 gigs on soundcheck ac
 
 ## Shares bills with
 
-Jesooria, Amiran, Benth.
+Amiran, Jesooria, Kobold
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nilo/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nilo/)*

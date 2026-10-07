@@ -1,14 +1,15 @@
 # LNY TNZ
 
-LNY TNZ is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+LNY TNZ is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
-LNY TNZ is a techno and trance artist based in Netherlands, with 9 gigs on soundcheck across Cologne, Los Angeles, Madrid and New York City and 1 more. Often billed alongside Coone, Mish and The Dark Horror. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
+LNY TNZ is a techno and trance artist based in Netherlands, with 10 gigs on soundcheck across Cologne, Los Angeles, Madrid and New York City and 1 more. Often billed alongside Blasterjaxx, Coone and Gammer. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
+| Fri, 20 Nov 2026 | Melrose Ballroom | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ LNY TNZ is a techno and trance artist based in Netherlands, with 9 gigs on sound
 
 ## Shares bills with
 
-Coone, Mish, The Dark Horror
+Blasterjaxx, Coone, Gammer
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lnytnz/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lnytnz/)*

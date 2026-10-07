@@ -1,14 +1,15 @@
 # Yaya Flows
 
-Yaya Flows is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Nowadays, New York City on Tue, 13 Oct 2026.
+Yaya Flows is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Nowadays, New York City on Tue, 13 Oct 2026.
 
-Yaya Flows is a techno and ambient artist based in United States of America, with 26 gigs on soundcheck across New York City. Often billed alongside T.Wan, Lychee and Sobolik. Next up: Nowadays, New York City on Tue 13 Oct.
+Yaya Flows is a techno and ambient artist based in United States of America, with 27 gigs on soundcheck across New York City. Often billed alongside Lychee, T.Wan and Sobolik. Next up: Nowadays, New York City on Tue 13 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 13 Oct 2026 | Nowadays | New York City |
+| Tue, 24 Nov 2026 | Nowadays | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Yaya Flows is a techno and ambient artist based in United States of America, wit
 
 ## Shares bills with
 
-T.Wan, Lychee, Sobolik
+Lychee, T.Wan, Sobolik
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yayaflows/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yayaflows/)*

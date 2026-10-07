@@ -1,6 +1,6 @@
 # Feed Me
 
-Feed Me is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at Petit Bain, Paris on Sat, 10 Oct 2026.
+Feed Me is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Petit Bain, Paris on Sat, 10 Oct 2026.
 
 Feed Me is a bass and drum & bass artist based in United Kingdom, with 8 gigs on soundcheck across Detroit, London, Paris and San Diego and 3 more. Often billed alongside DREAD MC, Doctor P and Seven Lions. Next up: Petit Bain, Paris on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Feed Me is a bass and drum & bass artist based in United Kingdom, with 8 gigs on
 
 DREAD MC, Doctor P, Seven Lions
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feedme/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feedme/)*

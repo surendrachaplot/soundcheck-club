@@ -1,13 +1,14 @@
 # 999ADJ
 
-999ADJ is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 6 Oct 2026. Next at H0L0, New York City on Sat, 24 Oct 2026.
+999ADJ is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at El Rio, San Francisco/Oakland on Sat, 10 Oct 2026.
 
-999ADJ is a techno and club artist based in Canada, with 114 gigs on soundcheck across Chicago, Detroit, Montreal and New York City and 2 more. Often billed alongside SEXMP3, JIYNX and TJ Traxx. Next up: H0L0, New York City on Sat 24 Oct.
+999ADJ is a techno and club artist based in Canada, with 115 gigs on soundcheck across Chicago, Detroit, Montreal and New York City and 3 more. Often billed alongside SEXMP3, JIYNX and TJ Traxx. Next up: El Rio, San Francisco/Oakland on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | El Rio | San Francisco/Oakland |
 | Sat, 24 Oct 2026 | H0L0 | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@
 
 SEXMP3, JIYNX, TJ Traxx
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/999adj/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/999adj/)*

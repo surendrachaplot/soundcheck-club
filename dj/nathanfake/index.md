@@ -1,6 +1,6 @@
 # Nathan Fake
 
-Nathan Fake is a Techno and Electro artist with 7 upcoming gigs listed on soundcheck as of Tue, 6 Oct 2026. Next at Barachois - Saint-Denis, Reunion Island, French-west-indies on Thu, 8 Oct 2026.
+Nathan Fake is a Techno and Electro artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Barachois - Saint-Denis, Reunion Island, French-west-indies on Thu, 8 Oct 2026.
 
 Nathan Fake is a techno and electro artist based in United Kingdom, with 25 gigs on soundcheck across Barcelona, Berlin, Bristol and French West Indies and 9 more. Often billed alongside Gold Panda, Alex Wilcox and Arsenal Mikebe. Next up: Barachois - Saint-Denis, Reunion Island, French West Indies on Thu 8 Oct.
 
@@ -31,4 +31,4 @@ Nathan Fake is a techno and electro artist based in United Kingdom, with 25 gigs
 
 Gold Panda, Alex Wilcox, Arsenal Mikebe
 
-*Updated Tue, 6 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanfake/)*
+*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanfake/)*

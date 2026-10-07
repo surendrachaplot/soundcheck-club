@@ -1,6 +1,6 @@
-# GRUB Stretford: Jonny SHire at Grub Stretford
+# GRUB Stretford: Jonny Shire at Grub Stretford
 
-GRUB Stretford: Jonny SHire at Grub Stretford on Thu 8 Oct, Manchester. Disco and Funk / Soul. See the line-up on soundcheck.
+GRUB Stretford: Jonny Shire at Grub Stretford on Thu 8 Oct, Manchester. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
