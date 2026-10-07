@@ -1,14 +1,15 @@
 # Plagger
 
-Plagger is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at IT Athens, Athens on Sat, 17 Oct 2026.
+Plagger is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at IT Athens, Athens on Sat, 17 Oct 2026.
 
-Plagger is a techno and acid artist based in Greece, with 152 gigs on soundcheck across Athens and Berlin. Often billed alongside TYPEO, MOSHBEAT and Human Cruelty. Next up: IT Athens, Athens on Sat 17 Oct.
+Plagger is a techno and acid artist based in Greece, with 153 gigs on soundcheck across Athens and Berlin. Often billed alongside TYPEO, MOSHBEAT and Human Cruelty. Next up: IT Athens, Athens on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | IT Athens | Athens |
+| Sat, 31 Oct 2026 | IT Athens | Athens |
 
 ## Recently played
 

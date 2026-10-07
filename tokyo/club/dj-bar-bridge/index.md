@@ -1,8 +1,8 @@
 # DJ Bar Bridge
 
-DJ Bar Bridge is a music venue in Tokyo with 46 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "HIROSHI KAWANABE & K404" on Wed, 7 Oct 2026.
+DJ Bar Bridge is a music venue in Tokyo with 47 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "HIROSHI KAWANABE & K404" on Wed, 7 Oct 2026.
 
-DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 46 upcoming gigs, with line-ups including Anthony Parasole, Dazzle Drums, DJ Emma and DJ Fire and 2 more. See dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
+DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 47 upcoming gigs, with line-ups including Anthony Parasole, Dazzle Drums, DJ Emma and DJ Fire and 2 more. See dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
 
 ## What's on
 

@@ -11,7 +11,7 @@ David J Newton is a progressive house and minimal techno artist based in United 
 | Sat, 10 Oct 2026 | Kashmir Lounge | Amsterdam |
 | Sat, 17 Oct 2026 | Kashmir Lounge | Amsterdam |
 | Sat, 24 Oct 2026 | Akhnaton | Amsterdam |
-| Sun, 25 Oct 2026 |  | Amsterdam |
+| Sun, 25 Oct 2026 | 50:Hertz House & Techno Club Rembrandt Square | Amsterdam |
 | Sat, 7 Nov 2026 | TEMPLE | Lisbon |
 
 ## Shares bills with

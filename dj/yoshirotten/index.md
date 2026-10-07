@@ -1,14 +1,15 @@
 # YOSHIROTTEN
 
-YOSHIROTTEN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Daikanyama ORD., Tokyo on Fri, 9 Oct 2026.
+YOSHIROTTEN is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Daikanyama ORD., Tokyo on Fri, 9 Oct 2026.
 
-YOSHIROTTEN is a house and techno artist based in Japan, with 30 gigs on soundcheck across Tokyo. Often billed alongside KZA, JUN INAGAWA and Licaxxx. Next up: Daikanyama ORD., Tokyo on Fri 9 Oct.
+YOSHIROTTEN is a house and techno artist based in Japan, with 31 gigs on soundcheck across Tokyo. Often billed alongside KZA, JUN INAGAWA and Licaxxx. Next up: Daikanyama ORD., Tokyo on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Daikanyama ORD. | Tokyo |
+| Sat, 28 Nov 2026 | DJ Bar Bridge | Tokyo |
 
 ## Recently played
 

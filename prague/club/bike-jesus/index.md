@@ -17,7 +17,7 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 11 upcoming gigs, wi
 | Sat, 24 Oct 2026 | VOID x Decadance with Barbellay, Fantomass, Keporkak, MURKEZZI, VOID RIDER | Barbellay, CRY.NN, Fantomass, Keporkak, MURKEZZI, VOID RIDER |
 | Fri, 30 Oct 2026 | glitter.hit meets Transatlantic: Europa + Freestyler + Lux18 + Rama + domizako + TBA | Europa (1), Freestyler (2), Lux18, Rama (2), domizako |
 | Sat, 31 Oct 2026 | ƑƩⱮӾႠӨⱤƩ: Ӈలҝลţల ርลไไĬתּဌ | Mother Menace, SAVBEA, XENEA LUMRA |
-| Fri, 6 Nov 2026 | LYRA with FUNK 'D' VOID | Funk D'Void, Ondrej Husak, Rico Casazza, Roman Rai, Smeti, Täino |
+| Fri, 6 Nov 2026 | LYRA with FUNK D' VOID | Funk D'Void, Ondrej Husak, Rico Casazza, Roman Rai, Smeti, Täino |
 
 ## Address
 

@@ -1,0 +1,16 @@
+# Rickey Shannon, YUKI, HEART♡CATCH & VINCENT FAVARD at DJ Bar Bridge
+
+Rickey Shannon, YUKI, HEART♡CATCH & VINCENT FAVARD at DJ Bar Bridge on Sat 31 Oct, Tokyo. 2 artists: Rickey Shannon and YUKI (JP). House. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 31 Oct 2026 |
+| Venue | DJ Bar Bridge |
+| City | Tokyo |
+
+## Line-up
+
+- Rickey Shannon
+- YUKI (JP)
+
+*Source: [soundcheck](https://soundcheck.club/e/2545622-rickey-shannon-yuki-heart-catch-vincent-favard-at-dj-bar-bri/)*

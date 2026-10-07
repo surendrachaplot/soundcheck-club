@@ -1,14 +1,15 @@
 # Bobby.
 
-Bobby. is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri, 9 Oct 2026.
+Bobby. is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri, 9 Oct 2026.
 
-Bobby. is a techno and house artist based in United Kingdom, with 145 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 30 more. Often billed alongside Craig Richards, Mariiin and Harry McCanna. Next up: Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri 9 Oct.
+Bobby. is a house and techno artist based in United Kingdom, with 146 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 31 more. Often billed alongside Craig Richards, Mariiin and Harry McCanna. Next up: Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Les Beaux-Arts de Marseille - Inseamm. | Marseille |
+| Fri, 9 Oct 2026 | Legal | Munich |
 | Fri, 16 Oct 2026 | The Loft | Manchester |
 | Sat, 17 Oct 2026 | fabric | London |
 | Sat, 24 Oct 2026 | TBA | Amsterdam |

@@ -13,8 +13,8 @@ Cakeshop is a music venue in Seoul listed on soundcheck. 8 upcoming gigs, with l
 | Sat, 10 Oct 2026 | Darklight Drum and Bass: Dillinja (Valve, Metalheadz, V Recordings) + Guests | Dillinja |
 | Thu, 15 Oct 2026 | FENG Weekend Rockstar Asia - SEOUL | AUS10 |
 | Sat, 17 Oct 2026 | Cakeshop 14th anniv at Cake and Pistil |  |
-| Fri, 23 Oct 2026 | Cakeshop presents: Evian Christ | Evian Christ |
-| Fri, 6 Nov 2026 | Breaks & Kimchi present Neffa-T | HASHTAGPOPE, MOONICE, Neffa-T, Nimvy, RAFA (KR), Tabris, untitled (2) |
+| Fri, 23 Oct 2026 | Cakeshop presents: Evian Christ | Evian Christ, Paola (1), Simo (1), Tabris, Wona |
+| Fri, 6 Nov 2026 | Neffa-T: More Breaks & Kimchi Factory Homies present | HASHTAGPOPE, MOONICE, Neffa-T, Nimvy, RAFA (KR), Tabris, untitled (2) |
 | Sat, 12 Dec 2026 | DHJ OPEN CALL FOR A DJ #2 |  |
 
 ## Address

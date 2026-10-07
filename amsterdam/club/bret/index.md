@@ -17,7 +17,7 @@ BRET is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, with 
 | Sat, 24 Oct 2026 | ADE - VBX - SATURDAY DAY  | Cap, Desyn, Grant Dell, H-Foundation, Hannecart, Ion Ludwig, Mayell |
 | Sat, 24 Oct 2026 | DAYCARE x ADE | Bastienne, Mahabe, Phara, Shaleen, Tommy Four Seven |
 | Sun, 25 Oct 2026 | SLPFNK - BRET ADE |  |
-| Sun, 25 Oct 2026 | ADE Sunday with Joseph Capriati | Cristina Lazic, Joseph Capriati |
+| Sun, 25 Oct 2026 | ADE Sunday with Joseph Capriati (SOLD OUT) | Cristina Lazic, Joseph Capriati |
 
 ## Address
 

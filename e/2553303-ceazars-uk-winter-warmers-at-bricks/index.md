@@ -1,6 +1,6 @@
 # Ceazars Uk: Winter Warmers at Bricks
 
-Ceazars Uk: Winter Warmers at Bricks on Fri 27 Nov, London. See the line-up on soundcheck.
+Ceazars Uk: Winter Warmers at Bricks on Fri 27 Nov, London. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Acud Macht NEU
 
-Acud Macht NEU is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "The Bliss x Acud Club" on Thu, 8 Oct 2026.
+Acud Macht NEU is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "The Bliss x Acud Club" on Thu, 8 Oct 2026.
 
-Acud Macht NEU is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including anna andersrum, Berenice, CCTV and Charlotte Lion and 2 more. See dates, start times and who's playing. Veteranenstraße 21, 10119 Berlin, Germany.
+Acud Macht NEU is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including anna andersrum, Berenice, CCTV and Charlotte Lion and 2 more. See dates, start times and who's playing. Veteranenstraße 21, 10119 Berlin, Germany.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Acud Macht NEU is a music venue in Berlin listed on soundcheck. 9 upcoming gigs,
 | Sun, 11 Oct 2026 | sunday school #25 |  |
 | Fri, 16 Oct 2026 | BURRE with Heavenphetamine |  |
 | Fri, 23 Oct 2026 | SYRUP - FLINTA* & Friends | Charlotte Lion, Dzoara, James Lotion, KETA PERRY, housekatze, maniaclina |
+| Sat, 24 Oct 2026 | Leonardo Das Cabrio & Friends |  |
 | Fri, 30 Oct 2026 | 'PERSIAN LOVE / SHAB SHOD HALLOWEEN: A Middle Eastern / SWANA Rave' with Milli (MEHMOONI LDN) | Milli |
 | Sat, 31 Oct 2026 | Psychopomps | HWXXNG, Memeshift, Sabiwa, mobin |
 | Thu, 12 Nov 2026 | punktò - BERLIN (€URO TOUR 2026) |  |

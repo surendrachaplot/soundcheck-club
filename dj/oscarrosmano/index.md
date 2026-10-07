@@ -9,7 +9,7 @@ Oscar Rosmano is a progressive house and minimal techno artist based in Portugal
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Akhnaton | Amsterdam |
-| Sun, 25 Oct 2026 |  | Amsterdam |
+| Sun, 25 Oct 2026 | 50:Hertz House & Techno Club Rembrandt Square | Amsterdam |
 | Sat, 7 Nov 2026 | TEMPLE | Lisbon |
 
 ## Recently played

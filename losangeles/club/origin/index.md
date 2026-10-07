@@ -1,13 +1,16 @@
 # Origin
 
-Origin is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "The MAZE Festival: Arts District Halloween Block Party" on Sat, 31 Oct 2026.
+Origin is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "MRAK: ORIGIN Opening Weekend" on Fri, 9 Oct 2026.
 
-Origin is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Araminta, Bones, Claude VonStroke and Cquestt and 2 more. See dates, start times and who's playing. 613 Imperial St., Los Angeles, CA 90021.
+Origin is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs, with line-ups including Araminta, Bones, Claude VonStroke and Cquestt and 2 more. See dates, start times and who's playing. 613 Imperial St., Los Angeles, CA 90021.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | MRAK: ORIGIN Opening Weekend | MRAK |
+| Sat, 10 Oct 2026 | Liva K + Malive: ORIGIN Opening Weekend DAYTIME | Liva K, Malive |
+| Sat, 10 Oct 2026 | Kölsch: ORIGIN Opening Weekend | Kölsch |
 | Sat, 31 Oct 2026 | The MAZE Festival: Arts District Halloween Block Party | Araminta, Bones, Claude VonStroke, Porky, The Blaze |
 | Wed, 25 Nov 2026 | Fixture Invites Hotties: ØTTA & Cquestt | Cquestt, ØTTA |
 

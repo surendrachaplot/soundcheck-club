@@ -9,7 +9,7 @@ Tom Banner is a progressive house and deep house artist based in United Kingdom,
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Akhnaton | Amsterdam |
-| Sun, 25 Oct 2026 |  | Amsterdam |
+| Sun, 25 Oct 2026 | 50:Hertz House & Techno Club Rembrandt Square | Amsterdam |
 
 ## Recently played
 

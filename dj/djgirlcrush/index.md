@@ -14,7 +14,7 @@ DJ girlcrush is a techno and house artist based in United States of America, wit
 
 ## Recently played
 
-- Selva NYC, New York City · Tue, 6 Oct 2026
+- Honey's, New York City · Tue, 6 Oct 2026
 - Jupiter Disco, New York City · Sat, 19 Sept 2026
 - Bossa Nova Civic Club, New York City · Thu, 3 Sept 2026
 - Selva NYC, New York City · Tue, 1 Sept 2026

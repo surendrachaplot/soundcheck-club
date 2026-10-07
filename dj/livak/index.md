@@ -1,14 +1,15 @@
 # Liva K
 
-Liva K is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Westlight Rooftop at The William Vale, New York City on Fri, 9 Oct 2026.
+Liva K is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Westlight Rooftop at The William Vale, New York City on Fri, 9 Oct 2026.
 
-Liva K is an afro house and house artist based in Greece, with 86 gigs on soundcheck across Amsterdam, Athens, Austin and Basel and 21 more. Often billed alongside Black Coffee, Bedouin and Damian Lazarus. Next up: Westlight Rooftop at The William Vale, New York City on Fri 9 Oct.
+Liva K is an afro house and house artist based in Greece, with 87 gigs on soundcheck across Amsterdam, Athens, Austin and Basel and 21 more. Often billed alongside Black Coffee, Bedouin and Damian Lazarus. Next up: Westlight Rooftop at The William Vale, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Westlight Rooftop at The William Vale | New York City |
+| Sat, 10 Oct 2026 | ORIGIN | Los Angeles |
 
 ## Recently played
 

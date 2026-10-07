@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Paranoid x observer Pres/ Montero - Dzeko - Cono | Cono (3), Dzeko, Montero |
 | Fri, 16 Oct 2026 | Atman · Mutul · Aman Dava Live at 7833 Soundlab Barcelona | Aman Dava, Atman, Mutul |
-| Sat, 17 Oct 2026 | Swag |  |
+| Sat, 17 Oct 2026 | Swag | KARI (Ø) |
 | Fri, 23 Oct 2026 | Lunaticos Barcelona/ Deiv schön - Orakle - Frucula Live at 78/33 Soundlab  | Deiv Schon, Frucula |
 
 ## Address

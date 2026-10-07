@@ -10,7 +10,7 @@ Jaap Ligthart is a progressive house and techno artist based in Netherlands, wit
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Akhnaton | Amsterdam |
 | Sun, 25 Oct 2026 | Veronica Schip | Amsterdam |
-| Sun, 25 Oct 2026 |  | Amsterdam |
+| Sun, 25 Oct 2026 | 50:Hertz House & Techno Club Rembrandt Square | Amsterdam |
 
 ## Recently played
 

@@ -10,7 +10,7 @@ Pracht is a music venue in Frankfurt listed on soundcheck. 9 upcoming gigs, with
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | THURSDAY - SINGLES LOVE TECHNO at Pracht with DJ LUNIS |  |
 | Fri, 9 Oct 2026 | Pracht PRES. with Predex & YARI | Predex |
-| Sat, 10 Oct 2026 | PrachtNACHT with Lexer, Clavia., Yan Deno | Lexer |
+| Sat, 10 Oct 2026 | Pracht B-DAY with Lexer, Clavia., Yan Deno | Lexer |
 | Fri, 16 Oct 2026 | Pracht PRES. with Daughter In Law, RIHANI & BRAUN, NØAH | Daughter In Law |
 | Sat, 17 Oct 2026 | PrachtNACHT with Einmusik, Claudius, stefan mueller // ᴛɪᴄᴋᴇᴛꜱ ᴏɴ ꜱᴀʟᴇ ɴᴏᴡ | Claudius (DE), Einmusik, stefan mueller |
 | Fri, 23 Oct 2026 | Pracht PRES. with Gunnar Stiller, Tobias Sommer, LIZZN | Gunnar Stiller, LIZZN, Tobias Sommer |

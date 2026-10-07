@@ -13,7 +13,7 @@ NOIYSE PROJECT is a progressive house and techno artist based in Sri Lanka, with
 | Fri, 23 Oct 2026 | Veronica Schip | Amsterdam |
 | Sat, 24 Oct 2026 | Akhnaton | Amsterdam |
 | Sat, 24 Oct 2026 | Kadinsky Cafe | Amsterdam |
-| Sun, 25 Oct 2026 |  | Amsterdam |
+| Sun, 25 Oct 2026 | 50:Hertz House & Techno Club Rembrandt Square | Amsterdam |
 
 ## Recently played
 

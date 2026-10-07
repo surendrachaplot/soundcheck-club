@@ -1,8 +1,8 @@
 # Alex Wann
 
-Alex Wann is a Afro House and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Ivy, Sydney on Sat, 10 Oct 2026.
+Alex Wann is a Afro House and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Ivy, Sydney on Sat, 10 Oct 2026.
 
-Alex Wann is an afro house and house artist based in France, with 148 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 43 more. Often billed alongside Notre Dame, Andrea Oliva and Francis Mercier. Next up: The Ivy, Sydney on Sat 10 Oct.
+Alex Wann is an afro house and house artist based in France, with 149 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 43 more. Often billed alongside Notre Dame, Andrea Oliva and AMÉMÉ. Next up: The Ivy, Sydney on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Alex Wann is an afro house and house artist based in France, with 148 gigs on so
 | Sat, 10 Oct 2026 | The Ivy | Sydney |
 | Sun, 11 Oct 2026 | Revolver Upstairs | Melbourne |
 | Fri, 16 Oct 2026 | Westlight Rooftop at The William Vale | New York City |
+| Fri, 23 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Fri, 6 Nov 2026 | Future Nightlife | Toronto |
@@ -31,6 +32,6 @@ Alex Wann is an afro house and house artist based in France, with 148 gigs on so
 
 ## Shares bills with
 
-Notre Dame, Andrea Oliva, Francis Mercier
+Notre Dame, Andrea Oliva, AMÉMÉ
 
 *Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwann/)*

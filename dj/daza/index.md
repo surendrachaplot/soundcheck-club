@@ -1,8 +1,8 @@
 # DAZA
 
-DAZA is a Techno and Minimal artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Marmorbar, Berlin on Fri, 9 Oct 2026.
+DAZA is a Techno and Minimal artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Marmorbar, Berlin on Fri, 9 Oct 2026.
 
-DAZA is a techno and minimal artist based in Colombia, with 136 gigs on soundcheck across Barcelona, Berlin, Leipzig and Paris. Often billed alongside Daniel Jaramillo, Sika Akis and Basstronauten. Next up: Marmorbar, Berlin on Fri 9 Oct.
+DAZA is a techno and minimal artist based in Colombia, with 137 gigs on soundcheck across Barcelona, Berlin, Leipzig and Paris. Often billed alongside Daniel Jaramillo, Sika Akis and Basstronauten. Next up: Marmorbar, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DAZA is a techno and minimal artist based in Colombia, with 136 gigs on soundche
 | Fri, 23 Oct 2026 | Minimal Bar | Berlin |
 | Fri, 30 Oct 2026 | Der Weiße Hase | Berlin |
 | Sat, 7 Nov 2026 | Minimal Bar | Berlin |
+| Sat, 5 Dec 2026 | Minimal Bar | Berlin |
 
 ## Recently played
 

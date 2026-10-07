@@ -1,14 +1,15 @@
 # S1LVERLUV
 
-S1LVERLUV is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Cakeshop, Seoul on Fri, 9 Oct 2026.
+S1LVERLUV is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Cakeshop, Seoul on Fri, 9 Oct 2026.
 
-S1LVERLUV is a techno and hardcore artist based in France, with 12 gigs on soundcheck across Seoul. Often billed alongside D.E.F, Rivako and PONGPONG. Next up: Cakeshop, Seoul on Fri 9 Oct.
+S1LVERLUV is a techno and hardcore artist based in France, with 13 gigs on soundcheck across Seoul. Often billed alongside D.E.F, Rivako and PONGPONG. Next up: Cakeshop, Seoul on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Cakeshop | Seoul |
+| Sat, 10 Oct 2026 | Luka | Seoul |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # Valentina Magaletti
 
-Valentina Magaletti is a Experimental and Electronica artist with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Voce - Triennale, Milan on Sat, 17 Oct 2026.
+Valentina Magaletti is a Experimental and Electronica artist with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Carhartt WIP Store, Warsaw on Thu, 15 Oct 2026.
 
-Valentina Magaletti is an experimental and electronica artist based in Italy, with 77 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 28 more. Often billed alongside upsammy, Al Wootton and ojoo. Next up: Voce - Triennale, Milan on Sat 17 Oct.
+Valentina Magaletti is an experimental and electronica artist based in Italy, with 78 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside upsammy, Al Wootton and ojoo. Next up: Carhartt WIP Store, Warsaw on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 15 Oct 2026 | Carhartt WIP Store | Warsaw |
 | Sat, 17 Oct 2026 | Voce - Triennale | Milan |
 | Fri, 23 Oct 2026 | public records | New York City |
 | Thu, 29 Oct 2026 | TBA - Various Venues, Guimarães, PT | Portugal |

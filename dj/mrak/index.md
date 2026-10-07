@@ -1,13 +1,14 @@
 # MRAK
 
-MRAK is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Industry City, New York City on Sat, 10 Oct 2026.
+MRAK is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at ORIGIN, Los Angeles on Fri, 9 Oct 2026.
 
-MRAK is a techno and electronica artist based in Germany, with 32 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 15 more. Often billed alongside Tale Of Us, Anyma and Argy. Next up: Industry City, New York City on Sat 10 Oct.
+MRAK is a techno and house artist based in Germany, with 33 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 16 more. Often billed alongside Tale Of Us, Anyma and Argy. Next up: ORIGIN, Los Angeles on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | ORIGIN | Los Angeles |
 | Sat, 10 Oct 2026 | Industry City | New York City |
 | Fri, 30 Oct 2026 | Parc del Fòrum | Barcelona |
 

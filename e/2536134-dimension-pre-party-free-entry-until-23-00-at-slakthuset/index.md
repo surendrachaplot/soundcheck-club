@@ -1,0 +1,11 @@
+# DIMENSION - PRE PARTY - FREE ENTRY UNTIL 23:00 at Slakthuset
+
+DIMENSION - PRE PARTY - FREE ENTRY UNTIL 23:00 at Slakthuset on Fri 13 Nov, Stockholm. Techno. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 13 Nov 2026 |
+| Venue | Slakthuset |
+| City | Stockholm |
+
+*Source: [soundcheck](https://soundcheck.club/e/2536134-dimension-pre-party-free-entry-until-23-00-at-slakthuset/)*

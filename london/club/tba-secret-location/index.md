@@ -1,8 +1,8 @@
 # TBA - Secret Location 
 
-TBA - Secret Location  is a music venue in London with 59 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "KODE - KAIXA ESQUERDA - RJ" on Fri, 9 Oct 2026.
+TBA - Secret Location  is a music venue in London with 60 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "KODE - KAIXA ESQUERDA - RJ" on Fri, 9 Oct 2026.
 
-TBA - Secret Location  is a music venue in London listed on soundcheck. 59 upcoming gigs, with line-ups including .cosm, The AM/AMX, Aleakim and Alena Vox and 2 more. See dates, start times and who's playing.
+TBA - Secret Location  is a music venue in London listed on soundcheck. 60 upcoming gigs, with line-ups including .cosm, The AM/AMX, Aleakim and Alena Vox and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

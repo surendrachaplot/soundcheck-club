@@ -1,6 +1,6 @@
 # Parable & Louder Halloween: Colyn, Henri Bergmann, Everything Is Art at E1
 
-Parable & Louder Halloween: Colyn, Henri Bergmann, Everything Is Art at E1 on Fri 30 Oct, London. 5 artists: Cast Lov, Colyn, Everything Is ART and Henri Bergmann and 1 more. Techno. See the line-up on soundcheck.
+Parable & Louder Halloween: Colyn, Henri Bergmann, Everything Is Art at E1 on Fri 30 Oct, London. 5 artists: Cast Lov, Colyn, Everything Is ART and Henri Bergmann and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

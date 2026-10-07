@@ -13,7 +13,7 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 26 upcoming gi
 | Fri, 9 Oct 2026 | mantle: ophélie 𖦹 Feena | Feena, ophélie |
 | Sat, 10 Oct 2026 | The Mirror Dance 9th Birthday: Make A Dance | Make A Dance |
 | Sun, 11 Oct 2026 | Postal: JI_2001 b2b Wrisk | JI_2001, Wrisk |
-| Tue, 13 Oct 2026 | RARE CLUB // Pretty Girl (DJ) | Pretty Girl |
+| Tue, 13 Oct 2026 | RARE CLUB // Pretty Girl (DJ) + Maya Hacker | Maya Hacker, Pretty Girl |
 | Wed, 14 Oct 2026 | Buckley Curates: Buckley B2B Dyslecta B2B harpriya (All Night Long) | Buckley (UK), Dyslecta, harpriya |
 | Fri, 16 Oct 2026 | discotia 010: VO!D D!SCO (Jane Darke & JON KRIEGER) | JON KRIEGER, Jane Darke, discotia |
 | Sun, 18 Oct 2026 | Romare: Free Time – Edinburgh | Romare |

@@ -1,14 +1,16 @@
 # Jucid
 
-Jucid is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 5 Oct 2026.
+Jucid is a House and Club artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 5 Oct 2026.
 
-Jucid is a house and club artist based in South Korea, with 130 gigs on soundcheck across Hong Kong and Seoul. Often billed alongside Jesse You, Soyo and Acidwork. Next up: Stoked&stoned, Seoul on Mon 5 Oct.
+Jucid is a house and club artist based in South Korea, with 132 gigs on soundcheck across Hong Kong and Seoul. Often billed alongside Jesse You, Soyo and Acidwork. Next up: Stoked&stoned, Seoul on Mon 5 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 5 Oct 2026 | Stoked&stoned | Seoul |
+| Fri, 9 Oct 2026 | Hertz | Seoul |
+| Sat, 10 Oct 2026 | Nué Seoul | Seoul |
 | Sat, 31 Oct 2026 | Ring | Seoul |
 
 ## Recently played

@@ -1,13 +1,14 @@
 # Ayiaa
 
-Ayiaa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 31 Oct 2026.
+Ayiaa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Kolektor, Prague on Fri, 23 Oct 2026.
 
-Ayiaa is a techno and house artist based in Czech Republic, with 15 gigs on soundcheck across Prague. Often billed alongside Dash (CZ), Fembot and Shurigen. Next up: Ankali & Planeta Za, Prague on Sat 31 Oct.
+Ayiaa is a techno and house artist based in Czech Republic, with 16 gigs on soundcheck across Prague. Often billed alongside Dash (CZ), Fembot and Shurigen. Next up: Kolektor, Prague on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Kolektor | Prague |
 | Sat, 31 Oct 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played

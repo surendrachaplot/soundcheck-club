@@ -1,8 +1,8 @@
 # Rufo
 
-Rufo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 8 Oct 2026.
+Rufo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 8 Oct 2026.
 
-Rufo is a house and techno artist based in Peru, with 48 gigs on soundcheck across Barcelona, Edinburgh, Lisbon and London and 4 more. Often billed alongside Onoffon, Sebastián and Christian Arcila. Next up: 303 Audiophile Bar, Barcelona on Thu 8 Oct.
+Rufo is a house and techno artist based in Peru, with 49 gigs on soundcheck across Barcelona, Edinburgh, Lisbon and London and 4 more. Often billed alongside Onoffon, Sebastián and Christian Arcila. Next up: 303 Audiophile Bar, Barcelona on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Rufo is a house and techno artist based in Peru, with 48 gigs on soundcheck acro
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | 303 Audiophile Bar | Barcelona |
 | Fri, 16 Oct 2026 | 5A | Lisbon |
+| Sat, 7 Nov 2026 | The Glove That Fits | London |
 
 ## Recently played
 

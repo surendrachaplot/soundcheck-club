@@ -1,13 +1,14 @@
 # AERAE
 
-AERAE is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 9 Oct 2026.
+AERAE is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Atdge Seoul, Seoul on Wed, 7 Oct 2026.
 
-AERAE is a techno and drum & bass artist based in France, with 27 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside upsammy, Aaron J and Konduku. Next up: MIDNIGHT EAST, Tokyo on Fri 9 Oct.
+AERAE is a techno and drum & bass artist based in France, with 28 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside upsammy, Aaron J and Konduku. Next up: Atdge Seoul, Seoul on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 7 Oct 2026 | Atdge Seoul | Seoul |
 | Fri, 9 Oct 2026 | MIDNIGHT EAST | Tokyo |
 
 ## Recently played

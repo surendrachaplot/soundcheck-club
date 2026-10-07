@@ -1,6 +1,6 @@
 # Strictly Bangerz Indoor Winter Festival at SWG3
 
-Strictly Bangerz Indoor Winter Festival at SWG3 on Fri 4 Dec, Glasgow. 7 artists: AMMARA, Don X, Giuseppe Ottaviani and Levelz and 3 more. Trance. See the line-up on soundcheck.
+Strictly Bangerz Indoor Winter Festival at SWG3 on Fri 4 Dec, Glasgow. 8 artists: AMMARA, Don X, Giuseppe Ottaviani and Levelz and 4 more. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ Strictly Bangerz Indoor Winter Festival at SWG3 on Fri 4 Dec, Glasgow. 7 artists
 - Levelz
 - Mha iri
 - Scot Project
+- Shugz
 - t e s t p r e s s
 
 *Source: [soundcheck](https://soundcheck.club/e/2524348-strictly-bangerz-indoor-winter-festival-at-swg3/)*

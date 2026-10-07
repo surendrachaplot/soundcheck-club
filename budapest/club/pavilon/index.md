@@ -10,7 +10,7 @@ Pavilon is a music venue in Budapest listed on soundcheck. 3 upcoming gigs, with
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Chily Team a Pavilonban |  |
 | Sat, 10 Oct 2026 | Vinyl set at Pavilon Bar |  |
-| Thu, 15 Oct 2026 | Pavilon Bar Closing Party 2019-2026 | Ben Dover, Blackman, DJ Boka, Kornwall, Oliver SCH, Swain, Toro Lomo, Woody, alma |
+| Thu, 15 Oct 2026 | Pavilon Bar Closing Party 2019-2026 | Ben Dover, Blackman, DJ Boka, Kornwall, Oliver SCH, Swain, Toro Lomo, alma |
 
 ## Address
 

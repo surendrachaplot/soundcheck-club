@@ -1,8 +1,8 @@
 # Ave (DE)
 
-Ave (DE) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Bootshaus, Cologne on Sat, 31 Oct 2026.
+Ave (DE) is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Bootshaus, Cologne on Sat, 31 Oct 2026.
 
-Ave (DE) is a techno and house artist based in Germany, with 22 gigs on soundcheck across Berlin, Cologne, Frankfurt and Leipzig and 3 more. Often billed alongside ZEUZ, A.N.I. and Charleen Herzig. Next up: Bootshaus, Cologne on Sat 31 Oct.
+Ave (DE) is a techno and house artist based in Germany, with 23 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside ZEUZ, A.N.I. and Charleen Herzig. Next up: Bootshaus, Cologne on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ave (DE) is a techno and house artist based in Germany, with 22 gigs on soundche
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Bootshaus | Cologne |
 | Sat, 31 Oct 2026 | Wagenhallen | Stuttgart |
+| Sat, 7 Nov 2026 | Uebel & Gefährlich | Hamburg |
 | Sat, 28 Nov 2026 | Sky Club | Leipzig |
 
 ## Recently played

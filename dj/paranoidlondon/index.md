@@ -1,8 +1,8 @@
 # Paranoid London
 
-Paranoid London is a Techno and Acid artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The British Engineerium, Brighton on Sat, 17 Oct 2026.
+Paranoid London is a Techno and Acid artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The British Engineerium, Brighton on Sat, 17 Oct 2026.
 
-Paranoid London is a techno and acid artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Palms Trax, Soul Clap and Elena Colombi. Next up: The British Engineerium, Brighton on Sat 17 Oct.
+Paranoid London is a techno and acid artist based in United Kingdom, with 126 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Palms Trax, Soul Clap and Elena Colombi. Next up: The British Engineerium, Brighton on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Paranoid London is a techno and acid artist based in United Kingdom, with 125 gi
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | The British Engineerium | Brighton |
 | Wed, 21 Oct 2026 | Het Dorp | Amsterdam |
+| Thu, 22 Oct 2026 | Nxt Museum | Amsterdam |
 | Fri, 23 Oct 2026 | TRAUM | Antwerp |
 | Thu, 29 Oct 2026 | El Rio Hostel | Colombia |
 | Fri, 6 Nov 2026 | Beaver Works | Leeds |

@@ -1,14 +1,15 @@
 # Meeshy
 
-Meeshy is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
+Meeshy is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
 
-Meeshy is a tech house and house artist based in United Kingdom, with 46 gigs on soundcheck across Amsterdam, Birmingham, Ibiza and London and 3 more. Often billed alongside hitty, Djammin and Shenin Amara. Next up: Hï Ibiza, Ibiza on Fri 9 Oct.
+Meeshy is a tech house and house artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Birmingham, Ibiza and London and 3 more. Often billed alongside hitty, Djammin and Shenin Amara. Next up: Hï Ibiza, Ibiza on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Hï Ibiza | Ibiza |
+| Sat, 31 Oct 2026 | Ministry Of Sound | London |
 | Sat, 28 Nov 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played

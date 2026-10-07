@@ -1,8 +1,8 @@
 # The Cause
 
-The Cause is a music venue in London with 30 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Gray presents: Antisocial Sound - London" on Fri, 9 Oct 2026.
+The Cause is a music venue in London with 31 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Gray presents: Antisocial Sound - London" on Fri, 9 Oct 2026.
 
-The Cause is a music venue in London listed on soundcheck. 30 upcoming gigs, with line-ups including 4000 Hz, 808 State, KT and Acid Sally and 2 more. See dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
+The Cause is a music venue in London listed on soundcheck. 31 upcoming gigs, with line-ups including 4000 Hz, 808 State, KT and Acid Sally and 2 more. See dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
 
 ## What's on
 

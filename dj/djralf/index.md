@@ -1,14 +1,15 @@
 # DJ Ralf
 
-DJ Ralf is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at STEREO, London on Sun, 11 Oct 2026.
+DJ Ralf is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at STEREO, London on Sun, 11 Oct 2026.
 
-DJ Ralf is a house and techno artist based in Italy, with 21 gigs on soundcheck across Barcelona, Berlin, London and Madrid and 4 more. Often billed alongside Germano Ventura, Arvenn and Cristina Tosio. Next up: STEREO, London on Sun 11 Oct.
+DJ Ralf is a house and techno artist based in Italy, with 22 gigs on soundcheck across Barcelona, Berlin, London and Madrid and 4 more. Often billed alongside Germano Ventura, Arvenn and Cristina Tosio. Next up: STEREO, London on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | STEREO | London |
+| Sat, 2 Jan 2027 | Tempio del Futuro Perduto | Milan |
 
 ## Recently played
 

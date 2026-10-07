@@ -1,6 +1,6 @@
 # CLUBHOUSE Halloween: Family-Friendly Fright Festival at East London Brewing Company
 
-CLUBHOUSE Halloween: Family-Friendly Fright Festival at East London Brewing Company on Sat 31 Oct, London. 8 artists: Alien Communications, E. Alexander, Maybe Laura and NVWLS and 4 more. Techno and House. See the line-up on soundcheck.
+CLUBHOUSE Halloween: Family-Friendly Fright Festival at East London Brewing Company on Sat 31 Oct, London. 7 artists: Alien Communications, DMX Krew, E. Alexander and Maybe Laura and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,11 +11,10 @@ CLUBHOUSE Halloween: Family-Friendly Fright Festival at East London Brewing Comp
 ## Line-up
 
 - Alien Communications
+- DMX Krew
 - E. Alexander
 - Maybe Laura
 - NVWLS
-- Ralph Lawson
-- Secretsundaze
 - Ste Roberts
 - Theo Kottis
 

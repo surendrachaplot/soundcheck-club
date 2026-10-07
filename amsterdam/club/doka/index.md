@@ -17,7 +17,7 @@ Doka is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with 
 | Thu, 22 Oct 2026 | United Identities x Doka Studio [ADE] | Anz, CARISTA, Conrad Soundsystem, LE KACANG, Scalio |
 | Fri, 23 Oct 2026 | Cooking with Palms Trax x Doka Studio [ADE] (SOLD OUT) | Palms Trax |
 | Sat, 24 Oct 2026 | Kiosk Radio x The Lot Radio x Doka Culture live stream [ADE] |  |
-| Sat, 24 Oct 2026 | Kiosk Radio x The Lot Radio x Doka Studio [ADE] | Lloydski, Orpheu The Wizard, babyschön, livwutang |
+| Sat, 24 Oct 2026 | Kiosk Radio x The Lot Radio w/ livwutang - Orpheu The Wizard b2b Lloyd - babyschön [ADE] | Lloydski, Orpheu The Wizard, babyschön, livwutang |
 
 ## Address
 

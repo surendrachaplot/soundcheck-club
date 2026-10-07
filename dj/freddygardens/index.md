@@ -1,14 +1,15 @@
 # Freddy Gardens
 
-Freddy Gardens is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 16 Oct 2026.
+Freddy Gardens is a House and Balearic artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 16 Oct 2026.
 
-Freddy Gardens is a house and balearic artist based in Australia, with 22 gigs on soundcheck across Melbourne, Seoul and Sydney. Often billed alongside Proto-Exotica, Princey and Porcelain Prince. Next up: Angel Music Bar, Melbourne on Fri 16 Oct.
+Freddy Gardens is a house and balearic artist based in Australia, with 23 gigs on soundcheck across Melbourne, Seoul and Sydney. Often billed alongside Proto-Exotica, Princey and Porcelain Prince. Next up: Angel Music Bar, Melbourne on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Angel Music Bar | Melbourne |
+| Sun, 18 Oct 2026 | Runner Up Rooftop Bar | Melbourne |
 | Fri, 13 Nov 2026 | Angel Music Bar | Melbourne |
 
 ## Recently played

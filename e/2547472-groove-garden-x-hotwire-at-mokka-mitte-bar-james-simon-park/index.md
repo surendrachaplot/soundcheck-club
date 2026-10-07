@@ -1,6 +1,6 @@
 # GROOVE GARDEN x HOTWIRE at Mokka Mitte Bar / James Simon Park
 
-GROOVE GARDEN x HOTWIRE at Mokka Mitte Bar / James Simon Park on Sat 10 Oct, Berlin. 7 artists: Akustikzz, Alex Friday, ELZIRΛ and Filialleiter and 3 more. Techno. See the line-up on soundcheck.
+GROOVE GARDEN x HOTWIRE at Mokka Mitte Bar / James Simon Park on Sat 10 Oct, Berlin. 8 artists: Akustikzz, Alex Friday, DØME and ELZIRΛ and 4 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ GROOVE GARDEN x HOTWIRE at Mokka Mitte Bar / James Simon Park on Sat 10 Oct, Ber
 
 - Akustikzz
 - Alex Friday
+- DØME
 - ELZIRΛ
 - Filialleiter
 - KINTEL

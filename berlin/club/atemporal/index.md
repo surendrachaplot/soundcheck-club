@@ -15,7 +15,7 @@ Atemporal is a music venue in Berlin listed on soundcheck. 8 upcoming gigs. See 
 | Sun, 11 Oct 2026 | Egosex Live x Tourist x Atemporal |  |
 | Tue, 13 Oct 2026 | Living Room Meditation- Mindfulness, Somatic Practice & Sound |  |
 | Thu, 15 Oct 2026 | Don Alirio — Picó Sounds: Piconema – East African Hits |  |
-| Fri, 16 Oct 2026 | RÛVEYDA - A RITUAL OF VOICE |  |
+| Fri, 16 Oct 2026 | RÛVEYDA - A RITUAL OF VOICE live act + premier screening |  |
 
 ## Address
 

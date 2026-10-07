@@ -10,7 +10,7 @@ Sekta Selekta is a music venue in Krakow listed on soundcheck. 7 upcoming gigs, 
 | --- | --- | --- |
 | Wed, 7 Oct 2026 | The Unsound Train Afterparty at Sekta Selekta | Berna, Kondrat, Semprey, Wills Witbooi, faron |
 | Thu, 8 Oct 2026 | Sekta Selekta: jjvisionn, Prosto Dre | Prosto Dre |
-| Fri, 9 Oct 2026 | Seta Selekta: uiava, Art Duvalle, Nadezh No | Nadezh No, uiava |
+| Fri, 9 Oct 2026 | Seta Selekta: uiava, Art Duvelle, Nadezh No | Nadezh No, uiava |
 | Sat, 10 Oct 2026 | TAXOPHONE by Emil Zenko | BUDZKO, Emil Zenko, Sakrum |
 | Sat, 10 Oct 2026 | Unsound SOFT POWER Afters | Lil'Dave, Meke |
 | Sun, 11 Oct 2026 | Unsound SOFT POWER Afters | Badalian, Nadezh No |

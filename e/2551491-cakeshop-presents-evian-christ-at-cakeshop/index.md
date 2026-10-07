@@ -1,6 +1,6 @@
 # Cakeshop presents: Evian Christ at Cakeshop
 
-Cakeshop presents: Evian Christ on Fri 23 Oct, Seoul. 1 artist: Evian Christ. Trance and Bass. See the line-up on soundcheck.
+Cakeshop presents: Evian Christ on Fri 23 Oct, Seoul. 5 artists: Evian Christ, Paola, Simo and Tabris and 1 more. Trance and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,9 @@ Cakeshop presents: Evian Christ on Fri 23 Oct, Seoul. 1 artist: Evian Christ. Tr
 ## Line-up
 
 - Evian Christ
+- Paola (1)
+- Simo (1)
+- Tabris
+- Wona
 
 *Source: [soundcheck](https://soundcheck.club/e/2551491-cakeshop-presents-evian-christ-at-cakeshop/)*

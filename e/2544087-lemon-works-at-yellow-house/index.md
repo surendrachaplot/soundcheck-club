@@ -1,6 +1,6 @@
 # Lemon Works at Yellow House
 
-Lemon Works at Yellow House on Fri 16 Oct, Amsterdam. 1 artist: Mattia Rizzi. House and Electro. See the line-up on soundcheck.
+Lemon Works at Yellow House on Fri 16 Oct, Amsterdam. 2 artists: Mattia Rizzi and Max K. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Lemon Works at Yellow House on Fri 16 Oct, Amsterdam. 1 artist: Mattia Rizzi. Ho
 ## Line-up
 
 - Mattia Rizzi
+- Max K
 
 *Source: [soundcheck](https://soundcheck.club/e/2544087-lemon-works-at-yellow-house/)*

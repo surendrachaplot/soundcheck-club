@@ -1,13 +1,14 @@
 # Wilfy D
 
-Wilfy D is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Colour Factory, London on Sat, 28 Nov 2026.
+Wilfy D is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Ministry Of Sound, London on Sat, 31 Oct 2026.
 
-Wilfy D is a garage and house artist based in United Kingdom, with 45 gigs on soundcheck across Bristol, Leeds, London and Manchester and 2 more. Often billed alongside DJ Stolen, Tommy Gold and Elliot Schooling. Next up: Colour Factory, London on Sat 28 Nov.
+Wilfy D is a garage and house artist based in United Kingdom, with 46 gigs on soundcheck across Bristol, Leeds, London and Manchester and 2 more. Often billed alongside DJ Stolen, Tommy Gold and Elliot Schooling. Next up: Ministry Of Sound, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Ministry Of Sound | London |
 | Sat, 28 Nov 2026 | Colour Factory | London |
 
 ## Recently played

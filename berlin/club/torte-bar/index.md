@@ -1,6 +1,6 @@
 # TORTE BAR
 
-TORTE BAR is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "SLIME" on Wed, 28 Oct 2026.
+TORTE BAR is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "SLIME x XANTI" on Wed, 28 Oct 2026.
 
 TORTE BAR is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Chaosmos, Kidcat, lavv and Mister Teaser. See dates, start times and who's playing. Brusendorferstraße 11-12, Siegfried-Aufhäuser Platz, 12055 Berlin.
 
@@ -8,7 +8,7 @@ TORTE BAR is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 28 Oct 2026 | SLIME | Chaosmos, Mister Teaser |
+| Wed, 28 Oct 2026 | SLIME x XANTI | Chaosmos, Mister Teaser |
 | Thu, 29 Oct 2026 | Pleasure Pattern takeover | Kidcat, lavv |
 
 ## Address

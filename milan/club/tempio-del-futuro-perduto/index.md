@@ -2,7 +2,7 @@
 
 Tempio del Futuro Perduto is a music venue in Milan with 20 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Tempio Radio Notturna x Qloom: GLEDIS, Matteo Wnb, ZATAC" on Thu, 8 Oct 2026.
 
-Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 20 upcoming gigs, with line-ups including Alfa Cornae, Blunderr, cccre and Comrade Winston and 2 more. See dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
+Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 20 upcoming gigs, with line-ups including Acidalia, Alfa Cornae, Alimac and Berlin Bunny and 2 more. See dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
 
 ## What's on
 

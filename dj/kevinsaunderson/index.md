@@ -1,8 +1,8 @@
 # Kevin Saunderson
 
-Kevin Saunderson is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Discoteca Paradiso, Naples on Sat, 10 Oct 2026.
+Kevin Saunderson is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Discoteca Paradiso, Naples on Sat, 10 Oct 2026.
 
-Kevin Saunderson is a techno and house artist based in United States of America, with 119 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 33 more. Often billed alongside The Saunderson Brothers, Carl Craig and DJ Holographic. Next up: Discoteca Paradiso, Naples on Sat 10 Oct.
+Kevin Saunderson is a techno and house artist based in United States of America, with 120 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 33 more. Often billed alongside The Saunderson Brothers, Carl Craig and DJ Holographic. Next up: Discoteca Paradiso, Naples on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Kevin Saunderson is a techno and house artist based in United States of America,
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
 | Sun, 25 Oct 2026 | Madam | Amsterdam |
+| Sun, 25 Oct 2026 | Rush Hour | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 30 Oct 2026 | Lincoln Factory | Detroit |
 

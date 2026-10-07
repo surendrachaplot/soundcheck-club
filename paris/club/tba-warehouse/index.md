@@ -1,8 +1,8 @@
-# TBA - Warehouse
+# TBA - warehouse
 
-TBA - Warehouse is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Secret Warehouse Rave: Raw - Hypnotic - Groove" on Fri, 9 Oct 2026.
+TBA - warehouse is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Secret Warehouse Rave: Raw - Hypnotic - Groove" on Fri, 9 Oct 2026.
 
-TBA - Warehouse is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with line-ups including AEREA, Alex Stein, beta_phase and Blachord and 2 more. See dates, start times and who's playing.
+TBA - warehouse is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with line-ups including AEREA, Alex Stein, beta_phase and Blachord and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

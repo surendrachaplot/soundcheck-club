@@ -1,13 +1,14 @@
 # Conan
 
-Conan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Bolero, Seoul on Fri, 9 Oct 2026.
+Conan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Bolero, Seoul on Fri, 9 Oct 2026.
 
-Conan is a house and techno artist, with 171 gigs on soundcheck across Hong Kong, Kyoto, Paris and Seoul and 1 more. Often billed alongside RTRP, Gumi and dguru. Next up: Bolero, Seoul on Fri 9 Oct.
+Conan is a house and techno artist, with 172 gigs on soundcheck across Hong Kong, Kyoto, Paris and Seoul and 1 more. Often billed alongside RTRP, Gumi and dguru. Next up: Bolero, Seoul on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Bolero | Seoul |
 | Fri, 9 Oct 2026 | Bolero | Seoul |
 
 ## Recently played

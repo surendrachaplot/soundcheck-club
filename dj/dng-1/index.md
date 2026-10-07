@@ -1,8 +1,8 @@
 # DNG (1)
 
-DNG (1) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at WOMB, Tokyo on Thu, 15 Oct 2026.
+DNG (1) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at WOMB, Tokyo on Thu, 15 Oct 2026.
 
-DNG is a house and techno artist based in Japan, with 131 gigs on soundcheck across Berlin, Kyoto, Osaka and Tokyo. Often billed alongside Nari, KOTSU and Hayato. Next up: WOMB, Tokyo on Thu 15 Oct.
+DNG is a house and techno artist based in Japan, with 132 gigs on soundcheck across Berlin, Kyoto, Osaka and Tokyo. Often billed alongside Nari, KOTSU and Hayato. Next up: WOMB, Tokyo on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DNG is a house and techno artist based in Japan, with 131 gigs on soundcheck acr
 | Thu, 15 Oct 2026 | WOMB | Tokyo |
 | Fri, 16 Oct 2026 | MIDNIGHT EAST | Tokyo |
 | Sat, 24 Oct 2026 | DJ Bar Bridge | Tokyo |
+| Sun, 25 Oct 2026 | Toner | Tokyo |
 
 ## Recently played
 

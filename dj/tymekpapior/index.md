@@ -1,13 +1,14 @@
 # Tymek Papior
 
-Tymek Papior is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at K-Bar Powiśle, Warsaw on Fri, 16 Oct 2026.
+Tymek Papior is a Experimental and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Carhartt WIP Store, Warsaw on Thu, 15 Oct 2026.
 
-Tymek Papior is a drum & bass and bass artist, with 9 gigs on soundcheck across Krakow, London and Warsaw. Often billed alongside Natan Kryszk, A Guy Called Gerald and Assyouti. Next up: K-Bar Powiśle, Warsaw on Fri 16 Oct.
+Tymek Papior is an experimental and drum & bass artist, with 10 gigs on soundcheck across Krakow, London and Warsaw. Often billed alongside Natan Kryszk, A Guy Called Gerald and Assyouti. Next up: Carhartt WIP Store, Warsaw on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 15 Oct 2026 | Carhartt WIP Store | Warsaw |
 | Fri, 16 Oct 2026 | K-Bar Powiśle | Warsaw |
 
 ## Recently played

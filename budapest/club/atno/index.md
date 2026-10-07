@@ -1,8 +1,8 @@
 # Atno
 
-Atno is a music venue in Budapest with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Deepfields XIV" on Fri, 9 Oct 2026.
+Atno is a music venue in Budapest with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Deepfields XIV" on Fri, 9 Oct 2026.
 
-Atno is a music venue in Budapest listed on soundcheck. 9 upcoming gigs, with line-ups including Aikatherina, Akos V, Benc and Blackeye MC and 2 more. See dates, start times and who's playing. 1044, Zsilip utca 17..
+Atno is a music venue in Budapest listed on soundcheck. 10 upcoming gigs, with line-ups including Aikatherina, Akos V, Benc and Blackeye MC and 2 more. See dates, start times and who's playing. 1044, Zsilip utca 17..
 
 ## What's on
 
@@ -16,6 +16,7 @@ Atno is a music venue in Budapest listed on soundcheck. 9 upcoming gigs, with li
 | Fri, 23 Oct 2026 | Kickflip & friends - live tekno night |  |
 | Sat, 24 Oct 2026 | Kristai Invites: OFF GROUND to Atno | Kabi, Kozma |
 | Fri, 30 Oct 2026 | Mehet | Akos V, Hanussen, Kiqo, Meduzah, Rolo (2), Stark |
+| Sat, 14 Nov 2026 | 4/4 Bass Focus | Csodaszoba, Zakhorov, tshabee |
 | Fri, 18 Dec 2026 | ◉ RIGHT TIME - 20 YEARS OF RUPTURE - Double O, Decibella, Blackeye MC ◉ | Aikatherina, Benc, Blackeye MC, Decibella, Double O, Mentalien |
 
 ## Address

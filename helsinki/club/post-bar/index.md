@@ -14,7 +14,7 @@ Post Bar is a music venue in Helsinki listed on soundcheck. 12 upcoming gigs, wi
 | Sat, 17 Oct 2026 | Post Bar Club Night — Ogazón, Katerina, Sagwa | Katerina, Ogazón, Sagwa |
 | Fri, 23 Oct 2026 | Miia Magia, Ozan & Ronja | Miia Magia, Ozan |
 | Sat, 24 Oct 2026 | All Night Long — Sansibar | Sansibar |
-| Fri, 30 Oct 2026 | HENNYWEEN |  |
+| Fri, 30 Oct 2026 | HENNYWEEN – Sombadi, Olga & CNA, ZEZE, Sasha Rockstars, Saint Nia & J Crystal Jr | Saint Nia, ZEZE |
 | Sat, 31 Oct 2026 | Post Bar Halloween Half-Marathon | Jeku, Joni DJ, Justus Valtanen, Laura MRLS, Ojelma, Sepehr |
 | Fri, 6 Nov 2026 | FREE PARTY – HiToshi, DJ Aleksi, Hanna Ojanen | DJ Aleksi, Hanna Ojanen, HiToshi |
 | Fri, 13 Nov 2026 | DEFRAGGED invites: ⁠Kameliia, undrtow, Ozan, Tatu, ⁠⁠Idamine | Kameliia, Ozan, Tatu, undrtow |

@@ -1,14 +1,14 @@
 # SCTR (2)
 
-SCTR (2) is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Temple Club, Athens on Sat, 10 Oct 2026.
+SCTR (2) is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Temple Athens, Athens on Sat, 10 Oct 2026.
 
-SCTR is a techno and psytrance artist based in Greece, with 14 gigs on soundcheck across Athens. Often billed alongside Tanison, Deherian and Christian Cambas. Next up: TBA - Temple Club, Athens on Sat 10 Oct.
+SCTR is a techno and psytrance artist based in Greece, with 14 gigs on soundcheck across Athens. Often billed alongside Tanison, Deherian and Christian Cambas. Next up: Temple Athens, Athens on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | TBA - Temple Club | Athens |
+| Sat, 10 Oct 2026 | Temple Athens | Athens |
 
 ## Recently played
 

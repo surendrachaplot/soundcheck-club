@@ -1,8 +1,8 @@
 # Westfall
 
-Westfall is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at M7 Club, Barcelona on Sat, 10 Oct 2026.
+Westfall is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at M7 Club, Barcelona on Sat, 10 Oct 2026.
 
-Westfall is a techno and trance artist based in France, with 19 gigs on soundcheck across Barcelona, Berlin and Paris. Often billed alongside HANÀ, BENNETT and Bady (FR). Next up: M7 Club, Barcelona on Sat 10 Oct.
+Westfall is a techno and trance artist based in France, with 20 gigs on soundcheck across Barcelona, Berlin and Paris. Often billed alongside HANÀ, BENNETT and Bady (FR). Next up: M7 Club, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Westfall is a techno and trance artist based in France, with 19 gigs on soundche
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | M7 Club | Barcelona |
 | Fri, 16 Oct 2026 | Lokschuppen Berlin | Berlin |
+| Wed, 4 Nov 2026 | Rex Club | Paris |
 
 ## Recently played
 

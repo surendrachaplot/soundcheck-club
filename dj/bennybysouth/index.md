@@ -1,14 +1,15 @@
 # Benny Bysouth
 
-Benny Bysouth is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Hope House, Leeds on Fri, 9 Oct 2026.
+Benny Bysouth is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Hope House, Leeds on Fri, 9 Oct 2026.
 
-Benny Bysouth is a techno and house artist based in United Kingdom, with 7 gigs on soundcheck across Leeds, London and Nottingham. Often billed alongside Cam Harrop, A.Wild and Alexia Glensy. Next up: Hope House, Leeds on Fri 9 Oct.
+Benny Bysouth is a techno and house artist based in United Kingdom, with 8 gigs on soundcheck across Leeds, London and Nottingham. Often billed alongside Cam Harrop, A.Wild and Alexia Glensy. Next up: Hope House, Leeds on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Hope House | Leeds |
+| Fri, 18 Dec 2026 | Secret Location | London |
 
 ## Recently played
 

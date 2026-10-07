@@ -1,14 +1,15 @@
 # exmantera
 
-exmantera is a Experimental and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Panke, Berlin on Fri, 23 Oct 2026.
+exmantera is a Experimental and Club artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Panke, Berlin on Fri, 23 Oct 2026.
 
-exmantera is an experimental and club artist based in Finland, with 43 gigs on soundcheck across Berlin, Brussels, Denver and Glasgow and 8 more. Often billed alongside bod [包家巷], Warlord® and Acid Souljah. Next up: Panke, Berlin on Fri 23 Oct.
+exmantera is an experimental and club artist based in Finland, with 44 gigs on soundcheck across Berlin, Brussels, Denver and Glasgow and 8 more. Often billed alongside bod [包家巷], Warlord® and Acid Souljah. Next up: Panke, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Panke | Berlin |
+| Fri, 30 Oct 2026 | Studio dB | Berlin |
 | Sat, 31 Oct 2026 | Cank Neukölln | Berlin |
 | Sat, 7 Nov 2026 | TBA | London |
 

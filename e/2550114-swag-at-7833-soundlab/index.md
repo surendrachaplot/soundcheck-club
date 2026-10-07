@@ -1,11 +1,15 @@
 # Swag at 7833 Soundlab
 
-Swag at 7833 Soundlab on Sat 17 Oct, Barcelona. Tech House and Minimal Techno. See the line-up on soundcheck.
+Swag at 7833 Soundlab on Sat 17 Oct, Barcelona. 1 artist: KARI (Ø). Tech House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 17 Oct 2026 |
 | Venue | 7833 Soundlab |
 | City | Barcelona |
+
+## Line-up
+
+- KARI (Ø)
 
 *Source: [soundcheck](https://soundcheck.club/e/2550114-swag-at-7833-soundlab/)*

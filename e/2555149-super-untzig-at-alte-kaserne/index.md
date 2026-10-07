@@ -1,6 +1,6 @@
 # SUPER UNTZIG at Alte Kaserne
 
-SUPER UNTZIG at Alte Kaserne on Fri 16 Oct, Zurich. 3 artists: Galopp, Megix and MXGN. See the line-up on soundcheck.
+SUPER UNTZIG at Alte Kaserne on Fri 16 Oct, Zurich. 3 artists: Galopp, Megix and MXGN. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -17,7 +17,7 @@ E1 is a music venue in London listed on soundcheck. 42 upcoming gigs, with line-
 | Fri, 16 Oct 2026 | ALIVE Clara Cuve', Doruksen | Clara Cuvé, Doruksen, KINIA G, Lau.tastic, MARIEEEA, Nhū |
 | Sat, 17 Oct 2026 | The Menendez Brothers & Friends (17th October) | Saffron Stone, The Menendez Brothers |
 | Sat, 17 Oct 2026 | The Menendez Brothers & Friends: Winter Series | The Menendez Brothers |
-| Fri, 23 Oct 2026 | 8KAYS, Giorgia Angiulí, Lino Fuso | 8KAYS, BOHO, Giorgia Angiuli, Lino Fuso, SOLE LLORENTE |
+| Fri, 23 Oct 2026 | ENDLESS: 8KAYS, Giorgia Angiulí, Lino Fuso | 8KAYS, BOHO, Giorgia Angiuli, Lino Fuso, SOLE LLORENTE |
 
 ## Address
 

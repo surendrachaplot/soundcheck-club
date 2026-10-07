@@ -1,6 +1,6 @@
 # Tresor meets DJ Stingray 313 at Tresor / Globus
 
-Tresor meets DJ Stingray 313 at Tresor / Globus on Fri 27 Nov, Berlin. 7 artists: DJ Spit (ES), DJ Stingray 313, Huey Mnemonic and Manni Dee and 3 more. See the line-up on soundcheck.
+Tresor meets DJ Stingray 313 at Tresor / Globus on Fri 27 Nov, Berlin. 7 artists: DJ Spit, DJ Stingray 313, Huey Mnemonic and Manni Dee and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Tresor meets DJ Stingray 313 at Tresor / Globus on Fri 27 Nov, Berlin. 7 artists
 
 ## Line-up
 
-- DJ Spit (ES)
+- DJ Spit
 - DJ Stingray 313
 - Huey Mnemonic
 - Manni Dee

@@ -1,6 +1,6 @@
 # dance 2 at Samis Bar
 
-dance 2 at Samis Bar on Sat 17 Oct, Athens. 3 artists: Qasbah, TERPSICHORREE and THALEIA. Pop and Club. See the line-up on soundcheck.
+dance 2 at Samis Bar on Sat 17 Oct, Athens. 3 artists: Qasbah, TERPSICHORREE and THALEIA. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

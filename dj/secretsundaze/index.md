@@ -1,15 +1,14 @@
 # Secretsundaze
 
-Secretsundaze is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Abercrombie Hotel, Sydney on Sat, 24 Oct 2026.
+Secretsundaze is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Abercrombie Hotel, Sydney on Sat, 24 Oct 2026.
 
-Secretsundaze is a house and techno artist based in United Kingdom, with 81 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 17 more. Often billed alongside Certain People, Ariane V and Manuel Darquart. Next up: Abercrombie Hotel, Sydney on Sat 24 Oct.
+Secretsundaze is a house and techno artist based in United Kingdom, with 80 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 17 more. Often billed alongside Certain People, Ariane V and Manuel Darquart. Next up: Abercrombie Hotel, Sydney on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Abercrombie Hotel | Sydney |
-| Sat, 31 Oct 2026 | East London Brewing Company | London |
 | Sat, 14 Nov 2026 | Cadavra | Madrid |
 
 ## Recently played

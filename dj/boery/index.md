@@ -1,8 +1,8 @@
 # BØĘRY
 
-BØĘRY is a Techno and Industrial artist with 13 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Maassilo, Rotterdam on Sat, 10 Oct 2026.
+BØĘRY is a Techno and Industrial artist with 14 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Maassilo, Rotterdam on Sat, 10 Oct 2026.
 
-BØĘRY is a techno and industrial artist based in Netherlands, with 32 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 13 more. Often billed alongside Raxeller, BLNK and LIEKS. Next up: Maassilo, Rotterdam on Sat 10 Oct.
+BØĘRY is a techno and industrial artist based in Netherlands, with 33 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 13 more. Often billed alongside Raxeller, BLNK and LIEKS. Next up: Maassilo, Rotterdam on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -17,9 +17,9 @@ BØĘRY is a techno and industrial artist based in Netherlands, with 32 gigs on 
 | Sat, 28 Nov 2026 | Hangar 18 | Netherlands |
 | Sat, 28 Nov 2026 | Patronaat | Amsterdam |
 | Fri, 11 Dec 2026 | BASIS | Utrecht |
+| Fri, 18 Dec 2026 | OST | Berlin |
 | Sat, 19 Dec 2026 | Pavilhão Carlos Lopes | Lisbon |
 | Thu, 31 Dec 2026 | Garage Klub | Antwerp |
-| Thu, 31 Dec 2026 | Klokgebouw | Eindhoven |
 
 ## Recently played
 

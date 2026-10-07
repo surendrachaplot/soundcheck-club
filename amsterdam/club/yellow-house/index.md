@@ -10,7 +10,7 @@ Yellow House is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Nachtraaf: Y4R4 invites | DECADANCE, Lasse, Millyosa, Y4R4, inKKiss |
 | Sat, 10 Oct 2026 | Femme Tale |  |
-| Fri, 16 Oct 2026 | Lemon Works | Mattia Rizzi |
+| Fri, 16 Oct 2026 | Lemon Works | Mattia Rizzi, Max K |
 | Fri, 16 Oct 2026 | Lemon Works | Mattia Rizzi, Max (IT), RACH |
 | Wed, 21 Oct 2026 | EMBER ARTISTS x ADE | BIIANCO, Bérou, DJ Hyperdrive, DURDENHAUER, FJUSHA, Fenrick, KTK (DE), L.zwo, VEL (MA) |
 | Thu, 22 Oct 2026 | ENSL presents: Futurismo Tropical | Andrea Fiorito, Argenis Brito, Fell Reis, Francesco Tristano, Giorgio Maulini, Guti, Ion Ludwig, Jonny Rock, Manoman |

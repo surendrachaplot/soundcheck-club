@@ -1,8 +1,8 @@
 # Mc Jamie White
 
-Mc Jamie White is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Gretchen, Berlin on Sat, 10 Oct 2026.
+Mc Jamie White is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Gretchen, Berlin on Sat, 10 Oct 2026.
 
-Mc Jamie White is a drum & bass and bass artist based in Germany, with 45 gigs on soundcheck across Berlin. Often billed alongside Survey, Tommy Lexxus and Soniq. Next up: Gretchen, Berlin on Sat 10 Oct.
+Mc Jamie White is a drum & bass and bass artist based in Germany, with 46 gigs on soundcheck across Berlin. Often billed alongside Survey, Tommy Lexxus and Soniq. Next up: Gretchen, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Mc Jamie White is a drum & bass and bass artist based in Germany, with 45 gigs o
 | Sat, 10 Oct 2026 | Gretchen | Berlin |
 | Sat, 7 Nov 2026 | AMT | Berlin |
 | Sat, 14 Nov 2026 | Gretchen | Berlin |
+| Fri, 20 Nov 2026 | Gretchen | Berlin |
 
 ## Recently played
 

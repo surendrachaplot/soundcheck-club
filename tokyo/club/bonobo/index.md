@@ -8,7 +8,7 @@ Bonobo is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with lin
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Twisted Disko [Vol. 4]: Down The Rabbit Hole |  |
+| Sat, 10 Oct 2026 | Twisted Disko [Vol. 4]: Down The Rabbit Hole | YUME(TYO) |
 | Sun, 11 Oct 2026 | Marionette x Bonobo | Chee Shimizu, Dr. Nishimura, Grimwig, NullDaSensei |
 | Sat, 17 Oct 2026 | INTEGRA meets Bonobo | KCT (1), Rwanda, fýsia, nano odorine, yolabmi |
 

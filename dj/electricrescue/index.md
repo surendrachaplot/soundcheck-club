@@ -1,14 +1,15 @@
 # Electric Rescue
 
-Electric Rescue is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Virage, Paris on Fri, 9 Oct 2026.
+Electric Rescue is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Virage, Paris on Fri, 9 Oct 2026.
 
-Electric Rescue is a techno and house artist based in France, with 59 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Geneva and 8 more. Often billed alongside Alys LF, KUSS and Kmyle. Next up: Virage, Paris on Fri 9 Oct.
+Electric Rescue is a techno and house artist based in France, with 60 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Geneva and 8 more. Often billed alongside Alys LF, KUSS and Kmyle. Next up: Virage, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Virage | Paris |
+| Sun, 18 Oct 2026 | Glazart | Paris |
 | Thu, 22 Oct 2026 | John Doe | Amsterdam |
 
 ## Recently played

@@ -9,7 +9,7 @@ Saloon is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with li
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | Keio Fashion Creator 2026 LookBook Release Party | Eichi Abe, Pointhope |
-| Fri, 9 Oct 2026 | Whirlpool | Akie, DJ Healthy (OKOKOK), DJ Trystero, HIMAWARI, m-int |
+| Fri, 9 Oct 2026 | Whirlpool | Akie, DJ Healthy, DJ Trystero, HIMAWARI, m-int |
 | Sat, 10 Oct 2026 | Bros, Bros & Bros Hosted by Loota | zendo |
 | Sun, 11 Oct 2026 | FOREST NOISE | FELINE (JP), S.H.V |
 | Thu, 15 Oct 2026 | KALT Vol.1 | Dayzero, Kombé |

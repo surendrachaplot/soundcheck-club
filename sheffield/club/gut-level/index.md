@@ -16,7 +16,7 @@ Gut Level is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, 
 | Sat, 31 Oct 2026 | Make Hardcore Happy Again Sheffield Halloween Special |  |
 | Fri, 6 Nov 2026 | Happy Endings | Bethan, FAFF, Jeon Q, Perrin (UK), Ugly Drugless |
 | Sat, 7 Nov 2026 | CYB3R 5TH ANNIVERSARY W/ GFOTY | GFOTY |
-| Fri, 13 Nov 2026 | Sleazy Peelers (02) w/ Rosie Ama, Kay Fabe & Betty | Kay Fabe, Paniolo, Rosie Ama |
+| Fri, 13 Nov 2026 | Sleazy Peelers (02) w/ Rosie Ama, Kay Fabe, Betty & Paniolo | Kay Fabe, Paniolo, Rosie Ama |
 | Sat, 12 Dec 2026 | Orange Room w/ Aquamarine [Wet Dreamz] | Aquamarine, Backseat Driver, Bubbles (UK), Paniolo |
 
 ## Address

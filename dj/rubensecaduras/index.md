@@ -1,13 +1,14 @@
 # Rubén Secaduras
 
-Rubén Secaduras is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at OST, Berlin on Thu, 31 Dec 2026.
+Rubén Secaduras is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Club Magno, Madrid on Sat, 24 Oct 2026.
 
-Rubén Secaduras is a techno and house artist based in Spain, with 22 gigs on soundcheck across Barcelona, Berlin, Lisbon and Madrid and 1 more. Often billed alongside TOM CHIESA, PATTY&SELMA and DISTORT (ES). Next up: OST, Berlin on Thu 31 Dec.
+Rubén Secaduras is a techno and house artist based in Spain, with 23 gigs on soundcheck across Barcelona, Berlin, Lisbon and Madrid and 1 more. Often billed alongside TOM CHIESA, PATTY&SELMA and Rozzer. Next up: Club Magno, Madrid on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Club Magno | Madrid |
 | Thu, 31 Dec 2026 | OST | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Rubén Secaduras is a techno and house artist based in Spain, with 22 gigs on so
 
 ## Shares bills with
 
-TOM CHIESA, PATTY&SELMA, DISTORT (ES)
+TOM CHIESA, PATTY&SELMA, Rozzer
 
 *Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rubensecaduras/)*

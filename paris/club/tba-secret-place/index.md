@@ -1,8 +1,8 @@
-# TBA - SECRET PLACE
+# TBA - Secret Place
 
-TBA - SECRET PLACE is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "THE ANNIVERSARY: CEEJAY & SECRET GUESTS" on Fri, 9 Oct 2026.
+TBA - Secret Place is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "THE ANNIVERSARY: CEEJAY & SECRET GUESTS" on Fri, 9 Oct 2026.
 
-TBA - SECRET PLACE is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Byche, Enshade, Naone and oror and 2 more. See dates, start times and who's playing.
+TBA - Secret Place is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Byche, Enshade, Naone and oror and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

@@ -13,7 +13,7 @@ The Bulldog Palace is a music venue in Amsterdam listed on soundcheck. 7 upcomin
 | Fri, 23 Oct 2026 | ADUNANZA IN THE CAGE - ADE 2026 | Alex Bohemien, Broosk, Key Eff, Manu P |
 | Fri, 23 Oct 2026 | About Us ADE Showcase | ABOUT SOFIYA, Alex Pi, Bullzeye, DJ Pierre, Luigi Madonna, Paula Sanz, SOLE DOSI, Secret Cinema |
 | Sat, 24 Oct 2026 | RAGAZZI Records - ADE Label Launch | HOESEPHINE, O/H/M, OnlyWithYou, Shake Daddy, Trancemaster Krause, snoritz |
-| Sat, 24 Oct 2026 | Edo presents Ode | 2HOT2PLAY, BOY&GIRL, Edo (NL), L.zwo, LUMINE |
+| Sat, 24 Oct 2026 | Edo presents Ode | 2HOT2PLAY, BOY&GIRL, Edo (NL), L.zwo, LUMINE, Shugz |
 | Sun, 25 Oct 2026 | RISE MUSIC PROJECT SHOWCASE | Ae:ther, Wurtz_ |
 
 ## Address

@@ -1,6 +1,6 @@
 # ORIOL // plays Afro-Latin, Disco, Boogie, Balearic at KINK at Kink Bar & Restaurant
 
-ORIOL // plays Afro-Latin, Disco, Boogie, Balearic at KINK at Kink Bar & Restaurant on Thu 8 Oct, Berlin. 1 artist: ORIOL //. Disco and Balearic. See the line-up on soundcheck.
+ORIOL // plays Afro-Latin, Disco, Boogie, Balearic at KINK at Kink Bar & Restaurant on Thu 8 Oct, Berlin. 1 artist: ORIOL //. Balearic and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

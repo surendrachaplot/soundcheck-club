@@ -2,7 +2,7 @@
 
 Palazzo (2) is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 16 Oct 2026.
 
-Palazzo is a house and balearic artist, with 8 gigs on soundcheck across Lisbon, Melbourne and Sydney. Often billed alongside Elsie, Tina Disco and Zafiro. Next up: Angel Music Bar, Melbourne on Fri 16 Oct.
+Palazzo is a house and balearic artist based in Argentina, with 8 gigs on soundcheck across Lisbon, Melbourne and Sydney. Often billed alongside Elsie, Tina Disco and Zafiro. Next up: Angel Music Bar, Melbourne on Fri 16 Oct.
 
 ## Upcoming shows
 

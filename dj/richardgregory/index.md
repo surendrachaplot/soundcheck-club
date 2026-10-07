@@ -1,14 +1,15 @@
 # Richard Gregory
 
-Richard Gregory is a Trance and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Eiger Studios, Leeds on Fri, 6 Nov 2026.
+Richard Gregory is a Trance and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Eiger Studios, Leeds on Fri, 6 Nov 2026.
 
-Richard Gregory is a trance and tech house artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Berlin, Bristol and Ghent and 5 more. Often billed alongside Carl H, Lora Mipsum and Inner Zone. Next up: Eiger Studios, Leeds on Fri 6 Nov.
+Richard Gregory is a trance and tech house artist based in United Kingdom, with 45 gigs on soundcheck across Amsterdam, Berlin, Bristol and Ghent and 5 more. Often billed alongside Carl H, Lora Mipsum and Inner Zone. Next up: Eiger Studios, Leeds on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Eiger Studios | Leeds |
+| Sat, 7 Nov 2026 | The Glove That Fits | London |
 | Fri, 4 Dec 2026 | Cobalt Studios | Newcastle |
 
 ## Recently played

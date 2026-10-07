@@ -1,0 +1,16 @@
+# SLIME x XANTI at TORTE BAR
+
+SLIME x XANTI at TORTE BAR on Wed 28 Oct, Berlin. 2 artists: Chaosmos and Mister Teaser. Experimental and Noise. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Wed, 28 Oct 2026 |
+| Venue | TORTE BAR |
+| City | Berlin |
+
+## Line-up
+
+- Chaosmos
+- Mister Teaser
+
+*Source: [soundcheck](https://soundcheck.club/e/2532208-slime-x-xanti-at-torte-bar/)*

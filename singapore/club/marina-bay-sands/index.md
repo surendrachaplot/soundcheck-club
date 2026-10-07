@@ -1,8 +1,8 @@
 # Marina Bay Sands
 
-Marina Bay Sands is a music venue in Singapore with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "AFTER 2049 presents: Claptone & Crusy" on Fri, 9 Oct 2026.
+Marina Bay Sands is a music venue in Singapore with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "AFTER 2049 presents: Claptone & Crusy" on Fri, 9 Oct 2026.
 
-Marina Bay Sands is a music venue in Singapore listed on soundcheck. 2 upcoming gigs, with line-ups including ANONM, Claptone, Crusy and Leon and 2 more. See dates, start times and who's playing. Marina Bay Sands, Marina Bay Singapore..
+Marina Bay Sands is a music venue in Singapore listed on soundcheck. 3 upcoming gigs, with line-ups including ANONM, Claptone, Crusy and Leon and 2 more. See dates, start times and who's playing. Marina Bay Sands, Marina Bay Singapore..
 
 ## What's on
 
@@ -10,6 +10,7 @@ Marina Bay Sands is a music venue in Singapore listed on soundcheck. 2 upcoming 
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | AFTER 2049 presents: Claptone & Crusy | ANONM, Claptone, Crusy, Leon, Milam, Mo-Shi |
 | Wed, 2 Dec 2026 | Health 2.0 Conference Singapore |  |
+| Fri, 11 Dec 2026 | Game on dreamers |  |
 
 ## Address
 

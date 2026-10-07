@@ -15,7 +15,7 @@
 | Sat, 17 Oct 2026 | DUALISM with DJ YARAK, DJ Gysi, DJ Henk, Limoncello | 4NOUK, CIKO, Cobb Douglas, DJ Gysi, DJ Henk, DJ YARAK, DJ Zugzwang, Limoncello, Rocko Garoni, Softdrive, Stacy, THNTS, alemiko, jeanska |
 | Fri, 23 Oct 2026 | bratty • with charli xcx & other brat coded artists • berlin |  |
 | Sat, 24 Oct 2026 | glue & bass down borders | Al Aslan, Antonella mags schneller, Ele Luz, JUSTICE (DE), Libra, MIRALEO, Mehr is Mehr, RAULITO WOLF, Ramy Hasnawe, SACID, kimchi cora |
-| Fri, 30 Oct 2026 | ★ LOWKEY STARS ☆ HALLOWEEN | Andara Nox, Anna Hoeber, April the pink, CHAR, Cottí Larje, DJ Spaßgetränk, Delm, Dino S, EVYA, L.OST, LEIA (2), MAD.MOD, MARØ, Mona (2), Monalisa Michaelis, Natasha Roze, R1D1, RaVix, Sasa (FR), Sinetiketa, YANU, antyo, clubm8, shakesbiier |
+| Fri, 30 Oct 2026 | ★ LOWKEY STARS ☆ HALLOWEEN | Andara Nox, Anna Hoeber, April the pink, CHAR, Cottí Larje, DJ Spaßgetränk, Delm, Dino S, EVYA, HannaHandarbeit, L.OST, LEIA (2), MAD.MOD, MARØ, Mona (2), Monalisa Michaelis, Natasha Roze, R1D1, RaVix, Sasa (FR), Sinetiketa, YANU, antyo, clubm8, shakesbiier |
 | Sat, 31 Oct 2026 | Glücklich durch die Krise (G2DK) - Daytime Rave | Anna Kasyan, DJ.KRISE, Felizissima, Rosa Luxemburg, The Brvtalist |
 | Sat, 31 Oct 2026 | Fangtasm Vol.2 | Anna Kasyan, Dj Exagggerator, Gretchen B, Heshumi, Holywanderer, Lifka, ZAGROZA, tech_punk |
 

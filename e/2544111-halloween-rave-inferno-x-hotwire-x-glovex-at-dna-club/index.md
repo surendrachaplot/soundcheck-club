@@ -1,6 +1,6 @@
 # Halloween Rave // Inferno x Hotwire x Glovex at DNA. CLUB
 
-Halloween Rave // Inferno x Hotwire x Glovex at DNA. CLUB on Sat 31 Oct, Berlin. 5 artists: Alex Friday, Filialleiter, Khaøz and LIIAS and 1 more. Trance and Techno. See the line-up on soundcheck.
+Halloween Rave // Inferno x Hotwire x Glovex at DNA. CLUB on Sat 31 Oct, Berlin. 6 artists: Alex Friday, DØME, Filialleiter and Khaøz and 2 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Halloween Rave // Inferno x Hotwire x Glovex at DNA. CLUB on Sat 31 Oct, Berlin.
 ## Line-up
 
 - Alex Friday
+- DØME
 - Filialleiter
 - Khaøz
 - LIIAS

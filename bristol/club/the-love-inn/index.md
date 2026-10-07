@@ -11,7 +11,7 @@ The Love Inn is a music venue in Bristol listed on soundcheck. 13 upcoming gigs,
 | Wed, 7 Oct 2026 | TBH [all night long] | Tully |
 | Thu, 8 Oct 2026 | Sam Bower residency #02 with IZZIT + Tommy Dymock | IZZIT, Tommy Dymock |
 | Fri, 9 Oct 2026 | Gonno + R.E.D | Gonno, R.E.D |
-| Sat, 10 Oct 2026 | Nosedripy Cillar | Nosedrip |
+| Sat, 10 Oct 2026 | Nosedrip & Morey Cillar | Nosedrip |
 | Fri, 16 Oct 2026 | SILQ. presents: Gabrielle Kwarteng | AVA (3), Azumei, DASHY, Gabrielle Kwarteng |
 | Sat, 17 Oct 2026 | Isaac Carter + Fern | Isaac Carter |
 | Fri, 30 Oct 2026 | echoforms with Andy Martin + Residents | Andy Martin, Ollie Kirk |

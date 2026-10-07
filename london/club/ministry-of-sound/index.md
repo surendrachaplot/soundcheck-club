@@ -1,8 +1,8 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 19 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Parable: Eli & Fur, Eynka, NOHR + more" on Fri, 9 Oct 2026.
+Ministry Of Sound is a music venue in London with 20 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Parable: Eli & Fur, Eynka, NOHR + more" on Fri, 9 Oct 2026.
 
-Ministry Of Sound is a music venue in London listed on soundcheck. 19 upcoming gigs, with line-ups including AARON SEVILLA, Alastair Lane, Amtrac and Anderdox and 2 more. See dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
+Ministry Of Sound is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including AARON SEVILLA, Alastair Lane, Amtrac and Anderdox and 2 more. See dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
 ## What's on
 

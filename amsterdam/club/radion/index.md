@@ -14,7 +14,7 @@ RADION is a music venue in Amsterdam listed on soundcheck. 21 upcoming gigs, wit
 | Sat, 17 Oct 2026 | BomBlastic - The Next Chapter |  |
 | Sat, 17 Oct 2026 | BomBlastic - The Next Chapter | Back to Mars, Meraki (3) |
 | Wed, 21 Oct 2026 | Frenzy x RAW ADE | Beau Didier, Danny Wabbit, Elisa Batti, Kaiser (K S R), Mac Declos, Nastia, RUIZ OSC1 |
-| Thu, 22 Oct 2026 | LNR: Local Night RADION - ADE edition | Beau Didier, Beste Hira, Cokobloko, Flits, Isaiah (NL), Lasse, Remco Beekwilder, SHE/HER, Ultrastation, stranger (NL) |
+| Thu, 22 Oct 2026 | LNR: Local Night RADION - ADE edition | Beau Didier, Beste Hira, Cokobloko, Flits, Isaiah (NL), Lasse, Remco Beekwilder, SHE/HER, Ultrastation, Y4R4, stranger (NL) |
 | Thu, 22 Oct 2026 | Beyond The Dance Floor: ADE Edition |  |
 | Fri, 23 Oct 2026 | DJ Bone presents: FURTHER x Homeless Homies ADE 2026 | Alan Fitzpatrick, Anja Schneider, Anz, Billy Nasty, DAIYAH, DJ Bone, DJ Godfather, DJ MELL G, Dan Shake, Dennis Free, Dubfire, Eats Everything, Estella Boersma, FJAAK, Gaiser, GiGi FM, Helena Hauff, Hilit Kolet, Hutch, Jeremy, Jyoty, Kevin Saunderson, Laure Croft, Ludmila Di Pasquale, Matrixxman, Mötas, Remco Beekwilder, SHERELLE, Scuba, Will Clarke, Yeti Mind Tricks, Zack Fox, softchaos |
 | Fri, 23 Oct 2026 | AURA ADE Special with Hayes Collective | CRAVO, Chami, Hashashin, Justine Perry, Lumos, Nørbak, Stef Mendesidis, Temudo, VIL (PT) |

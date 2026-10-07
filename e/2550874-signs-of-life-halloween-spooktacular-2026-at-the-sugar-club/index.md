@@ -1,6 +1,6 @@
 # Signs of Life Halloween Spooktacular 2026 at The Sugar Club
 
-Signs of Life Halloween Spooktacular 2026 at The Sugar Club on Fri 30 Oct, Dublin. 2 artists: Little O (IE) and Space Dimension Controller. Disco and Electronica. See the line-up on soundcheck.
+Signs of Life Halloween Spooktacular 2026 at The Sugar Club on Fri 30 Oct, Dublin. 3 artists: Jack Tiraquon, Little O (IE) and Space Dimension Controller. Disco and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Signs of Life Halloween Spooktacular 2026 at The Sugar Club on Fri 30 Oct, Dubli
 
 ## Line-up
 
+- Jack Tiraquon
 - Little O (IE)
 - Space Dimension Controller
 
