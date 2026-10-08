@@ -1,14 +1,16 @@
 # Muzaman
 
-Muzaman is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Kaskada, Warsaw on Sat, 24 Oct 2026.
+Muzaman is a Bass and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Kaskada, Warsaw on Sat, 24 Oct 2026.
 
-Muzaman is a bass and dubstep artist based in Poland, with 14 gigs on soundcheck across Prague and Warsaw. Often billed alongside Solar Tsunami, U Lad and kipah. Next up: Kaskada, Warsaw on Sat 24 Oct.
+Muzaman is a bass and dubstep artist based in Poland, with 16 gigs on soundcheck across Atlanta, Poland, Prague and Warsaw. Often billed alongside Solar Tsunami, U Lad and long w. Next up: Kaskada, Warsaw on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Kaskada | Warsaw |
+| Sat, 7 Nov 2026 | Legendarium | Poland |
+| Sun, 13 Dec 2026 | Lunchbox | Atlanta |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ Muzaman is a bass and dubstep artist based in Poland, with 14 gigs on soundcheck
 
 ## Shares bills with
 
-Solar Tsunami, U Lad, kipah
+Solar Tsunami, U Lad, long w
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muzaman/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muzaman/)*

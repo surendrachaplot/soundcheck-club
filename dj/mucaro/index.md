@@ -1,6 +1,6 @@
 # Mucaro
 
-Mucaro is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Tsumagoi Bokujo Aisai no Kane, Kanto on Thu, 8 Oct 2026.
+Mucaro is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Tsumagoi Bokujo Aisai no Kane, Kanto on Thu, 8 Oct 2026.
 
 Mucaro is a techno and house artist based in Japan, with 27 gigs on soundcheck across Kanto and Tokyo. Often billed alongside RYOHEI, Monna Lisa and Dani Savant. Next up: Tsumagoi Bokujo Aisai no Kane, Kanto on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Mucaro is a techno and house artist based in Japan, with 27 gigs on soundcheck a
 
 RYOHEI, Monna Lisa, Dani Savant
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mucaro/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mucaro/)*

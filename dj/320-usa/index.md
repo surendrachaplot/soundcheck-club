@@ -1,14 +1,15 @@
 # 320 (1)
 
-320 (1) is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Silence Please, New York City on Sat, 10 Oct 2026.
+320 (1) is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Silence Please, New York City on Sat, 10 Oct 2026.
 
-320 is a techno and experimental artist based in United States of America, with 21 gigs on soundcheck across Berlin and New York City. Often billed alongside Baroque Hoe, Brutal Twink and Carrier. Next up: Silence Please, New York City on Sat 10 Oct.
+320 is a techno and experimental artist based in United States of America, with 22 gigs on soundcheck across Berlin and New York City. Often billed alongside Baroque Hoe, Brutal Twink and Carrier. Next up: Silence Please, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Silence Please | New York City |
+| Fri, 27 Nov 2026 | public records | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@
 
 Baroque Hoe, Brutal Twink, Carrier
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/320-usa/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/320-usa/)*

@@ -1,6 +1,6 @@
 # MIASALAV
 
-MIASALAV is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at ESC, Montreal on Sat, 17 Oct 2026.
+MIASALAV is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at ESC, Montreal on Sat, 17 Oct 2026.
 
 MIASALAV is a techno and bass artist based in Canada, with 67 gigs on soundcheck across Mexico City, Montreal, New York City and Toronto. Often billed alongside Venus in Foil, Runa and Asha. Next up: ESC, Montreal on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ MIASALAV is a techno and bass artist based in Canada, with 67 gigs on soundcheck
 
 Venus in Foil, Runa, Asha (4)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miasalav/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miasalav/)*

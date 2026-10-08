@@ -1,6 +1,6 @@
 # Keyklau
 
-Keyklau is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at E-Werk Kulturzentrum, Nürnberg on Sat, 17 Oct 2026.
+Keyklau is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at E-Werk Kulturzentrum, Nürnberg on Sat, 17 Oct 2026.
 
 Keyklau is a techno and industrial artist based in Spain, with 24 gigs on soundcheck across Barcelona, Berlin, Madrid and Nürnberg and 1 more. Often billed alongside Giusseppi, Felinae and Matt.p. Next up: E-Werk Kulturzentrum, Nürnberg on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Keyklau is a techno and industrial artist based in Spain, with 24 gigs on soundc
 
 Giusseppi, Felinae, Matt.p
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keyklau/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keyklau/)*

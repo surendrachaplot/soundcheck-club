@@ -1,6 +1,6 @@
 # Abercrombie Hotel
 
-Abercrombie Hotel is a music venue in Sydney with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Beyond feat. DON LOW [ES]" on Fri, 9 Oct 2026.
+Abercrombie Hotel is a music venue in Sydney with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Beyond feat. DON LOW [ES]" on Fri, 9 Oct 2026.
 
 Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 9 upcoming gigs, with line-ups including Baby G, BASHKKA, Ciel and DAWS and 2 more. See dates, start times and who's playing. 100 Broadway; Ultimo, NSW 2007; Australia.
 
@@ -22,4 +22,4 @@ Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 9 upcoming gi
 
 100 Broadway; Ultimo, NSW 2007; Australia, Sydney
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/abercrombie-hotel/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/abercrombie-hotel/)*

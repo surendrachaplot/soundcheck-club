@@ -1,6 +1,6 @@
 # Brixton Jamm
 
-Brixton Jamm is a music venue in London with 15 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Jungle Splash" on Fri, 9 Oct 2026.
+Brixton Jamm is a music venue in London with 15 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Jungle Splash" on Fri, 9 Oct 2026.
 
 Brixton Jamm is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including alterum, Benny Page, CHEZA LUCINA and CHICCA and 2 more. See dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
 
@@ -10,7 +10,7 @@ Brixton Jamm is a music venue in London listed on soundcheck. 15 upcoming gigs, 
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Jungle Splash | CHEZA LUCINA, Potential Badboy, The Ragga Twins, Uncle Dugs, ŌKAMI |
 | Sat, 10 Oct 2026 | EXXPLANA - Baile Funk |  |
-| Fri, 16 Oct 2026 | LAJU - Juls & Larizzle | Juls, Larizzle |
+| Fri, 16 Oct 2026 | LAJU - Juls & Larizzle | Juls, Larizzle, Rhiavas |
 | Sat, 17 Oct 2026 | Joga Bonito - National Medical Schools x HotSpot |  |
 | Thu, 22 Oct 2026 | Raise The Bar and RLD Records presents: Leaf Dog + Bva with DJ Jazz T |  |
 | Fri, 23 Oct 2026 | Reek0 presents: Step Back and Whine | DJ GGB, N Fostell, Shenin Amara |
@@ -23,4 +23,4 @@ Brixton Jamm is a music venue in London listed on soundcheck. 15 upcoming gigs, 
 
 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom, London
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*

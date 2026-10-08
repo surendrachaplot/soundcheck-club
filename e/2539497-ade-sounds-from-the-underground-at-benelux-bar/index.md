@@ -1,6 +1,6 @@
 # ADE: Sounds From the Underground at Benelux BAR
 
-ADE: Sounds From the Underground at Benelux BAR on Sun 25 Oct, Amsterdam. 3 artists: Hector Moralez, Jason Hodges and Jason Merle. See the line-up on soundcheck.
+ADE: Sounds From the Underground at Benelux BAR on Sun 25 Oct, Amsterdam. 4 artists: DJ Dazy, Hector Moralez, Jason Hodges and Jason Merle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ ADE: Sounds From the Underground at Benelux BAR on Sun 25 Oct, Amsterdam. 3 arti
 
 ## Line-up
 
+- DJ Dazy
 - Hector Moralez
 - Jason Hodges
 - Jason Merle

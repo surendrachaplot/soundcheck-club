@@ -1,14 +1,14 @@
 # Stone Van Brooken
 
-Stone Van Brooken is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Sainte-Catherine Hall, Montreal on Sat, 31 Oct 2026.
+Stone Van Brooken is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Entrepôts Dominion, Les, Montreal on Sat, 31 Oct 2026.
 
-Stone Van Brooken is a techno and progressive house artist based in France, with 30 gigs on soundcheck across Amsterdam, Geneva, Ibiza and Istanbul and 8 more. Often billed alongside Black Box, Kristina Sky and Martin Mind. Next up: Sainte-Catherine Hall, Montreal on Sat 31 Oct.
+Stone Van Brooken is a techno and progressive house artist based in France, with 30 gigs on soundcheck across Amsterdam, Geneva, Ibiza and Istanbul and 8 more. Often billed alongside Black Box, Kristina Sky and Martin Mind. Next up: Entrepôts Dominion, Les, Montreal on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Sainte-Catherine Hall | Montreal |
+| Sat, 31 Oct 2026 | Entrepôts Dominion, Les | Montreal |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Stone Van Brooken is a techno and progressive house artist based in France, with
 
 Black Box, Kristina Sky, Martin Mind
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stonevanbrooken/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stonevanbrooken/)*

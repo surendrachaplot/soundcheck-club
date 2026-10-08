@@ -1,6 +1,6 @@
 # Vercetti Technicolor
 
-Vercetti Technicolor is a Italo Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Burger Disco Club, Athens on Fri, 9 Oct 2026.
+Vercetti Technicolor is a Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Burger Disco Club, Athens on Fri, 9 Oct 2026.
 
 Vercetti Technicolor is an italo disco artist, with 14 gigs on soundcheck across Athens. Often billed alongside Pene, Abyss X and Alexandra Niaka. Next up: Burger Disco Club, Athens on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Vercetti Technicolor is an italo disco artist, with 14 gigs on soundcheck across
 
 Pene, Abyss X, Alexandra Niaka
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vercettitechnicolor/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vercettitechnicolor/)*

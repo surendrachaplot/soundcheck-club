@@ -1,6 +1,6 @@
 # Nihal El Aasar
 
-Nihal El Aasar is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Ormside Projects, London on Sat, 24 Oct 2026.
+Nihal El Aasar is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Ormside Projects, London on Sat, 24 Oct 2026.
 
 Nihal El Aasar is a club and experimental artist based in United Kingdom, with 18 gigs on soundcheck across Glasgow, London and Manchester. Often billed alongside Toumba, Fantastic Man and Jeneen. Next up: Ormside Projects, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Nihal El Aasar is a club and experimental artist based in United Kingdom, with 1
 
 Toumba, Fantastic Man, Jeneen
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nihalelaasar/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nihalelaasar/)*

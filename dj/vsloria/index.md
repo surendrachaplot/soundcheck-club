@@ -1,6 +1,6 @@
 # VSLORIA
 
-VSLORIA is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Ping Pong 129, Hong Kong on Sat, 10 Oct 2026.
+VSLORIA is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Ping Pong 129, Hong Kong on Sat, 10 Oct 2026.
 
 VSLORIA is a techno and bass artist based in China, with 25 gigs on soundcheck across Hong Kong. Often billed alongside JFÜNG, xylon and Charlieowo. Next up: Ping Pong 129, Hong Kong on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ VSLORIA is a techno and bass artist based in China, with 25 gigs on soundcheck a
 
 JFÜNG, xylon, Charlieowo
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vsloria/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vsloria/)*

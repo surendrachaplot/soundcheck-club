@@ -1,6 +1,6 @@
 # Lu_x2
 
-Lu_x2 is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Block1, Berlin on Fri, 16 Oct 2026.
+Lu_x2 is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Block1, Berlin on Fri, 16 Oct 2026.
 
 Lu_x2 is a house and electronica artist, with 9 gigs on soundcheck across Berlin and London. Often billed alongside Tasfet, Atxa and Flickerchild. Next up: Block1, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Lu_x2 is a house and electronica artist, with 9 gigs on soundcheck across Berlin
 
 Tasfet, Atxa, Flickerchild
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lu_x2/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lu_x2/)*

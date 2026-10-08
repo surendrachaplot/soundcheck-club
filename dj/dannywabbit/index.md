@@ -1,6 +1,6 @@
 # Danny Wabbit
 
-Danny Wabbit is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 10 Oct 2026.
+Danny Wabbit is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 10 Oct 2026.
 
 Danny Wabbit is a techno and trance artist, with 60 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 20 more. Often billed alongside The Chronics, Beau Didier and Bours?. Next up: Tempio del Futuro Perduto, Milan on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Danny Wabbit is a techno and trance artist, with 60 gigs on soundcheck across Am
 
 The Chronics, Beau Didier, Bours?
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannywabbit/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannywabbit/)*

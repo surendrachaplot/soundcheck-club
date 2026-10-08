@@ -1,6 +1,6 @@
 # ArthurDnB
 
-ArthurDnB is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at La Cheetah Club, Glasgow on Sat, 10 Oct 2026.
+ArthurDnB is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at La Cheetah Club, Glasgow on Sat, 10 Oct 2026.
 
 ArthurDnB is a drum & bass and jungle artist based in United Kingdom, with 9 gigs on soundcheck across Glasgow. Often billed alongside SOLECTA, Joe Unknown and Corran. Next up: La Cheetah Club, Glasgow on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ ArthurDnB is a drum & bass and jungle artist based in United Kingdom, with 9 gig
 
 SOLECTA, Joe Unknown, Corran
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arthurdnb/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arthurdnb/)*

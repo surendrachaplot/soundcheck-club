@@ -1,6 +1,6 @@
 # 25EMEHEURE
 
-25EMEHEURE is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Café Café Bar Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+25EMEHEURE is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Café Café Bar Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 25EMEHEURE is a techno and acid artist based in France, with 34 gigs on soundcheck across Amsterdam, Berlin, Geneva and Lisbon and 5 more. Often billed alongside ECZODIA, LESSSS and William Luck. Next up: Café Café Bar Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@
 
 ECZODIA, LESSSS, William Luck
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/25emeheure/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/25emeheure/)*

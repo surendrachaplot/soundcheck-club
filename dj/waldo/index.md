@@ -1,6 +1,6 @@
 # Waldo
 
-Waldo is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at OT301, Amsterdam on Sat, 24 Oct 2026.
+Waldo is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at OT301, Amsterdam on Sat, 24 Oct 2026.
 
 Waldo is a techno and bass artist based in Italy, with 66 gigs on soundcheck across Amsterdam, Auckland, Berlin and Geneva and 2 more. Often billed alongside Industrial Romantico, Dolce Potente and Tania Kim. Next up: OT301, Amsterdam on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ Waldo is a techno and bass artist based in Italy, with 66 gigs on soundcheck acr
 
 Industrial Romantico, Dolce Potente, Tania Kim
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waldo/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waldo/)*

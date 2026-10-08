@@ -1,6 +1,6 @@
 # [Redacted]: Gotham ft Naija Couture (NYC) at The Jama
 
-[Redacted]: Gotham ft Naija Couture (NYC) at The Jama on Sat 17 Oct, Toronto. 5 artists: Blkvirgo, KERUB, moodyjooly and Naija Couture and 1 more. House. See the line-up on soundcheck.
+[Redacted]: Gotham ft Naija Couture (NYC) at The Jama on Sat 17 Oct, Toronto. 5 artists: Blkvirgo, KERUB, moodyjooly and Naija Couture and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

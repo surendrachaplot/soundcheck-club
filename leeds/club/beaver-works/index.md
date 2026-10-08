@@ -1,6 +1,6 @@
 # Beaver Works
 
-Beaver Works is a music venue in Leeds with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Born on Road - Leeds" on Sat, 10 Oct 2026.
+Beaver Works is a music venue in Leeds with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Born on Road - Leeds" on Sat, 10 Oct 2026.
 
 Beaver Works is a music venue in Leeds listed on soundcheck. 6 upcoming gigs, with line-ups including Badger (UK), Bakey, Chinese Daughter and Crossy and 2 more. See dates, start times and who's playing. 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom.
 
@@ -19,4 +19,4 @@ Beaver Works is a music venue in Leeds listed on soundcheck. 6 upcoming gigs, wi
 
 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom, Leeds
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/beaver-works/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/beaver-works/)*

@@ -1,8 +1,8 @@
 # Gostoso
 
-Gostoso is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 31 Oct 2026.
+Gostoso is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 31 Oct 2026.
 
-Gostoso is a techno and house artist, with 33 gigs on soundcheck across Amsterdam, Lisbon, Madrid and Paris and 2 more. Often billed alongside DJ Gostoso, a51d_with_f and PunkFunkLove. Next up: Toekomstmuziek, Amsterdam on Sat 31 Oct.
+Gostoso is a techno and house artist based in Netherlands, with 33 gigs on soundcheck across Amsterdam, Lisbon, Madrid and Paris and 2 more. Often billed alongside DJ Gostoso, a51d_with_f and PunkFunkLove. Next up: Toekomstmuziek, Amsterdam on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Gostoso is a techno and house artist, with 33 gigs on soundcheck across Amsterda
 
 DJ Gostoso, a51d_with_f, PunkFunkLove
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gostoso/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gostoso/)*

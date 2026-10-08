@@ -1,13 +1,14 @@
 # Small Crab (2)
 
-Small Crab (2) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+Small Crab (2) is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Sauna Social Club, London on Sat, 17 Oct 2026.
 
-Small Crab is a bass and techno artist based in Germany, with 44 gigs on soundcheck across Belfast, Berlin, Bristol and Central and 12 more. Often billed alongside Angel Cat, Syz and Hajj. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
+Small Crab is a bass and techno artist based in Germany, with 45 gigs on soundcheck across Belfast, Berlin, Bristol and Central and 12 more. Often billed alongside Angel Cat, Syz and Hajj. Next up: Sauna Social Club, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Sauna Social Club | London |
 | Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 
 ## Recently played
@@ -25,4 +26,4 @@ Small Crab is a bass and techno artist based in Germany, with 44 gigs on soundch
 
 Angel Cat, Syz, Hajj
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smallcrab-2/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smallcrab-2/)*

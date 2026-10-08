@@ -1,13 +1,14 @@
 # Daryl Johnson
 
-Daryl Johnson is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at KitKatClub, Berlin on Fri, 30 Oct 2026.
+Daryl Johnson is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Galerie Kurzweil, Darmstadt on Sat, 10 Oct 2026.
 
-Daryl Johnson is a techno and tech house artist based in Germany, with 17 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside Dan Brocksmith, Luke Sun and Flo Circus. Next up: KitKatClub, Berlin on Fri 30 Oct.
+Daryl Johnson is a techno and tech house artist based in Germany, with 18 gigs on soundcheck across Berlin, Darmstadt and Frankfurt. Often billed alongside Dan Brocksmith, Luke Sun and Flo Circus. Next up: Galerie Kurzweil, Darmstadt on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Galerie Kurzweil | Darmstadt |
 | Fri, 30 Oct 2026 | KitKatClub | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Daryl Johnson is a techno and tech house artist based in Germany, with 17 gigs o
 
 Dan Brocksmith, Luke Sun, Flo Circus
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daryljohnson/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daryljohnson/)*

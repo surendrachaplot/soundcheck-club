@@ -1,6 +1,6 @@
 # Ramona
 
-Ramona is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Mass Communication: REANIMATOR" on Fri, 16 Oct 2026.
+Ramona is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Mass Communication: REANIMATOR" on Fri, 16 Oct 2026.
 
 Ramona is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including DJ POLLY, krioso, LIZ-ZIE and LUMIINA and 2 more. See dates, start times and who's playing. 40 Swan St, Manchester M4 5JG, United Kingdom.
 
@@ -15,4 +15,4 @@ Ramona is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, wit
 
 40 Swan St, Manchester M4 5JG, United Kingdom, Manchester
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/ramona/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/ramona/)*

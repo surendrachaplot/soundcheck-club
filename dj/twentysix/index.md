@@ -1,6 +1,6 @@
 # TWENTY SIX
 
-TWENTY SIX is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Department 184, Milan on Sat, 10 Oct 2026.
+TWENTY SIX is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Department 184, Milan on Sat, 10 Oct 2026.
 
 TWENTY SIX is a tech house and house artist based in Italy, with 27 gigs on soundcheck across Amsterdam, Barcelona, Boston and Buenos Aires and 11 more. Often billed alongside Bab Klover, Javi Bora and Amour Propre. Next up: Department 184, Milan on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ TWENTY SIX is a tech house and house artist based in Italy, with 27 gigs on soun
 
 Bab Klover, Javi Bora, Amour Propre
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twentysix/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twentysix/)*

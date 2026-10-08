@@ -1,6 +1,6 @@
 # KIRSTY
 
-KIRSTY is a Techno and Hardcore artist with 14 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Film Studios, Gothenburg on Fri, 9 Oct 2026.
+KIRSTY is a Techno and Hardcore artist with 14 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Film Studios, Gothenburg on Fri, 9 Oct 2026.
 
 KIRSTY is a techno and hardcore artist based in Ireland, with 75 gigs on soundcheck across Amsterdam, Auckland, Belfast and Belgrade and 24 more. Often billed alongside Lolalita, KimberlaID and Restricted. Next up: Film Studios, Gothenburg on Fri 9 Oct.
 
@@ -36,4 +36,4 @@ KIRSTY is a techno and hardcore artist based in Ireland, with 75 gigs on soundch
 
 Lolalita, KimberlaID, Restricted
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*

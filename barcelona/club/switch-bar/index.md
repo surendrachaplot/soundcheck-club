@@ -1,19 +1,26 @@
 # Switch Bar
 
-Switch Bar is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Bobare Wednesday: Concrete Joe / LM" on Wed, 7 Oct 2026.
+Switch Bar is a music venue in Barcelona with 18 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "HiFi: Merri, Deza" on Thu, 8 Oct 2026.
 
-Switch Bar is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, with line-ups including Konnin, LeMichael, LM and Rumbler. See dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
+Switch Bar is a music venue in Barcelona listed on soundcheck. 18 upcoming gigs, with line-ups including Arildo, Armela, btrast and Deckard and 2 more. See dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 7 Oct 2026 | Bobare Wednesday: Concrete Joe / LM | LM |
-| Wed, 4 Nov 2026 | Bobare Wednesday: Rumbler / LeMichael | LeMichael, Rumbler |
-| Wed, 2 Dec 2026 | Bobare Wednesday: Konnin / LeMichael | Konnin, LeMichael |
+| Thu, 8 Oct 2026 | HiFi: Merri, Deza |  |
+| Fri, 9 Oct 2026 | Alejandría , Fran Bernays | Fran Bernays |
+| Sat, 10 Oct 2026 | Transmission: Bertola, PEBU, Daniela Luzzatto, SILVIä b2b Serkin | Serkin |
+| Sun, 11 Oct 2026 | Neskeh & Ludviq | Ludviq |
+| Wed, 14 Oct 2026 | Farres, Vultur | Farres |
+| Thu, 15 Oct 2026 | The Dijous Saved My Life: Basic Shape, Arildo | Arildo |
+| Fri, 16 Oct 2026 | Pau Rosés, Polen | Pau Rosés, Polen |
+| Sat, 17 Oct 2026 | Videoclub #2: Underground Resistance x Anil Lal & Deckard | Deckard |
+| Wed, 21 Oct 2026 | Wetness: Matías Bonino, MENTA | MENTA |
+| Thu, 22 Oct 2026 | HiFi: Alexis Perdomo, Deza |  |
 
 ## Address
 
 Carrer Francisco Giner, 24, 08012 Barcelona, Spain, Barcelona
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*

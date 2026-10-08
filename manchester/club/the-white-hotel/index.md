@@ -1,8 +1,8 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 40 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Self: Vanessa Bedoret, Magnus Westwell, Needle" on Thu, 8 Oct 2026.
+The White Hotel is a music venue in Manchester with 41 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Self: Vanessa Bedoret, Magnus Westwell, Needle" on Thu, 8 Oct 2026.
 
-The White Hotel is a music venue in Manchester listed on soundcheck. 40 upcoming gigs, with line-ups including Fastlove, Abena, Aiden Francis and Alexi Shell and 2 more. See dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
+The White Hotel is a music venue in Manchester listed on soundcheck. 41 upcoming gigs, with line-ups including Fastlove, Abena, Aiden Francis and Alexi Shell and 2 more. See dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 40 upcoming
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

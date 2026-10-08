@@ -1,6 +1,6 @@
 # Makes Me Human turns 5 feat. DJ Koolt at TBA
 
-Makes Me Human turns 5 feat. DJ Koolt at TBA on Sat 7 Nov, Seattle. 1 artist: DJ Koolt. Electro and Acid. See the line-up on soundcheck.
+Makes Me Human turns 5 feat. DJ Koolt at TBA on Sat 7 Nov, Seattle. 4 artists: DJ Koolt, Kinjo, Konifer and Sherman Crawford. Electro and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,8 @@ Makes Me Human turns 5 feat. DJ Koolt at TBA on Sat 7 Nov, Seattle. 1 artist: DJ
 ## Line-up
 
 - DJ Koolt
+- Kinjo
+- Konifer
+- Sherman Crawford
 
 *Source: [soundcheck](https://soundcheck.club/e/2521084-makes-me-human-turns-5-feat-dj-koolt-at-tba/)*

@@ -1,14 +1,15 @@
 # YAZMIN (MT)
 
-YAZMIN (MT) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 4 Nov 2026.
+YAZMIN (MT) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 4 Nov 2026.
 
-YAZMIN (MT) is a techno and house artist based in Malta, with 35 gigs on soundcheck across Berlin, Malta, Manchester and Milan and 3 more. Often billed alongside Echofaze, Kyle Cortis and Human Safari. Next up: Tresor / Globus, Berlin on Wed 4 Nov.
+YAZMIN (MT) is a techno and house artist based in Malta, with 36 gigs on soundcheck across Berlin, Malta, Manchester and Milan and 3 more. Often billed alongside Echofaze, Kyle Cortis and Human Safari. Next up: Tresor / Globus, Berlin on Wed 4 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 4 Nov 2026 | Tresor / Globus | Berlin |
+| Fri, 13 Nov 2026 | Liquid Club | Malta |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ YAZMIN (MT) is a techno and house artist based in Malta, with 35 gigs on soundch
 
 Echofaze, Kyle Cortis, Human Safari
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yazmin-mt/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yazmin-mt/)*

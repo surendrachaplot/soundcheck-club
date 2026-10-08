@@ -1,6 +1,6 @@
 # INTO SOLA invites: Daisy Moon (Glasgow Debut), David Scott & Ben Watson, Kyle Scott at La Cheetah Club
 
-INTO SOLA invites: Daisy Moon (Glasgow Debut), David Scott & Ben Watson, Kyle Scott at La Cheetah Club on Fri 23 Oct, Glasgow. 3 artists: Daisy Moon, David Scott and Kyle Scott. Techno and House. See the line-up on soundcheck.
+INTO SOLA invites: Daisy Moon (Glasgow Debut), David Scott & Ben Watson, Kyle Scott at La Cheetah Club on Fri 23 Oct, Glasgow. 4 artists: Ben Watson, Daisy Moon, David Scott and Kyle Scott. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ INTO SOLA invites: Daisy Moon (Glasgow Debut), David Scott & Ben Watson, Kyle Sc
 
 ## Line-up
 
+- Ben Watson
 - Daisy Moon
 - David Scott
 - Kyle Scott

@@ -1,6 +1,6 @@
 # Elwei
 
-Elwei is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Folklor, Lausanne on Sat, 10 Oct 2026.
+Elwei is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Folklor, Lausanne on Sat, 10 Oct 2026.
 
 Elwei is a house and techno artist based in Spain, with 98 gigs on soundcheck across Antwerp, Barcelona, Berlin and Ibiza and 4 more. Often billed alongside Miguel Silva, Popsky and Djoan. Next up: Folklor, Lausanne on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Elwei is a house and techno artist based in Spain, with 98 gigs on soundcheck ac
 
 Miguel Silva, Popsky, Djoan
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elwei/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elwei/)*

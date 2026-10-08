@@ -1,8 +1,8 @@
 # Physical Therapy
 
-Physical Therapy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Refuge, New York City on Fri, 23 Oct 2026.
+Physical Therapy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Refuge, New York City on Fri, 23 Oct 2026.
 
-Physical Therapy is a techno and house artist based in United States of America, with 136 gigs on soundcheck across Amsterdam, Berlin, Boston and Brussels and 24 more. Often billed alongside Michael Magnan, Fatherhood and Lauren Flax. Next up: Refuge, New York City on Fri 23 Oct.
+Physical Therapy is a techno and house artist based in United States of America, with 137 gigs on soundcheck across Amsterdam, Berlin, Boston and Brussels and 24 more. Often billed alongside Michael Magnan, Fatherhood and Lauren Flax. Next up: Refuge, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Physical Therapy is a techno and house artist based in United States of America,
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Refuge | New York City |
 | Sat, 31 Oct 2026 | TBA -  Secret Location | New York City |
+| Sun, 1 Nov 2026 | public records | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Physical Therapy is a techno and house artist based in United States of America,
 
 Michael Magnan, Fatherhood, Lauren Flax
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/physicaltherapy/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/physicaltherapy/)*

@@ -1,6 +1,6 @@
 # Bar Broei
 
-Bar Broei is a music venue in Ghent with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "ONDA: • Brtinzz - Laura Charlier - RUBÉN ERNESTO" on Fri, 23 Oct 2026.
+Bar Broei is a music venue in Ghent with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "ONDA: • Brtinzz - Laura Charlier - Rubén Ernesto" on Fri, 23 Oct 2026.
 
 Bar Broei is a music venue in Ghent listed on soundcheck. 1 upcoming gig, with line-ups including Brtinzz and Laura Charlier. See dates, start times and who's playing. Geraard de Duivelstraat 1, 9000 Gent, Belgium.
 
@@ -8,10 +8,10 @@ Bar Broei is a music venue in Ghent listed on soundcheck. 1 upcoming gig, with l
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | ONDA: • Brtinzz - Laura Charlier - RUBÉN ERNESTO | Brtinzz, Laura Charlier |
+| Fri, 23 Oct 2026 | ONDA: • Brtinzz - Laura Charlier - Rubén Ernesto | Brtinzz, Laura Charlier |
 
 ## Address
 
 Geraard de Duivelstraat 1, 9000 Gent, Belgium, Ghent
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/bar-broei/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/bar-broei/)*

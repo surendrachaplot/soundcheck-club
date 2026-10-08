@@ -1,6 +1,6 @@
 # Commercial Bay Live at Commercial Bay - Kemuri Hi-Fi, Reign & Pour, Dos Donkey and Public Bar
 
-Commercial Bay Live at Commercial Bay - Kemuri Hi-Fi, Reign & Pour, Dos Donkey and Public Bar on Sat 17 Oct, Auckland. 1 artist: Goldtooth. House and Garage. See the line-up on soundcheck.
+Commercial Bay Live at Commercial Bay - Kemuri Hi-Fi, Reign & Pour, Dos Donkey and Public Bar on Sat 17 Oct, Auckland. 2 artists: ANABE and Goldtooth. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Commercial Bay Live at Commercial Bay - Kemuri Hi-Fi, Reign & Pour, Dos Donkey a
 
 ## Line-up
 
+- ANABE
 - Goldtooth
 
 *Source: [soundcheck](https://soundcheck.club/e/2553065-commercial-bay-live-at-commercial-bay-kemuri-hi-fi-reign-pou/)*

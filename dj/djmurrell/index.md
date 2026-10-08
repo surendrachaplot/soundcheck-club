@@ -1,6 +1,6 @@
 # DJ Murrell
 
-DJ Murrell is a Disco and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at fabric, London on Sat, 28 Nov 2026.
+DJ Murrell is a Disco and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at fabric, London on Sat, 28 Nov 2026.
 
 DJ Murrell is a disco and deep house artist, with 9 gigs on soundcheck across London. Often billed alongside Groove Assassin, Ronnie Herel and Sol Brown. Next up: fabric, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DJ Murrell is a disco and deep house artist, with 9 gigs on soundcheck across Lo
 
 Groove Assassin, Ronnie Herel, Sol Brown
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmurrell/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmurrell/)*

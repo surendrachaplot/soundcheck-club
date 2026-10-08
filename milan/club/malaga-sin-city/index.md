@@ -1,6 +1,6 @@
 # Malaga Sin City
 
-Malaga Sin City is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "MILAN'S ECHO with Andy's Echo (Live), Hylo, Purple Tape, Niko Nash" on Fri, 9 Oct 2026.
+Malaga Sin City is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "MILAN'S ECHO with Andy's Echo (Live), Hylo, Purple Tape, Niko Nash" on Fri, 9 Oct 2026.
 
 Malaga Sin City is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including Andy's Echo, Cesare vs Disorder, HYLO (IT) and Purple Tape and 2 more. See dates, start times and who's playing. Via Enrico Schievano 8, Milano, 20143, Italy.
 
@@ -16,4 +16,4 @@ Malaga Sin City is a music venue in Milan listed on soundcheck. 3 upcoming gigs,
 
 Via Enrico Schievano 8, Milano, 20143, Italy, Milan
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/malaga-sin-city/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/malaga-sin-city/)*

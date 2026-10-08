@@ -1,6 +1,6 @@
 # ANDHRAY
 
-ANDHRAY is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Tunnel Club, Pereira on Sat, 24 Oct 2026.
+ANDHRAY is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Tunnel Club, Pereira on Sat, 24 Oct 2026.
 
 ANDHRAY is a techno and electronica artist, with 17 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Lisbon and 7 more. Often billed alongside Lady Maru, GLASSBASS and A.N.I.. Next up: Tunnel Club, Pereira on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ ANDHRAY is a techno and electronica artist, with 17 gigs on soundcheck across Am
 
 Lady Maru, GLASSBASS, A.N.I.
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andhray/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andhray/)*

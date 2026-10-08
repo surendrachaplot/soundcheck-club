@@ -1,6 +1,6 @@
 # AXIS: Retrograde with Jack Faulkner and Jonny Cota at TBA - DTLA
 
-AXIS: Retrograde with Jack Faulkner and Jonny Cota at TBA - DTLA on Fri 23 Oct, Los Angeles. 1 artist: JACK FAULKNER. House and Tech House. See the line-up on soundcheck.
+AXIS: Retrograde with Jack Faulkner and Jonny Cota at TBA - DTLA on Fri 23 Oct, Los Angeles. 1 artist: JACK FAULKNER. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

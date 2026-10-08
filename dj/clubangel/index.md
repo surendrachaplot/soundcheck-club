@@ -1,8 +1,8 @@
 # Club Angel
 
-Club Angel is a Garage and House artist with 12 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
+Club Angel is a Garage and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
 
-Club Angel is a garage and house artist based in Australia, with 103 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 37 more. Often billed alongside Sam Alfred, salute and Faster Horses. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
+Club Angel is a garage and house artist based in Australia, with 102 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 37 more. Often billed alongside Sam Alfred, salute and Faster Horses. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,7 +10,6 @@ Club Angel is a garage and house artist based in Australia, with 103 gigs on sou
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Sun, 11 Oct 2026 | Mondo Open Air | Madrid |
-| Sun, 11 Oct 2026 | Mondo | Madrid |
 | Fri, 16 Oct 2026 | The Clock Factory | Bristol |
 | Sat, 17 Oct 2026 | Centre Point | Dublin |
 | Fri, 23 Oct 2026 | Prozak 2.0 | Krakow |
@@ -36,4 +35,4 @@ Club Angel is a garage and house artist based in Australia, with 103 gigs on sou
 
 Sam Alfred, salute, Faster Horses
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubangel/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubangel/)*

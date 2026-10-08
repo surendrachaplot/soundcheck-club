@@ -1,14 +1,15 @@
 # YUKA YU
 
-YUKA YU is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at White Rabbit, San Francisco/Oakland on Thu, 8 Oct 2026.
+YUKA YU is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at White Rabbit, San Francisco/Oakland on Thu, 8 Oct 2026.
 
-YUKA YU is a house and techno artist based in United States of America, with 45 gigs on soundcheck across Portland and San Francisco/Oakland. Often billed alongside Cryptik, Loic Tambay and Cole Odin. Next up: White Rabbit, San Francisco/Oakland on Thu 8 Oct.
+YUKA YU is a house and techno artist based in United States of America, with 46 gigs on soundcheck across Portland and San Francisco/Oakland. Often billed alongside Cryptik, Loic Tambay and Cole Odin. Next up: White Rabbit, San Francisco/Oakland on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | White Rabbit | San Francisco/Oakland |
+| Fri, 23 Oct 2026 | TBA - 260 Kearny St, San Francisco | San Francisco/Oakland |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ YUKA YU is a house and techno artist based in United States of America, with 45 
 
 Cryptik, Loic Tambay, Cole Odin
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yukayu/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yukayu/)*

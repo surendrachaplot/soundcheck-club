@@ -1,13 +1,14 @@
 # Elli Arakawa
 
-Elli Arakawa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
+Elli Arakawa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Shooting Gallery, Philippines on Sat, 10 Oct 2026.
 
-Elli Arakawa is a techno and house artist based in Japan, with 31 gigs on soundcheck across Amsterdam, Bangkok, Hong Kong and Melbourne and 4 more. Often billed alongside DJ Yazi, DJ Gordon and DJ Nobu. Next up: Tai Tong Organic Ecopark, Hong Kong on Sat 14 Nov.
+Elli Arakawa is a techno and house artist based in Japan, with 32 gigs on soundcheck across Amsterdam, Bangkok, Hong Kong and Melbourne and 5 more. Often billed alongside DJ Yazi, DJ Gordon and DJ Nobu. Next up: Shooting Gallery, Philippines on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Shooting Gallery | Philippines |
 | Sat, 14 Nov 2026 | Tai Tong Organic Ecopark | Hong Kong |
 
 ## Recently played
@@ -25,4 +26,4 @@ Elli Arakawa is a techno and house artist based in Japan, with 31 gigs on soundc
 
 DJ Yazi, DJ Gordon, DJ Nobu
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliarakawa/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliarakawa/)*

@@ -1,6 +1,6 @@
 # Torren Foot
 
-Torren Foot is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Fortitude Music Hall, Brisbane on Thu, 15 Oct 2026.
+Torren Foot is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Fortitude Music Hall, Brisbane on Thu, 15 Oct 2026.
 
 Torren Foot is a house and tech house artist based in Australia, with 53 gigs on soundcheck across Austin, Boston, Brisbane and Chicago and 13 more. Often billed alongside Airwolf Paradise, Sonny Fodera and Dom Dolla. Next up: The Fortitude Music Hall, Brisbane on Thu 15 Oct.
 
@@ -27,4 +27,4 @@ Torren Foot is a house and tech house artist based in Australia, with 53 gigs on
 
 Airwolf Paradise, Sonny Fodera, Dom Dolla
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torrenfoot/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torrenfoot/)*

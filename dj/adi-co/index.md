@@ -1,8 +1,8 @@
 # Adi (CO)
 
-Adi (CO) is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 9 Oct 2026.
+Adi (CO) is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 9 Oct 2026.
 
-Adi (CO) is a techno and house artist based in Colombia, with 109 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 26 more. Often billed alongside Unai Trotti, Jane Fitz and Walrus. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 9 Oct.
+Adi (CO) is a techno and house artist based in Colombia, with 110 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 27 more. Often billed alongside Unai Trotti, Jane Fitz and Walrus. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Adi (CO) is a techno and house artist based in Colombia, with 109 gigs on soundc
 | Sat, 17 Oct 2026 | Final | Taipei |
 | Fri, 13 Nov 2026 | Palais | London |
 | Fri, 2 Apr 2027 | TBA | Sheffield |
+| Fri, 2 Jul 2027 | Brithdir Hall | West-wales |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Adi (CO) is a techno and house artist based in Colombia, with 109 gigs on soundc
 
 Unai Trotti, Jane Fitz, Walrus
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adi-co/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adi-co/)*

@@ -1,14 +1,15 @@
 # Lyrae
 
-Lyrae is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - noord, Amsterdam on Sat, 7 Nov 2026.
+Lyrae is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - noord, Amsterdam on Sat, 7 Nov 2026.
 
-Lyrae is an electronica and house artist based in Netherlands, with 16 gigs on soundcheck across Amsterdam, Berlin, Rotterdam and Utrecht. Often billed alongside 36framez, Lennart (NL) and Lucky Done Gone. Next up: TBA - noord, Amsterdam on Sat 7 Nov.
+Lyrae is a house and electronica artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam, Berlin, Rotterdam and Utrecht. Often billed alongside 36framez, Lennart (NL) and Lucky Done Gone. Next up: TBA - noord, Amsterdam on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | TBA - noord | Amsterdam |
+| Sat, 14 Nov 2026 | KABUL à GoGo | Utrecht |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Lyrae is an electronica and house artist based in Netherlands, with 16 gigs on s
 
 36framez, Lennart (NL), Lucky Done Gone
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyrae/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyrae/)*

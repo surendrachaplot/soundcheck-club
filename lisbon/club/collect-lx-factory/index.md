@@ -1,6 +1,6 @@
 # Collect LX Factory
 
-Collect LX Factory is a music venue in Lisbon with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "15 YEARS of ASSEMBLE MUSIC W/ Willow (UK) + Patrick Specke (DE)" on Sat, 10 Oct 2026.
+Collect LX Factory is a music venue in Lisbon with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "15 YEARS of ASSEMBLE MUSIC W/ Willow (UK) + Patrick Specke (DE)" on Sat, 10 Oct 2026.
 
 Collect LX Factory is a music venue in Lisbon listed on soundcheck. 10 upcoming gigs, with line-ups including Amulador, Billi, C3D-E and Caroline Lethô and 2 more. See dates, start times and who's playing. R. Rodrigues de Faria 103, 1300-501 Lisboa.
 
@@ -23,4 +23,4 @@ Collect LX Factory is a music venue in Lisbon listed on soundcheck. 10 upcoming 
 
 R. Rodrigues de Faria 103, 1300-501 Lisboa, Lisbon
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-lx-factory/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-lx-factory/)*

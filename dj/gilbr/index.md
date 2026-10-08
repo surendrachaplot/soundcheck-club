@@ -1,8 +1,8 @@
 # Gilb'R
 
-Gilb'R is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at La Cité Fertile, Paris on Sat, 10 Oct 2026.
+Gilb'R is a Electro and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at La Cité Fertile, Paris on Sat, 10 Oct 2026.
 
-Gilb'R is an electro and house artist based in France, with 24 gigs on soundcheck across Barcelona, Belgrade, Berlin and Bristol and 3 more. Often billed alongside Zaltan, Alex From Tokyo and DJ Sotofett. Next up: La Cité Fertile, Paris on Sat 10 Oct.
+Gilb'R is an electro and techno artist based in France, with 25 gigs on soundcheck across Barcelona, Belgrade, Berlin and Bristol and 3 more. Often billed alongside Zaltan, I:Cube and Alex From Tokyo. Next up: La Cité Fertile, Paris on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Gilb'R is an electro and house artist based in France, with 24 gigs on soundchec
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | La Cité Fertile | Paris |
 | Fri, 16 Oct 2026 | Plantation Paris | Paris |
+| Fri, 13 Nov 2026 | Point Ephémère | Paris |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Gilb'R is an electro and house artist based in France, with 24 gigs on soundchec
 
 ## Shares bills with
 
-Zaltan, Alex From Tokyo, DJ Sotofett
+Zaltan, I:Cube, Alex From Tokyo
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gilbr/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gilbr/)*

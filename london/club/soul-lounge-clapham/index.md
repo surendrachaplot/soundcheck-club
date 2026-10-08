@@ -1,6 +1,6 @@
 # Soul Lounge Clapham
 
-Soul Lounge Clapham is a music venue in London with 27 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Bashment & Afrobeats Clapham Party" on Fri, 9 Oct 2026.
+Soul Lounge Clapham is a music venue in London with 27 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Bashment & Afrobeats Clapham Party" on Fri, 9 Oct 2026.
 
 Soul Lounge Clapham is a music venue in London listed on soundcheck. 27 upcoming gigs. See dates, start times and who's playing. 76 Clapham High St, London SW4 7UL.
 
@@ -23,4 +23,4 @@ Soul Lounge Clapham is a music venue in London listed on soundcheck. 27 upcoming
 
 76 Clapham High St, London SW4 7UL, London
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/soul-lounge-clapham/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/soul-lounge-clapham/)*

@@ -1,8 +1,8 @@
 # Melé
 
-Melé is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Halcyon, San Francisco/Oakland on Fri, 9 Oct 2026.
+Melé is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Halcyon, San Francisco/Oakland on Fri, 9 Oct 2026.
 
-Melé is a house and tech house artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Bali, Barcelona and Bristol and 29 more. Often billed alongside Sam Divine, Eats Everything and Olive F. Next up: Halcyon, San Francisco/Oakland on Fri 9 Oct.
+Melé is a house and tech house artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Bali, Barcelona and Bristol and 29 more. Often billed alongside Sam Divine, Eats Everything and Olive F. Next up: Halcyon, San Francisco/Oakland on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Melé is a house and tech house artist based in United Kingdom, with 124 gigs on
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Halcyon | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | Spin | San Diego |
+| Sun, 11 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
 | Thu, 22 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 | Fri, 30 Oct 2026 | Phonox | London |
@@ -29,4 +30,4 @@ Melé is a house and tech house artist based in United Kingdom, with 124 gigs on
 
 Sam Divine, Eats Everything, Olive F
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mele/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mele/)*

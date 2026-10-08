@@ -1,6 +1,6 @@
 # Valentine Groove
 
-Valentine Groove is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Solum, Paris on Sat, 17 Oct 2026.
+Valentine Groove is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Solum, Paris on Sat, 17 Oct 2026.
 
 Valentine Groove is a house and disco artist based in France, with 29 gigs on soundcheck across Geneva, Marseille, Montreal and Paris. Often billed alongside Joe Lewandowski, Bon Entendeur and Palomina. Next up: Solum, Paris on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Valentine Groove is a house and disco artist based in France, with 29 gigs on so
 
 Joe Lewandowski, Bon Entendeur, Palomina
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinegroove/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinegroove/)*

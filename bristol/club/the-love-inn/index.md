@@ -1,14 +1,13 @@
 # The Love Inn
 
-The Love Inn is a music venue in Bristol with 13 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "TBH [all night long]" on Wed, 7 Oct 2026.
+The Love Inn is a music venue in Bristol with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Sam Bower residency #02 with IZZIT + Tommy Dymock" on Thu, 8 Oct 2026.
 
-The Love Inn is a music venue in Bristol listed on soundcheck. 13 upcoming gigs, with line-ups including Alien Communications, Andy Martin, AVA and Azumei and 2 more. See dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
+The Love Inn is a music venue in Bristol listed on soundcheck. 12 upcoming gigs, with line-ups including Alien Communications, Andy Martin, AVA and Azumei and 2 more. See dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 7 Oct 2026 | TBH [all night long] | Tully |
 | Thu, 8 Oct 2026 | Sam Bower residency #02 with IZZIT + Tommy Dymock | IZZIT, Tommy Dymock |
 | Fri, 9 Oct 2026 | Gonno + R.E.D | Gonno, R.E.D |
 | Sat, 10 Oct 2026 | Nosedrip & Morey Cillar | Nosedrip |
@@ -18,9 +17,10 @@ The Love Inn is a music venue in Bristol listed on soundcheck. 13 upcoming gigs,
 | Sat, 31 Oct 2026 | Club Djembe Halloween w/Fold, Caragh & DJ Polo b2b DJ Stolen | Caragh, DJ Polo, DJ Stolen, Fold |
 | Fri, 6 Nov 2026 | Alien Communications Showcase | Alien Communications, Eksish, Ste Roberts |
 | Fri, 20 Nov 2026 | OMBRAR 'The Stairs' - Listening Party + live sets | Field Case, OMBRAR |
+| Fri, 20 Nov 2026 | Sleep Felt Far Away with Jay Duncan | Ido Plumes, Jay Duncan |
 
 ## Address
 
 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom, Bristol
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*

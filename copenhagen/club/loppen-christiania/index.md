@@ -1,6 +1,6 @@
 # Loppen Christiania
 
-Loppen Christiania is a music venue in Copenhagen with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "SUNRAKER + Support: Nightmaries // Loppen" on Thu, 8 Oct 2026.
+Loppen Christiania is a music venue in Copenhagen with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "SUNRAKER + Support: Nightmaries // Loppen" on Thu, 8 Oct 2026.
 
 Loppen Christiania is a music venue in Copenhagen listed on soundcheck. 3 upcoming gigs, with line-ups including miaw. See dates, start times and who's playing. Loppen Sydområdet 4B 1. Sal, DK 1440 Kbh K.
 
@@ -16,4 +16,4 @@ Loppen Christiania is a music venue in Copenhagen listed on soundcheck. 3 upcomi
 
 Loppen Sydområdet 4B 1. Sal, DK 1440 Kbh K, Copenhagen
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/loppen-christiania/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/loppen-christiania/)*

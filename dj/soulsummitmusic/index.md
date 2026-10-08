@@ -1,6 +1,6 @@
 # Soul Summit Music
 
-Soul Summit Music is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Mo's Bar, New York City on Sat, 10 Oct 2026.
+Soul Summit Music is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Mo's Bar, New York City on Sat, 10 Oct 2026.
 
 Soul Summit Music is a house and disco artist based in United States of America, with 71 gigs on soundcheck across New York City and Paris. Often billed alongside JADALAREIGN, Omer Mil and Timmy Regisford. Next up: Mo's Bar, New York City on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Soul Summit Music is a house and disco artist based in United States of America,
 
 JADALAREIGN, Omer Mil, Timmy Regisford
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulsummitmusic/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulsummitmusic/)*

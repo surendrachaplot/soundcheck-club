@@ -1,6 +1,6 @@
 # Back to the Turtur at Turtur
 
-Back to the Turtur on Fri 30 Oct, Hamburg. 7 artists: Caro Vola, Dana Anderson, HOVR and Jama and 3 more. See the line-up on soundcheck.
+Back to the Turtur on Fri 30 Oct, Hamburg. 8 artists: Caro Vola, Dana Anderson, DINKS and HOVR and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Back to the Turtur on Fri 30 Oct, Hamburg. 7 artists: Caro Vola, Dana Anderson, 
 
 - Caro Vola
 - Dana Anderson
+- DINKS
 - HOVR
 - Jama
 - Judith van Waterkant

@@ -1,6 +1,6 @@
 # Heidy Fly
 
-Heidy Fly is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Macadam, Nantes on Sun, 8 Nov 2026.
+Heidy Fly is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Macadam, Nantes on Sun, 8 Nov 2026.
 
 Heidy Fly is a techno and trance artist based in France, with 14 gigs on soundcheck across Copenhagen and Nantes. Often billed alongside KOLLER, GTI and HORNS. Next up: Macadam, Nantes on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Heidy Fly is a techno and trance artist based in France, with 14 gigs on soundch
 
 KOLLER, GTI, HORNS (1)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heidyfly/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heidyfly/)*

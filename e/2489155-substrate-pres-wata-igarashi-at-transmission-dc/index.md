@@ -1,6 +1,6 @@
 # Substrate Pres. Wata Igarashi at TRANSMISSION DC
 
-Substrate Pres. Wata Igarashi at TRANSMISSION DC on Thu 8 Oct, Washington DC. 1 artist: Wata Igarashi. Techno. See the line-up on soundcheck.
+Substrate Pres. Wata Igarashi at TRANSMISSION DC on Thu 8 Oct, Washington DC. 2 artists: Artemis.105 and Wata Igarashi. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Substrate Pres. Wata Igarashi at TRANSMISSION DC on Thu 8 Oct, Washington DC. 1 
 
 ## Line-up
 
+- Artemis.105
 - Wata Igarashi
 
 *Source: [soundcheck](https://soundcheck.club/e/2489155-substrate-pres-wata-igarashi-at-transmission-dc/)*

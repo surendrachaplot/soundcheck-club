@@ -1,14 +1,15 @@
 # Ivan Masa
 
-Ivan Masa is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Thu, 22 Oct 2026.
+Ivan Masa is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
-Ivan Masa is a techno and progressive house artist based in Italy, with 19 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 9 more. Often billed alongside ELIF, Erly Tepshi and Ivan Pugliares. Next up: Amsterdam Central Station, Amsterdam on Thu 22 Oct.
+Ivan Masa is a techno and progressive house artist based in Italy, with 20 gigs on soundcheck across Amsterdam, Athens, Azerbaijan and Barcelona and 10 more. Often billed alongside ELIF, Erly Tepshi and Ivan Pugliares. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Amsterdam Central Station | Amsterdam |
+| Thu, 22 Oct 2026 | 50:Hertz Club Train | Amsterdam |
+| Fri, 23 Oct 2026 | FOMO | Azerbaijan |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ivan Masa is a techno and progressive house artist based in Italy, with 19 gigs 
 
 ELIF, Erly Tepshi, Ivan Pugliares
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanmasa/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanmasa/)*

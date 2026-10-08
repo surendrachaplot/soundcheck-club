@@ -1,6 +1,6 @@
 # Opul
 
-Opul is a Deep House and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, Manchester on Sun, 11 Oct 2026.
+Opul is a Deep House and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA, Manchester on Sun, 11 Oct 2026.
 
 Opul is a deep house and ambient artist based in Canada, with 13 gigs on soundcheck across Amsterdam, Dublin, Liverpool and London and 2 more. Often billed alongside Etienne Groh, Nikol and Allius. Next up: TBA, Manchester on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Opul is a deep house and ambient artist based in Canada, with 13 gigs on soundch
 
 Etienne Groh, Nikol, Allius
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/opul/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/opul/)*

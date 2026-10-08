@@ -1,6 +1,6 @@
 # Miniwax
 
-Miniwax is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Un dimanche avec M.SAYYID" on Sun, 11 Oct 2026.
+Miniwax is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Un dimanche avec M.SAYYID" on Sun, 11 Oct 2026.
 
 Miniwax is a music venue in Paris listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Miniwax is a music venue in Paris listed on soundcheck. 2 upcoming gigs. See dat
 | Sun, 11 Oct 2026 | Un dimanche avec M.SAYYID |  |
 | Sun, 18 Oct 2026 | Un dimanche avec JB Hanak |  |
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/miniwax/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/miniwax/)*

@@ -1,6 +1,6 @@
 # Fine (2)
 
-Fine (2) is a Post-Punk and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
+Fine (2) is a Post-Punk and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
 
 Fine is a post-punk and electronica artist based in Denmark, with 11 gigs on soundcheck across Bristol, Copenhagen, Oslo and Stockholm and 1 more. Often billed alongside Melodi Ghazal, haloplus+ and 96 Back. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Fine is a post-punk and electronica artist based in Denmark, with 11 gigs on sou
 
 Melodi Ghazal, haloplus+, 96 Back
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fine-2/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fine-2/)*

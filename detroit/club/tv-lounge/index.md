@@ -1,6 +1,6 @@
 # TV Lounge
 
-TV Lounge is a music venue in Detroit with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "A BIG A** FIESTA" on Fri, 9 Oct 2026.
+TV Lounge is a music venue in Detroit with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "A BIG A** FIESTA" on Fri, 9 Oct 2026.
 
 TV Lounge is a music venue in Detroit listed on soundcheck. 6 upcoming gigs, with line-ups including Brent Shay, Bruce Bailey, Disc Jockey George and DJ Bone and 2 more. See dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
 
@@ -19,4 +19,4 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 6 upcoming gigs, wit
 
 2548 Grand River Avenue; Detroit, MI; United States, Detroit
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*

@@ -1,13 +1,14 @@
 # Orly Gal
 
-Orly Gal is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, Los Angeles on Fri, 13 Nov 2026.
+Orly Gal is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Coaxial, Los Angeles on Sat, 24 Oct 2026.
 
-Orly Gal is a techno and electro artist based in United States of America, with 22 gigs on soundcheck across Berlin, Los Angeles, San Diego and Vienna. Often billed alongside Sleepy Cat, Adrian Mills and BB Shaine. Next up: TBA, Los Angeles on Fri 13 Nov.
+Orly Gal is a techno and electro artist based in United States of America, with 23 gigs on soundcheck across Berlin, Los Angeles, San Diego and Vienna. Often billed alongside Sleepy Cat, Adrian Mills and BB Shaine. Next up: Coaxial, Los Angeles on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Coaxial | Los Angeles |
 | Fri, 13 Nov 2026 | TBA | Los Angeles |
 
 ## Recently played
@@ -25,4 +26,4 @@ Orly Gal is a techno and electro artist based in United States of America, with 
 
 Sleepy Cat, Adrian Mills, BB Shaine
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orlygal/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orlygal/)*

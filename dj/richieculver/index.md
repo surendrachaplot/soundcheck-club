@@ -1,6 +1,6 @@
 # Richie Culver
 
-Richie Culver is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - UNTHINKABLE, North on Sat, 10 Oct 2026.
+Richie Culver is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - UNTHINKABLE, North on Sat, 10 Oct 2026.
 
 Richie Culver is an electronica and experimental artist, with 9 gigs on soundcheck across Berlin, Copenhagen, Glasgow and Liverpool and 4 more. Often billed alongside Tendency, Ale Hop and Aleksi Perälä. Next up: TBA - UNTHINKABLE, North on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Richie Culver is an electronica and experimental artist, with 9 gigs on soundche
 
 Tendency, Ale Hop, Aleksi Perälä
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richieculver/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richieculver/)*

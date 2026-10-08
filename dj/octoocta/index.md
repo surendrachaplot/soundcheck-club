@@ -1,6 +1,6 @@
 # Octo Octa
 
-Octo Octa is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Nowadays, New York City on Thu, 8 Oct 2026.
+Octo Octa is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Nowadays, New York City on Thu, 8 Oct 2026.
 
 Octo Octa is a house and techno artist based in United States of America, with 210 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 60 more. Often billed alongside Eris Drew, ISAbella and CCL. Next up: Nowadays, New York City on Thu 8 Oct.
 
@@ -36,4 +36,4 @@ Octo Octa is a house and techno artist based in United States of America, with 2
 
 Eris Drew, ISAbella, CCL
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*

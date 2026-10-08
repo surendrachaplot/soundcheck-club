@@ -1,6 +1,6 @@
 # TARZI
 
-TARZI is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at fabric, London on Thu, 8 Oct 2026.
+TARZI is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at fabric, London on Thu, 8 Oct 2026.
 
 TARZI is an electronic artist, with 11 gigs on soundcheck across London. Often billed alongside tasha.mp4, Cultured Sounds and DJ DEE. Next up: fabric, London on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ TARZI is an electronic artist, with 11 gigs on soundcheck across London. Often b
 
 tasha.mp4, Cultured Sounds, DJ DEE (2)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tarzi/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tarzi/)*

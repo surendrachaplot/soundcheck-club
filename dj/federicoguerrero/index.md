@@ -1,6 +1,6 @@
 # Federico Guerrero
 
-Federico Guerrero is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at La Nube, Buenos Aires on Fri, 16 Oct 2026.
+Federico Guerrero is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at La Nube, Buenos Aires on Fri, 16 Oct 2026.
 
 Federico Guerrero is a techno and trance artist based in Argentina, with 13 gigs on soundcheck across Buenos Aires. Often billed alongside ADHILA, Ariana Fedele and FIØRELLA. Next up: La Nube, Buenos Aires on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Federico Guerrero is a techno and trance artist based in Argentina, with 13 gigs
 
 ADHILA, Ariana Fedele, FIØRELLA
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/federicoguerrero/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/federicoguerrero/)*

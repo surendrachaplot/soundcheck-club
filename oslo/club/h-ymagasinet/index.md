@@ -1,6 +1,6 @@
 # Høymagasinet
 
-Høymagasinet is a music venue in Oslo with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "NACH X ONE NEW PLANET" on Sat, 10 Oct 2026.
+Høymagasinet is a music venue in Oslo with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "NACH X ONE NEW PLANET" on Sat, 10 Oct 2026.
 
 Høymagasinet is a music venue in Oslo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Høymagasinet is a music venue in Oslo listed on soundcheck. 1 upcoming gig. See
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | NACH X ONE NEW PLANET |  |
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/h-ymagasinet/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/h-ymagasinet/)*

@@ -1,14 +1,15 @@
 # Zalina
 
-Zalina is a Latin Bass and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Club 77, Sydney on Fri, 30 Oct 2026.
+Zalina is a Latin Bass and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Club 77, Sydney on Fri, 30 Oct 2026.
 
-Zalina is a latin bass and reggaeton artist, with 61 gigs on soundcheck across Barcelona, Berlin, Brisbane and Melbourne and 1 more. Often billed alongside Tina Disco, Haus of Ralph and Nay Nay. Next up: Club 77, Sydney on Fri 30 Oct.
+Zalina is a latin bass and baile funk artist, with 62 gigs on soundcheck across Barcelona, Berlin, Brisbane and Melbourne and 1 more. Often billed alongside Tina Disco, Haus of Ralph and Nay Nay. Next up: Club 77, Sydney on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Club 77 | Sydney |
+| Mon, 2 Nov 2026 | Revolver Upstairs | Melbourne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Zalina is a latin bass and reggaeton artist, with 61 gigs on soundcheck across B
 
 Tina Disco, Haus of Ralph, Nay Nay
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zalina/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zalina/)*

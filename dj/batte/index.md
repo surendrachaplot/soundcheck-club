@@ -1,6 +1,6 @@
 # Batte
 
-Batte is a Electronica and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Turtur, Hamburg on Thu, 8 Oct 2026.
+Batte is a Electronica and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Turtur, Hamburg on Thu, 8 Oct 2026.
 
 Batte is an electronica and downtempo artist, with 24 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Crew Ombrelle, Neobeo and Sutsche. Next up: Turtur, Hamburg on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Batte is an electronica and downtempo artist, with 24 gigs on soundcheck across 
 
 Crew Ombrelle, Neobeo, Sutsche
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/batte/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/batte/)*

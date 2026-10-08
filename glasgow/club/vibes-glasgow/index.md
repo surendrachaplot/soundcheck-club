@@ -1,6 +1,6 @@
 # Vibes Glasgow
 
-Vibes Glasgow is a music venue in Glasgow with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "THE SIEGE : Presents - CLARES 25TH BDAY RAVE" on Fri, 9 Oct 2026.
+Vibes Glasgow is a music venue in Glasgow with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "THE SIEGE : Presents - CLARES 25TH BDAY RAVE" on Fri, 9 Oct 2026.
 
 Vibes Glasgow is a music venue in Glasgow listed on soundcheck. 9 upcoming gigs, with line-ups including JOKA, Make It Last and WŁSN. See dates, start times and who's playing. 239 Sauchiehall Street, Glasgow, G1 3AE.
 
@@ -22,4 +22,4 @@ Vibes Glasgow is a music venue in Glasgow listed on soundcheck. 9 upcoming gigs,
 
 239 Sauchiehall Street, Glasgow, G1 3AE, Glasgow
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vibes-glasgow/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vibes-glasgow/)*

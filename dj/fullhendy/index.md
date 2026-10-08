@@ -1,6 +1,6 @@
 # Full Hendy
 
-Full Hendy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Xuxa, Austin on Sat, 10 Oct 2026.
+Full Hendy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Xuxa, Austin on Sat, 10 Oct 2026.
 
 Full Hendy is a house and techno artist based in United States of America, with 10 gigs on soundcheck across Austin. Often billed alongside AMANDA KOONTZ, Gondra and Al V Dam. Next up: Xuxa, Austin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Full Hendy is a house and techno artist based in United States of America, with 
 
 AMANDA KOONTZ, Gondra, Al V Dam
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fullhendy/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fullhendy/)*

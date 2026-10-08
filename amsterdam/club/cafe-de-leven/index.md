@@ -1,6 +1,6 @@
 # Cafe De Leven
 
-Cafe De Leven is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "Instrument of Change ADE Special: Tom Ellis & Steven Pieters" on Sat, 24 Oct 2026.
+Cafe De Leven is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "Instrument of Change ADE Special: Tom Ellis & Steven Pieters" on Sat, 24 Oct 2026.
 
 Cafe De Leven is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Steven Pieters and Tom Ellis. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Cafe De Leven is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Instrument of Change ADE Special: Tom Ellis & Steven Pieters | Steven Pieters, Tom Ellis |
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cafe-de-leven/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cafe-de-leven/)*

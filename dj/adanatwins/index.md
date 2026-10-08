@@ -1,6 +1,6 @@
 # Adana Twins
 
-Adana Twins is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at fabric, London on Sat, 24 Oct 2026.
+Adana Twins is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at fabric, London on Sat, 24 Oct 2026.
 
 Adana Twins is a techno and house artist based in Germany, with 79 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 31 more. Often billed alongside Andhim, Colyn and Edouard!. Next up: fabric, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Adana Twins is a techno and house artist based in Germany, with 79 gigs on sound
 
 Andhim, Colyn, Edouard!
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adanatwins/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adanatwins/)*

@@ -1,14 +1,14 @@
 # Sarah Kay
 
-Sarah Kay is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Sainte-Catherine Hall, Montreal on Sat, 31 Oct 2026.
+Sarah Kay is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Entrepôts Dominion, Les, Montreal on Sat, 31 Oct 2026.
 
-Sarah Kay is a techno and trance artist, with 11 gigs on soundcheck across Montreal. Often billed alongside ArioVistus, BUYMEFLOVVERS and Char.l.n. Next up: Sainte-Catherine Hall, Montreal on Sat 31 Oct.
+Sarah Kay is a techno and trance artist, with 11 gigs on soundcheck across Montreal. Often billed alongside ArioVistus, BUYMEFLOVVERS and Char.l.n. Next up: Entrepôts Dominion, Les, Montreal on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Sainte-Catherine Hall | Montreal |
+| Sat, 31 Oct 2026 | Entrepôts Dominion, Les | Montreal |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Sarah Kay is a techno and trance artist, with 11 gigs on soundcheck across Montr
 
 ArioVistus, BUYMEFLOVVERS, Char.l.n
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahkay/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahkay/)*

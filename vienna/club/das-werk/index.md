@@ -1,8 +1,8 @@
 # Das Werk
 
-Das Werk is a music venue in Vienna with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "HERZFREQUENZ presents ESCA & LEAH" on Fri, 9 Oct 2026.
+Das Werk is a music venue in Vienna with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "HERZFREQUENZ presents ESCA & LEAH" on Fri, 9 Oct 2026.
 
-Das Werk is a music venue in Vienna listed on soundcheck. 8 upcoming gigs, with line-ups including Crystal O, DJ Achim Feuervogel, ESCA and Felinae and 2 more. See dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
+Das Werk is a music venue in Vienna listed on soundcheck. 10 upcoming gigs, with line-ups including Crystal O, DJ Achim Feuervogel, DJ PARKVERBOT and ESCA and 2 more. See dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
 
 ## What's on
 
@@ -13,7 +13,9 @@ Das Werk is a music venue in Vienna listed on soundcheck. 8 upcoming gigs, with 
 | Wed, 14 Oct 2026 | FIFI RAVE | Huebl, Jay P, plastiktanz |
 | Fri, 16 Oct 2026 | SYNERGY RAVE x Trance + Hard Techno |  |
 | Sat, 17 Oct 2026 | Stay Acid presents 54hz with DJ Achim Feuervogel + KLING&KLANG | DJ Achim Feuervogel, KLING&KLANG, PSMT, WO.IZZY, pinklotion |
+| Wed, 21 Oct 2026 | RAM - Rave am Mittwoch | DJ PARKVERBOT, Jubin Amiri |
 | Sat, 24 Oct 2026 | RITUAL 404 - DECIBELLES × IGNIX | Felinae, Hannah mit Hut, Sancta |
+| Wed, 28 Oct 2026 | RAM - Rave am Mittwoch | TAPCUE |
 | Fri, 13 Nov 2026 | HERZFREQUENZ | Joey (2) |
 | Fri, 18 Dec 2026 | HERZFREQUENZ | Joey (2) |
 
@@ -21,4 +23,4 @@ Das Werk is a music venue in Vienna listed on soundcheck. 8 upcoming gigs, with 
 
 Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria, Vienna
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*

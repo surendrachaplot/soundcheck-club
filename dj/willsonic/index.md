@@ -1,6 +1,6 @@
 # Will Sonic
 
-Will Sonic is a House and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at B2 Rīga, Riga on Fri, 16 Oct 2026.
+Will Sonic is a House and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at B2 Rīga, Riga on Fri, 16 Oct 2026.
 
 Will Sonic is a house and breakbeat artist based in Latvia, with 21 gigs on soundcheck across Riga. Often billed alongside PUPA, Waxid and Ikss. Next up: B2 Rīga, Riga on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Will Sonic is a house and breakbeat artist based in Latvia, with 21 gigs on soun
 
 PUPA, Waxid, Ikss
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willsonic/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willsonic/)*

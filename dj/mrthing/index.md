@@ -1,8 +1,8 @@
 # Mr Thing
 
-Mr Thing is a Funk / Soul and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Dahlia Stereo, Manchester on Thu, 29 Oct 2026.
+Mr Thing is a Funk / Soul and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Dahlia Stereo, Manchester on Thu, 29 Oct 2026.
 
-Mr Thing is a funk / soul and hip-hop artist, with 42 gigs on soundcheck across Bristol, Lisbon, Liverpool and London and 4 more. Often billed alongside Alexander Nut, Ella Knight and Gilles Peterson. Next up: Dahlia Stereo, Manchester on Thu 29 Oct.
+Mr Thing is a funk / soul and hip-hop artist based in United Kingdom, with 42 gigs on soundcheck across Bristol, Lisbon, Liverpool and London and 4 more. Often billed alongside Alexander Nut, Ella Knight and Gilles Peterson. Next up: Dahlia Stereo, Manchester on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Mr Thing is a funk / soul and hip-hop artist, with 42 gigs on soundcheck across 
 
 Alexander Nut, Ella Knight, Gilles Peterson
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrthing/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrthing/)*

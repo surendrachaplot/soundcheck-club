@@ -1,6 +1,6 @@
 # XP1ONAGE at XTC Bushwick
 
-XP1ONAGE at XTC Bushwick on Sat 10 Oct, New York City. 6 artists: Dasychira, FortifiedStructures, LOKA (US) and m i m i (US) and 2 more. Techno and Electronica. See the line-up on soundcheck.
+XP1ONAGE at XTC Bushwick on Sat 10 Oct, New York City. 7 artists: c4fatman, Dasychira, FortifiedStructures and LOKA (US) and 3 more. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ XP1ONAGE at XTC Bushwick on Sat 10 Oct, New York City. 6 artists: Dasychira, For
 
 ## Line-up
 
+- c4fatman
 - Dasychira
 - FortifiedStructures
 - LOKA (US)

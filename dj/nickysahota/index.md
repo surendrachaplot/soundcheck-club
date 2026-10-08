@@ -1,8 +1,8 @@
 # Nicky Sahota
 
-Nicky Sahota is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 28 Nov 2026.
+Nicky Sahota is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 28 Nov 2026.
 
-Nicky Sahota is a garage and house artist, with 14 gigs on soundcheck across Amsterdam and London. Often billed alongside DJ Perception, Lady Passion and Shuffle 'n' Swing. Next up: Starlane Pizza Bar, London on Sat 28 Nov.
+Nicky Sahota is a garage and house artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam and London. Often billed alongside DJ Perception, Lady Passion and Shuffle 'n' Swing. Next up: Starlane Pizza Bar, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Nicky Sahota is a garage and house artist, with 14 gigs on soundcheck across Ams
 
 DJ Perception, Lady Passion, Shuffle 'n' Swing
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickysahota/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickysahota/)*

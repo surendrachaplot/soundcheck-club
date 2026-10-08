@@ -1,6 +1,6 @@
 # Lufer
 
-Lufer is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at The Chemist, Boston on Wed, 7 Oct 2026.
+Lufer is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at The Chemist, Boston on Wed, 7 Oct 2026.
 
 Lufer is a techno and tech house artist based in Colombia, with 30 gigs on soundcheck across Boston, Melbourne and New York City. Often billed alongside The Consciousness, Egg In The Morning and ANDRÉS GARCIL. Next up: The Chemist, Boston on Wed 7 Oct.
 
@@ -12,6 +12,7 @@ Lufer is a techno and tech house artist based in Colombia, with 30 gigs on sound
 
 ## Recently played
 
+- The Chemist, Boston · Wed, 7 Oct 2026
 - Bsmnt, Boston · Thu, 24 Sept 2026
 - TBA - 288 GREEN ST CAMBRIDGE - MA 02139, Boston · Fri, 17 Jul 2026
 - Phoenix Landing, Boston · Tue, 26 May 2026
@@ -19,10 +20,9 @@ Lufer is a techno and tech house artist based in Colombia, with 30 gigs on sound
 - Dx, Boston · Thu, 23 Apr 2026
 - TBA - 246 Tremont St Boston, Massachusetts, Boston · Fri, 6 Mar 2026
 - Middlesex, Boston · Thu, 26 Feb 2026
-- Glamorama, Melbourne · Fri, 20 Feb 2026
 
 ## Shares bills with
 
 The Consciousness, Egg In The Morning, ANDRÉS GARCIL
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lufer/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lufer/)*

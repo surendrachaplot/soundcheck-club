@@ -1,14 +1,13 @@
 # michika
 
-michika is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Forestlimit, Tokyo on Wed, 7 Oct 2026.
+michika is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Débris, Tokyo on Sat, 10 Oct 2026.
 
-michika is a house and techno artist based in Japan, with 64 gigs on soundcheck across Tokyo. Often billed alongside MICO, arow and DJ melody. Next up: Forestlimit, Tokyo on Wed 7 Oct.
+michika is a house and techno artist based in Japan, with 64 gigs on soundcheck across Tokyo. Often billed alongside MICO, arow and DJ melody. Next up: Débris, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 7 Oct 2026 | Forestlimit | Tokyo |
 | Sat, 10 Oct 2026 | Débris | Tokyo |
 | Sat, 10 Oct 2026 | Aoyama Hachi | Tokyo |
 | Fri, 16 Oct 2026 | Aoyama Hachi | Tokyo |
@@ -17,6 +16,7 @@ michika is a house and techno artist based in Japan, with 64 gigs on soundcheck 
 
 ## Recently played
 
+- Forestlimit, Tokyo · Wed, 7 Oct 2026
 - Débris, Tokyo · Mon, 28 Sept 2026
 - TBA -    Kodamanomori Camp Ground, Nagano, Tokyo · Fri, 11 Sept 2026
 - Enter Shibuya, Tokyo · Sat, 29 Aug 2026
@@ -24,10 +24,9 @@ michika is a house and techno artist based in Japan, with 64 gigs on soundcheck 
 - Enter Shibuya, Tokyo · Fri, 14 Aug 2026
 - Bonobo, Tokyo · Sun, 9 Aug 2026
 - Enter Shibuya, Tokyo · Fri, 10 Jul 2026
-- Enter Shibuya, Tokyo · Sat, 27 Jun 2026
 
 ## Shares bills with
 
 MICO, arow, DJ melody
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michika/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michika/)*

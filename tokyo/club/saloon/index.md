@@ -1,6 +1,6 @@
 # Saloon
 
-Saloon is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Keio Fashion Creator 2026 LookBook Release Party" on Thu, 8 Oct 2026.
+Saloon is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Keio Fashion Creator 2026 LookBook Release Party" on Thu, 8 Oct 2026.
 
 Saloon is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with line-ups including 478, AI, AJA and Akie and 2 more. See dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
 
@@ -23,4 +23,4 @@ Saloon is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with li
 
 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan, Tokyo
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*

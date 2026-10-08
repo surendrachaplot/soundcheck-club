@@ -1,6 +1,6 @@
 # La Rumba
 
-La Rumba is a Afrobeat and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+La Rumba is a Afrobeat and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 La Rumba is an afrobeat and house artist based in United Kingdom, with 47 gigs on soundcheck across Edinburgh, Glasgow, Leeds and North and 1 more. Often billed alongside Dele Sosimi, MYNA and SNO (UK). Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ La Rumba is an afrobeat and house artist based in United Kingdom, with 47 gigs o
 
 Dele Sosimi, MYNA, SNO (UK)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larumba/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larumba/)*

@@ -1,6 +1,6 @@
 # DāM FunK
 
-DāM FunK is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Standard Time, Toronto on Sat, 10 Oct 2026.
+DāM FunK is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Standard Time, Toronto on Sat, 10 Oct 2026.
 
 DāM FunK is a house and funk / soul artist based in United States of America, with 14 gigs on soundcheck across Denver, Los Angeles, Miami and New York City and 3 more. Often billed alongside Abraham Othwell, DJ Koco aka Shimokita and Donny Burlin. Next up: Standard Time, Toronto on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DāM FunK is a house and funk / soul artist based in United States of America, w
 
 Abraham Othwell, DJ Koco aka Shimokita, Donny Burlin
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dam-funk/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dam-funk/)*

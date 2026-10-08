@@ -1,6 +1,6 @@
 # Miss Monique
 
-Miss Monique is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Miss Monique is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Miss Monique is a techno and house artist based in Ukraine, with 236 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 54 more. Often billed alongside Hugel, Artbat and CamelPhat. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -33,4 +33,4 @@ Miss Monique is a techno and house artist based in Ukraine, with 236 gigs on sou
 
 Hugel, Artbat, CamelPhat
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missmonique/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missmonique/)*

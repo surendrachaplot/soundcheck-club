@@ -1,6 +1,6 @@
 # Oliver Rosemann
 
-Oliver Rosemann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at The Host, Thessaloniki on Fri, 9 Oct 2026.
+Oliver Rosemann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at The Host, Thessaloniki on Fri, 9 Oct 2026.
 
 Oliver Rosemann is a techno and house artist based in Germany, with 31 gigs on soundcheck across Amsterdam, Berlin, Budapest and Hamburg and 4 more. Often billed alongside BLACK ANTHEM RESTORE, JANEIN and Thomas Stieler. Next up: The Host, Thessaloniki on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Oliver Rosemann is a techno and house artist based in Germany, with 31 gigs on s
 
 BLACK ANTHEM RESTORE, JANEIN, Thomas Stieler
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverrosemann/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverrosemann/)*

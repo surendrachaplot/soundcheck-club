@@ -1,6 +1,6 @@
 # LAJU - Juls & Larizzle at Brixton Jamm
 
-LAJU - Juls & Larizzle at Brixton Jamm on Fri 16 Oct, London. 2 artists: Juls and Larizzle. Afrobeat and Amapiano. See the line-up on soundcheck.
+LAJU - Juls & Larizzle at Brixton Jamm on Fri 16 Oct, London. 3 artists: Juls, Larizzle and Rhiavas. Afrobeat and Amapiano. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ LAJU - Juls & Larizzle at Brixton Jamm on Fri 16 Oct, London. 2 artists: Juls an
 
 - Juls
 - Larizzle
+- Rhiavas
 
 *Source: [soundcheck](https://soundcheck.club/e/2511553-laju-juls-larizzle-at-brixton-jamm/)*

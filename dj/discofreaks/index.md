@@ -1,6 +1,6 @@
 # Disco Freaks
 
-Disco Freaks is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Oslo Hackney, London on Sat, 10 Oct 2026.
+Disco Freaks is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Oslo Hackney, London on Sat, 10 Oct 2026.
 
 Disco Freaks is a disco and house artist based in United Kingdom, with 19 gigs on soundcheck across Barcelona, Copenhagen and London. Often billed alongside Jazzheadchronic, Aitch B and Al Kent. Next up: Oslo Hackney, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Disco Freaks is a disco and house artist based in United Kingdom, with 19 gigs o
 
 Jazzheadchronic, Aitch B, Al Kent
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discofreaks/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discofreaks/)*

@@ -1,6 +1,6 @@
 # Andreas Andersson
 
-Andreas Andersson is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Slaktkyrkan, Stockholm on Sat, 10 Oct 2026.
+Andreas Andersson is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Slaktkyrkan, Stockholm on Sat, 10 Oct 2026.
 
 Andreas Andersson is a house and tech house artist based in Sweden, with 15 gigs on soundcheck across Amsterdam and Stockholm. Often billed alongside Hozho, Adellic and Einmusik. Next up: Slaktkyrkan, Stockholm on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Andreas Andersson is a house and tech house artist based in Sweden, with 15 gigs
 
 Hozho, Adellic, Einmusik
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasandersson/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasandersson/)*

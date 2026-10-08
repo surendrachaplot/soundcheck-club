@@ -1,6 +1,6 @@
 # Freedonia
 
-Freedonia is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Terper & Radio83" on Fri, 9 Oct 2026.
+Freedonia is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Terper & Radio83" on Fri, 9 Oct 2026.
 
 Freedonia is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Mat Spiaggi, PAZ WAZ HERE and Telexketch. See dates, start times and who's playing. Carrer de la Lleialtat, 6, 08001 Raval, Barcelona.
 
@@ -15,4 +15,4 @@ Freedonia is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, w
 
 Carrer de la Lleialtat, 6, 08001 Raval, Barcelona, Barcelona
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/freedonia/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/freedonia/)*

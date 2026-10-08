@@ -1,6 +1,6 @@
 # EREZ.JPG
 
-EREZ.JPG is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Secret Location , Mexico City on Sat, 10 Oct 2026.
+EREZ.JPG is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Secret Location , Mexico City on Sat, 10 Oct 2026.
 
 EREZ.JPG is a house and minimal artist based in United States of America, with 45 gigs on soundcheck across Detroit, Los Angeles, Mexico City and Miami and 2 more. Often billed alongside shanty mane, Armii1n and Bakke. Next up: TBA - Secret Location , Mexico City on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ EREZ.JPG is a house and minimal artist based in United States of America, with 4
 
 shanty mane, Armii1n, Bakke
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erezjpg/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erezjpg/)*

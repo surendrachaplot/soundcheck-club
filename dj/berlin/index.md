@@ -1,6 +1,6 @@
 # BERLIN
 
-BERLIN is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
+BERLIN is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
 
 BERLIN is a techno and house artist based in Japan, with 47 gigs on soundcheck across Berlin, Hamburg, Montreal and Osaka and 2 more. Often billed alongside Laigonen Kanonen, V (NYC) and Max Muth. Next up: TBA - telegram @klangsubstanz, Berlin on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ BERLIN is a techno and house artist based in Japan, with 47 gigs on soundcheck a
 
 Laigonen Kanonen, V (NYC), Max Muth
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berlin/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berlin/)*

@@ -1,8 +1,8 @@
 # 2AT
 
-2AT is a Guaracha and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 17 Oct 2026.
+2AT is a Guaracha and Latin Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 17 Oct 2026.
 
-2AT is a guaracha and latin bass artist based in Colombia, with 38 gigs on soundcheck across Barcelona, Berlin, Boston and Budapest and 24 more. Often billed alongside Nixss, Aleroj and BZZHOUND. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat 17 Oct.
+2AT is a guaracha and latin bass artist based in Colombia, with 39 gigs on soundcheck across Barcelona, Berlin, Boston and Budapest and 24 more. Often billed alongside Nixss, Aleroj and BZZHOUND. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
 | Fri, 23 Oct 2026 | Monarch | San Francisco/Oakland |
+| Fri, 30 Oct 2026 | The Meadows | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@
 
 Nixss, Aleroj, BZZHOUND
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2at/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2at/)*

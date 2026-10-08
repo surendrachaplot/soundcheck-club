@@ -1,6 +1,6 @@
 # MOOTOE
 
-MOOTOE is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 31 Oct 2026.
+MOOTOE is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 31 Oct 2026.
 
 MOOTOE is a bass and garage artist based in Japan, with 105 gigs on soundcheck across Osaka and Tokyo. Often billed alongside VECSILLE, ATAMI and SAKO. Next up: Circus Tokyo, Tokyo on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ MOOTOE is a bass and garage artist based in Japan, with 105 gigs on soundcheck a
 
 VECSILLE, ATAMI, SAKO
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mootoe/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mootoe/)*

@@ -1,0 +1,28 @@
+# Nesa Azadikhah
+
+Nesa Azadikhah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Fabbrica del Vapore, Milan on Sat, 8 May 2027.
+
+Nesa Azadikhah is a techno and house artist based in Iran, with 62 gigs on soundcheck across Berlin, Brussels, Chicago and Copenhagen and 10 more. Often billed alongside Sina XX, Acid Arab and Deena Abdelwahed. Next up: Fabbrica del Vapore, Milan on Sat 8 May.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 8 May 2027 | Fabbrica del Vapore | Milan |
+
+## Recently played
+
+- Virage, Paris · Fri, 11 Sept 2026
+- Hangaren, Copenhagen · Sat, 5 Sept 2026
+- Unité.22, Marseille · Sat, 29 Aug 2026
+- Fvtvr, Paris · Fri, 14 Aug 2026
+- Bassiani, Tbilisi · Fri, 31 Jul 2026
+- La Station - Gare des Mines, Paris · Sun, 26 Jul 2026
+- Badaboum, Paris · Sat, 4 Jul 2026
+- fabric, London · Sat, 20 Jun 2026
+
+## Shares bills with
+
+Sina XX, Acid Arab, Deena Abdelwahed
+
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nesaazadikhah/)*

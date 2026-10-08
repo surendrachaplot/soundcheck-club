@@ -1,14 +1,15 @@
 # Alina Viktoria
 
-Alina Viktoria is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Rote Sonne, Munich on Fri, 9 Oct 2026.
+Alina Viktoria is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Rote Sonne, Munich on Fri, 9 Oct 2026.
 
-Alina Viktoria is a techno and trance artist based in Germany, with 68 gigs on soundcheck across Berlin, Budapest, Cologne and Frankfurt and 6 more. Often billed alongside SACID, Dexy's Midnight and Aexhy. Next up: Rote Sonne, Munich on Fri 9 Oct.
+Alina Viktoria is a techno and trance artist based in Germany, with 69 gigs on soundcheck across Berlin, Budapest, Cologne and Frankfurt and 6 more. Often billed alongside SACID, Dexy's Midnight and Aexhy. Next up: Rote Sonne, Munich on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Rote Sonne | Munich |
+| Sat, 17 Oct 2026 | frachtkante | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Alina Viktoria is a techno and trance artist based in Germany, with 68 gigs on s
 
 SACID, Dexy's Midnight, Aexhy
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alinaviktoria/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alinaviktoria/)*

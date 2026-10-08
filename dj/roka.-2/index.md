@@ -1,8 +1,8 @@
 # Roka
 
-Roka is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Haven, Byron-bay on Sat, 31 Oct 2026.
+Roka is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Haven, Byron-bay on Sat, 31 Oct 2026.
 
-Roka is a tech house and house artist based in Australia, with 23 gigs on soundcheck across Byron Bay, London and Melbourne. Often billed alongside Séarlait, Char(k) and DJ Possum. Next up: Haven, Byron Bay on Sat 31 Oct.
+Roka is a tech house and house artist based in Australia, with 24 gigs on soundcheck across Byron Bay, London and Melbourne. Often billed alongside Séarlait, DJ Possum and Char(k). Next up: Haven, Byron Bay on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Roka is a tech house and house artist based in Australia, with 23 gigs on soundc
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Haven | Byron-bay |
 | Sun, 1 Nov 2026 | Revolver Upstairs | Melbourne |
+| Sat, 14 Nov 2026 | Second Story Studios | Melbourne |
 | Sat, 19 Dec 2026 | Heide Museum of Modern Art Sculpture Park | Melbourne |
 
 ## Recently played
@@ -25,6 +26,6 @@ Roka is a tech house and house artist based in Australia, with 23 gigs on soundc
 
 ## Shares bills with
 
-Séarlait, Char(k), DJ Possum
+Séarlait, DJ Possum, Char(k)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roka.-2/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roka.-2/)*

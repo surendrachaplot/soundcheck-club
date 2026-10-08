@@ -1,6 +1,6 @@
 # Void Cells
 
-Void Cells is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Omeara, London on Sat, 17 Oct 2026.
+Void Cells is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Omeara, London on Sat, 17 Oct 2026.
 
 Void Cells is an ebm and techno artist, with 8 gigs on soundcheck across London and Manchester. Often billed alongside Arrosa, Ricardo Castro and Ryan Licchelli. Next up: Omeara, London on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ Void Cells is an ebm and techno artist, with 8 gigs on soundcheck across London 
 
 Arrosa, Ricardo Castro, Ryan Licchelli
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voidcells/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voidcells/)*

@@ -1,6 +1,6 @@
 # Bizarre Billy
 
-Bizarre Billy is a Italo Disco and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Bohnengold, Berlin on Fri, 9 Oct 2026.
+Bizarre Billy is a Italo Disco and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Bohnengold, Berlin on Fri, 9 Oct 2026.
 
 Bizarre Billy is an italo disco and disco artist based in Germany, with 13 gigs on soundcheck across Barcelona, Berlin, Milan and Stockholm. Often billed alongside Billy Idle, Lil Vän and Shimanski. Next up: Bohnengold, Berlin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Bizarre Billy is an italo disco and disco artist based in Germany, with 13 gigs 
 
 Billy Idle, Lil Vän, Shimanski
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bizarrebilly/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bizarrebilly/)*

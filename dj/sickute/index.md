@@ -1,6 +1,6 @@
 # Sickute
 
-Sickute is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Kaskada, Warsaw on Sat, 24 Oct 2026.
+Sickute is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Kaskada, Warsaw on Sat, 24 Oct 2026.
 
 Sickute is a techno and drum & bass artist based in Poland, with 10 gigs on soundcheck across Warsaw. Often billed alongside Direktor DJs, U Lad and Samogulov. Next up: Kaskada, Warsaw on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Sickute is a techno and drum & bass artist based in Poland, with 10 gigs on soun
 
 Direktor DJs, U Lad, Samogulov
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sickute/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sickute/)*

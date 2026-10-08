@@ -1,6 +1,6 @@
 # Scepa
 
-Scepa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at InDeep'n'Dance Records, Amsterdam on Thu, 22 Oct 2026.
+Scepa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at InDeep'n'Dance Records, Amsterdam on Thu, 22 Oct 2026.
 
 Scepa is a house and techno artist based in Serbia, with 30 gigs on soundcheck across Amsterdam and Belgrade. Often billed alongside Luton, Marko Milosavljevic and Danilo Kas. Next up: InDeep'n'Dance Records, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Scepa is a house and techno artist based in Serbia, with 30 gigs on soundcheck a
 
 Luton, Marko Milosavljevic, Danilo Kas
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scepa/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scepa/)*

@@ -1,8 +1,8 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 18 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Start Here (Free Entry)" on Thu, 8 Oct 2026.
+The Greyhound is a music venue in London with 19 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Start Here (Free Entry)" on Thu, 8 Oct 2026.
 
-The Greyhound is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including A.L.F, Alex Wilcox, Anna Kost and Awedinary and 2 more. See dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
+The Greyhound is a music venue in London listed on soundcheck. 19 upcoming gigs, with line-ups including A.L.F, Alex Wilcox, Anna Kost and Awedinary and 2 more. See dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
 ## What's on
 
@@ -17,10 +17,10 @@ The Greyhound is a music venue in London listed on soundcheck. 18 upcoming gigs,
 | Fri, 30 Oct 2026 | TWO STEP 004 - HALLOWEEN DANCE |  |
 | Sat, 31 Oct 2026 | Slipped Disc ☾ Halloween Party | A.L.F, FITS ME FUNNY, Helios Manoeuvres, Sedex, Stresshead |
 | Fri, 6 Nov 2026 | Espionage: Miles J Paralysis, Kristina May & Gibbin | Gibbin, Kristina May, Miles J Paralysis |
-| Wed, 11 Nov 2026 | H31R |  |
+| Sat, 7 Nov 2026 | Ornate Music presents DJ Böhm (030303) | Bohm, Damo B, OCH |
 
 ## Address
 
 109 Peckham High St, London SE15 5SE, London
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*

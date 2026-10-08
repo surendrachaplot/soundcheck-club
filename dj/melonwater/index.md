@@ -1,6 +1,6 @@
 # Melonwater
 
-Melonwater is a Club and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Cafeteria, Toronto on Fri, 9 Oct 2026.
+Melonwater is a Club and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Cafeteria, Toronto on Fri, 9 Oct 2026.
 
 Melonwater is a club and hardcore artist based in Canada, with 16 gigs on soundcheck across Montreal and Toronto. Often billed alongside SEXMP3, 999ADJ and /ASYNC. Next up: Cafeteria, Toronto on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Melonwater is a club and hardcore artist based in Canada, with 16 gigs on soundc
 
 SEXMP3, 999ADJ, /ASYNC
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melonwater/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melonwater/)*

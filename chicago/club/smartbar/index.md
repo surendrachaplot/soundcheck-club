@@ -1,6 +1,6 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 20 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Objekt - Kia - Madeline" on Fri, 9 Oct 2026.
+smartbar is a music venue in Chicago with 20 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Objekt - Kia - Madeline" on Fri, 9 Oct 2026.
 
 smartbar is a music venue in Chicago listed on soundcheck. 20 upcoming gigs, with line-ups including Andrew Emil, Brenda, Chris Cruse and Czboogie and 2 more. See dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
@@ -23,4 +23,4 @@ smartbar is a music venue in Chicago listed on soundcheck. 20 upcoming gigs, wit
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*

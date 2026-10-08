@@ -1,8 +1,8 @@
 # Warehouse
 
-Warehouse is a music venue in Nantes with 11 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "NANTES RAVE TECHNO XXL with NOVAH, MATRAKK, Maudux, DJ Caline, Mosmoz" on Fri, 9 Oct 2026.
+Warehouse is a music venue in Nantes with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "NANTES RAVE TECHNO XXL with NOVAH, MATRAKK, Maudux, DJ Caline, Mosmoz" on Fri, 9 Oct 2026.
 
-Warehouse is a music venue in Nantes listed on soundcheck. 11 upcoming gigs, with line-ups including Azhar Sistorms, Bellaire, BSD and Corentin Mab and 2 more. See dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
+Warehouse is a music venue in Nantes listed on soundcheck. 12 upcoming gigs, with line-ups including Azhar Sistorms, Bellaire, BSD and Corentin Mab and 2 more. See dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Warehouse is a music venue in Nantes listed on soundcheck. 11 upcoming gigs, wit
 
 21 quai des Antilles 44200 Nantes, Nantes
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*

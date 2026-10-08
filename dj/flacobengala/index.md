@@ -1,6 +1,6 @@
 # Flaco Bengala
 
-Flaco Bengala is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, Madrid on Fri, 23 Oct 2026.
+Flaco Bengala is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA, Madrid on Fri, 23 Oct 2026.
 
 Flaco Bengala is an electro and techno artist based in Spain, with 18 gigs on soundcheck across Madrid. Often billed alongside BENGALA, HERMETICA and R-010. Next up: TBA, Madrid on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Flaco Bengala is an electro and techno artist based in Spain, with 18 gigs on so
 
 BENGALA, HERMETICA, R-010
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flacobengala/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flacobengala/)*

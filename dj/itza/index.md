@@ -1,6 +1,6 @@
 # ITZA
 
-ITZA is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Oilcan Harry's, Austin on Fri, 9 Oct 2026.
+ITZA is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Oilcan Harry's, Austin on Fri, 9 Oct 2026.
 
 ITZA is a techno and acid artist based in United States of America, with 15 gigs on soundcheck across Austin and Mexico City. Often billed alongside JAViii, The Electric Pearl and Homotopies. Next up: Oilcan Harry's, Austin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ ITZA is a techno and acid artist based in United States of America, with 15 gigs
 
 JAViii, The Electric Pearl, Homotopies
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/itza/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/itza/)*

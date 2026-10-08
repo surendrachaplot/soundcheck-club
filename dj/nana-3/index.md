@@ -1,6 +1,6 @@
 # NANA (3)
 
-NANA (3) is a Hip-Hop and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at S Nightclub, Tokyo on Sat, 24 Oct 2026.
+NANA (3) is a Hip-Hop and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at S Nightclub, Tokyo on Sat, 24 Oct 2026.
 
 NANA is a hip-hop and psytrance artist based in Greece, with 22 gigs on soundcheck across Athens, Madrid, Seoul and Tokyo. Often billed alongside SALIN, Até. and Jinzo. Next up: S Nightclub, Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ NANA is a hip-hop and psytrance artist based in Greece, with 22 gigs on soundche
 
 SALIN, Até., Jinzo
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nana-3/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nana-3/)*

@@ -1,6 +1,6 @@
 # Zombies In Miami
 
-Zombies In Miami is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at PRST, Vienna on Fri, 9 Oct 2026.
+Zombies In Miami is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at PRST, Vienna on Fri, 9 Oct 2026.
 
 Zombies In Miami is a house and techno artist based in Mexico, with 155 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside DJ Nobu, PARAMIDA and Ben Klock. Next up: PRST, Vienna on Fri 9 Oct.
 
@@ -34,4 +34,4 @@ Zombies In Miami is a house and techno artist based in Mexico, with 155 gigs on 
 
 DJ Nobu, PARAMIDA, Ben Klock
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zombiesinmiami/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zombiesinmiami/)*

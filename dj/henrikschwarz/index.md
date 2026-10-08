@@ -1,6 +1,6 @@
 # Henrik Schwarz
 
-Henrik Schwarz is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Cabaret Sauvage, Paris on Fri, 9 Oct 2026.
+Henrik Schwarz is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Cabaret Sauvage, Paris on Fri, 9 Oct 2026.
 
 Henrik Schwarz is a house and techno artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 30 more. Often billed alongside Âme, Mano Le Tough and Black Coffee. Next up: Cabaret Sauvage, Paris on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ Henrik Schwarz is a house and techno artist based in Germany, with 114 gigs on s
 
 Âme, Mano Le Tough, Black Coffee
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henrikschwarz/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henrikschwarz/)*

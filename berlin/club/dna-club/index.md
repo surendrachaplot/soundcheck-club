@@ -1,6 +1,6 @@
 # DNA. CLUB
 
-DNA. CLUB is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Cancelled OBXENE TAG DER KULTUR " on Fri, 9 Oct 2026.
+DNA. CLUB is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Cancelled OBXENE TAG DER KULTUR " on Fri, 9 Oct 2026.
 
 DNA. CLUB is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Alex Friday, CUT:NA, DJ Saunameister and DØME and 2 more. See dates, start times and who's playing. Adalbertstraße 98, 10999 Berlin.
 
@@ -19,4 +19,4 @@ DNA. CLUB is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with
 
 Adalbertstraße 98, 10999 Berlin, Berlin
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-club/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-club/)*

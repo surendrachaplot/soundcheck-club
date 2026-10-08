@@ -1,6 +1,6 @@
 # TiTi
 
-TiTi is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Afas Live, Amsterdam on Sun, 25 Oct 2026.
+TiTi is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Afas Live, Amsterdam on Sun, 25 Oct 2026.
 
 TiTi is a techno and industrial artist based in China, with 25 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brussels and 11 more. Often billed alongside BLNK, LIEKS and BØĘRY. Next up: Afas Live, Amsterdam on Sun 25 Oct.
 
@@ -30,4 +30,4 @@ TiTi is a techno and industrial artist based in China, with 25 gigs on soundchec
 
 BLNK, LIEKS, BØĘRY
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/titi/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/titi/)*

@@ -1,8 +1,8 @@
 # LPV
 
-LPV is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Karmen Camina, Strasbourg on Fri, 9 Oct 2026.
+LPV is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Karmen Camina, Strasbourg on Fri, 9 Oct 2026.
 
-LPV is a techno and trance artist based in Italy, with 20 gigs on soundcheck across Athens, Berlin, Cardiff and Helsinki and 7 more. Often billed alongside Fran LF, Lars Huismann and Parallx. Next up: Karmen Camina, Strasbourg on Fri 9 Oct.
+LPV is a techno and trance artist based in Italy, with 21 gigs on soundcheck across Athens, Berlin, Cardiff and Helsinki and 7 more. Often billed alongside Lars Huismann, Fran LF and Parallx. Next up: Karmen Camina, Strasbourg on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ LPV is a techno and trance artist based in Italy, with 20 gigs on soundcheck acr
 | Fri, 16 Oct 2026 | Laboratorio Octogon | Madrid |
 | Tue, 20 Oct 2026 | OXI | Berlin |
 | Sat, 31 Oct 2026 | TBA - Secret Warehouse | Paris |
+| Sat, 28 Nov 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ LPV is a techno and trance artist based in Italy, with 20 gigs on soundcheck acr
 
 ## Shares bills with
 
-Fran LF, Lars Huismann, Parallx
+Lars Huismann, Fran LF, Parallx
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lpv/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lpv/)*

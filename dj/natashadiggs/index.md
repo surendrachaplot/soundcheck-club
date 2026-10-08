@@ -1,6 +1,6 @@
 # Natasha Diggs
 
-Natasha Diggs is a House and Funk / Soul artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Amnesia Ibiza, Ibiza on Fri, 9 Oct 2026.
+Natasha Diggs is a House and Funk / Soul artist with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Amnesia Ibiza, Ibiza on Fri, 9 Oct 2026.
 
 Natasha Diggs is a house and funk / soul artist based in United States of America, with 124 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 21 more. Often billed alongside Melvo Baptiste, The Shapeshifters and L3Ni. Next up: Amnesia Ibiza, Ibiza on Fri 9 Oct.
 
@@ -31,4 +31,4 @@ Natasha Diggs is a house and funk / soul artist based in United States of Americ
 
 Melvo Baptiste, The Shapeshifters, L3Ni
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natashadiggs/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natashadiggs/)*

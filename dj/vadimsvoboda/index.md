@@ -1,6 +1,6 @@
 # Vadim Svoboda
 
-Vadim Svoboda is a Minimal and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Barracuda Beach Club, Lisbon on Sat, 10 Oct 2026.
+Vadim Svoboda is a Minimal and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Barracuda Beach Club, Lisbon on Sat, 10 Oct 2026.
 
 Vadim Svoboda is a minimal and ambient artist based in France, with 11 gigs on soundcheck across Lisbon, Marseille, Naples and Paris. Often billed alongside Céline, Delskiz and Amadeo Savio. Next up: Barracuda Beach Club, Lisbon on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Vadim Svoboda is a minimal and ambient artist based in France, with 11 gigs on s
 
 Céline, Delskiz, Amadeo Savio
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vadimsvoboda/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vadimsvoboda/)*

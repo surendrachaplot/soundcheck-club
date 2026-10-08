@@ -1,6 +1,6 @@
 # Origin
 
-Origin is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "MRAK: ORIGIN Opening Weekend" on Fri, 9 Oct 2026.
+Origin is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "MRAK: ORIGIN Opening Weekend" on Fri, 9 Oct 2026.
 
 Origin is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs, with line-ups including Araminta, Bones, Claude VonStroke and Cquestt and 2 more. See dates, start times and who's playing. 613 Imperial St., Los Angeles, CA 90021.
 
@@ -18,4 +18,4 @@ Origin is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs, wi
 
 613 Imperial St., Los Angeles, CA 90021, Los Angeles
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/origin/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/origin/)*

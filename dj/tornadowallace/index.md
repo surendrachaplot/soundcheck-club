@@ -1,6 +1,6 @@
 # Tornado Wallace
 
-Tornado Wallace is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Salon des Amateurs, Düsseldorf on Sat, 10 Oct 2026.
+Tornado Wallace is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Salon des Amateurs, Düsseldorf on Sat, 10 Oct 2026.
 
 Tornado Wallace is a house and techno artist based in Australia, with 137 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 43 more. Often billed alongside Fantastic Man, Courtney Bailey and Sound Metaphors Djs. Next up: Salon des Amateurs, Düsseldorf on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Tornado Wallace is a house and techno artist based in Australia, with 137 gigs o
 
 Fantastic Man, Courtney Bailey, Sound Metaphors Djs
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tornadowallace/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tornadowallace/)*

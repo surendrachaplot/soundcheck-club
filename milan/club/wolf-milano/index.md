@@ -1,6 +1,6 @@
 # Wolf Milano
 
-Wolf Milano is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "WOT & Friends" on Fri, 9 Oct 2026.
+Wolf Milano is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "WOT & Friends" on Fri, 9 Oct 2026.
 
 Wolf Milano is a music venue in Milan listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Via Luigi Canonica, 13, 20154 Milano MI, Italy.
 
@@ -14,4 +14,4 @@ Wolf Milano is a music venue in Milan listed on soundcheck. 1 upcoming gig. See 
 
 Via Luigi Canonica, 13, 20154 Milano MI, Italy, Milan
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/wolf-milano/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/wolf-milano/)*

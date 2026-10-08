@@ -1,6 +1,6 @@
 # Rensei
 
-Rensei is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Liquid Club, Malta on Fri, 9 Oct 2026.
+Rensei is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Liquid Club, Malta on Fri, 9 Oct 2026.
 
 Rensei is a techno and industrial artist based in Malta, with 20 gigs on soundcheck across Malta. Often billed alongside SLIZER, Reactant and INVERTED (MT). Next up: Liquid Club, Malta on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Rensei is a techno and industrial artist based in Malta, with 20 gigs on soundch
 
 SLIZER, Reactant, INVERTED (MT)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rensei/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rensei/)*

@@ -1,6 +1,6 @@
 # Anthea
 
-Anthea is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Karmen Camina, Strasbourg on Sat, 10 Oct 2026.
+Anthea is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Karmen Camina, Strasbourg on Sat, 10 Oct 2026.
 
 Anthea is a house and techno artist based in United Kingdom, with 178 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 43 more. Often billed alongside Oshana, tINI and Astral Travel. Next up: Karmen Camina, Strasbourg on Sat 10 Oct.
 
@@ -32,4 +32,4 @@ Anthea is a house and techno artist based in United Kingdom, with 178 gigs on so
 
 Oshana, tINI, Astral Travel
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthea/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthea/)*

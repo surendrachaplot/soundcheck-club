@@ -1,6 +1,6 @@
 # Lu:k (UK debut) + Dwarde b2b Abby Daze + Ac1d Vicious b2b Josie Bee + more (Loose Lips) at radial
 
-Lu:k (UK debut) + Dwarde b2b Abby Daze + Ac1d Vicious b2b Josie Bee + more (Loose Lips) at radial on Fri 9 Oct, London. 7 artists: Abby Daze, Ac1d Vicious, Dwarde and Freya Algiz and 3 more. IDM and Jungle. See the line-up on soundcheck.
+Lu:k (UK debut) + Dwarde b2b Abby Daze + Ac1d Vicious b2b Josie Bee + more (Loose Lips) at radial on Fri 9 Oct, London. 8 artists: Abby Daze, Ac1d Vicious, Dwarde and Freya Algiz and 4 more. IDM and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Lu:k (UK debut) + Dwarde b2b Abby Daze + Ac1d Vicious b2b Josie Bee + more (Loos
 - Ac1d Vicious
 - Dwarde
 - Freya Algiz
+- Joel Kane
 - Josie Bee
 - Medallion Man
 - Sunden

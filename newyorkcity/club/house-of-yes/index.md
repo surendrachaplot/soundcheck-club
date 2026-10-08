@@ -1,6 +1,6 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "LIBRA RISING: Aluna, Darling Cool, Niara Sterling" on Sat, 10 Oct 2026.
+House of Yes is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "LIBRA RISING: Aluna, Darling Cool, Niara Sterling" on Sat, 10 Oct 2026.
 
 House of Yes is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including Aluna, Amber Valentine, Darling Cool and Eli Escobar and 2 more. See dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
@@ -21,4 +21,4 @@ House of Yes is a music venue in New York City listed on soundcheck. 8 upcoming 
 
 2 Wyckoff Avenue; Brooklyn, NY 11237; USA, New York City
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*

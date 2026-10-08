@@ -1,6 +1,6 @@
 # ATARAXY
 
-ATARAXY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Usquare, Brussels on Sat, 24 Oct 2026.
+ATARAXY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Usquare, Brussels on Sat, 24 Oct 2026.
 
 ATARAXY is a techno and trance artist based in Belgium, with 27 gigs on soundcheck across Antwerp and Brussels. Often billed alongside JEKKAMAÏ, Maëlle and bemira. Next up: Usquare, Brussels on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ ATARAXY is a techno and trance artist based in Belgium, with 27 gigs on soundche
 
 JEKKAMAÏ, Maëlle, bemira
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ataraxy/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ataraxy/)*

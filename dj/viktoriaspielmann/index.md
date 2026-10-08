@@ -1,8 +1,8 @@
 # Viktoria Spielmann
 
-Viktoria Spielmann is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Our Sake Club, Berlin on Thu, 15 Oct 2026.
+Viktoria Spielmann is a Techno and Electronica artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Our Sake Club, Berlin on Thu, 15 Oct 2026.
 
-Viktoria Spielmann is a techno and electronica artist based in Germany, with 19 gigs on soundcheck across Berlin, Cologne, Kassel and Leipzig and 2 more. Often billed alongside AEREA, DJ Cringey and DJ Hyperdrive. Next up: Our Sake Club, Berlin on Thu 15 Oct.
+Viktoria Spielmann is a techno and electronica artist based in Germany, with 20 gigs on soundcheck across Berlin, Cologne, Kassel and Leipzig and 3 more. Often billed alongside AEREA, DJ Cringey and DJ Hyperdrive. Next up: Our Sake Club, Berlin on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Viktoria Spielmann is a techno and electronica artist based in Germany, with 19 
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | Our Sake Club | Berlin |
 | Thu, 22 Oct 2026 | OST | Berlin |
+| Fri, 13 Nov 2026 | Liquid Club | Malta |
 | Wed, 30 Dec 2026 | MUENZE | Berlin |
 
 ## Recently played
@@ -27,4 +28,4 @@ Viktoria Spielmann is a techno and electronica artist based in Germany, with 19 
 
 AEREA, DJ Cringey, DJ Hyperdrive
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viktoriaspielmann/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viktoriaspielmann/)*

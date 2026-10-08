@@ -1,13 +1,14 @@
 # Casual P
 
-Casual P is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+Casual P is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Lord Gladstone, Sydney on Sat, 7 Nov 2026.
 
-Casual P is a house and garage artist based in Australia, with 23 gigs on soundcheck across Sydney. Often billed alongside Ari Kiko, Couch Mechanic and Lily FM. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
+Casual P is a house and garage artist based in Australia, with 24 gigs on soundcheck across Sydney. Often billed alongside Ari Kiko, Couch Mechanic and Lily FM. Next up: The Lord Gladstone, Sydney on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | The Lord Gladstone | Sydney |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played
@@ -25,4 +26,4 @@ Casual P is a house and garage artist based in Australia, with 23 gigs on soundc
 
 Ari Kiko, Couch Mechanic, Lily FM
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casualp/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casualp/)*

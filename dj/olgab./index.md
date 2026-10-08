@@ -1,14 +1,15 @@
 # OLGA B.
 
-OLGA B. is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Macadam, Nantes on Sat, 7 Nov 2026.
+OLGA B. is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Macadam, Nantes on Sat, 7 Nov 2026.
 
-OLGA B. is an electro and house artist, with 20 gigs on soundcheck across Amsterdam, Brussels, London and Nantes and 2 more. Often billed alongside Jacky Jeane, Sarcus Soundsystem and Ubik (Fr). Next up: Macadam, Nantes on Sat 7 Nov.
+OLGA B. is a techno and electro artist, with 21 gigs on soundcheck across Amsterdam, Brussels, London and Nantes and 2 more. Often billed alongside Jacky Jeane, Sarcus Soundsystem and Ubik (Fr). Next up: Macadam, Nantes on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Macadam | Nantes |
+| Fri, 13 Nov 2026 | Point Ephémère | Paris |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ OLGA B. is an electro and house artist, with 20 gigs on soundcheck across Amster
 
 Jacky Jeane, Sarcus Soundsystem, Ubik (Fr)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olgab./)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olgab./)*

@@ -1,6 +1,6 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "ReSolute with Aurora Halal" on Fri, 9 Oct 2026.
+H0L0 is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "ReSolute with Aurora Halal" on Fri, 9 Oct 2026.
 
 H0L0 is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including 999ADJ, Aaron Clark, Alchemy (US) and Alec Falconer and 2 more. See dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
@@ -17,10 +17,10 @@ H0L0 is a music venue in New York City listed on soundcheck. 15 upcoming gigs, w
 | Thu, 22 Oct 2026 | SUBLIMINA | MOLTØNY, SYTHRA, Will Jack |
 | Fri, 23 Oct 2026 | Effy | Effy |
 | Sat, 24 Oct 2026 | Honcho H0L0 Takeover | 'nohup', 999ADJ, Aaron Clark, Carlos Souffront, Carrie Sours, Carrieondisco, Clark Price, Honcho, Simisea, Sterling Juan Diaz, d'Adhemar, wngdu |
-| Sat, 31 Oct 2026 | ReSolute presents: Why So Serious! | Argenis Brito, Caruan, Connie, Dandy Jack, E.LINA, Heidi Lawden, Jonny Sum, Maksim, Masomenos, Mayell, Muallem, O.BEE, Onur Özer, Rasho, Ron Like Hell, Shvili, Sibil (1), Sweely, Tobias Lindén, Tomas Station, Willy Soul |
+| Sat, 31 Oct 2026 | ReSolute presents: Why So Serious! | Argenis Brito, Caruan, Connie, Dan Shake, Dandy Jack, E.LINA, Heidi Lawden, Jonny Sum, Maksim, Masomenos, Mayell, Muallem, O.BEE, Onur Özer, Rasho, Ron Like Hell, Shvili, Sibil (1), Sweely, Tobias Lindén, Tomas Station, Willy Soul |
 
 ## Address
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

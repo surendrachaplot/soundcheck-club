@@ -1,6 +1,6 @@
 # Anushka Chkheidze
 
-Anushka Chkheidze is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Those Who Dance, Lisbon on Sat, 10 Oct 2026.
+Anushka Chkheidze is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Those Who Dance, Lisbon on Sat, 10 Oct 2026.
 
 Anushka Chkheidze is an experimental and techno artist, with 19 gigs on soundcheck across Amsterdam, Berlin, Düsseldorf and Leipzig and 4 more. Often billed alongside Cobert, Natalie Beridze and Robert Lippok. Next up: Those Who Dance, Lisbon on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Anushka Chkheidze is an experimental and techno artist, with 19 gigs on soundche
 
 Cobert, Natalie Beridze, Robert Lippok
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anushkachkheidze/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anushkachkheidze/)*

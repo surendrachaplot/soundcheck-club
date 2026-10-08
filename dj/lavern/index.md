@@ -1,6 +1,6 @@
 # LAVERN
 
-LAVERN is a House and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Villa Nightclub, Perth on Fri, 9 Oct 2026.
+LAVERN is a House and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Villa Nightclub, Perth on Fri, 9 Oct 2026.
 
 LAVERN is a house and progressive house artist based in Netherlands, with 54 gigs on soundcheck across Austin, Boston, Brisbane and Budapest and 23 more. Often billed alongside Martin Garrix, Alesso and Black Tiger Sex Machine. Next up: Villa Nightclub, Perth on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ LAVERN is a house and progressive house artist based in Netherlands, with 54 gig
 
 Martin Garrix, Alesso, Black Tiger Sex Machine
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lavern/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lavern/)*

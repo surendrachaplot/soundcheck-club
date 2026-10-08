@@ -1,6 +1,6 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Wata Igarashi all night long / ISAbella / Subb-an / Meilgaarden" on Fri, 9 Oct 2026.
+BASEMENT is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Wata Igarashi all night long / ISAbella / Subb-an / Meilgaarden" on Fri, 9 Oct 2026.
 
 BASEMENT is a music venue in New York City listed on soundcheck. 14 upcoming gigs, with line-ups including 98dots, Justine Perry, LYDO and Ade Kassim and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
@@ -11,7 +11,7 @@ BASEMENT is a music venue in New York City listed on soundcheck. 14 upcoming gig
 | Fri, 9 Oct 2026 | Wata Igarashi all night long / ISAbella / Subb-an / Meilgaarden | ISAbella, Meilgaarden, Subb-an, Wata Igarashi |
 | Sat, 10 Oct 2026 | Mala Junta: Yazzus / Akua / FASHION / DJ TOOL / Kilopatrah Jones / Alfonso Javier | Akua, Alfonso Javier, DJ TOOL, FASHION (US), Kilopatrah Jones, Yazzus |
 | Fri, 16 Oct 2026 | Juliana Huxtable / Anika Kunst / VILE / Pablo Bozzi / Byron Yeates / Kim Ann Foxman | Anika Kunst, Byron Yeates, Juliana Huxtable, Kim Ann Foxman, Pablo Bozzi, VILE |
-| Sat, 17 Oct 2026 | Dr. Rubinstein / The Advent / 98dots / fka.m4a / Lauren Flax / Rumi de Baires | 98dots, Dr. Rubinstein, Lauren Flax, Rumi de Baires, The Advent, fka.m4a |
+| Sat, 17 Oct 2026 | Dr. Rubinstein / The Advent / 98dots / Jay Jackson (fka.m4a) / Lauren Flax / Rumi de Baires | 98dots, Dr. Rubinstein, Lauren Flax, Rumi de Baires, The Advent, fka.m4a |
 | Fri, 23 Oct 2026 | FIST: Lacchesi / Nene H / Word of Command / DJ Clone / Jubilee / Mez Monty / Connor Wrong | Connor Wrong, DJ Clone, Jubilee, Lacchesi, Mez Monty, Nene H, Word of Command |
 | Sat, 24 Oct 2026 | Dustin Zahn / Kameliia / Ade Kassim / Hercules & Love Affair / Eli Escobar / Andi | Ade Kassim, Andi, Dustin Zahn, Eli Escobar, Hercules & Love Affair, Kameliia |
 | Fri, 30 Oct 2026 | BOUND Blackout: Laure Croft / SKIN / Katie Rex / Kim Anh / Dj Warning / likeholywine / nonsuit | Dj Warning, Katie Rex, Kim Anh, Laure Croft, SKIN, likeholywine, nonsuit |
@@ -23,4 +23,4 @@ BASEMENT is a music venue in New York City listed on soundcheck. 14 upcoming gig
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

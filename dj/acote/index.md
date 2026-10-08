@@ -1,14 +1,15 @@
 # Acote
 
-Acote is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Arlington 5, Ottawa on Sat, 17 Oct 2026.
+Acote is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Arlington 5, Ottawa on Sat, 17 Oct 2026.
 
-Acote is a techno and electro artist, with 19 gigs on soundcheck across Ottawa and Toronto. Often billed alongside Bergsonist, Emissive and Garden of Magic. Next up: Arlington 5, Ottawa on Sat 17 Oct.
+Acote is a techno and electro artist, with 20 gigs on soundcheck across Ottawa and Toronto. Often billed alongside Bergsonist, Emissive and Garden of Magic. Next up: Arlington 5, Ottawa on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Arlington 5 | Ottawa |
+| Sat, 24 Oct 2026 | TBA - Annex area | Toronto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Acote is a techno and electro artist, with 19 gigs on soundcheck across Ottawa a
 
 Bergsonist, Emissive, Garden of Magic
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acote/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acote/)*

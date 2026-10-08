@@ -1,6 +1,6 @@
 # Strobocop
 
-Strobocop is a House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Haus der Visionäre, Berlin on Thu, 8 Oct 2026.
+Strobocop is a House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Haus der Visionäre, Berlin on Thu, 8 Oct 2026.
 
 Strobocop is a house artist, with 8 gigs on soundcheck across Berlin, Cologne and Hamburg. Often billed alongside Cosmo (KR), Edward and Konstantin. Next up: Haus der Visionäre, Berlin on Thu 8 Oct.
 
@@ -24,4 +24,4 @@ Strobocop is a house artist, with 8 gigs on soundcheck across Berlin, Cologne an
 
 Cosmo (KR), Edward, Konstantin
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djstrobocop/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djstrobocop/)*

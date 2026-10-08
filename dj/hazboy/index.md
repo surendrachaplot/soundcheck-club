@@ -1,6 +1,6 @@
 # hazboy
 
-hazboy is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Tokyo Sing Song, Sydney on Thu, 15 Oct 2026.
+hazboy is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Tokyo Sing Song, Sydney on Thu, 15 Oct 2026.
 
 hazboy is a techno and club artist based in Australia, with 9 gigs on soundcheck across Sydney. Often billed alongside 0800KIN, Ember Electra and RHINESTONE COWGIRL. Next up: Tokyo Sing Song, Sydney on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ hazboy is a techno and club artist based in Australia, with 9 gigs on soundcheck
 
 0800KIN, Ember Electra, RHINESTONE COWGIRL
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hazboy/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hazboy/)*

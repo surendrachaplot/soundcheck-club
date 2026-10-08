@@ -1,6 +1,6 @@
 # Lewis Fautzi
 
-Lewis Fautzi is a Techno and Acid artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Refuge, New-york-city on Fri, 9 Oct 2026.
+Lewis Fautzi is a Techno and Acid artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Refuge, New-york-city on Fri, 9 Oct 2026.
 
 Lewis Fautzi is a techno and acid artist based in Portugal, with 83 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 25 more. Often billed alongside CONCEPTUAL, Archives Uniques and Adriana Lopez. Next up: Refuge, New York City on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ Lewis Fautzi is a techno and acid artist based in Portugal, with 83 gigs on soun
 
 CONCEPTUAL, Archives Uniques, Adriana Lopez
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisfautzi/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisfautzi/)*

@@ -1,6 +1,6 @@
 # foxloe
 
-foxloe is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Tagada, Vienna on Sat, 31 Oct 2026.
+foxloe is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Tagada, Vienna on Sat, 31 Oct 2026.
 
 foxloe is a house and techno artist based in France, with 22 gigs on soundcheck across Barcelona, Berlin, Leipzig and Vienna. Often billed alongside Konman, Rizmo and Alice (AT). Next up: Tagada, Vienna on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ foxloe is a house and techno artist based in France, with 22 gigs on soundcheck 
 
 Konman, Rizmo, Alice (AT)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foxloe/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foxloe/)*

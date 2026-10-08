@@ -1,6 +1,6 @@
 # Apparat
 
-Apparat is a Electronica and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Konzerthaus Stadthalle, Heidelberg on Thu, 8 Oct 2026.
+Apparat is a Electronica and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Konzerthaus Stadthalle, Heidelberg on Thu, 8 Oct 2026.
 
 Apparat is an electronica and electro artist based in Germany, with 22 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 11 more. Often billed alongside NZIRIA, Alessandro Addi and Andrea Saba. Next up: Konzerthaus Stadthalle, Heidelberg on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Apparat is an electronica and electro artist based in Germany, with 22 gigs on s
 
 NZIRIA, Alessandro Addi, Andrea Saba
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apparat/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apparat/)*

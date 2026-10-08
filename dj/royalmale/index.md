@@ -1,13 +1,14 @@
 # Royal Male
 
-Royal Male is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Club Cheek, London on Fri, 23 Oct 2026.
+Royal Male is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 17 Oct 2026.
 
-Royal Male is a house and disco artist based in United Kingdom, with 24 gigs on soundcheck across Hamburg, Ibiza, Leeds and London and 1 more. Often billed alongside Pharaoh Brunson, Bobby Thorpe and Il Bosco. Next up: Club Cheek, London on Fri 23 Oct.
+Royal Male is a house and disco artist based in United Kingdom, with 25 gigs on soundcheck across Hamburg, Ibiza, Leeds and London and 2 more. Often billed alongside Pharaoh Brunson, Bobby Thorpe and Il Bosco. Next up: Revolver Upstairs, Melbourne on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Revolver Upstairs | Melbourne |
 | Fri, 23 Oct 2026 | Club Cheek | London |
 | Sat, 24 Oct 2026 | Eiger Studios | Leeds |
 
@@ -26,4 +27,4 @@ Royal Male is a house and disco artist based in United Kingdom, with 24 gigs on 
 
 Pharaoh Brunson, Bobby Thorpe, Il Bosco
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/royalmale/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/royalmale/)*

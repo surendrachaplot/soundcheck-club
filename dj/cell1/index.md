@@ -1,6 +1,6 @@
 # cell1
 
-cell1 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, Berlin on Tue, 13 Oct 2026.
+cell1 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA, Berlin on Tue, 13 Oct 2026.
 
 cell1 is a techno and trance artist, with 43 gigs on soundcheck across Berlin. Often billed alongside Al Aslan, Sievert Serviert and Ėrrør.A. Next up: TBA, Berlin on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ cell1 is a techno and trance artist, with 43 gigs on soundcheck across Berlin. O
 
 Al Aslan, Sievert Serviert, Ėrrør.A
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cell1/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cell1/)*

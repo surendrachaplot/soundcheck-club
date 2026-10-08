@@ -1,6 +1,6 @@
 # SOLANA
 
-SOLANA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at H0L0, New York City on Sat, 10 Oct 2026.
+SOLANA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at H0L0, New York City on Sat, 10 Oct 2026.
 
 SOLANA is a house and techno artist based in United States of America, with 47 gigs on soundcheck across Barcelona, Berlin, Mexico City and Miami and 3 more. Often billed alongside Shvili, O.BEE and Maria Tôn. Next up: H0L0, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ SOLANA is a house and techno artist based in United States of America, with 47 g
 
 Shvili, O.BEE, Maria Tôn
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solana/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solana/)*

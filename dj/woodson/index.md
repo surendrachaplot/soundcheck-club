@@ -1,6 +1,6 @@
 # Woodson
 
-Woodson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Lido Liquor Bar, Milan on Thu, 8 Oct 2026.
+Woodson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Lido Liquor Bar, Milan on Thu, 8 Oct 2026.
 
 Woodson is a house and techno artist based in Haiti, with 13 gigs on soundcheck across Manchester, Milan and Paris. Often billed alongside The Liquid Dude, Daymount and Ko Mu. Next up: Lido Liquor Bar, Milan on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Woodson is a house and techno artist based in Haiti, with 13 gigs on soundcheck 
 
 The Liquid Dude, Daymount, Ko Mu
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/woodson/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/woodson/)*

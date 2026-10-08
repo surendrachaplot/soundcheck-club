@@ -1,8 +1,8 @@
 # David Kiss
 
-David Kiss is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Industry City, New York City on Sat, 31 Oct 2026.
+David Kiss is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Industry City, New York City on Sat, 31 Oct 2026.
 
-David Kiss is a house and techno artist based in United States of America, with 20 gigs on soundcheck across New York City. Often billed alongside Acid Eastern, Material Witness and DJ Ultra Violet. Next up: Industry City, New York City on Sat 31 Oct.
+David Kiss is a house and techno artist based in United States of America, with 20 gigs on soundcheck across New York City. Often billed alongside Acid Eastern, Material Witness and Amber Valentine. Next up: Industry City, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ David Kiss is a house and techno artist based in United States of America, with 
 
 ## Shares bills with
 
-Acid Eastern, Material Witness, DJ Ultra Violet
+Acid Eastern, Material Witness, Amber Valentine
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidkiss/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidkiss/)*

@@ -1,8 +1,8 @@
 # Coone
 
-Coone is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Coone is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Coone is a techno and house artist based in Belgium, with 21 gigs on soundcheck across Amsterdam, Düsseldorf, Glasgow and London and 6 more. Often billed alongside Brennan Heart, Da Tweekaz and Dual Damage. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
+Coone is a techno and house artist based in Belgium, with 22 gigs on soundcheck across Amsterdam, Copenhagen, Düsseldorf and Glasgow and 7 more. Often billed alongside Brennan Heart, Da Tweekaz and Dual Damage. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Coone is a techno and house artist based in Belgium, with 21 gigs on soundcheck 
 | Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Wed, 21 Oct 2026 | Chicago Social Club | Amsterdam |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
+| Sat, 28 Nov 2026 | Poolen | Copenhagen |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Coone is a techno and house artist based in Belgium, with 21 gigs on soundcheck 
 
 Brennan Heart, Da Tweekaz, Dual Damage
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coone/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coone/)*

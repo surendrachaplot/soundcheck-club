@@ -1,6 +1,6 @@
 # Jasna 1
 
-Jasna 1 is a music venue in Warsaw with 11 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "TAXOPHONE by Emil Zenko" on Fri, 9 Oct 2026.
+Jasna 1 is a music venue in Warsaw with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "TAXOPHONE by Emil Zenko" on Fri, 9 Oct 2026.
 
 Jasna 1 is a music venue in Warsaw listed on soundcheck. 11 upcoming gigs, with line-ups including 999999999, Adnable, Akua and Altinbas and 2 more. See dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
 
@@ -23,4 +23,4 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 11 upcoming gigs, with 
 
 Jasna 1, 00-013 Warszawa, Warsaw
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*

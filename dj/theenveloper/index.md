@@ -1,6 +1,6 @@
 # The Enveloper
 
-The Enveloper is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Mustache Bangkok, Bangkok on Fri, 9 Oct 2026.
+The Enveloper is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Mustache Bangkok, Bangkok on Fri, 9 Oct 2026.
 
 The Enveloper is a techno and trance artist based in Germany, with 15 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Cologne and 2 more. Often billed alongside PLOYZZ, Herbrido and SIRO (DE). Next up: Mustache Bangkok, Bangkok on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ The Enveloper is a techno and trance artist based in Germany, with 15 gigs on so
 
 PLOYZZ, Herbrido, SIRO (DE)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theenveloper/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theenveloper/)*

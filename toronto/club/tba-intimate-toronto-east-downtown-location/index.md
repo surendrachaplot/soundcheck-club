@@ -1,6 +1,6 @@
 # TBA - Intimate Toronto East Downtown Location
 
-TBA - Intimate Toronto East Downtown Location is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "Pulse of Pleasure" on Sat, 10 Oct 2026.
+TBA - Intimate Toronto East Downtown Location is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "Pulse of Pleasure" on Sat, 10 Oct 2026.
 
 TBA - Intimate Toronto East Downtown Location is a music venue in Toronto listed on soundcheck. 1 upcoming gig, with line-ups including Raw Pulse. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Intimate Toronto East Downtown Location is a music venue in Toronto listed
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Pulse of Pleasure | Raw Pulse |
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-intimate-toronto-east-downtown-location/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-intimate-toronto-east-downtown-location/)*

@@ -1,6 +1,6 @@
 # Jay de Lys
 
-Jay de Lys is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at NIX Barcelona, Barcelona on Fri, 16 Oct 2026.
+Jay de Lys is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at NIX Barcelona, Barcelona on Fri, 16 Oct 2026.
 
 Jay de Lys is a tech house and house artist based in Argentina, with 74 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Franky Rizardo, Joey Daniel and Easttown. Next up: NIX Barcelona, Barcelona on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Jay de Lys is a tech house and house artist based in Argentina, with 74 gigs on 
 
 Franky Rizardo, Joey Daniel, Easttown
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydelys/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydelys/)*

@@ -1,6 +1,6 @@
 # FREEGO
 
-FREEGO is a Techno and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Matrix Club Berlin (Techno Stage), Berlin on Fri, 9 Oct 2026.
+FREEGO is a Techno and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Matrix Club Berlin (Techno Stage), Berlin on Fri, 9 Oct 2026.
 
 FREEGO is a techno and progressive house artist based in Italy, with 44 gigs on soundcheck across Amsterdam, Berlin and Frankfurt. Often billed alongside Zutri, WAN.1 and Ornery. Next up: Matrix Club Berlin (Techno Stage), Berlin on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ FREEGO is a techno and progressive house artist based in Italy, with 44 gigs on 
 
 Zutri, WAN.1, Ornery
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freego/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freego/)*

@@ -1,6 +1,6 @@
 # Shvili
 
-Shvili is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
+Shvili is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
 
 Shvili is a house and techno artist based in Georgia, with 126 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 14 more. Often billed alongside Max Sprauer, Maksim and CAMILLA. Next up: Bassiani, Tbilisi on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Shvili is a house and techno artist based in Georgia, with 126 gigs on soundchec
 
 Max Sprauer, Maksim, CAMILLA
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shvili/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shvili/)*

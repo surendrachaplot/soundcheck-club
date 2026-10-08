@@ -1,6 +1,6 @@
 # Kid Lib
 
-Kid Lib is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Sidney & Matilda, Sheffield on Fri, 9 Oct 2026.
+Kid Lib is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Sidney & Matilda, Sheffield on Fri, 9 Oct 2026.
 
 Kid Lib is a jungle and drum & bass artist based in United Kingdom, with 16 gigs on soundcheck across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Mantra, Charla Green and Double O. Next up: Sidney & Matilda, Sheffield on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Kid Lib is a jungle and drum & bass artist based in United Kingdom, with 16 gigs
 
 Mantra, Charla Green, Double O
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kidlib/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kidlib/)*

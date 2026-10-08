@@ -1,14 +1,13 @@
 # Mahmut Orhan
 
-Mahmut Orhan is a House and Afro House artist with 11 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Chinois Ibiza, Ibiza on Wed, 7 Oct 2026.
+Mahmut Orhan is a House and Afro House artist with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Romaero - Baneasa, Bucharest on Fri, 9 Oct 2026.
 
-Mahmut Orhan is a house and afro house artist based in Turkey, with 133 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Francis Mercier, Shimza and ARODES. Next up: Chinois Ibiza, Ibiza on Wed 7 Oct.
+Mahmut Orhan is a house and afro house artist based in Turkey, with 133 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Francis Mercier, Shimza and ARODES. Next up: Romaero - Baneasa, Bucharest on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 7 Oct 2026 | Chinois Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Romaero - Baneasa | Bucharest |
 | Fri, 16 Oct 2026 | Hangar Luke Beograd | Belgrade |
 | Sat, 17 Oct 2026 | UFO im Velodrom | Berlin |
@@ -22,6 +21,7 @@ Mahmut Orhan is a house and afro house artist based in Turkey, with 133 gigs on 
 
 ## Recently played
 
+- Chinois Ibiza, Ibiza · Wed, 7 Oct 2026
 - Eventpyramide Vösendorf, Austria · Sat, 3 Oct 2026
 - Eventpyramide Vösendorf, Austria · Sat, 3 Oct 2026
 - Klein Phönix, Istanbul · Fri, 2 Oct 2026
@@ -29,10 +29,9 @@ Mahmut Orhan is a house and afro house artist based in Turkey, with 133 gigs on 
 - FOMO, Azerbaijan · Sat, 26 Sept 2026
 - Hï Ibiza, Ibiza · Sat, 12 Sept 2026
 - Chinois Ibiza, Ibiza · Fri, 11 Sept 2026
-- UNO MALTA, Malta · Fri, 28 Aug 2026
 
 ## Shares bills with
 
 Francis Mercier, Shimza, ARODES
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*

@@ -1,6 +1,6 @@
 # PKH Warehouse
 
-PKH Warehouse is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "TECHNO/TRANCE Classics - 1st Festival of Lights Clubnight" on Fri, 9 Oct 2026.
+PKH Warehouse is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "TECHNO/TRANCE Classics - 1st Festival of Lights Clubnight" on Fri, 9 Oct 2026.
 
 PKH Warehouse is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including Adam Vandal, A.D.H.S., Ari Denaro and Asem Shama and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ PKH Warehouse is a music venue in Berlin listed on soundcheck. 13 upcoming gigs,
 | Sat, 31 Oct 2026 | Halloween by Wurzelfestival x Praerie Festival |  |
 | Sat, 7 Nov 2026 | Clubnacht |  |
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pkh-warehouse/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pkh-warehouse/)*

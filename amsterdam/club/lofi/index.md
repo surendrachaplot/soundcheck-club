@@ -1,8 +1,8 @@
 # Lofi
 
-Lofi is a music venue in Amsterdam with 21 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Lofi by D Stone" on Fri, 9 Oct 2026.
+Lofi is a music venue in Amsterdam with 21 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Lofi by D Stone" on Fri, 9 Oct 2026.
 
-Lofi is a music venue in Amsterdam listed on soundcheck. 21 upcoming gigs, with line-ups including Agents Of Time, Alexander Koning, Antal and Arp Frique and 2 more. See dates, start times and who's playing. Basisweg 63, Amsterdam 1043AN, Netherlands.
+Lofi is a music venue in Amsterdam listed on soundcheck. 21 upcoming gigs, with line-ups including AAT (NL), Agents Of Time, Alexander Koning and Andy Martin and 2 more. See dates, start times and who's playing. Basisweg 63, Amsterdam 1043AN, Netherlands.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Lofi is a music venue in Amsterdam listed on soundcheck. 21 upcoming gigs, with 
 
 Basisweg 63, Amsterdam 1043AN, Netherlands, Amsterdam
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*

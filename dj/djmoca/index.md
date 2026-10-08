@@ -1,8 +1,8 @@
 # djmoca
 
-djmoca is a Techno and Minimal artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Culture Cafe, Bangkok on Sat, 10 Oct 2026.
+djmoca is a Techno and Minimal artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Culture Cafe, Bangkok on Sat, 10 Oct 2026.
 
-djmoca is a techno and minimal artist based in Thailand, with 43 gigs on soundcheck across Bangkok. Often billed alongside Kanabis Stoned, A_Lien and Mody. Next up: Culture Cafe, Bangkok on Sat 10 Oct.
+djmoca is a techno and minimal artist based in Thailand, with 44 gigs on soundcheck across Bangkok. Often billed alongside Kanabis Stoned, A_Lien and Mody. Next up: Culture Cafe, Bangkok on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ djmoca is a techno and minimal artist based in Thailand, with 43 gigs on soundch
 | Sat, 10 Oct 2026 | Culture Cafe | Bangkok |
 | Sat, 17 Oct 2026 | Culture Cafe | Bangkok |
 | Fri, 30 Oct 2026 | Culture Cafe | Bangkok |
+| Sat, 21 Nov 2026 | Culture Cafe | Bangkok |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ djmoca is a techno and minimal artist based in Thailand, with 43 gigs on soundch
 
 Kanabis Stoned, A_Lien, Mody
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmoca/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmoca/)*

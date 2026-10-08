@@ -1,6 +1,6 @@
 # Train To Eltanin
 
-Train To Eltanin is a Dub Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Detune, Milan on Fri, 16 Oct 2026.
+Train To Eltanin is a Dub Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Detune, Milan on Fri, 16 Oct 2026.
 
 Train To Eltanin is a dub techno and experimental artist based in Italy, with 13 gigs on soundcheck across Belgrade, Milan and Rome. Often billed alongside Gattonero, Binh and DANAE. Next up: Detune, Milan on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Train To Eltanin is a dub techno and experimental artist based in Italy, with 13
 
 Gattonero, Binh, DANAE
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/traintoeltanin/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/traintoeltanin/)*

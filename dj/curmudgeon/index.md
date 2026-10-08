@@ -1,6 +1,6 @@
 # Curmudgeon
 
-Curmudgeon is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Spkrbox, Detroit on Fri, 9 Oct 2026.
+Curmudgeon is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Spkrbox, Detroit on Fri, 9 Oct 2026.
 
 Curmudgeon is a techno and house artist based in United States of America, with 17 gigs on soundcheck across Detroit. Often billed alongside Jorissen, Rick Wade and Andrea Ghita. Next up: Spkrbox, Detroit on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Curmudgeon is a techno and house artist based in United States of America, with 
 
 Jorissen, Rick Wade, Andrea Ghita
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/curmudgeon/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/curmudgeon/)*

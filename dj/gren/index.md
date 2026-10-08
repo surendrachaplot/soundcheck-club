@@ -1,6 +1,6 @@
 # Gren
 
-Gren is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at The Bongo Club, Edinburgh on Tue, 13 Oct 2026.
+Gren is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at The Bongo Club, Edinburgh on Tue, 13 Oct 2026.
 
 Gren is a garage and house artist, with 8 gigs on soundcheck across Cardiff, Edinburgh and London. Often billed alongside Bartek, FOLIE (UK) and ITEM9. Next up: The Bongo Club, Edinburgh on Tue 13 Oct.
 
@@ -24,4 +24,4 @@ Gren is a garage and house artist, with 8 gigs on soundcheck across Cardiff, Edi
 
 Bartek, FOLIE (UK), ITEM9
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gren/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gren/)*

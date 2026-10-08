@@ -1,6 +1,6 @@
 # Nicneven
 
-Nicneven is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, Sydney on Sat, 10 Oct 2026.
+Nicneven is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA, Sydney on Sat, 10 Oct 2026.
 
 Nicneven is a techno and psytrance artist based in Australia, with 7 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Gwyn, Shepz and Sian Ramirez. Next up: TBA, Sydney on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Nicneven is a techno and psytrance artist based in Australia, with 7 gigs on sou
 
 Gwyn, Shepz, Sian Ramirez
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicneven/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicneven/)*

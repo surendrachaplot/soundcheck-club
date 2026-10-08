@@ -1,6 +1,6 @@
 # Maul (2)
 
-Maul (2) is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, Toronto on Sat, 3 Oct 2026.
+Maul (2) is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA, Toronto on Sat, 3 Oct 2026.
 
 Maul is a techno and hardcore artist based in Canada, with 13 gigs on soundcheck across Toronto. Often billed alongside KILL 9 1, R4TS and MVCHE. Next up: TBA, Toronto on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Maul is a techno and hardcore artist based in Canada, with 13 gigs on soundcheck
 
 KILL 9 1, R4TS, MVCHE
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maul-2/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maul-2/)*

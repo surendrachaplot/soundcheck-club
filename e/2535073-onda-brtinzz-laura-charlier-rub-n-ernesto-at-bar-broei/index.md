@@ -1,6 +1,6 @@
-# ONDA: • Brtinzz - Laura Charlier - RUBÉN ERNESTO at Bar Broei
+# ONDA: • Brtinzz - Laura Charlier - Rubén Ernesto at Bar Broei
 
-ONDA: • Brtinzz - Laura Charlier - RUBÉN ERNESTO at Bar Broei on Fri 23 Oct, Ghent. 2 artists: Brtinzz and Laura Charlier. Techno. See the line-up on soundcheck.
+ONDA: • Brtinzz - Laura Charlier - Rubén Ernesto at Bar Broei on Fri 23 Oct, Ghent. 2 artists: Brtinzz and Laura Charlier. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Origins: Osmosis Jones at The Bongo Club
 
-Origins: Osmosis Jones at The Bongo Club on Thu 15 Oct, Edinburgh. 4 artists: Fug, Lui Mackay, Osmosis Jones and YVI. House and Garage. See the line-up on soundcheck.
+Origins: Osmosis Jones at The Bongo Club on Thu 15 Oct, Edinburgh. 5 artists: Fug, Lui Mackay, Osmosis Jones and YVI and 1 more. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ Origins: Osmosis Jones at The Bongo Club on Thu 15 Oct, Edinburgh. 4 artists: Fu
 - Lui Mackay
 - Osmosis Jones
 - YVI
+- zohra
 
 *Source: [soundcheck](https://soundcheck.club/e/2526234-origins-osmosis-jones-at-the-bongo-club/)*

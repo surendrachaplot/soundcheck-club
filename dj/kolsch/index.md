@@ -1,6 +1,6 @@
 # Kölsch
 
-Kölsch is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at ORIGIN, Los Angeles on Sat, 10 Oct 2026.
+Kölsch is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at ORIGIN, Los Angeles on Sat, 10 Oct 2026.
 
 Kölsch is a techno and house artist based in Denmark, with 152 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 41 more. Often billed alongside Kevin de Vries, Olympe and CamelPhat. Next up: ORIGIN, Los Angeles on Sat 10 Oct.
 
@@ -34,4 +34,4 @@ Kölsch is a techno and house artist based in Denmark, with 152 gigs on soundche
 
 Kevin de Vries, Olympe, CamelPhat
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*

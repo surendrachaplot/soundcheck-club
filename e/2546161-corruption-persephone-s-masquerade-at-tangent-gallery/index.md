@@ -1,6 +1,6 @@
 # CORRUPTION: Persephone's Masquerade at Tangent Gallery
 
-CORRUPTION: Persephone's Masquerade at Tangent Gallery on Fri 23 Oct, Detroit. 3 artists: Mike Parallax, Remnant and Shakti (US). EBM and Industrial. See the line-up on soundcheck.
+CORRUPTION: Persephone's Masquerade at Tangent Gallery on Fri 23 Oct, Detroit. 4 artists: Mike Parallax, Petra Steele, Remnant and Shakti (US). EBM and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ CORRUPTION: Persephone's Masquerade at Tangent Gallery on Fri 23 Oct, Detroit. 3
 ## Line-up
 
 - Mike Parallax
+- Petra Steele
 - Remnant
 - Shakti (US)
 

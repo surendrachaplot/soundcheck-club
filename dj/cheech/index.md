@@ -1,6 +1,6 @@
 # Cheech
 
-Cheech is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Liquid Club, Malta on Fri, 23 Oct 2026.
+Cheech is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Liquid Club, Malta on Fri, 23 Oct 2026.
 
 Cheech is a techno and house artist based in Malta, with 13 gigs on soundcheck across Berlin, Malta, Montreal and Nashville. Often billed alongside Georg MT, Patient (MT) and Andrew Pololos. Next up: Liquid Club, Malta on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Cheech is a techno and house artist based in Malta, with 13 gigs on soundcheck a
 
 Georg MT, Patient (MT), Andrew Pololos
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cheech/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cheech/)*

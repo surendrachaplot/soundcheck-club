@@ -1,6 +1,6 @@
 # Nice Girl + Nice Food at Runner Up Rooftop Bar
 
-Nice Girl + Nice Food at Runner Up Rooftop Bar on Sun 18 Oct, Melbourne. 3 artists: Freddy Gardens, Nice Girl and Sammy Sanchez. See the line-up on soundcheck.
+Nice Girl + Nice Food at Runner Up Rooftop Bar on Sun 18 Oct, Melbourne. 3 artists: Freddy Gardens, Nice Girl and Sammy Sanchez. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

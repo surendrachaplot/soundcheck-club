@@ -1,6 +1,6 @@
 # AM (8)
 
-AM (8) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Baalsaal, Hamburg on Sat, 10 Oct 2026.
+AM (8) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Baalsaal, Hamburg on Sat, 10 Oct 2026.
 
 AM is a techno and tech house artist based in Greece, with 13 gigs on soundcheck across Bangkok, Barcelona, Denver and Detroit and 6 more. Often billed alongside PM, dUb and 1 AM. Next up: Baalsaal, Hamburg on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ AM is a techno and tech house artist based in Greece, with 13 gigs on soundcheck
 
 PM, dUb, 1 AM (1)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/am-8/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/am-8/)*

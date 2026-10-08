@@ -1,6 +1,6 @@
 # Adelaide (1)
 
-Adelaide (1) is a Club and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Cloud & Spirits, Boston on Fri, 9 Oct 2026.
+Adelaide (1) is a Club and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Cloud & Spirits, Boston on Fri, 9 Oct 2026.
 
 Adelaide is a club and afrobeat artist based in United States of America, with 4 gigs on soundcheck across Boston and New York City. Often billed alongside Christinathesaintt, Elysian and Nyah Cami. Next up: Cloud & Spirits, Boston on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ Adelaide is a club and afrobeat artist based in United States of America, with 4
 
 Christinathesaintt, Elysian (1), Nyah Cami
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adelaide-us/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adelaide-us/)*

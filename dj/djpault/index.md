@@ -1,6 +1,6 @@
 # DJ Paul T
 
-DJ Paul T is a Post-Punk and Industrial artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Kung Fu Necktie, Philadelphia on Sat, 17 Oct 2026.
+DJ Paul T is a Post-Punk and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Kung Fu Necktie, Philadelphia on Sat, 17 Oct 2026.
 
 DJ Paul T is a post-punk and industrial artist, with 9 gigs on soundcheck across Philadelphia. Often billed alongside Kontravoid. Next up: Kung Fu Necktie, Philadelphia on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ DJ Paul T is a post-punk and industrial artist, with 9 gigs on soundcheck across
 
 Kontravoid
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpault/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpault/)*

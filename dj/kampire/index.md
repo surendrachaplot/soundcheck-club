@@ -1,6 +1,6 @@
 # Kampire
 
-Kampire is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Plex, Athens on Fri, 9 Oct 2026.
+Kampire is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Plex, Athens on Fri, 9 Oct 2026.
 
 Kampire is a bass and house artist based in Uganda, with 48 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside DJ Travella, De Schuurman and Jay Mitta. Next up: Plex, Athens on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Kampire is a bass and house artist based in Uganda, with 48 gigs on soundcheck a
 
 DJ Travella, De Schuurman, Jay Mitta
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kampire/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kampire/)*

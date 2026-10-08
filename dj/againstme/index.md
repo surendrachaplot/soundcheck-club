@@ -1,6 +1,6 @@
 # AgainstMe
 
-AgainstMe is a Techno and Minimal Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at essaim, Paris on Fri, 9 Oct 2026.
+AgainstMe is a Techno and Minimal Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at essaim, Paris on Fri, 9 Oct 2026.
 
 AgainstMe is a techno and minimal techno artist based in Greece, with 55 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 13 more. Often billed alongside Red Rooms, Tommy Four Seven and Efdemin. Next up: essaim, Paris on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ AgainstMe is a techno and minimal techno artist based in Greece, with 55 gigs on
 
 Red Rooms, Tommy Four Seven, Efdemin
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/againstme/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/againstme/)*

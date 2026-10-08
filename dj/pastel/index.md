@@ -1,14 +1,15 @@
 # Pastel
 
-Pastel is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Petit CAB, Marseille on Fri, 16 Oct 2026.
+Pastel is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Petit CAB, Marseille on Fri, 16 Oct 2026.
 
-Pastel is a house and electro artist based in France, with 30 gigs on soundcheck across Budapest, Lyon, Marseille and Nantes and 1 more. Often billed alongside ABI (FR), Baka G and Cess. Next up: Petit CAB, Marseille on Fri 16 Oct.
+Pastel is a house and electro artist based in France, with 31 gigs on soundcheck across Budapest, Lyon, Marseille and Nantes and 1 more. Often billed alongside ABI (FR), Abn - P2z and Baka G. Next up: Petit CAB, Marseille on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Petit CAB | Marseille |
+| Sat, 12 Dec 2026 | La Cômerie | Marseille |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Pastel is a house and electro artist based in France, with 30 gigs on soundcheck
 
 ## Shares bills with
 
-ABI (FR), Baka G, Cess
+ABI (FR), Abn - P2z, Baka G
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pastel/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pastel/)*

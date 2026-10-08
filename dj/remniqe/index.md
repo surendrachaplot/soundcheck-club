@@ -1,6 +1,6 @@
 # Remniqe
 
-Remniqe is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Mood Ring, New York City on Thu, 8 Oct 2026.
+Remniqe is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Mood Ring, New York City on Thu, 8 Oct 2026.
 
 Remniqe is a house and techno artist based in United States of America, with 75 gigs on soundcheck across New York City, San Francisco/Oakland and Tokyo. Often billed alongside DJ Nope, DJ eh and BLCKLST. Next up: Mood Ring, New York City on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Remniqe is a house and techno artist based in United States of America, with 75 
 
 DJ Nope, DJ eh, BLCKLST
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/remniqe/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/remniqe/)*

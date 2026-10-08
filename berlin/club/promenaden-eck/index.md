@@ -1,6 +1,6 @@
 # Promenaden Eck
 
-Promenaden Eck is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Garderöbe Launch Party" on Fri, 9 Oct 2026.
+Promenaden Eck is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Garderöbe Launch Party" on Fri, 9 Oct 2026.
 
 Promenaden Eck is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Alexander Paulski, Clarence, Clarence Wu and Diego Moreno and 2 more. See dates, start times and who's playing. Schillerpromenade 11, 12049 Berlin.
 
@@ -18,4 +18,4 @@ Promenaden Eck is a music venue in Berlin listed on soundcheck. 5 upcoming gigs,
 
 Schillerpromenade 11, 12049 Berlin, Berlin
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/promenaden-eck/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/promenaden-eck/)*

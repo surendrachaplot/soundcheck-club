@@ -1,6 +1,6 @@
 # Ferrari
 
-Ferrari is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Goya Social Club, Madrid on Fri, 9 Oct 2026.
+Ferrari is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Goya Social Club, Madrid on Fri, 9 Oct 2026.
 
 Ferrari is a house and disco artist based in Italy, with 59 gigs on soundcheck across Amsterdam, Berlin, Madrid and Milan and 2 more. Often billed alongside Dante (H501), Coni and Larry Masmero. Next up: Goya Social Club, Madrid on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Ferrari is a house and disco artist based in Italy, with 59 gigs on soundcheck a
 
 Dante (H501), Coni (2), Larry Masmero
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrari/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrari/)*

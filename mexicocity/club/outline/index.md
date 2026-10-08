@@ -1,6 +1,6 @@
 # Outline
 
-Outline is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "Libra Season" on Fri, 9 Oct 2026.
+Outline is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "Libra Season" on Fri, 9 Oct 2026.
 
 Outline is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including Jacinto Di Yeah, Juan Soto and Vanderlinden. See dates, start times and who's playing. Av Oaxaca 99, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX.
 
@@ -14,4 +14,4 @@ Outline is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, wi
 
 Av Oaxaca 99, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico City
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/outline/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/outline/)*

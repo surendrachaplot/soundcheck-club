@@ -1,13 +1,14 @@
 # B2B The Movement
 
-B2B The Movement is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Two Tribes CAMPFIRE, London on Sat, 10 Oct 2026.
+B2B The Movement is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Secret London Location TBA, London on Fri, 9 Oct 2026.
 
-B2B The Movement is a house and tech house artist based in United Kingdom, with 10 gigs on soundcheck across Liverpool, London and Malta. Often billed alongside Brian Smith, Steven Cee and JAYDAA. Next up: Two Tribes CAMPFIRE, London on Sat 10 Oct.
+B2B The Movement is a house and tech house artist based in United Kingdom, with 11 gigs on soundcheck across Liverpool, London and Malta. Often billed alongside Brian Smith, Steven Cee and JAYDAA. Next up: Secret London Location TBA, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Secret London Location TBA | London |
 | Sat, 10 Oct 2026 | Two Tribes CAMPFIRE | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ B2B The Movement is a house and tech house artist based in United Kingdom, with 
 
 Brian Smith, Steven Cee, JAYDAA
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b2bthemovement/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b2bthemovement/)*

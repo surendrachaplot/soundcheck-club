@@ -1,6 +1,6 @@
 # DOCTOR MÜCKE
 
-DOCTOR MÜCKE is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Shazam Club, Sicily on Sat, 10 Oct 2026.
+DOCTOR MÜCKE is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Shazam Club, Sicily on Sat, 10 Oct 2026.
 
 DOCTOR MÜCKE is a techno and trance artist based in Italy, with 46 gigs on soundcheck across Barcelona, Berlin, Bologna and Cologne and 11 more. Often billed alongside RESA UTOPICA, EGE363 and Amo (IT). Next up: Shazam Club, Sicily on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ DOCTOR MÜCKE is a techno and trance artist based in Italy, with 46 gigs on soun
 
 RESA UTOPICA, EGE363, Amo (IT)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doctormucke/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doctormucke/)*

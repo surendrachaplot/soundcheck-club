@@ -1,6 +1,6 @@
 # ATT1C
 
-ATT1C is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Radius, Chicago on Fri, 16 Oct 2026.
+ATT1C is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Radius, Chicago on Fri, 16 Oct 2026.
 
 ATT1C is a techno and trance artist based in United States of America, with 17 gigs on soundcheck across Chicago. Often billed alongside dirtymoney, quade and Miss B Haven. Next up: Radius, Chicago on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ ATT1C is a techno and trance artist based in United States of America, with 17 g
 
 dirtymoney, quade, Miss B Haven
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/att1c/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/att1c/)*

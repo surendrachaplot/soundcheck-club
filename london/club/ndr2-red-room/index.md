@@ -1,14 +1,13 @@
 # NDR2 Red Room
 
-NDR2 Red Room is a music venue in London with 11 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Club Cold Blood presents - BEACH GOTHIC (Orchid EP Release Party)" on Wed, 7 Oct 2026.
+NDR2 Red Room is a music venue in London with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Syz, HARRY RAPLEY & JIMMY DECENT ALL NIGHT LONG // RED ROOM" on Fri, 9 Oct 2026.
 
-NDR2 Red Room is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Aaron Burr, Alex, from Deep, Aria and Benny Ill and 2 more. See dates, start times and who's playing. 182 Stoke Newington Rd, London N16 7UY.
+NDR2 Red Room is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Aaron Burr, Alex, from Deep, Aria and Benny Ill and 2 more. See dates, start times and who's playing. 182 Stoke Newington Rd, London N16 7UY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 7 Oct 2026 | Club Cold Blood presents - BEACH GOTHIC (Orchid EP Release Party) | The Lizard Queen |
 | Fri, 9 Oct 2026 | Syz, HARRY RAPLEY & JIMMY DECENT ALL NIGHT LONG // RED ROOM | Syz |
 | Sat, 10 Oct 2026 | Slam Duncs Vinyl Instore | Duncan Thomas, Jive Talk |
 | Fri, 16 Oct 2026 | Granville Collective - Pop-up + Afterparty | JYE., LEN., Tempz |
@@ -18,9 +17,10 @@ NDR2 Red Room is a music venue in London listed on soundcheck. 11 upcoming gigs,
 | Fri, 30 Oct 2026 | Red Room Halloween Launch - SECRET GUEST |  |
 | Sat, 31 Oct 2026 | Syncopate presents: Benny Ill (Horsepower Productions) | Alex, from Deep, Aria (3), Benny Ill, Ovrtic |
 | Sat, 7 Nov 2026 | Grounded London: NDR2 RedRoom | Aaron Burr (2), Martel (UK), Myles Apps, Rhys Dyer |
+| Fri, 13 Nov 2026 | Benyayer (Live) + Tania Atyabi + Rainbow Conspiracy | Benyayer, Rainbow Conspiracy, Tania Atyabi |
 
 ## Address
 
 182 Stoke Newington Rd, London N16 7UY, London
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ndr2-red-room/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ndr2-red-room/)*

@@ -1,6 +1,6 @@
 # Ku Barcelona
 
-Ku Barcelona is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "FREE Tickets AVALON x Bridge48: HIRMONIX, Alex Blaze, Lucymust" on Fri, 9 Oct 2026.
+Ku Barcelona is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "FREE Tickets AVALON x Bridge48: HIRMONIX, Alex Blaze, Lucymust" on Fri, 9 Oct 2026.
 
 Ku Barcelona is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Alex Blaze, Althoff, ERRANT and HIRMONIX. See dates, start times and who's playing. Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain.
 
@@ -15,4 +15,4 @@ Ku Barcelona is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs
 
 Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain, Barcelona
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*

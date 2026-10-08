@@ -1,6 +1,6 @@
 # Not Stereo & Unterline Records Invites at Urban Spree
 
-Not Stereo & Unterline Records Invites at Urban Spree on Sat 24 Oct, Berlin. 6 artists: B. Clarke, Cristaless, DASH (SLO) and dgbt and 2 more. Techno and House. See the line-up on soundcheck.
+Not Stereo & Unterline Records Invites at Urban Spree on Sat 24 Oct, Berlin. 5 artists: B. Clarke, Cristaless, DASH (SLO) and Gonzalo Lavin (Chile) and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,6 @@ Not Stereo & Unterline Records Invites at Urban Spree on Sat 24 Oct, Berlin. 6 a
 - B. Clarke
 - Cristaless
 - DASH (SLO)
-- dgbt
 - Gonzalo Lavin (Chile)
 - Rez Alberto Rettore
 

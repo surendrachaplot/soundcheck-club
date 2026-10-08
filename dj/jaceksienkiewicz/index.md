@@ -1,6 +1,6 @@
 # Jacek Sienkiewicz
 
-Jacek Sienkiewicz is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at IKLECTIK, London on Fri, 9 Oct 2026.
+Jacek Sienkiewicz is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at IKLECTIK, London on Fri, 9 Oct 2026.
 
 Jacek Sienkiewicz is an experimental and techno artist, with 23 gigs on soundcheck across Berlin, Krakow, London and Osaka and 2 more. Often billed alongside Robert Piotrowicz, Rashad Becker and Feelaz. Next up: IKLECTIK, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Jacek Sienkiewicz is an experimental and techno artist, with 23 gigs on soundche
 
 Robert Piotrowicz, Rashad Becker, Feelaz
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaceksienkiewicz/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaceksienkiewicz/)*

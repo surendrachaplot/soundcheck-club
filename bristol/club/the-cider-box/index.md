@@ -1,6 +1,6 @@
 # The Cider Box
 
-The Cider Box is a music venue in Bristol with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "Alexi Taylor (Hotchip) DJ set" on Fri, 16 Oct 2026.
+The Cider Box is a music venue in Bristol with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "Alexi Taylor (Hotchip) DJ set" on Fri, 16 Oct 2026.
 
 The Cider Box is a music venue in Bristol listed on soundcheck. 1 upcoming gig, with line-ups including Alexis Taylor. See dates, start times and who's playing. Arch 5 Silverthorne Ln, Bristol BS2 0QD, UK.
 
@@ -14,4 +14,4 @@ The Cider Box is a music venue in Bristol listed on soundcheck. 1 upcoming gig, 
 
 Arch 5 Silverthorne Ln, Bristol BS2 0QD, UK, Bristol
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-cider-box/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-cider-box/)*

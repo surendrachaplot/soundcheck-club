@@ -1,8 +1,8 @@
 # Ndrx
 
-Ndrx is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
+Ndrx is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
 
-Ndrx is a techno and house artist based in Georgia, with 113 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 24 more. Often billed alongside Newa, Kancheli and Sophie Phare. Next up: Bassiani, Tbilisi on Fri 9 Oct.
+Ndrx is a techno and house artist based in Georgia, with 115 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 24 more. Often billed alongside Newa, Kancheli and Sophie Phare. Next up: Bassiani, Tbilisi on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ Ndrx is a techno and house artist based in Georgia, with 113 gigs on soundcheck 
 | Sat, 17 Oct 2026 | Circolo Amelia | Milan |
 | Fri, 30 Oct 2026 | essaim | Paris |
 | Sat, 31 Oct 2026 | Tresor / Globus | Berlin |
+| Fri, 6 Nov 2026 | Bassiani | Tbilisi |
+| Sat, 28 Nov 2026 | RSO.BERLIN | Berlin |
 | Sat, 12 Dec 2026 | RADION | Amsterdam |
 
 ## Recently played
@@ -29,4 +31,4 @@ Ndrx is a techno and house artist based in Georgia, with 113 gigs on soundcheck 
 
 Newa, Kancheli, Sophie Phare
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ndrx/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ndrx/)*

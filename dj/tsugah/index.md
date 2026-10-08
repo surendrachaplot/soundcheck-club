@@ -1,8 +1,8 @@
 # T & Sugah
 
-T & Sugah is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Turbinenhalle, Oberhausen on Sat, 10 Oct 2026.
+T & Sugah is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Turbinenhalle, Oberhausen on Sat, 10 Oct 2026.
 
-T & Sugah are a drum & bass and jungle duo based in Netherlands, with 50 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Mozey, Delta Heavy and Pola & Bryson. Next up: Turbinenhalle, Oberhausen on Sat 10 Oct.
+T & Sugah are a drum & bass and jungle duo based in Netherlands, with 51 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Mozey, Delta Heavy and Pola & Bryson. Next up: Turbinenhalle, Oberhausen on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ T & Sugah are a drum & bass and jungle duo based in Netherlands, with 50 gigs on
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Turbinenhalle | Oberhausen |
 | Sat, 7 Nov 2026 | TBA - Komplex 457 | Zurich |
+| Sat, 6 Feb 2027 | Lakota | Bristol |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ T & Sugah are a drum & bass and jungle duo based in Netherlands, with 50 gigs on
 
 Mozey, Delta Heavy, Pola & Bryson
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsugah/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsugah/)*

@@ -1,14 +1,15 @@
 # EVEHIVE
 
-EVEHIVE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - 3 LOCAIS / 3 LOCATIONS, Sao-paulo on Fri, 6 Nov 2026.
+EVEHIVE is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - 3 LOCAIS / 3 LOCATIONS, Sao-paulo on Fri, 6 Nov 2026.
 
-EVEHIVE is a house and techno artist based in Brazil, with 47 gigs on soundcheck across Berlin, Hamburg, Lisbon and London and 2 more. Often billed alongside Kontronatura, BADSISTA and Suelen Mesmo. Next up: TBA - 3 LOCAIS / 3 LOCATIONS, Sao Paulo on Fri 6 Nov.
+EVEHIVE is a house and techno artist based in Brazil, with 48 gigs on soundcheck across Berlin, Hamburg, Lisbon and London and 2 more. Often billed alongside Kontronatura, BADSISTA and KENYA20HZ. Next up: TBA - 3 LOCAIS / 3 LOCATIONS, Sao Paulo on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | TBA - 3 LOCAIS / 3 LOCATIONS | Sao-paulo |
+| Sat, 28 Nov 2026 | Barraco SP /CO | Sao Paulo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ EVEHIVE is a house and techno artist based in Brazil, with 47 gigs on soundcheck
 
 ## Shares bills with
 
-Kontronatura, BADSISTA, Suelen Mesmo
+Kontronatura, BADSISTA, KENYA20HZ
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evehive/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evehive/)*

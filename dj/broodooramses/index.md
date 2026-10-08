@@ -1,6 +1,6 @@
 # Broodoo Ramses
 
-Broodoo Ramses is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Broodoo Ramses is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
 Broodoo Ramses is a club and bass artist based in France, with 57 gigs on soundcheck across Belgrade, Berlin, Geneva and Hamburg and 7 more. Often billed alongside Bamao Yendé, Crystallmess and Jyoty. Next up: Factory Town, Miami on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Broodoo Ramses is a club and bass artist based in France, with 57 gigs on soundc
 
 Bamao Yendé, Crystallmess, Jyoty
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/broodooramses/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/broodooramses/)*

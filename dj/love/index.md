@@ -1,6 +1,6 @@
 # LOVE
 
-LOVE is a Reggaeton and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Night Tales, London on Sat, 14 Nov 2026.
+LOVE is a Reggaeton and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Night Tales, London on Sat, 14 Nov 2026.
 
 LOVE is a reggaeton and neo perreo artist based in Panama, with 31 gigs on soundcheck across Amsterdam, Berlin, Brisbane and London and 3 more. Often billed alongside DINABN, VICTORIA MOURA and Cquestt. Next up: Night Tales, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ LOVE is a reggaeton and neo perreo artist based in Panama, with 31 gigs on sound
 
 DINABN, VICTORIA MOURA, Cquestt
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/love/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/love/)*

@@ -1,6 +1,6 @@
 # Blvck Truffle
 
-Blvck Truffle is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Jupiter Disco, New York City on Thu, 22 Oct 2026.
+Blvck Truffle is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Jupiter Disco, New York City on Thu, 22 Oct 2026.
 
 Blvck Truffle is a house and disco artist based in United States of America, with 34 gigs on soundcheck across New York City. Often billed alongside Ardio Zemog, Elephantglasses and HunnyBunny. Next up: Jupiter Disco, New York City on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Blvck Truffle is a house and disco artist based in United States of America, wit
 
 Ardio Zemog, Elephantglasses, HunnyBunny
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blvcktruffle/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blvcktruffle/)*

@@ -1,6 +1,6 @@
 # Jayda G
 
-Jayda G is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
+Jayda G is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
 
 Jayda G is a house and techno artist based in Canada, with 135 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 50 more. Often billed alongside salute, Melvo Baptiste and Barry Can't Swim. Next up: Iter Tenerife, Canary Islands on Fri 16 Oct.
 
@@ -34,4 +34,4 @@ Jayda G is a house and techno artist based in Canada, with 135 gigs on soundchec
 
 salute, Melvo Baptiste, Barry Can't Swim
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydag/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydag/)*

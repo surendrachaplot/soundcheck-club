@@ -1,6 +1,6 @@
 # Janverse
 
-Janverse is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Nice N Sleazy, Glasgow on Fri, 16 Oct 2026.
+Janverse is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Nice N Sleazy, Glasgow on Fri, 16 Oct 2026.
 
 Janverse is a drum & bass and jungle artist based in United Kingdom, with 18 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Brynk, Rodent and FOLIE (UK). Next up: Nice N Sleazy, Glasgow on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Janverse is a drum & bass and jungle artist based in United Kingdom, with 18 gig
 
 Brynk, Rodent, FOLIE (UK)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janverse/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janverse/)*

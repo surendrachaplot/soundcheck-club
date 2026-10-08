@@ -1,6 +1,6 @@
 # Veronicami
 
-Veronicami is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at OCZKI, Warsaw on Sat, 12 Dec 2026.
+Veronicami is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at OCZKI, Warsaw on Sat, 12 Dec 2026.
 
 Veronicami is an experimental and bass artist based in Azerbaijan, with 21 gigs on soundcheck across Berlin, Krakow and Warsaw. Often billed alongside DiV4, KUXU and TAMTEN. Next up: OCZKI, Warsaw on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Veronicami is an experimental and bass artist based in Azerbaijan, with 21 gigs 
 
 DiV4, KUXU, TAMTEN
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/veronicami/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/veronicami/)*

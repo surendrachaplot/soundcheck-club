@@ -1,6 +1,6 @@
 # SCHLAAKIII
 
-SCHLAAKIII is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Absturz, Leipzig on Fri, 9 Oct 2026.
+SCHLAAKIII is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Absturz, Leipzig on Fri, 9 Oct 2026.
 
 SCHLAAKIII is a techno and trance artist based in Germany, with 8 gigs on soundcheck across Leipzig. Often billed alongside CAVVØ, Raphus and VLUNA. Next up: Absturz, Leipzig on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ SCHLAAKIII is a techno and trance artist based in Germany, with 8 gigs on soundc
 
 CAVVØ, Raphus, VLUNA
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schlaakiii/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schlaakiii/)*

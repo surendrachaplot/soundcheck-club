@@ -1,6 +1,6 @@
 # Deborah De Luca
 
-Deborah De Luca is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 9 Oct 2026.
+Deborah De Luca is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 9 Oct 2026.
 
 Deborah De Luca is a techno and house artist based in Italy, with 156 gigs on soundcheck across Antwerp, Athens, Augsburg and Austin and 49 more. Often billed alongside Luca Donzelli, I Hate Models and 999999999. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 9 Oct.
 
@@ -32,4 +32,4 @@ Deborah De Luca is a techno and house artist based in Italy, with 156 gigs on so
 
 Luca Donzelli, I Hate Models, 999999999
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahdeluca/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahdeluca/)*

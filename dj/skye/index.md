@@ -1,6 +1,6 @@
 # SKYE
 
-SKYE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Turbinenhalle, Oberhausen on Sat, 10 Oct 2026.
+SKYE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Turbinenhalle, Oberhausen on Sat, 10 Oct 2026.
 
 SKYE is a house and techno artist based in United States of America, with 12 gigs on soundcheck across Brighton, Bristol, Los Angeles and Oberhausen and 4 more. Often billed alongside HIJINX, Blooom and CODE. Next up: Turbinenhalle, Oberhausen on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ SKYE is a house and techno artist based in United States of America, with 12 gig
 
 HIJINX, Blooom, CODE (3)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skye/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skye/)*

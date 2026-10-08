@@ -1,6 +1,6 @@
 # Pavilhão Carlos Lopes
 
-Pavilhão Carlos Lopes is a music venue in Lisbon with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Jackies Lisboa House Music Festival 2026 with Chris Stassy" on Sat, 17 Oct 2026.
+Pavilhão Carlos Lopes is a music venue in Lisbon with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Jackies Lisboa House Music Festival 2026 with Chris Stassy" on Sat, 17 Oct 2026.
 
 Pavilhão Carlos Lopes is a music venue in Lisbon listed on soundcheck. 3 upcoming gigs, with line-ups including AARON SEVILLA, Azyr, BLNK and BØĘRY and 2 more. See dates, start times and who's playing. Pavilhão Carlos Lopes, 1070-051 Lisboa, Portugal.
 
@@ -16,4 +16,4 @@ Pavilhão Carlos Lopes is a music venue in Lisbon listed on soundcheck. 3 upcomi
 
 Pavilhão Carlos Lopes, 1070-051 Lisboa, Portugal, Lisbon
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/pavilh-o-carlos-lopes/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/pavilh-o-carlos-lopes/)*

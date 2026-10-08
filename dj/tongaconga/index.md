@@ -1,6 +1,6 @@
 # Tonga Conga
 
-Tonga Conga is a Dancehall and Classical artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Álvaro Obregón 291, Mexico City on Fri, 16 Oct 2026.
+Tonga Conga is a Dancehall and Classical artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Álvaro Obregón 291, Mexico City on Fri, 16 Oct 2026.
 
 Tonga Conga is a dancehall and classical artist based in Mexico, with 19 gigs on soundcheck across Mexico City. Often billed alongside AB, Alacrán del Amor and Irena Stanisic. Next up: TBA - Álvaro Obregón 291, Mexico City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Tonga Conga is a dancehall and classical artist based in Mexico, with 19 gigs on
 
 AB, Alacrán del Amor, Irena Stanisic
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tongaconga/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tongaconga/)*

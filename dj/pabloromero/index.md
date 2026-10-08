@@ -1,14 +1,13 @@
 # Pablo Romero
 
-Pablo Romero is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Outer Heaven, New York City on Wed, 7 Oct 2026.
+Pablo Romero is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Pablo Romero is a house and techno artist based in United States of America, with 135 gigs on soundcheck across Amsterdam, Boston, Colombia and Frankfurt and 8 more. Often billed alongside Daniel Dutts, Jean-Paul and mink. Next up: Outer Heaven, New York City on Wed 7 Oct.
+Pablo Romero is a house and techno artist based in United States of America, with 135 gigs on soundcheck across Amsterdam, Boston, Colombia and Frankfurt and 8 more. Often billed alongside Daniel Dutts, Jean-Paul and mink. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 7 Oct 2026 | Outer Heaven | New York City |
 | Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Fri, 16 Oct 2026 | Le Bain | New York City |
 | Tue, 27 Oct 2026 | TBA - Archivio Records, 55 MEADOW STREET, BK | New York City |
@@ -16,6 +15,7 @@ Pablo Romero is a house and techno artist based in United States of America, wit
 
 ## Recently played
 
+- Outer Heaven, New York City · Wed, 7 Oct 2026
 - Outer Heaven, New York City · Thu, 1 Oct 2026
 - Bossa Nova Civic Club, New York City · Mon, 21 Sept 2026
 - MAD Radio NYC, New York City · Fri, 18 Sept 2026
@@ -23,10 +23,9 @@ Pablo Romero is a house and techno artist based in United States of America, wit
 - Outer Heaven, New York City · Wed, 9 Sept 2026
 - Roof Terrace BK, New York City · Fri, 4 Sept 2026
 - Roof Terrace BK, New York City · Fri, 4 Sept 2026
-- Signal, New York City · Thu, 3 Sept 2026
 
 ## Shares bills with
 
 Daniel Dutts, Jean-Paul, mink
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloromero/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloromero/)*

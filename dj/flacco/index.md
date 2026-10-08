@@ -1,6 +1,6 @@
 # FLACCO
 
-FLACCO is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Artheater, Cologne on Fri, 9 Oct 2026.
+FLACCO is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Artheater, Cologne on Fri, 9 Oct 2026.
 
 FLACCO is a techno and trance artist based in Germany, with 7 gigs on soundcheck across Berlin, Cologne and Munster. Often billed alongside SERA, mae.ly and ANNĒ. Next up: Artheater, Cologne on Fri 9 Oct.
 
@@ -23,4 +23,4 @@ FLACCO is a techno and trance artist based in Germany, with 7 gigs on soundcheck
 
 SERA (2), mae.ly, ANNĒ
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flacco/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flacco/)*

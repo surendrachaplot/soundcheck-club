@@ -1,14 +1,15 @@
 # Mitch de Klein
 
-Mitch de Klein is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Oliva, Amsterdam on Thu, 22 Oct 2026.
+Mitch de Klein is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Oliva, Amsterdam on Thu, 22 Oct 2026.
 
-Mitch de Klein is a techno and house artist based in Netherlands, with 35 gigs on soundcheck across Amsterdam, Istanbul, Rotterdam and Utrecht. Often billed alongside Hollt, Olivier Weiter and Benny Rodrigues. Next up: Oliva, Amsterdam on Thu 22 Oct.
+Mitch de Klein is a techno and house artist based in Netherlands, with 36 gigs on soundcheck across Amsterdam, Istanbul, Netherlands and Rotterdam and 1 more. Often billed alongside Hollt, Huminal and Olivier Weiter. Next up: Oliva, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Oliva | Amsterdam |
+| Fri, 23 Oct 2026 | Oceandiva Original | Netherlands |
 | Sun, 25 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 
 ## Recently played
@@ -24,6 +25,6 @@ Mitch de Klein is a techno and house artist based in Netherlands, with 35 gigs o
 
 ## Shares bills with
 
-Hollt, Olivier Weiter, Benny Rodrigues
+Hollt, Huminal, Olivier Weiter
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchdeklein/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchdeklein/)*

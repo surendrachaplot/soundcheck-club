@@ -1,6 +1,6 @@
 # HALLOWEEN RAVE 2026 at Wagenhallen
 
-HALLOWEEN RAVE 2026 at Wagenhallen on Sat 31 Oct, Stuttgart. 5 artists: Ave (DE), Charleen Herzig, DonChoppa and Kø:lab and 1 more. Trance and Techno. See the line-up on soundcheck.
+HALLOWEEN RAVE 2026 at Wagenhallen on Sat 31 Oct, Stuttgart. 6 artists: Ave (DE), Charleen Herzig, DonChoppa and Kø:lab and 2 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,5 +15,6 @@ HALLOWEEN RAVE 2026 at Wagenhallen on Sat 31 Oct, Stuttgart. 5 artists: Ave (DE)
 - DonChoppa
 - Kø:lab
 - NYRA (DE)
+- POLTERGST
 
 *Source: [soundcheck](https://soundcheck.club/e/2507739-halloween-rave-2026-at-wagenhallen/)*

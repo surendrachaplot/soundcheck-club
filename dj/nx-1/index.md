@@ -1,6 +1,6 @@
 # NX (1)
 
-NX (1) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Mtkvarze, Tbilisi on Sat, 10 Oct 2026.
+NX (1) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Mtkvarze, Tbilisi on Sat, 10 Oct 2026.
 
 NX is a techno and acid artist, with 15 gigs on soundcheck across Berlin, Ghent, Prague and Tbilisi and 1 more. Often billed alongside Bekuchi, Nicole. and Plastik. Next up: Mtkvarze, Tbilisi on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ NX is a techno and acid artist, with 15 gigs on soundcheck across Berlin, Ghent,
 
 Bekuchi, Nicole., Plastik (1)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nx-1/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nx-1/)*

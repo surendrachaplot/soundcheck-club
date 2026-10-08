@@ -1,6 +1,6 @@
 # Japan Monterrey
 
-Japan Monterrey is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "KØNTROL — JAPAN W/ Sofy Suars" on Sat, 10 Oct 2026.
+Japan Monterrey is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "KØNTROL — JAPAN W/ Sofy Suars" on Sat, 10 Oct 2026.
 
 Japan Monterrey is a music venue in Mexico City listed on soundcheck. 2 upcoming gigs, with line-ups including Diabla, DJ Pendejo, Don Esquivel and Enya Botello and 2 more. See dates, start times and who's playing. Av. Monterrey #56, Roma Norte, 06700, Mexico City, Mexico.
 
@@ -15,4 +15,4 @@ Japan Monterrey is a music venue in Mexico City listed on soundcheck. 2 upcoming
 
 Av. Monterrey #56, Roma Norte, 06700, Mexico City, Mexico, Mexico City
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/japan-monterrey/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/japan-monterrey/)*

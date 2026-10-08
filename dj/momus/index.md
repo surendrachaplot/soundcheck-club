@@ -1,6 +1,6 @@
 # Momus
 
-Momus is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Barracuda Beach Club, Lisbon on Sat, 10 Oct 2026.
+Momus is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Barracuda Beach Club, Lisbon on Sat, 10 Oct 2026.
 
 Momus is a house and acid artist based in France, with 13 gigs on soundcheck across Lisbon, New York City and Paris. Often billed alongside Rogue Fire, ADREE and Aline Umber. Next up: Barracuda Beach Club, Lisbon on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Momus is a house and acid artist based in France, with 13 gigs on soundcheck acr
 
 Rogue Fire, ADREE, Aline Umber
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/momus/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/momus/)*

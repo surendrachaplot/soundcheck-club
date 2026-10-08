@@ -1,6 +1,6 @@
 # Kade Young
 
-Kade Young is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Club 1722 Afterhours, Baltimore on Sat, 10 Oct 2026.
+Kade Young is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Club 1722 Afterhours, Baltimore on Sat, 10 Oct 2026.
 
 Kade Young is a house and club artist based in United States of America, with 31 gigs on soundcheck across Baltimore, Glasgow, London and New York City and 3 more. Often billed alongside CalvoMusic, Tromac and Franxx. Next up: Club 1722 Afterhours, Baltimore on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Kade Young is a house and club artist based in United States of America, with 31
 
 CalvoMusic, Tromac, Franxx
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kadeyoung/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kadeyoung/)*

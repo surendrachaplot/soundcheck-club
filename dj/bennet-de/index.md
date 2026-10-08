@@ -1,8 +1,8 @@
 # Bennet (DE)
 
-Bennet (DE) is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 9 Oct 2026.
+Bennet (DE) is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 9 Oct 2026.
 
-Bennet (DE) is a house and techno artist based in Germany, with 76 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside dj sweet6teen, Bambounou and Byron Yeates. Next up: Shelter Amsterdam, Amsterdam on Fri 9 Oct.
+Bennet (DE) is a house and techno artist based in Germany, with 77 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside dj sweet6teen, Bambounou and Byron Yeates. Next up: Shelter Amsterdam, Amsterdam on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Bennet (DE) is a house and techno artist based in Germany, with 76 gigs on sound
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
 | Sun, 25 Oct 2026 | Radio Radio | Amsterdam |
 | Sat, 31 Oct 2026 | Konvent de Cal Rosal | Barcelona |
+| Sat, 21 Nov 2026 | public records | New York City |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Bennet (DE) is a house and techno artist based in Germany, with 76 gigs on sound
 
 dj sweet6teen, Bambounou, Byron Yeates
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennet-de/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennet-de/)*

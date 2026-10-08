@@ -1,6 +1,6 @@
 # INSIDE 86 at DETROIT CLUB BCN at DETROIT CLUB
 
-INSIDE 86 at DETROIT CLUB BCN on Fri 9 Oct, Barcelona. 2 artists: Eli Ercolani and Guille Gironde. House and Garage. See the line-up on soundcheck.
+INSIDE 86 at DETROIT CLUB BCN on Fri 9 Oct, Barcelona. 2 artists: Eli Ercolani and Guille Gironde. Techno and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

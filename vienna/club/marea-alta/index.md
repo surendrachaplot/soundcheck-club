@@ -1,6 +1,6 @@
 # Marea Alta
 
-Marea Alta is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "DJ EcleKtric" on Fri, 1 Jan 2027.
+Marea Alta is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "DJ EcleKtric" on Fri, 1 Jan 2027.
 
 Marea Alta is a music venue in Vienna listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Gumpendorferstraße 28, 1060 Wien.
 
@@ -15,4 +15,4 @@ Marea Alta is a music venue in Vienna listed on soundcheck. 2 upcoming gigs. See
 
 Gumpendorferstraße 28, 1060 Wien, Vienna
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/marea-alta/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/marea-alta/)*

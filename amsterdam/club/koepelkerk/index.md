@@ -1,6 +1,6 @@
 # Koepelkerk
 
-Koepelkerk is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "Korolova PRESENT CAPTIVE SOUL - AMSTERDAM (NL)" on Sun, 25 Oct 2026.
+Koepelkerk is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "Korolova PRESENT CAPTIVE SOUL - AMSTERDAM (NL)" on Sun, 25 Oct 2026.
 
 Koepelkerk is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Asal, Carl Bee, Glowal and Greenjack and 2 more. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Koepelkerk is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, w
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Korolova PRESENT CAPTIVE SOUL - AMSTERDAM (NL) | Asal, Carl Bee, Glowal, Greenjack, Korolova, MAGNUS (UK) |
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/koepelkerk/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/koepelkerk/)*

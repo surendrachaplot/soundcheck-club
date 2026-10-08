@@ -1,6 +1,6 @@
 # Ruigoord
 
-Ruigoord is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "KALEIDO presents: KIKI Collective" on Sat, 10 Oct 2026.
+Ruigoord is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "KALEIDO presents: KIKI Collective" on Sat, 10 Oct 2026.
 
 Ruigoord is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Molly Cules and Shady Lady. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Ruigoord is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, wit
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | KALEIDO presents: KIKI Collective | Molly Cules, Shady Lady |
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ruigoord/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ruigoord/)*

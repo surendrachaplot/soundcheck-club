@@ -1,6 +1,6 @@
 # Scott Garcia
 
-Scott Garcia is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Planet Wax, London on Sat, 17 Oct 2026.
+Scott Garcia is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Planet Wax, London on Sat, 17 Oct 2026.
 
 Scott Garcia is a garage and house artist based in United Kingdom, with 24 gigs on soundcheck across Amsterdam, London and South East. Often billed alongside Matt Jam Lamont, MC Creed and MC CKP. Next up: Planet Wax, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Scott Garcia is a garage and house artist based in United Kingdom, with 24 gigs 
 
 Matt Jam Lamont, MC Creed, MC CKP
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scottgarcia/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scottgarcia/)*

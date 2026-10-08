@@ -1,6 +1,6 @@
 # KÜRÜF
 
-KÜRÜF is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Aedes Bar, Berlin on Fri, 9 Oct 2026.
+KÜRÜF is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Aedes Bar, Berlin on Fri, 9 Oct 2026.
 
 KÜRÜF is a techno and house artist based in Germany, with 13 gigs on soundcheck across Berlin. Often billed alongside Domovnika, Emilion Dollar Baby and Kalimanda. Next up: Aedes Bar, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ KÜRÜF is a techno and house artist based in Germany, with 13 gigs on soundchec
 
 Domovnika, Emilion Dollar Baby, Kalimanda
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuruf/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuruf/)*

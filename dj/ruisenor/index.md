@@ -1,6 +1,6 @@
 # Ruiseñor
 
-Ruiseñor is a Club and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, Mexico City on Sat, 10 Oct 2026.
+Ruiseñor is a Club and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA, Mexico City on Sat, 10 Oct 2026.
 
 Ruiseñor is a club and latin bass artist based in Mexico, with 64 gigs on soundcheck across Barcelona, Berlin, Lisbon and London and 5 more. Often billed alongside Dj Babatr, Benfika and Dj Rankng. Next up: TBA, Mexico City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Ruiseñor is a club and latin bass artist based in Mexico, with 64 gigs on sound
 
 Dj Babatr, Benfika, Dj Rankng
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruisenor/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruisenor/)*

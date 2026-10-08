@@ -1,6 +1,6 @@
 # D-Leria
 
-D-Leria is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at FOLD, London on Sat, 10 Oct 2026.
+D-Leria is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at FOLD, London on Sat, 10 Oct 2026.
 
 D-Leria is a techno and house artist based in Italy, with 110 gigs on soundcheck across Amsterdam, Athens, Bali and Basel and 34 more. Often billed alongside Functional Disorder, Key Clef and Rorschack. Next up: FOLD, London on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ D-Leria is a techno and house artist based in Italy, with 110 gigs on soundcheck
 
 Functional Disorder, Key Clef, Rorschack
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d-leria/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d-leria/)*

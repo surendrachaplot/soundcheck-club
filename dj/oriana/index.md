@@ -1,6 +1,6 @@
 # Oriana
 
-Oriana is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at EXIT Glasgow, Glasgow on Sat, 10 Oct 2026.
+Oriana is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at EXIT Glasgow, Glasgow on Sat, 10 Oct 2026.
 
 Oriana is a techno and electro artist based in Uruguay, with 109 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 23 more. Often billed alongside OMAR (UY), Ed Warner and Niff. Next up: EXIT Glasgow, Glasgow on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Oriana is a techno and electro artist based in Uruguay, with 109 gigs on soundch
 
 OMAR (UY), Ed Warner, Niff
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oriana/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oriana/)*

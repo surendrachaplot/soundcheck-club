@@ -1,6 +1,6 @@
 # Dylan Payne
 
-Dylan Payne is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Epiphany Center for the Arts, Chicago on Sat, 17 Oct 2026.
+Dylan Payne is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Epiphany Center for the Arts, Chicago on Sat, 17 Oct 2026.
 
 Dylan Payne is a house and techno artist based in United States of America, with 83 gigs on soundcheck across Austin, Barcelona, Berlin and Boston and 11 more. Often billed alongside Highkin', Krane and Tomas Station. Next up: Epiphany Center for the Arts, Chicago on Sat 17 Oct.
 
@@ -31,4 +31,4 @@ Dylan Payne is a house and techno artist based in United States of America, with
 
 Highkin', Krane, Tomas Station
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanpayne/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanpayne/)*

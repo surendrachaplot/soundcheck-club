@@ -1,6 +1,6 @@
 # Kings of the Rollers
 
-Kings of the Rollers is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at UNLOCKED, London on Thu, 8 Oct 2026.
+Kings of the Rollers is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at UNLOCKED, London on Thu, 8 Oct 2026.
 
 Kings of the Rollers is a drum & bass and jungle artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Auckland, Brighton and Bristol and 10 more. Often billed alongside Inja, Hedex and Bou (UK). Next up: UNLOCKED, London on Thu 8 Oct.
 
@@ -28,4 +28,4 @@ Kings of the Rollers is a drum & bass and jungle artist based in United Kingdom,
 
 Inja, Hedex, Bou (UK)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsoftherollers/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsoftherollers/)*

@@ -1,6 +1,6 @@
 # Neck of the Woods
 
-Neck of the Woods is a music venue in Auckland with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "SECT: Hang the Saints" on Fri, 9 Oct 2026.
+Neck of the Woods is a music venue in Auckland with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "SECT: Hang the Saints" on Fri, 9 Oct 2026.
 
 Neck of the Woods is a music venue in Auckland listed on soundcheck. 5 upcoming gigs, with line-ups including musa, The Rat and Xywav. See dates, start times and who's playing. 155 Karangahape Road, Auckland 1010, New Zealand.
 
@@ -18,4 +18,4 @@ Neck of the Woods is a music venue in Auckland listed on soundcheck. 5 upcoming 
 
 155 Karangahape Road, Auckland 1010, New Zealand, Auckland
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/neck-of-the-woods/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/neck-of-the-woods/)*

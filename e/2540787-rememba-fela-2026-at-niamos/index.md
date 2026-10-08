@@ -1,6 +1,6 @@
 # Rememba Fela 2026 at Niamos
 
-Rememba Fela 2026 at Niamos on Sat 10 Oct, Manchester. Jazz and Afrobeat. See the line-up on soundcheck.
+Rememba Fela 2026 at Niamos on Sat 10 Oct, Manchester. Afrobeat and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Franky Wah
 
-Franky Wah is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Chinois Ibiza, Ibiza on Sun, 11 Oct 2026.
+Franky Wah is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Chinois Ibiza, Ibiza on Sun, 11 Oct 2026.
 
-Franky Wah is a techno and house artist based in United Kingdom, with 130 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 32 more. Often billed alongside Sasha, Artche and Korolova. Next up: Chinois Ibiza, Ibiza on Sun 11 Oct.
+Franky Wah is a techno and house artist based in United Kingdom, with 131 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 32 more. Often billed alongside Sasha, Artche and Korolova. Next up: Chinois Ibiza, Ibiza on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Franky Wah is a techno and house artist based in United Kingdom, with 130 gigs o
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | Chinois Ibiza | Ibiza |
 | Sat, 24 Oct 2026 | Savaya Bali | Bali |
+| Wed, 28 Oct 2026 | Zumana Bali | Bali |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Franky Wah is a techno and house artist based in United Kingdom, with 130 gigs o
 
 Sasha, Artche, Korolova
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankywah/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankywah/)*

@@ -1,8 +1,8 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 23 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Faze Action" on Fri, 9 Oct 2026.
+The Fox and Firkin is a music venue in London with 24 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Faze Action" on Fri, 9 Oct 2026.
 
-The Fox and Firkin is a music venue in London listed on soundcheck. 23 upcoming gigs, with line-ups including African Head Charge, blissy e, Charlie Bones and Colleen 'Cosmo' Murphy and 2 more. See dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
+The Fox and Firkin is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including African Head Charge, blissy e, Charlie Bones and Colleen 'Cosmo' Murphy and 2 more. See dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Fox and Firkin is a music venue in London listed on soundcheck. 23 upcoming 
 
 316 Lewisham High Street London SE136JZ, London
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*

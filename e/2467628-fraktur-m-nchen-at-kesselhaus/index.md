@@ -1,6 +1,6 @@
 # Fraktur München at Kesselhaus
 
-Fraktur München at Kesselhaus on Fri 30 Oct, Munich. 2 artists: Alfred Heinrichs and Mark Dekoda. Techno. See the line-up on soundcheck.
+Fraktur München at Kesselhaus on Fri 30 Oct, Munich. 3 artists: Alfred Heinrichs, Mark Dekoda and POLTERGST. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Fraktur München at Kesselhaus on Fri 30 Oct, Munich. 2 artists: Alfred Heinrich
 
 - Alfred Heinrichs
 - Mark Dekoda
+- POLTERGST
 
 *Source: [soundcheck](https://soundcheck.club/e/2467628-fraktur-m-nchen-at-kesselhaus/)*

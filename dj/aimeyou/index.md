@@ -1,14 +1,15 @@
 # Aimé You
 
-Aimé You is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Fitzroy, Berlin on Fri, 16 Oct 2026.
+Aimé You is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Fitzroy, Berlin on Fri, 16 Oct 2026.
 
-Aimé You is a house and techno artist based in France, with 62 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Munich. Often billed alongside _____.neo, Nikklaas and Daisy Weweh. Next up: Fitzroy, Berlin on Fri 16 Oct.
+Aimé You is a house and techno artist based in France, with 63 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Munich. Often billed alongside _____.neo, Nikklaas and Daisy Weweh. Next up: Fitzroy, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Fitzroy | Berlin |
+| Sat, 17 Oct 2026 | frachtkante | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Aimé You is a house and techno artist based in France, with 62 gigs on soundche
 
 _____.neo, Nikklaas, Daisy Weweh
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aimeyou/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aimeyou/)*

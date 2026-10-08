@@ -1,6 +1,6 @@
 # Fidelity Studio
 
-Fidelity Studio is a music venue in Dublin with 11 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "New Tropicalistas" on Fri, 9 Oct 2026.
+Fidelity Studio is a music venue in Dublin with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "New Tropicalistas" on Fri, 9 Oct 2026.
 
 Fidelity Studio is a music venue in Dublin listed on soundcheck. 11 upcoming gigs, with line-ups including Basic Channel, Bridge (NY), Call Super and Dr Banana and 2 more. See dates, start times and who's playing. 79 Queen Street, Smithfield, Dublin 7, D07 DW3R.
 
@@ -23,4 +23,4 @@ Fidelity Studio is a music venue in Dublin listed on soundcheck. 11 upcoming gig
 
 79 Queen Street, Smithfield, Dublin 7, D07 DW3R, Dublin
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*

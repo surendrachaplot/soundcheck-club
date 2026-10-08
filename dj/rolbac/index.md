@@ -1,6 +1,6 @@
 # Rolbac
 
-Rolbac is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sun, 25 Oct 2026.
+Rolbac is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sun, 25 Oct 2026.
 
 Rolbac is a house and techno artist based in Lebanon, with 11 gigs on soundcheck across Amsterdam, Bali, Ibiza and Istanbul and 3 more. Often billed alongside Jade, Marino Canal and Rafael Cerato. Next up: 50:Hertz Club Train, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Rolbac is a house and techno artist based in Lebanon, with 11 gigs on soundcheck
 
 Jade, Marino Canal, Rafael Cerato
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rolbac/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rolbac/)*

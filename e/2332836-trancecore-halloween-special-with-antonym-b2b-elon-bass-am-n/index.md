@@ -1,6 +1,6 @@
-# Trancecore Halloween Special with Antonym b2b Elon Bass, Amøn b2b DICE and DVAID at Lokschuppen Berlin
+# Trancecore Halloween Special with Antonym b2b Elon Bass, Amøn b2b DICE feat. Fronsi and DVAID at Lokschuppen Berlin
 
-Trancecore Halloween Special with Antonym b2b Elon Bass, Amøn b2b DICE and DVAID at Lokschuppen Berlin on Fri 30 Oct, Berlin. 12 artists: ADEMES, Amøn, Antonym and Athina and 8 more. Trance and Techno. See the line-up on soundcheck.
+Trancecore Halloween Special with Antonym b2b Elon Bass, Amøn b2b DICE feat. Fronsi and DVAID at Lokschuppen Berlin on Fri 30 Oct, Berlin. 13 artists: ADEMES, Amøn, Antonym and Athina and 9 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -20,6 +20,7 @@ Trancecore Halloween Special with Antonym b2b Elon Bass, Amøn b2b DICE and DVAI
 - DVAID
 - Elon Bass
 - FEROTONINO
+- Fronsi
 - Knallplatten
 - nordcorreia.mp3
 

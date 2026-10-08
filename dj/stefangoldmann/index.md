@@ -1,6 +1,6 @@
 # Stefan Goldmann
 
-Stefan Goldmann is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Solfa, Tokyo on Fri, 9 Oct 2026.
+Stefan Goldmann is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Solfa, Tokyo on Fri, 9 Oct 2026.
 
 Stefan Goldmann is a techno and house artist based in Germany, with 52 gigs on soundcheck across Athens, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Ryoma Sasaki, Ouchi-S and Paul Leonard. Next up: Solfa, Tokyo on Fri 9 Oct.
 
@@ -32,4 +32,4 @@ Stefan Goldmann is a techno and house artist based in Germany, with 52 gigs on s
 
 Ryoma Sasaki, Ouchi-S, Paul Leonard
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefangoldmann/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefangoldmann/)*

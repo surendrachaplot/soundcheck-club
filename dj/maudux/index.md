@@ -1,14 +1,13 @@
 # Maudux
 
-Maudux is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Rex Club, Paris on Wed, 7 Oct 2026.
+Maudux is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Warehouse, Nantes on Fri, 9 Oct 2026.
 
-Maudux is a techno and trance artist based in France, with 32 gigs on soundcheck across Amsterdam, Berlin, Finland and Geneva and 6 more. Often billed alongside MATRAKK, Nico Moreno and 1luu. Next up: Rex Club, Paris on Wed 7 Oct.
+Maudux is a techno and trance artist based in France, with 32 gigs on soundcheck across Amsterdam, Berlin, Finland and Geneva and 6 more. Often billed alongside MATRAKK, Nico Moreno and 1luu. Next up: Warehouse, Nantes on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 7 Oct 2026 | Rex Club | Paris |
 | Fri, 9 Oct 2026 | Warehouse | Nantes |
 | Fri, 9 Oct 2026 | OST | Berlin |
 | Sat, 10 Oct 2026 | OST | Berlin |
@@ -20,6 +19,7 @@ Maudux is a techno and trance artist based in France, with 32 gigs on soundcheck
 
 ## Recently played
 
+- Rex Club, Paris · Wed, 7 Oct 2026
 - OST, Berlin · Fri, 4 Sept 2026
 - Forte Antenne, Rome · Sat, 25 Jul 2026
 - La Cité Fertile, Paris · Tue, 14 Jul 2026
@@ -27,10 +27,9 @@ Maudux is a techno and trance artist based in France, with 32 gigs on soundcheck
 - Mia Mao, Paris · Fri, 15 May 2026
 - ÆDEN, Berlin · Sat, 24 Jan 2026
 - Humboldthain Club, Berlin · Fri, 23 Jan 2026
-- Le Sucre, Lyon · Sat, 3 Jan 2026
 
 ## Shares bills with
 
 MATRAKK, Nico Moreno, 1luu
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maudux/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maudux/)*

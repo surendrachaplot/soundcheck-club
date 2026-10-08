@@ -1,6 +1,6 @@
 # IVAN.
 
-IVAN. is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Grelle Forelle, Vienna on Sat, 10 Oct 2026.
+IVAN. is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Grelle Forelle, Vienna on Sat, 10 Oct 2026.
 
 IVAN. is a house and tech house artist based in Austria, with 14 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Paris and 1 more. Often billed alongside AEND, YPSY and DJ Lelo. Next up: Grelle Forelle, Vienna on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ IVAN. is a house and tech house artist based in Austria, with 14 gigs on soundch
 
 AEND, YPSY, DJ Lelo
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivan-au/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivan-au/)*

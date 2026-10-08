@@ -1,6 +1,6 @@
 # AZUCAR
 
-AZUCAR is a Club and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Bar Espina, Tijuana on Sat, 10 Oct 2026.
+AZUCAR is a Club and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Bar Espina, Tijuana on Sat, 10 Oct 2026.
 
 AZUCAR is a club and hardcore artist, with 16 gigs on soundcheck across San Francisco/Oakland and Tijuana. Often billed alongside DJ Saratonin, Miya Lowe and Profesito. Next up: Bar Espina, Tijuana on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ AZUCAR is a club and hardcore artist, with 16 gigs on soundcheck across San Fran
 
 DJ Saratonin, Miya Lowe, Profesito
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azucar/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azucar/)*

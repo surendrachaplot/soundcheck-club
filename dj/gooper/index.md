@@ -1,14 +1,15 @@
 # GooPer
 
-GooPer is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Enter Shibuya, Tokyo on Tue, 13 Oct 2026.
+GooPer is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Enter Shibuya, Tokyo on Tue, 13 Oct 2026.
 
-GooPer is a house and tech house artist based in Japan, with 45 gigs on soundcheck across Tokyo. Often billed alongside Yuta Yamada, Amps and ISPA. Next up: Enter Shibuya, Tokyo on Tue 13 Oct.
+GooPer is a house and tech house artist based in Japan, with 46 gigs on soundcheck across Tokyo. Often billed alongside Yuta Yamada, Amps and ISPA. Next up: Enter Shibuya, Tokyo on Tue 13 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 13 Oct 2026 | Enter Shibuya | Tokyo |
+| Fri, 6 Nov 2026 | Z Maruyama | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ GooPer is a house and tech house artist based in Japan, with 45 gigs on soundche
 
 Yuta Yamada, Amps, ISPA
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gooper/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gooper/)*

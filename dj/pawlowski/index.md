@@ -1,8 +1,8 @@
 # Pawlowski
 
-Pawlowski is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, Vancouver on Fri, 9 Oct 2026.
+Pawlowski is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA, Vancouver on Fri, 9 Oct 2026.
 
-Pawlowski is a techno and trance artist based in France, with 120 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 49 more. Often billed alongside Nico Moreno, Azyr and LESSSS. Next up: TBA, Vancouver on Fri 9 Oct.
+Pawlowski is a techno and trance artist based in France, with 121 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 49 more. Often billed alongside Nico Moreno, Azyr and LESSSS. Next up: TBA, Vancouver on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Pawlowski is a techno and trance artist based in France, with 120 gigs on soundc
 | Fri, 9 Oct 2026 | TBA | Vancouver |
 | Sat, 10 Oct 2026 | Halcyon | San Francisco/Oakland |
 | Fri, 23 Oct 2026 | D! Club | Lausanne |
+| Thu, 29 Oct 2026 | The Bassement | Madrid |
 | Sat, 5 Dec 2026 | Flanders Expo Centre | Ghent |
 
 ## Recently played
@@ -28,4 +29,4 @@ Pawlowski is a techno and trance artist based in France, with 120 gigs on soundc
 
 Nico Moreno, Azyr, LESSSS
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski/)*

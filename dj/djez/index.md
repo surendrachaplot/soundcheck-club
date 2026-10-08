@@ -1,6 +1,6 @@
 # DJ EZ
 
-DJ EZ is a Garage and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
+DJ EZ is a Garage and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
 
 DJ EZ is a garage and house artist based in United Kingdom, with 109 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bangkok and 31 more. Often billed alongside Danny Howard, Sonny Fodera and Benny Rodrigues. Next up: The Prospect Building, Bristol on Sat 10 Oct.
 
@@ -35,4 +35,4 @@ DJ EZ is a garage and house artist based in United Kingdom, with 109 gigs on sou
 
 Danny Howard, Sonny Fodera, Benny Rodrigues
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djez/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djez/)*

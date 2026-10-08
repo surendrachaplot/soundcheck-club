@@ -1,6 +1,6 @@
 # Mazzoni
 
-Mazzoni is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Stage and Radio, Manchester on Sat, 21 Nov 2026.
+Mazzoni is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Stage and Radio, Manchester on Sat, 21 Nov 2026.
 
 Mazzoni is a house and electro artist based in Brazil, with 9 gigs on soundcheck across Liverpool, Manchester and Sao Paulo. Often billed alongside 4D (UK), Daneal and ___Pina. Next up: Stage and Radio, Manchester on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Mazzoni is a house and electro artist based in Brazil, with 9 gigs on soundcheck
 
 4D (UK), Daneal, ___Pina
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazzoni/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazzoni/)*

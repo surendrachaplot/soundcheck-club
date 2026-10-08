@@ -1,6 +1,6 @@
 # Perry's Bar Shibuya
 
-Perry's Bar Shibuya is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "Tokyo Bollywood Night - By Best Evento App" on Sat, 10 Oct 2026.
+Perry's Bar Shibuya is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "Tokyo Bollywood Night - By Best Evento App" on Sat, 10 Oct 2026.
 
 Perry's Bar Shibuya is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Perry's Bar Shibuya is a music venue in Tokyo listed on soundcheck. 1 upcoming g
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Tokyo Bollywood Night - By Best Evento App |  |
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/perry-s-bar-shibuya/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/perry-s-bar-shibuya/)*

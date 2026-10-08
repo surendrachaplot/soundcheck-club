@@ -1,6 +1,6 @@
 # Tuff Monty
 
-Tuff Monty is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Legal, Munich on Fri, 9 Oct 2026.
+Tuff Monty is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Legal, Munich on Fri, 9 Oct 2026.
 
 Tuff Monty is a tech house and house artist based in Germany, with 17 gigs on soundcheck across Munich. Often billed alongside Olli Rubber, Almedina and Alles Andere. Next up: Legal, Munich on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Tuff Monty is a tech house and house artist based in Germany, with 17 gigs on so
 
 Olli Rubber, Almedina (2), Alles Andere
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tuffmonty/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tuffmonty/)*

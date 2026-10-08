@@ -1,6 +1,6 @@
 # Hybrid Minds
 
-Hybrid Minds is a Drum & Bass and Garage artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Hybrid Minds is a Drum & Bass and Garage artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
 Hybrid Minds is a drum & bass and garage artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Auckland, Austin and Birmingham and 36 more. Often billed alongside Tempza, K Motionz and Andy C. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ Hybrid Minds is a drum & bass and garage artist based in United Kingdom, with 12
 
 Tempza, K Motionz, Andy C
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hybridminds/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hybridminds/)*

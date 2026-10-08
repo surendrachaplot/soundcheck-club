@@ -1,8 +1,8 @@
 # Hyperaktivist
 
-Hyperaktivist is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at RADION, Amsterdam on Sat, 10 Oct 2026.
+Hyperaktivist is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at RADION, Amsterdam on Sat, 10 Oct 2026.
 
-Hyperaktivist is a techno and house artist based in Germany, with 184 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 49 more. Often billed alongside DJ TOOL, Yazzus and D.Dan. Next up: RADION, Amsterdam on Sat 10 Oct.
+Hyperaktivist is a techno and house artist based in Germany, with 185 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 49 more. Often billed alongside DJ TOOL, Yazzus and D.Dan. Next up: RADION, Amsterdam on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Hyperaktivist is a techno and house artist based in Germany, with 184 gigs on so
 | Sat, 10 Oct 2026 | RADION | Amsterdam |
 | Fri, 16 Oct 2026 | Ankali & Planeta Za | Prague |
 | Sat, 17 Oct 2026 | C12 | Brussels |
+| Fri, 20 Nov 2026 | RSO.BERLIN | Berlin |
 | Fri, 27 Nov 2026 | CLUB RAUM | Amsterdam |
 | Thu, 31 Dec 2026 | OST | Berlin |
 
@@ -29,4 +30,4 @@ Hyperaktivist is a techno and house artist based in Germany, with 184 gigs on so
 
 DJ TOOL, Yazzus, D.Dan
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperaktivist/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperaktivist/)*

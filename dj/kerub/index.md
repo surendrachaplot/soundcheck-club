@@ -1,8 +1,8 @@
 # KERUB
 
-KERUB is a House and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Jama, Toronto on Sat, 17 Oct 2026.
+KERUB is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Jama, Toronto on Sat, 17 Oct 2026.
 
-KERUB is a house and experimental artist based in Canada, with 19 gigs on soundcheck across Toronto and Vancouver. Often billed alongside moodyjooly, Hycastle and DJ RATA. Next up: The Jama, Toronto on Sat 17 Oct.
+KERUB is a house and techno artist based in Canada, with 19 gigs on soundcheck across Toronto and Vancouver. Often billed alongside moodyjooly, Hycastle and DJ RATA. Next up: The Jama, Toronto on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ KERUB is a house and experimental artist based in Canada, with 19 gigs on soundc
 
 moodyjooly, Hycastle, DJ RATA
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kerub/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kerub/)*

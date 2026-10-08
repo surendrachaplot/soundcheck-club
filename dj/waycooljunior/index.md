@@ -1,6 +1,6 @@
 # Waycool Junior
 
-Waycool Junior is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at The Barbary, Philadelphia on Fri, 9 Oct 2026.
+Waycool Junior is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at The Barbary, Philadelphia on Fri, 9 Oct 2026.
 
 Waycool Junior is a house and techno artist, with 19 gigs on soundcheck across Philadelphia. Often billed alongside Anne Fahn, TPATT and tj groover. Next up: The Barbary, Philadelphia on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Waycool Junior is a house and techno artist, with 19 gigs on soundcheck across P
 
 Anne Fahn, TPATT, tj groover
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waycooljunior/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waycooljunior/)*

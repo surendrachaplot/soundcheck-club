@@ -1,6 +1,6 @@
 # Sala Apolo
 
-Sala Apolo is a music venue in Barcelona with 19 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Milkshake" on Thu, 8 Oct 2026.
+Sala Apolo is a music venue in Barcelona with 19 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Milkshake" on Thu, 8 Oct 2026.
 
 Sala Apolo is a music venue in Barcelona listed on soundcheck. 19 upcoming gigs, with line-ups including Charlins, Chiara B, Digitalism and DJ Tortuga and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 111; 08004 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Sala Apolo is a music venue in Barcelona listed on soundcheck. 19 upcoming gigs,
 
 Carrer Nou de la Rambla, 111; 08004 Barcelona; Spain, Barcelona
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-apolo/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-apolo/)*

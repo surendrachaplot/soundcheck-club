@@ -1,6 +1,6 @@
 # Pracht
 
-Pracht is a music venue in Frankfurt with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "THURSDAY - SINGLES LOVE TECHNO at Pracht with DJ LUNIS" on Thu, 8 Oct 2026.
+Pracht is a music venue in Frankfurt with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "THURSDAY - SINGLES LOVE TECHNO at Pracht with DJ LUNIS" on Thu, 8 Oct 2026.
 
 Pracht is a music venue in Frankfurt listed on soundcheck. 9 upcoming gigs, with line-ups including Andrale, Andrea Castells, Benja Asima and Claudius (DE) and 2 more. See dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
 
@@ -22,4 +22,4 @@ Pracht is a music venue in Frankfurt listed on soundcheck. 9 upcoming gigs, with
 
 Niddastr. 54, 60327 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*

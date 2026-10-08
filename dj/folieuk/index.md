@@ -1,6 +1,6 @@
 # FOLIE (UK)
 
-FOLIE (UK) is a Drum & Bass and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Bongo Club, Edinburgh on Thu, 8 Oct 2026.
+FOLIE (UK) is a Drum & Bass and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Bongo Club, Edinburgh on Thu, 8 Oct 2026.
 
 FOLIE (UK) is a drum & bass and hardcore artist based in United Kingdom, with 18 gigs on soundcheck across Edinburgh. Often billed alongside Rodent, Brynk and amhailt.xox. Next up: The Bongo Club, Edinburgh on Thu 8 Oct.
 
@@ -27,4 +27,4 @@ FOLIE (UK) is a drum & bass and hardcore artist based in United Kingdom, with 18
 
 Rodent, Brynk, amhailt.xox
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/folieuk/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/folieuk/)*

@@ -1,6 +1,6 @@
 # Dennis Cruz
 
-Dennis Cruz is a Tech House and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Odiseja BTC Ljubljana, Ljubljana on Fri, 9 Oct 2026.
+Dennis Cruz is a Tech House and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Odiseja BTC Ljubljana, Ljubljana on Fri, 9 Oct 2026.
 
 Dennis Cruz is a tech house and house artist based in Spain, with 189 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 45 more. Often billed alongside PAWSA, Marco Carola and ANOTR. Next up: Odiseja BTC Ljubljana, Ljubljana on Fri 9 Oct.
 
@@ -35,4 +35,4 @@ Dennis Cruz is a tech house and house artist based in Spain, with 189 gigs on so
 
 PAWSA, Marco Carola, ANOTR
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*

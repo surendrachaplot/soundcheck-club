@@ -1,6 +1,6 @@
 # TWO EX
 
-TWO EX is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Cadavra, Madrid on Sat, 24 Oct 2026.
+TWO EX is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Cadavra, Madrid on Sat, 24 Oct 2026.
 
 TWO EX is an electronica and house artist based in Spain, with 66 gigs on soundcheck across Berlin, Brussels, Madrid and Tokyo. Often billed alongside frankydrama, Eder Croket and Yahaira. Next up: Cadavra, Madrid on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ TWO EX is an electronica and house artist based in Spain, with 66 gigs on soundc
 
 frankydrama, Eder Croket, Yahaira
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twoex/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twoex/)*

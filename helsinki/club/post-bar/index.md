@@ -1,6 +1,6 @@
 # Post Bar
 
-Post Bar is a music venue in Helsinki with 12 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "RADC Momentum — Kyra Khaldi, Kyle Bower, saffet b2b Freakycent" on Fri, 9 Oct 2026.
+Post Bar is a music venue in Helsinki with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "RADC Momentum — Kyra Khaldi, Kyle Bower, saffet b2b Freakycent" on Fri, 9 Oct 2026.
 
 Post Bar is a music venue in Helsinki listed on soundcheck. 12 upcoming gigs, with line-ups including 2THEMAX, Denzel, DJ Aleksi and Freakycent and 2 more. See dates, start times and who's playing. Kaikukatu 2.
 
@@ -23,4 +23,4 @@ Post Bar is a music venue in Helsinki listed on soundcheck. 12 upcoming gigs, wi
 
 Kaikukatu 2, Helsinki
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/post-bar/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/post-bar/)*

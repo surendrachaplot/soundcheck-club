@@ -1,19 +1,19 @@
 # kaolinite
 
-kaolinite is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Forestlimit, Tokyo on Wed, 7 Oct 2026.
+kaolinite is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Forestlimit, Tokyo on Thu, 8 Oct 2026.
 
-kaolinite is a house and techno artist based in Japan, with 64 gigs on soundcheck across London and Tokyo. Often billed alongside KOTSU, lostbaggage and Aoi Kurihara. Next up: Forestlimit, Tokyo on Wed 7 Oct.
+kaolinite is a house and techno artist based in Japan, with 64 gigs on soundcheck across London and Tokyo. Often billed alongside KOTSU, lostbaggage and Aoi Kurihara. Next up: Forestlimit, Tokyo on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 7 Oct 2026 | Forestlimit | Tokyo |
 | Thu, 8 Oct 2026 | Forestlimit | Tokyo |
 | Sun, 11 Oct 2026 | Mitsuki | Tokyo |
 
 ## Recently played
 
+- Forestlimit, Tokyo · Wed, 7 Oct 2026
 - Nagare Bankside, London · Tue, 5 May 2026
 - Netil Market, London · Sun, 30 Nov 2025
 - Nico's Bar at Hackney Bridge, London · Sat, 1 Nov 2025
@@ -21,10 +21,9 @@ kaolinite is a house and techno artist based in Japan, with 64 gigs on soundchec
 - Enter Shibuya, Tokyo · Sat, 19 Jul 2025
 - Bonobo, Tokyo · Thu, 17 Jul 2025
 - Space, Tokyo · Sun, 13 Jul 2025
-- Azumaya, Tokyo · Sat, 5 Jul 2025
 
 ## Shares bills with
 
 KOTSU, lostbaggage, Aoi Kurihara
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaolinite/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaolinite/)*

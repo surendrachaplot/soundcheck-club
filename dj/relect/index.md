@@ -1,6 +1,6 @@
 # Relect
 
-Relect is a Drum & Bass and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at R Lounge, Tokyo on Sun, 11 Oct 2026.
+Relect is a Drum & Bass and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at R Lounge, Tokyo on Sun, 11 Oct 2026.
 
 Relect is a drum & bass and hardcore artist based in Japan, with 31 gigs on soundcheck across Osaka and Tokyo. Often billed alongside DJ Shimamura, BEPPU and Coretex. Next up: R Lounge, Tokyo on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Relect is a drum & bass and hardcore artist based in Japan, with 31 gigs on soun
 
 DJ Shimamura, BEPPU, Coretex
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/relect/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/relect/)*

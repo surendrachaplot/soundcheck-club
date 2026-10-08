@@ -1,6 +1,6 @@
 # BLNK
 
-BLNK is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Mia Mao, Paris on Sat, 10 Oct 2026.
+BLNK is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Mia Mao, Paris on Sat, 10 Oct 2026.
 
 BLNK is a techno and industrial artist based in Netherlands, with 51 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 19 more. Often billed alongside TiTi, LIEKS and KRUELTY. Next up: Mia Mao, Paris on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ BLNK is a techno and industrial artist based in Netherlands, with 51 gigs on sou
 
 TiTi, LIEKS, KRUELTY
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blnk/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blnk/)*

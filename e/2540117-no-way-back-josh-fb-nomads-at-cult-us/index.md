@@ -1,6 +1,6 @@
 # NO WAY BACK: JOSH FB & Nomads at Cult=us
 
-NO WAY BACK: JOSH FB & Nomads at Cult=us on Fri 6 Nov, Rotterdam. 2 artists: JOSH FB and Nomads. House and Disco. See the line-up on soundcheck.
+NO WAY BACK: JOSH FB & Nomads at Cult=us on Fri 6 Nov, Rotterdam. 2 artists: JOSH FB and Nomads. Disco and Afrobeat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

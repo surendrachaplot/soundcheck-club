@@ -1,6 +1,6 @@
 # FLY x Night Tube - Bellaire at The Liquid Room
 
-FLY x Night Tube - Bellaire at The Liquid Room on Fri 13 Nov, Edinburgh. 1 artist: Bellaire. House and Disco. See the line-up on soundcheck.
+FLY x Night Tube - Bellaire at The Liquid Room on Fri 13 Nov, Edinburgh. 4 artists: Bellaire, Ben Kok, Casi (UK) and Pheebs. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,8 @@ FLY x Night Tube - Bellaire at The Liquid Room on Fri 13 Nov, Edinburgh. 1 artis
 ## Line-up
 
 - Bellaire
+- Ben Kok (2)
+- Casi (UK)
+- Pheebs
 
 *Source: [soundcheck](https://soundcheck.club/e/2471436-fly-x-night-tube-bellaire-at-the-liquid-room/)*

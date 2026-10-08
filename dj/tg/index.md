@@ -1,6 +1,6 @@
 # Tim Green
 
-Tim Green is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Sat, 10 Oct 2026.
+Tim Green is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Sat, 10 Oct 2026.
 
 Tim Green is a house and deep house artist based in United Kingdom, with 107 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 28 more. Often billed alongside Lee Burridge, Sebastien Leger and Roy Rosenfeld. Next up: Kaap Amsterdam, Amsterdam on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Tim Green is a house and deep house artist based in United Kingdom, with 107 gig
 
 Lee Burridge, Sebastien Leger, Roy Rosenfeld
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tg/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tg/)*

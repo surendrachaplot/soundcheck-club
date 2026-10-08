@@ -1,6 +1,6 @@
 # Frinda di Lanco
 
-Frinda di Lanco is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Unkompress, Berlin on Sat, 17 Oct 2026.
+Frinda di Lanco is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Unkompress, Berlin on Sat, 17 Oct 2026.
 
 Frinda di Lanco is a disco and house artist based in Germany, with 64 gigs on soundcheck across Bangkok, Berlin, Copenhagen and Dublin and 11 more. Often billed alongside Hendrik Stein, Sound Metaphors Djs and Rena Volvo. Next up: Unkompress, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Frinda di Lanco is a disco and house artist based in Germany, with 64 gigs on so
 
 Hendrik Stein, Sound Metaphors Djs, Rena Volvo
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frindadilanco/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frindadilanco/)*

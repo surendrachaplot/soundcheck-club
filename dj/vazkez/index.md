@@ -1,6 +1,6 @@
 # vazkez
 
-vazkez is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at MODULE, Copenhagen on Thu, 8 Oct 2026.
+vazkez is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at MODULE, Copenhagen on Thu, 8 Oct 2026.
 
 vazkez is a techno and house artist based in Spain, with 14 gigs on soundcheck across Copenhagen. Often billed alongside avoN, Britney Speed and Entree. Next up: MODULE, Copenhagen on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ vazkez is a techno and house artist based in Spain, with 14 gigs on soundcheck a
 
 avoN, Britney Speed, Entree
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vazkez/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vazkez/)*

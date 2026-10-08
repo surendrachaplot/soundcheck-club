@@ -1,6 +1,6 @@
 # MEZZANOTTE Italo Disco at Fundbureau
 
-MEZZANOTTE Italo Disco at Fundbureau on Fri 23 Oct, Hamburg. 2 artists: Bizzarro Universe and Lisbird. House and Italo Disco. See the line-up on soundcheck.
+MEZZANOTTE Italo Disco at Fundbureau on Fri 23 Oct, Hamburg. 3 artists: Bizzarro Universe, DINKS and Lisbird. House and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ MEZZANOTTE Italo Disco at Fundbureau on Fri 23 Oct, Hamburg. 2 artists: Bizzarro
 ## Line-up
 
 - Bizzarro Universe
+- DINKS
 - Lisbird
 
 *Source: [soundcheck](https://soundcheck.club/e/2545661-mezzanotte-italo-disco-at-fundbureau/)*

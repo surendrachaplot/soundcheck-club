@@ -1,13 +1,14 @@
 # DJ Ink
 
-DJ Ink is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Last Arch, London on Sat, 21 Nov 2026.
+DJ Ink is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Night Tales, London on Sun, 15 Nov 2026.
 
-DJ Ink is a drum & bass and jungle artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam, Brighton, Budapest and London. Often billed alongside Loxy, Cymatix and Universal Project. Next up: Last Arch, London on Sat 21 Nov.
+DJ Ink is a drum & bass and jungle artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Brighton, Budapest and London. Often billed alongside Loxy, Cymatix and Universal Project. Next up: Night Tales, London on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 15 Nov 2026 | Night Tales | London |
 | Sat, 21 Nov 2026 | Last Arch | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ DJ Ink is a drum & bass and jungle artist based in United Kingdom, with 14 gigs 
 
 Loxy, Cymatix, Universal Project
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djink/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djink/)*

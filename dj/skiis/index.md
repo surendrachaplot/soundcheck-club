@@ -1,14 +1,15 @@
 # Skiis
 
-Skiis is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Cow Palace, San Francisco/Oakland on Fri, 16 Oct 2026.
+Skiis is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Cow Palace, San Francisco/Oakland on Fri, 16 Oct 2026.
 
-Skiis is a techno and house artist based in Mexico, with 48 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Clearcast, Vertigo and BAD JUUJU. Next up: Cow Palace, San Francisco/Oakland on Fri 16 Oct.
+Skiis is a techno and house artist based in Mexico, with 49 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Clearcast, Vertigo and BAD JUUJU. Next up: Cow Palace, San Francisco/Oakland on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Cow Palace | San Francisco/Oakland |
+| Thu, 22 Oct 2026 | 1015 Folsom | San Francisco/Oakland |
 | Sat, 31 Oct 2026 | The Foundry | San Francisco/Oakland |
 | Sat, 14 Nov 2026 | Monarch | San Francisco/Oakland |
 
@@ -27,4 +28,4 @@ Skiis is a techno and house artist based in Mexico, with 48 gigs on soundcheck a
 
 Clearcast, Vertigo, BAD JUUJU
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skiis/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skiis/)*

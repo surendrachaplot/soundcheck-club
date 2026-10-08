@@ -1,6 +1,6 @@
 # 214
 
-214 is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Process PDX, Portland on Sat, 10 Oct 2026.
+214 is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Process PDX, Portland on Sat, 10 Oct 2026.
 
 214 is an electro and techno artist based in United States of America, with 7 gigs on soundcheck across Portland and Seattle. Often billed alongside Centrikal, D.Vices and Detroit In Effect. Next up: Process PDX, Portland on Sat 10 Oct.
 
@@ -23,4 +23,4 @@
 
 Centrikal, D.Vices, Detroit In Effect
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/214/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/214/)*

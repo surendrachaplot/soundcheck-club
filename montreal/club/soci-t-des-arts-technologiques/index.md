@@ -1,6 +1,6 @@
 # Société des arts technologiques
 
-Société des arts technologiques is a music venue in Montreal with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Flux x EAF x SAT — 3Phaz (live) • Liliane Chlela (live)" on Fri, 9 Oct 2026.
+Société des arts technologiques is a music venue in Montreal with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Flux x EAF x SAT — 3Phaz (live) • Liliane Chlela (live)" on Fri, 9 Oct 2026.
 
 Société des arts technologiques is a music venue in Montreal listed on soundcheck. 6 upcoming gigs, with line-ups including 3Phaz, Adrian Sherwood, Bambii and Carlos Souffront and 2 more. See dates, start times and who's playing. 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada.
 
@@ -19,4 +19,4 @@ Société des arts technologiques is a music venue in Montreal listed on soundch
 
 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada, Montreal
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*

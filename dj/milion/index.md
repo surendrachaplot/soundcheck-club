@@ -1,8 +1,8 @@
 # Milion
 
-Milion is a House and Garage artist with 13 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Virage, Paris on Sat, 10 Oct 2026.
+Milion is a House and Garage artist with 14 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Virage, Paris on Sat, 10 Oct 2026.
 
-Milion is a house and garage artist based in Netherlands, with 108 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bristol and 22 more. Often billed alongside SAIDAH, Locky and Bella Claxton. Next up: Virage, Paris on Sat 10 Oct.
+Milion is a house and garage artist based in Netherlands, with 109 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bristol and 23 more. Often billed alongside SAIDAH, Locky and Bella Claxton. Next up: Virage, Paris on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Milion is a house and garage artist based in Netherlands, with 108 gigs on sound
 
 SAIDAH, Locky, Bella Claxton
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milion/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milion/)*

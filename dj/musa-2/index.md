@@ -1,6 +1,6 @@
 # musa
 
-musa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Neck of the Woods, Auckland on Sat, 10 Oct 2026.
+musa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Neck of the Woods, Auckland on Sat, 10 Oct 2026.
 
 musa is a techno and house artist based in Canada, with 24 gigs on soundcheck across Auckland, Melbourne, Mexico City and Montreal and 1 more. Often billed alongside Zellers, Geezr and Jaw Jones. Next up: Neck of the Woods, Auckland on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ musa is a techno and house artist based in Canada, with 24 gigs on soundcheck ac
 
 Zellers, Geezr, Jaw Jones
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/musa-2/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/musa-2/)*

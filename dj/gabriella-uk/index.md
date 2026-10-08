@@ -1,6 +1,6 @@
 # GABRIELLA (UK)
 
-GABRIELLA (UK) is a Grime and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Hard Rock Hotel Malta, Malta on Fri, 9 Oct 2026.
+GABRIELLA (UK) is a Grime and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Hard Rock Hotel Malta, Malta on Fri, 9 Oct 2026.
 
 GABRIELLA (UK) is a grime and garage artist, with 8 gigs on soundcheck across Leeds, London, Los Angeles and Malta. Often billed alongside Hamdi (UK), Alien Izz and Blackeye MC. Next up: Hard Rock Hotel Malta, Malta on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ GABRIELLA (UK) is a grime and garage artist, with 8 gigs on soundcheck across Le
 
 Hamdi (UK), Alien Izz, Blackeye MC
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriella-uk/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriella-uk/)*

@@ -1,6 +1,6 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 15 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Dance to a Dangerous Beat" on Thu, 8 Oct 2026.
+Podlasie Club is a music venue in Chicago with 15 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Dance to a Dangerous Beat" on Thu, 8 Oct 2026.
 
 Podlasie Club is a music venue in Chicago listed on soundcheck. 15 upcoming gigs, with line-ups including ASL Princess, avas, Beau Wanzer and Beverly Chills and 2 more. See dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
@@ -23,4 +23,4 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 15 upcoming gigs
 
 2918 N Central Park Ave, Avondale, Chicago, IL, 60618, Chicago
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*

@@ -1,6 +1,6 @@
 # NOBODYISALICE
 
-NOBODYISALICE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Mad Radio, Barcelona on Sun, 11 Oct 2026.
+NOBODYISALICE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Mad Radio, Barcelona on Sun, 11 Oct 2026.
 
 NOBODYISALICE is a house and techno artist based in Spain, with 30 gigs on soundcheck across Barcelona. Often billed alongside XipNoize, Gabo Oliveira and Lauriee. Next up: Mad Radio, Barcelona on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ NOBODYISALICE is a house and techno artist based in Spain, with 30 gigs on sound
 
 XipNoize, Gabo Oliveira, Lauriee
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nobodyisalice/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nobodyisalice/)*

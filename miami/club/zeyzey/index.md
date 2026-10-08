@@ -1,6 +1,6 @@
 # ZeyZey
 
-ZeyZey is a music venue in Miami with 21 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Night Tapes" on Thu, 8 Oct 2026.
+ZeyZey is a music venue in Miami with 21 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Night Tapes" on Thu, 8 Oct 2026.
 
 ZeyZey is a music venue in Miami listed on soundcheck. 21 upcoming gigs, with line-ups including Alex Oxley, Amtrac, Carozilla and ChaseWest and 2 more. See dates, start times and who's playing. 353 NE 61st St, Miami, FL 33137, USA.
 
@@ -23,4 +23,4 @@ ZeyZey is a music venue in Miami listed on soundcheck. 21 upcoming gigs, with li
 
 353 NE 61st St, Miami, FL 33137, USA, Miami
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*

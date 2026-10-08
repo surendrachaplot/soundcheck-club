@@ -1,6 +1,6 @@
 # Nirvan
 
-Nirvan is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Plaza Camden, London on Sat, 10 Oct 2026.
+Nirvan is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Plaza Camden, London on Sat, 10 Oct 2026.
 
 Nirvan is a house and minimal artist based in Belgium, with 29 gigs on soundcheck across Brussels, Ibiza and London. Often billed alongside AOB, DJOM and Elioss. Next up: Plaza Camden, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Nirvan is a house and minimal artist based in Belgium, with 29 gigs on soundchec
 
 AOB, DJOM, Elioss
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nirvan/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nirvan/)*

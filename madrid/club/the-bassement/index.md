@@ -1,8 +1,8 @@
 # The Bassement
 
-The Bassement is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Laster Club presents INTERNATIONAL RESIDENTS NIGHT with The Lady Machine & Setaoc Mass" on Fri, 9 Oct 2026.
+The Bassement is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Laster Club presents INTERNATIONAL RESIDENTS NIGHT with The Lady Machine & Setaoc Mass" on Fri, 9 Oct 2026.
 
-The Bassement is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including Alarico, Anthony Godfather, Blasha & Allatt and Chami and 2 more. See dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
+The Bassement is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including Alarico, Alputo, Alviker and Anthony Godfather and 2 more. See dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
 
 ## What's on
 
@@ -11,6 +11,7 @@ The Bassement is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, 
 | Fri, 9 Oct 2026 | Laster Club presents INTERNATIONAL RESIDENTS NIGHT with The Lady Machine & Setaoc Mass | Setaoc Mass, The Lady Machine |
 | Sat, 10 Oct 2026 | Laster Club presents Claudio PRC & Isabel Soto [All Night Long] | Claudio PRC, Isabel Soto |
 | Thu, 15 Oct 2026 | DVRKSUN MADRID ROUND 2 | Daniella da Silva, Parsa Jafari, RIKHTER |
+| Thu, 29 Oct 2026 | NITRO: Pawlowski + Sandwicho B2B TOTTI + Alviker B2B Alputo + Møstroh | Alputo, Alviker, Møstroh, Pawlowski, Sandwicho, TOTTI |
 | Fri, 30 Oct 2026 | Laster Club presents FRIDAY SPECIAL HALLOWEEN WEEKENDER x NON SERIES SHOWCASE | Feral, Nastia Reigel, Psyk, Wata Igarashi |
 | Sat, 31 Oct 2026 | Dj Nano & FRIENDS | Dj Nano, Ismael Rivas, Ramiro Lopez |
 | Sun, 1 Nov 2026 | Laster Club presents KANTINA SPECIAL HALLOWEEN WEEKENDER | JakoJako, Kameliia, Roll Dann, Rødhåd |
@@ -22,4 +23,4 @@ The Bassement is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, 
 
 C. de Galileo, 2628015 Madrid, Madrid
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*

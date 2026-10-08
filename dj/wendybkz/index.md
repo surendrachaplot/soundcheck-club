@@ -1,6 +1,6 @@
 # Wendy Bkz
 
-Wendy Bkz is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Boston, Boston on Fri, 23 Oct 2026.
+Wendy Bkz is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Boston, Boston on Fri, 23 Oct 2026.
 
 Wendy Bkz is a house and techno artist based in France, with 58 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside Amau, Burchan Acar and Guillermo Jamas. Next up: TBA - Boston, Boston on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Wendy Bkz is a house and techno artist based in France, with 58 gigs on soundche
 
 Amau, Burchan Acar, Guillermo Jamas
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wendybkz/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wendybkz/)*

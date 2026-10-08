@@ -1,8 +1,8 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Spacedisco Records presents Hatiras + special guest Antoine Clamaran (Paris)" on Fri, 9 Oct 2026.
+Wiggle Room is a music venue in Toronto with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Spacedisco Records presents Hatiras + special guest Antoine Clamaran (Paris)" on Fri, 9 Oct 2026.
 
-Wiggle Room is a music venue in Toronto listed on soundcheck. 10 upcoming gigs, with line-ups including Addy, Barroness, David Herrero and Dick Diamonds and 2 more. See dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
+Wiggle Room is a music venue in Toronto listed on soundcheck. 11 upcoming gigs, with line-ups including Addy, Barroness, David Herrero and Dick Diamonds and 2 more. See dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 10 upcoming gigs, 
 
 772 Dundas St W, Toronto, ON M6J 1V1, Canada, Toronto
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*

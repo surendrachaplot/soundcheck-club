@@ -1,6 +1,6 @@
 # Ricky Sahota
 
-Ricky Sahota is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Egg London, London on Sat, 17 Oct 2026.
+Ricky Sahota is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Egg London, London on Sat, 17 Oct 2026.
 
 Ricky Sahota is a house and tech house artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Ibiza and London. Often billed alongside Beezo, JAYDAA and Shenin Amara. Next up: Egg London, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Ricky Sahota is a house and tech house artist based in United Kingdom, with 75 g
 
 Beezo, JAYDAA, Shenin Amara
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rickysahota/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rickysahota/)*

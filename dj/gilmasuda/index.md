@@ -1,6 +1,6 @@
 # Gil Masuda
 
-Gil Masuda is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - 70 Huron St , Toronto on Sat, 31 Oct 2026.
+Gil Masuda is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - 70 Huron St , Toronto on Sat, 31 Oct 2026.
 
 Gil Masuda is a disco and funk / soul artist based in Canada, with 16 gigs on soundcheck across Miami and Toronto. Often billed alongside Roland Gonzales, Jason Palma and Sakiko Nagai. Next up: TBA - 70 Huron St , Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Gil Masuda is a disco and funk / soul artist based in Canada, with 16 gigs on so
 
 Roland Gonzales, Jason Palma, Sakiko Nagai
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gilmasuda/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gilmasuda/)*

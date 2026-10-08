@@ -1,8 +1,8 @@
 # Shinshan Salazar
 
-Shinshan Salazar is a Baile Funk and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 9 Oct 2026.
+Shinshan Salazar is a Baile Funk and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 9 Oct 2026.
 
-Shinshan Salazar is a baile funk and house artist based in Netherlands, with 30 gigs on soundcheck across Amsterdam, Berlin, London and Madrid and 2 more. Often billed alongside Franky Sticks, T.NO and Galecta. Next up: Skatecafe, Amsterdam on Fri 9 Oct.
+Shinshan Salazar is a baile funk and house artist based in Netherlands, with 31 gigs on soundcheck across Amsterdam, Berlin, London and Madrid and 3 more. Often billed alongside Franky Sticks, T.NO and Galecta. Next up: Skatecafe, Amsterdam on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Shinshan Salazar is a baile funk and house artist based in Netherlands, with 30 
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Skatecafe | Amsterdam |
 | Fri, 23 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
+| Sat, 5 Dec 2026 | The Grey Space In The Middle | The Hague |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Shinshan Salazar is a baile funk and house artist based in Netherlands, with 30 
 
 Franky Sticks, T.NO, Galecta (2)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shinshansalazar/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shinshansalazar/)*

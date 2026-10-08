@@ -1,6 +1,6 @@
 # Maksim Dark
 
-Maksim Dark is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
+Maksim Dark is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
 
 Maksim Dark is a techno and minimal techno artist, with 16 gigs on soundcheck across Berlin, Brisbane, Cologne and Frankfurt and 6 more. Often billed alongside Aio, Maurice Mino and Oliver Huntemann. Next up: TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Maksim Dark is a techno and minimal techno artist, with 16 gigs on soundcheck ac
 
 Aio, Maurice Mino, Oliver Huntemann
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maksimdark/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maksimdark/)*

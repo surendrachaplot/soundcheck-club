@@ -1,6 +1,6 @@
 # Imanu
 
-Imanu is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Imanu is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
 Imanu is a drum & bass and bass artist based in Netherlands, with 83 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Berlin and 34 more. Often billed alongside Buunshin, The Caracal Project (FR) and Flava D. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Imanu is a drum & bass and bass artist based in Netherlands, with 83 gigs on sou
 
 Buunshin, The Caracal Project (FR), Flava D
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imanu/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imanu/)*

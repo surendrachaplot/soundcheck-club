@@ -1,8 +1,8 @@
 # Dorian Paic
 
-Dorian Paic is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Hoppetosse, Berlin on Sat, 10 Oct 2026.
+Dorian Paic is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Hoppetosse, Berlin on Sat, 10 Oct 2026.
 
-Dorian Paic is a house and techno artist based in Germany, with 58 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Alexander Skancke, Federico Molinari and Margaret Dygas. Next up: Hoppetosse, Berlin on Sat 10 Oct.
+Dorian Paic is a house and techno artist based in Germany, with 59 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Alexander Skancke, Federico Molinari and Margaret Dygas. Next up: Hoppetosse, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dorian Paic is a house and techno artist based in Germany, with 58 gigs on sound
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Hoppetosse | Berlin |
 | Sat, 17 Oct 2026 | Les Enfants Brillants | Barcelona |
+| Sun, 1 Nov 2026 | Sophie Festival | Malaga |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Dorian Paic is a house and techno artist based in Germany, with 58 gigs on sound
 
 Alexander Skancke, Federico Molinari, Margaret Dygas
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dorianpaic/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dorianpaic/)*

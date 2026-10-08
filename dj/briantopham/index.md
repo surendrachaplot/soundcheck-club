@@ -1,6 +1,6 @@
 # Brian Topham
 
-Brian Topham is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at The Glove That Fits, London on Sat, 7 Nov 2026.
+Brian Topham is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at The Glove That Fits, London on Sat, 7 Nov 2026.
 
 Brian Topham is a house and electro artist, with 16 gigs on soundcheck across Barcelona and London. Often billed alongside Christian Arcila, Nulek and Rufo. Next up: The Glove That Fits, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Brian Topham is a house and electro artist, with 16 gigs on soundcheck across Ba
 
 Christian Arcila, Nulek, Rufo
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/briantopham/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/briantopham/)*

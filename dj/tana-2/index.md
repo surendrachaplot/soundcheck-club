@@ -1,6 +1,6 @@
 # Tana (2)
 
-Tana (2) is a Breakbeat and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Hafenklang, Hamburg on Fri, 9 Oct 2026.
+Tana (2) is a Breakbeat and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Hafenklang, Hamburg on Fri, 9 Oct 2026.
 
 Tana is a breakbeat and house artist based in Germany, with 39 gigs on soundcheck across Berlin, Hamburg, Lisbon and New York City and 1 more. Often billed alongside UNZHA, TTX (GER) and Soundskoud. Next up: Hafenklang, Hamburg on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Tana is a breakbeat and house artist based in Germany, with 39 gigs on soundchec
 
 UNZHA, TTX (GER), Soundskoud
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tana-2/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tana-2/)*

@@ -1,8 +1,8 @@
-# TBA - Secret Location 
+# TBA - Secret Location
 
-TBA - Secret Location  is a music venue in London with 60 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "KODE - KAIXA ESQUERDA - RJ" on Fri, 9 Oct 2026.
+TBA - Secret Location is a music venue in London with 65 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "KODE - KAIXA ESQUERDA - RJ" on Fri, 9 Oct 2026.
 
-TBA - Secret Location  is a music venue in London listed on soundcheck. 60 upcoming gigs, with line-ups including .cosm, The AM/AMX, Aleakim and Alena Vox and 2 more. See dates, start times and who's playing.
+TBA - Secret Location is a music venue in London listed on soundcheck. 65 upcoming gigs, with line-ups including .cosm, 2001 Space Odyssey, The AM/AMX and Aleakim and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -16,7 +16,7 @@ TBA - Secret Location  is a music venue in London listed on soundcheck. 60 upcom
 | Sat, 10 Oct 2026 | Zapped - Secret Location | Annina, Cyko, Norwin P., Re.dep, Renzo (3), Ujin |
 | Sat, 10 Oct 2026 | Parallel presents IndeniaL b2b mkbest | IndeniaL, mkbest |
 | Sat, 10 Oct 2026 | Himmel unter Berlin Vol. III | Andreas Lutz, Kon (FR), Martin Messier, media.tribe |
-| Sat, 10 Oct 2026 | The Last Beach Rave (2 Stages) |  |
+| Sat, 10 Oct 2026 | Rave in an Abandoned Warehouse (Parnitha) |  |
 | Sun, 11 Oct 2026 | Himmel unter Berlin Vol. III | Andreas Lutz, Kon (FR), Martin Messier, media.tribe |
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

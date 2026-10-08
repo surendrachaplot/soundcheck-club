@@ -1,13 +1,14 @@
 # Dan Dara
 
-Dan Dara is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Nordstern, Basel on Sat, 17 Oct 2026.
+Dan Dara is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Parterre One, Switzerland on Fri, 9 Oct 2026.
 
-Dan Dara is a jungle and drum & bass artist based in South Korea, with 22 gigs on soundcheck across Basel, Denver, Los Angeles and San Francisco/Oakland and 1 more. Often billed alongside Nimvy, Tabris and HASHTAGPOPE. Next up: Nordstern, Basel on Sat 17 Oct.
+Dan Dara is a jungle and drum & bass artist based in South Korea, with 23 gigs on soundcheck across Basel, Denver, Los Angeles and San Francisco/Oakland and 2 more. Often billed alongside Nimvy, Tabris and HASHTAGPOPE. Next up: Parterre One, Switzerland on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Parterre One | Switzerland |
 | Sat, 17 Oct 2026 | Nordstern | Basel |
 
 ## Recently played
@@ -25,4 +26,4 @@ Dan Dara is a jungle and drum & bass artist based in South Korea, with 22 gigs o
 
 Nimvy, Tabris, HASHTAGPOPE
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dandara/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dandara/)*

@@ -1,6 +1,6 @@
 # Shimza
 
-Shimza is a Afro House and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
+Shimza is a Afro House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
 
 Shimza is an afro house and house artist based in South Africa, with 148 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside ARODES, Andrea Oliva and Mahmut Orhan. Next up: NDSM Scheepsbouwloods, Amsterdam on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Shimza is an afro house and house artist based in South Africa, with 148 gigs on
 
 ARODES, Andrea Oliva, Mahmut Orhan
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shimza/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shimza/)*

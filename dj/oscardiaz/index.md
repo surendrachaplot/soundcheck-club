@@ -1,8 +1,8 @@
 # Oscar Diaz
 
-Oscar Diaz is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at KitKatClub, Berlin on Wed, 21 Oct 2026.
+Oscar Diaz is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at KitKatClub, Berlin on Wed, 21 Oct 2026.
 
-Oscar Diaz is a techno and industrial artist, with 11 gigs on soundcheck across Berlin. Often billed alongside DJ Jordan, Anubix and Mikadoo. Next up: KitKatClub, Berlin on Wed 21 Oct.
+Oscar Diaz is a techno and industrial artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside DJ Jordan, Anubix and Mikadoo. Next up: KitKatClub, Berlin on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Oscar Diaz is a techno and industrial artist, with 11 gigs on soundcheck across 
 
 DJ Jordan, Anubix, Mikadoo (2)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscardiaz/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscardiaz/)*

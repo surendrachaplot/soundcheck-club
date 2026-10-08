@@ -1,6 +1,6 @@
 # Justine Perry
 
-Justine Perry is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
+Justine Perry is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
 
 Justine Perry is a techno and house artist based in France, with 166 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Paula Koski, Blasha & Allatt and Kangding Ray. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 17 Oct.
 
@@ -32,4 +32,4 @@ Justine Perry is a techno and house artist based in France, with 166 gigs on sou
 
 Paula Koski, Blasha & Allatt, Kangding Ray
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/JustinePerry/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/JustinePerry/)*

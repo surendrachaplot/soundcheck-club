@@ -1,6 +1,6 @@
 # REPLAY at The Castle
 
-REPLAY at The Castle on Fri 9 Oct, London. 1 artist: Kittani. See the line-up on soundcheck.
+REPLAY at The Castle on Fri 9 Oct, London. 2 artists: Kittani and Shaddah. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ REPLAY at The Castle on Fri 9 Oct, London. 1 artist: Kittani. See the line-up on
 ## Line-up
 
 - Kittani
+- Shaddah
 
 *Source: [soundcheck](https://soundcheck.club/e/2534512-replay-at-the-castle/)*

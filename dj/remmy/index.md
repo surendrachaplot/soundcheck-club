@@ -1,6 +1,6 @@
 # Remmy
 
-Remmy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Red Bar, Tokyo on Thu, 8 Oct 2026.
+Remmy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Red Bar, Tokyo on Thu, 8 Oct 2026.
 
 Remmy is a house and techno artist based in Venezuela, with 23 gigs on soundcheck across Tokyo. Often billed alongside YOSHIHAARAA, Monkey Timers and YAMARCHY. Next up: Red Bar, Tokyo on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Remmy is a house and techno artist based in Venezuela, with 23 gigs on soundchec
 
 YOSHIHAARAA, Monkey Timers, YAMARCHY
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/remmy/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/remmy/)*

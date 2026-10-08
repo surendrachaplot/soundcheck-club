@@ -1,6 +1,6 @@
 # Shadeda
 
-Shadeda is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at New Wave Ramen, Manchester on Fri, 23 Oct 2026.
+Shadeda is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at New Wave Ramen, Manchester on Fri, 23 Oct 2026.
 
 Shadeda is a house and broken beat artist based in United Kingdom, with 31 gigs on soundcheck across Leeds, Liverpool, London and Manchester and 3 more. Often billed alongside KISA, Finn and Sakers. Next up: New Wave Ramen, Manchester on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Shadeda is a house and broken beat artist based in United Kingdom, with 31 gigs 
 
 KISA, Finn, Sakers
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shadeda/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shadeda/)*

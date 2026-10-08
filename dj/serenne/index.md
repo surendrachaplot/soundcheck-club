@@ -1,8 +1,8 @@
 # Serenne
 
-Serenne is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Golden Pudel Club, Hamburg on Sat, 17 Oct 2026.
+Serenne is a House and Minimal artist with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Golden Pudel Club, Hamburg on Sat, 17 Oct 2026.
 
-Serenne is a house and minimal artist based in Switzerland, with 44 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside Konstantin, Edward and Leafar Legov. Next up: Golden Pudel Club, Hamburg on Sat 17 Oct.
+Serenne is a house and minimal artist based in Switzerland, with 45 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 19 more. Often billed alongside Konstantin, Edward and Leafar Legov. Next up: Golden Pudel Club, Hamburg on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Serenne is a house and minimal artist based in Switzerland, with 44 gigs on soun
 | Thu, 5 Nov 2026 | One Resort | Tunisia |
 | Sat, 7 Nov 2026 | fabric | London |
 | Thu, 21 Jan 2027 | Soundscapes Zanzi | Tanzania |
+| Fri, 2 Jul 2027 | Brithdir Hall | West-wales |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Serenne is a house and minimal artist based in Switzerland, with 44 gigs on soun
 
 Konstantin, Edward, Leafar Legov
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serenne/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serenne/)*

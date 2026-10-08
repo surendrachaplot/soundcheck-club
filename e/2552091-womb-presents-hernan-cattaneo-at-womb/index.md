@@ -1,6 +1,6 @@
 # WOMB PRESENTS Hernan Cattaneo at WOMB
 
-WOMB PRESENTS Hernan Cattaneo on Sat 7 Nov, Tokyo. 7 artists: DJ OGAWA, Hernan Cattaneo, Monkey Timers and Rindeau and 3 more. Progressive House and Techno. See the line-up on soundcheck.
+WOMB PRESENTS Hernan Cattaneo on Sat 7 Nov, Tokyo. 8 artists: DJ OGAWA, Hernan Cattaneo, Monkey Timers and Oliverio and 4 more. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ WOMB PRESENTS Hernan Cattaneo on Sat 7 Nov, Tokyo. 7 artists: DJ OGAWA, Hernan C
 - DJ OGAWA
 - Hernan Cattaneo
 - Monkey Timers
+- Oliverio
 - Rindeau
 - Rio Kawamoto
 - TORAO

@@ -1,6 +1,6 @@
 # Sióg
 
-Sióg is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at ciao ciao Bar, Berlin on Sun, 11 Oct 2026.
+Sióg is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at ciao ciao Bar, Berlin on Sun, 11 Oct 2026.
 
 Sióg is a bass and techno artist based in Germany, with 13 gigs on soundcheck across Berlin and Dublin. Often billed alongside Evalyn, Ahni and DJ Flounce. Next up: ciao ciao Bar, Berlin on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Sióg is a bass and techno artist based in Germany, with 13 gigs on soundcheck a
 
 Evalyn, Ahni, DJ Flounce
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siog/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siog/)*

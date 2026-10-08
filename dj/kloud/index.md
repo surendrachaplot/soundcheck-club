@@ -1,6 +1,6 @@
 # KLOUD
 
-KLOUD is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at OST, Berlin on Fri, 9 Oct 2026.
+KLOUD is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at OST, Berlin on Fri, 9 Oct 2026.
 
 KLOUD is a techno and house artist based in United States of America, with 86 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 39 more. Often billed alongside Lola Cerise, Kander and DJ Heartstring. Next up: OST, Berlin on Fri 9 Oct.
 
@@ -36,4 +36,4 @@ KLOUD is a techno and house artist based in United States of America, with 86 gi
 
 Lola Cerise, Kander, DJ Heartstring
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*

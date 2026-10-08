@@ -1,8 +1,8 @@
 # Nestor (IE)
 
-Nestor (IE) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at The White Hotel, Manchester on Sun, 11 Oct 2026.
+Nestor (IE) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at The White Hotel, Manchester on Sun, 11 Oct 2026.
 
-Nestor (IE) is a techno and bass artist, with 14 gigs on soundcheck across Cork, Dublin and Manchester. Often billed alongside GFA, Gary Sloan and Kerrie. Next up: The White Hotel, Manchester on Sun 11 Oct.
+Nestor (IE) is a techno and bass artist based in Ireland, with 14 gigs on soundcheck across Cork, Dublin and Manchester. Often billed alongside GFA, Gary Sloan and Kerrie. Next up: The White Hotel, Manchester on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Nestor (IE) is a techno and bass artist, with 14 gigs on soundcheck across Cork,
 
 GFA, Gary Sloan, Kerrie
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nestor-ie/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nestor-ie/)*

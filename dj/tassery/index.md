@@ -1,6 +1,6 @@
 # TASSERY
 
-TASSERY is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
+TASSERY is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
 
 TASSERY is a techno and trance artist based in France, with 60 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Cologne and 20 more. Often billed alongside KARAH, KLOFAMA and KRUELTY. Next up: Airport Würzburg, Nürnberg on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ TASSERY is a techno and trance artist based in France, with 60 gigs on soundchec
 
 KARAH, KLOFAMA, KRUELTY
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tassery/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tassery/)*

@@ -1,6 +1,6 @@
 # Eudoxie
 
-Eudoxie is a Techno and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Secret East London Location, London on Sat, 10 Oct 2026.
+Eudoxie is a Techno and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Secret East London Location, London on Sat, 10 Oct 2026.
 
 Eudoxie is a techno and jungle artist, with 25 gigs on soundcheck across Berlin and London. Often billed alongside MAXUCA, Hopeless Romantic and Lau.tastic. Next up: TBA - Secret East London Location, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Eudoxie is a techno and jungle artist, with 25 gigs on soundcheck across Berlin 
 
 MAXUCA, Hopeless Romantic, Lau.tastic
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eudoxie/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eudoxie/)*

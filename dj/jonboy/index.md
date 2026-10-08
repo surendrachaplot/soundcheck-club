@@ -1,6 +1,6 @@
 # Jonboy
 
-Jonboy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Thu, 15 Oct 2026.
+Jonboy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Thu, 15 Oct 2026.
 
 Jonboy is a house and tech house artist, with 12 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Yaz, Femmelectric and Tyrel Williams. Next up: F8 1192 Folsom, San Francisco/Oakland on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Jonboy is a house and tech house artist, with 12 gigs on soundcheck across San F
 
 Yaz, Femmelectric, Tyrel Williams
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonboy/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonboy/)*

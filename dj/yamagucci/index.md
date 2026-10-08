@@ -1,6 +1,6 @@
 # Yamagucci
 
-Yamagucci is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Pacha New York, New York City on Fri, 9 Oct 2026.
+Yamagucci is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Pacha New York, New York City on Fri, 9 Oct 2026.
 
 Yamagucci is a house and techno artist based in United States of America, with 66 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 22 more. Often billed alongside Adam Ten, Mita Gami and SIEGEL. Next up: Pacha New York, New York City on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Yamagucci is a house and techno artist based in United States of America, with 6
 
 Adam Ten, Mita Gami, SIEGEL (2)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamagucci/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamagucci/)*

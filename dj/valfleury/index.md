@@ -1,14 +1,15 @@
 # Val Fleury
 
-Val Fleury is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at 99 Scott Ave, New York City on Fri, 16 Oct 2026.
+Val Fleury is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at 99 Scott Ave, New York City on Fri, 16 Oct 2026.
 
-Val Fleury is a house and afro house artist based in Liberia, with 28 gigs on soundcheck across Los Angeles, Mexico City, New York City and Philadelphia. Often billed alongside Bridge (NY), HVNLEE and DJ Sylo. Next up: 99 Scott Ave, New York City on Fri 16 Oct.
+Val Fleury is a house and afro house artist based in Liberia, with 29 gigs on soundcheck across Los Angeles, Mexico City, New York City and Philadelphia. Often billed alongside HVNLEE, Bridge (NY) and DJ Sylo. Next up: 99 Scott Ave, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | 99 Scott Ave | New York City |
+| Fri, 30 Oct 2026 | FABRIKA | Philadelphia |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Val Fleury is a house and afro house artist based in Liberia, with 28 gigs on so
 
 ## Shares bills with
 
-Bridge (NY), HVNLEE, DJ Sylo
+HVNLEE, Bridge (NY), DJ Sylo
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valfleury/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valfleury/)*

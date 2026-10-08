@@ -1,6 +1,6 @@
 # Sunny Graves
 
-Sunny Graves is a House and Footwork artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Meteoro, Barcelona on Sat, 10 Oct 2026.
+Sunny Graves is a House and Footwork artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Meteoro, Barcelona on Sat, 10 Oct 2026.
 
 Sunny Graves is a house and footwork artist based in Spain, with 9 gigs on soundcheck across Barcelona. Often billed alongside 00970, Just Claudia and Miramizu. Next up: Meteoro, Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Sunny Graves is a house and footwork artist based in Spain, with 9 gigs on sound
 
 00970, Just Claudia, Miramizu
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnygraves/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnygraves/)*

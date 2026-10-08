@@ -1,8 +1,8 @@
 # Mulo
 
-Mulo is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Culture Box, Copenhagen on Sat, 14 Nov 2026.
+Mulo is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Culture Box, Copenhagen on Sat, 14 Nov 2026.
 
-Mulo is a house and afro house artist, with 21 gigs on soundcheck across Copenhagen and Oslo. Often billed alongside Epifanov, IHLE and Djuma Soundsystem. Next up: Culture Box, Copenhagen on Sat 14 Nov.
+Mulo is a house and afro house artist based in France, with 21 gigs on soundcheck across Copenhagen and Oslo. Often billed alongside Epifanov, IHLE and Djuma Soundsystem. Next up: Culture Box, Copenhagen on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Mulo is a house and afro house artist, with 21 gigs on soundcheck across Copenha
 
 Epifanov, IHLE, Djuma Soundsystem
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mulo/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mulo/)*

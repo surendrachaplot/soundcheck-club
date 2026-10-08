@@ -1,6 +1,6 @@
 # AMRED
 
-AMRED is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Astoria, Turin on Sat, 10 Oct 2026.
+AMRED is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Astoria, Turin on Sat, 10 Oct 2026.
 
 AMRED is a bass and electronica artist based in Italy, with 31 gigs on soundcheck across Milan and Turin. Often billed alongside RESA (IT), Lara David (IT) and HYLO (IT). Next up: Astoria, Turin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ AMRED is a bass and electronica artist based in Italy, with 31 gigs on soundchec
 
 RESA (IT), Lara David (IT), HYLO (IT)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amred/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amred/)*

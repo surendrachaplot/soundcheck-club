@@ -1,14 +1,13 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "SYMBIOTIKKA at KitKat Club Berlin" on Wed, 7 Oct 2026.
+KitKatClub is a music venue in Berlin with 25 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "UNITY AT KITKAT CLUB" on Thu, 8 Oct 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including AAguilAA, Alessia Cattani, Alessio Collina and androgienia and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 25 upcoming gigs, with line-ups including AAguilAA, Alessia Cattani, Alessio Collina and androgienia and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 7 Oct 2026 | SYMBIOTIKKA at KitKat Club Berlin | DJ Jordan, Epicx, LadyBird aka C.J. Parker, Sebastian Ludvig |
 | Thu, 8 Oct 2026 | UNITY AT KITKAT CLUB |  |
 | Fri, 9 Oct 2026 | PSYCHO Kiss | Ari Denaro, Daora |
 | Fri, 9 Oct 2026 | LIMINAL |  |
@@ -18,9 +17,10 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, wi
 | Sun, 18 Oct 2026 | Nachspiel |  |
 | Mon, 19 Oct 2026 | Electric Monday@KitKat | Alessio Collina, Brizman, Frankie Flowerz |
 | Wed, 21 Oct 2026 | SYMBIOTIKKA at KitKat Club Berlin | DJ Emerson, DJ Jordan, Oscar Diaz, Stuckeyrella |
+| Fri, 23 Oct 2026 | The 32 Year Mystic Rose Celebration meets TRISTAN | BERLIN, Der Würfler, Gandalf |
 
 ## Address
 
 Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*

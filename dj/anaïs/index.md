@@ -1,8 +1,8 @@
 # Anaïs
 
-Anaïs is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Gaswrx Birmingham, Birmingham on Sat, 10 Oct 2026.
+Anaïs is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Gaswrx Birmingham, Birmingham on Sat, 10 Oct 2026.
 
-Anaïs is a drum & bass and jungle artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 19 more. Often billed alongside Whiney, Degs and P Money. Next up: Gaswrx Birmingham, Birmingham on Sat 10 Oct.
+Anaïs is a drum & bass and jungle artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 19 more. Often billed alongside Whiney, Degs and P Money. Next up: Gaswrx Birmingham, Birmingham on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Anaïs is a drum & bass and jungle artist based in United Kingdom, with 58 gigs 
 | Sat, 10 Oct 2026 | Gaswrx Birmingham | Birmingham |
 | Fri, 16 Oct 2026 | The Steel Yard | London |
 | Sat, 14 Nov 2026 | The Prospect Building | Bristol |
+| Fri, 4 Dec 2026 | Quarters | Brighton |
 | Sat, 5 Dec 2026 | The Nest | Nottingham |
 
 ## Recently played
@@ -28,4 +29,4 @@ Anaïs is a drum & bass and jungle artist based in United Kingdom, with 58 gigs 
 
 Whiney, Degs, P Money
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anaïs/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anaïs/)*

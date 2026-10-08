@@ -1,6 +1,6 @@
 # SUCHI
 
-SUCHI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+SUCHI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 SUCHI is a house and techno artist based in Norway, with 64 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 17 more. Often billed alongside Amaliah, Anz and Heléna Star. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ SUCHI is a house and techno artist based in Norway, with 64 gigs on soundcheck a
 
 Amaliah, Anz, Heléna Star
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suchi/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suchi/)*

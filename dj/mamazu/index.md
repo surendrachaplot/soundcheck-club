@@ -1,6 +1,6 @@
 # Mamazu
 
-Mamazu is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Aoyama Hachi, Tokyo on Sat, 10 Oct 2026.
+Mamazu is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Aoyama Hachi, Tokyo on Sat, 10 Oct 2026.
 
 Mamazu is a house and techno artist based in Japan, with 100 gigs on soundcheck across Barcelona, Brussels, Kyoto and Osaka and 1 more. Often billed alongside Sunga, YO.AN and REO MATSUMOTO. Next up: Aoyama Hachi, Tokyo on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Mamazu is a house and techno artist based in Japan, with 100 gigs on soundcheck 
 
 Sunga, YO.AN, REO MATSUMOTO
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mamazu/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mamazu/)*

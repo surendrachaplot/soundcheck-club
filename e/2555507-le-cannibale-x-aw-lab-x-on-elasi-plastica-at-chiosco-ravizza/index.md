@@ -1,6 +1,6 @@
-# Le Cannibale x AW LAB x ON - ELASI, Plastica at Chiosco Ravizza
+# Le Cannibale x AW LAB x On - ELASI, Plastica at Chiosco Ravizza
 
-Le Cannibale x AW LAB x ON - ELASI, Plastica at Chiosco Ravizza on Tue 13 Oct, Milan. 2 artists: ELASI and PLASTICA. House and Electro. See the line-up on soundcheck.
+Le Cannibale x AW LAB x On - ELASI, Plastica at Chiosco Ravizza on Tue 13 Oct, Milan. 2 artists: ELASI and PLASTICA. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

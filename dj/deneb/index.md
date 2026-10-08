@@ -1,6 +1,6 @@
 # Deneb
 
-Deneb is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at NWHR, Montreal on Sun, 11 Oct 2026.
+Deneb is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at NWHR, Montreal on Sun, 11 Oct 2026.
 
 Deneb is a house and techno artist based in France, with 22 gigs on soundcheck across Mexico City and Montreal. Often billed alongside Clochette, Bioquake and Boomy. Next up: NWHR, Montreal on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Deneb is a house and techno artist based in France, with 22 gigs on soundcheck a
 
 Clochette, Bioquake, Boomy
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deneb/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deneb/)*

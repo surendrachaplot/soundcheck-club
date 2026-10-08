@@ -1,0 +1,20 @@
+# Dr. Rubinstein / The Advent / 98dots / Jay Jackson (fka.m4a) / Lauren Flax / Rumi de Baires at BASEMENT
+
+Dr. Rubinstein / The Advent / 98dots / Jay Jackson (fka.m4a) / Lauren Flax / Rumi de Baires at BASEMENT on Sat 17 Oct, New York City. 6 artists: 98dots, Dr. Rubinstein, fka.m4a and Lauren Flax and 2 more. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 17 Oct 2026 |
+| Venue | BASEMENT |
+| City | New York City |
+
+## Line-up
+
+- 98dots
+- Dr. Rubinstein
+- fka.m4a
+- Lauren Flax
+- Rumi de Baires
+- The Advent
+
+*Source: [soundcheck](https://soundcheck.club/e/2533898-dr-rubinstein-the-advent-98dots-jay-jackson-fka-m4a-lauren-f/)*

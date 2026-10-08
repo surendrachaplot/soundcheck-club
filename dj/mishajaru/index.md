@@ -1,13 +1,14 @@
 # Misha Jaru
 
-Misha Jaru is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Bukanyr Boat, Prague on Fri, 16 Oct 2026.
+Misha Jaru is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Bukanyr Boat, Prague on Fri, 16 Oct 2026.
 
-Misha Jaru is a techno and house artist based in Ukraine, with 69 gigs on soundcheck across Berlin and Prague. Often billed alongside S.Tian, Feenicks and Dash (CZ). Next up: Bukanyr Boat, Prague on Fri 16 Oct.
+Misha Jaru is a techno and house artist based in Ukraine, with 70 gigs on soundcheck across Berlin and Prague. Often billed alongside S.Tian, Feenicks and Dash (CZ). Next up: Bukanyr Boat, Prague on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Bukanyr Boat | Prague |
 | Fri, 16 Oct 2026 | Bukanyr Boat | Prague |
 | Sat, 17 Oct 2026 | Jènemar Passéjure | Prague |
 | Fri, 23 Oct 2026 | Ankali & Planeta Za | Prague |
@@ -28,4 +29,4 @@ Misha Jaru is a techno and house artist based in Ukraine, with 69 gigs on soundc
 
 S.Tian, Feenicks, Dash (CZ)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mishajaru/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mishajaru/)*

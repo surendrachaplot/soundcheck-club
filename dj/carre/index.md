@@ -1,6 +1,6 @@
 # Carré
 
-Carré is a Bass and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at SideQuest on 44th, Pittsburgh on Fri, 9 Oct 2026.
+Carré is a Bass and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at SideQuest on 44th, Pittsburgh on Fri, 9 Oct 2026.
 
 Carré is a bass and techno artist based in United States of America, with 80 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 21 more. Often billed alongside Samwise (US), Darwin and Seyer (UK). Next up: SideQuest on 44th, Pittsburgh on Fri 9 Oct.
 
@@ -32,4 +32,4 @@ Carré is a bass and techno artist based in United States of America, with 80 gi
 
 Samwise (US), Darwin, Seyer (UK)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carre/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carre/)*

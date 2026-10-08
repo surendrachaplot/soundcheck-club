@@ -1,8 +1,8 @@
 # DJ Matab
 
-DJ Matab is a Disco and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Northcote Theatre, Melbourne on Sat, 14 Nov 2026.
+DJ Matab is a Disco and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Northcote Theatre, Melbourne on Sat, 14 Nov 2026.
 
-DJ Matab is a disco and electronica artist, with 14 gigs on soundcheck across Melbourne, Sydney and Tokyo. Often billed alongside Luqman, SELENA and AceMo. Next up: Northcote Theatre, Melbourne on Sat 14 Nov.
+DJ Matab is a disco and electronica artist based in Australia, with 14 gigs on soundcheck across Melbourne, Sydney and Tokyo. Often billed alongside Luqman, SELENA and AceMo. Next up: Northcote Theatre, Melbourne on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ DJ Matab is a disco and electronica artist, with 14 gigs on soundcheck across Me
 
 Luqman, SELENA, AceMo
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmatab/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmatab/)*

@@ -1,14 +1,15 @@
 # TEED
 
-TEED is a House and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
+TEED is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
-TEED is a house and bass artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 23 more. Often billed alongside Eats Everything, DJ Holographic and DJ Minx. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
+TEED is a house and electronica artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 23 more. Often billed alongside Eats Everything, DJ Holographic and DJ Minx. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | 50:Hertz Club Train | Amsterdam |
+| Sun, 25 Oct 2026 | The Workmans Club | Dublin |
 | Fri, 30 Oct 2026 | YuYu Cine Club | Mexico City |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 
@@ -27,4 +28,4 @@ TEED is a house and bass artist based in United Kingdom, with 50 gigs on soundch
 
 Eats Everything, DJ Holographic, DJ Minx
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teed/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teed/)*

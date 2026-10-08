@@ -1,6 +1,6 @@
 # Club Cheek
 
-Club Cheek is a music venue in London with 15 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Brown Excellence gets Cheeky" on Fri, 9 Oct 2026.
+Club Cheek is a music venue in London with 15 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Brown Excellence gets Cheeky" on Fri, 9 Oct 2026.
 
 Club Cheek is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Alicia (UK), Alienata, Amit and Avsluta and 2 more. See dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
 
@@ -13,7 +13,7 @@ Club Cheek is a music venue in London listed on soundcheck. 15 upcoming gigs, wi
 | Fri, 16 Oct 2026 | Shoulderwork Vol. 2 - Gallegos | EEBEE, Gallegos |
 | Sat, 17 Oct 2026 | Altered Images Fest: Oliver Ho, Alienata | Alienata, Broken English Club |
 | Fri, 23 Oct 2026 | Club Pantheon: Tia Cousins, Royal Male & Matt Triggs (Red Laser Records) | Royal Male, Tia Cousins |
-| Sat, 24 Oct 2026 | Launch & Whistle Crew Horns Crew present 15 Years of Sweetpea |  |
+| Sat, 24 Oct 2026 | Launch & Whistle Crew Horns Crew present 15 Years of Sweetpea | Blackeye MC, Gusto, Mantra, Philth, Sicknote, Sweetpea |
 | Fri, 30 Oct 2026 | BED |  |
 | Fri, 30 Oct 2026 | Undercover Parts: Halloween Special | CHAMBER45, Lozzy, Riel, Scratcha, Tibor |
 | Sat, 31 Oct 2026 | Wiggle Room & The Curse of the Lost City | IZZY (UK), Julia SC, Minashi, elshazly |
@@ -23,4 +23,4 @@ Club Cheek is a music venue in London listed on soundcheck. 15 upcoming gigs, wi
 
 302-304 Barrington Road, London, SW9 7JJ, London
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*

@@ -1,6 +1,6 @@
 # Fantasm
 
-Fantasm is a Techno and Hardcore artist with 12 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Sektor 6D, Warsaw on Fri, 9 Oct 2026.
+Fantasm is a Techno and Hardcore artist with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Sektor 6D, Warsaw on Fri, 9 Oct 2026.
 
 Fantasm is a techno and hardcore artist based in United States of America, with 88 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside KLOFAMA, NOVAH and Holy Priest. Next up: Sektor 6D, Warsaw on Fri 9 Oct.
 
@@ -36,4 +36,4 @@ Fantasm is a techno and hardcore artist based in United States of America, with 
 
 KLOFAMA, NOVAH, Holy Priest
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm/)*

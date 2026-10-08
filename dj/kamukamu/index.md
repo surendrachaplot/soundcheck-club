@@ -1,6 +1,6 @@
 # Kamu Kamu
 
-Kamu Kamu is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at F8 1192 Folsom, San-francisco-oakland on Thu, 22 Oct 2026.
+Kamu Kamu is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at F8 1192 Folsom, San-francisco-oakland on Thu, 22 Oct 2026.
 
 Kamu Kamu is an afro house and house artist based in Uganda, with 29 gigs on soundcheck across San Francisco Oakland and San Francisco/Oakland. Often billed alongside ANCARCO, HIDRA and Another Human Red. Next up: F8 1192 Folsom, San Francisco Oakland on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Kamu Kamu is an afro house and house artist based in Uganda, with 29 gigs on sou
 
 ANCARCO, HIDRA, Another Human Red
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamukamu/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamukamu/)*

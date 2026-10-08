@@ -1,6 +1,6 @@
 # Mella Dee
 
-Mella Dee is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at [UNVRS], Ibiza on Sat, 10 Oct 2026.
+Mella Dee is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at [UNVRS], Ibiza on Sat, 10 Oct 2026.
 
 Mella Dee is a house and techno artist based in United Kingdom, with 168 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 50 more. Often billed alongside Saoirse, Reeshy and Locklead. Next up: [UNVRS], Ibiza on Sat 10 Oct.
 
@@ -35,4 +35,4 @@ Mella Dee is a house and techno artist based in United Kingdom, with 168 gigs on
 
 Saoirse, Reeshy, Locklead
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melladee/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melladee/)*

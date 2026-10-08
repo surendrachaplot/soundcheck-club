@@ -1,8 +1,8 @@
 # Dasha Rush
 
-Dasha Rush is a Techno and Experimental artist with 12 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 15 Oct 2026.
+Dasha Rush is a Techno and Experimental artist with 13 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 15 Oct 2026.
 
-Dasha Rush is a techno and experimental artist, with 169 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside DVS1, Adriana Lopez and JakoJako. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 15 Oct.
+Dasha Rush is a techno and experimental artist, with 170 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside DVS1, Adriana Lopez and JakoJako. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ Dasha Rush is a techno and experimental artist, with 169 gigs on soundcheck acro
 | Fri, 13 Nov 2026 | public records | New York City |
 | Sat, 14 Nov 2026 | Lincoln Factory | Detroit |
 | Fri, 27 Nov 2026 | RADION | Amsterdam |
-| Fri, 4 Dec 2026 | MFCC Arena | Malta |
+| Sat, 28 Nov 2026 | The Bassement | Madrid |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Dasha Rush is a techno and experimental artist, with 169 gigs on soundcheck acro
 
 DVS1, Adriana Lopez, JakoJako
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dasharush/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dasharush/)*

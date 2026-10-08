@@ -1,8 +1,8 @@
 # Club Makossa
 
-Club Makossa is a music venue in London with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Rushing To Paradise - A Night Of Alt. Disco, Post Punk & Leftield House FREE ENTRY" on Thu, 8 Oct 2026.
+Club Makossa is a music venue in London with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Rushing To Paradise - A Night Of Alt. Disco, Post Punk & Leftield House FREE ENTRY" on Thu, 8 Oct 2026.
 
-Club Makossa is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including BIDOIS, DAMO, Eliah Culker and Faded Society and 2 more. See dates, start times and who's playing. 113 Kingsland High Street, London E8 2PB.
+Club Makossa is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including BIDOIS, DAMO, Eliah Culker and Faded Society and 2 more. See dates, start times and who's playing. 113 Kingsland High Street, London E8 2PB.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Club Makossa is a music venue in London listed on soundcheck. 9 upcoming gigs, w
 | Thu, 22 Oct 2026 | Shared Crate: House, Bass, Dubstep, Jungle & DnB - Free Entry | BIDOIS |
 | Sat, 24 Oct 2026 | 4th Wall Opening Event |  |
 | Thu, 29 Oct 2026 | FUTURE: DJ Games (UKG / DNB / 140 / Techno / Jungle) |  |
+| Fri, 30 Oct 2026 | FRIYAYS at MAKOSSA (House, Tech House, UK Bass, Drum & Bass) | SQUWUIS |
 | Thu, 5 Nov 2026 | FADED PRESENTS PROJECT: BENEATH THE BREAKS | NISHABYNIGHT, VERTEX (2), karishma |
 | Fri, 6 Nov 2026 | Pleasure Centre | Eliah Culker, Gibby., Jackie Stewart |
 | Thu, 19 Nov 2026 | No Name Given - FREE FLINTA* BASS / GRIME / JUNGLE NIGHT | NK47, miss jas |
@@ -22,4 +23,4 @@ Club Makossa is a music venue in London listed on soundcheck. 9 upcoming gigs, w
 
 113 Kingsland High Street, London E8 2PB, London
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*

@@ -1,6 +1,6 @@
 # Lopez Dj
 
-Lopez Dj is a Minimal Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Luzztro, Warsaw on Sat, 31 Oct 2026.
+Lopez Dj is a Minimal Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Luzztro, Warsaw on Sat, 31 Oct 2026.
 
 Lopez Dj is a minimal techno and house artist, with 5 gigs on soundcheck across Warsaw. Often billed alongside Damian S, Epicx and Jakub Rene Kosik. Next up: Luzztro, Warsaw on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Lopez Dj is a minimal techno and house artist, with 5 gigs on soundcheck across 
 
 Damian S, Epicx, Jakub Rene Kosik
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lopezdj/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lopezdj/)*

@@ -1,6 +1,6 @@
 # Mihnea Rog
 
-Mihnea Rog is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Department 184, Milan on Sat, 17 Oct 2026.
+Mihnea Rog is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Department 184, Milan on Sat, 17 Oct 2026.
 
 Mihnea Rog is a techno and house artist based in Romania, with 20 gigs on soundcheck across Bucharest, Greece, London and Milan and 1 more. Often billed alongside Cap, DumitrEscu and BILA. Next up: Department 184, Milan on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Mihnea Rog is a techno and house artist based in Romania, with 20 gigs on soundc
 
 Cap, DumitrEscu, BILA
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mihnearog/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mihnearog/)*

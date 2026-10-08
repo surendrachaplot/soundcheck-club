@@ -1,6 +1,6 @@
 # švedka
 
-švedka is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Eiger Studios, Leeds on Fri, 13 Nov 2026.
+švedka is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Eiger Studios, Leeds on Fri, 13 Nov 2026.
 
 švedka is a techno and electro artist based in Lithuania, with 19 gigs on soundcheck across Edinburgh, Leeds, London and Manchester. Often billed alongside IDACARE, INLIMEN and Edac. Next up: Eiger Studios, Leeds on Fri 13 Nov.
 
@@ -25,4 +25,4 @@
 
 IDACARE, INLIMEN, Edac
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/švedka/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/švedka/)*

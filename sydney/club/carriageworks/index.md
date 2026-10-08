@@ -1,6 +1,6 @@
 # Carriageworks
 
-Carriageworks is a music venue in Sydney with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Effy & Mall Grab present: Fragrance" on Sat, 10 Oct 2026.
+Carriageworks is a music venue in Sydney with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Effy & Mall Grab present: Fragrance" on Sat, 10 Oct 2026.
 
 Carriageworks is a music venue in Sydney listed on soundcheck. 7 upcoming gigs, with line-ups including Armand Van Helden, ATARANGI, Attu and Claire O'Brien and 2 more. See dates, start times and who's playing. 245 Wilson Street, Eveleigh, NSW 2015, Australia.
 
@@ -20,4 +20,4 @@ Carriageworks is a music venue in Sydney listed on soundcheck. 7 upcoming gigs, 
 
 245 Wilson Street, Eveleigh, NSW 2015, Australia, Sydney
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carriageworks/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carriageworks/)*

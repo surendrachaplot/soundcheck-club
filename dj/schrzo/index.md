@@ -1,14 +1,15 @@
 # SCHRZØ
 
-SCHRZØ is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at DETROIT CLUB, Barcelona on Sat, 10 Oct 2026.
+SCHRZØ is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at DETROIT CLUB, Barcelona on Sat, 10 Oct 2026.
 
-SCHRZØ is a techno and industrial artist based in Spain, with 7 gigs on soundcheck across Barcelona, Madrid and Valencia. Often billed alongside Dani Soto, RBNK and Comarca. Next up: DETROIT CLUB, Barcelona on Sat 10 Oct.
+SCHRZØ is a techno and industrial artist based in Spain, with 8 gigs on soundcheck across Barcelona, Madrid, North and Valencia. Often billed alongside Dani Soto, RBNK and Adversario. Next up: DETROIT CLUB, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | DETROIT CLUB | Barcelona |
+| Sat, 26 Dec 2026 | Dabadaba | North |
 
 ## Recently played
 
@@ -21,6 +22,6 @@ SCHRZØ is a techno and industrial artist based in Spain, with 7 gigs on soundch
 
 ## Shares bills with
 
-Dani Soto, RBNK, Comarca
+Dani Soto, RBNK, Adversario
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schrzo/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schrzo/)*

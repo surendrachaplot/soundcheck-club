@@ -1,6 +1,6 @@
 # DJ Tennis at Coda
 
-DJ Tennis at Coda on Fri 13 Nov, Toronto. 1 artist: DJ Tennis. See the line-up on soundcheck.
+DJ Tennis at Coda on Fri 13 Nov, Toronto. 3 artists: DJ Tennis, Jenner and Nambeh. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ DJ Tennis at Coda on Fri 13 Nov, Toronto. 1 artist: DJ Tennis. See the line-up o
 ## Line-up
 
 - DJ Tennis
+- Jenner
+- Nambeh
 
 *Source: [soundcheck](https://soundcheck.club/e/2526400-dj-tennis-at-coda/)*

@@ -1,6 +1,6 @@
 # Sol Angel
 
-Sol Angel is a Club and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Lark, Berlin on Sat, 14 Nov 2026.
+Sol Angel is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Lark, Berlin on Sat, 14 Nov 2026.
 
 Sol Angel is a club and house artist based in Colombia, with 14 gigs on soundcheck across Barcelona, Berlin, Hamburg and Madrid and 2 more. Often billed alongside EDGAR KERRI, LOVEFOXY and Miqui Brightside. Next up: Lark, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Sol Angel is a club and house artist based in Colombia, with 14 gigs on soundche
 
 EDGAR KERRI, LOVEFOXY, Miqui Brightside
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soltornasol/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soltornasol/)*

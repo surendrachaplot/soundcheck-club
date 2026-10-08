@@ -1,8 +1,8 @@
 # Daora
 
-Daora is a Techno and Psytrance artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at KitKatClub, Berlin on Fri, 9 Oct 2026.
+Daora is a Techno and Psytrance artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at KitKatClub, Berlin on Fri, 9 Oct 2026.
 
-Daora is a techno and psytrance artist, with 99 gigs on soundcheck across Berlin. Often billed alongside Gerrit X, Momentune and RHYTMOX. Next up: KitKatClub, Berlin on Fri 9 Oct.
+Daora is a techno and psytrance artist, with 99 gigs on soundcheck across Berlin. Often billed alongside Gerrit X, Momentune and monervo. Next up: KitKatClub, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Daora is a techno and psytrance artist, with 99 gigs on soundcheck across Berlin
 
 ## Shares bills with
 
-Gerrit X, Momentune, RHYTMOX
+Gerrit X, Momentune, monervo
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daora/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daora/)*

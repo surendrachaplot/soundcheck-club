@@ -1,6 +1,6 @@
 # Ginger
 
-Ginger is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Nué Seoul, Seoul on Thu, 8 Oct 2026.
+Ginger is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Nué Seoul, Seoul on Thu, 8 Oct 2026.
 
 Ginger is a techno and house artist based in Mexico, with 16 gigs on soundcheck across Frankfurt, Seoul and Stuttgart. Often billed alongside Zion, Minish and Hyunsung. Next up: Nué Seoul, Seoul on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Ginger is a techno and house artist based in Mexico, with 16 gigs on soundcheck 
 
 Zion, Minish, Hyunsung
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ginger/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ginger/)*

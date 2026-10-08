@@ -1,6 +1,6 @@
 # Grand Hotel Bucharest
 
-Grand Hotel Bucharest is a music venue in Bucharest with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Mr. Worldwide Party" on Fri, 9 Oct 2026.
+Grand Hotel Bucharest is a music venue in Bucharest with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Mr. Worldwide Party" on Fri, 9 Oct 2026.
 
 Grand Hotel Bucharest is a music venue in Bucharest listed on soundcheck. 2 upcoming gigs, with line-ups including Joey London. See dates, start times and who's playing. Bulevardul Nicolae Bălcescu 4, București 010051.
 
@@ -15,4 +15,4 @@ Grand Hotel Bucharest is a music venue in Bucharest listed on soundcheck. 2 upco
 
 Bulevardul Nicolae Bălcescu 4, București 010051, Bucharest
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/grand-hotel-bucharest/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/grand-hotel-bucharest/)*

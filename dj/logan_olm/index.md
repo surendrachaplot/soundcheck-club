@@ -1,6 +1,6 @@
 # Logan_olm
 
-Logan_olm is a Grime and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at The Old Blue Last, London on Wed, 14 Oct 2026.
+Logan_olm is a Grime and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at The Old Blue Last, London on Wed, 14 Oct 2026.
 
 Logan_olm is a grime and garage artist, with 14 gigs on soundcheck across Belgrade, Bristol, Brussels and Copenhagen and 3 more. Often billed alongside Duppy, Kruz Leone and Oblig. Next up: The Old Blue Last, London on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ Logan_olm is a grime and garage artist, with 14 gigs on soundcheck across Belgra
 
 Duppy, Kruz Leone, Oblig
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/logan_olm/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/logan_olm/)*

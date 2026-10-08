@@ -1,8 +1,8 @@
 # ATISMIA
 
-ATISMIA is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Blank Site, Seoul on Fri, 16 Oct 2026.
+ATISMIA is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Blank Site, Seoul on Fri, 16 Oct 2026.
 
-ATISMIA is a techno and hardcore artist, with 14 gigs on soundcheck across Seoul. Often billed alongside NANAH, D.E.F and Healer_t_s. Next up: Blank Site, Seoul on Fri 16 Oct.
+ATISMIA is a techno and hardcore artist based in South Korea, with 14 gigs on soundcheck across Seoul. Often billed alongside NANAH, D.E.F and Healer_t_s. Next up: Blank Site, Seoul on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ ATISMIA is a techno and hardcore artist, with 14 gigs on soundcheck across Seoul
 
 NANAH, D.E.F, Healer_t_s
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atismia/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atismia/)*

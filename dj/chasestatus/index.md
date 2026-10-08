@@ -1,8 +1,8 @@
 # Chase & Status
 
-Chase & Status is a Drum & Bass and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Chase & Status is a Drum & Bass and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Chase & Status are a drum & bass and techno duo based in United Kingdom, with 92 gigs on soundcheck across Aberdeen, Antwerp, Auckland and Austin and 44 more. Often billed alongside Mozey, Dimension and Andy C. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
+Chase & Status are a drum & bass and techno duo based in United Kingdom, with 93 gigs on soundcheck across Aberdeen, Antwerp, Auckland and Austin and 45 more. Often billed alongside Mozey, Dimension and Andy C. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Chase & Status are a drum & bass and techno duo based in United Kingdom, with 92
 | Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 30 Oct 2026 | Edmonton Expo Center | Edmonton |
+| Wed, 11 Nov 2026 | Camp and Furnace | Liverpool |
 | Sat, 20 Feb 2027 | UFO im Velodrom | Berlin |
 | Sun, 28 Feb 2027 | Zénith Paris - La Villette | Paris |
 
@@ -29,4 +30,4 @@ Chase & Status are a drum & bass and techno duo based in United Kingdom, with 92
 
 Mozey, Dimension, Andy C
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chasestatus/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chasestatus/)*

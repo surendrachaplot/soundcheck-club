@@ -1,6 +1,6 @@
 # Agent 86
 
-Agent 86 is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at OneSixOne, Melbourne on Sat, 10 Oct 2026.
+Agent 86 is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at OneSixOne, Melbourne on Sat, 10 Oct 2026.
 
 Agent 86 is a deep house and house artist based in Australia, with 106 gigs on soundcheck across Madrid and Melbourne. Often billed alongside Cara Murphy, Jay Ramon and BoyBlewe. Next up: OneSixOne, Melbourne on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Agent 86 is a deep house and house artist based in Australia, with 106 gigs on s
 
 Cara Murphy, Jay Ramon, BoyBlewe
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agent86/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agent86/)*

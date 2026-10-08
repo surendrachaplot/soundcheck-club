@@ -1,6 +1,6 @@
 # Francis Mercier
 
-Francis Mercier is a Afro House and House artist with 13 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at OMNIA Dayclub, Las-vegas on Fri, 9 Oct 2026.
+Francis Mercier is a Afro House and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at OMNIA Dayclub, Las-vegas on Fri, 9 Oct 2026.
 
 Francis Mercier is an afro house and house artist based in United States of America, with 181 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: OMNIA Dayclub, Las Vegas on Fri 9 Oct.
 
@@ -36,4 +36,4 @@ Francis Mercier is an afro house and house artist based in United States of Amer
 
 Andrea Oliva, Nadrums, ARYMÉ
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*

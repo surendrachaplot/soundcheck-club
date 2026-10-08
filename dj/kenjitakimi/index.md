@@ -1,13 +1,14 @@
 # Kenji Takimi
 
-Kenji Takimi is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at National Art School, Sydney on Sun, 18 Oct 2026.
+Kenji Takimi is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Angel Music Bar, Melbourne on Sat, 17 Oct 2026.
 
-Kenji Takimi is a house and disco artist based in Japan, with 91 gigs on soundcheck across Auckland, Bali, Melbourne and Osaka and 4 more. Often billed alongside YAMARCHY, Monkey Timers and Kikiorix. Next up: National Art School, Sydney on Sun 18 Oct.
+Kenji Takimi is a house and disco artist based in Japan, with 92 gigs on soundcheck across Auckland, Bali, Melbourne and Osaka and 4 more. Often billed alongside YAMARCHY, Monkey Timers and Kikiorix. Next up: Angel Music Bar, Melbourne on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Angel Music Bar | Melbourne |
 | Sun, 18 Oct 2026 | National Art School | Sydney |
 | Fri, 30 Oct 2026 | BAR Inc | Osaka |
 | Fri, 20 Nov 2026 | WOMB | Tokyo |
@@ -27,4 +28,4 @@ Kenji Takimi is a house and disco artist based in Japan, with 91 gigs on soundch
 
 YAMARCHY, Monkey Timers, Kikiorix
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjitakimi/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjitakimi/)*

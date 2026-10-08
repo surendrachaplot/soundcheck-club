@@ -1,6 +1,6 @@
 # Joe Cabana
 
-Joe Cabana is a Disco and Afro House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Motor Oil Cocktail Garage, Barcelona on Mon, 12 Oct 2026.
+Joe Cabana is a Disco and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Motor Oil Cocktail Garage, Barcelona on Mon, 12 Oct 2026.
 
 Joe Cabana is a disco and afro house artist, with 54 gigs on soundcheck across Barcelona. Often billed alongside Legoteque, Deejay Kosmos and Jambo. Next up: Motor Oil Cocktail Garage, Barcelona on Mon 12 Oct.
 
@@ -26,4 +26,4 @@ Joe Cabana is a disco and afro house artist, with 54 gigs on soundcheck across B
 
 Legoteque, Deejay Kosmos, Jambo
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joecabana/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joecabana/)*

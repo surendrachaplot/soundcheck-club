@@ -1,6 +1,6 @@
 # Dr Banana
 
-Dr Banana is a House and Garage artist with 11 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
+Dr Banana is a House and Garage artist with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
 
 Dr Banana is a house and garage artist based in United Kingdom, with 255 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 42 more. Often billed alongside Laidlaw, Melody RA+RE and The Ghost. Next up: Bassiani, Tbilisi on Fri 9 Oct.
 
@@ -35,4 +35,4 @@ Dr Banana is a house and garage artist based in United Kingdom, with 255 gigs on
 
 Laidlaw, Melody RA+RE, The Ghost
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drbanana/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drbanana/)*

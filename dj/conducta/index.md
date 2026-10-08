@@ -1,8 +1,8 @@
 # Conducta
 
-Conducta is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Palais, London on Fri, 16 Oct 2026.
+Conducta is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Palais, London on Fri, 16 Oct 2026.
 
-Conducta is a garage and house artist based in United Kingdom, with 188 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Bangkok and 50 more. Often billed alongside Oppidan, Tim Reaper and Todd Edwards. Next up: Palais, London on Fri 16 Oct.
+Conducta is a garage and house artist based in United Kingdom, with 189 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Bangkok and 50 more. Often billed alongside Oppidan, Tim Reaper and Todd Edwards. Next up: Palais, London on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Conducta is a garage and house artist based in United Kingdom, with 188 gigs on 
 | Fri, 23 Oct 2026 | 24 Kitchen Street | Liverpool |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 31 Oct 2026 | Franklin Music Hall | Philadelphia |
+| Sun, 1 Nov 2026 | public records | New York City |
 | Fri, 20 Nov 2026 | Digital | Newcastle |
 
 ## Recently played
@@ -29,4 +30,4 @@ Conducta is a garage and house artist based in United Kingdom, with 188 gigs on 
 
 Oppidan, Tim Reaper, Todd Edwards
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conducta/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conducta/)*

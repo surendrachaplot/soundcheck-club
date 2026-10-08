@@ -1,6 +1,6 @@
 # POPINN.GINZA
 
-POPINN.GINZA is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "WEEKEND POPINN" on Sat, 10 Oct 2026.
+POPINN.GINZA is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "WEEKEND POPINN" on Sat, 10 Oct 2026.
 
 POPINN.GINZA is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ POPINN.GINZA is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | WEEKEND POPINN |  |
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/popinn-ginza/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/popinn-ginza/)*

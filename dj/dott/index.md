@@ -1,8 +1,8 @@
 # DOTT
 
-DOTT is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Circus Osaka, Osaka on Thu, 8 Oct 2026.
+DOTT is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Circus Osaka, Osaka on Thu, 8 Oct 2026.
 
-DOTT is a house and techno artist based in Thailand, with 127 gigs on soundcheck across Bali, Bangkok, Berlin and Hong Kong and 8 more. Often billed alongside Sarayu, Elaheh and Jirus (MELA). Next up: Circus Osaka, Osaka on Thu 8 Oct.
+DOTT is a house and techno artist based in Thailand, with 128 gigs on soundcheck across Bali, Bangkok, Berlin and Hong Kong and 8 more. Often billed alongside Sarayu, Elaheh and Jirus (MELA). Next up: Circus Osaka, Osaka on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DOTT is a house and techno artist based in Thailand, with 127 gigs on soundcheck
 | Sat, 10 Oct 2026 | WOMB | Tokyo |
 | Mon, 12 Oct 2026 | Mitsuki | Tokyo |
 | Sat, 17 Oct 2026 | Dual | Bangkok |
+| Sat, 31 Oct 2026 | Æther BKK | Bangkok |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 
 ## Recently played
@@ -29,4 +30,4 @@ DOTT is a house and techno artist based in Thailand, with 127 gigs on soundcheck
 
 Sarayu, Elaheh, Jirus (MELA)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dott/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dott/)*

@@ -1,6 +1,6 @@
 # KINK FEST ROTTERDAM (For the first time in Netherlands!) at Now&Wow
 
-KINK FEST ROTTERDAM (For the first time in Netherlands!) at Now&Wow on Fri 16 Oct, Rotterdam. 3 artists: AnG (NL), Mincore and Symbiotica. Techno and House. See the line-up on soundcheck.
+KINK FEST ROTTERDAM (For the first time in Netherlands!) at Now&Wow on Fri 16 Oct, Rotterdam. 4 artists: AnG (NL), Latex Fine, Mincore and Symbiotica. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ KINK FEST ROTTERDAM (For the first time in Netherlands!) at Now&Wow on Fri 16 Oc
 ## Line-up
 
 - AnG (NL)
+- Latex Fine
 - Mincore
 - Symbiotica
 

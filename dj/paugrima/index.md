@@ -1,6 +1,6 @@
 # Pau Grima
 
-Pau Grima is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Noxe Barcelona, Barcelona on Thu, 22 Oct 2026.
+Pau Grima is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Noxe Barcelona, Barcelona on Thu, 22 Oct 2026.
 
 Pau Grima is a house and techno artist based in Spain, with 10 gigs on soundcheck across Amsterdam and Barcelona. Often billed alongside Vikki, Nesi and DJ Playero. Next up: Noxe Barcelona, Barcelona on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Pau Grima is a house and techno artist based in Spain, with 10 gigs on soundchec
 
 Vikki, Nesi, DJ Playero
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paugrima/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paugrima/)*

@@ -1,6 +1,6 @@
 # LOCUS x Modern Funktion Halloween at The Cause
 
-LOCUS x Modern Funktion Halloween at The Cause on Sun 1 Nov, London. 24 artists: A For Alpha, Alexandria, Archie Hamilton and Benji King and 20 more. House and Tech House. See the line-up on soundcheck.
+LOCUS x Modern Funktion Halloween at The Cause on Sun 1 Nov, London. 28 artists: A For Alpha, Alexandria, Archie Hamilton and Benji King and 24 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,6 +18,8 @@ LOCUS x Modern Funktion Halloween at The Cause on Sun 1 Nov, London. 24 artists:
 - Captain Wallop
 - DAISY
 - DJ Split
+- Dr Dubplate
+- DXNBY
 - Garrett David
 - Gaskin
 - Hidde van Wee
@@ -26,6 +28,8 @@ LOCUS x Modern Funktion Halloween at The Cause on Sun 1 Nov, London. 24 artists:
 - Jude Lenihan
 - jWave
 - Local Dub
+- Locky
+- Lucas Alexander
 - Luuk van Dijk
 - MADVILLA
 - Mella Dee

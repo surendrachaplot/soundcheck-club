@@ -1,0 +1,28 @@
+# Why Be
+
+Why Be is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 23 Oct 2026.
+
+Why Be is a techno and club artist based in Denmark, with 47 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 11 more. Often billed alongside Yazzus, DJ TOOL and D.Dan. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 23 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 23 Oct 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
+
+## Recently played
+
+- Paloma, Berlin · Sun, 13 Sept 2026
+- TBA - Private Location, Berlin · Sat, 5 Sept 2026
+- Deutsche Oper Berlin, Berlin · Sat, 29 Aug 2026
+- RSO.BERLIN, Berlin · Sat, 27 Jun 2026
+- RSO.BERLIN, Berlin · Sat, 18 Apr 2026
+- Ormside Projects, London · Sat, 21 Feb 2026
+- Schinkel Pavillon, Berlin · Fri, 20 Feb 2026
+- La Station - Gare des Mines, Paris · Fri, 23 Jan 2026
+
+## Shares bills with
+
+Yazzus, DJ TOOL, D.Dan
+
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whybe/)*

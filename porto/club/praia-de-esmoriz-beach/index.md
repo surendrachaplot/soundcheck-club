@@ -1,6 +1,6 @@
 # Praia de Esmoriz Beach
 
-Praia de Esmoriz Beach is a music venue in Porto with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "SHEILA PRES. ELEVATE AT PÉ N' AREIA BEACH CLUB" on Sun, 11 Oct 2026.
+Praia de Esmoriz Beach is a music venue in Porto with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "SHEILA PRES. ELEVATE AT PÉ N' AREIA BEACH CLUB" on Sun, 11 Oct 2026.
 
 Praia de Esmoriz Beach is a music venue in Porto listed on soundcheck. 1 upcoming gig, with line-ups including Miss Sheila. See dates, start times and who's playing. Praia de Esmoriz.
 
@@ -14,4 +14,4 @@ Praia de Esmoriz Beach is a music venue in Porto listed on soundcheck. 1 upcomin
 
 Praia de Esmoriz, Porto
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/praia-de-esmoriz-beach/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/praia-de-esmoriz-beach/)*

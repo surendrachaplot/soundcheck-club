@@ -1,10 +1,10 @@
 # 77: Alan Dixon at 77
 
-77: Alan Dixon on Tue 20 Oct, London. 2 artists: Alan Dixon and Sam Holland. Afro House. See the line-up on soundcheck.
+77: Alan Dixon on Fri 20 Nov, London. 2 artists: Alan Dixon and Sam Holland. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Tue, 20 Oct 2026 |
+| Date | Fri, 20 Nov 2026 |
 | Venue | 77 |
 | City | London |
 

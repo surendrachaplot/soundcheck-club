@@ -1,8 +1,8 @@
 # ketia
 
-ketia is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Hidden, Manchester on Fri, 9 Oct 2026.
+ketia is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Hidden, Manchester on Fri, 9 Oct 2026.
 
-ketia is a techno and house artist based in Portugal, with 145 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 32 more. Often billed alongside Angel D'lite, ADAM MUNNINGS and DJ Petite. Next up: Hidden, Manchester on Fri 9 Oct.
+ketia is a techno and house artist based in Portugal, with 146 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 32 more. Often billed alongside Angel D'lite, ADAM MUNNINGS and DJ Petite. Next up: Hidden, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ ketia is a techno and house artist based in Portugal, with 145 gigs on soundchec
 | Fri, 30 Oct 2026 | Eutopia Warehouse | London |
 | Sat, 31 Oct 2026 | The Cause | London |
 | Sun, 8 Nov 2026 | CLUB RAUM | Amsterdam |
+| Sat, 21 Nov 2026 | public records | New York City |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ ketia is a techno and house artist based in Portugal, with 145 gigs on soundchec
 
 Angel D'lite, ADAM MUNNINGS, DJ Petite
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ketia/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ketia/)*

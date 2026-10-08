@@ -1,6 +1,6 @@
 # Kim Ann Foxman
 
-Kim Ann Foxman is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at FOLD, London on Fri, 9 Oct 2026.
+Kim Ann Foxman is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at FOLD, London on Fri, 9 Oct 2026.
 
 Kim Ann Foxman is a house and techno artist based in United States of America, with 140 gigs on soundcheck across Amsterdam, Auckland, Bali and Bangkok and 34 more. Often billed alongside Cora (CN), Shaun J. Wright and DJ TOOL. Next up: FOLD, London on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ Kim Ann Foxman is a house and techno artist based in United States of America, w
 
 Cora (CN), Shaun J. Wright, DJ TOOL
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimannfoxman/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimannfoxman/)*

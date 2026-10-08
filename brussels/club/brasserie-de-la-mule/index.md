@@ -1,6 +1,6 @@
 # Brasserie de la Mule
 
-Brasserie de la Mule is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "Hold Dub Party" on Fri, 9 Oct 2026.
+Brasserie de la Mule is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "Hold Dub Party" on Fri, 9 Oct 2026.
 
 Brasserie de la Mule is a music venue in Brussels listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Rue Rubens 95, 1030 Schaerbeek.
 
@@ -14,4 +14,4 @@ Brasserie de la Mule is a music venue in Brussels listed on soundcheck. 1 upcomi
 
 Rue Rubens 95, 1030 Schaerbeek, Brussels
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/brasserie-de-la-mule/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/brasserie-de-la-mule/)*

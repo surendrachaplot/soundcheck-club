@@ -1,6 +1,6 @@
 # CUE - Nottingham w. DJ Cosworth b2b Oldboy, Wodda at Stealth
 
-CUE - Nottingham w. DJ Cosworth b2b Oldboy, Wodda at Stealth on Fri 9 Oct, Nottingham. 4 artists: DJ Cosworth, Oldboy, Oldboy (UK) and Wodda. House and Garage. See the line-up on soundcheck.
+CUE - Nottingham w. DJ Cosworth b2b Oldboy, Wodda at Stealth on Fri 9 Oct, Nottingham. 3 artists: Oldboy, Oldboy (UK) and Wodda. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ CUE - Nottingham w. DJ Cosworth b2b Oldboy, Wodda at Stealth on Fri 9 Oct, Notti
 
 ## Line-up
 
-- DJ Cosworth
 - Oldboy
 - Oldboy (UK)
 - Wodda

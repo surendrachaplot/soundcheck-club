@@ -1,6 +1,6 @@
 # Orangerie Neukölln
 
-Orangerie Neukölln is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Gardens of Disco NEW SEASON" on Sat, 10 Oct 2026.
+Orangerie Neukölln is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Gardens of Disco NEW SEASON" on Sat, 10 Oct 2026.
 
 Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Akirahawks, Alison Swing, Jelle from the Block and Nadia Wise and 2 more. See dates, start times and who's playing. Schierker Str. 8, 12051 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 10 upcoming
 
 Schierker Str. 8, 12051 Berlin, Germany, Berlin
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/orangerie-neuk-lln/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/orangerie-neuk-lln/)*

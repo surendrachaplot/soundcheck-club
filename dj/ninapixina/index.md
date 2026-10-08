@@ -1,6 +1,6 @@
 # Nina Pixina
 
-Nina Pixina is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at EartH Kitchen, London on Fri, 9 Oct 2026.
+Nina Pixina is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at EartH Kitchen, London on Fri, 9 Oct 2026.
 
 Nina Pixina is a techno and trance artist based in Romania, with 39 gigs on soundcheck across Barcelona, Brighton, Bucharest and Leeds and 1 more. Often billed alongside Gloria Rose, RayRay and Amphia. Next up: EartH Kitchen, London on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Nina Pixina is a techno and trance artist based in Romania, with 39 gigs on soun
 
 Gloria Rose, RayRay, Amphia
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninapixina/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninapixina/)*

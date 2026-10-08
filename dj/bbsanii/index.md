@@ -1,6 +1,6 @@
 # bbsanii
 
-bbsanii is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at New Guernica, Melbourne on Fri, 16 Oct 2026.
+bbsanii is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at New Guernica, Melbourne on Fri, 16 Oct 2026.
 
 bbsanii is a techno and house artist based in Australia, with 34 gigs on soundcheck across Melbourne and Victoria. Often billed alongside JUPiTA, Tina Disco and Aaliyah Salem. Next up: New Guernica, Melbourne on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ bbsanii is a techno and house artist based in Australia, with 34 gigs on soundch
 
 JUPiTA, Tina Disco, Aaliyah Salem
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bbsanii/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bbsanii/)*

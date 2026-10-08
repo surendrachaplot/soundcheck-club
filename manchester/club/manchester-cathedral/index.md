@@ -1,6 +1,6 @@
 # Manchester Cathedral
 
-Manchester Cathedral is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "Ibiza Proms in Manchester Cathedral" on Sat, 10 Oct 2026.
+Manchester Cathedral is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "Ibiza Proms in Manchester Cathedral" on Sat, 10 Oct 2026.
 
 Manchester Cathedral is a music venue in Manchester listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Manchester Cathedral is a music venue in Manchester listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Ibiza Proms in Manchester Cathedral |  |
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/manchester-cathedral/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/manchester-cathedral/)*

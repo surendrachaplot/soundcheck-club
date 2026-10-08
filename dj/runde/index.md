@@ -1,6 +1,6 @@
 # Runde
 
-Runde is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, Lausanne on Sat, 17 Oct 2026.
+Runde is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA, Lausanne on Sat, 17 Oct 2026.
 
 Runde is a techno and house artist based in Switzerland, with 5 gigs on soundcheck across Geneva and Lausanne. Often billed alongside Blenk, Gioski and Hatari!. Next up: TBA, Lausanne on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ Runde is a techno and house artist based in Switzerland, with 5 gigs on soundche
 
 Blenk, Gioski, Hatari!
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/runde/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/runde/)*

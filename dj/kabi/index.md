@@ -1,8 +1,8 @@
 # Kabi
 
-Kabi is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Atno, Budapest on Sat, 24 Oct 2026.
+Kabi is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Atno, Budapest on Sat, 24 Oct 2026.
 
-Kabi is a progressive house and deep house artist, with 22 gigs on soundcheck across Amsterdam, Budapest, Buenos Aires and London and 3 more. Often billed alongside Agustin Ficarra, Armen Miran and Cocho. Next up: Atno, Budapest on Sat 24 Oct.
+Kabi is a progressive house and deep house artist based in Argentina, with 22 gigs on soundcheck across Amsterdam, Budapest, Buenos Aires and London and 3 more. Often billed alongside Agustin Ficarra, Armen Miran and Cocho. Next up: Atno, Budapest on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Kabi is a progressive house and deep house artist, with 22 gigs on soundcheck ac
 
 Agustin Ficarra, Armen Miran, Cocho
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kabi/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kabi/)*

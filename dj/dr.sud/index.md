@@ -1,6 +1,6 @@
 # Dr. Sud
 
-Dr. Sud is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at YSY, Berlin on Sun, 18 Oct 2026.
+Dr. Sud is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at YSY, Berlin on Sun, 18 Oct 2026.
 
 Dr. Sud is a house and dub artist based in Italy, with 14 gigs on soundcheck across Berlin. Often billed alongside doctor doms, Caldii and Luminick. Next up: YSY, Berlin on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Dr. Sud is a house and dub artist based in Italy, with 14 gigs on soundcheck acr
 
 doctor doms, Caldii, Luminick
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.sud/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.sud/)*

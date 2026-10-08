@@ -1,6 +1,6 @@
 # White Horse Inn
 
-White Horse Inn is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "𝑮𝑰𝑹𝑳 𝑫𝑨𝑵𝑪𝑬" on Fri, 16 Oct 2026.
+White Horse Inn is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "𝑮𝑰𝑹𝑳 𝑫𝑨𝑵𝑪𝑬" on Fri, 16 Oct 2026.
 
 White Horse Inn is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig, with line-ups including ALICE STRIBLING. See dates, start times and who's playing. 6551 Telegraph Ave, Oakland, CA 94609.
 
@@ -14,4 +14,4 @@ White Horse Inn is a music venue in San Francisco/Oakland listed on soundcheck. 
 
 6551 Telegraph Ave, Oakland, CA 94609, San Francisco/Oakland
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/white-horse-inn/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/white-horse-inn/)*

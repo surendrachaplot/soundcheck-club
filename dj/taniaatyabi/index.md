@@ -1,13 +1,14 @@
 # Tania Atyabi
 
-Tania Atyabi is a Electro and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at NDR2 Red Room, London on Fri, 13 Nov 2026.
+Tania Atyabi is a Electro and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Cu, London on Sat, 31 Oct 2026.
 
-Tania Atyabi is an electro and italo disco artist, with 25 gigs on soundcheck across Barcelona, London and Manchester. Often billed alongside Medallion Man, YouYou and ARA-U. Next up: NDR2 Red Room, London on Fri 13 Nov.
+Tania Atyabi is an electro and techno artist, with 26 gigs on soundcheck across Barcelona, London and Manchester. Often billed alongside Medallion Man, YouYou and ARA-U. Next up: Cu, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Cu | London |
 | Fri, 13 Nov 2026 | NDR2 Red Room | London |
 | Fri, 20 Nov 2026 | radial | London |
 
@@ -26,4 +27,4 @@ Tania Atyabi is an electro and italo disco artist, with 25 gigs on soundcheck ac
 
 Medallion Man, YouYou (2), ARA-U
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taniaatyabi/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taniaatyabi/)*

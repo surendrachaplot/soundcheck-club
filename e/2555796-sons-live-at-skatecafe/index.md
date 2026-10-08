@@ -1,0 +1,11 @@
+# SONS (LIVE) at Skatecafe
+
+SONS (LIVE) at Skatecafe on Fri 6 Nov, Amsterdam. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 6 Nov 2026 |
+| Venue | Skatecafe |
+| City | Amsterdam |
+
+*Source: [soundcheck](https://soundcheck.club/e/2555796-sons-live-at-skatecafe/)*

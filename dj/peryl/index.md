@@ -1,8 +1,8 @@
 # Peryl
 
-Peryl is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 23 Oct 2026.
+Peryl is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 23 Oct 2026.
 
-Peryl is a techno and experimental artist based in Germany, with 27 gigs on soundcheck across Berlin, Brussels, Kanto and Leipzig and 3 more. Often billed alongside Adriana Lopez, JANEIN and Stephanie Sykes. Next up: Tresor / Globus, Berlin on Fri 23 Oct.
+Peryl is a techno and experimental artist based in Germany, with 28 gigs on soundcheck across Berlin, Brussels, Kanto and Leipzig and 3 more. Often billed alongside Adriana Lopez, JANEIN and Stephanie Sykes. Next up: Tresor / Globus, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Peryl is a techno and experimental artist based in Germany, with 27 gigs on soun
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Tresor / Globus | Berlin |
 | Sun, 22 Nov 2026 | Oizumi-Kojo | Kanto |
+| Sat, 28 Nov 2026 | RSO.BERLIN | Berlin |
 | Thu, 3 Dec 2026 | Start.Bahn - Genezarethkirche | Berlin |
 
 ## Recently played
@@ -27,4 +28,4 @@ Peryl is a techno and experimental artist based in Germany, with 27 gigs on soun
 
 Adriana Lopez, JANEIN, Stephanie Sykes
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peryl/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peryl/)*

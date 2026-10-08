@@ -1,6 +1,6 @@
 # Max Muth
 
-Max Muth is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
+Max Muth is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
 
 Max Muth is a techno and deep house artist based in Germany, with 63 gigs on soundcheck across Berlin, Hamburg, Helsinki and Munich. Often billed alongside Missing.DJ, Boudi Boudin and MEEMA. Next up: TBA - telegram @klangsubstanz, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Max Muth is a techno and deep house artist based in Germany, with 63 gigs on sou
 
 Missing.DJ, Boudi Boudin, MEEMA
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxmuth/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxmuth/)*

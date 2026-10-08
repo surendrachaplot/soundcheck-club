@@ -1,6 +1,6 @@
 # Garrison XR
 
-Garrison XR is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Spkrbox, Detroit on Thu, 8 Oct 2026.
+Garrison XR is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Spkrbox, Detroit on Thu, 8 Oct 2026.
 
 Garrison XR is a techno and house artist based in United States of America, with 205 gigs on soundcheck across Detroit, New York City and San Diego. Often billed alongside Ashton Swinton, LATEX GIRL and Amino. Next up: Spkrbox, Detroit on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Garrison XR is a techno and house artist based in United States of America, with
 
 Ashton Swinton, LATEX GIRL, Amino
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garrisonxr/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garrisonxr/)*

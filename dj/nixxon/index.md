@@ -1,6 +1,6 @@
 # Nixxon
 
-Nixxon is a Disco and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Jolene, Copenhagen on Fri, 9 Oct 2026.
+Nixxon is a Disco and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Jolene, Copenhagen on Fri, 9 Oct 2026.
 
 Nixxon is a disco and electro artist based in Denmark, with 9 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside Boogie Rookie, Alexander Arpeggio and AELVA K. Next up: Jolene, Copenhagen on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Nixxon is a disco and electro artist based in Denmark, with 9 gigs on soundcheck
 
 Boogie Rookie, Alexander Arpeggio, AELVA K
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nixxon/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nixxon/)*

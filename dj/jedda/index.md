@@ -1,13 +1,14 @@
 # Jedda
 
-Jedda is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at The Bongo Club, Edinburgh on Sat, 10 Oct 2026.
+Jedda is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Doghouse, Edinburgh on Fri, 9 Oct 2026.
 
-Jedda is a house and disco artist based in United Kingdom, with 37 gigs on soundcheck across Cardiff, Edinburgh and London. Often billed alongside Hobbes, Bartek and Last Days of Pompeii. Next up: The Bongo Club, Edinburgh on Sat 10 Oct.
+Jedda is a house and disco artist based in United Kingdom, with 38 gigs on soundcheck across Cardiff, Edinburgh and London. Often billed alongside Hobbes, Bartek and Last Days of Pompeii. Next up: The Doghouse, Edinburgh on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | The Doghouse | Edinburgh |
 | Sat, 10 Oct 2026 | The Bongo Club | Edinburgh |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jedda is a house and disco artist based in United Kingdom, with 37 gigs on sound
 
 Hobbes, Bartek, Last Days of Pompeii
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jedda/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jedda/)*

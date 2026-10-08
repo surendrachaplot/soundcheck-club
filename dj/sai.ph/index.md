@@ -1,6 +1,6 @@
 # Sai.ph
 
-Sai.ph is a House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Pawnshop, Taipei on Sat, 10 Oct 2026.
+Sai.ph is a House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Pawnshop, Taipei on Sat, 10 Oct 2026.
 
 Sai.ph is a house artist based in Greece, with 13 gigs on soundcheck across Athens and Taipei. Often billed alongside AM Dj, Kay (ATH) and Nausicaä. Next up: Pawnshop, Taipei on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Sai.ph is a house artist based in Greece, with 13 gigs on soundcheck across Athe
 
 AM Dj (1), Kay (ATH), Nausicaä
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sai.ph/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sai.ph/)*

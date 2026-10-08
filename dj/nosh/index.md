@@ -1,19 +1,19 @@
 # Nosh
 
-Nosh is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Sans Soleil, Montreal on Wed, 7 Oct 2026.
+Nosh is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 18 Oct 2026.
 
-Nosh is a house and techno artist based in Canada, with 22 gigs on soundcheck across Montreal, Tbilisi, Tokyo and Toronto. Often billed alongside dawny, SOBAKA and Fate. Next up: Sans Soleil, Montreal on Wed 7 Oct.
+Nosh is a house and techno artist based in Canada, with 22 gigs on soundcheck across Montreal, Tbilisi, Tokyo and Toronto. Often billed alongside dawny, SOBAKA and Fate. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 7 Oct 2026 | Sans Soleil | Montreal |
 | Sun, 18 Oct 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 | Sat, 24 Oct 2026 | Système | Montreal |
 
 ## Recently played
 
+- Sans Soleil, Montreal · Wed, 7 Oct 2026
 - Yodo Groove (Yodobashi Ikebukuro), Tokyo · Sat, 12 Sept 2026
 - Bar Datcha, Montreal · Fri, 4 Sept 2026
 - TBA - Secret Location, Toronto · Fri, 28 Aug 2026
@@ -21,10 +21,9 @@ Nosh is a house and techno artist based in Canada, with 22 gigs on soundcheck ac
 - TBA, Montreal · Sat, 8 Aug 2026
 - Royal Lounge, Tokyo · Tue, 28 Jul 2026
 - Bar Datcha, Montreal · Sat, 25 Jul 2026
-- Multi Culti Space Garage, Montreal · Sat, 27 Jun 2026
 
 ## Shares bills with
 
 dawny, SOBAKA, Fate (2)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nosh/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nosh/)*

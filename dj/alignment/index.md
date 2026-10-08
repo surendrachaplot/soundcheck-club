@@ -1,6 +1,6 @@
 # Alignment
 
-Alignment is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Mondo, Madrid on Thu, 8 Oct 2026.
+Alignment is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Mondo, Madrid on Thu, 8 Oct 2026.
 
 Alignment is a techno and house artist based in Germany, with 225 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 67 more. Often billed alongside Shlømo, Basswell and DYEN. Next up: Mondo, Madrid on Thu 8 Oct.
 
@@ -35,4 +35,4 @@ Alignment is a techno and house artist based in Germany, with 225 gigs on soundc
 
 Shlømo, Basswell, DYEN
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alignment/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alignment/)*

@@ -1,6 +1,6 @@
 # Maksim
 
-Maksim is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at H0L0, New York City on Sat, 31 Oct 2026.
+Maksim is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at H0L0, New York City on Sat, 31 Oct 2026.
 
 Maksim is a house and techno artist based in United States of America, with 82 gigs on soundcheck across Berlin, Boston, Brighton and Bristol and 12 more. Often billed alongside O.BEE, Shvili and Rasho. Next up: H0L0, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Maksim is a house and techno artist based in United States of America, with 82 g
 
 O.BEE, Shvili, Rasho
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maksim/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maksim/)*

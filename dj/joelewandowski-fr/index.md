@@ -1,6 +1,6 @@
 # Joe Lewandowski
 
-Joe Lewandowski is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Nonsense, Paris on Thu, 8 Oct 2026.
+Joe Lewandowski is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Nonsense, Paris on Thu, 8 Oct 2026.
 
 Joe Lewandowski is a house and techno artist based in France, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Frankfurt and 9 more. Often billed alongside Valentine Groove, Adam Spielman and Hardrock Striker. Next up: Nonsense, Paris on Thu 8 Oct.
 
@@ -27,4 +27,4 @@ Joe Lewandowski is a house and techno artist based in France, with 85 gigs on so
 
 Valentine Groove, Adam Spielman, Hardrock Striker
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joelewandowski-fr/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joelewandowski-fr/)*

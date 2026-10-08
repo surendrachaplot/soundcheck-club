@@ -1,6 +1,6 @@
 # Cherry
 
-Cherry is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Das Zimmer, Mannheim on Fri, 9 Oct 2026.
+Cherry is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Das Zimmer, Mannheim on Fri, 9 Oct 2026.
 
 Cherry is a techno and house artist based in Japan, with 32 gigs on soundcheck across Barcelona, Berlin, Cologne and Los Angeles and 4 more. Often billed alongside K-Paul, JayKosy and Hardy Hard. Next up: Das Zimmer, Mannheim on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Cherry is a techno and house artist based in Japan, with 32 gigs on soundcheck a
 
 K-Paul, JayKosy, Hardy Hard
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cherry/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cherry/)*

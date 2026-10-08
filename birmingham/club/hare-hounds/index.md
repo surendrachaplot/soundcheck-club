@@ -1,6 +1,6 @@
 # Hare & Hounds
 
-Hare & Hounds is a music venue in Birmingham with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Kylie Wears Berghaus" on Fri, 9 Oct 2026.
+Hare & Hounds is a music venue in Birmingham with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Kylie Wears Berghaus" on Fri, 9 Oct 2026.
 
 Hare & Hounds is a music venue in Birmingham listed on soundcheck. 7 upcoming gigs, with line-ups including DAR DISKU, Greg Wilson, Horse Meat Disco and Kylie Wears Berghaus and 2 more. See dates, start times and who's playing. 106 High Street; Birmingham, B14 7JZ; United Kingdom.
 
@@ -20,4 +20,4 @@ Hare & Hounds is a music venue in Birmingham listed on soundcheck. 7 upcoming gi
 
 106 High Street; Birmingham, B14 7JZ; United Kingdom, Birmingham
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/hare-hounds/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/hare-hounds/)*

@@ -1,8 +1,8 @@
 # DJ SHADY MF
 
-DJ SHADY MF is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Flex, Vienna on Fri, 16 Oct 2026.
+DJ SHADY MF is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Flex, Vienna on Fri, 16 Oct 2026.
 
-DJ SHADY MF is a techno and trance artist, with 31 gigs on soundcheck across Berlin, Frankfurt, Leipzig and Nürnberg and 1 more. Often billed alongside Bitschu Batschu, DJ Luvhuntah and DJ Lelo. Next up: Flex, Vienna on Fri 16 Oct.
+DJ SHADY MF is a techno and trance artist based in Austria, with 31 gigs on soundcheck across Berlin, Frankfurt, Leipzig and Nürnberg and 1 more. Often billed alongside Bitschu Batschu, DJ Luvhuntah and DJ Lelo. Next up: Flex, Vienna on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ SHADY MF is a techno and trance artist, with 31 gigs on soundcheck across Ber
 
 Bitschu Batschu, DJ Luvhuntah, DJ Lelo
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djshadymf/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djshadymf/)*

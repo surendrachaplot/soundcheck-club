@@ -1,8 +1,8 @@
 # Andy Martin
 
-Andy Martin is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 9 Oct 2026.
+Andy Martin is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 9 Oct 2026.
 
-Andy Martin is a techno and house artist based in Mexico, with 77 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside Niño Arbol, Ogazón and Rene Wise. Next up: Lux Fragil, Lisbon on Fri 9 Oct.
+Andy Martin is a techno and house artist based in Mexico, with 78 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside Niño Arbol, Ogazón and Rene Wise. Next up: Lux Fragil, Lisbon on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Andy Martin is a techno and house artist based in Mexico, with 77 gigs on soundc
 | Fri, 16 Oct 2026 | Cadavra | Madrid |
 | Sat, 17 Oct 2026 | Masada | Milan |
 | Fri, 23 Oct 2026 | TILLATEC | Amsterdam |
+| Sun, 25 Oct 2026 | Lofi | Amsterdam |
 | Fri, 30 Oct 2026 | The Love Inn | Bristol |
 | Sat, 7 Nov 2026 | Zoo | Geneva |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
@@ -33,4 +34,4 @@ Andy Martin is a techno and house artist based in Mexico, with 77 gigs on soundc
 
 Niño Arbol, Ogazón, Rene Wise
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*

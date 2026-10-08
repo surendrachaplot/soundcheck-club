@@ -1,6 +1,6 @@
 # Deer Jade
 
-Deer Jade is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+Deer Jade is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
 Deer Jade is a house and techno artist based in Switzerland, with 114 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 31 more. Often billed alongside Adriatique, Ben Böhmer and LP Giobbi. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
@@ -30,4 +30,4 @@ Deer Jade is a house and techno artist based in Switzerland, with 114 gigs on so
 
 Adriatique, Ben Böhmer, LP Giobbi
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deerjade/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deerjade/)*

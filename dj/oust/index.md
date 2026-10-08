@@ -1,6 +1,6 @@
 # OUST
 
-OUST is a electronic artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Garage Noord, Amsterdam on Fri, 23 Oct 2026.
+OUST is a electronic artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Garage Noord, Amsterdam on Fri, 23 Oct 2026.
 
 OUST is an electronic artist based in Cyprus, with 3 gigs on soundcheck across Amsterdam, Athens and Berlin. Often billed alongside AEREA, Alycia Bezgo and BIIA. Next up: Garage Noord, Amsterdam on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ OUST is an electronic artist based in Cyprus, with 3 gigs on soundcheck across A
 
 AEREA, Alycia Bezgo, BIIA
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oust/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oust/)*

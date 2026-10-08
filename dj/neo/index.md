@@ -1,6 +1,6 @@
 # NeO
 
-NeO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Turbinenhalle, Oberhausen on Sat, 10 Oct 2026.
+NeO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Turbinenhalle, Oberhausen on Sat, 10 Oct 2026.
 
 NeO is a techno and house artist based in United Kingdom, with 21 gigs on soundcheck across Amsterdam, Berlin, London and Melbourne and 7 more. Often billed alongside Cassa Cristano, Klang der Nacht and Black Sun Empire. Next up: Turbinenhalle, Oberhausen on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ NeO is a techno and house artist based in United Kingdom, with 21 gigs on soundc
 
 Cassa Cristano, Klang der Nacht, Black Sun Empire
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neo/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neo/)*

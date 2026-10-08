@@ -1,6 +1,6 @@
 # IG Culture
 
-IG Culture is a Broken Beat and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Carpet Shop, London on Sat, 10 Oct 2026.
+IG Culture is a Broken Beat and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Carpet Shop, London on Sat, 10 Oct 2026.
 
 IG Culture is a broken beat and house artist based in United Kingdom, with 18 gigs on soundcheck across Berlin, Leeds, London and Sheffield. Often billed alongside Alex Phountzi, Izco and Saige Sounds. Next up: The Carpet Shop, London on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ IG Culture is a broken beat and house artist based in United Kingdom, with 18 gi
 
 Alex Phountzi, Izco, Saige Sounds
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/igculture/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/igculture/)*

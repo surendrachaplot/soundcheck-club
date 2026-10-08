@@ -1,14 +1,15 @@
 # ISPA
 
-ISPA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Enter Shibuya, Tokyo on Tue, 13 Oct 2026.
+ISPA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Enter Shibuya, Tokyo on Tue, 13 Oct 2026.
 
-ISPA is a house and techno artist based in Japan, with 68 gigs on soundcheck across Tokyo. Often billed alongside Yuta Yamada, GooPer and Amps. Next up: Enter Shibuya, Tokyo on Tue 13 Oct.
+ISPA is a house and techno artist based in Japan, with 69 gigs on soundcheck across Tokyo. Often billed alongside Yuta Yamada, GooPer and Amps. Next up: Enter Shibuya, Tokyo on Tue 13 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 13 Oct 2026 | Enter Shibuya | Tokyo |
+| Fri, 6 Nov 2026 | Z Maruyama | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ ISPA is a house and techno artist based in Japan, with 68 gigs on soundcheck acr
 
 Yuta Yamada, GooPer, Amps
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ispa/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ispa/)*

@@ -1,6 +1,6 @@
 # Artur M Puga
 
-Artur M Puga is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Studio dB, Berlin on Fri, 30 Oct 2026.
+Artur M Puga is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Studio dB, Berlin on Fri, 30 Oct 2026.
 
 Artur M Puga is a club and experimental artist based in Spain, with 11 gigs on soundcheck across Barcelona, Berlin, London and Madrid. Often billed alongside CÁRPATOS, ABADIR and Bungalovv. Next up: Studio dB, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Artur M Puga is a club and experimental artist based in Spain, with 11 gigs on s
 
 CÁRPATOS, ABADIR, Bungalovv
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arturmpuga/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arturmpuga/)*

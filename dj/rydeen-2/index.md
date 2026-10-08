@@ -1,6 +1,6 @@
 # Rydeen (2)
 
-Rydeen (2) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 9 Oct 2026.
+Rydeen (2) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 9 Oct 2026.
 
 Rydeen is a house and minimal artist based in Georgia, with 53 gigs on soundcheck across Berlin and Tbilisi. Often billed alongside Generali Minerali, Gio Shengelia and DJ Sense. Next up: Mtkvarze, Tbilisi on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Rydeen is a house and minimal artist based in Georgia, with 53 gigs on soundchec
 
 Generali Minerali, Gio Shengelia, DJ Sense
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rydeen-2/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rydeen-2/)*

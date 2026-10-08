@@ -1,8 +1,8 @@
 # bullet tooth
 
-bullet tooth is a Garage and House artist with 14 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at fabric, London on Fri, 9 Oct 2026.
+bullet tooth is a House and Garage artist with 15 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at fabric, London on Fri, 9 Oct 2026.
 
-bullet tooth is a garage and house artist based in United Kingdom, with 133 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 35 more. Often billed alongside Silva Bumpa, Capo Lee and Main Phase. Next up: fabric, London on Fri 9 Oct.
+bullet tooth is a house and garage artist based in United Kingdom, with 134 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 35 more. Often billed alongside Silva Bumpa, Capo Lee and Main Phase. Next up: fabric, London on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ bullet tooth is a garage and house artist based in United Kingdom, with 133 gigs
 
 Silva Bumpa, Capo Lee, Main Phase
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*

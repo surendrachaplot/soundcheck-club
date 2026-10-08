@@ -1,6 +1,6 @@
 # DIRTY YOUTH
 
-DIRTY YOUTH is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at elipamanoke, Leipzig on Sat, 17 Oct 2026.
+DIRTY YOUTH is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at elipamanoke, Leipzig on Sat, 17 Oct 2026.
 
 DIRTY YOUTH is a techno and trance artist based in Germany, with 15 gigs on soundcheck across Leipzig. Often billed alongside TON_AN_, DJ STIMULA and LUZI. Next up: elipamanoke, Leipzig on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ DIRTY YOUTH is a techno and trance artist based in Germany, with 15 gigs on soun
 
 TON_AN_, DJ STIMULA, LUZI (2)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtyyouth/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtyyouth/)*

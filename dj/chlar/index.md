@@ -1,6 +1,6 @@
 # Chlär
 
-Chlär is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at La Comédie De Genève, Geneva on Sat, 17 Oct 2026.
+Chlär is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at La Comédie De Genève, Geneva on Sat, 17 Oct 2026.
 
 Chlär is a techno and house artist based in Switzerland, with 264 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 58 more. Often billed alongside Alarico, Funk Assault and Freddy K. Next up: La Comédie De Genève, Geneva on Sat 17 Oct.
 
@@ -36,4 +36,4 @@ Chlär is a techno and house artist based in Switzerland, with 264 gigs on sound
 
 Alarico, Funk Assault, Freddy K
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chlar/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chlar/)*

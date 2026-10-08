@@ -1,14 +1,15 @@
 # Bÿständer
 
-Bÿständer is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, Vancouver on Sat, 17 Oct 2026.
+Bÿständer is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA, Vancouver on Sat, 17 Oct 2026.
 
-Bÿständer is a techno and industrial artist based in Turkey, with 39 gigs on soundcheck across Montreal and Vancouver. Often billed alongside Behrad Tehrani, C-Star and MED!C. Next up: TBA, Vancouver on Sat 17 Oct.
+Bÿständer is a techno and industrial artist based in Turkey, with 40 gigs on soundcheck across Montreal and Vancouver. Often billed alongside Behrad Tehrani, C-Star and MED!C. Next up: TBA, Vancouver on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | TBA | Vancouver |
+| Sat, 31 Oct 2026 | Frankie's | Vancouver |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Bÿständer is a techno and industrial artist based in Turkey, with 39 gigs on s
 
 Behrad Tehrani, C-Star, MED!C
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bÿstander/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bÿstander/)*

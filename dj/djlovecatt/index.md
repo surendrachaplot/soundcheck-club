@@ -1,6 +1,6 @@
 # DJ LoveCatt
 
-DJ LoveCatt is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Kulturhuset Indre By, Copenhagen on Sun, 18 Oct 2026.
+DJ LoveCatt is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Kulturhuset Indre By, Copenhagen on Sun, 18 Oct 2026.
 
 DJ LoveCatt is a house and disco artist based in Denmark, with 70 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen. Often billed alongside Robin Flux, CAYOOTEE and Ghosten. Next up: Kulturhuset Indre By, Copenhagen on Sun 18 Oct.
 
@@ -27,4 +27,4 @@ DJ LoveCatt is a house and disco artist based in Denmark, with 70 gigs on soundc
 
 Robin Flux, CAYOOTEE, Ghosten
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlovecatt/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlovecatt/)*

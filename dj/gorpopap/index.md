@@ -1,6 +1,6 @@
 # GorpoPap
 
-GorpoPap is a Techno and Footwork artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - ADDRESS SENT TO TICKET HOLDERS BEFORE SHOW, Philadelphia on Fri, 16 Oct 2026.
+GorpoPap is a Techno and Footwork artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - ADDRESS SENT TO TICKET HOLDERS BEFORE SHOW, Philadelphia on Fri, 16 Oct 2026.
 
 GorpoPap is a techno and footwork artist based in United States of America, with 13 gigs on soundcheck across Philadelphia. Often billed alongside Caiya, Blueverbs and Alien Body. Next up: TBA - ADDRESS SENT TO TICKET HOLDERS BEFORE SHOW, Philadelphia on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ GorpoPap is a techno and footwork artist based in United States of America, with
 
 Caiya, Blueverbs, Alien Body
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gorpopap/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gorpopap/)*

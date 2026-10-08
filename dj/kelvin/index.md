@@ -1,14 +1,15 @@
 # Kelvin
 
-Kelvin is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Kroņu iela 23B, Riga, Latvia., Riga on Fri, 13 Nov 2026.
+Kelvin is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Kroņu iela 23B, Riga, Latvia., Riga on Fri, 13 Nov 2026.
 
-Kelvin is a techno and drum & bass artist based in Latvia, with 105 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Bristol and 15 more. Often billed alongside JSUS, Kelvin 373 and Kupris. Next up: TBA - Kroņu iela 23B, Riga, Latvia., Riga on Fri 13 Nov.
+Kelvin is a techno and drum & bass artist based in Latvia, with 106 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Bristol and 15 more. Often billed alongside JSUS, Kelvin 373 and Kupris. Next up: TBA - Kroņu iela 23B, Riga, Latvia., Riga on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | TBA - Kroņu iela 23B, Riga, Latvia. | Riga |
+| Fri, 11 Dec 2026 | Teritorija | Riga |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kelvin is a techno and drum & bass artist based in Latvia, with 105 gigs on soun
 
 JSUS, Kelvin 373, Kupris
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kelvin/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kelvin/)*

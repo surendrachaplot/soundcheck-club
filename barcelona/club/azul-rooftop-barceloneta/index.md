@@ -1,6 +1,6 @@
 # Azul Rooftop Barceloneta
 
-Azul Rooftop Barceloneta is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Lumya X Azul Rooftop" on Fri, 9 Oct 2026.
+Azul Rooftop Barceloneta is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Lumya X Azul Rooftop" on Fri, 9 Oct 2026.
 
 Azul Rooftop Barceloneta is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Dimarziio, ERRANT, Fat-P and Lautaro Deem. See dates, start times and who's playing. Pg. de Joan de Borbó, 101, planta 8, Ciutat Vella, 08038 Barcelona.
 
@@ -15,4 +15,4 @@ Azul Rooftop Barceloneta is a music venue in Barcelona listed on soundcheck. 2 u
 
 Pg. de Joan de Borbó, 101, planta 8, Ciutat Vella, 08038 Barcelona, Barcelona
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/azul-rooftop-barceloneta/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/azul-rooftop-barceloneta/)*

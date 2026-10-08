@@ -1,6 +1,6 @@
 # Krstn (2)
 
-Krstn (2) is a House and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Exit Reality, Singapore on Sat, 10 Oct 2026.
+Krstn (2) is a House and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Exit Reality, Singapore on Sat, 10 Oct 2026.
 
 Krstn is a house and dubstep artist based in Singapore, with 8 gigs on soundcheck across Singapore. Often billed alongside ARESHA, Anny (UK) and Degs. Next up: Exit Reality, Singapore on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Krstn is a house and dubstep artist based in Singapore, with 8 gigs on soundchec
 
 ARESHA, Anny (UK), Degs
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krstn-2/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krstn-2/)*

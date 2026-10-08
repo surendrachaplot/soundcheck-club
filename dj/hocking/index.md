@@ -1,6 +1,6 @@
 # Hocking
 
-Hocking is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Le Maquis Club, Hanoi on Sat, 10 Oct 2026.
+Hocking is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Le Maquis Club, Hanoi on Sat, 10 Oct 2026.
 
 Hocking is a house and minimal artist, with 5 gigs on soundcheck across Bangkok, Hanoi and London. Often billed alongside Dusan Nikolic, Feelz and Jai Dee. Next up: Le Maquis Club, Hanoi on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ Hocking is a house and minimal artist, with 5 gigs on soundcheck across Bangkok,
 
 Dusan Nikolic, Feelz, Jai Dee
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hocking/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hocking/)*

@@ -1,8 +1,8 @@
 # Matroda
 
-Matroda is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Big Night Live, Boston on Sat, 10 Oct 2026.
+Matroda is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Big Night Live, Boston on Sat, 10 Oct 2026.
 
-Matroda is a house and tech house artist based in United States of America, with 80 gigs on soundcheck across Austin, Basel, Berlin and Boston and 21 more. Often billed alongside J. Worra, Mary Droppinz and Max Styler. Next up: Big Night Live, Boston on Sat 10 Oct.
+Matroda is a house and tech house artist based in United States of America, with 81 gigs on soundcheck across Austin, Basel, Berlin and Boston and 22 more. Often billed alongside J. Worra, Mary Droppinz and Max Styler. Next up: Big Night Live, Boston on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Matroda is a house and tech house artist based in United States of America, with
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Big Night Live | Boston |
 | Fri, 30 Oct 2026 | Edmonton Expo Center | Edmonton |
+| Fri, 13 Nov 2026 | Ice Cream Factory | Perth |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
 
 ## Recently played
@@ -27,4 +28,4 @@ Matroda is a house and tech house artist based in United States of America, with
 
 J. Worra, Mary Droppinz, Max Styler
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matroda/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matroda/)*

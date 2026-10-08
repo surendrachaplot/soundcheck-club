@@ -1,6 +1,6 @@
 # Panke
 
-Panke is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is ">>Who got da Props?!?<< (Open Mic with DJ BOOM BAP) ONOSIZO (Walkin´ Large) & DJ DISCJOCKEY)" on Wed, 7 Oct 2026.
+Panke is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Sherryaeri presents: Rage'N'Bounce - Stay Core - TDC 2026" on Thu, 8 Oct 2026.
 
 Panke is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Alex Wilcox, BBBBBBB, Catnapp and Chris Imler and 2 more. See dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
@@ -8,7 +8,6 @@ Panke is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with li
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 7 Oct 2026 | >>Who got da Props?!?<< (Open Mic with DJ BOOM BAP) ONOSIZO (Walkin´ Large) & DJ DISCJOCKEY) |  |
 | Thu, 8 Oct 2026 | Sherryaeri presents: Rage'N'Bounce - Stay Core - TDC 2026 | Jana, Sherryaeri, Soyklo |
 | Sat, 10 Oct 2026 | Outside the BigMac, vol.5: October Edition | Chris Imler |
 | Thu, 15 Oct 2026 | FLIGHTMODE |  |
@@ -18,9 +17,10 @@ Panke is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with li
 | Fri, 30 Oct 2026 | FUKSTEP | Fukinsei, Grove, futura cimice |
 | Sat, 31 Oct 2026 | Creature Kin's Horror Show | Moreno, malicedeejay |
 | Fri, 6 Nov 2026 | ACT!ON: BBBBBBB, Catnapp, Alex Wilcox  | Alex Wilcox, BBBBBBB, Catnapp |
+| Fri, 13 Nov 2026 | Outside the BigMac, vol 6: November Edition | Malu |
 
 ## Address
 
 Gerichtstraße 23, 13347 Berlin, Berlin
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*

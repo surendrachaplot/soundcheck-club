@@ -1,6 +1,6 @@
 # Haunted House An Underground Halloween Experience at Per Ankh Detroit Entheogenic Church
 
-Haunted House An Underground Halloween Experience at Per Ankh Detroit Entheogenic Church on Fri 30 Oct, Detroit. 3 artists: Dj Ryte Nou, Marcus NF Harris and Ryan Sadorus. See the line-up on soundcheck.
+Haunted House An Underground Halloween Experience at Per Ankh Detroit Entheogenic Church on Fri 30 Oct, Detroit. 3 artists: Dj Ryte Nou, Marcus NF Harris and Ryan Sadorus. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

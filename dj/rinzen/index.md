@@ -1,6 +1,6 @@
 # Rinzen
 
-Rinzen is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Spybar, Chicago on Fri, 9 Oct 2026.
+Rinzen is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Spybar, Chicago on Fri, 9 Oct 2026.
 
 Rinzen is a techno and house artist based in United States of America, with 45 gigs on soundcheck across Amsterdam, Austin, Chicago and Denver and 10 more. Often billed alongside Robby East, Le Youth and Massane. Next up: Spybar, Chicago on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ Rinzen is a techno and house artist based in United States of America, with 45 g
 
 Robby East, Le Youth, Massane
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rinzen/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rinzen/)*

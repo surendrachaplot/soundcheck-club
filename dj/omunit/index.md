@@ -1,13 +1,14 @@
 # Om Unit
 
-Om Unit is a Bass and Dub artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Menagerie, Belfast on Sat, 5 Dec 2026.
+Om Unit is a Bass and Dub artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Ääniwalli, Helsinki on Sat, 10 Oct 2026.
 
-Om Unit is a bass and dub artist based in United Kingdom, with 110 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Belfast and 40 more. Often billed alongside Ehua, Beatrice M. and DVS1. Next up: The Menagerie, Belfast on Sat 5 Dec.
+Om Unit is a bass and dub artist based in United Kingdom, with 111 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Belfast and 41 more. Often billed alongside Ehua, Beatrice M. and DVS1. Next up: Ääniwalli, Helsinki on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Ääniwalli | Helsinki |
 | Sat, 5 Dec 2026 | The Menagerie | Belfast |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
@@ -26,4 +27,4 @@ Om Unit is a bass and dub artist based in United Kingdom, with 110 gigs on sound
 
 Ehua, Beatrice M., DVS1
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omunit/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omunit/)*

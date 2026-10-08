@@ -1,6 +1,6 @@
 # Sodom
 
-Sodom is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 5 Dec 2026.
+Sodom is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 5 Dec 2026.
 
 Sodom is a techno and ebm artist based in Germany, with 10 gigs on soundcheck across Hamburg and Kyoto. Often billed alongside Linh, co:co and Alex Benz. Next up: Uebel & Gefährlich, Hamburg on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Sodom is a techno and ebm artist based in Germany, with 10 gigs on soundcheck ac
 
 Linh (2), co:co, Alex Benz
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sodom/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sodom/)*

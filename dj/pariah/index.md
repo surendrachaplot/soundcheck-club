@@ -1,8 +1,8 @@
 # Pariah
 
-Pariah is a Techno and Bass artist with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at OHM, Berlin on Fri, 9 Oct 2026.
+Pariah is a Techno and Bass artist with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at OHM, Berlin on Fri, 9 Oct 2026.
 
-Pariah is a techno and bass artist based in United Kingdom, with 167 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside mad miran, Blawan and Or:la. Next up: OHM, Berlin on Fri 9 Oct.
+Pariah is a techno and bass artist based in United Kingdom, with 168 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside mad miran, Blawan and Or:la. Next up: OHM, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Pariah is a techno and bass artist based in United Kingdom, with 167 gigs on sou
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Sat, 24 Oct 2026 | Klaproos | Amsterdam |
 | Sat, 24 Oct 2026 | Radio Radio | Amsterdam |
+| Fri, 30 Oct 2026 | Ankali & Planeta Za | Prague |
 | Fri, 6 Nov 2026 | Marble Bar | Detroit |
 | Fri, 6 Nov 2026 | TRANSMISSION DC | Washington DC |
 | Sat, 7 Nov 2026 | Nowadays | New York City |
@@ -34,4 +35,4 @@ Pariah is a techno and bass artist based in United Kingdom, with 167 gigs on sou
 
 mad miran, Blawan, Or:la
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pariah/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pariah/)*

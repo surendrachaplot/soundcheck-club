@@ -1,6 +1,6 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "KLUENGEL im Artheater with DJ SEXSTASY" on Fri, 9 Oct 2026.
+Artheater is a music venue in Cologne with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "KLUENGEL im Artheater with DJ SEXSTASY" on Fri, 9 Oct 2026.
 
 Artheater is a music venue in Cologne listed on soundcheck. 7 upcoming gigs, with line-ups including 909 RACING TEAM, Alalkih, DJ SEXSTASY and Domenik Deckert and 2 more. See dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
@@ -20,4 +20,4 @@ Artheater is a music venue in Cologne listed on soundcheck. 7 upcoming gigs, wit
 
 Ehrenfeldgürtel 127; 50823 Cologne; Germany, Cologne
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*

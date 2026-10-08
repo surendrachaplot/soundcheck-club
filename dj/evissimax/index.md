@@ -1,14 +1,15 @@
 # Evissimax
 
-Evissimax is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Karmen Camina, Strasbourg on Sat, 31 Oct 2026.
+Evissimax is a Techno and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Karmen Camina, Strasbourg on Sat, 31 Oct 2026.
 
-Evissimax is a techno and baile funk artist based in Italy, with 29 gigs on soundcheck across Amsterdam, Athens, Berlin and Glasgow and 8 more. Often billed alongside Slim Soledad, Aiden (DE) and Faster Horses. Next up: Karmen Camina, Strasbourg on Sat 31 Oct.
+Evissimax is a techno and baile funk artist based in Italy, with 30 gigs on soundcheck across Amsterdam, Athens, Berlin and Cologne and 9 more. Often billed alongside Slim Soledad, Aiden (DE) and Faster Horses. Next up: Karmen Camina, Strasbourg on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Karmen Camina | Strasbourg |
+| Wed, 11 Nov 2026 | fi | Cologne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Evissimax is a techno and baile funk artist based in Italy, with 29 gigs on soun
 
 Slim Soledad, Aiden (DE), Faster Horses
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evissimax/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evissimax/)*

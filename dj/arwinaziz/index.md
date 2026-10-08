@@ -1,6 +1,6 @@
 # ARWIN AZIZ
 
-ARWIN AZIZ is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Kaufleuten, Zurich on Sat, 10 Oct 2026.
+ARWIN AZIZ is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Kaufleuten, Zurich on Sat, 10 Oct 2026.
 
 ARWIN AZIZ is a tech house and house artist based in Switzerland, with 18 gigs on soundcheck across Zurich. Often billed alongside And Hazel, De La Maso and Alessio da Silva. Next up: Kaufleuten, Zurich on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ ARWIN AZIZ is a tech house and house artist based in Switzerland, with 18 gigs o
 
 And Hazel, De La Maso, Alessio da Silva
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arwinaziz/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arwinaziz/)*

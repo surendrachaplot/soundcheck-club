@@ -1,6 +1,6 @@
 # RUND with Oliver Koletzki at Hive Club
 
-RUND with Oliver Koletzki at Hive Club on Fri 6 Nov, Zurich. 5 artists: CHIEF TORKEL, Dora Dox, Natch and Oliver Koletzki and 1 more. See the line-up on soundcheck.
+RUND with Oliver Koletzki at Hive Club on Fri 6 Nov, Zurich. 5 artists: CHIEF TORKEL, Dora Dox, Natch and Oliver Koletzki and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

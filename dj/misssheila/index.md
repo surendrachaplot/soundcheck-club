@@ -1,6 +1,6 @@
 # Miss Sheila
 
-Miss Sheila is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Praia de Esmoriz Beach, Porto on Sun, 11 Oct 2026.
+Miss Sheila is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Praia de Esmoriz Beach, Porto on Sun, 11 Oct 2026.
 
 Miss Sheila is a techno and tech house artist based in Portugal, with 19 gigs on soundcheck across Barcelona, Lisbon, Porto and Toronto. Often billed alongside Ornella, Carlos Manaça and Dub Tiger. Next up: Praia de Esmoriz Beach, Porto on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Miss Sheila is a techno and tech house artist based in Portugal, with 19 gigs on
 
 Ornella, Carlos Manaça, Dub Tiger
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misssheila/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misssheila/)*

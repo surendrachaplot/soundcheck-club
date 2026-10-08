@@ -1,8 +1,8 @@
 # Jaeger
 
-Jaeger is a music venue in Oslo with 14 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Helt Texas - Ole HK & Casablanca 303" on Thu, 8 Oct 2026.
+Jaeger is a music venue in Oslo with 15 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Helt Texas - Ole HK & Casablanca 303" on Thu, 8 Oct 2026.
 
-Jaeger is a music venue in Oslo listed on soundcheck. 14 upcoming gigs, with line-ups including Anthea, Casablanca 303, Einmusik and Finnebassen and 2 more. See dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
+Jaeger is a music venue in Oslo listed on soundcheck. 15 upcoming gigs, with line-ups including Anthea, Casablanca 303, Einmusik and Finnebassen and 2 more. See dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Jaeger is a music venue in Oslo listed on soundcheck. 14 upcoming gigs, with lin
 | Sat, 17 Oct 2026 | Double Trouble: Prins Thomas + Isoebel | Prins Thomas |
 | Fri, 23 Oct 2026 | Frædag x LCJ: Jafunk + Sex Judas + Skatebård + G-HA & Olanskii + Ivaylo | G-HA, Ivaylo, Jafunk, Olanskii, Sex Judas feat. Ricky, Skatebård |
 | Sat, 24 Oct 2026 | Sunkissed: Yu Su + G-HA & Olanskii + Vinny Villbass + Sirkus Sunkissed | G-HA, Olanskii, Vinny Villbass, Yu Su |
+| Sun, 25 Oct 2026 | Moving Heads: Trulz & Robin |  |
 | Wed, 28 Oct 2026 | Oslo Word: Susobrino + Technocute | Susobrino, Technocute |
 | Thu, 29 Oct 2026 | Oslo World x Helt Texas: Anthea + Ole HK | Anthea |
-| Fri, 30 Oct 2026 | Oslo World x Frædag: Quantic + G-HA & Olanskii + Platina Rosa | G-HA, Olanskii, Quantic |
 
 ## Address
 
 Grensen 9; 0159 Oslo; Norway,, Oslo
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*

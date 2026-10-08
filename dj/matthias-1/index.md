@@ -1,6 +1,6 @@
 # Matthias (1)
 
-Matthias (1) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at DURO, Milan on Sat, 24 Oct 2026.
+Matthias (1) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at DURO, Milan on Sat, 24 Oct 2026.
 
 Matthias is a house and techno artist based in Germany, with 109 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 35 more. Often billed alongside So-Fi, Ancut and Brasi. Next up: DURO, Milan on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Matthias is a house and techno artist based in Germany, with 109 gigs on soundch
 
 So-Fi, Ancut, Brasi
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthias-1/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthias-1/)*

@@ -1,13 +1,14 @@
 # Fizch
 
-Fizch is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Los Angeles, Los Angeles on Fri, 20 Nov 2026.
+Fizch is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Frankie's, Vancouver on Sat, 31 Oct 2026.
 
-Fizch is a techno and house artist based in Canada, with 80 gigs on soundcheck across Amsterdam, Los Angeles, Toronto and Vancouver. Often billed alongside DK PAU, POPU and C-Star. Next up: TBA - Los Angeles, Los Angeles on Fri 20 Nov.
+Fizch is a techno and house artist based in Canada, with 81 gigs on soundcheck across Amsterdam, Los Angeles, Toronto and Vancouver. Often billed alongside DK PAU, POPU and C-Star. Next up: Frankie's, Vancouver on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Frankie's | Vancouver |
 | Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
@@ -27,4 +28,4 @@ Fizch is a techno and house artist based in Canada, with 80 gigs on soundcheck a
 
 DK PAU, POPU, C-Star
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fizch/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fizch/)*

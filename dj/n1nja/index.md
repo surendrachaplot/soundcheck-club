@@ -1,6 +1,6 @@
 # N1NJA
 
-N1NJA is a Deep House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, London on Sat, 10 Oct 2026.
+N1NJA is a Deep House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA, London on Sat, 10 Oct 2026.
 
 N1NJA is a deep house and afro tech artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Berlin, Ibiza and London. Often billed alongside B.o.T, Kakura and Nhii. Next up: TBA, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ N1NJA is a deep house and afro tech artist based in United Kingdom, with 18 gigs
 
 B.o.T, Kakura, Nhii
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n1nja/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n1nja/)*

@@ -1,6 +1,6 @@
 # DJ cries in Spanish
 
-DJ cries in Spanish is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Panke, Berlin on Fri, 23 Oct 2026.
+DJ cries in Spanish is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Panke, Berlin on Fri, 23 Oct 2026.
 
 DJ cries in Spanish is an experimental and club artist, with 10 gigs on soundcheck across Barcelona, Berlin, Madrid and Valencia. Often billed alongside DJ GHEPARD, DJ Hristos and Antonia XM. Next up: Panke, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ DJ cries in Spanish is an experimental and club artist, with 10 gigs on soundche
 
 DJ GHEPARD, DJ Hristos, Antonia XM
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcriesinspanish/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcriesinspanish/)*

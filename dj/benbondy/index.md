@@ -1,6 +1,6 @@
 # Ben Bondy
 
-Ben Bondy is a Ambient and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Process PDX, Portland on Thu, 8 Oct 2026.
+Ben Bondy is a Ambient and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Process PDX, Portland on Thu, 8 Oct 2026.
 
 Ben Bondy is an ambient and bass artist based in United States of America, with 50 gigs on soundcheck across Amsterdam, Berlin, Detroit and Glasgow and 10 more. Often billed alongside Special Guest DJ, Succubass and Yumi. Next up: Process PDX, Portland on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Ben Bondy is an ambient and bass artist based in United States of America, with 
 
 Special Guest DJ, Succubass, Yumi
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benbondy/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benbondy/)*

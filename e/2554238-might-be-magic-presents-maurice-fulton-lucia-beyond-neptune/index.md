@@ -1,6 +1,6 @@
-# Might Be Magic presents: Maurice Fulton + Lucia Beyond + Neptune at Xuxa
+# Might Be Magic presents: Maurice Fulton + Lucia Beyond + Neptune (AFTERS) at Xuxa
 
-Might Be Magic presents: Maurice Fulton + Lucia Beyond + Neptune at Xuxa on Fri 16 Oct, Austin. 2 artists: Lucía Beyond and Maurice Fulton. House and Acid. See the line-up on soundcheck.
+Might Be Magic presents: Maurice Fulton + Lucia Beyond + Neptune (AFTERS) at Xuxa on Fri 16 Oct, Austin. 2 artists: Lucía Beyond and Maurice Fulton. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

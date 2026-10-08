@@ -1,6 +1,6 @@
 # ClubKid
 
-ClubKid is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Crust Basement, Athens on Sat, 10 Oct 2026.
+ClubKid is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Crust Basement, Athens on Sat, 10 Oct 2026.
 
 ClubKid is a house and techno artist based in Greece, with 162 gigs on soundcheck across Athens, Berlin, Bucharest and Mexico City and 2 more. Often billed alongside .Fro., Bill Sanders and Maria Politi. Next up: Crust Basement, Athens on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ ClubKid is a house and techno artist based in Greece, with 162 gigs on soundchec
 
 .Fro., Bill Sanders, Maria Politi
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubkid/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubkid/)*

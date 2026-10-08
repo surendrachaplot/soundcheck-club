@@ -1,6 +1,6 @@
 # Wata Igarashi
 
-Wata Igarashi is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TRANSMISSION DC, Washington DC on Thu, 8 Oct 2026.
+Wata Igarashi is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TRANSMISSION DC, Washington DC on Thu, 8 Oct 2026.
 
 Wata Igarashi is a techno and house artist based in Japan, with 218 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: TRANSMISSION DC, Washington DC on Thu 8 Oct.
 
@@ -35,4 +35,4 @@ Wata Igarashi is a techno and house artist based in Japan, with 218 gigs on soun
 
 DJ Nobu, CCL, Octo Octa
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*

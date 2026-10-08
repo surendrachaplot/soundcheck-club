@@ -1,6 +1,6 @@
 # Gino Da Koda
 
-Gino Da Koda is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at MeWe Amsterdam, Amsterdam on Fri, 9 Oct 2026.
+Gino Da Koda is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at MeWe Amsterdam, Amsterdam on Fri, 9 Oct 2026.
 
 Gino Da Koda is a tech house and house artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam, London, Rotterdam and Zurich. Often billed alongside Nick Garcia, AAT (NL) and Gils Promor. Next up: MeWe Amsterdam, Amsterdam on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Gino Da Koda is a tech house and house artist based in Netherlands, with 13 gigs
 
 Nick Garcia, AAT (NL), Gils Promor
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ginodakoda/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ginodakoda/)*

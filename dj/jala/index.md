@@ -1,6 +1,6 @@
 # JALA
 
-JALA is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Fri, 9 Oct 2026.
+JALA is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Fri, 9 Oct 2026.
 
 JALA is a techno and tech house artist, with 13 gigs on soundcheck across Madrid and Valencia. Often billed alongside Cynth, Jesus Riaño and Gabriel D'or & Bordoy. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ JALA is a techno and tech house artist, with 13 gigs on soundcheck across Madrid
 
 Cynth, Jesus Riaño, Gabriel D'or & Bordoy
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jala/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jala/)*

@@ -1,13 +1,14 @@
 # Chloe Battelle
 
-Chloe Battelle is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Outer Heaven, New York City on Fri, 16 Oct 2026.
+Chloe Battelle is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Meteor Studio, Tbilisi on Fri, 9 Oct 2026.
 
-Chloe Battelle is a house and techno artist based in United States of America, with 55 gigs on soundcheck across Amsterdam, New York City, San Francisco/Oakland and Tbilisi and 1 more. Often billed alongside gabby cocco, 98dots and Kurilo. Next up: Outer Heaven, New York City on Fri 16 Oct.
+Chloe Battelle is a house and techno artist based in United States of America, with 56 gigs on soundcheck across Amsterdam, New York City, San Francisco/Oakland and Tbilisi and 1 more. Often billed alongside gabby cocco, 98dots and Kurilo. Next up: Meteor Studio, Tbilisi on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Meteor Studio | Tbilisi |
 | Fri, 16 Oct 2026 | Outer Heaven | New York City |
 | Sat, 24 Oct 2026 | Bordello Aperitivo | Amsterdam |
 | Fri, 30 Oct 2026 | Signal | New York City |
@@ -27,4 +28,4 @@ Chloe Battelle is a house and techno artist based in United States of America, w
 
 gabby cocco, 98dots, Kurilo
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chloebattelle/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chloebattelle/)*

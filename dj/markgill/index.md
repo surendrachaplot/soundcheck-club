@@ -1,6 +1,6 @@
 # Mark Gill
 
-Mark Gill is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at berlinClub, Madrid on Fri, 9 Oct 2026.
+Mark Gill is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at berlinClub, Madrid on Fri, 9 Oct 2026.
 
 Mark Gill is a house and techno artist based in Ireland, with 74 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Budapest and 8 more. Often billed alongside Tania Just, Murrin and Big Leg. Next up: berlinClub, Madrid on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Mark Gill is a house and techno artist based in Ireland, with 74 gigs on soundch
 
 Tania Just, Murrin, Big Leg
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markgill/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markgill/)*

@@ -1,13 +1,14 @@
 # Sweetpea
 
-Sweetpea is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
+Sweetpea is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Club Cheek, London on Sat, 24 Oct 2026.
 
-Sweetpea is a drum & bass and jungle artist based in United Kingdom, with 55 gigs on soundcheck across Berlin, Brighton, Bristol and Edinburgh and 7 more. Often billed alongside Dillinja, Decibella and Minor Forms. Next up: DRUMSHEDS, London on Sat 7 Nov.
+Sweetpea is a drum & bass and jungle artist based in United Kingdom, with 56 gigs on soundcheck across Berlin, Brighton, Bristol and Edinburgh and 7 more. Often billed alongside Dillinja, Decibella and Mantra. Next up: Club Cheek, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Club Cheek | London |
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |
 | Fri, 4 Dec 2026 | The Prospect Building | Bristol |
 
@@ -24,6 +25,6 @@ Sweetpea is a drum & bass and jungle artist based in United Kingdom, with 55 gig
 
 ## Shares bills with
 
-Dillinja, Decibella, Minor Forms
+Dillinja, Decibella, Mantra
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetpea/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetpea/)*

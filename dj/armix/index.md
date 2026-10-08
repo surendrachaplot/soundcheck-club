@@ -1,14 +1,14 @@
 # ARMIX
 
-ARMIX is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Sainte-Catherine Hall, Montreal on Sat, 31 Oct 2026.
+ARMIX is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Entrepôts Dominion, Les, Montreal on Sat, 31 Oct 2026.
 
-ARMIX is a techno and house artist, with 21 gigs on soundcheck across Mexico City, Montreal and Vancouver. Often billed alongside Techomå, ALÜEN and ArioVistus. Next up: Sainte-Catherine Hall, Montreal on Sat 31 Oct.
+ARMIX is a techno and house artist, with 21 gigs on soundcheck across Mexico City, Montreal and Vancouver. Often billed alongside Techomå, ALÜEN and ArioVistus. Next up: Entrepôts Dominion, Les, Montreal on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Sainte-Catherine Hall | Montreal |
+| Sat, 31 Oct 2026 | Entrepôts Dominion, Les | Montreal |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ ARMIX is a techno and house artist, with 21 gigs on soundcheck across Mexico Cit
 
 Techomå, ALÜEN, ArioVistus
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armix/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armix/)*

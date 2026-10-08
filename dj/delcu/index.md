@@ -1,14 +1,15 @@
 # Delcu
 
-Delcu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Sonora Garden, Sao Paulo on Fri, 20 Nov 2026.
+Delcu is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Sonora Garden, Sao Paulo on Fri, 20 Nov 2026.
 
-Delcu is a house and techno artist based in Brazil, with 45 gigs on soundcheck across Berlin, Ibiza, Lisbon and Porto and 2 more. Often billed alongside Kontronatura, Milian Dolla and Suelen Mesmo. Next up: Sonora Garden, Sao Paulo on Fri 20 Nov.
+Delcu is a house and techno artist based in Brazil, with 46 gigs on soundcheck across Berlin, Ibiza, Lisbon and Porto and 2 more. Often billed alongside EVEHIVE, Kontronatura and Milian Dolla. Next up: Sonora Garden, Sao Paulo on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Sonora Garden | Sao Paulo |
+| Sat, 28 Nov 2026 | Barraco SP /CO | Sao Paulo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Delcu is a house and techno artist based in Brazil, with 45 gigs on soundcheck a
 
 ## Shares bills with
 
-Kontronatura, Milian Dolla, Suelen Mesmo
+EVEHIVE, Kontronatura, Milian Dolla
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delcu/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delcu/)*

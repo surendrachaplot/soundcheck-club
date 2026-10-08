@@ -1,8 +1,8 @@
 # Deeper Waters
 
-Deeper Waters is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Temple Bar, Detroit on Fri, 9 Oct 2026.
+Deeper Waters is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Temple Bar, Detroit on Fri, 9 Oct 2026.
 
-Deeper Waters is a house and funk / soul artist, with 52 gigs on soundcheck across Detroit. Often billed alongside Mike Agent X Clark, Pitchblnd and Ryan Sadorus. Next up: Temple Bar, Detroit on Fri 9 Oct.
+Deeper Waters is a house and funk / soul artist based in United States of America, with 52 gigs on soundcheck across Detroit. Often billed alongside Mike Agent X Clark, Pitchblnd and Ryan Sadorus. Next up: Temple Bar, Detroit on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Deeper Waters is a house and funk / soul artist, with 52 gigs on soundcheck acro
 
 Mike Agent X Clark, Pitchblnd, Ryan Sadorus
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deeperwaters/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deeperwaters/)*

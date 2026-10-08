@@ -1,6 +1,6 @@
 # Kaycee
 
-Kaycee is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Big Romance, Dublin on Sat, 17 Oct 2026.
+Kaycee is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Big Romance, Dublin on Sat, 17 Oct 2026.
 
 Kaycee is a house and techno artist based in Ireland, with 33 gigs on soundcheck across Dublin. Often billed alongside DART, Kayleigh Glynn and ShaunaDee. Next up: The Big Romance, Dublin on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Kaycee is a house and techno artist based in Ireland, with 33 gigs on soundcheck
 
 DART, Kayleigh Glynn, ShaunaDee
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaycee/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaycee/)*

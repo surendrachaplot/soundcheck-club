@@ -1,6 +1,6 @@
 # Riordan at 1015 Folsom
 
-Riordan at 1015 Folsom on Fri 9 Oct, San Francisco/Oakland. 1 artist: Riordan. House and Tech House. See the line-up on soundcheck.
+Riordan at 1015 Folsom on Fri 9 Oct, San Francisco/Oakland. 4 artists: Hunna, Niku, Riordan and Thalia. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ Riordan at 1015 Folsom on Fri 9 Oct, San Francisco/Oakland. 1 artist: Riordan. H
 
 ## Line-up
 
+- Hunna
+- Niku
 - Riordan
+- Thalia
 
 *Source: [soundcheck](https://soundcheck.club/e/2493622-riordan-at-1015-folsom/)*

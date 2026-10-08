@@ -1,6 +1,6 @@
 # DJ Unholy
 
-DJ Unholy is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Base Events Venue, Cyprus on Fri, 6 Aug 2027.
+DJ Unholy is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Base Events Venue, Cyprus on Fri, 6 Aug 2027.
 
 DJ Unholy is a trance and techno artist based in Germany, with 21 gigs on soundcheck across Berlin, Cyprus, Munich and Stuttgart. Often billed alongside Fabian Kaa, Caldarelli and Liroy. Next up: Base Events Venue, Cyprus on Fri 6 Aug.
 
@@ -25,4 +25,4 @@ DJ Unholy is a trance and techno artist based in Germany, with 21 gigs on soundc
 
 Fabian Kaa, Caldarelli, Liroy
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djunholy/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djunholy/)*

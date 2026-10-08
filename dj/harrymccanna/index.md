@@ -1,8 +1,8 @@
 # Harry McCanna
 
-Harry McCanna is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at fabric, London on Sat, 17 Oct 2026.
+Harry McCanna is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at fabric, London on Sat, 17 Oct 2026.
 
-Harry McCanna is a house and tech house artist based in United Kingdom, with 135 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: fabric, London on Sat 17 Oct.
+Harry McCanna is a house and tech house artist based in United Kingdom, with 136 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: fabric, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Harry McCanna is a house and tech house artist based in United Kingdom, with 135
 | Sat, 17 Oct 2026 | fabric | London |
 | Mon, 26 Oct 2026 | TILLATEC | Amsterdam |
 | Sat, 31 Oct 2026 | Gaffe | London |
+| Sat, 21 Nov 2026 | TBA - East Williamsburg | New York City |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Harry McCanna is a house and tech house artist based in United Kingdom, with 135
 
 Sam Bangura, Dale Mussington, NorthSouth
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*

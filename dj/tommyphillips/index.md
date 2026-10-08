@@ -1,6 +1,6 @@
 # Tommy Phillips
 
-Tommy Phillips is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Camp and Furnace, Liverpool on Fri, 9 Oct 2026.
+Tommy Phillips is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Camp and Furnace, Liverpool on Fri, 9 Oct 2026.
 
 Tommy Phillips is a house and tech house artist based in United Kingdom, with 77 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Austin and 29 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: Camp and Furnace, Liverpool on Fri 9 Oct.
 
@@ -36,4 +36,4 @@ Tommy Phillips is a house and tech house artist based in United Kingdom, with 77
 
 Joss Dean, Max Dean, Luke Dean_
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*

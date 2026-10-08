@@ -1,6 +1,6 @@
 # lōrenzo
 
-lōrenzo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Secret Location, Amsterdam on Sat, 7 Nov 2026.
+lōrenzo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Secret Location, Amsterdam on Sat, 7 Nov 2026.
 
 lōrenzo is a techno and house artist based in Italy, with 28 gigs on soundcheck across Amsterdam, Milan and Rome. Often billed alongside Pancratio, AGNES (IT) and Fabrizio Sala. Next up: TBA - Secret Location, Amsterdam on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ lōrenzo is a techno and house artist based in Italy, with 28 gigs on soundcheck
 
 Pancratio, AGNES (IT), Fabrizio Sala
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzo/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzo/)*

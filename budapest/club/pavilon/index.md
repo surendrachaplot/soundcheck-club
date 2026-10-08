@@ -1,6 +1,6 @@
 # Pavilon
 
-Pavilon is a music venue in Budapest with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Chily Team a Pavilonban" on Fri, 9 Oct 2026.
+Pavilon is a music venue in Budapest with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Chily Team a Pavilonban" on Fri, 9 Oct 2026.
 
 Pavilon is a music venue in Budapest listed on soundcheck. 3 upcoming gigs, with line-ups including alma, Ben Dover, Blackman and DJ Boka and 2 more. See dates, start times and who's playing. Nehru part Budapest, Hungary 1093.
 
@@ -16,4 +16,4 @@ Pavilon is a music venue in Budapest listed on soundcheck. 3 upcoming gigs, with
 
 Nehru part Budapest, Hungary 1093, Budapest
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pavilon/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pavilon/)*

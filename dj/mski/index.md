@@ -1,6 +1,6 @@
 # MSKI
 
-MSKI is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 10 Oct 2026.
+MSKI is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 10 Oct 2026.
 
 MSKI is a techno and trance artist based in Germany, with 11 gigs on soundcheck across Frankfurt. Often billed alongside Dawit Asfaha, Disguised and Frederic.. Next up: Tokonoma Club, Frankfurt on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ MSKI is a techno and trance artist based in Germany, with 11 gigs on soundcheck 
 
 Dawit Asfaha, Disguised, Frederic.
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mski/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mski/)*

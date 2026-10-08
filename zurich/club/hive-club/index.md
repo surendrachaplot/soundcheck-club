@@ -1,6 +1,6 @@
 # Hive Club
 
-Hive Club is a music venue in Zurich with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Labil mit Stil" on Fri, 9 Oct 2026.
+Hive Club is a music venue in Zurich with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Labil mit Stil" on Fri, 9 Oct 2026.
 
 Hive Club is a music venue in Zurich listed on soundcheck. 10 upcoming gigs, with line-ups including 1luu, Alex Belluscio, Caromelle and CHIEF TORKEL and 2 more. See dates, start times and who's playing. Geroldstrasse 5; 8005, Zurich; Switzerland.
 
@@ -23,4 +23,4 @@ Hive Club is a music venue in Zurich listed on soundcheck. 10 upcoming gigs, wit
 
 Geroldstrasse 5; 8005, Zurich; Switzerland, Zurich
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*

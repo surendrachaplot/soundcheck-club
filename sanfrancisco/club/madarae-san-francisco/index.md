@@ -1,6 +1,6 @@
 # Madarae San Francisco
 
-Madarae San Francisco is a music venue in San Francisco/Oakland with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Malive (Maccabi House, MoBlack, Kompakt, Dynamic)" on Fri, 9 Oct 2026.
+Madarae San Francisco is a music venue in San Francisco/Oakland with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Malive (Maccabi House, MoBlack, Kompakt, Dynamic)" on Fri, 9 Oct 2026.
 
 Madarae San Francisco is a music venue in San Francisco/Oakland listed on soundcheck. 9 upcoming gigs, with line-ups including Autograf, Deer (US), Goldcap and MAGA and 2 more. See dates, start times and who's playing. 46 Minna St, San Francisco, CA 94105, United States.
 
@@ -22,4 +22,4 @@ Madarae San Francisco is a music venue in San Francisco/Oakland listed on soundc
 
 46 Minna St, San Francisco, CA 94105, United States, San Francisco/Oakland
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madarae-san-francisco/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madarae-san-francisco/)*

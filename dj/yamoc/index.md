@@ -1,6 +1,6 @@
 # Yamoc
 
-Yamoc is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Sabagiro, Tbilisi on Sat, 10 Oct 2026.
+Yamoc is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Sabagiro, Tbilisi on Sat, 10 Oct 2026.
 
 Yamoc is a house and progressive house artist, with 43 gigs on soundcheck across Tbilisi. Often billed alongside Seqta, Tobako Tween and Toko k. Next up: Sabagiro, Tbilisi on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Yamoc is a house and progressive house artist, with 43 gigs on soundcheck across
 
 Seqta, Tobako Tween, Toko k
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamoc/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamoc/)*

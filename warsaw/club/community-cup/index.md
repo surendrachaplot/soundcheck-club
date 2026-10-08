@@ -1,6 +1,6 @@
 # Community Cup
 
-Community Cup is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "Angel Dust POP-UP" on Fri, 9 Oct 2026.
+Community Cup is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "Angel Dust POP-UP" on Fri, 9 Oct 2026.
 
 Community Cup is a music venue in Warsaw listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Community Cup is a music venue in Warsaw listed on soundcheck. 1 upcoming gig. S
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Angel Dust POP-UP |  |
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/community-cup/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/community-cup/)*

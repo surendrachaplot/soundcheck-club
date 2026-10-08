@@ -1,6 +1,6 @@
 # MARBLE RYE
 
-MARBLE RYE is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Nowadays, New York City on Thu, 12 Nov 2026.
+MARBLE RYE is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Nowadays, New York City on Thu, 12 Nov 2026.
 
 MARBLE RYE is an ambient and experimental artist, with 7 gigs on soundcheck across New York City. Often billed alongside Carpet (F.L.H.P), 7038634357 and Alien D. Next up: Nowadays, New York City on Thu 12 Nov.
 
@@ -23,4 +23,4 @@ MARBLE RYE is an ambient and experimental artist, with 7 gigs on soundcheck acro
 
 Carpet (F.L.H.P), 7038634357, Alien D
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marblerye/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marblerye/)*

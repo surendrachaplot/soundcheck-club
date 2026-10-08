@@ -1,6 +1,6 @@
 # La Machine Du Moulin Rouge
 
-La Machine Du Moulin Rouge is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "HEAT CLUB by Saturation Collective & 100°C" on Sat, 10 Oct 2026.
+La Machine Du Moulin Rouge is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "HEAT CLUB by Saturation Collective & 100°C" on Sat, 10 Oct 2026.
 
 La Machine Du Moulin Rouge is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with line-ups including 25EMEHEURE, AMAYO, amne and Blood of Aza and 2 more. See dates, start times and who's playing. 90 boulevard de Clichy; 75018; Paris; France.
 
@@ -22,4 +22,4 @@ La Machine Du Moulin Rouge is a music venue in Paris listed on soundcheck. 9 upc
 
 90 boulevard de Clichy; 75018; Paris; France, Paris
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-machine-du-moulin-rouge/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-machine-du-moulin-rouge/)*

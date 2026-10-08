@@ -1,6 +1,6 @@
 # Evitceles
 
-Evitceles is a Electronica and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Cube Microplex, Bristol on Thu, 8 Oct 2026.
+Evitceles is a Electronica and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Cube Microplex, Bristol on Thu, 8 Oct 2026.
 
 Evitceles is an electronica and experimental artist, with 3 gigs on soundcheck across Bristol and Prague. Often billed alongside Silver Waves. Next up: Cube Microplex, Bristol on Thu 8 Oct.
 
@@ -19,4 +19,4 @@ Evitceles is an electronica and experimental artist, with 3 gigs on soundcheck a
 
 Silver Waves
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evitceles/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evitceles/)*

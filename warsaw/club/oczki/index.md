@@ -1,6 +1,6 @@
 # OCZKI
 
-OCZKI is a music venue in Warsaw with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "ARK: Lane 8 - Europe Tour - Warszawa" on Fri, 9 Oct 2026.
+OCZKI is a music venue in Warsaw with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "ARK: Lane 8 - Europe Tour - Warszawa" on Fri, 9 Oct 2026.
 
 OCZKI is a music venue in Warsaw listed on soundcheck. 5 upcoming gigs, with line-ups including Amnesia Scanner, BOBAIO, Bronka and Cardopusher and 2 more. See dates, start times and who's playing. Wojciecha Oczki 1A, 02-007 Warszawa.
 
@@ -18,4 +18,4 @@ OCZKI is a music venue in Warsaw listed on soundcheck. 5 upcoming gigs, with lin
 
 Wojciecha Oczki 1A, 02-007 Warszawa, Warsaw
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/oczki/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/oczki/)*

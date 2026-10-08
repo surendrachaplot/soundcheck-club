@@ -1,8 +1,8 @@
 # Honey Street Studio
 
-Honey Street Studio is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "PhD Radio w/ Deventi Lali and Lees" on Fri, 9 Oct 2026.
+Honey Street Studio is a music venue in Manchester with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "PhD Radio w/ Deventi Lali and Lees" on Fri, 9 Oct 2026.
 
-Honey Street Studio is a music venue in Manchester listed on soundcheck. 10 upcoming gigs, with line-ups including Abby Harris, Abena, Amelia Leigh and April (UK) and 2 more. See dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
+Honey Street Studio is a music venue in Manchester listed on soundcheck. 11 upcoming gigs, with line-ups including Abby Harris, Abena, Amelia Leigh and Anop and 2 more. See dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Honey Street Studio is a music venue in Manchester listed on soundcheck. 10 upco
 | Sun, 18 Oct 2026 | And Beyond // Adhesive Audio presents Charles Webster, Emora & Maya Lily [Free entry]  | Charles Webster, Emora |
 | Fri, 23 Oct 2026 | Shoes Off in the Living Room 01 | Abby Harris, BAY-BUSH-KA, Navigate. |
 | Sat, 31 Oct 2026 | RUNWAY 008 - Halloween Edition | Girlfriend, Jase Jeffery, RayRay, caonix |
+| Fri, 6 Nov 2026 | DREAMLAND W/ MARIMARI + ELFZ | Anop, Hollyamorous, chlo333e |
 | Sat, 7 Nov 2026 | NYUMBA: Afro & Melodic House at Honey Street, Manchester | Kakura, MYDIR, Trekkah |
 | Sat, 14 Nov 2026 | Fingers Crossed: Shroom Shroom | Club Penguin, Ethan A., GayBoy, JAMS (UK), King Kit, SDJ (1), mxtina |
-| Sat, 28 Nov 2026 | Banana Hill | Banana Hill, Cervo, Contours, King Kit |
 
 ## Address
 
 Honey St, Cheetham Hill, Manchester M8 8RG, Manchester
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*

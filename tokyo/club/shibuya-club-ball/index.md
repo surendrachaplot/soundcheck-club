@@ -1,6 +1,6 @@
 # Shibuya Club Ball
 
-Shibuya Club Ball is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "PlAN Z" on Thu, 8 Oct 2026.
+Shibuya Club Ball is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "PlAN Z" on Thu, 8 Oct 2026.
 
 Shibuya Club Ball is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including AN and Oshi. See dates, start times and who's playing. 4F, Kuretake Bldg., Utagawa-cho 4-9, Shibuya, Tokyo 150-0042.
 
@@ -14,4 +14,4 @@ Shibuya Club Ball is a music venue in Tokyo listed on soundcheck. 1 upcoming gig
 
 4F, Kuretake Bldg., Utagawa-cho 4-9, Shibuya, Tokyo 150-0042, Tokyo
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shibuya-club-ball/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shibuya-club-ball/)*

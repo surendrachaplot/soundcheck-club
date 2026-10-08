@@ -1,6 +1,6 @@
 # maxedvisa
 
-maxedvisa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Rhythm, Toronto on Sun, 25 Oct 2026.
+maxedvisa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Rhythm, Toronto on Sun, 25 Oct 2026.
 
 maxedvisa is a house and techno artist, with 35 gigs on soundcheck across Toronto. Often billed alongside Program Sam, florasystem and Wavy Oasis. Next up: Rhythm, Toronto on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ maxedvisa is a house and techno artist, with 35 gigs on soundcheck across Toront
 
 Program Sam, florasystem, Wavy Oasis
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxedvisa/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxedvisa/)*

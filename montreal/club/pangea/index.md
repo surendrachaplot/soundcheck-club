@@ -1,6 +1,6 @@
 # Pangea
 
-Pangea is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "Overdrive" on Fri, 16 Oct 2026.
+Pangea is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "Overdrive" on Fri, 16 Oct 2026.
 
 Pangea is a music venue in Montreal listed on soundcheck. 1 upcoming gig, with line-ups including EMN, Sumatra and WENG. See dates, start times and who's playing. 104 Rue Saint-Paul E, Montréal, QC H2Y 1G6.
 
@@ -14,4 +14,4 @@ Pangea is a music venue in Montreal listed on soundcheck. 1 upcoming gig, with l
 
 104 Rue Saint-Paul E, Montréal, QC H2Y 1G6, Montreal
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/pangea/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/pangea/)*

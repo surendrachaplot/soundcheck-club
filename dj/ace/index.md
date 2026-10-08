@@ -1,6 +1,6 @@
 # ACE
 
-ACE is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Spkrbox, Detroit on Fri, 9 Oct 2026.
+ACE is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Spkrbox, Detroit on Fri, 9 Oct 2026.
 
 ACE is an ambient and techno artist based in United States of America, with 26 gigs on soundcheck across Athens, Berlin, Detroit and Leipzig and 6 more. Often billed alongside Dominant Hand, Felice and Francois Dillinger. Next up: Spkrbox, Detroit on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ ACE is an ambient and techno artist based in United States of America, with 26 g
 
 Dominant Hand, Felice, Francois Dillinger
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ace/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ace/)*

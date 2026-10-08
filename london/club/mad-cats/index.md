@@ -1,14 +1,13 @@
 # Mad Cats
 
-Mad Cats is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Toki-O Nights: Powered by Technics (Tony Higgins)" on Wed, 7 Oct 2026.
+Mad Cats is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "Toki-O Nights: Powered by Technics (Euan McGinty)" on Wed, 21 Oct 2026.
 
-Mad Cats is a music venue in London listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
+Mad Cats is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 7 Oct 2026 | Toki-O Nights: Powered by Technics (Tony Higgins) |  |
 | Wed, 21 Oct 2026 | Toki-O Nights: Powered by Technics (Euan McGinty) |  |
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/mad-cats/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/mad-cats/)*

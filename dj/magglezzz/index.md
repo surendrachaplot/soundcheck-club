@@ -1,13 +1,14 @@
 # magglezzz
 
-magglezzz is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at FABRIKA, Philadelphia on Sat, 31 Oct 2026.
+magglezzz is a Club and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Ground Floor, Philadelphia on Thu, 29 Oct 2026.
 
-magglezzz is a club and hip-hop artist, with 32 gigs on soundcheck across Philadelphia. Often billed alongside Club Advisory, JEWELSSEA and Krispy. Next up: FABRIKA, Philadelphia on Sat 31 Oct.
+magglezzz is a club and hip-hop artist, with 33 gigs on soundcheck across Philadelphia. Often billed alongside BLACKMDNA, Club Advisory and JEWELSSEA. Next up: Ground Floor, Philadelphia on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | Ground Floor | Philadelphia |
 | Sat, 31 Oct 2026 | FABRIKA | Philadelphia |
 
 ## Recently played
@@ -23,6 +24,6 @@ magglezzz is a club and hip-hop artist, with 32 gigs on soundcheck across Philad
 
 ## Shares bills with
 
-Club Advisory, JEWELSSEA, Krispy
+BLACKMDNA, Club Advisory, JEWELSSEA
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magglezzz/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magglezzz/)*

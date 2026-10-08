@@ -1,6 +1,6 @@
 # AllaDerivaLontano
 
-AllaDerivaLontano is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Department 184, Milan on Sun, 18 Oct 2026.
+AllaDerivaLontano is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Department 184, Milan on Sun, 18 Oct 2026.
 
 AllaDerivaLontano is a techno and electronica artist based in Italy, with 27 gigs on soundcheck across Budapest and Milan. Often billed alongside GLADJEE, Hi/Fi and Re Pigi. Next up: Department 184, Milan on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ AllaDerivaLontano is a techno and electronica artist based in Italy, with 27 gig
 
 GLADJEE, Hi/Fi, Re Pigi
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alladerivalontano/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alladerivalontano/)*

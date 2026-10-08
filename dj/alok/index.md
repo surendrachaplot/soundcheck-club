@@ -1,8 +1,8 @@
 # Alok
 
-Alok is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Alok is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Alok is a house and electronica artist based in Brazil, with 39 gigs on soundcheck across Bali, Barcelona, Boston and Budapest and 17 more. Often billed alongside Dimitri Vegas & Like Mike, Korolova and Steve Aoki. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
+Alok is a house and electronica artist based in Brazil, with 40 gigs on soundcheck across Bali, Barcelona, Boston and Budapest and 18 more. Often billed alongside Dimitri Vegas & Like Mike, Steve Aoki and Korolova. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Alok is a house and electronica artist based in Brazil, with 39 gigs on soundche
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
+| Fri, 6 Nov 2026 | Tinker Field | Orlando |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Alok is a house and electronica artist based in Brazil, with 39 gigs on soundche
 
 ## Shares bills with
 
-Dimitri Vegas & Like Mike, Korolova, Steve Aoki
+Dimitri Vegas & Like Mike, Steve Aoki, Korolova
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alok/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alok/)*

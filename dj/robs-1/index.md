@@ -1,6 +1,6 @@
 # Robs (1)
 
-Robs (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at B2 Rīga, Riga on Fri, 9 Oct 2026.
+Robs (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at B2 Rīga, Riga on Fri, 9 Oct 2026.
 
 Robs is a techno and house artist based in Italy, with 20 gigs on soundcheck across Berlin, Frankfurt, Ghent and London and 5 more. Often billed alongside Rickie (Overground), Rickie and Ancut. Next up: B2 Rīga, Riga on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Robs is a techno and house artist based in Italy, with 20 gigs on soundcheck acr
 
 Rickie (Overground), Rickie, Ancut
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robs-1/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robs-1/)*

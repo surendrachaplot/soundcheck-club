@@ -1,6 +1,6 @@
 # Rok Riley
 
-Rok Riley is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Port Beach Brewery, Perth on Sat, 10 Oct 2026.
+Rok Riley is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Port Beach Brewery, Perth on Sat, 10 Oct 2026.
 
 Rok Riley is a house and jungle artist, with 11 gigs on soundcheck across Bali, Melbourne, New York City and Perth and 1 more. Often billed alongside Caucasian Opportunities, Emelyne and Andy Garvey. Next up: Port Beach Brewery, Perth on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Rok Riley is a house and jungle artist, with 11 gigs on soundcheck across Bali, 
 
 Caucasian Opportunities, Emelyne, Andy Garvey
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rokriley/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rokriley/)*

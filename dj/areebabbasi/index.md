@@ -1,14 +1,15 @@
 # Areeb Abbasi
 
-Areeb Abbasi is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Munster Munch, London on Fri, 9 Oct 2026.
+Areeb Abbasi is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Munster Munch, London on Fri, 9 Oct 2026.
 
-Areeb Abbasi is a techno and tech house artist based in United Kingdom, with 29 gigs on soundcheck across Istanbul, London and Toronto. Often billed alongside Selch, Phåro and Auseeb. Next up: Munster Munch, London on Fri 9 Oct.
+Areeb Abbasi is a techno and tech house artist based in United Kingdom, with 30 gigs on soundcheck across Istanbul, London and Toronto. Often billed alongside Selch, Auseeb and Phåro. Next up: Munster Munch, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Munster Munch | London |
+| Fri, 6 Nov 2026 | Jungla London | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Areeb Abbasi is a techno and tech house artist based in United Kingdom, with 29 
 
 ## Shares bills with
 
-Selch, Phåro (2), Auseeb
+Selch, Auseeb, Phåro (2)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/areebabbasi/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/areebabbasi/)*

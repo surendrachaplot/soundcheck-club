@@ -1,6 +1,6 @@
 # Kangding Ray
 
-Kangding Ray is a Techno and Ambient artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Le Sucre, Lyon on Sun, 11 Oct 2026.
+Kangding Ray is a Techno and Ambient artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Le Sucre, Lyon on Sun, 11 Oct 2026.
 
 Kangding Ray is a techno and ambient artist based in Germany, with 139 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Dasha Rush, DJ Nobu and Ne/Re/A. Next up: Le Sucre, Lyon on Sun 11 Oct.
 
@@ -28,4 +28,4 @@ Kangding Ray is a techno and ambient artist based in Germany, with 139 gigs on s
 
 Dasha Rush, DJ Nobu, Ne/Re/A
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kangdingray/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kangdingray/)*

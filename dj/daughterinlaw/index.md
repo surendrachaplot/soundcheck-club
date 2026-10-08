@@ -1,14 +1,15 @@
 # Daughter In Law
 
-Daughter In Law is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at SASS Music Club, Vienna on Fri, 9 Oct 2026.
+Daughter In Law is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at SASS Music Club, Vienna on Fri, 9 Oct 2026.
 
-Daughter In Law is a house and techno artist based in Switzerland, with 55 gigs on soundcheck across Amsterdam, Basel, Frankfurt and Munich and 5 more. Often billed alongside Alex Dallas, De La Maso and M-High. Next up: SASS Music Club, Vienna on Fri 9 Oct.
+Daughter In Law is a house and techno artist based in Switzerland, with 56 gigs on soundcheck across Amsterdam, Austria, Basel and Frankfurt and 6 more. Often billed alongside Alex Dallas, De La Maso and M-High. Next up: SASS Music Club, Vienna on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | SASS Music Club | Vienna |
+| Sat, 10 Oct 2026 | Market33 | Austria |
 | Fri, 16 Oct 2026 | Pracht | Frankfurt |
 | Thu, 22 Oct 2026 | Shelter Amsterdam | Amsterdam |
 
@@ -27,4 +28,4 @@ Daughter In Law is a house and techno artist based in Switzerland, with 55 gigs 
 
 Alex Dallas, De La Maso, M-High
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daughterinlaw/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daughterinlaw/)*

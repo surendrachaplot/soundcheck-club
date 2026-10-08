@@ -1,8 +1,8 @@
 # bebe bad
 
-bebe bad is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+bebe bad is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
-bebe bad is a house and techno artist based in Netherlands, with 52 gigs on soundcheck across Amsterdam, Rotterdam and Utrecht. Often billed alongside Doppelgang, Tsepo and BELLA (NL). Next up: SISSI'S Amsterdam, Amsterdam on Sat 24 Oct.
+bebe bad is a house and techno artist based in Netherlands, with 53 gigs on soundcheck across Amsterdam, Eindhoven, Rotterdam and Utrecht. Often billed alongside Doppelgang, SAIDAH and Tsepo. Next up: SISSI'S Amsterdam, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ bebe bad is a house and techno artist based in Netherlands, with 52 gigs on soun
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 | Sat, 31 Oct 2026 | nachbar | Amsterdam |
+| Sat, 30 Jan 2027 | Klokgebouw | Eindhoven |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ bebe bad is a house and techno artist based in Netherlands, with 52 gigs on soun
 
 ## Shares bills with
 
-Doppelgang, Tsepo, BELLA (NL)
+Doppelgang, SAIDAH, Tsepo
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bebebad/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bebebad/)*

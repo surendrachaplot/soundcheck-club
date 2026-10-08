@@ -1,8 +1,8 @@
 # AINA.KRU
 
-AINA.KRU is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at BABY01, Berlin on Sat, 7 Nov 2026.
+AINA.KRU is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at BABY01, Berlin on Sat, 7 Nov 2026.
 
-AINA.KRU is a techno artist, with 24 gigs on soundcheck across Berlin. Often billed alongside M21SIX, NØ TiME and Achilles. Next up: BABY01, Berlin on Sat 7 Nov.
+AINA.KRU is a techno artist based in Germany, with 24 gigs on soundcheck across Berlin. Often billed alongside M21SIX, NØ TiME and Achilles. Next up: BABY01, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ AINA.KRU is a techno artist, with 24 gigs on soundcheck across Berlin. Often bil
 
 M21SIX, NØ TiME, Achilles
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aina-kru/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aina-kru/)*

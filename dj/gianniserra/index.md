@@ -1,6 +1,6 @@
 # Gianni serra
 
-Gianni serra is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Audioteca, Naples on Wed, 14 Oct 2026.
+Gianni serra is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Audioteca, Naples on Wed, 14 Oct 2026.
 
 Gianni serra is a tech house and house artist, with 9 gigs on soundcheck across Amsterdam and Naples. Often billed alongside Alex Bohemien, Roel and Alex Sharp. Next up: Audioteca, Naples on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ Gianni serra is a tech house and house artist, with 9 gigs on soundcheck across 
 
 Alex Bohemien, Roel, Alex Sharp
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gianniserra/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gianniserra/)*

@@ -1,6 +1,6 @@
 # Mondo
 
-Mondo is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Alignment / Barbara Lago / pavvvvvvlo" on Thu, 8 Oct 2026.
+Mondo is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Alignment / Barbara Lago / pavvvvvvlo" on Thu, 8 Oct 2026.
 
 Mondo is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including Alignment, Bad Boombox, Bárbara Lago and Benwal and 2 more. See dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
 
@@ -10,7 +10,7 @@ Mondo is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with li
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | Alignment / Barbara Lago / pavvvvvvlo | Alignment, Bárbara Lago, pavvvvvvlo |
 | Sat, 10 Oct 2026 | Diffrent / Gerardo Niva / DJ SWISHERMAN B2B Emi Koto | DJ SWISHERMAN, Diffrent, Emi Koto, Gerardo Niva |
-| Sun, 11 Oct 2026 | EXTENDED: Bad Boombox B2B Club Angel / salute / Gerardo Niva / Maruwa | Bad Boombox, Club Angel, Gerardo Niva, Maruwa, salute |
+| Sun, 11 Oct 2026 | EXTENDED: Bad Boombox / Gerardo Niva / Maruwa | Bad Boombox, Gerardo Niva, Maruwa |
 | Thu, 15 Oct 2026 | Silva Bumpa / Gerardo Niva / Emi Koto | Emi Koto, Gerardo Niva, Silva Bumpa |
 | Sat, 17 Oct 2026 | TWOFACED / Gerardo Niva B2B JÄMO / doccudder | Gerardo Niva, JÄMO, doccudder |
 | Thu, 22 Oct 2026 | Inafekt / Gerardo Niva / DJ SWISHERMAN B2B doccudder | DJ SWISHERMAN, Gerardo Niva, Inafekt, doccudder |
@@ -23,4 +23,4 @@ Mondo is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with li
 
 Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid, Madrid
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*

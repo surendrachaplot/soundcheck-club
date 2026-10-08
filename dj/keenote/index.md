@@ -1,6 +1,6 @@
 # Keenote
 
-Keenote is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Bolero, Seoul on Thu, 8 Oct 2026.
+Keenote is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Bolero, Seoul on Thu, 8 Oct 2026.
 
 Keenote is a club and hip-hop artist based in South Korea, with 24 gigs on soundcheck across Seoul. Often billed alongside SKiiDA, DOBERMAN and ANDOW. Next up: Bolero, Seoul on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Keenote is a club and hip-hop artist based in South Korea, with 24 gigs on sound
 
 SKiiDA, DOBERMAN, ANDOW
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keenote/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keenote/)*

@@ -1,6 +1,6 @@
 # David Maters
 
-David Maters is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Basement Amsterdam, Amsterdam on Wed, 21 Oct 2026.
+David Maters is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Basement Amsterdam, Amsterdam on Wed, 21 Oct 2026.
 
 David Maters is a house and techno artist based in Netherlands, with 23 gigs on soundcheck across Amsterdam, Frankfurt, Istanbul and Turin. Often billed alongside Joris Turenhout, Bienfait & Latour and Katrii. Next up: Basement Amsterdam, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ David Maters is a house and techno artist based in Netherlands, with 23 gigs on 
 
 Joris Turenhout, Bienfait & Latour, Katrii
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmaters/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmaters/)*

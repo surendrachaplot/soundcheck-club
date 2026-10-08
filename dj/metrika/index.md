@@ -1,6 +1,6 @@
 # Metrika
 
-Metrika is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at M.N.Roy, Mexico City on Sat, 10 Oct 2026.
+Metrika is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at M.N.Roy, Mexico City on Sat, 10 Oct 2026.
 
 Metrika is a house and techno artist based in Mexico, with 57 gigs on soundcheck across Barcelona, Los Angeles, Madrid and Mexico City and 4 more. Often billed alongside Rebolledo, Balcazar and Cabizbajo. Next up: M.N.Roy, Mexico City on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Metrika is a house and techno artist based in Mexico, with 57 gigs on soundcheck
 
 Rebolledo, Balcazar, Cabizbajo
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metrika/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metrika/)*

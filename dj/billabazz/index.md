@@ -1,14 +1,15 @@
 # Billa Bazz
 
-Billa Bazz is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Gallery, London on Thu, 8 Oct 2026.
+Billa Bazz is a Tech House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Gallery, London on Thu, 8 Oct 2026.
 
-Billa Bazz is a tech house and deep house artist, with 68 gigs on soundcheck across London. Often billed alongside Reeno, Leith and Azire. Next up: Gallery, London on Thu 8 Oct.
+Billa Bazz is a tech house and deep house artist, with 69 gigs on soundcheck across London. Often billed alongside Reeno, Leith and Azire. Next up: Gallery, London on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | Gallery | London |
+| Fri, 9 Oct 2026 | TBA - Venue will be announced to ticket holders | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Billa Bazz is a tech house and deep house artist, with 68 gigs on soundcheck acr
 
 Reeno, Leith, Azire
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billabazz/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billabazz/)*

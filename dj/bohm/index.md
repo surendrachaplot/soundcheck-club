@@ -1,14 +1,15 @@
 # Bohm
 
-Bohm is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at BASIS, Utrecht on Fri, 9 Oct 2026.
+Bohm is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at BASIS, Utrecht on Fri, 9 Oct 2026.
 
-Bohm is a techno and ebm artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam, Melbourne, Sydney and The Hague and 1 more. Often billed alongside Aroy Dee, Afra and David Vunk. Next up: BASIS, Utrecht on Fri 9 Oct.
+Bohm is a techno and ebm artist based in Netherlands, with 16 gigs on soundcheck across Amsterdam, London, Melbourne and Sydney and 2 more. Often billed alongside Aroy Dee, Afra and David Vunk. Next up: BASIS, Utrecht on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | BASIS | Utrecht |
+| Sat, 7 Nov 2026 | The Greyhound | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Bohm is a techno and ebm artist based in Netherlands, with 15 gigs on soundcheck
 
 Aroy Dee, Afra, David Vunk
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bohm/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bohm/)*

@@ -1,6 +1,6 @@
 # Rollo3000
 
-Rollo3000 is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Legal, Munich on Sat, 10 Oct 2026.
+Rollo3000 is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Legal, Munich on Sat, 10 Oct 2026.
 
 Rollo3000 is a house and balearic artist based in Germany, with 16 gigs on soundcheck across Munich. Often billed alongside Chet Rubbs, Goiaba and Bernd Affleck. Next up: Legal, Munich on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Rollo3000 is a house and balearic artist based in Germany, with 16 gigs on sound
 
 Chet Rubbs, Goiaba, Bernd Affleck
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rollo3000/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rollo3000/)*

@@ -1,6 +1,6 @@
 # T.K.L
 
-T.K.L is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Rugs*, Beijing on Sat, 10 Oct 2026.
+T.K.L is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Rugs*, Beijing on Sat, 10 Oct 2026.
 
 T.K.L is a techno and minimal artist, with 8 gigs on soundcheck across Bangkok, Beijing, Berlin and Düsseldorf and 3 more. Often billed alongside Mohemann, 3ASiC and AKIRAM EN. Next up: Rugs*, Beijing on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ T.K.L is a techno and minimal artist, with 8 gigs on soundcheck across Bangkok, 
 
 Mohemann, 3ASiC, AKIRAM EN
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tkl/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tkl/)*

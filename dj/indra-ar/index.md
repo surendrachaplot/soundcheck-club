@@ -1,6 +1,6 @@
 # INDRA TRAFERRI
 
-INDRA TRAFERRI is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at La Textil Collective, Barcelona on Sat, 10 Oct 2026.
+INDRA TRAFERRI is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at La Textil Collective, Barcelona on Sat, 10 Oct 2026.
 
 INDRA TRAFERRI is a house and tech house artist based in Argentina, with 56 gigs on soundcheck across Barcelona. Often billed alongside Galu Bla, Mat Spiaggi and Vennegur. Next up: La Textil Collective, Barcelona on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ INDRA TRAFERRI is a house and tech house artist based in Argentina, with 56 gigs
 
 Galu Bla, Mat Spiaggi, Vennegur
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/indra-ar/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/indra-ar/)*

@@ -1,6 +1,6 @@
 # LWS
 
-LWS is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at La Belle Angele, Edinburgh on Sat, 10 Oct 2026.
+LWS is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at La Belle Angele, Edinburgh on Sat, 10 Oct 2026.
 
 LWS is a techno and bass artist based in United Kingdom, with 74 gigs on soundcheck across Belfast, Bristol, Dundee and Edinburgh and 5 more. Often billed alongside Skillis, Gregor AM and Feena. Next up: La Belle Angele, Edinburgh on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ LWS is a techno and bass artist based in United Kingdom, with 74 gigs on soundch
 
 Skillis, Gregor AM, Feena
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lws/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lws/)*

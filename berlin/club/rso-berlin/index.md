@@ -1,8 +1,8 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Radiance w/ BLUME, Delta Rain, Human Space Machine, Luigi Tozzi live" on Fri, 9 Oct 2026.
+RSO.BERLIN is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Radiance w/ BLUME, Delta Rain, Human Space Machine, Luigi Tozzi live" on Fri, 9 Oct 2026.
 
-RSO.BERLIN is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including Justine Perry, Adiel, AEREA and Akua and 2 more. See dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
+RSO.BERLIN is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including 131bpm, Justine Perry, Adiel and AEREA and 2 more. See dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
 ## What's on
 
@@ -17,10 +17,10 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, wi
 | Fri, 30 Oct 2026 | FIGURE NACHT w/ Len Faki, Arthur Robert live, Decoder, IGLO, and Inox Traxx | Arthur Robert, Decoder, IGLO, Inox Traxx, Len Faki |
 | Sat, 31 Oct 2026 | BCCO Halloween | AEREA, ASEC, Bailey Ibbs, Benabou, DJ Hyperdrive, Elnur, FENIM0RE, Luigi Madonna, Luxi Villar, Mac Declos, Matrixxman, Mython, PAU (6), SALIMATA, SELESSA T., future.666 |
 | Fri, 6 Nov 2026 | TRIBE CLUB SERIES with Funk Tribu, Supergloss, Linds, Tom Carroll & KARISH | Funk Tribu, KARISH, Linds, Supergloss |
-| Fri, 13 Nov 2026 | Sachsentrance | Anna Ullrich, DJ GUESTLIST, RaverPik, Sabu!, The Jakob Sister, snoritz |
+| Sat, 7 Nov 2026 | XTRUDE x Mechatronica w/ Freddy K, Hyden, ÜBERKIKZ, Ben Pest (live), FUMI, Lobster | Ben Pest, FUMI, Freddy K, Hyden, Lobster (NL), Marco Bruno, Milan Hermess, Tau Ceti, ÜBERKIKZ |
 
 ## Address
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

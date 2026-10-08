@@ -1,6 +1,6 @@
 # Maria Nocheydía
 
-Maria Nocheydía is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Fünk, Mexico City on Fri, 9 Oct 2026.
+Maria Nocheydía is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Fünk, Mexico City on Fri, 9 Oct 2026.
 
 Maria Nocheydía is a house and deep house artist based in Mexico, with 30 gigs on soundcheck across Amsterdam, Berlin, Ibiza and Los Angeles and 1 more. Often billed alongside Barreto, Britta Arnold and Mira. Next up: Fünk, Mexico City on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Maria Nocheydía is a house and deep house artist based in Mexico, with 30 gigs 
 
 Barreto, Britta Arnold, Mira
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marianocheydia1/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marianocheydia1/)*

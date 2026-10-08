@@ -1,8 +1,8 @@
 # Chaosy
 
-Chaosy is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 10 Oct 2026.
+Chaosy is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 10 Oct 2026.
 
-Chaosy is an electro and experimental artist based in Ukraine, with 16 gigs on soundcheck across Berlin and The Hague. Often billed alongside Jana Woodstock, Costa (FR) and bod [包家巷]. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 10 Oct.
+Chaosy is an electro and experimental artist based in Ukraine, with 16 gigs on soundcheck across Berlin and The Hague. Often billed alongside Jana Woodstock, Costa (FR) and Sariim. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Chaosy is an electro and experimental artist based in Ukraine, with 16 gigs on s
 
 ## Shares bills with
 
-Jana Woodstock, Costa (FR), bod [包家巷]
+Jana Woodstock, Costa (FR), Sariim
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosy/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosy/)*

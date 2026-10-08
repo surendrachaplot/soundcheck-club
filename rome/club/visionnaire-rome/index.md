@@ -1,6 +1,6 @@
 # Visionnaire Rome
 
-Visionnaire Rome is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "CONFUSION x MADFROG" on Sat, 10 Oct 2026.
+Visionnaire Rome is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "CONFUSION x MADFROG" on Sat, 10 Oct 2026.
 
 Visionnaire Rome is a music venue in Rome listed on soundcheck. 1 upcoming gig, with line-ups including Alessio Deluxe and URBANKIDZ. See dates, start times and who's playing. Via di Monte Testaccio, 67, 00153 Roma RM, Italy.
 
@@ -14,4 +14,4 @@ Visionnaire Rome is a music venue in Rome listed on soundcheck. 1 upcoming gig, 
 
 Via di Monte Testaccio, 67, 00153 Roma RM, Italy, Rome
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/visionnaire-rome/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/visionnaire-rome/)*

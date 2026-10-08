@@ -1,6 +1,6 @@
 # SULTAN
 
-SULTAN is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Ferry, Rotterdam on Fri, 20 Nov 2026.
+SULTAN is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Ferry, Rotterdam on Fri, 20 Nov 2026.
 
 SULTAN is a techno and baile funk artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam, Bristol, Rotterdam and San Diego and 1 more. Often billed alongside Pürü, Adam Ten and Aiscream. Next up: Ferry, Rotterdam on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ SULTAN is a techno and baile funk artist based in Netherlands, with 9 gigs on so
 
 Pürü, Adam Ten, Aiscream
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sultan/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sultan/)*

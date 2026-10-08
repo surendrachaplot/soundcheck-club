@@ -1,13 +1,14 @@
 # Dinamarca
 
-Dinamarca is a Club and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Bar Espina, Tijuana on Sat, 31 Oct 2026.
+Dinamarca is a Club and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Casa Capitão, Lisbon on Sat, 10 Oct 2026.
 
-Dinamarca is a club and reggaeton artist based in Sweden, with 69 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 22 more. Often billed alongside Meth Math, Manuka Honey and DJ Python. Next up: Bar Espina, Tijuana on Sat 31 Oct.
+Dinamarca is a club and reggaeton artist based in Sweden, with 70 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 22 more. Often billed alongside Meth Math, Manuka Honey and DJ Python. Next up: Casa Capitão, Lisbon on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Casa Capitão | Lisbon |
 | Sat, 31 Oct 2026 | Bar Espina | Tijuana |
 
 ## Recently played
@@ -25,4 +26,4 @@ Dinamarca is a club and reggaeton artist based in Sweden, with 69 gigs on soundc
 
 Meth Math, Manuka Honey, DJ Python
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dinamarca/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dinamarca/)*

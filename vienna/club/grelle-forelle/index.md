@@ -1,6 +1,6 @@
 # Grelle Forelle
 
-Grelle Forelle is a music venue in Vienna with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Pan-Pot - Zuckerwatt" on Fri, 9 Oct 2026.
+Grelle Forelle is a music venue in Vienna with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Pan-Pot - Zuckerwatt" on Fri, 9 Oct 2026.
 
 Grelle Forelle is a music venue in Vienna listed on soundcheck. 9 upcoming gigs, with line-ups including AEND, Afem Syko, Aleta and Andy Catana and 2 more. See dates, start times and who's playing. Spittelauer Lände 12; 1090 Vienna; Austria.
 
@@ -10,7 +10,7 @@ Grelle Forelle is a music venue in Vienna listed on soundcheck. 9 upcoming gigs,
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Pan-Pot - Zuckerwatt | Crazy Sonic, Pan-Pot |
 | Sat, 10 Oct 2026 | Radio Rudina | AEND, Bambi-S, CHERCHES, COBRA, DJ Lelo, DJ.org, IVAN., Vivienna |
-| Sun, 11 Oct 2026 | LIVE Modeselektor |  |
+| Sun, 11 Oct 2026 | LIVE Modeselektor | Modeselektor |
 | Fri, 16 Oct 2026 | F*CKEN PLUS Fold Pro Max | DJ Deadlift, Gerald VDH, JERM |
 | Fri, 23 Oct 2026 | Sven Väth / TURBO | Andy Catana, MARØ (2), Maurizio Schmitz, Sven Vath |
 | Sat, 24 Oct 2026 | RAVE AM MITTWOCH // SPECIAL EDITION // Grelle Forelle |  |
@@ -22,4 +22,4 @@ Grelle Forelle is a music venue in Vienna listed on soundcheck. 9 upcoming gigs,
 
 Spittelauer Lände 12; 1090 Vienna; Austria, Vienna
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*

@@ -1,6 +1,6 @@
 # SaoTeknik
 
-SaoTeknik is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Bar Temp., Bangkok on Sat, 10 Oct 2026.
+SaoTeknik is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Bar Temp., Bangkok on Sat, 10 Oct 2026.
 
 SaoTeknik is a house and techno artist based in Thailand, with 48 gigs on soundcheck across Bangkok and Osaka. Often billed alongside Elaheh, Gishiyama and JAKRIN. Next up: Bar Temp., Bangkok on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ SaoTeknik is a house and techno artist based in Thailand, with 48 gigs on soundc
 
 Elaheh, Gishiyama, JAKRIN
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saoteknik/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saoteknik/)*

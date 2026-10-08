@@ -1,6 +1,6 @@
 # The Bag Factory
 
-The Bag Factory is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Sunglist Massive" on Fri, 9 Oct 2026.
+The Bag Factory is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Sunglist Massive" on Fri, 9 Oct 2026.
 
 The Bag Factory is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, with line-ups including HIFEELINGS, Lilyn and Nick Charles. See dates, start times and who's playing. Dickinson St, Manchester M3 7LW.
 
@@ -18,4 +18,4 @@ The Bag Factory is a music venue in Manchester listed on soundcheck. 5 upcoming 
 
 Dickinson St, Manchester M3 7LW, Manchester
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-bag-factory/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-bag-factory/)*

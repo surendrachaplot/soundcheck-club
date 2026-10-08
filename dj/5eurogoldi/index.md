@@ -1,6 +1,6 @@
 # 5euroGoldi
 
-5euroGoldi is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Südpol, Hamburg on Fri, 20 Nov 2026.
+5euroGoldi is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Südpol, Hamburg on Fri, 20 Nov 2026.
 
 5euroGoldi is a trance and techno artist based in Germany, with 41 gigs on soundcheck across Berlin, Cologne, Hamburg and Hannover and 1 more. Often billed alongside CARGO (DE), DJ Local B and Melushka. Next up: Südpol, Hamburg on Fri 20 Nov.
 
@@ -27,4 +27,4 @@
 
 CARGO (DE), DJ Local B, Melushka
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/5eurogoldi/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/5eurogoldi/)*

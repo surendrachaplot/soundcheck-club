@@ -1,14 +1,14 @@
 # FORGE
 
-FORGE is a music venue in Sheffield with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Ross From Friends & Friends" on Fri, 9 Oct 2026.
+FORGE is a music venue in Sheffield with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "SNAFU: Gabrielle Kwarteng, Robyn Jade, KiT" on Fri, 9 Oct 2026.
 
-FORGE is a music venue in Sheffield listed on soundcheck. 9 upcoming gigs, with line-ups including Adam F, Ben Suff Donk, Bimini and Burt Cope and 2 more. See dates, start times and who's playing. 148 Effingham Road, Sheffield, S4 7YS.
+FORGE is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, with line-ups including Adam F, Ben Suff Donk, Bimini and Burt Cope and 2 more. See dates, start times and who's playing. 148 Effingham Road, Sheffield, S4 7YS.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Ross From Friends & Friends | Gabrielle Kwarteng, IceMorph, Ross From Friends |
+| Fri, 9 Oct 2026 | SNAFU: Gabrielle Kwarteng, Robyn Jade, KiT | Gabrielle Kwarteng |
 | Thu, 15 Oct 2026 | Takuya Nakamura [Live] & Supports | Takuya Nakamura |
 | Fri, 16 Oct 2026 | Bounce By The Ounce x UOS DJ SOC presents: DJ BAX & FRIENDS |  |
 | Sun, 25 Oct 2026 | Green Space SHEFFIELD | Ben Suff Donk, Bimini, Burt Cope, Charla Green, DJ Deep Heat, DJ Fingerblast, Emerald, Piri & Tommy, Princess Elf Bar |
@@ -17,9 +17,10 @@ FORGE is a music venue in Sheffield listed on soundcheck. 9 upcoming gigs, with 
 | Fri, 13 Nov 2026 | Big Fat Rave: Hamdi + Osmosis Jones + SKALAH | Hamdi, Osmosis Jones, SKALAH (UK) |
 | Fri, 27 Nov 2026 | Adam F Live W/ Kirsty Hawkshaw: Circles Revisited Tour Sheffield | Adam F, Harry Shotta |
 | Fri, 4 Dec 2026 | Rupture X Unity Underground BIRTHDAY EVENT - Fabio - SHERELLE - Mantra - DOUBLE 0 - Pete Cannon | Charla Green, Double O, Equinox (UK), Fabio, KWAKE, Kid Lib, King Chuga, Mantra, Pete Cannon, RACH (3), Ryme Tyme, SHERELLE |
+| Fri, 18 Dec 2026 | ALGORHYTHM 004: GiGi FM, Korra, Ol.G & Ed Law | GiGi FM, Ol.G |
 
 ## Address
 
 148 Effingham Road, Sheffield, S4 7YS, Sheffield
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/forge/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/forge/)*

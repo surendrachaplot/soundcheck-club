@@ -1,6 +1,6 @@
 # SAMDMA
 
-SAMDMA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at null, Amsterdam on Thu, 22 Oct 2026.
+SAMDMA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at null, Amsterdam on Thu, 22 Oct 2026.
 
 SAMDMA is a techno and trance artist based in Austria, with 17 gigs on soundcheck across Amsterdam and Vienna. Often billed alongside Carl Haze, DANBERG and Ele Luz. 1 upcoming gig listed.
 
@@ -25,4 +25,4 @@ SAMDMA is a techno and trance artist based in Austria, with 17 gigs on soundchec
 
 Carl Haze, DANBERG, Ele Luz
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samdma/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samdma/)*

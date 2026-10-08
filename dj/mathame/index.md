@@ -1,6 +1,6 @@
 # Mathame
 
-Mathame is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Phantom, Paris, Paris on Fri, 9 Oct 2026.
+Mathame is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Phantom, Paris, Paris on Fri, 9 Oct 2026.
 
 Mathame is a techno and house artist based in Italy, with 162 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside Lyke, Olympe and Fideles. Next up: Phantom, Paris, Paris on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ Mathame is a techno and house artist based in Italy, with 162 gigs on soundcheck
 
 Lyke, Olympe, Fideles
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathame/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathame/)*

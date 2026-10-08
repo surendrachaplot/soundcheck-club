@@ -1,13 +1,14 @@
 # Azire
 
-Azire is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - EAST LONDON- announced to ticket holders on the day, London on Fri, 16 Oct 2026.
+Azire is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Venue will be announced to ticket holders, London on Fri, 9 Oct 2026.
 
-Azire is a house and minimal artist based in United Kingdom, with 58 gigs on soundcheck across London and Manchester. Often billed alongside Kesh, DeRizzio and Billa Bazz. Next up: TBA - EAST LONDON- announced to ticket holders on the day, London on Fri 16 Oct.
+Azire is a house and minimal artist based in United Kingdom, with 59 gigs on soundcheck across London and Manchester. Often billed alongside Kesh, Billa Bazz and DeRizzio. Next up: TBA - Venue will be announced to ticket holders, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | TBA - Venue will be announced to ticket holders | London |
 | Fri, 16 Oct 2026 | TBA - EAST LONDON- announced to ticket holders on the day | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ Azire is a house and minimal artist based in United Kingdom, with 58 gigs on sou
 
 ## Shares bills with
 
-Kesh (1), DeRizzio, Billa Bazz
+Kesh (1), Billa Bazz, DeRizzio
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azire/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azire/)*

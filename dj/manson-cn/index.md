@@ -1,6 +1,6 @@
 # Manson
 
-Manson is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at OIL Club, Shenzhen on Sat, 10 Oct 2026.
+Manson is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at OIL Club, Shenzhen on Sat, 10 Oct 2026.
 
 Manson is a club and bass artist based in China, with 28 gigs on soundcheck across Shenzhen. Often billed alongside Beibeilon, DJ 86 and Replica.mp3. Next up: OIL Club, Shenzhen on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Manson is a club and bass artist based in China, with 28 gigs on soundcheck acro
 
 Beibeilon, DJ 86, Replica.mp3
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manson-cn/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manson-cn/)*

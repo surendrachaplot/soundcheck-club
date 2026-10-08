@@ -1,6 +1,6 @@
 # Necropolis Festival: VAMPIRE BALL II at Omeara
 
-Necropolis Festival: VAMPIRE BALL II at Omeara on Sat 17 Oct, London. 13 artists: Arrosa, DungeonMaster, Evil Dust and Lais Pattak and 9 more. Techno and EBM. See the line-up on soundcheck.
+Necropolis Festival: VAMPIRE BALL II at Omeara on Sat 17 Oct, London. 16 artists: Arrosa, DungeonMaster, Evil Dust and Gridlock and 12 more. Techno and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,8 @@ Necropolis Festival: VAMPIRE BALL II at Omeara on Sat 17 Oct, London. 13 artists
 - Arrosa
 - DungeonMaster
 - Evil Dust
+- Gridlock
+- Kutkh Jackdaw
 - Lais Pattak
 - Leviminks
 - LIZAZA
@@ -21,6 +23,7 @@ Necropolis Festival: VAMPIRE BALL II at Omeara on Sat 17 Oct, London. 13 artists
 - Ryan Licchelli
 - SONI LOBO
 - TOOTHTAXI
+- Varanasi
 - VELVET_VELOUR
 - Void Cells
 

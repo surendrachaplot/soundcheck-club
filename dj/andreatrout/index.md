@@ -1,6 +1,6 @@
 # Andrea Trout
 
-Andrea Trout is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Metro's Social Club, Manchester on Sat, 31 Oct 2026.
+Andrea Trout is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Metro's Social Club, Manchester on Sat, 31 Oct 2026.
 
 Andrea Trout is a disco and funk / soul artist, with 16 gigs on soundcheck across London, Manchester and Sheffield. Often billed alongside Mr Scruff, The Brokers and Demetae. Next up: TBA - Metro's Social Club, Manchester on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Andrea Trout is a disco and funk / soul artist, with 16 gigs on soundcheck acros
 
 Mr Scruff, The Brokers, Demetae
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreatrout/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreatrout/)*

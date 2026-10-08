@@ -1,6 +1,6 @@
 # Diego Moreno
 
-Diego Moreno is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Promenaden Eck, Berlin on Sat, 10 Oct 2026.
+Diego Moreno is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Promenaden Eck, Berlin on Sat, 10 Oct 2026.
 
 Diego Moreno is a house and breakbeat artist, with 7 gigs on soundcheck across Berlin. Often billed alongside Chinichi, DJ Zurückbleiben Bitte and GLIA. Next up: Promenaden Eck, Berlin on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Diego Moreno is a house and breakbeat artist, with 7 gigs on soundcheck across B
 
 Chinichi, DJ Zurückbleiben Bitte, GLIA
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diego_moreno/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diego_moreno/)*

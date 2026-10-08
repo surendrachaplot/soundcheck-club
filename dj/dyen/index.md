@@ -1,6 +1,6 @@
 # DYEN
 
-DYEN is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Audiodrome, Turin on Fri, 9 Oct 2026.
+DYEN is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Audiodrome, Turin on Fri, 9 Oct 2026.
 
 DYEN is a techno and house artist based in Netherlands, with 203 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 55 more. Often billed alongside Shlømo, Nico Moreno and I Hate Models. Next up: Audiodrome, Turin on Fri 9 Oct.
 
@@ -33,4 +33,4 @@ DYEN is a techno and house artist based in Netherlands, with 203 gigs on soundch
 
 Shlømo, Nico Moreno, I Hate Models
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyen/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyen/)*

@@ -1,6 +1,6 @@
 # Tripolism
 
-Tripolism is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Westerkerk, Amsterdam on Wed, 21 Oct 2026.
+Tripolism is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Westerkerk, Amsterdam on Wed, 21 Oct 2026.
 
 Tripolism is a house and afro house artist based in Denmark, with 78 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside WhoMadeWho, Bedouin and Damian Lazarus. Next up: Westerkerk, Amsterdam on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ Tripolism is a house and afro house artist based in Denmark, with 78 gigs on sou
 
 WhoMadeWho, Bedouin, Damian Lazarus
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tripolism/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tripolism/)*

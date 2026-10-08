@@ -1,8 +1,8 @@
 # G.HO
 
-G.HO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Jolene, Copenhagen on Sat, 10 Oct 2026.
+G.HO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Jolene, Copenhagen on Sat, 10 Oct 2026.
 
-G.HO is a house and techno artist, with 8 gigs on soundcheck across Copenhagen. Often billed alongside Sakena Ali, Sound and Fury and Ana Karla. Next up: Jolene, Copenhagen on Sat 10 Oct.
+G.HO is a house and techno artist based in Singapore, with 8 gigs on soundcheck across Copenhagen. Often billed alongside Sakena Ali, Sound and Fury and Ana Karla. Next up: Jolene, Copenhagen on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ G.HO is a house and techno artist, with 8 gigs on soundcheck across Copenhagen. 
 
 Sakena Ali, Sound and Fury, Ana Karla
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/g.ho/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/g.ho/)*

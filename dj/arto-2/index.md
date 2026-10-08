@@ -1,6 +1,6 @@
 # Arto (2)
 
-Arto (2) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at H15 Scene & Studio, Copenhagen on Thu, 8 Oct 2026.
+Arto (2) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at H15 Scene & Studio, Copenhagen on Thu, 8 Oct 2026.
 
 Arto is a house and acid artist based in Denmark, with 9 gigs on soundcheck across Copenhagen. Often billed alongside dj bootymagic, Anton Goltermann and Max Finney. Next up: H15 Scene & Studio, Copenhagen on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Arto is a house and acid artist based in Denmark, with 9 gigs on soundcheck acro
 
 dj bootymagic, Anton Goltermann, Max Finney
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arto-2/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arto-2/)*

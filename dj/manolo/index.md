@@ -1,6 +1,6 @@
 # Manolo
 
-Manolo is a House and Ballroom artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Renate, Berlin on Sat, 31 Oct 2026.
+Manolo is a House and Ballroom artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Renate, Berlin on Sat, 31 Oct 2026.
 
 Manolo is a house and ballroom artist based in Switzerland, with 9 gigs on soundcheck across Berlin, Boston, Brussels and Hamburg and 2 more. Often billed alongside Stella Zekri, 131bpm and Abibi. Next up: Renate, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Manolo is a house and ballroom artist based in Switzerland, with 9 gigs on sound
 
 Stella Zekri, 131bpm, Abibi
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manolo/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manolo/)*

@@ -1,6 +1,6 @@
 # Alan Dixon
 
-Alan Dixon is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Desa Kitsune, Bali on Tue, 13 Oct 2026.
+Alan Dixon is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Desa Kitsune, Bali on Tue, 13 Oct 2026.
 
 Alan Dixon is a house and afro house artist based in United Kingdom, with 89 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 32 more. Often billed alongside Melvo Baptiste, Dave Lee and Kiddy Smile. Next up: Desa Kitsune, Bali on Tue 13 Oct.
 
@@ -11,7 +11,7 @@ Alan Dixon is a house and afro house artist based in United Kingdom, with 89 gig
 | Tue, 13 Oct 2026 | Desa Kitsune | Bali |
 | Fri, 16 Oct 2026 | TBA -  Ex Hacienda de San Pablo de Enmedio | Mexico City |
 | Fri, 16 Oct 2026 | Ex Hacienda de San Pablo de Enmedio | Mexico City |
-| Tue, 20 Oct 2026 | 77 | London |
+| Fri, 20 Nov 2026 | 77 | London |
 
 ## Recently played
 
@@ -28,4 +28,4 @@ Alan Dixon is a house and afro house artist based in United Kingdom, with 89 gig
 
 Melvo Baptiste, Dave Lee, Kiddy Smile
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alandixon/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alandixon/)*

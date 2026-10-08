@@ -1,6 +1,6 @@
 # Priku
 
-Priku is a Minimal and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Stereo, Montreal on Fri, 9 Oct 2026.
+Priku is a Minimal and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Stereo, Montreal on Fri, 9 Oct 2026.
 
 Priku is a minimal and house artist based in Romania, with 175 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 41 more. Often billed alongside Arapu, Sossa and Seth Troxler. Next up: Stereo, Montreal on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ Priku is a minimal and house artist based in Romania, with 175 gigs on soundchec
 
 Arapu, Sossa, Seth Troxler
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/priku/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/priku/)*

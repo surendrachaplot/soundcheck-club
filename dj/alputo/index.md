@@ -1,14 +1,15 @@
 # Alputo
 
-Alputo is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - LFO, Madrid on Fri, 16 Oct 2026.
+Alputo is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - LFO, Madrid on Fri, 16 Oct 2026.
 
-Alputo is a techno and electronica artist based in Spain, with 34 gigs on soundcheck across Barcelona, Madrid and Prague. Often billed alongside PaulPerView, Sol Caballero and Alviker. Next up: TBA - LFO, Madrid on Fri 16 Oct.
+Alputo is a techno and trance artist based in Spain, with 35 gigs on soundcheck across Barcelona, Madrid and Prague. Often billed alongside PaulPerView, Alviker and Sol Caballero. Next up: TBA - LFO, Madrid on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | TBA - LFO | Madrid |
+| Thu, 29 Oct 2026 | The Bassement | Madrid |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Alputo is a techno and electronica artist based in Spain, with 34 gigs on soundc
 
 ## Shares bills with
 
-PaulPerView, Sol Caballero, Alviker
+PaulPerView, Alviker, Sol Caballero
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alputo/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alputo/)*

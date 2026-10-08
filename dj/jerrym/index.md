@@ -1,6 +1,6 @@
 # Jerry M
 
-Jerry M is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Smokey Club, Amsterdam on Thu, 22 Oct 2026.
+Jerry M is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Smokey Club, Amsterdam on Thu, 22 Oct 2026.
 
 Jerry M is a techno and house artist based in Poland, with 58 gigs on soundcheck across Amsterdam and Warsaw. Often billed alongside WEIKUM, Meskalino and Koryt. Next up: Smokey Club, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Jerry M is a techno and house artist based in Poland, with 58 gigs on soundcheck
 
 WEIKUM, Meskalino, Koryt
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jerrym/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jerrym/)*

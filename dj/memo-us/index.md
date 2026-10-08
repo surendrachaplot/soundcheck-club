@@ -1,6 +1,6 @@
 # Memo
 
-Memo is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Soul Side Vinyl, San Diego on Thu, 8 Oct 2026.
+Memo is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Soul Side Vinyl, San Diego on Thu, 8 Oct 2026.
 
 Memo is a house and deep house artist, with 3 gigs on soundcheck across Copenhagen, San Diego and Tijuana. Often billed alongside astrosof, Esther Urioste and Frrrrr. Next up: Soul Side Vinyl, San Diego on Thu 8 Oct.
 
@@ -19,4 +19,4 @@ Memo is a house and deep house artist, with 3 gigs on soundcheck across Copenhag
 
 astrosof, Esther Urioste, Frrrrr
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memo-us/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memo-us/)*

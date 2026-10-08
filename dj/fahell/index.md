@@ -1,6 +1,6 @@
 # fahell
 
-fahell is a Grime and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Fuchs2, Prague on Sat, 17 Oct 2026.
+fahell is a Grime and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Fuchs2, Prague on Sat, 17 Oct 2026.
 
 fahell is a grime and techno artist based in Czech Republic, with 19 gigs on soundcheck across Prague. Often billed alongside TerminusTechnikus, Atch22 and Dj Alyaz. Next up: Fuchs2, Prague on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ fahell is a grime and techno artist based in Czech Republic, with 19 gigs on sou
 
 TerminusTechnikus, Atch22, Dj Alyaz
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fahell/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fahell/)*

@@ -1,14 +1,15 @@
 # DJ Rolando
 
-DJ Rolando is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Quarters, Brighton on Sat, 31 Oct 2026.
+DJ Rolando is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Quarters, Brighton on Sat, 31 Oct 2026.
 
-DJ Rolando is a techno and house artist based in United States of America, with 34 gigs on soundcheck across Amsterdam, Belfast, Berlin and Brighton and 14 more. Often billed alongside Gerd Janson, James Ruskin and Lakuti. Next up: Quarters, Brighton on Sat 31 Oct.
+DJ Rolando is a techno and house artist based in United States of America, with 35 gigs on soundcheck across Amsterdam, Belfast, Berlin and Brighton and 14 more. Often billed alongside Gerd Janson, James Ruskin and Lakuti. Next up: Quarters, Brighton on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Quarters | Brighton |
+| Fri, 20 Nov 2026 | public records | New York City |
 | Sun, 6 Dec 2026 | TBA | Madrid |
 
 ## Recently played
@@ -26,4 +27,4 @@ DJ Rolando is a techno and house artist based in United States of America, with 
 
 Gerd Janson, James Ruskin, Lakuti
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rolando/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rolando/)*

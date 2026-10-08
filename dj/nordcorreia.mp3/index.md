@@ -1,6 +1,6 @@
 # nordcorreia.mp3
 
-nordcorreia.mp3 is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Reineke Fuchs, Cologne on Fri, 9 Oct 2026.
+nordcorreia.mp3 is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Reineke Fuchs, Cologne on Fri, 9 Oct 2026.
 
 nordcorreia.mp3 is a techno and trance artist based in Germany, with 51 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 4 more. Often billed alongside Amøn, Boltcore and FEROTONINO. Next up: Reineke Fuchs, Cologne on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ nordcorreia.mp3 is a techno and trance artist based in Germany, with 51 gigs on 
 
 Amøn, Boltcore, FEROTONINO
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nordcorreia.mp3/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nordcorreia.mp3/)*

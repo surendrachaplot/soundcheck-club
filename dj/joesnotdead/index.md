@@ -1,6 +1,6 @@
 # Joesnotdead
 
-Joesnotdead is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - SECRET WAREHOUSE, Hong Kong on Sat, 17 Oct 2026.
+Joesnotdead is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - SECRET WAREHOUSE, Hong Kong on Sat, 17 Oct 2026.
 
 Joesnotdead is a bass and drum & bass artist, with 25 gigs on soundcheck across Hong Kong and Turin. Often billed alongside GONG!, 1908 and HØRǍÇÍÒ. Next up: TBA - SECRET WAREHOUSE, Hong Kong on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Joesnotdead is a bass and drum & bass artist, with 25 gigs on soundcheck across 
 
 GONG!, 1908, HØRǍÇÍÒ
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joesnotdead/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joesnotdead/)*

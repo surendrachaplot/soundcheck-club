@@ -1,13 +1,14 @@
 # swisherman
 
-swisherman is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Oxford Art Factory, Sydney on Fri, 8 Jan 2027.
+swisherman is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Lord Gladstone, Sydney on Sat, 31 Oct 2026.
 
-swisherman is a techno and bass artist based in Australia, with 10 gigs on soundcheck across Sydney. Often billed alongside Fashionably Late, Karmel Jäger and Lopro. Next up: Oxford Art Factory, Sydney on Fri 8 Jan.
+swisherman is a techno and bass artist based in Australia, with 11 gigs on soundcheck across Sydney. Often billed alongside Fashionably Late, Karmel Jäger and Lopro. Next up: The Lord Gladstone, Sydney on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | The Lord Gladstone | Sydney |
 | Fri, 8 Jan 2027 | Oxford Art Factory | Sydney |
 
 ## Recently played
@@ -25,4 +26,4 @@ swisherman is a techno and bass artist based in Australia, with 10 gigs on sound
 
 Fashionably Late, Karmel Jäger, Lopro
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swisherman/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swisherman/)*

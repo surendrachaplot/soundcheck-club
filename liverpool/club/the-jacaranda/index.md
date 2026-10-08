@@ -1,6 +1,6 @@
 # The Jacaranda
 
-The Jacaranda is a music venue in Liverpool with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "Dan Croll: Album Launch Show" on Sat, 10 Oct 2026.
+The Jacaranda is a music venue in Liverpool with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "Dan Croll: Album Launch Show" on Sat, 10 Oct 2026.
 
 The Jacaranda is a music venue in Liverpool listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 21-23 Slater St, Liverpool L1 4BW, UK.
 
@@ -14,4 +14,4 @@ The Jacaranda is a music venue in Liverpool listed on soundcheck. 1 upcoming gig
 
 21-23 Slater St, Liverpool L1 4BW, UK, Liverpool
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/the-jacaranda/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/the-jacaranda/)*

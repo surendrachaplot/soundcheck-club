@@ -1,14 +1,15 @@
 # Roman Sensation
 
-Roman Sensation is a Reggaeton and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at The Chocolate Factory, New-york-city on Fri, 16 Oct 2026.
+Roman Sensation is a Reggaeton and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Chocolate Factory, New-york-city on Fri, 16 Oct 2026.
 
-Roman Sensation is a reggaeton and latin bass artist based in United States of America, with 15 gigs on soundcheck across Houston, New York City and Sydney. Often billed alongside OYYSTER, Oscar Nñ and Coyado. Next up: The Chocolate Factory, New York City on Fri 16 Oct.
+Roman Sensation is a reggaeton and latin bass artist based in United States of America, with 16 gigs on soundcheck across Houston, New York City and Sydney. Often billed alongside OYYSTER, Oscar Nñ and Coyado. Next up: The Chocolate Factory, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | The Chocolate Factory | New-york-city |
+| Fri, 30 Oct 2026 | The Meadows | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Roman Sensation is a reggaeton and latin bass artist based in United States of A
 
 OYYSTER, Oscar Nñ, Coyado
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romansensation/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romansensation/)*

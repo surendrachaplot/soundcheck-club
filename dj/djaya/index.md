@@ -1,8 +1,8 @@
 # DJ AYA
 
-DJ AYA is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Fitzroy, Berlin on Sun, 11 Oct 2026.
+DJ AYA is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Fitzroy, Berlin on Sun, 11 Oct 2026.
 
-DJ AYA is a techno and house artist based in Switzerland, with 178 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside DJ Fuckoff, Aaron Blau and DJ Gigola. Next up: Fitzroy, Berlin on Sun 11 Oct.
+DJ AYA is a techno and house artist based in Switzerland, with 179 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside DJ Fuckoff, Aaron Blau and DJ Gigola. Next up: Fitzroy, Berlin on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ AYA is a techno and house artist based in Switzerland, with 178 gigs on sound
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | Fitzroy | Berlin |
 | Fri, 16 Oct 2026 | Tokonoma Club | Frankfurt |
+| Sat, 17 Oct 2026 | Karmen Camina | Strasbourg |
 | Thu, 22 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 23 Oct 2026 | H7 Warehouse | Amsterdam |
 | Fri, 30 Oct 2026 | Indiego Glocksee | Hannover |
@@ -31,4 +32,4 @@ DJ AYA is a techno and house artist based in Switzerland, with 178 gigs on sound
 
 DJ Fuckoff, Aaron Blau, DJ Gigola
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djaya/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djaya/)*

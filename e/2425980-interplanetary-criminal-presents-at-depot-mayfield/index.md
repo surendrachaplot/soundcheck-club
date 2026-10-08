@@ -1,6 +1,6 @@
 # Interplanetary Criminal presents at Depot Mayfield
 
-Interplanetary Criminal presents at Depot Mayfield on Sat 10 Oct, Manchester. 26 artists: Anz, Bakey, bullet tooth and Camille Doe and 22 more. Garage and Jungle. See the line-up on soundcheck.
+Interplanetary Criminal presents at Depot Mayfield on Sat 10 Oct, Manchester. 29 artists: Anz, Bakey, bullet tooth and Camille Doe and 25 more. Garage and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Interplanetary Criminal presents at Depot Mayfield on Sat 10 Oct, Manchester. 26
 - bullet tooth
 - Camille Doe
 - Club Angel
+- Denham Audio
 - DJ Cosworth
 - DJ Seinfeld
 - Dr Dubplate
@@ -28,11 +29,13 @@ Interplanetary Criminal presents at Depot Mayfield on Sat 10 Oct, Manchester. 26
 - Larishka
 - Lauren Lo Sung
 - Lewis Taylor
+- Madam X
 - Main Phase
 - MALUGI
 - Notion
 - Oldboy
 - Osmosis Jones
+- Paleman
 - Prozak (IRL)
 - Silva Bumpa
 - Skin On Skin

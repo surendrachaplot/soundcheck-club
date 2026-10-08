@@ -1,6 +1,6 @@
 # Dusan Nikolic
 
-Dusan Nikolic is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Le Maquis Club, Hanoi on Sat, 10 Oct 2026.
+Dusan Nikolic is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Le Maquis Club, Hanoi on Sat, 10 Oct 2026.
 
 Dusan Nikolic is a house and techno artist based in Serbia, with 6 gigs on soundcheck across Bangkok, Belgrade, Hanoi and Seoul. Often billed alongside Techa, Zwi and Anh Vy. Next up: Le Maquis Club, Hanoi on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Dusan Nikolic is a house and techno artist based in Serbia, with 6 gigs on sound
 
 Techa, Zwi, Anh Vy
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dusannikolic/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dusannikolic/)*

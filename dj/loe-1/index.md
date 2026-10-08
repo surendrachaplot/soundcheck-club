@@ -1,6 +1,6 @@
 # Loe (JP)
 
-Loe (JP) is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Upsidedown, Osaka on Fri, 16 Oct 2026.
+Loe (JP) is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Upsidedown, Osaka on Fri, 16 Oct 2026.
 
 Loe (JP) is a techno and ambient artist based in Japan, with 68 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Endurance, AOKI takamasa and SPINNUTS. Next up: Upsidedown, Osaka on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Loe (JP) is a techno and ambient artist based in Japan, with 68 gigs on soundche
 
 Endurance, AOKI takamasa, SPINNUTS
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loe-1/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loe-1/)*

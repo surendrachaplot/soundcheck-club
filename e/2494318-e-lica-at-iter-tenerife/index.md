@@ -1,6 +1,6 @@
 # Eólica at Iter Tenerife
 
-Eólica at Iter Tenerife on Fri 16 Oct, Canary Islands. 18 artists: Danilo Plessow, Dee Diggs, Eris Drew and Fernanda Arrau and 14 more. See the line-up on soundcheck.
+Eólica at Iter Tenerife on Fri 16 Oct, Canary Islands. 19 artists: Anna Ogay, Danilo Plessow, Dee Diggs and Eris Drew and 15 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Eólica at Iter Tenerife on Fri 16 Oct, Canary Islands. 18 artists: Danilo Pless
 
 ## Line-up
 
+- Anna Ogay
 - Danilo Plessow
 - Dee Diggs
 - Eris Drew

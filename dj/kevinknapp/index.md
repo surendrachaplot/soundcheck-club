@@ -1,6 +1,6 @@
 # Kevin Knapp
 
-Kevin Knapp is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at The Continental Bar, San-jose on Sun, 18 Oct 2026.
+Kevin Knapp is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at The Continental Bar, San-jose on Sun, 18 Oct 2026.
 
 Kevin Knapp is a house and tech house artist based in United States of America, with 30 gigs on soundcheck across Austin, Chicago, Denver and Detroit and 9 more. Often billed alongside Mikey Lion, Gettoblaster and J.Phlip. Next up: The Continental Bar, San Jose on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Kevin Knapp is a house and tech house artist based in United States of America, 
 
 Mikey Lion, Gettoblaster, J.Phlip
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinknapp/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinknapp/)*

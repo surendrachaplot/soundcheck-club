@@ -1,0 +1,28 @@
+# Marina Trench
+
+Marina Trench is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Cabaret Sauvage, Paris on Sat, 28 Nov 2026.
+
+Marina Trench is a house and techno artist, with 61 gigs on soundcheck across Bangkok, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Dylan Dylan, Kapote and DJ Gregory. Next up: Cabaret Sauvage, Paris on Sat 28 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 28 Nov 2026 | Cabaret Sauvage | Paris |
+
+## Recently played
+
+- Le Sucre, Lyon · Sat, 5 Sept 2026
+- La Cité Fertile, Paris · Fri, 31 Jul 2026
+- Magasins Généraux, Paris · Fri, 12 Jun 2026
+- TBA - La Vieille Charité, Marseille · Fri, 5 Jun 2026
+- Silencio, Paris · Sat, 28 Mar 2026
+- Sacré, Paris · Sat, 7 Mar 2026
+- Rex Club, Paris · Sat, 31 Jan 2026
+- Art Club, Marseille · Sat, 6 Dec 2025
+
+## Shares bills with
+
+Dylan Dylan, Kapote, DJ Gregory
+
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marinatrench/)*

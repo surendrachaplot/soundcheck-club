@@ -1,6 +1,6 @@
 # Nanogram
 
-Nanogram is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Ping Pong 129, Hong Kong on Sat, 10 Oct 2026.
+Nanogram is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Ping Pong 129, Hong Kong on Sat, 10 Oct 2026.
 
 Nanogram is a techno and industrial artist based in China, with 59 gigs on soundcheck across Hong Kong, Seoul, Shenzhen and Tokyo. Often billed alongside MarcoYu, YONG YING and Yadin Moha. Next up: Ping Pong 129, Hong Kong on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Nanogram is a techno and industrial artist based in China, with 59 gigs on sound
 
 MarcoYu, YONG YING, Yadin Moha
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanogram/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanogram/)*

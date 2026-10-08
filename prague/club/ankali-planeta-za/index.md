@@ -1,8 +1,8 @@
 # Ankali & Planeta Za
 
-Ankali & Planeta Za is a music venue in Prague with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "#wubwub x Markham Road Records" on Fri, 9 Oct 2026.
+Ankali & Planeta Za is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "#wubwub x Markham Road Records" on Fri, 9 Oct 2026.
 
-Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 8 upcoming gigs, with line-ups including 3ever, Alfred Czital, A/PM and AVHD and 2 more. See dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
+Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 10 upcoming gigs, with line-ups including 3ever, Alfred Czital, A/PM and AVHD and 2 more. See dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
 
 ## What's on
 
@@ -14,11 +14,13 @@ Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 8 upcoming 
 | Sat, 17 Oct 2026 | noRemorse // dogheadsurigeri, 3ever, Nina Farrina, SJ Yellow, tmk, yo haan | 3ever, Nina Farrina, SJ Yellow, dogheadsurigeri, tmk (CZ), yo haan |
 | Fri, 23 Oct 2026 | DICK with Cormac | Cormac, Kaotic, Misha Jaru, S.Tian |
 | Sat, 24 Oct 2026 | ✦ Kitchen Collective ✦: New Season | AVHD, Blanchita, DJames (2), Krackk, Marie Pravda, Møreti, Takē, White Aura, frujty, ishka machina |
+| Fri, 30 Oct 2026 | Archiv Teknologi: Pariah, Microchic, kletis | Microchic, Pariah, kletis |
 | Sat, 31 Oct 2026 | Spooky Sexy Extravgnza | Ayiaa, Big Lil, Fembot, PRDELANZA, TAPCUE, VISNEACS, patricccio |
 | Sat, 14 Nov 2026 | HEAT X with GLIA | Demonika, GLIA, Midirama, VI:AM, Zuzana Hakl |
+| Thu, 31 Dec 2026 | #nye_extended [24h] |  |
 
 ## Address
 
 Lopuchová 58/6, Prague, 101 00, Czechia, Prague
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*

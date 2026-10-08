@@ -1,6 +1,6 @@
 # Demuja
 
-Demuja is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at PRST, Vienna on Thu, 8 Oct 2026.
+Demuja is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at PRST, Vienna on Thu, 8 Oct 2026.
 
 Demuja is a house and disco artist based in Austria, with 107 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 37 more. Often billed alongside Black Loops, Cinthie and EG. Next up: PRST, Vienna on Thu 8 Oct.
 
@@ -28,4 +28,4 @@ Demuja is a house and disco artist based in Austria, with 107 gigs on soundcheck
 
 Black Loops, Cinthie, EG (1)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demuja/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demuja/)*

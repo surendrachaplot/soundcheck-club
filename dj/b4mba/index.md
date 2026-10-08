@@ -1,6 +1,6 @@
 # B4mba
 
-B4mba is a Experimental and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Pluto, Valencia on Sat, 10 Oct 2026.
+B4mba is a Experimental and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Pluto, Valencia on Sat, 10 Oct 2026.
 
 B4mba is an experimental and bass artist based in Spain, with 39 gigs on soundcheck across Barcelona, Berlin, Brussels and Krakow and 6 more. Often billed alongside Baba Sy, TNTC and Opoku. Next up: Pluto, Valencia on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ B4mba is an experimental and bass artist based in Spain, with 39 gigs on soundch
 
 Baba Sy, TNTC, Opoku
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b4mba/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b4mba/)*

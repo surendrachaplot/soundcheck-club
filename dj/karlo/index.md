@@ -1,13 +1,14 @@
 # Karlo
 
-Karlo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, Manila on Sat, 31 Oct 2026.
+Karlo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Shooting Gallery, Philippines on Sat, 10 Oct 2026.
 
-Karlo is a house and techno artist, with 24 gigs on soundcheck across Bangkok, Berlin, Hong Kong and Manila and 4 more. Often billed alongside Hideki Ito, Teruu and Al Jones. Next up: TBA, Manila on Sat 31 Oct.
+Karlo is a house and techno artist, with 25 gigs on soundcheck across Bangkok, Berlin, Hong Kong and Manila and 5 more. Often billed alongside Hideki Ito, Teruu and Al Jones. Next up: Shooting Gallery, Philippines on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Shooting Gallery | Philippines |
 | Sat, 31 Oct 2026 | TBA | Manila |
 
 ## Recently played
@@ -25,4 +26,4 @@ Karlo is a house and techno artist, with 24 gigs on soundcheck across Bangkok, B
 
 Hideki Ito, Teruu, Al Jones
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karlo/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karlo/)*

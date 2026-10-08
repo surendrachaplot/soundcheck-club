@@ -1,8 +1,8 @@
 # Kapsule
 
-Kapsule is a music venue in Liverpool with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Jamie Fielding All Night Long - Modello" on Fri, 9 Oct 2026.
+Kapsule is a music venue in Liverpool with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Jamie Fielding All Night Long - Modello" on Fri, 9 Oct 2026.
 
-Kapsule is a music venue in Liverpool listed on soundcheck. 10 upcoming gigs, with line-ups including Autumns, Bradley Zero, Budino and Chaos In The CBD and 2 more. See dates, start times and who's playing. 3 Regent Road, Liverpool, L3 7DS.
+Kapsule is a music venue in Liverpool listed on soundcheck. 11 upcoming gigs, with line-ups including Autumns, Binh, Bobby. and Bradley Zero and 2 more. See dates, start times and who's playing. 3 Regent Road, Liverpool, L3 7DS.
 
 ## What's on
 
@@ -14,13 +14,13 @@ Kapsule is a music venue in Liverpool listed on soundcheck. 10 upcoming gigs, wi
 | Sat, 24 Oct 2026 | Glass presents Chaos In The CBD In Dust We Trust Tour | Chaos In The CBD, RoomToo |
 | Fri, 30 Oct 2026 | PSS Halloween with Rossko, Nay Barr & Riles | Rossko |
 | Sat, 14 Nov 2026 | Foreplay: Soul Mass Transit System (2hr), Sulphur,  Lu.Re | Lu.Re, Soul Mass Transit System, Sulphur |
+| Fri, 20 Nov 2026 | Kapsule with Binh & BOBBY | Binh, Bobby. |
 | Sat, 28 Nov 2026 | Sirens Call with Bradley Zero All Night Long | Bradley Zero |
 | Sat, 28 Nov 2026 | The Sirens Call with Bradley Zero All Night Long | Bradley Zero |
 | Fri, 4 Dec 2026 | NICECATCH! PRESENTS Foehn & Jerome | Foehn & Jerome |
-| Sun, 27 Dec 2026 | mUmU  [The techno edition] |  |
 
 ## Address
 
 3 Regent Road, Liverpool, L3 7DS, Liverpool
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kapsule/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kapsule/)*

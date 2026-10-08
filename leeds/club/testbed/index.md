@@ -1,6 +1,6 @@
 # TESTBED
 
-TESTBED is a music venue in Leeds with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Obskür + Support" on Fri, 9 Oct 2026.
+TESTBED is a music venue in Leeds with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Obskür + Support" on Fri, 9 Oct 2026.
 
 TESTBED is a music venue in Leeds listed on soundcheck. 4 upcoming gigs, with line-ups including Dr Banana, Dungeon Meat, Isabelle Koci and Jamie Aramayo and 2 more. See dates, start times and who's playing. Butterley Street.
 
@@ -17,4 +17,4 @@ TESTBED is a music venue in Leeds listed on soundcheck. 4 upcoming gigs, with li
 
 Butterley Street, Leeds
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/testbed/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/testbed/)*

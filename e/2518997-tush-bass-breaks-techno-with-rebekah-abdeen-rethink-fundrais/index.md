@@ -1,0 +1,18 @@
+# TUSH: Bass, Breaks & Techno with Rebekah Abdeen (Rethink Fundraiser) at Cu
+
+TUSH: Bass, Breaks & Techno with Rebekah Abdeen (Rethink Fundraiser) at Cu on Fri 9 Oct, London. 4 artists: babybear, inda Flo, Kassita and Rebekah Abdeen. Techno and Bass. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 9 Oct 2026 |
+| Venue | Cu |
+| City | London |
+
+## Line-up
+
+- babybear (2)
+- inda Flo
+- Kassita
+- Rebekah Abdeen
+
+*Source: [soundcheck](https://soundcheck.club/e/2518997-tush-bass-breaks-techno-with-rebekah-abdeen-rethink-fundrais/)*

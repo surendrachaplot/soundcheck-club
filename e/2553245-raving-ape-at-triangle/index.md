@@ -1,6 +1,6 @@
 # RAVING APE at Triangle
 
-RAVING APE at Triangle on Fri 6 Nov, Osaka. 3 artists: matres, Savage States and ZAGUN. Hardcore and Jungle. See the line-up on soundcheck.
+RAVING APE at Triangle on Fri 6 Nov, Osaka. 4 artists: File Explorer, matres, Savage States and ZAGUN. Hardcore and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ RAVING APE at Triangle on Fri 6 Nov, Osaka. 3 artists: matres, Savage States and
 
 ## Line-up
 
+- File Explorer
 - matres
 - Savage States
 - ZAGUN

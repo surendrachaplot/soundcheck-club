@@ -1,8 +1,8 @@
 # Marotö
 
-Marotö is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Sala Siroco, Madrid on Thu, 8 Oct 2026.
+Marotö is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Sala Siroco, Madrid on Thu, 8 Oct 2026.
 
-Marotö is a techno and tech house artist, with 33 gigs on soundcheck across Barcelona, London and Madrid. Often billed alongside Kily Ruiz, DaniM and Alba Franch. Next up: Sala Siroco, Madrid on Thu 8 Oct.
+Marotö is a techno and tech house artist based in Spain, with 33 gigs on soundcheck across Barcelona, London and Madrid. Often billed alongside Kily Ruiz, DaniM and Alba Franch. Next up: Sala Siroco, Madrid on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Marotö is a techno and tech house artist, with 33 gigs on soundcheck across Bar
 
 Kily Ruiz, DaniM, Alba Franch
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maroto/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maroto/)*

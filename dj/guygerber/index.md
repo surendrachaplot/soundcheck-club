@@ -1,13 +1,14 @@
 # Guy Gerber
 
-Guy Gerber is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Happy Bay Beach, Saint-martin on Wed, 17 Mar 2027.
+Guy Gerber is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Silencio, Paris on Thu, 22 Oct 2026.
 
-Guy Gerber is a house and techno artist based in Israel, with 127 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 24 more. Often billed alongside Noncitizens, Saraga and Annicka. Next up: Happy Bay Beach, Saint Martin on Wed 17 Mar.
+Guy Gerber is a house and techno artist based in Israel, with 128 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 24 more. Often billed alongside Noncitizens, Saraga and Annicka. Next up: Silencio, Paris on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Silencio | Paris |
 | Wed, 17 Mar 2027 | Happy Bay Beach | Saint-martin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Guy Gerber is a house and techno artist based in Israel, with 127 gigs on soundc
 
 Noncitizens, Saraga, Annicka
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guygerber/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guygerber/)*

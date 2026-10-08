@@ -1,6 +1,6 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 13 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "TWOFACEDKIMMY // DJ Jonne Sins // Hida Douse // LESSIG" on Fri, 9 Oct 2026.
+Fundbureau is a music venue in Hamburg with 13 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "TWOFACEDKIMMY // DJ Jonne Sins // Hida Douse // LESSIG" on Fri, 9 Oct 2026.
 
 Fundbureau is a music venue in Hamburg listed on soundcheck. 13 upcoming gigs, with line-ups including Bizzarro Universe, BNZN, Charlie Tee and CHICHO and 2 more. See dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
@@ -15,7 +15,7 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 13 upcoming gigs, w
 | Fri, 16 Oct 2026 | Liquic Concrete with Charlie Tee & T-Lex & Melina | Charlie Tee, Enni Milosj, Fibe, MELINA (3), Sindicate, duaba |
 | Sat, 17 Oct 2026 | OLEA // vivi // LAUT KLUB FLOOR HOSTING | OLEA, vivi |
 | Sat, 17 Oct 2026 | FLINTA Open Decks hosted by Sophie van Hayden |  |
-| Fri, 23 Oct 2026 | MEZZANOTTE Italo Disco | Bizzarro Universe, Lisbird |
+| Fri, 23 Oct 2026 | MEZZANOTTE Italo Disco | Bizzarro Universe, DINKS, Lisbird |
 | Sat, 24 Oct 2026 | sleepover with snoritz // SKKIN VELVET // LIRICA // Pamadii | LIRICA, Pamadii, SKKIN VELVET, snoritz |
 | Fri, 30 Oct 2026 | HARDBUERAU HALLOWEEN EDITION W/ Natta + INNER CIRCLE | Natta |
 
@@ -23,4 +23,4 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 13 upcoming gigs, w
 
 Altländer Str. 1120095 Hamburg, Germany, Hamburg
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*

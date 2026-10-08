@@ -1,6 +1,6 @@
 # Sadeedo
 
-Sadeedo is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Marina Botafoch, Ibiza on Mon, 12 Oct 2026.
+Sadeedo is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Marina Botafoch, Ibiza on Mon, 12 Oct 2026.
 
 Sadeedo is a disco and funk / soul artist, with 23 gigs on soundcheck across Ibiza and London. Often billed alongside Camilo Miranda, Ben Westbeech and Chris Coco. Next up: Marina Botafoch, Ibiza on Mon 12 Oct.
 
@@ -25,4 +25,4 @@ Sadeedo is a disco and funk / soul artist, with 23 gigs on soundcheck across Ibi
 
 Camilo Miranda, Ben Westbeech, Chris Coco
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sadeedo/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sadeedo/)*

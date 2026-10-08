@@ -1,8 +1,8 @@
 # Interplanetary Criminal
 
-Interplanetary Criminal is a Garage and House artist with 14 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+Interplanetary Criminal is a Garage and House artist with 15 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
-Interplanetary Criminal is a garage and house artist based in United Kingdom, with 264 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 71 more. Often billed alongside Main Phase, MALUGI and DJ Heartstring. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
+Interplanetary Criminal is a garage and house artist based in United Kingdom, with 265 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 72 more. Often billed alongside Main Phase, MALUGI and KI/KI. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -17,9 +17,9 @@ Interplanetary Criminal is a garage and house artist based in United Kingdom, wi
 | Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 | Fri, 30 Oct 2026 | Beach House San Diego | San Diego |
+| Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Sat, 7 Nov 2026 | BERHTA | Washington DC |
 | Sat, 14 Nov 2026 | Maassilo | Rotterdam |
-| Sat, 21 Nov 2026 | NX Newcastle | Newcastle |
 
 ## Recently played
 
@@ -34,6 +34,6 @@ Interplanetary Criminal is a garage and house artist based in United Kingdom, wi
 
 ## Shares bills with
 
-Main Phase, MALUGI, DJ Heartstring
+Main Phase, MALUGI, KI/KI
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*

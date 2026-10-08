@@ -1,6 +1,6 @@
 # Destro187
 
-Destro187 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Robert Fulton Park - 70 Chauncey St, Brooklyn, New York City on Sat, 10 Oct 2026.
+Destro187 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Robert Fulton Park - 70 Chauncey St, Brooklyn, New York City on Sat, 10 Oct 2026.
 
 Destro187 is a techno and house artist based in United States of America, with 44 gigs on soundcheck across Chicago, Detroit, New York City and Washington DC. Often billed alongside Alexander Technique, SPEEDŸ and Giovani. Next up: TBA - Robert Fulton Park - 70 Chauncey St, Brooklyn, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Destro187 is a techno and house artist based in United States of America, with 4
 
 Alexander Technique, SPEEDŸ, Giovani
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/destro187/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/destro187/)*

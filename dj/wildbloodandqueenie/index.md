@@ -1,6 +1,6 @@
 # Wildblood and Queenie
 
-Wildblood and Queenie is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at WaterBear Venue, Brighton on Sat, 21 Nov 2026.
+Wildblood and Queenie is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at WaterBear Venue, Brighton on Sat, 21 Nov 2026.
 
 Wildblood and Queenie are a house and disco duo based in United Kingdom, with 35 gigs on soundcheck across Brighton and London. Often billed alongside Horse Meat Disco, Chris de Buerre and Jess Hands. Next up: WaterBear Venue, Brighton on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Wildblood and Queenie are a house and disco duo based in United Kingdom, with 35
 
 Horse Meat Disco, Chris de Buerre, Jess Hands
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wildbloodandqueenie/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wildbloodandqueenie/)*

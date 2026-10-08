@@ -1,6 +1,6 @@
 # Fortune Sound Club
 
-Fortune Sound Club is a music venue in Vancouver with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Propagate Presents: Loukeman" on Sat, 10 Oct 2026.
+Fortune Sound Club is a music venue in Vancouver with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Propagate Presents: Loukeman" on Sat, 10 Oct 2026.
 
 Fortune Sound Club is a music venue in Vancouver listed on soundcheck. 4 upcoming gigs, with line-ups including Amtrac, DJ Habibeats, Loukeman and MTooray. See dates, start times and who's playing. 147 East Pender St; Vancouver, BC V6A 1T6; Canada.
 
@@ -17,4 +17,4 @@ Fortune Sound Club is a music venue in Vancouver listed on soundcheck. 4 upcomin
 
 147 East Pender St; Vancouver, BC V6A 1T6; Canada, Vancouver
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/fortune-sound-club/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/fortune-sound-club/)*

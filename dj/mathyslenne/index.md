@@ -1,8 +1,8 @@
 # Mathys Lenne
 
-Mathys Lenne is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Gaffe, London on Sat, 17 Oct 2026.
+Mathys Lenne is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Gaffe, London on Sat, 17 Oct 2026.
 
-Mathys Lenne is a techno and house artist based in France, with 95 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 29 more. Often billed alongside Maris Shilton, Olivia Mendez and Mara Menace. Next up: Gaffe, London on Sat 17 Oct.
+Mathys Lenne is a techno and house artist based in France, with 96 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 29 more. Often billed alongside Olivia Mendez, Maris Shilton and Mara Menace. Next up: Gaffe, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mathys Lenne is a techno and house artist based in France, with 95 gigs on sound
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Gaffe | London |
 | Sun, 18 Oct 2026 | NUMBER 90 LONDON | London |
+| Sat, 14 Nov 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Mathys Lenne is a techno and house artist based in France, with 95 gigs on sound
 
 ## Shares bills with
 
-Maris Shilton, Olivia Mendez, Mara Menace
+Olivia Mendez, Maris Shilton, Mara Menace
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathyslenne/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathyslenne/)*

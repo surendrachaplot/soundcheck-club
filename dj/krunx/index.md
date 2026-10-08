@@ -1,6 +1,6 @@
 # Krunx
 
-Krunx is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Wibar, Netherlands on Sat, 17 Oct 2026.
+Krunx is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Wibar, Netherlands on Sat, 17 Oct 2026.
 
 Krunx is a hardcore and techno artist based in Netherlands, with 34 gigs on soundcheck across Amsterdam, Bristol, London and Netherlands and 2 more. Often billed alongside ISORA, Hughesee and Louise Plus One. Next up: Wibar, Netherlands on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Krunx is a hardcore and techno artist based in Netherlands, with 34 gigs on soun
 
 ISORA, Hughesee, Louise Plus One
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krunx/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krunx/)*

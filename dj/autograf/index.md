@@ -1,6 +1,6 @@
 # Autograf
 
-Autograf is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Desa Kitsune, Bali on Tue, 13 Oct 2026.
+Autograf is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Desa Kitsune, Bali on Tue, 13 Oct 2026.
 
 Autograf is a house and afro house artist based in United States of America, with 33 gigs on soundcheck across Austin, Bali, Barcelona and Boston and 12 more. Often billed alongside Alan Dixon, Blindstares and Coyote Cat. Next up: Desa Kitsune, Bali on Tue 13 Oct.
 
@@ -26,4 +26,4 @@ Autograf is a house and afro house artist based in United States of America, wit
 
 Alan Dixon, Blindstares, Coyote Cat
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autograf/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autograf/)*

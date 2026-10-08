@@ -1,6 +1,6 @@
 # Hazy Club
 
-Hazy Club is a music venue in Sheffield with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Commune Presents: Boss Priester, RTK Tarantino & Jhobei" on Sat, 10 Oct 2026.
+Hazy Club is a music venue in Sheffield with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Commune Presents: Boss Priester, RTK Tarantino & Jhobei" on Sat, 10 Oct 2026.
 
 Hazy Club is a music venue in Sheffield listed on soundcheck. 2 upcoming gigs, with line-ups including Boss Priester, Captain Wallop, DJ Cosworth and Jhobei and 2 more. See dates, start times and who's playing. 28 Eyre St, Sheffield City Centre, Sheffield S1 4QY.
 
@@ -15,4 +15,4 @@ Hazy Club is a music venue in Sheffield listed on soundcheck. 2 upcoming gigs, w
 
 28 Eyre St, Sheffield City Centre, Sheffield S1 4QY, Sheffield
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/hazy-club/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/hazy-club/)*

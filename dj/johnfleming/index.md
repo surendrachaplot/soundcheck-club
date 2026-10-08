@@ -1,6 +1,6 @@
 # John '00' Fleming
 
-John '00' Fleming is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Pipe Live Music, Taipei on Fri, 9 Oct 2026.
+John '00' Fleming is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Pipe Live Music, Taipei on Fri, 9 Oct 2026.
 
 John '00' Fleming is a trance and techno artist based in United Kingdom, with 41 gigs on soundcheck across Auckland, Birmingham, Brighton and Bristol and 18 more. Often billed alongside Paul Van Dyk, Aly & Fila and Alex M.O.R.P.H.. Next up: Pipe Live Music, Taipei on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ John '00' Fleming is a trance and techno artist based in United Kingdom, with 41
 
 Paul Van Dyk, Aly & Fila, Alex M.O.R.P.H.
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnfleming/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnfleming/)*

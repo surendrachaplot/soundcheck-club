@@ -1,14 +1,15 @@
 # Hector MAD
 
-Hector MAD is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 10 Oct 2026.
+Hector MAD is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 10 Oct 2026.
 
-Hector MAD is a techno and electro artist based in Spain, with 48 gigs on soundcheck across Barcelona, Madrid, Naples and Porto. Often billed alongside Cynth, Ikari and Nebari. Next up: Lasociaciøn, Madrid on Sat 10 Oct.
+Hector MAD is a techno and electro artist based in Spain, with 49 gigs on soundcheck across Barcelona, Madrid, Naples and North and 1 more. Often billed alongside Cynth, Ikari and Nebari. Next up: Lasociaciøn, Madrid on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Lasociaciøn | Madrid |
+| Sat, 26 Dec 2026 | Lanna Club | North |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Hector MAD is a techno and electro artist based in Spain, with 48 gigs on soundc
 
 Cynth, Ikari, Nebari
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hectormad/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hectormad/)*

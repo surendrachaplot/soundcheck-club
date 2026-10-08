@@ -1,13 +1,14 @@
 # KinkyOutsider
 
-KinkyOutsider is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Pałac Kultury i Nauki, Warsaw on Fri, 30 Oct 2026.
+KinkyOutsider is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at MONKEY LOVE, Warsaw on Fri, 16 Oct 2026.
 
-KinkyOutsider is a house and techno artist, with 13 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Easy Audio, Francesco and Fideshi. Next up: Pałac Kultury i Nauki, Warsaw on Fri 30 Oct.
+KinkyOutsider is a house and techno artist, with 14 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Easy Audio, Francesco and Fideshi. Next up: MONKEY LOVE, Warsaw on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | MONKEY LOVE | Warsaw |
 | Fri, 30 Oct 2026 | Pałac Kultury i Nauki | Warsaw |
 
 ## Recently played
@@ -25,4 +26,4 @@ KinkyOutsider is a house and techno artist, with 13 gigs on soundcheck across Kr
 
 Easy Audio, Francesco (4), Fideshi
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinkyoutsider/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinkyoutsider/)*

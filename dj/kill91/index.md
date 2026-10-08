@@ -1,6 +1,6 @@
 # KILL 9 1
 
-KILL 9 1 is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, Toronto on Sat, 3 Oct 2026.
+KILL 9 1 is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA, Toronto on Sat, 3 Oct 2026.
 
 KILL 9 1 is a techno and house artist based in Canada, with 47 gigs on soundcheck across Toronto. Often billed alongside R4TS, Mand0 and Maul. Next up: TBA, Toronto on Sat 3 Oct.
 
@@ -31,4 +31,4 @@ KILL 9 1 is a techno and house artist based in Canada, with 47 gigs on soundchec
 
 R4TS, Mand0, Maul (2)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kill91/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kill91/)*

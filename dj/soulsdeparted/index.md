@@ -1,8 +1,8 @@
 # Souls Departed
 
-Souls Departed is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Souls Departed is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Souls Departed is a techno and experimental artist based in United States of America, with 31 gigs on soundcheck across Detroit and Miami. Often billed alongside SATURNSARii, Mr. Tron and True Vine. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Souls Departed is a techno and experimental artist based in United States of America, with 32 gigs on soundcheck across Detroit and Miami. Often billed alongside SATURNSARii, True Vine and Mr. Tron. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Souls Departed is a techno and experimental artist based in United States of Ame
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Fri, 6 Nov 2026 | Floyd | Miami |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Souls Departed is a techno and experimental artist based in United States of Ame
 
 ## Shares bills with
 
-SATURNSARii, Mr. Tron, True Vine
+SATURNSARii, True Vine, Mr. Tron
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulsdeparted/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulsdeparted/)*

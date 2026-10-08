@@ -1,6 +1,6 @@
 # Avve
 
-Avve is a music venue in Bangkok with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "ALTER EGO 6" on Fri, 9 Oct 2026.
+Avve is a music venue in Bangkok with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "ALTER EGO 6 | GROOVE TECHNO - HYPNOTIC - ACID - BREAKBEAT |" on Fri, 9 Oct 2026.
 
 Avve is a music venue in Bangkok listed on soundcheck. 3 upcoming gigs, with line-ups including GLCK, iamhollow, InRemission and Jorgium and 2 more. See dates, start times and who's playing. 25 Edison alley.
 
@@ -8,7 +8,7 @@ Avve is a music venue in Bangkok listed on soundcheck. 3 upcoming gigs, with lin
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | ALTER EGO 6 | Jorgium, NEBESNY, x_me |
+| Fri, 9 Oct 2026 | ALTER EGO 6 / GROOVE TECHNO - HYPNOTIC - ACID - BREAKBEAT / | Jorgium, NEBESNY, x_me |
 | Sat, 24 Oct 2026 | bouncy tales v.1 | POKOLENIE MIKROZAYMOV |
 | Sat, 31 Oct 2026 | SACRISTY HALLOWEEN RAVE - HARD TECHNO - DAY 2 | GLCK, InRemission, NØSYNC, REIKS, iamhollow |
 
@@ -16,4 +16,4 @@ Avve is a music venue in Bangkok listed on soundcheck. 3 upcoming gigs, with lin
 
 25 Edison alley, Bangkok
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/avve/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/avve/)*

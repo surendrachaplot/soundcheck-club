@@ -1,6 +1,6 @@
 # Knust
 
-Knust is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "Cumbia de los Muertos: Kumbia Boruka" on Sat, 31 Oct 2026.
+Knust is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "Cumbia de los Muertos: Kumbia Boruka" on Sat, 31 Oct 2026.
 
 Knust is a music venue in Hamburg listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Neuer Kamp 30, 20357 Hamburg, Germany.
 
@@ -14,4 +14,4 @@ Knust is a music venue in Hamburg listed on soundcheck. 1 upcoming gig. See date
 
 Neuer Kamp 30, 20357 Hamburg, Germany, Hamburg
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/knust/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/knust/)*

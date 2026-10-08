@@ -1,6 +1,6 @@
 # JDH
 
-JDH is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Gabriela, New York City on Sun, 11 Oct 2026.
+JDH is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Gabriela, New York City on Sun, 11 Oct 2026.
 
 JDH is a house and techno artist based in United States of America, with 36 gigs on soundcheck across Athens, Barcelona, Berlin and Munich and 3 more. Often billed alongside Gee Dee, Budino and Avalon Emerson. Next up: Gabriela, New York City on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ JDH is a house and techno artist based in United States of America, with 36 gigs
 
 Gee Dee, Budino, Avalon Emerson
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jdh/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jdh/)*

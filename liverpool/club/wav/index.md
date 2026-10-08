@@ -1,8 +1,8 @@
 # WaV
 
-WaV is a music venue in Liverpool with 12 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "THE BACKROOMS presents: HADES + MORE" on Sat, 10 Oct 2026.
+WaV is a music venue in Liverpool with 14 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "THE BACKROOMS presents: HADES + MORE" on Sat, 10 Oct 2026.
 
-WaV is a music venue in Liverpool listed on soundcheck. 12 upcoming gigs, with line-ups including Aidyscape, Ciaran McAuley, Connor (UK) and David Rust and 2 more. See dates, start times and who's playing. 8 Glegg Street, Liverpool , L3 7DX.
+WaV is a music venue in Liverpool listed on soundcheck. 14 upcoming gigs, with line-ups including Aidyscape, Ciaran McAuley, Connor (UK) and David Rust and 2 more. See dates, start times and who's playing. 8 Glegg Street, Liverpool , L3 7DX.
 
 ## What's on
 
@@ -15,12 +15,12 @@ WaV is a music venue in Liverpool listed on soundcheck. 12 upcoming gigs, with l
 | Sat, 24 Oct 2026 | 909 x WAV presents James Zabiela & Dmitry Molosh | Dmitry Molosh, Fidge, James Zabiela |
 | Fri, 30 Oct 2026 | David Rust presents Redline | David Rust |
 | Sat, 31 Oct 2026 | SHOW ME LUV: Halloween Night |  |
+| Fri, 6 Nov 2026 | Apex X Amplify Presents: WILL ATKINSON | JRD |
 | Sat, 7 Nov 2026 | Seb Fontaine presents Prototype | Seb Fontaine |
 | Sat, 14 Nov 2026 | Ravelife: Event 6 at WAV | Klubfiller, Nanna Makina |
-| Sat, 28 Nov 2026 | 909 x WAV presents Seladoria |  |
 
 ## Address
 
 8 Glegg Street, Liverpool , L3 7DX, Liverpool
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*

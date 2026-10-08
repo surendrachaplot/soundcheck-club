@@ -1,8 +1,8 @@
 # Luke Dean_
 
-Luke Dean_ is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Luke Dean_ is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Luke Dean_ is a house and tech house artist based in United Kingdom, with 114 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Brighton and 30 more. Often billed alongside Max Dean, Locky and L.P. Rhythm. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Luke Dean_ is a house and tech house artist based in United Kingdom, with 116 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Brighton and 30 more. Often billed alongside Max Dean, Locky and L.P. Rhythm. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Luke Dean_ is a house and tech house artist based in United Kingdom, with 114 gi
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sun, 25 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
+| Sun, 1 Nov 2026 | Chelmsford City Racecourse | London |
+| Fri, 20 Nov 2026 | TBA - 546 Collins Street, Melbourne | Melbourne |
 | Sat, 21 Nov 2026 | Fleet Steps - Mrs Macquaries Point | Sydney |
 | Sat, 21 Nov 2026 | The Ivy | Sydney |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
@@ -32,4 +34,4 @@ Luke Dean_ is a house and tech house artist based in United Kingdom, with 114 gi
 
 Max Dean, Locky, L.P. Rhythm
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*

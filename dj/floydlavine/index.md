@@ -1,14 +1,14 @@
 # Floyd Lavine
 
-Floyd Lavine is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Thu, 22 Oct 2026.
+Floyd Lavine is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
-Floyd Lavine is an afro house and house artist based in South Africa, with 68 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 21 more. Often billed alongside Black Coffee, Damian Lazarus and Paul Reynolds. Next up: Amsterdam Central Station, Amsterdam on Thu 22 Oct.
+Floyd Lavine is an afro house and house artist based in South Africa, with 68 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 21 more. Often billed alongside Black Coffee, Damian Lazarus and Paul Reynolds. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Amsterdam Central Station | Amsterdam |
+| Thu, 22 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Floyd Lavine is an afro house and house artist based in South Africa, with 68 gi
 
 Black Coffee, Damian Lazarus, Paul Reynolds
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floydlavine/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floydlavine/)*

@@ -1,8 +1,8 @@
 # Macy Lancaster
 
-Macy Lancaster is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Yes, Manchester on Fri, 23 Oct 2026.
+Macy Lancaster is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Yes, Manchester on Fri, 23 Oct 2026.
 
-Macy Lancaster is a house and disco artist based in United Kingdom, with 68 gigs on soundcheck across Ibiza, London and Manchester. Often billed alongside Nick Charles, CASSÖ and Multunes. Next up: Yes, Manchester on Fri 23 Oct.
+Macy Lancaster is a house and disco artist based in United Kingdom, with 69 gigs on soundcheck across Ibiza, London and Manchester. Often billed alongside Nick Charles, CASSÖ and Multunes. Next up: Yes, Manchester on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Macy Lancaster is a house and disco artist based in United Kingdom, with 68 gigs
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Yes | Manchester |
 | Thu, 29 Oct 2026 | Yes | Manchester |
+| Sat, 21 Nov 2026 | Cupra City Garage Manchester | Manchester |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Macy Lancaster is a house and disco artist based in United Kingdom, with 68 gigs
 
 Nick Charles, CASSÖ, Multunes
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/macylancaster/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/macylancaster/)*

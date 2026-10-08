@@ -1,8 +1,8 @@
 # Moonz
 
-Moonz is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - EAST LONDON- announced to ticket holders on the day, London on Fri, 16 Oct 2026.
+Moonz is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - EAST LONDON- announced to ticket holders on the day, London on Fri, 16 Oct 2026.
 
-Moonz is a techno and tech house artist, with 61 gigs on soundcheck across London. Often billed alongside Enrico Chirchiello, Billa Bazz and T1. Next up: TBA - EAST LONDON- announced to ticket holders on the day, London on Fri 16 Oct.
+Moonz is a techno and tech house artist based in United Kingdom, with 61 gigs on soundcheck across London. Often billed alongside Enrico Chirchiello, Billa Bazz and T1. Next up: TBA - EAST LONDON- announced to ticket holders on the day, London on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Moonz is a techno and tech house artist, with 61 gigs on soundcheck across Londo
 
 Enrico Chirchiello, Billa Bazz, T1 (1)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moonz/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moonz/)*

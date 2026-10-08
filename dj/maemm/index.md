@@ -1,14 +1,15 @@
 # Maemm
 
-Maemm is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Club Metro, Kyoto on Sat, 17 Oct 2026.
+Maemm is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Club Metro, Kyoto on Sat, 17 Oct 2026.
 
-Maemm is a techno and trance artist based in France, with 92 gigs on soundcheck across Berlin, Edinburgh, Kyoto and Lisbon and 7 more. Often billed alongside Aérienne, GiGi FM and Atomic moog. Next up: Club Metro, Kyoto on Sat 17 Oct.
+Maemm is a techno and trance artist based in France, with 93 gigs on soundcheck across Berlin, East, Edinburgh and Kyoto and 8 more. Often billed alongside Aérienne, GiGi FM and Atomic moog. Next up: Club Metro, Kyoto on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Club Metro | Kyoto |
+| Sat, 24 Oct 2026 | L'Ostra Club | East |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 | Sat, 21 Nov 2026 | Magasins Généraux | Paris |
 
@@ -27,4 +28,4 @@ Maemm is a techno and trance artist based in France, with 92 gigs on soundcheck 
 
 Aérienne, GiGi FM, Atomic moog
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maemm/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maemm/)*

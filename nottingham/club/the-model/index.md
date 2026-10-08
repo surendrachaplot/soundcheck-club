@@ -1,6 +1,6 @@
 # The Model
 
-The Model is a music venue in Nottingham with 16 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Cold Brewed 2nd Birthday w/ k means, Toura, Jimmy Rocket & M75" on Fri, 9 Oct 2026.
+The Model is a music venue in Nottingham with 16 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Cold Brewed 2nd Birthday w/ k means, Toura, Jimmy Rocket & M75" on Fri, 9 Oct 2026.
 
 The Model is a music venue in Nottingham listed on soundcheck. 16 upcoming gigs, with line-ups including Anna Wall, Brad Bradley, Burly Chassis and CONFLICT BUREAU and 2 more. See dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
 
@@ -23,4 +23,4 @@ The Model is a music venue in Nottingham listed on soundcheck. 16 upcoming gigs,
 
 23 Goose Gate, Nottingham, NG1 3FE, Nottingham
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*

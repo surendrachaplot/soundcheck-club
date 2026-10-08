@@ -1,6 +1,6 @@
 # Stamina (DE)
 
-Stamina (DE) is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 9 Oct 2026.
+Stamina (DE) is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 9 Oct 2026.
 
 Stamina (DE) is a drum & bass and bass artist based in Germany, with 27 gigs on soundcheck across Berlin, Birmingham, Hamburg and Istanbul and 3 more. Often billed alongside IC3, K Motionz and LowQui. Next up: Humboldthain Club, Berlin on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Stamina (DE) is a drum & bass and bass artist based in Germany, with 27 gigs on 
 
 IC3, K Motionz, LowQui
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stamina-DE/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stamina-DE/)*

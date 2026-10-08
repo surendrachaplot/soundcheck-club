@@ -1,6 +1,6 @@
 # SHERELLE
 
-SHERELLE is a Jungle and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Sound Machine, Toronto on Fri, 9 Oct 2026.
+SHERELLE is a Jungle and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Sound Machine, Toronto on Fri, 9 Oct 2026.
 
 SHERELLE is a jungle and techno artist based in United Kingdom, with 184 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 54 more. Often billed alongside I. JORDAN, Special Request and Job Jobse. Next up: Sound Machine, Toronto on Fri 9 Oct.
 
@@ -32,4 +32,4 @@ SHERELLE is a jungle and techno artist based in United Kingdom, with 184 gigs on
 
 I. JORDAN, Special Request, Job Jobse
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*

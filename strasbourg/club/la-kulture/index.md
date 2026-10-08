@@ -1,6 +1,6 @@
 # La Kulture
 
-La Kulture is a music venue in Strasbourg with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Backroom by Atmosphere with Poison Joji & Staary" on Thu, 8 Oct 2026.
+La Kulture is a music venue in Strasbourg with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Backroom by Atmosphere with Poison Joji & Staary" on Thu, 8 Oct 2026.
 
 La Kulture is a music venue in Strasbourg listed on soundcheck. 4 upcoming gigs, with line-ups including Derode, Don't Tell Mum, Meursault and Schaed. See dates, start times and who's playing. 9 Rue des Bateliers, 67000 Strasbourg, France.
 
@@ -17,4 +17,4 @@ La Kulture is a music venue in Strasbourg listed on soundcheck. 4 upcoming gigs,
 
 9 Rue des Bateliers, 67000 Strasbourg, France, Strasbourg
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/la-kulture/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/la-kulture/)*

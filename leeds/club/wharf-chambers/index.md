@@ -1,6 +1,6 @@
 # Wharf Chambers
 
-Wharf Chambers is a music venue in Leeds with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "untold presents: Jon K // Tjaro + Riv" on Fri, 9 Oct 2026.
+Wharf Chambers is a music venue in Leeds with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "untold presents: Jon K // Tjaro + Riv" on Fri, 9 Oct 2026.
 
 Wharf Chambers is a music venue in Leeds listed on soundcheck. 7 upcoming gigs, with line-ups including Blood of Aza, HEATHER BOA, Jon K and Kuriboh and 2 more. See dates, start times and who's playing. 23-25 Wharf Street, Leeds, LS2 7EQ, United Kingdom.
 
@@ -20,4 +20,4 @@ Wharf Chambers is a music venue in Leeds listed on soundcheck. 7 upcoming gigs, 
 
 23-25 Wharf Street, Leeds, LS2 7EQ, United Kingdom, Leeds
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/wharf-chambers/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/wharf-chambers/)*

@@ -1,8 +1,8 @@
 # Joshwa (IT)
 
-Joshwa (IT) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Edmonton Expo Center, Edmonton on Fri, 30 Oct 2026.
+Joshwa (IT) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Edmonton Expo Center, Edmonton on Fri, 30 Oct 2026.
 
-Joshwa (IT) is a house and tech house artist, with 24 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 7 more. Often billed alongside Archie Hamilton, KREAM and Matroda. Next up: Edmonton Expo Center, Edmonton on Fri 30 Oct.
+Joshwa (IT) is a house and tech house artist based in Italy, with 24 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 7 more. Often billed alongside Archie Hamilton, KREAM and Matroda. Next up: Edmonton Expo Center, Edmonton on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Joshwa (IT) is a house and tech house artist, with 24 gigs on soundcheck across 
 
 Archie Hamilton, KREAM, Matroda
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwa/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwa/)*

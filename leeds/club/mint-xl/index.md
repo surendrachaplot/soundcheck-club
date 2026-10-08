@@ -1,6 +1,6 @@
 # Mint XL
 
-Mint XL is a music venue in Leeds with 11 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Marsolo Invites" on Fri, 9 Oct 2026.
+Mint XL is a music venue in Leeds with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Marsolo Invites" on Fri, 9 Oct 2026.
 
 Mint XL is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, with line-ups including ADR (UK), A For Alpha, ALISHA and Anil Aras and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ Mint XL is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, with l
 | Fri, 20 Nov 2026 | Framework presents Ben UFO, Papa Nugs | Annie Errez, Ben UFO, Bobby O'Donnell, Papa Nugs |
 | Sat, 21 Nov 2026 | Jamback presents Jampacked at Mint XL | A For Alpha, Anil Aras, Annie Errez, Bobby O'Donnell, Jamback, Laura De Greef, Marlie |
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-xl/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-xl/)*

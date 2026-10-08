@@ -1,6 +1,6 @@
 # Oddity Club
 
-Oddity Club is a music venue in Athens with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "HARDVISION X SEPSIS AT ODDITY ATHENS" on Fri, 23 Oct 2026.
+Oddity Club is a music venue in Athens with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "HARDVISION X SEPSIS AT ODDITY ATHENS" on Fri, 23 Oct 2026.
 
 Oddity Club is a music venue in Athens listed on soundcheck. 4 upcoming gigs, with line-ups including Aida Arko, Alisa Murphy, Blame The Mono and Freeflow and 2 more. See dates, start times and who's playing. Iraklidon 61, Athina 118 54.
 
@@ -17,4 +17,4 @@ Oddity Club is a music venue in Athens listed on soundcheck. 4 upcoming gigs, wi
 
 Iraklidon 61, Athina 118 54, Athens
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/oddity-club/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/oddity-club/)*

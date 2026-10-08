@@ -1,6 +1,6 @@
 # Sabagiro
 
-Sabagiro is a music venue in Tbilisi with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "PHASE011" on Sat, 10 Oct 2026.
+Sabagiro is a music venue in Tbilisi with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "PHASE011" on Sat, 10 Oct 2026.
 
 Sabagiro is a music venue in Tbilisi listed on soundcheck. 1 upcoming gig, with line-ups including Pabie and Yamoc. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Sabagiro is a music venue in Tbilisi listed on soundcheck. 1 upcoming gig, with 
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | PHASE011 | Pabie, Yamoc |
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/sabagiro/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/sabagiro/)*

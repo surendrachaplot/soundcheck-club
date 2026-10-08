@@ -1,8 +1,8 @@
 # Jawnino
 
-Jawnino is a Hip-Hop and Grime artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Jawnino is a Hip-Hop and Grime artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-Jawnino is a hip-hop and grime artist based in United Kingdom, with 40 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 15 more. Often billed alongside KAVARI, Batu and Blawan. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
+Jawnino is a hip-hop and grime artist based in United Kingdom, with 41 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 15 more. Often billed alongside KAVARI, Batu and Blawan. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jawnino is a hip-hop and grime artist based in United Kingdom, with 40 gigs on s
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Thu, 8 Oct 2026 | Hotel Forum | Krakow |
+| Thu, 3 Dec 2026 | The White Hotel | Manchester |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Jawnino is a hip-hop and grime artist based in United Kingdom, with 40 gigs on s
 
 KAVARI, Batu, Blawan
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jawnino/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jawnino/)*

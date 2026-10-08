@@ -1,14 +1,15 @@
 # Casablanca 303
 
-Casablanca 303 is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Jaeger, Oslo on Thu, 8 Oct 2026.
+Casablanca 303 is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Jaeger, Oslo on Thu, 8 Oct 2026.
 
-Casablanca 303 is a house and deep house artist, with 41 gigs on soundcheck across Barcelona and Oslo. Often billed alongside Kim Young iLL, Daniel Vaz and Vinny Villbass. Next up: Jaeger, Oslo on Thu 8 Oct.
+Casablanca 303 is a house and deep house artist based in Colombia, with 42 gigs on soundcheck across Amsterdam, Barcelona and Oslo. Often billed alongside Kim Young iLL, Daniel Vaz and Vinny Villbass. Next up: Jaeger, Oslo on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | Jaeger | Oslo |
+| Sat, 24 Oct 2026 | Het Dorp | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Casablanca 303 is a house and deep house artist, with 41 gigs on soundcheck acro
 
 Kim Young iLL, Daniel Vaz, Vinny Villbass
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casablanca/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casablanca/)*

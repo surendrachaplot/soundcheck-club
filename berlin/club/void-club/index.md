@@ -1,8 +1,8 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Seazed x Synpathy | Bounce, Hardtechno & Trance Night (2 Floors)" on Fri, 9 Oct 2026.
+Void Club is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Seazed x Synpathy | Bounce, Hardtechno & Trance Night (2 Floors)" on Fri, 9 Oct 2026.
 
-Void Club is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Allexandra, bbymeister, Blosvenn and Brizze and 2 more. See dates, start times and who's playing. Wiesenweg 5-9, 10365.
+Void Club is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including Allexandra, bbymeister, Blosvenn and Brizze and 2 more. See dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, wit
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

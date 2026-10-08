@@ -1,6 +1,6 @@
 # Café Katoen
 
-Café Katoen is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "100% KATOEN" on Thu, 8 Oct 2026.
+Café Katoen is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "100% KATOEN" on Thu, 8 Oct 2026.
 
 Café Katoen is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Aron Friedman, Chlär, Cyberboy and Dean High and 2 more. See dates, start times and who's playing. Oude Turfmarkt 153, 1012 GC Amsterdam.
 
@@ -20,4 +20,4 @@ Café Katoen is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs
 
 Oude Turfmarkt 153, 1012 GC Amsterdam, Amsterdam
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/caf-katoen/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/caf-katoen/)*

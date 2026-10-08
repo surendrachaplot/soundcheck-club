@@ -1,6 +1,6 @@
 # EMRYSLAZULI
 
-EMRYSLAZULI is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Cafeteria, Toronto on Sat, 10 Oct 2026.
+EMRYSLAZULI is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Cafeteria, Toronto on Sat, 10 Oct 2026.
 
 EMRYSLAZULI is a techno and club artist based in Canada, with 29 gigs on soundcheck across Detroit and Toronto. Often billed alongside Miss Bible, Ard1n and DR 4SKYN. Next up: Cafeteria, Toronto on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ EMRYSLAZULI is a techno and club artist based in Canada, with 29 gigs on soundch
 
 Miss Bible, Ard1n, DR 4SKYN
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emryslazuli/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emryslazuli/)*

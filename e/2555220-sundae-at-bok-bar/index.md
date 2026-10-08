@@ -1,6 +1,6 @@
 # Sundae at Bok Bar
 
-Sundae at Bok Bar on Sun 11 Oct, Philadelphia. 2 artists: DJ Xtina and Francisco Collazo. See the line-up on soundcheck.
+Sundae at Bok Bar on Sun 11 Oct, Philadelphia. 2 artists: DJ Xtina and Francisco Collazo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

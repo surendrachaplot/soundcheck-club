@@ -1,6 +1,6 @@
 # Modeci
 
-Modeci is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Icy Sounds invites Fellsius" on Thu, 8 Oct 2026.
+Modeci is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Icy Sounds invites Fellsius" on Thu, 8 Oct 2026.
 
 Modeci is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Co.kr, Acidwork, AEIDA and BAAWLA and 2 more. See dates, start times and who's playing. 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea.
 
@@ -15,4 +15,4 @@ Modeci is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with lin
 
 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/modeci/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/modeci/)*

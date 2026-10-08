@@ -1,14 +1,15 @@
 # Knegativ
 
-Knegativ is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Mezzanine - Tooting, London on Sat, 31 Oct 2026.
+Knegativ is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Mezzanine - Tooting, London on Sat, 31 Oct 2026.
 
-Knegativ is a bass and garage artist based in United Kingdom, with 14 gigs on soundcheck across London and New York City. Often billed alongside J V N, Darz and Lutsu. Next up: Mezzanine - Tooting, London on Sat 31 Oct.
+Knegativ is a bass and garage artist based in United Kingdom, with 15 gigs on soundcheck across London, New York City and South East. Often billed alongside J V N, Darz and Lutsu. Next up: Mezzanine - Tooting, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Mezzanine - Tooting | London |
+| Sat, 7 Nov 2026 | Other Space Arts | South-east |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Knegativ is a bass and garage artist based in United Kingdom, with 14 gigs on so
 
 J V N, Darz, Lutsu
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knegativ/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knegativ/)*

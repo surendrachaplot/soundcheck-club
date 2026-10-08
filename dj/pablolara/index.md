@@ -1,6 +1,6 @@
 # Pablo Lara
 
-Pablo Lara is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Japan Monterrey, Mexico City on Sat, 10 Oct 2026.
+Pablo Lara is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Japan Monterrey, Mexico City on Sat, 10 Oct 2026.
 
 Pablo Lara is a techno and house artist based in Mexico, with 69 gigs on soundcheck across Mexico City. Often billed alongside Eliel Capa, Enya Botello and Portugal. Next up: Japan Monterrey, Mexico City on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Pablo Lara is a techno and house artist based in Mexico, with 69 gigs on soundch
 
 Eliel Capa, Enya Botello, Portugal
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablolara/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablolara/)*

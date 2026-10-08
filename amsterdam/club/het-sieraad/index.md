@@ -1,8 +1,8 @@
 # Het Sieraad
 
-Het Sieraad is a music venue in Amsterdam with 20 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Nina de Koning (10H) + Special Guests" on Fri, 9 Oct 2026.
+Het Sieraad is a music venue in Amsterdam with 21 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Nina de Koning (10H) + Special Guests" on Fri, 9 Oct 2026.
 
-Het Sieraad is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs, with line-ups including Adam Ten, Adapter, Alexander Koning and Arc Music and 2 more. See dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
+Het Sieraad is a music venue in Amsterdam listed on soundcheck. 21 upcoming gigs, with line-ups including Adam Ten, Adapter, Alexander Koning and Arc Music and 2 more. See dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Het Sieraad is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs
 | Thu, 22 Oct 2026 | Miss Monique presents Siona ADE | Adapter, Genesi (IT), Kiko, Mia Mendi, Miss Monique, Olivier Giacomotto, SKIY, TH;EN |
 | Fri, 23 Oct 2026 | ADE - HRMNY W/ Rose Ringed & More | Huminal, Julia Linkogel, Nils Hoffmann, OSED, Rex the Dog, Rose Ringed |
 | Fri, 23 Oct 2026 | ADE - IPSO by Kölsch W/ Kölsch (4hrs) - Eelke Kleijn Live - Kotiēr | Eelke Kleijn, Kotiēr, Kölsch |
+| Fri, 23 Oct 2026 | XTC The Electronic Musical - Club Theatre Experience | AYEDA |
 | Sat, 24 Oct 2026 | Sasha b2b Patrice Baumel - 6hrs ADE | Patrice Bäumel, Sasha |
-| Sat, 24 Oct 2026 | Sasha b2b Patrice Baumel - 6hrs ADE |  |
 
 ## Address
 
 Postjesweg 1, 1057 DT Amsterdam, Amsterdam
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*

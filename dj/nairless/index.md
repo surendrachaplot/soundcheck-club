@@ -1,13 +1,14 @@
 # NairLess
 
-NairLess is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Bukanyr Boat, Prague on Fri, 16 Oct 2026.
+NairLess is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Bukanyr Boat, Prague on Fri, 16 Oct 2026.
 
-NairLess is a house and techno artist, with 34 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid and 3 more. Often billed alongside Arvè, Stupid Child and cfds. Next up: Bukanyr Boat, Prague on Fri 16 Oct.
+NairLess is a house and techno artist, with 35 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid and 3 more. Often billed alongside Arvè, Stupid Child and cfds. Next up: Bukanyr Boat, Prague on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Bukanyr Boat | Prague |
 | Fri, 16 Oct 2026 | Bukanyr Boat | Prague |
 
 ## Recently played
@@ -25,4 +26,4 @@ NairLess is a house and techno artist, with 34 gigs on soundcheck across Amsterd
 
 Arvè, Stupid Child, cfds
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nairless/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nairless/)*

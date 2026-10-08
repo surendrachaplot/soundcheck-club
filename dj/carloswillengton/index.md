@@ -1,6 +1,6 @@
 # Carlos Willengton
 
-Carlos Willengton is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Ryans Ibiza, Ibiza on Thu, 8 Oct 2026.
+Carlos Willengton is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Ryans Ibiza, Ibiza on Thu, 8 Oct 2026.
 
 Carlos Willengton is a house and disco artist based in Spain, with 69 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 26 more. Often billed alongside DimSum, Ismael Rivas and Kirollus. Next up: Ryans Ibiza, Ibiza on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Carlos Willengton is a house and disco artist based in Spain, with 69 gigs on so
 
 DimSum, Ismael Rivas, Kirollus
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carloswillengton/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carloswillengton/)*

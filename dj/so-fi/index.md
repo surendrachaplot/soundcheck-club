@@ -1,6 +1,6 @@
 # So-Fi
 
-So-Fi is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Pas Berlin, Berlin on Sat, 17 Oct 2026.
+So-Fi is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Pas Berlin, Berlin on Sat, 17 Oct 2026.
 
 So-Fi is a house and techno artist based in France, with 99 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Matthias, Ancut and Carl H. Next up: Pas Berlin, Berlin on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ So-Fi is a house and techno artist based in France, with 99 gigs on soundcheck a
 
 Matthias (1), Ancut, Carl H
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/so-fi/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/so-fi/)*

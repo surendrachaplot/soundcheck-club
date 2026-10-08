@@ -1,6 +1,6 @@
 # Drumset
 
-Drumset is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Latraac, Athens on Thu, 8 Oct 2026.
+Drumset is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Latraac, Athens on Thu, 8 Oct 2026.
 
 Drumset is a techno and house artist based in United States of America, with 22 gigs on soundcheck across Athens, Chicago and San Francisco/Oakland. Often billed alongside Bodyshot, Mina Mills and Madeline (Chi). Next up: Latraac, Athens on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Drumset is a techno and house artist based in United States of America, with 22 
 
 Bodyshot, Mina Mills, Madeline (Chi)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drumset/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drumset/)*

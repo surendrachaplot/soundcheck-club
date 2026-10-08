@@ -1,8 +1,8 @@
 # DJ Fuckoff
 
-DJ Fuckoff is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Berkeley Suite, Glasgow on Fri, 9 Oct 2026.
+DJ Fuckoff is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Berkeley Suite, Glasgow on Fri, 9 Oct 2026.
 
-DJ Fuckoff is a techno and house artist based in Germany, with 183 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 57 more. Often billed alongside DJ AYA, Anetha and DJ Gigola. Next up: The Berkeley Suite, Glasgow on Fri 9 Oct.
+DJ Fuckoff is a techno and house artist based in Germany, with 184 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 57 more. Often billed alongside DJ AYA, Anetha and DJ Gigola. Next up: The Berkeley Suite, Glasgow on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DJ Fuckoff is a techno and house artist based in Germany, with 183 gigs on sound
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 16 Oct 2026 | TRANSMISSION DC | Washington DC |
 | Sat, 17 Oct 2026 | The Ground at Club Space | Miami |
+| Sat, 28 Nov 2026 | Schrotty | Cologne |
 | Sat, 28 Nov 2026 | ASIAT Park | Brussels |
 | Sat, 5 Dec 2026 | Hangaren | Copenhagen |
 | Sat, 13 Feb 2027 | OST | Berlin |
@@ -31,4 +32,4 @@ DJ Fuckoff is a techno and house artist based in Germany, with 183 gigs on sound
 
 DJ AYA, Anetha, DJ Gigola
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfuckoff/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfuckoff/)*

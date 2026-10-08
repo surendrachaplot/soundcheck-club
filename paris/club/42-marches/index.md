@@ -1,6 +1,6 @@
 # 42 Marches
 
-42 Marches is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Daniel Wang X Les Yeux Orange X Boogie Frizzante" on Fri, 9 Oct 2026.
+42 Marches is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Daniel Wang X Les Yeux Orange X Boogie Frizzante" on Fri, 9 Oct 2026.
 
 42 Marches is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including AGUSTIN BARBEI, Anas., Barée Masse and Charonne and 2 more. See dates, start times and who's playing. Esplanade Johnny Hallyday, 75012 Paris.
 
@@ -16,4 +16,4 @@
 
 Esplanade Johnny Hallyday, 75012 Paris, Paris
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/42-marches/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/42-marches/)*

@@ -1,6 +1,6 @@
 # The Volstead Lounge
 
-The Volstead Lounge is a music venue in Austin with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Crashing in with King Louie" on Fri, 9 Oct 2026.
+The Volstead Lounge is a music venue in Austin with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Crashing in with King Louie" on Fri, 9 Oct 2026.
 
 The Volstead Lounge is a music venue in Austin listed on soundcheck. 4 upcoming gigs, with line-ups including King Louie and Orión García. See dates, start times and who's playing. 1115 East 6th, Austin, TX, 78702.
 
@@ -17,4 +17,4 @@ The Volstead Lounge is a music venue in Austin listed on soundcheck. 4 upcoming 
 
 1115 East 6th, Austin, TX, 78702, Austin
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-volstead-lounge/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-volstead-lounge/)*

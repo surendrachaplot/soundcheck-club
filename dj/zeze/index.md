@@ -1,6 +1,6 @@
 # ZEZE
 
-ZEZE is a Hip-Hop and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Post Bar, Helsinki on Fri, 30 Oct 2026.
+ZEZE is a Hip-Hop and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Post Bar, Helsinki on Fri, 30 Oct 2026.
 
 ZEZE is a hip-hop and afrobeat artist, with 8 gigs on soundcheck across Hamburg, Helsinki, Paris and Stockholm and 1 more. Often billed alongside Ami (UK), Antal and Arp Frique. Next up: Post Bar, Helsinki on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ ZEZE is a hip-hop and afrobeat artist, with 8 gigs on soundcheck across Hamburg,
 
 Ami (UK), Antal, Arp Frique
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeze/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeze/)*

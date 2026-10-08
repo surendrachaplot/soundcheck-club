@@ -1,6 +1,6 @@
 # [140, UKG, DnB] Joker, Plastician, Joe Nice at TBA
 
-[140, UKG, DnB] Joker, Plastician, Joe Nice at TBA on Sat 10 Oct, San Francisco/Oakland. 3 artists: Joe Nice, Joker and Plastician. Drum & Bass and Dubstep. See the line-up on soundcheck.
+[140, UKG, DnB] Joker, Plastician, Joe Nice at TBA on Sat 10 Oct, San Francisco/Oakland. 4 artists: Joe Nice, Joker, Plastician and Torie. Drum & Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@
 - Joe Nice
 - Joker
 - Plastician
+- Torie
 
 *Source: [soundcheck](https://soundcheck.club/e/2532633-140-ukg-dnb-joker-plastician-joe-nice-at-tba/)*

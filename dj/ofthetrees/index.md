@@ -1,8 +1,8 @@
 # Of The Trees
 
-Of The Trees is a Bass and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+Of The Trees is a Bass and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
-Of The Trees is a bass and house artist, with 15 gigs on soundcheck across Austin, Chicago, Jacksonville and Los Angeles and 7 more. Often billed alongside Dimension, Excision and Zedd. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
+Of The Trees is a bass and house artist, with 15 gigs on soundcheck across Austin, Chicago, Jacksonville and Los Angeles and 7 more. Often billed alongside Dimension, Chris Lorenzo and Excision. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Of The Trees is a bass and house artist, with 15 gigs on soundcheck across Austi
 
 ## Shares bills with
 
-Dimension, Excision, Zedd
+Dimension, Chris Lorenzo, Excision
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ofthetrees/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ofthetrees/)*

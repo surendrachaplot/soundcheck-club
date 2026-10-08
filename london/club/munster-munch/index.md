@@ -1,6 +1,6 @@
 # Munster Munch
 
-Munster Munch is a music venue in London with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Munster Munch (Studio 1690) x Faded: OPEN DECKS (Leicester Square)" on Thu, 8 Oct 2026.
+Munster Munch is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Munster Munch (Studio 1690) x Faded: OPEN DECKS (Leicester Square)" on Thu, 8 Oct 2026.
 
 Munster Munch is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Areeb Abbasi, Auseeb, Blink Twice and DJ Leeloo and 2 more. See dates, start times and who's playing. 18 Bear Street, London, WC2H 7AX, United Kingdom.
 
@@ -18,4 +18,4 @@ Munster Munch is a music venue in London listed on soundcheck. 5 upcoming gigs, 
 
 18 Bear Street, London, WC2H 7AX, United Kingdom, London
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/munster-munch/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/munster-munch/)*

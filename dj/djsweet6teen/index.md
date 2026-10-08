@@ -1,6 +1,6 @@
 # dj sweet6teen
 
-dj sweet6teen is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Minimüzikhol, Istanbul on Fri, 9 Oct 2026.
+dj sweet6teen is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Minimüzikhol, Istanbul on Fri, 9 Oct 2026.
 
 dj sweet6teen is a house and techno artist based in Germany, with 252 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 47 more. Often billed alongside Angel D'lite, Sansibar and Gene On Earth. Next up: Minimüzikhol, Istanbul on Fri 9 Oct.
 
@@ -36,4 +36,4 @@ dj sweet6teen is a house and techno artist based in Germany, with 252 gigs on so
 
 Angel D'lite, Sansibar, Gene On Earth
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*

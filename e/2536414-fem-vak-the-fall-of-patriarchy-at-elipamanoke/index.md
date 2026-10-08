@@ -1,6 +1,6 @@
 # fem*vak - The Fall of Patriarchy at elipamanoke
 
-fem*vak - The Fall of Patriarchy at elipamanoke on Fri 9 Oct, Leipzig. 6 artists: CLEO, DJ Annita, itsadisasta and LARIOUS and 2 more. Techno and Bass. See the line-up on soundcheck.
+fem*vak - The Fall of Patriarchy at elipamanoke on Fri 9 Oct, Leipzig. 7 artists: CLEO, DJ Annita, IntoxiKate and itsadisasta and 3 more. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ fem*vak - The Fall of Patriarchy at elipamanoke on Fri 9 Oct, Leipzig. 6 artists
 
 - CLEO
 - DJ Annita
+- IntoxiKate
 - itsadisasta
 - LARIOUS
 - Mariposa x Lyra

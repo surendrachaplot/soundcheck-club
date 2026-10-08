@@ -1,14 +1,15 @@
 # Rakim Under
 
-Rakim Under is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Oven Club, Valencia on Sat, 10 Oct 2026.
+Rakim Under is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Oven Club, Valencia on Sat, 10 Oct 2026.
 
-Rakim Under is a house and techno artist based in United Kingdom, with 85 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bucharest and 15 more. Often billed alongside David Triana, Der and Kenia. Next up: Oven Club, Valencia on Sat 10 Oct.
+Rakim Under is a house and techno artist based in United Kingdom, with 86 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bucharest and 15 more. Often billed alongside David Triana, Der and Kenia. Next up: Oven Club, Valencia on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Oven Club | Valencia |
+| Sat, 31 Oct 2026 | la Maison de la Conversation | Paris |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Rakim Under is a house and techno artist based in United Kingdom, with 85 gigs o
 
 David Triana, Der, Kenia
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rakimunder/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rakimunder/)*

@@ -1,6 +1,6 @@
 # BCM
 
-BCM is a music venue in Mallorca with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "OLD SCHOOL VIBES" on Fri, 9 Oct 2026.
+BCM is a music venue in Mallorca with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "OLD SCHOOL VIBES" on Fri, 9 Oct 2026.
 
 BCM is a music venue in Mallorca listed on soundcheck. 3 upcoming gigs, with line-ups including AARON SEVILLA. See dates, start times and who's playing. BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain.
 
@@ -16,4 +16,4 @@ BCM is a music venue in Mallorca listed on soundcheck. 3 upcoming gigs, with lin
 
 BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain, Mallorca
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/bcm/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/bcm/)*

@@ -1,6 +1,6 @@
 # Takamichi
 
-Takamichi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Yoshibar, Bangkok on Sat, 10 Oct 2026.
+Takamichi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Yoshibar, Bangkok on Sat, 10 Oct 2026.
 
 Takamichi is a house and disco artist based in Japan, with 67 gigs on soundcheck across Bangkok and Tokyo. Often billed alongside Jaree, Mumsfilibaba and 1977. Next up: Yoshibar, Bangkok on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Takamichi is a house and disco artist based in Japan, with 67 gigs on soundcheck
 
 Jaree, Mumsfilibaba, 1977
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takamichi/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takamichi/)*

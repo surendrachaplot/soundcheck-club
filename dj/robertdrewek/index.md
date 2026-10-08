@@ -1,13 +1,14 @@
 # Robert Drewek
 
-Robert Drewek is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Macarena Club, Barcelona on Mon, 19 Oct 2026.
+Robert Drewek is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Sigma, Ibiza on Sat, 10 Oct 2026.
 
-Robert Drewek is a house and techno artist based in Germany, with 116 gigs on soundcheck across Antwerp, Barcelona, Berlin and Copenhagen and 10 more. Often billed alongside Matt Star, Move D and Dana Ruh. Next up: Macarena Club, Barcelona on Mon 19 Oct.
+Robert Drewek is a house and techno artist based in Germany, with 117 gigs on soundcheck across Antwerp, Barcelona, Berlin and Copenhagen and 11 more. Often billed alongside Matt Star, Move D and Dana Ruh. Next up: Sigma, Ibiza on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Sigma | Ibiza |
 | Mon, 19 Oct 2026 | Macarena Club | Barcelona |
 | Fri, 23 Oct 2026 | Ampere | Antwerp |
 | Sat, 24 Oct 2026 | Momem - Museum of Modern Electronic Music | Frankfurt |
@@ -28,4 +29,4 @@ Robert Drewek is a house and techno artist based in Germany, with 116 gigs on so
 
 Matt Star, Move D, Dana Ruh
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertdrewek/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertdrewek/)*

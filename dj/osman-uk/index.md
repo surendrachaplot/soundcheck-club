@@ -1,6 +1,6 @@
 # OS:MAN
 
-OS:MAN is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at M.O.T, London on Fri, 9 Oct 2026.
+OS:MAN is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at M.O.T, London on Fri, 9 Oct 2026.
 
 OS:MAN is a jungle and drum & bass artist based in United Kingdom, with 71 gigs on soundcheck across Brighton, Hamburg, Leeds and London and 1 more. Often billed alongside INSECT CRUSHA, FENDI-K and Tim Reaper. Next up: M.O.T, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ OS:MAN is a jungle and drum & bass artist based in United Kingdom, with 71 gigs 
 
 INSECT CRUSHA, FENDI-K, Tim Reaper
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osman-uk/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osman-uk/)*

@@ -1,6 +1,6 @@
 # Lukas Akata
 
-Lukas Akata is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Silbergold, Frankfurt on Fri, 9 Oct 2026.
+Lukas Akata is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Silbergold, Frankfurt on Fri, 9 Oct 2026.
 
 Lukas Akata is an electro and techno artist based in Germany, with 22 gigs on soundcheck across Frankfurt. Often billed alongside Q-Bit, STRESS and Aquatic Reflector. Next up: Silbergold, Frankfurt on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Lukas Akata is an electro and techno artist based in Germany, with 22 gigs on so
 
 Q-Bit, STRESS (2), Aquatic Reflector
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasakata/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasakata/)*

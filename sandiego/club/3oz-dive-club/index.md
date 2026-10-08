@@ -1,6 +1,6 @@
 # 3oz Dive Club
 
-3oz Dive Club is a music venue in San Diego with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Pablo Bozzi" on Thu, 8 Oct 2026.
+3oz Dive Club is a music venue in San Diego with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Pablo Bozzi" on Thu, 8 Oct 2026.
 
 3oz Dive Club is a music venue in San Diego listed on soundcheck. 6 upcoming gigs, with line-ups including Degs, HOOCHIE, Julian Anthony and Knotice and 2 more. See dates, start times and who's playing. 1060 Garnet Avenue, Pacific Beach, San Diego, CA 92109, USA.
 
@@ -19,4 +19,4 @@
 
 1060 Garnet Avenue, Pacific Beach, San Diego, CA 92109, USA, San Diego
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/3oz-dive-club/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/3oz-dive-club/)*

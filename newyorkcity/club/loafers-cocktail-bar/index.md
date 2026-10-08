@@ -1,0 +1,19 @@
+# Loafers Cocktail Bar
+
+Loafers Cocktail Bar is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Foreplay by South Brooklyn Sapphic" on Wed, 14 Oct 2026.
+
+Loafers Cocktail Bar is a music venue in New York City listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 517 Court Street, Brooklyn NY 11231.
+
+## What's on
+
+| Date | Gig | Line-up |
+| --- | --- | --- |
+| Wed, 14 Oct 2026 | Foreplay by South Brooklyn Sapphic |  |
+| Wed, 14 Oct 2026 | Foreplay by South Brooklyn Sapphic |  |
+| Wed, 28 Oct 2026 | Foreplay by South Brooklyn Sapphic |  |
+
+## Address
+
+517 Court Street, Brooklyn NY 11231, New York City
+
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/loafers-cocktail-bar/)*

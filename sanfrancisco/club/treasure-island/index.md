@@ -1,6 +1,6 @@
 # Treasure Island
 
-Treasure Island is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "Dirtybird x OFF THE GRID: Fleet Week" on Sat, 10 Oct 2026.
+Treasure Island is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "Dirtybird x OFF THE GRID: Fleet Week" on Sat, 10 Oct 2026.
 
 Treasure Island is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig, with line-ups including Ardalan, DWATA and Spooki. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Treasure Island is a music venue in San Francisco/Oakland listed on soundcheck. 
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Dirtybird x OFF THE GRID: Fleet Week | Ardalan, DWATA, Spooki |
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/treasure-island/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/treasure-island/)*

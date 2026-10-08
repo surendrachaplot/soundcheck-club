@@ -1,6 +1,6 @@
 # Pangaea
 
-Pangaea is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Officine Grandi Riparazioni, Turin on Fri, 9 Oct 2026.
+Pangaea is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Officine Grandi Riparazioni, Turin on Fri, 9 Oct 2026.
 
 Pangaea is a techno and bass artist based in United Kingdom, with 127 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 50 more. Often billed alongside Ben UFO, Pearson Sound and Amaliah. Next up: Officine Grandi Riparazioni, Turin on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Pangaea is a techno and bass artist based in United Kingdom, with 127 gigs on so
 
 Ben UFO, Pearson Sound, Amaliah
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pangaea/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pangaea/)*

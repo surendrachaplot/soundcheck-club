@@ -1,6 +1,6 @@
 # Junior Simba
 
-Junior Simba is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Hootananny Brixton, London on Fri, 16 Oct 2026.
+Junior Simba is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Hootananny Brixton, London on Fri, 16 Oct 2026.
 
 Junior Simba is a house and club artist based in Zimbabwe, with 57 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 6 more. Often billed alongside KILIMANJARO, Moehecan and Fiaa. Next up: Hootananny Brixton, London on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Junior Simba is a house and club artist based in Zimbabwe, with 57 gigs on sound
 
 KILIMANJARO, Moehecan, Fiaa
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorsimba/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorsimba/)*

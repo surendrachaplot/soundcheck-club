@@ -1,14 +1,15 @@
 # Ceegal
 
-Ceegal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at The Island, Bristol on Fri, 9 Oct 2026.
+Ceegal is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Island, Bristol on Fri, 9 Oct 2026.
 
-Ceegal is a techno and house artist based in United Kingdom, with 8 gigs on soundcheck across Bristol. Often billed alongside Field Case, Clarisa Kimskii and Dani Whylie. Next up: The Island, Bristol on Fri 9 Oct.
+Ceegal is a techno and house artist based in United Kingdom, with 9 gigs on soundcheck across Bristol. Often billed alongside Field Case, Bambi (FR) and Clarisa Kimskii. Next up: The Island, Bristol on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | The Island | Bristol |
+| Thu, 31 Dec 2026 | The Loco Klub | Bristol |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ Ceegal is a techno and house artist based in United Kingdom, with 8 gigs on soun
 
 ## Shares bills with
 
-Field Case, Clarisa Kimskii, Dani Whylie
+Field Case, Bambi (FR), Clarisa Kimskii
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ceegal/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ceegal/)*

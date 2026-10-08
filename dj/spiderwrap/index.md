@@ -1,13 +1,14 @@
 # Spiderwrap
 
-Spiderwrap is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 24 Oct 2026.
+Spiderwrap is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 23 Oct 2026.
 
-Spiderwrap is a techno and psytrance artist based in United States of America, with 20 gigs on soundcheck across Barcelona, Berlin, Chicago and Leipzig and 3 more. Often billed alongside DJ VALENTIMES, Clarity and truthspeaker. Next up: Razzmatazz, Barcelona on Sat 24 Oct.
+Spiderwrap is a techno and psytrance artist based in United States of America, with 21 gigs on soundcheck across Barcelona, Berlin, Chicago and Leipzig and 3 more. Often billed alongside DJ VALENTIMES, Clarity and truthspeaker. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
 | Sat, 24 Oct 2026 | Razzmatazz | Barcelona |
 
 ## Recently played
@@ -25,4 +26,4 @@ Spiderwrap is a techno and psytrance artist based in United States of America, w
 
 DJ VALENTIMES, Clarity (3), truthspeaker
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spiderwrap/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spiderwrap/)*

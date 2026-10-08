@@ -1,6 +1,6 @@
 # Saturo Sounds presents: Amsterdam ADE Pre-Party at Kashmir Lounge
 
-Saturo Sounds presents: Amsterdam ADE Pre-Party at Kashmir Lounge on Wed 21 Oct, Amsterdam. 6 artists: AKIVA, Darien J, Deckster and Eyal Rabia and 2 more. Progressive House and Techno. See the line-up on soundcheck.
+Saturo Sounds presents: Amsterdam ADE Pre-Party at Kashmir Lounge on Wed 21 Oct, Amsterdam. 7 artists: AKIVA, Darien J, Deckster and Demian Noriega and 3 more. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Saturo Sounds presents: Amsterdam ADE Pre-Party at Kashmir Lounge on Wed 21 Oct,
 - AKIVA
 - Darien J
 - Deckster
+- Demian Noriega
 - Eyal Rabia (2)
 - Ivan Sandhas
 - Niko Garcia

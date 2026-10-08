@@ -1,8 +1,8 @@
 # Lumiere
 
-Lumiere is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Parc d’Atraccions del Tibidabo, Barcelona on Fri, 9 Oct 2026.
+Lumiere is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Parc d’Atraccions del Tibidabo, Barcelona on Fri, 9 Oct 2026.
 
-Lumiere is a house and techno artist based in Argentina, with 119 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 12 more. Often billed alongside Anah, Francesco Del Garda and Binh. Next up: Parc d’Atraccions del Tibidabo, Barcelona on Fri 9 Oct.
+Lumiere is a house and techno artist based in Argentina, with 120 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Florence and 13 more. Often billed alongside Anah, Francesco Del Garda and Binh. Next up: Parc d’Atraccions del Tibidabo, Barcelona on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lumiere is a house and techno artist based in Argentina, with 119 gigs on soundc
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Parc d’Atraccions del Tibidabo | Barcelona |
 | Sat, 10 Oct 2026 | Bukanyr Boat | Prague |
+| Sat, 10 Oct 2026 | Tenax | Florence |
 | Sat, 17 Oct 2026 | Night Tales | London |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 | Sun, 25 Oct 2026 | Pllek | Amsterdam |
@@ -32,4 +33,4 @@ Lumiere is a house and techno artist based in Argentina, with 119 gigs on soundc
 
 Anah, Francesco Del Garda, Binh
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lumiere-1/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lumiere-1/)*

@@ -1,6 +1,6 @@
 # Kander
 
-Kander is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
+Kander is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
 
 Kander is a techno and trance artist based in United Kingdom, with 144 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 44 more. Often billed alongside Azyr, Faster Horses and SIKOTI. Next up: Airport Würzburg, Nürnberg on Fri 16 Oct.
 
@@ -32,4 +32,4 @@ Kander is a techno and trance artist based in United Kingdom, with 144 gigs on s
 
 Azyr, Faster Horses, SIKOTI
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kander/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kander/)*

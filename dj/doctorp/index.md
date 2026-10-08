@@ -1,6 +1,6 @@
 # Doctor P
 
-Doctor P is a Dubstep and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Turbinenhalle, Oberhausen on Sat, 10 Oct 2026.
+Doctor P is a Dubstep and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Turbinenhalle, Oberhausen on Sat, 10 Oct 2026.
 
 Doctor P is a dubstep and techno artist based in United Kingdom, with 8 gigs on soundcheck across Denver, London, Manchester and New York City and 2 more. Often billed alongside Flux Pavilion, Blooom and CODE. Next up: Turbinenhalle, Oberhausen on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Doctor P is a dubstep and techno artist based in United Kingdom, with 8 gigs on 
 
 Flux Pavilion, Blooom, CODE (3)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doctorp/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doctorp/)*

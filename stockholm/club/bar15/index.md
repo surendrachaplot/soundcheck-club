@@ -1,6 +1,6 @@
 # BAR15
 
-BAR15 is a music venue in Stockholm with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Toy Tonics Jam" on Sat, 10 Oct 2026.
+BAR15 is a music venue in Stockholm with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Toy Tonics Jam" on Sat, 10 Oct 2026.
 
 BAR15 is a music venue in Stockholm listed on soundcheck. 2 upcoming gigs, with line-ups including Bogeyman, Kapote, Maribou State and Silja Ellis. See dates, start times and who's playing. DISTRIKTFEM Hallgränd 19 121 62 Johanneshov, Stockholm, Sweden.
 
@@ -15,4 +15,4 @@ BAR15 is a music venue in Stockholm listed on soundcheck. 2 upcoming gigs, with 
 
 DISTRIKTFEM Hallgränd 19 121 62 Johanneshov, Stockholm, Sweden, Stockholm
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/bar15/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/bar15/)*

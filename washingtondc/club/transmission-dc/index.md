@@ -1,14 +1,14 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 13 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Substrate Pres. Wata Igarashi" on Thu, 8 Oct 2026.
+TRANSMISSION DC is a music venue in Washington DC with 13 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Substrate Pres. Wata Igarashi" on Thu, 8 Oct 2026.
 
-TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 13 upcoming gigs, with line-ups including 1tbsp, 6 SENSE, claire.h0e and D.Dan and 2 more. See dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
+TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 13 upcoming gigs, with line-ups including 1tbsp, 6 SENSE, Artemis.105 and claire.h0e and 2 more. See dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Substrate Pres. Wata Igarashi | Wata Igarashi |
+| Thu, 8 Oct 2026 | Substrate Pres. Wata Igarashi | Artemis.105, Wata Igarashi |
 | Fri, 9 Oct 2026 | Octo Octa & Faited pres. by Doll Factory x Hyperdrum | Dee Clark, Faited, Mrs. Qbert, Octo Octa, Solidare, Vivian Oblivion, claire.h0e |
 | Wed, 14 Oct 2026 | Relay: Decimate, Electric Dad, Lock B2b Shy, Raveraffe |  |
 | Thu, 15 Oct 2026 | SUBSTRATE: Shed | Shed |
@@ -23,4 +23,4 @@ TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 13 upcom
 
 1353 H st NE, Washington, DC, 20002, Washington DC
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*

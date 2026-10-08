@@ -1,8 +1,8 @@
 # OPH
 
-OPH is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+OPH is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
 
-OPH is a techno and house artist based in France, with 42 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 10 more. Often billed alongside Chami, Blasha & Allatt and Mary Yuzovskaya. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
+OPH is a techno and house artist based in France, with 43 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 10 more. Often billed alongside Chami, Blasha & Allatt and Mary Yuzovskaya. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ OPH is a techno and house artist based in France, with 42 gigs on soundcheck acr
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 | Sat, 17 Oct 2026 | Fvtvr | Paris |
+| Sat, 14 Nov 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ OPH is a techno and house artist based in France, with 42 gigs on soundcheck acr
 
 Chami, Blasha & Allatt, Mary Yuzovskaya
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ophsound/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ophsound/)*

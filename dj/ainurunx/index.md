@@ -1,6 +1,6 @@
 # AINUR UNX
 
-AINUR UNX is a Gabber and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Altenburg 1964, Prague on Sat, 24 Oct 2026.
+AINUR UNX is a Gabber and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Altenburg 1964, Prague on Sat, 24 Oct 2026.
 
 AINUR UNX is a gabber and trance artist, with 22 gigs on soundcheck across Brussels and Prague. Often billed alongside Kaa Glo, PE.CH and DJ NOS. Next up: Altenburg 1964, Prague on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ AINUR UNX is a gabber and trance artist, with 22 gigs on soundcheck across Bruss
 
 Kaa Glo, PE.CH, DJ NOS
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ainurunx/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ainurunx/)*

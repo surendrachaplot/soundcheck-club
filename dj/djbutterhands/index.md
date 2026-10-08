@@ -1,6 +1,6 @@
 # Butterhands
 
-Butterhands is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Tausend, Berlin on Thu, 15 Oct 2026.
+Butterhands is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Tausend, Berlin on Thu, 15 Oct 2026.
 
 Butterhands is a house and techno artist based in Spain, with 13 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Greece and 2 more. Often billed alongside Thabo, Blame Anthony and Thalo Santana. Next up: Tausend, Berlin on Thu 15 Oct.
 
@@ -27,4 +27,4 @@ Butterhands is a house and techno artist based in Spain, with 13 gigs on soundch
 
 Thabo, Blame Anthony, Thalo Santana
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbutterhands/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbutterhands/)*

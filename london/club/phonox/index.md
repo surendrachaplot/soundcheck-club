@@ -1,6 +1,6 @@
 # Phonox
 
-Phonox is a music venue in London with 38 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Insomnia London: Shirley Temper, Tino & Ned Spencer" on Thu, 8 Oct 2026.
+Phonox is a music venue in London with 38 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Insomnia London: Shirley Temper, Tino & Ned Spencer" on Thu, 8 Oct 2026.
 
 Phonox is a music venue in London listed on soundcheck. 38 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Amy Os, Angel D'lite and Anish Kumar and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
@@ -23,4 +23,4 @@ Phonox is a music venue in London listed on soundcheck. 38 upcoming gigs, with l
 
 418 Brixton Road Brixton London SW9 7AY, London
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*

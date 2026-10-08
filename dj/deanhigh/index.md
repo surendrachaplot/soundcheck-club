@@ -1,6 +1,6 @@
 # Dean High
 
-Dean High is a Experimental and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Café Katoen, Amsterdam on Thu, 8 Oct 2026.
+Dean High is a Experimental and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Café Katoen, Amsterdam on Thu, 8 Oct 2026.
 
 Dean High is an experimental and house artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam, Berlin, London and Prague and 1 more. Often billed alongside Marie Pravda, Dj Almelo and Epoché. Next up: Café Katoen, Amsterdam on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Dean High is an experimental and house artist based in Netherlands, with 12 gigs
 
 Marie Pravda, Dj Almelo, Epoché
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deanhigh/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deanhigh/)*

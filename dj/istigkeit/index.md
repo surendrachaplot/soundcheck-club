@@ -1,8 +1,8 @@
 # Istigkeit
 
-Istigkeit is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Le Petit Salon, Lyon on Fri, 20 Nov 2026.
+Istigkeit is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Le Petit Salon, Lyon on Fri, 20 Nov 2026.
 
-Istigkeit is a techno and trance artist, with 25 gigs on soundcheck across Lyon and Paris. Often billed alongside Salem Unsigned, Stan Christ and 999999999. Next up: Le Petit Salon, Lyon on Fri 20 Nov.
+Istigkeit is a techno and trance artist based in France, with 25 gigs on soundcheck across Lyon and Paris. Often billed alongside Salem Unsigned, Stan Christ and 999999999. Next up: Le Petit Salon, Lyon on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Istigkeit is a techno and trance artist, with 25 gigs on soundcheck across Lyon 
 
 Salem Unsigned, Stan Christ, 999999999
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/istigkeit/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/istigkeit/)*

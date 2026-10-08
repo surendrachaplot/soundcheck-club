@@ -1,6 +1,6 @@
 # WTCHCRFT
 
-WTCHCRFT is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Mansions, New York City on Thu, 8 Oct 2026.
+WTCHCRFT is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Mansions, New York City on Thu, 8 Oct 2026.
 
 WTCHCRFT is a techno and club artist based in United States of America, with 157 gigs on soundcheck across Austin, Berlin, Boston and Chicago and 16 more. Often billed alongside KYRUH, RITCHRD and estoc. Next up: Mansions, New York City on Thu 8 Oct.
 
@@ -27,4 +27,4 @@ WTCHCRFT is a techno and club artist based in United States of America, with 157
 
 KYRUH, RITCHRD, estoc
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wtchcrft/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wtchcrft/)*

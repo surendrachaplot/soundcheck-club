@@ -1,6 +1,6 @@
 # Absturz
 
-Absturz is a music venue in Leipzig with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "GROOVE APPROVED" on Fri, 9 Oct 2026.
+Absturz is a music venue in Leipzig with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "GROOVE APPROVED" on Fri, 9 Oct 2026.
 
 Absturz is a music venue in Leipzig listed on soundcheck. 6 upcoming gigs, with line-ups including beccslyn, DJ.PRO.PHET, DZBL and Mariposa x Lyra and 2 more. See dates, start times and who's playing. Karl-Liebknecht-Str. 36, 04107 Leipzig.
 
@@ -19,4 +19,4 @@ Absturz is a music venue in Leipzig listed on soundcheck. 6 upcoming gigs, with 
 
 Karl-Liebknecht-Str. 36, 04107 Leipzig, Leipzig
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/absturz/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/absturz/)*

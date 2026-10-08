@@ -1,18 +1,18 @@
 # Pullär
 
-Pullär is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Supermercat Gotico, Barcelona on Wed, 7 Oct 2026.
+Pullär is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at The Supermercat Gotico, Barcelona on Thu, 8 Oct 2026.
 
-Pullär is a techno and electronica artist, with 7 gigs on soundcheck across Barcelona. Often billed alongside KRYTE, Franco Brida and Freeka. Next up: The Supermercat Gotico, Barcelona on Wed 7 Oct.
+Pullär is a techno and electronica artist, with 7 gigs on soundcheck across Barcelona. Often billed alongside KRYTE, Franco Brida and Freeka. Next up: The Supermercat Gotico, Barcelona on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 7 Oct 2026 | The Supermercat Gotico | Barcelona |
 | Thu, 8 Oct 2026 | The Supermercat Gotico | Barcelona |
 
 ## Recently played
 
+- The Supermercat Gotico, Barcelona · Wed, 7 Oct 2026
 - La Gata del Born, Barcelona · Fri, 2 Oct 2026
 - Bridge 48, Barcelona · Thu, 3 Sept 2026
 - Can Luis, Barcelona · Thu, 3 Sept 2026
@@ -23,4 +23,4 @@ Pullär is a techno and electronica artist, with 7 gigs on soundcheck across Bar
 
 KRYTE, Franco Brida, Freeka
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pullar-es/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pullar-es/)*

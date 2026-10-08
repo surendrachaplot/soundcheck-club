@@ -1,6 +1,6 @@
 # Pacific Coliseum
 
-Pacific Coliseum is a Balearic and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Audioteca, Naples on Fri, 9 Oct 2026.
+Pacific Coliseum is a Balearic and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Audioteca, Naples on Fri, 9 Oct 2026.
 
 Pacific Coliseum is a balearic and house artist based in Canada, with 25 gigs on soundcheck across Iceland, London, Los Angeles and Naples and 2 more. Often billed alongside Teen Daze, DJ D.Dee and Dane. Next up: Audioteca, Naples on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Pacific Coliseum is a balearic and house artist based in Canada, with 25 gigs on
 
 Teen Daze, DJ D.Dee, Dane
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pacificcoliseum/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pacificcoliseum/)*

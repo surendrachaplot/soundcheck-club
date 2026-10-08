@@ -1,8 +1,8 @@
 # Vino Disco
 
-Vino Disco is a music venue in Montreal with 11 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Vino Disco THURSDAY" on Thu, 8 Oct 2026.
+Vino Disco is a music venue in Montreal with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Vino Disco THURSDAY" on Thu, 8 Oct 2026.
 
-Vino Disco is a music venue in Montreal listed on soundcheck. 11 upcoming gigs, with line-ups including Akpossoul, Andie, Arielle Roberge and Bolarinho and 2 more. See dates, start times and who's playing. 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada.
+Vino Disco is a music venue in Montreal listed on soundcheck. 12 upcoming gigs, with line-ups including Akpossoul, Andie, Arielle Roberge and Bolarinho and 2 more. See dates, start times and who's playing. 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Vino Disco is a music venue in Montreal listed on soundcheck. 11 upcoming gigs, 
 
 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada, Montreal
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/vino-disco/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/vino-disco/)*

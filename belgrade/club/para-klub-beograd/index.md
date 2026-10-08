@@ -1,17 +1,18 @@
 # Para Klub Beograd
 
-Para Klub Beograd is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "ALTEREGO ON WAX" on Sun, 6 Dec 2026.
+Para Klub Beograd is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "MRAK AFTERPARTY - Nene H, Blackprotocol, Matej Rusmir, Stony C, Lollipop Janosz, illillillillil" on Sun, 11 Oct 2026.
 
-Para Klub Beograd is a music venue in Belgrade listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Cetinjska 15.
+Para Klub Beograd is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs, with line-ups including illillillillill, Lollipop Janosz, Matej Rusmir and Nene H and 1 more. See dates, start times and who's playing. Cetinjska 15.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sun, 11 Oct 2026 | MRAK AFTERPARTY - Nene H, Blackprotocol, Matej Rusmir, Stony C, Lollipop Janosz, illillillillil | Lollipop Janosz, Matej Rusmir, Nene H, Stony C, illillillillill |
 | Sun, 6 Dec 2026 | ALTEREGO ON WAX |  |
 
 ## Address
 
 Cetinjska 15, Belgrade
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/para-klub-beograd/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/para-klub-beograd/)*

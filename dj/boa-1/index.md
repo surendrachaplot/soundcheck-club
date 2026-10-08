@@ -1,6 +1,6 @@
 # BOA (1)
 
-BOA (1) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Cyberdog, London on Sat, 10 Oct 2026.
+BOA (1) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Cyberdog, London on Sat, 10 Oct 2026.
 
 BOA is a tech house and house artist based in United Kingdom, with 15 gigs on soundcheck across Ibiza, London, Malta and Manchester. Often billed alongside Olly Brady, SAM PHONIC and MTRG. Next up: Cyberdog, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ BOA is a tech house and house artist based in United Kingdom, with 15 gigs on so
 
 Olly Brady, SAM PHONIC, MTRG
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boa-1/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boa-1/)*

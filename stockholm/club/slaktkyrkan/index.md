@@ -1,6 +1,6 @@
 # Slaktkyrkan
 
-Slaktkyrkan is a music venue in Stockholm with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Lost Miracle (Sébastien Léger & Roy Rosenfeld)" on Sat, 10 Oct 2026.
+Slaktkyrkan is a music venue in Stockholm with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Lost Miracle (Sébastien Léger & Roy Rosenfeld)" on Sat, 10 Oct 2026.
 
 Slaktkyrkan is a music venue in Stockholm listed on soundcheck. 3 upcoming gigs, with line-ups including Andreas Andersson, Nachtigaller, Rebuke and Roy Rosenfeld and 2 more. See dates, start times and who's playing. Styckmästargatan 10, 121 62 Johanneshov, Svezia.
 
@@ -16,4 +16,4 @@ Slaktkyrkan is a music venue in Stockholm listed on soundcheck. 3 upcoming gigs,
 
 Styckmästargatan 10, 121 62 Johanneshov, Svezia, Stockholm
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slaktkyrkan/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slaktkyrkan/)*

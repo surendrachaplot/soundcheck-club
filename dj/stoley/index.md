@@ -1,14 +1,15 @@
 # Stoley
 
-Stoley is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Santa Monica, Los Angeles on Sat, 31 Oct 2026.
+Stoley is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Santa Monica, Los Angeles on Sat, 31 Oct 2026.
 
-Stoley is a house and tech house artist based in United States of America, with 21 gigs on soundcheck across Los Angeles, Miami, New York City and San Diego and 1 more. Often billed alongside Kaveh, Sosh & Mosh and FISHER. Next up: TBA - Santa Monica, Los Angeles on Sat 31 Oct.
+Stoley is a house and tech house artist based in United States of America, with 22 gigs on soundcheck across Los Angeles, Miami, New York City and San Diego and 1 more. Often billed alongside Kaveh, Sosh & Mosh and FISHER. Next up: TBA - Santa Monica, Los Angeles on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TBA - Santa Monica | Los Angeles |
+| Sat, 14 Nov 2026 | Wurstküche Restaurant Venice Beach | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Stoley is a house and tech house artist based in United States of America, with 
 
 Kaveh, Sosh & Mosh, FISHER
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stoley/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stoley/)*

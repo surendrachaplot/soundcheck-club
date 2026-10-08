@@ -1,6 +1,6 @@
 # Sinqmin
 
-Sinqmin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Bar Kino, Seoul on Sun, 11 Oct 2026.
+Sinqmin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Bar Kino, Seoul on Sun, 11 Oct 2026.
 
 Sinqmin is a house and techno artist based in South Korea, with 74 gigs on soundcheck across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside Lonho, Sekitova and Pine. Next up: Bar Kino, Seoul on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Sinqmin is a house and techno artist based in South Korea, with 74 gigs on sound
 
 Lonho, Sekitova, Pine
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinqmin/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinqmin/)*

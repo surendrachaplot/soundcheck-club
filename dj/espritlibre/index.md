@@ -1,14 +1,14 @@
 # ESPRIT LIBRE
 
-ESPRIT LIBRE is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Sainte-Catherine Hall, Montreal on Sat, 31 Oct 2026.
+ESPRIT LIBRE is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Entrepôts Dominion, Les, Montreal on Sat, 31 Oct 2026.
 
-ESPRIT LIBRE is a techno and hardcore artist based in France, with 15 gigs on soundcheck across Montreal and Toronto. Often billed alongside Hurakkan, A.N.I. and ARMIX. Next up: Sainte-Catherine Hall, Montreal on Sat 31 Oct.
+ESPRIT LIBRE is a techno and hardcore artist based in France, with 15 gigs on soundcheck across Montreal and Toronto. Often billed alongside Hurakkan, A.N.I. and ARMIX. Next up: Entrepôts Dominion, Les, Montreal on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Sainte-Catherine Hall | Montreal |
+| Sat, 31 Oct 2026 | Entrepôts Dominion, Les | Montreal |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ ESPRIT LIBRE is a techno and hardcore artist based in France, with 15 gigs on so
 
 Hurakkan, A.N.I., ARMIX
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/espritlibre/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/espritlibre/)*

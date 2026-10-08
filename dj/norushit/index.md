@@ -1,14 +1,14 @@
 # No Rush (IT)
 
-No Rush (IT) is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Thu, 22 Oct 2026.
+No Rush (IT) is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
-No Rush (IT) is an afro house and deep house artist, with 8 gigs on soundcheck across Amsterdam and Milan. Often billed alongside VIEL (IT), Aaron (IT) and Eran Hersh. Next up: Amsterdam Central Station, Amsterdam on Thu 22 Oct.
+No Rush (IT) is an afro house and deep house artist, with 8 gigs on soundcheck across Amsterdam and Milan. Often billed alongside VIEL (IT), Aaron (IT) and Eran Hersh. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Amsterdam Central Station | Amsterdam |
+| Thu, 22 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 
 ## Recently played
 
@@ -24,4 +24,4 @@ No Rush (IT) is an afro house and deep house artist, with 8 gigs on soundcheck a
 
 VIEL (IT), Aaron (IT), Eran Hersh
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/norushit/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/norushit/)*

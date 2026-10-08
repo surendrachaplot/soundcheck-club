@@ -1,6 +1,6 @@
 # Bolarinho
 
-Bolarinho is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Belvedere du Centre Des Sciences de Montréal, Montreal on Sun, 11 Oct 2026.
+Bolarinho is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Belvedere du Centre Des Sciences de Montréal, Montreal on Sun, 11 Oct 2026.
 
 Bolarinho is a house and disco artist based in Canada, with 28 gigs on soundcheck across Montreal. Often billed alongside Manuel Falardeau, Andie and Arielle Roberge. Next up: Belvedere du Centre Des Sciences de Montréal, Montreal on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Bolarinho is a house and disco artist based in Canada, with 28 gigs on soundchec
 
 Manuel Falardeau, Andie, Arielle Roberge
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bolarinho/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bolarinho/)*

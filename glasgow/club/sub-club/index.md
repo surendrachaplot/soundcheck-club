@@ -1,8 +1,8 @@
 # Sub Club
 
-Sub Club is a music venue in Glasgow with 37 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "RARE Club // Saoirse" on Thu, 8 Oct 2026.
+Sub Club is a music venue in Glasgow with 39 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "RARE Club // Saoirse" on Thu, 8 Oct 2026.
 
-Sub Club is a music venue in Glasgow listed on soundcheck. 37 upcoming gigs, with line-ups including Alarico, Alex Culross, Archie Hamilton and Avalon Emerson and 2 more. See dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
+Sub Club is a music venue in Glasgow listed on soundcheck. 39 upcoming gigs, with line-ups including Alarico, Alex Culross, Archie Hamilton and Avalon Emerson and 2 more. See dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Sub Club is a music venue in Glasgow listed on soundcheck. 37 upcoming gigs, wit
 
 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom, Glasgow
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*

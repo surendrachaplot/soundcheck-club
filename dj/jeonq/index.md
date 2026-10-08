@@ -1,6 +1,6 @@
 # Jeon Q
 
-Jeon Q is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Gut Level, Sheffield on Fri, 6 Nov 2026.
+Jeon Q is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Gut Level, Sheffield on Fri, 6 Nov 2026.
 
 Jeon Q is a progressive house and house artist, with 8 gigs on soundcheck across London, Seoul and Sheffield. Often billed alongside Bethan, Perrin (UK) and Ugly Drugless. Next up: Gut Level, Sheffield on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Jeon Q is a progressive house and house artist, with 8 gigs on soundcheck across
 
 Bethan, Perrin (UK), Ugly Drugless
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeonq/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeonq/)*

@@ -1,6 +1,6 @@
 # karishma
 
-karishma is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Greyhound, London on Thu, 8 Oct 2026.
+karishma is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Greyhound, London on Thu, 8 Oct 2026.
 
 karishma is a jungle and drum & bass artist based in United Kingdom, with 33 gigs on soundcheck across Leeds and London. Often billed alongside MF Ceól, Deselecta and The Dangers of Jazz. Next up: The Greyhound, London on Thu 8 Oct.
 
@@ -28,4 +28,4 @@ karishma is a jungle and drum & bass artist based in United Kingdom, with 33 gig
 
 MF Ceól, Deselecta, The Dangers of Jazz
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karishma/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karishma/)*

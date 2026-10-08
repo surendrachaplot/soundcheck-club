@@ -1,6 +1,6 @@
 # Plex
 
-Plex is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "SONOTOPIA: Global South Grooves (Kampire x Adamantios & Binetou Sylla)" on Fri, 9 Oct 2026.
+Plex is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "SONOTOPIA: Global South Grooves (Kampire x Adamantios & Binetou Sylla)" on Fri, 9 Oct 2026.
 
 Plex is a music venue in Athens listed on soundcheck. 1 upcoming gig, with line-ups including Kampire. See dates, start times and who's playing. Keramikou 28, 104 36, Athens, Greece.
 
@@ -14,4 +14,4 @@ Plex is a music venue in Athens listed on soundcheck. 1 upcoming gig, with line-
 
 Keramikou 28, 104 36, Athens, Greece, Athens
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/plex/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/plex/)*

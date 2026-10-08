@@ -1,6 +1,6 @@
 # Jamie K
 
-Jamie K is a EBM and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Talon Bar, New York City on Fri, 9 Oct 2026.
+Jamie K is a EBM and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Talon Bar, New York City on Fri, 9 Oct 2026.
 
 Jamie K is an ebm and industrial artist based in United States of America, with 12 gigs on soundcheck across Leipzig and New York City. Often billed alongside Joe Hart (US), Mark Cage and Brad Scott. Next up: Talon Bar, New York City on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Jamie K is an ebm and industrial artist based in United States of America, with 
 
 Joe Hart (US), Mark Cage, Brad Scott
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiek/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiek/)*

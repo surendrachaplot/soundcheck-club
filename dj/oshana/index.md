@@ -1,6 +1,6 @@
 # Oshana
 
-Oshana is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Karmen Camina, Strasbourg on Sat, 10 Oct 2026.
+Oshana is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Karmen Camina, Strasbourg on Sat, 10 Oct 2026.
 
 Oshana is a house and techno artist based in United States of America, with 66 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 28 more. Often billed alongside Anthea, Astral Travel and Alexia Glensy. Next up: Karmen Camina, Strasbourg on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Oshana is a house and techno artist based in United States of America, with 66 g
 
 Anthea, Astral Travel, Alexia Glensy
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oshana/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oshana/)*

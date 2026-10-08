@@ -1,6 +1,6 @@
 # Livaton
 
-Livaton is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Baergarten, Berlin on Sun, 11 Oct 2026.
+Livaton is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Baergarten, Berlin on Sun, 11 Oct 2026.
 
 Livaton is a deep house and techno artist, with 13 gigs on soundcheck across Berlin. Often billed alongside Hagel, Meat and Mona Moore. Next up: TBA - Baergarten, Berlin on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Livaton is a deep house and techno artist, with 13 gigs on soundcheck across Ber
 
 Hagel, Meat, Mona Moore
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/livaton/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/livaton/)*

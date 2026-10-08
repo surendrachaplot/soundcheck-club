@@ -1,6 +1,6 @@
 # iamBrandon
 
-iamBrandon is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The California Clipper, Chicago on Fri, 9 Oct 2026.
+iamBrandon is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The California Clipper, Chicago on Fri, 9 Oct 2026.
 
 iamBrandon is a house and deep house artist based in United States of America, with 46 gigs on soundcheck across Chicago, Detroit and Seattle. Often billed alongside Adorio, Czboogie and Mr. Bobby. Next up: The California Clipper, Chicago on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ iamBrandon is a house and deep house artist based in United States of America, w
 
 Adorio, Czboogie, Mr. Bobby
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iambrandon/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iambrandon/)*

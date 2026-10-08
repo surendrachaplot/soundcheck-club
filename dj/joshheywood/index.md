@@ -1,6 +1,6 @@
 # Josh Heywood
 
-Josh Heywood is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Inner North Location, Melbourne on Sat, 10 Oct 2026.
+Josh Heywood is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Inner North Location, Melbourne on Sat, 10 Oct 2026.
 
 Josh Heywood is a techno and house artist based in Australia, with 63 gigs on soundcheck across Auckland, Berlin, Brisbane and Canberra and 4 more. Often billed alongside Etwas, HYBE and Matteo Freyrie. Next up: TBA - Inner North Location, Melbourne on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Josh Heywood is a techno and house artist based in Australia, with 63 gigs on so
 
 Etwas, HYBE, Matteo Freyrie
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshheywood/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshheywood/)*

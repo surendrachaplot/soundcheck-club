@@ -1,6 +1,6 @@
 # Kirollus
 
-Kirollus is a House and Disco artist with 13 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Freeze HiFi, Liverpool on Fri, 9 Oct 2026.
+Kirollus is a House and Disco artist with 13 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Freeze HiFi, Liverpool on Fri, 9 Oct 2026.
 
 Kirollus is a house and disco artist based in United Kingdom, with 153 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 38 more. Often billed alongside MiNNA, Tonno Disko and Dan Shake. Next up: Freeze HiFi, Liverpool on Fri 9 Oct.
 
@@ -36,4 +36,4 @@ Kirollus is a house and disco artist based in United Kingdom, with 153 gigs on s
 
 MiNNA, Tonno Disko, Dan Shake
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirollus/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirollus/)*

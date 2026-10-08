@@ -1,6 +1,6 @@
 # Azimut Club
 
-Azimut Club is a music venue in Turin with 12 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Takaaki Itoh (Wols /JAP), THEGOD01 (Humanoid Gods /IT), Adler (WRD /IT)" on Sat, 10 Oct 2026.
+Azimut Club is a music venue in Turin with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Takaaki Itoh (Wols /JAP), THEGOD01 (Humanoid Gods /IT), Adler (WRD /IT)" on Sat, 10 Oct 2026.
 
 Azimut Club is a music venue in Turin listed on soundcheck. 12 upcoming gigs, with line-ups including Aberra, Allegretti, Audrey Danza and BLANKA and 2 more. See dates, start times and who's playing. Via Modena, 55 10153 Torino TO, Italy.
 
@@ -23,4 +23,4 @@ Azimut Club is a music venue in Turin listed on soundcheck. 12 upcoming gigs, wi
 
 Via Modena, 55 10153 Torino TO, Italy, Turin
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/azimut-club/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/azimut-club/)*

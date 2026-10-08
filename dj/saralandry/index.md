@@ -1,6 +1,6 @@
 # Sara Landry
 
-Sara Landry is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Red Rocks Amphitheatre, Colorado on Sat, 10 Oct 2026.
+Sara Landry is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Red Rocks Amphitheatre, Colorado on Sat, 10 Oct 2026.
 
 Sara Landry is a techno and house artist based in United States of America, with 202 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 61 more. Often billed alongside Nico Moreno, Trym and Azyr. Next up: Red Rocks Amphitheatre, Colorado on Sat 10 Oct.
 
@@ -34,4 +34,4 @@ Sara Landry is a techno and house artist based in United States of America, with
 
 Nico Moreno, Trym, Azyr
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*

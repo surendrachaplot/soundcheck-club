@@ -1,8 +1,8 @@
 # Charlie Sparks
 
-Charlie Sparks is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Great Pyramids OF Giza, Egypt on Fri, 9 Oct 2026.
+Charlie Sparks is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Great Pyramids OF Giza, Egypt on Fri, 9 Oct 2026.
 
-Charlie Sparks is a techno and trance artist based in United Kingdom, with 265 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Barcelona and 67 more. Often billed alongside 999999999, Parfait and I Hate Models. Next up: The Great Pyramids OF Giza, Egypt on Fri 9 Oct.
+Charlie Sparks is a techno and trance artist based in United Kingdom, with 266 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Barcelona and 68 more. Often billed alongside 999999999, Parfait and I Hate Models. Next up: The Great Pyramids OF Giza, Egypt on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Charlie Sparks is a techno and trance artist based in United Kingdom, with 265 g
 | Sat, 7 Nov 2026 | OST | Berlin |
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
+| Sat, 19 Dec 2026 | Hans Bunte Areal | Freiburg |
 | Thu, 31 Dec 2026 | Hala Orion | Wroclaw |
 
 ## Recently played
@@ -35,4 +36,4 @@ Charlie Sparks is a techno and trance artist based in United Kingdom, with 265 g
 
 999999999, Parfait, I Hate Models
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesparks/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesparks/)*

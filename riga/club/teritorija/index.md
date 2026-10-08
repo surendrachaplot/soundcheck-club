@@ -1,8 +1,8 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 15 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "COSMO RAVE: AROUND THE WORLD" on Fri, 9 Oct 2026.
+Teritorija is a music venue in Riga with 15 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "COSMO RAVE: AROUND THE WORLD" on Fri, 9 Oct 2026.
 
-Teritorija is a music venue in Riga listed on soundcheck. 15 upcoming gigs, with line-ups including Aniri Chan, ARRISHA, DENOVA and Dmitry Puffin and 2 more. See dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
+Teritorija is a music venue in Riga listed on soundcheck. 15 upcoming gigs, with line-ups including Alexcel, ANASI, Aniri Chan and ARRISHA and 2 more. See dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
 ## What's on
 
@@ -11,7 +11,7 @@ Teritorija is a music venue in Riga listed on soundcheck. 15 upcoming gigs, with
 | Fri, 9 Oct 2026 | COSMO RAVE: AROUND THE WORLD | Notwelcome, Pulss |
 | Sat, 10 Oct 2026 | Aniri Chan // Pulss | Aniri Chan, Pulss |
 | Fri, 16 Oct 2026 | Platz fur Tanz x Teritorija 10 Years Anniversary | Dmitry Puffin, Ksenia Kamikaza, Notwelcome, VLAD PHANGAN |
-| Sat, 17 Oct 2026 | Alexcel // Leksy | Leksy |
+| Sat, 17 Oct 2026 | Alexcel // Leksy | Alexcel, Leksy |
 | Fri, 23 Oct 2026 | // | ARRISHA, Ksenia Kamikaza, Measure Divide, Pire, UZAY |
 | Sat, 24 Oct 2026 | Golden Habit | Golden Habit |
 | Fri, 30 Oct 2026 | mOZ // VLAD PHANGAN | VLAD PHANGAN, mOZ (2) |
@@ -23,4 +23,4 @@ Teritorija is a music venue in Riga listed on soundcheck. 15 upcoming gigs, with
 
 Krišjāņa Barona Street 136, Riga, Riga
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*

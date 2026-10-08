@@ -1,14 +1,15 @@
 # Junya Yamamura
 
-Junya Yamamura is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 6 Nov 2026.
+Junya Yamamura is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 6 Nov 2026.
 
-Junya Yamamura is a techno and house artist based in Japan, with 25 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Arao, SAITO and AKIRAM EN. Next up: MIDNIGHT EAST, Tokyo on Fri 6 Nov.
+Junya Yamamura is a techno and house artist based in Japan, with 26 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Arao, SAITO and AKIRAM EN. Next up: MIDNIGHT EAST, Tokyo on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | MIDNIGHT EAST | Tokyo |
+| Sat, 7 Nov 2026 | vurt. | Seoul |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Junya Yamamura is a techno and house artist based in Japan, with 25 gigs on soun
 
 Arao, SAITO, AKIRAM EN
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/junyayamamura/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/junyayamamura/)*

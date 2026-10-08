@@ -1,14 +1,15 @@
 # Phåro (2)
 
-Phåro (2) is a Progressive House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Munster Munch, London on Fri, 9 Oct 2026.
+Phåro (2) is a Progressive House and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Munster Munch, London on Fri, 9 Oct 2026.
 
-Phåro is a progressive house and electro artist based in United Kingdom, with 14 gigs on soundcheck across London. Often billed alongside Reeno, Areeb Abbasi and Moonz. Next up: Munster Munch, London on Fri 9 Oct.
+Phåro is a progressive house and electro artist based in United Kingdom, with 15 gigs on soundcheck across London. Often billed alongside Reeno, Areeb Abbasi and Moonz. Next up: Munster Munch, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Munster Munch | London |
+| Fri, 9 Oct 2026 | TBA - Venue will be announced to ticket holders | London |
 | Sun, 11 Oct 2026 | Starlane Pizza Bar | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Phåro is a progressive house and electro artist based in United Kingdom, with 1
 
 Reeno, Areeb Abbasi, Moonz
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pharo-2/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pharo-2/)*

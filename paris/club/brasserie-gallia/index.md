@@ -1,6 +1,6 @@
 # Brasserie Gallia
 
-Brasserie Gallia is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Loud Session #1" on Fri, 9 Oct 2026.
+Brasserie Gallia is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Loud Session #1" on Fri, 9 Oct 2026.
 
 Brasserie Gallia is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including logxlogxlogx and Lucifer. See dates, start times and who's playing. 35 Rue Méhul, 93500 Pantin, France.
 
@@ -15,4 +15,4 @@ Brasserie Gallia is a music venue in Paris listed on soundcheck. 2 upcoming gigs
 
 35 Rue Méhul, 93500 Pantin, France, Paris
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/brasserie-gallia/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/brasserie-gallia/)*

@@ -1,6 +1,6 @@
 # Matthew Dexter
 
-Matthew Dexter is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 9 Oct 2026.
+Matthew Dexter is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 9 Oct 2026.
 
 Matthew Dexter is a house and minimal artist, with 39 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 14 more. Often billed alongside Jane Fitz, Carl H and Accent'. Next up: Mtkvarze, Tbilisi on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Matthew Dexter is a house and minimal artist, with 39 gigs on soundcheck across 
 
 Jane Fitz, Carl H, Accent'
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewdexter/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewdexter/)*

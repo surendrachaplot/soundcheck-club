@@ -1,6 +1,6 @@
 # Union Club, Vauxhall
 
-Union Club, Vauxhall is a music venue in London with 12 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "DESIRE - Weekly Thursday After Party - JULIANA BRANCO" on Thu, 8 Oct 2026.
+Union Club, Vauxhall is a music venue in London with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "DESIRE - Weekly Thursday After Party - JULIANA BRANCO" on Thu, 8 Oct 2026.
 
 Union Club, Vauxhall is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Dhez, Diego Barrera, Duwat? and Edgar Gallan and 2 more. See dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
 
@@ -23,4 +23,4 @@ Union Club, Vauxhall is a music venue in London listed on soundcheck. 12 upcomin
 
 66 Albert Embankment, Lambeth, London SE1 7TW, London
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*

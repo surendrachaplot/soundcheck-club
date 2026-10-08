@@ -1,6 +1,6 @@
 # OXI
 
-OXI is a music venue in Berlin with 27 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "ELSI 5 YEARS ッ Patrizia Pellegrino (Live) + Sound Metaphors Djs & More" on Fri, 9 Oct 2026.
+OXI is a music venue in Berlin with 27 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "ELSI 5 YEARS ッ Patrizia Pellegrino (Live) + Sound Metaphors Djs & More" on Fri, 9 Oct 2026.
 
 OXI is a music venue in Berlin listed on soundcheck. 27 upcoming gigs, with line-ups including Alexa Fluor, Amo (IT), Ana Molina and Anaté and 2 more. See dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
@@ -23,4 +23,4 @@ OXI is a music venue in Berlin listed on soundcheck. 27 upcoming gigs, with line
 
 Wiesenweg 1-4, 10365 Berlin, Berlin
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*

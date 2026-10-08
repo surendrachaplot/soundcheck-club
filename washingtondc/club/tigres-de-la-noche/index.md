@@ -1,6 +1,6 @@
 # Tigres de la Noche
 
-Tigres de la Noche is a music venue in Washington DC with 17 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Nü Androids presents: Dusky" on Fri, 9 Oct 2026.
+Tigres de la Noche is a music venue in Washington DC with 17 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Nü Androids presents: Dusky" on Fri, 9 Oct 2026.
 
 Tigres de la Noche is a music venue in Washington DC listed on soundcheck. 17 upcoming gigs, with line-ups including Yulia Niko, AEREA, Caleb Jackson and DJ-SUN and 2 more. See dates, start times and who's playing. Alley Entrance, 405 Morse Street Northeast 2nd Floor, Washington, DC 20002, USA.
 
@@ -23,4 +23,4 @@ Tigres de la Noche is a music venue in Washington DC listed on soundcheck. 17 up
 
 Alley Entrance, 405 Morse Street Northeast 2nd Floor, Washington, DC 20002, USA, Washington DC
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/tigres-de-la-noche/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/tigres-de-la-noche/)*

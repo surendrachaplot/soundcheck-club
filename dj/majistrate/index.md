@@ -1,6 +1,6 @@
 # Majistrate
 
-Majistrate is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Lakota, Bristol on Fri, 16 Oct 2026.
+Majistrate is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Lakota, Bristol on Fri, 16 Oct 2026.
 
 Majistrate is a drum & bass and jungle artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 3 more. Often billed alongside Logan D, Harry Shotta and Eksman. Next up: Lakota, Bristol on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Majistrate is a drum & bass and jungle artist based in United Kingdom, with 30 g
 
 Logan D, Harry Shotta, Eksman
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majistrate/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majistrate/)*

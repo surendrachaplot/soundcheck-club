@@ -1,6 +1,6 @@
 # Yung Singh
 
-Yung Singh is a Garage and House artist with 12 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Uus Laine, Tallinn on Fri, 9 Oct 2026.
+Yung Singh is a Garage and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Uus Laine, Tallinn on Fri, 9 Oct 2026.
 
 Yung Singh is a garage and house artist based in United Kingdom, with 180 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 57 more. Often billed alongside Bakey, Overmono and salute. Next up: Uus Laine, Tallinn on Fri 9 Oct.
 
@@ -36,4 +36,4 @@ Yung Singh is a garage and house artist based in United Kingdom, with 180 gigs o
 
 Bakey, Overmono, salute
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsingh/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsingh/)*

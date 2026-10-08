@@ -1,6 +1,6 @@
 # Monarch
 
-Monarch is a music venue in San Francisco/Oakland with 13 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Linska" on Fri, 9 Oct 2026.
+Monarch is a music venue in San Francisco/Oakland with 13 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Linska" on Fri, 9 Oct 2026.
 
 Monarch is a music venue in San Francisco/Oakland listed on soundcheck. 13 upcoming gigs, with line-ups including 1OO1O, 2AT, arktoi and BAD JUUJU and 2 more. See dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
 
@@ -9,7 +9,7 @@ Monarch is a music venue in San Francisco/Oakland listed on soundcheck. 13 upcom
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Linska | Linska |
-| Sat, 10 Oct 2026 | ELECTRIC FIELDS After Party |  |
+| Sat, 10 Oct 2026 | ELECTRIC FIELDS Free Party at Golden Gate Park Bandshell & After Party @ Monarch | DJ PlayStation, Phil Spank |
 | Thu, 15 Oct 2026 | Bump | Huffy (2) |
 | Fri, 16 Oct 2026 | THEMATIC ENTERTAINMENT x PROPER TINGS PRESENT: DR. USHŪU & TWO SWORDS |  |
 | Sat, 17 Oct 2026 | REGGAETON MEXA vs. REGGAETON PR | EarthAngel |
@@ -23,4 +23,4 @@ Monarch is a music venue in San Francisco/Oakland listed on soundcheck. 13 upcom
 
 101 6th Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*

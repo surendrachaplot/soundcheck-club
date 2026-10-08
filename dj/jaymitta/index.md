@@ -1,6 +1,6 @@
 # Jay Mitta
 
-Jay Mitta is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu, 15 Oct 2026.
+Jay Mitta is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu, 15 Oct 2026.
 
 Jay Mitta is an experimental and electronica artist based in Tanzania, with 16 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 3 more. Often billed alongside Catu Diosis, Crystallmess and Kampire. Next up: The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Jay Mitta is an experimental and electronica artist based in Tanzania, with 16 g
 
 Catu Diosis, Crystallmess, Kampire
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaymitta/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaymitta/)*

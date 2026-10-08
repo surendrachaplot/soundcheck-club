@@ -1,6 +1,6 @@
 # Jolene
 
-Jolene is a music venue in Copenhagen with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Jolene Bar? with El Cuartito Records & Friends" on Thu, 8 Oct 2026.
+Jolene is a music venue in Copenhagen with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Jolene Bar? with El Cuartito Records & Friends" on Thu, 8 Oct 2026.
 
 Jolene is a music venue in Copenhagen listed on soundcheck. 5 upcoming gigs, with line-ups including Ana Karla, bon Ronny, Boogie Rookie and Fabrizio Mammarella and 2 more. See dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
 
@@ -18,4 +18,4 @@ Jolene is a music venue in Copenhagen listed on soundcheck. 5 upcoming gigs, wit
 
 Flaesketorvet 81; Copenhagen V. 1711; Denmark, Copenhagen
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*

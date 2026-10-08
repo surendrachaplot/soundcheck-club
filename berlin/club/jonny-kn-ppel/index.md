@@ -1,6 +1,6 @@
 # Jonny Knüppel
 
-Jonny Knüppel is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "tangent afterparty" on Fri, 9 Oct 2026.
+Jonny Knüppel is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "tangent afterparty" on Fri, 9 Oct 2026.
 
 Jonny Knüppel is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including AHAB, Ailin Liefeldt, ANNAWAFFEL and Captain Ahoi and 2 more. See dates, start times and who's playing. Lilli-Henoch-Straße 10, 10405 Berlin.
 
@@ -16,4 +16,4 @@ Jonny Knüppel is a music venue in Berlin listed on soundcheck. 3 upcoming gigs,
 
 Lilli-Henoch-Straße 10, 10405 Berlin, Berlin
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*

@@ -1,8 +1,8 @@
 # DICE
 
-DICE is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 24 Oct 2026.
+DICE is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 24 Oct 2026.
 
-DICE is a techno and trance artist based in Germany, with 53 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 12 more. Often billed alongside DETOXX, Amøn and DALJAE. Next up: Toekomstmuziek, Amsterdam on Sat 24 Oct.
+DICE is a techno and trance artist based in Germany, with 54 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 13 more. Often billed alongside DETOXX, Amøn and DALJAE. Next up: Toekomstmuziek, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DICE is a techno and trance artist based in Germany, with 53 gigs on soundcheck 
 | Fri, 30 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 31 Oct 2026 | Gotec | Karlsruhe |
 | Sat, 5 Dec 2026 | ://about blank | Berlin |
+| Sat, 19 Dec 2026 | Hans Bunte Areal | Freiburg |
 | Sat, 29 May 2027 | Lokschuppen Berlin | Berlin |
 | Sat, 24 Jul 2027 | DSTRKT Club Berlin | Berlin |
 
@@ -30,4 +31,4 @@ DICE is a techno and trance artist based in Germany, with 53 gigs on soundcheck 
 
 DETOXX, Amøn, DALJAE
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dice/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dice/)*

@@ -1,6 +1,6 @@
 # Interesting Results
 
-Interesting Results is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Crypt (New Orleans), New-orleans on Thu, 29 Oct 2026.
+Interesting Results is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Crypt (New Orleans), New-orleans on Thu, 29 Oct 2026.
 
 Interesting Results is a techno and electro artist, with 3 gigs on soundcheck across New Orleans and New York City. Often billed alongside Danny White. Next up: The Crypt (New Orleans), New Orleans on Thu 29 Oct.
 
@@ -19,4 +19,4 @@ Interesting Results is a techno and electro artist, with 3 gigs on soundcheck ac
 
 Danny White
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/interestingresults/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/interestingresults/)*

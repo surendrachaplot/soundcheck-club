@@ -1,6 +1,6 @@
 # Chooc Ly
 
-Chooc Ly is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at IKLECTIK, London on Fri, 9 Oct 2026.
+Chooc Ly is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at IKLECTIK, London on Fri, 9 Oct 2026.
 
 Chooc Ly is an experimental and club artist, with 10 gigs on soundcheck across Berlin, Brighton and London. Often billed alongside Pisitakun, ABADIR and Arexibo. Next up: IKLECTIK, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Chooc Ly is an experimental and club artist, with 10 gigs on soundcheck across B
 
 Pisitakun, ABADIR, Arexibo
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/choocly/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/choocly/)*

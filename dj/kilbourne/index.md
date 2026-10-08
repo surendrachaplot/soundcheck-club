@@ -1,6 +1,6 @@
 # Kilbourne
 
-Kilbourne is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Bossa Nova Civic Club, New York City on Tue, 20 Oct 2026.
+Kilbourne is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Bossa Nova Civic Club, New York City on Tue, 20 Oct 2026.
 
 Kilbourne is a hardcore and techno artist based in United States of America, with 71 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 18 more. Often billed alongside Relaxer, Buzzi and aka-Sol. Next up: Bossa Nova Civic Club, New York City on Tue 20 Oct.
 
@@ -26,4 +26,4 @@ Kilbourne is a hardcore and techno artist based in United States of America, wit
 
 Relaxer, Buzzi, aka-Sol
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kilbourne/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kilbourne/)*

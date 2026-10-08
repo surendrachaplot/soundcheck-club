@@ -1,6 +1,6 @@
 # Kater
 
-Kater is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "FOREVER 25 curated by Enorm in Form" on Fri, 9 Oct 2026.
+Kater is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "FOREVER 25 curated by Enorm in Form" on Fri, 9 Oct 2026.
 
 Kater is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including AALIYAH, Adri Tüde, Agustin Giri and Aio and 2 more. See dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
@@ -8,7 +8,7 @@ Kater is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with li
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | FOREVER 25 curated by Enorm in Form | Adri Tüde, Agustin Giri, Alicia Hahn, Annett Gapstream, CHIEF TORKEL, Caleesi, Cleos, DIEGÖ, Dave Dinger, Fabian Krooss, Kon Faber, Luca Saporito (Audiofly), Mabu, Marius Lehnert, Miss Evoice, Mona Moore, Ole Olsen, Rave d‘Amor, Red Pig Flower, Revengedeko, Sarah Kreis, Simon Simono, Stan Starry, Sven Dohse, The Bille, justUS, miAs |
+| Fri, 9 Oct 2026 | FOREVER 25 curated by Enorm in Form | Adri Tüde, Agustin Giri, Alicia Hahn, Annett Gapstream, CHIEF TORKEL, Caleesi, Cleos, DIEGÖ, Dave Dinger, Fabian Krooss, Kon Faber, Luca Saporito (Audiofly), Mabu, Marius Lehnert, Miss Evoice, Mona Moore, Ole Olsen, Rave d‘Amor, Red Pig Flower, Revengedeko, Robin Dey, Sarah Kreis, Simon Simono, Stan Starry, Sven Dohse, The Bille, justUS, miAs |
 | Fri, 16 Oct 2026 | Kater x 23XI | Ana Molina, Black Mirror Park, Chris Ku, KENZA, Lydia Eisenblätter, Meat, Spencer Parker |
 | Sat, 17 Oct 2026 | Katernacht with Magda, Redfreya, Tripmastaz, Alexkid + more | Alessia Ceruti, Alexkid, DASH (SLO), Jimmie, Joséphine de Retour, Magda, Peter Schumann, Redfreya, Stella Fiore, Tripmastaz |
 | Fri, 23 Oct 2026 | Kater x Iptamenos Discos | ATTA, Alejandro Paz, Duncan Thomas, Jeremy Reinhard, Kotelett, Local Suicide, Ludmila Houben, sianza |
@@ -23,4 +23,4 @@ Kater is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with li
 
 Holzmarktstrasse 25, 10243 Berlin, Berlin
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*

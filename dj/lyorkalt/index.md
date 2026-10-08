@@ -1,6 +1,6 @@
 # Lyor Kalt
 
-Lyor Kalt is a Techno and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Mastak, Warsaw on Sat, 10 Oct 2026.
+Lyor Kalt is a Techno and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Mastak, Warsaw on Sat, 10 Oct 2026.
 
 Lyor Kalt is a techno and breakbeat artist based in Ukraine, with 20 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Butwho, Francesca (PL) and SYS.END. Next up: Mastak, Warsaw on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Lyor Kalt is a techno and breakbeat artist based in Ukraine, with 20 gigs on sou
 
 Butwho, Francesca (PL), SYS.END
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyorkalt/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyorkalt/)*

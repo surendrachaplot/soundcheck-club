@@ -1,13 +1,14 @@
 # Gridlock
 
-Gridlock is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Distillery N17, London on Thu, 31 Dec 2026.
+Gridlock is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Omeara, London on Sat, 17 Oct 2026.
 
-Gridlock is a techno artist based in United Kingdom, with 20 gigs on soundcheck across Berlin, London, Madrid and Manchester. Often billed alongside SBBS, TAITO and Varanasi. Next up: Distillery N17, London on Thu 31 Dec.
+Gridlock is a techno and ebm artist based in United Kingdom, with 21 gigs on soundcheck across Berlin, London, Madrid and Manchester. Often billed alongside SBBS, TAITO and Varanasi. Next up: Omeara, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Omeara | London |
 | Thu, 31 Dec 2026 | Distillery N17 | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Gridlock is a techno artist based in United Kingdom, with 20 gigs on soundcheck 
 
 SBBS, TAITO, Varanasi
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gridlock/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gridlock/)*

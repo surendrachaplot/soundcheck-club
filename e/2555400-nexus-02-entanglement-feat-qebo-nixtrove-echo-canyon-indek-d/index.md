@@ -1,6 +1,6 @@
 # NEXUS_02: Entanglement feat. Qebo, Nixtrove, Echo Canyon, indek, Double-D feat Uaywyau at Underflow Record Store
 
-NEXUS_02: Entanglement feat. Qebo, Nixtrove, Echo Canyon, indek, Double-D feat Uaywyau at Underflow Record Store on Fri 23 Oct, Athens. 2 artists: indek and Nixtrove. IDM and Electronica. See the line-up on soundcheck.
+NEXUS_02: Entanglement feat. Qebo, Nixtrove, Echo Canyon, indek, Double-D feat Uaywyau at Underflow Record Store on Fri 23 Oct, Athens. 3 artists: Echo Canyon, indek and Nixtrove. IDM and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ NEXUS_02: Entanglement feat. Qebo, Nixtrove, Echo Canyon, indek, Double-D feat U
 
 ## Line-up
 
+- Echo Canyon
 - indek
 - Nixtrove
 

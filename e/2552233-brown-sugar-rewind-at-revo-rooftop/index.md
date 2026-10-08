@@ -1,6 +1,6 @@
 # Brown Sugar Rewind at Revo Rooftop
 
-Brown Sugar Rewind at Revo Rooftop on Sun 1 Nov, Mexico City. 2 artists: Black Daria and Dj Dizam. Afrobeat and Hip-Hop. See the line-up on soundcheck.
+Brown Sugar Rewind at Revo Rooftop on Sun 1 Nov, Mexico City. 2 artists: Black Daria and Dj Dizam. Hip-Hop and Afrobeat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

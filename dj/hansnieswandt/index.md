@@ -1,6 +1,6 @@
 # Hans Nieswandt
 
-Hans Nieswandt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Azumaya, Tokyo on Sat, 10 Oct 2026.
+Hans Nieswandt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Azumaya, Tokyo on Sat, 10 Oct 2026.
 
 Hans Nieswandt is a house and techno artist based in Germany, with 39 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 2 more. Often billed alongside Baxa, DJ Funny and Better. Next up: Azumaya, Tokyo on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Hans Nieswandt is a house and techno artist based in Germany, with 39 gigs on so
 
 Baxa, DJ Funny, Better
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hansnieswandt/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hansnieswandt/)*

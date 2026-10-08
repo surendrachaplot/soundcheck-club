@@ -1,14 +1,15 @@
 # Lenny Fuck
 
-Lenny Fuck is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Humboldthain Club, Berlin on Sat, 7 Nov 2026.
+Lenny Fuck is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Humboldthain Club, Berlin on Sat, 7 Nov 2026.
 
-Lenny Fuck is a trance and techno artist based in Germany, with 69 gigs on soundcheck across Basel, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Multifun, Pavelo Promillo and S.3000. Next up: Humboldthain Club, Berlin on Sat 7 Nov.
+Lenny Fuck is a trance and techno artist based in Germany, with 70 gigs on soundcheck across Basel, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Multifun, Pavelo Promillo and S.3000. Next up: Humboldthain Club, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Humboldthain Club | Berlin |
+| Fri, 13 Nov 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Lenny Fuck is a trance and techno artist based in Germany, with 69 gigs on sound
 
 Multifun, Pavelo Promillo, S.3000
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lennyfuck/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lennyfuck/)*

@@ -1,14 +1,15 @@
 # Litoshka
 
-Litoshka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at La Station - Gare des Mines, Paris on Sun, 11 Oct 2026.
+Litoshka is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at La Station - Gare des Mines, Paris on Sun, 11 Oct 2026.
 
-Litoshka is a techno and house artist based in France, with 49 gigs on soundcheck across Barcelona, Berlin, Brussels and Copenhagen and 6 more. Often billed alongside Equus Belli, H.I.A and Roulita. Next up: La Station - Gare des Mines, Paris on Sun 11 Oct.
+Litoshka is a techno and house artist based in France, with 50 gigs on soundcheck across Barcelona, Berlin, Brussels and Copenhagen and 6 more. Often billed alongside Equus Belli, H.I.A and Roulita. Next up: La Station - Gare des Mines, Paris on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | La Station - Gare des Mines | Paris |
+| Sat, 24 Oct 2026 | Glazart | Paris |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Litoshka is a techno and house artist based in France, with 49 gigs on soundchec
 
 Equus Belli, H.I.A, Roulita
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/litoshka-2/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/litoshka-2/)*

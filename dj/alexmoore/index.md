@@ -1,14 +1,14 @@
 # Alex Moore
 
-Alex Moore is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Piccadilly Central, Manchester on Sat, 31 Oct 2026.
+Alex Moore is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Piccadilly Central, Manchester on Fri, 30 Oct 2026.
 
-Alex Moore is a house and disco artist based in United Kingdom, with 19 gigs on soundcheck across London and Manchester. Often billed alongside KURLZ, DJ Batehoven and ronch. Next up: Piccadilly Central, Manchester on Sat 31 Oct.
+Alex Moore is a house and disco artist based in United Kingdom, with 19 gigs on soundcheck across London and Manchester. Often billed alongside KURLZ, DJ Batehoven and ronch. Next up: Piccadilly Central, Manchester on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Piccadilly Central | Manchester |
+| Fri, 30 Oct 2026 | Piccadilly Central | Manchester |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Alex Moore is a house and disco artist based in United Kingdom, with 19 gigs on 
 
 KURLZ, DJ Batehoven, ronch
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexmoore/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexmoore/)*

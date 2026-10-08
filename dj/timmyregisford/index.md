@@ -1,14 +1,15 @@
 # Timmy Regisford
 
-Timmy Regisford is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Epic Events, South-carolina on Fri, 13 Nov 2026.
+Timmy Regisford is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Epic Events, South-carolina on Fri, 13 Nov 2026.
 
-Timmy Regisford is a house and deep house artist based in United States of America, with 62 gigs on soundcheck across Athens, Auckland, Chicago and Detroit and 10 more. Often billed alongside Mark Francis, merlin bobb and Akylla. Next up: TBA - Epic Events, South Carolina on Fri 13 Nov.
+Timmy Regisford is a house and deep house artist based in United States of America, with 63 gigs on soundcheck across Athens, Auckland, Chicago and Detroit and 10 more. Often billed alongside Mark Francis, merlin bobb and Akylla. Next up: TBA - Epic Events, South Carolina on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | TBA - Epic Events | South-carolina |
+| Sun, 22 Nov 2026 | public records | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Timmy Regisford is a house and deep house artist based in United States of Ameri
 
 Mark Francis, merlin bobb, Akylla
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timmyregisford/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timmyregisford/)*

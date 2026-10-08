@@ -1,8 +1,8 @@
 # Prichindel
 
-Prichindel is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Tito Club Mx, Guadalajara on Fri, 9 Oct 2026.
+Prichindel is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Tito Club Mx, Guadalajara on Fri, 9 Oct 2026.
 
-Prichindel is a house and minimal artist, with 71 gigs on soundcheck across Barcelona, Berlin, Boston and Brussels and 19 more. Often billed alongside Dragos Ilici, Cap and Mark Dumitrescu. Next up: Tito Club Mx, Guadalajara on Fri 9 Oct.
+Prichindel is a house and minimal artist, with 72 gigs on soundcheck across Barcelona, Berlin, Boston and Brussels and 20 more. Often billed alongside Dragos Ilici, Cap and Mark Dumitrescu. Next up: Tito Club Mx, Guadalajara on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Prichindel is a house and minimal artist, with 71 gigs on soundcheck across Barc
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Tito Club Mx | Guadalajara |
 | Fri, 23 Oct 2026 | Noiiz Sound Archives | Medellin |
+| Sat, 24 Oct 2026 | LA Frecuencia Violeta | Cali |
 | Thu, 5 Nov 2026 | One Resort | Tunisia |
 
 ## Recently played
@@ -27,4 +28,4 @@ Prichindel is a house and minimal artist, with 71 gigs on soundcheck across Barc
 
 Dragos Ilici, Cap, Mark Dumitrescu
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prichindel/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prichindel/)*

@@ -1,6 +1,6 @@
 # control
 
-control is a music venue in Bucharest with 16 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "ctrl x Millennial Studio: Audio Files with Bianca Oblivion [USA], Miss Jay [RO/IT] & Softboi Be" on Thu, 8 Oct 2026.
+control is a music venue in Bucharest with 16 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "ctrl x Millennial Studio: Audio Files with Bianca Oblivion [USA], Miss Jay [RO/IT] & Softboi Be" on Thu, 8 Oct 2026.
 
 control is a music venue in Bucharest listed on soundcheck. 16 upcoming gigs, with line-ups including Actress, alia indigo, Al Wootton and Avram and 2 more. See dates, start times and who's playing. Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania.
 
@@ -23,4 +23,4 @@ control is a music venue in Bucharest listed on soundcheck. 16 upcoming gigs, wi
 
 Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania, Bucharest
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*

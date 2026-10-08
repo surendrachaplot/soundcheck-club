@@ -1,8 +1,8 @@
 # DOBERMAN
 
-DOBERMAN is a Club and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Bolero, Seoul on Fri, 9 Oct 2026.
+DOBERMAN is a Club and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Bolero, Seoul on Fri, 9 Oct 2026.
 
-DOBERMAN is a club and hip-hop artist based in South Korea, with 146 gigs on soundcheck across Kyoto, London and Seoul. Often billed alongside SKiiDA, ANDOW and Multivsn. Next up: Bolero, Seoul on Fri 9 Oct.
+DOBERMAN is a club and hip-hop artist based in South Korea, with 147 gigs on soundcheck across Kyoto, London and Seoul. Often billed alongside SKiiDA, ANDOW and Multivsn. Next up: Bolero, Seoul on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DOBERMAN is a club and hip-hop artist based in South Korea, with 146 gigs on sou
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Bolero | Seoul |
 | Fri, 9 Oct 2026 | Bolero | Seoul |
+| Sat, 10 Oct 2026 | J.J. Mahoney's Bar | Seoul |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ DOBERMAN is a club and hip-hop artist based in South Korea, with 146 gigs on sou
 
 SKiiDA, ANDOW, Multivsn
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doberman/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doberman/)*

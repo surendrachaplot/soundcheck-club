@@ -1,6 +1,6 @@
 # AYEENB
 
-AYEENB is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Newspeak, Montreal on Fri, 9 Oct 2026.
+AYEENB is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Newspeak, Montreal on Fri, 9 Oct 2026.
 
 AYEENB is a progressive house and techno artist based in Canada, with 7 gigs on soundcheck across Montreal. Often billed alongside Kolophane, Rebel Of Sleep and Underthebed. Next up: Newspeak, Montreal on Fri 9 Oct.
 
@@ -23,4 +23,4 @@ AYEENB is a progressive house and techno artist based in Canada, with 7 gigs on 
 
 Kolophane, Rebel Of Sleep, Underthebed
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayeenb/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayeenb/)*

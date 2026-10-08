@@ -1,6 +1,6 @@
 # Bolero: WAV INVITES: NAKEN at Bolero
 
-Bolero: WAV INVITES: NAKEN on Sat 10 Oct, Seoul. 5 artists: BILL.E, DJ Wow, DNOPF and Semo and 1 more. Club. See the line-up on soundcheck.
+Bolero: WAV INVITES: NAKEN on Sat 10 Oct, Seoul. 6 artists: AKI JUN, BILL.E, DJ Wow and DNOPF and 2 more. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Bolero: WAV INVITES: NAKEN on Sat 10 Oct, Seoul. 5 artists: BILL.E, DJ Wow, DNOP
 
 ## Line-up
 
+- AKI JUN
 - BILL.E
 - DJ Wow
 - DNOPF

@@ -1,6 +1,6 @@
 # Mini Zucchini
 
-Mini Zucchini is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Club D'arc Timisoara, Timisoara on Sat, 31 Oct 2026.
+Mini Zucchini is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Club D'arc Timisoara, Timisoara on Sat, 31 Oct 2026.
 
 Mini Zucchini is a techno and house artist, with 8 gigs on soundcheck across Belgrade, Bucharest, Timisoara and Tokyo. Often billed alongside Ali Guney, DJ SO and Dar Adal. Next up: Club D'arc Timisoara, Timisoara on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Mini Zucchini is a techno and house artist, with 8 gigs on soundcheck across Bel
 
 Ali Guney, DJ SO, Dar Adal
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minizucchini/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minizucchini/)*

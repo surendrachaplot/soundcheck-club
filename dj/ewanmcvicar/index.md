@@ -1,6 +1,6 @@
 # Ewan McVicar
 
-Ewan McVicar is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Ewan McVicar is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Ewan McVicar is a house and techno artist based in United Kingdom, with 183 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Barcelona and 42 more. Often billed alongside Special Request, Dom Dolla and Overmono. Next up: Shelter Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -36,4 +36,4 @@ Ewan McVicar is a house and techno artist based in United Kingdom, with 183 gigs
 
 Special Request, Dom Dolla, Overmono
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanmcvicar/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanmcvicar/)*

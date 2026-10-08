@@ -1,6 +1,6 @@
 # Jim O'Rourke
 
-Jim O'Rourke is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Shibuya Club Quattro, Tokyo on Tue, 13 Oct 2026.
+Jim O'Rourke is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Shibuya Club Quattro, Tokyo on Tue, 13 Oct 2026.
 
 Jim O'Rourke is an experimental and ambient artist, with 14 gigs on soundcheck across Chubu, Krakow, Munich and Nantes and 4 more. Often billed alongside Eiko Ishibashi, billy woods and 2K88. Next up: Shibuya Club Quattro, Tokyo on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ Jim O'Rourke is an experimental and ambient artist, with 14 gigs on soundcheck a
 
 Eiko Ishibashi, billy woods, 2K88
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimorourke/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimorourke/)*

@@ -1,6 +1,6 @@
 # Paris 75
 
-Paris 75 is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "French Kiss" on Sat, 10 Oct 2026.
+Paris 75 is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "French Kiss" on Sat, 10 Oct 2026.
 
 Paris 75 is a music venue in San Francisco/Oakland listed on soundcheck. 3 upcoming gigs, with line-ups including DJ PlayStation and Infinite Jess. See dates, start times and who's playing. 515 Broadway, San Francisco, CA 94133.
 
@@ -16,4 +16,4 @@ Paris 75 is a music venue in San Francisco/Oakland listed on soundcheck. 3 upcom
 
 515 Broadway, San Francisco, CA 94133, San Francisco/Oakland
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/paris-75/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/paris-75/)*

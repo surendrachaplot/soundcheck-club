@@ -1,6 +1,6 @@
 # Lulla-Li
 
-Lulla-Li is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Hangaren, Copenhagen on Sat, 10 Oct 2026.
+Lulla-Li is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Hangaren, Copenhagen on Sat, 10 Oct 2026.
 
 Lulla-Li is a psytrance and trance artist, with 9 gigs on soundcheck across Copenhagen and Tokyo. Often billed alongside Freya Rose, Maxi Mo and ASTA MARI. Next up: Hangaren, Copenhagen on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Lulla-Li is a psytrance and trance artist, with 9 gigs on soundcheck across Cope
 
 Freya Rose, Maxi Mo, ASTA MARI
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lulla-li/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lulla-li/)*

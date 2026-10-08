@@ -1,8 +1,8 @@
 # Gallery
 
-Gallery is a music venue in London with 15 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Paradox Nexus: Dunmore Brothers - Thursdays at Gallery" on Thu, 8 Oct 2026.
+Gallery is a music venue in London with 16 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Paradox Nexus: Dunmore Brothers - Thursdays at Gallery" on Thu, 8 Oct 2026.
 
-Gallery is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Ale Grooves, AUGUSTE, Batuka and Billa Bazz and 2 more. See dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
+Gallery is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Ale Grooves, AUGUSTE, Batuka and Bhaskar and 2 more. See dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Gallery is a music venue in London listed on soundcheck. 15 upcoming gigs, with 
 
 2A Kensington High Street, London, W8 4PT, London
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*

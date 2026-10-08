@@ -1,6 +1,6 @@
 # Kellie Allen
 
-Kellie Allen is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Casino Rooms, South-east on Fri, 30 Oct 2026.
+Kellie Allen is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Casino Rooms, South-east on Fri, 30 Oct 2026.
 
 Kellie Allen is a house and tech house artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 22 more. Often billed alongside Prunk, Dennis Quin and M-High. Next up: Casino Rooms, South East on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Kellie Allen is a house and tech house artist based in United Kingdom, with 125 
 
 Prunk, Dennis Quin, M-High
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kellieallen/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kellieallen/)*

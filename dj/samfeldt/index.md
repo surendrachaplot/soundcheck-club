@@ -1,6 +1,6 @@
 # Sam Feldt
 
-Sam Feldt is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Central Chapelle, Paris on Fri, 9 Oct 2026.
+Sam Feldt is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Central Chapelle, Paris on Fri, 9 Oct 2026.
 
 Sam Feldt is a house and deep house artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Bali, Barcelona and Boston and 12 more. Often billed alongside Kygo, Alesso and Felix Jaehn. Next up: Central Chapelle, Paris on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Sam Feldt is a house and deep house artist based in Netherlands, with 28 gigs on
 
 Kygo, Alesso, Felix Jaehn
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samfeldt/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samfeldt/)*

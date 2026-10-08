@@ -1,14 +1,15 @@
 # CHOREOPHILA
 
-CHOREOPHILA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Fitzroy, Berlin on Sat, 10 Oct 2026.
+CHOREOPHILA is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Fitzroy, Berlin on Sat, 10 Oct 2026.
 
-CHOREOPHILA is a techno and trance artist based in Germany, with 48 gigs on soundcheck across Berlin, Krakow and Nantes. Often billed alongside Multifun, Schorli and SACID. Next up: Fitzroy, Berlin on Sat 10 Oct.
+CHOREOPHILA is a techno and trance artist based in Germany, with 49 gigs on soundcheck across Berlin, Krakow and Nantes. Often billed alongside Multifun, Schorli and SACID. Next up: Fitzroy, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Fitzroy | Berlin |
+| Sat, 17 Oct 2026 | frachtkante | Berlin |
 | Fri, 4 Dec 2026 | Macadam | Nantes |
 
 ## Recently played
@@ -26,4 +27,4 @@ CHOREOPHILA is a techno and trance artist based in Germany, with 48 gigs on soun
 
 Multifun, Schorli, SACID
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/choreophila/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/choreophila/)*

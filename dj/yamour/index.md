@@ -1,6 +1,6 @@
 # Yamour
 
-Yamour is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 10 Oct 2026.
+Yamour is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 10 Oct 2026.
 
 Yamour is a house and techno artist based in Germany, with 163 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 32 more. Often billed alongside Konstantin, Edward and Leafar Legov. Next up: Seaseaclub Barcelona, Barcelona on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Yamour is a house and techno artist based in Germany, with 163 gigs on soundchec
 
 Konstantin, Edward, Leafar Legov
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamour/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamour/)*

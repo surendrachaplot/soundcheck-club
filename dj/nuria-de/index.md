@@ -1,6 +1,6 @@
 # NÚRIA (DE)
 
-NÚRIA (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 21 Nov 2026.
+NÚRIA (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 21 Nov 2026.
 
 NÚRIA (DE) is a techno and house artist based in Germany, with 75 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Frankfurt and 6 more. Often billed alongside Karim Alkhayat, KEN (DE) and Maurice Mino. Next up: Ritter Butzke, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ NÚRIA (DE) is a techno and house artist based in Germany, with 75 gigs on sound
 
 Karim Alkhayat, KEN (DE), Maurice Mino
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nuria-de/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nuria-de/)*

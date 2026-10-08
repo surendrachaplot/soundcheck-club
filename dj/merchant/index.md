@@ -1,6 +1,6 @@
 # Merchant
 
-Merchant is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Club Malasaña, Madrid on Fri, 9 Oct 2026.
+Merchant is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Club Malasaña, Madrid on Fri, 9 Oct 2026.
 
 Merchant is a house and disco artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Edinburgh, London and Los Angeles and 9 more. Often billed alongside Richard Fribert, Max Hammur and Boboxa. Next up: Club Malasaña, Madrid on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Merchant is a house and disco artist based in United Kingdom, with 34 gigs on so
 
 Richard Fribert, Max Hammur, Boboxa
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merchant/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merchant/)*

@@ -1,6 +1,6 @@
 # HED² Barber
 
-HED² Barber is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "Micro Trax x HED² - Friday" on Fri, 23 Oct 2026.
+HED² Barber is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "Micro Trax x HED² - Friday" on Fri, 23 Oct 2026.
 
 HED² Barber is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Jesse Watamalejo. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ HED² Barber is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig,
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Micro Trax x HED² - Friday | Jesse Watamalejo |
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/hed-barber/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/hed-barber/)*

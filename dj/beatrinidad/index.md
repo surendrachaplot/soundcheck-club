@@ -1,13 +1,14 @@
 # Bea Trinidad
 
-Bea Trinidad is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at H0L0, New York City on Sat, 7 Nov 2026.
+Bea Trinidad is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Under the K Bridge, New York City on Sun, 18 Oct 2026.
 
-Bea Trinidad is a house and disco artist based in United States of America, with 35 gigs on soundcheck across Berlin, Montreal, New York City and San Francisco/Oakland. Often billed alongside Bustin' Loose, Roland & Brother Rich and ANICHE. Next up: H0L0, New York City on Sat 7 Nov.
+Bea Trinidad is a house and disco artist based in United States of America, with 36 gigs on soundcheck across Berlin, Montreal, New York City and San Francisco/Oakland. Often billed alongside Bustin' Loose, Roland & Brother Rich and ANICHE. Next up: Under the K Bridge, New York City on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 18 Oct 2026 | Under the K Bridge | New York City |
 | Sat, 7 Nov 2026 | H0L0 | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Bea Trinidad is a house and disco artist based in United States of America, with
 
 Bustin' Loose, Roland & Brother Rich, ANICHE
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beatrinidad/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beatrinidad/)*

@@ -1,6 +1,6 @@
 # ANGELDOOF
 
-ANGELDOOF is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Nice N Sleazy, Glasgow on Fri, 9 Oct 2026.
+ANGELDOOF is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Nice N Sleazy, Glasgow on Fri, 9 Oct 2026.
 
 ANGELDOOF is a techno and trance artist based in United Kingdom, with 6 gigs on soundcheck across Glasgow. Often billed alongside MMS, COURTEZ and Frankie Elyse. Next up: Nice N Sleazy, Glasgow on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ ANGELDOOF is a techno and trance artist based in United Kingdom, with 6 gigs on 
 
 MMS (2), COURTEZ, Frankie Elyse
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angeldoof/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angeldoof/)*

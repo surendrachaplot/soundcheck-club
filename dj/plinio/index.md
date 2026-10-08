@@ -1,6 +1,6 @@
 # Plinio
 
-Plinio is a Funk / Soul and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at El Pumarejo Barcelona, Barcelona on Fri, 9 Oct 2026.
+Plinio is a Funk / Soul and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at El Pumarejo Barcelona, Barcelona on Fri, 9 Oct 2026.
 
 Plinio is a funk / soul and afrobeat artist, with 13 gigs on soundcheck across Barcelona and London. Often billed alongside GeraH, Cosmo Sofi and Joseph Russell. Next up: El Pumarejo Barcelona, Barcelona on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Plinio is a funk / soul and afrobeat artist, with 13 gigs on soundcheck across B
 
 GeraH, Cosmo Sofi, Joseph Russell
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plinio/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plinio/)*

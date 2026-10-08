@@ -1,6 +1,6 @@
 # ALDOX
 
-ALDOX is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Bar Oriente, Mexico City on Fri, 9 Oct 2026.
+ALDOX is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Bar Oriente, Mexico City on Fri, 9 Oct 2026.
 
 ALDOX is a techno and electronica artist based in Mexico, with 8 gigs on soundcheck across Mexico City. Often billed alongside Cler., AAAA and Alexa Rosas. Next up: Bar Oriente, Mexico City on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ ALDOX is a techno and electronica artist based in Mexico, with 8 gigs on soundch
 
 Cler., AAAA, Alexa Rosas
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aldox/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aldox/)*

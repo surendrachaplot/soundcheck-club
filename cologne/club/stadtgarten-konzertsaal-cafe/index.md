@@ -1,6 +1,6 @@
 # Stadtgarten Konzertsaal / Cafe
 
-Stadtgarten Konzertsaal / Cafe is a music venue in Cologne with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Toy Tonics Jam with Sam Ruffillo, Stump Valley, Anna & Ramon" on Sat, 10 Oct 2026.
+Stadtgarten Konzertsaal / Cafe is a music venue in Cologne with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Toy Tonics Jam with Sam Ruffillo, Stump Valley, Anna & Ramon" on Sat, 10 Oct 2026.
 
 Stadtgarten Konzertsaal / Cafe is a music venue in Cologne listed on soundcheck. 5 upcoming gigs, with line-ups including Alfalfa, AMSL, Anna Cainelli and DAVINA and 2 more. See dates, start times and who's playing. Venloer Str. 40; 50672 Cologne; Germany.
 
@@ -18,4 +18,4 @@ Stadtgarten Konzertsaal / Cafe is a music venue in Cologne listed on soundcheck.
 
 Venloer Str. 40; 50672 Cologne; Germany, Cologne
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/stadtgarten-konzertsaal-cafe/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/stadtgarten-konzertsaal-cafe/)*

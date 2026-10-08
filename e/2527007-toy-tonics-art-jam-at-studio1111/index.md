@@ -1,6 +1,6 @@
 # Toy Tonics Art Jam at Studio1111
 
-Toy Tonics Art Jam at Studio1111 on Fri 6 Nov, Berlin. 1 artist: Kapote. House and Disco. See the line-up on soundcheck.
+Toy Tonics Art Jam at Studio1111 on Fri 6 Nov, Berlin. 2 artists: A.tari and Kapote. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Toy Tonics Art Jam at Studio1111 on Fri 6 Nov, Berlin. 1 artist: Kapote. House a
 
 ## Line-up
 
+- A.tari
 - Kapote
 
 *Source: [soundcheck](https://soundcheck.club/e/2527007-toy-tonics-art-jam-at-studio1111/)*

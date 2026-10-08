@@ -1,6 +1,6 @@
 # Superpitcher
 
-Superpitcher is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at 50 | 50, Medellin on Fri, 9 Oct 2026.
+Superpitcher is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at 50 | 50, Medellin on Fri, 9 Oct 2026.
 
 Superpitcher is a house and techno artist based in Germany, with 21 gigs on soundcheck across Berlin, Cologne, Ibiza and Lisbon and 8 more. Often billed alongside Daniel Weil, Axel Boman and Denis Stockhausen. Next up: 50 | 50, Medellin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Superpitcher is a house and techno artist based in Germany, with 21 gigs on soun
 
 Daniel Weil, Axel Boman, Denis Stockhausen
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/superpitcher/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/superpitcher/)*

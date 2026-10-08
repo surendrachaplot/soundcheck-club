@@ -1,6 +1,6 @@
 # Dan Miyagishi
 
-Dan Miyagishi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Royal Lounge, Tokyo on Sat, 24 Oct 2026.
+Dan Miyagishi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Royal Lounge, Tokyo on Sat, 24 Oct 2026.
 
 Dan Miyagishi is a house and tech house artist based in Japan, with 8 gigs on soundcheck across Tokyo. Often billed alongside PUNK N MATRIX, Yamariki and CARTOON. Next up: Royal Lounge, Tokyo on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Dan Miyagishi is a house and tech house artist based in Japan, with 8 gigs on so
 
 PUNK N MATRIX, Yamariki, CARTOON
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danmiyagishi/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danmiyagishi/)*

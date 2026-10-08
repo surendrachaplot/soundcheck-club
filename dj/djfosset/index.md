@@ -1,6 +1,6 @@
 # Dj Fossette
 
-Dj Fossette is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Hexagon Brussels, Brussels on Sat, 31 Oct 2026.
+Dj Fossette is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Hexagon Brussels, Brussels on Sat, 31 Oct 2026.
 
 Dj Fossette is a house and electro artist, with 18 gigs on soundcheck across Brussels. Often billed alongside Kathleen C, VTT (BE) and bendrik. Next up: Hexagon Brussels, Brussels on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Dj Fossette is a house and electro artist, with 18 gigs on soundcheck across Bru
 
 Kathleen C, VTT (BE), bendrik
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfosset/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfosset/)*

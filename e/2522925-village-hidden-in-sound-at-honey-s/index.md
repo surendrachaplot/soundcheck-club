@@ -1,6 +1,6 @@
 # Village Hidden in Sound at Honey's
 
-Village Hidden in Sound at Honey's on Fri 9 Oct, New York City. 10 artists: ceviché, DJ girlcrush, HELIX (NYC) and J.N.R. and 6 more. Techno and House. See the line-up on soundcheck.
+Village Hidden in Sound at Honey's on Fri 9 Oct, New York City. 11 artists: ceviché, DJ girlcrush, DJ Loose Fit and HELIX (NYC) and 7 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Village Hidden in Sound at Honey's on Fri 9 Oct, New York City. 10 artists: cevi
 
 - ceviché
 - DJ girlcrush
+- DJ Loose Fit
 - HELIX (NYC)
 - J.N.R.
 - KYRUH

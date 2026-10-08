@@ -1,6 +1,6 @@
 # Alexander Technique
 
-Alexander Technique is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - Robert Fulton Park - 70 Chauncey St, Brooklyn, New York City on Sat, 10 Oct 2026.
+Alexander Technique is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Robert Fulton Park - 70 Chauncey St, Brooklyn, New York City on Sat, 10 Oct 2026.
 
 Alexander Technique is a techno and house artist based in United States of America, with 36 gigs on soundcheck across Amsterdam, Chicago, Detroit and Miami and 2 more. Often billed alongside Destro187, SPEEDŸ and Brent Shay. Next up: TBA - Robert Fulton Park - 70 Chauncey St, Brooklyn, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Alexander Technique is a techno and house artist based in United States of Ameri
 
 Destro187, SPEEDŸ, Brent Shay
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandertechnique/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandertechnique/)*

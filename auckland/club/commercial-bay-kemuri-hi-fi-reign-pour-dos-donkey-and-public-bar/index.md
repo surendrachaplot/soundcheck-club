@@ -1,18 +1,18 @@
 # Commercial Bay - Kemuri Hi-Fi, Reign & Pour, Dos Donkey and Public Bar
 
-Commercial Bay - Kemuri Hi-Fi, Reign & Pour, Dos Donkey and Public Bar is a music venue in Auckland with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "RIO FUNK" on Sat, 10 Oct 2026.
+Commercial Bay - Kemuri Hi-Fi, Reign & Pour, Dos Donkey and Public Bar is a music venue in Auckland with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "RIO FUNK" on Sat, 10 Oct 2026.
 
-Commercial Bay - Kemuri Hi-Fi, Reign & Pour, Dos Donkey and Public Bar is a music venue in Auckland listed on soundcheck. 2 upcoming gigs, with line-ups including Goldtooth. See dates, start times and who's playing. 7 Queen Street, Auckland Central, Auckland 1010, New Zealand.
+Commercial Bay - Kemuri Hi-Fi, Reign & Pour, Dos Donkey and Public Bar is a music venue in Auckland listed on soundcheck. 2 upcoming gigs, with line-ups including ANABE and Goldtooth. See dates, start times and who's playing. 7 Queen Street, Auckland Central, Auckland 1010, New Zealand.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | RIO FUNK |  |
-| Sat, 17 Oct 2026 | Commercial Bay Live | Goldtooth |
+| Sat, 17 Oct 2026 | Commercial Bay Live | ANABE, Goldtooth |
 
 ## Address
 
 7 Queen Street, Auckland Central, Auckland 1010, New Zealand, Auckland
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/commercial-bay-kemuri-hi-fi-reign-pour-dos-donkey-and-public-bar/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/commercial-bay-kemuri-hi-fi-reign-pour-dos-donkey-and-public-bar/)*

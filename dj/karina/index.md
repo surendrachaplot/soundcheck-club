@@ -1,6 +1,6 @@
 # Karina
 
-Karina is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Bohnengold, Berlin on Fri, 9 Oct 2026.
+Karina is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Bohnengold, Berlin on Fri, 9 Oct 2026.
 
 Karina is a house and techno artist based in Norway, with 17 gigs on soundcheck across Amsterdam, Berlin, Madrid and Washington DC. Often billed alongside Frankie Flowerz, Local Suicide and Sylvie Maziarz. Next up: Bohnengold, Berlin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Karina is a house and techno artist based in Norway, with 17 gigs on soundcheck 
 
 Frankie Flowerz, Local Suicide, Sylvie Maziarz
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karina/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karina/)*

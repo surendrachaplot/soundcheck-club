@@ -1,6 +1,6 @@
 # Live Haus
 
-Live Haus is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "17℃FR" on Fri, 9 Oct 2026.
+Live Haus is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "17℃FR" on Fri, 9 Oct 2026.
 
 Live Haus is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including Acrocanthosaurus, Allen Mock, DUCK and eijin and 2 more. See dates, start times and who's playing. 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
 
@@ -17,4 +17,4 @@ Live Haus is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with 
 
 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan, Tokyo
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/live-haus/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/live-haus/)*

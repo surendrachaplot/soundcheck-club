@@ -1,6 +1,6 @@
 # Sinmo
 
-Sinmo is a Tech House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at B-SIDE, Warsaw on Fri, 9 Oct 2026.
+Sinmo is a Tech House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at B-SIDE, Warsaw on Fri, 9 Oct 2026.
 
 Sinmo is a tech house and electro artist, with 10 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Buchan, Abuelita and Animistic Beliefs. Next up: B-SIDE, Warsaw on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Sinmo is a tech house and electro artist, with 10 gigs on soundcheck across Krak
 
 Buchan, Abuelita, Animistic Beliefs
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinmo/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinmo/)*

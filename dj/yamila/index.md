@@ -1,6 +1,6 @@
 # Yamila
 
-Yamila is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Masada, Milan on Sat, 17 Oct 2026.
+Yamila is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Masada, Milan on Sat, 17 Oct 2026.
 
 Yamila is a techno and electronica artist based in Argentina, with 56 gigs on soundcheck across Barcelona, London, Manchester and Milan and 2 more. Often billed alongside Rorschack, Functional Disorder and Ikaar. Next up: Masada, Milan on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Yamila is a techno and electronica artist based in Argentina, with 56 gigs on so
 
 Rorschack, Functional Disorder, Ikaar
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamila/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamila/)*

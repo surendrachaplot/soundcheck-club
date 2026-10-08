@@ -1,6 +1,6 @@
 # James Cole
 
-James Cole is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Kolektor, Prague on Sat, 10 Oct 2026.
+James Cole is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Kolektor, Prague on Sat, 10 Oct 2026.
 
 James Cole is a house and minimal artist based in Hungary, with 36 gigs on soundcheck across Budapest, Naples and Prague. Often billed alongside Jaffa Surfa, Andras Garay and Antique (HU). Next up: Kolektor, Prague on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ James Cole is a house and minimal artist based in Hungary, with 36 gigs on sound
 
 Jaffa Surfa, Andras Garay, Antique (HU)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamescole/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamescole/)*

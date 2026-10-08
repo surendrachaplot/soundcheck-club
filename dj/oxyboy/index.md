@@ -1,14 +1,15 @@
 # OXYBOY
 
-OXYBOY is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Horn, Bangkok on Thu, 8 Oct 2026.
+OXYBOY is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Horn, Bangkok on Thu, 8 Oct 2026.
 
-OXYBOY is a club and techno artist based in Thailand, with 21 gigs on soundcheck across Bangkok. Often billed alongside JWP., Genji and .g (TH). Next up: Horn, Bangkok on Thu 8 Oct.
+OXYBOY is a club and techno artist based in Thailand, with 22 gigs on soundcheck across Bangkok. Often billed alongside Genji, JWP. and .g (TH). Next up: Horn, Bangkok on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | Horn | Bangkok |
+| Sat, 28 Nov 2026 | Speakerbox | Bangkok |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ OXYBOY is a club and techno artist based in Thailand, with 21 gigs on soundcheck
 
 ## Shares bills with
 
-JWP., Genji, .g (TH)
+Genji, JWP., .g (TH)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oxyboy/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oxyboy/)*

@@ -1,6 +1,6 @@
 # Balearic Eric
 
-Balearic Eric is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Charlie, Munich on Sat, 24 Oct 2026.
+Balearic Eric is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Charlie, Munich on Sat, 24 Oct 2026.
 
 Balearic Eric is a house and deep house artist based in Germany, with 32 gigs on soundcheck across Berlin, Hamburg, Leipzig and Munich and 1 more. Often billed alongside Nic Jalusi, Super Sound Global and sianza. Next up: Charlie, Munich on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Balearic Eric is a house and deep house artist based in Germany, with 32 gigs on
 
 Nic Jalusi, Super Sound Global, sianza
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baleariceric/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baleariceric/)*

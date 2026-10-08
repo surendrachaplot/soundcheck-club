@@ -1,6 +1,6 @@
 # tribalism - Montero, Nectare, Stanislav Tolkachev Live at essaim
 
-tribalism - Montero, Nectare, Stanislav Tolkachev Live at essaim on Fri 23 Oct, Paris. 2 artists: Montero and Stanislav Tolkachev. Techno. See the line-up on soundcheck.
+tribalism - Montero, Nectare, Stanislav Tolkachev Live at essaim on Fri 23 Oct, Paris. 3 artists: Montero, Nectare and Stanislav Tolkachev. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ tribalism - Montero, Nectare, Stanislav Tolkachev Live at essaim on Fri 23 Oct, 
 ## Line-up
 
 - Montero
+- Nectare
 - Stanislav Tolkachev
 
 *Source: [soundcheck](https://soundcheck.club/e/2515956-tribalism-montero-nectare-stanislav-tolkachev-live-at-essaim/)*

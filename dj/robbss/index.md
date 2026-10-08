@@ -1,19 +1,19 @@
 # ROBBSS
 
-ROBBSS is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA - The Random Club, Rome on Wed, 7 Oct 2026.
+ROBBSS is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Cieloterra, Rome on Fri, 9 Oct 2026.
 
-ROBBSS is a techno and trance artist, with 20 gigs on soundcheck across Rome and Turin. Often billed alongside Max Raponi, GIANO and Hellson5. Next up: TBA - The Random Club, Rome on Wed 7 Oct.
+ROBBSS is a techno and trance artist, with 20 gigs on soundcheck across Rome and Turin. Often billed alongside Max Raponi, GIANO and Hellson5. Next up: Cieloterra, Rome on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 7 Oct 2026 | TBA - The Random Club | Rome |
 | Fri, 9 Oct 2026 | Cieloterra | Rome |
 | Sat, 17 Oct 2026 | Astoria | Turin |
 
 ## Recently played
 
+- TBA - The Random Club, Rome · Wed, 7 Oct 2026
 - TBA - The Random Club, Rome · Wed, 23 Sept 2026
 - Cieloterra, Rome · Sat, 12 Sept 2026
 - Forte Antenne, Rome · Fri, 28 Aug 2026
@@ -21,10 +21,9 @@ ROBBSS is a techno and trance artist, with 20 gigs on soundcheck across Rome and
 - Cieloterra, Rome · Sat, 21 Mar 2026
 - TAG Tevere, Rome · Sat, 1 Nov 2025
 - Cieloterra, Rome · Sat, 11 Oct 2025
-- Cieloterra, Rome · Fri, 19 Sept 2025
 
 ## Shares bills with
 
 Max Raponi, GIANO (2), Hellson5
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robbss/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robbss/)*

@@ -1,8 +1,8 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Marsolo, JACK MARLOW, Natalia Roth, Blaise Bracic, cutback! + friends: LILLE, Dylan Rhee" on Fri, 16 Oct 2026.
+Elsewhere is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Marsolo, JACK MARLOW, Natalia Roth, Blaise Bracic, cutback! + friends: LILLE, Dylan Rhee" on Fri, 16 Oct 2026.
 
-Elsewhere is a music venue in New York City listed on soundcheck. 16 upcoming gigs, with line-ups including 6 SENSE, AEREA, Alex Farell and Ali RQ and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
+Elsewhere is a music venue in New York City listed on soundcheck. 16 upcoming gigs, with line-ups including 6 SENSE, AEREA, Alcantara and Alex Farell and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Elsewhere is a music venue in New York City listed on soundcheck. 16 upcoming gi
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Marsolo, JACK MARLOW, Natalia Roth, Blaise Bracic, cutback! + friends: LILLE, Dylan Rhee | JACK MARLOW, Marsolo, Natalia Roth |
 | Fri, 16 Oct 2026 | MIRCHI: Halla, Krithi, MAIYA | Krithi, MAIYA |
-| Sat, 17 Oct 2026 | Tye Turner + ZABAAN presents CLUB CHUTIYA: SRI, ANA.GHA, LILLA, YUVI | LILLA, SRI (1), Tye Turner, YUVI (UA) |
+| Sat, 17 Oct 2026 | Tye Turner, Goldie Harris, Hanti, ZABAAN presents CLUB CHUTIYA, BARANGAY | Alcantara, Jay Dalawa, LILLA, SRI (1), Tye Turner, YUVI (UA) |
 | Fri, 23 Oct 2026 | Franc Moody DJ Set, Cody Currie (open to close) | Cody Currie |
 | Sat, 24 Oct 2026 | 10 Years of CruCast: Harriet Jaxxon, [IVY], SKEPSIS, Voltage, oomfRAVE | oomfhaver |
 | Sat, 31 Oct 2026 | Elsewhere Halloween - Major League Djz, SAIDAH, D Stone, Ariel Lights b2b Sissy Elliott | D Stone, Major League Djz, SAIDAH, Sissy Elliott |
@@ -23,4 +23,4 @@ Elsewhere is a music venue in New York City listed on soundcheck. 16 upcoming gi
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

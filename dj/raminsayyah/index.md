@@ -1,6 +1,6 @@
 # Ramin Sayyah
 
-Ramin Sayyah is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Viadukt Bar, Budapest on Sun, 11 Oct 2026.
+Ramin Sayyah is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Viadukt Bar, Budapest on Sun, 11 Oct 2026.
 
 Ramin Sayyah is a house and electronica artist, with 11 gigs on soundcheck across Budapest. Often billed alongside Cvrdwell, Gingershot and klpflrtpr. Next up: Viadukt Bar, Budapest on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Ramin Sayyah is a house and electronica artist, with 11 gigs on soundcheck acros
 
 Cvrdwell, Gingershot, klpflrtpr
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raminsayyah/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raminsayyah/)*

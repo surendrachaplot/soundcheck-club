@@ -1,8 +1,8 @@
 # Dirty K
 
-Dirty K is a Club and Vaporwave artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at M.O.T, London on Thu, 8 Oct 2026.
+Dirty K is a Club and Vaporwave artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at M.O.T, London on Thu, 8 Oct 2026.
 
-Dirty K is a club and vaporwave artist, with 12 gigs on soundcheck across Berlin, Glasgow, London and Manchester and 1 more. Often billed alongside 10cust, AEON FUX and Ali RQ. Next up: M.O.T, London on Thu 8 Oct.
+Dirty K is a club and vaporwave artist based in China, with 12 gigs on soundcheck across Berlin, Glasgow, London and Manchester and 1 more. Often billed alongside 10cust, AEON FUX and Ali RQ. Next up: M.O.T, London on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Dirty K is a club and vaporwave artist, with 12 gigs on soundcheck across Berlin
 
 10cust, AEON FUX, Ali RQ
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtyk/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtyk/)*

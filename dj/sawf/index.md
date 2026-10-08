@@ -1,14 +1,15 @@
 # Sawf
 
-Sawf is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Astron Club, Athens on Sat, 24 Oct 2026.
+Sawf is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Astron Club, Athens on Sat, 24 Oct 2026.
 
-Sawf is a techno artist based in Tanzania, with 12 gigs on soundcheck across Athens, Berlin and Tbilisi. Often billed alongside ANFS, 3.14 and Ancient Methods. Next up: Astron Club, Athens on Sat 24 Oct.
+Sawf is a techno artist based in Tanzania, with 13 gigs on soundcheck across Athens, Berlin and Tbilisi. Often billed alongside ANFS, 3.14 and Surgeon. Next up: Astron Club, Athens on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Astron Club | Athens |
+| Sat, 14 Nov 2026 | SMUT Athens | Athens |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Sawf is a techno artist based in Tanzania, with 12 gigs on soundcheck across Ath
 
 ## Shares bills with
 
-ANFS, 3.14, Ancient Methods
+ANFS, 3.14, Surgeon
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sawf/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sawf/)*

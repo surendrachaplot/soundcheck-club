@@ -1,13 +1,14 @@
 # FUNKA04
 
-FUNKA04 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Specka, Madrid on Sat, 7 Nov 2026.
+FUNKA04 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Silodom, Saarland on Sat, 17 Oct 2026.
 
-FUNKA04 is a techno and house artist, with 16 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Hamburg and 3 more. Often billed alongside solar2k, Basti Thielburg and CALiACRA. Next up: Specka, Madrid on Sat 7 Nov.
+FUNKA04 is a techno and house artist, with 17 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Hamburg and 4 more. Often billed alongside solar2k, Basti Thielburg and Björn del Togno. Next up: Silodom, Saarland on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Silodom | Saarland |
 | Sat, 7 Nov 2026 | Specka | Madrid |
 
 ## Recently played
@@ -23,6 +24,6 @@ FUNKA04 is a techno and house artist, with 16 gigs on soundcheck across Amsterda
 
 ## Shares bills with
 
-solar2k, Basti Thielburg, CALiACRA
+solar2k, Basti Thielburg, Björn del Togno
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funka04/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funka04/)*

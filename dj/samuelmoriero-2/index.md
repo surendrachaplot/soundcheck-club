@@ -1,8 +1,8 @@
 # Samuel Moriero (2)
 
-Samuel Moriero (2) is a Techno and Trance artist with 17 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, Toronto on Sat, 3 Oct 2026.
+Samuel Moriero (2) is a Techno and Trance artist with 18 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA, Toronto on Sat, 3 Oct 2026.
 
-Samuel Moriero is a techno and trance artist based in Italy, with 29 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 17 more. Often billed alongside ASLO, Adam Bartas and Holy Priest. Next up: TBA, Toronto on Sat 3 Oct.
+Samuel Moriero is a techno and trance artist based in Italy, with 30 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 18 more. Often billed alongside ASLO, Adam Bartas and Holy Priest. Next up: TBA, Toronto on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Samuel Moriero is a techno and trance artist based in Italy, with 29 gigs on sou
 | Sat, 3 Oct 2026 | TBA | Toronto |
 | Sat, 10 Oct 2026 | TBA | Toronto |
 | Fri, 16 Oct 2026 | 821 Runnymede Rd | Toronto |
+| Fri, 23 Oct 2026 | Interference | Toulouse |
 | Sun, 25 Oct 2026 | Afas Live | Amsterdam |
 | Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |
 | Sun, 1 Nov 2026 | Razzmatazz | Barcelona |
@@ -19,7 +20,6 @@ Samuel Moriero is a techno and trance artist based in Italy, with 29 gigs on sou
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 18 Dec 2026 | Poolen | Copenhagen |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
-| Thu, 31 Dec 2026 | Afas Live | Amsterdam |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Samuel Moriero is a techno and trance artist based in Italy, with 29 gigs on sou
 
 ASLO, Adam Bartas, Holy Priest
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*

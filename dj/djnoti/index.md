@@ -1,6 +1,6 @@
 # DJ NOT I
 
-DJ NOT I is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at B side Athens, Athens on Sat, 10 Oct 2026.
+DJ NOT I is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at B side Athens, Athens on Sat, 10 Oct 2026.
 
 DJ NOT I is a bass and dub artist based in Greece, with 18 gigs on soundcheck across Athens and Milan. Often billed alongside Andreas Palmer, Socrates Antypas and pink.wav. Next up: B side Athens, Athens on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DJ NOT I is a bass and dub artist based in Greece, with 18 gigs on soundcheck ac
 
 Andreas Palmer, Socrates Antypas, pink.wav
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnoti/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnoti/)*

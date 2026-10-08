@@ -1,6 +1,6 @@
 # Colyn
 
-Colyn is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Zumana Bali, Bali on Fri, 9 Oct 2026.
+Colyn is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Zumana Bali, Bali on Fri, 9 Oct 2026.
 
 Colyn is a techno and house artist based in Netherlands, with 168 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Adriatique, Innellea and CamelPhat. Next up: Zumana Bali, Bali on Fri 9 Oct.
 
@@ -34,4 +34,4 @@ Colyn is a techno and house artist based in Netherlands, with 168 gigs on soundc
 
 Adriatique, Innellea, CamelPhat
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colyn/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colyn/)*

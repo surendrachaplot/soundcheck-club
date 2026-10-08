@@ -1,6 +1,6 @@
 # Swig
 
-Swig is a music venue in Chicago with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Goods Thursdays: Jojo Dancer / Czboogie" on Thu, 8 Oct 2026.
+Swig is a music venue in Chicago with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Goods Thursdays: Jojo Dancer / Czboogie" on Thu, 8 Oct 2026.
 
 Swig is a music venue in Chicago listed on soundcheck. 4 upcoming gigs, with line-ups including Czboogie, DJ Hyperactive, Dj Jes and Duke Shin and 2 more. See dates, start times and who's playing. 1469 n milwaukee chicago, il.
 
@@ -17,4 +17,4 @@ Swig is a music venue in Chicago listed on soundcheck. 4 upcoming gigs, with lin
 
 1469 n milwaukee chicago, il, Chicago
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/swig/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/swig/)*

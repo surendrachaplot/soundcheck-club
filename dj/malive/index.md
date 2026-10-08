@@ -1,6 +1,6 @@
 # Malive
 
-Malive is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Madarae San Francisco, San Francisco/Oakland on Fri, 9 Oct 2026.
+Malive is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Madarae San Francisco, San Francisco/Oakland on Fri, 9 Oct 2026.
 
 Malive is a house and tech house artist based in Brazil, with 36 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 17 more. Often billed alongside Betical, Claptone and Halfcab. Next up: Madarae San Francisco, San Francisco/Oakland on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ Malive is a house and tech house artist based in Brazil, with 36 gigs on soundch
 
 Betical, Claptone, Halfcab
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*

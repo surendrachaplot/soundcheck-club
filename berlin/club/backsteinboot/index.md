@@ -1,6 +1,6 @@
 # Backsteinboot
 
-Backsteinboot is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "Climate 24 hours: Peach, DJ Travella live, livwutang" on Sat, 10 Oct 2026.
+Backsteinboot is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "Climate 24 hours: Peach, DJ Travella live, livwutang" on Sat, 10 Oct 2026.
 
 Backsteinboot is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including DJ Travella, Gabrielle Kwarteng, Kikelomo and Kontronatura and 2 more. See dates, start times and who's playing. Eiswerderstrasse 18, 13585 Berlin.
 
@@ -14,4 +14,4 @@ Backsteinboot is a music venue in Berlin listed on soundcheck. 1 upcoming gig, w
 
 Eiswerderstrasse 18, 13585 Berlin, Berlin
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/backsteinboot/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/backsteinboot/)*

@@ -1,8 +1,8 @@
 # Signal
 
-Signal is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Night & Day: Sandwell District, Mary Yuzovskaya, Agonis, Henry Chow, Shaleen" on Fri, 9 Oct 2026.
+Signal is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Night & Day: Sandwell District, Mary Yuzovskaya, Agonis, Henry Chow, Shaleen" on Fri, 9 Oct 2026.
 
-Signal is a music venue in New York City listed on soundcheck. 17 upcoming gigs, with line-ups including 1morning, 98dots, LYDO and AceMo and 2 more. See dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
+Signal is a music venue in New York City listed on soundcheck. 18 upcoming gigs, with line-ups including 1morning, 98dots, LYDO and AceMo and 2 more. See dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
 ## What's on
 
@@ -15,7 +15,7 @@ Signal is a music venue in New York City listed on soundcheck. 17 upcoming gigs,
 | Sun, 11 Oct 2026 | Mizz Softee: CORA, DJ Saliva, Mohajer, Succubass, DJ G, Eugenia, Hank Jackson, Matas + more | Cora (CN), DJ G., Dj Saliva, Eugenia, Hank Jackson, Matas, Mohajer, Samuel Fish, Samwise (US), Succubass |
 | Sun, 11 Oct 2026 | Kater (Berlin) + Werkstatt 257 present: Steve Challier, Rafa, Masa | Masa Saji, RAFAELO, Steve Challier |
 | Fri, 16 Oct 2026 | Night & Day: Shed (LIVE), 1morning, LYDO, Juana, Kamran Sadeghi, Concrete Husband | 1morning, Concrete Husband, Juana, Kamran Sadeghi, LYDO, Shed |
-| Fri, 16 Oct 2026 | unmixed Panel: Music, Copyright & AI |  |
+| Fri, 16 Oct 2026 | unmixed Panel: Music, Copyright & AI | Nhii |
 | Sat, 17 Oct 2026 | Midnight Caviar x Elevation present Hardt Antoine, SKALA  | Christian Voldstad, HOVR, Hardt Antoine, Lovecraft, OBA+FLIP, SKALA |
 | Sun, 18 Oct 2026 | Spaghetti Strap: October |  |
 
@@ -23,4 +23,4 @@ Signal is a music venue in New York City listed on soundcheck. 17 upcoming gigs,
 
 175 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*

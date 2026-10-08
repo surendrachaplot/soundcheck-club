@@ -1,6 +1,6 @@
 # Liqwe
 
-Liqwe is a music venue in Leipzig with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "GLOW [Groovers Winter Series]" on Fri, 18 Dec 2026.
+Liqwe is a music venue in Leipzig with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "GLOW [Liqwe]" on Fri, 18 Dec 2026.
 
 Liqwe is a music venue in Leipzig listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Liqwe is a music venue in Leipzig listed on soundcheck. 1 upcoming gig. See date
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 18 Dec 2026 | GLOW [Groovers Winter Series] |  |
+| Fri, 18 Dec 2026 | GLOW [Liqwe] |  |
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/liqwe/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/liqwe/)*

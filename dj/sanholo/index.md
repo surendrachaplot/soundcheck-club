@@ -1,8 +1,8 @@
 # San Holo
 
-San Holo is a Bass and Experimental artist with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Big Night Live, Boston on Fri, 9 Oct 2026.
+San Holo is a Bass and Experimental artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Big Night Live, Boston on Fri, 9 Oct 2026.
 
-San Holo is a bass and experimental artist based in Netherlands, with 26 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 13 more. Often billed alongside Boys Noize, I Hate Models and KlangKuenstler. Next up: Big Night Live, Boston on Fri 9 Oct.
+San Holo is a bass and experimental artist based in Netherlands, with 26 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 13 more. Often billed alongside Boys Noize, Brutalismus 3000 and I Hate Models. Next up: Big Night Live, Boston on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ San Holo is a bass and experimental artist based in Netherlands, with 26 gigs on
 
 ## Shares bills with
 
-Boys Noize, I Hate Models, KlangKuenstler
+Boys Noize, Brutalismus 3000, I Hate Models
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanholo/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanholo/)*

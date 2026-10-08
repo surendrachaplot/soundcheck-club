@@ -1,6 +1,6 @@
 # Night at the Angel's Temple-夜殿天使 at OIL Club
 
-Night at the Angel's Temple-夜殿天使 at OIL Club on Fri 9 Oct, Shenzhen. 3 artists: ADEAD, nabii and zzm. Trance and Jungle. See the line-up on soundcheck.
+Night at the Angel's Temple-夜殿天使 at OIL Club on Fri 9 Oct, Shenzhen. 4 artists: ADEAD, File Explorer, nabii and zzm. Trance and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Night at the Angel's Temple-夜殿天使 at OIL Club on Fri 9 Oct, Shenzhen. 3 a
 ## Line-up
 
 - ADEAD
+- File Explorer
 - nabii
 - zzm (2)
 

@@ -1,6 +1,6 @@
 # Two Tribes CAMPFIRE
 
-Two Tribes CAMPFIRE is a music venue in London with 4 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "DSTRICT" on Sat, 10 Oct 2026.
+Two Tribes CAMPFIRE is a music venue in London with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "DSTRICT" on Sat, 10 Oct 2026.
 
 Two Tribes CAMPFIRE is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including A.N.T, Agility, B2B The Movement and Blake and 2 more. See dates, start times and who's playing. Tile Yard Studios, Tileyard Road, Kings Cross, London N7 9AH.
 
@@ -17,4 +17,4 @@ Two Tribes CAMPFIRE is a music venue in London listed on soundcheck. 4 upcoming 
 
 Tile Yard Studios, Tileyard Road, Kings Cross, London N7 9AH, London
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-tribes-campfire/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-tribes-campfire/)*

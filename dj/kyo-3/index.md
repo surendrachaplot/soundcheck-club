@@ -1,6 +1,6 @@
 # kyo (3)
 
-kyo (3) is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 31 Oct 2026.
+kyo (3) is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 31 Oct 2026.
 
 kyo is a garage and bass artist based in Japan, with 11 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside Genick, MOOTOE and Jacotanu. Next up: Circus Tokyo, Tokyo on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ kyo is a garage and bass artist based in Japan, with 11 gigs on soundcheck acros
 
 Genick, MOOTOE, Jacotanu
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyo-3/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyo-3/)*

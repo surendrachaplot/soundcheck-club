@@ -1,6 +1,6 @@
 # DJ Klapsalon
 
-DJ Klapsalon is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at dubble, Amsterdam on Sun, 11 Oct 2026.
+DJ Klapsalon is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at dubble, Amsterdam on Sun, 11 Oct 2026.
 
 DJ Klapsalon is a house and electronica artist based in United States of America, with 15 gigs on soundcheck across Amsterdam, Brussels, Paris and Rotterdam. Often billed alongside Hassan Raphael, AYEDA and Adam Bkr. Next up: dubble, Amsterdam on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ DJ Klapsalon is a house and electronica artist based in United States of America
 
 Hassan Raphael, AYEDA, Adam Bkr
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djklapsalon-nl/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djklapsalon-nl/)*

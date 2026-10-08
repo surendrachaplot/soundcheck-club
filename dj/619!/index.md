@@ -1,6 +1,6 @@
 # 619!
 
-619! is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+619! is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 619! is a techno and breakbeat artist based in United States of America, with 22 gigs on soundcheck across Miami and New York City. Often billed alongside Duality (US), SATURNSARii and bozito. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@
 
 Duality (US), SATURNSARii, bozito
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/619!/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/619!/)*

@@ -1,6 +1,6 @@
 # Le Trabendo
 
-Le Trabendo is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Ritmo Fatale X Dure Vie: Kendal, LAVION live, Zaatar" on Fri, 16 Oct 2026.
+Le Trabendo is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Ritmo Fatale X Dure Vie: Kendal, LAVION live, Zaatar" on Fri, 16 Oct 2026.
 
 Le Trabendo is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Alexi Shell, Cinthie, Domi (FR) and Dylan Dylan and 2 more. See dates, start times and who's playing. 211 avenue Jean Jaurès; 75019; Paris; France.
 
@@ -19,4 +19,4 @@ Le Trabendo is a music venue in Paris listed on soundcheck. 6 upcoming gigs, wit
 
 211 avenue Jean Jaurès; 75019; Paris; France, Paris
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-trabendo/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-trabendo/)*

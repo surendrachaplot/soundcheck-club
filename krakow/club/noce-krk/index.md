@@ -1,15 +1,15 @@
 # Noce KRK
 
-Noce KRK is a music venue in Krakow with 6 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "NIGHT PULSE & BREAKNECK - VLADO - YAKUZ - TRIETIAK" on Fri, 9 Oct 2026.
+Noce KRK is a music venue in Krakow with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "NIGHT PULSE & BREAKNECK - VLADO - YAKUZ - TRIETIAK" on Fri, 9 Oct 2026.
 
-Noce KRK is a music venue in Krakow listed on soundcheck. 6 upcoming gigs, with line-ups including Abrew, Adriana Lopez, Aetha and CRANZ and 2 more. See dates, start times and who's playing. Dajwór 14/16, 31-052 Kraków.
+Noce KRK is a music venue in Krakow listed on soundcheck. 6 upcoming gigs, with line-ups including Abrew, Adriana Lopez, Aetha and Breger and 2 more. See dates, start times and who's playing. Dajwór 14/16, 31-052 Kraków.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | NIGHT PULSE & BREAKNECK - VLADO - YAKUZ - TRIETIAK | Lofty |
-| Sat, 17 Oct 2026 | PsyGroove vol. 2 pres. BREGER | Esquita, Glani |
+| Sat, 17 Oct 2026 | PsyGroove vol. 2 pres. BREGER | Breger, Esquita, Glani |
 | Fri, 23 Oct 2026 | Noce Krk: URODZINY NOCY - 2 Sceny - 14 DJS | Aetha, CRANZ, Gabi Bury, Hellix, Piotr Figiel, RAJZ, Yōsta |
 | Sat, 31 Oct 2026 | Zorya IV Halloween edition |  |
 | Tue, 10 Nov 2026 | TECHNOSESSIONS 04: Dimitri Cooman (BE), Abrew | Abrew, Dimitri Cooman, MRV (1), RAJZ |
@@ -19,4 +19,4 @@ Noce KRK is a music venue in Krakow listed on soundcheck. 6 upcoming gigs, with 
 
 Dajwór 14/16, 31-052 Kraków, Krakow
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/noce-krk/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/noce-krk/)*

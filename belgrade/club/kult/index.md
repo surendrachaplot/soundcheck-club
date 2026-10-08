@@ -1,13 +1,14 @@
 # Kult
 
-Kult is a music venue in Belgrade with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "KULT pres. Derrick May" on Fri, 16 Oct 2026.
+Kult is a music venue in Belgrade with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "KULT REBELS" on Sat, 10 Oct 2026.
 
-Kult is a music venue in Belgrade listed on soundcheck. 5 upcoming gigs, with line-ups including Alci, Carl Craig, Derrick May and Marko Milosavljevic and 2 more. See dates, start times and who's playing. Čumićevo sokače 3, 11000 Belgrade, Serbia.
+Kult is a music venue in Belgrade listed on soundcheck. 6 upcoming gigs, with line-ups including Alci, Carl Craig, Derrick May and Djordje Bastovanovic 1 and 2 more. See dates, start times and who's playing. Čumićevo sokače 3, 11000 Belgrade, Serbia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | KULT REBELS | Djordje Bastovanovic 1 |
 | Fri, 16 Oct 2026 | KULT pres. Derrick May | Derrick May, Marko Milosavljevic |
 | Fri, 6 Nov 2026 | KULT pres. Alci | Alci, Mihael, Nemax |
 | Sat, 14 Nov 2026 | KULT pres. KENNY LARKIN |  |
@@ -18,4 +19,4 @@ Kult is a music venue in Belgrade listed on soundcheck. 5 upcoming gigs, with li
 
 Čumićevo sokače 3, 11000 Belgrade, Serbia, Belgrade
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kult/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kult/)*

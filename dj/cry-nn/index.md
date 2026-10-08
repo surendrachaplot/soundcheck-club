@@ -1,6 +1,6 @@
 # CRY.NN
 
-CRY.NN is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Bike Jesus, Prague on Sat, 24 Oct 2026.
+CRY.NN is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Bike Jesus, Prague on Sat, 24 Oct 2026.
 
 CRY.NN is a techno and industrial artist based in Czech Republic, with 22 gigs on soundcheck across Leeds and Prague. Often billed alongside Tapage Noir, Flakka and Arturo Legorreta. Next up: Bike Jesus, Prague on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ CRY.NN is a techno and industrial artist based in Czech Republic, with 22 gigs o
 
 Tapage Noir, Flakka, Arturo Legorreta
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cry-nn/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cry-nn/)*

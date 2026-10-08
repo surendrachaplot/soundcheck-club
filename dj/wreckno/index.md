@@ -1,8 +1,8 @@
 # Wreckno
 
-Wreckno is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Industry City, New York City on Fri, 30 Oct 2026.
+Wreckno is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Industry City, New York City on Fri, 30 Oct 2026.
 
-Wreckno is a bass and dubstep artist based in United States of America, with 16 gigs on soundcheck across Austin, Chicago, Denver and Detroit and 6 more. Often billed alongside Baby Wolf, Eli Escobar and LSDXOXO. Next up: Industry City, New York City on Fri 30 Oct.
+Wreckno is a bass and dubstep artist based in United States of America, with 16 gigs on soundcheck across Austin, Chicago, Denver and Detroit and 6 more. Often billed alongside Baby Wolf, DJ Ultra Violet and Eli Escobar. Next up: Industry City, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Wreckno is a bass and dubstep artist based in United States of America, with 16 
 
 ## Shares bills with
 
-Baby Wolf, Eli Escobar, LSDXOXO
+Baby Wolf, DJ Ultra Violet, Eli Escobar
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wreckno/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wreckno/)*

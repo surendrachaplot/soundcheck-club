@@ -1,6 +1,6 @@
 # Two More Years
 
-Two More Years is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Late Night Disco " on Sat, 10 Oct 2026.
+Two More Years is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Late Night Disco " on Sat, 10 Oct 2026.
 
 Two More Years is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Arnie Wrong, BRUIN (UK), Gerrardo and Haruka (UK) and 2 more. See dates, start times and who's playing. 7 Roach Road, Hackney Wick, E3 2PA.
 
@@ -15,4 +15,4 @@ Two More Years is a music venue in London listed on soundcheck. 2 upcoming gigs,
 
 7 Roach Road, Hackney Wick, E3 2PA, London
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-more-years/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-more-years/)*

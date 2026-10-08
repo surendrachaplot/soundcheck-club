@@ -1,6 +1,6 @@
 # Kobold
 
-Kobold is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Tana Kiosk, Naples on Sat, 10 Oct 2026.
+Kobold is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Tana Kiosk, Naples on Sat, 10 Oct 2026.
 
 Kobold is a house and techno artist, with 13 gigs on soundcheck across Berlin, Naples and Rome. Often billed alongside Nilo, Amiran and Anastasya. Next up: Tana Kiosk, Naples on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Kobold is a house and techno artist, with 13 gigs on soundcheck across Berlin, N
 
 Nilo, Amiran, Anastasya
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kobold/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kobold/)*

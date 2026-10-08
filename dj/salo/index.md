@@ -1,6 +1,6 @@
 # SALÓ
 
-SALÓ is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Dahlia Stereo, Manchester on Thu, 8 Oct 2026.
+SALÓ is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Dahlia Stereo, Manchester on Thu, 8 Oct 2026.
 
 SALÓ is a bass and drum & bass artist, with 4 gigs on soundcheck across Madrid and Manchester. Often billed alongside Acidnena, Amoss and Bat (US). Next up: Dahlia Stereo, Manchester on Thu 8 Oct.
 
@@ -20,4 +20,4 @@ SALÓ is a bass and drum & bass artist, with 4 gigs on soundcheck across Madrid 
 
 Acidnena, Amoss, Bat (US)
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salo/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salo/)*

@@ -1,6 +1,6 @@
 # Mario Lui
 
-Mario Lui is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Balboa Park, San Diego on Sat, 31 Oct 2026.
+Mario Lui is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Balboa Park, San Diego on Sat, 31 Oct 2026.
 
 Mario Lui is a house and afro house artist based in Venezuela, with 27 gigs on soundcheck across Los Angeles, Miami and San Diego. Often billed alongside Julean, Langdon J and Pro-K. Next up: Balboa Park, San Diego on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Mario Lui is a house and afro house artist based in Venezuela, with 27 gigs on s
 
 Julean, Langdon J, Pro-K
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariolui/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariolui/)*

@@ -1,6 +1,6 @@
 # Nikki Guild
 
-Nikki Guild is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at The Bongo Club, Edinburgh on Sat, 10 Oct 2026.
+Nikki Guild is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Bongo Club, Edinburgh on Sat, 10 Oct 2026.
 
 Nikki Guild is a house and techno artist based in United Kingdom, with 15 gigs on soundcheck across Edinburgh. Often billed alongside ona:v, Iona.Violet and Bartek. Next up: The Bongo Club, Edinburgh on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Nikki Guild is a house and techno artist based in United Kingdom, with 15 gigs o
 
 ona:v, Iona.Violet, Bartek
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkiguild/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkiguild/)*

@@ -1,6 +1,6 @@
 # HEAT//sink ~ at TBA - Secret Location 
 
-HEAT//sink ~ at TBA - Secret Location  on Fri 30 Oct, Denver. 3 artists: Jumpr, Liza Spinnelli and Mutualism. See the line-up on soundcheck.
+HEAT//sink ~ at TBA - Secret Location  on Fri 30 Oct, Denver. 3 artists: Jumpr, Liza Spinnelli and Mutualism. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

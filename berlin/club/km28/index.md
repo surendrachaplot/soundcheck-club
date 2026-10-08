@@ -1,18 +1,17 @@
 # KM28
 
-KM28 is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Abrubto live" on Wed, 7 Oct 2026.
+KM28 is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "Lâkin live" on Fri, 9 Oct 2026.
 
-KM28 is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Karl-Marx-Str. 28, Berlin 12043.
+KM28 is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Karl-Marx-Str. 28, Berlin 12043.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 7 Oct 2026 | Abrubto live |  |
 | Fri, 9 Oct 2026 | Lâkin live |  |
 
 ## Address
 
 Karl-Marx-Str. 28, Berlin 12043, Berlin
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/km28/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/km28/)*

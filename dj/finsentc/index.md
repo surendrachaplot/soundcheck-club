@@ -1,14 +1,15 @@
 # Finsent C
 
-Finsent C is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Enter Shibuya, Tokyo on Fri, 16 Oct 2026.
+Finsent C is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Enter Shibuya, Tokyo on Fri, 16 Oct 2026.
 
-Finsent C is a techno and house artist based in China, with 38 gigs on soundcheck across Hong Kong, Shenzhen and Tokyo. Often billed alongside Dan-neo, Konnection and Taku Hirayama. Next up: Enter Shibuya, Tokyo on Fri 16 Oct.
+Finsent C is a techno and house artist based in China, with 39 gigs on soundcheck across Hong Kong, Shenzhen and Tokyo. Often billed alongside Dan-neo, Konnection and Taku Hirayama. Next up: Enter Shibuya, Tokyo on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Enter Shibuya | Tokyo |
+| Sat, 24 Oct 2026 | 宀 Club | Hong Kong |
 | Sat, 14 Nov 2026 | Tai Tong Organic Ecopark | Hong Kong |
 
 ## Recently played
@@ -26,4 +27,4 @@ Finsent C is a techno and house artist based in China, with 38 gigs on soundchec
 
 Dan-neo, Konnection, Taku Hirayama
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/finsentc/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/finsentc/)*

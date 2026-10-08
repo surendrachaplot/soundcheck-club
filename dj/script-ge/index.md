@@ -1,6 +1,6 @@
 # Script (GE)
 
-Script (GE) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Flux, Istanbul on Sat, 10 Oct 2026.
+Script (GE) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Flux, Istanbul on Sat, 10 Oct 2026.
 
 Script (GE) is a techno and tech house artist based in Georgia, with 38 gigs on soundcheck across Amsterdam, Austin, Buenos Aires and Ibiza and 6 more. Often billed alongside Uväll, gwän and Dual Pistols. Next up: Flux, Istanbul on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Script (GE) is a techno and tech house artist based in Georgia, with 38 gigs on 
 
 Uväll, gwän, Dual Pistols
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/script-ge/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/script-ge/)*

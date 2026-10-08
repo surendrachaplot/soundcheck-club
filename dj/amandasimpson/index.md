@@ -1,6 +1,6 @@
 # Amanda Simpson
 
-Amanda Simpson is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at TBA, New York City on Sat, 10 Oct 2026.
+Amanda Simpson is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA, New York City on Sat, 10 Oct 2026.
 
 Amanda Simpson is a house and afro house artist based in United States of America, with 11 gigs on soundcheck across New York City. Often billed alongside Jack Mulqueen, Demi Riquisimo and Ksenyeah. Next up: TBA, New York City on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Amanda Simpson is a house and afro house artist based in United States of Americ
 
 Jack Mulqueen, Demi Riquisimo, Ksenyeah
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amandasimpson/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amandasimpson/)*

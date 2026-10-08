@@ -1,6 +1,6 @@
 # Hamish
 
-Hamish is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Hertz, Seoul on Fri, 9 Oct 2026.
+Hamish is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Hertz, Seoul on Fri, 9 Oct 2026.
 
 Hamish is a tech house and house artist, with 6 gigs on soundcheck across Berlin, Bristol, London and Manchester and 2 more. Often billed alongside Toby (UK), Arrosa and Blanch. Next up: Hertz, Seoul on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ Hamish is a tech house and house artist, with 6 gigs on soundcheck across Berlin
 
 Toby (UK), Arrosa, Blanch
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hamish/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hamish/)*

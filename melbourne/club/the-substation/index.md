@@ -1,6 +1,6 @@
 # The Substation
 
-The Substation is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "The Enormous Radio" on Wed, 30 Sept 2026.
+The Substation is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Registrations: Hidden Door Journal" on Sat, 3 Oct 2026.
 
 The Substation is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 1 Market Street, Newport VIC 3015, Australia.
 
@@ -8,11 +8,11 @@ The Substation is a music venue in Melbourne listed on soundcheck. 2 upcoming gi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | The Enormous Radio |  |
 | Sat, 3 Oct 2026 | Registrations: Hidden Door Journal |  |
+| Sat, 7 Nov 2026 | INTO THE LIGHT 2.0 |  |
 
 ## Address
 
 1 Market Street, Newport VIC 3015, Australia, Melbourne
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-substation/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-substation/)*

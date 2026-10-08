@@ -1,6 +1,6 @@
 # Ikii
 
-Ikii is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Banoffee Pies presents: Music, Medicine, Antidote with DJ Autumn & How Du (live)" on Fri, 9 Oct 2026.
+Ikii is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Banoffee Pies presents: Music, Medicine, Antidote with DJ Autumn & How Du (live)" on Fri, 9 Oct 2026.
 
 Ikii is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Alejandro Mosso, Aleksi Perälä, cadeu and DJ Autumn and 2 more. See dates, start times and who's playing. Herrfurthplatz 8, 12049 Berlin, Germany.
 
@@ -18,4 +18,4 @@ Ikii is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line
 
 Herrfurthplatz 8, 12049 Berlin, Germany, Berlin
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*

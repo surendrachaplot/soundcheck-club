@@ -1,6 +1,6 @@
 # QNTMZ
 
-QNTMZ is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Breakpoint, San Diego on Sat, 17 Oct 2026.
+QNTMZ is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Breakpoint, San Diego on Sat, 17 Oct 2026.
 
 QNTMZ is a tech house and house artist, with 7 gigs on soundcheck across San Diego. Often billed alongside PRTTYUGLY, Casmalia and Dianthe. Next up: Breakpoint, San Diego on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ QNTMZ is a tech house and house artist, with 7 gigs on soundcheck across San Die
 
 PRTTYUGLY, Casmalia, Dianthe
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qntmz/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qntmz/)*

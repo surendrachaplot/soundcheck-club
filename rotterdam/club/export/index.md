@@ -1,6 +1,6 @@
 # export
 
-export is a music venue in Rotterdam with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "lizz.e, victor" on Fri, 9 Oct 2026.
+export is a music venue in Rotterdam with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "lizz.e, victor" on Fri, 9 Oct 2026.
 
 export is a music venue in Rotterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Blood of Aza, CAIN, Candy Coup and Chinnamasta and 2 more. See dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
 
@@ -20,4 +20,4 @@ export is a music venue in Rotterdam listed on soundcheck. 7 upcoming gigs, with
 
 Keilestraat 7E, 3029 BP, Rotterdam, Rotterdam
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*

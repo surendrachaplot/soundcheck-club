@@ -1,14 +1,14 @@
 # Matt Brancatella
 
-Matt Brancatella is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Stereo, Montreal on Fri, 23 Oct 2026.
+Matt Brancatella is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at StereoBar, Montreal on Fri, 23 Oct 2026.
 
-Matt Brancatella is a house and techno artist based in Canada, with 34 gigs on soundcheck across Boston, Lisbon, Montreal and New York City and 3 more. Often billed alongside Moaad BKR, Shtarek and Adam Solomon. Next up: Stereo, Montreal on Fri 23 Oct.
+Matt Brancatella is a house and techno artist based in Canada, with 34 gigs on soundcheck across Boston, Lisbon, Montreal and New York City and 3 more. Often billed alongside Moaad BKR, Shtarek and Adam Solomon. Next up: StereoBar, Montreal on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Stereo | Montreal |
+| Fri, 23 Oct 2026 | StereoBar | Montreal |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Matt Brancatella is a house and techno artist based in Canada, with 34 gigs on s
 
 Moaad BKR, Shtarek, Adam Solomon
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattbrancatella/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattbrancatella/)*

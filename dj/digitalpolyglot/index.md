@@ -1,6 +1,6 @@
 # digital polyglot
 
-digital polyglot is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Cafeteria, Toronto on Fri, 9 Oct 2026.
+digital polyglot is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Cafeteria, Toronto on Fri, 9 Oct 2026.
 
 digital polyglot is a techno and club artist, with 28 gigs on soundcheck across Montreal and Toronto. Often billed alongside HVN, Litney and OGQT. Next up: Cafeteria, Toronto on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ digital polyglot is a techno and club artist, with 28 gigs on soundcheck across 
 
 HVN (1), Litney, OGQT
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalpolyglot/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalpolyglot/)*

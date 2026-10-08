@@ -1,6 +1,6 @@
 # The Vampire Ball: Night 2 at Industry City
 
-The Vampire Ball: Night 2 at Industry City on Sat 31 Oct, New York City. 14 artists: Andi, Annie Lew, David Kiss and DJ BORING and 10 more. Techno and Industrial. See the line-up on soundcheck.
+The Vampire Ball: Night 2 at Industry City on Sat 31 Oct, New York City. 20 artists: Amber Valentine, Andi, Annie Lew and COBRAH and 16 more. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,17 +10,23 @@ The Vampire Ball: Night 2 at Industry City on Sat 31 Oct, New York City. 14 arti
 
 ## Line-up
 
+- Amber Valentine
 - Andi
 - Annie Lew
+- COBRAH
 - David Kiss
 - DJ BORING
 - DJ Three
 - Flowdan
 - G I N A
 - IN PARALLEL
+- Joopiter
 - Jubilee
 - Katie Rex
+- Ramblur
+- Rimarkable
 - Rosa Perreo
+- Rose Kourts
 - Sissies of Mercy
 - Todd Edwards
 - Volvox

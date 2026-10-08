@@ -1,6 +1,6 @@
 # Andre Zimmer
 
-Andre Zimmer is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at FOLD, London on Fri, 9 Oct 2026.
+Andre Zimmer is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at FOLD, London on Fri, 9 Oct 2026.
 
 Andre Zimmer is a house and techno artist based in Canada, with 62 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside AKWA, Jacob de Hooge and Venus in Foil. Next up: FOLD, London on Fri 9 Oct.
 
@@ -31,4 +31,4 @@ Andre Zimmer is a house and techno artist based in Canada, with 62 gigs on sound
 
 AKWA, Jacob de Hooge, Venus in Foil
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrezimmer/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrezimmer/)*

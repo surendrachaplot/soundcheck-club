@@ -1,8 +1,8 @@
 # Notion
 
-Notion is a Garage and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at SWG3, Glasgow on Fri, 9 Oct 2026.
+Notion is a Garage and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at SWG3, Glasgow on Fri, 9 Oct 2026.
 
-Notion is a garage and house artist based in United Kingdom, with 92 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 36 more. Often billed alongside Oppidan, Conducta and Interplanetary Criminal. Next up: SWG3, Glasgow on Fri 9 Oct.
+Notion is a garage and house artist based in United Kingdom, with 93 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 36 more. Often billed alongside Oppidan, Conducta and Interplanetary Criminal. Next up: SWG3, Glasgow on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Notion is a garage and house artist based in United Kingdom, with 92 gigs on sou
 | Fri, 16 Oct 2026 | Index | Dublin |
 | Sat, 17 Oct 2026 | Quarters | Brighton |
 | Sat, 24 Oct 2026 | Blackstone Street Warehouse | Liverpool |
+| Sat, 31 Oct 2026 | District Cardiff | Cardiff |
 | Sat, 31 Oct 2026 | Gaswrx Birmingham | London |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Fri, 13 Nov 2026 | The Ground at Club Space | Miami |
@@ -34,4 +35,4 @@ Notion is a garage and house artist based in United Kingdom, with 92 gigs on sou
 
 Oppidan, Conducta, Interplanetary Criminal
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notion/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notion/)*

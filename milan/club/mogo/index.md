@@ -1,6 +1,6 @@
 # MOGO
 
-MOGO is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. The next is "Chelsea Hotel" on Wed, 14 Oct 2026.
+MOGO is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Chelsea Hotel" on Wed, 14 Oct 2026.
 
 MOGO is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including Acidgigi, Andrea Ratti and Riccardo BHI. See dates, start times and who's playing. Via Bernina, 1C, 20158 Milano MI.
 
@@ -16,4 +16,4 @@ MOGO is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-
 
 Via Bernina, 1C, 20158 Milano MI, Milan
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/mogo/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/mogo/)*

@@ -1,8 +1,8 @@
 # Einox
 
-Einox is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at vurt., Seoul on Fri, 9 Oct 2026.
+Einox is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at vurt., Seoul on Fri, 9 Oct 2026.
 
-Einox is a techno and experimental artist, with 23 gigs on soundcheck across Seoul and Shenzhen. Often billed alongside Joshüa, Philipp Kim and Kim Jooyoung. Next up: vurt., Seoul on Fri 9 Oct.
+Einox is a techno and experimental artist based in South Korea, with 23 gigs on soundcheck across Seoul and Shenzhen. Often billed alongside Joshüa, Philipp Kim and Kim Jooyoung. Next up: vurt., Seoul on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Einox is a techno and experimental artist, with 23 gigs on soundcheck across Seo
 
 Joshüa, Philipp Kim, Kim Jooyoung
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/einox/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/einox/)*

@@ -1,6 +1,6 @@
 # Silverwings Club
 
-Silverwings Club is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. The next is "MA BAKER PARTY" on Sat, 17 Oct 2026.
+Silverwings Club is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "MA BAKER PARTY" on Sat, 17 Oct 2026.
 
 Silverwings Club is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Columbiadamm 10, 12101 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Silverwings Club is a music venue in Berlin listed on soundcheck. 1 upcoming gig
 
 Columbiadamm 10, 12101 Berlin, Germany, Berlin
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silverwings-club/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silverwings-club/)*

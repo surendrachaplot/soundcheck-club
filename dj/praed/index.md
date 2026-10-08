@@ -1,6 +1,6 @@
 # PRAED
 
-PRAED is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 7 Oct 2026. Next at Damas, Lisbon on Wed, 14 Oct 2026.
+PRAED is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Damas, Lisbon on Wed, 14 Oct 2026.
 
 PRAED is an experimental and electronica artist, with 31 gigs on soundcheck across Antwerp, Bali, Berlin and Brussels and 12 more. Often billed alongside African Head Charge, Marta De Pascalis and Perera Elsewhere. Next up: Damas, Lisbon on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ PRAED is an experimental and electronica artist, with 31 gigs on soundcheck acro
 
 African Head Charge, Marta De Pascalis, Perera Elsewhere
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/praed/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/praed/)*

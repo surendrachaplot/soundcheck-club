@@ -1,8 +1,8 @@
 # Moopie
 
-Moopie is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Wed, 7 Oct 2026. Next at Nowadays, New York City on Sat, 10 Oct 2026.
+Moopie is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Nowadays, New York City on Sat, 10 Oct 2026.
 
-Moopie is a house and techno artist based in Australia, with 212 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 20 more. Often billed alongside Kia (AU), Hannah D and DJ PGZ. Next up: Nowadays, New York City on Sat 10 Oct.
+Moopie is a house and techno artist based in Australia, with 213 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 20 more. Often billed alongside Kia (AU), Hannah D and DJ PGZ. Next up: Nowadays, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ Moopie is a house and techno artist based in Australia, with 212 gigs on soundch
 | Sat, 17 Oct 2026 | LAUT | Barcelona |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 | Sat, 24 Oct 2026 | Klaproos | Amsterdam |
+| Sun, 25 Oct 2026 | Lofi | Amsterdam |
 | Fri, 30 Oct 2026 | Angel Music Bar | Melbourne |
 | Sat, 31 Oct 2026 | Collingwood Children's Farm | Melbourne |
 | Sun, 1 Nov 2026 | Revolver Upstairs | Melbourne |
 | Fri, 6 Nov 2026 | Solace | Melbourne |
 | Fri, 13 Nov 2026 | Civic Underground | Sydney |
 | Sat, 5 Dec 2026 | Club 77 | Sydney |
-| Sat, 19 Dec 2026 | Heide Museum of Modern Art Sculpture Park | Melbourne |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Moopie is a house and techno artist based in Australia, with 212 gigs on soundch
 
 Kia (AU), Hannah D, DJ PGZ
 
-*Updated Wed, 7 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*
+*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*
