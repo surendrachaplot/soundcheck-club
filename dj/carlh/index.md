@@ -1,6 +1,6 @@
 # Carl H
 
-Carl H is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Mitsuki, Tokyo on Fri, 9 Oct 2026.
+Carl H is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Mitsuki, Tokyo on Fri, 9 Oct 2026.
 
 Carl H is a techno and trance artist based in United Kingdom, with 127 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 40 more. Often billed alongside So-Fi, Jane Fitz and DJ TEETH. Next up: Mitsuki, Tokyo on Fri 9 Oct.
 
@@ -32,4 +32,4 @@ Carl H is a techno and trance artist based in United Kingdom, with 127 gigs on s
 
 So-Fi, Jane Fitz, DJ TEETH
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlh/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlh/)*

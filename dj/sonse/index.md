@@ -1,6 +1,6 @@
 # Sonse
 
-Sonse is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Void Club, Berlin on Fri, 9 Oct 2026.
+Sonse is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Void Club, Berlin on Fri, 9 Oct 2026.
 
 Sonse is a techno and tech house artist based in Germany, with 20 gigs on soundcheck across Berlin. Often billed alongside DaSoMaZo, Milchgeld and Abimixx. Next up: Void Club, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Sonse is a techno and tech house artist based in Germany, with 20 gigs on soundc
 
 DaSoMaZo, Milchgeld, Abimixx
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonse/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonse/)*

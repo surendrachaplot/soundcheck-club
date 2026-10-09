@@ -1,21 +1,16 @@
 # Levenslang Amsterdam
 
-Levenslang Amsterdam is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Intercell ADE Kickoff | ADE By Day" on Wed, 21 Oct 2026.
+Levenslang Amsterdam is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Somov at Levenslang (ADE)" on Thu, 22 Oct 2026.
 
-Levenslang Amsterdam is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Kepler, Adriana Lopez, Alex Di Stefano and A.M. Project and 2 more. See dates, start times and who's playing. H.J.E. Wenckebachweg 48, 1096AN, Amsterdam.
+Levenslang Amsterdam is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Kepler, Alex Di Stefano, A.M. Project and Amy Os and 2 more. See dates, start times and who's playing. H.J.E. Wenckebachweg 48, 1096AN, Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Intercell ADE Kickoff / ADE By Day |  |
 | Thu, 22 Oct 2026 | Somov at Levenslang (ADE) | Fadi Mohem, Ignez, Polygonia, Rrose, Wala |
-| Thu, 22 Oct 2026 | Intercell x Silva Bumpa pres. STERLING - ADE By Night | Kepler, Laura Meester, Prozak (IRL), Silva Bumpa, Soul Mass Transit System |
-| Fri, 23 Oct 2026 | Intercell x Oscar Mulero Invites / ADE By Night | Adriana Lopez, Claudio PRC, Isabel Soto, Laura van Hal, Oscar Mulero, Phara |
 | Fri, 23 Oct 2026 | Overbruggen x Lab54 - ADE | Amy Os, Boss Priester, Dennis Quin, Kepler, Nafe Smallz, Robbie Doherty |
-| Sat, 24 Oct 2026 | Intercell x Skin On Skin Invites - ADE By Day | EYCEE, Ned Bennett, Oppidan, Skin On Skin, THELMA, camoufly |
 | Sat, 24 Oct 2026 | SLPFNK - LEVENSLANG ADE | A.M. Project, Doudou MD, Dyed Soundorom, Georgia Girl, Hugo Martinez, Sonja Moonear, Volkan Akin |
-| Sun, 25 Oct 2026 | Intercell x fumi Invites - ADE By Day | Daria Kolosova, HUJUS, Lacchesi, fumi (DE), ines isla, ÜBERKIKZ |
 | Sat, 21 Nov 2026 | KRAFT Premium Pounding Techno 21st of November 2026 | Alex Di Stefano, HOF (DE), Rachelle Grooten, TheKoosy |
 | Sat, 5 Dec 2026 | Sex-Positive Party // Winter Ball Big Edition |  |
 
@@ -23,4 +18,4 @@ Levenslang Amsterdam is a music venue in Amsterdam listed on soundcheck. 10 upco
 
 H.J.E. Wenckebachweg 48, 1096AN, Amsterdam, Amsterdam
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/levenslang-amsterdam/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/levenslang-amsterdam/)*

@@ -1,8 +1,8 @@
 # y.unan
 
-y.unan is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Fitzroy, Berlin on Fri, 9 Oct 2026.
+y.unan is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Fitzroy, Berlin on Fri, 9 Oct 2026.
 
-y.unan is a techno and trance artist, with 26 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Istanbul and 2 more. Often billed alongside Mx. Sür, Nene H and 4-i. Next up: Fitzroy, Berlin on Fri 9 Oct.
+y.unan is a techno and trance artist based in Turkey, with 26 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Istanbul and 2 more. Often billed alongside Mx. Sür, Nene H and 4-i. Next up: Fitzroy, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ y.unan is a techno and trance artist, with 26 gigs on soundcheck across Amsterda
 
 Mx. Sür, Nene H, 4-i
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yunan/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yunan/)*

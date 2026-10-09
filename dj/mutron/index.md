@@ -1,6 +1,6 @@
 # Mutron
 
-Mutron is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at S Nightclub, Tokyo on Sat, 24 Oct 2026.
+Mutron is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at S Nightclub, Tokyo on Sat, 24 Oct 2026.
 
 Mutron is a techno and electro artist based in Japan, with 16 gigs on soundcheck across Tokyo. Often billed alongside DJ ZiL, SHO and SiSeN. Next up: S Nightclub, Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Mutron is a techno and electro artist based in Japan, with 16 gigs on soundcheck
 
 DJ ZiL, SHO, SiSeN
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mutron/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mutron/)*

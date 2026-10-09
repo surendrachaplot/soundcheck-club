@@ -1,6 +1,6 @@
 # D.Blavatsky
 
-D.Blavatsky is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - TEXT: (403)-837-8255, Calgary on Sat, 10 Oct 2026.
+D.Blavatsky is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - TEXT: (403)-837-8255, Calgary on Sat, 10 Oct 2026.
 
 D.Blavatsky is a techno and hardcore artist based in Canada, with 54 gigs on soundcheck across Athens, Berlin, Calgary and London and 5 more. Often billed alongside Neo Edo, Malice Doll and Beamskii. Next up: TBA - TEXT: (403)-837-8255, Calgary on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ D.Blavatsky is a techno and hardcore artist based in Canada, with 54 gigs on sou
 
 Neo Edo, Malice Doll, Beamskii
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dblavatsky/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dblavatsky/)*

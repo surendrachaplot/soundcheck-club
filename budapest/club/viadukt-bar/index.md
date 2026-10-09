@@ -1,6 +1,6 @@
 # Viadukt Bar
 
-Viadukt Bar is a music venue in Budapest with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "VégrePéntek" on Fri, 9 Oct 2026.
+Viadukt Bar is a music venue in Budapest with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "VégrePéntek" on Fri, 9 Oct 2026.
 
 Viadukt Bar is a music venue in Budapest listed on soundcheck. 3 upcoming gigs, with line-ups including Ben Dover, KOBANYA3000, Maron and Oliver SCH and 2 more. See dates, start times and who's playing. 1053 Budapest, Jane Haning rakpart.
 
@@ -16,4 +16,4 @@ Viadukt Bar is a music venue in Budapest listed on soundcheck. 3 upcoming gigs, 
 
 1053 Budapest, Jane Haning rakpart, Budapest
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/viadukt-bar/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/viadukt-bar/)*

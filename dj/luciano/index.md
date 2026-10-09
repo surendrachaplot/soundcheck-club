@@ -1,8 +1,8 @@
 # Luciano
 
-Luciano is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Thu, 22 Oct 2026.
+Luciano is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Thu, 22 Oct 2026.
 
-Luciano is a house and tech house artist based in Switzerland, with 110 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bucharest and 18 more. Often billed alongside Sossa, Prospa and Marco Carola. Next up: Mediahaven - Minervahaven, Amsterdam on Thu 22 Oct.
+Luciano is a house and tech house artist based in Switzerland, with 111 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bucharest and 18 more. Often billed alongside Sossa, Prospa and Marco Carola. Next up: Mediahaven - Minervahaven, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Luciano is a house and tech house artist based in Switzerland, with 110 gigs on 
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sat, 7 Nov 2026 | Maimarkthalle | Mannheim |
+| Sat, 21 Nov 2026 | Brooklyn Pacha | New York City |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
@@ -29,4 +30,4 @@ Luciano is a house and tech house artist based in Switzerland, with 110 gigs on 
 
 Sossa, Prospa, Marco Carola
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luciano/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luciano/)*

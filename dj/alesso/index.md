@@ -1,6 +1,6 @@
 # Alesso
 
-Alesso is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Alesso is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Alesso is a house and techno artist based in Sweden, with 33 gigs on soundcheck across Amsterdam, Bangkok, Brisbane and Buenos Aires and 16 more. Often billed alongside Gryffin, KREAM and Steve Aoki. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Alesso is a house and techno artist based in Sweden, with 33 gigs on soundcheck 
 
 Gryffin, KREAM, Steve Aoki
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alesso/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alesso/)*

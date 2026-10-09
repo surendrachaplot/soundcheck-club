@@ -1,6 +1,6 @@
 # Ethan Gray
 
-Ethan Gray is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Brixton Jamm, London on Sat, 31 Oct 2026.
+Ethan Gray is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Brixton Jamm, London on Sat, 31 Oct 2026.
 
 Ethan Gray is a house and disco artist based in United Kingdom, with 6 gigs on soundcheck across London, Malta and Newcastle. Often billed alongside Michael Gray, MiNNA and Ace Shyllon. Next up: Brixton Jamm, London on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Ethan Gray is a house and disco artist based in United Kingdom, with 6 gigs on s
 
 Michael Gray, MiNNA, Ace Shyllon
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ethangray/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ethangray/)*

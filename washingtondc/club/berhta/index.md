@@ -1,6 +1,6 @@
 # BERHTA
 
-BERHTA is a music venue in Washington DC with 19 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "TEMPO: Joe Kay, Mobu, Lelynd Darkes [OPEN-AIR]" on Sat, 10 Oct 2026.
+BERHTA is a music venue in Washington DC with 19 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "TEMPO: Joe Kay, Mobu, Lelynd Darkes [OPEN-AIR]" on Sat, 10 Oct 2026.
 
 BERHTA is a music venue in Washington DC listed on soundcheck. 19 upcoming gigs, with line-ups including 100 gecs, Anfisa Letyago, Bob Moses and bradeazy and 2 more. See dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
 
@@ -9,11 +9,11 @@ BERHTA is a music venue in Washington DC listed on soundcheck. 19 upcoming gigs,
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | TEMPO: Joe Kay, Mobu, Lelynd Darkes [OPEN-AIR] | Joe Kay |
-| Fri, 16 Oct 2026 | Anfisa Letyago | Anfisa Letyago |
+| Fri, 16 Oct 2026 | Anfisa Letyago | Anfisa Letyago, MÖSEE |
 | Fri, 23 Oct 2026 | TroyBoi | TroyBoi |
 | Sat, 24 Oct 2026 | horsegiirL, Ren G | horsegiirL |
 | Fri, 30 Oct 2026 | Pan-Pot | Pan-Pot |
-| Sat, 31 Oct 2026 | Into the Shadows | 100 gecs, Danny L Harle, yaego |
+| Sat, 31 Oct 2026 | Into the Shadows | 100 gecs, Danny L Harle, j:drive, yaego |
 | Sat, 7 Nov 2026 | Parra for Cuva | Parra for Cuva |
 | Sat, 7 Nov 2026 | Interplanetary Criminal, bullet tooth, Cobrastrk | Cobrastrk, Interplanetary Criminal, bullet tooth |
 | Sun, 8 Nov 2026 | William Basinski | William Basinski |
@@ -23,4 +23,4 @@ BERHTA is a music venue in Washington DC listed on soundcheck. 19 upcoming gigs,
 
 1237 W Place NE, Washington, D.C., 20018, Washington DC
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*

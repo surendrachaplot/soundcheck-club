@@ -1,6 +1,6 @@
 # Boom Merchant
 
-Boom Merchant is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Vinylbox, Mexico City on Fri, 9 Oct 2026.
+Boom Merchant is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Vinylbox, Mexico City on Fri, 9 Oct 2026.
 
 Boom Merchant is a techno and house artist based in Ireland, with 27 gigs on soundcheck across Glasgow, Mexico City and Tokyo. Often billed alongside VEGMART, iluna and Einar. Next up: Vinylbox, Mexico City on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Boom Merchant is a techno and house artist based in Ireland, with 27 gigs on sou
 
 VEGMART, iluna, Einar
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boommerchant/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boommerchant/)*

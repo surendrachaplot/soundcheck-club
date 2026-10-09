@@ -1,14 +1,15 @@
 # Lucas Croon
 
-Lucas Croon is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Salon des Amateurs, Düsseldorf on Sat, 10 Oct 2026.
+Lucas Croon is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Salon des Amateurs, Düsseldorf on Sat, 10 Oct 2026.
 
-Lucas Croon is a house and electronica artist based in Germany, with 9 gigs on soundcheck across Berlin, Bristol, Cologne and Düsseldorf and 2 more. Often billed alongside An-i, Andrea Zucca and Kayne the Hermit. Next up: Salon des Amateurs, Düsseldorf on Sat 10 Oct.
+Lucas Croon is a house and club artist based in Germany, with 10 gigs on soundcheck across Berlin, Bristol, Cologne and Düsseldorf and 2 more. Often billed alongside An-i, Andrea Zucca and Dream_E. Next up: Salon des Amateurs, Düsseldorf on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Salon des Amateurs | Düsseldorf |
+| Fri, 16 Oct 2026 | Salon des Amateurs | Düsseldorf |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Lucas Croon is a house and electronica artist based in Germany, with 9 gigs on s
 
 ## Shares bills with
 
-An-i, Andrea Zucca, Kayne the Hermit
+An-i, Andrea Zucca, Dream_E
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucascroon/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucascroon/)*

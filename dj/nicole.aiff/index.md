@@ -1,6 +1,6 @@
 # nicole.AIFF
 
-nicole.AIFF is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA, Barcelona on Sun, 18 Oct 2026.
+nicole.AIFF is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA, Barcelona on Sun, 18 Oct 2026.
 
 nicole.AIFF is a house and disco artist based in Spain, with 21 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Hanakito, Fred P and Opoku. Next up: TBA, Barcelona on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ nicole.AIFF is a house and disco artist based in Spain, with 21 gigs on soundche
 
 Hanakito, Fred P, Opoku
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicole.aiff/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicole.aiff/)*

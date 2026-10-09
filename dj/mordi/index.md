@@ -1,8 +1,8 @@
 # Mordi
 
-Mordi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Abbots Yard, Melbourne on Sun, 6 Dec 2026.
+Mordi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Abbots Yard, Melbourne on Sun, 6 Dec 2026.
 
-Mordi is a house and techno artist, with 52 gigs on soundcheck across Amsterdam, Hobart, Melbourne and Sydney and 1 more. Often billed alongside Black Dave, INTERPOL (AU) and Le Clobber. Next up: Abbots Yard, Melbourne on Sun 6 Dec.
+Mordi is a house and techno artist based in Australia, with 52 gigs on soundcheck across Amsterdam, Hobart, Melbourne and Sydney and 1 more. Often billed alongside Black Dave, INTERPOL (AU) and Le Clobber. Next up: Abbots Yard, Melbourne on Sun 6 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Mordi is a house and techno artist, with 52 gigs on soundcheck across Amsterdam,
 
 Black Dave, INTERPOL (AU), Le Clobber
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mordi/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mordi/)*

@@ -1,6 +1,6 @@
 # Shmn at Next Clubbing
 
-Shmn at Next Clubbing on Sat 28 Nov, Madrid. 3 artists: Giorgio Robles, Human Halo and Vincent Giumelli. House and Minimal Techno. See the line-up on soundcheck.
+Shmn at Next Clubbing on Sat 28 Nov, Madrid. 4 artists: Giorgio Robles, Human Halo, Olga Korol and Vincent Giumelli. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Shmn at Next Clubbing on Sat 28 Nov, Madrid. 3 artists: Giorgio Robles, Human Ha
 
 - Giorgio Robles
 - Human Halo
+- Olga Korol
 - Vincent Giumelli
 
 *Source: [soundcheck](https://soundcheck.club/e/2527919-shmn-at-next-clubbing/)*

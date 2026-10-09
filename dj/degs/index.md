@@ -1,14 +1,13 @@
 # Degs
 
-Degs is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at ZeyZey, Miami on Thu, 8 Oct 2026.
+Degs is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at 1720, Los Angeles on Sat, 10 Oct 2026.
 
-Degs is a drum & bass and jungle artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Auckland, Berlin and Birmingham and 27 more. Often billed alongside Whiney, Unglued and Metrik. Next up: ZeyZey, Miami on Thu 8 Oct.
+Degs is a drum & bass and jungle artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Auckland, Berlin and Birmingham and 27 more. Often billed alongside Whiney, Unglued and Metrik. Next up: 1720, Los Angeles on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | ZeyZey | Miami |
 | Sat, 10 Oct 2026 | 1720 | Los Angeles |
 | Sun, 11 Oct 2026 | Holocene | Portland |
 | Wed, 14 Oct 2026 | 3oz Dive Club | San Diego |
@@ -18,6 +17,7 @@ Degs is a drum & bass and jungle artist based in United Kingdom, with 75 gigs on
 
 ## Recently played
 
+- ZeyZey, Miami · Thu, 8 Oct 2026
 - Suki10c, Birmingham · Sat, 3 Oct 2026
 - Fonoteek, Tallinn · Fri, 18 Sept 2026
 - Volks, Brighton · Sat, 12 Sept 2026
@@ -25,10 +25,9 @@ Degs is a drum & bass and jungle artist based in United Kingdom, with 75 gigs on
 - Hackney Wick Multiple Venues, London · Sat, 1 Aug 2026
 - Eden, New York City · Fri, 26 Jun 2026
 - F8 1192 Folsom, San Francisco/Oakland · Sun, 7 Jun 2026
-- TBA, Chicago · Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Whiney, Unglued, Metrik
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/degs/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/degs/)*

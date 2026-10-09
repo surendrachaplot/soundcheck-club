@@ -1,8 +1,8 @@
 # Maurice Mino
 
-Maurice Mino is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at PKH Warehouse, Berlin on Thu, 15 Oct 2026.
+Maurice Mino is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at PKH Warehouse, Berlin on Thu, 15 Oct 2026.
 
-Maurice Mino is a techno and house artist based in Germany, with 151 gigs on soundcheck across Berlin, Budapest, Cologne and Frankfurt and 9 more. Often billed alongside Sin:port, Sabura and Konfusia. Next up: PKH Warehouse, Berlin on Thu 15 Oct.
+Maurice Mino is a techno and house artist based in Germany, with 152 gigs on soundcheck across Berlin, Budapest, Cologne and Frankfurt and 9 more. Often billed alongside Sin:port, Sabura and Konfusia. Next up: PKH Warehouse, Berlin on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Maurice Mino is a techno and house artist based in Germany, with 151 gigs on sou
 | Thu, 15 Oct 2026 | PKH Warehouse | Berlin |
 | Fri, 16 Oct 2026 | Renate | Berlin |
 | Fri, 30 Oct 2026 | Ritter Butzke | Berlin |
+| Sat, 31 Oct 2026 | PKH Warehouse | Berlin |
 | Sat, 14 Nov 2026 | Odonien | Cologne |
 | Fri, 20 Nov 2026 | Kater | Berlin |
 
@@ -29,4 +30,4 @@ Maurice Mino is a techno and house artist based in Germany, with 151 gigs on sou
 
 Sin:port, Sabura, Konfusia
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricemino-de/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricemino-de/)*

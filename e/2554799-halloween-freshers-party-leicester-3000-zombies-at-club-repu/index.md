@@ -1,10 +1,10 @@
 # Halloween Freshers Party - Leicester 3000+ Zombies at Club Republic
 
-Halloween Freshers Party - Leicester 3000+ Zombies at Club Republic on Sat 31 Oct, London. See the line-up on soundcheck.
+Halloween Freshers Party - Leicester 3000+ Zombies at Club Republic on Thu 29 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 31 Oct 2026 |
+| Date | Thu, 29 Oct 2026 |
 | Venue | Club Republic |
 | City | London |
 

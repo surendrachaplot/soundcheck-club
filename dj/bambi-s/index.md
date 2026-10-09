@@ -1,6 +1,6 @@
 # Bambi-S
 
-Bambi-S is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Grelle Forelle, Vienna on Sat, 10 Oct 2026.
+Bambi-S is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Grelle Forelle, Vienna on Sat, 10 Oct 2026.
 
 Bambi-S is a house and tech house artist based in Germany, with 42 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 10 more. Often billed alongside Stipo, Cristina Lazic and It's George!. Next up: Grelle Forelle, Vienna on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Bambi-S is a house and tech house artist based in Germany, with 42 gigs on sound
 
 Stipo, Cristina Lazic, It's George!
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-s/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-s/)*

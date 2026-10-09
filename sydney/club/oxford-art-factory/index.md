@@ -1,6 +1,6 @@
 # Oxford Art Factory
 
-Oxford Art Factory is a music venue in Sydney with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Alan Fitzpatrick — SYDNEY" on Fri, 9 Oct 2026.
+Oxford Art Factory is a music venue in Sydney with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Alan Fitzpatrick — SYDNEY" on Fri, 9 Oct 2026.
 
 Oxford Art Factory is a music venue in Sydney listed on soundcheck. 11 upcoming gigs, with line-ups including 4am Kru, Alan Fitzpatrick, BOLT and Dam Swindle and 2 more. See dates, start times and who's playing. 38-46 Oxford St; Darlinghurst NSW 2010.
 
@@ -23,4 +23,4 @@ Oxford Art Factory is a music venue in Sydney listed on soundcheck. 11 upcoming 
 
 38-46 Oxford St; Darlinghurst NSW 2010, Sydney
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/oxford-art-factory/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/oxford-art-factory/)*

@@ -1,6 +1,6 @@
 # Bricks
 
-Bricks is a music venue in London with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Basic Function present: Marcel Vogel" on Sat, 10 Oct 2026.
+Bricks is a music venue in London with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Basic Function present: Marcel Vogel" on Sat, 10 Oct 2026.
 
 Bricks is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Adela, Antepop, AVANTIME and Azaleh and 2 more. See dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
 
@@ -23,4 +23,4 @@ Bricks is a music venue in London listed on soundcheck. 11 upcoming gigs, with l
 
 414 Coldharbour Lane, London, United Kingdom SW9 8LF, London
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*

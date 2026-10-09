@@ -1,6 +1,6 @@
 # RICHKID
 
-RICHKID is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Joule, Osaka on Fri, 9 Oct 2026.
+RICHKID is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Joule, Osaka on Fri, 9 Oct 2026.
 
 RICHKID is a house and techno artist based in Japan, with 39 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Cine, O-MAN and DMITRI ABSINTHE. Next up: Joule, Osaka on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ RICHKID is a house and techno artist based in Japan, with 39 gigs on soundcheck 
 
 Cine, O-MAN, DMITRI ABSINTHE
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richkid/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richkid/)*

@@ -1,6 +1,6 @@
 # Tarawar
 
-Tarawar is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Venue will be announced to ticket holders, London on Fri, 9 Oct 2026.
+Tarawar is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Venue will be announced to ticket holders, London on Fri, 9 Oct 2026.
 
 Tarawar is a minimal techno and house artist based in Italy, with 31 gigs on soundcheck across London. Often billed alongside Reeno, Pedro (IT) and Billa Bazz. Next up: TBA - Venue will be announced to ticket holders, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Tarawar is a minimal techno and house artist based in Italy, with 31 gigs on sou
 
 Reeno, Pedro (IT), Billa Bazz
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tarawar/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tarawar/)*

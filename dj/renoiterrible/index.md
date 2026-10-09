@@ -1,13 +1,14 @@
 # Renoiterrible
 
-Renoiterrible is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Paral•lel 62, Barcelona on Fri, 16 Oct 2026.
+Renoiterrible is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at hqLX, Luxembourg on Fri, 9 Oct 2026.
 
-Renoiterrible is a techno and electronica artist based in Belgium, with 17 gigs on soundcheck across Barcelona, Berlin, Brussels and Central and 4 more. Often billed alongside Otis (BE), Brodinski and Cheyanne Hudson. Next up: Paral•lel 62, Barcelona on Fri 16 Oct.
+Renoiterrible is a techno and electronica artist based in Belgium, with 18 gigs on soundcheck across Barcelona, Berlin, Brussels and Central and 5 more. Often billed alongside Otis (BE), Brodinski and Cheyanne Hudson. Next up: hqLX, Luxembourg on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | hqLX | Luxembourg |
 | Fri, 16 Oct 2026 | Paral•lel 62 | Barcelona |
 | Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 
@@ -26,4 +27,4 @@ Renoiterrible is a techno and electronica artist based in Belgium, with 17 gigs 
 
 Otis (BE), Brodinski, Cheyanne Hudson
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renoiterrible/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renoiterrible/)*

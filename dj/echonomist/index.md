@@ -1,6 +1,6 @@
 # Echonomist
 
-Echonomist is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Club Baggerbeest, Amsterdam on Fri, 23 Oct 2026.
+Echonomist is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Club Baggerbeest, Amsterdam on Fri, 23 Oct 2026.
 
 Echonomist is a house and techno artist based in Greece, with 132 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 36 more. Often billed alongside Jenia Tarsol, Avangart Tabldot and Denis Horvat. Next up: Club Baggerbeest, Amsterdam on Fri 23 Oct.
 
@@ -31,4 +31,4 @@ Echonomist is a house and techno artist based in Greece, with 132 gigs on soundc
 
 Jenia Tarsol, Avangart Tabldot, Denis Horvat
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/echonomist/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/echonomist/)*

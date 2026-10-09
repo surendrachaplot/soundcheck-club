@@ -1,6 +1,6 @@
 # DJ Dextro
 
-DJ Dextro is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 9 Oct 2026.
+DJ Dextro is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 9 Oct 2026.
 
 DJ Dextro is a techno and acid artist based in Portugal, with 32 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 14 more. Often billed alongside Marco Ramos, Industrialyzer and A.Paul. Next up: Lokschuppen Berlin, Berlin on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ DJ Dextro is a techno and acid artist based in Portugal, with 32 gigs on soundch
 
 Marco Ramos, Industrialyzer, A.Paul
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdextro/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdextro/)*

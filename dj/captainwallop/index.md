@@ -1,6 +1,6 @@
 # Captain Wallop
 
-Captain Wallop is a Garage and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Cabaret Voltaire, Edinburgh on Fri, 9 Oct 2026.
+Captain Wallop is a Garage and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Cabaret Voltaire, Edinburgh on Fri, 9 Oct 2026.
 
 Captain Wallop is a garage and house artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 14 more. Often billed alongside RTK Tarantino, DAISY and Locky. Next up: Cabaret Voltaire, Edinburgh on Fri 9 Oct.
 
@@ -32,4 +32,4 @@ Captain Wallop is a garage and house artist based in United Kingdom, with 53 gig
 
 RTK Tarantino, DAISY, Locky
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/captainwallop/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/captainwallop/)*

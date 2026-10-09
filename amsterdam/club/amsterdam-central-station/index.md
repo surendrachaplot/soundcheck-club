@@ -1,6 +1,6 @@
 # Amsterdam Central Station
 
-Amsterdam Central Station is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Lelantus ADE TRAIN - Sunset Experience" on Fri, 23 Oct 2026.
+Amsterdam Central Station is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Lelantus ADE TRAIN - Sunset Experience (Last Backstage Tickets)" on Fri, 23 Oct 2026.
 
 Amsterdam Central Station is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Javier Anxiety, Albin Brezlan, Andrew Rayel and Atilla Ural and 2 more. See dates, start times and who's playing. Stationsplein, 1012 AB Amsterdam, Netherlands.
 
@@ -8,7 +8,7 @@ Amsterdam Central Station is a music venue in Amsterdam listed on soundcheck. 6 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Lelantus ADE TRAIN - Sunset Experience | Andrew Rayel, Black Box, DONT BLINK, Duvas, Gareden, Ginchy, Human Rias, Jono Stephenson, Julian James, JĀST, Lell Nahar, Mark Tarmonea, Martin Mind, Nathassia, Shared System, Soofnic, Stylo, Terry Golden, Unseen., Van Moon, ZARE |
+| Fri, 23 Oct 2026 | Lelantus ADE TRAIN - Sunset Experience (Last Backstage Tickets) | Andrew Rayel, Black Box, DONT BLINK, Duvas, Gareden, Ginchy, Human Rias, Jono Stephenson, Julian James, Julian Prince, JĀST, Lell Nahar, Mark Tarmonea, Martin Mind, Nathassia, Shared System, Soofnic, Stylo, Terry Golden, Unseen., Vanmoon, Vctor, ZARE |
 | Fri, 23 Oct 2026 | ALL ABOARD (CLUB TRAIN) |  |
 | Fri, 23 Oct 2026 | CLUB TRAIN feat. GALACTICA,Eat The Beat, Deeperfect, EAR/WAX,SEVENEIGHT | Caelestis, David Maters, Fabio Monesi, Gianni Di Bernardo, Iva (NL), Joris Turenhout, Luca Agnelli, Mattia Trani, Ninetree, Riverside (IT), Robert De Neer, SANEM, SANTØS, Simone Liberali, Stefano Noferini, Supernova, V111, Vale.T, rebrånded |
 | Sat, 24 Oct 2026 | TDE x ADE - Club Train by Night | Atilla Ural, Barbara Tucker, Bustin' Loose, Crystal Touch, Dan Cluskey, Deo'jorge, Fusco Stefano, Georgie Porgie, Javier Anxiety, Magnolia_, Marcel Vogel, Mia Banks, Monsieur Van Pratt, Nablijven Soundsystem, Old as Funk, Poppi, Sam Karlson, Stacy Kidd, Tatiana, ysheso__ |
@@ -19,4 +19,4 @@ Amsterdam Central Station is a music venue in Amsterdam listed on soundcheck. 6 
 
 Stationsplein, 1012 AB Amsterdam, Netherlands, Amsterdam
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/amsterdam-central-station/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/amsterdam-central-station/)*

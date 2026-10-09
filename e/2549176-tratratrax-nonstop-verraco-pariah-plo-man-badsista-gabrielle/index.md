@@ -1,6 +1,6 @@
 # TraTraTrax Nonstop: Verraco, Pariah, PLO Man, BADSISTA, Gabrielle Kwarteng, Nick León + more at Nowadays
 
-TraTraTrax Nonstop: Verraco, Pariah, PLO Man, BADSISTA, Gabrielle Kwarteng, Nick León + more at Nowadays on Sat 7 Nov, New York City. 11 artists: BADSISTA, Brenda, Colombian Drone Mafia and Doctor Jeep and 7 more. Bass and Latin Bass. See the line-up on soundcheck.
+TraTraTrax Nonstop: Verraco, Pariah, PLO Man, BADSISTA, Gabrielle Kwarteng, Nick León + more at Nowadays on Sat 7 Nov, New York City. 11 artists: BADSISTA, Brenda., Colombian Drone Mafia and Doctor Jeep and 7 more. Bass and Latin Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ TraTraTrax Nonstop: Verraco, Pariah, PLO Man, BADSISTA, Gabrielle Kwarteng, Nick
 ## Line-up
 
 - BADSISTA
-- Brenda
+- Brenda.
 - Colombian Drone Mafia
 - Doctor Jeep
 - EMA (1)

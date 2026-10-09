@@ -1,6 +1,6 @@
 # DJ Dolla
 
-DJ Dolla is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at The Compound, Baltimore on Fri, 23 Oct 2026.
+DJ Dolla is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at The Compound, Baltimore on Fri, 23 Oct 2026.
 
 DJ Dolla is a club and ghetto tech artist based in United States of America, with 12 gigs on soundcheck across Baltimore, Boston, Detroit and Leeds and 2 more. Often billed alongside Tromac, DJ KORIS and Izzy Holmes. Next up: The Compound, Baltimore on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ DJ Dolla is a club and ghetto tech artist based in United States of America, wit
 
 Tromac, DJ KORIS, Izzy Holmes
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdolla/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdolla/)*

@@ -1,6 +1,6 @@
 # KREATIV BUDE - Der Flohmarkt by OUROBOROS at Schlegel Kultur Club
 
-KREATIV BUDE - Der Flohmarkt by OUROBOROS at Schlegel Kultur Club on Sat 10 Oct, Bochum. 2 artists: byrush and SAEIVAN. See the line-up on soundcheck.
+KREATIV BUDE - Der Flohmarkt by OUROBOROS at Schlegel Kultur Club on Sat 10 Oct, Bochum. 1 artist: byrush. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,5 @@ KREATIV BUDE - Der Flohmarkt by OUROBOROS at Schlegel Kultur Club on Sat 10 Oct,
 ## Line-up
 
 - byrush
-- SAEIVAN
 
 *Source: [soundcheck](https://soundcheck.club/e/2519975-kreativ-bude-der-flohmarkt-by-ouroboros-at-schlegel-kultur-c/)*

@@ -1,8 +1,8 @@
 # SOPA
 
-SOPA is a Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Pawnshop, Taipei on Fri, 9 Oct 2026.
+SOPA is a Reggaeton artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Pawnshop, Taipei on Fri, 9 Oct 2026.
 
-SOPA is a reggaeton artist, with 3 gigs on soundcheck across Mexico City and Taipei. Often billed alongside DJ HOT, DSKE and Elinnn. Next up: Pawnshop, Taipei on Fri 9 Oct.
+SOPA is a reggaeton artist, with 4 gigs on soundcheck across Mexico City and Taipei. Often billed alongside Melting 99, Mike Kenta and DJ HOT. Next up: Pawnshop, Taipei on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ SOPA is a reggaeton artist, with 3 gigs on soundcheck across Mexico City and Tai
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Pawnshop | Taipei |
 | Fri, 30 Oct 2026 | Pawnshop | Taipei |
+| Sat, 21 Nov 2026 | Pawnshop | Taipei |
 
 ## Recently played
 
@@ -17,6 +18,6 @@ SOPA is a reggaeton artist, with 3 gigs on soundcheck across Mexico City and Tai
 
 ## Shares bills with
 
-DJ HOT, DSKE, Elinnn
+Melting 99, Mike Kenta, DJ HOT
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sopa/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sopa/)*

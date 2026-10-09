@@ -1,14 +1,13 @@
 # Kyle Starkey
 
-Kyle Starkey is a Techno and House artist with 20 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
+Kyle Starkey is a Techno and House artist with 19 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Garage Klub, Antwerp on Fri, 9 Oct 2026.
 
-Kyle Starkey is a techno and house artist based in United Kingdom, with 178 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 42 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
+Kyle Starkey is a techno and house artist based in United Kingdom, with 178 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 42 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Garage Klub, Antwerp on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Garage Klub | Antwerp |
 | Sat, 10 Oct 2026 | Mint XL | Leeds |
 | Fri, 16 Oct 2026 | Unit 51 | Aberdeen |
@@ -20,9 +19,11 @@ Kyle Starkey is a techno and house artist based in United Kingdom, with 178 gigs
 | Sat, 31 Oct 2026 | Floyd | Miami |
 | Sat, 7 Nov 2026 | 99 Scott Ave | New York City |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
+| Fri, 13 Nov 2026 | Club Vinyl | Denver |
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza · Thu, 8 Oct 2026
 - The Loft, Manchester · Sat, 3 Oct 2026
 - Digital, Newcastle · Fri, 2 Oct 2026
 - Amnesia Ibiza, Ibiza · Mon, 28 Sept 2026
@@ -30,10 +31,9 @@ Kyle Starkey is a techno and house artist based in United Kingdom, with 178 gigs
 - Amnesia Ibiza, Ibiza · Mon, 21 Sept 2026
 - SWG3, Glasgow · Sat, 19 Sept 2026
 - SWG3, Glasgow · Sat, 19 Sept 2026
-- Moon Club, Bristol · Thu, 17 Sept 2026
 
 ## Shares bills with
 
 DART, Benwal, Faster Horses
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*

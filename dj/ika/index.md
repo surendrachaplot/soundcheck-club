@@ -1,6 +1,6 @@
 # Ika (GE)
 
-Ika (GE) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 9 Oct 2026.
+Ika (GE) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 9 Oct 2026.
 
 Ika (GE) is a house and techno artist based in Georgia, with 123 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 19 more. Often billed alongside Usherenko, Gio Shengelia and Generali Minerali. Next up: Mtkvarze, Tbilisi on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Ika (GE) is a house and techno artist based in Georgia, with 123 gigs on soundch
 
 Usherenko, Gio Shengelia, Generali Minerali
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ika/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ika/)*

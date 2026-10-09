@@ -1,6 +1,6 @@
 # Mau P
 
-Mau P is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Passeio Marítimo de Algés, Portugal, Lisbon on Sat, 10 Oct 2026.
+Mau P is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Passeio Marítimo de Algés, Portugal, Lisbon on Sat, 10 Oct 2026.
 
 Mau P is a house and tech house artist based in Netherlands, with 159 gigs on soundcheck across Amsterdam, Austin, Barcelona and Bristol and 38 more. Often billed alongside Joseph Capriati, DJ Tennis and Dom Dolla. Next up: TBA - Passeio Marítimo de Algés, Portugal, Lisbon on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Mau P is a house and tech house artist based in Netherlands, with 159 gigs on so
 
 Joseph Capriati, DJ Tennis, Dom Dolla
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*

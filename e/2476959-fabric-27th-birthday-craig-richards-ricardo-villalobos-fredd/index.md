@@ -1,6 +1,6 @@
 # fabric 27th Birthday: Craig Richards, Ricardo Villalobos, Freddy K, Zip, DJ Masda, Jane Fitz at fabric
 
-fabric 27th Birthday: Craig Richards, Ricardo Villalobos, Freddy K, Zip, DJ Masda, Jane Fitz on Sat 17 Oct, London. 20 artists: Anna Wall, Bobby., Craig Richards and DJ Masda and 16 more. See the line-up on soundcheck.
+fabric 27th Birthday: Craig Richards, Ricardo Villalobos, Freddy K, Zip, DJ Masda, Jane Fitz on Sat 17 Oct, London. 21 artists: Anna Wall, Bobby., Craig Richards and DJ Masda and 17 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -28,6 +28,7 @@ fabric 27th Birthday: Craig Richards, Ricardo Villalobos, Freddy K, Zip, DJ Masd
 - Sama' Abdulhadi
 - Tapefeed
 - Tomas Station
+- Underground Resistance
 - Vlada
 - Zip
 

@@ -1,6 +1,6 @@
 # Biscuit (MY)
 
-Biscuit (MY) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Neo Bar KL- Ilham Tower Level 37, Jalan Binjai 8, 50450, Kuala Lumpur on Fri, 9 Oct 2026.
+Biscuit (MY) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Neo Bar KL- Ilham Tower Level 37, Jalan Binjai 8, 50450, Kuala Lumpur on Fri, 9 Oct 2026.
 
 Biscuit (MY) is a house and techno artist based in Romania, with 126 gigs on soundcheck across Bali and Kuala Lumpur. Often billed alongside Meliha, Obadius and Raysoo. Next up: TBA - Neo Bar KL- Ilham Tower Level 37, Jalan Binjai 8, 50450, Kuala Lumpur on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Biscuit (MY) is a house and techno artist based in Romania, with 126 gigs on sou
 
 Meliha, Obadius, Raysoo
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biscuit-my/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biscuit-my/)*

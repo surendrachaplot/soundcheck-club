@@ -1,6 +1,6 @@
 # For The Rhythm presents: Fort Riddim Vol. 1 at Waterhouse Studios
 
-For The Rhythm presents: Fort Riddim Vol. 1 at Waterhouse Studios on Sat 10 Oct, Amsterdam. 3 artists: BOOGIE96, Gibbo and Manscream. Drum & Bass and Garage. See the line-up on soundcheck.
+For The Rhythm presents: Fort Riddim Vol. 1 at Waterhouse Studios on Sat 10 Oct, Amsterdam. 4 artists: Alec (NLD), BOOGIE96, Gibbo and Manscream. Drum & Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ For The Rhythm presents: Fort Riddim Vol. 1 at Waterhouse Studios on Sat 10 Oct,
 
 ## Line-up
 
+- Alec (NLD)
 - BOOGIE96
 - Gibbo
 - Manscream

@@ -1,6 +1,6 @@
 # Ricky Leo
 
-Ricky Leo is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Masada, Milan on Sun, 25 Oct 2026.
+Ricky Leo is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Masada, Milan on Sun, 25 Oct 2026.
 
 Ricky Leo is a techno and electro artist, with 10 gigs on soundcheck across Milan. Often billed alongside THE LUMENS, Aznamir and Giorgio Thayder. Next up: Masada, Milan on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Ricky Leo is a techno and electro artist, with 10 gigs on soundcheck across Mila
 
 THE LUMENS, Aznamir, Giorgio Thayder
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rickyleo/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rickyleo/)*

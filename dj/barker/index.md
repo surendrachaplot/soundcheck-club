@@ -1,6 +1,6 @@
 # Barker
 
-Barker is a Techno and Experimental artist with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Mandela Hall, Belfast on Sat, 10 Oct 2026.
+Barker is a Techno and Experimental artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Mandela Hall, Belfast on Sat, 10 Oct 2026.
 
 Barker is a techno and experimental artist based in United Kingdom, with 100 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Bangkok and 32 more. Often billed alongside JakoJako, Gabrielle Kwarteng and Virginia. Next up: Mandela Hall, Belfast on Sat 10 Oct.
 
@@ -31,4 +31,4 @@ Barker is a techno and experimental artist based in United Kingdom, with 100 gig
 
 JakoJako, Gabrielle Kwarteng, Virginia
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barker/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barker/)*

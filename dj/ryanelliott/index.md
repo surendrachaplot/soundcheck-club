@@ -1,6 +1,6 @@
 # Ryan Elliott
 
-Ryan Elliott is a House and Techno artist with 18 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
+Ryan Elliott is a House and Techno artist with 18 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
 
 Ryan Elliott is a house and techno artist based in United States of America, with 258 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 59 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Bassiani, Tbilisi on Fri 9 Oct.
 
@@ -36,4 +36,4 @@ Ryan Elliott is a house and techno artist based in United States of America, wit
 
 Ogazón, Christian AB, PARAMIDA
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*

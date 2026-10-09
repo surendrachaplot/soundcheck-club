@@ -1,6 +1,6 @@
 # Jessee
 
-Jessee is a Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Blue Tomato, Amsterdam on Fri, 23 Oct 2026.
+Jessee is a Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Blue Tomato, Amsterdam on Fri, 23 Oct 2026.
 
 Jessee is a drum & bass artist based in Germany, with 8 gigs on soundcheck across Amsterdam, Berlin, London and Rotterdam. Often billed alongside T & Sugah, 1991 (UK) and A Little Sound. Next up: Blue Tomato, Amsterdam on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Jessee is a drum & bass artist based in Germany, with 8 gigs on soundcheck acros
 
 T & Sugah, 1991 (UK), A Little Sound
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessee/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessee/)*

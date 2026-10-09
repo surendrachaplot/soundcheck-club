@@ -1,6 +1,6 @@
 # Boogie
 
-Boogie is a music venue in Toronto with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Beat Therapy VS. Giddy Up" on Fri, 9 Oct 2026.
+Boogie is a music venue in Toronto with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Beat Therapy VS. Giddy Up" on Fri, 9 Oct 2026.
 
 Boogie is a music venue in Toronto listed on soundcheck. 4 upcoming gigs, with line-ups including Dan Medland, Ron Allen and Tyrone Solomon. See dates, start times and who's playing. 1188 Queen St W, Toronto, ON M6J 1J6, Canada.
 
@@ -17,4 +17,4 @@ Boogie is a music venue in Toronto listed on soundcheck. 4 upcoming gigs, with l
 
 1188 Queen St W, Toronto, ON M6J 1J6, Canada, Toronto
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/boogie/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/boogie/)*

@@ -1,6 +1,6 @@
 # Lena Willikens
 
-Lena Willikens is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Strange Brew, Bristol on Fri, 9 Oct 2026.
+Lena Willikens is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Strange Brew, Bristol on Fri, 9 Oct 2026.
 
 Lena Willikens is a techno and house artist based in Germany, with 214 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 61 more. Often billed alongside Vladimir Ivkovic, Moopie and Elena Colombi. Next up: Strange Brew, Bristol on Fri 9 Oct.
 
@@ -34,4 +34,4 @@ Lena Willikens is a techno and house artist based in Germany, with 214 gigs on s
 
 Vladimir Ivkovic, Moopie, Elena Colombi
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*

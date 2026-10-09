@@ -1,0 +1,28 @@
+# Cinquedea
+
+Cinquedea is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Pawn Shop, Dublin on Sun, 11 Oct 2026.
+
+Cinquedea is a techno and acid artist, with 15 gigs on soundcheck across Birmingham, Bristol, Cork and Dublin and 2 more. Often billed alongside DAVE the Drummer, Hamaton3 and B.S.E. Next up: Pawn Shop, Dublin on Sun 11 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sun, 11 Oct 2026 | Pawn Shop | Dublin |
+
+## Recently played
+
+- Lost Horizon, Bristol · Sat, 5 Sept 2026
+- FOLD, London · Sat, 6 Jun 2026
+- Pawn Shop, Dublin · Sat, 25 Apr 2026
+- The Castle, London · Fri, 14 Nov 2025
+- An Spailpin Fánach, Cork · Sat, 16 Nov 2024
+- FOLD, London · Sat, 12 Oct 2024
+- Bow Lane Social, Dublin · Fri, 9 Feb 2024
+- The Wiley Fox, Dublin · Sat, 3 Feb 2024
+
+## Shares bills with
+
+DAVE the Drummer, Hamaton3, B.S.E
+
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cinquedea/)*

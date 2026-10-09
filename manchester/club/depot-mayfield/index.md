@@ -1,6 +1,6 @@
 # Depot Mayfield
 
-Depot Mayfield is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "WHP presents: Worried About Henry" on Fri, 9 Oct 2026.
+Depot Mayfield is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "WHP presents: Worried About Henry" on Fri, 9 Oct 2026.
 
 Depot Mayfield is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, with line-ups including Spinelli, 2FEL, 2ManyDJs and 2Shy MC and 2 more. See dates, start times and who's playing. 11 Baring St, Manchester, M1 2PY.
 
@@ -8,7 +8,7 @@ Depot Mayfield is a music venue in Manchester listed on soundcheck. 19 upcoming 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | WHP presents: Worried About Henry | 2Shy MC, Alive, Andy C, BERRA, BassLayerz, Bladerunner, Bou (UK), Break (2), Camo & Krooked, Carasel, Charlie Tee, Circadian, Crossy, Duskee, Dynamite MC, Eksman, Emily Makis, GLXY, GQ, Harriet Jaxxon, Hedex, Hybrid Minds, IC3, Inja, Joker, K Motionz, Killa P, Kings of the Rollers, Koherent, Koven, Kyrist, LOGAN (HU), LSB, Mozey, North Base, Pola & Bryson, Prosek, S.P.Y, SAVANNAH, SEMPA (UK), SKALAH (UK), SOTA, Saint Ludo, Sigma, Stamina (DE), Tempza, Tonn Piper, Vault, Visionobi, Workforce, Yan (CZ), Zero |
+| Fri, 9 Oct 2026 | WHP presents: Worried About Henry | 2Shy MC, Alive, Andy C, BERRA, BassLayerz, Bladerunner, Bou (UK), Break (2), Camo & Krooked, Carasel, Charlie Tee, Circadian, Crossy, Duskee, Dynamite MC, Eksman, Emily Makis, GLXY, GQ, Harriet Jaxxon, Hedex, Hybrid Minds, IC3, Inja, Joker, Jolie P, K Motionz, Killa P, Kings of the Rollers, Koherent, Koven, Kyrist, LOGAN (HU), LSB, Mozey, North Base, Pola & Bryson, Prosek, S.P.Y, SAVANNAH, SEMPA (UK), SKALAH (UK), SOTA, Saint Ludo, Sigma, Stamina (DE), Tempza, Tonn Piper, Vault, Visionobi, Workforce, Yan (CZ), Zero |
 | Sat, 10 Oct 2026 | Interplanetary Criminal presents | Anz, Bakey, Camille Doe, Club Angel, DJ Cosworth, DJ Seinfeld, Denham Audio, Dr Dubplate, Faster Horses, HAAi, Helena Lauwaert, Interplanetary Criminal, Joy Orbison, Jyoty, La La, Larishka, Lauren Lo Sung, Lewis Taylor, MALUGI, Madam X, Main Phase, Notion, Oldboy, Osmosis Jones, Paleman, Prozak (IRL), Silva Bumpa, Skin On Skin, bullet tooth |
 | Fri, 16 Oct 2026 | WHP + Teletech presents DOOF - Hannah Laing | Hannah Laing |
 | Sat, 17 Oct 2026 | WHP26 /// Eric Prydz [Concourse Only] | Eric Prydz |
@@ -23,4 +23,4 @@ Depot Mayfield is a music venue in Manchester listed on soundcheck. 19 upcoming 
 
 11 Baring St, Manchester, M1 2PY, Manchester
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*

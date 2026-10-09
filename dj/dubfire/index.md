@@ -1,8 +1,8 @@
 # Dubfire
 
-Dubfire is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Stereo, Montreal on Sat, 17 Oct 2026.
+Dubfire is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Stereo, Montreal on Sat, 17 Oct 2026.
 
-Dubfire is a techno and house artist based in United States of America, with 150 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 47 more. Often billed alongside Joseph Capriati, Cristoph and Deep Dish. Next up: Stereo, Montreal on Sat 17 Oct.
+Dubfire is a techno and house artist based in United States of America, with 151 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 48 more. Often billed alongside Joseph Capriati, Cristoph and Deep Dish. Next up: Stereo, Montreal on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dubfire is a techno and house artist based in United States of America, with 150
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Stereo | Montreal |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
+| Fri, 6 Nov 2026 | Audio Club | Geneva |
 | Sat, 7 Nov 2026 | INPUT High Fidelity Dance Club | Barcelona |
 
 ## Recently played
@@ -27,4 +28,4 @@ Dubfire is a techno and house artist based in United States of America, with 150
 
 Joseph Capriati, Cristoph, Deep Dish
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dubfire/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dubfire/)*

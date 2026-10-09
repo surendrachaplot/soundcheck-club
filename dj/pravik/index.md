@@ -1,6 +1,6 @@
 # Pravik
 
-Pravik is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Bsmt 254, Toronto on Wed, 28 Oct 2026.
+Pravik is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Bsmt 254, Toronto on Wed, 28 Oct 2026.
 
 Pravik is a techno and industrial artist based in Canada, with 16 gigs on soundcheck across Brussels, Montreal and Toronto. Often billed alongside R-ODERICK, Stashole and MIASALAV. Next up: Bsmt 254, Toronto on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Pravik is a techno and industrial artist based in Canada, with 16 gigs on soundc
 
 R-ODERICK, Stashole, MIASALAV
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pravik/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pravik/)*

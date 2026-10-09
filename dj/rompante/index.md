@@ -1,6 +1,6 @@
 # Rompante
 
-Rompante is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Plano B, Porto on Fri, 16 Oct 2026.
+Rompante is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Plano B, Porto on Fri, 16 Oct 2026.
 
 Rompante is a house and club artist based in Portugal, with 41 gigs on soundcheck across Lisbon, Porto and Washington DC. Often billed alongside Bruno, Let and Nave Mãe. Next up: Plano B, Porto on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Rompante is a house and club artist based in Portugal, with 41 gigs on soundchec
 
 Bruno (2), Let (3), Nave Mãe
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rompante/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rompante/)*

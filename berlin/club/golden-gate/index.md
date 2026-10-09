@@ -1,19 +1,26 @@
 # Golden Gate
 
-Golden Gate is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Hidden Variables" on Thu, 8 Oct 2026.
+Golden Gate is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Golden Times + Afterhour" on Fri, 9 Oct 2026.
 
-Golden Gate is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Adine Frost, Barbara Alvarez, Click | Click and ELLA and 2 more. See dates, start times and who's playing. Dircksenstrasse 78; Mitte; 10178 Berlin; Germany.
+Golden Gate is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Javier Anxiety, A.B.U., Adine Frost and Cesare vs Disorder and 2 more. See dates, start times and who's playing. Dircksenstrasse 78; Mitte; 10178 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Hidden Variables | Barbara Alvarez, Click / Click, ELLA |
 | Fri, 9 Oct 2026 | Golden Times + Afterhour | Adine Frost, Fabian Drews, Harris, Hochholzner, Kataya, Midas 104, Secret Act, Stiefel One |
 | Sat, 10 Oct 2026 | Respect The Craft | Inga, Tripmastaz |
+| Thu, 15 Oct 2026 | Donnerdogge | A.B.U., Jakob Seidensticker, MELINA (3), Submod |
+| Fri, 16 Oct 2026 | Klubnacht + Afterhour | Clovis, Delavas, Edgar Peng, Gladis, MASA, RifRaf, Vanaenae, Vans Hellwirth |
+| Sat, 17 Oct 2026 | Klubnacht | EliaHaze, Lush Lab, Najeh, Neco |
+| Thu, 22 Oct 2026 | Hidden Variables | Jepe, Koljah |
+| Fri, 23 Oct 2026 | High für Drei + Aftrehour | Fabiano José, Franky Greiner, Hagel, Johnny D, Rafa (1), Steffen Lengler, Vero Standke |
+| Sat, 24 Oct 2026 | Klubnacht | Rosa Kante, Sebastian Rebig, Turmspringer, Vitka |
+| Thu, 29 Oct 2026 | Anxiety Night | Javier Anxiety, Lolu Menayed, Luna City Express |
+| Fri, 30 Oct 2026 | Serialism + Afterhour | Cesare vs Disorder, Dana Ruh, Etiennette, Manuel de Lorenzi, Rhom Omit, Sublee, Weg (DE), Zlene |
 
 ## Address
 
 Dircksenstrasse 78; Mitte; 10178 Berlin; Germany, Berlin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*

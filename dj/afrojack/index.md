@@ -1,6 +1,6 @@
 # Afrojack
 
-Afrojack is a House and Progressive House artist with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Radius, Chicago on Fri, 9 Oct 2026.
+Afrojack is a House and Progressive House artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Radius, Chicago on Fri, 9 Oct 2026.
 
 Afrojack is a house and progressive house artist based in Netherlands, with 58 gigs on soundcheck across Amsterdam, Athens, Boston and Buenos Aires and 20 more. Often billed alongside David Guetta, Paul Reynolds and Francis Mercier. Next up: Radius, Chicago on Fri 9 Oct.
 
@@ -31,4 +31,4 @@ Afrojack is a house and progressive house artist based in Netherlands, with 58 g
 
 David Guetta, Paul Reynolds, Francis Mercier
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afrojack/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afrojack/)*

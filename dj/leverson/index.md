@@ -1,8 +1,8 @@
 # leverson
 
-leverson is a Hip-Hop and R&B artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Nine Lives, London on Fri, 9 Oct 2026.
+leverson is a Hip-Hop and R&B artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Nine Lives, London on Fri, 9 Oct 2026.
 
-leverson is a hip-hop and r&b artist based in United Kingdom, with 183 gigs on soundcheck across Amsterdam, Birmingham, London and Tokyo. Often billed alongside Signorina, Omari King and Omari. Next up: Nine Lives, London on Fri 9 Oct.
+leverson is a hip-hop and r&b artist based in United Kingdom, with 185 gigs on soundcheck across Amsterdam, Birmingham, London and Melbourne and 2 more. Often billed alongside Signorina, Omari King and Omari. Next up: Nine Lives, London on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,8 @@ leverson is a hip-hop and r&b artist based in United Kingdom, with 183 gigs on s
 | Thu, 15 Oct 2026 | Spiritland | London |
 | Fri, 23 Oct 2026 | Junsei | London |
 | Sun, 25 Oct 2026 | Next Door Records | London |
+| Sat, 7 Nov 2026 | Runner Up Rooftop Bar | Melbourne |
+| Thu, 12 Nov 2026 | Vespertine | Sydney |
 
 ## Recently played
 
@@ -29,4 +31,4 @@ leverson is a hip-hop and r&b artist based in United Kingdom, with 183 gigs on s
 
 Signorina, Omari King, Omari
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*

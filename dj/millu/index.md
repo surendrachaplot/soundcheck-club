@@ -1,13 +1,14 @@
 # Millú
 
-Millú is a Tech House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Heide Museum of Modern Art Sculpture Park, Melbourne on Sat, 19 Dec 2026.
+Millú is a Tech House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Poodle Bar and Bistro, Melbourne on Fri, 30 Oct 2026.
 
-Millú is a tech house and progressive house artist based in Australia, with 37 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Pjenné, Katie Pearson and Emelexy. Next up: Heide Museum of Modern Art Sculpture Park, Melbourne on Sat 19 Dec.
+Millú is a tech house and progressive house artist based in Australia, with 38 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Pjenné, Katie Pearson and Emelexy. Next up: Poodle Bar and Bistro, Melbourne on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Poodle Bar and Bistro | Melbourne |
 | Sat, 19 Dec 2026 | Heide Museum of Modern Art Sculpture Park | Melbourne |
 
 ## Recently played
@@ -25,4 +26,4 @@ Millú is a tech house and progressive house artist based in Australia, with 37 
 
 Pjenné, Katie Pearson, Emelexy
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/millu/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/millu/)*

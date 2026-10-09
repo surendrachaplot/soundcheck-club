@@ -1,6 +1,6 @@
 # LA!NE
 
-LA!NE is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Ouseburn Garden, Newcastle on Sat, 21 Nov 2026.
+LA!NE is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Ouseburn Garden, Newcastle on Sat, 21 Nov 2026.
 
 LA!NE is a house and garage artist based in United Kingdom, with 36 gigs on soundcheck across Leeds, Newcastle and Nottingham. Often billed alongside JP(UK), Socialness and Alousea. Next up: Ouseburn Garden, Newcastle on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ LA!NE is a house and garage artist based in United Kingdom, with 36 gigs on soun
 
 JP(UK), Socialness, Alousea
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/la!ne/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/la!ne/)*

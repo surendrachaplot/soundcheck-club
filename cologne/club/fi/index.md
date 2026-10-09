@@ -1,6 +1,6 @@
 # fi
 
-fi is a music venue in Cologne with 15 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "fi x LAMMER & Wetdreams & SoundSound" on Fri, 9 Oct 2026.
+fi is a music venue in Cologne with 15 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "fi x LAMMER & Wetdreams & SoundSound" on Fri, 9 Oct 2026.
 
 fi is a music venue in Cologne listed on soundcheck. 15 upcoming gigs, with line-ups including 0megavybe, 909 RACING TEAM, Alfalfa and alleira and 2 more. See dates, start times and who's playing. Widdersdorfer Straße 246, 50825 Köln, Deutschland.
 
@@ -23,4 +23,4 @@ fi is a music venue in Cologne listed on soundcheck. 15 upcoming gigs, with line
 
 Widdersdorfer Straße 246, 50825 Köln, Deutschland, Cologne
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*

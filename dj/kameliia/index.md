@@ -1,8 +1,8 @@
 # Kameliia
 
-Kameliia is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at La Cité Fertile, Paris on Sat, 17 Oct 2026.
+Kameliia is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at La Cité Fertile, Paris on Sat, 17 Oct 2026.
 
-Kameliia is a techno and house artist based in Norway, with 81 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 23 more. Often billed alongside Setaoc Mass, Philippa Pacho and Ignez. Next up: La Cité Fertile, Paris on Sat 17 Oct.
+Kameliia is a techno and house artist based in Norway, with 82 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 23 more. Often billed alongside Setaoc Mass, Philippa Pacho and Ignez. Next up: La Cité Fertile, Paris on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Kameliia is a techno and house artist based in Norway, with 81 gigs on soundchec
 | Sat, 24 Oct 2026 | BASEMENT | New York City |
 | Sun, 25 Oct 2026 | TBA - Los Angeles | Los Angeles |
 | Sun, 1 Nov 2026 | The Bassement | Madrid |
+| Sat, 7 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 13 Nov 2026 | Post Bar | Helsinki |
 
 ## Recently played
@@ -30,4 +31,4 @@ Kameliia is a techno and house artist based in Norway, with 81 gigs on soundchec
 
 Setaoc Mass, Philippa Pacho, Ignez
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kameliia/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kameliia/)*

@@ -1,8 +1,8 @@
 # Alex Warp
 
-Alex Warp is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at X Private Club, Madrid on Sat, 24 Oct 2026.
+Alex Warp is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at X Private Club, Madrid on Sat, 24 Oct 2026.
 
-Alex Warp is a techno and deep house artist, with 11 gigs on soundcheck across Madrid. Often billed alongside Luke Garcia, Body-O and Iokhonda. Next up: X Private Club, Madrid on Sat 24 Oct.
+Alex Warp is a techno and deep house artist based in Spain, with 11 gigs on soundcheck across Madrid. Often billed alongside Luke Garcia, Body-O and Iokhonda. Next up: X Private Club, Madrid on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Alex Warp is a techno and deep house artist, with 11 gigs on soundcheck across M
 
 Luke Garcia, Body-O, Iokhonda
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwarp/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwarp/)*

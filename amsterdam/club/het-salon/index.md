@@ -1,6 +1,6 @@
 # Het Salon
 
-Het Salon is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Tobana" on Fri, 9 Oct 2026.
+Het Salon is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Tobana" on Fri, 9 Oct 2026.
 
 Het Salon is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including Boris Werner, Craig Richards, Daan Donk and Hannecart and 2 more. See dates, start times and who's playing. Condensatorweg 36, 1014 AX Amsterdam.
 
@@ -17,4 +17,4 @@ Het Salon is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, w
 
 Condensatorweg 36, 1014 AX Amsterdam, Amsterdam
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-salon/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-salon/)*

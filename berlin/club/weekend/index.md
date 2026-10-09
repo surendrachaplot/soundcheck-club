@@ -1,6 +1,6 @@
 # Weekend
 
-Weekend is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "WKND X MOVE ROOF" on Fri, 9 Oct 2026.
+Weekend is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "WKND X MOVE ROOF" on Fri, 9 Oct 2026.
 
 Weekend is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including A.M.R, Alex Gallus, Anna Belove and BOHO and 2 more. See dates, start times and who's playing. Alexanderstrasse 7; Mitte; 10178 Berlin; Germany.
 
@@ -13,7 +13,7 @@ Weekend is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with 
 | Fri, 16 Oct 2026 | WKND X OFFLINE | DJ PayPaul, Tiefschwarz, Tube & Berger |
 | Fri, 23 Oct 2026 | WKND X USHA BERLIN | Denno Matini, Kodah, MUKKIMIAU, Omaro |
 | Fri, 30 Oct 2026 | WKND X STUCK IN SPACE - PRE HALLOWEEN | MIKA G, p44olo |
-| Fri, 6 Nov 2026 | WKND X DON'T TELL ANYONE | BOHO |
+| Fri, 6 Nov 2026 | WKND X DON'T TELL ANYONE | BOHO, NDNA, Pôngo |
 | Fri, 13 Nov 2026 | WKND X OPERATOR | Dennis Beutler |
 | Fri, 20 Nov 2026 | WKND X THE MICHELINS | Misha Svirid, Phonique |
 | Fri, 27 Nov 2026 | WKND X Nika Herero | Nika Herero |
@@ -23,4 +23,4 @@ Weekend is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with 
 
 Alexanderstrasse 7; Mitte; 10178 Berlin; Germany, Berlin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/weekend/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/weekend/)*

@@ -1,6 +1,6 @@
 # Taylor Taylor
 
-Taylor Taylor is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Toekomstmuziek, Amsterdam on Fri, 9 Oct 2026.
+Taylor Taylor is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Toekomstmuziek, Amsterdam on Fri, 9 Oct 2026.
 
 Taylor Taylor is a house and acid artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam and Liverpool. Often billed alongside RoomToo, Sheps and mckelv. Next up: Toekomstmuziek, Amsterdam on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Taylor Taylor is a house and acid artist based in United Kingdom, with 28 gigs o
 
 RoomToo, Sheps, mckelv
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taylortaylor/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taylortaylor/)*

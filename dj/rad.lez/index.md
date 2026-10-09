@@ -1,6 +1,6 @@
 # Rad.Lez
 
-Rad.Lez is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Palais, Munich on Sun, 11 Oct 2026.
+Rad.Lez is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Palais, Munich on Sun, 11 Oct 2026.
 
 Rad.Lez is a techno and house artist based in Venezuela, with 109 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 3 more. Often billed alongside Lazykid, Shabiki and HNGT. Next up: Palais, Munich on Sun 11 Oct.
 
@@ -30,4 +30,4 @@ Rad.Lez is a techno and house artist based in Venezuela, with 109 gigs on soundc
 
 Lazykid, Shabiki, HNGT
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rad.lez/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rad.lez/)*

@@ -1,6 +1,6 @@
 # alizé.e
 
-alizé.e is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Secret Location, Berlin on Sat, 24 Oct 2026.
+alizé.e is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Secret Location, Berlin on Sat, 24 Oct 2026.
 
 alizé.e is an electronica and bass artist based in France, with 17 gigs on soundcheck across Berlin and Brussels. Often billed alongside Andriy K., Kat Never and scdr. Next up: TBA - Secret Location, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ alizé.e is an electronica and bass artist based in France, with 17 gigs on soun
 
 Andriy K., Kat Never, scdr
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alize.e/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alize.e/)*

@@ -1,13 +1,14 @@
 # JOANØLIVER
 
-JOANØLIVER is a Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Selva Club, East on Fri, 6 Nov 2026.
+JOANØLIVER is a Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Selva Club, East on Sat, 10 Oct 2026.
 
-JOANØLIVER is a techno artist based in Spain, with 4 gigs on soundcheck across Berlin and East. Often billed alongside Felix Kröcher, Grace Dahl and Mark Broom. Next up: Selva Club, East on Fri 6 Nov.
+JOANØLIVER is a techno artist based in Spain, with 5 gigs on soundcheck across Berlin and East. Often billed alongside FJAAK, Felix Kröcher and Grace Dahl. Next up: Selva Club, East on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Selva Club | East |
 | Fri, 6 Nov 2026 | Selva Club | East |
 | Sat, 7 Nov 2026 | Selva Club | East |
 | Sat, 14 Nov 2026 | Selva Club | East |
@@ -18,6 +19,6 @@ JOANØLIVER is a techno artist based in Spain, with 4 gigs on soundcheck across 
 
 ## Shares bills with
 
-Felix Kröcher, Grace Dahl, Mark Broom
+FJAAK, Felix Kröcher, Grace Dahl
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joanoliver/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joanoliver/)*

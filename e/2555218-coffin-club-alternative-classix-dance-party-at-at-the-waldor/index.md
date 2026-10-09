@@ -1,6 +1,6 @@
-# COFFIN CLUB ~ Alternative Classix Dance Party ~ at At The Waldorf Hotel
+# COFFIN CLUB - Alternative Classix Dance Party at At The Waldorf Hotel
 
-COFFIN CLUB ~ Alternative Classix Dance Party ~ at At The Waldorf Hotel on Sat 10 Oct, Vancouver. 1 artist: Vortex x. EBM and Industrial. See the line-up on soundcheck.
+COFFIN CLUB - Alternative Classix Dance Party at At The Waldorf Hotel on Sat 10 Oct, Vancouver. 1 artist: Vortex x. EBM and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

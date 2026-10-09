@@ -1,6 +1,6 @@
 # BAILE TRAMA 4TH ANNIVERSARY at ÆDEN
 
-BAILE TRAMA 4TH ANNIVERSARY at ÆDEN on Fri 9 Oct, Berlin. 7 artists: auto_timer, Cmba, GUS and Isa Castelari and 3 more. Baile Funk and Club. See the line-up on soundcheck.
+BAILE TRAMA 4TH ANNIVERSARY at ÆDEN on Fri 9 Oct, Berlin. 8 artists: auto_timer, Cmba, GUS and Isa Castelari and 4 more. Baile Funk and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ BAILE TRAMA 4TH ANNIVERSARY at ÆDEN on Fri 9 Oct, Berlin. 7 artists: auto_timer
 - Cmba
 - GUS (4)
 - Isa Castelari
+- LUX AYO
 - N3LYSTAR
 - SILVASURFER
 - SZAL

@@ -14,7 +14,7 @@ ADE - RAUM invites Clone Records at CLUB RAUM on Thu 22 Oct, Amsterdam. 8 artist
 - Detroit In Effect
 - L.F.T.
 - Neel
-- Neska
+- neska
 - Ottagone
 - Serge
 - Tauceti (FR)

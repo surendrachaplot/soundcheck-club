@@ -1,6 +1,6 @@
 # Nicola Piva
 
-Nicola Piva is a Electro and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Waterhouse Studios, Amsterdam on Sat, 24 Oct 2026.
+Nicola Piva is a Electro and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Waterhouse Studios, Amsterdam on Sat, 24 Oct 2026.
 
 Nicola Piva is an electro and minimal artist based in Italy, with 10 gigs on soundcheck across Amsterdam, Utrecht and Vienna. Often billed alongside Be.a.son, Mission Architect and AnnaM (NL). Next up: Waterhouse Studios, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Nicola Piva is an electro and minimal artist based in Italy, with 10 gigs on sou
 
 Be.a.son, Mission Architect, AnnaM (NL)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolapiva/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolapiva/)*

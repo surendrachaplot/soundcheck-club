@@ -1,8 +1,8 @@
 # Kellya
 
-Kellya is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Paragon, New York City on Thu, 29 Oct 2026.
+Kellya is a Techno and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Paragon, New York City on Thu, 29 Oct 2026.
 
-Kellya is a techno and house artist, with 8 gigs on soundcheck across New York City. Often billed alongside Ben Zo, DrToof and colors/nstereo. Next up: Paragon, New York City on Thu 29 Oct.
+Kellya is a techno and jungle artist, with 8 gigs on soundcheck across New York City. Often billed alongside Ben Zo, DrToof and colors/nstereo. Next up: Paragon, New York City on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Kellya is a techno and house artist, with 8 gigs on soundcheck across New York C
 
 Ben Zo, DrToof, colors/nstereo
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kellya/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kellya/)*

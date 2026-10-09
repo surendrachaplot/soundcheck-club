@@ -1,8 +1,8 @@
 # B.bby
 
-B.bby is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Casa Androna, Barcelona on Sat, 24 Oct 2026.
+B.bby is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Casa Androna, Barcelona on Sat, 24 Oct 2026.
 
-B.bby is a techno and ambient artist, with 12 gigs on soundcheck across Barcelona, Berlin, Brussels and Tokyo. Often billed alongside Living Code, Palcon Figeon and vip client. Next up: Casa Androna, Barcelona on Sat 24 Oct.
+B.bby is a techno and ambient artist based in Italy, with 12 gigs on soundcheck across Barcelona, Berlin, Brussels and Tokyo. Often billed alongside Living Code, Palcon Figeon and vip client. Next up: Casa Androna, Barcelona on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ B.bby is a techno and ambient artist, with 12 gigs on soundcheck across Barcelon
 
 Living Code, Palcon Figeon, vip client
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b.bby/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b.bby/)*

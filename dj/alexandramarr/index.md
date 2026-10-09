@@ -1,8 +1,8 @@
 # Alexandra Marr
 
-Alexandra Marr is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Tagada, Vienna on Fri, 9 Oct 2026.
+Alexandra Marr is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Tagada, Vienna on Fri, 9 Oct 2026.
 
-Alexandra Marr is a house and disco artist, with 16 gigs on soundcheck across Madrid, Prague and Vienna. Often billed alongside Flying Horstman, JP Bechamel and Boogaloo Steve. Next up: Tagada, Vienna on Fri 9 Oct.
+Alexandra Marr is a house and disco artist based in Serbia, with 16 gigs on soundcheck across Madrid, Prague and Vienna. Often billed alongside Flying Horstman, JP Bechamel and Boogaloo Steve. Next up: Tagada, Vienna on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Alexandra Marr is a house and disco artist, with 16 gigs on soundcheck across Ma
 
 Flying Horstman, JP Bechamel, Boogaloo Steve
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandramarr/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandramarr/)*

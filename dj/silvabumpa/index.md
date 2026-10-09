@@ -1,6 +1,6 @@
 # Silva Bumpa
 
-Silva Bumpa is a Garage and House artist with 17 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Limelight, Belfast on Fri, 9 Oct 2026.
+Silva Bumpa is a Garage and House artist with 17 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Limelight, Belfast on Fri, 9 Oct 2026.
 
 Silva Bumpa is a garage and house artist based in United Kingdom, with 218 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 53 more. Often billed alongside Soul Mass Transit System, Prozak (IRL) and Main Phase. Next up: The Limelight, Belfast on Fri 9 Oct.
 
@@ -13,7 +13,7 @@ Silva Bumpa is a garage and house artist based in United Kingdom, with 218 gigs 
 | Sat, 10 Oct 2026 | SWG3 | Glasgow |
 | Thu, 15 Oct 2026 | Mondo | Madrid |
 | Fri, 16 Oct 2026 | Nitsa Club | Barcelona |
-| Thu, 22 Oct 2026 | Levenslang Amsterdam | Amsterdam |
+| Thu, 22 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Paradiso | Amsterdam |
 | Fri, 30 Oct 2026 | Badaboum | Paris |
 | Sat, 31 Oct 2026 | Fuse | Brussels |
@@ -36,4 +36,4 @@ Silva Bumpa is a garage and house artist based in United Kingdom, with 218 gigs 
 
 Soul Mass Transit System, Prozak (IRL), Main Phase
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silvabumpa/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silvabumpa/)*

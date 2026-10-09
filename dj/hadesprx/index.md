@@ -1,6 +1,6 @@
 # Hades PRX
 
-Hades PRX is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona), Barcelona on Sat, 10 Oct 2026.
+Hades PRX is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona), Barcelona on Sat, 10 Oct 2026.
 
 Hades PRX is a techno and electro artist based in Spain, with 25 gigs on soundcheck across Barcelona, Krakow, Madrid and Valencia. Often billed alongside Ikari, Sylvia (ES) and Hector MAD. Next up: TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona), Barcelona on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Hades PRX is a techno and electro artist based in Spain, with 25 gigs on soundch
 
 Ikari, Sylvia (ES), Hector MAD
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hadesprx/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hadesprx/)*

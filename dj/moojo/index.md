@@ -1,14 +1,15 @@
 # Moojo
 
-Moojo is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Savaya Bali, Bali on Sun, 18 Oct 2026.
+Moojo is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Savaya Bali, Bali on Sun, 18 Oct 2026.
 
-Moojo is an afro house and house artist based in France, with 48 gigs on soundcheck across Amsterdam, Athens, Bali and Basel and 16 more. Often billed alongside Emir Sagiroglu, Hugel and ARYMÉ. Next up: Savaya Bali, Bali on Sun 18 Oct.
+Moojo is an afro house and house artist based in France, with 49 gigs on soundcheck across Amsterdam, Athens, Bali and Basel and 16 more. Often billed alongside Emir Sagiroglu, Hugel and AMÉMÉ. Next up: Savaya Bali, Bali on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 18 Oct 2026 | Savaya Bali | Bali |
+| Thu, 22 Oct 2026 | Eivissa Ship | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Moojo is an afro house and house artist based in France, with 48 gigs on soundch
 
 ## Shares bills with
 
-Emir Sagiroglu, Hugel, ARYMÉ
+Emir Sagiroglu, Hugel, AMÉMÉ
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moojo/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moojo/)*

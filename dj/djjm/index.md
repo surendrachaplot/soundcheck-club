@@ -1,6 +1,6 @@
 # DJ JM
 
-DJ JM is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Metropolis Venue, Lithuania on Sat, 10 Oct 2026.
+DJ JM is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Metropolis Venue, Lithuania on Sat, 10 Oct 2026.
 
 DJ JM is a techno and bass artist based in Lithuania, with 57 gigs on soundcheck across Athens, Berlin, Bristol and Brussels and 16 more. Often billed alongside TS Kahuna, Amiraku and A.dixen. Next up: TBA - Metropolis Venue, Lithuania on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DJ JM is a techno and bass artist based in Lithuania, with 57 gigs on soundcheck
 
 TS Kahuna, Amiraku, A.dixen
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjm/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjm/)*

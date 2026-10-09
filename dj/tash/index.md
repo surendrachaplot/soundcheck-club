@@ -1,6 +1,6 @@
 # Tash
 
-Tash is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Akhnaton, Amsterdam on Fri, 23 Oct 2026.
+Tash is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Akhnaton, Amsterdam on Fri, 23 Oct 2026.
 
 Tash is a progressive house and techno artist based in Greece, with 18 gigs on soundcheck across Amsterdam, Berlin, Chicago and Lisbon and 3 more. Often billed alongside W&DY, Alex O'Rion and Alexisphere. Next up: Akhnaton, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Tash is a progressive house and techno artist based in Greece, with 18 gigs on s
 
 W&DY, Alex O'Rion, Alexisphere
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tash/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tash/)*

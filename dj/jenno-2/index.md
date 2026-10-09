@@ -1,6 +1,6 @@
 # JENNO (2)
 
-JENNO (2) is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Mooi Space, Toronto on Sat, 14 Nov 2026.
+JENNO (2) is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Mooi Space, Toronto on Sat, 14 Nov 2026.
 
 JENNO is a club and house artist based in Canada, with 13 gigs on soundcheck across Toronto. Often billed alongside Young Teesh, Chinelo and JIYNX. Next up: Mooi Space, Toronto on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ JENNO is a club and house artist based in Canada, with 13 gigs on soundcheck acr
 
 Young Teesh, Chinelo, JIYNX
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenno-2/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenno-2/)*

@@ -1,6 +1,6 @@
 # pido
 
-pido is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Brancaleone, Rome on Sat, 10 Oct 2026.
+pido is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Brancaleone, Rome on Sat, 10 Oct 2026.
 
 pido is a house and techno artist based in Italy, with 20 gigs on soundcheck across Naples, Prague and Rome. Often billed alongside Martek, Carlo Martino and Sunday Bath. Next up: Brancaleone, Rome on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ pido is a house and techno artist based in Italy, with 20 gigs on soundcheck acr
 
 Martek, Carlo Martino, Sunday Bath
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pido/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pido/)*

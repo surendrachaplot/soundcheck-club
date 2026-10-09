@@ -1,6 +1,6 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 21 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "TAKE HIT: Ingrid, KD/MS, MON.TO, HAXO" on Thu, 8 Oct 2026.
+Mia Mao is a music venue in Paris with 21 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Lycanthropie: Marc Acardipane, Dr Macabre, Manu Le Malin" on Fri, 9 Oct 2026.
 
 Mia Mao is a music venue in Paris listed on soundcheck. 21 upcoming gigs, with line-ups including Adame DJ, AISHA, Anime and Annie and 2 more. See dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
@@ -8,7 +8,6 @@ Mia Mao is a music venue in Paris listed on soundcheck. 21 upcoming gigs, with l
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | TAKE HIT: Ingrid, KD/MS, MON.TO, HAXO | HAXO, Ingrid, Mon.To |
 | Fri, 9 Oct 2026 | Lycanthropie: Marc Acardipane, Dr Macabre, Manu Le Malin | Marc Acardipane, ÆSTR |
 | Sat, 10 Oct 2026 | THUNDER: Flymeon, ENFAN, CYUR, BLNK, Night Owl & MORE | BLNK, ENFAN, Flymeon, Night Owl |
 | Thu, 15 Oct 2026 | JEUDI PROTOCOL: UZI NAS, SAPHYR B2B GA4SY, LUNATIXX  | ANØMALY, LUNATIXX, Nono |
@@ -18,9 +17,10 @@ Mia Mao is a music venue in Paris listed on soundcheck. 21 upcoming gigs, with l
 | Thu, 22 Oct 2026 | Check This Out: Azzecca, Camille Doe, Lefblom, Nightchou | Azzecca, Camille Doe, Lefblom, Nightchou |
 | Fri, 23 Oct 2026 | Thunder: Anderex, Nivk, MXGN (Live), Shogun, Heartreaver | MXGN, Shogun |
 | Sat, 24 Oct 2026 | Organïk: Rebekah, Anime, CARAVEL, AISHA, Medusa | AISHA, Anime, CARAVEL, Medusa, Rebekah |
+| Thu, 29 Oct 2026 | Orka: Sopik, Night Owl, Dj Ratz, Keros, Skollaris | Night Owl, Sopik |
 
 ## Address
 
 12a rue Ella Fitzgerald, 75019, Paris, FRANCE, Paris
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*

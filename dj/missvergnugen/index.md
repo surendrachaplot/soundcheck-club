@@ -1,6 +1,6 @@
 # MissVergnügen
 
-MissVergnügen is a electronic artist with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Eschschloraque, Berlin on Wed, 14 Oct 2026.
+MissVergnügen is a electronic artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Eschschloraque, Berlin on Wed, 14 Oct 2026.
 
 MissVergnügen is an electronic artist based in Germany, with 136 gigs on soundcheck across Berlin. Often billed alongside Sheila Chipperfield and Kerosine. Next up: Eschschloraque, Berlin on Wed 14 Oct.
 
@@ -31,4 +31,4 @@ MissVergnügen is an electronic artist based in Germany, with 136 gigs on soundc
 
 Sheila Chipperfield, Kerosine
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missvergnugen/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missvergnugen/)*

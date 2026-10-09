@@ -1,8 +1,8 @@
 # Kengo Groove
 
-Kengo Groove is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Sat, 17 Oct 2026.
+Kengo Groove is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Sat, 17 Oct 2026.
 
-Kengo Groove is a house and tech house artist based in Japan, with 35 gigs on soundcheck across Kyushu, Osaka and Tokyo. Often billed alongside Daitto, Chihoshi and CLESENT. Next up: MIDNIGHT EAST, Tokyo on Sat 17 Oct.
+Kengo Groove is a house and tech house artist based in Japan, with 35 gigs on soundcheck across Kyushu, Osaka and Tokyo. Often billed alongside Chihoshi, Daitto and CLESENT. Next up: MIDNIGHT EAST, Tokyo on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Kengo Groove is a house and tech house artist based in Japan, with 35 gigs on so
 
 ## Shares bills with
 
-Daitto, Chihoshi, CLESENT
+Chihoshi, Daitto, CLESENT
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kengogroove/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kengogroove/)*

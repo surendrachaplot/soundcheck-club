@@ -1,8 +1,8 @@
 # Jorkes
 
-Jorkes is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Downtown LA, Los Angeles on Sat, 10 Oct 2026.
+Jorkes is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Downtown LA, Los Angeles on Sat, 10 Oct 2026.
 
-Jorkes is a house and techno artist based in Greece, with 146 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 13 more. Often billed alongside TiZiAN (DE), Massimiliano Pagliara and Rumi de Baires. Next up: TBA - Downtown LA, Los Angeles on Sat 10 Oct.
+Jorkes is a house and techno artist based in Greece, with 147 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 14 more. Often billed alongside TiZiAN (DE), Massimiliano Pagliara and Rumi de Baires. Next up: TBA - Downtown LA, Los Angeles on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Jorkes is a house and techno artist based in Greece, with 146 gigs on soundcheck
 | Sun, 25 Oct 2026 | nachbar | Amsterdam |
 | Sat, 31 Oct 2026 | Romantica | Stuttgart |
 | Sat, 31 Oct 2026 | Tokonoma Club | Frankfurt |
+| Fri, 6 Nov 2026 | Giselle | Düsseldorf |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 
 ## Recently played
@@ -31,4 +32,4 @@ Jorkes is a house and techno artist based in Greece, with 146 gigs on soundcheck
 
 TiZiAN (DE), Massimiliano Pagliara, Rumi de Baires
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorkes/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorkes/)*

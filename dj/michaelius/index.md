@@ -1,6 +1,6 @@
 # Michael Ius
 
-Michael Ius is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Blindspot*, Bucharest on Sat, 10 Oct 2026.
+Michael Ius is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Blindspot*, Bucharest on Sat, 10 Oct 2026.
 
 Michael Ius is a techno and acid artist based in Romania, with 37 gigs on soundcheck across Berlin, Bucharest and London. Often billed alongside CARMEN (RO), ALISTARM and FAUST. Next up: Blindspot*, Bucharest on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Michael Ius is a techno and acid artist based in Romania, with 37 gigs on soundc
 
 CARMEN (RO), ALISTARM, FAUST (1)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelius/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelius/)*

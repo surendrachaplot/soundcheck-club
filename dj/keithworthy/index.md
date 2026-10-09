@@ -1,6 +1,6 @@
 # Keith Worthy
 
-Keith Worthy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Marble Bar, Detroit on Fri, 9 Oct 2026.
+Keith Worthy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Marble Bar, Detroit on Fri, 9 Oct 2026.
 
 Keith Worthy is a techno and house artist, with 11 gigs on soundcheck across Detroit and Toronto. Often billed alongside Rimarkable, Stacey Hotwaxx Hale and Stacey Pullen. Next up: Marble Bar, Detroit on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Keith Worthy is a techno and house artist, with 11 gigs on soundcheck across Det
 
 Rimarkable, Stacey Hotwaxx Hale, Stacey Pullen
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keithworthy/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keithworthy/)*

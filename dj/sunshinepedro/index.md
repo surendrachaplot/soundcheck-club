@@ -1,6 +1,6 @@
 # Sunshine Pedro
 
-Sunshine Pedro is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Burger Disco Club, Athens on Fri, 9 Oct 2026.
+Sunshine Pedro is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Burger Disco Club, Athens on Fri, 9 Oct 2026.
 
 Sunshine Pedro is a disco and house artist, with 85 gigs on soundcheck across Athens and Istanbul. Often billed alongside Nicola Lavacca, Seou and Reign Of Time. Next up: Burger Disco Club, Athens on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Sunshine Pedro is a disco and house artist, with 85 gigs on soundcheck across At
 
 Nicola Lavacca, Seou, Reign Of Time
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunshinepedro/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunshinepedro/)*

@@ -1,6 +1,6 @@
 # Fabrik
 
-Fabrik is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "LOOP with Fatboy Slim" on Sat, 10 Oct 2026.
+Fabrik is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "LOOP with Fatboy Slim" on Sat, 10 Oct 2026.
 
 Fabrik is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including Paolo Ferrara, Adrian Mills, Alex Clap and Alex T (UK) and 2 more. See dates, start times and who's playing. Av. de la Industria 82, 28970 Humanes de Madrid, Spain.
 
@@ -23,4 +23,4 @@ Fabrik is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with l
 
 Av. de la Industria 82, 28970 Humanes de Madrid, Spain, Madrid
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*

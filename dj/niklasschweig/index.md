@@ -1,6 +1,6 @@
 # Niklas Schweig
 
-Niklas Schweig is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Süss War Gestern, Berlin on Tue, 13 Oct 2026.
+Niklas Schweig is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Süss War Gestern, Berlin on Tue, 13 Oct 2026.
 
 Niklas Schweig is a house and club artist, with 10 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Bunsen, DJ KILLING and ENNIO. Next up: Süss War Gestern, Berlin on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ Niklas Schweig is a house and club artist, with 10 gigs on soundcheck across Ber
 
 Bunsen, DJ KILLING, ENNIO
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niklasschweig/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niklasschweig/)*

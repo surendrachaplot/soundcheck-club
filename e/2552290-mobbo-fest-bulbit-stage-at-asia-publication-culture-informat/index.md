@@ -1,6 +1,6 @@
 # Mobbo Fest. Bulbit Stage at Asia Publication Culture & Information Center
 
-Mobbo Fest. Bulbit Stage at Asia Publication Culture & Information Center on Sat 10 Oct, Seoul. 6 artists: Aiden Lee, Cityboy from Seoul, cuprum and Kimmingi and 2 more. Techno and House. See the line-up on soundcheck.
+Mobbo Fest. Bulbit Stage at Asia Publication Culture & Information Center on Sat 10 Oct, Seoul. 7 artists: 01, Aiden Lee, Cityboy from Seoul and cuprum and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Mobbo Fest. Bulbit Stage at Asia Publication Culture & Information Center on Sat
 
 ## Line-up
 
+- 01 (1)
 - Aiden Lee
 - Cityboy from Seoul
 - cuprum

@@ -1,13 +1,14 @@
 # CANO (3)
 
-CANO (3) is a Tech House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at 45 London, London on Fri, 30 Oct 2026.
+CANO (3) is a Tech House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Prik Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-CANO is a tech house and afro tech artist based in United Kingdom, with 16 gigs on soundcheck across London. Often billed alongside Tato, Andres Forero and Pedro Villa. Next up: 45 London, London on Fri 30 Oct.
+CANO is a tech house and afro tech artist based in United Kingdom, with 17 gigs on soundcheck across Amsterdam and London. Often billed alongside Tato, Andres Forero and Pedro Villa. Next up: Prik Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Prik Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | 45 London | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ CANO is a tech house and afro tech artist based in United Kingdom, with 16 gigs 
 
 Tato (2), Andres Forero, Pedro Villa
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cano-3/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cano-3/)*

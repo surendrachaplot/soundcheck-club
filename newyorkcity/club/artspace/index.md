@@ -1,6 +1,6 @@
 # ARTSPACE
 
-ARTSPACE is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "RISQUÉ Wicked Disco with VITO (UK), Shahar + more" on Sat, 10 Oct 2026.
+ARTSPACE is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "RISQUÉ Wicked Disco with VITO (UK), Shahar + more" on Sat, 10 Oct 2026.
 
 ARTSPACE is a music venue in New York City listed on soundcheck. 3 upcoming gigs, with line-ups including LOSTBOYJAY, Shahar, Sleepy & Boo and VITO (UK). See dates, start times and who's playing. 215 Chrystie St, New York, NY 10002, United States.
 
@@ -16,4 +16,4 @@ ARTSPACE is a music venue in New York City listed on soundcheck. 3 upcoming gigs
 
 215 Chrystie St, New York, NY 10002, United States, New York City
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/artspace/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/artspace/)*

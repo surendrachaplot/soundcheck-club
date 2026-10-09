@@ -1,6 +1,6 @@
 # Pan-Pot
 
-Pan-Pot is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 9 Oct 2026.
+Pan-Pot is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 9 Oct 2026.
 
 Pan-Pot is a techno and house artist based in Germany, with 185 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 59 more. Often billed alongside Adam Beyer, Anfisa Letyago and Enrico Sangiuliano. Next up: Grelle Forelle, Vienna on Fri 9 Oct.
 
@@ -35,4 +35,4 @@ Pan-Pot is a techno and house artist based in Germany, with 185 gigs on soundche
 
 Adam Beyer, Anfisa Letyago, Enrico Sangiuliano
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*

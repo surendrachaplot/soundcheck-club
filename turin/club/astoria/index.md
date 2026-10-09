@@ -1,6 +1,6 @@
 # Astoria
 
-Astoria is a music venue in Turin with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Regent (Mutual Rytm, Clergy, ARTS /DE) hosted by Eclisse" on Fri, 9 Oct 2026.
+Astoria is a music venue in Turin with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Regent (Mutual Rytm, Clergy, ARTS /DE) hosted by Eclisse" on Fri, 9 Oct 2026.
 
 Astoria is a music venue in Turin listed on soundcheck. 11 upcoming gigs, with line-ups including AMRED, BENZA, Delano Legito and Hellcatz and 2 more. See dates, start times and who's playing. Via Claudio Luigi Berthollet 13, 10125 Torino (TO), Italy.
 
@@ -23,4 +23,4 @@ Astoria is a music venue in Turin listed on soundcheck. 11 upcoming gigs, with l
 
 Via Claudio Luigi Berthollet 13, 10125 Torino (TO), Italy, Turin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/astoria/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/astoria/)*

@@ -1,8 +1,8 @@
 # Kugel
 
-Kugel is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 10 Oct 2026.
+Kugel is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 10 Oct 2026.
 
-Kugel is a techno and house artist based in South Korea, with 179 gigs on soundcheck across Bangkok, Hong Kong, Jakarta and Manila and 4 more. Often billed alongside Sunday Lee, RTRP and Gumi. Next up: DJ Bar Bridge Shinjuku, Tokyo on Sat 10 Oct.
+Kugel is a techno and house artist based in South Korea, with 180 gigs on soundcheck across Bangkok, Hong Kong, Jakarta and Manila and 5 more. Often billed alongside Sunday Lee, RTRP and Gumi. Next up: DJ Bar Bridge Shinjuku, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Kugel is a techno and house artist based in South Korea, with 179 gigs on soundc
 | Sat, 17 Oct 2026 | Nyapi | Seoul |
 | Fri, 23 Oct 2026 | Nyapi | Seoul |
 | Sat, 14 Nov 2026 | Apotheka | Manila |
+| Sat, 21 Nov 2026 | Pawnshop | Taipei |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Kugel is a techno and house artist based in South Korea, with 179 gigs on soundc
 
 Sunday Lee, RTRP, Gumi
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kugel/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kugel/)*

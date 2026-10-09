@@ -1,13 +1,14 @@
 # CARGO (DE)
 
-CARGO (DE) is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 13 Nov 2026.
+CARGO (DE) is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Marmorbar, Berlin on Fri, 23 Oct 2026.
 
-CARGO (DE) is a trance and techno artist based in Germany, with 106 gigs on soundcheck across Antwerp, Barcelona, Berlin and Budapest and 8 more. Often billed alongside Jacky Ickx, DiscoDaisy and DJ SeXex. Next up: Lokschuppen Berlin, Berlin on Fri 13 Nov.
+CARGO (DE) is a trance and techno artist based in Germany, with 107 gigs on soundcheck across Antwerp, Barcelona, Berlin and Budapest and 8 more. Often billed alongside Jacky Ickx, DiscoDaisy and DJ SeXex. Next up: Marmorbar, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Marmorbar | Berlin |
 | Fri, 13 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 20 Nov 2026 | OST | Berlin |
 | Sat, 21 Nov 2026 | DETROIT CLUB | Barcelona |
@@ -27,4 +28,4 @@ CARGO (DE) is a trance and techno artist based in Germany, with 106 gigs on soun
 
 Jacky Ickx, DiscoDaisy, DJ SeXex
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cargo-2/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cargo-2/)*

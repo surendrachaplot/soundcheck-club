@@ -1,6 +1,6 @@
 # Airwolf Paradise
 
-Airwolf Paradise is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Smith St Hotel, Melbourne on Sun, 11 Oct 2026.
+Airwolf Paradise is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Smith St Hotel, Melbourne on Sun, 11 Oct 2026.
 
 Airwolf Paradise is a house and tech house artist based in Australia, with 49 gigs on soundcheck across Austin, Australian Capital Territory, Bali and Belfast and 18 more. Often billed alongside Torren Foot, Patrick Topping and Dom Dolla. Next up: Smith St Hotel, Melbourne on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Airwolf Paradise is a house and tech house artist based in Australia, with 49 gi
 
 Torren Foot, Patrick Topping, Dom Dolla
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/airwolfparadise/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/airwolfparadise/)*

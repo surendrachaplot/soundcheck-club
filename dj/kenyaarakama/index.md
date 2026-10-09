@@ -1,6 +1,6 @@
 # Kenya Arakama
 
-Kenya Arakama is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Nitsa Club, Barcelona on Sat, 10 Oct 2026.
+Kenya Arakama is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Nitsa Club, Barcelona on Sat, 10 Oct 2026.
 
 Kenya Arakama is a techno and house artist based in Spain, with 38 gigs on soundcheck across Barcelona, Madrid and North. Often billed alongside DJ Bruce Lee, DJohnston and Lucho The G. Next up: Nitsa Club, Barcelona on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Kenya Arakama is a techno and house artist based in Spain, with 38 gigs on sound
 
 DJ Bruce Lee, DJohnston, Lucho The G
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenyaarakama/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenyaarakama/)*

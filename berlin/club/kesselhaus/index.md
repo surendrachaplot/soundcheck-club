@@ -1,6 +1,6 @@
 # Kesselhaus
 
-Kesselhaus is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "KREAM" on Fri, 16 Oct 2026.
+Kesselhaus is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "KREAM" on Fri, 16 Oct 2026.
 
 Kesselhaus is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including KREAM, Lane 8 and Township Rebellion. See dates, start times and who's playing. Knaackstraße 97, 10435 Berlin.
 
@@ -18,4 +18,4 @@ Kesselhaus is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, wit
 
 Knaackstraße 97, 10435 Berlin, Berlin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kesselhaus/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kesselhaus/)*

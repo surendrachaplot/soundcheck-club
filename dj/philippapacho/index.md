@@ -1,8 +1,8 @@
 # Philippa Pacho
 
-Philippa Pacho is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Liquid Club, Malta on Sat, 10 Oct 2026.
+Philippa Pacho is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Liquid Club, Malta on Sat, 10 Oct 2026.
 
-Philippa Pacho is a techno and house artist based in Sweden, with 230 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 59 more. Often billed alongside Blue Hour, Fadi Mohem and Freddy K. Next up: Liquid Club, Malta on Sat 10 Oct.
+Philippa Pacho is a techno and house artist based in Sweden, with 231 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 59 more. Often billed alongside Blue Hour, Fadi Mohem and Rene Wise. Next up: Liquid Club, Malta on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -16,10 +16,10 @@ Philippa Pacho is a techno and house artist based in Sweden, with 230 gigs on so
 | Fri, 30 Oct 2026 | Nowadays | New York City |
 | Fri, 30 Oct 2026 | Smoke & Mirrors | Chicago |
 | Fri, 6 Nov 2026 | FOLD | London |
+| Sat, 7 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 13 Nov 2026 | Poolen | Copenhagen |
 | Sat, 21 Nov 2026 | VENT | Tokyo |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
-| Sat, 19 Dec 2026 | Soul SKG | Thessaloniki |
 
 ## Recently played
 
@@ -34,6 +34,6 @@ Philippa Pacho is a techno and house artist based in Sweden, with 230 gigs on so
 
 ## Shares bills with
 
-Blue Hour, Fadi Mohem, Freddy K
+Blue Hour, Fadi Mohem, Rene Wise
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*

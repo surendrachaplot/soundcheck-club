@@ -1,6 +1,6 @@
 # Moondog Cafe
 
-Moondog Cafe is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "The Art of Noise: A Performance and Q&A Series" on Sun, 11 Oct 2026.
+Moondog Cafe is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "The Art of Noise: A Performance and Q&A Series" on Sun, 11 Oct 2026.
 
 Moondog Cafe is a music venue in Detroit listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 8045 Linwood St #2, Detroit, MI 48206.
 
@@ -15,4 +15,4 @@ Moondog Cafe is a music venue in Detroit listed on soundcheck. 2 upcoming gigs. 
 
 8045 Linwood St #2, Detroit, MI 48206, Detroit
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/moondog-cafe/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/moondog-cafe/)*

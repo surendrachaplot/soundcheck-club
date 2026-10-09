@@ -1,14 +1,13 @@
 # La Gare / Le Gore
 
-La Gare / Le Gore is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "59 BEL RECORDS: SILV4RE & TSIEG" on Thu, 8 Oct 2026.
+La Gare / Le Gore is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "LA RIPOSTE: S'il Te Plait Bruno ALL NIGHT LONG" on Fri, 9 Oct 2026.
 
-La Gare / Le Gore is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including Acid Oslo, Alhena_, GOTIS and In-Tan and 2 more. See dates, start times and who's playing. 1 Av. Corentin Cariou, 75019 Paris.
+La Gare / Le Gore is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Acid Oslo, Alhena_, GOTIS and In-Tan and 2 more. See dates, start times and who's playing. 1 Av. Corentin Cariou, 75019 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | 59 BEL RECORDS: SILV4RE & TSIEG |  |
 | Fri, 9 Oct 2026 | LA RIPOSTE: S'il Te Plait Bruno ALL NIGHT LONG | S'il Te Plait Bruno |
 | Sat, 10 Oct 2026 | LA RIPOSTE: S'il Te Plait Bruno ALL NIGHT LONG | S'il Te Plait Bruno |
 | Sun, 11 Oct 2026 | CLUB 909: ALHENA & GOTIS | Alhena_, GOTIS |
@@ -20,4 +19,4 @@ La Gare / Le Gore is a music venue in Paris listed on soundcheck. 7 upcoming gig
 
 1 Av. Corentin Cariou, 75019 Paris, Paris
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-gare-le-gore/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-gare-le-gore/)*

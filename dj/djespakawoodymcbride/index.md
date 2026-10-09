@@ -1,13 +1,14 @@
 # Woody McBride
 
-Woody McBride is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Glove That Fits, London on Sun, 13 Dec 2026.
+Woody McBride is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at People's Leisure Club, Edinburgh on Fri, 4 Dec 2026.
 
-Woody McBride is a techno and acid artist based in United States of America, with 12 gigs on soundcheck across Amsterdam, Chicago, London and Minneapolis St Paul and 4 more. Often billed alongside DJ Hyperactive, Dj Spacebear and Adam X. Next up: The Glove That Fits, London on Sun 13 Dec.
+Woody McBride is a techno and acid artist based in United States of America, with 13 gigs on soundcheck across Amsterdam, Chicago, Edinburgh and London and 5 more. Often billed alongside DJ Hyperactive, Dj Spacebear and Adam X. Next up: People's Leisure Club, Edinburgh on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | People's Leisure Club | Edinburgh |
 | Sun, 13 Dec 2026 | The Glove That Fits | London |
 | Sat, 19 Dec 2026 | TBA | Minneapolis-st-paul |
 
@@ -26,4 +27,4 @@ Woody McBride is a techno and acid artist based in United States of America, wit
 
 DJ Hyperactive, Dj Spacebear, Adam X
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djespakawoodymcbride/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djespakawoodymcbride/)*

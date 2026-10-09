@@ -1,6 +1,6 @@
 # Bambii
 
-Bambii is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Ingram Plaza, San Diego on Sat, 17 Oct 2026.
+Bambii is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Ingram Plaza, San Diego on Sat, 17 Oct 2026.
 
 Bambii is a techno and house artist based in Canada, with 107 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 26 more. Often billed alongside Young Teesh, Nino Brown and Nia Archives. Next up: Ingram Plaza, San Diego on Sat 17 Oct.
 
@@ -31,4 +31,4 @@ Bambii is a techno and house artist based in Canada, with 107 gigs on soundcheck
 
 Young Teesh, Nino Brown (2), Nia Archives
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambii/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambii/)*

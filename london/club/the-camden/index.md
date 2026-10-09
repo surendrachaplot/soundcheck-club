@@ -1,6 +1,6 @@
 # The Camden
 
-The Camden is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Levi Roots Live - Roots Reggae Night London" on Fri, 9 Oct 2026.
+The Camden is a music venue in London with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Levi Roots Live - Roots Reggae Night London" on Fri, 9 Oct 2026.
 
 The Camden is a music venue in London listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. 65 Crowndale Road, Camden, London, NW1 1TN.
 
@@ -18,4 +18,4 @@ The Camden is a music venue in London listed on soundcheck. 5 upcoming gigs. See
 
 65 Crowndale Road, Camden, London, NW1 1TN, London
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-camden/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-camden/)*

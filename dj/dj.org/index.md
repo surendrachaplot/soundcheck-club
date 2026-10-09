@@ -1,6 +1,6 @@
 # DJ.org
 
-DJ.org is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Grelle Forelle, Vienna on Sat, 10 Oct 2026.
+DJ.org is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Grelle Forelle, Vienna on Sat, 10 Oct 2026.
 
 DJ.org is a techno and house artist based in Austria, with 9 gigs on soundcheck across Berlin, Milan and Vienna. Often billed alongside DJ Lelo, Ice Scholle and YPSY. Next up: Grelle Forelle, Vienna on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DJ.org is a techno and house artist based in Austria, with 9 gigs on soundcheck 
 
 DJ Lelo, Ice Scholle, YPSY
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.org/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.org/)*

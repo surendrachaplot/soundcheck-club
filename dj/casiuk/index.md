@@ -1,6 +1,6 @@
 # Casi (UK)
 
-Casi (UK) is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Mash House, Edinburgh on Fri, 9 Oct 2026.
+Casi (UK) is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Mash House, Edinburgh on Fri, 9 Oct 2026.
 
 Casi (UK) is a house and disco artist based in United Kingdom, with 5 gigs on soundcheck across Edinburgh. Often billed alongside Ben Kok, Pheebs and Bakey. Next up: The Mash House, Edinburgh on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ Casi (UK) is a house and disco artist based in United Kingdom, with 5 gigs on so
 
 Ben Kok (2), Pheebs, Bakey
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casiuk/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casiuk/)*

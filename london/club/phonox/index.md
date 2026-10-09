@@ -1,6 +1,6 @@
 # Phonox
 
-Phonox is a music venue in London with 38 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Insomnia London: Shirley Temper, Tino & Ned Spencer" on Thu, 8 Oct 2026.
+Phonox is a music venue in London with 38 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Anish Kumar, Wallace: 4 Fridays at Phonox (9th Oct)" on Fri, 9 Oct 2026.
 
 Phonox is a music venue in London listed on soundcheck. 38 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Amy Os, Angel D'lite and Anish Kumar and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
@@ -8,7 +8,6 @@ Phonox is a music venue in London listed on soundcheck. 38 upcoming gigs, with l
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Insomnia London: Shirley Temper, Tino & Ned Spencer | Ned Spencer, Shirley Temper, Sophia Constantinou |
 | Fri, 9 Oct 2026 | Anish Kumar, Wallace: 4 Fridays at Phonox (9th Oct) | Anish Kumar, Wallace |
 | Sat, 10 Oct 2026 | OUTRO: Fold with SP:MC, Dismantle, Fonzo, Lady Passion | Fold, Fonzo (UK), Lady Passion |
 | Sat, 10 Oct 2026 | An Evening with: Touch of Funk | Farhannah, Touch Of Funk |
@@ -18,9 +17,10 @@ Phonox is a music venue in London listed on soundcheck. 38 upcoming gigs, with l
 | Thu, 22 Oct 2026 | Insomnia London: Paleman, Buckfast Barbie & DJelley | Buckfast Barbie, DJelley, Paleman |
 | Fri, 23 Oct 2026 | Anish Kumar (All Night Long): 4 Fridays at Phonox (Closing Party)  | Anish Kumar |
 | Sat, 24 Oct 2026 | Mr. Scruff (All Day Long) | Mr Scruff, Vanessa Freeman |
+| Sat, 24 Oct 2026 | The North Quarter: DLR, Fox, LSB, Redeyes, T-Man, Vanity Roxane, Zero T | DLR, LSB, MC Fox, Redeyes, T-Man (UK), Vanity Roxane, Zero T |
 
 ## Address
 
 418 Brixton Road Brixton London SW9 7AY, London
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*

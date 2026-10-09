@@ -1,8 +1,8 @@
 # BORIS CLUB
 
-BORIS CLUB is a music venue in Barcelona with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Boris Club - FREE TICKETS" on Fri, 9 Oct 2026.
+BORIS CLUB is a music venue in Barcelona with 15 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Boris Club - FREE TICKETS" on Fri, 9 Oct 2026.
 
-BORIS CLUB is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs, with line-ups including BizZa, Catz 'N Dogz, Dimitri From Paris and Jessy and 2 more. See dates, start times and who's playing. Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2].
+BORIS CLUB is a music venue in Barcelona listed on soundcheck. 15 upcoming gigs, with line-ups including BizZa, Catz 'N Dogz, Dimitri From Paris and HeAndMe and 2 more. See dates, start times and who's playing. Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2].
 
 ## What's on
 
@@ -14,13 +14,13 @@ BORIS CLUB is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs,
 | Sat, 17 Oct 2026 | BORIS CLUB - Free Tickets |  |
 | Fri, 23 Oct 2026 | BORIS CLUB - Free tickets |  |
 | Sat, 24 Oct 2026 | BORIS CLUB - Free Tickets | Jessy, SOFIA PINEDA |
+| Fri, 30 Oct 2026 | BORIS CLUB - Free Tickets |  |
 | Sat, 31 Oct 2026 | Funkey (Halloween) TARDEO | Jordi Carreras |
 | Sat, 31 Oct 2026 | BORIS HALLOWEEN - Free Tickets | K:ROL, Marcel BS |
-| Fri, 6 Nov 2026 | Boris pres. SIROB | BizZa, Mihai Popoviciu |
-| Sat, 7 Nov 2026 | Boris pres. Reznik (Keinemusik) | Reznik |
+| Fri, 6 Nov 2026 | Boris pres. SIROB Mihai Popoviciu, BizZa, Paula GM | BizZa, Mihai Popoviciu |
 
 ## Address
 
 Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2], Barcelona
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/boris-club/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/boris-club/)*

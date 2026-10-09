@@ -1,6 +1,6 @@
 # kentaroshark
 
-kentaroshark is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at West Harlem, Kyoto on Fri, 9 Oct 2026.
+kentaroshark is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at West Harlem, Kyoto on Fri, 9 Oct 2026.
 
 kentaroshark is a house and techno artist, with 22 gigs on soundcheck across Kyoto. Often billed alongside droove, kimryo and kotakunisaki. Next up: West Harlem, Kyoto on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ kentaroshark is a house and techno artist, with 22 gigs on soundcheck across Kyo
 
 droove, kimryo, kotakunisaki
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kentaroshark/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kentaroshark/)*

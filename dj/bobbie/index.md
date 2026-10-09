@@ -1,6 +1,6 @@
 # BOBBIE*
 
-BOBBIE* is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Golden Pudel Club, Hamburg on Thu, 15 Oct 2026.
+BOBBIE* is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Golden Pudel Club, Hamburg on Thu, 15 Oct 2026.
 
 BOBBIE* is a techno and electro artist, with 28 gigs on soundcheck across Berlin, Düsseldorf and Hamburg. Often billed alongside Levente, La Carpio and Festnacht. Next up: Golden Pudel Club, Hamburg on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ BOBBIE* is a techno and electro artist, with 28 gigs on soundcheck across Berlin
 
 Levente, La Carpio, Festnacht
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbie/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbie/)*

@@ -1,8 +1,8 @@
 # Jo Mills
 
-Jo Mills is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 18 Oct 2026.
+Jo Mills is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 18 Oct 2026.
 
-Jo Mills is a house and deep house artist, with 28 gigs on soundcheck across Ibiza, London and Nottingham. Often billed alongside Guy Williams, Jason Bye and Andy Baxter. Next up: Pikes Ibiza, Ibiza on Sun 18 Oct.
+Jo Mills is a house and deep house artist based in United Kingdom, with 28 gigs on soundcheck across Ibiza, London and Nottingham. Often billed alongside Guy Williams, Jason Bye and Andy Baxter. Next up: Pikes Ibiza, Ibiza on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Jo Mills is a house and deep house artist, with 28 gigs on soundcheck across Ibi
 
 Guy Williams, Jason Bye, Andy Baxter
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jomills/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jomills/)*

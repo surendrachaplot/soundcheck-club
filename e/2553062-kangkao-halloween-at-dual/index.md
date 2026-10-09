@@ -1,6 +1,6 @@
-# Kangkao HALLOWEEN at Dual
+# Kangkao Halloween at Dual
 
-Kangkao HALLOWEEN at Dual on Sat 31 Oct, Bangkok. 5 artists: .g (TH), Krit Su, MOODYBOOM and Oho. and 1 more. House and Minimal Techno. See the line-up on soundcheck.
+Kangkao Halloween at Dual on Sat 31 Oct, Bangkok. 5 artists: .g (TH), Krit Su, MOODYBOOM and Oho. and 1 more. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

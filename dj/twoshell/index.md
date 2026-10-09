@@ -1,6 +1,6 @@
 # Two Shell
 
-Two Shell is a Techno and Experimental artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Het Rijk van de Keizer, Amsterdam on Fri, 23 Oct 2026.
+Two Shell is a Techno and Experimental artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Het Rijk van de Keizer, Amsterdam on Fri, 23 Oct 2026.
 
 Two Shell is a techno and experimental artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 29 more. Often billed alongside Ogazón, Avalon Emerson and Call Super. Next up: Het Rijk van de Keizer, Amsterdam on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ Two Shell is a techno and experimental artist based in United Kingdom, with 84 g
 
 Ogazón, Avalon Emerson, Call Super
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twoshell/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twoshell/)*

@@ -1,8 +1,8 @@
 # Ely Oaks
 
-Ely Oaks is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Akvárium Klub, Budapest on Fri, 16 Oct 2026.
+Ely Oaks is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Akvárium Klub, Budapest on Fri, 16 Oct 2026.
 
-Ely Oaks is a techno and house artist based in Austria, with 46 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 27 more. Often billed alongside Space 92, DAX J and HNTR. Next up: Akvárium Klub, Budapest on Fri 16 Oct.
+Ely Oaks is a techno and house artist based in Austria, with 48 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 29 more. Often billed alongside Space 92, DAX J and HNTR. Next up: Akvárium Klub, Budapest on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,8 @@ Ely Oaks is a techno and house artist based in Austria, with 46 gigs on soundche
 | Sat, 7 Nov 2026 | Q Nightclub | Seattle |
 | Wed, 11 Nov 2026 | Bauhaus | Houston |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
+| Fri, 12 Feb 2027 | The Independent | San-francisco-oakland |
+| Sat, 20 Feb 2027 | The Fruit | North-carolina |
 
 ## Recently played
 
@@ -34,4 +36,4 @@ Ely Oaks is a techno and house artist based in Austria, with 46 gigs on soundche
 
 Space 92, DAX J, HNTR
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elyoaks/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elyoaks/)*

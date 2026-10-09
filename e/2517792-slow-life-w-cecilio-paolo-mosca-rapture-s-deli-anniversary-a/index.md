@@ -1,11 +1,11 @@
-# Slow Life w/ Cecilio & Paolo Mosca + Rapture's Deli Anniversary at TBA - Miami
+# Slow Life w/ Cecilio & Paolo Mosca + Rapture's Deli Anniversary at Paraiso Estereo
 
-Slow Life w/ Cecilio & Paolo Mosca + Rapture's Deli Anniversary at TBA - Miami on Sat 10 Oct, Miami. 11 artists: Adam Bogdan, Boghian, Cecilio and Daizy and 7 more. House and Minimal. See the line-up on soundcheck.
+Slow Life w/ Cecilio & Paolo Mosca + Rapture's Deli Anniversary at Paraiso Estereo on Sat 10 Oct, Miami. 11 artists: Adam Bogdan, Boghian, Cecilio and Daizy and 7 more. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 10 Oct 2026 |
-| Venue | TBA - Miami |
+| Venue | Paraiso Estereo |
 | City | Miami |
 
 ## Line-up

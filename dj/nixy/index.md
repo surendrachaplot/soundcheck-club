@@ -1,6 +1,6 @@
 # Nixy
 
-Nixy is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Sigma, Ibiza on Sun, 25 Oct 2026.
+Nixy is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Sigma, Ibiza on Sun, 25 Oct 2026.
 
 Nixy is a techno and acid artist based in Spain, with 98 gigs on soundcheck across Ibiza, London and Madrid. Often billed alongside Pulpix, Trenzark and Nigabba. Next up: Sigma, Ibiza on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Nixy is a techno and acid artist based in Spain, with 98 gigs on soundcheck acro
 
 Pulpix, Trenzark, Nigabba
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nixy/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nixy/)*

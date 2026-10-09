@@ -1,6 +1,6 @@
 # Cherry - House & Disco - XOYO at XOYO
 
-Cherry - House & Disco - XOYO on Thu 5 Nov, London. 1 artist: BTAY. See the line-up on soundcheck.
+Cherry - House & Disco - XOYO on Thu 5 Nov, London. 1 artist: BTAY. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Darcy Mahady
 
-Darcy Mahady is a Dub Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Meteor Studio, Tbilisi on Fri, 9 Oct 2026.
+Darcy Mahady is a Dub Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Meteor Studio, Tbilisi on Fri, 9 Oct 2026.
 
 Darcy Mahady is a dub techno and acid artist based in Australia, with 13 gigs on soundcheck across Berlin, Melbourne and Tbilisi. Often billed alongside New Members, Tom Drew (UK) and Digabuna. Next up: Meteor Studio, Tbilisi on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Darcy Mahady is a dub techno and acid artist based in Australia, with 13 gigs on
 
 New Members, Tom Drew (UK), Digabuna
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darcymahady/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darcymahady/)*

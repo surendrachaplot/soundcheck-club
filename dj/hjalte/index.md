@@ -1,6 +1,6 @@
 # Hjalte
 
-Hjalte is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Romantica, Stuttgart on Tue, 13 Oct 2026.
+Hjalte is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Romantica, Stuttgart on Tue, 13 Oct 2026.
 
 Hjalte is a techno and house artist based in Germany, with 19 gigs on soundcheck across Stuttgart. Often billed alongside Stereo Visions, Anica and Loodas. Next up: Romantica, Stuttgart on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ Hjalte is a techno and house artist based in Germany, with 19 gigs on soundcheck
 
 Stereo Visions, Anica, Loodas
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hjalte/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hjalte/)*

@@ -1,6 +1,6 @@
 # IceLipzz
 
-IceLipzz is a Techno and Gabber artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
+IceLipzz is a Techno and Gabber artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
 
 IceLipzz is a techno and gabber artist based in Germany, with 17 gigs on soundcheck across Berlin, Hamburg, Manchester and Munich and 2 more. Often billed alongside LØUS, FLUCC and Osiris. Next up: OST, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ IceLipzz is a techno and gabber artist based in Germany, with 17 gigs on soundch
 
 LØUS, FLUCC, Osiris (2)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icelipzz/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icelipzz/)*

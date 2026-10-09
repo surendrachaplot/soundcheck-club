@@ -1,6 +1,6 @@
 # amore x radio radio | ADE night closing (12h) at Radio Radio
 
-amore x radio radio | ADE night closing (12h) at Radio Radio on Sun 25 Oct, Amsterdam. 6 artists: Bennet (DE), Berkan V8, Doran and Jasmín and 2 more. Techno and House. See the line-up on soundcheck.
+amore x radio radio | ADE night closing (12h) at Radio Radio on Sun 25 Oct, Amsterdam. 7 artists: Bennet (DE), Berkan V8, Doran and Gaudi and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ amore x radio radio | ADE night closing (12h) at Radio Radio on Sun 25 Oct, Amst
 - Bennet (DE)
 - Berkan V8
 - Doran
+- Gaudi (2)
 - Jasmín
 - Karina Schneider
 - Victor (DE)

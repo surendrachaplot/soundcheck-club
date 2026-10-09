@@ -1,14 +1,13 @@
 # Basing House
 
-Basing House is a music venue in London with 31 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "YOUR MUM'S HOUSE" on Thu, 8 Oct 2026.
+Basing House is a music venue in London with 30 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Ravers Uk x Jammer (limited capacity)" on Fri, 9 Oct 2026.
 
-Basing House is a music venue in London listed on soundcheck. 31 upcoming gigs, with line-ups including Alythia Kwan, Andy Moor, A-Sides and B3 and 2 more. See dates, start times and who's playing. 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom.
+Basing House is a music venue in London listed on soundcheck. 30 upcoming gigs, with line-ups including Alythia Kwan, Andy Moor, A-Sides and B3 and 2 more. See dates, start times and who's playing. 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | YOUR MUM'S HOUSE |  |
 | Fri, 9 Oct 2026 | Ravers Uk x Jammer (limited capacity) | B3, Beezo, Jammer, Mark Radford |
 | Sat, 10 Oct 2026 | Krush | B3, Jerome Six |
 | Thu, 15 Oct 2026 | YOUR MUM'S HOUSE |  |
@@ -18,9 +17,10 @@ Basing House is a music venue in London listed on soundcheck. 31 upcoming gigs, 
 | Sat, 24 Oct 2026 | RESONANCE LDN |  |
 | Sun, 25 Oct 2026 | Michael Mathers The Ultimate Eminem Tribute Live |  |
 | Wed, 28 Oct 2026 | Introspective EP Listening Party – ZYNR & Friends |  |
+| Thu, 29 Oct 2026 | YOUR MUM'S HOUSE: HALLOWEEN AT OURS |  |
 
 ## Address
 
 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom, London
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/basing-house/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/basing-house/)*

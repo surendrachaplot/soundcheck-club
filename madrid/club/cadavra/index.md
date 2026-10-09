@@ -1,6 +1,6 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 23 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Stojche & Tremul at Anfang" on Thu, 8 Oct 2026.
+Cadavra is a music venue in Madrid with 23 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "CDVR with Inland Knights" on Fri, 9 Oct 2026.
 
 Cadavra is a music venue in Madrid listed on soundcheck. 23 upcoming gigs, with line-ups including 2garlics, Abdulla A., Andy Martin and Anna Wall and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
@@ -8,7 +8,6 @@ Cadavra is a music venue in Madrid listed on soundcheck. 23 upcoming gigs, with 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Stojche & Tremul at Anfang | Stojche, Tremūl |
 | Fri, 9 Oct 2026 | CDVR with Inland Knights | Guarino, Inland Knights, Rafa Santos, Simon Garcia |
 | Sat, 10 Oct 2026 | TIME TO PANIC with Luisa | Denso, Ed Warner, Luisa, Valleyk, ildec |
 | Thu, 15 Oct 2026 | ANFANG FAM DAY | Irazu, Safia (2) |
@@ -18,9 +17,10 @@ Cadavra is a music venue in Madrid listed on soundcheck. 23 upcoming gigs, with 
 | Fri, 23 Oct 2026 | Sigh.CLUB with Fernando Costantini | Avo (ES), Cesc (ES), DANI RUBIO, DANIL0, Fernando Costantini, Mark (ES) |
 | Sat, 24 Oct 2026 | HOLLYWOOD with Diamin | Diamin, TWO EX |
 | Thu, 29 Oct 2026 | Ruman at ANFANG | Ruman, Unkle Fon |
+| Fri, 30 Oct 2026 | Phonotheque Showcase with Christian Bonanata, Oriana, J.C., Ces-Q, Aaliaga | Ces-Q, J.C., Oriana |
 
 ## Address
 
 C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*

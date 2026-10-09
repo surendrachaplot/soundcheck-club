@@ -1,6 +1,6 @@
 # Girls of the Internet
 
-Girls of the Internet is a Disco and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Kantine am Berghain, Berlin on Thu, 15 Oct 2026.
+Girls of the Internet is a Disco and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Kantine am Berghain, Berlin on Thu, 15 Oct 2026.
 
 Girls of the Internet is a disco and house artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Brighton and 15 more. Often billed alongside James Alexander Bright, The Shapeshifters and Melvo Baptiste. Next up: Kantine am Berghain, Berlin on Thu 15 Oct.
 
@@ -32,4 +32,4 @@ Girls of the Internet is a disco and house artist based in United Kingdom, with 
 
 James Alexander Bright, The Shapeshifters, Melvo Baptiste
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsoftheinternet/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsoftheinternet/)*

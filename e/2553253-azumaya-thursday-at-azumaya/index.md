@@ -1,10 +1,10 @@
 # Azumaya -Thursday- at Azumaya
 
-Azumaya -Thursday- on Sat 10 Oct, Tokyo. 1 artist: Hans Nieswandt. Techno and House. See the line-up on soundcheck.
+Azumaya -Thursday- on Thu 22 Oct, Tokyo. 1 artist: Hans Nieswandt. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 10 Oct 2026 |
+| Date | Thu, 22 Oct 2026 |
 | Venue | Azumaya |
 | City | Tokyo |
 

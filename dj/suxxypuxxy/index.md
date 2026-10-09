@@ -1,6 +1,6 @@
 # SUXXY PUXXY
 
-SUXXY PUXXY is a Reggaeton and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Hotel Vegas, Austin on Sat, 10 Oct 2026.
+SUXXY PUXXY is a Reggaeton and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Hotel Vegas, Austin on Sat, 10 Oct 2026.
 
 SUXXY PUXXY is a reggaeton and neo perreo artist based in Mexico, with 70 gigs on soundcheck across Austin, Mexico City and Portland. Often billed alongside DJ BAD APPLE, Ella Ella and Debit. Next up: Hotel Vegas, Austin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ SUXXY PUXXY is a reggaeton and neo perreo artist based in Mexico, with 70 gigs o
 
 DJ BAD APPLE, Ella Ella, Debit
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suxxypuxxy/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suxxypuxxy/)*

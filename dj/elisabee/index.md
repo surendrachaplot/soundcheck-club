@@ -1,6 +1,6 @@
 # Elisa Bee
 
-Elisa Bee is a Techno and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 10 Oct 2026.
+Elisa Bee is a Techno and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 10 Oct 2026.
 
 Elisa Bee is a techno and tech house artist based in Italy, with 70 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Central and 14 more. Often billed alongside Industrial Romantico, Acidalia and Alimac. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 10 Oct.
 
@@ -31,4 +31,4 @@ Elisa Bee is a techno and tech house artist based in Italy, with 70 gigs on soun
 
 Industrial Romantico, Acidalia, Alimac
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elisabee/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elisabee/)*

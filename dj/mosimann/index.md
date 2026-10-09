@@ -1,8 +1,8 @@
 # Mosimann
 
-Mosimann is a Electro and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at T7 Paris, Paris on Sat, 17 Oct 2026.
+Mosimann is a Electro and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at T7 Paris, Paris on Sat, 17 Oct 2026.
 
-Mosimann is an electro and techno artist based in France, with 21 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Geneva and 6 more. Often billed alongside Vladimir Cauchemar, Acid Arab and Agoria. Next up: T7 Paris, Paris on Sat 17 Oct.
+Mosimann is an electro and techno artist based in France, with 22 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Geneva and 7 more. Often billed alongside Vladimir Cauchemar, Acid Arab and Agoria. Next up: T7 Paris, Paris on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Mosimann is an electro and techno artist based in France, with 21 gigs on soundc
 | Sat, 17 Oct 2026 | T7 Paris | Paris |
 | Sun, 18 Oct 2026 | Zénith Paris - La Villette | Paris |
 | Sun, 18 Oct 2026 | Central Chapelle | Paris |
+| Thu, 15 Apr 2027 | Zénith de Strasbourg Vip Room | Strasbourg |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Mosimann is an electro and techno artist based in France, with 21 gigs on soundc
 
 Vladimir Cauchemar, Acid Arab, Agoria
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mosimann/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mosimann/)*

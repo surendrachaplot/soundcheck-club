@@ -1,6 +1,6 @@
 # Alírio
 
-Alírio is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Secret Location, Rio-de-janeiro on Fri, 9 Oct 2026.
+Alírio is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Secret Location, Rio-de-janeiro on Fri, 9 Oct 2026.
 
 Alírio is a house and techno artist based in Brazil, with 87 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Cashu, Tuxe and Kontronatura. Next up: TBA - Secret Location, Rio De Janeiro on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Alírio is a house and techno artist based in Brazil, with 87 gigs on soundcheck
 
 Cashu, Tuxe, Kontronatura
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alírio/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alírio/)*

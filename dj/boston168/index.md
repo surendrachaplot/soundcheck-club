@@ -1,13 +1,14 @@
 # Boston 168
 
-Boston 168 is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Le Brise Glace, East on Sat, 6 Feb 2027.
+Boston 168 is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Los Angeles, Los Angeles on Sat, 19 Dec 2026.
 
-Boston 168 is a techno and acid artist based in Italy, with 66 gigs on soundcheck across Antwerp, Athens, Barcelona and Belgrade and 24 more. Often billed alongside Ellen Allien, Shaleen and Regal. Next up: Le Brise Glace, East on Sat 6 Feb.
+Boston 168 is a techno and acid artist based in Italy, with 67 gigs on soundcheck across Antwerp, Athens, Barcelona and Belgrade and 24 more. Often billed alongside Ellen Allien, Shaleen and Regal. Next up: TBA - Los Angeles, Los Angeles on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Dec 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 6 Feb 2027 | Le Brise Glace | East |
 
 ## Recently played
@@ -25,4 +26,4 @@ Boston 168 is a techno and acid artist based in Italy, with 66 gigs on soundchec
 
 Ellen Allien, Shaleen, Regal
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boston168/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boston168/)*

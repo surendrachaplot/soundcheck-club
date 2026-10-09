@@ -1,13 +1,14 @@
 # Santos
 
-Santos is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Socore Factory, Osaka on Mon, 7 Dec 2026.
+Santos is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
-Santos is a techno and house artist based in Italy, with 13 gigs on soundcheck across Berlin, Detroit, Glasgow and Istanbul and 8 more. Often billed alongside Aiden (DE), Ale Acosta and Amo (IT). Next up: Socore Factory, Osaka on Mon 7 Dec.
+Santos is a techno and house artist based in Italy, with 14 gigs on soundcheck across Berlin, Budapest, Detroit and Glasgow and 9 more. Often billed alongside KRUELTY, Nico Moreno and Agents Of Time. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
 | Mon, 7 Dec 2026 | Socore Factory | Osaka |
 
 ## Recently played
@@ -23,6 +24,6 @@ Santos is a techno and house artist based in Italy, with 13 gigs on soundcheck a
 
 ## Shares bills with
 
-Aiden (DE), Ale Acosta, Amo (IT)
+KRUELTY, Nico Moreno, Agents Of Time
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santositaly/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santositaly/)*

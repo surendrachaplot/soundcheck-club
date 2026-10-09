@@ -1,6 +1,6 @@
 # Xiorro
 
-Xiorro is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Meet Berlage, Amsterdam on Sat, 24 Oct 2026.
+Xiorro is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Meet Berlage, Amsterdam on Sat, 24 Oct 2026.
 
 Xiorro is a techno and house artist based in United States of America, with 84 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Boston and 25 more. Often billed alongside Laure Croft, Parallx and Disguised. Next up: Meet Berlage, Amsterdam on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Xiorro is a techno and house artist based in United States of America, with 84 g
 
 Laure Croft, Parallx, Disguised
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xiorro/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xiorro/)*

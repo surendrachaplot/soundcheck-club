@@ -1,6 +1,6 @@
 # Furotica
 
-Furotica is a Italo Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Prisma, Berlin on Sat, 10 Oct 2026.
+Furotica is a Italo Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Prisma, Berlin on Sat, 10 Oct 2026.
 
 Furotica is an italo disco and techno artist based in Argentina, with 16 gigs on soundcheck across Barcelona, Berlin, Strasbourg and Stuttgart. Often billed alongside Ric Piccolo, Franz Scala and Feel .MA. Next up: Prisma, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Furotica is an italo disco and techno artist based in Argentina, with 16 gigs on
 
 Ric Piccolo, Franz Scala, Feel .MA
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/furotica/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/furotica/)*

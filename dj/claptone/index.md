@@ -1,8 +1,8 @@
 # Claptone
 
-Claptone is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Marina Bay Sands, Singapore on Fri, 9 Oct 2026.
+Claptone is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Marina Bay Sands, Singapore on Fri, 9 Oct 2026.
 
-Claptone is a house and tech house artist based in Germany, with 241 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 58 more. Often billed alongside DIEGO SAN DIEGO, Ferreck Dawn and Hannah Wants. Next up: Marina Bay Sands, Singapore on Fri 9 Oct.
+Claptone is a house and tech house artist based in Germany, with 242 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 59 more. Often billed alongside DIEGO SAN DIEGO, Ferreck Dawn and Hannah Wants. Next up: Marina Bay Sands, Singapore on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Claptone is a house and tech house artist based in Germany, with 241 gigs on sou
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Marina Bay Sands | Singapore |
 | Fri, 9 Oct 2026 | Mi Pueblito Afroantillano | Panama |
+| Sat, 10 Oct 2026 | TBA - Lurin live | Peru |
 | Sun, 11 Oct 2026 | Chinois Ibiza | Ibiza |
 | Sat, 31 Oct 2026 | Parc del Fòrum | Barcelona |
 | Fri, 6 Nov 2026 | Butlin's Skegness Resort | Midlands |
@@ -19,7 +20,6 @@ Claptone is a house and tech house artist based in Germany, with 241 gigs on sou
 | Sat, 16 Jan 2027 | Sydney Showgrounds | Sydney |
 | Fri, 22 Jan 2027 | Eatons Hill Hotel and Function Centre | Brisbane |
 | Sat, 23 Jan 2027 | Melbourne Showgrounds | Melbourne |
-| Wed, 17 Mar 2027 | Happy Bay Beach | Saint-martin |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Claptone is a house and tech house artist based in Germany, with 241 gigs on sou
 
 DIEGO SAN DIEGO, Ferreck Dawn, Hannah Wants
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*

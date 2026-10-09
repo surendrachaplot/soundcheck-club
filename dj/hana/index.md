@@ -1,6 +1,6 @@
 # Hana
 
-Hana is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at UNO MALTA, Malta on Thu, 8 Oct 2026.
+Hana is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at UNO MALTA, Malta on Thu, 8 Oct 2026.
 
 Hana is a techno and deep house artist based in Netherlands, with 29 gigs on soundcheck across Ibiza, London, Malta and Melbourne and 12 more. Often billed alongside Marsh, Romain Garcia and CRi. Next up: UNO MALTA, Malta on Thu 8 Oct.
 
@@ -12,6 +12,7 @@ Hana is a techno and deep house artist based in Netherlands, with 29 gigs on sou
 
 ## Recently played
 
+- UNO MALTA, Malta · Thu, 8 Oct 2026
 - Chinois Ibiza, Ibiza · Tue, 15 Sept 2026
 - Old Royal Naval College, London · Sun, 9 Aug 2026
 - Silverworks Island, London · Sat, 27 Jun 2026
@@ -19,10 +20,9 @@ Hana is a techno and deep house artist based in Netherlands, with 29 gigs on sou
 - COUNTER CLUB, Tokyo · Sun, 22 Mar 2026
 - Superior Ingredients, New York City · Sun, 11 Jan 2026
 - The Cause, London · Sat, 6 Dec 2025
-- Piknic Électronik / Parc Jean Drapeau, Montreal · Sat, 5 Jul 2025
 
 ## Shares bills with
 
 Marsh, Romain Garcia, CRi
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hana/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hana/)*

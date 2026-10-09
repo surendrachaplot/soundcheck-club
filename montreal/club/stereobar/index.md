@@ -1,6 +1,6 @@
 # StereoBar
 
-StereoBar is a music venue in Montreal with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Stban - Julian Prince" on Fri, 9 Oct 2026.
+StereoBar is a music venue in Montreal with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Stban - Julian Prince" on Fri, 9 Oct 2026.
 
 StereoBar is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, with line-ups including Bodaishin, Crescenzo, Dust-E-1 and Julian Prince and 2 more. See dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
 
@@ -21,4 +21,4 @@ StereoBar is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, wi
 
 856 Saint Catherine East, Montreal, Quebec, H2L2E3, Montreal
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*

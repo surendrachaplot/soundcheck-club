@@ -1,6 +1,6 @@
 # One Million Toys
 
-One Million Toys is a electronic artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA, Victoria on Fri, 30 Oct 2026.
+One Million Toys is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA, Victoria on Fri, 30 Oct 2026.
 
 One Million Toys is an electronic artist based in Israel, with 2 gigs on soundcheck across Morelos and Victoria. Often billed alongside Act One, Alex Stein and Antix. Next up: TBA, Victoria on Fri 30 Oct.
 
@@ -15,4 +15,4 @@ One Million Toys is an electronic artist based in Israel, with 2 gigs on soundch
 
 Act One, Alex Stein, Antix
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onemilliontoys/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onemilliontoys/)*

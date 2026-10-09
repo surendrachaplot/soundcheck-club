@@ -1,8 +1,8 @@
 # Poolen
 
-Poolen is a music venue in Copenhagen with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Benny Benassi" on Sat, 10 Oct 2026.
+Poolen is a music venue in Copenhagen with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Benny Benassi" on Sat, 10 Oct 2026.
 
-Poolen is a music venue in Copenhagen listed on soundcheck. 9 upcoming gigs, with line-ups including ARANEA, Benny Benassi, Coone and DJ Heartstring and 2 more. See dates, start times and who's playing. Refshalevej 189, 1432 Copenhagen, Denmark.
+Poolen is a music venue in Copenhagen listed on soundcheck. 10 upcoming gigs, with line-ups including ARANEA, Benny Benassi, Coone and DJ Heartstring and 2 more. See dates, start times and who's playing. Refshalevej 189, 1432 Copenhagen, Denmark.
 
 ## What's on
 
@@ -17,9 +17,10 @@ Poolen is a music venue in Copenhagen listed on soundcheck. 9 upcoming gigs, wit
 | Sat, 28 Nov 2026 | Sub Zero Project | Coone |
 | Fri, 11 Dec 2026 | Boiler Room Copenhagen |  |
 | Fri, 18 Dec 2026 | Teletech Copenhagen: KIRSTY + ARANEA + Samuel Moreiro + Vieze Azbak | ARANEA, KIRSTY, Samuel Moriero (2), Vieze Asbak |
+| Wed, 24 Mar 2027 | ¥ØU$UK€ ¥UK1MAT$U (Yousuke Yukimatsu) | ¥ØU$UK€ ¥UK1MAT$U |
 
 ## Address
 
 Refshalevej 189, 1432 Copenhagen, Denmark, Copenhagen
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/poolen/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/poolen/)*

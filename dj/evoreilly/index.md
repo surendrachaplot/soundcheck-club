@@ -1,6 +1,6 @@
 # Ev O'Reilly
 
-Ev O'Reilly is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Gorg-O-Mish, Vancouver on Fri, 9 Oct 2026.
+Ev O'Reilly is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Gorg-O-Mish, Vancouver on Fri, 9 Oct 2026.
 
 Ev O'Reilly is a house and minimal artist based in Ireland, with 28 gigs on soundcheck across Vancouver. Often billed alongside Lalo Campo, miniski and dj_2button. Next up: Gorg-O-Mish, Vancouver on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Ev O'Reilly is a house and minimal artist based in Ireland, with 28 gigs on soun
 
 Lalo Campo, miniski, dj_2button
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evoreilly/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evoreilly/)*

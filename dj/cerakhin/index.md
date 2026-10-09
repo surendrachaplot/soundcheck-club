@@ -1,6 +1,6 @@
 # Cera Khin
 
-Cera Khin is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Fabrik, Madrid on Sun, 11 Oct 2026.
+Cera Khin is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Fabrik, Madrid on Sun, 11 Oct 2026.
 
 Cera Khin is a techno and house artist based in Tunisia, with 184 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belfast and 56 more. Often billed alongside Clara Cuvé, Shlømo and Charlie Sparks. Next up: Fabrik, Madrid on Sun 11 Oct.
 
@@ -32,4 +32,4 @@ Cera Khin is a techno and house artist based in Tunisia, with 184 gigs on soundc
 
 Clara Cuvé, Shlømo, Charlie Sparks
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cerakhin/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cerakhin/)*

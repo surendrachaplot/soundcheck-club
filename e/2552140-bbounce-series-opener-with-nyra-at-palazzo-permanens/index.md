@@ -1,6 +1,6 @@
 # BBOUNCE Series Opener with NYRA at Palazzo Permanens
 
-BBOUNCE Series Opener with NYRA at Palazzo Permanens on Thu 22 Oct, Budapest. 2 artists: CRIME and NYRA (DE). Techno. See the line-up on soundcheck.
+BBOUNCE Series Opener with NYRA at Palazzo Permanens on Thu 22 Oct, Budapest. 3 artists: CRIME, NYRA (DE) and Raijin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ BBOUNCE Series Opener with NYRA at Palazzo Permanens on Thu 22 Oct, Budapest. 2 
 
 - CRIME
 - NYRA (DE)
+- Raijin
 
 *Source: [soundcheck](https://soundcheck.club/e/2552140-bbounce-series-opener-with-nyra-at-palazzo-permanens/)*

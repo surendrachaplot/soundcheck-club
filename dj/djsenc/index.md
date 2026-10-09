@@ -1,6 +1,6 @@
 # DJ Senc
 
-DJ Senc is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Tenuta Tor De' Sordi, Rome on Sat, 10 Oct 2026.
+DJ Senc is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Tenuta Tor De' Sordi, Rome on Sat, 10 Oct 2026.
 
 DJ Senc is a house and tech house artist based in Italy, with 139 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 27 more. Often billed alongside Samuel Deep, Doudou MD and E.LINA. Next up: Tenuta Tor De' Sordi, Rome on Sat 10 Oct.
 
@@ -14,7 +14,7 @@ DJ Senc is a house and tech house artist based in Italy, with 139 gigs on soundc
 | Sat, 24 Oct 2026 | Klaproos | Amsterdam |
 | Sat, 31 Oct 2026 | La Cale Rabat | Morocco |
 | Thu, 5 Nov 2026 | One Resort | Tunisia |
-| Fri, 6 Nov 2026 | Fvtvr | Paris |
+| Fri, 6 Nov 2026 | FVTVR | Paris |
 | Sat, 28 Nov 2026 | NOWHERE | Manchester |
 | Sat, 28 Nov 2026 | The Loft | Manchester |
 | Thu, 21 Jan 2027 | Soundscapes Zanzi | Tanzania |
@@ -34,4 +34,4 @@ DJ Senc is a house and tech house artist based in Italy, with 139 gigs on soundc
 
 Samuel Deep, Doudou MD, E.LINA
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsenc/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsenc/)*

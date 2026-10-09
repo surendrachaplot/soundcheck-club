@@ -1,6 +1,6 @@
 # KOLAK
 
-KOLAK is a Footwork and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Social Room, Hong Kong on Fri, 16 Oct 2026.
+KOLAK is a Footwork and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Social Room, Hong Kong on Fri, 16 Oct 2026.
 
 KOLAK is a footwork and bass artist based in China, with 19 gigs on soundcheck across Hong Kong. Often billed alongside Sonicmon, 100%WONG and Shelf-Index. Next up: Social Room, Hong Kong on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ KOLAK is a footwork and bass artist based in China, with 19 gigs on soundcheck a
 
 Sonicmon, 100%WONG, Shelf-Index
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kolak/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kolak/)*

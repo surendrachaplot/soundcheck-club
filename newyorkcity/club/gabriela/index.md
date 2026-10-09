@@ -1,14 +1,13 @@
 # Gabriela
 
-Gabriela is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "ROMANCE w Eli Escobar" on Thu, 8 Oct 2026.
+Gabriela is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Boombox // ALL NIGHT LONG" on Fri, 9 Oct 2026.
 
-Gabriela is a music venue in New York City listed on soundcheck. 13 upcoming gigs, with line-ups including Amber Valentine, Eli Escobar, G I N A and JDH and 2 more. See dates, start times and who's playing. 90 Wythe Ave, Brooklyn, NY 11249.
+Gabriela is a music venue in New York City listed on soundcheck. 12 upcoming gigs, with line-ups including Amber Valentine, Eli Escobar, G I N A and JDH and 2 more. See dates, start times and who's playing. 90 Wythe Ave, Brooklyn, NY 11249.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | ROMANCE w Eli Escobar | Eli Escobar |
 | Fri, 9 Oct 2026 | Boombox // ALL NIGHT LONG |  |
 | Sat, 10 Oct 2026 | Mike Simonetti // ALL NIGHT LONG | Mike Simonetti |
 | Sun, 11 Oct 2026 | TIKI AFTERS w FIXED | JDH |
@@ -18,9 +17,10 @@ Gabriela is a music venue in New York City listed on soundcheck. 13 upcoming gig
 | Thu, 22 Oct 2026 | ROMANCE w Eli Escobar | Eli Escobar |
 | Fri, 23 Oct 2026 | G I N A // ALL NIGHT LONG | G I N A |
 | Sat, 24 Oct 2026 | Justin Strauss // ALL NIGHT LONG | Justin Strauss |
+| Thu, 29 Oct 2026 | ROMANCE w Eli Escobar | Eli Escobar |
 
 ## Address
 
 90 Wythe Ave, Brooklyn, NY 11249, New York City
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/gabriela/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/gabriela/)*

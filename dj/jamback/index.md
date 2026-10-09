@@ -1,8 +1,8 @@
 # Jamback
 
-Jamback is a House and Tech House artist with 26 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Sun, 11 Oct 2026.
+Jamback is a House and Tech House artist with 27 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Sun, 11 Oct 2026.
 
-Jamback is a house and tech house artist based in Netherlands, with 202 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 42 more. Often billed alongside East End Dubs, Marsolo and Rossi. Next up: INPUT High Fidelity Dance Club, Barcelona on Sun 11 Oct.
+Jamback is a house and tech house artist based in Netherlands, with 203 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 43 more. Often billed alongside East End Dubs, Marsolo and Rossi. Next up: INPUT High Fidelity Dance Club, Barcelona on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Jamback is a house and tech house artist based in Netherlands, with 202 gigs on 
 | Fri, 16 Oct 2026 | NX Newcastle | Newcastle |
 | Sat, 17 Oct 2026 | Depot | Cardiff |
 | Sat, 17 Oct 2026 | Circuit | South-east |
+| Fri, 23 Oct 2026 | Taets Art and Event Park | Netherlands |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 | Sun, 25 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Fri, 30 Oct 2026 | Art Club | Houston |
@@ -19,7 +20,6 @@ Jamback is a house and tech house artist based in Netherlands, with 202 gigs on 
 | Sat, 31 Oct 2026 | Club Space Miami | Miami |
 | Sat, 7 Nov 2026 | Blackstone Street Warehouse | Liverpool |
 | Sat, 7 Nov 2026 | Blackstone Street Warehouse | Liverpool |
-| Sat, 7 Nov 2026 | Amber's | Manchester |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Jamback is a house and tech house artist based in Netherlands, with 202 gigs on 
 
 East End Dubs, Marsolo, Rossi
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*

@@ -1,8 +1,8 @@
 # co:co
 
-co:co is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at ://about blank, Berlin on Fri, 9 Oct 2026.
+co:co is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at ://about blank, Berlin on Fri, 9 Oct 2026.
 
-co:co is a techno and trance artist based in Germany, with 55 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside AKIIM, SPORTMANN and Elon Bass. Next up: ://about blank, Berlin on Fri 9 Oct.
+co:co is a techno and trance artist based in Germany, with 57 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside AKIIM, SPORTMANN and Elon Bass. Next up: ://about blank, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,8 +10,10 @@ co:co is a techno and trance artist based in Germany, with 55 gigs on soundcheck
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | ://about blank | Berlin |
 | Sat, 17 Oct 2026 | WDM | Hannover |
+| Sat, 24 Oct 2026 | WDM | Hannover |
 | Sat, 31 Oct 2026 | TBA | Hamburg |
 | Sat, 14 Nov 2026 | MTW | Frankfurt |
+| Sat, 21 Nov 2026 | WDM | Hannover |
 
 ## Recently played
 
@@ -28,4 +30,4 @@ co:co is a techno and trance artist based in Germany, with 55 gigs on soundcheck
 
 AKIIM, SPORTMANN, Elon Bass
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/co-co/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/co-co/)*

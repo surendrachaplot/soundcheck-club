@@ -1,6 +1,6 @@
 # Schatzï
 
-Schatzï is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Grandangolo, Rome on Sat, 10 Oct 2026.
+Schatzï is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Grandangolo, Rome on Sat, 10 Oct 2026.
 
 Schatzï is a house and electronica artist based in Italy, with 18 gigs on soundcheck across Berlin, Madrid, Milan and Paris and 1 more. Often billed alongside Oceanwax, Coni and Jason K (IT). Next up: Grandangolo, Rome on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Schatzï is a house and electronica artist based in Italy, with 18 gigs on sound
 
 Oceanwax, Coni (2), Jason K (IT)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schatzï/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schatzï/)*

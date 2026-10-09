@@ -1,14 +1,13 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "The Occasional Thursday Party with London Elektricity" on Thu, 8 Oct 2026.
+Marble Bar is a music venue in Detroit with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Rick Wade with Keith Worthy & Curmudgeon" on Fri, 9 Oct 2026.
 
-Marble Bar is a music venue in Detroit listed on soundcheck. 10 upcoming gigs, with line-ups including AIDEL, Audion, Auntie Chanel and BRALLE and 2 more. See dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
+Marble Bar is a music venue in Detroit listed on soundcheck. 9 upcoming gigs, with line-ups including AIDEL, Audion, Auntie Chanel and BRALLE and 2 more. See dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | The Occasional Thursday Party with London Elektricity | London Elektricity, Pat Osiris, Roque Ybarra, XVEVESX |
 | Fri, 9 Oct 2026 | Rick Wade with Keith Worthy & Curmudgeon | Curmudgeon, Keith Worthy, Rick Wade |
 | Sat, 10 Oct 2026 | ANGLS | AIDEL, Earlll, Planet KaiA, Syd, mirepoix |
 | Sat, 10 Oct 2026 | ANGLS | AIDEL, Earlll, Planet KaiA, Syd (2), mirepoix |
@@ -23,4 +22,4 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 10 upcoming gigs, w
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

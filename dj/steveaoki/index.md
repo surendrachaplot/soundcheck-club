@@ -1,6 +1,6 @@
 # Steve Aoki
 
-Steve Aoki is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Steve Aoki is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Steve Aoki is a house and electro artist based in United States of America, with 66 gigs on soundcheck across Austin, Barcelona, Boston and Budapest and 23 more. Often billed alongside Dimitri Vegas & Like Mike, Alesso and Alok. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Steve Aoki is a house and electro artist based in United States of America, with
 
 Dimitri Vegas & Like Mike, Alesso, Alok
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steveaoki/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steveaoki/)*

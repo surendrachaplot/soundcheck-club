@@ -1,6 +1,6 @@
 # Juan Maclean
 
-Juan Maclean is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Open Air Club, New York City on Fri, 9 Oct 2026.
+Juan Maclean is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Open Air Club, New York City on Fri, 9 Oct 2026.
 
 Juan Maclean is a house and disco artist based in United States of America, with 69 gigs on soundcheck across Austin, Barcelona, Boston and Chicago and 19 more. Often billed alongside Matthew Dear, Gee Dee and Kate Stein. Next up: Open Air Club, New York City on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Juan Maclean is a house and disco artist based in United States of America, with
 
 Matthew Dear, Gee Dee, Kate Stein
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanmaclean/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanmaclean/)*

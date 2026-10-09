@@ -1,6 +1,6 @@
 # Danilo Kupfernagel
 
-Danilo Kupfernagel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Beate Uwe, Berlin on Sat, 17 Oct 2026.
+Danilo Kupfernagel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Beate Uwe, Berlin on Sat, 17 Oct 2026.
 
 Danilo Kupfernagel is a techno and house artist based in Germany, with 68 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside LEENI, Mollono.Bass and Jpattersson. Next up: Beate Uwe, Berlin on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Danilo Kupfernagel is a techno and house artist based in Germany, with 68 gigs o
 
 LEENI, Mollono.Bass, Jpattersson
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danilokupfernagel/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danilokupfernagel/)*

@@ -1,23 +1,23 @@
 # Lacchesi
 
-Lacchesi is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at essaim, Paris on Thu, 8 Oct 2026.
+Lacchesi is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Krftwrk, Odense on Sat, 10 Oct 2026.
 
-Lacchesi is a techno and trance artist based in France, with 172 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 48 more. Often billed alongside Lorenzo Lacchesi, Mac Declos and Laure Croft. Next up: essaim, Paris on Thu 8 Oct.
+Lacchesi is a techno and trance artist based in France, with 172 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 48 more. Often billed alongside Lorenzo Lacchesi, Mac Declos and Laure Croft. Next up: Krftwrk, Odense on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | essaim | Paris |
 | Sat, 10 Oct 2026 | Krftwrk | Odense |
 | Sat, 17 Oct 2026 | Circolo Amelia | Milan |
 | Fri, 23 Oct 2026 | BASEMENT | New York City |
-| Sun, 25 Oct 2026 | Levenslang Amsterdam | Amsterdam |
+| Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 20 Nov 2026 | Schrotty | Cologne |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 
 ## Recently played
 
+- essaim, Paris · Thu, 8 Oct 2026
 - FOLD, London · Sat, 3 Oct 2026
 - Grelle Forelle, Vienna · Fri, 18 Sept 2026
 - Astoria, Turin · Fri, 11 Sept 2026
@@ -25,10 +25,9 @@ Lacchesi is a techno and trance artist based in France, with 172 gigs on soundch
 - Tresor / Globus, Berlin · Fri, 31 Jul 2026
 - The White Hotel, Manchester · Sat, 25 Jul 2026
 - Unité.22, Marseille · Fri, 24 Jul 2026
-- Union Park, Chicago · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Lorenzo Lacchesi, Mac Declos, Laure Croft
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lacchesi/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lacchesi/)*

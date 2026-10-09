@@ -1,14 +1,15 @@
 # Freja
 
-Freja is a Grime and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Ministry Of Sound, London on Sat, 17 Oct 2026.
+Freja is a Grime and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Ministry Of Sound, London on Sat, 17 Oct 2026.
 
-Freja is a grime and hardcore artist based in United Kingdom, with 30 gigs on soundcheck across London. Often billed alongside Nio-B, MIDRIB and Judas. Next up: Ministry Of Sound, London on Sat 17 Oct.
+Freja is a grime and dubstep artist based in United Kingdom, with 31 gigs on soundcheck across London. Often billed alongside Nio-B, MIDRIB and Judas. Next up: Ministry Of Sound, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Ministry Of Sound | London |
+| Fri, 30 Oct 2026 | Planet Wax | London |
 | Sat, 31 Oct 2026 | The Cause | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Freja is a grime and hardcore artist based in United Kingdom, with 30 gigs on so
 
 Nio-B, MIDRIB, Judas
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freja/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freja/)*

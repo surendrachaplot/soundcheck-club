@@ -1,6 +1,6 @@
 # Rodriguez Jr.
 
-Rodriguez Jr. is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - La Biblioteca, San Telmo, Buenos Aires on Fri, 9 Oct 2026.
+Rodriguez Jr. is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - La Biblioteca, San Telmo, Buenos Aires on Fri, 9 Oct 2026.
 
 Rodriguez Jr. is a house and techno artist based in United States of America, with 134 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 41 more. Often billed alongside Nick Warren, Ralf Kollmann and ARODES. Next up: TBA - La Biblioteca, San Telmo, Buenos Aires on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ Rodriguez Jr. is a house and techno artist based in United States of America, wi
 
 Nick Warren, Ralf Kollmann, ARODES
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodriguezjr/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodriguezjr/)*

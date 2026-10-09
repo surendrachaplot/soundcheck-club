@@ -1,8 +1,8 @@
 # Akasha Las Dalias Club - Ibiza
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 29 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Tales Of The Unexpected" on Fri, 9 Oct 2026.
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 30 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Tales Of The Unexpected" on Fri, 9 Oct 2026.
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 29 upcoming gigs, with line-ups including Alfonso Ares, Audera, BOHEM and Cameron Jack and 2 more. See dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 30 upcoming gigs, with line-ups including Alfonso Ares, Audera, BOHEM and Cameron Jack and 2 more. See dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
 
 ## What's on
 
@@ -23,4 +23,4 @@ Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 2
 
 Carretera San Carlos Km 12, Ibiza, Spain 07850., Ibiza
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/akasha-las-dalias-club-ibiza/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/akasha-las-dalias-club-ibiza/)*

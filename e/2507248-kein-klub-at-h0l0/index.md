@@ -1,6 +1,6 @@
 # KEIN KLUB at H0L0
 
-KEIN KLUB at H0L0 on Fri 6 Nov, New York City. 2 artists: Kendal and Martyn. Bass and EBM. See the line-up on soundcheck.
+KEIN KLUB at H0L0 on Fri 6 Nov, New York City. 5 artists: Kendal, Ksenyeah, Manguito and Martyn and 1 more. Bass and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,9 @@ KEIN KLUB at H0L0 on Fri 6 Nov, New York City. 2 artists: Kendal and Martyn. Bas
 ## Line-up
 
 - Kendal
+- Ksenyeah
+- Manguito
 - Martyn
+- rrao
 
 *Source: [soundcheck](https://soundcheck.club/e/2507248-kein-klub-at-h0l0/)*

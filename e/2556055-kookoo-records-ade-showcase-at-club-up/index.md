@@ -1,6 +1,6 @@
-# KOOKOO Records ADE Showcase at Club Up
+# KOOKOO RECORDS ADE Showcase at Club Up
 
-KOOKOO Records ADE Showcase at Club Up on Thu 22 Oct, Amsterdam. 4 artists: A Little Bit Orange, CHANEY, Manuel Falardeau and The Director. See the line-up on soundcheck.
+KOOKOO RECORDS ADE Showcase at Club Up on Thu 22 Oct, Amsterdam. 4 artists: A Little Bit Orange, CHANEY, Manuel Falardeau and The Director. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

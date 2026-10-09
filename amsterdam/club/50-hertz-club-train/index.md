@@ -1,6 +1,6 @@
 # 50:Hertz Club Train
 
-50:Hertz Club Train is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "50:HERTZ CLUB TRAIN - Night Trip with SUMMERIANS x LIV" on Wed, 21 Oct 2026.
+50:Hertz Club Train is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "50:HERTZ CLUB TRAIN - Night Trip with SUMMERIANS x LIV" on Wed, 21 Oct 2026.
 
 50:Hertz Club Train is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Yulia Niko, African Stevenson, Alias33 and AMARE and 2 more. See dates, start times and who's playing. Stationsplein 15, Amsterdam.
 
@@ -22,4 +22,4 @@
 
 Stationsplein 15, Amsterdam, Amsterdam
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/50-hertz-club-train/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/50-hertz-club-train/)*

@@ -1,6 +1,6 @@
 # Marco Carola b2b PAWSA - Pacha Open-Air Season Closing at Pacha New York
 
-Marco Carola b2b PAWSA - Pacha Open-Air Season Closing at Pacha New York on Sun 18 Oct, New York City. 2 artists: Marco Carola and PAWSA. See the line-up on soundcheck.
+Marco Carola b2b PAWSA - Pacha Open-Air Season Closing at Pacha New York on Sun 18 Oct, New York City. 4 artists: Ale De Tuglie, Locky, Marco Carola and PAWSA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Marco Carola b2b PAWSA - Pacha Open-Air Season Closing at Pacha New York on Sun 
 
 ## Line-up
 
+- Ale De Tuglie
+- Locky
 - Marco Carola
 - PAWSA
 

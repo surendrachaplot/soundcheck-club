@@ -1,14 +1,15 @@
 # NDNA
 
-NDNA is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Fri, 23 Oct 2026.
+NDNA is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Fri, 23 Oct 2026.
 
-NDNA is a techno and tech house artist, with 14 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside BOHO, Miss Unleashed and Barbur. Next up: 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Fri 23 Oct.
+NDNA is a techno and tech house artist, with 15 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside BOHO, Miss Unleashed and Barbur. Next up: 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | 50:Hertz House & Techno Club Rembrandt Square | Amsterdam |
+| Fri, 6 Nov 2026 | Weekend | Berlin |
 | Sat, 5 Dec 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ NDNA is a techno and tech house artist, with 14 gigs on soundcheck across Amster
 
 BOHO, Miss Unleashed, Barbur
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ndna/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ndna/)*

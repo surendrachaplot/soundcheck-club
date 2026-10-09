@@ -1,14 +1,15 @@
 # Peace Control
 
-Peace Control is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at The Church Nightclub, Denver on Sat, 10 Oct 2026.
+Peace Control is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Church Nightclub, Denver on Sat, 10 Oct 2026.
 
-Peace Control is a house and afro house artist based in United States of America, with 52 gigs on soundcheck across Amsterdam, Austin, Buenos Aires and Chicago and 18 more. Often billed alongside Francis Mercier, Marten Lou and Bontan. Next up: The Church Nightclub, Denver on Sat 10 Oct.
+Peace Control is a house and afro house artist based in United States of America, with 53 gigs on soundcheck across Amsterdam, Austin, Buenos Aires and Chicago and 19 more. Often billed alongside Francis Mercier, Marten Lou and Bontan. Next up: The Church Nightclub, Denver on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | The Church Nightclub | Denver |
+| Sat, 10 Oct 2026 | TBA - Lurin live | Peru |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Peace Control is a house and afro house artist based in United States of America
 
 Francis Mercier, Marten Lou, Bontan
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peacecontrol/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peacecontrol/)*

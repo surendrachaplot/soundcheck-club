@@ -1,6 +1,6 @@
 # bratklub Rave 4.0 // Bratsylvania at TBA
 
-bratklub Rave 4.0 // Bratsylvania at TBA on Fri 30 Oct, Glasgow. 1 artist: RXVEGRL. Techno and House. See the line-up on soundcheck.
+bratklub Rave 4.0 // Bratsylvania at TBA on Fri 30 Oct, Glasgow. 3 artists: Joe Morrison, RXVEGRL and saparilla. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ bratklub Rave 4.0 // Bratsylvania at TBA on Fri 30 Oct, Glasgow. 1 artist: RXVEG
 
 ## Line-up
 
+- Joe Morrison
 - RXVEGRL
+- saparilla
 
 *Source: [soundcheck](https://soundcheck.club/e/2537826-bratklub-rave-4-0-bratsylvania-at-tba/)*

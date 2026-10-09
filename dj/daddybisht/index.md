@@ -1,6 +1,6 @@
 # Daddybisht
 
-Daddybisht is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
+Daddybisht is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
 
 Daddybisht is a house and techno artist based in Palestine, with 10 gigs on soundcheck across Barcelona, Berlin, Boston and Lisbon and 4 more. Often billed alongside DJ Senc, JO SZT and KARBONI. Next up: Soundscapes Zanzi, Tanzania on Thu 21 Jan.
 
@@ -25,4 +25,4 @@ Daddybisht is a house and techno artist based in Palestine, with 10 gigs on soun
 
 DJ Senc, JO SZT, KARBONI
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daddybisht/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daddybisht/)*

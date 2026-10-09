@@ -1,6 +1,6 @@
 # Saffron Stone
 
-Saffron Stone is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at E1, London on Sat, 17 Oct 2026.
+Saffron Stone is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at E1, London on Sat, 17 Oct 2026.
 
 Saffron Stone is a tech house and house artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Liverpool and 6 more. Often billed alongside Saffron, Sonny Fodera and Danny Howard. Next up: E1, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Saffron Stone is a tech house and house artist based in United Kingdom, with 34 
 
 Saffron, Sonny Fodera, Danny Howard
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saffronstone/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saffronstone/)*

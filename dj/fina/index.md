@@ -1,6 +1,6 @@
 # Fina
 
-Fina is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Salon Palomilla, Mexico City on Sun, 1 Nov 2026.
+Fina is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Salon Palomilla, Mexico City on Sun, 1 Nov 2026.
 
 Fina is a house and techno artist based in Mexico, with 15 gigs on soundcheck across Barcelona and Mexico City. Often billed alongside Fig (DYN), Toledano and Vanilla Storm. Next up: Salon Palomilla, Mexico City on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Fina is a house and techno artist based in Mexico, with 15 gigs on soundcheck ac
 
 Fig (DYN), Toledano, Vanilla Storm
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fina/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fina/)*

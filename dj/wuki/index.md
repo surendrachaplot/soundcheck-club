@@ -1,13 +1,15 @@
 # Wuki
 
-Wuki is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at The Bellwether, Los Angeles on Fri, 6 Nov 2026.
+Wuki is a House and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Ramona Ave Landing, Sacramento on Fri, 16 Oct 2026.
 
-Wuki is a house and bass artist based in United States of America, with 30 gigs on soundcheck across Austin, Boston, Budapest and Chicago and 12 more. Often billed alongside Azzecca, Dillon Francis and Kyle Watson. Next up: The Bellwether, Los Angeles on Fri 6 Nov.
+Wuki is a house and bass artist based in United States of America, with 32 gigs on soundcheck across Austin, Boston, Budapest and Chicago and 14 more. Often billed alongside Azzecca, Dillon Francis and Diplo. Next up: Ramona Ave Landing, Sacramento on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Ramona Ave Landing | Sacramento |
+| Fri, 23 Oct 2026 | Clarendon Ballroom | Virginia |
 | Fri, 6 Nov 2026 | The Bellwether | Los Angeles |
 
 ## Recently played
@@ -23,6 +25,6 @@ Wuki is a house and bass artist based in United States of America, with 30 gigs 
 
 ## Shares bills with
 
-Azzecca, Dillon Francis, Kyle Watson
+Azzecca, Dillon Francis, Diplo
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wuki/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wuki/)*

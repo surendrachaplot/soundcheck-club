@@ -1,6 +1,6 @@
 # Artemis
 
-Artemis is a Drum & Bass and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at O2 Academy Bournemouth, South-east on Sat, 31 Oct 2026.
+Artemis is a Drum & Bass and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at O2 Academy Bournemouth, South-east on Sat, 31 Oct 2026.
 
 Artemis is a drum & bass and house artist based in Lebanon, with 21 gigs on soundcheck across Amsterdam, Barcelona, Bristol and London and 6 more. Often billed alongside Fred V, Hybrid Minds and Just Jane. Next up: O2 Academy Bournemouth, South East on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Artemis is a drum & bass and house artist based in Lebanon, with 21 gigs on soun
 
 Fred V, Hybrid Minds, Just Jane
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artemis/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artemis/)*

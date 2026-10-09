@@ -1,8 +1,8 @@
 # Lea Occhi
 
-Lea Occhi is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at La Station - Gare des Mines, Paris on Sun, 11 Oct 2026.
+Lea Occhi is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at La Station - Gare des Mines, Paris on Sun, 11 Oct 2026.
 
-Lea Occhi is a techno and house artist based in France, with 195 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Lobster (NL), Toscan Haas and Amotik. Next up: La Station - Gare des Mines, Paris on Sun 11 Oct.
+Lea Occhi is a techno and house artist based in France, with 196 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Lobster (NL), Toscan Haas and Amotik. Next up: La Station - Gare des Mines, Paris on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Lea Occhi is a techno and house artist based in France, with 195 gigs on soundch
 | Thu, 5 Nov 2026 | Base Sous-Marine de Bordeaux | Bordeaux |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Sat, 12 Dec 2026 | RADION | Amsterdam |
+| Sat, 19 Dec 2026 | essaim | Paris |
 
 ## Recently played
 
@@ -34,4 +35,4 @@ Lea Occhi is a techno and house artist based in France, with 195 gigs on soundch
 
 Lobster (NL), Toscan Haas, Amotik
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leaocchi/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leaocchi/)*

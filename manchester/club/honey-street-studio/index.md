@@ -1,6 +1,6 @@
 # Honey Street Studio
 
-Honey Street Studio is a music venue in Manchester with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "PhD Radio w/ Deventi Lali and Lees" on Fri, 9 Oct 2026.
+Honey Street Studio is a music venue in Manchester with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "PhD Radio w/ Deventi Lali and Lees" on Fri, 9 Oct 2026.
 
 Honey Street Studio is a music venue in Manchester listed on soundcheck. 11 upcoming gigs, with line-ups including Abby Harris, Abena, Amelia Leigh and Anop and 2 more. See dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
 
@@ -23,4 +23,4 @@ Honey Street Studio is a music venue in Manchester listed on soundcheck. 11 upco
 
 Honey St, Cheetham Hill, Manchester M8 8RG, Manchester
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*

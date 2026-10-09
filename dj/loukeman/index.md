@@ -1,6 +1,6 @@
 # Loukeman
 
-Loukeman is a House and Electronica artist with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Fortune Sound Club, Vancouver on Sat, 10 Oct 2026.
+Loukeman is a House and Electronica artist with 12 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Fortune Sound Club, Vancouver on Sat, 10 Oct 2026.
 
 Loukeman is a house and electronica artist based in Canada, with 35 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 12 more. Often billed alongside Lis Dalton, Marie Davidson and Nick León. Next up: Fortune Sound Club, Vancouver on Sat 10 Oct.
 
@@ -36,4 +36,4 @@ Loukeman is a house and electronica artist based in Canada, with 35 gigs on soun
 
 Lis Dalton, Marie Davidson, Nick León
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loukeman/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loukeman/)*

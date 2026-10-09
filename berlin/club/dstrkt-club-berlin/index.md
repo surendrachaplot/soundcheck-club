@@ -1,8 +1,8 @@
 # DSTRKT Club Berlin
 
-DSTRKT Club Berlin is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Sequenced Minds at DSTRKT" on Fri, 9 Oct 2026.
+DSTRKT Club Berlin is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Sequenced Minds at DSTRKT" on Fri, 9 Oct 2026.
 
-DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including 2HOT2PLAY, Andreas Henneberg, AREA ØNE and BENITO (DE) and 2 more. See dates, start times and who's playing. Storkower Straße 123, 10407 Berlin, Deutschland.
+DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including 2HOT2PLAY, Al Aslan, Andreas Henneberg and AREA ØNE and 2 more. See dates, start times and who's playing. Storkower Straße 123, 10407 Berlin, Deutschland.
 
 ## What's on
 
@@ -10,7 +10,7 @@ DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 12 upcoming 
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Sequenced Minds at DSTRKT |  |
 | Sat, 7 Nov 2026 | ELYSIUM - Fungus Funk - Rawar - Djantrix - Bombax |  |
-| Fri, 13 Nov 2026 | KALTBAU |  |
+| Fri, 13 Nov 2026 | KALTBAU : Hyperdrive, HUJUS, HUMAN ERROR, DJ Cringey  | Al Aslan, Brauer, Caniche, DJ Cringey, DJ Hyperdrive, HUJUS, HUMAN ERROR, Johannes Wohlgeschaffen, Katy Rough, L-AUX, LISTORIO, SEKTOR69, TONI BA, cell1, cravings320, relajadita, tokenbeats |
 | Fri, 27 Nov 2026 | PURE PLEASURE | DBBD, HARD CANDY (GER), INEXXSTABLE, LOVEFOXY, Only Fire, Shanti Celeste |
 | Sat, 28 Nov 2026 | T.I.M.E.F.A.L.L. - Umek - DjHell - A.Galuzzi - Teenage Mutants - A.Henneberg  uvm | Andreas Henneberg, BLYSS, Bombata, Cat Vermillion, DJ Hell, JOANNA COELHO, Jil Tanner, Rose, Teenage Mutants, Umek |
 | Sat, 28 Nov 2026 | ALOBOI — LIVE SET 2.0 IN BERLIN X T.I.M.E.F.A.L.L |  |
@@ -23,4 +23,4 @@ DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 12 upcoming 
 
 Storkower Straße 123, 10407 Berlin, Deutschland, Berlin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dstrkt-club-berlin/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dstrkt-club-berlin/)*

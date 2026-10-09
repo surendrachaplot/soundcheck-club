@@ -1,14 +1,15 @@
 # Simon T
 
-Simon T is a Dub Techno and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Department 184, Milan on Sun, 11 Oct 2026.
+Simon T is a Dub Techno and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Department 184, Milan on Sun, 11 Oct 2026.
 
-Simon T is a dub techno and techno artist based in Italy, with 51 gigs on soundcheck across London, Milan and Turin. Often billed alongside Lorenzo LSP, Flavio Vecchi and Ricky Montanari. Next up: Department 184, Milan on Sun 11 Oct.
+Simon T is a dub techno and techno artist based in Italy, with 52 gigs on soundcheck across London, Milan and Turin. Often billed alongside Lorenzo LSP, Flavio Vecchi and Ricky Montanari. Next up: Department 184, Milan on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | Department 184 | Milan |
+| Sat, 17 Oct 2026 | Department 184 | Milan |
 | Sat, 17 Oct 2026 | Department 184 | Milan |
 
 ## Recently played
@@ -26,4 +27,4 @@ Simon T is a dub techno and techno artist based in Italy, with 51 gigs on soundc
 
 Lorenzo LSP, Flavio Vecchi, Ricky Montanari
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simont/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simont/)*

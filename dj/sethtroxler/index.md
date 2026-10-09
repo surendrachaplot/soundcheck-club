@@ -1,8 +1,8 @@
 # Seth Troxler
 
-Seth Troxler is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
+Seth Troxler is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
 
-Seth Troxler is a house and techno artist based in United States of America, with 321 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 51 more. Often billed alongside DJ Tennis, Sossa and Chloé Caillet. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
+Seth Troxler is a house and techno artist based in United States of America, with 322 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 52 more. Often billed alongside DJ Tennis, Sossa and Chloé Caillet. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ Seth Troxler is a house and techno artist based in United States of America, wit
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 30 Oct 2026 | Brooklyn Storehouse | New York City |
 | Sat, 31 Oct 2026 | Club Space Miami | Miami |
+| Sun, 8 Nov 2026 | Parque de la Exposición | Peru |
 | Sat, 14 Nov 2026 | Warehouse ZRH | Zurich |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Fri, 27 Nov 2026 | BERHTA | Washington DC |
 | Sat, 28 Nov 2026 | Lincoln Factory | Detroit |
-| Wed, 2 Dec 2026 | Factory Town | Miami |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Seth Troxler is a house and techno artist based in United States of America, wit
 
 DJ Tennis, Sossa, Chloé Caillet
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*

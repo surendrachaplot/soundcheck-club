@@ -1,6 +1,6 @@
 # Nick Höppner
 
-Nick Höppner is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Pluto, Valencia on Sat, 10 Oct 2026.
+Nick Höppner is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Pluto, Valencia on Sat, 10 Oct 2026.
 
 Nick Höppner is a house and techno artist based in Germany, with 44 gigs on soundcheck across Amsterdam, Berlin, London and Madrid and 6 more. Often billed alongside Steffi, Soundstream and JakoJako. Next up: Pluto, Valencia on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Nick Höppner is a house and techno artist based in Germany, with 44 gigs on sou
 
 Steffi, Soundstream, JakoJako
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickhoppner/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickhoppner/)*

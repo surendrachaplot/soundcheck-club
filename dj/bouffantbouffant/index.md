@@ -1,6 +1,6 @@
 # Bouffant Bouffant
 
-Bouffant Bouffant is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at 宀 Club, Hong Kong on Sat, 21 Nov 2026.
+Bouffant Bouffant is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at 宀 Club, Hong Kong on Sat, 21 Nov 2026.
 
 Bouffant Bouffant is a house and electro artist based in United States of America, with 22 gigs on soundcheck across Berlin, Hong Kong, Houston and Kuala Lumpur and 5 more. Often billed alongside LYDO, Markus (US) and AAguilAA. Next up: 宀 Club, Hong Kong on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Bouffant Bouffant is a house and electro artist based in United States of Americ
 
 LYDO, Markus (US), AAguilAA
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bouffantbouffant/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bouffantbouffant/)*

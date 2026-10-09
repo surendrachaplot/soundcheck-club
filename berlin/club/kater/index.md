@@ -1,6 +1,6 @@
 # Kater
 
-Kater is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "FOREVER 25 curated by Enorm in Form" on Fri, 9 Oct 2026.
+Kater is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "FOREVER 25 curated by Enorm in Form" on Fri, 9 Oct 2026.
 
 Kater is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including AALIYAH, Adri Tüde, Agustin Giri and Aio and 2 more. See dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
@@ -14,7 +14,7 @@ Kater is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with li
 | Fri, 23 Oct 2026 | Kater x Iptamenos Discos | ATTA, Alejandro Paz, Duncan Thomas, Jeremy Reinhard, Kotelett, Local Suicide, Ludmila Houben, sianza |
 | Sat, 24 Oct 2026 | Katernacht with Confidential Recipe, Viikatory, E-Talking, Franz Scala + more | Charlie Vaux, Clemente (DE), Confidential Recipe, E-Talking, Franz Scala, Juan Ferreyra, Juli Gago, Maltitz, Moretz, Viikatory |
 | Fri, 30 Oct 2026 | FOREVER 25 curated by Mila Stern & Esther Silex | Arkadiusz Dmytrow, Ata, BODYSHIFT, Barbara Preisinger, Carlotta Jacobi, Carmelina, Corios, Doudou MD, Esther Silex, Franca, Habikat, Josiane, KC Wray, Kenny Larkin, Maria Theresia von Eberg, Marta Aurelia, Mila Stern, Peter Invasion, Power Squad, Sexy Lazer, Stella Zekri, UFO Space, Vitaly, francesca (DE), karete bu, zhart (BeYond) |
-| Fri, 6 Nov 2026 | Kater x WARNING | Audio Werner, DJ ZBB, David Delgado, Elena Bi, The Pushamann, Trancesetters of Westphalia |
+| Fri, 6 Nov 2026 | Kater x WARNING | Audio Werner, DJ ZBB, David Delgado, Elena Bi, Foolik, The Pushamann, Trancesetters of Westphalia |
 | Sat, 7 Nov 2026 | ON! Voyage durch Neustockland | AALIYAH, ATTA (GER), Adri Tüde, Baerbel, JUSTICE (DE), Jama, Joma Beton, Just Emma, Notes & Digits, Susi&Paula, The Bille, Tom Eichhagen, VIVI (DE), diladï |
 | Fri, 13 Nov 2026 | Tipping Point | Ciao 3lla, FLAVE, Fabian Krooss, Francis FF, Frida Darko, Sahra Bass, Urem |
 | Sat, 14 Nov 2026 | Katernacht with Enrica Falqui, Rio Tashan, Ed Davenport, Sanaz + more | BUSSI, Ed Davenport, Enrica Falqui, James Lotion, New Digital Fidelity, ONNI, Rio Tashan, Sanaz, Sara Miller |
@@ -23,4 +23,4 @@ Kater is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with li
 
 Holzmarktstrasse 25, 10243 Berlin, Berlin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*

@@ -1,13 +1,14 @@
 # Rian Wood
 
-Rian Wood is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at The Wall Club, Naples on Fri, 16 Oct 2026.
+Rian Wood is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA, Moscow on Fri, 9 Oct 2026.
 
-Rian Wood is a techno and industrial artist based in Italy, with 70 gigs on soundcheck across Barcelona, Berlin, Brussels and Chicago and 23 more. Often billed alongside 999999999, cassandrah and Rispoli Benito. Next up: The Wall Club, Naples on Fri 16 Oct.
+Rian Wood is a techno and industrial artist based in Italy, with 71 gigs on soundcheck across Barcelona, Berlin, Brussels and Chicago and 24 more. Often billed alongside 999999999, cassandrah and Rispoli Benito. Next up: TBA, Moscow on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | TBA | Moscow |
 | Fri, 16 Oct 2026 | The Wall Club | Naples |
 
 ## Recently played
@@ -25,4 +26,4 @@ Rian Wood is a techno and industrial artist based in Italy, with 70 gigs on soun
 
 999999999, cassandrah, Rispoli Benito
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rianwood/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rianwood/)*

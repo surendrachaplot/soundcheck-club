@@ -1,6 +1,6 @@
 # MASHALLAH
 
-MASHALLAH is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Public Works, San Francisco/Oakland on Sat, 17 Oct 2026.
+MASHALLAH is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Public Works, San Francisco/Oakland on Sat, 17 Oct 2026.
 
 MASHALLAH is a club and electronica artist, with 9 gigs on soundcheck across San Francisco/Oakland and Zurich. Often billed alongside MAMA SAN, arktoi and Alice Longyu Gao. Next up: Public Works, San Francisco/Oakland on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ MASHALLAH is a club and electronica artist, with 9 gigs on soundcheck across San
 
 MAMA SAN, arktoi, Alice Longyu Gao
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mashallah/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mashallah/)*

@@ -1,6 +1,6 @@
 # Navigator
 
-Navigator is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Fri, 30 Oct 2026.
+Navigator is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Fri, 30 Oct 2026.
 
 Navigator is a drum & bass and jungle artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Birmingham, Bristol and London and 2 more. Often billed alongside Nicky Blackmarket, IC3 and Deekline. Next up: TAC (Tottenham Arts Collective), London on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Navigator is a drum & bass and jungle artist based in United Kingdom, with 57 gi
 
 Nicky Blackmarket, IC3, Deekline
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/navigator/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/navigator/)*

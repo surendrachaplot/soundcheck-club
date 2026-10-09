@@ -1,6 +1,6 @@
 # Jorge Savoretti
 
-Jorge Savoretti is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Crobar - Buenos Aires, Buenos Aires on Fri, 9 Oct 2026.
+Jorge Savoretti is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Crobar - Buenos Aires, Buenos Aires on Fri, 9 Oct 2026.
 
 Jorge Savoretti is a house and minimal artist, with 37 gigs on soundcheck across Auckland, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Arapu, Ariel Rodz and Danillo Coppaz. Next up: Crobar - Buenos Aires, Buenos Aires on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Jorge Savoretti is a house and minimal artist, with 37 gigs on soundcheck across
 
 Arapu, Ariel Rodz, Danillo Coppaz
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgesavoretti/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgesavoretti/)*

@@ -1,8 +1,8 @@
 # zohra
 
-zohra is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at The Bongo Club, Edinburgh on Thu, 15 Oct 2026.
+zohra is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at The Bongo Club, Edinburgh on Thu, 15 Oct 2026.
 
-zohra is a house and techno artist based in United Kingdom, with 10 gigs on soundcheck across Edinburgh. Often billed alongside JacobR, Trucha and YVI. Next up: The Bongo Club, Edinburgh on Thu 15 Oct.
+zohra is a house and techno artist based in United Kingdom, with 10 gigs on soundcheck across Edinburgh. Often billed alongside JacobR, Becca Egan and Trucha. Next up: The Bongo Club, Edinburgh on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ zohra is a house and techno artist based in United Kingdom, with 10 gigs on soun
 
 ## Shares bills with
 
-JacobR, Trucha, YVI
+JacobR, Becca Egan, Trucha
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zohra/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zohra/)*

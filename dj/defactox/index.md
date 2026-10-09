@@ -1,6 +1,6 @@
 # DeFacto X
 
-DeFacto X is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Lunchbox, Atlanta on Sat, 10 Oct 2026.
+DeFacto X is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Lunchbox, Atlanta on Sat, 10 Oct 2026.
 
 DeFacto X is a club and house artist based in United States of America, with 45 gigs on soundcheck across Atlanta, Austin and Los Angeles. Often billed alongside Alxander Ivey, NEPTUNEWAVEY and Cquestt. Next up: Lunchbox, Atlanta on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ DeFacto X is a club and house artist based in United States of America, with 45 
 
 Alxander Ivey, NEPTUNEWAVEY, Cquestt
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/defactox/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/defactox/)*

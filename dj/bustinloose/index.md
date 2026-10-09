@@ -1,14 +1,14 @@
 # Bustin' Loose
 
-Bustin' Loose is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Jean’s, New York City on Thu, 8 Oct 2026.
+Bustin' Loose is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Nuevo Leon 89, Mexico City on Fri, 16 Oct 2026.
 
-Bustin' Loose is a house and disco artist based in United Kingdom, with 159 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Berlin and 17 more. Often billed alongside Tatiana, Roland & Brother Rich and Magnolia_. Next up: Jean’s, New York City on Thu 8 Oct.
+Bustin' Loose is a house and disco artist based in United Kingdom, with 160 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Berlin and 17 more. Often billed alongside Tatiana, Roland & Brother Rich and Magnolia_. Next up: Nuevo Leon 89, Mexico City on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Jean’s | New York City |
+| Fri, 16 Oct 2026 | Nuevo Leon 89 | Mexico City |
 | Fri, 23 Oct 2026 | Art''otel Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Sat, 31 Oct 2026 | DRUMSHEDS | London |
@@ -18,6 +18,7 @@ Bustin' Loose is a house and disco artist based in United Kingdom, with 159 gigs
 
 ## Recently played
 
+- Jean’s, New York City · Thu, 8 Oct 2026
 - Watsons EQ, Sydney · Sun, 4 Oct 2026
 - Xanadu, New York City · Sun, 20 Sept 2026
 - ZeyZey, Miami · Fri, 18 Sept 2026
@@ -25,10 +26,9 @@ Bustin' Loose is a house and disco artist based in United Kingdom, with 159 gigs
 - Dead Letter No. 9, New York City · Fri, 11 Sept 2026
 - Jean’s, New York City · Thu, 10 Sept 2026
 - Ministry Of Sound, London · Sat, 5 Sept 2026
-- Jean’s, New York City · Thu, 27 Aug 2026
 
 ## Shares bills with
 
 Tatiana, Roland & Brother Rich, Magnolia_
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bustinloose/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bustinloose/)*

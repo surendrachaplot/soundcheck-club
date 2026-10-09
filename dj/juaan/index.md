@@ -1,14 +1,14 @@
 # JUAAN
 
-JUAAN is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Fvtvr, Paris on Fri, 9 Oct 2026.
+JUAAN is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at FVTVR, Paris on Fri, 9 Oct 2026.
 
-JUAAN is a house and techno artist based in Argentina, with 66 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Bucharest and 21 more. Often billed alongside Alex Dima, Alexia Glensy and Dyed Soundorom. Next up: Fvtvr, Paris on Fri 9 Oct.
+JUAAN is a house and techno artist based in Argentina, with 66 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Bucharest and 21 more. Often billed alongside Alex Dima, Alexia Glensy and Dyed Soundorom. Next up: FVTVR, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Fvtvr | Paris |
+| Fri, 9 Oct 2026 | FVTVR | Paris |
 | Sat, 17 Oct 2026 | Skate Park (Parco Lambro) | Milan |
 | Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |
 
@@ -27,4 +27,4 @@ JUAAN is a house and techno artist based in Argentina, with 66 gigs on soundchec
 
 Alex Dima, Alexia Glensy, Dyed Soundorom
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juaan/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juaan/)*

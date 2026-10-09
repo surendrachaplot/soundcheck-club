@@ -1,6 +1,6 @@
 # Save P
 
-Save P is a Electro and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at All My Friends, London on Thu, 15 Oct 2026.
+Save P is a Electro and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at All My Friends, London on Thu, 15 Oct 2026.
 
 Save P is an electro and minimal techno artist, with 11 gigs on soundcheck across Brighton and London. Often billed alongside Ughe, FrezZ and Obreja.. Next up: All My Friends, London on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Save P is an electro and minimal techno artist, with 11 gigs on soundcheck acros
 
 Ughe, FrezZ, Obreja.
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/save-p/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/save-p/)*

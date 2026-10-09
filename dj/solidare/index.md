@@ -1,6 +1,6 @@
 # Solidare
 
-Solidare is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 9 Oct 2026.
+Solidare is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 9 Oct 2026.
 
 Solidare is a techno and club artist based in United States of America, with 19 gigs on soundcheck across New York City and Washington DC. Often billed alongside Mrs. Qbert, Vivian Oblivion and Artemis.105. Next up: TRANSMISSION DC, Washington DC on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Solidare is a techno and club artist based in United States of America, with 19 
 
 Mrs. Qbert, Vivian Oblivion, Artemis.105
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solidare/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solidare/)*

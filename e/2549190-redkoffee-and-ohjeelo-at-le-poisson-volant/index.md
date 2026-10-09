@@ -1,10 +1,10 @@
 # Redkoffee and Ohjeelo at Le Poisson Volant
 
-Redkoffee and Ohjeelo at Le Poisson Volant on Fri 9 Oct, Paris. 2 artists: ohjeelo and redkoffee. See the line-up on soundcheck.
+Redkoffee and Ohjeelo at Le Poisson Volant on Thu 8 Oct, Paris. 2 artists: ohjeelo and redkoffee. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 9 Oct 2026 |
+| Date | Thu, 8 Oct 2026 |
 | Venue | Le Poisson Volant |
 | City | Paris |
 

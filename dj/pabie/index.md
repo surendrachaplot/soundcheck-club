@@ -1,6 +1,6 @@
 # Pabie
 
-Pabie is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 9 Oct 2026.
+Pabie is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 9 Oct 2026.
 
 Pabie is an electro and techno artist based in Italy, with 48 gigs on soundcheck across Barcelona, Berlin, London and Milan and 3 more. Often billed alongside Velardi, Dizzy and SMS (IT). Next up: Mtkvarze, Tbilisi on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Pabie is an electro and techno artist based in Italy, with 48 gigs on soundcheck
 
 Velardi, Dizzy, SMS (IT)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pabie/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pabie/)*

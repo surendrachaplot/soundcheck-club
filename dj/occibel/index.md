@@ -1,14 +1,15 @@
 # Occibel
 
-Occibel is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Fvtvr, Paris on Fri, 9 Oct 2026.
+Occibel is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at FVTVR, Paris on Fri, 9 Oct 2026.
 
-Occibel is a house and electro artist based in France, with 66 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bristol and 15 more. Often billed alongside Vitess, HearThug and IAMBP. Next up: Fvtvr, Paris on Fri 9 Oct.
+Occibel is a house and electro artist based in France, with 67 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bristol and 16 more. Often billed alongside Vitess, HearThug and IAMBP. Next up: FVTVR, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Fvtvr | Paris |
+| Fri, 9 Oct 2026 | FVTVR | Paris |
+| Fri, 6 Nov 2026 | Cupra City Garage Manchester | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Occibel is a house and electro artist based in France, with 66 gigs on soundchec
 
 Vitess, HearThug, IAMBP
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/occibel/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/occibel/)*

@@ -1,8 +1,8 @@
 # DJ Sy
 
-DJ Sy is a House and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Three Compasses, London on Fri, 16 Oct 2026.
+DJ Sy is a House and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Three Compasses, London on Fri, 16 Oct 2026.
 
-DJ Sy is a house and hardcore artist, with 12 gigs on soundcheck across Bristol, Leeds, Lisbon and Liverpool and 4 more. Often billed alongside Billy Daniel Bunter, Kenny Ken and Lisa Pinup. Next up: The Three Compasses, London on Fri 16 Oct.
+DJ Sy is a house and hardcore artist based in United Kingdom, with 12 gigs on soundcheck across Bristol, Leeds, Lisbon and Liverpool and 4 more. Often billed alongside Billy Daniel Bunter, Kenny Ken and Lisa Pinup. Next up: The Three Compasses, London on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ DJ Sy is a house and hardcore artist, with 12 gigs on soundcheck across Bristol,
 
 Billy Daniel Bunter, Kenny Ken, Lisa Pinup
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsy/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsy/)*

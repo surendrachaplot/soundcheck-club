@@ -1,8 +1,8 @@
 # The Grove
 
-The Grove is a music venue in Newcastle with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Takuya Nakamura (Live)" on Tue, 13 Oct 2026.
+The Grove is a music venue in Newcastle with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Takuya Nakamura (Live)" on Tue, 13 Oct 2026.
 
-The Grove is a music venue in Newcastle listed on soundcheck. 3 upcoming gigs, with line-ups including Takuya Nakamura. See dates, start times and who's playing. 1 St Michael''s Rd, Byker, Newcastle upon Tyne NE6 1QU.
+The Grove is a music venue in Newcastle listed on soundcheck. 3 upcoming gigs, with line-ups including Dublon and Takuya Nakamura. See dates, start times and who's playing. 1 St Michael''s Rd, Byker, Newcastle upon Tyne NE6 1QU.
 
 ## What's on
 
@@ -10,10 +10,10 @@ The Grove is a music venue in Newcastle listed on soundcheck. 3 upcoming gigs, w
 | --- | --- | --- |
 | Tue, 13 Oct 2026 | Takuya Nakamura (Live) | Takuya Nakamura |
 | Sat, 24 Oct 2026 | Adult DVD |  |
-| Mon, 9 Nov 2026 | Dublon (Live) |  |
+| Mon, 9 Nov 2026 | Dublon (Live) | Dublon |
 
 ## Address
 
 1 St Michael''s Rd, Byker, Newcastle upon Tyne NE6 1QU, Newcastle
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-grove/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-grove/)*

@@ -1,6 +1,6 @@
 # Jordy
 
-Jordy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Roxy, Prague on Fri, 23 Oct 2026.
+Jordy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Roxy, Prague on Fri, 23 Oct 2026.
 
 Jordy is a techno and house artist based in Germany, with 22 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 3 more. Often billed alongside Di², Josiane and Guliver. Next up: Roxy, Prague on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Jordy is a techno and house artist based in Germany, with 22 gigs on soundcheck 
 
 Di² (1), Josiane, Guliver
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordy/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordy/)*

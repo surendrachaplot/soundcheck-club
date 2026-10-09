@@ -1,6 +1,6 @@
 # Asarri
 
-Asarri is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Drugstore Beograd, Belgrade on Sat, 17 Oct 2026.
+Asarri is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Drugstore Beograd, Belgrade on Sat, 17 Oct 2026.
 
 Asarri is a techno and acid artist based in Serbia, with 37 gigs on soundcheck across Belgrade, Istanbul, Munich and Sofia. Often billed alongside Deeda, Essio and Mamavitae. Next up: Drugstore Beograd, Belgrade on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Asarri is a techno and acid artist based in Serbia, with 37 gigs on soundcheck a
 
 Deeda, Essio, Mamavitae
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asarri/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asarri/)*

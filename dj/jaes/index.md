@@ -1,6 +1,6 @@
 # JaeS
 
-JaeS is a Electronica and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Artheater, Cologne on Fri, 9 Oct 2026.
+JaeS is a Electronica and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Artheater, Cologne on Fri, 9 Oct 2026.
 
 JaeS is an electronica and drum & bass artist based in France, with 24 gigs on soundcheck across Cologne, London, Los Angeles and Paris. Often billed alongside Adam Romo, Marcos Loveday and RORO. Next up: Artheater, Cologne on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ JaeS is an electronica and drum & bass artist based in France, with 24 gigs on s
 
 Adam Romo, Marcos Loveday, RORO
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaes/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaes/)*

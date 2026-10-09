@@ -1,8 +1,8 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "SECRET WEAPONS -Ben Sims-" on Fri, 9 Oct 2026.
+Circus Tokyo is a music venue in Tokyo with 17 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "SECRET WEAPONS -Ben Sims-" on Fri, 9 Oct 2026.
 
-Circus Tokyo is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with line-ups including Acrocanthosaurus, Aura, Ben Sims and Blacky and 2 more. See dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
+Circus Tokyo is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, with line-ups including Acrocanthosaurus, Aura, Ben Sims and Blacky and 2 more. See dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, w
 | Sat, 17 Oct 2026 | synts presents: Mietze Conte |  |
 | Sat, 31 Oct 2026 | RIP with Osmosis Jones | Acrocanthosaurus, Genick, J Wax, Jacotanu, Kamui Wada, MOOTOE, Osmosis Jones, That Fancy I, VECSILLE, kyo (3) |
 | Tue, 3 Nov 2026 | (DnB) Formula Tokyo show by Beginning | Formula LDN, SAKO |
-| Sat, 14 Nov 2026 | Explosive in Tokyo | Coretex, Dustvoxx, Dynamax, Hayate (2) |
+| Sun, 8 Nov 2026 | HEAVEN'S GATE Vol.IX Syzy TOKYO SHOW | HEAVEN'S GATE CREW |
 
 ## Address
 
 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002, Tokyo
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*

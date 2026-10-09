@@ -1,17 +1,17 @@
 # Golden Jubilee & Yacht Club
 
-Golden Jubilee & Yacht Club is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "Burmuda London Boat party" on Sat, 10 Apr 2027.
+Golden Jubilee & Yacht Club is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. The next is "Burmuda London Boat party" on Sat, 10 Apr 2027.
 
-Golden Jubilee & Yacht Club is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including 4D (UK), Kev Blundy and PARTS. See dates, start times and who's playing. Temple Pier; Embankment; London WC2R 2PN; United Kingdom.
+Golden Jubilee & Yacht Club is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Kev Blundy and PARTS. See dates, start times and who's playing. Temple Pier; Embankment; London WC2R 2PN; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Apr 2027 | Burmuda London Boat party | 4D (UK), Kev Blundy, PARTS |
+| Sat, 10 Apr 2027 | Burmuda London Boat party | Kev Blundy, PARTS |
 
 ## Address
 
 Temple Pier; Embankment; London WC2R 2PN; United Kingdom, London
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/golden-jubilee-yacht-club/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/golden-jubilee-yacht-club/)*

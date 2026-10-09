@@ -1,6 +1,6 @@
 # Kanine
 
-Kanine is a Drum & Bass and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
+Kanine is a Drum & Bass and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
 
 Kanine is a drum & bass and house artist based in United Kingdom, with 94 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 39 more. Often billed alongside Mozey, Disrupta and Bou (UK). Next up: DRUMSHEDS, London on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Kanine is a drum & bass and house artist based in United Kingdom, with 94 gigs o
 
 Mozey, Disrupta, Bou (UK)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanine/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanine/)*

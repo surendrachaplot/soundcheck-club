@@ -1,6 +1,6 @@
 # KILIMANJARO
 
-KILIMANJARO is a House and Afro House artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Pygmalion, Dublin on Sat, 10 Oct 2026.
+KILIMANJARO is a House and Afro House artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Pygmalion, Dublin on Sat, 10 Oct 2026.
 
 KILIMANJARO is a house and afro house artist based in United Kingdom, with 140 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 38 more. Often billed alongside Eliza Rose, TSHA and AMÉMÉ. Next up: Pygmalion, Dublin on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ KILIMANJARO is a house and afro house artist based in United Kingdom, with 140 g
 
 Eliza Rose, TSHA, AMÉMÉ
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kilimanjaro/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kilimanjaro/)*

@@ -1,6 +1,6 @@
 # bounce kisses
 
-bounce kisses is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Bossa Nova Civic Club, New York City on Tue, 20 Oct 2026.
+bounce kisses is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Bossa Nova Civic Club, New York City on Tue, 20 Oct 2026.
 
 bounce kisses is a techno and ambient artist based in United States of America, with 9 gigs on soundcheck across Detroit, Leipzig and New York City. Often billed alongside Boyfriend Dick, L4RV4 and ConCon. Next up: Bossa Nova Civic Club, New York City on Tue 20 Oct.
 
@@ -25,4 +25,4 @@ bounce kisses is a techno and ambient artist based in United States of America, 
 
 Boyfriend Dick, L4RV4, ConCon
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bouncekisses/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bouncekisses/)*

@@ -1,6 +1,6 @@
 # Jean Frais
 
-Jean Frais is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Cocoon Berlin, Berlin on Fri, 16 Oct 2026.
+Jean Frais is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Cocoon Berlin, Berlin on Fri, 16 Oct 2026.
 
 Jean Frais is a house and minimal techno artist based in United Kingdom, with 23 gigs on soundcheck across Berlin. Often billed alongside Crimson Lake, DJ Kodah and nonduality. Next up: Cocoon Berlin, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Jean Frais is a house and minimal techno artist based in United Kingdom, with 23
 
 Crimson Lake, DJ Kodah, nonduality
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanfrais/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanfrais/)*

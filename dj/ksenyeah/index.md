@@ -1,8 +1,8 @@
 # Ksenyeah
 
-Ksenyeah is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Dead Letter No. 9, New York City on Sat, 10 Oct 2026.
+Ksenyeah is a House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Dead Letter No. 9, New York City on Sat, 10 Oct 2026.
 
-Ksenyeah is a house and deep house artist based in Ukraine, with 44 gigs on soundcheck across New York City. Often billed alongside Manguito, Van Der Laan and OBA+FLIP. Next up: Dead Letter No. 9, New York City on Sat 10 Oct.
+Ksenyeah is a house and deep house artist based in Ukraine, with 45 gigs on soundcheck across New York City. Often billed alongside Manguito, Van Der Laan and OBA+FLIP. Next up: Dead Letter No. 9, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Ksenyeah is a house and deep house artist based in Ukraine, with 44 gigs on soun
 | Sun, 11 Oct 2026 | Creekside - Under The K Bridge | New York City |
 | Sat, 17 Oct 2026 | Knockdown Center | New York City |
 | Fri, 30 Oct 2026 | Industry City | New York City |
+| Fri, 6 Nov 2026 | H0L0 | New York City |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Ksenyeah is a house and deep house artist based in Ukraine, with 44 gigs on soun
 
 Manguito, Van Der Laan, OBA+FLIP
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ksenyeah/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ksenyeah/)*

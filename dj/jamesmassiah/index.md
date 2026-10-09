@@ -1,8 +1,8 @@
 # James Massiah
 
-James Massiah is a Dancehall and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Ormside Projects, London on Sat, 24 Oct 2026.
+James Massiah is a Experimental and Dancehall artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Ormside Projects, London on Sat, 24 Oct 2026.
 
-James Massiah is a dancehall and club artist based in United Kingdom, with 100 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Brisbane and 16 more. Often billed alongside Lord Tusk, Kemarr and Tash LC. Next up: Ormside Projects, London on Sat 24 Oct.
+James Massiah is an experimental and dancehall artist based in United Kingdom, with 101 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Brisbane and 16 more. Often billed alongside Lord Tusk, Kemarr and Tash LC. Next up: Ormside Projects, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ James Massiah is a dancehall and club artist based in United Kingdom, with 100 g
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Ormside Projects | London |
 | Fri, 20 Nov 2026 | The White Hotel | Manchester |
+| Sat, 5 Dec 2026 | EartH | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ James Massiah is a dancehall and club artist based in United Kingdom, with 100 g
 
 Lord Tusk, Kemarr, Tash LC
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesmassiah/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesmassiah/)*

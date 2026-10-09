@@ -1,11 +1,20 @@
 # BUMPAH: GYAL-O-WEEN 2.0 at Algha's Plantroom
 
-BUMPAH: GYAL-O-WEEN 2.0 at Algha's Plantroom on Sat 31 Oct, London. Dubstep and Jungle. See the line-up on soundcheck.
+BUMPAH: GYAL-O-WEEN 2.0 at Algha's Plantroom on Sat 31 Oct, London. 6 artists: CHEZA LUCINA, Daskaran, Grove and Princess Xixi and 2 more. Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 31 Oct 2026 |
 | Venue | Algha's Plantroom |
 | City | London |
+
+## Line-up
+
+- CHEZA LUCINA
+- Daskaran
+- Grove
+- Princess Xixi
+- Talia Goddess
+- THEMPRESS
 
 *Source: [soundcheck](https://soundcheck.club/e/2544302-bumpah-gyal-o-ween-2-0-at-algha-s-plantroom/)*

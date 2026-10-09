@@ -1,10 +1,10 @@
 # TDIB X SSS [ VINYL NIGHT ] at Blindspot*
 
-TDIB X SSS [ VINYL NIGHT ] at Blindspot* on Sat 28 Nov, Bucharest. Techno and Hardcore. See the line-up on soundcheck.
+TDIB X SSS [ VINYL NIGHT ] at Blindspot* on Fri 27 Nov, Bucharest. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 28 Nov 2026 |
+| Date | Fri, 27 Nov 2026 |
 | Venue | Blindspot* |
 | City | Bucharest |
 

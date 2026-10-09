@@ -1,6 +1,6 @@
 # Stadion Strahov
 
-Stadion Strahov is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "EDEN - Rotten To The Core" on Sat, 10 Oct 2026.
+Stadion Strahov is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "EDEN - Rotten To The Core" on Sat, 10 Oct 2026.
 
 Stadion Strahov is a music venue in Prague listed on soundcheck. 2 upcoming gigs, with line-ups including 2NDRA, Citty, Etienn Grey and fleika and 2 more. See dates, start times and who's playing. Vaníčkova 100/6, 169 00 Praha 6-Břevnov, Czechia.
 
@@ -15,4 +15,4 @@ Stadion Strahov is a music venue in Prague listed on soundcheck. 2 upcoming gigs
 
 Vaníčkova 100/6, 169 00 Praha 6-Břevnov, Czechia, Prague
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/stadion-strahov/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/stadion-strahov/)*

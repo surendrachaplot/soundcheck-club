@@ -1,6 +1,6 @@
 # Julian Muller
 
-Julian Muller is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 10 Oct 2026.
+Julian Muller is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 10 Oct 2026.
 
 Julian Muller is a techno and trance artist based in France, with 114 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 29 more. Often billed alongside Frederic., CAIVA and MRD (NO). Next up: Tokonoma Club, Frankfurt on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Julian Muller is a techno and trance artist based in France, with 114 gigs on so
 
 Frederic., CAIVA, MRD (NO)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianmuller/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianmuller/)*

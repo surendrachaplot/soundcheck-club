@@ -1,6 +1,6 @@
 # Tamara Lanza
 
-Tamara Lanza is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Level 8 DTLA, Los Angeles on Fri, 9 Oct 2026.
+Tamara Lanza is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Level 8 DTLA, Los Angeles on Fri, 9 Oct 2026.
 
 Tamara Lanza is a house and disco artist based in United States of America, with 138 gigs on soundcheck across Los Angeles and San Diego. Often billed alongside Electric Field, ELECTRIC BLAQ and JTJ. Next up: Level 8 DTLA, Los Angeles on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Tamara Lanza is a house and disco artist based in United States of America, with
 
 Electric Field, ELECTRIC BLAQ, JTJ
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamaralanza/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamaralanza/)*

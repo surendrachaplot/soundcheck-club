@@ -1,6 +1,6 @@
 # Karsten Sollors
 
-Karsten Sollors is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at District 7, Los Angeles on Fri, 11 Dec 2026.
+Karsten Sollors is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at District 7, Los Angeles on Fri, 11 Dec 2026.
 
 Karsten Sollors is a house and techno artist based in United States of America, with 16 gigs on soundcheck across Berlin, Chicago, Los Angeles and New York City and 5 more. Often billed alongside DJ Dickey Doo, Feel .MA and Fisher Bryce. Next up: District 7, Los Angeles on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Karsten Sollors is a house and techno artist based in United States of America, 
 
 DJ Dickey Doo, Feel .MA, Fisher Bryce
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karstensollors/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karstensollors/)*

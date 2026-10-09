@@ -1,6 +1,6 @@
 # Innuendo
 
-Innuendo is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Cadavra, Madrid on Fri, 27 Nov 2026.
+Innuendo is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Cadavra, Madrid on Fri, 27 Nov 2026.
 
 Innuendo is a techno and progressive house artist based in Belgium, with 13 gigs on soundcheck across Basel, Berlin, Brussels and Lyon and 3 more. Often billed alongside DJ Rino, Exkursion and Sanctus Libido. Next up: Cadavra, Madrid on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Innuendo is a techno and progressive house artist based in Belgium, with 13 gigs
 
 DJ Rino, Exkursion, Sanctus Libido
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innuendo/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innuendo/)*

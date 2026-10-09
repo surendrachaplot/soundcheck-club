@@ -1,8 +1,8 @@
 # Mille (DE)
 
-Mille (DE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Renate, Berlin on Fri, 13 Nov 2026.
+Mille (DE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Renate, Berlin on Fri, 13 Nov 2026.
 
-Mille (DE) is a house and techno artist based in Germany, with 7 gigs on soundcheck across Berlin, Düsseldorf and Hamburg. Often billed alongside DJ MILLE, MILLE and Alec Dienaar. Next up: Renate, Berlin on Fri 13 Nov.
+Mille (DE) is a house and techno artist based in Germany, with 7 gigs on soundcheck across Berlin, Düsseldorf and Hamburg. Often billed alongside DJ MILLE, MILLE and Aaron J. Next up: Renate, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ Mille (DE) is a house and techno artist based in Germany, with 7 gigs on soundch
 
 ## Shares bills with
 
-DJ MILLE, MILLE, Alec Dienaar
+DJ MILLE, MILLE, Aaron J
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mille--de/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mille--de/)*

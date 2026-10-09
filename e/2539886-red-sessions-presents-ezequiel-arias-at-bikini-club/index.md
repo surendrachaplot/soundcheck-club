@@ -1,6 +1,6 @@
 # RED SESSIONS presents Ezequiel Arias at Bikini Club
 
-RED SESSIONS presents Ezequiel Arias at Bikini Club on Sat 10 Oct, Barcelona. 1 artist: Ezequiel Arias. Progressive House. See the line-up on soundcheck.
+RED SESSIONS presents Ezequiel Arias at Bikini Club on Sat 10 Oct, Barcelona. 2 artists: Ezequiel Arias and Juan Ibañez. Progressive House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ RED SESSIONS presents Ezequiel Arias at Bikini Club on Sat 10 Oct, Barcelona. 1 
 ## Line-up
 
 - Ezequiel Arias
+- Juan Ibañez
 
 *Source: [soundcheck](https://soundcheck.club/e/2539886-red-sessions-presents-ezequiel-arias-at-bikini-club/)*

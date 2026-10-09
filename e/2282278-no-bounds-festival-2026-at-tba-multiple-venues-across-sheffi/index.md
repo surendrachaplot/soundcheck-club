@@ -1,6 +1,6 @@
 # No Bounds Festival 2026 at TBA - Multiple Venues across Sheffield & Rotherham
 
-No Bounds Festival 2026 at TBA - Multiple Venues across Sheffield & Rotherham on Fri 9 Oct, North. 43 artists: 96 Back, Anz, Big Ang and Blawan and 39 more. See the line-up on soundcheck.
+No Bounds Festival 2026 at TBA - Multiple Venues across Sheffield & Rotherham on Fri 9 Oct, North. 48 artists: 96 Back, alex.aubyn, Anz and Big Ang and 44 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ No Bounds Festival 2026 at TBA - Multiple Venues across Sheffield & Rotherham on
 ## Line-up
 
 - 96 Back
+- alex.aubyn
 - Anz
 - Big Ang
 - Blawan
@@ -26,6 +27,7 @@ No Bounds Festival 2026 at TBA - Multiple Venues across Sheffield & Rotherham on
 - King Chuga
 - La Rumba
 - Linnemann
+- LINTD
 - LUNAR
 - Lvcky
 - Main Phase
@@ -33,6 +35,7 @@ No Bounds Festival 2026 at TBA - Multiple Venues across Sheffield & Rotherham on
 - Mark Fell
 - Max Cooper
 - MELK
+- Mun Sing
 - MYNA
 - Neffa-T
 - NIKS
@@ -43,10 +46,12 @@ No Bounds Festival 2026 at TBA - Multiple Venues across Sheffield & Rotherham on
 - Porter Brook
 - RACH
 - Resonate
-- Rian Treanor
+- ROAR
+- sclews
 - Shannon From Admin
 - Shoon
 - Silva Snipa
+- sleepsang
 - Slikback
 - SUCHI
 - The Black Dog

@@ -1,14 +1,15 @@
 # Gary Gwadera
 
-Gary Gwadera is a Footwork and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Paavli Kultuurivabrik, Tallinn on Fri, 13 Nov 2026.
+Gary Gwadera is a Experimental and Footwork artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Paavli Kultuurivabrik, Tallinn on Fri, 13 Nov 2026.
 
-Gary Gwadera is a footwork and experimental artist based in Poland, with 9 gigs on soundcheck across Berlin, Krakow, Osaka and Tallinn and 1 more. Often billed alongside 2K88, Eiko Ishibashi and RP Boo. Next up: Paavli Kultuurivabrik, Tallinn on Fri 13 Nov.
+Gary Gwadera is an experimental and footwork artist based in Poland, with 10 gigs on soundcheck across Berlin, Krakow, Leeds and Osaka and 2 more. Often billed alongside 2K88, Eiko Ishibashi and RP Boo. Next up: Paavli Kultuurivabrik, Tallinn on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Paavli Kultuurivabrik | Tallinn |
+| Sat, 28 Nov 2026 | Wharf Chambers | Leeds |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Gary Gwadera is a footwork and experimental artist based in Poland, with 9 gigs 
 
 2K88, Eiko Ishibashi, RP Boo
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garygwadera/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garygwadera/)*

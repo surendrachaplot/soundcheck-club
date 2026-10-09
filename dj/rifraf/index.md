@@ -1,14 +1,15 @@
 # RifRaf
 
-RifRaf is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 16 Oct 2026.
+RifRaf is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 16 Oct 2026.
 
-RifRaf is a house and techno artist, with 24 gigs on soundcheck across Berlin, Melbourne, Prague and Riga and 2 more. Often billed alongside Katya Kóv, Red Pig Flower and Adis Is OK. Next up: Gallery 1986, Vilnius on Fri 16 Oct.
+RifRaf is a house and techno artist, with 25 gigs on soundcheck across Berlin, Melbourne, Prague and Riga and 2 more. Often billed alongside Katya Kóv, Red Pig Flower and Adis Is OK. Next up: Gallery 1986, Vilnius on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Gallery 1986 | Vilnius |
+| Fri, 16 Oct 2026 | Golden Gate | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ RifRaf is a house and techno artist, with 24 gigs on soundcheck across Berlin, M
 
 Katya Kóv, Red Pig Flower, Adis Is OK
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rifraf/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rifraf/)*

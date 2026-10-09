@@ -1,8 +1,8 @@
 # Denes Toth
 
-Denes Toth is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Aldea Club, Bratislava on Fri, 16 Oct 2026.
+Denes Toth is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Aldea Club, Bratislava on Fri, 16 Oct 2026.
 
-Denes Toth is a techno and house artist based in Slovakia, with 32 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Budapest and 3 more. Often billed alongside Secret Factory, Mateo & Spirit and Baime. Next up: Aldea Club, Bratislava on Fri 16 Oct.
+Denes Toth is a techno and house artist based in Slovakia, with 33 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Budapest and 3 more. Often billed alongside Secret Factory, Mateo & Spirit and Baime. Next up: Aldea Club, Bratislava on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Denes Toth is a techno and house artist based in Slovakia, with 32 gigs on sound
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Aldea Club | Bratislava |
 | Fri, 23 Oct 2026 | Het Veronica Schip | Amsterdam |
+| Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Denes Toth is a techno and house artist based in Slovakia, with 32 gigs on sound
 
 Secret Factory, Mateo & Spirit, Baime
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denestoth/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denestoth/)*

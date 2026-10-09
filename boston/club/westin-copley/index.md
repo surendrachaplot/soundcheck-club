@@ -1,6 +1,6 @@
 # Westin Copley
 
-Westin Copley is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Westin Copley Resolution Ball NYE 27 Boston" on Thu, 31 Dec 2026.
+Westin Copley is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Westin Copley Resolution Ball NYE 27 Boston" on Thu, 31 Dec 2026.
 
 Westin Copley is a music venue in Boston listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 10 Huntington Avenue, Boston, MA US 02116.
 
@@ -15,4 +15,4 @@ Westin Copley is a music venue in Boston listed on soundcheck. 2 upcoming gigs. 
 
 10 Huntington Avenue, Boston, MA US 02116, Boston
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/westin-copley/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/westin-copley/)*

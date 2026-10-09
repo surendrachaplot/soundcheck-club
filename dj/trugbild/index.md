@@ -1,8 +1,8 @@
 # Trugbild
 
-Trugbild is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Club Lucia, Vienna on Fri, 16 Oct 2026.
+Trugbild is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Club Lucia, Vienna on Fri, 16 Oct 2026.
 
-Trugbild is a techno and industrial artist, with 60 gigs on soundcheck across Budapest, Krakow, Munich and Vienna. Often billed alongside Silentsevir, LUZZT and AUDIO303. Next up: Club Lucia, Vienna on Fri 16 Oct.
+Trugbild is a techno and industrial artist based in Austria, with 60 gigs on soundcheck across Budapest, Krakow, Munich and Vienna. Often billed alongside Silentsevir, LUZZT and AUDIO303. Next up: Club Lucia, Vienna on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Trugbild is a techno and industrial artist, with 60 gigs on soundcheck across Bu
 
 Silentsevir, LUZZT, AUDIO303
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trugbild/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trugbild/)*

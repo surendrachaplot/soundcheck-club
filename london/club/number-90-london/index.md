@@ -1,14 +1,13 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 24 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Rossi. x Kahlúa presents 'BYOG' - Bring Your Own Grandparent" on Thu, 8 Oct 2026.
+NUMBER 90 LONDON is a music venue in London with 23 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Klub Verboten x LONDON" on Fri, 9 Oct 2026.
 
-NUMBER 90 LONDON is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including 1BYAKKO, Mariiin, Ruby SD and Alisdair and 2 more. See dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
+NUMBER 90 LONDON is a music venue in London listed on soundcheck. 23 upcoming gigs, with line-ups including 1BYAKKO, Mariiin, Ruby SD and Alisdair and 2 more. See dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Rossi. x Kahlúa presents 'BYOG' - Bring Your Own Grandparent |  |
 | Fri, 9 Oct 2026 | Klub Verboten x LONDON | Desiree', Jeneva, Sybil, TSUNIMAN |
 | Fri, 9 Oct 2026 | Selective Hearing ➜ Number 90 (Bar): FREE ENTRY | Ellzo, Ize (1), Lewis Woodham, Tenzin |
 | Sat, 10 Oct 2026 | London 27 (Launch) | Colin Dale, Joe Le Groove |
@@ -18,9 +17,10 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 24 upcoming gi
 | Sun, 18 Oct 2026 | Elata meets Slate: 3rd Anniversary - 24h Edition [AFTERHOURS] | 1BYAKKO, ARMANDO, Aniaef, Deranged, GIZZI, H Grade, Hertz Collision, IKIIR, James Harbrecht, KETCH, Lobster (NL), Mathys Lenne, Olivia Mendez, Pierce (GE), TAARIS, Ylia (UK), markellos |
 | Fri, 23 Oct 2026 | Lens: Moving Mad UK Tour - London | Lens (2) |
 | Sat, 24 Oct 2026 | Twinspinsz 𑣲⋆｡˚ Jackyboom & Residents | Danté, FITS ME FUNNY, Jackyboom, marmarmar |
+| Sat, 24 Oct 2026 | bubble.ldn presents Daniel Poli & Heaven Lee | Daniel Poli, HEAVEN-LEE, Jake Hodgkinson |
 
 ## Address
 
 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom, London
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*

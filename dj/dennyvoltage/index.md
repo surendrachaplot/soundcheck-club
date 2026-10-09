@@ -1,6 +1,6 @@
 # Denny Voltage
 
-Denny Voltage is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Rote Sonne, Munich on Sat, 10 Oct 2026.
+Denny Voltage is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Rote Sonne, Munich on Sat, 10 Oct 2026.
 
 Denny Voltage is a techno and house artist, with 24 gigs on soundcheck across Berlin, Edinburgh, Frankfurt and Munich and 3 more. Often billed alongside Jorkes, Muallem and Ryan Elliott. Next up: Rote Sonne, Munich on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Denny Voltage is a techno and house artist, with 24 gigs on soundcheck across Be
 
 Jorkes, Muallem, Ryan Elliott
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennyvoltage/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennyvoltage/)*

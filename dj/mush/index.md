@@ -1,6 +1,6 @@
 # Mush
 
-Mush is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Super7, Lyon on Sat, 10 Oct 2026.
+Mush is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Super7, Lyon on Sat, 10 Oct 2026.
 
 Mush is a techno and electro artist based in France, with 23 gigs on soundcheck across Lyon, Manchester, Paris and Washington DC. Often billed alongside Hyas, P errine and Furie. Next up: Super7, Lyon on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Mush is a techno and electro artist based in France, with 23 gigs on soundcheck 
 
 Hyas, P errine, Furie
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mush/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mush/)*

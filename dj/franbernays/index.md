@@ -1,6 +1,6 @@
 # Fran Bernays
 
-Fran Bernays is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Switch Bar, Barcelona on Fri, 9 Oct 2026.
+Fran Bernays is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Switch Bar, Barcelona on Fri, 9 Oct 2026.
 
 Fran Bernays is a techno artist, with 13 gigs on soundcheck across Barcelona. Often billed alongside Pol Ventura, Gimmi and Deckard. Next up: Switch Bar, Barcelona on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Fran Bernays is a techno artist, with 13 gigs on soundcheck across Barcelona. Of
 
 Pol Ventura, Gimmi, Deckard
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franbernays/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franbernays/)*

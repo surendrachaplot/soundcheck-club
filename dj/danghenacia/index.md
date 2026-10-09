@@ -1,6 +1,6 @@
 # Dan Ghenacia
 
-Dan Ghenacia is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at FOLD, London on Sat, 10 Oct 2026.
+Dan Ghenacia is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at FOLD, London on Sat, 10 Oct 2026.
 
 Dan Ghenacia is a house and tech house artist based in France, with 154 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 36 more. Often billed alongside Shonky, Apollonia and Dyed Soundorom. Next up: FOLD, London on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Dan Ghenacia is a house and tech house artist based in France, with 154 gigs on 
 
 Shonky, Apollonia, Dyed Soundorom
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danghenacia/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danghenacia/)*

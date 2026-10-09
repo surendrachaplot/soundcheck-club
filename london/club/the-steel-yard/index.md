@@ -1,6 +1,6 @@
 # The Steel Yard
 
-The Steel Yard is a music venue in London with 13 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Stanton Warriors presents: Stanton Sessions" on Sat, 10 Oct 2026.
+The Steel Yard is a music venue in London with 13 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Stanton Warriors presents: Stanton Sessions" on Sat, 10 Oct 2026.
 
 The Steel Yard is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Anaïs, Bassface, Basstripper and Beezo and 2 more. See dates, start times and who's playing. 13-16 Allhallows Lane, London, EC4R 3UL.
 
@@ -23,4 +23,4 @@ The Steel Yard is a music venue in London listed on soundcheck. 13 upcoming gigs
 
 13-16 Allhallows Lane, London, EC4R 3UL, London
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-steel-yard/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-steel-yard/)*

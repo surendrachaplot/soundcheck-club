@@ -1,6 +1,6 @@
 # J~Dizz¥
 
-J~Dizz¥ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Sensorium, Berlin on Fri, 16 Oct 2026.
+J~Dizz¥ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Sensorium, Berlin on Fri, 16 Oct 2026.
 
 J~Dizz¥ is a techno and house artist based in Germany, with 15 gigs on soundcheck across Berlin. Often billed alongside JAPV95, pink-panther and 4BLISS#. Next up: Sensorium, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ J~Dizz¥ is a techno and house artist based in Germany, with 15 gigs on soundche
 
 JAPV95, pink-panther, 4BLISS#
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jdizzy/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jdizzy/)*

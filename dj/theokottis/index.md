@@ -1,6 +1,6 @@
 # Theo Kottis
 
-Theo Kottis is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at East London Brewing Company, London on Sat, 31 Oct 2026.
+Theo Kottis is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at East London Brewing Company, London on Sat, 31 Oct 2026.
 
 Theo Kottis is a house and techno artist based in United Kingdom, with 81 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Berlin and 16 more. Often billed alongside Alien Communications, BAYS and DMX Krew. Next up: East London Brewing Company, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Theo Kottis is a house and techno artist based in United Kingdom, with 81 gigs o
 
 Alien Communications, BAYS, DMX Krew
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theokottis/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theokottis/)*

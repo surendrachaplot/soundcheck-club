@@ -1,6 +1,6 @@
 # Charlotte de Witte
 
-Charlotte de Witte is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Great Pyramids OF Giza, Egypt on Fri, 9 Oct 2026.
+Charlotte de Witte is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Great Pyramids OF Giza, Egypt on Fri, 9 Oct 2026.
 
 Charlotte de Witte is a techno and house artist based in Belgium, with 151 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 54 more. Often billed alongside Enrico Sangiuliano, Adiel and 999999999. Next up: The Great Pyramids OF Giza, Egypt on Fri 9 Oct.
 
@@ -36,4 +36,4 @@ Charlotte de Witte is a techno and house artist based in Belgium, with 151 gigs 
 
 Enrico Sangiuliano, Adiel, 999999999
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottedewitte/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottedewitte/)*

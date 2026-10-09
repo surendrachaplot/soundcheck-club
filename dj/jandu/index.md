@@ -1,14 +1,15 @@
 # Kieran Jandu
 
-Kieran Jandu is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Eastern Bloc Records, Manchester on Fri, 27 Nov 2026.
+Kieran Jandu is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Eastern Bloc Records, Manchester on Fri, 27 Nov 2026.
 
-Kieran Jandu is a tech house and house artist based in United Kingdom, with 14 gigs on soundcheck across Copenhagen, London and Manchester. Often billed alongside Avsluta, DJ FABRICATION and Esmé. Next up: Eastern Bloc Records, Manchester on Fri 27 Nov.
+Kieran Jandu is a tech house and house artist based in United Kingdom, with 15 gigs on soundcheck across Copenhagen, London and Manchester. Often billed alongside Avsluta, DJ FABRICATION and Esmé. Next up: Eastern Bloc Records, Manchester on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Eastern Bloc Records | Manchester |
+| Fri, 29 Jan 2027 | Eastern Bloc Records | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kieran Jandu is a tech house and house artist based in United Kingdom, with 14 g
 
 Avsluta, DJ FABRICATION, Esmé
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jandu/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jandu/)*

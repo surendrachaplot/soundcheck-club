@@ -1,6 +1,6 @@
 # The Golden Lion
 
-The Golden Lion is a music venue in Manchester with 15 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "SUBDUB - Iration Steppas Sound System & guests" on Fri, 9 Oct 2026.
+The Golden Lion is a music venue in Manchester with 15 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "SUBDUB - Iration Steppas Sound System & guests" on Fri, 9 Oct 2026.
 
 The Golden Lion is a music venue in Manchester listed on soundcheck. 15 upcoming gigs, with line-ups including Alex Dallas, Balrog, Bijon and Bill Brewster and 2 more. See dates, start times and who's playing. Fielden Square, Todmorden, OL14 6LZ, United Kingdom.
 
@@ -23,4 +23,4 @@ The Golden Lion is a music venue in Manchester listed on soundcheck. 15 upcoming
 
 Fielden Square, Todmorden, OL14 6LZ, United Kingdom, Manchester
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-golden-lion/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-golden-lion/)*

@@ -1,6 +1,6 @@
 # The Jago
 
-The Jago is a music venue in London with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "The Beirut Groove Collective Club-night" on Fri, 9 Oct 2026.
+The Jago is a music venue in London with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "The Beirut Groove Collective Club-night" on Fri, 9 Oct 2026.
 
 The Jago is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Ernesto Chahoud and Natalie Shooter. See dates, start times and who's playing. 440 Kingsland Road, E8 4AA London, United Kingdom.
 
@@ -17,4 +17,4 @@ The Jago is a music venue in London listed on soundcheck. 4 upcoming gigs, with 
 
 440 Kingsland Road, E8 4AA London, United Kingdom, London
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jago/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jago/)*

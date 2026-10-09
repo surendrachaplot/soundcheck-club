@@ -1,6 +1,6 @@
 # The Martinez Brothers
 
-The Martinez Brothers is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
+The Martinez Brothers is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
 
 The Martinez Brothers is a house and tech house artist based in United States of America, with 191 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 35 more. Often billed alongside Paco Osuna, Seth Troxler and Jamie Jones. Next up: Hï Ibiza, Ibiza on Fri 9 Oct.
 
@@ -32,4 +32,4 @@ The Martinez Brothers is a house and tech house artist based in United States of
 
 Paco Osuna, Seth Troxler, Jamie Jones
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themartinezbros/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themartinezbros/)*

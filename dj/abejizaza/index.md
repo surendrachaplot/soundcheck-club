@@ -1,6 +1,6 @@
 # abejizaza
 
-abejizaza is a Club and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at XLR, Manchester on Fri, 9 Oct 2026.
+abejizaza is a Club and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at XLR, Manchester on Fri, 9 Oct 2026.
 
 abejizaza is a club and trance artist based in Ireland, with 3 gigs on soundcheck across London and Manchester. Often billed alongside 0akley, Azrel and Jarvis Bitcoin. Next up: XLR, Manchester on Fri 9 Oct.
 
@@ -19,4 +19,4 @@ abejizaza is a club and trance artist based in Ireland, with 3 gigs on soundchec
 
 0akley, Azrel, Jarvis Bitcoin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abejizaza/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abejizaza/)*

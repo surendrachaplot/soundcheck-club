@@ -1,6 +1,6 @@
 # ILLI (HK)
 
-ILLI (HK) is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Social Room, Hong Kong on Fri, 16 Oct 2026.
+ILLI (HK) is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Social Room, Hong Kong on Fri, 16 Oct 2026.
 
 ILLI (HK) is a bass and drum & bass artist based in Indonesia, with 17 gigs on soundcheck across Hong Kong. Often billed alongside Immuno, DJ FU and GONG!. Next up: Social Room, Hong Kong on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ ILLI (HK) is a bass and drum & bass artist based in Indonesia, with 17 gigs on s
 
 Immuno, DJ FU (2), GONG!
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/illihk/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/illihk/)*

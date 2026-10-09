@@ -1,6 +1,6 @@
 # Selch
 
-Selch is a Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Munster Munch, London on Fri, 9 Oct 2026.
+Selch is a Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Munster Munch, London on Fri, 9 Oct 2026.
 
 Selch is a tech house artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside Areeb Abbasi, Auseeb and Kling. Next up: Munster Munch, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Selch is a tech house artist based in United Kingdom, with 11 gigs on soundcheck
 
 Areeb Abbasi, Auseeb, Kling
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selch/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selch/)*

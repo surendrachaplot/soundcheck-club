@@ -1,6 +1,6 @@
 # Low Res: Underground Disco with Rahaan at TBA
 
-Low Res: Underground Disco with Rahaan at TBA on Sat 24 Oct, San Francisco/Oakland. 5 artists: Big Happy, DJ rahaan, Infinite Jess and Three6sashia and 1 more. House and Disco. See the line-up on soundcheck.
+Low Res: Underground Disco with Rahaan at TBA on Sat 24 Oct, San Francisco/Oakland. 6 artists: Big Happy, DJ rahaan, Infinite Jess and lilia and 2 more. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Low Res: Underground Disco with Rahaan at TBA on Sat 24 Oct, San Francisco/Oakla
 - Big Happy
 - DJ rahaan
 - Infinite Jess
+- lilia
 - Three6sashia
 - Vin Sol
 

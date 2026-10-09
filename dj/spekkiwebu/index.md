@@ -1,8 +1,8 @@
 # Spekki Webu
 
-Spekki Webu is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
+Spekki Webu is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
 
-Spekki Webu is a techno and house artist based in Netherlands, with 208 gigs on soundcheck across Amsterdam, Athens, Auckland and Bangkok and 44 more. Often billed alongside Mama Snake, OCCA and Feral. Next up: Bassiani, Tbilisi on Fri 9 Oct.
+Spekki Webu is a techno and house artist based in Netherlands, with 209 gigs on soundcheck across Amsterdam, Athens, Auckland and Bangkok and 44 more. Often billed alongside Mama Snake, OCCA and Feral. Next up: Bassiani, Tbilisi on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Spekki Webu is a techno and house artist based in Netherlands, with 208 gigs on 
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 | Sat, 17 Oct 2026 | Circolo Amelia | Milan |
+| Thu, 5 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 27 Nov 2026 | Mezz | Netherlands |
 | Fri, 22 Jan 2027 | TBA | Berlin |
 
@@ -28,4 +29,4 @@ Spekki Webu is a techno and house artist based in Netherlands, with 208 gigs on 
 
 Mama Snake, OCCA, Feral
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spekkiwebu/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spekkiwebu/)*

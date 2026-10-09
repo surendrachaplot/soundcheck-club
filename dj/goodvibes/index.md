@@ -1,6 +1,6 @@
 # Good Vibes
 
-Good Vibes is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Teja House, Lisbon on Sat, 10 Oct 2026.
+Good Vibes is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Teja House, Lisbon on Sat, 10 Oct 2026.
 
 Good Vibes is a tech house and house artist based in United Kingdom, with 8 gigs on soundcheck across Athens, Budapest, Dublin and Frankfurt and 3 more. Often billed alongside Bastille, Boutiq.808 and DVM. Next up: Teja House, Lisbon on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Good Vibes is a tech house and house artist based in United Kingdom, with 8 gigs
 
 Bastille, Boutiq.808, DVM (1)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goodvibes/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goodvibes/)*

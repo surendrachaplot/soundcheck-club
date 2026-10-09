@@ -1,6 +1,6 @@
 # MLLE CEE
 
-MLLE CEE is a Latin Bass and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - LOCATION SENT TO TIX HOLDERS ON DAY OF EVENT, Montreal on Sat, 10 Oct 2026.
+MLLE CEE is a Latin Bass and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - LOCATION SENT TO TIX HOLDERS ON DAY OF EVENT, Montreal on Sat, 10 Oct 2026.
 
 MLLE CEE is a latin bass and afro house artist based in Canada, with 27 gigs on soundcheck across Montreal. Often billed alongside softwarewolfe, CVSTRO and xibaona. Next up: TBA - LOCATION SENT TO TIX HOLDERS ON DAY OF EVENT, Montreal on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ MLLE CEE is a latin bass and afro house artist based in Canada, with 27 gigs on 
 
 softwarewolfe, CVSTRO, xibaona
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mllecee/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mllecee/)*

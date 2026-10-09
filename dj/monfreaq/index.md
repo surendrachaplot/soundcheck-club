@@ -1,6 +1,6 @@
 # Monfreaq
 
-Monfreaq is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Angel Music Bar, Melbourne on Sat, 10 Oct 2026.
+Monfreaq is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Angel Music Bar, Melbourne on Sat, 10 Oct 2026.
 
 Monfreaq is a techno and house artist based in Australia, with 37 gigs on soundcheck across Berlin and Melbourne. Often billed alongside Hannah D, Yollks and Mabel. Next up: Angel Music Bar, Melbourne on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Monfreaq is a techno and house artist based in Australia, with 37 gigs on soundc
 
 Hannah D, Yollks, Mabel
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monfreaq/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monfreaq/)*

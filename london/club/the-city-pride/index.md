@@ -1,17 +1,17 @@
 # The City Pride
 
-The City Pride is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "The Essential Christmas Special" on Sat, 5 Dec 2026.
+The City Pride is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. The next is "The Essential Christmas Special" on Sat, 5 Dec 2026.
 
-The City Pride is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Daniel Ward and Hermit. See dates, start times and who's playing. 28 Farringdon Lane, EC1R 3AN.
+The City Pride is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Daniel Ward, DC EFX, DJ Listener and Hermit and 2 more. See dates, start times and who's playing. 28 Farringdon Lane, EC1R 3AN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 5 Dec 2026 | The Essential Christmas Special | Daniel Ward, Hermit |
+| Sat, 5 Dec 2026 | The Essential Christmas Special | DC EFX, DJ Listener, Daniel Ward, Hermit, Lawrence Anthony, MC CKP, MC Secret Agent, Munchie MC, Ramsey & Fen, Shane Blitz, Twin Peaks |
 
 ## Address
 
 28 Farringdon Lane, EC1R 3AN, London
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-city-pride/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-city-pride/)*

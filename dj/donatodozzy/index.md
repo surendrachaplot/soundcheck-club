@@ -1,8 +1,8 @@
 # Donato Dozzy
 
-Donato Dozzy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at RADION, Amsterdam on Sat, 24 Oct 2026.
+Donato Dozzy is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at RADION, Amsterdam on Sat, 24 Oct 2026.
 
-Donato Dozzy is a techno and house artist based in Italy, with 100 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 32 more. Often billed alongside Voices From The Lake, Spekki Webu and Batu. Next up: RADION, Amsterdam on Sat 24 Oct.
+Donato Dozzy is a techno and house artist based in Italy, with 101 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 32 more. Often billed alongside Voices From The Lake, Spekki Webu and Batu. Next up: RADION, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Donato Dozzy is a techno and house artist based in Italy, with 100 gigs on sound
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
 | Sun, 25 Oct 2026 | Paradiso | Amsterdam |
+| Fri, 6 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 21 Nov 2026 | FOLD | London |
 
 ## Recently played
@@ -27,4 +28,4 @@ Donato Dozzy is a techno and house artist based in Italy, with 100 gigs on sound
 
 Voices From The Lake, Spekki Webu, Batu
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donatodozzy/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donatodozzy/)*

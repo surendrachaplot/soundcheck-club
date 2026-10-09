@@ -1,6 +1,6 @@
 # Boris Werner
 
-Boris Werner is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Het Salon, Amsterdam on Fri, 9 Oct 2026.
+Boris Werner is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Het Salon, Amsterdam on Fri, 9 Oct 2026.
 
 Boris Werner is a house and techno artist based in Netherlands, with 49 gigs on soundcheck across Amsterdam, Berlin, Detroit and Geneva and 4 more. Often billed alongside Benny Rodrigues, Michel de Hey and Noach. Next up: Het Salon, Amsterdam on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Boris Werner is a house and techno artist based in Netherlands, with 49 gigs on 
 
 Benny Rodrigues, Michel de Hey, Noach
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boriswerner/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boriswerner/)*

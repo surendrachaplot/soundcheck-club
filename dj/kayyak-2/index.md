@@ -1,6 +1,6 @@
 # KAYYAK
 
-KAYYAK is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Kauz, Zurich on Sat, 17 Oct 2026.
+KAYYAK is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Kauz, Zurich on Sat, 17 Oct 2026.
 
 KAYYAK is a house and electronica artist based in Switzerland, with 48 gigs on soundcheck across Barcelona, Ibiza, Manchester and New York City and 1 more. Often billed alongside Kalabrese, Alex Dallas and Dejan. Next up: Kauz, Zurich on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ KAYYAK is a house and electronica artist based in Switzerland, with 48 gigs on s
 
 Kalabrese, Alex Dallas, Dejan
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kayyak-2/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kayyak-2/)*

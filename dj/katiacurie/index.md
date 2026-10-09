@@ -1,6 +1,6 @@
 # Katia Curie
 
-Katia Curie is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri, 9 Oct 2026.
+Katia Curie is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri, 9 Oct 2026.
 
 Katia Curie is a house and techno artist based in Ukraine, with 119 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Nizar Sarakbi, KATIA and Felix Rupprecht. Next up: Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri 9 Oct.
 
@@ -32,4 +32,4 @@ Katia Curie is a house and techno artist based in Ukraine, with 119 gigs on soun
 
 Nizar Sarakbi, KATIA, Felix Rupprecht
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katiacurie/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katiacurie/)*

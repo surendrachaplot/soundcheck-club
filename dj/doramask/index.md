@@ -1,14 +1,15 @@
 # Dora Mask
 
-Dora Mask is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at SMUT Athens, Athens on Sat, 24 Oct 2026.
+Dora Mask is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at SMUT Athens, Athens on Sat, 24 Oct 2026.
 
-Dora Mask is a techno and electro artist based in Greece, with 63 gigs on soundcheck across Athens. Often billed alongside IMPVLSIV, Miss Trouli and ClubKid. Next up: SMUT Athens, Athens on Sat 24 Oct.
+Dora Mask is a techno and electro artist based in Greece, with 64 gigs on soundcheck across Athens. Often billed alongside IMPVLSIV, Miss Trouli and ClubKid. Next up: SMUT Athens, Athens on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | SMUT Athens | Athens |
+| Fri, 13 Nov 2026 | Romantso | Athens |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Dora Mask is a techno and electro artist based in Greece, with 63 gigs on soundc
 
 IMPVLSIV, Miss Trouli, ClubKid
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doramask/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doramask/)*

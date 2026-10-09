@@ -1,6 +1,6 @@
 # Zemög
 
-Zemög is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Zemög is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
 Zemög is a techno and dub techno artist based in Colombia, with 16 gigs on soundcheck across Amsterdam, Berlin, Buenos Aires and Colombia and 9 more. Often billed alongside Inger, SUZAN and Agonis. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
@@ -25,4 +25,4 @@ Zemög is a techno and dub techno artist based in Colombia, with 16 gigs on soun
 
 Inger, SUZAN (2), Agonis
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zemog/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zemog/)*

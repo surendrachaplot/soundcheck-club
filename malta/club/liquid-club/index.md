@@ -1,6 +1,6 @@
 # Liquid Club
 
-Liquid Club is a music venue in Malta with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "KINSIDERS" on Fri, 9 Oct 2026.
+Liquid Club is a music venue in Malta with 12 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "KINSIDERS" on Fri, 9 Oct 2026.
 
 Liquid Club is a music venue in Malta listed on soundcheck. 12 upcoming gigs, with line-ups including Andrea Giordani, Bae Blade, BIIANCO and Billy Hills and 2 more. See dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
 
@@ -8,7 +8,7 @@ Liquid Club is a music venue in Malta listed on soundcheck. 12 upcoming gigs, wi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | KINSIDERS | Rensei |
+| Fri, 9 Oct 2026 | KINSIDERS | Dannie (MT), Rensei |
 | Fri, 9 Oct 2026 | BASSTEK - PART 11 | Billy Hills, DJ Bax, Thibo Verbeke, Unicorn on Ketamine |
 | Sat, 10 Oct 2026 | Glitch Club Series: Philippa Pacho, Setaoc Mass | Joshua Calleja, Philippa Pacho, Setaoc Mass |
 | Fri, 16 Oct 2026 | RAVE the subculture |  |
@@ -23,4 +23,4 @@ Liquid Club is a music venue in Malta listed on soundcheck. 12 upcoming gigs, wi
 
 Triq Hal-Gharghur, San Ġwann, Malta, Malta
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*

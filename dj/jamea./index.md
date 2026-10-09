@@ -1,6 +1,6 @@
 # jamea.
 
-jamea. is a Techno and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TV Lounge, Detroit on Fri, 9 Oct 2026.
+jamea. is a Techno and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TV Lounge, Detroit on Fri, 9 Oct 2026.
 
 jamea. is a techno and ghetto tech artist based in United States of America, with 50 gigs on soundcheck across Chicago, Detroit, Nashville and New York City. Often billed alongside we1sman, Wax Assassin and Ember LaFiamma. Next up: TV Lounge, Detroit on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ jamea. is a techno and ghetto tech artist based in United States of America, wit
 
 we1sman, Wax Assassin, Ember LaFiamma
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamea./)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamea./)*

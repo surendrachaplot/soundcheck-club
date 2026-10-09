@@ -1,14 +1,15 @@
 # Bartek
 
-Bartek is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at The Voodoo Rooms, Edinburgh on Fri, 9 Oct 2026.
+Bartek is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Voodoo Rooms, Edinburgh on Fri, 9 Oct 2026.
 
-Bartek is a house and garage artist, with 91 gigs on soundcheck across Amsterdam, Edinburgh, Los Angeles and Manchester and 2 more. Often billed alongside Bokonon, freddy haptic and Releaf. Next up: The Voodoo Rooms, Edinburgh on Fri 9 Oct.
+Bartek is a house and garage artist, with 92 gigs on soundcheck across Amsterdam, Edinburgh, Los Angeles and Manchester and 2 more. Often billed alongside freddy haptic, Bokonon and Releaf. Next up: The Voodoo Rooms, Edinburgh on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | The Voodoo Rooms | Edinburgh |
+| Thu, 29 Oct 2026 | Sneaky Pete's | Edinburgh |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Bartek is a house and garage artist, with 91 gigs on soundcheck across Amsterdam
 
 ## Shares bills with
 
-Bokonon, freddy haptic, Releaf
+freddy haptic, Bokonon, Releaf
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bartek/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bartek/)*

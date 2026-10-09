@@ -1,6 +1,6 @@
 # Bayside Lounge
 
-Bayside Lounge is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "Tuesdays" on Tue, 13 Oct 2026.
+Bayside Lounge is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. The next is "Tuesdays" on Tue, 13 Oct 2026.
 
 Bayside Lounge is a music venue in Vancouver listed on soundcheck. 1 upcoming gig, with line-ups including raen. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Bayside Lounge is a music venue in Vancouver listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Tue, 13 Oct 2026 | Tuesdays | raen |
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/bayside-lounge/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/bayside-lounge/)*

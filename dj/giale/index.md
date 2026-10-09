@@ -1,6 +1,6 @@
 # Giale
 
-Giale is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at L'Argent Bistrot, Milan on Fri, 9 Oct 2026.
+Giale is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at L'Argent Bistrot, Milan on Fri, 9 Oct 2026.
 
 Giale is a techno and electro artist, with 44 gigs on soundcheck across Milan, Naples and Tokyo. Often billed alongside Creamy, Andrewww and Hiroko Hacci. Next up: L'Argent Bistrot, Milan on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Giale is a techno and electro artist, with 44 gigs on soundcheck across Milan, N
 
 Creamy, Andrewww, Hiroko Hacci
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giale/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giale/)*

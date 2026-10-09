@@ -1,6 +1,6 @@
 # FORGE
 
-FORGE is a music venue in Sheffield with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "SNAFU: Gabrielle Kwarteng, Robyn Jade, KiT" on Fri, 9 Oct 2026.
+FORGE is a music venue in Sheffield with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "SNAFU: Gabrielle Kwarteng, Robyn Jade, KiT" on Fri, 9 Oct 2026.
 
 FORGE is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, with line-ups including Adam F, Ben Suff Donk, Bimini and Burt Cope and 2 more. See dates, start times and who's playing. 148 Effingham Road, Sheffield, S4 7YS.
 
@@ -23,4 +23,4 @@ FORGE is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, with
 
 148 Effingham Road, Sheffield, S4 7YS, Sheffield
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/forge/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/forge/)*

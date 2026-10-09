@@ -1,6 +1,6 @@
 # Vaahzer
 
-Vaahzer is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 10 Oct 2026.
+Vaahzer is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 10 Oct 2026.
 
 Vaahzer is a techno and house artist based in Germany, with 51 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Frankfurt and 14 more. Often billed alongside Vlada, Max Vaahs and Marcolino. Next up: Tokonoma Club, Frankfurt on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Vaahzer is a techno and house artist based in Germany, with 51 gigs on soundchec
 
 Vlada, Max Vaahs, Marcolino
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vaahzer/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vaahzer/)*

@@ -1,8 +1,8 @@
 # Nakano Heavysick Zero
 
-Nakano Heavysick Zero is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "HSZ LOUNGE" on Fri, 9 Oct 2026.
+Nakano Heavysick Zero is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "HSZ LOUNGE" on Fri, 9 Oct 2026.
 
-Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including Aki Dolanikov, Dogwoods, iida Reo and Ko Umehara and 2 more. See dates, start times and who's playing. 5Chome-41-8,Nakano,Nakano-ku,Tokyo.
+Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including Aki Dolanikov, Dev/Null, Dogwoods and GATERROR and 2 more. See dates, start times and who's playing. 5Chome-41-8,Nakano,Nakano-ku,Tokyo.
 
 ## What's on
 
@@ -17,9 +17,10 @@ Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 9 upcoming
 | Thu, 29 Oct 2026 | Who Loves the Sun | Ko Umehara |
 | Sat, 7 Nov 2026 | GRIT - グリット - |  |
 | Sat, 14 Nov 2026 | TECHNO ALLIANCE MEETING 3 | Satoshi Imano, Takayuki Kamiya, Yebisu303 |
+| Sat, 5 Dec 2026 | MURDER CHANNEL 22nd ANNIVERSARY | Dev/Null, GATERROR, Goth-Trad, Hitori Tori, goreshit |
 
 ## Address
 
 5Chome-41-8,Nakano,Nakano-ku,Tokyo, Tokyo
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/nakano-heavysick-zero/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/nakano-heavysick-zero/)*

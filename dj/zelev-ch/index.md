@@ -1,13 +1,14 @@
 # Zelev (CH)
 
-Zelev (CH) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 1 Nov 2026.
+Zelev (CH) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Galvanik Zug, Switzerland on Sat, 24 Oct 2026.
 
-Zelev (CH) is a house and minimal artist based in Switzerland, with 23 gigs on soundcheck across Berlin, Hamburg, London and Zurich. Often billed alongside Juli Lee, ATTA (GER) and 2M (CH). Next up: Starlane Pizza Bar, London on Sun 1 Nov.
+Zelev (CH) is a house and minimal artist based in Switzerland, with 24 gigs on soundcheck across Berlin, Hamburg, London and Switzerland and 1 more. Often billed alongside Juli Lee, ATTA (GER) and 2M (CH). Next up: Galvanik Zug, Switzerland on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Galvanik Zug | Switzerland |
 | Sun, 1 Nov 2026 | Starlane Pizza Bar | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Zelev (CH) is a house and minimal artist based in Switzerland, with 23 gigs on s
 
 Juli Lee, ATTA (GER), 2M (CH)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zelev-ch/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zelev-ch/)*

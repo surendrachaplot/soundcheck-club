@@ -1,6 +1,6 @@
 # Pasch
 
-Pasch is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Silbergold, Frankfurt on Sat, 10 Oct 2026.
+Pasch is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Silbergold, Frankfurt on Sat, 10 Oct 2026.
 
 Pasch is a drum & bass artist based in Germany, with 24 gigs on soundcheck across Frankfurt. Often billed alongside Dogpatrol, KIMMO and Kuttin Edge. Next up: Silbergold, Frankfurt on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Pasch is a drum & bass artist based in Germany, with 24 gigs on soundcheck acros
 
 Dogpatrol, KIMMO, Kuttin Edge
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pasch/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pasch/)*

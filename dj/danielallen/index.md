@@ -1,13 +1,14 @@
 # Daniel Allen
 
-Daniel Allen is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA, Los Angeles on Sun, 18 Oct 2026.
+Daniel Allen is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Air Conditioned Lounge, San Diego on Fri, 16 Oct 2026.
 
-Daniel Allen is a house and deep house artist based in United States of America, with 34 gigs on soundcheck across Austin, Chicago, Denver and Detroit and 3 more. Often billed alongside Bonnie Stoneman, Marcus Lott and Phamstar. Next up: TBA, Los Angeles on Sun 18 Oct.
+Daniel Allen is a house and deep house artist based in United States of America, with 35 gigs on soundcheck across Austin, Chicago, Denver and Detroit and 4 more. Often billed alongside Bonnie Stoneman, Marcus Lott and Phamstar. Next up: The Air Conditioned Lounge, San Diego on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | The Air Conditioned Lounge | San Diego |
 | Sun, 18 Oct 2026 | TBA | Los Angeles |
 
 ## Recently played
@@ -25,4 +26,4 @@ Daniel Allen is a house and deep house artist based in United States of America,
 
 Bonnie Stoneman, Marcus Lott, Phamstar
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielallen/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielallen/)*

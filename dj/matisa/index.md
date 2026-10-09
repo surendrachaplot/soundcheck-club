@@ -1,8 +1,8 @@
 # Matisa
 
-Matisa is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Radio Radio, Amsterdam on Fri, 9 Oct 2026.
+Matisa is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Radio Radio, Amsterdam on Fri, 9 Oct 2026.
 
-Matisa is a house and techno artist based in Italy, with 130 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside CHRIS STASSY, DJ Tennis and The Martinez Brothers. Next up: Radio Radio, Amsterdam on Fri 9 Oct.
+Matisa is a house and techno artist based in Italy, with 132 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside CHRIS STASSY, DJ Tennis and The Martinez Brothers. Next up: Radio Radio, Amsterdam on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,7 +15,9 @@ Matisa is a house and techno artist based in Italy, with 130 gigs on soundcheck 
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 | Sun, 25 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | Taets Art & Event Park | Amsterdam |
+| Mon, 26 Oct 2026 | TILLATEC | Amsterdam |
 | Sat, 31 Oct 2026 | Parc del Fòrum | Barcelona |
+| Fri, 6 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 14 Nov 2026 | Cadavra | Madrid |
 
 ## Recently played
@@ -33,4 +35,4 @@ Matisa is a house and techno artist based in Italy, with 130 gigs on soundcheck 
 
 CHRIS STASSY, DJ Tennis, The Martinez Brothers
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matisa/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matisa/)*

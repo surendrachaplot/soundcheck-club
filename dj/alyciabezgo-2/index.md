@@ -1,6 +1,6 @@
 # Alycia Bezgo
 
-Alycia Bezgo is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Chinastraat, Ghent on Fri, 9 Oct 2026.
+Alycia Bezgo is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Chinastraat, Ghent on Fri, 9 Oct 2026.
 
 Alycia Bezgo is a techno and trance artist based in Belgium, with 70 gigs on soundcheck across Amsterdam, Antwerp, Athens and Basel and 23 more. Often billed alongside BIIANCO, ÜBERKIKZ and Helena Lauwaert. Next up: Chinastraat, Ghent on Fri 9 Oct.
 
@@ -33,4 +33,4 @@ Alycia Bezgo is a techno and trance artist based in Belgium, with 70 gigs on sou
 
 BIIANCO, ÜBERKIKZ, Helena Lauwaert
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alyciabezgo-2/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alyciabezgo-2/)*

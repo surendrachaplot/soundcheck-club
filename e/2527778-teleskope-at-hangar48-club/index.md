@@ -1,6 +1,6 @@
 # TELESKOPE at Hangar48 Club
 
-TELESKOPE at Hangar48 Club on Fri 16 Oct, Madrid. Tech House. See the line-up on soundcheck.
+TELESKOPE at Hangar48 Club on Fri 16 Oct, Madrid. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

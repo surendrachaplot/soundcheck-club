@@ -1,13 +1,14 @@
 # Tchami
 
-Tchami is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
+Tchami is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Triangle, Osaka on Fri, 30 Oct 2026.
 
-Tchami is a house and bass artist based in France, with 56 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 23 more. Often billed alongside AC Slater, David Guetta and Wax Motif. Next up: NOS Event Center, Los Angeles on Thu 31 Dec.
+Tchami is a house and bass artist based in France, with 57 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 24 more. Often billed alongside AC Slater, Wax Motif and David Guetta. Next up: Triangle, Osaka on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Triangle | Osaka |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
 
 ## Recently played
@@ -23,6 +24,6 @@ Tchami is a house and bass artist based in France, with 56 gigs on soundcheck ac
 
 ## Shares bills with
 
-AC Slater, David Guetta, Wax Motif
+AC Slater, Wax Motif, David Guetta
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tchami/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tchami/)*

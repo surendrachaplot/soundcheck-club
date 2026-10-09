@@ -1,14 +1,15 @@
 # BRET
 
-BRET is a music venue in Amsterdam with 16 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Festen, Mia Cecille b2b Zeynep, Nathan Homan" on Fri, 9 Oct 2026.
+BRET is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Festen, Mia Cecille b2b Zeynep, Nathan Homan" on Fri, 9 Oct 2026.
 
-BRET is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, with line-ups including Al Ex, Alex Dima, Alexia Glensy and Andy Luff and 2 more. See dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
+BRET is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including Al Ex, Alex Dima, Alexia Glensy and Andy Luff and 2 more. See dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Festen, Mia Cecille b2b Zeynep, Nathan Homan | Festen, Mia Cecille, Nathan Homan, Zeynep |
+| Sat, 10 Oct 2026 | Caim, Kevin Lo, Mattias El Mansouri | Caim, Kevin Lo, Mattias El Mansouri |
 | Wed, 21 Oct 2026 | Lobster Invites - Free ADE Event | Kyra Khaldi, Lobster (NL), Mella Dee, Samuel Deep |
 | Thu, 22 Oct 2026 | SLACKER x BRET - ADE | Gaiser, Marc Houle, Olive F, Rio Tashan, Seth Troxler, Sindicato Del Baile, Tiga, Tom Trago |
 | Fri, 23 Oct 2026 | Mano Le Tough pres. Maeve x ADE | Carlos Valdes, Cassy, Luke Alessi, Mano Le Tough, The Drifter |
@@ -17,10 +18,9 @@ BRET is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, with 
 | Sat, 24 Oct 2026 | ADE - VBX - SATURDAY DAY  | Cap, Desyn, Grant Dell, H-Foundation, Hannecart, Ion Ludwig, Mayell |
 | Sat, 24 Oct 2026 | DAYCARE x ADE | Bastienne, Mahabe, Phara, Shaleen, Tommy Four Seven |
 | Sun, 25 Oct 2026 | SLPFNK - BRET ADE |  |
-| Sun, 25 Oct 2026 | ADE Sunday with Joseph Capriati (SOLD OUT) | Cristina Lazic, Joseph Capriati |
 
 ## Address
 
 Orlyplein 76, 1043 DP Amsterdam, Netherlands, Amsterdam
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*

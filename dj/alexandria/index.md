@@ -1,6 +1,6 @@
 # Alexandria
 
-Alexandria is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at 93 Feet East, London on Sat, 17 Oct 2026.
+Alexandria is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at 93 Feet East, London on Sat, 17 Oct 2026.
 
 Alexandria is a house and tech house artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bristol and 10 more. Often billed alongside Josh Baker, Marsolo and L.P. Rhythm. Next up: 93 Feet East, London on Sat 17 Oct.
 
@@ -29,4 +29,4 @@ Alexandria is a house and tech house artist based in United Kingdom, with 63 gig
 
 Josh Baker, Marsolo, L.P. Rhythm
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandria/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandria/)*

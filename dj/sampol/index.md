@@ -1,14 +1,14 @@
 # Sampol
 
-Sampol is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Fvtvr, Paris on Fri, 9 Oct 2026.
+Sampol is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at FVTVR, Paris on Fri, 9 Oct 2026.
 
-Sampol is an electro and house artist based in Spain, with 113 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 13 more. Often billed alongside Alex (ES), Hitch and MARYO. Next up: Fvtvr, Paris on Fri 9 Oct.
+Sampol is an electro and house artist based in Spain, with 113 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 13 more. Often billed alongside Alex (ES), Hitch and MARYO. Next up: FVTVR, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Fvtvr | Paris |
+| Fri, 9 Oct 2026 | FVTVR | Paris |
 | Fri, 1 Jan 2027 | Bosc Tancat / Diverbosc | Barcelona |
 
 ## Recently played
@@ -26,4 +26,4 @@ Sampol is an electro and house artist based in Spain, with 113 gigs on soundchec
 
 Alex (ES), Hitch, MARYO
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sampol/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sampol/)*

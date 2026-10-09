@@ -1,6 +1,6 @@
 # Artifex (DE)
 
-Artifex (DE) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 9 Oct 2026.
+Artifex (DE) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 9 Oct 2026.
 
 Artifex (DE) is a techno and house artist based in Germany, with 45 gigs on soundcheck across Berlin, Munich, Nürnberg and Paris and 2 more. Often billed alongside Neverglass, Arcann and Max Wagner. Next up: Lokschuppen Berlin, Berlin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Artifex (DE) is a techno and house artist based in Germany, with 45 gigs on soun
 
 Neverglass, Arcann, Max Wagner
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artifex-2/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artifex-2/)*

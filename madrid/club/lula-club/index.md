@@ -1,26 +1,26 @@
 # Lula Club
 
-Lula Club is a music venue in Madrid with 43 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "NO NAME" on Thu, 8 Oct 2026.
+Lula Club is a music venue in Madrid with 42 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Andrea Oliva" on Fri, 9 Oct 2026.
 
-Lula Club is a music venue in Madrid listed on soundcheck. 43 upcoming gigs, with line-ups including AARON SEVILLA, Adam Ten, AMOR MUSIC and Andrea Oliva and 2 more. See dates, start times and who's playing. Gran Via 54.
+Lula Club is a music venue in Madrid listed on soundcheck. 42 upcoming gigs, with line-ups including AARON SEVILLA, Adam Ten, AMOR MUSIC and Andrea Oliva and 2 more. See dates, start times and who's playing. Gran Via 54.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | NO NAME |  |
 | Fri, 9 Oct 2026 | Andrea Oliva | Andrea Oliva |
-| Fri, 9 Oct 2026 | FÜNDAY OPENING: DAYTIME CLUBBING at LULA / LAST 150 FREE TICKETS | DLOU, Loopita |
+| Fri, 9 Oct 2026 | FÜNDAY OPENING: DAYTIME CLUBBING at LULA / LAST 100 FREE TICKETS | DLOU, Loopita |
 | Sat, 10 Oct 2026 | YUKI'S HOUSE |  |
-| Sun, 11 Oct 2026 | After Party Official | CAMET, Torrione |
+| Sun, 11 Oct 2026 | After Party | CAMET, Torrione |
 | Thu, 15 Oct 2026 | THURSDAY NIGHT |  |
 | Fri, 16 Oct 2026 | MAZ | Maz (BR) |
 | Sat, 17 Oct 2026 | HOUSE OF RICHI w/Richi Risco | Richi Risco |
 | Thu, 22 Oct 2026 | Benditos Locos with Simon Kidzoo | Simon Kidzoo |
 | Fri, 23 Oct 2026 | CAMET, Luigii Nieto, JP Candela | CAMET, JP Candela |
+| Sat, 24 Oct 2026 | CLASSIX OF HOUSE BY FRAN ARES |  |
 
 ## Address
 
 Gran Via 54, Madrid
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lula-club/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lula-club/)*

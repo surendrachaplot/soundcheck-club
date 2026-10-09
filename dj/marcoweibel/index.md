@@ -1,6 +1,6 @@
 # Marco Weibel
 
-Marco Weibel is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Système, Montreal on Fri, 9 Oct 2026.
+Marco Weibel is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Système, Montreal on Fri, 9 Oct 2026.
 
 Marco Weibel is a house and techno artist, with 130 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 21 more. Often billed alongside Lefto Early Bird, Spurge and Dexter Colt. Next up: Système, Montreal on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Marco Weibel is a house and techno artist, with 130 gigs on soundcheck across Am
 
 Lefto Early Bird, Spurge, Dexter Colt
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoweibel/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoweibel/)*

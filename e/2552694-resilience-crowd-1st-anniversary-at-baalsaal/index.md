@@ -1,6 +1,6 @@
 # RESILIENCE CROWD 1st ANNIVERSARY at Baalsaal
 
-RESILIENCE CROWD 1st ANNIVERSARY at Baalsaal on Sat 7 Nov, Hamburg. 1 artist: Serge André. Techno. See the line-up on soundcheck.
+RESILIENCE CROWD 1st ANNIVERSARY at Baalsaal on Sat 7 Nov, Hamburg. 2 artists: BLACK LYON and Serge André. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ RESILIENCE CROWD 1st ANNIVERSARY at Baalsaal on Sat 7 Nov, Hamburg. 1 artist: Se
 
 ## Line-up
 
+- BLACK LYON
 - Serge André
 
 *Source: [soundcheck](https://soundcheck.club/e/2552694-resilience-crowd-1st-anniversary-at-baalsaal/)*

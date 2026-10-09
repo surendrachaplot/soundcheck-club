@@ -1,6 +1,6 @@
 # Brown Liquah
 
-Brown Liquah is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at The Red Pavilion, New York City on Fri, 9 Oct 2026.
+Brown Liquah is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at The Red Pavilion, New York City on Fri, 9 Oct 2026.
 
 Brown Liquah is a club and hip-hop artist based in United States of America, with 14 gigs on soundcheck across New York City, Paris, Philadelphia and Washington DC. Often billed alongside Kenni Javon, Litney and DJ Freedem. Next up: The Red Pavilion, New York City on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Brown Liquah is a club and hip-hop artist based in United States of America, wit
 
 Kenni Javon, Litney, DJ Freedem
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brownliquah/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brownliquah/)*

@@ -1,6 +1,6 @@
 # Paco Osuna
 
-Paco Osuna is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
+Paco Osuna is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
 
 Paco Osuna is a tech house and house artist based in Spain, with 245 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 46 more. Often billed alongside The Martinez Brothers, Melanie Ribbe and Marco Carola. Next up: Hï Ibiza, Ibiza on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ Paco Osuna is a tech house and house artist based in Spain, with 245 gigs on sou
 
 The Martinez Brothers, Melanie Ribbe, Marco Carola
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pacoosuna/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pacoosuna/)*

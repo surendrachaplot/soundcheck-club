@@ -1,8 +1,8 @@
 # SOFIYA V
 
-SOFIYA V is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Honey's, New York City on Wed, 21 Oct 2026.
+SOFIYA V is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Honey's, New York City on Wed, 21 Oct 2026.
 
-SOFIYA V is a techno and house artist based in United States of America, with 12 gigs on soundcheck across New York City. Often billed alongside Preacher's Daughter, Iggy Nuclear and Kettle. Next up: Honey's, New York City on Wed 21 Oct.
+SOFIYA V is a techno and house artist based in United States of America, with 12 gigs on soundcheck across New York City. Often billed alongside Preacher's Daughter, Conduit and Iggy Nuclear. Next up: Honey's, New York City on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ SOFIYA V is a techno and house artist based in United States of America, with 12
 
 ## Shares bills with
 
-Preacher's Daughter, Iggy Nuclear, Kettle
+Preacher's Daughter, Conduit, Iggy Nuclear
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiyav/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiyav/)*

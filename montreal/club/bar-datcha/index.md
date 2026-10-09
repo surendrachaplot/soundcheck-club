@@ -1,14 +1,13 @@
 # Bar Datcha
 
-Bar Datcha is a music venue in Montreal with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "James Benjamin, Hydra, Mak1ntouch, Lucid Grooves" on Thu, 8 Oct 2026.
+Bar Datcha is a music venue in Montreal with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Datcha NONSTOP: Blu:sh [Berlin], Frankie Teardrop, Syd Woz, ZDBT" on Fri, 9 Oct 2026.
 
-Bar Datcha is a music venue in Montreal listed on soundcheck. 12 upcoming gigs, with line-ups including 99hp, Badgalquirit, Blu:sh and Bwi-Bwi and 2 more. See dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
+Bar Datcha is a music venue in Montreal listed on soundcheck. 11 upcoming gigs, with line-ups including 99hp, Badgalquirit, Blu:sh and Bwi-Bwi and 2 more. See dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | James Benjamin, Hydra, Mak1ntouch, Lucid Grooves | James Benjamin, Lucid Grooves, hÿdra |
 | Fri, 9 Oct 2026 | Datcha NONSTOP: Blu:sh [Berlin], Frankie Teardrop, Syd Woz, ZDBT | Blu:sh, Frankie Teardrop, Syd Woz, ZDBT |
 | Sat, 10 Oct 2026 | Club Haram: Maral Mane, Claireyyy, mayalabae, Cirque Cosmic, Badgalquirit | Badgalquirit, Cirque Cosmic, Claireyy, Maral Mane, mayalabae |
 | Thu, 15 Oct 2026 | Panatekk: venus in bed, Ekitwanda, Juju le Moko | Ekitwanda, Juju le Moko, venus in bed |
@@ -18,9 +17,10 @@ Bar Datcha is a music venue in Montreal listed on soundcheck. 12 upcoming gigs, 
 | Fri, 23 Oct 2026 | Datcha NONSTOP: Ramzilla, Gi Gi, Tess Roby & Numa Gama | Gi Gi, Numa Gama, Ramzilla, Tess Roby |
 | Sat, 24 Oct 2026 | Subnoir: Yaya, Noel, Syana | Syana |
 | Thu, 29 Oct 2026 | DJ Frog, wetdogg, Nautiluss | DJ Frog, Nautiluss, wetdogg |
+| Fri, 30 Oct 2026 | Le Rotary Club, ROH, Balou | Le Rotary Club |
 
 ## Address
 
 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada, Montreal
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*

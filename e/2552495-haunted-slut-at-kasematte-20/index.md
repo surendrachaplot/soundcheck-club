@@ -1,6 +1,6 @@
 # HAUNTED SLUT at Kasematte 20
 
-HAUNTED SLUT at Kasematte 20 on Fri 30 Oct, Hamburg. 3 artists: Haeder, HORNS and V3NÜ5. Techno and House. See the line-up on soundcheck.
+HAUNTED SLUT at Kasematte 20 on Fri 30 Oct, Hamburg. 2 artists: Haeder and V3NÜ5. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ HAUNTED SLUT at Kasematte 20 on Fri 30 Oct, Hamburg. 3 artists: Haeder, HORNS an
 ## Line-up
 
 - Haeder
-- HORNS (1)
 - V3NÜ5
 
 *Source: [soundcheck](https://soundcheck.club/e/2552495-haunted-slut-at-kasematte-20/)*

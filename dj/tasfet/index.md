@@ -1,6 +1,6 @@
 # Tasfet
 
-Tasfet is a Breakbeat and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Block1, Berlin on Fri, 16 Oct 2026.
+Tasfet is a Breakbeat and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Block1, Berlin on Fri, 16 Oct 2026.
 
 Tasfet is a breakbeat and electro artist, with 15 gigs on soundcheck across Berlin and London. Often billed alongside Atxa, Lu_x2 and Flickerchild. Next up: Block1, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Tasfet is a breakbeat and electro artist, with 15 gigs on soundcheck across Berl
 
 Atxa, Lu_x2, Flickerchild
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tasfet/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tasfet/)*

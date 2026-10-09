@@ -1,6 +1,6 @@
 # Festnacht
 
-Festnacht is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Golden Pudel Club, Hamburg on Thu, 15 Oct 2026.
+Festnacht is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Golden Pudel Club, Hamburg on Thu, 15 Oct 2026.
 
 Festnacht is a techno and electro artist based in Germany, with 43 gigs on soundcheck across Hamburg. Often billed alongside L.F.T., Newinfluenzer and cmp. Next up: Golden Pudel Club, Hamburg on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Festnacht is a techno and electro artist based in Germany, with 43 gigs on sound
 
 L.F.T., Newinfluenzer, cmp (1)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/festnacht/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/festnacht/)*

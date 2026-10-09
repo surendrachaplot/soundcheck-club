@@ -1,8 +1,8 @@
 # Boogie Rookie
 
-Boogie Rookie is a Disco and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Jolene, Copenhagen on Fri, 9 Oct 2026.
+Boogie Rookie is a Italo Disco and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Jolene, Copenhagen on Fri, 9 Oct 2026.
 
-Boogie Rookie is a disco and italo disco artist based in Denmark, with 56 gigs on soundcheck across Berlin, Copenhagen, Milan and New York City. Often billed alongside Harrison Heat, Dingo Tracks and Frinda di Lanco. Next up: Jolene, Copenhagen on Fri 9 Oct.
+Boogie Rookie is an italo disco and disco artist based in Denmark, with 56 gigs on soundcheck across Berlin, Copenhagen, Milan and New York City. Often billed alongside Harrison Heat, Dingo Tracks and Frinda di Lanco. Next up: Jolene, Copenhagen on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Boogie Rookie is a disco and italo disco artist based in Denmark, with 56 gigs o
 
 Harrison Heat, Dingo Tracks, Frinda di Lanco
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boogierookie/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boogierookie/)*

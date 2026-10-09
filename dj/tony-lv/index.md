@@ -1,6 +1,6 @@
 # Tony (LV)
 
-Tony (LV) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at B2 Rīga, Riga on Sat, 17 Oct 2026.
+Tony (LV) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at B2 Rīga, Riga on Sat, 17 Oct 2026.
 
 Tony (LV) is a house and techno artist based in Latvia, with 15 gigs on soundcheck across Brussels, Frankfurt, Istanbul and Prague and 3 more. Often billed alongside Kapusta, Rexton and Nicolas Barnes. Next up: B2 Rīga, Riga on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Tony (LV) is a house and techno artist based in Latvia, with 15 gigs on soundche
 
 Kapusta, Rexton, Nicolas Barnes
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tony-lv/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tony-lv/)*

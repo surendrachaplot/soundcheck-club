@@ -1,11 +1,22 @@
 # Closer x Haunted Dancehall at 1520
 
-Closer x Haunted Dancehall at 1520 on Sat 7 Nov, Manchester. See the line-up on soundcheck.
+Closer x Haunted Dancehall at 1520 on Sat 7 Nov, Manchester. 8 artists: Allius, Ana K Miller, Cersy and Etienne Groh and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 7 Nov 2026 |
 | Venue | 1520 |
 | City | Manchester |
+
+## Line-up
+
+- Allius
+- Ana K Miller
+- Cersy
+- Etienne Groh
+- Nikol
+- Timur Basha
+- Volodymyr Gnatenko
+- Yone-Ko
 
 *Source: [soundcheck](https://soundcheck.club/e/2533596-closer-x-haunted-dancehall-at-1520/)*

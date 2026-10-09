@@ -1,6 +1,6 @@
 # Ravelston
 
-Ravelston is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Vessel, Edinburgh on Fri, 9 Oct 2026.
+Ravelston is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Vessel, Edinburgh on Fri, 9 Oct 2026.
 
 Ravelston is a house and electronica artist based in United Kingdom, with 36 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Nikki Kent, Otis Worming and Ann Tweak. Next up: Vessel, Edinburgh on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Ravelston is a house and electronica artist based in United Kingdom, with 36 gig
 
 Nikki Kent, Otis Worming, Ann Tweak
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ravelston/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ravelston/)*

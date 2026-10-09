@@ -1,6 +1,6 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Wasteland Berlin at Prisma W/ Ric Piccolo & Barbie Garbage" on Sat, 10 Oct 2026.
+Prisma is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Wasteland Berlin at Prisma W/ Ric Piccolo & Barbie Garbage" on Sat, 10 Oct 2026.
 
 Prisma is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Agustin Mendez, D.Sociation, DJ Kodah and Domovnika and 2 more. See dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
@@ -23,4 +23,4 @@ Prisma is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with l
 
 Brückenstraße 1, 10179 Berlin, Berlin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*

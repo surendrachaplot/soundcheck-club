@@ -1,6 +1,6 @@
 # reya (2)
 
-reya (2) is a House and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at West Harlem, Kyoto on Sat, 10 Oct 2026.
+reya (2) is a House and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at West Harlem, Kyoto on Sat, 10 Oct 2026.
 
 reya is a house and jungle artist based in Japan, with 6 gigs on soundcheck across Kyoto. Often billed alongside MileZ, kotakunisaki and ykah. Next up: West Harlem, Kyoto on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ reya is a house and jungle artist based in Japan, with 6 gigs on soundcheck acro
 
 MileZ, kotakunisaki, ykah
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reya-2/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reya-2/)*

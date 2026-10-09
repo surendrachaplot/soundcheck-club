@@ -1,8 +1,8 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Charlie, Munich on Sat, 17 Oct 2026.
+Gerd Janson is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Charlie, Munich on Sat, 17 Oct 2026.
 
-Gerd Janson is a house and techno artist based in Germany, with 309 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 73 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: Charlie, Munich on Sat 17 Oct.
+Gerd Janson is a house and techno artist based in Germany, with 310 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 73 more. Often billed alongside Marcel Dettmann, DJ Tennis and PARAMIDA. Next up: Charlie, Munich on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ Gerd Janson is a house and techno artist based in Germany, with 309 gigs on soun
 | Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 31 Oct 2026 | Dockland | Munster |
 | Sat, 7 Nov 2026 | Depot Mayfield | Manchester |
+| Fri, 13 Nov 2026 | TBA | Amsterdam |
 | Fri, 20 Nov 2026 | Oxford Art Factory | Sydney |
 | Sat, 21 Nov 2026 | TBA | Melbourne |
 | Wed, 25 Nov 2026 | Process PDX | Portland |
 | Fri, 27 Nov 2026 | Ace*Mission Studios | Los Angeles |
-| Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 
 ## Recently played
 
@@ -34,6 +34,6 @@ Gerd Janson is a house and techno artist based in Germany, with 309 gigs on soun
 
 ## Shares bills with
 
-Marcel Dettmann, DJ Tennis, Âme
+Marcel Dettmann, DJ Tennis, PARAMIDA
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*

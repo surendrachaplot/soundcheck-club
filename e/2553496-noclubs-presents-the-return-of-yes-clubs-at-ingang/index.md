@@ -29,7 +29,7 @@ noclubs presents: the return of yes clubs at ingang on Sat 24 Oct, Amsterdam. 26
 - Mia Cecille
 - Naone
 - Nawaz
-- Neska
+- neska
 - Noise Diva
 - Remma
 - Sarah Saleh

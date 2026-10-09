@@ -1,14 +1,15 @@
 # Irakli
 
-Irakli is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Artheater, Cologne on Sat, 10 Oct 2026.
+Irakli is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Artheater, Cologne on Sat, 10 Oct 2026.
 
-Irakli is a techno and house artist based in Germany, with 61 gigs on soundcheck across Amsterdam, Athens, Bangkok and Berlin and 14 more. Often billed alongside Hang Aoki, fr. JPLA and Barbara Hofmann. Next up: Artheater, Cologne on Sat 10 Oct.
+Irakli is a techno and house artist based in Germany, with 62 gigs on soundcheck across Amsterdam, Athens, Bangkok and Berlin and 14 more. Often billed alongside Hang Aoki, fr. JPLA and Barbara Hofmann. Next up: Artheater, Cologne on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Artheater | Cologne |
+| Fri, 16 Oct 2026 | Jasna 1 | Warsaw |
 | Sat, 21 Nov 2026 | CLUB RAUM | Amsterdam |
 | Sat, 23 Jan 2027 | ://about blank | Berlin |
 
@@ -27,4 +28,4 @@ Irakli is a techno and house artist based in Germany, with 61 gigs on soundcheck
 
 Hang Aoki, fr. JPLA, Barbara Hofmann
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irakli/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irakli/)*

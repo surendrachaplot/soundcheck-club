@@ -1,6 +1,6 @@
 # BOUNCY BOUNCY 5th Anniversary Special with Thread at Wigwam
 
-BOUNCY BOUNCY 5th Anniversary Special with Thread at Wigwam on Fri 23 Oct, Shanghai. 6 artists: D-Grade, Daura, echocatcher and LOIF and 2 more. See the line-up on soundcheck.
+BOUNCY BOUNCY 5th Anniversary Special with Thread at Wigwam on Fri 23 Oct, Shanghai. 7 artists: D-Grade, Daura, echocatcher and File Explorer and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ BOUNCY BOUNCY 5th Anniversary Special with Thread at Wigwam on Fri 23 Oct, Shang
 - D-Grade
 - Daura
 - echocatcher
+- File Explorer
 - LOIF
 - Makoyana
 - mishLXY

@@ -1,14 +1,15 @@
 # KOOB
 
-KOOB is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at The Deep End, New York City on Fri, 16 Oct 2026.
+KOOB is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Deep End, New York City on Fri, 16 Oct 2026.
 
-KOOB is a club and ghetto tech artist based in United States of America, with 10 gigs on soundcheck across Berlin, Dublin, Frankfurt and Leipzig and 2 more. Often billed alongside NATALIA., AG and AMEX (UK). Next up: The Deep End, New York City on Fri 16 Oct.
+KOOB is a club and ghetto tech artist based in United States of America, with 11 gigs on soundcheck across Berlin, Connecticut, Dublin and Frankfurt and 3 more. Often billed alongside NATALIA., AG and AMEX (UK). Next up: The Deep End, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | The Deep End | New York City |
+| Fri, 30 Oct 2026 | Club Vandome | Connecticut |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ KOOB is a club and ghetto tech artist based in United States of America, with 10
 
 NATALIA., AG (1), AMEX (UK)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koob/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koob/)*

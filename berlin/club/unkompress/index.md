@@ -1,6 +1,6 @@
 # Unkompress
 
-Unkompress is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Saturday Session: smugsie" on Sat, 10 Oct 2026.
+Unkompress is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Saturday Session: smugsie" on Sat, 10 Oct 2026.
 
 Unkompress is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Frinda di Lanco, Hendrik Stein, Jonny Nemetz and smugsie. See dates, start times and who's playing. Fichtestrasse 23, 10967 Berlin.
 
@@ -19,4 +19,4 @@ Unkompress is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, wit
 
 Fichtestrasse 23, 10967 Berlin, Berlin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/unkompress/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/unkompress/)*

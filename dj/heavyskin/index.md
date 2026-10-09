@@ -1,8 +1,8 @@
 # Heavy Skin
 
-Heavy Skin is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Low Profile Studios, London on Sat, 28 Nov 2026.
+Heavy Skin is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Low Profile Studios, London on Sat, 28 Nov 2026.
 
-Heavy Skin is a techno and electro artist, with 13 gigs on soundcheck across Copenhagen and London. Often billed alongside Aquamarine, Ivadinuf and AKnight. Next up: Low Profile Studios, London on Sat 28 Nov.
+Heavy Skin is a techno and electro artist based in United Kingdom, with 13 gigs on soundcheck across Copenhagen and London. Often billed alongside Aquamarine, Ivadinuf and AKnight. Next up: Low Profile Studios, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Heavy Skin is a techno and electro artist, with 13 gigs on soundcheck across Cop
 
 Aquamarine, Ivadinuf, AKnight
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heavyskin/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heavyskin/)*

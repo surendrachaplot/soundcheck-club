@@ -1,8 +1,8 @@
 # Joss Dean
 
-Joss Dean is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Camp and Furnace, Liverpool on Fri, 9 Oct 2026.
+Joss Dean is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Camp and Furnace, Liverpool on Fri, 9 Oct 2026.
 
-Joss Dean is a house and tech house artist based in United Kingdom, with 89 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 29 more. Often billed alongside Tommy Phillips, Max Dean and Ozzie Guven. Next up: Camp and Furnace, Liverpool on Fri 9 Oct.
+Joss Dean is a house and tech house artist based in United Kingdom, with 90 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 30 more. Often billed alongside Tommy Phillips, Max Dean and Ozzie Guven. Next up: Camp and Furnace, Liverpool on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Joss Dean is a house and tech house artist based in United Kingdom, with 89 gigs
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Camp and Furnace | Liverpool |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
+| Fri, 23 Oct 2026 | Taets Art and Event Park | Netherlands |
 | Fri, 30 Oct 2026 | Spybar | Chicago |
 | Sat, 7 Nov 2026 | Tigres de la Noche | Washington DC |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
@@ -31,4 +32,4 @@ Joss Dean is a house and tech house artist based in United Kingdom, with 89 gigs
 
 Tommy Phillips, Max Dean, Ozzie Guven
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*

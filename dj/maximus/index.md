@@ -1,6 +1,6 @@
 # Max(imus)
 
-Max(imus) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Süss War Gestern, Berlin on Tue, 13 Oct 2026.
+Max(imus) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Süss War Gestern, Berlin on Tue, 13 Oct 2026.
 
 Max(imus) is a house and electro artist, with 18 gigs on soundcheck across Berlin. Often billed alongside DJ Sanni, imus and Ena (DE). Next up: Süss War Gestern, Berlin on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ Max(imus) is a house and electro artist, with 18 gigs on soundcheck across Berli
 
 DJ Sanni, imus, Ena (DE)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maximus/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maximus/)*

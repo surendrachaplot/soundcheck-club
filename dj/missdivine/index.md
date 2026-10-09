@@ -1,14 +1,13 @@
 # Sam Divine
 
-Sam Divine is a House and Tech House artist with 15 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Chinois Ibiza, Ibiza on Thu, 8 Oct 2026.
+Sam Divine is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Thuishaven, Amsterdam on Thu, 22 Oct 2026.
 
-Sam Divine is a house and tech house artist based in United Kingdom, with 179 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 39 more. Often billed alongside Low Steppa, Lowsteppa and Arielle Free. Next up: Chinois Ibiza, Ibiza on Thu 8 Oct.
+Sam Divine is a house and tech house artist based in United Kingdom, with 179 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 39 more. Often billed alongside Low Steppa, Lowsteppa and Arielle Free. Next up: Thuishaven, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Chinois Ibiza | Ibiza |
 | Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 24 Oct 2026 | Arts Club | Liverpool |
 | Fri, 30 Oct 2026 | Halcyon | San Francisco/Oakland |
@@ -20,9 +19,11 @@ Sam Divine is a house and tech house artist based in United Kingdom, with 179 gi
 | Sat, 5 Dec 2026 | Port Beach Brewery | Perth |
 | Sun, 6 Dec 2026 | Felons Barrel Hall | Brisbane |
 | Fri, 11 Dec 2026 | Northcote Theatre | Melbourne |
+| Sat, 12 Dec 2026 | The Ivy | Sydney |
 
 ## Recently played
 
+- Chinois Ibiza, Ibiza · Thu, 8 Oct 2026
 - TBA - Various Venues, Malta · Thu, 1 Oct 2026
 - Chinois Ibiza, Ibiza · Thu, 1 Oct 2026
 - UNO MALTA, Malta · Thu, 1 Oct 2026
@@ -30,10 +31,9 @@ Sam Divine is a house and tech house artist based in United Kingdom, with 179 gi
 - Joshua Brooks, Manchester · Fri, 11 Sept 2026
 - TBA - THE STRAY, HARROGATE, Leeds · Sat, 5 Sept 2026
 - Chinois Ibiza, Ibiza · Thu, 3 Sept 2026
-- [UNVRS], Ibiza · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Low Steppa, Lowsteppa, Arielle Free
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missdivine/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missdivine/)*

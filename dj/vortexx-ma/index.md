@@ -1,6 +1,6 @@
 # Vortex x
 
-Vortex x is a EBM and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at At The Waldorf Hotel, Vancouver on Sat, 10 Oct 2026.
+Vortex x is a EBM and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at At The Waldorf Hotel, Vancouver on Sat, 10 Oct 2026.
 
 Vortex x is an ebm and industrial artist based in Morocco, with 7 gigs on soundcheck across Barcelona, London and Vancouver. Often billed alongside Charlotte (FR), Crissy Criss and DJ Hazard. Next up: At The Waldorf Hotel, Vancouver on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Vortex x is an ebm and industrial artist based in Morocco, with 7 gigs on soundc
 
 Charlotte (FR), Crissy Criss, DJ Hazard
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vortexx-ma/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vortexx-ma/)*

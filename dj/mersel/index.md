@@ -1,6 +1,6 @@
 # Mersel
 
-Mersel is a Techno and Drone artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Le 211, Paris on Sat, 28 Nov 2026.
+Mersel is a Techno and Drone artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Le 211, Paris on Sat, 28 Nov 2026.
 
 Mersel is a techno and drone artist, with 8 gigs on soundcheck across Lyon and Paris. Often billed alongside Anechoic, Diapasøn and A.mo. Next up: Le 211, Paris on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Mersel is a techno and drone artist, with 8 gigs on soundcheck across Lyon and P
 
 Anechoic, Diapasøn, A.mo
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mersel/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mersel/)*

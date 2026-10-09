@@ -1,15 +1,13 @@
 # Spkrbox
 
-Spkrbox is a music venue in Detroit with 13 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Groove Night" on Thu, 8 Oct 2026.
+Spkrbox is a music venue in Detroit with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Three Dimensions" on Fri, 9 Oct 2026.
 
-Spkrbox is a music venue in Detroit listed on soundcheck. 13 upcoming gigs, with line-ups including ADMN, ACE, Curmudgeon and DJ 3000 and 2 more. See dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
+Spkrbox is a music venue in Detroit listed on soundcheck. 11 upcoming gigs, with line-ups including ADMN, ACE, Curmudgeon and DJ 3000 and 2 more. See dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Groove Night |  |
-| Thu, 8 Oct 2026 | XTRA | Garrison XR, Syd (2) |
 | Fri, 9 Oct 2026 | Three Dimensions |  |
 | Fri, 9 Oct 2026 | House Coffee | ACE, Curmudgeon, Jorissen, Vermilion |
 | Fri, 9 Oct 2026 | Three Dimensions | Kevin Reynolds, MIKE RANSOM |
@@ -18,9 +16,11 @@ Spkrbox is a music venue in Detroit listed on soundcheck. 13 upcoming gigs, with
 | Thu, 15 Oct 2026 | FLAVORS by Snack Time: Tommaso (CHI) all night | Tommaso (IT) |
 | Fri, 16 Oct 2026 | Tour Detroit | ERNO (US) |
 | Sat, 17 Oct 2026 | UNION | DJ 3000, Gary Martin, Los Hermanos |
+| Fri, 23 Oct 2026 | Infolines The Leland Release Party | ADMN, Echoføn, Rex Sepulveda, sweetapple |
+| Thu, 29 Oct 2026 | LAÍRE X Tylr [TICKETS AT DOOR] | .hisham, LAÍRE, Liminal, Tylr |
 
 ## Address
 
 200 Grand River Ave, Detroit, MI 48226, United States, Detroit
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*

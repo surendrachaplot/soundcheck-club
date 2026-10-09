@@ -1,6 +1,6 @@
 # Nibius
 
-Nibius is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Ministerium Club, Lisbon on Fri, 9 Oct 2026.
+Nibius is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Ministerium Club, Lisbon on Fri, 9 Oct 2026.
 
 Nibius is a house and techno artist based in Portugal, with 26 gigs on soundcheck across Lisbon. Often billed alongside Pitcho, Fonzi and Tíago. Next up: Ministerium Club, Lisbon on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Nibius is a house and techno artist based in Portugal, with 26 gigs on soundchec
 
 Pitcho, Fonzi (2), Tíago
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nibius/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nibius/)*

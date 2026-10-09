@@ -1,14 +1,15 @@
 # Jacidorex
 
-Jacidorex is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at T7 Paris, Paris on Fri, 9 Oct 2026.
+Jacidorex is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at T7 Paris, Paris on Fri, 9 Oct 2026.
 
-Jacidorex is a techno and trance artist based in Belgium, with 108 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Airod, LESSSS and Nico Moreno. Next up: T7 Paris, Paris on Fri 9 Oct.
+Jacidorex is a techno and trance artist based in Belgium, with 109 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Airod, LESSSS and Nico Moreno. Next up: T7 Paris, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | T7 Paris | Paris |
+| Sat, 10 Oct 2026 | La Plateforme | Marseille |
 | Fri, 20 Nov 2026 | E1 | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Jacidorex is a techno and trance artist based in Belgium, with 108 gigs on sound
 
 Airod, LESSSS, Nico Moreno
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacidorex/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacidorex/)*

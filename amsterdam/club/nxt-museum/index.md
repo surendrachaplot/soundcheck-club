@@ -1,6 +1,6 @@
 # Nxt Museum
 
-Nxt Museum is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Rossi.HOME//GRXWN [ADE]" on Thu, 22 Oct 2026.
+Nxt Museum is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Rossi.HOME//GRXWN [ADE]" on Thu, 22 Oct 2026.
 
 Nxt Museum is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including blk., DATSKO, JAZZY and Jezza & Jod and 2 more. See dates, start times and who's playing. Asterweg 22, 1031 HP Amsterdam.
 
@@ -9,7 +9,7 @@ Nxt Museum is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Rossi.HOME//GRXWN [ADE] | Rossi |
-| Thu, 22 Oct 2026 | EarthSonic, ADE and Nxt Museum present: Two Seas and Sumuku | Natural Symphony (Live), Paranoid London |
+| Thu, 22 Oct 2026 | EarthSonic, ADE and Nxt Museum present: Two Seas and Vinorun | Natural Symphony (Live), Paranoid London |
 | Fri, 23 Oct 2026 | Mr. Belt & Wezol at Nxt Museum ADE | Mr. Belt & Wezol |
 | Fri, 23 Oct 2026 | NRG ADE | DATSKO, JAZZY (2), Jezza & Jod, KRUELTY, PRADA2000, SaltySis, blk. |
 | Sat, 24 Oct 2026 | No Art ADE Festival After By Night |  |
@@ -18,4 +18,4 @@ Nxt Museum is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, 
 
 Asterweg 22, 1031 HP Amsterdam, Amsterdam
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nxt-museum/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nxt-museum/)*

@@ -1,6 +1,6 @@
 # Cherry On Top: Danielle (UK) at Kaiku
 
-Cherry On Top: Danielle (UK) at Kaiku on Sat 10 Oct, Helsinki. 4 artists: Danielle, Fleur Amser, Gigi Safari and Hanna Ojanen. See the line-up on soundcheck.
+Cherry On Top: Danielle (UK) at Kaiku on Sat 10 Oct, Helsinki. 4 artists: Danielle (UK), Fleur Amser, Gigi Safari and Hanna Ojanen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Cherry On Top: Danielle (UK) at Kaiku on Sat 10 Oct, Helsinki. 4 artists: Daniel
 
 ## Line-up
 
-- Danielle
+- Danielle (UK)
 - Fleur Amser
 - Gigi Safari
 - Hanna Ojanen

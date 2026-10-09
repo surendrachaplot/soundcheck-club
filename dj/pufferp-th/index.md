@@ -1,6 +1,6 @@
 # Puffer P
 
-Puffer P is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Mystical Forest at outskirts of Selangor, Kuala Lumpur on Fri, 23 Oct 2026.
+Puffer P is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Mystical Forest at outskirts of Selangor, Kuala Lumpur on Fri, 23 Oct 2026.
 
 Puffer P is a psytrance and trance artist based in Thailand, with 53 gigs on soundcheck across Bangkok, Ghent and Kuala Lumpur. Often billed alongside Jack the Jackal, Sam Laxton and Peter Soul. Next up: TBA - Mystical Forest at outskirts of Selangor, Kuala Lumpur on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Puffer P is a psytrance and trance artist based in Thailand, with 53 gigs on sou
 
 Jack the Jackal, Sam Laxton, Peter Soul
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pufferp-th/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pufferp-th/)*

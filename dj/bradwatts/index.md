@@ -1,6 +1,6 @@
 # BRAD WATTS
 
-BRAD WATTS is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Zumana Bali, Bali on Sat, 17 Oct 2026.
+BRAD WATTS is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Zumana Bali, Bali on Sat, 17 Oct 2026.
 
 BRAD WATTS is a house and deep house artist based in Australia, with 35 gigs on soundcheck across Bali, Indonesia, Melbourne and Sydney. Often billed alongside SOHAIL, Rowen Clark and Ben Nott. Next up: Zumana Bali, Bali on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ BRAD WATTS is a house and deep house artist based in Australia, with 35 gigs on 
 
 SOHAIL, Rowen Clark, Ben Nott
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bradwatts/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bradwatts/)*

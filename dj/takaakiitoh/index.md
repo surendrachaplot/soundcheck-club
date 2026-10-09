@@ -1,8 +1,8 @@
 # Takaaki Itoh
 
-Takaaki Itoh is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Azimut Club, Turin on Sat, 10 Oct 2026.
+Takaaki Itoh is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Azimut Club, Turin on Sat, 10 Oct 2026.
 
-Takaaki Itoh is a techno and house artist based in Japan, with 111 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 33 more. Often billed alongside DANA NADA, DANDAN and Vulkanski. Next up: Azimut Club, Turin on Sat 10 Oct.
+Takaaki Itoh is a techno and house artist based in Japan, with 112 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 33 more. Often billed alongside DANA NADA, DANDAN and Vulkanski. Next up: Azimut Club, Turin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Takaaki Itoh is a techno and house artist based in Japan, with 111 gigs on sound
 | Sat, 10 Oct 2026 | Azimut Club | Turin |
 | Fri, 16 Oct 2026 | Cross Club | Prague |
 | Sat, 31 Oct 2026 | VENT | Tokyo |
+| Sat, 21 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Takaaki Itoh is a techno and house artist based in Japan, with 111 gigs on sound
 
 DANA NADA, DANDAN, Vulkanski
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takaakiitoh/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takaakiitoh/)*

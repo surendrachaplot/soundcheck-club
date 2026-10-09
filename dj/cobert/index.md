@@ -1,6 +1,6 @@
 # Cobert
 
-Cobert is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Those Who Dance, Lisbon on Sat, 10 Oct 2026.
+Cobert is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Those Who Dance, Lisbon on Sat, 10 Oct 2026.
 
 Cobert is an experimental and techno artist based in Georgia, with 38 gigs on soundcheck across Berlin, Lisbon and Tbilisi. Often billed alongside Gio Shengelia, Ottonian and Bero. Next up: Those Who Dance, Lisbon on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Cobert is an experimental and techno artist based in Georgia, with 38 gigs on so
 
 Gio Shengelia, Ottonian, Bero
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cobert/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cobert/)*

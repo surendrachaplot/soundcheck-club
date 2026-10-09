@@ -1,6 +1,6 @@
 # Simon Kidzoo
 
-Simon Kidzoo is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Taboo Paris, Paris on Fri, 9 Oct 2026.
+Simon Kidzoo is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Taboo Paris, Paris on Fri, 9 Oct 2026.
 
 Simon Kidzoo is a house and tech house artist based in Netherlands, with 34 gigs on soundcheck across Amsterdam, Dublin, Ibiza and Madrid and 6 more. Often billed alongside AAT (NL), Easttown and Ammé. Next up: Taboo Paris, Paris on Fri 9 Oct.
 
@@ -33,4 +33,4 @@ Simon Kidzoo is a house and tech house artist based in Netherlands, with 34 gigs
 
 AAT (NL), Easttown, Ammé
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonkidzoo/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonkidzoo/)*

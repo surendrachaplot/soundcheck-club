@@ -1,6 +1,6 @@
 # Hypnoize
 
-Hypnoize is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Promenaden Eck, Berlin on Sat, 10 Oct 2026.
+Hypnoize is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Promenaden Eck, Berlin on Sat, 10 Oct 2026.
 
 Hypnoize is a house and minimal artist based in Argentina, with 35 gigs on soundcheck across Berlin, Bucharest and Copenhagen. Often billed alongside Isaac Elejalde, vault. and Tayser. Next up: Promenaden Eck, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Hypnoize is a house and minimal artist based in Argentina, with 35 gigs on sound
 
 Isaac Elejalde, vault., Tayser
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnoize/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnoize/)*

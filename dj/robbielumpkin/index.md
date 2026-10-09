@@ -1,6 +1,6 @@
 # Robbie Lumpkin
 
-Robbie Lumpkin is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Outer Heaven, New York City on Wed, 14 Oct 2026.
+Robbie Lumpkin is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Outer Heaven, New York City on Wed, 14 Oct 2026.
 
 Robbie Lumpkin is a house and minimal artist based in United States of America, with 6 gigs on soundcheck across New York City. Often billed alongside A-Kintero, For Future's Sake and Hector Romero. Next up: Outer Heaven, New York City on Wed 14 Oct.
 
@@ -22,4 +22,4 @@ Robbie Lumpkin is a house and minimal artist based in United States of America, 
 
 A-Kintero, For Future's Sake, Hector Romero
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robbielumpkin/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robbielumpkin/)*

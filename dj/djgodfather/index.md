@@ -1,6 +1,6 @@
 # DJ Godfather
 
-DJ Godfather is a Techno and Ghetto Tech artist with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at BASIS, Utrecht on Fri, 9 Oct 2026.
+DJ Godfather is a Techno and Ghetto Tech artist with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at BASIS, Utrecht on Fri, 9 Oct 2026.
 
 DJ Godfather is a techno and ghetto tech artist based in United States of America, with 82 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Sheefy McFly, Disc Jockey George and Stacey Hotwaxx Hale. Next up: BASIS, Utrecht on Fri 9 Oct.
 
@@ -33,4 +33,4 @@ DJ Godfather is a techno and ghetto tech artist based in United States of Americ
 
 Sheefy McFly, Disc Jockey George, Stacey Hotwaxx Hale
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgodfather/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgodfather/)*

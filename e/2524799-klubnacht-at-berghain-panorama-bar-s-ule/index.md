@@ -1,6 +1,6 @@
 # Klubnacht at Berghain | Panorama Bar | Säule
 
-Klubnacht at Berghain | Panorama Bar | Säule on Sat 10 Oct, Berlin. 14 artists: Anika Kunst, Ben Klock, DAX J and DJ Nobu and 10 more. See the line-up on soundcheck.
+Klubnacht at Berghain | Panorama Bar | Säule on Sat 10 Oct, Berlin. 14 artists: Anika Kunst, Ben Klock, DAX J and Elisa Batti and 10 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,6 @@ Klubnacht at Berghain | Panorama Bar | Säule on Sat 10 Oct, Berlin. 14 artists:
 - Anika Kunst
 - Ben Klock
 - DAX J
-- DJ Nobu
 - Elisa Batti
 - Fiedel
 - Gene On Earth
@@ -21,6 +20,7 @@ Klubnacht at Berghain | Panorama Bar | Säule on Sat 10 Oct, Berlin. 14 artists:
 - Grace Dahl
 - Luigi Di Venere
 - Luke Slater
+- Nastia Reigel
 - Ogazón
 - Paquita Gordon
 - Zombies In Miami

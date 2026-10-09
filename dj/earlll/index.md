@@ -1,6 +1,6 @@
 # Earlll
 
-Earlll is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Marble Bar, Detroit on Sat, 10 Oct 2026.
+Earlll is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Marble Bar, Detroit on Sat, 10 Oct 2026.
 
 Earlll is a techno and house artist based in United States of America, with 9 gigs on soundcheck across Detroit. Often billed alongside AIDEL, Amino and Duck Trash. Next up: Marble Bar, Detroit on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Earlll is a techno and house artist based in United States of America, with 9 gi
 
 AIDEL, Amino, Duck Trash
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/earlll/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/earlll/)*

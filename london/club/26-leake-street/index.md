@@ -1,8 +1,8 @@
 # 26 Leake Street
 
-26 Leake Street is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Max Styler" on Sat, 21 Nov 2026.
+26 Leake Street is a music venue in London with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Max Styler" on Sat, 21 Nov 2026.
 
-26 Leake Street is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Max Styler. See dates, start times and who's playing. 26 Leake St, South Bank, London SE1 7NN.
+26 Leake Street is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Bianca Oblivion, DaiSu, DJ-CK and Egg On Toast and 2 more. See dates, start times and who's playing. 26 Leake St, South Bank, London SE1 7NN.
 
 ## What's on
 
@@ -10,10 +10,11 @@
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Max Styler | Max Styler |
 | Sat, 21 Nov 2026 | Max Styler | Max Styler |
+| Fri, 27 Nov 2026 | NBFG x BWL presents: Sofia Kourtesis with MOTH | Bianca Oblivion, DJ-CK, DaiSu, Egg On Toast, Miggs, Sofia Kourtesis, Urbi |
 | Sat, 28 Nov 2026 | HVYWGHT: 10 Years of Juan Forte  |  |
 
 ## Address
 
 26 Leake St, South Bank, London SE1 7NN, London
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/26-leake-street/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/26-leake-street/)*

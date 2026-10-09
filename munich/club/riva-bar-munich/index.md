@@ -1,14 +1,13 @@
 # RIVA Bar Munich
 
-RIVA Bar Munich is a music venue in Munich with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "APERITIVO ITALIANO – THE AFTER WORK SPECIAL" on Thu, 8 Oct 2026.
+RIVA Bar Munich is a music venue in Munich with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "APERITIVO ITALIANO – THE AFTER WORK SPECIAL" on Thu, 15 Oct 2026.
 
-RIVA Bar Munich is a music venue in Munich listed on soundcheck. 8 upcoming gigs, with line-ups including Robert James Perkins. See dates, start times and who's playing. Tal 44     80331 Munich.
+RIVA Bar Munich is a music venue in Munich listed on soundcheck. 7 upcoming gigs, with line-ups including Robert James Perkins. See dates, start times and who's playing. Tal 44     80331 Munich.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | APERITIVO ITALIANO – THE AFTER WORK SPECIAL | Robert James Perkins |
 | Thu, 15 Oct 2026 | APERITIVO ITALIANO – THE AFTER WORK SPECIAL | Robert James Perkins |
 | Thu, 22 Oct 2026 | APERITIVO ITALIANO – THE AFTER WORK SPECIAL | Robert James Perkins |
 | Thu, 29 Oct 2026 | APERITIVO ITALIANO – THE AFTER WORK SPECIAL | Robert James Perkins |
@@ -21,4 +20,4 @@ RIVA Bar Munich is a music venue in Munich listed on soundcheck. 8 upcoming gigs
 
 Tal 44     80331 Munich, Munich
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/riva-bar-munich/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/riva-bar-munich/)*

@@ -1,6 +1,6 @@
 # Lily Ardalan
 
-Lily Ardalan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Club Tee Gee, Los Angeles on Thu, 22 Oct 2026.
+Lily Ardalan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Club Tee Gee, Los Angeles on Thu, 22 Oct 2026.
 
 Lily Ardalan is a techno and house artist based in United States of America, with 15 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside DANNY G LUVS U, heelbite316 and Adrian Reyes. Next up: Club Tee Gee, Los Angeles on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Lily Ardalan is a techno and house artist based in United States of America, wit
 
 DANNY G LUVS U, heelbite316, Adrian Reyes
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyardalan/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyardalan/)*

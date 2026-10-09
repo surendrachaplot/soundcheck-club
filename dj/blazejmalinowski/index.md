@@ -1,14 +1,15 @@
 # Blazej Malinowski
 
-Blazej Malinowski is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Gare Porto, Porto on Sat, 10 Oct 2026.
+Blazej Malinowski is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Gare Porto, Porto on Sat, 10 Oct 2026.
 
-Blazej Malinowski is a techno and club artist based in Poland, with 74 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 17 more. Often billed alongside dtekk, Kovvalsky and Aetha. Next up: Gare Porto, Porto on Sat 10 Oct.
+Blazej Malinowski is a techno and club artist based in Poland, with 75 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 18 more. Often billed alongside dtekk, Kovvalsky and Aetha. Next up: Gare Porto, Porto on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Gare Porto | Porto |
+| Sun, 18 Oct 2026 | The Nest at St. Pete Brewing Co. | Tampa-bay |
 | Thu, 22 Oct 2026 | TBA | Toronto |
 | Sun, 25 Oct 2026 | TBA - Los Angeles | Los Angeles |
 
@@ -27,4 +28,4 @@ Blazej Malinowski is a techno and club artist based in Poland, with 74 gigs on s
 
 dtekk, Kovvalsky, Aetha
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blazejmalinowski/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blazejmalinowski/)*

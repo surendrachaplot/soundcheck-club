@@ -1,14 +1,13 @@
 # West Harlem
 
-West Harlem is a music venue in Kyoto with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Bailla" on Thu, 8 Oct 2026.
+West Harlem is a music venue in Kyoto with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "W×HOUSE feat Pedro" on Fri, 9 Oct 2026.
 
-West Harlem is a music venue in Kyoto listed on soundcheck. 10 upcoming gigs, with line-ups including akii, Baku, C.Versa and Connor and 2 more. See dates, start times and who's playing. Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002.
+West Harlem is a music venue in Kyoto listed on soundcheck. 9 upcoming gigs, with line-ups including akii, Baku, C.Versa and Connor and 2 more. See dates, start times and who's playing. Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Bailla | kotakunisaki |
 | Fri, 9 Oct 2026 | W×HOUSE feat Pedro | KOTSU, Pedro D. Saiz, droove, kentaroshark |
 | Sat, 10 Oct 2026 | ４ the Nite | MileZ, reya (2), ykah |
 | Wed, 14 Oct 2026 | Giant Steps | Lomax, kitapon |
@@ -23,4 +22,4 @@ West Harlem is a music venue in Kyoto listed on soundcheck. 10 upcoming gigs, wi
 
 Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002, Kyoto
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/west-harlem/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/west-harlem/)*

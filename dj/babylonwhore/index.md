@@ -1,6 +1,6 @@
 # Babylon Whore
 
-Babylon Whore is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at EL SÓTANO, Madrid on Sun, 29 Nov 2026.
+Babylon Whore is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at EL SÓTANO, Madrid on Sun, 29 Nov 2026.
 
 Babylon Whore is a techno and trance artist based in Spain, with 52 gigs on soundcheck across Barcelona, Madrid and Valencia. Often billed alongside Gôtinga, Sister Gotinga and Pulpix. Next up: EL SÓTANO, Madrid on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Babylon Whore is a techno and trance artist based in Spain, with 52 gigs on soun
 
 Gôtinga, Sister Gotinga, Pulpix
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babylonwhore/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babylonwhore/)*

@@ -1,13 +1,14 @@
 # Lee Foss
 
-Lee Foss is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 17 Oct 2026.
+Lee Foss is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Lurin live, Peru on Sat, 10 Oct 2026.
 
-Lee Foss is a house and tech house artist based in United States of America, with 81 gigs on soundcheck across Austin, Barcelona, Boston and Brisbane and 22 more. Often billed alongside Deeper Purpose, Claptone and Sonny Fodera. Next up: The Great Northern, San Francisco/Oakland on Sat 17 Oct.
+Lee Foss is a house and tech house artist based in United States of America, with 82 gigs on soundcheck across Austin, Barcelona, Boston and Brisbane and 23 more. Often billed alongside Claptone, Deeper Purpose and Sonny Fodera. Next up: TBA - Lurin live, Peru on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | TBA - Lurin live | Peru |
 | Sat, 17 Oct 2026 | The Great Northern | San Francisco/Oakland |
 | Sat, 17 Oct 2026 | The Great Northern | San Francisco/Oakland |
 | Sat, 28 Nov 2026 | NX Newcastle | Newcastle |
@@ -25,6 +26,6 @@ Lee Foss is a house and tech house artist based in United States of America, wit
 
 ## Shares bills with
 
-Deeper Purpose, Claptone, Sonny Fodera
+Claptone, Deeper Purpose, Sonny Fodera
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leefoss/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leefoss/)*

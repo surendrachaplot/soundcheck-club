@@ -1,0 +1,11 @@
+# Fugaz recebe Chãnce da Silva at Fugaz Bar
+
+Fugaz recebe Chãnce da Silva at Fugaz Bar on Thu 26 Nov, Sao Paulo. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Thu, 26 Nov 2026 |
+| Venue | Fugaz Bar |
+| City | Sao Paulo |
+
+*Source: [soundcheck](https://soundcheck.club/e/2556042-fugaz-recebe-ch-nce-da-silva-at-fugaz-bar/)*

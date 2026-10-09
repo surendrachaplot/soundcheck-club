@@ -1,6 +1,6 @@
 # Human Safari
 
-Human Safari is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Hard Rock Hotel, Malta on Thu, 8 Oct 2026.
+Human Safari is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Hard Rock Hotel, Malta on Thu, 8 Oct 2026.
 
 Human Safari is a techno and house artist based in Malta, with 61 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 15 more. Often billed alongside Kyle Cortis, SHDW and Budg. Next up: Hard Rock Hotel, Malta on Thu 8 Oct.
 
@@ -16,6 +16,7 @@ Human Safari is a techno and house artist based in Malta, with 61 gigs on soundc
 
 ## Recently played
 
+- Hard Rock Hotel, Malta · Thu, 8 Oct 2026
 - Gianpula Village, Malta · Wed, 12 Aug 2026
 - The Yard, Manchester · Sat, 25 Jul 2026
 - RADION, Amsterdam · Sat, 11 Jul 2026
@@ -23,10 +24,9 @@ Human Safari is a techno and house artist based in Malta, with 61 gigs on soundc
 - TBA - Secret Warehouse, Paris · Sat, 13 Jun 2026
 - Fridas Pier, Stuttgart · Fri, 12 Jun 2026
 - Amsterdamse Bos, Amsterdam · Sat, 6 Jun 2026
-- Bunker, Turin · Fri, 15 May 2026
 
 ## Shares bills with
 
 Kyle Cortis, SHDW, Budg
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/humansafari/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/humansafari/)*

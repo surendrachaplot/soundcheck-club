@@ -1,6 +1,6 @@
 # Ughe
 
-Ughe is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at All My Friends, London on Thu, 15 Oct 2026.
+Ughe is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at All My Friends, London on Thu, 15 Oct 2026.
 
 Ughe is an electro and tech house artist, with 27 gigs on soundcheck across Brighton and London. Often billed alongside Save P, On-Off and Desuba. Next up: All My Friends, London on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Ughe is an electro and tech house artist, with 27 gigs on soundcheck across Brig
 
 Save P, On-Off, Desuba
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ughe/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ughe/)*

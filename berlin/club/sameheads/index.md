@@ -1,15 +1,14 @@
 # Sameheads
 
-Sameheads is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "CLUB KIDZ" on Thu, 8 Oct 2026.
+Sameheads is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "CLUB KIDZ" on Thu, 8 Oct 2026.
 
-Sameheads is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Anna Wall, Balearic Banana, Caillou and Carl Hang and 2 more. See dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
+Sameheads is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Anna Wall, Balearic Banana, Caillou and Carl Hang and 2 more. See dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | CLUB KIDZ | Chikiss, Karolina Bnv, Leona Jacewska, Novo Line |
-| Thu, 8 Oct 2026 | Iptamenos Discos | Local Suicide, Mike Sacchetti |
 | Fri, 9 Oct 2026 | Confusion is Next to Happiness | Anna Wall, Denzel, Kinzua |
 | Sat, 10 Oct 2026 | Banana Dance with Carl Hang & Meriem S | Balearic Banana, Carl Hang, Meriem S |
 | Fri, 16 Oct 2026 | KLAASH | Caillou, Electrosexual, Melanie Havens, Paty Vapor, Wisdom Tits |
@@ -18,9 +17,10 @@ Sameheads is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, wit
 | Sat, 24 Oct 2026 | SAFADA | DJ LOUI FROM JUPITER4, Gadutra, Juba |
 | Thu, 29 Oct 2026 | XPAM x Record Turnover | HMEHDI, Krohm, XZ5000, Yozy, olesia |
 | Fri, 30 Oct 2026 | We'll be there in a bit with Rhyw, Samira, Levente | Levente, Rhyw, Samira (NL) |
+| Sat, 31 Oct 2026 | Weddings vs Funerals - Sameheads Halloween Costume Party | DJ soFa, Miss Take |
 
 ## Address
 
 Richardstrasse 10; Neukölln; 12043 Berlin; Germany, Berlin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*

@@ -1,6 +1,6 @@
 # DJ Plead
 
-DJ Plead is a Techno and Bass artist with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+DJ Plead is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 DJ Plead is a techno and bass artist based in Australia, with 136 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 38 more. Often billed alongside rRoxymore, Azu Tiwaline and DJ Python. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -9,7 +9,6 @@ DJ Plead is a techno and bass artist based in Australia, with 136 gigs on soundc
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
-| Thu, 8 Oct 2026 | Hotel Forum | Krakow |
 | Fri, 9 Oct 2026 | Hotel Forum | Krakow |
 | Sat, 17 Oct 2026 | The White Hotel | Manchester |
 | Sun, 18 Oct 2026 | Golden Pudel Club | Hamburg |
@@ -19,6 +18,7 @@ DJ Plead is a techno and bass artist based in Australia, with 136 gigs on soundc
 
 ## Recently played
 
+- Hotel Forum, Krakow · Thu, 8 Oct 2026
 - TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City · Sat, 3 Oct 2026
 - Various venues - Warsaw & Krakow, Poland · Fri, 2 Oct 2026
 - Mundos, Rhode-island · Fri, 2 Oct 2026
@@ -26,10 +26,9 @@ DJ Plead is a techno and bass artist based in Australia, with 136 gigs on soundc
 - Ormside Projects, London · Sat, 26 Sept 2026
 - OHM, Berlin · Fri, 18 Sept 2026
 - EXIT Glasgow, Glasgow · Sat, 12 Sept 2026
-- Karmen Camina, Strasbourg · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 rRoxymore, Azu Tiwaline, DJ Python
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djplead/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djplead/)*

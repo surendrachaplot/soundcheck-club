@@ -1,14 +1,15 @@
 # Park:ING
 
-Park:ING is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Sat, 10 Oct 2026.
+Park:ING is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Sat, 10 Oct 2026.
 
-Park:ING is a house and disco artist, with 7 gigs on soundcheck across Bangkok, Ho Chi Minh City, Hong Kong and Lyon and 1 more. Often billed alongside Aaron Clark, Baobei. and Chucheewa. Next up: The Observatory, Ho Chi Minh City on Sat 10 Oct.
+Park:ING is a house and disco artist, with 8 gigs on soundcheck across Bangkok, Ho Chi Minh City, Hong Kong and Lyon and 1 more. Often billed alongside Dan Lo, Shhhhh and Aaron Clark. Next up: The Observatory, Ho Chi Minh City on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | The Observatory | Ho-chi-minh-city |
+| Thu, 29 Oct 2026 | The Observatory | Ho-chi-minh-city |
 
 ## Recently played
 
@@ -21,6 +22,6 @@ Park:ING is a house and disco artist, with 7 gigs on soundcheck across Bangkok, 
 
 ## Shares bills with
 
-Aaron Clark, Baobei., Chucheewa
+Dan Lo, Shhhhh, Aaron Clark
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parking/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parking/)*

@@ -1,6 +1,6 @@
 # Bruce Wayne (US)
 
-Bruce Wayne (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at SILO, New York City on Thu, 19 Nov 2026.
+Bruce Wayne (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at SILO, New York City on Thu, 19 Nov 2026.
 
 Bruce Wayne (US) is a house and techno artist based in United States of America, with 27 gigs on soundcheck across New York City. Often billed alongside IgP, KRAVE and Valentin. Next up: SILO, New York City on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Bruce Wayne (US) is a house and techno artist based in United States of America,
 
 IgP (1), KRAVE, Valentin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brucewayneus/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brucewayneus/)*

@@ -1,6 +1,6 @@
 # The Lido
 
-The Lido is a music venue in Vancouver with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Dandelion Records" on Sat, 10 Oct 2026.
+The Lido is a music venue in Vancouver with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Dandelion Records" on Sat, 10 Oct 2026.
 
 The Lido is a music venue in Vancouver listed on soundcheck. 4 upcoming gigs, with line-ups including Dairy Free, deejay alex, dj_2button and Jesse Walker and 1 more. See dates, start times and who's playing. 518 East Broadway, Vancouver.
 
@@ -17,4 +17,4 @@ The Lido is a music venue in Vancouver listed on soundcheck. 4 upcoming gigs, wi
 
 518 East Broadway, Vancouver, Vancouver
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-lido/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-lido/)*

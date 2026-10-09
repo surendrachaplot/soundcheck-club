@@ -1,8 +1,8 @@
 # GTI
 
-GTI is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Macadam, Nantes on Sun, 8 Nov 2026.
+GTI is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Macadam, Nantes on Sun, 8 Nov 2026.
 
-GTI is a techno and house artist based in France, with 65 gigs on soundcheck across Berlin, Copenhagen, Lyon and Marseille and 5 more. Often billed alongside Combe, Soyoon and Bambi (FR). Next up: Macadam, Nantes on Sun 8 Nov.
+GTI is a techno and house artist based in France, with 66 gigs on soundcheck across Berlin, Copenhagen, Lyon and Marseille and 5 more. Often billed alongside Combe, Soyoon and Bambi (FR). Next up: Macadam, Nantes on Sun 8 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ GTI is a techno and house artist based in France, with 65 gigs on soundcheck acr
 | --- | --- | --- |
 | Sun, 8 Nov 2026 | Macadam | Nantes |
 | Sat, 21 Nov 2026 | Kater | Berlin |
+| Sat, 28 Nov 2026 | Renate | Berlin |
 | Sun, 20 Dec 2026 | Macadam | Nantes |
 
 ## Recently played
@@ -27,4 +28,4 @@ GTI is a techno and house artist based in France, with 65 gigs on soundcheck acr
 
 Combe, Soyoon, Bambi (FR)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gti/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gti/)*

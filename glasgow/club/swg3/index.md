@@ -1,14 +1,13 @@
 # SWG3
 
-SWG3 is a music venue in Glasgow with 42 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "ArrDee" on Thu, 8 Oct 2026.
+SWG3 is a music venue in Glasgow with 41 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "doof Presents The Rocketman" on Fri, 9 Oct 2026.
 
-SWG3 is a music venue in Glasgow listed on soundcheck. 42 upcoming gigs, with line-ups including Above & Beyond, Alexandria, AMMARA and Archie Hamilton and 2 more. See dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
+SWG3 is a music venue in Glasgow listed on soundcheck. 41 upcoming gigs, with line-ups including Above & Beyond, Alexandria, AMMARA and Archie Hamilton and 2 more. See dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | ArrDee |  |
 | Fri, 9 Oct 2026 | doof Presents The Rocketman | The Rocketman |
 | Fri, 9 Oct 2026 | RARE Club // Notion + SHUFFA | F Kay, Notion, Orla Halligan, SHUFFA |
 | Fri, 9 Oct 2026 | LEXIS. Showcase Vol.1 | SunēX, TiLA |
@@ -18,9 +17,10 @@ SWG3 is a music venue in Glasgow listed on soundcheck. 42 upcoming gigs, with li
 | Mon, 19 Oct 2026 | Synthesis | Babyccino |
 | Sat, 24 Oct 2026 | Colours Presents - Kimmic |  |
 | Sat, 24 Oct 2026 | The Mr Cutts Experience |  |
+| Sat, 24 Oct 2026 | The Mr Cutts Experience |  |
 
 ## Address
 
 100 Eastvale Place, Glasgow, G3 8QG, Glasgow
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*

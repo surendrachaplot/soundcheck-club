@@ -1,6 +1,6 @@
 # VERSION 34
 
-VERSION 34 is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Shooting Gallery, Philippines on Sat, 10 Oct 2026.
+VERSION 34 is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Shooting Gallery, Philippines on Sat, 10 Oct 2026.
 
 VERSION 34 is a techno and hardcore artist based in Turkey, with 40 gigs on soundcheck across Bangkok, Istanbul, Philippines and Seoul. Often billed alongside D.E.F, KONY.ART and NANAH. Next up: Shooting Gallery, Philippines on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ VERSION 34 is a techno and hardcore artist based in Turkey, with 40 gigs on soun
 
 D.E.F, KONY.ART, NANAH
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/version34/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/version34/)*

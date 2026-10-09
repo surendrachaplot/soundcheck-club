@@ -1,6 +1,6 @@
 # comm
 
-comm is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Mitsuki, Tokyo on Mon, 5 Oct 2026.
+comm is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Mitsuki, Tokyo on Mon, 5 Oct 2026.
 
 comm is a techno and bass artist based in Japan, with 53 gigs on soundcheck across Barcelona, Hong Kong, Madrid and Osaka and 1 more. Often billed alongside Herbalistek, LØST and AMG SAIMURA (TECHVANE). Next up: Mitsuki, Tokyo on Mon 5 Oct.
 
@@ -27,4 +27,4 @@ comm is a techno and bass artist based in Japan, with 53 gigs on soundcheck acro
 
 Herbalistek, LØST, AMG SAIMURA (TECHVANE)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/comm-2/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/comm-2/)*

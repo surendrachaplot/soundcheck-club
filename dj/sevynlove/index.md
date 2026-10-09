@@ -1,13 +1,14 @@
 # Sevyn Love
 
-Sevyn Love is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Good Room, New York City on Fri, 23 Oct 2026.
+Sevyn Love is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Club Rawhide, New York City on Sat, 17 Oct 2026.
 
-Sevyn Love is a techno and house artist based in United States of America, with 77 gigs on soundcheck across New York City and Philadelphia. Often billed alongside DJPT, DJ DEADNAME and Giovannii. Next up: Good Room, New York City on Fri 23 Oct.
+Sevyn Love is a techno and house artist based in United States of America, with 78 gigs on soundcheck across New York City and Philadelphia. Often billed alongside DJPT, DJ DEADNAME and Giovannii. Next up: Club Rawhide, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Club Rawhide | New York City |
 | Fri, 23 Oct 2026 | Good Room | New York City |
 | Sat, 31 Oct 2026 | BASEMENT | New York City |
 
@@ -26,4 +27,4 @@ Sevyn Love is a techno and house artist based in United States of America, with 
 
 DJPT, DJ DEADNAME, Giovannii
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sevynlove/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sevynlove/)*

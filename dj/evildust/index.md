@@ -1,6 +1,6 @@
 # Evil Dust
 
-Evil Dust is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Omeara, London on Sat, 17 Oct 2026.
+Evil Dust is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Omeara, London on Sat, 17 Oct 2026.
 
 Evil Dust is an ebm and techno artist, with 18 gigs on soundcheck across Athens, Brussels, London and Paris and 1 more. Often billed alongside Arrosa, Lais Pattak and Petros Spatharos. Next up: Omeara, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Evil Dust is an ebm and techno artist, with 18 gigs on soundcheck across Athens,
 
 Arrosa, Lais Pattak, Petros Spatharos
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evildust/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evildust/)*

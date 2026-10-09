@@ -1,14 +1,14 @@
 # Kara Okay
 
-Kara Okay is a House and Trance artist with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Fvtvr, Paris on Fri, 9 Oct 2026.
+Kara Okay is a House and Trance artist with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at FVTVR, Paris on Fri, 9 Oct 2026.
 
-Kara Okay is a house and trance artist based in Netherlands, with 75 gigs on soundcheck across Amsterdam, Antwerp, Bali and Cologne and 15 more. Often billed alongside DART, Bella Claxton and Freddi. Next up: Fvtvr, Paris on Fri 9 Oct.
+Kara Okay is a house and trance artist based in Netherlands, with 75 gigs on soundcheck across Amsterdam, Antwerp, Bali and Cologne and 15 more. Often billed alongside DART, Bella Claxton and Freddi. Next up: FVTVR, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Fvtvr | Paris |
+| Fri, 9 Oct 2026 | FVTVR | Paris |
 | Sat, 10 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 | Wed, 21 Oct 2026 | Tropeninstituut: Koninklijk Instituut Voor de Tropen | Amsterdam |
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
@@ -34,4 +34,4 @@ Kara Okay is a house and trance artist based in Netherlands, with 75 gigs on sou
 
 DART, Bella Claxton, Freddi
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karaokay/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karaokay/)*

@@ -1,6 +1,6 @@
 # SENDA FATAL
 
-SENDA FATAL is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at El Internacional, Madrid on Fri, 9 Oct 2026.
+SENDA FATAL is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at El Internacional, Madrid on Fri, 9 Oct 2026.
 
 SENDA FATAL is a techno and tech house artist based in Spain, with 8 gigs on soundcheck across Madrid. Often billed alongside Nachine, Axis Mundi and BOUNCE BRIGADE. Next up: El Internacional, Madrid on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ SENDA FATAL is a techno and tech house artist based in Spain, with 8 gigs on sou
 
 Nachine, Axis Mundi, BOUNCE BRIGADE
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sendafatal/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sendafatal/)*

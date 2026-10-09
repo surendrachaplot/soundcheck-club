@@ -1,6 +1,6 @@
 # Briser Gonzalez
 
-Briser Gonzalez is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Frankie's, Vancouver on Sat, 31 Oct 2026.
+Briser Gonzalez is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Frankie's, Vancouver on Sat, 31 Oct 2026.
 
 Briser Gonzalez is a house and techno artist based in Canada, with 11 gigs on soundcheck across Vancouver. Often billed alongside Lalo Campo, Tienn and Ev O'Reilly. Next up: Frankie's, Vancouver on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Briser Gonzalez is a house and techno artist based in Canada, with 11 gigs on so
 
 Lalo Campo, Tienn, Ev O'Reilly
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brisergonzalez/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brisergonzalez/)*

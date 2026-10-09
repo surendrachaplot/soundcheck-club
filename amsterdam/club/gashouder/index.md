@@ -1,8 +1,8 @@
 # GASHOUDER
 
-GASHOUDER is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "GASHOUDER presents: Armin van Buuren & Benwal [Sold Out]" on Wed, 21 Oct 2026.
+GASHOUDER is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "GASHOUDER presents: Armin van Buuren & Benwal [Sold Out]" on Wed, 21 Oct 2026.
 
-GASHOUDER is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including AAT (NL), Alexandria, Armin van Buuren and BASHKKA and 2 more. See dates, start times and who's playing. Klönneplein 1, 1014 DD Amsterdam, Netherlands.
+GASHOUDER is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including 999999999, AAT (NL), Alexandria and Armin van Buuren and 2 more. See dates, start times and who's playing. Klönneplein 1, 1014 DD Amsterdam, Netherlands.
 
 ## What's on
 
@@ -23,4 +23,4 @@ GASHOUDER is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, 
 
 Klönneplein 1, 1014 DD Amsterdam, Netherlands, Amsterdam
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/gashouder/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/gashouder/)*

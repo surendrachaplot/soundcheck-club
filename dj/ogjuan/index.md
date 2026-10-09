@@ -1,6 +1,6 @@
 # OG Juan
 
-OG Juan is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Core, Madrid on Sat, 10 Oct 2026.
+OG Juan is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Core, Madrid on Sat, 10 Oct 2026.
 
 OG Juan is a house and acid artist based in Spain, with 25 gigs on soundcheck across Berlin, Lisbon, Madrid and Melbourne and 3 more. Often billed alongside DJ Gostoso, Gostoso and Telephones. Next up: Core, Madrid on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ OG Juan is a house and acid artist based in Spain, with 25 gigs on soundcheck ac
 
 DJ Gostoso, Gostoso, Telephones
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ogjuan/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ogjuan/)*

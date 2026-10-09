@@ -1,13 +1,14 @@
 # kimmy6.6.6
 
-kimmy6.6.6 is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at OMA, Hong Kong on Thu, 22 Oct 2026.
+kimmy6.6.6 is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - HONG KONG, Hong Kong on Sun, 18 Oct 2026.
 
-kimmy6.6.6 is a techno and acid artist based in China, with 28 gigs on soundcheck across Hong Kong. Often billed alongside Fischmonger, Kelvin T and Shawn. Next up: OMA, Hong Kong on Thu 22 Oct.
+kimmy6.6.6 is a techno and acid artist based in China, with 29 gigs on soundcheck across Hong Kong. Often billed alongside Fischmonger, Kelvin T and Shawn. Next up: TBA - HONG KONG, Hong Kong on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 18 Oct 2026 | TBA - HONG KONG | Hong Kong |
 | Thu, 22 Oct 2026 | OMA | Hong Kong |
 
 ## Recently played
@@ -25,4 +26,4 @@ kimmy6.6.6 is a techno and acid artist based in China, with 28 gigs on soundchec
 
 Fischmonger, Kelvin T, Shawn (2)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmy6.6.6/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmy6.6.6/)*

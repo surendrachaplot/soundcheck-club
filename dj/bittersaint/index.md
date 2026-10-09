@@ -1,6 +1,6 @@
 # Bitter Saint
 
-Bitter Saint is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Apollo Club Milano, Milan on Sat, 10 Oct 2026.
+Bitter Saint is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Apollo Club Milano, Milan on Sat, 10 Oct 2026.
 
 Bitter Saint is an electro and techno artist based in Italy, with 18 gigs on soundcheck across Milan and Paris. Often billed alongside Andrea Ratti, Sergio Tavelli and rar3. Next up: Apollo Club Milano, Milan on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Bitter Saint is an electro and techno artist based in Italy, with 18 gigs on sou
 
 Andrea Ratti, Sergio Tavelli, rar3
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bittersaint/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bittersaint/)*

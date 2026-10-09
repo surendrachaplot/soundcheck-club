@@ -1,6 +1,6 @@
 # La Cité Fertile
 
-La Cité Fertile is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Club Humide - FREE ENTRANCE" on Fri, 9 Oct 2026.
+La Cité Fertile is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Club Humide - FREE ENTRANCE" on Fri, 9 Oct 2026.
 
 La Cité Fertile is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including DJ Jee, dj volta, Fenouil2000 and Gilb'R and 2 more. See dates, start times and who's playing. 14 avenue Edouard Vaillant, 93500 Pantin.
 
@@ -16,4 +16,4 @@ La Cité Fertile is a music venue in Paris listed on soundcheck. 3 upcoming gigs
 
 14 avenue Edouard Vaillant, 93500 Pantin, Paris
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cit-fertile/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cit-fertile/)*

@@ -1,6 +1,6 @@
 # Byron Yeates
 
-Byron Yeates is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at La Terrrazza, Barcelona on Fri, 9 Oct 2026.
+Byron Yeates is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at La Terrrazza, Barcelona on Fri, 9 Oct 2026.
 
 Byron Yeates is a house and techno artist, with 195 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 48 more. Often billed alongside THC, DHC and Angel D'lite. Next up: La Terrrazza, Barcelona on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ Byron Yeates is a house and techno artist, with 195 gigs on soundcheck across Am
 
 THC, DHC, Angel D'lite
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*

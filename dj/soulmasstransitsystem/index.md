@@ -1,6 +1,6 @@
 # Soul Mass Transit System
 
-Soul Mass Transit System is a Garage and House artist with 16 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Toffler, Rotterdam on Fri, 9 Oct 2026.
+Soul Mass Transit System is a Garage and House artist with 16 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Toffler, Rotterdam on Fri, 9 Oct 2026.
 
 Soul Mass Transit System is a garage and house artist based in United Kingdom, with 159 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 39 more. Often billed alongside Silva Bumpa, Dr Dubplate and Prozak (IRL). Next up: Toffler, Rotterdam on Fri 9 Oct.
 
@@ -11,7 +11,7 @@ Soul Mass Transit System is a garage and house artist based in United Kingdom, w
 | Fri, 9 Oct 2026 | Toffler | Rotterdam |
 | Sat, 17 Oct 2026 | 11 Bromley Street | Birmingham |
 | Sat, 17 Oct 2026 | The Loft | Manchester |
-| Thu, 22 Oct 2026 | Levenslang Amsterdam | Amsterdam |
+| Thu, 22 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Basement Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Hope House | Leeds |
 | Sat, 31 Oct 2026 | Quarters | Brighton |
@@ -36,4 +36,4 @@ Soul Mass Transit System is a garage and house artist based in United Kingdom, w
 
 Silva Bumpa, Dr Dubplate, Prozak (IRL)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*

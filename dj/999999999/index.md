@@ -1,8 +1,8 @@
 # 999999999
 
-999999999 is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+999999999 is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-999999999 is a techno and house artist based in Italy, with 288 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 78 more. Often billed alongside I Hate Models, Charlie Sparks and Nico Moreno. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+999999999 is a techno and house artist based in Italy, with 290 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 78 more. Often billed alongside I Hate Models, Charlie Sparks and Nico Moreno. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@
 | Sat, 7 Nov 2026 | Bootshaus | Cologne |
 | Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
 | Fri, 27 Nov 2026 | Elastica | Vilnius |
+| Sat, 19 Dec 2026 | TBA - Los Angeles | Los Angeles |
 
 ## Recently played
 
@@ -35,4 +36,4 @@
 
 I Hate Models, Charlie Sparks, Nico Moreno
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/999999999/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/999999999/)*

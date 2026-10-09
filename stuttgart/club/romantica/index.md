@@ -1,14 +1,13 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "KATZENGOLD AM DONNERSTAG mit Raphael Dincsoy (Halbwelt/Lehmann)" on Thu, 8 Oct 2026.
+Romantica is a music venue in Stuttgart with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "FEMALE ROMANZE mit SAMY BELL, Femcat & Mara Sander (Weltmädchentag)" on Fri, 9 Oct 2026.
 
-Romantica is a music venue in Stuttgart listed on soundcheck. 10 upcoming gigs, with line-ups including Alexander Maier, Avocado, Femcat and Hjalte and 2 more. See dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
+Romantica is a music venue in Stuttgart listed on soundcheck. 9 upcoming gigs, with line-ups including Alexander Maier, Avocado, Femcat and Hjalte and 2 more. See dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | KATZENGOLD AM DONNERSTAG mit Raphael Dincsoy (Halbwelt/Lehmann) | Raphael Dincsoy |
 | Fri, 9 Oct 2026 | FEMALE ROMANZE mit SAMY BELL, Femcat & Mara Sander (Weltmädchentag) | Femcat, Mara Sander |
 | Sat, 10 Oct 2026 | HERZ & SEELE w./ Avocado, Sibel, Molekularmusik, tim/bre | Avocado, Molekularmusik, Sibel, tim/bre |
 | Sun, 11 Oct 2026 | BUNTER HUND - OCEANS BIRTHDAY mit VIKOSH, SEZEN & OCEAN |  |
@@ -23,4 +22,4 @@ Romantica is a music venue in Stuttgart listed on soundcheck. 10 upcoming gigs, 
 
 Hauptstatter Str. 40, Stuttgart, Stuttgart
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*

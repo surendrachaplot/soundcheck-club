@@ -1,6 +1,6 @@
 # TRANCE4 SEOUL: The Luka Sessions [7th] at Luka
 
-TRANCE4 SEOUL: The Luka Sessions [7th] on Sun 11 Oct, Seoul. 4 artists: Casepeat, Kago Pengchi, Kataploks and Scalar. See the line-up on soundcheck.
+TRANCE4 SEOUL: The Luka Sessions [7th] on Sun 11 Oct, Seoul. 4 artists: Casepeat, Kago Pengchi, Kataploks and Scalar. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

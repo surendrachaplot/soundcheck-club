@@ -1,6 +1,6 @@
 # Poetter
 
-Poetter is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at KHIDI, Tbilisi on Sat, 10 Oct 2026.
+Poetter is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at KHIDI, Tbilisi on Sat, 10 Oct 2026.
 
 Poetter is a techno and electro artist, with 3 gigs on soundcheck across Dortmund Essen, Lisbon and Tbilisi. Often billed alongside ETHAN KOOP, Greta Perola and Juulz. Next up: KHIDI, Tbilisi on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ Poetter is a techno and electro artist, with 3 gigs on soundcheck across Dortmun
 
 ETHAN KOOP, Greta Perola, Juulz
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poetter/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poetter/)*

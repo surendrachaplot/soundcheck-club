@@ -1,6 +1,6 @@
 # LowQui
 
-LowQui is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Gaswrx Birmingham, Birmingham on Sat, 10 Oct 2026.
+LowQui is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Gaswrx Birmingham, Birmingham on Sat, 10 Oct 2026.
 
 LowQui is a drum & bass and jungle artist based in United Kingdom, with 51 gigs on soundcheck across Bali, Birmingham, Brighton and Bristol and 10 more. Often billed alongside S.P.Y, Carasel and Technimatic. Next up: Gaswrx Birmingham, Birmingham on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ LowQui is a drum & bass and jungle artist based in United Kingdom, with 51 gigs 
 
 S.P.Y, Carasel, Technimatic
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowqui/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowqui/)*

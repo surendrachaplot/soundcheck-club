@@ -1,8 +1,8 @@
 # Brixton Jamm
 
-Brixton Jamm is a music venue in London with 15 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Jungle Splash" on Fri, 9 Oct 2026.
+Brixton Jamm is a music venue in London with 16 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Jungle Splash" on Fri, 9 Oct 2026.
 
-Brixton Jamm is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including alterum, Benny Page, CHEZA LUCINA and CHICCA and 2 more. See dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
+Brixton Jamm is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including alterum, Benny Page, CHEZA LUCINA and CHICCA and 2 more. See dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Brixton Jamm is a music venue in London listed on soundcheck. 15 upcoming gigs, 
 
 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom, London
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*

@@ -1,14 +1,15 @@
 # Rumi de Baires
 
-Rumi de Baires is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at BASEMENT, New York City on Sat, 17 Oct 2026.
+Rumi de Baires is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at BASEMENT, New York City on Sat, 17 Oct 2026.
 
-Rumi de Baires is a house and techno artist based in Argentina, with 97 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 12 more. Often billed alongside Jorkes, JP Bechamel and Altroy. Next up: BASEMENT, New York City on Sat 17 Oct.
+Rumi de Baires is a house and techno artist based in Argentina, with 98 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 12 more. Often billed alongside Jorkes, JP Bechamel and Altroy. Next up: BASEMENT, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | BASEMENT | New York City |
+| Sun, 8 Nov 2026 | Blow | Buenos Aires |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Rumi de Baires is a house and techno artist based in Argentina, with 97 gigs on 
 
 Jorkes, JP Bechamel, Altroy
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rumidebaires/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rumidebaires/)*

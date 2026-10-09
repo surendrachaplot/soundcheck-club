@@ -1,6 +1,6 @@
 # DH Moon
 
-DH Moon is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Viuz, Medellin on Sat, 10 Oct 2026.
+DH Moon is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Viuz, Medellin on Sat, 10 Oct 2026.
 
 DH Moon is an electronic artist, with 10 gigs on soundcheck across Barcelona, Dublin, Ibiza and London and 3 more. Often billed alongside Sortech, Ale Grooves and Andrea Oliva. Next up: Viuz, Medellin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DH Moon is an electronic artist, with 10 gigs on soundcheck across Barcelona, Du
 
 Sortech, Ale Grooves, Andrea Oliva
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dhmoon/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dhmoon/)*

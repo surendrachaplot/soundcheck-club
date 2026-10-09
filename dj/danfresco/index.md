@@ -1,6 +1,6 @@
 # Dan Fresco
 
-Dan Fresco is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Kiki Cambridge, South-east on Sat, 7 Nov 2026.
+Dan Fresco is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Kiki Cambridge, South-east on Sat, 7 Nov 2026.
 
 Dan Fresco is a house and tech house artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 7 more. Often billed alongside FINKY, Ryan Resso and Stef Davidse. Next up: Kiki Cambridge, South East on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Dan Fresco is a house and tech house artist based in United Kingdom, with 35 gig
 
 FINKY, Ryan Resso, Stef Davidse
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danfresco/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danfresco/)*

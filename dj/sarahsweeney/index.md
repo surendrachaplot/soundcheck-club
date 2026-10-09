@@ -1,18 +1,18 @@
 # Sarah Sweeney
 
-Sarah Sweeney is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at renae, Manchester on Thu, 8 Oct 2026.
+Sarah Sweeney is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Jacobs Basement, Cardiff on Sat, 10 Oct 2026.
 
-Sarah Sweeney is a house and disco artist based in United Kingdom, with 10 gigs on soundcheck across Cardiff and Manchester. Often billed alongside Earl Jeffers, Lil' Minx and Paul Cahill. Next up: renae, Manchester on Thu 8 Oct.
+Sarah Sweeney is a house and disco artist based in United Kingdom, with 10 gigs on soundcheck across Cardiff and Manchester. Often billed alongside Earl Jeffers, Lil' Minx and Paul Cahill. Next up: Jacobs Basement, Cardiff on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | renae | Manchester |
 | Sat, 10 Oct 2026 | Jacobs Basement | Cardiff |
 
 ## Recently played
 
+- renae, Manchester · Thu, 8 Oct 2026
 - Dahlia Stereo, Manchester · Sat, 26 Sept 2026
 - The Underdog, Cardiff · Sat, 21 Mar 2026
 - Paradise Garden, Cardiff · Fri, 10 Oct 2025
@@ -20,10 +20,9 @@ Sarah Sweeney is a house and disco artist based in United Kingdom, with 10 gigs 
 - Cultvr, Cardiff · Fri, 18 Jul 2025
 - Paradise Garden, Cardiff · Tue, 31 Dec 2024
 - Paradise Garden, Cardiff · Fri, 18 Oct 2024
-- Paradise Garden, Cardiff · Fri, 10 May 2024
 
 ## Shares bills with
 
 Earl Jeffers, Lil' Minx, Paul Cahill
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsweeney/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsweeney/)*

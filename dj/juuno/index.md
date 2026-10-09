@@ -1,18 +1,18 @@
 # Juuno
 
-Juuno is a Club and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Bolero, Seoul on Thu, 8 Oct 2026.
+Juuno is a Club and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Bolero, Seoul on Fri, 23 Oct 2026.
 
-Juuno is a club and garage artist based in South Korea, with 46 gigs on soundcheck across Seoul. Often billed alongside Shins, SEOL and DJ Co.kr. Next up: Bolero, Seoul on Thu 8 Oct.
+Juuno is a club and garage artist based in South Korea, with 46 gigs on soundcheck across Seoul. Often billed alongside Shins, SEOL and DJ Co.kr. Next up: Bolero, Seoul on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Bolero | Seoul |
 | Fri, 23 Oct 2026 | Bolero | Seoul |
 
 ## Recently played
 
+- Bolero, Seoul · Thu, 8 Oct 2026
 - Grain Haus, Seoul · Sat, 3 Oct 2026
 - Bolero, Seoul · Thu, 24 Sept 2026
 - RO Seoul, Seoul · Sat, 12 Sept 2026
@@ -20,10 +20,9 @@ Juuno is a club and garage artist based in South Korea, with 46 gigs on soundche
 - Bolero, Seoul · Sat, 25 Jul 2026
 - Bolero, Seoul · Fri, 17 Jul 2026
 - Bolero, Seoul · Fri, 17 Jul 2026
-- Cakeshop, Seoul · Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Shins, SEOL, DJ Co.kr
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juuno/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juuno/)*

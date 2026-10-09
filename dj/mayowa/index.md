@@ -1,6 +1,6 @@
 # Mayowa
 
-Mayowa is a Ghetto Tech and R&B artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Tola, London on Fri, 23 Oct 2026.
+Mayowa is a Ghetto Tech and R&B artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Tola, London on Fri, 23 Oct 2026.
 
 Mayowa is a ghetto tech and r&b artist, with 18 gigs on soundcheck across Birmingham and London. Often billed alongside AyChibs, Donnie Sunshine and ELLADHC. Next up: Tola, London on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Mayowa is a ghetto tech and r&b artist, with 18 gigs on soundcheck across Birmin
 
 AyChibs, Donnie Sunshine, ELLADHC
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayowa/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayowa/)*

@@ -1,6 +1,6 @@
 # Sharam Jey
 
-Sharam Jey is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri, 26 Mar 2027.
+Sharam Jey is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri, 26 Mar 2027.
 
 Sharam Jey is a techno and house artist based in Germany, with 10 gigs on soundcheck across Berlin, Brazil, Brisbane and Cologne and 3 more. Often billed alongside Diode Eins, Format B and Maurice Mino. Next up: TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri 26 Mar.
 
@@ -25,4 +25,4 @@ Sharam Jey is a techno and house artist based in Germany, with 10 gigs on soundc
 
 Diode Eins, Format B, Maurice Mino
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sharamjey/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sharamjey/)*

@@ -1,6 +1,6 @@
 # WHO LOVES THE SUN (ADE DAY PARTY) at Prik Amsterdam
 
-WHO LOVES THE SUN (ADE DAY PARTY) at Prik Amsterdam on Fri 23 Oct, Amsterdam. 6 artists: CARSA, INFAME (MX), Jorick Croes and Sandra Silver and 2 more. Tech House and Minimal. See the line-up on soundcheck.
+WHO LOVES THE SUN (ADE DAY PARTY) at Prik Amsterdam on Fri 23 Oct, Amsterdam. 5 artists: CANO, CARSA, INFAME (MX) and Jorick Croes and 1 more. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,11 +10,10 @@ WHO LOVES THE SUN (ADE DAY PARTY) at Prik Amsterdam on Fri 23 Oct, Amsterdam. 6 
 
 ## Line-up
 
+- CANO (3)
 - CARSA
 - INFAME (MX)
 - Jorick Croes
-- Sandra Silver
-- SEVEN77
 - Tato (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2518599-who-loves-the-sun-ade-day-party-at-prik-amsterdam/)*

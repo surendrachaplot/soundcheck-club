@@ -1,8 +1,8 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Doka Studio with Moxes - 36framez" on Fri, 9 Oct 2026.
+Doka is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Doka Studio with Moxes - 36framez" on Fri, 9 Oct 2026.
 
-Doka is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including 36framez, Antal, Anz and Ays (NL) and 2 more. See dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
+Doka is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including 36framez, Antal, Anz and Ays (NL) and 2 more. See dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
 ## What's on
 
@@ -14,13 +14,13 @@ Doka is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with 
 | Sat, 17 Oct 2026 | Doka Studio with Doppelgang - DIEDE | DIEDE, Doppelgang |
 | Sun, 18 Oct 2026 | REC PLAY w. Leroy Rey x Vasco |  |
 | Wed, 21 Oct 2026 | Live Coding Sessions x Doka Culture [ADE] | Jobi, MYNA |
+| Wed, 21 Oct 2026 | Doka Culture x Live Coding Sessions |  |
 | Thu, 22 Oct 2026 | United Identities x Doka Studio [ADE] | Anz, CARISTA, Conrad Soundsystem, LE KACANG, Scalio |
 | Fri, 23 Oct 2026 | Cooking with Palms Trax x Doka Studio [ADE] (SOLD OUT) | Palms Trax |
 | Sat, 24 Oct 2026 | Kiosk Radio x The Lot Radio x Doka Culture live stream [ADE] |  |
-| Sat, 24 Oct 2026 | Kiosk Radio x The Lot Radio w/ livwutang - Orpheu The Wizard b2b Lloyd - babyschön [ADE] | Lloydski, Orpheu The Wizard, babyschön, livwutang |
 
 ## Address
 
 Wibautstraat 150, 1091 GR Amsterdam, Netherlands, Amsterdam
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*

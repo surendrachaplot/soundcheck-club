@@ -1,6 +1,6 @@
 # CHRIS LEWIS
 
-CHRIS LEWIS is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Robert Fulton Park - 70 Chauncey St, Brooklyn, New York City on Sat, 10 Oct 2026.
+CHRIS LEWIS is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Robert Fulton Park - 70 Chauncey St, Brooklyn, New York City on Sat, 10 Oct 2026.
 
 CHRIS LEWIS is a house and techno artist based in United States of America, with 16 gigs on soundcheck across Mallorca, New York City and Washington DC. Often billed alongside Destro187, Giovani and Alexander Technique. Next up: TBA - Robert Fulton Park - 70 Chauncey St, Brooklyn, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ CHRIS LEWIS is a house and techno artist based in United States of America, with
 
 Destro187, Giovani, Alexander Technique
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislewis/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislewis/)*

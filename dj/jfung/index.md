@@ -1,6 +1,6 @@
 # JFÜNG
 
-JFÜNG is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at 宀 Club, Hong Kong on Fri, 9 Oct 2026.
+JFÜNG is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at 宀 Club, Hong Kong on Fri, 9 Oct 2026.
 
 JFÜNG is a techno and bass artist based in China, with 53 gigs on soundcheck across Hong Kong and Shenzhen. Often billed alongside VSLORIA, Immuno and Arthur Yeti. Next up: 宀 Club, Hong Kong on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ JFÜNG is a techno and bass artist based in China, with 53 gigs on soundcheck ac
 
 VSLORIA, Immuno, Arthur Yeti
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jfung/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jfung/)*

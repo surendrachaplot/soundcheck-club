@@ -1,6 +1,6 @@
 # FEAR OF A BLACK PLANET: Botanist, Sugo2000, seangreentea, Tallboy at Empire Stage
 
-FEAR OF A BLACK PLANET: Botanist, Sugo2000, seangreentea, Tallboy at Empire Stage on Fri 30 Oct, New York City. 2 artists: Botanist and Sean Green. Club and Footwork. See the line-up on soundcheck.
+FEAR OF A BLACK PLANET: Botanist, Sugo2000, seangreentea, Tallboy at Empire Stage on Fri 30 Oct, New York City. 3 artists: Botanist, Petal and Sean Green. Club and Footwork. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ FEAR OF A BLACK PLANET: Botanist, Sugo2000, seangreentea, Tallboy at Empire Stag
 ## Line-up
 
 - Botanist
+- Petal
 - Sean Green
 
 *Source: [soundcheck](https://soundcheck.club/e/2539139-fear-of-a-black-planet-botanist-sugo2000-seangreentea-tallbo/)*

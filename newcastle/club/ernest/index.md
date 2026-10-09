@@ -1,6 +1,6 @@
 # Ernest
 
-Ernest is a music venue in Newcastle with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Beyond The Veil" on Sat, 10 Oct 2026.
+Ernest is a music venue in Newcastle with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Beyond The Veil" on Sat, 10 Oct 2026.
 
 Ernest is a music venue in Newcastle listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 1 Boyd Street, Ouseburn, Newcastle, NE2 1AP.
 
@@ -16,4 +16,4 @@ Ernest is a music venue in Newcastle listed on soundcheck. 3 upcoming gigs. See 
 
 1 Boyd Street, Ouseburn, Newcastle, NE2 1AP, Newcastle
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ernest/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ernest/)*

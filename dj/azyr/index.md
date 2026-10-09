@@ -1,14 +1,13 @@
 # Azyr
 
-Azyr is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at [UNVRS], Ibiza on Thu, 8 Oct 2026.
+Azyr is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Halle de La Machine, Toulouse on Sat, 10 Oct 2026.
 
-Azyr is a techno and house artist based in United Kingdom, with 236 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 65 more. Often billed alongside LESSSS, blk. and Charlie Sparks. Next up: [UNVRS], Ibiza on Thu 8 Oct.
+Azyr is a techno and house artist based in United Kingdom, with 236 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 65 more. Often billed alongside LESSSS, blk. and Charlie Sparks. Next up: Halle de La Machine, Toulouse on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | [UNVRS] | Ibiza |
 | Sat, 10 Oct 2026 | Halle de La Machine | Toulouse |
 | Sat, 17 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Sat, 17 Oct 2026 | The Ivy | Sydney |
@@ -20,9 +19,11 @@ Azyr is a techno and house artist based in United Kingdom, with 236 gigs on soun
 | Fri, 13 Nov 2026 | Club Cultural Lima | Peru |
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Sat, 21 Nov 2026 | The Garage | Madrid |
+| Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
+- [UNVRS], Ibiza · Thu, 8 Oct 2026
 - TBA - XOX Arena, Kuala Lumpur · Sat, 3 Oct 2026
 - TBA, Los Angeles · Sun, 27 Sept 2026
 - Palmerstown House Estate, Dublin · Fri, 11 Sept 2026
@@ -30,10 +31,9 @@ Azyr is a techno and house artist based in United Kingdom, with 236 gigs on soun
 - INPUT High Fidelity Dance Club, Barcelona · Thu, 10 Sept 2026
 - Hï Ibiza, Ibiza · Sun, 9 Aug 2026
 - Boston Manor Park, London · Sun, 2 Aug 2026
-- Bowlers Exhibition Centre, Manchester · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 LESSSS, blk., Charlie Sparks
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*

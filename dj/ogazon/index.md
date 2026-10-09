@@ -1,8 +1,8 @@
 # Ogazón
 
-Ogazón is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+Ogazón is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
-Ogazón is a techno and house artist based in Luxembourg, with 285 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 65 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
+Ogazón is a techno and house artist based in Luxembourg, with 286 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 65 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Ogazón is a techno and house artist based in Luxembourg, with 285 gigs on sound
 
 Ryan Elliott, Marcel Dettmann, BASHKKA
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*

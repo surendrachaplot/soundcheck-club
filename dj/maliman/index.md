@@ -1,6 +1,6 @@
 # Maliman
 
-Maliman is a Dub and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at La Fabriek, Brussels on Fri, 9 Oct 2026.
+Maliman is a Dub and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at La Fabriek, Brussels on Fri, 9 Oct 2026.
 
 Maliman is a dub and bass artist based in Belgium, with 19 gigs on soundcheck across Antwerp, Brussels, Marseille and Paris. Often billed alongside EliseThere, STDJ and DJ Rino. Next up: La Fabriek, Brussels on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Maliman is a dub and bass artist based in Belgium, with 19 gigs on soundcheck ac
 
 EliseThere, STDJ, DJ Rino
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maliman/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maliman/)*

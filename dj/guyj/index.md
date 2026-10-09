@@ -1,6 +1,6 @@
 # Guy J
 
-Guy J is a Progressive House and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at UNO MALTA, Malta on Thu, 8 Oct 2026.
+Guy J is a Progressive House and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at UNO MALTA, Malta on Thu, 8 Oct 2026.
 
 Guy J is a progressive house and house artist based in Israel, with 135 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 38 more. Often billed alongside Guy Mantzur, Sahar Z and Khen. Next up: UNO MALTA, Malta on Thu 8 Oct.
 
@@ -23,6 +23,7 @@ Guy J is a progressive house and house artist based in Israel, with 135 gigs on 
 
 ## Recently played
 
+- UNO MALTA, Malta · Thu, 8 Oct 2026
 - Jazzclub Hipoza, Poland · Sat, 3 Oct 2026
 - Ritter Butzke, Berlin · Fri, 2 Oct 2026
 - 528 Ibiza, Ibiza · Thu, 1 Oct 2026
@@ -30,10 +31,9 @@ Guy J is a progressive house and house artist based in Israel, with 135 gigs on 
 - E1, London · Sat, 15 Aug 2026
 - Seaseaclub Barcelona, Barcelona · Fri, 14 Aug 2026
 - Sloterpark, Amsterdam · Sat, 8 Aug 2026
-- Loo Loo, Mexico City · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Guy Mantzur, Sahar Z, Khen
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guyj/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guyj/)*

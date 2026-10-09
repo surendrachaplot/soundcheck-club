@@ -1,6 +1,6 @@
 # SINKITTY
 
-SINKITTY is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at DNA Lounge, San Francisco/Oakland on Fri, 9 Oct 2026.
+SINKITTY is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at DNA Lounge, San Francisco/Oakland on Fri, 9 Oct 2026.
 
 SINKITTY is a club and techno artist based in United States of America, with 11 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside JOSELO, MJ Nebreda and OYYSTER. Next up: DNA Lounge, San Francisco/Oakland on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ SINKITTY is a club and techno artist based in United States of America, with 11 
 
 JOSELO, MJ Nebreda, OYYSTER
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinkitty/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinkitty/)*

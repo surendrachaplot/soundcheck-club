@@ -1,6 +1,6 @@
 # ATB
 
-ATB is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Klub Progresja, Warsaw on Sat, 10 Oct 2026.
+ATB is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Klub Progresja, Warsaw on Sat, 10 Oct 2026.
 
 ATB is a trance and progressive house artist, with 12 gigs on soundcheck across Austin, Chicago, Cologne and Copenhagen and 5 more. Often billed alongside Daniel Skyver, Mark Landragin and Adam Taylor. Next up: Klub Progresja, Warsaw on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ ATB is a trance and progressive house artist, with 12 gigs on soundcheck across 
 
 Daniel Skyver, Mark Landragin, Adam Taylor
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atb/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atb/)*

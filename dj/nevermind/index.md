@@ -1,14 +1,14 @@
 # Nevermind
 
-Nevermind is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Fvtvr, Paris on Sat, 10 Oct 2026.
+Nevermind is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at FVTVR, Paris on Sat, 10 Oct 2026.
 
-Nevermind is a trance and techno artist, with 6 gigs on soundcheck across Paris, Seoul and Tokyo. Often billed alongside BETÏSES, Cara Elizabeth and Carla Schmitt. Next up: Fvtvr, Paris on Sat 10 Oct.
+Nevermind is a trance and techno artist, with 6 gigs on soundcheck across Paris, Seoul and Tokyo. Often billed alongside BETÏSES, Cara Elizabeth and Carla Schmitt. Next up: FVTVR, Paris on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Fvtvr | Paris |
+| Sat, 10 Oct 2026 | FVTVR | Paris |
 | Thu, 15 Oct 2026 | Dogenzaka Church | Tokyo |
 
 ## Recently played
@@ -22,4 +22,4 @@ Nevermind is a trance and techno artist, with 6 gigs on soundcheck across Paris,
 
 BETÏSES, Cara Elizabeth, Carla Schmitt
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nevermind/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nevermind/)*

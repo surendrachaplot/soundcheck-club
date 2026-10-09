@@ -1,8 +1,8 @@
 # Ghandi
 
-Ghandi is a House and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Cross Club, Prague on Sat, 10 Oct 2026.
+Ghandi is a House and Post-Punk artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Cross Club, Prague on Sat, 10 Oct 2026.
 
-Ghandi is a house and post-punk artist based in Czech Republic, with 23 gigs on soundcheck across Glasgow, Ibiza, Los Angeles and Prague. Often billed alongside Saku, Bazooka Joe and Dash (CZ). Next up: Cross Club, Prague on Sat 10 Oct.
+Ghandi is a house and post-punk artist based in Czech Republic, with 24 gigs on soundcheck across Glasgow, Ibiza, Los Angeles and Prague. Often billed alongside Saku, Bazooka Joe and Dash (CZ). Next up: Cross Club, Prague on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ghandi is a house and post-punk artist based in Czech Republic, with 23 gigs on 
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Cross Club | Prague |
 | Sat, 17 Oct 2026 | Bike Jesus | Prague |
+| Thu, 29 Oct 2026 | TBA - INFO ON INSTAGRAM @RECOLLECTUNDERGROUND | Los-angeles |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ghandi is a house and post-punk artist based in Czech Republic, with 23 gigs on 
 
 Saku, Bazooka Joe, Dash (CZ)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ghandi/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ghandi/)*

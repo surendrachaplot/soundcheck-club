@@ -1,14 +1,13 @@
 # Nicolas Lutz
 
-Nicolas Lutz is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Hertz, Seoul on Thu, 8 Oct 2026.
+Nicolas Lutz is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at WOMB, Tokyo on Sat, 10 Oct 2026.
 
-Nicolas Lutz is a techno and house artist based in Uruguay, with 173 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 41 more. Often billed alongside Binh, DJ Masda and Craig Richards. Next up: Hertz, Seoul on Thu 8 Oct.
+Nicolas Lutz is a techno and house artist based in Uruguay, with 174 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 41 more. Often billed alongside Binh, DJ Masda and Craig Richards. Next up: WOMB, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Hertz | Seoul |
 | Sat, 10 Oct 2026 | WOMB | Tokyo |
 | Thu, 22 Oct 2026 | San Francisco | Amsterdam |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
@@ -20,9 +19,11 @@ Nicolas Lutz is a techno and house artist based in Uruguay, with 173 gigs on sou
 | Fri, 13 Nov 2026 | DURO | Milan |
 | Sat, 14 Nov 2026 | Karmen Camina | Strasbourg |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
+| Sat, 19 Dec 2026 | Phonox | London |
 
 ## Recently played
 
+- Hertz, Seoul · Thu, 8 Oct 2026
 - FOLD, London · Sat, 3 Oct 2026
 - THE MAGICK BAR, Rome · Sat, 26 Sept 2026
 - Karmakoma, Belgrade · Fri, 25 Sept 2026
@@ -30,10 +31,9 @@ Nicolas Lutz is a techno and house artist based in Uruguay, with 173 gigs on sou
 - Bunker, Turin · Sat, 12 Sept 2026
 - Sonnenraum, Berlin · Sun, 30 Aug 2026
 - Platforma Wolff, Bucharest · Sat, 29 Aug 2026
-- Sophie Festival, Malaga · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Binh, DJ Masda, Craig Richards
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*

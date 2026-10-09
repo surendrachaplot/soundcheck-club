@@ -1,6 +1,6 @@
 # Cisco
 
-Cisco is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Bridge 48, Barcelona on Sat, 10 Oct 2026.
+Cisco is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Bridge 48, Barcelona on Sat, 10 Oct 2026.
 
 Cisco is a house and techno artist based in France, with 14 gigs on soundcheck across Barcelona, Milan, Nashville and New York City and 1 more. Often billed alongside /K/iara, Alexandre Vázquez and Algorythm. Next up: Bridge 48, Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Cisco is a house and techno artist based in France, with 14 gigs on soundcheck a
 
 /K/iara, Alexandre Vázquez, Algorythm
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cisco/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cisco/)*

@@ -1,8 +1,8 @@
 # Mia Koden
 
-Mia Koden is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Process PDX, Portland on Fri, 9 Oct 2026.
+Mia Koden is a Bass and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Process PDX, Portland on Fri, 9 Oct 2026.
 
-Mia Koden is a bass and techno artist based in United Kingdom, with 154 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 47 more. Often billed alongside Skee Mask, DjRUM and Mala. Next up: Process PDX, Portland on Fri 9 Oct.
+Mia Koden is a bass and techno artist based in United Kingdom, with 155 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 47 more. Often billed alongside Skee Mask, DjRUM and Mala. Next up: Process PDX, Portland on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mia Koden is a bass and techno artist based in United Kingdom, with 154 gigs on 
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Process PDX | Portland |
 | Sat, 10 Oct 2026 | Nowadays | New York City |
+| Fri, 27 Nov 2026 | TRAUM | Antwerp |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Sat, 9 Jan 2027 | Liberty Hall | Sydney |
 
@@ -28,4 +29,4 @@ Mia Koden is a bass and techno artist based in United Kingdom, with 154 gigs on 
 
 Skee Mask, DjRUM, Mala
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miakoden/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miakoden/)*

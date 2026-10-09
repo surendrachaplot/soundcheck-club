@@ -1,6 +1,6 @@
 # Sissy Cinnamon
 
-Sissy Cinnamon is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Secret East London Location, London on Sat, 10 Oct 2026.
+Sissy Cinnamon is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Secret East London Location, London on Sat, 10 Oct 2026.
 
 Sissy Cinnamon is a techno and house artist based in United Kingdom, with 39 gigs on soundcheck across Brighton, London and Madrid. Often billed alongside Samantha Togni, Spinks and ASHTREY. Next up: TBA - Secret East London Location, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Sissy Cinnamon is a techno and house artist based in United Kingdom, with 39 gig
 
 Samantha Togni, Spinks, ASHTREY
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sissycinnamon/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sissycinnamon/)*

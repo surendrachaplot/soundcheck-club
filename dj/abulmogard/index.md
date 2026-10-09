@@ -1,6 +1,6 @@
 # Abul Mogard
 
-Abul Mogard is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Silent Green, Berlin on Fri, 23 Oct 2026.
+Abul Mogard is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Silent Green, Berlin on Fri, 23 Oct 2026.
 
 Abul Mogard is an experimental and ambient artist based in Italy, with 24 gigs on soundcheck across Barcelona, Berlin, Budapest and Istanbul and 6 more. Often billed alongside Rafael Anton Irisarri, Grand River and Lord Spikeheart. Next up: Silent Green, Berlin on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Abul Mogard is an experimental and ambient artist based in Italy, with 24 gigs o
 
 Rafael Anton Irisarri, Grand River, Lord Spikeheart
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abulmogard/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abulmogard/)*

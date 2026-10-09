@@ -1,6 +1,6 @@
 # The Resistance
 
-The Resistance is a Dubstep and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Q Nightclub, Seattle on Sat, 24 Oct 2026.
+The Resistance is a Dubstep and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Q Nightclub, Seattle on Sat, 24 Oct 2026.
 
 The Resistance is a dubstep and breakbeat artist based in Netherlands, with 4 gigs on soundcheck across Budapest, Detroit, Milan and Seattle. Often billed alongside BARK, Blood of Aza and Delta Heavy. Next up: Q Nightclub, Seattle on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ The Resistance is a dubstep and breakbeat artist based in Netherlands, with 4 gi
 
 BARK, Blood of Aza, Delta Heavy
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theresistance/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theresistance/)*

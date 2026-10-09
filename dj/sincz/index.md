@@ -1,6 +1,6 @@
 # Sincz
 
-Sincz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Slow Club- Other Side of Tama, Poznan on Sat, 10 Oct 2026.
+Sincz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Slow Club- Other Side of Tama, Poznan on Sat, 10 Oct 2026.
 
 Sincz is a techno and house artist based in Poland, with 48 gigs on soundcheck across Barcelona, Copenhagen, Krakow and Poznan and 2 more. Often billed alongside WEIKUM, Angelo Mike and Korenberg. Next up: Slow Club- Other Side of Tama, Poznan on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Sincz is a techno and house artist based in Poland, with 48 gigs on soundcheck a
 
 WEIKUM, Angelo Mike, Korenberg
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sincz/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sincz/)*

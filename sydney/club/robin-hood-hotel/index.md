@@ -1,6 +1,6 @@
 # Robin Hood Hotel
 
-Robin Hood Hotel is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "Basshaven x Robin Hood Hotel x Leuca" on Sat, 10 Oct 2026.
+Robin Hood Hotel is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. The next is "Basshaven x Robin Hood Hotel x Leuca" on Sat, 10 Oct 2026.
 
 Robin Hood Hotel is a music venue in Sydney listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Robin Hood Hotel is a music venue in Sydney listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Basshaven x Robin Hood Hotel x Leuca |  |
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/robin-hood-hotel/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/robin-hood-hotel/)*

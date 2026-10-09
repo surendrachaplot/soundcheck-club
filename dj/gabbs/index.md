@@ -1,8 +1,8 @@
 # Gabbs
 
-Gabbs is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Night Tales Loft, London on Sat, 10 Oct 2026.
+Gabbs is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Night Tales Loft, London on Sat, 10 Oct 2026.
 
-Gabbs is a house and techno artist based in Italy, with 187 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 40 more. Often billed alongside Alexia Glensy, Alex Dima and Cap. Next up: Night Tales Loft, London on Sat 10 Oct.
+Gabbs is a house and techno artist based in Italy, with 188 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 40 more. Often billed alongside Alexia Glensy, Alex Dima and Cap. Next up: Night Tales Loft, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Gabbs is a house and techno artist based in Italy, with 187 gigs on soundcheck a
 | Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Fri, 6 Nov 2026 | Lasociaciøn | Madrid |
 | Sat, 21 Nov 2026 | Concept Haus | Manchester |
+| Sat, 28 Nov 2026 | BRET | Amsterdam |
 | Sat, 28 Nov 2026 | BRET | Amsterdam |
 | Fri, 1 Jan 2027 | TBA | Barcelona |
 
@@ -32,4 +33,4 @@ Gabbs is a house and techno artist based in Italy, with 187 gigs on soundcheck a
 
 Alexia Glensy, Alex Dima, Cap
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*

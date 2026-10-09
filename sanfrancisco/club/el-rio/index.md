@@ -1,8 +1,8 @@
 # El Rio
 
-El Rio is a music venue in San Francisco/Oakland with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Bussdown Baddies" on Fri, 9 Oct 2026.
+El Rio is a music venue in San Francisco/Oakland with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Bussdown Baddies" on Fri, 9 Oct 2026.
 
-El Rio is a music venue in San Francisco/Oakland listed on soundcheck. 10 upcoming gigs, with line-ups including 999ADJ, Dj Nico, ECTO and FINISHHER and 2 more. See dates, start times and who's playing. 3158 Mission St, San Francisco, CA 94110, USA.
+El Rio is a music venue in San Francisco/Oakland listed on soundcheck. 11 upcoming gigs, with line-ups including 999ADJ, Dj Nico, ECTO and FINISHHER and 2 more. See dates, start times and who's playing. 3158 Mission St, San Francisco, CA 94110, USA.
 
 ## What's on
 
@@ -15,12 +15,12 @@ El Rio is a music venue in San Francisco/Oakland listed on soundcheck. 10 upcomi
 | Sun, 11 Oct 2026 | RnB & Ribs |  |
 | Wed, 14 Oct 2026 | Age of Sin | Jasmine Infiniti, Lonald J. Bandz |
 | Sat, 17 Oct 2026 | CLB INTRNCNL | Giselle Peppers, Profesito |
+| Sat, 17 Oct 2026 | CLB_INTRNCNL: Giselle Peppers (NJ/LA) - GLOBAL CLUB | Giselle Peppers, Profesito |
 | Sat, 31 Oct 2026 | FINAL GIRLS: T4T HALLOWEEN | FINISHHER, FREAK POV, Parking Structure, Pretty Privilege, Tom Marsi |
-| Sat, 31 Oct 2026 | Hoochie House | Dj Nico, ECTO (3) |
 | Sat, 31 Oct 2026 | Hoochie House | Dj Nico, ECTO (3) |
 
 ## Address
 
 3158 Mission St, San Francisco, CA 94110, USA, San Francisco/Oakland
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/el-rio/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/el-rio/)*

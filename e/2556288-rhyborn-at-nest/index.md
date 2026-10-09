@@ -1,6 +1,6 @@
 # RHYBORN at Nest
 
-RHYBORN at Nest on Sat 21 Nov, Basel. 3 artists: DJ Glentan, IULIATSKI and VXBZ. Trance. See the line-up on soundcheck.
+RHYBORN at Nest on Sat 21 Nov, Basel. 4 artists: DJ Glentan, IULIATSKI, VXBZ and winneju. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ RHYBORN at Nest on Sat 21 Nov, Basel. 3 artists: DJ Glentan, IULIATSKI and VXBZ.
 - DJ Glentan
 - IULIATSKI
 - VXBZ
+- winneju
 
 *Source: [soundcheck](https://soundcheck.club/e/2556288-rhyborn-at-nest/)*

@@ -1,6 +1,6 @@
 # KUN at Pistil
 
-KUN at Pistil on Sat 24 Oct, Seoul. 4 artists: Coolrnch, HAGY, KNARFTSITRA and MUI (KR). See the line-up on soundcheck.
+KUN at Pistil on Sat 24 Oct, Seoul. 4 artists: Coolrnch, HAGY, KNARFTSITRA and MUI (KR). House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

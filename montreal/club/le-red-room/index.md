@@ -1,6 +1,6 @@
 # Le Red Room
 
-Le Red Room is a music venue in Montreal with 14 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "MIND SPACE x TRANSITION" on Fri, 9 Oct 2026.
+Le Red Room is a music venue in Montreal with 14 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "MIND SPACE x TRANSITION" on Fri, 9 Oct 2026.
 
 Le Red Room is a music venue in Montreal listed on soundcheck. 14 upcoming gigs, with line-ups including Baby Bimbo, Berkaï, ccil and EMN and 2 more. See dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
 
@@ -23,4 +23,4 @@ Le Red Room is a music venue in Montreal listed on soundcheck. 14 upcoming gigs,
 
 2037 rue Saint-Denis, Montreal, Quebec H2X3K8, Montreal
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*

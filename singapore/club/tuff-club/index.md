@@ -1,8 +1,8 @@
 # Tuff Club
 
-Tuff Club is a music venue in Singapore with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "PROGRESSIONS" on Sat, 10 Oct 2026.
+Tuff Club is a music venue in Singapore with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "PROGRESSIONS" on Sat, 10 Oct 2026.
 
-Tuff Club is a music venue in Singapore listed on soundcheck. 3 upcoming gigs, with line-ups including Muttiah Ashnim, sho&tell and TiM TASTE. See dates, start times and who's playing. 138 Robinson Road #19-01, Singapore 068906.
+Tuff Club is a music venue in Singapore listed on soundcheck. 4 upcoming gigs, with line-ups including EVE, God Reset, Läbraatz and Muttiah Ashnim and 2 more. See dates, start times and who's playing. 138 Robinson Road #19-01, Singapore 068906.
 
 ## What's on
 
@@ -11,9 +11,10 @@ Tuff Club is a music venue in Singapore listed on soundcheck. 3 upcoming gigs, w
 | Sat, 10 Oct 2026 | PROGRESSIONS |  |
 | Sat, 17 Oct 2026 | Modulation x FRAU. Live Synth Performance |  |
 | Fri, 23 Oct 2026 | EVOLUTION CODE ft. TiM TASTE | Muttiah Ashnim, TiM TASTE, sho&tell |
+| Fri, 6 Nov 2026 | Degenerave presents: EVE (Hypnotic, Hard Techno & Industrial) | EVE (1), God Reset, Läbraatz |
 
 ## Address
 
 138 Robinson Road #19-01, Singapore 068906, Singapore
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/tuff-club/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/tuff-club/)*

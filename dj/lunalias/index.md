@@ -1,6 +1,6 @@
 # LUNA LIAS
 
-LUNA LIAS is a Classical and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Studio dB, Berlin on Fri, 30 Oct 2026.
+LUNA LIAS is a Classical and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Studio dB, Berlin on Fri, 30 Oct 2026.
 
 LUNA LIAS is a classical and experimental artist based in Italy, with 10 gigs on soundcheck across Berlin, Brussels, Paris and Rome. Often billed alongside AVtØmaty, Andrea Ludovic and Artur M Puga. Next up: Studio dB, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ LUNA LIAS is a classical and experimental artist based in Italy, with 10 gigs on
 
 AVtØmaty, Andrea Ludovic, Artur M Puga
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lunalias/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lunalias/)*

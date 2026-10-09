@@ -1,18 +1,20 @@
 # Melokolektiv
 
-Melokolektiv is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Itzel Club, London on Thu, 8 Oct 2026.
+Melokolektiv is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Eivissa Ship, Amsterdam on Thu, 22 Oct 2026.
 
-Melokolektiv is a deep house and house artist based in France, with 6 gigs on soundcheck across Amsterdam, London, Marseille and Paris and 1 more. Often billed alongside FNX Omar, Fiction Official and Kill Them With Colour. Next up: Itzel Club, London on Thu 8 Oct.
+Melokolektiv is a house and deep house artist based in France, with 8 gigs on soundcheck across Amsterdam, Geneva, London and Marseille and 2 more. Often billed alongside AMÉMÉ, Amour Propre and Birds of Mind. Next up: Eivissa Ship, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Itzel Club | London |
+| Thu, 22 Oct 2026 | Eivissa Ship | Amsterdam |
 | Sat, 24 Oct 2026 | The Cruise Club | Amsterdam |
+| Fri, 13 Nov 2026 | Audio Club | Geneva |
 
 ## Recently played
 
+- Itzel Club, London · Thu, 8 Oct 2026
 - Soluna, Toronto · Fri, 2 Oct 2026
 - L'ilienne (Croisière Marseille Calanques), Marseille · Sat, 15 Aug 2026
 - Rivers King, Paris · Fri, 10 Oct 2025
@@ -20,6 +22,6 @@ Melokolektiv is a deep house and house artist based in France, with 6 gigs on so
 
 ## Shares bills with
 
-FNX Omar, Fiction Official, Kill Them With Colour
+AMÉMÉ, Amour Propre, Birds of Mind
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melokolektiv/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melokolektiv/)*

@@ -1,6 +1,6 @@
 # Pamela Svart
 
-Pamela Svart is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Giri, Berlin on Fri, 9 Oct 2026.
+Pamela Svart is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Giri, Berlin on Fri, 9 Oct 2026.
 
 Pamela Svart is a techno and trance artist based in Chile, with 36 gigs on soundcheck across Berlin, Copenhagen and Nürnberg. Often billed alongside GLIA, Bconscious and Daniela Fuzz. Next up: Giri, Berlin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Pamela Svart is a techno and trance artist based in Chile, with 36 gigs on sound
 
 GLIA, Bconscious, Daniela Fuzz
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pamelasvart/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pamelasvart/)*

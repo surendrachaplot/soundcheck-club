@@ -1,14 +1,15 @@
 # DJ Split
 
-DJ Split is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at The Cause, London on Sun, 1 Nov 2026.
+DJ Split is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Cause, London on Sun, 1 Nov 2026.
 
-DJ Split is a house and techno artist based in Germany, with 22 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Ido Toledano, A For Alpha and AMANE. Next up: The Cause, London on Sun 1 Nov.
+DJ Split is a house and techno artist based in Germany, with 23 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Ido Toledano, Rosa Red and Takaaki Itoh. Next up: The Cause, London on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | The Cause | London |
+| Sat, 21 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ DJ Split is a house and techno artist based in Germany, with 22 gigs on soundche
 
 ## Shares bills with
 
-Ido Toledano, A For Alpha, AMANE
+Ido Toledano, Rosa Red, Takaaki Itoh
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsplit/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsplit/)*

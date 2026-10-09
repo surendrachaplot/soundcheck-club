@@ -1,8 +1,8 @@
 # Stephan Bodzin
 
-Stephan Bodzin is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Kompass Klub, Ghent on Sat, 17 Oct 2026.
+Stephan Bodzin is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Kompass Klub, Ghent on Sat, 17 Oct 2026.
 
-Stephan Bodzin is a techno and house artist based in Germany, with 111 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 39 more. Often billed alongside Luna Semara, Mind Against and Agents Of Time. Next up: Kompass Klub, Ghent on Sat 17 Oct.
+Stephan Bodzin is a techno and house artist based in Germany, with 112 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 39 more. Often billed alongside Luna Semara, Mind Against and Agents Of Time. Next up: Kompass Klub, Ghent on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Stephan Bodzin is a techno and house artist based in Germany, with 111 gigs on s
 | Sat, 17 Oct 2026 | Kompass Klub | Ghent |
 | Fri, 23 Oct 2026 | Obudai Island | Budapest |
 | Sat, 24 Oct 2026 | fabric | London |
+| Fri, 20 Nov 2026 | Audio Club | Geneva |
 | Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |
 
 ## Recently played
@@ -28,4 +29,4 @@ Stephan Bodzin is a techno and house artist based in Germany, with 111 gigs on s
 
 Luna Semara, Mind Against, Agents Of Time
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanbodzin/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanbodzin/)*

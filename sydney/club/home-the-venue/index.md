@@ -1,6 +1,6 @@
 # Home The Venue
 
-Home The Venue is a music venue in Sydney with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "JS-VAR-TEST" on Thu, 31 Dec 2026.
+Home The Venue is a music venue in Sydney with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "JS-VAR-TEST" on Thu, 31 Dec 2026.
 
 Home The Venue is a music venue in Sydney listed on soundcheck. 11 upcoming gigs. See dates, start times and who's playing. 101 Wheat Rd; Darling Harbour, NSW 2000; Australia.
 
@@ -23,4 +23,4 @@ Home The Venue is a music venue in Sydney listed on soundcheck. 11 upcoming gigs
 
 101 Wheat Rd; Darling Harbour, NSW 2000; Australia, Sydney
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/home-the-venue/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/home-the-venue/)*

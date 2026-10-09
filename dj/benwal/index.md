@@ -1,14 +1,13 @@
 # Benwal
 
-Benwal is a Techno and House artist with 20 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
+Benwal is a Techno and House artist with 19 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Depot, Cardiff on Sat, 10 Oct 2026.
 
-Benwal is a techno and house artist based in Netherlands, with 187 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 47 more. Often billed alongside Kyle Starkey, MALUGI and Pegassi. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
+Benwal is a techno and house artist based in Netherlands, with 187 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 47 more. Often billed alongside Kyle Starkey, MALUGI and Pegassi. Next up: Depot, Cardiff on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Depot | Cardiff |
 | Fri, 16 Oct 2026 | De Flesjesfabriek | Ghent |
 | Sat, 17 Oct 2026 | M.O.T | London |
@@ -20,9 +19,11 @@ Benwal is a techno and house artist based in Netherlands, with 187 gigs on sound
 | Fri, 6 Nov 2026 | Club Vinyl | Denver |
 | Sat, 7 Nov 2026 | 99 Scott Ave | New York City |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
+| Sat, 14 Nov 2026 | Radius | Chicago |
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza · Thu, 8 Oct 2026
 - Digital, Newcastle · Fri, 2 Oct 2026
 - The Warehouse, Leeds · Fri, 25 Sept 2026
 - SWG3, Glasgow · Sat, 19 Sept 2026
@@ -30,10 +31,9 @@ Benwal is a techno and house artist based in Netherlands, with 187 gigs on sound
 - Cabaret Voltaire, Edinburgh · Fri, 18 Sept 2026
 - Place Noord, Brussels · Sat, 5 Sept 2026
 - Amnesia Ibiza, Ibiza · Mon, 31 Aug 2026
-- Tuinen van West, Amsterdam · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Kyle Starkey, MALUGI, Pegassi
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*

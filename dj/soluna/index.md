@@ -1,6 +1,6 @@
 # Soluna
 
-Soluna is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at clubasia, Tokyo on Fri, 9 Oct 2026.
+Soluna is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at clubasia, Tokyo on Fri, 9 Oct 2026.
 
 Soluna is a techno and industrial artist based in United States of America, with 25 gigs on soundcheck across New York City, Paris and Tokyo. Often billed alongside DALJAE, Calavera and DICE. Next up: clubasia, Tokyo on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Soluna is a techno and industrial artist based in United States of America, with
 
 DALJAE, Calavera, DICE
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soluna/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soluna/)*

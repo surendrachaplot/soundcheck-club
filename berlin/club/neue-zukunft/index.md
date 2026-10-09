@@ -1,8 +1,8 @@
 # Neue Zukunft
 
-Neue Zukunft is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "A BRIDGE BETWEEN" on Sun, 11 Oct 2026.
+Neue Zukunft is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "A BRIDGE BETWEEN" on Sun, 11 Oct 2026.
 
-Neue Zukunft is a music venue in Berlin listed on soundcheck. 9 upcoming gigs. See dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
+Neue Zukunft is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Die Wilde Jagd. See dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
 
 ## What's on
 
@@ -17,9 +17,10 @@ Neue Zukunft is a music venue in Berlin listed on soundcheck. 9 upcoming gigs. S
 | Mon, 30 Nov 2026 | Lost In Kyiv (FR / Pelagic Rec.) |  |
 | Wed, 9 Dec 2026 | MILK ME presents: Lemongrab - Another Kind Of Freedom Release Show |  |
 | Thu, 10 Dec 2026 | The Wolfgang Press, A Southern Code |  |
+| Sat, 12 Dec 2026 | Die Wilde Jagd, Love-Songs | Die Wilde Jagd |
 
 ## Address
 
 Alt-Stralau 68, 10245 Berlin, Berlin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*

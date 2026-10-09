@@ -1,6 +1,6 @@
 # Ethan Flint
 
-Ethan Flint is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Secret London Location TBA, London on Fri, 9 Oct 2026.
+Ethan Flint is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Secret London Location TBA, London on Fri, 9 Oct 2026.
 
 Ethan Flint is a house and minimal artist based in United Kingdom, with 13 gigs on soundcheck across Ibiza, Leeds and London. Often billed alongside Sammy Porter, George Mensah and Charlotte Van de Peer. Next up: Secret London Location TBA, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Ethan Flint is a house and minimal artist based in United Kingdom, with 13 gigs 
 
 Sammy Porter, George Mensah, Charlotte Van de Peer
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ethanflint/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ethanflint/)*

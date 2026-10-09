@@ -1,6 +1,6 @@
 # Polygon Portal
 
-Polygon Portal is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Susumu Yokota - Sakura Album Playback in 360º spatial audio + Q&A" on Thu, 15 Oct 2026.
+Polygon Portal is a music venue in London with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Susumu Yokota - Sakura Album Playback in 360º spatial audio + Q&A" on Thu, 15 Oct 2026.
 
 Polygon Portal is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Susumu Yokota. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Polygon Portal is a music venue in London listed on soundcheck. 2 upcoming gigs,
 | Thu, 15 Oct 2026 | Susumu Yokota - Sakura Album Playback in 360º spatial audio + Q&A | Susumu Yokota |
 | Thu, 19 Nov 2026 | WONDER Across Continents |  |
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/polygon-portal/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/polygon-portal/)*

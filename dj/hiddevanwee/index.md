@@ -1,6 +1,6 @@
 # Hidde van Wee
 
-Hidde van Wee is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Loft, Manchester on Thu, 15 Oct 2026.
+Hidde van Wee is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Loft, Manchester on Thu, 15 Oct 2026.
 
 Hidde van Wee is a house and tech house artist based in Netherlands, with 77 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Cardiff and 14 more. Often billed alongside Sidney Charles, Boss Priester and Benny Rodrigues. Next up: The Loft, Manchester on Thu 15 Oct.
 
@@ -35,4 +35,4 @@ Hidde van Wee is a house and tech house artist based in Netherlands, with 77 gig
 
 Sidney Charles, Boss Priester, Benny Rodrigues
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddevanwee/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddevanwee/)*

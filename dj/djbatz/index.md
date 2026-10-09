@@ -1,6 +1,6 @@
 # DJ Batz
 
-DJ Batz is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Traverse City Whiskey Co. Outpost, Detroit on Fri, 9 Oct 2026.
+DJ Batz is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Traverse City Whiskey Co. Outpost, Detroit on Fri, 9 Oct 2026.
 
 DJ Batz is a house and jazz artist based in United States of America, with 17 gigs on soundcheck across Detroit. Often billed alongside Waylau, Pardo and Amateur Waifu. Next up: Traverse City Whiskey Co. Outpost, Detroit on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DJ Batz is a house and jazz artist based in United States of America, with 17 gi
 
 Waylau, Pardo, Amateur Waifu
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbatz/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbatz/)*

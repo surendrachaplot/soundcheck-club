@@ -1,6 +1,6 @@
 # Afas Live
 
-Afas Live is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Jean-Michel Jarre: OXYGENE & BEYOND: A Sonic Journey Celebrating 30 Years of ADE" on Wed, 21 Oct 2026.
+Afas Live is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Jean-Michel Jarre: OXYGENE & BEYOND: A Sonic Journey Celebrating 30 Years of ADE" on Wed, 21 Oct 2026.
 
 Afas Live is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Afrojack, Aiden (DE), AJNA and Alycia Bezgo and 2 more. See dates, start times and who's playing. Johan Cruijff Boulevard 590 1101 DS Amsterdam.
 
@@ -13,7 +13,7 @@ Afas Live is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, w
 | Fri, 23 Oct 2026 | UNREAL x ADE 2026: KUKO ALL NIGHT LONG | KUKO |
 | Sat, 24 Oct 2026 | ZAZU presents: SOLÈY by Francis Mercier | AJNA, Afrojack, Bun Xapa, DJ BREYTH, Da Capo, Enoo Napa, Francis Mercier, JUNO (DE), Nitefreak, Samm (BE), Van Zand |
 | Sat, 24 Oct 2026 | VERKNIPT ADE SPECIAL | KARAH |
-| Sat, 24 Oct 2026 | VERKNIPT ADE Special Sunday | Aiden (DE), Angerfist, Ben Techy, Divasi, KARAH, NEGITIV, SANTØS, Trym |
+| Sat, 24 Oct 2026 | VERKNIPT ADE Special Saturday | Aiden (DE), Angerfist, Ben Techy, Divasi, KARAH, NEGITIV, SANTØS, Trym |
 | Sun, 25 Oct 2026 | VERKNIPT ADE Special Sunday | Alycia Bezgo, BØĘRY, IOSIO, Jeno, KLOFAMA, Raxeller, SLVL, Samuel Moriero (2), Tess (MU), TiTi, Winson |
 | Sat, 5 Dec 2026 | Vieze Asbak b2b KRUELTY ADL | KRUELTY, Vieze Asbak |
 | Thu, 31 Dec 2026 | FYM x Teletech New Years | A.N.I., DYEN, KIRSTY, KLOFAMA, KRUELTY, Kander, LIVIA (3), NIKOLINA_, Onlynumbers, Restricted, SLVL, Samuel Moriero (2), Winson Ngoh, Yoshiko, myu:sa |
@@ -22,4 +22,4 @@ Afas Live is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, w
 
 Johan Cruijff Boulevard 590 1101 DS Amsterdam, Amsterdam
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/afas-live/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/afas-live/)*

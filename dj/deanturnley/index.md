@@ -1,8 +1,8 @@
 # Dean Turnley
 
-Dean Turnley is a House and Tech House artist with 15 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Big Pink, Detroit on Fri, 9 Oct 2026.
+Dean Turnley is a House and Tech House artist with 16 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Big Pink, Detroit on Fri, 9 Oct 2026.
 
-Dean Turnley is a house and tech house artist based in Australia, with 32 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Belfast and 26 more. Often billed alongside Hamdi, Jamback and MPH. Next up: Big Pink, Detroit on Fri 9 Oct.
+Dean Turnley is a house and tech house artist based in Australia, with 33 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Belfast and 26 more. Often billed alongside Hamdi, Jamback and MPH. Next up: Big Pink, Detroit on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ Dean Turnley is a house and tech house artist based in Australia, with 32 gigs o
 | Thu, 22 Oct 2026 | Spirit of the Suwannee Music Park | Jacksonville |
 | Fri, 23 Oct 2026 | Art Club | Houston |
 | Sat, 24 Oct 2026 | Descent | Boston |
+| Sun, 1 Nov 2026 | Brooklyn Storehouse | New-york-city |
 | Sun, 27 Dec 2026 | Matakana Country Park | Auckland |
 | Mon, 28 Dec 2026 | TBA - Hagley Park | Christchurch |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
-| Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Dean Turnley is a house and tech house artist based in Australia, with 32 gigs o
 
 Hamdi, Jamback, MPH (1)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*

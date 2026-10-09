@@ -1,8 +1,8 @@
 # Peach
 
-Peach is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Aviva Studios, Manchester on Fri, 9 Oct 2026.
+Peach is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Aviva Studios, Manchester on Fri, 9 Oct 2026.
 
-Peach is a house and techno artist based in Canada, with 224 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 55 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Aviva Studios, Manchester on Fri 9 Oct.
+Peach is a house and techno artist based in Canada, with 225 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 55 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Aviva Studios, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ Peach is a house and techno artist based in Canada, with 224 gigs on soundcheck 
 | Sat, 17 Oct 2026 | Nowadays | New York City |
 | Thu, 22 Oct 2026 | Pllek | Amsterdam |
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |
+| Sat, 24 Oct 2026 | FOLD | London |
 | Fri, 30 Oct 2026 | Strange Brew | Bristol |
 | Sat, 31 Oct 2026 | Macadam | Nantes |
 | Fri, 6 Nov 2026 | Cobalt Studios | Newcastle |
 | Fri, 6 Nov 2026 | Cobalt Studios | Newcastle |
-| Sun, 8 Nov 2026 | CLUB RAUM | Amsterdam |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Peach is a house and techno artist based in Canada, with 224 gigs on soundcheck 
 
 Shanti Celeste, Gabrielle Kwarteng, Saoirse
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*

@@ -1,6 +1,6 @@
 # Djoon
 
-Djoon is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "THE LATE NIGHT SERVICE: Richard Fribert, Toribio, Adri" on Fri, 9 Oct 2026.
+Djoon is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "THE LATE NIGHT SERVICE: Richard Fribert, Toribio, Adri" on Fri, 9 Oct 2026.
 
 Djoon is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line-ups including Adri, Chaos In The CBD, JOSH FB and Maison Blanche and 2 more. See dates, start times and who's playing. 22 boulevard Vincent Auriol; 75013; Paris; France.
 
@@ -18,4 +18,4 @@ Djoon is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line
 
 22 boulevard Vincent Auriol; 75013; Paris; France, Paris
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*

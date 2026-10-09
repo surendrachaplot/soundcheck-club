@@ -1,6 +1,6 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Wata Igarashi all night long / ISAbella / Subb-an / Meilgaarden" on Fri, 9 Oct 2026.
+BASEMENT is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Wata Igarashi all night long / ISAbella / Subb-an / Meilgaarden" on Fri, 9 Oct 2026.
 
 BASEMENT is a music venue in New York City listed on soundcheck. 14 upcoming gigs, with line-ups including 98dots, Justine Perry, LYDO and Ade Kassim and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
@@ -23,4 +23,4 @@ BASEMENT is a music venue in New York City listed on soundcheck. 14 upcoming gig
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

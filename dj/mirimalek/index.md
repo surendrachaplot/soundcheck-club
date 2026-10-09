@@ -1,6 +1,6 @@
 # Miri Malek
 
-Miri Malek is a Experimental and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Golden Pudel Club, Hamburg on Sun, 11 Oct 2026.
+Miri Malek is a Experimental and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Golden Pudel Club, Hamburg on Sun, 11 Oct 2026.
 
 Miri Malek is an experimental and bass artist based in Germany, with 43 gigs on soundcheck across Berlin, Hamburg and New York City. Often billed alongside Dakn, Hilary C/B and ophélie. Next up: Golden Pudel Club, Hamburg on Sun 11 Oct.
 
@@ -27,4 +27,4 @@ Miri Malek is an experimental and bass artist based in Germany, with 43 gigs on 
 
 Dakn, Hilary C/B, ophélie
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirimalek/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirimalek/)*

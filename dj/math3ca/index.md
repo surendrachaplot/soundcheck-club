@@ -1,6 +1,6 @@
 # Math3ca
 
-Math3ca is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at The Sinclair, Boston on Sat, 31 Oct 2026.
+Math3ca is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at The Sinclair, Boston on Sat, 31 Oct 2026.
 
 Math3ca is a house and techno artist based in United States of America, with 24 gigs on soundcheck across Boston and New York City. Often billed alongside Adam Unknown, Mx. Blaire and Alex Slater. Next up: The Sinclair, Boston on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Math3ca is a house and techno artist based in United States of America, with 24 
 
 Adam Unknown, Mx. Blaire, Alex Slater
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/math3ca/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/math3ca/)*

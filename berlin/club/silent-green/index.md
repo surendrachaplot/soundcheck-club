@@ -1,6 +1,6 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Ryoko Ono + Hanno Leichtmann + Sergeant" on Tue, 13 Oct 2026.
+Silent Green is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Ryoko Ono + Hanno Leichtmann + Sergeant" on Tue, 13 Oct 2026.
 
 Silent Green is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including Abdullah Miniawy, Abul Mogard, Ana Roxanne and Andriy K. and 2 more. See dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Silent Green is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, 
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

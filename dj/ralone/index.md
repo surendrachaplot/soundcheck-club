@@ -1,6 +1,6 @@
 # Ralone
 
-Ralone is a electronic artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Host, Thessaloniki on Fri, 9 Oct 2026.
+Ralone is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Host, Thessaloniki on Fri, 9 Oct 2026.
 
 Ralone is an electronic artist, with 3 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside Indelekt, Oppose and Delmon. Next up: The Host, Thessaloniki on Fri 9 Oct.
 
@@ -19,4 +19,4 @@ Ralone is an electronic artist, with 3 gigs on soundcheck across Athens and Thes
 
 Indelekt, Oppose, Delmon
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ralone/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ralone/)*

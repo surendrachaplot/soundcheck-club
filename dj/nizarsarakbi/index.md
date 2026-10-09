@@ -1,6 +1,6 @@
 # Nizar Sarakbi
 
-Nizar Sarakbi is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at SASS Music Club, Vienna on Sun, 11 Oct 2026.
+Nizar Sarakbi is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at SASS Music Club, Vienna on Sun, 11 Oct 2026.
 
 Nizar Sarakbi is a house and techno artist based in Ukraine, with 78 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Katia Curie, KATIA and vince. Next up: SASS Music Club, Vienna on Sun 11 Oct.
 
@@ -28,4 +28,4 @@ Nizar Sarakbi is a house and techno artist based in Ukraine, with 78 gigs on sou
 
 Katia Curie, KATIA, vince
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nizarsarakbi/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nizarsarakbi/)*

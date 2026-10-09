@@ -1,6 +1,6 @@
 # Adriana Lopez
 
-Adriana Lopez is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Concept Haus, Manchester on Sat, 10 Oct 2026.
+Adriana Lopez is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Concept Haus, Manchester on Sat, 10 Oct 2026.
 
 Adriana Lopez is a techno and house artist based in Colombia, with 149 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 46 more. Often billed alongside Oscar Mulero, Dasha Rush and UFO95. Next up: Concept Haus, Manchester on Sat 10 Oct.
 
@@ -10,7 +10,7 @@ Adriana Lopez is a techno and house artist based in Colombia, with 149 gigs on s
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Concept Haus | Manchester |
 | Sat, 17 Oct 2026 | L'Ostra Club | East |
-| Fri, 23 Oct 2026 | Levenslang Amsterdam | Amsterdam |
+| Fri, 23 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | TBA | Portland |
 | Sat, 31 Oct 2026 | TBA | Denver |
 | Fri, 13 Nov 2026 | Noce KRK | Krakow |
@@ -33,4 +33,4 @@ Adriana Lopez is a techno and house artist based in Colombia, with 149 gigs on s
 
 Oscar Mulero, Dasha Rush, UFO95
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianalopez/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianalopez/)*

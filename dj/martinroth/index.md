@@ -1,6 +1,6 @@
 # Martin Roth
 
-Martin Roth is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at UNO MALTA, Malta on Thu, 8 Oct 2026.
+Martin Roth is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at UNO MALTA, Malta on Thu, 8 Oct 2026.
 
 Martin Roth is a techno and house artist based in Germany, with 16 gigs on soundcheck across Amsterdam, Denver, Glasgow and Kuala Lumpur and 7 more. Often billed alongside Jody Wisternoff, Nicky Elisabeth and Braxton. Next up: UNO MALTA, Malta on Thu 8 Oct.
 
@@ -13,6 +13,7 @@ Martin Roth is a techno and house artist based in Germany, with 16 gigs on sound
 
 ## Recently played
 
+- UNO MALTA, Malta · Thu, 8 Oct 2026
 - Mockingbird, Denver · Fri, 20 Feb 2026
 - Wet Deck at W Hotel, Kuala Lumpur · Sat, 13 Dec 2025
 - The Cause, London · Sat, 6 Dec 2025
@@ -20,10 +21,9 @@ Martin Roth is a techno and house artist based in Germany, with 16 gigs on sound
 - Parník Tyrš, Prague · Fri, 23 Aug 2024
 - Radisson Red Sky Bar, Glasgow · Sun, 23 Jun 2024
 - Superior Ingredients, New York City · Sat, 6 Apr 2024
-- Fünk, Mexico City · Fri, 5 Apr 2024
 
 ## Shares bills with
 
 Jody Wisternoff, Nicky Elisabeth, Braxton
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinroth/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinroth/)*

@@ -1,17 +1,22 @@
 # Levi (AU)
 
-Levi (AU) is a Afro House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Rheinriff Düsseldorf, Düsseldorf on Sat, 10 Oct 2026.
+Levi (AU) is a Afro House and Deep House artist with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Le Jardin, Linz, Austria, Austria on Fri, 9 Oct 2026.
 
-Levi (AU) is an afro house and deep house artist based in Australia, with 94 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 35 more. Often billed alongside AJ Christou, Freddy Bello and SARA AFSHAR. Next up: TBA - Rheinriff Düsseldorf, Düsseldorf on Sat 10 Oct.
+Levi (AU) is an afro house and deep house artist based in Australia, with 99 gigs on soundcheck across Amsterdam, Athens, Austria and Bangkok and 40 more. Often billed alongside AJ Christou, Freddy Bello and SARA AFSHAR. Next up: TBA - Le Jardin, Linz, Austria, Austria on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | TBA - Le Jardin, Linz, Austria | Austria |
 | Sat, 10 Oct 2026 | TBA - Rheinriff Düsseldorf | Düsseldorf |
 | Fri, 23 Oct 2026 | Escape | Amsterdam |
+| Sat, 24 Oct 2026 | TBA - Willebroek, Belgium | Belgium |
+| Fri, 30 Oct 2026 | TBA - Unity Electro Fest  | Quebec-city |
 | Sat, 31 Oct 2026 | TAO Chicago | Chicago |
 | Sat, 7 Nov 2026 | Marquee | New York City |
+| Sat, 14 Nov 2026 | Marquee Dayclub | Las-vegas |
+| Sat, 21 Nov 2026 | TBA | Florida |
 
 ## Recently played
 
@@ -28,4 +33,4 @@ Levi (AU) is an afro house and deep house artist based in Australia, with 94 gig
 
 AJ Christou, Freddy Bello, SARA AFSHAR
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-au/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-au/)*

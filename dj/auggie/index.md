@@ -1,6 +1,6 @@
 # Auggië
 
-Auggië is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Mason Bar, Cyprus on Fri, 9 Oct 2026.
+Auggië is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Mason Bar, Cyprus on Fri, 9 Oct 2026.
 
 Auggië is a techno and house artist based in Italy, with 80 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 9 more. Often billed alongside Ivory, Âme and Cipy. Next up: Mason Bar, Cyprus on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Auggië is a techno and house artist based in Italy, with 80 gigs on soundcheck 
 
 Ivory, Âme, Cipy
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auggie/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auggie/)*

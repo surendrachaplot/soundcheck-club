@@ -1,6 +1,6 @@
 # Lasse
 
-Lasse is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Yellow House, Amsterdam on Fri, 9 Oct 2026.
+Lasse is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Yellow House, Amsterdam on Fri, 9 Oct 2026.
 
 Lasse is a techno and house artist based in Netherlands, with 95 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 7 more. Often billed alongside Lasse Top, Flits and Isaiah (NL). Next up: Yellow House, Amsterdam on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Lasse is a techno and house artist based in Netherlands, with 95 gigs on soundch
 
 Lasse Top, Flits, Isaiah (NL)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lasse/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lasse/)*

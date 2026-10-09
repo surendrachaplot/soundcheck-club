@@ -1,6 +1,6 @@
 # Woody
 
-Woody is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at BOXPARK Liverpool, Liverpool on Sat, 10 Oct 2026.
+Woody is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at BOXPARK Liverpool, Liverpool on Sat, 10 Oct 2026.
 
 Woody is a house and techno artist, with 15 gigs on soundcheck across Berlin, Budapest, Lisbon and Liverpool and 5 more. Often billed alongside Yamour, Konstantin and Leafar Legov. Next up: BOXPARK Liverpool, Liverpool on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Woody is a house and techno artist, with 15 gigs on soundcheck across Berlin, Bu
 
 Yamour, Konstantin, Leafar Legov
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/woody/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/woody/)*

@@ -1,14 +1,15 @@
 # RICHE
 
-RICHE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at KOKO, London on Sat, 17 Oct 2026.
+RICHE is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at KOKO, London on Sat, 17 Oct 2026.
 
-RICHE is a house and techno artist based in United States of America, with 26 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 8 more. Often billed alongside ELIF, Mona Pirzad and OMRI.. Next up: KOKO, London on Sat 17 Oct.
+RICHE is a house and techno artist based in United States of America, with 27 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 9 more. Often billed alongside ELIF, Jimi Jules and Mona Pirzad. Next up: KOKO, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | KOKO | London |
+| Sun, 3 Jan 2027 | Pier 80 Warehouse | San-francisco-oakland |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ RICHE is a house and techno artist based in United States of America, with 26 gi
 
 ## Shares bills with
 
-ELIF, Mona Pirzad, OMRI.
+ELIF, Jimi Jules, Mona Pirzad
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riche/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riche/)*

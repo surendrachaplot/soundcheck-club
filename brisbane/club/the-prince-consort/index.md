@@ -1,6 +1,6 @@
 # The Prince Consort
 
-The Prince Consort is a music venue in Brisbane with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Alan Fitzpatrick — BRISBANE" on Fri, 16 Oct 2026.
+The Prince Consort is a music venue in Brisbane with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Alan Fitzpatrick — BRISBANE" on Fri, 16 Oct 2026.
 
 The Prince Consort is a music venue in Brisbane listed on soundcheck. 3 upcoming gigs, with line-ups including Alan Fitzpatrick, Dam Swindle, LF SYSTEM and SF Fudge. See dates, start times and who's playing. 230 Wickham St, Fortitude Valley QLD 4006.
 
@@ -16,4 +16,4 @@ The Prince Consort is a music venue in Brisbane listed on soundcheck. 3 upcoming
 
 230 Wickham St, Fortitude Valley QLD 4006, Brisbane
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-prince-consort/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-prince-consort/)*

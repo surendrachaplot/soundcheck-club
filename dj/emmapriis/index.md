@@ -1,6 +1,6 @@
 # Emma Priis
 
-Emma Priis is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 17 Oct 2026.
+Emma Priis is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 17 Oct 2026.
 
 Emma Priis is a techno and house artist based in Denmark, with 11 gigs on soundcheck across Copenhagen. Often billed alongside Entree, FA999 and Alegrando. Next up: Den Anden Side, Copenhagen on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Emma Priis is a techno and house artist based in Denmark, with 11 gigs on soundc
 
 Entree, FA999, Alegrando
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmapriis/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmapriis/)*

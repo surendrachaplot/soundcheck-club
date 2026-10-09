@@ -1,14 +1,15 @@
 # Amalie
 
-Amalie is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Chinastraat, Ghent on Tue, 10 Nov 2026.
+Amalie is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Chinastraat, Ghent on Tue, 10 Nov 2026.
 
-Amalie is a techno and minimal techno artist based in Belgium, with 35 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside UGZR, Clara D and Hank (Be). Next up: Chinastraat, Ghent on Tue 10 Nov.
+Amalie is a techno and minimal techno artist based in Belgium, with 36 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside UGZR, Clara D and Hank (Be). Next up: Chinastraat, Ghent on Tue 10 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 10 Nov 2026 | Chinastraat | Ghent |
+| Sat, 14 Nov 2026 | Chinastraat | Ghent |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Amalie is a techno and minimal techno artist based in Belgium, with 35 gigs on s
 
 UGZR, Clara D, Hank (Be)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amalie/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amalie/)*

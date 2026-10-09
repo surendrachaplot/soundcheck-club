@@ -1,6 +1,6 @@
 # Marc Anthony Bowen
 
-Marc Anthony Bowen is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Les Enfants Brillants, Barcelona on Fri, 16 Oct 2026.
+Marc Anthony Bowen is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Les Enfants Brillants, Barcelona on Fri, 16 Oct 2026.
 
 Marc Anthony Bowen is a techno and house artist based in Italy, with 50 gigs on soundcheck across Barcelona, Berlin, Milan and New York City and 3 more. Often billed alongside IRIDE, Marcolino and GNMR. Next up: Les Enfants Brillants, Barcelona on Fri 16 Oct.
 
@@ -9,7 +9,7 @@ Marc Anthony Bowen is a techno and house artist based in Italy, with 50 gigs on 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Les Enfants Brillants | Barcelona |
-| Fri, 6 Nov 2026 | Fvtvr | Paris |
+| Fri, 6 Nov 2026 | FVTVR | Paris |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Marc Anthony Bowen is a techno and house artist based in Italy, with 50 gigs on 
 
 IRIDE, Marcolino, GNMR
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcanthonybowen/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcanthonybowen/)*

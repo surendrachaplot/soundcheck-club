@@ -1,6 +1,6 @@
 # Kapsule
 
-Kapsule is a music venue in Liverpool with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Jamie Fielding All Night Long - Modello" on Fri, 9 Oct 2026.
+Kapsule is a music venue in Liverpool with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Jamie Fielding All Night Long - Modello" on Fri, 9 Oct 2026.
 
 Kapsule is a music venue in Liverpool listed on soundcheck. 11 upcoming gigs, with line-ups including Autumns, Binh, Bobby. and Bradley Zero and 2 more. See dates, start times and who's playing. 3 Regent Road, Liverpool, L3 7DS.
 
@@ -23,4 +23,4 @@ Kapsule is a music venue in Liverpool listed on soundcheck. 11 upcoming gigs, wi
 
 3 Regent Road, Liverpool, L3 7DS, Liverpool
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kapsule/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kapsule/)*

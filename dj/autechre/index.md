@@ -1,15 +1,14 @@
 # Autechre
 
-Autechre is a IDM and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Cukrarna Gallery, Ljubljana on Wed, 7 Oct 2026.
+Autechre is a IDM and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Cukrarna Gallery, Ljubljana on Wed, 7 Oct 2026.
 
-Autechre is an idm and techno artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Mark Broom, HiTech and ojoo. Next up: Cukrarna Gallery, Ljubljana on Wed 7 Oct.
+Autechre is an idm and techno artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 48 more. Often billed alongside Mark Broom, HiTech and ojoo. Next up: Cukrarna Gallery, Ljubljana on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 7 Oct 2026 | Cukrarna Gallery | Ljubljana |
-| Thu, 8 Oct 2026 | House of Music Hungary | Budapest |
 | Mon, 12 Oct 2026 | PTR-Usine | Geneva |
 | Mon, 12 Oct 2026 | PTR-Usine | Geneva |
 | Tue, 13 Oct 2026 | Cabaret  Aléatoire | Marseille |
@@ -17,10 +16,12 @@ Autechre is an idm and techno artist based in United Kingdom, with 58 gigs on so
 | Thu, 15 Oct 2026 | Le Lieu Unique / Nantes | Nantes |
 | Fri, 16 Oct 2026 | L'Aéronef | Lille |
 | Tue, 20 Oct 2026 | Vicar Street | Dublin |
+| Thu, 22 Oct 2026 | Depot | Cardiff |
 | Sat, 24 Oct 2026 | Magazine London | London |
 
 ## Recently played
 
+- House of Music Hungary, Budapest · Thu, 8 Oct 2026
 - Club Guesthouse, Bucharest · Wed, 7 Oct 2026
 - Cukrarna Gallery, Ljubljana · Wed, 7 Oct 2026
 - Toplocentrala, Sofia · Tue, 6 Oct 2026
@@ -28,10 +29,9 @@ Autechre is an idm and techno artist based in United Kingdom, with 58 gigs on so
 - Universe Athens, Athens · Sat, 3 Oct 2026
 - Ložionica, Belgrade · Thu, 1 Oct 2026
 - Planet.tt Gasometer, Vienna · Tue, 29 Sept 2026
-- National Gallery Prague, Prague · Sun, 27 Sept 2026
 
 ## Shares bills with
 
 Mark Broom, HiTech, ojoo
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autechre/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autechre/)*

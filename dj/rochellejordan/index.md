@@ -1,6 +1,6 @@
 # Rochelle Jordan
 
-Rochelle Jordan is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Avenida Francisco Matarazzo, 694, Sao Paulo on Sat, 10 Oct 2026.
+Rochelle Jordan is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Avenida Francisco Matarazzo, 694, Sao Paulo on Sat, 10 Oct 2026.
 
 Rochelle Jordan is a house and r&b artist based in Canada, with 30 gigs on soundcheck across Austin, Chicago, Dublin and Helsinki and 13 more. Often billed alongside Disclosure, DARIUS and Dam Swindle. Next up: TBA - Avenida Francisco Matarazzo, 694, Sao Paulo on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Rochelle Jordan is a house and r&b artist based in Canada, with 30 gigs on sound
 
 Disclosure, DARIUS, Dam Swindle
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rochellejordan/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rochellejordan/)*

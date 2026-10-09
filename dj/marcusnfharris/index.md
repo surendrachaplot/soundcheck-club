@@ -1,6 +1,6 @@
 # Marcus NF Harris
 
-Marcus NF Harris is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Spkrbox, Detroit on Sat, 10 Oct 2026.
+Marcus NF Harris is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Spkrbox, Detroit on Sat, 10 Oct 2026.
 
 Marcus NF Harris is a house and deep house artist based in United States of America, with 14 gigs on soundcheck across Detroit. Often billed alongside Ryan Sadorus, Dj Ryte Nou and Gregboi. Next up: Spkrbox, Detroit on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Marcus NF Harris is a house and deep house artist based in United States of Amer
 
 Ryan Sadorus, Dj Ryte Nou, Gregboi
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusnfharris/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusnfharris/)*

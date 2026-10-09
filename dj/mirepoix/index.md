@@ -1,6 +1,6 @@
 # mirepoix
 
-mirepoix is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Marble Bar, Detroit on Sat, 10 Oct 2026.
+mirepoix is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Marble Bar, Detroit on Sat, 10 Oct 2026.
 
 mirepoix is a house and techno artist based in United States of America, with 15 gigs on soundcheck across Detroit. Often billed alongside AIDEL, Amino and Carl Bottles. Next up: Marble Bar, Detroit on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ mirepoix is a house and techno artist based in United States of America, with 15
 
 AIDEL, Amino, Carl Bottles
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirepoix/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirepoix/)*

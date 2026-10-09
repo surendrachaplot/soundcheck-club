@@ -1,6 +1,6 @@
 # D.Dan
 
-D.Dan is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+D.Dan is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
 D.Dan is a techno and house artist based in United States of America, with 206 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 61 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
@@ -34,4 +34,4 @@ D.Dan is a techno and house artist based in United States of America, with 206 g
 
 DJ TOOL, Hyperaktivist, Yazzus
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*

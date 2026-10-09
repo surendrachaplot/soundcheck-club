@@ -1,13 +1,14 @@
 # Marc Romboy
 
-Marc Romboy is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA, Victoria on Fri, 30 Oct 2026.
+Marc Romboy is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Lucky Cat, Sydney on Sat, 24 Oct 2026.
 
-Marc Romboy is a techno and tech house artist based in Germany, with 26 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Robert Babicz, Frank Sonic and AMSL. Next up: TBA, Victoria on Fri 30 Oct.
+Marc Romboy is a techno and tech house artist based in Germany, with 27 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 10 more. Often billed alongside Robert Babicz, Frank Sonic and AMSL. Next up: The Lucky Cat, Sydney on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | The Lucky Cat | Sydney |
 | Fri, 30 Oct 2026 | TBA | Victoria |
 
 ## Recently played
@@ -25,4 +26,4 @@ Marc Romboy is a techno and tech house artist based in Germany, with 26 gigs on 
 
 Robert Babicz, Frank Sonic, AMSL
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcromboy/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcromboy/)*

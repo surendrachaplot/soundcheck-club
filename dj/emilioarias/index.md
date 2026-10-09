@@ -1,6 +1,6 @@
 # Emilio Arias
 
-Emilio Arias is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Lido Liquor Bar, Milan on Sat, 10 Oct 2026.
+Emilio Arias is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Lido Liquor Bar, Milan on Sat, 10 Oct 2026.
 
 Emilio Arias is an electro and experimental artist based in Ecuador, with 22 gigs on soundcheck across Amsterdam, Basel, Miami and Milan and 1 more. Often billed alongside Marijn S, Dj Serko and Masha Wordpress. Next up: Lido Liquor Bar, Milan on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Emilio Arias is an electro and experimental artist based in Ecuador, with 22 gig
 
 Marijn S, Dj Serko, Masha Wordpress
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emilioarias/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emilioarias/)*

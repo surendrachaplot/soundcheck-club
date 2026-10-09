@@ -1,6 +1,6 @@
 # Sandpit Alias (2)
 
-Sandpit Alias (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Capers Thornbury, Melbourne on Sun, 11 Oct 2026.
+Sandpit Alias (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Capers Thornbury, Melbourne on Sun, 11 Oct 2026.
 
 Sandpit Alias is a house and tech house artist based in Australia, with 23 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Chaz (AU), Miscmeg and Nat Salih. Next up: Capers Thornbury, Melbourne on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Sandpit Alias is a house and tech house artist based in Australia, with 23 gigs 
 
 Chaz (AU), Miscmeg, Nat Salih
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandpitalias-2/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandpitalias-2/)*

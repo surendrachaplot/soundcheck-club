@@ -1,6 +1,6 @@
 # Lea Lindner
 
-Lea Lindner is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Silodom, Saarland on Sat, 17 Oct 2026.
+Lea Lindner is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Silodom, Saarland on Sat, 17 Oct 2026.
 
 Lea Lindner is a techno and house artist based in Germany, with 22 gigs on soundcheck across Amsterdam, Berlin, Cologne and Paris and 5 more. Often billed alongside Björn del Togno, Alex.Do and Jayzo. Next up: Silodom, Saarland on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Lea Lindner is a techno and house artist based in Germany, with 22 gigs on sound
 
 Björn del Togno, Alex.Do, Jayzo
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lealindner/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lealindner/)*

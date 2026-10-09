@@ -1,6 +1,6 @@
 # ARMANA KHAN
 
-ARMANA KHAN is a Club and Baile Funk artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Urban Mo's, San-diego on Fri, 9 Oct 2026.
+ARMANA KHAN is a Club and Baile Funk artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Urban Mo's, San-diego on Fri, 9 Oct 2026.
 
 ARMANA KHAN is a club and baile funk artist based in United States of America, with 77 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 26 more. Often billed alongside ARCHANGEL (US), Meg10 and Manuka Honey. Next up: Urban Mo's, San Diego on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ ARMANA KHAN is a club and baile funk artist based in United States of America, w
 
 ARCHANGEL (US), Meg10, Manuka Honey
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armanakhan/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armanakhan/)*

@@ -1,6 +1,6 @@
 # Bread & Butter Arch
 
-Bread & Butter Arch is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "ARCTIQUE / DRUM AND BASS PARTY" on Fri, 23 Oct 2026.
+Bread & Butter Arch is a music venue in London with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "ARCTIQUE / DRUM AND BASS PARTY" on Fri, 23 Oct 2026.
 
 Bread & Butter Arch is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Acolyte, Faded Society and OB. See dates, start times and who's playing. 3 Bohemia Place, Hackney Central, E8 1DU.
 
@@ -16,4 +16,4 @@ Bread & Butter Arch is a music venue in London listed on soundcheck. 3 upcoming 
 
 3 Bohemia Place, Hackney Central, E8 1DU, London
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-butter-arch/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-butter-arch/)*

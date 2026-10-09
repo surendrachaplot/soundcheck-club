@@ -1,6 +1,6 @@
 # Partyservice presents BASSSSERVICE at TBA - Location via Telegram Group
 
-Partyservice presents BASSSSERVICE at TBA - Location via Telegram Group on Sat 17 Oct, Berlin. 3 artists: arthaus, Bibi D'ragostino and Punani. Breakbeat and Bass. See the line-up on soundcheck.
+Partyservice presents BASSSSERVICE at TBA - Location via Telegram Group on Sat 17 Oct, Berlin. 4 artists: Arif, arthaus, Bibi D'ragostino and Punani. Breakbeat and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Partyservice presents BASSSSERVICE at TBA - Location via Telegram Group on Sat 1
 
 ## Line-up
 
+- Arif
 - arthaus
 - Bibi D'ragostino
 - Punani

@@ -1,8 +1,8 @@
 # alemiko
 
-alemiko is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 10 Oct 2026.
+alemiko is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 10 Oct 2026.
 
-alemiko is a techno and trance artist, with 127 gigs on soundcheck across Berlin, Leipzig and Malta. Often billed alongside Balkhausen, Limoncello and KLING&KLANG. Next up: Lokschuppen Berlin, Berlin on Sat 10 Oct.
+alemiko is a techno and trance artist, with 127 gigs on soundcheck across Berlin, Leipzig and Malta. Often billed alongside Balkhausen, Limoncello and DJ Henk. Next up: Lokschuppen Berlin, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ alemiko is a techno and trance artist, with 127 gigs on soundcheck across Berlin
 
 ## Shares bills with
 
-Balkhausen, Limoncello, KLING&KLANG
+Balkhausen, Limoncello, DJ Henk
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alemiko/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alemiko/)*

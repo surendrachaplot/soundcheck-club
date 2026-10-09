@@ -1,6 +1,6 @@
 # KRMN
 
-KRMN is a Breakbeat and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Brancaleone, Rome on Sat, 10 Oct 2026.
+KRMN is a Breakbeat and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Brancaleone, Rome on Sat, 10 Oct 2026.
 
 KRMN is a breakbeat and techno artist, with 13 gigs on soundcheck across Naples and Rome. Often billed alongside Mark Morris, Metilammina and Sunday Bath. Next up: Brancaleone, Rome on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ KRMN is a breakbeat and techno artist, with 13 gigs on soundcheck across Naples 
 
 Mark Morris, Metilammina, Sunday Bath
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krmn/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krmn/)*

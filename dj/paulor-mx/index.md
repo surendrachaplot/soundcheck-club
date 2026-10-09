@@ -1,6 +1,6 @@
 # Paulor
 
-Paulor is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Bar Oriente, Mexico City on Sat, 10 Oct 2026.
+Paulor is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Bar Oriente, Mexico City on Sat, 10 Oct 2026.
 
 Paulor is a house and techno artist based in Mexico, with 23 gigs on soundcheck across Los Angeles, Mexico City, Miami and New York City. Often billed alongside Kalexis, Rebolledo and JaasRoo. Next up: Bar Oriente, Mexico City on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Paulor is a house and techno artist based in Mexico, with 23 gigs on soundcheck 
 
 Kalexis, Rebolledo, JaasRoo
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulor-mx/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulor-mx/)*

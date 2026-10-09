@@ -1,8 +1,8 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Seazed x Synpathy | Bounce, Hardtechno & Trance Night (2 Floors)" on Fri, 9 Oct 2026.
+Void Club is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Seazed x Synpathy | Bounce, Hardtechno & Trance Night (2 Floors)" on Fri, 9 Oct 2026.
 
-Void Club is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including Allexandra, bbymeister, Blosvenn and Brizze and 2 more. See dates, start times and who's playing. Wiesenweg 5-9, 10365.
+Void Club is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including Allexandra, bbymeister, Blosvenn and Brizze and 2 more. See dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
 ## What's on
 
@@ -13,7 +13,7 @@ Void Club is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, wit
 | Sat, 10 Oct 2026 | FLINTA* Ableton Move Workshop with Dshanna & Afterparty (10€ Workshop Ticket) | Dshanna |
 | Sat, 10 Oct 2026 | FLINTA* Live Performance Workshop with Frisqo & Afterparty (10€ Workshop Ticket) | Frisqo |
 | Fri, 16 Oct 2026 | Enter the Void #82 with Gourski, Exploid, Upzet, Ed Shepherd, Enjean, Crashkitt, Noctunal | Crashkitt, Ed Shepherd, Exploid, Gourski, Kainam, Trippyverse, Upzet |
-| Sat, 17 Oct 2026 | Expedicion 30 with Roots., Mavidius, Xitual, Baraquz | Mavidius |
+| Sat, 17 Oct 2026 | Expedicion 30 with Roots., Krakau, Mavidius, Xitual, Baraquz, Dark Anomaly | Dark Anomaly (2), Roots. |
 | Fri, 23 Oct 2026 | TRI:CEPTION (Techno, Psytrance, Techhouse) - 4 Floors | Cherry Core, Honschu Lee, Marika Rossa, Mathias Birnbaum, Mike Väth, Original Peter, Rene Bourgeois, Rene Oldenburg, Sven Tasnadi, Tanz Unter Freunden |
 | Sat, 24 Oct 2026 | Let out your Geek! Anime & Cosplay Community Party |  |
 | Fri, 30 Oct 2026 | Kinder der Nacht & DEXIT Mannheim - Halloween Rave | GHOST DE, Jose Bonetto, Lila Kova, Rob Robsen, Seimen Dexter |
@@ -23,4 +23,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, wit
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

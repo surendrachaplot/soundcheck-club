@@ -1,6 +1,6 @@
 # Kengo
 
-Kengo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Aoyama Tunnel, Tokyo on Fri, 9 Oct 2026.
+Kengo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Aoyama Tunnel, Tokyo on Fri, 9 Oct 2026.
 
 Kengo is a house and techno artist based in Japan, with 151 gigs on soundcheck across Kyoto, London and Tokyo. Often billed alongside HEAVEN, Satoshi Matsui and Kaory. Next up: Aoyama Tunnel, Tokyo on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Kengo is a house and techno artist based in Japan, with 151 gigs on soundcheck a
 
 HEAVEN, Satoshi Matsui, Kaory
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kengo/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kengo/)*

@@ -1,8 +1,8 @@
 # ciao ciao Bar
 
-ciao ciao Bar is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Others To The Front" on Fri, 9 Oct 2026.
+ciao ciao Bar is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Others To The Front" on Fri, 9 Oct 2026.
 
-ciao ciao Bar is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Evalyn, Ahni, boyyyish and Die Grillen and 2 more. See dates, start times and who's playing. Falckensteinstr. 47 / 48, 10997 Berlin.
+ciao ciao Bar is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Evalyn, Ahni, boyyyish and Die Grillen and 2 more. See dates, start times and who's playing. Falckensteinstr. 47 / 48, 10997 Berlin.
 
 ## What's on
 
@@ -10,11 +10,13 @@ ciao ciao Bar is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, 
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Others To The Front | boyyyish, materia hache |
 | Sun, 11 Oct 2026 | SWOON | Ahni, Evalyn, Pppainterrr, Reinartz, Sióg |
+| Sat, 17 Oct 2026 | FRACTAL — First Gathering | Esterne Moog, FoxMind, IDA |
 | Thu, 5 Nov 2026 | OSZI - First signal | Die Grillen, Gabrielle (DE), Planetary Echoes, Varia Aves |
 | Tue, 10 Nov 2026 | missed call · off hours | Nikklaas, the pesto |
+| Fri, 13 Nov 2026 | Ciao Ciao invites Ric Piccolo & Cosmo Dance | Ric Piccolo |
 
 ## Address
 
 Falckensteinstr. 47 / 48, 10997 Berlin, Berlin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ciao-ciao-bar/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ciao-ciao-bar/)*

@@ -1,13 +1,14 @@
 # HAIG
 
-HAIG is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Jungla London, London on Sat, 7 Nov 2026.
+HAIG is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Jungla London, London on Sat, 7 Nov 2026.
 
-HAIG is a tech house and house artist, with 29 gigs on soundcheck across London. Often billed alongside Geo DJ, ACAPULCO and DRIA. Next up: Jungla London, London on Sat 7 Nov.
+HAIG is a tech house and house artist, with 30 gigs on soundcheck across London. Often billed alongside Geo DJ, ACAPULCO and DRIA. Next up: Jungla London, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Jungla London | London |
 | Sat, 7 Nov 2026 | Jungla London | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ HAIG is a tech house and house artist, with 29 gigs on soundcheck across London.
 
 Geo DJ, ACAPULCO, DRIA
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haig/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haig/)*

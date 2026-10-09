@@ -1,8 +1,8 @@
 # Tre Reynolds
 
-Tre Reynolds is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Warehouse, Leeds on Sat, 10 Oct 2026.
+Tre Reynolds is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Warehouse, Leeds on Sat, 10 Oct 2026.
 
-Tre Reynolds is a tech house and house artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 12 more. Often billed alongside AMMARA, Andhim and Armand Van Helden. Next up: The Warehouse, Leeds on Sat 10 Oct.
+Tre Reynolds is a tech house and house artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 13 more. Often billed alongside AMMARA, Andhim and Armand Van Helden. Next up: The Warehouse, Leeds on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tre Reynolds is a tech house and house artist based in United Kingdom, with 52 g
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | The Warehouse | Leeds |
 | Sat, 31 Oct 2026 | Oran Mor | Glasgow |
+| Sat, 21 Nov 2026 | Spybar | Chicago |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Tre Reynolds is a tech house and house artist based in United Kingdom, with 52 g
 
 AMMARA, Andhim, Armand Van Helden
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trereynolds/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trereynolds/)*

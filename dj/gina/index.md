@@ -1,8 +1,8 @@
 # G I N A
 
-G I N A is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Bastet, Philadelphia on Fri, 9 Oct 2026.
+G I N A is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Bastet, Philadelphia on Fri, 9 Oct 2026.
 
-G I N A is a techno and house artist based in United States of America, with 232 gigs on soundcheck across Barcelona, Liverpool, Los Angeles and Manchester and 4 more. Often billed alongside Shearn, Dave Tidey and Andi. Next up: Bastet, Philadelphia on Fri 9 Oct.
+G I N A is a techno and house artist based in United States of America, with 233 gigs on soundcheck across Barcelona, Liverpool, Los Angeles and Manchester and 4 more. Often billed alongside Shearn, Dave Tidey and Andi. Next up: Bastet, Philadelphia on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ G I N A is a techno and house artist based in United States of America, with 232
 | Fri, 9 Oct 2026 | Bastet | Philadelphia |
 | Sun, 11 Oct 2026 | The Dolphin | Philadelphia |
 | Fri, 23 Oct 2026 | Gabriela | New York City |
+| Sat, 24 Oct 2026 | House of Yes | New York City |
 | Fri, 30 Oct 2026 | The Dolphin | Philadelphia |
 | Sat, 31 Oct 2026 | Industry City | New York City |
 | Fri, 13 Nov 2026 | The Bakery | Liverpool |
@@ -30,4 +31,4 @@ G I N A is a techno and house artist based in United States of America, with 232
 
 Shearn, Dave Tidey, Andi
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gina/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gina/)*

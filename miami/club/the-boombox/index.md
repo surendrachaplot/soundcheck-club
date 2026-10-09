@@ -1,6 +1,6 @@
 # The Boombox
 
-The Boombox is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Fright Night" on Fri, 9 Oct 2026.
+The Boombox is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Fright Night" on Fri, 9 Oct 2026.
 
 The Boombox is a music venue in Miami listed on soundcheck. 2 upcoming gigs, with line-ups including Demifiend and kittenhouse. See dates, start times and who's playing. 4447 SW 75 Ave Miami, FL 33155.
 
@@ -15,4 +15,4 @@ The Boombox is a music venue in Miami listed on soundcheck. 2 upcoming gigs, wit
 
 4447 SW 75 Ave Miami, FL 33155, Miami
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-boombox/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-boombox/)*

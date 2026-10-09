@@ -1,6 +1,6 @@
 # Sunset Sound System Halloween Costume Boat + After-Party 2026 at San Francisco Belle Hornblower
 
-Sunset Sound System Halloween Costume Boat + After-Party 2026 at San Francisco Belle Hornblower on Sun 25 Oct, San Francisco/Oakland. 2 artists: Galen and Solar. See the line-up on soundcheck.
+Sunset Sound System Halloween Costume Boat + After-Party 2026 at San Francisco Belle Hornblower on Sun 25 Oct, San Francisco/Oakland. 13 artists: Eichef, Erik Vehmeyer, Galen and Intergalactic Gary and 9 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,18 @@ Sunset Sound System Halloween Costume Boat + After-Party 2026 at San Francisco B
 
 ## Line-up
 
+- Eichef
+- Erik Vehmeyer
 - Galen
+- Intergalactic Gary
+- Jimmy B
+- Lakuti
+- Oso Feo
+- PATRICIO
+- Smokes
 - Solar
+- Tama Sumo
+- Zoz
+- ZZ (4)
 
 *Source: [soundcheck](https://soundcheck.club/e/2523188-sunset-sound-system-halloween-costume-boat-after-party-2026/)*

@@ -1,6 +1,6 @@
 # Brian Smith
 
-Brian Smith is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Secret London Location TBA, London on Fri, 9 Oct 2026.
+Brian Smith is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Secret London Location TBA, London on Fri, 9 Oct 2026.
 
 Brian Smith is a tech house and house artist based in United Kingdom, with 81 gigs on soundcheck across Ibiza, London and Malta. Often billed alongside Jerome Six, JAYDAA and Steven Cee. Next up: Secret London Location TBA, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Brian Smith is a tech house and house artist based in United Kingdom, with 81 gi
 
 Jerome Six, JAYDAA, Steven Cee
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/briansmith/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/briansmith/)*

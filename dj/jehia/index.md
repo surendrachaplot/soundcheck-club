@@ -1,6 +1,6 @@
 # Jehia
 
-Jehia is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Pluto, Valencia on Sat, 10 Oct 2026.
+Jehia is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Pluto, Valencia on Sat, 10 Oct 2026.
 
 Jehia is a bass and experimental artist based in Egypt, with 43 gigs on soundcheck across Barcelona, Berlin, Madrid and Valencia. Often billed alongside B4mba, Assyouti and Lanav. Next up: Pluto, Valencia on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Jehia is a bass and experimental artist based in Egypt, with 43 gigs on soundche
 
 B4mba, Assyouti, Lanav
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jehia/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jehia/)*

@@ -1,6 +1,6 @@
 # Cem G
 
-Cem G is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Frankhan Selectist, Istanbul on Fri, 9 Oct 2026.
+Cem G is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Frankhan Selectist, Istanbul on Fri, 9 Oct 2026.
 
 Cem G is a house and techno artist based in United States of America, with 26 gigs on soundcheck across Berlin, Istanbul, Lisbon and New York City and 1 more. Often billed alongside Cesar Merveille, Andrea Ferlin and Rg. Next up: Frankhan Selectist, Istanbul on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Cem G is a house and techno artist based in United States of America, with 26 gi
 
 Cesar Merveille, Andrea Ferlin, Rg
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cemg/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cemg/)*

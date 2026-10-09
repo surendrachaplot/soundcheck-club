@@ -1,6 +1,6 @@
 # NFRMT
 
-NFRMT is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Chinese Laundry, Sydney on Fri, 9 Oct 2026.
+NFRMT is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Chinese Laundry, Sydney on Fri, 9 Oct 2026.
 
 NFRMT is a house and techno artist, with 9 gigs on soundcheck across Sydney. Often billed alongside IXNAEY, nulty and Alex Ward. Next up: Chinese Laundry, Sydney on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ NFRMT is a house and techno artist, with 9 gigs on soundcheck across Sydney. Oft
 
 IXNAEY, nulty, Alex Ward
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nfrmt/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nfrmt/)*

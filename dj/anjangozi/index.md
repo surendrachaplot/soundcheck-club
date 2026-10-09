@@ -1,6 +1,6 @@
 # Anja Ngozi
 
-Anja Ngozi is a Dub and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at 88block, Tokyo on Fri, 9 Oct 2026.
+Anja Ngozi is a Dub and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at 88block, Tokyo on Fri, 9 Oct 2026.
 
 Anja Ngozi is a dub and garage artist, with 20 gigs on soundcheck across London and Tokyo. Often billed alongside Nina Yamada, Guohan and Heléna Star. Next up: 88block, Tokyo on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Anja Ngozi is a dub and garage artist, with 20 gigs on soundcheck across London 
 
 Nina Yamada, Guohan, Heléna Star
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anjangozi/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anjangozi/)*

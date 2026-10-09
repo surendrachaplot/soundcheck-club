@@ -1,6 +1,6 @@
 # Henkel-Saal
 
-Henkel-Saal is a music venue in Düsseldorf with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "orbit" on Fri, 9 Oct 2026.
+Henkel-Saal is a music venue in Düsseldorf with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. The next is "orbit" on Fri, 9 Oct 2026.
 
 Henkel-Saal is a music venue in Düsseldorf listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Ratinger Mauer, 40213 Düsseldorf.
 
@@ -14,4 +14,4 @@ Henkel-Saal is a music venue in Düsseldorf listed on soundcheck. 1 upcoming gig
 
 Ratinger Mauer, 40213 Düsseldorf, Düsseldorf
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/henkel-saal/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/henkel-saal/)*

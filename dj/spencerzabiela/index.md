@@ -1,6 +1,6 @@
 # Spencer Zabiela
 
-Spencer Zabiela is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at MAD Radio NYC, New York City on Sun, 11 Oct 2026.
+Spencer Zabiela is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at MAD Radio NYC, New York City on Sun, 11 Oct 2026.
 
 Spencer Zabiela is a house and techno artist based in United States of America, with 12 gigs on soundcheck across Denver, Miami, New York City and Prague. Often billed alongside Ardio Zemog, Ant LaRock and 8KAYS. Next up: MAD Radio NYC, New York City on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Spencer Zabiela is a house and techno artist based in United States of America, 
 
 Ardio Zemog, Ant LaRock, 8KAYS
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerzabiela/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerzabiela/)*

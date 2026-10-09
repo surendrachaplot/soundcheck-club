@@ -1,6 +1,6 @@
 # Harry Court
 
-Harry Court is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Music Room, Melbourne on Fri, 9 Oct 2026.
+Harry Court is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Music Room, Melbourne on Fri, 9 Oct 2026.
 
 Harry Court is a house and techno artist based in Australia, with 19 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Alex Diwa, Unprotected Success and Milkpaste. Next up: Music Room, Melbourne on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Harry Court is a house and techno artist based in Australia, with 19 gigs on sou
 
 Alex Diwa, Unprotected Success, Milkpaste
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harrycourt/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harrycourt/)*

@@ -1,6 +1,6 @@
 # Fergus Sweetland
 
-Fergus Sweetland is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA, Stockholm on Sat, 10 Oct 2026.
+Fergus Sweetland is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA, Stockholm on Sat, 10 Oct 2026.
 
 Fergus Sweetland is a techno and electro artist, with 34 gigs on soundcheck across Athens, Belgrade, Berlin and Brisbane and 9 more. Often billed alongside .Paragon, Bailey Ibbs and Chiara Kickdrum. Next up: TBA, Stockholm on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Fergus Sweetland is a techno and electro artist, with 34 gigs on soundcheck acro
 
 .Paragon, Bailey Ibbs, Chiara Kickdrum
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fergussweetland/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fergussweetland/)*

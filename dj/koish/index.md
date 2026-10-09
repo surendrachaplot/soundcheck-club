@@ -1,6 +1,6 @@
 # Koish
 
-Koish is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at 12 x 12, Bangkok on Fri, 9 Oct 2026.
+Koish is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at 12 x 12, Bangkok on Fri, 9 Oct 2026.
 
 Koish is a house and minimal artist based in Thailand, with 24 gigs on soundcheck across Bangkok and Seoul. Often billed alongside Elaheh, Shinfish and DOTT. Next up: 12 x 12, Bangkok on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Koish is a house and minimal artist based in Thailand, with 24 gigs on soundchec
 
 Elaheh, Shinfish, DOTT
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koish/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koish/)*

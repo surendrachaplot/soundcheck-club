@@ -1,6 +1,6 @@
 # PLASTICA (2)
 
-PLASTICA (2) is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Chiosco Ravizza, Milan on Tue, 13 Oct 2026.
+PLASTICA (2) is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Chiosco Ravizza, Milan on Tue, 13 Oct 2026.
 
 PLASTICA is an electro and house artist, with 10 gigs on soundcheck across Milan and Rome. Often billed alongside ELASI, ANDREA SALVAGGIO and Carloalberto. Next up: Chiosco Ravizza, Milan on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ PLASTICA is an electro and house artist, with 10 gigs on soundcheck across Milan
 
 ELASI, ANDREA SALVAGGIO, Carloalberto
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plastica-2/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plastica-2/)*

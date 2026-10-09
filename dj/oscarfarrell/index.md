@@ -1,8 +1,8 @@
 # Oscar Farrell
 
-Oscar Farrell is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Palais, London on Fri, 30 Oct 2026.
+Oscar Farrell is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Palais, London on Fri, 30 Oct 2026.
 
-Oscar Farrell is a house and tech house artist based in United Kingdom, with 28 gigs on soundcheck across London, Los Angeles, Manchester and New York City and 1 more. Often billed alongside George Daniel, Kelly Lee Owens and 2D0GS. Next up: Palais, London on Fri 30 Oct.
+Oscar Farrell is a house and tech house artist based in United Kingdom, with 29 gigs on soundcheck across London, Los Angeles, Manchester and New York City and 1 more. Often billed alongside George Daniel, Kelly Lee Owens and 2D0GS. Next up: Palais, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Oscar Farrell is a house and tech house artist based in United Kingdom, with 28 
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Palais | London |
 | Thu, 5 Nov 2026 | Badaboum | Paris |
+| Fri, 4 Dec 2026 | Yes | Manchester |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Oscar Farrell is a house and tech house artist based in United Kingdom, with 28 
 
 George Daniel, Kelly Lee Owens, 2D0GS
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarfarrell/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarfarrell/)*

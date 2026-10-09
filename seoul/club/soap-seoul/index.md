@@ -1,18 +1,17 @@
 # Soap Seoul.
 
-Soap Seoul. is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "DJ NU-MARK AT SOAP" on Thu, 8 Oct 2026.
+Soap Seoul. is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. The next is "Towa Tei & YUKA MIZUHARA" on Sat, 10 Oct 2026.
 
-Soap Seoul. is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Co.kr, ANDOW, DJ Soulscape and Towa Tei. See dates, start times and who's playing. B2, 217 Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea.
+Soap Seoul. is a music venue in Seoul listed on soundcheck. 1 upcoming gig, with line-ups including DJ Co.kr and Towa Tei. See dates, start times and who's playing. B2, 217 Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | DJ NU-MARK AT SOAP | ANDOW, DJ Soulscape |
 | Sat, 10 Oct 2026 | Towa Tei & YUKA MIZUHARA | DJ Co.kr, Towa Tei |
 
 ## Address
 
 B2, 217 Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/soap-seoul/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/soap-seoul/)*

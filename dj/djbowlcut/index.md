@@ -1,6 +1,6 @@
 # DJ Bowlcut
 
-DJ Bowlcut is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at J.J. Mahoney's Bar, Seoul on Sat, 10 Oct 2026.
+DJ Bowlcut is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at J.J. Mahoney's Bar, Seoul on Sat, 10 Oct 2026.
 
 DJ Bowlcut is a house and techno artist based in South Korea, with 83 gigs on soundcheck across Bangkok, Berlin, Bucharest and Lyon and 2 more. Often billed alongside Krijka, Slowmouth and Conan. Next up: J.J. Mahoney's Bar, Seoul on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DJ Bowlcut is a house and techno artist based in South Korea, with 83 gigs on so
 
 Krijka, Slowmouth, Conan
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbowlcut/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbowlcut/)*

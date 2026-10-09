@@ -1,8 +1,8 @@
 # 104 CENTQUATRE
 
-104 CENTQUATRE is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Nia Archives" on Sat, 5 Dec 2026.
+104 CENTQUATRE is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Nia Archives" on Sat, 5 Dec 2026.
 
-104 CENTQUATRE is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Etienne De Crecy, Felix Da Housecat, Jayda G and Kenny Dope and 2 more. See dates, start times and who's playing. 104 rue d'Aubervilliers, 75019 Paris.
+104 CENTQUATRE is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Etienne De Crecy, Felix Da Housecat, Jayda G and Kenny Dope and 2 more. See dates, start times and who's playing. 104 rue d'Aubervilliers, 75019 Paris.
 
 ## What's on
 
@@ -10,9 +10,10 @@
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Nia Archives | Nia Archives |
 | Fri, 18 Dec 2026 | Super Discount Festival | Etienne De Crecy, Felix Da Housecat, Jayda G, Kenny Dope, Perel, Tiga, Uffie |
+| Sat, 13 Mar 2027 | ¥ØU$UK€ ¥UK1MAT$U | ¥ØU$UK€ ¥UK1MAT$U |
 
 ## Address
 
 104 rue d'Aubervilliers, 75019 Paris, Paris
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/104-centquatre/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/104-centquatre/)*

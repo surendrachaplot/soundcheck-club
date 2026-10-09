@@ -1,6 +1,6 @@
 # Shenin Amara
 
-Shenin Amara is a Tech House and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Egg London, London on Sat, 10 Oct 2026.
+Shenin Amara is a Tech House and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Egg London, London on Sat, 10 Oct 2026.
 
 Shenin Amara is a tech house and house artist based in United Kingdom, with 211 gigs on soundcheck across Algarve, Amsterdam, Birmingham and Ibiza and 4 more. Often billed alongside JAYDAA, Beezo and Jerome Six. Next up: Egg London, London on Sat 10 Oct.
 
@@ -33,4 +33,4 @@ Shenin Amara is a tech house and house artist based in United Kingdom, with 211 
 
 JAYDAA, Beezo, Jerome Six
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sheninamara/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sheninamara/)*

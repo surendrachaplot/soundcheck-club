@@ -1,0 +1,16 @@
+# The Atrium: Frank & Tony, Roman Flügel at public records
+
+The Atrium: Frank & Tony, Roman Flügel at public records on Sun 11 Oct, New York City. 2 artists: Frank & Tony and Roman Flügel. Deep House. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sun, 11 Oct 2026 |
+| Venue | public records |
+| City | New York City |
+
+## Line-up
+
+- Frank & Tony
+- Roman Flügel
+
+*Source: [soundcheck](https://soundcheck.club/e/2412514-the-atrium-frank-tony-roman-fl-gel-at-public-records/)*

@@ -1,6 +1,6 @@
 # Jim Nights
 
-Jim Nights is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Apollo Club Milano, Milan on Fri, 16 Oct 2026.
+Jim Nights is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Apollo Club Milano, Milan on Fri, 16 Oct 2026.
 
 Jim Nights is a disco and house artist based in Italy, with 16 gigs on soundcheck across Milan. Often billed alongside Jack Scavino, Milangeles and Bevan. Next up: Apollo Club Milano, Milan on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Jim Nights is a disco and house artist based in Italy, with 16 gigs on soundchec
 
 Jack Scavino, Milangeles, Bevan
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimnights/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimnights/)*

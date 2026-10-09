@@ -1,6 +1,6 @@
 # Midnight Tenderness
 
-Midnight Tenderness is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at High Note, Melbourne on Sun, 11 Oct 2026.
+Midnight Tenderness is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at High Note, Melbourne on Sun, 11 Oct 2026.
 
 Midnight Tenderness is a house and hip-hop artist, with 12 gigs on soundcheck across Melbourne and Sydney. Often billed alongside RAH, Yawung and Asha Franco. Next up: High Note, Melbourne on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Midnight Tenderness is a house and hip-hop artist, with 12 gigs on soundcheck ac
 
 RAH (1), Yawung, Asha Franco
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midnighttenderness/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midnighttenderness/)*

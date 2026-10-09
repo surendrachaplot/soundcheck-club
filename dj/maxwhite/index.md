@@ -1,6 +1,6 @@
 # Max White
 
-Max White is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Upside, Florida on Sat, 10 Oct 2026.
+Max White is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Upside, Florida on Sat, 10 Oct 2026.
 
 Max White is a house and progressive house artist based in United States of America, with 11 gigs on soundcheck across Florida, Miami and New York City. Often billed alongside MindGazm, ANASTASiiA and Alejandro Flores. Next up: Upside, Florida on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Max White is a house and progressive house artist based in United States of Amer
 
 MindGazm, ANASTASiiA (2), Alejandro Flores
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwhite/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwhite/)*

@@ -1,13 +1,14 @@
 # Giselle Peppers
 
-Giselle Peppers is a Reggaeton and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at El Rio, San Francisco/Oakland on Sat, 17 Oct 2026.
+Giselle Peppers is a Reggaeton and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at El Rio, San Francisco/Oakland on Sat, 17 Oct 2026.
 
-Giselle Peppers is a reggaeton and house artist, with 87 gigs on soundcheck across Chicago, Los Angeles, New York City and San Diego and 1 more. Often billed alongside Cquestt, 88. and DINABN. Next up: El Rio, San Francisco/Oakland on Sat 17 Oct.
+Giselle Peppers is a reggaeton and club artist, with 88 gigs on soundcheck across Chicago, Los Angeles, New York City and San Diego and 1 more. Often billed alongside Cquestt, 88. and DINABN. Next up: El Rio, San Francisco/Oakland on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | El Rio | San Francisco/Oakland |
 | Sat, 17 Oct 2026 | El Rio | San Francisco/Oakland |
 
 ## Recently played
@@ -25,4 +26,4 @@ Giselle Peppers is a reggaeton and house artist, with 87 gigs on soundcheck acro
 
 Cquestt, 88. (1), DINABN
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gisellepeppers/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gisellepeppers/)*

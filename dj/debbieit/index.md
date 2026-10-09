@@ -1,8 +1,8 @@
 # DEBBIE (IT)
 
-DEBBIE (IT) is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Wall Club, Naples on Fri, 16 Oct 2026.
+DEBBIE (IT) is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Wall Club, Naples on Fri, 16 Oct 2026.
 
-DEBBIE (IT) is a techno and industrial artist based in Italy, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside MARCO GINELLI, Vinka Wydro and Dstm. Next up: The Wall Club, Naples on Fri 16 Oct.
+DEBBIE (IT) is a techno and industrial artist based in Italy, with 46 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside MARCO GINELLI, Rorganic and Vinka Wydro. Next up: The Wall Club, Naples on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DEBBIE (IT) is a techno and industrial artist based in Italy, with 45 gigs on so
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | The Wall Club | Naples |
 | Fri, 13 Nov 2026 | TBA - Kroņu iela 23B, Riga, Latvia. | Riga |
+| Sun, 29 Nov 2026 | Tirana Olympic Park | Tirana |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ DEBBIE (IT) is a techno and industrial artist based in Italy, with 45 gigs on so
 
 ## Shares bills with
 
-MARCO GINELLI, Vinka Wydro, Dstm
+MARCO GINELLI, Rorganic, Vinka Wydro
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/debbieit/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/debbieit/)*

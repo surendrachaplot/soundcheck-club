@@ -1,6 +1,6 @@
 # KINSIDERS at Liquid Club
 
-KINSIDERS at Liquid Club on Fri 9 Oct, Malta. 1 artist: Rensei. Techno. See the line-up on soundcheck.
+KINSIDERS at Liquid Club on Fri 9 Oct, Malta. 2 artists: Dannie (MT) and Rensei. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ KINSIDERS at Liquid Club on Fri 9 Oct, Malta. 1 artist: Rensei. Techno. See the 
 
 ## Line-up
 
+- Dannie (MT)
 - Rensei
 
 *Source: [soundcheck](https://soundcheck.club/e/2508634-kinsiders-at-liquid-club/)*

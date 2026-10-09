@@ -1,6 +1,6 @@
 # Daybreak
 
-Daybreak is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at One77 Brooklyn, New York City on Fri, 6 Nov 2026.
+Daybreak is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at One77 Brooklyn, New York City on Fri, 6 Nov 2026.
 
 Daybreak is a techno and trance artist based in United States of America, with 33 gigs on soundcheck across Bangkok, Berlin, Boston and Chicago and 3 more. Often billed alongside Telesforo, Michelle Kay and BЯEE. Next up: One77 Brooklyn, New York City on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Daybreak is a techno and trance artist based in United States of America, with 3
 
 Telesforo, Michelle Kay, BЯEE
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daybreak/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daybreak/)*

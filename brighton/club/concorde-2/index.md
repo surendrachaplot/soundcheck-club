@@ -1,6 +1,6 @@
 # Concorde 2
 
-Concorde 2 is a music venue in Brighton with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Kepler - Brighton" on Fri, 9 Oct 2026.
+Concorde 2 is a music venue in Brighton with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Kepler - Brighton" on Fri, 9 Oct 2026.
 
 Concorde 2 is a music venue in Brighton listed on soundcheck. 8 upcoming gigs, with line-ups including Kepler, Congo Natty, Culture Shock and Flowdan and 2 more. See dates, start times and who's playing. 286A Madeira Drive; Brighton; BN2 1EN; United Kingdom.
 
@@ -21,4 +21,4 @@ Concorde 2 is a music venue in Brighton listed on soundcheck. 8 upcoming gigs, w
 
 286A Madeira Drive; Brighton; BN2 1EN; United Kingdom, Brighton
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/concorde-2/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/concorde-2/)*

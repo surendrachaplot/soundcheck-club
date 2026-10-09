@@ -1,6 +1,6 @@
 # Anthony Linell
 
-Anthony Linell is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA -  Kummelholmen, Stockholm on Sat, 10 Oct 2026.
+Anthony Linell is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA -  Kummelholmen, Stockholm on Sat, 10 Oct 2026.
 
 Anthony Linell is a techno and house artist based in Sweden, with 98 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 22 more. Often billed alongside Evigt Mörker, Jin Mustafa and Neel. Next up: TBA -  Kummelholmen, Stockholm on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Anthony Linell is a techno and house artist based in Sweden, with 98 gigs on sou
 
 Evigt Mörker, Jin Mustafa, Neel
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonylinell/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonylinell/)*

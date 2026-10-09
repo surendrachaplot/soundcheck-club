@@ -1,6 +1,6 @@
 # MYRNE
 
-MYRNE is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Petco Park, San-diego on Thu, 31 Dec 2026.
+MYRNE is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Petco Park, San-diego on Thu, 31 Dec 2026.
 
 MYRNE is a progressive house and house artist based in Singapore, with 11 gigs on soundcheck across Denver, London, New York City and San Diego and 4 more. Often billed alongside Robby East, Lane 8 and Ashibah. Next up: Petco Park, San Diego on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ MYRNE is a progressive house and house artist based in Singapore, with 11 gigs o
 
 Robby East, Lane 8, Ashibah
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myrne/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myrne/)*

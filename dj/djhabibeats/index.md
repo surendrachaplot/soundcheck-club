@@ -1,6 +1,6 @@
 # DJ Habibeats
 
-DJ Habibeats is a House and Hip-Hop artist with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Webster Hall, New York City on Sat, 17 Oct 2026.
+DJ Habibeats is a House and Hip-Hop artist with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Webster Hall, New York City on Sat, 17 Oct 2026.
 
 DJ Habibeats is a house and hip-hop artist based in United States of America, with 53 gigs on soundcheck across Auckland, Austin, Bali and Berlin and 22 more. Often billed alongside AUGUSTE, Bianca Maieli and Ushka. Next up: Webster Hall, New York City on Sat 17 Oct.
 
@@ -33,4 +33,4 @@ DJ Habibeats is a house and hip-hop artist based in United States of America, wi
 
 AUGUSTE, Bianca Maieli, Ushka
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhabibeats/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhabibeats/)*

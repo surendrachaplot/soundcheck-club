@@ -1,6 +1,6 @@
 # Jeffrey Sfire
 
-Jeffrey Sfire is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Read the Room, Atlanta on Fri, 9 Oct 2026.
+Jeffrey Sfire is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Read the Room, Atlanta on Fri, 9 Oct 2026.
 
 Jeffrey Sfire is a house and techno artist based in United States of America, with 65 gigs on soundcheck across Atlanta, Berlin, Chicago and Detroit and 9 more. Often billed alongside Mike Servito, Justin Cudmore and Carlos Souffront. Next up: Read the Room, Atlanta on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Jeffrey Sfire is a house and techno artist based in United States of America, wi
 
 Mike Servito, Justin Cudmore, Carlos Souffront
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffreysfire/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffreysfire/)*

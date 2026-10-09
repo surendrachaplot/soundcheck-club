@@ -1,6 +1,6 @@
 # THE TOWER pres. HALLOWEEN VILLAGE at TBA - NEAR BARCELONA 30 MIN BY CAR
 
-THE TOWER pres. HALLOWEEN VILLAGE at TBA - NEAR BARCELONA 30 MIN BY CAR on Sat 31 Oct, Barcelona. 2 artists: Alan Jimenez and KSTX. See the line-up on soundcheck.
+THE TOWER pres. HALLOWEEN VILLAGE at TBA - NEAR BARCELONA 30 MIN BY CAR on Sat 31 Oct, Barcelona. 2 artists: Alan Jimenez and KSTX. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

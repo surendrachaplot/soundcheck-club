@@ -1,6 +1,6 @@
 # Secret London Location TBA
 
-Secret London Location TBA is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "LoveJuice - SECRET HOUSE PARTY - Central London" on Fri, 9 Oct 2026.
+Secret London Location TBA is a music venue in London with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "LoveJuice - SECRET HOUSE PARTY - Central London" on Fri, 9 Oct 2026.
 
 Secret London Location TBA is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including B2B The Movement, Brian Smith, CHLO (UK) and Ethan Flint and 2 more. See dates, start times and who's playing. Secret Location.
 
@@ -15,4 +15,4 @@ Secret London Location TBA is a music venue in London listed on soundcheck. 2 up
 
 Secret Location, London
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-london-location-tba/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-london-location-tba/)*

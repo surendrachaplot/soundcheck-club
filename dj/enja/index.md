@@ -1,6 +1,6 @@
 # ENJA
 
-ENJA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Loft, Vienna on Fri, 9 Oct 2026.
+ENJA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Loft, Vienna on Fri, 9 Oct 2026.
 
 ENJA is a techno and trance artist based in Austria, with 17 gigs on soundcheck across Austria, Berlin and Vienna. Often billed alongside AVO2X, Spud Bencer and SUE (AT). Next up: The Loft, Vienna on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ ENJA is a techno and trance artist based in Austria, with 17 gigs on soundcheck 
 
 AVO2X, Spud Bencer, SUE (AT)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enja/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enja/)*

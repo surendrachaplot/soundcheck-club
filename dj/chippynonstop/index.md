@@ -1,6 +1,6 @@
 # Chippy Nonstop
 
-Chippy Nonstop is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Ingram Plaza, San Diego on Sat, 17 Oct 2026.
+Chippy Nonstop is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Ingram Plaza, San Diego on Sat, 17 Oct 2026.
 
 Chippy Nonstop is a techno and house artist based in Canada, with 169 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 43 more. Often billed alongside Karim Olen Ash, Young Teesh and HVN. Next up: Ingram Plaza, San Diego on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Chippy Nonstop is a techno and house artist based in Canada, with 169 gigs on so
 
 Karim Olen Ash, Young Teesh, HVN (1)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chippynonstop/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chippynonstop/)*

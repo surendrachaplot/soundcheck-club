@@ -1,14 +1,15 @@
 # Matt Sassari
 
-Matt Sassari is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Ministry Of Sound, London on Sat, 10 Oct 2026.
+Matt Sassari is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Ministry Of Sound, London on Sat, 10 Oct 2026.
 
-Matt Sassari is a techno and tech house artist based in France, with 73 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 35 more. Often billed alongside Kygo, David Guetta and Nicole Moudaber. Next up: Ministry Of Sound, London on Sat 10 Oct.
+Matt Sassari is a techno and tech house artist based in France, with 74 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 36 more. Often billed alongside Kygo, David Guetta and Nicole Moudaber. Next up: Ministry Of Sound, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Ministry Of Sound | London |
+| Sun, 25 Oct 2026 | TBA - LA COUR DES MIRACLES | South-east |
 | Sat, 7 Nov 2026 | SILO | New York City |
 | Wed, 17 Mar 2027 | Happy Bay Beach | Saint-martin |
 
@@ -27,4 +28,4 @@ Matt Sassari is a techno and tech house artist based in France, with 73 gigs on 
 
 Kygo, David Guetta, Nicole Moudaber
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattsassari/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattsassari/)*

@@ -1,6 +1,6 @@
 # Fran LF
 
-Fran LF is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Refuge, New York City on Fri, 16 Oct 2026.
+Fran LF is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Refuge, New York City on Fri, 16 Oct 2026.
 
 Fran LF is a techno and trance artist based in Netherlands, with 39 gigs on soundcheck across Amsterdam, Athens, Berlin and Istanbul and 10 more. Often billed alongside Sinergy, Bours? and HUJUS. Next up: Refuge, New York City on Fri 16 Oct.
 
@@ -10,7 +10,7 @@ Fran LF is a techno and trance artist based in Netherlands, with 39 gigs on soun
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Refuge | New York City |
 | Sun, 18 Oct 2026 | Department 184 | Milan |
-| Sat, 24 Oct 2026 |  | Amsterdam |
+| Sat, 24 Oct 2026 | 50:Hertz House & Techno Club Rembrandt Square | Amsterdam |
 
 ## Recently played
 
@@ -27,4 +27,4 @@ Fran LF is a techno and trance artist based in Netherlands, with 39 gigs on soun
 
 Sinergy, Bours?, HUJUS
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franlf/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franlf/)*

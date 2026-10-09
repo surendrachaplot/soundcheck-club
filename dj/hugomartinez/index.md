@@ -1,8 +1,8 @@
 # Hugo Martinez
 
-Hugo Martinez is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Oven Club, Valencia on Sat, 17 Oct 2026.
+Hugo Martinez is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Oven Club, Valencia on Sat, 17 Oct 2026.
 
-Hugo Martinez is a house and minimal artist based in Spain, with 82 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 13 more. Often billed alongside Pol K, Nuzzo and Carlos Vila. Next up: Oven Club, Valencia on Sat 17 Oct.
+Hugo Martinez is a house and deep house artist based in Spain, with 81 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 13 more. Often billed alongside Pol K, Nuzzo and Carlos Vila. Next up: Oven Club, Valencia on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,7 +10,6 @@ Hugo Martinez is a house and minimal artist based in Spain, with 82 gigs on soun
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Oven Club | Valencia |
 | Sat, 24 Oct 2026 | Levenslang Amsterdam | Amsterdam |
-| Sat, 31 Oct 2026 | Esbirra Ibiza | Ibiza |
 | Thu, 5 Nov 2026 | One Resort | Tunisia |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 | Thu, 21 Jan 2027 | Soundscapes Zanzi | Tanzania |
@@ -30,4 +29,4 @@ Hugo Martinez is a house and minimal artist based in Spain, with 82 gigs on soun
 
 Pol K, Nuzzo, Carlos Vila
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hugomartinez/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hugomartinez/)*

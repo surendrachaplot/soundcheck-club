@@ -1,6 +1,6 @@
 # claire.h0e
 
-claire.h0e is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 9 Oct 2026.
+claire.h0e is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 9 Oct 2026.
 
 claire.h0e is a club and techno artist, with 9 gigs on soundcheck across Washington DC. Often billed alongside Mrs. Qbert, Vivian Oblivion and Solidare. Next up: TRANSMISSION DC, Washington DC on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ claire.h0e is a club and techno artist, with 9 gigs on soundcheck across Washing
 
 Mrs. Qbert, Vivian Oblivion, Solidare
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claire.h0e/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claire.h0e/)*

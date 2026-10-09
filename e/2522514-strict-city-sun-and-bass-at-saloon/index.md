@@ -1,6 +1,6 @@
 # Strict City × SUN AND BASS at Saloon
 
-Strict City × SUN AND BASS at Saloon on Sat 14 Nov, Tokyo. 5 artists: arpxp, Aya ( Human Elements ), Fonts and Velocity and 1 more. Drum & Bass and Jungle. See the line-up on soundcheck.
+Strict City × SUN AND BASS at Saloon on Sat 14 Nov, Tokyo. 6 artists: ALPHA, arpxp, Aya ( Human Elements ) and Fonts and 2 more. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Strict City × SUN AND BASS at Saloon on Sat 14 Nov, Tokyo. 5 artists: arpxp, Ay
 
 ## Line-up
 
+- ALPHA (4)
 - arpxp
 - Aya ( Human Elements )
 - Fonts

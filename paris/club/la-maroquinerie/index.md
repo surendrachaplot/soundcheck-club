@@ -1,14 +1,13 @@
 # La Maroquinerie
 
-La Maroquinerie is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Diskay à La Maroquinerie" on Thu, 8 Oct 2026.
+La Maroquinerie is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "I.S.U.I.L.P TOUR 26" on Tue, 27 Oct 2026.
 
-La Maroquinerie is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Diskay, Kabeaushé and Modestep. See dates, start times and who's playing. 23 rue Boyer 75020 PARIS.
+La Maroquinerie is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Kabeaushé and Modestep. See dates, start times and who's playing. 23 rue Boyer 75020 PARIS.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Diskay à La Maroquinerie | Diskay |
 | Tue, 27 Oct 2026 | I.S.U.I.L.P TOUR 26 | Kabeaushé |
 | Wed, 2 Dec 2026 | Modestep | Modestep |
 
@@ -16,4 +15,4 @@ La Maroquinerie is a music venue in Paris listed on soundcheck. 3 upcoming gigs,
 
 23 rue Boyer 75020 PARIS, Paris
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-maroquinerie/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-maroquinerie/)*

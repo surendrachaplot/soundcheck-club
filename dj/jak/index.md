@@ -1,6 +1,6 @@
 # JAK
 
-JAK is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Process PDX, Portland on Fri, 23 Oct 2026.
+JAK is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Process PDX, Portland on Fri, 23 Oct 2026.
 
 JAK is a techno and acid artist based in United States of America, with 20 gigs on soundcheck across Detroit and Portland. Often billed alongside DJ DISSOLVE, Justin Neal and Andrew Paris. Next up: Process PDX, Portland on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ JAK is a techno and acid artist based in United States of America, with 20 gigs 
 
 DJ DISSOLVE, Justin Neal, Andrew Paris
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jak/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jak/)*

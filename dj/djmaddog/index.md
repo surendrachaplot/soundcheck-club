@@ -1,8 +1,8 @@
 # DJ maddog
 
-DJ maddog is a Club and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Northern, Byron-bay on Sat, 10 Oct 2026.
+DJ maddog is a Club and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Northern, Byron-bay on Sat, 10 Oct 2026.
 
-DJ maddog is a club and hardcore artist based in United States of America, with 50 gigs on soundcheck across Boston, Brussels, Byron Bay and Cardiff and 13 more. Often billed alongside Chelita, Replicator and Roiju. Next up: The Northern, Byron Bay on Sat 10 Oct.
+DJ maddog is a club and hardcore artist based in United States of America, with 51 gigs on soundcheck across Boston, Brussels, Byron Bay and Cardiff and 13 more. Often billed alongside Chelita, Replicator and Roiju. Next up: The Northern, Byron Bay on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ maddog is a club and hardcore artist based in United States of America, with 
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | The Northern | Byron-bay |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
+| Fri, 30 Oct 2026 | TBA - Warehouse Location  | Boston |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ DJ maddog is a club and hardcore artist based in United States of America, with 
 
 Chelita, Replicator, Roiju
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaddog/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaddog/)*

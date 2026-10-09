@@ -1,6 +1,6 @@
 # La Cova
 
-La Cova is a music venue in Hamburg with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "HART - 3 Years B-Day" on Fri, 9 Oct 2026.
+La Cova is a music venue in Hamburg with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "HART - 3 Years B-Day" on Fri, 9 Oct 2026.
 
 La Cova is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, with line-ups including AH-N!CE, doesn't matter, Dollushka and Eva Nyx and 2 more. See dates, start times and who's playing. Reeperbahn 152, 20359 Hamburg.
 
@@ -20,4 +20,4 @@ La Cova is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, with 
 
 Reeperbahn 152, 20359 Hamburg, Hamburg
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/la-cova/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/la-cova/)*

@@ -1,6 +1,6 @@
 # Krokant
 
-Krokant is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 31 Oct 2026.
+Krokant is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 31 Oct 2026.
 
 Krokant is a house and electronica artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside Lea Chuga, CosmiKat and Libra. Next up: Jonny Knüppel, Berlin on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Krokant is a house and electronica artist based in Germany, with 8 gigs on sound
 
 Lea Chuga, CosmiKat, Libra
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krokant/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krokant/)*

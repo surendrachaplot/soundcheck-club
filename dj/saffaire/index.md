@@ -1,6 +1,6 @@
 # Saffaire
 
-Saffaire is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Public Works, San Francisco/Oakland on Sat, 10 Oct 2026.
+Saffaire is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Public Works, San Francisco/Oakland on Sat, 10 Oct 2026.
 
 Saffaire is a techno and house artist based in United States of America, with 12 gigs on soundcheck across San Francisco/Oakland. Often billed alongside cstr, S.I.M and 1OO1O. Next up: Public Works, San Francisco/Oakland on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Saffaire is a techno and house artist based in United States of America, with 12
 
 cstr, S.I.M, 1OO1O
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saffaire/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saffaire/)*

@@ -1,14 +1,14 @@
 # Arapu
 
-Arapu is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Plaza Camden, London on Sat, 10 Oct 2026.
+Arapu is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Cooc, London on Sat, 10 Oct 2026.
 
-Arapu is a house and minimal artist based in Romania, with 152 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Priku, Seth Troxler and Sossa. Next up: Plaza Camden, London on Sat 10 Oct.
+Arapu is a house and minimal artist based in Romania, with 152 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Priku, Seth Troxler and Sossa. Next up: Cooc, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Plaza Camden | London |
+| Sat, 10 Oct 2026 | Cooc | London |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Arapu is a house and minimal artist based in Romania, with 152 gigs on soundchec
 
 Priku, Seth Troxler, Sossa
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arapu/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arapu/)*

@@ -1,6 +1,6 @@
 # Wendel
 
-Wendel is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "No Scrubs" on Sat, 10 Oct 2026.
+Wendel is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "No Scrubs" on Sat, 10 Oct 2026.
 
 Wendel is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including EMBEE3, Kijara and Larhythmix. See dates, start times and who's playing. Schlesische Strasse 42; Kreuzberg; 10997; Germany.
 
@@ -17,4 +17,4 @@ Wendel is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with li
 
 Schlesische Strasse 42; Kreuzberg; 10997; Germany, Berlin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/wendel/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/wendel/)*

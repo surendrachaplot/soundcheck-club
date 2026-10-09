@@ -1,6 +1,6 @@
 # Konduku
 
-Konduku is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Buda BXL, Brussels on Sat, 10 Oct 2026.
+Konduku is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Buda BXL, Brussels on Sat, 10 Oct 2026.
 
 Konduku is a techno and house artist based in Netherlands, with 180 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 41 more. Often billed alongside DJ Nobu, Kia (AU) and Woody92. Next up: Buda BXL, Brussels on Sat 10 Oct.
 
@@ -36,4 +36,4 @@ Konduku is a techno and house artist based in Netherlands, with 180 gigs on soun
 
 DJ Nobu, Kia (AU), Woody92
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*

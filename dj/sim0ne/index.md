@@ -1,14 +1,13 @@
 # sim0ne
 
-sim0ne is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
+sim0ne is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
 
-sim0ne is a techno and house artist based in United Kingdom, with 113 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 38 more. Often billed alongside Juicy Romance, DJ Heartstring and MALUGI. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
+sim0ne is a techno and house artist based in United Kingdom, with 113 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 38 more. Often billed alongside Juicy Romance, DJ Heartstring and MALUGI. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Auditorio Málaga Cortijo de Torres | South |
 | Sat, 31 Oct 2026 | Q35 WAREHOUSE | Turin |
 | Fri, 13 Nov 2026 | The Cause | London |
@@ -21,6 +20,7 @@ sim0ne is a techno and house artist based in United Kingdom, with 113 gigs on so
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza · Thu, 8 Oct 2026
 - Aria Complex, Malta · Sat, 19 Sept 2026
 - Obudai Island, Budapest · Tue, 11 Aug 2026
 - Green Room NYC, New York City · Sat, 1 Aug 2026
@@ -28,10 +28,9 @@ sim0ne is a techno and house artist based in United Kingdom, with 113 gigs on so
 - Elsewhere, New York City · Fri, 12 Jun 2026
 - Brockwell Park, London · Sat, 23 May 2026
 - Riverside Museum, Glasgow · Fri, 22 May 2026
-- Hangaren, Copenhagen · Sat, 9 May 2026
 
 ## Shares bills with
 
 Juicy Romance, DJ Heartstring, MALUGI
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sim0ne/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sim0ne/)*

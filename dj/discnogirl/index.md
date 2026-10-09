@@ -1,14 +1,15 @@
 # Discnogirl
 
-Discnogirl is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at DNA Lounge, San Francisco/Oakland on Fri, 9 Oct 2026.
+Discnogirl is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at DNA Lounge, San Francisco/Oakland on Fri, 9 Oct 2026.
 
-Discnogirl is a club and techno artist based in United States of America, with 153 gigs on soundcheck across Berlin, Los Angeles, New York City and San Francisco/Oakland. Often billed alongside DJ CARO, Tom Marsi and RITCHRD. Next up: DNA Lounge, San Francisco/Oakland on Fri 9 Oct.
+Discnogirl is a club and techno artist based in United States of America, with 154 gigs on soundcheck across Berlin, Los Angeles, New York City and San Francisco/Oakland. Often billed alongside DJ CARO, Tom Marsi and RITCHRD. Next up: DNA Lounge, San Francisco/Oakland on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | DNA Lounge | San Francisco/Oakland |
+| Sat, 24 Oct 2026 | psyched! Radio sf Studios | San Francisco/Oakland |
 | Thu, 19 Nov 2026 | 1015 Folsom | San Francisco/Oakland |
 
 ## Recently played
@@ -26,4 +27,4 @@ Discnogirl is a club and techno artist based in United States of America, with 1
 
 DJ CARO, Tom Marsi, RITCHRD
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discnogirl/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discnogirl/)*

@@ -1,6 +1,6 @@
 # Jamie Jones
 
-Jamie Jones is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Pacha New York, New York City on Fri, 9 Oct 2026.
+Jamie Jones is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Pacha New York, New York City on Fri, 9 Oct 2026.
 
 Jamie Jones is a house and tech house artist based in United Kingdom, with 214 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 34 more. Often billed alongside Joseph Capriati, Manda Moor and ALISHA. Next up: Pacha New York, New York City on Fri 9 Oct.
 
@@ -31,4 +31,4 @@ Jamie Jones is a house and tech house artist based in United Kingdom, with 214 g
 
 Joseph Capriati, Manda Moor, ALISHA
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiejones/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiejones/)*

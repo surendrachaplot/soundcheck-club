@@ -1,14 +1,16 @@
 # SPRKLBB
 
-SPRKLBB is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at H0L0, New York City on Fri, 9 Oct 2026.
+SPRKLBB is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at H0L0, New York City on Fri, 9 Oct 2026.
 
-SPRKLBB is a house and techno artist based in United States of America, with 70 gigs on soundcheck across Austin, Berlin, Boston and Brussels and 14 more. Often billed alongside Mutualism, BEIGE and Ciel. Next up: H0L0, New York City on Fri 9 Oct.
+SPRKLBB is a house and techno artist based in United States of America, with 72 gigs on soundcheck across Austin, Berlin, Boston and Brussels and 14 more. Often billed alongside Mutualism, Mike Servito and BEIGE. Next up: H0L0, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | H0L0 | New York City |
+| Sun, 18 Oct 2026 | Signal | New York City |
+| Fri, 13 Nov 2026 | The Glove That Fits | London |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ SPRKLBB is a house and techno artist based in United States of America, with 70 
 
 ## Shares bills with
 
-Mutualism, BEIGE, Ciel
+Mutualism, Mike Servito, BEIGE
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sprklbb/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sprklbb/)*

@@ -1,8 +1,8 @@
 # dasstudach
 
-dasstudach is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
+dasstudach is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
 
-dasstudach is a techno and trance artist based in Switzerland, with 124 gigs on soundcheck across Amsterdam, Basel, Berlin and Bucharest and 20 more. Often billed alongside Megix, Adrian Mills and PRADA2000. Next up: Airport Würzburg, Nürnberg on Fri 16 Oct.
+dasstudach is a techno and trance artist based in Switzerland, with 125 gigs on soundcheck across Amsterdam, Basel, Berlin and Bucharest and 20 more. Often billed alongside Megix, Adrian Mills and PRADA2000. Next up: Airport Würzburg, Nürnberg on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ dasstudach is a techno and trance artist based in Switzerland, with 124 gigs on 
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
+| Fri, 30 Oct 2026 | Nordstern | Basel |
 | Sat, 14 Nov 2026 | Hans Bunte Areal | Freiburg |
 
 ## Recently played
@@ -27,4 +28,4 @@ dasstudach is a techno and trance artist based in Switzerland, with 124 gigs on 
 
 Megix, Adrian Mills, PRADA2000
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dasstudach/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dasstudach/)*

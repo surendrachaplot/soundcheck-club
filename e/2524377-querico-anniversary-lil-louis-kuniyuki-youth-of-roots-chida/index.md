@@ -1,6 +1,6 @@
 # QUERICO ANNIVERSARY - LIL LOUIS, Kuniyuki, YOUTH OF ROOTS, CHIDA, Hamish & Toby, at MIDNIGHT EAST
 
-QUERICO ANNIVERSARY - LIL LOUIS, Kuniyuki, YOUTH OF ROOTS, CHIDA, Hamish & Toby, at MIDNIGHT EAST on Sat 17 Oct, Tokyo. 10 artists: Aiko Inoue, CHIDA, Good Company Broadcast Group and Hamish & Toby and 6 more. House and Tech House. See the line-up on soundcheck.
+QUERICO ANNIVERSARY - LIL LOUIS, Kuniyuki, YOUTH OF ROOTS, CHIDA, Hamish & Toby, at MIDNIGHT EAST on Sat 17 Oct, Tokyo. 11 artists: Aiko Inoue, CHIDA, Chihoshi and Good Company Broadcast Group and 7 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ QUERICO ANNIVERSARY - LIL LOUIS, Kuniyuki, YOUTH OF ROOTS, CHIDA, Hamish & Toby,
 
 - Aiko Inoue
 - CHIDA
+- Chihoshi
 - Good Company Broadcast Group
 - Hamish & Toby
 - Joe O

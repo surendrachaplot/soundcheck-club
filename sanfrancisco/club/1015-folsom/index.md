@@ -1,6 +1,6 @@
 # 1015 Folsom
 
-1015 Folsom is a music venue in San Francisco/Oakland with 16 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Riordan" on Fri, 9 Oct 2026.
+1015 Folsom is a music venue in San Francisco/Oakland with 16 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Riordan" on Fri, 9 Oct 2026.
 
 1015 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 16 upcoming gigs, with line-ups including Above & Beyond, AGROPOL, Andy C and Cinthie and 2 more. See dates, start times and who's playing. 1015 Folsom Street; San Francisco, CA 94103; United States.
 
@@ -23,4 +23,4 @@
 
 1015 Folsom Street; San Francisco, CA 94103; United States, San Francisco/Oakland
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/1015-folsom/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/1015-folsom/)*

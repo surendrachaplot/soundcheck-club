@@ -1,6 +1,6 @@
 # Hokyung
 
-Hokyung is a House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Paper, Seoul on Fri, 9 Oct 2026.
+Hokyung is a House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Paper, Seoul on Fri, 9 Oct 2026.
 
 Hokyung is a house artist based in South Korea, with 11 gigs on soundcheck across Seoul. Often billed alongside TRUEUNSOL, Gyusco and Airbear. Next up: Paper, Seoul on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Hokyung is a house artist based in South Korea, with 11 gigs on soundcheck acros
 
 TRUEUNSOL, Gyusco, Airbear
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hokyung/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hokyung/)*

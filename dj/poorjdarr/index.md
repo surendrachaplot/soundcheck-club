@@ -1,6 +1,6 @@
 # Poor J’Darr
 
-Poor J’Darr is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Channel Zero, Ljubljana on Fri, 9 Oct 2026.
+Poor J’Darr is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Channel Zero, Ljubljana on Fri, 9 Oct 2026.
 
 Poor J’Darr is a bass and techno artist based in Greece, with 43 gigs on soundcheck across Athens, Brussels, Ljubljana and Madrid and 1 more. Often billed alongside Madam X, pink.wav and Saber Rider. Next up: Channel Zero, Ljubljana on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Poor J’Darr is a bass and techno artist based in Greece, with 43 gigs on sound
 
 Madam X, pink.wav, Saber Rider
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poorjdarr/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poorjdarr/)*

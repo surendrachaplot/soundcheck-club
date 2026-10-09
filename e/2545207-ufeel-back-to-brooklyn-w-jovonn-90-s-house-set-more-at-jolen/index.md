@@ -1,6 +1,6 @@
 # UFeel Back to Brooklyn w Jovonn (90's House set) + more at Jolene Sound Room Brooklyn
 
-UFeel Back to Brooklyn w Jovonn (90's House set) + more at Jolene Sound Room Brooklyn on Fri 9 Oct, New York City. 3 artists: ABS, DLR (nyc) and Jovonn. House. See the line-up on soundcheck.
+UFeel Back to Brooklyn w Jovonn (90's House set) + more at Jolene Sound Room Brooklyn on Fri 9 Oct, New York City. 4 artists: ABS, Akin (NYC), DLR (nyc) and Jovonn. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ UFeel Back to Brooklyn w Jovonn (90's House set) + more at Jolene Sound Room Bro
 ## Line-up
 
 - ABS (4)
+- Akin (NYC)
 - DLR (nyc)
 - Jovonn
 

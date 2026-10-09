@@ -1,14 +1,15 @@
 # Riley
 
-Riley is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Camp and Furnace, Liverpool on Fri, 9 Oct 2026.
+Riley is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Camp and Furnace, Liverpool on Fri, 9 Oct 2026.
 
-Riley is a tech house and house artist based in United Kingdom, with 41 gigs on soundcheck across Amsterdam, Bristol, Cardiff and Dublin and 10 more. Often billed alongside Max Dean, ALISHA and East End Dubs. Next up: Camp and Furnace, Liverpool on Fri 9 Oct.
+Riley is a tech house and house artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Bristol, Cardiff and Dublin and 10 more. Often billed alongside Max Dean, ALISHA and East End Dubs. Next up: Camp and Furnace, Liverpool on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Camp and Furnace | Liverpool |
+| Sat, 24 Oct 2026 | Westerkerk | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Riley is a tech house and house artist based in United Kingdom, with 41 gigs on 
 
 Max Dean, ALISHA, East End Dubs
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riley/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riley/)*

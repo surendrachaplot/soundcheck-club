@@ -1,8 +1,8 @@
 # Berkan V8
 
-Berkan V8 is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Grey Space In The Middle, The Hague on Fri, 9 Oct 2026.
+Berkan V8 is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Grey Space In The Middle, The Hague on Fri, 9 Oct 2026.
 
-Berkan V8 is a house and techno artist based in Netherlands, with 95 gigs on soundcheck across Amsterdam, Berlin, Brussels and Istanbul and 3 more. Often billed alongside BELLA (NL), Doppelgang and Kyra Khaldi. Next up: The Grey Space In The Middle, The Hague on Fri 9 Oct.
+Berkan V8 is a house and techno artist based in Netherlands, with 96 gigs on soundcheck across Amsterdam, Berlin, Brussels and Istanbul and 3 more. Often billed alongside BELLA (NL), Doppelgang and Kyra Khaldi. Next up: The Grey Space In The Middle, The Hague on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Berkan V8 is a house and techno artist based in Netherlands, with 95 gigs on sou
 | Sat, 24 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | Radio Radio | Amsterdam |
 | Sat, 31 Oct 2026 | Frankhan Selectist | Istanbul |
+| Fri, 13 Nov 2026 | TBA | Amsterdam |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Berkan V8 is a house and techno artist based in Netherlands, with 95 gigs on sou
 
 BELLA (NL), Doppelgang, Kyra Khaldi
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berkanv8/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berkanv8/)*

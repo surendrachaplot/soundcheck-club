@@ -1,6 +1,6 @@
 # Channel Tres
 
-Channel Tres is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Palm Springs Surf Club, Palm-springs on Fri, 9 Oct 2026.
+Channel Tres is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Palm Springs Surf Club, Palm-springs on Fri, 9 Oct 2026.
 
 Channel Tres is a house and techno artist based in United States of America, with 51 gigs on soundcheck across Arkansas, Austin, Berlin and Brisbane and 20 more. Often billed alongside KETTAMA, Boys Noize and Jyoty. Next up: The Palm Springs Surf Club, Palm Springs on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Channel Tres is a house and techno artist based in United States of America, wit
 
 KETTAMA, Boys Noize, Jyoty
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/channeltres/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/channeltres/)*

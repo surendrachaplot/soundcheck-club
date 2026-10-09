@@ -1,6 +1,6 @@
 # Ausland
 
-Ausland is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "biegungen: Ryoko Ono & Alexander Frangenheim / M. Takara & Carla Boregas feat. Dudu Kouate" on Sun, 11 Oct 2026.
+Ausland is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. The next is "biegungen: Ryoko Ono & Alexander Frangenheim / M. Takara & Carla Boregas feat. Dudu Kouate" on Sun, 11 Oct 2026.
 
 Ausland is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Lychener Strasse 60; Prenzlauer Berg; 10437 Berlin; Germany.
 
@@ -14,4 +14,4 @@ Ausland is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dat
 
 Lychener Strasse 60; Prenzlauer Berg; 10437 Berlin; Germany, Berlin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ausland/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ausland/)*

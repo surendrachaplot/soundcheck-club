@@ -1,6 +1,6 @@
 # Lowie Trio
 
-Lowie Trio is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Amigo, Ghent on Thu, 31 Dec 2026.
+Lowie Trio is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Amigo, Ghent on Thu, 31 Dec 2026.
 
 Lowie Trio is a house and disco artist based in Belgium, with 8 gigs on soundcheck across Antwerp and Ghent. Often billed alongside Nico Juice, Thang and Kenny Montana. Next up: Amigo, Ghent on Thu 31 Dec.
 
@@ -24,4 +24,4 @@ Lowie Trio is a house and disco artist based in Belgium, with 8 gigs on soundche
 
 Nico Juice, Thang, Kenny Montana
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowietrio/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowietrio/)*

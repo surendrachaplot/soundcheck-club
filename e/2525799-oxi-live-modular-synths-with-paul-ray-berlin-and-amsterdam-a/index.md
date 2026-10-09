@@ -1,6 +1,6 @@
 # OXI LIVE: MODULAR / SYNTHS - with Paul Ray - Berlin and Amsterdam at OXI
 
-OXI LIVE: MODULAR / SYNTHS - with Paul Ray - Berlin and Amsterdam on Sat 10 Oct, Berlin. 8 artists: GVMEDNA, Jan Ritter, Mattone and Olivia Nebula and 4 more. Techno. See the line-up on soundcheck.
+OXI LIVE: MODULAR / SYNTHS - with Paul Ray - Berlin and Amsterdam on Sat 10 Oct, Berlin. 7 artists: GVMEDNA, Jan Ritter, Mattone and Olivia Nebula and 3 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,7 +16,6 @@ OXI LIVE: MODULAR / SYNTHS - with Paul Ray - Berlin and Amsterdam on Sat 10 Oct,
 - Olivia Nebula
 - Paul Ray
 - TAKT130
-- UniKhatu
 - YETI (3)
 
 *Source: [soundcheck](https://soundcheck.club/e/2525799-oxi-live-modular-synths-with-paul-ray-berlin-and-amsterdam-a/)*

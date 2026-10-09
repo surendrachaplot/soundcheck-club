@@ -1,6 +1,6 @@
 # Void Hall
 
-Void Hall is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Infected Dnb with Neonlight" on Fri, 9 Oct 2026.
+Void Hall is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Infected Dnb with Neonlight" on Fri, 9 Oct 2026.
 
 Void Hall is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Azur, DarcSounds, H.U.K and IHOPEIEXIST and 2 more. See dates, start times and who's playing. Wiesenweg 5-9, 10365 Berlin.
 
@@ -17,4 +17,4 @@ Void Hall is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with
 
 Wiesenweg 5-9, 10365 Berlin, Berlin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-hall/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-hall/)*

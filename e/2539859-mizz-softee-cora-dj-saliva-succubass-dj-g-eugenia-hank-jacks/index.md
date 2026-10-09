@@ -1,0 +1,23 @@
+# Mizz Softee: CORA, DJ Saliva, Succubass, DJ G, Eugenia, Hank Jackson, Matas + more at Signal
+
+Mizz Softee: CORA, DJ Saliva, Succubass, DJ G, Eugenia, Hank Jackson, Matas + more at Signal on Sun 11 Oct, New York City. 9 artists: Cora (CN), DJ G., Dj Saliva and Eugenia and 5 more. Techno and House. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sun, 11 Oct 2026 |
+| Venue | Signal |
+| City | New York City |
+
+## Line-up
+
+- Cora (CN)
+- DJ G.
+- Dj Saliva
+- Eugenia
+- Hank Jackson
+- Matas
+- Samuel Fish
+- Samwise (US)
+- Succubass
+
+*Source: [soundcheck](https://soundcheck.club/e/2539859-mizz-softee-cora-dj-saliva-succubass-dj-g-eugenia-hank-jacks/)*

@@ -1,6 +1,6 @@
 # Loofy
 
-Loofy is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at SILO, New York City on Fri, 16 Oct 2026.
+Loofy is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at SILO, New York City on Fri, 16 Oct 2026.
 
 Loofy is a tech house and house artist based in United States of America, with 33 gigs on soundcheck across Austin, Boston, Chicago and Houston and 10 more. Often billed alongside Ale Acosta, David Guetta and Dombresky. Next up: SILO, New York City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Loofy is a tech house and house artist based in United States of America, with 3
 
 Ale Acosta, David Guetta, Dombresky
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loofy/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loofy/)*

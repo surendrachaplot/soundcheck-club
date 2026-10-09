@@ -1,14 +1,13 @@
 # Overmono
 
-Overmono is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Radius, Chicago on Thu, 8 Oct 2026.
+Overmono is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Terminal 5, New York City on Fri, 9 Oct 2026.
 
-Overmono is a techno and house artist based in United Kingdom, with 107 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Austin and 47 more. Often billed alongside Nia Archives, KI/KI and Ewan McVicar. Next up: Radius, Chicago on Thu 8 Oct.
+Overmono is a techno and house artist based in United Kingdom, with 107 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Austin and 47 more. Often billed alongside Nia Archives, KI/KI and Ewan McVicar. Next up: Terminal 5, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Radius | Chicago |
 | Fri, 9 Oct 2026 | Terminal 5 | New York City |
 | Sat, 10 Oct 2026 | History | Toronto |
 | Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
@@ -23,6 +22,7 @@ Overmono is a techno and house artist based in United Kingdom, with 107 gigs on 
 
 ## Recently played
 
+- Radius, Chicago · Thu, 8 Oct 2026
 - Public Works, San Francisco/Oakland · Sun, 27 Sept 2026
 - TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
 - Hollywood Palladium, Los Angeles · Fri, 25 Sept 2026
@@ -30,10 +30,9 @@ Overmono is a techno and house artist based in United Kingdom, with 107 gigs on 
 - Old Royal Naval College, London · Fri, 7 Aug 2026
 - Sønder Hoved, Copenhagen · Thu, 30 Jul 2026
 - Colwick Country Park, Nottingham · Fri, 26 Jun 2026
-- Colwick Country Park, Nottingham · Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Nia Archives, KI/KI, Ewan McVicar
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/overmono/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/overmono/)*

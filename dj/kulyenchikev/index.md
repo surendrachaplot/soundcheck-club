@@ -1,8 +1,8 @@
 # KULYENCHIKEV
 
-KULYENCHIKEV is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Centro Sociale Rivolta, Venice on Sat, 17 Oct 2026.
+KULYENCHIKEV is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Centro Sociale Rivolta, Venice on Sat, 17 Oct 2026.
 
-KULYENCHIKEV is an electronic artist, with 10 gigs on soundcheck across Berlin, Krakow, Venice and Warsaw. Often billed alongside Kasei P, xPOLLYx and Azemad. Next up: Centro Sociale Rivolta, Venice on Sat 17 Oct.
+KULYENCHIKEV is an electronic artist based in Germany, with 10 gigs on soundcheck across Berlin, Krakow, Venice and Warsaw. Often billed alongside Kasei P, xPOLLYx and Azemad. Next up: Centro Sociale Rivolta, Venice on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ KULYENCHIKEV is an electronic artist, with 10 gigs on soundcheck across Berlin, 
 
 Kasei P, xPOLLYx, Azemad
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kulyenchikev/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kulyenchikev/)*

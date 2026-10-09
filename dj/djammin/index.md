@@ -1,6 +1,6 @@
 # Djammin
 
-Djammin is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
+Djammin is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
 
 Djammin is a house and afro house artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Bristol, Ibiza and London and 5 more. Often billed alongside Meeshy, Ossie and Skepta. Next up: Hï Ibiza, Ibiza on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Djammin is a house and afro house artist based in United Kingdom, with 34 gigs o
 
 Meeshy, Ossie, Skepta
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djammin/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djammin/)*

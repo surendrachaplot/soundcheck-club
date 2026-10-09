@@ -1,6 +1,6 @@
 # TYSK
 
-TYSK is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Roof 175, Frankfurt on Fri, 16 Oct 2026.
+TYSK is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Roof 175, Frankfurt on Fri, 16 Oct 2026.
 
 TYSK is a techno and trance artist based in Ukraine, with 9 gigs on soundcheck across Berlin, Frankfurt, Krakow and Lisbon. Often billed alongside Sasha Pervukhin, Eurodance2000 and matvii. Next up: Roof 175, Frankfurt on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ TYSK is a techno and trance artist based in Ukraine, with 9 gigs on soundcheck a
 
 Sasha Pervukhin, Eurodance2000, matvii
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tysk/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tysk/)*

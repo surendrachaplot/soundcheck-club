@@ -1,6 +1,6 @@
 # M.I.O
 
-M.I.O is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Aoyama Hachi, Tokyo on Thu, 15 Oct 2026.
+M.I.O is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Aoyama Hachi, Tokyo on Thu, 15 Oct 2026.
 
 M.I.O is a bass and techno artist, with 47 gigs on soundcheck across London and Tokyo. Often billed alongside akii, Aliceyuki and MUNÉO. Next up: Aoyama Hachi, Tokyo on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ M.I.O is a bass and techno artist, with 47 gigs on soundcheck across London and 
 
 akii, Aliceyuki, MUNÉO
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m.i.o/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m.i.o/)*

@@ -1,6 +1,6 @@
 # Erika
 
-Erika is a Techno and Acid artist with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
+Erika is a Techno and Acid artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
 
 Erika is a techno and acid artist, with 116 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 21 more. Often billed alongside BMG, Mike Servito and Derek Plaslaiko. Next up: Bassiani, Tbilisi on Fri 9 Oct.
 
@@ -31,4 +31,4 @@ Erika is a techno and acid artist, with 116 gigs on soundcheck across Amsterdam,
 
 BMG, Mike Servito, Derek Plaslaiko
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erika/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erika/)*

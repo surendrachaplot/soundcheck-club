@@ -1,20 +1,20 @@
 # boyyyish
 
-boyyyish is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Bulbul Berlin, Berlin on Thu, 8 Oct 2026.
+boyyyish is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at ciao ciao Bar, Berlin on Fri, 9 Oct 2026.
 
-boyyyish is a house and techno artist based in United States of America, with 89 gigs on soundcheck across Berlin, London, Mexico City and New York City. Often billed alongside Amber Valentine, SPRFRK and Tom Peters. Next up: Bulbul Berlin, Berlin on Thu 8 Oct.
+boyyyish is a house and techno artist based in United States of America, with 89 gigs on soundcheck across Berlin, London, Mexico City and New York City. Often billed alongside Amber Valentine, SPRFRK and Tom Peters. Next up: ciao ciao Bar, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Bulbul Berlin | Berlin |
 | Fri, 9 Oct 2026 | ciao ciao Bar | Berlin |
 | Sat, 10 Oct 2026 | BABY01 | Berlin |
 | Sat, 31 Oct 2026 | Dead Letter No. 9 | New York City |
 
 ## Recently played
 
+- Bulbul Berlin, Berlin · Thu, 8 Oct 2026
 - Le Bain, New York City · Thu, 24 Sept 2026
 - The Exley, New York City · Fri, 18 Sept 2026
 - Le Bain, New York City · Thu, 30 Jul 2026
@@ -22,10 +22,9 @@ boyyyish is a house and techno artist based in United States of America, with 89
 - House of Yes, New York City · Sat, 27 Jun 2026
 - Le Bain, New York City · Sat, 27 Jun 2026
 - Dead Letter No. 9, New York City · Sat, 20 Jun 2026
-- Xanadu, New York City · Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Amber Valentine, SPRFRK, Tom Peters
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boyyyish/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boyyyish/)*

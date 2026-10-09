@@ -1,6 +1,6 @@
 # Shaun J. Wright
 
-Shaun J. Wright is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Zebbie's Garden, Washington DC on Sun, 11 Oct 2026.
+Shaun J. Wright is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Zebbie's Garden, Washington DC on Sun, 11 Oct 2026.
 
 Shaun J. Wright is a house and techno artist based in United States of America, with 202 gigs on soundcheck across Berlin, Boston, Chicago and Detroit and 8 more. Often billed alongside Michael Serafini, Derrick Carter and Mike Servito. Next up: Zebbie's Garden, Washington DC on Sun 11 Oct.
 
@@ -31,4 +31,4 @@ Shaun J. Wright is a house and techno artist based in United States of America, 
 
 Michael Serafini, Derrick Carter, Mike Servito
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunjwright/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunjwright/)*

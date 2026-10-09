@@ -1,6 +1,6 @@
 # Introspekt
 
-Introspekt is a Garage and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at San Francisco, Amsterdam on Thu, 22 Oct 2026.
+Introspekt is a Garage and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at San Francisco, Amsterdam on Thu, 22 Oct 2026.
 
 Introspekt is a garage and techno artist based in United States of America, with 190 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belfast and 43 more. Often billed alongside Octo Octa, CCL and Angel D'lite. Next up: San Francisco, Amsterdam on Thu 22 Oct.
 
@@ -33,4 +33,4 @@ Introspekt is a garage and techno artist based in United States of America, with
 
 Octo Octa, CCL, Angel D'lite
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/introspekt/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/introspekt/)*

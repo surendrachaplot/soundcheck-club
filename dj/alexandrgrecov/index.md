@@ -1,6 +1,6 @@
 # Alexandr Grecov
 
-Alexandr Grecov is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at 360Istanbul, Istanbul on Sat, 24 Oct 2026.
+Alexandr Grecov is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at 360Istanbul, Istanbul on Sat, 24 Oct 2026.
 
 Alexandr Grecov is a house and afro house artist based in Turkey, with 109 gigs on soundcheck across Istanbul. Often billed alongside Sadriano, Semih Akay and DJ Queto. Next up: 360Istanbul, Istanbul on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Alexandr Grecov is a house and afro house artist based in Turkey, with 109 gigs 
 
 Sadriano, Semih Akay, DJ Queto
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandrgrecov/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandrgrecov/)*

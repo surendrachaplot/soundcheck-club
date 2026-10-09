@@ -1,6 +1,6 @@
 # Cabaret  Aléatoire
 
-Cabaret  Aléatoire is a music venue in Marseille with 13 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "CLUB CABARET x Les InterG" on Fri, 9 Oct 2026.
+Cabaret  Aléatoire is a music venue in Marseille with 13 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "CLUB CABARET x Les InterG" on Fri, 9 Oct 2026.
 
 Cabaret  Aléatoire is a music venue in Marseille listed on soundcheck. 13 upcoming gigs, with line-ups including 1luu, Angel Karel, Autechre and Avni Leka and 2 more. See dates, start times and who's playing. 41 Rue Jobin, 13003, Marseille.
 
@@ -23,4 +23,4 @@ Cabaret  Aléatoire is a music venue in Marseille listed on soundcheck. 13 upcom
 
 41 Rue Jobin, 13003, Marseille, Marseille
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/cabaret-al-atoire/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/cabaret-al-atoire/)*

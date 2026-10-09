@@ -1,6 +1,6 @@
 # fumi (DE)
 
-fumi (DE) is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
+fumi (DE) is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
 
 fumi (DE) is a techno and trance artist based in Germany, with 142 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 39 more. Often billed alongside Serafina, Adrian Mills and Cloudy. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
 
@@ -11,7 +11,7 @@ fumi (DE) is a techno and trance artist based in Germany, with 142 gigs on sound
 | Sat, 10 Oct 2026 | Auditorio Málaga Cortijo de Torres | South |
 | Wed, 21 Oct 2026 | Sugarfactory | Amsterdam |
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
-| Sun, 25 Oct 2026 | Levenslang Amsterdam | Amsterdam |
+| Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 6 Nov 2026 | Hangaren | Copenhagen |
 | Sat, 21 Nov 2026 | Northcote Theatre | Melbourne |
 | Fri, 11 Dec 2026 | Halle Tony Garnier | Lyon |
@@ -33,4 +33,4 @@ fumi (DE) is a techno and trance artist based in Germany, with 142 gigs on sound
 
 Serafina, Adrian Mills, Cloudy
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi-de/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi-de/)*

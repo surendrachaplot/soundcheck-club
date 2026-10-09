@@ -1,6 +1,6 @@
 # Angel Jelly
 
-Angel Jelly is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA, Philadelphia on Sat, 10 Oct 2026.
+Angel Jelly is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA, Philadelphia on Sat, 10 Oct 2026.
 
 Angel Jelly is a techno and club artist, with 33 gigs on soundcheck across Chicago, New York City, Philadelphia and Washington DC. Often billed alongside America Loves Me, JEWELSSEA and Blueverbs. Next up: TBA, Philadelphia on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Angel Jelly is a techno and club artist, with 33 gigs on soundcheck across Chica
 
 America Loves Me, JEWELSSEA, Blueverbs
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angeljelly/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angeljelly/)*

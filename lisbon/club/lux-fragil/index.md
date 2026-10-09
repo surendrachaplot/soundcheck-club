@@ -1,14 +1,13 @@
 # Lux Fragil
 
-Lux Fragil is a music venue in Lisbon with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Contratempos Clubbing" on Thu, 8 Oct 2026.
+Lux Fragil is a music venue in Lisbon with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Rene Wise, Andy Martin, Inês Duarte, Guy from 1990" on Fri, 9 Oct 2026.
 
-Lux Fragil is a music venue in Lisbon listed on soundcheck. 11 upcoming gigs, with line-ups including Aera, Afonso Peixoto, Andy Martin and Billi and 2 more. See dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
+Lux Fragil is a music venue in Lisbon listed on soundcheck. 10 upcoming gigs, with line-ups including Aera, Afonso Peixoto, Andy Martin and Billi and 2 more. See dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Contratempos Clubbing | Delikwe |
 | Fri, 9 Oct 2026 | Rene Wise, Andy Martin, Inês Duarte, Guy from 1990 | Andy Martin, Guy from 1990, Inês Duarte, Rene Wise |
 | Fri, 9 Oct 2026 | Quinoa Experience at Lux Terraço with Billi, Manu Oubiña & Chris Gorrie | Billi, Chris Gorrie, Manu Oubiña |
 | Sat, 10 Oct 2026 | Visceral: HNRQ, Rick Offen, meera, Aera; Varela, Martem | Aera, HNRQ (2), Rick Offen, Varela, meera |
@@ -18,9 +17,10 @@ Lux Fragil is a music venue in Lisbon listed on soundcheck. 11 upcoming gigs, wi
 | Sat, 24 Oct 2026 | Shinedoe, Chima Isaaro, Flabbergast, HNRQ | Chima Isaaro, Flabbergast, HNRQ (2), Shinedoe |
 | Thu, 29 Oct 2026 | Progressivu, Doni Kis | Doni Kis, Progressivu |
 | Fri, 30 Oct 2026 | Perel, Oito//Oito, NVNO, Rui Vargas, David Moreira | David Moreira (2), OitoZeroOito, Perel, Rui Vargas |
+| Sat, 31 Oct 2026 | OK EG, Inês Duarte, Berberan, Nídia, DJ Narciso, Maki | DJ Narciso, Francisco Berberan, Inês Duarte, Maki, Nídia, OK EG |
 
 ## Address
 
 Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal, Lisbon
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*

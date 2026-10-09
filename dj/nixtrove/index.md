@@ -1,6 +1,6 @@
 # Nixtrove
 
-Nixtrove is a IDM and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Underflow Record Store, Athens on Fri, 23 Oct 2026.
+Nixtrove is a IDM and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Underflow Record Store, Athens on Fri, 23 Oct 2026.
 
 Nixtrove is an idm and ambient artist based in Canada, with 13 gigs on soundcheck across Athens, Brussels, Los Angeles and Montreal and 3 more. Often billed alongside indek, Neo Edo and gonima. Next up: Underflow Record Store, Athens on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Nixtrove is an idm and ambient artist based in Canada, with 13 gigs on soundchec
 
 indek, Neo Edo, gonima
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nixtrove/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nixtrove/)*

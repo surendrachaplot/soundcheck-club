@@ -1,6 +1,6 @@
 # Akvárium Klub
 
-Akvárium Klub is a music venue in Budapest with 20 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "AkvaWaves invites: Ely Oaks 360° at NagyHall" on Fri, 16 Oct 2026.
+Akvárium Klub is a music venue in Budapest with 20 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "AkvaWaves invites: Ely Oaks 360° at NagyHall" on Fri, 16 Oct 2026.
 
 Akvárium Klub is a music venue in Budapest listed on soundcheck. 20 upcoming gigs, with line-ups including ALT8, Andrew Cairns, Arlo Parks and blk. and 2 more. See dates, start times and who's playing. Budapest Erzsébet tér, 1051 Hungary.
 
@@ -23,4 +23,4 @@ Akvárium Klub is a music venue in Budapest listed on soundcheck. 20 upcoming gi
 
 Budapest Erzsébet tér, 1051 Hungary, Budapest
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/akv-rium-klub/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/akv-rium-klub/)*

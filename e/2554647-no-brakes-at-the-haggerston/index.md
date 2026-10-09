@@ -1,6 +1,6 @@
 # NO BRAKES at The Haggerston
 
-NO BRAKES at The Haggerston on Sat 10 Oct, London. 1 artist: JVINCENT. Bass and Baile Funk. See the line-up on soundcheck.
+NO BRAKES at The Haggerston on Sat 10 Oct, London. 1 artist: JVINCENT. Baile Funk and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Thojo
 
-Thojo is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Baggen, Copenhagen on Fri, 9 Oct 2026.
+Thojo is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Baggen, Copenhagen on Fri, 9 Oct 2026.
 
 Thojo is a house and acid artist based in Belgium, with 13 gigs on soundcheck across Brussels, Copenhagen and Ghent. Often billed alongside Malo Z, Mandana and Nosedrip. Next up: Baggen, Copenhagen on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Thojo is a house and acid artist based in Belgium, with 13 gigs on soundcheck ac
 
 Malo Z, Mandana, Nosedrip
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thojo/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thojo/)*

@@ -1,6 +1,6 @@
 # ADE 2026 - House Mag Curates - Confluence with JHONATAN OSPINA at John Doe
 
-ADE 2026 - House Mag Curates - Confluence with JHONATAN OSPINA at John Doe on Wed 21 Oct, Amsterdam. 3 artists: Alex Sharp, ARTISTIKK and JHONATAN OSPINA. Techno. See the line-up on soundcheck.
+ADE 2026 - House Mag Curates - Confluence with JHONATAN OSPINA at John Doe on Wed 21 Oct, Amsterdam. 5 artists: Alex Sharp, ARTISTIKK, Ella De Vuono and JHONATAN OSPINA and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,8 @@ ADE 2026 - House Mag Curates - Confluence with JHONATAN OSPINA at John Doe on We
 
 - Alex Sharp
 - ARTISTIKK
+- Ella De Vuono
 - JHONATAN OSPINA
+- Leo Janeiro
 
 *Source: [soundcheck](https://soundcheck.club/e/2508072-ade-2026-house-mag-curates-confluence-with-jhonatan-ospina-a/)*

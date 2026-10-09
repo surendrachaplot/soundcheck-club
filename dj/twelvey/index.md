@@ -1,6 +1,6 @@
 # TWELVEY
 
-TWELVEY is a Club and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Bolero, Seoul on Fri, 9 Oct 2026.
+TWELVEY is a Club and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Bolero, Seoul on Fri, 9 Oct 2026.
 
 TWELVEY is a club and hip-hop artist based in South Korea, with 7 gigs on soundcheck across Seoul. Often billed alongside ANDOW, KINGMCK and Conan. Next up: Bolero, Seoul on Fri 9 Oct.
 
@@ -23,4 +23,4 @@ TWELVEY is a club and hip-hop artist based in South Korea, with 7 gigs on soundc
 
 ANDOW, KINGMCK, Conan
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twelvey/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twelvey/)*

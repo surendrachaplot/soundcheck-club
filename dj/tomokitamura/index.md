@@ -1,6 +1,6 @@
 # Tomoki Tamura
 
-Tomoki Tamura is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Frankhan Selectist, Istanbul on Sat, 17 Oct 2026.
+Tomoki Tamura is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Frankhan Selectist, Istanbul on Sat, 17 Oct 2026.
 
 Tomoki Tamura is a house and techno artist based in Germany, with 102 gigs on soundcheck across Amsterdam, Baltimore, Bangkok and Barcelona and 30 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Alexander Skancke. Next up: Frankhan Selectist, Istanbul on Sat 17 Oct.
 
@@ -33,4 +33,4 @@ Tomoki Tamura is a house and techno artist based in Germany, with 102 gigs on so
 
 GARAN GARAN, Satoshi Tomiie, Alexander Skancke
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*

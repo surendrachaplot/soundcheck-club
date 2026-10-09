@@ -15,8 +15,8 @@ DEMOLATE w./ DJ Dextro, Alberto Tolo, Rill, Katnada at Lokschuppen Berlin on Fri
 - DJ Dextro
 - Gloria Rose
 - Katnada
-- Maximus (DE)
 - Ricksen
 - Rill
+- TEHOTU
 
 *Source: [soundcheck](https://soundcheck.club/e/2335761-demolate-w-dj-dextro-alberto-tolo-rill-katnada-at-lokschuppe/)*

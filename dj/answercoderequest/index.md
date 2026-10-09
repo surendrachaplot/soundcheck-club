@@ -1,6 +1,6 @@
 # Answer Code Request
 
-Answer Code Request is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Nitsa Club, Barcelona on Sat, 10 Oct 2026.
+Answer Code Request is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Nitsa Club, Barcelona on Sat, 10 Oct 2026.
 
 Answer Code Request is a techno and house artist based in Germany, with 125 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 40 more. Often billed alongside Amotik, Barker and Oracy. Next up: Nitsa Club, Barcelona on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Answer Code Request is a techno and house artist based in Germany, with 125 gigs
 
 Amotik, Barker, Oracy
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/answercoderequest/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/answercoderequest/)*

@@ -1,6 +1,6 @@
 # 1-800-Lucky
 
-1-800-Lucky is a music venue in Miami with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "PARAÍSO CARIBE: MIAMI CARNIVAL WEEKEND!" on Fri, 9 Oct 2026.
+1-800-Lucky is a music venue in Miami with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "PARAÍSO CARIBE: MIAMI CARNIVAL WEEKEND!" on Fri, 9 Oct 2026.
 
 1-800-Lucky is a music venue in Miami listed on soundcheck. 3 upcoming gigs, with line-ups including Sir Spyro. See dates, start times and who's playing. 143 NW 23rd St, Miami, FL 33127, USA.
 
@@ -16,4 +16,4 @@
 
 143 NW 23rd St, Miami, FL 33127, USA, Miami
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/1-800-lucky/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/1-800-lucky/)*

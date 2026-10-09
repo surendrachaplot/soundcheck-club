@@ -1,6 +1,6 @@
 # Avsluta
 
-Avsluta is a Ambient and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Club Cheek, London on Sat, 10 Oct 2026.
+Avsluta is a Ambient and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Club Cheek, London on Sat, 10 Oct 2026.
 
 Avsluta is an ambient and techno artist, with 64 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 7 more. Often billed alongside Alicia (UK), Christian Duka and Luther Vine. Next up: Club Cheek, London on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Avsluta is an ambient and techno artist, with 64 gigs on soundcheck across Amste
 
 Alicia (UK), Christian Duka, Luther Vine
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avsluta/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avsluta/)*

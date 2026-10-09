@@ -1,6 +1,6 @@
 # WHP presents: Worried About Henry at Depot Mayfield
 
-WHP presents: Worried About Henry at Depot Mayfield on Fri 9 Oct, Manchester. 52 artists: 2Shy MC, Alive, Andy C and BassLayerz and 48 more. Drum & Bass and Garage. See the line-up on soundcheck.
+WHP presents: Worried About Henry at Depot Mayfield on Fri 9 Oct, Manchester. 53 artists: 2Shy MC, Alive, Andy C and BassLayerz and 49 more. Drum & Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -35,6 +35,7 @@ WHP presents: Worried About Henry at Depot Mayfield on Fri 9 Oct, Manchester. 52
 - IC3
 - Inja
 - Joker
+- Jolie P
 - K Motionz
 - Killa P
 - Kings of the Rollers

@@ -1,6 +1,6 @@
 # DANIL0
 
-DANIL0 is a Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Cadavra, Madrid on Fri, 23 Oct 2026.
+DANIL0 is a Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Cadavra, Madrid on Fri, 23 Oct 2026.
 
 DANIL0 is an electronica artist based in Spain, with 16 gigs on soundcheck across Madrid. Often billed alongside Avo (ES), Cesc (ES) and Laurine. Next up: Cadavra, Madrid on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ DANIL0 is an electronica artist based in Spain, with 16 gigs on soundcheck acros
 
 Avo (ES), Cesc (ES), Laurine
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danil0/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danil0/)*

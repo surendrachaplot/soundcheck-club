@@ -1,6 +1,6 @@
 # Elly DJ
 
-Elly DJ is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Metropolitan Bar, New York City on Fri, 9 Oct 2026.
+Elly DJ is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Metropolitan Bar, New York City on Fri, 9 Oct 2026.
 
 Elly DJ is a techno and house artist based in United States of America, with 16 gigs on soundcheck across New York City. Often billed alongside Hannah Account, microfossil and Angel Money. Next up: Metropolitan Bar, New York City on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Elly DJ is a techno and house artist based in United States of America, with 16 
 
 Hannah Account, microfossil, Angel Money
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellydj/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellydj/)*

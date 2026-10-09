@@ -1,6 +1,6 @@
 # Under Bridge Madrid
 
-Under Bridge Madrid is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "DaH! Sessions x Under Bridge" on Sat, 10 Oct 2026.
+Under Bridge Madrid is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "DaH! Sessions x Under Bridge" on Sat, 10 Oct 2026.
 
 Under Bridge Madrid is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Diego Merino, DJ Marcos Boricua, Giulia Mad and Jobe1811. See dates, start times and who's playing. Calle de Caños Viejos, 3.
 
@@ -15,4 +15,4 @@ Under Bridge Madrid is a music venue in Madrid listed on soundcheck. 2 upcoming 
 
 Calle de Caños Viejos, 3, Madrid
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/under-bridge-madrid/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/under-bridge-madrid/)*

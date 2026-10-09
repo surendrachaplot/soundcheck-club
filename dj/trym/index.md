@@ -1,8 +1,8 @@
 # Trym
 
-Trym is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat, 17 Oct 2026.
+Trym is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat, 17 Oct 2026.
 
-Trym is a techno and trance artist based in France, with 183 gigs on soundcheck across Amsterdam, Antwerp, Arizona and Athens and 61 more. Often billed alongside Shlømo, Nico Moreno and 999999999. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat 17 Oct.
+Trym is a techno and trance artist based in France, with 184 gigs on soundcheck across Amsterdam, Antwerp, Arizona and Athens and 61 more. Often billed alongside Shlømo, Nico Moreno and 999999999. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Trym is a techno and trance artist based in France, with 183 gigs on soundcheck 
 | Sat, 21 Nov 2026 | The Garage | Madrid |
 | Fri, 27 Nov 2026 | Gate Milano | Milan |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 5 Dec 2026 | The Concourse Project | Austin |
 | Sat, 19 Dec 2026 | Hallenstadion | Zurich |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
@@ -35,4 +36,4 @@ Trym is a techno and trance artist based in France, with 183 gigs on soundcheck 
 
 Shlømo, Nico Moreno, 999999999
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trym/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trym/)*

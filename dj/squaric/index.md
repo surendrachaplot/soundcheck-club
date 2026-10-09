@@ -1,6 +1,6 @@
 # Squaric
 
-Squaric is a Techno and Experimental artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Bikini Club, Barcelona on Fri, 16 Oct 2026.
+Squaric is a Techno and Experimental artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Bikini Club, Barcelona on Fri, 16 Oct 2026.
 
 Squaric is a techno and experimental artist, with 103 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 14 more. Often billed alongside Atlantic Energy, Sender Berlin and Anri. Next up: Bikini Club, Barcelona on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Squaric is a techno and experimental artist, with 103 gigs on soundcheck across 
 
 Atlantic Energy, Sender Berlin, Anri
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/squaric/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/squaric/)*

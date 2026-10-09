@@ -1,8 +1,8 @@
 # Lee Burridge
 
-Lee Burridge is a Deep House and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at UKOKO CLUB, Costa-rica on Sat, 10 Oct 2026.
+Lee Burridge is a Deep House and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at UKOKO CLUB, Costa-rica on Sat, 10 Oct 2026.
 
-Lee Burridge is a deep house and house artist based in United Kingdom, with 150 gigs on soundcheck across Austin, Bali, Barcelona and Belgrade and 35 more. Often billed alongside Jim Rider, Tim Green and Double Touch. Next up: UKOKO CLUB, Costa Rica on Sat 10 Oct.
+Lee Burridge is a deep house and house artist based in United Kingdom, with 151 gigs on soundcheck across Austin, Bali, Barcelona and Belgrade and 35 more. Often billed alongside Jim Rider, Tim Green and Double Touch. Next up: UKOKO CLUB, Costa Rica on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,12 +13,12 @@ Lee Burridge is a deep house and house artist based in United Kingdom, with 150 
 | Sat, 17 Oct 2026 | TBA - Ciudad Universitaria, Belgrano | Buenos Aires |
 | Fri, 6 Nov 2026 | VENT | Tokyo |
 | Sat, 7 Nov 2026 | RASA | Singapore |
+| Sat, 7 Nov 2026 | RASA | Singapore |
 | Fri, 13 Nov 2026 | Zumana Bali | Bali |
 | Sun, 15 Nov 2026 | Savaya Bali | Bali |
 | Fri, 20 Nov 2026 | Beach Hotel - Byron Bay | Byron-bay |
 | Sat, 28 Nov 2026 | The Ivy | Sydney |
 | Sun, 29 Nov 2026 | Bourke Street Courtyard | Melbourne |
-| Fri, 18 Dec 2026 | Joshua Brooks | Manchester |
 | Fri, 18 Dec 2026 | Joshua Brooks | Manchester |
 
 ## Recently played
@@ -36,4 +36,4 @@ Lee Burridge is a deep house and house artist based in United Kingdom, with 150 
 
 Jim Rider, Tim Green, Double Touch
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*

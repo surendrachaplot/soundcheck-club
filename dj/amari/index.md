@@ -1,6 +1,6 @@
 # AMARI
 
-AMARI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Jazz Cafe, London on Fri, 9 Oct 2026.
+AMARI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Jazz Cafe, London on Fri, 9 Oct 2026.
 
 AMARI is a techno and house artist based in Japan, with 21 gigs on soundcheck across Antwerp, Chicago, London and Tokyo. Often billed alongside cosmolady, Alex Kislov and REKI. Next up: The Jazz Cafe, London on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ AMARI is a techno and house artist based in Japan, with 21 gigs on soundcheck ac
 
 cosmolady, Alex Kislov, REKI
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amari/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amari/)*

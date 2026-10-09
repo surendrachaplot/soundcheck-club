@@ -1,6 +1,6 @@
 # Tau Car
 
-Tau Car is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
+Tau Car is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
 
 Tau Car is a house and electro artist based in France, with 115 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 27 more. Often billed alongside International Mac, Edward and Konstantin. Next up: Klaproos, Amsterdam on Sun 25 Oct.
 
@@ -9,7 +9,7 @@ Tau Car is a house and electro artist based in France, with 115 gigs on soundche
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Klaproos | Amsterdam |
-| Fri, 6 Nov 2026 | Fvtvr | Paris |
+| Fri, 6 Nov 2026 | FVTVR | Paris |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Tau Car is a house and electro artist based in France, with 115 gigs on soundche
 
 International Mac, Edward, Konstantin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taucar/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taucar/)*

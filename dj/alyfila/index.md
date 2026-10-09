@@ -1,14 +1,13 @@
 # Aly & Fila
 
-Aly & Fila is a Trance and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Óbuda Bay, Budapest on Sat, 10 Oct 2026.
+Aly & Fila is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
-Aly & Fila are a trance and progressive house duo based in Egypt, with 51 gigs on soundcheck across Amsterdam, Auckland, Austin and Berlin and 25 more. Often billed alongside Paul Van Dyk, Ferry Corsten and John O'Callaghan. Next up: Óbuda Bay, Budapest on Sat 10 Oct.
+Aly & Fila are a trance and progressive house duo based in Egypt, with 50 gigs on soundcheck across Amsterdam, Auckland, Austin and Berlin and 24 more. Often billed alongside Paul Van Dyk, Ferry Corsten and John O'Callaghan. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Óbuda Bay | Budapest |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 | Sat, 12 Jun 2027 | Steelyard Kelham | Sheffield |
 
@@ -27,4 +26,4 @@ Aly & Fila are a trance and progressive house duo based in Egypt, with 51 gigs o
 
 Paul Van Dyk, Ferry Corsten, John O'Callaghan
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alyfila/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alyfila/)*

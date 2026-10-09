@@ -1,6 +1,6 @@
 # Lola Cerise
 
-Lola Cerise is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
+Lola Cerise is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
 
 Lola Cerise is a techno and trance artist based in France, with 54 gigs on soundcheck across Amsterdam, Basel, Berlin and Bristol and 19 more. Often billed alongside KLOUD, Kander and dasstudach. Next up: Airport Würzburg, Nürnberg on Fri 16 Oct.
 
@@ -34,4 +34,4 @@ Lola Cerise is a techno and trance artist based in France, with 54 gigs on sound
 
 KLOUD, Kander, dasstudach
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolacerise/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolacerise/)*

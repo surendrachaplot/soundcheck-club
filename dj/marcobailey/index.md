@@ -1,8 +1,8 @@
 # Marco Bailey
 
-Marco Bailey is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Tunnel Club, Pereira on Sat, 17 Oct 2026.
+Marco Bailey is a Techno and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Tunnel Club, Pereira on Sat, 17 Oct 2026.
 
-Marco Bailey is a techno and tech house artist based in Belgium, with 95 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 36 more. Often billed alongside SNTS, Chris Liebing and Dave Clarke. Next up: Tunnel Club, Pereira on Sat 17 Oct.
+Marco Bailey is a techno and tech house artist based in Belgium, with 98 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 38 more. Often billed alongside SNTS, Chris Liebing and Cristian Varela. Next up: Tunnel Club, Pereira on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,9 @@ Marco Bailey is a techno and tech house artist based in Belgium, with 95 gigs on
 | Sat, 17 Oct 2026 | Tunnel Club | Pereira |
 | Sat, 24 Oct 2026 | Basement (Amsterdam) | Amsterdam |
 | Tue, 27 Oct 2026 | Soul SKG | Thessaloniki |
+| Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
+| Sat, 21 Nov 2026 | Le Sucre | Lyon |
+| Sat, 5 Dec 2026 | Lalín Arena | North |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 
 ## Recently played
@@ -26,6 +29,6 @@ Marco Bailey is a techno and tech house artist based in Belgium, with 95 gigs on
 
 ## Shares bills with
 
-SNTS, Chris Liebing, Dave Clarke
+SNTS, Chris Liebing, Cristian Varela
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobailey/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobailey/)*

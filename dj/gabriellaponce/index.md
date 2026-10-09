@@ -1,6 +1,6 @@
 # Gabriella Ponce
 
-Gabriella Ponce is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at La Gata del Born, Barcelona on Fri, 9 Oct 2026.
+Gabriella Ponce is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at La Gata del Born, Barcelona on Fri, 9 Oct 2026.
 
 Gabriella Ponce is a techno and electronica artist, with 37 gigs on soundcheck across Barcelona. Often billed alongside Nicolas Gazitua, XipNoize and Gabo Oliveira. Next up: La Gata del Born, Barcelona on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Gabriella Ponce is a techno and electronica artist, with 37 gigs on soundcheck a
 
 Nicolas Gazitua, XipNoize, Gabo Oliveira
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellaponce/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellaponce/)*

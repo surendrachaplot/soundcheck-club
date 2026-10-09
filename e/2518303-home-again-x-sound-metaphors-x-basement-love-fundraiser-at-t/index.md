@@ -22,11 +22,11 @@ Home Again x Sound Metaphors x Basement Love Fundraiser at TILLATEC on Sat 24 Oc
 - Doudou MD
 - Duncan Thomas
 - Giammarco Orsini
-- LOVEFOXY
 - Merve
 - Natalie Robinson
 - PNNY
 - Simone de Kunovich
+- Soulidan
 - Sound Metaphors Djs
 - Thabo
 - Tiago Oudman

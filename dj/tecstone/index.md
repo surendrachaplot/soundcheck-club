@@ -1,8 +1,8 @@
 # TECSTONE
 
-TECSTONE is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at White Space Lab, Tokyo on Fri, 9 Oct 2026.
+TECSTONE is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at White Space Lab, Tokyo on Fri, 9 Oct 2026.
 
-TECSTONE is a techno and house artist based in Japan, with 24 gigs on soundcheck across Tokyo. Often billed alongside ALLY, SIGNAL (JP) and Krankent. Next up: White Space Lab, Tokyo on Fri 9 Oct.
+TECSTONE is a techno and house artist based in Japan, with 25 gigs on soundcheck across Tokyo. Often billed alongside ALLY, SIGNAL (JP) and Fabian Laute. Next up: White Space Lab, Tokyo on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ TECSTONE is a techno and house artist based in Japan, with 24 gigs on soundcheck
 
 ## Recently played
 
+- Ruby Room, Tokyo · Thu, 8 Oct 2026
 - Under The Palmo, Tokyo · Sun, 4 Oct 2026
 - Decabar Super, Tokyo · Fri, 25 Sept 2026
 - DeTour, Tokyo · Fri, 18 Sept 2026
@@ -22,10 +23,9 @@ TECSTONE is a techno and house artist based in Japan, with 24 gigs on soundcheck
 - White Space Lab, Tokyo · Fri, 14 Aug 2026
 - UTOPIA / DYSTOPIA, Tokyo · Sat, 8 Aug 2026
 - R Lounge, Tokyo · Fri, 3 Jul 2026
-- MEIMEI, Tokyo · Thu, 25 Jun 2026
 
 ## Shares bills with
 
-ALLY, SIGNAL (JP), Krankent
+ALLY, SIGNAL (JP), Fabian Laute
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tecstone/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tecstone/)*

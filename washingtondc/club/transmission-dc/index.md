@@ -1,14 +1,13 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 13 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Substrate Pres. Wata Igarashi" on Thu, 8 Oct 2026.
+TRANSMISSION DC is a music venue in Washington DC with 12 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Octo Octa & Faited pres. by Doll Factory x Hyperdrum" on Fri, 9 Oct 2026.
 
-TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 13 upcoming gigs, with line-ups including 1tbsp, 6 SENSE, Artemis.105 and claire.h0e and 2 more. See dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
+TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 12 upcoming gigs, with line-ups including 1tbsp, 6 SENSE, claire.h0e and D.Dan and 2 more. See dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Substrate Pres. Wata Igarashi | Artemis.105, Wata Igarashi |
 | Fri, 9 Oct 2026 | Octo Octa & Faited pres. by Doll Factory x Hyperdrum | Dee Clark, Faited, Mrs. Qbert, Octo Octa, Solidare, Vivian Oblivion, claire.h0e |
 | Wed, 14 Oct 2026 | Relay: Decimate, Electric Dad, Lock B2b Shy, Raveraffe |  |
 | Thu, 15 Oct 2026 | SUBSTRATE: Shed | Shed |
@@ -18,9 +17,10 @@ TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 13 upcom
 | Fri, 6 Nov 2026 | SUBSTRATE: Pariah | Pariah |
 | Sat, 7 Nov 2026 | Mood II Swing | Diyanna Monet, Mood II Swing, My Friend Jack |
 | Thu, 12 Nov 2026 | Substrate Pres. FJAAK, 6SENSE | 6 SENSE, FJAAK |
+| Thu, 19 Nov 2026 | SUBSTRATE: Jacq Jill | Jacq Jill |
 
 ## Address
 
 1353 H st NE, Washington, DC, 20002, Washington DC
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*

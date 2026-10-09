@@ -1,6 +1,6 @@
 # nima (2)
 
-nima (2) is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at rake?raka?, Osaka on Fri, 9 Oct 2026.
+nima (2) is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at rake?raka?, Osaka on Fri, 9 Oct 2026.
 
 nima is a techno and deep house artist based in Japan, with 13 gigs on soundcheck across Brighton and Osaka. Often billed alongside Phekam, SIROH and Sonny Vercetti. Next up: rake?raka?, Osaka on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ nima is a techno and deep house artist based in Japan, with 13 gigs on soundchec
 
 Phekam, SIROH, Sonny Vercetti
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nima-2/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nima-2/)*

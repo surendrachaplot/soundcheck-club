@@ -16,14 +16,14 @@ Road to Trotamundo at H0L0 on Sat 10 Oct, New York City. 16 artists: !NN, Alec F
 - CAMILLA
 - David Berrie
 - DJ Rino
+- Dylan Schwartz
 - Harrisôn
 - Kurilo
 - Lorenzo Slider
-- MANNY
+- Manny (us)
 - Matt Foley
 - Max Sprauer
 - RAAUL
-- San Dee
 - SOLANA
 - Woreq
 

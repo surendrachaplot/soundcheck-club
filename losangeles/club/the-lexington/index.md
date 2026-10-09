@@ -1,8 +1,8 @@
 # The Lexington
 
-The Lexington is a music venue in Los Angeles with 16 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "NIGHTSHIFT AFTER HOURS" on Thu, 8 Oct 2026.
+The Lexington is a music venue in Los Angeles with 18 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "NIGHTSHIFT AFTER HOURS" on Thu, 8 Oct 2026.
 
-The Lexington is a music venue in Los Angeles listed on soundcheck. 16 upcoming gigs. See dates, start times and who's playing. 129 E. 3rd St, Los Angeles, Ca, 90013.
+The Lexington is a music venue in Los Angeles listed on soundcheck. 18 upcoming gigs. See dates, start times and who's playing. 129 E. 3rd St, Los Angeles, Ca, 90013.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Lexington is a music venue in Los Angeles listed on soundcheck. 16 upcoming 
 
 129 E. 3rd St, Los Angeles, Ca, 90013, Los Angeles
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-lexington/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-lexington/)*

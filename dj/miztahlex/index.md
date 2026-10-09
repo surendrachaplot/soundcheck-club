@@ -1,8 +1,8 @@
 # MIZTAH LEX
 
-MIZTAH LEX is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at KEYBAR, New York City on Sun, 11 Oct 2026.
+MIZTAH LEX is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at KEYBAR, New York City on Sun, 11 Oct 2026.
 
-MIZTAH LEX is a drum & bass and house artist, with 10 gigs on soundcheck across Boston, Detroit and New York City. Often billed alongside DJ Paul C, Soul Clap and Ben UFO. Next up: KEYBAR, New York City on Sun 11 Oct.
+MIZTAH LEX is a drum & bass and house artist based in United States of America, with 10 gigs on soundcheck across Boston, Detroit and New York City. Often billed alongside DJ Paul C, Soul Clap and Ben UFO. Next up: KEYBAR, New York City on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ MIZTAH LEX is a drum & bass and house artist, with 10 gigs on soundcheck across 
 
 DJ Paul C, Soul Clap, Ben UFO
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miztahlex/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miztahlex/)*

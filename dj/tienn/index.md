@@ -1,13 +1,14 @@
 # Tienn
 
-Tienn is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Frankie's, Vancouver on Sat, 31 Oct 2026.
+Tienn is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Gorg-O-Mish, Vancouver on Fri, 23 Oct 2026.
 
-Tienn is a house and techno artist based in Canada, with 11 gigs on soundcheck across Vancouver. Often billed alongside Briser Gonzalez, Melt (CA) and Mike McSuede. Next up: Frankie's, Vancouver on Sat 31 Oct.
+Tienn is a house and techno artist based in Canada, with 12 gigs on soundcheck across Vancouver. Often billed alongside Briser Gonzalez, Melt (CA) and Mike McSuede. Next up: Gorg-O-Mish, Vancouver on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Gorg-O-Mish | Vancouver |
 | Sat, 31 Oct 2026 | Frankie's | Vancouver |
 
 ## Recently played
@@ -25,4 +26,4 @@ Tienn is a house and techno artist based in Canada, with 11 gigs on soundcheck a
 
 Briser Gonzalez, Melt (CA), Mike McSuede
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tienn/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tienn/)*

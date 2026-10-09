@@ -1,14 +1,13 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 25 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "UNITY AT KITKAT CLUB" on Thu, 8 Oct 2026.
+KitKatClub is a music venue in Berlin with 24 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "PSYCHO Kiss" on Fri, 9 Oct 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 25 upcoming gigs, with line-ups including AAguilAA, Alessia Cattani, Alessio Collina and androgienia and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 24 upcoming gigs, with line-ups including AAguilAA, Alessia Cattani, Alessio Collina and androgienia and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | UNITY AT KITKAT CLUB |  |
 | Fri, 9 Oct 2026 | PSYCHO Kiss | Ari Denaro, Daora |
 | Fri, 9 Oct 2026 | LIMINAL |  |
 | Sun, 11 Oct 2026 | Nachspiel |  |
@@ -18,9 +17,10 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 25 upcoming gigs, wi
 | Mon, 19 Oct 2026 | Electric Monday@KitKat | Alessio Collina, Brizman, Frankie Flowerz |
 | Wed, 21 Oct 2026 | SYMBIOTIKKA at KitKat Club Berlin | DJ Emerson, DJ Jordan, Oscar Diaz, Stuckeyrella |
 | Fri, 23 Oct 2026 | The 32 Year Mystic Rose Celebration meets TRISTAN | BERLIN, Der Würfler, Gandalf |
+| Sun, 25 Oct 2026 | Nachspiel | Daora |
 
 ## Address
 
 Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*

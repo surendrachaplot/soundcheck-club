@@ -1,6 +1,6 @@
 # No Promises
 
-No Promises is a Ghetto Tech and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at The Red Pavilion, New York City on Fri, 9 Oct 2026.
+No Promises is a Ghetto Tech and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at The Red Pavilion, New York City on Fri, 9 Oct 2026.
 
 No Promises is a ghetto tech and club artist based in United States of America, with 20 gigs on soundcheck across New York City. Often billed alongside purp, Bodegaparty and Honey Bun. Next up: The Red Pavilion, New York City on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ No Promises is a ghetto tech and club artist based in United States of America, 
 
 purp, Bodegaparty, Honey Bun
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nopromises/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nopromises/)*

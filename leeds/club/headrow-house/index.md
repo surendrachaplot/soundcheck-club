@@ -1,8 +1,8 @@
 # Headrow House
 
-Headrow House is a music venue in Leeds with 19 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "2charm" on Tue, 13 Oct 2026.
+Headrow House is a music venue in Leeds with 19 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "2charm" on Tue, 13 Oct 2026.
 
-Headrow House is a music venue in Leeds listed on soundcheck. 19 upcoming gigs, with line-ups including Buckley (UK), Capo Lee, DJ LUMBRIDGE and Esdaile and 2 more. See dates, start times and who's playing. Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom.
+Headrow House is a music venue in Leeds listed on soundcheck. 19 upcoming gigs, with line-ups including Buckley (UK), Capo Lee, DJ LUMBRIDGE and Dublon and 2 more. See dates, start times and who's playing. Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Headrow House is a music venue in Leeds listed on soundcheck. 19 upcoming gigs, 
 
 Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom, Leeds
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*

@@ -1,8 +1,8 @@
 # Luca Agnelli
 
-Luca Agnelli is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Audiodrome, Turin on Fri, 16 Oct 2026.
+Luca Agnelli is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Audiodrome, Turin on Fri, 16 Oct 2026.
 
-Luca Agnelli is a techno and hardcore artist based in Italy, with 100 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 38 more. Often billed alongside Gianni Di Bernardo, OMAKS and ANXHELA. Next up: Audiodrome, Turin on Fri 16 Oct.
+Luca Agnelli is a techno and hardcore artist based in Italy, with 101 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 38 more. Often billed alongside Gianni Di Bernardo, OMAKS and ANXHELA. Next up: Audiodrome, Turin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Luca Agnelli is a techno and hardcore artist based in Italy, with 100 gigs on so
 | Fri, 23 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Sat, 31 Oct 2026 | TBA - Autodromo di Imola | Central |
 | Fri, 20 Nov 2026 | Club Vinyl | Denver |
+| Fri, 4 Dec 2026 | BASIS | Utrecht |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Luca Agnelli is a techno and hardcore artist based in Italy, with 100 gigs on so
 
 Gianni Di Bernardo, OMAKS, ANXHELA
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaagnelli/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaagnelli/)*

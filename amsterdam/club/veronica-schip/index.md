@@ -1,6 +1,6 @@
 # Veronica Schip
 
-Veronica Schip is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Yummy Trax" on Sat, 10 Oct 2026.
+Veronica Schip is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Yummy Trax" on Sat, 10 Oct 2026.
 
 Veronica Schip is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including ArioVistus, Bakio, Baliology and Belocca and 2 more. See dates, start times and who's playing. NDSM-Pier 1, 1033 RG Amsterdam, Netherlands.
 
@@ -19,4 +19,4 @@ Veronica Schip is a music venue in Amsterdam listed on soundcheck. 6 upcoming gi
 
 NDSM-Pier 1, 1033 RG Amsterdam, Netherlands, Amsterdam
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/veronica-schip/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/veronica-schip/)*

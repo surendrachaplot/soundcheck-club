@@ -1,6 +1,6 @@
 # Cora Lee
 
-Cora Lee is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at JAKI, Cologne on Fri, 9 Oct 2026.
+Cora Lee is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at JAKI, Cologne on Fri, 9 Oct 2026.
 
 Cora Lee is a house and deep house artist based in Germany, with 4 gigs on soundcheck across Berlin and Cologne. Often billed alongside Cardi-O, Kristina Sheli and LIZZN. Next up: JAKI, Cologne on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ Cora Lee is a house and deep house artist based in Germany, with 4 gigs on sound
 
 Cardi-O, Kristina Sheli, LIZZN
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coralee/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coralee/)*

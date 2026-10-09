@@ -1,6 +1,6 @@
 # Niv Yefet
 
-Niv Yefet is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Silencio, Paris on Thu, 22 Oct 2026.
+Niv Yefet is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Silencio, Paris on Thu, 22 Oct 2026.
 
 Niv Yefet is a house and tech house artist based in France, with 14 gigs on soundcheck across Amsterdam, Ibiza, London and Miami and 2 more. Often billed alongside Guy Gerber, Saraga and Singi. Next up: Silencio, Paris on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Niv Yefet is a house and tech house artist based in France, with 14 gigs on soun
 
 Guy Gerber, Saraga, Singi
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nivyefet/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nivyefet/)*

@@ -1,8 +1,8 @@
 # David Morales
 
-David Morales is a House and Disco artist with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Fabbrica del Vapore, Milan on Sun, 11 Oct 2026.
+David Morales is a House and Disco artist with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Fabbrica del Vapore, Milan on Sun, 11 Oct 2026.
 
-David Morales is a house and disco artist based in United States of America, with 200 gigs on soundcheck across Amsterdam, Athens, Bangkok and Basel and 40 more. Often billed alongside Louie Vega, Melvo Baptiste and DJ Paulette. Next up: Fabbrica del Vapore, Milan on Sun 11 Oct.
+David Morales is a house and disco artist based in United States of America, with 201 gigs on soundcheck across Amsterdam, Athens, Bangkok and Basel and 40 more. Often billed alongside Louie Vega, Melvo Baptiste and DJ Paulette. Next up: Fabbrica del Vapore, Milan on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ David Morales is a house and disco artist based in United States of America, wit
 | Wed, 21 Oct 2026 | Pikes Ibiza | Ibiza |
 | Sat, 24 Oct 2026 | Refuge | New York City |
 | Sun, 25 Oct 2026 | Refuge | New York City |
+| Sun, 1 Nov 2026 | Bolivar Beach Bar | Athens |
 | Fri, 13 Nov 2026 | Panama | Amsterdam |
 | Fri, 20 Nov 2026 | Sable Miami | Miami |
 | Thu, 26 Nov 2026 | Refuge | New York City |
@@ -34,4 +35,4 @@ David Morales is a house and disco artist based in United States of America, wit
 
 Louie Vega, Melvo Baptiste, DJ Paulette
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmorales/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmorales/)*

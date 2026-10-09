@@ -1,0 +1,28 @@
+# Organza
+
+Organza is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Renate, Berlin on Sat, 31 Oct 2026.
+
+Organza is a house and techno artist based in Germany, with 39 gigs on soundcheck across Berlin. Often billed alongside elliephunk, materia hache and Kidcat. Next up: Renate, Berlin on Sat 31 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 31 Oct 2026 | Renate | Berlin |
+
+## Recently played
+
+- Renate, Berlin · Fri, 11 Sept 2026
+- Kater, Berlin · Fri, 28 Aug 2026
+- Bulbul Berlin, Berlin · Sat, 15 Aug 2026
+- Renate, Berlin · Fri, 24 Jul 2026
+- Wagenburg Lohmühle Berlin, Berlin · Sat, 18 Jul 2026
+- Maaya, Berlin · Thu, 16 Jul 2026
+- KREUZWERK, Berlin · Sat, 13 Jun 2026
+- Bulbul Berlin, Berlin · Thu, 28 May 2026
+
+## Shares bills with
+
+elliephunk, materia hache, Kidcat
+
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/organza/)*

@@ -1,14 +1,14 @@
 # Adam Bogdan
 
-Adam Bogdan is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Miami, Miami on Sat, 10 Oct 2026.
+Adam Bogdan is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Paraiso Estereo, Miami on Sat, 10 Oct 2026.
 
-Adam Bogdan is a house and minimal techno artist based in Romania, with 32 gigs on soundcheck across Miami. Often billed alongside Boghian, GALI and Jason Rault. Next up: TBA - Miami, Miami on Sat 10 Oct.
+Adam Bogdan is a house and minimal techno artist based in Romania, with 32 gigs on soundcheck across Miami. Often billed alongside Boghian, GALI and Jason Rault. Next up: Paraiso Estereo, Miami on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | TBA - Miami | Miami |
+| Sat, 10 Oct 2026 | Paraiso Estereo | Miami |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Adam Bogdan is a house and minimal techno artist based in Romania, with 32 gigs 
 
 Boghian, GALI, Jason Rault
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adambogdan/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adambogdan/)*

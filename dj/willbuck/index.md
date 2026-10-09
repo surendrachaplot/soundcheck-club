@@ -1,19 +1,19 @@
 # Will Buck
 
-Will Buck is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Mad Radio Miami, Miami on Thu, 8 Oct 2026.
+Will Buck is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Will Buck is a house and techno artist based in United States of America, with 72 gigs on soundcheck across Berlin, Miami and New York City. Often billed alongside Deo'jorge, Anna Collecta and Bakke. Next up: Mad Radio Miami, Miami on Thu 8 Oct.
+Will Buck is a house and techno artist based in United States of America, with 72 gigs on soundcheck across Berlin, Miami and New York City. Often billed alongside Deo'jorge, Anna Collecta and Bakke. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Mad Radio Miami | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 30 Oct 2026 | Club Space Miami | Miami |
 
 ## Recently played
 
+- Mad Radio Miami, Miami · Thu, 8 Oct 2026
 - Floyd, Miami · Sat, 3 Oct 2026
 - Dead Letter No. 9, New York City · Sat, 26 Sept 2026
 - Floyd, Miami · Sat, 19 Sept 2026
@@ -21,10 +21,9 @@ Will Buck is a house and techno artist based in United States of America, with 7
 - Fooq's Miami, Miami · Sat, 18 Jul 2026
 - Club Space Miami, Miami · Sat, 4 Jul 2026
 - Club Space Miami, Miami · Fri, 19 Jun 2026
-- SILO, New York City · Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Deo'jorge, Anna Collecta, Bakke
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willbuck/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willbuck/)*

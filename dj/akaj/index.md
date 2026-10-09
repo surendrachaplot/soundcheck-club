@@ -1,14 +1,14 @@
 # Akaj
 
-Akaj is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Fvtvr, Paris on Fri, 9 Oct 2026.
+Akaj is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at FVTVR, Paris on Fri, 9 Oct 2026.
 
-Akaj is a house and electro artist based in Slovenia, with 31 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Audri, Eliza and Enrica Hz. Next up: Fvtvr, Paris on Fri 9 Oct.
+Akaj is a house and electro artist based in Slovenia, with 31 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Audri, Eliza and Enrica Hz. Next up: FVTVR, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Fvtvr | Paris |
+| Fri, 9 Oct 2026 | FVTVR | Paris |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Akaj is a house and electro artist based in Slovenia, with 31 gigs on soundcheck
 
 Audri, Eliza (2), Enrica Hz
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akaj/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akaj/)*

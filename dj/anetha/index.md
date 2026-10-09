@@ -1,6 +1,6 @@
 # Anetha
 
-Anetha is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Palladium, Geneva on Sat, 10 Oct 2026.
+Anetha is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Palladium, Geneva on Sat, 10 Oct 2026.
 
 Anetha is a techno and house artist based in France, with 214 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 62 more. Often billed alongside Mac Declos, SPFDJ and VEL (MA). Next up: Palladium, Geneva on Sat 10 Oct.
 
@@ -36,4 +36,4 @@ Anetha is a techno and house artist based in France, with 214 gigs on soundcheck
 
 Mac Declos, SPFDJ, VEL (MA)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anetha/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anetha/)*

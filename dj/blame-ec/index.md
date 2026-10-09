@@ -1,6 +1,6 @@
 # Blame (EC)
 
-Blame (EC) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 9 Oct 2026.
+Blame (EC) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 9 Oct 2026.
 
 Blame (EC) is a house and electro artist based in Ecuador, with 14 gigs on soundcheck across Berlin, Miami and Tbilisi. Often billed alongside Retronika, Jacob (UK) and San Dee. Next up: Mtkvarze, Tbilisi on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Blame (EC) is a house and electro artist based in Ecuador, with 14 gigs on sound
 
 Retronika, Jacob (UK), San Dee
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blame-ec/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blame-ec/)*

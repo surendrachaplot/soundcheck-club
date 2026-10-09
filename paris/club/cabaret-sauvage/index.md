@@ -1,6 +1,6 @@
 # Cabaret Sauvage
 
-Cabaret Sauvage is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "¡La fessée Sauvage #4 with Henrik Schwarz (Extended Live 2h)" on Fri, 9 Oct 2026.
+Cabaret Sauvage is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "¡La fessée Sauvage #4 with Henrik Schwarz (Extended Live 2h)" on Fri, 9 Oct 2026.
 
 Cabaret Sauvage is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including Aubry, BAB MUSIQUE, Basile de Suresnes and Chinau and 2 more. See dates, start times and who's playing. 211 Avenue Jean Jaurès; 75019; Paris; France.
 
@@ -21,4 +21,4 @@ Cabaret Sauvage is a music venue in Paris listed on soundcheck. 8 upcoming gigs,
 
 211 Avenue Jean Jaurès; 75019; Paris; France, Paris
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cabaret-sauvage/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cabaret-sauvage/)*

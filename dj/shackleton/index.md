@@ -1,13 +1,14 @@
 # Shackleton
 
-Shackleton is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at The Garden Tisno, London on Thu, 22 Jul 2027.
+Shackleton is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at EartH, London on Sat, 5 Dec 2026.
 
-Shackleton is an experimental and techno artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 24 more. Often billed alongside upsammy, ojoo and Al Wootton. Next up: The Garden Tisno, London on Thu 22 Jul.
+Shackleton is an experimental and techno artist based in United Kingdom, with 68 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 24 more. Often billed alongside upsammy, ojoo and Al Wootton. Next up: EartH, London on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | EartH | London |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Shackleton is an experimental and techno artist based in United Kingdom, with 67
 
 upsammy, ojoo, Al Wootton
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shackleton/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shackleton/)*

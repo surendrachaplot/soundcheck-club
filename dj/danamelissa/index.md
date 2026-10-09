@@ -1,14 +1,15 @@
 # Dana Melissa
 
-Dana Melissa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Kramladen, Vienna on Sat, 10 Oct 2026.
+Dana Melissa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Kramladen, Vienna on Sat, 10 Oct 2026.
 
-Dana Melissa is a techno and house artist based in Austria, with 46 gigs on soundcheck across Amsterdam and Vienna. Often billed alongside Huebl, Albin Brezlan and Mark Michael. Next up: Kramladen, Vienna on Sat 10 Oct.
+Dana Melissa is a techno and house artist based in Austria, with 47 gigs on soundcheck across Amsterdam and Vienna. Often billed alongside Huebl, Albin Brezlan and Mark Michael. Next up: Kramladen, Vienna on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Kramladen | Vienna |
+| Sat, 7 Nov 2026 | Das Werk | Vienna |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Dana Melissa is a techno and house artist based in Austria, with 46 gigs on soun
 
 Huebl, Albin Brezlan, Mark Michael
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danamelissa/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danamelissa/)*

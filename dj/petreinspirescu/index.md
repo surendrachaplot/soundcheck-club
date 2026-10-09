@@ -1,8 +1,8 @@
 # Petre Inspirescu
 
-Petre Inspirescu is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Mago, Chubu on Fri, 23 Oct 2026.
+Petre Inspirescu is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Mago, Chubu on Fri, 23 Oct 2026.
 
-Petre Inspirescu is a house and minimal artist based in Romania, with 76 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Rhadoo, Raresh and RPR Soundsystem. Next up: Mago, Chubu on Fri 23 Oct.
+Petre Inspirescu is a house and minimal artist based in Romania, with 77 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Rhadoo, Raresh and RPR Soundsystem. Next up: Mago, Chubu on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Petre Inspirescu is a house and minimal artist based in Romania, with 76 gigs on
 | Fri, 23 Oct 2026 | Mago | Chubu |
 | Sat, 24 Oct 2026 | Club Metro | Kyoto |
 | Sat, 12 Dec 2026 | fabric | London |
+| Sat, 12 Dec 2026 | Ampere | Antwerp |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Petre Inspirescu is a house and minimal artist based in Romania, with 76 gigs on
 
 Rhadoo, Raresh, RPR Soundsystem
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petreinspirescu/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petreinspirescu/)*

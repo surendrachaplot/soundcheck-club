@@ -1,6 +1,6 @@
 # Andras Bader
 
-Andras Bader is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Toldi Klub, Budapest on Thu, 22 Oct 2026.
+Andras Bader is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Toldi Klub, Budapest on Thu, 22 Oct 2026.
 
 Andras Bader is a house and minimal techno artist, with 14 gigs on soundcheck across Budapest. Often billed alongside Beta, Ben Dover and Krics. Next up: Toldi Klub, Budapest on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Andras Bader is a house and minimal techno artist, with 14 gigs on soundcheck ac
 
 Beta, Ben Dover, Krics
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrasbader/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrasbader/)*

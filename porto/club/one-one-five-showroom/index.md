@@ -1,6 +1,6 @@
 # One One Five Showroom
 
-One One Five Showroom is a music venue in Porto with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "RE-CLUBBING & PLANO RECORDS invites KOKOLO REC // SHOWROOM // DAY TIME (FREE ENTRY TILL 15:30)" on Sat, 10 Oct 2026.
+One One Five Showroom is a music venue in Porto with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. The next is "RE-CLUBBING & PLANO RECORDS invites KOKOLO REC // SHOWROOM // DAY TIME (FREE ENTRY TILL 15:30)" on Sat, 10 Oct 2026.
 
 One One Five Showroom is a music venue in Porto listed on soundcheck. 1 upcoming gig, with line-ups including Alfonsvs, Raf & Rod and XipNoize. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ One One Five Showroom is a music venue in Porto listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | RE-CLUBBING & PLANO RECORDS invites KOKOLO REC // SHOWROOM // DAY TIME (FREE ENTRY TILL 15:30) | Alfonsvs, Raf & Rod, XipNoize |
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/one-one-five-showroom/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/one-one-five-showroom/)*

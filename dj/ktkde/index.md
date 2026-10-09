@@ -1,6 +1,6 @@
 # KTK (DE)
 
-KTK (DE) is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Chinastraat, Ghent on Fri, 9 Oct 2026.
+KTK (DE) is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Chinastraat, Ghent on Fri, 9 Oct 2026.
 
 KTK (DE) is a techno and trance artist, with 98 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside DLV, BIIANCO and Kander. Next up: Chinastraat, Ghent on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ KTK (DE) is a techno and trance artist, with 98 gigs on soundcheck across Amster
 
 DLV, BIIANCO, Kander
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ktkde/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ktkde/)*

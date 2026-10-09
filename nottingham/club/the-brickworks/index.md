@@ -1,6 +1,6 @@
 # The Brickworks
 
-The Brickworks is a music venue in Nottingham with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "35 years of Smokescreen Soundsystem with X-press 2" on Fri, 9 Oct 2026.
+The Brickworks is a music venue in Nottingham with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "35 years of Smokescreen Soundsystem with X-press 2" on Fri, 9 Oct 2026.
 
 The Brickworks is a music venue in Nottingham listed on soundcheck. 6 upcoming gigs, with line-ups including bullet tooth, Channel One Sound, Frandanski and Milzy and 2 more. See dates, start times and who's playing. Newark St, Nottingham, NG2 4PP United Kingdom.
 
@@ -19,4 +19,4 @@ The Brickworks is a music venue in Nottingham listed on soundcheck. 6 upcoming g
 
 Newark St, Nottingham, NG2 4PP United Kingdom, Nottingham
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-brickworks/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-brickworks/)*

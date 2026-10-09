@@ -1,6 +1,6 @@
 # Sensorium
 
-Sensorium is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "ABANDONED FACTORY RESIDENTS VINYL-ONLY NIGHT" on Fri, 9 Oct 2026.
+Sensorium is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "ABANDONED FACTORY RESIDENTS VINYL-ONLY NIGHT" on Fri, 9 Oct 2026.
 
 Sensorium is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line-ups including babymullet, Bee Lincoln, Blck-Swan and Bouquet and 2 more. See dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
 
@@ -23,4 +23,4 @@ Sensorium is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, wit
 
 warschauer platz 18, 10245 Berlin, Berlin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*

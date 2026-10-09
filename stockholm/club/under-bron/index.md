@@ -1,8 +1,8 @@
 # Under Bron
 
-Under Bron is a music venue in Stockholm with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Freddy K, Ms. K, Andree Bohlin" on Fri, 9 Oct 2026.
+Under Bron is a music venue in Stockholm with 12 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Freddy K, Ms. K, Andree Bohlin" on Fri, 9 Oct 2026.
 
-Under Bron is a music venue in Stockholm listed on soundcheck. 11 upcoming gigs, with line-ups including Andree Bohlin, Anthony Linell, Billie Jo and Boj Lucki and 2 more. See dates, start times and who's playing. Hammarby slussväg 2, 118 60 Stockholm, Sweden.
+Under Bron is a music venue in Stockholm listed on soundcheck. 12 upcoming gigs, with line-ups including Andree Bohlin, Anthony Linell, Billie Jo and Boj Lucki and 2 more. See dates, start times and who's playing. Hammarby slussväg 2, 118 60 Stockholm, Sweden.
 
 ## What's on
 
@@ -12,15 +12,15 @@ Under Bron is a music venue in Stockholm listed on soundcheck. 11 upcoming gigs,
 | Sat, 10 Oct 2026 | Rhadoo All Night Long | Rhadoo |
 | Sat, 10 Oct 2026 | Snack Jam - free entry |  |
 | Fri, 16 Oct 2026 | Ritmo Liminal presents: Moopie | Moopie |
+| Fri, 16 Oct 2026 | Ritmo Liminal presents: Moopie | Mattias El Mansouri, Moopie, Sergej Orlov |
 | Sat, 17 Oct 2026 | Scandinavian Swords: Martinou (LIVE), Jin Mustafa, Anthony Linell | Anthony Linell, Jin Mustafa, Martinou |
 | Fri, 23 Oct 2026 | Jessie invites: Henning Baer, Daniel[i], Jessie Granqvist | Daniel[i], Henning Baer, Jessie Granqvist |
 | Sat, 24 Oct 2026 | Lien invites: Gabbs (IT) | Daniel Lien, Gabbs |
 | Fri, 30 Oct 2026 | Billie Jo All Night Long | Billie Jo |
 | Sat, 31 Oct 2026 | Baddies Halloween Special | Joanna Party, Sean Fender, Staffan Lindberg |
-| Sat, 5 Dec 2026 | Entrance at Lägenheten |  |
 
 ## Address
 
 Hammarby slussväg 2, 118 60 Stockholm, Sweden, Stockholm
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/under-bron/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/under-bron/)*

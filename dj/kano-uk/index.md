@@ -1,6 +1,6 @@
 # Kano (UK)
 
-Kano (UK) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Turkiston Palace of Arts, Uzbekistan on Sat, 10 Oct 2026.
+Kano (UK) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Turkiston Palace of Arts, Uzbekistan on Sat, 10 Oct 2026.
 
 Kano (UK) is a house and techno artist based in United Kingdom, with 8 gigs on soundcheck across Barcelona, Melbourne, Osaka and Uzbekistan. Often billed alongside Kovac, Lewis Cancut and 3rd Orbit. Next up: Turkiston Palace of Arts, Uzbekistan on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Kano (UK) is a house and techno artist based in United Kingdom, with 8 gigs on s
 
 Kovac, Lewis Cancut, 3rd Orbit
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kano-uk/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kano-uk/)*

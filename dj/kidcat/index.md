@@ -1,14 +1,15 @@
 # Kidcat
 
-Kidcat is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TORTE BAR, Berlin on Thu, 29 Oct 2026.
+Kidcat is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TORTE BAR, Berlin on Thu, 29 Oct 2026.
 
-Kidcat is a techno and progressive house artist based in Germany, with 70 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Hamburg and 3 more. Often billed alongside ilbroccolovolante, Jimmie and zikade. Next up: TORTE BAR, Berlin on Thu 29 Oct.
+Kidcat is a techno and house artist based in Germany, with 71 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Hamburg and 3 more. Often billed alongside ilbroccolovolante, Jimmie and zikade. Next up: TORTE BAR, Berlin on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | TORTE BAR | Berlin |
+| Sat, 28 Nov 2026 | Renate | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kidcat is a techno and progressive house artist based in Germany, with 70 gigs o
 
 ilbroccolovolante, Jimmie, zikade
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kidcat/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kidcat/)*

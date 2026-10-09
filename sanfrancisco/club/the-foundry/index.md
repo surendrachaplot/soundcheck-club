@@ -1,6 +1,6 @@
 # The Foundry
 
-The Foundry is a music venue in San Francisco/Oakland with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "The Foundry x PNK Records: PNK Party - San Francisco" on Sat, 10 Oct 2026.
+The Foundry is a music venue in San Francisco/Oakland with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "The Foundry x PNK Records: PNK Party - San Francisco" on Sat, 10 Oct 2026.
 
 The Foundry is a music venue in San Francisco/Oakland listed on soundcheck. 6 upcoming gigs, with line-ups including AceMo, at-at, Jojo Lorenzo and Mesmé and 2 more. See dates, start times and who's playing. 1425 Folsom St, San Francisco, CA 94103.
 
@@ -19,4 +19,4 @@ The Foundry is a music venue in San Francisco/Oakland listed on soundcheck. 6 up
 
 1425 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-foundry/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-foundry/)*

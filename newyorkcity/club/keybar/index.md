@@ -1,6 +1,6 @@
 # KEYBAR
 
-KEYBAR is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Mind Xpansion: Damon Bradley / Jahveri b2b Sai / INVAR" on Sat, 10 Oct 2026.
+KEYBAR is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Mind Xpansion: Damon Bradley / Jahveri b2b Sai / INVAR" on Sat, 10 Oct 2026.
 
 KEYBAR is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Damon Bradley, DJ Paul C, Jahveri and MIZTAH LEX. See dates, start times and who's playing. 143 Troutman Street, Brooklyn, NY 11206.
 
@@ -15,4 +15,4 @@ KEYBAR is a music venue in New York City listed on soundcheck. 2 upcoming gigs, 
 
 143 Troutman Street, Brooklyn, NY 11206, New York City
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/keybar/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/keybar/)*

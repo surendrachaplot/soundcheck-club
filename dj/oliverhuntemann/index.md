@@ -1,6 +1,6 @@
 # Oliver Huntemann
 
-Oliver Huntemann is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Fri, 16 Oct 2026.
+Oliver Huntemann is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Fri, 16 Oct 2026.
 
 Oliver Huntemann is a techno and house artist based in Germany, with 89 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 24 more. Often billed alongside Andre Winter, Kaufmann and Steve Sai. Next up: Uebel & Gefährlich, Hamburg on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Oliver Huntemann is a techno and house artist based in Germany, with 89 gigs on 
 
 Andre Winter, Kaufmann, Steve Sai
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverhuntemann/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverhuntemann/)*

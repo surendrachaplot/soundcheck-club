@@ -1,14 +1,13 @@
 # Wata Igarashi
 
-Wata Igarashi is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TRANSMISSION DC, Washington DC on Thu, 8 Oct 2026.
+Wata Igarashi is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at BASEMENT, New York City on Fri, 9 Oct 2026.
 
-Wata Igarashi is a techno and house artist based in Japan, with 218 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: TRANSMISSION DC, Washington DC on Thu 8 Oct.
+Wata Igarashi is a techno and house artist based in Japan, with 218 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: BASEMENT, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | TRANSMISSION DC | Washington DC |
 | Fri, 9 Oct 2026 | BASEMENT | New York City |
 | Sat, 10 Oct 2026 | smartbar | Chicago |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
@@ -22,6 +21,7 @@ Wata Igarashi is a techno and house artist based in Japan, with 218 gigs on soun
 
 ## Recently played
 
+- TRANSMISSION DC, Washington DC · Thu, 8 Oct 2026
 - Jolene Downtown Miami, Miami · Sat, 3 Oct 2026
 - TBA, Denver · Fri, 2 Oct 2026
 - TBA - Los Angeles, Los Angeles · Fri, 25 Sept 2026
@@ -29,10 +29,9 @@ Wata Igarashi is a techno and house artist based in Japan, with 218 gigs on soun
 - TBA - Out ‘n’ About Treesort, Portland · Thu, 24 Sept 2026
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 - TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland · Fri, 18 Sept 2026
-- Stereo, Montreal · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 DJ Nobu, CCL, Octo Octa
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*

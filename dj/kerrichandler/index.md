@@ -1,14 +1,13 @@
 # Kerri Chandler
 
-Kerri Chandler is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Chinois Ibiza, Ibiza on Thu, 8 Oct 2026.
+Kerri Chandler is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 10 Oct 2026.
 
-Kerri Chandler is a house and techno artist based in United States of America, with 162 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 36 more. Often billed alongside Seth Troxler, CHRIS STASSY and DJ Deep. Next up: Chinois Ibiza, Ibiza on Thu 8 Oct.
+Kerri Chandler is a house and techno artist based in United States of America, with 162 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 36 more. Often billed alongside Seth Troxler, CHRIS STASSY and DJ Deep. Next up: La Terrrazza, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Chinois Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | La Terrrazza | Barcelona |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sun, 25 Oct 2026 | Index | Dublin |
@@ -21,6 +20,7 @@ Kerri Chandler is a house and techno artist based in United States of America, w
 
 ## Recently played
 
+- Chinois Ibiza, Ibiza · Thu, 8 Oct 2026
 - Ministry Of Sound, London · Sat, 3 Oct 2026
 - Rex Club, Paris · Sun, 13 Sept 2026
 - Cova Santa, Ibiza · Sat, 5 Sept 2026
@@ -28,10 +28,9 @@ Kerri Chandler is a house and techno artist based in United States of America, w
 - Chinois Ibiza, Ibiza · Sat, 15 Aug 2026
 - Queen's Park Arena, Glasgow · Sat, 1 Aug 2026
 - Cova Santa, Ibiza · Sun, 26 Jul 2026
-- Thuishaven, Amsterdam · Sun, 12 Jul 2026
 
 ## Shares bills with
 
 Seth Troxler, CHRIS STASSY, DJ Deep
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrichandler/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrichandler/)*

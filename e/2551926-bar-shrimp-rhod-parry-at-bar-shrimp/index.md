@@ -1,10 +1,10 @@
 # Bar Shrimp: Rhod Parry at Bar Shrimp
 
-Bar Shrimp: Rhod Parry on Sat 17 Oct, Manchester. 1 artist: Rhod Parry. See the line-up on soundcheck.
+Bar Shrimp: Rhod Parry on Fri 16 Oct, Manchester. 1 artist: Rhod Parry. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 17 Oct 2026 |
+| Date | Fri, 16 Oct 2026 |
 | Venue | Bar Shrimp |
 | City | Manchester |
 

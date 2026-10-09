@@ -1,6 +1,6 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 17 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "on" on Thu, 8 Oct 2026.
+R Lounge is a music venue in Tokyo with 17 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "AFTERGLOW" on Sat, 10 Oct 2026.
 
 R Lounge is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, with line-ups including 雷庵(RYan), AEMI, AKIRAM EN and ALKA and 2 more. See dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
@@ -8,7 +8,7 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, with 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | on | DAIY, KENJI FURUYA, MOTOKA, Yashima |
+| Sat, 10 Oct 2026 | AFTERGLOW | DQ Sakura |
 | Sun, 11 Oct 2026 | DefDistortion #121 -THE LEGENDS COME HOME- | Relect |
 | Sun, 11 Oct 2026 | UNCHARTED TIME | Mayuri, Shintarø Kanie, junkie babe |
 | Tue, 13 Oct 2026 | Belated | Relect |
@@ -23,4 +23,4 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, with 
 
 Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN, Tokyo
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*

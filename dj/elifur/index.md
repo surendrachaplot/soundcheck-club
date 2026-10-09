@@ -1,14 +1,15 @@
 # Eli & Fur
 
-Eli & Fur is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Ministry Of Sound, London on Fri, 9 Oct 2026.
+Eli & Fur is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Ministry Of Sound, London on Fri, 9 Oct 2026.
 
-Eli & Fur are a house and techno duo based in United Kingdom, with 115 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 32 more. Often billed alongside Jody Wisternoff, CRi and Marsh. Next up: Ministry Of Sound, London on Fri 9 Oct.
+Eli & Fur are a house and techno duo based in United Kingdom, with 116 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 33 more. Often billed alongside Jody Wisternoff, CRi and Marsh. Next up: Ministry Of Sound, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Ministry Of Sound | London |
+| Fri, 23 Oct 2026 | Time Nightclub | Orange-county |
 | Fri, 30 Oct 2026 | Ex Hacienda de San Pablo de Enmedio | Mexico City |
 | Fri, 13 Nov 2026 | 1015 Folsom | San Francisco/Oakland |
 | Sat, 28 Nov 2026 | Tumbalong Park | Sydney |
@@ -29,4 +30,4 @@ Eli & Fur are a house and techno duo based in United Kingdom, with 115 gigs on s
 
 Jody Wisternoff, CRi, Marsh
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elifur/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elifur/)*

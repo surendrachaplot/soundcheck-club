@@ -1,6 +1,6 @@
 # La Dolce Vita with Fabrizio Mammarella, Boogie Rookie & Nixxon at Jolene
 
-La Dolce Vita with Fabrizio Mammarella, Boogie Rookie & Nixxon at Jolene on Fri 9 Oct, Copenhagen. 3 artists: Boogie Rookie, Fabrizio Mammarella and Nixxon. Disco and Italo Disco. See the line-up on soundcheck.
+La Dolce Vita with Fabrizio Mammarella, Boogie Rookie & Nixxon at Jolene on Fri 9 Oct, Copenhagen. 3 artists: Boogie Rookie, Fabrizio Mammarella and Nixxon. Acid and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

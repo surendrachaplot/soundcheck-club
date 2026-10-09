@@ -1,6 +1,6 @@
 # SEWA
 
-SEWA is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Fairmount Theatre, Montreal on Sat, 31 Oct 2026.
+SEWA is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Fairmount Theatre, Montreal on Sat, 31 Oct 2026.
 
 SEWA is a techno and club artist based in United States of America, with 14 gigs on soundcheck across Austin, Mexico City, Montreal and New York City and 1 more. Often billed alongside Vonne, ITZA and JAViii. Next up: Fairmount Theatre, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ SEWA is a techno and club artist based in United States of America, with 14 gigs
 
 Vonne, ITZA, JAViii
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sewa/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sewa/)*

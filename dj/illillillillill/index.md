@@ -1,6 +1,6 @@
 # illillillillill
 
-illillillillill is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Para Klub Beograd, Belgrade on Sun, 11 Oct 2026.
+illillillillill is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Para Klub Beograd, Belgrade on Sun, 11 Oct 2026.
 
 illillillillill is a techno and house artist, with 28 gigs on soundcheck across Belgrade. Often billed alongside tsola, Matej Rusmir and Impedance. Next up: Para Klub Beograd, Belgrade on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ illillillillill is a techno and house artist, with 28 gigs on soundcheck across 
 
 tsola, Matej Rusmir, Impedance
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/illillillillill/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/illillillillill/)*

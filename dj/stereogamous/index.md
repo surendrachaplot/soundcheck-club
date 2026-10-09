@@ -1,6 +1,6 @@
 # Stereogamous
 
-Stereogamous is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Club 77, Sydney on Sat, 5 Dec 2026.
+Stereogamous is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Club 77, Sydney on Sat, 5 Dec 2026.
 
 Stereogamous is a house and club artist based in Australia, with 15 gigs on soundcheck across Sydney. Often billed alongside Matt Vaughan, Annabelle Gaspar and Dan Azzo. Next up: Club 77, Sydney on Sat 5 Dec.
 
@@ -12,6 +12,7 @@ Stereogamous is a house and club artist based in Australia, with 15 gigs on soun
 
 ## Recently played
 
+- TBA - Museum of Contemporary Art Australia, Sydney · Thu, 8 Oct 2026
 - The Bearded Tit, Sydney · Wed, 9 Jul 2025
 - Machine Hall, Sydney · Sat, 15 Feb 2025
 - Factory Theatre, Sydney · Sat, 14 Dec 2024
@@ -19,10 +20,9 @@ Stereogamous is a house and club artist based in Australia, with 15 gigs on soun
 - Club 77, Sydney · Sun, 15 Sept 2024
 - The Lansdowne, Sydney · Sat, 20 Jul 2024
 - Kings Cross Hotel, Sydney · Sat, 25 May 2024
-- The Lansdowne, Sydney · Sat, 18 May 2024
 
 ## Shares bills with
 
 Matt Vaughan, Annabelle Gaspar, Dan Azzo
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stereogamous/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stereogamous/)*

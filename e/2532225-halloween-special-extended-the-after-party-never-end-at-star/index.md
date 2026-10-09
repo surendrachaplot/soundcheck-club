@@ -1,6 +1,6 @@
 # HALLOWEEN SPECIAL EXTENDED THE AFTER-PARTY NEVER END at Starlane Pizza Bar
 
-HALLOWEEN SPECIAL EXTENDED THE AFTER-PARTY NEVER END at Starlane Pizza Bar on Sun 1 Nov, London. 6 artists: Darren Roach, Finn, Marco Ortore and Theo G and 2 more. House and Minimal Techno. See the line-up on soundcheck.
+HALLOWEEN SPECIAL EXTENDED THE AFTER-PARTY NEVER END at Starlane Pizza Bar on Sun 1 Nov, London. 7 artists: Darren Roach, Finn, Luca Priulla and Marco Ortore and 3 more. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ HALLOWEEN SPECIAL EXTENDED THE AFTER-PARTY NEVER END at Starlane Pizza Bar on Su
 
 - Darren Roach
 - Finn
+- Luca Priulla
 - Marco Ortore
 - Theo G
 - Thoma Bulwer

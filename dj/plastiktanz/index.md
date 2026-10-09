@@ -1,13 +1,14 @@
 # plastiktanz
 
-plastiktanz is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Das Werk, Vienna on Wed, 14 Oct 2026.
+plastiktanz is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Das Werk, Vienna on Wed, 14 Oct 2026.
 
-plastiktanz is a techno and electronica artist, with 18 gigs on soundcheck across Berlin, Munich and Vienna. Often billed alongside sensual twerk, Ben Derris and Bias. Next up: Das Werk, Vienna on Wed 14 Oct.
+plastiktanz is a techno and electronica artist, with 19 gigs on soundcheck across Berlin, Munich and Vienna. Often billed alongside sensual twerk, Ben Derris and Bias. Next up: Das Werk, Vienna on Wed 14 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 14 Oct 2026 | Das Werk | Vienna |
 | Wed, 14 Oct 2026 | Das Werk | Vienna |
 
 ## Recently played
@@ -25,4 +26,4 @@ plastiktanz is a techno and electronica artist, with 18 gigs on soundcheck acros
 
 sensual twerk, Ben Derris, Bias
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plastiktanz/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plastiktanz/)*

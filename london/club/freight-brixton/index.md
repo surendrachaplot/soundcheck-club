@@ -1,14 +1,15 @@
 # Freight Brixton
 
-Freight Brixton is a music venue in London with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Freight Brixton PRESENTS SOUL OF THE SOUTH: ELSA" on Thu, 15 Oct 2026.
+Freight Brixton is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Freight Brixton PRESENTS SOUL OF THE SOUTH: ELSA" on Thu, 15 Oct 2026.
 
-Freight Brixton is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including CHÉ WAX, ELSA (UK), Marvin Humes and SHEMYYY. See dates, start times and who's playing. 33 Brixton Station Road, SW9 8PB.
+Freight Brixton is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including CHÉ WAX, ELSA (UK), Marvin Humes and SHEMYYY. See dates, start times and who's playing. 33 Brixton Station Road, SW9 8PB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | Freight Brixton PRESENTS SOUL OF THE SOUTH: ELSA | ELSA (UK) |
+| Thu, 15 Oct 2026 | DJ AG & Wyclef Jean |  |
 | Sat, 17 Oct 2026 | Brixton Oktoberfest |  |
 | Fri, 23 Oct 2026 | Lost Tape x Broken Soul, Mixed by Che Wax: Kendrick Lamar & Gil Scott Heron | CHÉ WAX |
 | Sun, 25 Oct 2026 | AETHERFEST | SHEMYYY |
@@ -21,4 +22,4 @@ Freight Brixton is a music venue in London listed on soundcheck. 8 upcoming gigs
 
 33 Brixton Station Road, SW9 8PB, London
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*

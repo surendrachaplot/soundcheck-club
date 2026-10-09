@@ -1,6 +1,6 @@
 # Techno Funk 6.0 at Jungla London
 
-Techno Funk 6.0 at Jungla London on Fri 6 Nov, London. 4 artists: Areeb Abbasi, Auseeb, Kate Moss and Wiikii. See the line-up on soundcheck.
+Techno Funk 6.0 at Jungla London on Fri 6 Nov, London. 4 artists: Areeb Abbasi, Auseeb, Kate Moss and Wiikii. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

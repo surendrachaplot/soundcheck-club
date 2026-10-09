@@ -1,6 +1,6 @@
 # Jalex
 
-Jalex is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Fri, 16 Oct 2026.
+Jalex is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Fri, 16 Oct 2026.
 
 Jalex is a techno and acid artist based in Italy, with 37 gigs on soundcheck across Lisbon and Rome. Often billed alongside Carlo Ciferni, DOCET and Gabriele De Maria. Next up: Soap House - Ex Saponerie Mira Lanza, Rome on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Jalex is a techno and acid artist based in Italy, with 37 gigs on soundcheck acr
 
 Carlo Ciferni, DOCET, Gabriele De Maria
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jalex/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jalex/)*

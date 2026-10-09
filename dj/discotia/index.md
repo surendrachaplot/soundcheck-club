@@ -1,6 +1,6 @@
 # discotia
 
-discotia is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at West Port Oracle, Edinburgh on Sat, 10 Oct 2026.
+discotia is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at West Port Oracle, Edinburgh on Sat, 10 Oct 2026.
 
 discotia is a disco and house artist based in United Kingdom, with 26 gigs on soundcheck across Edinburgh. Often billed alongside Auntie Flo, Chris Astrojazz and Hobbes. Next up: West Port Oracle, Edinburgh on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ discotia is a disco and house artist based in United Kingdom, with 26 gigs on so
 
 Auntie Flo, Chris Astrojazz, Hobbes
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discotia/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discotia/)*

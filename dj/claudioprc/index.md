@@ -1,6 +1,6 @@
 # Claudio PRC
 
-Claudio PRC is a Techno and Ambient artist with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Bassement, Madrid on Sat, 10 Oct 2026.
+Claudio PRC is a Techno and Ambient artist with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Bassement, Madrid on Sat, 10 Oct 2026.
 
 Claudio PRC is a techno and ambient artist based in Italy, with 164 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 44 more. Often billed alongside Isabel Soto, Luigi Tozzi and Adriana Lopez. Next up: The Bassement, Madrid on Sat 10 Oct.
 
@@ -11,7 +11,7 @@ Claudio PRC is a techno and ambient artist based in Italy, with 164 gigs on soun
 | Sat, 10 Oct 2026 | The Bassement | Madrid |
 | Sun, 11 Oct 2026 | Razzmatazz | Barcelona |
 | Sun, 18 Oct 2026 | Bodies in Space | Brussels |
-| Fri, 23 Oct 2026 | Levenslang Amsterdam | Amsterdam |
+| Fri, 23 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
 | Fri, 30 Oct 2026 | VENT | Tokyo |
 | Sat, 31 Oct 2026 | vurt. | Seoul |
@@ -34,4 +34,4 @@ Claudio PRC is a techno and ambient artist based in Italy, with 164 gigs on soun
 
 Isabel Soto, Luigi Tozzi, Adriana Lopez
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claudioprc/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claudioprc/)*

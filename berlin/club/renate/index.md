@@ -1,14 +1,13 @@
 # Renate
 
-Renate is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Core to Core - Haram Night, saHHara – سَهّارة, Dub&Dal, Fiestuki and Haus of Audacity" on Thu, 8 Oct 2026.
+Renate is a music venue in Berlin with 25 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Renate Klubnacht with Lux, Horkheimer, karete bu, Rosa Red" on Fri, 9 Oct 2026.
 
-Renate is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including 16 Faces, Aalia Iraki, Abibi and Abstraxion and 2 more. See dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
+Renate is a music venue in Berlin listed on soundcheck. 25 upcoming gigs, with line-ups including Aalia Iraki, Aaron J, Abstraxion and Adlas and 2 more. See dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Core to Core - Haram Night, saHHara – سَهّارة, Dub&Dal, Fiestuki and Haus of Audacity | 16 Faces, Abibi, Bad Puppy, DJ Putilla, Meriem S, Nora Moon, Ojos de miel |
 | Fri, 9 Oct 2026 | Renate Klubnacht with Lux, Horkheimer, karete bu, Rosa Red | CHUKWU, Horkheimer, Lulu & Nell, Lux., Pschukk, Rosa Red, karete bu |
 | Sat, 10 Oct 2026 | Renate Klubnacht / Libras United w/ Nadia Wise, The Burrell Connection, Triqi & Henry Weekes | Aalia Iraki, DJ CHICHI, DJ Equipment, JM Moser, Kang, Marysia Osu, Nadia Wise, The Burrell Connection, Tom Kutsche, Triqi |
 | Thu, 15 Oct 2026 | Renate LIVE: The Butchershop Quartet with Overnap + Pleasure the bouffon | Overnap |
@@ -18,9 +17,10 @@ Renate is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with l
 | Sat, 24 Oct 2026 | Renate Klubnacht with Boisha, Kedi Bounce & SERA | FANK, Kedi Bounce, Mandel, Pert (CZ), SERA (2), Shanda, moe. |
 | Thu, 29 Oct 2026 | House of Lunacy Halloween Ball - The Danse Macabre |  |
 | Fri, 30 Oct 2026 | Renate Klubnacht with HABITUS x CURA Berlin | Adlas, Anna Kost, Concussion, MASCHA, Maccari, Max Dewavrin, Vale, Waldymoto |
+| Sat, 31 Oct 2026 | Renate's Halloween Klubnacht w/ Coco Cobra, casadephunk, Jiāla & Antina's SpookWave | Coco Cobra, Evaluvfrog, Hongor, Manolo. (DE), Organza, Panooc, Robin Flux, elliephunk |
 
 ## Address
 
 Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*

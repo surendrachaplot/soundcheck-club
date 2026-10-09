@@ -1,6 +1,6 @@
 # Dane Deveraux
 
-Dane Deveraux is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Animal, New York City on Sat, 10 Oct 2026.
+Dane Deveraux is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Animal, New York City on Sat, 10 Oct 2026.
 
 Dane Deveraux is a house and ambient artist based in United States of America, with 23 gigs on soundcheck across Boston, Chicago, Los Angeles and New York City. Often billed alongside Coyado, Joopiter and Kandylion. Next up: Animal, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Dane Deveraux is a house and ambient artist based in United States of America, w
 
 Coyado, Joopiter, Kandylion
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danedeveraux/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danedeveraux/)*

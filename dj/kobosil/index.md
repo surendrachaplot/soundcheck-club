@@ -1,14 +1,13 @@
 # Kobosil
 
-Kobosil is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at [UNVRS], Ibiza on Thu, 8 Oct 2026.
+Kobosil is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
 
-Kobosil is a techno and house artist based in Germany, with 235 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside Somewhen, Clara Cuvé and I Hate Models. Next up: [UNVRS], Ibiza on Thu 8 Oct.
+Kobosil is a techno and house artist based in Germany, with 235 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside Somewhen, Clara Cuvé and I Hate Models. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | [UNVRS] | Ibiza |
 | Sat, 10 Oct 2026 | Auditorio Málaga Cortijo de Torres | South |
 | Fri, 13 Nov 2026 | Gianpula Main Room | Malta |
 | Sat, 14 Nov 2026 | Hans Bunte Areal | Freiburg |
@@ -20,6 +19,7 @@ Kobosil is a techno and house artist based in Germany, with 235 gigs on soundche
 
 ## Recently played
 
+- [UNVRS], Ibiza · Thu, 8 Oct 2026
 - TBA - Port of Belgrade, Belgrade · Fri, 2 Oct 2026
 - Akvárium Klub, Budapest · Fri, 2 Oct 2026
 - Akvárium Klub, Budapest · Fri, 2 Oct 2026
@@ -27,10 +27,9 @@ Kobosil is a techno and house artist based in Germany, with 235 gigs on soundche
 - 131 Mccormack St, Toronto · Sat, 19 Sept 2026
 - Radius, Chicago · Fri, 18 Sept 2026
 - Radius, Chicago · Fri, 18 Sept 2026
-- Escala25, Lisbon · Sun, 13 Sept 2026
 
 ## Shares bills with
 
 Somewhen, Clara Cuvé, I Hate Models
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*

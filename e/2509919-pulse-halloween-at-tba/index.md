@@ -1,6 +1,6 @@
 # Pulse Halloween at TBA
 
-Pulse Halloween at TBA on Fri 30 Oct, Portland. 3 artists: Adriana Lopez, Ana Rs and kraftwitch. Techno. See the line-up on soundcheck.
+Pulse Halloween at TBA on Fri 30 Oct, Portland. 3 artists: Adriana Lopez, kraftwitch and LUIS MIRANDA. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ Pulse Halloween at TBA on Fri 30 Oct, Portland. 3 artists: Adriana Lopez, Ana Rs
 ## Line-up
 
 - Adriana Lopez
-- Ana Rs
 - kraftwitch
+- LUIS MIRANDA
 
 *Source: [soundcheck](https://soundcheck.club/e/2509919-pulse-halloween-at-tba/)*

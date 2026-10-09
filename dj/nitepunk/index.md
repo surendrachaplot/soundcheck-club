@@ -1,6 +1,6 @@
 # Nitepunk
 
-Nitepunk is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
+Nitepunk is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
 
 Nitepunk is a bass and dubstep artist based in Georgia, with 29 gigs on soundcheck across Brisbane, Budapest, Chicago and Denver and 13 more. Often billed alongside EPROM, G Jones and DJ Glen. Next up: DRUMSHEDS, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Nitepunk is a bass and dubstep artist based in Georgia, with 29 gigs on soundche
 
 EPROM, G Jones, DJ Glen
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nitepunk/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nitepunk/)*

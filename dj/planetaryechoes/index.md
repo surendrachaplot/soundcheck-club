@@ -1,18 +1,18 @@
 # Planetary Echoes
 
-Planetary Echoes is a Techno and Jazz artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Giri, Berlin on Thu, 8 Oct 2026.
+Planetary Echoes is a Techno and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at ciao ciao Bar, Berlin on Thu, 5 Nov 2026.
 
-Planetary Echoes is a techno and jazz artist based in France, with 16 gigs on soundcheck across Berlin. Often billed alongside Linda shiro, Richard Easel and Josef Kunz. Next up: Giri, Berlin on Thu 8 Oct.
+Planetary Echoes is a techno and jazz artist based in France, with 16 gigs on soundcheck across Berlin. Often billed alongside Linda shiro, Richard Easel and Josef Kunz. Next up: ciao ciao Bar, Berlin on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Giri | Berlin |
 | Thu, 5 Nov 2026 | ciao ciao Bar | Berlin |
 
 ## Recently played
 
+- Giri, Berlin · Thu, 8 Oct 2026
 - AVA Club, Berlin · Fri, 19 Dec 2025
 - OXI, Berlin · Tue, 16 Dec 2025
 - AVA Club, Berlin · Sun, 9 Nov 2025
@@ -20,10 +20,9 @@ Planetary Echoes is a techno and jazz artist based in France, with 16 gigs on so
 - Giri, Berlin · Sat, 31 May 2025
 - TBA, Berlin · Sat, 10 May 2025
 - AVA Club, Berlin · Sat, 15 Feb 2025
-- Urban Spree, Berlin · Thu, 12 Sept 2024
 
 ## Shares bills with
 
 Linda shiro, Richard Easel, Josef Kunz
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/planetaryechoes/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/planetaryechoes/)*

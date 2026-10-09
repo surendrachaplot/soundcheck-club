@@ -1,6 +1,6 @@
 # Romaero - Baneasa
 
-Romaero - Baneasa is a music venue in Bucharest with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Mahmut Orhan BUCHAREST" on Fri, 9 Oct 2026.
+Romaero - Baneasa is a music venue in Bucharest with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Mahmut Orhan BUCHAREST" on Fri, 9 Oct 2026.
 
 Romaero - Baneasa is a music venue in Bucharest listed on soundcheck. 2 upcoming gigs, with line-ups including Mahmut Orhan. See dates, start times and who's playing. Bld. Ficusului nr. 44, Sector 1, Bucuresti.
 
@@ -15,4 +15,4 @@ Romaero - Baneasa is a music venue in Bucharest listed on soundcheck. 2 upcoming
 
 Bld. Ficusului nr. 44, Sector 1, Bucuresti, Bucharest
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/romaero-baneasa/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/romaero-baneasa/)*

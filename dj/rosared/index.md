@@ -1,8 +1,8 @@
 # Rosa Red
 
-Rosa Red is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Renate, Berlin on Fri, 9 Oct 2026.
+Rosa Red is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Renate, Berlin on Fri, 9 Oct 2026.
 
-Rosa Red is a house and techno artist based in Germany, with 76 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside Benjamin Fröhlich, Sam Goku and Sara Miller. Next up: Renate, Berlin on Fri 9 Oct.
+Rosa Red is a house and techno artist based in Germany, with 77 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside Benjamin Fröhlich, Sam Goku and Sara Miller. Next up: Renate, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Rosa Red is a house and techno artist based in Germany, with 76 gigs on soundche
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Renate | Berlin |
 | Sun, 25 Oct 2026 | nachbar | Amsterdam |
+| Sat, 21 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Rosa Red is a house and techno artist based in Germany, with 76 gigs on soundche
 
 Benjamin Fröhlich, Sam Goku, Sara Miller
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosared/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosared/)*

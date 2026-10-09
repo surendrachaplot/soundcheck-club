@@ -1,6 +1,6 @@
 # Mikropol
 
-Mikropol is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Inspector Spacetime in Berlin" on Fri, 9 Oct 2026.
+Mikropol is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Inspector Spacetime in Berlin" on Fri, 9 Oct 2026.
 
 Mikropol is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including justpatrick and Kayoso. See dates, start times and who's playing. Nollendorfplatz 5, 10777 Berlin.
 
@@ -17,4 +17,4 @@ Mikropol is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with 
 
 Nollendorfplatz 5, 10777 Berlin, Berlin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mikropol/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mikropol/)*

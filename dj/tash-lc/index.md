@@ -1,13 +1,14 @@
 # Tash LC
 
-Tash LC is a House and Dancehall artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Ormside Projects, London on Fri, 16 Oct 2026.
+Tash LC is a House and Dancehall artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at boomroom, Perth on Sat, 10 Oct 2026.
 
-Tash LC is a house and dancehall artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Jamz Supernova, Ahadadream and Eris Drew. Next up: Ormside Projects, London on Fri 16 Oct.
+Tash LC is a house and dancehall artist based in United Kingdom, with 126 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside Jamz Supernova, Ahadadream and Eris Drew. Next up: boomroom, Perth on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | boomroom | Perth |
 | Fri, 16 Oct 2026 | Ormside Projects | London |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Sat, 7 Nov 2026 | KABUL à GoGo | Utrecht |
@@ -27,4 +28,4 @@ Tash LC is a house and dancehall artist based in United Kingdom, with 125 gigs o
 
 Jamz Supernova, Ahadadream, Eris Drew
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tash-lc/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tash-lc/)*

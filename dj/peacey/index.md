@@ -1,6 +1,6 @@
 # Peacey
 
-Peacey is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Loods 12, Amsterdam on Wed, 21 Oct 2026.
+Peacey is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Loods 12, Amsterdam on Wed, 21 Oct 2026.
 
 Peacey is a disco and house artist, with 6 gigs on soundcheck across Alicante, Amsterdam and Edinburgh. Often billed alongside David Elders, André Lodemann and Atjazz. Next up: Loods 12, Amsterdam on Wed 21 Oct.
 
@@ -22,4 +22,4 @@ Peacey is a disco and house artist, with 6 gigs on soundcheck across Alicante, A
 
 David Elders, André Lodemann, Atjazz
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peacey/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peacey/)*

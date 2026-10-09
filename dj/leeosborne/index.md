@@ -1,14 +1,14 @@
 # Lee Osborne
 
-Lee Osborne is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Warehouse, Toronto on Sat, 10 Oct 2026.
+Lee Osborne is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Motorista Studio, Toronto on Sat, 10 Oct 2026.
 
-Lee Osborne is a techno and electronica artist based in Canada, with 10 gigs on soundcheck across Toronto. Often billed alongside Ian Guthrie, Jeremy P. Caulfield and Bailey Ibbs. Next up: TBA - Warehouse, Toronto on Sat 10 Oct.
+Lee Osborne is a techno and electronica artist based in Canada, with 10 gigs on soundcheck across Toronto. Often billed alongside Ian Guthrie, Jeremy P. Caulfield and Bailey Ibbs. Next up: Motorista Studio, Toronto on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | TBA - Warehouse | Toronto |
+| Sat, 10 Oct 2026 | Motorista Studio | Toronto |
 | Fri, 20 Nov 2026 | Standard Time | Toronto |
 
 ## Recently played
@@ -26,4 +26,4 @@ Lee Osborne is a techno and electronica artist based in Canada, with 10 gigs on 
 
 Ian Guthrie, Jeremy P. Caulfield, Bailey Ibbs
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leeosborne/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leeosborne/)*

@@ -1,6 +1,6 @@
 # Luke Solomon
 
-Luke Solomon is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Knockdown Center, New York City on Sat, 10 Oct 2026.
+Luke Solomon is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Knockdown Center, New York City on Sat, 10 Oct 2026.
 
 Luke Solomon is a house and disco artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 15 more. Often billed alongside Honey Dijon, Horse Meat Disco and The Shapeshifters. Next up: Knockdown Center, New York City on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Luke Solomon is a house and disco artist based in United Kingdom, with 73 gigs o
 
 Honey Dijon, Horse Meat Disco, The Shapeshifters
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukesolomon/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukesolomon/)*

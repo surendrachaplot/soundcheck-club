@@ -1,6 +1,6 @@
 # The Fitness
 
-The Fitness is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Salon Daomé, Montreal on Sat, 10 Oct 2026.
+The Fitness is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Salon Daomé, Montreal on Sat, 10 Oct 2026.
 
 The Fitness is a house and techno artist based in Canada, with 20 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside Matt FX, Mona Matsuoka and Body Art. Next up: Salon Daomé, Montreal on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ The Fitness is a house and techno artist based in Canada, with 20 gigs on soundc
 
 Matt FX, Mona Matsuoka, Body Art
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thefitness/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thefitness/)*

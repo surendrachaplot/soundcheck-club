@@ -1,6 +1,6 @@
 # Danny Daze
 
-Danny Daze is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Ephigenia, Sao Paulo on Fri, 9 Oct 2026.
+Danny Daze is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Ephigenia, Sao Paulo on Fri, 9 Oct 2026.
 
 Danny Daze is a house and techno artist based in United States of America, with 162 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Will Renuart, Jonny From Space and Terence Tabeau. Next up: Ephigenia, Sao Paulo on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ Danny Daze is a house and techno artist based in United States of America, with 
 
 Will Renuart, Jonny From Space, Terence Tabeau
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydaze/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydaze/)*

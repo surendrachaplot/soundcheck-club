@@ -1,14 +1,13 @@
 # essaim
 
-essaim is a music venue in Paris with 19 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Lacchesi - all night long - with special guest" on Thu, 8 Oct 2026.
+essaim is a music venue in Paris with 21 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "tribalism - AgainstMe Live, Efdemin, Roulita" on Fri, 9 Oct 2026.
 
-essaim is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with line-ups including Justine Perry, A.Litique, AgainstMe and Aleqs Notal and 2 more. See dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
+essaim is a music venue in Paris listed on soundcheck. 21 upcoming gigs, with line-ups including Justine Perry, A.Litique, AgainstMe and Aleqs Notal and 2 more. See dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Lacchesi - all night long - with special guest | Lacchesi |
 | Fri, 9 Oct 2026 | tribalism - AgainstMe Live, Efdemin, Roulita | AgainstMe, Efdemin, Roulita |
 | Sat, 10 Oct 2026 | DJ Masda - all night long | DJ Masda |
 | Sun, 11 Oct 2026 | Eerste Communie - 10 Years |  |
@@ -18,9 +17,10 @@ essaim is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with li
 | Sat, 24 Oct 2026 | Cabanne - all night long | Cabanne |
 | Sun, 25 Oct 2026 | extended - Equus Belli, Nina Kraviz | Equus Belli, Nina Kraviz |
 | Fri, 30 Oct 2026 | tribalism anniversaire essaim YEAR002 - Altinbas b2b Ndrx, Rachel Noon, ZEL | Altinbas, Ndrx, Rachel Noon, ZEL (3) |
+| Sat, 31 Oct 2026 | cocoon anniversaire essaim YEAR002 - Binh, Mars O10C, Zombies In Miami | Binh, Mars O10C, Zombies In Miami |
 
 ## Address
 
 14 Rue Philippe de Girard, 75010 Paris, Paris
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*

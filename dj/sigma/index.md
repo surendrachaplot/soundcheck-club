@@ -1,8 +1,8 @@
 # Sigma
 
-Sigma is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Sigma is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
-Sigma is a drum & bass and jungle artist based in United Kingdom, with 28 gigs on soundcheck across Auckland, Brighton, Bristol and Budapest and 15 more. Often billed alongside Circadian, Emily Makis and Hedex. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
+Sigma is a drum & bass and jungle artist based in United Kingdom, with 29 gigs on soundcheck across Auckland, Brighton, Bristol and Budapest and 16 more. Often billed alongside Circadian, Emily Makis and Hedex. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Sigma is a drum & bass and jungle artist based in United Kingdom, with 28 gigs o
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 17 Oct 2026 | Volks | Brighton |
 | Fri, 6 Nov 2026 | Butlin's Skegness Resort | Midlands |
+| Sat, 21 Nov 2026 | Faith in Strangers | South-east |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Sigma is a drum & bass and jungle artist based in United Kingdom, with 28 gigs o
 
 Circadian, Emily Makis, Hedex
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sigma/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sigma/)*

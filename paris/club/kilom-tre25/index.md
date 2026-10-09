@@ -1,6 +1,6 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "ØXYL: BYORN, TESTPRESS, NYRA, SIKOTI, MEYEM & MORE" on Fri, 9 Oct 2026.
+Kilomètre25 is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "ØXYL: BYORN, TESTPRESS, NYRA, SIKOTI, MEYEM & MORE" on Fri, 9 Oct 2026.
 
 Kilomètre25 is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including NYRA (DE), ASLO, Avenir and BIIA and 2 more. See dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
@@ -21,4 +21,4 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 8 upcoming gigs, wi
 
 8 Boulevard MacDonald 75019 Paris, Paris
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*

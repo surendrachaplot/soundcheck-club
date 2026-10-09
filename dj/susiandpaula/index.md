@@ -1,8 +1,8 @@
 # Susi&Paula
 
-Susi&Paula is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 16 Oct 2026.
+Susi&Paula is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 16 Oct 2026.
 
-Susi&Paula is a techno and tech house artist based in Germany, with 28 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hamburg and 3 more. Often billed alongside JUSTICE (DE), Avocado and Baerbel. Next up: Bahnwärter Thiel, Munich on Fri 16 Oct.
+Susi&Paula is a techno and tech house artist based in Germany, with 29 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hamburg and 3 more. Often billed alongside JUSTICE (DE), Avocado and Baerbel. Next up: Bahnwärter Thiel, Munich on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Susi&Paula is a techno and tech house artist based in Germany, with 28 gigs on s
 | Fri, 16 Oct 2026 | Bahnwärter Thiel | Munich |
 | Fri, 16 Oct 2026 | Grüner Jäger | Hamburg |
 | Fri, 23 Oct 2026 | Ruby Emma Hotel & Bar | Amsterdam |
+| Sat, 31 Oct 2026 | PKH Warehouse | Berlin |
 | Sat, 7 Nov 2026 | Kater | Berlin |
 
 ## Recently played
@@ -28,4 +29,4 @@ Susi&Paula is a techno and tech house artist based in Germany, with 28 gigs on s
 
 JUSTICE (DE), Avocado, Baerbel
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/susiandpaula/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/susiandpaula/)*

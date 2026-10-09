@@ -1,6 +1,6 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 18 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "ACT - HIPHOP / R&B / HOUSE / UKG / BASS -" on Thu, 8 Oct 2026.
+ZEROTOKYO is a music venue in Tokyo with 18 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "YONAGUNI FIESTA" on Fri, 9 Oct 2026.
 
 ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 18 upcoming gigs, with line-ups including akii, Anfisa Letyago, AVALON and Axwell and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
@@ -8,7 +8,6 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 18 upcoming gigs, with
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | ACT - HIPHOP / R&B / HOUSE / UKG / BASS - |  |
 | Fri, 9 Oct 2026 | YONAGUNI FIESTA |  |
 | Sat, 10 Oct 2026 | SOUNDGATE - TECHNO / HOUSE - | Carpainter, DADO, FELINE (JP), HATSUYUKI, KOTSU, Kotono Shirai, Krankent, Mary-chan, Ririko, Seimei, Sekitova, Takkyu Ishino, maikoo |
 | Sun, 11 Oct 2026 | agefarre 2026 - ageHa×velfarre 15th Anniversary CLUB EDITION - | BEPPU, Ferry Corsten, Ko Kimura, Remo-con, Rinaly, YOSHIMASA, Yamariki |
@@ -18,9 +17,10 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 18 upcoming gigs, with
 | Sun, 25 Oct 2026 | FURRYRAVE Vol.3 - BASS / HOUSE / TECHNO - | CRAZYHYUGA, HiTOMi |
 | Thu, 29 Oct 2026 | PRISM - All Underground Music |  |
 | Fri, 30 Oct 2026 | ZEROTOKYO HALLOWEEN DAY1 'CRAZY PARTY NIGHT Supported by Veuve Clicquot Yelloween' |  |
+| Sat, 31 Oct 2026 | ZEROTOKYO HALLOWEEN DAY2 'NEON STARS Supported by Veuve Clicquot Yelloween' | DA BOOK, KATIMI AI, ShioriyBradshaw |
 
 ## Address
 
 B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo, Tokyo
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*

@@ -1,14 +1,15 @@
 # Julian Prince
 
-Julian Prince is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at StereoBar, Montreal on Fri, 9 Oct 2026.
+Julian Prince is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at StereoBar, Montreal on Fri, 9 Oct 2026.
 
-Julian Prince is a house and afro house artist, with 14 gigs on soundcheck across Amsterdam, Ibiza, Miami and Montreal and 2 more. Often billed alongside Kadosh, Oxia and Sander Kleinenberg. Next up: StereoBar, Montreal on Fri 9 Oct.
+Julian Prince is a house and afro house artist, with 15 gigs on soundcheck across Amsterdam, Ibiza, Miami and Montreal and 2 more. Often billed alongside Kadosh, Oxia and Sander Kleinenberg. Next up: StereoBar, Montreal on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | StereoBar | Montreal |
+| Fri, 23 Oct 2026 | Amsterdam Central Station | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Julian Prince is a house and afro house artist, with 14 gigs on soundcheck acros
 
 Kadosh, Oxia, Sander Kleinenberg
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianprince/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianprince/)*

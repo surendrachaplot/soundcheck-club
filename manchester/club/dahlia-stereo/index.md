@@ -1,14 +1,13 @@
 # Dahlia Stereo
 
-Dahlia Stereo is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "DAHLIA STEREO with SALO, Chimpo & Strategy - FREE Tickets" on Thu, 8 Oct 2026.
+Dahlia Stereo is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "DAHLIA STEREO with Gia Fu (Manchester debut)" on Thu, 15 Oct 2026.
 
-Dahlia Stereo is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with line-ups including Chimpo, Coco Maria, Dam Swindle and DJ Die and 2 more. See dates, start times and who's playing. Unit 1-2, The Hive, 47 Lever st, Manchester M1 1FN.
+Dahlia Stereo is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with line-ups including Coco Maria, Dam Swindle, DJ Die and Gia Fu and 2 more. See dates, start times and who's playing. Unit 1-2, The Hive, 47 Lever st, Manchester M1 1FN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | DAHLIA STEREO with SALO, Chimpo & Strategy - FREE Tickets | Chimpo, SALÓ, Strategy |
 | Thu, 15 Oct 2026 | DAHLIA STEREO with Gia Fu (Manchester debut) | Gia Fu |
 | Thu, 29 Oct 2026 | DAHLIA STEREO HALLOWEEN presents Mr Thing - Free Tickets | Jim Bane, Mr Thing |
 | Sat, 31 Oct 2026 | DAHLIA STEREO HALLOWEEN with COCO MARÍA | Coco Maria |
@@ -21,4 +20,4 @@ Dahlia Stereo is a music venue in Manchester listed on soundcheck. 8 upcoming gi
 
 Unit 1-2, The Hive, 47 Lever st, Manchester M1 1FN, Manchester
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/dahlia-stereo/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/dahlia-stereo/)*

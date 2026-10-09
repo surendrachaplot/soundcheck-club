@@ -1,14 +1,14 @@
 # Herr Krank
 
-Herr Krank is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Fvtvr, Paris on Fri, 9 Oct 2026.
+Herr Krank is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at FVTVR, Paris on Fri, 9 Oct 2026.
 
-Herr Krank is a house and techno artist based in France, with 56 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 15 more. Often billed alongside Deborah Aime La Bagarre, Emma B and Baccus. Next up: Fvtvr, Paris on Fri 9 Oct.
+Herr Krank is a house and techno artist based in France, with 56 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 15 more. Often billed alongside Deborah Aime La Bagarre, Emma B and Baccus. Next up: FVTVR, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Fvtvr | Paris |
+| Fri, 9 Oct 2026 | FVTVR | Paris |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Herr Krank is a house and techno artist based in France, with 56 gigs on soundch
 
 Deborah Aime La Bagarre, Emma B, Baccus
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herrkrank/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herrkrank/)*

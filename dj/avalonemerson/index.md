@@ -1,8 +1,8 @@
 # Avalon Emerson
 
-Avalon Emerson is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+Avalon Emerson is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
-Avalon Emerson is a techno and house artist based in United States of America, with 186 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Sedef Adasï, BASHKKA and Ben UFO. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
+Avalon Emerson is a techno and house artist based in United States of America, with 187 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Sedef Adasï, BASHKKA and Ben UFO. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Avalon Emerson is a techno and house artist based in United States of America, w
 | Sat, 31 Oct 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Thu, 5 Nov 2026 | Music Hall of Williamsburg | New York City |
 | Thu, 5 Nov 2026 | Music Hall of Williamsburg | New-york-city |
+| Fri, 13 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Sat, 19 Dec 2026 | 013 Poppodium | Netherlands |
 
@@ -35,4 +36,4 @@ Avalon Emerson is a techno and house artist based in United States of America, w
 
 Sedef Adasï, BASHKKA, Ben UFO
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*

@@ -1,13 +1,14 @@
 # Zoonpark
 
-Zoonpark is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Nué Seoul, Seoul on Sat, 10 Oct 2026.
+Zoonpark is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Graphic Hangang, Seoul on Fri, 9 Oct 2026.
 
-Zoonpark is a techno and house artist based in South Korea, with 107 gigs on soundcheck across Bangkok, Hong Kong, Seoul and South Korea. Often billed alongside Kim.Qna, Yun Line and DJ Funny. Next up: Nué Seoul, Seoul on Sat 10 Oct.
+Zoonpark is a techno and house artist based in South Korea, with 108 gigs on soundcheck across Bangkok, Hong Kong, Seoul and South Korea. Often billed alongside Kim.Qna, Yun Line and DJ Funny. Next up: Graphic Hangang, Seoul on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Graphic Hangang | Seoul |
 | Sat, 10 Oct 2026 | Nué Seoul | Seoul |
 
 ## Recently played
@@ -25,4 +26,4 @@ Zoonpark is a techno and house artist based in South Korea, with 107 gigs on sou
 
 Kim.Qna, Yun Line, DJ Funny
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoonpark/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoonpark/)*

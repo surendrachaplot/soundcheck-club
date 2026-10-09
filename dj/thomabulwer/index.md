@@ -1,6 +1,6 @@
 # Thoma Bulwer
 
-Thoma Bulwer is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 1 Nov 2026.
+Thoma Bulwer is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 1 Nov 2026.
 
 Thoma Bulwer is a house and minimal artist based in Netherlands, with 22 gigs on soundcheck across London. Often billed alongside Connor Male, Desuba and Finn. Next up: Starlane Pizza Bar, London on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Thoma Bulwer is a house and minimal artist based in Netherlands, with 22 gigs on
 
 Connor Male, Desuba, Finn
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomabulwer/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomabulwer/)*

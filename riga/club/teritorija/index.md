@@ -1,6 +1,6 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 15 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "COSMO RAVE: AROUND THE WORLD" on Fri, 9 Oct 2026.
+Teritorija is a music venue in Riga with 15 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "COSMO RAVE: AROUND THE WORLD" on Fri, 9 Oct 2026.
 
 Teritorija is a music venue in Riga listed on soundcheck. 15 upcoming gigs, with line-ups including Alexcel, ANASI, Aniri Chan and ARRISHA and 2 more. See dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
@@ -23,4 +23,4 @@ Teritorija is a music venue in Riga listed on soundcheck. 15 upcoming gigs, with
 
 Krišjāņa Barona Street 136, Riga, Riga
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*

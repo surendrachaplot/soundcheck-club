@@ -1,8 +1,8 @@
 # Kate Butler
 
-Kate Butler is a Club and Footwork artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Flux Studios D2, Dublin on Sat, 31 Oct 2026.
+Kate Butler is a Club and Footwork artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Flux Studios D2, Dublin on Sat, 31 Oct 2026.
 
-Kate Butler is a club and footwork artist, with 9 gigs on soundcheck across Berlin, Cork, Dublin and Galway. Often billed alongside don rosco, Cáit and Lolz. Next up: Flux Studios D2, Dublin on Sat 31 Oct.
+Kate Butler is a club and footwork artist based in Ireland, with 9 gigs on soundcheck across Berlin, Cork, Dublin and Galway. Often billed alongside don rosco, Cáit and Lolz. Next up: Flux Studios D2, Dublin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Kate Butler is a club and footwork artist, with 9 gigs on soundcheck across Berl
 
 don rosco, Cáit, Lolz
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katebutler/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katebutler/)*

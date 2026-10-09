@@ -1,6 +1,6 @@
 # LavaLava x Memphis: The Grand Convivium with Afriqua at Palazzo Permanens
 
-LavaLava x Memphis: The Grand Convivium with Afriqua at Palazzo Permanens on Sat 21 Nov, Budapest. 5 artists: Afriqua, Arash Ete, Falcao and Kiuz and 1 more. Techno and House. See the line-up on soundcheck.
+LavaLava x Memphis: The Grand Convivium with Afriqua at Palazzo Permanens on Sat 21 Nov, Budapest. 6 artists: Afriqua, Arash Ete, Falcao and Kiuz and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ LavaLava x Memphis: The Grand Convivium with Afriqua at Palazzo Permanens on Sat
 - Arash Ete
 - Falcao
 - Kiuz
+- schraeder
 - Tolo
 
 *Source: [soundcheck](https://soundcheck.club/e/2532750-lavalava-x-memphis-the-grand-convivium-with-afriqua-at-palaz/)*

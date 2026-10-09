@@ -1,6 +1,6 @@
 # Ayman
 
-Ayman is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Paname sur Seine, Paris on Sun, 11 Oct 2026.
+Ayman is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Paname sur Seine, Paris on Sun, 11 Oct 2026.
 
 Ayman is a tech house and minimal artist, with 8 gigs on soundcheck across Berlin, Montreal and Paris. Often billed alongside AMDH, MADAM and Aminos. Next up: Paname sur Seine, Paris on Sun 11 Oct.
 
@@ -24,4 +24,4 @@ Ayman is a tech house and minimal artist, with 8 gigs on soundcheck across Berli
 
 AMDH, MADAM, Aminos
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayman/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayman/)*

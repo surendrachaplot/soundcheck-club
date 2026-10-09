@@ -1,6 +1,6 @@
 # Red Ruby
 
-Red Ruby is a music venue in Bali with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "𝙀𝙀𝙇𝙆𝙀 𝙆𝙇𝙀𝙄𝙅𝙉 - 𝘿𝘼𝙔𝙎 𝙇𝙄𝙆𝙀 𝙉𝙄𝙂𝙃𝙏𝙎 [𝙉𝙇]" on Fri, 9 Oct 2026.
+Red Ruby is a music venue in Bali with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "𝙀𝙀𝙇𝙆𝙀 𝙆𝙇𝙀𝙄𝙅𝙉 - 𝘿𝘼𝙔𝙎 𝙇𝙄𝙆𝙀 𝙉𝙄𝙂𝙃𝙏𝙎 [𝙉𝙇]" on Fri, 9 Oct 2026.
 
 Red Ruby is a music venue in Bali listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Jl.Petitenget 919, Kerobokan Kelod, North Kuta, Badung Regency, Bali 80361, Indonesia.
 
@@ -15,4 +15,4 @@ Red Ruby is a music venue in Bali listed on soundcheck. 2 upcoming gigs. See dat
 
 Jl.Petitenget 919, Kerobokan Kelod, North Kuta, Badung Regency, Bali 80361, Indonesia, Bali
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/red-ruby/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/red-ruby/)*

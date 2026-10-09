@@ -1,14 +1,15 @@
 # British Murder Boys
 
-British Murder Boys is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at SMUT Athens, Athens on Sat, 14 Nov 2026.
+British Murder Boys is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at SMUT Athens, Athens on Sat, 14 Nov 2026.
 
-British Murder Boys is a techno and electro artist, with 17 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 9 more. Often billed alongside Oscar Mulero, CCL and Floating Points. Next up: SMUT Athens, Athens on Sat 14 Nov.
+British Murder Boys is a techno and electro artist, with 18 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 9 more. Often billed alongside Oscar Mulero, Regis and Surgeon. Next up: SMUT Athens, Athens on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | SMUT Athens | Athens |
+| Sat, 6 Mar 2027 | The Cause | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ British Murder Boys is a techno and electro artist, with 17 gigs on soundcheck a
 
 ## Shares bills with
 
-Oscar Mulero, CCL, Floating Points
+Oscar Mulero, Regis, Surgeon
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/britishmurderboys/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/britishmurderboys/)*

@@ -1,6 +1,6 @@
 # Renate Klubnacht with Carly Zeng & CREAM at Renate
 
-Renate Klubnacht with Carly Zeng & CREAM on Fri 13 Nov, Berlin. 5 artists: Brahmski, Carly Zeng, Johana Jost and Mille (DE) and 1 more. Techno and House. See the line-up on soundcheck.
+Renate Klubnacht with Carly Zeng & CREAM on Fri 13 Nov, Berlin. 6 artists: Aaron J, Brahmski, Carly Zeng and Johana Jost and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Renate Klubnacht with Carly Zeng & CREAM on Fri 13 Nov, Berlin. 5 artists: Brahm
 
 ## Line-up
 
+- Aaron J
 - Brahmski
 - Carly Zeng
 - Johana Jost

@@ -1,14 +1,14 @@
 # Marbré
 
-Marbré is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Fvtvr, Paris on Fri, 4 Dec 2026.
+Marbré is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at FVTVR, Paris on Fri, 4 Dec 2026.
 
-Marbré is a house and disco artist based in Canada, with 37 gigs on soundcheck across London, Montreal and Paris. Often billed alongside Pierrinski, Yambow and Lyss. Next up: Fvtvr, Paris on Fri 4 Dec.
+Marbré is a house and disco artist based in Canada, with 37 gigs on soundcheck across London, Montreal and Paris. Often billed alongside Pierrinski, Yambow and Lyss. Next up: FVTVR, Paris on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Dec 2026 | Fvtvr | Paris |
+| Fri, 4 Dec 2026 | FVTVR | Paris |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Marbré is a house and disco artist based in Canada, with 37 gigs on soundcheck 
 
 Pierrinski, Yambow, Lyss
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marbre/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marbre/)*

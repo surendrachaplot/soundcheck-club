@@ -1,17 +1,21 @@
 # Gorg-O-Mish
 
-Gorg-O-Mish is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "ANALOG // Ev O'Reilly, Abasi & Glyn // Vinyl Set" on Fri, 9 Oct 2026.
+Gorg-O-Mish is a music venue in Vancouver with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "ANALOG // Ev O'Reilly, Abasi & Glyn // Vinyl Set" on Fri, 9 Oct 2026.
 
-Gorg-O-Mish is a music venue in Vancouver listed on soundcheck. 1 upcoming gig, with line-ups including Abasi and Ev O'Reilly. See dates, start times and who's playing. 695 Smithe St; Vancouver, BC V6B 2C9; Canada.
+Gorg-O-Mish is a music venue in Vancouver listed on soundcheck. 5 upcoming gigs, with line-ups including 87DOVE, Abasi, Afrooz and Dairy Free and 2 more. See dates, start times and who's playing. 695 Smithe St; Vancouver, BC V6B 2C9; Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | ANALOG // Ev O'Reilly, Abasi & Glyn // Vinyl Set | Abasi, Ev O'Reilly |
+| Sat, 10 Oct 2026 | Gorg-O-Mish presents: Paul Franc, 87DOVE & Afrooz | 87DOVE, Afrooz, Paul Franc |
+| Fri, 16 Oct 2026 | ANALOG // Woodhead, Marcella & Oki // Vinyl Set | Marcella, Woodhead |
+| Fri, 23 Oct 2026 | ANALOG // Dairy Free, Hera & Tienn // Vinyl Set | Dairy Free, Hera (IE), Tienn |
+| Fri, 30 Oct 2026 | Halloween Weekend // ANALOG // Tyler Stadius, Mike McSuede & Kozue // Vinyl Set | Kozue, Mike McSuede, Tyler Stadius |
 
 ## Address
 
 695 Smithe St; Vancouver, BC V6B 2C9; Canada, Vancouver
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/gorg-o-mish/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/gorg-o-mish/)*

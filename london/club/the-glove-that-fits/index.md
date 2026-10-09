@@ -1,14 +1,13 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 23 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Fragment: Open Decks" on Thu, 8 Oct 2026.
+The Glove That Fits is a music venue in London with 23 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "HAiiNES presents We Are Strangers" on Thu, 15 Oct 2026.
 
-The Glove That Fits is a music venue in London listed on soundcheck. 23 upcoming gigs, with line-ups including Aisling, Amor Ante, Antonio De Angelis and Ardishko and 2 more. See dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
+The Glove That Fits is a music venue in London listed on soundcheck. 23 upcoming gigs, with line-ups including Aisling, Antonio De Angelis, Ardishko and Arnaud Le Texier and 2 more. See dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Fragment: Open Decks | Amor Ante, Lau.tastic, Val Enfys, YOYO (UK) |
 | Thu, 15 Oct 2026 | HAiiNES presents We Are Strangers |  |
 | Fri, 16 Oct 2026 | Ashvale W/ Heartbreak Hombres (Baby Rollén & Wilba) | Baby Rollén, Wilba |
 | Sat, 17 Oct 2026 | murmur - Autumn special | Aisling, Sincerely Simon |
@@ -18,9 +17,10 @@ The Glove That Fits is a music venue in London listed on soundcheck. 23 upcoming
 | Sat, 24 Oct 2026 | Strange DNA: Microdosed | Ryan Licchelli, Tom Place |
 | Thu, 29 Oct 2026 | DJ Carpenter presents Steel City Dance Discs EP Launch Party | DJ Carpenter, S.C.D.D. Hazmat Team |
 | Fri, 30 Oct 2026 | Soft Serve presents: Witching Hour w/ T. Jacques | Ardishko, GAZZA (UK), NAFEESA, OMC (UK), T. Jacques |
+| Sat, 31 Oct 2026 | Echogenic Halloween | Beaven, Myff Busta, Nio-B, PANACEA |
 
 ## Address
 
 179 Morning Lane, Hackney, E96LH, United Kingdom, London
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*

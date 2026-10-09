@@ -1,8 +1,8 @@
 # Hoppetosse
 
-Hoppetosse is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Apricots' Jam" on Fri, 9 Oct 2026.
+Hoppetosse is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Apricots' Jam" on Fri, 9 Oct 2026.
 
-Hoppetosse is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Alexandra, Andrei Ciubuc, Argenis Brito and Baloo (SA) and 2 more. See dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
+Hoppetosse is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including ALCATRAZ, Alexandra, Andrei Ciubuc and Argenis Brito and 2 more. See dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, wi
 | Sat, 17 Oct 2026 | Sekt&Brezeln - 4 YEARS ANNIVERSARY | Berto (DE), Fab Massimo, Fast (DE), Kaufmann, Leon Licht, Roman Adam, Rosa Kante, Sarah Wild, unDs |
 | Fri, 23 Oct 2026 | OFF THE GRID x IKIGAI | Diamin, Kithers, Levat, Onirik, Royston Bassmann |
 | Sat, 24 Oct 2026 | Ezo Festival Night | Argenis Brito, BEQA, Baloo (SA), Carlo, Marie Lung, Namir, SUMO |
+| Sat, 31 Oct 2026 | LIVE FROM EARTH Halloween | ALCATRAZ, Sparr00w, bambinodj |
 | Sun, 1 Nov 2026 | Outer Place | Borja S, Dean Denali, Interstellar Funk, Ma.to, Marco Shuttle |
 | Fri, 6 Nov 2026 | Extended PARTYBAR 3000 ∞ LETZTE WIESE | Schlecksi |
-| Sat, 7 Nov 2026 | Slow Life Showcase | Cecilio, GNMR, Laurine, Rafon (2) |
 
 ## Address
 
 Eichenstrasse 4; Treptow; 12435 Berlin; Germany, Berlin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*

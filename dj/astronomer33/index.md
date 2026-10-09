@@ -1,6 +1,6 @@
 # Astronomer33
 
-Astronomer33 is a Techno and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA, Mexico City on Fri, 9 Oct 2026.
+Astronomer33 is a Techno and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA, Mexico City on Fri, 9 Oct 2026.
 
 Astronomer33 is a techno and italo disco artist, with 19 gigs on soundcheck across Mexico City. Often billed alongside Inverted Sides, Adam X and Aliien Giirl. Next up: TBA, Mexico City on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Astronomer33 is a techno and italo disco artist, with 19 gigs on soundcheck acro
 
 Inverted Sides, Adam X, Aliien Giirl
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/astronomer33/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/astronomer33/)*

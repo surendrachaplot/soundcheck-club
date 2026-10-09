@@ -1,6 +1,6 @@
 # Dirac
 
-Dirac is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 9 Oct 2026.
+Dirac is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 9 Oct 2026.
 
 Dirac is a house and tech house artist based in Georgia, with 53 gigs on soundcheck across Berlin, Paris, San Francisco/Oakland and Tbilisi and 1 more. Often billed alongside OLLY, Generali Minerali and Ika (GE). Next up: Mtkvarze, Tbilisi on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Dirac is a house and tech house artist based in Georgia, with 53 gigs on soundch
 
 OLLY (2), Generali Minerali, Ika (GE)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirac/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirac/)*

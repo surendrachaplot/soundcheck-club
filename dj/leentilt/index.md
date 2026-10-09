@@ -1,6 +1,6 @@
 # Leen Tilt
 
-Leen Tilt is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Kramladen, Vienna on Sat, 17 Oct 2026.
+Leen Tilt is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Kramladen, Vienna on Sat, 17 Oct 2026.
 
 Leen Tilt is a techno artist based in Belgium, with 19 gigs on soundcheck across Berlin and Vienna. Often billed alongside Relinquo, Alena Noctis and MORASS. Next up: Kramladen, Vienna on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Leen Tilt is a techno artist based in Belgium, with 19 gigs on soundcheck across
 
 Relinquo, Alena Noctis, MORASS
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leentilt/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leentilt/)*

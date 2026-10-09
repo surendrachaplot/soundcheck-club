@@ -1,6 +1,6 @@
 # Phekam
 
-Phekam is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at rake?raka?, Osaka on Fri, 9 Oct 2026.
+Phekam is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at rake?raka?, Osaka on Fri, 9 Oct 2026.
 
 Phekam is a techno and house artist based in Japan, with 48 gigs on soundcheck across Osaka. Often billed alongside SIROH, Sonny Vercetti and MMORITA. Next up: rake?raka?, Osaka on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Phekam is a techno and house artist based in Japan, with 48 gigs on soundcheck a
 
 SIROH, Sonny Vercetti, MMORITA
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phekam/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phekam/)*

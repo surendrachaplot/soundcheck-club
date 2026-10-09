@@ -1,8 +1,8 @@
 # Katy Rough
 
-Katy Rough is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Sektor 6D, Warsaw on Fri, 9 Oct 2026.
+Katy Rough is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Sektor 6D, Warsaw on Fri, 9 Oct 2026.
 
-Katy Rough is a techno and trance artist based in Germany, with 51 gigs on soundcheck across Berlin, Cologne, Frankfurt and Freiburg and 6 more. Often billed alongside Charleen Herzig, A.N.I. and IGDA. Next up: Sektor 6D, Warsaw on Fri 9 Oct.
+Katy Rough is a techno and trance artist based in Germany, with 52 gigs on soundcheck across Berlin, Cologne, Frankfurt and Freiburg and 6 more. Often billed alongside Charleen Herzig, A.N.I. and IGDA. Next up: Sektor 6D, Warsaw on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Katy Rough is a techno and trance artist based in Germany, with 51 gigs on sound
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Sektor 6D | Warsaw |
 | Fri, 9 Oct 2026 | Sektor 6D | Warsaw |
+| Fri, 13 Nov 2026 | DSTRKT Club Berlin | Berlin |
 | Sat, 5 Dec 2026 | Hans Bunte Areal | Freiburg |
 | Sat, 28 Aug 2027 | Sommerbad Neuköln | Berlin |
 
@@ -28,4 +29,4 @@ Katy Rough is a techno and trance artist based in Germany, with 51 gigs on sound
 
 Charleen Herzig, A.N.I., IGDA
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katyrough/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katyrough/)*

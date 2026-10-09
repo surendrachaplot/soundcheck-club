@@ -1,6 +1,6 @@
 # Apotheke
 
-Apotheke is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "Sunday Sessions LA (Vinyl Only) Open Air" on Sun, 11 Oct 2026.
+Apotheke is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. The next is "Sunday Sessions LA (Vinyl Only) Open Air" on Sun, 11 Oct 2026.
 
 Apotheke is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 1746 N Spring St, Los Angeles, CA 90012.
 
@@ -14,4 +14,4 @@ Apotheke is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig. S
 
 1746 N Spring St, Los Angeles, CA 90012, Los Angeles
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/apotheke/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/apotheke/)*

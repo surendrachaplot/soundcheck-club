@@ -1,6 +1,6 @@
 # Dante
 
-Dante is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at REC Napoli, Naples on Sat, 17 Oct 2026.
+Dante is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at REC Napoli, Naples on Sat, 17 Oct 2026.
 
 Dante is a house and club artist based in Italy, with 52 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 13 more. Often billed alongside Leo Benassi, Guglielmo Bernardini and AGNES (IT). Next up: REC Napoli, Naples on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Dante is a house and club artist based in Italy, with 52 gigs on soundcheck acro
 
 Leo Benassi, Guglielmo Bernardini, AGNES (IT)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dante/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dante/)*

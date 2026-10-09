@@ -1,14 +1,15 @@
 # OZA
 
-OZA is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Club Rawhide, New York City on Fri, 9 Oct 2026.
+OZA is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Club Rawhide, New York City on Fri, 9 Oct 2026.
 
-OZA is a techno and trance artist based in United States of America, with 83 gigs on soundcheck across Amsterdam, Austin, Berlin and Boston and 11 more. Often billed alongside DJ Gigola, MCR-T and PALMA (US). Next up: Club Rawhide, New York City on Fri 9 Oct.
+OZA is a techno and trance artist based in United States of America, with 84 gigs on soundcheck across Amsterdam, Austin, Berlin and Boston and 11 more. Often billed alongside DJ Gigola, MCR-T and PALMA (US). Next up: Club Rawhide, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Club Rawhide | New York City |
+| Thu, 15 Oct 2026 | Club Rawhide | New York City |
 | Sat, 24 Oct 2026 | TBA | Los Angeles |
 | Fri, 6 Nov 2026 | TBA | Los Angeles |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
@@ -30,4 +31,4 @@ OZA is a techno and trance artist based in United States of America, with 83 gig
 
 DJ Gigola, MCR-T, PALMA (US)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oza/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oza/)*

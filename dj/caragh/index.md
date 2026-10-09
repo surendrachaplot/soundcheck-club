@@ -1,6 +1,6 @@
 # Caragh
 
-Caragh is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
+Caragh is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
 
 Caragh is a techno and house artist based in United Kingdom, with 13 gigs on soundcheck across Bristol, London, Nottingham and West Wales. Often billed alongside Daisy Moon, EMA and A For Alpha. Next up: The Prospect Building, Bristol on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Caragh is a techno and house artist based in United Kingdom, with 13 gigs on sou
 
 Daisy Moon, EMA (1), A For Alpha
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caragh/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caragh/)*

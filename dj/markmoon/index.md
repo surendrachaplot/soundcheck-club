@@ -1,6 +1,6 @@
 # Mark Moon
 
-Mark Moon is a House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Coil, Melbourne on Fri, 9 Oct 2026.
+Mark Moon is a House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Coil, Melbourne on Fri, 9 Oct 2026.
 
 Mark Moon is a house and latin bass artist, with 14 gigs on soundcheck across Melbourne. Often billed alongside Asha Franco, DJ MBq and Baba Noir. Next up: Coil, Melbourne on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Mark Moon is a house and latin bass artist, with 14 gigs on soundcheck across Me
 
 Asha Franco, DJ MBq, Baba Noir
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markmoon/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markmoon/)*

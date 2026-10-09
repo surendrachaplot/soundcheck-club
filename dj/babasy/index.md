@@ -1,6 +1,6 @@
 # Baba Sy
 
-Baba Sy is a Breakbeat and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Pluto, Valencia on Sat, 10 Oct 2026.
+Baba Sy is a Breakbeat and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Pluto, Valencia on Sat, 10 Oct 2026.
 
 Baba Sy is a breakbeat and bass artist based in Spain, with 33 gigs on soundcheck across Barcelona, Berlin, Brussels and Milan and 6 more. Often billed alongside Opoku, TNTC and B4mba. Next up: Pluto, Valencia on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Baba Sy is a breakbeat and bass artist based in Spain, with 33 gigs on soundchec
 
 Opoku, TNTC, B4mba
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babasy/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babasy/)*

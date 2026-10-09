@@ -1,6 +1,6 @@
 # Shir Khan
 
-Shir Khan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Tausend, Berlin on Sat, 17 Oct 2026.
+Shir Khan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Tausend, Berlin on Sat, 17 Oct 2026.
 
 Shir Khan is a house and techno artist based in Germany, with 9 gigs on soundcheck across Bangkok, Berlin and Ibiza. Often billed alongside Claptone, Mumsfilibaba and NK Chan. Next up: Tausend, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Shir Khan is a house and techno artist based in Germany, with 9 gigs on soundche
 
 Claptone, Mumsfilibaba, NK Chan (2)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shirkhan/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shirkhan/)*

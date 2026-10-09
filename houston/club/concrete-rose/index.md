@@ -1,6 +1,6 @@
 # Concrete Rose
 
-Concrete Rose is a music venue in Houston with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "soundctrl" on Sun, 11 Oct 2026.
+Concrete Rose is a music venue in Houston with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. The next is "soundctrl" on Sun, 11 Oct 2026.
 
 Concrete Rose is a music venue in Houston listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Concrete Rose is a music venue in Houston listed on soundcheck. 1 upcoming gig. 
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | soundctrl |  |
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/houston/club/concrete-rose/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/houston/club/concrete-rose/)*

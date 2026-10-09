@@ -1,13 +1,14 @@
 # Danny Snowden
 
-Danny Snowden is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Club Up, Amsterdam on Thu, 22 Oct 2026.
+Danny Snowden is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Joshua Brooks, Manchester on Sat, 17 Oct 2026.
 
-Danny Snowden is a house and tech house artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Auckland, Brighton and Edinburgh and 9 more. Often billed alongside Sidney Charles, Ashkaan and DXNBY. Next up: Club Up, Amsterdam on Thu 22 Oct.
+Danny Snowden is a house and tech house artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Auckland, Brighton and Edinburgh and 9 more. Often billed alongside Sidney Charles, Ashkaan and DXNBY. Next up: Joshua Brooks, Manchester on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Joshua Brooks | Manchester |
 | Thu, 22 Oct 2026 | Club Up | Amsterdam |
 | Thu, 22 Oct 2026 | The Bulldog Palace | Amsterdam |
 | Sat, 7 Nov 2026 | Mint XL | Leeds |
@@ -27,4 +28,4 @@ Danny Snowden is a house and tech house artist based in United Kingdom, with 28 
 
 Sidney Charles, Ashkaan, DXNBY
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannysnowden/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannysnowden/)*

@@ -1,6 +1,6 @@
 # Zanias
 
-Zanias is a Techno and Post-Punk artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Massive, Seattle on Sat, 17 Oct 2026.
+Zanias is a Techno and Post-Punk artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Massive, Seattle on Sat, 17 Oct 2026.
 
 Zanias is a techno and post-punk artist based in Australia, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 16 more. Often billed alongside Kris Baha, Neu-Romancer and Berlin Bunny. Next up: Massive, Seattle on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Zanias is a techno and post-punk artist based in Australia, with 43 gigs on soun
 
 Kris Baha, Neu-Romancer, Berlin Bunny
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zanias/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zanias/)*

@@ -1,6 +1,6 @@
 # Flux
 
-Flux is a music venue in Istanbul with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Terminal Turkiye Launch Event: Alican" on Fri, 9 Oct 2026.
+Flux is a music venue in Istanbul with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Terminal Turkiye Launch Event: Alican" on Fri, 9 Oct 2026.
 
 Flux is a music venue in Istanbul listed on soundcheck. 6 upcoming gigs, with line-ups including Alican, gwän, Ignez and Lavin and 2 more. See dates, start times and who's playing. Ahi Evran Caddesi No: 6, Maslak/Sarıyer, Istanbul, Turkey 34396.
 
@@ -19,4 +19,4 @@ Flux is a music venue in Istanbul listed on soundcheck. 6 upcoming gigs, with li
 
 Ahi Evran Caddesi No: 6, Maslak/Sarıyer, Istanbul, Turkey 34396, Istanbul
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/flux/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/flux/)*

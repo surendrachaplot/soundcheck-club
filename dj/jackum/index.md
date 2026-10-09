@@ -1,14 +1,16 @@
 # Jackum
 
-Jackum is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Circle Lincoln, Midlands on Sat, 17 Oct 2026.
+Jackum is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Circle Lincoln, Midlands on Sat, 17 Oct 2026.
 
-Jackum is a garage and bass artist based in United Kingdom, with 36 gigs on soundcheck across Brighton, Bristol, Leeds and London and 6 more. Often billed alongside Efan, MPH and Bushbaby. Next up: Circle Lincoln, Midlands on Sat 17 Oct.
+Jackum is a garage and bass artist based in United Kingdom, with 38 gigs on soundcheck across Brighton, Bristol, Leeds and London and 6 more. Often billed alongside Efan, MPH and Bushbaby. Next up: Circle Lincoln, Midlands on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Circle Lincoln | Midlands |
+| Fri, 11 Dec 2026 | Beaver Works | Leeds |
+| Fri, 11 Dec 2026 | Yes | Manchester |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Jackum is a garage and bass artist based in United Kingdom, with 36 gigs on soun
 
 Efan, MPH (1), Bushbaby
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackum/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackum/)*

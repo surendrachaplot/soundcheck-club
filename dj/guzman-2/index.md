@@ -1,6 +1,6 @@
 # Guzman (2)
 
-Guzman (2) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Cellar, London on Sun, 11 Oct 2026.
+Guzman (2) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Cellar, London on Sun, 11 Oct 2026.
 
 Guzman is a techno and electro artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Calla, Roman and Adi (CO). Next up: Cellar, London on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Guzman is a techno and electro artist based in United Kingdom, with 9 gigs on so
 
 Calla, Roman (3), Adi (CO)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guzman-2/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guzman-2/)*

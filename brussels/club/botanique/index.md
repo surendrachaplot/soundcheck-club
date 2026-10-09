@@ -1,18 +1,18 @@
 # Botanique
 
-Botanique is a music venue in Brussels with 22 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "rogergoon" on Thu, 8 Oct 2026.
+Botanique is a music venue in Brussels with 25 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Kiss Facility" on Fri, 9 Oct 2026.
 
-Botanique is a music venue in Brussels listed on soundcheck. 22 upcoming gigs, with line-ups including A Good Year, Anton Friisgaard, Antony Szmierek and Aponogeton and 2 more. See dates, start times and who's playing. Koningsstraat 236, 1210 Brussels, Belgium.
+Botanique is a music venue in Brussels listed on soundcheck. 25 upcoming gigs, with line-ups including A Good Year, Anton Friisgaard, Antony Szmierek and Aponogeton and 2 more. See dates, start times and who's playing. Koningsstraat 236, 1210 Brussels, Belgium.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | rogergoon |  |
-| Thu, 8 Oct 2026 | Rêves x J&A |  |
 | Fri, 9 Oct 2026 | Kiss Facility |  |
+| Sun, 11 Oct 2026 | BORN BAD FÊTE SES 20 ANS AU BOTA | Leroy Se Meurt, Zombie Zombie |
 | Tue, 13 Oct 2026 | Starjunk 95 |  |
 | Sat, 17 Oct 2026 | Museum Night Fever: Bota By Night | Megra, Rattlesnakke, Spirite, TORI ANN, TUTUMIMI, Zora Jones |
+| Wed, 21 Oct 2026 | IMAINA - Ricky Corazón | Ricky Corazón |
 | Thu, 22 Oct 2026 | Mind Enterprises |  |
 | Fri, 23 Oct 2026 | Jennifur | Jennifur |
 | Sat, 24 Oct 2026 | Gold Panda | Gold Panda |
@@ -23,4 +23,4 @@ Botanique is a music venue in Brussels listed on soundcheck. 22 upcoming gigs, w
 
 Koningsstraat 236, 1210 Brussels, Belgium, Brussels
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/botanique/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/botanique/)*

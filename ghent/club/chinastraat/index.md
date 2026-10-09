@@ -1,8 +1,8 @@
 # Chinastraat
 
-Chinastraat is a music venue in Ghent with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Gaia #002" on Fri, 9 Oct 2026.
+Chinastraat is a music venue in Ghent with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Gaia #002" on Fri, 9 Oct 2026.
 
-Chinastraat is a music venue in Ghent listed on soundcheck. 6 upcoming gigs, with line-ups including Alycia Bezgo, Amalie, Arthur Robert and BIIANCO and 2 more. See dates, start times and who's playing. Chinastraat 1, 9000 Ghent.
+Chinastraat is a music venue in Ghent listed on soundcheck. 7 upcoming gigs, with line-ups including Alycia Bezgo, Amalie, Amotik and Arthur Robert and 2 more. See dates, start times and who's playing. Chinastraat 1, 9000 Ghent.
 
 ## What's on
 
@@ -14,9 +14,10 @@ Chinastraat is a music venue in Ghent listed on soundcheck. 6 upcoming gigs, wit
 | Sun, 1 Nov 2026 | Groove Theory with Connor Wall | Clara D, Connor Wall, Max. (BE), Rafael Munoz |
 | Sat, 7 Nov 2026 | FRACTAAL X ALLE REMMEN LOS [ACIDCORE & HARDCORE UPTEMPO] | Foubert, Inkorrekt, MARDENMEISTER |
 | Tue, 10 Nov 2026 | Medusa Indoor with Arthur Robert (Figure, Token) | Amalie, Arthur Robert, Jochen Robberecht, Michael Forzza |
+| Sat, 14 Nov 2026 | Danspas. w/ Amotik | Amalie, Amotik, Felix Porte, Thibault De Vrieze |
 
 ## Address
 
 Chinastraat 1, 9000 Ghent, Ghent
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/chinastraat/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/chinastraat/)*

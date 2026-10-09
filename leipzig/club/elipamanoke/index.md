@@ -1,6 +1,6 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 14 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "fem*vak - The Fall of Patriarchy" on Fri, 9 Oct 2026.
+elipamanoke is a music venue in Leipzig with 14 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "fem*vak - The Fall of Patriarchy" on Fri, 9 Oct 2026.
 
 elipamanoke is a music venue in Leipzig listed on soundcheck. 14 upcoming gigs, with line-ups including Justine Perry, Acid Goldee, a:technuk and BOHO and 2 more. See dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
@@ -15,7 +15,7 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 14 upcoming gigs, 
 | Sat, 17 Oct 2026 | SUPERPAMANOKE with Justine Perry | DIRTY YOUTH, DJ STIMULA, Justine Perry, Lea Jessen, SPLINTER (2), marengo (2), s-ray |
 | Wed, 21 Oct 2026 | between x Carpe Nox |  |
 | Fri, 23 Oct 2026 | elifaces #4 hosted by Red Harmony & R-SOHR | DJ ritalino, MAGDALENA MAY, Medha, Philipp Drube, R-SOHR |
-| Sun, 25 Oct 2026 | 2 JAHRE NACHLEGEN |  |
+| Sun, 25 Oct 2026 | 2 JAHRE NACHLEGEN | Hypnosta, KREONE, MIDNXGHT, UNTENLINKS |
 | Wed, 28 Oct 2026 | between x Soft Violence | Mariposa x Lyra, Richie Rollin, VLUNA |
 | Fri, 30 Oct 2026 | Trancegedance - Halloween Special | Acid Goldee, GoaGraf, ch4r20tte, monotony |
 
@@ -23,4 +23,4 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 14 upcoming gigs, 
 
 Markranstädter Straße 4, 04229 Leipzig, Leipzig
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*

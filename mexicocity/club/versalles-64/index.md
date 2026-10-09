@@ -1,6 +1,6 @@
 # Versalles 64
 
-Versalles 64 is a music venue in Mexico City with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "[sic]: Eliangel / Miss Mara / dj mir / juandjj" on Sat, 10 Oct 2026.
+Versalles 64 is a music venue in Mexico City with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "[sic]: Eliangel / Miss Mara / dj mir / juandjj" on Sat, 10 Oct 2026.
 
 Versalles 64 is a music venue in Mexico City listed on soundcheck. 3 upcoming gigs, with line-ups including daveh00d, Eliangel, juandjj and Miss Mara and 1 more. See dates, start times and who's playing. Calle Versalles 64, Col. Juárez. CDMX.
 
@@ -16,4 +16,4 @@ Versalles 64 is a music venue in Mexico City listed on soundcheck. 3 upcoming gi
 
 Calle Versalles 64, Col. Juárez. CDMX, Mexico City
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/versalles-64/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/versalles-64/)*

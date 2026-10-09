@@ -1,6 +1,6 @@
 # Jean Sean
 
-Jean Sean is a Baile Funk and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Sunkissed, Florida on Sat, 10 Oct 2026.
+Jean Sean is a Baile Funk and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Sunkissed, Florida on Sat, 10 Oct 2026.
 
 Jean Sean is a baile funk and bass artist based in United States of America, with 8 gigs on soundcheck across Florida and Miami. Often billed alongside GRUE5OME, //DLM and Bonita Applebumz. Next up: Sunkissed, Florida on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Jean Sean is a baile funk and bass artist based in United States of America, wit
 
 GRUE5OME, //DLM, Bonita Applebumz
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeansean/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeansean/)*

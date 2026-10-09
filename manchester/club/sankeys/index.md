@@ -1,6 +1,6 @@
 # Sankeys
 
-Sankeys is a music venue in Manchester with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Sankeys Saturdays" on Sat, 10 Oct 2026.
+Sankeys is a music venue in Manchester with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Sankeys Saturdays" on Sat, 10 Oct 2026.
 
 Sankeys is a music venue in Manchester listed on soundcheck. 11 upcoming gigs, with line-ups including Darius Syrossian, George Smeddles, Grant Nelson and Jaden Thompson and 2 more. See dates, start times and who's playing. Sidney Street, Manchester, M1 7HB.
 
@@ -23,4 +23,4 @@ Sankeys is a music venue in Manchester listed on soundcheck. 11 upcoming gigs, w
 
 Sidney Street, Manchester, M1 7HB, Manchester
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/sankeys/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/sankeys/)*

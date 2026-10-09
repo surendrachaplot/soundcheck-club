@@ -1,6 +1,6 @@
 # Pedro D. Saiz
 
-Pedro D. Saiz is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at West Harlem, Kyoto on Fri, 9 Oct 2026.
+Pedro D. Saiz is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at West Harlem, Kyoto on Fri, 9 Oct 2026.
 
 Pedro D. Saiz is an electronica and house artist based in Spain, with 21 gigs on soundcheck across Barcelona, Kyoto, Madrid and Osaka and 2 more. Often billed alongside Dichas, Bianca Lexis and 3rill. Next up: West Harlem, Kyoto on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Pedro D. Saiz is an electronica and house artist based in Spain, with 21 gigs on
 
 Dichas, Bianca Lexis, 3rill
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrod.saiz/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrod.saiz/)*

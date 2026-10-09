@@ -1,6 +1,6 @@
 # S4M23
 
-S4M23 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Club Rawhide, New York City on Sat, 10 Oct 2026.
+S4M23 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Club Rawhide, New York City on Sat, 10 Oct 2026.
 
 S4M23 is a techno and house artist based in United States of America, with 82 gigs on soundcheck across Athens, Austin, Berlin and Boston and 8 more. Often billed alongside Mike Servito, Miss Parker and Lauren Flax. Next up: Club Rawhide, New York City on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ S4M23 is a techno and house artist based in United States of America, with 82 gi
 
 Mike Servito, Miss Parker, Lauren Flax
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s4m23/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s4m23/)*

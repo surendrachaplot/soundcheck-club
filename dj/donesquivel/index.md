@@ -1,6 +1,6 @@
 # Don Esquivel
 
-Don Esquivel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Japan Monterrey, Mexico City on Sat, 10 Oct 2026.
+Don Esquivel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Japan Monterrey, Mexico City on Sat, 10 Oct 2026.
 
 Don Esquivel is a house and techno artist based in Mexico, with 44 gigs on soundcheck across Barcelona, Buenos Aires, Los Angeles and Mexico City and 1 more. Often billed alongside Kodemul, Enya Botello and Alby Esc. Next up: Japan Monterrey, Mexico City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Don Esquivel is a house and techno artist based in Mexico, with 44 gigs on sound
 
 Kodemul, Enya Botello, Alby Esc
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donesquivel/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donesquivel/)*

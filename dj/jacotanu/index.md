@@ -1,14 +1,15 @@
 # Jacotanu
 
-Jacotanu is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 31 Oct 2026.
+Jacotanu is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 31 Oct 2026.
 
-Jacotanu is a bass and garage artist based in Japan, with 27 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside Genick, Oblongar and Nizikawa. Next up: Circus Tokyo, Tokyo on Sat 31 Oct.
+Jacotanu is a bass and garage artist based in Japan, with 28 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside Genick, Oblongar and Nizikawa. Next up: Circus Tokyo, Tokyo on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Circus Tokyo | Tokyo |
+| Sun, 27 Dec 2026 | clubasia | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Jacotanu is a bass and garage artist based in Japan, with 27 gigs on soundcheck 
 
 Genick, Oblongar, Nizikawa
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacotanu/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacotanu/)*

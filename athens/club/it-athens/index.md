@@ -1,6 +1,6 @@
 # IT Athens
 
-IT Athens is a music venue in Athens with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Natural High Return" on Fri, 9 Oct 2026.
+IT Athens is a music venue in Athens with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Natural High Return" on Fri, 9 Oct 2026.
 
 IT Athens is a music venue in Athens listed on soundcheck. 9 upcoming gigs, with line-ups including Brazi, DJ B2B, Jacopo Sb and MOSHBEAT and 2 more. See dates, start times and who's playing. Solomou 30 and Mpotasi 9 Street, Athens,10682.
 
@@ -22,4 +22,4 @@ IT Athens is a music venue in Athens listed on soundcheck. 9 upcoming gigs, with
 
 Solomou 30 and Mpotasi 9 Street, Athens,10682, Athens
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/it-athens/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/it-athens/)*

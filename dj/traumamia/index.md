@@ -1,14 +1,15 @@
 # TraumaMia
 
-TraumaMia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Klunkerkranich, Berlin on Fri, 9 Oct 2026.
+TraumaMia is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Klunkerkranich, Berlin on Fri, 9 Oct 2026.
 
-TraumaMia is a techno and house artist based in Germany, with 90 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside Ele Luz, Katzengold and Maurice Mino. Next up: Klunkerkranich, Berlin on Fri 9 Oct.
+TraumaMia is a techno and house artist based in Germany, with 91 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside Maurice Mino, Ele Luz and Katzengold. Next up: Klunkerkranich, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Klunkerkranich | Berlin |
+| Sat, 31 Oct 2026 | PKH Warehouse | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ TraumaMia is a techno and house artist based in Germany, with 90 gigs on soundch
 
 ## Shares bills with
 
-Ele Luz, Katzengold, Maurice Mino
+Maurice Mino, Ele Luz, Katzengold
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/traumamia/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/traumamia/)*

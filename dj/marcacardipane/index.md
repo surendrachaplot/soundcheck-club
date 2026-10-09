@@ -1,6 +1,6 @@
 # Marc Acardipane
 
-Marc Acardipane is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Mia Mao, Paris on Fri, 9 Oct 2026.
+Marc Acardipane is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Mia Mao, Paris on Fri, 9 Oct 2026.
 
 Marc Acardipane is a hardcore and techno artist based in Germany, with 29 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 11 more. Often billed alongside Paul Elstak, Act of Rage and Mad Dog. Next up: Mia Mao, Paris on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Marc Acardipane is a hardcore and techno artist based in Germany, with 29 gigs o
 
 Paul Elstak, Act of Rage, Mad Dog
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcacardipane/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcacardipane/)*

@@ -1,6 +1,6 @@
 # FEEDER feat. PARTY at R Lounge
 
-FEEDER feat. PARTY at R Lounge on Mon 2 Nov, Tokyo. 4 artists: ALKA, Nobuharu Morimoto, Shogo Ito and tech-nas. See the line-up on soundcheck.
+FEEDER feat. PARTY at R Lounge on Mon 2 Nov, Tokyo. 4 artists: ALKA, Nobuharu Morimoto, Shogo Ito and tech-nas. Techno and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

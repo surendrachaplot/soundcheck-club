@@ -1,6 +1,6 @@
 # Yanamaste at Kompass (ALL NIGHT LONG) at Kompass Klub
 
-Yanamaste at Kompass (ALL NIGHT LONG) at Kompass Klub on Fri 9 Oct, Ghent. 2 artists: Clara D and Yanamaste. Techno. See the line-up on soundcheck.
+Yanamaste at Kompass (ALL NIGHT LONG) at Kompass Klub on Fri 9 Oct, Ghent. 5 artists: Azra Tekuma, Clara D, Hugo Humblet and Maharti and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,10 @@ Yanamaste at Kompass (ALL NIGHT LONG) at Kompass Klub on Fri 9 Oct, Ghent. 2 art
 
 ## Line-up
 
+- Azra Tekuma
 - Clara D
+- Hugo Humblet
+- Maharti
 - Yanamaste
 
 *Source: [soundcheck](https://soundcheck.club/e/2515407-yanamaste-at-kompass-all-night-long-at-kompass-klub/)*

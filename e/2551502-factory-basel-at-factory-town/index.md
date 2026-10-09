@@ -1,6 +1,6 @@
 # Factory Basel at Factory Town
 
-Factory Basel at Factory Town on Wed 2 Dec, Miami. 73 artists: Aline Umber, Ammo Avenue, ANNĒ and Annie Lew and 69 more. See the line-up on soundcheck.
+Factory Basel at Factory Town on Wed 2 Dec, Miami. 77 artists: Adam Ten, Aline Umber, Ammo Avenue and ANNĒ and 73 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Factory Basel at Factory Town on Wed 2 Dec, Miami. 73 artists: Aline Umber, Ammo
 
 ## Line-up
 
+- Adam Ten
 - Aline Umber
 - Ammo Avenue
 - ANNĒ
@@ -17,6 +18,7 @@ Factory Basel at Factory Town on Wed 2 Dec, Miami. 73 artists: Aline Umber, Ammo
 - Bastian Bux
 - Beltran
 - Ben Sterling
+- BLOND:ISH
 - Broodoo Ramses
 - Cam Stockman
 - Carlita
@@ -27,6 +29,7 @@ Factory Basel at Factory Town on Wed 2 Dec, Miami. 73 artists: Aline Umber, Ammo
 - Coffintexts
 - D.Dan
 - Dennis Ferrer
+- Diplo
 - Dixon
 - DJ Holographic
 - DJ Minx
@@ -79,6 +82,7 @@ Factory Basel at Factory Town on Wed 2 Dec, Miami. 73 artists: Aline Umber, Ammo
 - Solomun
 - TEED
 - The Martinez Brothers
+- Tiga
 - Tommy Phillips
 - TONS
 - UNiiQU3

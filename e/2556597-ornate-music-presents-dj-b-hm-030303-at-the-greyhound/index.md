@@ -1,6 +1,6 @@
 # Ornate Music presents DJ Böhm (030303) at The Greyhound
 
-Ornate Music presents DJ Böhm (030303) at The Greyhound on Sat 7 Nov, London. 3 artists: Bohm, Damo B and OCH. See the line-up on soundcheck.
+Ornate Music presents DJ Böhm (030303) at The Greyhound on Sat 7 Nov, London. 3 artists: Bohm, Damo B and OCH. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

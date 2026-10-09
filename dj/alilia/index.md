@@ -1,6 +1,6 @@
 # Alilia
 
-Alilia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+Alilia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
 Alilia is a techno and house artist based in Australia, with 27 gigs on soundcheck across Melbourne and Sydney. Often billed alongside anusha, fuchsia and Ash Lauryn. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Alilia is a techno and house artist based in Australia, with 27 gigs on soundche
 
 anusha, fuchsia, Ash Lauryn
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alilia/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alilia/)*

@@ -1,6 +1,6 @@
 # Resolved: DSA Halloween at Paragon
 
-Resolved: DSA Halloween at Paragon on Thu 29 Oct, New York City. 3 artists: Kellya, Nick Boyd and PG-13. House and Post-Punk. See the line-up on soundcheck.
+Resolved: DSA Halloween at Paragon on Thu 29 Oct, New York City. 4 artists: Kellya, Nick Boyd, PG-13 and Ted From Accounting. Jungle and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Resolved: DSA Halloween at Paragon on Thu 29 Oct, New York City. 3 artists: Kell
 - Kellya
 - Nick Boyd
 - PG-13
+- Ted From Accounting
 
 *Source: [soundcheck](https://soundcheck.club/e/2550591-resolved-dsa-halloween-at-paragon/)*

@@ -1,8 +1,8 @@
 # DJ Doorkeeper
 
-DJ Doorkeeper is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 17 Oct 2026.
+DJ Doorkeeper is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 17 Oct 2026.
 
-DJ Doorkeeper is a techno and tech house artist, with 28 gigs on soundcheck across Berlin. Often billed alongside Mijk van Dijk, Sika Akis and Maschine. Next up: Der Weiße Hase, Berlin on Sat 17 Oct.
+DJ Doorkeeper is a techno and tech house artist based in Germany, with 28 gigs on soundcheck across Berlin. Often billed alongside Mijk van Dijk, Sika Akis and Maschine. Next up: Der Weiße Hase, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ Doorkeeper is a techno and tech house artist, with 28 gigs on soundcheck acro
 
 Mijk van Dijk, Sika Akis, Maschine
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdoorkeeper/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdoorkeeper/)*

@@ -1,8 +1,8 @@
 # no.name (IT)
 
-no.name (IT) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at ÆDEN, Berlin on Fri, 23 Oct 2026.
+no.name (IT) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at ÆDEN, Berlin on Fri, 23 Oct 2026.
 
-no.name (IT) is a techno and trance artist, with 49 gigs on soundcheck across Amsterdam, Berlin, Budapest and Dublin and 5 more. Often billed alongside MZR, Alarico and Maris Shilton. Next up: ÆDEN, Berlin on Fri 23 Oct.
+no.name (IT) is a techno and trance artist based in Italy, with 49 gigs on soundcheck across Amsterdam, Berlin, Budapest and Dublin and 5 more. Often billed alongside MZR, Alarico and Maris Shilton. Next up: ÆDEN, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ no.name (IT) is a techno and trance artist, with 49 gigs on soundcheck across Am
 
 MZR, Alarico, Maris Shilton
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/no.nameit/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/no.nameit/)*

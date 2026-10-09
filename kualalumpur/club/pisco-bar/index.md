@@ -1,6 +1,6 @@
 # Pisco Bar
 
-Pisco Bar is a music venue in Kuala Lumpur with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "MODULUS: Modus Operandi" on Fri, 9 Oct 2026.
+Pisco Bar is a music venue in Kuala Lumpur with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "MODULUS: Modus Operandi" on Fri, 9 Oct 2026.
 
 Pisco Bar is a music venue in Kuala Lumpur listed on soundcheck. 4 upcoming gigs, with line-ups including ÆTHELGON, Di Linh, EFTPOS MINIMUM and Jenn Chunes and 2 more. See dates, start times and who's playing. 29 Jalan Mesui, Changkat.
 
@@ -17,4 +17,4 @@ Pisco Bar is a music venue in Kuala Lumpur listed on soundcheck. 4 upcoming gigs
 
 29 Jalan Mesui, Changkat, Kuala Lumpur
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/pisco-bar/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/pisco-bar/)*

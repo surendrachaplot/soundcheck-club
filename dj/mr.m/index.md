@@ -1,6 +1,6 @@
 # Mr.M
 
-Mr.M is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at B side Athens, Athens on Fri, 9 Oct 2026.
+Mr.M is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at B side Athens, Athens on Fri, 9 Oct 2026.
 
 Mr.M is a techno and house artist based in Greece, with 57 gigs on soundcheck across Athens. Often billed alongside Nikos Thanos, George Apergis and BMSK. Next up: B side Athens, Athens on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Mr.M is a techno and house artist based in Greece, with 57 gigs on soundcheck ac
 
 Nikos Thanos, George Apergis, BMSK
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.m/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.m/)*

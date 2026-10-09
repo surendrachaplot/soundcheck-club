@@ -1,6 +1,6 @@
 # Musica Club NYC
 
-Musica Club NYC is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. The next is "Body & SOUL MLK Celebration 2027" on Sun, 17 Jan 2027.
+Musica Club NYC is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. The next is "Body & SOUL MLK Celebration 2027" on Sun, 17 Jan 2027.
 
 Musica Club NYC is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Danny Krivit, Francois K and Joe Claussell. See dates, start times and who's playing. 637 W 50th Street, New York, NY 10019 USA.
 
@@ -14,4 +14,4 @@ Musica Club NYC is a music venue in New York City listed on soundcheck. 1 upcomi
 
 637 W 50th Street, New York, NY 10019 USA, New York City
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/musica-club-nyc/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/musica-club-nyc/)*

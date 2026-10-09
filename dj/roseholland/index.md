@@ -1,6 +1,6 @@
 # Rose Holland
 
-Rose Holland is a Garage and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
+Rose Holland is a Garage and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
 
 Rose Holland is a garage and breakbeat artist based in United Kingdom, with 10 gigs on soundcheck across Bristol and London. Often billed alongside A For Alpha, Chiedza and DJ Die. Next up: The Prospect Building, Bristol on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Rose Holland is a garage and breakbeat artist based in United Kingdom, with 10 g
 
 A For Alpha, Chiedza, DJ Die
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roseholland/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roseholland/)*

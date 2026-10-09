@@ -1,13 +1,14 @@
 # Hender
 
-Hender is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Nyapi, Seoul on Sat, 17 Oct 2026.
+Hender is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Graphic Hangang, Seoul on Fri, 9 Oct 2026.
 
-Hender is a house and disco artist based in South Korea, with 85 gigs on soundcheck across Seoul. Often billed alongside VENEBOE, Cityboy from Seoul and Jooheon. Next up: Nyapi, Seoul on Sat 17 Oct.
+Hender is a house and disco artist based in South Korea, with 86 gigs on soundcheck across Seoul. Often billed alongside VENEBOE, Cityboy from Seoul and Jooheon. Next up: Graphic Hangang, Seoul on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Graphic Hangang | Seoul |
 | Sat, 17 Oct 2026 | Nyapi | Seoul |
 | Sat, 24 Oct 2026 | Nyapi | Seoul |
 | Fri, 30 Oct 2026 | Nyapi | Seoul |
@@ -27,4 +28,4 @@ Hender is a house and disco artist based in South Korea, with 85 gigs on soundch
 
 VENEBOE, Cityboy from Seoul, Jooheon
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hender/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hender/)*

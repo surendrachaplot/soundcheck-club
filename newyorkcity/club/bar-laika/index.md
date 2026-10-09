@@ -1,6 +1,6 @@
 # Bar Laika
 
-Bar Laika is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Playback 0040" on Wed, 21 Oct 2026.
+Bar Laika is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Playback 0040" on Wed, 21 Oct 2026.
 
 Bar Laika is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Chantal Michelle and Solpara. See dates, start times and who's playing. 224 Greene Ave Brooklyn, New York.
 
@@ -15,4 +15,4 @@ Bar Laika is a music venue in New York City listed on soundcheck. 2 upcoming gig
 
 224 Greene Ave Brooklyn, New York, New York City
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bar-laika/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bar-laika/)*

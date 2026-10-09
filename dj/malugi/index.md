@@ -1,6 +1,6 @@
 # MALUGI
 
-MALUGI is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
+MALUGI is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
 
 MALUGI is a techno and house artist based in Germany, with 229 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 58 more. Often billed alongside Marlon Hoffstadt, Surf 2 Glory and DJ Heartstring. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
 
@@ -34,4 +34,4 @@ MALUGI is a techno and house artist based in Germany, with 229 gigs on soundchec
 
 Marlon Hoffstadt, Surf 2 Glory, DJ Heartstring
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malugi/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malugi/)*

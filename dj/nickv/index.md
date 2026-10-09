@@ -1,14 +1,15 @@
 # Nick V
 
-Nick V is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Plantation, Paris on Fri, 9 Oct 2026.
+Nick V is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Plantation, Paris on Fri, 9 Oct 2026.
 
-Nick V is a house and disco artist based in France, with 84 gigs on soundcheck across Berlin, Geneva, Liverpool and Lyon and 4 more. Often billed alongside DJ André, Odd Sweet and Crowd Control. Next up: Plantation, Paris on Fri 9 Oct.
+Nick V is a house and disco artist based in France, with 85 gigs on soundcheck across Berlin, Bordeaux, Geneva and Liverpool and 5 more. Often billed alongside DJ André, Odd Sweet and Crowd Control. Next up: Plantation, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Plantation | Paris |
+| Sat, 31 Oct 2026 | Bien Public | Bordeaux |
 | Fri, 27 Nov 2026 | Cabaret Sauvage | Paris |
 
 ## Recently played
@@ -26,4 +27,4 @@ Nick V is a house and disco artist based in France, with 84 gigs on soundcheck a
 
 DJ André, Odd Sweet, Crowd Control
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickv/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickv/)*

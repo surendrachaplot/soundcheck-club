@@ -1,6 +1,6 @@
 # Edge Miami
 
-Edge Miami is a music venue in Miami with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Harvybal: Harvy Valencia Open to Close" on Sat, 10 Oct 2026.
+Edge Miami is a music venue in Miami with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Harvybal: Harvy Valencia Open to Close" on Sat, 10 Oct 2026.
 
 Edge Miami is a music venue in Miami listed on soundcheck. 3 upcoming gigs, with line-ups including Brian Cid and Harvy Valencia. See dates, start times and who's playing. 114 NE 20th Terrace Miami, FL 33137.
 
@@ -16,4 +16,4 @@ Edge Miami is a music venue in Miami listed on soundcheck. 3 upcoming gigs, with
 
 114 NE 20th Terrace Miami, FL 33137, Miami
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/edge-miami/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/edge-miami/)*

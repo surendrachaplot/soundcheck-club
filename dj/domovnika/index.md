@@ -1,6 +1,6 @@
 # Domovnika
 
-Domovnika is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Aedes Bar, Berlin on Fri, 9 Oct 2026.
+Domovnika is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Aedes Bar, Berlin on Fri, 9 Oct 2026.
 
 Domovnika is a techno and house artist based in Germany, with 37 gigs on soundcheck across Berlin, Madrid and Prague. Often billed alongside KÜRÜF, DJ Kodah and Emilion Dollar Baby. Next up: Aedes Bar, Berlin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Domovnika is a techno and house artist based in Germany, with 37 gigs on soundch
 
 KÜRÜF, DJ Kodah, Emilion Dollar Baby
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domovnika/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domovnika/)*

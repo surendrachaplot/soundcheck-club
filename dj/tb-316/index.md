@@ -1,14 +1,15 @@
 # TB-316
 
-TB-316 is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Gut Level, Sheffield on Fri, 9 Oct 2026.
+TB-316 is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Gut Level, Sheffield on Fri, 9 Oct 2026.
 
-TB-316 is a bass and techno artist based in United Kingdom, with 22 gigs on soundcheck across Leeds, Manchester and Sheffield. Often billed alongside MYNA, Son Of and Betty. Next up: Gut Level, Sheffield on Fri 9 Oct.
+TB-316 is a techno and bass artist based in United Kingdom, with 23 gigs on soundcheck across Leeds, Manchester and Sheffield. Often billed alongside MYNA, Son Of and Aaron Dynamic. Next up: Gut Level, Sheffield on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Gut Level | Sheffield |
+| Sat, 31 Oct 2026 | Hagglers Corner | Sheffield |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ TB-316 is a bass and techno artist based in United Kingdom, with 22 gigs on soun
 
 ## Shares bills with
 
-MYNA, Son Of, Betty
+MYNA, Son Of, Aaron Dynamic
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tb-316/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tb-316/)*

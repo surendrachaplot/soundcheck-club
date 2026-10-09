@@ -1,6 +1,6 @@
 # Elli Arakawa
 
-Elli Arakawa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Shooting Gallery, Philippines on Sat, 10 Oct 2026.
+Elli Arakawa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Shooting Gallery, Philippines on Sat, 10 Oct 2026.
 
 Elli Arakawa is a techno and house artist based in Japan, with 32 gigs on soundcheck across Amsterdam, Bangkok, Hong Kong and Melbourne and 5 more. Often billed alongside DJ Yazi, DJ Gordon and DJ Nobu. Next up: Shooting Gallery, Philippines on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Elli Arakawa is a techno and house artist based in Japan, with 32 gigs on soundc
 
 DJ Yazi, DJ Gordon, DJ Nobu
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliarakawa/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliarakawa/)*

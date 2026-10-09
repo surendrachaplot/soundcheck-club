@@ -1,13 +1,14 @@
 # rrao
 
-rrao is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Nowadays, New York City on Thu, 12 Nov 2026.
+rrao is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at H0L0, New York City on Fri, 6 Nov 2026.
 
-rrao is a techno and bass artist based in United States of America, with 34 gigs on soundcheck across New York City, Portland and Tokyo. Often billed alongside Enayet, Simisea and K Wata. Next up: Nowadays, New York City on Thu 12 Nov.
+rrao is a techno and bass artist based in United States of America, with 35 gigs on soundcheck across New York City, Portland and Tokyo. Often billed alongside Enayet, Simisea and K Wata. Next up: H0L0, New York City on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | H0L0 | New York City |
 | Thu, 12 Nov 2026 | Nowadays | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ rrao is a techno and bass artist based in United States of America, with 34 gigs
 
 Enayet, Simisea, K Wata
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rrao/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rrao/)*

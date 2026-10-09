@@ -1,6 +1,6 @@
 # Hard Ballet with Danielle at Gut Level
 
-Hard Ballet with Danielle at Gut Level on Fri 16 Oct, Sheffield. 3 artists: Danielle, FM Arlo and Jacksa. Techno and House. See the line-up on soundcheck.
+Hard Ballet with Danielle at Gut Level on Fri 16 Oct, Sheffield. 3 artists: Danielle (UK), FM Arlo and Jacksa. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Hard Ballet with Danielle at Gut Level on Fri 16 Oct, Sheffield. 3 artists: Dani
 
 ## Line-up
 
-- Danielle
+- Danielle (UK)
 - FM Arlo
 - Jacksa
 

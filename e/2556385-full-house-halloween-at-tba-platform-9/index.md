@@ -1,6 +1,6 @@
 # Full House Halloween at TBA - Platform 9
 
-Full House Halloween at TBA - Platform 9 on Fri 30 Oct, Vancouver. 5 artists: DJ dood, INNEZZ, just evan and Lerma and 1 more. See the line-up on soundcheck.
+Full House Halloween at TBA - Platform 9 on Fri 30 Oct, Vancouver. 5 artists: DJ dood, INNEZZ, just evan and Lerma and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

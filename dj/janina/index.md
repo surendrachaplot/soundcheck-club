@@ -1,6 +1,6 @@
 # Janina
 
-Janina is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
+Janina is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
 
 Janina is a techno and tech house artist based in Germany, with 72 gigs on soundcheck across Barcelona, Berlin, Greece and Hamburg and 7 more. Often billed alongside Francesco Farfa, Luigi Rossi and Piticu. Next up: The Pickle, Miami on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Janina is a techno and tech house artist based in Germany, with 72 gigs on sound
 
 Francesco Farfa, Luigi Rossi, Piticu
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janina/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janina/)*

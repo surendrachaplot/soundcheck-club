@@ -1,8 +1,8 @@
 # Marcel Dettmann
 
-Marcel Dettmann is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Flash, Washington DC on Fri, 9 Oct 2026.
+Marcel Dettmann is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Flash, Washington DC on Fri, 9 Oct 2026.
 
-Marcel Dettmann is a techno and house artist based in Germany, with 269 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Flash, Washington DC on Fri 9 Oct.
+Marcel Dettmann is a techno and house artist based in Germany, with 271 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Flash, Washington DC on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -17,9 +17,9 @@ Marcel Dettmann is a techno and house artist based in Germany, with 269 gigs on 
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 6 Nov 2026 | Zoom Club | Frankfurt |
 | Sat, 7 Nov 2026 | fabric | London |
+| Sat, 7 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
-| Fri, 20 Nov 2026 | Oxford Art Factory | Sydney |
-| Sat, 21 Nov 2026 | TBA | Melbourne |
+| Fri, 13 Nov 2026 | TBA | Amsterdam |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Marcel Dettmann is a techno and house artist based in Germany, with 269 gigs on 
 
 Ben Klock, Ogazón, BASHKKA
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*

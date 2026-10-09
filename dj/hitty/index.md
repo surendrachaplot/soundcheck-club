@@ -1,6 +1,6 @@
 # hitty
 
-hitty is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
+hitty is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
 
 hitty is a tech house and house artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 9 more. Often billed alongside Shenin Amara, Meeshy and Sammy Porter. Next up: DRUMSHEDS, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ hitty is a tech house and house artist based in United Kingdom, with 79 gigs on 
 
 Shenin Amara, Meeshy, Sammy Porter
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hitty/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hitty/)*

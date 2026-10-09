@@ -1,6 +1,6 @@
 # GOP TUN x ATELIE presents SMIILE at Armazem Solon
 
-GOP TUN x ATELIE presents SMIILE at Armazem Solon on Sat 7 Nov, Sao Paulo. 4 artists: Cashu, Chloé Caillet, Gop Tun DJs and Luke Alessi. See the line-up on soundcheck.
+GOP TUN x ATELIE presents SMIILE at Armazem Solon on Sat 7 Nov, Sao Paulo. 4 artists: Cashu, Chloé Caillet, Gop Tun DJs and Luke Alessi. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Hysteric
 
-Hysteric is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 17 Oct 2026.
+Hysteric is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 17 Oct 2026.
 
 Hysteric is a house and techno artist based in Australia, with 60 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 10 more. Often billed alongside Lewis Cancut, Kovac and 3rd Orbit. Next up: Revolver Upstairs, Melbourne on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Hysteric is a house and techno artist based in Australia, with 60 gigs on soundc
 
 Lewis Cancut, Kovac, 3rd Orbit
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hysteric-au/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hysteric-au/)*

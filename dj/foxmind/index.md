@@ -1,14 +1,15 @@
 # FoxMind
 
-FoxMind is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at YSY, Berlin on Sat, 17 Oct 2026.
+FoxMind is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at YSY, Berlin on Sat, 17 Oct 2026.
 
-FoxMind is a techno and house artist based in United Kingdom, with 29 gigs on soundcheck across Berlin. Often billed alongside Janosch, Serving Suggestions and Aezron. Next up: YSY, Berlin on Sat 17 Oct.
+FoxMind is a techno and house artist based in United Kingdom, with 30 gigs on soundcheck across Berlin. Often billed alongside Janosch, Serving Suggestions and Aezron. Next up: YSY, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | YSY | Berlin |
+| Sat, 17 Oct 2026 | ciao ciao Bar | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ FoxMind is a techno and house artist based in United Kingdom, with 29 gigs on so
 
 Janosch (2), Serving Suggestions, Aezron
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foxmind/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foxmind/)*

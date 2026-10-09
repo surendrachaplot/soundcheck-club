@@ -1,14 +1,13 @@
 # The Loft
 
-The Loft is a music venue in Manchester with 17 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "The Loft: Bushbaby (All Night Long)" on Thu, 8 Oct 2026.
+The Loft is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "tINI AND THE GANG: tINI, Angel D'lite & Fastlove" on Fri, 9 Oct 2026.
 
-The Loft is a music venue in Manchester listed on soundcheck. 17 upcoming gigs, with line-ups including Fastlove, Adi, Alexander Skancke and Alexia Glensy and 2 more. See dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
+The Loft is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, with line-ups including Fastlove, Adi, Alexander Skancke and Alexia Glensy and 2 more. See dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | The Loft: Bushbaby (All Night Long) | Bushbaby |
 | Fri, 9 Oct 2026 | tINI AND THE GANG: tINI, Angel D'lite & Fastlove | Angel D'lite, Fastlove, tINI |
 | Sat, 10 Oct 2026 | Ross From Friends and Friends at The Loft | Cameo Blush, Ross From Friends |
 | Thu, 15 Oct 2026 | The Loft: Hidde van Wee (All Night Long) | Hidde van Wee |
@@ -18,9 +17,10 @@ The Loft is a music venue in Manchester listed on soundcheck. 17 upcoming gigs, 
 | Fri, 30 Oct 2026 | Dimensions x The Loft: Nicolas Lutz, Adi & Simon Scott | Adi, Nicolas Lutz, Simon Scott |
 | Fri, 6 Nov 2026 | The Loft: Objekt, Kasra V b2b Sepehr & Zuri | Kasra V, Objekt, Sepehr, Zuri |
 | Thu, 12 Nov 2026 | The Loft: J Wave b2b Lewis Taylor (All Night Long) | Lewis Taylor, jWave |
+| Fri, 13 Nov 2026 | Animal Crossing: Gene On Earth b2b dj sweet6teen (All Night Long) | Gene On Earth, dj sweet6teen |
 
 ## Address
 
 Unit 1, New Street, Manchester, M40 8AW, Manchester
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*

@@ -1,14 +1,14 @@
 # P.O (1)
 
-P.O (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Fvtvr, Paris on Fri, 9 Oct 2026.
+P.O (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at FVTVR, Paris on Fri, 9 Oct 2026.
 
-P.O is a techno and house artist based in France, with 54 gigs on soundcheck across Barcelona, Brussels, Bucharest and Buenos Aires and 13 more. Often billed alongside Flo Massé, Occibel and Lumbago. Next up: Fvtvr, Paris on Fri 9 Oct.
+P.O is a techno and house artist based in France, with 54 gigs on soundcheck across Barcelona, Brussels, Bucharest and Buenos Aires and 13 more. Often billed alongside Flo Massé, Occibel and Lumbago. Next up: FVTVR, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Fvtvr | Paris |
+| Fri, 9 Oct 2026 | FVTVR | Paris |
 | Sat, 7 Nov 2026 | The Yard | Manchester |
 
 ## Recently played
@@ -26,4 +26,4 @@ P.O is a techno and house artist based in France, with 54 gigs on soundcheck acr
 
 Flo Massé, Occibel, Lumbago
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p.o-1/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p.o-1/)*

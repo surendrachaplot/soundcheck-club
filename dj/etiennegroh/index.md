@@ -1,14 +1,15 @@
 # Etienne Groh
 
-Etienne Groh is a Experimental and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at renae, Manchester on Sat, 24 Oct 2026.
+Etienne Groh is a Experimental and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at renae, Manchester on Sat, 24 Oct 2026.
 
-Etienne Groh is an experimental and tech house artist based in France, with 16 gigs on soundcheck across Manchester. Often billed alongside Nikol, Cersy and Opul. Next up: renae, Manchester on Sat 24 Oct.
+Etienne Groh is an experimental and tech house artist based in France, with 17 gigs on soundcheck across Manchester. Often billed alongside Nikol, Cersy and Allius. Next up: renae, Manchester on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | renae | Manchester |
+| Sat, 7 Nov 2026 | 1520 | Manchester |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Etienne Groh is an experimental and tech house artist based in France, with 16 g
 
 ## Shares bills with
 
-Nikol, Cersy, Opul
+Nikol, Cersy, Allius
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennegroh/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennegroh/)*

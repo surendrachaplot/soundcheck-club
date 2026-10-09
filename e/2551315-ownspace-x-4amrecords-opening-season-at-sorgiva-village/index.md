@@ -1,6 +1,6 @@
 # OWNSPACE x 4amrecords — OPENING SEASON at Sorgiva Village
 
-OWNSPACE x 4amrecords — OPENING SEASON at Sorgiva Village on Sun 11 Oct, Milan. 5 artists: BEPPE BRANDO, Clara Spagnuolo, FRANKIEE and Stella Fiore and 1 more. Techno and Electro. See the line-up on soundcheck.
+OWNSPACE x 4amrecords — OPENING SEASON at Sorgiva Village on Sun 11 Oct, Milan. 6 artists: BEPPE BRANDO, Clara Spagnuolo, FRANKIEE and FRUSTO and 2 more. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ OWNSPACE x 4amrecords — OPENING SEASON at Sorgiva Village on Sun 11 Oct, Milan
 - BEPPE BRANDO
 - Clara Spagnuolo
 - FRANKIEE
+- FRUSTO
 - Stella Fiore
 - Test_One
 

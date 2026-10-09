@@ -1,6 +1,6 @@
 # vurt.
 
-vurt. is a music venue in Seoul with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "GUCHUK presents: [ABOPF - Delusion Single Release Showcase]" on Fri, 9 Oct 2026.
+vurt. is a music venue in Seoul with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "GUCHUK presents: [ABOPF - Delusion Single Release Showcase]" on Fri, 9 Oct 2026.
 
 vurt. is a music venue in Seoul listed on soundcheck. 8 upcoming gigs, with line-ups including ABOPF, ABSIS, chukimaandal and Claudio PRC and 2 more. See dates, start times and who's playing. 11, Dongmak-ro, Mapo-gu, Seoul, South Korea..
 
@@ -21,4 +21,4 @@ vurt. is a music venue in Seoul listed on soundcheck. 8 upcoming gigs, with line
 
 11, Dongmak-ro, Mapo-gu, Seoul, South Korea., Seoul
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/vurt/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/vurt/)*

@@ -1,6 +1,6 @@
 # X Private Club
 
-X Private Club is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "IMTRUDER W/ Aaron Martin" on Fri, 9 Oct 2026.
+X Private Club is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "IMTRUDER W/ Aaron Martin" on Fri, 9 Oct 2026.
 
 X Private Club is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, with line-ups including Aaron Martin, Alex Warp, DPAZ and Fran Lobato and 2 more. See dates, start times and who's playing. Madrid.
 
@@ -16,4 +16,4 @@ X Private Club is a music venue in Madrid listed on soundcheck. 3 upcoming gigs,
 
 Madrid, Madrid
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*

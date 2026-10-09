@@ -1,6 +1,6 @@
 # LAMALICE
 
-LAMALICE is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Studionotte, Milan on Fri, 9 Oct 2026.
+LAMALICE is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Studionotte, Milan on Fri, 9 Oct 2026.
 
 LAMALICE is a house and electro artist based in France, with 116 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 28 more. Often billed alongside Massaï, ABI (FR) and Alyhas. Next up: Studionotte, Milan on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ LAMALICE is a house and electro artist based in France, with 116 gigs on soundch
 
 Massaï, ABI (FR), Alyhas
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamalice/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamalice/)*

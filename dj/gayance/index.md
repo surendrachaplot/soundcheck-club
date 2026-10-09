@@ -1,14 +1,15 @@
 # GAYANCE
 
-GAYANCE is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Teja House, Lisbon on Fri, 16 Oct 2026.
+GAYANCE is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Teja House, Lisbon on Fri, 16 Oct 2026.
 
-GAYANCE is a house and techno artist based in Canada, with 67 gigs on soundcheck across Amsterdam, Berlin, Brussels and Leeds and 10 more. Often billed alongside Chima Isaaro, Deez and Passion DEEZ. Next up: Teja House, Lisbon on Fri 16 Oct.
+GAYANCE is a house and techno artist based in Canada, with 68 gigs on soundcheck across Amsterdam, Berlin, Brussels and Leeds and 10 more. Often billed alongside Chima Isaaro, Deez and Passion DEEZ. Next up: Teja House, Lisbon on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Teja House | Lisbon |
+| Fri, 30 Oct 2026 | Beato 30 | Lisbon |
 | Wed, 11 Nov 2026 | Arroz Estúdios | Lisbon |
 
 ## Recently played
@@ -26,4 +27,4 @@ GAYANCE is a house and techno artist based in Canada, with 67 gigs on soundcheck
 
 Chima Isaaro, Deez, Passion DEEZ
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gayance/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gayance/)*

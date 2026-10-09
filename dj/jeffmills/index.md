@@ -1,8 +1,8 @@
 # Jeff Mills
 
-Jeff Mills is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Saline Royale D'arc-et-Senans (25 Doubs), Lyon on Sun, 11 Oct 2026.
+Jeff Mills is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Saline Royale D'arc-et-Senans (25 Doubs), Lyon on Sun, 11 Oct 2026.
 
-Jeff Mills is a techno and house artist based in United States of America, with 193 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 60 more. Often billed alongside DVS1, Marcel Dettmann and DJ Nobu. Next up: Saline Royale D'arc-et-Senans (25 Doubs), Lyon on Sun 11 Oct.
+Jeff Mills is a techno and house artist based in United States of America, with 194 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 60 more. Often billed alongside DVS1, Marcel Dettmann and DJ Nobu. Next up: Saline Royale D'arc-et-Senans (25 Doubs), Lyon on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Jeff Mills is a techno and house artist based in United States of America, with 
 
 DVS1, Marcel Dettmann, DJ Nobu
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*

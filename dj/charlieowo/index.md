@@ -1,8 +1,8 @@
 # Charlieowo
 
-Charlieowo is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Nyapi, Seoul on Fri, 23 Oct 2026.
+Charlieowo is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Nyapi, Seoul on Fri, 23 Oct 2026.
 
-Charlieowo is a techno and bass artist based in China, with 36 gigs on soundcheck across Hong Kong, Seoul and Tokyo. Often billed alongside ADRIANNA.C, Dan-neo and Faxtory. Next up: Nyapi, Seoul on Fri 23 Oct.
+Charlieowo is a techno and bass artist based in China, with 37 gigs on soundcheck across Hong Kong, Seoul and Tokyo. Often billed alongside ADRIANNA.C, Dan-neo and Faxtory. Next up: Nyapi, Seoul on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Charlieowo is a techno and bass artist based in China, with 36 gigs on soundchec
 | Fri, 23 Oct 2026 | Nyapi | Seoul |
 | Sat, 31 Oct 2026 | TBA - Secret Warehouse Location | Hong Kong |
 | Fri, 6 Nov 2026 | 宀 Club | Hong Kong |
+| Sat, 13 Feb 2027 | 宀 Club | Hong-kong |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Charlieowo is a techno and bass artist based in China, with 36 gigs on soundchec
 
 ADRIANNA.C, Dan-neo, Faxtory
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieowo/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieowo/)*

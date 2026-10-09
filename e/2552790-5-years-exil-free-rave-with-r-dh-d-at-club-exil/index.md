@@ -1,6 +1,6 @@
 # 5 YEARS EXIL - FREE RAVE with Rødhåd at Club Exil
 
-5 YEARS EXIL - FREE RAVE with Rødhåd at Club Exil on Fri 9 Oct, Vienna. 10 artists: Dcascallana, M41RH, PAUNA and Reika and 6 more. Techno. See the line-up on soundcheck.
+5 YEARS EXIL - FREE RAVE with Rødhåd at Club Exil on Fri 9 Oct, Vienna. 10 artists: Dcascallana, M41RH, PAUNA and REIKA_DJ and 6 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@
 - Dcascallana
 - M41RH
 - PAUNA
-- Reika
+- REIKA_DJ
 - Ridgie
 - RIFF RUFF
 - Rødhåd

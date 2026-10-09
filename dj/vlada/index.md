@@ -1,8 +1,8 @@
 # Vlada
 
-Vlada is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 10 Oct 2026.
+Vlada is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 10 Oct 2026.
 
-Vlada is a techno and house artist based in Russia, with 203 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 52 more. Often billed alongside Vaahzer, Konduku and Kia (AU). Next up: Tokonoma Club, Frankfurt on Sat 10 Oct.
+Vlada is a techno and house artist based in Russia, with 204 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 52 more. Often billed alongside Vaahzer, Konduku and Kia (AU). Next up: Tokonoma Club, Frankfurt on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Vlada is a techno and house artist based in Russia, with 203 gigs on soundcheck 
 | Sat, 17 Oct 2026 | fabric | London |
 | Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 | Sat, 21 Nov 2026 | essaim | Paris |
+| Fri, 11 Dec 2026 | The White Hotel | Manchester |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Vlada is a techno and house artist based in Russia, with 203 gigs on soundcheck 
 
 Vaahzer, Konduku, Kia (AU)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vlada/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vlada/)*

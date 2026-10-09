@@ -1,6 +1,6 @@
 # Malo Z
 
-Malo Z is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Trix, Antwerp on Sat, 10 Oct 2026.
+Malo Z is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Trix, Antwerp on Sat, 10 Oct 2026.
 
 Malo Z is a house and techno artist based in Belgium, with 35 gigs on soundcheck across Antwerp, Athens, Brussels and Ghent. Often billed alongside DJ Rino, Fais Le Beau and Violently Happy. Next up: Trix, Antwerp on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Malo Z is a house and techno artist based in Belgium, with 35 gigs on soundcheck
 
 DJ Rino, Fais Le Beau, Violently Happy
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maloz/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maloz/)*

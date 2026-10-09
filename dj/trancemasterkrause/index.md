@@ -1,6 +1,6 @@
 # Trancemaster Krause
 
-Trancemaster Krause is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Junkyard Dortmund, Dortmund-essen on Sat, 10 Oct 2026.
+Trancemaster Krause is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Junkyard Dortmund, Dortmund-essen on Sat, 10 Oct 2026.
 
 Trancemaster Krause is a techno and trance artist based in Germany, with 203 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 39 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: Junkyard Dortmund, Dortmund Essen on Sat 10 Oct.
 
@@ -36,4 +36,4 @@ Trancemaster Krause is a techno and trance artist based in Germany, with 203 gig
 
 Cleopard2000, Mika Heggemann, Justin Tinderdate
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*

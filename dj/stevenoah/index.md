@@ -1,6 +1,6 @@
 # Steve Noah
 
-Steve Noah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Chicago Eagle, Chicago on Sat, 10 Oct 2026.
+Steve Noah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Chicago Eagle, Chicago on Sat, 10 Oct 2026.
 
 Steve Noah is a techno and house artist based in United States of America, with 53 gigs on soundcheck across Chicago. Often billed alongside Jace Inman, Initial G and Dj Scari. Next up: Chicago Eagle, Chicago on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Steve Noah is a techno and house artist based in United States of America, with 
 
 Jace Inman, Initial G, Dj Scari
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenoah/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenoah/)*

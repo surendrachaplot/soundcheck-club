@@ -1,6 +1,6 @@
 # lali:
 
-lali: is a Experimental and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Honey Street Studio, Manchester on Fri, 9 Oct 2026.
+lali: is a Experimental and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Honey Street Studio, Manchester on Fri, 9 Oct 2026.
 
 lali: is an experimental and house artist based in United Kingdom, with 13 gigs on soundcheck across London, Manchester and Tokyo. Often billed alongside A Psychic Yes, YELLOWUHURU and YAMARCHY. Next up: Honey Street Studio, Manchester on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ lali: is an experimental and house artist based in United Kingdom, with 13 gigs 
 
 A Psychic Yes, YELLOWUHURU, YAMARCHY
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lali/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lali/)*

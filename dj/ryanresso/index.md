@@ -1,8 +1,8 @@
 # Ryan Resso
 
-Ryan Resso is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Warehouse, Leeds on Sat, 10 Oct 2026.
+Ryan Resso is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Warehouse, Leeds on Sat, 10 Oct 2026.
 
-Ryan Resso is a house and tech house artist based in United Kingdom, with 97 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 13 more. Often billed alongside Chopper (UK), Stef Davidse and FINKY. Next up: The Warehouse, Leeds on Sat 10 Oct.
+Ryan Resso is a house and tech house artist based in United Kingdom, with 98 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 13 more. Often billed alongside Chopper (UK), Stef Davidse and FINKY. Next up: The Warehouse, Leeds on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ryan Resso is a house and tech house artist based in United Kingdom, with 97 gig
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | The Warehouse | Leeds |
 | Sat, 31 Oct 2026 | Chelmsford City Racecourse | London |
+| Sat, 5 Dec 2026 | The Loft | Manchester |
 | Sat, 12 Dec 2026 | Lab11 | Birmingham |
 
 ## Recently played
@@ -27,4 +28,4 @@ Ryan Resso is a house and tech house artist based in United Kingdom, with 97 gig
 
 Chopper (UK), Stef Davidse, FINKY
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanresso/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanresso/)*

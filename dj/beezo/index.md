@@ -1,6 +1,6 @@
 # Beezo
 
-Beezo is a Afro House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Basing House, London on Fri, 9 Oct 2026.
+Beezo is a Afro House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Basing House, London on Fri, 9 Oct 2026.
 
 Beezo is an afro house and tech house artist based in United Kingdom, with 138 gigs on soundcheck across Algarve, Ibiza, London and Manchester. Often billed alongside JAYDAA, Shenin Amara and Supa D. Next up: Basing House, London on Fri 9 Oct.
 
@@ -33,4 +33,4 @@ Beezo is an afro house and tech house artist based in United Kingdom, with 138 g
 
 JAYDAA, Shenin Amara, Supa D
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beezo/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beezo/)*

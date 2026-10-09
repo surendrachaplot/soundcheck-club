@@ -1,6 +1,6 @@
 # Cristina Lazic
 
-Cristina Lazic is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Department 184, Milan on Fri, 9 Oct 2026.
+Cristina Lazic is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Department 184, Milan on Fri, 9 Oct 2026.
 
 Cristina Lazic is a house and tech house artist based in Italy, with 86 gigs on soundcheck across Amsterdam, Athens, Austria and Barcelona and 21 more. Often billed alongside East End Dubs, Hot Since 82 and Joseph Capriati. Next up: Department 184, Milan on Fri 9 Oct.
 
@@ -32,4 +32,4 @@ Cristina Lazic is a house and tech house artist based in Italy, with 86 gigs on 
 
 East End Dubs, Hot Since 82, Joseph Capriati
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristinalazic/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristinalazic/)*

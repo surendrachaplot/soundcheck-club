@@ -1,6 +1,6 @@
 # Tr One
 
-Tr One is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at elipamanoke, Leipzig on Sat, 10 Oct 2026.
+Tr One is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at elipamanoke, Leipzig on Sat, 10 Oct 2026.
 
 Tr One is a house and techno artist based in Ireland, with 61 gigs on soundcheck across Berlin, Chicago, Cork and Dublin and 3 more. Often billed alongside Jack Devine, Doiléir and Hooligan. Next up: elipamanoke, Leipzig on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Tr One is a house and techno artist based in Ireland, with 61 gigs on soundcheck
 
 Jack Devine, Doiléir, Hooligan
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trone/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trone/)*

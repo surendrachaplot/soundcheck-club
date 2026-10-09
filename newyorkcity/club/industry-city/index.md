@@ -1,6 +1,6 @@
 # Industry City
 
-Industry City is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "MRAK at Industry City" on Sat, 10 Oct 2026.
+Industry City is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "MRAK at Industry City" on Sat, 10 Oct 2026.
 
 Industry City is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including Alice Longyu Gao, Amber Valentine, Andhim and Annie Lew and 2 more. See dates, start times and who's playing. 220 36th Street, Brooklyn, NY 11232, USA.
 
@@ -18,4 +18,4 @@ Industry City is a music venue in New York City listed on soundcheck. 5 upcoming
 
 220 36th Street, Brooklyn, NY 11232, USA, New York City
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/industry-city/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/industry-city/)*

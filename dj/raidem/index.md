@@ -1,6 +1,6 @@
 # Raidem
 
-Raidem is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Music Club Pulse 22, Prague on Fri, 9 Oct 2026.
+Raidem is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Music Club Pulse 22, Prague on Fri, 9 Oct 2026.
 
 Raidem is a techno and house artist based in Czech Republic, with 20 gigs on soundcheck across Prague. Often billed alongside Lucas Hulan, Cuba and Ghandi. Next up: Music Club Pulse 22, Prague on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Raidem is a techno and house artist based in Czech Republic, with 20 gigs on sou
 
 Lucas Hulan, Cuba, Ghandi
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raidem/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raidem/)*

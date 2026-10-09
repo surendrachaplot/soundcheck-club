@@ -1,8 +1,8 @@
 # Microplastics
 
-Microplastics is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Various Venues, Guimarães, PT, Portugal on Thu, 29 Oct 2026.
+Microplastics is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Various Venues, Guimarães, PT, Portugal on Thu, 29 Oct 2026.
 
-Microplastics is a club and techno artist, with 14 gigs on soundcheck across Berlin, Central, London and Manchester and 4 more. Often billed alongside 96 Back, aya and Jennifer Walton. Next up: TBA - Various Venues, Guimarães, PT, Portugal on Thu 29 Oct.
+Microplastics is a club and techno artist based in United Kingdom, with 14 gigs on soundcheck across Berlin, Central, London and Manchester and 4 more. Often billed alongside 96 Back, aya and Jennifer Walton. Next up: TBA - Various Venues, Guimarães, PT, Portugal on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Microplastics is a club and techno artist, with 14 gigs on soundcheck across Ber
 
 96 Back, aya, Jennifer Walton
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/microplastics/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/microplastics/)*

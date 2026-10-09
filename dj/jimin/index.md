@@ -1,6 +1,6 @@
 # Jimin
 
-Jimin is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Back Room, Bali on Sat, 10 Oct 2026.
+Jimin is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Back Room, Bali on Sat, 10 Oct 2026.
 
 Jimin is a house and club artist based in South Korea, with 142 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 2 more. Often billed alongside Jesse You, Acidwork and FOI (SK). Next up: The Back Room, Bali on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Jimin is a house and club artist based in South Korea, with 142 gigs on soundche
 
 Jesse You, Acidwork, FOI (SK)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimin/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimin/)*

@@ -1,6 +1,6 @@
 # Nuyad
 
-Nuyad is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 5 Oct 2026.
+Nuyad is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 5 Oct 2026.
 
 Nuyad is a house and disco artist, with 20 gigs on soundcheck across Seoul. Often billed alongside Gyusco, Runxia and Youngseok. Next up: Stoked&stoned, Seoul on Mon 5 Oct.
 
@@ -26,4 +26,4 @@ Nuyad is a house and disco artist, with 20 gigs on soundcheck across Seoul. Ofte
 
 Gyusco, Runxia, Youngseok
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nuyad/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nuyad/)*

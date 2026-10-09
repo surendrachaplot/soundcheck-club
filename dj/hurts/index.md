@@ -1,13 +1,14 @@
 # Hurts
 
-Hurts is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at BASIS, Utrecht on Fri, 16 Oct 2026.
+Hurts is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at La Plateforme, Marseille on Sat, 10 Oct 2026.
 
-Hurts is a trance and techno artist based in Netherlands, with 67 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 11 more. Often billed alongside Riana Holley, 3LEEZA and Alex Friday. Next up: BASIS, Utrecht on Fri 16 Oct.
+Hurts is a trance and techno artist based in Netherlands, with 68 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 12 more. Often billed alongside Riana Holley, 3LEEZA and Alex Friday. Next up: La Plateforme, Marseille on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | La Plateforme | Marseille |
 | Fri, 16 Oct 2026 | BASIS | Utrecht |
 | Sun, 15 Nov 2026 | Thuishaven | Amsterdam |
 
@@ -26,4 +27,4 @@ Hurts is a trance and techno artist based in Netherlands, with 67 gigs on soundc
 
 Riana Holley, 3LEEZA, Alex Friday
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hurts/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hurts/)*

@@ -1,6 +1,6 @@
 # DJ SENOBY
 
-DJ SENOBY is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at A-Bar, Kyoto on Sat, 17 Oct 2026.
+DJ SENOBY is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at A-Bar, Kyoto on Sat, 17 Oct 2026.
 
 DJ SENOBY is a deep house and techno artist, with 14 gigs on soundcheck across Kyoto and Osaka. Often billed alongside HSC, Nakamoog and 3AM. Next up: A-Bar, Kyoto on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ DJ SENOBY is a deep house and techno artist, with 14 gigs on soundcheck across K
 
 HSC (1), Nakamoog, 3AM
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsenoby/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsenoby/)*

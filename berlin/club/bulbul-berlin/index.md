@@ -1,14 +1,13 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "TAG DER CLUBKULTUR 2026 - HOUSE OF OTHERS" on Thu, 8 Oct 2026.
+Bulbul Berlin is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "TAG DER CLUBKULTUR 2026 - BRONCOS TAKEOVER" on Fri, 9 Oct 2026.
 
-Bulbul Berlin is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including aksendo, batmanka, boyyyish and Club Suave and 2 more. See dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
+Bulbul Berlin is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including aksendo, batmanka, Club Suave and Concentio and 2 more. See dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | TAG DER CLUBKULTUR 2026 - HOUSE OF OTHERS | Triqi, boyyyish, materia hache |
 | Fri, 9 Oct 2026 | TAG DER CLUBKULTUR 2026 - BRONCOS TAKEOVER | Jessica Nightlife |
 | Sat, 10 Oct 2026 | TAG DER CLUBKULTUR 2026 - BULBUL RESIDENTS & FRIENDS | Concentio, Nikklaas, Selin (DE) |
 | Thu, 15 Oct 2026 | Decks&Stories - PUZZLE Berlin: vanagas, Herma, VILBØ, aksendo | Herma (LT), VILBØ, aksendo, vanagas |
@@ -18,9 +17,10 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 12 upcoming gigs,
 | Fri, 23 Oct 2026 | Groovity Berlin: Andrew Xas, Ivan Le Mutant, Mia Bergmann, MAIROS | MAIROS, Mia Bergmann |
 | Sat, 24 Oct 2026 | HOUSE LOVERS: HATT.D, DJ Glitterelli, batmanka, van Kay | DJ Glitterelli, batmanka, van Kay |
 | Thu, 29 Oct 2026 | XOXA's Club Angel: Panooc, Immy b2b Mx. Blaire | Immy, Mx. Blaire, Panooc |
+| Fri, 30 Oct 2026 | Fridaze |  |
 
 ## Address
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

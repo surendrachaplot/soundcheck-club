@@ -1,8 +1,8 @@
 # Massimiliano Pagliara
 
-Massimiliano Pagliara is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Apollo Club Milano, Milan on Fri, 9 Oct 2026.
+Massimiliano Pagliara is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Apollo Club Milano, Milan on Fri, 9 Oct 2026.
 
-Massimiliano Pagliara is a house and techno artist based in Italy, with 250 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: Apollo Club Milano, Milan on Fri 9 Oct.
+Massimiliano Pagliara is a house and techno artist based in Italy, with 251 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: Apollo Club Milano, Milan on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Massimiliano Pagliara is a house and techno artist based in Italy, with 250 gigs
 | Fri, 6 Nov 2026 | TBA - 3 LOCAIS / 3 LOCATIONS | Sao-paulo |
 | Sat, 14 Nov 2026 | TRAUM | Antwerp |
 | Sat, 21 Nov 2026 | CLUB RAUM | Amsterdam |
+| Sat, 28 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 11 Dec 2026 | Club Six | San Francisco/Oakland |
 
 ## Recently played
@@ -34,4 +35,4 @@ Massimiliano Pagliara is a house and techno artist based in Italy, with 250 gigs
 
 Jorkes, Boris, Luigi Di Venere
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*

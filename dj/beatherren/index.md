@@ -1,6 +1,6 @@
 # Beat Herren
 
-Beat Herren is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Alte Kaserne, Zurich on Sat, 10 Oct 2026.
+Beat Herren is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Alte Kaserne, Zurich on Sat, 10 Oct 2026.
 
 Beat Herren is a psytrance and trance artist based in Switzerland, with 16 gigs on soundcheck across Zurich. Often billed alongside Ambient Pino, Liquid Soul and Emok. Next up: Alte Kaserne, Zurich on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Beat Herren is a psytrance and trance artist based in Switzerland, with 16 gigs 
 
 Ambient Pino, Liquid Soul, Emok
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beatherren/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beatherren/)*

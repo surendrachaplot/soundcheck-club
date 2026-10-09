@@ -1,14 +1,15 @@
 # Armand Van Helden
 
-Armand Van Helden is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Armand Van Helden is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Armand Van Helden is a house and tech house artist based in United States of America, with 114 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 36 more. Often billed alongside Fatzo, Oden and MiNNA. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
+Armand Van Helden is a house and tech house artist based in United States of America, with 115 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 37 more. Often billed alongside Fatzo, Oden and MiNNA. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
+| Sat, 10 Oct 2026 | TBA - Lurin live | Peru |
 | Sat, 24 Oct 2026 | Hemkade 48 | Amsterdam |
 | Sat, 31 Oct 2026 | Chelmsford City Racecourse | London |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
@@ -34,4 +35,4 @@ Armand Van Helden is a house and tech house artist based in United States of Ame
 
 Fatzo, Oden, MiNNA
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*

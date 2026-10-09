@@ -1,6 +1,6 @@
 # Maadraassoo
 
-Maadraassoo is a Pop and Electro artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Play Club Valencia, Valencia on Fri, 9 Oct 2026.
+Maadraassoo is a Pop and Electro artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Play Club Valencia, Valencia on Fri, 9 Oct 2026.
 
 Maadraassoo is a pop and electro artist based in Spain, with 216 gigs on soundcheck across Barcelona, Madrid, Mallorca and Valencia. Often billed alongside !!! (Chk Chk Chk), Baldman and Chica Acosta. Next up: Play Club Valencia, Valencia on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ Maadraassoo is a pop and electro artist based in Spain, with 216 gigs on soundch
 
 !!! (Chk Chk Chk), Baldman, Chica Acosta
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maadraassoo/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maadraassoo/)*

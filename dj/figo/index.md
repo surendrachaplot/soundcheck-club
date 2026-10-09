@@ -1,6 +1,6 @@
 # figo
 
-figo is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at L'Argent Bistrot, Milan on Fri, 9 Oct 2026.
+figo is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at L'Argent Bistrot, Milan on Fri, 9 Oct 2026.
 
 figo is a techno and baile funk artist based in Italy, with 15 gigs on soundcheck across Milan. Often billed alongside Andrewww, rar3 and Access Granted. Next up: L'Argent Bistrot, Milan on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ figo is a techno and baile funk artist based in Italy, with 15 gigs on soundchec
 
 Andrewww, rar3, Access Granted
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/figo/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/figo/)*

@@ -1,13 +1,14 @@
 # Kevin Lo
 
-Kevin Lo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at ANTIA, Netherlands on Fri, 16 Oct 2026.
+Kevin Lo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at BRET, Amsterdam on Sat, 10 Oct 2026.
 
-Kevin Lo is a house and techno artist based in Netherlands, with 37 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Cologne and 4 more. Often billed alongside Pelanoir, Eileen (NL) and Cyberboy. Next up: ANTIA, Netherlands on Fri 16 Oct.
+Kevin Lo is a house and techno artist based in Netherlands, with 38 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Cologne and 4 more. Often billed alongside Pelanoir, Eileen (NL) and Cyberboy. Next up: BRET, Amsterdam on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | BRET | Amsterdam |
 | Fri, 16 Oct 2026 | ANTIA | Netherlands |
 | Wed, 21 Oct 2026 | Café Katoen | Amsterdam |
 
@@ -26,4 +27,4 @@ Kevin Lo is a house and techno artist based in Netherlands, with 37 gigs on soun
 
 Pelanoir, Eileen (NL), Cyberboy
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinlo/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinlo/)*

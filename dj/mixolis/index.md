@@ -1,6 +1,6 @@
 # Mixolis
 
-Mixolis is a Amapiano and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Club Makossa, London on Thu, 15 Oct 2026.
+Mixolis is a Amapiano and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Club Makossa, London on Thu, 15 Oct 2026.
 
 Mixolis is an amapiano and afro house artist based in United Kingdom, with 42 gigs on soundcheck across London and Paris. Often billed alongside INTUIT, Golden Lady and Via Seri. Next up: Club Makossa, London on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Mixolis is an amapiano and afro house artist based in United Kingdom, with 42 gi
 
 INTUIT, Golden Lady, Via Seri
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mixolis/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mixolis/)*

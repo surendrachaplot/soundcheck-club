@@ -1,6 +1,6 @@
 # Robert De Neer
 
-Robert De Neer is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Robert De Neer is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
 Robert De Neer is a techno and tech house artist based in Italy, with 12 gigs on soundcheck across Amsterdam. Often billed alongside Caelestis, Vale.T and rebrånded. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Robert De Neer is a techno and tech house artist based in Italy, with 12 gigs on
 
 Caelestis, Vale.T, rebrånded
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertdeneer/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertdeneer/)*

@@ -1,6 +1,6 @@
 # Melanie Havens
 
-Melanie Havens is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Sameheads, Berlin on Fri, 16 Oct 2026.
+Melanie Havens is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Sameheads, Berlin on Fri, 16 Oct 2026.
 
 Melanie Havens is a techno and ebm artist based in Brazil, with 76 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 15 more. Often billed alongside The Brvtalist, Paty Vapor and Inverse Element. Next up: Sameheads, Berlin on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Melanie Havens is a techno and ebm artist based in Brazil, with 76 gigs on sound
 
 The Brvtalist, Paty Vapor, Inverse Element
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melaniehavens/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melaniehavens/)*

@@ -1,6 +1,6 @@
 # DJ Storm (2)
 
-DJ Storm (2) is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 20 Nov 2026.
+DJ Storm (2) is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 20 Nov 2026.
 
 DJ Storm is a jungle and drum & bass artist based in Italy, with 13 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 4 more. Often billed alongside DJ Flight, Mala and Darwin. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ DJ Storm is a jungle and drum & bass artist based in Italy, with 13 gigs on soun
 
 DJ Flight, Mala, Darwin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djstorm-2/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djstorm-2/)*

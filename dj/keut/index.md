@@ -1,6 +1,6 @@
 # KEUT
 
-KEUT is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Le 211, Paris on Sun, 11 Oct 2026.
+KEUT is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Le 211, Paris on Sun, 11 Oct 2026.
 
 KEUT is a techno and house artist, with 37 gigs on soundcheck across Berlin, Los Angeles, Montreal and Nantes and 1 more. Often billed alongside GOTIS, Gabbor and Lastvuska. Next up: Le 211, Paris on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ KEUT is a techno and house artist, with 37 gigs on soundcheck across Berlin, Los
 
 GOTIS, Gabbor, Lastvuska
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keut/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keut/)*

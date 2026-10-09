@@ -1,14 +1,15 @@
 # Son of Son
 
-Son of Son is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Klein Phönix, Istanbul on Sat, 17 Oct 2026.
+Son of Son is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Klein Phönix, Istanbul on Sat, 17 Oct 2026.
 
-Son of Son is a techno and house artist based in Sweden, with 42 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 20 more. Often billed alongside Adriatique, Anyma and 19:26. Next up: Klein Phönix, Istanbul on Sat 17 Oct.
+Son of Son is a techno and house artist based in Sweden, with 43 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 20 more. Often billed alongside Adriatique, Agents Of Time and Anyma. Next up: Klein Phönix, Istanbul on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Klein Phönix | Istanbul |
+| Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Son of Son is a techno and house artist based in Sweden, with 42 gigs on soundch
 
 ## Shares bills with
 
-Adriatique, Anyma, 19:26
+Adriatique, Agents Of Time, Anyma
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonofson/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonofson/)*

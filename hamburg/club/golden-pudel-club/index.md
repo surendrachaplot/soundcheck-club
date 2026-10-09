@@ -1,6 +1,6 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "GOME + The Gang with Muallem" on Fri, 9 Oct 2026.
+Golden Pudel Club is a music venue in Hamburg with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "GOME + The Gang with Muallem" on Fri, 9 Oct 2026.
 
 Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 8 upcoming gigs, with line-ups including Anton Jonathan, Beau Wanzer, BOBBIE* and Bombe and 2 more. See dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
@@ -21,4 +21,4 @@ Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 8 upcoming g
 
 St. Pauli Fischmarkt 27; 20359 Hamburg; Germany, Hamburg
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*

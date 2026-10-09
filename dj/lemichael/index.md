@@ -1,8 +1,8 @@
 # LeMichael
 
-LeMichael is a Electronica and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Switch Bar, Barcelona on Wed, 4 Nov 2026.
+LeMichael is a Electronica and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Switch Bar, Barcelona on Wed, 4 Nov 2026.
 
-LeMichael is an electronica and deep house artist based in Spain, with 28 gigs on soundcheck across Barcelona. Often billed alongside Edu C, Metaxxa and Alessa (ES). Next up: Switch Bar, Barcelona on Wed 4 Nov.
+LeMichael is an electronica and deep house artist based in Spain, with 29 gigs on soundcheck across Barcelona. Often billed alongside Edu C, Metaxxa and Alessa (ES). Next up: Switch Bar, Barcelona on Wed 4 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ LeMichael is an electronica and deep house artist based in Spain, with 28 gigs o
 | --- | --- | --- |
 | Wed, 4 Nov 2026 | Switch Bar | Barcelona |
 | Wed, 2 Dec 2026 | Switch Bar | Barcelona |
+| Wed, 6 Jan 2027 | Switch Bar | Barcelona |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ LeMichael is an electronica and deep house artist based in Spain, with 28 gigs o
 
 Edu C, Metaxxa, Alessa (ES)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lemichael/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lemichael/)*

@@ -1,6 +1,6 @@
 # Brownie Popkens
 
-Brownie Popkens is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Horn, Bangkok on Sat, 10 Oct 2026.
+Brownie Popkens is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Horn, Bangkok on Sat, 10 Oct 2026.
 
 Brownie Popkens is a techno and house artist based in Thailand, with 14 gigs on soundcheck across Bangkok. Often billed alongside MJMA, Mae Happyair and 5.5MM. Next up: Horn, Bangkok on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Brownie Popkens is a techno and house artist based in Thailand, with 14 gigs on 
 
 MJMA, Mae Happyair, 5.5MM
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/browniepopkens/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/browniepopkens/)*

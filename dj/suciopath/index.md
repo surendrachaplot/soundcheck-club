@@ -1,6 +1,6 @@
 # suciopath
 
-suciopath is a House and IDM artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Geary Avenue Warehouse Project, Toronto on Sat, 31 Oct 2026.
+suciopath is a House and IDM artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Geary Avenue Warehouse Project, Toronto on Sat, 31 Oct 2026.
 
 suciopath is a house and idm artist based in United States of America, with 10 gigs on soundcheck across New York City and Toronto. Often billed alongside LIONESSA, PUFF and maiiii. Next up: Geary Avenue Warehouse Project, Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ suciopath is a house and idm artist based in United States of America, with 10 g
 
 LIONESSA, PUFF, maiiii
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suciopath/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suciopath/)*

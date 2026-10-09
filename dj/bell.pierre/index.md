@@ -1,6 +1,6 @@
 # bell.pierre
 
-bell.pierre is a Club and Jazz artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Barbossa, Montreal on Fri, 9 Oct 2026.
+bell.pierre is a Club and Jazz artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Barbossa, Montreal on Fri, 9 Oct 2026.
 
 bell.pierre is a club and jazz artist based in Canada, with 19 gigs on soundcheck across Montreal. Often billed alongside 3mpath, Chloe Lallouz and JASHIM. Next up: Barbossa, Montreal on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ bell.pierre is a club and jazz artist based in Canada, with 19 gigs on soundchec
 
 3mpath, Chloe Lallouz, JASHIM
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bell.pierre/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bell.pierre/)*

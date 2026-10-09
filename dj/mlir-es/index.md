@@ -1,6 +1,6 @@
 # MLiR
 
-MLiR is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Gatosano Da Nang, Vietnam on Sat, 10 Oct 2026.
+MLiR is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Gatosano Da Nang, Vietnam on Sat, 10 Oct 2026.
 
 MLiR is a house and disco artist based in Sweden, with 38 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 11 more. Often billed alongside Brent Burns, Lipelis and Mumsfilibaba. Next up: Gatosano Da Nang, Vietnam on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ MLiR is a house and disco artist based in Sweden, with 38 gigs on soundcheck acr
 
 Brent Burns, Lipelis, Mumsfilibaba
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mlir-es/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mlir-es/)*

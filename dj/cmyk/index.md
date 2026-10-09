@@ -1,6 +1,6 @@
 # CMYK
 
-CMYK is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at La Textil Collective, Barcelona on Thu, 22 Oct 2026.
+CMYK is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at La Textil Collective, Barcelona on Thu, 22 Oct 2026.
 
 CMYK is a house and electro artist based in France, with 60 gigs on soundcheck across Barcelona, Berlin, London and Lyon and 3 more. Often billed alongside pekkuliar, VARAN and DJ Gamba. Next up: La Textil Collective, Barcelona on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ CMYK is a house and electro artist based in France, with 60 gigs on soundcheck a
 
 pekkuliar, VARAN, DJ Gamba
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cmyk/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cmyk/)*

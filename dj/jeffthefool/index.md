@@ -1,14 +1,14 @@
 # Jeff The Fool
 
-Jeff The Fool is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Fvtvr, Paris on Fri, 9 Oct 2026.
+Jeff The Fool is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at FVTVR, Paris on Fri, 9 Oct 2026.
 
-Jeff The Fool is a house and electronica artist based in France, with 27 gigs on soundcheck across Barcelona, Buenos Aires, Geneva and London and 4 more. Often billed alongside IAMBP, Occibel and Alyhas. Next up: Fvtvr, Paris on Fri 9 Oct.
+Jeff The Fool is a house and electronica artist based in France, with 27 gigs on soundcheck across Barcelona, Buenos Aires, Geneva and London and 4 more. Often billed alongside IAMBP, Occibel and Alyhas. Next up: FVTVR, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Fvtvr | Paris |
+| Fri, 9 Oct 2026 | FVTVR | Paris |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Jeff The Fool is a house and electronica artist based in France, with 27 gigs on
 
 IAMBP, Occibel, Alyhas
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffthefool/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffthefool/)*

@@ -1,14 +1,15 @@
 # Miss Djax
 
-Miss Djax is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Kilomètre25, Paris on Sat, 24 Oct 2026.
+Miss Djax is a Acid and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Kilomètre25, Paris on Sat, 24 Oct 2026.
 
-Miss Djax is an acid and techno artist based in Netherlands, with 14 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 5 more. Often billed alongside Alexander Koning, Esther Dune and Josh Wink. Next up: Kilomètre25, Paris on Sat 24 Oct.
+Miss Djax is an acid and techno artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 6 more. Often billed alongside Alexander Koning, Esther Dune and Josh Wink. Next up: Kilomètre25, Paris on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Kilomètre25 | Paris |
+| Sat, 6 Mar 2027 | The Cause | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Miss Djax is an acid and techno artist based in Netherlands, with 14 gigs on sou
 
 Alexander Koning, Esther Dune, Josh Wink
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missdjax/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missdjax/)*

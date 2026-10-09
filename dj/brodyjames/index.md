@@ -1,6 +1,6 @@
 # Brody James
 
-Brody James is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Berkeley Suite, Glasgow on Thu, 22 Oct 2026.
+Brody James is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Berkeley Suite, Glasgow on Thu, 22 Oct 2026.
 
 Brody James is a house and techno artist based in United Kingdom, with 28 gigs on soundcheck across Edinburgh, Glasgow and London. Often billed alongside Tosher, DRUMA and Babyccino. Next up: The Berkeley Suite, Glasgow on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Brody James is a house and techno artist based in United Kingdom, with 28 gigs o
 
 Tosher, DRUMA, Babyccino
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brodyjames/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brodyjames/)*

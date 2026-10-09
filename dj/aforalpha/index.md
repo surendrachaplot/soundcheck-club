@@ -1,6 +1,6 @@
 # A For Alpha
 
-A For Alpha is a House and Garage artist with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at fabric, London on Fri, 9 Oct 2026.
+A For Alpha is a House and Garage artist with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at fabric, London on Fri, 9 Oct 2026.
 
 A For Alpha is a house and garage artist based in United Kingdom, with 127 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 16 more. Often billed alongside Papa Nugs, Dr Dubplate and Ellie Stokes. Next up: fabric, London on Fri 9 Oct.
 
@@ -35,4 +35,4 @@ A For Alpha is a house and garage artist based in United Kingdom, with 127 gigs 
 
 Papa Nugs, Dr Dubplate, Ellie Stokes
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aforalpha/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aforalpha/)*

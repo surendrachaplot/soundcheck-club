@@ -1,8 +1,8 @@
 # Jeremy Cheung
 
-Jeremy Cheung is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Débris, Tokyo on Fri, 9 Oct 2026.
+Jeremy Cheung is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Débris, Tokyo on Fri, 9 Oct 2026.
 
-Jeremy Cheung is a techno and house artist based in China, with 79 gigs on soundcheck across Bangkok, Hong Kong, Kuala Lumpur and Osaka and 4 more. Often billed alongside DJ Anthony2, AngeliKa and Casey Anderson. Next up: Débris, Tokyo on Fri 9 Oct.
+Jeremy Cheung is a techno and house artist based in China, with 80 gigs on soundcheck across Bangkok, Hong Kong, Kuala Lumpur and Osaka and 5 more. Often billed alongside DJ Anthony2, AngeliKa and Casey Anderson. Next up: Débris, Tokyo on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jeremy Cheung is a techno and house artist based in China, with 79 gigs on sound
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Débris | Tokyo |
 | Wed, 14 Oct 2026 | BAR Inc | Osaka |
+| Sat, 24 Oct 2026 | Final | Taipei |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Jeremy Cheung is a techno and house artist based in China, with 79 gigs on sound
 
 DJ Anthony2, AngeliKa, Casey Anderson
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremycheung/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremycheung/)*

@@ -1,8 +1,8 @@
 # WhoMadeWho
 
-WhoMadeWho is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Great Pyramids OF Giza, Egypt on Fri, 9 Oct 2026.
+WhoMadeWho is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Great Pyramids OF Giza, Egypt on Fri, 9 Oct 2026.
 
-WhoMadeWho is a house and techno artist based in Denmark, with 154 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Black Coffee, Carlita and Adriatique. Next up: The Great Pyramids OF Giza, Egypt on Fri 9 Oct.
+WhoMadeWho is a house and techno artist based in Denmark, with 155 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Black Coffee, Carlita and Adriatique. Next up: The Great Pyramids OF Giza, Egypt on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ WhoMadeWho is a house and techno artist based in Denmark, with 154 gigs on sound
 | Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |
 | Fri, 30 Oct 2026 | UKOKO CLUB | Costa-rica |
 | Sun, 1 Nov 2026 | Club Space Miami | Miami |
+| Sat, 14 Nov 2026 | Palace of Fine Arts | San Francisco/Oakland |
 | Fri, 27 Nov 2026 | KOKO | London |
 | Fri, 27 Nov 2026 | KOKO | London |
 | Sat, 28 Nov 2026 | KOKO | London |
@@ -34,4 +35,4 @@ WhoMadeWho is a house and techno artist based in Denmark, with 154 gigs on sound
 
 Black Coffee, Carlita, Adriatique
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*

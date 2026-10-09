@@ -1,6 +1,6 @@
-# FACE 2 FACE at Flanders Expo, ghent at Flanders Expo Centre
+# FACE 2 FACE at Flanders Expo, Ghent at Flanders Expo Centre
 
-FACE 2 FACE at Flanders Expo, ghent at Flanders Expo Centre on Sat 5 Dec, Ghent. 16 artists: 6EJOU, Adrian Mills, Alycia Bezgo and BIIANCO and 12 more. Techno. See the line-up on soundcheck.
+FACE 2 FACE at Flanders Expo, Ghent at Flanders Expo Centre on Sat 5 Dec, Ghent. 16 artists: 6EJOU, Adrian Mills, Alycia Bezgo and BIIANCO and 12 more. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

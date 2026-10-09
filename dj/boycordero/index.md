@@ -1,6 +1,6 @@
 # Boy Cordero
 
-Boy Cordero is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Club Rawhide, New York City on Sun, 11 Oct 2026.
+Boy Cordero is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Club Rawhide, New York City on Sun, 11 Oct 2026.
 
 Boy Cordero is a house and techno artist based in United States of America, with 42 gigs on soundcheck across New York City and Washington DC. Often billed alongside Eli Escobar, DJ Moma and WEMI. Next up: Club Rawhide, New York City on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Boy Cordero is a house and techno artist based in United States of America, with
 
 Eli Escobar, DJ Moma, WEMI
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boycordero/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boycordero/)*

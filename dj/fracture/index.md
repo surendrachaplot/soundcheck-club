@@ -1,6 +1,6 @@
 # Fracture
 
-Fracture is a Jungle and Drum & Bass artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Stereo, Glasgow on Sat, 10 Oct 2026.
+Fracture is a Jungle and Drum & Bass artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Stereo, Glasgow on Sat, 10 Oct 2026.
 
 Fracture is a jungle and drum & bass artist based in United Kingdom, with 53 gigs on soundcheck across Antwerp, Berlin, Brighton and Bristol and 9 more. Often billed alongside Tim Reaper, DJ Flight and Decibella. Next up: Stereo, Glasgow on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Fracture is a jungle and drum & bass artist based in United Kingdom, with 53 gig
 
 Tim Reaper, DJ Flight, Decibella
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fracture/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fracture/)*

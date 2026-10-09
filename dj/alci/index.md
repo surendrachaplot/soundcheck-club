@@ -1,6 +1,6 @@
 # Alci
 
-Alci is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Crobar - Buenos Aires, Buenos Aires on Sat, 10 Oct 2026.
+Alci is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Crobar - Buenos Aires, Buenos Aires on Sat, 10 Oct 2026.
 
 Alci is a house and minimal artist based in Switzerland, with 114 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 25 more. Often billed alongside Flavio (CH), ANOTR and Mateo Dufour. Next up: Crobar - Buenos Aires, Buenos Aires on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Alci is a house and minimal artist based in Switzerland, with 114 gigs on soundc
 
 Flavio (CH), ANOTR, Mateo Dufour
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alci/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alci/)*

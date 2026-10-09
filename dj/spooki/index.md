@@ -1,6 +1,6 @@
 # Spooki
 
-Spooki is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Treasure Island, San Francisco/Oakland on Sat, 10 Oct 2026.
+Spooki is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Treasure Island, San Francisco/Oakland on Sat, 10 Oct 2026.
 
 Spooki is a house and tech house artist, with 15 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Ardalan, Cat Liu and DJ Cira. Next up: Treasure Island, San Francisco/Oakland on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Spooki is a house and tech house artist, with 15 gigs on soundcheck across San F
 
 Ardalan, Cat Liu, DJ Cira
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spooki/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spooki/)*

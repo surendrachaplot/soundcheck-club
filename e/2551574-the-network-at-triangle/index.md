@@ -1,6 +1,6 @@
 # The Network at Triangle
 
-The Network at Triangle on Fri 30 Oct, Osaka. 2 artists: DJ Don and DropTop. Bass and Tech House. See the line-up on soundcheck.
+The Network at Triangle on Fri 30 Oct, Osaka. 12 artists: 0mSv, Cloonee, DropTop and ELYSIUM and 8 more. Bass and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,17 @@ The Network at Triangle on Fri 30 Oct, Osaka. 2 artists: DJ Don and DropTop. Bas
 
 ## Line-up
 
-- DJ Don
+- 0mSv
+- Cloonee
 - DropTop
+- ELYSIUM
+- Globe
+- KYOTO
+- Matroda
+- Sage (CA)
+- Sandiego
+- Tchami
+- Tsuyoshi Suzuki
+- Wax Motif
 
 *Source: [soundcheck](https://soundcheck.club/e/2551574-the-network-at-triangle/)*

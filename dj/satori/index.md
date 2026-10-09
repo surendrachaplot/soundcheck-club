@@ -1,6 +1,6 @@
 # Satori
 
-Satori is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 30 Oct 2026.
+Satori is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 Satori is a house and deep house artist based in Netherlands, with 82 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 27 more. Often billed alongside Sorä, Cera Khin and Dixon. Next up: Public Works, San Francisco/Oakland on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Satori is a house and deep house artist based in Netherlands, with 82 gigs on so
 
 Sorä, Cera Khin, Dixon
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satori/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satori/)*

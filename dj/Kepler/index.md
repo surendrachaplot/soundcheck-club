@@ -1,6 +1,6 @@
 # Kepler
 
-Kepler is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Concorde 2, Brighton on Fri, 9 Oct 2026.
+Kepler is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Concorde 2, Brighton on Fri, 9 Oct 2026.
 
 Kepler is a house and tech house artist based in United Kingdom, with 161 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 32 more. Often billed alongside Burnski, Job de Jong and L.P. Rhythm. Next up: Concorde 2, Brighton on Fri 9 Oct.
 
@@ -10,7 +10,7 @@ Kepler is a house and tech house artist based in United Kingdom, with 161 gigs o
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Concorde 2 | Brighton |
 | Sat, 17 Oct 2026 | 11 Bromley Street | Birmingham |
-| Thu, 22 Oct 2026 | Levenslang Amsterdam | Amsterdam |
+| Thu, 22 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Ijland | Amsterdam |
 | Fri, 23 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
@@ -35,4 +35,4 @@ Kepler is a house and tech house artist based in United Kingdom, with 161 gigs o
 
 Burnski, Job de Jong, L.P. Rhythm
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*

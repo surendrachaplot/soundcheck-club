@@ -1,6 +1,6 @@
 # DJ Surgeles
 
-DJ Surgeles is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at 8sixa, Amsterdam on Fri, 23 Oct 2026.
+DJ Surgeles is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at 8sixa, Amsterdam on Fri, 23 Oct 2026.
 
 DJ Surgeles is a techno and dub techno artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin. Often billed alongside Marco Ramos, R/D/V and 3Points. Next up: 8sixa, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ DJ Surgeles is a techno and dub techno artist based in Netherlands, with 17 gigs
 
 Marco Ramos, R/D/V, 3Points
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeles/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeles/)*

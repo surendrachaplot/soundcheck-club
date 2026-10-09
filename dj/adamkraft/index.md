@@ -1,8 +1,8 @@
 # Adam Kraft
 
-Adam Kraft is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Public Works, San Francisco/Oakland on Sat, 17 Oct 2026.
+Adam Kraft is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Public Works, San Francisco/Oakland on Sat, 17 Oct 2026.
 
-Adam Kraft is a club and techno artist, with 51 gigs on soundcheck across Austin, Bangkok, Los Angeles and Manila and 5 more. Often billed alongside nonsuit, likeholywine and Beverly Chills. Next up: Public Works, San Francisco/Oakland on Sat 17 Oct.
+Adam Kraft is a club and techno artist based in United States of America, with 51 gigs on soundcheck across Austin, Bangkok, Los Angeles and Manila and 5 more. Often billed alongside nonsuit, likeholywine and Beverly Chills. Next up: Public Works, San Francisco/Oakland on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Adam Kraft is a club and techno artist, with 51 gigs on soundcheck across Austin
 
 nonsuit, likeholywine, Beverly Chills
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamkraft/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamkraft/)*

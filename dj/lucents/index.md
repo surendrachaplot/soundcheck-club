@@ -1,14 +1,14 @@
 # Lucents
 
-Lucents is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at 宀 Club, Hong Kong on Sat, 10 Oct 2026.
+Lucents is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at 宀 Club, Hong Kong on Sat, 31 Oct 2026.
 
-Lucents is a house and techno artist based in United Kingdom, with 9 gigs on soundcheck across Hong Kong. Often billed alongside The Heman, 100%WONG and Andy-S. Next up: 宀 Club, Hong Kong on Sat 10 Oct.
+Lucents is a house and techno artist based in United Kingdom, with 9 gigs on soundcheck across Hong Kong. Often billed alongside The Heman, 100%WONG and Andy-S. Next up: 宀 Club, Hong Kong on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | 宀 Club | Hong Kong |
+| Sat, 31 Oct 2026 | 宀 Club | Hong Kong |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Lucents is a house and techno artist based in United Kingdom, with 9 gigs on sou
 
 The Heman, 100%WONG, Andy-S
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucents/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucents/)*

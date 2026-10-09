@@ -1,14 +1,13 @@
 # Zur Klappe
 
-Zur Klappe is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "The Jakob Sister & RaverPik aka Hitstorm ALL NIGHT LONG" on Thu, 8 Oct 2026.
+Zur Klappe is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Klappnacht" on Sat, 10 Oct 2026.
 
-Zur Klappe is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including RaverPik and The Jakob Sister. See dates, start times and who's playing. Yorckstrasse 0, 10965, Berlin.
+Zur Klappe is a music venue in Berlin listed on soundcheck. 8 upcoming gigs. See dates, start times and who's playing. Yorckstrasse 0, 10965, Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | The Jakob Sister & RaverPik aka Hitstorm ALL NIGHT LONG | RaverPik, The Jakob Sister |
 | Sat, 10 Oct 2026 | Klappnacht |  |
 | Fri, 16 Oct 2026 | sh!t happens |  |
 | Sat, 17 Oct 2026 | Klappnacht |  |
@@ -22,4 +21,4 @@ Zur Klappe is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, wit
 
 Yorckstrasse 0, 10965, Berlin, Berlin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zur-klappe/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zur-klappe/)*

@@ -1,6 +1,6 @@
 # QUIBBIE
 
-QUIBBIE is a Pop and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Day Off Club (데이오프클럽), Seoul on Fri, 9 Oct 2026.
+QUIBBIE is a Pop and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Day Off Club (데이오프클럽), Seoul on Fri, 9 Oct 2026.
 
 QUIBBIE is a pop and hardcore artist, with 8 gigs on soundcheck across Seoul. Often billed alongside DAEGARI, SUBUN and Bassline. Next up: Day Off Club (데이오프클럽), Seoul on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ QUIBBIE is a pop and hardcore artist, with 8 gigs on soundcheck across Seoul. Of
 
 DAEGARI, SUBUN, Bassline
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quibbie/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quibbie/)*

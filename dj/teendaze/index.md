@@ -1,6 +1,6 @@
 # Teen Daze
 
-Teen Daze is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Kaffibarinn, Iceland on Fri, 16 Oct 2026.
+Teen Daze is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Kaffibarinn, Iceland on Fri, 16 Oct 2026.
 
 Teen Daze is a house and balearic artist based in Canada, with 40 gigs on soundcheck across Austin, Denver, Iceland and Los Angeles and 7 more. Often billed alongside Pacific Coliseum, DJ D.Dee and Kozue. Next up: Kaffibarinn, Iceland on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Teen Daze is a house and balearic artist based in Canada, with 40 gigs on soundc
 
 Pacific Coliseum, DJ D.Dee, Kozue
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teendaze/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teendaze/)*

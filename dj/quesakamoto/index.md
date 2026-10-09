@@ -1,6 +1,6 @@
 # Que Sakamoto
 
-Que Sakamoto is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Green Room NYC, New York City on Fri, 9 Oct 2026.
+Que Sakamoto is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Green Room NYC, New York City on Fri, 9 Oct 2026.
 
 Que Sakamoto is a house and techno artist based in Japan, with 63 gigs on soundcheck across Barcelona, Berlin, Brussels and Buenos Aires and 22 more. Often billed alongside André Galluzzi, Annyrock and Cabanne. Next up: Green Room NYC, New York City on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ Que Sakamoto is a house and techno artist based in Japan, with 63 gigs on soundc
 
 André Galluzzi, Annyrock, Cabanne
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quesakamoto/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quesakamoto/)*

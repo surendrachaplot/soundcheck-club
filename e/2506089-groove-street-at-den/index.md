@@ -1,6 +1,6 @@
 # ♢ GROOVE STREET ♢ at ÆDEN
 
-♢ GROOVE STREET ♢ at ÆDEN on Fri 13 Nov, Berlin. 12 artists: Annakonda, ASTRANA, Delm and e.leptic and 8 more. Techno and House. See the line-up on soundcheck.
+♢ GROOVE STREET ♢ at ÆDEN on Fri 13 Nov, Berlin. 13 artists: Annakonda, ASTRANA, Blck-Swan and Delm and 9 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@
 
 - Annakonda
 - ASTRANA
+- Blck-Swan
 - Delm
 - e.leptic
 - EVYA

@@ -1,6 +1,6 @@
 # TechNovaBader
 
-TechNovaBader is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Der Weiße Hase, Berlin on Fri, 9 Oct 2026.
+TechNovaBader is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Der Weiße Hase, Berlin on Fri, 9 Oct 2026.
 
 TechNovaBader is a techno and trance artist based in Germany, with 48 gigs on soundcheck across Berlin. Often billed alongside Emma, Felix Reichelt and Cat Vermillion. Next up: Der Weiße Hase, Berlin on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ TechNovaBader is a techno and trance artist based in Germany, with 48 gigs on so
 
 Emma (8), Felix Reichelt, Cat Vermillion
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/technovabader/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/technovabader/)*

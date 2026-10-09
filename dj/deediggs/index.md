@@ -1,6 +1,6 @@
 # Dee Diggs
 
-Dee Diggs is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
+Dee Diggs is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
 
 Dee Diggs is a house and techno artist based in United States of America, with 216 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 38 more. Often billed alongside Kilopatrah Jones, Avalon Emerson and Octo Octa. Next up: Iter Tenerife, Canary Islands on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Dee Diggs is a house and techno artist based in United States of America, with 2
 
 Kilopatrah Jones, Avalon Emerson, Octo Octa
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deediggs/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deediggs/)*

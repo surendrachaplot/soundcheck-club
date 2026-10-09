@@ -1,14 +1,13 @@
 # DVS1
 
-DVS1 is a Techno and House artist with 20 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Kingdom Nightclub, Austin on Thu, 8 Oct 2026.
+DVS1 is a Techno and House artist with 19 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Domicile, Miami on Fri, 9 Oct 2026.
 
-DVS1 is a techno and house artist based in United States of America, with 326 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 71 more. Often billed alongside Ogazón, Helena Hauff and Jeff Mills. Next up: Kingdom Nightclub, Austin on Thu 8 Oct.
+DVS1 is a techno and house artist based in United States of America, with 326 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 71 more. Often billed alongside Ogazón, Helena Hauff and Jeff Mills. Next up: Domicile, Miami on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Kingdom Nightclub | Austin |
 | Fri, 9 Oct 2026 | Domicile | Miami |
 | Sat, 10 Oct 2026 | TBA - Los Angeles | Los Angeles |
 | Sun, 11 Oct 2026 | TBA | Vancouver |
@@ -20,9 +19,11 @@ DVS1 is a techno and house artist based in United States of America, with 326 gi
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Fri, 30 Oct 2026 | Club Drugstore | Serbia |
 | Fri, 6 Nov 2026 | Circolo Amelia | Milan |
+| Sat, 7 Nov 2026 | Masada | Milan |
 
 ## Recently played
 
+- Kingdom Nightclub, Austin · Thu, 8 Oct 2026
 - fabric, London · Sat, 3 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 3 Oct 2026
 - Strange Brew, Bristol · Fri, 2 Oct 2026
@@ -30,10 +31,9 @@ DVS1 is a techno and house artist based in United States of America, with 326 gi
 - Lux Fragil, Lisbon · Fri, 25 Sept 2026
 - Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
 - Bunker, Turin · Sat, 12 Sept 2026
-- TBA - Brussels, Brussels · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Ogazón, Helena Hauff, Jeff Mills
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*

@@ -1,13 +1,14 @@
 # DJ Henk
 
-DJ Henk is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Südpol, Hamburg on Fri, 16 Oct 2026.
+DJ Henk is a Trance and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 10 Oct 2026.
 
-DJ Henk is a trance and techno artist based in Germany, with 145 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 7 more. Often billed alongside get no, $EITAN777 and KLING&KLANG. Next up: Südpol, Hamburg on Fri 16 Oct.
+DJ Henk is a trance and techno artist based in Germany, with 146 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 7 more. Often billed alongside get no, $EITAN777 and KLING&KLANG. Next up: Lokschuppen Berlin, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 16 Oct 2026 | Südpol | Hamburg |
 | Sat, 17 Oct 2026 | ://about blank | Berlin |
 | Fri, 30 Oct 2026 | OST | Berlin |
@@ -29,4 +30,4 @@ DJ Henk is a trance and techno artist based in Germany, with 145 gigs on soundch
 
 get no, $EITAN777, KLING&KLANG
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhenk/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhenk/)*

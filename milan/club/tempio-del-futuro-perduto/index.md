@@ -1,14 +1,13 @@
 # Tempio del Futuro Perduto
 
-Tempio del Futuro Perduto is a music venue in Milan with 20 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Tempio Radio Notturna x Qloom: GLEDIS, Matteo Wnb, ZATAC" on Thu, 8 Oct 2026.
+Tempio del Futuro Perduto is a music venue in Milan with 19 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Oriental Techno Club - 東極玄音寺: Icey Planet, Raeya Chen, DÅwN" on Fri, 9 Oct 2026.
 
-Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 20 upcoming gigs, with line-ups including Acidalia, Alfa Cornae, Alimac and Berlin Bunny and 2 more. See dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
+Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 19 upcoming gigs, with line-ups including Acidalia, Alfa Cornae, Alimac and Berlin Bunny and 2 more. See dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Tempio Radio Notturna x Qloom: GLEDIS, Matteo Wnb, ZATAC | GLEDIS, ZATAC |
 | Fri, 9 Oct 2026 | Oriental Techno Club - 東極玄音寺: Icey Planet, Raeya Chen, DÅwN | DÅwN, Icey Planet, Raeya Chen |
 | Sat, 10 Oct 2026 | RESISTANCE: Danny Wabbit, Kora Lyssa, cccre, Marthial, Iacopo Carli | Danny Wabbit, Iacopo Carli, Kora Lyssa, Marthial, cccre |
 | Thu, 15 Oct 2026 | Tempio Radio Notturna x Fleurs Sonores: Blunderr, Fennec ///, MA\E | Blunderr, Fennec III, MA\E |
@@ -18,9 +17,10 @@ Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 20 upc
 | Fri, 23 Oct 2026 | Oriental Techno Club - 東極玄音寺: ELM, Shishee live, ZHAZHA WANG | ELM(IN), ZHAZHA WANG |
 | Sat, 24 Oct 2026 | ITALO GHETTO FREE PARTY: PSYKEDELIA, Keira Meier, Wasco  | Keira Meier, PSYKEDELIA |
 | Thu, 29 Oct 2026 | Tempio Radio Notturna x Scuola della Techno: Malincuore, Patineta, Roberta Naive |  |
+| Fri, 30 Oct 2026 | Oriental Techno Club - 東極玄音寺: Hongor, Mohamad Kafarsoussa, Zenyee | Hongor, Zenyee |
 
 ## Address
 
 via Luigi Nono 9 20100 Milan, Italy, Milan
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tempio-del-futuro-perduto/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tempio-del-futuro-perduto/)*

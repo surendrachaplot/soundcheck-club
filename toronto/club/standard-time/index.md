@@ -1,8 +1,8 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 14 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Garden Disco x Stereo Ferment present PATCH 2 BATCH" on Fri, 9 Oct 2026.
+Standard Time is a music venue in Toronto with 16 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Garden Disco x Stereo Ferment present PATCH 2 BATCH" on Fri, 9 Oct 2026.
 
-Standard Time is a music venue in Toronto listed on soundcheck. 14 upcoming gigs, with line-ups including Adrian Sherwood, Amedeo (CA), Carlos Estebban and Coy Haste and 2 more. See dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
+Standard Time is a music venue in Toronto listed on soundcheck. 16 upcoming gigs, with line-ups including Adrian Sherwood, Altinbas, Amedeo (CA) and anise and 2 more. See dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Standard Time is a music venue in Toronto listed on soundcheck. 14 upcoming gigs
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

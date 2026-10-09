@@ -1,6 +1,6 @@
 # Aymen
 
-Aymen is a Electro and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Usquare, Brussels on Sat, 24 Oct 2026.
+Aymen is a Electro and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Usquare, Brussels on Sat, 24 Oct 2026.
 
 Aymen is an electro and hip-hop artist, with 8 gigs on soundcheck across Brussels, Edinburgh, Frankfurt and London and 1 more. Often billed alongside A.D.H.S., A.N.I. and ATARAXY. Next up: Usquare, Brussels on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Aymen is an electro and hip-hop artist, with 8 gigs on soundcheck across Brussel
 
 A.D.H.S., A.N.I., ATARAXY
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aymen/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aymen/)*

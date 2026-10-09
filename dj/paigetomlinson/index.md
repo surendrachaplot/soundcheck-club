@@ -1,14 +1,13 @@
 # Paige Tomlinson
 
-Paige Tomlinson is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
+Paige Tomlinson is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Thu, 22 Oct 2026.
 
-Paige Tomlinson is a house and techno artist based in United Kingdom, with 168 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 39 more. Often billed alongside Prunk, Kyle Starkey and L.P. Rhythm. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
+Paige Tomlinson is a house and techno artist based in United Kingdom, with 168 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 39 more. Often billed alongside Prunk, Kyle Starkey and L.P. Rhythm. Next up: NDSM Scheepsbouwloods, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Thu, 22 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |
 | Fri, 6 Nov 2026 | The Ground at Club Space | Miami |
@@ -20,9 +19,11 @@ Paige Tomlinson is a house and techno artist based in United Kingdom, with 168 g
 | Fri, 20 Nov 2026 | The Liquid Room | Edinburgh |
 | Sat, 21 Nov 2026 | SWG3 | Glasgow |
 | Sat, 21 Nov 2026 | SWG3 | Glasgow |
+| Fri, 27 Nov 2026 | Night Tales | London |
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza · Thu, 8 Oct 2026
 - The Telegraph Building, Belfast · Sat, 3 Oct 2026
 - Digital, Newcastle · Fri, 2 Oct 2026
 - Amnesia Ibiza, Ibiza · Mon, 28 Sept 2026
@@ -30,10 +31,9 @@ Paige Tomlinson is a house and techno artist based in United Kingdom, with 168 g
 - Laagravense Plas, Utrecht · Sat, 12 Sept 2026
 - Amnesia Ibiza, Ibiza · Mon, 7 Sept 2026
 - [UNVRS], Ibiza · Mon, 24 Aug 2026
-- Palmerstown House Estate, Dublin · Sun, 2 Aug 2026
 
 ## Shares bills with
 
 Prunk, Kyle Starkey, L.P. Rhythm
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*

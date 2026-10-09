@@ -1,15 +1,13 @@
 # Club Magno
 
-Club Magno is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Antidoto Club: B2Bs Night" on Thu, 8 Oct 2026.
+Club Magno is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Antidoto Club: Paralich + Klandestina" on Thu, 22 Oct 2026.
 
-Club Magno is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including DJ Co.kr, Aemilius, Albal and Atrâm and 2 more. See dates, start times and who's playing. c. de cedaceros 7, Madrid.
+Club Magno is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including DJ Co.kr, Albal, Atrâm and Diego Armando and 2 more. See dates, start times and who's playing. c. de cedaceros 7, Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Antidoto Club: B2Bs Night | Aemilius, Linapary, Nine B, Sany Delitos, Sonia Lagoon (2) |
-| Thu, 15 Oct 2026 | Antidoto Club: Vigro Deep | Diego Armando, Maxvll |
 | Thu, 22 Oct 2026 | Antidoto Club: Paralich + Klandestina | Atrâm, Klandestina, Paralich, Quka |
 | Sat, 24 Oct 2026 | PLAYGIRL VOL. 21 AT BABYLON CLUB | Albal, Rozzer, Rubén Secaduras |
 | Thu, 29 Oct 2026 | Antidoto Club: Disobey Soundsystem + Chzter |  |
@@ -18,9 +16,11 @@ Club Magno is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, wi
 | Thu, 19 Nov 2026 | Antidoto Club: FS Green | FS Green |
 | Thu, 26 Nov 2026 | Antidoto Club: DJ Seinfeld + Vagabund | DJ Seinfeld, Vagabund, Yosef (ES) |
 | Thu, 3 Dec 2026 | Antidoto Club: Cherry Boys + Fallens |  |
+| Thu, 10 Dec 2026 | Antidoto Club x Rinse FM: Sophia Violet B2B Milion | DJ Co.kr, Milion, Sophia Violet |
+| Thu, 17 Dec 2026 | Antidoto Club: Miro | Diego Armando, MIRO (DE), Maxvll |
 
 ## Address
 
 c. de cedaceros 7, Madrid, Madrid
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-magno/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-magno/)*

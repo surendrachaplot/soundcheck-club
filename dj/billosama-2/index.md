@@ -1,6 +1,6 @@
 # Billo Sama (2)
 
-Billo Sama (2) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Distillery N17, London on Sat, 10 Oct 2026.
+Billo Sama (2) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Distillery N17, London on Sat, 10 Oct 2026.
 
 Billo Sama is a house and electro artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside DJ Birinight, DJ-HOTLINE 333 and Fvck Totvm. Next up: Distillery N17, London on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ Billo Sama is a house and electro artist based in United Kingdom, with 5 gigs on
 
 DJ Birinight, DJ-HOTLINE 333, Fvck Totvm
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billosama-2/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billosama-2/)*

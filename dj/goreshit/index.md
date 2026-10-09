@@ -1,8 +1,8 @@
 # goreshit
 
-goreshit is a Breakcore and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The DBA, Manchester on Mon, 12 Oct 2026.
+goreshit is a Breakcore and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The DBA, Manchester on Mon, 12 Oct 2026.
 
-goreshit is a breakcore and hardcore artist based in United Kingdom, with 34 gigs on soundcheck across Antwerp, Berlin, Bristol and Glasgow and 11 more. Often billed alongside IFFYHYPE, Lil Kevo 303 and LustSickPuppy. Next up: The DBA, Manchester on Mon 12 Oct.
+goreshit is a breakcore and hardcore artist based in United Kingdom, with 35 gigs on soundcheck across Antwerp, Berlin, Bristol and Glasgow and 11 more. Often billed alongside IFFYHYPE, Lil Kevo 303 and LustSickPuppy. Next up: The DBA, Manchester on Mon 12 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ goreshit is a breakcore and hardcore artist based in United Kingdom, with 34 gig
 | Tue, 13 Oct 2026 | The Blue Note Club | Midlands |
 | Wed, 14 Oct 2026 | Vespers Club | London |
 | Thu, 29 Oct 2026 | M.O.T | London |
+| Sat, 5 Dec 2026 | Nakano Heavysick Zero | Tokyo |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ goreshit is a breakcore and hardcore artist based in United Kingdom, with 34 gig
 
 IFFYHYPE, Lil Kevo 303, LustSickPuppy
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goreshit/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goreshit/)*

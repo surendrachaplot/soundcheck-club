@@ -1,6 +1,6 @@
 # VBX x fabric x Loud-Contact presented by TILLATEC at TILLATEC
 
-VBX x fabric x Loud-Contact presented by TILLATEC on Mon 26 Oct, Amsterdam. 15 artists: Alexia Glensy, Binh, Bobby. and Francesco Del Garda and 11 more. See the line-up on soundcheck.
+VBX x fabric x Loud-Contact presented by TILLATEC on Mon 26 Oct, Amsterdam. 20 artists: Alexia Glensy, Binh, Bobby. and Christian AB and 16 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,16 +13,21 @@ VBX x fabric x Loud-Contact presented by TILLATEC on Mon 26 Oct, Amsterdam. 15 a
 - Alexia Glensy
 - Binh
 - Bobby.
-- Francesco Del Garda
+- Christian AB
+- Dr Banana
+- Dresden
 - Frank Haag
 - Gabrielle Kwarteng
 - H-Foundation
 - Harry McCanna
 - ISAbella
 - Konduku
+- Lumiere
 - Magda
+- Matisa
 - Morgan
 - O.BEE
+- Reiss
 - Roza Terenzi
 - Tomas Station
 

@@ -1,11 +1,11 @@
-# TRANSGENIK at Fvtvr
+# TRANSGENIK at FVTVR
 
-TRANSGENIK at Fvtvr on Sat 10 Oct, Paris. 3 artists: Nevermind, Ollie Lishman and SATYS FYRE. Trance and Techno. See the line-up on soundcheck.
+TRANSGENIK at FVTVR on Sat 10 Oct, Paris. 3 artists: Nevermind, Ollie Lishman and SATYS FYRE. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 10 Oct 2026 |
-| Venue | Fvtvr |
+| Venue | FVTVR |
 | City | Paris |
 
 ## Line-up

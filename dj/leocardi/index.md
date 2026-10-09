@@ -1,8 +1,8 @@
 # Leo Cardi
 
-Leo Cardi is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Electric Garden, Dublin on Fri, 30 Oct 2026.
+Leo Cardi is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Electric Garden, Dublin on Fri, 30 Oct 2026.
 
-Leo Cardi is a techno and electronica artist, with 15 gigs on soundcheck across Amsterdam, Cork and Dublin. Often billed alongside Connect, LISA (IT) and Franco Cepulo. Next up: Electric Garden, Dublin on Fri 30 Oct.
+Leo Cardi is a techno and electronica artist based in Ireland, with 15 gigs on soundcheck across Amsterdam, Cork and Dublin. Often billed alongside Connect, LISA (IT) and Franco Cepulo. Next up: Electric Garden, Dublin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Leo Cardi is a techno and electronica artist, with 15 gigs on soundcheck across 
 
 Connect, LISA (IT), Franco Cepulo
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leocardi/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leocardi/)*

@@ -1,6 +1,6 @@
 # The Caley Bar
 
-The Caley Bar is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Colin Cooke" on Fri, 9 Oct 2026.
+The Caley Bar is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Colin Cooke" on Fri, 9 Oct 2026.
 
 The Caley Bar is a music venue in Edinburgh listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Princes Street, Edinburgh, United Kingdom EH1 2AB.
 
@@ -15,4 +15,4 @@ The Caley Bar is a music venue in Edinburgh listed on soundcheck. 2 upcoming gig
 
 Princes Street, Edinburgh, United Kingdom EH1 2AB, Edinburgh
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-caley-bar/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-caley-bar/)*

@@ -1,6 +1,6 @@
 # Move Your Body at Macarena Club
 
-Move Your Body at Macarena Club on Sun 18 Oct, Barcelona. 1 artist: EMilio. See the line-up on soundcheck.
+Move Your Body at Macarena Club on Sun 18 Oct, Barcelona. 1 artist: Wilowm. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,6 @@ Move Your Body at Macarena Club on Sun 18 Oct, Barcelona. 1 artist: EMilio. See 
 
 ## Line-up
 
-- EMilio (2)
+- Wilowm
 
 *Source: [soundcheck](https://soundcheck.club/e/2543231-move-your-body-at-macarena-club/)*

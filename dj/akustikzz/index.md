@@ -1,6 +1,6 @@
 # Akustikzz
 
-Akustikzz is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Mokka Mitte Bar / James Simon Park, Berlin on Sat, 10 Oct 2026.
+Akustikzz is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Mokka Mitte Bar / James Simon Park, Berlin on Sat, 10 Oct 2026.
 
 Akustikzz is a techno and afro house artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside Filialleiter, ONRA and cell1. Next up: Mokka Mitte Bar / James Simon Park, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Akustikzz is a techno and afro house artist based in Germany, with 11 gigs on so
 
 Filialleiter, ONRA (3), cell1
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akustikzz/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akustikzz/)*

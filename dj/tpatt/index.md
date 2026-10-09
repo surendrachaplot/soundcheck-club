@@ -1,6 +1,6 @@
 # TPATT
 
-TPATT is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at The Barbary, Philadelphia on Fri, 9 Oct 2026.
+TPATT is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at The Barbary, Philadelphia on Fri, 9 Oct 2026.
 
 TPATT is a house and tech house artist based in United States of America, with 30 gigs on soundcheck across Philadelphia. Often billed alongside Oscar N (US), Gene(SG) and Blanco Rabbit. Next up: The Barbary, Philadelphia on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ TPATT is a house and tech house artist based in United States of America, with 3
 
 Oscar N (US), Gene(SG), Blanco Rabbit
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tpatt/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tpatt/)*

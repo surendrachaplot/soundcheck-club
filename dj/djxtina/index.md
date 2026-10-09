@@ -1,6 +1,6 @@
 # DJ Xtina
 
-DJ Xtina is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Bok Bar, Philadelphia on Sun, 11 Oct 2026.
+DJ Xtina is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Bok Bar, Philadelphia on Sun, 11 Oct 2026.
 
 DJ Xtina is a house and techno artist based in United States of America, with 21 gigs on soundcheck across New York City and Philadelphia. Often billed alongside Francisco Collazo, G I N A and Firestone. Next up: Bok Bar, Philadelphia on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ DJ Xtina is a house and techno artist based in United States of America, with 21
 
 Francisco Collazo, G I N A, Firestone
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djxtina/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djxtina/)*

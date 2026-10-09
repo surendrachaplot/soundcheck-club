@@ -1,6 +1,6 @@
 # Josh Milan
 
-Josh Milan is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at H0L0, New York City on Sun, 18 Oct 2026.
+Josh Milan is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at H0L0, New York City on Sun, 18 Oct 2026.
 
 Josh Milan is a house and funk / soul artist based in United States of America, with 13 gigs on soundcheck across Athens, Detroit, London and New York City and 2 more. Often billed alongside Louie Vega, Natasha Diggs and Anane. Next up: H0L0, New York City on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Josh Milan is a house and funk / soul artist based in United States of America, 
 
 Louie Vega, Natasha Diggs, Anane
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshmilan/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshmilan/)*

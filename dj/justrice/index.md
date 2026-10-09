@@ -1,14 +1,15 @@
 # Justrice
 
-Justrice is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Obudai Island, Budapest on Fri, 23 Oct 2026.
+Justrice is a Deep House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Obudai Island, Budapest on Fri, 23 Oct 2026.
 
-Justrice is a deep house and progressive house artist based in Hungary, with 42 gigs on soundcheck across Budapest. Often billed alongside Davko, Gregory S and Peter Makto. Next up: Obudai Island, Budapest on Fri 23 Oct.
+Justrice is a deep house and progressive house artist based in Hungary, with 43 gigs on soundcheck across Budapest. Often billed alongside Davko, Gregory S and Peter Makto. Next up: Obudai Island, Budapest on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Obudai Island | Budapest |
+| Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Justrice is a deep house and progressive house artist based in Hungary, with 42 
 
 Davko, Gregory S, Peter Makto
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justrice/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justrice/)*

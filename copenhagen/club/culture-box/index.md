@@ -1,8 +1,8 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 18 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Unravel: Aio / NAYZ / Safe Spacers / GALATIUS / B. GOODE" on Fri, 9 Oct 2026.
+Culture Box is a music venue in Copenhagen with 19 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Unravel: Aio / NAYZ / Safe Spacers / GALATIUS / B. GOODE" on Fri, 9 Oct 2026.
 
-Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming gigs, with line-ups including Adelina, Aerocell, Aio and Aja Gulris and 2 more. See dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
+Culture Box is a music venue in Copenhagen listed on soundcheck. 19 upcoming gigs, with line-ups including Adelina, Aerocell, Aio and Aja Gulris and 2 more. See dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming gig
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Unravel: Aio / NAYZ / Safe Spacers / GALATIUS / B. GOODE | Aio, GALATIUS, Safe Spacers |
 | Sat, 10 Oct 2026 | Roll As One: YOZÉ / avoN / UBER KNAST / Sóltmänn / Ziggy Stardubb / Aerocell B2B HIGHL4ND3R | Aerocell, UBER KNAST, YOZÉ, Ziggy Stardubb, avoN |
-| Fri, 16 Oct 2026 | Chich / Kallax / Rexxx M / The Gathering: SHK / GeorgeBox / Georgeous / Dani Panda / ALX | Chich, Kallax, Rexxx M |
+| Fri, 16 Oct 2026 | Chich / Kallax / Rexxx M / The Gathering: SHK / GeorgeBox / Georgeous / Dani Panda | Chich, Kallax, Rexxx M |
 | Sat, 17 Oct 2026 | What Happens / Perceptions: Kevin Di Serna / Tim Andresen / Albano Bastonero / Luca Abayan / B | Albano Bastonero, Kevin Di Serna, Tim Andresen |
 | Fri, 23 Oct 2026 | Xinobi / Bow Miller / Anders HP / Rhythm Vault: Max Finney / Qwenty / Roussakis | Anders HP, Bow Miller, Max Finney, Qwenty, Roussakis, Xinobi |
 | Sat, 24 Oct 2026 | Azzecca / B From E / Nat / Tech The Night: Rareș Gherman / Costyx / Fynutzu | Azzecca, B From E, Fynutzu, NAT (SK), Rares Gherman, styx |
@@ -23,4 +23,4 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming gig
 
 Kronprinsessegade 54; Copenhagen K. 1306; Denmark, Copenhagen
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*

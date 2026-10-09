@@ -1,6 +1,6 @@
 # JPEG (3)
 
-JPEG (3) is a Breakbeat and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
+JPEG (3) is a Breakbeat and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
 
 JPEG is a breakbeat and acid artist based in United Kingdom, with 18 gigs on soundcheck across Barcelona, Bristol, London and Manchester and 1 more. Often billed alongside Cheff The Boy, Rose Holland and A For Alpha. Next up: The Prospect Building, Bristol on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ JPEG is a breakbeat and acid artist based in United Kingdom, with 18 gigs on sou
 
 Cheff The Boy, Rose Holland, A For Alpha
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jpeg-3/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jpeg-3/)*

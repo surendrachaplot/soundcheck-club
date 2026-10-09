@@ -1,6 +1,6 @@
 # 2NDRA
 
-2NDRA is a Techno and Acid artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Stadion Strahov, Prague on Sat, 10 Oct 2026.
+2NDRA is a Techno and Acid artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Stadion Strahov, Prague on Sat, 10 Oct 2026.
 
 2NDRA is a techno and acid artist based in Canada, with 66 gigs on soundcheck across Lisbon and Prague. Often billed alongside RiVid, Nøteleks and SJ Yellow. Next up: Stadion Strahov, Prague on Sat 10 Oct.
 
@@ -29,4 +29,4 @@
 
 RiVid, Nøteleks, SJ Yellow
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2ndra/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2ndra/)*

@@ -1,6 +1,6 @@
 # juandjj
 
-juandjj is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Versalles 64, Mexico City on Sat, 10 Oct 2026.
+juandjj is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Versalles 64, Mexico City on Sat, 10 Oct 2026.
 
 juandjj is a house and techno artist based in Colombia, with 15 gigs on soundcheck across Mexico City. Often billed alongside Alby Esc, Kodemul and Miss Mara. Next up: Versalles 64, Mexico City on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ juandjj is a house and techno artist based in Colombia, with 15 gigs on soundche
 
 Alby Esc, Kodemul, Miss Mara
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juandjj/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juandjj/)*

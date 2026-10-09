@@ -1,6 +1,6 @@
 # La Gata del Born
 
-La Gata del Born is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "TECHNO SEASONS 02 - ONE BEAT FOR COLOMBIA" on Fri, 9 Oct 2026.
+La Gata del Born is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "TECHNO SEASONS 02 - ONE BEAT FOR COLOMBIA" on Fri, 9 Oct 2026.
 
 La Gata del Born is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, with line-ups including Gabriella Ponce, Keyblow, M5R and Mr. Fruty and 1 more. See dates, start times and who's playing. Carrer del Comerç, 21, Ciutat Vella, 08003 Barcelona.
 
@@ -18,4 +18,4 @@ La Gata del Born is a music venue in Barcelona listed on soundcheck. 5 upcoming 
 
 Carrer del Comerç, 21, Ciutat Vella, 08003 Barcelona, Barcelona
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-gata-del-born/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-gata-del-born/)*

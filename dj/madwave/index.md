@@ -1,6 +1,6 @@
 # Madwave
 
-Madwave is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Stellwerk Bern, Bern on Sat, 10 Oct 2026.
+Madwave is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Stellwerk Bern, Bern on Sat, 10 Oct 2026.
 
 Madwave is a trance and techno artist based in Switzerland, with 34 gigs on soundcheck across Bern, Frankfurt, Geneva and Hamburg and 6 more. Often billed alongside Daxson, Agnelli & Nelson and Markus Schulz. Next up: Stellwerk Bern, Bern on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Madwave is a trance and techno artist based in Switzerland, with 34 gigs on soun
 
 Daxson, Agnelli & Nelson, Markus Schulz
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madwave/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madwave/)*

@@ -1,6 +1,6 @@
 # SNAJDER
 
-SNAJDER is a Progressive House and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at null, Amsterdam on Wed, 21 Oct 2026.
+SNAJDER is a Progressive House and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at null, Amsterdam on Wed, 21 Oct 2026.
 
 SNAJDER is a progressive house and minimal techno artist based in Denmark, with 2 gigs on soundcheck across Amsterdam. Often billed alongside DAN:EZ. 2 upcoming gigs listed.
 
@@ -15,4 +15,4 @@ SNAJDER is a progressive house and minimal techno artist based in Denmark, with 
 
 DAN:EZ
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snajder/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snajder/)*

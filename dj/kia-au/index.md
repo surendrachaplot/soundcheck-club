@@ -1,6 +1,6 @@
 # Kia (AU)
 
-Kia (AU) is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at smartbar, Chicago on Fri, 9 Oct 2026.
+Kia (AU) is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at smartbar, Chicago on Fri, 9 Oct 2026.
 
 Kia (AU) is a techno and house artist based in Australia, with 206 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 48 more. Often billed alongside Reptant, DjRUM and Moopie. Next up: smartbar, Chicago on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ Kia (AU) is a techno and house artist based in Australia, with 206 gigs on sound
 
 Reptant, DjRUM, Moopie
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kia-au/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kia-au/)*

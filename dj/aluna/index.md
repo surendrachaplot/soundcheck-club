@@ -1,8 +1,8 @@
 # Aluna
 
-Aluna is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at House of Yes, New York City on Sat, 10 Oct 2026.
+Aluna is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at House of Yes, New York City on Sat, 10 Oct 2026.
 
-Aluna is a house and techno artist based in United Kingdom, with 57 gigs on soundcheck across Austin, Barcelona, Bristol and Chicago and 19 more. Often billed alongside Coco & Breezy, RaeCola and Grimes. Next up: House of Yes, New York City on Sat 10 Oct.
+Aluna is a house and techno artist based in United Kingdom, with 58 gigs on soundcheck across Austin, Barcelona, Bristol and Chicago and 19 more. Often billed alongside Coco & Breezy, RaeCola and Grimes. Next up: House of Yes, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Aluna is a house and techno artist based in United Kingdom, with 57 gigs on soun
 | Sat, 10 Oct 2026 | House of Yes | New York City |
 | Fri, 23 Oct 2026 | Vera Cocina & بار | Washington DC |
 | Sat, 24 Oct 2026 | Floyd | Miami |
+| Sat, 14 Nov 2026 | Palace of Fine Arts | San Francisco/Oakland |
 | Thu, 11 Mar 2027 | Mantamar Beach Club | Puerto-vallarta |
 
 ## Recently played
@@ -28,4 +29,4 @@ Aluna is a house and techno artist based in United Kingdom, with 57 gigs on soun
 
 Coco & Breezy, RaeCola, Grimes
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aluna/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aluna/)*

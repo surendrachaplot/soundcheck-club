@@ -1,8 +1,8 @@
 # Louie Vega
 
-Louie Vega is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Warehouse on Watts, Philadelphia on Sat, 17 Oct 2026.
+Louie Vega is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Warehouse on Watts, Philadelphia on Sat, 17 Oct 2026.
 
-Louie Vega is a house and disco artist based in United States of America, with 207 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 31 more. Often billed alongside Anane, Melvo Baptiste and Christian Mantini. Next up: Warehouse on Watts, Philadelphia on Sat 17 Oct.
+Louie Vega is a house and disco artist based in United States of America, with 208 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 31 more. Often billed alongside Anane, Melvo Baptiste and Christian Mantini. Next up: Warehouse on Watts, Philadelphia on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Louie Vega is a house and disco artist based in United States of America, with 2
 | Sun, 18 Oct 2026 | H0L0 | New York City |
 | Thu, 22 Oct 2026 | Supperclub Cruise | Amsterdam |
 | Fri, 6 Nov 2026 | La Terrrazza | Barcelona |
+| Sat, 7 Nov 2026 | Brooklyn Pacha | New-york-city |
 | Fri, 13 Nov 2026 | DRUMSHEDS | London |
 | Sat, 21 Nov 2026 | smartbar | Chicago |
 | Sat, 12 Dec 2026 | Open Ground | Wuppertal |
@@ -31,4 +32,4 @@ Louie Vega is a house and disco artist based in United States of America, with 2
 
 Anane, Melvo Baptiste, Christian Mantini
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louievega/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louievega/)*

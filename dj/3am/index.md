@@ -1,6 +1,6 @@
 # 3AM
 
-3AM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Bassiani, Tbilisi on Fri, 16 Oct 2026.
+3AM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Bassiani, Tbilisi on Fri, 16 Oct 2026.
 
 3AM is a techno and house artist based in Belgium, with 27 gigs on soundcheck across Detroit, London, Los Angeles and Mexico City and 5 more. Often billed alongside BLANC MAMBA, Giorgi Pipia and Ina Kacz. Next up: Bassiani, Tbilisi on Fri 16 Oct.
 
@@ -25,4 +25,4 @@
 
 BLANC MAMBA, Giorgi Pipia, Ina Kacz
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3am/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3am/)*

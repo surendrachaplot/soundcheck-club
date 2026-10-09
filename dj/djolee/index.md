@@ -1,6 +1,6 @@
 # Djolee
 
-Djolee is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Suma Han, Istanbul on Fri, 16 Oct 2026.
+Djolee is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Suma Han, Istanbul on Fri, 16 Oct 2026.
 
 Djolee is a progressive house and house artist based in Argentina, with 68 gigs on soundcheck across Amsterdam, Azerbaijan, Barcelona and Berlin and 6 more. Often billed alongside Amadori, Gespona and Martin Cozar. Next up: Suma Han, Istanbul on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Djolee is a progressive house and house artist based in Argentina, with 68 gigs 
 
 Amadori, Gespona, Martin Cozar
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djolee/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djolee/)*

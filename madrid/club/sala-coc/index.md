@@ -1,14 +1,15 @@
 # Sala Cocó
 
-Sala Cocó is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "HYBRID: NYRA" on Sat, 10 Oct 2026.
+Sala Cocó is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "HYBRID: NYRA" on Sat, 10 Oct 2026.
 
-Sala Cocó is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including NYRA (DE), DOCTOR MÜCKE, KITAE and Køni and 2 more. See dates, start times and who's playing. Calle Alcalá 20, 28014 Madrid, Spain.
+Sala Cocó is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with line-ups including NYRA (DE), Diego Armando, DOCTOR MÜCKE and KITAE and 2 more. See dates, start times and who's playing. Calle Alcalá 20, 28014 Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | HYBRID: NYRA | Køni, NYRA (DE), Raner Baumgartner |
+| Thu, 15 Oct 2026 | Antidoto Club: Vigro Deep | Diego Armando, Maxvll |
 | Sat, 17 Oct 2026 | HYBRID: WarinD | M.I.XX.I, RODS (ES), WarinD |
 | Sat, 24 Oct 2026 | HYBRID: DOCTOR MŨCKE | DOCTOR MÜCKE, KITAE |
 | Sat, 31 Oct 2026 | HYBRID: SZG | RODS (ES), SZG |
@@ -17,4 +18,4 @@ Sala Cocó is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, wit
 
 Calle Alcalá 20, 28014 Madrid, Spain, Madrid
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-coc/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-coc/)*

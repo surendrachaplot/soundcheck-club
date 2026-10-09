@@ -1,6 +1,6 @@
 # Elianne
 
-Elianne is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at M.O.T, London on Fri, 13 Nov 2026.
+Elianne is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at M.O.T, London on Fri, 13 Nov 2026.
 
 Elianne is a house and disco artist based in United Kingdom, with 34 gigs on soundcheck across Berlin, Brighton, London and Manchester and 1 more. Often billed alongside BAY-BUSH-KA, Madelic and Bethan. Next up: M.O.T, London on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Elianne is a house and disco artist based in United Kingdom, with 34 gigs on sou
 
 BAY-BUSH-KA, Madelic, Bethan
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elianne/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elianne/)*

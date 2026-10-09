@@ -1,6 +1,6 @@
 # Yuta Takahashi
 
-Yuta Takahashi is a Jazz and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Sound Bar Patrol, Tokyo on Fri, 23 Oct 2026.
+Yuta Takahashi is a Jazz and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Sound Bar Patrol, Tokyo on Fri, 23 Oct 2026.
 
 Yuta Takahashi is a jazz and drum & bass artist based in Japan, with 17 gigs on soundcheck across Tokyo. Often billed alongside vinylDJ Eiji Takehana, Hironobu Jyounai and Kenta Tominaga. Next up: Sound Bar Patrol, Tokyo on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Yuta Takahashi is a jazz and drum & bass artist based in Japan, with 17 gigs on 
 
 vinylDJ Eiji Takehana, Hironobu Jyounai, Kenta Tominaga
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yutatakahashi/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yutatakahashi/)*

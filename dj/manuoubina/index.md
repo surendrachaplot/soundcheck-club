@@ -1,6 +1,6 @@
 # Manu Oubiña
 
-Manu Oubiña is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 9 Oct 2026.
+Manu Oubiña is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 9 Oct 2026.
 
 Manu Oubiña is a house and electro artist based in Argentina, with 126 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 8 more. Often billed alongside LUKAS, Guile and Chris Gorrie. Next up: Lux Fragil, Lisbon on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Manu Oubiña is a house and electro artist based in Argentina, with 126 gigs on 
 
 LUKAS (4), Guile, Chris Gorrie
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manuoubina/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manuoubina/)*

@@ -1,6 +1,6 @@
 # AMT
 
-AMT is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "FUCK YOUR GENDER" on Fri, 9 Oct 2026.
+AMT is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "FUCK YOUR GENDER" on Fri, 9 Oct 2026.
 
 AMT is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including _minted, ALAN JOE, Bill Sanders and Charlie. and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ AMT is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line
 | Sat, 7 Nov 2026 | deep method: QZB, GEST, yungfya & more | GEST (UK), Kenzura, Mc Jamie White, PRTCL, Sammy B - deviate, yungfya |
 | Fri, 13 Nov 2026 | CLASH | ALAN JOE, Bill Sanders, Danny Roach, jardabpm |
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*

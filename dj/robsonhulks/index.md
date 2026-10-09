@@ -1,6 +1,6 @@
 # Robson Hulks
 
-Robson Hulks is a House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Secret London Location TBA, London on Fri, 9 Oct 2026.
+Robson Hulks is a House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Secret London Location TBA, London on Fri, 9 Oct 2026.
 
 Robson Hulks is a house artist, with 8 gigs on soundcheck across London and Malta. Often billed alongside George Mensah, Sammy Porter and Goody (UK). Next up: Secret London Location TBA, London on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ Robson Hulks is a house artist, with 8 gigs on soundcheck across London and Malt
 
 George Mensah, Sammy Porter, Goody (UK)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robsonhulks/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robsonhulks/)*

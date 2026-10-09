@@ -1,8 +1,8 @@
 # Amy Dabbs
 
-Amy Dabbs is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Electric Studios, Sheffield on Fri, 16 Oct 2026.
+Amy Dabbs is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Electric Studios, Sheffield on Fri, 16 Oct 2026.
 
-Amy Dabbs is a house and techno artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Berlin, Bristol and Copenhagen and 9 more. Often billed alongside Ady Toledano, Vio PRG and Juan Ramos. Next up: Electric Studios, Sheffield on Fri 16 Oct.
+Amy Dabbs is a house and techno artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Berlin, Bristol and Copenhagen and 9 more. Often billed alongside Ady Toledano, Vio PRG and Juan Ramos. Next up: Electric Studios, Sheffield on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Amy Dabbs is a house and techno artist based in United Kingdom, with 84 gigs on 
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Electric Studios | Sheffield |
 | Sat, 17 Oct 2026 | Hangar 34 | Liverpool |
+| Sat, 21 Nov 2026 | OXI | Berlin |
 | Sat, 12 Dec 2026 | Renate | Berlin |
 | Thu, 31 Dec 2026 | Renate | Berlin |
 
@@ -28,4 +29,4 @@ Amy Dabbs is a house and techno artist based in United Kingdom, with 84 gigs on 
 
 Ady Toledano, Vio PRG, Juan Ramos
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amydabbs/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amydabbs/)*

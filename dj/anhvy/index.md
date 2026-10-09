@@ -1,13 +1,14 @@
 # Anh Vy
 
-Anh Vy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Panorama Studio, Ho-chi-minh-city on Thu, 31 Dec 2026.
+Anh Vy is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
 
-Anh Vy is a house and techno artist, with 9 gigs on soundcheck across Bangkok, Ho Chi Minh City, Kyoto and Osaka and 2 more. Often billed alongside Lam Dao, DNG and Dusan Nikolic. Next up: Panorama Studio, Ho Chi Minh City on Thu 31 Dec.
+Anh Vy is a house and techno artist, with 10 gigs on soundcheck across Bangkok, Ho Chi Minh City, Kyoto and Osaka and 2 more. Often billed alongside Lam Dao, Kiki Raikkonen and Komga. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | The Observatory | Ho-chi-minh-city |
 | Thu, 31 Dec 2026 | Panorama Studio | Ho-chi-minh-city |
 
 ## Recently played
@@ -23,6 +24,6 @@ Anh Vy is a house and techno artist, with 9 gigs on soundcheck across Bangkok, H
 
 ## Shares bills with
 
-Lam Dao, DNG (1), Dusan Nikolic
+Lam Dao, Kiki Raikkonen, Komga
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anhvy/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anhvy/)*

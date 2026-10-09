@@ -1,8 +1,8 @@
 # AMÉMÉ
 
-AMÉMÉ is a House and Afro House artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Edifício Touring, Rio-de-janeiro on Fri, 9 Oct 2026.
+AMÉMÉ is a House and Afro House artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Edifício Touring, Rio-de-janeiro on Fri, 9 Oct 2026.
 
-AMÉMÉ is a house and afro house artist based in Benin, with 147 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Jamie Jones, Loco Dice and NenaHalena. Next up: Edifício Touring, Rio De Janeiro on Fri 9 Oct.
+AMÉMÉ is a house and afro house artist based in Benin, with 148 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Jamie Jones, Loco Dice and NenaHalena. Next up: Edifício Touring, Rio De Janeiro on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ AMÉMÉ is a house and afro house artist based in Benin, with 147 gigs on soundc
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Edifício Touring | Rio-de-janeiro |
 | Fri, 16 Oct 2026 | Volt Club Milano | Milan |
+| Thu, 22 Oct 2026 | Eivissa Ship | Amsterdam |
 | Fri, 23 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
@@ -30,4 +31,4 @@ AMÉMÉ is a house and afro house artist based in Benin, with 147 gigs on soundc
 
 Jamie Jones, Loco Dice, NenaHalena
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ameme-us/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ameme-us/)*

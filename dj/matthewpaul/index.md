@@ -1,6 +1,6 @@
 # Matthew Paul
 
-Matthew Paul is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at DNA Lounge, San Francisco/Oakland on Fri, 9 Oct 2026.
+Matthew Paul is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at DNA Lounge, San Francisco/Oakland on Fri, 9 Oct 2026.
 
 Matthew Paul is an acid and techno artist, with 11 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside Deezy (US), Nick Moss and Carlos Souffront. Next up: DNA Lounge, San Francisco/Oakland on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Matthew Paul is an acid and techno artist, with 11 gigs on soundcheck across Los
 
 Deezy (US), Nick Moss, Carlos Souffront
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewpaul/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewpaul/)*

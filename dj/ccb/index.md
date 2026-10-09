@@ -1,6 +1,6 @@
 # ccb
 
-ccb is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Volnost, Seoul on Sat, 10 Oct 2026.
+ccb is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Volnost, Seoul on Sat, 10 Oct 2026.
 
 ccb is a techno and minimal techno artist based in South Korea, with 83 gigs on soundcheck across Seoul and South Korea. Often billed alongside Hogun, Hii. and Haemi Park. Next up: Volnost, Seoul on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ ccb is a techno and minimal techno artist based in South Korea, with 83 gigs on 
 
 Hogun, Hii., Haemi Park
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ccb/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ccb/)*

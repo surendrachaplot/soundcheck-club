@@ -1,6 +1,6 @@
 # Carbon Based Lifeforms
 
-Carbon Based Lifeforms is a Ambient and Electronica artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Club Privé, Tallinn on Wed, 14 Oct 2026.
+Carbon Based Lifeforms is a Ambient and Electronica artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Club Privé, Tallinn on Wed, 14 Oct 2026.
 
 Carbon Based Lifeforms is an ambient and electronica artist based in Sweden, with 21 gigs on soundcheck across Amsterdam, Athens, Belgrade and Bristol and 12 more. Often billed alongside Aes Dana, Banco De Gaia and Shunt Voltage. Next up: Club Privé, Tallinn on Wed 14 Oct.
 
@@ -29,4 +29,4 @@ Carbon Based Lifeforms is an ambient and electronica artist based in Sweden, wit
 
 Aes Dana, Banco De Gaia, Shunt Voltage
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carbonbasedlifeforms/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carbonbasedlifeforms/)*

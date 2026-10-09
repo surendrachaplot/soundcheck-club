@@ -1,6 +1,6 @@
 # Icey Bby
 
-Icey Bby is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Podlasie Club, Chicago on Sat, 31 Oct 2026.
+Icey Bby is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Podlasie Club, Chicago on Sat, 31 Oct 2026.
 
 Icey Bby is a club and techno artist based in United States of America, with 30 gigs on soundcheck across Chicago. Often billed alongside sydfalls, Loqum and CTRLZORA. Next up: Podlasie Club, Chicago on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Icey Bby is a club and techno artist based in United States of America, with 30 
 
 sydfalls, Loqum, CTRLZORA
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iceybby/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iceybby/)*

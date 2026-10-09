@@ -1,6 +1,6 @@
 # VEGA
 
-VEGA is a music venue in Copenhagen with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Dias" on Thu, 8 Oct 2026.
+VEGA is a music venue in Copenhagen with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Hypnosis Therapy" on Tue, 13 Oct 2026.
 
 VEGA is a music venue in Copenhagen listed on soundcheck. 10 upcoming gigs, with line-ups including 100%WET, Arlo Parks, FKJ and HYPNOSIS THERAPY and 2 more. See dates, start times and who's playing. Enghavevej 40, 1674 København V, Danmark.
 
@@ -8,7 +8,6 @@ VEGA is a music venue in Copenhagen listed on soundcheck. 10 upcoming gigs, with
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Dias |  |
 | Tue, 13 Oct 2026 | Hypnosis Therapy | HYPNOSIS THERAPY |
 | Tue, 20 Oct 2026 | FKJ - Tyber Tour | FKJ |
 | Sat, 31 Oct 2026 | Kenton Slash Demon | Kenton Slash Demon |
@@ -18,9 +17,10 @@ VEGA is a music venue in Copenhagen listed on soundcheck. 10 upcoming gigs, with
 | Sat, 14 Nov 2026 | 100%WET // VEGA | 100%WET |
 | Sun, 22 Nov 2026 | Smerz (NO) + [support: Felicity J Lord] // VEGA | Smerz |
 | Sun, 29 Nov 2026 | ARLO PARKS // VEGA | Arlo Parks |
+| Fri, 12 Feb 2027 | Muskila + Simona Abdallah | Muskila |
 
 ## Address
 
 Enghavevej 40, 1674 København V, Danmark, Copenhagen
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/vega/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/vega/)*

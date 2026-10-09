@@ -1,6 +1,6 @@
 # Alex Neri
 
-Alex Neri is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Tenax, Florence on Sat, 10 Oct 2026.
+Alex Neri is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Tenax, Florence on Sat, 10 Oct 2026.
 
 Alex Neri is a house and techno artist based in Italy, with 74 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 19 more. Often billed alongside GNMR, Giammarco Orsini and Brasi. Next up: Tenax, Florence on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Alex Neri is a house and techno artist based in Italy, with 74 gigs on soundchec
 
 GNMR, Giammarco Orsini, Brasi
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexneri/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexneri/)*

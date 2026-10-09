@@ -1,8 +1,8 @@
 # Umwelt
 
-Umwelt is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Astron Club, Athens on Fri, 9 Oct 2026.
+Umwelt is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Astron Club, Athens on Fri, 9 Oct 2026.
 
-Umwelt is a techno and electro artist based in France, with 53 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 18 more. Often billed alongside DAX J, Chloe Lula and Terence Fixmer. Next up: Astron Club, Athens on Fri 9 Oct.
+Umwelt is a techno and electro artist based in France, with 54 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 18 more. Often billed alongside DAX J, Chloe Lula and Terence Fixmer. Next up: Astron Club, Athens on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Umwelt is a techno and electro artist based in France, with 53 gigs on soundchec
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Astron Club | Athens |
 | Fri, 30 Oct 2026 | TBA - Secret Loft Location | New York City |
+| Sat, 21 Nov 2026 | Le Sucre | Lyon |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Umwelt is a techno and electro artist based in France, with 53 gigs on soundchec
 
 DAX J, Chloe Lula (3), Terence Fixmer
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/umwelt/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/umwelt/)*

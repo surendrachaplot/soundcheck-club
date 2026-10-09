@@ -1,0 +1,18 @@
+# P.E.A.R.L., Juana / Anastasia Kristensen, John Raffaele / Bob Maynard & Cassandra Croft at public records
+
+P.E.A.R.L., Juana / Anastasia Kristensen, John Raffaele / Bob Maynard & Cassandra Croft at public records on Fri 23 Oct, New York City. 4 artists: Anastasia Kristensen, John Raffaele, Juana and P.E.A.R.L.. Techno. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 23 Oct 2026 |
+| Venue | public records |
+| City | New York City |
+
+## Line-up
+
+- Anastasia Kristensen
+- John Raffaele
+- Juana
+- P.E.A.R.L.
+
+*Source: [soundcheck](https://soundcheck.club/e/2532351-p-e-a-r-l-juana-anastasia-kristensen-john-raffaele-bob-mayna/)*

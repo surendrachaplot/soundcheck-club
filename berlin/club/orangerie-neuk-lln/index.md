@@ -1,8 +1,8 @@
 # Orangerie Neukölln
 
-Orangerie Neukölln is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Gardens of Disco NEW SEASON" on Sat, 10 Oct 2026.
+Orangerie Neukölln is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Gardens of Disco NEW SEASON" on Sat, 10 Oct 2026.
 
-Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Akirahawks, Alison Swing, Jelle from the Block and Nadia Wise and 2 more. See dates, start times and who's playing. Schierker Str. 8, 12051 Berlin, Germany.
+Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Akirahawks, Alison Swing, Jelle from the Block and Kallaloo and 2 more. See dates, start times and who's playing. Schierker Str. 8, 12051 Berlin, Germany.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 10 upcoming
 | Fri, 23 Oct 2026 | Sound Canteen with VictorDiscos |  |
 | Thu, 29 Oct 2026 | Naked Grapes with Dimensionless Unity |  |
 | Fri, 30 Oct 2026 | Sound Canteen with Bomchello b2b Terje |  |
+| Sat, 31 Oct 2026 | Hang Jack with Kallaloo, Vio PRG & CRIES | Kallaloo, Vio PRG |
 | Thu, 5 Nov 2026 | Naked Grapes with juan and only |  |
 | Thu, 19 Nov 2026 | Naked Grapes with Dracaena |  |
-| Sat, 21 Nov 2026 | ÍNTIMO with Nadia Wise, Sarah Ninon & Jelle from the Block | Jelle from the Block, Nadia Wise, Sarah Ninon |
 
 ## Address
 
 Schierker Str. 8, 12051 Berlin, Germany, Berlin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/orangerie-neuk-lln/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/orangerie-neuk-lln/)*

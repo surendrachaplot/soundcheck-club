@@ -1,6 +1,6 @@
 # Charlie Caves
 
-Charlie Caves is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - Secret Location, Berlin on Sat, 24 Oct 2026.
+Charlie Caves is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Secret Location, Berlin on Sat, 24 Oct 2026.
 
 Charlie Caves is a breakbeat and bass artist, with 8 gigs on soundcheck across Berlin. Often billed alongside Carl OG, Retter (DE) and 2001 Space Odyssey. Next up: TBA - Secret Location, Berlin on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Charlie Caves is a breakbeat and bass artist, with 8 gigs on soundcheck across B
 
 Carl OG, Retter (DE), 2001 Space Odyssey
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliecaves/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliecaves/)*

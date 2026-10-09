@@ -1,6 +1,6 @@
 # Connect
 
-Connect is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
+Connect is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
 Connect is a techno and electronica artist based in Brazil, with 27 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 4 more. Often billed alongside Romanetto, Phil Bass and Leo Cardi. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Connect is a techno and electronica artist based in Brazil, with 27 gigs on soun
 
 Romanetto, Phil Bass, Leo Cardi
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/connect/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/connect/)*

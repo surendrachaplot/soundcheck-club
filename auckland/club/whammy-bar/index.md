@@ -1,6 +1,6 @@
 # Whammy Bar
 
-Whammy Bar is a music venue in Auckland with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Discovery - Daft Punk Tribute Show" on Fri, 9 Oct 2026.
+Whammy Bar is a music venue in Auckland with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Discovery - Daft Punk Tribute Show" on Fri, 9 Oct 2026.
 
 Whammy Bar is a music venue in Auckland listed on soundcheck. 3 upcoming gigs, with line-ups including Christoph El Truento and Dylan Biscuit. See dates, start times and who's playing. 183 Karangahape Rd, Auckland, 1010, New Zealand.
 
@@ -16,4 +16,4 @@ Whammy Bar is a music venue in Auckland listed on soundcheck. 3 upcoming gigs, w
 
 183 Karangahape Rd, Auckland, 1010, New Zealand, Auckland
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/whammy-bar/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/whammy-bar/)*

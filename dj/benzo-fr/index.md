@@ -1,13 +1,14 @@
 # BenzØ
 
-BenzØ is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at La Plateforme, Marseille on Thu, 31 Dec 2026.
+BenzØ is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Absolem Marseille, Marseille on Sun, 11 Oct 2026.
 
-BenzØ is a techno and hardcore artist based in France, with 25 gigs on soundcheck across Berlin, Marseille and Paris. Often billed alongside Wolk, Double Trouble and La Penderie Noire. Next up: La Plateforme, Marseille on Thu 31 Dec.
+BenzØ is a techno and hardcore artist based in France, with 26 gigs on soundcheck across Berlin, Marseille and Paris. Often billed alongside Wolk, Double Trouble and La Penderie Noire. Next up: Absolem Marseille, Marseille on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 11 Oct 2026 | Absolem Marseille | Marseille |
 | Thu, 31 Dec 2026 | La Plateforme | Marseille |
 
 ## Recently played
@@ -25,4 +26,4 @@ BenzØ is a techno and hardcore artist based in France, with 25 gigs on soundche
 
 Wolk, Double Trouble (1), La Penderie Noire
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benzo-fr/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benzo-fr/)*

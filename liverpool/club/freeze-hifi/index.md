@@ -1,6 +1,6 @@
 # Freeze HiFi
 
-Freeze HiFi is a music venue in Liverpool with 18 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Kirollus All Night Long [SOLD OUT]" on Fri, 9 Oct 2026.
+Freeze HiFi is a music venue in Liverpool with 18 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Kirollus All Night Long [SOLD OUT]" on Fri, 9 Oct 2026.
 
 Freeze HiFi is a music venue in Liverpool listed on soundcheck. 18 upcoming gigs, with line-ups including Beechy, Graeme Park, K-Klass and Kirollus and 2 more. See dates, start times and who's playing. 82 Wood Street, Liverpool, United Kingdom, L1 4DQ.
 
@@ -23,4 +23,4 @@ Freeze HiFi is a music venue in Liverpool listed on soundcheck. 18 upcoming gigs
 
 82 Wood Street, Liverpool, United Kingdom, L1 4DQ, Liverpool
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/freeze-hifi/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/freeze-hifi/)*

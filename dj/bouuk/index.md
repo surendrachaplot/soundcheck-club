@@ -1,8 +1,8 @@
 # Bou (UK)
 
-Bou (UK) is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Bou (UK) is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
-Bou (UK) is a drum & bass and jungle artist based in United Kingdom, with 90 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 37 more. Often billed alongside Andy C, Kanine and Turno. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
+Bou (UK) is a drum & bass and jungle artist based in United Kingdom, with 91 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 38 more. Often billed alongside Andy C, Kanine and Turno. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Bou (UK) is a drum & bass and jungle artist based in United Kingdom, with 90 gig
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |
+| Sun, 27 Dec 2026 | Klokgebouw | Eindhoven |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 
 ## Recently played
@@ -29,4 +30,4 @@ Bou (UK) is a drum & bass and jungle artist based in United Kingdom, with 90 gig
 
 Andy C, Kanine, Turno
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bouuk/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bouuk/)*

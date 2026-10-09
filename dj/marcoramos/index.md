@@ -1,14 +1,13 @@
 # Marco Ramos
 
-Marco Ramos is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at John Doe, Amsterdam on Thu, 8 Oct 2026.
+Marco Ramos is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at John Doe, Amsterdam on Sat, 10 Oct 2026.
 
-Marco Ramos is a techno and house artist based in Netherlands, with 285 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Lisbon and 5 more. Often billed alongside Yunhee, Industrialyzer and Chich. Next up: John Doe, Amsterdam on Thu 8 Oct.
+Marco Ramos is a techno and house artist based in Netherlands, with 285 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Lisbon and 5 more. Often billed alongside Yunhee, Industrialyzer and Chich. Next up: John Doe, Amsterdam on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | John Doe | Amsterdam |
 | Sat, 10 Oct 2026 | John Doe | Amsterdam |
 | Thu, 15 Oct 2026 | John Doe | Amsterdam |
 | Thu, 22 Oct 2026 | John Doe | Amsterdam |
@@ -17,6 +16,7 @@ Marco Ramos is a techno and house artist based in Netherlands, with 285 gigs on 
 
 ## Recently played
 
+- John Doe, Amsterdam · Thu, 8 Oct 2026
 - NADA Lisbon, Lisbon · Sat, 3 Oct 2026
 - John Doe, Amsterdam · Thu, 1 Oct 2026
 - John Doe, Amsterdam · Thu, 24 Sept 2026
@@ -24,10 +24,9 @@ Marco Ramos is a techno and house artist based in Netherlands, with 285 gigs on 
 - John Doe, Amsterdam · Thu, 17 Sept 2026
 - John Doe, Amsterdam · Thu, 10 Sept 2026
 - John Doe, Amsterdam · Thu, 3 Sept 2026
-- John Doe, Amsterdam · Thu, 27 Aug 2026
 
 ## Shares bills with
 
 Yunhee, Industrialyzer, Chich
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoramos/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoramos/)*

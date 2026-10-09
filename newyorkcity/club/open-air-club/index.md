@@ -1,6 +1,6 @@
 # Open Air Club
 
-Open Air Club is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Greg Paulus Album Release Party: 'Close To Home'" on Fri, 9 Oct 2026.
+Open Air Club is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Greg Paulus Album Release Party: 'Close To Home'" on Fri, 9 Oct 2026.
 
 Open Air Club is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Amanda Simpson, Bill Patrick, Demi Riquisimo and Greg Paulus and 2 more. See dates, start times and who's playing. 190 Allen Street, 7th Floor.
 
@@ -15,4 +15,4 @@ Open Air Club is a music venue in New York City listed on soundcheck. 2 upcoming
 
 190 Allen Street, 7th Floor, New York City
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/open-air-club/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/open-air-club/)*

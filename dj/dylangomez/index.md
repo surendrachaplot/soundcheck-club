@@ -1,6 +1,6 @@
 # Dylán Gomez
 
-Dylán Gomez is a Reggaeton and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TV Lounge, Detroit on Fri, 9 Oct 2026.
+Dylán Gomez is a Reggaeton and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TV Lounge, Detroit on Fri, 9 Oct 2026.
 
 Dylán Gomez is a reggaeton and ghetto tech artist, with 15 gigs on soundcheck across Detroit. Often billed alongside SWDEJAY, Fullbodydurag and JMT. Next up: TV Lounge, Detroit on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Dylán Gomez is a reggaeton and ghetto tech artist, with 15 gigs on soundcheck a
 
 SWDEJAY, Fullbodydurag, JMT (2)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylangomez/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylangomez/)*

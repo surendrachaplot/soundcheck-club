@@ -1,8 +1,8 @@
 # n4tee
 
-n4tee is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Distrikt, Leeds on Fri, 16 Oct 2026.
+n4tee is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Distrikt, Leeds on Fri, 16 Oct 2026.
 
-n4tee is a garage and house artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 15 more. Often billed alongside Auramatic, Skeptic and DAISY. Next up: Distrikt, Leeds on Fri 16 Oct.
+n4tee is a garage and house artist based in United Kingdom, with 43 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 16 more. Often billed alongside Auramatic, Skeptic and DAISY. Next up: Distrikt, Leeds on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ n4tee is a garage and house artist based in United Kingdom, with 42 gigs on soun
 | Fri, 16 Oct 2026 | Distrikt | Leeds |
 | Thu, 22 Oct 2026 | Next Door Records | London |
 | Fri, 30 Oct 2026 | The Brickworks | Nottingham |
+| Thu, 19 Nov 2026 | The Bongo Club | Edinburgh |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ n4tee is a garage and house artist based in United Kingdom, with 42 gigs on soun
 
 Auramatic, Skeptic, DAISY
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n4tee/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n4tee/)*

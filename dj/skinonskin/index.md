@@ -1,6 +1,6 @@
 # Skin On Skin
 
-Skin On Skin is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
+Skin On Skin is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
 
 Skin On Skin is a techno and house artist based in South Sudan, with 146 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 55 more. Often billed alongside Mall Grab, KETTAMA and DJ Gigola. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
 
@@ -12,7 +12,7 @@ Skin On Skin is a techno and house artist based in South Sudan, with 146 gigs on
 | Fri, 16 Oct 2026 | The Telegraph Building | Belfast |
 | Sat, 17 Oct 2026 | NX Newcastle | Newcastle |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
-| Sat, 24 Oct 2026 | Levenslang Amsterdam | Amsterdam |
+| Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Ciało | Wroclaw |
 | Sat, 31 Oct 2026 | Brussels Gate | Brussels |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
@@ -36,4 +36,4 @@ Skin On Skin is a techno and house artist based in South Sudan, with 146 gigs on
 
 Mall Grab, KETTAMA, DJ Gigola
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*

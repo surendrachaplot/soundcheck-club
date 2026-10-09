@@ -1,6 +1,6 @@
 # SUMO
 
-SUMO is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Hoppetosse, Berlin on Sat, 24 Oct 2026.
+SUMO is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Hoppetosse, Berlin on Sat, 24 Oct 2026.
 
 SUMO is a house and minimal artist based in Georgia, with 110 gigs on soundcheck across Berlin, Hamburg, Lisbon and Stuttgart and 1 more. Often billed alongside BEQA, Gio Shengelia and AudioSpace. Next up: Hoppetosse, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ SUMO is a house and minimal artist based in Georgia, with 110 gigs on soundcheck
 
 BEQA, Gio Shengelia, AudioSpace
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sumo/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sumo/)*

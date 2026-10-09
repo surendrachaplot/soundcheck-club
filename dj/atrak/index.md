@@ -1,6 +1,6 @@
 # A-Trak
 
-A-Trak is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA, Vancouver on Sat, 10 Oct 2026.
+A-Trak is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA, Vancouver on Sat, 10 Oct 2026.
 
 A-Trak is a house and hip-hop artist based in Canada, with 90 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside The Magician, Claptone and James Juke. Next up: TBA, Vancouver on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ A-Trak is a house and hip-hop artist based in Canada, with 90 gigs on soundcheck
 
 The Magician, Claptone, James Juke
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atrak/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atrak/)*

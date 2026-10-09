@@ -1,14 +1,15 @@
 # Kr!z
 
-Kr!z is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Sonotone 2.0, South-west on Sat, 10 Oct 2026.
+Kr!z is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Sonotone 2.0, South-west on Sat, 10 Oct 2026.
 
-Kr!z is a techno and acid artist based in Belgium, with 106 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 30 more. Often billed alongside Phara, Border One and Marie-Julie. Next up: Sonotone 2.0, South West on Sat 10 Oct.
+Kr!z is a techno and acid artist based in Belgium, with 107 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 30 more. Often billed alongside Phara, Border One and Marie-Julie. Next up: Sonotone 2.0, South West on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Sonotone 2.0 | South-west |
+| Sat, 31 Oct 2026 | Ministerium Club | Lisbon |
 | Sat, 26 Dec 2026 | SMUT Athens | Athens |
 
 ## Recently played
@@ -26,4 +27,4 @@ Kr!z is a techno and acid artist based in Belgium, with 106 gigs on soundcheck a
 
 Phara, Border One, Marie-Julie
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kr-z/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kr-z/)*

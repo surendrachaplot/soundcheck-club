@@ -1,6 +1,6 @@
 # Lux.
 
-Lux. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Renate, Berlin on Fri, 9 Oct 2026.
+Lux. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Renate, Berlin on Fri, 9 Oct 2026.
 
 Lux. is a techno and house artist based in Germany, with 18 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Leipzig and 3 more. Often billed alongside Boyá, Sevensol and Victor (DE). Next up: Renate, Berlin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Lux. is a techno and house artist based in Germany, with 18 gigs on soundcheck a
 
 Boyá, Sevensol, Victor (DE)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lux-de/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lux-de/)*

@@ -1,8 +1,8 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 22 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "LA BEAT SOUL CLUB" on Fri, 9 Oct 2026.
+People's Leisure Club is a music venue in Edinburgh with 24 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "LA BEAT SOUL CLUB" on Fri, 9 Oct 2026.
 
-People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 22 upcoming gigs, with line-ups including Alec Falconer, Astro, Big Miz and Body Clinic and 2 more. See dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
+People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 24 upcoming gigs, with line-ups including Alec Falconer, Astro, Becca Egan and Big Miz and 2 more. See dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
 ## What's on
 
@@ -23,4 +23,4 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 22 upc
 
 45 Lothian Street, Edinburgh, EH1 1HB, Edinburgh
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*

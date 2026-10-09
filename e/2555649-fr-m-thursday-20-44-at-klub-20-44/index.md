@@ -1,10 +1,10 @@
 # FRØM THURSDAY - 20/44 at Klub 20/44
 
-FRØM THURSDAY - 20/44 at Klub 20/44 on Sat 10 Oct, Belgrade. 1 artist: Boogie Groove. House. See the line-up on soundcheck.
+FRØM THURSDAY - 20/44 at Klub 20/44 on Thu 8 Oct, Belgrade. 1 artist: Boogie Groove. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 10 Oct 2026 |
+| Date | Thu, 8 Oct 2026 |
 | Venue | Klub 20/44 |
 | City | Belgrade |
 

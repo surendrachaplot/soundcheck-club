@@ -1,6 +1,6 @@
 # Ansea
 
-Ansea is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Radost Music Club, Bratislava on Sat, 17 Oct 2026.
+Ansea is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Radost Music Club, Bratislava on Sat, 17 Oct 2026.
 
 Ansea is a techno and tech house artist based in Czech Republic, with 34 gigs on soundcheck across Bratislava, Krakow and Prague. Often billed alongside Lars Beckett, KikiDontCry and Patricio Strix. Next up: Radost Music Club, Bratislava on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Ansea is a techno and tech house artist based in Czech Republic, with 34 gigs on
 
 Lars Beckett, KikiDontCry, Patricio Strix
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ansea/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ansea/)*

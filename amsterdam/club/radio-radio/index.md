@@ -1,14 +1,13 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "A Listening Journey: The History and Sound of Palestine with Hiba Salameh" on Thu, 8 Oct 2026.
+Radio Radio is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Matisa • Kléo" on Fri, 9 Oct 2026.
 
-Radio Radio is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including Aldonna, Bambii, Bennet (DE) and Benny Rodrigues and 2 more. See dates, start times and who's playing. Pazzanistraat 3.
+Radio Radio is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including Aldonna, Bambii, Bennet (DE) and Benny Rodrigues and 2 more. See dates, start times and who's playing. Pazzanistraat 3.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | A Listening Journey: The History and Sound of Palestine with Hiba Salameh |  |
 | Fri, 9 Oct 2026 | Matisa • Kléo | Kléo, Matisa |
 | Sat, 10 Oct 2026 | Sansibar • LORI | Lori (1), Sansibar |
 | Fri, 16 Oct 2026 | Aldonna • Liquid Earth | Aldonna, Liquid Earth |
@@ -18,9 +17,10 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs
 | Fri, 23 Oct 2026 | ADE: Baskets x Salomon with Benny Rodrigues • Laura Meester • Merel Helderman | Benny Rodrigues, Laura Meester, Merel Helderman |
 | Sat, 24 Oct 2026 | ADE: TraTraTrax with  b2b Pariah • Gabrielle Kwarteng • Jesse G | Gabrielle Kwarteng, Jesse G, Pariah |
 | Sat, 24 Oct 2026 | ADE:  Identified Patient b2b mad miran — All Day Long | Identified Patient, mad miran |
+| Sun, 25 Oct 2026 | amore x radio radio / ADE night closing (12h) | Bennet (DE), Berkan V8, Doran, Gaudi (2), Jasmín, Karina Schneider, Victor (DE) |
 
 ## Address
 
 Pazzanistraat 3, Amsterdam
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*

@@ -1,6 +1,6 @@
 # 外 Soto
 
-外 Soto is a music venue in Kyoto with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "豊田奈千甫 Ernesto del Puerto + Timour Leng Milky Lylei DJ: Riki Leonard" on Fri, 9 Oct 2026.
+外 Soto is a music venue in Kyoto with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "豊田奈千甫 Ernesto del Puerto + Timour Leng Milky Lylei DJ: Riki Leonard" on Fri, 9 Oct 2026.
 
 外 Soto is a music venue in Kyoto listed on soundcheck. 2 upcoming gigs, with line-ups including Kukangendai and Riki Leonard. See dates, start times and who's playing. 18 Shishigatani Honeninnishimachi, Sakyo-ku, Kyoto-shi, Kyoto, 606-8427 Japan.
 
@@ -15,4 +15,4 @@
 
 18 Shishigatani Honeninnishimachi, Sakyo-ku, Kyoto-shi, Kyoto, 606-8427 Japan, Kyoto
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/soto/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/soto/)*

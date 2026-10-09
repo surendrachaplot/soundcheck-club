@@ -1,6 +1,6 @@
 # Killa P
 
-Killa P is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Killa P is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
 Killa P is a drum & bass and jungle artist based in United Kingdom, with 82 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 17 more. Often billed alongside Deekline, Sir Spyro and Footsie. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Killa P is a drum & bass and jungle artist based in United Kingdom, with 82 gigs
 
 Deekline, Sir Spyro, Footsie
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/killap/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/killap/)*

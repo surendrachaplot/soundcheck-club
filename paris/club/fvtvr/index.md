@@ -1,8 +1,8 @@
-# Fvtvr
+# FVTVR
 
-Fvtvr is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "CHEVRY AGENCY: 8TH ANNIVERSARY [XXL FORMAT · 4 STAGES]" on Fri, 9 Oct 2026.
+FVTVR is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "CHEVRY AGENCY: 8TH ANNIVERSARY [XXL FORMAT · 4 STAGES]" on Fri, 9 Oct 2026.
 
-Fvtvr is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Aline Brooklyn, ABI (FR), Adrien Calvet and Akaj and 2 more. See dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
+FVTVR is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Aline Brooklyn, ABI (FR), Adrien Calvet and Akaj and 2 more. See dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
 
 ## What's on
 
@@ -19,4 +19,4 @@ Fvtvr is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line
 
 34 quai d'Austerlitz, 75013 Paris, Paris
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*

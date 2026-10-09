@@ -1,6 +1,6 @@
 # Syz
 
-Syz is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at NDR2 Red Room, London on Fri, 9 Oct 2026.
+Syz is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at NDR2 Red Room, London on Fri, 9 Oct 2026.
 
 Syz is a techno and bass artist based in United Kingdom, with 47 gigs on soundcheck across Berlin, Bristol, Copenhagen and Edinburgh and 6 more. Often billed alongside Allecto, Dj wiggles and Dyslecta. Next up: NDR2 Red Room, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Syz is a techno and bass artist based in United Kingdom, with 47 gigs on soundch
 
 Allecto, Dj wiggles, Dyslecta
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syz-1/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syz-1/)*

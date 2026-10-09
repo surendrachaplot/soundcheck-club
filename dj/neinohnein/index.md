@@ -1,6 +1,6 @@
 # Nein oh Nein
 
-Nein oh Nein is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Jonny Knüppel, Berlin on Fri, 9 Oct 2026.
+Nein oh Nein is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Jonny Knüppel, Berlin on Fri, 9 Oct 2026.
 
 Nein oh Nein is a trance and techno artist, with 24 gigs on soundcheck across Berlin. Often billed alongside Ecke & Hugo, Lenny Fuck and Multifun. Next up: Jonny Knüppel, Berlin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Nein oh Nein is a trance and techno artist, with 24 gigs on soundcheck across Be
 
 Ecke & Hugo, Lenny Fuck, Multifun
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neinohnein/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neinohnein/)*

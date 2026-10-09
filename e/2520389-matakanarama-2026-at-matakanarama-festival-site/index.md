@@ -1,6 +1,6 @@
 # Matakanarama 2026 at Matakanarama Festival Site
 
-Matakanarama 2026 at Matakanarama Festival Site on Tue 29 Dec, Auckland. 20 artists: AROHA, Bari, Bella Claxton and Christopher Tubbs and 16 more. Techno and Tech House. See the line-up on soundcheck.
+Matakanarama 2026 at Matakanarama Festival Site on Tue 29 Dec, Auckland. 22 artists: ANABE, AROHA, Aunty El and Bari and 18 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ Matakanarama 2026 at Matakanarama Festival Site on Tue 29 Dec, Auckland. 20 arti
 
 ## Line-up
 
+- ANABE
 - AROHA
+- Aunty El
 - Bari
 - Bella Claxton
 - Christopher Tubbs

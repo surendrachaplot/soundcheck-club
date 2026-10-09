@@ -1,6 +1,6 @@
 # Ivory
 
-Ivory is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Mason Bar, Cyprus on Fri, 9 Oct 2026.
+Ivory is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Mason Bar, Cyprus on Fri, 9 Oct 2026.
 
 Ivory is a techno and house artist based in Italy, with 133 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 33 more. Often billed alongside Nandu, Aera and Auggië. Next up: Mason Bar, Cyprus on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Ivory is a techno and house artist based in Italy, with 133 gigs on soundcheck a
 
 Nandu, Aera, Auggië
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivory/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivory/)*

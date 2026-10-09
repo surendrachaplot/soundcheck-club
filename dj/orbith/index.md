@@ -1,6 +1,6 @@
 # Orbith
 
-Orbith is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Malá Amerika, Brno on Sat, 10 Oct 2026.
+Orbith is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Malá Amerika, Brno on Sat, 10 Oct 2026.
 
 Orbith is a techno and tech house artist based in Czech Republic, with 22 gigs on soundcheck across Brno and Prague. Often billed alongside Domek, Dominik Gehringer and Subgate. Next up: Malá Amerika, Brno on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Orbith is a techno and tech house artist based in Czech Republic, with 22 gigs o
 
 Domek, Dominik Gehringer, Subgate
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orbith/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orbith/)*

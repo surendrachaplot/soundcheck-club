@@ -1,6 +1,6 @@
 # Starlight Project ⋆˚✿˖° at Yamamori Tengu
 
-Starlight Project ⋆˚✿˖° at Yamamori Tengu on Thu 15 Oct, Dublin. 3 artists: Emma Kearns, Surferboy and Talinho. Techno and Tech House. See the line-up on soundcheck.
+Starlight Project ⋆˚✿˖° at Yamamori Tengu on Thu 15 Oct, Dublin. 4 artists: Emma Kearns, RARO, Surferboy and Talinho. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Starlight Project ⋆˚✿˖° at Yamamori Tengu on Thu 15 Oct, Dublin. 3 artist
 ## Line-up
 
 - Emma Kearns
+- RARO (2)
 - Surferboy
 - Talinho
 

@@ -1,6 +1,6 @@
 # ronch
 
-ronch is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Rooftop 105, Geneva on Sat, 10 Oct 2026.
+ronch is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Rooftop 105, Geneva on Sat, 10 Oct 2026.
 
 ronch is a techno and house artist based in Spain, with 8 gigs on soundcheck across Geneva and Manchester. Often billed alongside Alex Moore, KURLZ and MARCUS THE MARAUDER. Next up: Rooftop 105, Geneva on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ ronch is a techno and house artist based in Spain, with 8 gigs on soundcheck acr
 
 Alex Moore, KURLZ, MARCUS THE MARAUDER
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronch/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronch/)*

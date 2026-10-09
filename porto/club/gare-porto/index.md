@@ -1,6 +1,6 @@
 # Gare Porto
 
-Gare Porto is a music venue in Porto with 8 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "KØLPØS, Centrific, Castrø" on Fri, 9 Oct 2026.
+Gare Porto is a music venue in Porto with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "KØLPØS, Centrific" on Fri, 9 Oct 2026.
 
 Gare Porto is a music venue in Porto listed on soundcheck. 8 upcoming gigs, with line-ups including AlFaer, Amulador, Ana JORHS. and Blazej Malinowski and 2 more. See dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
 
@@ -8,7 +8,7 @@ Gare Porto is a music venue in Porto listed on soundcheck. 8 upcoming gigs, with
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | KØLPØS, Centrific, Castrø | Castrø, Centrific, KØLPØS |
+| Fri, 9 Oct 2026 | KØLPØS, Centrific | Centrific, KØLPØS |
 | Sat, 10 Oct 2026 | Monument with Blazej Malinowski, Franko, Amulador | Amulador, Blazej Malinowski, Franko |
 | Fri, 16 Oct 2026 | Hayes with NEO, CRAVO | CRAVO |
 | Sat, 17 Oct 2026 | Sandrien, Hidden Ease | Sandrien |
@@ -21,4 +21,4 @@ Gare Porto is a music venue in Porto listed on soundcheck. 8 upcoming gigs, with
 
 Rua da Madeira 182, 4000 Porto, Portugal, Porto
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*

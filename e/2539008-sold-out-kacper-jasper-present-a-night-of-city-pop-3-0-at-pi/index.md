@@ -1,0 +1,15 @@
+# [SOLD OUT] Kacper & Jasper present: A Night Of City Pop 3.0 at Piccadilly Central
+
+[SOLD OUT] Kacper & Jasper present: A Night Of City Pop 3.0 at Piccadilly Central on Sat 17 Oct, Manchester. 1 artist: Kacper Pieta. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 17 Oct 2026 |
+| Venue | Piccadilly Central |
+| City | Manchester |
+
+## Line-up
+
+- Kacper Pieta
+
+*Source: [soundcheck](https://soundcheck.club/e/2539008-sold-out-kacper-jasper-present-a-night-of-city-pop-3-0-at-pi/)*

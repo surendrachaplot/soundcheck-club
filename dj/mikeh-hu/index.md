@@ -1,6 +1,6 @@
 # Mike.H
 
-Mike.H is a Electronica and Krautrock artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Tendance, Prague on Fri, 9 Oct 2026.
+Mike.H is a Electronica and Krautrock artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Tendance, Prague on Fri, 9 Oct 2026.
 
 Mike.H is an electronica and krautrock artist based in Czech Republic, with 49 gigs on soundcheck across Berlin and Prague. Often billed alongside Eva Porating, AMB and Kredenc. Next up: Tendance, Prague on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Mike.H is an electronica and krautrock artist based in Czech Republic, with 49 g
 
 Eva Porating, AMB (6), Kredenc
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeh-hu/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeh-hu/)*

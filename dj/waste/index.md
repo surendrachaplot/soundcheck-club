@@ -1,6 +1,6 @@
 # Waste
 
-Waste is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at B side Athens, Athens on Sat, 10 Oct 2026.
+Waste is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at B side Athens, Athens on Sat, 10 Oct 2026.
 
 Waste is a techno and electro artist, with 28 gigs on soundcheck across Athens, Oslo and Sao Paulo. Often billed alongside Ayshel, Avatos and BMSK. Next up: B side Athens, Athens on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Waste is a techno and electro artist, with 28 gigs on soundcheck across Athens, 
 
 Ayshel, Avatos, BMSK
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waste/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waste/)*

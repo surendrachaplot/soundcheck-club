@@ -1,6 +1,6 @@
 # Amiran
 
-Amiran is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Tana Kiosk, Naples on Sat, 10 Oct 2026.
+Amiran is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Tana Kiosk, Naples on Sat, 10 Oct 2026.
 
 Amiran is a techno and electronica artist based in Italy, with 9 gigs on soundcheck across Naples. Often billed alongside Nilo, Jesooria and Kobold. Next up: Tana Kiosk, Naples on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Amiran is a techno and electronica artist based in Italy, with 9 gigs on soundch
 
 Nilo, Jesooria, Kobold
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amiran/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amiran/)*

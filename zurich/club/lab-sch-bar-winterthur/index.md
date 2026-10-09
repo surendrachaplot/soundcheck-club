@@ -1,6 +1,6 @@
 # Labüsch-Bar, Winterthur
 
-Labüsch-Bar, Winterthur is a music venue in Zurich with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Shibari Show" on Fri, 9 Oct 2026.
+Labüsch-Bar, Winterthur is a music venue in Zurich with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Shibari Show" on Fri, 9 Oct 2026.
 
 Labüsch-Bar, Winterthur is a music venue in Zurich listed on soundcheck. 4 upcoming gigs, with line-ups including Polo (DE) and Karaoke. See dates, start times and who's playing. Zur Kesselschmiede 27, 8400 Winterthur, Switzerland.
 
@@ -17,4 +17,4 @@ Labüsch-Bar, Winterthur is a music venue in Zurich listed on soundcheck. 4 upco
 
 Zur Kesselschmiede 27, 8400 Winterthur, Switzerland, Zurich
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/lab-sch-bar-winterthur/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/lab-sch-bar-winterthur/)*

@@ -1,6 +1,6 @@
 # Desterro
 
-Desterro is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "[R\F] Noite Fresca #75" on Fri, 9 Oct 2026.
+Desterro is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "[R\F] Noite Fresca #75" on Fri, 9 Oct 2026.
 
 Desterro is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, with line-ups including ARCHON, João Melgueira and Vadym [UA]. See dates, start times and who's playing. Calçada do Desterro nº7 1150-241 Lisbon, Portugal.
 
@@ -15,4 +15,4 @@ Desterro is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, with 
 
 Calçada do Desterro nº7 1150-241 Lisbon, Portugal, Lisbon
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/desterro/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/desterro/)*

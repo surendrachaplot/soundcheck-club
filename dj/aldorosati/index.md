@@ -1,6 +1,6 @@
 # Aldo Rosati
 
-Aldo Rosati is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Audioteca, Naples on Fri, 30 Oct 2026.
+Aldo Rosati is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Audioteca, Naples on Fri, 30 Oct 2026.
 
 Aldo Rosati is a disco and funk / soul artist based in Italy, with 30 gigs on soundcheck across Naples. Often billed alongside Davide D'Amico, Gigi Testa and Kenny Dope. Next up: Audioteca, Naples on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Aldo Rosati is a disco and funk / soul artist based in Italy, with 30 gigs on so
 
 Davide D'Amico, Gigi Testa, Kenny Dope
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aldorosati/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aldorosati/)*

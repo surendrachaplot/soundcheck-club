@@ -1,6 +1,6 @@
 # Gondra
 
-Gondra is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Otherworld, Austin on Fri, 9 Oct 2026.
+Gondra is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Otherworld, Austin on Fri, 9 Oct 2026.
 
 Gondra is a techno and hardcore artist based in United States of America, with 9 gigs on soundcheck across Austin. Often billed alongside R3NEGADE, AMANDA KOONTZ and Full Hendy. Next up: Otherworld, Austin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Gondra is a techno and hardcore artist based in United States of America, with 9
 
 R3NEGADE, AMANDA KOONTZ, Full Hendy
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gondra/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gondra/)*

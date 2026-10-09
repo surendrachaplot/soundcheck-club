@@ -1,6 +1,6 @@
 # Ila Brugal
 
-Ila Brugal is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 20 Nov 2026.
+Ila Brugal is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 20 Nov 2026.
 
 Ila Brugal is a bass and dubstep artist based in Italy, with 45 gigs on soundcheck across Basel, Berlin, Brighton and Bristol and 11 more. Often billed alongside Mantra, SGT Pokes and Yasmine (UK). Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Ila Brugal is a bass and dubstep artist based in Italy, with 45 gigs on soundche
 
 Mantra, SGT Pokes, Yasmine (UK)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilabrugal/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilabrugal/)*

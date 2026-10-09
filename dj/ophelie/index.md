@@ -1,6 +1,6 @@
 # ophélie
 
-ophélie is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Sneaky Pete's, Edinburgh on Fri, 9 Oct 2026.
+ophélie is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Sneaky Pete's, Edinburgh on Fri, 9 Oct 2026.
 
 ophélie is a techno and bass artist based in France, with 94 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 16 more. Often billed alongside Marylou, Azu Tiwaline and CCL. Next up: Sneaky Pete's, Edinburgh on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ ophélie is a techno and bass artist based in France, with 94 gigs on soundcheck
 
 Marylou, Azu Tiwaline, CCL
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ophelie/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ophelie/)*

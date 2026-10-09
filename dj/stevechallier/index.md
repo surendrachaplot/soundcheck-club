@@ -1,6 +1,6 @@
 # Steve Challier
 
-Steve Challier is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Signal, New York City on Sun, 11 Oct 2026.
+Steve Challier is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Signal, New York City on Sun, 11 Oct 2026.
 
 Steve Challier is a techno and house artist based in Germany, with 39 gigs on soundcheck across Berlin, Hamburg, New York City and Zurich. Often billed alongside Britta Arnold, Mira and Peter Schumann. Next up: Signal, New York City on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Steve Challier is a techno and house artist based in Germany, with 39 gigs on so
 
 Britta Arnold, Mira, Peter Schumann
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevechallier/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevechallier/)*

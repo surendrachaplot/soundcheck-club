@@ -1,14 +1,15 @@
 # Até.
 
-Até. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Universe Athens, Athens on Sat, 17 Oct 2026.
+Até. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Universe Athens, Athens on Sat, 17 Oct 2026.
 
-Até. is a techno and house artist, with 58 gigs on soundcheck across Athens, Berlin and Buenos Aires. Often billed alongside SALIN, Cirkle and VSSLS. Next up: Universe Athens, Athens on Sat 17 Oct.
+Até. is a techno and house artist, with 59 gigs on soundcheck across Athens, Berlin, Buenos Aires and Cyprus. Often billed alongside SALIN, Cirkle and VSSLS. Next up: Universe Athens, Athens on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Universe Athens | Athens |
+| Fri, 4 Dec 2026 | Castle Club | Cyprus |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Até. is a techno and house artist, with 58 gigs on soundcheck across Athens, Be
 
 SALIN, Cirkle, VSSLS
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ate/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ate/)*

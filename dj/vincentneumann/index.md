@@ -1,14 +1,15 @@
 # Vincent Neumann
 
-Vincent Neumann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA, Hamburg on Sat, 31 Oct 2026.
+Vincent Neumann is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA, Hamburg on Sat, 31 Oct 2026.
 
-Vincent Neumann is a techno and house artist based in Germany, with 61 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 9 more. Often billed alongside Amotik, Efdemin and Peter Invasion. Next up: TBA, Hamburg on Sat 31 Oct.
+Vincent Neumann is a techno and house artist based in Germany, with 62 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 9 more. Often billed alongside Amotik, Virginia and Efdemin. Next up: TBA, Hamburg on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TBA | Hamburg |
+| Sat, 7 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Vincent Neumann is a techno and house artist based in Germany, with 61 gigs on s
 
 ## Shares bills with
 
-Amotik, Efdemin, Peter Invasion
+Amotik, Virginia, Efdemin
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentneumann/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentneumann/)*

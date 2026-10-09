@@ -1,8 +1,8 @@
 # The Art School
 
-The Art School is a music venue in Glasgow with 14 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. The next is "Original Sin \\\ Pray To Good" on Fri, 9 Oct 2026.
+The Art School is a music venue in Glasgow with 15 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Original Sin \\\ Pray To Good" on Fri, 9 Oct 2026.
 
-The Art School is a music venue in Glasgow listed on soundcheck. 14 upcoming gigs, with line-ups including ACHIRĀ, ALWAYS 8:15, Bristol Luke and Céleste and 2 more. See dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
+The Art School is a music venue in Glasgow listed on soundcheck. 15 upcoming gigs, with line-ups including ACHIRĀ, ALWAYS 8:15, Bristol Luke and Céleste and 2 more. See dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
 
 ## What's on
 
@@ -14,13 +14,13 @@ The Art School is a music venue in Glasgow listed on soundcheck. 14 upcoming gig
 | Fri, 16 Oct 2026 | iNTRA: Jason Cluff, Nyctonian. (After Holy priest) | Jason Cluff, Nyctonian |
 | Sat, 17 Oct 2026 | FLY - DART, Milion & Céleste | Céleste, DART, Milion |
 | Wed, 21 Oct 2026 | PILOT / Upper90 | ALWAYS 8:15, Loose E, Upper90 |
+| Thu, 22 Oct 2026 | BPM: RETURNS |  |
 | Sat, 24 Oct 2026 | SQIFF 2026 Closing Night Party: Paparazzi |  |
 | Fri, 30 Oct 2026 | PRTY Halloween: KARAH + TITI, Glasgow | KARAH, TiTi |
 | Sat, 31 Oct 2026 | Polka Dot Disco Club x Relentless LOCAL: Halloween ᜊ(°-°)ᜊ | Frankie Elyse, Olympe4000 |
-| Sat, 7 Nov 2026 | Glasstattoo  | ACHIRĀ |
 
 ## Address
 
 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom, Glasgow
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*

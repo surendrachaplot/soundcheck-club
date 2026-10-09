@@ -1,6 +1,6 @@
 # Drivr
 
-Drivr is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Studio56, Paris on Sat, 10 Oct 2026.
+Drivr is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Studio56, Paris on Sat, 10 Oct 2026.
 
 Drivr is a trance and techno artist based in France, with 16 gigs on soundcheck across Paris. Often billed alongside Hemei, K0uci and Kinokosan. Next up: Studio56, Paris on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Drivr is a trance and techno artist based in France, with 16 gigs on soundcheck 
 
 Hemei, K0uci, Kinokosan
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drivr/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drivr/)*

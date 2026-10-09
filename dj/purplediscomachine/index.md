@@ -1,14 +1,15 @@
 # Purple Disco Machine
 
-Purple Disco Machine is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Purple Disco Machine is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-Purple Disco Machine is a house and disco artist based in Germany, with 104 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 30 more. Often billed alongside david bay, Dombresky and LP Giobbi. Next up: Factory Town, Miami on Fri 30 Oct.
+Purple Disco Machine is a house and disco artist based in Germany, with 105 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 30 more. Often billed alongside david bay, Dombresky and LP Giobbi. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Sat, 31 Oct 2026 | Pacha New York | New York City |
 | Fri, 13 Nov 2026 | DRUMSHEDS | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Purple Disco Machine is a house and disco artist based in Germany, with 104 gigs
 
 david bay, Dombresky, LP Giobbi
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purplediscomachine/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purplediscomachine/)*

@@ -1,8 +1,8 @@
 # Mad Dog
 
-Mad Dog is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at TBA - The Nortehrn , Byron-bay on Sat, 10 Oct 2026.
+Mad Dog is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - The Nortehrn , Byron-bay on Sat, 10 Oct 2026.
 
-Mad Dog is a techno and hardcore artist based in Italy, with 62 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Angerfist, Korsakoff and CLTX. Next up: TBA - The Nortehrn , Byron Bay on Sat 10 Oct.
+Mad Dog is a techno and hardcore artist based in Italy, with 63 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Angerfist, Korsakoff and CLTX. Next up: TBA - The Nortehrn , Byron Bay on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Mad Dog is a techno and hardcore artist based in Italy, with 62 gigs on soundche
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Wed, 21 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Thu, 22 Oct 2026 | Hemkade 48 | Amsterdam |
+| Sat, 31 Oct 2026 | Complejo Embrujo | South |
 | Fri, 4 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 
 ## Recently played
@@ -29,4 +30,4 @@ Mad Dog is a techno and hardcore artist based in Italy, with 62 gigs on soundche
 
 Angerfist, Korsakoff, CLTX
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maddog-nl/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maddog-nl/)*

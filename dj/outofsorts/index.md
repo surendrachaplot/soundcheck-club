@@ -1,6 +1,6 @@
 # Out Of Sorts
 
-Out Of Sorts is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Silent Studios, Auckland on Fri, 16 Oct 2026.
+Out Of Sorts is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Silent Studios, Auckland on Fri, 16 Oct 2026.
 
 Out Of Sorts is a techno and house artist based in New Zealand, with 15 gigs on soundcheck across Auckland and Los Angeles. Often billed alongside Rob Warner, Greg Churchill and Matt Drake. Next up: Silent Studios, Auckland on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Out Of Sorts is a techno and house artist based in New Zealand, with 15 gigs on 
 
 Rob Warner, Greg Churchill, Matt Drake
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/outofsorts/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/outofsorts/)*

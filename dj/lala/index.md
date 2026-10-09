@@ -1,6 +1,6 @@
 # La La
 
-La La is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Lofi, Amsterdam on Fri, 9 Oct 2026.
+La La is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Lofi, Amsterdam on Fri, 9 Oct 2026.
 
 La La is a house and techno artist based in United Kingdom, with 149 gigs on soundcheck across Aberdeen, Amsterdam, Bali and Barcelona and 38 more. Often billed alongside AIRKEY, Interplanetary Criminal and Ben Hemsley. Next up: Lofi, Amsterdam on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ La La is a house and techno artist based in United Kingdom, with 149 gigs on sou
 
 AIRKEY, Interplanetary Criminal, Ben Hemsley
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lala/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lala/)*

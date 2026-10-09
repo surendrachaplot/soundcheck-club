@@ -1,6 +1,6 @@
 # LEEKUNHEE
 
-LEEKUNHEE is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Paper, Seoul on Sun, 11 Oct 2026.
+LEEKUNHEE is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Paper, Seoul on Sun, 11 Oct 2026.
 
 LEEKUNHEE is a house and minimal artist based in South Korea, with 56 gigs on soundcheck across Seoul. Often billed alongside Gumi, Acidwork and Afrodite. Next up: Paper, Seoul on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ LEEKUNHEE is a house and minimal artist based in South Korea, with 56 gigs on so
 
 Gumi, Acidwork, Afrodite (2)
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leekunhee/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leekunhee/)*

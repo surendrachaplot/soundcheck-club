@@ -1,6 +1,6 @@
 # Kacha
 
-Kacha is a Bass and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at OCZKI, Warsaw on Sat, 12 Dec 2026.
+Kacha is a Bass and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at OCZKI, Warsaw on Sat, 12 Dec 2026.
 
 Kacha is a bass and reggaeton artist based in Poland, with 9 gigs on soundcheck across Krakow and Warsaw. Often billed alongside NEVAEH, yerbby and Bianca Scout. Next up: OCZKI, Warsaw on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Kacha is a bass and reggaeton artist based in Poland, with 9 gigs on soundcheck 
 
 NEVAEH, yerbby, Bianca Scout
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kacha/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kacha/)*

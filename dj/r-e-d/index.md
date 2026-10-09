@@ -1,6 +1,6 @@
 # R.E.D
 
-R.E.D is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at The Love Inn, Bristol on Fri, 9 Oct 2026.
+R.E.D is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Love Inn, Bristol on Fri, 9 Oct 2026.
 
 R.E.D is a techno and house artist based in United Kingdom, with 49 gigs on soundcheck across Bristol, Cardiff, Glasgow and London and 1 more. Often billed alongside Eksish, Kincaid and Klahrk. Next up: The Love Inn, Bristol on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ R.E.D is a techno and house artist based in United Kingdom, with 49 gigs on soun
 
 Eksish, Kincaid, Klahrk
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r-e-d/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r-e-d/)*

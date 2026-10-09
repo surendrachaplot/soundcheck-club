@@ -1,6 +1,6 @@
 # Chess.irl X Stop1 at Honey's
 
-Chess.irl X Stop1 at Honey's on Wed 21 Oct, New York City. 5 artists: Amelia Holt, Iggy Nuclear, Kettle and Rila and 1 more. House and Ambient. See the line-up on soundcheck.
+Chess.irl X Stop1 at Honey's on Wed 21 Oct, New York City. 6 artists: Amelia Holt, Conduit, Iggy Nuclear and Kettle and 2 more. House and Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Chess.irl X Stop1 at Honey's on Wed 21 Oct, New York City. 5 artists: Amelia Hol
 ## Line-up
 
 - Amelia Holt
+- Conduit
 - Iggy Nuclear
 - Kettle
 - Rila

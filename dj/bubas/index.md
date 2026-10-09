@@ -1,6 +1,6 @@
 # Bubas
 
-Bubas is a Baile Funk and Kuduro artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Ministerium Club, Lisbon on Sat, 7 Nov 2026.
+Bubas is a Baile Funk and Kuduro artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Ministerium Club, Lisbon on Sat, 7 Nov 2026.
 
 Bubas is a baile funk and kuduro artist, with 8 gigs on soundcheck across Lisbon. Often billed alongside DJ Maboku, DJ Nervoso and DJ Nigga Fox. Next up: Ministerium Club, Lisbon on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ Bubas is a baile funk and kuduro artist, with 8 gigs on soundcheck across Lisbon
 
 DJ Maboku, DJ Nervoso, DJ Nigga Fox
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bubas/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bubas/)*

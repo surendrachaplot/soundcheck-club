@@ -1,6 +1,6 @@
 # Desirée Falessi
 
-Desirée Falessi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at Cabaret Sauvage, Paris on Sat, 14 Nov 2026.
+Desirée Falessi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Cabaret Sauvage, Paris on Sat, 14 Nov 2026.
 
 Desirée Falessi is a techno and house artist based in Argentina, with 67 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Monile, Magda and Enrica Falqui. Next up: Cabaret Sauvage, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Desirée Falessi is a techno and house artist based in Argentina, with 67 gigs o
 
 Monile, Magda, Enrica Falqui
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desireefalessi/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desireefalessi/)*

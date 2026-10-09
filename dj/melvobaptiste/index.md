@@ -1,6 +1,6 @@
 # Melvo Baptiste
 
-Melvo Baptiste is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Amnesia Ibiza, Ibiza on Fri, 9 Oct 2026.
+Melvo Baptiste is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Amnesia Ibiza, Ibiza on Fri, 9 Oct 2026.
 
 Melvo Baptiste is a house and disco artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 22 more. Often billed alongside Natasha Diggs, The Shapeshifters and Horse Meat Disco. Next up: Amnesia Ibiza, Ibiza on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Melvo Baptiste is a house and disco artist based in United Kingdom, with 124 gig
 
 Natasha Diggs, The Shapeshifters, Horse Meat Disco
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melvobaptiste/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melvobaptiste/)*

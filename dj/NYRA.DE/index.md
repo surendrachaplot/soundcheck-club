@@ -1,8 +1,8 @@
 # NYRA (DE)
 
-NYRA (DE) is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Kilomètre25, Paris on Fri, 9 Oct 2026.
+NYRA (DE) is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Kilomètre25, Paris on Fri, 9 Oct 2026.
 
-NYRA (DE) is a techno and trance artist based in Germany, with 46 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside davyboi, Cara Elizabeth and Bruno Brero. Next up: Kilomètre25, Paris on Fri 9 Oct.
+NYRA (DE) is a techno and trance artist based in Germany, with 47 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside davyboi, Cara Elizabeth and Bruno Brero. Next up: Kilomètre25, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ NYRA (DE) is a techno and trance artist based in Germany, with 46 gigs on soundc
 | Thu, 22 Oct 2026 | Palazzo Permanens | Budapest |
 | Sat, 31 Oct 2026 | Wagenhallen | Stuttgart |
 | Sat, 14 Nov 2026 | Turbinenhalle | Oberhausen |
+| Fri, 4 Dec 2026 | Castle Club | Cyprus |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 
 ## Recently played
@@ -31,4 +32,4 @@ NYRA (DE) is a techno and trance artist based in Germany, with 46 gigs on soundc
 
 davyboi, Cara Elizabeth, Bruno Brero
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/NYRA.DE/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/NYRA.DE/)*

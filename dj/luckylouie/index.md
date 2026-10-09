@@ -1,6 +1,6 @@
 # Lucky Louie
 
-Lucky Louie is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 8 Oct 2026. Next at West Port Oracle, Edinburgh on Fri, 9 Oct 2026.
+Lucky Louie is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at West Port Oracle, Edinburgh on Fri, 9 Oct 2026.
 
 Lucky Louie is a house and disco artist based in United Kingdom, with 25 gigs on soundcheck across Edinburgh. Often billed alongside Jacuzzi General. Next up: West Port Oracle, Edinburgh on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Lucky Louie is a house and disco artist based in United Kingdom, with 25 gigs on
 
 Jacuzzi General
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luckylouie/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luckylouie/)*

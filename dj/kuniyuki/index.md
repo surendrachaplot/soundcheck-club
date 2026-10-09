@@ -1,6 +1,6 @@
 # Kuniyuki
 
-Kuniyuki is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Toki No Hiroba Plaza, Osaka on Mon, 12 Oct 2026.
+Kuniyuki is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Toki No Hiroba Plaza, Osaka on Mon, 12 Oct 2026.
 
 Kuniyuki is a house and techno artist based in Japan, with 71 gigs on soundcheck across Amsterdam, Bali, Denver and Hong Kong and 17 more. Often billed alongside Toshiya Kawasaki, KZA and Christian AB. Next up: Toki No Hiroba Plaza, Osaka on Mon 12 Oct.
 
@@ -27,4 +27,4 @@ Kuniyuki is a house and techno artist based in Japan, with 71 gigs on soundcheck
 
 Toshiya Kawasaki, KZA, Christian AB
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuniyuki/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuniyuki/)*

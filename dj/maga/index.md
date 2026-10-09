@@ -1,8 +1,8 @@
 # MAGA
 
-MAGA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Madarae San Francisco, San Francisco/Oakland on Sat, 10 Oct 2026.
+MAGA is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Madarae San Francisco, San Francisco/Oakland on Sat, 10 Oct 2026.
 
-MAGA is a house and techno artist based in France, with 86 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 28 more. Often billed alongside Sean Doron, Emanuel Satie and Tim Engelhardt. Next up: Madarae San Francisco, San Francisco/Oakland on Sat 10 Oct.
+MAGA is a house and techno artist based in France, with 87 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 29 more. Often billed alongside Sean Doron, Emanuel Satie and Tim Engelhardt. Next up: Madarae San Francisco, San Francisco/Oakland on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ MAGA is a house and techno artist based in France, with 86 gigs on soundcheck ac
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Madarae San Francisco | San Francisco/Oakland |
 | Sat, 24 Oct 2026 | WestWeelde | Amsterdam |
+| Sat, 31 Oct 2026 | TBA - Lurin live | Peru |
 | Sat, 28 Nov 2026 | Gallagher Square | San Diego |
 
 ## Recently played
@@ -27,4 +28,4 @@ MAGA is a house and techno artist based in France, with 86 gigs on soundcheck ac
 
 Sean Doron, Emanuel Satie, Tim Engelhardt
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maga/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maga/)*

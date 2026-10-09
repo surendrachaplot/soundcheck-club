@@ -1,6 +1,6 @@
 # Vera
 
-Vera is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 8 Oct 2026. Next at Buda BXL, Brussels on Sat, 10 Oct 2026.
+Vera is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Buda BXL, Brussels on Sat, 10 Oct 2026.
 
 Vera is a techno and house artist based in Germany, with 149 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 36 more. Often billed alongside Edward, Eli Verveine and Gwenan. Next up: Buda BXL, Brussels on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Vera is a techno and house artist based in Germany, with 149 gigs on soundcheck 
 
 Edward, Eli Verveine, Gwenan
 
-*Updated Thu, 8 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vera/)*
+*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vera/)*
