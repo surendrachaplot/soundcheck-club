@@ -1,6 +1,6 @@
 # KVALI
 
-KVALI is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Mtkvarze, Tbilisi on Sat, 10 Oct 2026.
+KVALI is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Mtkvarze, Tbilisi on Sat, 10 Oct 2026.
 
 KVALI is an electronic artist based in Georgia, with 9 gigs on soundcheck across Tbilisi. Often billed alongside Gio Shengelia, SUMO and 3AM (GE). Next up: Mtkvarze, Tbilisi on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ KVALI is an electronic artist based in Georgia, with 9 gigs on soundcheck across
 
 Gio Shengelia, SUMO, 3AM (GE)
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kvali/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kvali/)*

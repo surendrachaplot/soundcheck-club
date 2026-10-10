@@ -1,6 +1,6 @@
 # Konstantin
 
-Konstantin is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Foro Frontera, Mexico City on Fri, 9 Oct 2026.
+Konstantin is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Foro Frontera, Mexico City on Fri, 9 Oct 2026.
 
 Konstantin is a house and techno artist based in Germany, with 173 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 36 more. Often billed alongside Leafar Legov, Map.ache and Edward. Next up: Foro Frontera, Mexico City on Fri 9 Oct.
 
@@ -17,6 +17,7 @@ Konstantin is a house and techno artist based in Germany, with 173 gigs on sound
 
 ## Recently played
 
+- Foro Frontera, Mexico City · Fri, 9 Oct 2026
 - TBA, Sofia · Sat, 3 Oct 2026
 - Loco Park, Tbilisi · Fri, 2 Oct 2026
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
@@ -24,10 +25,9 @@ Konstantin is a house and techno artist based in Germany, with 173 gigs on sound
 - Phonox, London · Sat, 22 Aug 2026
 - DC-10, Ibiza · Mon, 20 Jul 2026
 - Refuge, New York City · Sat, 18 Jul 2026
-- OHM, Berlin · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Leafar Legov, Map.ache, Edward
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantin/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantin/)*

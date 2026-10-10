@@ -1,6 +1,6 @@
 # Mrac
 
-Mrac is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA, Moscow on Fri, 9 Oct 2026.
+Mrac is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA, Moscow on Fri, 9 Oct 2026.
 
 Mrac is an electronic artist based in Russia, with 2 gigs on soundcheck across Moscow and Saint Petersburg. Often billed alongside ALEX PANKOV, ALOD and Chain Damage. Next up: TBA, Moscow on Fri 9 Oct.
 
@@ -11,8 +11,12 @@ Mrac is an electronic artist based in Russia, with 2 gigs on soundcheck across M
 | Fri, 9 Oct 2026 | TBA | Moscow |
 | Sat, 7 Nov 2026 | K-30 | Saint-petersburg |
 
+## Recently played
+
+- TBA, Moscow · Fri, 9 Oct 2026
+
 ## Shares bills with
 
 ALEX PANKOV, ALOD, Chain Damage
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrac/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrac/)*

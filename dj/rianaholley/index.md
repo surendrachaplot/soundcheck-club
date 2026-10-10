@@ -1,14 +1,13 @@
 # Riana Holley
 
-Riana Holley is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Fuse, Brussels on Fri, 9 Oct 2026.
+Riana Holley is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Halle Tony Garnier, Lyon on Sat, 24 Oct 2026.
 
-Riana Holley is a techno and trance artist based in Belgium, with 73 gigs on soundcheck across Amsterdam, Antwerp, Belgium and Berlin and 15 more. Often billed alongside Hurts, 2HOT2PLAY and 3LEEZA. Next up: Fuse, Brussels on Fri 9 Oct.
+Riana Holley is a techno and trance artist based in Belgium, with 73 gigs on soundcheck across Amsterdam, Antwerp, Belgium and Berlin and 15 more. Often billed alongside Hurts, 2HOT2PLAY and 3LEEZA. Next up: Halle Tony Garnier, Lyon on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Fuse | Brussels |
 | Sat, 24 Oct 2026 | Halle Tony Garnier | Lyon |
 | Sat, 7 Nov 2026 | Bootshaus | Cologne |
 | Sat, 14 Nov 2026 | Evenementenhal Depart | Belgium |
@@ -16,6 +15,7 @@ Riana Holley is a techno and trance artist based in Belgium, with 73 gigs on sou
 
 ## Recently played
 
+- Fuse, Brussels · Fri, 9 Oct 2026
 - Sala Cocó, Madrid · Sat, 12 Sept 2026
 - TBA - Brussels, Brussels · Fri, 11 Sept 2026
 - DNA Club, Munich · Fri, 28 Aug 2026
@@ -23,10 +23,9 @@ Riana Holley is a techno and trance artist based in Belgium, with 73 gigs on sou
 - Kilomètre25, Paris · Sat, 18 Jul 2026
 - SAGE, Berlin · Sun, 28 Jun 2026
 - Fvtvr, Paris · Sat, 13 Jun 2026
-- TBA - Place Jean Rey, 1000 Brussels, Brussels · Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Hurts, 2HOT2PLAY, 3LEEZA
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rianaholley/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rianaholley/)*

@@ -1,6 +1,6 @@
 # Unai Trotti
 
-Unai Trotti is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Final, Taipei on Sat, 17 Oct 2026.
+Unai Trotti is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Final, Taipei on Sat, 17 Oct 2026.
 
 Unai Trotti is a techno and house artist based in United Kingdom, with 170 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 50 more. Often billed alongside Z@p, Vass and Junki Inoue. Next up: Final, Taipei on Sat 17 Oct.
 
@@ -31,4 +31,4 @@ Unai Trotti is a techno and house artist based in United Kingdom, with 170 gigs 
 
 Z@p, Vass, Junki Inoue
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unaitrotti/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unaitrotti/)*

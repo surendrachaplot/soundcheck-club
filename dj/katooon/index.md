@@ -1,6 +1,6 @@
 # Katooon
 
-Katooon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Bar Bottomsup, Osaka on Sat, 10 Oct 2026.
+Katooon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Bar Bottomsup, Osaka on Sat, 10 Oct 2026.
 
 Katooon is a techno and house artist, with 39 gigs on soundcheck across Osaka. Often billed alongside SIROH, SHIGe and Kayakkus. Next up: Bar Bottomsup, Osaka on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Katooon is a techno and house artist, with 39 gigs on soundcheck across Osaka. O
 
 SIROH, SHIGe, Kayakkus
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katooon/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katooon/)*

@@ -1,6 +1,6 @@
 # Jolliffe
 
-Jolliffe is a Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Club Lucia, Vienna on Sat, 10 Oct 2026.
+Jolliffe is a Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Club Lucia, Vienna on Sat, 10 Oct 2026.
 
 Jolliffe is a drum & bass artist based in United Kingdom, with 9 gigs on soundcheck across Bristol, London and Vienna. Often billed alongside Camo & Krooked, DREAD MC and LSB. Next up: Club Lucia, Vienna on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Jolliffe is a drum & bass artist based in United Kingdom, with 9 gigs on soundch
 
 Camo & Krooked, DREAD MC, LSB
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jolliffe/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jolliffe/)*

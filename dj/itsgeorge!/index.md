@@ -1,6 +1,6 @@
 # It's George!
 
-It's George! is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at PRST, Vienna on Fri, 16 Oct 2026.
+It's George! is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at PRST, Vienna on Fri, 16 Oct 2026.
 
 It's George! is a house and tech house artist based in Austria, with 36 gigs on soundcheck across Berlin, Frankfurt and Vienna. Often billed alongside Techno Ganoven, RED GROOVE SYSTEM and Bambi-S. Next up: PRST, Vienna on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ It's George! is a house and tech house artist based in Austria, with 36 gigs on 
 
 Techno Ganoven, RED GROOVE SYSTEM, Bambi-S
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/itsgeorge!/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/itsgeorge!/)*

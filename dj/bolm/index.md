@@ -1,6 +1,6 @@
 # Bolm
 
-Bolm is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Public Seoul, Seoul on Sat, 10 Oct 2026.
+Bolm is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Public Seoul, Seoul on Sat, 10 Oct 2026.
 
 Bolm is a house and techno artist based in South Korea, with 112 gigs on soundcheck across Seoul and Taipei. Often billed alongside Uni, Ligrye and TYSN. Next up: Public Seoul, Seoul on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Bolm is a house and techno artist based in South Korea, with 112 gigs on soundch
 
 Uni (3), Ligrye, TYSN
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bolm/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bolm/)*

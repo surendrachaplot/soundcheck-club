@@ -1,13 +1,14 @@
 # OBLX
 
-OBLX is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Liquid Club, Malta on Fri, 6 Nov 2026.
+OBLX is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Liquid Club, Malta on Sat, 24 Oct 2026.
 
-OBLX is a techno and progressive house artist based in Malta, with 52 gigs on soundcheck across Berlin and Malta. Often billed alongside Joshua Calleja, Philip Ackowsky and iNK MT. Next up: Liquid Club, Malta on Fri 6 Nov.
+OBLX is a techno and progressive house artist based in Malta, with 53 gigs on soundcheck across Berlin and Malta. Often billed alongside Joshua Calleja, Philip Ackowsky and iNK MT. Next up: Liquid Club, Malta on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Liquid Club | Malta |
 | Fri, 6 Nov 2026 | Liquid Club | Malta |
 
 ## Recently played
@@ -25,4 +26,4 @@ OBLX is a techno and progressive house artist based in Malta, with 52 gigs on so
 
 Joshua Calleja, Philip Ackowsky, iNK MT
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oblx/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oblx/)*

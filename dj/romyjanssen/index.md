@@ -1,6 +1,6 @@
 # Romy Janssen
 
-Romy Janssen is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sun, 25 Oct 2026.
+Romy Janssen is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sun, 25 Oct 2026.
 
 Romy Janssen is a house and techno artist based in Netherlands, with 38 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brussels and 7 more. Often billed alongside Rancido, Philou Louzolo and Romy. Next up: 50:Hertz Club Train, Amsterdam on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Romy Janssen is a house and techno artist based in Netherlands, with 38 gigs on 
 
 Rancido, Philou Louzolo, Romy
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romyjanssen/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romyjanssen/)*

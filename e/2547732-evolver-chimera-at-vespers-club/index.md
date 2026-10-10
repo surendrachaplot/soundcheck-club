@@ -1,6 +1,6 @@
 # EVOLVER / CHIMERA at Vespers Club
 
-EVOLVER / CHIMERA at Vespers Club on Fri 23 Oct, London. 6 artists: Aircode, Capricorn, Josephine Moriko and Lokey and 2 more. Experimental and Club. See the line-up on soundcheck.
+EVOLVER / CHIMERA at Vespers Club on Fri 23 Oct, London. 7 artists: Aircode, Capricorn, Josephine Moriko and Lokey and 3 more. Experimental and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ EVOLVER / CHIMERA at Vespers Club on Fri 23 Oct, London. 6 artists: Aircode, Cap
 - Capricorn
 - Josephine Moriko
 - Lokey
+- Loopline
 - sean pain
 - Ssaliva
 

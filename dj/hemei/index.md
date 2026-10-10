@@ -1,6 +1,6 @@
 # Hemei
 
-Hemei is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Le Klub, Paris on Sat, 10 Oct 2026.
+Hemei is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Le Klub, Paris on Sat, 10 Oct 2026.
 
 Hemei is a techno and acid artist based in France, with 24 gigs on soundcheck across Nantes and Paris. Often billed alongside K0uci, Kinokosan and Otezuka. Next up: Le Klub, Paris on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Hemei is a techno and acid artist based in France, with 24 gigs on soundcheck ac
 
 K0uci, Kinokosan, Otezuka
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hemei/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hemei/)*

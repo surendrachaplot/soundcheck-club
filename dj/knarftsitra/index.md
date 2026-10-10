@@ -1,8 +1,8 @@
 # KNARFTSITRA
 
-KNARFTSITRA is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Pistil, Seoul on Sat, 24 Oct 2026.
+KNARFTSITRA is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Pistil, Seoul on Sat, 24 Oct 2026.
 
-KNARFTSITRA is a house and disco artist, with 33 gigs on soundcheck across Seoul. Often billed alongside Cityboy from Seoul, Youngisland and Joshüa. Next up: Pistil, Seoul on Sat 24 Oct.
+KNARFTSITRA is a house and disco artist based in South Korea, with 33 gigs on soundcheck across Seoul. Often billed alongside Cityboy from Seoul, Youngisland and Joshüa. Next up: Pistil, Seoul on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ KNARFTSITRA is a house and disco artist, with 33 gigs on soundcheck across Seoul
 
 Cityboy from Seoul, Youngisland, Joshüa
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knarftsitra/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knarftsitra/)*

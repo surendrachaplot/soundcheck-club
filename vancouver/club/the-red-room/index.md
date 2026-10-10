@@ -1,6 +1,6 @@
 # The Red Room
 
-The Red Room is a music venue in Vancouver with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Canabliss - After Glow Tour at SUBculture Saturdays" on Sat, 10 Oct 2026.
+The Red Room is a music venue in Vancouver with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Canabliss - After Glow Tour at SUBculture Saturdays" on Sat, 10 Oct 2026.
 
 The Red Room is a music venue in Vancouver listed on soundcheck. 3 upcoming gigs, with line-ups including Alix Perez and Cartridge. See dates, start times and who's playing. 398 Richards St; Vancouver, BC V6B 4Y2; Canada.
 
@@ -16,4 +16,4 @@ The Red Room is a music venue in Vancouver listed on soundcheck. 3 upcoming gigs
 
 398 Richards St; Vancouver, BC V6B 4Y2; Canada, Vancouver
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-red-room/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-red-room/)*

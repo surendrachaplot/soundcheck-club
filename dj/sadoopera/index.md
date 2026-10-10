@@ -1,17 +1,18 @@
 # Sado Opera
 
-Sado Opera is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Bohnengold, Berlin on Fri, 9 Oct 2026.
+Sado Opera is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Tausend, Berlin on Sat, 31 Oct 2026.
 
-Sado Opera is a house and techno artist based in Germany, with 21 gigs on soundcheck across Berlin, Bucharest, Geneva and Lyon. Often billed alongside Cyranotaurus Cortex, Don Rogall and Freudenthal. Next up: Bohnengold, Berlin on Fri 9 Oct.
+Sado Opera is a house and techno artist based in Germany, with 22 gigs on soundcheck across Berlin, Bucharest, Geneva and Lyon. Often billed alongside Cyranotaurus Cortex, Don Rogall and Freudenthal. Next up: Tausend, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Bohnengold | Berlin |
+| Sat, 31 Oct 2026 | Tausend | Berlin |
 
 ## Recently played
 
+- Bohnengold, Berlin · Fri, 9 Oct 2026
 - Tausend, Berlin · Wed, 15 Apr 2026
 - Renate, Berlin · Thu, 25 Sept 2025
 - Renate, Berlin · Thu, 29 May 2025
@@ -19,10 +20,9 @@ Sado Opera is a house and techno artist based in Germany, with 21 gigs on soundc
 - La Gravière, Geneva · Sat, 5 Oct 2024
 - Renate, Berlin · Fri, 13 Sept 2024
 - Else, Berlin · Fri, 21 Jun 2024
-- Renate, Berlin · Wed, 1 May 2024
 
 ## Shares bills with
 
 Cyranotaurus Cortex, Don Rogall, Freudenthal
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sadoopera/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sadoopera/)*

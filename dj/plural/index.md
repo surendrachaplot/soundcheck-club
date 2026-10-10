@@ -1,6 +1,6 @@
 # Plural
 
-Plural is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Periodicals, Detroit on Thu, 15 Oct 2026.
+Plural is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Periodicals, Detroit on Thu, 15 Oct 2026.
 
 Plural is a techno and house artist, with 18 gigs on soundcheck across Chicago, Detroit and New York City. Often billed alongside Brent Shay, DJ I.V. and AIDEL. Next up: Periodicals, Detroit on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Plural is a techno and house artist, with 18 gigs on soundcheck across Chicago, 
 
 Brent Shay, DJ I.V., AIDEL
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plural/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plural/)*

@@ -1,6 +1,6 @@
 # Flabbergast
 
-Flabbergast is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Haus der Visionäre, Berlin on Sat, 10 Oct 2026.
+Flabbergast is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Haus der Visionäre, Berlin on Sat, 10 Oct 2026.
 
 Flabbergast is a techno and house artist based in Canada, with 32 gigs on soundcheck across Barcelona, Basel, Berlin and Detroit and 9 more. Often billed alongside Vincent Lemieux, Guillaume & The Coutu Dumonts and Freeka Tet. Next up: Haus der Visionäre, Berlin on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Flabbergast is a techno and house artist based in Canada, with 32 gigs on soundc
 
 Vincent Lemieux, Guillaume & The Coutu Dumonts, Freeka Tet
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flabbergast/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flabbergast/)*

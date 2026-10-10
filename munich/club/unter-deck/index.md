@@ -1,14 +1,13 @@
 # Unter Deck
 
-Unter Deck is a music venue in Munich with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Off Supply with Zo Pea & floor length skirts" on Fri, 9 Oct 2026.
+Unter Deck is a music venue in Munich with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "3 Jahre Electroamore Residency im Unter Deck" on Wed, 21 Oct 2026.
 
-Unter Deck is a music venue in Munich listed on soundcheck. 5 upcoming gigs, with line-ups including Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND, Fej:tal and floor length skirts and 2 more. See dates, start times and who's playing. Oberanger 26, 80331 München.
+Unter Deck is a music venue in Munich listed on soundcheck. 4 upcoming gigs, with line-ups including Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND, Fej:tal and RONNY and 1 more. See dates, start times and who's playing. Oberanger 26, 80331 München.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Off Supply with Zo Pea & floor length skirts | Off Supply, Zoe Pea, floor length skirts |
 | Wed, 21 Oct 2026 | 3 Jahre Electroamore Residency im Unter Deck | DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung, RONNY, Safahs |
 | Sat, 14 Nov 2026 | Der 8. Tag by Electroamore | DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung, Fej:tal, RONNY |
 | Tue, 24 Nov 2026 | Tuesday in Love: Safahs all night long | Safahs |
@@ -18,4 +17,4 @@ Unter Deck is a music venue in Munich listed on soundcheck. 5 upcoming gigs, wit
 
 Oberanger 26, 80331 München, Munich
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*

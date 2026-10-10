@@ -1,13 +1,14 @@
 # DINO (3)
 
-DINO (3) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Bambi's, Toronto on Sat, 7 Nov 2026.
+DINO (3) is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA, Toronto on Fri, 30 Oct 2026.
 
-DINO is a techno and acid artist based in Bosnia and Herzegovina, with 35 gigs on soundcheck across London, Montreal and Toronto. Often billed alongside Duhan, Chafic and VALIS. Next up: Bambi's, Toronto on Sat 7 Nov.
+DINO is a techno and acid artist based in Bosnia and Herzegovina, with 36 gigs on soundcheck across London, Montreal and Toronto. Often billed alongside Duhan, Chafic and 2HZY. Next up: TBA, Toronto on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | TBA | Toronto |
 | Sat, 7 Nov 2026 | Bambi's | Toronto |
 
 ## Recently played
@@ -23,6 +24,6 @@ DINO is a techno and acid artist based in Bosnia and Herzegovina, with 35 gigs o
 
 ## Shares bills with
 
-Duhan, Chafic, VALIS
+Duhan, Chafic, 2HZY
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dino-3/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dino-3/)*

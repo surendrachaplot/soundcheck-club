@@ -1,14 +1,14 @@
 # Prieste5s
 
-Prieste5s is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Secret Location, Berlin on Sat, 24 Oct 2026.
+Prieste5s is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA, Berlin on Sat, 24 Oct 2026.
 
-Prieste5s is a bass and techno artist based in United States of America, with 33 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Tetsumasa, 2001 Space Odyssey and Aksamit. Next up: TBA - Secret Location, Berlin on Sat 24 Oct.
+Prieste5s is a techno and bass artist based in United States of America, with 33 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Tetsumasa, 2001 Space Odyssey and Aksamit. Next up: TBA, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | TBA - Secret Location | Berlin |
+| Sat, 24 Oct 2026 | TBA | Berlin |
 | Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 
 ## Recently played
@@ -26,4 +26,4 @@ Prieste5s is a bass and techno artist based in United States of America, with 33
 
 Tetsumasa, 2001 Space Odyssey, Aksamit
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prieste5s/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prieste5s/)*

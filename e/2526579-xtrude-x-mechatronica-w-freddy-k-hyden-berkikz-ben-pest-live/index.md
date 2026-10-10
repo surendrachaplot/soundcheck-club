@@ -17,7 +17,7 @@ XTRUDE x Mechatronica w/ Freddy K, Hyden, ÜBERKIKZ, Ben Pest (live), FUMI, Lobs
 - Lobster (NL)
 - Marco Bruno
 - Milan Hermess
-- Tau Ceti
+- Tauceti (FR)
 - ÜBERKIKZ
 
 *Source: [soundcheck](https://soundcheck.club/e/2526579-xtrude-x-mechatronica-w-freddy-k-hyden-berkikz-ben-pest-live/)*

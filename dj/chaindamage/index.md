@@ -1,6 +1,6 @@
 # Chain Damage
 
-Chain Damage is a Industrial and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA, Moscow on Fri, 9 Oct 2026.
+Chain Damage is a Industrial and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA, Moscow on Fri, 9 Oct 2026.
 
 Chain Damage is an industrial and techno artist, with 6 gigs on soundcheck across Budapest, Madrid, Moscow and Saint Petersburg and 1 more. Often billed alongside Kyk, ALEX PANKOV and JULIA. Next up: TBA, Moscow on Fri 9 Oct.
 
@@ -13,6 +13,7 @@ Chain Damage is an industrial and techno artist, with 6 gigs on soundcheck acros
 
 ## Recently played
 
+- TBA, Moscow · Fri, 9 Oct 2026
 - Barraca, Valencia · Sat, 12 Jul 2025
 - SHANGÓ CLUB, Madrid · Fri, 11 Jul 2025
 - TBA - OFF Kultur - 1045 Budapest Berni utca 1., Budapest · Tue, 31 Dec 2024
@@ -22,4 +23,4 @@ Chain Damage is an industrial and techno artist, with 6 gigs on soundcheck acros
 
 Kyk, ALEX PANKOV, JULIA
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chaindamage/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chaindamage/)*

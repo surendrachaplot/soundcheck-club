@@ -1,6 +1,6 @@
 # Peverelist
 
-Peverelist is a Techno and Bass artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Sala El Tren, South on Sat, 10 Oct 2026.
+Peverelist is a Techno and Bass artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Sala El Tren, South on Sat, 10 Oct 2026.
 
 Peverelist is a techno and bass artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 13 more. Often billed alongside Hodge, Livity Sound and re:ni. Next up: Sala El Tren, South on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Peverelist is a techno and bass artist based in United Kingdom, with 60 gigs on 
 
 Hodge, Livity Sound, re:ni
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peverelist/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peverelist/)*

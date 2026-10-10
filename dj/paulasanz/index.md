@@ -1,6 +1,6 @@
 # Paula Sanz
 
-Paula Sanz is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Toldi Klub, Budapest on Sat, 10 Oct 2026.
+Paula Sanz is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Toldi Klub, Budapest on Sat, 10 Oct 2026.
 
 Paula Sanz is a techno and acid artist based in Spain, with 59 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 3 more. Often billed alongside SOLE DOSI, Dolce Potente and Marthial. Next up: Toldi Klub, Budapest on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Paula Sanz is a techno and acid artist based in Spain, with 59 gigs on soundchec
 
 SOLE DOSI, Dolce Potente, Marthial
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulasanz/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulasanz/)*

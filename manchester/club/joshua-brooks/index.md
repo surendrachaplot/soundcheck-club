@@ -1,14 +1,13 @@
 # Joshua Brooks
 
-Joshua Brooks is a music venue in Manchester with 21 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Mike Morrisey + Louis Millne + MOJO (4F) - Joshua Brooks Manchester" on Fri, 9 Oct 2026.
+Joshua Brooks is a music venue in Manchester with 20 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Cristoph - Joshua Brooks Manchester" on Sat, 10 Oct 2026.
 
-Joshua Brooks is a music venue in Manchester listed on soundcheck. 21 upcoming gigs, with line-ups including AYDN, Badger (UK), Benny L and CEEKAY and 2 more. See dates, start times and who's playing. 106 Princess Street; Manchester; M1 6NG, United Kingdom.
+Joshua Brooks is a music venue in Manchester listed on soundcheck. 20 upcoming gigs, with line-ups including AYDN, Badger (UK), Benny L and CEEKAY and 2 more. See dates, start times and who's playing. 106 Princess Street; Manchester; M1 6NG, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Mike Morrisey + Louis Millne + MOJO (4F) - Joshua Brooks Manchester | Louis Millne, Mike Morrisey |
 | Sat, 10 Oct 2026 | Cristoph - Joshua Brooks Manchester | Cristoph |
 | Sat, 10 Oct 2026 | Day Time Disco: The Shapeshifters + Jade Edwards | Jade Edwards, The Shapeshifters |
 | Fri, 16 Oct 2026 | Badger In The Wild - Joshua Brooks Manchester | Badger (UK), LARISHKA (UK), SHADEV |
@@ -18,9 +17,10 @@ Joshua Brooks is a music venue in Manchester listed on soundcheck. 21 upcoming g
 | Sat, 24 Oct 2026 | Dusky: Signals Tour - Manchester | Dusky |
 | Sun, 25 Oct 2026 | Supernature on Sunday 11th birthday with Chris Massey// Ryan Hughes | Chris Massey, James Greenwood, Supernature Disco |
 | Sat, 31 Oct 2026 | Halloween: Prunk + Watchers - Joshua Brooks Manchester | Prunk, Watchers |
+| Fri, 6 Nov 2026 | Nastia + Support  | AYDN, CEEKAY, Ezrela, Nastia |
 
 ## Address
 
 106 Princess Street; Manchester; M1 6NG, United Kingdom, Manchester
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*

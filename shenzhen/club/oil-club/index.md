@@ -1,14 +1,13 @@
 # OIL Club
 
-OIL Club is a music venue in Shenzhen with 16 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Night at the Angel's Temple-夜殿天使" on Fri, 9 Oct 2026.
+OIL Club is a music venue in Shenzhen with 15 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Knot pres. Massive Gain 【Onleash + Fakethias】" on Sat, 10 Oct 2026.
 
-OIL Club is a music venue in Shenzhen listed on soundcheck. 16 upcoming gigs, with line-ups including ADEAD, Alion, Beibeilon and DJ 86 and 2 more. See dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
+OIL Club is a music venue in Shenzhen listed on soundcheck. 15 upcoming gigs, with line-ups including Alion, Beibeilon, DJ 86 and Evian Christ and 2 more. See dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Night at the Angel's Temple-夜殿天使 | ADEAD, File Explorer, nabii, zzm (2) |
 | Sat, 10 Oct 2026 | Knot pres. Massive Gain 【Onleash + Fakethias】 | Fakethias, Manson, Onleash |
 | Sat, 10 Oct 2026 | [ROOMTOO] 打码 Black out |  |
 | Sun, 11 Oct 2026 | SYNTONY Vol.4 |  |
@@ -18,9 +17,10 @@ OIL Club is a music venue in Shenzhen listed on soundcheck. 16 upcoming gigs, wi
 | Sun, 18 Oct 2026 | Deep Roit vol.2 |  |
 | Thu, 22 Oct 2026 | SiM Pres.舞池杀器 Bass与Techno双修的波兰宝藏制作人Holoe | meta (CN) |
 | Fri, 23 Oct 2026 | OIL Pres. Schwefelgelb | Schwefelgelb |
+| Sat, 24 Oct 2026 | 殺氣疼疼: MAX DURANTE | Alion, Fatalis, Jascer, MAX DURANTE |
 
 ## Address
 
 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen, Shenzhen
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*

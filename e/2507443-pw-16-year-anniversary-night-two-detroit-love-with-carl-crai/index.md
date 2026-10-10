@@ -1,6 +1,6 @@
-# PW 16-Year Anniversary Night Two: Detroit Love with Carl Craig, Moodymann, Octave One (Live) at Public Works
+# PW 16-Year Anniversary Night Two: Detroit Love with Carl Craig, Octave One (Live) at Public Works
 
-PW 16-Year Anniversary Night Two: Detroit Love with Carl Craig, Moodymann, Octave One (Live) at Public Works on Fri 16 Oct, San Francisco/Oakland. 6 artists: Benjamin K, Black Panda, Carl Craig and Little Lord and 2 more. Techno. See the line-up on soundcheck.
+PW 16-Year Anniversary Night Two: Detroit Love with Carl Craig, Octave One (Live) at Public Works on Fri 16 Oct, San Francisco/Oakland. 6 artists: Benjamin K, Black Panda, Carl Craig and Little Lord and 2 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,13 @@
 # The American
 
-The American is a music venue in Vancouver with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Friday With Flipout" on Fri, 9 Oct 2026.
+The American is a music venue in Vancouver with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "R3D at The American" on Sat, 10 Oct 2026.
 
-The American is a music venue in Vancouver listed on soundcheck. 8 upcoming gigs. See dates, start times and who's playing. 926 Main St, Vancouver, BC V6A 2W1.
+The American is a music venue in Vancouver listed on soundcheck. 7 upcoming gigs. See dates, start times and who's playing. 926 Main St, Vancouver, BC V6A 2W1.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Friday With Flipout |  |
 | Sat, 10 Oct 2026 | R3D at The American |  |
 | Wed, 14 Oct 2026 | Derya Yildirim & Grup Şimşek & Thee Marloes with Special Guests |  |
 | Fri, 16 Oct 2026 | Earthball & Peregrine Falls |  |
@@ -21,4 +20,4 @@ The American is a music venue in Vancouver listed on soundcheck. 8 upcoming gigs
 
 926 Main St, Vancouver, BC V6A 2W1, Vancouver
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-american/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-american/)*

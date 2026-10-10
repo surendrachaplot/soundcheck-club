@@ -1,6 +1,6 @@
 # SURUU
 
-SURUU is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at La Nau, Barcelona on Sun, 25 Oct 2026.
+SURUU is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at La Nau, Barcelona on Sun, 25 Oct 2026.
 
 SURUU is a house and electronica artist based in Spain, with 28 gigs on soundcheck across Barcelona and Paris. Often billed alongside Beniso, Better Late and Hanakito. Next up: La Nau, Barcelona on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ SURUU is a house and electronica artist based in Spain, with 28 gigs on soundche
 
 Beniso, Better Late, Hanakito
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suruu/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suruu/)*

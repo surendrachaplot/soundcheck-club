@@ -1,14 +1,13 @@
 # Illegaal
 
-Illegaal is a music venue in Brussels with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Illegaal DANCE BATTLE ALL STYLES #10" on Fri, 9 Oct 2026.
+Illegaal is a music venue in Brussels with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "EELF Presents - Brussels: Target Demographic, Shaolin Cowboy, Kleinefrigo" on Fri, 16 Oct 2026.
 
-Illegaal is a music venue in Brussels listed on soundcheck. 7 upcoming gigs, with line-ups including Blazin' Bomzai, HypoGeo, Kleinefrigo and Kuba'97 and 2 more. See dates, start times and who's playing. Rue Bollinckx 300, 1190 Forest.
+Illegaal is a music venue in Brussels listed on soundcheck. 6 upcoming gigs, with line-ups including Blazin' Bomzai, HypoGeo, Kleinefrigo and Kuba'97 and 2 more. See dates, start times and who's playing. Rue Bollinckx 300, 1190 Forest.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Illegaal DANCE BATTLE ALL STYLES #10 |  |
 | Fri, 16 Oct 2026 | EELF Presents - Brussels: Target Demographic, Shaolin Cowboy, Kleinefrigo | Kleinefrigo, Shaolin Cowboy, Target Demographic |
 | Sat, 17 Oct 2026 | Pointzero Rec Invite HypoGeo - Subway Shamans | HypoGeo |
 | Fri, 23 Oct 2026 | Illegaal DJIPSIES #14 |  |
@@ -20,4 +19,4 @@ Illegaal is a music venue in Brussels listed on soundcheck. 7 upcoming gigs, wit
 
 Rue Bollinckx 300, 1190 Forest, Brussels
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/illegaal/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/illegaal/)*

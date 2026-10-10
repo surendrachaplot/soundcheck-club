@@ -1,6 +1,6 @@
 # Yōsuke DJ
 
-Yōsuke DJ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Bastet, Philadelphia on Sat, 17 Oct 2026.
+Yōsuke DJ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Bastet, Philadelphia on Sat, 17 Oct 2026.
 
 Yōsuke DJ is a techno and house artist based in United States of America, with 27 gigs on soundcheck across New York City and Philadelphia. Often billed alongside DJ Papaya, John Raffaele and Keen. Next up: Bastet, Philadelphia on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Yōsuke DJ is a techno and house artist based in United States of America, with 
 
 DJ Papaya, John Raffaele, Keen
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yosukedj/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yosukedj/)*

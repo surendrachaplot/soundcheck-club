@@ -1,6 +1,6 @@
 # POLS
 
-POLS is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Fri, 23 Oct 2026.
+POLS is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Fri, 23 Oct 2026.
 
 POLS is a techno and tech house artist based in Italy, with 11 gigs on soundcheck across Amsterdam, Berlin, Ibiza and London. Often billed alongside Barbur, Ornery and Bonnie Spacey. Next up: 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ POLS is a techno and tech house artist based in Italy, with 11 gigs on soundchec
 
 Barbur, Ornery, Bonnie Spacey
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pols/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pols/)*

@@ -1,6 +1,6 @@
 # Eden NYC
 
-Eden NYC is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Chris IDH by Sound of Cloud" on Sat, 10 Oct 2026.
+Eden NYC is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Chris IDH by Sound of Cloud" on Sat, 10 Oct 2026.
 
 Eden NYC is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including Chris IDH, CRYFXB, Developer and DJ Plant Texture and 2 more. See dates, start times and who's playing. 20 w 36th St.
 
@@ -17,4 +17,4 @@ Eden NYC is a music venue in New York City listed on soundcheck. 4 upcoming gigs
 
 20 w 36th St, New York City
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/eden-nyc/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/eden-nyc/)*

@@ -1,6 +1,6 @@
 # Chinonegro
 
-Chinonegro is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Lurin live, Peru on Sat, 10 Oct 2026.
+Chinonegro is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Lurin live, Peru on Sat, 10 Oct 2026.
 
 Chinonegro is a tech house and house artist based in Peru, with 29 gigs on soundcheck across Amsterdam, Austin, Barcelona and Buenos Aires and 12 more. Often billed alongside BLOND:ISH, Luuk van Dijk and Sidney Charles. Next up: TBA - Lurin live, Peru on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Chinonegro is a tech house and house artist based in Peru, with 29 gigs on sound
 
 BLOND:ISH, Luuk van Dijk, Sidney Charles
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chinonegro/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chinonegro/)*

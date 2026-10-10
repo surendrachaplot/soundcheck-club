@@ -1,6 +1,6 @@
 # lena xx
 
-lena xx is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at elipamanoke, Leipzig on Sat, 31 Oct 2026.
+lena xx is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at elipamanoke, Leipzig on Sat, 31 Oct 2026.
 
 lena xx is a techno and trance artist based in Germany, with 27 gigs on soundcheck across Berlin and Leipzig. Often billed alongside dj twerking class, :MUMM and Carotin. Next up: elipamanoke, Leipzig on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ lena xx is a techno and trance artist based in Germany, with 27 gigs on soundche
 
 dj twerking class, :MUMM, Carotin
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenaxx/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenaxx/)*

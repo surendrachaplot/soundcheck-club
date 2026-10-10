@@ -1,6 +1,6 @@
 # Lucifxr
 
-Lucifxr is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Brutal Mx, Mexico City on Sat, 24 Oct 2026.
+Lucifxr is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Brutal Mx, Mexico City on Sat, 24 Oct 2026.
 
 Lucifxr is a techno and house artist based in Mexico, with 8 gigs on soundcheck across Mexico City. Often billed alongside Deenia, Hot Hudson and Mel Cajiga. Next up: Brutal Mx, Mexico City on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Lucifxr is a techno and house artist based in Mexico, with 8 gigs on soundcheck 
 
 Deenia, Hot Hudson, Mel Cajiga
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucifxr/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucifxr/)*

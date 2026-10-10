@@ -1,18 +1,20 @@
 # DMX Krew
 
-DMX Krew is a Electro and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Pillbox Beijing, Beijing on Sat, 17 Oct 2026.
+DMX Krew is a Electro and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Modeci, Seoul on Thu, 15 Oct 2026.
 
-DMX Krew is an electro and house artist based in United Kingdom, with 98 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 28 more. Often billed alongside Alien Communications, Andre King and DVDE. Next up: Pillbox Beijing, Beijing on Sat 17 Oct.
+DMX Krew is an electro and house artist based in United Kingdom, with 100 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 28 more. Often billed alongside Alien Communications, Andre King and DVDE. Next up: Modeci, Seoul on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 15 Oct 2026 | Modeci | Seoul |
 | Sat, 17 Oct 2026 | Pillbox Beijing | Beijing |
 | Sat, 31 Oct 2026 | Vittoria Wharf Studio | London |
 | Sat, 31 Oct 2026 | TBA | West-wales |
 | Sat, 31 Oct 2026 | East London Brewing Company | London |
 | Sat, 7 Nov 2026 | TBA | North |
+| Sat, 5 Dec 2026 | Eiger Studios | Leeds |
 | Thu, 31 Dec 2026 | Cadavra | Madrid |
 
 ## Recently played
@@ -30,4 +32,4 @@ DMX Krew is an electro and house artist based in United Kingdom, with 98 gigs on
 
 Alien Communications, Andre King, DVDE
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dmxkrew/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dmxkrew/)*

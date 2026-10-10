@@ -1,18 +1,18 @@
 # BEARCAT
 
-BEARCAT is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Club Rawhide, New York City on Fri, 9 Oct 2026.
+BEARCAT is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Nowadays, New York City on Sat, 24 Oct 2026.
 
-BEARCAT is a techno and club artist based in United States of America, with 98 gigs on soundcheck across Amsterdam, Berlin, Chicago and Leipzig and 10 more. Often billed alongside Byrell The Great, planetperris and Shyboi. Next up: Club Rawhide, New York City on Fri 9 Oct.
+BEARCAT is a techno and club artist based in United States of America, with 98 gigs on soundcheck across Amsterdam, Berlin, Chicago and Leipzig and 10 more. Often billed alongside Byrell The Great, planetperris and Shyboi. Next up: Nowadays, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Club Rawhide | New York City |
 | Sat, 24 Oct 2026 | Nowadays | New York City |
 
 ## Recently played
 
+- Club Rawhide, New York City · Fri, 9 Oct 2026
 - Bossa Nova Civic Club, New York City · Fri, 28 Aug 2026
 - Bossa Nova Civic Club, New York City · Fri, 21 Aug 2026
 - Signal, New York City · Sat, 8 Aug 2026
@@ -20,10 +20,9 @@ BEARCAT is a techno and club artist based in United States of America, with 98 g
 - Bossa Nova Civic Club, New York City · Thu, 16 Jul 2026
 - 9 Bob Note, New York City · Sat, 11 Jul 2026
 - The Brooklyn Monarch, New York City · Wed, 1 Jul 2026
-- Good Room, New York City · Sun, 28 Jun 2026
 
 ## Shares bills with
 
 Byrell The Great, planetperris, Shyboi
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bearcat/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bearcat/)*

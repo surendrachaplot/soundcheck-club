@@ -1,6 +1,6 @@
 # BASHKKA
 
-BASHKKA is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at REC Napoli, Naples on Sat, 10 Oct 2026.
+BASHKKA is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at REC Napoli, Naples on Sat, 10 Oct 2026.
 
 BASHKKA is a techno and house artist based in Germany, with 311 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Ogazón. Next up: REC Napoli, Naples on Sat 10 Oct.
 
@@ -36,4 +36,4 @@ BASHKKA is a techno and house artist based in Germany, with 311 gigs on soundche
 
 Sedef Adasï, Gabrielle Kwarteng, Ogazón
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*

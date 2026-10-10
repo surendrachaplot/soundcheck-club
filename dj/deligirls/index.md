@@ -1,14 +1,13 @@
 # Deli Girls
 
-Deli Girls is a Experimental and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Deli Girls is a Experimental and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Chausseestrasse 131, Berlin on Sat, 10 Oct 2026.
 
-Deli Girls is an experimental and hardcore artist based in United States of America, with 35 gigs on soundcheck across Berlin, Brussels, Chicago and Detroit and 19 more. Often billed alongside Baby Leo, Batu and Blawan. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
+Deli Girls is an experimental and hardcore artist based in United States of America, with 35 gigs on soundcheck across Berlin, Brussels, Chicago and Detroit and 19 more. Often billed alongside Baby Leo, Batu and Blawan. Next up: Chausseestrasse 131, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Sat, 10 Oct 2026 | Chausseestrasse 131 | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Deli Girls is an experimental and hardcore artist based in United States of Amer
 
 Baby Leo, Batu, Blawan
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deligirls/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deligirls/)*

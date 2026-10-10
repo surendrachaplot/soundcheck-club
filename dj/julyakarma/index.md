@@ -1,6 +1,6 @@
 # Julya Karma
 
-Julya Karma is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Garage, Madrid on Sun, 11 Oct 2026.
+Julya Karma is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Garage, Madrid on Sun, 11 Oct 2026.
 
 Julya Karma is a house and techno artist, with 101 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 24 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: The Garage, Madrid on Sun 11 Oct.
 
@@ -31,4 +31,4 @@ Julya Karma is a house and techno artist, with 101 gigs on soundcheck across Ams
 
 Âme, Jimi Jules, Dixon
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julyakarma/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julyakarma/)*

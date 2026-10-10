@@ -1,6 +1,6 @@
 # Akhil (UK)
 
-Akhil (UK) is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at 77, London on Sat, 24 Oct 2026.
+Akhil (UK) is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at 77, London on Sat, 24 Oct 2026.
 
 Akhil (UK) is an afro house and house artist, with 10 gigs on soundcheck across London. Often billed alongside S FLY, Alex Taliana and JVINCENT. Next up: 77, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Akhil (UK) is an afro house and house artist, with 10 gigs on soundcheck across 
 
 S FLY, Alex Taliana, JVINCENT
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akhil-uk/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akhil-uk/)*

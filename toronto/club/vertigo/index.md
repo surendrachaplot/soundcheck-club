@@ -1,6 +1,6 @@
 # Vertigo
 
-Vertigo is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Vertigo Thanksgiving Weekend" on Fri, 9 Oct 2026.
+Vertigo is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Vertigo Thanksgiving Weekend" on Fri, 9 Oct 2026.
 
 Vertigo is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Ardalan, Jonathan Rosa, Kenny Glasgow and Manzone & Strong and 2 more. See dates, start times and who's playing. 66 Gerrard Street East, M5B2M2.
 
@@ -15,4 +15,4 @@ Vertigo is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with 
 
 66 Gerrard Street East, M5B2M2, Toronto
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/vertigo/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/vertigo/)*

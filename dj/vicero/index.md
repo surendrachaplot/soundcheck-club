@@ -1,6 +1,6 @@
 # VIĆERO
 
-VIĆERO is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Pik Dame, Frankfurt on Sat, 10 Oct 2026.
+VIĆERO is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Pik Dame, Frankfurt on Sat, 10 Oct 2026.
 
 VIĆERO is a tech house and techno artist based in Germany, with 27 gigs on soundcheck across Frankfurt and Hamburg. Often billed alongside Eva.nyx, Robert Brescan and rodmor. Next up: Pik Dame, Frankfurt on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ VIĆERO is a tech house and techno artist based in Germany, with 27 gigs on soun
 
 Eva.nyx, Robert Brescan, rodmor
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vicero/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vicero/)*

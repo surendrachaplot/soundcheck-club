@@ -1,6 +1,6 @@
 # ThirstKid
 
-ThirstKid is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Oath, Tokyo on Fri, 16 Oct 2026.
+ThirstKid is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Oath, Tokyo on Fri, 16 Oct 2026.
 
 ThirstKid is a house and club artist, with 6 gigs on soundcheck across Bangkok, Seoul and Tokyo. Often billed alongside Al Jones, Chris MS and Duality. Next up: Oath, Tokyo on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ ThirstKid is a house and club artist, with 6 gigs on soundcheck across Bangkok, 
 
 Al Jones, Chris MS, Duality
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thirstkid/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thirstkid/)*

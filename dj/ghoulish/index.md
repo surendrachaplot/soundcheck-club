@@ -1,6 +1,6 @@
 # Ghoulish
 
-Ghoulish is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Phonica Records, London on Wed, 11 Nov 2026.
+Ghoulish is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Phonica Records, London on Wed, 11 Nov 2026.
 
 Ghoulish is a garage and bass artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Barcelona, Brighton and Bristol and 13 more. Often billed alongside Oppidan, Conducta and Oneman. Next up: Phonica Records, London on Wed 11 Nov.
 
@@ -26,4 +26,4 @@ Ghoulish is a garage and bass artist based in United Kingdom, with 61 gigs on so
 
 Oppidan, Conducta, Oneman
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ghoulish/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ghoulish/)*

@@ -1,6 +1,6 @@
 # Fred Linger
 
-Fred Linger is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Das Viertel, Basel on Sat, 10 Oct 2026.
+Fred Linger is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Das Viertel, Basel on Sat, 10 Oct 2026.
 
 Fred Linger is a house and techno artist based in Switzerland, with 21 gigs on soundcheck across Basel and Zurich. Often billed alongside Guy Brûlé, Cristian Tamborrini and Oliver Aden & Luis Cruz. Next up: Das Viertel, Basel on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Fred Linger is a house and techno artist based in Switzerland, with 21 gigs on s
 
 Guy Brûlé, Cristian Tamborrini, Oliver Aden & Luis Cruz
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fredlinger/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fredlinger/)*

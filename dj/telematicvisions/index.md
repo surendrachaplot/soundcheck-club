@@ -1,6 +1,6 @@
 # Telematic Visions
 
-Telematic Visions is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Forestlimit, Tokyo on Wed, 14 Oct 2026.
+Telematic Visions is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Forestlimit, Tokyo on Wed, 14 Oct 2026.
 
 Telematic Visions is a techno and bass artist based in Japan, with 44 gigs on soundcheck across Kyoto, Seoul and Tokyo. Often billed alongside illequal, NordOst and lilbesh ramko. Next up: Forestlimit, Tokyo on Wed 14 Oct.
 
@@ -27,4 +27,4 @@ Telematic Visions is a techno and bass artist based in Japan, with 44 gigs on so
 
 illequal, NordOst, lilbesh ramko
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/telematicvisions/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/telematicvisions/)*

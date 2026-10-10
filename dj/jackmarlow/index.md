@@ -1,14 +1,13 @@
 # JACK MARLOW
 
-JACK MARLOW is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at It'll Do, Dallas-fort-worth on Fri, 9 Oct 2026.
+JACK MARLOW is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - DTLA, Los Angeles on Sat, 10 Oct 2026.
 
-JACK MARLOW is a garage and house artist based in United Kingdom, with 54 gigs on soundcheck across Berlin, Brighton, Brisbane and Bristol and 16 more. Often billed alongside GEE LEE, Lemtom and salameh. Next up: It'll Do, Dallas Fort Worth on Fri 9 Oct.
+JACK MARLOW is a garage and house artist based in United Kingdom, with 54 gigs on soundcheck across Berlin, Brighton, Brisbane and Bristol and 16 more. Often billed alongside GEE LEE, Lemtom and salameh. Next up: TBA - DTLA, Los Angeles on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | It'll Do | Dallas-fort-worth |
 | Sat, 10 Oct 2026 | TBA - DTLA | Los Angeles |
 | Fri, 16 Oct 2026 | Elsewhere | New York City |
 | Fri, 23 Oct 2026 | Floyd | Miami |
@@ -17,6 +16,7 @@ JACK MARLOW is a garage and house artist based in United Kingdom, with 54 gigs o
 
 ## Recently played
 
+- It'll Do, Dallas-fort-worth · Fri, 9 Oct 2026
 - Night Tales, London · Fri, 2 Oct 2026
 - Burgess Park, London · Sun, 9 Aug 2026
 - Burgess Park, London · Sun, 9 Aug 2026
@@ -24,10 +24,9 @@ JACK MARLOW is a garage and house artist based in United Kingdom, with 54 gigs o
 - Baltic Triangle, Liverpool · Fri, 29 May 2026
 - Sigurd CPH, Copenhagen · Sat, 16 May 2026
 - Headrow House, Leeds · Fri, 1 May 2026
-- Prohibition Brisbane, Brisbane · Sat, 11 Apr 2026
 
 ## Shares bills with
 
 GEE LEE, Lemtom, salameh
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackmarlow/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackmarlow/)*

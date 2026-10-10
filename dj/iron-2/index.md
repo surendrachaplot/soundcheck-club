@@ -1,6 +1,6 @@
 # IRON
 
-IRON is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Turbinenhalle, Oberhausen on Sat, 10 Oct 2026.
+IRON is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Turbinenhalle, Oberhausen on Sat, 10 Oct 2026.
 
 IRON is a techno and house artist based in Japan, with 23 gigs on soundcheck across Oberhausen, Seoul and Tokyo. Often billed alongside OCCA, LiaRako and DJ SO. Next up: Turbinenhalle, Oberhausen on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ IRON is a techno and house artist based in Japan, with 23 gigs on soundcheck acr
 
 OCCA, LiaRako, DJ SO
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iron-2/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iron-2/)*

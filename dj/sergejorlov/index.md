@@ -1,6 +1,6 @@
 # Sergej Orlov
 
-Sergej Orlov is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Elsa Restaurang, Stockholm on Wed, 14 Oct 2026.
+Sergej Orlov is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Elsa Restaurang, Stockholm on Wed, 14 Oct 2026.
 
 Sergej Orlov is a house and techno artist, with 20 gigs on soundcheck across Stockholm. Often billed alongside Mattias El Mansouri, Henrik Conradson and Prins Filip. Next up: Elsa Restaurang, Stockholm on Wed 14 Oct.
 
@@ -26,4 +26,4 @@ Sergej Orlov is a house and techno artist, with 20 gigs on soundcheck across Sto
 
 Mattias El Mansouri, Henrik Conradson, Prins Filip
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sergejorlov/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sergejorlov/)*

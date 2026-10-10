@@ -1,6 +1,6 @@
 # Nitefreak
 
-Nitefreak is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Savaya Bali, Bali on Sun, 18 Oct 2026.
+Nitefreak is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Savaya Bali, Bali on Sun, 18 Oct 2026.
 
 Nitefreak is an afro house and house artist based in Zimbabwe, with 61 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 20 more. Often billed alongside Francis Mercier, MoBlack and Bun Xapa. Next up: Savaya Bali, Bali on Sun 18 Oct.
 
@@ -27,4 +27,4 @@ Nitefreak is an afro house and house artist based in Zimbabwe, with 61 gigs on s
 
 Francis Mercier, MoBlack, Bun Xapa
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nitefreak/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nitefreak/)*

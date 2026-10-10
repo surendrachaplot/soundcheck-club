@@ -1,6 +1,6 @@
 # Blu9
 
-Blu9 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Chicago Eagle, Chicago on Sat, 10 Oct 2026.
+Blu9 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Chicago Eagle, Chicago on Sat, 10 Oct 2026.
 
 Blu9 is a techno and house artist based in United States of America, with 46 gigs on soundcheck across Chicago, Detroit, New York City and Washington DC. Often billed alongside Microdot, Aaron Chase and Mr. Bobby. Next up: Chicago Eagle, Chicago on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Blu9 is a techno and house artist based in United States of America, with 46 gig
 
 Microdot, Aaron Chase, Mr. Bobby
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blu9-us/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blu9-us/)*

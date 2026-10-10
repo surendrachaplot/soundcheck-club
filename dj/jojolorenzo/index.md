@@ -1,6 +1,6 @@
 # Jojo Lorenzo
 
-Jojo Lorenzo is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Don Quixote, Los Angeles on Fri, 16 Oct 2026.
+Jojo Lorenzo is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Don Quixote, Los Angeles on Fri, 16 Oct 2026.
 
 Jojo Lorenzo is a house and disco artist based in United States of America, with 118 gigs on soundcheck across Austin, Barcelona, Boston and Chicago and 18 more. Often billed alongside Tinzo, RaeCola and Varist. Next up: Don Quixote, Los Angeles on Fri 16 Oct.
 
@@ -32,4 +32,4 @@ Jojo Lorenzo is a house and disco artist based in United States of America, with
 
 Tinzo, RaeCola, Varist
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jojolorenzo/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jojolorenzo/)*

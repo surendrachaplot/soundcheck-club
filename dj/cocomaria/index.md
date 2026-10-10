@@ -1,6 +1,6 @@
 # Coco Maria
 
-Coco Maria is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Carpet Shop, London on Fri, 16 Oct 2026.
+Coco Maria is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Carpet Shop, London on Fri, 16 Oct 2026.
 
 Coco Maria is a house and disco artist based in Mexico, with 127 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 37 more. Often billed alongside Antal, Palo Santo Discos and Cosmo Sofi. Next up: The Carpet Shop, London on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ Coco Maria is a house and disco artist based in Mexico, with 127 gigs on soundch
 
 Antal, Palo Santo Discos, Cosmo Sofi
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*

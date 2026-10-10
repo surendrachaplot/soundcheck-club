@@ -1,14 +1,13 @@
 # Giri
 
-Giri is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "DRIFT Kyiv for TAG DER CLUBKULTUR" on Fri, 9 Oct 2026.
+Giri is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Pastards" on Wed, 14 Oct 2026.
 
-Giri is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including ANTRO, Bass, Dj Hidrataccioni and DJ Jones and 2 more. See dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
+Giri is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Bass, Dj Hidrataccioni, DJ Jones and Fuerza Kontraria and 2 more. See dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | DRIFT Kyiv for TAG DER CLUBKULTUR | ANTRO, Josiane, Nycky Estrella, OLHA, Pamela Svart, Sub Sahara |
 | Wed, 14 Oct 2026 | Pastards | Bass, DJ Jones |
 | Thu, 15 Oct 2026 | Giri x HALAL CLUB: LISTENING SESSION, VOL. 2 | Labrighli, X Tin |
 | Fri, 16 Oct 2026 | Giri x Cruel Machine |  |
@@ -18,9 +17,10 @@ Giri is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with lin
 | Sat, 24 Oct 2026 | Satelliet Studio |  |
 | Wed, 28 Oct 2026 | Occultists Showcase | James Demon, Special Guest (US) |
 | Thu, 29 Oct 2026 | Fundraiser for Palestine |  |
+| Wed, 4 Nov 2026 | Giri x SCHALL, listening session |  |
 
 ## Address
 
 Hermannstrasse 14, 12049 Berlin, Berlin
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*

@@ -1,6 +1,6 @@
 # Oscar G
 
-Oscar G is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Papaya Playa Project, Tulum on Sat, 10 Oct 2026.
+Oscar G is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Papaya Playa Project, Tulum on Sat, 10 Oct 2026.
 
 Oscar G is a house and tech house artist based in United States of America, with 82 gigs on soundcheck across Ibiza, Miami, New York City and Philadelphia and 2 more. Often billed alongside Lazaro Casanova, Nicole Fiallo and Cristian Arango. Next up: Papaya Playa Project, Tulum on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Oscar G is a house and tech house artist based in United States of America, with
 
 Lazaro Casanova, Nicole Fiallo, Cristian Arango
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarg/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarg/)*

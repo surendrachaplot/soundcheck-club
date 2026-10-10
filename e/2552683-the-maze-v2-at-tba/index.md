@@ -1,6 +1,6 @@
-# The maze v2 at TBA
+# The Maze V2 at TBA
 
-The maze v2 at TBA on Sat 10 Oct, Vancouver. 1 artist: A-Trak. Drum & Bass. See the line-up on soundcheck.
+The Maze V2 at TBA on Sat 10 Oct, Vancouver. 1 artist: A-Trak. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # vene.tia
 
-vene.tia is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Crate Brewery, London on Sat, 10 Oct 2026.
+vene.tia is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Crate Brewery, London on Sat, 10 Oct 2026.
 
 vene.tia is a house and acid artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside AXU, Benebe and Cristian Sirica. Next up: Crate Brewery, London on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ vene.tia is a house and acid artist based in United Kingdom, with 3 gigs on soun
 
 AXU (2), Benebe, Cristian Sirica
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vene.tia/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vene.tia/)*

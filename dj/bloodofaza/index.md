@@ -1,6 +1,6 @@
 # Blood of Aza
 
-Blood of Aza is a Experimental and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 10 Oct 2026.
+Blood of Aza is a Experimental and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 10 Oct 2026.
 
 Blood of Aza is an experimental and techno artist based in United Kingdom, with 85 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Belgrade and 20 more. Often billed alongside Mvcoko, KAVARI and SISSY MISFIT. Next up: La Machine Du Moulin Rouge, Paris on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Blood of Aza is an experimental and techno artist based in United Kingdom, with 
 
 Mvcoko, KAVARI, SISSY MISFIT
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodofaza/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodofaza/)*

@@ -1,6 +1,6 @@
 # Brixton Radio
 
-Brixton Radio is a music venue in London with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "De La Casa Takeover" on Sat, 17 Oct 2026.
+Brixton Radio is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "De La Casa Takeover" on Sat, 17 Oct 2026.
 
 Brixton Radio is a music venue in London listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 23 Alphabet Mews, London SW9 0FN, UK.
 
@@ -15,4 +15,4 @@ Brixton Radio is a music venue in London listed on soundcheck. 2 upcoming gigs. 
 
 23 Alphabet Mews, London SW9 0FN, UK, London
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-radio/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-radio/)*

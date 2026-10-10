@@ -1,6 +1,6 @@
 # heSAWyou
 
-heSAWyou is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Terraza Catedral, Mexico City on Sat, 10 Oct 2026.
+heSAWyou is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Terraza Catedral, Mexico City on Sat, 10 Oct 2026.
 
 heSAWyou is a house and minimal artist based in Mexico, with 80 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Frankfurt and 1 more. Often billed alongside Alain Hellion, Timid Boy and Anthony Attalla. Next up: Terraza Catedral, Mexico City on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ heSAWyou is a house and minimal artist based in Mexico, with 80 gigs on soundche
 
 Alain Hellion, Timid Boy, Anthony Attalla
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hesawyou/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hesawyou/)*

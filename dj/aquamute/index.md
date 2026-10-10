@@ -1,6 +1,6 @@
 # Aqua Mute
 
-Aqua Mute is a Electronica and Drone artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA -  SINIESTRO CLUB SOCIAL , Mexico City on Sat, 17 Oct 2026.
+Aqua Mute is a Electronica and Drone artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA -  SINIESTRO CLUB SOCIAL , Mexico City on Sat, 17 Oct 2026.
 
 Aqua Mute is an electronica and drone artist based in Mexico, with 9 gigs on soundcheck across Mexico City. Often billed alongside Bluecommand, Bvlok and Phanta. Next up: TBA -  SINIESTRO CLUB SOCIAL , Mexico City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Aqua Mute is an electronica and drone artist based in Mexico, with 9 gigs on sou
 
 Bluecommand, Bvlok, Phanta
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aquamute/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aquamute/)*

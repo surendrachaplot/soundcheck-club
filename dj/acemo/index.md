@@ -1,6 +1,6 @@
 # AceMo
 
-AceMo is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Signal, New York City on Sat, 10 Oct 2026.
+AceMo is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Signal, New York City on Sat, 10 Oct 2026.
 
 AceMo is a house and techno artist based in United States of America, with 137 gigs on soundcheck across Amsterdam, Austin, Berlin and Boston and 28 more. Often billed alongside DJ SWISHA, MoMA Ready and Kush Jones. Next up: Signal, New York City on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ AceMo is a house and techno artist based in United States of America, with 137 g
 
 DJ SWISHA, MoMA Ready, Kush Jones
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acemo/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acemo/)*

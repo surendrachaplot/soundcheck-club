@@ -1,0 +1,16 @@
+# Postal: Wrisk at Sneaky Pete's
+
+Postal: Wrisk at Sneaky Pete's on Sun 11 Oct, Edinburgh. 2 artists: JI_2001 and Wrisk. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sun, 11 Oct 2026 |
+| Venue | Sneaky Pete's |
+| City | Edinburgh |
+
+## Line-up
+
+- JI_2001
+- Wrisk
+
+*Source: [soundcheck](https://soundcheck.club/e/2542841-postal-wrisk-at-sneaky-pete-s/)*

@@ -1,6 +1,6 @@
 # quera
 
-quera is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Turbina, Budapest on Sat, 10 Oct 2026.
+quera is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Turbina, Budapest on Sat, 10 Oct 2026.
 
 quera is a house and garage artist based in Hungary, with 41 gigs on soundcheck across Budapest and Paris. Often billed alongside baeker, Gemcamp and Kiqo. Next up: Turbina, Budapest on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ quera is a house and garage artist based in Hungary, with 41 gigs on soundcheck 
 
 baeker, Gemcamp, Kiqo
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quera/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quera/)*

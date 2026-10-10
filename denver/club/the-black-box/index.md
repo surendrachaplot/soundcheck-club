@@ -1,14 +1,13 @@
 # The Black Box
 
-The Black Box is a music venue in Denver with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Sub.mission presents: Numa Crew X Plastician" on Fri, 9 Oct 2026.
+The Black Box is a music venue in Denver with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Recon 23 Year Anniversary" on Sat, 10 Oct 2026.
 
-The Black Box is a music venue in Denver listed on soundcheck. 9 upcoming gigs, with line-ups including Danny Byrd, Darkstar, Etch and Monty and 2 more. See dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
+The Black Box is a music venue in Denver listed on soundcheck. 8 upcoming gigs, with line-ups including Danny Byrd, Darkstar, Etch and Monty and 2 more. See dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Sub.mission presents: Numa Crew X Plastician | Plastician |
 | Sat, 10 Oct 2026 | Recon 23 Year Anniversary | Etch, Poisonfrog, Quartz (2), Sinistarr |
 | Fri, 23 Oct 2026 | The Black Box presents: Villem | Villem |
 | Thu, 29 Oct 2026 | Matriarch Music Compilation Album Release Party |  |
@@ -22,4 +21,4 @@ The Black Box is a music venue in Denver listed on soundcheck. 9 upcoming gigs, 
 
 314 E. 13th Ave. Denver, CO 80203, Denver
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*

@@ -1,6 +1,6 @@
 # YSK.
 
-YSK. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Club Daphnia, Osaka on Sat, 5 Dec 2026.
+YSK. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Club Daphnia, Osaka on Sat, 5 Dec 2026.
 
 YSK. is a techno and house artist based in Japan, with 30 gigs on soundcheck across Berlin, Hong Kong, Kyushu and Melbourne and 7 more. Often billed alongside OCCA, fleika and Olevv. Next up: Club Daphnia, Osaka on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ YSK. is a techno and house artist based in Japan, with 30 gigs on soundcheck acr
 
 OCCA, fleika, Olevv
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ysk/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ysk/)*

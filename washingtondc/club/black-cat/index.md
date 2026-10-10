@@ -1,13 +1,14 @@
 # Black Cat
 
-Black Cat is a music venue in Washington DC with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "George Clanton" on Sat, 7 Nov 2026.
+Black Cat is a music venue in Washington DC with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Coven: A Halloween Dance Party" on Sat, 24 Oct 2026.
 
-Black Cat is a music venue in Washington DC listed on soundcheck. 3 upcoming gigs, with line-ups including ADULT., George Clanton and Ryan Hemsworth. See dates, start times and who's playing. 1811 14th Street; NW Washington, DC 20009; United States.
+Black Cat is a music venue in Washington DC listed on soundcheck. 4 upcoming gigs, with line-ups including ADULT., George Clanton, Ryan Hemsworth and $et. See dates, start times and who's playing. 1811 14th Street; NW Washington, DC 20009; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Coven: A Halloween Dance Party | $et |
 | Sat, 7 Nov 2026 | George Clanton | George Clanton, Ryan Hemsworth |
 | Wed, 11 Nov 2026 | ADULT. & A Place To Bury Strangers | ADULT. |
 | Thu, 10 Dec 2026 | Mareux |  |
@@ -16,4 +17,4 @@ Black Cat is a music venue in Washington DC listed on soundcheck. 3 upcoming gig
 
 1811 14th Street; NW Washington, DC 20009; United States, Washington DC
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/black-cat/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/black-cat/)*

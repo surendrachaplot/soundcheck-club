@@ -1,6 +1,6 @@
 # Juicy Romance
 
-Juicy Romance is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at DRUMSHEDS, London on Fri, 23 Oct 2026.
+Juicy Romance is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at DRUMSHEDS, London on Fri, 23 Oct 2026.
 
 Juicy Romance is a techno and house artist based in Australia, with 151 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 48 more. Often billed alongside Partiboi69, Mischluft and KETTAMA. Next up: DRUMSHEDS, London on Fri 23 Oct.
 
@@ -33,4 +33,4 @@ Juicy Romance is a techno and house artist based in Australia, with 151 gigs on 
 
 Partiboi69, Mischluft, KETTAMA
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juicyromance/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juicyromance/)*

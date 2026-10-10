@@ -1,6 +1,6 @@
 # Manfredas
 
-Manfredas is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Club Guesthouse, Bucharest on Sat, 10 Oct 2026.
+Manfredas is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Club Guesthouse, Bucharest on Sat, 10 Oct 2026.
 
 Manfredas is a house and techno artist based in Lithuania, with 97 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 32 more. Often billed alongside Ivan Smagghe, Dresden and Chez de Milo. Next up: Club Guesthouse, Bucharest on Sat 10 Oct.
 
@@ -32,4 +32,4 @@ Manfredas is a house and techno artist based in Lithuania, with 97 gigs on sound
 
 Ivan Smagghe, Dresden, Chez de Milo
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manfredas/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manfredas/)*

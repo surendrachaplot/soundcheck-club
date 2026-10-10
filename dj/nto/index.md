@@ -1,14 +1,13 @@
 # NTO
 
-NTO is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Docks, Hamburg on Fri, 9 Oct 2026.
+NTO is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 10 Oct 2026.
 
-NTO is a techno and house artist based in France, with 124 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside Prismode, Solvane and Joachim Pastor. Next up: Docks, Hamburg on Fri 9 Oct.
+NTO is a techno and house artist based in France, with 124 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside Prismode, Solvane and Joachim Pastor. Next up: Ritter Butzke, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Docks | Hamburg |
 | Sat, 10 Oct 2026 | Ritter Butzke | Berlin |
 | Sat, 17 Oct 2026 | Kompass Klub | Ghent |
 | Thu, 22 Oct 2026 | Hotel Arena | Amsterdam |
@@ -23,6 +22,7 @@ NTO is a techno and house artist based in France, with 124 gigs on soundcheck ac
 
 ## Recently played
 
+- Docks, Hamburg · Fri, 9 Oct 2026
 - TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto · Fri, 18 Sept 2026
 - TBA - Brussels, Brussels · Fri, 11 Sept 2026
 - Nordstern, Basel · Fri, 28 Aug 2026
@@ -30,10 +30,9 @@ NTO is a techno and house artist based in France, with 124 gigs on soundcheck ac
 - La Clairière, Paris · Sat, 27 Jun 2026
 - SAGE, Berlin · Sat, 6 Jun 2026
 - Tuinen van West, Amsterdam · Sat, 23 May 2026
-- Circolo Magnolia, Milan · Fri, 22 May 2026
 
 ## Shares bills with
 
 Prismode, Solvane, Joachim Pastor
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nto/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nto/)*

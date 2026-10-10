@@ -1,20 +1,20 @@
 # Kowalski
 
-Kowalski is a music venue in Stuttgart with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "PLAYGRND 28" on Fri, 9 Oct 2026.
+Kowalski is a music venue in Stuttgart with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Kowalski SATURDAYS • OCEAN BIRTHDAY" on Sat, 10 Oct 2026.
 
-Kowalski is a music venue in Stuttgart listed on soundcheck. 4 upcoming gigs, with line-ups including Adi Dassler, Jochen Pash, Téodoro and Thomas Colin. See dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
+Kowalski is a music venue in Stuttgart listed on soundcheck. 4 upcoming gigs, with line-ups including Einmusik, Jochen Pash, Noah Shah and Thomas Colin. See dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | PLAYGRND 28 | Adi Dassler, Téodoro |
 | Sat, 10 Oct 2026 | Kowalski SATURDAYS • OCEAN BIRTHDAY |  |
 | Fri, 16 Oct 2026 | 07ELEVEN X Kowalski | Thomas Colin |
 | Sat, 31 Oct 2026 | HELLOWALSKI 2026 • Day & Night Halloween im Kowalski Stuttgart | Jochen Pash |
+| Fri, 18 Dec 2026 | TRUE LOVE with Einmusik | Einmusik, Noah Shah |
 
 ## Address
 
 Kriegsbergstr. 28, 70174 Stuttgart, Germany, Stuttgart
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*

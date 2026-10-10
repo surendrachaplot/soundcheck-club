@@ -1,13 +1,14 @@
 # TierradeOvnis
 
-TierradeOvnis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA, Mexico City on Sat, 10 Oct 2026.
+TierradeOvnis is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Terraza Dos Equis, Mexico City on Sat, 10 Oct 2026.
 
-TierradeOvnis is a house and techno artist, with 21 gigs on soundcheck across Buenos Aires and Mexico City. Often billed alongside Adriana Roma, Madhouse and Berger Muzik. Next up: TBA, Mexico City on Sat 10 Oct.
+TierradeOvnis is a house and techno artist, with 22 gigs on soundcheck across Buenos Aires and Mexico City. Often billed alongside Adriana Roma, Madhouse and Berger Muzik. Next up: Terraza Dos Equis, Mexico City on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Terraza Dos Equis | Mexico City |
 | Sat, 10 Oct 2026 | TBA | Mexico City |
 
 ## Recently played
@@ -25,4 +26,4 @@ TierradeOvnis is a house and techno artist, with 21 gigs on soundcheck across Bu
 
 Adriana Roma, Madhouse, Berger Muzik
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tierradeovnis/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tierradeovnis/)*

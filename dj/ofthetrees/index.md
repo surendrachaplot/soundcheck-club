@@ -1,14 +1,13 @@
 # Of The Trees
 
-Of The Trees is a Bass and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - The Ruins American Canyon, California on Fri, 9 Oct 2026.
+Of The Trees is a Bass and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - The Ruins American Canyon, California on Sat, 10 Oct 2026.
 
-Of The Trees is a bass and house artist based in United States of America, with 17 gigs on soundcheck across Austin, California, Chicago and Jacksonville and 8 more. Often billed alongside Dimension, Chris Lorenzo and Excision. Next up: TBA - The Ruins American Canyon, California on Fri 9 Oct.
+Of The Trees is a bass and house artist based in United States of America, with 17 gigs on soundcheck across Austin, California, Chicago and Jacksonville and 8 more. Often billed alongside Dimension, Chris Lorenzo and Excision. Next up: TBA - The Ruins American Canyon, California on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | TBA - The Ruins American Canyon | California |
 | Sat, 10 Oct 2026 | TBA - The Ruins American Canyon | California |
 | Thu, 22 Oct 2026 | Spirit of the Suwannee Music Park | Jacksonville |
 | Fri, 30 Oct 2026 | New Orleans, LA, Mardi Gras World | New-orleans |
@@ -16,6 +15,7 @@ Of The Trees is a bass and house artist based in United States of America, with 
 
 ## Recently played
 
+- TBA - The Ruins American Canyon, California · Fri, 9 Oct 2026
 - BERHTA, Washington DC · Fri, 5 Jun 2026
 - Buena Vista Lake, Los Angeles · Wed, 20 May 2026
 - Subaru Park Plaza, Philadelphia · Fri, 12 Sept 2025
@@ -23,10 +23,9 @@ Of The Trees is a bass and house artist based in United States of America, with 
 - Seatgeek Stadium, Chicago · Fri, 29 Aug 2025
 - Holland Park, Vancouver · Fri, 4 Jul 2025
 - The Concourse Project, Austin · Sat, 15 Feb 2025
-- Bass Coast Festival, Vancouver · Fri, 12 Jul 2024
 
 ## Shares bills with
 
 Dimension, Chris Lorenzo, Excision
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ofthetrees/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ofthetrees/)*

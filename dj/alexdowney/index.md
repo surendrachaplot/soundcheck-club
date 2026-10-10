@@ -1,6 +1,6 @@
 # Alex Downey
 
-Alex Downey is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
+Alex Downey is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
 
 Alex Downey is a techno and house artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 2 more. Often billed alongside Adam Shelton, Steevio and Suzybee. Next up: ingang, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Alex Downey is a techno and house artist based in United Kingdom, with 15 gigs o
 
 Adam Shelton, Steevio, Suzybee
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdowney/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdowney/)*

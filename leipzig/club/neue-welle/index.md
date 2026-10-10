@@ -1,6 +1,6 @@
 # Neue Welle
 
-Neue Welle is a music venue in Leipzig with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "SUBOTNIK PT 13 // TRANCE BOUNCE // Limoncello kichererbsenstampf ***BOXOFFICE AVAILABLE***" on Sat, 10 Oct 2026.
+Neue Welle is a music venue in Leipzig with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "SUBOTNIK PT 13 // TRANCE BOUNCE // Limoncello kichererbsenstampf ***BOXOFFICE AVAILABLE***" on Sat, 10 Oct 2026.
 
 Neue Welle is a music venue in Leipzig listed on soundcheck. 3 upcoming gigs, with line-ups including adamoandiamo, Credit 00, DJ Stingray 313 and F.R. Fels and 2 more. See dates, start times and who's playing. Rolf-Axen-Strasse 35 04229 Leipzig, Germany.
 
@@ -16,4 +16,4 @@ Neue Welle is a music venue in Leipzig listed on soundcheck. 3 upcoming gigs, wi
 
 Rolf-Axen-Strasse 35 04229 Leipzig, Germany, Leipzig
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/neue-welle/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/neue-welle/)*

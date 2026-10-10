@@ -1,6 +1,6 @@
 # Milzy
 
-Milzy is a Garage and Bass artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Fisher Gate Point, Nottingham on Sat, 10 Oct 2026.
+Milzy is a Garage and Bass artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Fisher Gate Point, Nottingham on Sat, 10 Oct 2026.
 
 Milzy is a garage and bass artist based in United Kingdom, with 52 gigs on soundcheck across Bristol, Cardiff, Edinburgh and Leeds and 6 more. Often billed alongside Amelia Leigh, Bakey and Shirley Temper. Next up: Fisher Gate Point, Nottingham on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Milzy is a garage and bass artist based in United Kingdom, with 52 gigs on sound
 
 Amelia Leigh, Bakey, Shirley Temper
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milzy/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milzy/)*

@@ -1,6 +1,6 @@
 # DDD (2)
 
-DDD (2) is a Electro and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Pistil, Seoul on Sat, 10 Oct 2026.
+DDD (2) is a Electro and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Pistil, Seoul on Sat, 10 Oct 2026.
 
 DDD is an electro and bass artist based in South Korea, with 30 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Dieman, Guinneissik and Kitty. Next up: Pistil, Seoul on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DDD is an electro and bass artist based in South Korea, with 30 gigs on soundche
 
 Dieman, Guinneissik, Kitty
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ddd-2/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ddd-2/)*

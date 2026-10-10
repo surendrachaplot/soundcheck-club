@@ -1,6 +1,6 @@
 # New Flesh (2)
 
-New Flesh (2) is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Omeara, London on Sat, 17 Oct 2026.
+New Flesh (2) is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Omeara, London on Sat, 17 Oct 2026.
 
 New Flesh is an experimental and techno artist based in United Kingdom, with 22 gigs on soundcheck across London. Often billed alongside Toni S, AAKAARA and TOOTHTAXI. Next up: Omeara, London on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ New Flesh is an experimental and techno artist based in United Kingdom, with 22 
 
 Toni S, AAKAARA, TOOTHTAXI
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/newflesh-2/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/newflesh-2/)*

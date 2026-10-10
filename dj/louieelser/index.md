@@ -1,14 +1,15 @@
 # Louie El Ser
 
-Louie El Ser is a Club and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
+Louie El Ser is a Club and Neo Perreo artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
 
-Louie El Ser is a club and neo perreo artist based in United States of America, with 30 gigs on soundcheck across Los Angeles, Mexico City, Portland and San Francisco/Oakland. Often billed alongside Profesito, Discnogirl and Femme Jatale. Next up: Monarch, San Francisco/Oakland on Fri 23 Oct.
+Louie El Ser is a club and neo perreo artist based in United States of America, with 31 gigs on soundcheck across Los Angeles, Mexico City, Portland and San Francisco/Oakland. Often billed alongside Profesito, Femme Jatale and Discnogirl. Next up: Monarch, San Francisco/Oakland on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Monarch | San Francisco/Oakland |
+| Fri, 30 Oct 2026 | Arcana | San Francisco/Oakland |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Louie El Ser is a club and neo perreo artist based in United States of America, 
 
 ## Shares bills with
 
-Profesito, Discnogirl, Femme Jatale
+Profesito, Femme Jatale, Discnogirl
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louieelser/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louieelser/)*

@@ -1,6 +1,6 @@
 # Rorganic
 
-Rorganic is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Frankie's, Vancouver on Sat, 31 Oct 2026.
+Rorganic is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Frankie's, Vancouver on Sat, 31 Oct 2026.
 
 Rorganic is a techno and industrial artist based in France, with 40 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 20 more. Often billed alongside DEBBIE (IT), 6EJOU and MARCO GINELLI. Next up: Frankie's, Vancouver on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Rorganic is a techno and industrial artist based in France, with 40 gigs on soun
 
 DEBBIE (IT), 6EJOU, MARCO GINELLI
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rorganic/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rorganic/)*

@@ -1,6 +1,6 @@
 # Known Artist
 
-Known Artist is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Circolo Amelia, Milan on Sat, 17 Oct 2026.
+Known Artist is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Circolo Amelia, Milan on Sat, 17 Oct 2026.
 
 Known Artist is a techno and trance artist based in Italy, with 41 gigs on soundcheck across Berlin and Milan. Often billed alongside Ditzy, bipolar and ARMANDO. Next up: Circolo Amelia, Milan on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Known Artist is a techno and trance artist based in Italy, with 41 gigs on sound
 
 Ditzy, bipolar, ARMANDO
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knownartist/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knownartist/)*

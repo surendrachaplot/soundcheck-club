@@ -1,14 +1,13 @@
 # Crissy Criss
 
-Crissy Criss is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at 9th and Jackson, Phoenix on Thu, 8 Oct 2026.
+Crissy Criss is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at XOYO, London on Sat, 7 Nov 2026.
 
-Crissy Criss is a drum & bass and jungle artist based in United Kingdom, with 13 gigs on soundcheck across Boston, Bristol, Detroit and Edinburgh and 5 more. Often billed alongside DJ SS, Bryan Gee and Euphonique. Next up: 9th and Jackson, Phoenix on Thu 8 Oct.
+Crissy Criss is a drum & bass and jungle artist based in United Kingdom, with 13 gigs on soundcheck across Boston, Bristol, Detroit and Edinburgh and 5 more. Often billed alongside DJ SS, Bryan Gee and Euphonique. Next up: XOYO, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | 9th and Jackson | Phoenix |
 | Sat, 7 Nov 2026 | XOYO | London |
 
 ## Recently played
@@ -26,4 +25,4 @@ Crissy Criss is a drum & bass and jungle artist based in United Kingdom, with 13
 
 DJ SS, Bryan Gee, Euphonique
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crissycriss/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crissycriss/)*

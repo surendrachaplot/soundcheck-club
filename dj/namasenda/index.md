@@ -1,6 +1,6 @@
 # Namasenda
 
-Namasenda is a Pop and Club artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Avenida Francisco Matarazzo, 694, Sao Paulo on Sat, 10 Oct 2026.
+Namasenda is a Pop and Club artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Avenida Francisco Matarazzo, 694, Sao Paulo on Sat, 10 Oct 2026.
 
 Namasenda is a pop and club artist based in Sweden, with 21 gigs on soundcheck across Barcelona, Brussels, Glasgow and Leipzig and 10 more. Often billed alongside Boys Noize, Clementaum and DJ AYA. Next up: TBA - Avenida Francisco Matarazzo, 694, Sao Paulo on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Namasenda is a pop and club artist based in Sweden, with 21 gigs on soundcheck a
 
 Boys Noize, Clementaum, DJ AYA
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/namasenda/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/namasenda/)*

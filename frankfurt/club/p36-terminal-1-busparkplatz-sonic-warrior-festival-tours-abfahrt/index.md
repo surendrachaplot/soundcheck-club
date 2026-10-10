@@ -1,6 +1,6 @@
 # P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt
 
-P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt is a music venue in Frankfurt with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Bus zu Noisekick 's Terrordrang" on Sat, 10 Oct 2026.
+P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt is a music venue in Frankfurt with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Bus zu Noisekick 's Terrordrang" on Sat, 10 Oct 2026.
 
 P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt is a music venue in Frankfurt listed on soundcheck. 9 upcoming gigs, with line-ups including Abzocka, Cube, HouseKaspeR and keller and 2 more. See dates, start times and who's playing. Hugo-Eckener-Ring.
 
@@ -22,4 +22,4 @@ P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt is a music v
 
 Hugo-Eckener-Ring, Frankfurt
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/p36-terminal-1-busparkplatz-sonic-warrior-festival-tours-abfahrt/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/p36-terminal-1-busparkplatz-sonic-warrior-festival-tours-abfahrt/)*

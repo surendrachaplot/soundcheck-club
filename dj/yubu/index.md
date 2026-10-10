@@ -1,6 +1,6 @@
 # Yubu
 
-Yubu is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Veronica Schip, Amsterdam on Sat, 10 Oct 2026.
+Yubu is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Veronica Schip, Amsterdam on Sat, 10 Oct 2026.
 
 Yubu is a house and techno artist based in Netherlands, with 27 gigs on soundcheck across Amsterdam, Barcelona, Basel and Brussels and 4 more. Often billed alongside Mattie, Mia Cecille and Caim. Next up: Veronica Schip, Amsterdam on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Yubu is a house and techno artist based in Netherlands, with 27 gigs on soundche
 
 Mattie, Mia Cecille, Caim
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yubu/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yubu/)*

@@ -1,6 +1,6 @@
 # Simone Lunghi
 
-Simone Lunghi is a Electronica and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Masada, Milan on Sat, 7 Nov 2026.
+Simone Lunghi is a Electronica and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Masada, Milan on Sat, 7 Nov 2026.
 
 Simone Lunghi is an electronica and minimal artist, with 16 gigs on soundcheck across Milan. Often billed alongside MATTEOBRUNO (IT), Münch and Outburst Knobs. Next up: Masada, Milan on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Simone Lunghi is an electronica and minimal artist, with 16 gigs on soundcheck a
 
 MATTEOBRUNO (IT), Münch, Outburst Knobs
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonelunghi/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonelunghi/)*

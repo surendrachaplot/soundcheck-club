@@ -1,8 +1,8 @@
 # Lola Haro
 
-Lola Haro is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Rex Club, Paris on Fri, 16 Oct 2026.
+Lola Haro is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Rex Club, Paris on Fri, 16 Oct 2026.
 
-Lola Haro is a house and techno artist based in Belgium, with 163 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 45 more. Often billed alongside Ben Kamal, r.omy and DJ Rino. Next up: Rex Club, Paris on Fri 16 Oct.
+Lola Haro is a house and techno artist based in Belgium, with 164 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 45 more. Often billed alongside Ben Kamal, r.omy and DJ Rino. Next up: Rex Club, Paris on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Lola Haro is a house and techno artist based in Belgium, with 163 gigs on soundc
 | Fri, 23 Oct 2026 | Pllek | Amsterdam |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
 | Fri, 30 Oct 2026 | Karmen Camina | Strasbourg |
+| Fri, 4 Dec 2026 | Club Cheek | London |
 | Fri, 18 Dec 2026 | Azimut Club | Turin |
 
 ## Recently played
@@ -30,4 +31,4 @@ Lola Haro is a house and techno artist based in Belgium, with 163 gigs on soundc
 
 Ben Kamal, r.omy, DJ Rino
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaharo/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaharo/)*

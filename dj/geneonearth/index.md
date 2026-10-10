@@ -1,8 +1,8 @@
 # Gene On Earth
 
-Gene On Earth is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri, 9 Oct 2026.
+Gene On Earth is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri, 9 Oct 2026.
 
-Gene On Earth is a house and techno artist based in United States of America, with 206 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 50 more. Often billed alongside The Ghost, Dyed Soundorom and tINI. Next up: Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri 9 Oct.
+Gene On Earth is a house and techno artist based in United States of America, with 207 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 50 more. Often billed alongside The Ghost, Dyed Soundorom and tINI. Next up: Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -18,10 +18,12 @@ Gene On Earth is a house and techno artist based in United States of America, wi
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
 | Fri, 13 Nov 2026 | The Loft | Manchester |
 | Fri, 27 Nov 2026 | Sub Club | Glasgow |
+| Sat, 28 Nov 2026 | Mia Mao | Paris |
 | Sat, 12 Dec 2026 | fabric | London |
 
 ## Recently played
 
+- Les Beaux-Arts de Marseille - Inseamm., Marseille · Fri, 9 Oct 2026
 - Flash, Washington DC · Sun, 27 Sept 2026
 - Fünk, Mexico City · Sat, 26 Sept 2026
 - TBA - Downtown Los Angeles, Los Angeles · Fri, 25 Sept 2026
@@ -29,10 +31,9 @@ Gene On Earth is a house and techno artist based in United States of America, wi
 - Floyd, Miami · Fri, 18 Sept 2026
 - The Cause, London · Sat, 12 Sept 2026
 - The Love Inn, Bristol · Sun, 26 Jul 2026
-- Palais, London · Fri, 24 Jul 2026
 
 ## Shares bills with
 
 The Ghost, Dyed Soundorom, tINI
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*

@@ -1,14 +1,15 @@
 # heelbite316
 
-heelbite316 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Club Tee Gee, Los Angeles on Thu, 22 Oct 2026.
+heelbite316 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Club Tee Gee, Los Angeles on Thu, 22 Oct 2026.
 
-heelbite316 is a techno and house artist based in United States of America, with 11 gigs on soundcheck across Chicago, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside DR. GABBA, Lily Ardalan and AEREA. Next up: Club Tee Gee, Los Angeles on Thu 22 Oct.
+heelbite316 is a techno and house artist based in United States of America, with 12 gigs on soundcheck across Chicago, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside BEEBA, DR. GABBA and JAQ.XS. Next up: Club Tee Gee, Los Angeles on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Club Tee Gee | Los Angeles |
+| Sat, 24 Oct 2026 | TBA - DTLA | Los Angeles |
 | Fri, 13 Nov 2026 | TBA | Los Angeles |
 
 ## Recently played
@@ -24,6 +25,6 @@ heelbite316 is a techno and house artist based in United States of America, with
 
 ## Shares bills with
 
-DR. GABBA, Lily Ardalan, AEREA
+BEEBA, DR. GABBA, JAQ.XS
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heelbite316/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heelbite316/)*

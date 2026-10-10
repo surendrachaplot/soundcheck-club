@@ -1,6 +1,6 @@
 # Hansy
 
-Hansy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Hertz, Seoul on Sat, 10 Oct 2026.
+Hansy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Hertz, Seoul on Sat, 10 Oct 2026.
 
 Hansy is a techno and house artist based in South Korea, with 36 gigs on soundcheck across Seoul and South Korea. Often billed alongside S.Telecom, A.Attack and Rob Goodspeed. Next up: Hertz, Seoul on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Hansy is a techno and house artist based in South Korea, with 36 gigs on soundch
 
 S.Telecom, A.Attack, Rob Goodspeed
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hansy/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hansy/)*

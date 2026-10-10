@@ -1,6 +1,6 @@
 # Ezgi
 
-Ezgi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA, Amsterdam on Fri, 13 Nov 2026.
+Ezgi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA, Amsterdam on Fri, 13 Nov 2026.
 
 Ezgi is a house and disco artist, with 53 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Istanbul and 2 more. Often billed alongside Bayram Ozcan, Phase Fatale and Black Batu. Next up: TBA, Amsterdam on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Ezgi is a house and disco artist, with 53 gigs on soundcheck across Amsterdam, B
 
 Bayram Ozcan, Phase Fatale, Black Batu
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ezgi/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ezgi/)*

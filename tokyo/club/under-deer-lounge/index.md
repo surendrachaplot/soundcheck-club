@@ -1,6 +1,6 @@
 # Under Deer Lounge
 
-Under Deer Lounge is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Ravender Vol.4" on Sat, 24 Oct 2026.
+Under Deer Lounge is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Ravender Vol.4" on Sat, 24 Oct 2026.
 
 Under Deer Lounge is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including PANICWORKS and Seimei. See dates, start times and who's playing. 1-3-4 B1 Jinnan Bldg, Jinnan, Shibuya Ku, Tokyo Japan.
 
@@ -15,4 +15,4 @@ Under Deer Lounge is a music venue in Tokyo listed on soundcheck. 2 upcoming gig
 
 1-3-4 B1 Jinnan Bldg, Jinnan, Shibuya Ku, Tokyo Japan, Tokyo
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/under-deer-lounge/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/under-deer-lounge/)*

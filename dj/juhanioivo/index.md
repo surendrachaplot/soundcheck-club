@@ -1,6 +1,6 @@
 # Juhani Oivo
 
-Juhani Oivo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Ääniwalli, Helsinki on Sat, 10 Oct 2026.
+Juhani Oivo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Ääniwalli, Helsinki on Sat, 10 Oct 2026.
 
 Juhani Oivo is a house and techno artist based in Finland, with 28 gigs on soundcheck across Berlin, Bristol, Helsinki and London and 6 more. Often billed alongside Mesak, Carlina Carpelan and Katerina. Next up: Ääniwalli, Helsinki on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Juhani Oivo is a house and techno artist based in Finland, with 28 gigs on sound
 
 Mesak, Carlina Carpelan, Katerina
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juhanioivo/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juhanioivo/)*

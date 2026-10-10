@@ -1,14 +1,15 @@
 # GRRLCRRSH
 
-GRRLCRRSH is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at The Jama, Toronto on Fri, 16 Oct 2026.
+GRRLCRRSH is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Jama, Toronto on Fri, 16 Oct 2026.
 
-GRRLCRRSH is a techno and bass artist based in Canada, with 47 gigs on soundcheck across New York City and Toronto. Often billed alongside Sappho.XD, Zellers and Hycastle. Next up: The Jama, Toronto on Fri 16 Oct.
+GRRLCRRSH is a techno and bass artist based in Canada, with 48 gigs on soundcheck across New York City and Toronto. Often billed alongside Sappho.XD, Zellers and Hycastle. Next up: The Jama, Toronto on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | The Jama | Toronto |
+| Sat, 31 Oct 2026 | Lithuanian House | Toronto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ GRRLCRRSH is a techno and bass artist based in Canada, with 47 gigs on soundchec
 
 Sappho.XD, Zellers, Hycastle
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grrlcrrsh/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grrlcrrsh/)*

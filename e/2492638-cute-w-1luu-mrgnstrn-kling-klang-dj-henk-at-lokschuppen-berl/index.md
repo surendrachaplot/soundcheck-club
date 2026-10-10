@@ -1,0 +1,26 @@
+# CUTE /w 1luu, MRGNSTRN, KLING&KLANG, DJ Henk at Lokschuppen Berlin
+
+CUTE /w 1luu, MRGNSTRN, KLING&KLANG, DJ Henk at Lokschuppen Berlin on Sat 10 Oct, Berlin. 12 artists: 1luu, alemiko, brvder jakob and DJ Henk and 8 more. Trance and Techno. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 10 Oct 2026 |
+| Venue | Lokschuppen Berlin |
+| City | Berlin |
+
+## Line-up
+
+- 1luu
+- alemiko
+- brvder jakob
+- DJ Henk
+- e.leptic
+- Edgar Os
+- EZA (DE)
+- KLING&KLANG
+- Krash Cora
+- Megaira
+- MRGNSTRN
+- Nettta
+
+*Source: [soundcheck](https://soundcheck.club/e/2492638-cute-w-1luu-mrgnstrn-kling-klang-dj-henk-at-lokschuppen-berl/)*

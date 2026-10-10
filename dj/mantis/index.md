@@ -1,6 +1,6 @@
 # MANTIS
 
-MANTIS is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Skate Park (Parco Lambro), Milan on Sat, 17 Oct 2026.
+MANTIS is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Skate Park (Parco Lambro), Milan on Sat, 17 Oct 2026.
 
 MANTIS is a techno and acid artist, with 28 gigs on soundcheck across Berlin, Hamburg, Milan and Prague and 3 more. Often billed alongside DJ Blockflöte 2000, Frank Rayo and KIM AHLF. Next up: Skate Park (Parco Lambro), Milan on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ MANTIS is a techno and acid artist, with 28 gigs on soundcheck across Berlin, Ha
 
 DJ Blockflöte 2000, Frank Rayo, KIM AHLF
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mantis/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mantis/)*

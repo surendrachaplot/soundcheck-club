@@ -1,6 +1,6 @@
 # Ground Control
 
-Ground Control is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "90s RAVE ANTHEMS RAVE: Techno / Acid / Trance / House / Electronica" on Sat, 10 Oct 2026.
+Ground Control is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "90s RAVE ANTHEMS RAVE: Techno / Acid / Trance / House / Electronica" on Sat, 10 Oct 2026.
 
 Ground Control is a music venue in Toronto listed on soundcheck. 3 upcoming gigs, with line-ups including Gruve Collective. See dates, start times and who's playing. 1279 Queen St West, Toronto, ON M6K 1L6, Canada.
 
@@ -16,4 +16,4 @@ Ground Control is a music venue in Toronto listed on soundcheck. 3 upcoming gigs
 
 1279 Queen St West, Toronto, ON M6K 1L6, Canada, Toronto
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/ground-control/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/ground-control/)*

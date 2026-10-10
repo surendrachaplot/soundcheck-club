@@ -1,6 +1,6 @@
 # William Luck
 
-William Luck is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Parc Floral De Paris, Paris on Fri, 16 Oct 2026.
+William Luck is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Parc Floral De Paris, Paris on Fri, 16 Oct 2026.
 
 William Luck is a techno and hardcore artist based in France, with 69 gigs on soundcheck across Antwerp, Barcelona, Belfast and Berlin and 25 more. Often billed alongside LESSSS, 25EMEHEURE and ECZODIA. Next up: Parc Floral De Paris, Paris on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ William Luck is a techno and hardcore artist based in France, with 69 gigs on so
 
 LESSSS, 25EMEHEURE, ECZODIA
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/williamluck/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/williamluck/)*

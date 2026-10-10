@@ -1,6 +1,6 @@
 # V3NÜ5
 
-V3NÜ5 is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Artheater, Cologne on Sat, 10 Oct 2026.
+V3NÜ5 is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Artheater, Cologne on Sat, 10 Oct 2026.
 
 V3NÜ5 is a techno and industrial artist based in Colombia, with 10 gigs on soundcheck across Berlin, Cologne, Hamburg and Helsinki and 1 more. Often billed alongside Dj handbag, JESUZ X and Cristian Marras. Next up: Artheater, Cologne on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ V3NÜ5 is a techno and industrial artist based in Colombia, with 10 gigs on soun
 
 Dj handbag, JESUZ X, Cristian Marras
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/v3nu5/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/v3nu5/)*

@@ -1,14 +1,13 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "TAG DER CLUBKULTUR 2026 - BRONCOS TAKEOVER" on Fri, 9 Oct 2026.
+Bulbul Berlin is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "TAG DER CLUBKULTUR 2026 - BULBUL RESIDENTS & FRIENDS" on Sat, 10 Oct 2026.
 
-Bulbul Berlin is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including aksendo, batmanka, Club Suave and Concentio and 2 more. See dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
+Bulbul Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including aksendo, batmanka, Club Suave and Concentio and 2 more. See dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | TAG DER CLUBKULTUR 2026 - BRONCOS TAKEOVER | Jessica Nightlife |
 | Sat, 10 Oct 2026 | TAG DER CLUBKULTUR 2026 - BULBUL RESIDENTS & FRIENDS | Concentio, Nikklaas, Selin (DE) |
 | Thu, 15 Oct 2026 | Decks&Stories - PUZZLE Berlin: vanagas, Herma, VILBØ, aksendo | Herma (LT), VILBØ, aksendo, vanagas |
 | Fri, 16 Oct 2026 | Welcome To My House: Ka.rim, La Terrasse b2b Monsai, MAD.MOD | La Terrasse, MAD.MOD, Monsai |
@@ -18,9 +17,10 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 11 upcoming gigs,
 | Sat, 24 Oct 2026 | HOUSE LOVERS: HATT.D, DJ Glitterelli, batmanka, van Kay | DJ Glitterelli, batmanka, van Kay |
 | Thu, 29 Oct 2026 | XOXA's Club Angel: Panooc, Immy b2b Mx. Blaire | Immy, Mx. Blaire, Panooc |
 | Fri, 30 Oct 2026 | Fridaze |  |
+| Sat, 31 Oct 2026 | Saturdaze |  |
 
 ## Address
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

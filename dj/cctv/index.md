@@ -1,6 +1,6 @@
 # CCTV
 
-CCTV is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Acud Macht NEU, Berlin on Sat, 10 Oct 2026.
+CCTV is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Acud Macht NEU, Berlin on Sat, 10 Oct 2026.
 
 CCTV is a techno and electro artist based in United States of America, with 10 gigs on soundcheck across Berlin, Chicago and Copenhagen. Often billed alongside ATT1C, CHILDISH BAMBINO and DJ Godfather. Next up: Acud Macht NEU, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ CCTV is a techno and electro artist based in United States of America, with 10 g
 
 ATT1C, CHILDISH BAMBINO, DJ Godfather
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cctv/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cctv/)*

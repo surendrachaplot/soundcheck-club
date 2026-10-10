@@ -1,20 +1,19 @@
 # Piezo
 
-Piezo is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Piezo is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 30 Oct 2026.
 
-Piezo is a techno and bass artist based in Italy, with 115 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 44 more. Often billed alongside upsammy, CCL and mad miran. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
+Piezo is a techno and bass artist based in Italy, with 115 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 44 more. Often billed alongside upsammy, CCL and mad miran. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
-| Fri, 9 Oct 2026 | Hotel Forum | Krakow |
 | Fri, 30 Oct 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
 | Fri, 6 Nov 2026 | TBA - Mount Adrah, Wiradjuri Country NSW | New-south-wales |
 
 ## Recently played
 
+- Hotel Forum, Krakow · Fri, 9 Oct 2026
 - Lanificio 159, Rome · Sat, 3 Oct 2026
 - Gessnerallee, Zurich · Fri, 2 Oct 2026
 - Various venues - Warsaw & Krakow, Poland · Fri, 2 Oct 2026
@@ -22,10 +21,9 @@ Piezo is a techno and bass artist based in Italy, with 115 gigs on soundcheck ac
 - Giardino Nascosto, Milan · Sun, 20 Sept 2026
 - Melkweg, Amsterdam · Thu, 30 Jul 2026
 - Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
-- Karmen Camina, Strasbourg · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 upsammy, CCL, mad miran
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piezo/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piezo/)*

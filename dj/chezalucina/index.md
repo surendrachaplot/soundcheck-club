@@ -1,20 +1,20 @@
 # CHEZA LUCINA
 
-CHEZA LUCINA is a Jungle and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Brixton Jamm, London on Fri, 9 Oct 2026.
+CHEZA LUCINA is a Jungle and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Dalston Superstore, London on Sat, 24 Oct 2026.
 
-CHEZA LUCINA is a jungle and techno artist based in United Kingdom, with 61 gigs on soundcheck across Brighton, London, Nottingham and Paris. Often billed alongside THEMPRESS, Princess Xixi and Ivicore. Next up: Brixton Jamm, London on Fri 9 Oct.
+CHEZA LUCINA is a jungle and techno artist based in United Kingdom, with 61 gigs on soundcheck across Brighton, London, Nottingham and Paris. Often billed alongside THEMPRESS, Princess Xixi and Ivicore. Next up: Dalston Superstore, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Brixton Jamm | London |
 | Sat, 24 Oct 2026 | Dalston Superstore | London |
 | Sat, 31 Oct 2026 | Algha's Plantroom | London |
 | Sat, 7 Nov 2026 | Avalon Cafe Bermondsey | London |
 
 ## Recently played
 
+- Brixton Jamm, London · Fri, 9 Oct 2026
 - Electrowerkz, London · Sun, 4 Oct 2026
 - The Model, Nottingham · Sat, 26 Sept 2026
 - The Cause, London · Sat, 5 Sept 2026
@@ -22,10 +22,9 @@ CHEZA LUCINA is a jungle and techno artist based in United Kingdom, with 61 gigs
 - Colour Factory, London · Sun, 30 Aug 2026
 - Gaffe, London · Fri, 31 Jul 2026
 - Planet Wax, London · Thu, 9 Jul 2026
-- Gaffe, London · Sun, 5 Jul 2026
 
 ## Shares bills with
 
 THEMPRESS, Princess Xixi, Ivicore
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chezalucina/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chezalucina/)*

@@ -1,13 +1,14 @@
 # Catarina Silva
 
-Catarina Silva is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Plano B, Porto on Fri, 23 Oct 2026.
+Catarina Silva is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 17 Oct 2026.
 
-Catarina Silva is a techno and electronica artist based in Portugal, with 60 gigs on soundcheck across Berlin, Lisbon, Porto and Washington DC. Often billed alongside Amulador, Kokeshi and MARRØN. Next up: Plano B, Porto on Fri 23 Oct.
+Catarina Silva is a techno and electronica artist based in Portugal, with 61 gigs on soundcheck across Berlin, Lisbon, Porto and Washington DC. Often billed alongside Amulador, Kokeshi and MARRØN. Next up: Lux Fragil, Lisbon on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Lux Fragil | Lisbon |
 | Fri, 23 Oct 2026 | Plano B | Porto |
 
 ## Recently played
@@ -25,4 +26,4 @@ Catarina Silva is a techno and electronica artist based in Portugal, with 60 gig
 
 Amulador, Kokeshi, MARRØN
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catarinasilva/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catarinasilva/)*

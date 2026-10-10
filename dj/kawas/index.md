@@ -1,6 +1,6 @@
 # Kawas
 
-Kawas is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Bar Oriente, Mexico City on Sat, 10 Oct 2026.
+Kawas is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Bar Oriente, Mexico City on Sat, 10 Oct 2026.
 
 Kawas is a house and techno artist based in Mexico, with 10 gigs on soundcheck across Los Angeles, Mexico City, Monterrey and Paris and 1 more. Often billed alongside Cabizbajo, Iñigo Vontier and Rebolledo. Next up: Bar Oriente, Mexico City on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Kawas is a house and techno artist based in Mexico, with 10 gigs on soundcheck a
 
 Cabizbajo, Iñigo Vontier, Rebolledo
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kawas/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kawas/)*

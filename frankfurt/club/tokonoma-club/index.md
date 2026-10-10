@@ -1,14 +1,13 @@
 # Tokonoma Club
 
-Tokonoma Club is a music venue in Frankfurt with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "HABITUS x TOKONOMA" on Fri, 9 Oct 2026.
+Tokonoma Club is a music venue in Frankfurt with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Circle" on Sat, 10 Oct 2026.
 
-Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 7 upcoming gigs, with line-ups including 131bpm, Alas, Back2Bass and Bitter Babe and 2 more. See dates, start times and who's playing. Gutleutstraße 320,60327 Frankfurt.
+Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 6 upcoming gigs, with line-ups including 131bpm, Alas, Back2Bass and Bitter Babe and 2 more. See dates, start times and who's playing. Gutleutstraße 320,60327 Frankfurt.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | HABITUS x TOKONOMA | ELSA (DE), Ignez, Mara Menace, Preta, Tobi Lack, Townes, Waldymoto, Zarling |
 | Sat, 10 Oct 2026 | Circle | Dawit Asfaha, Frederic., Julian Muller, Lemac, Vaahzer, Vlada |
 | Sat, 10 Oct 2026 | Circle | Dawit Asfaha, Frederic., Julian Muller, Lemac, MSKI, Vaahzer, Vlada |
 | Sat, 10 Oct 2026 | CIRCLE | Dawit Asfaha, Frederic., Julian Muller, Lemac, MSKI, Vaahzer, Vlada |
@@ -20,4 +19,4 @@ Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 7 upcoming gig
 
 Gutleutstraße 320,60327 Frankfurt, Frankfurt
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tokonoma-club/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tokonoma-club/)*

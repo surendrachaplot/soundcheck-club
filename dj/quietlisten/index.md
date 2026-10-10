@@ -1,8 +1,8 @@
 # QUIET&LISTEN
 
-QUIET&LISTEN is a Electro and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Kosmos Karoline, Hamburg on Fri, 30 Oct 2026.
+QUIET&LISTEN is a Electro and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Kosmos Karoline, Hamburg on Fri, 30 Oct 2026.
 
-QUIET&LISTEN is an electro and deep house artist based in Germany, with 10 gigs on soundcheck across Hamburg. Often billed alongside Iman Hanzo, Claptone and Fahlberg. Next up: Kosmos Karoline, Hamburg on Fri 30 Oct.
+QUIET&LISTEN is an electro and deep house artist based in Germany, with 10 gigs on soundcheck across Hamburg. Often billed alongside Iman Hanzo, Boris Dlugosch and Claptone. Next up: Kosmos Karoline, Hamburg on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ QUIET&LISTEN is an electro and deep house artist based in Germany, with 10 gigs 
 
 ## Shares bills with
 
-Iman Hanzo, Claptone, Fahlberg
+Iman Hanzo, Boris Dlugosch, Claptone
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quietlisten/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quietlisten/)*

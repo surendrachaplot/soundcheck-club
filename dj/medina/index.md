@@ -1,6 +1,6 @@
 # MEDINA
 
-MEDINA is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Creekside - Under The K Bridge, New York City on Sun, 11 Oct 2026.
+MEDINA is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Creekside - Under The K Bridge, New York City on Sun, 11 Oct 2026.
 
 MEDINA is a techno and minimal techno artist based in United States of America, with 20 gigs on soundcheck across Barcelona, New York City and Tallinn. Often billed alongside KRAVE, Katja Adrikova and Melanie Ribbe. Next up: Creekside - Under The K Bridge, New York City on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ MEDINA is a techno and minimal techno artist based in United States of America, 
 
 KRAVE, Katja Adrikova, Melanie Ribbe
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medina/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medina/)*

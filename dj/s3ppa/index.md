@@ -1,8 +1,8 @@
 # S3PPA
 
-S3PPA is a House and Trance artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at KB3, Copenhagen on Fri, 16 Oct 2026.
+S3PPA is a House and Trance artist with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at KB3, Copenhagen on Fri, 16 Oct 2026.
 
-S3PPA is a house and trance artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Antwerp, Copenhagen and Dublin and 8 more. Often billed alongside DART, Gerardo Niva and LAMMER. Next up: KB3, Copenhagen on Fri 16 Oct.
+S3PPA is a house and trance artist based in Netherlands, with 29 gigs on soundcheck across Amsterdam, Antwerp, Copenhagen and Dublin and 8 more. Often billed alongside DART, Gerardo Niva and LAMMER. Next up: KB3, Copenhagen on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ S3PPA is a house and trance artist based in Netherlands, with 28 gigs on soundch
 | Sun, 22 Nov 2026 | Thuishaven | Amsterdam |
 | Fri, 27 Nov 2026 | BASIS | Utrecht |
 | Sat, 28 Nov 2026 | Lijm & Cultuur | Netherlands |
+| Fri, 4 Dec 2026 | Toffler | Rotterdam |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ S3PPA is a house and trance artist based in Netherlands, with 28 gigs on soundch
 
 DART, Gerardo Niva, LAMMER
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s3ppa/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s3ppa/)*

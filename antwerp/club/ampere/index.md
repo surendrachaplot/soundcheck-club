@@ -1,14 +1,13 @@
 # Ampere
 
-Ampere is a music venue in Antwerp with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Love On Top Club with DJ SWISHA" on Fri, 9 Oct 2026.
+Ampere is a music venue in Antwerp with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Ampere x Headspace present Space Age: LSB, DRS, Fabio, Anile + More" on Sat, 10 Oct 2026.
 
-Ampere is a music venue in Antwerp listed on soundcheck. 8 upcoming gigs, with line-ups including AliA, BAVR, Dave Clarke and David Vunk and 2 more. See dates, start times and who's playing. Simonsstraat 21, 2018 Antwerp, BE.
+Ampere is a music venue in Antwerp listed on soundcheck. 7 upcoming gigs, with line-ups including AliA, Dave Clarke, David Vunk and DJ Marky and 2 more. See dates, start times and who's playing. Simonsstraat 21, 2018 Antwerp, BE.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Love On Top Club with DJ SWISHA | BAVR, DJ SWISHA |
 | Sat, 10 Oct 2026 | Ampere x Headspace present Space Age: LSB, DRS, Fabio, Anile + More | DRS, Expensive KVR, Fabio, Hiraeth, LSB |
 | Fri, 16 Oct 2026 | Mala Invites with Mala (3h set), AliA, Requake | AliA, Mala |
 | Fri, 23 Oct 2026 | Ampere x Rawax present: Ricardo Villalobos | Joachim, Ricardo Villalobos, Robert Drewek |
@@ -21,4 +20,4 @@ Ampere is a music venue in Antwerp listed on soundcheck. 8 upcoming gigs, with l
 
 Simonsstraat 21, 2018 Antwerp, BE, Antwerp
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/ampere/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/ampere/)*

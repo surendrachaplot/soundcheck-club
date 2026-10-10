@@ -1,6 +1,6 @@
 # Caruan
 
-Caruan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at H0L0, New York City on Sat, 31 Oct 2026.
+Caruan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at H0L0, New York City on Sat, 31 Oct 2026.
 
 Caruan is a house and techno artist based in Italy, with 23 gigs on soundcheck across Barcelona, Berlin, Boston and Ibiza and 5 more. Often billed alongside Markus Nikolai, Thomas Melchior and Joe Tagessian. Next up: H0L0, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Caruan is a house and techno artist based in Italy, with 23 gigs on soundcheck a
 
 Markus Nikolai, Thomas Melchior, Joe Tagessian
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caruan/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caruan/)*

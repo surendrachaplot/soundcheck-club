@@ -1,6 +1,6 @@
 # Rob Paine
 
-Rob Paine is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Bastet, Philadelphia on Sat, 10 Oct 2026.
+Rob Paine is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Bastet, Philadelphia on Sat, 10 Oct 2026.
 
 Rob Paine is a house and deep house artist based in United States of America, with 114 gigs on soundcheck across Miami, Philadelphia and Washington DC. Often billed alongside Francisco Collazo, Ty Salone and Willyum. Next up: Bastet, Philadelphia on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Rob Paine is a house and deep house artist based in United States of America, wi
 
 Francisco Collazo, Ty Salone, Willyum
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robpaine/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robpaine/)*

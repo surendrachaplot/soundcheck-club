@@ -1,20 +1,20 @@
 # I-SO
 
-I-SO is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at clubasia, Tokyo on Fri, 9 Oct 2026.
+I-SO is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Joule, Osaka on Sat, 10 Oct 2026.
 
-I-SO is a techno and industrial artist based in Australia, with 77 gigs on soundcheck across Auckland, Melbourne, Milan and Osaka and 2 more. Often billed alongside LeStrange, Madsync and ART IS HARD. Next up: clubasia, Tokyo on Fri 9 Oct.
+I-SO is a techno and industrial artist based in Australia, with 77 gigs on soundcheck across Auckland, Melbourne, Milan and Osaka and 2 more. Often billed alongside LeStrange, Madsync and ART IS HARD. Next up: Joule, Osaka on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | clubasia | Tokyo |
 | Sat, 10 Oct 2026 | Joule | Osaka |
 | Sat, 31 Oct 2026 | The Flinders | Sydney |
 | Fri, 27 Nov 2026 | The Flinders | Sydney |
 
 ## Recently played
 
+- clubasia, Tokyo · Fri, 9 Oct 2026
 - The Flinders, Sydney · Fri, 11 Sept 2026
 - The Flinders, Sydney · Sat, 15 Aug 2026
 - The Flinders, Sydney · Fri, 7 Aug 2026
@@ -22,10 +22,9 @@ I-SO is a techno and industrial artist based in Australia, with 77 gigs on sound
 - TBA - Secret Warehouse , Auckland · Sat, 25 Jul 2026
 - The Flinders, Sydney · Sat, 18 Jul 2026
 - The Flinders, Sydney · Fri, 19 Jun 2026
-- The Flinders, Sydney · Fri, 15 May 2026
 
 ## Shares bills with
 
 LeStrange, Madsync, ART IS HARD
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/i-so/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/i-so/)*

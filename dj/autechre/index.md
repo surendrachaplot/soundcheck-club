@@ -1,14 +1,13 @@
 # Autechre
 
-Autechre is a IDM and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Cukrarna Gallery, Ljubljana on Wed, 7 Oct 2026.
+Autechre is a IDM and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at PTR-Usine, Geneva on Mon, 12 Oct 2026.
 
-Autechre is an idm and techno artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 48 more. Often billed alongside Mark Broom, HiTech and ojoo. Next up: Cukrarna Gallery, Ljubljana on Wed 7 Oct.
+Autechre is an idm and techno artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 48 more. Often billed alongside Mark Broom, HiTech and ojoo. Next up: PTR-Usine, Geneva on Mon 12 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 7 Oct 2026 | Cukrarna Gallery | Ljubljana |
 | Mon, 12 Oct 2026 | PTR-Usine | Geneva |
 | Mon, 12 Oct 2026 | PTR-Usine | Geneva |
 | Tue, 13 Oct 2026 | Cabaret  Aléatoire | Marseille |
@@ -34,4 +33,4 @@ Autechre is an idm and techno artist based in United Kingdom, with 59 gigs on so
 
 Mark Broom, HiTech, ojoo
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autechre/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autechre/)*

@@ -1,6 +1,6 @@
 # Spacetravel
 
-Spacetravel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Casa Diva' (Sardara), Sardinia on Sat, 10 Oct 2026.
+Spacetravel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Casa Diva' (Sardara), Sardinia on Sat, 10 Oct 2026.
 
 Spacetravel is a techno and house artist, with 16 gigs on soundcheck across Berlin, Lisbon, Miami and Sardinia and 1 more. Often billed alongside Yoshitaca, Kenji Tazaki and Cesare vs Disorder. Next up: TBA - Casa Diva' (Sardara), Sardinia on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Spacetravel is a techno and house artist, with 16 gigs on soundcheck across Berl
 
 Yoshitaca, Kenji Tazaki, Cesare vs Disorder
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spacetravel/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spacetravel/)*

@@ -1,6 +1,6 @@
 # Enamour
 
-Enamour is a House and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Jolene Downtown Miami, Miami on Sat, 10 Oct 2026.
+Enamour is a House and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Jolene Downtown Miami, Miami on Sat, 10 Oct 2026.
 
 Enamour is a house and progressive house artist based in United States of America, with 85 gigs on soundcheck across Amsterdam, Berlin, Brisbane and Chicago and 20 more. Often billed alongside Cassian, Lee Burridge and Airrica. Next up: Jolene Downtown Miami, Miami on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Enamour is a house and progressive house artist based in United States of Americ
 
 Cassian, Lee Burridge, Airrica
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enamour/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enamour/)*

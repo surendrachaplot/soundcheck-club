@@ -1,6 +1,6 @@
 # VERKNIPT Albania at Tirana Olympic Park
 
-VERKNIPT Albania at Tirana Olympic Park on Sun 29 Nov, Tirana. 7 artists: Ben Techy, KUKO, Loren and NEGITIV and 3 more. See the line-up on soundcheck.
+VERKNIPT Albania at Tirana Olympic Park on Sun 29 Nov, Tirana. 8 artists: Ben Techy, DEBBIE (IT), KUKO and Loren and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ VERKNIPT Albania at Tirana Olympic Park on Sun 29 Nov, Tirana. 7 artists: Ben Te
 ## Line-up
 
 - Ben Techy
+- DEBBIE (IT)
 - KUKO
 - Loren
 - NEGITIV

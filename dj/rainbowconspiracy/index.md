@@ -1,8 +1,8 @@
 # Rainbow Conspiracy
 
-Rainbow Conspiracy is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at NDR2 Red Room, London on Fri, 13 Nov 2026.
+Rainbow Conspiracy is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at NDR2 Red Room, London on Fri, 13 Nov 2026.
 
-Rainbow Conspiracy is a house and electronica artist, with 9 gigs on soundcheck across Lisbon and London. Often billed alongside Hudson’s Choice, Benyayer and Conrad Lee. Next up: NDR2 Red Room, London on Fri 13 Nov.
+Rainbow Conspiracy is a house and electronica artist based in United Kingdom, with 9 gigs on soundcheck across Lisbon and London. Often billed alongside Hudson’s Choice, Benyayer and Conrad Lee. Next up: NDR2 Red Room, London on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Rainbow Conspiracy is a house and electronica artist, with 9 gigs on soundcheck 
 
 Hudson’s Choice, Benyayer, Conrad Lee
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rainbowconspiracy/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rainbowconspiracy/)*

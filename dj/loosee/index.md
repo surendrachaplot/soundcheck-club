@@ -1,6 +1,6 @@
 # Loose E
 
-Loose E is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Stereo, Glasgow on Sat, 10 Oct 2026.
+Loose E is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Stereo, Glasgow on Sat, 10 Oct 2026.
 
 Loose E is a garage and house artist based in United Kingdom, with 65 gigs on soundcheck across Edinburgh, Glasgow and London. Often billed alongside 3-Lix, Emiliooo and Orla Halligan. Next up: Stereo, Glasgow on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Loose E is a garage and house artist based in United Kingdom, with 65 gigs on so
 
 3-Lix, Emiliooo, Orla Halligan
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loosee/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loosee/)*

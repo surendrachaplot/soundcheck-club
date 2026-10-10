@@ -1,6 +1,6 @@
 # O Beach
 
-O Beach is a music venue in Ibiza with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "KISS POOL PARTY LIVE" on Sat, 10 Oct 2026.
+O Beach is a music venue in Ibiza with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "KISS POOL PARTY LIVE" on Sat, 10 Oct 2026.
 
 O Beach is a music venue in Ibiza listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Carrer des Molí, 12-14, 07820 Ibiza, Illes Balears, España.
 
@@ -15,4 +15,4 @@ O Beach is a music venue in Ibiza listed on soundcheck. 2 upcoming gigs. See dat
 
 Carrer des Molí, 12-14, 07820 Ibiza, Illes Balears, España, Ibiza
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/o-beach/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/o-beach/)*

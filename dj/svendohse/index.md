@@ -1,6 +1,6 @@
 # Sven Dohse
 
-Sven Dohse is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Kater, Berlin on Fri, 9 Oct 2026.
+Sven Dohse is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Kater, Berlin on Fri, 9 Oct 2026.
 
 Sven Dohse is a techno and house artist based in Germany, with 65 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Istanbul and 5 more. Often billed alongside Mira, Chris Schwarzwälder and Mimi Love. Next up: Kater, Berlin on Fri 9 Oct.
 
@@ -12,6 +12,7 @@ Sven Dohse is a techno and house artist based in Germany, with 65 gigs on soundc
 
 ## Recently played
 
+- Kater, Berlin · Fri, 9 Oct 2026
 - Fridas Pier, Stuttgart · Sat, 26 Sept 2026
 - Smolna, Warsaw · Sat, 19 Sept 2026
 - Kater, Berlin · Fri, 21 Aug 2026
@@ -19,10 +20,9 @@ Sven Dohse is a techno and house artist based in Germany, with 65 gigs on soundc
 - Kater, Berlin · Fri, 7 Aug 2026
 - Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin · Thu, 16 Jul 2026
 - Kater, Berlin · Fri, 3 Jul 2026
-- ://about blank, Berlin · Sun, 24 May 2026
 
 ## Shares bills with
 
 Mira, Chris Schwarzwälder, Mimi Love
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svendohse/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svendohse/)*

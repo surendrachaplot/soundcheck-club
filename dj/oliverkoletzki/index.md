@@ -1,14 +1,13 @@
 # Oliver Koletzki
 
-Oliver Koletzki is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 9 Oct 2026.
+Oliver Koletzki is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sat, 24 Oct 2026.
 
-Oliver Koletzki is a techno and house artist based in Germany, with 125 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 29 more. Often billed alongside Frida Darko, Hidden Empire and Kotoe. Next up: Bahnwärter Thiel, Munich on Fri 9 Oct.
+Oliver Koletzki is a techno and house artist based in Germany, with 125 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 29 more. Often billed alongside Frida Darko, Hidden Empire and Kotoe. Next up: THE OTHER SIDE, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Bahnwärter Thiel | Munich |
 | Sat, 24 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Fri, 6 Nov 2026 | Hive Club | Zurich |
 | Sat, 7 Nov 2026 | Ritter Butzke | Berlin |
@@ -18,6 +17,7 @@ Oliver Koletzki is a techno and house artist based in Germany, with 125 gigs on 
 
 ## Recently played
 
+- Bahnwärter Thiel, Munich · Fri, 9 Oct 2026
 - Tanzhaus West, Frankfurt · Sat, 19 Sept 2026
 - Flash, Washington DC · Sat, 29 Aug 2026
 - Spin, San Diego · Sun, 23 Aug 2026
@@ -25,10 +25,9 @@ Oliver Koletzki is a techno and house artist based in Germany, with 125 gigs on 
 - Public Works, San Francisco/Oakland · Fri, 21 Aug 2026
 - Cova Santa, Ibiza · Fri, 7 Aug 2026
 - Refuge, New York City · Sat, 1 Aug 2026
-- TBA - Camp Summerdaze Montreal, Montreal · Thu, 30 Jul 2026
 
 ## Shares bills with
 
 Frida Darko, Hidden Empire, Kotoe
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkoletzki/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkoletzki/)*

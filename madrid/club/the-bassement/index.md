@@ -1,14 +1,13 @@
 # The Bassement
 
-The Bassement is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Laster Club presents INTERNATIONAL RESIDENTS NIGHT with The Lady Machine & Setaoc Mass" on Fri, 9 Oct 2026.
+The Bassement is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Laster Club presents Claudio PRC & Isabel Soto [All Night Long]" on Sat, 10 Oct 2026.
 
-The Bassement is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including Alarico, Alputo, Alviker and Anthony Godfather and 2 more. See dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
+The Bassement is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including Alarico, Alputo, Alviker and Anthony Godfather and 2 more. See dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Laster Club presents INTERNATIONAL RESIDENTS NIGHT with The Lady Machine & Setaoc Mass | Setaoc Mass, The Lady Machine |
 | Sat, 10 Oct 2026 | Laster Club presents Claudio PRC & Isabel Soto [All Night Long] | Claudio PRC, Isabel Soto |
 | Thu, 15 Oct 2026 | DVRKSUN MADRID ROUND 2 | Daniella da Silva, Parsa Jafari, RIKHTER |
 | Thu, 29 Oct 2026 | NITRO: Pawlowski + Sandwicho B2B TOTTI + Alviker B2B Alputo + Møstroh | Alputo, Alviker, Møstroh, Pawlowski, Sandwicho, TOTTI |
@@ -18,9 +17,10 @@ The Bassement is a music venue in Madrid listed on soundcheck. 11 upcoming gigs,
 | Sat, 7 Nov 2026 | Laster Club presents V ANNIVERSARY / 12H UNDER THE RED LIGHT AGAIN | Alarico, Blasha & Allatt, Chami, Connor Wall, Laia, Olivia Mendez, Shadow Hrym (ES) |
 | Sat, 14 Nov 2026 | CACAO by ANTHONY GODFATHER | Anthony Godfather (2) |
 | Fri, 27 Nov 2026 | JAZZY at BASSMNT CLUB hosted by ROOTS : Francesco Del Garda | Francesco Del Garda, Unai Trotti |
+| Sat, 28 Nov 2026 | Laster Club presents Dasha Rush, Phara & Laia B2B Liszt | Dasha Rush, Laia, Liszt, Phara |
 
 ## Address
 
 C. de Galileo, 2628015 Madrid, Madrid
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*

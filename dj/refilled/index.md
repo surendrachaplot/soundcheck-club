@@ -1,6 +1,6 @@
 # Refilled
 
-Refilled is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Sunkissed, Florida on Sat, 10 Oct 2026.
+Refilled is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Sunkissed, Florida on Sat, 10 Oct 2026.
 
 Refilled is a club and house artist based in United States of America, with 13 gigs on soundcheck across Florida, New York City and Philadelphia. Often billed alongside Flash Gea, Traps N Trees and shekdash. Next up: Sunkissed, Florida on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Refilled is a club and house artist based in United States of America, with 13 g
 
 Flash Gea, Traps N Trees, shekdash
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/refilled/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/refilled/)*

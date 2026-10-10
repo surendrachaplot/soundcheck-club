@@ -1,6 +1,6 @@
 # Torie
 
-Torie is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA, San Francisco/Oakland on Sat, 10 Oct 2026.
+Torie is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA, San Francisco/Oakland on Sat, 10 Oct 2026.
 
 Torie is a house and tech house artist based in United States of America, with 30 gigs on soundcheck across San Diego and San Francisco/Oakland. Often billed alongside Anthony Mansfield, Combover and Felly Fell. Next up: TBA, San Francisco/Oakland on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Torie is a house and tech house artist based in United States of America, with 3
 
 Anthony Mansfield, Combover, Felly Fell
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torie/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torie/)*

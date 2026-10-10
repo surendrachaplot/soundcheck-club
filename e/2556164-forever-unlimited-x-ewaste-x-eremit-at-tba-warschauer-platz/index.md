@@ -1,6 +1,6 @@
-# forever unlimited x EWASTE x EREMIT at TBA - WARSCHAUER PLATZ 18 10245 BERLIN
+# FOREVER UNLIMITED x EWASTE x EREMIT at TBA - WARSCHAUER PLATZ 18 10245 BERLIN
 
-forever unlimited x EWASTE x EREMIT at TBA - WARSCHAUER PLATZ 18 10245 BERLIN on Fri 23 Oct, Berlin. 11 artists: -OA-, Britney Speed, CUNT REMEMBER and DJ KILLING and 7 more. See the line-up on soundcheck.
+FOREVER UNLIMITED x EWASTE x EREMIT at TBA - WARSCHAUER PLATZ 18 10245 BERLIN on Fri 23 Oct, Berlin. 11 artists: -OA-, Britney Speed, CUNT REMEMBER and DJ KILLING and 7 more. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

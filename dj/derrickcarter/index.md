@@ -1,14 +1,13 @@
 # Derrick Carter
 
-Derrick Carter is a House and Disco artist with 13 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at broad hall., Philadelphia on Fri, 9 Oct 2026.
+Derrick Carter is a House and Disco artist with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Knockdown Center, New York City on Sat, 10 Oct 2026.
 
-Derrick Carter is a house and disco artist based in United States of America, with 324 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 25 more. Often billed alongside Michael Serafini, Shaun J. Wright and Garrett David. Next up: broad hall., Philadelphia on Fri 9 Oct.
+Derrick Carter is a house and disco artist based in United States of America, with 324 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 25 more. Often billed alongside Michael Serafini, Shaun J. Wright and Garrett David. Next up: Knockdown Center, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | broad hall. | Philadelphia |
 | Sat, 10 Oct 2026 | Knockdown Center | New York City |
 | Sun, 11 Oct 2026 | smartbar | Chicago |
 | Sun, 18 Oct 2026 | smartbar | Chicago |
@@ -20,9 +19,11 @@ Derrick Carter is a house and disco artist based in United States of America, wi
 | Sun, 15 Nov 2026 | smartbar | Chicago |
 | Sun, 22 Nov 2026 | smartbar | Chicago |
 | Sun, 29 Nov 2026 | smartbar | Chicago |
+| Sat, 5 Dec 2026 | KOKO | London |
 
 ## Recently played
 
+- broad hall., Philadelphia · Fri, 9 Oct 2026
 - smartbar, Chicago · Sun, 4 Oct 2026
 - smartbar, Chicago · Sun, 27 Sept 2026
 - Depot Mayfield, Manchester · Sat, 26 Sept 2026
@@ -30,10 +31,9 @@ Derrick Carter is a house and disco artist based in United States of America, wi
 - TBA, Los Angeles · Sat, 19 Sept 2026
 - smartbar, Chicago · Sun, 13 Sept 2026
 - smartbar, Chicago · Sun, 6 Sept 2026
-- Union Park, Chicago · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Michael Serafini, Shaun J. Wright, Garrett David
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickcarter/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickcarter/)*

@@ -1,6 +1,6 @@
 # DJ SET (Uk)
 
-DJ SET (Uk) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
+DJ SET (Uk) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
 
 DJ SET (Uk) is a techno and electronica artist based in United Kingdom, with 19 gigs on soundcheck across Berlin, Birmingham, Los Angeles and Lyon and 7 more. Often billed alongside Helena Hauff, PARIS (AU) and .cosm. Next up: Depot Mayfield, Manchester on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DJ SET (Uk) is a techno and electronica artist based in United Kingdom, with 19 
 
 Helena Hauff, PARIS (AU), .cosm
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djset-uk/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djset-uk/)*

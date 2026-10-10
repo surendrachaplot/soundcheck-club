@@ -1,6 +1,6 @@
 # GNRØ
 
-GNRØ is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
+GNRØ is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
 
 GNRØ is a techno and hardcore artist based in Spain, with 27 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Düsseldorf and 7 more. Often billed alongside Gaston Zani, Fhiga and CESAR ALMENA. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ GNRØ is a techno and hardcore artist based in Spain, with 27 gigs on soundcheck
 
 Gaston Zani, Fhiga, CESAR ALMENA
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gnro/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gnro/)*

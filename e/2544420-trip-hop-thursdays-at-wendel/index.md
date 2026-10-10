@@ -1,10 +1,10 @@
 # Trip-Hop Thursdays at Wendel
 
-Trip-Hop Thursdays at Wendel on Thu 3 Dec, Berlin. 1 artist: Larhythmix. Hip-Hop and Experimental. See the line-up on soundcheck.
+Trip-Hop Thursdays at Wendel on Thu 10 Dec, Berlin. 1 artist: Larhythmix. Hip-Hop and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Thu, 3 Dec 2026 |
+| Date | Thu, 10 Dec 2026 |
 | Venue | Wendel |
 | City | Berlin |
 

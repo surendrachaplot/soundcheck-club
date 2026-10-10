@@ -1,6 +1,6 @@
 # Belgrave Music Hall
 
-Belgrave Music Hall is a music venue in Leeds with 15 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "New North Indie: One-Dayer" on Sat, 10 Oct 2026.
+Belgrave Music Hall is a music venue in Leeds with 15 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "New North Indie: One-Dayer" on Sat, 10 Oct 2026.
 
 Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 15 upcoming gigs, with line-ups including Bel Cobain, Elder Island, O'Flynn and Romare and 2 more. See dates, start times and who's playing. 1-1A Cross Belgrave Street, LS2 8JP Leeds.
 
@@ -23,4 +23,4 @@ Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 15 upcoming 
 
 1-1A Cross Belgrave Street, LS2 8JP Leeds, Leeds
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/belgrave-music-hall/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/belgrave-music-hall/)*

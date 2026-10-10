@@ -1,6 +1,6 @@
 # The Myddleton Arms
 
-The Myddleton Arms is a music venue in London with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Vinyl Wednesdays" on Wed, 14 Oct 2026.
+The Myddleton Arms is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Vinyl Wednesdays" on Wed, 14 Oct 2026.
 
 The Myddleton Arms is a music venue in London listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ The Myddleton Arms is a music venue in London listed on soundcheck. 3 upcoming g
 | Wed, 21 Oct 2026 | Vinyl Wednesdays |  |
 | Wed, 28 Oct 2026 | Vinyl Wednesdays |  |
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-myddleton-arms/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-myddleton-arms/)*

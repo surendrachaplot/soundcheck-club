@@ -1,6 +1,6 @@
 # Los Hermanos
 
-Los Hermanos is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Spkrbox, Detroit on Sat, 17 Oct 2026.
+Los Hermanos is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Spkrbox, Detroit on Sat, 17 Oct 2026.
 
 Los Hermanos is a techno and house artist, with 13 gigs on soundcheck across Detroit, Osaka, Oslo and Turin. Often billed alongside DJ 3000, Gary Martin and DJ Godfather. Next up: Spkrbox, Detroit on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Los Hermanos is a techno and house artist, with 13 gigs on soundcheck across Det
 
 DJ 3000, Gary Martin, DJ Godfather
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loshermanos/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loshermanos/)*

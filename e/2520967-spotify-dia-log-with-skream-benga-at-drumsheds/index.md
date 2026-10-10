@@ -1,6 +1,6 @@
 # Spotify DIA/LOG with Skream & Benga at DRUMSHEDS
 
-Spotify DIA/LOG with Skream & Benga at DRUMSHEDS on Sat 17 Oct, London. 30 artists: Benga, Carré, D Double E and Dangermami and 26 more. Bass and Dubstep. See the line-up on soundcheck.
+Spotify DIA/LOG with Skream & Benga at DRUMSHEDS on Sat 17 Oct, London. 25 artists: Benga, Carré, Dangermami and Digital Mystikz and 21 more. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,16 +12,12 @@ Spotify DIA/LOG with Skream & Benga at DRUMSHEDS on Sat 17 Oct, London. 30 artis
 
 - Benga
 - Carré
-- D Double E
 - Dangermami
 - Digital Mystikz
 - Emily Makis
 - Flava D
 - Flowdan
-- Formella
-- Greg (2)
 - Jakes
-- Jammer
 - JAZ IMSKY
 - LTJ Bukem
 - MJ Cole
@@ -38,7 +34,6 @@ Spotify DIA/LOG with Skream & Benga at DRUMSHEDS on Sat 17 Oct, London. 30 artis
 - Skream
 - Special Request
 - Surusinghe
-- Vee (1)
 - yungfya
 
 *Source: [soundcheck](https://soundcheck.club/e/2520967-spotify-dia-log-with-skream-benga-at-drumsheds/)*

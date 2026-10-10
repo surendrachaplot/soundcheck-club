@@ -1,6 +1,6 @@
 # Pegassi ∞ ROXY Prague at Roxy
 
-Pegassi ∞ ROXY Prague at Roxy on Sat 17 Oct, Prague. 2 artists: Paul Krist and Pegassi. Trance and Techno. See the line-up on soundcheck.
+Pegassi ∞ ROXY Prague at Roxy on Sat 17 Oct, Prague. 3 artists: Dan Haward, Paul Krist and Pegassi. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Pegassi ∞ ROXY Prague at Roxy on Sat 17 Oct, Prague. 2 artists: Paul Krist and
 
 ## Line-up
 
+- Dan Haward
 - Paul Krist
 - Pegassi
 

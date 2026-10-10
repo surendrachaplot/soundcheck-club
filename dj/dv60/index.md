@@ -1,6 +1,6 @@
 # DV60
 
-DV60 is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Sneaky Pete's, Edinburgh on Thu, 15 Oct 2026.
+DV60 is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Sneaky Pete's, Edinburgh on Thu, 15 Oct 2026.
 
 DV60 is a techno and hardcore artist based in United Kingdom, with 98 gigs on soundcheck across Bristol, Edinburgh, Glasgow and London. Often billed alongside Wrisk, Lara Sinclair and Sea Urchin. Next up: Sneaky Pete's, Edinburgh on Thu 15 Oct.
 
@@ -27,4 +27,4 @@ DV60 is a techno and hardcore artist based in United Kingdom, with 98 gigs on so
 
 Wrisk, Lara Sinclair, Sea Urchin
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dv60/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dv60/)*

@@ -1,0 +1,20 @@
+# Hybrid Identity: sapphic autumn at TBA - Bushwick
+
+Hybrid Identity: sapphic autumn at TBA - Bushwick on Fri 9 Oct, New York City. 6 artists: Antenes, Constructible, Emsho and Ron Like Hell and 2 more. Techno and Electro. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 9 Oct 2026 |
+| Venue | TBA - Bushwick |
+| City | New York City |
+
+## Line-up
+
+- Antenes
+- Constructible
+- Emsho
+- Ron Like Hell
+- Scotia
+- threehz
+
+*Source: [soundcheck](https://soundcheck.club/e/2533778-hybrid-identity-sapphic-autumn-at-tba-bushwick/)*

@@ -1,6 +1,6 @@
 # Joss Dean at Club Six
 
-Joss Dean at Club Six on Fri 20 Nov, San Francisco/Oakland. 3 artists: GOMEZZY, Hunter Green and Joss Dean. Tech House and Deep House. See the line-up on soundcheck.
+Joss Dean at Club Six on Fri 20 Nov, San Francisco/Oakland. 4 artists: Bear Weigle, GOMEZZY, Hunter Green and Joss Dean. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Joss Dean at Club Six on Fri 20 Nov, San Francisco/Oakland. 3 artists: GOMEZZY, 
 
 ## Line-up
 
+- Bear Weigle
 - GOMEZZY
 - Hunter Green
 - Joss Dean

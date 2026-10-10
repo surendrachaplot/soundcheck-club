@@ -1,6 +1,6 @@
 # Solvados
 
-Solvados is a Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at ://about blank, Berlin on Fri, 16 Oct 2026.
+Solvados is a Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at ://about blank, Berlin on Fri, 16 Oct 2026.
 
 Solvados is a techno artist based in Germany, with 25 gigs on soundcheck across Berlin. Often billed alongside DEN!SE, Jasmin Giovanazzi and Gabrielle (DE). Next up: ://about blank, Berlin on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Solvados is a techno artist based in Germany, with 25 gigs on soundcheck across 
 
 DEN!SE, Jasmin Giovanazzi, Gabrielle (DE)
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solvados/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solvados/)*

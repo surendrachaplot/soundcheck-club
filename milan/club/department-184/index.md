@@ -1,16 +1,14 @@
 # Department 184
 
-Department 184 is a music venue in Milan with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "OKTOBERFAST Festival" on Fri, 9 Oct 2026.
+Department 184 is a music venue in Milan with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "OKTOBERFAST Festival" on Fri, 9 Oct 2026.
 
-Department 184 is a music venue in Milan listed on soundcheck. 11 upcoming gigs, with line-ups including Alex Brasile, AllaDerivaLontano, ALXV and Cap and 2 more. See dates, start times and who's playing. Via Varesina, 184, 20156 Milano MI.
+Department 184 is a music venue in Milan listed on soundcheck. 9 upcoming gigs, with line-ups including Alex Brasile, AllaDerivaLontano, ALXV and Cap and 2 more. See dates, start times and who's playing. Via Varesina, 184, 20156 Milano MI.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | OKTOBERFAST Festival |  |
-| Fri, 9 Oct 2026 | CLUBBERS FACTORY w// FEEL ROUGE | Cristina Lazic, Eternal Love |
-| Fri, 9 Oct 2026 | BC4C x FEEL ROUGE w// Cristina Lazic & Eternal Love | Cristina Lazic, Eternal Love |
 | Sat, 10 Oct 2026 | CLUBBERS FACTORY - 10th october W// OFFUNIVERSE | TWENTY SIX |
 | Sun, 11 Oct 2026 | IDOL -AFTER PARTY MILANO /After the last track | Simon T, The Robinson |
 | Fri, 16 Oct 2026 | INNER CIRCLE - / RUIZ OSC1 | FRANCESCO GUZZO, MISERIA, Münich, RUIZ OSC1 |
@@ -18,9 +16,10 @@ Department 184 is a music venue in Milan listed on soundcheck. 11 upcoming gigs,
 | Sat, 17 Oct 2026 | DUB x SUNRISE | Cap, Gojnea76, Mihnea Rog, Simon T |
 | Sun, 18 Oct 2026 | Technocrazia Season Opening - 12H All Day Long | ALXV, Alex Brasile, AllaDerivaLontano, DIVY, Daichi Wada, Fran LF, HIBA.KNTK, Kora Lyssa, Rorschack, Spad |
 | Sat, 31 Oct 2026 | LOST IN MILAN - 5 YEARS ANNIVERSARY |  |
+| Sat, 14 Nov 2026 | AcidExplosion 150KW |  |
 
 ## Address
 
 Via Varesina, 184, 20156 Milano MI, Milan
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/department-184/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/department-184/)*

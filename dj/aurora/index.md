@@ -1,13 +1,14 @@
 # Aurora
 
-Aurora is a Tech House and Psytrance artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Smolna, Warsaw on Wed, 21 Oct 2026.
+Aurora is a Tech House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at MODULE, Copenhagen on Sat, 17 Oct 2026.
 
-Aurora is a tech house and psytrance artist based in United Kingdom, with 13 gigs on soundcheck across Athens, Berlin, Bristol and Copenhagen and 6 more. Often billed alongside 2HOT2PLAY, Adrien Calvet and Alex Nantaya. Next up: Smolna, Warsaw on Wed 21 Oct.
+Aurora is a tech house and techno artist based in United Kingdom, with 14 gigs on soundcheck across Athens, Berlin, Bristol and Copenhagen and 6 more. Often billed alongside 2HOT2PLAY, Adrien Calvet and Alex Nantaya. Next up: MODULE, Copenhagen on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | MODULE | Copenhagen |
 | Wed, 21 Oct 2026 | Smolna | Warsaw |
 | Sat, 31 Oct 2026 | St Ethelburga's Centre for Reconciliation and Peace | London |
 | Sun, 1 Nov 2026 | Columbiahalle | Berlin |
@@ -27,4 +28,4 @@ Aurora is a tech house and psytrance artist based in United Kingdom, with 13 gig
 
 2HOT2PLAY, Adrien Calvet, Alex Nantaya
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurora/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurora/)*

@@ -1,8 +1,8 @@
 # Mattie
 
-Mattie is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Veronica Schip, Amsterdam on Sat, 10 Oct 2026.
+Mattie is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Veronica Schip, Amsterdam on Sat, 10 Oct 2026.
 
-Mattie is a house and techno artist based in Netherlands, with 29 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 3 more. Often billed alongside Yubu, Caim and 42nd Avenue. Next up: Veronica Schip, Amsterdam on Sat 10 Oct.
+Mattie is a house and techno artist based in Netherlands, with 30 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 3 more. Often billed alongside Yubu, Caim and 42nd Avenue. Next up: Veronica Schip, Amsterdam on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mattie is a house and techno artist based in Netherlands, with 29 gigs on soundc
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Veronica Schip | Amsterdam |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
+| Sun, 1 Nov 2026 | TBA - Neukölln | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Mattie is a house and techno artist based in Netherlands, with 29 gigs on soundc
 
 Yubu, Caim, 42nd Avenue
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattie/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattie/)*

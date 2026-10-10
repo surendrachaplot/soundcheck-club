@@ -1,6 +1,6 @@
 # The Back Room
 
-The Back Room is a music venue in Bali with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "COSMOS - Kino & Jimin" on Sat, 10 Oct 2026.
+The Back Room is a music venue in Bali with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "COSMOS - Kino & Jimin" on Sat, 10 Oct 2026.
 
 The Back Room is a music venue in Bali listed on soundcheck. 3 upcoming gigs, with line-ups including CPSL, Jimin, KINO (UY) and Polyfaer and 2 more. See dates, start times and who's playing. Jl. Pantai Batu Bolong No.39a, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia.
 
@@ -16,4 +16,4 @@ The Back Room is a music venue in Bali listed on soundcheck. 3 upcoming gigs, wi
 
 Jl. Pantai Batu Bolong No.39a, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia, Bali
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/the-back-room/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/the-back-room/)*

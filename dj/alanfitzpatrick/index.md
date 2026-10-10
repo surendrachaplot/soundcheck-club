@@ -1,14 +1,13 @@
 # Alan Fitzpatrick
 
-Alan Fitzpatrick is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Oxford Art Factory, Sydney on Fri, 9 Oct 2026.
+Alan Fitzpatrick is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Night Cat, Melbourne on Sat, 10 Oct 2026.
 
-Alan Fitzpatrick is a techno and house artist based in United Kingdom, with 117 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Belgrade and 37 more. Often billed alongside Jamie Jones, Marco Faraone and Ben Hemsley. Next up: Oxford Art Factory, Sydney on Fri 9 Oct.
+Alan Fitzpatrick is a techno and house artist based in United Kingdom, with 117 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Belgrade and 37 more. Often billed alongside Jamie Jones, Marco Faraone and Ben Hemsley. Next up: The Night Cat, Melbourne on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Oxford Art Factory | Sydney |
 | Sat, 10 Oct 2026 | The Night Cat | Melbourne |
 | Fri, 16 Oct 2026 | The Prince Consort | Brisbane |
 | Fri, 16 Oct 2026 | Arts Factory Garden Bar | Byron-bay |
@@ -22,6 +21,7 @@ Alan Fitzpatrick is a techno and house artist based in United Kingdom, with 117 
 
 ## Recently played
 
+- Oxford Art Factory, Sydney · Fri, 9 Oct 2026
 - The Glove That Fits, London · Sun, 4 Oct 2026
 - TBA - BBBANK WILDPARK , Karlsruhe · Sat, 3 Oct 2026
 - [UNVRS], Ibiza · Sun, 27 Sept 2026
@@ -29,10 +29,9 @@ Alan Fitzpatrick is a techno and house artist based in United Kingdom, with 117 
 - Amnesia Ibiza, Ibiza · Mon, 7 Sept 2026
 - Strijkviertel, Utrecht · Sat, 5 Sept 2026
 - [UNVRS], Ibiza · Wed, 26 Aug 2026
-- Amnesia Ibiza, Ibiza · Sun, 16 Aug 2026
 
 ## Shares bills with
 
 Jamie Jones, Marco Faraone, Ben Hemsley
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alanfitzpatrick/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alanfitzpatrick/)*

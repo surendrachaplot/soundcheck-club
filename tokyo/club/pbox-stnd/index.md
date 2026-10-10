@@ -1,6 +1,6 @@
 # Pbox Stnd
 
-Pbox Stnd is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. The next is "FROM DUSK TILL DISCO" on Fri, 16 Oct 2026.
+Pbox Stnd is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. The next is "FROM DUSK TILL DISCO" on Fri, 16 Oct 2026.
 
 Pbox Stnd is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including SKNHDZ and YouForgot. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Pbox Stnd is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with l
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | FROM DUSK TILL DISCO | SKNHDZ, YouForgot |
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/pbox-stnd/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/pbox-stnd/)*

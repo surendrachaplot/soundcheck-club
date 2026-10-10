@@ -1,14 +1,14 @@
 # Laura Vargas
 
-Laura Vargas is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Secret Location, Berlin on Sat, 24 Oct 2026.
+Laura Vargas is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA, Berlin on Sat, 24 Oct 2026.
 
-Laura Vargas is a bass and electronica artist, with 16 gigs on soundcheck across Berlin, Leipzig and Munich. Often billed alongside Vargas, kimbwazo and DJ Plead. Next up: TBA - Secret Location, Berlin on Sat 24 Oct.
+Laura Vargas is an electronica and experimental artist, with 16 gigs on soundcheck across Berlin, Leipzig and Munich. Often billed alongside Vargas, kimbwazo and DJ Plead. Next up: TBA, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | TBA - Secret Location | Berlin |
+| Sat, 24 Oct 2026 | TBA | Berlin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Laura Vargas is a bass and electronica artist, with 16 gigs on soundcheck across
 
 Vargas, kimbwazo, DJ Plead
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauravargas/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauravargas/)*

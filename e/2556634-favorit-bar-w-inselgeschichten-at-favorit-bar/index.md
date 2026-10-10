@@ -1,10 +1,10 @@
 # Favorit Bar w/ Inselgeschichten at Favorit Bar
 
-Favorit Bar w/ Inselgeschichten on Tue 13 Oct, Munich. Experimental and Electronica. See the line-up on soundcheck.
+Favorit Bar w/ Inselgeschichten on Mon 12 Oct, Munich. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Tue, 13 Oct 2026 |
+| Date | Mon, 12 Oct 2026 |
 | Venue | Favorit Bar |
 | City | Munich |
 

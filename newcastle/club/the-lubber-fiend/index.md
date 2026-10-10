@@ -1,14 +1,13 @@
 # The Lubber Fiend
 
-The Lubber Fiend is a music venue in Newcastle with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Slack's 5th Birthday with DJ Marcelle" on Fri, 9 Oct 2026.
+The Lubber Fiend is a music venue in Newcastle with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "even keel with precinct: Al Bradley & Steve Lipscombe" on Sat, 10 Oct 2026.
 
-The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 9 upcoming gigs, with line-ups including Al Bradley, Budino, Bunney and DJ Marcelle and 2 more. See dates, start times and who's playing. 81 Blandford St., Newcastle upon Tyne NE1 3PZ.
+The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 8 upcoming gigs, with line-ups including Al Bradley, Budino, Bunney and Elijah Minnelli and 2 more. See dates, start times and who's playing. 81 Blandford St., Newcastle upon Tyne NE1 3PZ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Slack's 5th Birthday with DJ Marcelle | DJ Marcelle, Jon Cornbill |
 | Sat, 10 Oct 2026 | even keel with precinct: Al Bradley & Steve Lipscombe | Al Bradley |
 | Sat, 24 Oct 2026 | Wynding Floor: Katiusha w' Two French Tek Lads & Sheep Paralysis (live) | Katiusha |
 | Fri, 30 Oct 2026 | PULSE 008 // DYKES OF THE DEAD | musican't |
@@ -22,4 +21,4 @@ The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 9 upcoming 
 
 81 Blandford St., Newcastle upon Tyne NE1 3PZ, Newcastle
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-lubber-fiend/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-lubber-fiend/)*

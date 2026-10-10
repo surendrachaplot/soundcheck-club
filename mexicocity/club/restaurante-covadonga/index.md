@@ -1,6 +1,6 @@
 # Restaurante Covadonga
 
-Restaurante Covadonga is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. The next is "Café de Nadie Aniversario Vol. V: Noche de Brujas" on Sat, 31 Oct 2026.
+Restaurante Covadonga is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. The next is "Café de Nadie Aniversario Vol. V: Noche de Brujas" on Sat, 31 Oct 2026.
 
 Restaurante Covadonga is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including BILLY, Gallo, Love Language and Pablo Miya and 2 more. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Restaurante Covadonga is a music venue in Mexico City listed on soundcheck. 1 up
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Café de Nadie Aniversario Vol. V: Noche de Brujas | BILLY, Gallo, Love Language, Pablo Miya, Ritmonzón, Tom Bolas |
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/restaurante-covadonga/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/restaurante-covadonga/)*

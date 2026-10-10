@@ -1,6 +1,6 @@
 # KPODKPOD
 
-KPODKPOD is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Bar Temp., Bangkok on Sat, 10 Oct 2026.
+KPODKPOD is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Bar Temp., Bangkok on Sat, 10 Oct 2026.
 
 KPODKPOD is a house and techno artist based in Thailand, with 34 gigs on soundcheck across Bangkok, Seoul and Tokyo. Often billed alongside KWH (DE), DJ Krit Morton and Elaheh. Next up: Bar Temp., Bangkok on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ KPODKPOD is a house and techno artist based in Thailand, with 34 gigs on soundch
 
 KWH (DE), DJ Krit Morton, Elaheh
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kpodkpod/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kpodkpod/)*

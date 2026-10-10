@@ -1,6 +1,6 @@
 # PARAMIDA
 
-PARAMIDA is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Invisible Wind Factory, Liverpool on Sat, 10 Oct 2026.
+PARAMIDA is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Invisible Wind Factory, Liverpool on Sat, 10 Oct 2026.
 
 PARAMIDA is a house and techno artist based in Germany, with 262 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 51 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: Invisible Wind Factory, Liverpool on Sat 10 Oct.
 
@@ -34,4 +34,4 @@ PARAMIDA is a house and techno artist based in Germany, with 262 gigs on soundch
 
 Alex Kassian, Ryan Elliott, tINI
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*

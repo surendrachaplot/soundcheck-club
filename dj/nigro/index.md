@@ -1,6 +1,6 @@
 # Nigro
 
-Nigro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Switch Bar, Barcelona on Thu, 29 Oct 2026.
+Nigro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Switch Bar, Barcelona on Thu, 29 Oct 2026.
 
 Nigro is a house and techno artist, with 9 gigs on soundcheck across Barcelona, Munich and Sao Paulo. Often billed alongside Villaça, Galvin and Renato Cohen. Next up: Switch Bar, Barcelona on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Nigro is a house and techno artist, with 9 gigs on soundcheck across Barcelona, 
 
 Villaça, Galvin, Renato Cohen
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nigro/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nigro/)*

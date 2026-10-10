@@ -1,6 +1,6 @@
 # Noel Holler
 
-Noel Holler is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 7 Nov 2026.
+Noel Holler is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 7 Nov 2026.
 
 Noel Holler is a house and electronica artist based in Germany, with 35 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 7 more. Often billed alongside Alle Farben, BOVSKI and Coone. Next up: Uebel & Gefährlich, Hamburg on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Noel Holler is a house and electronica artist based in Germany, with 35 gigs on 
 
 Alle Farben, BOVSKI, Coone
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noelholler/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noelholler/)*

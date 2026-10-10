@@ -1,6 +1,6 @@
 # bradeazy
 
-bradeazy is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Night We Met, Nashville on Fri, 16 Oct 2026.
+bradeazy is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Night We Met, Nashville on Fri, 16 Oct 2026.
 
 bradeazy is a tech house and house artist based in United States of America, with 38 gigs on soundcheck across Austin, Barcelona, Boston and Brisbane and 19 more. Often billed alongside Agents Of Time, Eelke Kleijn and Innellea. Next up: Night We Met, Nashville on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ bradeazy is a tech house and house artist based in United States of America, wit
 
 Agents Of Time, Eelke Kleijn, Innellea
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bradeazy/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bradeazy/)*

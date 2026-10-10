@@ -1,6 +1,6 @@
 # HALLOWEEN SHELTER RAVE 2026 at TBA - SHELTER 22 - Junkerstrasse - MEMMINGERBERG 
 
-HALLOWEEN SHELTER RAVE 2026 at TBA - SHELTER 22 - Junkerstrasse - MEMMINGERBERG  on Sat 31 Oct, Bavaria. 4 artists: KIM AHLF, Marika Rossa, Matthias Olck and ZEUZ. See the line-up on soundcheck.
+HALLOWEEN SHELTER RAVE 2026 at TBA - SHELTER 22 - Junkerstrasse - MEMMINGERBERG  on Sat 31 Oct, Bavaria. 5 artists: KIM AHLF, Marika Rossa, Matthias Olck and POLTERGST and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ HALLOWEEN SHELTER RAVE 2026 at TBA - SHELTER 22 - Junkerstrasse - MEMMINGERBERG 
 - KIM AHLF
 - Marika Rossa
 - Matthias Olck
+- POLTERGST
 - ZEUZ
 
 *Source: [soundcheck](https://soundcheck.club/e/2536499-halloween-shelter-rave-2026-at-tba-shelter-22-junkerstrasse/)*

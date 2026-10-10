@@ -1,6 +1,6 @@
-# HEISSS x 31Hertz [Disguised • Juri Heidemann • Kim She • Aligatou • Arbo & Neurone • Ochenne] at Karmen Camina
+# HEISSS x 31Hertz [Disguised • Juri Heidemann • Kim She • Aligatou • Arbo • Neurone • Ochenne] at Karmen Camina
 
-HEISSS x 31Hertz [Disguised • Juri Heidemann • Kim She • Aligatou • Arbo & Neurone • Ochenne] at Karmen Camina on Sat 28 Nov, Strasbourg. 4 artists: Arbo, Disguised, Juri Heidemann and Kim She. Techno and Ambient. See the line-up on soundcheck.
+HEISSS x 31Hertz [Disguised • Juri Heidemann • Kim She • Aligatou • Arbo • Neurone • Ochenne] at Karmen Camina on Sat 28 Nov, Strasbourg. 4 artists: Arbo, Disguised, Juri Heidemann and Kim She. Techno and Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Murphy (DE)
 
-Murphy (DE) is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Zona Esmeralda, Parque de los Ciervos, Estado-de-m-xico on Sat, 10 Oct 2026.
+Murphy (DE) is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Zona Esmeralda, Parque de los Ciervos, Estado-de-m-xico on Sat, 10 Oct 2026.
 
 Murphy (DE) is an electronic artist, with 15 gigs on soundcheck across Berlin, Estado De M Xico and Hamburg. Often billed alongside Najeh, Dizzy & Lance and ATTA (GER). Next up: Zona Esmeralda, Parque de los Ciervos, Estado De M Xico on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Murphy (DE) is an electronic artist, with 15 gigs on soundcheck across Berlin, E
 
 Najeh, Dizzy & Lance, ATTA (GER)
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/murphyde/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/murphyde/)*

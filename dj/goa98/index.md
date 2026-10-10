@@ -1,6 +1,6 @@
 # Goa'98
 
-Goa'98 is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Boho House Wynwood, Miami on Sat, 10 Oct 2026.
+Goa'98 is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Boho House Wynwood, Miami on Sat, 10 Oct 2026.
 
 Goa'98 is a progressive house and techno artist based in United States of America, with 21 gigs on soundcheck across Miami and Philadelphia. Often billed alongside Kobza, Conosur and Maddalena. Next up: Boho House Wynwood, Miami on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Goa'98 is a progressive house and techno artist based in United States of Americ
 
 Kobza, Conosur, Maddalena
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goa98/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goa98/)*

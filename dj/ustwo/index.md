@@ -1,6 +1,6 @@
 # Us Two
 
-Us Two is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Weekend, Berlin on Sat, 10 Oct 2026.
+Us Two is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Weekend, Berlin on Sat, 10 Oct 2026.
 
 Us Two is a tech house and house artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 15 more. Often billed alongside Ilario Alicante, Max Dean and East End Dubs. Next up: Weekend, Berlin on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Us Two is a tech house and house artist based in United Kingdom, with 64 gigs on
 
 Ilario Alicante, Max Dean, East End Dubs
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ustwo/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ustwo/)*

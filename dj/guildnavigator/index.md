@@ -1,6 +1,6 @@
 # Guild Navigator
 
-Guild Navigator is a Trance and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Secret Location Oslo, Oslo on Sat, 10 Oct 2026.
+Guild Navigator is a Trance and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Secret Location Oslo, Oslo on Sat, 10 Oct 2026.
 
 Guild Navigator is a trance and experimental artist based in Norway, with 8 gigs on soundcheck across Amsterdam and Oslo. Often billed alongside Komet99, Anémi and Brix. Next up: Secret Location Oslo, Oslo on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Guild Navigator is a trance and experimental artist based in Norway, with 8 gigs
 
 Komet99, Anémi, Brix
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guildnavigator/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guildnavigator/)*

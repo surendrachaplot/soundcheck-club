@@ -1,6 +1,6 @@
 # swim
 
-swim is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+swim is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
 swim is a techno and house artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Austin, Brussels and Chicago and 9 more. Often billed alongside Bella Claxton, DJ Heartstring and Faster Horses. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ swim is a techno and house artist based in United Kingdom, with 23 gigs on sound
 
 Bella Claxton, DJ Heartstring, Faster Horses
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swim/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swim/)*

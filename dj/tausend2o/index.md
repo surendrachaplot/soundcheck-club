@@ -1,19 +1,19 @@
 # TAUSEND2Ø
 
-TAUSEND2Ø is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Loft, Vienna on Fri, 9 Oct 2026.
+TAUSEND2Ø is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at PRST, Vienna on Sat, 17 Oct 2026.
 
-TAUSEND2Ø is a techno and trance artist based in Austria, with 8 gigs on soundcheck across Vienna. Often billed alongside Anna Ullrich, WO.IZZY and MARØ. Next up: The Loft, Vienna on Fri 9 Oct.
+TAUSEND2Ø is a techno and trance artist based in Austria, with 8 gigs on soundcheck across Vienna. Often billed alongside Anna Ullrich, WO.IZZY and MARØ. Next up: PRST, Vienna on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | The Loft | Vienna |
 | Sat, 17 Oct 2026 | PRST | Vienna |
 | Sun, 25 Oct 2026 | Das Werk | Vienna |
 
 ## Recently played
 
+- The Loft, Vienna · Fri, 9 Oct 2026
 - Gleis19, Vienna · Fri, 28 Aug 2026
 - Das Werk, Vienna · Sat, 22 Aug 2026
 - Burgtheater, Vienna · Sat, 11 Jul 2026
@@ -24,4 +24,4 @@ TAUSEND2Ø is a techno and trance artist based in Austria, with 8 gigs on soundc
 
 Anna Ullrich, WO.IZZY, MARØ (2)
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tausend2o/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tausend2o/)*

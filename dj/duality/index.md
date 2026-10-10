@@ -1,14 +1,15 @@
 # Duality
 
-Duality is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Faust, Seoul on Sat, 10 Oct 2026.
+Duality is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Faust, Seoul on Sat, 10 Oct 2026.
 
-Duality is a techno and house artist based in Philippines, with 38 gigs on soundcheck across Bangkok, Berlin, Bristol and Geneva and 10 more. Often billed alongside SIGNAL (JP), Mars Parck and SINZIN. Next up: Faust, Seoul on Sat 10 Oct.
+Duality is a techno and house artist based in Philippines, with 39 gigs on soundcheck across Bangkok, Berlin, Bristol and Geneva and 10 more. Often billed alongside SIGNAL (JP), Mars Parck and SINZIN. Next up: Faust, Seoul on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Faust | Seoul |
+| Wed, 4 Nov 2026 | or | Tokyo |
 | Sat, 14 Nov 2026 | Apotheka | Manila |
 
 ## Recently played
@@ -26,4 +27,4 @@ Duality is a techno and house artist based in Philippines, with 38 gigs on sound
 
 SIGNAL (JP), Mars Parck, SINZIN
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duality/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duality/)*

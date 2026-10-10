@@ -1,14 +1,13 @@
 # Shannen SP
 
-Shannen SP is a Amapiano and Club artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Hotel Forum, Krakow on Fri, 9 Oct 2026.
+Shannen SP is a Amapiano and Club artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Ormside Projects, London on Sat, 10 Oct 2026.
 
-Shannen SP is an amapiano and club artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 19 more. Often billed alongside Bok Bok, Ikonika and Nico Adomako. Next up: Hotel Forum, Krakow on Fri 9 Oct.
+Shannen SP is an amapiano and club artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 19 more. Often billed alongside Bok Bok, Ikonika and Nico Adomako. Next up: Ormside Projects, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Hotel Forum | Krakow |
 | Sat, 10 Oct 2026 | Ormside Projects | London |
 | Fri, 23 Oct 2026 | Dabadaba | North |
 | Sat, 24 Oct 2026 | El Pumarejo Barcelona | Barcelona |
@@ -16,6 +15,7 @@ Shannen SP is an amapiano and club artist based in United Kingdom, with 63 gigs 
 
 ## Recently played
 
+- Hotel Forum, Krakow · Fri, 9 Oct 2026
 - Ääniwalli, Helsinki · Sat, 26 Sept 2026
 - M.O.T, London · Sat, 29 Aug 2026
 - The Carpet Shop, London · Fri, 14 Aug 2026
@@ -23,10 +23,9 @@ Shannen SP is an amapiano and club artist based in United Kingdom, with 63 gigs 
 - OHM, Berlin · Fri, 26 Jun 2026
 - Badaboum, Paris · Sun, 21 Jun 2026
 - Peckham Rye Park, London · Fri, 22 May 2026
-- Palais, London · Fri, 22 May 2026
 
 ## Shares bills with
 
 Bok Bok, Ikonika, Nico Adomako
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shannensp/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shannensp/)*

@@ -1,6 +1,6 @@
 # Xena
 
-Xena is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Modeci, Seoul on Sat, 10 Oct 2026.
+Xena is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Modeci, Seoul on Sat, 10 Oct 2026.
 
 Xena is a club and house artist based in Denmark, with 15 gigs on soundcheck across Berlin and Seoul. Often billed alongside Peppe Way, Zion and Enzo Cenci. Next up: Modeci, Seoul on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Xena is a club and house artist based in Denmark, with 15 gigs on soundcheck acr
 
 Peppe Way, Zion, Enzo Cenci
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xena/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xena/)*

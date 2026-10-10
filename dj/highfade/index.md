@@ -1,15 +1,13 @@
 # High Fade
 
-High Fade is a Funk / Soul and Disco artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA -  SNEAKYS 7pm, Edinburgh on Thu, 8 Oct 2026.
+High Fade is a Funk / Soul and Disco artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Location Announced on the day. Join the Fade Fam chat for details. , Bristol on Thu, 5 Nov 2026.
 
-High Fade is a funk / soul and disco artist based in United Kingdom, with 25 gigs on soundcheck across Barcelona, Brighton, Bristol and Dublin and 8 more. Often billed alongside DJ Football, Dj Schnake and Eloi. Next up: TBA -  SNEAKYS 7pm, Edinburgh on Thu 8 Oct.
+High Fade is a funk / soul and disco artist based in United Kingdom, with 25 gigs on soundcheck across Barcelona, Brighton, Bristol and Dublin and 8 more. Often billed alongside DJ Football, Dj Schnake and Eloi. Next up: TBA - Location Announced on the day. Join the Fade Fam chat for details. , Bristol on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | TBA -  SNEAKYS 7pm | Edinburgh |
-| Fri, 9 Oct 2026 | Stramash | Edinburgh |
 | Thu, 5 Nov 2026 | TBA - Location Announced on the day. Join the Fade Fam chat for details.  | Bristol |
 | Sat, 28 Nov 2026 | Oran Mor | Glasgow |
 | Sun, 29 Nov 2026 | TBA - Location Announced on the day. Join the Fade Fam chat for details.  | Glasgow |
@@ -18,6 +16,7 @@ High Fade is a funk / soul and disco artist based in United Kingdom, with 25 gig
 
 ## Recently played
 
+- Stramash, Edinburgh · Fri, 9 Oct 2026
 - TBA -  SNEAKYS 7pm, Edinburgh · Thu, 8 Oct 2026
 - UNLOCKED, London · Sat, 3 Oct 2026
 - The Hope and Ruin, Brighton · Wed, 21 Jan 2026
@@ -25,10 +24,9 @@ High Fade is a funk / soul and disco artist based in United Kingdom, with 25 gig
 - Jamboree Dance Club, Barcelona · Fri, 30 May 2025
 - Sala El Sol, Madrid · Wed, 28 May 2025
 - The Sultan Room, New York City · Sat, 22 Feb 2025
-- The Sugar Club, Dublin · Tue, 21 Jan 2025
 
 ## Shares bills with
 
 DJ Football, Dj Schnake, Eloi
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/highfade/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/highfade/)*

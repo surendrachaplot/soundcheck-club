@@ -1,6 +1,6 @@
 # SUMMER DANCE X Rinse FM - SYD - Liberty Hall COURTS at Liberty Hall
 
-SUMMER DANCE X Rinse FM - SYD - Liberty Hall COURTS on Sat 9 Jan, Sydney. 8 artists: Caucasian Opportunities, Jane Decks, JME and Max Cherry and 4 more. See the line-up on soundcheck.
+SUMMER DANCE X Rinse FM - SYD - Liberty Hall COURTS on Sat 9 Jan, Sydney. 8 artists: Caucasian Opportunities, Jane Decks, JME and Max Cherry and 4 more. Garage and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

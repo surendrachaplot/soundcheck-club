@@ -1,6 +1,6 @@
 # Mattei & Omich
 
-Mattei & Omich is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Bar Twenty Two, Amsterdam on Thu, 22 Oct 2026.
+Mattei & Omich is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Bar Twenty Two, Amsterdam on Thu, 22 Oct 2026.
 
 Mattei & Omich are a house and club duo based in Italy, with 3 gigs on soundcheck across Amsterdam. Often billed alongside Angelo Ferreri, Almared and Black Legend. Next up: Bar Twenty Two, Amsterdam on Thu 22 Oct.
 
@@ -16,4 +16,4 @@ Mattei & Omich are a house and club duo based in Italy, with 3 gigs on soundchec
 
 Angelo Ferreri, Almared, Black Legend
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matteiomich-it/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matteiomich-it/)*

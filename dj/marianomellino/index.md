@@ -1,15 +1,13 @@
 # Mariano Mellino
 
-Mariano Mellino is a Progressive House and Techno artist with 18 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Mothership, Auckland on Fri, 9 Oct 2026.
+Mariano Mellino is a Progressive House and Techno artist with 16 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA, Melbourne on Sat, 10 Oct 2026.
 
-Mariano Mellino is a progressive house and techno artist based in Argentina, with 89 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Buenos Aires and 25 more. Often billed alongside Guy J, Colyn and Henry Saiz. Next up: The Mothership, Auckland on Fri 9 Oct.
+Mariano Mellino is a progressive house and techno artist based in Argentina, with 89 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Buenos Aires and 25 more. Often billed alongside Guy J, Colyn and Henry Saiz. Next up: TBA, Melbourne on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | The Mothership | Auckland |
-| Fri, 9 Oct 2026 | The Mothership | Auckland |
 | Sat, 10 Oct 2026 | TBA | Melbourne |
 | Sat, 10 Oct 2026 | The Northern | Byron-bay |
 | Sun, 11 Oct 2026 | The River | Perth |
@@ -20,20 +18,22 @@ Mariano Mellino is a progressive house and techno artist based in Argentina, wit
 | Sun, 18 Oct 2026 | Seaseaclub Barcelona | Barcelona |
 | Fri, 23 Oct 2026 | Pacific Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Pacific Amsterdam | Amsterdam |
+| Sun, 25 Oct 2026 | Radisson Red Sky Bar | Glasgow |
+| Sun, 25 Oct 2026 | Bridge Gardens | Glasgow |
 
 ## Recently played
 
+- The Mothership, Auckland · Fri, 9 Oct 2026
+- The Mothership, Auckland · Fri, 9 Oct 2026
 - TBA, Sydney · Sun, 4 Oct 2026
 - Liberty Hall, Sydney · Sun, 4 Oct 2026
 - Howler, Melbourne · Sat, 3 Oct 2026
 - TBA - Sunshine Coast, South-australia · Fri, 2 Oct 2026
 - Aussie World, Queensland · Fri, 2 Oct 2026
 - TBA, Mexico City · Sat, 26 Sept 2026
-- Pasaje America, Mexico City · Sat, 26 Sept 2026
-- Bridge Gardens, Glasgow · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Guy J, Colyn, Henry Saiz
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marianomellino/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marianomellino/)*

@@ -1,6 +1,6 @@
 # Tini Gessler
 
-Tini Gessler is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Lurin live, Peru on Sat, 10 Oct 2026.
+Tini Gessler is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Lurin live, Peru on Sat, 10 Oct 2026.
 
 Tini Gessler is a tech house and house artist based in Germany, with 135 gigs on soundcheck across Bali, Barcelona, Berlin and Boston and 30 more. Often billed alongside Ilario Alicante, Chelina Manuhutu and Paco Osuna. Next up: TBA - Lurin live, Peru on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Tini Gessler is a tech house and house artist based in Germany, with 135 gigs on
 
 Ilario Alicante, Chelina Manuhutu, Paco Osuna
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinigessler/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinigessler/)*

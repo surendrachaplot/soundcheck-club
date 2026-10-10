@@ -1,6 +1,6 @@
 # Alif Hilal
 
-Alif Hilal is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Østre, Bergen on Thu, 29 Oct 2026.
+Alif Hilal is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Østre, Bergen on Thu, 29 Oct 2026.
 
 Alif Hilal is an experimental and techno artist based in United States of America, with 38 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bergen and 19 more. Often billed alongside Carmen Villain, Fergus Jones and Amelia Holt. Next up: Østre, Bergen on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Alif Hilal is an experimental and techno artist based in United States of Americ
 
 Carmen Villain, Fergus Jones, Amelia Holt
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyrapramuk/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyrapramuk/)*

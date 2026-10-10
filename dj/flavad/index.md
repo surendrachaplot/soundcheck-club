@@ -1,13 +1,15 @@
 # Flava D
 
-Flava D is a Drum & Bass and Bass artist with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
+Flava D is a Drum & Bass and Bass artist with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Snapdragon Stadium, Los Angeles on Sat, 10 Oct 2026.
 
-Flava D is a drum & bass and bass artist based in United Kingdom, with 106 gigs on soundcheck across Amsterdam, Auckland, Austin and Berlin and 34 more. Often billed alongside P Money, Whiney and Andy C. Next up: DRUMSHEDS, London on Sat 17 Oct.
+Flava D is a drum & bass and bass artist based in United Kingdom, with 108 gigs on soundcheck across Amsterdam, Auckland, Austin and Berlin and 34 more. Often billed alongside P Money, Whiney and Andy C. Next up: Snapdragon Stadium, Los Angeles on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Snapdragon Stadium | Los Angeles |
+| Sun, 11 Oct 2026 | Pechanga Arena San Diego | Los Angeles |
 | Sat, 17 Oct 2026 | DRUMSHEDS | London |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
@@ -34,4 +36,4 @@ Flava D is a drum & bass and bass artist based in United Kingdom, with 106 gigs 
 
 P Money, Whiney, Andy C
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flavad/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flavad/)*

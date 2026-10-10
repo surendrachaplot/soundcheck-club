@@ -1,6 +1,6 @@
 # Max Cooper
 
-Max Cooper is a Techno and Electronica artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+Max Cooper is a Techno and Electronica artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 Max Cooper is a techno and electronica artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 49 more. Often billed alongside Actress, Blawan and Logic1000. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -18,6 +18,7 @@ Max Cooper is a techno and electronica artist based in United Kingdom, with 128 
 
 ## Recently played
 
+- TBA - Multiple Venues across Sheffield & Rotherham, North · Fri, 9 Oct 2026
 - fabric, London · Sat, 3 Oct 2026
 - Button Factory, Dublin · Sat, 26 Sept 2026
 - Vrachon Theater, Athens · Sun, 20 Sept 2026
@@ -25,10 +26,9 @@ Max Cooper is a techno and electronica artist based in United Kingdom, with 128 
 - Else, Berlin · Fri, 4 Sept 2026
 - Haus der Visionäre, Berlin · Fri, 24 Jul 2026
 - Maravilla Studios, Mexico City · Sun, 19 Jul 2026
-- Belasco Theater, Los Angeles · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Actress, Blawan, Logic1000
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*

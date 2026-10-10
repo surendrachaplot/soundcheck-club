@@ -1,6 +1,6 @@
 # Satoshi Tomiie
 
-Satoshi Tomiie is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 16 Oct 2026.
+Satoshi Tomiie is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 16 Oct 2026.
 
 Satoshi Tomiie is a house and techno artist based in Japan, with 129 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 39 more. Often billed alongside Doudou MD, Tomoki Tamura and Cabanne. Next up: Gallery 1986, Vilnius on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ Satoshi Tomiie is a house and techno artist based in Japan, with 129 gigs on sou
 
 Doudou MD, Tomoki Tamura, Cabanne
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*

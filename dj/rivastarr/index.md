@@ -1,6 +1,6 @@
 # Riva Starr
 
-Riva Starr is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
+Riva Starr is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
 
 Riva Starr is a house and tech house artist based in United Kingdom, with 80 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 25 more. Often billed alongside Lowsteppa, Armand Van Helden and Paige Tomlinson. Next up: Basement (Amsterdam), Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Riva Starr is a house and tech house artist based in United Kingdom, with 80 gig
 
 Lowsteppa, Armand Van Helden, Paige Tomlinson
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivastarr/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivastarr/)*

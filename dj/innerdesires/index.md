@@ -1,6 +1,6 @@
 # Inner Desires
 
-Inner Desires is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Sala El Tren, South on Sat, 10 Oct 2026.
+Inner Desires is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Sala El Tren, South on Sat, 10 Oct 2026.
 
 Inner Desires is a techno and dub techno artist, with 17 gigs on soundcheck across Barcelona and South. Often billed alongside Alex Lauks, Røpe and Adriano.. Next up: Sala El Tren, South on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Inner Desires is a techno and dub techno artist, with 17 gigs on soundcheck acro
 
 Alex Lauks, Røpe, Adriano.
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innerdesires/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innerdesires/)*

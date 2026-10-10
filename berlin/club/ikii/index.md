@@ -1,14 +1,13 @@
 # Ikii
 
-Ikii is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Banoffee Pies presents: Music, Medicine, Antidote with DJ Autumn & How Du (live)" on Fri, 9 Oct 2026.
+Ikii is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "FLINTA Event Production Workshop: Softer, Better, Faster, Stronger" on Tue, 13 Oct 2026.
 
-Ikii is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including aantz, Alejandro Mosso, Aleksi Perälä and cadeu and 2 more. See dates, start times and who's playing. Herrfurthplatz 8, 12049 Berlin, Germany.
+Ikii is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including aantz, Alejandro Mosso, Aleksi Perälä and cadeu and 2 more. See dates, start times and who's playing. Herrfurthplatz 8, 12049 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Banoffee Pies presents: Music, Medicine, Antidote with DJ Autumn & How Du (live) | DJ Autumn |
 | Tue, 13 Oct 2026 | FLINTA Event Production Workshop: Softer, Better, Faster, Stronger | N ska, ZE:NA |
 | Thu, 15 Oct 2026 | Aleksi Perälä Fireside Chat XD Network x ikii  | Aleksi Perälä, Kyle Toole |
 | Wed, 21 Oct 2026 | Atmosphères vinyl and food pop-up | O/Y, OIIA, aantz |
@@ -19,4 +18,4 @@ Ikii is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line
 
 Herrfurthplatz 8, 12049 Berlin, Germany, Berlin
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*

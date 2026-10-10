@@ -1,6 +1,6 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 24 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "OPM.FM presents Original Pirate Material" on Sat, 10 Oct 2026.
+Starlane Pizza Bar is a music venue in London with 24 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "OPM.FM presents Original Pirate Material" on Sat, 10 Oct 2026.
 
 Starlane Pizza Bar is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including 3 Minds, ADMNTi, Aerofunk and Alfie and 2 more. See dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
@@ -23,4 +23,4 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 24 upcoming 
 
 12 Cody Road, E16 4SR London, United Kingdom, London
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*

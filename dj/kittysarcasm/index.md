@@ -1,6 +1,6 @@
 # Kitty Sarcasm
 
-Kitty Sarcasm is a Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at OCZKI, Warsaw on Sat, 31 Oct 2026.
+Kitty Sarcasm is a Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at OCZKI, Warsaw on Sat, 31 Oct 2026.
 
 Kitty Sarcasm is a bass and experimental artist based in Poland, with 39 gigs on soundcheck across Krakow, Prague and Warsaw. Often billed alongside Vicky Nasty, anymati and PLATTER. Next up: OCZKI, Warsaw on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Kitty Sarcasm is a bass and experimental artist based in Poland, with 39 gigs on
 
 Vicky Nasty, anymati, PLATTER
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kittysarcasm/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kittysarcasm/)*

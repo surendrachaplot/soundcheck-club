@@ -1,6 +1,6 @@
 # Leona
 
-Leona is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Renate, Berlin on Sat, 28 Nov 2026.
+Leona is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Renate, Berlin on Sat, 28 Nov 2026.
 
 Leona is a house and techno artist, with 10 gigs on soundcheck across Berlin, Geneva, Lisbon and Nantes and 2 more. Often billed alongside Chima Isaaro, Aalia Iraki and Acidfinky. Next up: Renate, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Leona is a house and techno artist, with 10 gigs on soundcheck across Berlin, Ge
 
 Chima Isaaro, Aalia Iraki, Acidfinky
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leona-1/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leona-1/)*

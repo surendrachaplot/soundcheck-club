@@ -1,6 +1,6 @@
 # Chris Imler
 
-Chris Imler is a Experimental and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Panke, Berlin on Sat, 10 Oct 2026.
+Chris Imler is a Experimental and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Panke, Berlin on Sat, 10 Oct 2026.
 
 Chris Imler is an experimental and post-punk artist based in Germany, with 23 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 9 more. Often billed alongside Menqui, Naomie Klaus and Diamin. Next up: Panke, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Chris Imler is an experimental and post-punk artist based in Germany, with 23 gi
 
 Menqui, Naomie Klaus, Diamin
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisimler/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisimler/)*

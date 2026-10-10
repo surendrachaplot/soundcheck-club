@@ -1,0 +1,27 @@
+# Svet
+
+Svet is a House and Gabber artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Bar A Bar, London on Fri, 30 Oct 2026.
+
+Svet is a house and gabber artist based in United Kingdom, with 8 gigs on soundcheck across Barcelona, Ibiza, London and New York City. Often billed alongside Ali RQ, Daniel del Rio and Piticu. Next up: Bar A Bar, London on Fri 30 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 30 Oct 2026 | Bar A Bar | London |
+
+## Recently played
+
+- Macarena Club, Barcelona · Sun, 1 Feb 2026
+- Elsewhere, New York City · Sat, 25 Oct 2025
+- Mood Ring, New York City · Fri, 22 Aug 2025
+- Alphaville, New York City · Sat, 24 May 2025
+- Bossa Nova Civic Club, New York City · Tue, 4 Mar 2025
+- Macarena Club, Barcelona · Wed, 18 Dec 2024
+- Mumak Tropical, Ibiza · Sun, 28 May 2023
+
+## Shares bills with
+
+Ali RQ, Daniel del Rio, Piticu
+
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svet/)*

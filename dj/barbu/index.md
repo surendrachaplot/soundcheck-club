@@ -1,6 +1,6 @@
 # Barbu
 
-Barbu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Nostro Spazio Titeica 85, Bucharest on Fri, 16 Oct 2026.
+Barbu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Nostro Spazio Titeica 85, Bucharest on Fri, 16 Oct 2026.
 
 Barbu is a house and techno artist, with 31 gigs on soundcheck across Bucharest and Lisbon. Often billed alongside Twodoor, Evan Baggs and Manata. Next up: TBA - Nostro Spazio Titeica 85, Bucharest on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Barbu is a house and techno artist, with 31 gigs on soundcheck across Bucharest 
 
 Twodoor, Evan Baggs, Manata
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barbu/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barbu/)*

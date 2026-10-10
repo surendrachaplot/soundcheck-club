@@ -1,6 +1,6 @@
 # St. David
 
-St. David is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - ECS Dogana (Catania), Sicily on Sun, 1 Nov 2026.
+St. David is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - ECS Dogana (Catania), Sicily on Sun, 1 Nov 2026.
 
 St. David is a house and techno artist based in Italy, with 18 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 8 more. Often billed alongside TSHA, Jamie Unknown and Papa Nugs. Next up: TBA - ECS Dogana (Catania), Sicily on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ St. David is a house and techno artist based in Italy, with 18 gigs on soundchec
 
 TSHA, Jamie Unknown, Papa Nugs
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stdavid/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stdavid/)*

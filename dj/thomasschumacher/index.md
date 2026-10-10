@@ -1,6 +1,6 @@
 # Thomas Schumacher
 
-Thomas Schumacher is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Kesselhaus Augsburg, Augsburg on Sat, 10 Oct 2026.
+Thomas Schumacher is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Kesselhaus Augsburg, Augsburg on Sat, 10 Oct 2026.
 
 Thomas Schumacher is a techno and house artist based in Germany, with 95 gigs on soundcheck across Amsterdam, Augsburg, Baden W Rttemberg and Barcelona and 33 more. Often billed alongside Anna Reusch, A.D.H.S. and Alex Stein. Next up: Kesselhaus Augsburg, Augsburg on Sat 10 Oct.
 
@@ -34,4 +34,4 @@ Thomas Schumacher is a techno and house artist based in Germany, with 95 gigs on
 
 Anna Reusch, A.D.H.S., Alex Stein
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasschumacher/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasschumacher/)*

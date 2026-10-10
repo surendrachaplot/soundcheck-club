@@ -1,0 +1,16 @@
+# SEARCHIN' at DJ Bar Bridge Shinjuku
+
+SEARCHIN' at DJ Bar Bridge Shinjuku on Fri 18 Dec, Tokyo. 2 artists: Dazzle Drums and Toshio Matsuura. Jazz. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 18 Dec 2026 |
+| Venue | DJ Bar Bridge Shinjuku |
+| City | Tokyo |
+
+## Line-up
+
+- Dazzle Drums
+- Toshio Matsuura
+
+*Source: [soundcheck](https://soundcheck.club/e/2557587-searchin-at-dj-bar-bridge-shinjuku/)*

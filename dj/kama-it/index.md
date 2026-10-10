@@ -1,6 +1,6 @@
 # KAMA
 
-KAMA is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Luka, Seoul on Sat, 10 Oct 2026.
+KAMA is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Luka, Seoul on Sat, 10 Oct 2026.
 
 KAMA is a techno and industrial artist based in Italy, with 19 gigs on soundcheck across Berlin, Frankfurt, Milan and Paris and 3 more. Often billed alongside Der Andere, Polytoxic and CiKi. Next up: Luka, Seoul on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ KAMA is a techno and industrial artist based in Italy, with 19 gigs on soundchec
 
 Der Andere, Polytoxic, CiKi
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kama-it/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kama-it/)*

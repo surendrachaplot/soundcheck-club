@@ -1,6 +1,6 @@
 # Mike Nasty
 
-Mike Nasty is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Soho Live, New York City on Sat, 10 Oct 2026.
+Mike Nasty is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Soho Live, New York City on Sat, 10 Oct 2026.
 
 Mike Nasty is a house and deep house artist based in United States of America, with 30 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Josh Hubi, Mari Ella and Roman Martinez. Next up: TBA - Soho Live, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Mike Nasty is a house and deep house artist based in United States of America, w
 
 Josh Hubi, Mari Ella, Roman Martinez
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikenasty/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikenasty/)*

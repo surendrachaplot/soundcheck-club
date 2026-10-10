@@ -1,14 +1,13 @@
 # Lil'Dave
 
-Lil'Dave is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Sekta Selekta, Krakow on Sat, 10 Oct 2026.
+Lil'Dave is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Fort Mokotów, Warsaw on Sat, 31 Oct 2026.
 
-Lil'Dave is a house and electro artist based in Germany, with 40 gigs on soundcheck across Barcelona, Berlin, Krakow and London and 1 more. Often billed alongside Nadezh No, Meke and Badalian. Next up: Sekta Selekta, Krakow on Sat 10 Oct.
+Lil'Dave is a house and electro artist based in Germany, with 40 gigs on soundcheck across Barcelona, Berlin, Krakow and London and 1 more. Often billed alongside Nadezh No, Meke and Badalian. Next up: Fort Mokotów, Warsaw on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Sekta Selekta | Krakow |
 | Sat, 31 Oct 2026 | Fort Mokotów | Warsaw |
 
 ## Recently played
@@ -26,4 +25,4 @@ Lil'Dave is a house and electro artist based in Germany, with 40 gigs on soundch
 
 Nadezh No, Meke, Badalian
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lildave/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lildave/)*

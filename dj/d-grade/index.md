@@ -1,6 +1,6 @@
 # D-Grade
 
-D-Grade is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Rugs*, Beijing on Sat, 10 Oct 2026.
+D-Grade is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Rugs*, Beijing on Sat, 10 Oct 2026.
 
 D-Grade is a techno and club artist based in Australia, with 58 gigs on soundcheck across Athens, Beijing, Melbourne and Shanghai and 3 more. Often billed alongside Paramat, LOIF and Moopie. Next up: Rugs*, Beijing on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ D-Grade is a techno and club artist based in Australia, with 58 gigs on soundche
 
 Paramat, LOIF, Moopie
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d-grade/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d-grade/)*

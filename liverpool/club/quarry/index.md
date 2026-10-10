@@ -1,14 +1,13 @@
 # Quarry
 
-Quarry is a music venue in Liverpool with 16 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Flora Yin-Wong + Jasmine Wood + Grey Streak + Bobby Ingham + LD b2b Roscoe Fox" on Fri, 9 Oct 2026.
+Quarry is a music venue in Liverpool with 15 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Mouth Wound (Bruscia Records, IT) + Guests" on Sun, 11 Oct 2026.
 
-Quarry is a music venue in Liverpool listed on soundcheck. 16 upcoming gigs, with line-ups including Flora Yin-Wong, Grey Streak, Hannah Holland and Heka and 2 more. See dates, start times and who's playing. 45 Hardman St, Liverpool L1 9AS.
+Quarry is a music venue in Liverpool listed on soundcheck. 15 upcoming gigs, with line-ups including Hannah Holland, Heka, Jacinta and Or:la and 2 more. See dates, start times and who's playing. 45 Hardman St, Liverpool L1 9AS.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Flora Yin-Wong + Jasmine Wood + Grey Streak + Bobby Ingham + LD b2b Roscoe Fox | Flora Yin-Wong, Grey Streak, Roscoe Fox |
 | Sun, 11 Oct 2026 | Mouth Wound (Bruscia Records, IT) + Guests |  |
 | Thu, 15 Oct 2026 | Makeshift Art Bar + Special Guests at Quarry |  |
 | Fri, 16 Oct 2026 | Non-Contrived presents: Resident DJs All Night (LAUNCH PARTY) |  |
@@ -18,9 +17,10 @@ Quarry is a music venue in Liverpool listed on soundcheck. 16 upcoming gigs, wit
 | Fri, 23 Oct 2026 | Ye Gods w/Zac Clowes |  |
 | Wed, 28 Oct 2026 | Out of Phase presents: Daytime TV |  |
 | Thu, 29 Oct 2026 | Nina Winder-Lind + Heka | Heka |
+| Fri, 30 Oct 2026 | Midnight Mass II: Scaler, Bonnacons of Doom & more | Quieting, Those Holy (2) |
 
 ## Address
 
 45 Hardman St, Liverpool L1 9AS, Liverpool
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/quarry/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/quarry/)*

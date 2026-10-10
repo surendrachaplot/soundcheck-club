@@ -1,6 +1,6 @@
 # OINIMOD HALLOWEEN - MANGA YOKAI at Loft Studios
 
-OINIMOD HALLOWEEN - MANGA YOKAI at Loft Studios on Fri 30 Oct, London. 4 artists: Aldonna, Nirvan, Squash and Subb-an. Techno and House. See the line-up on soundcheck.
+OINIMOD HALLOWEEN - MANGA YOKAI at Loft Studios on Fri 30 Oct, London. 5 artists: Aldonna, Nirvan, Sonus and Squash and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ OINIMOD HALLOWEEN - MANGA YOKAI at Loft Studios on Fri 30 Oct, London. 4 artists
 
 - Aldonna
 - Nirvan
+- Sonus
 - Squash
 - Subb-an
 

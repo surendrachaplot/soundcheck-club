@@ -1,6 +1,6 @@
 # Adine Frost
 
-Adine Frost is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Golden Gate, Berlin on Fri, 9 Oct 2026.
+Adine Frost is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Golden Gate, Berlin on Fri, 9 Oct 2026.
 
 Adine Frost is a house and experimental artist based in Germany, with 8 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Lenny Mailleau, Topper and Zuleta M. Next up: Golden Gate, Berlin on Fri 9 Oct.
 
@@ -12,6 +12,7 @@ Adine Frost is a house and experimental artist based in Germany, with 8 gigs on 
 
 ## Recently played
 
+- Golden Gate, Berlin · Fri, 9 Oct 2026
 - Golden Gate, Berlin · Sat, 1 Nov 2025
 - Generator Berlin Alexanderplatz, Berlin · Sat, 13 Sept 2025
 - Generator Berlin Alexanderplatz, Berlin · Sun, 13 Jul 2025
@@ -24,4 +25,4 @@ Adine Frost is a house and experimental artist based in Germany, with 8 gigs on 
 
 Lenny Mailleau, Topper, Zuleta M
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adinefrost/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adinefrost/)*

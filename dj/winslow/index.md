@@ -1,6 +1,6 @@
 # Winslow
 
-Winslow is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Rehab Tavern, Columbus on Sat, 10 Oct 2026.
+Winslow is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Rehab Tavern, Columbus on Sat, 10 Oct 2026.
 
 Winslow is a drum & bass and jungle artist based in United States of America, with 23 gigs on soundcheck across Boston, Bristol, Columbus and Edinburgh and 8 more. Often billed alongside imo-Lu, Bristol Luke and London Elektricity. Next up: Rehab Tavern, Columbus on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Winslow is a drum & bass and jungle artist based in United States of America, wi
 
 imo-Lu, Bristol Luke, London Elektricity
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/winslow/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/winslow/)*

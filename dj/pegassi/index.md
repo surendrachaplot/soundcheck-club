@@ -1,15 +1,13 @@
 # Pegassi
 
-Pegassi is a Techno and Trance artist with 15 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Gate Milano, Milan on Fri, 9 Oct 2026.
+Pegassi is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Escala25, Lisbon on Sat, 10 Oct 2026.
 
-Pegassi is a techno and trance artist based in Belgium, with 178 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 50 more. Often billed alongside Helena Lauwaert, Anetha and Benwal. Next up: Gate Milano, Milan on Fri 9 Oct.
+Pegassi is a techno and trance artist based in Belgium, with 178 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 50 more. Often billed alongside Helena Lauwaert, Anetha and Benwal. Next up: Escala25, Lisbon on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Gate Milano | Milan |
-| Fri, 9 Oct 2026 | Gate Milano | Milan |
 | Sat, 10 Oct 2026 | Escala25 | Lisbon |
 | Sat, 17 Oct 2026 | Roxy | Prague |
 | Fri, 23 Oct 2026 | Hemkade 48 | Amsterdam |
@@ -20,20 +18,22 @@ Pegassi is a techno and trance artist based in Belgium, with 178 gigs on soundch
 | Sat, 14 Nov 2026 | DRUMSHEDS | London |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 | Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
+| Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
+| Fri, 4 Dec 2026 | The Wool Store | Melbourne |
 
 ## Recently played
 
+- Gate Milano, Milan · Fri, 9 Oct 2026
+- Gate Milano, Milan · Fri, 9 Oct 2026
 - The Telegraph Building, Belfast · Sat, 3 Oct 2026
 - Nitsa Club, Barcelona · Fri, 2 Oct 2026
 - Audiodrome, Turin · Sat, 26 Sept 2026
 - Mondo Open Air, Madrid · Sat, 19 Sept 2026
 - Mondo, Madrid · Sat, 19 Sept 2026
 - Else, Berlin · Sun, 13 Sept 2026
-- Zenith - Die Kulturhalle, Munich · Sat, 12 Sept 2026
-- MÄX, Zurich · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Helena Lauwaert, Anetha, Benwal
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*

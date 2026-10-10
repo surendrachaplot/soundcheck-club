@@ -1,6 +1,6 @@
 # neska
 
-neska is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Lantaren/Venster, Rotterdam on Sat, 10 Oct 2026.
+neska is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Lantaren/Venster, Rotterdam on Sat, 10 Oct 2026.
 
 neska is a techno and house artist based in Spain, with 80 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Central and 8 more. Often billed alongside Naone, dirtydms and BERTON. Next up: Lantaren/Venster, Rotterdam on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ neska is a techno and house artist based in Spain, with 80 gigs on soundcheck ac
 
 Naone, dirtydms, BERTON
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neska/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neska/)*

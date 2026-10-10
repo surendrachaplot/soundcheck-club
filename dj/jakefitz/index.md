@@ -1,18 +1,18 @@
 # Jake Fitz
 
-Jake Fitz is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at block., Dublin on Fri, 9 Oct 2026.
+Jake Fitz is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Jake Fitz is an electronica and house artist based in Ireland, with 8 gigs on soundcheck across Amsterdam, Belfast and Dublin. Often billed alongside ALISHA, DIEBYVEG and Dusky. Next up: block., Dublin on Fri 9 Oct.
+Jake Fitz is an electronica and house artist based in Ireland, with 8 gigs on soundcheck across Amsterdam, Belfast and Dublin. Often billed alongside ALISHA, DIEBYVEG and Dusky. Next up: Shelter Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | block. | Dublin |
 | Fri, 23 Oct 2026 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played
 
+- block., Dublin · Fri, 9 Oct 2026
 - The Limelight, Belfast · Fri, 2 Oct 2026
 - Index, Dublin · Sat, 26 Sept 2026
 - Pygmalion, Dublin · Fri, 25 Sept 2026
@@ -24,4 +24,4 @@ Jake Fitz is an electronica and house artist based in Ireland, with 8 gigs on so
 
 ALISHA, DIEBYVEG, Dusky
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakefitz/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakefitz/)*

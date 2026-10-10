@@ -1,6 +1,6 @@
 # Mark Grusane
 
-Mark Grusane is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Nowadays, New York City on Fri, 16 Oct 2026.
+Mark Grusane is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Nowadays, New York City on Fri, 16 Oct 2026.
 
 Mark Grusane is a house and disco artist based in United States of America, with 71 gigs on soundcheck across Amsterdam, Antwerp, Austin and Berlin and 15 more. Often billed alongside Brett Johnson, Scott Zacharias and CTRLZORA. Next up: Nowadays, New York City on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Mark Grusane is a house and disco artist based in United States of America, with
 
 Brett Johnson, Scott Zacharias, CTRLZORA
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markgrusane/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markgrusane/)*

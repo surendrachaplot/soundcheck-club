@@ -1,18 +1,18 @@
 # Dante (H501)
 
-Dante (H501) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Apollo Club Milano, Milan on Fri, 9 Oct 2026.
+Dante (H501) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at DURO, Milan on Fri, 23 Oct 2026.
 
-Dante (H501) is a house and tech house artist based in Italy, with 81 gigs on soundcheck across Amsterdam, Brussels, London and Madrid and 3 more. Often billed alongside Leo Benassi, AGNES (IT) and Pancratio. Next up: Apollo Club Milano, Milan on Fri 9 Oct.
+Dante (H501) is a house and tech house artist based in Italy, with 81 gigs on soundcheck across Amsterdam, Brussels, London and Madrid and 3 more. Often billed alongside Leo Benassi, AGNES (IT) and Pancratio. Next up: DURO, Milan on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Apollo Club Milano | Milan |
 | Fri, 23 Oct 2026 | DURO | Milan |
 
 ## Recently played
 
+- Apollo Club Milano, Milan · Fri, 9 Oct 2026
 - TBA - Santa Maria della Pietà, Rome · Sat, 3 Oct 2026
 - Forte Antenne, Rome · Sat, 3 Oct 2026
 - Stazione Centrale, Milan · Sat, 26 Sept 2026
@@ -20,10 +20,9 @@ Dante (H501) is a house and tech house artist based in Italy, with 81 gigs on so
 - Forte Antenne, Rome · Sat, 19 Sept 2026
 - Circulo De Bellas Artes, Madrid · Fri, 11 Sept 2026
 - Barco Sound House, Madrid · Thu, 10 Sept 2026
-- Forte Antenne, Rome · Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Leo Benassi, AGNES (IT), Pancratio
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dante-2/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dante-2/)*

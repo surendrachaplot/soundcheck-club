@@ -1,6 +1,6 @@
 # Dj Sliink
 
-Dj Sliink is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Paragon, New York City on Sat, 10 Oct 2026.
+Dj Sliink is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Paragon, New York City on Sat, 10 Oct 2026.
 
 Dj Sliink is a club and house artist based in United States of America, with 42 gigs on soundcheck across Austin, Boston, Chicago and Denver and 12 more. Often billed alongside AceMo, Sinistarr and Suzi Analogue. Next up: Paragon, New York City on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Dj Sliink is a club and house artist based in United States of America, with 42 
 
 AceMo, Sinistarr, Suzi Analogue
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsliink/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsliink/)*

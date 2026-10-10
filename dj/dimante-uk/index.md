@@ -1,6 +1,6 @@
 # Dimanté
 
-Dimanté is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - EAST LONDON- announced to ticket holders on the day, London on Fri, 16 Oct 2026.
+Dimanté is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - EAST LONDON- announced to ticket holders on the day, London on Fri, 16 Oct 2026.
 
 Dimanté is a techno and tech house artist based in Ukraine, with 13 gigs on soundcheck across London. Often billed alongside Moonz, Any Koh and Enrico Chirchiello. Next up: TBA - EAST LONDON- announced to ticket holders on the day, London on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Dimanté is a techno and tech house artist based in Ukraine, with 13 gigs on sou
 
 Moonz, Any Koh, Enrico Chirchiello
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimante-uk/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimante-uk/)*

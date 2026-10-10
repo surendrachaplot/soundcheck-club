@@ -1,6 +1,6 @@
 # STL-P
 
-STL-P is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at L'Ostra Club, East on Sat, 24 Oct 2026.
+STL-P is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at L'Ostra Club, East on Sat, 24 Oct 2026.
 
 STL-P is a techno and minimal artist based in France, with 40 gigs on soundcheck across Berlin, East, London and Lyon and 2 more. Often billed alongside Less-O, Elise Massoni and Belaria. Next up: L'Ostra Club, East on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ STL-P is a techno and minimal artist based in France, with 40 gigs on soundcheck
 
 Less-O, Elise Massoni, Belaria
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stl-p/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stl-p/)*

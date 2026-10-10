@@ -1,6 +1,6 @@
 # gau7t
 
-gau7t is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Oran Mor, Glasgow on Sat, 31 Oct 2026.
+gau7t is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Oran Mor, Glasgow on Sat, 31 Oct 2026.
 
 gau7t is a techno and house artist based in United Kingdom, with 83 gigs on soundcheck across Aberdeen, Amsterdam, Dundee and Edinburgh and 3 more. Often billed alongside Oakley Carter, Tedzx and HERBS. Next up: Oran Mor, Glasgow on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ gau7t is a techno and house artist based in United Kingdom, with 83 gigs on soun
 
 Oakley Carter, Tedzx, HERBS
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gau7t/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gau7t/)*

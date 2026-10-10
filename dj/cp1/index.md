@@ -1,6 +1,6 @@
 # CP1
 
-CP1 is a Dub and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Skate Park (Parco Lambro), Milan on Sat, 17 Oct 2026.
+CP1 is a Dub and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Skate Park (Parco Lambro), Milan on Sat, 17 Oct 2026.
 
 CP1 is a dub and techno artist, with 25 gigs on soundcheck across Athens, Berlin, Brussels and Copenhagen and 2 more. Often billed alongside Not Mass, Hagva and Marco Maldarella. Next up: Skate Park (Parco Lambro), Milan on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ CP1 is a dub and techno artist, with 25 gigs on soundcheck across Athens, Berlin
 
 Not Mass, Hagva, Marco Maldarella
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cp1/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cp1/)*

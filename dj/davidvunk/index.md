@@ -1,14 +1,13 @@
 # David Vunk
 
-David Vunk is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Yamamori Tengu, Dublin on Fri, 9 Oct 2026.
+David Vunk is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-David Vunk is a house and techno artist based in Netherlands, with 167 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside Marsman, Afra and Anetha. Next up: Yamamori Tengu, Dublin on Fri 9 Oct.
+David Vunk is a house and techno artist based in Netherlands, with 167 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside Marsman, Afra and Anetha. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Yamamori Tengu | Dublin |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 23 Oct 2026 | Skatecafe | Amsterdam |
 | Sat, 24 Oct 2026 | TILLATEC | Amsterdam |
@@ -20,6 +19,7 @@ David Vunk is a house and techno artist based in Netherlands, with 167 gigs on s
 
 ## Recently played
 
+- Yamamori Tengu, Dublin · Fri, 9 Oct 2026
 - Café De Plak, Nijmegen · Sat, 3 Oct 2026
 - PIP Den Haag, The Hague · Sat, 12 Sept 2026
 - export, Rotterdam · Fri, 11 Sept 2026
@@ -27,10 +27,9 @@ David Vunk is a house and techno artist based in Netherlands, with 167 gigs on s
 - De Vleeshal, Amsterdam · Fri, 28 Aug 2026
 - SISSI'S Amsterdam, Amsterdam · Fri, 31 Jul 2026
 - H0L0, New York City · Sat, 4 Jul 2026
-- Melkweg, Amsterdam · Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Marsman, Afra, Anetha
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidvunk/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidvunk/)*

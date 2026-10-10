@@ -1,6 +1,6 @@
 # Four Quarters
 
-Four Quarters is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "RDV Sounds - FREE ENTRY - AAKAARA, LOLA TARTE, MF CEOL, JV" on Sat, 10 Oct 2026.
+Four Quarters is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "RDV Sounds - FREE ENTRY - AAKAARA, LOLA TARTE, MF CEOL, JV" on Sat, 10 Oct 2026.
 
 Four Quarters is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including AAKAARA, Alfie Fraser, Alley Cat and Calm Stiege and 2 more. See dates, start times and who's playing. 187 Rye Lane, Peckham, SE15 4TP.
 
@@ -22,4 +22,4 @@ Four Quarters is a music venue in London listed on soundcheck. 9 upcoming gigs, 
 
 187 Rye Lane, Peckham, SE15 4TP, London
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/four-quarters/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/four-quarters/)*

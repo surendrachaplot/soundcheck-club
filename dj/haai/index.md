@@ -1,14 +1,13 @@
 # HAAi
 
-HAAi is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Palladium, Geneva on Fri, 9 Oct 2026.
+HAAi is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
 
-HAAi is a techno and house artist based in Australia, with 215 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 56 more. Often billed alongside salute, DJ Tennis and Saoirse. Next up: Palladium, Geneva on Fri 9 Oct.
+HAAi is a techno and house artist based in Australia, with 215 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 56 more. Often billed alongside salute, DJ Tennis and Saoirse. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Palladium | Geneva |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 16 Oct 2026 | Cow Palace | San Francisco/Oakland |
@@ -20,9 +19,11 @@ HAAi is a techno and house artist based in Australia, with 215 gigs on soundchec
 | Sat, 31 Oct 2026 | EartH | London |
 | Fri, 20 Nov 2026 | Concorde 2 | Brighton |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
+| Fri, 27 Nov 2026 | Ace*Mission Studios | Los Angeles |
 
 ## Recently played
 
+- Palladium, Geneva · Fri, 9 Oct 2026
 - Kilomètre25, Paris · Sat, 26 Sept 2026
 - 528 Ibiza, Ibiza · Sat, 19 Sept 2026
 - Electric Studios, Sheffield · Fri, 4 Sept 2026
@@ -30,10 +31,9 @@ HAAi is a techno and house artist based in Australia, with 215 gigs on soundchec
 - Serpentine Galleries, London · Sat, 29 Aug 2026
 - Burgess Park, London · Sat, 15 Aug 2026
 - Burgess Park, London · Sat, 8 Aug 2026
-- TILLATEC, Amsterdam · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 salute, DJ Tennis, Saoirse
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*

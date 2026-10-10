@@ -1,6 +1,6 @@
 # Optimuss
 
-Optimuss is a Industrial and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA, Moscow on Fri, 9 Oct 2026.
+Optimuss is a Industrial and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA, Moscow on Fri, 9 Oct 2026.
 
 Optimuss is an industrial and techno artist based in Russia, with 6 gigs on soundcheck across Amsterdam, Berlin, Budapest and Madrid and 2 more. Often billed alongside ALEX PANKOV, ALOD and Chain Damage. Next up: TBA, Moscow on Fri 9 Oct.
 
@@ -13,6 +13,7 @@ Optimuss is an industrial and techno artist based in Russia, with 6 gigs on soun
 
 ## Recently played
 
+- TBA, Moscow · Fri, 9 Oct 2026
 - TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin · Sat, 29 Aug 2026
 - Next Clubbing, Madrid · Sat, 18 Oct 2025
 - OFF Kultur, Budapest · Fri, 17 Oct 2025
@@ -22,4 +23,4 @@ Optimuss is an industrial and techno artist based in Russia, with 6 gigs on soun
 
 ALEX PANKOV, ALOD, Chain Damage
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/optimuss/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/optimuss/)*

@@ -1,6 +1,6 @@
 # ESCALEA
 
-ESCALEA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Kalif Storch, Erfurt on Sat, 10 Oct 2026.
+ESCALEA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Kalif Storch, Erfurt on Sat, 10 Oct 2026.
 
 ESCALEA is a techno and trance artist based in Germany, with 24 gigs on soundcheck across Berlin, Erfurt, Leipzig and Saxony Anhalt. Often billed alongside humae, jeanska and B-TUR. Next up: Kalif Storch, Erfurt on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ ESCALEA is a techno and trance artist based in Germany, with 24 gigs on soundche
 
 humae, jeanska, B-TUR (2)
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/escalea/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/escalea/)*

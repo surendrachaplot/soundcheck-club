@@ -1,6 +1,6 @@
 # Lights Down Low Feat. Ben UFO at TBA - Downtown Los Angeles
 
-Lights Down Low Feat. Ben UFO at TBA - Downtown Los Angeles on Fri 9 Oct, Los Angeles. 2 artists: Ben UFO and Bianca Lexis. House. See the line-up on soundcheck.
+Lights Down Low Feat. Ben UFO at TBA - Downtown Los Angeles on Fri 9 Oct, Los Angeles. 2 artists: Ben UFO and erika (SF). Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,6 @@ Lights Down Low Feat. Ben UFO at TBA - Downtown Los Angeles on Fri 9 Oct, Los An
 ## Line-up
 
 - Ben UFO
-- Bianca Lexis
+- erika (SF)
 
 *Source: [soundcheck](https://soundcheck.club/e/2527911-lights-down-low-feat-ben-ufo-at-tba-downtown-los-angeles/)*

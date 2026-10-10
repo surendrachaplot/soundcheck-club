@@ -1,8 +1,8 @@
 # Einmusik
 
-Einmusik is a Techno and Progressive House artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at E1, London on Sat, 10 Oct 2026.
+Einmusik is a Techno and Progressive House artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at E1, London on Sat, 10 Oct 2026.
 
-Einmusik is a techno and progressive house artist based in Germany, with 133 gigs on soundcheck across Amsterdam, Austria, Barcelona and Basel and 39 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: E1, London on Sat 10 Oct.
+Einmusik is a techno and progressive house artist based in Germany, with 134 gigs on soundcheck across Amsterdam, Austria, Barcelona and Basel and 39 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: E1, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Einmusik is a techno and progressive house artist based in Germany, with 133 gig
 | Sat, 17 Oct 2026 | Pracht | Frankfurt |
 | Fri, 23 Oct 2026 | Supperclub Cruise | Amsterdam |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
+| Fri, 18 Dec 2026 | Kowalski | Stuttgart |
 | Thu, 31 Dec 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
@@ -30,4 +31,4 @@ Einmusik is a techno and progressive house artist based in Germany, with 133 gig
 
 Prismode, Solvane, Markus Klee
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/einmusik/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/einmusik/)*

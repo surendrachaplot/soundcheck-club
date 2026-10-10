@@ -1,6 +1,6 @@
 # Green Space SHEFFIELD at FORGE
 
-Green Space SHEFFIELD at FORGE on Sun 25 Oct, Sheffield. 9 artists: Ben Suff Donk, Bimini, Burt Cope and Charla Green and 5 more. Garage and Jungle. See the line-up on soundcheck.
+Green Space SHEFFIELD at FORGE on Sun 25 Oct, Sheffield. 10 artists: Ben Suff Donk, Bimini, Burt Cope and Charla Green and 6 more. Garage and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,6 +17,7 @@ Green Space SHEFFIELD at FORGE on Sun 25 Oct, Sheffield. 9 artists: Ben Suff Don
 - DJ Deep Heat
 - DJ Fingerblast
 - Emerald
+- Jolie P
 - Piri & Tommy
 - Princess Elf Bar
 

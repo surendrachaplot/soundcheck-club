@@ -1,6 +1,6 @@
 # Love On The Rocks at Berghain | Panorama Bar | Säule
 
-Love On The Rocks at Berghain | Panorama Bar | Säule on Fri 27 Nov, Berlin. 6 artists: Giammarco Orsini, Motor City Drum Ensemble, Pancratio and PARAMIDA and 2 more. See the line-up on soundcheck.
+Love On The Rocks at Berghain | Panorama Bar | Säule on Fri 27 Nov, Berlin. 6 artists: Danilo Plessow, Giammarco Orsini, Pancratio and PARAMIDA and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ Love On The Rocks at Berghain | Panorama Bar | Säule on Fri 27 Nov, Berlin. 6 a
 
 ## Line-up
 
+- Danilo Plessow
 - Giammarco Orsini
-- Motor City Drum Ensemble
 - Pancratio
 - PARAMIDA
 - Simone de Kunovich

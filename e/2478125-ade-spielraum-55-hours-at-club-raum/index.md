@@ -19,7 +19,7 @@ ADE - SPIELRAUM: 55 HOURS at CLUB RAUM on Fri 23 Oct, Amsterdam. 35 artists: Ale
 - DjRUM
 - DVS1
 - Fafi Abdel Nour
-- Faustin
+- Faustin (NL)
 - Hervé
 - JakoJako
 - ketia

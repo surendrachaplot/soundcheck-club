@@ -1,14 +1,13 @@
 # Bar Datcha
 
-Bar Datcha is a music venue in Montreal with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Datcha NONSTOP: Blu:sh [Berlin], Frankie Teardrop, Syd Woz, ZDBT" on Fri, 9 Oct 2026.
+Bar Datcha is a music venue in Montreal with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Club Haram: Maral Mane, Claireyyy, mayalabae, Cirque Cosmic, Badgalquirit" on Sat, 10 Oct 2026.
 
-Bar Datcha is a music venue in Montreal listed on soundcheck. 11 upcoming gigs, with line-ups including 99hp, Badgalquirit, Blu:sh and Bwi-Bwi and 2 more. See dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
+Bar Datcha is a music venue in Montreal listed on soundcheck. 10 upcoming gigs, with line-ups including 99hp, Badgalquirit, Bwi-Bwi and Cirque Cosmic and 2 more. See dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Datcha NONSTOP: Blu:sh [Berlin], Frankie Teardrop, Syd Woz, ZDBT | Blu:sh, Frankie Teardrop, Syd Woz, ZDBT |
 | Sat, 10 Oct 2026 | Club Haram: Maral Mane, Claireyyy, mayalabae, Cirque Cosmic, Badgalquirit | Badgalquirit, Cirque Cosmic, Claireyy, Maral Mane, mayalabae |
 | Thu, 15 Oct 2026 | Panatekk: venus in bed, Ekitwanda, Juju le Moko | Ekitwanda, Juju le Moko, venus in bed |
 | Fri, 16 Oct 2026 | Datcha NONSTOP: Rabzi, Bwi-Bwi, Silktits, 99hp | 99hp, Bwi-Bwi, Rabzi, Silktits |
@@ -18,9 +17,10 @@ Bar Datcha is a music venue in Montreal listed on soundcheck. 11 upcoming gigs, 
 | Sat, 24 Oct 2026 | Subnoir: Yaya, Noel, Syana | Syana |
 | Thu, 29 Oct 2026 | DJ Frog, wetdogg, Nautiluss | DJ Frog, Nautiluss, wetdogg |
 | Fri, 30 Oct 2026 | Le Rotary Club, ROH, Balou | Le Rotary Club |
+| Sat, 31 Oct 2026 | Latex Halloween: Crissemarquer, Lou Celsius, Fate, Hydra b2b Nasty Gloss | CrisseMarqueur, Lou Celsius, hÿdra, nastygloss |
 
 ## Address
 
 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada, Montreal
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*

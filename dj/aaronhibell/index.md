@@ -1,6 +1,6 @@
 # Aaron Hibell
 
-Aaron Hibell is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at fabric, London on Sat, 10 Oct 2026.
+Aaron Hibell is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at fabric, London on Sat, 10 Oct 2026.
 
 Aaron Hibell is a techno and trance artist based in United Kingdom, with 45 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 24 more. Often billed alongside Kotiēr, Adam Beyer and Alesso. Next up: fabric, London on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Aaron Hibell is a techno and trance artist based in United Kingdom, with 45 gigs
 
 Kotiēr, Adam Beyer, Alesso
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronhibell/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronhibell/)*

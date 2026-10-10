@@ -1,14 +1,13 @@
 # public records
 
-public records is a music venue in New York City with 39 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "AADJA, Kyle Geiger / Softi, DJ G / Zotos" on Fri, 9 Oct 2026.
+public records is a music venue in New York City with 39 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "NAYGOD, Donis / Colored Craig, Cosmo" on Sat, 10 Oct 2026.
 
-public records is a music venue in New York City listed on soundcheck. 39 upcoming gigs, with line-ups including 320, 4AM NYC, MORENXXX and AADJA and 2 more. See dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
+public records is a music venue in New York City listed on soundcheck. 39 upcoming gigs, with line-ups including 320, 4AM NYC, MORENXXX and Aaron Dae and 2 more. See dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | AADJA, Kyle Geiger / Softi, DJ G / Zotos | AADJA, DJ G., Kyle Geiger, Softi, Zotos |
 | Sat, 10 Oct 2026 | NAYGOD, Donis / Colored Craig, Cosmo | Colored Craig, Cosmo (NY), Donis, NAYGOD |
 | Sat, 10 Oct 2026 | Public record |  |
 | Sun, 11 Oct 2026 | The Atrium: Frank & Tony, Roman Flügel | Frank & Tony, Roman Flügel |
@@ -18,9 +17,10 @@ public records is a music venue in New York City listed on soundcheck. 39 upcomi
 | Sun, 18 Oct 2026 | The Atrium: Soul Summit All Day Long | Soul Summit Music |
 | Thu, 22 Oct 2026 | Echo Chamber S1.E04: Sinai Sound System feat. Lasai | Queen Majesty |
 | Fri, 23 Oct 2026 | Valentina Magaletti & Gabby Fluke-Mogul, boring tables | Valentina Magaletti |
+| Fri, 23 Oct 2026 | P.E.A.R.L., Juana / Anastasia Kristensen, John Raffaele / Bob Maynard & Cassandra Croft | Anastasia Kristensen, John Raffaele, Juana, P.E.A.R.L. |
 
 ## Address
 
 233 Butler St, Brooklyn, NY 11217, USA, New York City
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*

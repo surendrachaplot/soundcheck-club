@@ -1,6 +1,6 @@
 # Community Wine House
 
-Community Wine House is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. The next is "Record presents 'Love Is The Message: A Night at The Gallery' by Nicky Siano" on Sun, 11 Oct 2026.
+Community Wine House is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. The next is "Record presents 'Love Is The Message: A Night at The Gallery' by Nicky Siano" on Sun, 11 Oct 2026.
 
 Community Wine House is a music venue in Melbourne listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Community Wine House is a music venue in Melbourne listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | Record presents 'Love Is The Message: A Night at The Gallery' by Nicky Siano |  |
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/community-wine-house/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/community-wine-house/)*

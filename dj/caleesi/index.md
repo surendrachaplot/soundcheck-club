@@ -1,6 +1,6 @@
 # Caleesi
 
-Caleesi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Kater, Berlin on Fri, 9 Oct 2026.
+Caleesi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Kater, Berlin on Fri, 9 Oct 2026.
 
 Caleesi is a house and techno artist based in Germany, with 102 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 24 more. Often billed alongside Sarah Kreis, Mira and Robin Dey. Next up: Kater, Berlin on Fri 9 Oct.
 
@@ -14,6 +14,7 @@ Caleesi is a house and techno artist based in Germany, with 102 gigs on soundche
 
 ## Recently played
 
+- Kater, Berlin · Fri, 9 Oct 2026
 - Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
 - gART.n, Berlin · Sun, 6 Sept 2026
 - Else, Berlin · Sat, 29 Aug 2026
@@ -21,10 +22,9 @@ Caleesi is a house and techno artist based in Germany, with 102 gigs on soundche
 - Südpol, Hamburg · Fri, 14 Aug 2026
 - Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin · Thu, 16 Jul 2026
 - Kater, Berlin · Fri, 3 Jul 2026
-- gART.n, Berlin · Sat, 30 May 2026
 
 ## Shares bills with
 
 Sarah Kreis, Mira, Robin Dey
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caleesi/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caleesi/)*

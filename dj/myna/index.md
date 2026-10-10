@@ -1,6 +1,6 @@
 # MYNA
 
-MYNA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+MYNA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 MYNA is a techno and house artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Leeds, London and Manchester and 3 more. Often billed alongside Gracie T, Shannon From Admin and alex.aubyn. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -13,6 +13,7 @@ MYNA is a techno and house artist based in United Kingdom, with 58 gigs on sound
 
 ## Recently played
 
+- TBA - Multiple Venues across Sheffield & Rotherham, North · Fri, 9 Oct 2026
 - Beaver Works, Leeds · Sat, 3 Oct 2026
 - Gut Level, Sheffield · Fri, 2 Oct 2026
 - Gut Level, Sheffield · Thu, 17 Sept 2026
@@ -20,10 +21,9 @@ MYNA is a techno and house artist based in United Kingdom, with 58 gigs on sound
 - Studio 60, Miami · Fri, 28 Aug 2026
 - Hidden, Manchester · Sat, 30 May 2026
 - Domicile, Miami · Sat, 2 May 2026
-- Panke Social, Sheffield · Sat, 28 Mar 2026
 
 ## Shares bills with
 
 Gracie T, Shannon From Admin, alex.aubyn
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myna/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myna/)*

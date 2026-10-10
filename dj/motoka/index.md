@@ -1,6 +1,6 @@
 # MOTOKA
 
-MOTOKA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Azumaya, Tokyo on Wed, 14 Oct 2026.
+MOTOKA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Azumaya, Tokyo on Wed, 14 Oct 2026.
 
 MOTOKA is a techno and house artist based in Japan, with 134 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), Junya and BERLINER KINDL. Next up: Azumaya, Tokyo on Wed 14 Oct.
 
@@ -28,4 +28,4 @@ MOTOKA is a techno and house artist based in Japan, with 134 gigs on soundcheck 
 
 SIGNAL (JP), Junya, BERLINER KINDL
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/motoka/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/motoka/)*

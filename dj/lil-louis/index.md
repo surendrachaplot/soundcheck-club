@@ -1,14 +1,13 @@
 # Lil' Louis
 
-Lil' Louis is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at RASA, Singapore on Fri, 9 Oct 2026.
+Lil' Louis is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Modeci, Seoul on Fri, 16 Oct 2026.
 
-Lil' Louis is a house and techno artist based in United States of America, with 64 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 28 more. Often billed alongside Aiko Inoue, Adiel and Boys Noize. Next up: RASA, Singapore on Fri 9 Oct.
+Lil' Louis is a house and techno artist based in United States of America, with 64 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 28 more. Often billed alongside Aiko Inoue, Adiel and Boys Noize. Next up: Modeci, Seoul on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | RASA | Singapore |
 | Fri, 16 Oct 2026 | Modeci | Seoul |
 | Sat, 17 Oct 2026 | MIDNIGHT EAST | Tokyo |
 | Sat, 31 Oct 2026 | Seaseaclub Barcelona | Barcelona |
@@ -17,6 +16,7 @@ Lil' Louis is a house and techno artist based in United States of America, with 
 
 ## Recently played
 
+- RASA, Singapore · Fri, 9 Oct 2026
 - TBA - YKO KL - THE FIVE DAMANSARA HEIGHTS, Kuala Lumpur · Wed, 7 Oct 2026
 - Ampere, Antwerp · Sat, 3 Oct 2026
 - TBA - Various Venues, Malta · Thu, 1 Oct 2026
@@ -24,10 +24,9 @@ Lil' Louis is a house and techno artist based in United States of America, with 
 - Lux Fragil, Lisbon · Sat, 29 Aug 2026
 - Pikes Ibiza, Ibiza · Sun, 26 Jul 2026
 - TBA, Glasgow · Sat, 18 Jul 2026
-- Sub Club, Glasgow · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Aiko Inoue, Adiel, Boys Noize
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lil-louis/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lil-louis/)*

@@ -1,6 +1,6 @@
 # rav:n
 
-rav:n is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Viadukt Bar, Budapest on Sat, 10 Oct 2026.
+rav:n is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Viadukt Bar, Budapest on Sat, 10 Oct 2026.
 
 rav:n is a techno and trance artist, with 26 gigs on soundcheck across Budapest. Often billed alongside Ben Dover, ädene and Galactic Jackson. Next up: Viadukt Bar, Budapest on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ rav:n is a techno and trance artist, with 26 gigs on soundcheck across Budapest.
 
 Ben Dover, ädene, Galactic Jackson
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ravn/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ravn/)*

@@ -1,6 +1,6 @@
 # paaradoxx
 
-paaradoxx is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Tresor.West, Dortmund-essen on Sat, 17 Oct 2026.
+paaradoxx is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Tresor.West, Dortmund-essen on Sat, 17 Oct 2026.
 
 paaradoxx is a techno and house artist based in Germany, with 25 gigs on soundcheck across Berlin, Cologne and Dortmund Essen. Often billed alongside Maruhni, DJ Frank and DJ ASS TITS. Next up: Tresor.West, Dortmund Essen on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ paaradoxx is a techno and house artist based in Germany, with 25 gigs on soundch
 
 Maruhni, DJ Frank, DJ ASS TITS
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paaradoxx/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paaradoxx/)*

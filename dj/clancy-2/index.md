@@ -1,6 +1,6 @@
 # Clancy (2)
 
-Clancy (2) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Sooki Lounge, Melbourne on Sat, 10 Oct 2026.
+Clancy (2) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Sooki Lounge, Melbourne on Sat, 10 Oct 2026.
 
 Clancy is a club and techno artist, with 24 gigs on soundcheck across Melbourne. Often billed alongside Connor Graham, Kiara Friend and Lochie Large. Next up: Sooki Lounge, Melbourne on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Clancy is a club and techno artist, with 24 gigs on soundcheck across Melbourne.
 
 Connor Graham, Kiara Friend, Lochie Large
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clancy-2/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clancy-2/)*

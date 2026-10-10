@@ -1,6 +1,6 @@
 # VSSL
 
-VSSL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Rote Sonne, Munich on Sat, 10 Oct 2026.
+VSSL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Rote Sonne, Munich on Sat, 10 Oct 2026.
 
 VSSL is a techno and house artist based in Germany, with 52 gigs on soundcheck across Berlin, Munich, Stuttgart and Tbilisi and 1 more. Often billed alongside Arcann, Alicea and Kareem El Morr. Next up: Rote Sonne, Munich on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ VSSL is a techno and house artist based in Germany, with 52 gigs on soundcheck a
 
 Arcann, Alicea, Kareem El Morr
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vssl/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vssl/)*

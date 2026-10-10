@@ -1,14 +1,13 @@
 # Hope House
 
-Hope House is a music venue in Leeds with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "La Bise: SiSi & Joe Kasteel (w/ Gole pre-party)" on Fri, 9 Oct 2026.
+Hope House is a music venue in Leeds with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Club Goo 003" on Sat, 10 Oct 2026.
 
-Hope House is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, with line-ups including Benny Bysouth, Carl H, CasuallyClued and Chin and 2 more. See dates, start times and who's playing. 65 Mabgate Hope House LS9 7DR.
+Hope House is a music venue in Leeds listed on soundcheck. 10 upcoming gigs, with line-ups including Carl H, CasuallyClued, Chin and Colleen 'Cosmo' Murphy and 2 more. See dates, start times and who's playing. 65 Mabgate Hope House LS9 7DR.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | La Bise: SiSi & Joe Kasteel (w/ Gole pre-party) | Benny Bysouth, Joe Kasteel, SiSi (2) |
 | Sat, 10 Oct 2026 | Club Goo 003 | KD22LR |
 | Sat, 17 Oct 2026 | PleasureMaxxx | DJ Subaru, Erol Alkan |
 | Fri, 23 Oct 2026 | Opus w/ Carl H | Carl H, Chin |
@@ -18,9 +17,10 @@ Hope House is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, wit
 | Fri, 13 Nov 2026 | 0800 DISCO(OOO) |  |
 | Sat, 14 Nov 2026 | Hope House Presents: Colleen 'Cosmo' Murphy - All Night Long | Colleen 'Cosmo' Murphy |
 | Fri, 27 Nov 2026 | PUSH JAZZ DANCE - Hope House GALLERY - FRIDAY 27th NOV 6pm | Tina Edwards |
+| Sat, 28 Nov 2026 | ALEA |  |
 
 ## Address
 
 65 Mabgate Hope House LS9 7DR, Leeds
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*

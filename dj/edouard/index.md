@@ -1,6 +1,6 @@
 # Edouard!
 
-Edouard! is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Silencio, Paris on Sat, 10 Oct 2026.
+Edouard! is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Silencio, Paris on Sat, 10 Oct 2026.
 
 Edouard! is a house and techno artist based in France, with 91 gigs on soundcheck across Berlin, Geneva and Paris. Often billed alongside Julie Saint Germain, MOON and Arthur Nozen. Next up: Silencio, Paris on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Edouard! is a house and techno artist based in France, with 91 gigs on soundchec
 
 Julie Saint Germain, MOON, Arthur Nozen
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edouard/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edouard/)*

@@ -1,8 +1,8 @@
 # Giles Smith
 
-Giles Smith is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Eagle, London on Sat, 10 Oct 2026.
+Giles Smith is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Eagle, London on Sat, 10 Oct 2026.
 
-Giles Smith is a house and disco artist based in United Kingdom, with 72 gigs on soundcheck across Bali, Barcelona, Berlin and Copenhagen and 12 more. Often billed alongside Alexander Nut, Dave Lee and Leanne Wright. Next up: The Eagle, London on Sat 10 Oct.
+Giles Smith is a house and disco artist based in United Kingdom, with 73 gigs on soundcheck across Bali, Barcelona, Berlin and Copenhagen and 13 more. Often billed alongside Alexander Nut, Dave Lee and Leanne Wright. Next up: The Eagle, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Giles Smith is a house and disco artist based in United Kingdom, with 72 gigs on
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | The Eagle | London |
 | Sun, 11 Oct 2026 | Eastway Baths | London |
+| Sun, 27 Dec 2026 | People's Leisure Club | Edinburgh |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Giles Smith is a house and disco artist based in United Kingdom, with 72 gigs on
 
 Alexander Nut, Dave Lee, Leanne Wright
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gilessmith/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gilessmith/)*

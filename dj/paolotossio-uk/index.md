@@ -1,6 +1,6 @@
 # Paolo Tossio
 
-Paolo Tossio is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Cyberdog, London on Sat, 10 Oct 2026.
+Paolo Tossio is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Cyberdog, London on Sat, 10 Oct 2026.
 
 Paolo Tossio is a techno and trance artist based in United Kingdom, with 17 gigs on soundcheck across London and Tokyo. Often billed alongside Bezi, Luciano Mancini Luke and Tribe Dj. Next up: Cyberdog, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Paolo Tossio is a techno and trance artist based in United Kingdom, with 17 gigs
 
 Bezi, Luciano Mancini Luke, Tribe Dj
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paolotossio-uk/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paolotossio-uk/)*

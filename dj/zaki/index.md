@@ -1,6 +1,6 @@
 # Zaki
 
-Zaki is a Disco and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Undr W10, London on Sat, 14 Nov 2026.
+Zaki is a Disco and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Undr W10, London on Sat, 14 Nov 2026.
 
 Zaki is a disco and deep house artist based in United Kingdom, with 31 gigs on soundcheck across London. Often billed alongside Manish, Jasmine Alice and Toni C. Next up: Undr W10, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Zaki is a disco and deep house artist based in United Kingdom, with 31 gigs on s
 
 Manish, Jasmine Alice, Toni C
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zaki/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zaki/)*

@@ -1,6 +1,6 @@
 # Bárbara Lago
 
-Bárbara Lago is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at La Plateforme, Marseille on Sat, 10 Oct 2026.
+Bárbara Lago is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at La Plateforme, Marseille on Sat, 10 Oct 2026.
 
 Bárbara Lago is a techno and trance artist based in Spain, with 51 gigs on soundcheck across Amsterdam, Barcelona, Bogot and Budapest and 22 more. Often billed alongside Dexphase, Skryption and Daniella da Silva. Next up: La Plateforme, Marseille on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Bárbara Lago is a techno and trance artist based in Spain, with 51 gigs on soun
 
 Dexphase, Skryption, Daniella da Silva
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaralago/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaralago/)*

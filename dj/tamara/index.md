@@ -1,6 +1,6 @@
 # Tamara
 
-Tamara is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Jungle Hollywood, Los Angeles on Wed, 14 Oct 2026.
+Tamara is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Jungle Hollywood, Los Angeles on Wed, 14 Oct 2026.
 
 Tamara is a house and techno artist based in Denmark, with 14 gigs on soundcheck across Copenhagen and Los Angeles. Often billed alongside Harrison Heat, Danilo Plessow and Kawun. Next up: Jungle Hollywood, Los Angeles on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ Tamara is a house and techno artist based in Denmark, with 14 gigs on soundcheck
 
 Harrison Heat, Danilo Plessow, Kawun
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamara/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamara/)*

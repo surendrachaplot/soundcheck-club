@@ -1,6 +1,6 @@
 # LEYA
 
-LEYA is a Experimental and Electronica artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Chiesetta Della Misericordia + Argo16, Venice on Sat, 10 Oct 2026.
+LEYA is a Experimental and Electronica artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Chiesetta Della Misericordia + Argo16, Venice on Sat, 10 Oct 2026.
 
 LEYA is an experimental and electronica artist, with 23 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 11 more. Often billed alongside Andriana-Yaroslava Saienko, Heinali and Still House Plants. Next up: Chiesetta Della Misericordia + Argo16, Venice on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ LEYA is an experimental and electronica artist, with 23 gigs on soundcheck acros
 
 Andriana-Yaroslava Saienko, Heinali, Still House Plants
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leya/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leya/)*

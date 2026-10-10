@@ -1,14 +1,13 @@
 # Bahnwärter Thiel
 
-Bahnwärter Thiel is a music venue in Munich with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Oliver Koletzki im Bahnwärter Thiel" on Fri, 9 Oct 2026.
+Bahnwärter Thiel is a music venue in Munich with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Birthday Groove by Natanael Megersa mit Casimir von Oettingen" on Sat, 10 Oct 2026.
 
-Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 9 upcoming gigs, with line-ups including ANASTASÍA, Anna Lazer, aufleguan and avely and 2 more. See dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
+Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 8 upcoming gigs, with line-ups including ANASTASÍA, Anna Lazer, aufleguan and avely and 2 more. See dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Oliver Koletzki im Bahnwärter Thiel | Bi Män, LARIFARI, Oliver Koletzki, Thilo Who, Vaneska |
 | Sat, 10 Oct 2026 | Birthday Groove by Natanael Megersa mit Casimir von Oettingen | Casimir von Oettingen, Pascal Rudert, fuxia |
 | Thu, 15 Oct 2026 | 135+ mit 1CB & Dankus Kollektiv | Fej:tal, Mr. Stampftech, pnk pnthr |
 | Fri, 16 Oct 2026 | 11 Jahre Bahnwärter Thiel, 3 Tage ohne Halt | ANASTASÍA, Dave Dinger, ELIF, Elleyza, Jan Minnerup, Listenblondie, Moritz Butschek, Pablo Minuit, SILSAN, Susi&Paula, Tala Berg, The Journey, Wanda Wild, justUS |
@@ -22,4 +21,4 @@ Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 9 upcoming gi
 
 Tumblingerstraße 29, 80333 München, Munich
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*

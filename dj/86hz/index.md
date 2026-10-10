@@ -1,6 +1,6 @@
 # 86Hz
 
-86Hz is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Supperclub Cruise, Amsterdam on Sat, 5 Dec 2026.
+86Hz is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Supperclub Cruise, Amsterdam on Sat, 5 Dec 2026.
 
 86Hz is a techno and afro house artist based in Spain, with 9 gigs on soundcheck across Amsterdam and Barcelona. Often billed alongside Rivellino, Lea Corio and Alex Sharp. Next up: Supperclub Cruise, Amsterdam on Sat 5 Dec.
 
@@ -25,4 +25,4 @@
 
 Rivellino, Lea Corio, Alex Sharp
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/86hz/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/86hz/)*

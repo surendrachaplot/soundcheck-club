@@ -1,6 +1,6 @@
 # Kessa
 
-Kessa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Azimut Club, Turin on Sat, 24 Oct 2026.
+Kessa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Azimut Club, Turin on Sat, 24 Oct 2026.
 
 Kessa is a techno and house artist based in Italy, with 30 gigs on soundcheck across Turin. Often billed alongside Gandalf, Distorted Planet and Polizei. Next up: Azimut Club, Turin on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Kessa is a techno and house artist based in Italy, with 30 gigs on soundcheck ac
 
 Gandalf, Distorted Planet, Polizei
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kessa/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kessa/)*

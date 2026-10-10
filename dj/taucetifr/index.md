@@ -1,8 +1,8 @@
 # Tauceti (FR)
 
-Tauceti (FR) is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+Tauceti (FR) is a Techno and Ambient artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
 
-Tauceti (FR) is a techno and house artist based in France, with 79 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 24 more. Often billed alongside Tommy Four Seven, Kangding Ray and Psyk. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
+Tauceti (FR) is a techno and ambient artist based in France, with 80 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 24 more. Often billed alongside Tommy Four Seven, Kangding Ray and Psyk. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Tauceti (FR) is a techno and house artist based in France, with 79 gigs on sound
 | Sat, 17 Oct 2026 | Bien Public | Bordeaux |
 | Thu, 22 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
+| Sat, 7 Nov 2026 | RSO.BERLIN | Berlin |
 | Sat, 21 Nov 2026 | TBA - TRXX WRHS | Minneapolis-st-paul |
 | Wed, 25 Nov 2026 | TBA - Los Angeles | Los Angeles |
 
@@ -31,4 +32,4 @@ Tauceti (FR) is a techno and house artist based in France, with 79 gigs on sound
 
 Tommy Four Seven, Kangding Ray, Psyk
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taucetifr/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taucetifr/)*

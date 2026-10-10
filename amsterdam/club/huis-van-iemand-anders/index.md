@@ -1,8 +1,8 @@
 # Huis van Iemand Anders
 
-Huis van Iemand Anders is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Huis van Koperblond - Free Entry" on Sat, 10 Oct 2026.
+Huis van Iemand Anders is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Huis van Koperblond - Free Entry" on Sat, 10 Oct 2026.
 
-Huis van Iemand Anders is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Clodol, DE//SIRE, Dr Humedo and Koperblond and 2 more. See dates, start times and who's playing. Van Woustraat 2Hs.
+Huis van Iemand Anders is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Clodol, DE//SIRE, Dr Humedo and Koperblond and 2 more. See dates, start times and who's playing. Van Woustraat 2Hs.
 
 ## What's on
 
@@ -14,9 +14,10 @@ Huis van Iemand Anders is a music venue in Amsterdam listed on soundcheck. 6 upc
 | Thu, 22 Oct 2026 | Bubbling Baby x Huis van Koperblond - Free Entry (ADE Special) | Koperblond, Yucky |
 | Sat, 24 Oct 2026 | Disco Saves The Day presents: MiNNA & Laura Meester | Laura Meester, MiNNA |
 | Sat, 24 Oct 2026 | Koffierave x ADE | Slimfit, Steve Riddm, Vie Aimee, ZOËZO |
+| Sat, 31 Oct 2026 | Halloween x Mean Moves |  |
 
 ## Address
 
 Van Woustraat 2Hs, Amsterdam
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/huis-van-iemand-anders/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/huis-van-iemand-anders/)*

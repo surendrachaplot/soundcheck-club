@@ -1,6 +1,6 @@
 # 87DOVE
 
-87DOVE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Gorg-O-Mish, Vancouver on Sat, 10 Oct 2026.
+87DOVE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Gorg-O-Mish, Vancouver on Sat, 10 Oct 2026.
 
 87DOVE is a house and techno artist, with 11 gigs on soundcheck across Vancouver. Often billed alongside Jared Love, Paul Franc and Bryn Liedl. Next up: Gorg-O-Mish, Vancouver on Sat 10 Oct.
 
@@ -25,4 +25,4 @@
 
 Jared Love, Paul Franc, Bryn Liedl
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/87dove/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/87dove/)*

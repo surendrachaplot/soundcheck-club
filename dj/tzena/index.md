@@ -1,6 +1,6 @@
 # Tzena
 
-Tzena is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Tenax, Florence on Sat, 10 Oct 2026.
+Tzena is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Tenax, Florence on Sat, 10 Oct 2026.
 
 Tzena is a house and electro artist based in Slovenia, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Florence and 6 more. Often billed alongside Mayell, Markus Sommer and Tim Kern. Next up: Tenax, Florence on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Tzena is a house and electro artist based in Slovenia, with 43 gigs on soundchec
 
 Mayell, Markus Sommer, Tim Kern
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tzena/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tzena/)*

@@ -1,14 +1,13 @@
 # Sub Focus
 
-Sub Focus is a Drum & Bass and Bass artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Factory Town, Miami on Fri, 9 Oct 2026.
+Sub Focus is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at New City Gas, Montreal on Thu, 15 Oct 2026.
 
-Sub Focus is a drum & bass and bass artist based in United Kingdom, with 78 gigs on soundcheck across Amsterdam, Auckland, Austin and Birmingham and 35 more. Often billed alongside Culture Shock, Dimension and Hedex. Next up: Factory Town, Miami on Fri 9 Oct.
+Sub Focus is a drum & bass and bass artist based in United Kingdom, with 78 gigs on soundcheck across Amsterdam, Auckland, Austin and Birmingham and 35 more. Often billed alongside Culture Shock, Dimension and Hedex. Next up: New City Gas, Montreal on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Factory Town | Miami |
 | Thu, 15 Oct 2026 | New City Gas | Montreal |
 | Sat, 17 Oct 2026 | Brooklyn Storehouse | New York City |
 | Fri, 20 Nov 2026 | Trädgården | Stockholm |
@@ -17,6 +16,7 @@ Sub Focus is a drum & bass and bass artist based in United Kingdom, with 78 gigs
 
 ## Recently played
 
+- Factory Town, Miami · Fri, 9 Oct 2026
 - Sektor 6D, Warsaw · Fri, 11 Sept 2026
 - Finsbury Park, London · Sun, 2 Aug 2026
 - Tägi, Zurich · Fri, 10 Jul 2026
@@ -24,10 +24,9 @@ Sub Focus is a drum & bass and bass artist based in United Kingdom, with 78 gigs
 - Blackstone Street Warehouse, Liverpool · Sat, 14 Mar 2026
 - TESTBED, Leeds · Sat, 14 Mar 2026
 - Auckland Domain, Auckland · Sat, 7 Feb 2026
-- Kaapelitehdas / The Cable Factory, Helsinki · Sat, 31 Jan 2026
 
 ## Shares bills with
 
 Culture Shock, Dimension, Hedex
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subfocus/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subfocus/)*

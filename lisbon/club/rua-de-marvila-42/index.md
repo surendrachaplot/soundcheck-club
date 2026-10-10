@@ -1,6 +1,6 @@
 # Rua de Marvila 42
 
-Rua de Marvila 42 is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. The next is "à escuta - 2º aniversário" on Sun, 11 Oct 2026.
+Rua de Marvila 42 is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. The next is "à escuta - 2º aniversário" on Sun, 11 Oct 2026.
 
 Rua de Marvila 42 is a music venue in Lisbon listed on soundcheck. 1 upcoming gig, with line-ups including SALTI. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Rua de Marvila 42 is a music venue in Lisbon listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | à escuta - 2º aniversário | SALTI |
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/rua-de-marvila-42/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/rua-de-marvila-42/)*

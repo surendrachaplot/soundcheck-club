@@ -1,6 +1,6 @@
 # Philipp Schultheis
 
-Philipp Schultheis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Goethebunker, Dortmund-essen on Sat, 10 Oct 2026.
+Philipp Schultheis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Goethebunker, Dortmund-essen on Sat, 10 Oct 2026.
 
 Philipp Schultheis is a house and techno artist based in Germany, with 17 gigs on soundcheck across Berlin, Dortmund Essen and Frankfurt. Often billed alongside Leon Licht, Fast (DE) and Harry Nipples. Next up: Goethebunker, Dortmund Essen on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Philipp Schultheis is a house and techno artist based in Germany, with 17 gigs o
 
 Leon Licht, Fast (DE), Harry Nipples
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippschultheis/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippschultheis/)*

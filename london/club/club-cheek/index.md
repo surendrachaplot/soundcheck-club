@@ -1,14 +1,13 @@
 # Club Cheek
 
-Club Cheek is a music venue in London with 16 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Brown Excellence gets Cheeky" on Fri, 9 Oct 2026.
+Club Cheek is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Earthworm with Hagva [live], Elijah Minnnelli [live], Alicia b2b Avsluta, Gillielove, jeet+kilm" on Sat, 10 Oct 2026.
 
-Club Cheek is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Alicia (UK), Alienata, Amit and Avsluta and 2 more. See dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
+Club Cheek is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Ruby SD, Alicia (UK), Alienata and Amit and 2 more. See dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Brown Excellence gets Cheeky |  |
 | Sat, 10 Oct 2026 | Earthworm with Hagva [live], Elijah Minnnelli [live], Alicia b2b Avsluta, Gillielove, jeet+kilm | Alicia (UK), Avsluta, Elijah Minnelli, Gillielove, Hagva, jeet (UK) |
 | Fri, 16 Oct 2026 | Shoulderwork Vol. 2 - Gallegos | EEBEE, Gallegos |
 | Sat, 17 Oct 2026 | Altered Images Fest: Oliver Ho, Alienata | Alienata, Broken English Club |
@@ -18,9 +17,10 @@ Club Cheek is a music venue in London listed on soundcheck. 16 upcoming gigs, wi
 | Fri, 30 Oct 2026 | Undercover Parts: Halloween Special | CHAMBER45, Lozzy, Riel, Scratcha, Tibor |
 | Sat, 31 Oct 2026 | Wiggle Room & The Curse of the Lost City | IZZY (UK), Julia SC, Minashi, elshazly |
 | Sun, 1 Nov 2026 | JAZZY SPORT PAST FORWARD RELEASE PARTY | IG Culture, Kay Suzuki, Neue Grafik, Nina Yamada |
+| Fri, 6 Nov 2026 | Private Funktion: Nina Yamada, Offie Mag DJs, Hiren Parmar & Eman Pav | Emanuel Pavlova, Nina Yamada, OFFIE MAG DJs |
 
 ## Address
 
 302-304 Barrington Road, London, SW9 7JJ, London
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*

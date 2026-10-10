@@ -1,6 +1,6 @@
 # 4am Kru + Jolie P + more TBA at Quarters
 
-4am Kru + Jolie P + more TBA at Quarters on Fri 16 Oct, Brighton. 1 artist: 4am Kru. Hardcore and Jungle. See the line-up on soundcheck.
+4am Kru + Jolie P + more TBA at Quarters on Fri 16 Oct, Brighton. 2 artists: 4am Kru and Jolie P. Hardcore and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@
 ## Line-up
 
 - 4am Kru
+- Jolie P
 
 *Source: [soundcheck](https://soundcheck.club/e/2513448-4am-kru-jolie-p-more-tba-at-quarters/)*

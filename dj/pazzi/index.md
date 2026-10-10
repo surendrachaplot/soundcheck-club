@@ -1,6 +1,6 @@
 # Pazzi
 
-Pazzi is a House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - cafe haratsi, Cyprus on Sat, 10 Oct 2026.
+Pazzi is a House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - cafe haratsi, Cyprus on Sat, 10 Oct 2026.
 
 Pazzi is a house artist based in Cyprus, with 4 gigs on soundcheck across Cyprus and Warsaw. Often billed alongside AWEN, Adam Beyer and Adiel. Next up: TBA - cafe haratsi, Cyprus on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ Pazzi is a house artist based in Cyprus, with 4 gigs on soundcheck across Cyprus
 
 AWEN, Adam Beyer, Adiel
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pazzi/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pazzi/)*

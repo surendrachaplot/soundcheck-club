@@ -1,6 +1,6 @@
 # Katatonic Silentio
 
-Katatonic Silentio is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Magazzino sul Po, Turin on Sat, 17 Oct 2026.
+Katatonic Silentio is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Magazzino sul Po, Turin on Sat, 17 Oct 2026.
 
 Katatonic Silentio is a techno and bass artist based in Italy, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 18 more. Often billed alongside Stenny, Skee Mask and Odd Shy Guy. Next up: Magazzino sul Po, Turin on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Katatonic Silentio is a techno and bass artist based in Italy, with 85 gigs on s
 
 Stenny, Skee Mask, Odd Shy Guy
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katatonicsilentio-it/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katatonicsilentio-it/)*

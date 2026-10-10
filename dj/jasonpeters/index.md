@@ -1,19 +1,19 @@
 # Jason Peters
 
-Jason Peters is a House and Italo Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 9 Oct 2026.
+Jason Peters is a House and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Bar Oriente, Mexico City on Fri, 13 Nov 2026.
 
-Jason Peters is a house and italo disco artist based in United States of America, with 20 gigs on soundcheck across Barcelona, Los Angeles, Mexico City and San Francisco/Oakland and 2 more. Often billed alongside Sharlese, Amatric and Asymmetry. Next up: Public Works, San Francisco/Oakland on Fri 9 Oct.
+Jason Peters is a house and italo disco artist based in United States of America, with 20 gigs on soundcheck across Barcelona, Los Angeles, Mexico City and San Francisco/Oakland and 2 more. Often billed alongside Sharlese, Amatric and Asymmetry. Next up: Bar Oriente, Mexico City on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Public Works | San Francisco/Oakland |
 | Fri, 13 Nov 2026 | Bar Oriente | Mexico City |
 | Sat, 12 Dec 2026 | 93 Beer Tap | Tijuana |
 
 ## Recently played
 
+- Public Works, San Francisco/Oakland · Fri, 9 Oct 2026
 - Public Works, San Francisco/Oakland · Sat, 15 Aug 2026
 - The Monkey Loft, Seattle · Thu, 16 Jul 2026
 - Sala Upload Barcelona, Barcelona · Sat, 30 May 2026
@@ -21,10 +21,9 @@ Jason Peters is a house and italo disco artist based in United States of America
 - Public Works, San Francisco/Oakland · Fri, 6 Mar 2026
 - Public Works, San Francisco/Oakland · Fri, 31 Oct 2025
 - Pony, Seattle · Sat, 11 Oct 2025
-- TBA - Downtown Los Angeles, Los Angeles · Sat, 16 Aug 2025
 
 ## Shares bills with
 
 Sharlese, Amatric, Asymmetry
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonpeters/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonpeters/)*

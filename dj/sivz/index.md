@@ -1,0 +1,28 @@
+# Sivz
+
+Sivz is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Gorg-O-Mish, Vancouver on Sat, 24 Oct 2026.
+
+Sivz is a tech house and techno artist based in Canada, with 20 gigs on soundcheck across Miami and Vancouver. Often billed alongside Paul Franc, Bryn Liedl and STILL LNDN. Next up: Gorg-O-Mish, Vancouver on Sat 24 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 24 Oct 2026 | Gorg-O-Mish | Vancouver |
+
+## Recently played
+
+- At The Waldorf Hotel, Vancouver · Sat, 15 Aug 2026
+- Village Studios, Vancouver · Sat, 18 Jul 2026
+- Cinemagic Lab, Vancouver · Sat, 28 Feb 2026
+- TBA, Vancouver · Sat, 3 Jan 2026
+- Platform9, Vancouver · Sat, 20 Dec 2025
+- Gorg-O-Mish, Vancouver · Sun, 7 Sept 2025
+- Gorg-O-Mish, Vancouver · Sun, 22 Jun 2025
+- Industrial Garden, Vancouver · Sat, 21 Jun 2025
+
+## Shares bills with
+
+Paul Franc, Bryn Liedl, STILL LNDN
+
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sivz/)*

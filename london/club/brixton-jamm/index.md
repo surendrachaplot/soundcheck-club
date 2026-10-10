@@ -1,14 +1,13 @@
 # Brixton Jamm
 
-Brixton Jamm is a music venue in London with 16 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Jungle Splash" on Fri, 9 Oct 2026.
+Brixton Jamm is a music venue in London with 16 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "EXXPLANA - Baile Funk" on Sat, 10 Oct 2026.
 
-Brixton Jamm is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including alterum, Benny Page, CHEZA LUCINA and CHICCA and 2 more. See dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
+Brixton Jamm is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including alterum, Benny Page, CHICCA and Deekline and 2 more. See dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Jungle Splash | CHEZA LUCINA, Potential Badboy, The Ragga Twins, Uncle Dugs, ŌKAMI |
 | Sat, 10 Oct 2026 | EXXPLANA - Baile Funk |  |
 | Fri, 16 Oct 2026 | LAJU - Juls & Larizzle | Juls, Larizzle, Rhiavas |
 | Sat, 17 Oct 2026 | Joga Bonito - National Medical Schools x HotSpot |  |
@@ -18,9 +17,10 @@ Brixton Jamm is a music venue in London listed on soundcheck. 16 upcoming gigs, 
 | Sat, 24 Oct 2026 | The Prog Lab x Gemini Sounds - Simon Vuarambon (4hr set) | Harry Wilson, Jawjee, Marco (UK), Nadia, Simon Vuarambon |
 | Sat, 24 Oct 2026 | Slow Jamm: Late Night Special |  |
 | Thu, 29 Oct 2026 | Moshi Rave | Jaymie, alterum |
+| Fri, 30 Oct 2026 | Jungle Cakes Halloween 360 | Benny Page, CHICCA, DJ Millz, Deekline, G-Class, General Levy, Jamakabi, Serial Killaz |
 
 ## Address
 
 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom, London
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*

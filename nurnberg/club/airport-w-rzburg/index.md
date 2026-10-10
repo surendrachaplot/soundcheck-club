@@ -1,14 +1,13 @@
 # Airport Würzburg
 
-Airport Würzburg is a music venue in Nürnberg with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "HARD IM AIR pres. THE SAINTS" on Fri, 9 Oct 2026.
+Airport Würzburg is a music venue in Nürnberg with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Teletech Würzburg" on Fri, 16 Oct 2026.
 
-Airport Würzburg is a music venue in Nürnberg listed on soundcheck. 8 upcoming gigs, with line-ups including AMBAM, ANN-LUX, Anuuk and BMG and 2 more. See dates, start times and who's playing. Gattingerstr. 17; 97076 Würzburg; Germany.
+Airport Würzburg is a music venue in Nürnberg listed on soundcheck. 7 upcoming gigs, with line-ups including AMBAM, ANN-LUX, Anuuk and Cassa Cristano and 2 more. See dates, start times and who's playing. Gattingerstr. 17; 97076 Würzburg; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | HARD IM AIR pres. THE SAINTS | BMG, Neo.official |
 | Fri, 16 Oct 2026 | Teletech Würzburg | GLASSBASS, KIRSTY, KLOUD, Kander, Karamustan, KimberlaID, Lola Cerise, Lolalita, Mad Dog, Ornella, TASSERY, Yoshiko, dasstudach |
 | Fri, 16 Oct 2026 | TELETECH X AIRPORT | DJ maddog, GLASSBASS, KIRSTY, KLOUD, Kander, Karamustan, KimberlaID, Lola Cerise, Lolalita, Ornella, TASSERY, Yoshiko, dasstudach |
 | Fri, 30 Oct 2026 | Airport pres. TERMINAL SCHRANZ | Mantraa, Noise Not War, O.B.I. (DE), Obscure Shape, Timm Schirmer |
@@ -21,4 +20,4 @@ Airport Würzburg is a music venue in Nürnberg listed on soundcheck. 8 upcoming
 
 Gattingerstr. 17; 97076 Würzburg; Germany, Nürnberg
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/airport-w-rzburg/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/airport-w-rzburg/)*

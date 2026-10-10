@@ -1,6 +1,6 @@
 # Ingvil
 
-Ingvil is a Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at MODULE, Copenhagen on Fri, 16 Oct 2026.
+Ingvil is a Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at MODULE, Copenhagen on Fri, 16 Oct 2026.
 
 Ingvil is a trance artist, with 11 gigs on soundcheck across Copenhagen. Often billed alongside DJ Void, Mikkel Wonsbek and AEREA. Next up: MODULE, Copenhagen on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Ingvil is a trance artist, with 11 gigs on soundcheck across Copenhagen. Often b
 
 DJ Void, Mikkel Wonsbek, AEREA
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ingvil/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ingvil/)*

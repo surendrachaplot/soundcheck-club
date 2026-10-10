@@ -1,6 +1,6 @@
 # Klaudia Gawlas
 
-Klaudia Gawlas is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Galerie Kurzweil, Darmstadt on Sat, 10 Oct 2026.
+Klaudia Gawlas is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Galerie Kurzweil, Darmstadt on Sat, 10 Oct 2026.
 
 Klaudia Gawlas is a techno and tech house artist based in Germany, with 80 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside Spartaque, Joris Turenhout and Joyhauser. Next up: Galerie Kurzweil, Darmstadt on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Klaudia Gawlas is a techno and tech house artist based in Germany, with 80 gigs 
 
 Spartaque, Joris Turenhout, Joyhauser
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klaudiagawlas/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klaudiagawlas/)*

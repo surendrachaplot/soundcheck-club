@@ -1,6 +1,6 @@
 # Coffintexts
 
-Coffintexts is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Coffintexts is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Coffintexts is a techno and house artist based in United States of America, with 133 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 32 more. Often billed alongside Sister System, SATURNSARii and Berrakka. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Coffintexts is a techno and house artist based in United States of America, with
 
 Sister System, SATURNSARii, Berrakka
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coffintexts/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coffintexts/)*

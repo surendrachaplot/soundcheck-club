@@ -1,6 +1,6 @@
 # DJ Pendejo
 
-DJ Pendejo is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Japan Monterrey, Mexico City on Sat, 10 Oct 2026.
+DJ Pendejo is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Japan Monterrey, Mexico City on Sat, 10 Oct 2026.
 
 DJ Pendejo is a techno and reggaeton artist, with 21 gigs on soundcheck across Berlin, Dublin, Leipzig and Mexico City. Often billed alongside IRONBOARD, Isa GT and kopo. Next up: Japan Monterrey, Mexico City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DJ Pendejo is a techno and reggaeton artist, with 21 gigs on soundcheck across B
 
 IRONBOARD, Isa GT, kopo
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpendejo/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpendejo/)*

@@ -1,6 +1,6 @@
 # Colombian Drone Mafia
 
-Colombian Drone Mafia is a Latin Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at BARDO, Milan on Wed, 14 Oct 2026.
+Colombian Drone Mafia is a Latin Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at BARDO, Milan on Wed, 14 Oct 2026.
 
 Colombian Drone Mafia is a latin bass and techno artist, with 22 gigs on soundcheck across Berlin, London, Milan and New York City and 1 more. Often billed alongside Nyksan, Nick León and Verraco. Next up: BARDO, Milan on Wed 14 Oct.
 
@@ -26,4 +26,4 @@ Colombian Drone Mafia is a latin bass and techno artist, with 22 gigs on soundch
 
 Nyksan, Nick León, Verraco
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colombiandronemafia/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colombiandronemafia/)*

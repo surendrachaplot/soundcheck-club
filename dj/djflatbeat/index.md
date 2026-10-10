@@ -1,6 +1,6 @@
 # DJ Flatbeat
 
-DJ Flatbeat is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Giselle, Düsseldorf on Sat, 10 Oct 2026.
+DJ Flatbeat is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Giselle, Düsseldorf on Sat, 10 Oct 2026.
 
 DJ Flatbeat is a house and techno artist based in Germany, with 7 gigs on soundcheck across Cologne and Düsseldorf. Often billed alongside Lavan, MF DUMM and Dr Banana. Next up: Giselle, Düsseldorf on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ DJ Flatbeat is a house and techno artist based in Germany, with 7 gigs on soundc
 
 Lavan, MF DUMM, Dr Banana
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djflatbeat/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djflatbeat/)*

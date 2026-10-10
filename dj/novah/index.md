@@ -1,14 +1,13 @@
 # NOVAH
 
-NOVAH is a Techno and Trance artist with 15 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Warehouse, Nantes on Fri, 9 Oct 2026.
+NOVAH is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Lutfi Kirdar Congress Center, Istanbul on Sat, 17 Oct 2026.
 
-NOVAH is a techno and trance artist based in Belgium, with 177 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Cloudy, Nico Moreno and Onlynumbers. Next up: Warehouse, Nantes on Fri 9 Oct.
+NOVAH is a techno and trance artist based in Belgium, with 177 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Cloudy, Nico Moreno and Onlynumbers. Next up: Lutfi Kirdar Congress Center, Istanbul on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Warehouse | Nantes |
 | Sat, 17 Oct 2026 | Lutfi Kirdar Congress Center | Istanbul |
 | Wed, 21 Oct 2026 | Sugarfactory | Amsterdam |
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
@@ -20,9 +19,11 @@ NOVAH is a techno and trance artist based in Belgium, with 177 gigs on soundchec
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 | Sat, 5 Dec 2026 | Fortuna Hall | Prague |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
+| Fri, 18 Dec 2026 | Messe Stuttgart | Stuttgart |
 
 ## Recently played
 
+- Warehouse, Nantes · Fri, 9 Oct 2026
 - Garage Klub, Antwerp · Sat, 3 Oct 2026
 - Kompass Klub, Ghent · Fri, 2 Oct 2026
 - Tapada da Ajuda, Lisbon · Sat, 19 Sept 2026
@@ -30,10 +31,9 @@ NOVAH is a techno and trance artist based in Belgium, with 177 gigs on soundchec
 - Palace of Fine Arts, San Francisco/Oakland · Sun, 6 Sept 2026
 - Palace of Fine Arts, San Francisco/Oakland · Sun, 6 Sept 2026
 - Edelfettwerk, Hamburg · Sun, 30 Aug 2026
-- Kiesgrube, Düsseldorf · Sun, 23 Aug 2026
 
 ## Shares bills with
 
 Cloudy, Nico Moreno, Onlynumbers
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*

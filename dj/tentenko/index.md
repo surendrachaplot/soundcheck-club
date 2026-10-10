@@ -1,6 +1,6 @@
 # TENTENKO
 
-TENTENKO is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Kyoto University Yoshida Dormitory, Kyoto on Sat, 14 Nov 2026.
+TENTENKO is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Kyoto University Yoshida Dormitory, Kyoto on Sat, 14 Nov 2026.
 
 TENTENKO is an experimental and electronica artist based in Japan, with 21 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside YUKO ARAKI, 1TA and Aiconga. Next up: Kyoto University Yoshida Dormitory, Kyoto on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ TENTENKO is an experimental and electronica artist based in Japan, with 21 gigs 
 
 YUKO ARAKI, 1TA (1), Aiconga
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tentenko/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tentenko/)*

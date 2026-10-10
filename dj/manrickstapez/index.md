@@ -1,6 +1,6 @@
 # Manrick Stapez
 
-Manrick Stapez is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Sensorium, Berlin on Wed, 14 Oct 2026.
+Manrick Stapez is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Sensorium, Berlin on Wed, 14 Oct 2026.
 
 Manrick Stapez is a techno and trance artist based in Germany, with 51 gigs on soundcheck across Berlin, Dublin, Frankfurt and Hamburg and 1 more. Often billed alongside PHLOXO, Tiem and HAUSBRAND. Next up: Sensorium, Berlin on Wed 14 Oct.
 
@@ -26,4 +26,4 @@ Manrick Stapez is a techno and trance artist based in Germany, with 51 gigs on s
 
 PHLOXO, Tiem, HAUSBRAND
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manrickstapez/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manrickstapez/)*

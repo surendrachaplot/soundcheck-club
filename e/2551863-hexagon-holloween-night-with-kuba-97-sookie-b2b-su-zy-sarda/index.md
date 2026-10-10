@@ -1,6 +1,6 @@
 # Hexagon Holloween Night with Kuba '97 / Sookie b2b su:zy / Sarda Etcetera (live) / Fossette at Hexagon Brussels
 
-Hexagon Holloween Night with Kuba '97 / Sookie b2b su:zy / Sarda Etcetera (live) / Fossette at Hexagon Brussels on Sat 31 Oct, Brussels. 5 artists: Dj Fossette, Kuba'97, Sarda Etcetera and Sookie and 1 more. Tech House. See the line-up on soundcheck.
+Hexagon Holloween Night with Kuba '97 / Sookie b2b su:zy / Sarda Etcetera (live) / Fossette at Hexagon Brussels on Sat 31 Oct, Brussels. 5 artists: Fossette, Kuba'97, Sarda Etcetera and Sookie and 1 more. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Hexagon Holloween Night with Kuba '97 / Sookie b2b su:zy / Sarda Etcetera (live)
 
 ## Line-up
 
-- Dj Fossette
+- Fossette
 - Kuba'97
 - Sarda Etcetera
 - Sookie (3)

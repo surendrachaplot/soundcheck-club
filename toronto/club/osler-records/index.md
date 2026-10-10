@@ -1,6 +1,6 @@
 # Osler Records
 
-Osler Records is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Young Teesh + HVN" on Sat, 10 Oct 2026.
+Osler Records is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Young Teesh + HVN" on Sat, 10 Oct 2026.
 
 Osler Records is a music venue in Toronto listed on soundcheck. 3 upcoming gigs, with line-ups including Bear Gravy, HVN, HYMZ and Jaime Sin and 2 more. See dates, start times and who's playing. 2 A Osler St, Toronto, ON M6P 4A2, Canada.
 
@@ -16,4 +16,4 @@ Osler Records is a music venue in Toronto listed on soundcheck. 3 upcoming gigs,
 
 2 A Osler St, Toronto, ON M6P 4A2, Canada, Toronto
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/osler-records/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/osler-records/)*

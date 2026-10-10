@@ -1,6 +1,6 @@
 # DIROS
 
-DIROS is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at NIX Barcelona, Barcelona on Fri, 30 Oct 2026.
+DIROS is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at NIX Barcelona, Barcelona on Fri, 30 Oct 2026.
 
 DIROS is a tech house and house artist based in Spain, with 65 gigs on soundcheck across Amsterdam and Barcelona. Often billed alongside Jon Peña, Rubenus and Pau Guilera. Next up: NIX Barcelona, Barcelona on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DIROS is a tech house and house artist based in Spain, with 65 gigs on soundchec
 
 Jon Peña, Rubenus, Pau Guilera
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diros/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diros/)*

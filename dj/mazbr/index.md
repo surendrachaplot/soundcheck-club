@@ -1,14 +1,13 @@
 # Maz (BR)
 
-Maz (BR) is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
+Maz (BR) is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Lula Club, Madrid on Fri, 16 Oct 2026.
 
-Maz (BR) is a house and tech house artist based in Brazil, with 105 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 28 more. Often billed alongside Antdot, Vintage Culture and Black Coffee. Next up: Hï Ibiza, Ibiza on Fri 9 Oct.
+Maz (BR) is a house and tech house artist based in Brazil, with 105 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 28 more. Often billed alongside Antdot, Vintage Culture and Black Coffee. Next up: Lula Club, Madrid on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Hï Ibiza | Ibiza |
 | Fri, 16 Oct 2026 | Lula Club | Madrid |
 | Fri, 23 Oct 2026 | Westerkerk | Amsterdam |
 | Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |
@@ -17,6 +16,7 @@ Maz (BR) is a house and tech house artist based in Brazil, with 105 gigs on soun
 
 ## Recently played
 
+- Hï Ibiza, Ibiza · Fri, 9 Oct 2026
 - Lula Club, Madrid · Thu, 10 Sept 2026
 - Hï Ibiza, Ibiza · Sat, 5 Sept 2026
 - Void Mykonos, Mykonos · Fri, 14 Aug 2026
@@ -24,10 +24,9 @@ Maz (BR) is a house and tech house artist based in Brazil, with 105 gigs on soun
 - The Cause, London · Fri, 24 Jul 2026
 - Void Mykonos, Mykonos · Fri, 17 Jul 2026
 - Fira Gran Via, Barcelona · Mon, 15 Jun 2026
-- Autódromo de Interlagos, Sao Paulo · Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Antdot, Vintage Culture, Black Coffee
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazbr/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazbr/)*

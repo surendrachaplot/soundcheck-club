@@ -1,6 +1,6 @@
 # TS7
 
-TS7 is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Nest, Nottingham on Sat, 17 Oct 2026.
+TS7 is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Nest, Nottingham on Sat, 17 Oct 2026.
 
 TS7 is a bass and house artist based in United Kingdom, with 21 gigs on soundcheck across Auckland, Birmingham, Bristol and Glasgow and 6 more. Often billed alongside Burgaboy, Chad Harrison and DJ Q. Next up: The Nest, Nottingham on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ TS7 is a bass and house artist based in United Kingdom, with 21 gigs on soundche
 
 Burgaboy, Chad Harrison, DJ Q
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ts7/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ts7/)*

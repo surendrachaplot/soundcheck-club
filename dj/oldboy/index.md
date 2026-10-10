@@ -1,14 +1,13 @@
 # Oldboy
 
-Oldboy is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Stealth, Nottingham on Fri, 9 Oct 2026.
+Oldboy is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
 
-Oldboy is a garage and house artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Athens, Birmingham and Brighton and 18 more. Often billed alongside DJ Cosworth, Captain Wallop and Prozak (IRL). Next up: Stealth, Nottingham on Fri 9 Oct.
+Oldboy is a garage and house artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Athens, Birmingham and Brighton and 18 more. Often billed alongside DJ Cosworth, Captain Wallop and Prozak (IRL). Next up: Depot Mayfield, Manchester on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Stealth | Nottingham |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 31 Oct 2026 | Cardiff Students' Union - Y Plas | Cardiff |
 | Sun, 1 Nov 2026 | The Cause | London |
@@ -18,6 +17,7 @@ Oldboy is a garage and house artist based in United Kingdom, with 58 gigs on sou
 
 ## Recently played
 
+- Stealth, Nottingham · Fri, 9 Oct 2026
 - Kapsule, Liverpool · Sat, 26 Sept 2026
 - The Bongo Club, Edinburgh · Thu, 17 Sept 2026
 - BASIS, Utrecht · Fri, 11 Sept 2026
@@ -25,10 +25,9 @@ Oldboy is a garage and house artist based in United Kingdom, with 58 gigs on sou
 - 93 Feet East, London · Sat, 22 Aug 2026
 - Ouseburn Garden, Newcastle · Fri, 7 Aug 2026
 - PROGRESS, Manchester · Sat, 6 Jun 2026
-- export, Rotterdam · Sun, 26 Apr 2026
 
 ## Shares bills with
 
 DJ Cosworth, Captain Wallop, Prozak (IRL)
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboy/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboy/)*

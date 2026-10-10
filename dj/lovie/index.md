@@ -1,8 +1,8 @@
 # Lovie
 
-Lovie is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Tigris, Detroit on Sat, 10 Oct 2026.
+Lovie is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Tigris, Detroit on Sat, 10 Oct 2026.
 
-Lovie is a house and deep house artist based in United States of America, with 130 gigs on soundcheck across Athens, Berlin, Brighton and Detroit and 12 more. Often billed alongside Honey Bun, JADALAREIGN and Kfeelz. Next up: Tigris, Detroit on Sat 10 Oct.
+Lovie is a house and deep house artist based in United States of America, with 131 gigs on soundcheck across Athens, Berlin, Brighton and Detroit and 12 more. Often billed alongside Honey Bun, JADALAREIGN and Kfeelz. Next up: Tigris, Detroit on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lovie is a house and deep house artist based in United States of America, with 1
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Tigris | Detroit |
 | Fri, 16 Oct 2026 | Nowadays | New York City |
+| Fri, 23 Oct 2026 | The Chocolate Factory | New York City |
 | Sat, 31 Oct 2026 | TBA - Brooklyn | New York City |
 
 ## Recently played
@@ -27,4 +28,4 @@ Lovie is a house and deep house artist based in United States of America, with 1
 
 Honey Bun, JADALAREIGN, Kfeelz
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovie/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovie/)*

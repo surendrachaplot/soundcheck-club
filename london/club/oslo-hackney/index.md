@@ -1,14 +1,13 @@
 # Oslo Hackney
 
-Oslo Hackney is a music venue in London with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "SYN LDN: Eliminate with special guest: RIOT" on Fri, 9 Oct 2026.
+Oslo Hackney is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Locomotive Disco - House, Disco, Funk & Boogie ft Disco Freaks" on Sat, 10 Oct 2026.
 
-Oslo Hackney is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Disco Freaks, Lemmy Ashton and What So Not. See dates, start times and who's playing. 1a Amhurst Road, Hackney, London,  E8 1LL.
+Oslo Hackney is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Disco Freaks, Lemmy Ashton and What So Not. See dates, start times and who's playing. 1a Amhurst Road, Hackney, London,  E8 1LL.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | SYN LDN: Eliminate with special guest: RIOT |  |
 | Sat, 10 Oct 2026 | Locomotive Disco - House, Disco, Funk & Boogie ft Disco Freaks | Disco Freaks |
 | Sat, 17 Oct 2026 | Locomotive Disco - House, Disco, Funk & Boogie ft Sue From HR |  |
 | Sat, 24 Oct 2026 | Locomotive Disco - House, Disco, Funk & Boogie |  |
@@ -20,4 +19,4 @@ Oslo Hackney is a music venue in London listed on soundcheck. 7 upcoming gigs, w
 
 1a Amhurst Road, Hackney, London,  E8 1LL, London
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/oslo-hackney/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/oslo-hackney/)*

@@ -1,6 +1,6 @@
 # Patxi
 
-Patxi is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Lyon - Confluence, Lyon on Wed, 9 Dec 2026.
+Patxi is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Lyon - Confluence, Lyon on Wed, 9 Dec 2026.
 
 Patxi is an electro and house artist based in France, with 19 gigs on soundcheck across Lyon and Paris. Often billed alongside Pedro Bertho, Warum and Dom Peter. Next up: TBA - Lyon - Confluence, Lyon on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ Patxi is an electro and house artist based in France, with 19 gigs on soundcheck
 
 Pedro Bertho, Warum, Dom Peter
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patxi/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patxi/)*

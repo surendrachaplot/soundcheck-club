@@ -1,13 +1,14 @@
 # Silpagare
 
-Silpagare is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Distillery N17, London on Sat, 28 Nov 2026.
+Silpagare is a Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Glove That Fits, London on Fri, 6 Nov 2026.
 
-Silpagare is a techno artist based in United Kingdom, with 13 gigs on soundcheck across Berlin and London. Often billed alongside DREIAN, Deranged and Desiree'. Next up: Distillery N17, London on Sat 28 Nov.
+Silpagare is a techno artist based in United Kingdom, with 14 gigs on soundcheck across Berlin and London. Often billed alongside DREIAN, DELARA and Deranged. Next up: The Glove That Fits, London on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | The Glove That Fits | London |
 | Sat, 28 Nov 2026 | Distillery N17 | London |
 | Sat, 19 Dec 2026 | E1 | London |
 
@@ -24,6 +25,6 @@ Silpagare is a techno artist based in United Kingdom, with 13 gigs on soundcheck
 
 ## Shares bills with
 
-DREIAN, Deranged, Desiree'
+DREIAN, DELARA, Deranged
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silpagare/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silpagare/)*

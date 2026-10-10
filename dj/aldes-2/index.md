@@ -1,6 +1,6 @@
 # ALDES (2)
 
-ALDES (2) is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Depo Klub, Zagreb on Sat, 17 Oct 2026.
+ALDES (2) is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Depo Klub, Zagreb on Sat, 17 Oct 2026.
 
 ALDES is a techno and industrial artist based in Chile, with 6 gigs on soundcheck across Belgrade, Budapest, Madrid and Zagreb. Often billed alongside DUGASZ, GØBLIN and Menace Annihilation. Next up: Depo Klub, Zagreb on Sat 17 Oct.
 
@@ -22,4 +22,4 @@ ALDES is a techno and industrial artist based in Chile, with 6 gigs on soundchec
 
 DUGASZ, GØBLIN, Menace Annihilation
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aldes-2/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aldes-2/)*

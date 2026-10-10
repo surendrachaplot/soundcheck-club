@@ -1,6 +1,6 @@
 # Melkweg
 
-Melkweg is a music venue in Amsterdam with 55 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Hard Attack" on Sat, 10 Oct 2026.
+Melkweg is a music venue in Amsterdam with 55 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Hard Attack" on Sat, 10 Oct 2026.
 
 Melkweg is a music venue in Amsterdam listed on soundcheck. 55 upcoming gigs, with line-ups including 2HOT2PLAY, 4am Kru, Yulia Niko and ALT8 and 2 more. See dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
 
@@ -23,4 +23,4 @@ Melkweg is a music venue in Amsterdam listed on soundcheck. 55 upcoming gigs, wi
 
 Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam, Amsterdam
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*

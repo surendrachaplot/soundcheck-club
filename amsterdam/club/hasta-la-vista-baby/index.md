@@ -1,6 +1,6 @@
 # Hasta La Vista, Baby
 
-Hasta La Vista, Baby is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Bizarre Trax x Focal Point - ADE 2026" on Thu, 22 Oct 2026.
+Hasta La Vista, Baby is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Bizarre Trax x Focal Point - ADE 2026" on Thu, 22 Oct 2026.
 
 Hasta La Vista, Baby is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including B.Love, Deborah Aime La Bagarre, E.LINA and Forest and 2 more. See dates, start times and who's playing. Eduard van Beinumstraat 40, 1077 CZ, Amsterdam.
 
@@ -10,10 +10,10 @@ Hasta La Vista, Baby is a music venue in Amsterdam listed on soundcheck. 3 upcom
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Bizarre Trax x Focal Point - ADE 2026 | B.Love, E.LINA, Jhobei, Oliver.r, Voigtmann |
 | Sat, 24 Oct 2026 | Chevry x Shotgun / ADE Showcase | Deborah Aime La Bagarre, HearThug, Vitess |
-| Sun, 25 Oct 2026 | HORS-SOL x Sentaku — ADE : Sugar Free, Forest b2b Jolly, LAMALICE (live), Massaï b2b Ill Spleen | Forest, Ill Spleen, Jolly (FR), LAMALICE, Massaï, Sugar Free |
+| Sun, 25 Oct 2026 | HORS-SOL x Sentaku - ADE : Sugar Free, Forest & Jolly, LAMALICE, Lastvuska, Massaï & Ill Spleen | Forest, Ill Spleen, Jolly (FR), LAMALICE, Lastvuska, Massaï, Sugar Free |
 
 ## Address
 
 Eduard van Beinumstraat 40, 1077 CZ, Amsterdam, Amsterdam
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/hasta-la-vista-baby/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/hasta-la-vista-baby/)*

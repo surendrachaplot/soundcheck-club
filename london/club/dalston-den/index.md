@@ -1,14 +1,13 @@
 # Dalston Den
 
-Dalston Den is a music venue in London with 16 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Breakaway: Babe Gang Records Takeover - Free Entry Before 12am - Garage / Breaks" on Fri, 9 Oct 2026.
+Dalston Den is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "THE PARTYSANS RAVE: BELLA CIAO" on Sat, 10 Oct 2026.
 
-Dalston Den is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Adela, Agility, AKWA and AMAR (UK) and 2 more. See dates, start times and who's playing. 91-93 Kingsland High Street.
+Dalston Den is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Adela, Agility, AKWA and AMAR (UK) and 2 more. See dates, start times and who's playing. 91-93 Kingsland High Street.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Breakaway: Babe Gang Records Takeover - Free Entry Before 12am - Garage / Breaks | Delian Sound, Dukesmith, Edge <3, Illegal Shipment |
 | Sat, 10 Oct 2026 | THE PARTYSANS RAVE: BELLA CIAO | Edge <3, Takenbymarshall |
 | Fri, 16 Oct 2026 | Breakaway: Free Entry Before 12am - Jungle / Drum & Bass | Agility, Bryn Brax, Whatsname |
 | Thu, 22 Oct 2026 | Halloween 2026 |  |
@@ -18,9 +17,10 @@ Dalston Den is a music venue in London listed on soundcheck. 16 upcoming gigs, w
 | Fri, 30 Oct 2026 | SOHO SESSIONS • GUILLERMO DEL TORO • SEASON 9  | Adela, KOKOH, Natalie K Marsland |
 | Fri, 6 Nov 2026 | Breakaway: Free Entry Before 12am - Jungle / Drum & Bass |  |
 | Fri, 6 Nov 2026 | (((SIGNAL x LovelyPeople: AKWA, FriendofaFriend, FITS ME FUNNY B2B Lady Jules + Rivera))) | AKWA, FITS ME FUNNY, FriendofaFriend, Lady Jules, Rivera (UK) |
+| Fri, 13 Nov 2026 | Breakaway: Free Entry Before 12am - Jungle / Drum & Bass |  |
 
 ## Address
 
 91-93 Kingsland High Street, London
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-den/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-den/)*

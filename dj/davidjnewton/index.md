@@ -1,6 +1,6 @@
 # David J Newton
 
-David J Newton is a Progressive House and Minimal Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Kashmir Lounge, Amsterdam on Sat, 10 Oct 2026.
+David J Newton is a Progressive House and Minimal Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Kashmir Lounge, Amsterdam on Sat, 10 Oct 2026.
 
 David J Newton is a progressive house and minimal techno artist based in United Kingdom, with 5 gigs on soundcheck across Amsterdam and Lisbon. Often billed alongside Oscar Rosmano, Jaap Ligthart and Tom Banner. Next up: Kashmir Lounge, Amsterdam on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ David J Newton is a progressive house and minimal techno artist based in United 
 
 Oscar Rosmano, Jaap Ligthart, Tom Banner
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidjnewton/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidjnewton/)*

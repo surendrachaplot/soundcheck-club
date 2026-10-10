@@ -1,6 +1,6 @@
 # HVN (1)
 
-HVN (1) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Osler Records, Toronto on Sat, 10 Oct 2026.
+HVN (1) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Osler Records, Toronto on Sat, 10 Oct 2026.
 
 HVN is a club and techno artist, with 110 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside Ard1n, Young Teesh and Litney. Next up: Osler Records, Toronto on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ HVN is a club and techno artist, with 110 gigs on soundcheck across Montreal, Ne
 
 Ard1n, Young Teesh, Litney
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hvn-1/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hvn-1/)*

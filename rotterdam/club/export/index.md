@@ -1,18 +1,17 @@
 # export
 
-export is a music venue in Rotterdam with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "lizz.e, victor" on Fri, 9 Oct 2026.
+export is a music venue in Rotterdam with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Deets, Pariah" on Fri, 16 Oct 2026.
 
-export is a music venue in Rotterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Blood of Aza, CAIN, Candy Coup and Chinnamasta and 2 more. See dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
+export is a music venue in Rotterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Blood of Aza, CAIN, Candy Coup and Chinnamasta and 2 more. See dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | lizz.e, victor | Victor (DE), lizz.e |
 | Fri, 16 Oct 2026 | Deets, Pariah | Deets, Pariah |
 | Sat, 17 Oct 2026 | Los Angles x Klauw | Blood of Aza, Candy Coup, Chinnamasta, DJ Shahmaran, YoungWoman |
 | Fri, 23 Oct 2026 | Nomads Invite: Jolene & Bobby Martin | Nomads |
-| Sat, 7 Nov 2026 | POING 4 YEAR ANNIVERSARY | CAIN, Candy Coup, CyberFairy777, DIORA, Faustin (NL), Glabra, Nelly (NL), RICO RICA, Saint Nia, Slimfit, TWIENA, ZOBAYDA, fka phaedra |
+| Sat, 7 Nov 2026 | POING 4 YEAR ANNIVERSARY | CAIN, Candy Coup, CyberFairy777, DIORA, Faustin (NL), Glabra, Nelly (NL), RICO RICA, Saint Nia, Slimfit, TWIENA, XSULTVN, ZOBAYDA, fka phaedra |
 | Fri, 20 Nov 2026 | BÄR ...IsBurning |  |
 | Sat, 5 Dec 2026 | LEGACY ROTTERDAM | Gizmo, Predator |
 | Sat, 23 Jan 2027 | Born to Dance | Da Gremlin, Gysèle |
@@ -21,4 +20,4 @@ export is a music venue in Rotterdam listed on soundcheck. 8 upcoming gigs, with
 
 Keilestraat 7E, 3029 BP, Rotterdam, Rotterdam
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*

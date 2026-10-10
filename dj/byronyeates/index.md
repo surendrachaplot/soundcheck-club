@@ -1,14 +1,13 @@
 # Byron Yeates
 
-Byron Yeates is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at La Terrrazza, Barcelona on Fri, 9 Oct 2026.
+Byron Yeates is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at BASEMENT, New York City on Fri, 16 Oct 2026.
 
-Byron Yeates is a house and techno artist, with 195 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 48 more. Often billed alongside THC, DHC and Angel D'lite. Next up: La Terrrazza, Barcelona on Fri 9 Oct.
+Byron Yeates is a house and techno artist, with 195 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 48 more. Often billed alongside THC, DHC and Angel D'lite. Next up: BASEMENT, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | La Terrrazza | Barcelona |
 | Fri, 16 Oct 2026 | BASEMENT | New York City |
 | Fri, 23 Oct 2026 | KREUZWERK | Berlin |
 | Fri, 30 Oct 2026 | Indiego Glocksee | Hannover |
@@ -17,6 +16,7 @@ Byron Yeates is a house and techno artist, with 195 gigs on soundcheck across Am
 
 ## Recently played
 
+- La Terrrazza, Barcelona · Fri, 9 Oct 2026
 - De Papierfabriek, Nijmegen · Sat, 3 Oct 2026
 - Camp Kennybrook, New York City · Thu, 10 Sept 2026
 - Else, Berlin · Sun, 6 Sept 2026
@@ -24,10 +24,9 @@ Byron Yeates is a house and techno artist, with 195 gigs on soundcheck across Am
 - Southwark Park, London · Sun, 30 Aug 2026
 - Gut Level, Sheffield · Sat, 29 Aug 2026
 - TBA - Schwing und Stampf Festival, Zurich · Thu, 27 Aug 2026
-- RSO.BERLIN, Berlin · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 THC, DHC, Angel D'lite
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*

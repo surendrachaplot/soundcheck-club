@@ -1,14 +1,13 @@
 # The Underbank
 
-The Underbank is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Underbank: Len" on Fri, 9 Oct 2026.
+The Underbank is a music venue in Manchester with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Underbank: MoodyManc & Robin Henge" on Sat, 10 Oct 2026.
 
-The Underbank is a music venue in Manchester listed on soundcheck. 10 upcoming gigs, with line-ups including Chris Massey, Fries With That, Joey T and Metrodome and 2 more. See dates, start times and who's playing. 27 Great Underbank, Stockport, SK1 1LN.
+The Underbank is a music venue in Manchester listed on soundcheck. 9 upcoming gigs, with line-ups including Chris Massey, Fries With That, Joey T and Metrodome and 2 more. See dates, start times and who's playing. 27 Great Underbank, Stockport, SK1 1LN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Underbank: Len |  |
 | Sat, 10 Oct 2026 | Underbank: MoodyManc & Robin Henge | Moodymanc |
 | Sun, 11 Oct 2026 | Underbank: Fries With That | Fries With That |
 | Fri, 16 Oct 2026 | Underbank: Chris Massey | Chris Massey |
@@ -23,4 +22,4 @@ The Underbank is a music venue in Manchester listed on soundcheck. 10 upcoming g
 
 27 Great Underbank, Stockport, SK1 1LN, Manchester
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-underbank/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-underbank/)*

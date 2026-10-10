@@ -1,6 +1,6 @@
 # Solar Tsunami
 
-Solar Tsunami is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at VooDoo Club, Warsaw on Sat, 10 Oct 2026.
+Solar Tsunami is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at VooDoo Club, Warsaw on Sat, 10 Oct 2026.
 
 Solar Tsunami is a drum & bass and techno artist based in Poland, with 13 gigs on soundcheck across Warsaw. Often billed alongside Muzaman, U Lad and long w. Next up: VooDoo Club, Warsaw on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Solar Tsunami is a drum & bass and techno artist based in Poland, with 13 gigs o
 
 Muzaman, U Lad, long w
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solartsunami/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solartsunami/)*

@@ -1,8 +1,8 @@
 # Benyayer
 
-Benyayer is a Garage and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at NDR2 Red Room, London on Fri, 13 Nov 2026.
+Benyayer is a Garage and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at NDR2 Red Room, London on Fri, 13 Nov 2026.
 
-Benyayer is a garage and breakbeat artist, with 9 gigs on soundcheck across Amsterdam, Berlin and London. Often billed alongside Dark Sky, Harry James and Rainbow Conspiracy. Next up: NDR2 Red Room, London on Fri 13 Nov.
+Benyayer is a garage and breakbeat artist based in United Kingdom, with 9 gigs on soundcheck across Amsterdam, Berlin and London. Often billed alongside Dark Sky, Harry James and Rainbow Conspiracy. Next up: NDR2 Red Room, London on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Benyayer is a garage and breakbeat artist, with 9 gigs on soundcheck across Amst
 
 Dark Sky, Harry James, Rainbow Conspiracy
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benyayer/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benyayer/)*

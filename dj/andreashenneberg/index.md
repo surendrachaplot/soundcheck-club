@@ -1,6 +1,6 @@
 # Andreas Henneberg
 
-Andreas Henneberg is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 31 Oct 2026.
+Andreas Henneberg is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 31 Oct 2026.
 
 Andreas Henneberg is a techno and house artist based in Germany, with 31 gigs on soundcheck across Berlin, Cologne, Greece and Hamburg and 9 more. Often billed alongside Beth Lydi, Maurice Mino and Konfusia. Next up: PKH Warehouse, Berlin on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Andreas Henneberg is a techno and house artist based in Germany, with 31 gigs on
 
 Beth Lydi, Maurice Mino, Konfusia
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreashenneberg/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreashenneberg/)*

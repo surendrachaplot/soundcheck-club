@@ -1,14 +1,13 @@
 # Bikini Club
 
-Bikini Club is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Tunnel presents Chicks Luv Us" on Fri, 9 Oct 2026.
+Bikini Club is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "RED SESSIONS presents Ezequiel Arias" on Sat, 10 Oct 2026.
 
-Bikini Club is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Agatha Pher, Althoff, Andrea Love and Anja Schneider and 2 more. See dates, start times and who's playing. L'Illia, Avinguda Diagonal, 547, 08029 Barcelona.
+Bikini Club is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including Agatha Pher, Althoff, Andrea Love and Anja Schneider and 2 more. See dates, start times and who's playing. L'Illia, Avinguda Diagonal, 547, 08029 Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Tunnel presents Chicks Luv Us | Babo, Chicks Luv Us, Mganz |
 | Sat, 10 Oct 2026 | RED SESSIONS presents Ezequiel Arias | Ezequiel Arias, Juan Ibañez |
 | Fri, 16 Oct 2026 | Tunnel x Diffuse Reality presents. Anja Schneider | Andrea Love, Anja Schneider, Squaric |
 | Sat, 17 Oct 2026 | NOM x ARTNOVA w. WHO ELSE & Zagitar ( be yourself, everybody is welcome ) | Althoff, WHO ELSE, Zagitar |
@@ -23,4 +22,4 @@ Bikini Club is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs
 
 L'Illia, Avinguda Diagonal, 547, 08029 Barcelona, Barcelona
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bikini-club/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bikini-club/)*

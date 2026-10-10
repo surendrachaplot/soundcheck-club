@@ -1,6 +1,6 @@
 # PLAY OF COLOR PRESENTS 'THE SWIRL' VOL.7 FEAT. FIRZA (DEEP TECH / TECH HOUSE / HOUSE) at Z Maruyama
 
-PLAY OF COLOR PRESENTS 'THE SWIRL' VOL.7 FEAT. FIRZA (DEEP TECH / TECH HOUSE / HOUSE) at Z Maruyama on Fri 6 Nov, Tokyo. 7 artists: Amps, FIRZA, GooPer and hero and 3 more. House and Tech House. See the line-up on soundcheck.
+PLAY OF COLOR PRESENTS 'THE SWIRL' VOL.7 FEAT. FIRZA (DEEP TECH / TECH HOUSE / HOUSE) at Z Maruyama on Fri 6 Nov, Tokyo. 6 artists: Amps, FIRZA, GooPer and ISPA and 2 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,6 @@ PLAY OF COLOR PRESENTS 'THE SWIRL' VOL.7 FEAT. FIRZA (DEEP TECH / TECH HOUSE / H
 - Amps
 - FIRZA
 - GooPer
-- hero
 - ISPA
 - Saeri
 - Yuta Yamada

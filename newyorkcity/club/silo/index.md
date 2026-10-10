@@ -1,6 +1,6 @@
 # SILO
 
-SILO is a music venue in New York City with 36 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Ivy Lab: A Farewell Tour" on Sat, 10 Oct 2026.
+SILO is a music venue in New York City with 36 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Ivy Lab: A Farewell Tour" on Sat, 10 Oct 2026.
 
 SILO is a music venue in New York City listed on soundcheck. 36 upcoming gigs, with line-ups including Amiti, Bag Raiders, Bella Hex and Ben Zo and 2 more. See dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
@@ -23,4 +23,4 @@ SILO is a music venue in New York City listed on soundcheck. 36 upcoming gigs, w
 
 90 Scott Ave, East Williamsburg, Brooklyn, New York City
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*

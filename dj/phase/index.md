@@ -1,19 +1,19 @@
 # Ø [Phase]
 
-Ø [Phase] is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 9 Oct 2026.
+Ø [Phase] is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Gare Porto, Porto on Sat, 24 Oct 2026.
 
-Ø [Phase] is a techno and house artist based in United Kingdom, with 95 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Basel and 41 more. Often billed alongside Luke Slater, Setaoc Mass and Adriana Lopez. Next up: Tresor / Globus, Berlin on Fri 9 Oct.
+Ø [Phase] is a techno and house artist based in United Kingdom, with 95 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Basel and 41 more. Often billed alongside Luke Slater, Setaoc Mass and Adriana Lopez. Next up: Gare Porto, Porto on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Tresor / Globus | Berlin |
 | Sat, 24 Oct 2026 | Gare Porto | Porto |
 | Sat, 14 Nov 2026 | fabric | London |
 
 ## Recently played
 
+- Tresor / Globus, Berlin · Fri, 9 Oct 2026
 - Lincoln Factory, Detroit · Sat, 3 Oct 2026
 - TBA - 253 Auburn Avenue Northeast, Atlanta, GA 30303, USA, Atlanta · Fri, 2 Oct 2026
 - Razzmatazz, Barcelona · Sat, 12 Sept 2026
@@ -21,10 +21,9 @@
 - Gaffe, London · Sat, 27 Jun 2026
 - TBA - Campground 1H from DTLA, Los Angeles · Fri, 5 Jun 2026
 - 314 Scholes, New York City · Sat, 30 May 2026
-- Lincoln Factory, Detroit · Sun, 24 May 2026
 
 ## Shares bills with
 
 Luke Slater, Setaoc Mass, Adriana Lopez
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phase/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phase/)*

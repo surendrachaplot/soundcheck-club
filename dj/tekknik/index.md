@@ -1,6 +1,6 @@
 # Tekknik
 
-Tekknik is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Ciało, Wroclaw on Fri, 30 Oct 2026.
+Tekknik is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Ciało, Wroclaw on Fri, 30 Oct 2026.
 
 Tekknik is a hardcore and techno artist based in Poland, with 8 gigs on soundcheck across Berlin, Krakow, Warsaw and Wroclaw. Often billed alongside PUZZ, Furie and somnifobia. Next up: Ciało, Wroclaw on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Tekknik is a hardcore and techno artist based in Poland, with 8 gigs on soundche
 
 PUZZ, Furie, somnifobia
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tekknik/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tekknik/)*

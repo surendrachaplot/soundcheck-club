@@ -1,6 +1,6 @@
 # Ford Scott
 
-Ford Scott is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Basement Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Ford Scott is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Basement Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Ford Scott is a house and garage artist based in United States of America, with 8 gigs on soundcheck across Amsterdam, Barcelona and New York City. Often billed alongside Armii1n, Erin Page and ADR (UK). Next up: Basement Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Ford Scott is a house and garage artist based in United States of America, with 
 
 Armii1n, Erin Page, ADR (UK)
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fordscott/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fordscott/)*

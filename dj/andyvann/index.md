@@ -1,6 +1,6 @@
 # Andy Vann
 
-Andy Vann is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Leighton's Farm, Auckland on Wed, 30 Dec 2026.
+Andy Vann is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Leighton's Farm, Auckland on Wed, 30 Dec 2026.
 
 Andy Vann is a house and tech house artist based in New Zealand, with 8 gigs on soundcheck across Auckland. Often billed alongside Greg Churchill, AROHA and DJ HMC. Next up: Leighton's Farm, Auckland on Wed 30 Dec.
 
@@ -24,4 +24,4 @@ Andy Vann is a house and tech house artist based in New Zealand, with 8 gigs on 
 
 Greg Churchill, AROHA, DJ HMC
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andyvann/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andyvann/)*

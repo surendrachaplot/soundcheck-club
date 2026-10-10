@@ -1,6 +1,6 @@
 # Yeonjun
 
-Yeonjun is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Paper, Seoul on Sun, 11 Oct 2026.
+Yeonjun is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Paper, Seoul on Sun, 11 Oct 2026.
 
 Yeonjun is a techno and house artist based in South Korea, with 29 gigs on soundcheck across Bangkok, Seoul and South Korea. Often billed alongside S.O.N.S, Antwork and Minkyu. Next up: Paper, Seoul on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Yeonjun is a techno and house artist based in South Korea, with 29 gigs on sound
 
 S.O.N.S, Antwork, Minkyu
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yeonjun/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yeonjun/)*

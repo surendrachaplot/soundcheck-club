@@ -1,6 +1,6 @@
 # Jancen
 
-Jancen is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Waalhalla, Nijmegen on Sat, 10 Oct 2026.
+Jancen is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Waalhalla, Nijmegen on Sat, 10 Oct 2026.
 
 Jancen is an electronic artist, with 6 gigs on soundcheck across Amsterdam, Berlin, Netherlands and Nijmegen. Often billed alongside 50PHIE, Axoon and Benabou. Next up: Waalhalla, Nijmegen on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Jancen is an electronic artist, with 6 gigs on soundcheck across Amsterdam, Berl
 
 50PHIE, Axoon, Benabou
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jancen/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jancen/)*

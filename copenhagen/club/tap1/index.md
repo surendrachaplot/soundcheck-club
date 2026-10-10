@@ -1,6 +1,6 @@
 # Tap1
 
-Tap1 is a music venue in Copenhagen with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Gravity presents: Eric Prydz - Copenhagen" on Fri, 23 Oct 2026.
+Tap1 is a music venue in Copenhagen with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Gravity presents: Eric Prydz - Copenhagen" on Fri, 23 Oct 2026.
 
 Tap1 is a music venue in Copenhagen listed on soundcheck. 2 upcoming gigs, with line-ups including Eric Prydz and I Hate Models. See dates, start times and who's playing. Raffinaderivej 10, 2300 København S, Denmark.
 
@@ -15,4 +15,4 @@ Tap1 is a music venue in Copenhagen listed on soundcheck. 2 upcoming gigs, with 
 
 Raffinaderivej 10, 2300 København S, Denmark, Copenhagen
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/tap1/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/tap1/)*

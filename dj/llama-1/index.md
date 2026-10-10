@@ -1,6 +1,6 @@
 # llama (1)
 
-llama (1) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Stoked&stoned, Seoul on Sat, 10 Oct 2026.
+llama (1) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Stoked&stoned, Seoul on Sat, 10 Oct 2026.
 
 llama is a house and techno artist based in South Korea, with 33 gigs on soundcheck across Seoul. Often billed alongside Gyusco, Youngseok and KIKOH. Next up: Stoked&stoned, Seoul on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ llama is a house and techno artist based in South Korea, with 33 gigs on soundch
 
 Gyusco, Youngseok, KIKOH
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/llama-1/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/llama-1/)*

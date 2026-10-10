@@ -1,20 +1,20 @@
 # Abby Daze
 
-Abby Daze is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at radial, London on Fri, 9 Oct 2026.
+Abby Daze is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Fri, 30 Oct 2026.
 
-Abby Daze is a jungle and drum & bass artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Bristol and London. Often billed alongside A.N.T, Uncle G and Yasmine (UK). Next up: radial, London on Fri 9 Oct.
+Abby Daze is a jungle and drum & bass artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Bristol and London. Often billed alongside A.N.T, Uncle G and Yasmine (UK). Next up: TAC (Tottenham Arts Collective), London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | radial | London |
 | Fri, 30 Oct 2026 | TAC (Tottenham Arts Collective) | London |
 | Sat, 7 Nov 2026 | The Social | London |
 | Fri, 27 Nov 2026 | The Jam Jar | Bristol |
 
 ## Recently played
 
+- radial, London · Fri, 9 Oct 2026
 - The Greyhound, London · Sat, 26 Sept 2026
 - Phonox, London · Fri, 28 Aug 2026
 - M.O.T, London · Sat, 22 Aug 2026
@@ -22,10 +22,9 @@ Abby Daze is a jungle and drum & bass artist based in United Kingdom, with 62 gi
 - Planet Wax, London · Sun, 26 Jul 2026
 - M.O.T, London · Sat, 18 Jul 2026
 - Planet Wax, London · Sun, 12 Jul 2026
-- Four Quarters, London · Fri, 10 Jul 2026
 
 ## Shares bills with
 
 A.N.T, Uncle G, Yasmine (UK)
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abbydaze/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abbydaze/)*

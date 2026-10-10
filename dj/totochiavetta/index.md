@@ -1,6 +1,6 @@
 # Toto Chiavetta
 
-Toto Chiavetta is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Mott 32, Hong Kong on Sat, 10 Oct 2026.
+Toto Chiavetta is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Mott 32, Hong Kong on Sat, 10 Oct 2026.
 
 Toto Chiavetta is a techno and house artist, with 32 gigs on soundcheck across Amsterdam, Bali, Berlin and Budapest and 18 more. Often billed alongside Agents Of Time, Brina Knauss and Fideles. Next up: Mott 32, Hong Kong on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Toto Chiavetta is a techno and house artist, with 32 gigs on soundcheck across A
 
 Agents Of Time, Brina Knauss, Fideles
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/totochiavetta/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/totochiavetta/)*

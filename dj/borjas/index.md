@@ -1,14 +1,15 @@
 # Borja S
 
-Borja S is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Hoppetosse, Berlin on Sun, 1 Nov 2026.
+Borja S is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Hoppetosse, Berlin on Sun, 1 Nov 2026.
 
-Borja S is an electronica and techno artist based in Spain, with 19 gigs on soundcheck across Barcelona, Berlin, Ibiza and Lisbon and 4 more. Often billed alongside Avo (ES), Cesc (ES) and Nurias. Next up: Hoppetosse, Berlin on Sun 1 Nov.
+Borja S is a techno and electronica artist based in Spain, with 20 gigs on soundcheck across Barcelona, Berlin, Ibiza and Lisbon and 5 more. Often billed alongside Avo (ES), Cesc (ES) and Nurias. Next up: Hoppetosse, Berlin on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | Hoppetosse | Berlin |
+| Fri, 18 Dec 2026 | Under Bron | Stockholm |
 | Thu, 31 Dec 2026 | Cadavra | Madrid |
 
 ## Recently played
@@ -26,4 +27,4 @@ Borja S is an electronica and techno artist based in Spain, with 19 gigs on soun
 
 Avo (ES), Cesc (ES), Nurias
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borjas/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borjas/)*

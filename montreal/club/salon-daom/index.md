@@ -1,14 +1,13 @@
 # Salon Daomé
 
-Salon Daomé is a music venue in Montreal with 12 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Dj Hermano b2b OJPB, CUERPOS" on Fri, 9 Oct 2026.
+Salon Daomé is a music venue in Montreal with 11 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "The Fitness + guest" on Sat, 10 Oct 2026.
 
-Salon Daomé is a music venue in Montreal listed on soundcheck. 12 upcoming gigs, with line-ups including Audrey Bélanger, CUERPOS, Dj Hermano and Don Barbarino and 2 more. See dates, start times and who's playing. 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8.
+Salon Daomé is a music venue in Montreal listed on soundcheck. 11 upcoming gigs, with line-ups including Audrey Bélanger, Don Barbarino, Guillaume Michaud and Hicky & Kalo and 2 more. See dates, start times and who's playing. 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Dj Hermano b2b OJPB, CUERPOS | CUERPOS, Dj Hermano, OJPB |
 | Sat, 10 Oct 2026 | The Fitness + guest | Ostrich, The Fitness |
 | Sun, 11 Oct 2026 | Dahomey T-Dance - Don Barbarino, Uzi, Pattes de Velour | Don Barbarino, UZI (Soulmeka) |
 | Sun, 11 Oct 2026 | Noreiner |  |
@@ -18,9 +17,10 @@ Salon Daomé is a music venue in Montreal listed on soundcheck. 12 upcoming gigs
 | Sat, 24 Oct 2026 | Kinetic | Lara Bee |
 | Thu, 29 Oct 2026 | INEDIT BY UNDERPULSE |  |
 | Fri, 30 Oct 2026 | Halloween - Plaisirs Sonores | Hicky & Kalo |
+| Sat, 31 Oct 2026 | Punkdt - Halloween | Nathan Burns, Ohm Hourani, Queenie Jr, Salar Ansari, Sweely, Vayia |
 
 ## Address
 
 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8, Montreal
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*

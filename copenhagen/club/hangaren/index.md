@@ -1,14 +1,13 @@
 # Hangaren
 
-Hangaren is a music venue in Copenhagen with 13 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "O'Flynn, Duskus, YOON" on Fri, 9 Oct 2026.
+Hangaren is a music venue in Copenhagen with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Arcanum Collective: POSSESSED" on Sat, 10 Oct 2026.
 
-Hangaren is a music venue in Copenhagen listed on soundcheck. 13 upcoming gigs, with line-ups including AELVA K, Anna Logic, Baime and B From E and 2 more. See dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
+Hangaren is a music venue in Copenhagen listed on soundcheck. 12 upcoming gigs, with line-ups including AELVA K, Anna Logic, Baime and B From E and 2 more. See dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | O'Flynn, Duskus, YOON | Duskus, O'Flynn, YOON |
 | Sat, 10 Oct 2026 | Arcanum Collective: POSSESSED | Freya Rose, Lulla-Li, Nihility |
 | Fri, 16 Oct 2026 | Konfusia, AELVA K, Eusherr | AELVA K, Konfusia |
 | Sat, 17 Oct 2026 | Mika Heggemann, Cara Elizabeth, David Garset | Cara Elizabeth, David Garset, Mika Heggemann |
@@ -18,9 +17,10 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 13 upcoming gigs, 
 | Sat, 7 Nov 2026 |  Cassie Raptor, Kardinal Bertram, LMN | Cassie Raptor, Kardinal Bertram, LMN (1) |
 | Fri, 13 Nov 2026 | Oliver Koletzki, Rexie Lex, Baime | Baime, Oliver Koletzki, Rexie Lex |
 | Sat, 14 Nov 2026 | Miley Serious, Dirty Plates, Vincent's older sister | Dirty Plates, Miley Serious, Vincent's Older Sister |
+| Fri, 20 Nov 2026 | MCR-T, B From E, Anna Logic | Anna Logic, B From E, MCR-T |
 
 ## Address
 
 Refshalevej 185, 1432 København, Denmark, Copenhagen
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*

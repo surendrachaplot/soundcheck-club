@@ -1,19 +1,18 @@
 # Leona Jacewska
 
-Leona Jacewska is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Sameheads, Berlin on Thu, 8 Oct 2026.
+Leona Jacewska is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
 
-Leona Jacewska is a techno and electro artist based in Poland, with 16 gigs on soundcheck across Berlin, Frankfurt, Helsinki and Paris and 4 more. Often billed alongside Charlie, Franz Scala and Sound Metaphors Djs. Next up: Sameheads, Berlin on Thu 8 Oct.
+Leona Jacewska is a techno and electro artist based in Poland, with 16 gigs on soundcheck across Berlin, Frankfurt, Helsinki and Paris and 4 more. Often billed alongside Charlie, Franz Scala and Sound Metaphors Djs. Next up: The Buzz, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Sameheads | Berlin |
-| Fri, 9 Oct 2026 | OXI | Berlin |
 | Fri, 20 Nov 2026 | The Buzz | Berlin |
 
 ## Recently played
 
+- OXI, Berlin · Fri, 9 Oct 2026
 - Sameheads, Berlin · Thu, 8 Oct 2026
 - La Station - Gare des Mines, Paris · Fri, 18 Sept 2026
 - Sonnenraum, Berlin · Sun, 30 Aug 2026
@@ -21,10 +20,9 @@ Leona Jacewska is a techno and electro artist based in Poland, with 16 gigs on s
 - Post Bar, Helsinki · Sat, 30 May 2026
 - Fuchs2, Prague · Fri, 22 May 2026
 - 25h Hotel The Trip, Frankfurt · Sat, 16 May 2026
-- Studio1111, Berlin · Fri, 24 Apr 2026
 
 ## Shares bills with
 
 Charlie, Franz Scala, Sound Metaphors Djs
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonajacewska/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonajacewska/)*

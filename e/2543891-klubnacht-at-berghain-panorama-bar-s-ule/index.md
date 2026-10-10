@@ -23,7 +23,7 @@ Klubnacht at Berghain | Panorama Bar | Säule on Sat 28 Nov, Berlin. 15 artists:
 - Mari Sakurai
 - Massimiliano Pagliara
 - Mike Servito
-- Naomi (1)
+- Naomi (Berlin)
 - Sandrien
 
 *Source: [soundcheck](https://soundcheck.club/e/2543891-klubnacht-at-berghain-panorama-bar-s-ule/)*

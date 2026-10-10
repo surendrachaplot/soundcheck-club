@@ -1,14 +1,13 @@
 # WhoMadeWho
 
-WhoMadeWho is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Great Pyramids OF Giza, Egypt on Fri, 9 Oct 2026.
+WhoMadeWho is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
 
-WhoMadeWho is a house and techno artist based in Denmark, with 155 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Black Coffee, Carlita and Adriatique. Next up: The Great Pyramids OF Giza, Egypt on Fri 9 Oct.
+WhoMadeWho is a house and techno artist based in Denmark, with 155 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Black Coffee, Carlita and Adriatique. Next up: Iter Tenerife, Canary Islands on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | The Great Pyramids OF Giza | Egypt |
 | Fri, 16 Oct 2026 | Iter Tenerife | Canary-islands |
 | Wed, 21 Oct 2026 | Westerkerk | Amsterdam |
 | Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |
@@ -22,6 +21,7 @@ WhoMadeWho is a house and techno artist based in Denmark, with 155 gigs on sound
 
 ## Recently played
 
+- The Great Pyramids OF Giza, Egypt · Fri, 9 Oct 2026
 - Scorpios, Mykonos · Sun, 4 Oct 2026
 - Sunday Sunday, Mexico City · Sun, 27 Sept 2026
 - The Concourse Project, Austin · Sat, 5 Sept 2026
@@ -29,10 +29,9 @@ WhoMadeWho is a house and techno artist based in Denmark, with 155 gigs on sound
 - 528 Ibiza, Ibiza · Sun, 30 Aug 2026
 - Mercado Pago Hall, Sao Paulo · Sat, 22 Aug 2026
 - Amnesia Ibiza, Ibiza · Tue, 11 Aug 2026
-- Sloterpark, Amsterdam · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Black Coffee, Carlita, Adriatique
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*

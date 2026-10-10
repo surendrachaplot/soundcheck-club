@@ -1,6 +1,6 @@
 # Liza Rivs
 
-Liza Rivs is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Bassiani, Tbilisi on Sat, 31 Oct 2026.
+Liza Rivs is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Bassiani, Tbilisi on Sat, 31 Oct 2026.
 
 Liza Rivs is a techno and experimental artist based in Georgia, with 64 gigs on soundcheck across Berlin, London, Los Angeles and Lyon and 8 more. Often billed alongside Boyd Schidt, Frequency Shifter and Puritan. Next up: Bassiani, Tbilisi on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Liza Rivs is a techno and experimental artist based in Georgia, with 64 gigs on 
 
 Boyd Schidt, Frequency Shifter, Puritan
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizarivs/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizarivs/)*

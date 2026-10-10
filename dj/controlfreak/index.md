@@ -1,13 +1,14 @@
 # Control Freak
 
-Control Freak is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at FOLD, London on Fri, 4 Dec 2026.
+Control Freak is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Snapdragon Stadium, Los Angeles on Sun, 11 Oct 2026.
 
-Control Freak is a techno and minimal artist based in United Kingdom, with 20 gigs on soundcheck across Bristol, London and Washington DC. Often billed alongside Lola Haro, Dorisburg and Emily Jeanne. Next up: FOLD, London on Fri 4 Dec.
+Control Freak is a techno and minimal artist based in United Kingdom, with 21 gigs on soundcheck across Bristol, London, Los Angeles and Washington DC. Often billed alongside Lola Haro, Dorisburg and Emily Jeanne. Next up: Snapdragon Stadium, Los Angeles on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 11 Oct 2026 | Snapdragon Stadium | Los Angeles |
 | Fri, 4 Dec 2026 | FOLD | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Control Freak is a techno and minimal artist based in United Kingdom, with 20 gi
 
 Lola Haro, Dorisburg, Emily Jeanne
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/controlfreak/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/controlfreak/)*

@@ -1,6 +1,6 @@
 # A3 Festival 2026 at Lardner Park
 
-A3 Festival 2026 at Lardner Park on Fri 27 Nov, Melbourne. 52 artists: AKEYLAH, Andre Zimmer, ANNĒ and B2BLOVE and 48 more. See the line-up on soundcheck.
+A3 Festival 2026 at Lardner Park on Fri 27 Nov, Melbourne. 53 artists: AKEYLAH, Andre Zimmer, ANNĒ and B2BLOVE and 49 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -36,6 +36,7 @@ A3 Festival 2026 at Lardner Park on Fri 27 Nov, Melbourne. 52 artists: AKEYLAH, 
 - Kerri Chandler
 - Lacchesi
 - Lewis Taylor
+- Lexï
 - LF SYSTEM
 - Love, Jess
 - Lucas Boston

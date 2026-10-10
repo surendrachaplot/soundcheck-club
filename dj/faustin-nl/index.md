@@ -1,13 +1,14 @@
 # Faustin (NL)
 
-Faustin (NL) is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at export, Rotterdam on Sat, 7 Nov 2026.
+Faustin (NL) is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
 
-Faustin (NL) is a techno and electro artist based in Netherlands, with 67 gigs on soundcheck across Amsterdam, Brussels, New York City and Rotterdam. Often billed alongside TWIENA, Mama Snake and Mary Lake. Next up: export, Rotterdam on Sat 7 Nov.
+Faustin (NL) is a techno and electro artist based in Netherlands, with 68 gigs on soundcheck across Amsterdam, Brussels, New York City and Rotterdam. Often billed alongside TWIENA, Mary Lake and Fafi Abdel Nour. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Sat, 7 Nov 2026 | export | Rotterdam |
 | Sat, 7 Nov 2026 | TBA - noord | Amsterdam |
 
@@ -24,6 +25,6 @@ Faustin (NL) is a techno and electro artist based in Netherlands, with 67 gigs o
 
 ## Shares bills with
 
-TWIENA, Mama Snake, Mary Lake
+TWIENA, Mary Lake, Fafi Abdel Nour
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faustin-nl/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faustin-nl/)*

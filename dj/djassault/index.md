@@ -1,14 +1,13 @@
 # DJ Assault
 
-DJ Assault is a Ghetto Tech and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at BASIS, Utrecht on Fri, 9 Oct 2026.
+DJ Assault is a Ghetto Tech and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Art School, Glasgow on Sat, 10 Oct 2026.
 
-DJ Assault is a ghetto tech and techno artist based in United States of America, with 173 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside Fullbodydurag, DJ Godfather and Detroit In Effect. Next up: BASIS, Utrecht on Fri 9 Oct.
+DJ Assault is a ghetto tech and techno artist based in United States of America, with 173 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside Fullbodydurag, DJ Godfather and Detroit In Effect. Next up: The Art School, Glasgow on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | BASIS | Utrecht |
 | Sat, 10 Oct 2026 | The Art School | Glasgow |
 | Sat, 17 Oct 2026 | YuYu Cine Club | Mexico City |
 | Sat, 7 Nov 2026 | The Ground at Club Space | Miami |
@@ -18,6 +17,7 @@ DJ Assault is a ghetto tech and techno artist based in United States of America,
 
 ## Recently played
 
+- BASIS, Utrecht · Fri, 9 Oct 2026
 - The Pearl, Vancouver · Sat, 3 Oct 2026
 - Market Hotel, New York City · Sat, 26 Sept 2026
 - Northern Lights Lounge, Detroit · Sat, 19 Sept 2026
@@ -25,10 +25,9 @@ DJ Assault is a ghetto tech and techno artist based in United States of America,
 - RADION, Amsterdam · Fri, 11 Sept 2026
 - Sonnenraum, Berlin · Sun, 16 Aug 2026
 - Phonox, London · Sat, 15 Aug 2026
-- TBA - The Vault 313, Detroit · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Fullbodydurag, DJ Godfather, Detroit In Effect
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djassault/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djassault/)*

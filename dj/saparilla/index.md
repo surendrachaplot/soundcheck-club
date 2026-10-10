@@ -1,6 +1,6 @@
 # saparilla
 
-saparilla is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Poetry Club, Glasgow on Sat, 17 Oct 2026.
+saparilla is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Poetry Club, Glasgow on Sat, 17 Oct 2026.
 
 saparilla is a club and techno artist based in United Kingdom, with 32 gigs on soundcheck across Edinburgh, Glasgow and London. Often billed alongside Kinz Luiz, SOFSOF and makaya. Next up: The Poetry Club, Glasgow on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ saparilla is a club and techno artist based in United Kingdom, with 32 gigs on s
 
 Kinz Luiz, SOFSOF, makaya
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saparilla/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saparilla/)*

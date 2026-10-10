@@ -1,6 +1,6 @@
 # Chopper (UK)
 
-Chopper (UK) is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Warehouse, Leeds on Sat, 10 Oct 2026.
+Chopper (UK) is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Warehouse, Leeds on Sat, 10 Oct 2026.
 
 Chopper (UK) is a house and tech house artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Antwerp, Birmingham and Ibiza and 8 more. Often billed alongside Ryan Resso, Stef Davidse and EVIE UK. Next up: The Warehouse, Leeds on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Chopper (UK) is a house and tech house artist based in United Kingdom, with 60 g
 
 Ryan Resso, Stef Davidse, EVIE UK
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chopper-2/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chopper-2/)*

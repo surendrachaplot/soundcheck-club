@@ -1,6 +1,6 @@
 # Rūmu
 
-Rūmu is a music venue in Lisbon with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "ROOM: Some People Kharkiv pres.: Sasha Pervukhin b2b Sasha Yalovenko" on Wed, 14 Oct 2026.
+Rūmu is a music venue in Lisbon with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "ROOM: Some People Kharkiv pres.: Sasha Pervukhin b2b Sasha Yalovenko" on Wed, 14 Oct 2026.
 
 Rūmu is a music venue in Lisbon listed on soundcheck. 3 upcoming gigs, with line-ups including Fantastic Man, Kristina, Lopaski and Sasha Pervukhin and 2 more. See dates, start times and who's playing. R. Nova da Trindade 5G, 1200-445 Lisboa, Portugal.
 
@@ -16,4 +16,4 @@ Rūmu is a music venue in Lisbon listed on soundcheck. 3 upcoming gigs, with lin
 
 R. Nova da Trindade 5G, 1200-445 Lisboa, Portugal, Lisbon
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/r-mu/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/r-mu/)*

@@ -1,6 +1,6 @@
 # Cassius at Button Factory
 
-Cassius at Button Factory on Fri 16 Oct, Dublin. 1 artist: Cassius. Tech House. See the line-up on soundcheck.
+Cassius at Button Factory on Fri 16 Oct, Dublin. 3 artists: CAPTNNN', Cassius and Colleen 'Cosmo' Murphy. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Cassius at Button Factory on Fri 16 Oct, Dublin. 1 artist: Cassius. Tech House. 
 
 ## Line-up
 
+- CAPTNNN'
 - Cassius
+- Colleen 'Cosmo' Murphy
 
 *Source: [soundcheck](https://soundcheck.club/e/2490702-cassius-at-button-factory/)*

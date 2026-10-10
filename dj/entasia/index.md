@@ -1,6 +1,6 @@
 # Entasia
 
-Entasia is a House and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 10 Oct 2026.
+Entasia is a House and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 10 Oct 2026.
 
 Entasia is a house and trance artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Antwerp, Bali and Cologne and 15 more. Often billed alongside Kyle Starkey, Inafekt and DART. Next up: Shelter Amsterdam, Amsterdam on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Entasia is a house and trance artist based in United Kingdom, with 64 gigs on so
 
 Kyle Starkey, Inafekt, DART
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/entasia/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/entasia/)*

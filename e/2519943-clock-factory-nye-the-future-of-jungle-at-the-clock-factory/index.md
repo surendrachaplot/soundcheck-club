@@ -1,6 +1,6 @@
 # Clock Factory NYE - The Future of Jungle at The Clock Factory
 
-Clock Factory NYE - The Future of Jungle at The Clock Factory on Thu 31 Dec, Bristol. 10 artists: Amelia Leigh, Black Eye, Deselecta and DJ S (UK) and 6 more. Drum & Bass and Jungle. See the line-up on soundcheck.
+Clock Factory NYE - The Future of Jungle at The Clock Factory on Thu 31 Dec, Bristol. 11 artists: Amelia Leigh, Black Eye, Deselecta and DJ S (UK) and 7 more. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Clock Factory NYE - The Future of Jungle at The Clock Factory on Thu 31 Dec, Bri
 - Black Eye
 - Deselecta
 - DJ S (UK)
+- Jolie P
 - Origin8a & Propa
 - Pete Cannon
 - Samurai Breaks

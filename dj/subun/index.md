@@ -1,6 +1,6 @@
 # SUBUN
 
-SUBUN is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Public Seoul, Seoul on Sun, 11 Oct 2026.
+SUBUN is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Public Seoul, Seoul on Sun, 11 Oct 2026.
 
 SUBUN is a disco and house artist, with 22 gigs on soundcheck across Seoul. Often billed alongside TYSN, Bolm and GCHORI. Next up: Public Seoul, Seoul on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ SUBUN is a disco and house artist, with 22 gigs on soundcheck across Seoul. Ofte
 
 TYSN, Bolm, GCHORI
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subun/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subun/)*

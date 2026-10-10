@@ -1,6 +1,6 @@
 # Rainier Rodriguez
 
-Rainier Rodriguez is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Eighteenth Street Lounge (ESL), Washington DC on Sat, 10 Oct 2026.
+Rainier Rodriguez is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Eighteenth Street Lounge (ESL), Washington DC on Sat, 10 Oct 2026.
 
 Rainier Rodriguez is a house and deep house artist, with 22 gigs on soundcheck across Washington DC. Often billed alongside Neko Berg, DJ T.E.C. and Mazlow. Next up: Eighteenth Street Lounge (ESL), Washington DC on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Rainier Rodriguez is a house and deep house artist, with 22 gigs on soundcheck a
 
 Neko Berg, DJ T.E.C., Mazlow
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rainierrodriguez-us/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rainierrodriguez-us/)*

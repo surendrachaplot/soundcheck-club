@@ -1,6 +1,6 @@
 # albeit records at teller
 
-albeit records at teller on Sat 10 Oct, Seoul. 2 artists: Marlon Clark and Oho.. Minimal and Minimal Techno. See the line-up on soundcheck.
+albeit records at teller on Sat 10 Oct, Seoul. 3 artists: Marlon Clark, Oho. and Oviduct. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ albeit records at teller on Sat 10 Oct, Seoul. 2 artists: Marlon Clark and Oho..
 
 - Marlon Clark
 - Oho.
+- Oviduct
 
 *Source: [soundcheck](https://soundcheck.club/e/2544981-albeit-records-at-teller/)*

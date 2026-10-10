@@ -1,6 +1,6 @@
 # JIYNX
 
-JIYNX is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Mood Ring, New York City on Sat, 10 Oct 2026.
+JIYNX is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Mood Ring, New York City on Sat, 10 Oct 2026.
 
 JIYNX is a club and techno artist based in Canada, with 31 gigs on soundcheck across Miami, New York City and Toronto. Often billed alongside 999ADJ, Ard1n and HVN. Next up: Mood Ring, New York City on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ JIYNX is a club and techno artist based in Canada, with 31 gigs on soundcheck ac
 
 999ADJ, Ard1n, HVN (1)
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jiynx/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jiynx/)*

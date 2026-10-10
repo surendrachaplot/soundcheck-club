@@ -1,14 +1,13 @@
 # Andrea Oliva
 
-Andrea Oliva is a Tech House and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Lula Club, Madrid on Fri, 9 Oct 2026.
+Andrea Oliva is a Tech House and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Ushuaïa Ibiza, Ibiza on Sat, 10 Oct 2026.
 
-Andrea Oliva is a tech house and house artist based in Switzerland, with 209 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 27 more. Often billed alongside Raul Rodriguez, Nic Fanciulli and ARODES. Next up: Lula Club, Madrid on Fri 9 Oct.
+Andrea Oliva is a tech house and house artist based in Switzerland, with 209 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 27 more. Often billed alongside Raul Rodriguez, Nic Fanciulli and ARODES. Next up: Ushuaïa Ibiza, Ibiza on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Lula Club | Madrid |
 | Sat, 10 Oct 2026 | Ushuaïa Ibiza | Ibiza |
 | Thu, 22 Oct 2026 | Basement (Amsterdam) | Amsterdam |
 | Fri, 23 Oct 2026 | The Loft Amsterdam | Amsterdam |
@@ -21,6 +20,7 @@ Andrea Oliva is a tech house and house artist based in Switzerland, with 209 gig
 
 ## Recently played
 
+- Lula Club, Madrid · Fri, 9 Oct 2026
 - Hï Ibiza, Ibiza · Mon, 5 Oct 2026
 - UNO MALTA, Malta · Thu, 1 Oct 2026
 - Hï Ibiza, Ibiza · Mon, 28 Sept 2026
@@ -28,10 +28,9 @@ Andrea Oliva is a tech house and house artist based in Switzerland, with 209 gig
 - Hï Ibiza, Ibiza · Mon, 21 Sept 2026
 - Studio Club Malaga, Malaga · Sat, 19 Sept 2026
 - Hï Ibiza, Ibiza · Mon, 14 Sept 2026
-- Ushuaïa Ibiza, Ibiza · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Raul Rodriguez, Nic Fanciulli, ARODES
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaoliva/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaoliva/)*

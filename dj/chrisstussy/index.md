@@ -1,14 +1,13 @@
 # CHRIS STASSY
 
-CHRIS STASSY is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Aviva Studios, Manchester on Fri, 9 Oct 2026.
+CHRIS STASSY is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Aviva Studios, Manchester on Sat, 10 Oct 2026.
 
-CHRIS STASSY is a house and techno artist based in Netherlands, with 288 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 60 more. Often billed alongside Jamie Jones, Seth Troxler and Joseph Capriati. Next up: Aviva Studios, Manchester on Fri 9 Oct.
+CHRIS STASSY is a house and techno artist based in Netherlands, with 288 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 60 more. Often billed alongside Jamie Jones, Seth Troxler and Joseph Capriati. Next up: Aviva Studios, Manchester on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Aviva Studios | Manchester |
 | Sat, 10 Oct 2026 | Aviva Studios | Manchester |
 | Fri, 16 Oct 2026 | Bootshaus | Cologne |
 | Sat, 17 Oct 2026 | Pavilhão Carlos Lopes | Lisbon |
@@ -20,9 +19,11 @@ CHRIS STASSY is a house and techno artist based in Netherlands, with 288 gigs on
 | Sun, 22 Nov 2026 | Blackstone Street Warehouse | Liverpool |
 | Sat, 28 Nov 2026 | GASHOUDER | Amsterdam |
 | Sat, 5 Dec 2026 | Phonox | London |
+| Sat, 5 Dec 2026 | fabric | London |
 
 ## Recently played
 
+- Aviva Studios, Manchester · Fri, 9 Oct 2026
 - Amnesia Ibiza, Ibiza · Tue, 29 Sept 2026
 - Ex Base Nato, Naples · Sun, 27 Sept 2026
 - Fabrique, Milan · Fri, 25 Sept 2026
@@ -30,10 +31,9 @@ CHRIS STASSY is a house and techno artist based in Netherlands, with 288 gigs on
 - Palmerstown House Estate, Dublin · Fri, 11 Sept 2026
 - Pacha Ibiza, Ibiza · Fri, 11 Sept 2026
 - District X, Prague · Fri, 11 Sept 2026
-- Echostage, Washington DC · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Jamie Jones, Seth Troxler, Joseph Capriati
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*

@@ -1,18 +1,18 @@
 # DJ Music
 
-DJ Music is a Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 9 Oct 2026.
+DJ Music is a Club artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Le Poisson Volant, Paris on Fri, 23 Oct 2026.
 
-DJ Music is a club artist based in France, with 7 gigs on soundcheck across Paris. Often billed alongside Golce, fetva and BENGALA. Next up: La Station - Gare des Mines, Paris on Fri 9 Oct.
+DJ Music is a club artist based in France, with 7 gigs on soundcheck across Paris. Often billed alongside Golce, fetva and BENGALA. Next up: Le Poisson Volant, Paris on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | La Station - Gare des Mines | Paris |
 | Fri, 23 Oct 2026 | Le Poisson Volant | Paris |
 
 ## Recently played
 
+- La Station - Gare des Mines, Paris · Fri, 9 Oct 2026
 - La Station - Gare des Mines, Paris · Fri, 17 Jul 2026
 - Fvtvr, Paris · Sun, 24 May 2026
 - La Station - Gare des Mines, Paris · Sat, 14 Feb 2026
@@ -23,4 +23,4 @@ DJ Music is a club artist based in France, with 7 gigs on soundcheck across Pari
 
 Golce, fetva, BENGALA
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmusic/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmusic/)*

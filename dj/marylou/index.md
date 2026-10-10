@@ -1,6 +1,6 @@
 # Marylou
 
-Marylou is a Experimental and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at De Sering, Amsterdam on Fri, 23 Oct 2026.
+Marylou is a Experimental and Club artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at De Sering, Amsterdam on Fri, 23 Oct 2026.
 
 Marylou is an experimental and club artist based in France, with 111 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 12 more. Often billed alongside ophélie, Darwin and Marco Shuttle. Next up: De Sering, Amsterdam on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Marylou is an experimental and club artist based in France, with 111 gigs on sou
 
 ophélie, Darwin, Marco Shuttle
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marylou/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marylou/)*

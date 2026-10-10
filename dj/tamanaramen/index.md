@@ -1,13 +1,14 @@
 # tamanaramen
 
-tamanaramen is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at MoN Takanawa: The Museum of Narratives, Tokyo on Fri, 20 Nov 2026.
+tamanaramen is a Electronica and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Yoka Loka, Madrid on Sat, 10 Oct 2026.
 
-tamanaramen is an experimental and electronica artist based in Japan, with 37 gigs on soundcheck across Berlin, Brussels, Hong Kong and London and 5 more. Often billed alongside HIMAWARI, Daito Manabe and MoEPiKA. Next up: MoN Takanawa: The Museum of Narratives, Tokyo on Fri 20 Nov.
+tamanaramen is an electronica and experimental artist based in Japan, with 38 gigs on soundcheck across Berlin, Brussels, Hong Kong and London and 5 more. Often billed alongside HIMAWARI, Daito Manabe and MoEPiKA. Next up: Yoka Loka, Madrid on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Yoka Loka | Madrid |
 | Fri, 20 Nov 2026 | MoN Takanawa: The Museum of Narratives | Tokyo |
 | Tue, 29 Dec 2026 | ZEROTOKYO | Tokyo |
 
@@ -26,4 +27,4 @@ tamanaramen is an experimental and electronica artist based in Japan, with 37 gi
 
 HIMAWARI, Daito Manabe, MoEPiKA
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamanaramen/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamanaramen/)*

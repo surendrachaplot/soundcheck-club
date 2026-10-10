@@ -1,13 +1,14 @@
 # HEAVEN'S GATE CREW
 
-HEAVEN'S GATE CREW is a Bass and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at ZEROTOKYO, Tokyo on Fri, 6 Nov 2026.
+HEAVEN'S GATE CREW is a Bass and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 23 Oct 2026.
 
-HEAVEN'S GATE CREW is a bass and electro artist based in Japan, with 22 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside Aiobahn, Ninajirachi and RamonPang. Next up: ZEROTOKYO, Tokyo on Fri 6 Nov.
+HEAVEN'S GATE CREW is a bass and electro artist based in Japan, with 23 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside SAKO, Aiobahn and Ninajirachi. Next up: Circus Tokyo, Tokyo on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Circus Tokyo | Tokyo |
 | Fri, 6 Nov 2026 | ZEROTOKYO | Tokyo |
 | Sun, 8 Nov 2026 | Circus Tokyo | Tokyo |
 
@@ -24,6 +25,6 @@ HEAVEN'S GATE CREW is a bass and electro artist based in Japan, with 22 gigs on 
 
 ## Shares bills with
 
-Aiobahn, Ninajirachi, RamonPang
+SAKO, Aiobahn, Ninajirachi
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heavensgatecrew/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heavensgatecrew/)*

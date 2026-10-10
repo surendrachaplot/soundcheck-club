@@ -1,6 +1,6 @@
 # oskar med k
 
-oskar med k is a House and Deep House artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Foro Niebla, Mexico City on Sat, 10 Oct 2026.
+oskar med k is a House and Deep House artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Foro Niebla, Mexico City on Sat, 10 Oct 2026.
 
 oskar med k is a house and deep house artist based in Norway, with 26 gigs on soundcheck across Barcelona, Berlin, Brisbane and Budapest and 20 more. Often billed alongside Boys Noize, Dean Turnley and Skepta. Next up: Foro Niebla, Mexico City on Sat 10 Oct.
 
@@ -32,4 +32,4 @@ oskar med k is a house and deep house artist based in Norway, with 26 gigs on so
 
 Boys Noize, Dean Turnley, Skepta
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oskarmedk/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oskarmedk/)*

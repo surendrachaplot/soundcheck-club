@@ -1,6 +1,6 @@
 # Mic(RO) Dos
 
-Mic(RO) Dos is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Subspace, Denver on Fri, 30 Oct 2026.
+Mic(RO) Dos is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Subspace, Denver on Fri, 30 Oct 2026.
 
 Mic(RO) Dos is a minimal and tech house artist based in United States of America, with 8 gigs on soundcheck across Denver. Often billed alongside Pro-K, Hermans and Rich NXT. Next up: TBA - Subspace, Denver on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Mic(RO) Dos is a minimal and tech house artist based in United States of America
 
 Pro-K, Hermans, Rich NXT
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/microdos/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/microdos/)*

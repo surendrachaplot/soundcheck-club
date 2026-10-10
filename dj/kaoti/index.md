@@ -1,6 +1,6 @@
 # kaoti
 
-kaoti is a Pop and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Yes, Manchester on Sat, 31 Oct 2026.
+kaoti is a Pop and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Yes, Manchester on Sat, 31 Oct 2026.
 
 kaoti is a pop and electronica artist based in United Kingdom, with 8 gigs on soundcheck across London and Manchester. Often billed alongside PHIA SKY, atalaya and misschief. Next up: Yes, Manchester on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ kaoti is a pop and electronica artist based in United Kingdom, with 8 gigs on so
 
 PHIA SKY, atalaya, misschief
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaoti/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaoti/)*

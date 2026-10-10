@@ -1,6 +1,6 @@
 # Diabla
 
-Diabla is a Latin Bass and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Japan Monterrey, Mexico City on Sat, 10 Oct 2026.
+Diabla is a Latin Bass and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Japan Monterrey, Mexico City on Sat, 10 Oct 2026.
 
 Diabla is a latin bass and reggaeton artist based in Mexico, with 15 gigs on soundcheck across Mexico City. Often billed alongside Enya Botello, Matias Aguayo and Pablo Lara. Next up: Japan Monterrey, Mexico City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Diabla is a latin bass and reggaeton artist based in Mexico, with 15 gigs on sou
 
 Enya Botello, Matias Aguayo, Pablo Lara
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diabla/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diabla/)*

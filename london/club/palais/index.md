@@ -1,14 +1,13 @@
 # Palais
 
-Palais is a music venue in London with 21 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Origins x Small Talk: Alex Kassian & Sinéad" on Fri, 9 Oct 2026.
+Palais is a music venue in London with 20 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Palais ...IsBurning " on Sat, 10 Oct 2026.
 
-Palais is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including Adi (CO), Alex Kassian, Aurora Halal and Axel Boman and 2 more. See dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
+Palais is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including Adi (CO), Aurora Halal, Axel Boman and BASHKKA and 2 more. See dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Origins x Small Talk: Alex Kassian & Sinéad | Alex Kassian, Sinéad |
 | Sat, 10 Oct 2026 | Palais ...IsBurning  |  |
 | Sat, 10 Oct 2026 | A Day with Tobiahs |  |
 | Fri, 16 Oct 2026 | Palais: Conducta b2b DJ SWISHA (All Night Long) [SOLD OUT] | Conducta, DJ SWISHA |
@@ -18,9 +17,10 @@ Palais is a music venue in London listed on soundcheck. 21 upcoming gigs, with l
 | Fri, 30 Oct 2026 | dh2 presents George Daniel & Oscar Farrell (All Night Long) | George Daniel, Oscar Farrell |
 | Sat, 31 Oct 2026 | Palais: In House |  |
 | Fri, 6 Nov 2026 | Palais: Axel Boman & CC:DISCO | Axel Boman, CC:DISCO! |
+| Sat, 7 Nov 2026 | Origins: Or:la & JASSS | JASSS, Or:la |
 
 ## Address
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*

@@ -1,6 +1,6 @@
 # Secret Act
 
-Secret Act is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Golden Gate, Berlin on Fri, 9 Oct 2026.
+Secret Act is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Golden Gate, Berlin on Fri, 9 Oct 2026.
 
 Secret Act is a techno and tech house artist based in Germany, with 17 gigs on soundcheck across Berlin, Cologne and Hamburg. Often billed alongside Aio, Martin Ka and Maurice Mino. Next up: Golden Gate, Berlin on Fri 9 Oct.
 
@@ -15,6 +15,7 @@ Secret Act is a techno and tech house artist based in Germany, with 17 gigs on s
 
 ## Recently played
 
+- Golden Gate, Berlin · Fri, 9 Oct 2026
 - Hinterhof Mitte, Berlin · Fri, 31 Jul 2026
 - OHM, Berlin · Wed, 6 May 2026
 - Mojo, Hamburg · Tue, 5 May 2026
@@ -22,10 +23,9 @@ Secret Act is a techno and tech house artist based in Germany, with 17 gigs on s
 - Baalsaal, Hamburg · Sat, 15 Nov 2025
 - Badehaus Berlin, Berlin · Wed, 22 Oct 2025
 - Urban Spree, Berlin · Sat, 20 Sept 2025
-- TBA - Flugplatz Zerbst (Saxony-Anhalt), Berlin · Thu, 21 Aug 2025
 
 ## Shares bills with
 
 Aio, Martin Ka, Maurice Mino
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secretact/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secretact/)*

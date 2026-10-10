@@ -1,6 +1,6 @@
 # The Old Blue Last
 
-The Old Blue Last is a music venue in London with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Sunday Jazz" on Sun, 11 Oct 2026.
+The Old Blue Last is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Sunday Jazz" on Sun, 11 Oct 2026.
 
 The Old Blue Last is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Bempah, L-Vis 1990, Logan_olm and Samtheman and 1 more. See dates, start times and who's playing. 39 Great Eastern Road; Shoreditch; London EC2A 3ES; United Kingdom.
 
@@ -12,7 +12,7 @@ The Old Blue Last is a music venue in London listed on soundcheck. 10 upcoming g
 | Wed, 14 Oct 2026 | Warrior Dance | L-Vis 1990, Logan_olm, Samtheman |
 | Sun, 18 Oct 2026 | Sunday Jazz |  |
 | Sun, 25 Oct 2026 | Sunday Jazz |  |
-| Sat, 31 Oct 2026 | Scary Things: Halloween 2026 | Bempah, Sam Wise |
+| Sat, 31 Oct 2026 | Scary Things (NTS): Halloween 2026 w/ Sam Wise, Jjess, DJ Bempah + more | Bempah, Sam Wise |
 | Sun, 1 Nov 2026 | Sunday Jazz |  |
 | Sun, 8 Nov 2026 | Sunday Jazz |  |
 | Sun, 15 Nov 2026 | Sunday Jazz |  |
@@ -23,4 +23,4 @@ The Old Blue Last is a music venue in London listed on soundcheck. 10 upcoming g
 
 39 Great Eastern Road; Shoreditch; London EC2A 3ES; United Kingdom, London
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-blue-last/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-blue-last/)*

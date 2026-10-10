@@ -1,6 +1,6 @@
 # Diego Knows
 
-Diego Knows is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA, Los Angeles on Fri, 16 Oct 2026.
+Diego Knows is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA, Los Angeles on Fri, 16 Oct 2026.
 
 Diego Knows is a house and deep house artist based in United States of America, with 22 gigs on soundcheck across Istanbul, Lisbon, Los Angeles and New York City and 1 more. Often billed alongside Pedro Goya, Gio Gulez and 3C. Next up: TBA, Los Angeles on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Diego Knows is a house and deep house artist based in United States of America, 
 
 Pedro Goya, Gio Gulez, 3C
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoknows/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoknows/)*

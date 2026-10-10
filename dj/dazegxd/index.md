@@ -1,6 +1,6 @@
 # Dazegxd
 
-Dazegxd is a Jungle and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Suns Shimokitazawa, Tokyo on Fri, 30 Oct 2026.
+Dazegxd is a Jungle and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Suns Shimokitazawa, Tokyo on Fri, 30 Oct 2026.
 
 Dazegxd is a jungle and house artist based in United States of America, with 104 gigs on soundcheck across Austin, Boston, Bristol and Chicago and 15 more. Often billed alongside Yesterdayneverhappened, gum.mp3 and Swami Sound. Next up: Suns Shimokitazawa, Tokyo on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Dazegxd is a jungle and house artist based in United States of America, with 104
 
 Yesterdayneverhappened, gum.mp3, Swami Sound
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dazegxd/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dazegxd/)*

@@ -1,6 +1,6 @@
 # Cooc
 
-Cooc is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. The next is "Blanche at the Movies with Aline Umber, Arapu and Bas Ibellini" on Sat, 10 Oct 2026.
+Cooc is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. The next is "Blanche at the Movies with Aline Umber, Arapu and Bas Ibellini" on Sat, 10 Oct 2026.
 
 Cooc is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Aline Umber, Arapu, Bas Ibellini and Nirvan. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Cooc is a music venue in London listed on soundcheck. 1 upcoming gig, with line-
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Blanche at the Movies with Aline Umber, Arapu and Bas Ibellini | Aline Umber, Arapu, Bas Ibellini, Nirvan |
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/cooc/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/cooc/)*

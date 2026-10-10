@@ -1,14 +1,13 @@
 # Efdemin
 
-Efdemin is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at essaim, Paris on Fri, 9 Oct 2026.
+Efdemin is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at MÄX, Zurich on Sat, 17 Oct 2026.
 
-Efdemin is a techno and house artist based in Germany, with 128 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Polygonia, Steffi and Virginia. Next up: essaim, Paris on Fri 9 Oct.
+Efdemin is a techno and house artist based in Germany, with 128 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Polygonia, Steffi and Virginia. Next up: MÄX, Zurich on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | essaim | Paris |
 | Sat, 17 Oct 2026 | MÄX | Zurich |
 | Fri, 23 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 23 Oct 2026 | TBA | Amsterdam |
@@ -21,6 +20,7 @@ Efdemin is a techno and house artist based in Germany, with 128 gigs on soundche
 
 ## Recently played
 
+- essaim, Paris · Fri, 9 Oct 2026
 - VENT, Tokyo · Fri, 2 Oct 2026
 - Konzerthaus Berlin, Berlin · Wed, 30 Sept 2026
 - vurt., Seoul · Fri, 25 Sept 2026
@@ -28,10 +28,9 @@ Efdemin is a techno and house artist based in Germany, with 128 gigs on soundche
 - Artheater, Cologne · Fri, 11 Sept 2026
 - RADION, Amsterdam · Sat, 29 Aug 2026
 - Gianpula Village, Malta · Wed, 12 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Polygonia, Steffi, Virginia
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/efdemin/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/efdemin/)*

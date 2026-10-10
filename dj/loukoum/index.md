@@ -1,6 +1,6 @@
 # Loukoum
 
-Loukoum is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Glazart, Paris on Sat, 24 Oct 2026.
+Loukoum is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Glazart, Paris on Sat, 24 Oct 2026.
 
 Loukoum is a house and techno artist based in France, with 10 gigs on soundcheck across Marseille and Paris. Often billed alongside Cassius, Dub Striker and Emma B. Next up: Glazart, Paris on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Loukoum is a house and techno artist based in France, with 10 gigs on soundcheck
 
 Cassius, Dub Striker, Emma B
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loukoum/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loukoum/)*

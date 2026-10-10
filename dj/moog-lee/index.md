@@ -1,6 +1,6 @@
 # moog-lee
 
-moog-lee is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Zona Esmeralda, Parque de los Ciervos, Estado-de-m-xico on Sat, 10 Oct 2026.
+moog-lee is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Zona Esmeralda, Parque de los Ciervos, Estado-de-m-xico on Sat, 10 Oct 2026.
 
 moog-lee is a house and electronica artist based in Mexico, with 12 gigs on soundcheck across Estado De M Xico and Mexico City. Often billed alongside Itzvan, ED (MX) and Gog. Next up: Zona Esmeralda, Parque de los Ciervos, Estado De M Xico on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ moog-lee is a house and electronica artist based in Mexico, with 12 gigs on soun
 
 Itzvan, ED (MX), Gog
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moog-lee/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moog-lee/)*

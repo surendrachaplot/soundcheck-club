@@ -1,6 +1,6 @@
 # Freddy (2)
 
-Freddy (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Avenida Francisco Matarazzo, 694, Sao Paulo on Sat, 10 Oct 2026.
+Freddy (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Avenida Francisco Matarazzo, 694, Sao Paulo on Sat, 10 Oct 2026.
 
 Freddy is a house and tech house artist based in South Korea, with 8 gigs on soundcheck across Amsterdam, Cologne, Los Angeles and Munich and 1 more. Often billed alongside dj sweet6teen, Fadi Mohem and Glaskin. Next up: TBA - Avenida Francisco Matarazzo, 694, Sao Paulo on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Freddy is a house and tech house artist based in South Korea, with 8 gigs on sou
 
 dj sweet6teen, Fadi Mohem, Glaskin
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freddy-2/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freddy-2/)*

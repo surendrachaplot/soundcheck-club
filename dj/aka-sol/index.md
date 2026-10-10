@@ -1,6 +1,6 @@
 # aka-Sol
 
-aka-Sol is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Bastet, Philadelphia on Sat, 17 Oct 2026.
+aka-Sol is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Bastet, Philadelphia on Sat, 17 Oct 2026.
 
 aka-Sol is a techno and house artist based in Ecuador, with 82 gigs on soundcheck across Chicago, Detroit, Los Angeles and Montreal and 6 more. Often billed alongside Nema Hän, Relaxer and Baby Leo. Next up: Bastet, Philadelphia on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ aka-Sol is a techno and house artist based in Ecuador, with 82 gigs on soundchec
 
 Nema Hän, Relaxer, Baby Leo
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aka-sol/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aka-sol/)*

@@ -1,6 +1,6 @@
 # Jasmin Giovanazzi
 
-Jasmin Giovanazzi is a Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at ://about blank, Berlin on Fri, 16 Oct 2026.
+Jasmin Giovanazzi is a Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at ://about blank, Berlin on Fri, 16 Oct 2026.
 
 Jasmin Giovanazzi is a techno artist based in Germany, with 18 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside Solvados, DEN!SE and Dave Mech. Next up: ://about blank, Berlin on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Jasmin Giovanazzi is a techno artist based in Germany, with 18 gigs on soundchec
 
 Solvados, DEN!SE, Dave Mech
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmingiovanazzi/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmingiovanazzi/)*

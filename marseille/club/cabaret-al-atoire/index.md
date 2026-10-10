@@ -1,16 +1,16 @@
 # Cabaret  Aléatoire
 
-Cabaret  Aléatoire is a music venue in Marseille with 13 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "CLUB CABARET x Les InterG" on Fri, 9 Oct 2026.
+Cabaret  Aléatoire is a music venue in Marseille with 13 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "A5km B2b Ia5km + Acidpach, Anduj & Nxd" on Sat, 10 Oct 2026.
 
-Cabaret  Aléatoire is a music venue in Marseille listed on soundcheck. 13 upcoming gigs, with line-ups including 1luu, Angel Karel, Autechre and Avni Leka and 2 more. See dates, start times and who's playing. 41 Rue Jobin, 13003, Marseille.
+Cabaret  Aléatoire is a music venue in Marseille listed on soundcheck. 13 upcoming gigs, with line-ups including Angel Karel, Autechre, Avni Leka and Bella Claxton and 2 more. See dates, start times and who's playing. 41 Rue Jobin, 13003, Marseille.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | CLUB CABARET x Les InterG | 1luu, DAAS (1) |
 | Sat, 10 Oct 2026 | A5km B2b Ia5km + Acidpach, Anduj & Nxd |  |
 | Tue, 13 Oct 2026 | Autechre at Cabaret Aléatoire | Autechre |
+| Fri, 16 Oct 2026 | Club Cabaret x JACK IN THE BOX | DkA, Jack de Marseille |
 | Sat, 17 Oct 2026 | Omerta X Sanctuary: Big Season Opening W/ CARAVEL, Noyse | CARAVEL, THISO |
 | Fri, 23 Oct 2026 | Club Cabaret X Enter The Void W/ Sicion | Sicion, Wolk |
 | Fri, 6 Nov 2026 | Club Cabaret X La Zouaverie: Rumble Echoes #2 | ODG (1) |
@@ -23,4 +23,4 @@ Cabaret  Aléatoire is a music venue in Marseille listed on soundcheck. 13 upcom
 
 41 Rue Jobin, 13003, Marseille, Marseille
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/cabaret-al-atoire/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/cabaret-al-atoire/)*

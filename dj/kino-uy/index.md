@@ -1,6 +1,6 @@
 # KINO (UY)
 
-KINO (UY) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Back Room, Bali on Sat, 10 Oct 2026.
+KINO (UY) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Back Room, Bali on Sat, 10 Oct 2026.
 
 KINO (UY) is a techno and house artist based in Uruguay, with 54 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 19 more. Often billed alongside EMilio, DJ Masda and Nico Etorena. Next up: The Back Room, Bali on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ KINO (UY) is a techno and house artist based in Uruguay, with 54 gigs on soundch
 
 EMilio (2), DJ Masda, Nico Etorena
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kino-uy/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kino-uy/)*

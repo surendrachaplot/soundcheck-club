@@ -1,6 +1,6 @@
 # Abby Harris
 
-Abby Harris is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Soup, Manchester on Fri, 16 Oct 2026.
+Abby Harris is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Soup, Manchester on Fri, 16 Oct 2026.
 
 Abby Harris is a techno and house artist based in United Kingdom, with 28 gigs on soundcheck across Manchester and Newcastle. Often billed alongside Bobby Scallop, Ells and Jase Jeffery. Next up: Soup, Manchester on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Abby Harris is a techno and house artist based in United Kingdom, with 28 gigs o
 
 Bobby Scallop, Ells, Jase Jeffery
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abbyharris/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abbyharris/)*

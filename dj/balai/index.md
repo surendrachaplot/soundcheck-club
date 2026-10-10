@@ -1,6 +1,6 @@
 # BALAI
 
-BALAI is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Akhnaton, Amsterdam on Wed, 21 Oct 2026.
+BALAI is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Akhnaton, Amsterdam on Wed, 21 Oct 2026.
 
 BALAI is a techno artist based in Netherlands, with 4 gigs on soundcheck across Amsterdam, Netherlands and Utrecht. Often billed alongside DJ Perroz, RobertS (NL) and Rein (NL). Next up: Akhnaton, Amsterdam on Wed 21 Oct.
 
@@ -20,4 +20,4 @@ BALAI is a techno artist based in Netherlands, with 4 gigs on soundcheck across 
 
 DJ Perroz, RobertS (NL), Rein (NL)
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/balai/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/balai/)*

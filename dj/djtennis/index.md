@@ -1,14 +1,13 @@
 # DJ Tennis
 
-DJ Tennis is a House and Techno artist with 17 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at FOLD, London on Fri, 9 Oct 2026.
+DJ Tennis is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Nitsa Club, Barcelona on Sat, 10 Oct 2026.
 
-DJ Tennis is a house and techno artist based in Italy, with 311 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 58 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: FOLD, London on Fri 9 Oct.
+DJ Tennis is a house and techno artist based in Italy, with 311 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 58 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: Nitsa Club, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | FOLD | London |
 | Sat, 10 Oct 2026 | Nitsa Club | Barcelona |
 | Fri, 16 Oct 2026 | Crobar - Buenos Aires | Buenos-aires |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
@@ -20,9 +19,11 @@ DJ Tennis is a house and techno artist based in Italy, with 311 gigs on soundche
 | Fri, 6 Nov 2026 | Frankhan Selectist | Istanbul |
 | Sat, 7 Nov 2026 | The Warehouse By IT Quarter | Cyprus |
 | Sun, 8 Nov 2026 | The Lenovo Garage | Madrid |
+| Fri, 13 Nov 2026 | Coda | Toronto |
 
 ## Recently played
 
+- FOLD, London · Fri, 9 Oct 2026
 - Dockland, Munster · Sat, 3 Oct 2026
 - DC-10, Ibiza · Mon, 28 Sept 2026
 - Gin Ling Way, Chinatown, Los Angeles · Sat, 19 Sept 2026
@@ -30,10 +31,9 @@ DJ Tennis is a house and techno artist based in Italy, with 311 gigs on soundche
 - Art Club, Houston · Sat, 19 Sept 2026
 - TBA - Brussels, Brussels · Fri, 11 Sept 2026
 - Kiesgrube, Düsseldorf · Sun, 30 Aug 2026
-- Hï Ibiza, Ibiza · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Carlita, Seth Troxler, Chloé Caillet
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtennis/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtennis/)*

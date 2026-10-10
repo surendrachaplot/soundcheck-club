@@ -1,15 +1,13 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 24 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Faze Action" on Fri, 9 Oct 2026.
+The Fox and Firkin is a music venue in London with 22 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Queens of Lovers Rock: Janet Kay & Carroll Thompson" on Sat, 10 Oct 2026.
 
-The Fox and Firkin is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including African Head Charge, blissy e, Charlie Bones and Colleen 'Cosmo' Murphy and 2 more. See dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
+The Fox and Firkin is a music venue in London listed on soundcheck. 22 upcoming gigs, with line-ups including African Head Charge, blissy e, Colleen 'Cosmo' Murphy and Danny Rankin and 2 more. See dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Faze Action | Faze Action |
-| Fri, 9 Oct 2026 | Charlie Bones + Sarahtonin | Charlie Bones, Sarahtonin |
 | Sat, 10 Oct 2026 | Queens of Lovers Rock: Janet Kay & Carroll Thompson |  |
 | Sat, 10 Oct 2026 | Saxon Sound |  |
 | Sat, 10 Oct 2026 | Manuva with blissy e, Donsurf b2b Last Nubian | Last Nubian, blissy e |
@@ -18,9 +16,11 @@ The Fox and Firkin is a music venue in London listed on soundcheck. 24 upcoming 
 | Sat, 17 Oct 2026 | The Common x Refugee Community Kitchen Takeover |  |
 | Thu, 22 Oct 2026 | Chilifunk Records Takeover | Lulu Levan |
 | Fri, 23 Oct 2026 | Evidence Music Takeover |  |
+| Sat, 24 Oct 2026 | Goya Gumbani & Friends | Maxwell Owin |
+| Sun, 25 Oct 2026 | African Head Charge: Open Air Show | African Head Charge |
 
 ## Address
 
 316 Lewisham High Street London SE136JZ, London
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*

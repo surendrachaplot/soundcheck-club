@@ -1,6 +1,6 @@
 # AOS w/ Ignez, DJ Fuckoff, Supergloss & MORE at Schrotty
 
-AOS w/ Ignez, DJ Fuckoff, Supergloss & MORE at Schrotty on Sat 28 Nov, Cologne. 6 artists: DJ Fuckoff, ferrari rot, Ignez and Penglord and 2 more. Techno and House. See the line-up on soundcheck.
+AOS w/ Ignez, DJ Fuckoff, Supergloss & MORE at Schrotty on Sat 28 Nov, Cologne. 8 artists: DJ Fuckoff, ferrari rot, Ignez and Krackk and 4 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,8 @@ AOS w/ Ignez, DJ Fuckoff, Supergloss & MORE at Schrotty on Sat 28 Nov, Cologne. 
 - DJ Fuckoff
 - ferrari rot
 - Ignez
+- Krackk
+- Laure Croft
 - Penglord
 - Speckman
 - Supergloss

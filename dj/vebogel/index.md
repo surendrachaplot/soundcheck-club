@@ -1,6 +1,6 @@
 # Ve Bogel
 
-Ve Bogel is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at vurt., Seoul on Sat, 17 Oct 2026.
+Ve Bogel is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at vurt., Seoul on Sat, 17 Oct 2026.
 
 Ve Bogel is a techno and dub techno artist based in South Korea, with 34 gigs on soundcheck across Barcelona and Seoul. Often billed alongside Scøpe, Xanexx and Sunghoon. Next up: vurt., Seoul on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Ve Bogel is a techno and dub techno artist based in South Korea, with 34 gigs on
 
 Scøpe, Xanexx, Sunghoon
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vebogel/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vebogel/)*

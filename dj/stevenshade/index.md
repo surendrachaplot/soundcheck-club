@@ -1,8 +1,8 @@
 # Steven Shade
 
-Steven Shade is a Techno and Drum & Bass artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Sonnendeck OS, Lower-saxony on Sat, 10 Oct 2026.
+Steven Shade is a Techno and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Sonnendeck OS, Lower-saxony on Sat, 10 Oct 2026.
 
-Steven Shade is a techno and drum & bass artist based in Germany, with 75 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 3 more. Often billed alongside Kos:mo, Jayzo and Specific Objects. Next up: Sonnendeck OS, Lower Saxony on Sat 10 Oct.
+Steven Shade is a techno and tech house artist based in Germany, with 75 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 3 more. Often billed alongside Kos:mo, Jayzo and Specific Objects. Next up: Sonnendeck OS, Lower Saxony on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Steven Shade is a techno and drum & bass artist based in Germany, with 75 gigs o
 
 Kos:mo, Jayzo, Specific Objects
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenshade/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenshade/)*

@@ -1,20 +1,20 @@
 # Shakolin
 
-Shakolin is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Lanificio 159, Rome on Fri, 9 Oct 2026.
+Shakolin is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
-Shakolin is a house and techno artist based in Ukraine, with 111 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 29 more. Often billed alongside Karine, Timur Basha and Noizar. Next up: Lanificio 159, Rome on Fri 9 Oct.
+Shakolin is a house and techno artist based in Ukraine, with 111 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 29 more. Often billed alongside Karine, Timur Basha and Noizar. Next up: ZENNER, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Lanificio 159 | Rome |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Fri, 30 Oct 2026 | Signal | New York City |
 | Fri, 30 Oct 2026 | TBA - Private Venue | Seattle |
 
 ## Recently played
 
+- Lanificio 159, Rome · Fri, 9 Oct 2026
 - TBA - Secret place, Berlin · Sun, 4 Oct 2026
 - Hertz, Seoul · Sat, 26 Sept 2026
 - Mitsuki, Tokyo · Fri, 18 Sept 2026
@@ -22,10 +22,9 @@ Shakolin is a house and techno artist based in Ukraine, with 111 gigs on soundch
 - gART.n, Berlin · Sat, 15 Aug 2026
 - PRST, Vienna · Sat, 25 Jul 2026
 - TBA - INTIMATE VENUE / LIMITED CAP, Lyon · Sat, 18 Jul 2026
-- Berghain | Panorama Bar | Säule, Berlin · Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Karine, Timur Basha, Noizar
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shakolin/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shakolin/)*

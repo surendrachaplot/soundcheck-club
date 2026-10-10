@@ -1,8 +1,8 @@
 # Cormac
 
-Cormac is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 23 Oct 2026.
+Cormac is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 23 Oct 2026.
 
-Cormac is a house and techno artist, with 183 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 51 more. Often billed alongside BASHKKA, Roi Perez and Massimiliano Pagliara. Next up: Ankali & Planeta Za, Prague on Fri 23 Oct.
+Cormac is a house and disco artist, with 183 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 51 more. Often billed alongside BASHKKA, Roi Perez and Massimiliano Pagliara. Next up: Ankali & Planeta Za, Prague on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Cormac is a house and techno artist, with 183 gigs on soundcheck across Amsterda
 
 BASHKKA, Roi Perez, Massimiliano Pagliara
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cormac/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cormac/)*

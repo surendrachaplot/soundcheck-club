@@ -1,6 +1,6 @@
 # Dj Koyla
 
-Dj Koyla is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Badaboum, Paris on Sat, 10 Oct 2026.
+Dj Koyla is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Badaboum, Paris on Sat, 10 Oct 2026.
 
 Dj Koyla is a trance and techno artist based in France, with 5 gigs on soundcheck across Berlin and Paris. Often billed alongside A2XBY, BETÏSES and Bae Blade. Next up: Badaboum, Paris on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ Dj Koyla is a trance and techno artist based in France, with 5 gigs on soundchec
 
 A2XBY, BETÏSES, Bae Blade
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoyla/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoyla/)*

@@ -1,19 +1,19 @@
 # NK Chan (2)
 
-NK Chan (2) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Goja, Bangkok on Fri, 9 Oct 2026.
+NK Chan (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Yoshibar, Bangkok on Sat, 10 Oct 2026.
 
-NK Chan is a house and techno artist based in Japan, with 32 gigs on soundcheck across Bangkok and Tokyo. Often billed alongside Brent Burns, Jayja and GAOLAO. Next up: Goja, Bangkok on Fri 9 Oct.
+NK Chan is a house and techno artist based in Japan, with 32 gigs on soundcheck across Bangkok and Tokyo. Often billed alongside Brent Burns, Jayja and GAOLAO. Next up: Yoshibar, Bangkok on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Goja | Bangkok |
 | Sat, 10 Oct 2026 | Yoshibar | Bangkok |
 | Sat, 17 Oct 2026 | Bar Temp. | Bangkok |
 
 ## Recently played
 
+- Goja, Bangkok · Fri, 9 Oct 2026
 - Speakerbox, Bangkok · Sun, 13 Sept 2026
 - 12 x 12, Bangkok · Sat, 12 Sept 2026
 - Bar Temp., Bangkok · Fri, 28 Aug 2026
@@ -21,10 +21,9 @@ NK Chan is a house and techno artist based in Japan, with 32 gigs on soundcheck 
 - Goja, Bangkok · Fri, 14 Aug 2026
 - Siwilai Radical Club, Bangkok · Fri, 7 Aug 2026
 - Goja, Bangkok · Fri, 31 Jul 2026
-- 12 x 12, Bangkok · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Brent Burns, Jayja, GAOLAO
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nkchan-2/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nkchan-2/)*

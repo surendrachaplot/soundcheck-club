@@ -1,11 +1,15 @@
 # TELESKOPE at Hangar48 Club
 
-TELESKOPE at Hangar48 Club on Fri 16 Oct, Madrid. Techno. See the line-up on soundcheck.
+TELESKOPE at Hangar48 Club on Fri 16 Oct, Madrid. 1 artist: fattymango. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 16 Oct 2026 |
 | Venue | Hangar48 Club |
 | City | Madrid |
+
+## Line-up
+
+- fattymango
 
 *Source: [soundcheck](https://soundcheck.club/e/2527778-teleskope-at-hangar48-club/)*

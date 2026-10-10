@@ -1,6 +1,6 @@
 # SAIDAH
 
-SAIDAH is a House and Garage artist with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Escala25, Lisbon on Sat, 10 Oct 2026.
+SAIDAH is a House and Garage artist with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Escala25, Lisbon on Sat, 10 Oct 2026.
 
 SAIDAH is a house and garage artist based in Netherlands, with 119 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 19 more. Often billed alongside Diffrent, Sam Alfred and Silva Bumpa. Next up: Escala25, Lisbon on Sat 10 Oct.
 
@@ -34,4 +34,4 @@ SAIDAH is a house and garage artist based in Netherlands, with 119 gigs on sound
 
 Diffrent, Sam Alfred, Silva Bumpa
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*

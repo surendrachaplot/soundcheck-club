@@ -1,6 +1,6 @@
 # ark (Melb)
 
-ark (Melb) is a music venue in Melbourne with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "ark // Guy Contact - DJ Luv You" on Sat, 31 Oct 2026.
+ark (Melb) is a music venue in Melbourne with 11 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "ark // Guy Contact - DJ Luv You" on Sat, 31 Oct 2026.
 
 ark (Melb) is a music venue in Melbourne listed on soundcheck. 11 upcoming gigs, with line-ups including Auramatic, Crybaby, Cybernet and Dan Newman and 2 more. See dates, start times and who's playing. 2 Geddes Lane, Melbourne, VIC.
 
@@ -23,4 +23,4 @@ ark (Melb) is a music venue in Melbourne listed on soundcheck. 11 upcoming gigs,
 
 2 Geddes Lane, Melbourne, VIC, Melbourne
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*

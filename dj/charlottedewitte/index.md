@@ -1,14 +1,13 @@
 # Charlotte de Witte
 
-Charlotte de Witte is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Great Pyramids OF Giza, Egypt on Fri, 9 Oct 2026.
+Charlotte de Witte is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Charlotte de Witte is a techno and house artist based in Belgium, with 151 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 54 more. Often billed alongside Enrico Sangiuliano, Adiel and 999999999. Next up: The Great Pyramids OF Giza, Egypt on Fri 9 Oct.
+Charlotte de Witte is a techno and house artist based in Belgium, with 151 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 54 more. Often billed alongside Enrico Sangiuliano, Adiel and 999999999. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | The Great Pyramids OF Giza | Egypt |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 16 Oct 2026 | Navy Pier | Chicago |
 | Sat, 31 Oct 2026 | Fabrik | Madrid |
@@ -20,9 +19,11 @@ Charlotte de Witte is a techno and house artist based in Belgium, with 151 gigs 
 | Sat, 5 Dec 2026 | Telekom Center Athens | Athens |
 | Fri, 11 Dec 2026 | The Wool Store | Melbourne |
 | Sat, 12 Dec 2026 | Hordern Pavilion | Sydney |
+| Fri, 18 Dec 2026 | TBA - Rhythm Park | Thailand |
 
 ## Recently played
 
+- The Great Pyramids OF Giza, Egypt · Fri, 9 Oct 2026
 - [UNVRS], Ibiza · Tue, 6 Oct 2026
 - Ada Bridge , Belgrade, Serbia · Sun, 27 Sept 2026
 - Fort Manoel, Malta · Sat, 26 Sept 2026
@@ -30,10 +31,9 @@ Charlotte de Witte is a techno and house artist based in Belgium, with 151 gigs 
 - Ex Macello, Milan · Sat, 5 Sept 2026
 - Tapada da Ajuda, Lisbon · Sun, 30 Aug 2026
 - Knockdown Center, New York City · Fri, 7 Aug 2026
-- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Enrico Sangiuliano, Adiel, 999999999
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottedewitte/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottedewitte/)*

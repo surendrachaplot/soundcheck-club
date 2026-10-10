@@ -1,6 +1,6 @@
 # Faacia
 
-Faacia is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Lovehaus, Seoul on Sat, 10 Oct 2026.
+Faacia is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Lovehaus, Seoul on Sat, 10 Oct 2026.
 
 Faacia is a club and experimental artist based in South Korea, with 26 gigs on soundcheck across Seoul. Often billed alongside Moon Ki, dayoung and ABOPF. Next up: Lovehaus, Seoul on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Faacia is a club and experimental artist based in South Korea, with 26 gigs on s
 
 Moon Ki, dayoung, ABOPF
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faacia/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faacia/)*

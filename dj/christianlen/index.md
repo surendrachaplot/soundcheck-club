@@ -1,6 +1,6 @@
 # Christian Len
 
-Christian Len is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Marina Botafoch, Ibiza on Mon, 12 Oct 2026.
+Christian Len is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Marina Botafoch, Ibiza on Mon, 12 Oct 2026.
 
 Christian Len is a balearic and house artist, with 24 gigs on soundcheck across Barcelona, Berlin, Ibiza and London and 1 more. Often billed alongside Camilo Miranda, Luca Averna and Jaime Fiorito. Next up: Marina Botafoch, Ibiza on Mon 12 Oct.
 
@@ -25,4 +25,4 @@ Christian Len is a balearic and house artist, with 24 gigs on soundcheck across 
 
 Camilo Miranda, Luca Averna, Jaime Fiorito
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christianlen/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christianlen/)*

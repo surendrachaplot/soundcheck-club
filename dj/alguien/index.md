@@ -1,8 +1,8 @@
 # alguien
 
-alguien is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Hangar48 Club, Madrid on Sat, 10 Oct 2026.
+alguien is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Hangar48 Club, Madrid on Sat, 10 Oct 2026.
 
-alguien is an electro and techno artist, with 34 gigs on soundcheck across Madrid. Often billed alongside Vulker, Reitze and Epileptik. Next up: Hangar48 Club, Madrid on Sat 10 Oct.
+alguien is an electro and techno artist based in Spain, with 34 gigs on soundcheck across Madrid. Often billed alongside Vulker, Reitze and Epileptik. Next up: Hangar48 Club, Madrid on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ alguien is an electro and techno artist, with 34 gigs on soundcheck across Madri
 
 Vulker, Reitze, Epileptik
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alguien/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alguien/)*

@@ -1,14 +1,13 @@
 # Time is the new space
 
-Time is the new space is a music venue in Rotterdam with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "TIME2CLUB – WATCHING YOUTUBE VIDEOS W/ … [VOL. 1]" on Fri, 9 Oct 2026.
+Time is the new space is a music venue in Rotterdam with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Pontoon Bookings 5-Year Anniversary" on Sat, 10 Oct 2026.
 
-Time is the new space is a music venue in Rotterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Helmond Lang, Italo Brutalo, marienus and Marsman and 2 more. See dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
+Time is the new space is a music venue in Rotterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Italo Brutalo, marienus, Marsman and Moses Joses and 2 more. See dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | TIME2CLUB – WATCHING YOUTUBE VIDEOS W/ … [VOL. 1] | Helmond Lang, Rick Baguette |
 | Sat, 10 Oct 2026 | Pontoon Bookings 5-Year Anniversary |  |
 | Thu, 15 Oct 2026 | HIGHSCORE |  |
 | Fri, 16 Oct 2026 | Mowgli & Moses Joses – ALL NIGHT LONG | Moses Joses, Mowgli (NL) |
@@ -20,4 +19,4 @@ Time is the new space is a music venue in Rotterdam listed on soundcheck. 7 upco
 
 Schiekade 185, 3013 BR, Rotterdam, Netherlands, Rotterdam
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*

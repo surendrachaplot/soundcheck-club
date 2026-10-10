@@ -1,14 +1,13 @@
 # Vintage Culture
 
-Vintage Culture is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Great Pyramids OF Giza, Egypt on Fri, 9 Oct 2026.
+Vintage Culture is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Ushuaïa Ibiza, Ibiza on Sat, 10 Oct 2026.
 
-Vintage Culture is a house and tech house artist based in Brazil, with 197 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 42 more. Often billed alongside FISHER, Andrea Oliva and Franky Rizardo. Next up: The Great Pyramids OF Giza, Egypt on Fri 9 Oct.
+Vintage Culture is a house and tech house artist based in Brazil, with 197 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 42 more. Often billed alongside FISHER, Andrea Oliva and Franky Rizardo. Next up: Ushuaïa Ibiza, Ibiza on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | The Great Pyramids OF Giza | Egypt |
 | Sat, 10 Oct 2026 | Ushuaïa Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
@@ -20,6 +19,7 @@ Vintage Culture is a house and tech house artist based in Brazil, with 197 gigs 
 
 ## Recently played
 
+- The Great Pyramids OF Giza, Egypt · Fri, 9 Oct 2026
 - [UNVRS], Ibiza · Tue, 6 Oct 2026
 - TBA - Brussels, Brussels · Fri, 11 Sept 2026
 - Radius, Chicago · Mon, 7 Sept 2026
@@ -27,10 +27,9 @@ Vintage Culture is a house and tech house artist based in Brazil, with 197 gigs 
 - Santanna Mykonos, Mykonos · Sat, 15 Aug 2026
 - Sloterpark, Amsterdam · Sat, 8 Aug 2026
 - Zürichsee, Zurich · Sat, 8 Aug 2026
-- Kaufleuten, Zurich · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 FISHER, Andrea Oliva, Franky Rizardo
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vintageculture/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vintageculture/)*

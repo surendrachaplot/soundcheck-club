@@ -1,6 +1,6 @@
 # Liquid Earth
 
-Liquid Earth is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri, 9 Oct 2026.
+Liquid Earth is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri, 9 Oct 2026.
 
 Liquid Earth is a house and techno artist based in United States of America, with 185 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bangkok and 50 more. Often billed alongside Mari.te, tINI and Hamish & Toby. Next up: Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri 9 Oct.
 
@@ -15,6 +15,7 @@ Liquid Earth is a house and techno artist based in United States of America, wit
 
 ## Recently played
 
+- Les Beaux-Arts de Marseille - Inseamm., Marseille · Fri, 9 Oct 2026
 - Audiodise Park Montjuic, Barcelona · Sun, 27 Sept 2026
 - Sunseabar Beach Club, Barcelona · Sat, 26 Sept 2026
 - Village Underground, London · Fri, 25 Sept 2026
@@ -22,10 +23,9 @@ Liquid Earth is a house and techno artist based in United States of America, wit
 - Oven Club, Valencia · Fri, 11 Sept 2026
 - Audiodise Park Montjuic, Barcelona · Sun, 16 Aug 2026
 - Fünk, Mexico City · Sat, 11 Jul 2026
-- Signal, New York City · Fri, 10 Jul 2026
 
 ## Shares bills with
 
 Mari.te, tINI, Hamish & Toby
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidearth/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidearth/)*

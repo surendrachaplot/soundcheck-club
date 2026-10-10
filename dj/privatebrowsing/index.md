@@ -1,6 +1,6 @@
 # private browsing
 
-private browsing is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Bar  Milagro, New York City on Sat, 24 Oct 2026.
+private browsing is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Bar  Milagro, New York City on Sat, 24 Oct 2026.
 
 private browsing is a house and techno artist based in United States of America, with 15 gigs on soundcheck across Edinburgh, Los Angeles and New York City. Often billed alongside Tim Lucent, x3butterfly and Leon Vynehall. Next up: Bar  Milagro, New York City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ private browsing is a house and techno artist based in United States of America,
 
 Tim Lucent, x3butterfly, Leon Vynehall
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/privatebrowsing/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/privatebrowsing/)*

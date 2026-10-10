@@ -1,6 +1,6 @@
 # Meetfactory
 
-Meetfactory is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. The next is "Skeler NIGHTFALL TOUR" on Fri, 13 Nov 2026.
+Meetfactory is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. The next is "Skeler NIGHTFALL TOUR" on Fri, 13 Nov 2026.
 
 Meetfactory is a music venue in Prague listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Ke Sklárne 3213/15, 150 00 Praha 5, Czech Republic.
 
@@ -14,4 +14,4 @@ Meetfactory is a music venue in Prague listed on soundcheck. 1 upcoming gig. See
 
 Ke Sklárne 3213/15, 150 00 Praha 5, Czech Republic, Prague
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/meetfactory/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/meetfactory/)*

@@ -1,6 +1,6 @@
 # Bassline
 
-Bassline is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 17 Oct 2026.
+Bassline is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 17 Oct 2026.
 
 Bassline is a garage and drum & bass artist based in Russia, with 9 gigs on soundcheck across London, Melbourne, Seoul and Sheffield and 1 more. Often billed alongside Jungle (UK), 1TA and Baku. Next up: Revolver Upstairs, Melbourne on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Bassline is a garage and drum & bass artist based in Russia, with 9 gigs on soun
 
 Jungle (UK), 1TA (1), Baku
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bassline/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bassline/)*

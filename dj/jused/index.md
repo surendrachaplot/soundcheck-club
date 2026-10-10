@@ -1,6 +1,6 @@
 # Jus-Ed
 
-Jus-Ed is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Palais Mascotte, Zurich on Sat, 10 Oct 2026.
+Jus-Ed is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Palais Mascotte, Zurich on Sat, 10 Oct 2026.
 
 Jus-Ed is a house and techno artist based in United States of America, with 56 gigs on soundcheck across Amsterdam, Berlin, Boston and Buenos Aires and 16 more. Often billed alongside Move D, Doreen and Maayan Nidam. Next up: Palais Mascotte, Zurich on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Jus-Ed is a house and techno artist based in United States of America, with 56 g
 
 Move D, Doreen, Maayan Nidam
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jused/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jused/)*

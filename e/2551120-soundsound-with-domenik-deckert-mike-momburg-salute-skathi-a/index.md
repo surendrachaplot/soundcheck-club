@@ -1,6 +1,6 @@
 # SOUNDSOUND with Domenik Deckert, Mike Momburg, salute, Skathi at Gewölbe
 
-SOUNDSOUND with Domenik Deckert, Mike Momburg, salute, Skathi at Gewölbe on Sat 7 Nov, Cologne. 3 artists: Domenik Deckert, Mike Momburg and salute. See the line-up on soundcheck.
+SOUNDSOUND with Domenik Deckert, Mike Momburg, salute, Skathi at Gewölbe on Sat 7 Nov, Cologne. 4 artists: Domenik Deckert, Mike Momburg, salute and skathi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ SOUNDSOUND with Domenik Deckert, Mike Momburg, salute, Skathi at Gewölbe on Sat
 - Domenik Deckert
 - Mike Momburg
 - salute
+- skathi
 
 *Source: [soundcheck](https://soundcheck.club/e/2551120-soundsound-with-domenik-deckert-mike-momburg-salute-skathi-a/)*

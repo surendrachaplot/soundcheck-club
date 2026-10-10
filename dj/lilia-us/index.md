@@ -1,6 +1,6 @@
 # lilia
 
-lilia is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA, San Francisco/Oakland on Sat, 24 Oct 2026.
+lilia is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA, San Francisco/Oakland on Sat, 24 Oct 2026.
 
 lilia is a house and garage artist based in United States of America, with 18 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside Golem (US), New Juicy and ipad baby (US). Next up: TBA, San Francisco/Oakland on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ lilia is a house and garage artist based in United States of America, with 18 gi
 
 Golem (US), New Juicy, ipad baby (US)
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilia-us/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilia-us/)*

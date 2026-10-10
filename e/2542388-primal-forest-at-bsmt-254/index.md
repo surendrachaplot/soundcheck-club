@@ -1,6 +1,6 @@
 # Primal Forest at Bsmt 254
 
-Primal Forest at Bsmt 254 on Sun 11 Oct, Toronto. 3 artists: Psyberix, Risky Medicine and SouthPawBrown. Electronica. See the line-up on soundcheck.
+Primal Forest at Bsmt 254 on Sun 11 Oct, Toronto. 4 artists: Loving Hand, Psyberix, Risky Medicine and SouthPawBrown. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Primal Forest at Bsmt 254 on Sun 11 Oct, Toronto. 3 artists: Psyberix, Risky Med
 
 ## Line-up
 
+- Loving Hand
 - Psyberix
 - Risky Medicine
 - SouthPawBrown

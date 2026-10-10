@@ -1,6 +1,6 @@
 # Steven Julien 808 PRINCE ALBUM LAUNCH PARTY at radial
 
-Steven Julien 808 PRINCE ALBUM LAUNCH PARTY at radial on Fri 16 Oct, London. 1 artist: Steven Julien. House and Electro. See the line-up on soundcheck.
+Steven Julien 808 PRINCE ALBUM LAUNCH PARTY at radial on Fri 16 Oct, London. 2 artists: J. Caesar and Steven Julien. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Steven Julien 808 PRINCE ALBUM LAUNCH PARTY at radial on Fri 16 Oct, London. 1 a
 
 ## Line-up
 
+- J. Caesar
 - Steven Julien
 
 *Source: [soundcheck](https://soundcheck.club/e/2548911-steven-julien-808-prince-album-launch-party-at-radial/)*

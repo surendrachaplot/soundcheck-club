@@ -1,6 +1,6 @@
 # 24 Kitchen Street Green Room
 
-24 Kitchen Street Green Room is a music venue in Liverpool with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Otra with Shy One b2b Ruby Savage" on Sat, 7 Nov 2026.
+24 Kitchen Street Green Room is a music venue in Liverpool with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Otra with Shy One b2b Ruby Savage" on Sat, 7 Nov 2026.
 
 24 Kitchen Street Green Room is a music venue in Liverpool listed on soundcheck. 2 upcoming gigs, with line-ups including Dance for Plants, Dharma Collective, Ruby Savage and Shy One. See dates, start times and who's playing. 24 Kitchen Street, L1 0AN, Liverpool.
 
@@ -15,4 +15,4 @@
 
 24 Kitchen Street, L1 0AN, Liverpool, Liverpool
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/24-kitchen-street-green-room/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/24-kitchen-street-green-room/)*

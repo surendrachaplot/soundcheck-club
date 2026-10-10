@@ -1,6 +1,6 @@
 # Wigwam
 
-Wigwam is a music venue in Dublin with 22 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Stacked: with KiNK b2b Raredub & Nikki Nair" on Fri, 9 Oct 2026.
+Wigwam is a music venue in Dublin with 22 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Wigwam presents: 49th & Main & Friends (Full Venue Takover)" on Sat, 10 Oct 2026.
 
 Wigwam is a music venue in Dublin listed on soundcheck. 22 upcoming gigs, with line-ups including Aero, Angel D'lite, Ayolxi and Boyd Schidt and 2 more. See dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
 
@@ -8,7 +8,6 @@ Wigwam is a music venue in Dublin listed on soundcheck. 22 upcoming gigs, with l
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Stacked: with KiNK b2b Raredub & Nikki Nair | KiNK, Nikki Nair, Raredub |
 | Sat, 10 Oct 2026 | Wigwam presents: 49th & Main & Friends (Full Venue Takover) |  |
 | Fri, 16 Oct 2026 | Omni.Dub presents: PARAMIDA & Lewis Carroll | Lewis Carroll, PARAMIDA |
 | Sat, 17 Oct 2026 | Bassbin 30 | Chord Memory, Zero T, don rosco |
@@ -18,9 +17,10 @@ Wigwam is a music venue in Dublin listed on soundcheck. 22 upcoming gigs, with l
 | Sat, 24 Oct 2026 | Loose Ends presents CamrinWatsin |  |
 | Sun, 25 Oct 2026 | Circles: Subject x Tresor [T35 - Tresor 35th Anniversary] | Aero (1), Ayolxi, Cailín, Daniel Bell, Fireground, Giles Armstrong, Jon Hussey, Regis |
 | Fri, 30 Oct 2026 | Hybrid Events presents: Marcal & JKS | JKS, Marcal |
+| Sat, 31 Oct 2026 | Wigwam x HONEYPOT present: Halloween with Angel D'lite | Angel D'lite |
 
 ## Address
 
 54 Abbey Street Middle, North City, Dublin, Ireland, Dublin
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*

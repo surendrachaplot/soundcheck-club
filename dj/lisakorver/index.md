@@ -1,14 +1,13 @@
 # Lisa Korver
 
-Lisa Korver is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Garage Klub, Antwerp on Fri, 9 Oct 2026.
+Lisa Korver is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TivoliVredenburg, Utrecht on Sat, 17 Oct 2026.
 
-Lisa Korver is a techno and house artist based in Netherlands, with 74 gigs on soundcheck across Amsterdam, Antwerp, Eindhoven and Ibiza and 8 more. Often billed alongside LAMMER, OLIVIA LENSEN and Freddi. Next up: Garage Klub, Antwerp on Fri 9 Oct.
+Lisa Korver is a techno and house artist based in Netherlands, with 74 gigs on soundcheck across Amsterdam, Antwerp, Eindhoven and Ibiza and 8 more. Often billed alongside LAMMER, OLIVIA LENSEN and Freddi. Next up: TivoliVredenburg, Utrecht on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Garage Klub | Antwerp |
 | Sat, 17 Oct 2026 | TivoliVredenburg | Utrecht |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sat, 24 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
@@ -20,9 +19,11 @@ Lisa Korver is a techno and house artist based in Netherlands, with 74 gigs on s
 | Sat, 28 Nov 2026 | Lijm & Cultuur | Netherlands |
 | Sat, 28 Nov 2026 | Complex Maastricht | Netherlands |
 | Sat, 19 Dec 2026 | Zeefgebouw | Netherlands |
+| Sat, 30 Jan 2027 | Klokgebouw | Eindhoven |
 
 ## Recently played
 
+- Garage Klub, Antwerp · Fri, 9 Oct 2026
 - Cabaret  Aléatoire, Marseille · Fri, 25 Sept 2026
 - Laagravense Plas, Utrecht · Sat, 12 Sept 2026
 - Colorado Charlie, The Hague · Sun, 30 Aug 2026
@@ -30,10 +31,9 @@ Lisa Korver is a techno and house artist based in Netherlands, with 74 gigs on s
 - Ahoy Rotterdam, Rotterdam · Sat, 29 Aug 2026
 - Gianpula Village, Malta · Wed, 12 Aug 2026
 - [UNVRS], Ibiza · Mon, 10 Aug 2026
-- Sloterpark, Amsterdam · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 LAMMER, OLIVIA LENSEN, Freddi
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakorver/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakorver/)*

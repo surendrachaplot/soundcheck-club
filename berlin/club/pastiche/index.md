@@ -1,6 +1,6 @@
 # Pastiche
 
-Pastiche is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Sonic Commons - Tag Der Kultur" on Sat, 10 Oct 2026.
+Pastiche is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Sonic Commons - Tag Der Kultur" on Sat, 10 Oct 2026.
 
 Pastiche is a music venue in Berlin listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. Weserstr 46, 12045, Berlin.
 
@@ -17,4 +17,4 @@ Pastiche is a music venue in Berlin listed on soundcheck. 4 upcoming gigs. See d
 
 Weserstr 46, 12045, Berlin, Berlin
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pastiche/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pastiche/)*

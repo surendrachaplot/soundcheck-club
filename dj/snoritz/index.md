@@ -1,14 +1,13 @@
 # snoritz
 
-snoritz is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Amp, Munster on Fri, 9 Oct 2026.
+snoritz is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Schrotty, Cologne on Sat, 10 Oct 2026.
 
-snoritz is a techno and trance artist based in Germany, with 49 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hamburg and 9 more. Often billed alongside PRADA2000, Justin Tinderdate and DJ Pinky Promise. Next up: Amp, Munster on Fri 9 Oct.
+snoritz is a techno and trance artist based in Germany, with 49 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hamburg and 9 more. Often billed alongside PRADA2000, Justin Tinderdate and DJ Pinky Promise. Next up: Schrotty, Cologne on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Amp | Munster |
 | Sat, 10 Oct 2026 | Schrotty | Cologne |
 | Fri, 23 Oct 2026 | Kilomètre25 | Paris |
 | Sat, 24 Oct 2026 | The Bulldog Palace | Amsterdam |
@@ -21,6 +20,7 @@ snoritz is a techno and trance artist based in Germany, with 49 gigs on soundche
 
 ## Recently played
 
+- Amp, Munster · Fri, 9 Oct 2026
 - Bahnwärter Thiel, Munich · Fri, 18 Sept 2026
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
 - Lokschuppen Berlin, Berlin · Fri, 21 Aug 2026
@@ -28,10 +28,9 @@ snoritz is a techno and trance artist based in Germany, with 49 gigs on soundche
 - Garagen, Cologne · Sat, 25 Jul 2026
 - Fundbureau, Hamburg · Sat, 4 Jul 2026
 - ÆDEN, Berlin · Sun, 21 Jun 2026
-- UNO MALTA, Malta · Thu, 21 May 2026
 
 ## Shares bills with
 
 PRADA2000, Justin Tinderdate, DJ Pinky Promise
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snoritz/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snoritz/)*

@@ -1,6 +1,6 @@
 # Jacq Jill
 
-Jacq Jill is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Area 405, Baltimore on Sun, 25 Oct 2026.
+Jacq Jill is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Area 405, Baltimore on Sun, 25 Oct 2026.
 
 Jacq Jill is a techno and house artist based in United States of America, with 65 gigs on soundcheck across Amsterdam, Baltimore, Los Angeles and New York City and 3 more. Often billed alongside Joyce Lim, Baronhawk Poitier and flotussin. Next up: Area 405, Baltimore on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Jacq Jill is a techno and house artist based in United States of America, with 6
 
 Joyce Lim, Baronhawk Poitier, flotussin
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacqjill/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacqjill/)*

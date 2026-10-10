@@ -1,8 +1,8 @@
 # Het Dorp
 
-Het Dorp is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Het Dorp x In Place Of War" on Wed, 21 Oct 2026.
+Het Dorp is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Het Dorp x In Place Of War" on Wed, 21 Oct 2026.
 
-Het Dorp is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Paula Tape, Arista, BELLA (NL) and Budino and 2 more. See dates, start times and who's playing. Noordwal 1, 1021 PX Amsterdam, Netherlands.
+Het Dorp is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Paula Tape, Arista, BELLA (NL) and Budino and 2 more. See dates, start times and who's playing. Noordwal 1, 1021 PX Amsterdam, Netherlands.
 
 ## What's on
 
@@ -14,9 +14,10 @@ Het Dorp is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, wi
 | Sat, 24 Oct 2026 | Lowfriends Showcase ADE REcharge | Casablanca 303, Coralie Llie, Hightower, Mark Mywords, Rene Engel, Soof |
 | Sun, 25 Oct 2026 | Bubble House x ADE |  |
 | Sat, 14 Nov 2026 | CUSH | sol.sous.sol |
+| Fri, 4 Dec 2026 | Zware Aarsbeving |  |
 
 ## Address
 
 Noordwal 1, 1021 PX Amsterdam, Netherlands, Amsterdam
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-dorp/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-dorp/)*

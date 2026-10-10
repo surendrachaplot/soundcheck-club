@@ -1,6 +1,6 @@
 # Sooki Lounge
 
-Sooki Lounge is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Anomalie Collective Takeover" on Sat, 10 Oct 2026.
+Sooki Lounge is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Anomalie Collective Takeover" on Sat, 10 Oct 2026.
 
 Sooki Lounge is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including ALIEN-A, CAITY WATSON, Clancy and Kailyn Crabbe and 2 more. See dates, start times and who's playing. 1648 Burwood Hwy, Belgrave, Victoria, Australia 3160.
 
@@ -22,4 +22,4 @@ Sooki Lounge is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs
 
 1648 Burwood Hwy, Belgrave, Victoria, Australia 3160, Melbourne
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sooki-lounge/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sooki-lounge/)*

@@ -1,6 +1,6 @@
 # Stella (2)
 
-Stella (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at elipamanoke, Leipzig on Sat, 10 Oct 2026.
+Stella (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at elipamanoke, Leipzig on Sat, 10 Oct 2026.
 
 Stella is a house and techno artist based in Finland, with 33 gigs on soundcheck across Helsinki, Leipzig, New York City and Tallinn. Often billed alongside DJ JVS, Carlina Carpelan and Daniel Kayrouz. Next up: elipamanoke, Leipzig on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Stella is a house and techno artist based in Finland, with 33 gigs on soundcheck
 
 DJ JVS, Carlina Carpelan, Daniel Kayrouz
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stella-2/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stella-2/)*

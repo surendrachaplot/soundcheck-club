@@ -1,8 +1,8 @@
 # DAX J
 
-DAX J is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 10 Oct 2026.
+DAX J is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 10 Oct 2026.
 
-DAX J is a techno and house artist based in United Kingdom, with 266 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 68 more. Often billed alongside SPFDJ, Daria Kolosova and Chlär. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 10 Oct.
+DAX J is a techno and house artist based in United Kingdom, with 267 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 69 more. Often billed alongside SPFDJ, Daria Kolosova and Chlär. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ DAX J is a techno and house artist based in United Kingdom, with 266 gigs on sou
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 31 Oct 2026 | Les 7 Doigts de la Main | Montreal |
 | Sat, 7 Nov 2026 | TBA | Atlanta |
+| Fri, 13 Nov 2026 | TRANSMISSION DC | Washington DC |
 | Sat, 14 Nov 2026 | Knockdown Center | New York City |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Sat, 28 Nov 2026 | Lofi | Amsterdam |
 | Sat, 5 Dec 2026 | Fabrik | Madrid |
-| Thu, 24 Dec 2026 | SMUT Athens | Athens |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ DAX J is a techno and house artist based in United Kingdom, with 266 gigs on sou
 
 SPFDJ, Daria Kolosova, Chlär
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*

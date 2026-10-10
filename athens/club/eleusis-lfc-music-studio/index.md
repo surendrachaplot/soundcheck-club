@@ -1,6 +1,6 @@
 # Eleusis LFC Music Studio
 
-Eleusis LFC Music Studio is a music venue in Athens with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Eleusis presents Mikee, Aristoo" on Sat, 10 Oct 2026.
+Eleusis LFC Music Studio is a music venue in Athens with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Eleusis presents Mikee, Aristoo" on Sat, 10 Oct 2026.
 
 Eleusis LFC Music Studio is a music venue in Athens listed on soundcheck. 4 upcoming gigs, with line-ups including Gatsio, Mikee (Athens), Philip Paul and VSSLS. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Eleusis LFC Music Studio is a music venue in Athens listed on soundcheck. 4 upco
 | Sat, 24 Oct 2026 | Eleusis presents Mikee, Aristoo | Mikee (Athens) |
 | Sat, 31 Oct 2026 | Eleusis presents Mikael Delta, Philip Paul | Philip Paul |
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/eleusis-lfc-music-studio/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/eleusis-lfc-music-studio/)*

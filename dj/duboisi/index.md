@@ -1,6 +1,6 @@
 # duboisi
 
-duboisi is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Jènemar Passéjure, Prague on Fri, 9 Oct 2026.
+duboisi is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Jènemar Passéjure, Prague on Fri, 9 Oct 2026.
 
 duboisi is a house and club artist based in Slovakia, with 41 gigs on soundcheck across Prague. Often billed alongside Wuss, Kirill Astra and SAAB. Next up: Jènemar Passéjure, Prague on Fri 9 Oct.
 
@@ -12,6 +12,7 @@ duboisi is a house and club artist based in Slovakia, with 41 gigs on soundcheck
 
 ## Recently played
 
+- Jènemar Passéjure, Prague · Fri, 9 Oct 2026
 - Bukanyr Boat, Prague · Fri, 25 Sept 2026
 - Tendance, Prague · Fri, 31 Jul 2026
 - TBA - Boat (location in telegram channel), Prague · Sun, 26 Jul 2026
@@ -19,10 +20,9 @@ duboisi is a house and club artist based in Slovakia, with 41 gigs on soundcheck
 - Groove Bar, Prague · Sat, 14 Mar 2026
 - Tendance, Prague · Fri, 13 Mar 2026
 - 25,2 rpm, Prague · Fri, 20 Feb 2026
-- Groove Bar, Prague · Fri, 30 Jan 2026
 
 ## Shares bills with
 
 Wuss, Kirill Astra, SAAB
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duboisi/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duboisi/)*

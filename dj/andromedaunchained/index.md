@@ -1,6 +1,6 @@
 # Andromeda\Unchained
 
-Andromeda\Unchained is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 10 Oct 2026.
+Andromeda\Unchained is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 10 Oct 2026.
 
 Andromeda\Unchained is a techno and house artist based in Italy, with 9 gigs on soundcheck across Milan and Prague. Often billed alongside AllaDerivaLontano, Diamantha and GLADJEE. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Andromeda\Unchained is a techno and house artist based in Italy, with 9 gigs on 
 
 AllaDerivaLontano, Diamantha, GLADJEE
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andromedaunchained/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andromedaunchained/)*

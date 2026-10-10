@@ -1,6 +1,6 @@
 # Armin van Buuren
 
-Armin van Buuren is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Factory Town, Miami on Sat, 10 Oct 2026.
+Armin van Buuren is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Factory Town, Miami on Sat, 10 Oct 2026.
 
 Armin van Buuren is a trance and techno artist based in Netherlands, with 71 gigs on soundcheck across Amsterdam, Austin, Barcelona and Bristol and 26 more. Often billed alongside Miss Monique, Artbat and Billy Gillies. Next up: Factory Town, Miami on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Armin van Buuren is a trance and techno artist based in Netherlands, with 71 gig
 
 Miss Monique, Artbat, Billy Gillies
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arminvanbuuren/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arminvanbuuren/)*

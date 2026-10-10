@@ -1,14 +1,13 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 15 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "COSMO RAVE: AROUND THE WORLD" on Fri, 9 Oct 2026.
+Teritorija is a music venue in Riga with 14 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Aniri Chan // Pulss" on Sat, 10 Oct 2026.
 
-Teritorija is a music venue in Riga listed on soundcheck. 15 upcoming gigs, with line-ups including Alexcel, ANASI, Aniri Chan and ARRISHA and 2 more. See dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
+Teritorija is a music venue in Riga listed on soundcheck. 14 upcoming gigs, with line-ups including Alexcel, ANASI, Aniri Chan and ARRISHA and 2 more. See dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | COSMO RAVE: AROUND THE WORLD | Notwelcome, Pulss |
 | Sat, 10 Oct 2026 | Aniri Chan // Pulss | Aniri Chan, Pulss |
 | Fri, 16 Oct 2026 | Platz fur Tanz x Teritorija 10 Years Anniversary | Dmitry Puffin, Ksenia Kamikaza, Notwelcome, VLAD PHANGAN |
 | Sat, 17 Oct 2026 | Alexcel // Leksy | Alexcel, Leksy |
@@ -18,9 +17,10 @@ Teritorija is a music venue in Riga listed on soundcheck. 15 upcoming gigs, with
 | Sat, 31 Oct 2026 | Esoniq | Esoniq |
 | Sat, 31 Oct 2026 | BASS SLAUGHTER x TRT: HALLOWEEN NIGHTMARE - Night | DENOVA, Esoniq, Leprosy, Marex Kai, RAWKORED, XSYNC19 |
 | Sat, 31 Oct 2026 | BASS SLAUGHTER session 7 (HALLOWEEN NIGHTMARE) - Evening | MVKO, XSYNC19, oshigakill |
+| Fri, 13 Nov 2026 | Cosmo Rave: Gravity |  |
 
 ## Address
 
 Krišjāņa Barona Street 136, Riga, Riga
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*

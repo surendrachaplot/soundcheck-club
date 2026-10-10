@@ -1,14 +1,13 @@
 # DJ TOOL
 
-DJ TOOL is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - 4211 Todd Ln Suite A, Austin on Fri, 9 Oct 2026.
+DJ TOOL is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at BASEMENT, New York City on Sat, 10 Oct 2026.
 
-DJ TOOL is a techno and house artist based in Denmark, with 195 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 51 more. Often billed alongside Yazzus, Hyperaktivist and D.Dan. Next up: TBA - 4211 Todd Ln Suite A, Austin on Fri 9 Oct.
+DJ TOOL is a techno and house artist based in Denmark, with 195 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 51 more. Often billed alongside Yazzus, Hyperaktivist and D.Dan. Next up: BASEMENT, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | TBA - 4211 Todd Ln Suite A | Austin |
 | Sat, 10 Oct 2026 | BASEMENT | New York City |
 | Fri, 16 Oct 2026 | Ankali & Planeta Za | Prague |
 | Fri, 20 Nov 2026 | RSO.BERLIN | Berlin |
@@ -16,6 +15,7 @@ DJ TOOL is a techno and house artist based in Denmark, with 195 gigs on soundche
 
 ## Recently played
 
+- TBA - 4211 Todd Ln Suite A, Austin · Fri, 9 Oct 2026
 - TBA - Warehouse Location , Boston · Sat, 3 Oct 2026
 - Else, Berlin · Sun, 20 Sept 2026
 - Circolo Amelia, Milan · Sat, 19 Sept 2026
@@ -23,10 +23,9 @@ DJ TOOL is a techno and house artist based in Denmark, with 195 gigs on soundche
 - The Bassement, Madrid · Sat, 5 Sept 2026
 - RSO.BERLIN, Berlin · Sat, 22 Aug 2026
 - Else, Berlin · Sat, 8 Aug 2026
-- CLUB RAUM, Amsterdam · Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Yazzus, Hyperaktivist, D.Dan
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtool/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtool/)*

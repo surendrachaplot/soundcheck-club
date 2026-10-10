@@ -1,6 +1,6 @@
 # Lili Castiglioni
 
-Lili Castiglioni is a Electro and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Le Molodoi, Strasbourg on Sat, 10 Oct 2026.
+Lili Castiglioni is a Electro and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Le Molodoi, Strasbourg on Sat, 10 Oct 2026.
 
 Lili Castiglioni is an electro and electronica artist based in France, with 5 gigs on soundcheck across Paris and Strasbourg. Often billed alongside 9oodkid, Acid Souljah and Broodoo Ramses. Next up: Le Molodoi, Strasbourg on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ Lili Castiglioni is an electro and electronica artist based in France, with 5 gi
 
 9oodkid, Acid Souljah, Broodoo Ramses
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilicastiglioni/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilicastiglioni/)*

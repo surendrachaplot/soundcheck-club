@@ -1,6 +1,6 @@
 # Player Dave
 
-Player Dave is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Music Yard, Charlotte on Sat, 10 Oct 2026.
+Player Dave is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Music Yard, Charlotte on Sat, 10 Oct 2026.
 
 Player Dave is a bass and garage artist based in United States of America, with 24 gigs on soundcheck across Charlotte, Chicago, Denver and Detroit and 9 more. Often billed alongside Jacques Greene, Sara Landry and Potions. Next up: The Music Yard, Charlotte on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Player Dave is a bass and garage artist based in United States of America, with 
 
 Jacques Greene, Sara Landry, Potions
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/playerdave/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/playerdave/)*

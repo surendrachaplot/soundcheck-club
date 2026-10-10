@@ -1,6 +1,6 @@
 # Circus Osaka
 
-Circus Osaka is a music venue in Osaka with 13 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "N.I.P.R" on Fri, 9 Oct 2026.
+Circus Osaka is a music venue in Osaka with 13 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Daniel Bell -All Night Long" on Sat, 10 Oct 2026.
 
 Circus Osaka is a music venue in Osaka listed on soundcheck. 13 upcoming gigs, with line-ups including Aliceyuki, ANCHIN, AOKI takamasa and Daniel Bell and 2 more. See dates, start times and who's playing. 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN.
 
@@ -8,11 +8,11 @@ Circus Osaka is a music venue in Osaka listed on soundcheck. 13 upcoming gigs, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | N.I.P.R | Tosy |
 | Sat, 10 Oct 2026 | Daniel Bell -All Night Long | Daniel Bell |
 | Sun, 11 Oct 2026 | QUERICO 4th Anniversary | ANCHIN, Aliceyuki, MileZ, Paperkraft, Ryu (2), SAMO (JP) |
 | Thu, 15 Oct 2026 | SSWT |  |
 | Fri, 16 Oct 2026 | synts presents: Mietze Conte |  |
+| Sat, 17 Oct 2026 | Licaxxx | Frankie $, Licaxxx, Paperkraft |
 | Fri, 23 Oct 2026 | PARTY ATHLETES presents SPOTTO 2nd Anniversary Party | MARU (2), SEIJI (2), Unai Trotti |
 | Sat, 24 Oct 2026 | MONZA | AOKI takamasa, Kohei |
 | Fri, 30 Oct 2026 | UNDERMALL vol.4 | J Wax, Osmosis Jones |
@@ -23,4 +23,4 @@ Circus Osaka is a music venue in Osaka listed on soundcheck. 13 upcoming gigs, w
 
 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN, Osaka
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*

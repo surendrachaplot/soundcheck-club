@@ -1,6 +1,6 @@
 # Hugel
 
-Hugel is a House and Afro House artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Club Cultural Lima, Peru on Fri, 16 Oct 2026.
+Hugel is a House and Afro House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Club Cultural Lima, Peru on Fri, 16 Oct 2026.
 
 Hugel is a house and afro house artist based in France, with 139 gigs on soundcheck across Amsterdam, Athens, Auckland and Austin and 37 more. Often billed alongside Miss Monique, Dombresky and Eran Hersh. Next up: Club Cultural Lima, Peru on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ Hugel is a house and afro house artist based in France, with 139 gigs on soundch
 
 Miss Monique, Dombresky, Eran Hersh
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hugel/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hugel/)*

@@ -1,14 +1,13 @@
 # Andy C
 
-Andy C is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Andy C is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
 
-Andy C is a drum & bass and jungle artist based in United Kingdom, with 105 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 45 more. Often billed alongside Tonn Piper, Bou (UK) and Hybrid Minds. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
+Andy C is a drum & bass and jungle artist based in United Kingdom, with 105 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 45 more. Often billed alongside Tonn Piper, Bou (UK) and Hybrid Minds. Next up: Depot Mayfield, Manchester on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 31 Oct 2026 | Cardiff Students' Union - The Great Hall | Cardiff |
 | Sat, 31 Oct 2026 | MK Arena | Midlands |
@@ -18,6 +17,7 @@ Andy C is a drum & bass and jungle artist based in United Kingdom, with 105 gigs
 
 ## Recently played
 
+- Depot Mayfield, Manchester · Fri, 9 Oct 2026
 - Document, Bristol · Sat, 3 Oct 2026
 - Ministry Of Sound, London · Fri, 2 Oct 2026
 - Roxy, Prague · Sat, 26 Sept 2026
@@ -25,10 +25,9 @@ Andy C is a drum & bass and jungle artist based in United Kingdom, with 105 gigs
 - Live From Wythenshawe Park, Manchester · Sun, 30 Aug 2026
 - TBA, Vienna · Fri, 14 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
-- BERHTA, Washington DC · Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Tonn Piper, Bou (UK), Hybrid Minds
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andyc/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andyc/)*

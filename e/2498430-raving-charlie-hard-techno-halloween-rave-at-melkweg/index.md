@@ -1,6 +1,6 @@
-# RAVING CHARLIE: Hard Techno Halloween Rave at Melkweg
+# RAVING CHARLIE: Hard Techno / Halloween Rave at Melkweg
 
-RAVING CHARLIE: Hard Techno Halloween Rave at Melkweg on Fri 30 Oct, Amsterdam. 2 artists: FHNX and Zeyvers. Techno and Hardcore. See the line-up on soundcheck.
+RAVING CHARLIE: Hard Techno / Halloween Rave at Melkweg on Fri 30 Oct, Amsterdam. 2 artists: FHNX and Zeyvers. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

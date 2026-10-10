@@ -1,8 +1,8 @@
 # Bambi (FR)
 
-Bambi (FR) is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Goo People, Los Angeles on Fri, 16 Oct 2026.
+Bambi (FR) is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Goo People, Los Angeles on Fri, 16 Oct 2026.
 
-Bambi (FR) is a techno and trance artist based in France, with 85 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Lastvuska, GTI and Jolly (FR). Next up: TBA - Goo People, Los Angeles on Fri 16 Oct.
+Bambi (FR) is a techno and trance artist based in France, with 86 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Lastvuska, GTI and Jolly (FR). Next up: TBA - Goo People, Los Angeles on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Bambi (FR) is a techno and trance artist based in France, with 85 gigs on soundc
 | Fri, 16 Oct 2026 | TBA - Goo People | Los Angeles |
 | Sat, 17 Oct 2026 | TBA - BK | New York City |
 | Sat, 24 Oct 2026 | TBA - Premises | Chicago |
+| Sun, 1 Nov 2026 | TBA - Mile-Ex | Montreal |
 | Sat, 7 Nov 2026 | Macadam | Nantes |
 | Sat, 28 Nov 2026 | RSO.BERLIN | Berlin |
 | Fri, 18 Dec 2026 | Cadavra | Madrid |
@@ -32,4 +33,4 @@ Bambi (FR) is a techno and trance artist based in France, with 85 gigs on soundc
 
 Lastvuska, GTI, Jolly (FR)
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-fr/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-fr/)*

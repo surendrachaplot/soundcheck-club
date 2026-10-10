@@ -1,8 +1,8 @@
 # 3TB (1)
 
-3TB (1) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Jènemar Passéjure, Prague on Fri, 9 Oct 2026.
+3TB (1) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Jènemar Passéjure, Prague on Fri, 9 Oct 2026.
 
-3TB is a house and tech house artist based in Czech Republic, with 9 gigs on soundcheck across Prague. Often billed alongside abecko, Kirill Astra and Markel. Next up: Jènemar Passéjure, Prague on Fri 9 Oct.
+3TB is a house and tech house artist based in Czech Republic, with 9 gigs on soundcheck across Prague. Often billed alongside abecko, Kirill Astra and Dimi Vector. Next up: Jènemar Passéjure, Prague on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@
 
 ## Recently played
 
+- Jènemar Passéjure, Prague · Fri, 9 Oct 2026
 - Bike Jesus, Prague · Sat, 26 Sept 2026
 - TBA - Boat (location in telegram channel), Prague · Sun, 26 Jul 2026
 - Mars, Prague · Fri, 15 May 2026
@@ -19,10 +20,9 @@
 - Bike Jesus, Prague · Sat, 11 Apr 2026
 - Revír Karlín, Prague · Fri, 27 Feb 2026
 - Groove Bar, Prague · Wed, 5 Nov 2025
-- Jènemar Passéjure, Prague · Fri, 10 Oct 2025
 
 ## Shares bills with
 
-abecko, Kirill Astra, Markel
+abecko, Kirill Astra, Dimi Vector
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3tb-1/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3tb-1/)*

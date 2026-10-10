@@ -1,14 +1,13 @@
 # Skepta
 
-Skepta is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
+Skepta is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Sat, 24 Oct 2026.
 
-Skepta is a tech house and house artist based in United Kingdom, with 87 gigs on soundcheck across Amsterdam, Barcelona, Brisbane and Chicago and 21 more. Often billed alongside Black Coffee, TSHA and Green Velvet. Next up: Hï Ibiza, Ibiza on Fri 9 Oct.
+Skepta is a tech house and house artist based in United Kingdom, with 87 gigs on soundcheck across Amsterdam, Barcelona, Brisbane and Chicago and 21 more. Often billed alongside Black Coffee, TSHA and Green Velvet. Next up: Warehouse Elementenstraat, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Hï Ibiza | Ibiza |
 | Sat, 24 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
 | Mon, 26 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
@@ -18,6 +17,7 @@ Skepta is a tech house and house artist based in United Kingdom, with 87 gigs on
 
 ## Recently played
 
+- Hï Ibiza, Ibiza · Fri, 9 Oct 2026
 - Hï Ibiza, Ibiza · Sat, 3 Oct 2026
 - TBA, Los Angeles · Sun, 27 Sept 2026
 - Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
@@ -25,10 +25,9 @@ Skepta is a tech house and house artist based in United Kingdom, with 87 gigs on
 - Labüsch-Bar, Winterthur, Zurich · Sat, 26 Sept 2026
 - Hï Ibiza, Ibiza · Sat, 12 Sept 2026
 - Hï Ibiza, Ibiza · Sat, 5 Sept 2026
-- Hï Ibiza, Ibiza · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 Black Coffee, TSHA, Green Velvet
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skepta/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skepta/)*

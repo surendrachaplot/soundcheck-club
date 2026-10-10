@@ -1,19 +1,19 @@
 # fetva
 
-fetva is a Experimental and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 9 Oct 2026.
+fetva is a Experimental and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 10 Oct 2026.
 
-fetva is an experimental and electro artist based in France, with 42 gigs on soundcheck across Athens, Berlin, Brussels and London and 3 more. Often billed alongside Golce, DJ Music and Lisa More. Next up: La Station - Gare des Mines, Paris on Fri 9 Oct.
+fetva is an experimental and electro artist based in France, with 42 gigs on soundcheck across Athens, Berlin, Brussels and London and 3 more. Often billed alongside Golce, DJ Music and Lisa More. Next up: La Machine Du Moulin Rouge, Paris on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | La Station - Gare des Mines | Paris |
 | Sat, 10 Oct 2026 | La Machine Du Moulin Rouge | Paris |
 | Fri, 23 Oct 2026 | Le Poisson Volant | Paris |
 
 ## Recently played
 
+- La Station - Gare des Mines, Paris · Fri, 9 Oct 2026
 - Eglise Saint-Remi, Brussels · Sat, 12 Sept 2026
 - TBA - Marseille, Marseille · Fri, 7 Aug 2026
 - TBA - Rose Bakery, 35-37 rue des Francs-Bourgeois, 75004 Paris, Paris · Wed, 29 Jul 2026
@@ -21,10 +21,9 @@ fetva is an experimental and electro artist based in France, with 42 gigs on sou
 - La Station - Gare des Mines, Paris · Fri, 17 Jul 2026
 - TBA - Le Cornichon, Paris · Sun, 21 Jun 2026
 - TBA - 44, boulevard du Temple, Paris, Paris · Sun, 21 Jun 2026
-- Antenne 47, Paris · Sun, 21 Jun 2026
 
 ## Shares bills with
 
 Golce, DJ Music, Lisa More
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fetva/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fetva/)*

@@ -1,6 +1,6 @@
 # Luca Viola
 
-Luca Viola is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TAG Culture Rome, Rome on Sat, 10 Oct 2026.
+Luca Viola is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TAG Culture Rome, Rome on Sat, 10 Oct 2026.
 
 Luca Viola is a techno and electronica artist based in Italy, with 34 gigs on soundcheck across Milan, Rome and Turin. Often billed alongside LPLPLP, Emiliano Comollo and Manifesto Disappunto. Next up: TAG Culture Rome, Rome on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Luca Viola is a techno and electronica artist based in Italy, with 34 gigs on so
 
 LPLPLP, Emiliano Comollo, Manifesto Disappunto
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaviola/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaviola/)*

@@ -1,14 +1,15 @@
 # Medea
 
-Medea is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at fi, Cologne on Sat, 10 Oct 2026.
+Medea is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at fi, Cologne on Sat, 10 Oct 2026.
 
-Medea is a techno and house artist based in Germany, with 26 gigs on soundcheck across Athens, Berlin, Cologne and Dortmund Essen and 4 more. Often billed alongside DJ SOURCE, Gutkind and DJ Hyaluron. Next up: fi, Cologne on Sat 10 Oct.
+Medea is a techno and house artist based in Germany, with 27 gigs on soundcheck across Athens, Berlin, Cologne and Dortmund Essen and 4 more. Often billed alongside DJ SOURCE, Gutkind and Parallx. Next up: fi, Cologne on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | fi | Cologne |
+| Sat, 24 Oct 2026 | Tresor.West | Dortmund-essen |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Medea is a techno and house artist based in Germany, with 26 gigs on soundcheck 
 
 ## Shares bills with
 
-DJ SOURCE, Gutkind, DJ Hyaluron
+DJ SOURCE, Gutkind, Parallx
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medea/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medea/)*

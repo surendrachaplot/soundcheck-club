@@ -1,6 +1,6 @@
 # Maxvll
 
-Maxvll is a Hip-Hop and Afrobeats artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Sala Cocó, Madrid on Thu, 15 Oct 2026.
+Maxvll is a Hip-Hop and Afrobeats artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Sala Cocó, Madrid on Thu, 15 Oct 2026.
 
 Maxvll is a hip-hop and afrobeats artist based in Spain, with 130 gigs on soundcheck across Amsterdam, Barcelona, Geneva and Lisbon and 4 more. Often billed alongside Diego Armando, Yosef (ES) and Yosef. Next up: Sala Cocó, Madrid on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Maxvll is a hip-hop and afrobeats artist based in Spain, with 130 gigs on soundc
 
 Diego Armando, Yosef (ES), Yosef
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvll/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvll/)*

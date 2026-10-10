@@ -1,6 +1,6 @@
 # Mooglie
 
-Mooglie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Society, Brussels on Sat, 10 Oct 2026.
+Mooglie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Society, Brussels on Sat, 10 Oct 2026.
 
 Mooglie is a techno and house artist, with 25 gigs on soundcheck across Barcelona, Brussels, Lisbon and London and 3 more. Often billed alongside Agoria, Andera and Assayag. Next up: Society, Brussels on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Mooglie is a techno and house artist, with 25 gigs on soundcheck across Barcelon
 
 Agoria, Andera, Assayag
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mooglie/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mooglie/)*

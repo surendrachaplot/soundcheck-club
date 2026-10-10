@@ -1,6 +1,6 @@
 # Kokoprisci
 
-Kokoprisci is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Rokin 75 / The Amsterdam View, Amsterdam on Fri, 23 Oct 2026.
+Kokoprisci is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Rokin 75 / The Amsterdam View, Amsterdam on Fri, 23 Oct 2026.
 
 Kokoprisci is a techno and house artist based in France, with 37 gigs on soundcheck across Amsterdam, Marseille, Oslo and Paris. Often billed alongside Hyas, Tatyana Jane and Boys Noize. Next up: Rokin 75 / The Amsterdam View, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Kokoprisci is a techno and house artist based in France, with 37 gigs on soundch
 
 Hyas, Tatyana Jane, Boys Noize
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kokoprisci/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kokoprisci/)*

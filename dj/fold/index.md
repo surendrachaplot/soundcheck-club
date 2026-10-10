@@ -1,6 +1,6 @@
 # Fold
 
-Fold is a Bass and Garage artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Phonox, London on Sat, 10 Oct 2026.
+Fold is a Bass and Garage artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Phonox, London on Sat, 10 Oct 2026.
 
 Fold is a bass and garage artist based in United Kingdom, with 38 gigs on soundcheck across Barcelona, Brisbane, Bristol and Copenhagen and 12 more. Often billed alongside Joy Orbison, Y U QT and George FitzGerald. Next up: Phonox, London on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Fold is a bass and garage artist based in United Kingdom, with 38 gigs on soundc
 
 Joy Orbison, Y U QT, George FitzGerald
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fold/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fold/)*

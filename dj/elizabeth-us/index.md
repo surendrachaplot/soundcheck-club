@@ -1,6 +1,6 @@
 # Elizabëth
 
-Elizabëth is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Paraiso Estereo, Miami on Sat, 10 Oct 2026.
+Elizabëth is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Paraiso Estereo, Miami on Sat, 10 Oct 2026.
 
 Elizabëth is a techno and minimal artist based in United States of America, with 25 gigs on soundcheck across Berlin, Boston, Detroit and Miami. Often billed alongside prekuro, Màrelle and Adam Bogdan. Next up: Paraiso Estereo, Miami on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Elizabëth is a techno and minimal artist based in United States of America, wit
 
 prekuro, Màrelle, Adam Bogdan
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elizabeth-us/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elizabeth-us/)*

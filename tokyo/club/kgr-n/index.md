@@ -1,6 +1,6 @@
 # KGR(n)
 
-KGR(n) is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "KGR(resident)" on Mon, 12 Oct 2026.
+KGR(n) is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "KGR(resident)" on Mon, 12 Oct 2026.
 
 KGR(n) is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including Atsushi Izumi, C-KAY, karanaki and KotaNakano and 2 more. See dates, start times and who's playing. 6-48 Kagurazaka, Shinjuku-ku, Tokyo, 162-0825 Japan.
 
@@ -16,4 +16,4 @@ KGR(n) is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with lin
 
 6-48 Kagurazaka, Shinjuku-ku, Tokyo, 162-0825 Japan, Tokyo
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/kgr-n/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/kgr-n/)*

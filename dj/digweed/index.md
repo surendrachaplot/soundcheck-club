@@ -1,6 +1,6 @@
 # John Digweed
 
-John Digweed is a Progressive House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Bikini Club, Barcelona on Sat, 31 Oct 2026.
+John Digweed is a Progressive House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Bikini Club, Barcelona on Sat, 31 Oct 2026.
 
 John Digweed is a progressive house and techno artist based in United Kingdom, with 133 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 38 more. Often billed alongside Sasha, Nick Warren and Sasha & John Digweed. Next up: Bikini Club, Barcelona on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ John Digweed is a progressive house and techno artist based in United Kingdom, w
 
 Sasha, Nick Warren, Sasha & John Digweed
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digweed/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digweed/)*

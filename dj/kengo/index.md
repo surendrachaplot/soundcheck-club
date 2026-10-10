@@ -1,18 +1,18 @@
 # Kengo
 
-Kengo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Aoyama Tunnel, Tokyo on Fri, 9 Oct 2026.
+Kengo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sun, 11 Oct 2026.
 
-Kengo is a house and techno artist based in Japan, with 151 gigs on soundcheck across Kyoto, London and Tokyo. Often billed alongside HEAVEN, Satoshi Matsui and Kaory. Next up: Aoyama Tunnel, Tokyo on Fri 9 Oct.
+Kengo is a house and techno artist based in Japan, with 151 gigs on soundcheck across Kyoto, London and Tokyo. Often billed alongside HEAVEN, Satoshi Matsui and Kaory. Next up: DJ Bar Bridge Shinjuku, Tokyo on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Aoyama Tunnel | Tokyo |
 | Sun, 11 Oct 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 
 ## Recently played
 
+- Aoyama Tunnel, Tokyo · Fri, 9 Oct 2026
 - DJ Bar Bridge, Tokyo · Sat, 5 Sept 2026
 - Aoyama Tunnel, Tokyo · Fri, 14 Aug 2026
 - Red Bar, Tokyo · Sun, 2 Aug 2026
@@ -20,10 +20,9 @@ Kengo is a house and techno artist based in Japan, with 151 gigs on soundcheck a
 - DJ Bar Bridge, Tokyo · Sat, 18 Jul 2026
 - Aoyama Tunnel, Tokyo · Fri, 12 Jun 2026
 - DJ Bar Bridge Shinjuku, Tokyo · Mon, 4 May 2026
-- DJ Bar Bridge, Tokyo · Sat, 2 May 2026
 
 ## Shares bills with
 
 HEAVEN, Satoshi Matsui, Kaory
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kengo/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kengo/)*

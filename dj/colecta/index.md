@@ -1,6 +1,6 @@
 # colecta
 
-colecta is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+colecta is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 colecta is a techno and house artist based in United Kingdom, with 29 gigs on soundcheck across London, Manchester, North and Sheffield. Often billed alongside Shannon From Admin, MYNA and Gracie T. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -12,6 +12,7 @@ colecta is a techno and house artist based in United Kingdom, with 29 gigs on so
 
 ## Recently played
 
+- TBA - Multiple Venues across Sheffield & Rotherham, North · Fri, 9 Oct 2026
 - TBA - Sheffield, Sheffield · Sat, 6 Dec 2025
 - Planet Wax, London · Sat, 1 Nov 2025
 - Aaja Basement, London · Sat, 21 Jun 2025
@@ -19,10 +20,9 @@ colecta is a techno and house artist based in United Kingdom, with 29 gigs on so
 - Yes, Manchester · Sat, 12 Apr 2025
 - Sadacca, Sheffield · Fri, 21 Mar 2025
 - FORGE, Sheffield · Sat, 15 Mar 2025
-- Soup, Manchester · Sat, 8 Mar 2025
 
 ## Shares bills with
 
 Shannon From Admin, MYNA, Gracie T
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colecta/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colecta/)*

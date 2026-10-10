@@ -1,17 +1,17 @@
 # DJ Cringey
 
-DJ Cringey is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Edelfettwerk, Hamburg on Fri, 9 Oct 2026.
+DJ Cringey is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Gotec, Karlsruhe on Sat, 17 Oct 2026.
 
-DJ Cringey is a techno and trance artist based in New Zealand, with 105 gigs on soundcheck across Amsterdam, Antwerp, Basel and Belfast and 25 more. Often billed alongside TOXIMAMI, DJ Hyperdrive and ANTHRAZIT. Next up: Edelfettwerk, Hamburg on Fri 9 Oct.
+DJ Cringey is a techno and trance artist based in New Zealand, with 106 gigs on soundcheck across Amsterdam, Antwerp, Basel and Belfast and 25 more. Often billed alongside TOXIMAMI, DJ Hyperdrive and ANTHRAZIT. Next up: Gotec, Karlsruhe on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Edelfettwerk | Hamburg |
 | Sat, 17 Oct 2026 | Gotec | Karlsruhe |
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
 | Fri, 6 Nov 2026 | OST | Berlin |
+| Fri, 13 Nov 2026 | TBA | Berlin |
 | Fri, 13 Nov 2026 | DSTRKT Club Berlin | Berlin |
 | Sat, 28 Nov 2026 | MUENZE | Berlin |
 | Sat, 28 Nov 2026 | Lijm & Cultuur | Netherlands |
@@ -19,6 +19,7 @@ DJ Cringey is a techno and trance artist based in New Zealand, with 105 gigs on 
 
 ## Recently played
 
+- Edelfettwerk, Hamburg · Fri, 9 Oct 2026
 - Mondo Open Air, Madrid · Sat, 26 Sept 2026
 - Virage, Paris · Sat, 26 Sept 2026
 - Studio Club Malaga, Malaga · Fri, 25 Sept 2026
@@ -26,10 +27,9 @@ DJ Cringey is a techno and trance artist based in New Zealand, with 105 gigs on 
 - Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
 - OXI, Berlin · Sat, 12 Sept 2026
 - Else, Berlin · Fri, 11 Sept 2026
-- Z-Bau, Nürnberg · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 TOXIMAMI, DJ Hyperdrive, ANTHRAZIT
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcringey/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcringey/)*

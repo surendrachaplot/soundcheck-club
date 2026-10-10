@@ -1,14 +1,13 @@
 # Lincoln Factory
 
-Lincoln Factory is a music venue in Detroit with 12 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "SECRET SETS" on Fri, 9 Oct 2026.
+Lincoln Factory is a music venue in Detroit with 11 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "House Your Life - DJ Minx Birthday Edition" on Sat, 10 Oct 2026.
 
-Lincoln Factory is a music venue in Detroit listed on soundcheck. 12 upcoming gigs, with line-ups including Ahadadream, A K, Blake Baxter and Carl Craig and 2 more. See dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
+Lincoln Factory is a music venue in Detroit listed on soundcheck. 11 upcoming gigs, with line-ups including Ahadadream, A K, Blake Baxter and Carl Craig and 2 more. See dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | SECRET SETS |  |
 | Sat, 10 Oct 2026 | House Your Life - DJ Minx Birthday Edition | A K, DJ Minx, Rimarkable, Will Clarke |
 | Sat, 10 Oct 2026 | Jazz is Dead presents cortex and adrienne Young |  |
 | Sun, 11 Oct 2026 | Jazz is Dead presents Cortex with Adrian Younge and J.Rocc |  |
@@ -18,9 +17,10 @@ Lincoln Factory is a music venue in Detroit listed on soundcheck. 12 upcoming gi
 | Sat, 31 Oct 2026 | Nightmare on Holden Street 2 | DJ Godfather, Detroit In Effect, Disc Jockey George, Dru Ruiz, Rebecca Goldberg, Sheefy McFly, Silverdome Boyz, something blue |
 | Sat, 7 Nov 2026 | Skream - Open to Close Tour | Skream |
 | Sat, 14 Nov 2026 | Dasha Rush - Luke Hess - Lincoln Factory | Dasha Rush, Luke Hess |
+| Sat, 28 Nov 2026 | Detroit Love - Carl Craig b2b Seth Troxler | Carl Craig, Seth Troxler, Silverdome Boyz |
 
 ## Address
 
 1331 Holden Street, Detroit, MI 48202, USA, Detroit
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*

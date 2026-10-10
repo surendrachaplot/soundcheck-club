@@ -1,6 +1,6 @@
 # KOBANYA3000
 
-KOBANYA3000 is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Viadukt Bar, Budapest on Sat, 10 Oct 2026.
+KOBANYA3000 is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Viadukt Bar, Budapest on Sat, 10 Oct 2026.
 
 KOBANYA3000 is a techno and ghetto tech artist based in Hungary, with 11 gigs on soundcheck across Budapest. Often billed alongside Maron, AESZTETIK and AGA2L. Next up: Viadukt Bar, Budapest on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ KOBANYA3000 is a techno and ghetto tech artist based in Hungary, with 11 gigs on
 
 Maron, AESZTETIK, AGA2L
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kobanya3000/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kobanya3000/)*

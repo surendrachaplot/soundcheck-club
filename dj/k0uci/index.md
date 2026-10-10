@@ -1,6 +1,6 @@
 # K0uci
 
-K0uci is a Acid and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Le Klub, Paris on Sat, 10 Oct 2026.
+K0uci is a Acid and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Le Klub, Paris on Sat, 10 Oct 2026.
 
 K0uci is an acid and psytrance artist, with 31 gigs on soundcheck across Nantes and Paris. Often billed alongside Hemei, Kinokosan and Drivr. Next up: Le Klub, Paris on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ K0uci is an acid and psytrance artist, with 31 gigs on soundcheck across Nantes 
 
 Hemei, Kinokosan, Drivr
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k0uci/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k0uci/)*

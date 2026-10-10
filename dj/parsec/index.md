@@ -1,6 +1,6 @@
 # Parsec
 
-Parsec is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Le Klub, Paris on Sat, 10 Oct 2026.
+Parsec is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Le Klub, Paris on Sat, 10 Oct 2026.
 
 Parsec is a trance and techno artist based in Germany, with 8 gigs on soundcheck across Cologne, Leipzig and Paris. Often billed alongside gin (DE), VALENTIN FRAIS and adamoandiamo. Next up: Le Klub, Paris on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Parsec is a trance and techno artist based in Germany, with 8 gigs on soundcheck
 
 gin (DE), VALENTIN FRAIS, adamoandiamo
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parsec/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parsec/)*

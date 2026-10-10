@@ -1,6 +1,6 @@
 # NARA (UK)
 
-NARA (UK) is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at M.O.T, London on Fri, 13 Nov 2026.
+NARA (UK) is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at M.O.T, London on Fri, 13 Nov 2026.
 
 NARA (UK) is a techno and industrial artist, with 7 gigs on soundcheck across London. Often billed alongside V.40, AYLIN IDAH and Amanda Mussi. Next up: M.O.T, London on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ NARA (UK) is a techno and industrial artist, with 7 gigs on soundcheck across Lo
 
 V.40, AYLIN IDAH, Amanda Mussi
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/narauk/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/narauk/)*

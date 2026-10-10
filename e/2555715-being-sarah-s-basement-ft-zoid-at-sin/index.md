@@ -1,6 +1,6 @@
-# Being Sarah's Basement ft: Zoid at Sin É
+# Being Sarah's Basement ft: ZOiD at Sin É
 
-Being Sarah's Basement ft: Zoid at Sin É on Sat 7 Nov, Dublin. Techno and Electro. See the line-up on soundcheck.
+Being Sarah's Basement ft: ZOiD at Sin É on Sat 7 Nov, Dublin. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

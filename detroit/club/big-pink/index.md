@@ -1,14 +1,13 @@
 # Big Pink
 
-Big Pink is a music venue in Detroit with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "BANGIN HOUSE: Dean Turnley & SLIMEY B2B Botez (HOUSE MUSIC ALL NIGHT)" on Fri, 9 Oct 2026.
+Big Pink is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "HIPHOP NIGHT: QUEENS OF RAP (PROBLEMATICBLACKHOTTIE & CELEX THE DJ)" on Sat, 10 Oct 2026.
 
-Big Pink is a music venue in Detroit listed on soundcheck. 9 upcoming gigs, with line-ups including Botez and Dean Turnley. See dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
+Big Pink is a music venue in Detroit listed on soundcheck. 8 upcoming gigs. See dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | BANGIN HOUSE: Dean Turnley & SLIMEY B2B Botez (HOUSE MUSIC ALL NIGHT) | Botez, Dean Turnley |
 | Sat, 10 Oct 2026 | HIPHOP NIGHT: QUEENS OF RAP (PROBLEMATICBLACKHOTTIE & CELEX THE DJ) |  |
 | Sun, 11 Oct 2026 | NO SKIPS: HIPHOP & R&B (SUNDAY NIGHT) - BLAKITO |  |
 | Fri, 16 Oct 2026 | BLING: 2000s HIPHOP NIGHT (THROWBACKS) |  |
@@ -22,4 +21,4 @@ Big Pink is a music venue in Detroit listed on soundcheck. 9 upcoming gigs, with
 
 6440 Wight St, Detroit, MI 48207, USA, Detroit
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*

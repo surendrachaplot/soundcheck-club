@@ -1,6 +1,6 @@
 # RACH
 
-RACH is a Dubstep and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+RACH is a Dubstep and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 RACH is a dubstep and jungle artist based in Colombia, with 9 gigs on soundcheck across Amsterdam, Brighton, London and North. Often billed alongside Charla Green, King Chuga and 96 Back. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -13,6 +13,7 @@ RACH is a dubstep and jungle artist based in Colombia, with 9 gigs on soundcheck
 
 ## Recently played
 
+- TBA - Multiple Venues across Sheffield & Rotherham, North · Fri, 9 Oct 2026
 - Planet Wax, London · Fri, 2 Oct 2026
 - Oculist, Brighton · Sat, 1 Aug 2026
 - Volks, Brighton · Sat, 14 Mar 2026
@@ -25,4 +26,4 @@ RACH is a dubstep and jungle artist based in Colombia, with 9 gigs on soundcheck
 
 Charla Green, King Chuga, 96 Back
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rach/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rach/)*

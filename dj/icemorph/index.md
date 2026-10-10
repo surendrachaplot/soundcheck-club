@@ -1,6 +1,6 @@
 # IceMorph
 
-IceMorph is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Carpet Shop, London on Sat, 17 Oct 2026.
+IceMorph is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Carpet Shop, London on Sat, 17 Oct 2026.
 
 IceMorph is a house and techno artist based in United Kingdom, with 30 gigs on soundcheck across Barcelona, Berlin, Ibiza and London and 5 more. Often billed alongside Ross From Friends, Bicep and DJ Stingray 313. Next up: The Carpet Shop, London on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ IceMorph is a house and techno artist based in United Kingdom, with 30 gigs on s
 
 Ross From Friends, Bicep, DJ Stingray 313
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icemorph/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icemorph/)*

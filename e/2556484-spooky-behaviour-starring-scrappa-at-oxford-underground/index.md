@@ -1,6 +1,6 @@
-# SPOOKY BEHAVIOUR STARRING Scrappa at Oxford Underground
+# Spooky Behaviour Starring Scrappa at Oxford Underground
 
-SPOOKY BEHAVIOUR STARRING Scrappa at Oxford Underground on Sat 31 Oct, Sydney. 1 artist: Scrappa. House and Garage. See the line-up on soundcheck.
+Spooky Behaviour Starring Scrappa at Oxford Underground on Sat 31 Oct, Sydney. 1 artist: Scrappa. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

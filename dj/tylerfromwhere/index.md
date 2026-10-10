@@ -1,6 +1,6 @@
 # TYLERFROMWHERE
 
-TYLERFROMWHERE is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Good Room, New York City on Thu, 19 Nov 2026.
+TYLERFROMWHERE is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Good Room, New York City on Thu, 19 Nov 2026.
 
 TYLERFROMWHERE is a house and disco artist based in United States of America, with 26 gigs on soundcheck across New York City. Often billed alongside Andrew Devlin, DJ Shannon and Extra Meesh. Next up: Good Room, New York City on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ TYLERFROMWHERE is a house and disco artist based in United States of America, wi
 
 Andrew Devlin, DJ Shannon, Extra Meesh
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tylerfromwhere/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tylerfromwhere/)*

@@ -1,14 +1,13 @@
 # Peach
 
-Peach is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Aviva Studios, Manchester on Fri, 9 Oct 2026.
+Peach is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Backsteinboot, Berlin on Sat, 10 Oct 2026.
 
-Peach is a house and techno artist based in Canada, with 225 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 55 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Aviva Studios, Manchester on Fri 9 Oct.
+Peach is a house and techno artist based in Canada, with 225 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 55 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Backsteinboot, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Aviva Studios | Manchester |
 | Sat, 10 Oct 2026 | Backsteinboot | Berlin |
 | Thu, 15 Oct 2026 | Jolene Downtown Miami | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
@@ -20,9 +19,11 @@ Peach is a house and techno artist based in Canada, with 225 gigs on soundcheck 
 | Sat, 31 Oct 2026 | Macadam | Nantes |
 | Fri, 6 Nov 2026 | Cobalt Studios | Newcastle |
 | Fri, 6 Nov 2026 | Cobalt Studios | Newcastle |
+| Sun, 8 Nov 2026 | CLUB RAUM | Amsterdam |
 
 ## Recently played
 
+- Aviva Studios, Manchester · Fri, 9 Oct 2026
 - Piccadilly Premium, Osaka · Sat, 3 Oct 2026
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
 - Depot Mayfield, Manchester · Sat, 26 Sept 2026
@@ -30,10 +31,9 @@ Peach is a house and techno artist based in Canada, with 225 gigs on soundcheck 
 - Gut Level, Sheffield · Sat, 19 Sept 2026
 - The Berkeley Suite, Glasgow · Sat, 12 Sept 2026
 - Amnesia Ibiza, Ibiza · Thu, 10 Sept 2026
-- Uto-Staffel, Zurich · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Shanti Celeste, Gabrielle Kwarteng, Saoirse
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*

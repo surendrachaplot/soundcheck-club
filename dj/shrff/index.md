@@ -1,6 +1,6 @@
 # Shrff
 
-Shrff is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Oma Doris, Dortmund-essen on Sat, 10 Oct 2026.
+Shrff is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Oma Doris, Dortmund-essen on Sat, 10 Oct 2026.
 
 Shrff is a techno and house artist based in Germany, with 28 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 3 more. Often billed alongside HWRD, Gutkind and Amilli. Next up: Oma Doris, Dortmund Essen on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Shrff is a techno and house artist based in Germany, with 28 gigs on soundcheck 
 
 HWRD, Gutkind, Amilli
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shrff/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shrff/)*

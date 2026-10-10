@@ -1,6 +1,6 @@
 # SPFDJ
 
-SPFDJ is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Fabrik, Madrid on Sun, 11 Oct 2026.
+SPFDJ is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Fabrik, Madrid on Sun, 11 Oct 2026.
 
 SPFDJ is a techno and house artist based in Sweden, with 236 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 72 more. Often billed alongside DAX J, Anetha and MCMLXXXV. Next up: Fabrik, Madrid on Sun 11 Oct.
 
@@ -36,4 +36,4 @@ SPFDJ is a techno and house artist based in Sweden, with 236 gigs on soundcheck 
 
 DAX J, Anetha, MCMLXXXV
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spfdj/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spfdj/)*

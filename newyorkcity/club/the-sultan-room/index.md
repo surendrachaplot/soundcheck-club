@@ -1,6 +1,6 @@
 # The Sultan Room
 
-The Sultan Room is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "The Eel Pit X Silkpunk presents: Ph0, Pair of Sloths, Piranhana, DJ Lobo Camilo & Marjorine" on Sat, 10 Oct 2026.
+The Sultan Room is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "The Eel Pit X Silkpunk presents: Ph0, Pair of Sloths, Piranhana, DJ Lobo Camilo & Marjorine" on Sat, 10 Oct 2026.
 
 The Sultan Room is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including DJ Lawyer, Hard Boiled Babe, Marjorine and Nina Moss. See dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
 
@@ -18,4 +18,4 @@ The Sultan Room is a music venue in New York City listed on soundcheck. 5 upcomi
 
 234 Starr St. Brooklyn, NY 11237, New York City
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*

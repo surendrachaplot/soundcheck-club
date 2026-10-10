@@ -1,6 +1,6 @@
 # ELASI
 
-ELASI is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Chiosco Ravizza, Milan on Tue, 13 Oct 2026.
+ELASI is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Chiosco Ravizza, Milan on Tue, 13 Oct 2026.
 
 ELASI is a house and electronica artist, with 15 gigs on soundcheck across Berlin, Mexico City, Milan and Rome. Often billed alongside Marquis, PLASTICA and Populous. Next up: Chiosco Ravizza, Milan on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ ELASI is a house and electronica artist, with 15 gigs on soundcheck across Berli
 
 Marquis, PLASTICA (2), Populous
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elasi/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elasi/)*

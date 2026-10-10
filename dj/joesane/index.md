@@ -1,6 +1,6 @@
 # JOE SANE
 
-JOE SANE is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at MODULE, Copenhagen on Fri, 30 Oct 2026.
+JOE SANE is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at MODULE, Copenhagen on Fri, 30 Oct 2026.
 
 JOE SANE is a techno and industrial artist, with 28 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 7 more. Often billed alongside KARAH, Azyr and Cynthia Spiering. Next up: MODULE, Copenhagen on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ JOE SANE is a techno and industrial artist, with 28 gigs on soundcheck across Am
 
 KARAH, Azyr, Cynthia Spiering
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joesane/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joesane/)*

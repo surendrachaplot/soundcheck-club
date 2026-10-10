@@ -1,6 +1,6 @@
 # Meriem S
 
-Meriem S is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Sameheads, Berlin on Sat, 10 Oct 2026.
+Meriem S is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Sameheads, Berlin on Sat, 10 Oct 2026.
 
 Meriem S is a house and electro artist based in Italy, with 41 gigs on soundcheck across Amsterdam, Berlin, Brussels and Milan and 2 more. Often billed alongside hi.fí, saHHar and Siggatunez. Next up: Sameheads, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Meriem S is a house and electro artist based in Italy, with 41 gigs on soundchec
 
 hi.fí, saHHar, Siggatunez
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meriems/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meriems/)*

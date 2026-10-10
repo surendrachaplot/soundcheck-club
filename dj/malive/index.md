@@ -1,14 +1,13 @@
 # Malive
 
-Malive is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Madarae San Francisco, San Francisco/Oakland on Fri, 9 Oct 2026.
+Malive is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at ORIGIN, Los Angeles on Sat, 10 Oct 2026.
 
-Malive is a house and tech house artist based in Brazil, with 37 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 18 more. Often billed alongside Betical, Claptone and Halfcab. Next up: Madarae San Francisco, San Francisco/Oakland on Fri 9 Oct.
+Malive is a house and tech house artist based in Brazil, with 37 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 18 more. Often billed alongside Betical, Claptone and Halfcab. Next up: ORIGIN, Los Angeles on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Madarae San Francisco | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | ORIGIN | Los Angeles |
 | Sat, 24 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Mon, 26 Oct 2026 | Crane Hotel Faralda | Amsterdam |
@@ -18,6 +17,7 @@ Malive is a house and tech house artist based in Brazil, with 37 gigs on soundch
 
 ## Recently played
 
+- Madarae San Francisco, San Francisco/Oakland · Fri, 9 Oct 2026
 - Jungle Island, Miami · Sat, 3 Oct 2026
 - Hï Ibiza, Ibiza · Wed, 30 Sept 2026
 - Savaya Bali, Bali · Sat, 19 Sept 2026
@@ -25,10 +25,9 @@ Malive is a house and tech house artist based in Brazil, with 37 gigs on soundch
 - Budapest Park, Budapest · Fri, 7 Aug 2026
 - Central Park SummerStage, New York City · Sat, 25 Jul 2026
 - The Pier of Scheveningen, The Hague · Sat, 18 Jul 2026
-- The Cause, London · Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Betical, Claptone, Halfcab
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*

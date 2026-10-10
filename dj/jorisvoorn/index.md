@@ -1,14 +1,13 @@
 # Joris Voorn
 
-Joris Voorn is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Odiseja BTC Ljubljana, Ljubljana on Fri, 9 Oct 2026.
+Joris Voorn is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Fri, 23 Oct 2026.
 
-Joris Voorn is a techno and house artist based in Netherlands, with 193 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 52 more. Often billed alongside Adam Beyer, Kevin de Vries and Artbat. Next up: Odiseja BTC Ljubljana, Ljubljana on Fri 9 Oct.
+Joris Voorn is a techno and house artist based in Netherlands, with 193 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 52 more. Often billed alongside Adam Beyer, Kevin de Vries and Artbat. Next up: NDSM Scheepsbouwloods, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Odiseja BTC Ljubljana | Ljubljana |
 | Fri, 23 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Sat, 24 Oct 2026 | Sugarfactory | Amsterdam |
 | Fri, 13 Nov 2026 | LAB theCLUB | Madrid |
@@ -19,6 +18,7 @@ Joris Voorn is a techno and house artist based in Netherlands, with 193 gigs on 
 
 ## Recently played
 
+- Odiseja BTC Ljubljana, Ljubljana · Fri, 9 Oct 2026
 - The Chocolate Factory, New York City · Fri, 2 Oct 2026
 - [UNVRS], Ibiza · Sat, 26 Sept 2026
 - Seaseaclub Barcelona, Barcelona · Sat, 26 Sept 2026
@@ -26,10 +26,9 @@ Joris Voorn is a techno and house artist based in Netherlands, with 193 gigs on 
 - [UNVRS], Ibiza · Sat, 12 Sept 2026
 - TBA - AMK Club, Almagro, Buenos Aires · Sat, 29 Aug 2026
 - AMK Club, Buenos Aires · Sat, 29 Aug 2026
-- TBA - Los Angeles, Los Angeles · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 Adam Beyer, Kevin de Vries, Artbat
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvoorn/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvoorn/)*

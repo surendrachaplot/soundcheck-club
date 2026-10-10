@@ -1,14 +1,13 @@
 # Ornella
 
-Ornella is a Techno and Industrial artist with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Das Zimmer, Mannheim on Fri, 9 Oct 2026.
+Ornella is a Techno and Hardcore artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
 
-Ornella is a techno and industrial artist based in Portugal, with 124 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Madson Carpenter, Stëh and Kobosil. Next up: Das Zimmer, Mannheim on Fri 9 Oct.
+Ornella is a techno and hardcore artist based in Portugal, with 124 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Madson Carpenter, Stëh and Kobosil. Next up: Airport Würzburg, Nürnberg on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Das Zimmer | Mannheim |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
@@ -20,6 +19,7 @@ Ornella is a techno and industrial artist based in Portugal, with 124 gigs on so
 
 ## Recently played
 
+- Das Zimmer, Mannheim · Fri, 9 Oct 2026
 - Lehmann Club, Stuttgart · Fri, 2 Oct 2026
 - Fusion Club, Munster · Sat, 26 Sept 2026
 - Tapada da Ajuda, Lisbon · Sat, 19 Sept 2026
@@ -27,10 +27,9 @@ Ornella is a techno and industrial artist based in Portugal, with 124 gigs on so
 - Rebstockpark, Frankfurt · Sat, 25 Jul 2026
 - Backyard, Lisbon · Sat, 25 Jul 2026
 - Praia de Esmoriz Beach, Porto · Sat, 11 Jul 2026
-- Kafe Hærverk, Oslo · Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Madson Carpenter, Stëh, Kobosil
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ornella/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ornella/)*

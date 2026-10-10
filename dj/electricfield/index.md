@@ -1,6 +1,6 @@
 # Electric Field
 
-Electric Field is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Jungle Hollywood, Los Angeles on Wed, 14 Oct 2026.
+Electric Field is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Jungle Hollywood, Los Angeles on Wed, 14 Oct 2026.
 
 Electric Field is a house and disco artist based in United States of America, with 38 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Tamara Lanza, ELECTRIC BLAQ and Lavenge. Next up: Jungle Hollywood, Los Angeles on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ Electric Field is a house and disco artist based in United States of America, wi
 
 Tamara Lanza, ELECTRIC BLAQ, Lavenge
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/electricfield/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/electricfield/)*

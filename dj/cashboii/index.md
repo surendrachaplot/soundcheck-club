@@ -1,6 +1,6 @@
 # cashboii
 
-cashboii is a Breakbeat and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Collectif MTL, Montreal on Fri, 30 Oct 2026.
+cashboii is a Breakbeat and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Collectif MTL, Montreal on Fri, 30 Oct 2026.
 
 cashboii is a breakbeat and techno artist, with 10 gigs on soundcheck across Montreal. Often billed alongside leathersheets, sineila and Outback. Next up: Collectif MTL, Montreal on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ cashboii is a breakbeat and techno artist, with 10 gigs on soundcheck across Mon
 
 leathersheets, sineila, Outback
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cashboii/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cashboii/)*

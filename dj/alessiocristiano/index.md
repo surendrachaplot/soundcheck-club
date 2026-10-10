@@ -1,6 +1,6 @@
 # Alessio Cristiano
 
-Alessio Cristiano is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
+Alessio Cristiano is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
 
 Alessio Cristiano is a techno and house artist based in Italy, with 28 gigs on soundcheck across Amsterdam, Athens, London and Milan and 3 more. Often billed alongside Echonomist, Ede and Jimi Jules. Next up: Onder Hans, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Alessio Cristiano is a techno and house artist based in Italy, with 28 gigs on s
 
 Echonomist, Ede, Jimi Jules
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiocristiano/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiocristiano/)*

@@ -1,19 +1,19 @@
 # Lux18
 
-Lux18 is a Club and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 9 Oct 2026.
+Lux18 is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at OHM, Berlin on Fri, 16 Oct 2026.
 
-Lux18 is a club and bass artist based in France, with 8 gigs on soundcheck across Berlin, Brussels, Paris and Prague. Often billed alongside fetva, notinbed and Assyouti. Next up: La Station - Gare des Mines, Paris on Fri 9 Oct.
+Lux18 is a club and bass artist based in France, with 8 gigs on soundcheck across Berlin, Brussels, Paris and Prague. Often billed alongside fetva, notinbed and Assyouti. Next up: OHM, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | La Station - Gare des Mines | Paris |
 | Fri, 16 Oct 2026 | OHM | Berlin |
 | Fri, 30 Oct 2026 | Bike Jesus | Prague |
 
 ## Recently played
 
+- La Station - Gare des Mines, Paris · Fri, 9 Oct 2026
 - Eglise Saint-Remi, Brussels · Sat, 12 Sept 2026
 - Botanique, Brussels · Sat, 28 Mar 2026
 - Badaboum, Paris · Sat, 21 Feb 2026
@@ -24,4 +24,4 @@ Lux18 is a club and bass artist based in France, with 8 gigs on soundcheck acros
 
 fetva, notinbed, Assyouti
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lux18/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lux18/)*

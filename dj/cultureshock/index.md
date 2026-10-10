@@ -1,14 +1,13 @@
 # Culture Shock
 
-Culture Shock is a Drum & Bass and Bass artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Factory Town, Miami on Fri, 9 Oct 2026.
+Culture Shock is a Drum & Bass and Bass artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Brooklyn Storehouse, New York City on Sat, 17 Oct 2026.
 
-Culture Shock is a drum & bass and bass artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 36 more. Often billed alongside Sub Focus, Dimension and 1991. Next up: Factory Town, Miami on Fri 9 Oct.
+Culture Shock is a drum & bass and bass artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 36 more. Often billed alongside Sub Focus, Dimension and 1991. Next up: Brooklyn Storehouse, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Factory Town | Miami |
 | Sat, 17 Oct 2026 | Brooklyn Storehouse | New York City |
 | Sat, 7 Nov 2026 | The Warehouse | Leeds |
 | Fri, 20 Nov 2026 | Electric Bristol | Bristol |
@@ -18,6 +17,7 @@ Culture Shock is a drum & bass and bass artist based in United Kingdom, with 77 
 
 ## Recently played
 
+- Factory Town, Miami · Fri, 9 Oct 2026
 - UNO MALTA, Malta · Thu, 3 Sept 2026
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
 - Antwerp Expo, Antwerp · Sat, 22 Aug 2026
@@ -25,10 +25,9 @@ Culture Shock is a drum & bass and bass artist based in United Kingdom, with 77 
 - Revolver Upstairs, Melbourne · Fri, 14 Aug 2026
 - Finsbury Park, London · Sun, 2 Aug 2026
 - Ashton Court Estate, Bristol · Sat, 23 May 2026
-- Viertel, Basel · Fri, 1 May 2026
 
 ## Shares bills with
 
 Sub Focus, Dimension, 1991
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cultureshock/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cultureshock/)*

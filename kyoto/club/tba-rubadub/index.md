@@ -1,6 +1,6 @@
 # TBA - RUBADUB
 
-TBA - RUBADUB is a music venue in Kyoto with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. The next is "SUPERCHIP KYOTO: SIMMA & HOPE BULLET" on Sat, 10 Oct 2026.
+TBA - RUBADUB is a music venue in Kyoto with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. The next is "SUPERCHIP KYOTO: SIMMA & HOPE BULLET" on Sat, 10 Oct 2026.
 
 TBA - RUBADUB is a music venue in Kyoto listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - RUBADUB is a music venue in Kyoto listed on soundcheck. 1 upcoming gig. Se
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | SUPERCHIP KYOTO: SIMMA & HOPE BULLET |  |
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/tba-rubadub/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/tba-rubadub/)*

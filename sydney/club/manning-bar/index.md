@@ -1,14 +1,13 @@
 # Manning Bar
 
-Manning Bar is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "HÖR ON TOUR: Australia Weekender - Sydney" on Sat, 10 Oct 2026.
+Manning Bar is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Honey Dijon - SYDNEY - MANNING COURTYARD" on Fri, 27 Nov 2026.
 
-Manning Bar is a music venue in Sydney listed on soundcheck. 3 upcoming gigs, with line-ups including ANNĒ, bacteria grl, IKKIMEL and Mija and 2 more. See dates, start times and who's playing. Manning Rd; University of Sydney, NSW 2006; Australia.
+Manning Bar is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including ANNĒ, Honey Dijon, Nina Kraviz and SHDW. See dates, start times and who's playing. Manning Rd; University of Sydney, NSW 2006; Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | HÖR ON TOUR: Australia Weekender - Sydney | IKKIMEL, Mija, bacteria grl |
 | Fri, 27 Nov 2026 | Honey Dijon - SYDNEY - MANNING COURTYARD | Honey Dijon |
 | Sat, 28 Nov 2026 | Nina Kraviz • ANNĒ • SHDW — SYDNEY | ANNĒ, Nina Kraviz, SHDW |
 
@@ -16,4 +15,4 @@ Manning Bar is a music venue in Sydney listed on soundcheck. 3 upcoming gigs, wi
 
 Manning Rd; University of Sydney, NSW 2006; Australia, Sydney
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/manning-bar/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/manning-bar/)*

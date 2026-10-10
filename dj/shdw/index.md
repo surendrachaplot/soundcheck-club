@@ -1,14 +1,13 @@
 # SHDW
 
-SHDW is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Virage, Paris on Fri, 9 Oct 2026.
+SHDW is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
 
-SHDW is a techno and house artist based in Germany, with 217 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 69 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: Virage, Paris on Fri 9 Oct.
+SHDW is a techno and house artist based in Germany, with 217 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 69 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Virage | Paris |
 | Sat, 10 Oct 2026 | Auditorio Málaga Cortijo de Torres | South |
 | Sat, 10 Oct 2026 | Mauerpfeiffer | Saarland |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
@@ -20,9 +19,11 @@ SHDW is a techno and house artist based in Germany, with 217 gigs on soundcheck 
 | Sat, 21 Nov 2026 | WE club | Thessaloniki |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Sat, 28 Nov 2026 | Manning Bar | Sydney |
+| Wed, 2 Dec 2026 | Factory Town | Miami |
 
 ## Recently played
 
+- Virage, Paris · Fri, 9 Oct 2026
 - Hafen 49, Mannheim · Sat, 3 Oct 2026
 - RSO.BERLIN, Berlin · Sat, 3 Oct 2026
 - INPUT High Fidelity Dance Club, Barcelona · Fri, 2 Oct 2026
@@ -30,10 +31,9 @@ SHDW is a techno and house artist based in Germany, with 217 gigs on soundcheck 
 - BASEMENT, New York City · Fri, 25 Sept 2026
 - Hangaren, Copenhagen · Fri, 18 Sept 2026
 - SMUT Athens, Athens · Sat, 12 Sept 2026
-- ART Madrid Club, Madrid · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 ANNĒ, Alarico, Lars Huismann
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*

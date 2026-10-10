@@ -1,6 +1,6 @@
 # Haus der Visionäre
 
-Haus der Visionäre is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "In Concert: Momoko Gil, Perera Elsewhere, with Flabbergast LIVE & Clovis " on Sat, 10 Oct 2026.
+Haus der Visionäre is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "In Concert: Momoko Gil, Perera Elsewhere, with Flabbergast LIVE & Clovis " on Sat, 10 Oct 2026.
 
 Haus der Visionäre is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Clovis, Flabbergast, future.666 and Gudrun Gut and 2 more. See dates, start times and who's playing. Eichenstr. 4a, 12435 Berlin.
 
@@ -16,4 +16,4 @@ Haus der Visionäre is a music venue in Berlin listed on soundcheck. 3 upcoming 
 
 Eichenstr. 4a, 12435 Berlin, Berlin
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*

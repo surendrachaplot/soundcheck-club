@@ -1,6 +1,6 @@
 # RED GROOVE SYSTEM
 
-RED GROOVE SYSTEM is a House and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at PRST, Vienna on Fri, 16 Oct 2026.
+RED GROOVE SYSTEM is a House and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at PRST, Vienna on Fri, 16 Oct 2026.
 
 RED GROOVE SYSTEM is a house and ebm artist based in Austria, with 11 gigs on soundcheck across Berlin and Vienna. Often billed alongside It's George!, Techno Ganoven and Mischluft. Next up: PRST, Vienna on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ RED GROOVE SYSTEM is a house and ebm artist based in Austria, with 11 gigs on so
 
 It's George!, Techno Ganoven, Mischluft
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redgroovesystem/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redgroovesystem/)*

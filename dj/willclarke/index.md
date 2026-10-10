@@ -1,6 +1,6 @@
 # Will Clarke
 
-Will Clarke is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Lincoln Factory, Detroit on Sat, 10 Oct 2026.
+Will Clarke is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Lincoln Factory, Detroit on Sat, 10 Oct 2026.
 
 Will Clarke is a techno and house artist based in United Kingdom, with 93 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside DJ Minx, Dombresky and Boys Noize. Next up: Lincoln Factory, Detroit on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Will Clarke is a techno and house artist based in United Kingdom, with 93 gigs o
 
 DJ Minx, Dombresky, Boys Noize
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willclarke/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willclarke/)*

@@ -1,6 +1,6 @@
 # Pole Position
 
-Pole Position is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 15 Oct 2026.
+Pole Position is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 15 Oct 2026.
 
 Pole Position is a house and techno artist based in Spain, with 59 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Ibiza and 6 more. Often billed alongside Isa Rojas, Adriatique and Carl Cox. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Pole Position is a house and techno artist based in Spain, with 59 gigs on sound
 
 Isa Rojas, Adriatique, Carl Cox
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poleposition/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poleposition/)*

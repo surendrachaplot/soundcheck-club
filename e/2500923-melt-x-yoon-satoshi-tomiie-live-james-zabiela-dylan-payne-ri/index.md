@@ -1,6 +1,6 @@
 # MELT x YOON: Satoshi Tomiie (Live), James Zabiela, Dylan Payne, Ric Roessel, Tom Pickles, Eda at TBA - Arts District LA
 
-MELT x YOON: Satoshi Tomiie (Live), James Zabiela, Dylan Payne, Ric Roessel, Tom Pickles, Eda at TBA - Arts District LA on Sat 31 Oct, Los Angeles. 7 artists: EDA, Ika (GE), James Zabiela and Ricardo Roessel and 3 more. Techno and House. See the line-up on soundcheck.
+MELT x YOON: Satoshi Tomiie (Live), James Zabiela, Dylan Payne, Ric Roessel, Tom Pickles, Eda at TBA - Arts District LA on Sat 31 Oct, Los Angeles. 6 artists: Dylan Payne, EDA, James Zabiela and Ricardo Roessel and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,12 +10,11 @@ MELT x YOON: Satoshi Tomiie (Live), James Zabiela, Dylan Payne, Ric Roessel, Tom
 
 ## Line-up
 
+- Dylan Payne
 - EDA (2)
-- Ika (GE)
 - James Zabiela
 - Ricardo Roessel
 - Satoshi Tomiie
 - Tommy Pickles
-- Usherenko
 
 *Source: [soundcheck](https://soundcheck.club/e/2500923-melt-x-yoon-satoshi-tomiie-live-james-zabiela-dylan-payne-ri/)*

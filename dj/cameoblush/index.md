@@ -1,6 +1,6 @@
 # Cameo Blush
 
-Cameo Blush is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Loft, Manchester on Sat, 10 Oct 2026.
+Cameo Blush is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Loft, Manchester on Sat, 10 Oct 2026.
 
 Cameo Blush is a house and techno artist based in United Kingdom, with 39 gigs on soundcheck across Antwerp, Berlin, Bristol and Dublin and 8 more. Often billed alongside Ross From Friends, Giulia Tess and Helena Hauff. Next up: The Loft, Manchester on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Cameo Blush is a house and techno artist based in United Kingdom, with 39 gigs o
 
 Ross From Friends, Giulia Tess, Helena Hauff
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cameoblush/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cameoblush/)*

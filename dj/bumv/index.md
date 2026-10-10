@@ -1,6 +1,6 @@
 # bumv
 
-bumv is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Shelter, Seoul on Sat, 10 Oct 2026.
+bumv is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Shelter, Seoul on Sat, 10 Oct 2026.
 
 bumv is a techno and electro artist based in South Korea, with 111 gigs on soundcheck across Seoul. Often billed alongside Honn, X2C and MOVIN.KR. Next up: Shelter, Seoul on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ bumv is a techno and electro artist based in South Korea, with 111 gigs on sound
 
 Honn, X2C (1), MOVIN.KR
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bumv/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bumv/)*

@@ -1,18 +1,18 @@
 # Ann Tweak
 
-Ann Tweak is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Paradise Palms, Edinburgh on Fri, 9 Oct 2026.
+Ann Tweak is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at The Pitt Market, Edinburgh on Sat, 31 Oct 2026.
 
-Ann Tweak is a disco and house artist based in United Kingdom, with 78 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Jacuzzi General, Fierro Grande and Otis Worming. Next up: Paradise Palms, Edinburgh on Fri 9 Oct.
+Ann Tweak is a disco and house artist based in United Kingdom, with 78 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Jacuzzi General, Fierro Grande and Otis Worming. Next up: The Pitt Market, Edinburgh on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Paradise Palms | Edinburgh |
 | Sat, 31 Oct 2026 | The Pitt Market | Edinburgh |
 
 ## Recently played
 
+- Paradise Palms, Edinburgh · Fri, 9 Oct 2026
 - West Port Oracle, Edinburgh · Fri, 2 Oct 2026
 - The Caley Bar, Edinburgh · Fri, 25 Sept 2026
 - West Port Oracle, Edinburgh · Fri, 11 Sept 2026
@@ -20,10 +20,9 @@ Ann Tweak is a disco and house artist based in United Kingdom, with 78 gigs on s
 - People's Leisure Club, Edinburgh · Fri, 14 Aug 2026
 - West Port Oracle, Edinburgh · Fri, 7 Aug 2026
 - West Port Oracle, Edinburgh · Fri, 31 Jul 2026
-- People's Leisure Club, Edinburgh · Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Jacuzzi General, Fierro Grande, Otis Worming
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anntweak/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anntweak/)*

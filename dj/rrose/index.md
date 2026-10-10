@@ -1,8 +1,8 @@
 # Rrose
 
-Rrose is a Techno and Experimental artist with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at SMUT Athens, Athens on Sat, 10 Oct 2026.
+Rrose is a Techno and Experimental artist with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at SMUT Athens, Athens on Sat, 10 Oct 2026.
 
-Rrose is a techno and experimental artist based in United States of America, with 147 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 45 more. Often billed alongside Wata Igarashi, DJ Nobu and Polygonia. Next up: SMUT Athens, Athens on Sat 10 Oct.
+Rrose is a techno and experimental artist based in United States of America, with 148 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 45 more. Often billed alongside Wata Igarashi, DJ Nobu and Polygonia. Next up: SMUT Athens, Athens on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Rrose is a techno and experimental artist based in United States of America, wit
 | Thu, 22 Oct 2026 | Loods6 | Amsterdam |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
 | Sat, 31 Oct 2026 | EXIT Glasgow | Glasgow |
+| Fri, 13 Nov 2026 | Signal | New York City |
 | Thu, 19 Nov 2026 | OHM | Berlin |
 | Sat, 28 Nov 2026 | CLUB RAUM | Amsterdam |
 
@@ -33,4 +34,4 @@ Rrose is a techno and experimental artist based in United States of America, wit
 
 Wata Igarashi, DJ Nobu, Polygonia
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rrose/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rrose/)*

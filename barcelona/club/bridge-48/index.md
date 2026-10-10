@@ -1,14 +1,13 @@
 # Bridge 48
 
-Bridge 48 is a music venue in Barcelona with 12 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "BRIDGE 48 — 2 ROOMS x El Tony Mate" on Fri, 9 Oct 2026.
+Bridge 48 is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Serialism Records 20 años" on Sat, 10 Oct 2026.
 
-Bridge 48 is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs, with line-ups including Agoostina, Anka, Arof and Arval and 2 more. See dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
+Bridge 48 is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including Agoostina, Anka, Arof and Arval and 2 more. See dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | BRIDGE 48 — 2 ROOMS x El Tony Mate |  |
 | Sat, 10 Oct 2026 | Serialism Records 20 años | Arval, August Artier, Cesare vs Disorder, Cisco, Kid Moss, Rhom Omit, Weg (DE) |
 | Thu, 15 Oct 2026 | B48 live x SUPER HARD GROOVE |  |
 | Fri, 16 Oct 2026 | BRIDGE 48 — 2 ROOMS Sound Immersive Experience | Anka, JUNGLA X |
@@ -18,9 +17,10 @@ Bridge 48 is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs, 
 | Sat, 24 Oct 2026 | EELF Presents - Barcelona: Target Demographic, Shaolin Cowboy, GEE LEE, Staza Xtaza, Hello Piti | GEE LEE, Shaolin Cowboy, Target Demographic |
 | Thu, 29 Oct 2026 | RITUALS x BRIDGE 48 pres. Audiolux + Mist Gasp + Arof + Toni Amador | Arof, Audiolux, Mist Gasp, Toni Amador |
 | Fri, 30 Oct 2026 | BRIDGE 48 — 2 ROOMS Sound Immersive Experience | Diego Ro-k, Mac (4) |
+| Sat, 31 Oct 2026 | UNÁNIME TECHNO HALLOWEEN NIGHT | KRYTE, Pullär |
 
 ## Address
 
 Carrer de Llull, 48, 08005 Barcelona, España, Barcelona
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*

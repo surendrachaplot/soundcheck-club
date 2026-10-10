@@ -1,14 +1,13 @@
 # Rote Sonne
 
-Rote Sonne is a music venue in Munich with 13 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "slippy series" on Fri, 9 Oct 2026.
+Rote Sonne is a music venue in Munich with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "HOLEY" on Sat, 10 Oct 2026.
 
-Rote Sonne is a music venue in Munich listed on soundcheck. 13 upcoming gigs, with line-ups including 9LALEY, AgainstMe, Alicea and Alina Viktoria and 2 more. See dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
+Rote Sonne is a music venue in Munich listed on soundcheck. 12 upcoming gigs, with line-ups including 9LALEY, AgainstMe, Alicea and Altinbas and 2 more. See dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | slippy series | Alina Viktoria, NYCO (NL), SZG |
 | Sat, 10 Oct 2026 | HOLEY | Denny Voltage, Rachel Noon, VSSL |
 | Wed, 14 Oct 2026 | garryklein |  |
 | Thu, 15 Oct 2026 | Sapphix FLINTA* Club Night |  |
@@ -18,9 +17,10 @@ Rote Sonne is a music venue in Munich listed on soundcheck. 13 upcoming gigs, wi
 | Fri, 23 Oct 2026 | Rote Sonne x Grab The Groove | Altinbas, Artifex (DE), Dual Pistols |
 | Sat, 24 Oct 2026 | ULTRASOZIAL | Tham |
 | Wed, 28 Oct 2026 | garryklein |  |
+| Fri, 30 Oct 2026 | RS:CommunityWeekender - support your local subculture | 9LALEY, ANASTASÍA, Alicea, Aniza (DE), Chuha, Elleyza, Erhyc, JBox, Jojo Vice, Lavandonia, Listenblondie, Rollo3000, SHAJAN, back2beanie, kamo. |
 
 ## Address
 
 Maximiliansplatz 5; 80333 Munich; Germany, Munich
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/rote-sonne/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/rote-sonne/)*

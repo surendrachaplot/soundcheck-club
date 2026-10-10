@@ -1,18 +1,18 @@
 # DR MILLER
 
-DR MILLER is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Fri, 9 Oct 2026.
+DR MILLER is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Sat, 31 Oct 2026.
 
-DR MILLER is a house and tech house artist based in United States of America, with 24 gigs on soundcheck across Washington DC. Often billed alongside Freefall, DJ Blasian and Rommy. Next up: Jimmy Valentine's Lonely Hearts Club, Washington DC on Fri 9 Oct.
+DR MILLER is a house and tech house artist based in United States of America, with 24 gigs on soundcheck across Washington DC. Often billed alongside Freefall, DJ Blasian and Rommy. Next up: Jimmy Valentine's Lonely Hearts Club, Washington DC on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Jimmy Valentine's Lonely Hearts Club | Washington DC |
 | Sat, 31 Oct 2026 | Jimmy Valentine's Lonely Hearts Club | Washington DC |
 
 ## Recently played
 
+- Jimmy Valentine's Lonely Hearts Club, Washington DC · Fri, 9 Oct 2026
 - Jimmy Valentine's Lonely Hearts Club, Washington DC · Sat, 8 Aug 2026
 - Flash, Washington DC · Fri, 5 Jun 2026
 - Jimmy Valentine's Lonely Hearts Club, Washington DC · Sun, 24 May 2026
@@ -20,10 +20,9 @@ DR MILLER is a house and tech house artist based in United States of America, wi
 - Jimmy Valentine's Lonely Hearts Club, Washington DC · Wed, 18 Mar 2026
 - Jimmy Valentine's Lonely Hearts Club, Washington DC · Mon, 29 Dec 2025
 - Jimmy Valentine's Lonely Hearts Club, Washington DC · Sat, 22 Nov 2025
-- Jimmy Valentine's Lonely Hearts Club, Washington DC · Fri, 31 Oct 2025
 
 ## Shares bills with
 
 Freefall, DJ Blasian, Rommy
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drmiller/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drmiller/)*

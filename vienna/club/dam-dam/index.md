@@ -1,18 +1,17 @@
 # DAM / DAM
 
-DAM / DAM is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "AFROBOOM pres. MENSA" on Fri, 9 Oct 2026.
+DAM / DAM is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. The next is "AFROBOOM pres. MAKAR" on Sun, 25 Oct 2026.
 
-DAM / DAM is a music venue in Vienna listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Landstraßer Hauptstraße 2, 1030 Wien.
+DAM / DAM is a music venue in Vienna listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Landstraßer Hauptstraße 2, 1030 Wien.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | AFROBOOM pres. MENSA |  |
 | Sun, 25 Oct 2026 | AFROBOOM pres. MAKAR |  |
 
 ## Address
 
 Landstraßer Hauptstraße 2, 1030 Wien, Vienna
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/dam-dam/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/dam-dam/)*

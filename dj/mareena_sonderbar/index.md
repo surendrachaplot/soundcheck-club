@@ -1,6 +1,6 @@
 # Mareena
 
-Mareena is a Techno and Ambient artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at ∄, Kyiv on Sat, 10 Oct 2026.
+Mareena is a Techno and Ambient artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at ∄, Kyiv on Sat, 10 Oct 2026.
 
 Mareena is a techno and ambient artist based in Germany, with 112 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 32 more. Often billed alongside Kerrie, JakoJako and Steve Bicknell. Next up: ∄, Kyiv on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Mareena is a techno and ambient artist based in Germany, with 112 gigs on soundc
 
 Kerrie, JakoJako, Steve Bicknell
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mareena_sonderbar/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mareena_sonderbar/)*

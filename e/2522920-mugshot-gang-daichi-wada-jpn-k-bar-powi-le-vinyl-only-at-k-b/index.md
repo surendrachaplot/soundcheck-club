@@ -1,6 +1,6 @@
 # Mugshot Gang || Daichi Wada (JPN) ||  K-Bar Powiśle [Vinyl Only] at K-Bar Powiśle
 
-Mugshot Gang || Daichi Wada (JPN) ||  K-Bar Powiśle [Vinyl Only] on Sat 10 Oct, Warsaw. 7 artists: Abrew, Daichi Wada, DJ Loose and dj.zamocno and 3 more. Techno and House. See the line-up on soundcheck.
+Mugshot Gang || Daichi Wada (JPN) ||  K-Bar Powiśle [Vinyl Only] on Sat 10 Oct, Warsaw. 8 artists: Abrew, Daichi Wada, DJ Loose and dj.zamocno and 4 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Mugshot Gang || Daichi Wada (JPN) ||  K-Bar Powiśle [Vinyl Only] on Sat 10 Oct,
 - DJ Loose
 - dj.zamocno
 - DOMEL
+- igor.z.komo
 - max whatever
 - toutestmagnifique
 

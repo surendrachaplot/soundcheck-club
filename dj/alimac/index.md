@@ -1,6 +1,6 @@
 # Alimac
 
-Alimac is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Thu, 31 Dec 2026.
+Alimac is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Thu, 31 Dec 2026.
 
 Alimac is an electronic artist based in Brazil, with 34 gigs on soundcheck across Milan. Often billed alongside Acidalia, Industrial Romantico and Elisa Bee. Next up: Tempio del Futuro Perduto, Milan on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Alimac is an electronic artist based in Brazil, with 34 gigs on soundcheck acros
 
 Acidalia, Industrial Romantico, Elisa Bee
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alimac/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alimac/)*

@@ -1,6 +1,6 @@
 # Kimonos
 
-Kimonos is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Pacha New York, New York City on Sun, 11 Oct 2026.
+Kimonos is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Pacha New York, New York City on Sun, 11 Oct 2026.
 
 Kimonos is a house and afro house artist based in United States of America, with 53 gigs on soundcheck across Amsterdam, Austin, Barcelona and Denver and 10 more. Often billed alongside Guy Gerber, BLOND:ISH and Vintage Culture. Next up: Pacha New York, New York City on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Kimonos is a house and afro house artist based in United States of America, with
 
 Guy Gerber, BLOND:ISH, Vintage Culture
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimonos/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimonos/)*

@@ -1,6 +1,6 @@
 # Dela Nesto
 
-Dela Nesto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+Dela Nesto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
 Dela Nesto is a house and techno artist based in Germany, with 47 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig and 2 more. Often billed alongside MARIE.MOON, Caro Vola and Dorsch. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Dela Nesto is a house and techno artist based in Germany, with 47 gigs on soundc
 
 MARIE.MOON, Caro Vola, Dorsch
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delanesto/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delanesto/)*

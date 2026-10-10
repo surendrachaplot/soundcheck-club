@@ -1,6 +1,6 @@
 # Oliver SCH
 
-Oliver SCH is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Viadukt Bar, Budapest on Sat, 10 Oct 2026.
+Oliver SCH is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Viadukt Bar, Budapest on Sat, 10 Oct 2026.
 
 Oliver SCH is a house and techno artist based in Hungary, with 25 gigs on soundcheck across Budapest. Often billed alongside Electric Boutique, Andrija Jäger and Acsa. Next up: Viadukt Bar, Budapest on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Oliver SCH is a house and techno artist based in Hungary, with 25 gigs on soundc
 
 Electric Boutique, Andrija Jäger, Acsa
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliversch/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliversch/)*

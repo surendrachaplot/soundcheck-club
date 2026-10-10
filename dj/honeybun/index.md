@@ -1,6 +1,6 @@
 # Honey Bun
 
-Honey Bun is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Nowadays, New York City on Sat, 17 Oct 2026.
+Honey Bun is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Nowadays, New York City on Sat, 17 Oct 2026.
 
 Honey Bun is a house and techno artist based in United States of America, with 149 gigs on soundcheck across Amsterdam, Boston, Brussels and London and 5 more. Often billed alongside Lovie, Stonie Blue and Ayanna Heaven. Next up: Nowadays, New York City on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Honey Bun is a house and techno artist based in United States of America, with 1
 
 Lovie, Stonie Blue, Ayanna Heaven
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honeybun/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honeybun/)*

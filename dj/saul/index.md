@@ -1,6 +1,6 @@
 # Saul
 
-Saul is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 10 Oct 2026.
+Saul is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 10 Oct 2026.
 
 Saul is a house and techno artist, with 4 gigs on soundcheck across Amsterdam, London and Paris. Often billed alongside Bjarki, Desirée Falessi and Eline. Next up: Shelter Amsterdam, Amsterdam on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ Saul is a house and techno artist, with 4 gigs on soundcheck across Amsterdam, L
 
 Bjarki, Desirée Falessi, Eline
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saul/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saul/)*

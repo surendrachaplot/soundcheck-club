@@ -1,6 +1,6 @@
 # 8 años de Discos Movimiento: The infamous Dia de Muertos B-Sides + Dinner at Salon Palomilla
 
-8 años de Discos Movimiento: The infamous Dia de Muertos B-Sides + Dinner at Salon Palomilla on Sun 1 Nov, Mexico City. 7 artists: Boyá, Dr. Long, Fig (DYN) and Fina and 3 more. Deep House and Dub Techno. See the line-up on soundcheck.
+8 años de Discos Movimiento: The infamous Dia de Muertos B-Sides + Dinner at Salon Palomilla on Sun 1 Nov, Mexico City. 8 artists: Arthur (DE), Boyá, Dr. Long and Fig (DYN) and 4 more. Deep House and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- Arthur (DE)
 - Boyá
 - Dr. Long
 - Fig (DYN)

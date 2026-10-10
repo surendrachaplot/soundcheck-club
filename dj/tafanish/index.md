@@ -1,14 +1,15 @@
 # Tafanish
 
-Tafanish is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Brancaleone, Rome on Sat, 10 Oct 2026.
+Tafanish is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Brancaleone, Rome on Sat, 10 Oct 2026.
 
-Tafanish is a techno and experimental artist based in Italy, with 14 gigs on soundcheck across Rome. Often billed alongside Martek, Sunday Bath and Carlo. Next up: Brancaleone, Rome on Sat 10 Oct.
+Tafanish is a techno and experimental artist based in Italy, with 15 gigs on soundcheck across Rome. Often billed alongside Martek, Sunday Bath and Freddye. Next up: Brancaleone, Rome on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Brancaleone | Rome |
+| Sun, 11 Oct 2026 | THE MAGICK BAR | Rome |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Tafanish is a techno and experimental artist based in Italy, with 14 gigs on sou
 
 ## Shares bills with
 
-Martek, Sunday Bath, Carlo (6)
+Martek, Sunday Bath, Freddye
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tafanish/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tafanish/)*

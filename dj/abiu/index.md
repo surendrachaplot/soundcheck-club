@@ -1,0 +1,28 @@
+# Abiu
+
+Abiu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Wed, 9 Dec 2026.
+
+Abiu is a house and techno artist based in Japan, with 34 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside 7e, AKIRAM EN and An-i. Next up: DJ Bar Bridge Shinjuku, Tokyo on Wed 9 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Wed, 9 Dec 2026 | DJ Bar Bridge Shinjuku | Tokyo |
+
+## Recently played
+
+- VENT, Tokyo · Sat, 3 Oct 2026
+- Spread, Tokyo · Sun, 7 Jun 2026
+- VENT, Tokyo · Fri, 8 May 2026
+- Yebisu The Garden Hall, Tokyo · Sun, 28 Dec 2025
+- VENT, Tokyo · Fri, 26 Dec 2025
+- Bonobo, Tokyo · Sat, 20 Dec 2025
+- DJ Bar Bridge Shinjuku, Tokyo · Wed, 10 Dec 2025
+- Numm, Tokyo · Sun, 23 Nov 2025
+
+## Shares bills with
+
+7e, AKIRAM EN, An-i
+
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abiu/)*

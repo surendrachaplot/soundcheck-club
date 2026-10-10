@@ -1,14 +1,13 @@
 # Luigi Tozzi
 
-Luigi Tozzi is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 9 Oct 2026.
+Luigi Tozzi is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Jasna 1, Warsaw on Sat, 10 Oct 2026.
 
-Luigi Tozzi is a techno and house artist based in Italy, with 107 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 31 more. Often billed alongside Laura BCR, Feral and Claudio PRC. Next up: RSO.BERLIN, Berlin on Fri 9 Oct.
+Luigi Tozzi is a techno and house artist based in Italy, with 107 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 31 more. Often billed alongside Laura BCR, Feral and Claudio PRC. Next up: Jasna 1, Warsaw on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | RSO.BERLIN | Berlin |
 | Sat, 10 Oct 2026 | Jasna 1 | Warsaw |
 | Sat, 17 Oct 2026 | MÄX | Zurich |
 | Sat, 24 Oct 2026 | Azimut Club | Turin |
@@ -21,6 +20,7 @@ Luigi Tozzi is a techno and house artist based in Italy, with 107 gigs on soundc
 
 ## Recently played
 
+- RSO.BERLIN, Berlin · Fri, 9 Oct 2026
 - Macadam, Nantes · Sat, 3 Oct 2026
 - Fuse, Brussels · Sat, 26 Sept 2026
 - TBA - Secret Location, Amsterdam · Sat, 19 Sept 2026
@@ -28,10 +28,9 @@ Luigi Tozzi is a techno and house artist based in Italy, with 107 gigs on soundc
 - Trädgården, Stockholm · Fri, 4 Sept 2026
 - Amsterdamse Bos, Amsterdam · Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
-- Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin · Thu, 16 Jul 2026
 
 ## Shares bills with
 
 Laura BCR, Feral, Claudio PRC
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luigitozzi/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luigitozzi/)*

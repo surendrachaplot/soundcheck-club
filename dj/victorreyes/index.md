@@ -1,14 +1,15 @@
 # Victor Reyes
 
-Victor Reyes is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Cadavra, Madrid on Fri, 27 Nov 2026.
+Victor Reyes is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Cadavra, Madrid on Fri, 27 Nov 2026.
 
-Victor Reyes is a techno and house artist based in Spain, with 13 gigs on soundcheck across Madrid. Often billed alongside Cesc (ES), David Ferrer (ES) and Avo (ES). Next up: Cadavra, Madrid on Fri 27 Nov.
+Victor Reyes is a techno and house artist based in Spain, with 14 gigs on soundcheck across Madrid. Often billed alongside Cesc (ES), David Ferrer (ES) and Avo (ES). Next up: Cadavra, Madrid on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Cadavra | Madrid |
+| Sat, 19 Dec 2026 | Cadavra | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Victor Reyes is a techno and house artist based in Spain, with 13 gigs on soundc
 
 Cesc (ES), David Ferrer (ES), Avo (ES)
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victorreyes/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victorreyes/)*

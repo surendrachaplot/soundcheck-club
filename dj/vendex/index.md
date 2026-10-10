@@ -1,14 +1,13 @@
 # Vendex
 
-Vendex is a Techno and Industrial artist with 14 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Index, Dublin on Fri, 9 Oct 2026.
+Vendex is a Techno and Industrial artist with 13 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Basel Venue, Santiago on Fri, 16 Oct 2026.
 
-Vendex is a techno and industrial artist based in Spain, with 202 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside CARV, Alignment and DYEN. Next up: Index, Dublin on Fri 9 Oct.
+Vendex is a techno and industrial artist based in Spain, with 202 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside CARV, Alignment and DYEN. Next up: Basel Venue, Santiago on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Index | Dublin |
 | Fri, 16 Oct 2026 | Basel Venue | Santiago |
 | Fri, 23 Oct 2026 | Brooklyn Roots Collective | New York City |
 | Sat, 24 Oct 2026 | TBA | Toronto |
@@ -20,9 +19,11 @@ Vendex is a techno and industrial artist based in Spain, with 202 gigs on soundc
 | Tue, 17 Nov 2026 | Westhafen | Leipzig |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Sat, 12 Dec 2026 | Kompass Klub | Ghent |
+| Sat, 19 Dec 2026 | Hans Bunte Areal | Freiburg |
 
 ## Recently played
 
+- Index, Dublin · Fri, 9 Oct 2026
 - Edelfettwerk, Hamburg · Fri, 2 Oct 2026
 - Son Fusteret, Mallorca · Sat, 19 Sept 2026
 - The Limelight, Belfast · Sat, 12 Sept 2026
@@ -30,10 +31,9 @@ Vendex is a techno and industrial artist based in Spain, with 202 gigs on soundc
 - DSTRKT Club Berlin, Berlin · Sat, 29 Aug 2026
 - Marienbergpark, Nürnberg · Sat, 29 Aug 2026
 - Bowlers Exhibition Centre, Manchester · Sat, 1 Aug 2026
-- Radius, Chicago · Sun, 19 Jul 2026
 
 ## Shares bills with
 
 CARV, Alignment, DYEN
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vendex/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vendex/)*

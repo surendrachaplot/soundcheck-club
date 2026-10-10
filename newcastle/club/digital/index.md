@@ -1,15 +1,13 @@
 # Digital
 
-Digital is a music venue in Newcastle with 20 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Heavy House Society: Sidney Charles + more" on Fri, 9 Oct 2026.
+Digital is a music venue in Newcastle with 18 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "UNIT.90 THURSDAYS" on Thu, 15 Oct 2026.
 
-Digital is a music venue in Newcastle listed on soundcheck. 20 upcoming gigs, with line-ups including 4am Kru, Kepler, Andy Whitby and Bushbaby and 2 more. See dates, start times and who's playing. Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom.
+Digital is a music venue in Newcastle listed on soundcheck. 18 upcoming gigs, with line-ups including 4am Kru, Kepler, Andy Whitby and Bushbaby and 2 more. See dates, start times and who's playing. Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Heavy House Society: Sidney Charles + more | Sidney Charles |
-| Fri, 9 Oct 2026 | Music. Fashion. Brat. |  |
 | Thu, 15 Oct 2026 | UNIT.90 THURSDAYS |  |
 | Sat, 17 Oct 2026 | Energy Cru presents: Bushbaby (All Night Long) | Bushbaby |
 | Thu, 22 Oct 2026 | UNIT.90 THURSDAYS |  |
@@ -18,9 +16,11 @@ Digital is a music venue in Newcastle listed on soundcheck. 20 upcoming gigs, wi
 | Sat, 24 Oct 2026 | Latino Fest |  |
 | Fri, 30 Oct 2026 | TROPILOCO - THE HAUNTED WAREHOUSE |  |
 | Sat, 7 Nov 2026 | inU with Guy J & Jeremy Olander | Easby, Guy J, Jeremy Olander, SOBAH |
+| Sat, 7 Nov 2026 | Northern Soul Day Party |  |
+| Fri, 13 Nov 2026 | Slapfunk Newcastle | Doudou MD, Dungeon Meat, Samuel Deep, The Ghost, Yass & Mali |
 
 ## Address
 
 Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom, Newcastle
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*

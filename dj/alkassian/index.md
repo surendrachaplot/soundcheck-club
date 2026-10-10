@@ -1,14 +1,13 @@
 # Alex Kassian
 
-Alex Kassian is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Palais, London on Fri, 9 Oct 2026.
+Alex Kassian is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - 252 boulevard Victor Hugo, Lille, North on Sat, 10 Oct 2026.
 
-Alex Kassian is a house and techno artist based in Germany, with 184 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 55 more. Often billed alongside PARAMIDA, Job Jobse and Running Hot. Next up: Palais, London on Fri 9 Oct.
+Alex Kassian is a house and techno artist based in Germany, with 184 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 55 more. Often billed alongside PARAMIDA, Job Jobse and Running Hot. Next up: TBA - 252 boulevard Victor Hugo, Lille, North on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Palais | London |
 | Sat, 10 Oct 2026 | TBA - 252 boulevard Victor Hugo, Lille | North |
 | Sat, 17 Oct 2026 | Salon Iksv | Istanbul |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
@@ -19,6 +18,7 @@ Alex Kassian is a house and techno artist based in Germany, with 184 gigs on sou
 
 ## Recently played
 
+- Palais, London · Fri, 9 Oct 2026
 - Usquare, Brussels · Sat, 26 Sept 2026
 - HHV.de Store, Berlin · Thu, 24 Sept 2026
 - Fridas Pier, Stuttgart · Sat, 19 Sept 2026
@@ -26,10 +26,9 @@ Alex Kassian is a house and techno artist based in Germany, with 184 gigs on sou
 - The Cause, London · Sat, 12 Sept 2026
 - fi, Cologne · Sat, 5 Sept 2026
 - Else, Berlin · Fri, 28 Aug 2026
-- Kauz, Zurich · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 PARAMIDA, Job Jobse, Running Hot
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alkassian/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alkassian/)*

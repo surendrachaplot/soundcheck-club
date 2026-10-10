@@ -1,6 +1,6 @@
 # Frisbee
 
-Frisbee is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. The next is "Jason Dungan (Blue Lake) & Johan Carøe 'Routine' listening session" on Fri, 16 Oct 2026.
+Frisbee is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. The next is "Jason Dungan (Blue Lake) & Johan Carøe 'Routine' listening session" on Fri, 16 Oct 2026.
 
 Frisbee is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Tagensvej 41, 2200 Copenhagen N.
 
@@ -14,4 +14,4 @@ Frisbee is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig. See
 
 Tagensvej 41, 2200 Copenhagen N, Copenhagen
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/frisbee/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/frisbee/)*

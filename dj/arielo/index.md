@@ -1,6 +1,6 @@
 # Arielo
 
-Arielo is a House and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Sala Taro, Barcelona on Sun, 11 Oct 2026.
+Arielo is a House and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Sala Taro, Barcelona on Sun, 11 Oct 2026.
 
 Arielo is a house and ebm artist based in Spain, with 28 gigs on soundcheck across Barcelona and Ibiza. Often billed alongside Keyblow, IVAN POSEIDON and Carmilla Sioux. Next up: Sala Taro, Barcelona on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Arielo is a house and ebm artist based in Spain, with 28 gigs on soundcheck acro
 
 Keyblow, IVAN POSEIDON, Carmilla Sioux
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arielo/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arielo/)*

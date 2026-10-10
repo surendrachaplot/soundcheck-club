@@ -1,0 +1,16 @@
+# Pherotone 5.0 with Mx. Blaire (extended vinyl set) * FLINTA lineup at Vespers Club
+
+Pherotone 5.0 with Mx. Blaire (extended vinyl set) * FLINTA lineup at Vespers Club on Fri 16 Oct, London. 2 artists: Emilia G and Mx. Blaire. House and Acid. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 16 Oct 2026 |
+| Venue | Vespers Club |
+| City | London |
+
+## Line-up
+
+- Emilia G
+- Mx. Blaire
+
+*Source: [soundcheck](https://soundcheck.club/e/2533070-pherotone-5-0-with-mx-blaire-extended-vinyl-set-flinta-lineu/)*

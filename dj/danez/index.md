@@ -1,14 +1,14 @@
 # DAN:EZ
 
-DAN:EZ is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at null, Amsterdam on Wed, 21 Oct 2026.
+DAN:EZ is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Wed, 21 Oct 2026.
 
-DAN:EZ is a techno and progressive house artist based in Spain, with 5 gigs on soundcheck across Amsterdam. Often billed alongside Alex Sharp, SNAJDER and DEVREE. 2 upcoming gigs listed.
+DAN:EZ is a techno and progressive house artist based in Spain, with 5 gigs on soundcheck across Amsterdam. Often billed alongside Alex Sharp, SNAJDER and DEVREE. Next up: 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 |  | Amsterdam |
+| Wed, 21 Oct 2026 | 50:Hertz House & Techno Club Rembrandt Square | Amsterdam |
 | Wed, 21 Oct 2026 | 50:Hertz House & Techno Club Rembrandt Square | Amsterdam |
 
 ## Recently played
@@ -21,4 +21,4 @@ DAN:EZ is a techno and progressive house artist based in Spain, with 5 gigs on s
 
 Alex Sharp, SNAJDER, DEVREE
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danez/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danez/)*

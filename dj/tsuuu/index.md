@@ -1,8 +1,8 @@
 # Tsuuu
 
-Tsuuu is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Pawnshop, Taipei on Sat, 10 Oct 2026.
+Tsuuu is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Pawnshop, Taipei on Sat, 10 Oct 2026.
 
-Tsuuu is a bass and house artist, with 7 gigs on soundcheck across Taipei and Tokyo. Often billed alongside L-CC, Atsushi Maeda and Bo Yin. Next up: Pawnshop, Taipei on Sat 10 Oct.
+Tsuuu is a bass and house artist based in Taiwan, with 7 gigs on soundcheck across Taipei and Tokyo. Often billed alongside L-CC, Atsushi Maeda and Bo Yin. Next up: Pawnshop, Taipei on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Tsuuu is a bass and house artist, with 7 gigs on soundcheck across Taipei and To
 
 L-CC, Atsushi Maeda, Bo Yin
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsuuu/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsuuu/)*

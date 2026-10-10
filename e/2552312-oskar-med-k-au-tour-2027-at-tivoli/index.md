@@ -1,6 +1,6 @@
 # oskar med k - AU Tour 2027 at Tivoli
 
-oskar med k - AU Tour 2027 at Tivoli on Thu 7 Jan, Brisbane. 1 artist: oskar med k. See the line-up on soundcheck.
+oskar med k - AU Tour 2027 at Tivoli on Thu 7 Jan, Brisbane. 1 artist: oskar med k. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

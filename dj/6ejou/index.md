@@ -1,14 +1,13 @@
 # 6EJOU
 
-6EJOU is a Techno and Industrial artist with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Studio Club Malaga, Malaga on Fri, 9 Oct 2026.
+6EJOU is a Techno and Industrial artist with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Hemkade 48, Amsterdam on Thu, 22 Oct 2026.
 
-6EJOU is a techno and industrial artist based in France, with 168 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 49 more. Often billed alongside KARAH, Raxeller and CARV. Next up: Studio Club Malaga, Malaga on Fri 9 Oct.
+6EJOU is a techno and industrial artist based in France, with 168 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 49 more. Often billed alongside KARAH, Raxeller and CARV. Next up: Hemkade 48, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Studio Club Malaga | Malaga |
 | Thu, 22 Oct 2026 | Hemkade 48 | Amsterdam |
 | Fri, 30 Oct 2026 | Parc del Fòrum | Barcelona |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
@@ -22,6 +21,7 @@
 
 ## Recently played
 
+- Studio Club Malaga, Malaga · Fri, 9 Oct 2026
 - KALT, Strasbourg · Fri, 18 Sept 2026
 - ZEROTOKYO, Tokyo · Fri, 11 Sept 2026
 - BERHTA, Washington DC · Sat, 22 Aug 2026
@@ -29,10 +29,9 @@
 - Hippodrome de Vincennes, Paris · Sat, 8 Aug 2026
 - The Bassement, Madrid · Fri, 17 Jul 2026
 - Praia de Esmoriz Beach, Porto · Sat, 11 Jul 2026
-- Atlantic Sound, Barcelona · Thu, 18 Jun 2026
 
 ## Shares bills with
 
 KARAH, Raxeller, CARV
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/6ejou/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/6ejou/)*

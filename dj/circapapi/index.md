@@ -1,6 +1,6 @@
 # Circa Papi
 
-Circa Papi is a Amapiano and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Casa Capitão, Lisbon on Sat, 10 Oct 2026.
+Circa Papi is a Amapiano and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Casa Capitão, Lisbon on Sat, 10 Oct 2026.
 
 Circa Papi is an amapiano and afrobeat artist, with 52 gigs on soundcheck across Brussels, Lisbon and Porto. Often billed alongside Yaba, Bieu and Fvbricia. Next up: Casa Capitão, Lisbon on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Circa Papi is an amapiano and afrobeat artist, with 52 gigs on soundcheck across
 
 Yaba, Bieu, Fvbricia
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/circapapi/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/circapapi/)*

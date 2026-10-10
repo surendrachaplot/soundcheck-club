@@ -1,8 +1,8 @@
 # LeStrange
 
-LeStrange is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Flinders, Sydney on Sat, 10 Oct 2026.
+LeStrange is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Flinders, Sydney on Sat, 10 Oct 2026.
 
-LeStrange is a techno and industrial artist based in Australia, with 80 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 14 more. Often billed alongside I-SO, ART IS HARD and Madsync. Next up: The Flinders, Sydney on Sat 10 Oct.
+LeStrange is a techno and industrial artist based in Australia, with 81 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 14 more. Often billed alongside I-SO, ART IS HARD and Madsync. Next up: The Flinders, Sydney on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ LeStrange is a techno and industrial artist based in Australia, with 80 gigs on 
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | The Flinders | Sydney |
 | Sat, 31 Oct 2026 | TBA - Secret Location | Auckland |
+| Sat, 14 Nov 2026 | The Ivy | Sydney |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ LeStrange is a techno and industrial artist based in Australia, with 80 gigs on 
 
 I-SO, ART IS HARD, Madsync
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lestrange/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lestrange/)*

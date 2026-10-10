@@ -1,6 +1,6 @@
 # KZTÀ
 
-KZTÀ is a Electronica and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Araña Club, Madrid on Fri, 16 Oct 2026.
+KZTÀ is a Electronica and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Araña Club, Madrid on Fri, 16 Oct 2026.
 
 KZTÀ is an electronica and acid artist, with 22 gigs on soundcheck across Madrid. Often billed alongside Palimpseste, Marchandazing and LA CATHARSIS. Next up: Araña Club, Madrid on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ KZTÀ is an electronica and acid artist, with 22 gigs on soundcheck across Madri
 
 Palimpseste, Marchandazing, LA CATHARSIS
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kzta/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kzta/)*

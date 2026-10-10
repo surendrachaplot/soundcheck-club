@@ -1,6 +1,6 @@
 # POSSEF
 
-POSSEF is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at La Textil Collective, Barcelona on Thu, 15 Oct 2026.
+POSSEF is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at La Textil Collective, Barcelona on Thu, 15 Oct 2026.
 
 POSSEF is a house and experimental artist, with 38 gigs on soundcheck across Barcelona. Often billed alongside Mat Spiaggi, Vennegur and mves. Next up: La Textil Collective, Barcelona on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ POSSEF is a house and experimental artist, with 38 gigs on soundcheck across Bar
 
 Mat Spiaggi, Vennegur, mves
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/possef/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/possef/)*

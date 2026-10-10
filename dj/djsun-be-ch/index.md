@@ -1,6 +1,6 @@
 # DJ SUN (CH/DE)
 
-DJ SUN (CH/DE) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at La Comédie De Genève, Geneva on Sat, 17 Oct 2026.
+DJ SUN (CH/DE) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at La Comédie De Genève, Geneva on Sat, 17 Oct 2026.
 
 DJ SUN (CH/DE) is a techno and house artist based in Switzerland, with 23 gigs on soundcheck across Berlin, Geneva, Paris and Strasbourg and 1 more. Often billed alongside Chlär, Rødig and Alarico. Next up: La Comédie De Genève, Geneva on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ DJ SUN (CH/DE) is a techno and house artist based in Switzerland, with 23 gigs o
 
 Chlär, Rødig, Alarico
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsun-be-ch/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsun-be-ch/)*

@@ -1,6 +1,6 @@
 # Grace Kim
 
-Grace Kim is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Flac, Seoul on Sat, 10 Oct 2026.
+Grace Kim is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Flac, Seoul on Sat, 10 Oct 2026.
 
 Grace Kim is a house and tech house artist based in South Korea, with 39 gigs on soundcheck across Amsterdam, Seoul and Singapore. Often billed alongside Better, Ruta and Minji. Next up: Flac, Seoul on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Grace Kim is a house and tech house artist based in South Korea, with 39 gigs on
 
 Better, Ruta (2), Minji
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gracekim/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gracekim/)*

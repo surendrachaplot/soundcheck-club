@@ -1,6 +1,6 @@
 # Hyunsung
 
-Hyunsung is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Bar Kino, Seoul on Sun, 11 Oct 2026.
+Hyunsung is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Bar Kino, Seoul on Sun, 11 Oct 2026.
 
 Hyunsung is a minimal and house artist based in South Korea, with 11 gigs on soundcheck across Seoul. Often billed alongside 8chill, Ginger and J.bin. Next up: Bar Kino, Seoul on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Hyunsung is a minimal and house artist based in South Korea, with 11 gigs on sou
 
 8chill, Ginger, J.bin (2)
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyunsung/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyunsung/)*

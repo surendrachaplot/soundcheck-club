@@ -1,6 +1,6 @@
 # Ned Bennett
 
-Ned Bennett is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+Ned Bennett is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
 Ned Bennett is a techno and house artist based in Australia, with 69 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 13 more. Often billed alongside KSMBA, Bella Claxton and 6 SENSE. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
@@ -33,4 +33,4 @@ Ned Bennett is a techno and house artist based in Australia, with 69 gigs on sou
 
 KSMBA, Bella Claxton, 6 SENSE
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nedbennett/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nedbennett/)*

@@ -1,6 +1,6 @@
 # Ableton HQ Berlin
 
-Ableton HQ Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. The next is "FLINTA* Workshop - Music Production with Ableton Move" on Fri, 16 Oct 2026.
+Ableton HQ Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. The next is "FLINTA* Workshop - Music Production with Ableton Move" on Fri, 16 Oct 2026.
 
 Ableton HQ Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Schönhauser Allee 6-7, 10119 Berlin.
 
@@ -14,4 +14,4 @@ Ableton HQ Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gi
 
 Schönhauser Allee 6-7, 10119 Berlin, Berlin
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ableton-hq-berlin/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ableton-hq-berlin/)*

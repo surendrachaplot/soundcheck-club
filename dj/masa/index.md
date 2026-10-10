@@ -1,6 +1,6 @@
 # MASA
 
-MASA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Golden Gate, Berlin on Fri, 16 Oct 2026.
+MASA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Golden Gate, Berlin on Fri, 16 Oct 2026.
 
 MASA is a techno and house artist based in Japan, with 44 gigs on soundcheck across Athens, Berlin, Budapest and Kyoto and 5 more. Often billed alongside Hagel, RYOOKY and Rickey Shannon. Next up: Golden Gate, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ MASA is a techno and house artist based in Japan, with 44 gigs on soundcheck acr
 
 Hagel, RYOOKY, Rickey Shannon
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masa/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masa/)*

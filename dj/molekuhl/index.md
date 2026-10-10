@@ -1,6 +1,6 @@
 # molekühl
 
-molekühl is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at MEIMEI, Tokyo on Sun, 11 Oct 2026.
+molekühl is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at MEIMEI, Tokyo on Sun, 11 Oct 2026.
 
 molekühl is a house and techno artist based in Switzerland, with 19 gigs on soundcheck across Basel, Berlin, Osaka and Strasbourg and 2 more. Often billed alongside fabulus, Atrice and Black Mirror Park. Next up: MEIMEI, Tokyo on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ molekühl is a house and techno artist based in Switzerland, with 19 gigs on sou
 
 fabulus, Atrice, Black Mirror Park
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molekuhl/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molekuhl/)*

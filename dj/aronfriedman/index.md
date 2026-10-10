@@ -1,6 +1,6 @@
 # Aron Friedman
 
-Aron Friedman is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Café Katoen, Amsterdam on Thu, 22 Oct 2026.
+Aron Friedman is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Café Katoen, Amsterdam on Thu, 22 Oct 2026.
 
 Aron Friedman is a tech house and techno artist based in Netherlands, with 27 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Galen, RAAF and Amandla. Next up: Café Katoen, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Aron Friedman is a tech house and techno artist based in Netherlands, with 27 gi
 
 Galen, RAAF, Amandla
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aronfriedman/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aronfriedman/)*

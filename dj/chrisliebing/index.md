@@ -1,14 +1,13 @@
 # Chris Liebing
 
-Chris Liebing is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Kran Beograd, Belgrade on Fri, 9 Oct 2026.
+Chris Liebing is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Kesselhaus Augsburg, Augsburg on Sat, 10 Oct 2026.
 
-Chris Liebing is a techno and house artist based in Germany, with 195 gigs on soundcheck across Amsterdam, Antwerp, Athens and Augsburg and 59 more. Often billed alongside Speedy J, Daria Kolosova and FJAAK. Next up: Kran Beograd, Belgrade on Fri 9 Oct.
+Chris Liebing is a techno and house artist based in Germany, with 195 gigs on soundcheck across Amsterdam, Antwerp, Athens and Augsburg and 59 more. Often billed alongside Speedy J, Daria Kolosova and FJAAK. Next up: Kesselhaus Augsburg, Augsburg on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Kran Beograd | Belgrade |
 | Sat, 10 Oct 2026 | Kesselhaus Augsburg | Augsburg |
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
 | Sat, 17 Oct 2026 | RSO.BERLIN | Berlin |
@@ -20,9 +19,11 @@ Chris Liebing is a techno and house artist based in Germany, with 195 gigs on so
 | Sat, 14 Nov 2026 | TBA - DTLA | Los Angeles |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
 | Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |
+| Fri, 11 Dec 2026 | Gewölbe | Cologne |
 
 ## Recently played
 
+- Kran Beograd, Belgrade · Fri, 9 Oct 2026
 - Complejo Embrujo, South · Sat, 3 Oct 2026
 - Complejo Embrujo, South · Sat, 3 Oct 2026
 - Les Enfants Brillants, Barcelona · Thu, 1 Oct 2026
@@ -30,10 +31,9 @@ Chris Liebing is a techno and house artist based in Germany, with 195 gigs on so
 - Sektor 6D, Warsaw · Fri, 25 Sept 2026
 - Refuge, New York City · Fri, 18 Sept 2026
 - Fvtvr, Paris · Fri, 28 Aug 2026
-- Sloterpark, Amsterdam · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Speedy J, Daria Kolosova, FJAAK
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliebing/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliebing/)*

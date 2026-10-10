@@ -1,6 +1,6 @@
 # Mad Rey
 
-Mad Rey is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at La Piazza, Moka, Mauritius on Fri, 9 Oct 2026.
+Mad Rey is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at La Piazza, Moka, Mauritius on Fri, 9 Oct 2026.
 
 Mad Rey is a house and electro artist based in France, with 62 gigs on soundcheck across Amsterdam, Berlin, Geneva and Lisbon and 6 more. Often billed alongside Mézigue, GGGG and Flabaire. Next up: La Piazza, Moka, Mauritius on Fri 9 Oct.
 
@@ -16,6 +16,7 @@ Mad Rey is a house and electro artist based in France, with 62 gigs on soundchec
 
 ## Recently played
 
+- La Piazza, Moka, Mauritius · Fri, 9 Oct 2026
 - Lux Fragil, Lisbon · Sat, 26 Sept 2026
 - Karmen Camina, Strasbourg · Sat, 19 Sept 2026
 - La Cité Fertile, Paris · Fri, 31 Jul 2026
@@ -23,10 +24,9 @@ Mad Rey is a house and electro artist based in France, with 62 gigs on soundchec
 - Cabaret Sauvage, Paris · Sat, 18 Jul 2026
 - Fvtvr, Paris · Fri, 10 Jul 2026
 - A-One Paris, Paris · Sun, 21 Jun 2026
-- 42 Marches, Paris · Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Mézigue, GGGG, Flabaire
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madrey/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madrey/)*

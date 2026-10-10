@@ -1,6 +1,6 @@
 # Combe
 
-Combe is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Macadam, Nantes on Sun, 18 Oct 2026.
+Combe is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Macadam, Nantes on Sun, 18 Oct 2026.
 
 Combe is a techno and trance artist based in France, with 47 gigs on soundcheck across Lyon, Nantes, Paris and Tbilisi. Often billed alongside GTI, Youl and Soyoon. Next up: Macadam, Nantes on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ Combe is a techno and trance artist based in France, with 47 gigs on soundcheck 
 
 GTI, Youl, Soyoon
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/combe/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/combe/)*

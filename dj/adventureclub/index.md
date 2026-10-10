@@ -1,13 +1,14 @@
 # Adventure Club
 
-Adventure Club is a Dubstep and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Adventure Club is a Dubstep and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - DUCTWORK, Houston on Sat, 10 Oct 2026.
 
-Adventure Club is a dubstep and tech house artist based in Canada, with 13 gigs on soundcheck across Amsterdam, Denver, Los Angeles and Montreal and 3 more. Often billed alongside KREAM, Maddix and Martin Garrix. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
+Adventure Club is a dubstep and tech house artist based in Canada, with 14 gigs on soundcheck across Amsterdam, Denver, Houston and Los Angeles and 4 more. Often billed alongside KREAM, Maddix and Martin Garrix. Next up: TBA - DUCTWORK, Houston on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | TBA - DUCTWORK | Houston |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
 
@@ -26,4 +27,4 @@ Adventure Club is a dubstep and tech house artist based in Canada, with 13 gigs 
 
 KREAM, Maddix, Martin Garrix
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adventureclub/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adventureclub/)*

@@ -1,6 +1,6 @@
 # AUX Club
 
-AUX Club is a music venue in Athens with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "20 years Urban Danja with Current Value (DE)" on Sat, 10 Oct 2026.
+AUX Club is a music venue in Athens with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "20 years Urban Danja with Current Value (DE)" on Sat, 10 Oct 2026.
 
 AUX Club is a music venue in Athens listed on soundcheck. 5 upcoming gigs, with line-ups including a.metz, Adam Des, BASS VIP and BIIA and 2 more. See dates, start times and who's playing. Agiou Orous 15, Athina 104 47, Greece.
 
@@ -18,4 +18,4 @@ AUX Club is a music venue in Athens listed on soundcheck. 5 upcoming gigs, with 
 
 Agiou Orous 15, Athina 104 47, Greece, Athens
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/aux-club/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/aux-club/)*

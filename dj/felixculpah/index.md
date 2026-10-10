@@ -1,18 +1,19 @@
 # Felixculpah
 
-Felixculpah is a Dubstep and Dub artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Golden Lion, Manchester on Fri, 9 Oct 2026.
+Felixculpah is a Dubstep and Dub artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 24 Oct 2026.
 
-Felixculpah is a dubstep and dub artist based in United Kingdom, with 35 gigs on soundcheck across Antwerp, Barcelona, Bucharest and Leeds and 3 more. Often billed alongside Breakfake, SGT Pokes and Kahn. Next up: The Golden Lion, Manchester on Fri 9 Oct.
+Felixculpah is a dubstep and dub artist based in United Kingdom, with 36 gigs on soundcheck across Antwerp, Barcelona, Bucharest and Leeds and 4 more. Often billed alongside Breakfake, SGT Pokes and Kahn. Next up: La Station - Gare des Mines, Paris on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | The Golden Lion | Manchester |
+| Sat, 24 Oct 2026 | La Station - Gare des Mines | Paris |
 | Fri, 4 Dec 2026 | fabric | London |
 
 ## Recently played
 
+- The Golden Lion, Manchester · Fri, 9 Oct 2026
 - Razzmatazz, Barcelona · Fri, 19 Jun 2026
 - Phonox, London · Fri, 12 Jun 2026
 - The Hifi Club, Leeds · Sun, 24 May 2026
@@ -20,10 +21,9 @@ Felixculpah is a dubstep and dub artist based in United Kingdom, with 35 gigs on
 - Manchester River Cruises, Manchester · Fri, 3 Apr 2026
 - Beaver Works, Leeds · Sat, 7 Feb 2026
 - The Hifi Club, Leeds · Fri, 14 Nov 2025
-- Freedom Mills, Leeds · Fri, 7 Nov 2025
 
 ## Shares bills with
 
 Breakfake, SGT Pokes, Kahn
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixculpah/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixculpah/)*

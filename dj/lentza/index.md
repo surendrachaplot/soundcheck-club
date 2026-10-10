@@ -1,6 +1,6 @@
 # Lentza
 
-Lentza is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Jolene, Copenhagen on Sat, 10 Oct 2026.
+Lentza is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Jolene, Copenhagen on Sat, 10 Oct 2026.
 
 Lentza is a house and techno artist based in Romania, with 10 gigs on soundcheck across Copenhagen. Often billed alongside qosa, Alin and Ricq. Next up: Jolene, Copenhagen on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Lentza is a house and techno artist based in Romania, with 10 gigs on soundcheck
 
 qosa, Alin, Ricq
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lentza/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lentza/)*

@@ -1,6 +1,6 @@
 # Kanatonik
 
-Kanatonik is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at NWHR, Montreal on Fri, 9 Oct 2026.
+Kanatonik is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at NWHR, Montreal on Fri, 9 Oct 2026.
 
 Kanatonik is a techno and house artist based in Canada, with 16 gigs on soundcheck across Montreal. Often billed alongside DJ Peignoir, Hurakkan and Rizof. Next up: NWHR, Montreal on Fri 9 Oct.
 
@@ -12,6 +12,7 @@ Kanatonik is a techno and house artist based in Canada, with 16 gigs on soundche
 
 ## Recently played
 
+- NWHR, Montreal · Fri, 9 Oct 2026
 - Le Red Room, Montreal · Tue, 18 Aug 2026
 - Le Livart, Montreal · Sat, 25 Jul 2026
 - Blue Room, Montreal · Thu, 16 Jul 2026
@@ -19,10 +20,9 @@ Kanatonik is a techno and house artist based in Canada, with 16 gigs on soundche
 - Le Red Room, Montreal · Sat, 10 Jan 2026
 - ESC, Montreal · Fri, 19 Dec 2025
 - ESC, Montreal · Sat, 16 Aug 2025
-- VV Taverna, Montreal · Thu, 3 Apr 2025
 
 ## Shares bills with
 
 DJ Peignoir, Hurakkan, Rizof
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanatonik/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanatonik/)*

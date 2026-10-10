@@ -1,6 +1,6 @@
 # Rhythm Labs 7th Birthday W/ MADVILLA - Secret North London Location at Secret Location - North London
 
-Rhythm Labs 7th Birthday W/ MADVILLA - Secret North London Location at Secret Location - North London on Fri 4 Dec, London. 2 artists: MADVILLA and Nicou Nejad. See the line-up on soundcheck.
+Rhythm Labs 7th Birthday W/ MADVILLA - Secret North London Location at Secret Location - North London on Fri 4 Dec, London. 3 artists: Kitsta, MADVILLA and Nicou Nejad. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Rhythm Labs 7th Birthday W/ MADVILLA - Secret North London Location at Secret Lo
 
 ## Line-up
 
+- Kitsta
 - MADVILLA
 - Nicou Nejad
 

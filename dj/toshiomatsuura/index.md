@@ -1,8 +1,8 @@
 # Toshio Matsuura
 
-Toshio Matsuura is a Jazz and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 16 Oct 2026.
+Toshio Matsuura is a Jazz and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 16 Oct 2026.
 
-Toshio Matsuura is a jazz and house artist based in Japan, with 66 gigs on soundcheck across Kyoto, London, Osaka and Tokyo. Often billed alongside Dazzle Drums, Toshiyuki Goto and Gilles Peterson. Next up: DJ Bar Bridge Shinjuku, Tokyo on Fri 16 Oct.
+Toshio Matsuura is a jazz and house artist based in Japan, with 67 gigs on soundcheck across Kyoto, London, Osaka and Tokyo. Often billed alongside Dazzle Drums, Toshiyuki Goto and Gilles Peterson. Next up: DJ Bar Bridge Shinjuku, Tokyo on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Toshio Matsuura is a jazz and house artist based in Japan, with 66 gigs on sound
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 | Fri, 20 Nov 2026 | DJ Bar Bridge Shinjuku | Tokyo |
+| Fri, 18 Dec 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Toshio Matsuura is a jazz and house artist based in Japan, with 66 gigs on sound
 
 Dazzle Drums, Toshiyuki Goto, Gilles Peterson
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toshiomatsuura/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toshiomatsuura/)*

@@ -1,6 +1,6 @@
 # OTHERSIDE (ITA)
 
-OTHERSIDE (ITA) is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - SKY ROOM (Ex Mate Disco), Sicily on Sat, 17 Oct 2026.
+OTHERSIDE (ITA) is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - SKY ROOM (Ex Mate Disco), Sicily on Sat, 17 Oct 2026.
 
 OTHERSIDE (ITA) is a techno and industrial artist, with 4 gigs on soundcheck across Milan, Rome and Sicily. Often billed alongside Alessandro Reale, Cristopher Arcuri and DJ PIRO. Next up: TBA - SKY ROOM (Ex Mate Disco), Sicily on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ OTHERSIDE (ITA) is a techno and industrial artist, with 4 gigs on soundcheck acr
 
 Alessandro Reale, Cristopher Arcuri, DJ PIRO
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/othersideita/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/othersideita/)*

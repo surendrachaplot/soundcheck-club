@@ -1,6 +1,6 @@
 # Sharlese
 
-Sharlese is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Process PDX, Portland on Sat, 10 Oct 2026.
+Sharlese is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Process PDX, Portland on Sat, 10 Oct 2026.
 
 Sharlese is a techno and electro artist based in United States of America, with 147 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Boston and 14 more. Often billed alongside DJ SH1-TR, Lord Phatrick and Kadeejah Streets. Next up: Process PDX, Portland on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Sharlese is a techno and electro artist based in United States of America, with 
 
 DJ SH1-TR, Lord Phatrick, Kadeejah Streets
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sharlese/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sharlese/)*

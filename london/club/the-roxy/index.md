@@ -1,6 +1,6 @@
 # The Roxy
 
-The Roxy is a music venue in London with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Daft Phunk - A disco day rave from the past to the future" on Sat, 17 Oct 2026.
+The Roxy is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Daft Phunk - A disco day rave from the past to the future" on Sat, 17 Oct 2026.
 
 The Roxy is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including That Perfect Fumble. See dates, start times and who's playing. 3 Rathbone Place; Fitzrovia; London W1T 1HJ; United Kingdom.
 
@@ -17,4 +17,4 @@ The Roxy is a music venue in London listed on soundcheck. 4 upcoming gigs, with 
 
 3 Rathbone Place; Fitzrovia; London W1T 1HJ; United Kingdom, London
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-roxy/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-roxy/)*

@@ -1,14 +1,14 @@
 # The Bunker @ The Rolling Stock
 
-The Bunker @ The Rolling Stock is a music venue in London with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Microdose 002" on Fri, 9 Oct 2026.
+The Bunker @ The Rolling Stock is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Subground x Halloween Party" on Sat, 31 Oct 2026.
 
-The Bunker @ The Rolling Stock is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Marcelina Wick and Neha. See dates, start times and who's playing.
+The Bunker @ The Rolling Stock is a music venue in London listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Microdose 002 | Marcelina Wick, Neha |
 | Sat, 31 Oct 2026 | Subground x Halloween Party |  |
+| Fri, 13 Nov 2026 | Funktion Signal Error |  |
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bunker-the-rolling-stock/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bunker-the-rolling-stock/)*

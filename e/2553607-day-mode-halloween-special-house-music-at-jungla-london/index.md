@@ -1,6 +1,6 @@
 # Day Mode - Halloween Special - House Music at Jungla London
 
-Day Mode - Halloween Special - House Music at Jungla London on Sat 31 Oct, London. 3 artists: Dominique Danielle, Miss Jackson and Shiloh (UK). Tech House and Deep House. See the line-up on soundcheck.
+Day Mode - Halloween Special - House Music at Jungla London on Sat 31 Oct, London. 4 artists: Brockney C, Dominique Danielle, Miss Jackson and Shiloh (UK). Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Day Mode - Halloween Special - House Music at Jungla London on Sat 31 Oct, Londo
 
 ## Line-up
 
+- Brockney C
 - Dominique Danielle
 - Miss Jackson
 - Shiloh (UK)

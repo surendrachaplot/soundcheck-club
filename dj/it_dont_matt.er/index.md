@@ -1,6 +1,6 @@
 # it_dont_Matt.er
 
-it_dont_Matt.er is a Breakcore and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Lvl1 @ DSU, Midlands on Sat, 31 Oct 2026.
+it_dont_Matt.er is a Breakcore and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Lvl1 @ DSU, Midlands on Sat, 31 Oct 2026.
 
 it_dont_Matt.er is a breakcore and club artist based in United Kingdom, with 36 gigs on soundcheck across Cardiff, London and Midlands. Often billed alongside AC (dot robot), Takenbymarshall and alterum. Next up: Lvl1 @ DSU, Midlands on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ it_dont_Matt.er is a breakcore and club artist based in United Kingdom, with 36 
 
 AC (dot robot), Takenbymarshall, alterum
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/it_dont_matt.er/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/it_dont_matt.er/)*

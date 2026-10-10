@@ -1,6 +1,6 @@
 # Acid Souljah
 
-Acid Souljah is a Hip-Hop and R&B artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 17 Oct 2026.
+Acid Souljah is a Hip-Hop and R&B artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 17 Oct 2026.
 
 Acid Souljah is a hip-hop and r&b artist based in United States of America, with 19 gigs on soundcheck across Barcelona, Berlin, London and Los Angeles and 6 more. Often billed alongside Christ Dillinger, Warlord® and exmantera. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Acid Souljah is a hip-hop and r&b artist based in United States of America, with
 
 Christ Dillinger, Warlord®, exmantera
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidsouljah/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidsouljah/)*

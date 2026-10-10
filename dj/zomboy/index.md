@@ -1,6 +1,6 @@
 # Zomboy
 
-Zomboy is a Dubstep and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Turbinenhalle, Oberhausen on Sat, 10 Oct 2026.
+Zomboy is a Dubstep and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Turbinenhalle, Oberhausen on Sat, 10 Oct 2026.
 
 Zomboy is a dubstep and drum & bass artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Boston, Chicago and Cologne and 7 more. Often billed alongside Alesso, Eptic and Flux Pavilion. Next up: Turbinenhalle, Oberhausen on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Zomboy is a dubstep and drum & bass artist based in United Kingdom, with 15 gigs
 
 Alesso, Eptic, Flux Pavilion
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zomboy/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zomboy/)*

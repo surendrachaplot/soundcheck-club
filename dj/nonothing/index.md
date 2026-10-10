@@ -1,6 +1,6 @@
 # Nono THING
 
-Nono THING is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Tsumagoi Bokujo Aisai no Kane, Kanto on Thu, 8 Oct 2026.
+Nono THING is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Tsumagoi Bokujo Aisai no Kane, Kanto on Thu, 8 Oct 2026.
 
 Nono THING is a techno and trance artist based in Japan, with 60 gigs on soundcheck across Kanto and Tokyo. Often billed alongside BEPPU, WAKA XINXI and DJ 34. Next up: Tsumagoi Bokujo Aisai no Kane, Kanto on Thu 8 Oct.
 
@@ -28,4 +28,4 @@ Nono THING is a techno and trance artist based in Japan, with 60 gigs on soundch
 
 BEPPU, WAKA XINXI, DJ 34
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nonothing/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nonothing/)*

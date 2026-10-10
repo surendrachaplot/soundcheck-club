@@ -1,6 +1,6 @@
 # Move D
 
-Move D is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Palais Mascotte, Zurich on Sat, 10 Oct 2026.
+Move D is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Palais Mascotte, Zurich on Sat, 10 Oct 2026.
 
 Move D is a house and techno artist based in Germany, with 151 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Robert Drewek, Prosumer and Discrete Circuit. Next up: Palais Mascotte, Zurich on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Move D is a house and techno artist based in Germany, with 151 gigs on soundchec
 
 Robert Drewek, Prosumer, Discrete Circuit
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moved/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moved/)*

@@ -1,14 +1,13 @@
 # Nyapi
 
-Nyapi is a music venue in Seoul with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Bluemoon Project with DZ GAS" on Fri, 9 Oct 2026.
+Nyapi is a music venue in Seoul with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Kugel & Young Sun" on Thu, 15 Oct 2026.
 
-Nyapi is a music venue in Seoul listed on soundcheck. 9 upcoming gigs, with line-ups including .2ndfloor, ASIANPAYDAY, aso and chani and 2 more. See dates, start times and who's playing. 187 Itaewon-ro Yongsan-gu, Seoul South Korea.
+Nyapi is a music venue in Seoul listed on soundcheck. 8 upcoming gigs, with line-ups including .2ndfloor, ASIANPAYDAY, aso and chani and 2 more. See dates, start times and who's playing. 187 Itaewon-ro Yongsan-gu, Seoul South Korea.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Bluemoon Project with DZ GAS | DZ GAS, GaGi, Mimiq (2), Yeonju |
 | Thu, 15 Oct 2026 | Kugel & Young Sun | Kugel, Young Sun |
 | Fri, 16 Oct 2026 | Love against time with DJ Healthy | DJ Healthy, JAEHAN (2), eunuk, jiwon |
 | Sat, 17 Oct 2026 | Nyapi invites RRRKRTA | ASIANPAYDAY, Hender, Kugel, RRRKRTA, Sunday Lee |
@@ -22,4 +21,4 @@ Nyapi is a music venue in Seoul listed on soundcheck. 9 upcoming gigs, with line
 
 187 Itaewon-ro Yongsan-gu, Seoul South Korea, Seoul
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/nyapi/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/nyapi/)*

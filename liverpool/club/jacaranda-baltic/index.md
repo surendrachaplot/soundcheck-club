@@ -1,6 +1,6 @@
 # Jacaranda Baltic
 
-Jacaranda Baltic is a music venue in Liverpool with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Tinie Tempah: Late Album Launch" on Wed, 14 Oct 2026.
+Jacaranda Baltic is a music venue in Liverpool with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Tinie Tempah: Late Album Launch" on Wed, 14 Oct 2026.
 
 Jacaranda Baltic is a music venue in Liverpool listed on soundcheck. 3 upcoming gigs, with line-ups including Tinie Tempah. See dates, start times and who's playing. Unit 2, Cains Brewery, Liverpool L8 5XJ.
 
@@ -16,4 +16,4 @@ Jacaranda Baltic is a music venue in Liverpool listed on soundcheck. 3 upcoming 
 
 Unit 2, Cains Brewery, Liverpool L8 5XJ, Liverpool
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/jacaranda-baltic/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/jacaranda-baltic/)*

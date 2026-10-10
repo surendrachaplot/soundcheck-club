@@ -1,18 +1,19 @@
 # Emsho
 
-Emsho is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA, New York City on Fri, 9 Oct 2026.
+Emsho is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Bushwick, New York City on Fri, 9 Oct 2026.
 
-Emsho is a house and techno artist based in United States of America, with 76 gigs on soundcheck across Barcelona, Berlin, Mexico City and New York City and 2 more. Often billed alongside Bella Mutino, Armii1n and Bruno Schmidt. Next up: TBA, New York City on Fri 9 Oct.
+Emsho is a house and techno artist based in United States of America, with 76 gigs on soundcheck across Barcelona, Berlin, Mexico City and New York City and 2 more. Often billed alongside Bella Mutino, Armii1n and Bruno Schmidt. Next up: TBA - Bushwick, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | TBA | New York City |
+| Fri, 9 Oct 2026 | TBA - Bushwick | New York City |
 | Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
 
 ## Recently played
 
+- TBA - Bushwick, New York City · Fri, 9 Oct 2026
 - Signal, New York City · Fri, 25 Sept 2026
 - Green Room NYC, New York City · Thu, 24 Sept 2026
 - Green Room NYC, New York City · Sat, 12 Sept 2026
@@ -20,10 +21,9 @@ Emsho is a house and techno artist based in United States of America, with 76 gi
 - Green Room NYC, New York City · Fri, 4 Sept 2026
 - Green Room NYC, New York City · Fri, 21 Aug 2026
 - Green Room NYC, New York City · Fri, 7 Aug 2026
-- Honey's, New York City · Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Bella Mutino, Armii1n, Bruno Schmidt
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emsho/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emsho/)*

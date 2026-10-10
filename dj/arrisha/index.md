@@ -1,18 +1,18 @@
 # ARRISHA
 
-ARRISHA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Poseidons, Riga on Fri, 9 Oct 2026.
+ARRISHA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Teritorija, Riga on Fri, 23 Oct 2026.
 
-ARRISHA is a house and techno artist based in Ukraine, with 54 gigs on soundcheck across Riga and Tallinn. Often billed alongside Notwelcome, BASSBOSS and ANGEDONIYA. Next up: Poseidons, Riga on Fri 9 Oct.
+ARRISHA is a house and techno artist based in Ukraine, with 54 gigs on soundcheck across Riga and Tallinn. Often billed alongside Notwelcome, BASSBOSS and ANGEDONIYA. Next up: Teritorija, Riga on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Poseidons | Riga |
 | Fri, 23 Oct 2026 | Teritorija | Riga |
 
 ## Recently played
 
+- Poseidons, Riga · Fri, 9 Oct 2026
 - Teritorija, Riga · Fri, 2 Oct 2026
 - Teritorija, Riga · Sat, 12 Sept 2026
 - Teritorija, Riga · Sat, 29 Aug 2026
@@ -20,10 +20,9 @@ ARRISHA is a house and techno artist based in Ukraine, with 54 gigs on soundchec
 - Teritorija, Riga · Sat, 27 Jun 2026
 - Teritorija, Riga · Fri, 12 Jun 2026
 - Teritorija, Riga · Sat, 30 May 2026
-- Teritorija, Riga · Fri, 22 May 2026
 
 ## Shares bills with
 
 Notwelcome, BASSBOSS, ANGEDONIYA
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arrisha/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arrisha/)*

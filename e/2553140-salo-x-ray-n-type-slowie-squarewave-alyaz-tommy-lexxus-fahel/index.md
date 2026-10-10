@@ -1,6 +1,6 @@
 # SALO / X-RAY: N-Type ☆ Slowie ☆ Squarewave ☆ Alyaz ☆ Tommy Lexxus ☆ fahell ☆ Johney at Fuchs2
 
-SALO / X-RAY: N-Type ☆ Slowie ☆ Squarewave ☆ Alyaz ☆ Tommy Lexxus ☆ fahell ☆ Johney at Fuchs2 on Sat 17 Oct, Prague. 5 artists: Dj Alyaz, fahell, N-Type and Squarewave and 1 more. Grime. See the line-up on soundcheck.
+SALO / X-RAY: N-Type ☆ Slowie ☆ Squarewave ☆ Alyaz ☆ Tommy Lexxus ☆ fahell ☆ Johney at Fuchs2 on Sat 17 Oct, Prague. 5 artists: Dj Alyaz, fahell, N-Type and Squarewave and 1 more. Dubstep and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

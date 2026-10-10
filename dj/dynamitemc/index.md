@@ -1,18 +1,18 @@
 # Dynamite MC
 
-Dynamite MC is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Dynamite MC is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at fabric, London on Sat, 14 Nov 2026.
 
-Dynamite MC is a drum & bass and jungle artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Bali, Bangkok and Berlin and 8 more. Often billed alongside Bryan Gee, Degs and Fred V. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
+Dynamite MC is a drum & bass and jungle artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Bali, Bangkok and Berlin and 8 more. Often billed alongside Bryan Gee, Degs and Fred V. Next up: fabric, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 14 Nov 2026 | fabric | London |
 
 ## Recently played
 
+- Depot Mayfield, Manchester · Fri, 9 Oct 2026
 - Hackney Wick Multiple Venues, London · Sat, 1 Aug 2026
 - Colour Factory, London · Sat, 1 Aug 2026
 - OIL Club, Shenzhen · Sat, 13 Jun 2026
@@ -20,10 +20,9 @@ Dynamite MC is a drum & bass and jungle artist based in United Kingdom, with 30 
 - UNLOCKED, London · Sat, 28 Mar 2026
 - Magazine London, London · Sat, 14 Mar 2026
 - fabric, London · Sat, 15 Nov 2025
-- Kultuurikatel, Tallinn · Sat, 1 Nov 2025
 
 ## Shares bills with
 
 Bryan Gee, Degs, Fred V
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dynamitemc/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dynamitemc/)*

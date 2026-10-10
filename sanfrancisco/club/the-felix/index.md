@@ -1,6 +1,6 @@
 # The Felix
 
-The Felix is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. The next is "Bounce Dat" on Sat, 17 Oct 2026.
+The Felix is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. The next is "Bounce Dat" on Sat, 17 Oct 2026.
 
 The Felix is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Felix is a music venue in San Francisco/Oakland listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Bounce Dat |  |
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-felix/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-felix/)*

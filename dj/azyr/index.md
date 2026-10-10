@@ -1,6 +1,6 @@
 # Azyr
 
-Azyr is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Halle de La Machine, Toulouse on Sat, 10 Oct 2026.
+Azyr is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Halle de La Machine, Toulouse on Sat, 10 Oct 2026.
 
 Azyr is a techno and house artist based in United Kingdom, with 236 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 65 more. Often billed alongside LESSSS, blk. and Charlie Sparks. Next up: Halle de La Machine, Toulouse on Sat 10 Oct.
 
@@ -36,4 +36,4 @@ Azyr is a techno and house artist based in United Kingdom, with 236 gigs on soun
 
 LESSSS, blk., Charlie Sparks
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*

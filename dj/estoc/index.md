@@ -1,6 +1,6 @@
 # estoc
 
-estoc is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA, Philadelphia on Sat, 10 Oct 2026.
+estoc is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA, Philadelphia on Sat, 10 Oct 2026.
 
 estoc is a club and techno artist based in United States of America, with 77 gigs on soundcheck across Amsterdam, Auckland, Austin and Bangkok and 30 more. Often billed alongside WTCHCRFT, Tom Marsi and bastiengoat. Next up: TBA, Philadelphia on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ estoc is a club and techno artist based in United States of America, with 77 gig
 
 WTCHCRFT, Tom Marsi, bastiengoat
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estoc/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estoc/)*

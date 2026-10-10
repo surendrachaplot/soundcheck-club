@@ -1,14 +1,13 @@
 # Becking
 
-Becking is a House and Garage artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at O2 Academy Leeds, Leeds on Fri, 9 Oct 2026.
+Becking is a House and Bass artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Club Up, Amsterdam on Wed, 21 Oct 2026.
 
-Becking is a house and garage artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam, Leeds and Manchester. Often billed alongside Kirilski, Pura Pachanga and Snooz. Next up: O2 Academy Leeds, Leeds on Fri 9 Oct.
+Becking is a house and bass artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam, Leeds and Manchester. Often billed alongside Kirilski, Pura Pachanga and Snooz. Next up: Club Up, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | O2 Academy Leeds | Leeds |
 | Wed, 21 Oct 2026 | Club Up | Amsterdam |
 | Wed, 21 Oct 2026 | Grand Café Heineken Hoek | Amsterdam |
 | Fri, 23 Oct 2026 | Club NYX | Amsterdam |
@@ -18,6 +17,7 @@ Becking is a house and garage artist based in Netherlands, with 17 gigs on sound
 
 ## Recently played
 
+- O2 Academy Leeds, Leeds · Fri, 9 Oct 2026
 - SISSI'S Amsterdam, Amsterdam · Sat, 29 Aug 2026
 - Yellow House, Amsterdam · Sat, 18 Jul 2026
 - SISSI'S Amsterdam, Amsterdam · Fri, 19 Jun 2026
@@ -25,10 +25,9 @@ Becking is a house and garage artist based in Netherlands, with 17 gigs on sound
 - THE OTHER SIDE, Amsterdam · Sat, 25 Oct 2025
 - Club NYX, Amsterdam · Fri, 24 Oct 2025
 - Tonton Club Westergas, Amsterdam · Sat, 27 Apr 2024
-- Toekomstmuziek, Amsterdam · Fri, 2 Feb 2024
 
 ## Shares bills with
 
 Kirilski, Pura Pachanga, Snooz
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/becking/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/becking/)*

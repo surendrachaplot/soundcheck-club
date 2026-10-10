@@ -1,14 +1,13 @@
 # Audioteca
 
-Audioteca is a music venue in Naples with 13 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Audioteca • Pacific Coliseum" on Fri, 9 Oct 2026.
+Audioteca is a music venue in Naples with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Audioteca • Giuseppe Trotta" on Sat, 10 Oct 2026.
 
-Audioteca is a music venue in Naples listed on soundcheck. 13 upcoming gigs, with line-ups including Aldo Rosati, Angelo Perna, Fred Simon and Gianni serra and 2 more. See dates, start times and who's playing. Via P. Togliatti 70c - S. Giorgio a Cremano, Napoli.
+Audioteca is a music venue in Naples listed on soundcheck. 12 upcoming gigs, with line-ups including Aldo Rosati, Angelo Perna, Fred Simon and Gianni serra and 1 more. See dates, start times and who's playing. Via P. Togliatti 70c - S. Giorgio a Cremano, Napoli.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Audioteca • Pacific Coliseum | Pacific Coliseum |
 | Sat, 10 Oct 2026 | Audioteca • Giuseppe Trotta |  |
 | Sun, 11 Oct 2026 | Audioteca • Euterpe |  |
 | Wed, 14 Oct 2026 | Audioteca x Bit Radio • Gianni Serra | Gianni serra |
@@ -18,9 +17,10 @@ Audioteca is a music venue in Naples listed on soundcheck. 13 upcoming gigs, wit
 | Sun, 18 Oct 2026 | Audioteca x Domingo Tropical Los Tanos Y Su Discos |  |
 | Fri, 23 Oct 2026 | Audioteca • Pola | Pola |
 | Sat, 24 Oct 2026 | Audioteca • Fred Simon | Fred Simon |
+| Sun, 25 Oct 2026 | Audioteca x Troppo Italiano La Disco_Teca |  |
 
 ## Address
 
 Via P. Togliatti 70c - S. Giorgio a Cremano, Napoli, Naples
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/audioteca/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/audioteca/)*

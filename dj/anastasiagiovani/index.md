@@ -1,6 +1,6 @@
 # Anastasia Giovani
 
-Anastasia Giovani is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Los Angeles, Los Angeles on Sun, 25 Oct 2026.
+Anastasia Giovani is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Los Angeles, Los Angeles on Sun, 25 Oct 2026.
 
 Anastasia Giovani is a techno and acid artist based in United States of America, with 28 gigs on soundcheck across Berlin, Chicago, Denver and Los Angeles and 1 more. Often billed alongside EMILIANA, Secus and Alex Casillas. Next up: TBA - Los Angeles, Los Angeles on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Anastasia Giovani is a techno and acid artist based in United States of America,
 
 EMILIANA, Secus, Alex Casillas
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anastasiagiovani/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anastasiagiovani/)*

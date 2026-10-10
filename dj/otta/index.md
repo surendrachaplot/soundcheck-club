@@ -1,15 +1,13 @@
 # ØTTA
 
-ØTTA is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Gate Milano, Milan on Fri, 9 Oct 2026.
+ØTTA is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Halle de La Machine, Toulouse on Sat, 10 Oct 2026.
 
-ØTTA is a techno and house artist based in Portugal, with 179 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Nico Moreno, 999999999 and Funk Tribu. Next up: Gate Milano, Milan on Fri 9 Oct.
+ØTTA is a techno and house artist based in Portugal, with 179 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Nico Moreno, 999999999 and Funk Tribu. Next up: Halle de La Machine, Toulouse on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Gate Milano | Milan |
-| Fri, 9 Oct 2026 | Gate Milano | Milan |
 | Sat, 10 Oct 2026 | Halle de La Machine | Toulouse |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
@@ -20,20 +18,22 @@
 | Thu, 19 Nov 2026 | Studio1111 | Berlin |
 | Sat, 21 Nov 2026 | Colour Factory | London |
 | Wed, 25 Nov 2026 | Origin | Los Angeles |
+| Fri, 27 Nov 2026 | Ace*Mission Studios | Los Angeles |
+| Fri, 4 Dec 2026 | MFCC Arena | Malta |
 
 ## Recently played
 
+- Gate Milano, Milan · Fri, 9 Oct 2026
+- Gate Milano, Milan · Fri, 9 Oct 2026
 - TBA - Port of Belgrade, Belgrade · Fri, 2 Oct 2026
 - Grelle Forelle, Vienna · Fri, 2 Oct 2026
 - Westhafen, Leipzig · Sat, 19 Sept 2026
 - TBA - Grand Parc Miribel Jonage, Lyon · Sat, 12 Sept 2026
 - Virage, Paris · Sat, 12 Sept 2026
 - TBA - Brussels, Brussels · Fri, 11 Sept 2026
-- Nitsa Club, Barcelona · Fri, 7 Aug 2026
-- Rebstockpark, Frankfurt · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Nico Moreno, 999999999, Funk Tribu
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otta/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otta/)*

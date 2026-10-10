@@ -1,14 +1,13 @@
 # Plastician
 
-Plastician is a Dubstep and Grime artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Black Box, Denver on Fri, 9 Oct 2026.
+Plastician is a Dubstep and Grime artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA, San Francisco/Oakland on Sat, 10 Oct 2026.
 
-Plastician is a dubstep and grime artist based in United Kingdom, with 78 gigs on soundcheck across Auckland, Birmingham, Bristol and Chicago and 17 more. Often billed alongside Skream, Just Jane and Oneman. Next up: The Black Box, Denver on Fri 9 Oct.
+Plastician is a dubstep and grime artist based in United Kingdom, with 78 gigs on soundcheck across Auckland, Birmingham, Bristol and Chicago and 17 more. Often billed alongside Skream, Just Jane and Oneman. Next up: TBA, San Francisco/Oakland on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | The Black Box | Denver |
 | Sat, 10 Oct 2026 | TBA | San Francisco/Oakland |
 | Sat, 17 Oct 2026 | DRUMSHEDS | London |
 | Fri, 30 Oct 2026 | The Drop inn | Birmingham |
@@ -17,6 +16,7 @@ Plastician is a dubstep and grime artist based in United Kingdom, with 78 gigs o
 
 ## Recently played
 
+- The Black Box, Denver · Fri, 9 Oct 2026
 - The Dolphin, Philadelphia · Thu, 8 Oct 2026
 - TBA, Iowa · Fri, 2 Oct 2026
 - TRANSMISSION DC, Washington DC · Fri, 2 Oct 2026
@@ -24,10 +24,9 @@ Plastician is a dubstep and grime artist based in United Kingdom, with 78 gigs o
 - The Fox and Firkin, London · Thu, 24 Sept 2026
 - Freight Brixton, London · Sat, 22 Aug 2026
 - Phonox, London · Fri, 17 Jul 2026
-- LoHi, New York City · Fri, 15 May 2026
 
 ## Shares bills with
 
 Skream, Just Jane, Oneman
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plastician/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plastician/)*

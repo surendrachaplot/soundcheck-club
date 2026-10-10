@@ -1,6 +1,6 @@
 # TO:NY
 
-TO:NY is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Zuzu, Boston on Fri, 30 Oct 2026.
+TO:NY is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Zuzu, Boston on Fri, 30 Oct 2026.
 
 TO:NY is a house and club artist based in United States of America, with 10 gigs on soundcheck across Boston and New York City. Often billed alongside DJ Janky, Pei Up and laís. Next up: Zuzu, Boston on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ TO:NY is a house and club artist based in United States of America, with 10 gigs
 
 DJ Janky, Pei Up, laís
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tony-us/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tony-us/)*

@@ -1,14 +1,13 @@
 # Angel Music Bar
 
-Angel Music Bar is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Space Jams" on Fri, 9 Oct 2026.
+Angel Music Bar is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Angel presents Simon TK B2B Hannah D, Monfreaq" on Sat, 10 Oct 2026.
 
-Angel Music Bar is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including ADMINISTRATOR, Alex Albrecht, Andy Hart and Coloursound and 2 more. See dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
+Angel Music Bar is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including Alex Albrecht, Andy Hart, Dasha SPRW and Dawn Again and 2 more. See dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Space Jams | ADMINISTRATOR, Coloursound, Ham (5), KJONES |
 | Sat, 10 Oct 2026 | Angel presents Simon TK B2B Hannah D, Monfreaq | Hannah D, Monfreaq, Simon TK, Yollks |
 | Fri, 16 Oct 2026 | NECTAR | Felipe (1), Freddy Gardens, Palazzo (2), TheCamiloS, Zafiro |
 | Sat, 17 Oct 2026 | Angel presents Kenji Takimi All Night Long | Kenji Takimi |
@@ -22,4 +21,4 @@ Angel Music Bar is a music venue in Melbourne listed on soundcheck. 9 upcoming g
 
 12 Bourke Street Melbourne, Victoria, Australia, Melbourne
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*

@@ -1,6 +1,6 @@
 # Aniaef
 
-Aniaef is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Gaffe, London on Sat, 17 Oct 2026.
+Aniaef is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Gaffe, London on Sat, 17 Oct 2026.
 
 Aniaef is a techno and electro artist based in United Kingdom, with 18 gigs on soundcheck across London. Often billed alongside Ylia (UK), GIZZI and H Grade. Next up: Gaffe, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Aniaef is a techno and electro artist based in United Kingdom, with 18 gigs on s
 
 Ylia (UK), GIZZI, H Grade
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aniaef/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aniaef/)*

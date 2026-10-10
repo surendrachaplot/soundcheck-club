@@ -1,19 +1,19 @@
 # Desiree'
 
-Desiree' is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 9 Oct 2026.
+Desiree' is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Om Being, London on Sat, 10 Oct 2026.
 
-Desiree' is a techno and electro artist based in Italy, with 51 gigs on soundcheck across Berlin, Bristol, London and Madrid and 3 more. Often billed alongside Gianmarco Gazzillo, Manlio and Ordep (UK). Next up: NUMBER 90 LONDON, London on Fri 9 Oct.
+Desiree' is a techno and electro artist based in Italy, with 51 gigs on soundcheck across Berlin, Bristol, London and Madrid and 3 more. Often billed alongside Gianmarco Gazzillo, Manlio and Ordep (UK). Next up: Om Being, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | NUMBER 90 LONDON | London |
 | Sat, 10 Oct 2026 | Om Being | London |
 | Sat, 31 Oct 2026 | fabric | London |
 
 ## Recently played
 
+- NUMBER 90 LONDON, London · Fri, 9 Oct 2026
 - NUMBER 90 LONDON, London · Sun, 27 Sept 2026
 - The Glove That Fits, London · Sun, 20 Sept 2026
 - Colour Factory, London · Sat, 12 Sept 2026
@@ -21,10 +21,9 @@ Desiree' is a techno and electro artist based in Italy, with 51 gigs on soundche
 - Autumn Three, London · Thu, 23 Jul 2026
 - Starlane Pizza Bar, London · Sun, 19 Jul 2026
 - Gaffe, London · Sat, 27 Jun 2026
-- FOLD, London · Fri, 22 May 2026
 
 ## Shares bills with
 
 Gianmarco Gazzillo, Manlio, Ordep (UK)
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-uk/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-uk/)*

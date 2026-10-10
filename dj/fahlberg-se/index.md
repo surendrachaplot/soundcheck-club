@@ -1,14 +1,13 @@
 # Fahlberg
 
-Fahlberg is a Afro House and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at ZeyZey, Miami on Fri, 9 Oct 2026.
+Fahlberg is a Afro House and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sat, 10 Oct 2026.
 
-Fahlberg is an afro house and house artist based in Sweden, with 37 gigs on soundcheck across Amsterdam, Austin, Berlin and Brussels and 20 more. Often billed alongside Chris Luno, Elderbrook and Mathame. Next up: ZeyZey, Miami on Fri 9 Oct.
+Fahlberg is an afro house and house artist based in Sweden, with 37 gigs on soundcheck across Amsterdam, Austin, Berlin and Brussels and 20 more. Often billed alongside Chris Luno, Elderbrook and Mathame. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | ZeyZey | Miami |
 | Sat, 10 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Sat, 10 Oct 2026 | Rebel | Toronto |
 | Sat, 31 Oct 2026 | Bar & Kantine Schiffbau | Zurich |
@@ -19,6 +18,7 @@ Fahlberg is an afro house and house artist based in Sweden, with 37 gigs on soun
 
 ## Recently played
 
+- ZeyZey, Miami · Fri, 9 Oct 2026
 - Music Box, San Diego · Sun, 27 Sept 2026
 - Hangar Meco, Lisbon · Sat, 29 Aug 2026
 - Café Himmelsschreiber, Hamburg · Fri, 14 Aug 2026
@@ -26,10 +26,9 @@ Fahlberg is an afro house and house artist based in Sweden, with 37 gigs on soun
 - Klein Phönix, Istanbul · Fri, 17 Jul 2026
 - Open Aera, Toronto · Thu, 18 Jun 2026
 - Lot 613, Los Angeles · Sat, 9 May 2026
-- Coco Boule, Berlin · Thu, 23 Apr 2026
 
 ## Shares bills with
 
 Chris Luno, Elderbrook, Mathame
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fahlberg-se/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fahlberg-se/)*

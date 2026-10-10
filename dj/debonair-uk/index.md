@@ -1,6 +1,6 @@
 # DEBONAIR
 
-DEBONAIR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Green Room NYC, New York City on Sat, 24 Oct 2026.
+DEBONAIR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Green Room NYC, New York City on Sat, 24 Oct 2026.
 
 DEBONAIR is a techno and house artist based in United Kingdom, with 56 gigs on soundcheck across Barcelona, Bristol, Chicago and Detroit and 14 more. Often billed alongside Jubilee, Objekt and Coe. Next up: Green Room NYC, New York City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DEBONAIR is a techno and house artist based in United Kingdom, with 56 gigs on s
 
 Jubilee, Objekt, Coe (1)
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/debonair-uk/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/debonair-uk/)*

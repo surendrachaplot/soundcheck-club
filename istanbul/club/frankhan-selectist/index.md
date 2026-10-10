@@ -1,15 +1,13 @@
 # Frankhan Selectist
 
-Frankhan Selectist is a music venue in Istanbul with 15 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Juan Atkins: The Godfather of Techno" on Fri, 9 Oct 2026.
+Frankhan Selectist is a music venue in Istanbul with 13 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Global Swing w/ Garret David + Tino" on Sat, 10 Oct 2026.
 
-Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 15 upcoming gigs, with line-ups including Alican, Berkan V8, BOOSAY and Cem G and 2 more. See dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
+Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 13 upcoming gigs, with line-ups including Alican, Berkan V8, BOOSAY and Delilah and 2 more. See dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Juan Atkins: The Godfather of Techno | Cem G, Childplay, Juan Atkins |
-| Fri, 9 Oct 2026 | PLGRN: Doudou MD + KARBONI at ((Sound Room)) | Doudou MD, KARBONI |
 | Sat, 10 Oct 2026 | Global Swing w/ Garret David + Tino | Garrett David, Tino |
 | Sat, 10 Oct 2026 | 36th Akbank Jazz Festival: Yasmine Hamdan |  |
 | Fri, 16 Oct 2026 | Alan Power: A Night in Tennessee |  |
@@ -18,9 +16,11 @@ Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 15 upcomin
 | Sat, 17 Oct 2026 | Slum Vilage |  |
 | Fri, 23 Oct 2026 | Delilah Saxena + Jamie S + Maner | Delilah |
 | Sat, 24 Oct 2026 | Walkband Live |  |
+| Fri, 30 Oct 2026 | Isolate: Ede | Alican, Ede, Murat Uncuoglu |
+| Sat, 31 Oct 2026 | Halloween: Frankhanstein | BOOSAY, Berkan V8, GARAN GARAN, Isaac Carter |
 
 ## Address
 
 Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul, Istanbul
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*

@@ -1,6 +1,6 @@
 # George T
 
-George T is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at The Mash House, Edinburgh on Sat, 10 Oct 2026.
+George T is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at The Mash House, Edinburgh on Sat, 10 Oct 2026.
 
 George T is a house and electronica artist based in United Kingdom, with 16 gigs on soundcheck across Edinburgh. Often billed alongside Mairi 'b' Pots, Dani Sonder and discjocelyne. Next up: The Mash House, Edinburgh on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ George T is a house and electronica artist based in United Kingdom, with 16 gigs
 
 Mairi 'b' Pots, Dani Sonder, discjocelyne
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georget/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georget/)*

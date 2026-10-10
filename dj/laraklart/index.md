@@ -1,6 +1,6 @@
 # Lara Klart
 
-Lara Klart is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Domicile, Miami on Fri, 23 Oct 2026.
+Lara Klart is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Domicile, Miami on Fri, 23 Oct 2026.
 
 Lara Klart is a techno and acid artist based in United States of America, with 17 gigs on soundcheck across Copenhagen, Miami, Tallinn and Washington DC. Often billed alongside Gioh Cecato, Jay Toledo and ANTIMATTER. Next up: Domicile, Miami on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Lara Klart is a techno and acid artist based in United States of America, with 1
 
 Gioh Cecato, Jay Toledo, ANTIMATTER
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laraklart/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laraklart/)*

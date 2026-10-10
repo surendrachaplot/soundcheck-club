@@ -1,14 +1,13 @@
 # Pendulum
 
-Pendulum is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Q Nightclub, Seattle on Fri, 9 Oct 2026.
+Pendulum is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Red Rocks Amphitheatre, Colorado on Sat, 10 Oct 2026.
 
-Pendulum is a drum & bass and bass artist based in United Kingdom, with 54 gigs on soundcheck across Auckland, Austin, Birmingham and Brighton and 30 more. Often billed alongside Mozey, Kanine and Metrik. Next up: Q Nightclub, Seattle on Fri 9 Oct.
+Pendulum is a drum & bass and bass artist based in United Kingdom, with 54 gigs on soundcheck across Auckland, Austin, Birmingham and Brighton and 30 more. Often billed alongside Mozey, Kanine and Metrik. Next up: Red Rocks Amphitheatre, Colorado on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Q Nightclub | Seattle |
 | Sat, 10 Oct 2026 | Red Rocks Amphitheatre | Colorado |
 | Sat, 10 Oct 2026 | Gaswrx Birmingham | Birmingham |
 | Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |
@@ -16,6 +15,7 @@ Pendulum is a drum & bass and bass artist based in United Kingdom, with 54 gigs 
 
 ## Recently played
 
+- Q Nightclub, Seattle · Fri, 9 Oct 2026
 - halle02, Heidelberg · Sat, 3 Oct 2026
 - Boomtown Brewery, Los Angeles · Sat, 12 Sept 2026
 - 1015 Folsom, San Francisco/Oakland · Fri, 11 Sept 2026
@@ -23,10 +23,9 @@ Pendulum is a drum & bass and bass artist based in United Kingdom, with 54 gigs 
 - Silverworks Island, London · Sun, 5 Jul 2026
 - PROGRESS, Manchester · Sat, 23 May 2026
 - Fortuna Hall, Prague · Fri, 20 Feb 2026
-- Thekla, Bristol · Fri, 20 Feb 2026
 
 ## Shares bills with
 
 Mozey, Kanine, Metrik
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pendulum/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pendulum/)*

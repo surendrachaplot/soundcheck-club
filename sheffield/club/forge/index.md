@@ -1,17 +1,16 @@
 # FORGE
 
-FORGE is a music venue in Sheffield with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "SNAFU: Gabrielle Kwarteng, Robyn Jade, KiT" on Fri, 9 Oct 2026.
+FORGE is a music venue in Sheffield with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Takuya Nakamura [Live] & Supports" on Thu, 15 Oct 2026.
 
-FORGE is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, with line-ups including Adam F, Ben Suff Donk, Bimini and Burt Cope and 2 more. See dates, start times and who's playing. 148 Effingham Road, Sheffield, S4 7YS.
+FORGE is a music venue in Sheffield listed on soundcheck. 9 upcoming gigs, with line-ups including Adam F, Ben Suff Donk, Bimini and Burt Cope and 2 more. See dates, start times and who's playing. 148 Effingham Road, Sheffield, S4 7YS.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | SNAFU: Gabrielle Kwarteng, Robyn Jade, KiT | Gabrielle Kwarteng |
 | Thu, 15 Oct 2026 | Takuya Nakamura [Live] & Supports | Takuya Nakamura |
 | Fri, 16 Oct 2026 | Bounce By The Ounce x UOS DJ SOC presents: DJ BAX & FRIENDS |  |
-| Sun, 25 Oct 2026 | Green Space SHEFFIELD | Ben Suff Donk, Bimini, Burt Cope, Charla Green, DJ Deep Heat, DJ Fingerblast, Emerald, Piri & Tommy, Princess Elf Bar |
+| Sun, 25 Oct 2026 | Green Space SHEFFIELD | Ben Suff Donk, Bimini, Burt Cope, Charla Green, DJ Deep Heat, DJ Fingerblast, Emerald, Jolie P, Piri & Tommy, Princess Elf Bar |
 | Fri, 30 Oct 2026 | Halloween: Dr Banana + Locky + dj sweet6teen | Dr Banana, Locky, dj sweet6teen |
 | Fri, 6 Nov 2026 | Queers For Beers x FORGE = DJ Fuckoff, SYNTAX, dj egoshooter ೃ⁀➷ |  |
 | Fri, 13 Nov 2026 | Big Fat Rave: Hamdi + Osmosis Jones + SKALAH | Hamdi, Osmosis Jones, SKALAH (UK) |
@@ -23,4 +22,4 @@ FORGE is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, with
 
 148 Effingham Road, Sheffield, S4 7YS, Sheffield
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/forge/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/forge/)*

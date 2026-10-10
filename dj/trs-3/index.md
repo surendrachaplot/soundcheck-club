@@ -1,6 +1,6 @@
 # TRS (3)
 
-TRS (3) is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Pluto, Valencia on Sat, 10 Oct 2026.
+TRS (3) is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Pluto, Valencia on Sat, 10 Oct 2026.
 
 TRS is an ambient and experimental artist based in Spain, with 11 gigs on soundcheck across Barcelona, Madrid and Valencia. Often billed alongside Just Claudia, Pépe and AINES. Next up: Pluto, Valencia on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ TRS is an ambient and experimental artist based in Spain, with 11 gigs on soundc
 
 Just Claudia, Pépe, AINES
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trs-3/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trs-3/)*

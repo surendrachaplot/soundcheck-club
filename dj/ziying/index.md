@@ -1,18 +1,18 @@
 # ZIYING
 
-ZIYING is a Deep House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Ministry Of Sound, London on Fri, 9 Oct 2026.
+ZIYING is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Bricks, London on Sat, 28 Nov 2026.
 
-ZIYING is a deep house and progressive house artist based in United Kingdom, with 22 gigs on soundcheck across London. Often billed alongside Adela, Innerstice and Selen. Next up: Ministry Of Sound, London on Fri 9 Oct.
+ZIYING is a deep house and progressive house artist based in United Kingdom, with 22 gigs on soundcheck across London. Often billed alongside Adela, Innerstice and Selen. Next up: Bricks, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Ministry Of Sound | London |
 | Sat, 28 Nov 2026 | Bricks | London |
 
 ## Recently played
 
+- Ministry Of Sound, London · Fri, 9 Oct 2026
 - Last Arch, London · Fri, 26 Jun 2026
 - TBA - East London (Zone 2), London · Fri, 3 Apr 2026
 - E1, London · Sat, 7 Mar 2026
@@ -20,10 +20,9 @@ ZIYING is a deep house and progressive house artist based in United Kingdom, wit
 - NUMBER 90 LONDON, London · Fri, 5 Dec 2025
 - Nico's Bar at Hackney Bridge, London · Sat, 22 Nov 2025
 - Gaffe, London · Sat, 8 Nov 2025
-- HWK, London · Sat, 11 Oct 2025
 
 ## Shares bills with
 
 Adela, Innerstice, Selen
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ziying/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ziying/)*

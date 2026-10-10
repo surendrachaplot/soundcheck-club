@@ -1,14 +1,13 @@
 # Bauhaus
 
-Bauhaus is a music venue in Houston with 17 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Laerz" on Fri, 9 Oct 2026.
+Bauhaus is a music venue in Houston with 16 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Noizu" on Sat, 10 Oct 2026.
 
-Bauhaus is a music venue in Houston listed on soundcheck. 17 upcoming gigs, with line-ups including Classmatic, Ely Oaks, Kahani and Kunal Merchant and 2 more. See dates, start times and who's playing. 1803 Pease St, Houston, TX 77003, US.
+Bauhaus is a music venue in Houston listed on soundcheck. 16 upcoming gigs, with line-ups including Classmatic, Ely Oaks, Kahani and Kunal Merchant and 2 more. See dates, start times and who's playing. 1803 Pease St, Houston, TX 77003, US.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Laerz |  |
 | Sat, 10 Oct 2026 | Noizu |  |
 | Thu, 15 Oct 2026 | DREYA V |  |
 | Thu, 15 Oct 2026 | GIRLS ON DECKS |  |
@@ -18,9 +17,10 @@ Bauhaus is a music venue in Houston listed on soundcheck. 17 upcoming gigs, with
 | Sat, 24 Oct 2026 | Marco Strous | Marco Strous |
 | Fri, 30 Oct 2026 | Boo-Haus - Bollywood Edition |  |
 | Fri, 30 Oct 2026 | Regard |  |
+| Fri, 6 Nov 2026 | GREG 99 |  |
 
 ## Address
 
 1803 Pease St, Houston, TX 77003, US, Houston
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/houston/club/bauhaus/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/houston/club/bauhaus/)*

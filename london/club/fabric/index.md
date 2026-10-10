@@ -1,14 +1,13 @@
 # fabric
 
-fabric is a music venue in London with 30 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "fabric: Locklead, bullet tooth, A For Alpha, Papa Nugs, Burnski, Busted + more " on Fri, 9 Oct 2026.
+fabric is a music venue in London with 29 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Aaron Hibell, KiNK (Live), Slam, The Tunegirl (Live), Sanaz, Kotiēr, Kwartz" on Sat, 10 Oct 2026.
 
-fabric is a music venue in London listed on soundcheck. 30 upcoming gigs, with line-ups including 2 Bad Mice, AANO, Aaron Hibell and Adana Twins and 2 more. See dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
+fabric is a music venue in London listed on soundcheck. 29 upcoming gigs, with line-ups including 2 Bad Mice, AANO, Aaron Hibell and Adana Twins and 2 more. See dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | fabric: Locklead, bullet tooth, A For Alpha, Papa Nugs, Burnski, Busted + more  | A For Alpha, Burnski, Jude Lenihan, Locklead, Mya (1), Papa Nugs, bullet tooth, j:me |
 | Sat, 10 Oct 2026 | Aaron Hibell, KiNK (Live), Slam, The Tunegirl (Live), Sanaz, Kotiēr, Kwartz | AANO, Aaron Hibell, BUTZ, ENNIO, KiNK, Kotiēr, Kwartz, Sanaz (2), Slam |
 | Sun, 11 Oct 2026 | fabric: The Martinez Brothers (6 Hour Set), Sarahrey | The Martinez Brothers |
 | Thu, 15 Oct 2026 | Change the Beat: fabric London — Conference, Mixer & Club Night | Emily Nash, Kitty Amor, N1NJA, Sydney Blu, TSHA |
@@ -18,9 +17,10 @@ fabric is a music venue in London listed on soundcheck. 30 upcoming gigs, with l
 | Sat, 24 Oct 2026 | Fool's Paradise: Mark Knight, Mousse T., Michael Gray, Junior Jack, David Penn, Groove P + more | Damian Wilson, David Penn, Groove P, Jaegerossa, Junior Jack, Mark Knight, Michael Gray, Mousse T., Ridney, Soul Avengerz, Suki Soul |
 | Sat, 24 Oct 2026 | fabric: Stephan Bodzin (Live), Ivory, Olympe, Adana Twins, Öona Dahl, LⵣBNA | Adana Twins, Ivory, Olympe, Stephan Bodzin, Öona Dahl |
 | Sun, 25 Oct 2026 | CAYA by fabric: Ben Murphy (All Night Long) | Ben Murphy |
+| Fri, 30 Oct 2026 | FABRICLIVE: Arthi, Chloé Robinson, JAEL, LAMSI, DJ Priya, State OFFF, TOCCORORO | Arthi, Chloé Robinson, DJ PRIYA, JAEL, LAMSI, Raidaa, Shadobeni, State OFFF, TOCCORORO |
 
 ## Address
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

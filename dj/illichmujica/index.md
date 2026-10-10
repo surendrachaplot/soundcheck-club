@@ -1,6 +1,6 @@
 # Illich Mujica
 
-Illich Mujica is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Lion's Den, Miami on Sat, 10 Oct 2026.
+Illich Mujica is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Lion's Den, Miami on Sat, 10 Oct 2026.
 
 Illich Mujica is a house and deep house artist based in United States of America, with 10 gigs on soundcheck across Miami, New York City and San Francisco/Oakland. Often billed alongside 2melo, Armen Miran and CEEJ. Next up: Lion's Den, Miami on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Illich Mujica is a house and deep house artist based in United States of America
 
 2melo, Armen Miran, CEEJ
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/illichmujica/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/illichmujica/)*

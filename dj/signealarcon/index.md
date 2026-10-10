@@ -1,6 +1,6 @@
 # Signe Alarcón
 
-Signe Alarcón is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Acud Macht NEU, Berlin on Fri, 20 Nov 2026.
+Signe Alarcón is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Acud Macht NEU, Berlin on Fri, 20 Nov 2026.
 
 Signe Alarcón is a trance and techno artist based in Denmark, with 31 gigs on soundcheck across Berlin, Copenhagen, Nantes and Tbilisi. Often billed alongside DJ Sea View, FILTH.y and Lucy Headburn. Next up: Acud Macht NEU, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Signe Alarcón is a trance and techno artist based in Denmark, with 31 gigs on s
 
 DJ Sea View, FILTH.y, Lucy Headburn
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/signealarcon/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/signealarcon/)*

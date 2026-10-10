@@ -1,14 +1,13 @@
 # Sub Club
 
-Sub Club is a music venue in Glasgow with 38 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "RTM: Alarico & Slam & Babyccino" on Fri, 9 Oct 2026.
+Sub Club is a music venue in Glasgow with 37 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Subculture w/ Domenic Cappello + Jane Fitz" on Sat, 10 Oct 2026.
 
-Sub Club is a music venue in Glasgow listed on soundcheck. 38 upcoming gigs, with line-ups including Alarico, Alex Culross, Archie Hamilton and Avalon Emerson and 2 more. See dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
+Sub Club is a music venue in Glasgow listed on soundcheck. 37 upcoming gigs, with line-ups including Alex Culross, Archie Hamilton, Avalon Emerson and AXION and 2 more. See dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | RTM: Alarico & Slam & Babyccino | Alarico, Babyccino, Slam |
 | Sat, 10 Oct 2026 | Subculture w/ Domenic Cappello + Jane Fitz | Domenic Cappello, Jane Fitz |
 | Thu, 15 Oct 2026 | FLY - Cam Stockman - Glasgow | Cam Stockman |
 | Fri, 16 Oct 2026 | Magic City - 10th Birthday with DJ EZ | DJ EZ, Jenn Gunn (2) |
@@ -18,9 +17,10 @@ Sub Club is a music venue in Glasgow listed on soundcheck. 38 upcoming gigs, wit
 | Fri, 23 Oct 2026 | BREATHE: Make A Dance  | Elk, Make A Dance, Peacock |
 | Fri, 23 Oct 2026 | Breathe: Make A Dance (M.A.D)  | Breathe, Make A Dance |
 | Sat, 24 Oct 2026 | Takuya Nakamura: Free Time - Glasgow 6-10pm | Takuya Nakamura |
+| Sat, 24 Oct 2026 | Subculture w/ Stevie Cox + Avalon Emerson | Avalon Emerson, Stevie Cox |
 
 ## Address
 
 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom, Glasgow
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*

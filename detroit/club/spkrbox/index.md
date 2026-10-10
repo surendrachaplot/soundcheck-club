@@ -1,16 +1,13 @@
 # Spkrbox
 
-Spkrbox is a music venue in Detroit with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Three Dimensions" on Fri, 9 Oct 2026.
+Spkrbox is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "BerettaMusic and Friends - Milan Ariel Atkins, Ryan Sadorus, Perish, Marcus Harris" on Sat, 10 Oct 2026.
 
-Spkrbox is a music venue in Detroit listed on soundcheck. 11 upcoming gigs, with line-ups including ADMN, ACE, Curmudgeon and DJ 3000 and 2 more. See dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
+Spkrbox is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, with line-ups including ADMN, DJ 3000, Dru Ruiz and Echoføn and 2 more. See dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Three Dimensions |  |
-| Fri, 9 Oct 2026 | House Coffee | ACE, Curmudgeon, Jorissen, Vermilion |
-| Fri, 9 Oct 2026 | Three Dimensions | Kevin Reynolds, MIKE RANSOM |
 | Sat, 10 Oct 2026 | BerettaMusic and Friends - Milan Ariel Atkins, Ryan Sadorus, Perish, Marcus Harris | Marcus NF Harris, Milan Ariel, Perish, Ryan Sadorus |
 | Sun, 11 Oct 2026 | Foggy Sunday | Dru Ruiz |
 | Thu, 15 Oct 2026 | FLAVORS by Snack Time: Tommaso (CHI) all night | Tommaso (IT) |
@@ -18,9 +15,10 @@ Spkrbox is a music venue in Detroit listed on soundcheck. 11 upcoming gigs, with
 | Sat, 17 Oct 2026 | UNION | DJ 3000, Gary Martin, Los Hermanos |
 | Fri, 23 Oct 2026 | Infolines The Leland Release Party | ADMN, Echoføn, Rex Sepulveda, sweetapple |
 | Thu, 29 Oct 2026 | LAÍRE X Tylr [TICKETS AT DOOR] | .hisham, LAÍRE, Liminal, Tylr |
+| Thu, 29 Oct 2026 | ANӘMӘ'LISTIK | .hisham, Liminal, Tylr |
 
 ## Address
 
 200 Grand River Ave, Detroit, MI 48226, United States, Detroit
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*

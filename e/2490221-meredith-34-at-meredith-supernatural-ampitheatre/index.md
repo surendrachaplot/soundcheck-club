@@ -1,6 +1,6 @@
 # Meredith 34 at Meredith Supernatural Ampitheatre
 
-Meredith 34 at Meredith Supernatural Ampitheatre on Fri 11 Dec, Melbourne. 11 artists: Dijon, DJ Seinfeld, FCUKERS and Hiatus Kaiyote and 7 more. Techno and House. See the line-up on soundcheck.
+Meredith 34 at Meredith Supernatural Ampitheatre on Fri 11 Dec, Melbourne. 12 artists: Blue Communications, Dijon, DJ Seinfeld and FCUKERS and 8 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Meredith 34 at Meredith Supernatural Ampitheatre on Fri 11 Dec, Melbourne. 11 ar
 
 ## Line-up
 
+- Blue Communications
 - Dijon
 - DJ Seinfeld
 - FCUKERS

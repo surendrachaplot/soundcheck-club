@@ -1,14 +1,13 @@
 # Gabrielle Kwarteng
 
-Gabrielle Kwarteng is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at FORGE, Sheffield on Fri, 9 Oct 2026.
+Gabrielle Kwarteng is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Backsteinboot, Berlin on Sat, 10 Oct 2026.
 
-Gabrielle Kwarteng is a house and techno artist based in United States of America, with 252 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 61 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: FORGE, Sheffield on Fri 9 Oct.
+Gabrielle Kwarteng is a house and techno artist based in United States of America, with 253 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 61 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: Backsteinboot, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | FORGE | Sheffield |
 | Sat, 10 Oct 2026 | Backsteinboot | Berlin |
 | Fri, 16 Oct 2026 | The Love Inn | Bristol |
 | Sat, 17 Oct 2026 | fabric | London |
@@ -20,9 +19,11 @@ Gabrielle Kwarteng is a house and techno artist based in United States of Americ
 | Sat, 14 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 27 Nov 2026 | DURO | Milan |
 | Fri, 27 Nov 2026 | DURO | Milan |
+| Sat, 28 Nov 2026 | Mia Mao | Paris |
 
 ## Recently played
 
+- FORGE, Sheffield · Fri, 9 Oct 2026
 - Pawn Shop, Dublin · Sat, 3 Oct 2026
 - Headrow House, Leeds · Fri, 2 Oct 2026
 - DC-10, Ibiza · Mon, 28 Sept 2026
@@ -30,10 +31,9 @@ Gabrielle Kwarteng is a house and techno artist based in United States of Americ
 - Flash, Washington DC · Sun, 20 Sept 2026
 - BASEMENT, New York City · Fri, 18 Sept 2026
 - Sunday Sunday, Mexico City · Sun, 13 Sept 2026
-- Westhafen, Leipzig · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 BASHKKA, Peach, Sedef Adasï
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*

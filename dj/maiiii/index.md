@@ -1,6 +1,6 @@
 # maiiii
 
-maiiii is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Geary Avenue Warehouse Project, Toronto on Sat, 31 Oct 2026.
+maiiii is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Geary Avenue Warehouse Project, Toronto on Sat, 31 Oct 2026.
 
 maiiii is a house and techno artist based in Canada, with 9 gigs on soundcheck across Barcelona, New York City and Toronto. Often billed alongside LIONESSA, suciopath and BOOTYCORNFED. Next up: Geary Avenue Warehouse Project, Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ maiiii is a house and techno artist based in Canada, with 9 gigs on soundcheck a
 
 LIONESSA, suciopath, BOOTYCORNFED
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maiiii/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maiiii/)*

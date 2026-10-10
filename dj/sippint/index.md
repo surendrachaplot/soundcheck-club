@@ -1,6 +1,6 @@
 # Sippin' T
 
-Sippin' T is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Hackney Bridge, London on Fri, 16 Oct 2026.
+Sippin' T is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Hackney Bridge, London on Fri, 16 Oct 2026.
 
 Sippin' T is a techno and club artist based in United Kingdom, with 32 gigs on soundcheck across Berlin, London, New York City and Sydney. Often billed alongside TEDESCO, THEMPRESS and GIDEÖN. Next up: Hackney Bridge, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Sippin' T is a techno and club artist based in United Kingdom, with 32 gigs on s
 
 TEDESCO, THEMPRESS, GIDEÖN
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sippint/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sippint/)*

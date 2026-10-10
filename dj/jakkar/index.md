@@ -1,18 +1,18 @@
 # JAKKAR
 
-JAKKAR is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Ground Luxembourg, Luxembourg on Fri, 9 Oct 2026.
+JAKKAR is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Pm93 Essen, Dortmund-essen on Sat, 10 Oct 2026.
 
-JAKKAR is a techno and hardcore artist based in Greece, with 7 gigs on soundcheck across Amsterdam, Athens, Dortmund Essen and Luxembourg and 1 more. Often billed alongside Kingsmo, MILØW and TRANZ. Next up: Ground Luxembourg, Luxembourg on Fri 9 Oct.
+JAKKAR is a techno and hardcore artist based in Greece, with 7 gigs on soundcheck across Amsterdam, Athens, Dortmund Essen and Luxembourg and 1 more. Often billed alongside Kingsmo, MILØW and TRANZ. Next up: Pm93 Essen, Dortmund Essen on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Ground Luxembourg | Luxembourg |
 | Sat, 10 Oct 2026 | Pm93 Essen | Dortmund-essen |
 
 ## Recently played
 
+- Ground Luxembourg, Luxembourg · Fri, 9 Oct 2026
 - Tigullio, Malta · Thu, 23 Jul 2026
 - Temple Athens, Athens · Sat, 21 Mar 2026
 - Temple Athens, Athens · Fri, 26 Dec 2025
@@ -23,4 +23,4 @@ JAKKAR is a techno and hardcore artist based in Greece, with 7 gigs on soundchec
 
 Kingsmo, MILØW, TRANZ
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakkar/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakkar/)*

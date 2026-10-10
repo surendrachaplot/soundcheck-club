@@ -1,14 +1,13 @@
 # Bunker
 
-Bunker is a music venue in Turin with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Vestalia w/ Neel, Future Nomadz, Stefania Vos, Enea Pascal, Filippo Scorcucchi" on Fri, 9 Oct 2026.
+Bunker is a music venue in Turin with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "SIAH x Abandoned Factory w/ Danny Wabbit, NYCTO, BLACK CROW, Distorted Planet" on Sat, 17 Oct 2026.
 
-Bunker is a music venue in Turin listed on soundcheck. 5 upcoming gigs, with line-ups including ANNĒ, BLACK CROW, Daniele Baldelli and Danny Wabbit and 2 more. See dates, start times and who's playing. Via Niccolò Paganini, 0/200, 10154 Torino TO, Italy.
+Bunker is a music venue in Turin listed on soundcheck. 4 upcoming gigs, with line-ups including ANNĒ, BLACK CROW, Daniele Baldelli and Danny Wabbit and 2 more. See dates, start times and who's playing. Via Niccolò Paganini, 0/200, 10154 Torino TO, Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Vestalia w/ Neel, Future Nomadz, Stefania Vos, Enea Pascal, Filippo Scorcucchi | Future Nomadz, Neel, Stefania Vos |
 | Sat, 17 Oct 2026 | SIAH x Abandoned Factory w/ Danny Wabbit, NYCTO, BLACK CROW, Distorted Planet | BLACK CROW, Danny Wabbit, Distorted Planet, NYCTO |
 | Sun, 18 Oct 2026 | DON'T BELIEVE THE HYPE - COSMIC Bunker | Daniele Baldelli, I-Robots |
 | Fri, 6 Nov 2026 | GENAU: ANNĒ (Blind Harmonies - Mutual Rytm / GR) | ANNĒ |
@@ -18,4 +17,4 @@ Bunker is a music venue in Turin listed on soundcheck. 5 upcoming gigs, with lin
 
 Via Niccolò Paganini, 0/200, 10154 Torino TO, Italy, Turin
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/bunker/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/bunker/)*

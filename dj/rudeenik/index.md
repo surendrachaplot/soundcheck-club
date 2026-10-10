@@ -1,6 +1,6 @@
 # RUDEE NIK
 
-RUDEE NIK is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Vertigo, Toronto on Fri, 9 Oct 2026.
+RUDEE NIK is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Vertigo, Toronto on Fri, 9 Oct 2026.
 
 RUDEE NIK is a house and tech house artist based in Canada, with 85 gigs on soundcheck across Montreal, Nantes and Toronto. Often billed alongside Kenny Glasgow, Greg Gow and Jonathan Rosa. Next up: Vertigo, Toronto on Fri 9 Oct.
 
@@ -13,6 +13,7 @@ RUDEE NIK is a house and tech house artist based in Canada, with 85 gigs on soun
 
 ## Recently played
 
+- Vertigo, Toronto · Fri, 9 Oct 2026
 - Vertigo, Toronto · Sat, 26 Sept 2026
 - Vertigo, Toronto · Fri, 11 Sept 2026
 - Vertigo, Toronto · Fri, 21 Aug 2026
@@ -20,10 +21,9 @@ RUDEE NIK is a house and tech house artist based in Canada, with 85 gigs on soun
 - Vertigo, Toronto · Fri, 17 Jul 2026
 - Vertigo, Toronto · Fri, 3 Jul 2026
 - Vertigo, Toronto · Tue, 30 Jun 2026
-- Vertigo, Toronto · Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Kenny Glasgow, Greg Gow, Jonathan Rosa
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rudeenik/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rudeenik/)*

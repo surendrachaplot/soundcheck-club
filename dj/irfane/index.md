@@ -1,13 +1,14 @@
 # Irfane
 
-Irfane is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Sunday Sunday, Mexico City on Sun, 11 Oct 2026.
+Irfane is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Loo Loo, Mexico City on Sat, 10 Oct 2026.
 
-Irfane is a house and disco artist based in France, with 19 gigs on soundcheck across Athens, Geneva, Ibiza and London and 6 more. Often billed alongside Breakbot, Busy P and Tatyana Jane. Next up: Sunday Sunday, Mexico City on Sun 11 Oct.
+Irfane is a house and disco artist based in France, with 20 gigs on soundcheck across Athens, Geneva, Ibiza and London and 6 more. Often billed alongside Breakbot, Busy P and Tatyana Jane. Next up: Loo Loo, Mexico City on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Loo Loo | Mexico City |
 | Sun, 11 Oct 2026 | Sunday Sunday | Mexico City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Irfane is a house and disco artist based in France, with 19 gigs on soundcheck a
 
 Breakbot, Busy P, Tatyana Jane
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irfane/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irfane/)*

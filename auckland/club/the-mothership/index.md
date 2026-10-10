@@ -1,15 +1,13 @@
 # The Mothership
 
-The Mothership is a music venue in Auckland with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Mariano Mellino – Auckland (Nueva Zelanda)" on Fri, 9 Oct 2026.
+The Mothership is a music venue in Auckland with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Sunset New Zealand presents: Candy Perreo Latin Party — Auckland" on Sat, 10 Oct 2026.
 
-The Mothership is a music venue in Auckland listed on soundcheck. 6 upcoming gigs, with line-ups including Mariano Mellino and Sam Divine. See dates, start times and who's playing. 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand.
+The Mothership is a music venue in Auckland listed on soundcheck. 4 upcoming gigs, with line-ups including Sam Divine. See dates, start times and who's playing. 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Mariano Mellino – Auckland (Nueva Zelanda) | Mariano Mellino |
-| Fri, 9 Oct 2026 | Mariano Mellino [Bedrock / Sudbeat / Audioholics] - Auckland 2026 | Mariano Mellino |
 | Sat, 10 Oct 2026 | Sunset New Zealand presents: Candy Perreo Latin Party — Auckland |  |
 | Sat, 28 Nov 2026 | Defected Auckland 2026 | Sam Divine |
 | Sat, 28 Nov 2026 | Defected Auckland 2026 | Sam Divine |
@@ -19,4 +17,4 @@ The Mothership is a music venue in Auckland listed on soundcheck. 6 upcoming gig
 
 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand, Auckland
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-mothership/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-mothership/)*

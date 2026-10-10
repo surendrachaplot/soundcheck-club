@@ -1,6 +1,6 @@
 # Debbie.
 
-Debbie. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at FOLD, London on Sat, 28 Nov 2026.
+Debbie. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at FOLD, London on Sat, 28 Nov 2026.
 
 Debbie. is a techno and house artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam, Berlin and London. Often billed alongside Bessie-Mae, DJ OT and Anabel Arroyo. Next up: FOLD, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Debbie. is a techno and house artist based in United Kingdom, with 25 gigs on so
 
 Bessie-Mae, DJ OT, Anabel Arroyo
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/debbie./)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/debbie./)*

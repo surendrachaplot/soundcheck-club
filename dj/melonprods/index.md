@@ -1,6 +1,6 @@
 # Melon
 
-Melon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sun, 25 Oct 2026.
+Melon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sun, 25 Oct 2026.
 
 Melon is a house and techno artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Budapest, Ghent and Hamburg. Often billed alongside Alexander Koning, Dimitri and Julien Simmons. Next up: THE OTHER SIDE, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Melon is a house and techno artist based in Netherlands, with 28 gigs on soundch
 
 Alexander Koning, Dimitri (1), Julien Simmons
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melonprods/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melonprods/)*

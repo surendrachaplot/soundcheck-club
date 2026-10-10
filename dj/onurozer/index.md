@@ -1,6 +1,6 @@
 # Onur Özer
 
-Onur Özer is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri, 9 Oct 2026.
+Onur Özer is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri, 9 Oct 2026.
 
 Onur Özer is a techno and house artist based in Germany, with 119 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Francesco Del Garda, Christian AB and Lumiere. Next up: Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri 9 Oct.
 
@@ -9,7 +9,6 @@ Onur Özer is a techno and house artist based in Germany, with 119 gigs on sound
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Les Beaux-Arts de Marseille - Inseamm. | Marseille |
-| Fri, 9 Oct 2026 | Cobalt Studios | Newcastle |
 | Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Sun, 25 Oct 2026 | Pllek | Amsterdam |
 | Fri, 30 Oct 2026 | TBA - Downtown LA | Los Angeles |
@@ -20,17 +19,17 @@ Onur Özer is a techno and house artist based in Germany, with 119 gigs on sound
 
 ## Recently played
 
+- Les Beaux-Arts de Marseille - Inseamm., Marseille · Fri, 9 Oct 2026
+- Cobalt Studios, Newcastle · Fri, 9 Oct 2026
 - Klub K4, Ljubljana · Fri, 2 Oct 2026
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
 - Cellar, London · Sun, 13 Sept 2026
 - Kapsule, Liverpool · Sat, 12 Sept 2026
 - CONTACT, Amsterdam · Sat, 5 Sept 2026
 - TBA - Secret Place, Marseille · Fri, 7 Aug 2026
-- Nido Marseille, Marseille · Thu, 6 Aug 2026
-- Arca, Milan · Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Francesco Del Garda, Christian AB, Lumiere
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onurozer/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onurozer/)*

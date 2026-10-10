@@ -1,6 +1,6 @@
 # Regal86
 
-Regal86 is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Topazdeluxe, Monterrey on Sat, 10 Oct 2026.
+Regal86 is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Topazdeluxe, Monterrey on Sat, 10 Oct 2026.
 
 Regal86 is a techno and club artist based in Mexico, with 127 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 44 more. Often billed alongside 1morning, 1OO1O and Gbenga. Next up: Topazdeluxe, Monterrey on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Regal86 is a techno and club artist based in Mexico, with 127 gigs on soundcheck
 
 1morning, 1OO1O, Gbenga
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/regal86/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/regal86/)*

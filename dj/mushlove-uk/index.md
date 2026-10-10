@@ -1,6 +1,6 @@
 # Mush Love (UK)
 
-Mush Love (UK) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Movers, Nottingham on Fri, 30 Oct 2026.
+Mush Love (UK) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Movers, Nottingham on Fri, 30 Oct 2026.
 
 Mush Love (UK) is a house and techno artist based in United Kingdom, with 27 gigs on soundcheck across Nottingham. Often billed alongside James Tristan, rPal and Evil Woman. Next up: Movers, Nottingham on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Mush Love (UK) is a house and techno artist based in United Kingdom, with 27 gig
 
 James Tristan, rPal, Evil Woman
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mushlove-uk/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mushlove-uk/)*

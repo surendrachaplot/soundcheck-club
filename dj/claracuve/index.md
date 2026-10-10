@@ -1,6 +1,6 @@
 # Clara Cuvé
 
-Clara Cuvé is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Fabrik, Madrid on Sun, 11 Oct 2026.
+Clara Cuvé is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Fabrik, Madrid on Sun, 11 Oct 2026.
 
 Clara Cuvé is a techno and house artist based in Germany, with 239 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Kobosil, I Hate Models and 999999999. Next up: Fabrik, Madrid on Sun 11 Oct.
 
@@ -36,4 +36,4 @@ Clara Cuvé is a techno and house artist based in Germany, with 239 gigs on soun
 
 Kobosil, I Hate Models, 999999999
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*

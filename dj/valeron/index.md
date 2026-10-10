@@ -1,6 +1,6 @@
 # Valeron
 
-Valeron is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Caaza, Athens on Fri, 16 Oct 2026.
+Valeron is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Caaza, Athens on Fri, 16 Oct 2026.
 
 Valeron is a house and afro house artist based in Greece, with 39 gigs on soundcheck across Amsterdam, Athens, Istanbul and London and 3 more. Often billed alongside Chris child, Tourist Ath and &ME. Next up: Caaza, Athens on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Valeron is a house and afro house artist based in Greece, with 39 gigs on soundc
 
 Chris child, Tourist Ath, &ME
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valeron/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valeron/)*

@@ -1,6 +1,6 @@
 # CamelPhat
 
-CamelPhat is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+CamelPhat is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 CamelPhat is a techno and house artist based in United Kingdom, with 213 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 42 more. Often billed alongside Layla Benitez, Massano and Hot Since 82. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -34,4 +34,4 @@ CamelPhat is a techno and house artist based in United Kingdom, with 213 gigs on
 
 Layla Benitez, Massano, Hot Since 82
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*

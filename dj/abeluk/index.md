@@ -1,13 +1,14 @@
 # ABEL (UK)
 
-ABEL (UK) is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at E1, London on Sat, 12 Dec 2026.
+ABEL (UK) is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at KOKO, London on Sat, 31 Oct 2026.
 
-ABEL (UK) is a techno and deep house artist based in United Kingdom, with 23 gigs on soundcheck across Ibiza and London. Often billed alongside James Hype (UK), Meduza and David Guetta. Next up: E1, London on Sat 12 Dec.
+ABEL (UK) is a techno and deep house artist based in United Kingdom, with 24 gigs on soundcheck across Ibiza and London. Often billed alongside James Hype (UK), Meduza and David Guetta. Next up: KOKO, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | KOKO | London |
 | Sat, 12 Dec 2026 | E1 | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ ABEL (UK) is a techno and deep house artist based in United Kingdom, with 23 gig
 
 James Hype (UK), Meduza, David Guetta
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abeluk/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abeluk/)*

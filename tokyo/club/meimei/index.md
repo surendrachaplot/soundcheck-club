@@ -1,6 +1,6 @@
 # MEIMEI
 
-MEIMEI is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. The next is "Kinectronics #3" on Sun, 11 Oct 2026.
+MEIMEI is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. The next is "Kinectronics #3" on Sun, 11 Oct 2026.
 
 MEIMEI is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including Ayana Pattra, Hackmarkt, molekühl and Nobuharu Morimoto and 1 more. See dates, start times and who's playing. 155-0031 Tokyo, Setagaya City, Kitazawa, 2−33−8 片柳第二ビル 3F MEIMEI.
 
@@ -14,4 +14,4 @@ MEIMEI is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line
 
 155-0031 Tokyo, Setagaya City, Kitazawa, 2−33−8 片柳第二ビル 3F MEIMEI, Tokyo
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/meimei/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/meimei/)*

@@ -1,6 +1,6 @@
 # Loud-Contact x Delirium pres.VORAL festival- Halloween Tres Xemeneies at Las Tres Chimeneas
 
-Loud-Contact x Delirium pres.VORAL festival- Halloween Tres Xemeneies at Las Tres Chimeneas on Sat 31 Oct, Barcelona. 10 artists: C.ru.z, Christian AB, John Talabot and Lumiere and 6 more. See the line-up on soundcheck.
+Loud-Contact x Delirium pres.VORAL festival- Halloween Tres Xemeneies at Las Tres Chimeneas on Sat 31 Oct, Barcelona. 11 artists: C.ru.z, Christian AB, Dr. Rubinstein and John Talabot and 7 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Loud-Contact x Delirium pres.VORAL festival- Halloween Tres Xemeneies at Las Tre
 
 - C.ru.z
 - Christian AB
+- Dr. Rubinstein
 - John Talabot
 - Lumiere
 - MALENA

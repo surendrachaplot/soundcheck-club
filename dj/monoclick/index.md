@@ -1,13 +1,14 @@
 # Monoclick
 
-Monoclick is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA, Los Angeles on Sun, 25 Oct 2026.
+Monoclick is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Bu Tea Den, Los Angeles on Fri, 23 Oct 2026.
 
-Monoclick is a house and minimal artist based in Hungary, with 87 gigs on soundcheck across Budapest, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Electric Boutique, Krane and James Houdini. Next up: TBA, Los Angeles on Sun 25 Oct.
+Monoclick is a house and minimal artist based in Hungary, with 88 gigs on soundcheck across Budapest, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Electric Boutique, Krane and James Houdini. Next up: Bu Tea Den, Los Angeles on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Bu Tea Den | Los Angeles |
 | Sun, 25 Oct 2026 | TBA | Los Angeles |
 | Fri, 20 Nov 2026 | Public Works | San Francisco/Oakland |
 
@@ -26,4 +27,4 @@ Monoclick is a house and minimal artist based in Hungary, with 87 gigs on soundc
 
 Electric Boutique, Krane, James Houdini
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monoclick/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monoclick/)*

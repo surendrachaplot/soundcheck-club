@@ -1,6 +1,6 @@
 # Shaleen
 
-Shaleen is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Signal, New York City on Fri, 9 Oct 2026.
+Shaleen is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Signal, New York City on Fri, 9 Oct 2026.
 
 Shaleen is a techno and house artist based in Germany, with 126 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 19 more. Often billed alongside Ellen Allien, JANEIN and DJ Europarking. Next up: Signal, New York City on Fri 9 Oct.
 
@@ -16,6 +16,7 @@ Shaleen is a techno and house artist based in Germany, with 126 gigs on soundche
 
 ## Recently played
 
+- Signal, New York City · Fri, 9 Oct 2026
 - RADION, Amsterdam · Fri, 18 Sept 2026
 - RADION, Amsterdam · Fri, 18 Sept 2026
 - Tresor / Globus, Berlin · Fri, 4 Sept 2026
@@ -23,10 +24,9 @@ Shaleen is a techno and house artist based in Germany, with 126 gigs on soundche
 - Südpol, Hamburg · Fri, 19 Jun 2026
 - Tresor / Globus, Berlin · Sat, 6 Jun 2026
 - RSO.BERLIN, Berlin · Fri, 1 May 2026
-- Fridas Pier, Stuttgart · Thu, 30 Apr 2026
 
 ## Shares bills with
 
 Ellen Allien, JANEIN, DJ Europarking
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaleen/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaleen/)*

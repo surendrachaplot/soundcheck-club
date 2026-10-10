@@ -1,6 +1,6 @@
 # Motorista Studio
 
-Motorista Studio is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "ROTE8: The Advent (UK) & Lewis Fautzi (PRT)" on Sat, 10 Oct 2026.
+Motorista Studio is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "ROTE8: The Advent (UK) & Lewis Fautzi (PRT)" on Sat, 10 Oct 2026.
 
 Motorista Studio is a music venue in Toronto listed on soundcheck. 3 upcoming gigs, with line-ups including 666.pastel, Lee Osborne, Lewis Fautzi and Marivs and 2 more. See dates, start times and who's playing. 25 Commercial Rd, Unit 9, East York, ON, M4G 1Z3.
 
@@ -16,4 +16,4 @@ Motorista Studio is a music venue in Toronto listed on soundcheck. 3 upcoming gi
 
 25 Commercial Rd, Unit 9, East York, ON, M4G 1Z3, Toronto
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/motorista-studio/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/motorista-studio/)*

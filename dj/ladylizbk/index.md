@@ -1,6 +1,6 @@
 # LADYLIZBK
 
-LADYLIZBK is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Sleepwalk, New York City on Fri, 16 Oct 2026.
+LADYLIZBK is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Sleepwalk, New York City on Fri, 16 Oct 2026.
 
 LADYLIZBK is a house and tech house artist based in United States of America, with 8 gigs on soundcheck across New York City. Often billed alongside DJ Courtney K, Pjay and Craft. Next up: Sleepwalk, New York City on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ LADYLIZBK is a house and tech house artist based in United States of America, wi
 
 DJ Courtney K, Pjay, Craft
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladylizbk/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladylizbk/)*

@@ -1,6 +1,6 @@
 # MADGRRL
 
-MADGRRL is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Void Studios, Denver on Sat, 10 Oct 2026.
+MADGRRL is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Void Studios, Denver on Sat, 10 Oct 2026.
 
 MADGRRL is a techno and industrial artist based in United States of America, with 19 gigs on soundcheck across Dallas Fort Worth, Denver, Los Angeles and Miami and 6 more. Often billed alongside I Hate Models, Azyr and Chris Lake. Next up: TBA - Void Studios, Denver on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ MADGRRL is a techno and industrial artist based in United States of America, wit
 
 I Hate Models, Azyr, Chris Lake
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madgrrl/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madgrrl/)*

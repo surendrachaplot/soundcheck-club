@@ -1,6 +1,6 @@
 # Catch One
 
-Catch One is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Subculture Party: Freakshow!" on Sat, 10 Oct 2026.
+Catch One is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Subculture Party: Freakshow!" on Sat, 10 Oct 2026.
 
 Catch One is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs, with line-ups including Cali, Emanate and Flabbergast. See dates, start times and who's playing. 4067 W Pico Blvd, Los Angeles, CA 90019.
 
@@ -18,4 +18,4 @@ Catch One is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs,
 
 4067 W Pico Blvd, Los Angeles, CA 90019, Los Angeles
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/catch-one/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/catch-one/)*

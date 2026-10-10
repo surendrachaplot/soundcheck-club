@@ -1,6 +1,6 @@
 # W. Jeremy
 
-W. Jeremy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Club Rawhide, New York City on Sat, 10 Oct 2026.
+W. Jeremy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Club Rawhide, New York City on Sat, 10 Oct 2026.
 
 W. Jeremy is a house and techno artist based in United States of America, with 30 gigs on soundcheck across New York City. Often billed alongside Amber Valentine, Charlene and Jeffrey Sfire. Next up: Club Rawhide, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ W. Jeremy is a house and techno artist based in United States of America, with 3
 
 Amber Valentine, Charlene, Jeffrey Sfire
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/w.jeremy/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/w.jeremy/)*

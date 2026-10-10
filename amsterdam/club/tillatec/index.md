@@ -1,14 +1,13 @@
 # TILLATEC
 
-TILLATEC is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Horse Meat Disco" on Fri, 9 Oct 2026.
+TILLATEC is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "SIDERAL x Syntax Error" on Sat, 10 Oct 2026.
 
-TILLATEC is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including Justine Perry, Afra, Alexia Glensy and Andy Garvey and 2 more. See dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
+TILLATEC is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including Justine Perry, Afra, Alexia Glensy and Andy Garvey and 2 more. See dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Horse Meat Disco | Horse Meat Disco, Tom Trago |
 | Sat, 10 Oct 2026 | SIDERAL x Syntax Error |  |
 | Fri, 16 Oct 2026 | TILLAVISION | Jackie Ong, Jay Jay Revlon, LYLO (NL), ZOBAYDA |
 | Sat, 17 Oct 2026 | Adonis | Fancy Shews, Kasra V, Perrin, Vuur |
@@ -18,9 +17,10 @@ TILLATEC is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, w
 | Fri, 23 Oct 2026 | Disturbia x Soundcora - ADE 2026 | Andy Garvey, Andy Martin, Anika Kunst, Cassy, Clarisa Kimskii, Eduardo de la Calle, Efdemin, HERMETICA, John Talabot, Judy (ES), Konduku, Makam, Mario Picosso, Mystral, Nacho, Raquel Cruz, Shoal, Valody |
 | Fri, 23 Oct 2026 | Vinylism x ADE | Afra, Ellen Allien, Freddy K, Laure Croft, Nene H, Parrish Smith, Serge, The Lady Machine |
 | Sat, 24 Oct 2026 | Home Again x Sound Metaphors x Basement Love Fundraiser | Bambounou, Black Loops, Blame Anthony, Butterhands, Cinthie, Dan Shake, David Vunk, Doppelgang, Doudou MD, Duncan Thomas, Giammarco Orsini, Merve, Natalie Robinson, PNNY, Simone de Kunovich, Soulidan, Sound Metaphors Djs, Thabo, Tiago Oudman, Tom Trago, bullet tooth |
+| Sat, 24 Oct 2026 | TILLATEC invites IsBurning, Cruise, Mala Junta, tINI AND THE GANG |  |
 
 ## Address
 
 Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam, Amsterdam
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*

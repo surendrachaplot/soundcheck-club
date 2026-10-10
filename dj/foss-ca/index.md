@@ -1,14 +1,15 @@
 # FØSS
 
-FØSS is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Ciało, Wroclaw on Sat, 10 Oct 2026.
+FØSS is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Ciało, Wroclaw on Sat, 10 Oct 2026.
 
-FØSS is a techno and hardcore artist based in Canada, with 41 gigs on soundcheck across Antwerp, Berlin, Brussels and Cologne and 10 more. Often billed alongside Fenrick, B2 and DURDENHAUER. Next up: Ciało, Wroclaw on Sat 10 Oct.
+FØSS is a techno and hardcore artist based in Canada, with 42 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Fenrick, B2 and DURDENHAUER. Next up: Ciało, Wroclaw on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Ciało | Wroclaw |
+| Fri, 30 Oct 2026 | M7 Club | Barcelona |
 | Fri, 27 Nov 2026 | Strand DC | Washington DC |
 
 ## Recently played
@@ -26,4 +27,4 @@ FØSS is a techno and hardcore artist based in Canada, with 41 gigs on soundchec
 
 Fenrick, B2 (1), DURDENHAUER
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foss-ca/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foss-ca/)*

@@ -1,6 +1,6 @@
 # Laura Charlier
 
-Laura Charlier is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Willemeen, Netherlands on Sat, 10 Oct 2026.
+Laura Charlier is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Willemeen, Netherlands on Sat, 10 Oct 2026.
 
 Laura Charlier is a techno and trance artist based in Belgium, with 33 gigs on soundcheck across Antwerp, Brussels, Ghent and Netherlands. Often billed alongside Makoveev, Amalie and Initial Code. Next up: Willemeen, Netherlands on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Laura Charlier is a techno and trance artist based in Belgium, with 33 gigs on s
 
 Makoveev, Amalie, Initial Code
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauracharlier/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauracharlier/)*

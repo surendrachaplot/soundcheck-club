@@ -1,6 +1,6 @@
 # OYKNI
 
-OYKNI is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at or, Tokyo on Sat, 17 Oct 2026.
+OYKNI is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at or, Tokyo on Sat, 17 Oct 2026.
 
 OYKNI is an electro and house artist, with 40 gigs on soundcheck across Seoul and Tokyo. Often billed alongside ANSR, Voiid Alpha and XXOK. Next up: or, Tokyo on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ OYKNI is an electro and house artist, with 40 gigs on soundcheck across Seoul an
 
 ANSR, Voiid Alpha, XXOK
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oykni/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oykni/)*

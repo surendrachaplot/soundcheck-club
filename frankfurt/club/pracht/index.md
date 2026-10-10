@@ -1,14 +1,13 @@
 # Pracht
 
-Pracht is a music venue in Frankfurt with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Pracht PRES. with Predex & YARI" on Fri, 9 Oct 2026.
+Pracht is a music venue in Frankfurt with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Pracht B-DAY with Lexer, Clavia., Yan Deno" on Sat, 10 Oct 2026.
 
-Pracht is a music venue in Frankfurt listed on soundcheck. 8 upcoming gigs, with line-ups including Andrale, Andrea Castells, Benja Asima and Claudius (DE) and 2 more. See dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
+Pracht is a music venue in Frankfurt listed on soundcheck. 7 upcoming gigs, with line-ups including Andrale, Andrea Castells, Benja Asima and Claudius (DE) and 2 more. See dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Pracht PRES. with Predex & YARI | Predex |
 | Sat, 10 Oct 2026 | Pracht B-DAY with Lexer, Clavia., Yan Deno | Lexer |
 | Fri, 16 Oct 2026 | Pracht PRES. with Daughter In Law, RIHANI & BRAUN, NØAH | Daughter In Law |
 | Sat, 17 Oct 2026 | PrachtNACHT with Einmusik, Claudius, stefan mueller // ᴛɪᴄᴋᴇᴛꜱ ᴏɴ ꜱᴀʟᴇ ɴᴏᴡ | Claudius (DE), Einmusik, stefan mueller |
@@ -21,4 +20,4 @@ Pracht is a music venue in Frankfurt listed on soundcheck. 8 upcoming gigs, with
 
 Niddastr. 54, 60327 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*

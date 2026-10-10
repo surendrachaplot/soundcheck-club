@@ -1,11 +1,11 @@
-# Marie Davidson (LIVE), Xeno & Oaklander (LIVE), Andi (DJ Set) (concert) at Xanadu
+# Marie Davidson (LIVE), Xeno & Oaklander (LIVE), Andi (DJ Set) (concert) at Saint Vitus
 
-Marie Davidson (LIVE), Xeno & Oaklander (LIVE), Andi (DJ Set) (concert) at Xanadu on Fri 16 Oct, New York City. 3 artists: Andi, Marie Davidson and Xeno & Oaklander. Deep House and Electronica. See the line-up on soundcheck.
+Marie Davidson (LIVE), Xeno & Oaklander (LIVE), Andi (DJ Set) (concert) at Saint Vitus on Fri 16 Oct, New York City. 3 artists: Andi, Marie Davidson and Xeno & Oaklander. Deep House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 16 Oct 2026 |
-| Venue | Xanadu |
+| Venue | Saint Vitus |
 | City | New York City |
 
 ## Line-up

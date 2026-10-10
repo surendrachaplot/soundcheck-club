@@ -1,6 +1,6 @@
 # Seedy J
 
-Seedy J is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Roberta's, New York City on Sat, 31 Oct 2026.
+Seedy J is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Roberta's, New York City on Sat, 31 Oct 2026.
 
 Seedy J is a balearic and house artist based in United States of America, with 55 gigs on soundcheck across Mexico City, New York City, Philadelphia and San Francisco/Oakland and 1 more. Often billed alongside Fernelly, Brian Vino and Extra Meesh. Next up: Roberta's, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Seedy J is a balearic and house artist based in United States of America, with 5
 
 Fernelly, Brian Vino, Extra Meesh
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seedyj/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seedyj/)*

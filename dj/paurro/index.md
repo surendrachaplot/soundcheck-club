@@ -1,14 +1,13 @@
 # PAURRO
 
-PAURRO is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at FOLD, London on Fri, 9 Oct 2026.
+PAURRO is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 10 Oct 2026.
 
-PAURRO is a house and techno artist based in Mexico, with 182 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Ranma Entero, Kodemul and Valeriana. Next up: FOLD, London on Fri 9 Oct.
+PAURRO is a house and techno artist based in Mexico, with 182 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Ranma Entero, Kodemul and Valeriana. Next up: La Terrrazza, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | FOLD | London |
 | Sat, 10 Oct 2026 | La Terrrazza | Barcelona |
 | Fri, 16 Oct 2026 | Iter Tenerife | Canary-islands |
 | Sat, 24 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
@@ -18,6 +17,7 @@ PAURRO is a house and techno artist based in Mexico, with 182 gigs on soundcheck
 
 ## Recently played
 
+- FOLD, London · Fri, 9 Oct 2026
 - Virage, Paris · Fri, 25 Sept 2026
 - Camp Kennybrook, New York City · Thu, 10 Sept 2026
 - Signal, New York City · Sun, 23 Aug 2026
@@ -25,10 +25,9 @@ PAURRO is a house and techno artist based in Mexico, with 182 gigs on soundcheck
 - smartbar, Chicago · Fri, 21 Aug 2026
 - OHM, Berlin · Sat, 15 Aug 2026
 - fabric, London · Sat, 1 Aug 2026
-- Tresor / Globus, Berlin · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Ranma Entero, Kodemul, Valeriana
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paurro/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paurro/)*

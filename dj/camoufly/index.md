@@ -1,6 +1,6 @@
 # camoufly
 
-camoufly is a House and Garage artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Racket Space, Dublin on Sat, 10 Oct 2026.
+camoufly is a House and Garage artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Racket Space, Dublin on Sat, 10 Oct 2026.
 
 camoufly is a house and garage artist based in Italy, with 60 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 25 more. Often billed alongside Oppidan, ATRIP and Arthi. Next up: The Racket Space, Dublin on Sat 10 Oct.
 
@@ -32,4 +32,4 @@ camoufly is a house and garage artist based in Italy, with 60 gigs on soundcheck
 
 Oppidan, ATRIP, Arthi
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camoufly/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camoufly/)*

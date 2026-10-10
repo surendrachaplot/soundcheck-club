@@ -1,6 +1,6 @@
 # Sans Soleil w/ Joe Toner + Tom Bonheur at Sans Soleil
 
-Sans Soleil w/ Joe Toner + Tom Bonheur on Sat 10 Oct, Montreal. 1 artist: Joe Toner. See the line-up on soundcheck.
+Sans Soleil w/ Joe Toner + Tom Bonheur on Sat 10 Oct, Montreal. 2 artists: Joe Toner and Tom Bonheur. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Sans Soleil w/ Joe Toner + Tom Bonheur on Sat 10 Oct, Montreal. 1 artist: Joe To
 ## Line-up
 
 - Joe Toner
+- Tom Bonheur
 
 *Source: [soundcheck](https://soundcheck.club/e/2552921-sans-soleil-w-joe-toner-tom-bonheur-at-sans-soleil/)*

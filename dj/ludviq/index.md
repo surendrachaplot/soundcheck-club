@@ -1,6 +1,6 @@
 # Ludviq
 
-Ludviq is a House and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Switch Bar, Barcelona on Sun, 11 Oct 2026.
+Ludviq is a House and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Switch Bar, Barcelona on Sun, 11 Oct 2026.
 
 Ludviq is a house and downtempo artist based in Mexico, with 62 gigs on soundcheck across Barcelona, Berlin, Lyon and Madrid and 4 more. Often billed alongside Heinech, sergione and Intruso. Next up: Switch Bar, Barcelona on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Ludviq is a house and downtempo artist based in Mexico, with 62 gigs on soundche
 
 Heinech, sergione, Intruso
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ludviq/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ludviq/)*

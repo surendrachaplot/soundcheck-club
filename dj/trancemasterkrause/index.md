@@ -1,8 +1,8 @@
 # Trancemaster Krause
 
-Trancemaster Krause is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Junkyard Dortmund, Dortmund-essen on Sat, 10 Oct 2026.
+Trancemaster Krause is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Junkyard Dortmund, Dortmund-essen on Sat, 10 Oct 2026.
 
-Trancemaster Krause is a techno and trance artist based in Germany, with 203 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 39 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: Junkyard Dortmund, Dortmund Essen on Sat 10 Oct.
+Trancemaster Krause is a techno and trance artist based in Germany, with 204 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 39 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: Junkyard Dortmund, Dortmund Essen on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Trancemaster Krause is a techno and trance artist based in Germany, with 203 gig
 | Sat, 10 Oct 2026 | Junkyard Dortmund | Dortmund-essen |
 | Wed, 21 Oct 2026 | Oosterbar | Amsterdam |
 | Sat, 24 Oct 2026 | The Bulldog Palace | Amsterdam |
+| Sun, 25 Oct 2026 | Thuishaven | Amsterdam |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 13 Nov 2026 | Kassablanca | Jena |
 | Sat, 14 Nov 2026 | Hans Bunte Areal | Freiburg |
@@ -19,7 +20,6 @@ Trancemaster Krause is a techno and trance artist based in Germany, with 203 gig
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
 | Sat, 5 Dec 2026 | Flanders Expo Centre | Ghent |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
-| Fri, 26 Feb 2027 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Trancemaster Krause is a techno and trance artist based in Germany, with 203 gig
 
 Cleopard2000, Mika Heggemann, Justin Tinderdate
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*

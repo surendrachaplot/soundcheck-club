@@ -1,6 +1,6 @@
 # DIGUES
 
-DIGUES is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at El Internacional, Madrid on Sun, 11 Oct 2026.
+DIGUES is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at El Internacional, Madrid on Sun, 11 Oct 2026.
 
 DIGUES is a house and electronica artist based in Spain, with 47 gigs on soundcheck across Barcelona, Madrid and Mexico City. Often billed alongside Yahaira, DHERMIDA and Le Nomad. Next up: El Internacional, Madrid on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ DIGUES is a house and electronica artist based in Spain, with 47 gigs on soundch
 
 Yahaira, DHERMIDA, Le Nomad
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digues/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digues/)*

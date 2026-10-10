@@ -1,6 +1,6 @@
 # Steve Parry
 
-Steve Parry is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Veronica Schip, Amsterdam on Thu, 22 Oct 2026.
+Steve Parry is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Veronica Schip, Amsterdam on Thu, 22 Oct 2026.
 
 Steve Parry is a house and progressive house artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 7 more. Often billed alongside Dave Seaman, Just Her and Quivver. Next up: Veronica Schip, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Steve Parry is a house and progressive house artist based in United Kingdom, wit
 
 Dave Seaman, Just Her, Quivver
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steveparry/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steveparry/)*

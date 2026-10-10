@@ -1,6 +1,6 @@
 # MIRO (DE)
 
-MIRO (DE) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Distillery N17, London on Sat, 7 Nov 2026.
+MIRO (DE) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Distillery N17, London on Sat, 7 Nov 2026.
 
 MIRO (DE) is a house and techno artist based in Germany, with 34 gigs on soundcheck across Düsseldorf, London, Madrid and Miami and 5 more. Often billed alongside Edwin (DE), DJ Floppy Disk and Edwin. Next up: Distillery N17, London on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ MIRO (DE) is a house and techno artist based in Germany, with 34 gigs on soundch
 
 Edwin (DE), DJ Floppy Disk, Edwin
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miro-de/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miro-de/)*

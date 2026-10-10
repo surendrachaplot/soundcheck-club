@@ -1,6 +1,6 @@
 # Hovsep (AM)
 
-Hovsep (AM) is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Unit 58, London on Fri, 9 Oct 2026.
+Hovsep (AM) is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Unit 58, London on Fri, 9 Oct 2026.
 
 Hovsep (AM) is an experimental and electronica artist based in Armenia, with 6 gigs on soundcheck across Glasgow, London and Paris. Often billed alongside Mujuice, Salena and acidhousewife3000. Next up: Unit 58, London on Fri 9 Oct.
 
@@ -13,6 +13,7 @@ Hovsep (AM) is an experimental and electronica artist based in Armenia, with 6 g
 
 ## Recently played
 
+- Unit 58, London · Fri, 9 Oct 2026
 - Mishmish, Paris · Sat, 27 Jun 2026
 - The Marquee Moon, London · Fri, 6 Mar 2026
 - EXIT Glasgow, Glasgow · Thu, 5 Jun 2025
@@ -22,4 +23,4 @@ Hovsep (AM) is an experimental and electronica artist based in Armenia, with 6 g
 
 Mujuice, Salena, acidhousewife3000
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hovsep-am/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hovsep-am/)*

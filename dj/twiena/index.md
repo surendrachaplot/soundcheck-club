@@ -1,8 +1,8 @@
 # TWIENA
 
-TWIENA is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+TWIENA is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
-TWIENA is a techno and house artist based in Netherlands, with 126 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Doppelgang, Mary Lake and Faustin (NL). Next up: Cockatoo Island, Sydney on Sun 4 Oct.
+TWIENA is a techno and house artist based in Netherlands, with 126 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Doppelgang, Faustin (NL) and Mary Lake. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -28,6 +28,6 @@ TWIENA is a techno and house artist based in Netherlands, with 126 gigs on sound
 
 ## Shares bills with
 
-Doppelgang, Mary Lake, Faustin (NL)
+Doppelgang, Faustin (NL), Mary Lake
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twiena/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twiena/)*

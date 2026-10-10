@@ -1,6 +1,6 @@
 # SATURNSARii
 
-SATURNSARii is a Techno and Reggaeton artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+SATURNSARii is a Techno and Reggaeton artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 SATURNSARii is a techno and reggaeton artist based in United States of America, with 114 gigs on soundcheck across Los Angeles, Miami and New York City. Often billed alongside v1fro, Marie Qrie and Berrakka. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ SATURNSARii is a techno and reggaeton artist based in United States of America, 
 
 v1fro, Marie Qrie, Berrakka
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saturnsarii/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saturnsarii/)*

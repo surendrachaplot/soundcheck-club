@@ -1,6 +1,6 @@
 # Optical
 
-Optical is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at XOYO, London on Sat, 7 Nov 2026.
+Optical is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at XOYO, London on Sat, 7 Nov 2026.
 
 Optical is a drum & bass and jungle artist based in United Kingdom, with 40 gigs on soundcheck across Bali, Berlin, Boston and Brighton and 16 more. Often billed alongside Ed Rush, Audio and Matrix. Next up: XOYO, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Optical is a drum & bass and jungle artist based in United Kingdom, with 40 gigs
 
 Ed Rush, Audio, Matrix
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/optical/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/optical/)*

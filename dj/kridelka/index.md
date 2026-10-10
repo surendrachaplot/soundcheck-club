@@ -1,6 +1,6 @@
 # Kridelka
 
-Kridelka is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Vino Disco, Montreal on Sun, 11 Oct 2026.
+Kridelka is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Vino Disco, Montreal on Sun, 11 Oct 2026.
 
 Kridelka is a house and disco artist, with 14 gigs on soundcheck across Montreal. Often billed alongside Bolarinho, Burn Baby and DJ InYourFace. Next up: Vino Disco, Montreal on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Kridelka is a house and disco artist, with 14 gigs on soundcheck across Montreal
 
 Bolarinho, Burn Baby, DJ InYourFace
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kridelka/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kridelka/)*

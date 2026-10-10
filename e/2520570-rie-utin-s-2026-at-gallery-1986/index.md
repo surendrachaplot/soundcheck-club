@@ -16,7 +16,7 @@ RIEŠUTINĖS 2026 at Gallery 1986 on Fri 16 Oct, Vilnius. 8 artists: Aiste Regin
 - RifRaf
 - Roe Deers
 - Satoshi Tomiie
-- Shimon
+- Sepp
 - Simas Boo
 
 *Source: [soundcheck](https://soundcheck.club/e/2520570-rie-utin-s-2026-at-gallery-1986/)*

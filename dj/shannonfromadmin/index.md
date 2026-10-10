@@ -1,6 +1,6 @@
 # Shannon From Admin
 
-Shannon From Admin is a Techno and Footwork artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+Shannon From Admin is a Techno and Footwork artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 Shannon From Admin is a techno and footwork artist based in United Kingdom, with 19 gigs on soundcheck across London, Manchester, North and Sheffield. Often billed alongside Gracie T, colecta and MYNA. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -12,6 +12,7 @@ Shannon From Admin is a techno and footwork artist based in United Kingdom, with
 
 ## Recently played
 
+- TBA - Multiple Venues across Sheffield & Rotherham, North · Fri, 9 Oct 2026
 - The Peer Hat, Manchester · Sat, 19 Sept 2026
 - Hope Works, Sheffield · Sat, 22 Feb 2025
 - Plot 22, Sheffield · Sat, 22 Feb 2025
@@ -19,10 +20,9 @@ Shannon From Admin is a techno and footwork artist based in United Kingdom, with
 - Soup, Manchester · Thu, 28 Nov 2024
 - Hope Works, Sheffield · Fri, 11 Oct 2024
 - Gut Level, Sheffield · Sat, 27 Jul 2024
-- The DBA, Manchester · Fri, 19 Apr 2024
 
 ## Shares bills with
 
 Gracie T, colecta, MYNA
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shannonfromadmin/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shannonfromadmin/)*

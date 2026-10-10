@@ -1,14 +1,13 @@
 # Boss Priester
 
-Boss Priester is a House and Tech House artist with 15 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Cabaret Voltaire, Edinburgh on Fri, 9 Oct 2026.
+Boss Priester is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Hazy Club, Sheffield on Sat, 10 Oct 2026.
 
-Boss Priester is a house and tech house artist based in Netherlands, with 112 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside Michel de Hey, Benny Rodrigues and Hidde van Wee. Next up: Cabaret Voltaire, Edinburgh on Fri 9 Oct.
+Boss Priester is a house and tech house artist based in Netherlands, with 112 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside Michel de Hey, Benny Rodrigues and Hidde van Wee. Next up: Hazy Club, Sheffield on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Cabaret Voltaire | Edinburgh |
 | Sat, 10 Oct 2026 | Hazy Club | Sheffield |
 | Fri, 16 Oct 2026 | NX Newcastle | Newcastle |
 | Sat, 17 Oct 2026 | 11 Bromley Street | Birmingham |
@@ -20,9 +19,11 @@ Boss Priester is a house and tech house artist based in Netherlands, with 112 gi
 | Sat, 31 Oct 2026 | Mint Warehouse | Leeds |
 | Fri, 13 Nov 2026 | SWG3 | Glasgow |
 | Fri, 13 Nov 2026 | SWG3 | Glasgow |
+| Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
+- Cabaret Voltaire, Edinburgh · Fri, 9 Oct 2026
 - 528 Ibiza, Ibiza · Sun, 4 Oct 2026
 - Cova Santa, Ibiza · Tue, 29 Sept 2026
 - Thuishaven, Amsterdam · Sun, 27 Sept 2026
@@ -30,10 +31,9 @@ Boss Priester is a house and tech house artist based in Netherlands, with 112 gi
 - UNO MALTA, Malta · Thu, 17 Sept 2026
 - Studio 338, London · Sat, 12 Sept 2026
 - The Loft, Manchester · Sat, 5 Sept 2026
-- 528 Ibiza, Ibiza · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Michel de Hey, Benny Rodrigues, Hidde van Wee
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bosspriester/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bosspriester/)*

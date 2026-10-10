@@ -1,6 +1,6 @@
 # Avo (ES)
 
-Avo (ES) is a Electronica and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Cadavra, Madrid on Fri, 23 Oct 2026.
+Avo (ES) is a Electronica and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Cadavra, Madrid on Fri, 23 Oct 2026.
 
 Avo (ES) is an electronica and house artist based in Spain, with 73 gigs on soundcheck across Barcelona, Berlin, Chicago and London and 7 more. Often billed alongside Cesc (ES), DANIL0 and Abdulla A.. Next up: Cadavra, Madrid on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Avo (ES) is an electronica and house artist based in Spain, with 73 gigs on soun
 
 Cesc (ES), DANIL0, Abdulla A.
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avo-es/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avo-es/)*

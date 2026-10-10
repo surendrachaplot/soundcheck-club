@@ -1,6 +1,6 @@
 # Syd (2)
 
-Syd (2) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Marble Bar, Detroit on Sat, 10 Oct 2026.
+Syd (2) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Marble Bar, Detroit on Sat, 10 Oct 2026.
 
 Syd is a bass and techno artist based in United States of America, with 9 gigs on soundcheck across Detroit and New York City. Often billed alongside Garrison XR, Fullbodydurag and Planet KaiA. Next up: Marble Bar, Detroit on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Syd is a bass and techno artist based in United States of America, with 9 gigs o
 
 Garrison XR, Fullbodydurag, Planet KaiA
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syd-2/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syd-2/)*

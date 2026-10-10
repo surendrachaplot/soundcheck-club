@@ -1,6 +1,6 @@
 # Steve Angello
 
-Steve Angello is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 16 Oct 2026.
+Steve Angello is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 16 Oct 2026.
 
 Steve Angello is a house and progressive house artist based in Sweden, with 21 gigs on soundcheck across Austin, Boston, Buenos Aires and Chicago and 14 more. Often billed alongside Alok, Andy C and Benny Benassi. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Steve Angello is a house and progressive house artist based in Sweden, with 21 g
 
 Alok, Andy C, Benny Benassi
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steveangello/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steveangello/)*

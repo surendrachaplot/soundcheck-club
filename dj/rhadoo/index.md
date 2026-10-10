@@ -1,6 +1,6 @@
 # Rhadoo
 
-Rhadoo is a Minimal and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri, 9 Oct 2026.
+Rhadoo is a Minimal and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri, 9 Oct 2026.
 
 Rhadoo is a minimal and house artist based in Romania, with 187 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Petre Inspirescu, Raresh and RPR Soundsystem. Next up: Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri 9 Oct.
 
@@ -20,6 +20,7 @@ Rhadoo is a minimal and house artist based in Romania, with 187 gigs on soundche
 
 ## Recently played
 
+- Les Beaux-Arts de Marseille - Inseamm., Marseille · Fri, 9 Oct 2026
 - TBA, Central · Fri, 2 Oct 2026
 - Herdade do Aguilhão, Lisbon · Fri, 2 Oct 2026
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
@@ -27,10 +28,9 @@ Rhadoo is a minimal and house artist based in Romania, with 187 gigs on soundche
 - Camp Kennybrook, New York City · Thu, 10 Sept 2026
 - DC-10, Ibiza · Mon, 7 Sept 2026
 - Club der Visionaere, Berlin · Sat, 29 Aug 2026
-- Supermarket, Zurich · Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Petre Inspirescu, Raresh, RPR Soundsystem
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*

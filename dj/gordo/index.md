@@ -1,13 +1,15 @@
 # Gordo
 
-Gordo is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Gordo is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Pure Nightclub, San Francisco/Oakland on Sat, 17 Oct 2026.
 
-Gordo is a house and tech house artist based in Guatemala, with 112 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 29 more. Often billed alongside Marco Carola, Wade and HoneyLuv. Next up: Factory Town, Miami on Wed 2 Dec.
+Gordo is a house and tech house artist based in Guatemala, with 114 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 29 more. Often billed alongside Marco Carola, Wade and HoneyLuv. Next up: Pure Nightclub, San Francisco/Oakland on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Pure Nightclub | San Francisco/Oakland |
+| Fri, 30 Oct 2026 | E11EVEN MIAMI | Miami |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
 
@@ -26,4 +28,4 @@ Gordo is a house and tech house artist based in Guatemala, with 112 gigs on soun
 
 Marco Carola, Wade, HoneyLuv
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gordo/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gordo/)*

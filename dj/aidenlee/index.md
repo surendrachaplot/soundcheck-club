@@ -1,6 +1,6 @@
 # Aiden Lee
 
-Aiden Lee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Asia Publication Culture & Information Center, Seoul on Sat, 10 Oct 2026.
+Aiden Lee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Asia Publication Culture & Information Center, Seoul on Sat, 10 Oct 2026.
 
 Aiden Lee is a techno and house artist based in South Korea, with 11 gigs on soundcheck across Malta and Seoul. Often billed alongside cuprum, 01 and Mingsturn. Next up: Asia Publication Culture & Information Center, Seoul on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Aiden Lee is a techno and house artist based in South Korea, with 11 gigs on sou
 
 cuprum, 01 (1), Mingsturn
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aidenlee/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aidenlee/)*

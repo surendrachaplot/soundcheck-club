@@ -1,6 +1,6 @@
 # PAX (2)
 
-PAX (2) is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Chausseestrasse 131, Berlin on Sat, 10 Oct 2026.
+PAX (2) is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Chausseestrasse 131, Berlin on Sat, 10 Oct 2026.
 
 PAX is a techno and experimental artist based in Argentina, with 49 gigs on soundcheck across Berlin, Leipzig, London and Los Angeles and 5 more. Often billed alongside CUNT REMEMBER, Reinhaudt and Midnight Climax. Next up: Chausseestrasse 131, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ PAX is a techno and experimental artist based in Argentina, with 49 gigs on soun
 
 CUNT REMEMBER, Reinhaudt, Midnight Climax
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pax-2/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pax-2/)*

@@ -1,15 +1,13 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 23 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Klub Verboten x LONDON" on Fri, 9 Oct 2026.
+NUMBER 90 LONDON is a music venue in London with 21 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "London 27 (Launch)" on Sat, 10 Oct 2026.
 
-NUMBER 90 LONDON is a music venue in London listed on soundcheck. 23 upcoming gigs, with line-ups including 1BYAKKO, Mariiin, Ruby SD and Alisdair and 2 more. See dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
+NUMBER 90 LONDON is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including 1BYAKKO, Mariiin, Ruby SD and Alisdair and 2 more. See dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Klub Verboten x LONDON | Desiree', Jeneva, Sybil, TSUNIMAN |
-| Fri, 9 Oct 2026 | Selective Hearing ➜ Number 90 (Bar): FREE ENTRY | Ellzo, Ize (1), Lewis Woodham, Tenzin |
 | Sat, 10 Oct 2026 | London 27 (Launch) | Colin Dale, Joe Le Groove |
 | Thu, 15 Oct 2026 | Mixmag Lab London with Eris Drew & Octo Octa as Alchemical Sisters | Eris Drew, Octo Octa |
 | Fri, 16 Oct 2026 | 160 Unity presents: London Is Burning 2 | Big Dope P, CA$TLE, CRAIC DAVID, DJ Slugo, Goldman, Nectax, Princess Xixi, SANA, Seb (Tropical Waste), melba |
@@ -18,9 +16,11 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 23 upcoming gi
 | Fri, 23 Oct 2026 | Lens: Moving Mad UK Tour - London | Lens (2) |
 | Sat, 24 Oct 2026 | Twinspinsz 𑣲⋆｡˚ Jackyboom & Residents | Danté, FITS ME FUNNY, Jackyboom, marmarmar |
 | Sat, 24 Oct 2026 | bubble.ldn presents Daniel Poli & Heaven Lee | Daniel Poli, HEAVEN-LEE, Jake Hodgkinson |
+| Fri, 30 Oct 2026 | Rolling Ritmo & Night Tube Halloween: DJ Hell, Reptant (Live), Magda, Mariiin, Vera, Residents | Alisdair, DJ Hell, Joe Seymour, Magda, Mariiin, Reptant, Ruby SD, Son of Paul, Vera |
+| Fri, 30 Oct 2026 | FWEAKY - 3rd Birthday / Halloween Ball |  |
 
 ## Address
 
 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom, London
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*

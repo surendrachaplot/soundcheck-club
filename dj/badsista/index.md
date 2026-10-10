@@ -1,8 +1,8 @@
 # BADSISTA
 
-BADSISTA is a House and Baile Funk artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Edifício Martinelli, Sao Paulo on Sat, 10 Oct 2026.
+BADSISTA is a House and Baile Funk artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Edifício Martinelli, Sao Paulo on Sat, 10 Oct 2026.
 
-BADSISTA is a house and baile funk artist based in Brazil, with 134 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 40 more. Often billed alongside Cashu, Paulete Lindacelva and EVEHIVE. Next up: Edifício Martinelli, Sao Paulo on Sat 10 Oct.
+BADSISTA is a house and baile funk artist based in Brazil, with 135 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 41 more. Often billed alongside Cashu, Paulete Lindacelva and EVEHIVE. Next up: Edifício Martinelli, Sao Paulo on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ BADSISTA is a house and baile funk artist based in Brazil, with 134 gigs on soun
 | Sat, 17 Oct 2026 | Fünk | Mexico City |
 | Sat, 31 Oct 2026 | TBA - Union Pine | Portland |
 | Sat, 7 Nov 2026 | Nowadays | New York City |
+| Fri, 20 Nov 2026 | Pawnshop | Taipei |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ BADSISTA is a house and baile funk artist based in Brazil, with 134 gigs on soun
 
 Cashu, Paulete Lindacelva, EVEHIVE
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badsista/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badsista/)*

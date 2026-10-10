@@ -1,6 +1,6 @@
 # Neon Grotto
 
-Neon Grotto is a music venue in Austin with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "SECOND SATURDAYS: Brett Johnson, Brother Pate, Victor S + Mando" on Sat, 10 Oct 2026.
+Neon Grotto is a music venue in Austin with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "SECOND SATURDAYS: Brett Johnson, Brother Pate, Victor S + Mando" on Sat, 10 Oct 2026.
 
 Neon Grotto is a music venue in Austin listed on soundcheck. 2 upcoming gigs, with line-ups including Brett Johnson, Brother Pate and DJ HOT DONNA. See dates, start times and who's playing. 318 Colorado St, Austin, TX 78701, United States.
 
@@ -15,4 +15,4 @@ Neon Grotto is a music venue in Austin listed on soundcheck. 2 upcoming gigs, wi
 
 318 Colorado St, Austin, TX 78701, United States, Austin
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/neon-grotto/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/neon-grotto/)*

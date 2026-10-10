@@ -1,14 +1,13 @@
 # KREUZWERK
 
-KREUZWERK is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Carmen Electro & BUTZ invite Laia, LYZA " on Fri, 9 Oct 2026.
+KREUZWERK is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "tracey zero" on Sun, 11 Oct 2026.
 
-KREUZWERK is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including ADAM MUNNINGS, Amowia, ARMANA KHAN and Bad Puppy and 2 more. See dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
+KREUZWERK is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including ADAM MUNNINGS, Amowia, ARMANA KHAN and Bad Puppy and 2 more. See dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Carmen Electro & BUTZ invite Laia, LYZA  | BUTZ, Carmen Electro, LYZA, Laia |
 | Sun, 11 Oct 2026 | tracey zero | ADAM MUNNINGS, Amowia, DJ Petite, Daniel Berj, James Lotion, Nancy Nutter, Sparkly Pony, fka.m4a |
 | Fri, 16 Oct 2026 | LECKEN X SLIC Unit | Amowia, Chinyere, NAS TEA, Nissa Carrington, Oldyungmayn, Robin Flux, Sanaz (2), Slimgirl fat, yung_womb |
 | Fri, 23 Oct 2026 | Power BUTT Club | Byron Yeates, Cashu, Chris Cruse, Majdolen, Massimiliano Pagliara, Stathis (GR) |
@@ -18,9 +17,10 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, wit
 | Sat, 14 Nov 2026 | tracey |  |
 | Sat, 5 Dec 2026 | Miss Dreamz presents: FERAL with BØX, Rawmantique and Tanga |  |
 | Sat, 19 Dec 2026 | OVERLOAD #5 |  |
+| Fri, 1 Jan 2027 | Power Dance Club NYD 2027 |  |
 
 ## Address
 
 Lobeckstraße 30-35, 10969 Berlin, Deutschland, Berlin
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*

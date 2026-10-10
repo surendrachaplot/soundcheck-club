@@ -1,14 +1,13 @@
 # Mha iri
 
-Mha iri is a Techno and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Palladium Riga, Riga on Fri, 9 Oct 2026.
+Mha iri is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 10 Oct 2026.
 
-Mha iri is a techno and tech house artist based in United Kingdom, with 110 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 39 more. Often billed alongside Eli Brown, Joyhauser and Lilly Palmer. Next up: Palladium Riga, Riga on Fri 9 Oct.
+Mha iri is a techno and trance artist based in United Kingdom, with 110 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 39 more. Often billed alongside Eli Brown, Joyhauser and Lilly Palmer. Next up: Uebel & Gefährlich, Hamburg on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Palladium Riga | Riga |
 | Sat, 10 Oct 2026 | Uebel & Gefährlich | Hamburg |
 | Sat, 24 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Thu, 12 Nov 2026 | Noto Philadelphia | Philadelphia |
@@ -18,6 +17,7 @@ Mha iri is a techno and tech house artist based in United Kingdom, with 110 gigs
 
 ## Recently played
 
+- Palladium Riga, Riga · Fri, 9 Oct 2026
 - The Mothership, Auckland · Fri, 25 Sept 2026
 - TBA - Il Mercato Centrale, Sydney · Fri, 18 Sept 2026
 - Groove, Buenos Aires · Sat, 12 Sept 2026
@@ -25,10 +25,9 @@ Mha iri is a techno and tech house artist based in United Kingdom, with 110 gigs
 - Amnesia Ibiza, Ibiza · Sun, 2 Aug 2026
 - Fridas Pier, Stuttgart · Sat, 1 Aug 2026
 - Kilomètre25, Paris · Thu, 16 Jul 2026
-- Spazio Cavea, Rome · Sun, 21 Jun 2026
 
 ## Shares bills with
 
 Eli Brown, Joyhauser, Lilly Palmer
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mhairi/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mhairi/)*

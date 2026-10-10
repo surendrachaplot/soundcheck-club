@@ -1,6 +1,6 @@
 # 11PME2: HEAVEN IS HARDCORE NIGHT 1 at TBA - given out to ticket holders day before
 
-11PME2: HEAVEN IS HARDCORE NIGHT 1 at TBA - given out to ticket holders day before on Fri 13 Nov, Toronto. 1 artist: HomeSick. Techno and Hardcore. See the line-up on soundcheck.
+11PME2: HEAVEN IS HARDCORE NIGHT 1 at TBA - given out to ticket holders day before on Fri 13 Nov, Toronto. 7 artists: Ana Luisa, Geezr, HomeSick and Marcus Visionary and 3 more. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,12 @@
 
 ## Line-up
 
+- Ana Luisa
+- Geezr
 - HomeSick
+- Marcus Visionary
+- MIASALAV
+- Miss Bible
+- R-ODERICK
 
 *Source: [soundcheck](https://soundcheck.club/e/2522989-11pme2-heaven-is-hardcore-night-1-at-tba-given-out-to-ticket/)*

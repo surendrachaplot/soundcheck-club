@@ -1,15 +1,14 @@
 # ANNA
 
-ANNA is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+ANNA is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-ANNA is a techno and house artist based in Brazil, with 104 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Vintage Culture, DJ Tennis and Artbat. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
+ANNA is a techno and house artist based in Brazil, with 103 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Vintage Culture, DJ Tennis and Artbat. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
-| Fri, 23 Oct 2026 | Kastel | Istanbul |
 | Fri, 30 Oct 2026 | LA Coralina Island House OF AD Sidera | Panama |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 | Fri, 20 Nov 2026 | Coda | Toronto |
@@ -32,4 +31,4 @@ ANNA is a techno and house artist based in Brazil, with 104 gigs on soundcheck a
 
 Vintage Culture, DJ Tennis, Artbat
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djanna/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djanna/)*

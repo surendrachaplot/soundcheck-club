@@ -1,6 +1,6 @@
 # DJ KATTCO
 
-DJ KATTCO is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Vagabond, Washington DC on Sat, 10 Oct 2026.
+DJ KATTCO is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Vagabond, Washington DC on Sat, 10 Oct 2026.
 
 DJ KATTCO is a house and club artist based in United States of America, with 3 gigs on soundcheck across Washington DC. Often billed alongside Alucarda, Fish House Funk and Keenan Orr. Next up: Vagabond, Washington DC on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ DJ KATTCO is a house and club artist based in United States of America, with 3 g
 
 Alucarda, Fish House Funk, Keenan Orr
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkattco/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkattco/)*

@@ -1,6 +1,6 @@
 # Sora Éke
 
-Sora Éke is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Imperial Private Club, Barcelona on Fri, 23 Oct 2026.
+Sora Éke is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Imperial Private Club, Barcelona on Fri, 23 Oct 2026.
 
 Sora Éke is a techno and electronica artist based in Spain, with 33 gigs on soundcheck across Barcelona, Berlin, Madrid and Paris and 1 more. Often billed alongside Bluntz, Presunta and Quka. Next up: Imperial Private Club, Barcelona on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Sora Éke is a techno and electronica artist based in Spain, with 33 gigs on sou
 
 Bluntz (2), Presunta (2), Quka
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soraeke/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soraeke/)*

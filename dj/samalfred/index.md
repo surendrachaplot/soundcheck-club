@@ -1,14 +1,13 @@
 # Sam Alfred
 
-Sam Alfred is a House and Techno artist with 19 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Substation, Seattle on Fri, 9 Oct 2026.
+Sam Alfred is a House and Techno artist with 18 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Sam Alfred is a house and techno artist based in Egypt, with 149 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 49 more. Often billed alongside Club Angel, SAIDAH and X CLUB.. Next up: Substation, Seattle on Fri 9 Oct.
+Sam Alfred is a house and techno artist based in Egypt, with 149 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 49 more. Often billed alongside Club Angel, SAIDAH and X CLUB.. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Substation | Seattle |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sun, 18 Oct 2026 | ZeyZey | Miami |
 | Thu, 22 Oct 2026 | Shelter Amsterdam | Amsterdam |
@@ -20,9 +19,11 @@ Sam Alfred is a house and techno artist based in Egypt, with 149 gigs on soundch
 | Wed, 11 Nov 2026 | TBA - Ghent | Ghent |
 | Fri, 13 Nov 2026 | fabric | London |
 | Thu, 19 Nov 2026 | Sub Club | Glasgow |
+| Fri, 27 Nov 2026 | The Limelight | Belfast |
 
 ## Recently played
 
+- Substation, Seattle · Fri, 9 Oct 2026
 - Magic Stick, Detroit · Fri, 2 Oct 2026
 - Refuge, New York City · Thu, 1 Oct 2026
 - Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
@@ -30,10 +31,9 @@ Sam Alfred is a house and techno artist based in Egypt, with 149 gigs on soundch
 - The Cause, London · Sun, 20 Sept 2026
 - TBA - Brussels, Brussels · Fri, 11 Sept 2026
 - Union Park, Chicago · Fri, 4 Sept 2026
-- Electric Studios, Sheffield · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Club Angel, SAIDAH, X CLUB.
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*

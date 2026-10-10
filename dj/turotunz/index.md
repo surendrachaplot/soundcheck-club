@@ -1,6 +1,6 @@
 # TUROTUNZ
 
-TUROTUNZ is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Main Club, Milan on Sat, 10 Oct 2026.
+TUROTUNZ is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Main Club, Milan on Sat, 10 Oct 2026.
 
 TUROTUNZ is a psytrance and techno artist based in Italy, with 15 gigs on soundcheck across Milan. Often billed alongside DEPA, ELNA and IANOSH. Next up: Main Club, Milan on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ TUROTUNZ is a psytrance and techno artist based in Italy, with 15 gigs on soundc
 
 DEPA (3), ELNA, IANOSH
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/turotunz/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/turotunz/)*

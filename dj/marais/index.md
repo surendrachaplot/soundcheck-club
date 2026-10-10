@@ -1,6 +1,6 @@
 # Marais
 
-Marais is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Grandangolo, Rome on Sat, 10 Oct 2026.
+Marais is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Grandangolo, Rome on Sat, 10 Oct 2026.
 
 Marais is a house and electro artist based in Italy, with 44 gigs on soundcheck across London, Milan, New York City and Rome. Often billed alongside N0BLE R0T, Garçon De Rue and Vithz. Next up: Grandangolo, Rome on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Marais is a house and electro artist based in Italy, with 44 gigs on soundcheck 
 
 N0BLE R0T, Garçon De Rue, Vithz
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marais/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marais/)*

@@ -1,6 +1,6 @@
 # ADEZ
 
-ADEZ is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at MeWe Amsterdam, Amsterdam on Wed, 21 Oct 2026.
+ADEZ is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at MeWe Amsterdam, Amsterdam on Wed, 21 Oct 2026.
 
 ADEZ is a tech house and house artist based in Netherlands, with 19 gigs on soundcheck across Amsterdam, Barcelona, Madrid and Rotterdam and 1 more. Often billed alongside Anderdox, andela and Stephen William. Next up: MeWe Amsterdam, Amsterdam on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ ADEZ is a tech house and house artist based in Netherlands, with 19 gigs on soun
 
 Anderdox, andela, Stephen William
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adez/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adez/)*

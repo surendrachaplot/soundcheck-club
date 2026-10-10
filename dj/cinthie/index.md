@@ -1,6 +1,6 @@
 # Cinthie
 
-Cinthie is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Fuse, Brussels on Fri, 16 Oct 2026.
+Cinthie is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Fuse, Brussels on Fri, 16 Oct 2026.
 
 Cinthie is a house and techno artist based in Germany, with 296 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 55 more. Often billed alongside Meat, Gabrielle Kwarteng and Dan Shake. Next up: Fuse, Brussels on Fri 16 Oct.
 
@@ -36,4 +36,4 @@ Cinthie is a house and techno artist based in Germany, with 296 gigs on soundche
 
 Meat, Gabrielle Kwarteng, Dan Shake
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*

@@ -1,19 +1,19 @@
 # Leon
 
-Leon is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Marina Bay Sands, Singapore on Fri, 9 Oct 2026.
+Leon is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 24 Oct 2026.
 
-Leon is a tech house and techno artist based in Italy, with 65 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Marco Carola, Kulage and Pirate Copy. Next up: Marina Bay Sands, Singapore on Fri 9 Oct.
+Leon is a tech house and techno artist based in Italy, with 65 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Marco Carola, Kulage and Pirate Copy. Next up: Starlane Pizza Bar, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Marina Bay Sands | Singapore |
 | Sat, 24 Oct 2026 | Starlane Pizza Bar | London |
 | Sat, 31 Oct 2026 | Amnesia Milano | Milan |
 
 ## Recently played
 
+- Marina Bay Sands, Singapore · Fri, 9 Oct 2026
 - Pacha Ibiza, Ibiza · Fri, 25 Sept 2026
 - Time is the new space, Rotterdam · Fri, 25 Sept 2026
 - [UNVRS], Ibiza · Wed, 26 Aug 2026
@@ -21,10 +21,9 @@ Leon is a tech house and techno artist based in Italy, with 65 gigs on soundchec
 - Oculist, Brighton · Sat, 1 Aug 2026
 - Yodo Groove (Yodobashi Ikebukuro), Tokyo · Sat, 1 Aug 2026
 - O Beach, Ibiza · Sun, 26 Jul 2026
-- Playa Soleil Ibiza, Ibiza · Wed, 15 Jul 2026
 
 ## Shares bills with
 
 Marco Carola, Kulage, Pirate Copy
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonitaly/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonitaly/)*

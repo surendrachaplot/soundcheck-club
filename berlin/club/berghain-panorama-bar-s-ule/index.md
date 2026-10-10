@@ -1,14 +1,13 @@
 # Berghain | Panorama Bar | Säule
 
-Berghain | Panorama Bar | Säule is a music venue in Berlin with 25 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "HYPERSOFT" on Fri, 9 Oct 2026.
+Berghain | Panorama Bar | Säule is a music venue in Berlin with 24 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Klubnacht" on Sat, 10 Oct 2026.
 
-Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 25 upcoming gigs, with line-ups including Justine Perry, Abajour, Aba Shanti-I and Abo Abo and 2 more. See dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
+Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 24 upcoming gigs, with line-ups including Justine Perry, Abajour, Aba Shanti-I and Abo Abo and 2 more. See dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | HYPERSOFT | Adi (CO), Andrea Dama, DJ TEETH, Ekkel, Krijka, Marco Shuttle, Pyramid of Knowledge |
 | Sat, 10 Oct 2026 | Klubnacht | Anika Kunst, Ben Klock, DAX J, Elisa Batti, Fiedel, Gene On Earth, Gonno, Grace Dahl, Luigi Di Venere, Luke Slater, Nastia Reigel, Ogazón, Paquita Gordon, Zombies In Miami |
 | Tue, 13 Oct 2026 | Krallice + Rashad Becker | Rashad Becker |
 | Thu, 15 Oct 2026 | Hunger To Create | Anthony Linell, Dasha Rush, Megan Leber |
@@ -18,9 +17,10 @@ Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck
 | Fri, 23 Oct 2026 | Innervisions | JAMIIE, Jimi Jules, Julya Karma, Trikk, Âme |
 | Sat, 24 Oct 2026 | Klubnacht | Amanda Mussi, Chami, Don Williams, Elisa Bee, Franziska Berns, Marie-Julie, Norman Nodge, Olivia Mendez, Polygonia, Sabine Hoffmann, Stacey Hotwaxx Hale, Tino, Valley Dolly, nd_baumecker |
 | Thu, 29 Oct 2026 | SOUND METAPHORS FESTIVAL PART 1 | ASIA (DE), Alessandro Cortini, Grand River, Jonathan Fitoussi |
+| Fri, 30 Oct 2026 | SOUND METAPHORS FESTIVAL PART 2 | Aba Shanti-I, Audrey Danza, Courtney Bailey, Daphni, David Fogarty, HiTOMi, Jane Fitz, John Talabot, Lena Willikens, Mark Ernestus, Mark Fell, Melina Serser, Robert Henke, Robert Leiner, Samara, Sound Metaphors Djs, Sunju Hargun, Surgeon, Temple Rat, Timnah, Z@p |
 
 ## Address
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*

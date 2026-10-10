@@ -1,14 +1,13 @@
 # Schrotty
 
-Schrotty is a music venue in Cologne with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "240 KM/H pres. Serafina B2B ALL NIGHT LONG" on Fri, 9 Oct 2026.
+Schrotty is a music venue in Cologne with 11 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "ECLIPSE" on Sat, 10 Oct 2026.
 
-Schrotty is a music venue in Cologne listed on soundcheck. 11 upcoming gigs, with line-ups including Amilli, Andreas Kraemer, ANNĒ and anyka and 2 more. See dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
+Schrotty is a music venue in Cologne listed on soundcheck. 11 upcoming gigs, with line-ups including Alfred Heinrichs, Amilli, Andreas Kraemer and ANNĒ and 2 more. See dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | 240 KM/H pres. Serafina B2B ALL NIGHT LONG | Fronsi, Neon Graveyard, Serafina, zwilling. |
 | Sat, 10 Oct 2026 | ECLIPSE | Baron Von Trax, DJ Sonnenbrand, Ken Brause, LEO.PARDYY, MARRED, RAFFA, Tristan K (1), anyka, snoritz |
 | Fri, 16 Oct 2026 | Pappenheimer, Kerstin Eden, A*S*Y*S, S. Groth, Drumcomplex uvm. by BACK2BASICS XXL | A*S*Y*S (2), Andreas Kraemer, Daniela Hensel, Drumcomplex, Kerstin Eden, Markus Weigelt, Matthias Olck, Nick Schwenderling, PETER PAHN, Sebastian Groth |
 | Sat, 24 Oct 2026 | Schrotty with WyldHearts Showcase // Ehrenfeld XL – 10 Clubs, 1 Night, 2 Districts | BabaBass3000, Baumeister98, Eva Charley, Ferrand, MIMI404, OSKAMAXX, Rundfunk, SUITSIDE, The Second I |
@@ -16,6 +15,7 @@ Schrotty is a music venue in Cologne listed on soundcheck. 11 upcoming gigs, wit
 | Sat, 7 Nov 2026 | 5 YEARS EhrenKlub ANDEREX, GO$PEL, KNTRLVRLST, LIEKS, MR. POLSKA, SCHLASS, VORTEK´S & ZENTRYC  | KNTRLVRLST, LIEKS, SITTENLOS |
 | Wed, 11 Nov 2026 | KLUENGEL XXL w/ Überkikz, Fenimore, DJ Hyperdrive, DLV |  |
 | Fri, 13 Nov 2026 | Swimming Paul @ Schrotty Köln | Swimming Paul |
+| Sat, 14 Nov 2026 | Alfred Heinrichs by ARTOFURBANLIFE | Alfred Heinrichs |
 | Fri, 20 Nov 2026 | ANTEA with Anne, Grace Dahl, Lacchesi, Norbak, JKS, Flavius, Leon Kofi, Nils Primas, FLACCO | ANNĒ, Amilli, FLACCO, Flavius, Grace Dahl, JKS, Lacchesi, Nils Primas, Shrff |
 | Fri, 27 Nov 2026 | 303 presents Johannes Schuster, Noise Not War, GRAVEDGR, Ally u. v. m. | GRAVEDGR, Johannes Schuster, Noise Not War |
 
@@ -23,4 +23,4 @@ Schrotty is a music venue in Cologne listed on soundcheck. 11 upcoming gigs, wit
 
 Vogelsanger Straße 406, 50827 Köln, Cologne
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*

@@ -1,6 +1,6 @@
 # Querox
 
-Querox is a Trance and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Alte Kaserne, Zurich on Sat, 10 Oct 2026.
+Querox is a Trance and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Alte Kaserne, Zurich on Sat, 10 Oct 2026.
 
 Querox is a trance and psytrance artist based in Germany, with 14 gigs on soundcheck across Bangkok, Berlin, Hamburg and Zurich. Often billed alongside Basstronauten, Daniel Boon and DJ Jordan. Next up: Alte Kaserne, Zurich on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Querox is a trance and psytrance artist based in Germany, with 14 gigs on soundc
 
 Basstronauten, Daniel Boon, DJ Jordan
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/querox/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/querox/)*

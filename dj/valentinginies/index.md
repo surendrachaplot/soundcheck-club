@@ -1,6 +1,6 @@
 # Valentin Ginies
 
-Valentin Ginies is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at 宀 Club, Hong Kong on Fri, 20 Nov 2026.
+Valentin Ginies is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at 宀 Club, Hong Kong on Fri, 20 Nov 2026.
 
 Valentin Ginies is a techno and minimal techno artist based in France, with 28 gigs on soundcheck across Berlin, Hong Kong, London and Porto and 2 more. Often billed alongside D-Leria, DANA NADA and Toxido Mask. Next up: 宀 Club, Hong Kong on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Valentin Ginies is a techno and minimal techno artist based in France, with 28 g
 
 D-Leria, DANA NADA, Toxido Mask
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinginies/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinginies/)*

@@ -1,8 +1,8 @@
 # Winson
 
-Winson is a Techno and Deep House artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at La Nuit, Paris on Sat, 17 Oct 2026.
+Winson is a Techno and Deep House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at La Nuit, Paris on Sat, 17 Oct 2026.
 
-Winson is a techno and deep house artist based in France, with 68 gigs on soundcheck across Amsterdam, Barcelona, Basel and Brussels and 26 more. Often billed alongside KLOFAMA, KARAH and KUKO. Next up: La Nuit, Paris on Sat 17 Oct.
+Winson is a techno and deep house artist based in France, with 69 gigs on soundcheck across Amsterdam, Barcelona, Basel and Brussels and 26 more. Often billed alongside KLOFAMA, KARAH and Onlynumbers. Next up: La Nuit, Paris on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Winson is a techno and deep house artist based in France, with 68 gigs on soundc
 | Sat, 31 Oct 2026 | TBA - Autodromo di Imola | Central |
 | Fri, 27 Nov 2026 | Arzenal | Budapest |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
+| Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 
 ## Recently played
 
@@ -27,6 +28,6 @@ Winson is a techno and deep house artist based in France, with 68 gigs on soundc
 
 ## Shares bills with
 
-KLOFAMA, KARAH, KUKO
+KLOFAMA, KARAH, Onlynumbers
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*

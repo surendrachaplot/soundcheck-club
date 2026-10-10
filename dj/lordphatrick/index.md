@@ -1,6 +1,6 @@
 # Lord Phatrick
 
-Lord Phatrick is a Electro and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Pony, Seattle on Sat, 14 Nov 2026.
+Lord Phatrick is a Electro and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Pony, Seattle on Sat, 14 Nov 2026.
 
 Lord Phatrick is an electro and italo disco artist based in United States of America, with 24 gigs on soundcheck across Seattle and The Hague. Often billed alongside DJ SH1-TR, Sharlese and Kadeejah Streets. Next up: Pony, Seattle on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Lord Phatrick is an electro and italo disco artist based in United States of Ame
 
 DJ SH1-TR, Sharlese, Kadeejah Streets
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lordphatrick/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lordphatrick/)*

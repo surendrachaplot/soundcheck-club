@@ -1,14 +1,13 @@
 # Solace
 
-Solace is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "MDC feat. Cousin, DJ Possum, Myles Mac" on Fri, 9 Oct 2026.
+Solace is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "WAT Artists x Solace - Sleep D, Venus Flytrap, Nat Salih" on Sat, 10 Oct 2026.
 
-Solace is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, with line-ups including anna(n), Cousin, David Jackson and DJ ALI (AU) and 2 more. See dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
+Solace is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including anna(n), David Jackson, DJ ALI (AU) and Hyperprism and 2 more. See dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | MDC feat. Cousin, DJ Possum, Myles Mac | Cousin, DJ Possum, Myles Mac |
 | Sat, 10 Oct 2026 | WAT Artists x Solace - Sleep D, Venus Flytrap, Nat Salih | Nat Salih, Sleep D, Venus Flytrap (2) |
 | Wed, 14 Oct 2026 | Free. Live. Music // Girls Night In |  |
 | Thu, 15 Oct 2026 | Solace Invites Special Guest International [UK] & DJ Ali | DJ ALI (AU), David Jackson, anna(n) |
@@ -23,4 +22,4 @@ Solace is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, wit
 
 21-25 Croft Alley, Melbourne, 3000, Melbourne
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*

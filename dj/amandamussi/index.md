@@ -1,6 +1,6 @@
 # Amanda Mussi
 
-Amanda Mussi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Komplexo Tempo, Sao Paulo on Sun, 11 Oct 2026.
+Amanda Mussi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Komplexo Tempo, Sao Paulo on Sun, 11 Oct 2026.
 
 Amanda Mussi is a techno and house artist based in Brazil, with 113 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Sept, Nick Moody and Rachel Noon. Next up: Komplexo Tempo, Sao Paulo on Sun 11 Oct.
 
@@ -27,4 +27,4 @@ Amanda Mussi is a techno and house artist based in Brazil, with 113 gigs on soun
 
 Sept, Nick Moody, Rachel Noon
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amandamussi/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amandamussi/)*

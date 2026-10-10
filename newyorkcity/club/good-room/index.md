@@ -1,14 +1,13 @@
 # Good Room
 
-Good Room is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "RA25: New York City" on Fri, 9 Oct 2026.
+Good Room is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "STUNTSZ: HOME SHOPPING NETWORK" on Sat, 10 Oct 2026.
 
-Good Room is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including 4AM NYC, adobeprincess, Andy Pry and Arvin T and 2 more. See dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
+Good Room is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including 4AM NYC, Andy Pry, Arvin T and Byld and 2 more. See dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | RA25: New York City | Baalti, Galcher Lustwerk, Kilopatrah Jones, Nick León, Special Guest DJ, Stacey Hotwaxx Hale, adobeprincess |
 | Sat, 10 Oct 2026 | STUNTSZ: HOME SHOPPING NETWORK | Drew Baker, Memphy, Mike Servito, Prince Rose, Ty Sunderland |
 | Sun, 11 Oct 2026 | 718 Sessions with Danny Krivit + That Matt | Danny Krivit, That Matt |
 | Fri, 16 Oct 2026 | 12 Years of Good Room - DJ Holographic, 4AM NYC, Lee Cash & Perna (All Night) | 4AM NYC, DJ Holographic, Lee Cash, Perna |
@@ -18,9 +17,10 @@ Good Room is a music venue in New York City listed on soundcheck. 15 upcoming gi
 | Sat, 24 Oct 2026 | FIXED with Mozhgan, JDH & Dave P, Universal Cave (all night) | JDH & Dave P, Mozhgan, Universal Cave |
 | Fri, 30 Oct 2026 | Synthicide Halloween ft Terence Fixmer, Andi, Justin Aulis Long, Stiffdance | Andi, Justin Aulis Long, Stiffdance, Terence Fixmer |
 | Sat, 31 Oct 2026 | TIKI DISCO HALLOWEEN | Andy Pry, Eli Escobar, Lloydski |
+| Fri, 6 Nov 2026 | 22 Years of FIXED ft Kelly Lee Owens (dj set), JDH & Dave P, Ivan Berko (all night) | Ivan Berko, JDH & Dave P, Kelly Lee Owens |
 
 ## Address
 
 98 Meserole Ave, Brooklyn, NY 11222 USA, New York City
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*

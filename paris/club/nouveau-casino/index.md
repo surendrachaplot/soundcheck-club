@@ -1,6 +1,6 @@
 # Nouveau Casino
 
-Nouveau Casino is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "LESS DRAMA MORE TECHNO [11th Anniversary]" on Sat, 24 Oct 2026.
+Nouveau Casino is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "LESS DRAMA MORE TECHNO [11th Anniversary]" on Sat, 24 Oct 2026.
 
 Nouveau Casino is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Ben Manson, Keeno and Lawrence Lee. See dates, start times and who's playing. 109 Rue Oberkampf, 75011 Paris, France.
 
@@ -15,4 +15,4 @@ Nouveau Casino is a music venue in Paris listed on soundcheck. 2 upcoming gigs, 
 
 109 Rue Oberkampf, 75011 Paris, France, Paris
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/nouveau-casino/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/nouveau-casino/)*

@@ -1,6 +1,6 @@
 # IAMBP
 
-IAMBP is a Electro and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at FVTVR, Paris on Fri, 9 Oct 2026.
+IAMBP is a Electro and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at FVTVR, Paris on Fri, 9 Oct 2026.
 
 IAMBP is an electro and house artist based in France, with 92 gigs on soundcheck across Barcelona, Berlin, Brussels and Buenos Aires and 17 more. Often billed alongside HearThug, Occibel and Alyhas. Next up: FVTVR, Paris on Fri 9 Oct.
 
@@ -17,6 +17,7 @@ IAMBP is an electro and house artist based in France, with 92 gigs on soundcheck
 
 ## Recently played
 
+- FVTVR, Paris · Fri, 9 Oct 2026
 - Atelier Cafe, Cluj-napoca · Sat, 3 Oct 2026
 - Pier 15, Breda, Netherlands · Fri, 2 Oct 2026
 - Le 6b, Paris · Sat, 19 Sept 2026
@@ -24,10 +25,9 @@ IAMBP is an electro and house artist based in France, with 92 gigs on soundcheck
 - Sunseabar Beach Club, Barcelona · Fri, 21 Aug 2026
 - Phare Citadelle, Strasbourg · Fri, 21 Aug 2026
 - Ministerium Club, Lisbon · Sat, 8 Aug 2026
-- Fvtvr, Paris · Fri, 10 Jul 2026
 
 ## Shares bills with
 
 HearThug, Occibel, Alyhas
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iambp/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iambp/)*

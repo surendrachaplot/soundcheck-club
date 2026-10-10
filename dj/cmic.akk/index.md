@@ -1,6 +1,6 @@
 # cmic.akk
 
-cmic.akk is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Karmakoma, Belgrade on Fri, 16 Oct 2026.
+cmic.akk is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Karmakoma, Belgrade on Fri, 16 Oct 2026.
 
 cmic.akk is a techno artist based in Serbia, with 11 gigs on soundcheck across Belgrade. Often billed alongside Aneri, Mamavitae and SRNA. Next up: Karmakoma, Belgrade on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ cmic.akk is a techno artist based in Serbia, with 11 gigs on soundcheck across B
 
 Aneri, Mamavitae, SRNA
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cmic.akk/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cmic.akk/)*

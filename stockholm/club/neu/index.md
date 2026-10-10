@@ -1,6 +1,6 @@
 # NEU
 
-NEU is a music venue in Stockholm with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Chuune at Neu – all night long" on Sat, 10 Oct 2026.
+NEU is a music venue in Stockholm with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Chuune at Neu – all night long" on Sat, 10 Oct 2026.
 
 NEU is a music venue in Stockholm listed on soundcheck. 2 upcoming gigs, with line-ups including CAMILLKA, Mabogo and Naughty Hana. See dates, start times and who's playing. Näckströmsgatan 8, 111 47, Stockholm. Sweden.
 
@@ -15,4 +15,4 @@ NEU is a music venue in Stockholm listed on soundcheck. 2 upcoming gigs, with li
 
 Näckströmsgatan 8, 111 47, Stockholm. Sweden, Stockholm
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/neu/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/neu/)*

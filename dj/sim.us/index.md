@@ -1,14 +1,15 @@
 # S.I.M
 
-S.I.M is a Techno and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at 1015 Folsom, San Francisco/Oakland on Thu, 22 Oct 2026.
+S.I.M is a Techno and Breakbeat artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at 1015 Folsom, San Francisco/Oakland on Thu, 22 Oct 2026.
 
-S.I.M is a techno and breakbeat artist based in United States of America, with 13 gigs on soundcheck across Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside JustJovani, Saffaire and Skiis. Next up: 1015 Folsom, San Francisco/Oakland on Thu 22 Oct.
+S.I.M is a techno and breakbeat artist based in United States of America, with 14 gigs on soundcheck across Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside JAQ.XS, JustJovani and Saffaire. Next up: 1015 Folsom, San Francisco/Oakland on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | 1015 Folsom | San Francisco/Oakland |
+| Sat, 24 Oct 2026 | TBA - DTLA | Los Angeles |
 | Fri, 6 Nov 2026 | TBA - DTLA | Los Angeles |
 | Sat, 14 Nov 2026 | Monarch | San Francisco/Oakland |
 
@@ -25,6 +26,6 @@ S.I.M is a techno and breakbeat artist based in United States of America, with 1
 
 ## Shares bills with
 
-JustJovani, Saffaire, Skiis
+JAQ.XS, JustJovani, Saffaire
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sim.us/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sim.us/)*

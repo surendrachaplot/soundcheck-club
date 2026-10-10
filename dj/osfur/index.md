@@ -1,6 +1,6 @@
 # OSFUR
 
-OSFUR is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
+OSFUR is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
 OSFUR is a house and afro house artist based in France, with 13 gigs on soundcheck across Amsterdam, Bangkok, Ibiza and London and 2 more. Often billed alongside UVITA, KENZA KAYATI and No Rush (IT). Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ OSFUR is a house and afro house artist based in France, with 13 gigs on soundche
 
 UVITA, KENZA KAYATI, No Rush (IT)
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osfur/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osfur/)*

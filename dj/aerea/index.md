@@ -1,6 +1,6 @@
 # AEREA
 
-AEREA is a Techno and Trance artist with 17 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Mdlr, Singapore on Sat, 10 Oct 2026.
+AEREA is a Techno and Trance artist with 17 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Mdlr, Singapore on Sat, 10 Oct 2026.
 
 AEREA is a techno and trance artist based in Spain, with 71 gigs on soundcheck across Amsterdam, Antwerp, Athens and Azerbaijan and 41 more. Often billed alongside future.666, DJ Hyperdrive and ÜBERKIKZ. Next up: Mdlr, Singapore on Sat 10 Oct.
 
@@ -36,4 +36,4 @@ AEREA is a techno and trance artist based in Spain, with 71 gigs on soundcheck a
 
 future.666, DJ Hyperdrive, ÜBERKIKZ
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aerea/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aerea/)*

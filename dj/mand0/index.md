@@ -1,6 +1,6 @@
 # Mand0
 
-Mand0 is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA, Toronto on Sat, 3 Oct 2026.
+Mand0 is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA, Toronto on Sat, 3 Oct 2026.
 
 Mand0 is a techno and house artist based in Canada, with 16 gigs on soundcheck across Chicago and Toronto. Often billed alongside KILL 9 1, R4TS and Pretence. Next up: TBA, Toronto on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Mand0 is a techno and house artist based in Canada, with 16 gigs on soundcheck a
 
 KILL 9 1, R4TS, Pretence
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mand0/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mand0/)*

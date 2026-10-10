@@ -1,18 +1,18 @@
 # Blu:sh
 
-Blu:sh is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Bar Datcha, Montreal on Fri, 9 Oct 2026.
+Blu:sh is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at telos.haus, New York City on Sun, 11 Oct 2026.
 
-Blu:sh is a techno and trance artist based in France, with 57 gigs on soundcheck across Athens, Barcelona, Berlin and Brussels and 20 more. Often billed alongside Zeynep, Marie Malarie and Von Riu. Next up: Bar Datcha, Montreal on Fri 9 Oct.
+Blu:sh is a techno and trance artist based in France, with 57 gigs on soundcheck across Athens, Barcelona, Berlin and Brussels and 20 more. Often billed alongside Zeynep, Marie Malarie and Von Riu. Next up: telos.haus, New York City on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Bar Datcha | Montreal |
 | Sun, 11 Oct 2026 | telos.haus | New York City |
 
 ## Recently played
 
+- Bar Datcha, Montreal · Fri, 9 Oct 2026
 - Fünk, Mexico City · Thu, 24 Sept 2026
 - Smoke & Mirrors, Chicago · Fri, 18 Sept 2026
 - Signal, New York City · Thu, 17 Sept 2026
@@ -20,10 +20,9 @@ Blu:sh is a techno and trance artist based in France, with 57 gigs on soundcheck
 - TBA - secret location - NEUKÖLLN, Berlin · Sat, 15 Aug 2026
 - Kater, Berlin · Fri, 31 Jul 2026
 - AMT, Berlin · Sat, 25 Jul 2026
-- Kwia, Berlin · Tue, 14 Jul 2026
 
 ## Shares bills with
 
 Zeynep, Marie Malarie, Von Riu
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blush-de/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blush-de/)*

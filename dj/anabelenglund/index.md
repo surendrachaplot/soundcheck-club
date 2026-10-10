@@ -1,6 +1,6 @@
 # Anabel Englund
 
-Anabel Englund is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Lurin live, Peru on Sat, 10 Oct 2026.
+Anabel Englund is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Lurin live, Peru on Sat, 10 Oct 2026.
 
 Anabel Englund is a house and tech house artist based in United States of America, with 22 gigs on soundcheck across Austin, Denver, Los Angeles and Miami and 8 more. Often billed alongside SOFI TUKKER, Coco & Breezy and Dombresky. Next up: TBA - Lurin live, Peru on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Anabel Englund is a house and tech house artist based in United States of Americ
 
 SOFI TUKKER, Coco & Breezy, Dombresky
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anabelenglund/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anabelenglund/)*

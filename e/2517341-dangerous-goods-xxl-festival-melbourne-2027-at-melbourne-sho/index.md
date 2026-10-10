@@ -1,6 +1,6 @@
 # Dangerous Goods XXL Festival - Melbourne 2027 at Melbourne Showgrounds
 
-Dangerous Goods XXL Festival - Melbourne 2027 at Melbourne Showgrounds on Sat 23 Jan, Melbourne. 9 artists: Adam Bartas, ASLO, Boris Brejcha and Claptone and 5 more. See the line-up on soundcheck.
+Dangerous Goods XXL Festival - Melbourne 2027 at Melbourne Showgrounds on Sat 23 Jan, Melbourne. 9 artists: Adam Bartas, ASLO, Boris Brejcha and Claptone and 5 more. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

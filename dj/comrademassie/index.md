@@ -1,6 +1,6 @@
 # Comrade Massie
 
-Comrade Massie is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Sneaky Pete's, Edinburgh on Thu, 29 Oct 2026.
+Comrade Massie is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Sneaky Pete's, Edinburgh on Thu, 29 Oct 2026.
 
 Comrade Massie is a bass and club artist, with 8 gigs on soundcheck across Dundee, Edinburgh and Glasgow. Often billed alongside Arthi, Corran and ELANDA. Next up: Sneaky Pete's, Edinburgh on Thu 29 Oct.
 
@@ -24,4 +24,4 @@ Comrade Massie is a bass and club artist, with 8 gigs on soundcheck across Dunde
 
 Arthi, Corran, ELANDA
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/comrademassie/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/comrademassie/)*

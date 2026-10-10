@@ -1,6 +1,6 @@
 # Terax
 
-Terax is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Aoyama Hachi, Tokyo on Sat, 31 Oct 2026.
+Terax is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Aoyama Hachi, Tokyo on Sat, 31 Oct 2026.
 
 Terax is a house and techno artist based in Japan, with 186 gigs on soundcheck across Tokyo. Often billed alongside hiroto yano, Onométro and takumar. Next up: Aoyama Hachi, Tokyo on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Terax is a house and techno artist based in Japan, with 186 gigs on soundcheck a
 
 hiroto yano, Onométro, takumar
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terax/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terax/)*

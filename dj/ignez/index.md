@@ -1,14 +1,13 @@
 # Ignez
 
-Ignez is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 9 Oct 2026.
+Ignez is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Flux, Istanbul on Sat, 10 Oct 2026.
 
-Ignez is a techno and house artist based in Netherlands, with 204 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 59 more. Often billed alongside Yanamaste, Inox Traxx and MARRØN. Next up: Tokonoma Club, Frankfurt on Fri 9 Oct.
+Ignez is a techno and house artist based in Netherlands, with 205 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 60 more. Often billed alongside Yanamaste, Inox Traxx and MARRØN. Next up: Flux, Istanbul on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Tokonoma Club | Frankfurt |
 | Sat, 10 Oct 2026 | Flux | Istanbul |
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
 | Fri, 16 Oct 2026 | Den Anden Side | Copenhagen |
@@ -20,9 +19,11 @@ Ignez is a techno and house artist based in Netherlands, with 204 gigs on soundc
 | Sat, 31 Oct 2026 | TBA - VOID | Denver |
 | Sat, 7 Nov 2026 | Fuse | Brussels |
 | Sat, 14 Nov 2026 | TBA | Amsterdam |
+| Fri, 27 Nov 2026 | Hive Club | Zurich |
 
 ## Recently played
 
+- Tokonoma Club, Frankfurt · Fri, 9 Oct 2026
 - E1, London · Sat, 3 Oct 2026
 - Nitsa Club, Barcelona · Fri, 2 Oct 2026
 - 131 Mccormack St, Toronto · Fri, 25 Sept 2026
@@ -30,10 +31,9 @@ Ignez is a techno and house artist based in Netherlands, with 204 gigs on soundc
 - Signal, New York City · Thu, 24 Sept 2026
 - Amp, Munster · Sat, 19 Sept 2026
 - Lofi, Amsterdam · Sat, 19 Sept 2026
-- BASIS, Utrecht · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Yanamaste, Inox Traxx, MARRØN
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*

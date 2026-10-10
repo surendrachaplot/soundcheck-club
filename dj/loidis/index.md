@@ -1,6 +1,6 @@
 # Loidis
 
-Loidis is a Techno and Minimal artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
+Loidis is a Techno and Minimal artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
 
 Loidis is a techno and minimal artist based in United States of America, with 66 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 29 more. Often billed alongside Huerco S., Skee Mask and DJ Python. Next up: Bassiani, Tbilisi on Fri 9 Oct.
 
@@ -18,6 +18,7 @@ Loidis is a techno and minimal artist based in United States of America, with 66
 
 ## Recently played
 
+- Bassiani, Tbilisi · Fri, 9 Oct 2026
 - The Loom, San Francisco/Oakland · Fri, 2 Oct 2026
 - St. Bartholomew's Church, New York City · Sun, 27 Sept 2026
 - TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City · Fri, 25 Sept 2026
@@ -25,10 +26,9 @@ Loidis is a techno and minimal artist based in United States of America, with 66
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 - Signal, New York City · Fri, 4 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 15 Aug 2026
-- TBA - Secret Location, New York City · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Huerco S., Skee Mask, DJ Python
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loidis/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loidis/)*

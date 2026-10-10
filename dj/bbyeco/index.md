@@ -1,6 +1,6 @@
 # Bby Eco
 
-Bby Eco is a Ambient and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Spread, Tokyo on Mon, 12 Oct 2026.
+Bby Eco is a Ambient and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Spread, Tokyo on Mon, 12 Oct 2026.
 
 Bby Eco is an ambient and electronica artist, with 21 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Mount XLR, Ouri and Aaron Dilloway. Next up: Spread, Tokyo on Mon 12 Oct.
 
@@ -27,4 +27,4 @@ Bby Eco is an ambient and electronica artist, with 21 gigs on soundcheck across 
 
 Mount XLR, Ouri, Aaron Dilloway
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bbyeco/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bbyeco/)*

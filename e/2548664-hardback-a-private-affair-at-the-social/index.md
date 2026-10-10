@@ -1,6 +1,6 @@
 # HARDBACK: A Private Affair at The Social
 
-HARDBACK: A Private Affair at The Social on Sat 24 Oct, London. 5 artists: ANNA PURA, madame3swords, overshine and six-winged hilda and 1 more. Experimental. See the line-up on soundcheck.
+HARDBACK: A Private Affair at The Social on Sat 24 Oct, London. 6 artists: ANNA PURA, figo, madame3swords and overshine and 2 more. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ HARDBACK: A Private Affair at The Social on Sat 24 Oct, London. 5 artists: ANNA 
 ## Line-up
 
 - ANNA PURA
+- figo
 - madame3swords
 - overshine
 - six-winged hilda

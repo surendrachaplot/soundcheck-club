@@ -1,6 +1,6 @@
 # Stony C
 
-Stony C is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Para Klub Beograd, Belgrade on Sun, 11 Oct 2026.
+Stony C is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Para Klub Beograd, Belgrade on Sun, 11 Oct 2026.
 
 Stony C is a techno and house artist based in Serbia, with 23 gigs on soundcheck across Belgrade. Often billed alongside Lollipop Janosz, Mark Aasgier and Matej Rusmir. Next up: Para Klub Beograd, Belgrade on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Stony C is a techno and house artist based in Serbia, with 23 gigs on soundcheck
 
 Lollipop Janosz, Mark Aasgier, Matej Rusmir
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stonyc/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stonyc/)*

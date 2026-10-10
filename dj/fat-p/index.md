@@ -1,6 +1,6 @@
 # Fat-P
 
-Fat-P is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Sun, 11 Oct 2026.
+Fat-P is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Sun, 11 Oct 2026.
 
 Fat-P is a techno and house artist based in Argentina, with 27 gigs on soundcheck across Barcelona. Often billed alongside SUSØ, Giuliano and Jo Kazan. Next up: Azul Rooftop Barceloneta, Barcelona on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Fat-P is a techno and house artist based in Argentina, with 27 gigs on soundchec
 
 SUSØ, Giuliano, Jo Kazan
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fat-p/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fat-p/)*

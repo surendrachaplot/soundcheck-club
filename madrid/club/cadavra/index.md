@@ -1,14 +1,13 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 23 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "CDVR with Inland Knights" on Fri, 9 Oct 2026.
+Cadavra is a music venue in Madrid with 24 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "TIME TO PANIC with Luisa" on Sat, 10 Oct 2026.
 
-Cadavra is a music venue in Madrid listed on soundcheck. 23 upcoming gigs, with line-ups including 2garlics, Abdulla A., Andy Martin and Anna Wall and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
+Cadavra is a music venue in Madrid listed on soundcheck. 24 upcoming gigs, with line-ups including 2garlics, Abdulla A., Andy Martin and Anna Wall and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | CDVR with Inland Knights | Guarino, Inland Knights, Rafa Santos, Simon Garcia |
 | Sat, 10 Oct 2026 | TIME TO PANIC with Luisa | Denso, Ed Warner, Luisa, Valleyk, ildec |
 | Thu, 15 Oct 2026 | ANFANG FAM DAY | Irazu, Safia (2) |
 | Fri, 16 Oct 2026 | bloom pres. Andy Martin | Andy Martin, Baldman, Gala (ES), KATIA, berta (ES) |
@@ -18,9 +17,10 @@ Cadavra is a music venue in Madrid listed on soundcheck. 23 upcoming gigs, with 
 | Sat, 24 Oct 2026 | HOLLYWOOD with Diamin | Diamin, TWO EX |
 | Thu, 29 Oct 2026 | Ruman at ANFANG | Ruman, Unkle Fon |
 | Fri, 30 Oct 2026 | Phonotheque Showcase with Christian Bonanata, Oriana, J.C., Ces-Q, Aaliaga | Ces-Q, J.C., Oriana |
+| Sat, 31 Oct 2026 | Halloween: 10 YEARS OF ORCHID with Loa Szala & Luna Ludmila | BOTHER, Loa Szala, Luna Ludmila, Martin Balladares, Nurias |
 
 ## Address
 
 C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*

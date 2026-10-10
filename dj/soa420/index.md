@@ -1,6 +1,6 @@
 # Soa420
 
-Soa420 is a Dubstep and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Point Ephémère, Paris on Fri, 13 Nov 2026.
+Soa420 is a Dubstep and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Point Ephémère, Paris on Fri, 13 Nov 2026.
 
 Soa420 is a dubstep and techno artist, with 26 gigs on soundcheck across Berlin, Bristol, Brussels and London and 4 more. Often billed alongside Beatrice M., Ahadadream and Bakey. Next up: Point Ephémère, Paris on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Soa420 is a dubstep and techno artist, with 26 gigs on soundcheck across Berlin,
 
 Beatrice M., Ahadadream, Bakey
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soa420/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soa420/)*

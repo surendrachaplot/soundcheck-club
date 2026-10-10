@@ -1,15 +1,13 @@
 # Soup
 
-Soup is a music venue in Manchester with 13 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "heylucas (live)" on Thu, 8 Oct 2026.
+Soup is a music venue in Manchester with 11 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Dr Meaker The Distored Sun Tour" on Sat, 10 Oct 2026.
 
-Soup is a music venue in Manchester listed on soundcheck. 13 upcoming gigs, with line-ups including Abby Harris, atalaya, Ayy Den and Baba Sketch and 2 more. See dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
+Soup is a music venue in Manchester listed on soundcheck. 11 upcoming gigs, with line-ups including Abby Harris, atalaya, Ayy Den and Baba Sketch and 2 more. See dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | heylucas (live) |  |
-| Fri, 9 Oct 2026 | Onsite Records: Birrell and Jovak (all night long) | Birrell, Jovak |
 | Sat, 10 Oct 2026 | Dr Meaker The Distored Sun Tour | Dr Meaker |
 | Sat, 10 Oct 2026 | Soup presents: Zuri ANL | Zuri |
 | Thu, 15 Oct 2026 | The Manchester Bounce: A celebration of soundsystem culture | Babs (3), Chunky, Mikey D.O.N, RenzNiro, Sasha Shuttleworth, Tom Boogizm, mamba.exe |
@@ -18,9 +16,11 @@ Soup is a music venue in Manchester listed on soundcheck. 13 upcoming gigs, with
 | Mon, 26 Oct 2026 | Call Me Karizma (I'm no American Idol Tour) |  |
 | Fri, 30 Oct 2026 | The Lunar Snail Affair presents: H-Foundation (extended set) | H-Foundation |
 | Sat, 31 Oct 2026 | Sam Binga at Soup presented by F4B and Brainiac  | Sam Binga |
+| Fri, 6 Nov 2026 | Coven: Yushh, Gina, nowah | GINA (UK), Yushh, nowah |
+| Fri, 20 Nov 2026 | DUBSTATE: Douvelle19, Kitsch, imad:re & Ginster  | Douvelle19, Ginster, Kitsch, imad:re |
 
 ## Address
 
 31-33 Spear Street, Manchester, M1 1DF, United Kingdom, Manchester
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*

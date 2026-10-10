@@ -1,14 +1,13 @@
 # NIEBO
 
-NIEBO is a music venue in Warsaw with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "PARRA FOR CUVA" on Fri, 9 Oct 2026.
+NIEBO is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "JMSN Warszawa" on Tue, 13 Oct 2026.
 
-NIEBO is a music venue in Warsaw listed on soundcheck. 3 upcoming gigs, with line-ups including Parra for Cuva. See dates, start times and who's playing. Nowy Świat 21, 00-001 Warszawa.
+NIEBO is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Nowy Świat 21, 00-001 Warszawa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | PARRA FOR CUVA | Parra for Cuva |
 | Tue, 13 Oct 2026 | JMSN Warszawa |  |
 | Fri, 27 Nov 2026 | ARK: GOODBOYS live |  |
 
@@ -16,4 +15,4 @@ NIEBO is a music venue in Warsaw listed on soundcheck. 3 upcoming gigs, with lin
 
 Nowy Świat 21, 00-001 Warszawa, Warsaw
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/niebo/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/niebo/)*

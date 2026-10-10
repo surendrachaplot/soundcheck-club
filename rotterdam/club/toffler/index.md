@@ -1,6 +1,6 @@
 # Toffler
 
-Toffler is a music venue in Rotterdam with 13 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Toffler presents Soul Mass Transit System" on Fri, 9 Oct 2026.
+Toffler is a music venue in Rotterdam with 13 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "TOFFLER presents Locky (3HR set) DATE MOVED TO 28.11.26" on Sat, 10 Oct 2026.
 
 Toffler is a music venue in Rotterdam listed on soundcheck. 13 upcoming gigs, with line-ups including AIS, Chess, DAF and Divasi and 2 more. See dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
 
@@ -8,7 +8,6 @@ Toffler is a music venue in Rotterdam listed on soundcheck. 13 upcoming gigs, wi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Toffler presents Soul Mass Transit System | Jackyboom, Soul Mass Transit System, Yucky |
 | Sat, 10 Oct 2026 | TOFFLER presents Locky (3HR set) DATE MOVED TO 28.11.26 | Juliana X, LI-YU, Locky |
 | Sat, 10 Oct 2026 | TOFFLER presents Chico Rose and friends | Jurgen Booi |
 | Sat, 17 Oct 2026 | Toffler presents Natural Born Chiller and friends | James (6), Luka Staem |
@@ -18,9 +17,10 @@ Toffler is a music venue in Rotterdam listed on soundcheck. 13 upcoming gigs, wi
 | Sat, 31 Oct 2026 | Toffler presents Raphaelito and friends | HIGHTS, LT (UK), Raphaelito |
 | Fri, 6 Nov 2026 | Toffler presents Cher Semain all night long |  |
 | Sat, 7 Nov 2026 | Toffler presents Pawlowski | AIS (2), Divasi, Pawlowski (UK) |
+| Fri, 13 Nov 2026 | Toffler presents KETTING (LIVE) - All NIGHT LONG |  |
 
 ## Address
 
 Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands, Rotterdam
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*

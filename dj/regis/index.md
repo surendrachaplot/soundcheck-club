@@ -1,8 +1,8 @@
 # Regis
 
-Regis is a Techno and Minimal Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Denver, Denver on Sat, 10 Oct 2026.
+Regis is a Techno and Drum & Bass artist with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Denver, Denver on Sat, 10 Oct 2026.
 
-Regis is a techno and minimal techno artist based in United Kingdom, with 115 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside Sandwell District, Function and Samuel Kerridge. Next up: TBA - Denver, Denver on Sat 10 Oct.
+Regis is a techno and drum & bass artist based in United Kingdom, with 115 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside Sandwell District, Function and Samuel Kerridge. Next up: TBA - Denver, Denver on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -34,4 +34,4 @@ Regis is a techno and minimal techno artist based in United Kingdom, with 115 gi
 
 Sandwell District, Function, Samuel Kerridge
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/regis/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/regis/)*

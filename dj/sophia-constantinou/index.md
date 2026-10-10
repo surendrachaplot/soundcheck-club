@@ -1,6 +1,6 @@
 # Sophia Constantinou
 
-Sophia Constantinou is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at M.O.T, London on Thu, 15 Oct 2026.
+Sophia Constantinou is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at M.O.T, London on Thu, 15 Oct 2026.
 
 Sophia Constantinou is a bass and house artist based in United Kingdom, with 4 gigs on soundcheck across Glasgow and London. Often billed alongside DJelley, LUX (uk) and Carmen Baía. Next up: M.O.T, London on Thu 15 Oct.
 
@@ -20,4 +20,4 @@ Sophia Constantinou is a bass and house artist based in United Kingdom, with 4 g
 
 DJelley, LUX (uk), Carmen Baía
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophia-constantinou/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophia-constantinou/)*

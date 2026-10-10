@@ -1,6 +1,6 @@
 # Crobar - Buenos Aires
 
-Crobar - Buenos Aires is a music venue in Buenos Aires with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Crobar Club Pres.: Jorge Savoretti B2B Ariel Rodz, Inda Jani, Erika Halliday B2B Ëmma" on Fri, 9 Oct 2026.
+Crobar - Buenos Aires is a music venue in Buenos Aires with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Crobar Club Pres.: Jorge Savoretti B2B Ariel Rodz, Inda Jani, Erika Halliday B2B Ëmma" on Fri, 9 Oct 2026.
 
 Crobar - Buenos Aires is a music venue in Buenos Aires listed on soundcheck. 9 upcoming gigs, with line-ups including Alci, Ariel Rodz, Cosenza and DJ Tennis and 2 more. See dates, start times and who's playing. Marcelo Freyre S/N, Paseo de la Infanta; Palermo; Buenos Aires; Argentina.
 
@@ -22,4 +22,4 @@ Crobar - Buenos Aires is a music venue in Buenos Aires listed on soundcheck. 9 u
 
 Marcelo Freyre S/N, Paseo de la Infanta; Palermo; Buenos Aires; Argentina, Buenos Aires
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/crobar-buenos-aires/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/crobar-buenos-aires/)*

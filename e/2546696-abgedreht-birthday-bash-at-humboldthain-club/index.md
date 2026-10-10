@@ -1,6 +1,6 @@
 # Abgedreht Birthday Bash at Humboldthain Club
 
-Abgedreht Birthday Bash at Humboldthain Club on Fri 16 Oct, Berlin. 7 artists: B.R.K.Ø., cilu, DJ.Egoshooter10000 and e.leptic and 3 more. Trance and Techno. See the line-up on soundcheck.
+Abgedreht Birthday Bash at Humboldthain Club on Fri 16 Oct, Berlin. 8 artists: [jnny], B.R.K.Ø., cilu and DJ.Egoshooter10000 and 4 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Abgedreht Birthday Bash at Humboldthain Club on Fri 16 Oct, Berlin. 7 artists: B
 
 ## Line-up
 
+- [jnny]
 - B.R.K.Ø.
 - cilu
 - DJ.Egoshooter10000

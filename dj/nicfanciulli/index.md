@@ -1,6 +1,6 @@
 # Nic Fanciulli
 
-Nic Fanciulli is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Ushuaïa Ibiza, Ibiza on Sat, 10 Oct 2026.
+Nic Fanciulli is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Ushuaïa Ibiza, Ibiza on Sat, 10 Oct 2026.
 
 Nic Fanciulli is a house and tech house artist based in United Kingdom, with 201 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 45 more. Often billed alongside Andrea Oliva, Raul Rodriguez and Chelina Manuhutu. Next up: Ushuaïa Ibiza, Ibiza on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Nic Fanciulli is a house and tech house artist based in United Kingdom, with 201
 
 Andrea Oliva, Raul Rodriguez, Chelina Manuhutu
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicfanciulli/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicfanciulli/)*

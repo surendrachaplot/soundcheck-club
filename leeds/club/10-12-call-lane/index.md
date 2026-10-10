@@ -1,6 +1,6 @@
 # 10-12 Call Lane
 
-10-12 Call Lane is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. The next is "4 THE CITY - LEEDS" on Fri, 23 Oct 2026.
+10-12 Call Lane is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. The next is "4 THE CITY - LEEDS" on Fri, 23 Oct 2026.
 
 10-12 Call Lane is a music venue in Leeds listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 10-12 CALL LANE / DONER SUMMER / LEEDS.
 
@@ -14,4 +14,4 @@
 
 10-12 CALL LANE / DONER SUMMER / LEEDS, Leeds
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/10-12-call-lane/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/10-12-call-lane/)*

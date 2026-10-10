@@ -1,6 +1,6 @@
 # Andrew James Gustav
 
-Andrew James Gustav is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Block1, Berlin on Sat, 10 Oct 2026.
+Andrew James Gustav is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Block1, Berlin on Sat, 10 Oct 2026.
 
 Andrew James Gustav is a techno and house artist based in United Kingdom, with 69 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 13 more. Often billed alongside Bruno Schmidt, Alien Communications and Jos. Next up: Block1, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Andrew James Gustav is a techno and house artist based in United Kingdom, with 6
 
 Bruno Schmidt, Alien Communications, Jos
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewjamesgustav/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewjamesgustav/)*

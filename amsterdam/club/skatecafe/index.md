@@ -1,14 +1,13 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 19 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "CONFLUENT" on Fri, 9 Oct 2026.
+Skatecafe is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "YUSU 6 YEARS" on Sat, 10 Oct 2026.
 
-Skatecafe is a music venue in Amsterdam listed on soundcheck. 19 upcoming gigs, with line-ups including Abstract (US), A For Alpha, amara and Amz and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 42.
+Skatecafe is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including Abstract (US), A For Alpha, amara and Amz and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | CONFLUENT | Franky Sticks, Jerrau, Shinshan Salazar, TINS, Tida Kamara |
 | Sat, 10 Oct 2026 | YUSU 6 YEARS |  |
 | Fri, 16 Oct 2026 | MAXIS MAXIMAAL / WAP SHOO WAP RECORDS |  |
 | Sat, 17 Oct 2026 | PARKER FEST 3.0 | Sjamsoedin |
@@ -18,9 +17,10 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 19 upcoming gigs, 
 | Sat, 24 Oct 2026 | ADE / PATTA X KEEP HUSH W/ TBA |  |
 | Sat, 24 Oct 2026 | ADE - PATTA X KEEP HUSH X SANKOFA ARCHIVES X MOSAIKO X STUDIO STRIP | Amz, Anèl, EYCEE, Jarreau Vandal, Passion DEEZ, Riddimbox, Rotational, Tida Kamara, amara, awhlkuhn |
 | Sun, 25 Oct 2026 | FSTM ADE Take Over | Blasha & Allatt, Call Super, DJ Masda, Eris Drew, Hannecart, Helena Hauff, Quest (CA), Rey Colino, Ryan Elliott, mad miran |
+| Thu, 29 Oct 2026 | Brainwash Festival: Bold Ideas For Curious Minds w/ Deborah Levy |  |
 
 ## Address
 
 Gedempt Hamerkanaal 42, Amsterdam
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*

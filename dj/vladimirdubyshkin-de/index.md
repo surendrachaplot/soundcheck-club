@@ -1,13 +1,14 @@
 # Vladimir Dubyshkin
 
-Vladimir Dubyshkin is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Under Club, Buenos Aires on Sun, 11 Oct 2026.
+Vladimir Dubyshkin is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at D-EDGE, Sao Paulo on Sat, 10 Oct 2026.
 
-Vladimir Dubyshkin is a techno and trance artist based in Russia, with 109 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 45 more. Often billed alongside u.r.trax, DJ Hyperdrive and fka.m4a. Next up: Under Club, Buenos Aires on Sun 11 Oct.
+Vladimir Dubyshkin is a techno and trance artist based in Russia, with 110 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 45 more. Often billed alongside u.r.trax, DJ Hyperdrive and fka.m4a. Next up: D-EDGE, Sao Paulo on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | D-EDGE | Sao Paulo |
 | Sun, 11 Oct 2026 | Under Club | Buenos Aires |
 | Sat, 21 Nov 2026 | Night Tales | London |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
@@ -27,4 +28,4 @@ Vladimir Dubyshkin is a techno and trance artist based in Russia, with 109 gigs 
 
 u.r.trax, DJ Hyperdrive, fka.m4a
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirdubyshkin-de/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirdubyshkin-de/)*

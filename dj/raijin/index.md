@@ -1,6 +1,6 @@
 # Raijin
 
-Raijin is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Vektor - The Klub, Budapest on Sat, 17 Oct 2026.
+Raijin is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Vektor - The Klub, Budapest on Sat, 17 Oct 2026.
 
 Raijin is a techno artist based in Hungary, with 2 gigs on soundcheck across Budapest. Often billed alongside CRIME, Johanna Bozai and NYRA (DE). Next up: Vektor - The Klub, Budapest on Sat 17 Oct.
 
@@ -15,4 +15,4 @@ Raijin is a techno artist based in Hungary, with 2 gigs on soundcheck across Bud
 
 CRIME, Johanna Bozai, NYRA (DE)
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raijin/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raijin/)*

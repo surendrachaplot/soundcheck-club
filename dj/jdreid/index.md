@@ -1,18 +1,18 @@
 # JD. REID
 
-JD. REID is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Carpet Shop, London on Fri, 9 Oct 2026.
+JD. REID is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at New Century Locker, Manchester on Sat, 14 Nov 2026.
 
-JD. REID is a club and bass artist based in United Kingdom, with 27 gigs on soundcheck across Dublin, London and Manchester. Often billed alongside Bok Bok, Halogenix and Call Super. Next up: The Carpet Shop, London on Fri 9 Oct.
+JD. REID is a club and bass artist based in United Kingdom, with 27 gigs on soundcheck across Dublin, London and Manchester. Often billed alongside Bok Bok, Halogenix and Call Super. Next up: New Century Locker, Manchester on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | The Carpet Shop | London |
 | Sat, 14 Nov 2026 | New Century Locker | Manchester |
 
 ## Recently played
 
+- The Carpet Shop, London · Fri, 9 Oct 2026
 - Night Tales Loft, London · Sat, 12 Sept 2026
 - Yamamori Tengu, Dublin · Fri, 11 Sept 2026
 - Jumbi, London · Thu, 6 Aug 2026
@@ -20,10 +20,9 @@ JD. REID is a club and bass artist based in United Kingdom, with 27 gigs on soun
 - The Carpet Shop, London · Sat, 2 May 2026
 - Phonox, London · Sat, 10 Jan 2026
 - Colour Factory, London · Wed, 31 Dec 2025
-- The Carpet Shop, London · Sat, 29 Nov 2025
 
 ## Shares bills with
 
 Bok Bok, Halogenix, Call Super
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jdreid/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jdreid/)*

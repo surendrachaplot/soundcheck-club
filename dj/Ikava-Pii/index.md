@@ -1,6 +1,6 @@
 # Ikävä Pii
 
-Ikävä Pii is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 16 Oct 2026.
+Ikävä Pii is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 16 Oct 2026.
 
 Ikävä Pii is an experimental and bass artist, with 20 gigs on soundcheck across Berlin, London, Manchester and Montreal and 5 more. Often billed alongside Airali, Wordcolour and Alec Pace. Next up: La Station - Gare des Mines, Paris on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Ikävä Pii is an experimental and bass artist, with 20 gigs on soundcheck acros
 
 Airali, Wordcolour, Alec Pace
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Ikava-Pii/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Ikava-Pii/)*

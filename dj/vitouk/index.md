@@ -1,6 +1,6 @@
 # VITO (UK)
 
-VITO (UK) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at ARTSPACE, New York City on Sat, 10 Oct 2026.
+VITO (UK) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at ARTSPACE, New York City on Sat, 10 Oct 2026.
 
 VITO (UK) is a house and tech house artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Barcelona, Boston and Bucharest and 13 more. Often billed alongside Shahar, AJ Christou and Burdi. Next up: ARTSPACE, New York City on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ VITO (UK) is a house and tech house artist based in United Kingdom, with 35 gigs
 
 Shahar, AJ Christou, Burdi
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitouk/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitouk/)*

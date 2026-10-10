@@ -1,6 +1,6 @@
 # Tyrone Solomon
 
-Tyrone Solomon is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Boogie, Toronto on Sun, 11 Oct 2026.
+Tyrone Solomon is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Boogie, Toronto on Sun, 11 Oct 2026.
 
 Tyrone Solomon is a house and deep house artist based in Canada, with 35 gigs on soundcheck across Toronto. Often billed alongside Nick Holder, HXF (JEEP MIX) and Yogi. Next up: Boogie, Toronto on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Tyrone Solomon is a house and deep house artist based in Canada, with 35 gigs on
 
 Nick Holder, HXF (JEEP MIX), Yogi
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tyronesolomon/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tyronesolomon/)*

@@ -1,6 +1,6 @@
 # Gabberbitch69
 
-Gabberbitch69 is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at ESC, Montreal on Sat, 31 Oct 2026.
+Gabberbitch69 is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at ESC, Montreal on Sat, 31 Oct 2026.
 
 Gabberbitch69 is a hardcore and techno artist based in United States of America, with 65 gigs on soundcheck across Berlin, Copenhagen, Miami and Montreal and 4 more. Often billed alongside Franxx, DJ Land Reform and GET FACE. Next up: ESC, Montreal on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Gabberbitch69 is a hardcore and techno artist based in United States of America,
 
 Franxx, DJ Land Reform, GET FACE
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabberbitch69/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabberbitch69/)*

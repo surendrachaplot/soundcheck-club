@@ -1,6 +1,6 @@
 # Blå
 
-Blå is a music venue in Oslo with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Prins Thomas" on Fri, 9 Oct 2026.
+Blå is a music venue in Oslo with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Prins Thomas" on Fri, 9 Oct 2026.
 
 Blå is a music venue in Oslo listed on soundcheck. 6 upcoming gigs, with line-ups including DJ Aleksi, Dj Danifox, DJ Marfox and Fredfades and 2 more. See dates, start times and who's playing. Brennerivn 9c; 0182 Oslo; Norway.
 
@@ -19,4 +19,4 @@ Blå is a music venue in Oslo listed on soundcheck. 6 upcoming gigs, with line-u
 
 Brennerivn 9c; 0182 Oslo; Norway, Oslo
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*

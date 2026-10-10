@@ -1,8 +1,8 @@
 # Max Cherry
 
-Max Cherry is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at City Recital Hall, Sydney on Fri, 30 Oct 2026.
+Max Cherry is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at City Recital Hall, Sydney on Fri, 30 Oct 2026.
 
-Max Cherry is a bass and garage artist based in Australia, with 10 gigs on soundcheck across Sydney. Often billed alongside Jane Decks, Mincy and Lily FM. Next up: City Recital Hall, Sydney on Fri 30 Oct.
+Max Cherry is a garage and bass artist based in Australia, with 10 gigs on soundcheck across Sydney. Often billed alongside Jane Decks, Mincy and Lily FM. Next up: City Recital Hall, Sydney on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Max Cherry is a bass and garage artist based in Australia, with 10 gigs on sound
 
 Jane Decks, Mincy, Lily FM
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcherry-uk/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcherry-uk/)*

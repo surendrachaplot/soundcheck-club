@@ -1,14 +1,13 @@
 # The Glad Cafe
 
-The Glad Cafe is a music venue in Glasgow with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "common room with Tommy Barlow" on Fri, 9 Oct 2026.
+The Glad Cafe is a music venue in Glasgow with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Jazz at the Glad: Harry Christelis" on Tue, 13 Oct 2026.
 
-The Glad Cafe is a music venue in Glasgow listed on soundcheck. 8 upcoming gigs, with line-ups including Beau Wanzer, Gigi Masin and Will Samson. See dates, start times and who's playing. 1006A Pollokshaws Rd, Glasgow G41 2HG.
+The Glad Cafe is a music venue in Glasgow listed on soundcheck. 7 upcoming gigs, with line-ups including Beau Wanzer, Gigi Masin and Will Samson. See dates, start times and who's playing. 1006A Pollokshaws Rd, Glasgow G41 2HG.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | common room with Tommy Barlow |  |
 | Tue, 13 Oct 2026 | Jazz at the Glad: Harry Christelis |  |
 | Fri, 23 Oct 2026 | Pop Mutations & The Glad Cafe presents: Nadeem Din-Gabisi |  |
 | Sat, 24 Oct 2026 | Pop Mutations & The Glad Cafe presents: Deradoorian + Mason Lindahl |  |
@@ -21,4 +20,4 @@ The Glad Cafe is a music venue in Glasgow listed on soundcheck. 8 upcoming gigs,
 
 1006A Pollokshaws Rd, Glasgow G41 2HG, Glasgow
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-glad-cafe/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-glad-cafe/)*

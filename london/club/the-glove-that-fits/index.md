@@ -1,6 +1,6 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 23 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "HAiiNES presents We Are Strangers" on Thu, 15 Oct 2026.
+The Glove That Fits is a music venue in London with 23 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "HAiiNES presents We Are Strangers" on Thu, 15 Oct 2026.
 
 The Glove That Fits is a music venue in London listed on soundcheck. 23 upcoming gigs, with line-ups including Aisling, Antonio De Angelis, Ardishko and Arnaud Le Texier and 2 more. See dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
@@ -23,4 +23,4 @@ The Glove That Fits is a music venue in London listed on soundcheck. 23 upcoming
 
 179 Morning Lane, Hackney, E96LH, United Kingdom, London
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*

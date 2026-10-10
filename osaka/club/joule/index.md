@@ -1,14 +1,13 @@
 # Joule
 
-Joule is a music venue in Osaka with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "GOODLIFE feat. Nakadia" on Fri, 9 Oct 2026.
+Joule is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "NEBULA × OTO × BLACK NOIR" on Sat, 10 Oct 2026.
 
-Joule is a music venue in Osaka listed on soundcheck. 5 upcoming gigs, with line-ups including Astro aka Akihisa Takahashi, DJ OGAWA, EMILIO and Hernan Cattaneo and 2 more. See dates, start times and who's playing. 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan.
+Joule is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with line-ups including DJ OGAWA, EMILIO, Hernan Cattaneo and I-SO and 2 more. See dates, start times and who's playing. 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | GOODLIFE feat. Nakadia | Astro aka Akihisa Takahashi, NOBUYA (2), Nakadia, O-MAN, RICHKID |
 | Sat, 10 Oct 2026 | NEBULA × OTO × BLACK NOIR | EMILIO (3), I-SO, O-MAN, STRATAH |
 | Sat, 17 Oct 2026 | Time and Space 10th ANNIVERSARY | K.I.M, PiERO, YUKI (JP) |
 | Fri, 6 Nov 2026 | SPECTACULAR 7th ANNIVERSARY feat.  Hernan Cattaneo | DJ OGAWA, Hernan Cattaneo, Nao Nomura, Satoshi Tanaka, Senda, Takekiyo Ishimoto |
@@ -18,4 +17,4 @@ Joule is a music venue in Osaka listed on soundcheck. 5 upcoming gigs, with line
 
 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan, Osaka
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*

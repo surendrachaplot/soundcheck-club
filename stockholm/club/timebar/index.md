@@ -1,18 +1,17 @@
 # Timebar
 
-Timebar is a music venue in Stockholm with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Timebar presents Thambert - Swedish Candy - Coralie Llie" on Fri, 9 Oct 2026.
+Timebar is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. The next is "OBEHÖRIGA" on Fri, 30 Oct 2026.
 
-Timebar is a music venue in Stockholm listed on soundcheck. 2 upcoming gigs, with line-ups including Coralie Llie, Daddy Problems and Marble. See dates, start times and who's playing. Hornsgatan 174.
+Timebar is a music venue in Stockholm listed on soundcheck. 1 upcoming gig, with line-ups including Daddy Problems and Marble. See dates, start times and who's playing. Hornsgatan 174.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Timebar presents Thambert - Swedish Candy - Coralie Llie | Coralie Llie |
 | Fri, 30 Oct 2026 | OBEHÖRIGA | Daddy Problems, Marble |
 
 ## Address
 
 Hornsgatan 174, Stockholm
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/timebar/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/timebar/)*

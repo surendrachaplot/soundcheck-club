@@ -1,6 +1,6 @@
 # Acid Arab at Cité De La Musique
 
-Acid Arab at Cité De La Musique on Wed 10 Mar, Paris. 1 artist: Acid Arab. See the line-up on soundcheck.
+Acid Arab at Cité De La Musique on Wed 10 Mar, Paris. 1 artist: Acid Arab. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

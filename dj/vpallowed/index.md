@@ -1,6 +1,6 @@
 # vp allowed
 
-vp allowed is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 19 Nov 2026.
+vp allowed is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 19 Nov 2026.
 
 vp allowed is a techno and trance artist based in Italy, with 55 gigs on soundcheck across Berlin, Budapest, Copenhagen and Geneva and 4 more. Often billed alongside Agata (PL), Elios and LUCKY4U. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ vp allowed is a techno and trance artist based in Italy, with 55 gigs on soundch
 
 Agata (PL), Elios, LUCKY4U
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vpallowed/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vpallowed/)*

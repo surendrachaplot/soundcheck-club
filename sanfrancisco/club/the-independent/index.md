@@ -1,6 +1,6 @@
 # The Independent
 
-The Independent is a music venue in San Francisco/Oakland with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Dublon" on Sat, 10 Oct 2026.
+The Independent is a music venue in San Francisco/Oakland with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Dublon" on Sat, 10 Oct 2026.
 
 The Independent is a music venue in San Francisco/Oakland listed on soundcheck. 7 upcoming gigs, with line-ups including Dublon, Ely Oaks, Fatzo and Oden and 2 more. See dates, start times and who's playing. 628 Divisadero Street, San Francisco, CA, United States.
 
@@ -20,4 +20,4 @@ The Independent is a music venue in San Francisco/Oakland listed on soundcheck. 
 
 628 Divisadero Street, San Francisco, CA, United States, San Francisco/Oakland
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-independent/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-independent/)*

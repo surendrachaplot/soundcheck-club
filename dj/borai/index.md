@@ -1,6 +1,6 @@
 # Borai
 
-Borai is a Breakbeat and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at The Loco Klub, Bristol on Sat, 21 Nov 2026.
+Borai is a Breakbeat and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at The Loco Klub, Bristol on Sat, 21 Nov 2026.
 
 Borai is a breakbeat and jungle artist based in United Kingdom, with 40 gigs on soundcheck across Belfast, Berlin, Brighton and Bristol and 7 more. Often billed alongside Denham Audio, Mani Festo and LMajor. Next up: The Loco Klub, Bristol on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Borai is a breakbeat and jungle artist based in United Kingdom, with 40 gigs on 
 
 Denham Audio, Mani Festo, LMajor
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borai/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borai/)*

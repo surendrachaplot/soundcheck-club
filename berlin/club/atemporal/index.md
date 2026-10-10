@@ -1,14 +1,13 @@
 # Atemporal
 
-Atemporal is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Stegonaute — Nintendo Console Live Set" on Fri, 9 Oct 2026.
+Atemporal is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Cassie Kinoshi Listening session" on Sat, 10 Oct 2026.
 
-Atemporal is a music venue in Berlin listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
+Atemporal is a music venue in Berlin listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Stegonaute — Nintendo Console Live Set |  |
 | Sat, 10 Oct 2026 | Cassie Kinoshi Listening session |  |
 | Sun, 11 Oct 2026 | Egosex Live x Tourist x Atemporal |  |
 | Tue, 13 Oct 2026 | Living Room Meditation- Mindfulness, Somatic Practice & Sound |  |
@@ -19,4 +18,4 @@ Atemporal is a music venue in Berlin listed on soundcheck. 6 upcoming gigs. See 
 
 Boxhagener Str. 96 1st floor left, 10245 Berlin, Berlin
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*

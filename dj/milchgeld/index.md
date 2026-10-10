@@ -1,6 +1,6 @@
 # Milchgeld
 
-Milchgeld is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 16 Oct 2026.
+Milchgeld is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 16 Oct 2026.
 
 Milchgeld is a techno and trance artist based in Germany, with 19 gigs on soundcheck across Berlin. Often billed alongside Sonse, DaSoMaZo and NYXEA. Next up: Ritter Butzke, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Milchgeld is a techno and trance artist based in Germany, with 19 gigs on soundc
 
 Sonse, DaSoMaZo, NYXEA
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milchgeld/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milchgeld/)*

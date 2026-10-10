@@ -1,18 +1,18 @@
 # Harry Jackson
 
-Harry Jackson is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Bongo Club, Edinburgh on Fri, 9 Oct 2026.
+Harry Jackson is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at The Bongo Club, Edinburgh on Fri, 6 Nov 2026.
 
-Harry Jackson is a drum & bass and jungle artist based in United Kingdom, with 55 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Pollyanna, Rodent and Anikonik. Next up: The Bongo Club, Edinburgh on Fri 9 Oct.
+Harry Jackson is a drum & bass and jungle artist based in United Kingdom, with 55 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Pollyanna, Rodent and Anikonik. Next up: The Bongo Club, Edinburgh on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | The Bongo Club | Edinburgh |
 | Fri, 6 Nov 2026 | The Bongo Club | Edinburgh |
 
 ## Recently played
 
+- The Bongo Club, Edinburgh · Fri, 9 Oct 2026
 - The Bongo Club, Edinburgh · Fri, 18 Sept 2026
 - The Bongo Club, Edinburgh · Fri, 17 Jul 2026
 - The Bongo Club, Edinburgh · Fri, 19 Jun 2026
@@ -20,10 +20,9 @@ Harry Jackson is a drum & bass and jungle artist based in United Kingdom, with 5
 - The Bongo Club, Edinburgh · Fri, 22 May 2026
 - The Bongo Club, Edinburgh · Fri, 24 Apr 2026
 - The Bongo Club, Edinburgh · Fri, 27 Mar 2026
-- The Pitt Market, Edinburgh · Sat, 31 Jan 2026
 
 ## Shares bills with
 
 Pollyanna, Rodent, Anikonik
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harryjackson/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harryjackson/)*

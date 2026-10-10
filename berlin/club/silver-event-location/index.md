@@ -1,6 +1,6 @@
 # Silver Event Location
 
-Silver Event Location is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Techno Classics Party" on Sat, 17 Oct 2026.
+Silver Event Location is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Techno Classics Party" on Sat, 17 Oct 2026.
 
 Silver Event Location is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Bisk. See dates, start times and who's playing. Roelckestraße 6 , 13086 Berlin , Deutschland.
 
@@ -15,4 +15,4 @@ Silver Event Location is a music venue in Berlin listed on soundcheck. 2 upcomin
 
 Roelckestraße 6 , 13086 Berlin , Deutschland, Berlin
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silver-event-location/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silver-event-location/)*

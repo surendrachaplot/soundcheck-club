@@ -1,8 +1,8 @@
 # Plant43
 
-Plant43 is a Electro and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at radial, London on Fri, 20 Nov 2026.
+Plant43 is a Electro and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at radial, London on Fri, 20 Nov 2026.
 
-Plant43 is an electro and ambient artist, with 20 gigs on soundcheck across Berlin, Galway, Glasgow and London and 2 more. Often billed alongside Solid Blake, Transparent Sound and Alienata. Next up: radial, London on Fri 20 Nov.
+Plant43 is an electro and ambient artist based in United Kingdom, with 20 gigs on soundcheck across Berlin, Galway, Glasgow and London and 2 more. Often billed alongside Solid Blake, Transparent Sound and Alienata. Next up: radial, London on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Plant43 is an electro and ambient artist, with 20 gigs on soundcheck across Berl
 
 Solid Blake, Transparent Sound, Alienata
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plant43/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plant43/)*

@@ -1,18 +1,17 @@
 # The Abbey
 
-The Abbey is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Born at Midnite" on Fri, 9 Oct 2026.
+The Abbey is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. The next is "Dolphin Love" on Tue, 13 Oct 2026.
 
-The Abbey is a music venue in Manchester listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. The Abbey, Guildhall Cl, Manchester, M15 6SY.
+The Abbey is a music venue in Manchester listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. The Abbey, Guildhall Cl, Manchester, M15 6SY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Born at Midnite |  |
 | Tue, 13 Oct 2026 | Dolphin Love |  |
 
 ## Address
 
 The Abbey, Guildhall Cl, Manchester, M15 6SY, Manchester
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-abbey/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-abbey/)*

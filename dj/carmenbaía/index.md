@@ -1,6 +1,6 @@
 # Carmen Baía
 
-Carmen Baía is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Lady Libertine, Edinburgh on Sat, 10 Oct 2026.
+Carmen Baía is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Lady Libertine, Edinburgh on Sat, 10 Oct 2026.
 
 Carmen Baía is a house and techno artist based in United Kingdom, with 82 gigs on soundcheck across Amsterdam, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside Jamie Gunn, Robbie and T.D. Slider. Next up: Lady Libertine, Edinburgh on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Carmen Baía is a house and techno artist based in United Kingdom, with 82 gigs 
 
 Jamie Gunn, Robbie, T.D. Slider
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenbaía/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenbaía/)*

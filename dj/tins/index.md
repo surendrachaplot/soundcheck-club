@@ -1,19 +1,19 @@
 # TINS
 
-TINS is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 9 Oct 2026.
+TINS is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-TINS is a house and techno artist based in Netherlands, with 94 gigs on soundcheck across Amsterdam, Geneva, Milan and Munich and 5 more. Often billed alongside Trippy Tins, Boris Coelman and BELLA (NL). Next up: Skatecafe, Amsterdam on Fri 9 Oct.
+TINS is a house and techno artist based in Netherlands, with 94 gigs on soundcheck across Amsterdam, Geneva, Milan and Munich and 5 more. Often billed alongside Trippy Tins, Boris Coelman and BELLA (NL). Next up: SISSI'S Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Skatecafe | Amsterdam |
 | Thu, 22 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | Het Sieraad | Amsterdam |
 
 ## Recently played
 
+- Skatecafe, Amsterdam · Fri, 9 Oct 2026
 - Shelter Amsterdam, Amsterdam · Sat, 29 Aug 2026
 - Roel Langerakpark, Rotterdam · Sat, 8 Aug 2026
 - Thuishaven, Amsterdam · Sun, 19 Jul 2026
@@ -21,10 +21,9 @@ TINS is a house and techno artist based in Netherlands, with 94 gigs on soundche
 - Skatecafe, Amsterdam · Fri, 22 May 2026
 - Paradiso, Amsterdam · Sat, 9 May 2026
 - Shelter Amsterdam, Amsterdam · Mon, 27 Apr 2026
-- Bar Dancing Multipla, Amsterdam · Mon, 27 Apr 2026
 
 ## Shares bills with
 
 Trippy Tins, Boris Coelman, BELLA (NL)
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tins/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tins/)*

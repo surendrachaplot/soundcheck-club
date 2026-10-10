@@ -1,6 +1,6 @@
 # Conscious Contact
 
-Conscious Contact is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Flash, Washington DC on Sun, 25 Oct 2026.
+Conscious Contact is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Flash, Washington DC on Sun, 25 Oct 2026.
 
 Conscious Contact is a house and deep house artist based in United States of America, with 14 gigs on soundcheck across Washington DC. Often billed alongside Philip Goyette, ANNYA and Anthony Middleton. Next up: Flash, Washington DC on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Conscious Contact is a house and deep house artist based in United States of Ame
 
 Philip Goyette, ANNYA, Anthony Middleton
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/consciouscontact/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/consciouscontact/)*

@@ -1,6 +1,6 @@
 # Chontane
 
-Chontane is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at ∄, Kyiv on Sat, 10 Oct 2026.
+Chontane is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at ∄, Kyiv on Sat, 10 Oct 2026.
 
 Chontane is a techno and house artist based in Germany, with 81 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside SHDW, Lars Huismann and Regent. Next up: ∄, Kyiv on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Chontane is a techno and house artist based in Germany, with 81 gigs on soundche
 
 SHDW, Lars Huismann, Regent
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chontane/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chontane/)*

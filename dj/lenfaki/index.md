@@ -1,6 +1,6 @@
 # Len Faki
 
-Len Faki is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at VIERNULVIER, Ghent on Sat, 17 Oct 2026.
+Len Faki is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at VIERNULVIER, Ghent on Sat, 17 Oct 2026.
 
 Len Faki is a techno and house artist based in Germany, with 140 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Daria Kolosova, Elli Acula and Beste Hira. Next up: VIERNULVIER, Ghent on Sat 17 Oct.
 
@@ -29,4 +29,4 @@ Len Faki is a techno and house artist based in Germany, with 140 gigs on soundch
 
 Daria Kolosova, Elli Acula, Beste Hira
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenfaki/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenfaki/)*

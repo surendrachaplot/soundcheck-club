@@ -1,8 +1,8 @@
 # Richie Hawtin
 
-Richie Hawtin is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+Richie Hawtin is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
-Richie Hawtin is a techno and house artist based in United Kingdom, with 184 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Héctor Oaks, Adiel and KI/KI. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
+Richie Hawtin is a techno and house artist based in United Kingdom, with 185 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Héctor Oaks, Adiel and KI/KI. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Richie Hawtin is a techno and house artist based in United Kingdom, with 184 gig
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
+| Sat, 24 Oct 2026 | FVTVR | Paris |
 | Fri, 30 Oct 2026 | Gold Bar Hangar | California |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 27 Nov 2026 | Ace*Mission Studios | Los Angeles |
@@ -30,4 +31,4 @@ Richie Hawtin is a techno and house artist based in United Kingdom, with 184 gig
 
 Héctor Oaks, Adiel, KI/KI
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*

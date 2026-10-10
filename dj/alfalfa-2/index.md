@@ -1,6 +1,6 @@
 # Alfalfa (2)
 
-Alfalfa (2) is a Electro and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Stadtgarten Konzertsaal / Cafe, Cologne on Sat, 10 Oct 2026.
+Alfalfa (2) is a Electro and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Stadtgarten Konzertsaal / Cafe, Cologne on Sat, 10 Oct 2026.
 
 Alfalfa is an electro and tech house artist based in Germany, with 46 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Munich and 3 more. Often billed alongside Romeu, Julian Bomm and Karrido. Next up: Stadtgarten Konzertsaal / Cafe, Cologne on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Alfalfa is an electro and tech house artist based in Germany, with 46 gigs on so
 
 Romeu (2), Julian Bomm, Karrido
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alfalfa-2/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alfalfa-2/)*

@@ -1,14 +1,13 @@
 # Ankali & Planeta Za
 
-Ankali & Planeta Za is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "#wubwub x Markham Road Records" on Fri, 9 Oct 2026.
+Ankali & Planeta Za is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "NASTY #6" on Sat, 10 Oct 2026.
 
-Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 10 upcoming gigs, with line-ups including 3ever, Alfred Czital, A/PM and AVHD and 2 more. See dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
+Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with line-ups including 3ever, Alfred Czital, A/PM and AVHD and 2 more. See dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | #wubwub x Markham Road Records | DDAT, Jan Loup, Westdale, basic chanel |
 | Sat, 10 Oct 2026 | NASTY #6 | A/PM, Chromic Disease, Kewu, Powder Ranger, Rico Casazza, Vialla, aykanakdag |
 | Fri, 16 Oct 2026 | Harmony Rec. x Mala Junta | Alfred Czital, DJ TOOL, Fembot, Georgia Bird, HAO (CN), Hyperaktivist, Raleigh, Royalty Sex Affair, TerminusTechnikus, Yan (CZ), Yazzus, mata rubia |
 | Sat, 17 Oct 2026 | noRemorse // dogheadsurigeri, 3ever, Nina Farrina, SJ Yellow, tmk, yo haan | 3ever, Nina Farrina, SJ Yellow, dogheadsurigeri, tmk (CZ), yo haan |
@@ -23,4 +22,4 @@ Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 10 upcoming
 
 Lopuchová 58/6, Prague, 101 00, Czechia, Prague
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*

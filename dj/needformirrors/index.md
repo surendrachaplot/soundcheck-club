@@ -1,6 +1,6 @@
 # Need For Mirrors
 
-Need For Mirrors is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Cafeteria, Toronto on Fri, 16 Oct 2026.
+Need For Mirrors is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Cafeteria, Toronto on Fri, 16 Oct 2026.
 
 Need For Mirrors is a drum & bass and jungle artist based in United Kingdom, with 42 gigs on soundcheck across Auckland, Belfast, Berlin and Birmingham and 9 more. Often billed alongside Mantmast, DJ Lee and Doc Scott. Next up: Cafeteria, Toronto on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Need For Mirrors is a drum & bass and jungle artist based in United Kingdom, wit
 
 Mantmast, DJ Lee, Doc Scott
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/needformirrors/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/needformirrors/)*

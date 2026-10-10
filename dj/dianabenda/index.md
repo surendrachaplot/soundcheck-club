@@ -1,6 +1,6 @@
 # Diana Benda
 
-Diana Benda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at NOH Extended, Istanbul on Sat, 10 Oct 2026.
+Diana Benda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at NOH Extended, Istanbul on Sat, 10 Oct 2026.
 
 Diana Benda is a techno and house artist based in Turkey, with 15 gigs on soundcheck across Istanbul. Often billed alongside Derya Di, BLONDE STATEMENT and Haider 2. Next up: NOH Extended, Istanbul on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Diana Benda is a techno and house artist based in Turkey, with 15 gigs on soundc
 
 Derya Di, BLONDE STATEMENT, Haider 2
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dianabenda/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dianabenda/)*

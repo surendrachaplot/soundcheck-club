@@ -1,6 +1,6 @@
 # Total Freedom
 
-Total Freedom is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Unit 58, London on Fri, 9 Oct 2026.
+Total Freedom is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Unit 58, London on Fri, 9 Oct 2026.
 
 Total Freedom is a club and techno artist based in United States of America, with 61 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 18 more. Often billed alongside BAE BAE, Bapari and Evian Christ. Next up: Unit 58, London on Fri 9 Oct.
 
@@ -14,6 +14,7 @@ Total Freedom is a club and techno artist based in United States of America, wit
 
 ## Recently played
 
+- Unit 58, London · Fri, 9 Oct 2026
 - TBA - Downtown LA, Los Angeles · Sat, 19 Sept 2026
 - TBA - Premises, Chicago · Sun, 6 Sept 2026
 - public records, New York City · Thu, 6 Aug 2026
@@ -21,10 +22,9 @@ Total Freedom is a club and techno artist based in United States of America, wit
 - Telos Haus, New York City · Sun, 21 Jun 2026
 - M.O.T, London · Fri, 5 Jun 2026
 - Garage Noord, Amsterdam · Fri, 29 May 2026
-- Elsewhere, New York City · Sun, 24 May 2026
 
 ## Shares bills with
 
 BAE BAE, Bapari, Evian Christ
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/totalfreedom/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/totalfreedom/)*

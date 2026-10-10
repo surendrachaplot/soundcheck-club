@@ -1,6 +1,6 @@
 # Otezuka
 
-Otezuka is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Le Klub, Paris on Sat, 10 Oct 2026.
+Otezuka is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Le Klub, Paris on Sat, 10 Oct 2026.
 
 Otezuka is a trance and techno artist based in France, with 15 gigs on soundcheck across London, Nantes and Paris. Often billed alongside Hemei, K0uci and Kinokosan. Next up: Le Klub, Paris on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Otezuka is a trance and techno artist based in France, with 15 gigs on soundchec
 
 Hemei, K0uci, Kinokosan
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otezuka/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otezuka/)*

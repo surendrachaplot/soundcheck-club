@@ -1,6 +1,6 @@
 # Amour Propre
 
-Amour Propre is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Eivissa Ship, Amsterdam on Thu, 22 Oct 2026.
+Amour Propre is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Eivissa Ship, Amsterdam on Thu, 22 Oct 2026.
 
 Amour Propre is a deep house and house artist based in France, with 23 gigs on soundcheck across Amsterdam, Barcelona, Budapest and Ibiza and 4 more. Often billed alongside Mont Rouge, Sasson and Agoria. Next up: Eivissa Ship, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Amour Propre is a deep house and house artist based in France, with 23 gigs on s
 
 Mont Rouge, Sasson, Agoria
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amourpropre/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amourpropre/)*

@@ -1,19 +1,19 @@
 # Licia
 
-Licia is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Lost Horizon, Bristol on Fri, 9 Oct 2026.
+Licia is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Steel Yard, London on Fri, 16 Oct 2026.
 
-Licia is a drum & bass and jungle artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bristol and 6 more. Often billed alongside Anaïs, Andromedik and Friction. Next up: Lost Horizon, Bristol on Fri 9 Oct.
+Licia is a drum & bass and jungle artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bristol and 6 more. Often billed alongside Anaïs, Andromedik and Friction. Next up: The Steel Yard, London on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Lost Horizon | Bristol |
 | Fri, 16 Oct 2026 | The Steel Yard | London |
 | Fri, 30 Oct 2026 | Antwerp Expo | Antwerp |
 
 ## Recently played
 
+- Lost Horizon, Bristol · Fri, 9 Oct 2026
 - Sala Dresden, Barcelona · Fri, 2 Oct 2026
 - Lofi, Amsterdam · Sat, 15 Aug 2026
 - Bootshaus, Cologne · Sat, 6 Jun 2026
@@ -21,10 +21,9 @@ Licia is a drum & bass and jungle artist based in United Kingdom, with 18 gigs o
 - Bar15, Stockholm · Fri, 6 Mar 2026
 - Melkweg, Amsterdam · Fri, 13 Feb 2026
 - Rubix Warehouse & Tetris Studios, Melbourne · Fri, 23 Jan 2026
-- XLR, Manchester · Sat, 29 Nov 2025
 
 ## Shares bills with
 
 Anaïs, Andromedik, Friction
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/licia/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/licia/)*

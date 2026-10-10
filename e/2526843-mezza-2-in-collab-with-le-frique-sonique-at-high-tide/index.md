@@ -1,10 +1,10 @@
 # mezza 2 in collab with Le Frique Sonique at High Tide
 
-mezza 2 in collab with Le Frique Sonique at High Tide on Sun 13 Sept, Losangeles. House and Afro House. Preview the line-up and save it on soundcheck.
+mezza 2 in collab with Le Frique Sonique at High Tide on Sun 11 Oct, Los Angeles. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sun, 13 Sept 2026 |
+| Date | Sun, 11 Oct 2026 |
 | Venue | High Tide |
 | City | Los Angeles |
 

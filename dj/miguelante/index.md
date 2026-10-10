@@ -1,6 +1,6 @@
 # Miguel Ante
 
-Miguel Ante is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - WEST LOOP WAREHOUSE, Chicago on Fri, 30 Oct 2026.
+Miguel Ante is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - WEST LOOP WAREHOUSE, Chicago on Fri, 30 Oct 2026.
 
 Miguel Ante is a progressive house and house artist, with 12 gigs on soundcheck across Chicago. Often billed alongside Alfred Clayton, Dabura and Iváno Lima. Next up: TBA - WEST LOOP WAREHOUSE, Chicago on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Miguel Ante is a progressive house and house artist, with 12 gigs on soundcheck 
 
 Alfred Clayton, Dabura, Iváno Lima
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelante/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelante/)*

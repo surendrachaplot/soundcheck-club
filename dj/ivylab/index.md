@@ -1,6 +1,6 @@
 # Ivy Lab
 
-Ivy Lab is a Bass and Drum & Bass artist with 11 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at SILO, New York City on Sat, 10 Oct 2026.
+Ivy Lab is a Bass and Drum & Bass artist with 11 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at SILO, New York City on Sat, 10 Oct 2026.
 
 Ivy Lab is a bass and drum & bass artist based in United Kingdom, with 87 gigs on soundcheck across Antwerp, Arkansas, Auckland and Austin and 32 more. Often billed alongside Kasra, Lake Hills and Jubilee. Next up: SILO, New York City on Sat 10 Oct.
 
@@ -35,4 +35,4 @@ Ivy Lab is a bass and drum & bass artist based in United Kingdom, with 87 gigs o
 
 Kasra, Lake Hills, Jubilee
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivylab/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivylab/)*

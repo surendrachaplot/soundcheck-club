@@ -1,6 +1,6 @@
 # ZMØRA
 
-ZMØRA is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Club Lucia, Vienna on Fri, 16 Oct 2026.
+ZMØRA is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Club Lucia, Vienna on Fri, 16 Oct 2026.
 
 ZMØRA is a techno and experimental artist based in Poland, with 12 gigs on soundcheck across Krakow and Vienna. Often billed alongside A.C., Firefly and AregV. Next up: Club Lucia, Vienna on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ ZMØRA is a techno and experimental artist based in Poland, with 12 gigs on soun
 
 A.C., Firefly, AregV
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zmora-pl/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zmora-pl/)*

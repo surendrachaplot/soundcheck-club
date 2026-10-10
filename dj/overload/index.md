@@ -1,6 +1,6 @@
 # ØVERLOAD
 
-ØVERLOAD is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Sensorium, Berlin on Sun, 1 Nov 2026.
+ØVERLOAD is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Sensorium, Berlin on Sun, 1 Nov 2026.
 
 ØVERLOAD is a techno and tech house artist based in Russia, with 8 gigs on soundcheck across Berlin and Tbilisi. Often billed alongside Blck-Swan, UniKhatu and Viktor Kampf. Next up: Sensorium, Berlin on Sun 1 Nov.
 
@@ -24,4 +24,4 @@
 
 Blck-Swan, UniKhatu, Viktor Kampf
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/overload/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/overload/)*

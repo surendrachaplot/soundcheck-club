@@ -1,14 +1,13 @@
 # K Motionz
 
-K Motionz is a Drum & Bass and Bass artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+K Motionz is a Drum & Bass and Bass artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Gaswrx Birmingham, Birmingham on Sat, 10 Oct 2026.
 
-K Motionz is a drum & bass and bass artist based in United Kingdom, with 88 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Birmingham and 28 more. Often billed alongside Hybrid Minds, IC3 and Mozey. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
+K Motionz is a drum & bass and bass artist based in United Kingdom, with 88 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Birmingham and 28 more. Often billed alongside Hybrid Minds, IC3 and Mozey. Next up: Gaswrx Birmingham, Birmingham on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 10 Oct 2026 | Gaswrx Birmingham | Birmingham |
 | Sat, 31 Oct 2026 | MK Arena | Midlands |
 | Fri, 6 Nov 2026 | Quarters | Brighton |
@@ -19,6 +18,7 @@ K Motionz is a drum & bass and bass artist based in United Kingdom, with 88 gigs
 
 ## Recently played
 
+- Depot Mayfield, Manchester · Fri, 9 Oct 2026
 - The Red Room, Vancouver · Sat, 19 Sept 2026
 - The Red Room, Vancouver · Sat, 19 Sept 2026
 - UNO MALTA, Malta · Thu, 3 Sept 2026
@@ -26,10 +26,9 @@ K Motionz is a drum & bass and bass artist based in United Kingdom, with 88 gigs
 - Lofi, Amsterdam · Sat, 15 Aug 2026
 - Larimer Lounge, Denver · Sat, 1 Aug 2026
 - Silverworks Island, London · Sun, 5 Jul 2026
-- Heaton Park, Manchester · Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Hybrid Minds, IC3, Mozey
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kmotionz/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kmotionz/)*

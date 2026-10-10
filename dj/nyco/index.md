@@ -1,6 +1,6 @@
 # Nyco (FR)
 
-Nyco (FR) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Gotec, Karlsruhe on Sat, 10 Oct 2026.
+Nyco (FR) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Gotec, Karlsruhe on Sat, 10 Oct 2026.
 
 Nyco (FR) is a techno and hardcore artist based in France, with 21 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Karlsruhe and 5 more. Often billed alongside Aphøtic, KARAH and XRTN. Next up: Gotec, Karlsruhe on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Nyco (FR) is a techno and hardcore artist based in France, with 21 gigs on sound
 
 Aphøtic, KARAH, XRTN
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyco/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyco/)*

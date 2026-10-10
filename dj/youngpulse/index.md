@@ -1,6 +1,6 @@
 # Young Pulse
 
-Young Pulse is a Disco and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Djoon, Paris on Sat, 10 Oct 2026.
+Young Pulse is a Disco and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Djoon, Paris on Sat, 10 Oct 2026.
 
 Young Pulse is a disco and house artist based in France, with 101 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Geneva and 14 more. Often billed alongside Melvo Baptiste, Tonno Disko and Dave Lee. Next up: Djoon, Paris on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Young Pulse is a disco and house artist based in France, with 101 gigs on soundc
 
 Melvo Baptiste, Tonno Disko, Dave Lee
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngpulse/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngpulse/)*

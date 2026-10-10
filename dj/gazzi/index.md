@@ -1,6 +1,6 @@
 # Gazzi
 
-Gazzi is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at El Internacional, Madrid on Sat, 10 Oct 2026.
+Gazzi is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at El Internacional, Madrid on Sat, 10 Oct 2026.
 
 Gazzi is a house and electronica artist based in Spain, with 79 gigs on soundcheck across Barcelona, Copenhagen, Lyon and Madrid and 3 more. Often billed alongside Dalila (ES), Nahoomie and Underworld. Next up: El Internacional, Madrid on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Gazzi is a house and electronica artist based in Spain, with 79 gigs on soundche
 
 Dalila (ES), Nahoomie, Underworld
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gazzi/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gazzi/)*

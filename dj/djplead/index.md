@@ -1,23 +1,23 @@
 # DJ Plead
 
-DJ Plead is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+DJ Plead is a Techno and Bass artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The White Hotel, Manchester on Sat, 17 Oct 2026.
 
-DJ Plead is a techno and bass artist based in Australia, with 136 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 38 more. Often billed alongside rRoxymore, Azu Tiwaline and DJ Python. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
+DJ Plead is a techno and bass artist based in Australia, with 137 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 38 more. Often billed alongside rRoxymore, Azu Tiwaline and DJ Python. Next up: The White Hotel, Manchester on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
-| Fri, 9 Oct 2026 | Hotel Forum | Krakow |
 | Sat, 17 Oct 2026 | The White Hotel | Manchester |
 | Sun, 18 Oct 2026 | Golden Pudel Club | Hamburg |
 | Fri, 30 Oct 2026 | Centro Cultural Conde Duque | Madrid |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Sat, 5 Dec 2026 | Club 77 | Sydney |
+| Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Victoria, Australia) | Melbourne |
 
 ## Recently played
 
+- Hotel Forum, Krakow · Fri, 9 Oct 2026
 - Hotel Forum, Krakow · Thu, 8 Oct 2026
 - TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City · Sat, 3 Oct 2026
 - Various venues - Warsaw & Krakow, Poland · Fri, 2 Oct 2026
@@ -25,10 +25,9 @@ DJ Plead is a techno and bass artist based in Australia, with 136 gigs on soundc
 - Good Room, New York City · Thu, 1 Oct 2026
 - Ormside Projects, London · Sat, 26 Sept 2026
 - OHM, Berlin · Fri, 18 Sept 2026
-- EXIT Glasgow, Glasgow · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 rRoxymore, Azu Tiwaline, DJ Python
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djplead/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djplead/)*

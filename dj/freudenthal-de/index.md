@@ -1,6 +1,6 @@
 # Freudenthal
 
-Freudenthal is a Italo Disco and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at control, Bucharest on Fri, 16 Oct 2026.
+Freudenthal is a Italo Disco and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at control, Bucharest on Fri, 16 Oct 2026.
 
 Freudenthal is an italo disco and ebm artist based in Germany, with 50 gigs on soundcheck across Barcelona, Berlin, Bucharest and Madrid and 5 more. Often billed alongside Cyranotaurus Cortex, Goldenaxe and saeuer. Next up: control, Bucharest on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Freudenthal is an italo disco and ebm artist based in Germany, with 50 gigs on s
 
 Cyranotaurus Cortex, Goldenaxe, saeuer
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freudenthal-de/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freudenthal-de/)*

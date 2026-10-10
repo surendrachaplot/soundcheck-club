@@ -1,14 +1,13 @@
 # Le Red Room
 
-Le Red Room is a music venue in Montreal with 14 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "MIND SPACE x TRANSITION" on Fri, 9 Oct 2026.
+Le Red Room is a music venue in Montreal with 13 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "BLEEDER: OUT OF CONTROL" on Sat, 10 Oct 2026.
 
-Le Red Room is a music venue in Montreal listed on soundcheck. 14 upcoming gigs, with line-ups including Baby Bimbo, Berkaï, ccil and EMN and 2 more. See dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
+Le Red Room is a music venue in Montreal listed on soundcheck. 13 upcoming gigs, with line-ups including Baby Bimbo, ccil, EMN and InFiltr and 2 more. See dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | MIND SPACE x TRANSITION | Berkaï |
 | Sat, 10 Oct 2026 | BLEEDER: OUT OF CONTROL |  |
 | Sun, 11 Oct 2026 | BASSgiving 2026 @ Le Red Room |  |
 | Tue, 13 Oct 2026 | 5:14 Sessions with Jon Wait [All Night Long - Free] | InFiltr |
@@ -18,9 +17,10 @@ Le Red Room is a music venue in Montreal listed on soundcheck. 14 upcoming gigs,
 | Sun, 18 Oct 2026 | Electro Oasis (every Sunday) *Free with RSVP ticket* | POM (1), nastygloss |
 | Tue, 20 Oct 2026 | 5:14 Sessions with Pyromane [All Night Long - Free] | Pyromane |
 | Wed, 21 Oct 2026 | DOWN2TECHNO: Every Wednesday | K657 |
+| Tue, 27 Oct 2026 | 5:14 Sessions with ccil [All Night Long - Free] | ccil |
 
 ## Address
 
 2037 rue Saint-Denis, Montreal, Quebec H2X3K8, Montreal
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*

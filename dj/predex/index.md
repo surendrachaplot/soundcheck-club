@@ -1,18 +1,18 @@
 # Predex
 
-Predex is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Pracht, Frankfurt on Fri, 9 Oct 2026.
+Predex is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
 
-Predex is a techno and house artist based in Germany, with 20 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Frankfurt and 1 more. Often billed alongside ELIF, Adron_ and Manu Strasse. Next up: Pracht, Frankfurt on Fri 9 Oct.
+Predex is a techno and house artist based in Germany, with 20 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Frankfurt and 1 more. Often billed alongside ELIF, Adron_ and Manu Strasse. Next up: Onder Hans, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Pracht | Frankfurt |
 | Thu, 22 Oct 2026 | Onder Hans | Amsterdam |
 
 ## Recently played
 
+- Pracht, Frankfurt · Fri, 9 Oct 2026
 - East Side Gallery Deck, Berlin · Sat, 22 Aug 2026
 - Birgit, Berlin · Fri, 21 Aug 2026
 - Kater, Berlin · Fri, 31 Jul 2026
@@ -20,10 +20,9 @@ Predex is a techno and house artist based in Germany, with 20 gigs on soundcheck
 - Kater, Berlin · Sat, 21 Feb 2026
 - Octogon Berlin, Berlin · Sat, 7 Feb 2026
 - Crack Bellmer, Berlin · Thu, 29 Jan 2026
-- Kater, Berlin · Fri, 14 Nov 2025
 
 ## Shares bills with
 
 ELIF, Adron_, Manu Strasse
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/predex/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/predex/)*

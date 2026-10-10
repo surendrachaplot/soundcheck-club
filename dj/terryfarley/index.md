@@ -1,6 +1,6 @@
 # Terry Farley
 
-Terry Farley is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Omeara, London on Sat, 10 Oct 2026.
+Terry Farley is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Omeara, London on Sat, 10 Oct 2026.
 
 Terry Farley is a house and disco artist based in United Kingdom, with 74 gigs on soundcheck across Bali, Brighton, Cardiff and Glasgow and 7 more. Often billed alongside Stuart Patterson, JARVIS and Nancy Noise. Next up: Omeara, London on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Terry Farley is a house and disco artist based in United Kingdom, with 74 gigs o
 
 Stuart Patterson, JARVIS, Nancy Noise
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terryfarley/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terryfarley/)*

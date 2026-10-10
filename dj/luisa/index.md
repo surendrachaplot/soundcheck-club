@@ -1,14 +1,15 @@
 # Luisa
 
-Luisa is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Cadavra, Madrid on Sat, 10 Oct 2026.
+Luisa is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Cadavra, Madrid on Sat, 10 Oct 2026.
 
-Luisa is a techno and house artist based in Portugal, with 107 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside Solid-Funk, Worm Class and Cruz (PT). Next up: Cadavra, Madrid on Sat 10 Oct.
+Luisa is a techno and house artist based in Portugal, with 108 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside Solid-Funk, Worm Class and Cruz (PT). Next up: Cadavra, Madrid on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Cadavra | Madrid |
+| Sat, 17 Oct 2026 | Lux Fragil | Lisbon |
 | Sat, 7 Nov 2026 | Macadam | Nantes |
 | Fri, 4 Dec 2026 | 宀 Club | Hong Kong |
 
@@ -27,4 +28,4 @@ Luisa is a techno and house artist based in Portugal, with 107 gigs on soundchec
 
 Solid-Funk, Worm Class, Cruz (PT)
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luisa/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luisa/)*

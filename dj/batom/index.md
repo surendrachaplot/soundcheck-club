@@ -1,6 +1,6 @@
 # Batom
 
-Batom is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Statera Cellars, Portland on Fri, 23 Oct 2026.
+Batom is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Statera Cellars, Portland on Fri, 23 Oct 2026.
 
 Batom is a house and balearic artist based in Mexico, with 15 gigs on soundcheck across Melbourne and Portland. Often billed alongside Luum, Peter Sheppard and Space Ghost. Next up: Statera Cellars, Portland on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Batom is a house and balearic artist based in Mexico, with 15 gigs on soundcheck
 
 Luum, Peter Sheppard, Space Ghost
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/batom/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/batom/)*

@@ -1,6 +1,6 @@
-# Siku Series pres Richard Gregory + De La Reef + Papolious Jones ( live) + Rufo + Onoffon at The Glove That Fits
+# Siku Series pres Richard Gregory + De La Reef + Papolious Jones [Live] + Rufo + Onoffon at The Glove That Fits
 
-Siku Series pres Richard Gregory + De La Reef + Papolious Jones ( live) + Rufo + Onoffon at The Glove That Fits on Sat 7 Nov, London. 5 artists: Brian Topham, De La Reef, Onoffon and Richard Gregory and 1 more. See the line-up on soundcheck.
+Siku Series pres Richard Gregory + De La Reef + Papolious Jones [Live] + Rufo + Onoffon at The Glove That Fits on Sat 7 Nov, London. 5 artists: Brian Topham, De La Reef, Onoffon and Richard Gregory and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

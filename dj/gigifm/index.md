@@ -1,6 +1,6 @@
 # GiGi FM
 
-GiGi FM is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+GiGi FM is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
 GiGi FM is a techno and house artist, with 177 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 52 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
@@ -9,7 +9,6 @@ GiGi FM is a techno and house artist, with 177 gigs on soundcheck across Adelaid
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
-| Fri, 9 Oct 2026 | Ancient World | Adelaide |
 | Sat, 10 Oct 2026 | TBA | Perth |
 | Sat, 10 Oct 2026 | TBA - Warehouse | Perth |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
@@ -20,9 +19,11 @@ GiGi FM is a techno and house artist, with 177 gigs on soundcheck across Adelaid
 | Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 | Sat, 21 Nov 2026 | Magasins Généraux | Paris |
+| Fri, 27 Nov 2026 | Mezz | Netherlands |
 
 ## Recently played
 
+- Ancient World, Adelaide · Fri, 9 Oct 2026
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
 - Sidney Myer Music Bowl, Melbourne · Sat, 3 Oct 2026
@@ -30,10 +31,9 @@ GiGi FM is a techno and house artist, with 177 gigs on soundcheck across Adelaid
 - RASA, Singapore · Sat, 26 Sept 2026
 - Flux, Istanbul · Sat, 15 Aug 2026
 - Gianpula Village, Malta · Wed, 12 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Altinbas, Polygonia, DVS1
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*

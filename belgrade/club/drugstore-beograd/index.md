@@ -1,6 +1,6 @@
 # Drugstore Beograd
 
-Drugstore Beograd is a music venue in Belgrade with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "MRAK with Sedef Adasï" on Sat, 10 Oct 2026.
+Drugstore Beograd is a music venue in Belgrade with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "MRAK with Sedef Adasï" on Sat, 10 Oct 2026.
 
 Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 9 upcoming gigs, with line-ups including Alarico, Asarri, BEREZA and Brtinzz and 2 more. See dates, start times and who's playing. Bulevar Despota Stefana 115 - Poenkareova.
 
@@ -22,4 +22,4 @@ Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 9 upcoming 
 
 Bulevar Despota Stefana 115 - Poenkareova, Belgrade
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/drugstore-beograd/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/drugstore-beograd/)*

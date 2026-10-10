@@ -1,13 +1,14 @@
 # Anders HP
 
-Anders HP is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Culture Box, Copenhagen on Fri, 23 Oct 2026.
+Anders HP is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at MODULE, Copenhagen on Sat, 17 Oct 2026.
 
-Anders HP is a house and techno artist based in Denmark, with 45 gigs on soundcheck across Copenhagen. Often billed alongside CERJ, Baime and Business Risky. Next up: Culture Box, Copenhagen on Fri 23 Oct.
+Anders HP is a techno and house artist based in Denmark, with 46 gigs on soundcheck across Copenhagen. Often billed alongside CERJ, Baime and Business Risky. Next up: MODULE, Copenhagen on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | MODULE | Copenhagen |
 | Fri, 23 Oct 2026 | Culture Box | Copenhagen |
 
 ## Recently played
@@ -25,4 +26,4 @@ Anders HP is a house and techno artist based in Denmark, with 45 gigs on soundch
 
 CERJ, Baime, Business Risky
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andershp/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andershp/)*

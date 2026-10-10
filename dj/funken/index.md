@@ -1,6 +1,6 @@
 # Funken
 
-Funken is a Dub and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Block1, Berlin on Sat, 10 Oct 2026.
+Funken is a Dub and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Block1, Berlin on Sat, 10 Oct 2026.
 
 Funken is a dub and deep house artist, with 31 gigs on soundcheck across Berlin. Often billed alongside Al_Massimo, Overthink 71 and Paoler. Next up: Block1, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Funken is a dub and deep house artist, with 31 gigs on soundcheck across Berlin.
 
 Al_Massimo, Overthink 71, Paoler
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funken/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funken/)*

@@ -1,8 +1,8 @@
 # Outernet Live
 
-Outernet Live is a music venue in London with 16 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Labyrinth presents: JAZZWRLD & Thukuthela Live Show" on Sat, 10 Oct 2026.
+Outernet Live is a music venue in London with 17 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Labyrinth presents: JAZZWRLD & Thukuthela Live Show" on Sat, 10 Oct 2026.
 
-Outernet Live is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including AALIYAH, AJNA, ALISHA and Cassius and 2 more. See dates, start times and who's playing. Denmark Street, London WC2H.
+Outernet Live is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including AALIYAH, AJNA, ALISHA and Cassius and 2 more. See dates, start times and who's playing. Denmark Street, London WC2H.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Outernet Live is a music venue in London listed on soundcheck. 16 upcoming gigs,
 
 Denmark Street, London WC2H, London
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*

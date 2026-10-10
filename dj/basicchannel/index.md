@@ -1,6 +1,6 @@
 # Basic Channel
 
-Basic Channel is a Amapiano and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Melkweg, Amsterdam on Sun, 25 Oct 2026.
+Basic Channel is a Amapiano and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Melkweg, Amsterdam on Sun, 25 Oct 2026.
 
 Basic Channel is an amapiano and dub techno artist based in Germany, with 4 gigs on soundcheck across Amsterdam, Dublin and Nürnberg. Often billed alongside Moritz von Oswald, Bernossi and Cleric. Next up: Melkweg, Amsterdam on Sun 25 Oct.
 
@@ -20,4 +20,4 @@ Basic Channel is an amapiano and dub techno artist based in Germany, with 4 gigs
 
 Moritz von Oswald, Bernossi, Cleric
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basicchannel/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basicchannel/)*

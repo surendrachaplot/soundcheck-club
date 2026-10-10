@@ -1,14 +1,13 @@
 # Uus Laine
 
-Uus Laine is a music venue in Tallinn with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Laine Klubiöö: Yung Singh (UK)" on Fri, 9 Oct 2026.
+Uus Laine is a music venue in Tallinn with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Laine Klubiöö: mi-el (UK)" on Fri, 6 Nov 2026.
 
-Uus Laine is a music venue in Tallinn listed on soundcheck. 6 upcoming gigs, with line-ups including adobeprincess, mi-el, shbxsz and State OFFF and 2 more. See dates, start times and who's playing. Vana-Kalamaja 1 Tallinn, Estonia.
+Uus Laine is a music venue in Tallinn listed on soundcheck. 5 upcoming gigs, with line-ups including adobeprincess, mi-el, State OFFF and T.NO and 1 more. See dates, start times and who's playing. Vana-Kalamaja 1 Tallinn, Estonia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Laine Klubiöö: Yung Singh (UK) | Yung Singh, shbxsz |
 | Fri, 6 Nov 2026 | Laine Klubiöö: mi-el (UK) | mi-el |
 | Fri, 20 Nov 2026 | Laine Klubiöö: Tapes All Night Long | Tapes |
 | Fri, 4 Dec 2026 | Laine Klubiöö: adobeprincess (US) | adobeprincess |
@@ -19,4 +18,4 @@ Uus Laine is a music venue in Tallinn listed on soundcheck. 6 upcoming gigs, wit
 
 Vana-Kalamaja 1 Tallinn, Estonia, Tallinn
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/uus-laine/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/uus-laine/)*

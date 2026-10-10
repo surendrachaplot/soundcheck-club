@@ -1,18 +1,18 @@
 # LARIFARI
 
-LARIFARI is a Electronica and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 9 Oct 2026.
+LARIFARI is a Electronica and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 23 Oct 2026.
 
-LARIFARI is an electronica and funk / soul artist based in Austria, with 7 gigs on soundcheck across Berlin, Munich and Vienna. Often billed alongside Anna Lazer, DJ Nebelmaschine and Liebe Nachbarn. Next up: Bahnwärter Thiel, Munich on Fri 9 Oct.
+LARIFARI is an electronica and funk / soul artist based in Austria, with 7 gigs on soundcheck across Berlin, Munich and Vienna. Often billed alongside Anna Lazer, DJ Nebelmaschine and Liebe Nachbarn. Next up: Bahnwärter Thiel, Munich on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Bahnwärter Thiel | Munich |
 | Fri, 23 Oct 2026 | Bahnwärter Thiel | Munich |
 
 ## Recently played
 
+- Bahnwärter Thiel, Munich · Fri, 9 Oct 2026
 - Klunkerkranich, Berlin · Fri, 2 Oct 2026
 - Import Export, Munich · Fri, 24 Jul 2026
 - Bahnwärter Thiel, Munich · Sat, 5 Jul 2025
@@ -23,4 +23,4 @@ LARIFARI is an electronica and funk / soul artist based in Austria, with 7 gigs 
 
 Anna Lazer, DJ Nebelmaschine, Liebe Nachbarn
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larifari/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larifari/)*

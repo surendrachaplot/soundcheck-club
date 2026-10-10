@@ -1,6 +1,6 @@
 # Breger
 
-Breger is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Noce KRK, Krakow on Sat, 17 Oct 2026.
+Breger is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Noce KRK, Krakow on Sat, 17 Oct 2026.
 
 Breger is a techno and house artist based in Germany, with 16 gigs on soundcheck across Berlin, Brussels, Ghent and Hamburg and 5 more. Often billed alongside Grouch, Josephine Wedekind and Krumelur. Next up: Noce KRK, Krakow on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Breger is a techno and house artist based in Germany, with 16 gigs on soundcheck
 
 Grouch, Josephine Wedekind, Krumelur
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/breger/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/breger/)*

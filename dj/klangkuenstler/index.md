@@ -1,14 +1,13 @@
 # KlangKuenstler
 
-KlangKuenstler is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Pandora Sevilla, South on Fri, 9 Oct 2026.
+KlangKuenstler is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Fabrik, Madrid on Sun, 11 Oct 2026.
 
-KlangKuenstler is a techno and house artist based in Germany, with 179 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 63 more. Often billed alongside Daria Kolosova, I Hate Models and Kobosil. Next up: Pandora Sevilla, South on Fri 9 Oct.
+KlangKuenstler is a techno and house artist based in Germany, with 179 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 63 more. Often billed alongside Daria Kolosova, I Hate Models and Kobosil. Next up: Fabrik, Madrid on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Pandora Sevilla | South |
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
 | Fri, 16 Oct 2026 | Sonora Bordeaux | Bordeaux |
 | Fri, 16 Oct 2026 | Parc des Expositions de Bordeaux lac | Bordeaux |
@@ -19,6 +18,7 @@ KlangKuenstler is a techno and house artist based in Germany, with 179 gigs on s
 
 ## Recently played
 
+- Pandora Sevilla, South · Fri, 9 Oct 2026
 - Spook Club, Valencia · Thu, 8 Oct 2026
 - The Forum, Los Angeles · Sat, 3 Oct 2026
 - Arca, Sao Paulo · Sat, 19 Sept 2026
@@ -26,10 +26,9 @@ KlangKuenstler is a techno and house artist based in Germany, with 179 gigs on s
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
 - UNSW Roundhouse, Sydney · Sat, 22 Aug 2026
 - The Timber Yard, Melbourne · Fri, 21 Aug 2026
-- Union Park, Chicago · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Daria Kolosova, I Hate Models, Kobosil
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klangkuenstler/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klangkuenstler/)*

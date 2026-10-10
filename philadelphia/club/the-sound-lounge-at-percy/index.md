@@ -1,14 +1,13 @@
 # The Sound Lounge at Percy
 
-The Sound Lounge at Percy is a music venue in Philadelphia with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "All The Way Down with Nine of Wands" on Fri, 9 Oct 2026.
+The Sound Lounge at Percy is a music venue in Philadelphia with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Spatial Awareness - MIRA MIRA" on Thu, 15 Oct 2026.
 
-The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck. 6 upcoming gigs, with line-ups including ADAB, Lady Prowl, MIRA MIRA and Nine of Wands and 2 more. See dates, start times and who's playing. 1700 N Front Street, Philadelphia, PA. 19122.
+The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck. 5 upcoming gigs, with line-ups including ADAB, Lady Prowl, MIRA MIRA and patagial veil and 1 more. See dates, start times and who's playing. 1700 N Front Street, Philadelphia, PA. 19122.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | All The Way Down with Nine of Wands | Nine of Wands |
 | Thu, 15 Oct 2026 | Spatial Awareness - MIRA MIRA | MIRA MIRA |
 | Thu, 22 Oct 2026 | Spatial Awareness - patagial veil | patagial veil |
 | Fri, 23 Oct 2026 | SNACKS & SOUNDS + DISCO DINER WITH Skeme Richards | Skeme Richards |
@@ -19,4 +18,4 @@ The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck.
 
 1700 N Front Street, Philadelphia, PA. 19122, Philadelphia
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-sound-lounge-at-percy/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-sound-lounge-at-percy/)*

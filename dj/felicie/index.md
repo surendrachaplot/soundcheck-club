@@ -1,14 +1,15 @@
 # Félicie
 
-Félicie is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Sun, 25 Oct 2026.
+Félicie is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Sun, 25 Oct 2026.
 
-Félicie is a techno and industrial artist based in Netherlands, with 106 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 41 more. Often billed alongside Cleric, Koboyo and Alignment. Next up: Warehouse Elementenstraat, Amsterdam on Sun 25 Oct.
+Félicie is a techno and industrial artist based in Netherlands, with 107 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 42 more. Often billed alongside Cleric, Koboyo and Alignment. Next up: Warehouse Elementenstraat, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
+| Sat, 7 Nov 2026 | Forge | Bucharest |
 | Sat, 28 Nov 2026 | MUENZE | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Félicie is a techno and industrial artist based in Netherlands, with 106 gigs o
 
 Cleric, Koboyo, Alignment
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felicie/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felicie/)*

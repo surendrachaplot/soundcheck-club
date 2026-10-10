@@ -1,13 +1,14 @@
 # makahaun
 
-makahaun is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Zeche Zollverein, Dortmund-essen on Sat, 28 Nov 2026.
+makahaun is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Tresor.West, Dortmund-essen on Sat, 24 Oct 2026.
 
-makahaun is a techno and house artist, with 16 gigs on soundcheck across Berlin, Cologne, Dortmund Essen and Düsseldorf and 2 more. Often billed alongside Anuli, Rostøm and Dychromatic. Next up: Zeche Zollverein, Dortmund Essen on Sat 28 Nov.
+makahaun is a techno and house artist, with 17 gigs on soundcheck across Berlin, Cologne, Dortmund Essen and Düsseldorf and 2 more. Often billed alongside Anuli, Lip71 and Rostøm. Next up: Tresor.West, Dortmund Essen on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Tresor.West | Dortmund-essen |
 | Sat, 28 Nov 2026 | Zeche Zollverein | Dortmund-essen |
 
 ## Recently played
@@ -23,6 +24,6 @@ makahaun is a techno and house artist, with 16 gigs on soundcheck across Berlin,
 
 ## Shares bills with
 
-Anuli, Rostøm, Dychromatic
+Anuli, Lip71, Rostøm
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makahaun/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makahaun/)*

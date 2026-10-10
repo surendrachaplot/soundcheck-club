@@ -1,14 +1,13 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 88 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "sturmfrei mit Oaky & Andi de Luxe" on Fri, 9 Oct 2026.
+Minimal Bar is a music venue in Berlin with 87 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "U10247: Berlinozepam (feat.CL-Ijud and maniac&me)" on Sat, 10 Oct 2026.
 
-Minimal Bar is a music venue in Berlin listed on soundcheck. 88 upcoming gigs, with line-ups including Andi de Luxe, Beshy, Bruno Bleckmann and CL-ljud and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
+Minimal Bar is a music venue in Berlin listed on soundcheck. 87 upcoming gigs, with line-ups including Beshy, Bruno Bleckmann, CL-ljud and Clarence and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | sturmfrei mit Oaky & Andi de Luxe | Andi de Luxe, Oaky |
 | Sat, 10 Oct 2026 | U10247: Berlinozepam (feat.CL-Ijud and maniac&me) | CL-ljud, maniac&me |
 | Sun, 11 Oct 2026 | lazy.sunday mit Yakov | Yakov |
 | Mon, 12 Oct 2026 | manic.monday mit VALENCE  | VALENCE |
@@ -18,9 +17,10 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 88 upcoming gigs, w
 | Thu, 15 Oct 2026 | 'SHADES OF HOUSE: Celebrate with Pyrame & You're Next Records!' | LETVINK, Substrack, Tom Mils |
 | Fri, 16 Oct 2026 | luca.and.friends. mit Luca ( Minimal Bar) & Freunde |  |
 | Sat, 17 Oct 2026 | friends.zone mit Jago K. & Freunde |  |
+| Sun, 18 Oct 2026 | Lazy.Sunday with sciarada & freunde |  |
 
 ## Address
 
 Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*

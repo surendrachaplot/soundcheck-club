@@ -1,20 +1,20 @@
 # Benny Benassi
 
-Benny Benassi is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Kastel, Istanbul on Fri, 9 Oct 2026.
+Benny Benassi is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Poolen, Copenhagen on Sat, 10 Oct 2026.
 
-Benny Benassi is a house and electro artist based in Italy, with 46 gigs on soundcheck across Boston, Chicago, Copenhagen and Cyprus and 16 more. Often billed alongside Terry, Zedd and Alok. Next up: Kastel, Istanbul on Fri 9 Oct.
+Benny Benassi is a house and electro artist based in Italy, with 46 gigs on soundcheck across Boston, Chicago, Copenhagen and Cyprus and 16 more. Often billed alongside Terry, Zedd and Alok. Next up: Poolen, Copenhagen on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Kastel | Istanbul |
 | Sat, 10 Oct 2026 | Poolen | Copenhagen |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Sat, 31 Oct 2026 | Celebrities Night Club | Vancouver |
 
 ## Recently played
 
+- Kastel, Istanbul · Fri, 9 Oct 2026
 - Etko, Cyprus · Fri, 25 Sept 2026
 - Hï Ibiza, Ibiza · Thu, 17 Sept 2026
 - Ushuaïa Ibiza, Ibiza · Thu, 3 Sept 2026
@@ -22,10 +22,9 @@ Benny Benassi is a house and electro artist based in Italy, with 46 gigs on soun
 - Cavo Paradiso, Mykonos · Sat, 18 Jul 2026
 - Stadion Legii Warszawa im. Marszałka Józefa Piłsudskiego, Warsaw · Sat, 13 Jun 2026
 - Hï Ibiza, Ibiza · Thu, 28 May 2026
-- Edge, New York City · Sat, 2 May 2026
 
 ## Shares bills with
 
 Terry, Zedd, Alok
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennybenassi/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennybenassi/)*

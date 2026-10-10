@@ -1,8 +1,8 @@
 # Thuishaven
 
-Thuishaven is a music venue in Amsterdam with 22 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Glitterbox ADE" on Thu, 22 Oct 2026.
+Thuishaven is a music venue in Amsterdam with 22 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Glitterbox ADE" on Thu, 22 Oct 2026.
 
-Thuishaven is a music venue in Amsterdam listed on soundcheck. 22 upcoming gigs, with line-ups including 2HOT2PLAY, Kepler, AAT (NL) and Abstract Division and 2 more. See dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
+Thuishaven is a music venue in Amsterdam listed on soundcheck. 22 upcoming gigs, with line-ups including 2HOT2PLAY, Kepler, NYRA (DE) and AAT (NL) and 2 more. See dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
 
 ## What's on
 
@@ -14,7 +14,7 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 22 upcoming gigs,
 | Fri, 23 Oct 2026 | 23 OCT - Friday Night with Daria Kolosova invites | Alec Dienaar, Daria Kolosova, Supergloss, Tommy Holohan |
 | Sat, 24 Oct 2026 | 24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax SOLD OUT | AAT (NL), Anil Aras, Archie Hamilton, Ben Diggins, Benny Rodrigues, Burnski, Cromby, DJ Tennis, Dennis Quin, Kepler, LORI (NL), LYLO (NL), Litmus, M-High, Mathias Kaden, Matisa, Michel de Hey, Mike The Connector, Norman Weber, Papa Nugs, Philou Louzolo, Prunk, Riva Starr, Rooléh, Sebastian Konrad, Shakèd, Tiago Oudman |
 | Sat, 24 Oct 2026 | 24 OCT - Thuishaven ADE Saturday Nightshow with Afterjam | Jamback, Jhobei, Laura De Greef, Marlie, Michel de Hey, Raresh |
-| Sun, 25 Oct 2026 | 25 OCT - Thuishaven ADE Sunday with Polyamor presents: davyboi invites SOLD OUT | davyboi |
+| Sun, 25 Oct 2026 | 25 OCT - Thuishaven ADE Sunday with Polyamor presents: davyboi invites SOLD OUT | Alba Franch, Cara Elizabeth, Cleopard2000, Elotrance, HiTMiLØW, Justin Jay, Justin Tinderdate, Mika Heggemann, NYRA (DE), SATYS FYRE, Trancemaster Krause, Vagabund, davyboi |
 | Sat, 7 Nov 2026 | Wooferland, The Beginning & Rave Tribe pres. The Rave Game 2026 | Alexander Koning, Dimitri (1), Eric de Man, Erick E, Franky Jones, Gizmo, HETTO, JP (RU), Jay Dee, Klubbheads, Lucien Foort, Marco V, Remy Unger, Sander van Doorn, Sidney (2), Ton TB, angelo |
 | Sun, 8 Nov 2026 | 08 - Thuishaven with Locklead / Job de Jong / Kepler | A For Alpha, Job de Jong, Kepler, Locklead, Ranger Trucco, Simone de Kunovich, Stefan Meser |
 | Sat, 14 Nov 2026 | JOY Autumn Festival | Cici Daze, Easttown, Hidde van Wee, Lewis Taylor, Paisley Jensen, Prunk, RUZE, Sidney Charles, Tommy Phillips |
@@ -23,4 +23,4 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 22 upcoming gigs,
 
 Contactweg 68, 1014BW, Amsterdam, Nederland, Amsterdam
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*

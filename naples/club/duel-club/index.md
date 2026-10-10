@@ -1,6 +1,6 @@
 # Duel Club
 
-Duel Club is a music venue in Naples with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "ADUNANZA ~ OPENING PARTY WS 26/27 • nocapz. + Alex Bohemien + Marco Ceraso" on Sat, 10 Oct 2026.
+Duel Club is a music venue in Naples with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "ADUNANZA ~ OPENING PARTY WS 26/27 • nocapz. + Alex Bohemien + Marco Ceraso" on Sat, 10 Oct 2026.
 
 Duel Club is a music venue in Naples listed on soundcheck. 5 upcoming gigs, with line-ups including Alex Bohemien, Cassius, Harmonia and Marco Ceraso and 2 more. See dates, start times and who's playing. Via Antiniana 2/a, 80078 Pozzuoli, Napoli, Italy.
 
@@ -18,4 +18,4 @@ Duel Club is a music venue in Naples listed on soundcheck. 5 upcoming gigs, with
 
 Via Antiniana 2/a, 80078 Pozzuoli, Napoli, Italy, Naples
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/duel-club/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/duel-club/)*

@@ -1,6 +1,6 @@
 # Tripped
 
-Tripped is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 10 Oct 2026.
+Tripped is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 10 Oct 2026.
 
 Tripped is a hardcore and gabber artist based in Belgium, with 28 gigs on soundcheck across Amsterdam, Berlin, Boston and Frankfurt and 9 more. Often billed alongside Thrasher, Drokz and Hellfish. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Tripped is a hardcore and gabber artist based in Belgium, with 28 gigs on soundc
 
 Thrasher, Drokz, Hellfish
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tripped/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tripped/)*

@@ -1,14 +1,13 @@
 # Mastak
 
-Mastak is a music venue in Warsaw with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "FĀLĀ - Marboc, Sickdat, Shieeld, Nightfall" on Fri, 9 Oct 2026.
+Mastak is a music venue in Warsaw with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "they" on Sat, 10 Oct 2026.
 
-Mastak is a music venue in Warsaw listed on soundcheck. 10 upcoming gigs, with line-ups including Braincrush, Inhaberin, LEM and Lyor Kalt and 2 more. See dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
+Mastak is a music venue in Warsaw listed on soundcheck. 9 upcoming gigs, with line-ups including Braincrush, Inhaberin, LEM and Lyor Kalt and 2 more. See dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | FĀLĀ - Marboc, Sickdat, Shieeld, Nightfall | Marboc, Nightfall, Sickdat |
 | Sat, 10 Oct 2026 | they | Braincrush, LEM (5), Lyor Kalt, ONIMAL |
 | Sun, 11 Oct 2026 | SUNDAY | Salat |
 | Fri, 16 Oct 2026 | FistFatale 2.0 | MARCUCCIO, Xim (BY), mirormir |
@@ -23,4 +22,4 @@ Mastak is a music venue in Warsaw listed on soundcheck. 10 upcoming gigs, with l
 
 Solec 81B, Wieżyca, 00-382 Warszawa, Warsaw
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*

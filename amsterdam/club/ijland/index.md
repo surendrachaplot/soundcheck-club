@@ -1,6 +1,6 @@
 # Ijland
 
-Ijland is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Cirque Du Rave Is Coming" on Sat, 17 Oct 2026.
+Ijland is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Cirque Du Rave Is Coming" on Sat, 17 Oct 2026.
 
 Ijland is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Kepler, Benny L, Benny Rodrigues and bullet tooth and 2 more. See dates, start times and who's playing. Tt. Vasumweg 171, 1033 SG Amsterdam.
 
@@ -20,4 +20,4 @@ Ijland is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with
 
 Tt. Vasumweg 171, 1033 SG Amsterdam, Amsterdam
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijland/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijland/)*

@@ -1,6 +1,6 @@
 # Charla Green
 
-Charla Green is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+Charla Green is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 Charla Green is a drum & bass and jungle artist based in United Kingdom, with 50 gigs on soundcheck across Barcelona, Brighton, Bristol and Leeds and 4 more. Often billed alongside King Chuga, Phatworld and 96 Back. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -17,6 +17,7 @@ Charla Green is a drum & bass and jungle artist based in United Kingdom, with 50
 
 ## Recently played
 
+- TBA - Multiple Venues across Sheffield & Rotherham, North · Fri, 9 Oct 2026
 - FORGE, Sheffield · Fri, 25 Sept 2026
 - Six Trees Bar And Kitchen Manchester, Manchester · Sat, 6 Jun 2026
 - Dryad Works, Sheffield · Fri, 8 May 2026
@@ -24,10 +25,9 @@ Charla Green is a drum & bass and jungle artist based in United Kingdom, with 50
 - FORGE, Sheffield · Sat, 15 Nov 2025
 - Yellow Arch Studios, Sheffield · Fri, 31 Oct 2025
 - TBA - Sheffield, Sheffield · Fri, 10 Oct 2025
-- Hidden, Manchester · Fri, 10 Oct 2025
 
 ## Shares bills with
 
 King Chuga, Phatworld, 96 Back
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlagreen/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlagreen/)*

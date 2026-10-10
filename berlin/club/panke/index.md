@@ -1,6 +1,6 @@
 # Panke
 
-Panke is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Outside the BigMac, vol.5: October Edition" on Sat, 10 Oct 2026.
+Panke is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Outside the BigMac, vol.5: October Edition" on Sat, 10 Oct 2026.
 
 Panke is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Alex Wilcox, BBBBBBB, Catnapp and Chris Imler and 2 more. See dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
@@ -23,4 +23,4 @@ Panke is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with li
 
 Gerichtstraße 23, 13347 Berlin, Berlin
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*

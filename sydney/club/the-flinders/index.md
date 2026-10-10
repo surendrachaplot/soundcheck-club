@@ -1,14 +1,13 @@
 # The Flinders
 
-The Flinders is a music venue in Sydney with 13 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "BLACK NOIR presents: KAAI" on Fri, 9 Oct 2026.
+The Flinders is a music venue in Sydney with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "BLACK NOIR presents: LeStrange" on Sat, 10 Oct 2026.
 
-The Flinders is a music venue in Sydney listed on soundcheck. 13 upcoming gigs, with line-ups including <777>, 2LUX, Angie (CY) and Arabesque and 2 more. See dates, start times and who's playing. 63-65 Flinders St; Darlinghurst, NSW 2010; Australia.
+The Flinders is a music venue in Sydney listed on soundcheck. 12 upcoming gigs, with line-ups including <777>, Angie (CY), Arabesque and A*S*Y*S and 2 more. See dates, start times and who's playing. 63-65 Flinders St; Darlinghurst, NSW 2010; Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | BLACK NOIR presents: KAAI | 2LUX, KAAI, ORKA, Repercussion, keanu (3) |
 | Sat, 10 Oct 2026 | BLACK NOIR presents: LeStrange | CAVO, LeStrange, MSG, SØMR, YONKS |
 | Fri, 16 Oct 2026 | BLACK NOIR presents: FLKN [FR] | FLKN, Mimi, RXCHO, Tori, Will Power |
 | Sat, 17 Oct 2026 | BLACK NOIR presents: NIK SITZ [NAARM] | Kit Kat |
@@ -18,9 +17,10 @@ The Flinders is a music venue in Sydney listed on soundcheck. 13 upcoming gigs, 
 | Sat, 31 Oct 2026 | BLACK NOIR presents: A*S*Y*S [DE] | A*S*Y*S (2), I-SO |
 | Fri, 6 Nov 2026 | BLACK NOIR presents: JARALDINIO | Arabesque, JUNN GULDUR, ORKA, YONKS |
 | Sat, 7 Nov 2026 | BLACK NOIR presents: GEISHA LIVE SET | <777> |
+| Fri, 13 Nov 2026 | BLACK NOIR presents: STAZIE | MSG |
 
 ## Address
 
 63-65 Flinders St; Darlinghurst, NSW 2010; Australia, Sydney
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-flinders/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-flinders/)*

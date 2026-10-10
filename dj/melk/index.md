@@ -1,6 +1,6 @@
 # MELK
 
-MELK is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+MELK is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 MELK is a techno and tech house artist based in France, with 16 gigs on soundcheck across Montreal, North, Paris and Sheffield. Often billed alongside Nonna Fab, Paniolo and Wiltbarn. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -12,6 +12,7 @@ MELK is a techno and tech house artist based in France, with 16 gigs on soundche
 
 ## Recently played
 
+- TBA - Multiple Venues across Sheffield & Rotherham, North · Fri, 9 Oct 2026
 - The System, Sheffield · Sun, 30 Aug 2026
 - Factory Floor, Sheffield · Sun, 24 May 2026
 - Electric Studios, Sheffield · Fri, 8 May 2026
@@ -19,10 +20,9 @@ MELK is a techno and tech house artist based in France, with 16 gigs on soundche
 - TBA - Villa Riberolle, 75020 Paris, France, Paris · Sun, 30 Nov 2025
 - Hagglers Corner, Sheffield · Sun, 24 Aug 2025
 - Le Kilowatt, Paris · Sat, 31 May 2025
-- Hagglers Corner, Sheffield · Sun, 4 May 2025
 
 ## Shares bills with
 
 Nonna Fab, Paniolo, Wiltbarn
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melk/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melk/)*

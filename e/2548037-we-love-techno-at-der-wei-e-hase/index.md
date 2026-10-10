@@ -1,6 +1,6 @@
 # We Love Techno at Der Weiße Hase
 
-We Love Techno at Der Weiße Hase on Sat 24 Oct, Berlin. 6 artists: andré wiese, Chaos Techno.Berlin, Don Tom and Marvel Gold and 2 more. Techno. See the line-up on soundcheck.
+We Love Techno at Der Weiße Hase on Sat 24 Oct, Berlin. 7 artists: andré wiese, Chaos Techno.Berlin, DJ Kuma and Don Tom and 3 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ We Love Techno at Der Weiße Hase on Sat 24 Oct, Berlin. 6 artists: andré wiese
 
 - andré wiese
 - Chaos Techno.Berlin
+- DJ Kuma
 - Don Tom
 - Marvel Gold
 - ShySam

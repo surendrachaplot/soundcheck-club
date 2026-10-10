@@ -1,15 +1,13 @@
 # Miscellania
 
-Miscellania is a music venue in Melbourne with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "NYMPHO presents: ATARANGI All Night Long" on Fri, 9 Oct 2026.
+Miscellania is a music venue in Melbourne with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "RMIT Bachelor of Music Industry 2026 Showcase" on Tue, 13 Oct 2026.
 
-Miscellania is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, with line-ups including ATARANGI, Ayebatonye, Ed Kent and Merve and 2 more. See dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
+Miscellania is a music venue in Melbourne listed on soundcheck. 5 upcoming gigs, with line-ups including Ayebatonye, Ed Kent, Merve and Simon TK and 1 more. See dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | NYMPHO presents: ATARANGI All Night Long | ATARANGI |
-| Fri, 9 Oct 2026 | NYMPHO Presents: ATARANGI All Night Long | ATARANGI |
 | Tue, 13 Oct 2026 | RMIT Bachelor of Music Industry 2026 Showcase |  |
 | Fri, 16 Oct 2026 | Gallery pres. Merve, Ayebatonye, Simon TK | Ayebatonye, Merve, Simon TK |
 | Sat, 17 Oct 2026 | Telemuzik Pres. Zjoso B2B Ed Kent [All Night Long] | Ed Kent, Zjoso |
@@ -20,4 +18,4 @@ Miscellania is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs,
 
 2/401 Swanston St, Melbourne VIC 3004, Melbourne
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*

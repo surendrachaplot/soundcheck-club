@@ -1,14 +1,15 @@
 # Riko Dan
 
-Riko Dan is a Grime and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at The Trinity Centre, Bristol on Fri, 30 Oct 2026.
+Riko Dan is a Grime and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Trinity Centre, Bristol on Fri, 30 Oct 2026.
 
-Riko Dan is a grime and bass artist based in United Kingdom, with 28 gigs on soundcheck across Bristol, Brussels, Copenhagen and Leeds and 4 more. Often billed alongside Slimzee, SGT Pokes and MJK. Next up: The Trinity Centre, Bristol on Fri 30 Oct.
+Riko Dan is a grime and bass artist based in United Kingdom, with 29 gigs on soundcheck across Bristol, Brussels, Copenhagen and Leeds and 5 more. Often billed alongside Slimzee, SGT Pokes and MJK. Next up: The Trinity Centre, Bristol on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | The Trinity Centre | Bristol |
+| Sun, 27 Dec 2026 | Unit | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Riko Dan is a grime and bass artist based in United Kingdom, with 28 gigs on sou
 
 Slimzee, SGT Pokes, MJK
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rikodan/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rikodan/)*

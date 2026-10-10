@@ -1,14 +1,13 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Rick Wade with Keith Worthy & Curmudgeon" on Fri, 9 Oct 2026.
+Marble Bar is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "ANGLS" on Sat, 10 Oct 2026.
 
-Marble Bar is a music venue in Detroit listed on soundcheck. 9 upcoming gigs, with line-ups including AIDEL, Audion, Auntie Chanel and BRALLE and 2 more. See dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
+Marble Bar is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, with line-ups including AIDEL, Audion, Auntie Chanel and BRALLE and 2 more. See dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Rick Wade with Keith Worthy & Curmudgeon | Curmudgeon, Keith Worthy, Rick Wade |
 | Sat, 10 Oct 2026 | ANGLS | AIDEL, Earlll, Planet KaiA, Syd, mirepoix |
 | Sat, 10 Oct 2026 | ANGLS | AIDEL, Earlll, Planet KaiA, Syd (2), mirepoix |
 | Fri, 16 Oct 2026 | EvilGroove Records Showcase - Lindsey Herbert - BRALLE - Marble Bar | BRALLE, Echoføn, LAÍRE, LOFILA, Lindsey Herbert |
@@ -22,4 +21,4 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 9 upcoming gigs, wi
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

@@ -1,6 +1,6 @@
 # CARMEN (RO)
 
-CARMEN (RO) is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Secret Venue, Bucharest, Bucharest on Sat, 17 Oct 2026.
+CARMEN (RO) is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Secret Venue, Bucharest, Bucharest on Sat, 17 Oct 2026.
 
 CARMEN (RO) is a techno and experimental artist, with 18 gigs on soundcheck across Bucharest. Often billed alongside ALISTARM, Michael Ius and Radox. Next up: TBA - Secret Venue, Bucharest, Bucharest on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ CARMEN (RO) is a techno and experimental artist, with 18 gigs on soundcheck acro
 
 ALISTARM, Michael Ius, Radox
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/CARMEN-ro/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/CARMEN-ro/)*

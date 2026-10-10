@@ -1,14 +1,14 @@
 # GOD69
 
-GOD69 is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Secret Location, Berlin on Sat, 24 Oct 2026.
+GOD69 is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA, Berlin on Sat, 24 Oct 2026.
 
-GOD69 is a techno and breakbeat artist, with 9 gigs on soundcheck across Berlin, Los Angeles, New York City and Toronto. Often billed alongside Conna Haraway, King Softy and Prieste5s. Next up: TBA - Secret Location, Berlin on Sat 24 Oct.
+GOD69 is a techno and experimental artist, with 9 gigs on soundcheck across Berlin, Los Angeles, New York City and Toronto. Often billed alongside Conna Haraway, King Softy and Prieste5s. Next up: TBA, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | TBA - Secret Location | Berlin |
+| Sat, 24 Oct 2026 | TBA | Berlin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ GOD69 is a techno and breakbeat artist, with 9 gigs on soundcheck across Berlin,
 
 Conna Haraway, King Softy, Prieste5s
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/god69/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/god69/)*

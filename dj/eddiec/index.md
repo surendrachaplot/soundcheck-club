@@ -1,6 +1,6 @@
 # Eddie C
 
-Eddie C is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 10 Oct 2026.
+Eddie C is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 10 Oct 2026.
 
 Eddie C is a house and disco artist based in Canada, with 51 gigs on soundcheck across Austin, Detroit, Dublin and London and 15 more. Often billed alongside Anthony Mansfield, Andy Warren and DJ M3. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Eddie C is a house and disco artist based in Canada, with 51 gigs on soundcheck 
 
 Anthony Mansfield, Andy Warren, DJ M3
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiec/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiec/)*

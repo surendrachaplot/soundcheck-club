@@ -1,6 +1,6 @@
 # Hoax (UK)
 
-Hoax (UK) is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Studio the Venue, Auckland on Fri, 16 Oct 2026.
+Hoax (UK) is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Studio the Venue, Auckland on Fri, 16 Oct 2026.
 
 Hoax (UK) is a drum & bass and jungle artist based in United Kingdom, with 12 gigs on soundcheck across Auckland, Brighton, Bristol and Ibiza and 4 more. Often billed alongside Nu:Tone, Danny Byrd and Gabriella Bongo. Next up: Studio the Venue, Auckland on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Hoax (UK) is a drum & bass and jungle artist based in United Kingdom, with 12 gi
 
 Nu:Tone, Danny Byrd, Gabriella Bongo
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hoax-2/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hoax-2/)*

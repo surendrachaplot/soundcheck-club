@@ -1,6 +1,6 @@
 # Raul Young
 
-Raul Young is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Fuchs2, Prague on Sat, 7 Nov 2026.
+Raul Young is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Fuchs2, Prague on Sat, 7 Nov 2026.
 
 Raul Young is a techno and tech house artist, with 18 gigs on soundcheck across Budapest, Prague and Vienna. Often billed alongside Dave Wincent, Hot X and Mateo & Spirit. Next up: Fuchs2, Prague on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Raul Young is a techno and tech house artist, with 18 gigs on soundcheck across 
 
 Dave Wincent, Hot X, Mateo & Spirit
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raulyoung/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raulyoung/)*

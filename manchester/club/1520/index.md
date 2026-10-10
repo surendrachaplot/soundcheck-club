@@ -1,6 +1,6 @@
 # 1520
 
-1520 is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Persona - Paquita Gordon & Manfredas " on Fri, 30 Oct 2026.
+1520 is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Persona - Paquita Gordon & Manfredas " on Fri, 30 Oct 2026.
 
 1520 is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, with line-ups including Allius, Ana K Miller, April (UK) and Cersy and 2 more. See dates, start times and who's playing. 19 Cheetham Hill Rd, Cheetham Hill, Manchester, M4 4FY.
 
@@ -16,4 +16,4 @@
 
 19 Cheetham Hill Rd, Cheetham Hill, Manchester, M4 4FY, Manchester
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/1520/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/1520/)*

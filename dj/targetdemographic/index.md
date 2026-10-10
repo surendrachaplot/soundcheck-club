@@ -1,16 +1,13 @@
 # Target Demographic
 
-Target Demographic is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Forge, Bucharest on Fri, 9 Oct 2026.
+Target Demographic is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at IT Athens, Athens on Sat, 10 Oct 2026.
 
-Target Demographic is a house and techno artist based in United States of America, with 26 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Shaolin Cowboy, Baltra and DJ Cinéma Quartier Latin. Next up: Forge, Bucharest on Fri 9 Oct.
+Target Demographic is a house and techno artist based in United States of America, with 26 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Shaolin Cowboy, Baltra and DJ Cinéma Quartier Latin. Next up: IT Athens, Athens on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Forge | Bucharest |
-| Fri, 9 Oct 2026 | Forge | Bucharest |
-| Fri, 9 Oct 2026 | Forge | Bucharest |
 | Sat, 10 Oct 2026 | IT Athens | Athens |
 | Tue, 13 Oct 2026 | TBA - Junkyard Club | Tbilisi |
 | Fri, 16 Oct 2026 | Illegaal | Brussels |
@@ -20,20 +17,23 @@ Target Demographic is a house and techno artist based in United States of Americ
 | Fri, 30 Oct 2026 | Bi Nuu | Berlin |
 | Sat, 31 Oct 2026 | OCZKI | Warsaw |
 | Wed, 18 Nov 2026 | TRAUMA | Rio-de-janeiro |
+| Thu, 19 Nov 2026 | TBA - Sao Paulo, Brazil | Sao Paulo |
+| Fri, 20 Nov 2026 | Onaciu | Santiago |
+| Sat, 5 Dec 2026 | House of Vans CDMX | Mexico City |
 
 ## Recently played
 
+- Forge, Bucharest · Fri, 9 Oct 2026
+- Forge, Bucharest · Fri, 9 Oct 2026
+- Forge, Bucharest · Fri, 9 Oct 2026
 - The Loft, Vienna · Sun, 8 Jun 2025
 - OCZKI, Warsaw · Sat, 7 Jun 2025
 - Gretchen, Berlin · Fri, 30 May 2025
 - Docks 1 Boat in the Amsterdam River, Amsterdam · Wed, 28 May 2025
 - Night Tales, London · Sun, 25 May 2025
-- MS Stubnitz, Hamburg · Sat, 17 May 2025
-- ÆDEN, Berlin · Wed, 30 Apr 2025
-- El Cid, Los Angeles · Sat, 1 Mar 2025
 
 ## Shares bills with
 
 Shaolin Cowboy, Baltra, DJ Cinéma Quartier Latin
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/targetdemographic/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/targetdemographic/)*

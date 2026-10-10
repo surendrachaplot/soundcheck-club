@@ -1,6 +1,6 @@
 # La Marbrerie
 
-La Marbrerie is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Bristol Northern Soul Club Paris Allnighter" on Sat, 24 Oct 2026.
+La Marbrerie is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Bristol Northern Soul Club Paris Allnighter" on Sat, 24 Oct 2026.
 
 La Marbrerie is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Barbara Boeing, Davide Dev, geneva and Gilles Peterson. See dates, start times and who's playing. 21 Rue Alexis Lepere, 93100 Montreuil.
 
@@ -16,4 +16,4 @@ La Marbrerie is a music venue in Paris listed on soundcheck. 3 upcoming gigs, wi
 
 21 Rue Alexis Lepere, 93100 Montreuil, Paris
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-marbrerie/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-marbrerie/)*

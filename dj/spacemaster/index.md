@@ -1,6 +1,6 @@
 # Space Master
 
-Space Master is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Private Warehouse DTLA, Los Angeles on Sat, 31 Oct 2026.
+Space Master is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Private Warehouse DTLA, Los Angeles on Sat, 31 Oct 2026.
 
 Space Master is a techno and club artist, with 22 gigs on soundcheck across Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Mapamota, Stealth Angel and Gbenga. Next up: TBA - Private Warehouse DTLA, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Space Master is a techno and club artist, with 22 gigs on soundcheck across Los 
 
 Mapamota, Stealth Angel, Gbenga
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spacemaster/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spacemaster/)*

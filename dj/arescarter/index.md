@@ -1,6 +1,6 @@
 # Ares Carter
 
-Ares Carter is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
+Ares Carter is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
 Ares Carter is a house and tech house artist based in United States of America, with 14 gigs on soundcheck across Amsterdam, Barcelona, Geneva and Ibiza and 6 more. Often billed alongside Daniel Lerman, AMÉMÉ and ASMOT. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Ares Carter is a house and tech house artist based in United States of America, 
 
 Daniel Lerman, AMÉMÉ, ASMOT
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arescarter/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arescarter/)*

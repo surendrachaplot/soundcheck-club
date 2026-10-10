@@ -1,6 +1,6 @@
 # Mindset
 
-Mindset is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Barco Sound House, Madrid on Fri, 16 Oct 2026.
+Mindset is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Barco Sound House, Madrid on Fri, 16 Oct 2026.
 
 Mindset is a house and electronica artist based in Argentina, with 6 gigs on soundcheck across Austin, Dallas Fort Worth and Madrid. Often billed alongside HerShe, Anzhio and Azyr. Next up: Barco Sound House, Madrid on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Mindset is a house and electronica artist based in Argentina, with 6 gigs on sou
 
 HerShe, Anzhio, Azyr
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mindset/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mindset/)*

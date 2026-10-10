@@ -1,8 +1,8 @@
 # Basic Club
 
-Basic Club is a music venue in Naples with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "NEUHM • Omar S + Fabrizio Fattore" on Sat, 10 Oct 2026.
+Basic Club is a music venue in Naples with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "NEUHM • Omar S + Fabrizio Fattore" on Sat, 10 Oct 2026.
 
-Basic Club is a music venue in Naples listed on soundcheck. 7 upcoming gigs, with line-ups including Alessio Cristiano, Alfonso Mauro, Fabrizio Fattore and Fizya and 2 more. See dates, start times and who's playing. Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli.
+Basic Club is a music venue in Naples listed on soundcheck. 8 upcoming gigs, with line-ups including Alessio Cristiano, Alfonso Mauro, Fabrizio Fattore and Fizya and 2 more. See dates, start times and who's playing. Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli.
 
 ## What's on
 
@@ -15,9 +15,10 @@ Basic Club is a music venue in Naples listed on soundcheck. 7 upcoming gigs, wit
 | Fri, 30 Oct 2026 | PARTYNOTCOM • Pancratio + Alessio Cristiano, Alfonso Mauro | Alessio Cristiano, Alfonso Mauro, Pancratio |
 | Sat, 31 Oct 2026 | BASIC • Theo Parrish All Night Long | Theo Parrish |
 | Sat, 7 Nov 2026 | NEUHM 15th Anniversary • Joe Claussell + Palms Trax + Gigi Testa | Gigi Testa, Joe Claussell, Palms Trax |
+| Mon, 7 Dec 2026 | MUTATE • XXXX + XXXX |  |
 
 ## Address
 
 Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli, Naples
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/basic-club/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/basic-club/)*

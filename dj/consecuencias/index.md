@@ -1,6 +1,6 @@
 # Con Secuencias
 
-Con Secuencias is a Latin Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Fairmount Theatre, Montreal on Sat, 31 Oct 2026.
+Con Secuencias is a Latin Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Fairmount Theatre, Montreal on Sat, 31 Oct 2026.
 
 Con Secuencias is a latin bass and techno artist based in Mexico, with 9 gigs on soundcheck across Mexico City, Montreal and Toronto. Often billed alongside Alan Harman, CIBER1A and El Ángel Exterminador. Next up: Fairmount Theatre, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Con Secuencias is a latin bass and techno artist based in Mexico, with 9 gigs on
 
 Alan Harman, CIBER1A, El Ángel Exterminador
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/consecuencias/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/consecuencias/)*

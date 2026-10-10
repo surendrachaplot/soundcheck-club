@@ -1,6 +1,6 @@
 # VANNA
 
-VANNA is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Lakeside Pavilion, Melbourne on Sat, 24 Oct 2026.
+VANNA is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Lakeside Pavilion, Melbourne on Sat, 24 Oct 2026.
 
 VANNA is a trance and techno artist based in Australia, with 19 gigs on soundcheck across Madrid, Melbourne, New York City and Paris and 1 more. Often billed alongside Afrodisiac, DJ PGZ and Girl Crush. Next up: Lakeside Pavilion, Melbourne on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ VANNA is a trance and techno artist based in Australia, with 19 gigs on soundche
 
 Afrodisiac, DJ PGZ, Girl Crush
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanna/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanna/)*

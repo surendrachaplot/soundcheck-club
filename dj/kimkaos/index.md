@@ -1,6 +1,6 @@
 # Kim Kaos
 
-Kim Kaos is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 12 Dec 2026.
+Kim Kaos is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 12 Dec 2026.
 
 Kim Kaos is a house and acid artist based in Netherlands, with 14 gigs on soundcheck across Amsterdam, Netherlands and Rotterdam. Often billed alongside Divine, Alexander Koning and Funkerman. Next up: Thuishaven, Amsterdam on Sat 12 Dec.
 
@@ -27,4 +27,4 @@ Kim Kaos is a house and acid artist based in Netherlands, with 14 gigs on soundc
 
 Divine, Alexander Koning, Funkerman
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimkaos/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimkaos/)*

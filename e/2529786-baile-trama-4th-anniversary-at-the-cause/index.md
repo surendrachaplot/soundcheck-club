@@ -1,6 +1,6 @@
 # BAILE TRAMA 4TH ANNIVERSARY at The Cause
 
-BAILE TRAMA 4TH ANNIVERSARY at The Cause on Sat 24 Oct, London. 6 artists: DAZLBØY, GUS, Kontronatura and SZAL and 2 more. Baile Funk and Club. See the line-up on soundcheck.
+BAILE TRAMA 4TH ANNIVERSARY at The Cause on Sat 24 Oct, London. 7 artists: DAZLBØY, GUS, Kontronatura and LORRANY and 3 more. Baile Funk and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ BAILE TRAMA 4TH ANNIVERSARY at The Cause on Sat 24 Oct, London. 6 artists: DAZLB
 - DAZLBØY
 - GUS (4)
 - Kontronatura
+- LORRANY
 - SZAL
 - TAIGO REZENDE
 - Tsunamy

@@ -1,6 +1,6 @@
 # Jezebel
 
-Jezebel is a House and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Avenida Francisco Matarazzo, 694, Sao Paulo on Sat, 10 Oct 2026.
+Jezebel is a House and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Avenida Francisco Matarazzo, 694, Sao Paulo on Sat, 10 Oct 2026.
 
 Jezebel is a house and ebm artist, with 29 gigs on soundcheck across Berlin, Brussels, Detroit and Dublin and 4 more. Often billed alongside Surferboy, deejaytrainwreck and JWY. Next up: TBA - Avenida Francisco Matarazzo, 694, Sao Paulo on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Jezebel is a house and ebm artist, with 29 gigs on soundcheck across Berlin, Bru
 
 Surferboy, deejaytrainwreck, JWY (1)
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jezebel/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jezebel/)*

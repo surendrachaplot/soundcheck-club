@@ -1,8 +1,8 @@
 # SALOME
 
-SALOME is a Techno and Electro artist with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
+SALOME is a Techno and Electro artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
 
-SALOME is a techno and electro artist based in Georgia, with 215 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside MCMLXXXV, CEM and SPFDJ. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
+SALOME is a techno and electro artist based in Georgia, with 216 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 62 more. Often billed alongside MCMLXXXV, CEM and SPFDJ. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ SALOME is a techno and electro artist based in Georgia, with 215 gigs on soundch
 | Fri, 30 Oct 2026 | Gold Bar Hangar | California |
 | Sat, 31 Oct 2026 | BASEMENT | New York City |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 14 Nov 2026 | REC Napoli | Naples |
 | Fri, 20 Nov 2026 | Fuse | Brussels |
 | Sat, 12 Dec 2026 | Lofi | Amsterdam |
 
@@ -31,4 +32,4 @@ SALOME is a techno and electro artist based in Georgia, with 215 gigs on soundch
 
 MCMLXXXV, CEM, SPFDJ
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*

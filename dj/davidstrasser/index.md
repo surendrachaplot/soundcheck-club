@@ -1,6 +1,6 @@
 # David Strasser
 
-David Strasser is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Kalif Storch, Erfurt on Sat, 10 Oct 2026.
+David Strasser is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Kalif Storch, Erfurt on Sat, 10 Oct 2026.
 
 David Strasser is a techno and trance artist based in Germany, with 40 gigs on soundcheck across Berlin, Brisbane, Cologne and Erfurt and 6 more. Often billed alongside KEN (DE), Neon Graveyard and DJ PayPaul. Next up: Kalif Storch, Erfurt on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ David Strasser is a techno and trance artist based in Germany, with 40 gigs on s
 
 KEN (DE), Neon Graveyard, DJ PayPaul
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidstrasser/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidstrasser/)*

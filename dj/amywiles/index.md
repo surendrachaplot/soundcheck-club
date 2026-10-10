@@ -1,19 +1,19 @@
 # Amy Wiles
 
-Amy Wiles is a Trance and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at DRUMSHEDS, London on Fri, 9 Oct 2026.
+Amy Wiles is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 17 Oct 2026.
 
-Amy Wiles is a trance and progressive house artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Austin, Brighton and Brisbane and 17 more. Often billed alongside Leena Punks, Ferry Corsten and Billy Gillies. Next up: DRUMSHEDS, London on Fri 9 Oct.
+Amy Wiles is a trance and progressive house artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Austin, Brighton and Brisbane and 17 more. Often billed alongside Leena Punks, Ferry Corsten and Billy Gillies. Next up: Blackstone Street Warehouse, Liverpool on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | DRUMSHEDS | London |
 | Sat, 17 Oct 2026 | Blackstone Street Warehouse | Liverpool |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
 ## Recently played
 
+- DRUMSHEDS, London · Fri, 9 Oct 2026
 - Village Underground, London · Sat, 3 Oct 2026
 - Document, Bristol · Sat, 25 Jul 2026
 - Amnesia Ibiza, Ibiza · Mon, 29 Jun 2026
@@ -21,10 +21,9 @@ Amy Wiles is a trance and progressive house artist based in United Kingdom, with
 - O Clube, Lisbon · Sat, 16 May 2026
 - Proposition, London · Fri, 15 May 2026
 - UNO MALTA, Malta · Thu, 7 May 2026
-- Electric Bristol, Bristol · Sat, 11 Apr 2026
 
 ## Shares bills with
 
 Leena Punks, Ferry Corsten, Billy Gillies
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amywiles/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amywiles/)*

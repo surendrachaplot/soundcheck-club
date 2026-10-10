@@ -1,6 +1,6 @@
 # Material (1)
 
-Material (1) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Secret Location, Chicago on Fri, 16 Oct 2026.
+Material (1) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Secret Location, Chicago on Fri, 16 Oct 2026.
 
 Material is a house and disco artist based in United States of America, with 33 gigs on soundcheck across Chicago, London and Paris. Often billed alongside Darryn Jones, Noshaluv and Ricardo Roessel. Next up: TBA - Secret Location, Chicago on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Material is a house and disco artist based in United States of America, with 33 
 
 Darryn Jones, Noshaluv, Ricardo Roessel
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/material-1/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/material-1/)*

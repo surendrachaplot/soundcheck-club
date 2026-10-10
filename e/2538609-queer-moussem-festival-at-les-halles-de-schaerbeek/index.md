@@ -1,0 +1,11 @@
+# QUEER MOUSSEM FESTIVAL at Les Halles de Schaerbeek
+
+QUEER MOUSSEM FESTIVAL at Les Halles de Schaerbeek on Fri 30 Oct, Brussels. Club and Ballroom. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 30 Oct 2026 |
+| Venue | Les Halles de Schaerbeek |
+| City | Brussels |
+
+*Source: [soundcheck](https://soundcheck.club/e/2538609-queer-moussem-festival-at-les-halles-de-schaerbeek/)*

@@ -1,15 +1,13 @@
 # The Racket Space
 
-The Racket Space is a music venue in Dublin with 14 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Cailín x Sarah Lennox x SEMAE" on Fri, 9 Oct 2026.
+The Racket Space is a music venue in Dublin with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Racket Space presents: camoufly" on Sat, 10 Oct 2026.
 
-The Racket Space is a music venue in Dublin listed on soundcheck. 14 upcoming gigs, with line-ups including Alexander Skancke, Andre Zimmer, Billy Spike Iland and Cailín and 2 more. See dates, start times and who's playing. Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44.
+The Racket Space is a music venue in Dublin listed on soundcheck. 12 upcoming gigs, with line-ups including Alexander Skancke, Andre Zimmer, Billy Spike Iland and camoufly and 2 more. See dates, start times and who's playing. Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Cailín x Sarah Lennox x SEMAE | Cailín, Sarah Lennox, Sémaé |
-| Fri, 9 Oct 2026 | Mystify Learn and Perform - Performance Tickets |  |
 | Sat, 10 Oct 2026 | Racket Space presents: camoufly | camoufly |
 | Sun, 11 Oct 2026 | Mystify Vinyl Learn and Perform Season 2 (Day 4/4) | Tadhg K, Tr One |
 | Sat, 17 Oct 2026 | LOST x The Racket Space present: WOLTERS | LPM (1), WOLTERS |
@@ -18,9 +16,11 @@ The Racket Space is a music venue in Dublin listed on soundcheck. 14 upcoming gi
 | Fri, 6 Nov 2026 | DOT. presents: Andre Zimmer  | Andre Zimmer |
 | Sat, 7 Nov 2026 | UPHONY PRESENTS: THE LAST DANCE |  |
 | Fri, 13 Nov 2026 | Photek | Photek, SHO |
+| Sat, 14 Nov 2026 | Racket Space presents: Dorian Concept (Live) | Dorian Concept |
+| Sat, 14 Nov 2026 | Hive Invites...Youandewan | Youandewan |
 
 ## Address
 
 Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44, Dublin
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-racket-space/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-racket-space/)*

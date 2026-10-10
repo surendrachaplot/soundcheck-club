@@ -1,6 +1,6 @@
 # Silvio
 
-Silvio is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - secret location, Barcelona on Sat, 14 Nov 2026.
+Silvio is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - secret location, Barcelona on Sat, 14 Nov 2026.
 
 Silvio is a house and techno artist based in Spain, with 21 gigs on soundcheck across Barcelona, Berlin, Lisbon and London and 2 more. Often billed alongside Christian Arcila, DJ Gamba and Sebastián. Next up: TBA - secret location, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Silvio is a house and techno artist based in Spain, with 21 gigs on soundcheck a
 
 Christian Arcila, DJ Gamba, Sebastián
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silvio/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silvio/)*

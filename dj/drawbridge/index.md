@@ -1,6 +1,6 @@
 # Drawbridge
 
-Drawbridge is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Bodies in Space, Brussels on Sat, 31 Oct 2026.
+Drawbridge is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Bodies in Space, Brussels on Sat, 31 Oct 2026.
 
 Drawbridge is a techno and house artist based in France, with 20 gigs on soundcheck across Brussels, Geneva, Melbourne and Munich and 4 more. Often billed alongside Khey Mysterio, Forest and Jan Loup. Next up: Bodies in Space, Brussels on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Drawbridge is a techno and house artist based in France, with 20 gigs on soundch
 
 Khey Mysterio, Forest, Jan Loup
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drawbridge/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drawbridge/)*

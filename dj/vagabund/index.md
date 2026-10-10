@@ -1,15 +1,15 @@
 # Vagabund
 
-Vagabund is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at fi, Cologne on Fri, 9 Oct 2026.
+Vagabund is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Lutfi Kirdar Congress Center, Istanbul on Sat, 17 Oct 2026.
 
-Vagabund is a techno and trance artist based in Germany, with 76 gigs on soundcheck across Antwerp, Barcelona, Basel and Berlin and 12 more. Often billed alongside KUKO, Cloudy and Johannes Schuster. Next up: fi, Cologne on Fri 9 Oct.
+Vagabund is a techno and trance artist based in Germany, with 77 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 13 more. Often billed alongside KUKO, Cloudy and Johannes Schuster. Next up: Lutfi Kirdar Congress Center, Istanbul on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | fi | Cologne |
 | Sat, 17 Oct 2026 | Lutfi Kirdar Congress Center | Istanbul |
+| Sun, 25 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 31 Oct 2026 | Left Bank Leeds | Leeds |
 | Sat, 14 Nov 2026 | Zinkbad Eventhalle | Zurich |
 | Thu, 26 Nov 2026 | Club Magno | Madrid |
@@ -19,6 +19,7 @@ Vagabund is a techno and trance artist based in Germany, with 76 gigs on soundch
 
 ## Recently played
 
+- fi, Cologne · Fri, 9 Oct 2026
 - Phantom Bar Berlin, Berlin · Wed, 7 Oct 2026
 - Gewölbe, Cologne · Sat, 29 Aug 2026
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
@@ -26,10 +27,9 @@ Vagabund is a techno and trance artist based in Germany, with 76 gigs on soundch
 - Razzmatazz, Barcelona · Fri, 21 Aug 2026
 - Boomerang Beach, The Hague · Sun, 16 Aug 2026
 - Valley, Berlin · Sun, 2 Aug 2026
-- Club Vaag, Antwerp · Sat, 27 Jun 2026
 
 ## Shares bills with
 
 KUKO, Cloudy, Johannes Schuster
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vagabund/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vagabund/)*

@@ -1,6 +1,6 @@
 # KAS:ST
 
-KAS:ST is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Sektor 6D, Warsaw on Sat, 10 Oct 2026.
+KAS:ST is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Sektor 6D, Warsaw on Sat, 10 Oct 2026.
 
 KAS:ST is a techno and house artist based in France, with 93 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Mathame, Henri Bergmann and Enrico Sangiuliano. Next up: Sektor 6D, Warsaw on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ KAS:ST is a techno and house artist based in France, with 93 gigs on soundcheck 
 
 Mathame, Henri Bergmann, Enrico Sangiuliano
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasst/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasst/)*

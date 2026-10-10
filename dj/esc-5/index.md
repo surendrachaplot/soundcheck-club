@@ -1,6 +1,6 @@
 # ESC (5)
 
-ESC (5) is a Garage and Bass artist with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Beaver Works, Leeds on Fri, 16 Oct 2026.
+ESC (5) is a Garage and Bass artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Beaver Works, Leeds on Fri, 16 Oct 2026.
 
 ESC is a garage and bass artist based in United Kingdom, with 53 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brighton and 16 more. Often billed alongside Bakey, Dr Dubplate and Prozak (IRL). Next up: Beaver Works, Leeds on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ ESC is a garage and bass artist based in United Kingdom, with 53 gigs on soundch
 
 Bakey, Dr Dubplate, Prozak (IRL)
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esc-5/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esc-5/)*

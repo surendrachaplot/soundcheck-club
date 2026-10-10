@@ -1,6 +1,6 @@
 # Nora En Pure
 
-Nora En Pure is a Deep House and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sat, 10 Oct 2026.
+Nora En Pure is a Deep House and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sat, 10 Oct 2026.
 
 Nora En Pure is a deep house and house artist based in South Africa, with 143 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 36 more. Often billed alongside Paradoks, Corren Cavini and Claptone. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sat 10 Oct.
 
@@ -33,4 +33,4 @@ Nora En Pure is a deep house and house artist based in South Africa, with 143 gi
 
 Paradoks, Corren Cavini, Claptone
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*

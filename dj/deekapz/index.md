@@ -1,6 +1,6 @@
 # Deekapz
 
-Deekapz is a House and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Deekapz is a House and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Deekapz is a house and baile funk artist based in Brazil, with 36 gigs on soundcheck across Amsterdam, Berlin, Lisbon and London and 3 more. Often billed alongside VHOOR, Peroli and Kaytranada. Next up: SISSI'S Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Deekapz is a house and baile funk artist based in Brazil, with 36 gigs on soundc
 
 VHOOR, Peroli, Kaytranada
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deekapz/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deekapz/)*

@@ -1,6 +1,6 @@
 # Easttown
 
-Easttown is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Lurin live, Peru on Sat, 10 Oct 2026.
+Easttown is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Lurin live, Peru on Sat, 10 Oct 2026.
 
 Easttown is a house and tech house artist based in Netherlands, with 106 gigs on soundcheck across Amsterdam, Barcelona, Basel and Ibiza and 13 more. Often billed alongside Rooléh, Joëlla Jackson and AAT (NL). Next up: TBA - Lurin live, Peru on Sat 10 Oct.
 
@@ -32,4 +32,4 @@ Easttown is a house and tech house artist based in Netherlands, with 106 gigs on
 
 Rooléh, Joëlla Jackson, AAT (NL)
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*

@@ -1,15 +1,13 @@
 # Specka
 
-Specka is a music venue in Madrid with 15 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "28B$, Dylan Desler y Tukeskusha: Papo2oo4+Subjxct 5 / ENTRADAS AGOTADAS SOLO EN PUERTA" on Fri, 9 Oct 2026.
+Specka is a music venue in Madrid with 14 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Anthony Rother [Hibryd Electro] I Halley Club SOLO ENTRADAS EN PUERTA" on Sat, 10 Oct 2026.
 
-Specka is a music venue in Madrid listed on soundcheck. 15 upcoming gigs, with line-ups including Alvaro Cabana, Anthony Rother, Belkan and Brody and 2 more. See dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
+Specka is a music venue in Madrid listed on soundcheck. 14 upcoming gigs, with line-ups including Alvaro Cabana, Anthony Rother, Belkan and Brody and 2 more. See dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | 28B$, Dylan Desler y Tukeskusha: Papo2oo4+Subjxct 5 / ENTRADAS AGOTADAS SOLO EN PUERTA |  |
-| Fri, 9 Oct 2026 | Komos V I Specka Club | Ruff (ES) |
 | Sat, 10 Oct 2026 | Anthony Rother [Hibryd Electro] I Halley Club SOLO ENTRADAS EN PUERTA | Anthony Rother, Uhf |
 | Sun, 11 Oct 2026 | YUYU X REVERIE I Specka Club | Belkan, Djen, Dyans, Javier Klash, Vandiaz |
 | Fri, 16 Oct 2026 | Erik Luebs: Live / Void Control | Brody (2), Erik Luebs, M. Freelance |
@@ -18,9 +16,11 @@ Specka is a music venue in Madrid listed on soundcheck. 15 upcoming gigs, with l
 | Fri, 23 Oct 2026 | Impossible Love First Anniversary I Specka Club | Satom |
 | Sat, 24 Oct 2026 | Rosy B-Day & LJ Pájaro 80's/Guitar all night long | Rosy Specka |
 | Sat, 24 Oct 2026 | Alex Nef + Lord High Executioner + OSG Tunes & Tapes in concert |  |
+| Fri, 30 Oct 2026 | Moodulab & Fábula #003 (Halloween Edition) I Specka Club | Denso, Valleyk |
+| Sat, 31 Oct 2026 | Halloween Night I Halley Club (Extended Time) | Alvaro Cabana, David Ponziano, TEEMON&POOMBA |
 
 ## Address
 
 Calle Orense, 26 bajos Madrid 28020, Madrid
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*

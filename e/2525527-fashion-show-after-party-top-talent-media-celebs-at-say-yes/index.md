@@ -1,6 +1,6 @@
-# Fashion Show After Party (Top Talent + Media + Celebs at Say Yes
+# Fashion Show After Party (Top Talent + Media + Celebs) at Say Yes
 
-Fashion Show After Party (Top Talent + Media + Celebs at Say Yes on Sun 18 Oct, Los Angeles. House and Hip-Hop. See the line-up on soundcheck.
+Fashion Show After Party (Top Talent + Media + Celebs) at Say Yes on Sun 18 Oct, Los Angeles. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

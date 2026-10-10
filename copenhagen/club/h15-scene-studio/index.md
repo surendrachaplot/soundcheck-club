@@ -1,6 +1,6 @@
 # H15 Scene & Studio
 
-H15 Scene & Studio is a music venue in Copenhagen with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "HOOKED - Babelfish Launch Party" on Sat, 10 Oct 2026.
+H15 Scene & Studio is a music venue in Copenhagen with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "HOOKED - Babelfish Launch Party" on Sat, 10 Oct 2026.
 
 H15 Scene & Studio is a music venue in Copenhagen listed on soundcheck. 5 upcoming gigs, with line-ups including Daniel Kaarill, DBADJO, Fergus Murphy and Mokomizik and 2 more. See dates, start times and who's playing. Halmtorvet 15, 1715, Copenhagen.
 
@@ -18,4 +18,4 @@ H15 Scene & Studio is a music venue in Copenhagen listed on soundcheck. 5 upcomi
 
 Halmtorvet 15, 1715, Copenhagen, Copenhagen
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/h15-scene-studio/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/h15-scene-studio/)*

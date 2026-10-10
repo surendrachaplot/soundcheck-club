@@ -1,6 +1,6 @@
-# Pandemonium 03 - Fetish Techno Party at City Hall
+# PANDEMONIUM 03 - FETISH TECHNO PARTY at City Hall
 
-Pandemonium 03 - Fetish Techno Party at City Hall on Sat 10 Oct, Barcelona. Techno. See the line-up on soundcheck.
+PANDEMONIUM 03 - FETISH TECHNO PARTY at City Hall on Sat 10 Oct, Barcelona. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

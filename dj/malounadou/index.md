@@ -1,18 +1,18 @@
 # Malounadou
 
-Malounadou is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Rhiz, Vienna on Fri, 9 Oct 2026.
+Malounadou is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Celeste, Vienna on Fri, 16 Oct 2026.
 
-Malounadou is a house and club artist based in Germany, with 7 gigs on soundcheck across Vienna. Often billed alongside Rayya, Altroy Jerome and Anna Ullrich. Next up: Rhiz, Vienna on Fri 9 Oct.
+Malounadou is a house and club artist based in Germany, with 7 gigs on soundcheck across Vienna. Often billed alongside Rayya, Altroy Jerome and Anna Ullrich. Next up: Celeste, Vienna on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Rhiz | Vienna |
 | Fri, 16 Oct 2026 | Celeste | Vienna |
 
 ## Recently played
 
+- Rhiz, Vienna · Fri, 9 Oct 2026
 - Funkhaus, Vienna · Sat, 3 Oct 2026
 - TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna · Fri, 31 Jul 2026
 - Rhiz, Vienna · Fri, 15 May 2026
@@ -23,4 +23,4 @@ Malounadou is a house and club artist based in Germany, with 7 gigs on soundchec
 
 Rayya, Altroy Jerome, Anna Ullrich
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malounadou/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malounadou/)*

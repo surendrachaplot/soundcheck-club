@@ -1,6 +1,6 @@
 # Lucas Alexander
 
-Lucas Alexander is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at The Dome, Liverpool on Sat, 17 Oct 2026.
+Lucas Alexander is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Dome, Liverpool on Sat, 17 Oct 2026.
 
 Lucas Alexander is a tech house and house artist based in United Kingdom, with 49 gigs on soundcheck across Brighton, Bristol, Cardiff and Dublin and 15 more. Often billed alongside Cut the Rug, Laidlaw and Locky. Next up: The Dome, Liverpool on Sat 17 Oct.
 
@@ -30,4 +30,4 @@ Lucas Alexander is a tech house and house artist based in United Kingdom, with 4
 
 Cut the Rug, Laidlaw, Locky
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasalexander/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasalexander/)*

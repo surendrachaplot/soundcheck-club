@@ -1,6 +1,6 @@
 # Metaphys1ca
 
-Metaphys1ca is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at B21, Brussels on Fri, 23 Oct 2026.
+Metaphys1ca is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at B21, Brussels on Fri, 23 Oct 2026.
 
 Metaphys1ca is a bass and club artist, with 8 gigs on soundcheck across Barcelona, Berlin, Brussels and Helsinki and 3 more. Often billed alongside 2THEMAX, ALİN and Alvva. Next up: B21, Brussels on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Metaphys1ca is a bass and club artist, with 8 gigs on soundcheck across Barcelon
 
 2THEMAX, ALİN, Alvva
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metaphys1ca/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metaphys1ca/)*

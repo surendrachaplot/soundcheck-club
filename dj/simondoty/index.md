@@ -1,8 +1,8 @@
 # Simon Doty
 
-Simon Doty is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Secret Grove, Portland on Sat, 17 Oct 2026.
+Simon Doty is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Secret Grove, Portland on Sat, 17 Oct 2026.
 
-Simon Doty is a progressive house and house artist based in Canada, with 103 gigs on soundcheck across Austin, Boston, Brighton and Bristol and 32 more. Often billed alongside Marsh, Braxton and Dosem. Next up: Secret Grove, Portland on Sat 17 Oct.
+Simon Doty is a progressive house and house artist based in Canada, with 104 gigs on soundcheck across Austin, Boston, Brighton and Bristol and 33 more. Often billed alongside Marsh, Braxton and Dosem. Next up: Secret Grove, Portland on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Simon Doty is a progressive house and house artist based in Canada, with 103 gig
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Secret Grove | Portland |
 | Fri, 13 Nov 2026 | Woldenberg Riverfront Park | New-orleans |
+| Sat, 28 Nov 2026 | Bar Oriente | Mexico City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Simon Doty is a progressive house and house artist based in Canada, with 103 gig
 
 Marsh, Braxton, Dosem
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simondoty/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simondoty/)*

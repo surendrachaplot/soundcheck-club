@@ -1,14 +1,13 @@
 # Oven Club
 
-Oven Club is a music venue in Valencia with 14 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Total: Jenny Cara + Ariezzz + Paola / Bar: Cameron & Blomtek" on Fri, 9 Oct 2026.
+Oven Club is a music venue in Valencia with 13 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "WHY?NOT: JNJS + Pau Pérez + Rakim Under / Bar: MIRACLE con Antono & Eleuvepunto" on Sat, 10 Oct 2026.
 
-Oven Club is a music venue in Valencia listed on soundcheck. 14 upcoming gigs, with line-ups including AAA+, Ariezzz, BAR (DE) and Blanch and 2 more. See dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
+Oven Club is a music venue in Valencia listed on soundcheck. 13 upcoming gigs, with line-ups including AAA+, Ariezzz, BAR (DE) and Blanch and 2 more. See dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Total: Jenny Cara + Ariezzz + Paola / Bar: Cameron & Blomtek | Ariezzz, BAR (DE), CAMMMMM, Jenny Cara, Paola (1) |
 | Sat, 10 Oct 2026 | WHY?NOT: JNJS + Pau Pérez + Rakim Under / Bar: MIRACLE con Antono & Eleuvepunto | JNJS, Pau Pérez, Rakim Under |
 | Wed, 14 Oct 2026 | Soumz & Souleast |  |
 | Thu, 15 Oct 2026 | ERA: Koseki B2B Caballeri + AAA | AAA+, Caballeri |
@@ -18,9 +17,10 @@ Oven Club is a music venue in Valencia listed on soundcheck. 14 upcoming gigs, w
 | Thu, 22 Oct 2026 | Fresh groove: Marc Strap + Alpa + Xavi Chan |  |
 | Fri, 23 Oct 2026 | Total: Jen Cardini + Angelinanyuli + Cameron + Ariezzz / Bar: Elena Megi (all night long) | Ariezzz, BAR (DE), CAMMMMM, Jen Cardini |
 | Sat, 24 Oct 2026 | Felipe Valenzuela + Pin / Bar: Cosy O & Dj Lance | Felipe Valenzuela |
+| Wed, 28 Oct 2026 | Soumz |  |
 
 ## Address
 
 Gran Vía Germanías 31 Valencia, Valencia
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*

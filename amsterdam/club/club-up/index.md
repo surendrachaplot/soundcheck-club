@@ -1,14 +1,13 @@
 # Club Up
 
-Club Up is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Opening Night: Qori Events" on Fri, 9 Oct 2026.
+Club Up is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Re'Mind invites DJ Q & Douvelle19 - ADE edition" on Wed, 21 Oct 2026.
 
-Club Up is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including A Little Bit Orange, ASLO, Becking and Ben Dust and 2 more. See dates, start times and who's playing. Korte Leidsedwarsstraat 26-1; 1017  Binnenstad; Amsterdam; Netherlands.
+Club Up is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including A Little Bit Orange, ASLO, Becking and Ben Dust and 2 more. See dates, start times and who's playing. Korte Leidsedwarsstraat 26-1; 1017  Binnenstad; Amsterdam; Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Opening Night: Qori Events |  |
 | Wed, 21 Oct 2026 | Re'Mind invites DJ Q & Douvelle19 - ADE edition | Becking, DJ Q, Douvelle19, Mar'One |
 | Thu, 22 Oct 2026 | ADE Club Up Take-over with Stef Davidse, Danny Snowden, Ryan Nicholls, TBA, TBA | Danny Snowden, Lauren Steel, Micky Hurts, Ryan Nicholls, Stef Davidse, Timmy P |
 | Thu, 22 Oct 2026 | KOOKOO RECORDS ADE Showcase | A Little Bit Orange, CHANEY, Manuel Falardeau, The Director |
@@ -20,4 +19,4 @@ Club Up is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, wit
 
 Korte Leidsedwarsstraat 26-1; 1017  Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-up/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-up/)*

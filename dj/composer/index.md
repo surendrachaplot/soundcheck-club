@@ -1,6 +1,6 @@
 # Composer
 
-Composer is a Afrobeat and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - Black Scorpion Music بلک اسکورپیون موزیک, The-hague on Tue, 1 Aug 2028.
+Composer is a Afrobeat and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Black Scorpion Music بلک اسکورپیون موزیک, The-hague on Tue, 1 Aug 2028.
 
 Composer is an afrobeat and electronica artist based in France, with 9 gigs on soundcheck across Berlin, Copenhagen, London and Naples and 4 more. Often billed alongside ABADIR, Aine O'Dwyer and Al Ex. Next up: TBA - Black Scorpion Music بلک اسکورپیون موزیک, The Hague on Tue 1 Aug.
 
@@ -25,4 +25,4 @@ Composer is an afrobeat and electronica artist based in France, with 9 gigs on s
 
 ABADIR, Aine O'Dwyer, Al Ex
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/composer/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/composer/)*

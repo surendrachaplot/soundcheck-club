@@ -1,6 +1,6 @@
 # Dani Thorne
 
-Dani Thorne is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Domicile, Miami on Fri, 23 Oct 2026.
+Dani Thorne is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Domicile, Miami on Fri, 23 Oct 2026.
 
 Dani Thorne is a techno and house artist, with 14 gigs on soundcheck across Los Angeles, Miami, San Diego and San Francisco/Oakland. Often billed alongside BIATA, BreMarie and Carla Schmitt. Next up: Domicile, Miami on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Dani Thorne is a techno and house artist, with 14 gigs on soundcheck across Los 
 
 BIATA, BreMarie, Carla Schmitt
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danithorne/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danithorne/)*

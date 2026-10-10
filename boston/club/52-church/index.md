@@ -1,6 +1,6 @@
 # 52 Church
 
-52 Church is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "hyperlinked: a girl edm + hyperpop party" on Sat, 17 Oct 2026.
+52 Church is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "hyperlinked: a girl edm + hyperpop party" on Sat, 17 Oct 2026.
 
 52 Church is a music venue in Boston listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 52 Church St, Cambridge, Massachusetts 02138.
 
@@ -15,4 +15,4 @@
 
 52 Church St, Cambridge, Massachusetts 02138, Boston
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/52-church/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/52-church/)*

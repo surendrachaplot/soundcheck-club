@@ -1,6 +1,6 @@
-# Raum für Ton Klubnacht: Parallx, Artificial DNA, co:co, MAURER, Maeksll, Ponygirl u.v.m at MTW
+# Raum für Ton Klubnacht: Parallx, Artificial DNA, co:co, MAURER, Maeksll, Butschi u.v.m at MTW
 
-Raum für Ton Klubnacht: Parallx, Artificial DNA, co:co, MAURER, Maeksll, Ponygirl u.v.m at MTW on Sat 14 Nov, Frankfurt. 9 artists: Artificial DNA, co:co, Leskus and Maeksll and 5 more. Techno. See the line-up on soundcheck.
+Raum für Ton Klubnacht: Parallx, Artificial DNA, co:co, MAURER, Maeksll, Butschi u.v.m at MTW on Sat 14 Nov, Frankfurt. 11 artists: Artificial DNA, Butschi, CLAVD and co:co and 7 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ Raum für Ton Klubnacht: Parallx, Artificial DNA, co:co, MAURER, Maeksll, Ponygi
 ## Line-up
 
 - Artificial DNA
+- Butschi
+- CLAVD
 - co:co
 - Leskus
 - Maeksll

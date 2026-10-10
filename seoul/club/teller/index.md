@@ -1,15 +1,14 @@
 # teller
 
-teller is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Invites Dan Andrei" on Fri, 9 Oct 2026.
+teller is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "albeit records" on Sat, 10 Oct 2026.
 
-teller is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line-ups including Dan Andrei, Kibum, Lyumin and Marlon Clark and 2 more. See dates, start times and who's playing. B1, 39, Usadan-ro, Yongsan-gu, Seoul.
+teller is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including Lyumin, Marlon Clark, Mihak and Oho. and 2 more. See dates, start times and who's playing. B1, 39, Usadan-ro, Yongsan-gu, Seoul.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Invites Dan Andrei | Dan Andrei, Kibum |
-| Sat, 10 Oct 2026 | albeit records | Marlon Clark, Oho. |
+| Sat, 10 Oct 2026 | albeit records | Marlon Clark, Oho., Oviduct |
 | Fri, 16 Oct 2026 | Invites Timur Basha | Timur Basha |
 | Sat, 17 Oct 2026 | Saturday, October 17, 2026 | Lyumin, Mihak, Young Sun |
 
@@ -17,4 +16,4 @@ teller is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with lin
 
 B1, 39, Usadan-ro, Yongsan-gu, Seoul, Seoul
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/teller/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/teller/)*

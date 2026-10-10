@@ -1,14 +1,15 @@
 # Yume
 
-Yume is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Shibuya OTO, Tokyo on Sun, 11 Oct 2026.
+Yume is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Shibuya OTO, Tokyo on Sun, 11 Oct 2026.
 
-Yume is a house and techno artist based in United States of America, with 27 gigs on soundcheck across Montreal, Naples, Osaka and Paris and 2 more. Often billed alongside SIGNAL (JP), AHREUM and ATT. Next up: Shibuya OTO, Tokyo on Sun 11 Oct.
+Yume is a house and techno artist based in United States of America, with 28 gigs on soundcheck across Montreal, Naples, Osaka and Paris and 2 more. Often billed alongside SIGNAL (JP), AHREUM and ATT. Next up: Shibuya OTO, Tokyo on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | Shibuya OTO | Tokyo |
+| Sat, 7 Nov 2026 | Débris | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Yume is a house and techno artist based in United States of America, with 27 gig
 
 SIGNAL (JP), AHREUM, ATT
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yume/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yume/)*

@@ -1,6 +1,6 @@
 # Now&Wow
 
-Now&Wow is a music venue in Rotterdam with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "KINK FEST ROTTERDAM (For the first time in Netherlands!)" on Fri, 16 Oct 2026.
+Now&Wow is a music venue in Rotterdam with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "KINK FEST ROTTERDAM (For the first time in Netherlands!)" on Fri, 16 Oct 2026.
 
 Now&Wow is a music venue in Rotterdam listed on soundcheck. 4 upcoming gigs, with line-ups including ALISHA, AnG (NL), DAF and Fraulein Z and 2 more. See dates, start times and who's playing. Maashaven Zuidzijde 1-2, 3081 AE, Rotterdam, Netherlands.
 
@@ -17,4 +17,4 @@ Now&Wow is a music venue in Rotterdam listed on soundcheck. 4 upcoming gigs, wit
 
 Maashaven Zuidzijde 1-2, 3081 AE, Rotterdam, Netherlands, Rotterdam
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/now-wow/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/now-wow/)*

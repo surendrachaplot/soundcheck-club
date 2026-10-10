@@ -1,8 +1,8 @@
 # Darren Roach
 
-Darren Roach is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 1 Nov 2026.
+Darren Roach is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 1 Nov 2026.
 
-Darren Roach is a house and tech house artist, with 18 gigs on soundcheck across Amsterdam, London, Melbourne and New York City. Often billed alongside Daniel Dutts, Jake Hodgkinson and Linden C. Next up: Starlane Pizza Bar, London on Sun 1 Nov.
+Darren Roach is a house and tech house artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, London, Melbourne and New York City. Often billed alongside Daniel Dutts, Jake Hodgkinson and Linden C. Next up: Starlane Pizza Bar, London on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Darren Roach is a house and tech house artist, with 18 gigs on soundcheck across
 
 Daniel Dutts, Jake Hodgkinson, Linden C
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenroach/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenroach/)*

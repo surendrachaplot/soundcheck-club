@@ -1,6 +1,6 @@
 # Silentsevir
 
-Silentsevir is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Club Lucia, Vienna on Fri, 16 Oct 2026.
+Silentsevir is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Club Lucia, Vienna on Fri, 16 Oct 2026.
 
 Silentsevir is a techno and trance artist based in Austria, with 37 gigs on soundcheck across Budapest, Krakow, Munich and Vienna. Often billed alongside Trugbild, THURI and pinklotion. Next up: Club Lucia, Vienna on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Silentsevir is a techno and trance artist based in Austria, with 37 gigs on soun
 
 Trugbild, THURI, pinklotion
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silentsevir/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silentsevir/)*

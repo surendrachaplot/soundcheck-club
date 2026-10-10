@@ -1,6 +1,6 @@
 # Circolo Amelia
 
-Circolo Amelia is a music venue in Milan with 5 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "Neon_Amelia with Christian AB // Noizar" on Sat, 10 Oct 2026.
+Circolo Amelia is a music venue in Milan with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Neon_Amelia with Christian AB // Noizar" on Sat, 10 Oct 2026.
 
 Circolo Amelia is a music venue in Milan listed on soundcheck. 5 upcoming gigs, with line-ups including Aldonna, Andromeda\Unchained, BENNETT and Christian AB and 2 more. See dates, start times and who's playing. via privata venezia giulia, 19 - Milan - Italy.
 
@@ -18,4 +18,4 @@ Circolo Amelia is a music venue in Milan listed on soundcheck. 5 upcoming gigs, 
 
 via privata venezia giulia, 19 - Milan - Italy, Milan
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-amelia/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-amelia/)*

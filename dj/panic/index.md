@@ -1,6 +1,6 @@
 # Panic
 
-Panic is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Maassilo, Rotterdam on Sat, 24 Oct 2026.
+Panic is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Maassilo, Rotterdam on Sat, 24 Oct 2026.
 
 Panic is a techno and hardcore artist based in Australia, with 27 gigs on soundcheck across Amsterdam, Cologne, Dortmund Essen and Frankfurt and 6 more. Often billed alongside Marc Acardipane, Neophyte and Partyraiser. Next up: Maassilo, Rotterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Panic is a techno and hardcore artist based in Australia, with 27 gigs on soundc
 
 Marc Acardipane, Neophyte, Partyraiser
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/panic/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/panic/)*

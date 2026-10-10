@@ -1,14 +1,15 @@
 # JP Candela
 
-JP Candela is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Lula Club, Madrid on Fri, 23 Oct 2026.
+JP Candela is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Lula Club, Madrid on Fri, 23 Oct 2026.
 
-JP Candela is a house and tech house artist based in Spain, with 47 gigs on soundcheck across Athens, Barcelona, Ibiza and Madrid and 1 more. Often billed alongside Torrione, CAMET and COLLISION. Next up: Lula Club, Madrid on Fri 23 Oct.
+JP Candela is a house and tech house artist based in Spain, with 48 gigs on soundcheck across Athens, Barcelona, Ibiza and Madrid and 1 more. Often billed alongside Torrione, CAMET and COLLISION. Next up: Lula Club, Madrid on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Lula Club | Madrid |
+| Fri, 13 Nov 2026 | Lula Club | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ JP Candela is a house and tech house artist based in Spain, with 47 gigs on soun
 
 Torrione, CAMET, COLLISION
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jpcandela/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jpcandela/)*

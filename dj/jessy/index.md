@@ -1,6 +1,6 @@
 # Jessy
 
-Jessy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at BORIS CLUB, Barcelona on Sat, 24 Oct 2026.
+Jessy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at BORIS CLUB, Barcelona on Sat, 24 Oct 2026.
 
 Jessy is a house and techno artist based in Norway, with 14 gigs on soundcheck across Barcelona, Berlin, Madrid and Melbourne and 1 more. Often billed alongside Cucut, Dj Henny and Nik Andersson. Next up: BORIS CLUB, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Jessy is a house and techno artist based in Norway, with 14 gigs on soundcheck a
 
 Cucut, Dj Henny, Nik Andersson
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessy/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessy/)*

@@ -1,6 +1,6 @@
 # jay york
 
-jay york is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+jay york is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
 
 jay york is a techno and minimal techno artist based in United States of America, with 70 gigs on soundcheck across Berlin, Boston, Chicago and Denver and 9 more. Often billed alongside Barbosa, Decoder and Adrian Hex. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ jay york is a techno and minimal techno artist based in United States of America
 
 Barbosa, Decoder, Adrian Hex
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayyork/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayyork/)*

@@ -1,6 +1,6 @@
 # 10cust
 
-10cust is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Monarch, San Francisco/Oakland on Sat, 31 Oct 2026.
+10cust is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Monarch, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 10cust is a techno and club artist based in United States of America, with 27 gigs on soundcheck across Barcelona, Berlin, Boston and Chicago and 9 more. Often billed alongside Ali RQ, Frost Children and MCR-T. Next up: Monarch, San Francisco/Oakland on Sat 31 Oct.
 
@@ -27,4 +27,4 @@
 
 Ali RQ, Frost Children, MCR-T
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/10cust/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/10cust/)*

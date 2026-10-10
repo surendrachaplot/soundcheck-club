@@ -1,6 +1,6 @@
 # Leroy Se Meurt
 
-Leroy Se Meurt is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 9 Oct 2026. Next at Botanique, Brussels on Sun, 11 Oct 2026.
+Leroy Se Meurt is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Botanique, Brussels on Sun, 11 Oct 2026.
 
 Leroy Se Meurt is an ebm and techno artist, with 14 gigs on soundcheck across Athens, Berlin, Brussels and Leipzig and 8 more. Often billed alongside Alessandro Adriani, Alice in Flames and Alpha Sect. Next up: Botanique, Brussels on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Leroy Se Meurt is an ebm and techno artist, with 14 gigs on soundcheck across At
 
 Alessandro Adriani, Alice in Flames, Alpha Sect
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leroysemeurt/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leroysemeurt/)*

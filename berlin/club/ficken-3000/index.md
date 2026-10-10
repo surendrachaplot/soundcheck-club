@@ -1,18 +1,18 @@
 # Ficken 3000
 
-Ficken 3000 is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "DUMP" on Fri, 9 Oct 2026.
+Ficken 3000 is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Diskostübchen DISCO l D!CKS & DAZZLE" on Sat, 10 Oct 2026.
 
-Ficken 3000 is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including ANNARA, Dirty Daddy Don, lealucifer and Majdolen. See dates, start times and who's playing. Urbanstraße 70, 10967 Berlin, Germany.
+Ficken 3000 is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Urbanstraße 70, 10967 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | DUMP | ANNARA, Dirty Daddy Don, Majdolen, lealucifer |
+| Sat, 10 Oct 2026 | Diskostübchen DISCO l D!CKS & DAZZLE |  |
 | Fri, 23 Oct 2026 | SCHMUTZZZ — FILTHY, QUEER, UNFILTERED |  |
 
 ## Address
 
 Urbanstraße 70, 10967 Berlin, Germany, Berlin
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ficken-3000/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ficken-3000/)*

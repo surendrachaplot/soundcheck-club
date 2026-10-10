@@ -1,14 +1,13 @@
 # Paavli Kultuurivabrik
 
-Paavli Kultuurivabrik is a music venue in Tallinn with 4 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "STF 2026: Ayano Yokoyama & 34423 inklingroom & Paavli takeover" on Fri, 9 Oct 2026.
+Paavli Kultuurivabrik is a music venue in Tallinn with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "STF 2026: Aïsha Devi + Ayano Yokoyama & 34423" on Sat, 10 Oct 2026.
 
-Paavli Kultuurivabrik is a music venue in Tallinn listed on soundcheck. 4 upcoming gigs, with line-ups including Aïsha Devi, Ekitech, Gary Gwadera and Introversion and 2 more. See dates, start times and who's playing. Paavli 7a, 10412 Tallinn, Estonia.
+Paavli Kultuurivabrik is a music venue in Tallinn listed on soundcheck. 3 upcoming gigs, with line-ups including Aïsha Devi, Ekitech, Gary Gwadera and Introversion and 2 more. See dates, start times and who's playing. Paavli 7a, 10412 Tallinn, Estonia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | STF 2026: Ayano Yokoyama & 34423 inklingroom & Paavli takeover |  |
 | Sat, 10 Oct 2026 | STF 2026: Aïsha Devi + Ayano Yokoyama & 34423 | Aïsha Devi, Shah Rud, Wash Electra |
 | Fri, 23 Oct 2026 | KONTRAST: Introversion ( DE / Makatao ) | Ekitech, Introversion, Micaela Saraceno |
 | Fri, 13 Nov 2026 | Dreamscape Club Night: Kode9 (UK / Hyperdub) | Gary Gwadera, Kode9, Nikolajev, Silvia Kastel, Susanna Raiend, Type1, Wash Electra |
@@ -17,4 +16,4 @@ Paavli Kultuurivabrik is a music venue in Tallinn listed on soundcheck. 4 upcomi
 
 Paavli 7a, 10412 Tallinn, Estonia, Tallinn
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/paavli-kultuurivabrik/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/paavli-kultuurivabrik/)*

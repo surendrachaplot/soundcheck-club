@@ -1,6 +1,6 @@
 # Meteoro
 
-Meteoro is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. The next is "abysmo x footwork club bcn: AG + Ale Kaldas b2b Kaidara + Aire b2b Sunny Graves + Titi Calor" on Sat, 10 Oct 2026.
+Meteoro is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "abysmo x footwork club bcn: AG + Ale Kaldas b2b Kaidara + Aire b2b Sunny Graves + Titi Calor" on Sat, 10 Oct 2026.
 
 Meteoro is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including AG, Aire, Kaidara and Mujipuki and 2 more. See dates, start times and who's playing. Passeig de Montjuïc, 72, 08004 Barcelona, España.
 
@@ -15,4 +15,4 @@ Meteoro is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, wit
 
 Passeig de Montjuïc, 72, 08004 Barcelona, España, Barcelona
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/meteoro/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/meteoro/)*

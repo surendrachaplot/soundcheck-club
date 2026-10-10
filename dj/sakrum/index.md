@@ -1,18 +1,18 @@
 # Sakrum
 
-Sakrum is a Electro and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 9 Oct 2026. Next at Madame Claude, Berlin on Fri, 9 Oct 2026.
+Sakrum is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Sekta Selekta, Krakow on Sat, 10 Oct 2026.
 
-Sakrum is an electro and electronica artist based in Ukraine, with 50 gigs on soundcheck across Berlin, Krakow and Warsaw. Often billed alongside Chugajstra, vagt and Aim Ana. Next up: Madame Claude, Berlin on Fri 9 Oct.
+Sakrum is an electro and electronica artist based in Ukraine, with 50 gigs on soundcheck across Berlin, Krakow and Warsaw. Often billed alongside Chugajstra, vagt and Aim Ana. Next up: Sekta Selekta, Krakow on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Madame Claude | Berlin |
 | Sat, 10 Oct 2026 | Sekta Selekta | Krakow |
 
 ## Recently played
 
+- Madame Claude, Berlin · Fri, 9 Oct 2026
 - Madame Claude, Berlin · Sat, 19 Sept 2026
 - Betel Klub, Krakow · Sat, 5 Sept 2026
 - B-SIDE, Warsaw · Fri, 28 Aug 2026
@@ -20,10 +20,9 @@ Sakrum is an electro and electronica artist based in Ukraine, with 50 gigs on so
 - Sekta Selekta, Krakow · Thu, 30 Jul 2026
 - REJS, Warsaw · Sat, 27 Jun 2026
 - Giri, Berlin · Fri, 19 Jun 2026
-- Wesola Immersive, Krakow · Wed, 3 Jun 2026
 
 ## Shares bills with
 
 Chugajstra, vagt, Aim Ana
 
-*Updated Fri, 9 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sakrum/)*
+*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sakrum/)*
