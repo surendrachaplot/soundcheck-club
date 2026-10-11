@@ -1,6 +1,6 @@
 # Jesse You
 
-Jesse You is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Modeci, Seoul on Thu, 15 Oct 2026.
+Jesse You is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Modeci, Seoul on Thu, 15 Oct 2026.
 
 Jesse You is a house and techno artist based in South Korea, with 234 gigs on soundcheck across Bali, Bangkok, Barcelona and Frankfurt and 12 more. Often billed alongside JNS, Jucid and Acidwork. Next up: Modeci, Seoul on Thu 15 Oct.
 
@@ -27,4 +27,4 @@ Jesse You is a house and techno artist based in South Korea, with 234 gigs on so
 
 JNS, Jucid, Acidwork
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseyou/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseyou/)*

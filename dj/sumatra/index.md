@@ -1,6 +1,6 @@
 # Sumatra
 
-Sumatra is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 11 Oct 2026.
+Sumatra is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 11 Oct 2026.
 
 Sumatra is a techno and industrial artist based in Canada, with 5 gigs on soundcheck across Berlin and Montreal. Often billed alongside 7AZ, D.Blavatsky and Demi Riquisimo. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 11 Oct.
 
@@ -21,4 +21,4 @@ Sumatra is a techno and industrial artist based in Canada, with 5 gigs on soundc
 
 7AZ (1), D.Blavatsky, Demi Riquisimo
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sumatra/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sumatra/)*

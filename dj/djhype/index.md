@@ -1,6 +1,6 @@
 # DJ Hype
 
-DJ Hype is a Jungle and Drum & Bass artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Bongo Club, Edinburgh on Fri, 6 Nov 2026.
+DJ Hype is a Jungle and Drum & Bass artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The Bongo Club, Edinburgh on Fri, 6 Nov 2026.
 
 DJ Hype is a jungle and drum & bass artist based in United Kingdom, with 83 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Birmingham and 20 more. Often billed alongside IC3, Nicky Blackmarket and Dillinja. Next up: The Bongo Club, Edinburgh on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ DJ Hype is a jungle and drum & bass artist based in United Kingdom, with 83 gigs
 
 IC3, Nicky Blackmarket, Dillinja
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhype/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhype/)*

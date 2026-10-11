@@ -1,20 +1,20 @@
 # Hiraeth
 
-Hiraeth is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Ampere, Antwerp on Sat, 10 Oct 2026.
+Hiraeth is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Amigo, Ghent on Sat, 7 Nov 2026.
 
-Hiraeth is a drum & bass and jungle artist based in Belgium, with 22 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brussels and 4 more. Often billed alongside Expensive KVR, MOTA and Maduk. Next up: Ampere, Antwerp on Sat 10 Oct.
+Hiraeth is a drum & bass and jungle artist based in Belgium, with 22 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brussels and 4 more. Often billed alongside Expensive KVR, MOTA and Maduk. Next up: Amigo, Ghent on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Ampere | Antwerp |
 | Sat, 7 Nov 2026 | Amigo | Ghent |
 | Fri, 20 Nov 2026 | Ampere | Antwerp |
 | Sun, 27 Dec 2026 | Klokgebouw | Eindhoven |
 
 ## Recently played
 
+- Ampere, Antwerp · Sat, 10 Oct 2026
 - Paramour, Brussels · Fri, 9 Oct 2026
 - Plein Publiek, Antwerp · Fri, 14 Aug 2026
 - Ampere, Antwerp · Fri, 19 Jun 2026
@@ -22,10 +22,9 @@ Hiraeth is a drum & bass and jungle artist based in Belgium, with 22 gigs on sou
 - Amigo, Ghent · Sat, 11 Apr 2026
 - Bootshaus, Cologne · Sat, 4 Apr 2026
 - Bootshaus, Cologne · Sat, 4 Apr 2026
-- Ampere, Antwerp · Fri, 20 Feb 2026
 
 ## Shares bills with
 
 Expensive KVR, MOTA, Maduk
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hiraeth/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hiraeth/)*

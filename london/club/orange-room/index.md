@@ -1,18 +1,17 @@
 # Orange Room
 
-Orange Room is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "I'm Soul Into You x Raphael presents BLACK RADIO" on Sat, 10 Oct 2026.
+Orange Room is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "[POSTPONED] COAL COLLECTIVE PRESENTS" on Sun, 18 Oct 2026.
 
-Orange Room is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Lulu (UK), Raphael (UK), SHIVYR and YVES. See dates, start times and who's playing. 375 High St, London E15 4QZ.
+Orange Room is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Lulu (UK), SHIVYR and YVES. See dates, start times and who's playing. 375 High St, London E15 4QZ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | I'm Soul Into You x Raphael presents BLACK RADIO | Raphael (UK) |
 | Sun, 18 Oct 2026 | [POSTPONED] COAL COLLECTIVE PRESENTS | Lulu (UK), SHIVYR, YVES (3) |
 
 ## Address
 
 375 High St, London E15 4QZ, London
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/orange-room/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/orange-room/)*

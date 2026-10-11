@@ -1,23 +1,23 @@
 # Faraz (UK)
 
-Faraz (UK) is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Last Arch, London on Sat, 10 Oct 2026.
+Faraz (UK) is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at 11 Bromley Street, Birmingham on Sat, 17 Oct 2026.
 
-Faraz (UK) is a house and garage artist based in United Kingdom, with 4 gigs on soundcheck across Birmingham, Leeds and London. Often billed alongside Boss Priester, Brennan and Burnski. Next up: Last Arch, London on Sat 10 Oct.
+Faraz (UK) is a house and garage artist based in United Kingdom, with 4 gigs on soundcheck across Birmingham, Leeds and London. Often billed alongside Boss Priester, Brennan and Burnski. Next up: 11 Bromley Street, Birmingham on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Last Arch | London |
 | Sat, 17 Oct 2026 | 11 Bromley Street | Birmingham |
 | Sat, 14 Nov 2026 | Club Colette | Birmingham |
 
 ## Recently played
 
+- Last Arch, London · Sat, 10 Oct 2026
 - Distrikt, Leeds · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Boss Priester, Brennan, Burnski
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/farazuk/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/farazuk/)*

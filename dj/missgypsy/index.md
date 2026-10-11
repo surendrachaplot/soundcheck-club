@@ -1,6 +1,6 @@
 # Miss Gypsy
 
-Miss Gypsy is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Green Room NYC, New York City on Sat, 10 Oct 2026.
+Miss Gypsy is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Green Room NYC, New York City on Sat, 10 Oct 2026.
 
 Miss Gypsy is a house and techno artist based in United States of America, with 45 gigs on soundcheck across Detroit and New York City. Often billed alongside Mario Polanco, JKriv and Aaron Dae. Next up: Green Room NYC, New York City on Sat 10 Oct.
 
@@ -14,6 +14,7 @@ Miss Gypsy is a house and techno artist based in United States of America, with 
 
 ## Recently played
 
+- Green Room NYC, New York City · Sat, 10 Oct 2026
 - Dead Letter No. 9, New York City · Fri, 18 Sept 2026
 - Refuge, New York City · Fri, 4 Sept 2026
 - H0L0, New York City · Wed, 12 Aug 2026
@@ -21,10 +22,9 @@ Miss Gypsy is a house and techno artist based in United States of America, with 
 - The Siren Hotel, Detroit · Sat, 23 May 2026
 - Good Room, New York City · Fri, 8 May 2026
 - Dead Letter No. 9, New York City · Sat, 2 May 2026
-- Xanadu, New York City · Sun, 26 Apr 2026
 
 ## Shares bills with
 
 Mario Polanco, JKriv, Aaron Dae
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missgypsy/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missgypsy/)*

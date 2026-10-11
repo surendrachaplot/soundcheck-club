@@ -1,6 +1,6 @@
 # Trevor Kiernander
 
-Trevor Kiernander is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at ESC, Montreal on Sat, 21 Nov 2026.
+Trevor Kiernander is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at ESC, Montreal on Sat, 21 Nov 2026.
 
 Trevor Kiernander is a house and progressive house artist based in Canada, with 8 gigs on soundcheck across Montreal. Often billed alongside Cristobal Urbina, Billy Dalessandro and Maus. Next up: ESC, Montreal on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Trevor Kiernander is a house and progressive house artist based in Canada, with 
 
 Cristobal Urbina, Billy Dalessandro, Maus
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trevorkiernander/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trevorkiernander/)*

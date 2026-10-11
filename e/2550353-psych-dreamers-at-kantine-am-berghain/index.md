@@ -1,6 +1,6 @@
 # Psych Dreamers at Kantine am Berghain
 
-Psych Dreamers at Kantine am Berghain on Fri 20 Nov, Berlin. Dub and Acid. See the line-up on soundcheck.
+Psych Dreamers at Kantine am Berghain on Fri 20 Nov, Berlin. Acid and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

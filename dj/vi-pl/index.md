@@ -1,6 +1,6 @@
 # Vi (PL)
 
-Vi (PL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Mastak, Warsaw on Sat, 7 Nov 2026.
+Vi (PL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Mastak, Warsaw on Sat, 7 Nov 2026.
 
 Vi (PL) is a techno and house artist based in Poland, with 24 gigs on soundcheck across Barcelona, Berlin, Krakow and London and 3 more. Often billed alongside ANDRØMEDA, Tving Stage Design and Mordeaux. Next up: Mastak, Warsaw on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Vi (PL) is a techno and house artist based in Poland, with 24 gigs on soundcheck
 
 ANDRØMEDA, Tving Stage Design, Mordeaux
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vi-pl/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vi-pl/)*

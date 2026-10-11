@@ -1,11 +1,11 @@
-# PONT NEUF 10 YEARS XXL CLOSING at Fvtvr
+# PONT NEUF 10 YEARS XXL CLOSING at FVTVR
 
-PONT NEUF 10 YEARS XXL CLOSING at Fvtvr on Fri 4 Dec, Paris. 15 artists: Black Loops, Demuja, Dylan Dylan and Goldie B and 11 more. House. See the line-up on soundcheck.
+PONT NEUF 10 YEARS XXL CLOSING at FVTVR on Fri 4 Dec, Paris. 15 artists: Black Loops, Demuja, Dylan Dylan and Goldie B and 11 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 4 Dec 2026 |
-| Venue | Fvtvr |
+| Venue | FVTVR |
 | City | Paris |
 
 ## Line-up

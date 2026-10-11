@@ -1,6 +1,6 @@
 # Sonny Fodera
 
-Sonny Fodera is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Fortitude Music Hall, Brisbane on Thu, 15 Oct 2026.
+Sonny Fodera is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The Fortitude Music Hall, Brisbane on Thu, 15 Oct 2026.
 
 Sonny Fodera is a house and tech house artist based in United Kingdom, with 177 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Danny Howard, Gorgon City and Greta Levska. Next up: The Fortitude Music Hall, Brisbane on Thu 15 Oct.
 
@@ -27,4 +27,4 @@ Sonny Fodera is a house and tech house artist based in United Kingdom, with 177 
 
 Danny Howard, Gorgon City, Greta Levska
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnyfodera/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnyfodera/)*

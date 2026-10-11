@@ -1,6 +1,6 @@
 # Roni Size
 
-Roni Size is a Drum & Bass and Jungle artist with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Butelkownia, Warsaw on Tue, 10 Nov 2026.
+Roni Size is a Drum & Bass and Jungle artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Butelkownia, Warsaw on Tue, 10 Nov 2026.
 
 Roni Size is a drum & bass and jungle artist based in United Kingdom, with 81 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Birmingham and 31 more. Often billed alongside Grooverider, LTJ Bukem and Fabio. Next up: Butelkownia, Warsaw on Tue 10 Nov.
 
@@ -33,4 +33,4 @@ Roni Size is a drum & bass and jungle artist based in United Kingdom, with 81 gi
 
 Grooverider, LTJ Bukem, Fabio
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronisize/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronisize/)*

@@ -1,6 +1,6 @@
 # PALA10
 
-PALA10 is a Dub and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Amigo, Ghent on Fri, 16 Oct 2026.
+PALA10 is a Dub and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Amigo, Ghent on Fri, 16 Oct 2026.
 
 PALA10 is a dub and bass artist based in Belgium, with 23 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside Casper, EliseThere and Erykah. Next up: Amigo, Ghent on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ PALA10 is a dub and bass artist based in Belgium, with 23 gigs on soundcheck acr
 
 Casper, EliseThere, Erykah
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pala10/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pala10/)*

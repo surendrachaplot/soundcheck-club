@@ -1,6 +1,6 @@
 # Nitepunk
 
-Nitepunk is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Snapdragon Stadium, Los Angeles on Sun, 11 Oct 2026.
+Nitepunk is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Snapdragon Stadium, Los Angeles on Sun, 11 Oct 2026.
 
 Nitepunk is a bass and dubstep artist based in Georgia, with 30 gigs on soundcheck across Brisbane, Budapest, Chicago and Denver and 14 more. Often billed alongside EPROM, G Jones and DJ Glen. Next up: Snapdragon Stadium, Los Angeles on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Nitepunk is a bass and dubstep artist based in Georgia, with 30 gigs on soundche
 
 EPROM, G Jones, DJ Glen
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nitepunk/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nitepunk/)*

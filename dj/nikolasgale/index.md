@@ -1,6 +1,6 @@
 # Nikolas Gale
 
-Nikolas Gale is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at 2ten, Athens on Sat, 17 Oct 2026.
+Nikolas Gale is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at 2ten, Athens on Sat, 17 Oct 2026.
 
 Nikolas Gale is a house and deep house artist, with 85 gigs on soundcheck across Athens. Often billed alongside Stiko, Useless Co. and Bonso. Next up: 2ten, Athens on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Nikolas Gale is a house and deep house artist, with 85 gigs on soundcheck across
 
 Stiko, Useless Co., Bonso
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolasgale/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolasgale/)*

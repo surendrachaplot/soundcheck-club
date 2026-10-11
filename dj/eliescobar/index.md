@@ -1,14 +1,13 @@
 # Eli Escobar
 
-Eli Escobar is a House and Electro artist with 17 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Signal, New York City on Sat, 10 Oct 2026.
+Eli Escobar is a House and Electro artist with 16 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Gabriela, New York City on Thu, 15 Oct 2026.
 
-Eli Escobar is a house and electro artist based in United States of America, with 560 gigs on soundcheck across Barcelona, Berlin, Boston and Chicago and 19 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: Signal, New York City on Sat 10 Oct.
+Eli Escobar is a house and electro artist based in United States of America, with 560 gigs on soundcheck across Barcelona, Berlin, Boston and Chicago and 19 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: Gabriela, New York City on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Signal | New York City |
 | Thu, 15 Oct 2026 | Gabriela | New York City |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Thu, 22 Oct 2026 | Gabriela | New York City |
@@ -20,9 +19,11 @@ Eli Escobar is a house and electro artist based in United States of America, wit
 | Sat, 31 Oct 2026 | Good Room | New York City |
 | Fri, 6 Nov 2026 | House of Yes | New York City |
 | Sun, 8 Nov 2026 | Bossa Nova Civic Club | New York City |
+| Fri, 13 Nov 2026 | TBA | Denver |
 
 ## Recently played
 
+- Signal, New York City · Sat, 10 Oct 2026
 - Gabriela, New York City · Thu, 8 Oct 2026
 - TBA - Open Air: Downtown Los Angeles, Los Angeles · Sat, 3 Oct 2026
 - House of Yes, New York City · Fri, 2 Oct 2026
@@ -30,10 +31,9 @@ Eli Escobar is a house and electro artist based in United States of America, wit
 - StereoBar, Montreal · Fri, 25 Sept 2026
 - Gabriela, New York City · Thu, 24 Sept 2026
 - Floyd, Miami · Sat, 19 Sept 2026
-- Good Room, New York City · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 DJ Moma, Andi, The Carry Nation
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliescobar/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliescobar/)*

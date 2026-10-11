@@ -1,14 +1,13 @@
 # Switch Bar
 
-Switch Bar is a music venue in Barcelona with 17 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Transmission: Bertola, PEBU, Daniela Luzzatto, SILVIä b2b Serkin" on Sat, 10 Oct 2026.
+Switch Bar is a music venue in Barcelona with 16 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Neskeh & Ludviq" on Sun, 11 Oct 2026.
 
-Switch Bar is a music venue in Barcelona listed on soundcheck. 17 upcoming gigs, with line-ups including Arildo, Armela, btrast and Deckard and 2 more. See dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
+Switch Bar is a music venue in Barcelona listed on soundcheck. 16 upcoming gigs, with line-ups including Arildo, Armela, btrast and Deckard and 2 more. See dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Transmission: Bertola, PEBU, Daniela Luzzatto, SILVIä b2b Serkin | Serkin |
 | Sun, 11 Oct 2026 | Neskeh & Ludviq | Ludviq |
 | Wed, 14 Oct 2026 | Farres, Vultur | Farres |
 | Thu, 15 Oct 2026 | The Dijous Saved My Life: Basic Shape, Arildo | Arildo |
@@ -18,9 +17,10 @@ Switch Bar is a music venue in Barcelona listed on soundcheck. 17 upcoming gigs,
 | Thu, 22 Oct 2026 | HiFi: Alexis Perdomo, Deza |  |
 | Fri, 23 Oct 2026 | Katmandú | Katmandü |
 | Sat, 24 Oct 2026 | After Dark: Pep Sánchez, Armela | Armela |
+| Wed, 28 Oct 2026 | Slip Falcone, Vultur |  |
 
 ## Address
 
 Carrer Francisco Giner, 24, 08012 Barcelona, Spain, Barcelona
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*

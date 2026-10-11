@@ -1,6 +1,6 @@
 # KABUTO
 
-KABUTO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Red Bar, Tokyo on Sun, 11 Oct 2026.
+KABUTO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Red Bar, Tokyo on Sun, 11 Oct 2026.
 
 KABUTO is a techno and house artist based in Japan, with 113 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside Satoshi Otsuki, levolant and Antwork. Next up: Red Bar, Tokyo on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ KABUTO is a techno and house artist based in Japan, with 113 gigs on soundcheck 
 
 Satoshi Otsuki, levolant, Antwork
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kabuto/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kabuto/)*

@@ -1,6 +1,6 @@
 # Minna-no-Kimochi
 
-Minna-no-Kimochi is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Le Sucre, Lyon on Sat, 17 Oct 2026.
+Minna-no-Kimochi is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Le Sucre, Lyon on Sat, 17 Oct 2026.
 
 Minna-no-Kimochi is a techno and trance artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam, Bangkok, Belfast and Berlin and 14 more. Often billed alongside AKIRAM EN, Bambounou and Clouds. Next up: Le Sucre, Lyon on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Minna-no-Kimochi is a techno and trance artist based in United Kingdom, with 31 
 
 AKIRAM EN, Bambounou, Clouds
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-no-kimochi/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-no-kimochi/)*

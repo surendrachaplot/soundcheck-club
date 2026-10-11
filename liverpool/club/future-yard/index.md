@@ -1,14 +1,13 @@
 # Future Yard
 
-Future Yard is a music venue in Liverpool with 20 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Future Yard presents Ibibio Sound Machine" on Sat, 10 Oct 2026.
+Future Yard is a music venue in Liverpool with 19 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "EVENTS471 PRESENTS Everything Yes" on Sun, 11 Oct 2026.
 
-Future Yard is a music venue in Liverpool listed on soundcheck. 20 upcoming gigs, with line-ups including African Head Charge, Bodega, corto.alto and Pyramid Eyes and 2 more. See dates, start times and who's playing. 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB.
+Future Yard is a music venue in Liverpool listed on soundcheck. 19 upcoming gigs, with line-ups including African Head Charge, Bodega, corto.alto and Pyramid Eyes and 2 more. See dates, start times and who's playing. 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Future Yard presents Ibibio Sound Machine |  |
 | Sun, 11 Oct 2026 | EVENTS471 PRESENTS Everything Yes |  |
 | Tue, 20 Oct 2026 | Future Yard presents Yumi And The Weather + So, Reverie + Golden Toad |  |
 | Wed, 21 Oct 2026 | Future Yard presents Uche Yara |  |
@@ -18,9 +17,10 @@ Future Yard is a music venue in Liverpool listed on soundcheck. 20 upcoming gigs
 | Wed, 4 Nov 2026 | Future Yard presents Mae Stephens + Mimi Greene |  |
 | Sat, 7 Nov 2026 | African Head Charge 45th Anniversary | African Head Charge |
 | Sat, 14 Nov 2026 | Future Yard presents GNOD |  |
+| Wed, 18 Nov 2026 | Future Yard presents corto.alto | corto.alto |
 
 ## Address
 
 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB, Liverpool
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/future-yard/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/future-yard/)*

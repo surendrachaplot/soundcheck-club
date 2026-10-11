@@ -1,6 +1,6 @@
 # Tallboy
 
-Tallboy is a Jungle and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at M.O.T, London on Thu, 22 Oct 2026.
+Tallboy is a Jungle and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at M.O.T, London on Thu, 22 Oct 2026.
 
 Tallboy is a jungle and bass artist based in United Kingdom, with 26 gigs on soundcheck across Cologne, Leeds, London and Manchester. Often billed alongside A.N.T, Marky V and MIDRIB. Next up: M.O.T, London on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Tallboy is a jungle and bass artist based in United Kingdom, with 26 gigs on sou
 
 A.N.T, Marky V, MIDRIB
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tallboy/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tallboy/)*

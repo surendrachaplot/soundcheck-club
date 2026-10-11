@@ -1,6 +1,6 @@
 # DJ Fat Frog
 
-DJ Fat Frog is a Jungle and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Mood Ring, New York City on Fri, 30 Oct 2026.
+DJ Fat Frog is a Jungle and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Mood Ring, New York City on Fri, 30 Oct 2026.
 
 DJ Fat Frog is a jungle and house artist, with 43 gigs on soundcheck across New York City, San Francisco/Oakland and Tokyo. Often billed alongside satandoll, dj 5spice and LEEJAY. Next up: Mood Ring, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DJ Fat Frog is a jungle and house artist, with 43 gigs on soundcheck across New 
 
 satandoll, dj 5spice, LEEJAY
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfatfrog/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfatfrog/)*

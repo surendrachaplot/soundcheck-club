@@ -1,15 +1,13 @@
 # The Hacker
 
-The Hacker is a Techno and Electro artist with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at FVTVR, Paris on Fri, 9 Oct 2026.
+The Hacker is a Techno and Electro artist with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Golden Pudel Club, Hamburg on Thu, 15 Oct 2026.
 
-The Hacker is a techno and electro artist based in France, with 120 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Miss Kittin, Alessandro Adriani and Charlie. Next up: FVTVR, Paris on Fri 9 Oct.
+The Hacker is a techno and electro artist based in France, with 120 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Miss Kittin, Alessandro Adriani and Charlie. Next up: Golden Pudel Club, Hamburg on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | FVTVR | Paris |
-| Sat, 10 Oct 2026 | DRUMSHEDS | London |
 | Thu, 15 Oct 2026 | Golden Pudel Club | Hamburg |
 | Fri, 16 Oct 2026 | fi | Cologne |
 | Sat, 17 Oct 2026 | Fridas Pier | Stuttgart |
@@ -21,6 +19,7 @@ The Hacker is a techno and electro artist based in France, with 120 gigs on soun
 
 ## Recently played
 
+- DRUMSHEDS, London · Sat, 10 Oct 2026
 - FVTVR, Paris · Fri, 9 Oct 2026
 - La Belle Électrique, South-east · Sat, 3 Oct 2026
 - Razzmatazz, Barcelona · Sat, 19 Sept 2026
@@ -28,10 +27,9 @@ The Hacker is a techno and electro artist based in France, with 120 gigs on soun
 - Sparta Schwimmclub, Frankfurt · Sat, 22 Aug 2026
 - Kater, Berlin · Fri, 21 Aug 2026
 - Virage, Paris · Fri, 21 Aug 2026
-- Fira Gran Via, Barcelona · Mon, 15 Jun 2026
 
 ## Shares bills with
 
 Miss Kittin, Alessandro Adriani, Charlie
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thehacker/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thehacker/)*

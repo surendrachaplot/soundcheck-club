@@ -1,6 +1,6 @@
 # In Verruf
 
-In Verruf is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at KUZ - Kulturzentrum Mainz, Mainz on Fri, 16 Oct 2026.
+In Verruf is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at KUZ - Kulturzentrum Mainz, Mainz on Fri, 16 Oct 2026.
 
 In Verruf is a techno and trance artist based in Germany, with 146 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 43 more. Often billed alongside Kobosil, Somewhen and Afem Syko. Next up: KUZ - Kulturzentrum Mainz, Mainz on Fri 16 Oct.
 
@@ -33,4 +33,4 @@ In Verruf is a techno and trance artist based in Germany, with 146 gigs on sound
 
 Kobosil, Somewhen, Afem Syko
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inverruf/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inverruf/)*

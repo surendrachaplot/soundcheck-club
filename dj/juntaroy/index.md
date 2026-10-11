@@ -1,6 +1,6 @@
 # JUNTARO Y
 
-JUNTARO Y is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Cellar, London on Sat, 31 Oct 2026.
+JUNTARO Y is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Cellar, London on Sat, 31 Oct 2026.
 
 JUNTARO Y is a house and minimal techno artist based in Japan, with 9 gigs on soundcheck across London. Often billed alongside Glitech Pavel, AYSHA and De La Reef. Next up: Cellar, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ JUNTARO Y is a house and minimal techno artist based in Japan, with 9 gigs on so
 
 Glitech Pavel, AYSHA, De La Reef
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juntaroy/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juntaroy/)*

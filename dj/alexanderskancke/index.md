@@ -1,6 +1,6 @@
 # Alexander Skancke
 
-Alexander Skancke is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Labattoir, Thessaloniki on Sun, 11 Oct 2026.
+Alexander Skancke is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Labattoir, Thessaloniki on Sun, 11 Oct 2026.
 
 Alexander Skancke is a house and techno artist based in Norway, with 99 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 28 more. Often billed alongside Henriku, Trent Voyage and Dorian Paic. Next up: Labattoir, Thessaloniki on Sun 11 Oct.
 
@@ -34,4 +34,4 @@ Alexander Skancke is a house and techno artist based in Norway, with 99 gigs on 
 
 Henriku, Trent Voyage, Dorian Paic
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderskancke/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderskancke/)*

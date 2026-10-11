@@ -1,14 +1,13 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 37 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "TECHNODROME: PAULITTAHH, Linda Lenor, Joui" on Sat, 10 Oct 2026.
+EL SÓTANO is a music venue in Madrid with 36 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "RIOT CLUB & HARDCORE SPAIN: Kelly B & Seiken, Arok Shiva, Jorge Carreño & Arancha Martin" on Sun, 11 Oct 2026.
 
-EL SÓTANO is a music venue in Madrid listed on soundcheck. 37 upcoming gigs, with line-ups including Alexander Kowalski, Arok Shiva, Babylon Whore and Bigot3x and 2 more. See dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
+EL SÓTANO is a music venue in Madrid listed on soundcheck. 36 upcoming gigs, with line-ups including Alexander Kowalski, Arok Shiva, Babylon Whore and Bigot3x and 2 more. See dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | TECHNODROME: PAULITTAHH, Linda Lenor, Joui | Linda Lenor, PAULITTAHH |
 | Sun, 11 Oct 2026 | RIOT CLUB & HARDCORE SPAIN: Kelly B & Seiken, Arok Shiva, Jorge Carreño & Arancha Martin | Arok Shiva, Kelly B |
 | Sun, 11 Oct 2026 | BOSSA: Grau, Héctor Pericet, Julio Machicado, Tony Mutton | Grau (ES), Héctor Pericet, Julio Machicado |
 | Thu, 15 Oct 2026 | TECHNETIUM X EUPHORIA: Raner Baumgartner, Kaattech, KITAE, Salvatore | KITAE, Raner Baumgartner |
@@ -18,9 +17,10 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 37 upcoming gigs, wi
 | Sun, 18 Oct 2026 | BOSSA: Cotto, Grau, Héctor Pericet, Moross | Grau, Héctor Pericet |
 | Thu, 22 Oct 2026 | ARETÉ: Aisak Morris, K-YU, Mermaid | Mermaid |
 | Fri, 23 Oct 2026 | TORMENTA: Loopita, Dj Chris, Irene Gutierrez, Vico Deep, Yannik Musik | DJ Chris (CA), Loopita, Vico Deep |
+| Sat, 24 Oct 2026 | BAKALAO presenta PONT AERI: DJ Skudero, Xavi Metralla, Monty | DJ Skudero, Xavi Metralla |
 
 ## Address
 
 Calle de las Maldonadas, 6, 28005 Madrid, España, Madrid
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*

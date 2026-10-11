@@ -1,18 +1,17 @@
 # Bar Gobo
 
-Bar Gobo is a music venue in Vancouver with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Cal-C Plays Dancehall At Bar Gobo" on Sat, 10 Oct 2026.
+Bar Gobo is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "Roland plays vinyl at BarGobo" on Thu, 19 Nov 2026.
 
-Bar Gobo is a music venue in Vancouver listed on soundcheck. 2 upcoming gigs, with line-ups including Cal C (Modern Art) and Roland Gonzales. See dates, start times and who's playing. 237 Union St, Vancouver, BC V6A 2B2.
+Bar Gobo is a music venue in Vancouver listed on soundcheck. 1 upcoming gig, with line-ups including Roland Gonzales. See dates, start times and who's playing. 237 Union St, Vancouver, BC V6A 2B2.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Cal-C Plays Dancehall At Bar Gobo | Cal C (Modern Art) |
 | Thu, 19 Nov 2026 | Roland plays vinyl at BarGobo | Roland Gonzales |
 
 ## Address
 
 237 Union St, Vancouver, BC V6A 2B2, Vancouver
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/bar-gobo/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/bar-gobo/)*

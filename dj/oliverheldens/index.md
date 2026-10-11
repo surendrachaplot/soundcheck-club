@@ -1,14 +1,13 @@
 # Oliver Heldens
 
-Oliver Heldens is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at New City Gas, Montreal on Sat, 10 Oct 2026.
+Oliver Heldens is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Creekside - Under The K Bridge, New York City on Sun, 11 Oct 2026.
 
-Oliver Heldens is a house and techno artist based in Netherlands, with 55 gigs on soundcheck across Amsterdam, Austin, Boston and Buenos Aires and 20 more. Often billed alongside HI-LO, Kaskade and Tiesto. Next up: New City Gas, Montreal on Sat 10 Oct.
+Oliver Heldens is a house and techno artist based in Netherlands, with 55 gigs on soundcheck across Amsterdam, Austin, Boston and Buenos Aires and 20 more. Often billed alongside HI-LO, Kaskade and Tiesto. Next up: Creekside - Under The K Bridge, New York City on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | New City Gas | Montreal |
 | Sun, 11 Oct 2026 | Creekside - Under The K Bridge | New York City |
 | Wed, 21 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 30 Oct 2026 | TBA - Oasis, Costanera | Buenos Aires |
@@ -16,6 +15,7 @@ Oliver Heldens is a house and techno artist based in Netherlands, with 55 gigs o
 
 ## Recently played
 
+- New City Gas, Montreal · Sat, 10 Oct 2026
 - Pacha Ibiza, Ibiza · Sat, 3 Oct 2026
 - Ushuaïa Ibiza, Ibiza · Mon, 7 Sept 2026
 - Ushuaïa Ibiza, Ibiza · Wed, 19 Aug 2026
@@ -23,10 +23,9 @@ Oliver Heldens is a house and techno artist based in Netherlands, with 55 gigs o
 - Exhibition Park, Newcastle · Sat, 11 Jul 2026
 - Ushuaïa Ibiza, Ibiza · Wed, 8 Jul 2026
 - The Grand, Boston · Fri, 26 Jun 2026
-- Brooklyn Army Terminal, New York City · Fri, 19 Jun 2026
 
 ## Shares bills with
 
 HI-LO, Kaskade, Tiesto
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverheldens/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverheldens/)*

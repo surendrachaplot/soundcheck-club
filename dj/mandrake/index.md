@@ -1,18 +1,18 @@
 # Mandrake
 
-Mandrake is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Life Park, Istanbul on Sat, 10 Oct 2026.
+Mandrake is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Ciudad Universitaria, Belgrano, Buenos Aires on Sat, 17 Oct 2026.
 
-Mandrake is a house and deep house artist based in Mexico, with 42 gigs on soundcheck across Berlin, Buenos Aires, Istanbul and London and 10 more. Often billed alongside Chris Schwarzwälder, Mira and Britta Arnold. Next up: Life Park, Istanbul on Sat 10 Oct.
+Mandrake is a house and deep house artist based in Mexico, with 42 gigs on soundcheck across Berlin, Buenos Aires, Istanbul and London and 10 more. Often billed alongside Chris Schwarzwälder, Mira and Britta Arnold. Next up: TBA - Ciudad Universitaria, Belgrano, Buenos Aires on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Life Park | Istanbul |
 | Sat, 17 Oct 2026 | TBA - Ciudad Universitaria, Belgrano | Buenos Aires |
 
 ## Recently played
 
+- Life Park, Istanbul · Sat, 10 Oct 2026
 - Do Not Sit On The Furniture, Miami · Sat, 8 Aug 2026
 - The Onyx Room at House of Yes, New York City · Fri, 7 Aug 2026
 - Kater, Berlin · Fri, 3 Jul 2026
@@ -20,10 +20,9 @@ Mandrake is a house and deep house artist based in Mexico, with 42 gigs on sound
 - M.N.Roy, Mexico City · Sat, 18 Apr 2026
 - Fünk, Mexico City · Sat, 28 Mar 2026
 - TBA, Mexico City · Fri, 13 Mar 2026
-- M.N.Roy, Mexico City · Thu, 5 Feb 2026
 
 ## Shares bills with
 
 Chris Schwarzwälder, Mira, Britta Arnold
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandrake/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandrake/)*

@@ -1,6 +1,6 @@
 # Serafina
 
-Serafina is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Parc Floral De Paris, Paris on Fri, 16 Oct 2026.
+Serafina is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Parc Floral De Paris, Paris on Fri, 16 Oct 2026.
 
 Serafina is a techno and trance artist based in Germany, with 172 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 48 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: Parc Floral De Paris, Paris on Fri 16 Oct.
 
@@ -36,4 +36,4 @@ Serafina is a techno and trance artist based in Germany, with 172 gigs on soundc
 
 Adrian Mills, fumi (DE), Cloudy
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serafina/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serafina/)*

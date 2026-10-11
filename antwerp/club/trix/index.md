@@ -1,14 +1,13 @@
 # Trix
 
-Trix is a music venue in Antwerp with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Celebration of Life" on Sat, 10 Oct 2026.
+Trix is a music venue in Antwerp with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Käärijä EURODISKO TOUR" on Thu, 15 Oct 2026.
 
-Trix is a music venue in Antwerp listed on soundcheck. 6 upcoming gigs, with line-ups including Bellaire, DJNO, DOUBLE P and Drazzit and 2 more. See dates, start times and who's playing. Noordersingel 28/30, 2140 Antwerpen, Belgium.
+Trix is a music venue in Antwerp listed on soundcheck. 5 upcoming gigs, with line-ups including Bellaire and horsegiirL. See dates, start times and who's playing. Noordersingel 28/30, 2140 Antwerpen, Belgium.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Celebration of Life | DJNO, DOUBLE P, Drazzit, I. JORDAN, LEGOLANE, Malo Z, Spirite, soft:machina |
 | Thu, 15 Oct 2026 | Käärijä EURODISKO TOUR |  |
 | Fri, 16 Oct 2026 | Bellaire | Bellaire |
 | Sun, 15 Nov 2026 | Solomon Fox |  |
@@ -19,4 +18,4 @@ Trix is a music venue in Antwerp listed on soundcheck. 6 upcoming gigs, with lin
 
 Noordersingel 28/30, 2140 Antwerpen, Belgium, Antwerp
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/trix/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/trix/)*

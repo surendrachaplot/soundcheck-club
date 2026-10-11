@@ -1,6 +1,6 @@
 # Reveller
 
-Reveller is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Pawn Shop, Dublin on Sun, 11 Oct 2026.
+Reveller is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Pawn Shop, Dublin on Sun, 11 Oct 2026.
 
 Reveller is a house and techno artist, with 10 gigs on soundcheck across Dublin. Often billed alongside Blewit, Ambit and Cinquedea. Next up: Pawn Shop, Dublin on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Reveller is a house and techno artist, with 10 gigs on soundcheck across Dublin.
 
 Blewit (2), Ambit, Cinquedea
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reveller/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reveller/)*

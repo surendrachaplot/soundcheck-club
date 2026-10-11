@@ -1,6 +1,6 @@
 # Big Pink
 
-Big Pink is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "HIPHOP NIGHT: QUEENS OF RAP (PROBLEMATICBLACKHOTTIE & CELEX THE DJ)" on Sat, 10 Oct 2026.
+Big Pink is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "NO SKIPS: HIPHOP & R&B (SUNDAY NIGHT) - BLAKITO" on Sun, 11 Oct 2026.
 
 Big Pink is a music venue in Detroit listed on soundcheck. 8 upcoming gigs. See dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
 
@@ -8,9 +8,9 @@ Big Pink is a music venue in Detroit listed on soundcheck. 8 upcoming gigs. See 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | HIPHOP NIGHT: QUEENS OF RAP (PROBLEMATICBLACKHOTTIE & CELEX THE DJ) |  |
 | Sun, 11 Oct 2026 | NO SKIPS: HIPHOP & R&B (SUNDAY NIGHT) - BLAKITO |  |
 | Fri, 16 Oct 2026 | BLING: 2000s HIPHOP NIGHT (THROWBACKS) |  |
+| Sat, 17 Oct 2026 | CARTOONS & STEREO VOL. 2: A SKATEBOARDING + MUSIC FESTIVAL |  |
 | Sat, 17 Oct 2026 | HIPHOP NIGHT: DJ MO BEATZ & DJ KDIRTY (OPEN FORMAT CLUB BANGERS) |  |
 | Fri, 23 Oct 2026 | OCTOBER'S VERY OWN: DRAKE NIGHT (WITH BLAKITO) |  |
 | Sat, 24 Oct 2026 | LATIN NIGHT: DJ IZA & SWDEJAY (BAD BUNNY VIBES) |  |
@@ -21,4 +21,4 @@ Big Pink is a music venue in Detroit listed on soundcheck. 8 upcoming gigs. See 
 
 6440 Wight St, Detroit, MI 48207, USA, Detroit
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*

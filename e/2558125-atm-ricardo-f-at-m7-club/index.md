@@ -1,10 +1,10 @@
 # ATM  Ricardo F at M7 Club
 
-ATM  Ricardo F at M7 Club on Wed 21 Oct, Barcelona. 1 artist: Ricardo F. See the line-up on soundcheck.
+ATM  Ricardo F at M7 Club on Sat 21 Nov, Barcelona. 1 artist: Ricardo F. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Wed, 21 Oct 2026 |
+| Date | Sat, 21 Nov 2026 |
 | Venue | M7 Club |
 | City | Barcelona |
 

@@ -1,6 +1,6 @@
 # KACHU2K
 
-KACHU2K is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at R25 Kulturschlachthof, Düsseldorf on Fri, 16 Oct 2026.
+KACHU2K is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at R25 Kulturschlachthof, Düsseldorf on Fri, 16 Oct 2026.
 
 KACHU2K is a trance and techno artist based in Germany, with 12 gigs on soundcheck across Berlin, Cologne, Copenhagen and Düsseldorf. Often billed alongside Demontime, ZOMBIE1000 and DETOXX. Next up: R25 Kulturschlachthof, Düsseldorf on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ KACHU2K is a trance and techno artist based in Germany, with 12 gigs on soundche
 
 Demontime, ZOMBIE1000, DETOXX
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kachu2k/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kachu2k/)*

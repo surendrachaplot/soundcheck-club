@@ -1,6 +1,6 @@
 # Delm
 
-Delm is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at ://about blank, Berlin on Fri, 30 Oct 2026.
+Delm is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at ://about blank, Berlin on Fri, 30 Oct 2026.
 
 Delm is a techno and trance artist based in Germany, with 6 gigs on soundcheck across Berlin and Munster. Often billed alongside YËDM, DJ Henk and DOCTOR MÜCKE. Next up: ://about blank, Berlin on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Delm is a techno and trance artist based in Germany, with 6 gigs on soundcheck a
 
 YËDM, DJ Henk, DOCTOR MÜCKE
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delm/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delm/)*

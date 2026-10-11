@@ -1,6 +1,6 @@
 # Pulse and Pickle CIC
 
-Pulse and Pickle CIC is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. The next is "disco delights #2 (we are so back)" on Sat, 17 Oct 2026.
+Pulse and Pickle CIC is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "disco delights #2 (we are so back)" on Sat, 17 Oct 2026.
 
 Pulse and Pickle CIC is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Pulse and Pickle CIC is a music venue in London listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | disco delights #2 (we are so back) |  |
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/pulse-and-pickle-cic/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/pulse-and-pickle-cic/)*

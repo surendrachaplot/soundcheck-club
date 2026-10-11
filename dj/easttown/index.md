@@ -1,14 +1,13 @@
 # Easttown
 
-Easttown is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Lurin live, Peru on Sat, 10 Oct 2026.
+Easttown is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Easttown is a house and tech house artist based in Netherlands, with 106 gigs on soundcheck across Amsterdam, Barcelona, Basel and Ibiza and 13 more. Often billed alongside Rooléh, Joëlla Jackson and AAT (NL). Next up: TBA - Lurin live, Peru on Sat 10 Oct.
+Easttown is a house and tech house artist based in Netherlands, with 106 gigs on soundcheck across Amsterdam, Barcelona, Basel and Ibiza and 13 more. Often billed alongside Rooléh, Joëlla Jackson and AAT (NL). Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | TBA - Lurin live | Peru |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Thu, 22 Oct 2026 | Q-Factory | Amsterdam |
 | Fri, 23 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
@@ -19,6 +18,7 @@ Easttown is a house and tech house artist based in Netherlands, with 106 gigs on
 
 ## Recently played
 
+- TBA - Lurin live, Peru · Sat, 10 Oct 2026
 - BRET, Amsterdam · Sat, 3 Oct 2026
 - BRET, Amsterdam · Sat, 3 Oct 2026
 - SISSI'S Amsterdam, Amsterdam · Fri, 25 Sept 2026
@@ -26,10 +26,9 @@ Easttown is a house and tech house artist based in Netherlands, with 106 gigs on
 - INPUT High Fidelity Dance Club, Barcelona · Sun, 13 Sept 2026
 - Night Tales, London · Fri, 11 Sept 2026
 - Cova Santa, Ibiza · Tue, 8 Sept 2026
-- Colorado Charlie, The Hague · Sun, 6 Sept 2026
 
 ## Shares bills with
 
 Rooléh, Joëlla Jackson, AAT (NL)
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*

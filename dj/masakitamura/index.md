@@ -1,6 +1,6 @@
 # Masaki Tamura
 
-Masaki Tamura is a Jazz and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at BAR Inc, Osaka on Sun, 11 Oct 2026.
+Masaki Tamura is a Jazz and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at BAR Inc, Osaka on Sun, 11 Oct 2026.
 
 Masaki Tamura is a jazz and club artist based in Japan, with 46 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Naoki Yoda, Kyoto Jazz Massive and Yoshihiro Okino. Next up: BAR Inc, Osaka on Sun 11 Oct.
 
@@ -27,4 +27,4 @@ Masaki Tamura is a jazz and club artist based in Japan, with 46 gigs on soundche
 
 Naoki Yoda, Kyoto Jazz Massive, Yoshihiro Okino
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masakitamura/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masakitamura/)*

@@ -1,6 +1,6 @@
 # Licia
 
-Licia is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Steel Yard, London on Fri, 16 Oct 2026.
+Licia is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The Steel Yard, London on Fri, 16 Oct 2026.
 
 Licia is a drum & bass and jungle artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bristol and 6 more. Often billed alongside Anaïs, Andromedik and Friction. Next up: The Steel Yard, London on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Licia is a drum & bass and jungle artist based in United Kingdom, with 18 gigs o
 
 Anaïs, Andromedik, Friction
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/licia/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/licia/)*

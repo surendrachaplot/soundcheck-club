@@ -1,14 +1,13 @@
 # Kevin Saunderson
 
-Kevin Saunderson is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Discoteca Paradiso, Naples on Sat, 10 Oct 2026.
+Kevin Saunderson is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Fabrik, Madrid on Sun, 11 Oct 2026.
 
-Kevin Saunderson is a techno and house artist based in United States of America, with 120 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 33 more. Often billed alongside The Saunderson Brothers, Carl Craig and DJ Holographic. Next up: Discoteca Paradiso, Naples on Sat 10 Oct.
+Kevin Saunderson is a techno and house artist based in United States of America, with 120 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 33 more. Often billed alongside The Saunderson Brothers, Carl Craig and DJ Holographic. Next up: Fabrik, Madrid on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Discoteca Paradiso | Naples |
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
 | Fri, 16 Oct 2026 | Spybar | Chicago |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
@@ -20,6 +19,7 @@ Kevin Saunderson is a techno and house artist based in United States of America,
 
 ## Recently played
 
+- Discoteca Paradiso, Naples · Sat, 10 Oct 2026
 - Jaeger, Oslo · Fri, 2 Oct 2026
 - TBA - Various Venues, Malta · Thu, 1 Oct 2026
 - UNO MALTA, Malta · Thu, 1 Oct 2026
@@ -27,10 +27,9 @@ Kevin Saunderson is a techno and house artist based in United States of America,
 - Rex Club, Paris · Sat, 5 Sept 2026
 - TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2), Vancouver · Sat, 22 Aug 2026
 - The Den, Portland · Fri, 21 Aug 2026
-- Paragon, New York City · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 The Saunderson Brothers, Carl Craig, DJ Holographic
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinsaunderson/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinsaunderson/)*

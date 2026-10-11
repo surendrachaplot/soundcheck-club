@@ -1,6 +1,6 @@
 # ELIF
 
-ELIF is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 16 Oct 2026.
+ELIF is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 16 Oct 2026.
 
 ELIF is a house and techno artist based in Turkey, with 141 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 32 more. Often billed alongside Mira, Chris Schwarzwälder and Britta Arnold. Next up: Bahnwärter Thiel, Munich on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ ELIF is a house and techno artist based in Turkey, with 141 gigs on soundcheck a
 
 Mira, Chris Schwarzwälder, Britta Arnold
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elif/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elif/)*

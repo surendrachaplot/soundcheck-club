@@ -1,6 +1,6 @@
 # MIDNIGHT EAST
 
-MIDNIGHT EAST is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "COCAG-003 12' VINYL RELEASE PARTY" on Fri, 16 Oct 2026.
+MIDNIGHT EAST is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "COCAG-003 12' VINYL RELEASE PARTY" on Fri, 16 Oct 2026.
 
 MIDNIGHT EAST is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with line-ups including ABSIS, Aiko Inoue, Albino Sound and Chez Damier and 2 more. See dates, start times and who's playing. 2-14-8 Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan.
 
@@ -19,4 +19,4 @@ MIDNIGHT EAST is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, w
 
 2-14-8 Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan, Tokyo
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/midnight-east/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/midnight-east/)*

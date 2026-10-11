@@ -1,6 +1,6 @@
 # kittenhouse
 
-kittenhouse is a Hardcore and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Boombox, Miami on Fri, 16 Oct 2026.
+kittenhouse is a Hardcore and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The Boombox, Miami on Fri, 16 Oct 2026.
 
 kittenhouse is a hardcore and club artist based in United States of America, with 24 gigs on soundcheck across Atlanta, Austin, Chicago and Detroit and 5 more. Often billed alongside Demifiend, GUSSYEE and Obi-Wan Shinobi. Next up: The Boombox, Miami on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ kittenhouse is a hardcore and club artist based in United States of America, wit
 
 Demifiend, GUSSYEE, Obi-Wan Shinobi
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kittenhouse/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kittenhouse/)*

@@ -1,14 +1,13 @@
 # Factory Town
 
-Factory Town is a music venue in Miami with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Armin van Buuren presents The Orb" on Sat, 10 Oct 2026.
+Factory Town is a music venue in Miami with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Hocus Pocus 2026 " on Fri, 30 Oct 2026.
 
-Factory Town is a music venue in Miami listed on soundcheck. 6 upcoming gigs, with line-ups including Berrakka, FLETCH, Paula Tape and Adam Ten and 2 more. See dates, start times and who's playing. 4800 NW 37th Ave Miami, FL 33142, USA.
+Factory Town is a music venue in Miami listed on soundcheck. 5 upcoming gigs, with line-ups including Berrakka, FLETCH, Paula Tape and Adam Ten and 2 more. See dates, start times and who's playing. 4800 NW 37th Ave Miami, FL 33142, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Armin van Buuren presents The Orb | Armin van Buuren, Funk Tribu |
 | Fri, 30 Oct 2026 | Hocus Pocus 2026  | ALISHA, ANNĒ, ATRIP, Alarico, Apollonia, Arina Krondeva, Azzecca, Baauer, Berrakka, Bushbaby, Caleb Jackson, Cami di Marzo, Cassian, Chase & Status, ChaseWest, Chloé Caillet, Chlär, Cole Knight, Conducta, DAX J, DJ BORING, DJ Seinfeld, Danny Daze, Darco, Effy, Elad, Eli Escobar, Eric Prydz, Franky Rizardo, Generous B, Gorgon City, Hudson Mohawke, Inbal, Indira Paganotto, Jamie Jones, Jayda G, Jean Pierre, Jordan Brando, Joseph Capriati, Julya Karma, Kerri Chandler, Kevin Saunderson, Kiddo, Layton Giordani, MALUGI, Mall Grab, Marcel Dettmann, Marco Strous, Marte, Mary Droppinz, Matthew Dear, Meduza, Monoky (2), Nicole Gallamini, Nora En Pure, Prospa, Purple Disco Machine, Quest, RAJE, RSquared, Rooléh, SIEGEL (2), SLAMM, Salomé Le Chat, Seth Troxler, Shir Miya, Sinopoli, Skream, Sol Ortega, Somewhen, Souls Departed, Special Request, The Chronics, Todd Edwards, Vitess, Will Renuart, William Kiss, X CLUB., X-Coast, Yamagucci, Yanamaste, camoufly, salute, slugg, Âme |
 | Fri, 13 Nov 2026 | UNREAL |  |
 | Sat, 14 Nov 2026 | ODESZA (DJ Set) | Bob Moses, Boys Noize, ODESZA |
@@ -19,4 +18,4 @@ Factory Town is a music venue in Miami listed on soundcheck. 6 upcoming gigs, wi
 
 4800 NW 37th Ave Miami, FL 33142, USA, Miami
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/factory-town/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/factory-town/)*

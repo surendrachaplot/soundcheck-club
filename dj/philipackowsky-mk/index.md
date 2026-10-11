@@ -1,14 +1,13 @@
 # Philip Ackowsky
 
-Philip Ackowsky is a Techno and Minimal Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Vault at Gianpula Village, Malta on Sat, 10 Oct 2026.
+Philip Ackowsky is a Techno and Minimal Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Flux, Istanbul on Fri, 16 Oct 2026.
 
-Philip Ackowsky is a techno and minimal techno artist based in North Macedonia, with 48 gigs on soundcheck across Amsterdam, Ibiza, Istanbul and Malta and 2 more. Often billed alongside Abdy, GRVYWRLD and Marixia. Next up: The Vault at Gianpula Village, Malta on Sat 10 Oct.
+Philip Ackowsky is a techno and minimal techno artist based in North Macedonia, with 48 gigs on soundcheck across Amsterdam, Ibiza, Istanbul and Malta and 2 more. Often billed alongside Abdy, GRVYWRLD and Marixia. Next up: Flux, Istanbul on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | The Vault at Gianpula Village | Malta |
 | Fri, 16 Oct 2026 | Flux | Istanbul |
 | Wed, 21 Oct 2026 | Supperclub | Amsterdam |
 | Thu, 22 Oct 2026 | Supperclub | Amsterdam |
@@ -19,6 +18,7 @@ Philip Ackowsky is a techno and minimal techno artist based in North Macedonia, 
 
 ## Recently played
 
+- The Vault at Gianpula Village, Malta · Sat, 10 Oct 2026
 - Liquid Club, Malta · Sat, 26 Sept 2026
 - Liquid Club, Malta · Fri, 18 Sept 2026
 - Sundara Club, Ibiza · Sat, 5 Sept 2026
@@ -26,10 +26,9 @@ Philip Ackowsky is a techno and minimal techno artist based in North Macedonia, 
 - Cosa Nova Summmum, Ibiza · Sun, 26 Jul 2026
 - Sundara Club, Ibiza · Fri, 24 Jul 2026
 - Liquid Club, Malta · Sat, 11 Jul 2026
-- Kastel, Istanbul · Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Abdy, GRVYWRLD, Marixia
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philipackowsky-mk/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philipackowsky-mk/)*

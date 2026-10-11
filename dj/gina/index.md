@@ -1,6 +1,6 @@
 # G I N A
 
-G I N A is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Dolphin, Philadelphia on Sun, 11 Oct 2026.
+G I N A is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The Dolphin, Philadelphia on Sun, 11 Oct 2026.
 
 G I N A is a techno and house artist based in United States of America, with 233 gigs on soundcheck across Barcelona, Liverpool, Los Angeles and Manchester and 4 more. Often billed alongside Shearn, Dave Tidey and Andi. Next up: The Dolphin, Philadelphia on Sun 11 Oct.
 
@@ -30,4 +30,4 @@ G I N A is a techno and house artist based in United States of America, with 233
 
 Shearn, Dave Tidey, Andi
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gina/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gina/)*

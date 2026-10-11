@@ -1,14 +1,13 @@
 # OK EG
 
-OK EG is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA, Montreal on Sat, 10 Oct 2026.
+OK EG is a Techno and Experimental artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at FOLD, London on Sat, 17 Oct 2026.
 
-OK EG is a techno and experimental artist based in Australia, with 56 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 17 more. Often billed alongside Kia (AU), Bambi (FR) and Notte Infinita. Next up: TBA, Montreal on Sat 10 Oct.
+OK EG is a techno and experimental artist based in Australia, with 56 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 17 more. Often billed alongside Kia (AU), Bambi (FR) and Notte Infinita. Next up: FOLD, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | TBA | Montreal |
 | Sat, 17 Oct 2026 | FOLD | London |
 | Thu, 22 Oct 2026 | Loods6 | Amsterdam |
 | Fri, 23 Oct 2026 | Loods6 | Amsterdam |
@@ -17,6 +16,7 @@ OK EG is a techno and experimental artist based in Australia, with 56 gigs on so
 
 ## Recently played
 
+- TBA, Montreal · Sat, 10 Oct 2026
 - The Loom, San Francisco/Oakland · Fri, 2 Oct 2026
 - TBA - Out ‘n’ About Treesort, Portland · Thu, 24 Sept 2026
 - TBA - Downtown, Los Angeles · Sat, 19 Sept 2026
@@ -24,10 +24,9 @@ OK EG is a techno and experimental artist based in Australia, with 56 gigs on so
 - TBA, New York City · Wed, 16 Sept 2026
 - Camp Kennybrook, New York City · Thu, 10 Sept 2026
 - Tender, Melbourne · Sat, 22 Aug 2026
-- Le Sucre, Lyon · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Kia (AU), Bambi (FR), Notte Infinita
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okeg/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okeg/)*

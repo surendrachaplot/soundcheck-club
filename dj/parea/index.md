@@ -1,6 +1,6 @@
 # Parea
 
-Parea is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at fabric, London on Fri, 20 Nov 2026.
+Parea is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at fabric, London on Fri, 20 Nov 2026.
 
 Parea is a minimal and house artist based in Spain, with 20 gigs on soundcheck across Barcelona, Ibiza, London and Milan and 1 more. Often billed alongside JM, Aaliyahnelle and Matteo Diop. Next up: fabric, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Parea is a minimal and house artist based in Spain, with 20 gigs on soundcheck a
 
 JM (3), Aaliyahnelle, Matteo Diop
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parea/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parea/)*

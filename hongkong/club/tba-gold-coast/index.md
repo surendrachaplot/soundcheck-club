@@ -1,16 +1,15 @@
 # TBA - Gold Coast
 
-TBA - Gold Coast is a music venue in Hong Kong with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Baauer - THE 'U' EXPERIENCE" on Sat, 10 Oct 2026.
+TBA - Gold Coast is a music venue in Hong Kong with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Snooko B2B Zack Darza" on Fri, 16 Oct 2026.
 
-TBA - Gold Coast is a music venue in Hong Kong listed on soundcheck. 4 upcoming gigs, with line-ups including Baauer and Snooko. See dates, start times and who's playing.
+TBA - Gold Coast is a music venue in Hong Kong listed on soundcheck. 3 upcoming gigs, with line-ups including Snooko. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Baauer - THE 'U' EXPERIENCE | Baauer |
 | Fri, 16 Oct 2026 | Snooko B2B Zack Darza | Snooko |
 | Sat, 17 Oct 2026 | Maesic |  |
 | Sat, 24 Oct 2026 | ME N Ü |  |
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/tba-gold-coast/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/tba-gold-coast/)*

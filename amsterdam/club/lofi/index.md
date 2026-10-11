@@ -1,16 +1,13 @@
 # Lofi
 
-Lofi is a music venue in Amsterdam with 21 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Cincity [all night long]" on Sat, 10 Oct 2026.
+Lofi is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "ADE - Patrick Mason pres MASONICS" on Wed, 21 Oct 2026.
 
-Lofi is a music venue in Amsterdam listed on soundcheck. 21 upcoming gigs, with line-ups including AAT (NL), Agents Of Time, Alexander Koning and Andy Martin and 2 more. See dates, start times and who's playing. Basisweg 63, Amsterdam 1043AN, Netherlands.
+Lofi is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including AAT (NL), Agents Of Time, Alexander Koning and Andy Martin and 2 more. See dates, start times and who's playing. Basisweg 63, Amsterdam 1043AN, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Cincity [all night long] | Cincity |
-| Sat, 10 Oct 2026 | Pre-ADE market |  |
-| Sat, 10 Oct 2026 | Pre-ADE market |  |
 | Wed, 21 Oct 2026 | ADE - Patrick Mason pres MASONICS | DJ Rush, Laure Croft, Patrick Mason, Shinedoe, Yasmin Regisford |
 | Thu, 22 Oct 2026 | ADE - Hot Meal [sold out] | Bad Boombox, Dr. G, Gusted, Janis Zielinski, Jessie Dols, MRD (NO), Mija, Mischluft, Ollie Lishman, lizaliza |
 | Fri, 23 Oct 2026 | ADE - VBX | Christian AB, Dresden, E.LINA, Francesco Del Garda, Frank Haag, Marco Shuttle, Paquita Gordon |
@@ -18,9 +15,12 @@ Lofi is a music venue in Amsterdam listed on soundcheck. 21 upcoming gigs, with 
 | Sat, 24 Oct 2026 | ADE - Rush Hour [sold out] | Antal, Arp Frique, Ays (NL), Gigi Testa, Kléo, Ron Trent, Soichi Terada |
 | Sat, 24 Oct 2026 | ADE - Agrio Club x Rapid Trax [sold out] | DART, Emmz, Entasia, Fiene, Miamor, NewTone, S3PPA, Sophia Violet, THELMA, Tjade |
 | Sun, 25 Oct 2026 | Ratherlost & PAX-ROMANA PRESENT: CODA | Andy Martin, Aurora Halal, Jane Fitz, Konduku, Mary Yuzovskaya, Moopie, Naone, Paquita Gordon, Richard Akingbehin, Rosati, STERAC, Serti, TSUNIMAN |
+| Sat, 31 Oct 2026 | Club Roto - Halloween | Dennis Quin, Job de Jong, Michel de Hey, Noach, Reeshy, jWave |
+| Sat, 7 Nov 2026 | Chaos In The CBD pres. In Dust We Trust | Chaos In The CBD, Elias Mazian, Jennifer Loveless, Ryan Elliott |
+| Fri, 13 Nov 2026 | Loco Dice [all night long] | Loco Dice |
 
 ## Address
 
 Basisweg 63, Amsterdam 1043AN, Netherlands, Amsterdam
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*

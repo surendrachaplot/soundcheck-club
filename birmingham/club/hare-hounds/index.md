@@ -1,6 +1,6 @@
 # Hare & Hounds
 
-Hare & Hounds is a music venue in Birmingham with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Luke Una" on Sun, 11 Oct 2026.
+Hare & Hounds is a music venue in Birmingham with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Luke Una" on Sun, 11 Oct 2026.
 
 Hare & Hounds is a music venue in Birmingham listed on soundcheck. 6 upcoming gigs, with line-ups including DAR DISKU, Greg Wilson, Horse Meat Disco and Luke Una and 2 more. See dates, start times and who's playing. 106 High Street; Birmingham, B14 7JZ; United Kingdom.
 
@@ -19,4 +19,4 @@ Hare & Hounds is a music venue in Birmingham listed on soundcheck. 6 upcoming gi
 
 106 High Street; Birmingham, B14 7JZ; United Kingdom, Birmingham
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/hare-hounds/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/hare-hounds/)*

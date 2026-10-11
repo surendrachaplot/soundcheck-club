@@ -1,14 +1,13 @@
 # Lion's Den
 
-Lion's Den is a music venue in Miami with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Illich Mujica, Manumat" on Sat, 10 Oct 2026.
+Lion's Den is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Chillin n Grillin: Command Center Recs" on Sun, 11 Oct 2026.
 
-Lion's Den is a music venue in Miami listed on soundcheck. 3 upcoming gigs, with line-ups including Illich Mujica, Manumat and Ro Rousseau. See dates, start times and who's playing. 150 NW 73rd st.
+Lion's Den is a music venue in Miami listed on soundcheck. 2 upcoming gigs, with line-ups including Ro Rousseau. See dates, start times and who's playing. 150 NW 73rd st.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Illich Mujica, Manumat | Illich Mujica, Manumat |
 | Sun, 11 Oct 2026 | Chillin n Grillin: Command Center Recs |  |
 | Sun, 25 Oct 2026 | Kimono Sunsets | Ro Rousseau |
 
@@ -16,4 +15,4 @@ Lion's Den is a music venue in Miami listed on soundcheck. 3 upcoming gigs, with
 
 150 NW 73rd st, Miami
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/lion-s-den/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/lion-s-den/)*

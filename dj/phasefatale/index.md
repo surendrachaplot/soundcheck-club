@@ -1,14 +1,13 @@
 # Phase Fatale
 
-Phase Fatale is a Techno and EBM artist with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Tresor.West, Dortmund-essen on Sat, 10 Oct 2026.
+Phase Fatale is a Techno and EBM artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Fabrik, Madrid on Sun, 11 Oct 2026.
 
-Phase Fatale is a techno and ebm artist based in United States of America, with 209 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 59 more. Often billed alongside Pablo Bozzi, Unhuman and Soft Crash. Next up: Tresor.West, Dortmund Essen on Sat 10 Oct.
+Phase Fatale is a techno and ebm artist based in United States of America, with 209 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 59 more. Often billed alongside Pablo Bozzi, Unhuman and Soft Crash. Next up: Fabrik, Madrid on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Tresor.West | Dortmund-essen |
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
 | Sat, 17 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 24 Oct 2026 | TBA - Secret Location | Bogot |
@@ -21,6 +20,7 @@ Phase Fatale is a techno and ebm artist based in United States of America, with 
 
 ## Recently played
 
+- Tresor.West, Dortmund-essen · Sat, 10 Oct 2026
 - La Belle Électrique, South-east · Sat, 3 Oct 2026
 - Laboral Ciudad de la Cultura, North · Fri, 25 Sept 2026
 - TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland · Fri, 18 Sept 2026
@@ -28,10 +28,9 @@ Phase Fatale is a techno and ebm artist based in United States of America, with 
 - Red Roof Church, Montreal · Fri, 21 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin · Fri, 14 Aug 2026
 - EXIL, Zurich · Sat, 8 Aug 2026
-- RADION, Amsterdam · Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Pablo Bozzi, Unhuman, Soft Crash
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phasefatale/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phasefatale/)*

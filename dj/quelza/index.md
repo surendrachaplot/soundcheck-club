@@ -1,14 +1,13 @@
 # Quelza
 
-Quelza is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Oma Doris, Dortmund-essen on Sat, 10 Oct 2026.
+Quelza is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Open Ground, Wuppertal on Sat, 17 Oct 2026.
 
-Quelza is a techno and house artist based in France, with 221 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 63 more. Often billed alongside BASHKKA, Freddy K and JakoJako. Next up: Oma Doris, Dortmund Essen on Sat 10 Oct.
+Quelza is a techno and house artist based in France, with 221 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 63 more. Often billed alongside BASHKKA, Freddy K and JakoJako. Next up: Open Ground, Wuppertal on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Oma Doris | Dortmund-essen |
 | Sat, 17 Oct 2026 | Open Ground | Wuppertal |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
@@ -23,6 +22,7 @@ Quelza is a techno and house artist based in France, with 221 gigs on soundcheck
 
 ## Recently played
 
+- Oma Doris, Dortmund-essen · Sat, 10 Oct 2026
 - C12, Brussels · Fri, 9 Oct 2026
 - Gotec, Karlsruhe · Sat, 3 Oct 2026
 - Herdade do Aguilhão, Lisbon · Fri, 2 Oct 2026
@@ -30,10 +30,9 @@ Quelza is a techno and house artist based in France, with 221 gigs on soundcheck
 - Gate Milano, Milan · Fri, 18 Sept 2026
 - Descent, Boston · Thu, 10 Sept 2026
 - BASEMENT, New York City · Fri, 4 Sept 2026
-- Substation, Seattle · Wed, 2 Sept 2026
 
 ## Shares bills with
 
 BASHKKA, Freddy K, JakoJako
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quelza/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quelza/)*

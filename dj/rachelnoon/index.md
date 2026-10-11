@@ -1,14 +1,13 @@
 # Rachel Noon
 
-Rachel Noon is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Rote Sonne, Munich on Sat, 10 Oct 2026.
+Rachel Noon is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at KALT, Strasbourg on Sat, 17 Oct 2026.
 
-Rachel Noon is a techno and house artist based in United States of America, with 140 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside BASHKKA, Rakans and Mohajer. Next up: Rote Sonne, Munich on Sat 10 Oct.
+Rachel Noon is a techno and house artist based in United States of America, with 140 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside BASHKKA, Rakans and Mohajer. Next up: KALT, Strasbourg on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Rote Sonne | Munich |
 | Sat, 17 Oct 2026 | KALT | Strasbourg |
 | Fri, 23 Oct 2026 | Unité.22 | Marseille |
 | Fri, 30 Oct 2026 | essaim | Paris |
@@ -16,6 +15,7 @@ Rachel Noon is a techno and house artist based in United States of America, with
 
 ## Recently played
 
+- Rote Sonne, Munich · Sat, 10 Oct 2026
 - Sonnenraum, Berlin · Sun, 4 Oct 2026
 - OXI, Berlin · Tue, 29 Sept 2026
 - H0L0, New York City · Sat, 26 Sept 2026
@@ -23,10 +23,9 @@ Rachel Noon is a techno and house artist based in United States of America, with
 - Holešovická Tržnice, Prague · Sat, 1 Aug 2026
 - BLITZ, Munich · Sat, 25 Jul 2026
 - La Station - Gare des Mines, Paris · Fri, 24 Jul 2026
-- RSO.BERLIN, Berlin · Fri, 24 Jul 2026
 
 ## Shares bills with
 
 BASHKKA, Rakans, Mohajer
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rachelnoon/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rachelnoon/)*

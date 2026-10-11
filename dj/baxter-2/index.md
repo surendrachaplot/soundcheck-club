@@ -1,6 +1,6 @@
 # Baxter (2)
 
-Baxter (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Sub Club Melbourne, Melbourne on Fri, 13 Nov 2026.
+Baxter (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Sub Club Melbourne, Melbourne on Fri, 13 Nov 2026.
 
 Baxter is a techno and house artist, with 9 gigs on soundcheck across Brisbane, Dublin, Hobart and Leeds and 2 more. Often billed alongside 666cmg, BLURR3D and Conducta. Next up: Sub Club Melbourne, Melbourne on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Baxter is a techno and house artist, with 9 gigs on soundcheck across Brisbane, 
 
 666cmg, BLURR3D, Conducta
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baxter-2/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baxter-2/)*

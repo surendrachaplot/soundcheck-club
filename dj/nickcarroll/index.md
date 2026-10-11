@@ -1,14 +1,15 @@
 # Nick Carroll
 
-Nick Carroll is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 16 Oct 2026.
+Nick Carroll is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 16 Oct 2026.
 
-Nick Carroll is a house and techno artist based in United States of America, with 27 gigs on soundcheck across Portland and Seattle. Often billed alongside DJ SH1-TR, KJ3 (US) and Lord Phatrick. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 16 Oct.
+Nick Carroll is a house and techno artist based in United States of America, with 28 gigs on soundcheck across Portland and Seattle. Often billed alongside DJ SH1-TR, KJ3 (US) and Lord Phatrick. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
+| Sat, 14 Nov 2026 | Process PDX | Portland |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Nick Carroll is a house and techno artist based in United States of America, wit
 
 DJ SH1-TR, KJ3 (US), Lord Phatrick
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcarroll/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcarroll/)*

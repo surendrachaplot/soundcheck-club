@@ -1,14 +1,13 @@
 # Ede
 
-Ede is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Izmir Marriott Pagos Rooftop, Izmir on Sat, 10 Oct 2026.
+Ede is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
 
-Ede is a techno and house artist based in Germany, with 96 gigs on soundcheck across Amsterdam, Athens, Austria and Barcelona and 25 more. Often billed alongside Skatman, julës jay and JAMIIE. Next up: TBA - Izmir Marriott Pagos Rooftop, Izmir on Sat 10 Oct.
+Ede is a techno and house artist based in Germany, with 96 gigs on soundcheck across Amsterdam, Athens, Austria and Barcelona and 25 more. Often billed alongside Skatman, julës jay and JAMIIE. Next up: Onder Hans, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | TBA - Izmir Marriott Pagos Rooftop | Izmir |
 | Thu, 22 Oct 2026 | Onder Hans | Amsterdam |
 | Thu, 22 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 | Fri, 30 Oct 2026 | Frankhan Selectist | Istanbul |
@@ -18,6 +17,7 @@ Ede is a techno and house artist based in Germany, with 96 gigs on soundcheck ac
 
 ## Recently played
 
+- TBA - Izmir Marriott Pagos Rooftop, Izmir · Sat, 10 Oct 2026
 - Volt Club Milano, Milan · Sat, 3 Oct 2026
 - TBA - Málaga Forum, Malaga · Sat, 26 Sept 2026
 - Botanico Tbilisi, Tbilisi · Sat, 19 Sept 2026
@@ -25,10 +25,9 @@ Ede is a techno and house artist based in Germany, with 96 gigs on soundcheck ac
 - Else, Berlin · Sat, 29 Aug 2026
 - SAGE, Berlin · Sat, 15 Aug 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza · Fri, 7 Aug 2026
-- Hive Club, Zurich · Thu, 6 Aug 2026
 
 ## Shares bills with
 
 Skatman, julës jay, JAMIIE
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ede/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ede/)*

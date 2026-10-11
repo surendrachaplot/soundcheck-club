@@ -1,14 +1,13 @@
 # Toï Toï, Le Zinc
 
-Toï Toï, Le Zinc is a music venue in Lyon with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Sazón con CoCo, La Sazón et Grupo Los CoCos live au Toïtoï" on Sat, 10 Oct 2026.
+Toï Toï, Le Zinc is a music venue in Lyon with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "VioleTT Pi + Kill Me Don't Panic + Second Major" on Thu, 15 Oct 2026.
 
-Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne.
+Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Sazón con CoCo, La Sazón et Grupo Los CoCos live au Toïtoï |  |
 | Thu, 15 Oct 2026 | VioleTT Pi + Kill Me Don't Panic + Second Major |  |
 | Fri, 16 Oct 2026 | CHICHARRON: Last Tony Montuno Show |  |
 | Sat, 17 Oct 2026 | La Nekyia invite Lanlaire et Sharfen |  |
@@ -19,4 +18,4 @@ Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 6 upcoming gig
 
 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne, Lyon
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/to-to-le-zinc/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/to-to-le-zinc/)*

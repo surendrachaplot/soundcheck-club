@@ -1,14 +1,13 @@
 # KIRSTY
 
-KIRSTY is a Techno and Hardcore artist with 13 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Purgatory, Sofia on Sat, 10 Oct 2026.
+KIRSTY is a Techno and Hardcore artist with 12 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
 
-KIRSTY is a techno and hardcore artist based in Ireland, with 75 gigs on soundcheck across Amsterdam, Auckland, Belfast and Belgrade and 24 more. Often billed alongside Lolalita, KimberlaID and Restricted. Next up: The Purgatory, Sofia on Sat 10 Oct.
+KIRSTY is a techno and hardcore artist based in Ireland, with 75 gigs on soundcheck across Amsterdam, Auckland, Belfast and Belgrade and 24 more. Often billed alongside Lolalita, KimberlaID and Restricted. Next up: Airport Würzburg, Nürnberg on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | The Purgatory | Sofia |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Wed, 21 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
@@ -20,9 +19,11 @@ KIRSTY is a techno and hardcore artist based in Ireland, with 75 gigs on soundch
 | Fri, 18 Dec 2026 | Poolen | Copenhagen |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
 | Sun, 27 Dec 2026 | Lokschuppen Berlin | Berlin |
+| Thu, 31 Dec 2026 | Afas Live | Amsterdam |
 
 ## Recently played
 
+- The Purgatory, Sofia · Sat, 10 Oct 2026
 - Film Studios, Gothenburg · Fri, 9 Oct 2026
 - The Club House at Gianpula Village, Malta · Sat, 3 Oct 2026
 - E1, London · Fri, 2 Oct 2026
@@ -30,10 +31,9 @@ KIRSTY is a techno and hardcore artist based in Ireland, with 75 gigs on soundch
 - Kilomètre25, Paris · Sat, 19 Sept 2026
 - Boucher Road Fields, Belfast · Sun, 30 Aug 2026
 - Wigwam, Dublin · Fri, 28 Aug 2026
-- MÄX, Zurich · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Lolalita, KimberlaID, Restricted
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*

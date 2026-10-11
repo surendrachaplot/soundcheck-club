@@ -1,14 +1,13 @@
 # Laure Croft
 
-Laure Croft is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Gap House, Berlin on Sat, 10 Oct 2026.
+Laure Croft is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Lutfi Kirdar Congress Center, Istanbul on Sat, 17 Oct 2026.
 
-Laure Croft is a techno and house artist based in Netherlands, with 194 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 50 more. Often billed alongside Lacchesi, Spikey Lee and Carmen Electro. Next up: Gap House, Berlin on Sat 10 Oct.
+Laure Croft is a techno and house artist based in Netherlands, with 194 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 50 more. Often billed alongside Lacchesi, Spikey Lee and Carmen Electro. Next up: Lutfi Kirdar Congress Center, Istanbul on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Gap House | Berlin |
 | Sat, 17 Oct 2026 | Lutfi Kirdar Congress Center | Istanbul |
 | Wed, 21 Oct 2026 | Lofi | Amsterdam |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
@@ -20,9 +19,11 @@ Laure Croft is a techno and house artist based in Netherlands, with 194 gigs on 
 | Sat, 28 Nov 2026 | Schrotty | Cologne |
 | Sat, 28 Nov 2026 | Thuishaven | Amsterdam |
 | Thu, 31 Dec 2026 | OST | Berlin |
+| Thu, 31 Dec 2026 | Distillery N17 | London |
 
 ## Recently played
 
+- Gap House, Berlin · Sat, 10 Oct 2026
 - Warehouse on Watts, Philadelphia · Sat, 3 Oct 2026
 - Stereo, Montreal · Fri, 2 Oct 2026
 - RADION, Amsterdam · Sat, 26 Sept 2026
@@ -30,10 +31,9 @@ Laure Croft is a techno and house artist based in Netherlands, with 194 gigs on 
 - Q Club, Milan · Fri, 25 Sept 2026
 - Else, Berlin · Fri, 18 Sept 2026
 - The Steel Yard, London · Sat, 5 Sept 2026
-- Kilomètre25, Paris · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Lacchesi, Spikey Lee, Carmen Electro
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurecroft/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurecroft/)*

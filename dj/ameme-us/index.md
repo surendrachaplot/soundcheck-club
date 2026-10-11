@@ -1,6 +1,6 @@
 # AMÉMÉ
 
-AMÉMÉ is a House and Afro House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Volt Club Milano, Milan on Fri, 16 Oct 2026.
+AMÉMÉ is a House and Afro House artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Volt Club Milano, Milan on Fri, 16 Oct 2026.
 
 AMÉMÉ is a house and afro house artist based in Benin, with 148 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Jamie Jones, Loco Dice and NenaHalena. Next up: Volt Club Milano, Milan on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ AMÉMÉ is a house and afro house artist based in Benin, with 148 gigs on soundc
 
 Jamie Jones, Loco Dice, NenaHalena
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ameme-us/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ameme-us/)*

@@ -1,6 +1,6 @@
 # Phleck
 
-Phleck is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Thu, 15 Oct 2026.
+Phleck is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Thu, 15 Oct 2026.
 
 Phleck is a house and disco artist, with 16 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Duserock, DJ Cira and DJ M3. Next up: F8 1192 Folsom, San Francisco/Oakland on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Phleck is a house and disco artist, with 16 gigs on soundcheck across San Franci
 
 Duserock, DJ Cira, DJ M3
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phleck/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phleck/)*

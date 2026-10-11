@@ -1,14 +1,13 @@
 # SILO
 
-SILO is a music venue in New York City with 36 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Ivy Lab: A Farewell Tour" on Sat, 10 Oct 2026.
+SILO is a music venue in New York City with 35 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Angie Ocampo / Maria Sifontes b2b Milo / VNUZ / Awa" on Sun, 11 Oct 2026.
 
-SILO is a music venue in New York City listed on soundcheck. 36 upcoming gigs, with line-ups including Amiti, Bag Raiders, Bella Hex and Ben Zo and 2 more. See dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
+SILO is a music venue in New York City listed on soundcheck. 35 upcoming gigs, with line-ups including Amiti, Bag Raiders, Bella Hex and Ben Zo and 2 more. See dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Ivy Lab: A Farewell Tour | Ivy Lab |
 | Sun, 11 Oct 2026 | Angie Ocampo / Maria Sifontes b2b Milo / VNUZ / Awa |  |
 | Tue, 13 Oct 2026 | Open Decks with STEEN & Clübsession | STEEN |
 | Wed, 14 Oct 2026 | Open Decks with STEEN and Monkey Wrench Techno | STEEN |
@@ -18,9 +17,10 @@ SILO is a music venue in New York City listed on soundcheck. 36 upcoming gigs, w
 | Sat, 17 Oct 2026 | Running Clouds presents: David Lindmer, Oscar L, EZE RAMIREZ, & Amiti | Amiti, David Lindmer, EZE RAMIREZ, Oscar L |
 | Tue, 20 Oct 2026 | Open Decks with STEEN & Crescent | STEEN |
 | Wed, 21 Oct 2026 | Open Decks with STEEN and MatchMyFreq Society | STEEN |
+| Thu, 22 Oct 2026 | BUSH DÜF (Full Venue Event, Free with RSVP) | Ben Zo, Dio Garcia, EMMALINE, STEEN, SUPER WAV |
 
 ## Address
 
 90 Scott Ave, East Williamsburg, Brooklyn, New York City
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*

@@ -1,14 +1,13 @@
 # Golden Gate
 
-Golden Gate is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Golden Times + Afterhour" on Fri, 9 Oct 2026.
+Golden Gate is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Respect The Craft" on Sat, 10 Oct 2026.
 
-Golden Gate is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Javier Anxiety, A.B.U., Adine Frost and Cesare vs Disorder and 2 more. See dates, start times and who's playing. Dircksenstrasse 78; Mitte; 10178 Berlin; Germany.
+Golden Gate is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Javier Anxiety, A.B.U., Cesare vs Disorder and Clovis and 2 more. See dates, start times and who's playing. Dircksenstrasse 78; Mitte; 10178 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Golden Times + Afterhour | Adine Frost, Fabian Drews, Harris, Hochholzner, Kataya, Midas 104, Secret Act, Stiefel One |
 | Sat, 10 Oct 2026 | Respect The Craft | Inga, Tripmastaz |
 | Thu, 15 Oct 2026 | Donnerdogge | A.B.U., Jakob Seidensticker, MELINA (3), Submod |
 | Fri, 16 Oct 2026 | Klubnacht + Afterhour | Clovis, Delavas, Edgar Peng, Gladis, MASA, RifRaf, Vanaenae, Vans Hellwirth |
@@ -18,9 +17,10 @@ Golden Gate is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, w
 | Sat, 24 Oct 2026 | Klubnacht | Rosa Kante, Sebastian Rebig, Turmspringer, Vitka |
 | Thu, 29 Oct 2026 | Anxiety Night | Javier Anxiety, Lolu Menayed, Luna City Express |
 | Fri, 30 Oct 2026 | Serialism + Afterhour | Cesare vs Disorder, Dana Ruh, Etiennette, Manuel de Lorenzi, Rhom Omit, Sublee, Weg (DE), Zlene |
+| Sat, 31 Oct 2026 | Highly Addictive | Foolik, Gunnar Stiller, Jama, Slurm McKenzie |
 
 ## Address
 
 Dircksenstrasse 78; Mitte; 10178 Berlin; Germany, Berlin
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*

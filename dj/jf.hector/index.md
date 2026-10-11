@@ -1,6 +1,6 @@
 # JF.HECTOR
 
-JF.HECTOR is a Club and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at BASIS, Utrecht on Sat, 7 Nov 2026.
+JF.HECTOR is a Club and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at BASIS, Utrecht on Sat, 7 Nov 2026.
 
 JF.HECTOR is a club and electronica artist based in Netherlands, with 3 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside Brick, GROVER and Kyoso. Next up: BASIS, Utrecht on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ JF.HECTOR is a club and electronica artist based in Netherlands, with 3 gigs on 
 
 Brick, GROVER, Kyoso
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jf.hector/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jf.hector/)*

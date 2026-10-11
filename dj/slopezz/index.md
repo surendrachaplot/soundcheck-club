@@ -1,6 +1,6 @@
 # SLOPEZZ
 
-SLOPEZZ is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Tanzhaus West, Frankfurt on Fri, 23 Oct 2026.
+SLOPEZZ is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Tanzhaus West, Frankfurt on Fri, 23 Oct 2026.
 
 SLOPEZZ is a techno and trance artist based in Germany, with 14 gigs on soundcheck across Frankfurt. Often billed alongside Orakel, Jozh and KRIS JAMES. Next up: Tanzhaus West, Frankfurt on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ SLOPEZZ is a techno and trance artist based in Germany, with 14 gigs on soundche
 
 Orakel, Jozh, KRIS JAMES
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slopezz/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slopezz/)*

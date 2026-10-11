@@ -1,8 +1,8 @@
 # Mr. Bobby
 
-Mr. Bobby is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Bourbon On Division, Chicago on Fri, 16 Oct 2026.
+Mr. Bobby is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Bourbon On Division, Chicago on Fri, 16 Oct 2026.
 
-Mr. Bobby is a tech house and house artist based in United States of America, with 83 gigs on soundcheck across Chicago. Often billed alongside Flores Negras, Jimmie Page and Blu9. Next up: Bourbon On Division, Chicago on Fri 16 Oct.
+Mr. Bobby is a tech house and house artist based in United States of America, with 83 gigs on soundcheck across Chicago. Often billed alongside Flores Negras, Jimmie Page and Amy Unland. Next up: Bourbon On Division, Chicago on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,7 +10,7 @@ Mr. Bobby is a tech house and house artist based in United States of America, wi
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Bourbon On Division | Chicago |
 | Sat, 17 Oct 2026 | Indigo Mrkto | Chicago |
-| Sat, 31 Oct 2026 | TBA - Logan Square Chicago | Chicago |
+| Sat, 31 Oct 2026 | TBA - Chicago - West Town | Chicago |
 
 ## Recently played
 
@@ -25,6 +25,6 @@ Mr. Bobby is a tech house and house artist based in United States of America, wi
 
 ## Shares bills with
 
-Flores Negras, Jimmie Page, Blu9
+Flores Negras, Jimmie Page, Amy Unland
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.bobby/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.bobby/)*

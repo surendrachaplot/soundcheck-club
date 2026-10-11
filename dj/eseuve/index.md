@@ -1,6 +1,6 @@
 # ESE UVE
 
-ESE UVE is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - El Jardín de las Artes, Zaragoza, North on Sun, 11 Oct 2026.
+ESE UVE is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - El Jardín de las Artes, Zaragoza, North on Sun, 11 Oct 2026.
 
 ESE UVE is a techno and trance artist based in Spain, with 4 gigs on soundcheck across Lisbon and North. Often billed alongside Dibison, Afem Syko and Alycia Bezgo. Next up: TBA - El Jardín de las Artes, Zaragoza, North on Sun 11 Oct.
 
@@ -20,4 +20,4 @@ ESE UVE is a techno and trance artist based in Spain, with 4 gigs on soundcheck 
 
 Dibison, Afem Syko, Alycia Bezgo
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eseuve/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eseuve/)*

@@ -1,6 +1,6 @@
 # Kunal Merchant
 
-Kunal Merchant is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Penthouse Dubai, Dubai on Sat, 17 Oct 2026.
+Kunal Merchant is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The Penthouse Dubai, Dubai on Sat, 17 Oct 2026.
 
 Kunal Merchant is a house and techno artist based in United States of America, with 46 gigs on soundcheck across Amsterdam, Austin, Birmingham and Boston and 16 more. Often billed alongside Kahani, Anvaya and Ethyr. Next up: The Penthouse Dubai, Dubai on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Kunal Merchant is a house and techno artist based in United States of America, w
 
 Kahani, Anvaya, Ethyr
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kunalmerchant/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kunalmerchant/)*

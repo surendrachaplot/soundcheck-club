@@ -1,6 +1,6 @@
 # Fizya
 
-Fizya is a Electronica and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Basic Club, Naples on Fri, 16 Oct 2026.
+Fizya is a Electronica and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Basic Club, Naples on Fri, 16 Oct 2026.
 
 Fizya is an electronica and trance artist based in Italy, with 10 gigs on soundcheck across Milan, Naples and Rome. Often billed alongside Rubina, Ivan Carbone and AIN'T GEORGE. Next up: Basic Club, Naples on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Fizya is an electronica and trance artist based in Italy, with 10 gigs on soundc
 
 Rubina, Ivan Carbone, AIN'T GEORGE
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fizya/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fizya/)*

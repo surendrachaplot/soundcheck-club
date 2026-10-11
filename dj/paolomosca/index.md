@@ -1,14 +1,13 @@
 # Paolo Mosca
 
-Paolo Mosca is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Paraiso Estereo, Miami on Sat, 10 Oct 2026.
+Paolo Mosca is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Iron Cow, Orlando on Sun, 11 Oct 2026.
 
-Paolo Mosca is a house and techno artist based in Italy, with 38 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Cecilio, Laurine and Jorge Escribano. Next up: Paraiso Estereo, Miami on Sat 10 Oct.
+Paolo Mosca is a house and techno artist based in Italy, with 38 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Cecilio, Laurine and Jorge Escribano. Next up: Iron Cow, Orlando on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Paraiso Estereo | Miami |
 | Sun, 11 Oct 2026 | Iron Cow | Orlando |
 | Sun, 18 Oct 2026 | feedbk | New York City |
 | Thu, 22 Oct 2026 | Signal | New York City |
@@ -16,6 +15,7 @@ Paolo Mosca is a house and techno artist based in Italy, with 38 gigs on soundch
 
 ## Recently played
 
+- Paraiso Estereo, Miami · Sat, 10 Oct 2026
 - Jonny Knüppel, Berlin · Sat, 29 Aug 2026
 - Sunseabar Beach Club, Barcelona · Thu, 27 Aug 2026
 - MS Club, Marseille · Fri, 17 Jul 2026
@@ -23,10 +23,9 @@ Paolo Mosca is a house and techno artist based in Italy, with 38 gigs on soundch
 - Bikini Club, Barcelona · Fri, 20 Mar 2026
 - Cadavra, Madrid · Fri, 30 Jan 2026
 - TBA - Secret Location - East of Rome, Rome · Thu, 25 Dec 2025
-- Hoppetosse, Berlin · Sat, 29 Nov 2025
 
 ## Shares bills with
 
 Cecilio, Laurine, Jorge Escribano
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paolomosca/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paolomosca/)*

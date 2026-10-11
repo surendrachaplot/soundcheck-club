@@ -1,6 +1,6 @@
 # Josh Baker
 
-Josh Baker is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
+Josh Baker is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
 
 Josh Baker is a house and tech house artist based in United Kingdom, with 234 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Bali and 55 more. Often billed alongside Max Dean, Prospa and Rossi. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
 
@@ -21,6 +21,7 @@ Josh Baker is a house and tech house artist based in United Kingdom, with 234 gi
 
 ## Recently played
 
+- Auditorio Málaga Cortijo de Torres, South · Sat, 10 Oct 2026
 - Depot Mayfield, Manchester · Sat, 3 Oct 2026
 - Amnesia Ibiza, Ibiza · Thu, 1 Oct 2026
 - Ex Base Nato, Naples · Sun, 27 Sept 2026
@@ -28,10 +29,9 @@ Josh Baker is a house and tech house artist based in United Kingdom, with 234 gi
 - Amnesia Ibiza, Ibiza · Sun, 20 Sept 2026
 - Riithalle, Zurich · Sat, 19 Sept 2026
 - TBA, Lisbon · Fri, 18 Sept 2026
-- Amnesia Ibiza, Ibiza · Thu, 17 Sept 2026
 
 ## Shares bills with
 
 Max Dean, Prospa, Rossi
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*

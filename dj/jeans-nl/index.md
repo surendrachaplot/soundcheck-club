@@ -1,14 +1,13 @@
 # Jeans (NL)
 
-Jeans (NL) is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at PIP Den Haag, The Hague on Sat, 10 Oct 2026.
+Jeans (NL) is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 23 Oct 2026.
 
-Jeans (NL) is a techno and trance artist based in Netherlands, with 103 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Geneva and 10 more. Often billed alongside Woody92, Jetti and DINA. Next up: PIP Den Haag, The Hague on Sat 10 Oct.
+Jeans (NL) is a techno and trance artist based in Netherlands, with 103 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Geneva and 10 more. Often billed alongside Woody92, Jetti and DINA. Next up: Skatecafe, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | PIP Den Haag | The Hague |
 | Fri, 23 Oct 2026 | Skatecafe | Amsterdam |
 | Fri, 23 Oct 2026 | De Fik Garden | Amsterdam |
 | Sat, 28 Nov 2026 | Pier 15, Breda | Netherlands |
@@ -16,6 +15,7 @@ Jeans (NL) is a techno and trance artist based in Netherlands, with 103 gigs on 
 
 ## Recently played
 
+- PIP Den Haag, The Hague · Sat, 10 Oct 2026
 - Acud Macht NEU, Berlin · Thu, 8 Oct 2026
 - Laak, The Hague · Fri, 18 Sept 2026
 - PIP Den Haag, The Hague · Sat, 25 Jul 2026
@@ -23,10 +23,9 @@ Jeans (NL) is a techno and trance artist based in Netherlands, with 103 gigs on 
 - Spaarnwoude (Deelplan Houtrak), Amsterdam · Sat, 16 May 2026
 - PIP Den Haag, The Hague · Sat, 9 May 2026
 - RSO.BERLIN, Berlin · Fri, 1 May 2026
-- TBA - East Williamsburg Warehouse, New York City · Sat, 25 Apr 2026
 
 ## Shares bills with
 
 Woody92, Jetti, DINA
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeans-nl/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeans-nl/)*

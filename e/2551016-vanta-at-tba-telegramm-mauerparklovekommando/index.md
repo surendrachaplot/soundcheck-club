@@ -16,7 +16,7 @@ VANTA at TBA - Telegramm: @MauerparkLoveKommando on Sat 17 Oct, Berlin. 9 artist
 - Gretchen B
 - Hendrik Nitsche
 - Jan Ritter
-- Julez (1)
+- Julez (live)
 - Kaltgepresst
 - TØMMSEN
 

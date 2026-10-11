@@ -1,18 +1,18 @@
 # Borbón
 
-Borbón is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Dead Letter No. 9, New York City on Sat, 10 Oct 2026.
+Borbón is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at MAD Radio NYC, New York City on Sun, 11 Oct 2026.
 
-Borbón is a house and disco artist based in United States of America, with 29 gigs on soundcheck across New York City. Often billed alongside Omer Mil, Miss Gypsy and Arianna Danae. Next up: Dead Letter No. 9, New York City on Sat 10 Oct.
+Borbón is a house and disco artist based in United States of America, with 29 gigs on soundcheck across New York City. Often billed alongside Omer Mil, Miss Gypsy and Arianna Danae. Next up: MAD Radio NYC, New York City on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Dead Letter No. 9 | New York City |
 | Sun, 11 Oct 2026 | MAD Radio NYC | New York City |
 
 ## Recently played
 
+- Dead Letter No. 9, New York City · Sat, 10 Oct 2026
 - Outer Heaven, New York City · Wed, 30 Sept 2026
 - MAD Radio NYC, New York City · Wed, 16 Sept 2026
 - Dead Letter No. 9, New York City · Sat, 12 Sept 2026
@@ -20,10 +20,9 @@ Borbón is a house and disco artist based in United States of America, with 29 g
 - MAD Radio NYC, New York City · Thu, 20 Aug 2026
 - Dead Letter No. 9, New York City · Sat, 8 Aug 2026
 - Xanadu, New York City · Sun, 12 Jul 2026
-- Dead Letter No. 9, New York City · Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Omer Mil, Miss Gypsy, Arianna Danae
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borbon/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borbon/)*

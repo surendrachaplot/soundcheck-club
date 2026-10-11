@@ -1,6 +1,6 @@
 # AfroKillerz
 
-AfroKillerz is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Supermarket, Zurich on Sat, 17 Oct 2026.
+AfroKillerz is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Supermarket, Zurich on Sat, 17 Oct 2026.
 
 AfroKillerz is an afro house and afro tech artist based in Portugal, with 25 gigs on soundcheck across Amsterdam, Basel, Lisbon and London and 3 more. Often billed alongside Mr Silk, Studio Bros and DJ Lilocox. Next up: Supermarket, Zurich on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ AfroKillerz is an afro house and afro tech artist based in Portugal, with 25 gig
 
 Mr Silk, Studio Bros, DJ Lilocox
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afrokillerz/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afrokillerz/)*

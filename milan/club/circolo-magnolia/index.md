@@ -1,6 +1,6 @@
 # Circolo Magnolia
 
-Circolo Magnolia is a music venue in Milan with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Magnolia Opening Party with Ninos Du Brasil + Tresca y Tigre + Guayaba" on Sat, 17 Oct 2026.
+Circolo Magnolia is a music venue in Milan with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Magnolia Opening Party with Ninos Du Brasil + Tresca y Tigre + Guayaba" on Sat, 17 Oct 2026.
 
 Circolo Magnolia is a music venue in Milan listed on soundcheck. 5 upcoming gigs, with line-ups including Blood of Aza, Cassius, Davide Dev and Eternal Love and 2 more. See dates, start times and who's playing. Via Circonvallazione Idroscalo, 20090 Segrate (MI), Italy.
 
@@ -18,4 +18,4 @@ Circolo Magnolia is a music venue in Milan listed on soundcheck. 5 upcoming gigs
 
 Via Circonvallazione Idroscalo, 20090 Segrate (MI), Italy, Milan
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-magnolia/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-magnolia/)*

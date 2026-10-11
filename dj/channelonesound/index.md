@@ -1,6 +1,6 @@
 # Channel One Sound
 
-Channel One Sound is a Dub and Bass artist with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - The Old Fire Station (Bournemouth), South-east on Thu, 15 Oct 2026.
+Channel One Sound is a Dub and Bass artist with 10 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - The Old Fire Station (Bournemouth), South-east on Thu, 15 Oct 2026.
 
 Channel One Sound is a dub and bass artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 18 more. Often billed alongside Kahn, Breakfake and Dubkasm. Next up: TBA - The Old Fire Station (Bournemouth), South East on Thu 15 Oct.
 
@@ -34,4 +34,4 @@ Channel One Sound is a dub and bass artist based in United Kingdom, with 67 gigs
 
 Kahn, Breakfake, Dubkasm
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/channelonesound/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/channelonesound/)*

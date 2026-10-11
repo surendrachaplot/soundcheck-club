@@ -1,6 +1,6 @@
 # C2C at Noon + Cafe
 
-C2C at Noon + Cafe on Fri 20 Nov, Osaka. House. See the line-up on soundcheck.
+C2C at Noon + Cafe on Fri 20 Nov, Osaka. House and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

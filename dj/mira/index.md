@@ -1,14 +1,13 @@
 # Mira
 
-Mira is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Life Park, Istanbul on Sat, 10 Oct 2026.
+Mira is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at La Terrrazza, Barcelona on Sun, 11 Oct 2026.
 
-Mira is a house and techno artist based in Germany, with 200 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 39 more. Often billed alongside Chris Schwarzwälder, Britta Arnold and Caleesi. Next up: Life Park, Istanbul on Sat 10 Oct.
+Mira is a house and techno artist based in Germany, with 200 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 39 more. Often billed alongside Chris Schwarzwälder, Britta Arnold and Caleesi. Next up: La Terrrazza, Barcelona on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Life Park | Istanbul |
 | Sun, 11 Oct 2026 | La Terrrazza | Barcelona |
 | Fri, 16 Oct 2026 | Renate | Berlin |
 | Sat, 17 Oct 2026 | La Nuit | Paris |
@@ -22,6 +21,7 @@ Mira is a house and techno artist based in Germany, with 200 gigs on soundcheck 
 
 ## Recently played
 
+- Life Park, Istanbul · Sat, 10 Oct 2026
 - Kater, Berlin · Sat, 26 Sept 2026
 - Hive Club, Zurich · Sat, 26 Sept 2026
 - Hangaren, Copenhagen · Fri, 25 Sept 2026
@@ -29,10 +29,9 @@ Mira is a house and techno artist based in Germany, with 200 gigs on soundcheck 
 - Northern Lights Lounge, Detroit · Sat, 12 Sept 2026
 - Airport Düsseldorf, Düsseldorf · Sat, 5 Sept 2026
 - Kater, Berlin · Fri, 21 Aug 2026
-- Piedicavallo, Turin · Fri, 21 Aug 2026
 
 ## Shares bills with
 
 Chris Schwarzwälder, Britta Arnold, Caleesi
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mira/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mira/)*

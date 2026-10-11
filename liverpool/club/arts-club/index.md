@@ -1,6 +1,6 @@
 # Arts Club
 
-Arts Club is a music venue in Liverpool with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Bass Face // DNB, 140, BASS, GRIME // 360° BOILER ROOM *VERY SPECIAL GUESTS*! LAST FREE TICKETS" on Fri, 16 Oct 2026.
+Arts Club is a music venue in Liverpool with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Bass Face // DNB, 140, BASS, GRIME // 360° BOILER ROOM *VERY SPECIAL GUESTS*! LAST FREE TICKETS" on Fri, 16 Oct 2026.
 
 Arts Club is a music venue in Liverpool listed on soundcheck. 6 upcoming gigs, with line-ups including Basswell, Beaux, Dom Townsend and Jade Edwards and 2 more. See dates, start times and who's playing. 90 Seel Street; Liverpool; L1 4BH; United Kingdom.
 
@@ -19,4 +19,4 @@ Arts Club is a music venue in Liverpool listed on soundcheck. 6 upcoming gigs, w
 
 90 Seel Street; Liverpool; L1 4BH; United Kingdom, Liverpool
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/arts-club/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/arts-club/)*

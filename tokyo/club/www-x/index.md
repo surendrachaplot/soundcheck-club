@@ -1,6 +1,6 @@
 # WWW X
 
-WWW X is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Melodies International JP Tour with Nariaki Obukuro supported by ndi" on Fri, 30 Oct 2026.
+WWW X is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Melodies International JP Tour with Nariaki Obukuro supported by ndi" on Fri, 30 Oct 2026.
 
 WWW X is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including Kikiorix, Seiji Ono and Theo Terev. See dates, start times and who's playing. 13-7 Udagawacho, Shibuya-ku, Tokyo, 150-0042.
 
@@ -15,4 +15,4 @@ WWW X is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line
 
 13-7 Udagawacho, Shibuya-ku, Tokyo, 150-0042, Tokyo
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/www-x/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/www-x/)*

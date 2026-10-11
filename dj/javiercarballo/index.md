@@ -1,14 +1,13 @@
 # Javier Carballo
 
-Javier Carballo is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Les Enfants Brillants, Barcelona on Sat, 10 Oct 2026.
+Javier Carballo is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Sigma, Ibiza on Thu, 15 Oct 2026.
 
-Javier Carballo is a house and electro artist based in Spain, with 96 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 12 more. Often billed alongside ildec, Hitch and Alex (ES). Next up: Les Enfants Brillants, Barcelona on Sat 10 Oct.
+Javier Carballo is a house and electro artist based in Spain, with 96 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 12 more. Often billed alongside ildec, Hitch and Alex (ES). Next up: Sigma, Ibiza on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Les Enfants Brillants | Barcelona |
 | Thu, 15 Oct 2026 | Sigma | Ibiza |
 | Fri, 16 Oct 2026 | Iter Tenerife | Canary-islands |
 | Fri, 6 Nov 2026 | Les Enfants Brillants | Barcelona |
@@ -16,6 +15,7 @@ Javier Carballo is a house and electro artist based in Spain, with 96 gigs on so
 
 ## Recently played
 
+- Les Enfants Brillants, Barcelona · Sat, 10 Oct 2026
 - Les Enfants Brillants, Barcelona · Sat, 12 Sept 2026
 - Freedonia, Barcelona · Fri, 28 Aug 2026
 - Sophie Festival, Malaga · Sat, 15 Aug 2026
@@ -23,10 +23,9 @@ Javier Carballo is a house and electro artist based in Spain, with 96 gigs on so
 - Les Enfants Brillants, Barcelona · Sat, 18 Jul 2026
 - Sunseabar Beach Club, Barcelona · Sat, 18 Jul 2026
 - Oven Club, Valencia · Sat, 27 Jun 2026
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Sun, 21 Jun 2026
 
 ## Shares bills with
 
 ildec, Hitch, Alex (ES)
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javiercarballo/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javiercarballo/)*

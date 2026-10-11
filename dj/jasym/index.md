@@ -1,6 +1,6 @@
 # Jasym
 
-Jasym is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Hookah Lounge, Mexico City on Wed, 7 Oct 2026.
+Jasym is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Hookah Lounge, Mexico City on Wed, 7 Oct 2026.
 
 Jasym is a progressive house and techno artist, with 14 gigs on soundcheck across Mexico City. Often billed alongside NAHAN, Teopass and Cabe. Next up: Hookah Lounge, Mexico City on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ Jasym is a progressive house and techno artist, with 14 gigs on soundcheck acros
 
 NAHAN, Teopass, Cabe
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasym/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasym/)*

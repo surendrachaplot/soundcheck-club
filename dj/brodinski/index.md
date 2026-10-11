@@ -1,6 +1,6 @@
 # Brodinski
 
-Brodinski is a Hip-Hop and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Grrrnd Zero, South-east on Thu, 22 Oct 2026.
+Brodinski is a Hip-Hop and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Grrrnd Zero, South-east on Thu, 22 Oct 2026.
 
 Brodinski is a hip-hop and techno artist based in France, with 62 gigs on soundcheck across Amsterdam, Bangkok, Belgrade and Berlin and 26 more. Often billed alongside Slikback, Polygonia and aya. Next up: Grrrnd Zero, South East on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Brodinski is a hip-hop and techno artist based in France, with 62 gigs on soundc
 
 Slikback, Polygonia, aya
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brodinski/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brodinski/)*

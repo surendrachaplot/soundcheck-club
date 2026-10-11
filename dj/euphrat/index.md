@@ -1,6 +1,6 @@
 # Euphrat
 
-Euphrat is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Printhouse, Munich on Sat, 17 Oct 2026.
+Euphrat is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Printhouse, Munich on Sat, 17 Oct 2026.
 
 Euphrat is a house and techno artist based in Germany, with 14 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Munich. Often billed alongside DJ Fucks Himself, DJ SPORTSCHUH and EUROBABES. Next up: Printhouse, Munich on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Euphrat is a house and techno artist based in Germany, with 14 gigs on soundchec
 
 DJ Fucks Himself, DJ SPORTSCHUH, EUROBABES
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/euphrat/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/euphrat/)*

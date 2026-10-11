@@ -1,14 +1,13 @@
 # re:ni
 
-re:ni is a Techno and Bass artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Palais Mascotte, Zurich on Sat, 10 Oct 2026.
+re:ni is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at OHM, Berlin on Thu, 15 Oct 2026.
 
-re:ni is a techno and bass artist based in United Kingdom, with 157 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 46 more. Often billed alongside Laksa, Zenker Brothers and Skee Mask. Next up: Palais Mascotte, Zurich on Sat 10 Oct.
+re:ni is a techno and bass artist based in United Kingdom, with 157 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 46 more. Often billed alongside Laksa, Zenker Brothers and Skee Mask. Next up: OHM, Berlin on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Palais Mascotte | Zurich |
 | Thu, 15 Oct 2026 | OHM | Berlin |
 | Fri, 23 Oct 2026 | Hidden | Manchester |
 | Sat, 24 Oct 2026 | Casa Capitão | Lisbon |
@@ -19,6 +18,7 @@ re:ni is a techno and bass artist based in United Kingdom, with 157 gigs on soun
 
 ## Recently played
 
+- Palais Mascotte, Zurich · Sat, 10 Oct 2026
 - Hotel Forum, Krakow · Fri, 9 Oct 2026
 - TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City · Sat, 3 Oct 2026
 - Various venues - Warsaw & Krakow, Poland · Fri, 2 Oct 2026
@@ -26,10 +26,9 @@ re:ni is a techno and bass artist based in United Kingdom, with 157 gigs on soun
 - Ormside Projects, London · Sat, 26 Sept 2026
 - Hexagon Brussels, Brussels · Fri, 25 Sept 2026
 - Badaboum, Paris · Sat, 19 Sept 2026
-- Badaboum, Paris · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Laksa, Zenker Brothers, Skee Mask
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reni/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reni/)*

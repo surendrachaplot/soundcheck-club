@@ -1,6 +1,6 @@
 # JAXX.
 
-JAXX. is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Rogers Park Chicago, Chicago on Sun, 11 Oct 2026.
+JAXX. is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Rogers Park Chicago, Chicago on Sun, 11 Oct 2026.
 
 JAXX. is a techno and club artist based in United States of America, with 28 gigs on soundcheck across Chicago, Houston and New York City. Often billed alongside Glamour Cadaver, Jon McCray and R°sha. Next up: TBA - Rogers Park Chicago, Chicago on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ JAXX. is a techno and club artist based in United States of America, with 28 gig
 
 Glamour Cadaver, Jon McCray, R°sha
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxx./)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxx./)*

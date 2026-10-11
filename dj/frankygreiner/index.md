@@ -1,6 +1,6 @@
 # Franky Greiner
 
-Franky Greiner is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Golden Gate, Berlin on Fri, 23 Oct 2026.
+Franky Greiner is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Golden Gate, Berlin on Fri, 23 Oct 2026.
 
 Franky Greiner is a techno and minimal artist, with 19 gigs on soundcheck across Berlin, Ibiza and Istanbul. Often billed alongside Cabanne, Hagel and Johnny D. Next up: Golden Gate, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Franky Greiner is a techno and minimal artist, with 19 gigs on soundcheck across
 
 Cabanne, Hagel, Johnny D
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankygreiner/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankygreiner/)*

@@ -1,14 +1,13 @@
 # Carousel Bar & Ballroom
 
-Carousel Bar & Ballroom is a music venue in Sydney with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "★ S.A.S.H Sydney x Conspiracy ★ Cosmjn ★ Saturday 10th October ★" on Sat, 10 Oct 2026.
+Carousel Bar & Ballroom is a music venue in Sydney with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "KiNK [Sydney]" on Fri, 16 Oct 2026.
 
-Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 9 upcoming gigs, with line-ups including KiNK, Laura King, Patrice Bäumel and Turno and 1 more. See dates, start times and who's playing. Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000.
+Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 8 upcoming gigs, with line-ups including KiNK, Laura King, Patrice Bäumel and Turno and 1 more. See dates, start times and who's playing. Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | ★ S.A.S.H Sydney x Conspiracy ★ Cosmjn ★ Saturday 10th October ★ |  |
 | Fri, 16 Oct 2026 | KiNK [Sydney] | KiNK |
 | Fri, 16 Oct 2026 | Carousel Fridays x Finely Tuned presents. KiNK (Live) | KiNK |
 | Sat, 17 Oct 2026 | ★ S.A.S.H Sydney ★ Voigtmann ★ Saturday 17th October ★ |  |
@@ -22,4 +21,4 @@ Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 9 upcom
 
 Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000, Sydney
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carousel-bar-ballroom/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carousel-bar-ballroom/)*

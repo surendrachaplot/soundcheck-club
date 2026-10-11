@@ -1,14 +1,13 @@
 # The Advent
 
-The Advent is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Motorista Studio, Toronto on Sat, 10 Oct 2026.
+The Advent is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Good Fortune St. Pete, Tampa-bay on Fri, 16 Oct 2026.
 
-The Advent is a techno and house artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 39 more. Often billed alongside Nastia, Philippa Pacho and STERAC. Next up: Motorista Studio, Toronto on Sat 10 Oct.
+The Advent is a techno and house artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 39 more. Often billed alongside Nastia, Philippa Pacho and STERAC. Next up: Good Fortune St. Pete, Tampa Bay on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Motorista Studio | Toronto |
 | Fri, 16 Oct 2026 | Good Fortune St. Pete | Tampa-bay |
 | Sat, 17 Oct 2026 | BASEMENT | New York City |
 | Fri, 23 Oct 2026 | Bassiani | Tbilisi |
@@ -17,6 +16,7 @@ The Advent is a techno and house artist based in United Kingdom, with 99 gigs on
 
 ## Recently played
 
+- Motorista Studio, Toronto · Sat, 10 Oct 2026
 - 618 DC, Washington DC · Fri, 9 Oct 2026
 - Tresor / Globus, Berlin · Sat, 3 Oct 2026
 - Laboral Ciudad de la Cultura, North · Fri, 25 Sept 2026
@@ -24,10 +24,9 @@ The Advent is a techno and house artist based in United Kingdom, with 99 gigs on
 - Spaarnwoude (Deelplan Houtrak), Amsterdam · Sat, 29 Aug 2026
 - BLITZ, Munich · Fri, 17 Jul 2026
 - Fabrik, Madrid · Sat, 11 Jul 2026
-- Tresor / Globus, Berlin · Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Nastia, Philippa Pacho, STERAC
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theadvent/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theadvent/)*

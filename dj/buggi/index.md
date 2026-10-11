@@ -1,6 +1,6 @@
 # Buggi
 
-Buggi is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at House of Yes, New York City on Sat, 17 Oct 2026.
+Buggi is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at House of Yes, New York City on Sat, 17 Oct 2026.
 
 Buggi is a deep house and house artist, with 12 gigs on soundcheck across Berlin and New York City. Often billed alongside Alchemist Spider, Enssembl and Lex Lueger. Next up: House of Yes, New York City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Buggi is a deep house and house artist, with 12 gigs on soundcheck across Berlin
 
 Alchemist Spider, Enssembl, Lex Lueger
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buggi/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buggi/)*

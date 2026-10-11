@@ -1,6 +1,6 @@
 # Joey Greiner
 
-Joey Greiner is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Under the K Bridge, New York City on Sun, 18 Oct 2026.
+Joey Greiner is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Under the K Bridge, New York City on Sun, 18 Oct 2026.
 
 Joey Greiner is a deep house and afro house artist, with 11 gigs on soundcheck across New York City. Often billed alongside Alchemy Vibrations, Desert Hearts and Gifted Fire. Next up: Under the K Bridge, New York City on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Joey Greiner is a deep house and afro house artist, with 11 gigs on soundcheck a
 
 Alchemy Vibrations, Desert Hearts, Gifted Fire
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeygreiner/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeygreiner/)*

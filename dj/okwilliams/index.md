@@ -1,6 +1,6 @@
 # OK Williams
 
-OK Williams is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at FOLD, London on Sat, 10 Oct 2026.
+OK Williams is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at FOLD, London on Sat, 10 Oct 2026.
 
 OK Williams is a techno and house artist based in United Kingdom, with 181 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 44 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and ISAbella. Next up: FOLD, London on Sat 10 Oct.
 
@@ -17,6 +17,7 @@ OK Williams is a techno and house artist based in United Kingdom, with 181 gigs 
 
 ## Recently played
 
+- FOLD, London · Sat, 10 Oct 2026
 - Nowadays, New York City · Sat, 26 Sept 2026
 - The Cause, London · Sat, 12 Sept 2026
 - The Carpet Shop, London · Thu, 10 Sept 2026
@@ -24,10 +25,9 @@ OK Williams is a techno and house artist based in United Kingdom, with 181 gigs 
 - Circle Park, Brussels · Sat, 29 Aug 2026
 - The Cause, London · Sat, 15 Aug 2026
 - Backsteinboot, Berlin · Sat, 15 Aug 2026
-- Fort Vechten, Utrecht · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 BASHKKA, Gabrielle Kwarteng, ISAbella
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okwilliams/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okwilliams/)*

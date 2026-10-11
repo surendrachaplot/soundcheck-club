@@ -1,6 +1,6 @@
 # Breakbot
 
-Breakbot is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Sunday Sunday, Mexico City on Sun, 11 Oct 2026.
+Breakbot is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Sunday Sunday, Mexico City on Sun, 11 Oct 2026.
 
 Breakbot is a house and disco artist based in France, with 76 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 26 more. Often billed alongside Irfane, Busy P and Myd. Next up: Sunday Sunday, Mexico City on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Breakbot is a house and disco artist based in France, with 76 gigs on soundcheck
 
 Irfane, Busy P, Myd
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/breakbot/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/breakbot/)*

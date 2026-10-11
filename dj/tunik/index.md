@@ -1,6 +1,6 @@
 # Tunik
 
-Tunik is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Les Enfants Brillants, Barcelona on Fri, 13 Nov 2026.
+Tunik is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Les Enfants Brillants, Barcelona on Fri, 13 Nov 2026.
 
 Tunik is an electro and techno artist based in Argentina, with 70 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 21 more. Often billed alongside tINI, Hitch and Oriana. Next up: Les Enfants Brillants, Barcelona on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Tunik is an electro and techno artist based in Argentina, with 70 gigs on soundc
 
 tINI, Hitch, Oriana
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tunik/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tunik/)*

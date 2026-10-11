@@ -1,14 +1,13 @@
 # KUKO
 
-KUKO is a Techno and Trance artist with 22 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Hans Bunte Areal, Freiburg on Sat, 10 Oct 2026.
+KUKO is a Techno and Trance artist with 21 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Fabrik, Madrid on Sun, 11 Oct 2026.
 
-KUKO is a techno and trance artist based in Germany, with 226 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 57 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Hans Bunte Areal, Freiburg on Sat 10 Oct.
+KUKO is a techno and trance artist based in Germany, with 226 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 57 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Fabrik, Madrid on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Hans Bunte Areal | Freiburg |
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
 | Fri, 16 Oct 2026 | Sonora Bordeaux | Bordeaux |
@@ -20,9 +19,11 @@ KUKO is a techno and trance artist based in Germany, with 226 gigs on soundcheck
 | Sat, 7 Nov 2026 | TBA - MATREZ, Žorža Klemansoa 37, 11000 | Belgrade |
 | Fri, 13 Nov 2026 | Melbourne Pavilion | Melbourne |
 | Sat, 14 Nov 2026 | The Ivy | Sydney |
+| Fri, 20 Nov 2026 | Native Beach Club | Buenos Aires |
 
 ## Recently played
 
+- Hans Bunte Areal, Freiburg · Sat, 10 Oct 2026
 - Schrotty, Cologne · Fri, 2 Oct 2026
 - Bootshaus, Cologne · Sat, 26 Sept 2026
 - Bootshaus, Cologne · Sat, 26 Sept 2026
@@ -30,10 +31,9 @@ KUKO is a techno and trance artist based in Germany, with 226 gigs on soundcheck
 - TBA - Pabellón Oeste del Palacio de los Deportes, Mexico City · Sat, 19 Sept 2026
 - Radius, Chicago · Fri, 18 Sept 2026
 - Radius, Chicago · Fri, 18 Sept 2026
-- Knockdown Center, New York City · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Cloudy, Adrian Mills, Johannes Schuster
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*

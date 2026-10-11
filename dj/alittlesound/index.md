@@ -1,6 +1,6 @@
 # A Little Sound
 
-A Little Sound is a Drum & Bass and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Depot, Cardiff on Fri, 16 Oct 2026.
+A Little Sound is a Drum & Bass and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Depot, Cardiff on Fri, 16 Oct 2026.
 
 A Little Sound is a drum & bass and house artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Bremen and 26 more. Often billed alongside Wilkinson, Bou (UK) and Hybrid Minds. Next up: Depot, Cardiff on Fri 16 Oct.
 
@@ -31,4 +31,4 @@ A Little Sound is a drum & bass and house artist based in United Kingdom, with 5
 
 Wilkinson, Bou (UK), Hybrid Minds
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alittlesound/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alittlesound/)*

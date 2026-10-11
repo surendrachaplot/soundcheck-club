@@ -1,6 +1,6 @@
 # Makaya McCraven
 
-Makaya McCraven is a Jazz and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Public Works Gallery, Chicago on Fri, 16 Oct 2026.
+Makaya McCraven is a Jazz and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Public Works Gallery, Chicago on Fri, 16 Oct 2026.
 
 Makaya McCraven is a jazz and hip-hop artist, with 7 gigs on soundcheck across Athens, Chicago, Miami and Milan and 2 more. Often billed alongside Emma-Jean Thackray, Gilles Peterson and Laraaji. Next up: Public Works Gallery, Chicago on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Makaya McCraven is a jazz and hip-hop artist, with 7 gigs on soundcheck across A
 
 Emma-Jean Thackray, Gilles Peterson, Laraaji
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makayamccraven/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makayamccraven/)*

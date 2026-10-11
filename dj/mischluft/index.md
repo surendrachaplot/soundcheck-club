@@ -1,14 +1,13 @@
 # Mischluft
 
-Mischluft is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Mischluft is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Lofi, Amsterdam on Thu, 22 Oct 2026.
 
-Mischluft is a techno and trance artist based in Germany, with 193 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Bad Boombox, Janis Zielinski and Ollie Lishman. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
+Mischluft is a techno and trance artist based in Germany, with 193 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Bad Boombox, Janis Zielinski and Ollie Lishman. Next up: Lofi, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Thu, 22 Oct 2026 | Lofi | Amsterdam |
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
 | Fri, 23 Oct 2026 | Carlswerk Victoria | Cologne |
@@ -19,6 +18,7 @@ Mischluft is a techno and trance artist based in Germany, with 193 gigs on sound
 
 ## Recently played
 
+- Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
 - Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
 - Avalon Hollywood, Los Angeles · Sat, 12 Sept 2026
 - Echostage, Washington DC · Fri, 11 Sept 2026
@@ -26,10 +26,9 @@ Mischluft is a techno and trance artist based in Germany, with 193 gigs on sound
 - Industry City, New York City · Sat, 5 Sept 2026
 - Union Park, Chicago · Fri, 4 Sept 2026
 - Else, Berlin · Sun, 30 Aug 2026
-- Ahoy Rotterdam, Rotterdam · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Bad Boombox, Janis Zielinski, Ollie Lishman
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mischluft/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mischluft/)*

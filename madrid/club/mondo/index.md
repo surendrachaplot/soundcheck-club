@@ -1,14 +1,13 @@
 # Mondo
 
-Mondo is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Diffrent / Gerardo Niva / DJ SWISHERMAN B2B Emi Koto" on Sat, 10 Oct 2026.
+Mondo is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "EXTENDED: Bad Boombox / salute / Gerardo Niva / Maruwa " on Sun, 11 Oct 2026.
 
-Mondo is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including Bad Boombox, Benwal, Diffrent and DJ SWISHERMAN and 2 more. See dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
+Mondo is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including Bad Boombox, Benwal, DJ SWISHERMAN and doccudder and 2 more. See dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Diffrent / Gerardo Niva / DJ SWISHERMAN B2B Emi Koto | DJ SWISHERMAN, Diffrent, Emi Koto, Gerardo Niva |
 | Sun, 11 Oct 2026 | EXTENDED: Bad Boombox / salute / Gerardo Niva / Maruwa  | Bad Boombox, Gerardo Niva, Maruwa, salute |
 | Thu, 15 Oct 2026 | Silva Bumpa / Gerardo Niva / Emi Koto | Emi Koto, Gerardo Niva, Silva Bumpa |
 | Sat, 17 Oct 2026 | TWOFACED / Gerardo Niva B2B JÄMO / doccudder | Gerardo Niva, JÄMO, doccudder |
@@ -23,4 +22,4 @@ Mondo is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with li
 
 Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid, Madrid
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*

@@ -1,6 +1,6 @@
 # MARIHO
 
-MARIHO is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Triangle, Osaka on Sun, 18 Oct 2026.
+MARIHO is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Triangle, Osaka on Sun, 18 Oct 2026.
 
 MARIHO is a psytrance and techno artist based in Japan, with 50 gigs on soundcheck across Osaka and Tokyo. Often billed alongside C!AO, Tom Monkey and MASOI. Next up: Triangle, Osaka on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ MARIHO is a psytrance and techno artist based in Japan, with 50 gigs on soundche
 
 C!AO, Tom Monkey, MASOI
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariho/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariho/)*

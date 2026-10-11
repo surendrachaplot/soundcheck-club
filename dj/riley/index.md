@@ -1,6 +1,6 @@
 # Riley
 
-Riley is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Westerkerk, Amsterdam on Sat, 24 Oct 2026.
+Riley is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Westerkerk, Amsterdam on Sat, 24 Oct 2026.
 
 Riley is a tech house and house artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Bristol, Cardiff and Dublin and 10 more. Often billed alongside Max Dean, ALISHA and East End Dubs. Next up: Westerkerk, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Riley is a tech house and house artist based in United Kingdom, with 42 gigs on 
 
 Max Dean, ALISHA, East End Dubs
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riley/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riley/)*

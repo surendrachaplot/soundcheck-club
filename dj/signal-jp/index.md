@@ -1,6 +1,6 @@
 # SIGNAL (JP)
 
-SIGNAL (JP) is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Débris, Tokyo on Sat, 17 Oct 2026.
+SIGNAL (JP) is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Débris, Tokyo on Sat, 17 Oct 2026.
 
 SIGNAL (JP) is a techno and house artist based in Japan, with 271 gigs on soundcheck across Osaka and Tokyo. Often billed alongside MOTOKA, SINZIN and cosmolady. Next up: Débris, Tokyo on Sat 17 Oct.
 
@@ -33,4 +33,4 @@ SIGNAL (JP) is a techno and house artist based in Japan, with 271 gigs on soundc
 
 MOTOKA, SINZIN, cosmolady
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/signal-jp/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/signal-jp/)*

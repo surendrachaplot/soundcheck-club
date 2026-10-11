@@ -1,14 +1,13 @@
 # Klein Phönix
 
-Klein Phönix is a music venue in Istanbul with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Lehar b2b Musumeci + BUSSI + Marwik" on Sat, 10 Oct 2026.
+Klein Phönix is a music venue in Istanbul with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Gioli & Assia + Bittermind + Fratello" on Fri, 16 Oct 2026.
 
-Klein Phönix is a music venue in Istanbul listed on soundcheck. 7 upcoming gigs, with line-ups including Avangart Tabldot, Black Batu, BUSSI and Fratello and 2 more. See dates, start times and who's playing. Atatürk Oto Sanayi Sitesi 52 Sokak No: 12/1, Maslak, Istanbul, Turkey.
+Klein Phönix is a music venue in Istanbul listed on soundcheck. 6 upcoming gigs, with line-ups including Avangart Tabldot, Black Batu, Fratello and Giolì & Assia and 2 more. See dates, start times and who's playing. Atatürk Oto Sanayi Sitesi 52 Sokak No: 12/1, Maslak, Istanbul, Turkey.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Lehar b2b Musumeci + BUSSI + Marwik | BUSSI, Lehar, Musumeci |
 | Fri, 16 Oct 2026 | Gioli & Assia + Bittermind + Fratello | Fratello, Giolì & Assia |
 | Sat, 17 Oct 2026 | Son of Son // Alive presents | Black Batu, Son of Son |
 | Wed, 28 Oct 2026 | Mahmut Orhan | Mahmut Orhan |
@@ -20,4 +19,4 @@ Klein Phönix is a music venue in Istanbul listed on soundcheck. 7 upcoming gigs
 
 Atatürk Oto Sanayi Sitesi 52 Sokak No: 12/1, Maslak, Istanbul, Turkey, Istanbul
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/klein-ph-nix/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/klein-ph-nix/)*

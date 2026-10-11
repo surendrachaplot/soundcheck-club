@@ -1,6 +1,6 @@
 # In Furcht
 
-In Furcht is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Ampere Düsseldorf, Düsseldorf on Sat, 17 Oct 2026.
+In Furcht is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Ampere Düsseldorf, Düsseldorf on Sat, 17 Oct 2026.
 
 In Furcht is a techno and trance artist based in Germany, with 49 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 14 more. Often billed alongside Neon Graveyard, Kander and Noise Not War. Next up: Ampere Düsseldorf, Düsseldorf on Sat 17 Oct.
 
@@ -31,4 +31,4 @@ In Furcht is a techno and trance artist based in Germany, with 49 gigs on soundc
 
 Neon Graveyard, Kander, Noise Not War
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/infurcht/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/infurcht/)*

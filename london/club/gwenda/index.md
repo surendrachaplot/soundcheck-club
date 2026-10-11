@@ -1,14 +1,13 @@
 # Gwenda
 
-Gwenda is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "VBRAVE & Friends: All Vinyl, All Night" on Sat, 10 Oct 2026.
+Gwenda is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "AMO MÁS Love More. Dance Longer" on Sun, 18 Oct 2026.
 
-Gwenda is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Aur0m, Benebe, Johnny Fiore and MAÏS. See dates, start times and who's playing.
+Gwenda is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Johnny Fiore. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | VBRAVE & Friends: All Vinyl, All Night | Aur0m, Benebe, MAÏS |
 | Sun, 18 Oct 2026 | AMO MÁS Love More. Dance Longer | Johnny Fiore |
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/gwenda/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/gwenda/)*

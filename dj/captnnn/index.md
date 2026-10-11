@@ -1,6 +1,6 @@
 # CAPTNNN'
 
-CAPTNNN' is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Button Factory, Dublin on Fri, 16 Oct 2026.
+CAPTNNN' is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Button Factory, Dublin on Fri, 16 Oct 2026.
 
 CAPTNNN' is a house and electro artist based in Switzerland, with 34 gigs on soundcheck across Amsterdam, Berlin, Dublin and Geneva and 3 more. Often billed alongside Florian Picasso, Miura and Sam Karam. Next up: Button Factory, Dublin on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ CAPTNNN' is a house and electro artist based in Switzerland, with 34 gigs on sou
 
 Florian Picasso, Miura, Sam Karam
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/captnnn/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/captnnn/)*

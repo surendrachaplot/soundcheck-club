@@ -1,6 +1,6 @@
 # Schott
 
-Schott is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Rote Sonne, Munich on Fri, 16 Oct 2026.
+Schott is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Rote Sonne, Munich on Fri, 16 Oct 2026.
 
 Schott is a techno and house artist based in Germany, with 12 gigs on soundcheck across Hamburg, Leipzig and Munich. Often billed alongside Alicea, DJ Yugo and ENERGY TAPE. Next up: Rote Sonne, Munich on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Schott is a techno and house artist based in Germany, with 12 gigs on soundcheck
 
 Alicea, DJ Yugo, ENERGY TAPE
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schott/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schott/)*

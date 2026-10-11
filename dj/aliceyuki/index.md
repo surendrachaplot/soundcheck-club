@@ -1,6 +1,6 @@
 # Aliceyuki
 
-Aliceyuki is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Circus Osaka, Osaka on Sun, 11 Oct 2026.
+Aliceyuki is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Circus Osaka, Osaka on Sun, 11 Oct 2026.
 
 Aliceyuki is a techno and bass artist based in Japan, with 56 gigs on soundcheck across Barcelona, Chubu, Osaka and Paris and 2 more. Often billed alongside M.I.O, cera and akii. Next up: Circus Osaka, Osaka on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Aliceyuki is a techno and bass artist based in Japan, with 56 gigs on soundcheck
 
 M.I.O, cera, akii
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliceyuki/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliceyuki/)*

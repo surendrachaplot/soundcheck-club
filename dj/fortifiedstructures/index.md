@@ -1,18 +1,18 @@
 # FortifiedStructures
 
-FortifiedStructures is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at XTC Bushwick, New York City on Sat, 10 Oct 2026.
+FortifiedStructures is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Paragon, New York City on Fri, 16 Oct 2026.
 
-FortifiedStructures is a techno and hardcore artist based in Canada, with 16 gigs on soundcheck across Boston, Los Angeles, Montreal and New York City and 2 more. Often billed alongside Dasychira, Dazegxd and Dev/Null. Next up: XTC Bushwick, New York City on Sat 10 Oct.
+FortifiedStructures is a techno and hardcore artist based in Canada, with 16 gigs on soundcheck across Boston, Los Angeles, Montreal and New York City and 2 more. Often billed alongside Dasychira, Dazegxd and Dev/Null. Next up: Paragon, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | XTC Bushwick | New York City |
 | Fri, 16 Oct 2026 | Paragon | New York City |
 
 ## Recently played
 
+- XTC Bushwick, New York City · Sat, 10 Oct 2026
 - XTC Bushwick, New York City · Sat, 26 Sept 2026
 - F8 1192 Folsom, San Francisco/Oakland · Sat, 19 Sept 2026
 - TBA - Unannounced, Boston · Sat, 12 Sept 2026
@@ -20,10 +20,9 @@ FortifiedStructures is a techno and hardcore artist based in Canada, with 16 gig
 - ErF Studios, New York City · Fri, 28 Aug 2026
 - TRANSMISSION DC, Washington DC · Fri, 17 Jul 2026
 - H0L0, New York City · Thu, 12 Mar 2026
-- SISTEM, New York City · Fri, 6 Mar 2026
 
 ## Shares bills with
 
 Dasychira, Dazegxd, Dev/Null
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fortifiedstructures/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fortifiedstructures/)*

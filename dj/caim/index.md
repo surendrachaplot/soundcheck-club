@@ -1,14 +1,13 @@
 # Caim
 
-Caim is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at BRET, Amsterdam on Sat, 10 Oct 2026.
+Caim is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at DURO, Milan on Sat, 17 Oct 2026.
 
-Caim is a techno and house artist based in Netherlands, with 83 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 24 more. Often billed alongside Marie K, Eversines and Pieter Jansen. Next up: BRET, Amsterdam on Sat 10 Oct.
+Caim is a techno and house artist based in Netherlands, with 83 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 24 more. Often billed alongside Marie K, Eversines and Pieter Jansen. Next up: DURO, Milan on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | BRET | Amsterdam |
 | Sat, 17 Oct 2026 | DURO | Milan |
 | Sat, 17 Oct 2026 | DURO | Milan |
 | Fri, 23 Oct 2026 | Lux Fragil | Lisbon |
@@ -17,6 +16,7 @@ Caim is a techno and house artist based in Netherlands, with 83 gigs on soundche
 
 ## Recently played
 
+- BRET, Amsterdam · Sat, 10 Oct 2026
 - Gehør, Oslo · Fri, 25 Sept 2026
 - Gehør, Oslo · Fri, 25 Sept 2026
 - Benelux BAR, Amsterdam · Sat, 19 Sept 2026
@@ -24,10 +24,9 @@ Caim is a techno and house artist based in Netherlands, with 83 gigs on soundche
 - Macadam, Nantes · Sun, 26 Jul 2026
 - Bassiani, Tbilisi · Fri, 10 Jul 2026
 - Ormside Projects, London · Fri, 5 Jun 2026
-- Nido Marseille, Marseille · Sat, 30 May 2026
 
 ## Shares bills with
 
 Marie K (1), Eversines, Pieter Jansen
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caim/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caim/)*

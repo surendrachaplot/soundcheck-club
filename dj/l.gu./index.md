@@ -1,19 +1,19 @@
 # L.GU.
 
-L.GU. is a Deep House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at E1, London on Sat, 10 Oct 2026.
+L.GU. is a Deep House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Toekomstmuziek, Amsterdam on Thu, 22 Oct 2026.
 
-L.GU. is a deep house and progressive house artist based in Italy, with 8 gigs on soundcheck across Amsterdam, London and Malta. Often billed alongside Estiva, MXV (UK) and Datskie. Next up: E1, London on Sat 10 Oct.
+L.GU. is a deep house and progressive house artist based in Italy, with 8 gigs on soundcheck across Amsterdam, London and Malta. Often billed alongside Estiva, MXV (UK) and Datskie. Next up: Toekomstmuziek, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | E1 | London |
 | Thu, 22 Oct 2026 | Toekomstmuziek | Amsterdam |
 | Sat, 21 Nov 2026 | XOYO | London |
 
 ## Recently played
 
+- E1, London · Sat, 10 Oct 2026
 - Toekomstmuziek, Amsterdam · Thu, 23 Oct 2025
 - Bricks, London · Sat, 9 Aug 2025
 - Colour Factory, London · Sat, 17 May 2025
@@ -24,4 +24,4 @@ L.GU. is a deep house and progressive house artist based in Italy, with 8 gigs o
 
 Estiva, MXV (UK), Datskie
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l.gu./)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l.gu./)*

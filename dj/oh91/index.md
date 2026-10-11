@@ -1,18 +1,18 @@
 # OH91
 
-OH91 is a Dubstep and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
+OH91 is a Dubstep and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Sawmills, Bristol on Sat, 28 Nov 2026.
 
-OH91 is a dubstep and drum & bass artist based in United Kingdom, with 11 gigs on soundcheck across Bristol. Often billed alongside IZZIT, Jakes and AÆE. Next up: The Prospect Building, Bristol on Sat 10 Oct.
+OH91 is a dubstep and drum & bass artist based in United Kingdom, with 11 gigs on soundcheck across Bristol. Often billed alongside IZZIT, Jakes and AÆE. Next up: Sawmills, Bristol on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | The Prospect Building | Bristol |
 | Sat, 28 Nov 2026 | Sawmills | Bristol |
 
 ## Recently played
 
+- The Prospect Building, Bristol · Sat, 10 Oct 2026
 - The Full Moon Pub & Attic Bar, Bristol · Fri, 12 Jun 2026
 - Lakota, Bristol · Sat, 9 May 2026
 - The Island, Bristol · Fri, 19 Dec 2025
@@ -20,10 +20,9 @@ OH91 is a dubstep and drum & bass artist based in United Kingdom, with 11 gigs o
 - No. 51, Bristol · Sat, 28 Jun 2025
 - Lakota, Bristol · Fri, 11 Apr 2025
 - The Love Inn, Bristol · Sat, 8 Feb 2025
-- Cosies, Bristol · Wed, 5 Jun 2024
 
 ## Shares bills with
 
 IZZIT, Jakes, AÆE
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oh91/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oh91/)*

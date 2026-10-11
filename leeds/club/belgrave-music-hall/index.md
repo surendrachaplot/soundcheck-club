@@ -1,15 +1,13 @@
 # Belgrave Music Hall
 
-Belgrave Music Hall is a music venue in Leeds with 15 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "New North Indie: One-Dayer" on Sat, 10 Oct 2026.
+Belgrave Music Hall is a music venue in Leeds with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Takuya Nakamura [Live] - In The Round" on Mon, 12 Oct 2026.
 
-Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 15 upcoming gigs, with line-ups including Bel Cobain, Elder Island, O'Flynn and Romare and 2 more. See dates, start times and who's playing. 1-1A Cross Belgrave Street, LS2 8JP Leeds.
+Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 13 upcoming gigs, with line-ups including Bel Cobain, Elder Island, O'Flynn and Romare and 2 more. See dates, start times and who's playing. 1-1A Cross Belgrave Street, LS2 8JP Leeds.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | New North Indie: One-Dayer |  |
-| Sat, 10 Oct 2026 | Jembaa Groove |  |
 | Mon, 12 Oct 2026 | Takuya Nakamura [Live] - In The Round | Takuya Nakamura |
 | Wed, 14 Oct 2026 | Bel Cobain | Bel Cobain |
 | Sat, 24 Oct 2026 | Please Don't Me Go Home |  |
@@ -18,9 +16,11 @@ Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 15 upcoming 
 | Fri, 30 Oct 2026 | Elder Island | Elder Island |
 | Sat, 31 Oct 2026 | Dark Arts: Heartworms, Walt Disco, and More |  |
 | Sun, 8 Nov 2026 | Joy Guidry |  |
+| Thu, 12 Nov 2026 | Children of Zeus |  |
+| Fri, 13 Nov 2026 | Two Shell | Two Shell |
 
 ## Address
 
 1-1A Cross Belgrave Street, LS2 8JP Leeds, Leeds
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/belgrave-music-hall/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/belgrave-music-hall/)*

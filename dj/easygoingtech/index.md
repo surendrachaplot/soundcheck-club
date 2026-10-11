@@ -1,6 +1,6 @@
 # easygoingtech
 
-easygoingtech is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Digital Arts Demo Space, Chicago on Thu, 5 Nov 2026.
+easygoingtech is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Digital Arts Demo Space, Chicago on Thu, 5 Nov 2026.
 
 easygoingtech is a techno and experimental artist based in United States of America, with 51 gigs on soundcheck across Chicago, Detroit, Nashville and Philadelphia and 1 more. Often billed alongside Mina Mills, Seanni B and Ariel Zetina. Next up: Digital Arts Demo Space, Chicago on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ easygoingtech is a techno and experimental artist based in United States of Amer
 
 Mina Mills, Seanni B, Ariel Zetina
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/easygoingtech/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/easygoingtech/)*

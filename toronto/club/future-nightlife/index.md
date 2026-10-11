@@ -1,6 +1,6 @@
 # Future Nightlife
 
-Future Nightlife is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Dillon Francis" on Fri, 16 Oct 2026.
+Future Nightlife is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Dillon Francis" on Fri, 16 Oct 2026.
 
 Future Nightlife is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including Alex Wann, Damian Lazarus, Dillon Francis and Quintino and 2 more. See dates, start times and who's playing. 570 Queen Street West.
 
@@ -21,4 +21,4 @@ Future Nightlife is a music venue in Toronto listed on soundcheck. 8 upcoming gi
 
 570 Queen Street West, Toronto
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/future-nightlife/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/future-nightlife/)*

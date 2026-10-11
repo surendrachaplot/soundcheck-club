@@ -1,6 +1,6 @@
 # RL Grime
 
-RL Grime is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Snapdragon Stadium, Los Angeles on Sun, 11 Oct 2026.
+RL Grime is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Snapdragon Stadium, Los Angeles on Sun, 11 Oct 2026.
 
 RL Grime is a bass and dubstep artist based in United States of America, with 15 gigs on soundcheck across Boston, Brisbane, Chicago and Los Angeles and 6 more. Often billed alongside Benny Benassi, DJ Snake and Dimension. Next up: Snapdragon Stadium, Los Angeles on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ RL Grime is a bass and dubstep artist based in United States of America, with 15
 
 Benny Benassi, DJ Snake, Dimension
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rlgrime/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rlgrime/)*

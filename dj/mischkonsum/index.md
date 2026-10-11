@@ -1,6 +1,6 @@
 # Mischkonsum
 
-Mischkonsum is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at PRST, Vienna on Sat, 17 Oct 2026.
+Mischkonsum is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at PRST, Vienna on Sat, 17 Oct 2026.
 
 Mischkonsum is a trance and techno artist, with 7 gigs on soundcheck across Austria, Cologne, Leipzig and Nürnberg and 1 more. Often billed alongside Joey, YØNDER and keha. Next up: PRST, Vienna on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Mischkonsum is a trance and techno artist, with 7 gigs on soundcheck across Aust
 
 Joey (2), YØNDER, keha
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mischkonsum/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mischkonsum/)*

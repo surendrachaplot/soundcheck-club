@@ -1,6 +1,6 @@
 # Kolektor
 
-Kolektor is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "KOLEKTOR: Rap Night Shift" on Sat, 10 Oct 2026.
+Kolektor is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "KOLEKTOR: Rap Night Shift" on Sat, 10 Oct 2026.
 
 Kolektor is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with line-ups including Ayiaa, DARDANELLA, enthrust and James Cole and 1 more. See dates, start times and who's playing. Dukelských Hrdinů 530/47, 170 00 Praha 7-Holešovice, Czechia.
 
@@ -22,4 +22,4 @@ Kolektor is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with 
 
 Dukelských Hrdinů 530/47, 170 00 Praha 7-Holešovice, Czechia, Prague
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/kolektor/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/kolektor/)*

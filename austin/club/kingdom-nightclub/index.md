@@ -1,6 +1,6 @@
 # Kingdom Nightclub
 
-Kingdom Nightclub is a music venue in Austin with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Kingdom Presents Kungs" on Fri, 23 Oct 2026.
+Kingdom Nightclub is a music venue in Austin with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Kingdom Presents Kungs" on Fri, 23 Oct 2026.
 
 Kingdom Nightclub is a music venue in Austin listed on soundcheck. 5 upcoming gigs, with line-ups including Amtrac, Com Truise, Dennis Ferrer and Juan Maclean and 2 more. See dates, start times and who's playing. 505 E 7th St. Austin, Texas 78701.
 
@@ -9,7 +9,7 @@ Kingdom Nightclub is a music venue in Austin listed on soundcheck. 5 upcoming gi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Kingdom Presents Kungs | Kungs |
-| Sat, 24 Oct 2026 | Kingdom Presents Matthew Dear b2b Juan Maclean | Juan Maclean, Matthew Dear |
+| Sat, 24 Oct 2026 | Kingdom Presents Noizu | Juan Maclean, Matthew Dear |
 | Fri, 30 Oct 2026 | Kingdom Presents Dennis Ferrer | Dennis Ferrer |
 | Fri, 13 Nov 2026 | Com Truise | Com Truise |
 | Sat, 5 Dec 2026 | Resound & Special Delivery presents: Amtrac at Kingdom | Amtrac |
@@ -18,4 +18,4 @@ Kingdom Nightclub is a music venue in Austin listed on soundcheck. 5 upcoming gi
 
 505 E 7th St. Austin, Texas 78701, Austin
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/kingdom-nightclub/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/kingdom-nightclub/)*

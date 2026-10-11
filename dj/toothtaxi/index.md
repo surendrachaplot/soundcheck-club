@@ -1,6 +1,6 @@
 # TOOTHTAXI
 
-TOOTHTAXI is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Omeara, London on Sat, 17 Oct 2026.
+TOOTHTAXI is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Omeara, London on Sat, 17 Oct 2026.
 
 TOOTHTAXI is a techno and electro artist based in United Kingdom, with 25 gigs on soundcheck across London. Often billed alongside DELARA, LIZAZA and Arrosa. Next up: Omeara, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ TOOTHTAXI is a techno and electro artist based in United Kingdom, with 25 gigs o
 
 DELARA, LIZAZA, Arrosa
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toothtaxi/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toothtaxi/)*

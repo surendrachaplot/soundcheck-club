@@ -1,14 +1,13 @@
 # KNTRLVRLST
 
-KNTRLVRLST is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Gotec, Karlsruhe on Sat, 10 Oct 2026.
+KNTRLVRLST is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Gate Milano, Milan on Fri, 16 Oct 2026.
 
-KNTRLVRLST is a techno and trance artist based in Germany, with 73 gigs on soundcheck across Amsterdam, Antwerp, Augsburg and Barcelona and 27 more. Often billed alongside A.N.I., Vagabund and DeGuzman. Next up: Gotec, Karlsruhe on Sat 10 Oct.
+KNTRLVRLST is a techno and trance artist based in Germany, with 73 gigs on soundcheck across Amsterdam, Antwerp, Augsburg and Barcelona and 27 more. Often billed alongside A.N.I., Vagabund and DeGuzman. Next up: Gate Milano, Milan on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Gotec | Karlsruhe |
 | Fri, 16 Oct 2026 | Gate Milano | Milan |
 | Wed, 21 Oct 2026 | Oosterbar | Amsterdam |
 | Sat, 24 Oct 2026 | TBA - EIVISSA | Amsterdam |
@@ -17,6 +16,7 @@ KNTRLVRLST is a techno and trance artist based in Germany, with 73 gigs on sound
 
 ## Recently played
 
+- Gotec, Karlsruhe · Sat, 10 Oct 2026
 - Zinkbad Eventhalle, Zurich · Sat, 3 Oct 2026
 - Kesselhaus Augsburg, Augsburg · Fri, 2 Oct 2026
 - Roof 175, Frankfurt · Sat, 19 Sept 2026
@@ -24,10 +24,9 @@ KNTRLVRLST is a techno and trance artist based in Germany, with 73 gigs on sound
 - Story Toronto, Toronto · Fri, 18 Sept 2026
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
 - Waschhaus, Berlin · Fri, 7 Aug 2026
-- Lehmann Club, Stuttgart · Fri, 26 Jun 2026
 
 ## Shares bills with
 
 A.N.I., Vagabund, DeGuzman
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kntrlvrlst/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kntrlvrlst/)*

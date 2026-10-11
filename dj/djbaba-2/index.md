@@ -1,6 +1,6 @@
 # Dj Babatr
 
-Dj Babatr is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA, Mexico City on Sat, 10 Oct 2026.
+Dj Babatr is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA, Mexico City on Sat, 10 Oct 2026.
 
 Dj Babatr is a techno and house artist based in Venezuela, with 103 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 21 more. Often billed alongside Ruiseñor, Dj Deep RH and Blawan. Next up: TBA, Mexico City on Sat 10 Oct.
 
@@ -14,6 +14,7 @@ Dj Babatr is a techno and house artist based in Venezuela, with 103 gigs on soun
 
 ## Recently played
 
+- TBA, Mexico City · Sat, 10 Oct 2026
 - Tuinen van West, Amsterdam · Sat, 29 Aug 2026
 - Else, Berlin · Sun, 23 Aug 2026
 - PRST, Vienna · Fri, 21 Aug 2026
@@ -21,10 +22,9 @@ Dj Babatr is a techno and house artist based in Venezuela, with 103 gigs on soun
 - Kaiku, Helsinki · Fri, 14 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin · Fri, 31 Jul 2026
 - BarKa, Warsaw · Thu, 30 Jul 2026
-- Fort Vechten, Utrecht · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Ruiseñor, Dj Deep RH, Blawan
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbaba-2/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbaba-2/)*

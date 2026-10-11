@@ -1,6 +1,6 @@
 # Ian Pooley
 
-Ian Pooley is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - López 1, Colonia Centro, CDMX, Mexico City on Sat, 10 Oct 2026.
+Ian Pooley is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - López 1, Colonia Centro, CDMX, Mexico City on Sat, 10 Oct 2026.
 
 Ian Pooley is a house and techno artist based in Germany, with 115 gigs on soundcheck across Amsterdam, Athens, Auckland and Bangkok and 45 more. Often billed alongside dj sweet6teen, Cinthie and Eva Crystaltips. Next up: TBA - López 1, Colonia Centro, CDMX, Mexico City on Sat 10 Oct.
 
@@ -17,6 +17,7 @@ Ian Pooley is a house and techno artist based in Germany, with 115 gigs on sound
 
 ## Recently played
 
+- TBA - López 1, Colonia Centro, CDMX, Mexico City · Sat, 10 Oct 2026
 - Radio Radio, Amsterdam · Fri, 2 Oct 2026
 - Landesmuseum, Zurich · Mon, 31 Aug 2026
 - Audio Club, Geneva · Fri, 21 Aug 2026
@@ -24,10 +25,9 @@ Ian Pooley is a house and techno artist based in Germany, with 115 gigs on sound
 - Night Tales, London · Sat, 25 Jul 2026
 - Parkcafe, Cologne · Sat, 18 Jul 2026
 - Tokonoma Club, Frankfurt · Sat, 11 Jul 2026
-- TBA - Île de la Loge, 78560 Le Port-Marly, France, Paris · Sat, 13 Jun 2026
 
 ## Shares bills with
 
 dj sweet6teen, Cinthie, Eva Crystaltips
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ianpooley/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ianpooley/)*

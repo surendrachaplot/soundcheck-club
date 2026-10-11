@@ -1,6 +1,6 @@
 # Alycia Bezgo
 
-Alycia Bezgo is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
+Alycia Bezgo is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
 
 Alycia Bezgo is a techno and trance artist based in Belgium, with 70 gigs on soundcheck across Amsterdam, Antwerp, Athens and Basel and 23 more. Often billed alongside BIIANCO, ÜBERKIKZ and Helena Lauwaert. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
 
@@ -19,6 +19,7 @@ Alycia Bezgo is a techno and trance artist based in Belgium, with 70 gigs on sou
 
 ## Recently played
 
+- Auditorio Málaga Cortijo de Torres, South · Sat, 10 Oct 2026
 - Chinastraat, Ghent · Fri, 9 Oct 2026
 - La Cité Fertile, Paris · Sun, 4 Oct 2026
 - TBA - Port of Belgrade, Belgrade · Fri, 2 Oct 2026
@@ -26,10 +27,9 @@ Alycia Bezgo is a techno and trance artist based in Belgium, with 70 gigs on sou
 - TBA - Grand Parc Miribel Jonage, Lyon · Sat, 12 Sept 2026
 - TBA - Brussels, Brussels · Fri, 11 Sept 2026
 - Place Noord, Brussels · Sat, 5 Sept 2026
-- Hippodrome de Vincennes, Paris · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 BIIANCO, ÜBERKIKZ, Helena Lauwaert
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alyciabezgo-2/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alyciabezgo-2/)*

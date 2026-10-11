@@ -1,6 +1,6 @@
 # Mika Heggemann
 
-Mika Heggemann is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+Mika Heggemann is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
 
 Mika Heggemann is a techno and trance artist based in Germany, with 173 gigs on soundcheck across Amsterdam, Antwerp, Augsburg and Barcelona and 35 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
 
@@ -23,6 +23,7 @@ Mika Heggemann is a techno and trance artist based in Germany, with 173 gigs on 
 
 ## Recently played
 
+- Plage Privée Parc de Miribel, Lyon · Sat, 10 Oct 2026
 - Uebel & Gefährlich, Hamburg · Fri, 9 Oct 2026
 - Phantom Bar Berlin, Berlin · Wed, 7 Oct 2026
 - Bootshaus, Cologne · Fri, 18 Sept 2026
@@ -30,10 +31,9 @@ Mika Heggemann is a techno and trance artist based in Germany, with 173 gigs on 
 - TBA, Melbourne · Sat, 5 Sept 2026
 - Home The Venue, Sydney · Fri, 4 Sept 2026
 - Colorado Charlie, The Hague · Sun, 30 Aug 2026
-- Dürener Badesee, Cologne · Fri, 28 Aug 2026
 
 ## Shares bills with
 
 Cleopard2000, Trancemaster Krause, davyboi
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*

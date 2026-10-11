@@ -1,15 +1,13 @@
 # Roman Flügel
 
-Roman Flügel is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - DTLA, Los Angeles on Fri, 9 Oct 2026.
+Roman Flügel is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at public records, New York City on Sun, 11 Oct 2026.
 
-Roman Flügel is a techno and house artist based in Germany, with 210 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 65 more. Often billed alongside Gerd Janson, Sven Vath and Ivan Smagghe. Next up: TBA - DTLA, Los Angeles on Fri 9 Oct.
+Roman Flügel is a techno and house artist based in Germany, with 210 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 65 more. Often billed alongside Gerd Janson, Sven Vath and Ivan Smagghe. Next up: public records, New York City on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | TBA - DTLA | Los Angeles |
-| Sat, 10 Oct 2026 | 3oz Dive Club | San Diego |
 | Sun, 11 Oct 2026 | public records | New York City |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 30 Oct 2026 | Karmakoma | Belgrade |
@@ -21,6 +19,7 @@ Roman Flügel is a techno and house artist based in Germany, with 210 gigs on so
 
 ## Recently played
 
+- 3oz Dive Club, San Diego · Sat, 10 Oct 2026
 - TBA - DTLA, Los Angeles · Fri, 9 Oct 2026
 - control, Bucharest · Sat, 3 Oct 2026
 - FOLD, London · Fri, 2 Oct 2026
@@ -28,10 +27,9 @@ Roman Flügel is a techno and house artist based in Germany, with 210 gigs on so
 - FOUND, Berlin · Fri, 25 Sept 2026
 - Hï Ibiza, Ibiza · Fri, 11 Sept 2026
 - Southwark Park, London · Sat, 29 Aug 2026
-- Silencio, Paris · Fri, 21 Aug 2026
 
 ## Shares bills with
 
 Gerd Janson, Sven Vath, Ivan Smagghe
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romanflugel/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romanflugel/)*

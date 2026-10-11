@@ -1,6 +1,6 @@
 # Anna Hoeber
 
-Anna Hoeber is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at ://about blank, Berlin on Fri, 30 Oct 2026.
+Anna Hoeber is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at ://about blank, Berlin on Fri, 30 Oct 2026.
 
 Anna Hoeber is a techno and electro artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Holywanderer, nillonollin and Andara Nox. Next up: ://about blank, Berlin on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Anna Hoeber is a techno and electro artist based in Germany, with 7 gigs on soun
 
 Holywanderer, nillonollin, Andara Nox
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annahoeber/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annahoeber/)*

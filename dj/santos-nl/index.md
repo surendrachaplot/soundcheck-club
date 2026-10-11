@@ -1,6 +1,6 @@
 # SANTØS
 
-SANTØS is a Techno and Industrial artist with 14 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
+SANTØS is a Techno and Industrial artist with 14 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
 
 SANTØS is a techno and industrial artist based in Netherlands, with 112 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 30 more. Often billed alongside KARAH, KLOFAMA and 6EJOU. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
 
@@ -23,6 +23,7 @@ SANTØS is a techno and industrial artist based in Netherlands, with 112 gigs on
 
 ## Recently played
 
+- Auditorio Málaga Cortijo de Torres, South · Sat, 10 Oct 2026
 - BASIS, Utrecht · Fri, 2 Oct 2026
 - Airport Würzburg, Nürnberg · Sat, 19 Sept 2026
 - Eden, Ibiza · Tue, 15 Sept 2026
@@ -30,10 +31,9 @@ SANTØS is a techno and industrial artist based in Netherlands, with 112 gigs on
 - The Flinders, Sydney · Fri, 11 Sept 2026
 - Parc de la Serra de Mollerussa (Lérida), Barcelona · Sat, 5 Sept 2026
 - Toffler, Rotterdam · Fri, 31 Jul 2026
-- Essigfabrik, Cologne · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 KARAH, KLOFAMA, 6EJOU
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santos-nl/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santos-nl/)*

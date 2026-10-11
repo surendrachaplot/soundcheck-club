@@ -1,6 +1,6 @@
 # Prince Batrick
 
-Prince Batrick is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - ADD-1570 DUNDAS, Toronto on Fri, 27 Nov 2026.
+Prince Batrick is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - ADD-1570 DUNDAS, Toronto on Fri, 27 Nov 2026.
 
 Prince Batrick is a house and garage artist, with 59 gigs on soundcheck across London, Miami, Montreal and New York City and 2 more. Often billed alongside Rose Hips, Bikethug and Delicious DJ. Next up: TBA - ADD-1570 DUNDAS, Toronto on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Prince Batrick is a house and garage artist, with 59 gigs on soundcheck across L
 
 Rose Hips (2), Bikethug, Delicious DJ
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princebatrick/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princebatrick/)*

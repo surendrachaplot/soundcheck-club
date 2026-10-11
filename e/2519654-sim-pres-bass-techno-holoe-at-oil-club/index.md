@@ -1,6 +1,6 @@
 # SiM Pres.舞池杀器 Bass与Techno双修的波兰宝藏制作人Holoe at OIL Club
 
-SiM Pres.舞池杀器 Bass与Techno双修的波兰宝藏制作人Holoe at OIL Club on Thu 22 Oct, Shenzhen. 1 artist: meta (CN). Breakbeat and Bass. See the line-up on soundcheck.
+SiM Pres.舞池杀器 Bass与Techno双修的波兰宝藏制作人Holoe at OIL Club on Thu 22 Oct, Shenzhen. 2 artists: holoe and meta (CN). Breakbeat and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SiM Pres.舞池杀器 Bass与Techno双修的波兰宝藏制作人Holoe at OIL Cl
 
 ## Line-up
 
+- holoe
 - meta (CN)
 
 *Source: [soundcheck](https://soundcheck.club/e/2519654-sim-pres-bass-techno-holoe-at-oil-club/)*

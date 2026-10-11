@@ -1,6 +1,6 @@
 # Nic Jalusi
 
-Nic Jalusi is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Charlie, Munich on Sat, 24 Oct 2026.
+Nic Jalusi is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Charlie, Munich on Sat, 24 Oct 2026.
 
 Nic Jalusi is a house and deep house artist based in Germany, with 30 gigs on soundcheck across Berlin, Leipzig, London and Munich and 2 more. Often billed alongside Balearic Eric, Super Sound Global and sianza. Next up: Charlie, Munich on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Nic Jalusi is a house and deep house artist based in Germany, with 30 gigs on so
 
 Balearic Eric, Super Sound Global, sianza
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicjalusi/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicjalusi/)*

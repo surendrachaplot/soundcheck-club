@@ -1,10 +1,10 @@
 # Psy Vibes Session Vol.9 at IT Athens
 
-Psy Vibes Session Vol.9 at IT Athens on Sat 17 Oct, Athens. See the line-up on soundcheck.
+Psy Vibes Session Vol.9 at IT Athens on Fri 16 Oct, Athens. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 17 Oct 2026 |
+| Date | Fri, 16 Oct 2026 |
 | Venue | IT Athens |
 | City | Athens |
 

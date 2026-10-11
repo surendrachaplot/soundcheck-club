@@ -1,14 +1,13 @@
 # Sans Soleil
 
-Sans Soleil is a music venue in Montreal with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Sans Soleil w/ Joe Toner + Tom Bonheur" on Sat, 10 Oct 2026.
+Sans Soleil is a music venue in Montreal with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Sans Soleil w/ Lia Plutonic" on Sun, 11 Oct 2026.
 
-Sans Soleil is a music venue in Montreal listed on soundcheck. 6 upcoming gigs, with line-ups including Andie, bell.pierre, Doc'trin and Joe Toner and 2 more. See dates, start times and who's playing. 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6.
+Sans Soleil is a music venue in Montreal listed on soundcheck. 5 upcoming gigs, with line-ups including Andie, bell.pierre, Doc'trin and Lia Plutonic and 2 more. See dates, start times and who's playing. 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Sans Soleil w/ Joe Toner + Tom Bonheur | Joe Toner, Tom Bonheur |
 | Sun, 11 Oct 2026 | Sans Soleil w/ Lia Plutonic | Lia Plutonic |
 | Mon, 12 Oct 2026 | Sans Soleil w/ Andie | Andie |
 | Sun, 18 Oct 2026 | Sans Soleil w/ Rhizomatic | Doc'trin, somebody3lse |
@@ -19,4 +18,4 @@ Sans Soleil is a music venue in Montreal listed on soundcheck. 6 upcoming gigs, 
 
 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6, Montreal
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sans-soleil/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sans-soleil/)*

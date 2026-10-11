@@ -1,6 +1,6 @@
 # STU (FR)
 
-STU (FR) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at KALT, Strasbourg on Sat, 17 Oct 2026.
+STU (FR) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at KALT, Strasbourg on Sat, 17 Oct 2026.
 
 STU (FR) is a house and techno artist based in France, with 55 gigs on soundcheck across Athens, Paris, Strasbourg and Vancouver. Often billed alongside Dima Roas, Roan and Chill (FR). Next up: KALT, Strasbourg on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ STU (FR) is a house and techno artist based in France, with 55 gigs on soundchec
 
 Dima Roas, Roan, Chill (FR)
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stu-fr/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stu-fr/)*

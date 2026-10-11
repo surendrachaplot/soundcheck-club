@@ -1,14 +1,13 @@
 # Eastway Baths
 
-Eastway Baths is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Thea Grant + REALITY + Trace Monument + RIEKO + Remote Viewing" on Sat, 10 Oct 2026.
+Eastway Baths is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "GIANT STEPS" on Sun, 11 Oct 2026.
 
-Eastway Baths is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Alexander Nut, Chadzing Kung, Charlie Dark and ChunS!ut and 2 more. See dates, start times and who's playing. 80 Eastway, E9 5JH.
+Eastway Baths is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Alexander Nut, Chadzing Kung, Charlie Dark and ChunS!ut and 2 more. See dates, start times and who's playing. 80 Eastway, E9 5JH.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Thea Grant + REALITY + Trace Monument + RIEKO + Remote Viewing |  |
 | Sun, 11 Oct 2026 | GIANT STEPS | Giles Smith |
 | Thu, 15 Oct 2026 | DERIVO: 'firewall' | Chadzing Kung, ChunS!ut, GRE9 |
 | Sun, 25 Oct 2026 | GIANT STEPS | Palo Santo Discos, Poly-Ritmo |
@@ -21,4 +20,4 @@ Eastway Baths is a music venue in London listed on soundcheck. 8 upcoming gigs, 
 
 80 Eastway, E9 5JH, London
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/eastway-baths/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/eastway-baths/)*

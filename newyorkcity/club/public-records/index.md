@@ -1,15 +1,13 @@
 # public records
 
-public records is a music venue in New York City with 39 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "NAYGOD, Donis / Colored Craig, Cosmo" on Sat, 10 Oct 2026.
+public records is a music venue in New York City with 37 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "The Atrium: Frank & Tony, Roman Flügel" on Sun, 11 Oct 2026.
 
-public records is a music venue in New York City listed on soundcheck. 39 upcoming gigs, with line-ups including 320, 4AM NYC, MORENXXX and Aaron Dae and 2 more. See dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
+public records is a music venue in New York City listed on soundcheck. 37 upcoming gigs, with line-ups including 320, 4AM NYC, MORENXXX and Aaron Dae and 2 more. See dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | NAYGOD, Donis / Colored Craig, Cosmo | Colored Craig, Cosmo (NY), Donis, NAYGOD |
-| Sat, 10 Oct 2026 | Public record |  |
 | Sun, 11 Oct 2026 | The Atrium: Frank & Tony, Roman Flügel | Frank & Tony, Roman Flügel |
 | Thu, 15 Oct 2026 | Razor-N-Tape presents A Joyful Noise - Live From public records Album Release Show | Aaron Dae, Brandon Markell Holmes, JKriv, Jason Lindner, Miss Alicia, Miss Gypsy, Peter Matson |
 | Fri, 16 Oct 2026 | D. Tiffany, Flørist / Gi Gi, adobeprincess / Very J | D. Tiffany, Flørist, Gi Gi, Very J, adobeprincess |
@@ -18,9 +16,11 @@ public records is a music venue in New York City listed on soundcheck. 39 upcomi
 | Thu, 22 Oct 2026 | Echo Chamber S1.E04: Sinai Sound System feat. Lasai | Queen Majesty |
 | Fri, 23 Oct 2026 | Valentina Magaletti & Gabby Fluke-Mogul, boring tables | Valentina Magaletti |
 | Fri, 23 Oct 2026 | P.E.A.R.L., Juana / Anastasia Kristensen, John Raffaele / Bob Maynard & Cassandra Croft | Anastasia Kristensen, John Raffaele, Juana, P.E.A.R.L. |
+| Sat, 24 Oct 2026 | Love Injection Invites: Pete BBE, Johnny Reckless, Jeff Higgins, hyanna & Alyssa Stowers | Love Injection, hyanna |
+| Sun, 25 Oct 2026 | Diva Diva: PAURRO & Kiernan Laveaux, Saia & e-Lite, performance by Willow Pill | Kiernan Laveaux, PAURRO, Saia, e-Lite |
 
 ## Address
 
 233 Butler St, Brooklyn, NY 11217, USA, New York City
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*

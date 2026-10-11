@@ -1,15 +1,13 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 41 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "15 Years Gretchen: JOSHUA IDEHEN *live" on Sat, 10 Oct 2026.
+Gretchen is a music venue in Berlin with 39 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "15 Years Gretchen: KASSA OVERALL & WNBL *live" on Sun, 11 Oct 2026.
 
-Gretchen is a music venue in Berlin listed on soundcheck. 41 upcoming gigs, with line-ups including Acid Arab, Alley Cat, alllone and Allynx and 2 more. See dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
+Gretchen is a music venue in Berlin listed on soundcheck. 39 upcoming gigs, with line-ups including Acid Arab, alllone, Allynx and anna andersrum and 2 more. See dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | 15 Years Gretchen: JOSHUA IDEHEN *live | Femdelic |
-| Sat, 10 Oct 2026 | 15 Years Gretchen: 30 YEARS RECYCLE feat. Congo Natty + Alley Cat | Alley Cat, Congo Natty, Mc Jamie White, Survey |
 | Sun, 11 Oct 2026 | 15 Years Gretchen: KASSA OVERALL & WNBL *live |  |
 | Thu, 15 Oct 2026 | 15 Years Gretchen:Acid Arab - LA HAFLA WEEKENDER Day 1 | Acid Arab |
 | Fri, 16 Oct 2026 | 15 Years Gretchen: Acid Arab - LA HAFLA WEEKENDER Day 2 | Acid Arab |
@@ -18,9 +16,11 @@ Gretchen is a music venue in Berlin listed on soundcheck. 41 upcoming gigs, with
 | Fri, 23 Oct 2026 | Skeler |  |
 | Fri, 23 Oct 2026 | 15 Years Gretchen: What So Not & DJ Spinn | Allynx, DJ Spinn, Grzly Adams, What So Not, Yunis |
 | Sat, 24 Oct 2026 | 15 Years Gretchen:  MARIA ARNAL *live |  |
+| Sun, 25 Oct 2026 | 15 Years Gretchen:  MARCOCA *live |  |
+| Tue, 27 Oct 2026 | 15 Years Gretchen: DJ Krush | DJ Krush, Marc Hype |
 
 ## Address
 
 Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany, Berlin
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*

@@ -1,14 +1,13 @@
 # The Love Inn
 
-The Love Inn is a music venue in Bristol with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Nosedrip & Morey Cillar" on Sat, 10 Oct 2026.
+The Love Inn is a music venue in Bristol with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "SILQ. presents: Gabrielle Kwarteng" on Fri, 16 Oct 2026.
 
-The Love Inn is a music venue in Bristol listed on soundcheck. 10 upcoming gigs, with line-ups including Alien Communications, Andy Martin, AVA and Azumei and 2 more. See dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
+The Love Inn is a music venue in Bristol listed on soundcheck. 9 upcoming gigs, with line-ups including Alien Communications, Andy Martin, AVA and Azumei and 2 more. See dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Nosedrip & Morey Cillar | Nosedrip |
 | Fri, 16 Oct 2026 | SILQ. presents: Gabrielle Kwarteng | AVA (3), Azumei, DASHY, Gabrielle Kwarteng |
 | Sat, 17 Oct 2026 | Isaac Carter + Fern | Isaac Carter |
 | Fri, 30 Oct 2026 | echoforms with Andy Martin + Residents | Andy Martin, Ollie Kirk |
@@ -23,4 +22,4 @@ The Love Inn is a music venue in Bristol listed on soundcheck. 10 upcoming gigs,
 
 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom, Bristol
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*

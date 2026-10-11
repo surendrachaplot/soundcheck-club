@@ -1,6 +1,6 @@
 # Ariel Zetina presents Rosebud;!;!;!;!;!;!; at Podlasie Club
 
-Ariel Zetina presents Rosebud;!;!;!;!;!;!; at Podlasie Club on Sat 17 Oct, Chicago. 5 artists: Beverly Chills, Dj Having Sex, DYLUSION and nonsuit and 1 more. Club. See the line-up on soundcheck.
+Ariel Zetina presents Rosebud;!;!;!;!;!;!; at Podlasie Club on Sat 17 Oct, Chicago. 6 artists: Ariel Zetina, Beverly Chills, Dj Having Sex and DYLUSION and 2 more. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Ariel Zetina presents Rosebud;!;!;!;!;!;!; at Podlasie Club on Sat 17 Oct, Chica
 
 ## Line-up
 
+- Ariel Zetina
 - Beverly Chills
 - Dj Having Sex
 - DYLUSION

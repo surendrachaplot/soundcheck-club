@@ -1,14 +1,13 @@
 # Spkrbox
 
-Spkrbox is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "BerettaMusic and Friends - Milan Ariel Atkins, Ryan Sadorus, Perish, Marcus Harris" on Sat, 10 Oct 2026.
+Spkrbox is a music venue in Detroit with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Foggy Sunday" on Sun, 11 Oct 2026.
 
-Spkrbox is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, with line-ups including ADMN, DJ 3000, Dru Ruiz and Echoføn and 2 more. See dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
+Spkrbox is a music venue in Detroit listed on soundcheck. 7 upcoming gigs, with line-ups including ADMN, DJ 3000, Dru Ruiz and Echoføn and 2 more. See dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | BerettaMusic and Friends - Milan Ariel Atkins, Ryan Sadorus, Perish, Marcus Harris | Marcus NF Harris, Milan Ariel, Perish, Ryan Sadorus |
 | Sun, 11 Oct 2026 | Foggy Sunday | Dru Ruiz |
 | Thu, 15 Oct 2026 | FLAVORS by Snack Time: Tommaso (CHI) all night | Tommaso (IT) |
 | Fri, 16 Oct 2026 | Tour Detroit | ERNO (US) |
@@ -21,4 +20,4 @@ Spkrbox is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, with 
 
 200 Grand River Ave, Detroit, MI 48226, United States, Detroit
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*

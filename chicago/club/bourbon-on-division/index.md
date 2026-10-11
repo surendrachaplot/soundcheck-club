@@ -1,14 +1,13 @@
 # Bourbon On Division
 
-Bourbon On Division is a music venue in Chicago with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "RAVENØIR feat. Casska (LA) - HARD BOUNCE NEORAVE" on Sat, 10 Oct 2026.
+Bourbon On Division is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Blacklight Blackout ft/ Jenny Fox, L3XX, MrBobby, Patrixia, Torcyk, Prksd," on Fri, 16 Oct 2026.
 
-Bourbon On Division is a music venue in Chicago listed on soundcheck. 3 upcoming gigs, with line-ups including Casska, DJ Heather, Harry Cross and Jason Kendig and 2 more. See dates, start times and who's playing. 2050 W Division St, Chicago, IL 60622, USA.
+Bourbon On Division is a music venue in Chicago listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Heather, Harry Cross, Jason Kendig and Jenny Fox and 2 more. See dates, start times and who's playing. 2050 W Division St, Chicago, IL 60622, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | RAVENØIR feat. Casska (LA) - HARD BOUNCE NEORAVE | Casska |
 | Fri, 16 Oct 2026 | Blacklight Blackout ft/ Jenny Fox, L3XX, MrBobby, Patrixia, Torcyk, Prksd, | Jenny Fox, Mr. Bobby, Patrixia |
 | Sat, 31 Oct 2026 | Witch Finger Halloween with Jason Kendig, DJ Heather, Trqpiteca, Harry Cross | DJ Heather, Harry Cross, Jason Kendig |
 
@@ -16,4 +15,4 @@ Bourbon On Division is a music venue in Chicago listed on soundcheck. 3 upcoming
 
 2050 W Division St, Chicago, IL 60622, USA, Chicago
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/bourbon-on-division/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/bourbon-on-division/)*

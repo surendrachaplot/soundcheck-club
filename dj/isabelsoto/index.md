@@ -1,14 +1,13 @@
 # Isabel Soto
 
-Isabel Soto is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Bassement, Madrid on Sat, 10 Oct 2026.
+Isabel Soto is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Printhouse, Munich on Sat, 17 Oct 2026.
 
-Isabel Soto is a techno and house artist based in Venezuela, with 102 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 31 more. Often billed alongside Claudio PRC, Mike Larry and Fadi Mohem. Next up: The Bassement, Madrid on Sat 10 Oct.
+Isabel Soto is a techno and house artist based in Venezuela, with 102 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 31 more. Often billed alongside Claudio PRC, Mike Larry and Fadi Mohem. Next up: Printhouse, Munich on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | The Bassement | Madrid |
 | Sat, 17 Oct 2026 | Printhouse | Munich |
 | Fri, 23 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
@@ -18,6 +17,7 @@ Isabel Soto is a techno and house artist based in Venezuela, with 102 gigs on so
 
 ## Recently played
 
+- The Bassement, Madrid · Sat, 10 Oct 2026
 - RASA, Singapore · Fri, 2 Oct 2026
 - Volnost, Seoul · Sat, 26 Sept 2026
 - Fvtvr, Paris · Fri, 18 Sept 2026
@@ -25,10 +25,9 @@ Isabel Soto is a techno and house artist based in Venezuela, with 102 gigs on so
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 8 Aug 2026
 - Rote Sonne, Munich · Fri, 7 Aug 2026
 - Rote Sonne, Munich · Fri, 7 Aug 2026
-- Kaiku, Helsinki · Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Claudio PRC, Mike Larry, Fadi Mohem
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isabelsoto/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isabelsoto/)*

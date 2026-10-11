@@ -1,14 +1,13 @@
 # SHERELLE
 
-SHERELLE is a Jungle and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Pisces, Atlanta on Sat, 10 Oct 2026.
+SHERELLE is a Jungle and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Nowadays, New York City on Sun, 11 Oct 2026.
 
-SHERELLE is a jungle and techno artist based in United Kingdom, with 184 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 54 more. Often billed alongside I. JORDAN, Special Request and Job Jobse. Next up: Pisces, Atlanta on Sat 10 Oct.
+SHERELLE is a jungle and techno artist based in United Kingdom, with 184 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 54 more. Often billed alongside I. JORDAN, Special Request and Job Jobse. Next up: Nowadays, New York City on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Pisces | Atlanta |
 | Sun, 11 Oct 2026 | Nowadays | New York City |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
 | Fri, 23 Oct 2026 | BRET | Amsterdam |
@@ -18,6 +17,7 @@ SHERELLE is a jungle and techno artist based in United Kingdom, with 184 gigs on
 
 ## Recently played
 
+- Pisces, Atlanta · Sat, 10 Oct 2026
 - Sound Machine, Toronto · Fri, 9 Oct 2026
 - Los Globos, Los Angeles · Sat, 3 Oct 2026
 - The Loom, San Francisco/Oakland · Fri, 2 Oct 2026
@@ -25,10 +25,9 @@ SHERELLE is a jungle and techno artist based in United Kingdom, with 184 gigs on
 - The Ground at Club Space, Miami · Fri, 25 Sept 2026
 - Le Molodoi, Strasbourg · Fri, 11 Sept 2026
 - The Carpet Shop, London · Thu, 10 Sept 2026
-- The White Hotel, Manchester · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 I. JORDAN, Special Request, Job Jobse
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*

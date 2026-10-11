@@ -1,18 +1,18 @@
 # Ivicore
 
-Ivicore is a Techno and Neo Perreo artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Coven HQ, London on Sat, 10 Oct 2026.
+Ivicore is a Techno and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Distillery N17, London on Fri, 23 Oct 2026.
 
-Ivicore is a techno and neo perreo artist based in Venezuela, with 56 gigs on soundcheck across Barcelona, Berlin, Bristol and Leeds and 3 more. Often billed alongside TEDESCO, JONE OF ARX and CHEZA LUCINA. Next up: Coven HQ, London on Sat 10 Oct.
+Ivicore is a techno and neo perreo artist based in Venezuela, with 56 gigs on soundcheck across Barcelona, Berlin, Bristol and Leeds and 3 more. Often billed alongside TEDESCO, JONE OF ARX and CHEZA LUCINA. Next up: Distillery N17, London on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Coven HQ | London |
 | Fri, 23 Oct 2026 | Distillery N17 | London |
 
 ## Recently played
 
+- Coven HQ, London · Sat, 10 Oct 2026
 - radial, London · Fri, 2 Oct 2026
 - Hackney Bridge, London · Sun, 6 Sept 2026
 - Colour Factory, London · Sun, 30 Aug 2026
@@ -20,10 +20,9 @@ Ivicore is a techno and neo perreo artist based in Venezuela, with 56 gigs on so
 - Queen Elizabeth Olympic Park, London · Sat, 22 Aug 2026
 - Dalston Superstore, London · Fri, 24 Jul 2026
 - Hackney Wick Multiple Venues, London · Sat, 4 Jul 2026
-- Village Underground, London · Fri, 3 Jul 2026
 
 ## Shares bills with
 
 TEDESCO, JONE OF ARX, CHEZA LUCINA
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivicore/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivicore/)*

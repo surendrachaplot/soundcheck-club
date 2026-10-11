@@ -1,14 +1,13 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "mʊdʌki INVITES Samurai Breaks" on Sat, 10 Oct 2026.
+Fuchs2 is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Zuzana Hakl INVITES Patrick DSP" on Fri, 16 Oct 2026.
 
-Fuchs2 is a music venue in Prague listed on soundcheck. 10 upcoming gigs, with line-ups including 2NDRA, Ancient Methods, AVHD and Dj Alyaz and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
+Fuchs2 is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with line-ups including 2NDRA, Ancient Methods, AVHD and Dj Alyaz and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | mʊdʌki INVITES Samurai Breaks | Dj Alyaz, Samurai Breaks, mʊdʌki |
 | Fri, 16 Oct 2026 | Zuzana Hakl INVITES Patrick DSP | Patrick DSP, Zuzana Hakl |
 | Sat, 17 Oct 2026 | Younger Than Me INVITES Massimiliano Pagliara ☆ Lulu | LuLu (CZ), Massimiliano Pagliara, Younger Than Me |
 | Sat, 17 Oct 2026 | SALO / X-RAY: N-Type ☆ Slowie ☆ Squarewave ☆ Alyaz ☆ Tommy Lexxus ☆ fahell ☆ Johney | Dj Alyaz, N-Type, Squarewave, Tommy Lexxus, fahell |
@@ -23,4 +22,4 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 10 upcoming gigs, with l
 
 Štvanice, 17000 Prague, Prague
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*

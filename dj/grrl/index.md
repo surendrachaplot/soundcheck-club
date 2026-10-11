@@ -1,6 +1,6 @@
 # GRRL
 
-GRRL is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Fruit, North-carolina on Fri, 23 Oct 2026.
+GRRL is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The Fruit, North-carolina on Fri, 23 Oct 2026.
 
 GRRL is a club and techno artist based in United States of America, with 41 gigs on soundcheck across Austin, Chicago, Denver and Detroit and 12 more. Often billed alongside umru, AceMo and KYRUH. Next up: The Fruit, North Carolina on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ GRRL is a club and techno artist based in United States of America, with 41 gigs
 
 umru, AceMo, KYRUH
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grrl/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grrl/)*

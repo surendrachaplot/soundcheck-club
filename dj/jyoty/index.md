@@ -1,14 +1,13 @@
 # Jyoty
 
-Jyoty is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
+Jyoty is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
-Jyoty is a house and techno artist based in Netherlands, with 139 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 42 more. Often billed alongside Skrillex, Overmono and Ben UFO. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
+Jyoty is a house and techno artist based in Netherlands, with 139 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 42 more. Often billed alongside Skrillex, Overmono and Ben UFO. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
 | Fri, 23 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
@@ -18,6 +17,7 @@ Jyoty is a house and techno artist based in Netherlands, with 139 gigs on soundc
 
 ## Recently played
 
+- Depot Mayfield, Manchester · Sat, 10 Oct 2026
 - Centre Point, Dublin · Fri, 9 Oct 2026
 - TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
 - The Regency Ballroom, San Francisco/Oakland · Fri, 25 Sept 2026
@@ -25,10 +25,9 @@ Jyoty is a house and techno artist based in Netherlands, with 139 gigs on soundc
 - Signal, New York City · Sat, 12 Sept 2026
 - Nowadays, New York City · Fri, 11 Sept 2026
 - 3fifty Terrace, Detroit · Mon, 7 Sept 2026
-- Burgess Park, London · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Skrillex, Overmono, Ben UFO
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jyoty/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jyoty/)*

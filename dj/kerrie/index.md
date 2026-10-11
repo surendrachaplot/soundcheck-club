@@ -1,6 +1,6 @@
 # Kerrie
 
-Kerrie is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - MOXIR, Armenia on Sat, 17 Oct 2026.
+Kerrie is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - MOXIR, Armenia on Sat, 17 Oct 2026.
 
 Kerrie is a techno and house artist based in Ireland, with 132 gigs on soundcheck across Amsterdam, Armenia, Athens and Barcelona and 38 more. Often billed alongside Mareena, DJ Bone and Sunil Sharpe. Next up: TBA - MOXIR, Armenia on Sat 17 Oct.
 
@@ -30,4 +30,4 @@ Kerrie is a techno and house artist based in Ireland, with 132 gigs on soundchec
 
 Mareena, DJ Bone, Sunil Sharpe
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrie/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrie/)*

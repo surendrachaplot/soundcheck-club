@@ -1,6 +1,6 @@
 # Qasbah
 
-Qasbah is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Samis Bar, Athens on Sat, 17 Oct 2026.
+Qasbah is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Samis Bar, Athens on Sat, 17 Oct 2026.
 
 Qasbah is a club and bass artist based in Greece, with 11 gigs on soundcheck across Athens. Often billed alongside 555ivas, Ara XD and Miss Trouli. Next up: Samis Bar, Athens on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Qasbah is a club and bass artist based in Greece, with 11 gigs on soundcheck acr
 
 555ivas, Ara XD, Miss Trouli
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qasbah/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qasbah/)*

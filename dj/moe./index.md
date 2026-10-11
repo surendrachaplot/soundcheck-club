@@ -1,6 +1,6 @@
 # moe.
 
-moe. is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Renate, Berlin on Sat, 24 Oct 2026.
+moe. is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Renate, Berlin on Sat, 24 Oct 2026.
 
 moe. is a house and disco artist based in Sudan, with 67 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 12 more. Often billed alongside Ken Okuda, DJ Westfa and Suze Ijó. Next up: Renate, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ moe. is a house and disco artist based in Sudan, with 67 gigs on soundcheck acro
 
 Ken Okuda, DJ Westfa, Suze Ijó
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moe./)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moe./)*

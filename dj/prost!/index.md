@@ -1,6 +1,6 @@
 # Prost!
 
-Prost! is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - LA COUR DES MIRACLES, South-east on Sun, 25 Oct 2026.
+Prost! is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - LA COUR DES MIRACLES, South-east on Sun, 25 Oct 2026.
 
 Prost! is a techno and house artist, with 27 gigs on soundcheck across Berlin, Geneva, Marseille and Paris and 1 more. Often billed alongside Shibuya793, Longneck and Yaam (FR). Next up: TBA - LA COUR DES MIRACLES, South East on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Prost! is a techno and house artist, with 27 gigs on soundcheck across Berlin, G
 
 Shibuya793, Longneck, Yaam (FR)
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prost!/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prost!/)*

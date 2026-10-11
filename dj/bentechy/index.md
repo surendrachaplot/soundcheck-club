@@ -1,14 +1,13 @@
 # Ben Techy
 
-Ben Techy is a Techno and Industrial artist with 14 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Sound Department, South on Sat, 10 Oct 2026.
+Ben Techy is a Techno and Industrial artist with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at MÄX, Zurich on Fri, 16 Oct 2026.
 
-Ben Techy is a techno and industrial artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Raxeller, SANTØS and KARAH. Next up: Sound Department, South on Sat 10 Oct.
+Ben Techy is a techno and industrial artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Raxeller, SANTØS and KARAH. Next up: MÄX, Zurich on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Sound Department | South |
 | Fri, 16 Oct 2026 | MÄX | Zurich |
 | Sat, 24 Oct 2026 | BASIS | Utrecht |
 | Sat, 24 Oct 2026 | Afas Live | Amsterdam |
@@ -20,9 +19,11 @@ Ben Techy is a techno and industrial artist based in United Kingdom, with 48 gig
 | Sun, 29 Nov 2026 | Tirana Olympic Park | Tirana |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Thu, 31 Dec 2026 | Garage Klub | Antwerp |
+| Thu, 31 Dec 2026 | Klokgebouw | Eindhoven |
 
 ## Recently played
 
+- Sound Department, South · Sat, 10 Oct 2026
 - Indiego Glocksee, Hannover · Sat, 3 Oct 2026
 - OST, Berlin · Sat, 26 Sept 2026
 - Essigfabrik, Cologne · Sat, 12 Sept 2026
@@ -30,10 +31,9 @@ Ben Techy is a techno and industrial artist based in United Kingdom, with 48 gig
 - DSTRKT Club Berlin, Berlin · Sat, 29 Aug 2026
 - Electrisize, Düsseldorf · Fri, 7 Aug 2026
 - DNA Club, Munich · Sat, 4 Jul 2026
-- OST, Berlin · Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Raxeller, SANTØS, KARAH
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bentechy/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bentechy/)*

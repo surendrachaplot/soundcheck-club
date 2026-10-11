@@ -15,7 +15,7 @@
 - Grace Thompson
 - Lady Maru
 - Maze Kashi
-- Miss Unleashed
+- Miss UNLEASHED
 - Nat SuPrise
 
 *Source: [soundcheck](https://soundcheck.club/e/2537434-cage-by-undr-techno-hard-techno-kinky-at-amt/)*

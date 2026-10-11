@@ -1,6 +1,6 @@
 # Dylan Fogarty
 
-Dylan Fogarty is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Frame, Dublin on Sat, 17 Oct 2026.
+Dylan Fogarty is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Frame, Dublin on Sat, 17 Oct 2026.
 
 Dylan Fogarty is a techno and house artist based in Ireland, with 125 gigs on soundcheck across Aberdeen, Amsterdam, Belfast and Belgrade and 30 more. Often billed alongside CULT, Antigone and Vromo. Next up: Frame, Dublin on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Dylan Fogarty is a techno and house artist based in Ireland, with 125 gigs on so
 
 CULT, Antigone, Vromo
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanfogarty/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanfogarty/)*

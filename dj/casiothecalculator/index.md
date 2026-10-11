@@ -1,6 +1,6 @@
 # Casio the Calculator
 
-Casio the Calculator is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
+Casio the Calculator is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
 
 Casio the Calculator is an electro and tech house artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam, Krakow and Utrecht. Often billed alongside Abu Samer, Mia Cecille and Balanza Saito. Next up: ingang, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Casio the Calculator is an electro and tech house artist based in Netherlands, w
 
 Abu Samer, Mia Cecille, Balanza Saito
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casiothecalculator/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casiothecalculator/)*

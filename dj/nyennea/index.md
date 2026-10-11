@@ -1,6 +1,6 @@
 # Nyennea
 
-Nyennea is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Studio1111, Berlin on Fri, 16 Oct 2026.
+Nyennea is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Studio1111, Berlin on Fri, 16 Oct 2026.
 
 Nyennea is a club and experimental artist based in Greece, with 15 gigs on soundcheck across Berlin. Often billed alongside Porschelane, Anthracene and bod [包家巷]. Next up: Studio1111, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Nyennea is a club and experimental artist based in Greece, with 15 gigs on sound
 
 Porschelane, Anthracene, bod [包家巷]
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyennea/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyennea/)*

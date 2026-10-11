@@ -1,6 +1,6 @@
 # DECONOFF
 
-DECONOFF is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at UMI, Brussels on Fri, 6 Nov 2026.
+DECONOFF is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at UMI, Brussels on Fri, 6 Nov 2026.
 
 DECONOFF is a techno and house artist based in Cyprus, with 7 gigs on soundcheck across Brussels. Often billed alongside NAD!NE, INDY.B and Laura Charlier. Next up: UMI, Brussels on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ DECONOFF is a techno and house artist based in Cyprus, with 7 gigs on soundcheck
 
 NAD!NE, INDY.B, Laura Charlier
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deconoff/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deconoff/)*

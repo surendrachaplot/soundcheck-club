@@ -1,6 +1,6 @@
 # Subterrannean
 
-Subterrannean is a music venue in Chicago with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Nexus 6: Dark Industrial Techno" on Fri, 16 Oct 2026.
+Subterrannean is a music venue in Chicago with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Nexus 6: Dark Industrial Techno" on Fri, 16 Oct 2026.
 
 Subterrannean is a music venue in Chicago listed on soundcheck. 4 upcoming gigs, with line-ups including DJ Flesh_Bot, DJ Sprite and Takuya Nakamura. See dates, start times and who's playing. 2011 W North Ave, Chicago, IL 60622, USA.
 
@@ -17,4 +17,4 @@ Subterrannean is a music venue in Chicago listed on soundcheck. 4 upcoming gigs,
 
 2011 W North Ave, Chicago, IL 60622, USA, Chicago
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/subterrannean/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/subterrannean/)*

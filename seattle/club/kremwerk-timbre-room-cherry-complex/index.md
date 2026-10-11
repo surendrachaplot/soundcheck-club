@@ -1,16 +1,13 @@
 # Kremwerk-Timbre Room-Cherry Complex
 
-Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "KARAN! at Impact" on Sat, 10 Oct 2026.
+Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "OFF99 presents: Fred P" on Fri, 16 Oct 2026.
 
-Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle listed on soundcheck. 9 upcoming gigs, with line-ups including 2AT, ACHAMA, August V. M. and CFCF and 2 more. See dates, start times and who's playing. 1809 Minor Ave #10, Seattle, WA 98101 USA.
+Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle listed on soundcheck. 6 upcoming gigs, with line-ups including 2AT, ACHAMA, August V. M. and CFCF and 2 more. See dates, start times and who's playing. 1809 Minor Ave #10, Seattle, WA 98101 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | KARAN! at Impact | KARAN! |
-| Sat, 10 Oct 2026 | Disco Dust: All Vinyl Night feat. Eddie C | Eddie C, Théque Support |
-| Sat, 10 Oct 2026 | TURBO: DNB Showcase | Klippee, Mirin Doja |
 | Fri, 16 Oct 2026 | OFF99 presents: Fred P | Fred P, Nick Carroll |
 | Sat, 17 Oct 2026 | Sazón Seattle Halloween feat. 2AT | 2AT, ACHAMA, La Mala Noche |
 | Sat, 17 Oct 2026 | Rollercoaster of Dubs: August V.M, Jennifer Spektor, 'nohup' | 'nohup', August V. M., Jennifer Spektor |
@@ -22,4 +19,4 @@ Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle listed on soundc
 
 1809 Minor Ave #10, Seattle, WA 98101 USA, Seattle
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/kremwerk-timbre-room-cherry-complex/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/kremwerk-timbre-room-cherry-complex/)*

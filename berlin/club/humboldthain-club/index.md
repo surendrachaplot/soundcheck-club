@@ -1,15 +1,13 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 19 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "zauberhaft! Vol. 5 - STAY CORE (TAG DER CLUBKULTUR 2026)" on Sat, 10 Oct 2026.
+Humboldthain Club is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Open Decks & Tischtennis" on Tue, 13 Oct 2026.
 
-Humboldthain Club is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, with line-ups including YOVA, Anne-Sophie Selig, Atze G and B.R.K.Ø. and 2 more. See dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
+Humboldthain Club is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including YOVA, Atze G, B.R.K.Ø. and Bamela Paywatch and 2 more. See dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | zauberhaft! Vol. 5 - STAY CORE (TAG DER CLUBKULTUR 2026) | Anne-Sophie Selig, Der olle Kramer, Pfarrersøn, R2-RO, Ziggy V'Niles, tzunamic |
-| Sat, 10 Oct 2026 | AUTUMM BOUNCE: NO GRAVITY x ETERNITY x WIEDER | Callado, Emma Moon, Obelisk030, SALCHIKILLER, SKKIN VELVET, mølly (on molly) |
 | Tue, 13 Oct 2026 | Open Decks & Tischtennis |  |
 | Fri, 16 Oct 2026 | Abgedreht Birthday Bash | B.R.K.Ø., DJ.Egoshooter10000, OnlyWithYou, RichBeat, Vanree, [jnny], cilu, e.leptic |
 | Sat, 17 Oct 2026 | Hip Hop culture day/Hip hop Kulturtag |  |
@@ -18,9 +16,11 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 19 upcoming g
 | Sat, 24 Oct 2026 | Subway Surfers Vol. IV |  |
 | Tue, 27 Oct 2026 | Open Decks & Tischtennis |  |
 | Fri, 30 Oct 2026 | Das Zündet | Diskohengst, Tom Kutsche |
+| Tue, 3 Nov 2026 | Open Decks & Tischtennis |  |
+| Sat, 7 Nov 2026 | Lange Nacht der Wissenschaft X PhonoVision | Bamela Paywatch, HiHat, Ini Lamborghini, Lenny Fuck, Pavelo Promillo, so:fein |
 
 ## Address
 
 Hochstraße 46; 13357 Berlin; Germany, Berlin
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*

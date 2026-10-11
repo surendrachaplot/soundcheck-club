@@ -1,6 +1,6 @@
 # long w
 
-long w is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Legendarium, Poland on Sat, 7 Nov 2026.
+long w is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Legendarium, Poland on Sat, 7 Nov 2026.
 
 long w is a bass and techno artist based in Poland, with 26 gigs on soundcheck across Poland and Warsaw. Often billed alongside SHHME, Some Guest and Muzaman. Next up: Legendarium, Poland on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ long w is a bass and techno artist based in Poland, with 26 gigs on soundcheck a
 
 SHHME, Some Guest, Muzaman
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/longw/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/longw/)*

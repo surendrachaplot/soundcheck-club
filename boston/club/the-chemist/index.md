@@ -1,6 +1,6 @@
 # The Chemist
 
-The Chemist is a music venue in Boston with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Foundation 012" on Thu, 15 Oct 2026.
+The Chemist is a music venue in Boston with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Foundation 012" on Thu, 15 Oct 2026.
 
 The Chemist is a music venue in Boston listed on soundcheck. 4 upcoming gigs, with line-ups including Chelita, Courtney Bailey, Medux and Sergio Santos. See dates, start times and who's playing. 109 High St, Boston, MA, 02110.
 
@@ -17,4 +17,4 @@ The Chemist is a music venue in Boston listed on soundcheck. 4 upcoming gigs, wi
 
 109 High St, Boston, MA, 02110, Boston
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-chemist/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-chemist/)*

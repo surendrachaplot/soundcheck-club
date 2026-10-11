@@ -1,14 +1,13 @@
 # Loukeman
 
-Loukeman is a House and Electronica artist with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Fortune Sound Club, Vancouver on Sat, 10 Oct 2026.
+Loukeman is a House and Electronica artist with 11 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The Ground at Club Space, Miami on Thu, 15 Oct 2026.
 
-Loukeman is a house and electronica artist based in Canada, with 35 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 12 more. Often billed alongside Lis Dalton, Marie Davidson and Nick León. Next up: Fortune Sound Club, Vancouver on Sat 10 Oct.
+Loukeman is a house and electronica artist based in Canada, with 35 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 12 more. Often billed alongside Lis Dalton, Marie Davidson and Nick León. Next up: The Ground at Club Space, Miami on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Fortune Sound Club | Vancouver |
 | Thu, 15 Oct 2026 | The Ground at Club Space | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Thu, 29 Oct 2026 | Lark | Berlin |
@@ -23,6 +22,7 @@ Loukeman is a house and electronica artist based in Canada, with 35 gigs on soun
 
 ## Recently played
 
+- Fortune Sound Club, Vancouver · Sat, 10 Oct 2026
 - Smoke & Mirrors, Chicago · Thu, 1 Oct 2026
 - TBA, Toronto · Fri, 11 Sept 2026
 - Hito Scheveningen, The Hague · Sat, 8 Aug 2026
@@ -30,10 +30,9 @@ Loukeman is a house and electronica artist based in Canada, with 35 gigs on soun
 - Piknic Électronik / Parc Jean Drapeau, Montreal · Fri, 26 Jun 2026
 - Carriageworks, Sydney · Fri, 12 Jun 2026
 - Carriageworks, Sydney · Fri, 12 Jun 2026
-- M.O.T, London · Thu, 4 Jun 2026
 
 ## Shares bills with
 
 Lis Dalton, Marie Davidson, Nick León
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loukeman/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loukeman/)*

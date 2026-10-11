@@ -1,6 +1,6 @@
 # Inpulse
 
-Inpulse is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Macarena Club, Barcelona on Thu, 22 Oct 2026.
+Inpulse is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Macarena Club, Barcelona on Thu, 22 Oct 2026.
 
 Inpulse is a techno and house artist, with 51 gigs on soundcheck across Barcelona. Often billed alongside Baffa, DJ MELEJ and Onoffon. Next up: Macarena Club, Barcelona on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Inpulse is a techno and house artist, with 51 gigs on soundcheck across Barcelon
 
 Baffa, DJ MELEJ, Onoffon
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inpulse/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inpulse/)*

@@ -1,14 +1,13 @@
 # Volks
 
-Volks is a music venue in Brighton with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "A.M.C presents: Grassroots Energy (Brighton)" on Sat, 10 Oct 2026.
+Volks is a music venue in Brighton with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Sigma" on Sat, 17 Oct 2026.
 
-Volks is a music venue in Brighton listed on soundcheck. 9 upcoming gigs, with line-ups including A.M.C., DJ Brockie, DRS and Fracture and 2 more. See dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
+Volks is a music venue in Brighton listed on soundcheck. 8 upcoming gigs, with line-ups including DJ Brockie, DRS, Fracture and Funsta and 2 more. See dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | A.M.C presents: Grassroots Energy (Brighton) | A.M.C. |
 | Sat, 17 Oct 2026 | Sigma | Sigma |
 | Fri, 23 Oct 2026 | 160 Brighton presents: Tim Reaper b2b Fracture (3-hour set) | Fracture, Tim Reaper |
 | Sat, 31 Oct 2026 | LSB + DRS present: Space Age Halloween Special | DRS, LSB, Mindstate, Verbz, imo-Lu |
@@ -22,4 +21,4 @@ Volks is a music venue in Brighton listed on soundcheck. 9 upcoming gigs, with l
 
 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom, Brighton
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*

@@ -1,6 +1,6 @@
 # picchu
 
-picchu is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Motel Campo, Geneva on Sat, 31 Oct 2026.
+picchu is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Motel Campo, Geneva on Sat, 31 Oct 2026.
 
 picchu is a techno and trance artist based in Switzerland, with 14 gigs on soundcheck across Geneva, Paris and Zurich. Often billed alongside Braises de Velours, Eva May and Gioski. Next up: Motel Campo, Geneva on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ picchu is a techno and trance artist based in Switzerland, with 14 gigs on sound
 
 Braises de Velours, Eva May, Gioski
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/picchu/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/picchu/)*

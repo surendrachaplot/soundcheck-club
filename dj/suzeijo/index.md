@@ -1,14 +1,13 @@
 # Suze Ijó
 
-Suze Ijó is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Night Tales, London on Sat, 10 Oct 2026.
+Suze Ijó is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Potato Head Beach Club, Bali on Fri, 16 Oct 2026.
 
-Suze Ijó is a house and techno artist based in Netherlands, with 211 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 50 more. Often billed alongside Gabrielle Kwarteng, Fafi Abdel Nour and CARISTA. Next up: Night Tales, London on Sat 10 Oct.
+Suze Ijó is a house and techno artist based in Netherlands, with 211 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 50 more. Often billed alongside Gabrielle Kwarteng, Fafi Abdel Nour and CARISTA. Next up: Potato Head Beach Club, Bali on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Night Tales | London |
 | Fri, 16 Oct 2026 | Potato Head Beach Club | Bali |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Fri, 30 Oct 2026 | Société des arts technologiques | Montreal |
@@ -19,6 +18,7 @@ Suze Ijó is a house and techno artist based in Netherlands, with 211 gigs on so
 
 ## Recently played
 
+- Night Tales, London · Sat, 10 Oct 2026
 - control, Bucharest · Thu, 1 Oct 2026
 - Knockdown Center, New York City · Sat, 29 Aug 2026
 - Circle Park, Brussels · Sat, 22 Aug 2026
@@ -26,10 +26,9 @@ Suze Ijó is a house and techno artist based in Netherlands, with 211 gigs on so
 - Amsterdamse Bos, Amsterdam · Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
 - Thuishaven, Amsterdam · Sun, 12 Jul 2026
-- BIRD, Rotterdam · Fri, 10 Jul 2026
 
 ## Shares bills with
 
 Gabrielle Kwarteng, Fafi Abdel Nour, CARISTA
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suzeijo/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suzeijo/)*

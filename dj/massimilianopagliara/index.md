@@ -1,14 +1,13 @@
 # Massimiliano Pagliara
 
-Massimiliano Pagliara is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Pérola Negra Club, Porto on Sat, 10 Oct 2026.
+Massimiliano Pagliara is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at New Century Locker, Manchester on Fri, 16 Oct 2026.
 
-Massimiliano Pagliara is a house and techno artist based in Italy, with 251 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: Pérola Negra Club, Porto on Sat 10 Oct.
+Massimiliano Pagliara is a house and techno artist based in Italy, with 251 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: New Century Locker, Manchester on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Pérola Negra Club | Porto |
 | Fri, 16 Oct 2026 | New Century Locker | Manchester |
 | Sat, 17 Oct 2026 | Fuchs2 | Prague |
 | Fri, 23 Oct 2026 | KREUZWERK | Berlin |
@@ -21,6 +20,7 @@ Massimiliano Pagliara is a house and techno artist based in Italy, with 251 gigs
 
 ## Recently played
 
+- Pérola Negra Club, Porto · Sat, 10 Oct 2026
 - Apollo Club Milano, Milan · Fri, 9 Oct 2026
 - Société des arts technologiques, Montreal · Sat, 3 Oct 2026
 - KALT, Strasbourg · Sat, 26 Sept 2026
@@ -28,10 +28,9 @@ Massimiliano Pagliara is a house and techno artist based in Italy, with 251 gigs
 - BASEMENT, New York City · Sat, 19 Sept 2026
 - Jolene Downtown Miami, Miami · Fri, 18 Sept 2026
 - Jolene Downtown Miami, Miami · Thu, 17 Sept 2026
-- Kiku Room, San Diego · Sun, 13 Sept 2026
 
 ## Shares bills with
 
 Jorkes, Boris, Luigi Di Venere
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*

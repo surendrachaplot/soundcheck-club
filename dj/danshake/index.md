@@ -1,14 +1,13 @@
 # Dan Shake
 
-Dan Shake is a House and Disco artist with 13 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Switch, Porto on Sat, 10 Oct 2026.
+Dan Shake is a House and Disco artist with 12 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Pavilhão Carlos Lopes, Lisbon on Sat, 17 Oct 2026.
 
-Dan Shake is a house and disco artist based in United Kingdom, with 201 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 47 more. Often billed alongside Eliza Rose, Eats Everything and MiNNA. Next up: Switch, Porto on Sat 10 Oct.
+Dan Shake is a house and disco artist based in United Kingdom, with 201 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 47 more. Often billed alongside Eliza Rose, Eats Everything and MiNNA. Next up: Pavilhão Carlos Lopes, Lisbon on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Switch | Porto |
 | Sat, 17 Oct 2026 | Pavilhão Carlos Lopes | Lisbon |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Thu, 22 Oct 2026 | Madam | Amsterdam |
@@ -20,9 +19,11 @@ Dan Shake is a house and disco artist based in United Kingdom, with 201 gigs on 
 | Sat, 7 Nov 2026 | Roig Arena | Valencia |
 | Fri, 13 Nov 2026 | DRUMSHEDS | London |
 | Sat, 28 Nov 2026 | Cabaret Sauvage | Paris |
+| Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
+- Switch, Porto · Sat, 10 Oct 2026
 - Sala Villanos, Madrid · Fri, 9 Oct 2026
 - CRL Warehouse, North · Sat, 3 Oct 2026
 - TBA - Various Venues, Malta · Thu, 1 Oct 2026
@@ -30,10 +31,9 @@ Dan Shake is a house and disco artist based in United Kingdom, with 201 gigs on 
 - Amnesia Ibiza, Ibiza · Fri, 25 Sept 2026
 - Amnesia Ibiza, Ibiza · Fri, 18 Sept 2026
 - MIDNIGHT EAST, Tokyo · Fri, 11 Sept 2026
-- Soap Seoul., Seoul · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Eliza Rose, Eats Everything, MiNNA
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*

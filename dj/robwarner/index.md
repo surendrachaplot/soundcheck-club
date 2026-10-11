@@ -1,6 +1,6 @@
 # Rob Warner
 
-Rob Warner is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Leighton's Farm, Auckland on Wed, 30 Dec 2026.
+Rob Warner is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Leighton's Farm, Auckland on Wed, 30 Dec 2026.
 
 Rob Warner is a techno and psytrance artist, with 8 gigs on soundcheck across Auckland. Often billed alongside Out Of Sorts, Paige Julia and Dylan C. Next up: Leighton's Farm, Auckland on Wed 30 Dec.
 
@@ -24,4 +24,4 @@ Rob Warner is a techno and psytrance artist, with 8 gigs on soundcheck across Au
 
 Out Of Sorts, Paige Julia, Dylan C
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robwarner/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robwarner/)*

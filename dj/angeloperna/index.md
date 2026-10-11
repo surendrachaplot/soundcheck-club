@@ -1,6 +1,6 @@
 # Angelo Perna
 
-Angelo Perna is a Afrobeat and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Audioteca, Naples on Fri, 16 Oct 2026.
+Angelo Perna is a Afrobeat and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Audioteca, Naples on Fri, 16 Oct 2026.
 
 Angelo Perna is an afrobeat and disco artist based in Italy, with 29 gigs on soundcheck across Naples. Often billed alongside Davide D'Amico, Napoli Segreta and Danilo Plessow. Next up: Audioteca, Naples on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Angelo Perna is an afrobeat and disco artist based in Italy, with 29 gigs on sou
 
 Davide D'Amico, Napoli Segreta, Danilo Plessow
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angeloperna/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angeloperna/)*

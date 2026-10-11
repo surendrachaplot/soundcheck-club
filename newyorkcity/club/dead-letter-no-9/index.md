@@ -1,14 +1,13 @@
 # Dead Letter No. 9
 
-Dead Letter No. 9 is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "DLN9 3rd Year Anniversary! Ksenyeah + Manguito, Timo Lee, Joopiter, SMURFOUDIRTY, Robert PM" on Sat, 10 Oct 2026.
+Dead Letter No. 9 is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Open Decks + Industry Night - Dead Letter No.9" on Sun, 11 Oct 2026.
 
-Dead Letter No. 9 is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including Acid Mama, Bea Hardy, beewack and Borbón and 2 more. See dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
+Dead Letter No. 9 is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including Acid Mama, Bea Hardy, beewack and boyyyish and 2 more. See dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | DLN9 3rd Year Anniversary! Ksenyeah + Manguito, Timo Lee, Joopiter, SMURFOUDIRTY, Robert PM | Borbón, Joopiter, Ksenyeah, Manguito, Robert PM, SMURFOUDIRTY, Timo Lee, Tony Flow |
 | Sun, 11 Oct 2026 | Open Decks + Industry Night - Dead Letter No.9 |  |
 | Fri, 16 Oct 2026 | Jean d'Armes, Lord Fascinator, Laura Lynn, Mr. Handyman - Dead Letter No.9 | Laura Lynn, Lord Fascinator |
 | Sat, 17 Oct 2026 | Peter Napoli, Prince Rose, Clubsásta: Nasti & Ru Mac, Rich Rotas - Dead Letter No.9 | Peter Napoli, Prince Rose, Rich Rotas |
@@ -22,4 +21,4 @@ Dead Letter No. 9 is a music venue in New York City listed on soundcheck. 9 upco
 
 63 Grand St, Brooklyn, NY 11249, USA, New York City
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*

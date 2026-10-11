@@ -1,6 +1,6 @@
 # Linska
 
-Linska is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Night We Met, Nashville on Fri, 23 Oct 2026.
+Linska is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Night We Met, Nashville on Fri, 23 Oct 2026.
 
 Linska is a house and techno artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 19 more. Often billed alongside Gorgon City, Eli Brown and Adam Beyer. Next up: Night We Met, Nashville on Fri 23 Oct.
 
@@ -32,4 +32,4 @@ Linska is a house and techno artist based in United Kingdom, with 49 gigs on sou
 
 Gorgon City, Eli Brown, Adam Beyer
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*

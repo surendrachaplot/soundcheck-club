@@ -1,6 +1,6 @@
 # Flora Yin-Wong
 
-Flora Yin-Wong is a Experimental and Ambient artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Raleigh Chapel, London on Thu, 15 Oct 2026.
+Flora Yin-Wong is a Experimental and Ambient artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Raleigh Chapel, London on Thu, 15 Oct 2026.
 
 Flora Yin-Wong is an experimental and ambient artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Athens, Berlin and Bristol and 19 more. Often billed alongside Ekaterina Bazhenova-Yamasaki, Ana Quiroga and Astrid Sonne. Next up: Raleigh Chapel, London on Thu 15 Oct.
 
@@ -27,4 +27,4 @@ Flora Yin-Wong is an experimental and ambient artist based in United Kingdom, wi
 
 Ekaterina Bazhenova-Yamasaki, Ana Quiroga, Astrid Sonne
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/florayin-wong/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/florayin-wong/)*

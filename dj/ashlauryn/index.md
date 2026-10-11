@@ -1,15 +1,13 @@
 # Ash Lauryn
 
-Ash Lauryn is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+Ash Lauryn is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Club 77, Sydney on Sun, 11 Oct 2026.
 
-Ash Lauryn is a house and techno artist based in United States of America, with 131 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside The AM/AMX, JADALAREIGN and Ben UFO. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
+Ash Lauryn is a house and techno artist based in United States of America, with 131 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside The AM/AMX, JADALAREIGN and Ben UFO. Next up: Club 77, Sydney on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
-| Sat, 10 Oct 2026 | The Thornbury Theatre | Victoria |
 | Sun, 11 Oct 2026 | Club 77 | Sydney |
 | Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
@@ -17,6 +15,7 @@ Ash Lauryn is a house and techno artist based in United States of America, with 
 
 ## Recently played
 
+- The Thornbury Theatre, Victoria · Sat, 10 Oct 2026
 - Paradiso Music Room, Byron-bay · Fri, 9 Oct 2026
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
@@ -24,10 +23,9 @@ Ash Lauryn is a house and techno artist based in United States of America, with 
 - TBA - Near Villeray, Montreal · Sat, 26 Sept 2026
 - Mess Hall, Washington DC · Sun, 20 Sept 2026
 - Signal, New York City · Fri, 21 Aug 2026
-- Suvilahti Power Plant, Helsinki · Fri, 14 Aug 2026
 
 ## Shares bills with
 
 The AM/AMX, JADALAREIGN, Ben UFO
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashlauryn/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashlauryn/)*

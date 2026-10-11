@@ -1,14 +1,13 @@
 # The Yard
 
-The Yard is a music venue in Manchester with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Resonate Mcr pres. 30 Years of Freerange" on Sat, 10 Oct 2026.
+The Yard is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "DJ Club x Discability: ALL ACCESS" on Sat, 24 Oct 2026.
 
-The Yard is a music venue in Manchester listed on soundcheck. 6 upcoming gigs, with line-ups including 13Ø4, Adam Freeland, Alex Q and Black Loops and 2 more. See dates, start times and who's playing. 11 Bent Street, Manchester M8 8NF.
+The Yard is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, with line-ups including 13Ø4, Adam Freeland, Alex Q and chlo333e and 2 more. See dates, start times and who's playing. 11 Bent Street, Manchester M8 8NF.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Resonate Mcr pres. 30 Years of Freerange | Black Loops, Jimpster |
 | Sat, 24 Oct 2026 | DJ Club x Discability: ALL ACCESS | Cosmikuro, FAGASH, GINA (UK), MBB_, Princess Elf Bar, SDJ (1), chlo333e, maevie, mamba.exe |
 | Sat, 31 Oct 2026 | OBSCURUM ( Halloween X Thadingyut ) | 13Ø4, Egui, Freshta, Jumbled, KOSO, Obeka, Qoqnut, Third Kulture, krioso |
 | Sat, 7 Nov 2026 | Five years of Pambuku - Onur Özer, Vass, P.O (live)  | Alex Q (3), Cruveiller, Onur Özer, P.O (1), Vass |
@@ -19,4 +18,4 @@ The Yard is a music venue in Manchester listed on soundcheck. 6 upcoming gigs, w
 
 11 Bent Street, Manchester M8 8NF, Manchester
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-yard/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-yard/)*

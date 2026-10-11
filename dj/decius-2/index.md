@@ -1,6 +1,6 @@
 # Decius
 
-Decius is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 11 Oct 2026.
+Decius is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 11 Oct 2026.
 
 Decius is a techno and house artist based in United Kingdom, with 31 gigs on soundcheck across Berlin, Bristol, Bucharest and Dublin and 11 more. Often billed alongside Chez de Milo, Ellie Stokes and Erol Alkan. Next up: Pikes Ibiza, Ibiza on Sun 11 Oct.
 
@@ -29,4 +29,4 @@ Decius is a techno and house artist based in United Kingdom, with 31 gigs on sou
 
 Chez de Milo, Ellie Stokes, Erol Alkan
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/decius-2/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/decius-2/)*

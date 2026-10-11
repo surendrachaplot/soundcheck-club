@@ -1,14 +1,13 @@
 # SACID
 
-SACID is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Fitzroy, Berlin on Sat, 10 Oct 2026.
+SACID is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Crack Bellmer, Berlin on Thu, 15 Oct 2026.
 
-SACID is a trance and techno artist based in Germany, with 125 gigs on soundcheck across Bavaria, Berlin, Cologne and Hamburg and 6 more. Often billed alongside Alina Viktoria, Aexhy and H369. Next up: Fitzroy, Berlin on Sat 10 Oct.
+SACID is a trance and techno artist based in Germany, with 125 gigs on soundcheck across Bavaria, Berlin, Cologne and Hamburg and 6 more. Often billed alongside Alina Viktoria, Aexhy and H369. Next up: Crack Bellmer, Berlin on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Fitzroy | Berlin |
 | Thu, 15 Oct 2026 | Crack Bellmer | Berlin |
 | Fri, 16 Oct 2026 | Richard Wagner Museum | Bavaria |
 | Sat, 24 Oct 2026 | ://about blank | Berlin |
@@ -16,6 +15,7 @@ SACID is a trance and techno artist based in Germany, with 125 gigs on soundchec
 
 ## Recently played
 
+- Fitzroy, Berlin · Sat, 10 Oct 2026
 - Jonny Knüppel, Berlin · Sat, 3 Oct 2026
 - frachtkante, Berlin · Sat, 26 Sept 2026
 - ://about blank, Berlin · Sat, 26 Sept 2026
@@ -23,10 +23,9 @@ SACID is a trance and techno artist based in Germany, with 125 gigs on soundchec
 - Jonny Knüppel, Berlin · Sat, 5 Sept 2026
 - Jonny Knüppel, Berlin · Fri, 21 Aug 2026
 - Lokschuppen Berlin, Berlin · Fri, 31 Jul 2026
-- Jonny Knüppel, Berlin · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Alina Viktoria, Aexhy, H369
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sacid/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sacid/)*

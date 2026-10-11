@@ -1,6 +1,6 @@
 # Mitsuki
 
-Mitsuki is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at The Edge Seoul, Seoul on Sat, 17 Oct 2026.
+Mitsuki is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The Edge Seoul, Seoul on Sat, 17 Oct 2026.
 
 Mitsuki is a deep house and house artist, with 19 gigs on soundcheck across Hobart, Kyoto, Melbourne and Osaka and 1 more. Often billed alongside DJ Compufunk, Tim Heaney and Abdul Qadim Haqq. Next up: The Edge Seoul, Seoul on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Mitsuki is a deep house and house artist, with 19 gigs on soundcheck across Hoba
 
 DJ Compufunk, Tim Heaney, Abdul Qadim Haqq
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mitsuki/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mitsuki/)*

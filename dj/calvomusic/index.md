@@ -1,6 +1,6 @@
 # CalvoMusic
 
-CalvoMusic is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Umbria Arts, Philadelphia on Sat, 31 Oct 2026.
+CalvoMusic is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Umbria Arts, Philadelphia on Sat, 31 Oct 2026.
 
 CalvoMusic is a club and techno artist based in United States of America, with 26 gigs on soundcheck across Berlin, Chicago, Glasgow and London and 3 more. Often billed alongside Kade Young, DJ-SUN and Syd (US). Next up: Umbria Arts, Philadelphia on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ CalvoMusic is a club and techno artist based in United States of America, with 2
 
 Kade Young, DJ-SUN, Syd (US)
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calvomusic/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calvomusic/)*

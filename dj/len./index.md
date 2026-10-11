@@ -1,6 +1,6 @@
 # LEN.
 
-LEN. is a Minimal and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at NDR2 Red Room, Newcastle on Fri, 16 Oct 2026.
+LEN. is a Minimal and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at NDR2 Red Room, Newcastle on Fri, 16 Oct 2026.
 
 LEN. is a minimal and electro artist based in United Kingdom, with 19 gigs on soundcheck across Berlin, Leeds, Liverpool and London and 2 more. Often billed alongside Alisdair, JYE. and Aris (Ldn). Next up: NDR2 Red Room, Newcastle on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ LEN. is a minimal and electro artist based in United Kingdom, with 19 gigs on so
 
 Alisdair, JYE., Aris (Ldn)
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/len./)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/len./)*

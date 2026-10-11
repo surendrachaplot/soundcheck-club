@@ -1,6 +1,6 @@
 # RINGERS
 
-RINGERS is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at The Drop inn, Birmingham on Fri, 30 Oct 2026.
+RINGERS is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The Drop inn, Birmingham on Fri, 30 Oct 2026.
 
 RINGERS is a garage and jungle artist based in United Kingdom, with 18 gigs on soundcheck across Birmingham, Leeds, London and Nottingham. Often billed alongside Syntax, Bad B!tch Dubz and Bakey. Next up: The Drop inn, Birmingham on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ RINGERS is a garage and jungle artist based in United Kingdom, with 18 gigs on s
 
 Syntax (2), Bad B!tch Dubz, Bakey
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ringers/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ringers/)*

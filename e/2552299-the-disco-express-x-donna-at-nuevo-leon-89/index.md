@@ -1,6 +1,6 @@
 # The Disco Express x Donna at Nuevo Leon 89
 
-The Disco Express x Donna at Nuevo Leon 89 on Fri 16 Oct, Mexico City. 4 artists: Bustin' Loose, Lu Fortis, Monsieur Van Pratt and Zerya. House and Disco. See the line-up on soundcheck.
+The Disco Express x Donna at Nuevo Leon 89 on Fri 16 Oct, Mexico City. 3 artists: Lu Fortis, Monsieur Van Pratt and Zerya. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ The Disco Express x Donna at Nuevo Leon 89 on Fri 16 Oct, Mexico City. 4 artists
 
 ## Line-up
 
-- Bustin' Loose
 - Lu Fortis
 - Monsieur Van Pratt
 - Zerya

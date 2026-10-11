@@ -1,6 +1,6 @@
 # Yoshinori Hayashi
 
-Yoshinori Hayashi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at 桃園玉山街影視基地, Taipei on Sat, 24 Oct 2026.
+Yoshinori Hayashi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at 桃園玉山街影視基地, Taipei on Sat, 24 Oct 2026.
 
 Yoshinori Hayashi is a house and techno artist based in Japan, with 30 gigs on soundcheck across Hong Kong, Kyoto, Melbourne and Seoul and 2 more. Often billed alongside Gonno, SIGNAL (JP) and Satoshi Otsuki. Next up: 桃園玉山街影視基地, Taipei on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Yoshinori Hayashi is a house and techno artist based in Japan, with 30 gigs on s
 
 Gonno, SIGNAL (JP), Satoshi Otsuki
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshinorihayashi/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshinorihayashi/)*

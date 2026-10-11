@@ -1,6 +1,6 @@
 # Melrose Ballroom
 
-Melrose Ballroom is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. The next is "AUTUMN LIGHTS FESTIVAL" on Fri, 20 Nov 2026.
+Melrose Ballroom is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "AUTUMN LIGHTS FESTIVAL" on Fri, 20 Nov 2026.
 
 Melrose Ballroom is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Blasterjaxx, Gammer, LNY TNZ and Lush Tempora and 1 more. See dates, start times and who's playing. 36-08 33rd st. Astoria, NY 11106.
 
@@ -14,4 +14,4 @@ Melrose Ballroom is a music venue in New York City listed on soundcheck. 1 upcom
 
 36-08 33rd st. Astoria, NY 11106, New York City
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/melrose-ballroom/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/melrose-ballroom/)*

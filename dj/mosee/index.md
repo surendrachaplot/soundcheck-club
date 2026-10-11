@@ -1,6 +1,6 @@
 # MÖSEE
 
-MÖSEE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at BERHTA, Washington DC on Fri, 16 Oct 2026.
+MÖSEE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at BERHTA, Washington DC on Fri, 16 Oct 2026.
 
 MÖSEE is a house and techno artist based in Iran, with 23 gigs on soundcheck across Detroit, New York City, San Diego and Washington DC. Often billed alongside Eric Yaz, enz.O and Jus Nowhere. Next up: BERHTA, Washington DC on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ MÖSEE is a house and techno artist based in Iran, with 23 gigs on soundcheck ac
 
 Eric Yaz, enz.O, Jus Nowhere
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mosee/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mosee/)*

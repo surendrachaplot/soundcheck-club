@@ -1,19 +1,19 @@
 # Ava Eva
 
-Ava Eva is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at UMI, Brussels on Sat, 10 Oct 2026.
+Ava Eva is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at De Sering, Amsterdam on Thu, 22 Oct 2026.
 
-Ava Eva is a house and electro artist based in Belgium, with 57 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside Bibi Seck, John Noseda and VTT (BE). Next up: UMI, Brussels on Sat 10 Oct.
+Ava Eva is a house and electro artist based in Belgium, with 57 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside Bibi Seck, John Noseda and VTT (BE). Next up: De Sering, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | UMI | Brussels |
 | Thu, 22 Oct 2026 | De Sering | Amsterdam |
 | Wed, 11 Nov 2026 | TBA - Ghent | Ghent |
 
 ## Recently played
 
+- UMI, Brussels · Sat, 10 Oct 2026
 - Place D'espagne, Brussels · Sat, 12 Sept 2026
 - Place Noord, Brussels · Sat, 5 Sept 2026
 - Schans van Landmolen, Antwerp · Sat, 1 Aug 2026
@@ -21,10 +21,9 @@ Ava Eva is a house and electro artist based in Belgium, with 57 gigs on soundche
 - Lavallée, Brussels · Sat, 18 Jul 2026
 - TBA - Paradise City Festival, Brussels · Fri, 26 Jun 2026
 - UMI, Brussels · Sat, 6 Jun 2026
-- B21, Brussels · Sat, 30 May 2026
 
 ## Shares bills with
 
 Bibi Seck, John Noseda, VTT (BE)
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avaeva/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avaeva/)*

@@ -1,6 +1,6 @@
 # Simon Scott
 
-Simon Scott is a Downtempo and Ambient artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Outlaws Yacht Club, Leeds on Sun, 11 Oct 2026.
+Simon Scott is a Downtempo and Ambient artist with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Outlaws Yacht Club, Leeds on Sun, 11 Oct 2026.
 
 Simon Scott is a downtempo and ambient artist based in United Kingdom, with 126 gigs on soundcheck across Belgrade, Brighton, Glasgow and Leeds and 3 more. Often billed alongside Mike BC, Iration Steppas and Slacky [Space Ritual]. Next up: Outlaws Yacht Club, Leeds on Sun 11 Oct.
 
@@ -32,4 +32,4 @@ Simon Scott is a downtempo and ambient artist based in United Kingdom, with 126 
 
 Mike BC, Iration Steppas, Slacky [Space Ritual]
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonscott/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonscott/)*

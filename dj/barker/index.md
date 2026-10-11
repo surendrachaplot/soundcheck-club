@@ -1,14 +1,13 @@
 # Barker
 
-Barker is a Techno and Experimental artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Mandela Hall, Belfast on Sat, 10 Oct 2026.
+Barker is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Bassiani, Tbilisi on Fri, 6 Nov 2026.
 
-Barker is a techno and experimental artist based in United Kingdom, with 100 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Bangkok and 32 more. Often billed alongside JakoJako, Gabrielle Kwarteng and Virginia. Next up: Mandela Hall, Belfast on Sat 10 Oct.
+Barker is a techno and experimental artist based in United Kingdom, with 100 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Bangkok and 32 more. Often billed alongside JakoJako, Gabrielle Kwarteng and Virginia. Next up: Bassiani, Tbilisi on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Mandela Hall | Belfast |
 | Fri, 6 Nov 2026 | Bassiani | Tbilisi |
 | Sat, 14 Nov 2026 | Sawmills | Bristol |
 | Fri, 27 Nov 2026 | La Cúpula del Palacio Libertad | Buenos Aires |
@@ -18,6 +17,7 @@ Barker is a techno and experimental artist based in United Kingdom, with 100 gig
 
 ## Recently played
 
+- Mandela Hall, Belfast · Sat, 10 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 3 Oct 2026
 - Lofi, Amsterdam · Sat, 26 Sept 2026
 - ZENNER, Berlin · Thu, 24 Sept 2026
@@ -25,10 +25,9 @@ Barker is a techno and experimental artist based in United Kingdom, with 100 gig
 - Open Ground, Wuppertal · Sat, 12 Sept 2026
 - Nitsa Club, Barcelona · Fri, 11 Sept 2026
 - TBA - av insurgentes sur 105, roma sur, Mexico City · Fri, 4 Sept 2026
-- Société des arts technologiques, Montreal · Wed, 26 Aug 2026
 
 ## Shares bills with
 
 JakoJako, Gabrielle Kwarteng, Virginia
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barker/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barker/)*

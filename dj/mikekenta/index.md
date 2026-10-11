@@ -1,6 +1,6 @@
 # Mike Kenta
 
-Mike Kenta is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Pawnshop, Taipei on Fri, 30 Oct 2026.
+Mike Kenta is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Pawnshop, Taipei on Fri, 30 Oct 2026.
 
 Mike Kenta is an electronic artist, with 3 gigs on soundcheck across Taipei. Often billed alongside SOPA, Aaron Clark and DJ Nobu. Next up: Pawnshop, Taipei on Fri 30 Oct.
 
@@ -19,4 +19,4 @@ Mike Kenta is an electronic artist, with 3 gigs on soundcheck across Taipei. Oft
 
 SOPA, Aaron Clark, DJ Nobu
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikekenta/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikekenta/)*

@@ -1,6 +1,6 @@
 # Niña Mendoza
 
-Niña Mendoza is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at The Lido, Vancouver on Sun, 11 Oct 2026.
+Niña Mendoza is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The Lido, Vancouver on Sun, 11 Oct 2026.
 
 Niña Mendoza is a funk / soul and disco artist, with 11 gigs on soundcheck across Vancouver. Often billed alongside Kozue, Beiti and Body Double. Next up: The Lido, Vancouver on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Niña Mendoza is a funk / soul and disco artist, with 11 gigs on soundcheck acro
 
 Kozue, Beiti, Body Double
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninamendoza/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninamendoza/)*

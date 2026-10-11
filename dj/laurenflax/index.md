@@ -1,14 +1,13 @@
 # Lauren Flax
 
-Lauren Flax is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Signal, New York City on Sat, 10 Oct 2026.
+Lauren Flax is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at BASEMENT, New York City on Sat, 17 Oct 2026.
 
-Lauren Flax is a techno and house artist based in United States of America, with 172 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Boston and 16 more. Often billed alongside Mike Servito, Shaun J. Wright and Justin Cudmore. Next up: Signal, New York City on Sat 10 Oct.
+Lauren Flax is a techno and house artist based in United States of America, with 172 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Boston and 16 more. Often billed alongside Mike Servito, Shaun J. Wright and Justin Cudmore. Next up: BASEMENT, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Signal | New York City |
 | Sat, 17 Oct 2026 | BASEMENT | New York City |
 | Fri, 23 Oct 2026 | Dead Letter No. 9 | New York City |
 | Fri, 30 Oct 2026 | The Dolphin | Philadelphia |
@@ -17,6 +16,7 @@ Lauren Flax is a techno and house artist based in United States of America, with
 
 ## Recently played
 
+- Signal, New York City · Sat, 10 Oct 2026
 - Green Room NYC, New York City · Sat, 3 Oct 2026
 - Qncc, New York City · Sun, 27 Sept 2026
 - Qncc, New York City · Sun, 27 Sept 2026
@@ -24,10 +24,9 @@ Lauren Flax is a techno and house artist based in United States of America, with
 - Qncc, New York City · Sat, 26 Sept 2026
 - TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago · Fri, 25 Sept 2026
 - Qncc, New York City · Fri, 25 Sept 2026
-- Qncc, New York City · Thu, 24 Sept 2026
 
 ## Shares bills with
 
 Mike Servito, Shaun J. Wright, Justin Cudmore
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenflax/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenflax/)*

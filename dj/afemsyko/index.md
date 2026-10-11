@@ -1,6 +1,6 @@
 # Afem Syko
 
-Afem Syko is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - El Jardín de las Artes, Zaragoza, North on Sun, 11 Oct 2026.
+Afem Syko is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - El Jardín de las Artes, Zaragoza, North on Sun, 11 Oct 2026.
 
 Afem Syko is a techno and trance artist based in Germany, with 163 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Barcelona and 50 more. Often billed alongside In Verruf, Johannes Schuster and Somewhen. Next up: TBA - El Jardín de las Artes, Zaragoza, North on Sun 11 Oct.
 
@@ -31,4 +31,4 @@ Afem Syko is a techno and trance artist based in Germany, with 163 gigs on sound
 
 In Verruf, Johannes Schuster, Somewhen
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afemsyko/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afemsyko/)*

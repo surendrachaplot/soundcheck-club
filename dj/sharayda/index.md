@@ -1,6 +1,6 @@
 # Sharayda
 
-Sharayda is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Cupra City Garage Manchester, Manchester on Sat, 21 Nov 2026.
+Sharayda is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Cupra City Garage Manchester, Manchester on Sat, 21 Nov 2026.
 
 Sharayda is a house and disco artist based in United Kingdom, with 17 gigs on soundcheck across Manchester. Often billed alongside krioso, Javan and BANSHII. Next up: Cupra City Garage Manchester, Manchester on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Sharayda is a house and disco artist based in United Kingdom, with 17 gigs on so
 
 krioso, Javan, BANSHII
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sharayda/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sharayda/)*

@@ -1,6 +1,6 @@
 # mu tate
 
-mu tate is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Silent Green, Berlin on Sat, 17 Oct 2026.
+mu tate is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Silent Green, Berlin on Sat, 17 Oct 2026.
 
 mu tate is an ambient and experimental artist based in Latvia, with 21 gigs on soundcheck across Berlin, Lisbon, London and New York City and 2 more. Often billed alongside NEXCYIA, Discka and Mori Mori. Next up: Silent Green, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ mu tate is an ambient and experimental artist based in Latvia, with 21 gigs on s
 
 NEXCYIA, Discka, Mori Mori
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mutate-uk/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mutate-uk/)*

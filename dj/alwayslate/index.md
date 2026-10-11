@@ -1,6 +1,6 @@
 # Always Late
 
-Always Late is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Always Late is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Always Late is a house and minimal artist based in Greece, with 67 gigs on soundcheck across Amsterdam, Athens, Bucharest and Greece and 2 more. Often billed alongside Jonn, Cap and Priku. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Always Late is a house and minimal artist based in Greece, with 67 gigs on sound
 
 Jonn, Cap, Priku
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alwayslate/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alwayslate/)*

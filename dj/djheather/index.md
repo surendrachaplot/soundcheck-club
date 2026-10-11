@@ -1,6 +1,6 @@
 # DJ Heather
 
-DJ Heather is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Masada, Chicago on Sat, 10 Oct 2026.
+DJ Heather is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Masada, Chicago on Sat, 10 Oct 2026.
 
 DJ Heather is a house and deep house artist based in United States of America, with 135 gigs on soundcheck across Austin, Chicago, Detroit and Los Angeles and 9 more. Often billed alongside DJ Colette, Derrick Carter and Mark Farina. Next up: Masada, Chicago on Sat 10 Oct.
 
@@ -17,6 +17,7 @@ DJ Heather is a house and deep house artist based in United States of America, w
 
 ## Recently played
 
+- Masada, Chicago · Sat, 10 Oct 2026
 - Brooklyn Roots Collective, New York City · Fri, 2 Oct 2026
 - Le Nocturne, Chicago · Sun, 27 Sept 2026
 - Navy Pier, Chicago · Sat, 26 Sept 2026
@@ -24,10 +25,9 @@ DJ Heather is a house and deep house artist based in United States of America, w
 - smartbar, Chicago · Sat, 5 Sept 2026
 - Union Park, Chicago · Fri, 4 Sept 2026
 - Podlasie Club, Chicago · Fri, 28 Aug 2026
-- Phoenix Hotel, San Francisco/Oakland · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 DJ Colette, Derrick Carter, Mark Farina
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djheather/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djheather/)*

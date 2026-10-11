@@ -1,19 +1,19 @@
 # Avangart Tabldot
 
-Avangart Tabldot is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Volt Club Milano, Milan on Sat, 10 Oct 2026.
+Avangart Tabldot is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Klein Phönix, Istanbul on Sat, 7 Nov 2026.
 
-Avangart Tabldot is a house and afro house artist based in Turkey, with 93 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Mahmut Orhan, Echonomist and Henri Bergmann. Next up: Volt Club Milano, Milan on Sat 10 Oct.
+Avangart Tabldot is a house and afro house artist based in Turkey, with 93 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Mahmut Orhan, Echonomist and Henri Bergmann. Next up: Klein Phönix, Istanbul on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Volt Club Milano | Milan |
 | Sat, 7 Nov 2026 | Klein Phönix | Istanbul |
 | Sat, 21 Nov 2026 | Het Sieraad | Amsterdam |
 
 ## Recently played
 
+- Volt Club Milano, Milan · Sat, 10 Oct 2026
 - Chinois Ibiza, Ibiza · Wed, 7 Oct 2026
 - Amsterdamse Bos, Amsterdam · Sat, 5 Sept 2026
 - Scorpios, Mykonos · Tue, 1 Sept 2026
@@ -21,10 +21,9 @@ Avangart Tabldot is a house and afro house artist based in Turkey, with 93 gigs 
 - Cova Santa, Ibiza · Fri, 28 Aug 2026
 - Scorpios, Mykonos · Thu, 27 Aug 2026
 - Chinois Ibiza, Ibiza · Sun, 9 Aug 2026
-- Sala Upload Barcelona, Barcelona · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Mahmut Orhan, Echonomist, Henri Bergmann
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avangarttabldot/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avangarttabldot/)*

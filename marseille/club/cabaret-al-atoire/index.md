@@ -1,14 +1,13 @@
 # Cabaret  Aléatoire
 
-Cabaret  Aléatoire is a music venue in Marseille with 13 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "A5km B2b Ia5km + Acidpach, Anduj & Nxd" on Sat, 10 Oct 2026.
+Cabaret  Aléatoire is a music venue in Marseille with 12 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Autechre at Cabaret Aléatoire" on Tue, 13 Oct 2026.
 
-Cabaret  Aléatoire is a music venue in Marseille listed on soundcheck. 13 upcoming gigs, with line-ups including Angel Karel, Autechre, Avni Leka and Bella Claxton and 2 more. See dates, start times and who's playing. 41 Rue Jobin, 13003, Marseille.
+Cabaret  Aléatoire is a music venue in Marseille listed on soundcheck. 12 upcoming gigs, with line-ups including Angel Karel, Autechre, Avni Leka and Bella Claxton and 2 more. See dates, start times and who's playing. 41 Rue Jobin, 13003, Marseille.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | A5km B2b Ia5km + Acidpach, Anduj & Nxd |  |
 | Tue, 13 Oct 2026 | Autechre at Cabaret Aléatoire | Autechre |
 | Fri, 16 Oct 2026 | Club Cabaret x JACK IN THE BOX | DkA, Jack de Marseille |
 | Sat, 17 Oct 2026 | Omerta X Sanctuary: Big Season Opening W/ CARAVEL, Noyse | CARAVEL, THISO |
@@ -18,9 +17,10 @@ Cabaret  Aléatoire is a music venue in Marseille listed on soundcheck. 13 upcom
 | Sat, 14 Nov 2026 | Vitess To Grand V 𝘈𝘭𝘭 𝘓𝘪𝘷𝘦 𝘓𝘰𝘯𝘨 au Cabaret Aléatoire | Grand V, Vitess |
 | Fri, 20 Nov 2026 | Club Cabaret: Agoya Invite Mark Reeve | BonÏpso, Brookesia, Fab Massimo, Mark Reeve |
 | Sat, 21 Nov 2026 | ORIGINS INVITE BSLS | Angel Karel, BSLS |
+| Fri, 27 Nov 2026 | Club Cabaret: Paroxysm invite Lewis Fautzi | Avni Leka, Lewis Fautzi |
 
 ## Address
 
 41 Rue Jobin, 13003, Marseille, Marseille
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/cabaret-al-atoire/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/cabaret-al-atoire/)*

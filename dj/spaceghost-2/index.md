@@ -1,6 +1,6 @@
 # Space Ghost
 
-Space Ghost is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Statera Cellars, Portland on Fri, 23 Oct 2026.
+Space Ghost is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Statera Cellars, Portland on Fri, 23 Oct 2026.
 
 Space Ghost is a house and deep house artist based in United States of America, with 28 gigs on soundcheck across Berlin, Copenhagen, London and Los Angeles and 10 more. Often billed alongside nina sol, Sangsih and Sánlo. Next up: Statera Cellars, Portland on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Space Ghost is a house and deep house artist based in United States of America, 
 
 nina sol, Sangsih, Sánlo
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceghost-2/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceghost-2/)*

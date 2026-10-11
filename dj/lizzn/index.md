@@ -1,6 +1,6 @@
 # LIZZN
 
-LIZZN is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Pracht, Frankfurt on Fri, 23 Oct 2026.
+LIZZN is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Pracht, Frankfurt on Fri, 23 Oct 2026.
 
 LIZZN is a house and techno artist based in Germany, with 81 gigs on soundcheck across Berlin, Brussels, Cologne and Copenhagen and 5 more. Often billed alongside Ana Cover, Ligal Tamir and justUS. Next up: Pracht, Frankfurt on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ LIZZN is a house and techno artist based in Germany, with 81 gigs on soundcheck 
 
 Ana Cover, Ligal Tamir, justUS
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzn/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzn/)*

@@ -1,14 +1,13 @@
 # Cloudy
 
-Cloudy is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Hans Bunte Areal, Freiburg on Sat, 10 Oct 2026.
+Cloudy is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Lutfi Kirdar Congress Center, Istanbul on Sat, 17 Oct 2026.
 
-Cloudy is a techno and trance artist based in Germany, with 228 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 62 more. Often billed alongside Adrian Mills, KUKO and Johannes Schuster. Next up: Hans Bunte Areal, Freiburg on Sat 10 Oct.
+Cloudy is a techno and trance artist based in Germany, with 228 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 62 more. Often billed alongside Adrian Mills, KUKO and Johannes Schuster. Next up: Lutfi Kirdar Congress Center, Istanbul on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Hans Bunte Areal | Freiburg |
 | Sat, 17 Oct 2026 | Lutfi Kirdar Congress Center | Istanbul |
 | Fri, 23 Oct 2026 | Afas Live | Amsterdam |
 | Sun, 25 Oct 2026 | The Loft Amsterdam | Amsterdam |
@@ -20,9 +19,11 @@ Cloudy is a techno and trance artist based in Germany, with 228 gigs on soundche
 | Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
 | Fri, 27 Nov 2026 | Ace*Mission Studios | Los Angeles |
 | Sat, 5 Dec 2026 | Fabrik | Madrid |
+| Fri, 11 Dec 2026 | The Telegraph Building | Belfast |
 
 ## Recently played
 
+- Hans Bunte Areal, Freiburg · Sat, 10 Oct 2026
 - Arzenal, Budapest · Fri, 9 Oct 2026
 - Schrotty, Cologne · Fri, 2 Oct 2026
 - The OVO Hydro, Glasgow · Sat, 19 Sept 2026
@@ -30,10 +31,9 @@ Cloudy is a techno and trance artist based in Germany, with 228 gigs on soundche
 - TBA - Brussels, Brussels · Fri, 11 Sept 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal · Mon, 7 Sept 2026
 - TBA, Toronto · Sun, 6 Sept 2026
-- Industry City, New York City · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Adrian Mills, KUKO, Johannes Schuster
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cloudy/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cloudy/)*

@@ -1,14 +1,13 @@
 # Mochakk
 
-Mochakk is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at [UNVRS], Ibiza on Sat, 10 Oct 2026.
+Mochakk is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at GASHOUDER, Amsterdam on Fri, 23 Oct 2026.
 
-Mochakk is a house and techno artist based in Brazil, with 162 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 44 more. Often billed alongside Seth Troxler, Chloé Caillet and DJ Tennis. Next up: [UNVRS], Ibiza on Sat 10 Oct.
+Mochakk is a house and tech house artist based in Brazil, with 162 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 44 more. Often billed alongside Seth Troxler, Chloé Caillet and DJ Tennis. Next up: GASHOUDER, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | [UNVRS] | Ibiza |
 | Fri, 23 Oct 2026 | GASHOUDER | Amsterdam |
 | Fri, 23 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Thu, 29 Oct 2026 | Big Night Live | Boston |
@@ -19,6 +18,7 @@ Mochakk is a house and techno artist based in Brazil, with 162 gigs on soundchec
 
 ## Recently played
 
+- [UNVRS], Ibiza · Sat, 10 Oct 2026
 - TBA - R. Capivari, S/N - Pacaembu, São Paulo - SP, 01234-010, Sao-paulo · Sat, 3 Oct 2026
 - Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
 - TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
@@ -26,10 +26,9 @@ Mochakk is a house and techno artist based in Brazil, with 162 gigs on soundchec
 - Radius, Chicago · Sun, 6 Sept 2026
 - Union Park, Chicago · Fri, 4 Sept 2026
 - BERHTA, Washington DC · Fri, 4 Sept 2026
-- Knockdown Center, New York City · Sun, 30 Aug 2026
 
 ## Shares bills with
 
 Seth Troxler, Chloé Caillet, DJ Tennis
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*

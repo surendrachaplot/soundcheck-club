@@ -1,6 +1,6 @@
 # IceLipzz
 
-IceLipzz is a Techno and Gabber artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Virage, Paris on Fri, 16 Oct 2026.
+IceLipzz is a Techno and Gabber artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Virage, Paris on Fri, 16 Oct 2026.
 
 IceLipzz is a techno and gabber artist based in Germany, with 18 gigs on soundcheck across Berlin, Hamburg, Manchester and Munich and 3 more. Often billed alongside LØUS, FLUCC and Osiris. Next up: Virage, Paris on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ IceLipzz is a techno and gabber artist based in Germany, with 18 gigs on soundch
 
 LØUS, FLUCC, Osiris (2)
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icelipzz/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icelipzz/)*

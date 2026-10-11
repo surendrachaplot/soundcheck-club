@@ -1,6 +1,6 @@
 # Oculist
 
-Oculist is a music venue in Brighton with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Maÿka Scene @ Oculist" on Fri, 16 Oct 2026.
+Oculist is a music venue in Brighton with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Maÿka Scene @ Oculist" on Fri, 16 Oct 2026.
 
 Oculist is a music venue in Brighton listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 2 Boyce's St, Brighton BN1 1AN.
 
@@ -15,4 +15,4 @@ Oculist is a music venue in Brighton listed on soundcheck. 2 upcoming gigs. See 
 
 2 Boyce's St, Brighton BN1 1AN, Brighton
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/oculist/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/oculist/)*

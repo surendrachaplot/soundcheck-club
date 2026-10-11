@@ -1,14 +1,13 @@
 # Luna Ludmila
 
-Luna Ludmila is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Doka, Amsterdam on Sat, 10 Oct 2026.
+Luna Ludmila is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Klaproos, Amsterdam on Thu, 22 Oct 2026.
 
-Luna Ludmila is a house and techno artist based in Netherlands, with 101 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside Nuno dos Santos, Bart Skils and Carlos Valdes. Next up: Doka, Amsterdam on Sat 10 Oct.
+Luna Ludmila is a house and techno artist based in Netherlands, with 101 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside Nuno dos Santos, Bart Skils and Carlos Valdes. Next up: Klaproos, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Doka | Amsterdam |
 | Thu, 22 Oct 2026 | Klaproos | Amsterdam |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sat, 24 Oct 2026 | Café Café Bar Amsterdam | Amsterdam |
@@ -17,6 +16,7 @@ Luna Ludmila is a house and techno artist based in Netherlands, with 101 gigs on
 
 ## Recently played
 
+- Doka, Amsterdam · Sat, 10 Oct 2026
 - Open Ground, Wuppertal · Sat, 26 Sept 2026
 - Haus der Visionäre, Berlin · Fri, 11 Sept 2026
 - public records, New York City · Fri, 14 Aug 2026
@@ -24,10 +24,9 @@ Luna Ludmila is a house and techno artist based in Netherlands, with 101 gigs on
 - Renate, Berlin · Sat, 11 Jul 2026
 - Lofi, Amsterdam · Fri, 26 Jun 2026
 - Bar Dancing Multipla, Amsterdam · Sat, 13 Jun 2026
-- nachbar, Amsterdam · Sat, 30 May 2026
 
 ## Shares bills with
 
 Nuno dos Santos, Bart Skils, Carlos Valdes
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lunaludmila/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lunaludmila/)*

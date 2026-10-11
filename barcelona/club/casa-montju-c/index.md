@@ -1,18 +1,17 @@
 # Casa Montjuïc
 
-Casa Montjuïc is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "ONYRO presents Ichigo Ichie" on Sat, 10 Oct 2026.
+Casa Montjuïc is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "Mandrágora: Ciro Vitiello + Flo de Lotus" on Fri, 16 Oct 2026.
 
-Casa Montjuïc is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Ciro Vitiello and Lemna. See dates, start times and who's playing. Vila i Vilà 65, 08004, Barcelona.
+Casa Montjuïc is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, with line-ups including Ciro Vitiello. See dates, start times and who's playing. Vila i Vilà 65, 08004, Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | ONYRO presents Ichigo Ichie | Lemna |
 | Fri, 16 Oct 2026 | Mandrágora: Ciro Vitiello + Flo de Lotus | Ciro Vitiello |
 
 ## Address
 
 Vila i Vilà 65, 08004, Barcelona, Barcelona
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/casa-montju-c/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/casa-montju-c/)*

@@ -1,14 +1,13 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 18 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Roll As One: YOZÉ / avoN / UBER KNAST / Sóltmänn / Ziggy Stardubb / Aerocell B2B HIGHL4ND3R" on Sat, 10 Oct 2026.
+Culture Box is a music venue in Copenhagen with 17 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Chich / Kallax / Rexxx M / The Gathering: SHK / GeorgeBox / Georgeous / Dani Panda" on Fri, 16 Oct 2026.
 
-Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming gigs, with line-ups including Adelina, Aerocell, Aja Gulris and Albano Bastonero and 2 more. See dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
+Culture Box is a music venue in Copenhagen listed on soundcheck. 17 upcoming gigs, with line-ups including Adelina, Aja Gulris, Albano Bastonero and Ama Lien and 2 more. See dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Roll As One: YOZÉ / avoN / UBER KNAST / Sóltmänn / Ziggy Stardubb / Aerocell B2B HIGHL4ND3R | Aerocell, UBER KNAST, YOZÉ, Ziggy Stardubb, avoN |
 | Fri, 16 Oct 2026 | Chich / Kallax / Rexxx M / The Gathering: SHK / GeorgeBox / Georgeous / Dani Panda | Chich, Kallax, Rexxx M |
 | Sat, 17 Oct 2026 | What Happens / Perceptions: Kevin Di Serna / Tim Andresen / Albano Bastonero / Luca Abayan / B | Albano Bastonero, Kevin Di Serna, Tim Andresen |
 | Fri, 23 Oct 2026 | Xinobi / Bow Miller / Anders HP / Rhythm Vault: Max Finney / Qwenty / Roussakis | Anders HP, Bow Miller, Max Finney, Qwenty, Roussakis, Xinobi |
@@ -18,9 +17,10 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming gig
 | Fri, 6 Nov 2026 | Sarah Wild / Pelzman / DJ Spice / Dasha / Anya / Frede [NO] B2B Jan Brandi | Anya (UK), DASHA (UK), DJ Spice, Frede (NO), Pelzman, Sarah Wild |
 | Sat, 7 Nov 2026 | Lampé / SCHAARUP / OnsBerg / Rønhöff & Louin / CøkiT | CøkiT, Lampé, OnsBerg, SCHAARUP |
 | Fri, 13 Nov 2026 | Dusky presents SIGNALS TOUR / Samuel Rees / DRØZE / SÓLTMÄNN / RÓS | DRØZE, Dusky, Samuel Rees |
+| Sat, 14 Nov 2026 | Animal Trainer / Mulo / Klarskov / Adelina B2B Leanca / Antoine | Adelina, Animal Trainer, Leanca, Mulo |
 
 ## Address
 
 Kronprinsessegade 54; Copenhagen K. 1306; Denmark, Copenhagen
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*

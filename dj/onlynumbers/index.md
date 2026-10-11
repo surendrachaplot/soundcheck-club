@@ -1,6 +1,6 @@
 # Onlynumbers
 
-Onlynumbers is a Techno and Hardcore artist with 13 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Espacio Zity, Zaragoza, North on Sun, 11 Oct 2026.
+Onlynumbers is a Techno and Hardcore artist with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Espacio Zity, Zaragoza, North on Sun, 11 Oct 2026.
 
 Onlynumbers is a techno and hardcore artist based in France, with 87 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside NOVAH, KLOFAMA and Basswell. Next up: TBA - Espacio Zity, Zaragoza, North on Sun 11 Oct.
 
@@ -36,4 +36,4 @@ Onlynumbers is a techno and hardcore artist based in France, with 87 gigs on sou
 
 NOVAH, KLOFAMA, Basswell
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onlynumbers/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onlynumbers/)*

@@ -1,14 +1,13 @@
 # Document
 
-Document is a music venue in Bristol with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "SOSA presents: COCO - Document Bristol" on Sat, 10 Oct 2026.
+Document is a music venue in Bristol with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Document presents: X CLUB., Tommy Holohan & More" on Sat, 17 Oct 2026.
 
-Document is a music venue in Bristol listed on soundcheck. 8 upcoming gigs, with line-ups including Artemis, Bateman, Break and Breakage and 2 more. See dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol, BS5 0TH.
+Document is a music venue in Bristol listed on soundcheck. 7 upcoming gigs, with line-ups including Artemis, Bateman, Break and Breakage and 2 more. See dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol, BS5 0TH.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | SOSA presents: COCO - Document Bristol | Luuk van Dijk, SOSA (UK), SUFI |
 | Sat, 17 Oct 2026 | Document presents: X CLUB., Tommy Holohan & More | Dani Whylie, ROWANA, Tommy Holohan, X CLUB. |
 | Sat, 31 Oct 2026 | Document presents: Moodymann + more | Moodymann |
 | Sat, 7 Nov 2026 | UKG Brunch - Bristol Ft. Kele Le Roc, Sweet Female Attitude  | Kele Le Roc, Sweet Female Attitude |
@@ -21,4 +20,4 @@ Document is a music venue in Bristol listed on soundcheck. 8 upcoming gigs, with
 
 30 Pennywell Rd, St Jude's, Bristol, BS5 0TH, Bristol
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/document/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/document/)*

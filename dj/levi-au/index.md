@@ -1,14 +1,13 @@
 # Levi (AU)
 
-Levi (AU) is a Afro House and Deep House artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Rheinriff Düsseldorf, Düsseldorf on Sat, 10 Oct 2026.
+Levi (AU) is a Afro House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Escape, Amsterdam on Fri, 23 Oct 2026.
 
-Levi (AU) is an afro house and deep house artist based in Australia, with 99 gigs on soundcheck across Amsterdam, Athens, Austria and Bangkok and 40 more. Often billed alongside AJ Christou, Freddy Bello and SARA AFSHAR. Next up: TBA - Rheinriff Düsseldorf, Düsseldorf on Sat 10 Oct.
+Levi (AU) is an afro house and deep house artist based in Australia, with 99 gigs on soundcheck across Amsterdam, Athens, Austria and Bangkok and 40 more. Often billed alongside AJ Christou, Freddy Bello and SARA AFSHAR. Next up: Escape, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | TBA - Rheinriff Düsseldorf | Düsseldorf |
 | Fri, 23 Oct 2026 | Escape | Amsterdam |
 | Sat, 24 Oct 2026 | TBA - Willebroek, Belgium | Belgium |
 | Fri, 30 Oct 2026 | TBA - Unity Electro Fest  | Quebec-city |
@@ -19,6 +18,7 @@ Levi (AU) is an afro house and deep house artist based in Australia, with 99 gig
 
 ## Recently played
 
+- TBA - Rheinriff Düsseldorf, Düsseldorf · Sat, 10 Oct 2026
 - TBA - Le Jardin, Linz, Austria, Austria · Fri, 9 Oct 2026
 - Filmcasino, Munich · Fri, 2 Oct 2026
 - Ushuaïa Ibiza, Ibiza · Mon, 28 Sept 2026
@@ -26,10 +26,9 @@ Levi (AU) is an afro house and deep house artist based in Australia, with 99 gig
 - Seehaus Hamburg, Hamburg · Wed, 23 Sept 2026
 - TBA, Nashville · Sun, 6 Sept 2026
 - Pier 17, New York City · Sat, 29 Aug 2026
-- Boat Cruise Summer Series, Boston · Fri, 28 Aug 2026
 
 ## Shares bills with
 
 AJ Christou, Freddy Bello, SARA AFSHAR
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-au/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-au/)*

@@ -1,6 +1,6 @@
 # Enrico Sangiuliano
 
-Enrico Sangiuliano is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Sugarfactory, Amsterdam on Thu, 22 Oct 2026.
+Enrico Sangiuliano is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Sugarfactory, Amsterdam on Thu, 22 Oct 2026.
 
 Enrico Sangiuliano is a techno and house artist based in Italy, with 111 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 38 more. Often billed alongside Charlotte de Witte, Anfisa Letyago and Joseph Capriati. Next up: Sugarfactory, Amsterdam on Thu 22 Oct.
 
@@ -33,4 +33,4 @@ Enrico Sangiuliano is a techno and house artist based in Italy, with 111 gigs on
 
 Charlotte de Witte, Anfisa Letyago, Joseph Capriati
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enricosangiuliano/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enricosangiuliano/)*

@@ -1,14 +1,13 @@
 # Helena Lauwaert
 
-Helena Lauwaert is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
+Helena Lauwaert is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at De Flesjesfabriek, Ghent on Fri, 16 Oct 2026.
 
-Helena Lauwaert is a techno and trance artist based in Belgium, with 139 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Pegassi, EMILIJA and Faster Horses. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
+Helena Lauwaert is a techno and trance artist based in Belgium, with 139 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Pegassi, EMILIJA and Faster Horses. Next up: De Flesjesfabriek, Ghent on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 16 Oct 2026 | De Flesjesfabriek | Ghent |
 | Thu, 22 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
@@ -22,6 +21,7 @@ Helena Lauwaert is a techno and trance artist based in Belgium, with 139 gigs on
 
 ## Recently played
 
+- Depot Mayfield, Manchester · Sat, 10 Oct 2026
 - C12, Brussels · Sat, 26 Sept 2026
 - TBA - Brussels, Brussels · Fri, 11 Sept 2026
 - Hangaren, Copenhagen · Thu, 27 Aug 2026
@@ -29,10 +29,9 @@ Helena Lauwaert is a techno and trance artist based in Belgium, with 139 gigs on
 - Bowlers Exhibition Centre, Manchester · Sat, 1 Aug 2026
 - MS Artville, Hamburg · Sat, 18 Jul 2026
 - TBA - Paradise City Festival, Brussels · Fri, 26 Jun 2026
-- La Terrrazza, Barcelona · Thu, 25 Jun 2026
 
 ## Shares bills with
 
 Pegassi, EMILIJA, Faster Horses
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helenalauwaert/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helenalauwaert/)*

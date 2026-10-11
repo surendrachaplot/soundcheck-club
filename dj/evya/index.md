@@ -1,6 +1,6 @@
 # EVYA
 
-EVYA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at ://about blank, Berlin on Fri, 30 Oct 2026.
+EVYA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at ://about blank, Berlin on Fri, 30 Oct 2026.
 
 EVYA is a techno and house artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside April the pink, Blck-Swan and DERICE. Next up: ://about blank, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ EVYA is a techno and house artist based in Germany, with 9 gigs on soundcheck ac
 
 April the pink, Blck-Swan, DERICE
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evya/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evya/)*

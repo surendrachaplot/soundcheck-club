@@ -1,6 +1,6 @@
 # Karina Oksa
 
-Karina Oksa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 4 Dec 2026.
+Karina Oksa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 4 Dec 2026.
 
 Karina Oksa is a techno and house artist based in Russia, with 9 gigs on soundcheck across Belgrade. Often billed alongside Asarri, Moraitov and RAR. Next up: Drugstore Beograd, Belgrade on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Karina Oksa is a techno and house artist based in Russia, with 9 gigs on soundch
 
 Asarri, Moraitov, RAR
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karinaoksa/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karinaoksa/)*

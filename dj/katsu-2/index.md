@@ -1,14 +1,13 @@
 # KATSU (2)
 
-KATSU (2) is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Tide Tokyo, Tokyo on Sun, 11 Oct 2026.
+KATSU (2) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Z Maruyama, Tokyo on Sun, 11 Oct 2026.
 
-KATSU is a techno and industrial artist based in Japan, with 14 gigs on soundcheck across Tokyo. Often billed alongside DALJAE, KAITO and Soluna. Next up: Tide Tokyo, Tokyo on Sun 11 Oct.
+KATSU is a techno and industrial artist based in Japan, with 14 gigs on soundcheck across Tokyo. Often billed alongside DALJAE, KAITO and Soluna. Next up: Z Maruyama, Tokyo on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Tide Tokyo | Tokyo |
 | Sun, 11 Oct 2026 | Z Maruyama | Tokyo |
 
 ## Recently played
@@ -26,4 +25,4 @@ KATSU is a techno and industrial artist based in Japan, with 14 gigs on soundche
 
 DALJAE, KAITO (5), Soluna
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katsu-2/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katsu-2/)*

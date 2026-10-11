@@ -1,6 +1,6 @@
 # SCRAAATCH
 
-SCRAAATCH is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA, New-york-city on Sat, 17 Oct 2026.
+SCRAAATCH is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA, New-york-city on Sat, 17 Oct 2026.
 
 SCRAAATCH is an experimental and techno artist based in United States of America, with 21 gigs on soundcheck across New York City and Philadelphia. Often billed alongside chuki, Doula and MHYSA. Next up: TBA, New York City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ SCRAAATCH is an experimental and techno artist based in United States of America
 
 chuki, Doula, MHYSA
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scraaatch/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scraaatch/)*

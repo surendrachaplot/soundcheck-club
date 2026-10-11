@@ -1,14 +1,13 @@
 # Socore Factory
 
-Socore Factory is a music venue in Osaka with 31 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "SKA TOWN OSAKA vol.2 presented by vongsign" on Sat, 10 Oct 2026.
+Socore Factory is a music venue in Osaka with 30 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "FOOLING AROUND FINAL ~Marcel Bontempi JAPAN Tour In Osaka" on Sun, 11 Oct 2026.
 
-Socore Factory is a music venue in Osaka listed on soundcheck. 31 upcoming gigs, with line-ups including ALUCA, Fluid, GEBO and Inga and 2 more. See dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
+Socore Factory is a music venue in Osaka listed on soundcheck. 30 upcoming gigs, with line-ups including ALUCA, Fluid, GEBO and Inga and 2 more. See dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | SKA TOWN OSAKA vol.2 presented by vongsign | Warung |
 | Sun, 11 Oct 2026 | FOOLING AROUND FINAL ~Marcel Bontempi JAPAN Tour In Osaka | Jimmy, Yos |
 | Mon, 12 Oct 2026 | TREBLE RUMBLE presents 'Rumbling DUB Chamber' | Inga |
 | Fri, 16 Oct 2026 | We'll be the voice vol.3 ABIZMO & S.O.H. SPLIT RELEASE TOUR | Rafael, Status Zero |
@@ -18,9 +17,10 @@ Socore Factory is a music venue in Osaka listed on soundcheck. 31 upcoming gigs,
 | Sun, 25 Oct 2026 | UNITE of The Boom |  |
 | Wed, 28 Oct 2026 | HOOFIT |  |
 | Thu, 29 Oct 2026 | Gnaw Asia Tour 2026 – Inside a Machine That's Glistening – |  |
+| Fri, 30 Oct 2026 | WHITEROOM | ALUCA, SPOT (JPN), Tosh (2) |
 
 ## Address
 
 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan, Osaka
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*

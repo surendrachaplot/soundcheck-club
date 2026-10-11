@@ -1,14 +1,13 @@
 # Madarae San Francisco
 
-Madarae San Francisco is a music venue in San Francisco/Oakland with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "MAGA AT Madarae San Francisco" on Sat, 10 Oct 2026.
+Madarae San Francisco is a music venue in San Francisco/Oakland with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Samm (BE) at Madarae Nightclub San Francisco" on Fri, 16 Oct 2026.
 
-Madarae San Francisco is a music venue in San Francisco/Oakland listed on soundcheck. 9 upcoming gigs, with line-ups including Autograf, Deer (US), Goldcap and MAGA and 2 more. See dates, start times and who's playing. 46 Minna St, San Francisco, CA 94105, United States.
+Madarae San Francisco is a music venue in San Francisco/Oakland listed on soundcheck. 8 upcoming gigs, with line-ups including Autograf, Deer (US), Goldcap and nocapz. and 2 more. See dates, start times and who's playing. 46 Minna St, San Francisco, CA 94105, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | MAGA AT Madarae San Francisco | MAGA |
 | Fri, 16 Oct 2026 | Samm (BE) at Madarae Nightclub San Francisco | Samm (BE) |
 | Fri, 23 Oct 2026 | Goldcap (4-Hour Extended Set) by SET x Safra x All I Need | Goldcap |
 | Thu, 29 Oct 2026 | Glamoween III | Deer (US) |
@@ -22,4 +21,4 @@ Madarae San Francisco is a music venue in San Francisco/Oakland listed on soundc
 
 46 Minna St, San Francisco, CA 94105, United States, San Francisco/Oakland
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madarae-san-francisco/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madarae-san-francisco/)*

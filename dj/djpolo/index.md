@@ -1,6 +1,6 @@
 # DJ Polo
 
-DJ Polo is a UK Funky and Amapiano artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at The Love Inn, Bristol on Sat, 31 Oct 2026.
+DJ Polo is a UK Funky and Amapiano artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The Love Inn, Bristol on Sat, 31 Oct 2026.
 
 DJ Polo is an uk funky and amapiano artist based in United Kingdom, with 46 gigs on soundcheck across Amsterdam, Bristol, Brussels and Lisbon and 3 more. Often billed alongside DJ Stolen, Blck Mamba and Yemz. Next up: The Love Inn, Bristol on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ Polo is an uk funky and amapiano artist based in United Kingdom, with 46 gigs
 
 DJ Stolen, Blck Mamba, Yemz
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpolo/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpolo/)*

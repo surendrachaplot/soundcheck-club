@@ -1,6 +1,6 @@
 # Saint Ludo
 
-Saint Ludo is a Garage and Bass artist with 11 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Brickworks, Nottingham on Fri, 30 Oct 2026.
+Saint Ludo is a Garage and Bass artist with 11 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The Brickworks, Nottingham on Fri, 30 Oct 2026.
 
 Saint Ludo is a garage and bass artist, with 127 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 29 more. Often billed alongside Bakey, Ewan McVicar and KI/KI. Next up: The Brickworks, Nottingham on Fri 30 Oct.
 
@@ -35,4 +35,4 @@ Saint Ludo is a garage and bass artist, with 127 gigs on soundcheck across Amste
 
 Bakey, Ewan McVicar, KI/KI
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saintludo/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saintludo/)*

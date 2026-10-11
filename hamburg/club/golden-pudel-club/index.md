@@ -1,14 +1,13 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Gatto Musculoso" on Sat, 10 Oct 2026.
+Golden Pudel Club is a music venue in Hamburg with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Aura" on Sun, 11 Oct 2026.
 
-Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 9 upcoming gigs, with line-ups including Anton Jonathan, Beau Wanzer, BOBBIE* and Bombe and 2 more. See dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
+Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 8 upcoming gigs, with line-ups including Anton Jonathan, Beau Wanzer, BOBBIE* and Bombe and 2 more. See dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Gatto Musculoso | David Fogarty, Phuong Dan |
 | Sun, 11 Oct 2026 | Aura | Laetizia, Miri Malek, N:in (DE) |
 | Thu, 15 Oct 2026 | Neoprimitive with The Hacker | BOBBIE*, Festnacht, L.F.T., The Hacker, UNZHA |
 | Fri, 16 Oct 2026 | Space Drum Meditation all night long | Space Drum Meditation |
@@ -22,4 +21,4 @@ Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 9 upcoming g
 
 St. Pauli Fischmarkt 27; 20359 Hamburg; Germany, Hamburg
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*

@@ -1,6 +1,6 @@
 # Propaganda Roppongi
 
-Propaganda Roppongi is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. The next is "Karaoke Night" on Sun, 11 Oct 2026.
+Propaganda Roppongi is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "Karaoke Night" on Sun, 11 Oct 2026.
 
 Propaganda Roppongi is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Propaganda Roppongi is a music venue in Tokyo listed on soundcheck. 1 upcoming g
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | Karaoke Night |  |
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/propaganda-roppongi/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/propaganda-roppongi/)*

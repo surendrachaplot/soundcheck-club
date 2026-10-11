@@ -1,6 +1,6 @@
 # Real Talks Halloween at Bad Bobs (Rooftop Terrace), Temple Bar
 
-Real Talks Halloween at Bad Bobs (Rooftop Terrace), Temple Bar on Fri 30 Oct, Dublin. 3 artists: Luca Ruiz, Royce Larøca and Thomas Schmitt. House and Minimal. See the line-up on soundcheck.
+Real Talks Halloween at Bad Bobs (Rooftop Terrace), Temple Bar on Fri 30 Oct, Dublin. 4 artists: Gromma, Luca Ruiz, Royce Larøca and Thomas Schmitt. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Real Talks Halloween at Bad Bobs (Rooftop Terrace), Temple Bar on Fri 30 Oct, Du
 
 ## Line-up
 
+- Gromma
 - Luca Ruiz
 - Royce Larøca
 - Thomas Schmitt

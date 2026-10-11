@@ -1,14 +1,13 @@
 # Bailey Ibbs
 
-Bailey Ibbs is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 10 Oct 2026.
+Bailey Ibbs is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat, 17 Oct 2026.
 
-Bailey Ibbs is a techno and house artist based in United Kingdom, with 164 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belfast and 45 more. Often billed alongside JKS, Paige (Night Service) and Beau Didier. Next up: Starlane Pizza Bar, London on Sat 10 Oct.
+Bailey Ibbs is a techno and house artist based in United Kingdom, with 164 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belfast and 45 more. Often billed alongside JKS, Paige (Night Service) and Beau Didier. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Starlane Pizza Bar | London |
 | Sat, 17 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Sat, 17 Oct 2026 | The Ivy | Sydney |
 | Fri, 23 Oct 2026 | FOLD | London |
@@ -17,6 +16,7 @@ Bailey Ibbs is a techno and house artist based in United Kingdom, with 164 gigs 
 
 ## Recently played
 
+- Starlane Pizza Bar, London · Sat, 10 Oct 2026
 - La Java, Paris · Sat, 3 Oct 2026
 - Tresor / Globus, Berlin · Sat, 19 Sept 2026
 - Sidney & Matilda, Sheffield · Fri, 18 Sept 2026
@@ -24,10 +24,9 @@ Bailey Ibbs is a techno and house artist based in United Kingdom, with 164 gigs 
 - Mystic Skatepark, Prague · Sat, 5 Sept 2026
 - Motorista Studio, Toronto · Sat, 29 Aug 2026
 - TBA - Outdoor Location, Vancouver · Fri, 28 Aug 2026
-- FOLD, London · Sun, 23 Aug 2026
 
 ## Shares bills with
 
 JKS, Paige (Night Service), Beau Didier
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyibbs/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyibbs/)*

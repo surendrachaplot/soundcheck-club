@@ -1,6 +1,6 @@
 # Audio Alchemy
 
-Audio Alchemy is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Auberge, Switzerland on Sat, 21 Nov 2026.
+Audio Alchemy is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Auberge, Switzerland on Sat, 21 Nov 2026.
 
 Audio Alchemy is a house and electro artist based in Switzerland, with 7 gigs on soundcheck across Barcelona, Basel, Milan and Switzerland and 1 more. Often billed alongside Sancturu, CRHERZ and Francesco Farfa. Next up: Auberge, Switzerland on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Audio Alchemy is a house and electro artist based in Switzerland, with 7 gigs on
 
 Sancturu, CRHERZ, Francesco Farfa
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audioalchemy/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audioalchemy/)*

@@ -1,6 +1,6 @@
 # Jamback
 
-Jamback is a House and Tech House artist with 27 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Sun, 11 Oct 2026.
+Jamback is a House and Tech House artist with 27 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Sun, 11 Oct 2026.
 
 Jamback is a house and tech house artist based in Netherlands, with 203 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 43 more. Often billed alongside East End Dubs, Marsolo and Rossi. Next up: INPUT High Fidelity Dance Club, Barcelona on Sun 11 Oct.
 
@@ -36,4 +36,4 @@ Jamback is a house and tech house artist based in Netherlands, with 203 gigs on 
 
 East End Dubs, Marsolo, Rossi
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*

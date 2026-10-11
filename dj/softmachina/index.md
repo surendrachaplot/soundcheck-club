@@ -1,18 +1,18 @@
 # soft:machina
 
-soft:machina is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Trix, Antwerp on Sat, 10 Oct 2026.
+soft:machina is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at ASIAT Park, Brussels on Sat, 28 Nov 2026.
 
-soft:machina is a house and techno artist based in Belgium, with 11 gigs on soundcheck across Antwerp and Brussels. Often billed alongside Spirite, VTT (BE) and 131bpm. Next up: Trix, Antwerp on Sat 10 Oct.
+soft:machina is a house and techno artist based in Belgium, with 11 gigs on soundcheck across Antwerp and Brussels. Often billed alongside Spirite, VTT (BE) and 131bpm. Next up: ASIAT Park, Brussels on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Trix | Antwerp |
 | Sat, 28 Nov 2026 | ASIAT Park | Brussels |
 
 ## Recently played
 
+- Trix, Antwerp · Sat, 10 Oct 2026
 - C12, Brussels · Sat, 3 Oct 2026
 - Stammbar, Brussels · Sat, 15 Aug 2026
 - Coin Culture, Brussels · Thu, 9 Apr 2026
@@ -20,10 +20,9 @@ soft:machina is a house and techno artist based in Belgium, with 11 gigs on soun
 - B21, Brussels · Sat, 7 Mar 2026
 - Chez Jacques, Brussels · Sat, 24 Jan 2026
 - B21, Brussels · Sat, 20 Dec 2025
-- Usquare, Brussels · Fri, 19 Sept 2025
 
 ## Shares bills with
 
 Spirite, VTT (BE), 131bpm
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/softmachina/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/softmachina/)*

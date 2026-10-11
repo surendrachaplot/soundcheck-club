@@ -1,6 +1,6 @@
 # Pitch037
 
-Pitch037 is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Ikii, Berlin on Sat, 24 Oct 2026.
+Pitch037 is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Ikii, Berlin on Sat, 24 Oct 2026.
 
 Pitch037 is an electronica and experimental artist, with 7 gigs on soundcheck across Berlin, Brussels, Cork and Dublin and 2 more. Often billed alongside Kamoun, ALNITHRA.incidents and Alba. Next up: Ikii, Berlin on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Pitch037 is an electronica and experimental artist, with 7 gigs on soundcheck ac
 
 Kamoun, ALNITHRA.incidents, Alba (2)
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pitch037/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pitch037/)*

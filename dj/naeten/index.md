@@ -1,6 +1,6 @@
 # Naeten
 
-Naeten is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Vertigo, Toronto on Fri, 9 Oct 2026.
+Naeten is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Vertigo, Toronto on Fri, 9 Oct 2026.
 
 Naeten is a house and tech house artist based in Canada, with 7 gigs on soundcheck across Toronto. Often billed alongside Batiste, 2SHAY and Andre Zimmer. Next up: Vertigo, Toronto on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ Naeten is a house and tech house artist based in Canada, with 7 gigs on soundche
 
 Batiste, 2SHAY, Andre Zimmer
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naeten/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naeten/)*

@@ -1,6 +1,6 @@
 # ASLO
 
-ASLO is a Techno and Acid artist with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Kilomètre25, Paris on Sat, 17 Oct 2026.
+ASLO is a Techno and Acid artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Kilomètre25, Paris on Sat, 17 Oct 2026.
 
 ASLO is a techno and acid artist based in United Kingdom, with 29 gigs on soundcheck across Adelaide, Amsterdam, Birmingham and Brisbane and 8 more. Often billed alongside Adam Bartas, Nik Kastel and Samuel Moriero. Next up: Kilomètre25, Paris on Sat 17 Oct.
 
@@ -33,4 +33,4 @@ ASLO is a techno and acid artist based in United Kingdom, with 29 gigs on soundc
 
 Adam Bartas, Nik Kastel, Samuel Moriero (2)
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aslo/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aslo/)*

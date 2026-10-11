@@ -1,14 +1,13 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "KC [Astral Travel (aka Anthea & Oshana) • Joey 808 & 1client]" on Sat, 10 Oct 2026.
+Karmen Camina is a music venue in Strasbourg with 11 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "COMBO CLUB [Carlita Bandita • K2S • Neurone (Syn & Tatlo)]" on Thu, 15 Oct 2026.
 
-Karmen Camina is a music venue in Strasbourg listed on soundcheck. 12 upcoming gigs, with line-ups including 1client, ALOT, Amadeo Savio and Anthea and 2 more. See dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
+Karmen Camina is a music venue in Strasbourg listed on soundcheck. 11 upcoming gigs, with line-ups including ALOT, Amadeo Savio, Arbo and Bitter Babe and 2 more. See dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | KC [Astral Travel (aka Anthea & Oshana) • Joey 808 & 1client] | 1client, Anthea, Astral Travel, Joey 808, Oshana |
 | Thu, 15 Oct 2026 | COMBO CLUB [Carlita Bandita • K2S • Neurone (Syn & Tatlo)] |  |
 | Fri, 16 Oct 2026 | TOY TONICS [ALOT • Gee Lane • Margarita Tempête] | ALOT, Gee Lane |
 | Sat, 17 Oct 2026 | KC x EURO IDOL[Canelle Doublekick • DJ AYA • ANTONY NO LIMIT • GQB • NASS• TURBOMAT] | Canelle Doublekick, DJ AYA, GQB (FR) |
@@ -18,9 +17,10 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 12 upcoming g
 | Sat, 31 Oct 2026 | KC [WICKED GIRLS (Louisahhh & kimifromtheinternet) • Bitter Babe • Evissimax • &+] | Bitter Babe, Bjr Alex, Evissimax, Kelly Placard, Louisahhh |
 | Sat, 14 Nov 2026 | KC x FLASHBALL [Nicolas Lutz • Sedef Adasï, MEL, +TBA] | Nicolas Lutz, Sedef Adasï |
 | Sat, 28 Nov 2026 | HEISSS x 31Hertz [Disguised • Juri Heidemann • Kim She • Aligatou • Arbo • Neurone • Ochenne] | Arbo, Disguised, Juri Heidemann, Kim She |
+| Fri, 4 Dec 2026 | SOUND OF KARMEN [Danilo Plessow aka MCDE (4Hs set) • +TBA] | Danilo Plessow, Motor City Drum Ensemble |
 
 ## Address
 
 4 cour des Cigarières 67000 Strasbourg, Strasbourg
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*

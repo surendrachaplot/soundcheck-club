@@ -1,6 +1,6 @@
 # Manray
 
-Manray is a music venue in Boston with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Fifty-Four Supernature: DJ Brian Halligan" on Sun, 11 Oct 2026.
+Manray is a music venue in Boston with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Fifty-Four Supernature: DJ Brian Halligan" on Sun, 11 Oct 2026.
 
 Manray is a music venue in Boston listed on soundcheck. 4 upcoming gigs, with line-ups including Adam Unknown and DJ Brian Halligan. See dates, start times and who's playing. 40 Prospect Street, Cambridge,  MA 02139 USA.
 
@@ -17,4 +17,4 @@ Manray is a music venue in Boston listed on soundcheck. 4 upcoming gigs, with li
 
 40 Prospect Street, Cambridge,  MA 02139 USA, Boston
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/manray/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/manray/)*

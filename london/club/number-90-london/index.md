@@ -1,14 +1,13 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 21 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "London 27 (Launch)" on Sat, 10 Oct 2026.
+NUMBER 90 LONDON is a music venue in London with 20 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Mixmag Lab London with Eris Drew & Octo Octa as Alchemical Sisters" on Thu, 15 Oct 2026.
 
-NUMBER 90 LONDON is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including 1BYAKKO, Mariiin, Ruby SD and Alisdair and 2 more. See dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
+NUMBER 90 LONDON is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including 1BYAKKO, Mariiin, Ruby SD and Alisdair and 2 more. See dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | London 27 (Launch) | Colin Dale, Joe Le Groove |
 | Thu, 15 Oct 2026 | Mixmag Lab London with Eris Drew & Octo Octa as Alchemical Sisters | Eris Drew, Octo Octa |
 | Fri, 16 Oct 2026 | 160 Unity presents: London Is Burning 2 | Big Dope P, CA$TLE, CRAIC DAVID, DJ Slugo, Goldman, Nectax, Princess Xixi, SANA, Seb (Tropical Waste), melba |
 | Sat, 17 Oct 2026 | SHIBUI x Yum Yum Records (No90 Hideout) | James Andrew |
@@ -18,9 +17,10 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 21 upcoming gi
 | Sat, 24 Oct 2026 | bubble.ldn presents Daniel Poli & Heaven Lee | Daniel Poli, HEAVEN-LEE, Jake Hodgkinson |
 | Fri, 30 Oct 2026 | Rolling Ritmo & Night Tube Halloween: DJ Hell, Reptant (Live), Magda, Mariiin, Vera, Residents | Alisdair, DJ Hell, Joe Seymour, Magda, Mariiin, Reptant, Ruby SD, Son of Paul, Vera |
 | Fri, 30 Oct 2026 | FWEAKY - 3rd Birthday / Halloween Ball |  |
+| Sat, 31 Oct 2026 | LOW LIFE presents THE WITCHES OF EAST WICK | Bill Brewster, Frank Broughton, Sarahtonin, Zakia |
 
 ## Address
 
 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom, London
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*

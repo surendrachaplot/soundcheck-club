@@ -1,6 +1,6 @@
 # Satoshi Tanaka
 
-Satoshi Tanaka is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at BAR Inc, Osaka on Fri, 16 Oct 2026.
+Satoshi Tanaka is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at BAR Inc, Osaka on Fri, 16 Oct 2026.
 
 Satoshi Tanaka is a techno and house artist based in Japan, with 29 gigs on soundcheck across Kansai, Osaka and Tokyo. Often billed alongside Nao Nomura, DMITRI ABSINTHE and YOKO aka LAiR. Next up: BAR Inc, Osaka on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Satoshi Tanaka is a techno and house artist based in Japan, with 29 gigs on soun
 
 Nao Nomura, DMITRI ABSINTHE, YOKO aka LAiR
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitanaka/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitanaka/)*

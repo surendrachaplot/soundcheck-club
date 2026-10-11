@@ -1,14 +1,13 @@
 # Audio SF
 
-Audio SF is a music venue in San Francisco/Oakland with 26 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Kyle Watson" on Sat, 10 Oct 2026.
+Audio SF is a music venue in San Francisco/Oakland with 25 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "JUNO" on Fri, 16 Oct 2026.
 
-Audio SF is a music venue in San Francisco/Oakland listed on soundcheck. 26 upcoming gigs, with line-ups including ALMAS, Cristoph, Danny Krivit and David Harness and 2 more. See dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
+Audio SF is a music venue in San Francisco/Oakland listed on soundcheck. 25 upcoming gigs, with line-ups including ALMAS, Cristoph, Danny Krivit and David Harness and 2 more. See dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Kyle Watson |  |
 | Fri, 16 Oct 2026 | JUNO |  |
 | Fri, 16 Oct 2026 | Regard |  |
 | Sat, 17 Oct 2026 | Welker |  |
@@ -18,9 +17,10 @@ Audio SF is a music venue in San Francisco/Oakland listed on soundcheck. 26 upco
 | Fri, 30 Oct 2026 | Audio Halloween with Darude |  |
 | Sat, 31 Oct 2026 | Audio Halloween with Sistek | Sistek |
 | Fri, 6 Nov 2026 | AR/CO |  |
+| Sat, 7 Nov 2026 | Derrick Carter | Derrick Carter, Jimmy B |
 
 ## Address
 
 316 11th St; San Francisco CA 94103; United States, San Francisco/Oakland
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*

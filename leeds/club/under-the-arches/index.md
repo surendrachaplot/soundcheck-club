@@ -1,6 +1,6 @@
 # Under The Arches
 
-Under The Arches is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Under The Arches: Saoirse (Extended set) & dj sweet6teen" on Sat, 17 Oct 2026.
+Under The Arches is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Under The Arches: Saoirse (Extended set) & dj sweet6teen" on Sat, 17 Oct 2026.
 
 Under The Arches is a music venue in Leeds listed on soundcheck. 2 upcoming gigs, with line-ups including dj sweet6teen, Fat Tony and Saoirse. See dates, start times and who's playing. Lower Briggate, LS1 6LY.
 
@@ -15,4 +15,4 @@ Under The Arches is a music venue in Leeds listed on soundcheck. 2 upcoming gigs
 
 Lower Briggate, LS1 6LY, Leeds
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/under-the-arches/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/under-the-arches/)*

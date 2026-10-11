@@ -1,6 +1,6 @@
 # 98dots
 
-98dots is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at BASEMENT, New York City on Sat, 17 Oct 2026.
+98dots is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at BASEMENT, New York City on Sat, 17 Oct 2026.
 
 98dots is a techno and house artist based in Georgia, with 73 gigs on soundcheck across Antwerp, Belgrade, Berlin and Boston and 12 more. Often billed alongside Amelia Holt, Zitto and Kancheli. Next up: BASEMENT, New York City on Sat 17 Oct.
 
@@ -26,4 +26,4 @@
 
 Amelia Holt, Zitto, Kancheli
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/98dots/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/98dots/)*

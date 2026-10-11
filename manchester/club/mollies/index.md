@@ -1,14 +1,13 @@
 # Mollies
 
-Mollies is a music venue in Manchester with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Studio IV: Simba" on Sat, 10 Oct 2026.
+Mollies is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Studio IV: Jimmy Allen" on Thu, 15 Oct 2026.
 
-Mollies is a music venue in Manchester listed on soundcheck. 9 upcoming gigs, with line-ups including Joe Roche. See dates, start times and who's playing. Old Granada TV Studios, 2 Atherton St, Manchester M3 3GS.
+Mollies is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with line-ups including Joe Roche. See dates, start times and who's playing. Old Granada TV Studios, 2 Atherton St, Manchester M3 3GS.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Studio IV: Simba |  |
 | Thu, 15 Oct 2026 | Studio IV: Jimmy Allen |  |
 | Fri, 16 Oct 2026 | Studio IV: Joe Roche | Joe Roche |
 | Sat, 17 Oct 2026 | Studio IV: Simba |  |
@@ -22,4 +21,4 @@ Mollies is a music venue in Manchester listed on soundcheck. 9 upcoming gigs, wi
 
 Old Granada TV Studios, 2 Atherton St, Manchester M3 3GS, Manchester
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/mollies/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/mollies/)*

@@ -1,15 +1,13 @@
 # Turbina
 
-Turbina is a music venue in Budapest with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "LavaLava Club Season Opening with Kornél Kovács" on Sat, 10 Oct 2026.
+Turbina is a music venue in Budapest with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "HOLDTURBINA W/ MEDUZAH, GALACTIC JACKSON, TOM ATO, BAGOCS, + KELET LIVE" on Fri, 16 Oct 2026.
 
-Turbina is a music venue in Budapest listed on soundcheck. 8 upcoming gigs, with line-ups including Akác, Arash Ete, Captain Hook and CRIME and 2 more. See dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
+Turbina is a music venue in Budapest listed on soundcheck. 6 upcoming gigs, with line-ups including Akác, Arash Ete, Captain Hook and CRIME and 2 more. See dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | LavaLava Club Season Opening with Kornél Kovács | Falcao, Kornél Kovács, Tolo |
-| Sat, 10 Oct 2026 | Selecta'S BACK - CLUB SEASON OPENING | quera |
 | Fri, 16 Oct 2026 | HOLDTURBINA W/ MEDUZAH, GALACTIC JACKSON, TOM ATO, BAGOCS, + KELET LIVE | Galactic Jackson, Meduzah, Tomato (IT) |
 | Sat, 17 Oct 2026 | Crime x Burn Energy Tour with MCR-T | Akác, CRIME, Gingershot, MCR-T, Maron, THIRD 2HIFT, Technokool, schraeder, szoliver |
 | Wed, 21 Oct 2026 | TRANSCENDENT WAVES ⁓ ZSÁGER BALÁZS, Mákó Rozi, Juhász Tamás, Réti Virág | Rozi Mákó, ZSÁGER BALÁZS |
@@ -21,4 +19,4 @@ Turbina is a music venue in Budapest listed on soundcheck. 8 upcoming gigs, with
 
 Budapest, Vajdahunyad street 4., 1082, Budapest
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*

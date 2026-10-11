@@ -1,6 +1,6 @@
 # erroneous
 
-erroneous is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at XOYO, London on Wed, 14 Oct 2026.
+erroneous is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at XOYO, London on Wed, 14 Oct 2026.
 
 erroneous is a tech house and deep house artist, with 26 gigs on soundcheck across London. Often billed alongside Diana Loredana, Thomas Galbardi and Duwat?. Next up: XOYO, London on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ erroneous is a tech house and deep house artist, with 26 gigs on soundcheck acro
 
 Diana Loredana, Thomas Galbardi, Duwat?
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erroneous/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erroneous/)*

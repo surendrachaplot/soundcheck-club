@@ -1,6 +1,6 @@
 # Hamdi
 
-Hamdi is a Dubstep and Garage artist with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Snapdragon Stadium, Los Angeles on Sun, 11 Oct 2026.
+Hamdi is a Dubstep and Garage artist with 12 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Snapdragon Stadium, Los Angeles on Sun, 11 Oct 2026.
 
 Hamdi is a dubstep and garage artist based in Germany, with 66 gigs on soundcheck across Auckland, Austin, Barcelona and Berlin and 26 more. Often billed alongside MPH, Oppidan and John Summit. Next up: Snapdragon Stadium, Los Angeles on Sun 11 Oct.
 
@@ -36,4 +36,4 @@ Hamdi is a dubstep and garage artist based in Germany, with 66 gigs on soundchec
 
 MPH (1), Oppidan, John Summit
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hamdi/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hamdi/)*

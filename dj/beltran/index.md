@@ -1,14 +1,13 @@
 # Beltran
 
-Beltran is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Beltran is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Beltran is a house and tech house artist based in United States of America, with 79 gigs on soundcheck across Amsterdam, Austin, Boston and Brazil and 27 more. Often billed alongside Ben Sterling, ChaseWest and Prospa. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
+Beltran is a house and tech house artist based in United States of America, with 79 gigs on soundcheck across Amsterdam, Austin, Boston and Brazil and 27 more. Often billed alongside Ben Sterling, ChaseWest and Prospa. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 17 Oct 2026 | Jolene Downtown Miami | Miami |
 | Fri, 30 Oct 2026 | Brooklyn Storehouse | New York City |
@@ -21,6 +20,7 @@ Beltran is a house and tech house artist based in United States of America, with
 
 ## Recently played
 
+- Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
 - TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
 - TBA, Lisbon · Fri, 18 Sept 2026
 - TBA - DUCTWORK, Houston · Sat, 5 Sept 2026
@@ -28,10 +28,9 @@ Beltran is a house and tech house artist based in United States of America, with
 - DC-10, Ibiza · Mon, 10 Aug 2026
 - DC-10, Ibiza · Mon, 27 Jul 2026
 - Badewiese Naglikon, Zurich · Sat, 18 Jul 2026
-- 1756 Naud St., Los Angeles · Sun, 12 Jul 2026
 
 ## Shares bills with
 
 Ben Sterling, ChaseWest, Prospa
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beltran/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beltran/)*

@@ -1,15 +1,13 @@
 # Mehanata Bar
 
-Mehanata Bar is a music venue in New York City with 35 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Y2K Party - Cosplay and Anime Night" on Sat, 10 Oct 2026.
+Mehanata Bar is a music venue in New York City with 33 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "THE Y2K Parrty at the Legendary Mehanata NYC - 18" on Fri, 16 Oct 2026.
 
-Mehanata Bar is a music venue in New York City listed on soundcheck. 35 upcoming gigs. See dates, start times and who's playing. 113, Ludlow street.
+Mehanata Bar is a music venue in New York City listed on soundcheck. 33 upcoming gigs. See dates, start times and who's playing. 113, Ludlow street.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Y2K Party - Cosplay and Anime Night |  |
-| Sat, 10 Oct 2026 | The 2000s Forever Parrty by THE Y2K Parrty - Saturdays at Mehanata NYC |  |
 | Fri, 16 Oct 2026 | THE Y2K Parrty at the Legendary Mehanata NYC - 18 |  |
 | Fri, 16 Oct 2026 | THE Y2K Parrty at the Legendary Mehanata NYC - 18 |  |
 | Sat, 17 Oct 2026 | THE Y2K Parrty at the Legendary Mehanata NYC - 18 |  |
@@ -18,9 +16,11 @@ Mehanata Bar is a music venue in New York City listed on soundcheck. 35 upcoming
 | Sat, 24 Oct 2026 | THE Y2K Parrty at the Legendary Mehanata NYC - 18 |  |
 | Sat, 24 Oct 2026 | The 2000s Forever Parrty by THE Y2K Parrty - Saturdays at Mehanata NYC |  |
 | Fri, 30 Oct 2026 | THE Y2K Parrty at the Legendary Mehanata NYC - 18 |  |
+| Fri, 30 Oct 2026 | THE Y2K Parrty at the Legendary Mehanata NYC - 18 |  |
+| Sat, 31 Oct 2026 | THE Y2K Parrty at the Legendary Mehanata NYC - 18 |  |
 
 ## Address
 
 113, Ludlow street, New York City
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mehanata-bar/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mehanata-bar/)*

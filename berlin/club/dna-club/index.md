@@ -1,6 +1,6 @@
 # DNA. CLUB
 
-DNA. CLUB is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "BIRTHDAY AFFAIR" on Fri, 23 Oct 2026.
+DNA. CLUB is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "BIRTHDAY AFFAIR" on Fri, 23 Oct 2026.
 
 DNA. CLUB is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Alex Friday, CUT:NA, DJ Saunameister and DØME and 2 more. See dates, start times and who's playing. Adalbertstraße 98, 10999 Berlin.
 
@@ -17,4 +17,4 @@ DNA. CLUB is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with
 
 Adalbertstraße 98, 10999 Berlin, Berlin
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-club/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-club/)*

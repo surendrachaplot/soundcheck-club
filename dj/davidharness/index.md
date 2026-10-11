@@ -1,14 +1,13 @@
 # David Harness
 
-David Harness is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at California Plaza, Los Angeles on Sat, 10 Oct 2026.
+David Harness is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Audio SF, San Francisco/Oakland on Sun, 18 Oct 2026.
 
-David Harness is a house and deep house artist based in United States of America, with 73 gigs on soundcheck across Amsterdam, Detroit, Lisbon and London and 6 more. Often billed alongside Homero Espinosa, nina sol and DJ M3. Next up: California Plaza, Los Angeles on Sat 10 Oct.
+David Harness is a house and deep house artist based in United States of America, with 73 gigs on soundcheck across Amsterdam, Detroit, Lisbon and London and 6 more. Often billed alongside Homero Espinosa, nina sol and DJ M3. Next up: Audio SF, San Francisco/Oakland on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | California Plaza | Los Angeles |
 | Sun, 18 Oct 2026 | Audio SF | San Francisco/Oakland |
 | Sat, 31 Oct 2026 | Palace of Fine Arts | San Francisco/Oakland |
 | Sat, 7 Nov 2026 | Audio SF | San Francisco/Oakland |
@@ -16,6 +15,7 @@ David Harness is a house and deep house artist based in United States of America
 
 ## Recently played
 
+- California Plaza, Los Angeles · Sat, 10 Oct 2026
 - 7th West, San Francisco/Oakland · Sun, 27 Sept 2026
 - The Great Northern, San Francisco/Oakland · Sat, 5 Sept 2026
 - TBA - Secret Location, Berkeley, San Francisco/Oakland · Sat, 8 Aug 2026
@@ -23,10 +23,9 @@ David Harness is a house and deep house artist based in United States of America
 - SVN West, San Francisco/Oakland · Sun, 28 Jun 2026
 - Audio SF, San Francisco/Oakland · Sun, 28 Jun 2026
 - 1015 Folsom, San Francisco/Oakland · Fri, 19 Jun 2026
-- TV Lounge, Detroit · Fri, 22 May 2026
 
 ## Shares bills with
 
 Homero Espinosa, nina sol, DJ M3
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidharness/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidharness/)*

@@ -1,6 +1,6 @@
 # Pure Nightclub
 
-Pure Nightclub is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. The next is "Day Trip NorCal Afters feat. Gordo" on Sat, 17 Oct 2026.
+Pure Nightclub is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "Day Trip NorCal Afters feat. Gordo" on Sat, 17 Oct 2026.
 
 Pure Nightclub is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig, with line-ups including DWATA and Gordo. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Pure Nightclub is a music venue in San Francisco/Oakland listed on soundcheck. 1
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Day Trip NorCal Afters feat. Gordo | DWATA, Gordo |
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/pure-nightclub/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/pure-nightclub/)*

@@ -1,14 +1,13 @@
 # Pegassi
 
-Pegassi is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Escala25, Lisbon on Sat, 10 Oct 2026.
+Pegassi is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Roxy, Prague on Sat, 17 Oct 2026.
 
-Pegassi is a techno and trance artist based in Belgium, with 178 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 50 more. Often billed alongside Helena Lauwaert, Anetha and Benwal. Next up: Escala25, Lisbon on Sat 10 Oct.
+Pegassi is a techno and trance artist based in Belgium, with 178 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 50 more. Often billed alongside Helena Lauwaert, Anetha and Benwal. Next up: Roxy, Prague on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Escala25 | Lisbon |
 | Sat, 17 Oct 2026 | Roxy | Prague |
 | Fri, 23 Oct 2026 | Hemkade 48 | Amsterdam |
 | Sun, 25 Oct 2026 | Sugarfactory | Amsterdam |
@@ -20,9 +19,11 @@ Pegassi is a techno and trance artist based in Belgium, with 178 gigs on soundch
 | Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 4 Dec 2026 | The Wool Store | Melbourne |
+| Sat, 5 Dec 2026 | Carriageworks | Sydney |
 
 ## Recently played
 
+- Escala25, Lisbon · Sat, 10 Oct 2026
 - Gate Milano, Milan · Fri, 9 Oct 2026
 - Gate Milano, Milan · Fri, 9 Oct 2026
 - The Telegraph Building, Belfast · Sat, 3 Oct 2026
@@ -30,10 +31,9 @@ Pegassi is a techno and trance artist based in Belgium, with 178 gigs on soundch
 - Audiodrome, Turin · Sat, 26 Sept 2026
 - Mondo Open Air, Madrid · Sat, 19 Sept 2026
 - Mondo, Madrid · Sat, 19 Sept 2026
-- Else, Berlin · Sun, 13 Sept 2026
 
 ## Shares bills with
 
 Helena Lauwaert, Anetha, Benwal
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*

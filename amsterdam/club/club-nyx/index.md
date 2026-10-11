@@ -1,14 +1,13 @@
 # Club NYX
 
-Club NYX is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "3xNYX: Bootylicious" on Sat, 10 Oct 2026.
+Club NYX is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Vrijdag is NYX 16/10" on Fri, 16 Oct 2026.
 
-Club NYX is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with line-ups including Aiscream, Alexis Knox, Babs op de beat and Becking and 2 more. See dates, start times and who's playing. Reguliersdwarsstraat 42, 1017BM Amsterdam.
+Club NYX is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Aiscream, Alexis Knox, Babs op de beat and Becking and 2 more. See dates, start times and who's playing. Reguliersdwarsstraat 42, 1017BM Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | 3xNYX: Bootylicious | Diklipdaan, GISZA, Kutkyle, Luc (1), MXV (1) |
 | Fri, 16 Oct 2026 | Vrijdag is NYX 16/10 |  |
 | Sat, 17 Oct 2026 | 3xNYX: POP-UP hosted by Loena Maas | Aiscream, DJ Shre, Elijah Tevrede, Emma Champagne Queen |
 | Fri, 23 Oct 2026 | Vato Gonzalez presents Dirty House | Becking, Dj Licious, Spark (1), Vato Gonzalez |
@@ -18,9 +17,10 @@ Club NYX is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, w
 | Fri, 6 Nov 2026 | Vrijdag is NYX 6/11 | Turne |
 | Sat, 7 Nov 2026 | 3xNYX hosted by Abby OMG | ELLE FIERCE, Edward Meunier, Jordy Jordos |
 | Fri, 13 Nov 2026 | Vrijdag is NYX 13/11 | Nanno, Nathalie Henriette |
+| Sat, 14 Nov 2026 | 3xNYX: Bootylicious | Babs op de beat, MXV (1), MeRas |
 
 ## Address
 
 Reguliersdwarsstraat 42, 1017BM Amsterdam, Amsterdam
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-nyx/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-nyx/)*

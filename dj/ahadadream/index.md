@@ -1,6 +1,6 @@
 # Ahadadream
 
-Ahadadream is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Lincoln Factory, Detroit on Sat, 24 Oct 2026.
+Ahadadream is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Lincoln Factory, Detroit on Sat, 24 Oct 2026.
 
 Ahadadream is a house and techno artist based in United Kingdom, with 117 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 41 more. Often billed alongside SHERELLE, salute and Interplanetary Criminal. Next up: Lincoln Factory, Detroit on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Ahadadream is a house and techno artist based in United Kingdom, with 117 gigs o
 
 SHERELLE, salute, Interplanetary Criminal
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ahadadream/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ahadadream/)*

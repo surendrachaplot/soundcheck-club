@@ -1,14 +1,13 @@
 # Nora En Pure
 
-Nora En Pure is a Deep House and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sat, 10 Oct 2026.
+Nora En Pure is a Deep House and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Oceandiva Original, Netherlands on Fri, 23 Oct 2026.
 
-Nora En Pure is a deep house and house artist based in South Africa, with 143 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 36 more. Often billed alongside Paradoks, Corren Cavini and Claptone. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sat 10 Oct.
+Nora En Pure is a deep house and house artist based in South Africa, with 143 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 36 more. Often billed alongside Paradoks, Corren Cavini and Claptone. Next up: Oceandiva Original, Netherlands on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Fri, 23 Oct 2026 | Oceandiva Original | Netherlands |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 7 Nov 2026 | TBA - Archi Club, Costanera | Buenos Aires |
@@ -20,6 +19,7 @@ Nora En Pure is a deep house and house artist based in South Africa, with 143 gi
 
 ## Recently played
 
+- Piknic Électronik / Parc Jean Drapeau, Montreal · Sat, 10 Oct 2026
 - Electric Bristol, Bristol · Fri, 2 Oct 2026
 - TBA, Melbourne · Sat, 19 Sept 2026
 - Home The Venue, Sydney · Fri, 18 Sept 2026
@@ -27,10 +27,9 @@ Nora En Pure is a deep house and house artist based in South Africa, with 143 gi
 - Magazine Open–Air, London · Fri, 14 Aug 2026
 - Křižíkova Fountain, Prague · Sun, 9 Aug 2026
 - Hï Ibiza, Ibiza · Thu, 6 Aug 2026
-- Westhafen, Leipzig · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Paradoks, Corren Cavini, Claptone
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*

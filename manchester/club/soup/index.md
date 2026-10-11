@@ -1,15 +1,13 @@
 # Soup
 
-Soup is a music venue in Manchester with 11 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Dr Meaker The Distored Sun Tour" on Sat, 10 Oct 2026.
+Soup is a music venue in Manchester with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "The Manchester Bounce: A celebration of soundsystem culture" on Thu, 15 Oct 2026.
 
-Soup is a music venue in Manchester listed on soundcheck. 11 upcoming gigs, with line-ups including Abby Harris, atalaya, Ayy Den and Baba Sketch and 2 more. See dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
+Soup is a music venue in Manchester listed on soundcheck. 9 upcoming gigs, with line-ups including Abby Harris, atalaya, Ayy Den and Baba Sketch and 2 more. See dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Dr Meaker The Distored Sun Tour | Dr Meaker |
-| Sat, 10 Oct 2026 | Soup presents: Zuri ANL | Zuri |
 | Thu, 15 Oct 2026 | The Manchester Bounce: A celebration of soundsystem culture | Babs (3), Chunky, Mikey D.O.N, RenzNiro, Sasha Shuttleworth, Tom Boogizm, mamba.exe |
 | Fri, 16 Oct 2026 | Midnight Audio Sanctuary: Facta & K-LONE [extended set], Abby Harris, Ells | Abby Harris, Ells, Facta, K-LONE |
 | Sat, 17 Oct 2026 | Juke Joint with DJ Slugo, Ayy Den, atalaya, Baba Sketch | Ayy Den, Baba Sketch, DJ Slugo, atalaya |
@@ -18,9 +16,10 @@ Soup is a music venue in Manchester listed on soundcheck. 11 upcoming gigs, with
 | Sat, 31 Oct 2026 | Sam Binga at Soup presented by F4B and Brainiac  | Sam Binga |
 | Fri, 6 Nov 2026 | Coven: Yushh, Gina, nowah | GINA (UK), Yushh, nowah |
 | Fri, 20 Nov 2026 | DUBSTATE: Douvelle19, Kitsch, imad:re & Ginster  | Douvelle19, Ginster, Kitsch, imad:re |
+| Fri, 18 Dec 2026 | MAS: 3rd Birthday with Or:la, Frank Haag[mcr debut], Bobby Scallop + Fenton Haslam | Bobby Scallop, Fenton Haslam, Frank Haag, Or:la |
 
 ## Address
 
 31-33 Spear Street, Manchester, M1 1DF, United Kingdom, Manchester
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*

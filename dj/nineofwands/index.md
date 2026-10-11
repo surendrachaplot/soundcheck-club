@@ -1,6 +1,6 @@
 # Nine of Wands
 
-Nine of Wands is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - NAMELESS, Philadelphia on Sat, 24 Oct 2026.
+Nine of Wands is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - NAMELESS, Philadelphia on Sat, 24 Oct 2026.
 
 Nine of Wands is a techno and experimental artist based in United States of America, with 13 gigs on soundcheck across Philadelphia. Often billed alongside 6LOV3, Vicenta and human plushie. Next up: TBA - NAMELESS, Philadelphia on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Nine of Wands is a techno and experimental artist based in United States of Amer
 
 6LOV3, Vicenta, human plushie
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nineofwands/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nineofwands/)*

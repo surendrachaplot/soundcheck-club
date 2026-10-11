@@ -1,0 +1,18 @@
+# Noise Complaint! presents: Danyo, Et Al, HUNTRESS and saparilla at The Poetry Club
+
+Noise Complaint! presents: Danyo, Et Al, HUNTRESS and saparilla at The Poetry Club on Sat 17 Oct, Glasgow. 4 artists: Danyo, Et Al, HUNTRESS and saparilla. Techno and Club. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 17 Oct 2026 |
+| Venue | The Poetry Club |
+| City | Glasgow |
+
+## Line-up
+
+- Danyo
+- Et Al (1)
+- HUNTRESS
+- saparilla
+
+*Source: [soundcheck](https://soundcheck.club/e/2526083-noise-complaint-presents-danyo-et-al-huntress-and-saparilla/)*

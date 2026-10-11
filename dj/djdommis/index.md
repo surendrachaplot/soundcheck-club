@@ -1,14 +1,13 @@
 # DJ Dommis
 
-DJ Dommis is a House and Funk / Soul artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Trestle Inn, Philadelphia on Sat, 3 Oct 2026.
+DJ Dommis is a House and Funk / Soul artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Philadelphia Museum of Art, Philadelphia on Fri, 16 Oct 2026.
 
-DJ Dommis is a house and funk / soul artist based in United States of America, with 48 gigs on soundcheck across New York City and Philadelphia. Often billed alongside DJ Delish, Matthew Law and Rob Paine. Next up: Trestle Inn, Philadelphia on Sat 3 Oct.
+DJ Dommis is a house and funk / soul artist based in United States of America, with 48 gigs on soundcheck across New York City and Philadelphia. Often billed alongside DJ Delish, Matthew Law and Rob Paine. Next up: Philadelphia Museum of Art, Philadelphia on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Trestle Inn | Philadelphia |
 | Fri, 16 Oct 2026 | Philadelphia Museum of Art | Philadelphia |
 | Fri, 23 Oct 2026 | Philadelphia Museum of Art | Philadelphia |
 | Fri, 30 Oct 2026 | Philadelphia Museum of Art | Philadelphia |
@@ -32,4 +31,4 @@ DJ Dommis is a house and funk / soul artist based in United States of America, w
 
 DJ Delish, Matthew Law, Rob Paine
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdommis/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdommis/)*

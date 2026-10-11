@@ -1,6 +1,6 @@
 # Delicious DJ
 
-Delicious DJ is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Cafeteria, Toronto on Sat, 24 Oct 2026.
+Delicious DJ is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Cafeteria, Toronto on Sat, 24 Oct 2026.
 
 Delicious DJ is a house and disco artist based in Canada, with 28 gigs on soundcheck across Toronto. Often billed alongside DR 4SKYN, Prince Batrick and XANGA. Next up: Cafeteria, Toronto on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Delicious DJ is a house and disco artist based in Canada, with 28 gigs on soundc
 
 DR 4SKYN, Prince Batrick, XANGA
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deliciousdj/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deliciousdj/)*

@@ -1,6 +1,6 @@
 # DJ Sotofett
 
-DJ Sotofett is a Dub and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Magazzino sul Po, Turin on Sat, 17 Oct 2026.
+DJ Sotofett is a Dub and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Magazzino sul Po, Turin on Sat, 17 Oct 2026.
 
 DJ Sotofett is a dub and house artist based in Norway, with 84 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 24 more. Often billed alongside LNS, DJ Fett Burger and Ireen Amnes. Next up: Magazzino sul Po, Turin on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ DJ Sotofett is a dub and house artist based in Norway, with 84 gigs on soundchec
 
 LNS, DJ Fett Burger, Ireen Amnes
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsotofett/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsotofett/)*

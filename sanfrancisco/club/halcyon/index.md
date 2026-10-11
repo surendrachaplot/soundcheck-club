@@ -1,14 +1,13 @@
 # Halcyon
 
-Halcyon is a music venue in San Francisco/Oakland with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Pawlowski" on Sat, 10 Oct 2026.
+Halcyon is a music venue in San Francisco/Oakland with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "BRUNO FURLAN" on Fri, 16 Oct 2026.
 
-Halcyon is a music venue in San Francisco/Oakland listed on soundcheck. 9 upcoming gigs, with line-ups including Chus & Ceballos, Konstantin Sibold, Sam Divine and Pawlowski and 2 more. See dates, start times and who's playing. 314 11th St, San Francisco, California, 94103.
+Halcyon is a music venue in San Francisco/Oakland listed on soundcheck. 8 upcoming gigs, with line-ups including Chus & Ceballos, Konstantin Sibold, Sam Divine and Pete Tong and 2 more. See dates, start times and who's playing. 314 11th St, San Francisco, California, 94103.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Pawlowski | Pawlowski |
 | Fri, 16 Oct 2026 | BRUNO FURLAN |  |
 | Sat, 17 Oct 2026 | Chus & Ceballos | Chus & Ceballos |
 | Fri, 23 Oct 2026 | Victor Ruiz | Victor Ruiz |
@@ -22,4 +21,4 @@ Halcyon is a music venue in San Francisco/Oakland listed on soundcheck. 9 upcomi
 
 314 11th St, San Francisco, California, 94103, San Francisco/Oakland
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/halcyon/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/halcyon/)*

@@ -1,14 +1,13 @@
 # Good Room
 
-Good Room is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "STUNTSZ: HOME SHOPPING NETWORK" on Sat, 10 Oct 2026.
+Good Room is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "718 Sessions with Danny Krivit + That Matt" on Sun, 11 Oct 2026.
 
-Good Room is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including 4AM NYC, Andy Pry, Arvin T and Byld and 2 more. See dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
+Good Room is a music venue in New York City listed on soundcheck. 14 upcoming gigs, with line-ups including 4AM NYC, Andy Pry, Arvin T and Byld and 2 more. See dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | STUNTSZ: HOME SHOPPING NETWORK | Drew Baker, Memphy, Mike Servito, Prince Rose, Ty Sunderland |
 | Sun, 11 Oct 2026 | 718 Sessions with Danny Krivit + That Matt | Danny Krivit, That Matt |
 | Fri, 16 Oct 2026 | 12 Years of Good Room - DJ Holographic, 4AM NYC, Lee Cash & Perna (All Night) | 4AM NYC, DJ Holographic, Lee Cash, Perna |
 | Sat, 17 Oct 2026 | 12 Years of Good Room - The Carry Nation (all night), Timo Lee, JÄK-87 | JÄK-87, The Carry Nation, Timo Lee |
@@ -18,9 +17,10 @@ Good Room is a music venue in New York City listed on soundcheck. 15 upcoming gi
 | Fri, 30 Oct 2026 | Synthicide Halloween ft Terence Fixmer, Andi, Justin Aulis Long, Stiffdance | Andi, Justin Aulis Long, Stiffdance, Terence Fixmer |
 | Sat, 31 Oct 2026 | TIKI DISCO HALLOWEEN | Andy Pry, Eli Escobar, Lloydski |
 | Fri, 6 Nov 2026 | 22 Years of FIXED ft Kelly Lee Owens (dj set), JDH & Dave P, Ivan Berko (all night) | Ivan Berko, JDH & Dave P, Kelly Lee Owens |
+| Sat, 7 Nov 2026 | Members Party: Tam Tam, Mike Guimond & Harim, Fever Dream & ellen.j | Fever Dream, Harim, Mike Guimond, Tam Tam, ellen.j |
 
 ## Address
 
 98 Meserole Ave, Brooklyn, NY 11222 USA, New York City
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*

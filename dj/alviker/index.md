@@ -1,6 +1,6 @@
 # Alviker
 
-Alviker is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Summum, Ibiza on Fri, 16 Oct 2026.
+Alviker is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Summum, Ibiza on Fri, 16 Oct 2026.
 
 Alviker is a techno and trance artist based in Spain, with 76 gigs on soundcheck across Bangkok, Barcelona, Berlin and Ibiza and 2 more. Often billed alongside Reitze, Alputo and DAVID MENA. Next up: Summum, Ibiza on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Alviker is a techno and trance artist based in Spain, with 76 gigs on soundcheck
 
 Reitze, Alputo, DAVID MENA
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alviker/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alviker/)*

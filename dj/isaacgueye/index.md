@@ -1,6 +1,6 @@
 # ISAAC GUEYE
 
-ISAAC GUEYE is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Paname sur Seine, Paris on Sun, 11 Oct 2026.
+ISAAC GUEYE is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Paname sur Seine, Paris on Sun, 11 Oct 2026.
 
 ISAAC GUEYE is a tech house and minimal artist based in France, with 7 gigs on soundcheck across Paris. Often billed alongside Catsinka, Ayman and Ben:Rodd. Next up: Paname sur Seine, Paris on Sun 11 Oct.
 
@@ -23,4 +23,4 @@ ISAAC GUEYE is a tech house and minimal artist based in France, with 7 gigs on s
 
 Catsinka, Ayman, Ben:Rodd
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacgueye/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacgueye/)*

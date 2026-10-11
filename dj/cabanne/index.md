@@ -1,14 +1,13 @@
 # Cabanne
 
-Cabanne is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri, 9 Oct 2026.
+Cabanne is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at essaim, Paris on Sat, 24 Oct 2026.
 
-Cabanne is a house and minimal artist based in France, with 70 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 32 more. Often billed alongside Rhadoo, Lowris and Cesar Merveille. Next up: Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri 9 Oct.
+Cabanne is a house and minimal artist based in France, with 70 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 32 more. Often billed alongside Rhadoo, Lowris and Cesar Merveille. Next up: essaim, Paris on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Les Beaux-Arts de Marseille - Inseamm. | Marseille |
 | Sat, 24 Oct 2026 | essaim | Paris |
 | Fri, 30 Oct 2026 | ESC | Montreal |
 | Sat, 31 Oct 2026 | Mooi Space | Toronto |
@@ -29,4 +28,4 @@ Cabanne is a house and minimal artist based in France, with 70 gigs on soundchec
 
 Rhadoo, Lowris, Cesar Merveille
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cabanne/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cabanne/)*

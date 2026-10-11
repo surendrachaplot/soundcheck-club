@@ -1,14 +1,13 @@
 # Mha iri
 
-Mha iri is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 10 Oct 2026.
+Mha iri is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
 
-Mha iri is a techno and trance artist based in United Kingdom, with 110 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 39 more. Often billed alongside Eli Brown, Joyhauser and Lilly Palmer. Next up: Uebel & Gefährlich, Hamburg on Sat 10 Oct.
+Mha iri is a techno and trance artist based in United Kingdom, with 110 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 39 more. Often billed alongside Eli Brown, Joyhauser and Lilly Palmer. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Uebel & Gefährlich | Hamburg |
 | Sat, 24 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Thu, 12 Nov 2026 | Noto Philadelphia | Philadelphia |
 | Sat, 14 Nov 2026 | House of Yes | New York City |
@@ -17,6 +16,7 @@ Mha iri is a techno and trance artist based in United Kingdom, with 110 gigs on 
 
 ## Recently played
 
+- Uebel & Gefährlich, Hamburg · Sat, 10 Oct 2026
 - Palladium Riga, Riga · Fri, 9 Oct 2026
 - The Mothership, Auckland · Fri, 25 Sept 2026
 - TBA - Il Mercato Centrale, Sydney · Fri, 18 Sept 2026
@@ -24,10 +24,9 @@ Mha iri is a techno and trance artist based in United Kingdom, with 110 gigs on 
 - TBA - Los Angeles (Warehouse), Los Angeles · Fri, 7 Aug 2026
 - Amnesia Ibiza, Ibiza · Sun, 2 Aug 2026
 - Fridas Pier, Stuttgart · Sat, 1 Aug 2026
-- Kilomètre25, Paris · Thu, 16 Jul 2026
 
 ## Shares bills with
 
 Eli Brown, Joyhauser, Lilly Palmer
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mhairi/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mhairi/)*

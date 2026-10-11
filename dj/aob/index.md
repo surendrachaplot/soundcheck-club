@@ -1,6 +1,6 @@
 # AOB
 
-AOB is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Gallery, London on Thu, 15 Oct 2026.
+AOB is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Gallery, London on Thu, 15 Oct 2026.
 
 AOB is a house and tech house artist based in United Kingdom, with 54 gigs on soundcheck across Ibiza, Istanbul, London and Sheffield. Often billed alongside Nirvan, TOMMY GILARDONI and Elioss. Next up: Gallery, London on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ AOB is a house and tech house artist based in United Kingdom, with 54 gigs on so
 
 Nirvan, TOMMY GILARDONI, Elioss
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aob/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aob/)*

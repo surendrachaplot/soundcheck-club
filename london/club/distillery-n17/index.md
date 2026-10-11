@@ -1,14 +1,13 @@
 # Distillery N17
 
-Distillery N17 is a music venue in London with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "The Tribe Smugglers" on Sat, 10 Oct 2026.
+Distillery N17 is a music venue in London with 11 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "DHR & Capeesh: Adam Pits, Adrien Calvet & Aquamarine" on Fri, 16 Oct 2026.
 
-Distillery N17 is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Acid Steve, Adam Pits, Adrien Calvet and Alba Heidari and 2 more. See dates, start times and who's playing. Unit 25, Millmead Industrial Estate.
+Distillery N17 is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Acid Steve, Adam Pits, Adrien Calvet and Alba Heidari and 2 more. See dates, start times and who's playing. Unit 25, Millmead Industrial Estate.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | The Tribe Smugglers | Billo Sama (2) |
 | Fri, 16 Oct 2026 | DHR & Capeesh: Adam Pits, Adrien Calvet & Aquamarine | Adam Pits, Adrien Calvet, Aquamarine, Oolong, Phin (UK) |
 | Sat, 17 Oct 2026 | Astral Circus vs The R.A.V.E. Institution | DoubKore, Ebru Al, FlibbertiGibbet, JourneyOM, Nikki S, frieda (IT) |
 | Fri, 23 Oct 2026 | Get A Grip | Crystal (3), Dana Montana, Ivicore |
@@ -18,9 +17,10 @@ Distillery N17 is a music venue in London listed on soundcheck. 12 upcoming gigs
 | Sat, 7 Nov 2026 | Audio 23 | Acid Steve, MIRO (DE) |
 | Sat, 21 Nov 2026 | Down The Spiral Vol.2 | Chris Liberator, Jerome Hill |
 | Fri, 27 Nov 2026 | INFERNO |  |
+| Sat, 28 Nov 2026 | Mother #002 | Alba Heidari, Bleim01, Flight Mode (DE), G.oss, Gareth Wild, LUISELLE, Silpagare |
 
 ## Address
 
 Unit 25, Millmead Industrial Estate, London
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/distillery-n17/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/distillery-n17/)*

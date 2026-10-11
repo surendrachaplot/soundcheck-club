@@ -1,6 +1,6 @@
 # Mija
 
-Mija is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Le Sucre, Lyon on Sun, 18 Oct 2026.
+Mija is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Le Sucre, Lyon on Sun, 18 Oct 2026.
 
 Mija is a techno and house artist based in United States of America, with 132 gigs on soundcheck across Amsterdam, Antwerp, Austin and Austria and 44 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: Le Sucre, Lyon on Sun 18 Oct.
 
@@ -21,6 +21,7 @@ Mija is a techno and house artist based in United States of America, with 132 gi
 
 ## Recently played
 
+- Manning Bar, Sydney · Sat, 10 Oct 2026
 - M7 Warehouse, Melbourne · Fri, 9 Oct 2026
 - Hangaren, Copenhagen · Fri, 11 Sept 2026
 - Hall, Tallinn · Fri, 4 Sept 2026
@@ -28,10 +29,9 @@ Mija is a techno and house artist based in United States of America, with 132 gi
 - TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna · Fri, 31 Jul 2026
 - Mondo, Madrid · Thu, 30 Jul 2026
 - Spook Club, Valencia · Sat, 25 Jul 2026
-- Else, Berlin · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Bad Boombox, Mischluft, Janis Zielinski
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mija/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mija/)*

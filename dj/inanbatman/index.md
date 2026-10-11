@@ -1,6 +1,6 @@
 # INAN BATMAN
 
-INAN BATMAN is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Mason Bar, Cyprus on Fri, 16 Oct 2026.
+INAN BATMAN is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Mason Bar, Cyprus on Fri, 16 Oct 2026.
 
 INAN BATMAN is a house and tech house artist based in Germany, with 24 gigs on soundcheck across Antwerp, Berlin, Cyprus and Düsseldorf and 3 more. Often billed alongside James Hype (UK), LOVRA and NXN. Next up: Mason Bar, Cyprus on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ INAN BATMAN is a house and tech house artist based in Germany, with 24 gigs on s
 
 James Hype (UK), LOVRA, NXN
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inanbatman/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inanbatman/)*

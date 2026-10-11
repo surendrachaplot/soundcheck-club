@@ -1,6 +1,6 @@
 # VIEL (IT)
 
-VIEL (IT) is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
+VIEL (IT) is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
 VIEL (IT) is an afro house and deep house artist, with 12 gigs on soundcheck across Amsterdam and Milan. Often billed alongside No Rush (IT), Aaron (IT) and Eran Hersh. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ VIEL (IT) is an afro house and deep house artist, with 12 gigs on soundcheck acr
 
 No Rush (IT), Aaron (IT), Eran Hersh
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vielit/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vielit/)*

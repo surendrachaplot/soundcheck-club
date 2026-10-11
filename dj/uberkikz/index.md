@@ -1,14 +1,13 @@
 # ÜBERKIKZ
 
-ÜBERKIKZ is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Fuse, Brussels on Sat, 10 Oct 2026.
+ÜBERKIKZ is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Gotec, Karlsruhe on Sat, 17 Oct 2026.
 
-ÜBERKIKZ is a techno and house artist based in Russia, with 182 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside future.666, DJ Hyperdrive and fumi (DE). Next up: Fuse, Brussels on Sat 10 Oct.
+ÜBERKIKZ is a techno and house artist based in Russia, with 182 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside future.666, DJ Hyperdrive and fumi (DE). Next up: Gotec, Karlsruhe on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Fuse | Brussels |
 | Sat, 17 Oct 2026 | Gotec | Karlsruhe |
 | Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |
@@ -20,9 +19,11 @@
 | Sat, 14 Nov 2026 | TBA | Amsterdam |
 | Sat, 28 Nov 2026 | MUENZE | Berlin |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
+| Fri, 11 Dec 2026 | Gate Milano | Milan |
 
 ## Recently played
 
+- Fuse, Brussels · Sat, 10 Oct 2026
 - TBA - Port of Belgrade, Belgrade · Fri, 2 Oct 2026
 - INPUT High Fidelity Dance Club, Barcelona · Fri, 2 Oct 2026
 - RSO.BERLIN, Berlin · Sat, 19 Sept 2026
@@ -30,10 +31,9 @@
 - Forte Antenne, Rome · Fri, 11 Sept 2026
 - Westhafen, Leipzig · Sat, 5 Sept 2026
 - Odonien, Cologne · Fri, 4 Sept 2026
-- Dürener Badesee, Cologne · Fri, 28 Aug 2026
 
 ## Shares bills with
 
 future.666, DJ Hyperdrive, fumi (DE)
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uberkikz/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uberkikz/)*

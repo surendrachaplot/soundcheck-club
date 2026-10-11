@@ -1,0 +1,16 @@
+# Tempio Radio Notturna: Sasa, Alfa Cornae, KAMA (FREE ENTRY) at Tempio del Futuro Perduto
+
+Tempio Radio Notturna: Sasa, Alfa Cornae, KAMA (FREE ENTRY) at Tempio del Futuro Perduto on Thu 22 Oct, Milan. 2 artists: Alfa Cornae and KAMA. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Thu, 22 Oct 2026 |
+| Venue | Tempio del Futuro Perduto |
+| City | Milan |
+
+## Line-up
+
+- Alfa Cornae
+- KAMA
+
+*Source: [soundcheck](https://soundcheck.club/e/2535555-tempio-radio-notturna-sasa-alfa-cornae-kama-free-entry-at-te/)*

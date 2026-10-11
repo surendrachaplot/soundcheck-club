@@ -1,6 +1,6 @@
 # Stan Christ
 
-Stan Christ is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
+Stan Christ is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
 Stan Christ is a techno and industrial artist based in Netherlands, with 127 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 37 more. Often billed alongside DYEN, DIØN and Cynthia Spiering. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Stan Christ is a techno and industrial artist based in Netherlands, with 127 gig
 
 DYEN, DIØN, Cynthia Spiering
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stanchrist/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stanchrist/)*

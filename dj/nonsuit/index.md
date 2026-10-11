@@ -1,6 +1,6 @@
 # nonsuit
 
-nonsuit is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Podlasie Club, Chicago on Sat, 17 Oct 2026.
+nonsuit is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Podlasie Club, Chicago on Sat, 17 Oct 2026.
 
 nonsuit is a techno and club artist based in United States of America, with 98 gigs on soundcheck across Chicago, Los Angeles, New York City and Portland and 2 more. Often billed alongside likeholywine, Adam Kraft and Beverly Chills. Next up: Podlasie Club, Chicago on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ nonsuit is a techno and club artist based in United States of America, with 98 g
 
 likeholywine, Adam Kraft, Beverly Chills
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nonsuit/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nonsuit/)*

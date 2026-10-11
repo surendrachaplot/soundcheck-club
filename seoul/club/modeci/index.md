@@ -1,14 +1,13 @@
 # Modeci
 
-Modeci is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "JUNGLE ZONE VOL.7 2ND ANNIVERSARY PARTY" on Sat, 10 Oct 2026.
+Modeci is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "DMX Krew (live set)" on Thu, 15 Oct 2026.
 
-Modeci is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including .2ndfloor, Acidwork, denny and DJ Soulscape and 2 more. See dates, start times and who's playing. 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea.
+Modeci is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including .2ndfloor, Acidwork, denny and DJ Soulscape and 2 more. See dates, start times and who's playing. 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | JUNGLE ZONE VOL.7 2ND ANNIVERSARY PARTY | Xena |
 | Thu, 15 Oct 2026 | DMX Krew (live set) | .2ndfloor, DMX Krew, Jesse You, Mogwaa |
 | Fri, 16 Oct 2026 | LIL LOUIS (The Founding Father of House, US) | Acidwork, DJ Soulscape, Kyper, Lil' Louis, Oldshoes, denny |
 
@@ -16,4 +15,4 @@ Modeci is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with lin
 
 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/modeci/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/modeci/)*

@@ -1,14 +1,13 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "RAZZCLUBS: Rivvaa Live + Lucca Dj Set + Elli Acula + Yushh" on Sat, 10 Oct 2026.
+Razzmatazz is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Torax x Journeys: Anthony Linell, Claudio PRC, Philippa Pacho, Rrose, mad miran, oma totem" on Sun, 11 Oct 2026.
 
-Razzmatazz is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Acidnena, Adame DJ, Andrae Durden and ANJELIKA SAHAKIAN and 2 more. See dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
+Razzmatazz is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including Acidnena, Adame DJ, Andrae Durden and ANJELIKA SAHAKIAN and 2 more. See dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | RAZZCLUBS: Rivvaa Live + Lucca Dj Set + Elli Acula + Yushh | BLANKA, Brus Equation, Carlota, DJ2D2, Elli Acula, Julietta Ferrari, Lucca, SH4RIN, Yushh |
 | Sun, 11 Oct 2026 | Torax x Journeys: Anthony Linell, Claudio PRC, Philippa Pacho, Rrose, mad miran, oma totem | Anthony Linell, Claudio PRC, Jhort, Philippa Pacho, Rrose, Verushka, mad miran, oma totem |
 | Fri, 16 Oct 2026 | RAZZCLUBS: Arthi + Flota: Dj Sueño + El Mini Live + Dj Xeira + Sonia Lagoon | Arthi, DJ2D2, Dj Sueño, Drizzyclare, Flaca (ES), LUCERO, Nila, PethbUri, Sonia Lagoon (2), Tiyumii |
 | Sat, 17 Oct 2026 | RAZZCLUBS: Mainline Club + MARRØN (All night long) + The Source Experience Live | Acidnena, Cromby, DAVID LOST, Ed Warner, John Heaven, MARRØN, Nile Fee, Sylvia (ES), Twelve Seven |
@@ -23,4 +22,4 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs,
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

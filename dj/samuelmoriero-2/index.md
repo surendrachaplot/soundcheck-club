@@ -1,14 +1,13 @@
 # Samuel Moriero (2)
 
-Samuel Moriero (2) is a Techno and Trance artist with 20 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA, Toronto on Sat, 3 Oct 2026.
+Samuel Moriero (2) is a Techno and Psytrance artist with 19 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA, Toronto on Sat, 10 Oct 2026.
 
-Samuel Moriero is a techno and trance artist based in Italy, with 32 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 20 more. Often billed alongside Onlynumbers, ASLO and Adam Bartas. Next up: TBA, Toronto on Sat 3 Oct.
+Samuel Moriero is a techno and psytrance artist based in Italy, with 32 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 20 more. Often billed alongside Onlynumbers, ASLO and Adam Bartas. Next up: TBA, Toronto on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA | Toronto |
 | Sat, 10 Oct 2026 | TBA | Toronto |
 | Fri, 16 Oct 2026 | 821 Runnymede Rd | Toronto |
 | Fri, 23 Oct 2026 | Interference | Toulouse |
@@ -20,9 +19,11 @@ Samuel Moriero is a techno and trance artist based in Italy, with 32 gigs on sou
 | Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 18 Dec 2026 | Poolen | Copenhagen |
+| Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 
 ## Recently played
 
+- TBA, Toronto · Sat, 10 Oct 2026
 - TBA, Toronto · Sat, 3 Oct 2026
 - 314 Scholes, New York City · Fri, 2 Oct 2026
 - DSTRKT Club Berlin, Berlin · Sat, 29 Aug 2026
@@ -30,10 +31,9 @@ Samuel Moriero is a techno and trance artist based in Italy, with 32 gigs on sou
 - Schrotty, Cologne · Fri, 24 Jul 2026
 - Amnesia Ibiza, Ibiza · Wed, 15 Jul 2026
 - Club Vaag, Antwerp · Fri, 10 Jul 2026
-- Fuse, Brussels · Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Onlynumbers, ASLO, Adam Bartas
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*

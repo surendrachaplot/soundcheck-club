@@ -1,6 +1,6 @@
 # Burnski
 
-Burnski is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at 11 Bromley Street, Birmingham on Sat, 17 Oct 2026.
+Burnski is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at 11 Bromley Street, Birmingham on Sat, 17 Oct 2026.
 
 Burnski is a house and garage artist based in United Kingdom, with 68 gigs on soundcheck across Amsterdam, Bali, Barcelona and Birmingham and 15 more. Often billed alongside Kepler, Sidney Charles and Dennis Quin. Next up: 11 Bromley Street, Birmingham on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Burnski is a house and garage artist based in United Kingdom, with 68 gigs on so
 
 Kepler, Sidney Charles, Dennis Quin
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burnski/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burnski/)*

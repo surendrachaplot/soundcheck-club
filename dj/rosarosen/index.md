@@ -1,6 +1,6 @@
 # Rosa Rosen
 
-Rosa Rosen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Gleis19, Vienna on Sun, 11 Oct 2026.
+Rosa Rosen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Gleis19, Vienna on Sun, 11 Oct 2026.
 
 Rosa Rosen is a techno and house artist based in Austria, with 19 gigs on soundcheck across Vienna. Often billed alongside Anna Ullrich, Max Wagner and KRAWALLBARBIE. Next up: Gleis19, Vienna on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Rosa Rosen is a techno and house artist based in Austria, with 19 gigs on soundc
 
 Anna Ullrich, Max Wagner, KRAWALLBARBIE
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosarosen/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosarosen/)*

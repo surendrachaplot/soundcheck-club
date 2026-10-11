@@ -1,6 +1,6 @@
 # Radio Slave (U.K. - REKIDS) at Bar Oriente
 
-Radio Slave (U.K. - REKIDS) at Bar Oriente on Fri 27 Nov, Mexico City. 1 artist: Radio Slave. See the line-up on soundcheck.
+Radio Slave (U.K. - REKIDS) at Bar Oriente on Fri 27 Nov, Mexico City. 1 artist: Radio Slave. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

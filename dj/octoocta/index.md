@@ -1,6 +1,6 @@
 # Octo Octa
 
-Octo Octa is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
+Octo Octa is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
 
 Octo Octa is a house and techno artist based in United States of America, with 210 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 60 more. Often billed alongside Eris Drew, ISAbella and CCL. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
 
@@ -23,6 +23,7 @@ Octo Octa is a house and techno artist based in United States of America, with 2
 
 ## Recently played
 
+- Empire Polo Club, Palm-springs · Sat, 10 Oct 2026
 - TRANSMISSION DC, Washington DC · Fri, 9 Oct 2026
 - Nowadays, New York City · Thu, 8 Oct 2026
 - Process PDX, Portland · Sat, 3 Oct 2026
@@ -30,10 +31,9 @@ Octo Octa is a house and techno artist based in United States of America, with 2
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 - The Cause, London · Sat, 12 Sept 2026
 - 528 Ibiza, Ibiza · Tue, 1 Sept 2026
-- Southwark Park, London · Sun, 30 Aug 2026
 
 ## Shares bills with
 
 Eris Drew, ISAbella, CCL
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*

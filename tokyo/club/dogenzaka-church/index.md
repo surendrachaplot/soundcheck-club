@@ -1,14 +1,13 @@
 # Dogenzaka Church
 
-Dogenzaka Church is a music venue in Tokyo with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "BASS CATHEDRAL - DRUM'N'BASS SHIBUYA" on Sat, 10 Oct 2026.
+Dogenzaka Church is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Dogenzaka Exotic VooDoo Lounge" on Sun, 11 Oct 2026.
 
-Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 8 upcoming gigs, with line-ups including EIJI, Hironobu Jyounai, Nevermind and vinylDJ Eiji Takehana and 2 more. See dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階.
+Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including Hironobu Jyounai, Nevermind, vinylDJ Eiji Takehana and YOSHI KANOU and 1 more. See dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | BASS CATHEDRAL - DRUM'N'BASS SHIBUYA | EIJI, Hironobu Jyounai, vinylDJ Eiji Takehana |
 | Sun, 11 Oct 2026 | Dogenzaka Exotic VooDoo Lounge |  |
 | Tue, 13 Oct 2026 | CANDELA OF MUSIC | YOSHI KANOU |
 | Thu, 15 Oct 2026 | AMEN | Nevermind, yuitty |
@@ -21,4 +20,4 @@ Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 8 upcoming gigs
 
 Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階, Tokyo
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dogenzaka-church/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dogenzaka-church/)*

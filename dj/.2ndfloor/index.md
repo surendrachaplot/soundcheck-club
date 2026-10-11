@@ -1,6 +1,6 @@
 # .2ndfloor
 
-.2ndfloor is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Modeci, Seoul on Thu, 15 Oct 2026.
+.2ndfloor is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Modeci, Seoul on Thu, 15 Oct 2026.
 
 .2ndfloor is a house and tech house artist based in South Korea, with 126 gigs on soundcheck across Seoul. Often billed alongside Lyumin, Young Sun and Mihak. Next up: Modeci, Seoul on Thu 15 Oct.
 
@@ -27,4 +27,4 @@
 
 Lyumin, Young Sun, Mihak
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/.2ndfloor/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/.2ndfloor/)*

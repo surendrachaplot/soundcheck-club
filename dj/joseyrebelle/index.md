@@ -1,14 +1,13 @@
 # Josey Rebelle
 
-Josey Rebelle is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at M.O.T, London on Sat, 10 Oct 2026.
+Josey Rebelle is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Open Ground, Wuppertal on Sat, 17 Oct 2026.
 
-Josey Rebelle is a techno and house artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside Josh Caffé, NIKS and CCL. Next up: M.O.T, London on Sat 10 Oct.
+Josey Rebelle is a techno and house artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside Josh Caffé, NIKS and CCL. Next up: Open Ground, Wuppertal on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | M.O.T | London |
 | Sat, 17 Oct 2026 | Open Ground | Wuppertal |
 | Fri, 23 Oct 2026 | Bassiani | Tbilisi |
 | Sat, 21 Nov 2026 | SMUT Athens | Athens |
@@ -17,6 +16,7 @@ Josey Rebelle is a techno and house artist based in United Kingdom, with 128 gig
 
 ## Recently played
 
+- M.O.T, London · Sat, 10 Oct 2026
 - The White Hotel, Manchester · Fri, 9 Oct 2026
 - MOD Club, Tallinn · Sat, 26 Sept 2026
 - Open Ground, Wuppertal · Sat, 19 Sept 2026
@@ -24,10 +24,9 @@ Josey Rebelle is a techno and house artist based in United Kingdom, with 128 gig
 - Phonox, London · Sat, 29 Aug 2026
 - RSO.BERLIN, Berlin · Thu, 13 Aug 2026
 - Melkweg, Amsterdam · Thu, 30 Jul 2026
-- Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin · Thu, 16 Jul 2026
 
 ## Shares bills with
 
 Josh Caffé, NIKS, CCL
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joseyrebelle/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joseyrebelle/)*

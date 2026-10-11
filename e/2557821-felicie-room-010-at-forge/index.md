@@ -1,6 +1,6 @@
 # FELICIE @ROOM:010 at Forge
 
-FELICIE @ROOM:010 at Forge on Sat 7 Nov, Bucharest. 2 artists: Félicie and Michael Ius. Techno. See the line-up on soundcheck.
+FELICIE @ROOM:010 at Forge on Sat 7 Nov, Bucharest. 3 artists: FAUST, Félicie and Michael Ius. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ FELICIE @ROOM:010 at Forge on Sat 7 Nov, Bucharest. 2 artists: Félicie and Mich
 
 ## Line-up
 
+- FAUST (1)
 - Félicie
 - Michael Ius
 

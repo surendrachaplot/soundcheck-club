@@ -1,6 +1,6 @@
 # Dj Manglés
 
-Dj Manglés is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Lanna Club, North on Sat, 28 Nov 2026.
+Dj Manglés is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Lanna Club, North on Sat, 28 Nov 2026.
 
 Dj Manglés is a techno and electro artist based in Spain, with 14 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Madrid and 3 more. Often billed alongside Christian Wunsch, Jheal and Elisa Batti. Next up: Lanna Club, North on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Dj Manglés is a techno and electro artist based in Spain, with 14 gigs on sound
 
 Christian Wunsch, Jheal, Elisa Batti
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmangles/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmangles/)*

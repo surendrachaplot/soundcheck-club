@@ -1,6 +1,6 @@
 # refanged
 
-refanged is a Club and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Collectif MTL, Montreal on Fri, 30 Oct 2026.
+refanged is a Club and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Collectif MTL, Montreal on Fri, 30 Oct 2026.
 
 refanged is a club and hardcore artist, with 11 gigs on soundcheck across Montreal and Toronto. Often billed alongside fangsie, the bald girl and D.Blavatsky. Next up: Collectif MTL, Montreal on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ refanged is a club and hardcore artist, with 11 gigs on soundcheck across Montre
 
 fangsie, the bald girl, D.Blavatsky
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/refanged/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/refanged/)*

@@ -1,6 +1,6 @@
 # sclews
 
-sclews is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+sclews is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 sclews is an experimental and techno artist based in United Kingdom, with 9 gigs on soundcheck across Manchester, North and Sheffield. Often billed alongside Kop-Z, TOOT and Flames Disperse. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ sclews is an experimental and techno artist based in United Kingdom, with 9 gigs
 
 Kop-Z, TOOT, Flames Disperse
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sclews/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sclews/)*

@@ -1,6 +1,6 @@
 # Dj Saliva
 
-Dj Saliva is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Signal, New York City on Sun, 11 Oct 2026.
+Dj Saliva is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Signal, New York City on Sun, 11 Oct 2026.
 
 Dj Saliva is a techno and electro artist based in Portugal, with 117 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside MCMLXXXV, CEM and JASSS. Next up: Signal, New York City on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Dj Saliva is a techno and electro artist based in Portugal, with 117 gigs on sou
 
 MCMLXXXV, CEM, JASSS
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaliva/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaliva/)*

@@ -1,6 +1,6 @@
 # Alcantara
 
-Alcantara is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Elsewhere, New York City on Sat, 17 Oct 2026.
+Alcantara is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Elsewhere, New York City on Sat, 17 Oct 2026.
 
 Alcantara is a house and disco artist based in United States of America, with 26 gigs on soundcheck across Detroit, New York City and Tokyo. Often billed alongside Jay Dalawa, LANSUH and Gabriel Etrata. Next up: Elsewhere, New York City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Alcantara is a house and disco artist based in United States of America, with 26
 
 Jay Dalawa, LANSUH, Gabriel Etrata
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alcantara/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alcantara/)*

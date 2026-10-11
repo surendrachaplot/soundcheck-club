@@ -1,14 +1,13 @@
 # Subwerk Club
 
-Subwerk Club is a music venue in Bangkok with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Hard Techno with Kasat Ka (Cult)  - by Rave Times" on Sat, 10 Oct 2026.
+Subwerk Club is a music venue in Bangkok with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Hard Techno with Killyx (dasid) - by Rave Times" on Fri, 16 Oct 2026.
 
-Subwerk Club is a music venue in Bangkok listed on soundcheck. 5 upcoming gigs, with line-ups including Sam Laxton. See dates, start times and who's playing. 2, 1 และ 2/3 Decho Rd, Suriya Wong, Suriyawong, 10500.
+Subwerk Club is a music venue in Bangkok listed on soundcheck. 4 upcoming gigs, with line-ups including Sam Laxton. See dates, start times and who's playing. 2, 1 และ 2/3 Decho Rd, Suriya Wong, Suriyawong, 10500.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Hard Techno with Kasat Ka (Cult)  - by Rave Times |  |
 | Fri, 16 Oct 2026 | Hard Techno with Killyx (dasid) - by Rave Times |  |
 | Sat, 17 Oct 2026 | Hard Techno with BRIANNA BAXTER - by Rave Times | Sam Laxton |
 | Fri, 30 Oct 2026 | Kinky Halloween HARD TECHNO - by Rave Times |  |
@@ -18,4 +17,4 @@ Subwerk Club is a music venue in Bangkok listed on soundcheck. 5 upcoming gigs, 
 
 2, 1 และ 2/3 Decho Rd, Suriya Wong, Suriyawong, 10500, Bangkok
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/subwerk-club/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/subwerk-club/)*

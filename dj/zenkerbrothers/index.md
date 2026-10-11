@@ -1,6 +1,6 @@
 # Zenker Brothers
 
-Zenker Brothers is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Announced to Ticketholders Day Of, Seattle on Sat, 10 Oct 2026.
+Zenker Brothers is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Announced to Ticketholders Day Of, Seattle on Sat, 10 Oct 2026.
 
 Zenker Brothers is a techno and house artist based in Germany, with 153 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 42 more. Often billed alongside Stenny, Skee Mask and re:ni. Next up: TBA - Announced to Ticketholders Day Of, Seattle on Sat 10 Oct.
 
@@ -17,6 +17,7 @@ Zenker Brothers is a techno and house artist based in Germany, with 153 gigs on 
 
 ## Recently played
 
+- TBA - Announced to Ticketholders Day Of, Seattle · Sat, 10 Oct 2026
 - TBA, Boston · Thu, 8 Oct 2026
 - TBA - Los Angeles (Warehouse), Los Angeles · Sat, 3 Oct 2026
 - The Loom, San Francisco/Oakland · Fri, 2 Oct 2026
@@ -24,10 +25,9 @@ Zenker Brothers is a techno and house artist based in Germany, with 153 gigs on 
 - Karmen Camina, Strasbourg · Sat, 26 Sept 2026
 - Legal, Munich · Fri, 18 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 5 Sept 2026
-- Bassiani, Tbilisi · Fri, 14 Aug 2026
 
 ## Shares bills with
 
 Stenny, Skee Mask, re:ni
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zenkerbrothers/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zenkerbrothers/)*

@@ -1,14 +1,13 @@
 # Laboratorio Octogon
 
-Laboratorio Octogon is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "PORTAL 61 - Atrâm, Quka & TASUIK ALL NIGHT LONG" on Sat, 10 Oct 2026.
+Laboratorio Octogon is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "MAKINA TRICKz vol. 10 - Sandwicho + HALIEN + 4DR14NN LM + DEUS EX MAKINA" on Sun, 11 Oct 2026.
 
-Laboratorio Octogon is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with line-ups including Atrâm, LPV, Nita Key and Quka and 1 more. See dates, start times and who's playing. Calle Cerámica, 16, 28038 Madrid.
+Laboratorio Octogon is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including LPV, Nita Key and Sandwicho. See dates, start times and who's playing. Calle Cerámica, 16, 28038 Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | PORTAL 61 - Atrâm, Quka & TASUIK ALL NIGHT LONG | Atrâm, Quka |
 | Sun, 11 Oct 2026 | MAKINA TRICKz vol. 10 - Sandwicho + HALIEN + 4DR14NN LM + DEUS EX MAKINA | Sandwicho |
 | Fri, 16 Oct 2026 | INVITACIONES INERZIA 004 with LPV at OCTOGON360 | LPV |
 | Sat, 17 Oct 2026 | REC PRESENTS — ÓSCAR ESCAPA Vinyl Only Night |  |
@@ -20,4 +19,4 @@ Laboratorio Octogon is a music venue in Madrid listed on soundcheck. 7 upcoming 
 
 Calle Cerámica, 16, 28038 Madrid, Madrid
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/laboratorio-octogon/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/laboratorio-octogon/)*

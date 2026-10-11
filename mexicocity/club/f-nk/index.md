@@ -1,14 +1,13 @@
 # Fünk
 
-Fünk is a music venue in Mexico City with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Disco Bacocho: María Nocheydía + Lorena + Solarx" on Fri, 9 Oct 2026.
+Fünk is a music venue in Mexico City with 11 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Matias Aguayo + Thomass Jackson + EVNR" on Sat, 10 Oct 2026.
 
-Fünk is a music venue in Mexico City listed on soundcheck. 12 upcoming gigs, with line-ups including Alby Esc, Astroboii, BADSISTA and Bluecommand and 2 more. See dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
+Fünk is a music venue in Mexico City listed on soundcheck. 11 upcoming gigs, with line-ups including Alby Esc, Astroboii, BADSISTA and Bluecommand and 2 more. See dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Disco Bacocho: María Nocheydía + Lorena + Solarx | LORENA (MX), Maria Nocheydía |
 | Sat, 10 Oct 2026 | Matias Aguayo + Thomass Jackson + EVNR | EVNR, Matias Aguayo, Thomass Jackson |
 | Thu, 15 Oct 2026 | Ssensorial x Fünk | Astroboii, Cubenx, Niño Arbol, Ursula Prawn |
 | Fri, 16 Oct 2026 | Mike Starr + Alby Esc + Pony | Alby Esc, Mike Starr |
@@ -18,9 +17,10 @@ Fünk is a music venue in Mexico City listed on soundcheck. 12 upcoming gigs, wi
 | Sat, 24 Oct 2026 | QUERICO Tokyo: Move D + Hanzo Tono + Lily | Hanzo Tono, Lily (JP), Move D |
 | Thu, 29 Oct 2026 | Lamore Night x Fünk | Dj Luigi |
 | Fri, 30 Oct 2026 | Special Guest + Mystery Affair + Paulor | Mystery Affair, Paulor |
+| Sat, 31 Oct 2026 | Aniversario Discos Movimiento & Morevi Records | Boyá, Dr. Long, Fadi Mohem, Givi Gelashvili, MNTY |
 
 ## Address
 
 Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico, Mexico City
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*

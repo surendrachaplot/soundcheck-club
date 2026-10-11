@@ -1,6 +1,6 @@
 # Alican
 
-Alican is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Kastel, Istanbul on Fri, 16 Oct 2026.
+Alican is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Kastel, Istanbul on Fri, 16 Oct 2026.
 
 Alican is a house and techno artist based in Turkey, with 75 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 9 more. Often billed alongside Murat Uncuoglu, Gespona and Emirhan Kacar. Next up: Kastel, Istanbul on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Alican is a house and techno artist based in Turkey, with 75 gigs on soundcheck 
 
 Murat Uncuoglu, Gespona, Emirhan Kacar
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alican/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alican/)*

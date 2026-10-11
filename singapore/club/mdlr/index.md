@@ -1,14 +1,13 @@
 # Mdlr
 
-Mdlr is a music venue in Singapore with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Thugshop x Never Tooo Loud presents: AEREA [Live]" on Sat, 10 Oct 2026.
+Mdlr is a music venue in Singapore with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "GIVE. X THUGSHOP presents LISTER" on Sat, 17 Oct 2026.
 
-Mdlr is a music venue in Singapore listed on soundcheck. 5 upcoming gigs, with line-ups including AEREA, Erwin Linden, Joshua Dillon and Lilith Blaque and 2 more. See dates, start times and who's playing. 62 Cecil Street #02-00, Singapore 049710.
+Mdlr is a music venue in Singapore listed on soundcheck. 4 upcoming gigs, with line-ups including Erwin Linden, Joshua Dillon, Lilith Blaque and Lister and 2 more. See dates, start times and who's playing. 62 Cecil Street #02-00, Singapore 049710.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Thugshop x Never Tooo Loud presents: AEREA [Live] | AEREA, sho&tell |
 | Sat, 17 Oct 2026 | GIVE. X THUGSHOP presents LISTER | Joshua Dillon, Lister (2) |
 | Fri, 23 Oct 2026 | Kings of Bass presents MESSIE (Syber 008, NZ) | MESSIE |
 | Sat, 24 Oct 2026 | HAIR RAISER Halloween feat. GOTTMIK (Drag Race) by FOMOHOMO & POOF DOOF | Lilith Blaque |
@@ -18,4 +17,4 @@ Mdlr is a music venue in Singapore listed on soundcheck. 5 upcoming gigs, with l
 
 62 Cecil Street #02-00, Singapore 049710, Singapore
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/mdlr/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/mdlr/)*

@@ -1,6 +1,6 @@
 # DJ SEXSTASY
 
-DJ SEXSTASY is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 17 Oct 2026.
+DJ SEXSTASY is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 17 Oct 2026.
 
 DJ SEXSTASY is a techno and trance artist based in Brazil, with 43 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Budapest and 15 more. Often billed alongside Rishka, Towicz and Cara Elizabeth. Next up: Ritter Butzke, Berlin on Sat 17 Oct.
 
@@ -31,4 +31,4 @@ DJ SEXSTASY is a techno and trance artist based in Brazil, with 43 gigs on sound
 
 Rishka, Towicz, Cara Elizabeth
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsexstasy/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsexstasy/)*

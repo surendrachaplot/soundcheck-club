@@ -1,6 +1,6 @@
 # Pretty Girl
 
-Pretty Girl is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Sneaky Pete's, Edinburgh on Tue, 13 Oct 2026.
+Pretty Girl is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Sneaky Pete's, Edinburgh on Tue, 13 Oct 2026.
 
 Pretty Girl is a house and techno artist based in Australia, with 71 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 23 more. Often billed alongside Interplanetary Criminal, KI/KI and KETTAMA. Next up: Sneaky Pete's, Edinburgh on Tue 13 Oct.
 
@@ -30,4 +30,4 @@ Pretty Girl is a house and techno artist based in Australia, with 71 gigs on sou
 
 Interplanetary Criminal, KI/KI, KETTAMA
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prettygirl/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prettygirl/)*

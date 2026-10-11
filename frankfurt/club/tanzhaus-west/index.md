@@ -1,14 +1,13 @@
 # Tanzhaus West
 
-Tanzhaus West is a music venue in Frankfurt with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Electric Grooves" on Sat, 10 Oct 2026.
+Tanzhaus West is a music venue in Frankfurt with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "HYPERTRANCE X GOAT BALL" on Fri, 23 Oct 2026.
 
-Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 8 upcoming gigs, with line-ups including ADHASS, AMBAM, assena and CEM and 2 more. See dates, start times and who's playing. Gutleutstrasse 294; 60327 Frankfurt; Germany.
+Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 7 upcoming gigs, with line-ups including ADHASS, AMBAM, assena and CEM and 2 more. See dates, start times and who's playing. Gutleutstrasse 294; 60327 Frankfurt; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Electric Grooves |  |
 | Fri, 23 Oct 2026 | HYPERTRANCE X GOAT BALL | DJ 069, NIKUSH, Orakel, SLOPEZZ, SOHOE, Salzbauer, Stinny Stone, TERRA TWIINS, cravings320 |
 | Sat, 24 Oct 2026 | Ritter Butzke in Frankfurt (Main) | Lexy & K-Paul, Malouna, Markus Klee, Prismode, Solvane, Super Flu |
 | Fri, 30 Oct 2026 | 069 - ZERO SIX NINE Vol. VI - Halloween | AMBAM, CiKi, DeGuzman, Kacy, Paranormila, TiDo |
@@ -21,4 +20,4 @@ Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 8 upcoming gig
 
 Gutleutstrasse 294; 60327 Frankfurt; Germany, Frankfurt
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*

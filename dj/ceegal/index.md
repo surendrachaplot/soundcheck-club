@@ -1,6 +1,6 @@
 # Ceegal
 
-Ceegal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at The Loco Klub, Bristol on Thu, 31 Dec 2026.
+Ceegal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The Loco Klub, Bristol on Thu, 31 Dec 2026.
 
 Ceegal is a techno and house artist based in United Kingdom, with 9 gigs on soundcheck across Bristol. Often billed alongside Field Case, Bambi (FR) and Clarisa Kimskii. Next up: The Loco Klub, Bristol on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Ceegal is a techno and house artist based in United Kingdom, with 9 gigs on soun
 
 Field Case, Bambi (FR), Clarisa Kimskii
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ceegal/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ceegal/)*

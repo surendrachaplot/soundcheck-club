@@ -1,6 +1,6 @@
 # Handson Family
 
-Handson Family is a Funk / Soul and Jazz artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Grow, London on Sat, 14 Nov 2026.
+Handson Family is a Funk / Soul and Jazz artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Grow, London on Sat, 14 Nov 2026.
 
 Handson Family is a funk / soul and jazz artist based in United Kingdom, with 46 gigs on soundcheck across London and Milan. Often billed alongside Vanessa Freeman, Bustin' Loose and LEV (UK). Next up: Grow, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Handson Family is a funk / soul and jazz artist based in United Kingdom, with 46
 
 Vanessa Freeman, Bustin' Loose, LEV (UK)
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/handsonfamily/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/handsonfamily/)*

@@ -1,6 +1,6 @@
 # Ricardo Villalobos
 
-Ricardo Villalobos is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Labattoir, Thessaloniki on Sun, 11 Oct 2026.
+Ricardo Villalobos is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Labattoir, Thessaloniki on Sun, 11 Oct 2026.
 
 Ricardo Villalobos is a techno and house artist based in Chile, with 127 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 30 more. Often billed alongside Raresh, Tomas Station and O.BEE. Next up: Labattoir, Thessaloniki on Sun 11 Oct.
 
@@ -29,4 +29,4 @@ Ricardo Villalobos is a techno and house artist based in Chile, with 127 gigs on
 
 Raresh, Tomas Station, O.BEE
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardovillalobos/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardovillalobos/)*

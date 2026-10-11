@@ -1,14 +1,13 @@
 # Lens (2)
 
-Lens (2) is a Drum & Bass and Dubstep artist with 14 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at 1720, Los Angeles on Sat, 10 Oct 2026.
+Lens (2) is a Drum & Bass and Dubstep artist with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Holocene, Portland on Sun, 11 Oct 2026.
 
-Lens is a drum & bass and dubstep artist based in United Kingdom, with 31 gigs on soundcheck across Barcelona, Birmingham, Brighton and Brisbane and 21 more. Often billed alongside Degs, Mozey and Oppidan. Next up: 1720, Los Angeles on Sat 10 Oct.
+Lens is a drum & bass and dubstep artist based in United Kingdom, with 31 gigs on soundcheck across Barcelona, Birmingham, Brighton and Brisbane and 21 more. Often billed alongside Degs, Mozey and Oppidan. Next up: Holocene, Portland on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | 1720 | Los Angeles |
 | Sun, 11 Oct 2026 | Holocene | Portland |
 | Sat, 17 Oct 2026 | Lost Horizon | Bristol |
 | Fri, 23 Oct 2026 | NUMBER 90 LONDON | London |
@@ -20,9 +19,11 @@ Lens is a drum & bass and dubstep artist based in United Kingdom, with 31 gigs o
 | Sat, 5 Dec 2026 | Le Centre: Hub Creatif | Quebec-city |
 | Thu, 10 Dec 2026 | The Woodshop | New York City |
 | Mon, 28 Dec 2026 | TBA - Hagley Park | Christchurch |
+| Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
 
 ## Recently played
 
+- 1720, Los Angeles · Sat, 10 Oct 2026
 - Urban Lounge, Salt-lake-city · Fri, 9 Oct 2026
 - Flash, Washington DC · Thu, 8 Oct 2026
 - The Crypt (New Orleans), New-orleans · Sat, 3 Oct 2026
@@ -30,10 +31,9 @@ Lens is a drum & bass and dubstep artist based in United Kingdom, with 31 gigs o
 - Sektor 6D, Warsaw · Fri, 11 Sept 2026
 - UNO MALTA, Malta · Thu, 3 Sept 2026
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
-- Finsbury Park, London · Sun, 2 Aug 2026
 
 ## Shares bills with
 
 Degs, Mozey, Oppidan
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lens-2/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lens-2/)*

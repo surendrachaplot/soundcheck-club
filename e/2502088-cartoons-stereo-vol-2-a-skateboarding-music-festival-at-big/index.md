@@ -1,10 +1,10 @@
 # CARTOONS & STEREO VOL. 2: A SKATEBOARDING + MUSIC FESTIVAL at Big Pink
 
-CARTOONS & STEREO VOL. 2: A SKATEBOARDING + MUSIC FESTIVAL at Big Pink on Sat 19 Sept, Detroit. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+CARTOONS & STEREO VOL. 2: A SKATEBOARDING + MUSIC FESTIVAL at Big Pink on Sat 17 Oct, Detroit. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 19 Sept 2026 |
+| Date | Sat, 17 Oct 2026 |
 | Venue | Big Pink |
 | City | Detroit |
 

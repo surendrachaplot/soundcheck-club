@@ -1,6 +1,6 @@
 # CezarX
 
-CezarX is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Hype Discoteca, Naples on Sat, 31 Oct 2026.
+CezarX is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Hype Discoteca, Naples on Sat, 31 Oct 2026.
 
 CezarX is a techno and electronica artist based in Italy, with 13 gigs on soundcheck across Naples. Often billed alongside DJ Balu, Dario Giuliano and Josh Fener. Next up: Hype Discoteca, Naples on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ CezarX is a techno and electronica artist based in Italy, with 13 gigs on soundc
 
 DJ Balu, Dario Giuliano, Josh Fener
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cezarx/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cezarx/)*

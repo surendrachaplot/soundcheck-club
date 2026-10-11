@@ -1,6 +1,6 @@
 # Roan Prado
 
-Roan Prado is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Departamento, Mexico City on Wed, 7 Oct 2026.
+Roan Prado is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Departamento, Mexico City on Wed, 7 Oct 2026.
 
 Roan Prado is a house and deep house artist, with 32 gigs on soundcheck across Madrid and Mexico City. Often billed alongside Barreto, Duke Skylocker (Disco Dust) and Miss Voltaghe. Next up: Departamento, Mexico City on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ Roan Prado is a house and deep house artist, with 32 gigs on soundcheck across M
 
 Barreto, Duke Skylocker (Disco Dust), Miss Voltaghe
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roanprado/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roanprado/)*

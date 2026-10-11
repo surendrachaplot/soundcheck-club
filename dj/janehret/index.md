@@ -1,6 +1,6 @@
 # Jan Ehret
 
-Jan Ehret is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Club Exil, Vienna on Sat, 17 Oct 2026.
+Jan Ehret is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Club Exil, Vienna on Sat, 17 Oct 2026.
 
 Jan Ehret is a techno and electro artist based in Germany, with 20 gigs on soundcheck across Barcelona, Berlin, Frankfurt and Hamburg and 3 more. Often billed alongside Daria Zadekova, Jakob Lesch and Tuna (DE). Next up: Club Exil, Vienna on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Jan Ehret is a techno and electro artist based in Germany, with 20 gigs on sound
 
 Daria Zadekova, Jakob Lesch, Tuna (DE)
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janehret/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janehret/)*

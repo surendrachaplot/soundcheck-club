@@ -1,6 +1,6 @@
 # Edward Frame
 
-Edward Frame is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Under the K Bridge, New York City on Sun, 18 Oct 2026.
+Edward Frame is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Under the K Bridge, New York City on Sun, 18 Oct 2026.
 
 Edward Frame is a tech house and house artist based in United States of America, with 36 gigs on soundcheck across Austin, Los Angeles, New York City and San Francisco/Oakland and 1 more. Often billed alongside Le FIU, Jaesyun and Ryan McClure. Next up: Under the K Bridge, New York City on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Edward Frame is a tech house and house artist based in United States of America,
 
 Le FIU, Jaesyun, Ryan McClure
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edwardframe/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edwardframe/)*

@@ -1,6 +1,6 @@
 # Inga
 
-Inga is a Hip-Hop and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Golden Gate, Berlin on Sat, 10 Oct 2026.
+Inga is a Hip-Hop and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Golden Gate, Berlin on Sat, 10 Oct 2026.
 
 Inga is a hip-hop and house artist based in Spain, with 11 gigs on soundcheck across Barcelona, Berlin, Osaka and Tokyo. Often billed alongside ANCHIN, D.J.Fulltono and DJ Quietstorm. Next up: Golden Gate, Berlin on Sat 10 Oct.
 
@@ -13,6 +13,7 @@ Inga is a hip-hop and house artist based in Spain, with 11 gigs on soundcheck ac
 
 ## Recently played
 
+- Golden Gate, Berlin · Sat, 10 Oct 2026
 - Razzmatazz, Barcelona · Sat, 11 Jul 2026
 - COUNTER CLUB, Tokyo · Sat, 15 Nov 2025
 - Socore Factory, Osaka · Wed, 29 Jan 2025
@@ -20,10 +21,9 @@ Inga is a hip-hop and house artist based in Spain, with 11 gigs on soundcheck ac
 - Socore Factory, Osaka · Fri, 18 Oct 2024
 - Circus Osaka, Osaka · Thu, 13 Jun 2024
 - Compufunk Records, Osaka · Sun, 25 Jun 2023
-- Noon + Cafe, Osaka · Sat, 17 Jun 2023
 
 ## Shares bills with
 
 ANCHIN, D.J.Fulltono, DJ Quietstorm
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inga/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inga/)*

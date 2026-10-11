@@ -1,6 +1,6 @@
 # Fideles
 
-Fideles is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Ble Azure Peninsula, Athens on Sun, 11 Oct 2026.
+Fideles is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Ble Azure Peninsula, Athens on Sun, 11 Oct 2026.
 
 Fideles is a techno and house artist based in Italy, with 124 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 40 more. Often billed alongside Brina Knauss, Mathame and Miss Monique. Next up: Ble Azure Peninsula, Athens on Sun 11 Oct.
 
@@ -29,4 +29,4 @@ Fideles is a techno and house artist based in Italy, with 124 gigs on soundcheck
 
 Brina Knauss, Mathame, Miss Monique
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fideles/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fideles/)*

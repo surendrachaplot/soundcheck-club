@@ -1,6 +1,6 @@
 # Shisho
 
-Shisho is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Loo Loo, Mexico City on Sat, 24 Oct 2026.
+Shisho is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Loo Loo, Mexico City on Sat, 24 Oct 2026.
 
 Shisho is a house and deep house artist based in Mexico, with 47 gigs on soundcheck across Mexico City. Often billed alongside Gallō, Bluecommand and Astroboii. Next up: Loo Loo, Mexico City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Shisho is a house and deep house artist based in Mexico, with 47 gigs on soundch
 
 Gallō, Bluecommand, Astroboii
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shisho/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shisho/)*

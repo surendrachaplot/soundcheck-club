@@ -1,6 +1,6 @@
 # Thea HD
 
-Thea HD is a Broken Beat and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Strange Brew, Bristol on Thu, 22 Oct 2026.
+Thea HD is a Broken Beat and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Strange Brew, Bristol on Thu, 22 Oct 2026.
 
 Thea HD is a broken beat and funk / soul artist, with 8 gigs on soundcheck across Berlin, Bristol, Leeds and London and 1 more. Often billed alongside Flaer, ARLO (UK) and Armand Van Helden. Next up: Strange Brew, Bristol on Thu 22 Oct.
 
@@ -24,4 +24,4 @@ Thea HD is a broken beat and funk / soul artist, with 8 gigs on soundcheck acros
 
 Flaer, ARLO (UK), Armand Van Helden
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theahd/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theahd/)*

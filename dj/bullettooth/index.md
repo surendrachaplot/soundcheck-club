@@ -1,14 +1,13 @@
 # bullet tooth
 
-bullet tooth is a House and Garage artist with 14 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
+bullet tooth is a House and Garage artist with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The Dome, Liverpool on Sat, 17 Oct 2026.
 
-bullet tooth is a house and garage artist based in United Kingdom, with 134 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 35 more. Often billed alongside Silva Bumpa, Capo Lee and Main Phase. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
+bullet tooth is a house and garage artist based in United Kingdom, with 134 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 35 more. Often billed alongside Silva Bumpa, Capo Lee and Main Phase. Next up: The Dome, Liverpool on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 17 Oct 2026 | The Dome | Liverpool |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Wed, 21 Oct 2026 | Shelter Amsterdam | Amsterdam |
@@ -20,9 +19,11 @@ bullet tooth is a house and garage artist based in United Kingdom, with 134 gigs
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Sat, 7 Nov 2026 | BERHTA | Washington DC |
 | Sat, 14 Nov 2026 | Club Colette | Birmingham |
+| Sat, 21 Nov 2026 | The Brickworks | Nottingham |
 
 ## Recently played
 
+- Depot Mayfield, Manchester · Sat, 10 Oct 2026
 - fabric, London · Fri, 9 Oct 2026
 - TRAUM, Antwerp · Fri, 2 Oct 2026
 - Hangaren, Copenhagen · Sat, 26 Sept 2026
@@ -30,10 +31,9 @@ bullet tooth is a house and garage artist based in United Kingdom, with 134 gigs
 - Hï Ibiza, Ibiza · Tue, 22 Sept 2026
 - Union Park, Chicago · Fri, 4 Sept 2026
 - The Nest, Nottingham · Sun, 30 Aug 2026
-- Mint Warehouse, Leeds · Sun, 30 Aug 2026
 
 ## Shares bills with
 
 Silva Bumpa, Capo Lee, Main Phase
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*

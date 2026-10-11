@@ -1,6 +1,6 @@
 # secret luvvr
 
-secret luvvr is a Dub and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at M.O.T, London on Thu, 12 Nov 2026.
+secret luvvr is a Dub and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at M.O.T, London on Thu, 12 Nov 2026.
 
 secret luvvr is a dub and afro tech artist, with 14 gigs on soundcheck across London. Often billed alongside Mellowdramatics, GUREY and LO-LOW. Next up: M.O.T, London on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ secret luvvr is a dub and afro tech artist, with 14 gigs on soundcheck across Lo
 
 Mellowdramatics, GUREY, LO-LOW
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secretluvvr/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secretluvvr/)*

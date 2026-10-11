@@ -1,15 +1,13 @@
 # KLOUD
 
-KLOUD is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at OST, Berlin on Fri, 9 Oct 2026.
+KLOUD is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
 
-KLOUD is a techno and house artist based in United States of America, with 87 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 39 more. Often billed alongside Kander, Lola Cerise and I Hate Models. Next up: OST, Berlin on Fri 9 Oct.
+KLOUD is a techno and house artist based in United States of America, with 87 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 39 more. Often billed alongside Kander, Lola Cerise and I Hate Models. Next up: Airport Würzburg, Nürnberg on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | OST | Berlin |
-| Sat, 10 Oct 2026 | OST | Berlin |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 16 Oct 2026 | Edelfettwerk | Hamburg |
@@ -23,6 +21,7 @@ KLOUD is a techno and house artist based in United States of America, with 87 gi
 
 ## Recently played
 
+- OST, Berlin · Sat, 10 Oct 2026
 - OST, Berlin · Fri, 9 Oct 2026
 - Elastica, Vilnius · Fri, 9 Oct 2026
 - Smolna, Warsaw · Sat, 3 Oct 2026
@@ -30,10 +29,9 @@ KLOUD is a techno and house artist based in United States of America, with 87 gi
 - Club Exil, Vienna · Sat, 26 Sept 2026
 - Cabaret  Aléatoire, Marseille · Fri, 25 Sept 2026
 - Rebel, Toronto · Sat, 12 Sept 2026
-- Newspeak, Montreal · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Kander, Lola Cerise, I Hate Models
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*

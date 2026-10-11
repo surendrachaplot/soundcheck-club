@@ -1,6 +1,6 @@
 # Aurora
 
-Aurora is a Tech House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at MODULE, Copenhagen on Sat, 17 Oct 2026.
+Aurora is a Tech House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at MODULE, Copenhagen on Sat, 17 Oct 2026.
 
 Aurora is a tech house and techno artist based in United Kingdom, with 14 gigs on soundcheck across Athens, Berlin, Bristol and Copenhagen and 6 more. Often billed alongside 2HOT2PLAY, Adrien Calvet and Alex Nantaya. Next up: MODULE, Copenhagen on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Aurora is a tech house and techno artist based in United Kingdom, with 14 gigs o
 
 2HOT2PLAY, Adrien Calvet, Alex Nantaya
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurora/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurora/)*

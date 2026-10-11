@@ -1,14 +1,15 @@
 # Ario
 
-Ario is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Upsidedown, Osaka on Fri, 16 Oct 2026.
+Ario is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Upsidedown, Osaka on Fri, 16 Oct 2026.
 
-Ario is a techno and ambient artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belfast and 14 more. Often billed alongside F-on, Yoshitaka Shirakura and Endurance. Next up: Upsidedown, Osaka on Fri 16 Oct.
+Ario is a techno and ambient artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belfast and 14 more. Often billed alongside F-on, Yoshitaka Shirakura and Endurance. Next up: Upsidedown, Osaka on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Upsidedown | Osaka |
+| Thu, 12 Nov 2026 | OHM | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ario is a techno and ambient artist based in United Kingdom, with 85 gigs on sou
 
 F-on, Yoshitaka Shirakura, Endurance
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ario/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ario/)*

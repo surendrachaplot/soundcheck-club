@@ -1,19 +1,19 @@
 # James Hurr
 
-James Hurr is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Upside, Florida on Sat, 10 Oct 2026.
+James Hurr is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Bar Twenty Two, Amsterdam on Thu, 22 Oct 2026.
 
-James Hurr is a house and tech house artist based in United Kingdom, with 17 gigs on soundcheck across Amsterdam, Barcelona, Florida and Ibiza and 5 more. Often billed alongside Alexis Knox, CHANEY and Jenn Getz. Next up: Upside, Florida on Sat 10 Oct.
+James Hurr is a house and tech house artist based in United Kingdom, with 17 gigs on soundcheck across Amsterdam, Barcelona, Florida and Ibiza and 5 more. Often billed alongside Alexis Knox, CHANEY and Jenn Getz. Next up: Bar Twenty Two, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Upside | Florida |
 | Thu, 22 Oct 2026 | Bar Twenty Two | Amsterdam |
 | Fri, 23 Oct 2026 | Beatfabriek | Amsterdam |
 
 ## Recently played
 
+- Upside, Florida · Sat, 10 Oct 2026
 - Tomorrowland Store Ibiza, Ibiza · Sun, 9 Aug 2026
 - Eden, Ibiza · Thu, 6 Aug 2026
 - Masquerade NYC, New York City · Fri, 26 Jun 2026
@@ -21,10 +21,9 @@ James Hurr is a house and tech house artist based in United Kingdom, with 17 gig
 - Palace Bar, Miami · Fri, 27 Mar 2026
 - Jungle Hollywood, Los Angeles · Sun, 15 Mar 2026
 - Sala Apolo, Barcelona · Sun, 14 Dec 2025
-- Heaven, London · Sun, 12 Oct 2025
 
 ## Shares bills with
 
 Alexis Knox, CHANEY, Jenn Getz
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshurr/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshurr/)*

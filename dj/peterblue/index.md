@@ -1,16 +1,13 @@
 # PETERBLUE
 
-PETERBLUE is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA, Atlanta on Sat, 10 Oct 2026.
+PETERBLUE is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Sonora Bordeaux, Bordeaux on Fri, 16 Oct 2026.
 
-PETERBLUE is a techno and trance artist based in Colombia, with 72 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 34 more. Often billed alongside Noise Mafia, Adrian Mills and Afem Syko. Next up: TBA, Atlanta on Sat 10 Oct.
+PETERBLUE is a techno and trance artist based in Colombia, with 72 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 34 more. Often billed alongside Noise Mafia, Adrian Mills and Afem Syko. Next up: Sonora Bordeaux, Bordeaux on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | TBA | Atlanta |
-| Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
-| Sat, 10 Oct 2026 | TBA - Secret Location | Atlanta |
 | Fri, 16 Oct 2026 | Sonora Bordeaux | Bordeaux |
 | Fri, 16 Oct 2026 | Parc des Expositions de Bordeaux lac | Bordeaux |
 | Sun, 18 Oct 2026 | Le Sucre | Lyon |
@@ -23,17 +20,17 @@ PETERBLUE is a techno and trance artist based in Colombia, with 72 gigs on sound
 
 ## Recently played
 
+- TBA, Atlanta · Sat, 10 Oct 2026
+- Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
+- TBA - Secret Location, Atlanta · Sat, 10 Oct 2026
 - Club Cultural Lima, Peru · Wed, 7 Oct 2026
 - Radius, Chicago · Sat, 3 Oct 2026
 - 99 Scott Ave, New York City · Fri, 2 Oct 2026
 - Nitsa Club, Barcelona · Fri, 25 Sept 2026
 - Fuse, Brussels · Fri, 18 Sept 2026
-- Fabrik, Madrid · Sat, 12 Sept 2026
-- Else, Berlin · Fri, 11 Sept 2026
-- The Concourse Project, Austin · Sun, 6 Sept 2026
 
 ## Shares bills with
 
 Noise Mafia, Adrian Mills, Afem Syko
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterblue/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterblue/)*

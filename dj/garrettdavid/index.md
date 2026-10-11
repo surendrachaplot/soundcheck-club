@@ -1,14 +1,13 @@
 # Garrett David
 
-Garrett David is a House and Disco artist with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Frankhan Selectist, Istanbul on Sat, 10 Oct 2026.
+Garrett David is a House and Disco artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Hoppetosse, Berlin on Fri, 16 Oct 2026.
 
-Garrett David is a house and disco artist based in United States of America, with 210 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 38 more. Often billed alongside Michael Serafini, Derrick Carter and Tomas Station. Next up: Frankhan Selectist, Istanbul on Sat 10 Oct.
+Garrett David is a house and disco artist based in United States of America, with 210 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 38 more. Often billed alongside Michael Serafini, Derrick Carter and Tomas Station. Next up: Hoppetosse, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Frankhan Selectist | Istanbul |
 | Fri, 16 Oct 2026 | Hoppetosse | Berlin |
 | Sat, 17 Oct 2026 | Sawmills | Bristol |
 | Fri, 23 Oct 2026 | Shelter Amsterdam | Amsterdam |
@@ -21,6 +20,7 @@ Garrett David is a house and disco artist based in United States of America, wit
 
 ## Recently played
 
+- Frankhan Selectist, Istanbul · Sat, 10 Oct 2026
 - Mint Warehouse, Leeds · Sat, 3 Oct 2026
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
 - H0L0, New York City · Sat, 26 Sept 2026
@@ -28,10 +28,9 @@ Garrett David is a house and disco artist based in United States of America, wit
 - Stardust Garage, Austin · Sat, 19 Sept 2026
 - smartbar, Chicago · Fri, 18 Sept 2026
 - Fvtvr, Paris · Sat, 12 Sept 2026
-- Myra Ostraria, Lisbon · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Michael Serafini, Derrick Carter, Tomas Station
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*

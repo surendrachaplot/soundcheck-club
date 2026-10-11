@@ -1,10 +1,10 @@
 # Space'd In The Basement with Marlene, Gemini, Loz at Collingwood Basement
 
-Space'd In The Basement with Marlene, Gemini, Loz at Collingwood Basement on Sat 17 Oct, Melbourne. House and Tech House. See the line-up on soundcheck.
+Space'd In The Basement with Marlene, Gemini, Loz at Collingwood Basement on Fri 16 Oct, Melbourne. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 17 Oct 2026 |
+| Date | Fri, 16 Oct 2026 |
 | Venue | Collingwood Basement |
 | City | Melbourne |
 

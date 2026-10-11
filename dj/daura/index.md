@@ -1,6 +1,6 @@
 # Daura
 
-Daura is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Wigwam, Shanghai on Fri, 23 Oct 2026.
+Daura is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Wigwam, Shanghai on Fri, 23 Oct 2026.
 
 Daura is a techno and house artist based in Canada, with 61 gigs on soundcheck across Amsterdam, Berlin, Brussels and Düsseldorf and 22 more. Often billed alongside Moaad BKR, Mr. Murray and Cosmic JD. Next up: Wigwam, Shanghai on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Daura is a techno and house artist based in Canada, with 61 gigs on soundcheck a
 
 Moaad BKR, Mr. Murray, Cosmic JD
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daura/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daura/)*

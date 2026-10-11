@@ -1,18 +1,18 @@
 # Big Ace
 
-Big Ace is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Boondocks, Houston on Sat, 10 Oct 2026.
+Big Ace is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Snug Harbor, Charlotte on Sat, 24 Oct 2026.
 
-Big Ace is a club and techno artist based in United States of America, with 9 gigs on soundcheck across Charlotte, Houston, Los Angeles and Seattle and 1 more. Often billed alongside HYPERFEMME, DJ Slugo and Morgan Morgan. Next up: Boondocks, Houston on Sat 10 Oct.
+Big Ace is a club and techno artist based in United States of America, with 9 gigs on soundcheck across Charlotte, Houston, Los Angeles and Seattle and 1 more. Often billed alongside HYPERFEMME, DJ Slugo and Morgan Morgan. Next up: Snug Harbor, Charlotte on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Boondocks | Houston |
 | Sat, 24 Oct 2026 | Snug Harbor | Charlotte |
 
 ## Recently played
 
+- Boondocks, Houston · Sat, 10 Oct 2026
 - Kremwerk-Timbre Room-Cherry Complex, Seattle · Sat, 29 Aug 2026
 - Art Club, Houston · Sat, 22 Aug 2026
 - TRANSMISSION DC, Washington DC · Fri, 19 Jun 2026
@@ -25,4 +25,4 @@ Big Ace is a club and techno artist based in United States of America, with 9 gi
 
 HYPERFEMME, DJ Slugo, Morgan Morgan
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigace/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigace/)*

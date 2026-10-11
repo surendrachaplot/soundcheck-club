@@ -1,14 +1,15 @@
 # TRIZTAN
 
-TRIZTAN is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Terraza Dos Equis, Mexico City on Sun, 11 Oct 2026.
+TRIZTAN is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Terraza Dos Equis, Mexico City on Sun, 11 Oct 2026.
 
-TRIZTAN is a house and afro house artist based in Mexico, with 65 gigs on soundcheck across Barcelona, Madrid and Mexico City. Often billed alongside Diego Walle, Disco 86 and Enya Botello. Next up: Terraza Dos Equis, Mexico City on Sun 11 Oct.
+TRIZTAN is a house and afro house artist based in Mexico, with 66 gigs on soundcheck across Barcelona, Madrid and Mexico City. Often billed alongside Diego Walle, Disco 86 and Enya Botello. Next up: Terraza Dos Equis, Mexico City on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | Terraza Dos Equis | Mexico City |
+| Sat, 17 Oct 2026 | Terraza Dos Equis | Mexico City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ TRIZTAN is a house and afro house artist based in Mexico, with 65 gigs on soundc
 
 Diego Walle, Disco 86, Enya Botello
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triztan/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triztan/)*

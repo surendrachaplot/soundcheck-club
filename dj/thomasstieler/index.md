@@ -1,6 +1,6 @@
 # Thomas Stieler
 
-Thomas Stieler is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Pimpernel, Munich on Mon, 12 Oct 2026.
+Thomas Stieler is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Pimpernel, Munich on Mon, 12 Oct 2026.
 
 Thomas Stieler is a house and minimal artist based in Germany, with 234 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 6 more. Often billed alongside Submod, Elli Altenberger and Phil2. Next up: Pimpernel, Munich on Mon 12 Oct.
 
@@ -29,4 +29,4 @@ Thomas Stieler is a house and minimal artist based in Germany, with 234 gigs on 
 
 Submod, Elli Altenberger, Phil2
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasstieler/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasstieler/)*

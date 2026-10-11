@@ -1,6 +1,6 @@
 # dety
 
-dety is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Goldener Salon, Hamburg on Sun, 18 Oct 2026.
+dety is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Goldener Salon, Hamburg on Sun, 18 Oct 2026.
 
 dety is a deep house and house artist based in Germany, with 7 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Crew Ombrelle, 2 Girls 1 Club and AALIYAH. Next up: Goldener Salon, Hamburg on Sun 18 Oct.
 
@@ -23,4 +23,4 @@ dety is a deep house and house artist based in Germany, with 7 gigs on soundchec
 
 Crew Ombrelle, 2 Girls 1 Club, AALIYAH
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dety/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dety/)*

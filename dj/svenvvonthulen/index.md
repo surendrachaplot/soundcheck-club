@@ -1,6 +1,6 @@
 # Sven von Thülen
 
-Sven von Thülen is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at OXI, Berlin on Sat, 17 Oct 2026.
+Sven von Thülen is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at OXI, Berlin on Sat, 17 Oct 2026.
 
 Sven von Thülen is a house and deep house artist based in Germany, with 31 gigs on soundcheck across Berlin, Hamburg and New York City. Often billed alongside Bassdee, André Galluzzi and Beatrice (DE). Next up: OXI, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Sven von Thülen is a house and deep house artist based in Germany, with 31 gigs
 
 Bassdee, André Galluzzi, Beatrice (DE)
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvvonthulen/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvvonthulen/)*

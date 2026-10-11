@@ -1,6 +1,6 @@
 # Submod
 
-Submod is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Golden Gate, Berlin on Thu, 15 Oct 2026.
+Submod is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Golden Gate, Berlin on Thu, 15 Oct 2026.
 
 Submod is a house and techno artist based in Germany, with 25 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Leipzig. Often billed alongside Thomas Stieler, Cynthia Matisse and OLIV. Next up: Golden Gate, Berlin on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Submod is a house and techno artist based in Germany, with 25 gigs on soundcheck
 
 Thomas Stieler, Cynthia Matisse, OLIV
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/submod/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/submod/)*

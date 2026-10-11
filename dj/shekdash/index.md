@@ -1,6 +1,6 @@
 # shekdash
 
-shekdash is a Techno and Club artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Tigres de la Noche, Washington DC on Sun, 11 Oct 2026.
+shekdash is a Techno and Club artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Tigres de la Noche, Washington DC on Sun, 11 Oct 2026.
 
 shekdash is a techno and club artist based in United States of America, with 91 gigs on soundcheck across Boston, Chicago, Denver and Detroit and 14 more. Often billed alongside Tromac, DJ SWISHA and Daniro. Next up: Tigres de la Noche, Washington DC on Sun 11 Oct.
 
@@ -29,4 +29,4 @@ shekdash is a techno and club artist based in United States of America, with 91 
 
 Tromac, DJ SWISHA, Daniro
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shekdash/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shekdash/)*

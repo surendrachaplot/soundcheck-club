@@ -1,6 +1,6 @@
 # $et
 
-$et is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Thu, 22 Oct 2026.
+$et is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Thu, 22 Oct 2026.
 
 $et is a house and techno artist based in United States of America, with 26 gigs on soundcheck across Washington DC. Often billed alongside camb, xXabiXx and Fish House Funk. Next up: Jimmy Valentine's Lonely Hearts Club, Washington DC on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ $et is a house and techno artist based in United States of America, with 26 gigs
 
 camb, xXabiXx, Fish House Funk
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/setdj/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/setdj/)*

@@ -1,14 +1,13 @@
 # Chelina Manuhutu
 
-Chelina Manuhutu is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Lurin live, Peru on Sat, 10 Oct 2026.
+Chelina Manuhutu is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Q-Factory, Amsterdam on Thu, 22 Oct 2026.
 
-Chelina Manuhutu is a tech house and house artist based in Netherlands, with 153 gigs on soundcheck across Amsterdam, Athens, Austria and Bali and 33 more. Often billed alongside Andrea Oliva, Marco Carola and Nic Fanciulli. Next up: TBA - Lurin live, Peru on Sat 10 Oct.
+Chelina Manuhutu is a tech house and house artist based in Netherlands, with 153 gigs on soundcheck across Amsterdam, Athens, Austria and Bali and 33 more. Often billed alongside Andrea Oliva, Marco Carola and Nic Fanciulli. Next up: Q-Factory, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | TBA - Lurin live | Peru |
 | Thu, 22 Oct 2026 | Q-Factory | Amsterdam |
 | Sat, 31 Oct 2026 | Recinto Iberdrola Music | Madrid |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
@@ -16,6 +15,7 @@ Chelina Manuhutu is a tech house and house artist based in Netherlands, with 153
 
 ## Recently played
 
+- TBA - Lurin live, Peru · Sat, 10 Oct 2026
 - D! Club, Lausanne · Sun, 4 Oct 2026
 - [UNVRS], Ibiza · Sat, 3 Oct 2026
 - Club Space Miami, Miami · Sat, 26 Sept 2026
@@ -23,10 +23,9 @@ Chelina Manuhutu is a tech house and house artist based in Netherlands, with 153
 - Carroponte, Milan · Sat, 19 Sept 2026
 - KOKO, London · Fri, 18 Sept 2026
 - Ushuaïa Ibiza, Ibiza · Sat, 12 Sept 2026
-- Ushuaïa Ibiza, Ibiza · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Andrea Oliva, Marco Carola, Nic Fanciulli
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chelinamanuhutu/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chelinamanuhutu/)*

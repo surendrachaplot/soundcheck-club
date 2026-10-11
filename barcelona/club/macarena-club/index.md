@@ -1,14 +1,13 @@
 # Macarena Club
 
-Macarena Club is a music venue in Barcelona with 22 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Serialism 20º Years" on Sat, 10 Oct 2026.
+Macarena Club is a music venue in Barcelona with 21 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Move Your Body" on Sun, 11 Oct 2026.
 
-Macarena Club is a music venue in Barcelona listed on soundcheck. 22 upcoming gigs, with line-ups including Jo-Sie, Amadori, Arval and August Artier and 2 more. See dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
+Macarena Club is a music venue in Barcelona listed on soundcheck. 21 upcoming gigs, with line-ups including Jo-Sie, Amadori, Baffa and Dan McKie and 2 more. See dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Serialism 20º Years | Arval, August Artier, Cesare vs Disorder, Mad Dim, Rhom Omit, Weg (DE) |
 | Sun, 11 Oct 2026 | Move Your Body | Villaça, Wilowm |
 | Mon, 12 Oct 2026 | Memento Xs | Idriss D, P.A.N.C.H.I.T.O |
 | Tue, 13 Oct 2026 | Bridge48 | Matteo Bigliardi |
@@ -18,9 +17,10 @@ Macarena Club is a music venue in Barcelona listed on soundcheck. 22 upcoming gi
 | Sat, 17 Oct 2026 | Tempesta Music | Dj Kosmos, Mr. B |
 | Sun, 18 Oct 2026 | Move Your Body | Wilowm |
 | Mon, 19 Oct 2026 | Memento Xs | Jo-Sie, Robert Drewek |
+| Tue, 20 Oct 2026 | Plastic Night presents Cienwatios |  |
 
 ## Address
 
 Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain, Barcelona
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/macarena-club/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/macarena-club/)*

@@ -1,15 +1,13 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "[Last tickets] Jackies Open Air Daytime - Kerri Chandler (Open To Close)" on Sat, 10 Oct 2026.
+La Terrrazza is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "La Terrrazza Closing Night 03 x Sofia Kourtesis" on Sun, 11 Oct 2026.
 
-La Terrrazza is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Courtesy, George Privatti, INEXXSTABLE and Jonathan Kaspar and 2 more. See dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
+La Terrrazza is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including George Privatti, INEXXSTABLE, Jonathan Kaspar and Justin Jay and 2 more. See dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | [Last tickets] Jackies Open Air Daytime - Kerri Chandler (Open To Close) | Kerri Chandler |
-| Sat, 10 Oct 2026 | La Terrrazza Closing Night 02 x Courtesy | Courtesy, Nahoomie, PAURRO |
 | Sun, 11 Oct 2026 | La Terrrazza Closing Night 03 x Sofia Kourtesis | Sofia Kourtesis |
 | Sun, 11 Oct 2026 | La Terrrazza Closing Sunset x Mano Le Tough pres. Maeve | Jonathan Kaspar, Mano Le Tough, Mira, Remcord |
 | Fri, 16 Oct 2026 | Throwback - Closing Party (Back to 80s, 90s & 00s) at La Terrrazza | Mr Majestyk |
@@ -23,4 +21,4 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 10 upcoming gig
 
 Avinguda Francesc Ferrer i Guardia, 13, 08038, Barcelona
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*

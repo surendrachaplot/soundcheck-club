@@ -1,6 +1,6 @@
 # Gold Panda
 
-Gold Panda is a Electronica and Experimental artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Botanique, Brussels on Sat, 24 Oct 2026.
+Gold Panda is a Electronica and Experimental artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Botanique, Brussels on Sat, 24 Oct 2026.
 
 Gold Panda is an electronica and experimental artist based in United Kingdom, with 22 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Birmingham and 15 more. Often billed alongside Nathan Fake, Baba Ali and 1-800 GIRLS. Next up: Botanique, Brussels on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Gold Panda is an electronica and experimental artist based in United Kingdom, wi
 
 Nathan Fake, Baba Ali, 1-800 GIRLS
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goldpanda/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goldpanda/)*

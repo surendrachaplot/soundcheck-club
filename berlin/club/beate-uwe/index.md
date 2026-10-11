@@ -1,14 +1,13 @@
 # Beate Uwe
 
-Beate Uwe is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Beate Invites /// BIACS Records" on Sat, 10 Oct 2026.
+Beate Uwe is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Beate Barfuß /// Just Emma & Friends" on Sun, 11 Oct 2026.
 
-Beate Uwe is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including AKA AKA, ALXJ, ARSENAL and Cardi-O and 2 more. See dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
+Beate Uwe is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including AKA AKA, ALXJ, ARSENAL and Cardi-O and 2 more. See dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Beate Invites /// BIACS Records | Mark Tarmonea, Rui de Janeiro, The Ancient Kid |
 | Sun, 11 Oct 2026 | Beate Barfuß /// Just Emma & Friends | Just Emma, Kollektiv Sheesh, Motip White |
 | Fri, 16 Oct 2026 | BEATE HAT SEHNSUCHT | Dydaa Forne, Klyde Tribes |
 | Sat, 17 Oct 2026 | Beate Invites /// Jackfruit & Friends | Danilo Kupfernagel, LEENI, Rabella |
@@ -18,9 +17,10 @@ Beate Uwe is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, wit
 | Sat, 24 Oct 2026 | Beate Invites /// WIR Schwestern | Ebicake, erika schneider |
 | Sun, 25 Oct 2026 | Beate Barfuß /// Rêve Général Night | EXZ, Ektoplast, Kid A |
 | Fri, 30 Oct 2026 | Staygold presents: Skins & Prints | ALXJ, Hyperbole, Jack Clark, Mambi Dexter, Scoopsi, shot by stanley |
+| Sat, 31 Oct 2026 | Beate Invites /// Früher Feiern with AKA AKA | AKA AKA, Miss Kitchen |
 
 ## Address
 
 Schillingstr. 31, 10179, Berlin, Berlin
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*

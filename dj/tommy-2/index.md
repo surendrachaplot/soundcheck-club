@@ -1,18 +1,18 @@
 # Tommy (2)
 
-Tommy (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 10 Oct 2026.
+Tommy (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
-Tommy is a techno and house artist based in Japan, with 43 gigs on soundcheck across Austria, Berlin, Copenhagen and Dublin and 5 more. Often billed alongside Yonenaga, Satoshi Matsui and Wataru Sakuraba. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 10 Oct.
+Tommy is a techno and house artist based in Japan, with 43 gigs on soundcheck across Austria, Berlin, Copenhagen and Dublin and 5 more. Often billed alongside Yonenaga, Satoshi Matsui and Wataru Sakuraba. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | UTOPIA / DYSTOPIA | Tokyo |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 
 ## Recently played
 
+- UTOPIA / DYSTOPIA, Tokyo · Sat, 10 Oct 2026
 - White Space Lab, Tokyo · Thu, 24 Sept 2026
 - Koara, Tokyo · Wed, 2 Sept 2026
 - UTOPIA / DYSTOPIA, Tokyo · Mon, 10 Aug 2026
@@ -20,10 +20,9 @@ Tommy is a techno and house artist based in Japan, with 43 gigs on soundcheck ac
 - UTOPIA / DYSTOPIA, Tokyo · Thu, 25 Jun 2026
 - Oath, Tokyo · Wed, 17 Jun 2026
 - UTOPIA / DYSTOPIA, Tokyo · Wed, 20 May 2026
-- Koara, Tokyo · Mon, 4 May 2026
 
 ## Shares bills with
 
 Yonenaga, Satoshi Matsui, Wataru Sakuraba
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommy-2/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommy-2/)*

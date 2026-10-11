@@ -1,6 +1,6 @@
 # Borne (US)
 
-Borne (US) is a House and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Snapdragon Stadium, Los Angeles on Sun, 11 Oct 2026.
+Borne (US) is a House and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Snapdragon Stadium, Los Angeles on Sun, 11 Oct 2026.
 
 Borne (US) is a house and bass artist based in United States of America, with 10 gigs on soundcheck across Austin, Los Angeles, New York City and San Francisco/Oakland and 1 more. Often billed alongside Linska, MPH and Mau P. Next up: Snapdragon Stadium, Los Angeles on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Borne (US) is a house and bass artist based in United States of America, with 10
 
 Linska, MPH (1), Mau P
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borne-us/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borne-us/)*

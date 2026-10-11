@@ -1,8 +1,8 @@
 # Hendrik Nitsche
 
-Hendrik Nitsche is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Telegramm: @MauerparkLoveKommando, Berlin on Sat, 17 Oct 2026.
+Hendrik Nitsche is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Telegramm: @MauerparkLoveKommando, Berlin on Sat, 17 Oct 2026.
 
-Hendrik Nitsche is a techno and hardcore artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Dshanna, Gray Contrast and Dr. Spree. Next up: TBA - Telegramm: @MauerparkLoveKommando, Berlin on Sat 17 Oct.
+Hendrik Nitsche is a techno and hardcore artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Dshanna, Gray Contrast and Julez (live). Next up: TBA - Telegramm: @MauerparkLoveKommando, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ Hendrik Nitsche is a techno and hardcore artist based in Germany, with 7 gigs on
 
 ## Shares bills with
 
-Dshanna, Gray Contrast, Dr. Spree
+Dshanna, Gray Contrast, Julez (live)
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hendriknitsche/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hendriknitsche/)*

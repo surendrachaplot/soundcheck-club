@@ -1,14 +1,13 @@
 # Club Metro
 
-Club Metro is a music venue in Kyoto with 32 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "FRO PLUS" on Sat, 10 Oct 2026.
+Club Metro is a music venue in Kyoto with 31 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "'SOIL' by dahlia dolla creative" on Sun, 11 Oct 2026.
 
-Club Metro is a music venue in Kyoto listed on soundcheck. 32 upcoming gigs, with line-ups including CH.0, DJ Compufunk, DJ Krush and DJ Mitsu The Beats and 2 more. See dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
+Club Metro is a music venue in Kyoto listed on soundcheck. 31 upcoming gigs, with line-ups including CH.0, DJ Compufunk, DJ Krush and DJ Mitsu The Beats and 2 more. See dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | FRO PLUS |  |
 | Sun, 11 Oct 2026 | 'SOIL' by dahlia dolla creative | YO.AN |
 | Mon, 12 Oct 2026 | Sound Maneuvers×EXP | CH.0, DJ Mitsu The Beats |
 | Thu, 15 Oct 2026 | the ONEMAN show 'JUDY' |  |
@@ -18,9 +17,10 @@ Club Metro is a music venue in Kyoto listed on soundcheck. 32 upcoming gigs, wit
 | Wed, 21 Oct 2026 | CLUB80's |  |
 | Fri, 23 Oct 2026 | atraktor |  |
 | Sat, 24 Oct 2026 | Semaphore -Petre Inspirescu Japan Tour in Kyoto- | Ken'ichi Itoi, Kensuke Fukushima, Masahiko Takeda, Petre Inspirescu |
+| Sun, 25 Oct 2026 | 【SAKE HIGH EXTRA】〜MASU PROJECT presents〜： ＜第一部＞SAKE HIGH TIME |  |
 
 ## Address
 
 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan, Kyoto
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*

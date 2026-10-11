@@ -1,14 +1,13 @@
 # Culture Cafe
 
-Culture Cafe is a music venue in Bangkok with 52 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "A night of 6 hour solo deep & techno Vinyl dj set of djmoca" on Sat, 10 Oct 2026.
+Culture Cafe is a music venue in Bangkok with 51 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "G2G House'n'Techno Music Collective presents; Giantsiam" on Sun, 11 Oct 2026.
 
-Culture Cafe is a music venue in Bangkok listed on soundcheck. 52 upcoming gigs, with line-ups including Damon Rider, DJ Krit Morton, DJ Mandol and djmoca and 2 more. See dates, start times and who's playing. 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok.
+Culture Cafe is a music venue in Bangkok listed on soundcheck. 51 upcoming gigs, with line-ups including Damon Rider, DJ Krit Morton, DJ Mandol and djmoca and 2 more. See dates, start times and who's playing. 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | A night of 6 hour solo deep & techno Vinyl dj set of djmoca | djmoca |
 | Sun, 11 Oct 2026 | G2G House'n'Techno Music Collective presents; Giantsiam | Giantsiam |
 | Mon, 12 Oct 2026 | Monday Night: Minimal&Techno Vinyl Sessions by plazdj | plazdj |
 | Tue, 13 Oct 2026 | Bangkok Vinyl Minimal&Techno Sessions with MOODYBOOM / Highwire crew | MOODYBOOM |
@@ -18,9 +17,10 @@ Culture Cafe is a music venue in Bangkok listed on soundcheck. 52 upcoming gigs,
 | Sat, 17 Oct 2026 | Double Vision: Fresh Wax! ;Tech Collaborations on wax; djmoca&Kanabis Stoned(6 hoursVinyl Set) | Kanabis Stoned, djmoca |
 | Sun, 18 Oct 2026 | G2G House'n'Techno Music Collective presents; Giantsiam | Giantsiam |
 | Mon, 19 Oct 2026 | Monday Night: Minimal&Techno Vinyl Sessions by plazdj | plazdj |
+| Tue, 20 Oct 2026 | Thai - Italian Vinyl development presents DROP IT' feat; Ruggero Fiore & djmodbkk |  |
 
 ## Address
 
 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok, Bangkok
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/culture-cafe/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/culture-cafe/)*

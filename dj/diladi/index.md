@@ -1,19 +1,19 @@
 # diladï
 
-diladï is a Techno and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Lieberscholli, Munich on Sat, 10 Oct 2026.
+diladï is a Techno and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
-diladï is a techno and downtempo artist based in Germany, with 51 gigs on soundcheck across Berlin, Cologne, Hamburg and Mexico City and 3 more. Often billed alongside Naicet, Ele Luz and Mona Pirzad. Next up: Lieberscholli, Munich on Sat 10 Oct.
+diladï is a techno and downtempo artist based in Germany, with 51 gigs on soundcheck across Berlin, Cologne, Hamburg and Mexico City and 3 more. Often billed alongside Naicet, Ele Luz and Mona Pirzad. Next up: Renate, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Lieberscholli | Munich |
 | Fri, 16 Oct 2026 | Renate | Berlin |
 | Sat, 7 Nov 2026 | Kater | Berlin |
 
 ## Recently played
 
+- Lieberscholli, Munich · Sat, 10 Oct 2026
 - Jonny Knüppel, Berlin · Sat, 19 Sept 2026
 - Anlegestelle Spandau (Lindenufer), Berlin · Sun, 9 Aug 2026
 - Cassiopeia, Berlin · Sat, 25 Jul 2026
@@ -21,10 +21,9 @@ diladï is a techno and downtempo artist based in Germany, with 51 gigs on sound
 - Beate Uwe, Berlin · Sun, 22 Feb 2026
 - Süss War Gestern, Berlin · Sat, 31 Jan 2026
 - Hive Club, Zurich · Fri, 23 Jan 2026
-- Beate Uwe, Berlin · Wed, 31 Dec 2025
 
 ## Shares bills with
 
 Naicet, Ele Luz, Mona Pirzad
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diladi/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diladi/)*

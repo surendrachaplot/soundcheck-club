@@ -1,14 +1,13 @@
 # Bennet (DE)
 
-Bennet (DE) is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Legal, Munich on Sat, 10 Oct 2026.
+Bennet (DE) is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Gewölbe, Cologne on Sun, 18 Oct 2026.
 
-Bennet (DE) is a house and techno artist based in Germany, with 77 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside dj sweet6teen, Bambounou and Byron Yeates. Next up: Legal, Munich on Sat 10 Oct.
+Bennet (DE) is a house and techno artist based in Germany, with 77 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside dj sweet6teen, Bambounou and Byron Yeates. Next up: Gewölbe, Cologne on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Legal | Munich |
 | Sun, 18 Oct 2026 | Gewölbe | Cologne |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
@@ -18,6 +17,7 @@ Bennet (DE) is a house and techno artist based in Germany, with 77 gigs on sound
 
 ## Recently played
 
+- Legal, Munich · Sat, 10 Oct 2026
 - Shelter Amsterdam, Amsterdam · Fri, 9 Oct 2026
 - Badaboum, Paris · Fri, 2 Oct 2026
 - UMI, Brussels · Sat, 19 Sept 2026
@@ -25,10 +25,9 @@ Bennet (DE) is a house and techno artist based in Germany, with 77 gigs on sound
 - TBA - Schwing und Stampf Festival, Zurich · Thu, 27 Aug 2026
 - TBA, Copenhagen · Sun, 16 Aug 2026
 - La Terrrazza, Barcelona · Fri, 14 Aug 2026
-- MS Artville, Hamburg · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 dj sweet6teen, Bambounou, Byron Yeates
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennet-de/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennet-de/)*

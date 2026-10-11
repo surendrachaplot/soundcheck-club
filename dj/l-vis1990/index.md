@@ -1,6 +1,6 @@
 # L-Vis 1990
 
-L-Vis 1990 is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Old Blue Last, London on Wed, 14 Oct 2026.
+L-Vis 1990 is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The Old Blue Last, London on Wed, 14 Oct 2026.
 
 L-Vis 1990 is a house and techno artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 13 more. Often billed alongside MJK, Meg Ward and Oblig. Next up: The Old Blue Last, London on Wed 14 Oct.
 
@@ -26,4 +26,4 @@ L-Vis 1990 is a house and techno artist based in United Kingdom, with 59 gigs on
 
 MJK, Meg Ward, Oblig
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l-vis1990/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l-vis1990/)*

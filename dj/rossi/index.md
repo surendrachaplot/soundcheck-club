@@ -1,14 +1,13 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 15 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 10 Oct 2026.
+Rossi is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Nxt Museum, Amsterdam on Thu, 22 Oct 2026.
 
-Rossi is a house and tech house artist based in United Kingdom, with 242 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 50 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamback. Next up: Blackstone Street Warehouse, Liverpool on Sat 10 Oct.
+Rossi is a house and tech house artist based in United Kingdom, with 242 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 50 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamback. Next up: Nxt Museum, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Blackstone Street Warehouse | Liverpool |
 | Thu, 22 Oct 2026 | Nxt Museum | Amsterdam |
 | Sat, 24 Oct 2026 | GASHOUDER | Amsterdam |
 | Thu, 29 Oct 2026 | 1015 Folsom | San Francisco/Oakland |
@@ -20,9 +19,11 @@ Rossi is a house and tech house artist based in United Kingdom, with 242 gigs on
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
+| Wed, 6 Jan 2027 | Carriageworks | Sydney |
 
 ## Recently played
 
+- Blackstone Street Warehouse, Liverpool · Sat, 10 Oct 2026
 - Depot, Cardiff · Fri, 9 Oct 2026
 - Amnesia Milano, Milan · Sat, 3 Oct 2026
 - DC-10, Ibiza · Mon, 28 Sept 2026
@@ -30,10 +31,9 @@ Rossi is a house and tech house artist based in United Kingdom, with 242 gigs on
 - TBA - Ives Rd, London E16 4Sh, London · Sat, 19 Sept 2026
 - UNO MALTA, Malta · Fri, 18 Sept 2026
 - NDSM Docklands, Amsterdam · Sun, 13 Sept 2026
-- TBA - Secret location announced only to ticket holders, Ibiza · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Josh Baker, Enzo Siragusa, Jamback
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*

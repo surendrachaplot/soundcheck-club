@@ -1,6 +1,6 @@
 # Circus Tokyo 11TH ANNIVERSARY DAY2 at Circus Tokyo
 
-Circus Tokyo 11TH ANNIVERSARY DAY2 on Sat 24 Oct, Tokyo. 5 artists: DJ Haus, Guchon, kengotaki and Licaxxx and 1 more. Acid and Garage. See the line-up on soundcheck.
+Circus Tokyo 11TH ANNIVERSARY DAY2 on Sat 24 Oct, Tokyo. 5 artists: DJ Haus, Guchon, kengotaki and Licaxxx and 1 more. Garage and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

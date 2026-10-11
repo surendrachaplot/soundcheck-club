@@ -1,14 +1,13 @@
 # Le Sucre
 
-Le Sucre is a music venue in Lyon with 18 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "club x Encore: Clouds, Evian Christ, Earth From Space" on Sat, 10 Oct 2026.
+Le Sucre is a music venue in Lyon with 17 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "S.society: Kangding Ray, Krimska" on Sun, 11 Oct 2026.
 
-Le Sucre is a music venue in Lyon listed on soundcheck. 18 upcoming gigs, with line-ups including Akalex, aya, Blood of Aza and Camion Bazar and 2 more. See dates, start times and who's playing. 50 quai Rambaud, 69002 Lyon, France.
+Le Sucre is a music venue in Lyon listed on soundcheck. 17 upcoming gigs, with line-ups including Akalex, aya, Blood of Aza and Camion Bazar and 2 more. See dates, start times and who's playing. 50 quai Rambaud, 69002 Lyon, France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | club x Encore: Clouds, Evian Christ, Earth From Space | Clouds, Evian Christ |
 | Sun, 11 Oct 2026 | S.society: Kangding Ray, Krimska | Kangding Ray, Krimska |
 | Fri, 16 Oct 2026 | club: Fasme (live), Quadratschulz (live) | Fasme, Quadratschulz |
 | Sat, 17 Oct 2026 | EXT.12: Camion Bazar, DJ Traytex, Eoin DJ b2b Maruwa, Minna-no-Kimochi | Camion Bazar, DJ Traytex, Eoin DJ, Maruwa, Minna-no-Kimochi |
@@ -18,9 +17,10 @@ Le Sucre is a music venue in Lyon listed on soundcheck. 18 upcoming gigs, with l
 | Sun, 25 Oct 2026 | S.society: Jeff Mills, Modhérée | Jeff Mills |
 | Fri, 30 Oct 2026 | A week-end with Jen Cardini | CUERPOS, Maara, Warum |
 | Sat, 31 Oct 2026 | A week-end with Jen Cardini | Ciel, Maggy Smiss, TTristana |
+| Sun, 1 Nov 2026 | A week-end with Jen Cardini | Jen Cardini |
 
 ## Address
 
 50 quai Rambaud, 69002 Lyon, France, Lyon
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/le-sucre/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/le-sucre/)*

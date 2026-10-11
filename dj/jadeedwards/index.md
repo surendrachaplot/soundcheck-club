@@ -1,19 +1,19 @@
 # Jade Edwards
 
-Jade Edwards is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Joshua Brooks, Manchester on Sat, 10 Oct 2026.
+Jade Edwards is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Arts Club, Liverpool on Sat, 24 Oct 2026.
 
-Jade Edwards is a house and disco artist based in United Kingdom, with 38 gigs on soundcheck across Berlin, Ibiza, Liverpool and London and 3 more. Often billed alongside Saint Lukez, John Morales and Luke Una. Next up: Joshua Brooks, Manchester on Sat 10 Oct.
+Jade Edwards is a house and disco artist based in United Kingdom, with 38 gigs on soundcheck across Berlin, Ibiza, Liverpool and London and 3 more. Often billed alongside Saint Lukez, John Morales and Luke Una. Next up: Arts Club, Liverpool on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Joshua Brooks | Manchester |
 | Sat, 24 Oct 2026 | Arts Club | Liverpool |
 | Sat, 7 Nov 2026 | Le 211 | Paris |
 
 ## Recently played
 
+- Joshua Brooks, Manchester · Sat, 10 Oct 2026
 - UNO MALTA, Malta · Thu, 24 Sept 2026
 - Djoon, Paris · Fri, 11 Sept 2026
 - Suono, Liverpool · Fri, 28 Aug 2026
@@ -21,10 +21,9 @@ Jade Edwards is a house and disco artist based in United Kingdom, with 38 gigs o
 - Suono, Liverpool · Sat, 27 Jun 2026
 - Freight Island, Manchester · Sun, 24 May 2026
 - Various Venues, London · Sat, 2 May 2026
-- Night Tales, London · Sat, 4 Apr 2026
 
 ## Shares bills with
 
 Saint Lukez, John Morales, Luke Una
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jadeedwards/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jadeedwards/)*

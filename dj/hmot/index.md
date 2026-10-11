@@ -1,6 +1,6 @@
 # HMOT
 
-HMOT is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Silent Green, Berlin on Tue, 20 Oct 2026.
+HMOT is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Silent Green, Berlin on Tue, 20 Oct 2026.
 
 HMOT is an experimental and techno artist based in Switzerland, with 9 gigs on soundcheck across Armenia, Basel, Berlin and Turin. Often billed alongside Kali Malone, Rabih Beaini and Riccardo La Foresta. Next up: Silent Green, Berlin on Tue 20 Oct.
 
@@ -25,4 +25,4 @@ HMOT is an experimental and techno artist based in Switzerland, with 9 gigs on s
 
 Kali Malone, Rabih Beaini, Riccardo La Foresta
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hmot/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hmot/)*

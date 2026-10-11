@@ -1,6 +1,6 @@
 # Club Exil
 
-Club Exil is a music venue in Vienna with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "One Day & Night in Paradise with Avalon & Tristan" on Fri, 16 Oct 2026.
+Club Exil is a music venue in Vienna with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "One Day & Night in Paradise with Avalon & Tristan" on Fri, 16 Oct 2026.
 
 Club Exil is a music venue in Vienna listed on soundcheck. 4 upcoming gigs, with line-ups including Anna Ullrich, ASCHENBRENNER, DORAH and Jan Ehret and 2 more. See dates, start times and who's playing. Marktstrasse 13A 2331 Vösendorf.
 
@@ -17,4 +17,4 @@ Club Exil is a music venue in Vienna listed on soundcheck. 4 upcoming gigs, with
 
 Marktstrasse 13A 2331 Vösendorf, Vienna
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-exil/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-exil/)*

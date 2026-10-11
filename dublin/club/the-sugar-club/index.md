@@ -1,6 +1,6 @@
 # The Sugar Club
 
-The Sugar Club is a music venue in Dublin with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. The next is "Signs of Life Halloween Spooktacular 2026" on Fri, 30 Oct 2026.
+The Sugar Club is a music venue in Dublin with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "Signs of Life Halloween Spooktacular 2026" on Fri, 30 Oct 2026.
 
 The Sugar Club is a music venue in Dublin listed on soundcheck. 1 upcoming gig, with line-ups including Jack Tiraquon, Little O (IE) and Space Dimension Controller. See dates, start times and who's playing. 8 Lower Leeson Street; Dublin 2; Ireland.
 
@@ -14,4 +14,4 @@ The Sugar Club is a music venue in Dublin listed on soundcheck. 1 upcoming gig, 
 
 8 Lower Leeson Street; Dublin 2; Ireland, Dublin
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sugar-club/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sugar-club/)*

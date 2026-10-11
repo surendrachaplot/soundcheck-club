@@ -1,14 +1,15 @@
 # Barbara Preisinger
 
-Barbara Preisinger is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
+Barbara Preisinger is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
 
-Barbara Preisinger is a house and techno artist based in Germany, with 63 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 12 more. Often billed alongside Foehn & Jerome, Alexander Skancke and Zip. Next up: Kater, Berlin on Fri 30 Oct.
+Barbara Preisinger is a house and techno artist based in Germany, with 64 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 12 more. Often billed alongside Foehn & Jerome, Alexander Skancke and Zip. Next up: Kater, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Kater | Berlin |
+| Sat, 28 Nov 2026 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Barbara Preisinger is a house and techno artist based in Germany, with 63 gigs o
 
 Foehn & Jerome, Alexander Skancke, Zip
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barbarapreisinger/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barbarapreisinger/)*

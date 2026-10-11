@@ -1,18 +1,17 @@
 # Roberta's
 
-Roberta's is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Late Replies | The HiFi x No Sleep Club" on Sat, 10 Oct 2026.
+Roberta's is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "BEVERAGES presents HalloWine" on Sat, 31 Oct 2026.
 
-Roberta's is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Fernelly, Fundido, Kristine Barilli and Late Replies and 2 more. See dates, start times and who's playing. 261 Moore St, Brooklyn, NY 11206.
+Roberta's is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Fernelly, Fundido, Kristine Barilli and Seedy J. See dates, start times and who's playing. 261 Moore St, Brooklyn, NY 11206.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Late Replies / The HiFi x No Sleep Club | Late Replies, LockEight, SIEGEL (2), Zeeva |
 | Sat, 31 Oct 2026 | BEVERAGES presents HalloWine | Fernelly, Fundido, Kristine Barilli, Seedy J |
 
 ## Address
 
 261 Moore St, Brooklyn, NY 11206, New York City
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/roberta-s/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/roberta-s/)*

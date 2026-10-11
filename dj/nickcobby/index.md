@@ -1,6 +1,6 @@
 # Nick Cobby
 
-Nick Cobby is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Departamento, Mexico City on Wed, 7 Oct 2026.
+Nick Cobby is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Departamento, Mexico City on Wed, 7 Oct 2026.
 
 Nick Cobby is a house and electronica artist, with 22 gigs on soundcheck across Berlin, Lisbon and Mexico City. Often billed alongside MOOD HSM, Barreto and Bastard Love. Next up: Departamento, Mexico City on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ Nick Cobby is a house and electronica artist, with 22 gigs on soundcheck across 
 
 MOOD HSM, Barreto, Bastard Love
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcobby/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcobby/)*

@@ -1,6 +1,6 @@
 # Misty
 
-Misty is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Ceryle, Egypt on Thu, 15 Oct 2026.
+Misty is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Ceryle, Egypt on Thu, 15 Oct 2026.
 
 Misty is a techno and house artist, with 17 gigs on soundcheck across Amsterdam, Auckland, Egypt and Ghent and 6 more. Often billed alongside Cine, MINERVA and Tetsuo. Next up: Ceryle, Egypt on Thu 15 Oct.
 
@@ -27,4 +27,4 @@ Misty is a techno and house artist, with 17 gigs on soundcheck across Amsterdam,
 
 Cine, MINERVA, Tetsuo
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misty/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misty/)*

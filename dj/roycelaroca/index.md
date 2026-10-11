@@ -1,14 +1,14 @@
 # Royce Larøca
 
-Royce Larøca is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at La Chinesca, Philadelphia on Sun, 11 Oct 2026.
+Royce Larøca is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Warehouse on Watts, Philadelphia on Sun, 11 Oct 2026.
 
-Royce Larøca is a house and minimal artist based in Brazil, with 71 gigs on soundcheck across Dublin, Lisbon, London and Paris and 1 more. Often billed alongside Waximum, Hera (IE) and RealTalks Soundsystem. Next up: La Chinesca, Philadelphia on Sun 11 Oct.
+Royce Larøca is a house and minimal artist based in Brazil, with 71 gigs on soundcheck across Dublin, Lisbon, London and Paris and 1 more. Often billed alongside Waximum, Hera (IE) and RealTalks Soundsystem. Next up: Warehouse on Watts, Philadelphia on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | La Chinesca | Philadelphia |
+| Sun, 11 Oct 2026 | Warehouse on Watts | Philadelphia |
 | Fri, 30 Oct 2026 | Bad Bobs (Rooftop Terrace), Temple Bar | Dublin |
 
 ## Recently played
@@ -26,4 +26,4 @@ Royce Larøca is a house and minimal artist based in Brazil, with 71 gigs on sou
 
 Waximum, Hera (IE), RealTalks Soundsystem
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roycelaroca/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roycelaroca/)*

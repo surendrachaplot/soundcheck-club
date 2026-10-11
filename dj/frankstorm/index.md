@@ -1,6 +1,6 @@
 # Frank Storm
 
-Frank Storm is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Floyd, Miami on Sun, 25 Oct 2026.
+Frank Storm is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Floyd, Miami on Sun, 25 Oct 2026.
 
 Frank Storm is a tech house and techno artist based in Italy, with 42 gigs on soundcheck across Amsterdam, Bali, Barcelona and Buenos Aires and 8 more. Often billed alongside Marco Carola, Ale De Tuglie and Wade. Next up: Floyd, Miami on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Frank Storm is a tech house and techno artist based in Italy, with 42 gigs on so
 
 Marco Carola, Ale De Tuglie, Wade
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankstorm/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankstorm/)*

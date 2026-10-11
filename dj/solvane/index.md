@@ -1,14 +1,13 @@
 # Solvane
 
-Solvane is a Techno and Progressive House artist with 13 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 10 Oct 2026.
+Solvane is a Techno and Progressive House artist with 12 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Fridas Pier, Stuttgart on Sat, 17 Oct 2026.
 
-Solvane is a techno and progressive house artist based in Germany, with 121 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Berlin and 21 more. Often billed alongside Prismode, Markus Klee and Super Flu. Next up: Ritter Butzke, Berlin on Sat 10 Oct.
+Solvane is a techno and progressive house artist based in Germany, with 121 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Berlin and 21 more. Often billed alongside Prismode, Markus Klee and Super Flu. Next up: Fridas Pier, Stuttgart on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Ritter Butzke | Berlin |
 | Sat, 17 Oct 2026 | Fridas Pier | Stuttgart |
 | Fri, 23 Oct 2026 | Supperclub Cruise | Amsterdam |
 | Sat, 24 Oct 2026 | Tanzhaus West | Frankfurt |
@@ -20,9 +19,11 @@ Solvane is a techno and progressive house artist based in Germany, with 121 gigs
 | Fri, 27 Nov 2026 | Jaeger | Oslo |
 | Sat, 28 Nov 2026 | Karree | Baden-w-rttemberg |
 | Thu, 31 Dec 2026 | Ritter Butzke | Berlin |
+| Wed, 26 May 2027 | Edem Beach Club | Greece |
 
 ## Recently played
 
+- Ritter Butzke, Berlin · Sat, 10 Oct 2026
 - Docks, Hamburg · Fri, 9 Oct 2026
 - Insomnia, Berlin · Sat, 26 Sept 2026
 - Hamburg Cruise Center Altona, Hamburg · Fri, 28 Aug 2026
@@ -30,10 +31,9 @@ Solvane is a techno and progressive house artist based in Germany, with 121 gigs
 - Bahnwärter Thiel, Munich · Sat, 22 Aug 2026
 - TBA - Straße des 17. Juni, Berlin · Sat, 15 Aug 2026
 - Ritter Butzke, Berlin · Sat, 15 Aug 2026
-- Ritter Butzke, Berlin · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Prismode, Markus Klee, Super Flu
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solvane/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solvane/)*

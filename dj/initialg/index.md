@@ -1,6 +1,6 @@
 # Initial G
 
-Initial G is a Footwork and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Indigo Mrkto, Chicago on Sat, 17 Oct 2026.
+Initial G is a Footwork and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Indigo Mrkto, Chicago on Sat, 17 Oct 2026.
 
 Initial G is a footwork and house artist based in United States of America, with 49 gigs on soundcheck across Chicago and Sydney. Often billed alongside DJ Acey, Steve Noah and Elock. Next up: Indigo Mrkto, Chicago on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Initial G is a footwork and house artist based in United States of America, with
 
 DJ Acey, Steve Noah, Elock
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/initialg/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/initialg/)*

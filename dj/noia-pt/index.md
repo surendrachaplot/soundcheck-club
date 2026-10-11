@@ -1,6 +1,6 @@
 # NOIA
 
-NOIA is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at M_odu, Porto on Sat, 24 Oct 2026.
+NOIA is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at M_odu, Porto on Sat, 24 Oct 2026.
 
 NOIA is a bass and house artist based in Portugal, with 70 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Kuala Lumpur and 9 more. Often billed alongside Torres, CASH FROM HASH and Juvenil Angústia. Next up: M_odu, Porto on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ NOIA is a bass and house artist based in Portugal, with 70 gigs on soundcheck ac
 
 Torres, CASH FROM HASH, Juvenil Angústia
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noia-pt/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noia-pt/)*

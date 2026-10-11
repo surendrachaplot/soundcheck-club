@@ -1,6 +1,6 @@
 # VICTORIA WHYNOT
 
-VICTORIA WHYNOT is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
+VICTORIA WHYNOT is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
 
 VICTORIA WHYNOT is a house and techno artist based in Argentina, with 27 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Ibiza and 4 more. Often billed alongside Kirilski, FR3ADY and Pete Tong. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
 
@@ -14,6 +14,7 @@ VICTORIA WHYNOT is a house and techno artist based in Argentina, with 27 gigs on
 
 ## Recently played
 
+- Auditorio Málaga Cortijo de Torres, South · Sat, 10 Oct 2026
 - TBA - Area Costanera, Quilmes, Buenos Aires · Sun, 4 Oct 2026
 - TBA - La Biblioteca, San Telmo, Buenos Aires · Sat, 3 Oct 2026
 - [UNVRS], Ibiza · Sun, 19 Jul 2026
@@ -21,10 +22,9 @@ VICTORIA WHYNOT is a house and techno artist based in Argentina, with 27 gigs on
 - TBA - LunaSol, Wynwood, Miami · Tue, 30 Jun 2026
 - Crobar - Buenos Aires, Buenos Aires · Fri, 8 May 2026
 - MAD Radio NYC, New York City · Sat, 24 Jan 2026
-- Q-Factory, Amsterdam · Fri, 24 Oct 2025
 
 ## Shares bills with
 
 Kirilski, FR3ADY, Pete Tong
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriawhynot/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriawhynot/)*

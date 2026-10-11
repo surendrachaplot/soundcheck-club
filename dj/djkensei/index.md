@@ -1,6 +1,6 @@
 # DJ Kensei
 
-DJ Kensei is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Enter Shibuya, Tokyo on Fri, 30 Oct 2026.
+DJ Kensei is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Enter Shibuya, Tokyo on Fri, 30 Oct 2026.
 
 DJ Kensei is a house and techno artist based in Japan, with 66 gigs on soundcheck across Bangkok, Kyoto, Osaka and Tokyo. Often billed alongside Sunga, YouForgot and 7e. Next up: Enter Shibuya, Tokyo on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DJ Kensei is a house and techno artist based in Japan, with 66 gigs on soundchec
 
 Sunga, YouForgot, 7e
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkensei/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkensei/)*

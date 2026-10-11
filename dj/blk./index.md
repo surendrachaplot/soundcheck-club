@@ -1,6 +1,6 @@
 # blk.
 
-blk. is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Nxt Museum, Amsterdam on Fri, 23 Oct 2026.
+blk. is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Nxt Museum, Amsterdam on Fri, 23 Oct 2026.
 
 blk. is a techno and trance artist based in Ireland, with 141 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 39 more. Often billed alongside Azyr, Black Traffic and Charlie Sparks. Next up: Nxt Museum, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ blk. is a techno and trance artist based in Ireland, with 141 gigs on soundcheck
 
 Azyr, Black Traffic, Charlie Sparks
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blk./)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blk./)*

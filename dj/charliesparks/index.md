@@ -1,14 +1,13 @@
 # Charlie Sparks
 
-Charlie Sparks is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Smolna, Warsaw on Sat, 10 Oct 2026.
+Charlie Sparks is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
-Charlie Sparks is a techno and trance artist based in United Kingdom, with 267 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Barcelona and 68 more. Often billed alongside 999999999, Parfait and I Hate Models. Next up: Smolna, Warsaw on Sat 10 Oct.
+Charlie Sparks is a techno and trance artist based in United Kingdom, with 267 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Barcelona and 68 more. Often billed alongside 999999999, Parfait and I Hate Models. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Smolna | Warsaw |
 | Thu, 22 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
 | Fri, 30 Oct 2026 | TBA - Fohrstraat, 9000 Gent, België | Belgium |
@@ -23,6 +22,7 @@ Charlie Sparks is a techno and trance artist based in United Kingdom, with 267 g
 
 ## Recently played
 
+- Smolna, Warsaw · Sat, 10 Oct 2026
 - The Great Pyramids OF Giza, Egypt · Fri, 9 Oct 2026
 - Amnesia Ibiza, Ibiza · Sun, 20 Sept 2026
 - Matrez - Warehouse, Belgrade · Sat, 12 Sept 2026
@@ -30,10 +30,9 @@ Charlie Sparks is a techno and trance artist based in United Kingdom, with 267 g
 - Kilomètre25, Paris · Fri, 4 Sept 2026
 - Boucher Road Fields, Belfast · Sat, 29 Aug 2026
 - The Telegraph Building, Belfast · Sat, 29 Aug 2026
-- Eden, Ibiza · Tue, 25 Aug 2026
 
 ## Shares bills with
 
 999999999, Parfait, I Hate Models
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesparks/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesparks/)*

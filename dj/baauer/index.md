@@ -1,14 +1,13 @@
 # Baauer
 
-Baauer is a House and Bass artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Gold Coast, Chicago on Sat, 10 Oct 2026.
+Baauer is a House and Bass artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Substation, Seattle on Sat, 17 Oct 2026.
 
-Baauer is a house and bass artist based in United States of America, with 24 gigs on soundcheck across Boston, Chicago, Dallas Fort Worth and Denver and 9 more. Often billed alongside Bianca Oblivion, Hudson Mohawke and A-Trak. Next up: TBA - Gold Coast, Chicago on Sat 10 Oct.
+Baauer is a house and bass artist based in United States of America, with 24 gigs on soundcheck across Boston, Chicago, Dallas Fort Worth and Denver and 9 more. Often billed alongside Bianca Oblivion, Hudson Mohawke and A-Trak. Next up: Substation, Seattle on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | TBA - Gold Coast | Chicago |
 | Sat, 17 Oct 2026 | Substation | Seattle |
 | Fri, 23 Oct 2026 | It'll Do | Dallas-fort-worth |
 | Sat, 24 Oct 2026 | Meow Wolf Houston | Houston |
@@ -18,6 +17,7 @@ Baauer is a house and bass artist based in United States of America, with 24 gig
 
 ## Recently played
 
+- TBA - Gold Coast, Chicago · Sat, 10 Oct 2026
 - Audio SF, San Francisco/Oakland · Fri, 9 Oct 2026
 - Club Vinyl, Denver · Fri, 2 Oct 2026
 - Bsmnt, Boston · Fri, 25 Sept 2026
@@ -25,10 +25,9 @@ Baauer is a house and bass artist based in United States of America, with 24 gig
 - Bsmnt, Boston · Mon, 29 Dec 2025
 - Big Night Live, Boston · Sat, 11 Oct 2025
 - TBA, Los Angeles · Sat, 14 Jun 2025
-- Ex Fabrica de Harina Anden Tacuba, Mexico City · Sat, 22 Mar 2025
 
 ## Shares bills with
 
 Bianca Oblivion, Hudson Mohawke, A-Trak
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baauer/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baauer/)*

@@ -1,6 +1,6 @@
 # Jepe
 
-Jepe is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Golden Gate, Berlin on Thu, 22 Oct 2026.
+Jepe is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Golden Gate, Berlin on Thu, 22 Oct 2026.
 
 Jepe is a house and techno artist, with 40 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Frankfurt and 8 more. Often billed alongside Berny, Manu Strasse and Alexander Maier. Next up: Golden Gate, Berlin on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Jepe is a house and techno artist, with 40 gigs on soundcheck across Amsterdam, 
 
 Berny, Manu Strasse, Alexander Maier
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jepe/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jepe/)*

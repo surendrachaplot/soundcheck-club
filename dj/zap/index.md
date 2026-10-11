@@ -1,6 +1,6 @@
 # Z@p
 
-Z@p is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Buda BXL, Brussels on Sat, 10 Oct 2026.
+Z@p is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Buda BXL, Brussels on Sat, 10 Oct 2026.
 
 Z@p is a techno and house artist based in Uruguay, with 125 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 33 more. Often billed alongside Unai Trotti, Junki Inoue and Vass. Next up: Buda BXL, Brussels on Sat 10 Oct.
 
@@ -18,6 +18,7 @@ Z@p is a techno and house artist based in Uruguay, with 125 gigs on soundcheck a
 
 ## Recently played
 
+- Buda BXL, Brussels · Sat, 10 Oct 2026
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
 - FOLD, London · Sat, 26 Sept 2026
 - Le 211, Paris · Sat, 19 Sept 2026
@@ -25,10 +26,9 @@ Z@p is a techno and house artist based in Uruguay, with 125 gigs on soundcheck a
 - TBA - East Williamsburg, New York City · Fri, 4 Sept 2026
 - FOLD, London · Fri, 21 Aug 2026
 - Blow, Buenos Aires · Sat, 25 Jul 2026
-- Fünk, Mexico City · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Unai Trotti, Junki Inoue, Vass
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zap/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zap/)*

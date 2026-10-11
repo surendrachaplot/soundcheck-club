@@ -1,6 +1,6 @@
 # Bial HClap
 
-Bial HClap is a Latin Bass and Classical artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Eschschloraque, Berlin on Fri, 16 Oct 2026.
+Bial HClap is a Latin Bass and Classical artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Eschschloraque, Berlin on Fri, 16 Oct 2026.
 
 Bial HClap is a latin bass and classical artist, with 14 gigs on soundcheck across Barcelona, Berlin, Cologne and Mexico City and 1 more. Often billed alongside Eliazar, Irena Stanisic and Juan Soto. Next up: Eschschloraque, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Bial HClap is a latin bass and classical artist, with 14 gigs on soundcheck acro
 
 Eliazar, Irena Stanisic, Juan Soto
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bialhclap/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bialhclap/)*

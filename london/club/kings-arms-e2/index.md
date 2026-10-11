@@ -1,14 +1,13 @@
 # Kings Arms E2
 
-Kings Arms E2 is a music venue in London with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Kings Turntable: Stuart D Alexander [101026]" on Sat, 10 Oct 2026.
+Kings Arms E2 is a music venue in London with 11 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Kings Turntable: Gordon Wedderburn [11.10.26]" on Sun, 11 Oct 2026.
 
-Kings Arms E2 is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Armooniaman, DJ Migz and Donna Gibson. See dates, start times and who's playing. 11A Buckfast St, London, E2 6EY.
+Kings Arms E2 is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Armooniaman, DJ Migz and Donna Gibson. See dates, start times and who's playing. 11A Buckfast St, London, E2 6EY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Kings Turntable: Stuart D Alexander [101026] |  |
 | Sun, 11 Oct 2026 | Kings Turntable: Gordon Wedderburn [11.10.26] |  |
 | Sat, 17 Oct 2026 | Kings Turntable: DJ Migz [17.10.2026] | DJ Migz |
 | Sun, 18 Oct 2026 | Vinyl Open Decks with NOYB Vol. 7 [18.10.26] |  |
@@ -18,9 +17,10 @@ Kings Arms E2 is a music venue in London listed on soundcheck. 12 upcoming gigs,
 | Sun, 1 Nov 2026 | Vinyl Open Decks with George Kerr [01.11.26] |  |
 | Sat, 7 Nov 2026 | Kings Turntable [07.11.26] |  |
 | Sun, 8 Nov 2026 | Kings Turntable: Goochi [08.11.26] |  |
+| Sat, 14 Nov 2026 | Kings Turntable: Donna Gibson [14.11.26] | Donna Gibson |
 
 ## Address
 
 11A Buckfast St, London, E2 6EY, London
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/kings-arms-e2/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/kings-arms-e2/)*

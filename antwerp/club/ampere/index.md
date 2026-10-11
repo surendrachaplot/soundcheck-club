@@ -1,14 +1,13 @@
 # Ampere
 
-Ampere is a music venue in Antwerp with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Ampere x Headspace present Space Age: LSB, DRS, Fabio, Anile + More" on Sat, 10 Oct 2026.
+Ampere is a music venue in Antwerp with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Mala Invites with Mala (3h set), AliA, Requake" on Fri, 16 Oct 2026.
 
-Ampere is a music venue in Antwerp listed on soundcheck. 7 upcoming gigs, with line-ups including AliA, Dave Clarke, David Vunk and DJ Marky and 2 more. See dates, start times and who's playing. Simonsstraat 21, 2018 Antwerp, BE.
+Ampere is a music venue in Antwerp listed on soundcheck. 6 upcoming gigs, with line-ups including AliA, Dave Clarke, David Vunk and DJ Marky and 2 more. See dates, start times and who's playing. Simonsstraat 21, 2018 Antwerp, BE.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Ampere x Headspace present Space Age: LSB, DRS, Fabio, Anile + More | DRS, Expensive KVR, Fabio, Hiraeth, LSB |
 | Fri, 16 Oct 2026 | Mala Invites with Mala (3h set), AliA, Requake | AliA, Mala |
 | Fri, 23 Oct 2026 | Ampere x Rawax present: Ricardo Villalobos | Joachim, Ricardo Villalobos, Robert Drewek |
 | Fri, 20 Nov 2026 | Ampere presents DJ Marky & GQ | DJ Marky, Hiraeth, MC GQ |
@@ -20,4 +19,4 @@ Ampere is a music venue in Antwerp listed on soundcheck. 7 upcoming gigs, with l
 
 Simonsstraat 21, 2018 Antwerp, BE, Antwerp
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/ampere/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/ampere/)*

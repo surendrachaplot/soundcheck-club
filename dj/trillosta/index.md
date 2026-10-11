@@ -1,8 +1,8 @@
 # trillosta
 
-trillosta is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Funke, Ghent on Sat, 17 Oct 2026.
+trillosta is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Funke, Ghent on Sat, 17 Oct 2026.
 
-trillosta is a techno and trance artist based in Belgium, with 61 gigs on soundcheck across Amsterdam, Berlin, Brussels and Budapest and 3 more. Often billed alongside Wannes Lenaers, Helena Lauwaert and Pegassi. Next up: Funke, Ghent on Sat 17 Oct.
+trillosta is a techno and trance artist based in Belgium, with 62 gigs on soundcheck across Amsterdam, Basel, Berlin and Brussels and 4 more. Often billed alongside Wannes Lenaers, Helena Lauwaert and Pegassi. Next up: Funke, Ghent on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ trillosta is a techno and trance artist based in Belgium, with 61 gigs on soundc
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Funke | Ghent |
 | Fri, 23 Oct 2026 | De Fik Garden | Amsterdam |
+| Sat, 31 Oct 2026 | Elysia | Basel |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ trillosta is a techno and trance artist based in Belgium, with 61 gigs on soundc
 
 Wannes Lenaers, Helena Lauwaert, Pegassi
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trillosta/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trillosta/)*

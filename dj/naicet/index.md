@@ -1,14 +1,15 @@
 # Naicet
 
-Naicet is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+Naicet is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
-Naicet is a techno and tech house artist based in Germany, with 61 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Munich and 2 more. Often billed alongside Elias Goldmund, Daniel Neuland and Martin Ka. Next up: Renate, Berlin on Fri 16 Oct.
+Naicet is a techno and tech house artist based in Germany, with 62 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Munich and 2 more. Often billed alongside Elias Goldmund, Daniel Neuland and Martin Ka. Next up: Renate, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Renate | Berlin |
+| Fri, 16 Oct 2026 | Zur Klappe | Berlin |
 | Sat, 24 Oct 2026 | Ritter Butzke | Berlin |
 | Fri, 20 Nov 2026 | Kater | Berlin |
 
@@ -27,4 +28,4 @@ Naicet is a techno and tech house artist based in Germany, with 61 gigs on sound
 
 Elias Goldmund, Daniel Neuland, Martin Ka
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naicet/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naicet/)*

@@ -1,6 +1,6 @@
 # Why Be
 
-Why Be is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at OHM, Berlin on Fri, 16 Oct 2026.
+Why Be is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at OHM, Berlin on Fri, 16 Oct 2026.
 
 Why Be is a techno and club artist based in Denmark, with 48 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 11 more. Often billed alongside Yazzus, DJ TOOL and D.Dan. Next up: OHM, Berlin on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Why Be is a techno and club artist based in Denmark, with 48 gigs on soundcheck 
 
 Yazzus, DJ TOOL, D.Dan
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whybe/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whybe/)*

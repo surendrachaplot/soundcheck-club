@@ -1,14 +1,13 @@
 # DAX J
 
-DAX J is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 10 Oct 2026.
+DAX J is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at RAWFACTORY, Amsterdam on Fri, 23 Oct 2026.
 
-DAX J is a techno and house artist based in United Kingdom, with 267 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 69 more. Often billed alongside SPFDJ, Daria Kolosova and Chlär. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 10 Oct.
+DAX J is a techno and house artist based in United Kingdom, with 267 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 69 more. Often billed alongside SPFDJ, Daria Kolosova and Chlär. Next up: RAWFACTORY, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
@@ -20,9 +19,11 @@ DAX J is a techno and house artist based in United Kingdom, with 267 gigs on sou
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Sat, 28 Nov 2026 | Lofi | Amsterdam |
 | Sat, 5 Dec 2026 | Fabrik | Madrid |
+| Thu, 24 Dec 2026 | SMUT Athens | Athens |
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 10 Oct 2026
 - Lehmann Club, Stuttgart · Sat, 3 Oct 2026
 - essaim, Paris · Fri, 2 Oct 2026
 - Hï Ibiza, Ibiza · Sun, 27 Sept 2026
@@ -30,10 +31,9 @@ DAX J is a techno and house artist based in United Kingdom, with 267 gigs on sou
 - Circolo Amelia, Milan · Sat, 19 Sept 2026
 - Nitsa Club, Barcelona · Fri, 18 Sept 2026
 - TBA - Los Angeles, Los Angeles · Sun, 6 Sept 2026
-- Radius, Chicago · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 SPFDJ, Daria Kolosova, Chlär
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*

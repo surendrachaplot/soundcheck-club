@@ -1,14 +1,13 @@
 # Stef Davidse
 
-Stef Davidse is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at La Java, Paris on Sat, 10 Oct 2026.
+Stef Davidse is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Distrikt, Leeds on Fri, 16 Oct 2026.
 
-Stef Davidse is a house and tech house artist based in Netherlands, with 102 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Cardiff and 16 more. Often billed alongside Ryan Resso, Chopper (UK) and FINKY. Next up: La Java, Paris on Sat 10 Oct.
+Stef Davidse is a house and tech house artist based in Netherlands, with 102 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Cardiff and 16 more. Often billed alongside Ryan Resso, Chopper (UK) and FINKY. Next up: Distrikt, Leeds on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | La Java | Paris |
 | Fri, 16 Oct 2026 | Distrikt | Leeds |
 | Sat, 17 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Wed, 21 Oct 2026 | Tropeninstituut: Koninklijk Instituut Voor de Tropen | Amsterdam |
@@ -22,6 +21,7 @@ Stef Davidse is a house and tech house artist based in Netherlands, with 102 gig
 
 ## Recently played
 
+- La Java, Paris · Sat, 10 Oct 2026
 - Depot Mayfield, Manchester · Sat, 3 Oct 2026
 - 528 Ibiza, Ibiza · Fri, 18 Sept 2026
 - Whitehouse, The Hague · Sat, 5 Sept 2026
@@ -29,10 +29,9 @@ Stef Davidse is a house and tech house artist based in Netherlands, with 102 gig
 - [UNVRS], Ibiza · Wed, 19 Aug 2026
 - Thuishaven, Amsterdam · Sun, 16 Aug 2026
 - Lab11, Birmingham · Sat, 8 Aug 2026
-- Oranjepark, Rotterdam · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Ryan Resso, Chopper (UK), FINKY
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdavidse/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdavidse/)*

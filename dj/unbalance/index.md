@@ -1,14 +1,13 @@
 # Unbalance
 
-Unbalance is a electronic artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA, Moscow on Fri, 9 Oct 2026.
+Unbalance is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at K-30, Saint-petersburg on Sat, 7 Nov 2026.
 
-Unbalance is an electronic artist based in Russia, with 3 gigs on soundcheck across Dubai, Moscow and Saint Petersburg. Often billed alongside ALEX PANKOV, ALOD and Chain Damage. Next up: TBA, Moscow on Fri 9 Oct.
+Unbalance is an electronic artist based in Russia, with 3 gigs on soundcheck across Dubai, Moscow and Saint Petersburg. Often billed alongside ALEX PANKOV, ALOD and Chain Damage. Next up: K-30, Saint Petersburg on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | TBA | Moscow |
 | Sat, 7 Nov 2026 | K-30 | Saint-petersburg |
 | Fri, 13 Nov 2026 | Desert Inn Resort and Camp | Dubai |
 
@@ -20,4 +19,4 @@ Unbalance is an electronic artist based in Russia, with 3 gigs on soundcheck acr
 
 ALEX PANKOV, ALOD, Chain Damage
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unbalance/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unbalance/)*

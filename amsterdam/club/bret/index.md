@@ -1,14 +1,13 @@
 # BRET
 
-BRET is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Caim, Kevin Lo, Mattias El Mansouri" on Sat, 10 Oct 2026.
+BRET is a music venue in Amsterdam with 16 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Lobster Invites - Free ADE Event" on Wed, 21 Oct 2026.
 
-BRET is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with line-ups including Al Ex, Alex Dima, Alexia Glensy and Andy Luff and 2 more. See dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
+BRET is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, with line-ups including Al Ex, Alex Dima, Alexia Glensy and Andy Luff and 2 more. See dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Caim, Kevin Lo, Mattias El Mansouri | Caim, Kevin Lo, Mattias El Mansouri |
 | Wed, 21 Oct 2026 | Lobster Invites - Free ADE Event | Kyra Khaldi, Lobster (NL), Mella Dee, Samuel Deep |
 | Thu, 22 Oct 2026 | SLACKER x BRET - ADE | Gaiser, Marc Houle, Olive F, Rio Tashan, Seth Troxler, Sindicato Del Baile, Tiga, Tom Trago |
 | Fri, 23 Oct 2026 | Mano Le Tough pres. Maeve x ADE | Carlos Valdes, Cassy, Luke Alessi, Mano Le Tough, The Drifter |
@@ -18,9 +17,10 @@ BRET is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with 
 | Sat, 24 Oct 2026 | DAYCARE x ADE | Bastienne, Mahabe, Phara, Shaleen, Tommy Four Seven |
 | Sun, 25 Oct 2026 | SLPFNK - BRET ADE |  |
 | Sun, 25 Oct 2026 | ADE Sunday with Joseph Capriati (SOLD OUT) | Cristina Lazic, Joseph Capriati |
+| Fri, 6 Nov 2026 | Cloonee | Cloonee |
 
 ## Address
 
 Orlyplein 76, 1043 DP Amsterdam, Netherlands, Amsterdam
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*

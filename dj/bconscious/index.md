@@ -1,19 +1,19 @@
 # Bconscious
 
-Bconscious is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 10 Oct 2026.
+Bconscious is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 18 Oct 2026.
 
-Bconscious is a techno and house artist, with 48 gigs on soundcheck across Bangkok, Berlin and Hamburg. Often billed alongside Gforty, Guido Iacovitti and Inverse Element. Next up: Crack Bellmer, Berlin on Sat 10 Oct.
+Bconscious is a techno and house artist, with 48 gigs on soundcheck across Bangkok, Berlin and Hamburg. Often billed alongside Gforty, Guido Iacovitti and Inverse Element. Next up: Crack Bellmer, Berlin on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Crack Bellmer | Berlin |
 | Sun, 18 Oct 2026 | Crack Bellmer | Berlin |
 | Tue, 27 Oct 2026 | OXI | Berlin |
 
 ## Recently played
 
+- Crack Bellmer, Berlin · Sat, 10 Oct 2026
 - Banja Luka, Berlin · Fri, 9 Oct 2026
 - TBA - Secret Location, Berlin · Fri, 11 Sept 2026
 - THF Radio / Torhaus, Berlin · Sat, 11 Jul 2026
@@ -21,10 +21,9 @@ Bconscious is a techno and house artist, with 48 gigs on soundcheck across Bangk
 - Banja Luka, Berlin · Sun, 21 Jun 2026
 - OXI, Berlin · Tue, 16 Jun 2026
 - Crack Bellmer, Berlin · Fri, 12 Jun 2026
-- Marmorbar, Berlin · Sat, 16 May 2026
 
 ## Shares bills with
 
 Gforty, Guido Iacovitti, Inverse Element
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bconscious/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bconscious/)*

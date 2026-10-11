@@ -1,6 +1,6 @@
 # Mateo
 
-Mateo is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Mateo is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
 Mateo is a techno and minimal techno artist based in Hungary, with 6 gigs on soundcheck across Budapest, Marseille, Melbourne and Tbilisi and 1 more. Often billed alongside Spirit, Agents Of Time and Albin Brezlan. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Mateo is a techno and minimal techno artist based in Hungary, with 6 gigs on sou
 
 Spirit, Agents Of Time, Albin Brezlan
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mateo/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mateo/)*

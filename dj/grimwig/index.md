@@ -1,6 +1,6 @@
 # Grimwig
 
-Grimwig is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Bonobo, Tokyo on Sun, 11 Oct 2026.
+Grimwig is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Bonobo, Tokyo on Sun, 11 Oct 2026.
 
 Grimwig is an experimental and electronica artist based in Canada, with 14 gigs on soundcheck across Berlin, Brussels, Kyoto and London and 4 more. Often billed alongside Laurine Frost, Big Hands and Max Loderbauer. Next up: Bonobo, Tokyo on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Grimwig is an experimental and electronica artist based in Canada, with 14 gigs 
 
 Laurine Frost, Big Hands, Max Loderbauer
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grimwig/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grimwig/)*

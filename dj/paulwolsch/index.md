@@ -1,6 +1,6 @@
 # Paul Wolsch
 
-Paul Wolsch is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Macarena Club, Barcelona on Wed, 14 Oct 2026.
+Paul Wolsch is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Macarena Club, Barcelona on Wed, 14 Oct 2026.
 
 Paul Wolsch is a house and techno artist based in Costa Rica, with 33 gigs on soundcheck across Athens, Bangkok, Barcelona and Berlin and 16 more. Often billed alongside Al Jones, BOYCA and MAF. Next up: Macarena Club, Barcelona on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ Paul Wolsch is a house and techno artist based in Costa Rica, with 33 gigs on so
 
 Al Jones, BOYCA, MAF
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulwolsch/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulwolsch/)*

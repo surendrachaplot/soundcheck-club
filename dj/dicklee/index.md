@@ -1,6 +1,6 @@
 # Dick Lee
 
-Dick Lee is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Newspeak, Montreal on Sat, 28 Nov 2026.
+Dick Lee is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Newspeak, Montreal on Sat, 28 Nov 2026.
 
 Dick Lee is a house and electro artist based in Canada, with 11 gigs on soundcheck across Montreal and Toronto. Often billed alongside Melek, NAD (NL) and Nad. Next up: Newspeak, Montreal on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Dick Lee is a house and electro artist based in Canada, with 11 gigs on soundche
 
 Melek, NAD (NL), Nad (5)
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dicklee/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dicklee/)*

@@ -1,6 +1,6 @@
 # Mamazu
 
-Mamazu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Cube, Tokyo on Tue, 3 Nov 2026.
+Mamazu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Cube, Tokyo on Tue, 3 Nov 2026.
 
 Mamazu is a house and techno artist based in Japan, with 100 gigs on soundcheck across Barcelona, Brussels, Kyoto and Osaka and 1 more. Often billed alongside Sunga, YO.AN and REO MATSUMOTO. Next up: Cube, Tokyo on Tue 3 Nov.
 
@@ -12,6 +12,7 @@ Mamazu is a house and techno artist based in Japan, with 100 gigs on soundcheck 
 
 ## Recently played
 
+- Aoyama Hachi, Tokyo · Sat, 10 Oct 2026
 - Enter Shibuya, Tokyo · Sat, 3 Oct 2026
 - Mitsuki, Tokyo · Sat, 26 Sept 2026
 - WOMB, Tokyo · Sat, 19 Sept 2026
@@ -19,10 +20,9 @@ Mamazu is a house and techno artist based in Japan, with 100 gigs on soundcheck 
 - WOMB, Tokyo · Sat, 18 Jul 2026
 - Oath, Tokyo · Sat, 11 Jul 2026
 - clubasia, Tokyo · Sat, 4 Jul 2026
-- BAR Inc, Osaka · Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Sunga, YO.AN, REO MATSUMOTO
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mamazu/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mamazu/)*

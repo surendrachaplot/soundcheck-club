@@ -1,14 +1,13 @@
 # Temple SF
 
-Temple SF is a music venue in San Francisco/Oakland with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "DJ BAYAREAKEV at LVL55 - Hiphop Room Saturdays" on Sat, 10 Oct 2026.
+Temple SF is a music venue in San Francisco/Oakland with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "SHAKE BODY - Afrobeats Hiphop Rnb" on Fri, 16 Oct 2026.
 
-Temple SF is a music venue in San Francisco/Oakland listed on soundcheck. 7 upcoming gigs, with line-ups including TBA. See dates, start times and who's playing. 540 Howard St., San Francisco, CA 94105, United States.
+Temple SF is a music venue in San Francisco/Oakland listed on soundcheck. 6 upcoming gigs, with line-ups including TBA. See dates, start times and who's playing. 540 Howard St., San Francisco, CA 94105, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | DJ BAYAREAKEV at LVL55 - Hiphop Room Saturdays |  |
 | Fri, 16 Oct 2026 | SHAKE BODY - Afrobeats Hiphop Rnb |  |
 | Sat, 17 Oct 2026 | Euphoria With Mikey Tan |  |
 | Fri, 23 Oct 2026 | Dope with DJ BRIAN V |  |
@@ -20,4 +19,4 @@ Temple SF is a music venue in San Francisco/Oakland listed on soundcheck. 7 upco
 
 540 Howard St., San Francisco, CA 94105, United States, San Francisco/Oakland
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/temple-sf/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/temple-sf/)*

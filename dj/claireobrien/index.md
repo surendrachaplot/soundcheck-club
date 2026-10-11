@@ -1,19 +1,19 @@
 # Claire O'Brien
 
-Claire O'Brien is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Carriageworks, Sydney on Sat, 10 Oct 2026.
+Claire O'Brien is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 1 Nov 2026.
 
-Claire O'Brien is a techno and house artist based in Australia, with 40 gigs on soundcheck across Amsterdam, Bristol, Galway and Hobart and 4 more. Often billed alongside ATARANGI, Effy and Prizefight. Next up: Carriageworks, Sydney on Sat 10 Oct.
+Claire O'Brien is a techno and house artist based in Australia, with 40 gigs on soundcheck across Amsterdam, Bristol, Galway and Hobart and 4 more. Often billed alongside ATARANGI, Effy and Prizefight. Next up: Revolver Upstairs, Melbourne on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Carriageworks | Sydney |
 | Sun, 1 Nov 2026 | Revolver Upstairs | Melbourne |
 | Thu, 31 Dec 2026 | Sidney Myer Music Bowl | Melbourne |
 
 ## Recently played
 
+- Carriageworks, Sydney · Sat, 10 Oct 2026
 - Second Story Studios, Melbourne · Fri, 25 Sept 2026
 - ark (Melb), Melbourne · Sat, 19 Sept 2026
 - New Guernica, Melbourne · Fri, 21 Aug 2026
@@ -21,10 +21,9 @@ Claire O'Brien is a techno and house artist based in Australia, with 40 gigs on 
 - Angel Music Bar, Melbourne · Thu, 11 Jun 2026
 - Miscellania, Melbourne · Fri, 27 Mar 2026
 - Miscellania, Melbourne · Fri, 27 Feb 2026
-- The Grand Poobah, Hobart · Sat, 31 Jan 2026
 
 ## Shares bills with
 
 ATARANGI, Effy, Prizefight
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claireobrien/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claireobrien/)*

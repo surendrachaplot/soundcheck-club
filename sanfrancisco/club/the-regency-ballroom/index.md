@@ -1,6 +1,6 @@
 # The Regency Ballroom
 
-The Regency Ballroom is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Nia Archives" on Sun, 8 Nov 2026.
+The Regency Ballroom is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Nia Archives" on Sun, 8 Nov 2026.
 
 The Regency Ballroom is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming gigs, with line-ups including Bambii, Nia Archives and Takuya Nakamura. See dates, start times and who's playing. 1290 Sutter St, San Francisco, CA 94109, USA.
 
@@ -15,4 +15,4 @@ The Regency Ballroom is a music venue in San Francisco/Oakland listed on soundch
 
 1290 Sutter St, San Francisco, CA 94109, USA, San Francisco/Oakland
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-regency-ballroom/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-regency-ballroom/)*

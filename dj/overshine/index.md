@@ -1,6 +1,6 @@
 # overshine
 
-overshine is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at The Social, London on Sat, 24 Oct 2026.
+overshine is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The Social, London on Sat, 24 Oct 2026.
 
 overshine is an experimental and club artist based in United Kingdom, with 12 gigs on soundcheck across Bristol, Glasgow, London and Paris. Often billed alongside Naramnesia, glas___skin and novasdemise. Next up: The Social, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ overshine is an experimental and club artist based in United Kingdom, with 12 gi
 
 Naramnesia, glas___skin, novasdemise
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/overshine/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/overshine/)*

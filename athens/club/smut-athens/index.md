@@ -1,14 +1,13 @@
 # SMUT Athens
 
-SMUT Athens is a music venue in Athens with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Coma x SMUT with ANFS x Rrose x Perc " on Sat, 10 Oct 2026.
+SMUT Athens is a music venue in Athens with 11 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "SMUT x Ellen Allien x Temudo x Ther3min" on Sat, 17 Oct 2026.
 
-SMUT Athens is a music venue in Athens listed on soundcheck. 12 upcoming gigs, with line-ups including Alarico, ANFS, Antigone and British Murder Boys and 2 more. See dates, start times and who's playing. Vatsaxi 4, Athina 104 38, Greece.
+SMUT Athens is a music venue in Athens listed on soundcheck. 11 upcoming gigs, with line-ups including Alarico, Antigone, British Murder Boys and Chontane and 2 more. See dates, start times and who's playing. Vatsaxi 4, Athina 104 38, Greece.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Coma x SMUT with ANFS x Rrose x Perc  | ANFS, Perc, Rrose |
 | Sat, 17 Oct 2026 | SMUT x Ellen Allien x Temudo x Ther3min | Ellen Allien, Temudo, Ther3min |
 | Sat, 24 Oct 2026 | SMUT x Matrixxman x Chontane live x CONCEPTUAL | CONCEPTUAL, Chontane, Dora Mask, Matrixxman |
 | Tue, 27 Oct 2026 | Yanamaste x SMUT x ALL NIGHT LONG | Yanamaste |
@@ -18,9 +17,10 @@ SMUT Athens is a music venue in Athens listed on soundcheck. 12 upcoming gigs, w
 | Sat, 28 Nov 2026 | ΗΔΟΝΗ |  |
 | Sat, 12 Dec 2026 | SMUT x Antigone x KUSS x Pètal | Antigone, KUSS, Pètal |
 | Sat, 19 Dec 2026 | Alarico x SMUT x ALL NIGHT LONG | Alarico |
+| Thu, 24 Dec 2026 | Coma x SMUT XMAS EDITION x DAX J x ALL NIGHT LONG | DAX J |
 
 ## Address
 
 Vatsaxi 4, Athina 104 38, Greece, Athens
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/smut-athens/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/smut-athens/)*

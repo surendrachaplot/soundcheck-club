@@ -1,6 +1,6 @@
 # Connor Wall
 
-Connor Wall is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at WOMB, Tokyo on Wed, 14 Oct 2026.
+Connor Wall is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at WOMB, Tokyo on Wed, 14 Oct 2026.
 
 Connor Wall is a techno and house artist based in Australia, with 46 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 24 more. Often billed alongside Alison Belle, Anthony Linell and Lilac. Next up: WOMB, Tokyo on Wed 14 Oct.
 
@@ -32,4 +32,4 @@ Connor Wall is a techno and house artist based in Australia, with 46 gigs on sou
 
 Alison Belle, Anthony Linell, Lilac
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/connorwall/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/connorwall/)*

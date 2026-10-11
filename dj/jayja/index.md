@@ -1,6 +1,6 @@
 # Jayja
 
-Jayja is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Clutch, Warehouse Bangkok, Bangkok on Sat, 31 Oct 2026.
+Jayja is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Clutch, Warehouse Bangkok, Bangkok on Sat, 31 Oct 2026.
 
 Jayja is a house and deep house artist based in Thailand, with 51 gigs on soundcheck across Bangkok. Often billed alongside Kunanon, MOODYBOOM and Mumsfilibaba. Next up: Clutch, Warehouse Bangkok, Bangkok on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Jayja is a house and deep house artist based in Thailand, with 51 gigs on soundc
 
 Kunanon, MOODYBOOM, Mumsfilibaba
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayja/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayja/)*

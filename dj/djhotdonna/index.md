@@ -1,6 +1,6 @@
 # DJ HOT DONNA
 
-DJ HOT DONNA is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Neon Grotto, Austin on Sat, 31 Oct 2026.
+DJ HOT DONNA is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Neon Grotto, Austin on Sat, 31 Oct 2026.
 
 DJ HOT DONNA is a house and disco artist based in United States of America, with 28 gigs on soundcheck across Austin. Often billed alongside Brett Johnson, .CLOUDED. and Hotmood. Next up: Neon Grotto, Austin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ HOT DONNA is a house and disco artist based in United States of America, with
 
 Brett Johnson, .CLOUDED., Hotmood
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhotdonna/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhotdonna/)*

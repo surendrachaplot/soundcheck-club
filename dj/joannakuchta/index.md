@@ -1,18 +1,18 @@
 # Joanna Kuchta
 
-Joanna Kuchta is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Downtown LA, Los Angeles on Sat, 10 Oct 2026.
+Joanna Kuchta is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Joanna Kuchta is a techno and club artist based in Poland, with 17 gigs on soundcheck across Denver, Los Angeles, Miami and New York City. Often billed alongside OZA, DREAMINSLOW and Robyn Sin Love. Next up: TBA - Downtown LA, Los Angeles on Sat 10 Oct.
+Joanna Kuchta is a techno and club artist based in Poland, with 17 gigs on soundcheck across Denver, Los Angeles, Miami and New York City. Often billed alongside OZA, DREAMINSLOW and Robyn Sin Love. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | TBA - Downtown LA | Los Angeles |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
 
+- TBA - Downtown LA, Los Angeles · Sat, 10 Oct 2026
 - Paragon, New York City · Fri, 11 Sept 2026
 - TBA, Los Angeles · Fri, 4 Sept 2026
 - Paragon, New York City · Fri, 31 Jul 2026
@@ -20,10 +20,9 @@ Joanna Kuchta is a techno and club artist based in Poland, with 17 gigs on sound
 - TBA, Los Angeles · Sat, 11 Apr 2026
 - Honey's at Star Love, Los Angeles · Fri, 20 Mar 2026
 - TBA, Los Angeles · Sat, 14 Mar 2026
-- Ace*Mission Studios, Los Angeles · Sat, 28 Feb 2026
 
 ## Shares bills with
 
 OZA, DREAMINSLOW, Robyn Sin Love
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joannakuchta/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joannakuchta/)*

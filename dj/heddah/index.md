@@ -1,14 +1,14 @@
 # Heddah
 
-Heddah is a Club and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Block1, Berlin on Fri, 16 Oct 2026.
+Heddah is a Club and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Not so secret location (check the poster), Berlin on Fri, 16 Oct 2026.
 
-Heddah is a club and latin bass artist based in Denmark, with 22 gigs on soundcheck across Berlin, Copenhagen and Paris. Often billed alongside Timmyia, Exilee and Lyra Valenza. Next up: Block1, Berlin on Fri 16 Oct.
+Heddah is a club and latin bass artist based in Denmark, with 22 gigs on soundcheck across Berlin, Copenhagen and Paris. Often billed alongside Timmyia, Exilee and Lyra Valenza. Next up: TBA - Not so secret location (check the poster), Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Block1 | Berlin |
+| Fri, 16 Oct 2026 | TBA - Not so secret location (check the poster) | Berlin |
 | Sat, 31 Oct 2026 | Pylonen - Frizonen Langebro | Copenhagen |
 
 ## Recently played
@@ -26,4 +26,4 @@ Heddah is a club and latin bass artist based in Denmark, with 22 gigs on soundch
 
 Timmyia, Exilee, Lyra Valenza
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heddah/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heddah/)*

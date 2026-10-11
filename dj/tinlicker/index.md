@@ -1,14 +1,13 @@
 # Tinlicker
 
-Tinlicker is a Progressive House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Midway, San Francisco/Oakland on Sat, 10 Oct 2026.
+Tinlicker is a Progressive House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Fri, 23 Oct 2026.
 
-Tinlicker is a progressive house and deep house artist based in Netherlands, with 58 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 24 more. Often billed alongside Helsloot, Chloé Caillet and FISHER. Next up: The Midway, San Francisco/Oakland on Sat 10 Oct.
+Tinlicker is a progressive house and deep house artist based in Netherlands, with 58 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 24 more. Often billed alongside Helsloot, Chloé Caillet and FISHER. Next up: NDSM Scheepsbouwloods, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | The Midway | San Francisco/Oakland |
 | Fri, 23 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Sun, 8 Nov 2026 | Parque de la Exposición | Peru |
 | Sat, 21 Nov 2026 | Roxy | Prague |
@@ -16,6 +15,7 @@ Tinlicker is a progressive house and deep house artist based in Netherlands, wit
 
 ## Recently played
 
+- The Midway, San Francisco/Oakland · Sat, 10 Oct 2026
 - Brooklyn Paramount, New York City · Sat, 26 Sept 2026
 - Roadrunner, Boston · Fri, 25 Sept 2026
 - House Of Blues Chicago, Chicago · Wed, 16 Sept 2026
@@ -23,10 +23,9 @@ Tinlicker is a progressive house and deep house artist based in Netherlands, wit
 - Exhibition London, London · Sat, 21 Mar 2026
 - Document, Bristol · Fri, 20 Mar 2026
 - Albert Hall, Manchester · Thu, 19 Mar 2026
-- Afas Live, Amsterdam · Fri, 13 Mar 2026
 
 ## Shares bills with
 
 Helsloot, Chloé Caillet, FISHER
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinlicker/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinlicker/)*

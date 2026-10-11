@@ -1,6 +1,6 @@
 # DVS1
 
-DVS1 is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Los Angeles, Los Angeles on Sat, 10 Oct 2026.
+DVS1 is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Los Angeles, Los Angeles on Sat, 10 Oct 2026.
 
 DVS1 is a techno and house artist based in United States of America, with 326 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 71 more. Often billed alongside Ogazón, Helena Hauff and Jeff Mills. Next up: TBA - Los Angeles, Los Angeles on Sat 10 Oct.
 
@@ -23,6 +23,7 @@ DVS1 is a techno and house artist based in United States of America, with 326 gi
 
 ## Recently played
 
+- TBA - Los Angeles, Los Angeles · Sat, 10 Oct 2026
 - Domicile, Miami · Fri, 9 Oct 2026
 - Kingdom Nightclub, Austin · Thu, 8 Oct 2026
 - fabric, London · Sat, 3 Oct 2026
@@ -30,10 +31,9 @@ DVS1 is a techno and house artist based in United States of America, with 326 gi
 - Strange Brew, Bristol · Fri, 2 Oct 2026
 - The Bassement, Madrid · Sat, 26 Sept 2026
 - Lux Fragil, Lisbon · Fri, 25 Sept 2026
-- Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Ogazón, Helena Hauff, Jeff Mills
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*

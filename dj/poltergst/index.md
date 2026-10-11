@@ -1,6 +1,6 @@
 # POLTERGST
 
-POLTERGST is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Kesselhaus, Munich on Fri, 30 Oct 2026.
+POLTERGST is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Kesselhaus, Munich on Fri, 30 Oct 2026.
 
 POLTERGST is a techno and trance artist based in Germany, with 3 gigs on soundcheck across Bavaria, Munich and Stuttgart. Often billed alongside Alfred Heinrichs, Ave (DE) and Charleen Herzig. Next up: Kesselhaus, Munich on Fri 30 Oct.
 
@@ -16,4 +16,4 @@ POLTERGST is a techno and trance artist based in Germany, with 3 gigs on soundch
 
 Alfred Heinrichs, Ave (DE), Charleen Herzig
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poltergst/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poltergst/)*

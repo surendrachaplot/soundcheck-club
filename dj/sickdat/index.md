@@ -1,6 +1,6 @@
 # Sickdat
 
-Sickdat is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at underiolo, Warsaw on Sat, 17 Oct 2026.
+Sickdat is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at underiolo, Warsaw on Sat, 17 Oct 2026.
 
 Sickdat is a techno and minimal techno artist based in Poland, with 42 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Mordeaux, Sabre (PL) and Saint Peter. Next up: underiolo, Warsaw on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Sickdat is a techno and minimal techno artist based in Poland, with 42 gigs on s
 
 Mordeaux, Sabre (PL), Saint Peter
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sickdat/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sickdat/)*

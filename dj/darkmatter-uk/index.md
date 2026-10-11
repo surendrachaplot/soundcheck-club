@@ -1,18 +1,18 @@
 # Dark Matter
 
-Dark Matter is a Techno and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Ciało, Wroclaw on Sat, 10 Oct 2026.
+Dark Matter is a Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Strand DC, Washington DC on Fri, 27 Nov 2026.
 
-Dark Matter is a techno and dubstep artist, with 8 gigs on soundcheck across Chicago, Detroit, London and New York City and 3 more. Often billed alongside FØSS, IGDA and MARIEEEA. Next up: Ciało, Wroclaw on Sat 10 Oct.
+Dark Matter is a techno and dubstep artist, with 8 gigs on soundcheck across Chicago, Detroit, London and New York City and 3 more. Often billed alongside FØSS, IGDA and MARIEEEA. Next up: Strand DC, Washington DC on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Ciało | Wroclaw |
 | Fri, 27 Nov 2026 | Strand DC | Washington DC |
 
 ## Recently played
 
+- Ciało, Wroclaw · Sat, 10 Oct 2026
 - E1, London · Fri, 26 Jun 2026
 - Elektricity, Detroit · Fri, 5 Jun 2026
 - Le Mazette, Paris · Sat, 1 Mar 2025
@@ -24,4 +24,4 @@ Dark Matter is a techno and dubstep artist, with 8 gigs on soundcheck across Chi
 
 FØSS, IGDA, MARIEEEA
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darkmatter-uk/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darkmatter-uk/)*

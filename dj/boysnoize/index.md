@@ -1,6 +1,6 @@
 # Boys Noize
 
-Boys Noize is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
+Boys Noize is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
 
 Boys Noize is a techno and house artist based in Germany, with 161 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 53 more. Often billed alongside VTSS, MCR-T and DJ Tennis. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
 
@@ -22,6 +22,7 @@ Boys Noize is a techno and house artist based in Germany, with 161 gigs on sound
 
 ## Recently played
 
+- Auditorio Málaga Cortijo de Torres, South · Sat, 10 Oct 2026
 - The Cause, London · Sat, 3 Oct 2026
 - Switch, Porto · Fri, 2 Oct 2026
 - Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
@@ -29,10 +30,9 @@ Boys Noize is a techno and house artist based in Germany, with 161 gigs on sound
 - 888 Garage, San Francisco/Oakland · Sat, 26 Sept 2026
 - TBA, Washington DC · Sat, 12 Sept 2026
 - Club Space Miami, Miami · Fri, 11 Sept 2026
-- Avalon Hollywood, Los Angeles · Sun, 2 Aug 2026
 
 ## Shares bills with
 
 VTSS, MCR-T, DJ Tennis
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boysnoize/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boysnoize/)*

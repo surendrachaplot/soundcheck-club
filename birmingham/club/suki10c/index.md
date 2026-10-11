@@ -1,6 +1,6 @@
 # Suki10c
 
-Suki10c is a music venue in Birmingham with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Ghouls Club" on Fri, 23 Oct 2026.
+Suki10c is a music venue in Birmingham with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Ghouls Club" on Fri, 23 Oct 2026.
 
 Suki10c is a music venue in Birmingham listed on soundcheck. 5 upcoming gigs, with line-ups including Creep-P, Dr4kken, Lil Kevo 303 and LUNAx3 and 2 more. See dates, start times and who's playing. 21 Bordesley Street Birmingham, B5 5PJ, United Kingdom.
 
@@ -18,4 +18,4 @@ Suki10c is a music venue in Birmingham listed on soundcheck. 5 upcoming gigs, wi
 
 21 Bordesley Street Birmingham, B5 5PJ, United Kingdom, Birmingham
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/suki10c/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/suki10c/)*

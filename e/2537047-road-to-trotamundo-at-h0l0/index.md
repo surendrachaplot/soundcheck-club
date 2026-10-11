@@ -1,6 +1,6 @@
 # Road to Trotamundo at H0L0
 
-Road to Trotamundo at H0L0 on Sat 10 Oct, New York City. 16 artists: !NN, Alec Falconer, Bruno Limma and CAMILLA and 12 more. House and Minimal. See the line-up on soundcheck.
+Road to Trotamundo at H0L0 on Sat 10 Oct, New York City. 15 artists: !NN, Alec Falconer, Bruno Limma and David Berrie and 11 more. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,6 @@ Road to Trotamundo at H0L0 on Sat 10 Oct, New York City. 16 artists: !NN, Alec F
 - !NN
 - Alec Falconer
 - Bruno Limma
-- CAMILLA
 - David Berrie
 - DJ Rino
 - Dylan Schwartz

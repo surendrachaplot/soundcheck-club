@@ -1,6 +1,6 @@
 # Toribio
 
-Toribio is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Loso, Richmond on Sat, 31 Oct 2026.
+Toribio is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Loso, Richmond on Sat, 31 Oct 2026.
 
 Toribio is a house and disco artist based in United States of America, with 218 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Mickey Perez, Love Injection and Guthrie. Next up: Loso, Richmond on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Toribio is a house and disco artist based in United States of America, with 218 
 
 Mickey Perez, Love Injection, Guthrie
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*

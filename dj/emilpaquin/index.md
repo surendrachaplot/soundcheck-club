@@ -1,6 +1,6 @@
 # Emil Paquin
 
-Emil Paquin is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Barbossa, Montreal on Fri, 30 Oct 2026.
+Emil Paquin is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Barbossa, Montreal on Fri, 30 Oct 2026.
 
 Emil Paquin is a house and bass artist based in Canada, with 39 gigs on soundcheck across Montreal and Toronto. Often billed alongside somebody3lse, CMD and Laurence Nadeau. Next up: Barbossa, Montreal on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Emil Paquin is a house and bass artist based in Canada, with 39 gigs on soundche
 
 somebody3lse, CMD, Laurence Nadeau
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emilpaquin/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emilpaquin/)*

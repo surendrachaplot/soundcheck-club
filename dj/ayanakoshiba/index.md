@@ -1,6 +1,6 @@
 # AYANA KOSHIBA
 
-AYANA KOSHIBA is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - SHIBAKOEN HIDDEN VENUE BY TOKYO TOWER, Tokyo on Sat, 24 Oct 2026.
+AYANA KOSHIBA is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - SHIBAKOEN HIDDEN VENUE BY TOKYO TOWER, Tokyo on Sat, 24 Oct 2026.
 
 AYANA KOSHIBA is a techno and industrial artist based in Japan, with 22 gigs on soundcheck across Tokyo. Often billed alongside EMILIO, VÏVÏ and uuu7. Next up: TBA - SHIBAKOEN HIDDEN VENUE BY TOKYO TOWER, Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ AYANA KOSHIBA is a techno and industrial artist based in Japan, with 22 gigs on 
 
 EMILIO (3), VÏVÏ, uuu7
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayanakoshiba/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayanakoshiba/)*

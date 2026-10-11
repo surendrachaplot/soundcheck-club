@@ -1,6 +1,6 @@
 # ARK1TEK
 
-ARK1TEK is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA, Toronto on Fri, 16 Oct 2026.
+ARK1TEK is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA, Toronto on Fri, 16 Oct 2026.
 
 ARK1TEK is a techno and electro artist based in Colombia, with 13 gigs on soundcheck across Toronto. Often billed alongside Xela., /ASYNC and Hycastle. Next up: TBA, Toronto on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ ARK1TEK is a techno and electro artist based in Colombia, with 13 gigs on soundc
 
 Xela., /ASYNC, Hycastle
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ark1tek/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ark1tek/)*

@@ -1,6 +1,6 @@
 # RaeCola
 
-RaeCola is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
+RaeCola is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
 
 RaeCola is a house and tech house artist based in United States of America, with 33 gigs on soundcheck across Austin, Boston, Chicago and Denver and 12 more. Often billed alongside Tinzo, Jojo Lorenzo and Aluna. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
 
@@ -25,4 +25,4 @@ RaeCola is a house and tech house artist based in United States of America, with
 
 Tinzo, Jojo Lorenzo, Aluna
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raecola/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raecola/)*

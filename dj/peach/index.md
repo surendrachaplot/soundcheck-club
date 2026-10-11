@@ -1,6 +1,6 @@
 # Peach
 
-Peach is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Backsteinboot, Berlin on Sat, 10 Oct 2026.
+Peach is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Backsteinboot, Berlin on Sat, 10 Oct 2026.
 
 Peach is a house and techno artist based in Canada, with 225 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 55 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Backsteinboot, Berlin on Sat 10 Oct.
 
@@ -23,6 +23,7 @@ Peach is a house and techno artist based in Canada, with 225 gigs on soundcheck 
 
 ## Recently played
 
+- Backsteinboot, Berlin · Sat, 10 Oct 2026
 - Aviva Studios, Manchester · Fri, 9 Oct 2026
 - Piccadilly Premium, Osaka · Sat, 3 Oct 2026
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
@@ -30,10 +31,9 @@ Peach is a house and techno artist based in Canada, with 225 gigs on soundcheck 
 - Fidelity Studio, Dublin · Fri, 25 Sept 2026
 - Gut Level, Sheffield · Sat, 19 Sept 2026
 - The Berkeley Suite, Glasgow · Sat, 12 Sept 2026
-- Amnesia Ibiza, Ibiza · Thu, 10 Sept 2026
 
 ## Shares bills with
 
 Shanti Celeste, Gabrielle Kwarteng, Saoirse
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*

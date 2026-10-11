@@ -1,6 +1,6 @@
 # bobi (2)
 
-bobi (2) is a Dub Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA, Madrid on Fri, 23 Oct 2026.
+bobi (2) is a Dub Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA, Madrid on Fri, 23 Oct 2026.
 
 bobi is a dub techno and electro artist, with 9 gigs on soundcheck across Berlin and Madrid. Often billed alongside ALONSO (ES), Nico (ES) and Blind Nagata. Next up: TBA, Madrid on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ bobi is a dub techno and electro artist, with 9 gigs on soundcheck across Berlin
 
 ALONSO (ES), Nico (ES), Blind Nagata
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobi-2/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobi-2/)*

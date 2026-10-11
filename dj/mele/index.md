@@ -1,14 +1,13 @@
 # Melé
 
-Melé is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Spin, San Diego on Sat, 10 Oct 2026.
+Melé is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 11 Oct 2026.
 
-Melé is a house and tech house artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Bali, Barcelona and Bristol and 29 more. Often billed alongside Sam Divine, Eats Everything and Olive F. Next up: Spin, San Diego on Sat 10 Oct.
+Melé is a house and tech house artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Bali, Barcelona and Bristol and 29 more. Often billed alongside Sam Divine, Eats Everything and Olive F. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Spin | San Diego |
 | Sun, 11 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
 | Thu, 22 Oct 2026 | 50:Hertz Club Train | Amsterdam |
@@ -16,6 +15,7 @@ Melé is a house and tech house artist based in United Kingdom, with 125 gigs on
 
 ## Recently played
 
+- Spin, San Diego · Sat, 10 Oct 2026
 - Halcyon, San Francisco/Oakland · Fri, 9 Oct 2026
 - Cabaret Sauvage, Paris · Fri, 2 Oct 2026
 - TBA - 30 Maud Street, Toronto · Sat, 19 Sept 2026
@@ -23,10 +23,9 @@ Melé is a house and tech house artist based in United Kingdom, with 125 gigs on
 - Refuge, New York City · Sun, 23 Aug 2026
 - Tigres de la Noche, Washington DC · Fri, 21 Aug 2026
 - Chinois Ibiza, Ibiza · Thu, 13 Aug 2026
-- UNO MALTA, Malta · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Sam Divine, Eats Everything, Olive F
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mele/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mele/)*

@@ -1,6 +1,6 @@
 # Blue Communications
 
-Blue Communications is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Thornbury Theatre, Melbourne on Sat, 31 Oct 2026.
+Blue Communications is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Thornbury Theatre, Melbourne on Sat, 31 Oct 2026.
 
 Blue Communications is a house and disco artist based in Australia, with 3 gigs on soundcheck across Melbourne. Often billed alongside AceMo, Cuerpo Negro and DJ Matab. Next up: Thornbury Theatre, Melbourne on Sat 31 Oct.
 
@@ -16,4 +16,4 @@ Blue Communications is a house and disco artist based in Australia, with 3 gigs 
 
 AceMo, Cuerpo Negro, DJ Matab
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bluecommunications/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bluecommunications/)*

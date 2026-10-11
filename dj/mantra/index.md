@@ -1,14 +1,13 @@
 # Mantra
 
-Mantra is a Jungle and Drum & Bass artist with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Open Ground, Wuppertal on Sat, 10 Oct 2026.
+Mantra is a Jungle and Drum & Bass artist with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at fabric, London on Fri, 16 Oct 2026.
 
-Mantra is a jungle and drum & bass artist based in United Kingdom, with 157 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 31 more. Often billed alongside Double O, Blackeye MC and Tim Reaper. Next up: Open Ground, Wuppertal on Sat 10 Oct.
+Mantra is a jungle and drum & bass artist based in United Kingdom, with 157 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 31 more. Often billed alongside Double O, Blackeye MC and Tim Reaper. Next up: fabric, London on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Open Ground | Wuppertal |
 | Fri, 16 Oct 2026 | fabric | London |
 | Sat, 24 Oct 2026 | Club Cheek | London |
 | Fri, 30 Oct 2026 | M.O.T | London |
@@ -20,6 +19,7 @@ Mantra is a jungle and drum & bass artist based in United Kingdom, with 157 gigs
 
 ## Recently played
 
+- Open Ground, Wuppertal · Sat, 10 Oct 2026
 - Beaver Works, Leeds · Sat, 3 Oct 2026
 - Mono by Phono, 9654 Pililla St Makati City, Manila · Sat, 26 Sept 2026
 - Social Room, Hong Kong · Fri, 25 Sept 2026
@@ -27,10 +27,9 @@ Mantra is a jungle and drum & bass artist based in United Kingdom, with 157 gigs
 - The Cause, London · Sat, 22 Aug 2026
 - Parc des Etangs/Vijverspark, Brussels · Fri, 14 Aug 2026
 - Zentralwäscherei, Zurich · Sat, 8 Aug 2026
-- M.O.T, London · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Double O, Blackeye MC, Tim Reaper
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mantra/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mantra/)*

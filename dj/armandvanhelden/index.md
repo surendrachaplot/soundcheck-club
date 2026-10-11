@@ -1,15 +1,13 @@
 # Armand Van Helden
 
-Armand Van Helden is a House and Disco artist with 11 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Armand Van Helden is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Hemkade 48, Amsterdam on Sat, 24 Oct 2026.
 
-Armand Van Helden is a house and disco artist based in United States of America, with 115 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 37 more. Often billed alongside Fatzo, Oden and MiNNA. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
+Armand Van Helden is a house and tech house artist based in United States of America, with 115 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 37 more. Often billed alongside Fatzo, Oden and MiNNA. Next up: Hemkade 48, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
-| Sat, 10 Oct 2026 | TBA - Lurin live | Peru |
 | Sat, 24 Oct 2026 | Hemkade 48 | Amsterdam |
 | Sat, 31 Oct 2026 | Chelmsford City Racecourse | London |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
@@ -22,17 +20,17 @@ Armand Van Helden is a house and disco artist based in United States of America,
 
 ## Recently played
 
+- Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
+- TBA - Lurin live, Peru · Sat, 10 Oct 2026
 - Los Angeles State Historic Park, Los Angeles · Sun, 27 Sept 2026
 - Pacha New York, New York City · Fri, 25 Sept 2026
 - DRUMSHEDS, London · Sat, 19 Sept 2026
 - Amnesia Ibiza, Ibiza · Fri, 18 Sept 2026
 - Gaswrx Birmingham, London · Sat, 12 Sept 2026
 - Pacha Ibiza, Ibiza · Thu, 10 Sept 2026
-- Edinburgh Corn Exchange, Edinburgh · Sat, 5 Sept 2026
-- Olympic Athletic Center of Athens, Athens · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Fatzo, Oden, MiNNA
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*

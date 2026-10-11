@@ -1,6 +1,6 @@
 # Dj Quien
 
-Dj Quien is a Hip-Hop and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Panke, Berlin on Fri, 16 Oct 2026.
+Dj Quien is a Hip-Hop and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Panke, Berlin on Fri, 16 Oct 2026.
 
 Dj Quien is a hip-hop and drum & bass artist based in Bolivia, with 69 gigs on soundcheck across Berlin, Hamburg and Tokyo. Often billed alongside Tommy Lexxus, VILIFY and Boogie Dan. Next up: Panke, Berlin on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Dj Quien is a hip-hop and drum & bass artist based in Bolivia, with 69 gigs on s
 
 Tommy Lexxus, VILIFY, Boogie Dan
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djquien-bo/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djquien-bo/)*

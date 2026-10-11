@@ -1,14 +1,13 @@
 # Grelle Forelle
 
-Grelle Forelle is a music venue in Vienna with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Radio Rudina" on Sat, 10 Oct 2026.
+Grelle Forelle is a music venue in Vienna with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "LIVE Modeselektor" on Sun, 11 Oct 2026.
 
-Grelle Forelle is a music venue in Vienna listed on soundcheck. 9 upcoming gigs, with line-ups including AEND, Afem Syko, Aleta and Andy Catana and 2 more. See dates, start times and who's playing. Spittelauer Lände 12; 1090 Vienna; Austria.
+Grelle Forelle is a music venue in Vienna listed on soundcheck. 8 upcoming gigs, with line-ups including Afem Syko, Aleta, Andy Catana and Anna Ullrich and 2 more. See dates, start times and who's playing. Spittelauer Lände 12; 1090 Vienna; Austria.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Radio Rudina | AEND, Bambi-S, CHERCHES, COBRA, DJ Lelo, DJ.org, IVAN., Vivienna |
 | Sun, 11 Oct 2026 | LIVE Modeselektor | Modeselektor |
 | Fri, 16 Oct 2026 | F*CKEN PLUS Fold Pro Max | DJ Deadlift, Gerald VDH, JERM |
 | Fri, 23 Oct 2026 | Sven Väth / TURBO | Andy Catana, MARØ (2), Maurizio Schmitz, Sven Vath |
@@ -22,4 +21,4 @@ Grelle Forelle is a music venue in Vienna listed on soundcheck. 9 upcoming gigs,
 
 Spittelauer Lände 12; 1090 Vienna; Austria, Vienna
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*

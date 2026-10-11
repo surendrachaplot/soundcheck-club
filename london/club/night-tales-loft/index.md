@@ -1,14 +1,13 @@
 # Night Tales Loft
 
-Night Tales Loft is a music venue in London with 25 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Origins: Gabbs (All Night Long)" on Sat, 10 Oct 2026.
+Night Tales Loft is a music venue in London with 24 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "NT's Loft: JIM (Live)" on Thu, 15 Oct 2026.
 
-Night Tales Loft is a music venue in London listed on soundcheck. 25 upcoming gigs, with line-ups including Anunaku, babyschön, blissy e and Bridge (NY) and 2 more. See dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
+Night Tales Loft is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including Anunaku, babyschön, blissy e and Bridge (NY) and 2 more. See dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Origins: Gabbs (All Night Long) | Gabbs |
 | Thu, 15 Oct 2026 | NT's Loft: JIM (Live) |  |
 | Fri, 16 Oct 2026 | [SOLD OUT] NT's Loft: BRIDGE & Marcia Carr | Bridge (NY), Marcia Carr |
 | Sat, 17 Oct 2026 | NT's Loft: LEV (All Night Long) | LEV (UK) |
@@ -18,9 +17,10 @@ Night Tales Loft is a music venue in London listed on soundcheck. 25 upcoming gi
 | Tue, 27 Oct 2026 | 10 Years of Sunshine Soul: Peven Everett (Live) | Mylo Harvey, Peven Everett |
 | Fri, 30 Oct 2026 | Origins: Luke Alessi (All Night Long) | Luke Alessi |
 | Sat, 31 Oct 2026 | SOULFUEL HALLOWEEN with blissy e & DREY All Night Long | DREY (UK), blissy e |
+| Fri, 6 Nov 2026 | NT's Loft: sunflwr & dj poolboi [All Night Long] | dj poolboi, sunflwr |
 
 ## Address
 
 207, 1 Westgate St, Hackney, London E8 3RL, London
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales-loft/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales-loft/)*

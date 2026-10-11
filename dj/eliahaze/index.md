@@ -1,8 +1,8 @@
 # EliaHaze
 
-EliaHaze is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 16 Oct 2026.
+EliaHaze is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 16 Oct 2026.
 
-EliaHaze is a techno and house artist based in Germany, with 119 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Frankfurt and 3 more. Often billed alongside DJ Babyblade, DJ SOURCE and Anton Jonathan. Next up: Tokonoma Club, Frankfurt on Fri 16 Oct.
+EliaHaze is a techno and house artist based in Germany, with 120 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Frankfurt and 3 more. Often billed alongside DJ Babyblade, DJ SOURCE and Anton Jonathan. Next up: Tokonoma Club, Frankfurt on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ EliaHaze is a techno and house artist based in Germany, with 119 gigs on soundch
 
 ## Recently played
 
+- glimmer, Hamburg · Sat, 10 Oct 2026
 - Phoxxi Green Area, Hamburg · Sat, 22 Aug 2026
 - BRET, Amsterdam · Sun, 16 Aug 2026
 - BRET, Amsterdam · Sun, 16 Aug 2026
@@ -22,10 +23,9 @@ EliaHaze is a techno and house artist based in Germany, with 119 gigs on soundch
 - MS Artville, Hamburg · Sat, 18 Jul 2026
 - Lilli Escher, Hamburg · Fri, 26 Jun 2026
 - Tokonoma Club, Frankfurt · Sat, 20 Jun 2026
-- TBA - Bankstraße 28, 20097 Hamburg, Hamburg · Sat, 30 May 2026
 
 ## Shares bills with
 
 DJ Babyblade, DJ SOURCE, Anton Jonathan
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliahaze/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliahaze/)*

@@ -1,6 +1,6 @@
 # Tina Edwards
 
-Tina Edwards is a Jazz and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Karlstorbahnhof, Heidelberg on Sat, 17 Oct 2026.
+Tina Edwards is a Jazz and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Karlstorbahnhof, Heidelberg on Sat, 17 Oct 2026.
 
 Tina Edwards is a jazz and disco artist based in United Kingdom, with 30 gigs on soundcheck across Brighton, Glasgow, Heidelberg and Helsinki and 6 more. Often billed alongside Tim Garcia, Joi La Frique and Nonna Fab. Next up: Karlstorbahnhof, Heidelberg on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Tina Edwards is a jazz and disco artist based in United Kingdom, with 30 gigs on
 
 Tim Garcia, Joi La Frique, Nonna Fab
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinaedwards/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinaedwards/)*

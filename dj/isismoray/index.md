@@ -1,8 +1,8 @@
 # Isis Moray
 
-Isis Moray is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Dead Wax, Birmingham on Sat, 17 Oct 2026.
+Isis Moray is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Dead Wax, Birmingham on Sat, 17 Oct 2026.
 
-Isis Moray is a techno and electronica artist, with 8 gigs on soundcheck across Birmingham, Leeds and Sheffield. Often billed alongside Alarico, CL:ARK and Cimmerian. Next up: Dead Wax, Birmingham on Sat 17 Oct.
+Isis Moray is a techno and electronica artist based in United Kingdom, with 8 gigs on soundcheck across Birmingham, Leeds and Sheffield. Often billed alongside Alarico, CL:ARK and Cimmerian. Next up: Dead Wax, Birmingham on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Isis Moray is a techno and electronica artist, with 8 gigs on soundcheck across 
 
 Alarico, CL:ARK, Cimmerian
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isismoray/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isismoray/)*

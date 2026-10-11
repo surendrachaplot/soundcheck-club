@@ -1,10 +1,10 @@
 # Freestyle Clinic w guests Elijah Divine & Mizeyesis at TBA
 
-Freestyle Clinic w guests Elijah Divine & Mizeyesis at TBA on Sat 24 Oct, Boston. 1 artist: Mizeyesis. Drum & Bass and Hip-Hop. See the line-up on soundcheck.
+Freestyle Clinic w guests Elijah Divine & Mizeyesis at TBA on Sun 25 Oct, Boston. 1 artist: Mizeyesis. Drum & Bass and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 24 Oct 2026 |
+| Date | Sun, 25 Oct 2026 |
 | Venue | TBA |
 | City | Boston |
 

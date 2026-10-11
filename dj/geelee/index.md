@@ -1,14 +1,13 @@
 # GEE LEE
 
-GEE LEE is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - DTLA, Los Angeles on Sat, 10 Oct 2026.
+GEE LEE is a House and Garage artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The Jazz Cafe, London on Fri, 16 Oct 2026.
 
-GEE LEE is a house and garage artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 15 more. Often billed alongside JACK MARLOW, salameh and Shaolin Cowboy. Next up: TBA - DTLA, Los Angeles on Sat 10 Oct.
+GEE LEE is a house and garage artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 15 more. Often billed alongside JACK MARLOW, salameh and Shaolin Cowboy. Next up: The Jazz Cafe, London on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | TBA - DTLA | Los Angeles |
 | Fri, 16 Oct 2026 | The Jazz Cafe | London |
 | Thu, 22 Oct 2026 | Waterhouse Studios | Amsterdam |
 | Sat, 24 Oct 2026 | Bridge 48 | Barcelona |
@@ -17,6 +16,7 @@ GEE LEE is a house and garage artist based in United Kingdom, with 51 gigs on so
 
 ## Recently played
 
+- TBA - DTLA, Los Angeles · Sat, 10 Oct 2026
 - Hidden, Manchester · Fri, 10 Jul 2026
 - Kingdom Nightclub, Austin · Sat, 27 Jun 2026
 - Hidden Hall, Seattle · Sat, 20 Jun 2026
@@ -24,10 +24,9 @@ GEE LEE is a house and garage artist based in United Kingdom, with 51 gigs on so
 - Parco La Spezia, Milan · Sun, 24 May 2026
 - Palais, London · Sun, 5 Apr 2026
 - Gallery, London · Fri, 13 Feb 2026
-- The Jazz Cafe, London · Sat, 20 Dec 2025
 
 ## Shares bills with
 
 JACK MARLOW, salameh, Shaolin Cowboy
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geelee/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geelee/)*

@@ -1,6 +1,6 @@
 # xibaona
 
-xibaona is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - LOCATION SENT TO TIX HOLDERS ON DAY OF EVENT, Montreal on Sat, 10 Oct 2026.
+xibaona is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - LOCATION SENT TO TIX HOLDERS ON DAY OF EVENT, Montreal on Sat, 10 Oct 2026.
 
 xibaona is a bass and club artist based in Canada, with 8 gigs on soundcheck across Montreal. Often billed alongside softwarewolfe, MLLE CEE and soratora. Next up: TBA - LOCATION SENT TO TIX HOLDERS ON DAY OF EVENT, Montreal on Sat 10 Oct.
 
@@ -12,6 +12,7 @@ xibaona is a bass and club artist based in Canada, with 8 gigs on soundcheck acr
 
 ## Recently played
 
+- TBA - LOCATION SENT TO TIX HOLDERS ON DAY OF EVENT, Montreal · Sat, 10 Oct 2026
 - Barbossa, Montreal · Sat, 27 Jun 2026
 - TBA, Montreal · Sat, 23 May 2026
 - Barbossa, Montreal · Sat, 4 Apr 2026
@@ -24,4 +25,4 @@ xibaona is a bass and club artist based in Canada, with 8 gigs on soundcheck acr
 
 softwarewolfe, MLLE CEE, soratora
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xibaona/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xibaona/)*

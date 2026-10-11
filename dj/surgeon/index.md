@@ -1,14 +1,13 @@
 # Surgeon
 
-Surgeon is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at CLUB RAUM, Amsterdam on Sat, 10 Oct 2026.
+Surgeon is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
 
-Surgeon is a techno and house artist based in United Kingdom, with 134 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 39 more. Often billed alongside Speedy J, DJ Pete and Regis. Next up: CLUB RAUM, Amsterdam on Sat 10 Oct.
+Surgeon is a techno and house artist based in United Kingdom, with 134 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 39 more. Often billed alongside Speedy J, DJ Pete and Regis. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 31 Oct 2026 | Open Ground | Wuppertal |
 | Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
@@ -20,6 +19,7 @@ Surgeon is a techno and house artist based in United Kingdom, with 134 gigs on s
 
 ## Recently played
 
+- CLUB RAUM, Amsterdam · Sat, 10 Oct 2026
 - The Bassement, Madrid · Sat, 3 Oct 2026
 - Laboral Ciudad de la Cultura, North · Fri, 25 Sept 2026
 - Else, Berlin · Sun, 20 Sept 2026
@@ -27,10 +27,9 @@ Surgeon is a techno and house artist based in United Kingdom, with 134 gigs on s
 - The Bongo Club, Edinburgh · Sat, 5 Sept 2026
 - Amsterdamse Bos, Amsterdam · Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
-- Signal, New York City · Fri, 24 Jul 2026
 
 ## Shares bills with
 
 Speedy J, DJ Pete, Regis
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeon/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeon/)*

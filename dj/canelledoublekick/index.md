@@ -1,6 +1,6 @@
 # Canelle Doublekick
 
-Canelle Doublekick is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Karmen Camina, Strasbourg on Sat, 17 Oct 2026.
+Canelle Doublekick is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Karmen Camina, Strasbourg on Sat, 17 Oct 2026.
 
 Canelle Doublekick is a trance and techno artist based in France, with 48 gigs on soundcheck across Amsterdam, Berlin, Brussels and Geneva and 8 more. Often billed alongside Die Klar, DJ Kwamē and Esteban Desigual. Next up: Karmen Camina, Strasbourg on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Canelle Doublekick is a trance and techno artist based in France, with 48 gigs o
 
 Die Klar, DJ Kwamē, Esteban Desigual
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/canelledoublekick/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/canelledoublekick/)*

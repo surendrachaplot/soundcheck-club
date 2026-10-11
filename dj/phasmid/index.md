@@ -1,6 +1,6 @@
 # Phasmid
 
-Phasmid is a Breakbeat and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Klub Attack, Croatia on Thu, 15 Oct 2026.
+Phasmid is a Breakbeat and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Klub Attack, Croatia on Thu, 15 Oct 2026.
 
 Phasmid is a breakbeat and garage artist, with 42 gigs on soundcheck across Auckland, Barcelona, Bristol and Cardiff and 15 more. Often billed alongside Ari Kiko, Bouki and Genick. Next up: Klub Attack, Croatia on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Phasmid is a breakbeat and garage artist, with 42 gigs on soundcheck across Auck
 
 Ari Kiko, Bouki, Genick
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phasmid/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phasmid/)*

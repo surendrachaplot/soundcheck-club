@@ -1,18 +1,18 @@
 # FroD
 
-FroD is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Prince Bishop Cruiser, Newcastle on Sat, 10 Oct 2026.
+FroD is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Ouseburn Garden, Newcastle on Sat, 24 Oct 2026.
 
-FroD is a house and electro artist based in Luxembourg, with 33 gigs on soundcheck across Buenos Aires, Madrid and Newcastle. Often billed alongside Neo, VRØD and Molly Sinnott. Next up: Prince Bishop Cruiser, Newcastle on Sat 10 Oct.
+FroD is a house and electro artist based in Luxembourg, with 33 gigs on soundcheck across Buenos Aires, Madrid and Newcastle. Often billed alongside Neo, VRØD and Molly Sinnott. Next up: Ouseburn Garden, Newcastle on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Prince Bishop Cruiser | Newcastle |
 | Sat, 24 Oct 2026 | Ouseburn Garden | Newcastle |
 
 ## Recently played
 
+- Prince Bishop Cruiser, Newcastle · Sat, 10 Oct 2026
 - Tokyo Bar, Newcastle · Fri, 28 Aug 2026
 - Ernest, Newcastle · Sat, 22 Aug 2026
 - Ouseburn Garden, Newcastle · Sat, 1 Aug 2026
@@ -20,10 +20,9 @@ FroD is a house and electro artist based in Luxembourg, with 33 gigs on soundche
 - Ernest, Newcastle · Thu, 21 May 2026
 - Ernest, Newcastle · Sat, 18 Apr 2026
 - Ouseburn Garden, Newcastle · Sat, 28 Mar 2026
-- Harbour House, Newcastle · Sat, 28 Feb 2026
 
 ## Shares bills with
 
 Neo (8), VRØD, Molly Sinnott
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frod/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frod/)*

@@ -1,14 +1,14 @@
 # Jimmie Page
 
-Jimmie Page is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Logan Square Chicago, Chicago on Sat, 31 Oct 2026.
+Jimmie Page is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Chicago - West Town, Chicago on Sat, 31 Oct 2026.
 
-Jimmie Page is a tech house and house artist based in United States of America, with 26 gigs on soundcheck across Chicago. Often billed alongside Amy Unland, BRKN and Dustin Sheridan. Next up: TBA - Logan Square Chicago, Chicago on Sat 31 Oct.
+Jimmie Page is a tech house and house artist based in United States of America, with 26 gigs on soundcheck across Chicago. Often billed alongside Amy Unland, BRKN and Dustin Sheridan. Next up: TBA - Chicago - West Town, Chicago on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | TBA - Logan Square Chicago | Chicago |
+| Sat, 31 Oct 2026 | TBA - Chicago - West Town | Chicago |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Jimmie Page is a tech house and house artist based in United States of America, 
 
 Amy Unland, BRKN, Dustin Sheridan
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmiepage/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmiepage/)*

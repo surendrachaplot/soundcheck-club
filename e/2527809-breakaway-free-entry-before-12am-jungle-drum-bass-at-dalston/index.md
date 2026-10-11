@@ -1,6 +1,6 @@
 # Breakaway: Free Entry Before 12am - Jungle / Drum & Bass at Dalston Den
 
-Breakaway: Free Entry Before 12am - Jungle / Drum & Bass at Dalston Den on Fri 16 Oct, London. 3 artists: Agility, Bryn Brax and Whatsname. Drum & Bass and Jungle. See the line-up on soundcheck.
+Breakaway: Free Entry Before 12am - Jungle / Drum & Bass at Dalston Den on Fri 16 Oct, London. 2 artists: Bryn Brax and Whatsname. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Breakaway: Free Entry Before 12am - Jungle / Drum & Bass at Dalston Den on Fri 1
 
 ## Line-up
 
-- Agility
 - Bryn Brax
 - Whatsname
 

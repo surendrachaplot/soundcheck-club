@@ -1,6 +1,6 @@
 # Rashad Becker
 
-Rashad Becker is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Tue, 13 Oct 2026.
+Rashad Becker is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Tue, 13 Oct 2026.
 
 Rashad Becker is an experimental and electronica artist based in Germany, with 36 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 10 more. Often billed alongside African Head Charge, Marta De Pascalis and PRAED. Next up: Berghain | Panorama Bar | Säule, Berlin on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ Rashad Becker is an experimental and electronica artist based in Germany, with 3
 
 African Head Charge, Marta De Pascalis, PRAED
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rashadbecker/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rashadbecker/)*

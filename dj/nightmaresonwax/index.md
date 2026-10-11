@@ -1,6 +1,6 @@
 # Nightmares on Wax
 
-Nightmares on Wax is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Nightmares on Wax is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Nightmares on Wax is a house and electronica artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 33 more. Often billed alongside Colleen 'Cosmo' Murphy, Mr Scruff and Romare. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -27,4 +27,4 @@ Nightmares on Wax is a house and electronica artist based in United Kingdom, wit
 
 Colleen 'Cosmo' Murphy, Mr Scruff, Romare
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nightmaresonwax/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nightmaresonwax/)*

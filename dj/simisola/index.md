@@ -1,6 +1,6 @@
 # Simisola
 
-Simisola is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at telos.haus, New York City on Sun, 11 Oct 2026.
+Simisola is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at telos.haus, New York City on Sun, 11 Oct 2026.
 
 Simisola is a club and techno artist, with 23 gigs on soundcheck across New York City. Often billed alongside Love Higher, wahala.wav and MORENXXX. Next up: telos.haus, New York City on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Simisola is a club and techno artist, with 23 gigs on soundcheck across New York
 
 Love Higher, wahala.wav, MORENXXX
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simisola/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simisola/)*

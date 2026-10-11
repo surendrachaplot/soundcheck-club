@@ -1,6 +1,6 @@
 # Riccardo Moschen
 
-Riccardo Moschen is a Techno and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Street Smash Burgers, Milan on Thu, 15 Oct 2026.
+Riccardo Moschen is a Techno and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Street Smash Burgers, Milan on Thu, 15 Oct 2026.
 
 Riccardo Moschen is a techno and italo disco artist based in Italy, with 9 gigs on soundcheck across Milan. Often billed alongside Creamy, Giale and Hiroko Hacci. Next up: TBA - Street Smash Burgers, Milan on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Riccardo Moschen is a techno and italo disco artist based in Italy, with 9 gigs 
 
 Creamy, Giale, Hiroko Hacci
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riccardomoschen/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riccardomoschen/)*

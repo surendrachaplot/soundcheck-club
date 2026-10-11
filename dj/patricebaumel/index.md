@@ -1,6 +1,6 @@
 # Patrice Bäumel
 
-Patrice Bäumel is a Techno and Progressive House artist with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Het Sieraad, Amsterdam on Sat, 24 Oct 2026.
+Patrice Bäumel is a Techno and Progressive House artist with 12 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Het Sieraad, Amsterdam on Sat, 24 Oct 2026.
 
 Patrice Bäumel is a techno and progressive house artist based in Germany, with 158 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 44 more. Often billed alongside Patrice, Sasha and Hernan Cattaneo. Next up: Het Sieraad, Amsterdam on Sat 24 Oct.
 
@@ -36,4 +36,4 @@ Patrice Bäumel is a techno and progressive house artist based in Germany, with 
 
 Patrice, Sasha, Hernan Cattaneo
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patricebaumel/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patricebaumel/)*

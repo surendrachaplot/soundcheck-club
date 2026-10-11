@@ -1,6 +1,6 @@
 # ZO3 (1)
 
-ZO3 (1) is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at The Bongo Club, Edinburgh on Sat, 24 Oct 2026.
+ZO3 (1) is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The Bongo Club, Edinburgh on Sat, 24 Oct 2026.
 
 ZO3 is a bass and dubstep artist based in United Kingdom, with 78 gigs on soundcheck across Dundee and Edinburgh. Often billed alongside Lara Sinclair, Casement and DV60. Next up: The Bongo Club, Edinburgh on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ ZO3 is a bass and dubstep artist based in United Kingdom, with 78 gigs on soundc
 
 Lara Sinclair, Casement, DV60
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zo3-1/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zo3-1/)*

@@ -1,6 +1,6 @@
 # Abacus
 
-Abacus is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at 1point4hertz, Toronto on Sat, 24 Oct 2026.
+Abacus is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at 1point4hertz, Toronto on Sat, 24 Oct 2026.
 
 Abacus is a house and deep house artist based in Canada, with 16 gigs on soundcheck across Toronto. Often billed alongside HXF (JEEP MIX), Nick Holder and Chez Damier. Next up: 1point4hertz, Toronto on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Abacus is a house and deep house artist based in Canada, with 16 gigs on soundch
 
 HXF (JEEP MIX), Nick Holder, Chez Damier
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abacus/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abacus/)*

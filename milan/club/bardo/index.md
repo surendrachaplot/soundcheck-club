@@ -1,14 +1,13 @@
 # BARDO
 
-BARDO is a music venue in Milan with 11 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "BARDO" on Sat, 10 Oct 2026.
+BARDO is a music venue in Milan with 10 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "BARDO" on Sun, 11 Oct 2026.
 
-BARDO is a music venue in Milan listed on soundcheck. 11 upcoming gigs, with line-ups including Cixxx J, Colombian Drone Mafia, Dj Ankles and Enrica Falqui and 2 more. See dates, start times and who's playing. Via Plinio 42, Milan, Italy 20129.
+BARDO is a music venue in Milan listed on soundcheck. 10 upcoming gigs, with line-ups including Cixxx J, Colombian Drone Mafia, Enrica Falqui and Leonardo Metz and 1 more. See dates, start times and who's playing. Via Plinio 42, Milan, Italy 20129.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | BARDO | Dj Ankles, POL100 |
 | Sun, 11 Oct 2026 | BARDO |  |
 | Tue, 13 Oct 2026 | BARDO - GEMELLO |  |
 | Wed, 14 Oct 2026 | BARDO | Colombian Drone Mafia |
@@ -18,9 +17,10 @@ BARDO is a music venue in Milan listed on soundcheck. 11 upcoming gigs, with lin
 | Wed, 21 Oct 2026 | BARDO - ESA LIVE |  |
 | Fri, 23 Oct 2026 | BARDO | Luc (1) |
 | Sat, 24 Oct 2026 | BARDO | Cixxx J |
+| Sun, 25 Oct 2026 | BARDO |  |
 
 ## Address
 
 Via Plinio 42, Milan, Italy 20129, Milan
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/bardo/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/bardo/)*

@@ -1,6 +1,6 @@
 # V!KK!
 
-V!KK! is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Jènemar Passéjure, Prague on Sat, 17 Oct 2026.
+V!KK! is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Jènemar Passéjure, Prague on Sat, 17 Oct 2026.
 
 V!KK! is a techno and house artist, with 4 gigs on soundcheck across Prague. Often billed alongside enthrust, 2NDRA and DARDANELLA. Next up: Jènemar Passéjure, Prague on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ V!KK! is a techno and house artist, with 4 gigs on soundcheck across Prague. Oft
 
 enthrust, 2NDRA, DARDANELLA
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/v!kk!/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/v!kk!/)*

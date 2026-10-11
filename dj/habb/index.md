@@ -1,6 +1,6 @@
 # Habb
 
-Habb is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Skull Bar, Athens on Sun, 11 Oct 2026.
+Habb is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Skull Bar, Athens on Sun, 11 Oct 2026.
 
 Habb is a house and electro artist based in France, with 7 gigs on soundcheck across Athens, Barcelona, Edinburgh and Hong Kong and 3 more. Often billed alongside Anyss, Argenis Brito and Bastard Love. Next up: Skull Bar, Athens on Sun 11 Oct.
 
@@ -23,4 +23,4 @@ Habb is a house and electro artist based in France, with 7 gigs on soundcheck ac
 
 Anyss, Argenis Brito, Bastard Love
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/habb/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/habb/)*

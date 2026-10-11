@@ -1,6 +1,6 @@
 # USLSS
 
-USLSS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at La Kulture, Strasbourg on Fri, 16 Oct 2026.
+USLSS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at La Kulture, Strasbourg on Fri, 16 Oct 2026.
 
 USLSS is a techno and trance artist based in France, with 13 gigs on soundcheck across Brussels, Lyon, Paris and Strasbourg. Often billed alongside AMAYO, Karenine and Bérou. Next up: La Kulture, Strasbourg on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ USLSS is a techno and trance artist based in France, with 13 gigs on soundcheck 
 
 AMAYO, Karenine, Bérou
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uslss/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uslss/)*

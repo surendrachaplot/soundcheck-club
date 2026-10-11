@@ -1,6 +1,6 @@
 # Moritz von Oswald
 
-Moritz von Oswald is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Melkweg, Amsterdam on Sun, 25 Oct 2026.
+Moritz von Oswald is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Melkweg, Amsterdam on Sun, 25 Oct 2026.
 
 Moritz von Oswald is a techno and dub techno artist based in Germany, with 61 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Azu Tiwaline, Lena Willikens and DjRUM. Next up: Melkweg, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Moritz von Oswald is a techno and dub techno artist based in Germany, with 61 gi
 
 Azu Tiwaline, Lena Willikens, DjRUM
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moritzvonoswald/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moritzvonoswald/)*

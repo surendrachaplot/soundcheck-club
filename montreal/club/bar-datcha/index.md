@@ -1,14 +1,13 @@
 # Bar Datcha
 
-Bar Datcha is a music venue in Montreal with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Club Haram: Maral Mane, Claireyyy, mayalabae, Cirque Cosmic, Badgalquirit" on Sat, 10 Oct 2026.
+Bar Datcha is a music venue in Montreal with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Panatekk: venus in bed, Ekitwanda, Juju le Moko" on Thu, 15 Oct 2026.
 
-Bar Datcha is a music venue in Montreal listed on soundcheck. 10 upcoming gigs, with line-ups including 99hp, Badgalquirit, Bwi-Bwi and Cirque Cosmic and 2 more. See dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
+Bar Datcha is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, with line-ups including 99hp, Bwi-Bwi, CLEO LEIGH and CrisseMarqueur and 2 more. See dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Club Haram: Maral Mane, Claireyyy, mayalabae, Cirque Cosmic, Badgalquirit | Badgalquirit, Cirque Cosmic, Claireyy, Maral Mane, mayalabae |
 | Thu, 15 Oct 2026 | Panatekk: venus in bed, Ekitwanda, Juju le Moko | Ekitwanda, Juju le Moko, venus in bed |
 | Fri, 16 Oct 2026 | Datcha NONSTOP: Rabzi, Bwi-Bwi, Silktits, 99hp | 99hp, Bwi-Bwi, Rabzi, Silktits |
 | Sat, 17 Oct 2026 | CLEO LEIGH, Dj Hermano, Excalibur | CLEO LEIGH, Dj Hermano, Excalibur |
@@ -23,4 +22,4 @@ Bar Datcha is a music venue in Montreal listed on soundcheck. 10 upcoming gigs, 
 
 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada, Montreal
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*

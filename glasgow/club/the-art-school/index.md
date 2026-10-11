@@ -1,14 +1,13 @@
 # The Art School
 
-The Art School is a music venue in Glasgow with 14 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "9 Years of Taikano with DJ Assault // DJ Hell // Kairogen // AJAY C [4AM FINISH]" on Sat, 10 Oct 2026.
+The Art School is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "DUB CLUB: Simon Scott (EXODUS / SUBDUB / OUTLOOK) & Hometown Sound" on Thu, 15 Oct 2026.
 
-The Art School is a music venue in Glasgow listed on soundcheck. 14 upcoming gigs, with line-ups including ACHIRĀ, ALWAYS 8:15, Céleste and DART and 2 more. See dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
+The Art School is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs, with line-ups including ACHIRĀ, ALWAYS 8:15, Céleste and DART and 2 more. See dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | 9 Years of Taikano with DJ Assault // DJ Hell // Kairogen // AJAY C [4AM FINISH] | DJ Assault, DJ Hell, Kairogen |
 | Thu, 15 Oct 2026 | DUB CLUB: Simon Scott (EXODUS / SUBDUB / OUTLOOK) & Hometown Sound | Hometown Sound, James Hometown, Simon Scott |
 | Fri, 16 Oct 2026 | iNTRA: Jason Cluff, Nyctonian. (After Holy priest) | Jason Cluff, Nyctonian |
 | Sat, 17 Oct 2026 | FLY - DART, Milion & Céleste | Céleste, DART, Milion |
@@ -18,9 +17,10 @@ The Art School is a music venue in Glasgow listed on soundcheck. 14 upcoming gig
 | Fri, 30 Oct 2026 | PRTY Halloween: KARAH + TITI, Glasgow | KARAH, TiTi |
 | Sat, 31 Oct 2026 | Polka Dot Disco Club x Relentless LOCAL: Halloween ᜊ(°-°)ᜊ | Frankie Elyse, Olympe4000 |
 | Sat, 7 Nov 2026 | Glasstattoo  | ACHIRĀ |
+| Fri, 20 Nov 2026 | Nu:Tone \\\ Pray To Good | IYRE, Nu:Tone, Ruthless, Winslow |
 
 ## Address
 
 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom, Glasgow
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*

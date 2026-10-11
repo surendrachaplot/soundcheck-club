@@ -1,6 +1,6 @@
 # The Brightside
 
-The Brightside is a music venue in Brisbane with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Turno: Brisbane" on Sat, 31 Oct 2026.
+The Brightside is a music venue in Brisbane with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Turno: Brisbane" on Sat, 31 Oct 2026.
 
 The Brightside is a music venue in Brisbane listed on soundcheck. 2 upcoming gigs, with line-ups including Brock Ferrar, Steve Bug and Turno. See dates, start times and who's playing. 27 Warner St, Fortitude Valley.
 
@@ -15,4 +15,4 @@ The Brightside is a music venue in Brisbane listed on soundcheck. 2 upcoming gig
 
 27 Warner St, Fortitude Valley, Brisbane
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-brightside/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-brightside/)*

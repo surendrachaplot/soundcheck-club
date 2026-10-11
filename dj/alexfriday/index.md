@@ -1,19 +1,19 @@
 # Alex Friday
 
-Alex Friday is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Mokka Mitte Bar / James Simon Park, Berlin on Sat, 10 Oct 2026.
+Alex Friday is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at DNA. CLUB, Berlin on Sat, 31 Oct 2026.
 
-Alex Friday is a techno and trance artist based in Germany, with 124 gigs on soundcheck across Basel, Berlin, Copenhagen and Frankfurt and 2 more. Often billed alongside ROJI, 3LEEZA and Filialleiter. Next up: Mokka Mitte Bar / James Simon Park, Berlin on Sat 10 Oct.
+Alex Friday is a techno and trance artist based in Germany, with 124 gigs on soundcheck across Basel, Berlin, Copenhagen and Frankfurt and 2 more. Often billed alongside ROJI, 3LEEZA and Filialleiter. Next up: DNA. CLUB, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Mokka Mitte Bar / James Simon Park | Berlin |
 | Sat, 31 Oct 2026 | DNA. CLUB | Berlin |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 
 ## Recently played
 
+- Mokka Mitte Bar / James Simon Park, Berlin · Sat, 10 Oct 2026
 - Puma Käfig Berlin, Berlin · Fri, 2 Oct 2026
 - DNA. CLUB, Berlin · Sat, 26 Sept 2026
 - Lokschuppen Berlin, Berlin · Sat, 29 Aug 2026
@@ -21,10 +21,9 @@ Alex Friday is a techno and trance artist based in Germany, with 124 gigs on sou
 - KitKatClub, Berlin · Fri, 7 Aug 2026
 - Else, Berlin · Fri, 17 Jul 2026
 - OST, Berlin · Fri, 10 Jul 2026
-- Humboldthain Club, Berlin · Sun, 5 Jul 2026
 
 ## Shares bills with
 
 ROJI, 3LEEZA, Filialleiter
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfriday/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfriday/)*

@@ -1,14 +1,13 @@
 # Phil Berg
 
-Phil Berg is a Techno and Club artist with 13 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Village Underground Lisboa, Lisbon on Sat, 10 Oct 2026.
+Phil Berg is a Techno and Club artist with 12 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 17 Oct 2026.
 
-Phil Berg is a techno and club artist based in Germany, with 152 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Lobster (NL), future.666 and Grace Dahl. Next up: Village Underground Lisboa, Lisbon on Sat 10 Oct.
+Phil Berg is a techno and club artist based in Germany, with 152 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Lobster (NL), future.666 and Grace Dahl. Next up: RSO.BERLIN, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Village Underground Lisboa | Lisbon |
 | Sat, 17 Oct 2026 | RSO.BERLIN | Berlin |
 | Wed, 21 Oct 2026 | Zwart Goud Record Store | Amsterdam |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
@@ -20,9 +19,11 @@ Phil Berg is a techno and club artist based in Germany, with 152 gigs on soundch
 | Sat, 7 Nov 2026 | Concept Haus | Manchester |
 | Sat, 28 Nov 2026 | H2o6 | Riga |
 | Sat, 12 Dec 2026 | RADION | Amsterdam |
+| Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
+- Village Underground Lisboa, Lisbon · Sat, 10 Oct 2026
 - Mooi Space, Toronto · Sat, 3 Oct 2026
 - Stereo, Montreal · Fri, 2 Oct 2026
 - Junkyard Dortmund, Dortmund-essen · Sat, 5 Sept 2026
@@ -30,10 +31,9 @@ Phil Berg is a techno and club artist based in Germany, with 152 gigs on soundch
 - The DBA, Manchester · Sat, 22 Aug 2026
 - Fridas Pier, Stuttgart · Fri, 21 Aug 2026
 - VENT, Tokyo · Mon, 10 Aug 2026
-- RASA, Singapore · Sun, 9 Aug 2026
 
 ## Shares bills with
 
 Lobster (NL), future.666, Grace Dahl
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philberg/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philberg/)*

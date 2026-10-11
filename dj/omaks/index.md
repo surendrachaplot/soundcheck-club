@@ -1,6 +1,6 @@
 # OMAKS
 
-OMAKS is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+OMAKS is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
 
 OMAKS is a techno and hardcore artist based in France, with 141 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Barcelona and 41 more. Often billed alongside LESSSS, Shlømo and Basswell. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
 
@@ -14,6 +14,7 @@ OMAKS is a techno and hardcore artist based in France, with 141 gigs on soundche
 
 ## Recently played
 
+- Plage Privée Parc de Miribel, Lyon · Sat, 10 Oct 2026
 - TBA, Ankara · Sat, 3 Oct 2026
 - TBA - CLUB MIRADOR INCEK, Ankara · Sat, 3 Oct 2026
 - TBA - Kai Tak Cruise Terminal Waiting Hall A, Hong Kong · Fri, 2 Oct 2026
@@ -21,10 +22,9 @@ OMAKS is a techno and hardcore artist based in France, with 141 gigs on soundche
 - Supermarket, Zurich · Sat, 26 Sept 2026
 - Arts Club, Liverpool · Sat, 15 Aug 2026
 - Room 2 Glasgow, Glasgow · Sat, 15 Aug 2026
-- 821 Runnymede Rd, Toronto · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 LESSSS, Shlømo, Basswell
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omaks/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omaks/)*

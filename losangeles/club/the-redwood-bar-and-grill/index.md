@@ -1,14 +1,13 @@
 # The Redwood Bar And Grill
 
-The Redwood Bar And Grill is a music venue in Los Angeles with 23 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Lightning Woodcock" on Sat, 10 Oct 2026.
+The Redwood Bar And Grill is a music venue in Los Angeles with 22 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Andrea Turk" on Sun, 11 Oct 2026.
 
-The Redwood Bar And Grill is a music venue in Los Angeles listed on soundcheck. 23 upcoming gigs. See dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
+The Redwood Bar And Grill is a music venue in Los Angeles listed on soundcheck. 22 upcoming gigs. See dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Lightning Woodcock |  |
 | Sun, 11 Oct 2026 | Andrea Turk |  |
 | Sun, 11 Oct 2026 | Scott Guerin Memorial |  |
 | Sun, 11 Oct 2026 | Our Bodies |  |
@@ -18,9 +17,10 @@ The Redwood Bar And Grill is a music venue in Los Angeles listed on soundcheck. 
 | Sat, 17 Oct 2026 | The Dogs |  |
 | Sat, 17 Oct 2026 | Ann The Raven |  |
 | Sun, 18 Oct 2026 | The Scrub Jays |  |
+| Sun, 18 Oct 2026 | Sewerside Bombers |  |
 
 ## Address
 
 316 W. 2nd Street, Los Angeles, CA  90012, Los Angeles
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/)*

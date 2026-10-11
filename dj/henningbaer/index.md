@@ -1,14 +1,13 @@
 # Henning Baer
 
-Henning Baer is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at VENT, Tokyo on Sat, 10 Oct 2026.
+Henning Baer is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Secret Location, Toronto on Sun, 11 Oct 2026.
 
-Henning Baer is a techno and house artist based in Germany, with 80 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside P.E.A.R.L., Xiorro and JKS. Next up: VENT, Tokyo on Sat 10 Oct.
+Henning Baer is a techno and house artist based in Germany, with 80 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside P.E.A.R.L., Xiorro and JKS. Next up: TBA - Secret Location, Toronto on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | VENT | Tokyo |
 | Sun, 11 Oct 2026 | TBA - Secret Location | Toronto |
 | Fri, 23 Oct 2026 | Under Bron | Stockholm |
 | Fri, 20 Nov 2026 | RSO.BERLIN | Berlin |
@@ -16,6 +15,7 @@ Henning Baer is a techno and house artist based in Germany, with 80 gigs on soun
 
 ## Recently played
 
+- VENT, Tokyo · Sat, 10 Oct 2026
 - VENT, Tokyo · Sat, 26 Sept 2026
 - RSO.BERLIN, Berlin · Sat, 29 Aug 2026
 - Gianpula Village, Malta · Wed, 12 Aug 2026
@@ -23,10 +23,9 @@ Henning Baer is a techno and house artist based in Germany, with 80 gigs on soun
 - Pisco Bar, Kuala Lumpur · Sat, 8 Aug 2026
 - Fuse, Brussels · Sat, 1 Aug 2026
 - Fvtvr, Paris · Sat, 4 Jul 2026
-- Faust, Seoul · Sat, 13 Jun 2026
 
 ## Shares bills with
 
 P.E.A.R.L., Xiorro, JKS
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henningbaer/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henningbaer/)*

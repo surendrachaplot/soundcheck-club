@@ -1,13 +1,14 @@
 # bloodymarii
 
-bloodymarii is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at DeTour, Tokyo on Thu, 5 Nov 2026.
+bloodymarii is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at clubasia, Tokyo on Mon, 26 Oct 2026.
 
-bloodymarii is a techno and hardcore artist based in Japan, with 3 gigs on soundcheck across Tokyo. Often billed alongside ASIN, Usual and YOXIKI. Next up: DeTour, Tokyo on Thu 5 Nov.
+bloodymarii is a techno and hardcore artist based in Japan, with 4 gigs on soundcheck across Tokyo. Often billed alongside ASIN, YOXIKI and Hue Ray. Next up: clubasia, Tokyo on Mon 26 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 26 Oct 2026 | clubasia | Tokyo |
 | Thu, 5 Nov 2026 | DeTour | Tokyo |
 | Tue, 15 Dec 2026 | DeTour | Tokyo |
 
@@ -17,6 +18,6 @@ bloodymarii is a techno and hardcore artist based in Japan, with 3 gigs on sound
 
 ## Shares bills with
 
-ASIN, Usual, YOXIKI
+ASIN, YOXIKI, Hue Ray
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodymarii/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodymarii/)*

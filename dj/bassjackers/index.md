@@ -1,6 +1,6 @@
 # Bassjackers
 
-Bassjackers is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
+Bassjackers is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
 Bassjackers is a techno and house artist based in Netherlands, with 30 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Cologne and 13 more. Often billed alongside Dimitri Vegas & Like Mike, Charlie Sparks and Laidback Luke. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Bassjackers is a techno and house artist based in Netherlands, with 30 gigs on s
 
 Dimitri Vegas & Like Mike, Charlie Sparks, Laidback Luke
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bassjackers/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bassjackers/)*

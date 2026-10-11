@@ -1,6 +1,6 @@
 # ETTA!
 
-ETTA! is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Crobar - Buenos Aires, Buenos-aires on Fri, 16 Oct 2026.
+ETTA! is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Crobar - Buenos Aires, Buenos-aires on Fri, 16 Oct 2026.
 
 ETTA! is a house and tech house artist based in Argentina, with 11 gigs on soundcheck across Buenos Aires. Often billed alongside Bermani, Pato Mallet and Alejandro Paz. Next up: Crobar - Buenos Aires, Buenos Aires on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ ETTA! is a house and tech house artist based in Argentina, with 11 gigs on sound
 
 Bermani, Pato Mallet, Alejandro Paz
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etta-ar/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etta-ar/)*

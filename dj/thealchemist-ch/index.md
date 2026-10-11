@@ -1,0 +1,25 @@
+# The Alchemist
+
+The Alchemist is a Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Sun, 22 Nov 2026.
+
+The Alchemist is a hip-hop artist, with 6 gigs on soundcheck across Amsterdam, Copenhagen, Lisbon and Mexico City and 1 more. Often billed alongside DJ Premier, Aba Shanti-I and Bambii. Next up: MIDNIGHT EAST, Tokyo on Sun 22 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sun, 22 Nov 2026 | MIDNIGHT EAST | Tokyo |
+
+## Recently played
+
+- Radio Radio, Amsterdam · Mon, 27 Apr 2026
+- DR Koncerthuset, Copenhagen · Tue, 2 Dec 2025
+- Lisboa Ao Vivo, Lisbon · Sat, 15 Nov 2025
+- TBA - Estadio Fray Nano and Casa del Lago, Mexico City · Fri, 2 May 2025
+- clubasia, Tokyo · Mon, 11 Dec 2023
+
+## Shares bills with
+
+DJ Premier, Aba Shanti-I, Bambii
+
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thealchemist-ch/)*

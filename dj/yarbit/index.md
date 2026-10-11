@@ -1,6 +1,6 @@
 # Yarbit
 
-Yarbit is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Galvanik Zug, Switzerland on Sat, 24 Oct 2026.
+Yarbit is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Galvanik Zug, Switzerland on Sat, 24 Oct 2026.
 
 Yarbit is a techno and tech house artist, with 8 gigs on soundcheck across Switzerland and Zurich. Often billed alongside Sirol, Vera Amberg and ARWIN AZIZ. Next up: Galvanik Zug, Switzerland on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Yarbit is a techno and tech house artist, with 8 gigs on soundcheck across Switz
 
 Sirol, Vera Amberg, ARWIN AZIZ
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yarbit/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yarbit/)*

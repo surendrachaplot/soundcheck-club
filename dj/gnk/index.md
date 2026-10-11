@@ -1,6 +1,6 @@
 # G'NK
 
-G'NK is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at or, Tokyo on Sun, 1 Nov 2026.
+G'NK is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at or, Tokyo on Sun, 1 Nov 2026.
 
 G'NK is a trance and techno artist, with 7 gigs on soundcheck across Tokyo. Often billed alongside Nanlaze, TORUKK and Antoniexx. Next up: or, Tokyo on Sun 1 Nov.
 
@@ -23,4 +23,4 @@ G'NK is a trance and techno artist, with 7 gigs on soundcheck across Tokyo. Ofte
 
 Nanlaze, TORUKK, Antoniexx
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gnk/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gnk/)*

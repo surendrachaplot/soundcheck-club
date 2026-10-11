@@ -1,6 +1,6 @@
 # Julian Anthony
 
-Julian Anthony is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - López 1, Colonia Centro, CDMX, Mexico City on Sat, 10 Oct 2026.
+Julian Anthony is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - López 1, Colonia Centro, CDMX, Mexico City on Sat, 10 Oct 2026.
 
 Julian Anthony is a house and tech house artist based in Netherlands, with 159 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 33 more. Often billed alongside Laidlaw, Voigtmann and Reeshy. Next up: TBA - López 1, Colonia Centro, CDMX, Mexico City on Sat 10 Oct.
 
@@ -20,6 +20,7 @@ Julian Anthony is a house and tech house artist based in Netherlands, with 159 g
 
 ## Recently played
 
+- TBA - López 1, Colonia Centro, CDMX, Mexico City · Sat, 10 Oct 2026
 - 3oz Dive Club, San Diego · Fri, 9 Oct 2026
 - Cova Santa, Ibiza · Tue, 29 Sept 2026
 - UNO MALTA, Malta · Fri, 18 Sept 2026
@@ -27,10 +28,9 @@ Julian Anthony is a house and tech house artist based in Netherlands, with 159 g
 - Shelter Amsterdam, Amsterdam · Sat, 22 Aug 2026
 - Refuge, New York City · Fri, 14 Aug 2026
 - Parc del Fòrum, Barcelona · Fri, 7 Aug 2026
-- 528 Ibiza, Ibiza · Sun, 2 Aug 2026
 
 ## Shares bills with
 
 Laidlaw, Voigtmann, Reeshy
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*

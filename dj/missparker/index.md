@@ -1,14 +1,13 @@
 # Miss Parker
 
-Miss Parker is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA, Los Angeles on Fri, 9 Oct 2026.
+Miss Parker is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Nowadays, New York City on Thu, 15 Oct 2026.
 
-Miss Parker is a techno and house artist based in United States of America, with 133 gigs on soundcheck across Berlin, Boston, Chicago and Hamburg and 6 more. Often billed alongside Devoye, Princess Peggie and DJ Thank You. Next up: TBA, Los Angeles on Fri 9 Oct.
+Miss Parker is a techno and house artist based in United States of America, with 133 gigs on soundcheck across Berlin, Boston, Chicago and Hamburg and 6 more. Often billed alongside Devoye, Princess Peggie and DJ Thank You. Next up: Nowadays, New York City on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | TBA | Los Angeles |
 | Thu, 15 Oct 2026 | Nowadays | New York City |
 | Fri, 16 Oct 2026 | Le Bain | New York City |
 | Fri, 23 Oct 2026 | La Station - Gare des Mines | Paris |
@@ -28,4 +27,4 @@ Miss Parker is a techno and house artist based in United States of America, with
 
 Devoye, Princess Peggie, DJ Thank You
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missparker/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missparker/)*

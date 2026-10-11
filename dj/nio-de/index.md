@@ -1,6 +1,6 @@
 # NIØ (DE)
 
-NIØ (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 23 Oct 2026.
+NIØ (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 23 Oct 2026.
 
 NIØ (DE) is a techno and house artist based in Germany, with 14 gigs on soundcheck across Berlin. Often billed alongside Luli Panasci, OTG(1) and DJ Henk. Next up: Humboldthain Club, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ NIØ (DE) is a techno and house artist based in Germany, with 14 gigs on soundch
 
 Luli Panasci, OTG(1), DJ Henk
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nio-de/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nio-de/)*

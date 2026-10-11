@@ -1,6 +1,6 @@
 # Héctor Oaks
 
-Héctor Oaks is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
+Héctor Oaks is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
 
 Héctor Oaks is a techno and house artist based in Spain, with 257 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 74 more. Often billed alongside Patrick Mason, Adiel and Richie Hawtin. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
 
@@ -19,6 +19,7 @@ Héctor Oaks is a techno and house artist based in Spain, with 257 gigs on sound
 
 ## Recently played
 
+- Auditorio Málaga Cortijo de Torres, South · Sat, 10 Oct 2026
 - OIL Club, Shenzhen · Sat, 26 Sept 2026
 - Abyss Shanghai, Shanghai · Thu, 24 Sept 2026
 - Hï Ibiza, Ibiza · Sun, 13 Sept 2026
@@ -26,10 +27,9 @@ Héctor Oaks is a techno and house artist based in Spain, with 257 gigs on sound
 - Union Park, Chicago · Fri, 4 Sept 2026
 - Amnesia Ibiza, Ibiza · Tue, 1 Sept 2026
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
-- Amnesia Ibiza, Ibiza · Sun, 9 Aug 2026
 
 ## Shares bills with
 
 Patrick Mason, Adiel, Richie Hawtin
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hectoroaks/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hectoroaks/)*

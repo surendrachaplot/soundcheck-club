@@ -1,6 +1,6 @@
 # Tom Monkey
 
-Tom Monkey is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Triangle, Osaka on Sun, 18 Oct 2026.
+Tom Monkey is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Triangle, Osaka on Sun, 18 Oct 2026.
 
 Tom Monkey is a psytrance and techno artist based in Japan, with 49 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside MASOI, WOLT and MARIHO. Next up: Triangle, Osaka on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Tom Monkey is a psytrance and techno artist based in Japan, with 49 gigs on soun
 
 MASOI, WOLT, MARIHO
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommonkey/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommonkey/)*

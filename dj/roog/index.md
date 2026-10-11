@@ -1,14 +1,13 @@
 # ROOG
 
-ROOG is a House and Tech House artist with 17 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at De Achtertuin, Nijmegen on Sat, 10 Oct 2026.
+ROOG is a House and Tech House artist with 16 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Simplon, Netherlands on Fri, 16 Oct 2026.
 
-ROOG is a house and tech house artist based in Netherlands, with 89 gigs on soundcheck across Amsterdam, Ibiza, Liverpool and Netherlands and 4 more. Often billed alongside Erick E, Alexander Koning and Lucien Foort. Next up: De Achtertuin, Nijmegen on Sat 10 Oct.
+ROOG is a house and tech house artist based in Netherlands, with 89 gigs on soundcheck across Amsterdam, Ibiza, Liverpool and Netherlands and 4 more. Often billed alongside Erick E, Alexander Koning and Lucien Foort. Next up: Simplon, Netherlands on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | De Achtertuin | Nijmegen |
 | Fri, 16 Oct 2026 | Simplon | Netherlands |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Wed, 21 Oct 2026 | Madam | Amsterdam |
@@ -20,9 +19,11 @@ ROOG is a house and tech house artist based in Netherlands, with 89 gigs on soun
 | Sat, 14 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
 | Sat, 28 Nov 2026 | TivoliVredenburg | Utrecht |
 | Sat, 12 Dec 2026 | Thuishaven | Amsterdam |
+| Sat, 19 Dec 2026 | Patronaat | Netherlands |
 
 ## Recently played
 
+- De Achtertuin, Nijmegen · Sat, 10 Oct 2026
 - De Heuvel Gallery, Netherlands · Fri, 2 Oct 2026
 - Paal69, Amsterdam · Sat, 26 Sept 2026
 - Freeze HiFi, Liverpool · Wed, 16 Sept 2026
@@ -30,10 +31,9 @@ ROOG is a house and tech house artist based in Netherlands, with 89 gigs on soun
 - Kralingse Bos, Rotterdam · Sat, 12 Sept 2026
 - Sundara Club, Ibiza · Tue, 8 Sept 2026
 - TBA, Amsterdam · Fri, 28 Aug 2026
-- Thuishaven, Amsterdam · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Erick E, Alexander Koning, Lucien Foort
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roog/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roog/)*

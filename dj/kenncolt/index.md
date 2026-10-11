@@ -1,6 +1,6 @@
 # Kenn Colt
 
-Kenn Colt is a Afro House artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Umi Sushi Antwerpen, Antwerp on Fri, 16 Oct 2026.
+Kenn Colt is a Afro House artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Umi Sushi Antwerpen, Antwerp on Fri, 16 Oct 2026.
 
 Kenn Colt is an afro house artist based in Belgium, with 28 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Brussels and 4 more. Often billed alongside Linda Lenor. Next up: Umi Sushi Antwerpen, Antwerp on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Kenn Colt is an afro house artist based in Belgium, with 28 gigs on soundcheck a
 
 Linda Lenor
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenncolt/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenncolt/)*

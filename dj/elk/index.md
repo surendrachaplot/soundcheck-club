@@ -1,6 +1,6 @@
 # Elk
 
-Elk is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Sub Club, Glasgow on Fri, 23 Oct 2026.
+Elk is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Sub Club, Glasgow on Fri, 23 Oct 2026.
 
 Elk is a house and techno artist based in United Kingdom, with 18 gigs on soundcheck across Brussels, Edinburgh, Glasgow and Leeds and 1 more. Often billed alongside Patch FD, BP and Elk Gerd. Next up: Sub Club, Glasgow on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Elk is a house and techno artist based in United Kingdom, with 18 gigs on soundc
 
 Patch FD, BP (1), Elk Gerd
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elk/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elk/)*

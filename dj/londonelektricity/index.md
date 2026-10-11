@@ -1,6 +1,6 @@
 # London Elektricity
 
-London Elektricity is a Drum & Bass and Jungle artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Danzhaus/The Gingerbread House, San Francisco/Oakland on Sat, 10 Oct 2026.
+London Elektricity is a Drum & Bass and Jungle artist with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Danzhaus/The Gingerbread House, San Francisco/Oakland on Sat, 10 Oct 2026.
 
 London Elektricity is a drum & bass and jungle artist based in United Kingdom, with 58 gigs on soundcheck across Auckland, Berlin, Boston and Bristol and 27 more. Often billed alongside Makoto, Degs and Nu:Tone. Next up: Danzhaus/The Gingerbread House, San Francisco/Oakland on Sat 10 Oct.
 
@@ -19,6 +19,7 @@ London Elektricity is a drum & bass and jungle artist based in United Kingdom, w
 
 ## Recently played
 
+- Danzhaus/The Gingerbread House, San Francisco/Oakland · Sat, 10 Oct 2026
 - Marble Bar, Detroit · Thu, 8 Oct 2026
 - halle02, Heidelberg · Sat, 3 Oct 2026
 - The Fox and Firkin, London · Fri, 2 Oct 2026
@@ -26,10 +27,9 @@ London Elektricity is a drum & bass and jungle artist based in United Kingdom, w
 - Bristol Amphitheatre & Waterfront Square, Bristol · Sat, 25 Jul 2026
 - The Fox and Firkin, London · Fri, 17 Jul 2026
 - The Fox and Firkin, London · Sat, 2 May 2026
-- Maassilo, Rotterdam · Sat, 11 Apr 2026
 
 ## Shares bills with
 
 Makoto, Degs, Nu:Tone
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/londonelektricity/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/londonelektricity/)*

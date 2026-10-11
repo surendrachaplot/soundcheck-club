@@ -1,6 +1,6 @@
 # Thym Flies
 
-Thym Flies is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Ndsm Theater, Amsterdam on Sat, 24 Oct 2026.
+Thym Flies is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Ndsm Theater, Amsterdam on Sat, 24 Oct 2026.
 
 Thym Flies is a house and techno artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam. Often billed alongside Faedro, Merel Helderman and Emvae. Next up: Ndsm Theater, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Thym Flies is a house and techno artist based in Netherlands, with 9 gigs on sou
 
 Faedro, Merel Helderman, Emvae
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thymflies/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thymflies/)*

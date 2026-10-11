@@ -1,6 +1,6 @@
 # Basic Rhythm
 
-Basic Rhythm is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at M.O.T, London on Fri, 20 Nov 2026.
+Basic Rhythm is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at M.O.T, London on Fri, 20 Nov 2026.
 
 Basic Rhythm is a jungle and drum & bass artist based in United Kingdom, with 12 gigs on soundcheck across Berlin and London. Often billed alongside Sully, J:Kenzo and Need For Mirrors. Next up: M.O.T, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Basic Rhythm is a jungle and drum & bass artist based in United Kingdom, with 12
 
 Sully, J:Kenzo, Need For Mirrors
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basicrhythm/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basicrhythm/)*

@@ -1,6 +1,6 @@
 # Chica Club
 
-Chica Club is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Electrostad: FREE PARTY with Victor Hugo B2B INOFF" on Wed, 14 Oct 2026.
+Chica Club is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Electrostad: FREE PARTY with Victor Hugo B2B INOFF" on Wed, 14 Oct 2026.
 
 Chica Club is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs, with line-ups including INOFF and Victor Hugo. See dates, start times and who's playing. Rosellón 217.
 
@@ -20,4 +20,4 @@ Chica Club is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs, 
 
 Rosellón 217, Barcelona
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/chica-club/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/chica-club/)*

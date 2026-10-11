@@ -1,14 +1,13 @@
 # Lieberscholli
 
-Lieberscholli is a music venue in Munich with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Scholli SECCO DAY CLUB - Day & Night Special" on Sat, 10 Oct 2026.
+Lieberscholli is a music venue in Munich with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Kinky Karneval Festival Edition 16.10.2026 Lieberscholli in München" on Fri, 16 Oct 2026.
 
-Lieberscholli is a music venue in Munich listed on soundcheck. 6 upcoming gigs, with line-ups including Aircraft, Alex Volta, Anna Reusch and diladï and 2 more. See dates, start times and who's playing. Landsberger Str. 212, 80687 München, Germany.
+Lieberscholli is a music venue in Munich listed on soundcheck. 5 upcoming gigs, with line-ups including Aircraft, Alex Volta, Anna Reusch and Human Rias and 2 more. See dates, start times and who's playing. Landsberger Str. 212, 80687 München, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Scholli SECCO DAY CLUB - Day & Night Special | FLAVE, Kolja Broxi, Louisianaha, SAHARA, Taberia, VTZN, diladï, maxim_jl |
 | Fri, 16 Oct 2026 | Kinky Karneval Festival Edition 16.10.2026 Lieberscholli in München | Alex Volta, MILLA LOU |
 | Sat, 24 Oct 2026 | Feiern wie früher - nur früher! Der DAY RAVE mit Anna Reusch & Thomas Schumacher | Anna Reusch, JessRey, Thomas Schumacher |
 | Fri, 30 Oct 2026 | Human Rias invites Oliver Huntemann | Human Rias, Oliver Huntemann |
@@ -19,4 +18,4 @@ Lieberscholli is a music venue in Munich listed on soundcheck. 6 upcoming gigs, 
 
 Landsberger Str. 212, 80687 München, Germany, Munich
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*

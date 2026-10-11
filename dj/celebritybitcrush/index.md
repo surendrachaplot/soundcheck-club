@@ -1,6 +1,6 @@
 # Celebrity Bitcrush
 
-Celebrity Bitcrush is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - NAMELESS, Philadelphia on Sat, 24 Oct 2026.
+Celebrity Bitcrush is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - NAMELESS, Philadelphia on Sat, 24 Oct 2026.
 
 Celebrity Bitcrush is a bass and breakbeat artist based in United States of America, with 15 gigs on soundcheck across New York City and Philadelphia. Often billed alongside KANZE, DBL_BBL and Taboh. Next up: TBA - NAMELESS, Philadelphia on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Celebrity Bitcrush is a bass and breakbeat artist based in United States of Amer
 
 KANZE, DBL_BBL, Taboh
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/celebritybitcrush/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/celebritybitcrush/)*

@@ -1,6 +1,6 @@
 # Boris
 
-Boris is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Komplexo Tempo, Sao Paulo on Sun, 11 Oct 2026.
+Boris is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Komplexo Tempo, Sao Paulo on Sun, 11 Oct 2026.
 
 Boris is a techno and house artist based in Germany, with 225 gigs on soundcheck across Amsterdam, Athens, Auckland and Austin and 54 more. Often billed alongside BASHKKA, Massimiliano Pagliara and Roi Perez. Next up: Komplexo Tempo, Sao Paulo on Sun 11 Oct.
 
@@ -30,4 +30,4 @@ Boris is a techno and house artist based in Germany, with 225 gigs on soundcheck
 
 BASHKKA, Massimiliano Pagliara, Roi Perez
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borisdj/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borisdj/)*

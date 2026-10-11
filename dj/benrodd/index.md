@@ -1,6 +1,6 @@
 # Ben:Rodd
 
-Ben:Rodd is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Paname sur Seine, Paris on Sun, 11 Oct 2026.
+Ben:Rodd is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Paname sur Seine, Paris on Sun, 11 Oct 2026.
 
 Ben:Rodd is a tech house and minimal artist, with 7 gigs on soundcheck across Paris. Often billed alongside V-STYLE, Fawzi Adjan and Miss Flora. Next up: Paname sur Seine, Paris on Sun 11 Oct.
 
@@ -23,4 +23,4 @@ Ben:Rodd is a tech house and minimal artist, with 7 gigs on soundcheck across Pa
 
 V-STYLE, Fawzi Adjan, Miss Flora
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benrodd/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benrodd/)*

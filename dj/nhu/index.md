@@ -1,6 +1,6 @@
 # Nhū
 
-Nhū is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at E1, London on Fri, 16 Oct 2026.
+Nhū is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at E1, London on Fri, 16 Oct 2026.
 
 Nhū is a techno and trance artist based in Switzerland, with 35 gigs on soundcheck across Amsterdam, Basel, Berlin and Geneva and 9 more. Often billed alongside FALCO, Galopp and BRAINDAAMAGE. Next up: E1, London on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Nhū is a techno and trance artist based in Switzerland, with 35 gigs on soundch
 
 FALCO (2), Galopp, BRAINDAAMAGE
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nhu/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nhu/)*

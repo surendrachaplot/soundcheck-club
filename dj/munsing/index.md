@@ -1,6 +1,6 @@
 # Mun Sing
 
-Mun Sing is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+Mun Sing is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 Mun Sing is an experimental and club artist based in United Kingdom, with 43 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 20 more. Often billed alongside Slikback, KAVARI and ASJ. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Mun Sing is an experimental and club artist based in United Kingdom, with 43 gig
 
 Slikback, KAVARI, ASJ
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munsing/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munsing/)*

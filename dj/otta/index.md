@@ -1,14 +1,13 @@
 # ØTTA
 
-ØTTA is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Halle de La Machine, Toulouse on Sat, 10 Oct 2026.
+ØTTA is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
-ØTTA is a techno and house artist based in Portugal, with 179 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Nico Moreno, 999999999 and Funk Tribu. Next up: Halle de La Machine, Toulouse on Sat 10 Oct.
+ØTTA is a techno and house artist based in Portugal, with 179 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Nico Moreno, 999999999 and Funk Tribu. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Halle de La Machine | Toulouse |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Sat, 31 Oct 2026 | Oddity Club | Athens |
@@ -20,9 +19,11 @@
 | Wed, 25 Nov 2026 | Origin | Los Angeles |
 | Fri, 27 Nov 2026 | Ace*Mission Studios | Los Angeles |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
+| Fri, 11 Dec 2026 | BRET | Amsterdam |
 
 ## Recently played
 
+- Halle de La Machine, Toulouse · Sat, 10 Oct 2026
 - Gate Milano, Milan · Fri, 9 Oct 2026
 - Gate Milano, Milan · Fri, 9 Oct 2026
 - TBA - Port of Belgrade, Belgrade · Fri, 2 Oct 2026
@@ -30,10 +31,9 @@
 - Westhafen, Leipzig · Sat, 19 Sept 2026
 - TBA - Grand Parc Miribel Jonage, Lyon · Sat, 12 Sept 2026
 - Virage, Paris · Sat, 12 Sept 2026
-- TBA - Brussels, Brussels · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Nico Moreno, 999999999, Funk Tribu
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otta/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otta/)*

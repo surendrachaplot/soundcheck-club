@@ -1,6 +1,6 @@
 # MIA FLAW
 
-MIA FLAW is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Core, Madrid on Sun, 11 Oct 2026.
+MIA FLAW is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Core, Madrid on Sun, 11 Oct 2026.
 
 MIA FLAW is an electronica and club artist based in Spain, with 21 gigs on soundcheck across Barcelona, Madrid, New York City and Paris and 2 more. Often billed alongside DJ2D2, Linapary and BZZHOUND. Next up: Core, Madrid on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ MIA FLAW is an electronica and club artist based in Spain, with 21 gigs on sound
 
 DJ2D2, Linapary, BZZHOUND
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miaflaw/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miaflaw/)*

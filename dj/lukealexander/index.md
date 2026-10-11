@@ -1,14 +1,13 @@
 # Luke Alexander
 
-Luke Alexander is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Russell Industrial Center, Detroit on Sat, 10 Oct 2026.
+Luke Alexander is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Bauhaus, Houston on Sat, 7 Nov 2026.
 
-Luke Alexander is a house and electro artist based in United Kingdom, with 18 gigs on soundcheck across Boston, Chicago, Detroit and Houston and 4 more. Often billed alongside Eli Brown, Kaskade and Lane 8. Next up: Russell Industrial Center, Detroit on Sat 10 Oct.
+Luke Alexander is a house and electro artist based in United Kingdom, with 18 gigs on soundcheck across Boston, Chicago, Detroit and Houston and 4 more. Often billed alongside Eli Brown, Kaskade and Lane 8. Next up: Bauhaus, Houston on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Russell Industrial Center | Detroit |
 | Sat, 7 Nov 2026 | Bauhaus | Houston |
 | Fri, 13 Nov 2026 | 99 Scott Ave | New York City |
 | Fri, 20 Nov 2026 | Spybar | Chicago |
@@ -16,6 +15,7 @@ Luke Alexander is a house and electro artist based in United Kingdom, with 18 gi
 
 ## Recently played
 
+- Russell Industrial Center, Detroit · Sat, 10 Oct 2026
 - Q Nightclub, Seattle · Fri, 2 Oct 2026
 - Brooklyn Army Terminal, New York City · Fri, 19 Jun 2026
 - TBA - Park City Southie (411 Dorchester Ave, Boston, MA), Boston · Sun, 31 May 2026
@@ -23,10 +23,9 @@ Luke Alexander is a house and electro artist based in United Kingdom, with 18 gi
 - Echostage, Washington DC · Fri, 24 Apr 2026
 - Arlo Williamsburg, New York City · Sat, 26 Oct 2024
 - Nebula, New York City · Fri, 12 Jul 2024
-- Nebula, New York City · Fri, 3 Nov 2023
 
 ## Shares bills with
 
 Eli Brown, Kaskade, Lane 8
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealexander/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealexander/)*

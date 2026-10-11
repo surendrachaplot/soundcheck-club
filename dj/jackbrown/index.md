@@ -1,6 +1,6 @@
 # Jack Brown
 
-Jack Brown is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at People's Leisure Club, Edinburgh on Fri, 4 Dec 2026.
+Jack Brown is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at People's Leisure Club, Edinburgh on Fri, 4 Dec 2026.
 
 Jack Brown is a house and techno artist, with 7 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Bash Man, Mi$$ Co$mix and DSG. Next up: People's Leisure Club, Edinburgh on Fri 4 Dec.
 
@@ -23,4 +23,4 @@ Jack Brown is a house and techno artist, with 7 gigs on soundcheck across Edinbu
 
 Bash Man, Mi$$ Co$mix, DSG
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackbrown/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackbrown/)*

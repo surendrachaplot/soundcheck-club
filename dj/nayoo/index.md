@@ -1,13 +1,14 @@
 # Nayoo
 
-Nayoo is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Petit Bain, Paris on Sat, 7 Nov 2026.
+Nayoo is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Nashaz, Brussels on Fri, 6 Nov 2026.
 
-Nayoo is a club and ghetto tech artist, with 10 gigs on soundcheck across Berlin, Paris, Valencia and Vienna. Often billed alongside ELAKH, AOIFE and Abu Zeinah. Next up: Petit Bain, Paris on Sat 7 Nov.
+Nayoo is a club and ghetto tech artist, with 11 gigs on soundcheck across Berlin, Brussels, Paris and Valencia and 1 more. Often billed alongside ELAKH, AOIFE and Abu Zeinah. Next up: Nashaz, Brussels on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Nashaz | Brussels |
 | Sat, 7 Nov 2026 | Petit Bain | Paris |
 
 ## Recently played
@@ -25,4 +26,4 @@ Nayoo is a club and ghetto tech artist, with 10 gigs on soundcheck across Berlin
 
 ELAKH, AOIFE, Abu Zeinah
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nayoo/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nayoo/)*

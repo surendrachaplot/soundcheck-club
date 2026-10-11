@@ -1,6 +1,6 @@
 # Gabrielle Kwarteng
 
-Gabrielle Kwarteng is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Backsteinboot, Berlin on Sat, 10 Oct 2026.
+Gabrielle Kwarteng is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Backsteinboot, Berlin on Sat, 10 Oct 2026.
 
 Gabrielle Kwarteng is a house and techno artist based in United States of America, with 253 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 61 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: Backsteinboot, Berlin on Sat 10 Oct.
 
@@ -23,6 +23,7 @@ Gabrielle Kwarteng is a house and techno artist based in United States of Americ
 
 ## Recently played
 
+- Backsteinboot, Berlin · Sat, 10 Oct 2026
 - FORGE, Sheffield · Fri, 9 Oct 2026
 - Pawn Shop, Dublin · Sat, 3 Oct 2026
 - Headrow House, Leeds · Fri, 2 Oct 2026
@@ -30,10 +31,9 @@ Gabrielle Kwarteng is a house and techno artist based in United States of Americ
 - Jasna 1, Warsaw · Fri, 25 Sept 2026
 - Flash, Washington DC · Sun, 20 Sept 2026
 - BASEMENT, New York City · Fri, 18 Sept 2026
-- Sunday Sunday, Mexico City · Sun, 13 Sept 2026
 
 ## Shares bills with
 
 BASHKKA, Peach, Sedef Adasï
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*

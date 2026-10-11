@@ -1,6 +1,6 @@
 # Loods
 
-Loods is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
+Loods is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
 
 Loods is a house and techno artist based in Australia, with 59 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Bali and 16 more. Often billed alongside KETTAMA, Partiboi69 and Benwal. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Loods is a house and techno artist based in Australia, with 59 gigs on soundchec
 
 KETTAMA, Partiboi69, Benwal
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loods-1/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loods-1/)*

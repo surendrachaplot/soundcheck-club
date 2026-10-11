@@ -1,19 +1,19 @@
 # Solee
 
-Solee is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Odonien, Cologne on Sat, 10 Oct 2026.
+Solee is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Fridas Pier, Stuttgart on Sat, 17 Oct 2026.
 
-Solee is a techno and house artist based in Germany, with 35 gigs on soundcheck across Berlin, Cologne, Copenhagen and Dublin and 7 more. Often billed alongside Prismode, Solvane and Super Flu. Next up: Odonien, Cologne on Sat 10 Oct.
+Solee is a techno and house artist based in Germany, with 35 gigs on soundcheck across Berlin, Cologne, Copenhagen and Dublin and 7 more. Often billed alongside Prismode, Solvane and Super Flu. Next up: Fridas Pier, Stuttgart on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Odonien | Cologne |
 | Sat, 17 Oct 2026 | Fridas Pier | Stuttgart |
 | Sat, 24 Oct 2026 | Bahnwärter Thiel | Munich |
 
 ## Recently played
 
+- Odonien, Cologne · Sat, 10 Oct 2026
 - Ritter Butzke, Berlin · Sat, 19 Sept 2026
 - Burning Beach, Nürnberg · Fri, 19 Jun 2026
 - Ritter Butzke, Berlin · Sat, 9 May 2026
@@ -21,10 +21,9 @@ Solee is a techno and house artist based in Germany, with 35 gigs on soundcheck 
 - Ritter Butzke, Berlin · Sat, 28 Feb 2026
 - Fridas Pier, Stuttgart · Sat, 29 Nov 2025
 - Ritter Butzke, Berlin · Sat, 25 Oct 2025
-- Artheater, Cologne · Fri, 26 Sept 2025
 
 ## Shares bills with
 
 Prismode, Solvane, Super Flu
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solee/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solee/)*

@@ -1,6 +1,6 @@
 # Praslea
 
-Praslea is a Minimal and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Auberge, Switzerland on Sat, 24 Oct 2026.
+Praslea is a Minimal and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Auberge, Switzerland on Sat, 24 Oct 2026.
 
 Praslea is a minimal and house artist based in Romania, with 98 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside Raresh, CEZAR and Praslesh. Next up: Auberge, Switzerland on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Praslea is a minimal and house artist based in Romania, with 98 gigs on soundche
 
 Raresh, CEZAR, Praslesh
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/praslea/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/praslea/)*

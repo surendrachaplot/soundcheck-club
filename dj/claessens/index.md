@@ -1,8 +1,8 @@
 # CLAESSENS
 
-CLAESSENS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Patronaat, Amsterdam on Sat, 28 Nov 2026.
+CLAESSENS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Patronaat, Amsterdam on Sat, 28 Nov 2026.
 
-CLAESSENS is a techno and trance artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Rotterdam and 3 more. Often billed alongside Rini Berlini, Jakob Lesch and Miss Unleashed. Next up: Patronaat, Amsterdam on Sat 28 Nov.
+CLAESSENS is a techno and trance artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Rotterdam and 3 more. Often billed alongside Rini Berlini, Jakob Lesch and Miss UNLEASHED. Next up: Patronaat, Amsterdam on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ CLAESSENS is a techno and trance artist based in Netherlands, with 15 gigs on so
 
 ## Shares bills with
 
-Rini Berlini, Jakob Lesch, Miss Unleashed
+Rini Berlini, Jakob Lesch, Miss UNLEASHED
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claessens/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claessens/)*

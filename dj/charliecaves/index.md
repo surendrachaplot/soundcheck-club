@@ -1,6 +1,6 @@
 # Charlie Caves
 
-Charlie Caves is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA, Berlin on Sat, 24 Oct 2026.
+Charlie Caves is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA, Berlin on Sat, 24 Oct 2026.
 
 Charlie Caves is a club and experimental artist, with 8 gigs on soundcheck across Berlin. Often billed alongside Carl OG, Retter (DE) and 2001 Space Odyssey. Next up: TBA, Berlin on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Charlie Caves is a club and experimental artist, with 8 gigs on soundcheck acros
 
 Carl OG, Retter (DE), 2001 Space Odyssey
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliecaves/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliecaves/)*

@@ -1,11 +1,11 @@
-# Mutate: Winter Season Opening with: Ben Sims, Hashashin, SKITE at Eclipse Club
+# Mutate: Winter Season Opening with: Ben Sims, Hashashin, SKITE at Hype Discoteca
 
-Mutate: Winter Season Opening with: Ben Sims, Hashashin, SKITE at Eclipse Club on Sat 17 Oct, Naples. 3 artists: Ben Sims, Hashashin and Skite. Techno. See the line-up on soundcheck.
+Mutate: Winter Season Opening with: Ben Sims, Hashashin, SKITE at Hype Discoteca on Sat 17 Oct, Naples. 3 artists: Ben Sims, Hashashin and Skite. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 17 Oct 2026 |
-| Venue | Eclipse Club |
+| Venue | Hype Discoteca |
 | City | Naples |
 
 ## Line-up

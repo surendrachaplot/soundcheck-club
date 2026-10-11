@@ -1,14 +1,13 @@
 # ISAbella
 
-ISAbella is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+ISAbella is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at GASHOUDER, Amsterdam on Fri, 23 Oct 2026.
 
-ISAbella is a house and techno artist based in Colombia, with 261 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 45 more. Often billed alongside Roza Terenzi, BASHKKA and Gabrielle Kwarteng. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
+ISAbella is a house and techno artist based in Colombia, with 261 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 45 more. Often billed alongside Roza Terenzi, BASHKKA and Gabrielle Kwarteng. Next up: GASHOUDER, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Fri, 23 Oct 2026 | GASHOUDER | Amsterdam |
 | Sun, 25 Oct 2026 | Sugarfactory | Amsterdam |
 | Mon, 26 Oct 2026 | TILLATEC | Amsterdam |
@@ -16,6 +15,7 @@ ISAbella is a house and techno artist based in Colombia, with 261 gigs on soundc
 
 ## Recently played
 
+- Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
 - BASEMENT, New York City · Fri, 9 Oct 2026
 - Fvtvr, Paris · Fri, 2 Oct 2026
 - Fvtvr, Paris · Wed, 30 Sept 2026
@@ -23,10 +23,9 @@ ISAbella is a house and techno artist based in Colombia, with 261 gigs on soundc
 - Auditorium Parco della Musica, Rome · Sat, 12 Sept 2026
 - KREUZWERK, Berlin · Sat, 12 Sept 2026
 - Palais, London · Sat, 5 Sept 2026
-- DC-10, Ibiza · Mon, 17 Aug 2026
 
 ## Shares bills with
 
 Roza Terenzi, BASHKKA, Gabrielle Kwarteng
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isabella/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isabella/)*

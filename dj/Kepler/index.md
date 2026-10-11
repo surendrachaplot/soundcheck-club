@@ -1,6 +1,6 @@
 # Kepler
 
-Kepler is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at 11 Bromley Street, Birmingham on Sat, 17 Oct 2026.
+Kepler is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at 11 Bromley Street, Birmingham on Sat, 17 Oct 2026.
 
 Kepler is a house and tech house artist based in United Kingdom, with 161 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 32 more. Often billed alongside Burnski, Job de Jong and L.P. Rhythm. Next up: 11 Bromley Street, Birmingham on Sat 17 Oct.
 
@@ -34,4 +34,4 @@ Kepler is a house and tech house artist based in United Kingdom, with 161 gigs o
 
 Burnski, Job de Jong, L.P. Rhythm
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*

@@ -1,6 +1,6 @@
 # Runnan
 
-Runnan is a Baile Funk and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at M_odu, Porto on Sat, 24 Oct 2026.
+Runnan is a Baile Funk and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at M_odu, Porto on Sat, 24 Oct 2026.
 
 Runnan is a baile funk and experimental artist based in Portugal, with 26 gigs on soundcheck across Lisbon, London and Porto. Often billed alongside Caliente Isa, KÜIÃ and CLYTA. Next up: M_odu, Porto on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Runnan is a baile funk and experimental artist based in Portugal, with 26 gigs o
 
 Caliente Isa, KÜIÃ, CLYTA
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/runnan/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/runnan/)*

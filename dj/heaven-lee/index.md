@@ -1,6 +1,6 @@
 # HEAVEN-LEE
 
-HEAVEN-LEE is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 24 Oct 2026.
+HEAVEN-LEE is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 24 Oct 2026.
 
 HEAVEN-LEE is a house and tech house artist based in United Kingdom, with 19 gigs on soundcheck across Brighton and London. Often billed alongside 3 Minds, Silverlining and Eddie Richards. Next up: NUMBER 90 LONDON, London on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ HEAVEN-LEE is a house and tech house artist based in United Kingdom, with 19 gig
 
 3 Minds, Silverlining, Eddie Richards
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heaven-lee/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heaven-lee/)*

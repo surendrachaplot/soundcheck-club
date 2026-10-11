@@ -1,6 +1,6 @@
 # Loop51
 
-Loop51 is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Vinz Sosa Invites ADE" on Wed, 21 Oct 2026.
+Loop51 is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Vinz Sosa Invites ADE" on Wed, 21 Oct 2026.
 
 Loop51 is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Bridontknow, Chudix, Emma Champagne Queen and Franziska Berns and 2 more. See dates, start times and who's playing. Dusartstraat 51.
 
@@ -18,4 +18,4 @@ Loop51 is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with
 
 Dusartstraat 51, Amsterdam
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/loop51/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/loop51/)*

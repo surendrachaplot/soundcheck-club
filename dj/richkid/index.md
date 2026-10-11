@@ -1,6 +1,6 @@
 # RICHKID
 
-RICHKID is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Casablanca Namba Riverside, Osaka on Sun, 11 Oct 2026.
+RICHKID is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Casablanca Namba Riverside, Osaka on Sun, 11 Oct 2026.
 
 RICHKID is a house and techno artist based in Japan, with 39 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Cine, O-MAN and DMITRI ABSINTHE. Next up: Casablanca Namba Riverside, Osaka on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ RICHKID is a house and techno artist based in Japan, with 39 gigs on soundcheck 
 
 Cine, O-MAN, DMITRI ABSINTHE
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richkid/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richkid/)*

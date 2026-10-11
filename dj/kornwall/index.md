@@ -1,6 +1,6 @@
 # Kornwall
 
-Kornwall is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Pavilon, Budapest on Thu, 15 Oct 2026.
+Kornwall is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Pavilon, Budapest on Thu, 15 Oct 2026.
 
 Kornwall is an afro house and house artist, with 15 gigs on soundcheck across Budapest. Often billed alongside Ratkay, Viktor Bondar and Ben Dover. Next up: Pavilon, Budapest on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Kornwall is an afro house and house artist, with 15 gigs on soundcheck across Bu
 
 Ratkay, Viktor Bondar, Ben Dover
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kornwall/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kornwall/)*

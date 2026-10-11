@@ -1,14 +1,13 @@
 # Erick E
 
-Erick E is a House and Acid artist with 15 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at De Achtertuin, Nijmegen on Sat, 10 Oct 2026.
+Erick E is a House and Acid artist with 14 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Simplon, Netherlands on Fri, 16 Oct 2026.
 
-Erick E is a house and acid artist based in Netherlands, with 73 gigs on soundcheck across Amsterdam, Netherlands, Nijmegen and Rotterdam and 2 more. Often billed alongside ROOG, Alexander Koning and Lucien Foort. Next up: De Achtertuin, Nijmegen on Sat 10 Oct.
+Erick E is a house and acid artist based in Netherlands, with 73 gigs on soundcheck across Amsterdam, Netherlands, Nijmegen and Rotterdam and 2 more. Often billed alongside ROOG, Alexander Koning and Lucien Foort. Next up: Simplon, Netherlands on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | De Achtertuin | Nijmegen |
 | Fri, 16 Oct 2026 | Simplon | Netherlands |
 | Sat, 24 Oct 2026 | Grand Café Heineken Hoek | Amsterdam |
 | Sat, 31 Oct 2026 | Grand Hotel Amrâth Kurhaus | The Hague |
@@ -20,9 +19,11 @@ Erick E is a house and acid artist based in Netherlands, with 73 gigs on soundch
 | Sat, 19 Dec 2026 | Patronaat | Netherlands |
 | Sun, 27 Dec 2026 | Luxor Live | Netherlands |
 | Wed, 30 Dec 2026 | Brasserie Polderfabriek | Netherlands |
+| Sat, 9 Jan 2027 | Thuishaven | Amsterdam |
 
 ## Recently played
 
+- De Achtertuin, Nijmegen · Sat, 10 Oct 2026
 - Ijland, Amsterdam · Sat, 3 Oct 2026
 - De Heuvel Gallery, Netherlands · Fri, 2 Oct 2026
 - Millers Beach, The Hague · Sun, 13 Sept 2026
@@ -30,10 +31,9 @@ Erick E is a house and acid artist based in Netherlands, with 73 gigs on soundch
 - Paal69, Amsterdam · Fri, 4 Sept 2026
 - Spaarnwoude (Deelplan Houtrak), Amsterdam · Sat, 29 Aug 2026
 - TBA, Amsterdam · Fri, 28 Aug 2026
-- Kaap Amsterdam, Amsterdam · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 ROOG, Alexander Koning, Lucien Foort
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericke/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericke/)*

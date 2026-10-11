@@ -1,14 +1,13 @@
 # Raresh
 
-Raresh is a House and Minimal artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Pandora Sevilla, South on Sat, 10 Oct 2026.
+Raresh is a House and Minimal artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Club Guesthouse, Bucharest on Sat, 17 Oct 2026.
 
-Raresh is a house and minimal artist based in Romania, with 199 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Petre Inspirescu, Rhadoo and Ricardo Villalobos. Next up: Pandora Sevilla, South on Sat 10 Oct.
+Raresh is a house and minimal artist based in Romania, with 199 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Petre Inspirescu, Rhadoo and Ricardo Villalobos. Next up: Club Guesthouse, Bucharest on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Pandora Sevilla | South |
 | Sat, 17 Oct 2026 | Club Guesthouse | Bucharest |
 | Thu, 22 Oct 2026 | TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
@@ -19,6 +18,7 @@ Raresh is a house and minimal artist based in Romania, with 199 gigs on soundche
 
 ## Recently played
 
+- Pandora Sevilla, South · Sat, 10 Oct 2026
 - Ministerium Club, Lisbon · Fri, 9 Oct 2026
 - Amnesia Ibiza, Ibiza · Sun, 4 Oct 2026
 - UNO MALTA, Malta · Fri, 18 Sept 2026
@@ -26,10 +26,9 @@ Raresh is a house and minimal artist based in Romania, with 199 gigs on soundche
 - The Cause, London · Sat, 12 Sept 2026
 - Auditorium Parco della Musica, Rome · Sat, 12 Sept 2026
 - DC-10, Ibiza · Mon, 7 Sept 2026
-- TBA - Boschetti Reali Monza , Milan · Thu, 3 Sept 2026
 
 ## Shares bills with
 
 Petre Inspirescu, Rhadoo, Ricardo Villalobos
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raresh/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raresh/)*

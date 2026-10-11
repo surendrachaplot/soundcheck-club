@@ -1,6 +1,6 @@
 # Bertha
 
-Bertha is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Kultur Lounge, Saxony-anhalt on Sat, 19 Dec 2026.
+Bertha is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Kultur Lounge, Saxony-anhalt on Sat, 19 Dec 2026.
 
 Bertha is a house and techno artist based in Germany, with 16 gigs on soundcheck across Berlin, Hamburg, Leipzig and Saxony Anhalt. Often billed alongside Moon In My Pocket, Thyrie and :MUMM. Next up: Kultur Lounge, Saxony Anhalt on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Bertha is a house and techno artist based in Germany, with 16 gigs on soundcheck
 
 Moon In My Pocket, Thyrie, :MUMM
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bertha/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bertha/)*

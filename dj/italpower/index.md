@@ -1,19 +1,19 @@
 # Ital Power
 
-Ital Power is a Dub and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Zoo, Geneva on Sat, 10 Oct 2026.
+Ital Power is a Dub and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at control, Bucharest on Sat, 7 Nov 2026.
 
-Ital Power is a dub and dubstep artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam, Bristol, Bucharest and Geneva and 2 more. Often billed alongside Mantra, Blackeye MC and Iration Steppas. Next up: Zoo, Geneva on Sat 10 Oct.
+Ital Power is a dub and dubstep artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam, Bristol, Bucharest and Geneva and 2 more. Often billed alongside Mantra, Blackeye MC and Iration Steppas. Next up: control, Bucharest on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Zoo | Geneva |
 | Sat, 7 Nov 2026 | control | Bucharest |
 | Fri, 4 Dec 2026 | Lofi | Amsterdam |
 
 ## Recently played
 
+- Zoo, Geneva · Sat, 10 Oct 2026
 - Beaver Works, Leeds · Sat, 3 Oct 2026
 - The Dominion Centre, London · Sat, 15 Aug 2026
 - Distillery N17, London · Fri, 20 Mar 2026
@@ -21,10 +21,9 @@ Ital Power is a dub and dubstep artist based in United Kingdom, with 14 gigs on 
 - Crystal Club, London · Fri, 22 Aug 2025
 - The Jazz Cafe, London · Fri, 23 May 2025
 - The Jazz Cafe, London · Fri, 2 May 2025
-- The Trinity Centre, Bristol · Fri, 25 Apr 2025
 
 ## Shares bills with
 
 Mantra, Blackeye MC, Iration Steppas
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/italpower/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/italpower/)*

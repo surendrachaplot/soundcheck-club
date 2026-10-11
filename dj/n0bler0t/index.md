@@ -1,6 +1,6 @@
 # N0BLE R0T
 
-N0BLE R0T is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Studionotte, Milan on Fri, 16 Oct 2026.
+N0BLE R0T is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Studionotte, Milan on Fri, 16 Oct 2026.
 
 N0BLE R0T is a house and electronica artist based in Italy, with 24 gigs on soundcheck across Berlin, London, Milan and New York City and 1 more. Often billed alongside Marais, Vithz and le0j. Next up: Studionotte, Milan on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ N0BLE R0T is a house and electronica artist based in Italy, with 24 gigs on soun
 
 Marais, Vithz, le0j
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n0bler0t/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n0bler0t/)*

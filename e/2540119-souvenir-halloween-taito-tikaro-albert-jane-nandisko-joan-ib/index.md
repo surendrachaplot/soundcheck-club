@@ -1,6 +1,6 @@
-# SOUVENIR Halloween [Taito Tikaro, Albert Jane, Nandisko, Joan Ibañez & Javi Always]] at M7 Club
+# SOUVENIR Halloween [Taito Tikaro, Albert Jane, Nandisko, Joan Ibañez & Javi Always] at M7 Club
 
-SOUVENIR Halloween [Taito Tikaro, Albert Jane, Nandisko, Joan Ibañez & Javi Always]] at M7 Club on Sat 31 Oct, Barcelona. 1 artist: Nandisko. Progressive House and House. See the line-up on soundcheck.
+SOUVENIR Halloween [Taito Tikaro, Albert Jane, Nandisko, Joan Ibañez & Javi Always] at M7 Club on Sat 31 Oct, Barcelona. 1 artist: Nandisko. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

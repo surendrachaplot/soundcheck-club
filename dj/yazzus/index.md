@@ -1,19 +1,19 @@
 # Yazzus
 
-Yazzus is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at BASEMENT, New York City on Sat, 10 Oct 2026.
+Yazzus is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 16 Oct 2026.
 
-Yazzus is a techno and house artist based in United Kingdom, with 171 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 42 more. Often billed alongside DJ TOOL, Hyperaktivist and D.Dan. Next up: BASEMENT, New York City on Sat 10 Oct.
+Yazzus is a techno and house artist based in United Kingdom, with 171 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 42 more. Often billed alongside DJ TOOL, Hyperaktivist and D.Dan. Next up: Ankali & Planeta Za, Prague on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | BASEMENT | New York City |
 | Fri, 16 Oct 2026 | Ankali & Planeta Za | Prague |
 | Sun, 18 Oct 2026 | Fitzroy | Berlin |
 
 ## Recently played
 
+- BASEMENT, New York City · Sat, 10 Oct 2026
 - TBA - 4211 Todd Ln Suite A, Austin · Fri, 9 Oct 2026
 - Low Profile Studios, London · Sat, 26 Sept 2026
 - Phantom Bar Berlin, Berlin · Sat, 19 Sept 2026
@@ -21,10 +21,9 @@ Yazzus is a techno and house artist based in United Kingdom, with 171 gigs on so
 - RSO.BERLIN, Berlin · Sat, 22 Aug 2026
 - Roof Terrace BK, New York City · Sun, 16 Aug 2026
 - Nowadays, New York City · Sat, 8 Aug 2026
-- CLUB RAUM, Amsterdam · Fri, 31 Jul 2026
 
 ## Shares bills with
 
 DJ TOOL, Hyperaktivist, D.Dan
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yazzus/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yazzus/)*

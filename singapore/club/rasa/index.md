@@ -1,6 +1,6 @@
 # RASA
 
-RASA is a music venue in Singapore with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "RASA x Sivilian Affairs: Chocolate City" on Fri, 16 Oct 2026.
+RASA is a music venue in Singapore with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "RASA x Sivilian Affairs: Chocolate City" on Fri, 16 Oct 2026.
 
 RASA is a music venue in Singapore listed on soundcheck. 6 upcoming gigs, with line-ups including Alam, beansclub, Erwin Linden and goneMUNE and 2 more. See dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ RASA is a music venue in Singapore listed on soundcheck. 6 upcoming gigs, with l
 | Sat, 7 Nov 2026 | Lee Burridge - Singapore 2026 | Lee Burridge |
 | Sat, 7 Nov 2026 | Collective Minds Asia presents Lee Burridge at RASA Space | Lee Burridge |
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/rasa/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/rasa/)*

@@ -1,6 +1,6 @@
 # Martin Balladares
 
-Martin Balladares is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Cadavra, Madrid on Sat, 31 Oct 2026.
+Martin Balladares is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Cadavra, Madrid on Sat, 31 Oct 2026.
 
 Martin Balladares is an electronica and house artist based in Spain, with 14 gigs on soundcheck across Madrid. Often billed alongside Foie Gras, Tania Vulcano and AGELESS. Next up: Cadavra, Madrid on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Martin Balladares is an electronica and house artist based in Spain, with 14 gig
 
 Foie Gras, Tania Vulcano, AGELESS
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinballadares/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinballadares/)*

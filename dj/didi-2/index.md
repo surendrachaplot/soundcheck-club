@@ -1,6 +1,6 @@
 # DiDi (2)
 
-DiDi (2) is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at John Doe, Amsterdam on Tue, 13 Oct 2026.
+DiDi (2) is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at John Doe, Amsterdam on Tue, 13 Oct 2026.
 
 DiDi is a garage and house artist based in France, with 45 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Ghent and 6 more. Often billed alongside Phoebe, Raz (IT) and Cardiac. Next up: John Doe, Amsterdam on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ DiDi is a garage and house artist based in France, with 45 gigs on soundcheck ac
 
 Phoebe (1), Raz (IT), Cardiac
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/didi-2/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/didi-2/)*

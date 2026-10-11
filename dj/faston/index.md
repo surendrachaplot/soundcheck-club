@@ -1,6 +1,6 @@
 # FASTON
 
-FASTON is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Gallery, London on Fri, 20 Nov 2026.
+FASTON is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Gallery, London on Fri, 20 Nov 2026.
 
 FASTON is a house and tech house artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Klato, Saumac and dj mush. Next up: Gallery, London on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ FASTON is a house and tech house artist based in United Kingdom, with 7 gigs on 
 
 Klato, Saumac, dj mush
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faston/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faston/)*

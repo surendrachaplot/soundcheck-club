@@ -1,18 +1,18 @@
 # Waajeed
 
-Waajeed is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at BAR Inc, Osaka on Sat, 10 Oct 2026.
+Waajeed is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TV Lounge, Detroit on Sat, 7 Nov 2026.
 
-Waajeed is a house and techno artist based in United States of America, with 71 gigs on soundcheck across Austin, Bali, Bangkok and Barcelona and 24 more. Often billed alongside LADYMONIX, Carl Craig and DJ Holographic. Next up: BAR Inc, Osaka on Sat 10 Oct.
+Waajeed is a house and techno artist based in United States of America, with 71 gigs on soundcheck across Austin, Bali, Bangkok and Barcelona and 24 more. Often billed alongside LADYMONIX, Carl Craig and DJ Holographic. Next up: TV Lounge, Detroit on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | BAR Inc | Osaka |
 | Sat, 7 Nov 2026 | TV Lounge | Detroit |
 
 ## Recently played
 
+- BAR Inc, Osaka · Sat, 10 Oct 2026
 - Tangent Gallery, Detroit · Sat, 3 Oct 2026
 - Jaeger, Oslo · Fri, 2 Oct 2026
 - TBA - Los Angeles, Los Angeles · Fri, 19 Jun 2026
@@ -20,10 +20,9 @@ Waajeed is a house and techno artist based in United States of America, with 71 
 - Lincoln Factory, Detroit · Sat, 23 May 2026
 - Spot Lite Detroit, Detroit · Sat, 23 May 2026
 - Centre PHI, Montreal · Fri, 15 May 2026
-- TBA - MJ’s North End Ice Cream Parlor, Detroit · Fri, 1 May 2026
 
 ## Shares bills with
 
 LADYMONIX, Carl Craig, DJ Holographic
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waajeed/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waajeed/)*

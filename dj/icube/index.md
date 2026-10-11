@@ -1,6 +1,6 @@
 # I:Cube
 
-I:Cube is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at FOLD, London on Sat, 17 Oct 2026.
+I:Cube is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at FOLD, London on Sat, 17 Oct 2026.
 
 I:Cube is a house and techno artist based in France, with 9 gigs on soundcheck across Amsterdam, London, Paris and Strasbourg. Often billed alongside Gilb'R, Ivan Smagghe and Bufiman. Next up: FOLD, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ I:Cube is a house and techno artist based in France, with 9 gigs on soundcheck a
 
 Gilb'R, Ivan Smagghe, Bufiman
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icube/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icube/)*

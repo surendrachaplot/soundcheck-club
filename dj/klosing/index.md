@@ -1,6 +1,6 @@
 # Klosing
 
-Klosing is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Final, Taipei on Sat, 24 Oct 2026.
+Klosing is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Final, Taipei on Sat, 24 Oct 2026.
 
 Klosing is a house and techno artist based in Taiwan, with 10 gigs on soundcheck across Bangkok, Berlin, Hong Kong and Istanbul and 4 more. Often billed alongside Koliseum, 77Mushrooms and Jeremy Cheung. Next up: Final, Taipei on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Klosing is a house and techno artist based in Taiwan, with 10 gigs on soundcheck
 
 Koliseum, 77Mushrooms, Jeremy Cheung
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klosing/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klosing/)*

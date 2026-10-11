@@ -1,6 +1,6 @@
 # Alex Stein
 
-Alex Stein is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - WAREHOUSE, Arizona on Fri, 16 Oct 2026.
+Alex Stein is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - WAREHOUSE, Arizona on Fri, 16 Oct 2026.
 
 Alex Stein is a techno and tech house artist based in Germany, with 69 gigs on soundcheck across Amsterdam, Antwerp, Arizona and Barcelona and 30 more. Often billed alongside Victor Ruiz, Maurice Mino and AM.I. Next up: TBA - WAREHOUSE, Arizona on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ Alex Stein is a techno and tech house artist based in Germany, with 69 gigs on s
 
 Victor Ruiz, Maurice Mino, AM.I
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexstein/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexstein/)*

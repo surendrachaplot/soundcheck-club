@@ -1,6 +1,6 @@
 # mance
 
-mance is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Bar IDA, Tallinn on Fri, 16 Oct 2026.
+mance is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Bar IDA, Tallinn on Fri, 16 Oct 2026.
 
 mance is a house and garage artist based in Netherlands, with 31 gigs on soundcheck across Amsterdam, Dublin, Edinburgh and London and 5 more. Often billed alongside Silva Bumpa, Benny2 and De Sluwe Vos. Next up: Bar IDA, Tallinn on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ mance is a house and garage artist based in Netherlands, with 31 gigs on soundch
 
 Silva Bumpa, Benny2, De Sluwe Vos
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mance/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mance/)*

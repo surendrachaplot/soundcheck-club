@@ -1,14 +1,13 @@
 # New Century Locker
 
-New Century Locker is a music venue in Manchester with 16 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Logic1000" on Sat, 10 Oct 2026.
+New Century Locker is a music venue in Manchester with 15 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Takuya Nakamura (Live), edv3ctor & RHI" on Fri, 16 Oct 2026.
 
-New Century Locker is a music venue in Manchester listed on soundcheck. 16 upcoming gigs, with line-ups including Bimini, Decius, Dennis Bovell and edv3ctor and 2 more. See dates, start times and who's playing. 34 Hanover St Manchester M4 4AH.
+New Century Locker is a music venue in Manchester listed on soundcheck. 15 upcoming gigs, with line-ups including Bimini, Decius, Dennis Bovell and edv3ctor and 2 more. See dates, start times and who's playing. 34 Hanover St Manchester M4 4AH.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Logic1000 | Logic1000 |
 | Fri, 16 Oct 2026 | Takuya Nakamura (Live), edv3ctor & RHI | Takuya Nakamura, edv3ctor |
 | Fri, 16 Oct 2026 | 20 Years of Massimiliano Pagliara | Massimiliano Pagliara |
 | Sat, 17 Oct 2026 | Jeans and A Nice Top |  |
@@ -18,9 +17,10 @@ New Century Locker is a music venue in Manchester listed on soundcheck. 16 upcom
 | Fri, 6 Nov 2026 | Two Shell | Two Shell |
 | Sat, 7 Nov 2026 | Soichi Terada presents Sumo x Apes | Soichi Terada |
 | Fri, 13 Nov 2026 | Mad Professor + Dennis Bovell | Dennis Bovell, Mad Professor |
+| Sat, 14 Nov 2026 | Azadi: ZAINAB, JD Reid + Me Gusta | JD. REID, ZEEMUFFIN |
 
 ## Address
 
 34 Hanover St Manchester M4 4AH, Manchester
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/new-century-locker/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/new-century-locker/)*

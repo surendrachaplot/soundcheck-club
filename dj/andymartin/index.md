@@ -1,6 +1,6 @@
 # Andy Martin
 
-Andy Martin is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at FOLD, London on Sat, 10 Oct 2026.
+Andy Martin is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at FOLD, London on Sat, 10 Oct 2026.
 
 Andy Martin is a techno and house artist based in Mexico, with 79 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside Niño Arbol, Ogazón and Rene Wise. Next up: FOLD, London on Sat 10 Oct.
 
@@ -21,6 +21,7 @@ Andy Martin is a techno and house artist based in Mexico, with 79 gigs on soundc
 
 ## Recently played
 
+- FOLD, London · Sat, 10 Oct 2026
 - Lux Fragil, Lisbon · Fri, 9 Oct 2026
 - The Loom, San Francisco/Oakland · Fri, 2 Oct 2026
 - Nowadays, New York City · Sat, 26 Sept 2026
@@ -28,10 +29,9 @@ Andy Martin is a techno and house artist based in Mexico, with 79 gigs on soundc
 - TBA, Montreal · Sun, 20 Sept 2026
 - TBA - Downtown, Los Angeles · Sat, 19 Sept 2026
 - Process PDX, Portland · Fri, 18 Sept 2026
-- Camp Kennybrook, New York City · Thu, 10 Sept 2026
 
 ## Shares bills with
 
 Niño Arbol, Ogazón, Rene Wise
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*

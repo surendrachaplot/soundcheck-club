@@ -1,6 +1,6 @@
 # Patrick Mason
 
-Patrick Mason is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
+Patrick Mason is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
 
 Patrick Mason is a techno and house artist based in Germany, with 277 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 76 more. Often billed alongside Héctor Oaks, 999999999 and I Hate Models. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
 
@@ -19,6 +19,7 @@ Patrick Mason is a techno and house artist based in Germany, with 277 gigs on so
 
 ## Recently played
 
+- Auditorio Málaga Cortijo de Torres, South · Sat, 10 Oct 2026
 - fi, Cologne · Sat, 3 Oct 2026
 - Cité du Cinéma, Paris · Fri, 2 Oct 2026
 - Etko, Cyprus · Fri, 25 Sept 2026
@@ -26,10 +27,9 @@ Patrick Mason is a techno and house artist based in Germany, with 277 gigs on so
 - Sub Club, Glasgow · Thu, 24 Sept 2026
 - Gare Porto, Porto · Sun, 20 Sept 2026
 - Mondo Open Air, Madrid · Sat, 19 Sept 2026
-- Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Héctor Oaks, 999999999, I Hate Models
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmason/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmason/)*

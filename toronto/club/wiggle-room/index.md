@@ -1,14 +1,13 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 13 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "BOH Anniversary: Junior Lopez & Corrado Q | 4AM LAST CALL" on Sat, 10 Oct 2026.
+Wiggle Room is a music venue in Toronto with 12 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Sunday SerVice: Thanksgiving FamJam [Extended Event] | 4AM LAST CALL" on Sun, 11 Oct 2026.
 
-Wiggle Room is a music venue in Toronto listed on soundcheck. 13 upcoming gigs, with line-ups including Addy, Barroness, Cozmic Cat and David Herrero and 2 more. See dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
+Wiggle Room is a music venue in Toronto listed on soundcheck. 12 upcoming gigs, with line-ups including Addy, Barroness, Cozmic Cat and David Herrero and 2 more. See dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | BOH Anniversary: Junior Lopez & Corrado Q / 4AM LAST CALL | Junior Lopez |
 | Sun, 11 Oct 2026 | Sunday SerVice: Thanksgiving FamJam [Extended Event] / 4AM LAST CALL | Barroness, David Herrero, Dick Diamonds, Manzone & Strong, Miz Megs, Nour (CAN), TAKiN, Tyler Hill |
 | Fri, 16 Oct 2026 | Dance Division 17 - Nour's bday edition | Barroness, Dick Diamonds, Nour (CAN), Tyler Hill |
 | Sat, 17 Oct 2026 | DJ Heather b2b COLETTE [All Night Long] - House of OM 20th Anniversary Tour | DJ Colette, DJ Heather, Mr. Haze |
@@ -18,9 +17,10 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 13 upcoming gigs, 
 | Sun, 25 Oct 2026 | Sunday SerVice: MAXIMILIANO [DC] - Manzone & Strong / 4AM LAST CALL | Barroness, MAXIMILIANO (US), Manzone & Strong |
 | Sat, 31 Oct 2026 | WiGGLEWEEN + Afterparty [10pm-7am] | Barroness, Manzone & Strong, Miz Megs, Nour (CAN), TAKiN, Tyler Hill |
 | Sun, 1 Nov 2026 | Sunday SerVice: Manzone & Strong - Addy / 4AM LAST CALL | Addy, Manzone & Strong, Mike Dunn |
+| Sat, 7 Nov 2026 | Madam Wiggle's Annual Unicorn Party | Barroness, Dick Diamonds, Nathan Barato, Nour (CAN), TAKiN, Tyler Hill |
 
 ## Address
 
 772 Dundas St W, Toronto, ON M6J 1V1, Canada, Toronto
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*

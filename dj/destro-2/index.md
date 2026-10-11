@@ -1,6 +1,6 @@
 # Destro (2)
 
-Destro (2) is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at FOLD, London on Sat, 19 Dec 2026.
+Destro (2) is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at FOLD, London on Sat, 19 Dec 2026.
 
 Destro is an acid and techno artist, with 9 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Dublin and 3 more. Often billed alongside Aaron Liberator, Cambric and Giuliano Porcelli. Next up: FOLD, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Destro is an acid and techno artist, with 9 gigs on soundcheck across Amsterdam,
 
 Aaron Liberator, Cambric, Giuliano Porcelli
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/destro-2/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/destro-2/)*

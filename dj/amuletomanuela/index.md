@@ -1,6 +1,6 @@
 # Amuleto Manuela
 
-Amuleto Manuela is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Sameheads, Berlin on Thu, 15 Oct 2026.
+Amuleto Manuela is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Sameheads, Berlin on Thu, 15 Oct 2026.
 
 Amuleto Manuela is a disco and funk / soul artist based in Colombia, with 23 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Calamidades Lola, Coco Maria and El Vago. Next up: Sameheads, Berlin on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Amuleto Manuela is a disco and funk / soul artist based in Colombia, with 23 gig
 
 Calamidades Lola, Coco Maria, El Vago
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amuletomanuela/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amuletomanuela/)*

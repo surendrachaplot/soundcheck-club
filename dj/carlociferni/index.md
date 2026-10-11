@@ -1,6 +1,6 @@
 # Carlo Ciferni
 
-Carlo Ciferni is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Fri, 16 Oct 2026.
+Carlo Ciferni is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Fri, 16 Oct 2026.
 
 Carlo Ciferni is a techno and hardcore artist based in Italy, with 15 gigs on soundcheck across Lisbon and Rome. Often billed alongside Jalex, NOTAX (IT) and Veronique. Next up: Soap House - Ex Saponerie Mira Lanza, Rome on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Carlo Ciferni is a techno and hardcore artist based in Italy, with 15 gigs on so
 
 Jalex, NOTAX (IT), Veronique
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlociferni/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlociferni/)*

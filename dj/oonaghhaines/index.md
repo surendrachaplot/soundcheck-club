@@ -1,14 +1,13 @@
 # Oonagh Haines
 
-Oonagh Haines is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Lavallée, Brussels on Fri, 9 Oct 2026.
+Oonagh Haines is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Lyon - Confluence, Lyon on Wed, 9 Dec 2026.
 
-Oonagh Haines is a techno and electro artist based in Belgium, with 10 gigs on soundcheck across Brussels, Lyon, Paris and Rennes. Often billed alongside Antilogic, 700 BLISS and Able Noise. Next up: Lavallée, Brussels on Fri 9 Oct.
+Oonagh Haines is a techno and electro artist based in Belgium, with 10 gigs on soundcheck across Brussels, Lyon, Paris and Rennes. Often billed alongside Antilogic, 700 BLISS and Able Noise. Next up: TBA - Lyon - Confluence, Lyon on Wed 9 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Lavallée | Brussels |
 | Wed, 9 Dec 2026 | TBA - Lyon - Confluence | Lyon |
 
 ## Recently played
@@ -26,4 +25,4 @@ Oonagh Haines is a techno and electro artist based in Belgium, with 10 gigs on s
 
 Antilogic, 700 BLISS, Able Noise
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oonaghhaines/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oonaghhaines/)*

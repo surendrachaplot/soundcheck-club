@@ -1,6 +1,6 @@
 # Harbour Music Shelter
 
-Harbour Music Shelter is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Harbour Sundaze with Whitenoise" on Sun, 11 Oct 2026.
+Harbour Music Shelter is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Harbour Sundaze with Whitenoise" on Sun, 11 Oct 2026.
 
 Harbour Music Shelter is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, with line-ups including Helio, Tiago and Whitenoise (PT). See dates, start times and who's playing. Cais do Gás Armazém A 1900-109 Lisboa, Portugal.
 
@@ -15,4 +15,4 @@ Harbour Music Shelter is a music venue in Lisbon listed on soundcheck. 2 upcomin
 
 Cais do Gás Armazém A 1900-109 Lisboa, Portugal, Lisbon
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/harbour-music-shelter/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/harbour-music-shelter/)*

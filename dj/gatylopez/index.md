@@ -1,6 +1,6 @@
 # Gaty Lopez
 
-Gaty Lopez is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Pacha Hotel, Ibiza on Sun, 11 Oct 2026.
+Gaty Lopez is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Pacha Hotel, Ibiza on Sun, 11 Oct 2026.
 
 Gaty Lopez is a deep house and house artist, with 155 gigs on soundcheck across Ibiza. Next up: Pacha Hotel, Ibiza on Sun 11 Oct.
 
@@ -21,4 +21,4 @@ Gaty Lopez is a deep house and house artist, with 155 gigs on soundcheck across 
 - Destino Ibiza, Ibiza · Mon, 5 Oct 2026
 - Pacha Hotel, Ibiza · Sun, 4 Oct 2026
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gatylopez/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gatylopez/)*

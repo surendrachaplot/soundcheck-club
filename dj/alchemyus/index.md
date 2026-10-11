@@ -1,6 +1,6 @@
 # Alchemy (US)
 
-Alchemy (US) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at H0L0, New York City on Wed, 21 Oct 2026.
+Alchemy (US) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at H0L0, New York City on Wed, 21 Oct 2026.
 
 Alchemy (US) is a techno and club artist based in Jamaica, with 10 gigs on soundcheck across Montreal and New York City. Often billed alongside Lexicon, Zillion and AG. Next up: H0L0, New York City on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Alchemy (US) is a techno and club artist based in Jamaica, with 10 gigs on sound
 
 Lexicon, Zillion, AG (1)
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alchemyus/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alchemyus/)*

@@ -1,6 +1,6 @@
 # Rosati
 
-Rosati is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 17 Oct 2026.
+Rosati is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 17 Oct 2026.
 
 Rosati is a techno and house artist based in Netherlands, with 86 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 21 more. Often billed alongside Steffi, Comrade Winston and DVS1. Next up: Tresor / Globus, Berlin on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Rosati is a techno and house artist based in Netherlands, with 86 gigs on soundc
 
 Steffi, Comrade Winston, DVS1
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosati/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosati/)*

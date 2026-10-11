@@ -1,6 +1,6 @@
 # Chancellor Room
 
-Chancellor Room is a music venue in Philadelphia with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. The next is "HOLOween" on Fri, 23 Oct 2026.
+Chancellor Room is a music venue in Philadelphia with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "HOLOween" on Fri, 23 Oct 2026.
 
 Chancellor Room is a music venue in Philadelphia listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 1225 Chancellor Street, Philadelphia, PA, 19107.
 
@@ -14,4 +14,4 @@ Chancellor Room is a music venue in Philadelphia listed on soundcheck. 1 upcomin
 
 1225 Chancellor Street, Philadelphia, PA, 19107, Philadelphia
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/chancellor-room/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/chancellor-room/)*

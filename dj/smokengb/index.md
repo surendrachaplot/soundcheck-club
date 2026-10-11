@@ -1,6 +1,6 @@
 # Smoke NGB
 
-Smoke NGB is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Egg London, London on Sat, 17 Oct 2026.
+Smoke NGB is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Egg London, London on Sat, 17 Oct 2026.
 
 Smoke NGB is a house and tech house artist, with 32 gigs on soundcheck across London. Often billed alongside Beezo, JAYDAA and Ricky Sahota. Next up: Egg London, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Smoke NGB is a house and tech house artist, with 32 gigs on soundcheck across Lo
 
 Beezo, JAYDAA, Ricky Sahota
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smokengb/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smokengb/)*

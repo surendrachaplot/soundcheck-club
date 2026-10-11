@@ -1,6 +1,6 @@
 # Wingnut
 
-Wingnut is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Djargurd Wurrong Country (Victoria, Australia), Melbourne on Fri, 26 Mar 2027.
+Wingnut is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Djargurd Wurrong Country (Victoria, Australia), Melbourne on Fri, 26 Mar 2027.
 
 Wingnut is a techno and experimental artist based in Australia, with 16 gigs on soundcheck across Melbourne and Sydney. Often billed alongside D-Grade, Paramat and Paramat. Next up: TBA - Djargurd Wurrong Country (Victoria, Australia), Melbourne on Fri 26 Mar.
 
@@ -25,4 +25,4 @@ Wingnut is a techno and experimental artist based in Australia, with 16 gigs on 
 
 D-Grade, Paramat, Paramat (2)
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wingnut/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wingnut/)*

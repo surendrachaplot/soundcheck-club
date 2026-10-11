@@ -1,6 +1,6 @@
 # Lil Texas
 
-Lil Texas is a Hardcore and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Arrowhead, Alberta on Fri, 23 Oct 2026.
+Lil Texas is a Hardcore and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Arrowhead, Alberta on Fri, 23 Oct 2026.
 
 Lil Texas is a hardcore and techno artist based in United States of America, with 52 gigs on soundcheck across Alberta, Barcelona, Berlin and Brussels and 31 more. Often billed alongside Angerfist, Mad Dog and NAMARA. Next up: Arrowhead, Alberta on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Lil Texas is a hardcore and techno artist based in United States of America, wit
 
 Angerfist, Mad Dog, NAMARA
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liltexas/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liltexas/)*

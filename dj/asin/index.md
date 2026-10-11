@@ -1,8 +1,8 @@
 # ASIN
 
-ASIN is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at WOMB, Tokyo on Wed, 21 Oct 2026.
+ASIN is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at WOMB, Tokyo on Wed, 21 Oct 2026.
 
-ASIN is a techno and industrial artist based in Japan, with 13 gigs on soundcheck across Seoul and Tokyo. Often billed alongside YOXIKI, CHIKA and YURI VALEN. Next up: WOMB, Tokyo on Wed 21 Oct.
+ASIN is a techno and industrial artist based in Japan, with 13 gigs on soundcheck across Seoul and Tokyo. Often billed alongside YOXIKI, CHIKA and bloodymarii. Next up: WOMB, Tokyo on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ ASIN is a techno and industrial artist based in Japan, with 13 gigs on soundchec
 
 ## Shares bills with
 
-YOXIKI, CHIKA, YURI VALEN
+YOXIKI, CHIKA, bloodymarii
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asin/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asin/)*

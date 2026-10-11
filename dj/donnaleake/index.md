@@ -1,6 +1,6 @@
 # Donna Leake
 
-Donna Leake is a Jazz and Dub artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Om Being, London on Sat, 17 Oct 2026.
+Donna Leake is a Jazz and Dub artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Om Being, London on Sat, 17 Oct 2026.
 
 Donna Leake is a jazz and dub artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Haseeb Iqbal, Konduku and Suze Ijó. Next up: Om Being, London on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Donna Leake is a jazz and dub artist based in United Kingdom, with 85 gigs on so
 
 Haseeb Iqbal, Konduku, Suze Ijó
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donnaleake/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donnaleake/)*

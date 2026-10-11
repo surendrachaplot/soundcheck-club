@@ -1,14 +1,13 @@
 # La Cova
 
-La Cova is a music venue in Hamburg with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "La Cova Loca" on Sat, 10 Oct 2026.
+La Cova is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "La Cova Loca" on Sat, 17 Oct 2026.
 
-La Cova is a music venue in Hamburg listed on soundcheck. 6 upcoming gigs, with line-ups including AH-N!CE, doesn't matter, Dollushka and Eva Nyx and 2 more. See dates, start times and who's playing. Reeperbahn 152, 20359 Hamburg.
+La Cova is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, with line-ups including AH-N!CE, doesn't matter, Dollushka and Eva Nyx and 2 more. See dates, start times and who's playing. Reeperbahn 152, 20359 Hamburg.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | La Cova Loca | Sylvie Maziarz |
 | Sat, 17 Oct 2026 | La Cova Loca | AH-N!CE |
 | Sat, 24 Oct 2026 | DURO by La Cova | Dollushka |
 | Fri, 30 Oct 2026 | Circus Fantasy Ballz by La Cova | Spikey Lee, doesn't matter (2) |
@@ -19,4 +18,4 @@ La Cova is a music venue in Hamburg listed on soundcheck. 6 upcoming gigs, with 
 
 Reeperbahn 152, 20359 Hamburg, Hamburg
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/la-cova/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/la-cova/)*

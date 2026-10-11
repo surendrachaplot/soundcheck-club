@@ -1,6 +1,6 @@
 # Von Bikräv
 
-Von Bikräv is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Virage, Paris on Fri, 16 Oct 2026.
+Von Bikräv is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Virage, Paris on Fri, 16 Oct 2026.
 
 Von Bikräv is a techno and hardcore artist based in France, with 43 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 15 more. Often billed alongside Lolalita, KimberlaID and Paul Seul. Next up: Virage, Paris on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Von Bikräv is a techno and hardcore artist based in France, with 43 gigs on sou
 
 Lolalita, KimberlaID, Paul Seul
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vonbikrav/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vonbikrav/)*

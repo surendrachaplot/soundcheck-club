@@ -1,6 +1,6 @@
 # Particles
 
-Particles is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Şahika, Istanbul on Fri, 23 Oct 2026.
+Particles is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Şahika, Istanbul on Fri, 23 Oct 2026.
 
 Particles is a garage and bass artist based in Turkey, with 20 gigs on soundcheck across Istanbul, Izmir, London and Manchester and 1 more. Often billed alongside Murteza, Rectør and Chunky. Next up: Şahika, Istanbul on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Particles is a garage and bass artist based in Turkey, with 20 gigs on soundchec
 
 Murteza, Rectør, Chunky
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/particles/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/particles/)*

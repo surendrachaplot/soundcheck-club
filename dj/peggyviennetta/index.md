@@ -1,18 +1,18 @@
 # Peggy Viennetta
 
-Peggy Viennetta is a Hardcore and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The White Hotel, Manchester on Sat, 10 Oct 2026.
+Peggy Viennetta is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The DBA, Manchester on Fri, 30 Oct 2026.
 
-Peggy Viennetta is a hardcore and trance artist based in United Kingdom, with 58 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 14 more. Often billed alongside Trancey Beaker, DJ Fingerblast and Holly Warcup. Next up: The White Hotel, Manchester on Sat 10 Oct.
+Peggy Viennetta is a hardcore and trance artist based in United Kingdom, with 58 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 14 more. Often billed alongside Trancey Beaker, DJ Fingerblast and Holly Warcup. Next up: The DBA, Manchester on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | The White Hotel | Manchester |
 | Fri, 30 Oct 2026 | The DBA | Manchester |
 
 ## Recently played
 
+- The White Hotel, Manchester · Sat, 10 Oct 2026
 - Distillery N17, London · Sat, 3 Oct 2026
 - Green Works, Bristol · Sat, 1 Aug 2026
 - M.O.T, London · Fri, 24 Jul 2026
@@ -20,10 +20,9 @@ Peggy Viennetta is a hardcore and trance artist based in United Kingdom, with 58
 - Triangle, Osaka · Fri, 8 May 2026
 - Metropolis, London · Sun, 5 Apr 2026
 - Sala Siroco, Madrid · Thu, 2 Apr 2026
-- Volks, Brighton · Fri, 6 Feb 2026
 
 ## Shares bills with
 
 Trancey Beaker, DJ Fingerblast, Holly Warcup
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peggyviennetta/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peggyviennetta/)*

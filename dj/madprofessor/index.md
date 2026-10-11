@@ -1,6 +1,6 @@
 # Mad Professor
 
-Mad Professor is a Dub and Bass artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
+Mad Professor is a Dub and Bass artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
 
 Mad Professor is a dub and bass artist based in United Kingdom, with 72 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 37 more. Often billed alongside DjRUM, Tash LC and Arsenal Mikebe. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
 
@@ -17,6 +17,7 @@ Mad Professor is a dub and bass artist based in United Kingdom, with 72 gigs on 
 
 ## Recently played
 
+- Empire Polo Club, Palm-springs · Sat, 10 Oct 2026
 - Blå, Oslo · Sat, 26 Sept 2026
 - Quinta Mira Rio, Lisbon · Fri, 25 Sept 2026
 - Bunker, Turin · Fri, 18 Sept 2026
@@ -24,10 +25,9 @@ Mad Professor is a dub and bass artist based in United Kingdom, with 72 gigs on 
 - Fidelity Studio, Dublin · Thu, 20 Aug 2026
 - Colour Factory, London · Sat, 8 Aug 2026
 - Circle Park, Brussels · Sat, 25 Jul 2026
-- Standard Time, Toronto · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 DjRUM, Tash LC, Arsenal Mikebe
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madprofessor/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madprofessor/)*

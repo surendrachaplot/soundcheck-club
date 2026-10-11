@@ -1,6 +1,6 @@
 # The Castle
 
-The Castle is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Heavy Sonics presents: GENIC" on Fri, 16 Oct 2026.
+The Castle is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Heavy Sonics presents: GENIC" on Fri, 16 Oct 2026.
 
 The Castle is a music venue in London listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 44 Commercial Road; Whitechapel; London E1 1LN; United Kingdom.
 
@@ -16,4 +16,4 @@ The Castle is a music venue in London listed on soundcheck. 3 upcoming gigs. See
 
 44 Commercial Road; Whitechapel; London E1 1LN; United Kingdom, London
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-castle/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-castle/)*

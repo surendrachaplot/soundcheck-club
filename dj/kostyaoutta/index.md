@@ -1,6 +1,6 @@
 # Kostya Outta
 
-Kostya Outta is a Progressive House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Wed, 21 Oct 2026.
+Kostya Outta is a Progressive House and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Wed, 21 Oct 2026.
 
 Kostya Outta is a progressive house and house artist based in Poland, with 24 gigs on soundcheck across Amsterdam, Madrid, Malaga and Malta and 9 more. Often billed alongside Alísha, Angelo Mike and Bryan Wolf Ear. Next up: Kadinsky Cafe, Amsterdam on Wed 21 Oct.
 
@@ -28,4 +28,4 @@ Kostya Outta is a progressive house and house artist based in Poland, with 24 gi
 
 Alísha, Angelo Mike, Bryan Wolf Ear
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kostyaoutta/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kostyaoutta/)*

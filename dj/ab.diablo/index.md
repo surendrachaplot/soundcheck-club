@@ -1,6 +1,6 @@
 # Ab.Diablo
 
-Ab.Diablo is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Ormside Projects, London on Sat, 24 Oct 2026.
+Ab.Diablo is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Ormside Projects, London on Sat, 24 Oct 2026.
 
 Ab.Diablo is a club and ghetto tech artist based in United Kingdom, with 21 gigs on soundcheck across London. Often billed alongside VIRI$$, WAAW and Mahnoor. Next up: Ormside Projects, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ab.Diablo is a club and ghetto tech artist based in United Kingdom, with 21 gigs
 
 VIRI$$, WAAW, Mahnoor
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ab.diablo/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ab.diablo/)*

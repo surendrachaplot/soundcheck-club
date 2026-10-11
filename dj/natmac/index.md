@@ -1,6 +1,6 @@
 # NATMAC
 
-NATMAC is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at The Pav, Cork on Sat, 17 Oct 2026.
+NATMAC is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The Pav, Cork on Sat, 17 Oct 2026.
 
 NATMAC is a bass and garage artist, with 38 gigs on soundcheck across Belfast, Cork and Dublin. Often billed alongside James Abjure, 2step.png and Frame Shift. Next up: The Pav, Cork on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ NATMAC is a bass and garage artist, with 38 gigs on soundcheck across Belfast, C
 
 James Abjure, 2step.png, Frame Shift
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natmac/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natmac/)*

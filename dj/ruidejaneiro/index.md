@@ -1,18 +1,18 @@
 # Rui de Janeiro
 
-Rui de Janeiro is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Beate Uwe, Berlin on Sat, 10 Oct 2026.
+Rui de Janeiro is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Das Werk, Vienna on Fri, 30 Oct 2026.
 
-Rui de Janeiro is a techno and tech house artist based in Austria, with 29 gigs on soundcheck across Berlin and Vienna. Often billed alongside Farbod, Ainhoa G and Arman Shadow. Next up: Beate Uwe, Berlin on Sat 10 Oct.
+Rui de Janeiro is a techno and tech house artist based in Austria, with 29 gigs on soundcheck across Berlin and Vienna. Often billed alongside Farbod, Ainhoa G and Arman Shadow. Next up: Das Werk, Vienna on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Beate Uwe | Berlin |
 | Fri, 30 Oct 2026 | Das Werk | Vienna |
 
 ## Recently played
 
+- Beate Uwe, Berlin · Sat, 10 Oct 2026
 - FLUCC, Vienna · Sat, 12 Sept 2026
 - FLUCC, Vienna · Sat, 20 Jun 2026
 - Volksgarten Pavillon, Vienna · Tue, 9 Jun 2026
@@ -20,10 +20,9 @@ Rui de Janeiro is a techno and tech house artist based in Austria, with 29 gigs 
 - Volksgarten Pavillon, Vienna · Tue, 12 May 2026
 - Das Werk, Vienna · Fri, 8 May 2026
 - Kramladen, Vienna · Thu, 16 Oct 2025
-- Das Werk, Vienna · Fri, 29 Aug 2025
 
 ## Shares bills with
 
 Farbod, Ainhoa G, Arman Shadow
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruidejaneiro/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruidejaneiro/)*

@@ -1,14 +1,15 @@
 # LAZA
 
-LAZA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Komplexo Tempo, Sao Paulo on Sun, 11 Oct 2026.
+LAZA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Komplexo Tempo, Sao Paulo on Sun, 11 Oct 2026.
 
-LAZA is a house and techno artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 4 more. Often billed alongside BASHKKA, Bass Toast and CARISTA. Next up: Komplexo Tempo, Sao Paulo on Sun 11 Oct.
+LAZA is a techno and house artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside BASHKKA, Bass Toast and CARISTA. Next up: Komplexo Tempo, Sao Paulo on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | Komplexo Tempo | Sao Paulo |
+| Sun, 1 Nov 2026 | Brown Alley | Melbourne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ LAZA is a house and techno artist based in Netherlands, with 21 gigs on soundche
 
 BASHKKA, Bass Toast, CARISTA
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laza/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laza/)*

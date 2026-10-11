@@ -1,15 +1,13 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 13 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Oldies & Trash Night 90s&Y2K Female Edition" on Sat, 10 Oct 2026.
+Fundbureau is a music venue in Hamburg with 11 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "FUNDI&FRIENDS Afterwork" on Wed, 14 Oct 2026.
 
-Fundbureau is a music venue in Hamburg listed on soundcheck. 13 upcoming gigs, with line-ups including Bizzarro Universe, BNZN, Charlie Tee and CHICHO and 2 more. See dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
+Fundbureau is a music venue in Hamburg listed on soundcheck. 11 upcoming gigs, with line-ups including Bizzarro Universe, BNZN, Charlie Tee and CHICHO and 2 more. See dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Oldies & Trash Night 90s&Y2K Female Edition |  |
-| Sat, 10 Oct 2026 | RESIDENT NIGHT W/ Randali // SVE // Nikiija // CHICHO // MELENA | CHICHO, Nikiija, Randali, SVE |
 | Wed, 14 Oct 2026 | FUNDI&FRIENDS Afterwork | CHICHO, Pamadii, Shilo |
 | Fri, 16 Oct 2026 | Liquic Concrete with Charlie Tee & T-Lex & Melina | Charlie Tee, Enni Milosj, Fibe, MELINA (3), Sindicate, duaba |
 | Sat, 17 Oct 2026 | OLEA // vivi // LAUT KLUB FLOOR HOSTING | OLEA, vivi |
@@ -18,9 +16,11 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 13 upcoming gigs, w
 | Sat, 24 Oct 2026 | sleepover with snoritz // SKKIN VELVET // LIRICA // Pamadii | LIRICA, Pamadii, SKKIN VELVET, snoritz |
 | Fri, 30 Oct 2026 | HARDBUERAU HALLOWEEN EDITION W/ Natta + INNER CIRCLE | Natta |
 | Sat, 31 Oct 2026 | G SPOT HALLOWEEN with BNZN, Softdrive, Rittmus  | BNZN, Lennart Ken, Rittmus, Softdrive |
+| Sat, 7 Nov 2026 | RAUM.fahrt |  |
+| Sat, 14 Nov 2026 | Tausch dein' Trash Night |  |
 
 ## Address
 
 Altländer Str. 1120095 Hamburg, Germany, Hamburg
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*

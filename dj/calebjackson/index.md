@@ -1,14 +1,13 @@
 # Caleb Jackson
 
-Caleb Jackson is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Refuge, New-york-city on Sat, 10 Oct 2026.
+Caleb Jackson is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Tigres de la Noche, Washington DC on Fri, 16 Oct 2026.
 
-Caleb Jackson is a house and techno artist based in Australia, with 71 gigs on soundcheck across Amsterdam, Auckland, Bali and Berlin and 12 more. Often billed alongside Jacqui Cunningham, Bella Backe and Elijah Something. Next up: Refuge, New York City on Sat 10 Oct.
+Caleb Jackson is a house and techno artist based in Australia, with 71 gigs on soundcheck across Amsterdam, Auckland, Bali and Berlin and 12 more. Often billed alongside Jacqui Cunningham, Bella Backe and Elijah Something. Next up: Tigres de la Noche, Washington DC on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Refuge | New-york-city |
 | Fri, 16 Oct 2026 | Tigres de la Noche | Washington DC |
 | Fri, 23 Oct 2026 | Ijland | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
@@ -18,6 +17,7 @@ Caleb Jackson is a house and techno artist based in Australia, with 71 gigs on s
 
 ## Recently played
 
+- Refuge, New-york-city · Sat, 10 Oct 2026
 - TBA - 2.5 Hours from Sydney, Sydney · Sat, 3 Oct 2026
 - Chinese Laundry, Sydney · Fri, 25 Sept 2026
 - Chinois Ibiza, Ibiza · Thu, 10 Sept 2026
@@ -25,10 +25,9 @@ Caleb Jackson is a house and techno artist based in Australia, with 71 gigs on s
 - La Brisa, Bali · Sat, 25 Jul 2026
 - Thuishaven, Amsterdam · Sun, 5 Jul 2026
 - Lieberscholli, Munich · Fri, 3 Jul 2026
-- Cova Santa, Ibiza · Tue, 16 Jun 2026
 
 ## Shares bills with
 
 Jacqui Cunningham, Bella Backe, Elijah Something
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calebjackson/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calebjackson/)*

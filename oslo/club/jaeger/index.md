@@ -1,14 +1,13 @@
 # Jaeger
 
-Jaeger is a music venue in Oslo with 14 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Futoria: GUI + AMR + LIEN" on Sat, 10 Oct 2026.
+Jaeger is a music venue in Oslo with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Frædag: Einmusik + Finnebassen + G-HA & Olanskii + Øyvind Morken" on Fri, 16 Oct 2026.
 
-Jaeger is a music venue in Oslo listed on soundcheck. 14 upcoming gigs, with line-ups including Anthea, Einmusik, Finnebassen and G-HA and 2 more. See dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
+Jaeger is a music venue in Oslo listed on soundcheck. 13 upcoming gigs, with line-ups including Anthea, Einmusik, Finnebassen and G-HA and 2 more. See dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Futoria: GUI + AMR + LIEN |  |
 | Fri, 16 Oct 2026 | Frædag: Einmusik + Finnebassen + G-HA & Olanskii + Øyvind Morken | Einmusik, Finnebassen, G-HA, Olanskii, Øyvind Morken |
 | Sat, 17 Oct 2026 | Double Trouble: Prins Thomas + Isoebel | Prins Thomas |
 | Fri, 23 Oct 2026 | Frædag x LCJ: Jafunk + Sex Judas + Skatebård + G-HA & Olanskii + Ivaylo | G-HA, Ivaylo, Jafunk, Olanskii, Sex Judas feat. Ricky, Skatebård |
@@ -18,9 +17,10 @@ Jaeger is a music venue in Oslo listed on soundcheck. 14 upcoming gigs, with lin
 | Thu, 29 Oct 2026 | Oslo World x Helt Texas: Anthea + Ole HK | Anthea |
 | Fri, 30 Oct 2026 | Oslo World x Frædag: Quantic + G-HA & Olanskii + Platina Rosa | G-HA, Olanskii, Quantic |
 | Sat, 31 Oct 2026 | Oslo World x Nightflight x Lyd: Jonny Rock + Olle Abstract | Jonny Rock |
+| Fri, 6 Nov 2026 | Frædag: Maribou State DJ set + G-HA & Olanskii + Olefonken | G-HA, Maribou State, Olanskii, Olefonken |
 
 ## Address
 
 Grensen 9; 0159 Oslo; Norway,, Oslo
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*

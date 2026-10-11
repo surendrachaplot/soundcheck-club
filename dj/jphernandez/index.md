@@ -1,6 +1,6 @@
 # JP Hernández
 
-JP Hernández is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at MeWe Amsterdam, Amsterdam on Wed, 21 Oct 2026.
+JP Hernández is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at MeWe Amsterdam, Amsterdam on Wed, 21 Oct 2026.
 
 JP Hernández is a house and minimal artist based in Chile, with 12 gigs on soundcheck across Amsterdam and Barcelona. Often billed alongside Bianchetti, Massanet and Slick Steve. Next up: MeWe Amsterdam, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ JP Hernández is a house and minimal artist based in Chile, with 12 gigs on soun
 
 Bianchetti, Massanet, Slick Steve
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jphernandez/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jphernandez/)*

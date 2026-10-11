@@ -1,6 +1,6 @@
 # Pretty Privilege
 
-Pretty Privilege is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Animal, New York City on Sun, 11 Oct 2026.
+Pretty Privilege is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Animal, New York City on Sun, 11 Oct 2026.
 
 Pretty Privilege is a techno and house artist based in Canada, with 84 gigs on soundcheck across Berlin, Boston, Chicago and Dublin and 9 more. Often billed alongside CrisseMarqueur, mayalabae and Tom Marsi. Next up: Animal, New York City on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Pretty Privilege is a techno and house artist based in Canada, with 84 gigs on s
 
 CrisseMarqueur, mayalabae, Tom Marsi
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prettyprivilege/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prettyprivilege/)*

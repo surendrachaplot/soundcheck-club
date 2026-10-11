@@ -1,14 +1,13 @@
 # CLUB RAUM
 
-CLUB RAUM is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Surgeon, Talismann, Polly F" on Sat, 10 Oct 2026.
+CLUB RAUM is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "CCL (All Night Long)" on Fri, 16 Oct 2026.
 
-CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with line-ups including Abstract Division, Afra, Aldonna and Alex Kassian and 2 more. See dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
+CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Abstract Division, Afra, Aldonna and Alex Kassian and 2 more. See dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Surgeon, Talismann, Polly F | Polly F, Surgeon, Talismann |
 | Fri, 16 Oct 2026 | CCL (All Night Long) | CCL |
 | Sat, 17 Oct 2026 | Steve Bicknell, Stephanie Sykes, Cinnaman | Cinnaman, Stephanie Sykes, Steve Bicknell |
 | Thu, 22 Oct 2026 | ADE - RAUM invites Clone Records | Afra, Detroit In Effect, L.F.T., Neel, Ottagone, Serge, Tauceti (FR), neska |
@@ -18,9 +17,10 @@ CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, 
 | Fri, 20 Nov 2026 | Call Super (All Night Long) | Call Super |
 | Sat, 21 Nov 2026 | RAUM Invites Pax Romana | Budino, D-Leria, Elisa Batti, Irakli, Julie, Massimiliano Pagliara, Nèna, Tammo Hesselink |
 | Fri, 27 Nov 2026 | RAUM Invites Hamam Nights | Hyperaktivist, Josh Caffé, Sedef Adasï |
+| Sat, 28 Nov 2026 | Function 30yrs | Abstract Division, Function, LYLO (NL), Nastia Reigel, Robert Owens, Rrose |
 
 ## Address
 
 Humberweg 3, 1043 AC Amsterdam, Amsterdam
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*

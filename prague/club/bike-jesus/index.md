@@ -1,14 +1,13 @@
 # Bike Jesus
 
-Bike Jesus is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "★ HD World ★" on Sat, 10 Oct 2026.
+Bike Jesus is a music venue in Prague with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Veil' Amor: NIGHT AT BIKE" on Sat, 17 Oct 2026.
 
-Bike Jesus is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with line-ups including Andrea Dare, AVHD, Barbellay and CRY.NN and 2 more. See dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
+Bike Jesus is a music venue in Prague listed on soundcheck. 8 upcoming gigs, with line-ups including Andrea Dare, Barbellay, CRY.NN and Diva and 2 more. See dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | ★ HD World ★ | AVHD, LickMySoul, MARS (4), dylan.james |
 | Sat, 17 Oct 2026 | Veil' Amor: NIGHT AT BIKE | Diva, Fembot, S.N.R.I., Yo Eva |
 | Sat, 17 Oct 2026 | SOUZVUK #2 | Andrea Dare, Ghandi, Saku |
 | Fri, 23 Oct 2026 | LDSB Night vol.3 - ESC (UK), NOCHAV (ESP), Razboi (ESP) | ESC (5), Meldaboi, NOCHAV, Razboi, SMB (1), Silverbo1, Simeone (2), Yachym |
@@ -22,4 +21,4 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 9 upcoming gigs, wit
 
 ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia, Prague
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*

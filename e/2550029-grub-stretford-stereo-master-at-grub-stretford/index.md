@@ -1,6 +1,6 @@
 # GRUB Stretford: Stereo Master at Grub Stretford
 
-GRUB Stretford: Stereo Master at Grub Stretford on Sat 17 Oct, Manchester. 1 artist: Stereo Master. Disco and Balearic. See the line-up on soundcheck.
+GRUB Stretford: Stereo Master at Grub Stretford on Sat 17 Oct, Manchester. 1 artist: Stereo Master. Balearic and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

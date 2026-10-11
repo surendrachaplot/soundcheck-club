@@ -1,6 +1,6 @@
 # 02 Victoria Warehouse
 
-02 Victoria Warehouse is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Fish56Octagon | Manchester" on Fri, 16 Oct 2026.
+02 Victoria Warehouse is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Fish56Octagon | Manchester" on Fri, 16 Oct 2026.
 
 02 Victoria Warehouse is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including Fabio, Fish56Octagon, Grooverider and Roni Size. See dates, start times and who's playing. Trafford Wharf Road, Manchester, Greater Manchester, M17 1AB, UK.
 
@@ -15,4 +15,4 @@
 
 Trafford Wharf Road, Manchester, Greater Manchester, M17 1AB, UK, Manchester
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/02-victoria-warehouse/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/02-victoria-warehouse/)*

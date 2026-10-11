@@ -1,20 +1,20 @@
 # LEV (UK)
 
-LEV (UK) is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Omeara, London on Sat, 10 Oct 2026.
+LEV (UK) is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Night Tales Loft, London on Sat, 17 Oct 2026.
 
-LEV (UK) is a house and disco artist based in United Kingdom, with 90 gigs on soundcheck across Amsterdam, Berlin, Bristol and Edinburgh and 8 more. Often billed alongside Faro, Aroop Roy and MiNNA. Next up: Omeara, London on Sat 10 Oct.
+LEV (UK) is a house and disco artist based in United Kingdom, with 90 gigs on soundcheck across Amsterdam, Berlin, Bristol and Edinburgh and 8 more. Often billed alongside Faro, Aroop Roy and MiNNA. Next up: Night Tales Loft, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Omeara | London |
 | Sat, 17 Oct 2026 | Night Tales Loft | London |
 | Sat, 24 Oct 2026 | Acanteen | South-east |
 | Sat, 5 Dec 2026 | SWG3 | Glasgow |
 
 ## Recently played
 
+- Omeara, London · Sat, 10 Oct 2026
 - DRUMSHEDS, London · Sat, 19 Sept 2026
 - The Glove That Fits, London · Sat, 12 Sept 2026
 - Amnesia Ibiza, Ibiza · Fri, 11 Sept 2026
@@ -22,10 +22,9 @@ LEV (UK) is a house and disco artist based in United Kingdom, with 90 gigs on so
 - Filly Brook, London · Sun, 16 Aug 2026
 - The BBE Store, London · Fri, 14 Aug 2026
 - The Dutch Master, London · Sat, 11 Jul 2026
-- KOKO, London · Fri, 10 Jul 2026
 
 ## Shares bills with
 
 Faro, Aroop Roy, MiNNA
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lev-uk/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lev-uk/)*

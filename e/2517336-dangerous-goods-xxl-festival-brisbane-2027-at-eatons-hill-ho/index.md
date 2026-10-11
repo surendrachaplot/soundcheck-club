@@ -1,6 +1,6 @@
 # Dangerous Goods XXL Festival - Brisbane 2027 at Eatons Hill Hotel and Function Centre
 
-Dangerous Goods XXL Festival - Brisbane 2027 at Eatons Hill Hotel and Function Centre on Fri 22 Jan, Brisbane. 10 artists: Adam Bartas, ASLO, Boris Brejcha and Claptone and 6 more. See the line-up on soundcheck.
+Dangerous Goods XXL Festival - Brisbane 2027 at Eatons Hill Hotel and Function Centre on Fri 22 Jan, Brisbane. 10 artists: Adam Bartas, ASLO, Boris Brejcha and Claptone and 6 more. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BNZN
 
-BNZN is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Coco Boule, Berlin on Sat, 17 Oct 2026.
+BNZN is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Coco Boule, Berlin on Sat, 17 Oct 2026.
 
 BNZN is a techno and trance artist based in Germany, with 107 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hamburg. Often billed alongside Elon Bass, DJ SPORTSCHUH and Carluschka. Next up: Coco Boule, Berlin on Sat 17 Oct.
 
@@ -30,4 +30,4 @@ BNZN is a techno and trance artist based in Germany, with 107 gigs on soundcheck
 
 Elon Bass, DJ SPORTSCHUH, Carluschka
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bnzn/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bnzn/)*

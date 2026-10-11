@@ -1,14 +1,13 @@
 # Jennifer Loveless
 
-Jennifer Loveless is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Passeio Marítimo de Algés, Portugal, Lisbon on Sat, 10 Oct 2026.
+Jennifer Loveless is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The White Hotel, Manchester on Fri, 16 Oct 2026.
 
-Jennifer Loveless is a house and techno artist based in Australia, with 251 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 55 more. Often billed alongside Fafi Abdel Nour, ISAbella and BASHKKA. Next up: TBA - Passeio Marítimo de Algés, Portugal, Lisbon on Sat 10 Oct.
+Jennifer Loveless is a house and techno artist based in Australia, with 251 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 55 more. Often billed alongside Fafi Abdel Nour, ISAbella and BASHKKA. Next up: The White Hotel, Manchester on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | TBA - Passeio Marítimo de Algés, Portugal | Lisbon |
 | Fri, 16 Oct 2026 | The White Hotel | Manchester |
 | Thu, 22 Oct 2026 | Skatecafe | Amsterdam |
 | Fri, 30 Oct 2026 | La Paloma | Barcelona |
@@ -20,6 +19,7 @@ Jennifer Loveless is a house and techno artist based in Australia, with 251 gigs
 
 ## Recently played
 
+- TBA - Passeio Marítimo de Algés, Portugal, Lisbon · Sat, 10 Oct 2026
 - 528 Ibiza, Ibiza · Tue, 6 Oct 2026
 - Sonnenraum, Berlin · Sun, 4 Oct 2026
 - Fuse, Brussels · Sat, 3 Oct 2026
@@ -27,10 +27,9 @@ Jennifer Loveless is a house and techno artist based in Australia, with 251 gigs
 - public records, New York City · Sun, 27 Sept 2026
 - Floyd, Miami · Fri, 25 Sept 2026
 - Sunday Sunday, Mexico City · Sun, 20 Sept 2026
-- 3oz Dive Club, San Diego · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Fafi Abdel Nour, ISAbella, BASHKKA
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*

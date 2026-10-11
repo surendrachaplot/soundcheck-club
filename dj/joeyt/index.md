@@ -1,6 +1,6 @@
 # Joey T
 
-Joey T is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 11 Oct 2026.
+Joey T is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 11 Oct 2026.
 
 Joey T is a house and disco artist based in United Kingdom, with 59 gigs on soundcheck across Barcelona, Brighton, Edinburgh and Ibiza and 3 more. Often billed alongside Levi Love, Cosmik and Luke Una. Next up: Pikes Ibiza, Ibiza on Sun 11 Oct.
 
@@ -27,4 +27,4 @@ Joey T is a house and disco artist based in United Kingdom, with 59 gigs on soun
 
 Levi Love, Cosmik, Luke Una
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeyt/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeyt/)*

@@ -1,15 +1,13 @@
 # East End Dubs
 
-East End Dubs is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at [UNVRS], Ibiza on Sat, 10 Oct 2026.
+East End Dubs is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Theater Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-East End Dubs is a house and tech house artist based in United Kingdom, with 286 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 50 more. Often billed alongside ALISHA, Jamback and Max Dean. Next up: [UNVRS], Ibiza on Sat 10 Oct.
+East End Dubs is a house and tech house artist based in United Kingdom, with 286 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 50 more. Often billed alongside ALISHA, Jamback and Max Dean. Next up: Theater Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | [UNVRS] | Ibiza |
-| Sat, 10 Oct 2026 | Ushuaïa Ibiza | Ibiza |
 | Thu, 22 Oct 2026 | Theater Amsterdam | Amsterdam |
 | Sat, 31 Oct 2026 | Blackstone Street Warehouse | Liverpool |
 | Fri, 6 Nov 2026 | Sonorama | Medellin |
@@ -20,20 +18,22 @@ East End Dubs is a house and tech house artist based in United Kingdom, with 286
 | Sat, 12 Dec 2026 | Hemkade 48 | Amsterdam |
 | Sat, 12 Dec 2026 | Klokgebouw | Eindhoven |
 | Wed, 30 Dec 2026 | SWG3 | Glasgow |
+| Thu, 31 Dec 2026 | Esferic Bcn | Barcelona |
+| Fri, 1 Jan 2027 | KOKO | London |
 
 ## Recently played
 
+- [UNVRS], Ibiza · Sat, 10 Oct 2026
+- Ushuaïa Ibiza, Ibiza · Sat, 10 Oct 2026
 - Hï Ibiza, Ibiza · Tue, 6 Oct 2026
 - The View From The Shard, London · Sun, 4 Oct 2026
 - Mercati Generali, Sicily · Sat, 3 Oct 2026
 - Hï Ibiza, Ibiza · Tue, 29 Sept 2026
 - Hï Ibiza, Ibiza · Tue, 22 Sept 2026
 - Hï Ibiza, Ibiza · Sat, 19 Sept 2026
-- Hï Ibiza, Ibiza · Tue, 15 Sept 2026
-- Hï Ibiza, Ibiza · Tue, 8 Sept 2026
 
 ## Shares bills with
 
 ALISHA, Jamback, Max Dean
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*

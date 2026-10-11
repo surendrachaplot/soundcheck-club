@@ -1,14 +1,13 @@
 # Concord Music Hall
 
-Concord Music Hall is a music venue in Chicago with 13 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "BABY J" on Sat, 10 Oct 2026.
+Concord Music Hall is a music venue in Chicago with 12 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "NOTD" on Fri, 16 Oct 2026.
 
-Concord Music Hall is a music venue in Chicago listed on soundcheck. 13 upcoming gigs, with line-ups including Baby J, Flash Gea, hhunter and Junkie Kid and 2 more. See dates, start times and who's playing. 2047 N Milwaukee Ave,  Chicago, IL 60647.
+Concord Music Hall is a music venue in Chicago listed on soundcheck. 12 upcoming gigs, with line-ups including Flash Gea, hhunter, Junkie Kid and ØTTA and 2 more. See dates, start times and who's playing. 2047 N Milwaukee Ave,  Chicago, IL 60647.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | BABY J | Baby J (2), Nanoos |
 | Fri, 16 Oct 2026 | NOTD |  |
 | Sat, 17 Oct 2026 | JASON ROSS |  |
 | Fri, 23 Oct 2026 | Truth with CHMURA, MEDICINE PLACE, CØNTRA, WOLF'D | Truth |
@@ -18,9 +17,10 @@ Concord Music Hall is a music venue in Chicago listed on soundcheck. 13 upcoming
 | Fri, 13 Nov 2026 | ØTTA (360° SET) | ØTTA |
 | Sat, 14 Nov 2026 | TOBIAHS (360° SET) |  |
 | Sat, 21 Nov 2026 | OMNOM (360° SET) |  |
+| Fri, 27 Nov 2026 | DANIEL ALLAN (360° Set) |  |
 
 ## Address
 
 2047 N Milwaukee Ave,  Chicago, IL 60647, Chicago
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/concord-music-hall/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/concord-music-hall/)*

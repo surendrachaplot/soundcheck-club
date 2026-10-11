@@ -1,14 +1,13 @@
 # Francis Mercier
 
-Francis Mercier is a Afro House and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Francis Mercier is a Afro House and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Pacha New York, New York City on Sun, 11 Oct 2026.
 
-Francis Mercier is an afro house and house artist based in United States of America, with 181 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
+Francis Mercier is an afro house and house artist based in United States of America, with 181 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: Pacha New York, New York City on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Sun, 11 Oct 2026 | Pacha New York | New York City |
 | Sat, 24 Oct 2026 | Afas Live | Amsterdam |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
@@ -23,6 +22,7 @@ Francis Mercier is an afro house and house artist based in United States of Amer
 
 ## Recently played
 
+- Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
 - OMNIA Dayclub, Las-vegas · Fri, 9 Oct 2026
 - Hï Ibiza, Ibiza · Mon, 5 Oct 2026
 - D! Club, Lausanne · Sun, 4 Oct 2026
@@ -30,10 +30,9 @@ Francis Mercier is an afro house and house artist based in United States of Amer
 - Bloody Louis, Brussels · Fri, 25 Sept 2026
 - Hï Ibiza, Ibiza · Mon, 21 Sept 2026
 - Reframe Studios Indoors, Los Angeles · Sat, 19 Sept 2026
-- Hï Ibiza, Ibiza · Mon, 14 Sept 2026
 
 ## Shares bills with
 
 Andrea Oliva, Nadrums, ARYMÉ
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*

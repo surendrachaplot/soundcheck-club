@@ -1,14 +1,13 @@
 # Zombies In Miami
 
-Zombies In Miami is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 10 Oct 2026.
+Zombies In Miami is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Circolo degli Illuminati, Rome on Sat, 17 Oct 2026.
 
-Zombies In Miami is a house and techno artist based in Mexico, with 155 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside PARAMIDA, Ben Klock and DJ Nobu. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 10 Oct.
+Zombies In Miami is a house and techno artist based in Mexico, with 155 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside PARAMIDA, Ben Klock and DJ Nobu. Next up: Circolo degli Illuminati, Rome on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 17 Oct 2026 | Circolo degli Illuminati | Rome |
 | Wed, 21 Oct 2026 | Bar Theo | Amsterdam |
 | Thu, 22 Oct 2026 | Duke Of Tokyo | Amsterdam |
@@ -20,6 +19,7 @@ Zombies In Miami is a house and techno artist based in Mexico, with 155 gigs on 
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 10 Oct 2026
 - PRST, Vienna · Fri, 9 Oct 2026
 - Mitsuki, Tokyo · Sat, 19 Sept 2026
 - Paper, Seoul · Thu, 17 Sept 2026
@@ -27,10 +27,9 @@ Zombies In Miami is a house and techno artist based in Mexico, with 155 gigs on 
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 22 Aug 2026
 - Kaiku, Helsinki · Sat, 15 Aug 2026
 - Tokonoma Club, Frankfurt · Fri, 7 Aug 2026
-- nachbar, Amsterdam · Fri, 31 Jul 2026
 
 ## Shares bills with
 
 PARAMIDA, Ben Klock, DJ Nobu
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zombiesinmiami/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zombiesinmiami/)*

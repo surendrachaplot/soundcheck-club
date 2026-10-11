@@ -1,6 +1,6 @@
 # M.N.Roy
 
-M.N.Roy is a music venue in Mexico City with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "NuCasa + AURIE" on Sat, 10 Oct 2026.
+M.N.Roy is a music venue in Mexico City with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "NuCasa + AURIE" on Sat, 10 Oct 2026.
 
 M.N.Roy is a music venue in Mexico City listed on soundcheck. 4 upcoming gigs, with line-ups including Bastard Love, Metrika and NuCasa. See dates, start times and who's playing. Mérida 186  06700 Mexico City, Mexico.
 
@@ -17,4 +17,4 @@ M.N.Roy is a music venue in Mexico City listed on soundcheck. 4 upcoming gigs, w
 
 Mérida 186  06700 Mexico City, Mexico, Mexico City
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/m-n-roy/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/m-n-roy/)*

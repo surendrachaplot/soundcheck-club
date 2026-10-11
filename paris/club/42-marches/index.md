@@ -1,6 +1,6 @@
 # 42 Marches
 
-42 Marches is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Night + After - Deepsea Grooves Invite Sibil B2b Charonne" on Fri, 16 Oct 2026.
+42 Marches is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Night + After - Deepsea Grooves Invite Sibil B2b Charonne" on Fri, 16 Oct 2026.
 
 42 Marches is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including AGUSTIN BARBEI, Anas., Barée Masse and Charonne and 2 more. See dates, start times and who's playing. Esplanade Johnny Hallyday, 75012 Paris.
 
@@ -15,4 +15,4 @@
 
 Esplanade Johnny Hallyday, 75012 Paris, Paris
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/42-marches/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/42-marches/)*

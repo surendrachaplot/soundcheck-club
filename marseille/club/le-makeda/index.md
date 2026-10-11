@@ -1,14 +1,13 @@
 # Le Makeda
 
-Le Makeda is a music venue in Marseille with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "BRUITS ROSES x CABARAÏ [Vol. 2]" on Sat, 10 Oct 2026.
+Le Makeda is a music venue in Marseille with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "VNIGHT#3: Revolution is SEXY" on Thu, 15 Oct 2026.
 
-Le Makeda is a music venue in Marseille listed on soundcheck. 7 upcoming gigs, with line-ups including Mystique. See dates, start times and who's playing. 103, rue Ferrari 13005 Marseille.
+Le Makeda is a music venue in Marseille listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. 103, rue Ferrari 13005 Marseille.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | BRUITS ROSES x CABARAÏ [Vol. 2] | Mystique (2) |
 | Thu, 15 Oct 2026 | VNIGHT#3: Revolution is SEXY |  |
 | Sat, 17 Oct 2026 | Soul train - SELECTER THE PUNISHER invite DAVID COLAS |  |
 | Fri, 23 Oct 2026 | Say My Name, Say My Name  |  |
@@ -20,4 +19,4 @@ Le Makeda is a music venue in Marseille listed on soundcheck. 7 upcoming gigs, w
 
 103, rue Ferrari 13005 Marseille, Marseille
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-makeda/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-makeda/)*

@@ -1,6 +1,6 @@
 # YO.AN
 
-YO.AN is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Club Metro, Kyoto on Sun, 11 Oct 2026.
+YO.AN is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Club Metro, Kyoto on Sun, 11 Oct 2026.
 
 YO.AN is a house and techno artist based in Japan, with 194 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside Fushiming, Mamazu and Sunga. Next up: Club Metro, Kyoto on Sun 11 Oct.
 
@@ -30,4 +30,4 @@ YO.AN is a house and techno artist based in Japan, with 194 gigs on soundcheck a
 
 Fushiming, Mamazu, Sunga
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoan-jp/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoan-jp/)*

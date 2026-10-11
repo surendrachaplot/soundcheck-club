@@ -1,6 +1,6 @@
 # MOOD HSM
 
-MOOD HSM is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Departamento, Mexico City on Wed, 7 Oct 2026.
+MOOD HSM is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Departamento, Mexico City on Wed, 7 Oct 2026.
 
 MOOD HSM is a house and downtempo artist based in Mexico, with 73 gigs on soundcheck across Mexico City and Tokyo. Often billed alongside Bluecommand, Alena Vox and Alo. Next up: Departamento, Mexico City on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ MOOD HSM is a house and downtempo artist based in Mexico, with 73 gigs on soundc
 
 Bluecommand, Alena Vox, Alo
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moodhsm/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moodhsm/)*

@@ -1,6 +1,6 @@
 # UNO MALTA
 
-UNO MALTA is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. The next is "ANJUNADEEP MALTA 2026" on Thu, 8 Oct 2026.
+UNO MALTA is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "ANJUNADEEP MALTA 2026" on Thu, 8 Oct 2026.
 
 UNO MALTA is a music venue in Malta listed on soundcheck. 1 upcoming gig, with line-ups including Amtrac, Because of Art, Braxton and Catching Flies and 2 more. See dates, start times and who's playing. Crafts Village, Ta''Qali, Attard ATD, 4000, Malta.
 
@@ -14,4 +14,4 @@ UNO MALTA is a music venue in Malta listed on soundcheck. 1 upcoming gig, with l
 
 Crafts Village, Ta''Qali, Attard ATD, 4000, Malta, Malta
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/malta/club/uno-malta/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/malta/club/uno-malta/)*

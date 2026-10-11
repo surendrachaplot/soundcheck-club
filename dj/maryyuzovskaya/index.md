@@ -1,20 +1,20 @@
 # Mary Yuzovskaya
 
-Mary Yuzovskaya is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Signal, New York City on Fri, 9 Oct 2026.
+Mary Yuzovskaya is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Los Angeles, Los Angeles on Sat, 10 Oct 2026.
 
-Mary Yuzovskaya is a techno and house artist, with 97 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 27 more. Often billed alongside Amotik, Delano Legito and Altinbas. Next up: Signal, New York City on Fri 9 Oct.
+Mary Yuzovskaya is a techno and house artist, with 97 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 27 more. Often billed alongside Amotik, Delano Legito and Altinbas. Next up: TBA - Los Angeles, Los Angeles on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Signal | New York City |
 | Sat, 10 Oct 2026 | TBA - Los Angeles | Los Angeles |
 | Sun, 25 Oct 2026 | Lofi | Amsterdam |
 | Fri, 20 Nov 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 
+- TBA - Los Angeles, Los Angeles · Sat, 10 Oct 2026
 - Signal, New York City · Fri, 9 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 19 Sept 2026
 - RSO.BERLIN, Berlin · Fri, 21 Aug 2026
@@ -22,10 +22,9 @@ Mary Yuzovskaya is a techno and house artist, with 97 gigs on soundcheck across 
 - Tresor / Globus, Berlin · Fri, 10 Jul 2026
 - BASEMENT, New York City · Sat, 6 Jun 2026
 - TBA - Campground 1H from DTLA, Los Angeles · Fri, 5 Jun 2026
-- The Lower Level, Boston · Sat, 30 May 2026
 
 ## Shares bills with
 
 Amotik, Delano Legito, Altinbas
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maryyuzovskaya/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maryyuzovskaya/)*

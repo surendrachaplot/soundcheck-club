@@ -1,6 +1,6 @@
 # Zwart Goud ADE INSTORES 2026 at Zwart Goud Record Store
 
-Zwart Goud ADE INSTORES 2026 at Zwart Goud Record Store on Wed 21 Oct, Amsterdam. 14 artists: ANNĒ, BASHKKA, Bradley Zero and Emerald and 10 more. See the line-up on soundcheck.
+Zwart Goud ADE INSTORES 2026 at Zwart Goud Record Store on Wed 21 Oct, Amsterdam. 15 artists: ANNĒ, BASHKKA, Bradley Zero and Emerald and 11 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -23,6 +23,7 @@ Zwart Goud ADE INSTORES 2026 at Zwart Goud Record Store on Wed 21 Oct, Amsterdam
 - Papa Nugs
 - Phil Berg
 - Steven Julien
+- Tapefeed
 - Tim Reaper
 
 *Source: [soundcheck](https://soundcheck.club/e/2536517-zwart-goud-ade-instores-2026-at-zwart-goud-record-store/)*

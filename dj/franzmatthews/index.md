@@ -1,6 +1,6 @@
 # Franz Matthews
 
-Franz Matthews is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Fri, 23 Oct 2026.
+Franz Matthews is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Fri, 23 Oct 2026.
 
 Franz Matthews is a house and techno artist based in France, with 31 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Istanbul and 3 more. Often billed alongside Bonnie Spacey, ONNI and SEIUN. Next up: 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Franz Matthews is a house and techno artist based in France, with 31 gigs on sou
 
 Bonnie Spacey, ONNI, SEIUN
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franzmatthews/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franzmatthews/)*

@@ -1,14 +1,13 @@
 # Tiga
 
-Tiga is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Metropolis Venue, Lithuania on Sat, 10 Oct 2026.
+Tiga is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Tiga is a techno and house artist based in Canada, with 125 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 43 more. Often billed alongside DJ Holographic, DJ Tennis and KI/KI. Next up: TBA - Metropolis Venue, Lithuania on Sat 10 Oct.
+Tiga is a techno and house artist based in Canada, with 125 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 43 more. Often billed alongside DJ Holographic, DJ Tennis and KI/KI. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | TBA - Metropolis Venue | Lithuania |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Thu, 22 Oct 2026 | BRET | Amsterdam |
 | Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |
@@ -22,6 +21,7 @@ Tiga is a techno and house artist based in Canada, with 125 gigs on soundcheck a
 
 ## Recently played
 
+- TBA - Metropolis Venue, Lithuania · Sat, 10 Oct 2026
 - FOLD, London · Fri, 9 Oct 2026
 - OCZKI, Warsaw · Sat, 3 Oct 2026
 - Tama, Poznan · Fri, 2 Oct 2026
@@ -29,10 +29,9 @@ Tiga is a techno and house artist based in Canada, with 125 gigs on soundcheck a
 - Fulton Fish Market - Hunts Point, New York City · Sat, 5 Sept 2026
 - Union Park, Chicago · Fri, 4 Sept 2026
 - smartbar, Chicago · Fri, 4 Sept 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 DJ Holographic, DJ Tennis, KI/KI
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*

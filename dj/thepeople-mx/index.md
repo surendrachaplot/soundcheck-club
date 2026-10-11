@@ -1,6 +1,6 @@
 # The People (MX)
 
-The People (MX) is a Reggaeton and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
+The People (MX) is a Reggaeton and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
 
 The People (MX) is a reggaeton and latin bass artist, with 13 gigs on soundcheck across Auckland, Mexico City and Morelos. Often billed alongside Fig (DYN), DJ B2B and Eliel Capa. Next up: TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ The People (MX) is a reggaeton and latin bass artist, with 13 gigs on soundcheck
 
 Fig (DYN), DJ B2B, Eliel Capa
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thepeople-mx/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thepeople-mx/)*

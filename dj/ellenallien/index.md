@@ -1,6 +1,6 @@
 # Ellen Allien
 
-Ellen Allien is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Le Cargö, West on Wed, 7 Oct 2026.
+Ellen Allien is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Le Cargö, West on Wed, 7 Oct 2026.
 
 Ellen Allien is a techno and house artist based in Germany, with 263 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 60 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: Le Cargö, West on Wed 7 Oct.
 
@@ -23,6 +23,7 @@ Ellen Allien is a techno and house artist based in Germany, with 263 gigs on sou
 
 ## Recently played
 
+- RSO.BERLIN, Berlin · Sat, 10 Oct 2026
 - Le Cargö, West · Wed, 7 Oct 2026
 - REC Napoli, Naples · Sat, 3 Oct 2026
 - Elastica, Vilnius · Fri, 2 Oct 2026
@@ -30,10 +31,9 @@ Ellen Allien is a techno and house artist based in Germany, with 263 gigs on sou
 - 131 Mccormack St, Toronto · Fri, 25 Sept 2026
 - Else, Berlin · Sun, 20 Sept 2026
 - Spook Club, Valencia · Sat, 19 Sept 2026
-- Bassiani, Tbilisi · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Dr. Rubinstein, Shaleen, Metaraph
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*

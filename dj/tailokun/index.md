@@ -1,6 +1,6 @@
 # Tai Lokun
 
-Tai Lokun is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at fabric, London on Sat, 14 Nov 2026.
+Tai Lokun is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at fabric, London on Sat, 14 Nov 2026.
 
 Tai Lokun is a house and techno artist based in United Kingdom, with 72 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 11 more. Often billed alongside Amaliah, Heléna Star and Hunee. Next up: fabric, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Tai Lokun is a house and techno artist based in United Kingdom, with 72 gigs on 
 
 Amaliah, Heléna Star, Hunee
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tailokun/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tailokun/)*

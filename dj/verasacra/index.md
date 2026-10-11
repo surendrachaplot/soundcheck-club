@@ -1,14 +1,13 @@
 # VERA SACRA
 
-VERA SACRA is a Ambient and Pop artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Vespers Club, London on Thu, 8 Oct 2026.
+VERA SACRA is a Ambient and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Gut Level, Sheffield on Fri, 23 Oct 2026.
 
-VERA SACRA is an ambient and pop artist based in United Kingdom, with 12 gigs on soundcheck across London and Sheffield. Often billed alongside Ayrakaz, Beano and Bena. Next up: Vespers Club, London on Thu 8 Oct.
+VERA SACRA is an ambient and pop artist based in United Kingdom, with 12 gigs on soundcheck across London and Sheffield. Often billed alongside Ayrakaz, Beano and Bena. Next up: Gut Level, Sheffield on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | Vespers Club | London |
 | Fri, 23 Oct 2026 | Gut Level | Sheffield |
 
 ## Recently played
@@ -26,4 +25,4 @@ VERA SACRA is an ambient and pop artist based in United Kingdom, with 12 gigs on
 
 Ayrakaz, Beano, Bena
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verasacra/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verasacra/)*

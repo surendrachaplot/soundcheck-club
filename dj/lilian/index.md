@@ -1,6 +1,6 @@
 # Lilian
 
-Lilian is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Smith St Hotel, Melbourne on Sun, 11 Oct 2026.
+Lilian is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Smith St Hotel, Melbourne on Sun, 11 Oct 2026.
 
 Lilian is a house and techno artist based in Australia, with 81 gigs on soundcheck across Barcelona, Berlin, Bristol and Hamburg and 4 more. Often billed alongside Boogs, Matteo Freyrie and Spacey Space. Next up: Smith St Hotel, Melbourne on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Lilian is a house and techno artist based in Australia, with 81 gigs on soundche
 
 Boogs, Matteo Freyrie, Spacey Space
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilian/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilian/)*

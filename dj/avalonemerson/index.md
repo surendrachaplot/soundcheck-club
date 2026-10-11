@@ -1,14 +1,13 @@
 # Avalon Emerson
 
-Avalon Emerson is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+Avalon Emerson is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
 
-Avalon Emerson is a techno and house artist based in United States of America, with 187 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Sedef Adasï, BASHKKA and Ben UFO. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
+Avalon Emerson is a techno and house artist based in United States of America, with 187 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Sedef Adasï, BASHKKA and Ben UFO. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Sat, 10 Oct 2026 | Empire Polo Club | Palm-springs |
 | Fri, 23 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Sub Club | Glasgow |
@@ -23,6 +22,7 @@ Avalon Emerson is a techno and house artist based in United States of America, w
 
 ## Recently played
 
+- Empire Polo Club, Palm-springs · Sat, 10 Oct 2026
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
 - Sidney Myer Music Bowl, Melbourne · Sat, 3 Oct 2026
@@ -30,10 +30,9 @@ Avalon Emerson is a techno and house artist based in United States of America, w
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 - Sleeping Village, Chicago · Tue, 15 Sept 2026
 - Fortune Sound Club, Vancouver · Thu, 6 Aug 2026
-- MS Artville, Hamburg · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Sedef Adasï, BASHKKA, Ben UFO
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*

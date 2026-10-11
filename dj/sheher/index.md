@@ -1,6 +1,6 @@
 # SHE/HER
 
-SHE/HER is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at RADION, Amsterdam on Thu, 22 Oct 2026.
+SHE/HER is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at RADION, Amsterdam on Thu, 22 Oct 2026.
 
 SHE/HER is a techno and house artist based in Netherlands, with 63 gigs on soundcheck across Amsterdam, Berlin, Prague and Rotterdam and 1 more. Often billed alongside Flits, Isaiah (NL) and Lasse. Next up: RADION, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ SHE/HER is a techno and house artist based in Netherlands, with 63 gigs on sound
 
 Flits, Isaiah (NL), Lasse
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sheher/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sheher/)*

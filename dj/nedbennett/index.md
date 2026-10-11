@@ -1,15 +1,13 @@
 # Ned Bennett
 
-Ned Bennett is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+Ned Bennett is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
-Ned Bennett is a techno and house artist based in Australia, with 69 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 13 more. Often billed alongside KSMBA, Bella Claxton and 6 SENSE. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
+Ned Bennett is a techno and house artist based in Australia, with 69 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 13 more. Often billed alongside KSMBA, Bella Claxton and 6 SENSE. Next up: Bajes Amsterdam, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
-| Sat, 10 Oct 2026 | block. | Dublin |
 | Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Pllek | Amsterdam |
 | Fri, 30 Oct 2026 | UNLOCKED | London |
@@ -20,6 +18,7 @@ Ned Bennett is a techno and house artist based in Australia, with 69 gigs on sou
 
 ## Recently played
 
+- block., Dublin · Sat, 10 Oct 2026
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
 - Sidney Myer Music Bowl, Melbourne · Sat, 3 Oct 2026
@@ -27,10 +26,9 @@ Ned Bennett is a techno and house artist based in Australia, with 69 gigs on sou
 - Neck of the Woods, Auckland · Fri, 25 Sept 2026
 - Thuishaven, Amsterdam · Sun, 9 Aug 2026
 - Colorado Charlie, The Hague · Fri, 24 Jul 2026
-- Club Vaag, Antwerp · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 KSMBA, Bella Claxton, 6 SENSE
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nedbennett/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nedbennett/)*

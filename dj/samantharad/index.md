@@ -1,15 +1,14 @@
 # samantha rad
 
-samantha rad is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - 2233 S Wentworth Ave, Chicago on Sun, 11 Oct 2026.
+samantha rad is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - 2233 S Wentworth Ave, Chicago on Sun, 11 Oct 2026.
 
-samantha rad is a house and techno artist based in United States of America, with 49 gigs on soundcheck across Chicago. Often billed alongside Pat Fee, Amy Unland and Pete Phunk. Next up: TBA - 2233 S Wentworth Ave, Chicago on Sun 11 Oct.
+samantha rad is a house and techno artist based in United States of America, with 48 gigs on soundcheck across Chicago. Often billed alongside Pat Fee, Amy Unland and Pete Phunk. Next up: TBA - 2233 S Wentworth Ave, Chicago on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | TBA - 2233 S Wentworth Ave | Chicago |
-| Sat, 31 Oct 2026 | TBA - Logan Square Chicago | Chicago |
 
 ## Recently played
 
@@ -26,4 +25,4 @@ samantha rad is a house and techno artist based in United States of America, wit
 
 Pat Fee, Amy Unland, Pete Phunk
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samantharad/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samantharad/)*

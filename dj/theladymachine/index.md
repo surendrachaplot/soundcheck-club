@@ -1,14 +1,13 @@
 # The Lady Machine
 
-The Lady Machine is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Concept Haus, Manchester on Sat, 10 Oct 2026.
+The Lady Machine is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Printhouse, Munich on Sat, 17 Oct 2026.
 
-The Lady Machine is a techno and house artist based in Brazil, with 193 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 44 more. Often billed alongside Freddy K, Blasha & Allatt and Rakans. Next up: Concept Haus, Manchester on Sat 10 Oct.
+The Lady Machine is a techno and house artist based in Brazil, with 193 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 44 more. Often billed alongside Freddy K, Blasha & Allatt and Rakans. Next up: Printhouse, Munich on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Concept Haus | Manchester |
 | Sat, 17 Oct 2026 | Printhouse | Munich |
 | Wed, 21 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
@@ -23,6 +22,7 @@ The Lady Machine is a techno and house artist based in Brazil, with 193 gigs on 
 
 ## Recently played
 
+- Concept Haus, Manchester · Sat, 10 Oct 2026
 - The Bassement, Madrid · Fri, 9 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 3 Oct 2026
 - Ciało, Wroclaw · Fri, 2 Oct 2026
@@ -30,10 +30,9 @@ The Lady Machine is a techno and house artist based in Brazil, with 193 gigs on 
 - RADION, Amsterdam · Sat, 26 Sept 2026
 - Laboral Ciudad de la Cultura, North · Fri, 25 Sept 2026
 - Bassiani, Tbilisi · Fri, 11 Sept 2026
-- DETROIT CLUB, Barcelona · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Freddy K, Blasha & Allatt, Rakans
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theladymachine/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theladymachine/)*

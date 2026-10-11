@@ -1,14 +1,13 @@
 # TILLATEC
 
-TILLATEC is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "SIDERAL x Syntax Error" on Sat, 10 Oct 2026.
+TILLATEC is a music venue in Amsterdam with 12 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "TILLAVISION" on Fri, 16 Oct 2026.
 
-TILLATEC is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including Justine Perry, Afra, Alexia Glensy and Andy Garvey and 2 more. See dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
+TILLATEC is a music venue in Amsterdam listed on soundcheck. 12 upcoming gigs, with line-ups including Justine Perry, Afra, Alexia Glensy and Andy Garvey and 2 more. See dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | SIDERAL x Syntax Error |  |
 | Fri, 16 Oct 2026 | TILLAVISION | Jackie Ong, Jay Jay Revlon, LYLO (NL), ZOBAYDA |
 | Sat, 17 Oct 2026 | Adonis | Fancy Shews, Kasra V, Perrin, Vuur |
 | Wed, 21 Oct 2026 | LASTER presents KLOCKWORKS 20 YEARS - ADE 2026 - TILLATEC | Ben Klock, DVS1, Laia, Roll Dann, Setaoc Mass, The Lady Machine |
@@ -18,9 +17,10 @@ TILLATEC is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, w
 | Fri, 23 Oct 2026 | Vinylism x ADE | Afra, Ellen Allien, Freddy K, Laure Croft, Nene H, Parrish Smith, Serge, The Lady Machine |
 | Sat, 24 Oct 2026 | Home Again x Sound Metaphors x Basement Love Fundraiser | Bambounou, Black Loops, Blame Anthony, Butterhands, Cinthie, Dan Shake, David Vunk, Doppelgang, Doudou MD, Duncan Thomas, Giammarco Orsini, Merve, Natalie Robinson, PNNY, Simone de Kunovich, Soulidan, Sound Metaphors Djs, Thabo, Tiago Oudman, Tom Trago, bullet tooth |
 | Sat, 24 Oct 2026 | TILLATEC invites IsBurning, Cruise, Mala Junta, tINI AND THE GANG |  |
+| Mon, 26 Oct 2026 | VBX x fabric x Loud-Contact presented by TILLATEC | Alexia Glensy, Binh, Bobby., Christian AB, Dr Banana, Dresden, Frank Haag, Gabrielle Kwarteng, H-Foundation, Harry McCanna, ISAbella, Konduku, Lumiere, Magda, Matisa, Morgan, O.BEE, Reiss, Roza Terenzi, Tomas Station |
 
 ## Address
 
 Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam, Amsterdam
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*

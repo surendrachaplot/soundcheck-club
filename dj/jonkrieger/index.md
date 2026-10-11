@@ -1,6 +1,6 @@
 # JON KRIEGER
 
-JON KRIEGER is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Sneaky Pete's, Edinburgh on Fri, 16 Oct 2026.
+JON KRIEGER is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Sneaky Pete's, Edinburgh on Fri, 16 Oct 2026.
 
 JON KRIEGER is a techno and ebm artist based in United Kingdom, with 23 gigs on soundcheck across Brighton, Brussels, Edinburgh and London and 1 more. Often billed alongside Jane Darke, Arrosa and Claudia Kane. Next up: Sneaky Pete's, Edinburgh on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ JON KRIEGER is a techno and ebm artist based in United Kingdom, with 23 gigs on 
 
 Jane Darke, Arrosa, Claudia Kane
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonkrieger/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonkrieger/)*

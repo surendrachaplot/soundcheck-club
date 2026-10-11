@@ -1,6 +1,6 @@
 # Fabrique
 
-Fabrique is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "KYBBA + LOST XXL" on Sat, 24 Oct 2026.
+Fabrique is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "KYBBA + LOST XXL" on Sat, 24 Oct 2026.
 
 Fabrique is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including COLOR K!D and Holy Priest. See dates, start times and who's playing. Via Fantoli 9, Milano.
 
@@ -15,4 +15,4 @@ Fabrique is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with l
 
 Via Fantoli 9, Milano, Milan
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/fabrique/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/fabrique/)*

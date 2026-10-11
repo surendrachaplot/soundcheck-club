@@ -1,6 +1,6 @@
 # JAWAR (3)
 
-JAWAR (3) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Departamento, Mexico City on Wed, 7 Oct 2026.
+JAWAR (3) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Departamento, Mexico City on Wed, 7 Oct 2026.
 
 JAWAR is a house and deep house artist based in Mexico, with 30 gigs on soundcheck across Mexico City, Miami and New York City. Often billed alongside Barreto, papa jazz and Irena Stanisic. Next up: Departamento, Mexico City on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ JAWAR is a house and deep house artist based in Mexico, with 30 gigs on soundche
 
 Barreto, papa jazz, Irena Stanisic
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jawar-3/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jawar-3/)*

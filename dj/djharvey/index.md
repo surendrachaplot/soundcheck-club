@@ -1,6 +1,6 @@
 # DJ Harvey
 
-DJ Harvey is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
+DJ Harvey is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
 
 DJ Harvey is a house and techno artist based in United States of America, with 61 gigs on soundcheck across Amsterdam, Austin, Bali and Chicago and 15 more. Often billed alongside Heidi Lawden, Seth Troxler and Natasha Diggs. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
 
@@ -16,6 +16,7 @@ DJ Harvey is a house and techno artist based in United States of America, with 6
 
 ## Recently played
 
+- Empire Polo Club, Palm-springs · Sat, 10 Oct 2026
 - Ministry Of Sound, London · Sat, 22 Aug 2026
 - 528 Ibiza, Ibiza · Wed, 12 Aug 2026
 - Akbar, Los Angeles · Sun, 14 Jun 2026
@@ -23,10 +24,9 @@ DJ Harvey is a house and techno artist based in United States of America, with 6
 - Hart Plaza, Detroit · Sat, 23 May 2026
 - Gin Ling Way, Chinatown, Los Angeles · Sat, 16 May 2026
 - Pier 48's Shed A, San Francisco/Oakland · Sat, 9 May 2026
-- Zerotokyo, Tokyo · Tue, 28 Apr 2026
 
 ## Shares bills with
 
 Heidi Lawden, Seth Troxler, Natasha Diggs
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djharvey/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djharvey/)*

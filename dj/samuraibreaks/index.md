@@ -1,14 +1,13 @@
 # Samurai Breaks
 
-Samurai Breaks is a Jungle and Drum & Bass artist with 8 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Fuchs2, Prague on Sat, 10 Oct 2026.
+Samurai Breaks is a Jungle and Drum & Bass artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Beaver Works, Leeds on Fri, 16 Oct 2026.
 
-Samurai Breaks is a jungle and drum & bass artist based in United Kingdom, with 112 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 25 more. Often billed alongside Napes, Mandidextrous and 4am Kru. Next up: Fuchs2, Prague on Sat 10 Oct.
+Samurai Breaks is a jungle and drum & bass artist based in United Kingdom, with 112 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 25 more. Often billed alongside Napes, Mandidextrous and 4am Kru. Next up: Beaver Works, Leeds on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Fuchs2 | Prague |
 | Fri, 16 Oct 2026 | Beaver Works | Leeds |
 | Fri, 23 Oct 2026 | fabric | London |
 | Fri, 30 Oct 2026 | Hidden | Manchester |
@@ -19,6 +18,7 @@ Samurai Breaks is a jungle and drum & bass artist based in United Kingdom, with 
 
 ## Recently played
 
+- Fuchs2, Prague · Sat, 10 Oct 2026
 - Unité.22, Marseille · Sat, 3 Oct 2026
 - FORGE, Sheffield · Fri, 25 Sept 2026
 - Chinese Laundry, Sydney · Sat, 29 Aug 2026
@@ -26,10 +26,9 @@ Samurai Breaks is a jungle and drum & bass artist based in United Kingdom, with 
 - Quarters, Brighton · Fri, 21 Aug 2026
 - The Golden Lion, Manchester · Fri, 10 Jul 2026
 - Razzmatazz, Barcelona · Fri, 26 Jun 2026
-- The Clock Factory, Bristol · Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Napes, Mandidextrous, 4am Kru
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuraibreaks/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuraibreaks/)*

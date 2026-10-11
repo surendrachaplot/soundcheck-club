@@ -1,6 +1,6 @@
 # EMN (1)
 
-EMN (1) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Le Red Room, Montreal on Wed, 14 Oct 2026.
+EMN (1) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Le Red Room, Montreal on Wed, 14 Oct 2026.
 
 EMN is a techno and trance artist based in China, with 4 gigs on soundcheck across Montreal. Often billed alongside P3CO, Boomy and Sumatra. Next up: Le Red Room, Montreal on Wed 14 Oct.
 
@@ -20,4 +20,4 @@ EMN is a techno and trance artist based in China, with 4 gigs on soundcheck acro
 
 P3CO, Boomy, Sumatra
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emn-1/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emn-1/)*

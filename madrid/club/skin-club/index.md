@@ -1,14 +1,13 @@
 # Skin Club
 
-Skin Club is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "LIPSTICK X SKIN" on Sat, 10 Oct 2026.
+Skin Club is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "SKIN MISA: Modesto + Reitze + RUHE" on Sun, 11 Oct 2026.
 
-Skin Club is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with line-ups including Alejandro Gata, Buday, Cristian Marras and Ezekiel and 2 more. See dates, start times and who's playing. C. de la Aduana, 21Centro, 28013 Madrid, Spain.
+Skin Club is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including Alejandro Gata, Buday, Cristian Marras and Ezekiel and 2 more. See dates, start times and who's playing. C. de la Aduana, 21Centro, 28013 Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | LIPSTICK X SKIN | Ezekiel, GUS (4) |
 | Sun, 11 Oct 2026 | SKIN MISA: Modesto + Reitze + RUHE | Modesto, Reitze |
 | Fri, 16 Oct 2026 | SKIN ALPHA: DOFS + NETN + TOM CHIESA | NETN, TOM CHIESA |
 | Sun, 18 Oct 2026 | SKIN MISA: LAPUTASOFI + Reitze + RO | Reitze |
@@ -20,4 +19,4 @@ Skin Club is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with
 
 C. de la Aduana, 21Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/skin-club/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/skin-club/)*

@@ -1,14 +1,13 @@
 # Holy Priest
 
-Holy Priest is a Techno and Hardcore artist with 17 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Concourse Project, Austin on Sat, 10 Oct 2026.
+Holy Priest is a Techno and Hardcore artist with 16 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The Concourse Project, Austin on Sun, 11 Oct 2026.
 
-Holy Priest is a techno and hardcore artist based in Germany, with 136 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Austin and 55 more. Often billed alongside elMefti, Onlynumbers and Fantasm. Next up: The Concourse Project, Austin on Sat 10 Oct.
+Holy Priest is a techno and hardcore artist based in Germany, with 136 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Austin and 55 more. Often billed alongside elMefti, Onlynumbers and Fantasm. Next up: The Concourse Project, Austin on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | The Concourse Project | Austin |
 | Sun, 11 Oct 2026 | The Concourse Project | Austin |
 | Fri, 16 Oct 2026 | The OVO Hydro | Glasgow |
 | Sun, 18 Oct 2026 | D! Club | Lausanne |
@@ -20,9 +19,11 @@ Holy Priest is a techno and hardcore artist based in Germany, with 136 gigs on s
 | Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |
 | Fri, 4 Dec 2026 | Fabrique | Milan |
 | Fri, 11 Dec 2026 | TBA | Bremen |
+| Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 
 ## Recently played
 
+- The Concourse Project, Austin · Sat, 10 Oct 2026
 - Circuit de Barcelona - Catalunya, Barcelona · Fri, 11 Sept 2026
 - UNO MALTA, Malta · Thu, 13 Aug 2026
 - Eden, Ibiza · Tue, 4 Aug 2026
@@ -30,10 +31,9 @@ Holy Priest is a techno and hardcore artist based in Germany, with 136 gigs on s
 - Exhibition Park, Newcastle · Sat, 11 Jul 2026
 - Ormeau Park, Belfast · Sat, 20 Jun 2026
 - Olympia Reitanlage Riem, Munich · Sat, 13 Jun 2026
-- New Tekstil, Belgrade · Fri, 12 Jun 2026
 
 ## Shares bills with
 
 elMefti, Onlynumbers, Fantasm
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holypriest/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holypriest/)*

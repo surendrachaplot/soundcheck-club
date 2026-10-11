@@ -1,6 +1,6 @@
 # Dj Ino
 
-Dj Ino is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 31 Dec 2026.
+Dj Ino is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 31 Dec 2026.
 
 Dj Ino is a house and afro house artist based in Spain, with 12 gigs on soundcheck across Bangkok, Barcelona, Ibiza and New York City and 2 more. Often billed alongside Aaron Suiss, Alfonso Ares and Amine K. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Dj Ino is a house and afro house artist based in Spain, with 12 gigs on soundche
 
 Aaron Suiss, Alfonso Ares, Amine K
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djino/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djino/)*

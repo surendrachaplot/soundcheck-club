@@ -1,18 +1,17 @@
 # La Belle Angele
 
-La Belle Angele is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Underground Solution 30th Birthday Party (Part 2)" on Sat, 10 Oct 2026.
+La Belle Angele is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "Bpm - PHANTOM" on Thu, 29 Oct 2026.
 
-La Belle Angele is a music venue in Edinburgh listed on soundcheck. 2 upcoming gigs, with line-ups including Eclair Fifi, Feena, Linkwood and Lord Of The Isles and 2 more. See dates, start times and who's playing. 11 Hasties Close, Edinburgh, EH1 1HJ, Scotland, United Kingdom.
+La Belle Angele is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 11 Hasties Close, Edinburgh, EH1 1HJ, Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Underground Solution 30th Birthday Party (Part 2) | Eclair Fifi, Feena, LWS, Linkwood, Lord Of The Isles, Neil Landstrumm, Stephen Brown |
 | Thu, 29 Oct 2026 | Bpm - PHANTOM |  |
 
 ## Address
 
 11 Hasties Close, Edinburgh, EH1 1HJ, Scotland, United Kingdom, Edinburgh
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/la-belle-angele/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/la-belle-angele/)*

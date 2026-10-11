@@ -1,6 +1,6 @@
 # ferrari rot
 
-ferrari rot is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Schrotty, Cologne on Sat, 28 Nov 2026.
+ferrari rot is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Schrotty, Cologne on Sat, 28 Nov 2026.
 
 ferrari rot is a techno and house artist based in Germany, with 138 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside evin, MALUGI and Surf 2 Glory. Next up: Schrotty, Cologne on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ ferrari rot is a techno and house artist based in Germany, with 138 gigs on soun
 
 evin, MALUGI, Surf 2 Glory
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrarirot/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrarirot/)*

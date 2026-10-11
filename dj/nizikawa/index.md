@@ -1,6 +1,6 @@
 # Nizikawa
 
-Nizikawa is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at clubasia, Tokyo on Sun, 27 Dec 2026.
+Nizikawa is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at clubasia, Tokyo on Sun, 27 Dec 2026.
 
 Nizikawa is a garage and bass artist based in Japan, with 24 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside Genick, Jacotanu and Oblongar. Next up: clubasia, Tokyo on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Nizikawa is a garage and bass artist based in Japan, with 24 gigs on soundcheck 
 
 Genick, Jacotanu, Oblongar
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nizikawa/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nizikawa/)*

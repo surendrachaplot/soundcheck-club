@@ -1,18 +1,18 @@
 # Medis
 
-Medis is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
+Medis is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The Boxing Club, Bristol on Sat, 31 Oct 2026.
 
-Medis is a dubstep and bass artist based in United Kingdom, with 40 gigs on soundcheck across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Neek, Amy Kisnorbo and Commodo. Next up: The Prospect Building, Bristol on Sat 10 Oct.
+Medis is a dubstep and bass artist based in United Kingdom, with 40 gigs on soundcheck across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Neek, Amy Kisnorbo and Commodo. Next up: The Boxing Club, Bristol on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | The Prospect Building | Bristol |
 | Sat, 31 Oct 2026 | The Boxing Club | Bristol |
 
 ## Recently played
 
+- The Prospect Building, Bristol · Sat, 10 Oct 2026
 - The Love Inn, Bristol · Thu, 20 Aug 2026
 - Ashton Court Estate, Bristol · Sat, 23 May 2026
 - TBA - AC Klub , Prague · Fri, 17 Apr 2026
@@ -20,10 +20,9 @@ Medis is a dubstep and bass artist based in United Kingdom, with 40 gigs on soun
 - The Island, Bristol · Fri, 19 Dec 2025
 - Strange Brew, Bristol · Sat, 15 Nov 2025
 - Strange Brew, Bristol · Sat, 16 Aug 2025
-- Strange Brew, Bristol · Fri, 18 Jul 2025
 
 ## Shares bills with
 
 Neek, Amy Kisnorbo, Commodo
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medis-uk/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medis-uk/)*

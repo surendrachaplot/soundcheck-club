@@ -1,6 +1,6 @@
 # C.Versa
 
-C.Versa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at West Harlem, Kyoto on Fri, 23 Oct 2026.
+C.Versa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at West Harlem, Kyoto on Fri, 23 Oct 2026.
 
 C.Versa is a house and techno artist based in Japan, with 7 gigs on soundcheck across Kyoto and Osaka. Often billed alongside Sou Kitahara, Ryogo and kitapon. Next up: West Harlem, Kyoto on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ C.Versa is a house and techno artist based in Japan, with 7 gigs on soundcheck a
 
 Sou Kitahara, Ryogo, kitapon
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c.versa/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c.versa/)*

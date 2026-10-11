@@ -1,6 +1,6 @@
 # underscores
 
-underscores is a Electro and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Snapdragon Stadium, Los Angeles on Sun, 11 Oct 2026.
+underscores is a Electro and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Snapdragon Stadium, Los Angeles on Sun, 11 Oct 2026.
 
 underscores is an electro and house artist based in United States of America, with 8 gigs on soundcheck across Brussels, Chicago, Los Angeles and Melbourne and 2 more. Often billed alongside umru, FCUKERS and ALISHA. Next up: Snapdragon Stadium, Los Angeles on Sun 11 Oct.
 
@@ -24,4 +24,4 @@ underscores is an electro and house artist based in United States of America, wi
 
 umru, FCUKERS, ALISHA
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/underscores/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/underscores/)*

@@ -1,14 +1,13 @@
 # ALT8
 
-ALT8 is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Club Vinyl, Denver on Sat, 10 Oct 2026.
+ALT8 is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Inter Expo Centre, Sofia on Fri, 16 Oct 2026.
 
-ALT8 is a techno and trance artist based in Ireland, with 144 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 50 more. Often billed alongside Sara Landry, OGUZ and 999999999. Next up: Club Vinyl, Denver on Sat 10 Oct.
+ALT8 is a techno and trance artist based in Ireland, with 144 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 50 more. Often billed alongside Sara Landry, OGUZ and 999999999. Next up: Inter Expo Centre, Sofia on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Club Vinyl | Denver |
 | Fri, 16 Oct 2026 | Inter Expo Centre | Sofia |
 | Thu, 22 Oct 2026 | Melkweg | Amsterdam |
 | Sat, 24 Oct 2026 | MÄX | Zurich |
@@ -20,6 +19,7 @@ ALT8 is a techno and trance artist based in Ireland, with 144 gigs on soundcheck
 
 ## Recently played
 
+- Club Vinyl, Denver · Sat, 10 Oct 2026
 - Superior Ingredients, New York City · Fri, 2 Oct 2026
 - Fuse, Brussels · Fri, 11 Sept 2026
 - Quinta Mira Rio, Lisbon · Sun, 6 Sept 2026
@@ -27,10 +27,9 @@ ALT8 is a techno and trance artist based in Ireland, with 144 gigs on soundcheck
 - Kilomètre25, Paris · Fri, 21 Aug 2026
 - TBA - Secret Location, London · Thu, 20 Aug 2026
 - 821 Runnymede Rd, Toronto · Sat, 8 Aug 2026
-- BERHTA, Washington DC · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Sara Landry, OGUZ, 999999999
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alt8/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alt8/)*

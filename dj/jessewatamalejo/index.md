@@ -1,6 +1,6 @@
 # Jesse Watamalejo
 
-Jesse Watamalejo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at HED² Barber, Amsterdam on Fri, 23 Oct 2026.
+Jesse Watamalejo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at HED² Barber, Amsterdam on Fri, 23 Oct 2026.
 
 Jesse Watamalejo is a tech house and house artist, with 12 gigs on soundcheck across Amsterdam and The Hague. Often billed alongside rebrånded, Federico Patafi and Vale.T. Next up: HED² Barber, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Jesse Watamalejo is a tech house and house artist, with 12 gigs on soundcheck ac
 
 rebrånded, Federico Patafi, Vale.T
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessewatamalejo/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessewatamalejo/)*

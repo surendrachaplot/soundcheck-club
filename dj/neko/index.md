@@ -1,6 +1,6 @@
 # Neko
 
-Neko is a Gabber and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Le Château du Bois Guy, Rennes on Sat, 17 Oct 2026.
+Neko is a Gabber and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Le Château du Bois Guy, Rennes on Sat, 17 Oct 2026.
 
 Neko is a gabber and techno artist based in Lithuania, with 5 gigs on soundcheck across Frankfurt, Lithuania, Madrid and Rennes and 1 more. Often billed alongside Abzocka, Angerfist and Britney Speed (FR). Next up: Le Château du Bois Guy, Rennes on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ Neko is a gabber and techno artist based in Lithuania, with 5 gigs on soundcheck
 
 Abzocka, Angerfist, Britney Speed (FR)
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neko/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neko/)*

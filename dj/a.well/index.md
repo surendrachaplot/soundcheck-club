@@ -1,6 +1,6 @@
 # A.Well
 
-A.Well is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Sub Club Melbourne, Melbourne on Sat, 31 Oct 2026.
+A.Well is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Sub Club Melbourne, Melbourne on Sat, 31 Oct 2026.
 
 A.Well is a house and techno artist based in Australia, with 58 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Andrew88, Yugwan and Jan Kost. Next up: Sub Club Melbourne, Melbourne on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ A.Well is a house and techno artist based in Australia, with 58 gigs on soundche
 
 Andrew88, Yugwan, Jan Kost
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.well/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.well/)*

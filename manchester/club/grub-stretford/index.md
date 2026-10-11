@@ -1,14 +1,13 @@
 # Grub Stretford
 
-Grub Stretford is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "GRUB Stretford: ZJ (Zac Wilson) DJ Set" on Sat, 10 Oct 2026.
+Grub Stretford is a music venue in Manchester with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "GRUB Stretford: Drum and Backgammon" on Sun, 11 Oct 2026.
 
-Grub Stretford is a music venue in Manchester listed on soundcheck. 10 upcoming gigs, with line-ups including SNO (UK), Stereo Master and ZJ (UK). See dates, start times and who's playing. Multi-Storey Car park, King St, Stretford, Manchester M32 9AH.
+Grub Stretford is a music venue in Manchester listed on soundcheck. 9 upcoming gigs, with line-ups including SNO (UK) and Stereo Master. See dates, start times and who's playing. Multi-Storey Car park, King St, Stretford, Manchester M32 9AH.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | GRUB Stretford: ZJ (Zac Wilson) DJ Set | ZJ (UK) |
 | Sun, 11 Oct 2026 | GRUB Stretford: Drum and Backgammon |  |
 | Thu, 15 Oct 2026 | GRUB Stretford: Steam Radio Showcase |  |
 | Fri, 16 Oct 2026 | GRUB Stretford: Charity Shop Sound Clash |  |
@@ -23,4 +22,4 @@ Grub Stretford is a music venue in Manchester listed on soundcheck. 10 upcoming 
 
 Multi-Storey Car park, King St, Stretford, Manchester M32 9AH, Manchester
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/grub-stretford/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/grub-stretford/)*

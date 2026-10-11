@@ -1,14 +1,13 @@
 # Maxi Meraki
 
-Maxi Meraki is a House and Afro House artist with 5 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Club Space Miami, Miami on Fri, 9 Oct 2026.
+Maxi Meraki is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Volt Club Milano, Milan on Fri, 23 Oct 2026.
 
-Maxi Meraki is a house and afro house artist based in Belgium, with 97 gigs on soundcheck across Antwerp, Athens, Austin and Bali and 36 more. Often billed alongside Mahmut Orhan, Marten Lou and AJNA. Next up: Club Space Miami, Miami on Fri 9 Oct.
+Maxi Meraki is a house and afro house artist based in Belgium, with 97 gigs on soundcheck across Antwerp, Athens, Austin and Bali and 36 more. Often billed alongside Mahmut Orhan, Marten Lou and AJNA. Next up: Volt Club Milano, Milan on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Club Space Miami | Miami |
 | Fri, 23 Oct 2026 | Volt Club Milano | Milan |
 | Thu, 29 Oct 2026 | One Marylebone | London |
 | Sat, 28 Nov 2026 | Waagnatie Expo & Events | Antwerp |
@@ -29,4 +28,4 @@ Maxi Meraki is a house and afro house artist based in Belgium, with 97 gigs on s
 
 Mahmut Orhan, Marten Lou, AJNA
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maximeraki/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maximeraki/)*

@@ -1,15 +1,13 @@
 # FLUCC
 
-FLUCC is a music venue in Vienna with 14 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "techNOage, from three o`clock Clubbing" on Sat, 10 Oct 2026.
+FLUCC is a music venue in Vienna with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Garten von Eben im Traumtempo VII" on Sun, 11 Oct 2026.
 
-FLUCC is a music venue in Vienna listed on soundcheck. 14 upcoming gigs, with line-ups including Altroy Jerome, AMOVV, anxxxious_t and Authentically Plastic and 2 more. See dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
+FLUCC is a music venue in Vienna listed on soundcheck. 13 upcoming gigs, with line-ups including Altroy Jerome, Amar Priganica, AMOVV and anxxxious_t and 2 more. See dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | techNOage, from three o`clock Clubbing | SNDR_Xone |
-| Sat, 10 Oct 2026 | Überdruck im Fluc - MYSTERYBOX 01 [Überdruck + PaxNicht + Special Guest (Belgium)] |  |
 | Sun, 11 Oct 2026 | Garten von Eben im Traumtempo VII | Nugi, Sansea |
 | Thu, 15 Oct 2026 | Palazzo Night |  |
 | Fri, 16 Oct 2026 | KISSEN | Authentically Plastic, Ethane, Shepperd, anxxxious_t, zey |
@@ -17,10 +15,12 @@ FLUCC is a music venue in Vienna listed on soundcheck. 14 upcoming gigs, with li
 | Sun, 18 Oct 2026 | Augend&Addend presents: Fred Moten & Brandon López and sucre sucre |  |
 | Fri, 23 Oct 2026 | KONZEPT | Dcascallana, REIKA_DJ, Techflex |
 | Sat, 24 Oct 2026 | INTRIKAT x perмa | GEN-Z, Kid Kodama |
+| Sat, 24 Oct 2026 | Tohuwabohu - Technoid Edition | Purrdition |
 | Sun, 25 Oct 2026 | Skofi & Band 'HALT MICH FEST' Album Releaseshow |  |
+| Sun, 25 Oct 2026 | VVAX Vinyl Only Techno x Fabian Hofer | AMOVV, CPR0, Dcascallana, Fabian Hofer (2) |
 
 ## Address
 
 Praterstern 5; Vienna 1020; Austria, Vienna
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*

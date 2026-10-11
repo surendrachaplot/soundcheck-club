@@ -1,14 +1,13 @@
 # Klub Progresja
 
-Klub Progresja is a music venue in Warsaw with 6 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "ATB | THE FINAL CHAPTER" on Sat, 10 Oct 2026.
+Klub Progresja is a music venue in Warsaw with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "SCHILLER: CLUB CONCERT VOYAGE" on Sun, 11 Oct 2026.
 
-Klub Progresja is a music venue in Warsaw listed on soundcheck. 6 upcoming gigs, with line-ups including ATB, BLANKA, HI-LO and Phil Berg and 2 more. See dates, start times and who's playing. Fort Wola 22, 01-258 Warszawa.
+Klub Progresja is a music venue in Warsaw listed on soundcheck. 5 upcoming gigs, with line-ups including BLANKA, HI-LO, Phil Berg and SHDW and 2 more. See dates, start times and who's playing. Fort Wola 22, 01-258 Warszawa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | ATB / THE FINAL CHAPTER | ATB |
 | Sun, 11 Oct 2026 | SCHILLER: CLUB CONCERT VOYAGE |  |
 | Fri, 16 Oct 2026 | ARK: HI-LO / Progresja, Warszawa | HI-LO |
 | Sat, 31 Oct 2026 | EXIST x Mutual Rytm Showcase | BLANKA, Phil Berg, SHDW, Stef Mendesidis, Wencel |
@@ -19,4 +18,4 @@ Klub Progresja is a music venue in Warsaw listed on soundcheck. 6 upcoming gigs,
 
 Fort Wola 22, 01-258 Warszawa, Warsaw
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/klub-progresja/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/klub-progresja/)*

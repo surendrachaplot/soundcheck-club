@@ -1,14 +1,13 @@
 # Navider
 
-Navider is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Slow Club, Barcelona on Sat, 10 Oct 2026.
+Navider is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Slow Club, Barcelona on Sun, 11 Oct 2026.
 
-Navider is a house and techno artist based in Spain, with 275 gigs on soundcheck across Barcelona, Budapest, Ibiza and Madrid and 1 more. Often billed alongside D.T.H., Hermes Disco Eterno and Frankie G. Next up: Slow Club, Barcelona on Sat 10 Oct.
+Navider is a house and techno artist based in Spain, with 275 gigs on soundcheck across Barcelona, Budapest, Ibiza and Madrid and 1 more. Often billed alongside D.T.H., Hermes Disco Eterno and Frankie G. Next up: Slow Club, Barcelona on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Slow Club | Barcelona |
 | Sun, 11 Oct 2026 | Slow Club | Barcelona |
 | Thu, 15 Oct 2026 | Slow Club | Barcelona |
 | Thu, 15 Oct 2026 | Slow Club | Barcelona |
@@ -20,9 +19,11 @@ Navider is a house and techno artist based in Spain, with 275 gigs on soundcheck
 | Sat, 24 Oct 2026 | Slow Club | Barcelona |
 | Thu, 29 Oct 2026 | Slow Club | Barcelona |
 | Thu, 29 Oct 2026 | Slow Club | Barcelona |
+| Fri, 30 Oct 2026 | Slow Club | Barcelona |
 
 ## Recently played
 
+- Slow Club, Barcelona · Sat, 10 Oct 2026
 - Slow Club, Barcelona · Fri, 9 Oct 2026
 - Slow Club, Barcelona · Thu, 8 Oct 2026
 - Slow Club, Barcelona · Thu, 8 Oct 2026
@@ -30,10 +31,9 @@ Navider is a house and techno artist based in Spain, with 275 gigs on soundcheck
 - Slow Club, Barcelona · Fri, 2 Oct 2026
 - Slow Club, Barcelona · Thu, 1 Oct 2026
 - Slow Club, Barcelona · Thu, 1 Oct 2026
-- Slow Club, Barcelona · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 D.T.H., Hermes Disco Eterno, Frankie G
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/navider/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/navider/)*

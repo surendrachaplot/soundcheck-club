@@ -1,6 +1,6 @@
 # Laukia
 
-Laukia is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sun, 11 Oct 2026.
+Laukia is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sun, 11 Oct 2026.
 
 Laukia is a house and electro artist based in Lithuania, with 12 gigs on soundcheck across Barcelona. Often billed alongside Matteo Floris, Baffa and menine. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Laukia is a house and electro artist based in Lithuania, with 12 gigs on soundch
 
 Matteo Floris, Baffa, menine
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laukia/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laukia/)*

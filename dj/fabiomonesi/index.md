@@ -1,18 +1,18 @@
 # Fabio Monesi
 
-Fabio Monesi is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 10 Oct 2026.
+Fabio Monesi is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
-Fabio Monesi is a house and electro artist based in Italy, with 46 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Glasgow and 4 more. Often billed alongside Hiroko Hacci, Bradley Zero and Creamy. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 10 Oct.
+Fabio Monesi is a house and electro artist based in Italy, with 46 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Glasgow and 4 more. Often billed alongside Hiroko Hacci, Bradley Zero and Creamy. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 | Fri, 23 Oct 2026 | Amsterdam Central Station | Amsterdam |
 
 ## Recently played
 
+- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Sat, 10 Oct 2026
 - Studionotte, Milan · Sat, 3 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 26 Sept 2026
 - NAMA - Nuovo Anfiteatro Martesana, Milan · Sat, 12 Sept 2026
@@ -20,10 +20,9 @@ Fabio Monesi is a house and electro artist based in Italy, with 46 gigs on sound
 - Macarena Club, Barcelona · Wed, 17 Jun 2026
 - Apollo Club Milano, Milan · Sun, 7 Jun 2026
 - Piazza XXIV Maggio - Darsena, Milan · Sat, 6 Jun 2026
-- BASE Milano, Milan · Sat, 23 May 2026
 
 ## Shares bills with
 
 Hiroko Hacci, Bradley Zero, Creamy
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiomonesi/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiomonesi/)*

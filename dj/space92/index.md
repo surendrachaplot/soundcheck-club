@@ -1,14 +1,13 @@
 # Space 92
 
-Space 92 is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Halle de La Machine, Toulouse on Sat, 10 Oct 2026.
+Space 92 is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
-Space 92 is a techno and house artist based in France, with 134 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 51 more. Often billed alongside Popof, Lilly Palmer and Marie Vaunt. Next up: Halle de La Machine, Toulouse on Sat 10 Oct.
+Space 92 is a techno and house artist based in France, with 134 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 51 more. Often billed alongside Popof, Lilly Palmer and Marie Vaunt. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Halle de La Machine | Toulouse |
 | Thu, 22 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
@@ -22,6 +21,7 @@ Space 92 is a techno and house artist based in France, with 134 gigs on soundche
 
 ## Recently played
 
+- Halle de La Machine, Toulouse · Sat, 10 Oct 2026
 - Bauhaus Vegas, Las-vegas · Sat, 3 Oct 2026
 - Bauhaus, Houston · Fri, 25 Sept 2026
 - Royale, Boston · Sat, 19 Sept 2026
@@ -29,10 +29,9 @@ Space 92 is a techno and house artist based in France, with 134 gigs on soundche
 - Westhafen, Leipzig · Sat, 18 Jul 2026
 - Burning Beach, Nürnberg · Fri, 19 Jun 2026
 - INPUT High Fidelity Dance Club, Barcelona · Sat, 6 Jun 2026
-- Suvilahti Power Plant, Helsinki · Fri, 22 May 2026
 
 ## Shares bills with
 
 Popof, Lilly Palmer, Marie Vaunt
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/space92/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/space92/)*

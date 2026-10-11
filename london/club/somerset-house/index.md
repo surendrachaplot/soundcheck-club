@@ -1,6 +1,6 @@
 # Somerset House
 
-Somerset House is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. The next is "Paint Room Lates: Cyndi Handson" on Thu, 22 Oct 2026.
+Somerset House is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "Paint Room Lates: Cyndi Handson" on Thu, 22 Oct 2026.
 
 Somerset House is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Strand, London, WC2R 1LA.
 
@@ -14,4 +14,4 @@ Somerset House is a music venue in London listed on soundcheck. 1 upcoming gig. 
 
 Strand, London, WC2R 1LA, London
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/somerset-house/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/somerset-house/)*

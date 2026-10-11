@@ -1,6 +1,6 @@
 # Moulin
 
-Moulin is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at TBA - LFO, Madrid on Sat, 31 Oct 2026.
+Moulin is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - LFO, Madrid on Sat, 31 Oct 2026.
 
 Moulin is a house and techno artist, with 53 gigs on soundcheck across Barcelona, Ibiza, Lisbon and Madrid and 4 more. Often billed alongside Chris Gorrie, Fabich and Calabasa. Next up: TBA - LFO, Madrid on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Moulin is a house and techno artist, with 53 gigs on soundcheck across Barcelona
 
 Chris Gorrie, Fabich, Calabasa
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moulin/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moulin/)*

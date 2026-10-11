@@ -1,14 +1,13 @@
 # NWHR
 
-NWHR is a music venue in Montreal with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "CLOCK OUT" on Fri, 9 Oct 2026.
+NWHR is a music venue in Montreal with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Going Away Party: Deneb & Friends" on Sun, 11 Oct 2026.
 
-NWHR is a music venue in Montreal listed on soundcheck. 10 upcoming gigs, with line-ups including Anabasine, BPlease, Breakcheck and Deneb and 2 more. See dates, start times and who's playing. 1055 St Laurent Blvd Montreal, QC H2Z 1J6.
+NWHR is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, with line-ups including Anabasine, Breakcheck, Deneb and Destiny (CA) and 2 more. See dates, start times and who's playing. 1055 St Laurent Blvd Montreal, QC H2Z 1J6.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | CLOCK OUT | BPlease, Kanatonik, No Police |
 | Sun, 11 Oct 2026 | Going Away Party: Deneb & Friends | Deneb |
 | Fri, 16 Oct 2026 | NWHR Invites Anabasine // Breakcheck // Destiny | Anabasine, Breakcheck, Destiny (CA) |
 | Sun, 18 Oct 2026 | Arder: Toobris | Toobris |
@@ -23,4 +22,4 @@ NWHR is a music venue in Montreal listed on soundcheck. 10 upcoming gigs, with l
 
 1055 St Laurent Blvd Montreal, QC H2Z 1J6, Montreal
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/nwhr/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/nwhr/)*

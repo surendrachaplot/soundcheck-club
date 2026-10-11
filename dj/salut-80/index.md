@@ -1,6 +1,6 @@
 # Salut 80
 
-Salut 80 is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at underiolo, Warsaw on Fri, 16 Oct 2026.
+Salut 80 is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at underiolo, Warsaw on Fri, 16 Oct 2026.
 
 Salut 80 is an electronic artist, with 17 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Verde, Viikatory and Ilya Semashkevich. Next up: underiolo, Warsaw on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Salut 80 is an electronic artist, with 17 gigs on soundcheck across Krakow and W
 
 Verde, Viikatory, Ilya Semashkevich
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salut-80/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salut-80/)*

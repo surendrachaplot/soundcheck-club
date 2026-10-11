@@ -1,6 +1,6 @@
 # Olga Korol
 
-Olga Korol is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Südpol, Hamburg on Sat, 10 Oct 2026.
+Olga Korol is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Südpol, Hamburg on Sat, 10 Oct 2026.
 
 Olga Korol is a house and minimal artist based in Ukraine, with 102 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 37 more. Often billed alongside Per Hammar, Cristi Cons and Elnur. Next up: Südpol, Hamburg on Sat 10 Oct.
 
@@ -15,6 +15,7 @@ Olga Korol is a house and minimal artist based in Ukraine, with 102 gigs on soun
 
 ## Recently played
 
+- Südpol, Hamburg · Sat, 10 Oct 2026
 - TBA - alte oper Frankfurt, Frankfurt · Fri, 9 Oct 2026
 - Frieda's Büxe, Zurich · Sat, 3 Oct 2026
 - D-EDGE, Sao Paulo · Fri, 18 Sept 2026
@@ -22,10 +23,9 @@ Olga Korol is a house and minimal artist based in Ukraine, with 102 gigs on soun
 - 131 Mccormack St, Toronto · Sat, 29 Aug 2026
 - St Brides Church, Liverpool · Sat, 22 Aug 2026
 - Night Tales, London · Sat, 1 Aug 2026
-- Club der Visionaere, Berlin · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Per Hammar, Cristi Cons, Elnur
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olgakorol-ru/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olgakorol-ru/)*

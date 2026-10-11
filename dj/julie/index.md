@@ -1,13 +1,14 @@
 # Julie
 
-Julie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at CLUB RAUM, Amsterdam on Sat, 21 Nov 2026.
+Julie is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA, Los Angeles on Sat, 7 Nov 2026.
 
-Julie is a techno and house artist based in Netherlands, with 52 gigs on soundcheck across Amsterdam, Berlin, Mexico City and Miami and 6 more. Often billed alongside Delano Legito, Sandrien and Serti. Next up: CLUB RAUM, Amsterdam on Sat 21 Nov.
+Julie is a techno and house artist based in Netherlands, with 53 gigs on soundcheck across Amsterdam, Berlin, Los Angeles and Mexico City and 7 more. Often billed alongside Delano Legito, Sandrien and Serti. Next up: TBA, Los Angeles on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | TBA | Los Angeles |
 | Sat, 21 Nov 2026 | CLUB RAUM | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Julie is a techno and house artist based in Netherlands, with 52 gigs on soundch
 
 Delano Legito, Sandrien, Serti
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julie/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julie/)*

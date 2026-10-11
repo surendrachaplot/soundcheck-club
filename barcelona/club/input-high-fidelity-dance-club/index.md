@@ -1,14 +1,13 @@
 # INPUT High Fidelity Dance Club
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona with 18 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "INPUT pres Kolter All Night Long" on Sat, 10 Oct 2026.
+INPUT High Fidelity Dance Club is a music venue in Barcelona with 17 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "INPUT pres Jamback" on Sun, 11 Oct 2026.
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 18 upcoming gigs, with line-ups including Beste Hira, Chris Avantgarde, Colin Benders and Dubfire and 2 more. See dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
+INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 17 upcoming gigs, with line-ups including Beste Hira, Chris Avantgarde, Colin Benders and Dubfire and 2 more. See dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | INPUT pres Kolter All Night Long | Kolter |
 | Sun, 11 Oct 2026 | INPUT pres Jamback | INDRA TRAFERRI, Jamback |
 | Fri, 16 Oct 2026 | INPUT pres OGAZON | Francesco Carvetta, Ogazón |
 | Fri, 23 Oct 2026 | INPUT pres EARGASM GOD & FREDERIC | EARGASM GOD, Frederic. |
@@ -18,9 +17,10 @@ INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundchec
 | Fri, 6 Nov 2026 | INPUT pres MR BELT & WEZOL | Mr. Belt & Wezol |
 | Fri, 6 Nov 2026 | INPUT pres Mika Heggemann | Mika Heggemann |
 | Sat, 7 Nov 2026 | PRISM pres Dubfire 20 | Dubfire, Sciahri |
+| Fri, 13 Nov 2026 | PRISM pres Colin Benders live & Beste Hira | Beste Hira, Colin Benders, Hitch |
 
 ## Address
 
 Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain, Barcelona
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*

@@ -1,6 +1,6 @@
 # DJ dood
 
-DJ dood is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Gorg-O-Mish, Vancouver on Sun, 18 Oct 2026.
+DJ dood is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Gorg-O-Mish, Vancouver on Sun, 18 Oct 2026.
 
 DJ dood is a house and techno artist based in Canada, with 41 gigs on soundcheck across Vancouver. Often billed alongside Max Ulis, Lerma and Fisher Bryce. Next up: Gorg-O-Mish, Vancouver on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ DJ dood is a house and techno artist based in Canada, with 41 gigs on soundcheck
 
 Max Ulis, Lerma, Fisher Bryce
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdood/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdood/)*

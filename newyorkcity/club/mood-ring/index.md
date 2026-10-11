@@ -1,15 +1,13 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "CLUB MOLEDRO" on Sat, 10 Oct 2026.
+Mood Ring is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Haus of Lil Girlz presents Welcome to the Dollhaus" on Wed, 14 Oct 2026.
 
-Mood Ring is a music venue in New York City listed on soundcheck. 18 upcoming gigs, with line-ups including Abril IRL, AG, Ah Dek and Aleska and 2 more. See dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
+Mood Ring is a music venue in New York City listed on soundcheck. 16 upcoming gigs, with line-ups including Abril IRL, AG, Ah Dek and Aleska and 2 more. See dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | CLUB MOLEDRO | Clocky Chulo, DJ ing, Dipto, Maul Couple, TNSXORDS, To The End., girl_irl |
-| Sat, 10 Oct 2026 | she.they.dj | JIYNX |
 | Wed, 14 Oct 2026 | Haus of Lil Girlz presents Welcome to the Dollhaus |  |
 | Thu, 15 Oct 2026 | EL AFTERS: A FUNDRAISER FOR PUERTO RICO | AROON, grunge mum |
 | Thu, 15 Oct 2026 | E'Klektik x CELOSIA | ANTON (ES), Harry Fletcher, Jared Maharaj |
@@ -18,9 +16,11 @@ Mood Ring is a music venue in New York City listed on soundcheck. 18 upcoming gi
 | Sat, 17 Oct 2026 | FINAL ECSTASY | Bodegaparty, DJ Freedem, Twaankalu, WADDLE |
 | Sat, 17 Oct 2026 | ANKHARA Session 003 |  |
 | Wed, 21 Oct 2026 | Bounce Project | Abril IRL, Bella Hex, LoKho |
+| Thu, 22 Oct 2026 | Creatures of the night | Aleska, BABEITSPURR, Charmed, KC (NYC), Remniqe, Sophia Riv, y2aura |
+| Fri, 23 Oct 2026 | LIFE AFTER TRANCE | Anna Eberg, Aster, CITYSPROBLEM, DJ Try, FUSSY |
 
 ## Address
 
 1260 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*

@@ -1,6 +1,6 @@
 # Cigar Bar & Grill
 
-Cigar Bar & Grill is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Takeover Wednesdays: Industry Night – DJ Mr. 45 - October 14, 2026" on Wed, 14 Oct 2026.
+Cigar Bar & Grill is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Takeover Wednesdays: Industry Night – DJ Mr. 45 - October 14, 2026" on Wed, 14 Oct 2026.
 
 Cigar Bar & Grill is a music venue in San Francisco/Oakland listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 850 Montgomery St, San Francisco, CA 94133.
 
@@ -16,4 +16,4 @@ Cigar Bar & Grill is a music venue in San Francisco/Oakland listed on soundcheck
 
 850 Montgomery St, San Francisco, CA 94133, San Francisco/Oakland
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/cigar-bar-grill/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/cigar-bar-grill/)*

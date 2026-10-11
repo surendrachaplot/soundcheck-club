@@ -1,6 +1,6 @@
 # VIBECHEN
 
-VIBECHEN is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Das Werk, Vienna on Sat, 7 Nov 2026.
+VIBECHEN is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Das Werk, Vienna on Sat, 7 Nov 2026.
 
 VIBECHEN is a techno and hip-hop artist based in Austria, with 39 gigs on soundcheck across Berlin and Vienna. Often billed alongside Tomagan, Albin Brezlan and Huebl. Next up: Das Werk, Vienna on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ VIBECHEN is a techno and hip-hop artist based in Austria, with 39 gigs on soundc
 
 Tomagan, Albin Brezlan, Huebl
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vibechen/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vibechen/)*

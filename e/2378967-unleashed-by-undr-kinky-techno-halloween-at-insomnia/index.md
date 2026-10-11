@@ -1,6 +1,6 @@
 # UNLEASHED by UNDR - Kinky Techno Halloween at Insomnia
 
-UNLEASHED by UNDR - Kinky Techno Halloween at Insomnia on Sat 31 Oct, Berlin. 3 artists: BOHO, Jakob Lesch and Miss Unleashed. Techno. See the line-up on soundcheck.
+UNLEASHED by UNDR - Kinky Techno Halloween at Insomnia on Sat 31 Oct, Berlin. 3 artists: BOHO, Jakob Lesch and Miss UNLEASHED. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,6 @@ UNLEASHED by UNDR - Kinky Techno Halloween at Insomnia on Sat 31 Oct, Berlin. 3 
 
 - BOHO
 - Jakob Lesch
-- Miss Unleashed
+- Miss UNLEASHED
 
 *Source: [soundcheck](https://soundcheck.club/e/2378967-unleashed-by-undr-kinky-techno-halloween-at-insomnia/)*

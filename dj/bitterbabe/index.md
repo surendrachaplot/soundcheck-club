@@ -1,6 +1,6 @@
 # Bitter Babe
 
-Bitter Babe is a Techno and Latin Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at Komplexo Tempo, Sao Paulo on Sun, 11 Oct 2026.
+Bitter Babe is a Techno and Latin Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Komplexo Tempo, Sao Paulo on Sun, 11 Oct 2026.
 
 Bitter Babe is a techno and latin bass artist based in Colombia, with 177 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 47 more. Often billed alongside Verraco, Nick León and Kia (AU). Next up: Komplexo Tempo, Sao Paulo on Sun 11 Oct.
 
@@ -28,4 +28,4 @@ Bitter Babe is a techno and latin bass artist based in Colombia, with 177 gigs o
 
 Verraco, Nick León, Kia (AU)
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bitterbabe/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bitterbabe/)*

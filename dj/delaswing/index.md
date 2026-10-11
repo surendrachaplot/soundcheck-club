@@ -1,6 +1,6 @@
 # De La Swing
 
-De La Swing is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
+De La Swing is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
 
 De La Swing is a tech house and house artist based in Spain, with 87 gigs on soundcheck across Bali, Barcelona, Bucharest and Budapest and 12 more. Often billed alongside Paco Osuna, Melanie Ribbe and CAAL. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
 
@@ -12,6 +12,7 @@ De La Swing is a tech house and house artist based in Spain, with 87 gigs on sou
 
 ## Recently played
 
+- Auditorio Málaga Cortijo de Torres, South · Sat, 10 Oct 2026
 - Amnesia Ibiza, Ibiza · Sun, 27 Sept 2026
 - Brisa Open Air, Barcelona · Sun, 20 Sept 2026
 - [UNVRS], Ibiza · Sat, 19 Sept 2026
@@ -19,10 +20,9 @@ De La Swing is a tech house and house artist based in Spain, with 87 gigs on sou
 - Sunseabar Beach Club, Barcelona · Sat, 5 Sept 2026
 - [UNVRS], Ibiza · Sat, 22 Aug 2026
 - Cova Santa, Ibiza · Sun, 16 Aug 2026
-- [UNVRS], Ibiza · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Paco Osuna, Melanie Ribbe, CAAL
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delaswing/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delaswing/)*

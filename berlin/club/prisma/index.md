@@ -1,14 +1,13 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Wasteland Berlin at Prisma W/ Ric Piccolo & Barbie Garbage" on Sat, 10 Oct 2026.
+Prisma is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Klubkneipe x House Cats" on Sun, 11 Oct 2026.
 
-Prisma is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Agustin Mendez, D.Sociation, DJ Kodah and Domovnika and 2 more. See dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
+Prisma is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Agustin Mendez, D.Sociation, DJ Kodah and Domovnika and 2 more. See dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Wasteland Berlin at Prisma W/ Ric Piccolo & Barbie Garbage | Furotica, Ric Piccolo |
 | Sun, 11 Oct 2026 | Klubkneipe x House Cats | Kalimanda |
 | Tue, 13 Oct 2026 | Klubkneipe x Tuesday Ritual - Zine Workshop & Dance with Friends Takeover | Shoplifter, Thys |
 | Thu, 15 Oct 2026 | Sssmile Afterhour | Agustin Mendez, maniaclina |
@@ -18,9 +17,10 @@ Prisma is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with l
 | Sun, 25 Oct 2026 | Klubkneipe x Resonance | Emilion Dollar Baby, Kazuki Takahashi |
 | Tue, 27 Oct 2026 | Klubkneipe x Tuesday Ritual - Tattoo Flash Day | DJ Kodah, Domovnika, Michael Marchi |
 | Thu, 29 Oct 2026 | Sssmile Instagram | Kazuki Takahashi, LeoSkiDj, The Shredder |
+| Fri, 13 Nov 2026 | CRUSH: The Frosty Fairytale | D.Sociation, Julian Shore |
 
 ## Address
 
 Brückenstraße 1, 10179 Berlin, Berlin
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*

@@ -1,14 +1,15 @@
 # Lyndon Lewis
 
-Lyndon Lewis is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at YSY, Berlin on Sat, 17 Oct 2026.
+Lyndon Lewis is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at YSY, Berlin on Sat, 17 Oct 2026.
 
-Lyndon Lewis is a techno and bass artist based in United Kingdom, with 17 gigs on soundcheck across Berlin and Manchester. Often billed alongside Akiï, BLUME and Marius Iris. Next up: YSY, Berlin on Sat 17 Oct.
+Lyndon Lewis is a techno and bass artist based in United Kingdom, with 18 gigs on soundcheck across Berlin and Manchester. Often billed alongside Akiï, BLUME and FISK. Next up: YSY, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | YSY | Berlin |
+| Thu, 29 Oct 2026 | Crack Bellmer | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Lyndon Lewis is a techno and bass artist based in United Kingdom, with 17 gigs o
 
 ## Shares bills with
 
-Akiï, BLUME, Marius Iris
+Akiï, BLUME, FISK
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyndonlewis/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyndonlewis/)*

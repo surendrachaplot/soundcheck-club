@@ -1,6 +1,6 @@
 # Yamariki
 
-Yamariki is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at ZEROTOKYO, Tokyo on Sun, 11 Oct 2026.
+Yamariki is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at ZEROTOKYO, Tokyo on Sun, 11 Oct 2026.
 
 Yamariki is a house and tech house artist based in Japan, with 173 gigs on soundcheck across Amsterdam, Osaka, Seoul and Sydney and 1 more. Often billed alongside PUNK N MATRIX, Chika Luna and ANZU. Next up: ZEROTOKYO, Tokyo on Sun 11 Oct.
 
@@ -28,4 +28,4 @@ Yamariki is a house and tech house artist based in Japan, with 173 gigs on sound
 
 PUNK N MATRIX, Chika Luna, ANZU
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamariki/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamariki/)*

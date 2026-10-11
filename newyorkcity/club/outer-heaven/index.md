@@ -1,14 +1,13 @@
 # Outer Heaven
 
-Outer Heaven is a music venue in New York City with 26 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Outer Heaven presents: Demi Riquisimo" on Sat, 10 Oct 2026.
+Outer Heaven is a music venue in New York City with 25 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Outer Heaven presents: Sunday Soirée w/ Jeny Michelle, Derrik Muñoz, Willy Gorgon" on Sun, 11 Oct 2026.
 
-Outer Heaven is a music venue in New York City listed on soundcheck. 26 upcoming gigs, with line-ups including A.Wild, Amelia Holt, Armii1n and Bella Mutino and 2 more. See dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
+Outer Heaven is a music venue in New York City listed on soundcheck. 25 upcoming gigs, with line-ups including A.Wild, Amelia Holt, Armii1n and Bella Mutino and 2 more. See dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Outer Heaven presents: Demi Riquisimo | Demi Riquisimo, Jack Mulqueen, Tolga |
 | Sun, 11 Oct 2026 | Outer Heaven presents: Sunday Soirée w/ Jeny Michelle, Derrik Muñoz, Willy Gorgon | Jeny Michelle, La Vega, Luciio, Willy Gorgon |
 | Wed, 14 Oct 2026 | Outer Heaven presents: Robbie Lumpkin | Robbie Lumpkin |
 | Thu, 15 Oct 2026 | Outer Heaven presents: Timo Lee - UMA DJ | Timo Lee, UMA DJ |
@@ -18,9 +17,10 @@ Outer Heaven is a music venue in New York City listed on soundcheck. 26 upcoming
 | Thu, 22 Oct 2026 | Pregame presents: Burchan b2b Ryan King | Armii1n, Burchan Acar, Ryan King |
 | Fri, 23 Oct 2026 | Outer Heaven presents: Jack Mulqueen | Bella Mutino, Jack Mulqueen, RICCI (US) |
 | Sat, 24 Oct 2026 | Outer Heaven presents: J Richards b2b Kurilo [All Night Long] | J. Richards, Kurilo |
+| Wed, 28 Oct 2026 | Outer Heaven presents: Matteo Dio b2b Parea | Matteo Diop, Parea (FR) |
 
 ## Address
 
 191 Chrystie Street, New York, NY 10002, New York City
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*

@@ -1,13 +1,14 @@
 # INVERTED (MT)
 
-INVERTED (MT) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Gianpula Main Room, Malta on Fri, 13 Nov 2026.
+INVERTED (MT) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Liquid Club, Malta on Fri, 30 Oct 2026.
 
-INVERTED (MT) is a techno and trance artist based in Malta, with 60 gigs on soundcheck across Berlin, Malta, Paris and Rotterdam. Often billed alongside Reactant, Damz and Scythe. Next up: Gianpula Main Room, Malta on Fri 13 Nov.
+INVERTED (MT) is a techno and trance artist based in Malta, with 61 gigs on soundcheck across Berlin, Malta, Paris and Rotterdam. Often billed alongside Reactant, Damz and Scythe. Next up: Liquid Club, Malta on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Liquid Club | Malta |
 | Fri, 13 Nov 2026 | Gianpula Main Room | Malta |
 
 ## Recently played
@@ -25,4 +26,4 @@ INVERTED (MT) is a techno and trance artist based in Malta, with 60 gigs on soun
 
 Reactant, Damz, Scythe
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inverted-mt/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inverted-mt/)*

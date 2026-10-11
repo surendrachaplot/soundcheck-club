@@ -1,0 +1,28 @@
+# Perspectiv
+
+Perspectiv is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Platform9, Vancouver on Sat, 31 Oct 2026.
+
+Perspectiv is a house and afro house artist based in Canada, with 19 gigs on soundcheck across Vancouver. Often billed alongside Tiago de Renor, Askfor T and Siavash. Next up: Platform9, Vancouver on Sat 31 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 31 Oct 2026 | Platform9 | Vancouver |
+
+## Recently played
+
+- TBA - Alibi Room, Vancouver · Sat, 5 Sept 2026
+- The Red Room, Vancouver · Sat, 25 Jul 2026
+- Frankie’s, Vancouver · Sat, 4 Jul 2026
+- Harbour Event Centre, Vancouver · Sat, 23 May 2026
+- TBA, Vancouver · Thu, 19 Mar 2026
+- Cinemagic Lab, Vancouver · Sat, 28 Feb 2026
+- Platform9, Vancouver · Fri, 30 Jan 2026
+- TBA - Private Manor, Vancouver · Fri, 31 Oct 2025
+
+## Shares bills with
+
+Tiago de Renor, Askfor T, Siavash
+
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perspectiv/)*

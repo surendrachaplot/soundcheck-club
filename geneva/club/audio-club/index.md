@@ -1,14 +1,13 @@
 # Audio Club
 
-Audio Club is a music venue in Geneva with 10 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. The next is "Matthias Tanzmann · La Forêt · S2CRETO · Pierre Locher" on Sat, 10 Oct 2026.
+Audio Club is a music venue in Geneva with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Laolu · ENAH · TWOFORALL" on Fri, 23 Oct 2026.
 
-Audio Club is a music venue in Geneva listed on soundcheck. 10 upcoming gigs, with line-ups including Alan Braxe, Andrea Oliva, Chloe Martinez and Deborah De Luca and 2 more. See dates, start times and who's playing. Boissonnas 20,  1227 Les Acacias - Genève.
+Audio Club is a music venue in Geneva listed on soundcheck. 9 upcoming gigs, with line-ups including Alan Braxe, Andrea Oliva, Chloe Martinez and Deborah De Luca and 2 more. See dates, start times and who's playing. Boissonnas 20,  1227 Les Acacias - Genève.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Matthias Tanzmann · La Forêt · S2CRETO · Pierre Locher | La Forêt, Matthias Tanzmann, Pierre Locher |
 | Fri, 23 Oct 2026 | Laolu · ENAH · TWOFORALL | Laolu |
 | Sat, 31 Oct 2026 | Deborah De Luca · Nicolas Cuer · Chloe Martinez · La Forêt & ØBY | Chloe Martinez, Deborah De Luca, La Forêt, Nicolas Cuer |
 | Fri, 6 Nov 2026 | Dubfire · VINCE · STVO | Dubfire, STVO |
@@ -23,4 +22,4 @@ Audio Club is a music venue in Geneva listed on soundcheck. 10 upcoming gigs, wi
 
 Boissonnas 20,  1227 Les Acacias - Genève, Geneva
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/audio-club/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/audio-club/)*

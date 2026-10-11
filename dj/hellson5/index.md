@@ -1,6 +1,6 @@
 # Hellson5
 
-Hellson5 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 10 Oct 2026. Next at Astoria, Turin on Sat, 17 Oct 2026.
+Hellson5 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Astoria, Turin on Sat, 17 Oct 2026.
 
 Hellson5 is a techno and trance artist, with 10 gigs on soundcheck across Milan, Rome and Turin. Often billed alongside Amo (IT), DOCTOR MÜCKE and RESA UTOPICA. Next up: Astoria, Turin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Hellson5 is a techno and trance artist, with 10 gigs on soundcheck across Milan,
 
 Amo (IT), DOCTOR MÜCKE, RESA UTOPICA
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hellson5/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hellson5/)*

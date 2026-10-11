@@ -1,18 +1,18 @@
 # Chontane
 
-Chontane is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 10 Oct 2026. Next at ∄, Kyiv on Sat, 10 Oct 2026.
+Chontane is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at SMUT Athens, Athens on Sat, 24 Oct 2026.
 
-Chontane is a techno and house artist based in Germany, with 81 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside SHDW, Lars Huismann and Regent. Next up: ∄, Kyiv on Sat 10 Oct.
+Chontane is a techno and house artist based in Germany, with 81 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside SHDW, Lars Huismann and Regent. Next up: SMUT Athens, Athens on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | ∄ | Kyiv |
 | Sat, 24 Oct 2026 | SMUT Athens | Athens |
 
 ## Recently played
 
+- ∄, Kyiv · Sat, 10 Oct 2026
 - Club Phoenix - Gianpula Village, Malta · Sat, 5 Sept 2026
 - Smoke & Mirrors, Chicago · Sat, 29 Aug 2026
 - TBA - 75 Pelham Ave, Toronto · Sat, 22 Aug 2026
@@ -20,10 +20,9 @@ Chontane is a techno and house artist based in Germany, with 81 gigs on soundche
 - RSO.BERLIN, Berlin · Fri, 7 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 20 Jun 2026
 - Virage, Paris · Wed, 27 May 2026
-- Spaarnwoude (Deelplan Houtrak), Amsterdam · Sat, 16 May 2026
 
 ## Shares bills with
 
 SHDW, Lars Huismann, Regent
 
-*Updated Sat, 10 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chontane/)*
+*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chontane/)*
