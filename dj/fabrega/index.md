@@ -1,6 +1,6 @@
 # Fabrega
 
-Fabrega is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Les Enfants Brillants, Barcelona on Fri, 27 Nov 2026.
+Fabrega is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Les Enfants Brillants, Barcelona on Fri, 27 Nov 2026.
 
 Fabrega is a techno and house artist based in Peru, with 6 gigs on soundcheck across Barcelona. Often billed alongside Sebastián, Marco Spalletta and Onoffon. Next up: Les Enfants Brillants, Barcelona on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Fabrega is a techno and house artist based in Peru, with 6 gigs on soundcheck ac
 
 Sebastián, Marco Spalletta, Onoffon
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabrega/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabrega/)*

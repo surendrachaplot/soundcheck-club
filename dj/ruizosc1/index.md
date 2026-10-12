@@ -1,6 +1,6 @@
 # RUIZ OSC1
 
-RUIZ OSC1 is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Department 184, Milan on Fri, 16 Oct 2026.
+RUIZ OSC1 is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Department 184, Milan on Fri, 16 Oct 2026.
 
 RUIZ OSC1 is a techno and trance artist based in Colombia, with 151 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 40 more. Often billed alongside Carmen Electro, Tarkno and Beau Didier. Next up: Department 184, Milan on Fri 16 Oct.
 
@@ -32,4 +32,4 @@ RUIZ OSC1 is a techno and trance artist based in Colombia, with 151 gigs on soun
 
 Carmen Electro, Tarkno, Beau Didier
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruizosc1/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruizosc1/)*

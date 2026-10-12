@@ -1,14 +1,13 @@
 # sim0ne
 
-sim0ne is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
+sim0ne is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Q35 WAREHOUSE, Turin on Sat, 31 Oct 2026.
 
-sim0ne is a techno and house artist based in United Kingdom, with 113 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 38 more. Often billed alongside Juicy Romance, DJ Heartstring and MALUGI. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
+sim0ne is a techno and house artist based in United Kingdom, with 113 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 38 more. Often billed alongside Juicy Romance, DJ Heartstring and MALUGI. Next up: Q35 WAREHOUSE, Turin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Auditorio Málaga Cortijo de Torres | South |
 | Sat, 31 Oct 2026 | Q35 WAREHOUSE | Turin |
 | Fri, 13 Nov 2026 | The Cause | London |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
@@ -33,4 +32,4 @@ sim0ne is a techno and house artist based in United Kingdom, with 113 gigs on so
 
 Juicy Romance, DJ Heartstring, MALUGI
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sim0ne/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sim0ne/)*

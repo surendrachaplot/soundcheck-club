@@ -1,6 +1,6 @@
 # Stallone The Reducer
 
-Stallone The Reducer is a New Wave and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Secret Dungeon Location, Pittsburgh on Fri, 13 Nov 2026.
+Stallone The Reducer is a New Wave and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Secret Dungeon Location, Pittsburgh on Fri, 13 Nov 2026.
 
 Stallone The Reducer is a new wave and techno artist based in United States of America, with 6 gigs on soundcheck across Austin, New York City and Pittsburgh. Often billed alongside Camille BWR, Carlos Souffront and Alex from Queens. Next up: TBA - Secret Dungeon Location, Pittsburgh on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Stallone The Reducer is a new wave and techno artist based in United States of A
 
 Camille BWR, Carlos Souffront, Alex from Queens
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stallonethereducer/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stallonethereducer/)*

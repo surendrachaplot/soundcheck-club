@@ -1,6 +1,6 @@
 # Lucca
 
-Lucca is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at OX Club Prague, Prague on Sat, 17 Apr 2027.
+Lucca is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at OX Club Prague, Prague on Sat, 17 Apr 2027.
 
 Lucca is a techno and tech house artist, with 10 gigs on soundcheck across Barcelona, Leeds, Mexico City and Paris and 1 more. Often billed alongside Orbith, Subgate and Tømas Sinn. Next up: OX Club Prague, Prague on Sat 17 Apr.
 
@@ -25,4 +25,4 @@ Lucca is a techno and tech house artist, with 10 gigs on soundcheck across Barce
 
 Orbith, Subgate, Tømas Sinn
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucca/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucca/)*

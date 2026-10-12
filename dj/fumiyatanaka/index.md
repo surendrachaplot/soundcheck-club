@@ -1,6 +1,6 @@
 # Fumiya Tanaka
 
-Fumiya Tanaka is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Fri, 30 Oct 2026.
+Fumiya Tanaka is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Fri, 30 Oct 2026.
 
 Fumiya Tanaka is a house and techno artist based in Japan, with 130 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 31 more. Often billed alongside Samuel Deep, Doudou MD and Laidlaw. Next up: Seaseaclub Barcelona, Barcelona on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ Fumiya Tanaka is a house and techno artist based in Japan, with 130 gigs on soun
 
 Samuel Deep, Doudou MD, Laidlaw
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fumiyatanaka/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fumiyatanaka/)*

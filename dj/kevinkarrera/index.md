@@ -1,6 +1,6 @@
 # Kevin Karrera
 
-Kevin Karrera is a Baile Funk and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 24 Oct 2026.
+Kevin Karrera is a Baile Funk and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 24 Oct 2026.
 
 Kevin Karrera is a baile funk and club artist based in United States of America, with 5 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside Cosmic, JUST RAJ and MARÏSUN. Next up: The Great Northern, San Francisco/Oakland on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ Kevin Karrera is a baile funk and club artist based in United States of America,
 
 Cosmic, JUST RAJ, MARÏSUN
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinkarrera/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinkarrera/)*

@@ -1,6 +1,6 @@
 # Atno
 
-Atno is a music venue in Budapest with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "7 years of Dip'n'Dive" on Fri, 16 Oct 2026.
+Atno is a music venue in Budapest with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "7 years of Dip'n'Dive" on Fri, 16 Oct 2026.
 
 Atno is a music venue in Budapest listed on soundcheck. 8 upcoming gigs, with line-ups including Aikatherina, Akos V, Benc and Blackeye MC and 2 more. See dates, start times and who's playing. 1044, Zsilip utca 17..
 
@@ -21,4 +21,4 @@ Atno is a music venue in Budapest listed on soundcheck. 8 upcoming gigs, with li
 
 1044, Zsilip utca 17., Budapest
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/atno/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/atno/)*

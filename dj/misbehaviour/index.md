@@ -1,6 +1,6 @@
 # Misbehaviour
 
-Misbehaviour is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA, New York City on Fri, 6 Nov 2026.
+Misbehaviour is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA, New York City on Fri, 6 Nov 2026.
 
 Misbehaviour is a house and disco artist, with 7 gigs on soundcheck across New York City. Often billed alongside Raw Q, Just Blaze and Natasha Diggs. Next up: TBA, New York City on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ Misbehaviour is a house and disco artist, with 7 gigs on soundcheck across New Y
 
 Raw Q, Just Blaze, Natasha Diggs
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misbehaviour/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misbehaviour/)*

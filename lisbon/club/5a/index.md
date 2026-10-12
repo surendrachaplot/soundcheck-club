@@ -1,6 +1,6 @@
 # 5A
 
-5A is a music venue in Lisbon with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Workout" on Thu, 15 Oct 2026.
+5A is a music venue in Lisbon with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Workout" on Thu, 15 Oct 2026.
 
 5A is a music venue in Lisbon listed on soundcheck. 9 upcoming gigs, with line-ups including Elless & Benn, Fonzi, Jos and justin case and 2 more. See dates, start times and who's playing. Rua Noronha, 5A 1250-168 Lisbon, Portugal.
 
@@ -22,4 +22,4 @@
 
 Rua Noronha, 5A 1250-168 Lisbon, Portugal, Lisbon
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/5a/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/5a/)*

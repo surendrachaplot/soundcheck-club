@@ -1,6 +1,6 @@
 # K.I.M
 
-K.I.M is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Joule, Osaka on Sat, 17 Oct 2026.
+K.I.M is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Joule, Osaka on Sat, 17 Oct 2026.
 
 K.I.M is a techno and psytrance artist, with 6 gigs on soundcheck across London, Osaka and Sydney. Often billed alongside 2 Bad Mice, Andy Foundations and CASSÖ. Next up: Joule, Osaka on Sat 17 Oct.
 
@@ -22,4 +22,4 @@ K.I.M is a techno and psytrance artist, with 6 gigs on soundcheck across London,
 
 2 Bad Mice, Andy Foundations, CASSÖ
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k.i.m/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k.i.m/)*

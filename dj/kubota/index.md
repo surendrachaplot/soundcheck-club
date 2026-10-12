@@ -1,6 +1,6 @@
 # KUBOTA
 
-KUBOTA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 16 Oct 2026.
+KUBOTA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 16 Oct 2026.
 
 KUBOTA is a house and techno artist based in Japan, with 99 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), YASUHARU MOTOMIYA and HARUTO. Next up: MIDNIGHT EAST, Tokyo on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ KUBOTA is a house and techno artist based in Japan, with 99 gigs on soundcheck a
 
 SIGNAL (JP), YASUHARU MOTOMIYA, HARUTO
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kubota/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kubota/)*

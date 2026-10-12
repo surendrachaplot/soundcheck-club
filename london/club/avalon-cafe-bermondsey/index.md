@@ -1,6 +1,6 @@
 # Avalon Cafe Bermondsey
 
-Avalon Cafe Bermondsey is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Triskl Fundraiser for The Survivors Trust w/ Kate08, Cersy, batgirl & Caroune" on Fri, 23 Oct 2026.
+Avalon Cafe Bermondsey is a music venue in London with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Triskl Fundraiser for The Survivors Trust w/ Kate08, Cersy, batgirl & Caroune" on Fri, 23 Oct 2026.
 
 Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including B4mba, batgirl, Caroune and Cersy and 2 more. See dates, start times and who's playing. Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom.
 
@@ -18,4 +18,4 @@ Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 5 upcomi
 
 Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom, London
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/avalon-cafe-bermondsey/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/avalon-cafe-bermondsey/)*

@@ -1,6 +1,6 @@
 # Melting 99
 
-Melting 99 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Pawnshop, Taipei on Sat, 21 Nov 2026.
+Melting 99 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Pawnshop, Taipei on Sat, 21 Nov 2026.
 
 Melting 99 is a techno and house artist based in Taiwan, with 7 gigs on soundcheck across New York City, Seoul, Taipei and Tokyo. Often billed alongside Diskonnected, Kugel and SOPA. Next up: Pawnshop, Taipei on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Melting 99 is a techno and house artist based in Taiwan, with 7 gigs on soundche
 
 Diskonnected, Kugel, SOPA
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melting99/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melting99/)*

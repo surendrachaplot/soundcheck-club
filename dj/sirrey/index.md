@@ -1,13 +1,14 @@
 # Sirrey
 
-Sirrey is a Funk / Soul and Jazz artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The System, Sheffield on Sat, 14 Nov 2026.
+Sirrey is a Funk / Soul and Jazz artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Grub Records, Sheffield on Sat, 24 Oct 2026.
 
-Sirrey is a funk / soul and jazz artist based in United Kingdom, with 51 gigs on soundcheck across Berlin, Manchester and Sheffield. Often billed alongside Benedict, Nonna Fab and Joi La Frique. Next up: The System, Sheffield on Sat 14 Nov.
+Sirrey is a funk / soul and jazz artist based in United Kingdom, with 52 gigs on soundcheck across Berlin, Manchester and Sheffield. Often billed alongside Benedict, Nonna Fab and Joi La Frique. Next up: Grub Records, Sheffield on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Grub Records | Sheffield |
 | Sat, 14 Nov 2026 | The System | Sheffield |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sirrey is a funk / soul and jazz artist based in United Kingdom, with 51 gigs on
 
 Benedict, Nonna Fab, Joi La Frique
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sirrey/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sirrey/)*

@@ -1,6 +1,6 @@
 # MAGA
 
-MAGA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
+MAGA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
 
 MAGA is a house and techno artist based in France, with 87 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 29 more. Often billed alongside Sean Doron, Emanuel Satie and Tim Engelhardt. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ MAGA is a house and techno artist based in France, with 87 gigs on soundcheck ac
 
 Sean Doron, Emanuel Satie, Tim Engelhardt
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maga/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maga/)*

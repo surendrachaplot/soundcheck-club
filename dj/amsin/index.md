@@ -1,6 +1,6 @@
 # AM sin
 
-AM sin is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Vespers Club, London on Thu, 22 Oct 2026.
+AM sin is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Vespers Club, London on Thu, 22 Oct 2026.
 
 AM sin is an experimental and ambient artist, with 19 gigs on soundcheck across Bristol, Leeds, Liverpool and London and 1 more. Often billed alongside happyhappyface, visuals ru and NØELLE. Next up: Vespers Club, London on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ AM sin is an experimental and ambient artist, with 19 gigs on soundcheck across 
 
 happyhappyface, visuals ru, NØELLE
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amsin/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amsin/)*

@@ -1,6 +1,6 @@
 # Taito Otani
 
-Taito Otani is a Experimental and Noise artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Tsumagoi Bokujo Aisai no Kane, Kanto on Thu, 8 Oct 2026.
+Taito Otani is a Experimental and Noise artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Tsumagoi Bokujo Aisai no Kane, Kanto on Thu, 8 Oct 2026.
 
 Taito Otani is an experimental and noise artist, with 7 gigs on soundcheck across Kanto and Tokyo. Often billed alongside Hackmarkt, Alice In Aesthesia and Mucaro. Next up: Tsumagoi Bokujo Aisai no Kane, Kanto on Thu 8 Oct.
 
@@ -24,4 +24,4 @@ Taito Otani is an experimental and noise artist, with 7 gigs on soundcheck acros
 
 Hackmarkt, Alice In Aesthesia, Mucaro
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taitootani/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taitootani/)*

@@ -1,14 +1,13 @@
 # Alec Falconer
 
-Alec Falconer is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at H0L0, New York City on Sat, 10 Oct 2026.
+Alec Falconer is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at People's Leisure Club, Edinburgh on Fri, 16 Oct 2026.
 
-Alec Falconer is a house and garage artist based in United Kingdom, with 116 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Berlin and 29 more. Often billed alongside Harry Wills, Dr Banana and Phone Traxxx. Next up: H0L0, New York City on Sat 10 Oct.
+Alec Falconer is a house and garage artist based in United Kingdom, with 116 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Berlin and 29 more. Often billed alongside Harry Wills, Dr Banana and Phone Traxxx. Next up: People's Leisure Club, Edinburgh on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | H0L0 | New York City |
 | Fri, 16 Oct 2026 | People's Leisure Club | Edinburgh |
 | Sat, 21 Nov 2026 | Seaseaclub Barcelona | Barcelona |
 
@@ -27,4 +26,4 @@ Alec Falconer is a house and garage artist based in United Kingdom, with 116 gig
 
 Harry Wills, Dr Banana, Phone Traxxx
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alecfalconer/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alecfalconer/)*

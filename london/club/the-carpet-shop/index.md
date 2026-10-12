@@ -1,6 +1,6 @@
 # The Carpet Shop
 
-The Carpet Shop is a music venue in London with 16 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Beat Hotel: Coco Maria, John Gomez & Ri Mistry" on Fri, 16 Oct 2026.
+The Carpet Shop is a music venue in London with 16 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Beat Hotel: Coco Maria, John Gomez & Ri Mistry" on Fri, 16 Oct 2026.
 
 The Carpet Shop is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Alexander Nut, AliA, Braga Circuit and Cam Joon and 2 more. See dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
 
@@ -23,4 +23,4 @@ The Carpet Shop is a music venue in London listed on soundcheck. 16 upcoming gig
 
 Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom, London
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*

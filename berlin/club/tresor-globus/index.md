@@ -1,6 +1,6 @@
 # Tresor / Globus
 
-Tresor / Globus is a music venue in Berlin with 24 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "◥◣SINGULARITY◥◣" on Mon, 12 Oct 2026.
+Tresor / Globus is a music venue in Berlin with 24 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "◥◣SINGULARITY◥◣" on Mon, 12 Oct 2026.
 
 Tresor / Globus is a music venue in Berlin listed on soundcheck. 24 upcoming gigs, with line-ups including Adam X, Adriana Lopez, Adriano. and Afra and 2 more. See dates, start times and who's playing. Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Tresor / Globus is a music venue in Berlin listed on soundcheck. 24 upcoming gig
 
 Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tresor-globus/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tresor-globus/)*

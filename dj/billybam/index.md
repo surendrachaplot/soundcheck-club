@@ -1,6 +1,6 @@
 # Billy Bam
 
-Billy Bam is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Baalsaal, Hamburg on Fri, 16 Oct 2026.
+Billy Bam is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Baalsaal, Hamburg on Fri, 16 Oct 2026.
 
 Billy Bam is a techno artist, with 7 gigs on soundcheck across Hamburg. Often billed alongside ACID B4RBIE, Sophie Cut and Alibi. Next up: Baalsaal, Hamburg on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Billy Bam is a techno artist, with 7 gigs on soundcheck across Hamburg. Often bi
 
 ACID B4RBIE, Sophie Cut, Alibi (5)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billybam/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billybam/)*

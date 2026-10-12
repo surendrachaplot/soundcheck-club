@@ -1,6 +1,6 @@
 # Jaffa Surfa
 
-Jaffa Surfa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Jaffa Surfa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
 Jaffa Surfa is a house and techno artist based in Hungary, with 86 gigs on soundcheck across Budapest, Lisbon and Valencia. Often billed alongside Maron, Adx and Captain Knuckles. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Jaffa Surfa is a house and techno artist based in Hungary, with 86 gigs on sound
 
 Maron, Adx, Captain Knuckles
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaffasurfa/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaffasurfa/)*

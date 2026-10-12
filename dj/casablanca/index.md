@@ -1,6 +1,6 @@
 # Casablanca 303
 
-Casablanca 303 is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Het Dorp, Amsterdam on Sat, 24 Oct 2026.
+Casablanca 303 is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Het Dorp, Amsterdam on Sat, 24 Oct 2026.
 
 Casablanca 303 is a house and deep house artist based in Colombia, with 42 gigs on soundcheck across Amsterdam, Barcelona and Oslo. Often billed alongside Kim Young iLL, Daniel Vaz and Vinny Villbass. Next up: Het Dorp, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Casablanca 303 is a house and deep house artist based in Colombia, with 42 gigs 
 
 Kim Young iLL, Daniel Vaz, Vinny Villbass
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casablanca/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casablanca/)*

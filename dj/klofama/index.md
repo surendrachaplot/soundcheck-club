@@ -1,6 +1,6 @@
 # KLOFAMA
 
-KLOFAMA is a Techno and Industrial artist with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Inter Expo Centre, Sofia on Fri, 16 Oct 2026.
+KLOFAMA is a Techno and Industrial artist with 13 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Inter Expo Centre, Sofia on Fri, 16 Oct 2026.
 
 KLOFAMA is a techno and industrial artist based in Netherlands, with 107 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside KARAH, SLVL and Fantasm. Next up: Inter Expo Centre, Sofia on Fri 16 Oct.
 
@@ -36,4 +36,4 @@ KLOFAMA is a techno and industrial artist based in Netherlands, with 107 gigs on
 
 KARAH, SLVL, Fantasm
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*

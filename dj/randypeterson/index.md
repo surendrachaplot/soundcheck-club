@@ -1,6 +1,6 @@
 # Randy Peterson
 
-Randy Peterson is a Garage and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Rolling Stock, London on Sat, 28 Nov 2026.
+Randy Peterson is a Garage and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Rolling Stock, London on Sat, 28 Nov 2026.
 
 Randy Peterson is a garage and deep house artist, with 5 gigs on soundcheck across London. Often billed alongside Aroop Roy, DJ Listener and DJ Phantasy. Next up: Rolling Stock, London on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Randy Peterson is a garage and deep house artist, with 5 gigs on soundcheck acro
 
 Aroop Roy, DJ Listener, DJ Phantasy
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/randypeterson/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/randypeterson/)*

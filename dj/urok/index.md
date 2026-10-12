@@ -1,6 +1,6 @@
 # UROK
 
-UROK is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Bageion Hotel, Athens on Sat, 17 Oct 2026.
+UROK is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Bageion Hotel, Athens on Sat, 17 Oct 2026.
 
 UROK is an electro and experimental artist based in Iraq, with 11 gigs on soundcheck across Athens and Barcelona. Often billed alongside kvadosh, 3Phaz and A. Square. Next up: Bageion Hotel, Athens on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ UROK is an electro and experimental artist based in Iraq, with 11 gigs on soundc
 
 kvadosh, 3Phaz, A. Square
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/urok/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/urok/)*

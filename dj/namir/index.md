@@ -1,6 +1,6 @@
 # Namir
 
-Namir is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Hoppetosse, Berlin on Sat, 24 Oct 2026.
+Namir is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Hoppetosse, Berlin on Sat, 24 Oct 2026.
 
 Namir is a minimal and house artist based in Lebanon, with 6 gigs on soundcheck across Berlin and Washington DC. Often billed alongside Clovis, Jus Nowhere and Argenis Brito. Next up: Hoppetosse, Berlin on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Namir is a minimal and house artist based in Lebanon, with 6 gigs on soundcheck 
 
 Clovis, Jus Nowhere, Argenis Brito
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/namir/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/namir/)*

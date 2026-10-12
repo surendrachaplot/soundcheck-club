@@ -1,6 +1,6 @@
 # Tomkinascious
 
-Tomkinascious is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Colours Hoxton, London on Sat, 28 Nov 2026.
+Tomkinascious is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Colours Hoxton, London on Sat, 28 Nov 2026.
 
 Tomkinascious is a techno and disco artist, with 5 gigs on soundcheck across London. Often billed alongside Othon, Tafkanik and Bovine Boy. Next up: Colours Hoxton, London on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Tomkinascious is a techno and disco artist, with 5 gigs on soundcheck across Lon
 
 Othon, Tafkanik, Bovine Boy
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomkinascious/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomkinascious/)*

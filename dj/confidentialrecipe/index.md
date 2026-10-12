@@ -1,6 +1,6 @@
 # Confidential Recipe
 
-Confidential Recipe is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
+Confidential Recipe is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
 
 Confidential Recipe is a techno and house artist based in Colombia, with 27 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogot and 6 more. Often billed alongside Marcos in Dub, Adriana Lopez and CARAVEL. Next up: Basement (Amsterdam), Amsterdam on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Confidential Recipe is a techno and house artist based in Colombia, with 27 gigs
 
 Marcos in Dub, Adriana Lopez, CARAVEL
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/confidentialrecipe/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/confidentialrecipe/)*

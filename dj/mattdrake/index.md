@@ -1,6 +1,6 @@
 # Matt Drake
 
-Matt Drake is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Silent Studios, Auckland on Fri, 16 Oct 2026.
+Matt Drake is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Silent Studios, Auckland on Fri, 16 Oct 2026.
 
 Matt Drake is a techno and house artist based in New Zealand, with 12 gigs on soundcheck across Auckland. Often billed alongside Out Of Sorts, Ana Teles and Greg Churchill. Next up: Silent Studios, Auckland on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Matt Drake is a techno and house artist based in New Zealand, with 12 gigs on so
 
 Out Of Sorts, Ana Teles, Greg Churchill
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattdrake/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattdrake/)*

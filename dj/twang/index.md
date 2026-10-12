@@ -1,6 +1,6 @@
 # Twang
 
-Twang is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at DRUMSHEDS, London on Sat, 24 Oct 2026.
+Twang is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at DRUMSHEDS, London on Sat, 24 Oct 2026.
 
 Twang is a techno and house artist based in United Kingdom, with 41 gigs on soundcheck across Athens, Berlin, Leipzig and London and 1 more. Often billed alongside TEDESCO, ENGALANAN and THEMPRESS. Next up: DRUMSHEDS, London on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Twang is a techno and house artist based in United Kingdom, with 41 gigs on soun
 
 TEDESCO, ENGALANAN, THEMPRESS
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twang/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twang/)*

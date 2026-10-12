@@ -1,6 +1,6 @@
 # Dj Wifi (3)
 
-Dj Wifi (3) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sun, 27 Dec 2026.
+Dj Wifi (3) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sun, 27 Dec 2026.
 
 Dj Wifi is a techno and trance artist based in Germany, with 61 gigs on soundcheck across Barcelona, Berlin and Vienna. Often billed alongside pinklotion, BLUDHOUND and Swiver. Next up: Lokschuppen Berlin, Berlin on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Dj Wifi is a techno and trance artist based in Germany, with 61 gigs on soundche
 
 pinklotion, BLUDHOUND, Swiver
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwifi-3/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwifi-3/)*

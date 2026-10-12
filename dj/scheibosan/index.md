@@ -1,6 +1,6 @@
 # Scheibosan
 
-Scheibosan is a Electronica and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Funkhaus, Vienna on Sat, 17 Oct 2026.
+Scheibosan is a Electronica and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Funkhaus, Vienna on Sat, 17 Oct 2026.
 
 Scheibosan is an electronica and disco artist based in Austria, with 7 gigs on soundcheck across Vienna. Often billed alongside Anni Herzer, Ariane V and Ben Gomori. Next up: Funkhaus, Vienna on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Scheibosan is an electronica and disco artist based in Austria, with 7 gigs on s
 
 Anni Herzer, Ariane V, Ben Gomori
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scheibosan/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scheibosan/)*

@@ -1,6 +1,6 @@
 # LB aka LABAT
 
-LB aka LABAT is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at La Belle Électrique, South-east on Sat, 17 Oct 2026.
+LB aka LABAT is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at La Belle Électrique, South-east on Sat, 17 Oct 2026.
 
 LB aka LABAT is a techno and house artist based in France, with 208 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 58 more. Often billed alongside DJ Gigola, Juicy Romance and Partiboi69. Next up: La Belle Électrique, South East on Sat 17 Oct.
 
@@ -33,4 +33,4 @@ LB aka LABAT is a techno and house artist based in France, with 208 gigs on soun
 
 DJ Gigola, Juicy Romance, Partiboi69
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lbakalabat/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lbakalabat/)*

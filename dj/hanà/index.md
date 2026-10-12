@@ -1,8 +1,8 @@
 # HANÀ
 
-HANÀ is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 16 Oct 2026.
+HANÀ is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 16 Oct 2026.
 
-HANÀ is a trance and techno artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Paris and 2 more. Often billed alongside 3LEEZA, two girls one mom and Niotech. Next up: Lokschuppen Berlin, Berlin on Fri 16 Oct.
+HANÀ is a trance and techno artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Paris and 2 more. Often billed alongside 3LEEZA, two girls one mom and Niotech. Next up: Lokschuppen Berlin, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ HANÀ is a trance and techno artist based in United Kingdom, with 29 gigs on sou
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 20 Nov 2026 | OST | Berlin |
+| Sat, 28 Nov 2026 | glimmer | Hamburg |
 | Wed, 30 Dec 2026 | DSTRKT Club Berlin | Berlin |
 | Sat, 24 Jul 2027 | DSTRKT Club Berlin | Berlin |
 
@@ -28,4 +29,4 @@ HANÀ is a trance and techno artist based in United Kingdom, with 29 gigs on sou
 
 3LEEZA, two girls one mom, Niotech
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hanà/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hanà/)*

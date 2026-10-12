@@ -1,6 +1,6 @@
 # Michael Ius
 
-Michael Ius is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Secret Venue, Bucharest, Bucharest on Sat, 17 Oct 2026.
+Michael Ius is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Secret Venue, Bucharest, Bucharest on Sat, 17 Oct 2026.
 
 Michael Ius is a techno and acid artist based in Romania, with 38 gigs on soundcheck across Berlin, Bucharest and London. Often billed alongside CARMEN (RO), FAUST and ALISTARM. Next up: TBA - Secret Venue, Bucharest, Bucharest on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Michael Ius is a techno and acid artist based in Romania, with 38 gigs on soundc
 
 CARMEN (RO), FAUST (1), ALISTARM
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelius/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelius/)*

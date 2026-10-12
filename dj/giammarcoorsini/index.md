@@ -1,6 +1,6 @@
 # Giammarco Orsini
 
-Giammarco Orsini is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Night Tales, London on Sat, 17 Oct 2026.
+Giammarco Orsini is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Night Tales, London on Sat, 17 Oct 2026.
 
 Giammarco Orsini is a house and techno artist based in Italy, with 171 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 37 more. Often billed alongside PARAMIDA, Anthea and Marcolino. Next up: Night Tales, London on Sat 17 Oct.
 
@@ -30,4 +30,4 @@ Giammarco Orsini is a house and techno artist based in Italy, with 171 gigs on s
 
 PARAMIDA, Anthea, Marcolino
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giammarcoorsini/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giammarcoorsini/)*

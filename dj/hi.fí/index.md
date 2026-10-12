@@ -1,6 +1,6 @@
 # hi.fí
 
-hi.fí is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 18 Oct 2026.
+hi.fí is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 18 Oct 2026.
 
 hi.fí is a house and techno artist based in Ireland, with 16 gigs on soundcheck across Berlin. Often billed alongside Meriem S, François Dulac and Miss T Delight. Next up: Crack Bellmer, Berlin on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ hi.fí is a house and techno artist based in Ireland, with 16 gigs on soundcheck
 
 Meriem S, François Dulac, Miss T Delight
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hi.fí/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hi.fí/)*

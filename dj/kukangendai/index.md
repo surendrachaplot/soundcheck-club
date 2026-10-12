@@ -1,6 +1,6 @@
 # Kukangendai
 
-Kukangendai is a Experimental and Vaporwave artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at 外 Soto, Kyoto on Fri, 16 Oct 2026.
+Kukangendai is a Experimental and Vaporwave artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at 外 Soto, Kyoto on Fri, 16 Oct 2026.
 
 Kukangendai is an experimental and vaporwave artist, with 7 gigs on soundcheck across Berlin and Kyoto. Often billed alongside Carl Stone, D.J.Fulltono and Grimwig. Next up: 外 Soto, Kyoto on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Kukangendai is an experimental and vaporwave artist, with 7 gigs on soundcheck a
 
 Carl Stone, D.J.Fulltono, Grimwig
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kukangendai/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kukangendai/)*

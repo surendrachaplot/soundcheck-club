@@ -1,13 +1,14 @@
 # Lack (UK)
 
-Lack (UK) is a Dub Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Geheimclub, Saxony-anhalt on Fri, 30 Oct 2026.
+Lack (UK) is a Dub Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Spindler & Klatt, Berlin on Sat, 24 Oct 2026.
 
-Lack (UK) is a dub techno and experimental artist, with 5 gigs on soundcheck across Berlin, London, Manchester and Melbourne and 1 more. Often billed alongside Howes, Sam Purcell and Dance. Next up: Geheimclub, Saxony Anhalt on Fri 30 Oct.
+Lack (UK) is a dub techno and experimental artist, with 6 gigs on soundcheck across Berlin, London, Manchester and Melbourne and 1 more. Often billed alongside Howes, Sam Purcell and Dance. Next up: Spindler & Klatt, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Spindler & Klatt | Berlin |
 | Fri, 30 Oct 2026 | Geheimclub | Saxony-anhalt |
 
 ## Recently played
@@ -21,4 +22,4 @@ Lack (UK) is a dub techno and experimental artist, with 5 gigs on soundcheck acr
 
 Howes, Sam Purcell, Dance
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lack-uk/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lack-uk/)*

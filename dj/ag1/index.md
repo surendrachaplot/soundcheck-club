@@ -1,6 +1,6 @@
 # AG (1)
 
-AG (1) is a Club and Footwork artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The Deep End, New York City on Fri, 16 Oct 2026.
+AG (1) is a Club and Footwork artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Deep End, New York City on Fri, 16 Oct 2026.
 
 AG is a club and footwork artist based in United States of America, with 43 gigs on soundcheck across Barcelona, Chicago, Miami and New York City and 1 more. Often billed alongside DJ Fat Frog, Tromac and satandoll. Next up: The Deep End, New York City on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ AG is a club and footwork artist based in United States of America, with 43 gigs
 
 DJ Fat Frog, Tromac, satandoll
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ag1/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ag1/)*

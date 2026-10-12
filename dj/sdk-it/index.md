@@ -1,6 +1,6 @@
 # SDK (IT)
 
-SDK (IT) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+SDK (IT) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 SDK (IT) is a techno and house artist based in Italy, with 5 gigs on soundcheck across Amsterdam, Malaga, Miami and Naples. Often billed alongside Aiden (DE), Anil Aras and Cinthie. Next up: Shelter Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -21,4 +21,4 @@ SDK (IT) is a techno and house artist based in Italy, with 5 gigs on soundcheck 
 
 Aiden (DE), Anil Aras, Cinthie
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sdk-it/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sdk-it/)*

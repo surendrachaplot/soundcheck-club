@@ -1,6 +1,6 @@
 # FYNN
 
-FYNN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Stromwerk Dresden, Dresden on Sat, 24 Oct 2026.
+FYNN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Stromwerk Dresden, Dresden on Sat, 24 Oct 2026.
 
 FYNN is a techno and house artist based in Germany, with 29 gigs on soundcheck across Berlin, Dresden, Leipzig and Manchester and 2 more. Often billed alongside Thomas Lizzara, MARC WERNER and Lexer. Next up: Stromwerk Dresden, Dresden on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ FYNN is a techno and house artist based in Germany, with 29 gigs on soundcheck a
 
 Thomas Lizzara, MARC WERNER, Lexer
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fynn/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fynn/)*

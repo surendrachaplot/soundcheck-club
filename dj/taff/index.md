@@ -1,6 +1,6 @@
 # Taff
 
-Taff is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Rack Seoul, Seoul on Sat, 17 Oct 2026.
+Taff is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Rack Seoul, Seoul on Sat, 17 Oct 2026.
 
 Taff is a techno and house artist, with 30 gigs on soundcheck across Seoul. Often billed alongside LORI (KR), Muzik Robe and Vorus. Next up: Rack Seoul, Seoul on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Taff is a techno and house artist, with 30 gigs on soundcheck across Seoul. Ofte
 
 LORI (KR), Muzik Robe, Vorus
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taff/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taff/)*

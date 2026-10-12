@@ -1,6 +1,6 @@
 # SELENE (3)
 
-SELENE (3) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Bossa Nova Civic Club, New York City on Tue, 20 Oct 2026.
+SELENE (3) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Bossa Nova Civic Club, New York City on Tue, 20 Oct 2026.
 
 SELENE is a club and techno artist based in United States of America, with 5 gigs on soundcheck across New York City and Washington DC. Often billed alongside L4RV4, Xana 101 and ARCHANGEL (US). Next up: Bossa Nova Civic Club, New York City on Tue 20 Oct.
 
@@ -21,4 +21,4 @@ SELENE is a club and techno artist based in United States of America, with 5 gig
 
 L4RV4, Xana 101, ARCHANGEL (US)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selene-3/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selene-3/)*

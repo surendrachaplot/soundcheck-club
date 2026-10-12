@@ -1,6 +1,6 @@
 # Marc Acardipane
 
-Marc Acardipane is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
+Marc Acardipane is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
 
 Marc Acardipane is a hardcore and techno artist based in Germany, with 28 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 11 more. Often billed alongside Paul Elstak, Act of Rage and Mad Dog. Next up: OST, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Marc Acardipane is a hardcore and techno artist based in Germany, with 28 gigs o
 
 Paul Elstak, Act of Rage, Mad Dog
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcacardipane/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcacardipane/)*

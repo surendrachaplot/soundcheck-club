@@ -1,6 +1,6 @@
 # Slimfit
 
-Slimfit is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at RADION, Amsterdam on Fri, 16 Oct 2026.
+Slimfit is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at RADION, Amsterdam on Fri, 16 Oct 2026.
 
 Slimfit is a techno and house artist based in Netherlands, with 128 gigs on soundcheck across Amsterdam, Berlin, Helsinki and Lisbon and 5 more. Often billed alongside angelboy, DIORA and YoungWoman. Next up: RADION, Amsterdam on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Slimfit is a techno and house artist based in Netherlands, with 128 gigs on soun
 
 angelboy, DIORA, YoungWoman
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slimfit/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slimfit/)*

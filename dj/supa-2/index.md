@@ -1,6 +1,6 @@
 # Supa (2)
 
-Supa (2) is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Salle des Fêtes de Fives, Lille on Sun, 8 Nov 2026.
+Supa (2) is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Salle des Fêtes de Fives, Lille on Sun, 8 Nov 2026.
 
 Supa is an electronic artist, with 5 gigs on soundcheck across Lille, Lisbon, Paris and Porto. Often billed alongside Ghetthoven, Ana Pacheco and Antal. Next up: Salle des Fêtes de Fives, Lille on Sun 8 Nov.
 
@@ -21,4 +21,4 @@ Supa is an electronic artist, with 5 gigs on soundcheck across Lille, Lisbon, Pa
 
 Ghetthoven, Ana Pacheco, Antal
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supa-2/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supa-2/)*

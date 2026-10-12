@@ -1,6 +1,6 @@
 # Kaschemme Basel
 
-Kaschemme Basel is a music venue in Basel with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "OFFSET [DRUM & BASS]" on Sat, 17 Oct 2026.
+Kaschemme Basel is a music venue in Basel with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "OFFSET [DRUM & BASS]" on Sat, 17 Oct 2026.
 
 Kaschemme Basel is a music venue in Basel listed on soundcheck. 3 upcoming gigs, with line-ups including RaverPik. See dates, start times and who's playing. Muttenzerweg, 4052 Basel, Switzerland.
 
@@ -16,4 +16,4 @@ Kaschemme Basel is a music venue in Basel listed on soundcheck. 3 upcoming gigs,
 
 Muttenzerweg, 4052 Basel, Switzerland, Basel
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/kaschemme-basel/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/kaschemme-basel/)*

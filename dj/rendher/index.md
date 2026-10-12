@@ -1,6 +1,6 @@
 # Rendher
 
-Rendher is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Privat Mataró, Barcelona on Sat, 17 Oct 2026.
+Rendher is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Privat Mataró, Barcelona on Sat, 17 Oct 2026.
 
 Rendher is a tech house and house artist based in Spain, with 67 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bucharest and 15 more. Often billed alongside Paco Osuna, Bastian Bux and Chelina Manuhutu. Next up: Privat Mataró, Barcelona on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Rendher is a tech house and house artist based in Spain, with 67 gigs on soundch
 
 Paco Osuna, Bastian Bux, Chelina Manuhutu
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rendher/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rendher/)*

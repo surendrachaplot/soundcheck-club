@@ -1,6 +1,6 @@
 # D1NAH
 
-D1NAH is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 9 Nov 2026.
+D1NAH is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 9 Nov 2026.
 
 D1NAH is a techno and club artist based in United States of America, with 4 gigs on soundcheck across New York City. Often billed alongside SEXINCHURCH, Buffy and Crush Club. Next up: Bossa Nova Civic Club, New York City on Mon 9 Nov.
 
@@ -20,4 +20,4 @@ D1NAH is a techno and club artist based in United States of America, with 4 gigs
 
 SEXINCHURCH, Buffy, Crush Club
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d1nah/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d1nah/)*

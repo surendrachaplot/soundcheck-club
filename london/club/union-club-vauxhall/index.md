@@ -1,14 +1,13 @@
 # Union Club, Vauxhall
 
-Union Club, Vauxhall is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Orbit Sunday night / Monday morning after party" on Sun, 11 Oct 2026.
+Union Club, Vauxhall is a music venue in London with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "DESIRE - Weekly Thursday After Party - SPECIAL GUEST" on Thu, 15 Oct 2026.
 
-Union Club, Vauxhall is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Dhez, Duwat?, Edgar Gallan and Elisa Nau. and 2 more. See dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
+Union Club, Vauxhall is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Dhez, Duwat?, Elisa Nau. and Enrico Chirchiello and 2 more. See dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Orbit Sunday night / Monday morning after party | Edgar Gallan, Loora, Thomas Galbardi |
 | Thu, 15 Oct 2026 | DESIRE - Weekly Thursday After Party - SPECIAL GUEST | Dhez, Duwat?, Elisa Nau., Simone Sim |
 | Sun, 18 Oct 2026 | Orbit Sunday night / Monday morning after party | Thomas Galbardi |
 | Thu, 22 Oct 2026 | DESIRE - Weekly Thursday After Party - Francesco Poggi | Dhez, Duwat?, Elisa Nau., Francesco Poggi, Simone Sim |
@@ -22,4 +21,4 @@ Union Club, Vauxhall is a music venue in London listed on soundcheck. 9 upcoming
 
 66 Albert Embankment, Lambeth, London SE1 7TW, London
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*

@@ -1,14 +1,13 @@
 # Marius Lehnert
 
-Marius Lehnert is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Kater, Berlin on Fri, 9 Oct 2026.
+Marius Lehnert is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Fridas Pier, Stuttgart on Sat, 24 Oct 2026.
 
-Marius Lehnert is a house and techno artist based in Germany, with 89 gigs on soundcheck across Austria, Berlin, Copenhagen and Frankfurt and 5 more. Often billed alongside Alexander Maier, Dejago and Dominik Eulberg. Next up: Kater, Berlin on Fri 9 Oct.
+Marius Lehnert is a house and techno artist based in Germany, with 89 gigs on soundcheck across Austria, Berlin, Copenhagen and Frankfurt and 5 more. Often billed alongside Alexander Maier, Dejago and Dominik Eulberg. Next up: Fridas Pier, Stuttgart on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Kater | Berlin |
 | Sat, 24 Oct 2026 | Fridas Pier | Stuttgart |
 | Sat, 14 Nov 2026 | Im Wizemann | Stuttgart |
 | Sat, 21 Nov 2026 | Fridas Pier | Stuttgart |
@@ -29,4 +28,4 @@ Marius Lehnert is a house and techno artist based in Germany, with 89 gigs on so
 
 Alexander Maier, Dejago, Dominik Eulberg
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariuslehnert/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariuslehnert/)*

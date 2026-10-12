@@ -1,13 +1,14 @@
 # RTST
 
-RTST is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Whistler, Chicago on Sat, 21 Nov 2026.
+RTST is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Masada, Chicago on Sun, 18 Oct 2026.
 
-RTST is a house and garage artist, with 11 gigs on soundcheck across Chicago. Often billed alongside CeaseDays, Ben Chaddha and Champion. Next up: Whistler, Chicago on Sat 21 Nov.
+RTST is a house and garage artist, with 12 gigs on soundcheck across Chicago. Often billed alongside CeaseDays, Ben Chaddha and Champion. Next up: Masada, Chicago on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 18 Oct 2026 | Masada | Chicago |
 | Sat, 21 Nov 2026 | Whistler | Chicago |
 
 ## Recently played
@@ -25,4 +26,4 @@ RTST is a house and garage artist, with 11 gigs on soundcheck across Chicago. Of
 
 CeaseDays, Ben Chaddha, Champion
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rtst/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rtst/)*

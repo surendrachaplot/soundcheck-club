@@ -1,6 +1,6 @@
 # Joey Jax
 
-Joey Jax is a Tech House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Motorista Studio, Toronto on Sat, 31 Oct 2026.
+Joey Jax is a Tech House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Motorista Studio, Toronto on Sat, 31 Oct 2026.
 
 Joey Jax is a tech house and progressive house artist, with 7 gigs on soundcheck across Miami and Toronto. Often billed alongside Decnu, Del and DRIS. Next up: Motorista Studio, Toronto on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Joey Jax is a tech house and progressive house artist, with 7 gigs on soundcheck
 
 Decnu, Del (4), DRIS
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeyjax/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeyjax/)*

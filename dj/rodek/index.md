@@ -1,6 +1,6 @@
 # Rodèk
 
-Rodèk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at elipamanoke, Leipzig on Fri, 16 Oct 2026.
+Rodèk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at elipamanoke, Leipzig on Fri, 16 Oct 2026.
 
 Rodèk is a techno and house artist based in Germany, with 15 gigs on soundcheck across Leipzig. Often billed alongside knete, Rn86 and Friedrich Gegner. Next up: elipamanoke, Leipzig on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Rodèk is a techno and house artist based in Germany, with 15 gigs on soundcheck
 
 knete, Rn86, Friedrich Gegner
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodek/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodek/)*

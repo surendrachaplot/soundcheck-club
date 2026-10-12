@@ -1,6 +1,6 @@
 # Nectax
 
-Nectax is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 16 Oct 2026.
+Nectax is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 16 Oct 2026.
 
 Nectax is a jungle and drum & bass artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 15 more. Often billed alongside melba, Sketchy Rida and DJ Flight. Next up: NUMBER 90 LONDON, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Nectax is a jungle and drum & bass artist based in United Kingdom, with 56 gigs 
 
 melba, Sketchy Rida, DJ Flight
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nectax/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nectax/)*

@@ -1,14 +1,13 @@
 # Four Tet
 
-Four Tet is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
+Four Tet is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Four Tet is a house and techno artist based in United Kingdom, with 83 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 25 more. Often billed alongside Skrillex, Floating Points and Ben UFO. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
+Four Tet is a house and techno artist based in United Kingdom, with 83 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 25 more. Often billed alongside Skrillex, Floating Points and Ben UFO. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Empire Polo Club | Palm-springs |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 17 Oct 2026 | Club Space Miami | Miami |
 | Sat, 31 Oct 2026 | The Concourse Project | Austin |
@@ -29,4 +28,4 @@ Four Tet is a house and techno artist based in United Kingdom, with 83 gigs on s
 
 Skrillex, Floating Points, Ben UFO
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fourtet/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fourtet/)*

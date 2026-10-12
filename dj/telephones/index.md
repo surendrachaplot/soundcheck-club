@@ -1,6 +1,6 @@
 # Telephones
 
-Telephones is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Sub Club Melbourne, Melbourne on Fri, 16 Oct 2026.
+Telephones is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Sub Club Melbourne, Melbourne on Fri, 16 Oct 2026.
 
 Telephones is a house and techno artist based in Norway, with 79 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 25 more. Often billed alongside DJ Fett Burger, Tornado Wallace and DJ Aficionado. Next up: Sub Club Melbourne, Melbourne on Fri 16 Oct.
 
@@ -18,6 +18,7 @@ Telephones is a house and techno artist based in Norway, with 79 gigs on soundch
 
 ## Recently played
 
+- Ticcle, Hobart · Sun, 11 Oct 2026
 - Abbotsford Convent, Melbourne · Sat, 10 Oct 2026
 - The Servo, New-south-wales · Fri, 9 Oct 2026
 - TBA, Vancouver · Sat, 26 Sept 2026
@@ -25,10 +26,9 @@ Telephones is a house and techno artist based in Norway, with 79 gigs on soundch
 - Kater, Berlin · Sat, 5 Sept 2026
 - Revier Oslo, Oslo · Sat, 15 Aug 2026
 - Maaya, Berlin · Thu, 30 Jul 2026
-- Wagenburg Lohmühle Berlin, Berlin · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 DJ Fett Burger, Tornado Wallace, DJ Aficionado
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/telephones/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/telephones/)*

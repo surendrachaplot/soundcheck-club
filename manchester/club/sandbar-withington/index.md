@@ -1,6 +1,6 @@
 # Sandbar Withington
 
-Sandbar Withington is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "Release The Hounds: Digital art exhibition 2" on Fri, 16 Oct 2026.
+Sandbar Withington is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "Release The Hounds: Digital art exhibition 2" on Fri, 16 Oct 2026.
 
 Sandbar Withington is a music venue in Manchester listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 437 Wilmslow Rd, Withington, Manchester M20 4AN, UK.
 
@@ -14,4 +14,4 @@ Sandbar Withington is a music venue in Manchester listed on soundcheck. 1 upcomi
 
 437 Wilmslow Rd, Withington, Manchester M20 4AN, UK, Manchester
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/sandbar-withington/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/sandbar-withington/)*

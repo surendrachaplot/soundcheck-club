@@ -1,6 +1,6 @@
 # Danny Wabbit
 
-Danny Wabbit is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Bunker, Turin on Sat, 17 Oct 2026.
+Danny Wabbit is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Bunker, Turin on Sat, 17 Oct 2026.
 
 Danny Wabbit is a techno and trance artist, with 60 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 20 more. Often billed alongside The Chronics, Beau Didier and Bours?. Next up: Bunker, Turin on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Danny Wabbit is a techno and trance artist, with 60 gigs on soundcheck across Am
 
 The Chronics, Beau Didier, Bours?
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannywabbit/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannywabbit/)*

@@ -1,6 +1,6 @@
 # Madson Carpenter
 
-Madson Carpenter is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Ministerium Club, Lisbon on Thu, 15 Oct 2026.
+Madson Carpenter is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Ministerium Club, Lisbon on Thu, 15 Oct 2026.
 
 Madson Carpenter is a techno and industrial artist based in Brazil, with 119 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 11 more. Often billed alongside Stëh, Max Deme and Taxsh. Next up: Ministerium Club, Lisbon on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Madson Carpenter is a techno and industrial artist based in Brazil, with 119 gig
 
 Stëh, Max Deme, Taxsh
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madsoncarpenter/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madsoncarpenter/)*

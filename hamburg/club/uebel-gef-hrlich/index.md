@@ -1,6 +1,6 @@
 # Uebel & Gefährlich
 
-Uebel & Gefährlich is a music venue in Hamburg with 10 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "RESONANZ w/ Oliver Huntemann, Kaufmann, Victor Ruiz & André Winter" on Fri, 16 Oct 2026.
+Uebel & Gefährlich is a music venue in Hamburg with 10 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "RESONANZ w/ Oliver Huntemann, Kaufmann, Victor Ruiz & André Winter" on Fri, 16 Oct 2026.
 
 Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 10 upcoming gigs, with line-ups including AEREA, Andre Winter, Ave (DE) and BOVSKI and 2 more. See dates, start times and who's playing. Feldstrasse 66; 20359 Hamburg; Germany.
 
@@ -23,4 +23,4 @@ Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 10 upcomin
 
 Feldstrasse 66; 20359 Hamburg; Germany, Hamburg
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*

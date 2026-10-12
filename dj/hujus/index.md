@@ -1,6 +1,6 @@
 # HUJUS
 
-HUJUS is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Sugarfactory, Amsterdam on Wed, 21 Oct 2026.
+HUJUS is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Sugarfactory, Amsterdam on Wed, 21 Oct 2026.
 
 HUJUS is a techno and trance artist based in Netherlands, with 51 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 7 more. Often billed alongside Adrian Mills, Fran LF and Serafina. Next up: Sugarfactory, Amsterdam on Wed 21 Oct.
 
@@ -29,4 +29,4 @@ HUJUS is a techno and trance artist based in Netherlands, with 51 gigs on soundc
 
 Adrian Mills, Fran LF, Serafina
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hujus/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hujus/)*

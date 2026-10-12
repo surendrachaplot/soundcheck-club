@@ -1,6 +1,6 @@
 # Rad.Lez
 
-Rad.Lez is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+Rad.Lez is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
 Rad.Lez is a techno and house artist based in Venezuela, with 110 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 3 more. Often billed alongside Lazykid, Shabiki and HNGT. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -17,6 +17,7 @@ Rad.Lez is a techno and house artist based in Venezuela, with 110 gigs on soundc
 
 ## Recently played
 
+- Palais, Munich · Sun, 11 Oct 2026
 - Gestrandet An Der Jannowitzbrücke, Berlin · Sat, 19 Sept 2026
 - Odonien, Cologne · Sat, 29 Aug 2026
 - Birgit, Berlin · Fri, 28 Aug 2026
@@ -24,10 +25,9 @@ Rad.Lez is a techno and house artist based in Venezuela, with 110 gigs on soundc
 - Bergson Kunstkraftwerk, Munich · Sat, 25 Jul 2026
 - Lieberscholli, Munich · Fri, 17 Jul 2026
 - Birgit, Berlin · Fri, 10 Jul 2026
-- Ritter Butzke, Berlin · Sun, 21 Jun 2026
 
 ## Shares bills with
 
 Lazykid, Shabiki, HNGT
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rad.lez/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rad.lez/)*

@@ -1,6 +1,6 @@
 # Het Salon
 
-Het Salon is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Tale of Bus ADE - Instore" on Thu, 22 Oct 2026.
+Het Salon is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Tale of Bus ADE - Instore" on Thu, 22 Oct 2026.
 
 Het Salon is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including Craig Richards, Daan Donk, Hannecart and Idilay and 2 more. See dates, start times and who's playing. Condensatorweg 36, 1014 AX Amsterdam.
 
@@ -16,4 +16,4 @@ Het Salon is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, w
 
 Condensatorweg 36, 1014 AX Amsterdam, Amsterdam
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-salon/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-salon/)*

@@ -1,6 +1,6 @@
 # Distillery N17
 
-Distillery N17 is a music venue in London with 11 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "DHR & Capeesh: Adam Pits, Adrien Calvet & Aquamarine" on Fri, 16 Oct 2026.
+Distillery N17 is a music venue in London with 11 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "DHR & Capeesh: Adam Pits, Adrien Calvet & Aquamarine" on Fri, 16 Oct 2026.
 
 Distillery N17 is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Acid Steve, Adam Pits, Adrien Calvet and Alba Heidari and 2 more. See dates, start times and who's playing. Unit 25, Millmead Industrial Estate.
 
@@ -23,4 +23,4 @@ Distillery N17 is a music venue in London listed on soundcheck. 11 upcoming gigs
 
 Unit 25, Millmead Industrial Estate, London
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/distillery-n17/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/distillery-n17/)*

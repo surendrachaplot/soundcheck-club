@@ -1,18 +1,18 @@
 # DJ Mushin
 
-DJ Mushin is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Cabaret Berlin, Montreal on Sun, 11 Oct 2026.
+DJ Mushin is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Cabaret Lion D'or, Montreal on Fri, 30 Oct 2026.
 
-DJ Mushin is a techno and acid artist based in Canada, with 13 gigs on soundcheck across Montreal. Often billed alongside DJ Davidé, Mushin and Maudite Machine. Next up: Cabaret Berlin, Montreal on Sun 11 Oct.
+DJ Mushin is a techno and acid artist based in Canada, with 13 gigs on soundcheck across Montreal. Often billed alongside DJ Davidé, Mushin and Maudite Machine. Next up: Cabaret Lion D'or, Montreal on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Cabaret Berlin | Montreal |
 | Fri, 30 Oct 2026 | Cabaret Lion D'or | Montreal |
 
 ## Recently played
 
+- Cabaret Berlin, Montreal · Sun, 11 Oct 2026
 - Cabaret Berlin, Montreal · Sun, 6 Sept 2026
 - Cabaret Berlin, Montreal · Sun, 17 May 2026
 - Fairmount Theatre, Montreal · Sat, 16 May 2026
@@ -20,10 +20,9 @@ DJ Mushin is a techno and acid artist based in Canada, with 13 gigs on soundchec
 - Cabaret Lion D'or, Montreal · Fri, 31 Oct 2025
 - Cabaret Berlin, Montreal · Sun, 29 Jun 2025
 - Cabaret Berlin, Montreal · Sun, 18 May 2025
-- Cabaret Berlin, Montreal · Sun, 20 Apr 2025
 
 ## Shares bills with
 
 DJ Davidé, Mushin, Maudite Machine
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmushin/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmushin/)*

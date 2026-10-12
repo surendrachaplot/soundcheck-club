@@ -1,14 +1,13 @@
 # DBBD
 
-DBBD is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+DBBD is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Studio1111, Berlin on Fri, 16 Oct 2026.
 
-DBBD is a techno and trance artist based in Germany, with 92 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Miss Bashful, Miss Bashful x DBBD and MCR-T. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
+DBBD is a techno and trance artist based in Germany, with 92 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Miss Bashful, Miss Bashful x DBBD and MCR-T. Next up: Studio1111, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 | Fri, 16 Oct 2026 | Studio1111 | Berlin |
 | Sat, 7 Nov 2026 | TBA | Athens |
 | Fri, 27 Nov 2026 | DSTRKT Club Berlin | Berlin |
@@ -28,4 +27,4 @@ DBBD is a techno and trance artist based in Germany, with 92 gigs on soundcheck 
 
 Miss Bashful, Miss Bashful x DBBD, MCR-T
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dbbd/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dbbd/)*

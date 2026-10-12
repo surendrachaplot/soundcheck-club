@@ -1,6 +1,6 @@
 # Dara
 
-Dara is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - DENVER CO, Denver on Sat, 24 Oct 2026.
+Dara is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - DENVER CO, Denver on Sat, 24 Oct 2026.
 
 Dara is a drum & bass and house artist based in Germany, with 5 gigs on soundcheck across Denver, Krakow, New York City and Tokyo and 1 more. Often billed alongside Dieselboy, 2LAV and AK1200. Next up: TBA - DENVER CO, Denver on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ Dara is a drum & bass and house artist based in Germany, with 5 gigs on soundche
 
 Dieselboy, 2LAV, AK1200
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dara/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dara/)*

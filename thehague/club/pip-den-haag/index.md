@@ -1,6 +1,6 @@
 # PIP Den Haag
 
-PIP Den Haag is a music venue in The Hague with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "PIP presents PARISH" on Sat, 17 Oct 2026.
+PIP Den Haag is a music venue in The Hague with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "PIP presents PARISH" on Sat, 17 Oct 2026.
 
 PIP Den Haag is a music venue in The Hague listed on soundcheck. 7 upcoming gigs, with line-ups including BäRK (NE), Boudi, brAque and DJ VamPire and 2 more. See dates, start times and who's playing. Binckhorstlaan 36; 2513 The Hague; Netherlands.
 
@@ -20,4 +20,4 @@ PIP Den Haag is a music venue in The Hague listed on soundcheck. 7 upcoming gigs
 
 Binckhorstlaan 36; 2513 The Hague; Netherlands, The Hague
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/pip-den-haag/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/pip-den-haag/)*

@@ -1,14 +1,15 @@
 # NEUX
 
-NEUX is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Pawnshop, Taipei on Sat, 31 Oct 2026.
+NEUX is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Pawnshop, Taipei on Sat, 31 Oct 2026.
 
-NEUX is a techno and electro artist based in Georgia, with 80 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Ben Klock, Sevda and Vulkanski. Next up: Pawnshop, Taipei on Sat 31 Oct.
+NEUX is a techno and electro artist based in Georgia, with 81 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Ben Klock, Sevda and Vulkanski. Next up: Pawnshop, Taipei on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Pawnshop | Taipei |
+| Fri, 6 Nov 2026 | RASA | Singapore |
 | Sat, 14 Nov 2026 | Tresor / Globus | Berlin |
 | Sat, 21 Nov 2026 | BASEMENT | New York City |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
@@ -29,4 +30,4 @@ NEUX is a techno and electro artist based in Georgia, with 80 gigs on soundcheck
 
 Ben Klock, Sevda, Vulkanski
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neux/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neux/)*

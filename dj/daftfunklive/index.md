@@ -1,8 +1,8 @@
 # Daft Funk Live
 
-Daft Funk Live is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Börsen, Stockholm on Thu, 15 Oct 2026.
+Daft Funk Live is a Electro and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Börsen, Stockholm on Thu, 15 Oct 2026.
 
-Daft Funk Live is an electro and house artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 14 more. Often billed alongside Andy Mac, Armand Van Helden and Ben Santiago. Next up: TBA - Börsen, Stockholm on Thu 15 Oct.
+Daft Funk Live is an electro and house artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 14 more. Often billed alongside Andy Mac, Armand Van Helden and Ben Santiago. Next up: TBA - Börsen, Stockholm on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Daft Funk Live is an electro and house artist based in United Kingdom, with 35 g
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | TBA - Börsen | Stockholm |
 | Fri, 8 Jan 2027 | O2 Academy Newcastle | Newcastle |
+| Sat, 9 Jan 2027 | O2 Academy Leeds | Leeds |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Daft Funk Live is an electro and house artist based in United Kingdom, with 35 g
 
 Andy Mac, Armand Van Helden, Ben Santiago
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daftfunklive/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daftfunklive/)*

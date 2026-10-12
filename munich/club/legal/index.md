@@ -1,6 +1,6 @@
 # Legal
 
-Legal is a music venue in Munich with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Legal Klubnacht w./ Tuga Tunes, COZi, Ellice & Andi Britz" on Fri, 16 Oct 2026.
+Legal is a music venue in Munich with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Legal Klubnacht w./ Tuga Tunes, COZi, Ellice & Andi Britz" on Fri, 16 Oct 2026.
 
 Legal is a music venue in Munich listed on soundcheck. 4 upcoming gigs, with line-ups including Almedina, Andi Britz, COZi and DJ Yugo and 2 more. See dates, start times and who's playing. Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen.
 
@@ -17,4 +17,4 @@ Legal is a music venue in Munich listed on soundcheck. 4 upcoming gigs, with lin
 
 Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen, Munich
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*

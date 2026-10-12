@@ -1,6 +1,6 @@
 # Bobby.
 
-Bobby. is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The Loft, Manchester on Fri, 16 Oct 2026.
+Bobby. is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Loft, Manchester on Fri, 16 Oct 2026.
 
 Bobby. is a techno and house artist based in United Kingdom, with 147 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 31 more. Often billed alongside Craig Richards, Mariiin and Harry McCanna. Next up: The Loft, Manchester on Fri 16 Oct.
 
@@ -33,4 +33,4 @@ Bobby. is a techno and house artist based in United Kingdom, with 147 gigs on so
 
 Craig Richards, Mariiin, Harry McCanna
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobby/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobby/)*

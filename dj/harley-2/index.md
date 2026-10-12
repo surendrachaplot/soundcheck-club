@@ -1,6 +1,6 @@
 # Harley (US)
 
-Harley (US) is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - 1624 U St NW, Washington DC on Fri, 16 Oct 2026.
+Harley (US) is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - 1624 U St NW, Washington DC on Fri, 16 Oct 2026.
 
 Harley (US) is a house and club artist based in United States of America, with 23 gigs on soundcheck across Washington DC. Often billed alongside xXabiXx, Gabberbitch69 and Girlypop Princess. Next up: TBA - 1624 U St NW, Washington DC on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Harley (US) is a house and club artist based in United States of America, with 2
 
 xXabiXx, Gabberbitch69, Girlypop Princess
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harley-2/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harley-2/)*

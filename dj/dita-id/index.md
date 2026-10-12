@@ -1,6 +1,6 @@
 # DITA (ID)
 
-DITA (ID) is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at National Art School, Sydney on Sun, 18 Oct 2026.
+DITA (ID) is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at National Art School, Sydney on Sun, 18 Oct 2026.
 
 DITA (ID) is a house and disco artist based in Indonesia, with 114 gigs on soundcheck across Amsterdam, Bali, Bangkok and Berlin and 14 more. Often billed alongside Archie Dennis, Brent Burns and PNNY. Next up: National Art School, Sydney on Sun 18 Oct.
 
@@ -29,4 +29,4 @@ DITA (ID) is a house and disco artist based in Indonesia, with 114 gigs on sound
 
 Archie Dennis, Brent Burns, PNNY
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*

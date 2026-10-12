@@ -1,6 +1,6 @@
 # ALISHA
 
-ALISHA is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Wed, 21 Oct 2026.
+ALISHA is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Wed, 21 Oct 2026.
 
 ALISHA is a house and tech house artist based in United Kingdom, with 181 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Barcelona and 32 more. Often billed alongside East End Dubs, Jamie Jones and Max Dean. Next up: Kadinsky Cafe, Amsterdam on Wed 21 Oct.
 
@@ -30,4 +30,4 @@ ALISHA is a house and tech house artist based in United Kingdom, with 181 gigs o
 
 East End Dubs, Jamie Jones, Max Dean
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alisha/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alisha/)*

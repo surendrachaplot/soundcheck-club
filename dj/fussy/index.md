@@ -1,6 +1,6 @@
 # FUSSY
 
-FUSSY is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Mood Ring, New York City on Fri, 23 Oct 2026.
+FUSSY is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Mood Ring, New York City on Fri, 23 Oct 2026.
 
 FUSSY is a house and techno artist, with 5 gigs on soundcheck across New York City. Often billed alongside Alex Hell-n, Anna Eberg and Aspirin. Next up: Mood Ring, New York City on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ FUSSY is a house and techno artist, with 5 gigs on soundcheck across New York Ci
 
 Alex Hell-n, Anna Eberg, Aspirin
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fussy/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fussy/)*

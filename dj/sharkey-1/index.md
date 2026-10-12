@@ -1,6 +1,6 @@
 # Sharkey (1)
 
-Sharkey (1) is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The Old Firestation, South-east on Sat, 31 Oct 2026.
+Sharkey (1) is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Old Firestation, South-east on Sat, 31 Oct 2026.
 
 Sharkey is a hardcore and trance artist based in United Kingdom, with 10 gigs on soundcheck across Berlin, Glasgow, London and Manchester and 2 more. Often billed alongside Dougal, Scott Brown and Charlie B. Next up: The Old Firestation, South East on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sharkey is a hardcore and trance artist based in United Kingdom, with 10 gigs on
 
 Dougal, Scott Brown, Charlie B
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sharkey-1/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sharkey-1/)*

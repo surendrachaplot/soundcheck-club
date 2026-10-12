@@ -1,14 +1,13 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 11 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Chiki Chiki Rambo -出張渋谷編-" on Sun, 11 Oct 2026.
+Enter Shibuya is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "UNCONSCIOUS" on Tue, 13 Oct 2026.
 
-Enter Shibuya is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, with line-ups including Amps, Blackship, bungo and comm and 2 more. See dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
+Enter Shibuya is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including Amps, Blackship, comm and Dan-neo and 2 more. See dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Chiki Chiki Rambo -出張渋谷編- | Shoma fr,dambosound, bungo |
 | Tue, 13 Oct 2026 | UNCONSCIOUS | Amps, GooPer, ISPA, Yuta Yamada |
 | Wed, 14 Oct 2026 | Game Chakra | Foodman, Taigen Kawabe |
 | Thu, 15 Oct 2026 | BS0xtra | Mars89, NullDaSensei, ykah |
@@ -18,9 +17,10 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, 
 | Wed, 21 Oct 2026 | VAMOS | r1ku |
 | Thu, 29 Oct 2026 | BITN | Shogo Ito, UG (1) |
 | Fri, 30 Oct 2026 | Gluto | DJ Kensei, Dogwoods, Eichi Abe, Herbalistek, OKBOY, comm |
+| Mon, 9 Nov 2026 | DOGRUN | oshi (2) |
 
 ## Address
 
 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan, Tokyo
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*

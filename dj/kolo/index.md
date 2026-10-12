@@ -1,6 +1,6 @@
 # KOLO
 
-KOLO is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at H0L0, New York City on Wed, 21 Oct 2026.
+KOLO is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at H0L0, New York City on Wed, 21 Oct 2026.
 
 KOLO is a tech house and house artist based in United Kingdom, with 8 gigs on soundcheck across Budapest, London and New York City. Often billed alongside Gemma Lou, Brandon Tourle and Diego Gee. Next up: H0L0, New York City on Wed 21 Oct.
 
@@ -24,4 +24,4 @@ KOLO is a tech house and house artist based in United Kingdom, with 8 gigs on so
 
 Gemma Lou, Brandon Tourle, Diego Gee
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kolo/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kolo/)*

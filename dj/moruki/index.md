@@ -1,6 +1,6 @@
 # Moruki
 
-Moruki is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Doggy Klœb, Malaga on Fri, 30 Oct 2026.
+Moruki is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Doggy Klœb, Malaga on Fri, 30 Oct 2026.
 
 Moruki is a house and electronica artist based in Spain, with 31 gigs on soundcheck across Barcelona, Berlin, Central and London and 5 more. Often billed alongside Memed Awad, Arval and Ray Okpara. Next up: Doggy Klœb, Malaga on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Moruki is a house and electronica artist based in Spain, with 31 gigs on soundch
 
 Memed Awad, Arval, Ray Okpara
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moruki/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moruki/)*

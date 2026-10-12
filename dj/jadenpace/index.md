@@ -1,6 +1,6 @@
 # Jaden Pace
 
-Jaden Pace is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Tola, London on Sat, 7 Nov 2026.
+Jaden Pace is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Tola, London on Sat, 7 Nov 2026.
 
 Jaden Pace is a tech house and house artist, with 17 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Brandon Tourle, Diego Gee and MPhilly. Next up: Tola, London on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Jaden Pace is a tech house and house artist, with 17 gigs on soundcheck across L
 
 Brandon Tourle, Diego Gee, MPhilly
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jadenpace/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jadenpace/)*

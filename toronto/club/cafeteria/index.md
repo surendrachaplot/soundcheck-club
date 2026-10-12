@@ -1,6 +1,6 @@
 # Cafeteria
 
-Cafeteria is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Bass Station X Soul in Motion LDN " on Fri, 16 Oct 2026.
+Cafeteria is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Bass Station X Soul in Motion LDN " on Fri, 16 Oct 2026.
 
 Cafeteria is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including Ard1n, Blkvirgo, Ciel and Delicious DJ and 2 more. See dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
 
@@ -21,4 +21,4 @@ Cafeteria is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, wit
 
 1650 Dupont St, Toronto, ON M6P 3T2, Canada, Toronto
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*

@@ -1,8 +1,8 @@
 # Loose E
 
-Loose E is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at La Cheetah Club, Glasgow on Sat, 17 Oct 2026.
+Loose E is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at La Cheetah Club, Glasgow on Sat, 17 Oct 2026.
 
-Loose E is a garage and house artist based in United Kingdom, with 65 gigs on soundcheck across Edinburgh, Glasgow and London. Often billed alongside 3-Lix, Emiliooo and Orla Halligan. Next up: La Cheetah Club, Glasgow on Sat 17 Oct.
+Loose E is a garage and house artist based in United Kingdom, with 66 gigs on soundcheck across Edinburgh, Glasgow and London. Often billed alongside 3-Lix, Emiliooo and Orla Halligan. Next up: La Cheetah Club, Glasgow on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Loose E is a garage and house artist based in United Kingdom, with 65 gigs on so
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | La Cheetah Club | Glasgow |
 | Wed, 21 Oct 2026 | The Art School | Glasgow |
+| Sat, 7 Nov 2026 | Stereo | Glasgow |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Loose E is a garage and house artist based in United Kingdom, with 65 gigs on so
 
 3-Lix, Emiliooo, Orla Halligan
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loosee/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loosee/)*

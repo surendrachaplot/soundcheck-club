@@ -1,18 +1,18 @@
 # Hënkį
 
-Hënkį is a Psytrance and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sun, 11 Oct 2026.
+Hënkį is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Forestlimit, Tokyo on Fri, 23 Oct 2026.
 
-Hënkį is a psytrance and trance artist based in Japan, with 14 gigs on soundcheck across Tokyo. Often billed alongside JUN INAGAWA, WAGAHAI IS NEKO and AMG SAIMURA (TECHVANE). Next up: UTOPIA / DYSTOPIA, Tokyo on Sun 11 Oct.
+Hënkį is a psytrance and trance artist based in Japan, with 14 gigs on soundcheck across Tokyo. Often billed alongside JUN INAGAWA, WAGAHAI IS NEKO and AMG SAIMURA (TECHVANE). Next up: Forestlimit, Tokyo on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | UTOPIA / DYSTOPIA | Tokyo |
 | Fri, 23 Oct 2026 | Forestlimit | Tokyo |
 
 ## Recently played
 
+- UTOPIA / DYSTOPIA, Tokyo · Sun, 11 Oct 2026
 - Forestlimit, Tokyo · Tue, 28 Jul 2026
 - Violetta, Tokyo · Sat, 27 Jun 2026
 - Bar OPK, Tokyo · Sun, 21 Jun 2026
@@ -20,10 +20,9 @@ Hënkį is a psytrance and trance artist based in Japan, with 14 gigs on soundch
 - Forestlimit, Tokyo · Sun, 1 Mar 2026
 - R Lounge, Tokyo · Sat, 31 Jan 2026
 - Cave, Tokyo · Sat, 27 Dec 2025
-- R Lounge, Tokyo · Sun, 2 Nov 2025
 
 ## Shares bills with
 
 JUN INAGAWA, WAGAHAI IS NEKO, AMG SAIMURA (TECHVANE)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henki/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henki/)*

@@ -1,6 +1,6 @@
 # illus1on
 
-illus1on is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at London Hospital Tavern, London on Sat, 31 Oct 2026.
+illus1on is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at London Hospital Tavern, London on Sat, 31 Oct 2026.
 
 illus1on is a techno and minimal techno artist based in Slovakia, with 6 gigs on soundcheck across London. Often billed alongside ANTIPODES, Arthur Keen and Biji. Next up: London Hospital Tavern, London on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ illus1on is a techno and minimal techno artist based in Slovakia, with 6 gigs on
 
 ANTIPODES, Arthur Keen, Biji
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/illus1on/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/illus1on/)*

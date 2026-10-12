@@ -1,14 +1,13 @@
 # Ariel Zetina
 
-Ariel Zetina is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA, San Diego on Sat, 10 Oct 2026.
+Ariel Zetina is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Podlasie Club, Chicago on Sat, 17 Oct 2026.
 
-Ariel Zetina is a techno and house artist based in United States of America, with 197 gigs on soundcheck across Amsterdam, Athens, Berlin and Bristol and 24 more. Often billed alongside Miss Twink USA, Carly Zeng and Madeline (Chi). Next up: TBA, San Diego on Sat 10 Oct.
+Ariel Zetina is a techno and house artist based in United States of America, with 197 gigs on soundcheck across Amsterdam, Athens, Berlin and Bristol and 24 more. Often billed alongside Miss Twink USA, Carly Zeng and Madeline (Chi). Next up: Podlasie Club, Chicago on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | TBA | San Diego |
 | Sat, 17 Oct 2026 | Podlasie Club | Chicago |
 | Sun, 18 Oct 2026 | The Salt Shed | Chicago |
 | Fri, 30 Oct 2026 | Radius | Chicago |
@@ -29,4 +28,4 @@ Ariel Zetina is a techno and house artist based in United States of America, wit
 
 Miss Twink USA, Carly Zeng, Madeline (Chi)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arielzetina/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arielzetina/)*

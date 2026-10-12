@@ -1,6 +1,6 @@
 # Primal State
 
-Primal State is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 7 Nov 2026.
+Primal State is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 7 Nov 2026.
 
 Primal State is a techno and trance artist, with 21 gigs on soundcheck across Berlin. Often billed alongside ogtrues, CRYME and Tom Peters. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Primal State is a techno and trance artist, with 21 gigs on soundcheck across Be
 
 ogtrues, CRYME, Tom Peters
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/primalstate/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/primalstate/)*

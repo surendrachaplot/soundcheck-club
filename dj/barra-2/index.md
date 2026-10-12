@@ -1,6 +1,6 @@
 # BARRA
 
-BARRA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Radost Music Club, Bratislava on Sat, 17 Oct 2026.
+BARRA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Radost Music Club, Bratislava on Sat, 17 Oct 2026.
 
 BARRA is a techno and house artist based in Czech Republic, with 4 gigs on soundcheck across Bratislava and Prague. Often billed alongside Ansea, KikiDontCry and EL!SE. Next up: Radost Music Club, Bratislava on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ BARRA is a techno and house artist based in Czech Republic, with 4 gigs on sound
 
 Ansea, KikiDontCry, EL!SE
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barra-2/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barra-2/)*

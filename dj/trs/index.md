@@ -1,6 +1,6 @@
 # TRS
 
-TRS is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 28 Nov 2026.
+TRS is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 28 Nov 2026.
 
 TRS is an electronic artist based in Germany, with 5 gigs on soundcheck across Barcelona and Madrid. Often billed alongside EYRA, 00rt and Ancient Methods. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ TRS is an electronic artist based in Germany, with 5 gigs on soundcheck across B
 
 EYRA, 00rt, Ancient Methods
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trs/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trs/)*

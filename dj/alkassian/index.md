@@ -1,6 +1,6 @@
 # Alex Kassian
 
-Alex Kassian is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Salon Iksv, Istanbul on Sat, 17 Oct 2026.
+Alex Kassian is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Salon Iksv, Istanbul on Sat, 17 Oct 2026.
 
 Alex Kassian is a house and techno artist based in Germany, with 184 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 55 more. Often billed alongside PARAMIDA, Job Jobse and Running Hot. Next up: Salon Iksv, Istanbul on Sat 17 Oct.
 
@@ -30,4 +30,4 @@ Alex Kassian is a house and techno artist based in Germany, with 184 gigs on sou
 
 PARAMIDA, Job Jobse, Running Hot
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alkassian/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alkassian/)*

@@ -1,6 +1,6 @@
 # Ankali & Planeta Za
 
-Ankali & Planeta Za is a music venue in Prague with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Harmony Rec. x Mala Junta" on Fri, 16 Oct 2026.
+Ankali & Planeta Za is a music venue in Prague with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Harmony Rec. x Mala Junta" on Fri, 16 Oct 2026.
 
 Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 8 upcoming gigs, with line-ups including 3ever, Alfred Czital, AVHD and Ayiaa and 2 more. See dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
 
@@ -21,4 +21,4 @@ Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 8 upcoming 
 
 Lopuchová 58/6, Prague, 101 00, Czechia, Prague
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*

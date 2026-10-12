@@ -1,6 +1,6 @@
 # Tanfa
 
-Tanfa is a Drum & Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Moncha Cafe, Los Angeles on Sat, 17 Oct 2026.
+Tanfa is a Drum & Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Moncha Cafe, Los Angeles on Sat, 17 Oct 2026.
 
 Tanfa is a drum & bass and dub artist based in Thailand, with 6 gigs on soundcheck across Bangkok, Los Angeles and Tokyo. Often billed alongside ATAMI, Double Bass Burgers and MOOTOE. Next up: Moncha Cafe, Los Angeles on Sat 17 Oct.
 
@@ -22,4 +22,4 @@ Tanfa is a drum & bass and dub artist based in Thailand, with 6 gigs on soundche
 
 ATAMI, Double Bass Burgers, MOOTOE
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tanfa/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tanfa/)*

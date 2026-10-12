@@ -1,6 +1,6 @@
 # howrøng
 
-howrøng is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - PORT MELBOURNE, Melbourne on Sat, 5 Dec 2026.
+howrøng is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - PORT MELBOURNE, Melbourne on Sat, 5 Dec 2026.
 
 howrøng is a techno and house artist, with 33 gigs on soundcheck across Kuala Lumpur, Melbourne and Singapore. Often billed alongside Cloudy Ku, BBANDIT and GODKORINE. Next up: TBA - PORT MELBOURNE, Melbourne on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ howrøng is a techno and house artist, with 33 gigs on soundcheck across Kuala L
 
 Cloudy Ku, BBANDIT, GODKORINE
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/howrong/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/howrong/)*

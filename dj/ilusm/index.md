@@ -1,6 +1,6 @@
 # ILUSM
 
-ILUSM is a Club and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The Compound, Baltimore on Fri, 16 Oct 2026.
+ILUSM is a Club and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Compound, Baltimore on Fri, 16 Oct 2026.
 
 ILUSM is a club and hardcore artist based in United States of America, with 24 gigs on soundcheck across Baltimore, New York City and Washington DC. Often billed alongside Girlypop Princess, Franxx and DJ KORIS. Next up: The Compound, Baltimore on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ ILUSM is a club and hardcore artist based in United States of America, with 24 g
 
 Girlypop Princess, Franxx, DJ KORIS
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilusm/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilusm/)*

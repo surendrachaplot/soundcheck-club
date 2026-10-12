@@ -1,6 +1,6 @@
 # Maadraassoo
 
-Maadraassoo is a Pop and Electro artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - El Sielu (Manresa), Barcelona on Fri, 16 Oct 2026.
+Maadraassoo is a Pop and Electro artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - El Sielu (Manresa), Barcelona on Fri, 16 Oct 2026.
 
 Maadraassoo is a pop and electro artist based in Spain, with 216 gigs on soundcheck across Barcelona, Madrid, Mallorca and Valencia. Often billed alongside !!! (Chk Chk Chk), Baldman and Chica Acosta. Next up: TBA - El Sielu (Manresa), Barcelona on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Maadraassoo is a pop and electro artist based in Spain, with 216 gigs on soundch
 
 !!! (Chk Chk Chk), Baldman, Chica Acosta
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maadraassoo/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maadraassoo/)*

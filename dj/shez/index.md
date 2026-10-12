@@ -1,6 +1,6 @@
 # Shez
 
-Shez is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Rūmu, Lisbon on Wed, 28 Oct 2026.
+Shez is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Rūmu, Lisbon on Wed, 28 Oct 2026.
 
 Shez is a house and tech house artist, with 18 gigs on soundcheck across Denver, Leeds, Lisbon and London and 1 more. Often billed alongside Tom Craven, Lopaski and Peter Glasspool. Next up: Rūmu, Lisbon on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Shez is a house and tech house artist, with 18 gigs on soundcheck across Denver,
 
 Tom Craven, Lopaski, Peter Glasspool
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shez/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shez/)*

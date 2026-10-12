@@ -1,6 +1,6 @@
 # TAJI
 
-TAJI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 1 Nov 2026.
+TAJI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 1 Nov 2026.
 
 TAJI is a techno and house artist based in Japan, with 21 gigs on soundcheck across Amsterdam and Tokyo. Often billed alongside SIGNAL (JP), O.Goo and Ayana Pattra. Next up: Aoyama Hachi, Tokyo on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ TAJI is a techno and house artist based in Japan, with 21 gigs on soundcheck acr
 
 SIGNAL (JP), O.Goo, Ayana Pattra
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taji/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taji/)*

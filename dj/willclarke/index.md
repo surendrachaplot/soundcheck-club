@@ -1,6 +1,6 @@
 # Will Clarke
 
-Will Clarke is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Melkweg, Amsterdam on Wed, 21 Oct 2026.
+Will Clarke is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Melkweg, Amsterdam on Wed, 21 Oct 2026.
 
 Will Clarke is a techno and house artist based in United Kingdom, with 93 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside DJ Minx, Dombresky and Boys Noize. Next up: Melkweg, Amsterdam on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ Will Clarke is a techno and house artist based in United Kingdom, with 93 gigs o
 
 DJ Minx, Dombresky, Boys Noize
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willclarke/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willclarke/)*

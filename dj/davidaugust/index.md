@@ -1,6 +1,6 @@
 # David August
 
-David August is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at L'octogone Théâtre de Pully, Lausanne on Thu, 29 Oct 2026.
+David August is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at L'octogone Théâtre de Pully, Lausanne on Thu, 29 Oct 2026.
 
 David August is an experimental and electronica artist, with 38 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Sofia Kourtesis, Bendik Giske and Cassius. Next up: L'octogone Théâtre de Pully, Lausanne on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ David August is an experimental and electronica artist, with 38 gigs on soundche
 
 Sofia Kourtesis, Bendik Giske, Cassius
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidaugust/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidaugust/)*

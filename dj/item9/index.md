@@ -1,6 +1,6 @@
 # ITEM9
 
-ITEM9 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The Bongo Club, Edinburgh on Tue, 13 Oct 2026.
+ITEM9 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Bongo Club, Edinburgh on Tue, 13 Oct 2026.
 
 ITEM9 is a techno and house artist based in United Kingdom, with 10 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside SunēX, Frank Grime and FOLIE (UK). Next up: The Bongo Club, Edinburgh on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ ITEM9 is a techno and house artist based in United Kingdom, with 10 gigs on soun
 
 SunēX, Frank Grime, FOLIE (UK)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/item9/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/item9/)*

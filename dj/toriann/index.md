@@ -1,6 +1,6 @@
 # TORI ANN
 
-TORI ANN is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Fuse, Brussels on Fri, 16 Oct 2026.
+TORI ANN is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Fuse, Brussels on Fri, 16 Oct 2026.
 
 TORI ANN is a house and techno artist based in Democratic Republic of the Congo, with 33 gigs on soundcheck across Amsterdam, Antwerp and Brussels. Often billed alongside DTM Funk, Bibi Seck and Oko Stellar. Next up: Fuse, Brussels on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ TORI ANN is a house and techno artist based in Democratic Republic of the Congo,
 
 DTM Funk, Bibi Seck, Oko Stellar
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toriann/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toriann/)*

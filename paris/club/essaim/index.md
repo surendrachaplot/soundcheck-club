@@ -1,14 +1,13 @@
 # essaim
 
-essaim is a music venue in Paris with 19 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Eerste Communie - 10 Years" on Sun, 11 Oct 2026.
+essaim is a music venue in Paris with 18 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "tribalism modular live sets - Colin Benders Live, Rue B Live, Vera Grace Live" on Fri, 16 Oct 2026.
 
-essaim is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with line-ups including Justine Perry, A.Litique, Aleqs Notal and Altinbas and 2 more. See dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
+essaim is a music venue in Paris listed on soundcheck. 18 upcoming gigs, with line-ups including Justine Perry, A.Litique, Aleqs Notal and Altinbas and 2 more. See dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Eerste Communie - 10 Years |  |
 | Fri, 16 Oct 2026 | tribalism modular live sets - Colin Benders Live, Rue B Live, Vera Grace Live | Colin Benders, Vera Grace |
 | Sat, 17 Oct 2026 | Garçon b2b Konduku - all night long | Garçon, Konduku |
 | Fri, 23 Oct 2026 | tribalism - Montero, Nectare, Stanislav Tolkachev Live | Montero, Nectare, Stanislav Tolkachev |
@@ -18,9 +17,10 @@ essaim is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with li
 | Sat, 31 Oct 2026 | cocoon anniversaire essaim YEAR002 - Binh, Mars O10C, Zombies In Miami | Binh, Mars O10C, Zombies In Miami |
 | Fri, 6 Nov 2026 | tribalism - ASEC Live, A.Litique, Justine Perry b2b Paula Koski | A.Litique, ASEC, Justine Perry, Paula Koski |
 | Sat, 7 Nov 2026 | Nicolas Lutz - all night long | Nicolas Lutz |
+| Sun, 8 Nov 2026 | extended - Aleqs Notal, Octo Octa, Sweely | Aleqs Notal, Octo Octa, Sweely |
 
 ## Address
 
 14 Rue Philippe de Girard, 75010 Paris, Paris
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*

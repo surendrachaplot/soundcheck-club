@@ -1,15 +1,13 @@
 # Fabrik
 
-Fabrik is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "CODE pres. UNREAL x KUKO All Night Long World Tour" on Sun, 11 Oct 2026.
+Fabrik is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "LA RESISTENCIA - Lethal industry" on Sat, 17 Oct 2026.
 
-Fabrik is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including Paolo Ferrara, Adrian Mills, Alex T (UK) and Alienata and 2 more. See dates, start times and who's playing. Av. de la Industria 82, 28970 Humanes de Madrid, Spain.
+Fabrik is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including Paolo Ferrara, Adrian Mills, Alex T (UK) and Alienata and 2 more. See dates, start times and who's playing. Av. de la Industria 82, 28970 Humanes de Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | CODE pres. UNREAL x KUKO All Night Long World Tour | KUKO |
-| Sun, 11 Oct 2026 | CODE 23 Anniversary: La Trilogía [Part I] with KlangKuenstler | Arnaud Le Texier, CESAR ALMENA, Cera Khin, Chris Liebing, Clara Cuvé, Daria Kolosova, Elesbaan, Estella Boersma, FJAAK, Ignez, Iñaki Villasante, KUKO, Kenny Larkin, Kevin Saunderson, KlangKuenstler, Mac Declos, Marck D, Nuke, Obscure Shape, Octave One, Phase Fatale, SPFDJ, Sera J, Valentino Kanzyani, Vieze Asbak, Xpansul |
 | Sat, 17 Oct 2026 | LA RESISTENCIA - Lethal industry | Brenda Serna (2), Carlos Pérez, Cristian Varela, Gaston Zani, H1pnos1s, K-Style, Pastis & Buenri |
 | Sat, 24 Oct 2026 | 150 by Fabrik - October 2026 Edition | BLNK, Dimitri K, Dual Damage, Ender, KRUELTY, Major Conspiracy, Noxiouz, Pinotello, Satirized, The Dark Horror, Unload, Yoshiko |
 | Sat, 31 Oct 2026 | Hallowfest at Fabrik with Charlotte de Witte | Anthony Godfather (2), CESAR ALMENA, Charlotte de Witte, Dany Gómez, Darius Syrossian, Detlef, In Verruf, Inox Traxx, Joey Daniel, Nastia, Nuke, Seb Zito, Supergloss, Svetec, future.666 |
@@ -18,9 +16,10 @@ Fabrik is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with l
 | Sat, 28 Nov 2026 | MAKINEROS XXL Winter Edition | Alex T (UK), DJ Marta, Da Terror, Day-Mar, Juanma (CL), Marian Dacal, Netherworld |
 | Sat, 5 Dec 2026 | CODE 23 Anniversary: La Trilogía [Part III] | Ben Sims, Chlär, Cloudy, DAX J |
 | Sat, 19 Dec 2026 | Masters Of Hardcore 2026 en Fabrik |  |
+| Fri, 1 Jan 2027 | LOOP NYD FESTIVAL 2027 | Adrian Mills, Andres Campo, Marco Carola, Mason Collective, Paco Osuna, fumi (DE) |
 
 ## Address
 
 Av. de la Industria 82, 28970 Humanes de Madrid, Spain, Madrid
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*

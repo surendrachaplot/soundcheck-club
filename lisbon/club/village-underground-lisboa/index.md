@@ -1,6 +1,6 @@
 # Village Underground Lisboa
 
-Village Underground Lisboa is a music venue in Lisbon with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "12-HOUR PARTY PEOPLE: Closing Summer" on Thu, 15 Oct 2026.
+Village Underground Lisboa is a music venue in Lisbon with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "12-HOUR PARTY PEOPLE: Closing Summer" on Thu, 15 Oct 2026.
 
 Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 5 upcoming gigs, with line-ups including Bryto, Camps, CIINTRA and ELEVIN and 2 more. See dates, start times and who's playing. Avenida da India 52, 1300-299 Lisboa.
 
@@ -18,4 +18,4 @@ Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 5 up
 
 Avenida da India 52, 1300-299 Lisboa, Lisbon
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/village-underground-lisboa/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/village-underground-lisboa/)*

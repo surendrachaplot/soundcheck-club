@@ -1,6 +1,6 @@
 # Cam Stockman
 
-Cam Stockman is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Sub Club, Glasgow on Thu, 15 Oct 2026.
+Cam Stockman is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Sub Club, Glasgow on Thu, 15 Oct 2026.
 
 Cam Stockman is a house and tech house artist based in United Kingdom, with 74 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 24 more. Often billed alongside Tommy Phillips, Locky and Gaskin. Next up: Sub Club, Glasgow on Thu 15 Oct.
 
@@ -36,4 +36,4 @@ Cam Stockman is a house and tech house artist based in United Kingdom, with 74 g
 
 Tommy Phillips, Locky, Gaskin
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*

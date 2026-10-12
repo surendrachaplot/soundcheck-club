@@ -1,14 +1,13 @@
 # Peach
 
-Peach is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Backsteinboot, Berlin on Sat, 10 Oct 2026.
+Peach is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Jolene Downtown Miami, Miami on Thu, 15 Oct 2026.
 
-Peach is a house and techno artist based in Canada, with 225 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 55 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Backsteinboot, Berlin on Sat 10 Oct.
+Peach is a house and techno artist based in Canada, with 225 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 55 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Jolene Downtown Miami, Miami on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Backsteinboot | Berlin |
 | Thu, 15 Oct 2026 | Jolene Downtown Miami | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 17 Oct 2026 | Nowadays | New York City |
@@ -20,6 +19,7 @@ Peach is a house and techno artist based in Canada, with 225 gigs on soundcheck 
 | Fri, 6 Nov 2026 | Cobalt Studios | Newcastle |
 | Fri, 6 Nov 2026 | Cobalt Studios | Newcastle |
 | Sun, 8 Nov 2026 | CLUB RAUM | Amsterdam |
+| Thu, 31 Dec 2026 | Les Enfants Brillants | Barcelona |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Peach is a house and techno artist based in Canada, with 225 gigs on soundcheck 
 
 Shanti Celeste, Gabrielle Kwarteng, Saoirse
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*

@@ -1,14 +1,13 @@
 # Eris Drew
 
-Eris Drew is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
+Eris Drew is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at NUMBER 90 LONDON, London on Thu, 15 Oct 2026.
 
-Eris Drew is a house and techno artist based in United States of America, with 192 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 54 more. Often billed alongside Octo Octa, Mike Servito and CCL. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
+Eris Drew is a house and techno artist based in United States of America, with 192 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 54 more. Often billed alongside Octo Octa, Mike Servito and CCL. Next up: NUMBER 90 LONDON, London on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Empire Polo Club | Palm-springs |
 | Thu, 15 Oct 2026 | NUMBER 90 LONDON | London |
 | Fri, 16 Oct 2026 | Iter Tenerife | Canary-islands |
 | Fri, 23 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
@@ -20,6 +19,7 @@ Eris Drew is a house and techno artist based in United States of America, with 1
 | Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 | Sat, 7 Nov 2026 | WAS. | Utrecht |
 | Sun, 8 Nov 2026 | CLUB RAUM | Amsterdam |
+| Sat, 14 Nov 2026 | Lx Factory | Lisbon |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Eris Drew is a house and techno artist based in United States of America, with 1
 
 Octo Octa, Mike Servito, CCL
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*

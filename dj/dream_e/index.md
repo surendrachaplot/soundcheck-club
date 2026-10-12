@@ -1,6 +1,6 @@
 # Dream_E
 
-Dream_E is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Salon des Amateurs, Düsseldorf on Fri, 16 Oct 2026.
+Dream_E is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Salon des Amateurs, Düsseldorf on Fri, 16 Oct 2026.
 
 Dream_E is a house and techno artist based in United Kingdom, with 10 gigs on soundcheck across Berlin, Budapest, Düsseldorf and Edinburgh and 2 more. Often billed alongside The Burrell Connection, Craigie Knowes and DJ Life. Next up: Salon des Amateurs, Düsseldorf on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Dream_E is a house and techno artist based in United Kingdom, with 10 gigs on so
 
 The Burrell Connection, Craigie Knowes, DJ Life
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dream_e/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dream_e/)*

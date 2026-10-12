@@ -1,14 +1,15 @@
 # Hicky & Kalo
 
-Hicky & Kalo is a Progressive House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Cayo, Paris on Sat, 17 Oct 2026.
+Hicky & Kalo is a Progressive House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Cayo, Paris on Sat, 17 Oct 2026.
 
-Hicky & Kalo are a progressive house and techno duo based in Canada, with 79 gigs on soundcheck across Amsterdam, Auckland, Buenos Aires and Chicago and 9 more. Often billed alongside Sebastien Leger, Roy Rosenfeld and Guy Mantzur. Next up: Cayo, Paris on Sat 17 Oct.
+Hicky & Kalo are a progressive house and techno duo based in Canada, with 80 gigs on soundcheck across Amsterdam, Auckland, Buenos Aires and Chicago and 9 more. Often billed alongside Sebastien Leger, Roy Rosenfeld and Guy Mantzur. Next up: Cayo, Paris on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Cayo | Paris |
+| Wed, 21 Oct 2026 | Bar Feijoa | Amsterdam |
 | Fri, 23 Oct 2026 | Rijnbar | Amsterdam |
 | Sat, 24 Oct 2026 | 50hertz Club Rembrandtplein (Sing Sing) | Amsterdam |
 | Fri, 30 Oct 2026 | Salon Daomé | Montreal |
@@ -28,4 +29,4 @@ Hicky & Kalo are a progressive house and techno duo based in Canada, with 79 gig
 
 Sebastien Leger, Roy Rosenfeld, Guy Mantzur
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hickykalo/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hickykalo/)*

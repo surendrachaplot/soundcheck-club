@@ -1,6 +1,6 @@
 # N.R.M
 
-N.R.M is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at glimmer, Hamburg on Fri, 16 Oct 2026.
+N.R.M is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at glimmer, Hamburg on Fri, 16 Oct 2026.
 
 N.R.M is a techno and house artist based in Germany, with 51 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 10 more. Often billed alongside Faerber, ENNIO and HAMY. Next up: glimmer, Hamburg on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ N.R.M is a techno and house artist based in Germany, with 51 gigs on soundcheck 
 
 Faerber, ENNIO, HAMY
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n.r.m/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n.r.m/)*

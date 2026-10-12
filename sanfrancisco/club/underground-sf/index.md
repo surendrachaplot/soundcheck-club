@@ -1,6 +1,6 @@
 # Underground SF
 
-Underground SF is a music venue in San Francisco/Oakland with 11 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "ShelterSF DNB - 19-Year Anniversary" on Thu, 15 Oct 2026.
+Underground SF is a music venue in San Francisco/Oakland with 11 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "ShelterSF DNB - 19-Year Anniversary" on Thu, 15 Oct 2026.
 
 Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 11 upcoming gigs, with line-ups including 480P (US), 9-System, ALICE STRIBLING and Andy411 and 2 more. See dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
 
@@ -23,4 +23,4 @@ Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 1
 
 424 Haight St, San Francisco, CA 94117, United States, San Francisco/Oakland
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*

@@ -1,6 +1,6 @@
 # Domicile
 
-Domicile is a music venue in Miami with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "Hedon: Vampire Weekend" on Fri, 23 Oct 2026.
+Domicile is a music venue in Miami with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "Hedon: Vampire Weekend" on Fri, 23 Oct 2026.
 
 Domicile is a music venue in Miami listed on soundcheck. 1 upcoming gig, with line-ups including Carla Schmitt, Dani Thorne, INSTINCT and Lara Klart and 2 more. See dates, start times and who's playing. 2900 NW Seventh Ave, Miami, FL  33127.
 
@@ -14,4 +14,4 @@ Domicile is a music venue in Miami listed on soundcheck. 1 upcoming gig, with li
 
 2900 NW Seventh Ave, Miami, FL  33127, Miami
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/domicile/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/domicile/)*

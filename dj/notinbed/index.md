@@ -1,6 +1,6 @@
 # notinbed
 
-notinbed is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 16 Oct 2026.
+notinbed is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 16 Oct 2026.
 
 notinbed is an electro and techno artist based in France, with 20 gigs on soundcheck across Berlin, Lyon, Marseille and Paris and 1 more. Often billed alongside Lisa More, MCR-T and amne. Next up: La Station - Gare des Mines, Paris on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ notinbed is an electro and techno artist based in France, with 20 gigs on soundc
 
 Lisa More, MCR-T, amne
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notinbed/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notinbed/)*

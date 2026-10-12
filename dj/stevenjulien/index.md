@@ -1,6 +1,6 @@
 # Steven Julien
 
-Steven Julien is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at radial, London on Fri, 16 Oct 2026.
+Steven Julien is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at radial, London on Fri, 16 Oct 2026.
 
 Steven Julien is a house and techno artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside FunkinEven, DJ Jeyon and J M S Khosah. Next up: radial, London on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Steven Julien is a house and techno artist based in United Kingdom, with 62 gigs
 
 FunkinEven, DJ Jeyon, J M S Khosah
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenjulien/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenjulien/)*

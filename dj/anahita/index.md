@@ -1,6 +1,6 @@
 # ANAHITA
 
-ANAHITA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The Santa Barbara Landing, California on Sat, 17 Oct 2026.
+ANAHITA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Santa Barbara Landing, California on Sat, 17 Oct 2026.
 
 ANAHITA is a techno and house artist based in United States of America, with 32 gigs on soundcheck across Bangkok, California, Istanbul and London and 3 more. Often billed alongside Anahita Shamsaei, Bats and Milli. Next up: The Santa Barbara Landing, California on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ ANAHITA is a techno and house artist based in United States of America, with 32 
 
 Anahita Shamsaei, Bats, Milli
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anahita/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anahita/)*

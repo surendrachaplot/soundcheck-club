@@ -1,6 +1,6 @@
 # Tatyana Jane
 
-Tatyana Jane is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Radio Radio, Amsterdam on Wed, 21 Oct 2026.
+Tatyana Jane is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Radio Radio, Amsterdam on Wed, 21 Oct 2026.
 
 Tatyana Jane is a techno and electro artist based in France, with 78 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Busy P, Greg and Skrillex. Next up: Radio Radio, Amsterdam on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ Tatyana Jane is a techno and electro artist based in France, with 78 gigs on sou
 
 Busy P, Greg (2), Skrillex
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tatyanajane/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tatyanajane/)*

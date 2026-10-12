@@ -1,14 +1,13 @@
 # Simon Scott
 
-Simon Scott is a Downtempo and Ambient artist with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Outlaws Yacht Club, Leeds on Sun, 11 Oct 2026.
+Simon Scott is a Downtempo and Ambient artist with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Art School, Glasgow on Thu, 15 Oct 2026.
 
-Simon Scott is a downtempo and ambient artist based in United Kingdom, with 126 gigs on soundcheck across Belgrade, Brighton, Glasgow and Leeds and 3 more. Often billed alongside Mike BC, Iration Steppas and Slacky [Space Ritual]. Next up: Outlaws Yacht Club, Leeds on Sun 11 Oct.
+Simon Scott is a downtempo and ambient artist based in United Kingdom, with 126 gigs on soundcheck across Belgrade, Brighton, Glasgow and Leeds and 3 more. Often billed alongside Mike BC, Iration Steppas and Slacky [Space Ritual]. Next up: The Art School, Glasgow on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Outlaws Yacht Club | Leeds |
 | Thu, 15 Oct 2026 | The Art School | Glasgow |
 | Sat, 17 Oct 2026 | The 212 Café & Bar | Leeds |
 | Sun, 18 Oct 2026 | Outlaws Yacht Club | Leeds |
@@ -19,6 +18,7 @@ Simon Scott is a downtempo and ambient artist based in United Kingdom, with 126 
 
 ## Recently played
 
+- Outlaws Yacht Club, Leeds · Sun, 11 Oct 2026
 - The Golden Lion, Manchester · Fri, 9 Oct 2026
 - Outlaws Yacht Club, Leeds · Fri, 2 Oct 2026
 - The Hifi Club, Leeds · Thu, 24 Sept 2026
@@ -26,10 +26,9 @@ Simon Scott is a downtempo and ambient artist based in United Kingdom, with 126 
 - Outlaws Yacht Club, Leeds · Sat, 18 Jul 2026
 - Cu, London · Wed, 1 Jul 2026
 - The Doghouse bar & Record Store, Leeds · Sat, 20 Jun 2026
-- Outlaws Yacht Club, Leeds · Thu, 18 Jun 2026
 
 ## Shares bills with
 
 Mike BC, Iration Steppas, Slacky [Space Ritual]
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonscott/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonscott/)*

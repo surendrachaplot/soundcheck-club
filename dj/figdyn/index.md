@@ -1,6 +1,6 @@
 # Fig (DYN)
 
-Fig (DYN) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Fünk, Mexico City on Thu, 22 Oct 2026.
+Fig (DYN) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Fünk, Mexico City on Thu, 22 Oct 2026.
 
 Fig (DYN) is a house and techno artist based in Mexico, with 67 gigs on soundcheck across Bristol and Mexico City. Often billed alongside Toledano, Vanilla Storm and Fina. Next up: Fünk, Mexico City on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Fig (DYN) is a house and techno artist based in Mexico, with 67 gigs on soundche
 
 Toledano, Vanilla Storm, Fina
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/figdyn/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/figdyn/)*

@@ -1,6 +1,6 @@
 # Silent Studios
 
-Silent Studios is a music venue in Auckland with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "End Of An Era: Birthday Weekend (Fri)" on Fri, 16 Oct 2026.
+Silent Studios is a music venue in Auckland with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "End Of An Era: Birthday Weekend (Fri)" on Fri, 16 Oct 2026.
 
 Silent Studios is a music venue in Auckland listed on soundcheck. 7 upcoming gigs, with line-ups including Cam Harris, Cosmjn, Dylan C and Herman Saiz and 2 more. See dates, start times and who's playing. 6 Patrick St, Onehunga, Auckland 1061.
 
@@ -20,4 +20,4 @@ Silent Studios is a music venue in Auckland listed on soundcheck. 7 upcoming gig
 
 6 Patrick St, Onehunga, Auckland 1061, Auckland
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/silent-studios/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/silent-studios/)*

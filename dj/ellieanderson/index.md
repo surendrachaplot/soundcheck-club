@@ -1,6 +1,6 @@
 # Ellie Anderson
 
-Ellie Anderson is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Strange Brew, Bristol on Fri, 16 Oct 2026.
+Ellie Anderson is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Strange Brew, Bristol on Fri, 16 Oct 2026.
 
 Ellie Anderson is a house and acid artist based in United Kingdom, with 34 gigs on soundcheck across Bristol, London and Manchester. Often billed alongside Flash Mitra, Ellie Stokes and Dave Harvey. Next up: Strange Brew, Bristol on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Ellie Anderson is a house and acid artist based in United Kingdom, with 34 gigs 
 
 Flash Mitra, Ellie Stokes, Dave Harvey
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellieanderson/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellieanderson/)*

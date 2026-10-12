@@ -1,6 +1,6 @@
 # Sky High Trio
 
-Sky High Trio is a Acid and Jazz artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Sky High Trio is a Acid and Jazz artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Sky High Trio is an acid and jazz artist, with 5 gigs on soundcheck across Melbourne. Often billed alongside DJ JNETT, Harvey Sutherland and Mike Gurrieri. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ Sky High Trio is an acid and jazz artist, with 5 gigs on soundcheck across Melbo
 
 DJ JNETT, Harvey Sutherland, Mike Gurrieri
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skyhightrio/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skyhightrio/)*

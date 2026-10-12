@@ -1,6 +1,6 @@
 # WarinD
 
-WarinD is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Sala Cocó, Madrid on Sat, 17 Oct 2026.
+WarinD is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Sala Cocó, Madrid on Sat, 17 Oct 2026.
 
 WarinD is a techno and industrial artist based in Italy, with 46 gigs on soundcheck across Antwerp, Berlin, Budapest and Cologne and 19 more. Often billed alongside Nikolina, Floor Force One and Paralich. Next up: Sala Cocó, Madrid on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ WarinD is a techno and industrial artist based in Italy, with 46 gigs on soundch
 
 Nikolina, Floor Force One, Paralich
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/warind/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/warind/)*

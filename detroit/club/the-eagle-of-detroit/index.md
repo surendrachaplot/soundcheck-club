@@ -1,6 +1,6 @@
 # The Eagle of Detroit
 
-The Eagle of Detroit is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "TOP2BTTM" on Sat, 17 Oct 2026.
+The Eagle of Detroit is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "TOP2BTTM" on Sat, 17 Oct 2026.
 
 The Eagle of Detroit is a music venue in Detroit listed on soundcheck. 1 upcoming gig, with line-ups including angela baskets, M00N-Pi and we1sman. See dates, start times and who's playing. 950 West McNichols.
 
@@ -14,4 +14,4 @@ The Eagle of Detroit is a music venue in Detroit listed on soundcheck. 1 upcomin
 
 950 West McNichols, Detroit
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-eagle-of-detroit/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-eagle-of-detroit/)*

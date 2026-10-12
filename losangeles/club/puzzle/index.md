@@ -1,6 +1,6 @@
 # Puzzle
 
-Puzzle is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "VERTICAL" on Fri, 23 Oct 2026.
+Puzzle is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "VERTICAL" on Fri, 23 Oct 2026.
 
 Puzzle is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including DARIUS. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Puzzle is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, wit
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | VERTICAL | DARIUS |
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/puzzle/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/puzzle/)*

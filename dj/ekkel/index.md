@@ -1,6 +1,6 @@
 # Ekkel
 
-Ekkel is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at ingang, Amsterdam on Thu, 22 Oct 2026.
+Ekkel is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at ingang, Amsterdam on Thu, 22 Oct 2026.
 
 Ekkel is a trance and techno artist based in Norway, with 59 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Marius Bø, Mikkel Rev and Nelly (NL). Next up: ingang, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Ekkel is a trance and techno artist based in Norway, with 59 gigs on soundcheck 
 
 Marius Bø, Mikkel Rev, Nelly (NL)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ekkel/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ekkel/)*

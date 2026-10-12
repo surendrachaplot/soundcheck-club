@@ -1,14 +1,13 @@
 # Mouse On Mars
 
-Mouse On Mars is a Electronica and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Funkhaus Berlin, Berlin on Sat, 10 Oct 2026.
+Mouse On Mars is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA, Valencia on Tue, 13 Oct 2026.
 
-Mouse On Mars is an electronica and ambient artist based in Germany, with 6 gigs on soundcheck across Athens, Berlin and Valencia. Often billed alongside Christina Vantzou, Oliver Coates and Alif Hilal. Next up: Funkhaus Berlin, Berlin on Sat 10 Oct.
+Mouse On Mars is an electronica and ambient artist based in Germany, with 6 gigs on soundcheck across Athens, Berlin and Valencia. Often billed alongside Christina Vantzou, Oliver Coates and Alif Hilal. Next up: TBA, Valencia on Tue 13 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Funkhaus Berlin | Berlin |
 | Tue, 13 Oct 2026 | TBA | Valencia |
 
 ## Recently played
@@ -23,4 +22,4 @@ Mouse On Mars is an electronica and ambient artist based in Germany, with 6 gigs
 
 Christina Vantzou, Oliver Coates, Alif Hilal
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mouseonmars/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mouseonmars/)*

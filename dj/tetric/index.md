@@ -1,6 +1,6 @@
 # Tetric
 
-Tetric is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 30 Oct 2026.
+Tetric is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 30 Oct 2026.
 
 Tetric is an electro and techno artist based in Spain, with 6 gigs on soundcheck across Barcelona. Often billed alongside Ana Alves, Hades PRX and Queixal. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Tetric is an electro and techno artist based in Spain, with 6 gigs on soundcheck
 
 Ana Alves, Hades PRX, Queixal
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tetric/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tetric/)*

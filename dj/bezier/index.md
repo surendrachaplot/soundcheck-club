@@ -1,6 +1,6 @@
 # Bézier
 
-Bézier is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at YSY, Berlin on Fri, 16 Oct 2026.
+Bézier is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at YSY, Berlin on Fri, 16 Oct 2026.
 
 Bézier is a house and techno artist based in United States of America, with 46 gigs on soundcheck across Berlin, Detroit, Hamburg and Hong Kong and 7 more. Often billed alongside BrthrMidnyt, La Carpio and cristian zanotti. Next up: YSY, Berlin on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Bézier is a house and techno artist based in United States of America, with 46 
 
 BrthrMidnyt, La Carpio, cristian zanotti
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bezier/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bezier/)*

@@ -1,6 +1,6 @@
 # Collectif MTL
 
-Collectif MTL is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "TRASHED HALLOWEEN: WORLD WIDE WEB" on Fri, 30 Oct 2026.
+Collectif MTL is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "TRASHED HALLOWEEN: WORLD WIDE WEB" on Fri, 30 Oct 2026.
 
 Collectif MTL is a music venue in Montreal listed on soundcheck. 1 upcoming gig, with line-ups including avius, cashboii, fangsie and Outback and 2 more. See dates, start times and who's playing. 397A Saint Catherine Street West, Montreal, H3A 2G3.
 
@@ -14,4 +14,4 @@ Collectif MTL is a music venue in Montreal listed on soundcheck. 1 upcoming gig,
 
 397A Saint Catherine Street West, Montreal, H3A 2G3, Montreal
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/collectif-mtl/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/collectif-mtl/)*

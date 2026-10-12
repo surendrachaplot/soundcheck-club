@@ -1,15 +1,13 @@
 # Konduku
 
-Konduku is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Buda BXL, Brussels on Sat, 10 Oct 2026.
+Konduku is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at essaim, Paris on Sat, 17 Oct 2026.
 
-Konduku is a techno and house artist based in Netherlands, with 181 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 41 more. Often billed alongside DJ Nobu, Kia (AU) and Woody92. Next up: Buda BXL, Brussels on Sat 10 Oct.
+Konduku is a techno and house artist based in Netherlands, with 181 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 41 more. Often billed alongside DJ Nobu, Kia (AU) and Woody92. Next up: essaim, Paris on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Buda BXL | Brussels |
-| Sun, 11 Oct 2026 | Lasociaciøn | Madrid |
 | Sat, 17 Oct 2026 | essaim | Paris |
 | Thu, 22 Oct 2026 | San Francisco | Amsterdam |
 | Fri, 23 Oct 2026 | TILLATEC | Amsterdam |
@@ -20,9 +18,11 @@ Konduku is a techno and house artist based in Netherlands, with 181 gigs on soun
 | Sat, 7 Nov 2026 | FOLD | London |
 | Sat, 21 Nov 2026 | Nowadays | New York City |
 | Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Victoria, Australia) | Melbourne |
+| Fri, 9 Apr 2027 | 宀 Club | Hong-kong |
 
 ## Recently played
 
+- Lasociaciøn, Madrid · Sun, 11 Oct 2026
 - Buda BXL, Brussels · Sat, 10 Oct 2026
 - Sonnenraum, Berlin · Sun, 4 Oct 2026
 - Masada, Milan · Sat, 3 Oct 2026
@@ -30,10 +30,9 @@ Konduku is a techno and house artist based in Netherlands, with 181 gigs on soun
 - TBA - Out ‘n’ About Treesort, Portland · Thu, 24 Sept 2026
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 - TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland · Fri, 18 Sept 2026
-- Signal, New York City · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 DJ Nobu, Kia (AU), Woody92
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*

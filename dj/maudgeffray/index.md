@@ -1,6 +1,6 @@
 # Maud Geffray
 
-Maud Geffray is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 7 Nov 2026.
+Maud Geffray is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 7 Nov 2026.
 
 Maud Geffray is a techno and electro artist, with 14 gigs on soundcheck across Geneva, Lyon, Marseille and Paris. Often billed alongside RAG, Paul Seul and Alex Nantaya. Next up: La Machine Du Moulin Rouge, Paris on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Maud Geffray is a techno and electro artist, with 14 gigs on soundcheck across G
 
 RAG, Paul Seul, Alex Nantaya
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maudgeffray/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maudgeffray/)*

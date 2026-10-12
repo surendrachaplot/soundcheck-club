@@ -1,6 +1,6 @@
 # popo blanco
 
-popo blanco is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Frappant, Hamburg on Sat, 24 Oct 2026.
+popo blanco is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Frappant, Hamburg on Sat, 24 Oct 2026.
 
 popo blanco is a house artist, with 7 gigs on soundcheck across Hamburg. Often billed alongside DJ Audacity, DJ Dreams and KLARYOKO. Next up: Frappant, Hamburg on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ popo blanco is a house artist, with 7 gigs on soundcheck across Hamburg. Often b
 
 DJ Audacity, DJ Dreams, KLARYOKO
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/popoblanco/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/popoblanco/)*

@@ -1,6 +1,6 @@
 # Ikii
 
-Ikii is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "FLINTA Event Production Workshop: Softer, Better, Faster, Stronger" on Tue, 13 Oct 2026.
+Ikii is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "FLINTA Event Production Workshop: Softer, Better, Faster, Stronger" on Tue, 13 Oct 2026.
 
 Ikii is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including aantz, Alejandro Mosso, Aleksi Perälä and cadeu and 2 more. See dates, start times and who's playing. Herrfurthplatz 8, 12049 Berlin, Germany.
 
@@ -18,4 +18,4 @@ Ikii is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line
 
 Herrfurthplatz 8, 12049 Berlin, Germany, Berlin
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*

@@ -1,6 +1,6 @@
 # The Foundry
 
-The Foundry is a music venue in San Francisco/Oakland with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Petit Biscuit in San Francisco" on Fri, 23 Oct 2026.
+The Foundry is a music venue in San Francisco/Oakland with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Petit Biscuit in San Francisco" on Fri, 23 Oct 2026.
 
 The Foundry is a music venue in San Francisco/Oakland listed on soundcheck. 5 upcoming gigs, with line-ups including AceMo, at-at, Jojo Lorenzo and Mesmé and 2 more. See dates, start times and who's playing. 1425 Folsom St, San Francisco, CA 94103.
 
@@ -18,4 +18,4 @@ The Foundry is a music venue in San Francisco/Oakland listed on soundcheck. 5 up
 
 1425 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-foundry/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-foundry/)*

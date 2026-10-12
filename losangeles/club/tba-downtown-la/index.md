@@ -1,14 +1,13 @@
 # TBA - Downtown LA
 
-TBA - Downtown LA is a music venue in Los Angeles with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "SMD - Pablo Bozzi & Jorkes" on Sat, 10 Oct 2026.
+TBA - Downtown LA is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "V.sions Halloween: Onur Özer, Mayell, Mesmé, Pete Jonas, Rocky, Jackson Algeo" on Fri, 30 Oct 2026.
 
-TBA - Downtown LA is a music venue in Los Angeles listed on soundcheck. 6 upcoming gigs, with line-ups including Armen Miran, Jorkes, Loukeman and Mayell and 2 more. See dates, start times and who's playing. To Be Announced - DTLA.
+TBA - Downtown LA is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs, with line-ups including Armen Miran, Loukeman, Mayell and Mesmé and 2 more. See dates, start times and who's playing. To Be Announced - DTLA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | SMD - Pablo Bozzi & Jorkes | Jorkes, Pablo Bozzi |
 | Fri, 30 Oct 2026 | V.sions Halloween: Onur Özer, Mayell, Mesmé, Pete Jonas, Rocky, Jackson Algeo | Mayell, Mesmé, Onur Özer |
 | Fri, 30 Oct 2026 | Halloween Blood Rave by Succubus Club |  |
 | Sat, 31 Oct 2026 | SET Halloween with Lost Miracle (Sébastien Léger & Roy Rosenfeld) & Satori LA | Roy Rosenfeld, Satori, Sebastien Leger |
@@ -19,4 +18,4 @@ TBA - Downtown LA is a music venue in Los Angeles listed on soundcheck. 6 upcomi
 
 To Be Announced - DTLA, Los Angeles
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-la/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-la/)*

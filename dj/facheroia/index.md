@@ -1,6 +1,6 @@
 # Facheroia
 
-Facheroia is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Jasna 1, Warsaw on Sat, 14 Nov 2026.
+Facheroia is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Jasna 1, Warsaw on Sat, 14 Nov 2026.
 
 Facheroia is a techno and electro artist, with 37 gigs on soundcheck across Berlin, Krakow and Warsaw. Often billed alongside Richie Beige, PAWEL (PL) and DiV4. Next up: Jasna 1, Warsaw on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Facheroia is a techno and electro artist, with 37 gigs on soundcheck across Berl
 
 Richie Beige, PAWEL (PL), DiV4
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/facheroia/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/facheroia/)*

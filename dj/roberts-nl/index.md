@@ -1,6 +1,6 @@
 # RobertS (NL)
 
-RobertS (NL) is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Akhnaton, Amsterdam on Wed, 21 Oct 2026.
+RobertS (NL) is a Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Akhnaton, Amsterdam on Wed, 21 Oct 2026.
 
 RobertS (NL) is a techno artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam, Berlin, Netherlands and Utrecht. Often billed alongside DJ Perroz, BALAI and Gaya Carmeli. Next up: Akhnaton, Amsterdam on Wed 21 Oct.
 
@@ -23,4 +23,4 @@ RobertS (NL) is a techno artist based in Netherlands, with 7 gigs on soundcheck 
 
 DJ Perroz, BALAI, Gaya Carmeli
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roberts-nl/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roberts-nl/)*

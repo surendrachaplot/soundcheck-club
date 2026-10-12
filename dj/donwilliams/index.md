@@ -1,14 +1,13 @@
 # Don Williams
 
-Don Williams is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
+Don Williams is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 24 Oct 2026.
 
-Don Williams is a techno and house artist based in Germany, with 31 gigs on soundcheck across Berlin, Cologne, Leipzig and Madrid and 6 more. Often billed alongside Steffi, Virginia and XDB. Next up: Bassiani, Tbilisi on Fri 9 Oct.
+Don Williams is a techno and house artist based in Germany, with 31 gigs on soundcheck across Berlin, Cologne, Leipzig and Madrid and 6 more. Often billed alongside Steffi, Virginia and XDB. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 | Sat, 24 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Don Williams is a techno and house artist based in Germany, with 31 gigs on soun
 
 Steffi, Virginia, XDB
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donwilliams/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donwilliams/)*

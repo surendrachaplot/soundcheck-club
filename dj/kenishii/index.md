@@ -1,6 +1,6 @@
 # Ken Ishii
 
-Ken Ishii is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Signal, New York City on Fri, 23 Oct 2026.
+Ken Ishii is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Signal, New York City on Fri, 23 Oct 2026.
 
 Ken Ishii is a techno and house artist based in Japan, with 115 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Budapest and 15 more. Often billed alongside Drunken Kong, Ririko and Risa Taniguchi. Next up: Signal, New York City on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Ken Ishii is a techno and house artist based in Japan, with 115 gigs on soundche
 
 Drunken Kong, Ririko, Risa Taniguchi
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenishii/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenishii/)*

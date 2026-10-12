@@ -1,6 +1,6 @@
 # Stanton Warriors
 
-Stanton Warriors is a Breakbeat and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Cupra City Garage Manchester, Manchester on Sat, 17 Oct 2026.
+Stanton Warriors is a Breakbeat and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Cupra City Garage Manchester, Manchester on Sat, 17 Oct 2026.
 
 Stanton Warriors is a breakbeat and bass artist based in United Kingdom, with 39 gigs on soundcheck across Berlin, Birmingham, Brighton and Brisbane and 10 more. Often billed alongside Krafty Kuts, Grooverider and Plump DJs. Next up: Cupra City Garage Manchester, Manchester on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Stanton Warriors is a breakbeat and bass artist based in United Kingdom, with 39
 
 Krafty Kuts, Grooverider, Plump DJs
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stantonwarriors/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stantonwarriors/)*

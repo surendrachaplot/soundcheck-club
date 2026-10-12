@@ -1,6 +1,6 @@
 # Ned Bennett
 
-Ned Bennett is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Ned Bennett is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Ned Bennett is a techno and house artist based in Australia, with 69 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 13 more. Often billed alongside KSMBA, Bella Claxton and 6 SENSE. Next up: Bajes Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -31,4 +31,4 @@ Ned Bennett is a techno and house artist based in Australia, with 69 gigs on sou
 
 KSMBA, Bella Claxton, 6 SENSE
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nedbennett/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nedbennett/)*

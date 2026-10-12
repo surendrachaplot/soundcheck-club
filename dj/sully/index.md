@@ -1,6 +1,6 @@
 # Sully
 
-Sully is a Jungle and Drum & Bass artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at fabric, London on Fri, 23 Oct 2026.
+Sully is a Jungle and Drum & Bass artist with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at fabric, London on Fri, 23 Oct 2026.
 
 Sully is a jungle and drum & bass artist based in United Kingdom, with 148 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 42 more. Often billed alongside Tim Reaper, Dwarde and Coco Bryce. Next up: fabric, London on Fri 23 Oct.
 
@@ -31,4 +31,4 @@ Sully is a jungle and drum & bass artist based in United Kingdom, with 148 gigs 
 
 Tim Reaper, Dwarde, Coco Bryce
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sully/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sully/)*

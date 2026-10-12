@@ -1,6 +1,6 @@
 # Greenjack
 
-Greenjack is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Koepelkerk, Amsterdam on Sun, 25 Oct 2026.
+Greenjack is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Koepelkerk, Amsterdam on Sun, 25 Oct 2026.
 
 Greenjack is an electronic artist, with 6 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Prague. Often billed alongside Miss Monique, Carl Bee and GENESI. Next up: Koepelkerk, Amsterdam on Sun 25 Oct.
 
@@ -22,4 +22,4 @@ Greenjack is an electronic artist, with 6 gigs on soundcheck across Amsterdam, B
 
 Miss Monique, Carl Bee, GENESI
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/greenjack/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/greenjack/)*

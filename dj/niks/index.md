@@ -1,14 +1,13 @@
 # NIKS
 
-NIKS is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+NIKS is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at TRAUM, Antwerp on Sat, 17 Oct 2026.
 
-NIKS is a house and techno artist based in United Kingdom, with 161 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 36 more. Often billed alongside Amaliah, Josh Caffé and Moxie. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
+NIKS is a house and techno artist based in United Kingdom, with 161 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 36 more. Often billed alongside Amaliah, Josh Caffé and Moxie. Next up: TRAUM, Antwerp on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | TBA - Multiple Venues across Sheffield & Rotherham | North |
 | Sat, 17 Oct 2026 | TRAUM | Antwerp |
 | Sat, 31 Oct 2026 | OHM | Berlin |
 | Sat, 28 Nov 2026 | FOLD | London |
@@ -29,4 +28,4 @@ NIKS is a house and techno artist based in United Kingdom, with 161 gigs on soun
 
 Amaliah, Josh Caffé, Moxie
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niks/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niks/)*

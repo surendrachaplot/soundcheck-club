@@ -1,6 +1,6 @@
 # ATAMI
 
-ATAMI is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at R Lounge, Tokyo on Thu, 15 Oct 2026.
+ATAMI is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at R Lounge, Tokyo on Thu, 15 Oct 2026.
 
 ATAMI is a bass and techno artist based in Japan, with 103 gigs on soundcheck across Tokyo. Often billed alongside MOOTOE, VECSILLE and SAKO. Next up: R Lounge, Tokyo on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ ATAMI is a bass and techno artist based in Japan, with 103 gigs on soundcheck ac
 
 MOOTOE, VECSILLE, SAKO
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atami/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atami/)*

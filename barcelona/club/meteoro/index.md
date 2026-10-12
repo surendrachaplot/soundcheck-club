@@ -1,6 +1,6 @@
 # Meteoro
 
-Meteoro is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "GLAMER: gustavio topman, vorem, bonbonribbon69" on Fri, 16 Oct 2026.
+Meteoro is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "GLAMER: gustavio topman, vorem, bonbonribbon69" on Fri, 16 Oct 2026.
 
 Meteoro is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Passeig de Montjuïc, 72, 08004 Barcelona, España.
 
@@ -14,4 +14,4 @@ Meteoro is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. See 
 
 Passeig de Montjuïc, 72, 08004 Barcelona, España, Barcelona
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/meteoro/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/meteoro/)*

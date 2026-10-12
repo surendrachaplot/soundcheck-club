@@ -1,6 +1,6 @@
 # Somaphon
 
-Somaphon is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at KitKatClub, Berlin on Thu, 29 Oct 2026.
+Somaphon is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at KitKatClub, Berlin on Thu, 29 Oct 2026.
 
 Somaphon is a techno and tech house artist based in Germany, with 37 gigs on soundcheck across Berlin, London and Stuttgart. Often billed alongside Milk N Coffee, Rene Oldenburg and Click | Click. Next up: KitKatClub, Berlin on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Somaphon is a techno and tech house artist based in Germany, with 37 gigs on sou
 
 Milk N Coffee, Rene Oldenburg, Click | Click
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somaphon/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somaphon/)*

@@ -1,6 +1,6 @@
 # HSTN
 
-HSTN is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Red Arch, Manchester on Sat, 31 Oct 2026.
+HSTN is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Red Arch, Manchester on Sat, 31 Oct 2026.
 
 HSTN is a house and garage artist based in Australia, with 12 gigs on soundcheck across London and Manchester. Often billed alongside RYLO (UK), imad:re and FXCKBOUT. Next up: Red Arch, Manchester on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ HSTN is a house and garage artist based in Australia, with 12 gigs on soundcheck
 
 RYLO (UK), imad:re, FXCKBOUT
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hstn/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hstn/)*

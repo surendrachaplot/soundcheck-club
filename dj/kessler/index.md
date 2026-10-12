@@ -1,6 +1,6 @@
 # Kessler
 
-Kessler is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at OT301, Amsterdam on Fri, 23 Oct 2026.
+Kessler is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at OT301, Amsterdam on Fri, 23 Oct 2026.
 
 Kessler is a techno and breakbeat artist based in United Kingdom, with 87 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belfast and 23 more. Often billed alongside Koboro, Sally C and DJ BORING. Next up: OT301, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Kessler is a techno and breakbeat artist based in United Kingdom, with 87 gigs o
 
 Koboro, Sally C, DJ BORING
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kessler/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kessler/)*

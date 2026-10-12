@@ -1,6 +1,6 @@
 # 3Points
 
-3Points is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at 8sixa, Amsterdam on Fri, 23 Oct 2026.
+3Points is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at 8sixa, Amsterdam on Fri, 23 Oct 2026.
 
 3Points is a techno and breakbeat artist, with 4 gigs on soundcheck across Amsterdam. Often billed alongside Aka Hyoo, Brent Jacko and Cool Tiger. Next up: 8sixa, Amsterdam on Fri 23 Oct.
 
@@ -20,4 +20,4 @@
 
 Aka Hyoo, Brent Jacko, Cool Tiger
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3points/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3points/)*

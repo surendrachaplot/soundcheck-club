@@ -1,6 +1,6 @@
 # bubushko
 
-bubushko is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Dalston Den, London on Sat, 24 Oct 2026.
+bubushko is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Dalston Den, London on Sat, 24 Oct 2026.
 
 bubushko is a techno artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside AMAR (UK), Yazmin (UK) and DELARA. Next up: Dalston Den, London on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ bubushko is a techno artist based in United Kingdom, with 4 gigs on soundcheck a
 
 AMAR (UK), Yazmin (UK), DELARA
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bubushko/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bubushko/)*

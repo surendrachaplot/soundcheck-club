@@ -1,6 +1,6 @@
 # J Æ G Ü A R
 
-J Æ G Ü A R is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The Vault 313, Detroit on Sat, 24 Oct 2026.
+J Æ G Ü A R is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Vault 313, Detroit on Sat, 24 Oct 2026.
 
 J Æ G Ü A R is a techno artist based in United States of America, with 5 gigs on soundcheck across Detroit. Often billed alongside 88 MPH, Austin Buck and Instead of Seven. Next up: The Vault 313, Detroit on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ J Æ G Ü A R is a techno artist based in United States of America, with 5 gigs 
 
 88 MPH, Austin Buck, Instead of Seven
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jæguar/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jæguar/)*

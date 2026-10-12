@@ -1,6 +1,6 @@
 # Ääniwalli
 
-Ääniwalli is a music venue in Helsinki with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Club Fury: Cara Elizabeth, Johannes Schuster, Mika Heggemann" on Fri, 16 Oct 2026.
+Ääniwalli is a music venue in Helsinki with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Club Fury: Cara Elizabeth, Johannes Schuster, Mika Heggemann" on Fri, 16 Oct 2026.
 
 Ääniwalli is a music venue in Helsinki listed on soundcheck. 5 upcoming gigs, with line-ups including ALLFIVE, Cara Elizabeth, CEB (FI) and Conntex and 2 more. See dates, start times and who's playing. Pälkäneentie 13, 00510 Helsinki, Finland.
 
@@ -18,4 +18,4 @@
 
 Pälkäneentie 13, 00510 Helsinki, Finland, Helsinki
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/niwalli/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/niwalli/)*

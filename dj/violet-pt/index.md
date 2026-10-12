@@ -1,6 +1,6 @@
 # Violet (PT)
 
-Violet (PT) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 17 Oct 2026.
+Violet (PT) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 17 Oct 2026.
 
 Violet (PT) is a house and techno artist based in Portugal, with 83 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Edinburgh and 8 more. Often billed alongside BLEID, marum and Phoebe. Next up: Lux Fragil, Lisbon on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Violet (PT) is a house and techno artist based in Portugal, with 83 gigs on soun
 
 BLEID, marum, Phoebe (1)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/violet-pt/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/violet-pt/)*

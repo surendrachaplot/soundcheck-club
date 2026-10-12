@@ -1,6 +1,6 @@
 # Demuja
 
-Demuja is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at KHIDI, Tbilisi on Fri, 16 Oct 2026.
+Demuja is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at KHIDI, Tbilisi on Fri, 16 Oct 2026.
 
 Demuja is a house and disco artist based in Austria, with 107 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 37 more. Often billed alongside Black Loops, Cinthie and EG. Next up: KHIDI, Tbilisi on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Demuja is a house and disco artist based in Austria, with 107 gigs on soundcheck
 
 Black Loops, Cinthie, EG (1)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demuja/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demuja/)*

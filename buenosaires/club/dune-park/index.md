@@ -1,17 +1,19 @@
 # Dune Park
 
-Dune Park is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "SYNTESIS 2º ANIVERSARIO: Zisko, Bondarük & SMT, Teateo" on Sun, 11 Oct 2026.
+Dune Park is a music venue in Buenos Aires with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "mita x Dune Park" on Fri, 23 Oct 2026.
 
-Dune Park is a music venue in Buenos Aires listed on soundcheck. 1 upcoming gig, with line-ups including Bondarük, SMT, Teateo and Zisko. See dates, start times and who's playing. Araoz 740, Ciudad Autónoma de Buenos Aires, C1414, Argentina.
+Dune Park is a music venue in Buenos Aires listed on soundcheck. 3 upcoming gigs, with line-ups including Manu Barcelo, Melania Wonder, Nebula Estudio and panko and 1 more. See dates, start times and who's playing. Araoz 740, Ciudad Autónoma de Buenos Aires, C1414, Argentina.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | SYNTESIS 2º ANIVERSARIO: Zisko, Bondarük & SMT, Teateo | Bondarük, SMT (2), Teateo, Zisko |
+| Fri, 23 Oct 2026 | mita x Dune Park | Manu Barcelo, Melania Wonder, Nebula Estudio, Pedro Gariani, panko |
+| Fri, 23 Oct 2026 | mita x Dune Park | Manu Barcelo, Melania Wonder, Nebula Estudio, Pedro Gariani, panko |
+| Sat, 7 Nov 2026 | BY.WOMANS en DUNEPARK CLUB |  |
 
 ## Address
 
 Araoz 740, Ciudad Autónoma de Buenos Aires, C1414, Argentina, Buenos Aires
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/dune-park/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/dune-park/)*

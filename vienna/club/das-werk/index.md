@@ -1,6 +1,6 @@
 # Das Werk
 
-Das Werk is a music venue in Vienna with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "FIFI RAVE" on Wed, 14 Oct 2026.
+Das Werk is a music venue in Vienna with 13 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "FIFI RAVE" on Wed, 14 Oct 2026.
 
 Das Werk is a music venue in Vienna listed on soundcheck. 13 upcoming gigs, with line-ups including Albin Brezlan, Aleta, Alex TB and Dana Melissa and 2 more. See dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
 
@@ -23,4 +23,4 @@ Das Werk is a music venue in Vienna listed on soundcheck. 13 upcoming gigs, with
 
 Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria, Vienna
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*

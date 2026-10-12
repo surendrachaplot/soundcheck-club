@@ -1,6 +1,6 @@
 # raen
 
-raen is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Bayside Lounge, Vancouver on Tue, 13 Oct 2026.
+raen is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Bayside Lounge, Vancouver on Tue, 13 Oct 2026.
 
 raen is a progressive house and house artist, with 12 gigs on soundcheck across Vancouver. Often billed alongside Binks (CA) and Carlos Luna. Next up: Bayside Lounge, Vancouver on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ raen is a progressive house and house artist, with 12 gigs on soundcheck across 
 
 Binks (CA), Carlos Luna
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raen/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raen/)*

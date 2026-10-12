@@ -1,6 +1,6 @@
 # Kosta Kritikos
 
-Kosta Kritikos is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 24 Oct 2026.
+Kosta Kritikos is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 24 Oct 2026.
 
 Kosta Kritikos is a techno and afro house artist based in Greece, with 5 gigs on soundcheck across Berlin, Cyprus and Leipzig. Often billed alongside Markus Klee, Spartaque and AWEN. Next up: Ritter Butzke, Berlin on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ Kosta Kritikos is a techno and afro house artist based in Greece, with 5 gigs on
 
 Markus Klee, Spartaque, AWEN
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kostakritikos/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kostakritikos/)*

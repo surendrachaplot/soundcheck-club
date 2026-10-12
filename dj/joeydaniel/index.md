@@ -1,14 +1,15 @@
 # Joey Daniel
 
-Joey Daniel is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Oliva, Amsterdam on Fri, 23 Oct 2026.
+Joey Daniel is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Oliva, Amsterdam on Fri, 23 Oct 2026.
 
-Joey Daniel is a tech house and house artist based in Netherlands, with 132 gigs on soundcheck across Amsterdam, Barcelona, Budapest and Buenos Aires and 17 more. Often billed alongside Marco Carola, Franky Rizardo and Ale De Tuglie. Next up: Oliva, Amsterdam on Fri 23 Oct.
+Joey Daniel is a tech house and house artist based in Netherlands, with 133 gigs on soundcheck across Amsterdam, Barcelona, Budapest and Buenos Aires and 17 more. Often billed alongside Marco Carola, Franky Rizardo and Ale De Tuglie. Next up: Oliva, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Oliva | Amsterdam |
+| Sun, 25 Oct 2026 | Yellow House | Amsterdam |
 | Sat, 31 Oct 2026 | Fabrik | Madrid |
 | Sat, 28 Nov 2026 | E1 | London |
 
@@ -27,4 +28,4 @@ Joey Daniel is a tech house and house artist based in Netherlands, with 132 gigs
 
 Marco Carola, Franky Rizardo, Ale De Tuglie
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeydaniel/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeydaniel/)*

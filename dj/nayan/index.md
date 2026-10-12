@@ -1,14 +1,13 @@
 # NAYAN
 
-NAYAN is a Bass and Dub artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Danzhaus/The Gingerbread House, San Francisco/Oakland on Sat, 10 Oct 2026.
+NAYAN is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 23 Oct 2026.
 
-NAYAN is a bass and dub artist based in United States of America, with 10 gigs on soundcheck across San Francisco/Oakland. Often billed alongside PJ Sleeps, SOBA and 40split. Next up: Danzhaus/The Gingerbread House, San Francisco/Oakland on Sat 10 Oct.
+NAYAN is a bass and dub artist based in United States of America, with 10 gigs on soundcheck across San Francisco/Oakland. Often billed alongside PJ Sleeps, SOBA and 40split. Next up: The Great Northern, San Francisco/Oakland on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Danzhaus/The Gingerbread House | San Francisco/Oakland |
 | Fri, 23 Oct 2026 | The Great Northern | San Francisco/Oakland |
 
 ## Recently played
@@ -26,4 +25,4 @@ NAYAN is a bass and dub artist based in United States of America, with 10 gigs o
 
 PJ Sleeps, SOBA, 40split
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nayan/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nayan/)*

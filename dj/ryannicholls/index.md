@@ -1,6 +1,6 @@
 # Ryan Nicholls
 
-Ryan Nicholls is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Lucky Strike, Glasgow on Sat, 17 Oct 2026.
+Ryan Nicholls is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Lucky Strike, Glasgow on Sat, 17 Oct 2026.
 
 Ryan Nicholls is a house and tech house artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Glasgow and 8 more. Often billed alongside Fleur Shore, Josh Gregg and Ryan Resso. Next up: Lucky Strike, Glasgow on Sat 17 Oct.
 
@@ -30,4 +30,4 @@ Ryan Nicholls is a house and tech house artist based in United Kingdom, with 33 
 
 Fleur Shore, Josh Gregg, Ryan Resso
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryannicholls/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryannicholls/)*

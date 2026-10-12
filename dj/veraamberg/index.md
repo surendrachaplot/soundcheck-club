@@ -1,6 +1,6 @@
 # Vera Amberg
 
-Vera Amberg is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Galvanik Zug, Switzerland on Sat, 24 Oct 2026.
+Vera Amberg is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Galvanik Zug, Switzerland on Sat, 24 Oct 2026.
 
 Vera Amberg is an electronic artist, with 7 gigs on soundcheck across Switzerland and Zurich. Often billed alongside MARCISM, Yarbit and ADO (DE). Next up: Galvanik Zug, Switzerland on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Vera Amberg is an electronic artist, with 7 gigs on soundcheck across Switzerlan
 
 MARCISM, Yarbit, ADO (DE)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/veraamberg/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/veraamberg/)*

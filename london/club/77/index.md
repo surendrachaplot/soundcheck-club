@@ -1,6 +1,6 @@
 # 77
 
-77 is a music venue in London with 17 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "FullHouse Monday Launch Party: Special Guest" on Mon, 12 Oct 2026.
+77 is a music venue in London with 17 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "FullHouse Monday Launch Party: Special Guest" on Mon, 12 Oct 2026.
 
 77 is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Akhil (UK), Alan Dixon, AliTR and Cinar and 2 more. See dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
@@ -23,4 +23,4 @@
 
 77 Welbeck Street, W1G 0BB, London
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*

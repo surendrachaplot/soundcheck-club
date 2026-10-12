@@ -1,6 +1,6 @@
 # Ivan Smagghe
 
-Ivan Smagghe is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Rex Club, Paris on Fri, 16 Oct 2026.
+Ivan Smagghe is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Rex Club, Paris on Fri, 16 Oct 2026.
 
 Ivan Smagghe is a techno and house artist based in France, with 195 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 50 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: Rex Club, Paris on Fri 16 Oct.
 
@@ -35,4 +35,4 @@ Ivan Smagghe is a techno and house artist based in France, with 195 gigs on soun
 
 Manfredas, Craig Richards, Chez de Milo
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivansmagghe/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivansmagghe/)*

@@ -1,6 +1,6 @@
 # SWARMM
 
-SWARMM is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at FOLD, London on Thu, 12 Nov 2026.
+SWARMM is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at FOLD, London on Thu, 12 Nov 2026.
 
 SWARMM is an experimental and techno artist based in United Kingdom, with 28 gigs on soundcheck across Brussels, Lisbon, London and Tokyo. Often billed alongside Karolina Magnusson Murray, Ship Sket and Akiko Haruna. Next up: FOLD, London on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ SWARMM is an experimental and techno artist based in United Kingdom, with 28 gig
 
 Karolina Magnusson Murray, Ship Sket, Akiko Haruna
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swarmm/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swarmm/)*

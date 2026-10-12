@@ -1,6 +1,6 @@
 # Nya Nyx
 
-Nya Nyx is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at FLUCC, Vienna on Fri, 20 Nov 2026.
+Nya Nyx is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at FLUCC, Vienna on Fri, 20 Nov 2026.
 
 Nya Nyx is a techno and deep house artist based in Austria, with 25 gigs on soundcheck across Berlin, Budapest, London and Vienna. Often billed alongside Kollektiv Sheesh, Nugi and David Phoenix. Next up: FLUCC, Vienna on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Nya Nyx is a techno and deep house artist based in Austria, with 25 gigs on soun
 
 Kollektiv Sheesh, Nugi, David Phoenix
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyanyx/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyanyx/)*

@@ -1,6 +1,6 @@
 # Spybar
 
-Spybar is a music venue in Chicago with 12 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Minimal Madness feat. Late London" on Thu, 15 Oct 2026.
+Spybar is a music venue in Chicago with 12 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Minimal Madness feat. Late London" on Thu, 15 Oct 2026.
 
 Spybar is a music venue in Chicago listed on soundcheck. 12 upcoming gigs, with line-ups including Effy, Franc Fala, Joss Dean and Kevin Saunderson and 2 more. See dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
 
@@ -23,4 +23,4 @@ Spybar is a music venue in Chicago listed on soundcheck. 12 upcoming gigs, with 
 
 646 N Franklin St; Chicago, IL 60654; United States, Chicago
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*

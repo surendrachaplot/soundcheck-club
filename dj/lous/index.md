@@ -1,6 +1,6 @@
 # LØUS
 
-LØUS is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Virage, Paris on Fri, 16 Oct 2026.
+LØUS is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Virage, Paris on Fri, 16 Oct 2026.
 
 LØUS is a hardcore and techno artist based in Germany, with 70 gigs on soundcheck across Antwerp, Barcelona, Berlin and Budapest and 11 more. Often billed alongside FLUCC, Der Schaffner and Olmatri. Next up: Virage, Paris on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ LØUS is a hardcore and techno artist based in Germany, with 70 gigs on soundche
 
 FLUCC, Der Schaffner, Olmatri
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lous/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lous/)*

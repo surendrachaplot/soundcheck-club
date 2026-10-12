@@ -1,6 +1,6 @@
 # EIJI
 
-EIJI is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
+EIJI is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
 
 EIJI is a drum & bass and jungle artist based in Japan, with 9 gigs on soundcheck across Melbourne, Tokyo and Victoria. Often billed alongside vinylDJ Eiji Takehana, Kenta Tominaga and Hironobu Jyounai. Next up: Collingwood Children's Farm, Melbourne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ EIJI is a drum & bass and jungle artist based in Japan, with 9 gigs on soundchec
 
 vinylDJ Eiji Takehana, Kenta Tominaga, Hironobu Jyounai
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eiji/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eiji/)*

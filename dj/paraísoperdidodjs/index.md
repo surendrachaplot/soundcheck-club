@@ -1,6 +1,6 @@
 # Paraíso Perdido Djs
 
-Paraíso Perdido Djs is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Edifício Martinelli, Sao Paulo on Mon, 12 Oct 2026.
+Paraíso Perdido Djs is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Edifício Martinelli, Sao Paulo on Mon, 12 Oct 2026.
 
 Paraíso Perdido Djs is a house and disco artist based in Brazil, with 36 gigs on soundcheck across Sao Paulo. Often billed alongside Paulete Lindacelva, Alma Negrot and AmadoPeace. Next up: Edifício Martinelli, Sao Paulo on Mon 12 Oct.
 
@@ -25,4 +25,4 @@ Paraíso Perdido Djs is a house and disco artist based in Brazil, with 36 gigs o
 
 Paulete Lindacelva, Alma Negrot, AmadoPeace
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paraísoperdidodjs/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paraísoperdidodjs/)*

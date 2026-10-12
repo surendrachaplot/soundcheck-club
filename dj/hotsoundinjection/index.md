@@ -1,6 +1,6 @@
 # Hot Sound Injection
 
-Hot Sound Injection is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Old Towne Pub, Los Angeles on Sun, 18 Oct 2026.
+Hot Sound Injection is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Old Towne Pub, Los Angeles on Sun, 18 Oct 2026.
 
 Hot Sound Injection is an experimental and techno artist, with 5 gigs on soundcheck across Los Angeles. Often billed alongside Humongous Frog, BbartokK and Insical. Next up: Old Towne Pub, Los Angeles on Sun 18 Oct.
 
@@ -21,4 +21,4 @@ Hot Sound Injection is an experimental and techno artist, with 5 gigs on soundch
 
 Humongous Frog, BbartokK, Insical
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotsoundinjection/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotsoundinjection/)*

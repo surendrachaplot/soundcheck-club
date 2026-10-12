@@ -1,6 +1,6 @@
 # Clicklounge
 
-Clicklounge is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 30 Oct 2026.
+Clicklounge is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 30 Oct 2026.
 
 Clicklounge is a house and techno artist, with 14 gigs on soundcheck across Berlin, Budapest, Lisbon and London and 6 more. Often billed alongside Tadas Quazar, FFAN and Richii. Next up: Gallery 1986, Vilnius on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Clicklounge is a house and techno artist, with 14 gigs on soundcheck across Berl
 
 Tadas Quazar, FFAN, Richii
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clicklounge/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clicklounge/)*

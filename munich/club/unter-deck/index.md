@@ -1,6 +1,6 @@
 # Unter Deck
 
-Unter Deck is a music venue in Munich with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "3 Jahre Electroamore Residency im Unter Deck" on Wed, 21 Oct 2026.
+Unter Deck is a music venue in Munich with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "3 Jahre Electroamore Residency im Unter Deck" on Wed, 21 Oct 2026.
 
 Unter Deck is a music venue in Munich listed on soundcheck. 4 upcoming gigs, with line-ups including Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND, Fej:tal and RONNY and 1 more. See dates, start times and who's playing. Oberanger 26, 80331 München.
 
@@ -17,4 +17,4 @@ Unter Deck is a music venue in Munich listed on soundcheck. 4 upcoming gigs, wit
 
 Oberanger 26, 80331 München, Munich
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*

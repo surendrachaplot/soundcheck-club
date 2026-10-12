@@ -1,6 +1,6 @@
 # Wojownik
 
-Wojownik is a Hardcore and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Altenburg 1964, Prague on Sat, 24 Oct 2026.
+Wojownik is a Hardcore and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Altenburg 1964, Prague on Sat, 24 Oct 2026.
 
 Wojownik is a hardcore and experimental artist based in Czech Republic, with 5 gigs on soundcheck across Prague and Stockholm. Often billed alongside BoLs/sLoB, MINNU and Vividx. Next up: Altenburg 1964, Prague on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ Wojownik is a hardcore and experimental artist based in Czech Republic, with 5 g
 
 BoLs/sLoB, MINNU, Vividx
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wojownik/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wojownik/)*

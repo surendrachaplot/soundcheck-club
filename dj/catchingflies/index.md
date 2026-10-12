@@ -1,14 +1,13 @@
 # Catching Flies
 
-Catching Flies is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at UNO MALTA, Malta on Thu, 8 Oct 2026.
+Catching Flies is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Tumbalong Park, Sydney on Sat, 28 Nov 2026.
 
-Catching Flies is a house and electronica artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 14 more. Often billed alongside Jody Wisternoff, Dosem and Eli & Fur. Next up: UNO MALTA, Malta on Thu 8 Oct.
+Catching Flies is a house and electronica artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 14 more. Often billed alongside Jody Wisternoff, Dosem and Eli & Fur. Next up: Tumbalong Park, Sydney on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | UNO MALTA | Malta |
 | Sat, 28 Nov 2026 | Tumbalong Park | Sydney |
 | Sat, 5 Dec 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 
@@ -27,4 +26,4 @@ Catching Flies is a house and electronica artist based in United Kingdom, with 3
 
 Jody Wisternoff, Dosem, Eli & Fur
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catchingflies/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catchingflies/)*

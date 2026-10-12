@@ -1,6 +1,6 @@
 # The Woodford Bar and Grill
 
-The Woodford Bar and Grill is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "What time is it" on Fri, 27 Nov 2026.
+The Woodford Bar and Grill is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "What time is it" on Fri, 27 Nov 2026.
 
 The Woodford Bar and Grill is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Woodford Bar and Grill is a music venue in London listed on soundcheck. 1 up
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | What time is it |  |
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-woodford-bar-and-grill/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-woodford-bar-and-grill/)*

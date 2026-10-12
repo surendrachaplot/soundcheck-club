@@ -1,20 +1,20 @@
 # Teecra
 
-Teecra is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at radial, London on Sun, 11 Oct 2026.
+Teecra is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at radial, London on Fri, 13 Nov 2026.
 
-Teecra is a techno and house artist based in United Kingdom, with 56 gigs on soundcheck across Berlin, Brussels, Copenhagen and London and 1 more. Often billed alongside Riva, TEDESCO and Jaye Ward. Next up: radial, London on Sun 11 Oct.
+Teecra is a techno and house artist based in United Kingdom, with 56 gigs on soundcheck across Berlin, Brussels, Copenhagen and London and 1 more. Often billed alongside Riva, TEDESCO and Jaye Ward. Next up: radial, London on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | radial | London |
 | Fri, 13 Nov 2026 | radial | London |
 | Sat, 28 Nov 2026 | FOLD | London |
 | Sat, 19 Dec 2026 | FOLD | London |
 
 ## Recently played
 
+- radial, London · Sun, 11 Oct 2026
 - KREUZWERK, Berlin · Sat, 19 Sept 2026
 - Vittoria Wharf Studio, London · Sat, 15 Aug 2026
 - Valley, Berlin · Sat, 4 Jul 2026
@@ -22,10 +22,9 @@ Teecra is a techno and house artist based in United Kingdom, with 56 gigs on sou
 - Electrowerkz, London · Sat, 16 May 2026
 - EartH, London · Fri, 8 May 2026
 - Hackney Wick Multiple Venues, London · Sat, 2 May 2026
-- Dalston Superstore, London · Sat, 18 Apr 2026
 
 ## Shares bills with
 
 Riva, TEDESCO, Jaye Ward
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teecra/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teecra/)*

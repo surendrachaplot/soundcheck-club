@@ -1,6 +1,6 @@
 # MOLTØNY
 
-MOLTØNY is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at H0L0, New York City on Thu, 22 Oct 2026.
+MOLTØNY is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at H0L0, New York City on Thu, 22 Oct 2026.
 
 MOLTØNY is a techno artist based in United States of America, with 5 gigs on soundcheck across New York City. Often billed alongside SYTHRA, BMG and Devoye. Next up: H0L0, New York City on Thu 22 Oct.
 
@@ -21,4 +21,4 @@ MOLTØNY is a techno artist based in United States of America, with 5 gigs on so
 
 SYTHRA, BMG, Devoye
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moltony/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moltony/)*

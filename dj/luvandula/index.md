@@ -1,6 +1,6 @@
 # luvandula
 
-luvandula is a Downtempo and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Unit 58 Millmead Industrial Estate, Mill Mead Rd, London N17, London on Fri, 6 Nov 2026.
+luvandula is a Downtempo and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Unit 58 Millmead Industrial Estate, Mill Mead Rd, London N17, London on Fri, 6 Nov 2026.
 
 luvandula is a downtempo and ambient artist based in United Kingdom, with 12 gigs on soundcheck across Berlin, Bristol, Leeds and London. Often billed alongside teleopath, Aquamarine and Avsluta. Next up: TBA - Unit 58 Millmead Industrial Estate, Mill Mead Rd, London N17, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ luvandula is a downtempo and ambient artist based in United Kingdom, with 12 gig
 
 teleopath, Aquamarine, Avsluta
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luvandula/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luvandula/)*

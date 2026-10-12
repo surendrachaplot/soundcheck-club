@@ -1,14 +1,13 @@
 # Compufunk Records
 
-Compufunk Records is a music venue in Osaka with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "KEMURI 4th Anniversary" on Sun, 11 Oct 2026.
+Compufunk Records is a music venue in Osaka with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Rhythmwerx × Compufunk presents Biz(Transmat/SUBJEKT) & Papers(Fever AM,Brothers/Sisters)" on Fri, 16 Oct 2026.
 
-Compufunk Records is a music venue in Osaka listed on soundcheck. 7 upcoming gigs, with line-ups including Biz (AU), ddwy, DJ Compufunk and Marlon Clark and 2 more. See dates, start times and who's playing. 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan.
+Compufunk Records is a music venue in Osaka listed on soundcheck. 6 upcoming gigs, with line-ups including Biz (AU), ddwy, DJ Compufunk and Marlon Clark and 2 more. See dates, start times and who's playing. 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | KEMURI 4th Anniversary |  |
 | Fri, 16 Oct 2026 | Rhythmwerx × Compufunk presents Biz(Transmat/SUBJEKT) & Papers(Fever AM,Brothers/Sisters) | Biz (AU), DJ Compufunk, Papers, Will A |
 | Sat, 17 Oct 2026 | ddwy (Public Possession) | TETSUO (2), ddwy |
 | Sat, 17 Oct 2026 | Music, Food & Fireworks  |  |
@@ -20,4 +19,4 @@ Compufunk Records is a music venue in Osaka listed on soundcheck. 7 upcoming gig
 
 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan, Osaka
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/compufunk-records/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/compufunk-records/)*

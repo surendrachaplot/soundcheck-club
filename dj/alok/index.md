@@ -1,6 +1,6 @@
 # Alok
 
-Alok is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Alok is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Alok is a house and electronica artist based in Brazil, with 40 gigs on soundcheck across Bali, Barcelona, Boston and Budapest and 18 more. Often billed alongside Dimitri Vegas & Like Mike, Steve Aoki and Korolova. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Alok is a house and electronica artist based in Brazil, with 40 gigs on soundche
 
 Dimitri Vegas & Like Mike, Steve Aoki, Korolova
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alok/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alok/)*

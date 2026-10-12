@@ -1,6 +1,6 @@
 # Mike.Gov
 
-Mike.Gov is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - NAMELESS, Philadelphia on Sat, 24 Oct 2026.
+Mike.Gov is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - NAMELESS, Philadelphia on Sat, 24 Oct 2026.
 
 Mike.Gov is a bass and dubstep artist based in United States of America, with 14 gigs on soundcheck across New York State, New York City and Philadelphia. Often billed alongside Feral Sound, Melodelic and Ellis Delta. Next up: TBA - NAMELESS, Philadelphia on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Mike.Gov is a bass and dubstep artist based in United States of America, with 14
 
 Feral Sound, Melodelic, Ellis Delta
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mike.gov/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mike.gov/)*

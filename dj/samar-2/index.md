@@ -1,6 +1,6 @@
 # Samar (2)
 
-Samar (2) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Motorista Studio, Toronto on Sat, 31 Oct 2026.
+Samar (2) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Motorista Studio, Toronto on Sat, 31 Oct 2026.
 
 Samar is a bass and techno artist, with 12 gigs on soundcheck across Brussels, Milan, Paris and Strasbourg and 1 more. Often billed alongside CHUBBZ, D3MOR and B E N N. Next up: Motorista Studio, Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Samar is a bass and techno artist, with 12 gigs on soundcheck across Brussels, M
 
 CHUBBZ, D3MOR, B E N N
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samar-2/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samar-2/)*

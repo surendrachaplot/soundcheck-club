@@ -1,6 +1,6 @@
 # Fakear
 
-Fakear is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Benelux BAR, Amsterdam on Wed, 21 Oct 2026.
+Fakear is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Benelux BAR, Amsterdam on Wed, 21 Oct 2026.
 
 Fakear is a downtempo and techno artist based in France, with 33 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 12 more. Often billed alongside Audem, oOgo and Aida Arko. Next up: Benelux BAR, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Fakear is a downtempo and techno artist based in France, with 33 gigs on soundch
 
 Audem, oOgo, Aida Arko
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fakear/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fakear/)*

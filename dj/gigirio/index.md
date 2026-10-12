@@ -1,6 +1,6 @@
 # Gigi Rio
 
-Gigi Rio is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Bossa Nova Civic Club, New York City on Thu, 15 Oct 2026.
+Gigi Rio is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Bossa Nova Civic Club, New York City on Thu, 15 Oct 2026.
 
 Gigi Rio is a garage and house artist based in United States of America, with 44 gigs on soundcheck across New York City. Often billed alongside J.N.R., 4AM NYC and Janus Rose. Next up: Bossa Nova Civic Club, New York City on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Gigi Rio is a garage and house artist based in United States of America, with 44
 
 J.N.R., 4AM NYC, Janus Rose
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigirio/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigirio/)*

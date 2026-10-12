@@ -1,6 +1,6 @@
 # Piezo
 
-Piezo is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 30 Oct 2026.
+Piezo is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 30 Oct 2026.
 
 Piezo is a techno and bass artist based in Italy, with 115 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 44 more. Often billed alongside upsammy, CCL and mad miran. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Piezo is a techno and bass artist based in Italy, with 115 gigs on soundcheck ac
 
 upsammy, CCL, mad miran
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piezo/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piezo/)*

@@ -1,14 +1,14 @@
 # me, myself &i
 
-me, myself &i is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA, Toronto on Fri, 30 Oct 2026.
+me, myself &i is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Rhythm, Toronto on Fri, 30 Oct 2026.
 
-me, myself &i are a house and minimal duo based in Canada, with 21 gigs on soundcheck across Toronto. Often billed alongside House of Lords, Steve Marto and Will Scheffel. Next up: TBA, Toronto on Fri 30 Oct.
+me, myself &i are a house and minimal duo based in Canada, with 21 gigs on soundcheck across Toronto. Often billed alongside House of Lords, Steve Marto and Will Scheffel. Next up: Rhythm, Toronto on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | TBA | Toronto |
+| Fri, 30 Oct 2026 | Rhythm | Toronto |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ me, myself &i are a house and minimal duo based in Canada, with 21 gigs on sound
 
 House of Lords, Steve Marto, Will Scheffel
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memyselfi/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memyselfi/)*

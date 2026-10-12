@@ -1,6 +1,6 @@
 # Rich NXT
 
-Rich NXT is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The Cause, London on Sun, 1 Nov 2026.
+Rich NXT is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Cause, London on Sun, 1 Nov 2026.
 
 Rich NXT is a house and tech house artist based in United Kingdom, with 109 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 29 more. Often billed alongside Enzo Siragusa, Rossi and Laidlaw. Next up: The Cause, London on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Rich NXT is a house and tech house artist based in United Kingdom, with 109 gigs
 
 Enzo Siragusa, Rossi, Laidlaw
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richnxt/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richnxt/)*

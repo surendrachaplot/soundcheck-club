@@ -1,6 +1,6 @@
 # GOME
 
-GOME is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Sacré, Paris on Fri, 16 Oct 2026.
+GOME is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Sacré, Paris on Fri, 16 Oct 2026.
 
 GOME is a house and disco artist based in Germany, with 87 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 14 more. Often billed alongside LOVEFOXY, Cinthie and Jean Mauj. Next up: Sacré, Paris on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ GOME is a house and disco artist based in Germany, with 87 gigs on soundcheck ac
 
 LOVEFOXY, Cinthie, Jean Mauj
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gome/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gome/)*

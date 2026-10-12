@@ -1,6 +1,6 @@
 # BROTHER TIM
 
-BROTHER TIM is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Kaskada, Warsaw on Sat, 24 Oct 2026.
+BROTHER TIM is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Kaskada, Warsaw on Sat, 24 Oct 2026.
 
 BROTHER TIM is a bass and dubstep artist based in Poland, with 5 gigs on soundcheck across Warsaw. Often billed alongside Andy Soul, HOLLY MOLLY (BY) and KUMITE. Next up: Kaskada, Warsaw on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ BROTHER TIM is a bass and dubstep artist based in Poland, with 5 gigs on soundch
 
 Andy Soul, HOLLY MOLLY (BY), KUMITE
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brothertim/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brothertim/)*

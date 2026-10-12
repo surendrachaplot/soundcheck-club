@@ -1,6 +1,6 @@
 # Anjawah
 
-Anjawah is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at OXI, Berlin on Sat, 21 Nov 2026.
+Anjawah is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at OXI, Berlin on Sat, 21 Nov 2026.
 
 Anjawah is a house and techno artist based in United States of America, with 29 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Amy Dabbs, Craig White and NeZoomie. Next up: OXI, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Anjawah is a house and techno artist based in United States of America, with 29 
 
 Amy Dabbs, Craig White, NeZoomie
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anjawah/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anjawah/)*

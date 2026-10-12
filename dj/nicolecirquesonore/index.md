@@ -1,6 +1,6 @@
 # Nico (Le Cirque Sonore)
 
-Nico (Le Cirque Sonore) is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at WOMB, Tokyo on Fri, 16 Oct 2026.
+Nico (Le Cirque Sonore) is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at WOMB, Tokyo on Fri, 16 Oct 2026.
 
 Nico (Le Cirque Sonore) is a techno and disco artist, with 5 gigs on soundcheck across Amsterdam and Tokyo. Often billed alongside Dan Dusty, nik-ey and DJ SO. Next up: WOMB, Tokyo on Fri 16 Oct.
 
@@ -21,4 +21,4 @@ Nico (Le Cirque Sonore) is a techno and disco artist, with 5 gigs on soundcheck 
 
 Dan Dusty, nik-ey, DJ SO
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolecirquesonore/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolecirquesonore/)*

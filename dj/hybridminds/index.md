@@ -1,6 +1,6 @@
 # Hybrid Minds
 
-Hybrid Minds is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Depot, Cardiff on Fri, 16 Oct 2026.
+Hybrid Minds is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Depot, Cardiff on Fri, 16 Oct 2026.
 
 Hybrid Minds is a drum & bass and bass artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Auckland, Austin and Birmingham and 36 more. Often billed alongside Tempza, K Motionz and Andy C. Next up: Depot, Cardiff on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Hybrid Minds is a drum & bass and bass artist based in United Kingdom, with 120 
 
 Tempza, K Motionz, Andy C
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hybridminds/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hybridminds/)*

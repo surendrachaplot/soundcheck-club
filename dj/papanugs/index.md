@@ -1,6 +1,6 @@
 # Papa Nugs
 
-Papa Nugs is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Meraki, Liverpool on Fri, 16 Oct 2026.
+Papa Nugs is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Meraki, Liverpool on Fri, 16 Oct 2026.
 
 Papa Nugs is a house and techno artist based in United Kingdom, with 168 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 24 more. Often billed alongside A For Alpha, KT and DJ ADHD. Next up: Meraki, Liverpool on Fri 16 Oct.
 
@@ -33,4 +33,4 @@ Papa Nugs is a house and techno artist based in United Kingdom, with 168 gigs on
 
 A For Alpha, KT, DJ ADHD
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/papanugs/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/papanugs/)*

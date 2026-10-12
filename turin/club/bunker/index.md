@@ -1,6 +1,6 @@
 # Bunker
 
-Bunker is a music venue in Turin with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "SIAH x Abandoned Factory w/ Danny Wabbit, NYCTO, BLACK CROW, Distorted Planet" on Sat, 17 Oct 2026.
+Bunker is a music venue in Turin with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "SIAH x Abandoned Factory w/ Danny Wabbit, NYCTO, BLACK CROW, Distorted Planet" on Sat, 17 Oct 2026.
 
 Bunker is a music venue in Turin listed on soundcheck. 4 upcoming gigs, with line-ups including ANNĒ, BLACK CROW, Daniele Baldelli and Danny Wabbit and 2 more. See dates, start times and who's playing. Via Niccolò Paganini, 0/200, 10154 Torino TO, Italy.
 
@@ -17,4 +17,4 @@ Bunker is a music venue in Turin listed on soundcheck. 4 upcoming gigs, with lin
 
 Via Niccolò Paganini, 0/200, 10154 Torino TO, Italy, Turin
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/bunker/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/bunker/)*

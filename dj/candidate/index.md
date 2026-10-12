@@ -1,6 +1,6 @@
 # Candidate
 
-Candidate is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Basement Amsterdam, Amsterdam on Wed, 21 Oct 2026.
+Candidate is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Basement Amsterdam, Amsterdam on Wed, 21 Oct 2026.
 
 Candidate is a house and tech house artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Glasgow, Ibiza and Leeds and 7 more. Often billed alongside Max Dean, Chopper (UK) and DXNBY. Next up: Basement Amsterdam, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Candidate is a house and tech house artist based in United Kingdom, with 37 gigs
 
 Max Dean, Chopper (UK), DXNBY
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/candidate/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/candidate/)*

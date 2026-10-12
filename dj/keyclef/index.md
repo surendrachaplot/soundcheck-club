@@ -1,6 +1,6 @@
 # Key Clef
 
-Key Clef is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Skate Park (Parco Lambro), Milan on Sat, 17 Oct 2026.
+Key Clef is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Skate Park (Parco Lambro), Milan on Sat, 17 Oct 2026.
 
 Key Clef is a techno and electronica artist based in Italy, with 80 gigs on soundcheck across Athens, Barcelona, Berlin and Cologne and 7 more. Often billed alongside D-Leria, Ireen Amnes and Lunatik. Next up: Skate Park (Parco Lambro), Milan on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Key Clef is a techno and electronica artist based in Italy, with 80 gigs on soun
 
 D-Leria, Ireen Amnes, Lunatik
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keyclef/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keyclef/)*

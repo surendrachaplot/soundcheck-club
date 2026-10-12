@@ -1,6 +1,6 @@
 # Theia Daja
 
-Theia Daja is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Fri, 6 Nov 2026.
+Theia Daja is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Fri, 6 Nov 2026.
 
 Theia Daja is a techno and electronica artist based in Colombia, with 32 gigs on soundcheck across Barcelona and Madrid. Often billed alongside NETN, DJ TURBO and Alejandro Gata. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Theia Daja is a techno and electronica artist based in Colombia, with 32 gigs on
 
 NETN, DJ TURBO, Alejandro Gata
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theiadaja/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theiadaja/)*

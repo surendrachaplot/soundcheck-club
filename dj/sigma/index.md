@@ -1,6 +1,6 @@
 # Sigma
 
-Sigma is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Volks, Brighton on Sat, 17 Oct 2026.
+Sigma is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Volks, Brighton on Sat, 17 Oct 2026.
 
 Sigma is a drum & bass and jungle artist based in United Kingdom, with 29 gigs on soundcheck across Auckland, Brighton, Bristol and Budapest and 16 more. Often billed alongside Circadian, Emily Makis and Hedex. Next up: Volks, Brighton on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Sigma is a drum & bass and jungle artist based in United Kingdom, with 29 gigs o
 
 Circadian, Emily Makis, Hedex
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sigma/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sigma/)*

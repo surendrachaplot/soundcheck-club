@@ -1,6 +1,6 @@
 # VHS
 
-VHS is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at H0L0, New York City on Wed, 21 Oct 2026.
+VHS is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at H0L0, New York City on Wed, 21 Oct 2026.
 
 VHS is a techno artist, with 5 gigs on soundcheck across Antwerp, Lisbon, Madrid and New York City and 1 more. Often billed alongside AJNA, Aili and Alchemy (US). Next up: H0L0, New York City on Wed 21 Oct.
 
@@ -21,4 +21,4 @@ VHS is a techno artist, with 5 gigs on soundcheck across Antwerp, Lisbon, Madrid
 
 AJNA, Aili, Alchemy (US)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vhs/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vhs/)*

@@ -1,6 +1,6 @@
 # Ugly Drugless
 
-Ugly Drugless is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Gut Level, Sheffield on Fri, 6 Nov 2026.
+Ugly Drugless is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Gut Level, Sheffield on Fri, 6 Nov 2026.
 
 Ugly Drugless is a house and progressive house artist, with 5 gigs on soundcheck across London and Sheffield. Often billed alongside Perrin (UK), Bethan and FAFF. Next up: Gut Level, Sheffield on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ Ugly Drugless is a house and progressive house artist, with 5 gigs on soundcheck
 
 Perrin (UK), Bethan, FAFF
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uglydrugless/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uglydrugless/)*

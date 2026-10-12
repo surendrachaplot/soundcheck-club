@@ -1,6 +1,6 @@
 # GLIA
 
-GLIA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 14 Nov 2026.
+GLIA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 14 Nov 2026.
 
 GLIA is a techno and house artist based in Germany, with 48 gigs on soundcheck across Barcelona, Belgrade, Berlin and Copenhagen and 6 more. Often billed alongside Brtinzz, Pamela Svart and Squaric. Next up: Ankali & Planeta Za, Prague on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ GLIA is a techno and house artist based in Germany, with 48 gigs on soundcheck a
 
 Brtinzz, Pamela Svart, Squaric
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glia/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glia/)*

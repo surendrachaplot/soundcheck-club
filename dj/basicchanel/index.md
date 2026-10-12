@@ -1,14 +1,13 @@
 # basic chanel
 
-basic chanel is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Turkiston Palace of Arts, Uzbekistan on Sat, 10 Oct 2026.
+basic chanel is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Macadam, Nantes on Sun, 18 Oct 2026.
 
-basic chanel is a techno and bass artist based in United Kingdom, with 45 gigs on soundcheck across Amsterdam, Berlin, Brussels and London and 6 more. Often billed alongside Paquita Gordon, Allecto and Cam Joon. Next up: Turkiston Palace of Arts, Uzbekistan on Sat 10 Oct.
+basic chanel is a techno and bass artist based in United Kingdom, with 45 gigs on soundcheck across Amsterdam, Berlin, Brussels and London and 6 more. Often billed alongside Paquita Gordon, Allecto and Cam Joon. Next up: Macadam, Nantes on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Turkiston Palace of Arts | Uzbekistan |
 | Sun, 18 Oct 2026 | Macadam | Nantes |
 | Sat, 24 Oct 2026 | Poly | Lyon |
 | Sat, 7 Nov 2026 | FOLD | London |
@@ -28,4 +27,4 @@ basic chanel is a techno and bass artist based in United Kingdom, with 45 gigs o
 
 Paquita Gordon, Allecto, Cam Joon
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basicchanel/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basicchanel/)*

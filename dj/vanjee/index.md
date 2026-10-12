@@ -1,6 +1,6 @@
 # Vanjee
 
-Vanjee is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Refuge, New York City on Sun, 1 Nov 2026.
+Vanjee is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Refuge, New York City on Sun, 1 Nov 2026.
 
 Vanjee is a house and tech house artist based in United States of America, with 35 gigs on soundcheck across Austin, Ibiza, Istanbul and Lisbon and 4 more. Often billed alongside Apache, BLOND:ISH and Francis Mercier. Next up: Refuge, New York City on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Vanjee is a house and tech house artist based in United States of America, with 
 
 Apache, BLOND:ISH, Francis Mercier
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanjee/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanjee/)*

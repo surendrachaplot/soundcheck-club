@@ -1,6 +1,6 @@
 # Gare Porto
 
-Gare Porto is a music venue in Porto with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Hayes with NEO, CRAVO" on Fri, 16 Oct 2026.
+Gare Porto is a music venue in Porto with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Hayes with NEO, CRAVO" on Fri, 16 Oct 2026.
 
 Gare Porto is a music venue in Porto listed on soundcheck. 6 upcoming gigs, with line-ups including AlFaer, Amulador, Ana JORHS. and CRAVO and 2 more. See dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
 
@@ -19,4 +19,4 @@ Gare Porto is a music venue in Porto listed on soundcheck. 6 upcoming gigs, with
 
 Rua da Madeira 182, 4000 Porto, Portugal, Porto
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*

@@ -1,14 +1,13 @@
 # Josh Caffé
 
-Josh Caffé is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at FOLD, London on Sat, 10 Oct 2026.
+Josh Caffé is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at DRUMSHEDS, London on Sat, 24 Oct 2026.
 
-Josh Caffé is a house and techno artist based in United Kingdom, with 156 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 39 more. Often billed alongside Hannah Holland, NIKS and BASHKKA. Next up: FOLD, London on Sat 10 Oct.
+Josh Caffé is a house and techno artist based in United Kingdom, with 156 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 39 more. Often billed alongside Hannah Holland, NIKS and BASHKKA. Next up: DRUMSHEDS, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | FOLD | London |
 | Sat, 24 Oct 2026 | DRUMSHEDS | London |
 | Fri, 6 Nov 2026 | Yamamori Tengu | Dublin |
 | Sat, 14 Nov 2026 | Open Ground | Wuppertal |
@@ -31,4 +30,4 @@ Josh Caffé is a house and techno artist based in United Kingdom, with 156 gigs 
 
 Hannah Holland, NIKS, BASHKKA
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshcaffe/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshcaffe/)*

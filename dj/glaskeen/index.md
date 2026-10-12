@@ -1,14 +1,13 @@
 # Glaskeen
 
-Glaskeen is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+Glaskeen is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Le Petit Salon, Lyon on Fri, 20 Nov 2026.
 
-Glaskeen is a techno and hardcore artist based in France, with 5 gigs on soundcheck across Lyon and Paris. Often billed alongside Istigkeit, 2HOT2PLAY and AREA ØNE. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
+Glaskeen is a techno and hardcore artist based in France, with 5 gigs on soundcheck across Lyon and Paris. Often billed alongside Istigkeit, 2HOT2PLAY and AREA ØNE. Next up: Le Petit Salon, Lyon on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 | Fri, 20 Nov 2026 | Le Petit Salon | Lyon |
 
 ## Recently played
@@ -22,4 +21,4 @@ Glaskeen is a techno and hardcore artist based in France, with 5 gigs on soundch
 
 Istigkeit, 2HOT2PLAY, AREA ØNE
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glaskeen/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glaskeen/)*

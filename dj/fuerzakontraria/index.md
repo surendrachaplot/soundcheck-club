@@ -1,6 +1,6 @@
 # Fuerza Kontraria
 
-Fuerza Kontraria is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Giri, Berlin on Thu, 22 Oct 2026.
+Fuerza Kontraria is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Giri, Berlin on Thu, 22 Oct 2026.
 
 Fuerza Kontraria is a techno and electro artist based in Chile, with 4 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Cristóval Dilunar, Groof and Kamila Govorčin. Next up: Giri, Berlin on Thu 22 Oct.
 
@@ -20,4 +20,4 @@ Fuerza Kontraria is a techno and electro artist based in Chile, with 4 gigs on s
 
 Cristóval Dilunar, Groof, Kamila Govorčin
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fuerzakontraria/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fuerzakontraria/)*

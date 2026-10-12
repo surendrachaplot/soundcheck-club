@@ -1,6 +1,6 @@
 # 99 Scott Ave
 
-99 Scott Ave is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "DESCENDANTS with DJ TIRA, Danni Gato & More" on Fri, 16 Oct 2026.
+99 Scott Ave is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "DESCENDANTS with DJ TIRA, Danni Gato & More" on Fri, 16 Oct 2026.
 
 99 Scott Ave is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including Benwal, Danni Gato, Joshwa and J. Worra and 2 more. See dates, start times and who's playing. 99 Scott Ave, Brooklyn, NY 11237.
 
@@ -23,4 +23,4 @@
 
 99 Scott Ave, Brooklyn, NY 11237, New York City
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/99-scott-ave/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/99-scott-ave/)*

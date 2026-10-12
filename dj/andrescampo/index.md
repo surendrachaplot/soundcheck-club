@@ -1,6 +1,6 @@
 # Andres Campo
 
-Andres Campo is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Sophie Festival, Malaga on Sun, 1 Nov 2026.
+Andres Campo is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Sophie Festival, Malaga on Sun, 1 Nov 2026.
 
 Andres Campo is a techno and tech house artist based in Spain, with 81 gigs on soundcheck across Amsterdam, Bali, Barcelona and Buenos Aires and 15 more. Often billed alongside Fatima Hajji, Adiel and Luca Donzelli. Next up: Sophie Festival, Malaga on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Andres Campo is a techno and tech house artist based in Spain, with 81 gigs on s
 
 Fatima Hajji, Adiel, Luca Donzelli
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrescampo/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrescampo/)*

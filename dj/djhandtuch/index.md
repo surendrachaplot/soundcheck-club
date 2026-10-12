@@ -1,6 +1,6 @@
 # DJ Handtuch
 
-DJ Handtuch is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Lilli Escher, Hamburg on Thu, 15 Oct 2026.
+DJ Handtuch is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Lilli Escher, Hamburg on Thu, 15 Oct 2026.
 
 DJ Handtuch is a techno and trance artist based in Germany, with 6 gigs on soundcheck across Hamburg. Often billed alongside DJ Pinky Promise, Alex Benz and Anton Jonathan. Next up: Lilli Escher, Hamburg on Thu 15 Oct.
 
@@ -22,4 +22,4 @@ DJ Handtuch is a techno and trance artist based in Germany, with 6 gigs on sound
 
 DJ Pinky Promise, Alex Benz, Anton Jonathan
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhandtuch/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhandtuch/)*

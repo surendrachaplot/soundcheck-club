@@ -1,6 +1,6 @@
 # Carl Bee
 
-Carl Bee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Koepelkerk, Amsterdam on Sun, 25 Oct 2026.
+Carl Bee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Koepelkerk, Amsterdam on Sun, 25 Oct 2026.
 
 Carl Bee is a techno and house artist based in Malta, with 54 gigs on soundcheck across Amsterdam, Ibiza, Malta and Munich and 2 more. Often billed alongside Daniel Blade, Carl Lautier and Fresh Prince. Next up: Koepelkerk, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Carl Bee is a techno and house artist based in Malta, with 54 gigs on soundcheck
 
 Daniel Blade, Carl Lautier, Fresh Prince
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlbee/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlbee/)*

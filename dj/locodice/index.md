@@ -1,14 +1,13 @@
 # Loco Dice
 
-Loco Dice is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
+Loco Dice is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Lofi, Amsterdam on Fri, 13 Nov 2026.
 
-Loco Dice is a tech house and house artist based in Tunisia, with 207 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 44 more. Often billed alongside Jamie Jones, Marco Carola and Seth Troxler. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
+Loco Dice is a tech house and house artist based in Tunisia, with 207 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 44 more. Often billed alongside Jamie Jones, Marco Carola and Seth Troxler. Next up: Lofi, Amsterdam on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Auditorio Málaga Cortijo de Torres | South |
 | Fri, 13 Nov 2026 | Lofi | Amsterdam |
 | Sat, 14 Nov 2026 | Warehouse ZRH | Zurich |
 | Fri, 27 Nov 2026 | Ace*Mission Studios | Los Angeles |
@@ -28,4 +27,4 @@ Loco Dice is a tech house and house artist based in Tunisia, with 207 gigs on so
 
 Jamie Jones, Marco Carola, Seth Troxler
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locodice/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locodice/)*

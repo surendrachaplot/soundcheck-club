@@ -1,6 +1,6 @@
 # Robert Romain
 
-Robert Romain is a Deep House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Waterhouse Studios, Amsterdam on Fri, 23 Oct 2026.
+Robert Romain is a Deep House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Waterhouse Studios, Amsterdam on Fri, 23 Oct 2026.
 
 Robert Romain is a deep house and electronica artist based in Germany, with 5 gigs on soundcheck across Amsterdam, Berlin, Leipzig and Munich. Often billed alongside Adrija, Beju! and Iorie. Next up: Waterhouse Studios, Amsterdam on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Robert Romain is a deep house and electronica artist based in Germany, with 5 gi
 
 Adrija, Beju!, Iorie
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertromain/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertromain/)*

@@ -1,6 +1,6 @@
 # Turmspringer
 
-Turmspringer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Golden Gate, Berlin on Sat, 24 Oct 2026.
+Turmspringer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Golden Gate, Berlin on Sat, 24 Oct 2026.
 
 Turmspringer is a techno and house artist, with 11 gigs on soundcheck across Berlin and Munich. Often billed alongside Leon Licht, Dave Dinger and Hagel. Next up: Golden Gate, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Turmspringer is a techno and house artist, with 11 gigs on soundcheck across Ber
 
 Leon Licht, Dave Dinger, Hagel
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/turmspringer/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/turmspringer/)*

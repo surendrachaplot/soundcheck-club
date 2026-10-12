@@ -1,14 +1,13 @@
 # Octo Octa
 
-Octo Octa is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
+Octo Octa is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at NUMBER 90 LONDON, London on Thu, 15 Oct 2026.
 
-Octo Octa is a house and techno artist based in United States of America, with 210 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 60 more. Often billed alongside Eris Drew, ISAbella and CCL. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
+Octo Octa is a house and techno artist based in United States of America, with 210 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 60 more. Often billed alongside Eris Drew, ISAbella and CCL. Next up: NUMBER 90 LONDON, London on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Empire Polo Club | Palm-springs |
 | Thu, 15 Oct 2026 | NUMBER 90 LONDON | London |
 | Fri, 16 Oct 2026 | Iter Tenerife | Canary-islands |
 | Thu, 22 Oct 2026 | Pllek | Amsterdam |
@@ -20,6 +19,7 @@ Octo Octa is a house and techno artist based in United States of America, with 2
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 | Sat, 7 Nov 2026 | WAS. | Utrecht |
+| Sun, 8 Nov 2026 | essaim | Paris |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Octo Octa is a house and techno artist based in United States of America, with 2
 
 Eris Drew, ISAbella, CCL
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*

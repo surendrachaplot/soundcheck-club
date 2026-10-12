@@ -1,6 +1,6 @@
 # Samantha DaSilva
 
-Samantha DaSilva is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Honey's, New York City on Thu, 15 Oct 2026.
+Samantha DaSilva is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Honey's, New York City on Thu, 15 Oct 2026.
 
 Samantha DaSilva is a house and techno artist based in United States of America, with 16 gigs on soundcheck across New York City. Often billed alongside samisosa, Fattie Bee and Sam Valle. Next up: Honey's, New York City on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Samantha DaSilva is a house and techno artist based in United States of America,
 
 samisosa, Fattie Bee, Sam Valle
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthadasilva/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthadasilva/)*

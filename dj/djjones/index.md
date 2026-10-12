@@ -1,6 +1,6 @@
 # DJ Jones
 
-DJ Jones is a Experimental and Jazz artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Giri, Berlin on Wed, 14 Oct 2026.
+DJ Jones is a Experimental and Jazz artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Giri, Berlin on Wed, 14 Oct 2026.
 
 DJ Jones is an experimental and jazz artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside B.bby, Bass and Camille Maria. Next up: Giri, Berlin on Wed 14 Oct.
 
@@ -21,4 +21,4 @@ DJ Jones is an experimental and jazz artist based in Germany, with 5 gigs on sou
 
 B.bby, Bass, Camille Maria
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjones/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjones/)*

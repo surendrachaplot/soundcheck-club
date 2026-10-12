@@ -1,6 +1,6 @@
 # SYTHRA
 
-SYTHRA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at H0L0, New York City on Thu, 22 Oct 2026.
+SYTHRA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at H0L0, New York City on Thu, 22 Oct 2026.
 
 SYTHRA is a techno and house artist based in United States of America, with 5 gigs on soundcheck across New York City. Often billed alongside MOLTØNY, BMG and Major Gruv. Next up: H0L0, New York City on Thu 22 Oct.
 
@@ -21,4 +21,4 @@ SYTHRA is a techno and house artist based in United States of America, with 5 gi
 
 MOLTØNY, BMG, Major Gruv
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sythra/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sythra/)*

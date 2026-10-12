@@ -1,6 +1,6 @@
 # Haus der Visionäre
 
-Haus der Visionäre is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "CTM Festival 2027: Modeselektor present »MDSLKTR and Guests«" on Sun, 24 Jan 2027.
+Haus der Visionäre is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "CTM Festival 2027: Modeselektor present »MDSLKTR and Guests«" on Sun, 24 Jan 2027.
 
 Haus der Visionäre is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including future.666, Gudrun Gut, Kabeaushé and Modeselektor. See dates, start times and who's playing. Eichenstr. 4a, 12435 Berlin.
 
@@ -15,4 +15,4 @@ Haus der Visionäre is a music venue in Berlin listed on soundcheck. 2 upcoming 
 
 Eichenstr. 4a, 12435 Berlin, Berlin
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*

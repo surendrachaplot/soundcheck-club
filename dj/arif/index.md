@@ -1,6 +1,6 @@
 # Arif
 
-Arif is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Location via Telegram Group, Berlin on Sat, 17 Oct 2026.
+Arif is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Location via Telegram Group, Berlin on Sat, 17 Oct 2026.
 
 Arif is a breakbeat and bass artist, with 10 gigs on soundcheck across Amsterdam, Berlin, London and Madrid. Often billed alongside Yb3L, ARAKAZA and DEROZAN. Next up: TBA - Location via Telegram Group, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Arif is a breakbeat and bass artist, with 10 gigs on soundcheck across Amsterdam
 
 Yb3L, ARAKAZA, DEROZAN
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arif/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arif/)*

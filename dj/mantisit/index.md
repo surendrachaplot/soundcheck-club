@@ -1,6 +1,6 @@
 # Mantis (IT)
 
-Mantis (IT) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Renate, Berlin on Sat, 7 Nov 2026.
+Mantis (IT) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Renate, Berlin on Sat, 7 Nov 2026.
 
 Mantis (IT) is a techno and bass artist, with 12 gigs on soundcheck across Berlin and Rome. Often billed alongside VSC, Her Nice Too and Manifesto Disappunto. Next up: Renate, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Mantis (IT) is a techno and bass artist, with 12 gigs on soundcheck across Berli
 
 VSC (1), Her Nice Too, Manifesto Disappunto
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mantisit/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mantisit/)*

@@ -1,6 +1,6 @@
 # Shelf-Index
 
-Shelf-Index is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Social Room, Hong Kong on Fri, 16 Oct 2026.
+Shelf-Index is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Social Room, Hong Kong on Fri, 16 Oct 2026.
 
 Shelf-Index is a techno and bass artist based in China, with 15 gigs on soundcheck across Hong Kong. Often billed alongside JFÜNG, BUSYBOI and KOLAK. Next up: Social Room, Hong Kong on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Shelf-Index is a techno and bass artist based in China, with 15 gigs on soundche
 
 JFÜNG, BUSYBOI, KOLAK
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shelf-index/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shelf-index/)*

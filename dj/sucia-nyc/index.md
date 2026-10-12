@@ -1,6 +1,6 @@
 # SUCIA!
 
-SUCIA! is a Club and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 12 Oct 2026.
+SUCIA! is a Club and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 12 Oct 2026.
 
 SUCIA! is a club and house artist based in United States of America, with 25 gigs on soundcheck across Chicago, Los Angeles, Miami and New York City and 1 more. Often billed alongside Mars Kasei, Sel.6 and Chiara Noriko. Next up: Bossa Nova Civic Club, New York City on Mon 12 Oct.
 
@@ -27,4 +27,4 @@ SUCIA! is a club and house artist based in United States of America, with 25 gig
 
 Mars Kasei, Sel.6, Chiara Noriko
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sucia-nyc/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sucia-nyc/)*

@@ -1,6 +1,6 @@
 # Resume Valencia
 
-Resume Valencia is a music venue in Valencia with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "TOMMASO PIZZELI B2B IKAKO" on Fri, 16 Oct 2026.
+Resume Valencia is a music venue in Valencia with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "TOMMASO PIZZELI B2B IKAKO" on Fri, 16 Oct 2026.
 
 Resume Valencia is a music venue in Valencia listed on soundcheck. 5 upcoming gigs, with line-ups including DANI RUBIO, IKAKO, Melgar and Pizzicatto and 2 more. See dates, start times and who's playing. Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia.
 
@@ -18,4 +18,4 @@ Resume Valencia is a music venue in Valencia listed on soundcheck. 5 upcoming gi
 
 Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia, Valencia
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*

@@ -1,6 +1,6 @@
 # Alan Fitzpatrick
 
-Alan Fitzpatrick is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The Prince Consort, Brisbane on Fri, 16 Oct 2026.
+Alan Fitzpatrick is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Prince Consort, Brisbane on Fri, 16 Oct 2026.
 
 Alan Fitzpatrick is a techno and house artist based in United Kingdom, with 117 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Belgrade and 37 more. Often billed alongside Jamie Jones, Marco Faraone and Ben Hemsley. Next up: The Prince Consort, Brisbane on Fri 16 Oct.
 
@@ -33,4 +33,4 @@ Alan Fitzpatrick is a techno and house artist based in United Kingdom, with 117 
 
 Jamie Jones, Marco Faraone, Ben Hemsley
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alanfitzpatrick/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alanfitzpatrick/)*

@@ -1,6 +1,6 @@
 # DJ Music
 
-DJ Music is a Club artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Le Poisson Volant, Paris on Fri, 23 Oct 2026.
+DJ Music is a Club artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Le Poisson Volant, Paris on Fri, 23 Oct 2026.
 
 DJ Music is a club artist based in France, with 7 gigs on soundcheck across Paris. Often billed alongside Golce, fetva and BENGALA. Next up: Le Poisson Volant, Paris on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ DJ Music is a club artist based in France, with 7 gigs on soundcheck across Pari
 
 Golce, fetva, BENGALA
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmusic/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmusic/)*

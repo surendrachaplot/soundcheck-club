@@ -1,6 +1,6 @@
 # FUJI (3)
 
-FUJI (3) is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at XOYO, London on Wed, 14 Oct 2026.
+FUJI (3) is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at XOYO, London on Wed, 14 Oct 2026.
 
 FUJI is a techno and tech house artist based in United States of America, with 5 gigs on soundcheck across London and Tokyo. Often billed alongside Claudio PRC, DJ SO and DJ Sodeyama. Next up: XOYO, London on Wed 14 Oct.
 
@@ -21,4 +21,4 @@ FUJI is a techno and tech house artist based in United States of America, with 5
 
 Claudio PRC, DJ SO, DJ Sodeyama
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fuji-3/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fuji-3/)*

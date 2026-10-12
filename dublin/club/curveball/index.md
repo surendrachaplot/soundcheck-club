@@ -1,6 +1,6 @@
 # Curveball
 
-Curveball is a music venue in Dublin with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "TECHNO CORE AGENCY — OCTOBER 16TH" on Fri, 16 Oct 2026.
+Curveball is a music venue in Dublin with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "TECHNO CORE AGENCY — OCTOBER 16TH" on Fri, 16 Oct 2026.
 
 Curveball is a music venue in Dublin listed on soundcheck. 3 upcoming gigs, with line-ups including DJ Dobrel, Fractious, hellokt and Micknasty and 1 more. See dates, start times and who's playing. Curved St, Temple Bar, Dublin, D02 RD26.
 
@@ -16,4 +16,4 @@ Curveball is a music venue in Dublin listed on soundcheck. 3 upcoming gigs, with
 
 Curved St, Temple Bar, Dublin, D02 RD26, Dublin
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/curveball/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/curveball/)*

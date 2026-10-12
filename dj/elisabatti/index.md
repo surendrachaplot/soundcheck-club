@@ -1,6 +1,6 @@
 # Elisa Batti
 
-Elisa Batti is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at RADION, Amsterdam on Wed, 21 Oct 2026.
+Elisa Batti is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at RADION, Amsterdam on Wed, 21 Oct 2026.
 
 Elisa Batti is a techno and house artist based in Netherlands, with 52 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 7 more. Often billed alongside Laura van Hal, STERAC and Svreca. Next up: RADION, Amsterdam on Wed 21 Oct.
 
@@ -29,4 +29,4 @@ Elisa Batti is a techno and house artist based in Netherlands, with 52 gigs on s
 
 Laura van Hal, STERAC, Svreca
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elisabatti/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elisabatti/)*

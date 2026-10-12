@@ -1,6 +1,6 @@
 # Madame Claude
 
-Madame Claude is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Devin Gray's Most Definitely" on Mon, 12 Oct 2026.
+Madame Claude is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Devin Gray's Most Definitely" on Mon, 12 Oct 2026.
 
 Madame Claude is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Devin Gray. See dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Madame Claude is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, 
 
 Lübbener Str. 19, 10997 Berlin, Germany, Berlin
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*

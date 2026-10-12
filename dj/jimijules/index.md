@@ -1,14 +1,13 @@
 # Jimi Jules
 
-Jimi Jules is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The Garage, Madrid on Sun, 11 Oct 2026.
+Jimi Jules is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 23 Oct 2026.
 
-Jimi Jules is a house and techno artist based in Switzerland, with 200 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside Dixon, Âme and Trikk. Next up: The Garage, Madrid on Sun 11 Oct.
+Jimi Jules is a house and techno artist based in Switzerland, with 201 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside Dixon, Âme and Trikk. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | The Garage | Madrid |
 | Fri, 23 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sat, 31 Oct 2026 | Brooklyn Storehouse | New York City |
@@ -20,17 +19,17 @@ Jimi Jules is a house and techno artist based in Switzerland, with 200 gigs on s
 
 ## Recently played
 
+- The Garage, Madrid · Sun, 11 Oct 2026
+- The Bassement, Madrid · Sun, 11 Oct 2026
 - Nitsa Club, Barcelona · Fri, 9 Oct 2026
 - Maravilla Studios, Mexico City · Sat, 3 Oct 2026
 - Hï Ibiza, Ibiza · Fri, 18 Sept 2026
 - TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto · Fri, 18 Sept 2026
 - TBA - Brussels, Brussels · Fri, 11 Sept 2026
 - Lula Club, Madrid · Fri, 11 Sept 2026
-- Scorpios, Mykonos · Thu, 10 Sept 2026
-- Woodstock'69, Amsterdam · Sun, 6 Sept 2026
 
 ## Shares bills with
 
 Dixon, Âme, Trikk
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*

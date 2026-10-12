@@ -1,6 +1,6 @@
 # Isaiah (NL)
 
-Isaiah (NL) is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Kaiku, Helsinki on Fri, 16 Oct 2026.
+Isaiah (NL) is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Kaiku, Helsinki on Fri, 16 Oct 2026.
 
 Isaiah (NL) is a techno and house artist based in Netherlands, with 104 gigs on soundcheck across Amsterdam, Berlin, Brussels and Budapest and 24 more. Often billed alongside Beau Didier, Flits and Lasse. Next up: Kaiku, Helsinki on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ Isaiah (NL) is a techno and house artist based in Netherlands, with 104 gigs on 
 
 Beau Didier, Flits, Lasse
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaiah-nl/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaiah-nl/)*

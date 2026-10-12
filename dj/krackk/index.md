@@ -1,6 +1,6 @@
 # Krackk
 
-Krackk is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at fi, Cologne on Fri, 16 Oct 2026.
+Krackk is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at fi, Cologne on Fri, 16 Oct 2026.
 
 Krackk is a techno and house artist based in Germany, with 55 gigs on soundcheck across Berlin, Cologne, Dortmund Essen and Düsseldorf and 8 more. Often billed alongside Robin Tasi, ALIS. and Justin Tinderdate. Next up: fi, Cologne on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Krackk is a techno and house artist based in Germany, with 55 gigs on soundcheck
 
 Robin Tasi, ALIS., Justin Tinderdate
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krackk/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krackk/)*

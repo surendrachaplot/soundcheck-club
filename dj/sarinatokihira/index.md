@@ -1,14 +1,15 @@
 # Sarina Tokihira
 
-Sarina Tokihira is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Mon, 12 Oct 2026.
+Sarina Tokihira is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Fri, 16 Oct 2026.
 
-Sarina Tokihira is a drum & bass and bass artist based in Japan, with 29 gigs on soundcheck across Osaka and Tokyo. Often billed alongside A to C, Azumai and DJ MIYU. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Mon 12 Oct.
+Sarina Tokihira is a drum & bass and bass artist based in Japan, with 31 gigs on soundcheck across Osaka and Tokyo. Often billed alongside SN_Yeah, DJ MIYU and ReFuCafé. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 12 Oct 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
+| Fri, 16 Oct 2026 | UTOPIA / DYSTOPIA | Tokyo |
+| Fri, 23 Oct 2026 | UTOPIA / DYSTOPIA | Tokyo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Sarina Tokihira is a drum & bass and bass artist based in Japan, with 29 gigs on
 
 ## Shares bills with
 
-A to C, Azumai, DJ MIYU
+SN_Yeah, DJ MIYU, ReFuCafé
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarinatokihira/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarinatokihira/)*

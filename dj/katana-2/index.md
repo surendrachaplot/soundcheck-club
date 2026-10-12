@@ -1,6 +1,6 @@
 # KATANA (2)
 
-KATANA (2) is a House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Barba Azul, Mexico City on Thu, 29 Oct 2026.
+KATANA (2) is a House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Barba Azul, Mexico City on Thu, 29 Oct 2026.
 
 KATANA is a house and latin bass artist, with 16 gigs on soundcheck across Auckland, London and Mexico City. Often billed alongside Glade Marie, CARISTA and FS Green. Next up: Barba Azul, Mexico City on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ KATANA is a house and latin bass artist, with 16 gigs on soundcheck across Auckl
 
 Glade Marie, CARISTA, FS Green
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katana-2/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katana-2/)*

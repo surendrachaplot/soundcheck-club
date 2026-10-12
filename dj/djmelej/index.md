@@ -1,6 +1,6 @@
 # DJ MELEJ
 
-DJ MELEJ is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Macarena Club, Barcelona on Thu, 22 Oct 2026.
+DJ MELEJ is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Macarena Club, Barcelona on Thu, 22 Oct 2026.
 
 DJ MELEJ is a house and techno artist, with 6 gigs on soundcheck across Barcelona. Often billed alongside Inpulse, Onoffon and HANIE. Next up: Macarena Club, Barcelona on Thu 22 Oct.
 
@@ -22,4 +22,4 @@ DJ MELEJ is a house and techno artist, with 6 gigs on soundcheck across Barcelon
 
 Inpulse, Onoffon, HANIE
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmelej/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmelej/)*

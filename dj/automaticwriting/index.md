@@ -1,6 +1,6 @@
 # Automatic Writing
 
-Automatic Writing is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Automatic Writing is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Automatic Writing is a house and minimal artist based in France, with 68 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 8 more. Often billed alongside Darween, Guillermo Jamas and Jacan. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -27,4 +27,4 @@ Automatic Writing is a house and minimal artist based in France, with 68 gigs on
 
 Darween, Guillermo Jamas, Jacan
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/automaticwriting/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/automaticwriting/)*

@@ -1,6 +1,6 @@
 # Woodhead
 
-Woodhead is a Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Gorg-O-Mish, Vancouver on Fri, 16 Oct 2026.
+Woodhead is a Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Gorg-O-Mish, Vancouver on Fri, 16 Oct 2026.
 
 Woodhead is a disco and techno artist based in Canada, with 11 gigs on soundcheck across Ghent and Vancouver. Often billed alongside Mona Lee, Tyler Stadius and Carlamote. Next up: Gorg-O-Mish, Vancouver on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Woodhead is a disco and techno artist based in Canada, with 11 gigs on soundchec
 
 Mona Lee, Tyler Stadius, Carlamote
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/woodhead/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/woodhead/)*

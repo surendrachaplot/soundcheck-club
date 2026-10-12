@@ -1,6 +1,6 @@
 # JBox
 
-JBox is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Rote Sonne, Munich on Fri, 30 Oct 2026.
+JBox is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Rote Sonne, Munich on Fri, 30 Oct 2026.
 
 JBox is a house and techno artist based in Germany, with 6 gigs on soundcheck across Munich. Often billed alongside Listenblondie, Vaneska and 9LALEY. Next up: Rote Sonne, Munich on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ JBox is a house and techno artist based in Germany, with 6 gigs on soundcheck ac
 
 Listenblondie, Vaneska, 9LALEY
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jbox/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jbox/)*

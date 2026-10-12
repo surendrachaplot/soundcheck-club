@@ -1,18 +1,18 @@
 # Master c-fu
 
-Master c-fu is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Super7, Lyon on Sun, 11 Oct 2026.
+Master c-fu is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Nido Marseille, Marseille on Sat, 24 Oct 2026.
 
-Master c-fu is a house and tech house artist based in France, with 36 gigs on soundcheck across Berlin, Lyon, Marseille and Milan and 3 more. Often billed alongside Lumbago, Camion Bazar and DJ Rino. Next up: Super7, Lyon on Sun 11 Oct.
+Master c-fu is a house and tech house artist based in France, with 36 gigs on soundcheck across Berlin, Lyon, Marseille and Milan and 3 more. Often billed alongside Lumbago, Camion Bazar and DJ Rino. Next up: Nido Marseille, Marseille on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Super7 | Lyon |
 | Sat, 24 Oct 2026 | Nido Marseille | Marseille |
 
 ## Recently played
 
+- Super7, Lyon · Sun, 11 Oct 2026
 - TBA - Lyon, Lyon · Fri, 24 Jul 2026
 - Plage Privée Parc de Miribel, Lyon · Sat, 27 Jun 2026
 - Nido Marseille, Marseille · Fri, 19 Jun 2026
@@ -20,10 +20,9 @@ Master c-fu is a house and tech house artist based in France, with 36 gigs on so
 - Nido Marseille, Marseille · Fri, 8 May 2026
 - Nido Marseille, Marseille · Sat, 25 Apr 2026
 - TBA - warehouse, Lyon · Fri, 10 Apr 2026
-- Hoppetosse, Berlin · Sat, 4 Apr 2026
 
 ## Shares bills with
 
 Lumbago, Camion Bazar, DJ Rino
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masterc-fu/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masterc-fu/)*

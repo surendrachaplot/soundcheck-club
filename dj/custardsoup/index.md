@@ -1,6 +1,6 @@
 # Custard Soup
 
-Custard Soup is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The Glove That Fits, London on Fri, 23 Oct 2026.
+Custard Soup is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Glove That Fits, London on Fri, 23 Oct 2026.
 
 Custard Soup is a house and disco artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside Mas Que Nada Brothers, AMO and Bob Sinclar. Next up: The Glove That Fits, London on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ Custard Soup is a house and disco artist based in United Kingdom, with 4 gigs on
 
 Mas Que Nada Brothers, AMO, Bob Sinclar
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/custardsoup/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/custardsoup/)*

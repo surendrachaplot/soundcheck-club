@@ -1,6 +1,6 @@
 # Taha Malki
 
-Taha Malki is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Bikini Club, Barcelona on Fri, 30 Oct 2026.
+Taha Malki is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Bikini Club, Barcelona on Fri, 30 Oct 2026.
 
 Taha Malki is a house and tech house artist based in Morocco, with 7 gigs on soundcheck across Barcelona. Often billed alongside MARAU, AM IN and Anikha. Next up: Bikini Club, Barcelona on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Taha Malki is a house and tech house artist based in Morocco, with 7 gigs on sou
 
 MARAU, AM IN, Anikha
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tahamalki/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tahamalki/)*

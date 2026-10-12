@@ -1,6 +1,6 @@
 # Andrea Guadalupi
 
-Andrea Guadalupi is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 17 Oct 2026.
+Andrea Guadalupi is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 17 Oct 2026.
 
 Andrea Guadalupi is a techno and tech house artist based in Australia, with 74 gigs on soundcheck across Melbourne and Sydney. Often billed alongside GavWhitehouse, Matteo Freyrie and Lisa May. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Andrea Guadalupi is a techno and tech house artist based in Australia, with 74 g
 
 GavWhitehouse, Matteo Freyrie, Lisa May
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaguadalupi/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaguadalupi/)*

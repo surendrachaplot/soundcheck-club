@@ -1,14 +1,13 @@
 # Luke Una
 
-Luke Una is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Hare & Hounds, Birmingham on Sun, 11 Oct 2026.
+Luke Una is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Night Tales, London on Fri, 16 Oct 2026.
 
-Luke Una is a house and disco artist based in United Kingdom, with 144 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Joey T, Simon Morell and Aroop Roy. Next up: Hare & Hounds, Birmingham on Sun 11 Oct.
+Luke Una is a house and disco artist based in United Kingdom, with 144 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Joey T, Simon Morell and Aroop Roy. Next up: Night Tales, London on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Hare & Hounds | Birmingham |
 | Fri, 16 Oct 2026 | Night Tales | London |
 | Fri, 23 Oct 2026 | Night Tales | London |
 | Fri, 30 Oct 2026 | Night Tales | London |
@@ -18,6 +17,7 @@ Luke Una is a house and disco artist based in United Kingdom, with 144 gigs on s
 
 ## Recently played
 
+- Hare & Hounds, Birmingham · Sun, 11 Oct 2026
 - Night Tales, London · Fri, 9 Oct 2026
 - Pica (Port Melbourne Industrial Centre for the Arts), Melbourne · Sun, 4 Oct 2026
 - Carriageworks, Sydney · Sat, 3 Oct 2026
@@ -25,10 +25,9 @@ Luke Una is a house and disco artist based in United Kingdom, with 144 gigs on s
 - Hidden, Manchester · Sun, 30 Aug 2026
 - Freight Island Newcastle, Newcastle · Sat, 15 Aug 2026
 - Clifton Downs, Bristol · Sat, 1 Aug 2026
-- TBA - address sent to all ticket holders , London · Thu, 23 Jul 2026
 
 ## Shares bills with
 
 Joey T, Simon Morell, Aroop Roy
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeuna/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeuna/)*

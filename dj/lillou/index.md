@@ -1,6 +1,6 @@
 # Lillou
 
-Lillou is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Burza #4, Prague on Sat, 24 Oct 2026.
+Lillou is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Burza #4, Prague on Sat, 24 Oct 2026.
 
 Lillou is a house and techno artist, with 69 gigs on soundcheck across Prague. Often billed alongside Thomas Tesla, Lucas Hulan and Icarian PB1. Next up: Burza #4, Prague on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Lillou is a house and techno artist, with 69 gigs on soundcheck across Prague. O
 
 Thomas Tesla, Lucas Hulan, Icarian PB1
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lillou/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lillou/)*

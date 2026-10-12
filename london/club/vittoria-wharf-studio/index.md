@@ -1,6 +1,6 @@
 # Vittoria Wharf Studio
 
-Vittoria Wharf Studio is a music venue in London with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Nicky Elisabeth" on Fri, 16 Oct 2026.
+Vittoria Wharf Studio is a music venue in London with 13 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Nicky Elisabeth" on Fri, 16 Oct 2026.
 
 Vittoria Wharf Studio is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Aldonna, Alien Communications, Andrew Robertson and ASHTREY and 2 more. See dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
 
@@ -10,7 +10,7 @@ Vittoria Wharf Studio is a music venue in London listed on soundcheck. 13 upcomi
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Nicky Elisabeth | Nicky Elisabeth |
 | Sat, 17 Oct 2026 | PRISM: Aldonna, ASHTREY, Elkka, r:elise | ASHTREY, Aldonna, Elkka, r:elise |
-| Fri, 23 Oct 2026 | Seb Wildblood pres. all my thoughts | BAILE, Blossom Hill, Seb Wildblood |
+| Fri, 23 Oct 2026 | Seb Wildblood pres. all my thoughts | BAILE, Birthday in Texas, Blossom Hill, Seb Wildblood |
 | Sun, 25 Oct 2026 | Sundays - Voigtmann, Ste Roberts, Ryan Jones | Ryan Jones, Ste Roberts, Voigtmann |
 | Thu, 29 Oct 2026 | Wrong Way Home: Launch Party | Mojay |
 | Sat, 31 Oct 2026 | Area 51 Halloween: DMX Krew live, Alien Communications, CRL + Kristina May | Alien Communications, CRL (1), DMX Krew, Kristina May |
@@ -23,4 +23,4 @@ Vittoria Wharf Studio is a music venue in London listed on soundcheck. 13 upcomi
 
 Vittoria Wharf Yard, Hackney Wick, E3 2NT, London
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*

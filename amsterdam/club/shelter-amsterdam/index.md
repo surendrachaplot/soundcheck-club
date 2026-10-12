@@ -1,6 +1,6 @@
 # Shelter Amsterdam
 
-Shelter Amsterdam is a music venue in Amsterdam with 20 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Crits Agency W/ nik-ey b2b Ammé, Sun Sol b2b Luis Ripa" on Fri, 16 Oct 2026.
+Shelter Amsterdam is a music venue in Amsterdam with 20 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Crits Agency W/ nik-ey b2b Ammé, Sun Sol b2b Luis Ripa" on Fri, 16 Oct 2026.
 
 Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs, with line-ups including A'DAM, A For Alpha, Ajuma and Alec Dienaar and 2 more. See dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
 
@@ -23,4 +23,4 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 20 upcomin
 
 Overhoeksplein 3, 1031KS, Amsterdam, Amsterdam
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*

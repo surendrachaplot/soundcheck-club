@@ -1,6 +1,6 @@
 # Seb Wildblood pres. all my thoughts at Vittoria Wharf Studio
 
-Seb Wildblood pres. all my thoughts at Vittoria Wharf Studio on Fri 23 Oct, London. 3 artists: BAILE, Blossom Hill and Seb Wildblood. House and Electronica. See the line-up on soundcheck.
+Seb Wildblood pres. all my thoughts at Vittoria Wharf Studio on Fri 23 Oct, London. 4 artists: BAILE, Birthday in Texas, Blossom Hill and Seb Wildblood. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Seb Wildblood pres. all my thoughts at Vittoria Wharf Studio on Fri 23 Oct, Lond
 ## Line-up
 
 - BAILE
+- Birthday in Texas
 - Blossom Hill
 - Seb Wildblood
 

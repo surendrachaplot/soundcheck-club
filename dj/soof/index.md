@@ -1,6 +1,6 @@
 # Soof
 
-Soof is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Het Dorp, Amsterdam on Sat, 24 Oct 2026.
+Soof is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Het Dorp, Amsterdam on Sat, 24 Oct 2026.
 
 Soof is a tech house and deep house artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam. Often billed alongside Hightower, Casablanca 303 and Christoph Cham. Next up: Het Dorp, Amsterdam on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Soof is a tech house and deep house artist based in Netherlands, with 6 gigs on 
 
 Hightower, Casablanca 303, Christoph Cham
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soof/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soof/)*

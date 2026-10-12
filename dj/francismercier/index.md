@@ -1,14 +1,13 @@
 # Francis Mercier
 
-Francis Mercier is a Afro House and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Pacha New York, New York City on Sun, 11 Oct 2026.
+Francis Mercier is a Afro House and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Afas Live, Amsterdam on Sat, 24 Oct 2026.
 
-Francis Mercier is an afro house and house artist based in United States of America, with 181 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: Pacha New York, New York City on Sun 11 Oct.
+Francis Mercier is an afro house and house artist based in United States of America, with 181 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: Afas Live, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Pacha New York | New York City |
 | Sat, 24 Oct 2026 | Afas Live | Amsterdam |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 | Fri, 20 Nov 2026 | KOKO | London |
@@ -22,6 +21,7 @@ Francis Mercier is an afro house and house artist based in United States of Amer
 
 ## Recently played
 
+- Pacha New York, New York City · Sun, 11 Oct 2026
 - Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
 - OMNIA Dayclub, Las-vegas · Fri, 9 Oct 2026
 - Hï Ibiza, Ibiza · Mon, 5 Oct 2026
@@ -29,10 +29,9 @@ Francis Mercier is an afro house and house artist based in United States of Amer
 - Hï Ibiza, Ibiza · Mon, 28 Sept 2026
 - Bloody Louis, Brussels · Fri, 25 Sept 2026
 - Hï Ibiza, Ibiza · Mon, 21 Sept 2026
-- Reframe Studios Indoors, Los Angeles · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Andrea Oliva, Nadrums, ARYMÉ
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*

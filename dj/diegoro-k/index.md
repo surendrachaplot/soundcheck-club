@@ -1,13 +1,14 @@
 # Diego Ro-k
 
-Diego Ro-k is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Pikes Ibiza, Ibiza on Fri, 23 Oct 2026.
+Diego Ro-k is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Esbirra Ibiza, Ibiza on Fri, 16 Oct 2026.
 
-Diego Ro-k is a techno and electronica artist, with 14 gigs on soundcheck across Barcelona, Buenos Aires and Ibiza. Often billed alongside Bad Educated, Bart Ricardo and Carlos Lamar. Next up: Pikes Ibiza, Ibiza on Fri 23 Oct.
+Diego Ro-k is a techno and electronica artist, with 15 gigs on soundcheck across Barcelona, Buenos Aires and Ibiza. Often billed alongside Bad Educated, Bart Ricardo and Carlos Lamar. Next up: Esbirra Ibiza, Ibiza on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Esbirra Ibiza | Ibiza |
 | Fri, 23 Oct 2026 | Pikes Ibiza | Ibiza |
 | Fri, 30 Oct 2026 | Bridge 48 | Barcelona |
 
@@ -26,4 +27,4 @@ Diego Ro-k is a techno and electronica artist, with 14 gigs on soundcheck across
 
 Bad Educated, Bart Ricardo, Carlos Lamar
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoro-k/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoro-k/)*

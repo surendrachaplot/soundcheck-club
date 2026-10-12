@@ -1,6 +1,6 @@
 # Elektricity
 
-Elektricity is a music venue in Detroit with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "TSU NAMI: LIMERENCE TOUR (360° DJ EXPERIENCE)" on Fri, 16 Oct 2026.
+Elektricity is a music venue in Detroit with 13 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "TSU NAMI: LIMERENCE TOUR (360° DJ EXPERIENCE)" on Fri, 16 Oct 2026.
 
 Elektricity is a music venue in Detroit listed on soundcheck. 13 upcoming gigs, with line-ups including Casey Club, Mary Droppinz, OOZE and RAEDY LEX and 1 more. See dates, start times and who's playing. 15 South Saginaw Street; Pontiac, MI 48342; United States.
 
@@ -23,4 +23,4 @@ Elektricity is a music venue in Detroit listed on soundcheck. 13 upcoming gigs, 
 
 15 South Saginaw Street; Pontiac, MI 48342; United States, Detroit
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/elektricity/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/elektricity/)*

@@ -1,6 +1,6 @@
 # Liminal MX
 
-Liminal MX is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
+Liminal MX is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
 
 Liminal MX is a techno and electronica artist based in Mexico, with 7 gigs on soundcheck across Amsterdam, Malaga and Mexico City. Often billed alongside ELIF, Miguel Payda and Alessio Cristiano. Next up: Onder Hans, Amsterdam on Thu 22 Oct.
 
@@ -23,4 +23,4 @@ Liminal MX is a techno and electronica artist based in Mexico, with 7 gigs on so
 
 ELIF, Miguel Payda, Alessio Cristiano
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liminalmx/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liminalmx/)*

@@ -1,6 +1,6 @@
 # Narciss
 
-Narciss is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Azimut Club, Turin on Sat, 17 Oct 2026.
+Narciss is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Azimut Club, Turin on Sat, 17 Oct 2026.
 
 Narciss is a techno and house artist based in Germany, with 199 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside MALUGI, DJ Gigola and Morphena. Next up: Azimut Club, Turin on Sat 17 Oct.
 
@@ -29,4 +29,4 @@ Narciss is a techno and house artist based in Germany, with 199 gigs on soundche
 
 MALUGI, DJ Gigola, Morphena
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/narciss-de/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/narciss-de/)*

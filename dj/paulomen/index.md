@@ -1,6 +1,6 @@
 # Paul Omen
 
-Paul Omen is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at glimmer, Hamburg on Fri, 16 Oct 2026.
+Paul Omen is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at glimmer, Hamburg on Fri, 16 Oct 2026.
 
 Paul Omen is a house and downtempo artist, with 13 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside ATAVEM, Anton Jonathan and DLV. Next up: glimmer, Hamburg on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Paul Omen is a house and downtempo artist, with 13 gigs on soundcheck across Ber
 
 ATAVEM, Anton Jonathan, DLV
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulomen/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulomen/)*

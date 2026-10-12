@@ -1,6 +1,6 @@
 # Alena
 
-Alena is a Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at R25 Kulturschlachthof, Düsseldorf on Sat, 17 Oct 2026.
+Alena is a Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at R25 Kulturschlachthof, Düsseldorf on Sat, 17 Oct 2026.
 
 Alena is a tech house artist based in Germany, with 4 gigs on soundcheck across Düsseldorf and Prague. Often billed alongside Ansea, Good Mood and Mathias Kaden. Next up: R25 Kulturschlachthof, Düsseldorf on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ Alena is a tech house artist based in Germany, with 4 gigs on soundcheck across 
 
 Ansea, Good Mood, Mathias Kaden
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alena/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alena/)*

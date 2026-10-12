@@ -1,6 +1,6 @@
 # Laima Adelaide
 
-Laima Adelaide is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Rote Sonne, Munich on Fri, 16 Oct 2026.
+Laima Adelaide is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Rote Sonne, Munich on Fri, 16 Oct 2026.
 
 Laima Adelaide is a techno and minimal techno artist based in Germany, with 34 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 14 more. Often billed alongside Nils Edte, Woody92 and Aa Sudd. Next up: Rote Sonne, Munich on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Laima Adelaide is a techno and minimal techno artist based in Germany, with 34 g
 
 Nils Edte, Woody92, Aa Sudd
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laimaadelaide/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laimaadelaide/)*

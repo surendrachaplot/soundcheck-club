@@ -1,6 +1,6 @@
 # Sonia Heis
 
-Sonia Heis is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Sidecar, Barcelona on Sun, 18 Oct 2026.
+Sonia Heis is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Sidecar, Barcelona on Sun, 18 Oct 2026.
 
 Sonia Heis is a house and disco artist based in Spain, with 69 gigs on soundcheck across Barcelona. Often billed alongside PINI, SHAMELESSMUSIC and ANYA. Next up: Sidecar, Barcelona on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Sonia Heis is a house and disco artist based in Spain, with 69 gigs on soundchec
 
 PINI, SHAMELESSMUSIC, ANYA (2)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soniaheis/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soniaheis/)*

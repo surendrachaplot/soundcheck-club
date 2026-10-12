@@ -1,6 +1,6 @@
 # George Vidal
 
-George Vidal is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Thu, 15 Oct 2026.
+George Vidal is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Thu, 15 Oct 2026.
 
 George Vidal is a house and deep house artist based in United States of America, with 15 gigs on soundcheck across Austin, Miami and New York City. Often billed alongside Kike Roldan, Alain Lopez and Danny Tenaglia. Next up: Do Not Sit On The Furniture, Miami on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ George Vidal is a house and deep house artist based in United States of America,
 
 Kike Roldan, Alain Lopez, Danny Tenaglia
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgevidal/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgevidal/)*

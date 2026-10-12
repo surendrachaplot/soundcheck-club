@@ -1,6 +1,6 @@
 # Mai iachetti
 
-Mai iachetti is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Jolene Downtown Miami, Miami on Fri, 16 Oct 2026.
+Mai iachetti is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Jolene Downtown Miami, Miami on Fri, 16 Oct 2026.
 
 Mai iachetti is a house and tech house artist based in United States of America, with 133 gigs on soundcheck across Boston, Buenos Aires, Chicago and Denver and 9 more. Often billed alongside Danyelino, Ms. Mada and Natalia Roth. Next up: Jolene Downtown Miami, Miami on Fri 16 Oct.
 
@@ -31,4 +31,4 @@ Mai iachetti is a house and tech house artist based in United States of America,
 
 Danyelino, Ms. Mada, Natalia Roth
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maiiachetti/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maiiachetti/)*

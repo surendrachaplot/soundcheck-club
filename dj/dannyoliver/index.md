@@ -1,6 +1,6 @@
 # Danny Oliver
 
-Danny Oliver is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Egg London, London on Sat, 17 Oct 2026.
+Danny Oliver is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Egg London, London on Sat, 17 Oct 2026.
 
 Danny Oliver is a house and acid artist based in United Kingdom, with 4 gigs on soundcheck across Ibiza and London. Often billed alongside Alex P, Andy Manston and Arielle. Next up: Egg London, London on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ Danny Oliver is a house and acid artist based in United Kingdom, with 4 gigs on 
 
 Alex P, Andy Manston, Arielle
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyoliver/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyoliver/)*

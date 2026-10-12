@@ -1,14 +1,13 @@
 # renae
 
-renae is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Movement as Meditation" on Sun, 11 Oct 2026.
+renae is a music venue in Manchester with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Polyphonic at T.O.P.P" on Thu, 15 Oct 2026.
 
-renae is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with line-ups including Bruno Bellissimo, Camilla Reghenzi, Coel Haines and Etienne Groh and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
+renae is a music venue in Manchester listed on soundcheck. 6 upcoming gigs, with line-ups including Bruno Bellissimo, Camilla Reghenzi, Coel Haines and Etienne Groh and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Movement as Meditation | Jumbled |
 | Thu, 15 Oct 2026 | Polyphonic at T.O.P.P | Gaka, JustElliot, Matteo Dose |
 | Fri, 16 Oct 2026 | Gelassenheit 4 - EP Release Party At T.O.P.P | KD22LR, Medlock, Tamus |
 | Sat, 24 Oct 2026 | Rhizome in t.o.p.p | Coel Haines, Etienne Groh |
@@ -20,4 +19,4 @@ renae is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with
 
 45-47 Thomas St, Manchester M4 1NA, Manchester
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*

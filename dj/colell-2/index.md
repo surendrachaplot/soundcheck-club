@@ -1,14 +1,13 @@
 # colell
 
-colell is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Todmorden Unitarian Church, North on Fri, 9 Oct 2026.
+colell is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The White Hotel, Manchester on Wed, 4 Nov 2026.
 
-colell is a trance and techno artist based in Spain, with 45 gigs on soundcheck across Barcelona, Berlin, Leeds and Lisbon and 6 more. Often billed alongside HØLEIGH, April (UK) and Medlock. Next up: Todmorden Unitarian Church, North on Fri 9 Oct.
+colell is a trance and techno artist based in Spain, with 45 gigs on soundcheck across Barcelona, Berlin, Leeds and Lisbon and 6 more. Often billed alongside HØLEIGH, April (UK) and Medlock. Next up: The White Hotel, Manchester on Wed 4 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Todmorden Unitarian Church | North |
 | Wed, 4 Nov 2026 | The White Hotel | Manchester |
 
 ## Recently played
@@ -26,4 +25,4 @@ colell is a trance and techno artist based in Spain, with 45 gigs on soundcheck 
 
 HØLEIGH, April (UK), Medlock
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colell-2/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colell-2/)*

@@ -1,6 +1,6 @@
 # La La
 
-La La is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at NX Newcastle, Newcastle on Sat, 21 Nov 2026.
+La La is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at NX Newcastle, Newcastle on Sat, 21 Nov 2026.
 
 La La is a house and techno artist based in United Kingdom, with 150 gigs on soundcheck across Aberdeen, Amsterdam, Bali and Barcelona and 39 more. Often billed alongside AIRKEY, Interplanetary Criminal and Ben Hemsley. Next up: NX Newcastle, Newcastle on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ La La is a house and techno artist based in United Kingdom, with 150 gigs on sou
 
 AIRKEY, Interplanetary Criminal, Ben Hemsley
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lala/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lala/)*

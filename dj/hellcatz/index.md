@@ -1,6 +1,6 @@
 # Hellcatz
 
-Hellcatz is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Astoria, Turin on Fri, 6 Nov 2026.
+Hellcatz is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Astoria, Turin on Fri, 6 Nov 2026.
 
 Hellcatz is a techno and minimal techno artist based in Italy, with 5 gigs on soundcheck across Turin. Often billed alongside Bassik, Brick (US) and Delle Orfane. Next up: Astoria, Turin on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ Hellcatz is a techno and minimal techno artist based in Italy, with 5 gigs on so
 
 Bassik, Brick (US), Delle Orfane
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hellcatz/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hellcatz/)*

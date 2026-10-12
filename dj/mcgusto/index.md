@@ -1,14 +1,15 @@
 # MC Gusto
 
-MC Gusto is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Fri, 30 Oct 2026.
+MC Gusto is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Fri, 30 Oct 2026.
 
-MC Gusto is a drum & bass and jungle artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Brighton, Bristol and Denver and 7 more. Often billed alongside DLR, Minor Forms and Kublai. Next up: TAC (Tottenham Arts Collective), London on Fri 30 Oct.
+MC Gusto is a drum & bass and jungle artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam, Brighton, Bristol and Denver and 7 more. Often billed alongside DLR, Minor Forms and Kublai. Next up: TAC (Tottenham Arts Collective), London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | TAC (Tottenham Arts Collective) | London |
+| Sat, 19 Dec 2026 | TBA - DTLA | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ MC Gusto is a drum & bass and jungle artist based in United Kingdom, with 30 gig
 
 DLR, Minor Forms, Kublai
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcgusto/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcgusto/)*

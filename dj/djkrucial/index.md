@@ -1,6 +1,6 @@
 # djkrucial
 
-djkrucial is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - N Honore & N Milwaukee, Chicago on Sun, 25 Oct 2026.
+djkrucial is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - N Honore & N Milwaukee, Chicago on Sun, 25 Oct 2026.
 
 djkrucial is a house and electro artist, with 5 gigs on soundcheck across Chicago. Often billed alongside Andrew Emil, Boo Williams and CTRLZORA. Next up: TBA - N Honore & N Milwaukee, Chicago on Sun 25 Oct.
 
@@ -21,4 +21,4 @@ djkrucial is a house and electro artist, with 5 gigs on soundcheck across Chicag
 
 Andrew Emil, Boo Williams, CTRLZORA
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkrucial/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkrucial/)*

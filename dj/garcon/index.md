@@ -1,14 +1,13 @@
 # Garçon
 
-Garçon is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at LAUT, Barcelona on Sun, 11 Oct 2026.
+Garçon is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at essaim, Paris on Sat, 17 Oct 2026.
 
-Garçon is a techno and house artist based in Switzerland, with 87 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 26 more. Often billed alongside Agonis, Timnah and Konduku. Next up: LAUT, Barcelona on Sun 11 Oct.
+Garçon is a techno and house artist based in Switzerland, with 87 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 26 more. Often billed alongside Agonis, Timnah and Konduku. Next up: essaim, Paris on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | LAUT | Barcelona |
 | Sat, 17 Oct 2026 | essaim | Paris |
 | Sat, 24 Oct 2026 | ingang | Amsterdam |
 | Fri, 30 Oct 2026 | Macadam | Nantes |
@@ -16,6 +15,7 @@ Garçon is a techno and house artist based in Switzerland, with 87 gigs on sound
 
 ## Recently played
 
+- LAUT, Barcelona · Sun, 11 Oct 2026
 - Ankali & Planeta Za, Prague · Sat, 3 Oct 2026
 - TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland · Fri, 18 Sept 2026
 - Camp Kennybrook, New York City · Thu, 10 Sept 2026
@@ -23,10 +23,9 @@ Garçon is a techno and house artist based in Switzerland, with 87 gigs on sound
 - Lofi, Amsterdam · Sat, 15 Aug 2026
 - RSO.BERLIN, Berlin · Thu, 13 Aug 2026
 - Amsterdamse Bos, Amsterdam · Fri, 31 Jul 2026
-- Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
 
 ## Shares bills with
 
 Agonis, Timnah, Konduku
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garcon/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garcon/)*

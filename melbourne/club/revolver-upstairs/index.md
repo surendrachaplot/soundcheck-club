@@ -1,6 +1,6 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 19 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Tilt Shift Wednesdays" on Wed, 14 Oct 2026.
+Revolver Upstairs is a music venue in Melbourne with 19 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Tilt Shift Wednesdays" on Wed, 14 Oct 2026.
 
 Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 19 upcoming gigs, with line-ups including ADMINISTRATOR, Baldo, Bappy and Bassline and 2 more. See dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
@@ -23,4 +23,4 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 19 upcomin
 
 229 Chapel St, Prahran VIC 3181, Australia, Melbourne
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*

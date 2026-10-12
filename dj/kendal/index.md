@@ -1,6 +1,6 @@
 # Kendal
 
-Kendal is a Italo Disco and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Le Trabendo, Paris on Fri, 16 Oct 2026.
+Kendal is a Italo Disco and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Le Trabendo, Paris on Fri, 16 Oct 2026.
 
 Kendal is an italo disco and techno artist based in France, with 107 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 26 more. Often billed alongside Andi, Miguel De Bois and Belaria. Next up: Le Trabendo, Paris on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Kendal is an italo disco and techno artist based in France, with 107 gigs on sou
 
 Andi, Miguel De Bois, Belaria
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kendal/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kendal/)*

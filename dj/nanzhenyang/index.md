@@ -1,6 +1,6 @@
 # Nanzhen Yang
 
-Nanzhen Yang is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Eutopia Warehouse, London on Fri, 30 Oct 2026.
+Nanzhen Yang is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Eutopia Warehouse, London on Fri, 30 Oct 2026.
 
 Nanzhen Yang is a techno and experimental artist, with 88 gigs on soundcheck across Bangkok, Berlin, Copenhagen and Glasgow and 12 more. Often billed alongside Samantha Togni, Ricardo Castro and Becky Stroke. Next up: Eutopia Warehouse, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Nanzhen Yang is a techno and experimental artist, with 88 gigs on soundcheck acr
 
 Samantha Togni, Ricardo Castro, Becky Stroke
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanzhenyang/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanzhenyang/)*

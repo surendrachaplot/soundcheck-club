@@ -1,6 +1,6 @@
 # The Marlborough Red Room
 
-The Marlborough Red Room is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Blunt Force Sauna ~**free party**~" on Sat, 17 Oct 2026.
+The Marlborough Red Room is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Blunt Force Sauna ~**free party**~" on Sat, 17 Oct 2026.
 
 The Marlborough Red Room is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 26 Langside Avenue, Glasgow, G41 2QS, United Kingdom.
 
@@ -15,4 +15,4 @@ The Marlborough Red Room is a music venue in Glasgow listed on soundcheck. 2 upc
 
 26 Langside Avenue, Glasgow, G41 2QS, United Kingdom, Glasgow
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-marlborough-red-room/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-marlborough-red-room/)*

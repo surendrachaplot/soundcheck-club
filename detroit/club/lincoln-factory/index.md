@@ -1,15 +1,13 @@
 # Lincoln Factory
 
-Lincoln Factory is a music venue in Detroit with 10 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Jazz is Dead presents cortex and adrienne Young" on Sat, 10 Oct 2026.
+Lincoln Factory is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Walker & Royce" on Sat, 17 Oct 2026.
 
-Lincoln Factory is a music venue in Detroit listed on soundcheck. 10 upcoming gigs, with line-ups including Ahadadream, Blake Baxter, Carl Craig and Dasha Rush and 2 more. See dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
+Lincoln Factory is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, with line-ups including Ahadadream, Blake Baxter, Carl Craig and Dasha Rush and 2 more. See dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Jazz is Dead presents cortex and adrienne Young |  |
-| Sun, 11 Oct 2026 | Jazz is Dead presents Cortex with Adrian Younge and J.Rocc |  |
 | Sat, 17 Oct 2026 | Walker & Royce | FENIK, Silverdome Boyz, Walker & Royce |
 | Sat, 24 Oct 2026 | Hamdi | Ahadadream, Hamdi (UK) |
 | Fri, 30 Oct 2026 | Techno City - Devil's Night Edition | Blake Baxter, Kevin Saunderson, OOZE, Patio, Pinto (US), Santonio Echols, The Saunderson Brothers |
@@ -23,4 +21,4 @@ Lincoln Factory is a music venue in Detroit listed on soundcheck. 10 upcoming gi
 
 1331 Holden Street, Detroit, MI 48202, USA, Detroit
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*

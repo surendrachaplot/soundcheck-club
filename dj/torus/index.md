@@ -1,6 +1,6 @@
 # Torus
 
-Torus is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Parallel, Amsterdam on Thu, 22 Oct 2026.
+Torus is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Parallel, Amsterdam on Thu, 22 Oct 2026.
 
 Torus is a house and techno artist based in Netherlands, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside SIGNAL (JP), Evian Christ and Ayana Pattra. Next up: Parallel, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Torus is a house and techno artist based in Netherlands, with 83 gigs on soundch
 
 SIGNAL (JP), Evian Christ, Ayana Pattra
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torus/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torus/)*

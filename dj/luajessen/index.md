@@ -1,18 +1,18 @@
 # Lua Jessen
 
-Lua Jessen is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Forum Station, Barcelona on Sun, 11 Oct 2026.
+Lua Jessen is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Bridge 48, Barcelona on Sat, 17 Oct 2026.
 
-Lua Jessen is a house and tech house artist based in Spain, with 5 gigs on soundcheck across Barcelona. Often billed alongside Mario Chicoli, Nona and GIVIO. Next up: Forum Station, Barcelona on Sun 11 Oct.
+Lua Jessen is a house and tech house artist based in Spain, with 5 gigs on soundcheck across Barcelona. Often billed alongside Mario Chicoli, Nona and GIVIO. Next up: Bridge 48, Barcelona on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Forum Station | Barcelona |
 | Sat, 17 Oct 2026 | Bridge 48 | Barcelona |
 
 ## Recently played
 
+- Forum Station, Barcelona · Sun, 11 Oct 2026
 - Almar Beach Club, Barcelona · Fri, 21 Aug 2026
 - Hola Club Sitges (Cala Vallcarca), Barcelona · Sat, 6 Jun 2026
 - Hola Club Sitges (Cala Vallcarca), Barcelona · Sat, 11 Apr 2026
@@ -21,4 +21,4 @@ Lua Jessen is a house and tech house artist based in Spain, with 5 gigs on sound
 
 Mario Chicoli, Nona (5), GIVIO
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luajessen/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luajessen/)*

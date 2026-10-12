@@ -1,6 +1,6 @@
 # Choi
 
-Choi is a Guaracha and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Barba Azul, Mexico City on Fri, 30 Oct 2026.
+Choi is a Guaracha and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Barba Azul, Mexico City on Fri, 30 Oct 2026.
 
 Choi is a guaracha and techno artist based in Mexico, with 32 gigs on soundcheck across Mexico City. Often billed alongside Amapola Rose, Alexandria (MX) and Santa Bina. Next up: Barba Azul, Mexico City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Choi is a guaracha and techno artist based in Mexico, with 32 gigs on soundcheck
 
 Amapola Rose, Alexandria (MX), Santa Bina
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/choi/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/choi/)*

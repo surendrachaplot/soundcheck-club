@@ -1,6 +1,6 @@
 # Jolie P
 
-Jolie P is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Quarters, Brighton on Fri, 16 Oct 2026.
+Jolie P is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Quarters, Brighton on Fri, 16 Oct 2026.
 
 Jolie P is a jungle and drum & bass artist based in United Kingdom, with 4 gigs on soundcheck across Brighton, Bristol, Manchester and Sheffield. Often billed alongside 2Shy MC, 4am Kru and Alive. Next up: Quarters, Brighton on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ Jolie P is a jungle and drum & bass artist based in United Kingdom, with 4 gigs 
 
 2Shy MC, 4am Kru, Alive
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joliep/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joliep/)*

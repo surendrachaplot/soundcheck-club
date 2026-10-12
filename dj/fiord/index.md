@@ -1,6 +1,6 @@
 # Fiord
 
-Fiord is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
+Fiord is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
 
 Fiord is a techno and progressive house artist, with 4 gigs on soundcheck across Auckland, Los Angeles and Morelos. Often billed alongside Act One, Alex Stein and Antix. Next up: TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat 5 Dec.
 
@@ -20,4 +20,4 @@ Fiord is a techno and progressive house artist, with 4 gigs on soundcheck across
 
 Act One, Alex Stein, Antix
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fiord/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fiord/)*

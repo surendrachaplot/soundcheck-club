@@ -1,6 +1,6 @@
 # Dennis Cruz
 
-Dennis Cruz is a Tech House and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The Garage, Madrid on Sat, 17 Oct 2026.
+Dennis Cruz is a Tech House and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Garage, Madrid on Sat, 17 Oct 2026.
 
 Dennis Cruz is a tech house and house artist based in Spain, with 190 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 45 more. Often billed alongside PAWSA, Marco Carola and ANOTR. Next up: The Garage, Madrid on Sat 17 Oct.
 
@@ -34,4 +34,4 @@ Dennis Cruz is a tech house and house artist based in Spain, with 190 gigs on so
 
 PAWSA, Marco Carola, ANOTR
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*

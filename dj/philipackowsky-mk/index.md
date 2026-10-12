@@ -1,6 +1,6 @@
 # Philip Ackowsky
 
-Philip Ackowsky is a Techno and Minimal Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Flux, Istanbul on Fri, 16 Oct 2026.
+Philip Ackowsky is a Techno and Minimal Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Flux, Istanbul on Fri, 16 Oct 2026.
 
 Philip Ackowsky is a techno and minimal techno artist based in North Macedonia, with 48 gigs on soundcheck across Amsterdam, Ibiza, Istanbul and Malta and 2 more. Often billed alongside Abdy, GRVYWRLD and Marixia. Next up: Flux, Istanbul on Fri 16 Oct.
 
@@ -31,4 +31,4 @@ Philip Ackowsky is a techno and minimal techno artist based in North Macedonia, 
 
 Abdy, GRVYWRLD, Marixia
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philipackowsky-mk/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philipackowsky-mk/)*

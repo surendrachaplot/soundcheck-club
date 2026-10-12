@@ -1,6 +1,6 @@
 # Desay
 
-Desay is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Stage and Radio, Manchester on Fri, 23 Oct 2026.
+Desay is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Stage and Radio, Manchester on Fri, 23 Oct 2026.
 
 Desay is a tech house and house artist based in United Kingdom, with 4 gigs on soundcheck across Manchester. Often billed alongside Groooves, K1ng Arthur and Velasco. Next up: Stage and Radio, Manchester on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ Desay is a tech house and house artist based in United Kingdom, with 4 gigs on s
 
 Groooves, K1ng Arthur, Velasco
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desay/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desay/)*

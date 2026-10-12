@@ -1,6 +1,6 @@
 # Can (8)
 
-Can (8) is a Experimental and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at clubasia, Tokyo on Sun, 25 Oct 2026.
+Can (8) is a Experimental and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at clubasia, Tokyo on Sun, 25 Oct 2026.
 
 Can is an experimental and drum & bass artist based in Japan, with 4 gigs on soundcheck across Tokyo. Often billed alongside Daichi Wago, HALU(Tribal Connection) and Ichiro. Next up: clubasia, Tokyo on Sun 25 Oct.
 
@@ -20,4 +20,4 @@ Can is an experimental and drum & bass artist based in Japan, with 4 gigs on sou
 
 Daichi Wago, HALU(Tribal Connection), Ichiro
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/can-8/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/can-8/)*

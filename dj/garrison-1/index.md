@@ -1,6 +1,6 @@
 # Garrison (1)
 
-Garrison (1) is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - SOMA, San Francisco/Oakland on Sat, 31 Oct 2026.
+Garrison (1) is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - SOMA, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 Garrison is a house and minimal techno artist, with 4 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Louiv, 93FM and Aaron F. Next up: TBA - SOMA, San Francisco/Oakland on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Garrison is a house and minimal techno artist, with 4 gigs on soundcheck across 
 
 Louiv, 93FM, Aaron F
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garrison-1/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garrison-1/)*

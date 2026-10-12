@@ -1,6 +1,6 @@
 # KYOTO
 
-KYOTO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Triangle, Osaka on Fri, 30 Oct 2026.
+KYOTO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Triangle, Osaka on Fri, 30 Oct 2026.
 
 KYOTO is a techno and house artist based in Mexico, with 7 gigs on soundcheck across Barcelona, Budapest and Osaka. Often billed alongside Mylet.Mihail, Yeison M and 0mSv. Next up: Triangle, Osaka on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ KYOTO is a techno and house artist based in Mexico, with 7 gigs on soundcheck ac
 
 Mylet.Mihail, Yeison M, 0mSv
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyoto/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyoto/)*

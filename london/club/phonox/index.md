@@ -1,6 +1,6 @@
 # Phonox
 
-Phonox is a music venue in London with 35 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Anish Kumar, DAR DISKU, DJ Subaru: 4 Fridays at Phonox (16th Oct)" on Fri, 16 Oct 2026.
+Phonox is a music venue in London with 35 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Anish Kumar, DAR DISKU, DJ Subaru: 4 Fridays at Phonox (16th Oct)" on Fri, 16 Oct 2026.
 
 Phonox is a music venue in London listed on soundcheck. 35 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Amy Os, Angel D'lite and Anish Kumar and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
@@ -23,4 +23,4 @@ Phonox is a music venue in London listed on soundcheck. 35 upcoming gigs, with l
 
 418 Brixton Road Brixton London SW9 7AY, London
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*

@@ -1,6 +1,6 @@
 # Talee
 
-Talee is a New Wave and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Time is the new space, Rotterdam on Sat, 17 Oct 2026.
+Talee is a New Wave and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Time is the new space, Rotterdam on Sat, 17 Oct 2026.
 
 Talee is a new wave and electronica artist, with 5 gigs on soundcheck across London and Rotterdam. Often billed alongside Arp Frique, GeraH and Marsman. Next up: Time is the new space, Rotterdam on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ Talee is a new wave and electronica artist, with 5 gigs on soundcheck across Lon
 
 Arp Frique, GeraH, Marsman
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/talee/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/talee/)*

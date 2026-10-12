@@ -1,6 +1,6 @@
 # NANGOBI
 
-NANGOBI is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Radius, Chicago on Fri, 16 Oct 2026.
+NANGOBI is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Radius, Chicago on Fri, 16 Oct 2026.
 
 NANGOBI is a techno and tech house artist based in Uganda, with 6 gigs on soundcheck across Chicago. Often billed alongside ATT1C, Amotik and CRYYM_. Next up: Radius, Chicago on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ NANGOBI is a techno and tech house artist based in Uganda, with 6 gigs on soundc
 
 ATT1C, Amotik, CRYYM_
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nangobi/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nangobi/)*

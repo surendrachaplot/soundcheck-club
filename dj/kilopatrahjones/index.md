@@ -1,8 +1,8 @@
 # Kilopatrah Jones
 
-Kilopatrah Jones is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 17 Oct 2026.
+Kilopatrah Jones is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 17 Oct 2026.
 
-Kilopatrah Jones is a house and techno artist based in United States of America, with 190 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Dee Diggs, Mike Servito and Ron Like Hell. Next up: TBA - East Williamsburg, New York City on Sat 17 Oct.
+Kilopatrah Jones is a house and techno artist based in United States of America, with 191 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Dee Diggs, Mike Servito and Ron Like Hell. Next up: TBA - East Williamsburg, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kilopatrah Jones is a house and techno artist based in United States of America,
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | TBA - East Williamsburg | New York City |
 | Fri, 23 Oct 2026 | Paragon | New York City |
+| Wed, 4 Nov 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 13 Nov 2026 | The Parkside Lounge | New York City |
 | Thu, 19 Nov 2026 | Paragon | New York City |
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
@@ -29,4 +30,4 @@ Kilopatrah Jones is a house and techno artist based in United States of America,
 
 Dee Diggs, Mike Servito, Ron Like Hell
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kilopatrahjones/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kilopatrahjones/)*

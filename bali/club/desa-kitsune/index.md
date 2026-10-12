@@ -1,6 +1,6 @@
 # Desa Kitsune
 
-Desa Kitsune is a music venue in Bali with 11 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Alan Dixon & Autograf" on Tue, 13 Oct 2026.
+Desa Kitsune is a music venue in Bali with 11 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Alan Dixon & Autograf" on Tue, 13 Oct 2026.
 
 Desa Kitsune is a music venue in Bali listed on soundcheck. 11 upcoming gigs, with line-ups including Alan Dixon, Autograf, Baron and Benja and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ Desa Kitsune is a music venue in Bali listed on soundcheck. 11 upcoming gigs, wi
 | Tue, 17 Nov 2026 | Benja | Benja |
 | Tue, 24 Nov 2026 | Franc Fala | Franc Fala |
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/desa-kitsune/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/desa-kitsune/)*

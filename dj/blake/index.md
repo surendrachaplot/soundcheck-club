@@ -1,6 +1,6 @@
 # Blake
 
-Blake is a Progressive House and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA, Sydney on Sat, 17 Oct 2026.
+Blake is a Progressive House and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA, Sydney on Sat, 17 Oct 2026.
 
 Blake is a progressive house and bass artist, with 4 gigs on soundcheck across London, Los Angeles, Melbourne and Sydney. Often billed alongside ANAHITA, Aldonna and Bats. Next up: TBA, Sydney on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ Blake is a progressive house and bass artist, with 4 gigs on soundcheck across L
 
 ANAHITA, Aldonna, Bats
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blake/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blake/)*

@@ -1,6 +1,6 @@
 # Faggy
 
-Faggy is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA, Sydney on Sat, 31 Oct 2026.
+Faggy is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA, Sydney on Sat, 31 Oct 2026.
 
 Faggy is a techno and trance artist, with 4 gigs on soundcheck across Sydney. Often billed alongside Abby, Cat (US) and Ciara. Next up: TBA, Sydney on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Faggy is a techno and trance artist, with 4 gigs on soundcheck across Sydney. Of
 
 Abby, Cat (US), Ciara
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faggy/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faggy/)*

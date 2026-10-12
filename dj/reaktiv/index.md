@@ -1,6 +1,6 @@
 # Reaktiv
 
-Reaktiv is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Astron Club, Athens on Fri, 13 Nov 2026.
+Reaktiv is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Astron Club, Athens on Fri, 13 Nov 2026.
 
 Reaktiv is an electro and techno artist, with 26 gigs on soundcheck across Athens. Often billed alongside Re/Act, Icarus in love and BMSK. Next up: Astron Club, Athens on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Reaktiv is an electro and techno artist, with 26 gigs on soundcheck across Athen
 
 Re/Act, Icarus in love, BMSK
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reaktiv/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reaktiv/)*

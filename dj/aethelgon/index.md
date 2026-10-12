@@ -1,6 +1,6 @@
 # ÆTHELGON
 
-ÆTHELGON is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Pisco Bar, Kuala Lumpur on Fri, 16 Oct 2026.
+ÆTHELGON is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Pisco Bar, Kuala Lumpur on Fri, 16 Oct 2026.
 
 ÆTHELGON is a house and tech house artist based in United Kingdom, with 4 gigs on soundcheck across Bangkok and Kuala Lumpur. Often billed alongside Mizuyo, justfin and Axel Groove. Next up: Pisco Bar, Kuala Lumpur on Fri 16 Oct.
 
@@ -20,4 +20,4 @@
 
 Mizuyo, justfin, Axel Groove
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aethelgon/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aethelgon/)*

@@ -1,6 +1,6 @@
 # Micknasty
 
-Micknasty is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Curveball, Dublin on Sat, 17 Oct 2026.
+Micknasty is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Curveball, Dublin on Sat, 17 Oct 2026.
 
 Micknasty is a house and garage artist, with 5 gigs on soundcheck across Dublin. Often billed alongside Carl Flynn and Myles O’Rourke. Next up: Curveball, Dublin on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ Micknasty is a house and garage artist, with 5 gigs on soundcheck across Dublin.
 
 Carl Flynn, Myles O’Rourke
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/micknasty/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/micknasty/)*

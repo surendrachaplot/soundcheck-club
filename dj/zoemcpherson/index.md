@@ -1,6 +1,6 @@
 # Zoë Mc Pherson
 
-Zoë Mc Pherson is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Klub Attack, Croatia on Thu, 15 Oct 2026.
+Zoë Mc Pherson is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Klub Attack, Croatia on Thu, 15 Oct 2026.
 
 Zoë Mc Pherson is a techno and experimental artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 23 more. Often billed alongside Alessandra Leone, ABADIR and Evian Christ. Next up: Klub Attack, Croatia on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Zoë Mc Pherson is a techno and experimental artist based in United Kingdom, wit
 
 Alessandra Leone, ABADIR, Evian Christ
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoemcpherson/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoemcpherson/)*

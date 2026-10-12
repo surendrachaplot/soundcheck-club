@@ -1,6 +1,6 @@
 # Sodabass
 
-Sodabass is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Kalif Storch, Erfurt on Sat, 7 Nov 2026.
+Sodabass is a electronic artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Kalif Storch, Erfurt on Sat, 7 Nov 2026.
 
 Sodabass is an electronic artist based in Germany, with 2 gigs on soundcheck across Berlin and Erfurt. Often billed alongside 3LEEZA, BENITO (DE) and DJ Achim Feuervogel. Next up: Kalif Storch, Erfurt on Sat 7 Nov.
 
@@ -15,4 +15,4 @@ Sodabass is an electronic artist based in Germany, with 2 gigs on soundcheck acr
 
 3LEEZA, BENITO (DE), DJ Achim Feuervogel
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sodabass/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sodabass/)*

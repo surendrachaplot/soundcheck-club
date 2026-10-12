@@ -1,6 +1,6 @@
 # Razboi
 
-Razboi is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Bike Jesus, Prague on Fri, 23 Oct 2026.
+Razboi is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Bike Jesus, Prague on Fri, 23 Oct 2026.
 
 Razboi is a house and electronica artist based in Spain, with 7 gigs on soundcheck across Madrid and Prague. Often billed alongside Lose Endz, Tania Vulcano and AGELESS. Next up: Bike Jesus, Prague on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Razboi is a house and electronica artist based in Spain, with 7 gigs on soundche
 
 Lose Endz, Tania Vulcano, AGELESS
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/razboi/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/razboi/)*

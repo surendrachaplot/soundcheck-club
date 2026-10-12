@@ -1,17 +1,17 @@
 # Rodriguez Jr.
 
-Rodriguez Jr. is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Finca El Recreo, Cafayate, Salta, Buenos Aires on Sat, 10 Oct 2026.
+Rodriguez Jr. is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Hotel Arena, Amsterdam on Wed, 21 Oct 2026.
 
-Rodriguez Jr. is a house and techno artist based in United States of America, with 134 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 41 more. Often billed alongside Nick Warren, Ralf Kollmann and ARODES. Next up: TBA - Finca El Recreo, Cafayate, Salta, Buenos Aires on Sat 10 Oct.
+Rodriguez Jr. is a house and techno artist based in United States of America, with 135 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 41 more. Often billed alongside Nick Warren, Ralf Kollmann and ARODES. Next up: Hotel Arena, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | TBA - Finca El Recreo, Cafayate, Salta | Buenos Aires |
 | Wed, 21 Oct 2026 | Hotel Arena | Amsterdam |
 | Thu, 22 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 24 Oct 2026 | Kaap Amsterdam | Amsterdam |
+| Sat, 31 Oct 2026 | Cielo Farms Malibu | Los Angeles |
 
 ## Recently played
 
@@ -28,4 +28,4 @@ Rodriguez Jr. is a house and techno artist based in United States of America, wi
 
 Nick Warren, Ralf Kollmann, ARODES
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodriguezjr/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodriguezjr/)*

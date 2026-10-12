@@ -1,6 +1,6 @@
 # La Textil Collective
 
-La Textil Collective is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Backstage sessions: POSSEF" on Thu, 15 Oct 2026.
+La Textil Collective is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Backstage sessions: POSSEF" on Thu, 15 Oct 2026.
 
 La Textil Collective is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs, with line-ups including CMYK, Family Matters and POSSEF. See dates, start times and who's playing. C/ de Casp, 33B, 08010 Barcelona.
 
@@ -17,4 +17,4 @@ La Textil Collective is a music venue in Barcelona listed on soundcheck. 4 upcom
 
 C/ de Casp, 33B, 08010 Barcelona, Barcelona
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-textil-collective/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-textil-collective/)*

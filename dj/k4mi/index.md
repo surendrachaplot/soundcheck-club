@@ -1,6 +1,6 @@
 # k4mi
 
-k4mi is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at MS Treue, Bremen on Sat, 17 Oct 2026.
+k4mi is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at MS Treue, Bremen on Sat, 17 Oct 2026.
 
 k4mi is a techno and trance artist, with 8 gigs on soundcheck across Berlin and Bremen. Often billed alongside Amo (IT), August Kind and Bruno Brero. Next up: MS Treue, Bremen on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ k4mi is a techno and trance artist, with 8 gigs on soundcheck across Berlin and 
 
 Amo (IT), August Kind, Bruno Brero
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k4mi/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k4mi/)*

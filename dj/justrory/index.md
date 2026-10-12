@@ -1,6 +1,6 @@
 # Just Rory
 
-Just Rory is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at 1990, Glasgow on Sat, 24 Oct 2026.
+Just Rory is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at 1990, Glasgow on Sat, 24 Oct 2026.
 
 Just Rory is an italo disco and house artist based in United Kingdom, with 5 gigs on soundcheck across Glasgow. Often billed alongside Anna Gram, Calzo FM and Hayley Zalassi. Next up: 1990, Glasgow on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ Just Rory is an italo disco and house artist based in United Kingdom, with 5 gig
 
 Anna Gram, Calzo FM, Hayley Zalassi
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justrory/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justrory/)*

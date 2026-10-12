@@ -1,6 +1,6 @@
 # NAMA - Nuovo Anfiteatro Martesana
 
-NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Horns & Bricks" on Fri, 16 Oct 2026.
+NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Horns & Bricks" on Fri, 16 Oct 2026.
 
 NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan listed on soundcheck. 5 upcoming gigs, with line-ups including Anna Wall, biased, CCL and Ceephax Acid Crew and 2 more. See dates, start times and who's playing. Parco Martiri della Libertà Iracheni Vittime del Terrorismo 1, 20127 Milano MI Italia.
 
@@ -18,4 +18,4 @@ NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan listed on soundcheck
 
 Parco Martiri della Libertà Iracheni Vittime del Terrorismo 1, 20127 Milano MI Italia, Milan
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/nama-nuovo-anfiteatro-martesana/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/nama-nuovo-anfiteatro-martesana/)*

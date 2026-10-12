@@ -1,6 +1,6 @@
 # LeStrange
 
-LeStrange is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Secret Location, Auckland on Sat, 31 Oct 2026.
+LeStrange is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Secret Location, Auckland on Sat, 31 Oct 2026.
 
 LeStrange is a techno and industrial artist based in Australia, with 81 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 14 more. Often billed alongside I-SO, ART IS HARD and Madsync. Next up: TBA - Secret Location, Auckland on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ LeStrange is a techno and industrial artist based in Australia, with 81 gigs on 
 
 I-SO, ART IS HARD, Madsync
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lestrange/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lestrange/)*

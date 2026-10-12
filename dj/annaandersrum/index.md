@@ -1,6 +1,6 @@
 # anna andersrum
 
-anna andersrum is a Bass and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Gretchen, Berlin on Fri, 20 Nov 2026.
+anna andersrum is a Bass and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Gretchen, Berlin on Fri, 20 Nov 2026.
 
 anna andersrum is a bass and electro artist based in United States of America, with 21 gigs on soundcheck across Berlin, Manchester and Prague. Often billed alongside KaraKara, Linnea Mae and Genoe. Next up: Gretchen, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ anna andersrum is a bass and electro artist based in United States of America, w
 
 KaraKara, Linnea Mae, Genoe
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annaandersrum/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annaandersrum/)*

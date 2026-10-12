@@ -1,6 +1,6 @@
 # MC Fearless
 
-MC Fearless is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at M.O.T, London on Fri, 20 Nov 2026.
+MC Fearless is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at M.O.T, London on Fri, 20 Nov 2026.
 
 MC Fearless is a jungle and drum & bass artist based in United Kingdom, with 13 gigs on soundcheck across Brighton, Bristol, Glasgow and London and 1 more. Often billed alongside DJ Brockie, DJ Rap and IC3. Next up: M.O.T, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ MC Fearless is a jungle and drum & bass artist based in United Kingdom, with 13 
 
 DJ Brockie, DJ Rap, IC3
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcfearless/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcfearless/)*

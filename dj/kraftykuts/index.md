@@ -1,6 +1,6 @@
 # Krafty Kuts
 
-Krafty Kuts is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Brixton Jamm, London on Sat, 31 Oct 2026.
+Krafty Kuts is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Brixton Jamm, London on Sat, 31 Oct 2026.
 
 Krafty Kuts is a breakbeat and house artist based in United Kingdom, with 27 gigs on soundcheck across Auckland, Brighton, Brisbane and Budapest and 7 more. Often billed alongside Plump DJs, Freestylers and Stanton Warriors. Next up: Brixton Jamm, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Krafty Kuts is a breakbeat and house artist based in United Kingdom, with 27 gig
 
 Plump DJs, Freestylers, Stanton Warriors
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kraftykuts/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kraftykuts/)*

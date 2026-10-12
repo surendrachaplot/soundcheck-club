@@ -1,6 +1,6 @@
 # PAULITTAHH
 
-PAULITTAHH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sat, 24 Oct 2026.
+PAULITTAHH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sat, 24 Oct 2026.
 
 PAULITTAHH is a techno and house artist based in Argentina, with 17 gigs on soundcheck across Amsterdam and Madrid. Often billed alongside MILA DUCH, Linda Lenor and CARMESEGUER. Next up: 50:Hertz Club Train, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ PAULITTAHH is a techno and house artist based in Argentina, with 17 gigs on soun
 
 MILA DUCH, Linda Lenor, CARMESEGUER
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulittahh/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulittahh/)*

@@ -1,14 +1,13 @@
 # TBA - Downtown Los Angeles
 
-TBA - Downtown Los Angeles is a music venue in Los Angeles with 10 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Sirens x DX3: Man Power" on Sat, 10 Oct 2026.
+TBA - Downtown Los Angeles is a music venue in Los Angeles with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Certified Groovers: SHROOMIE [Vinyl Set - All Night]" on Sat, 17 Oct 2026.
 
-TBA - Downtown Los Angeles is a music venue in Los Angeles listed on soundcheck. 10 upcoming gigs, with line-ups including Avalon Emerson, Baauer, Bianca Oblivion and Capes and 2 more. See dates, start times and who's playing.
+TBA - Downtown Los Angeles is a music venue in Los Angeles listed on soundcheck. 9 upcoming gigs, with line-ups including Avalon Emerson, Baauer, Bianca Oblivion and Cinthie and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Sirens x DX3: Man Power | Capes, Man Power, SONNS, Tavish |
 | Sat, 17 Oct 2026 | Certified Groovers: SHROOMIE [Vinyl Set - All Night] | DJ Shroomie |
 | Sat, 31 Oct 2026 | Lights Down Low: Rave to the Grave | Avalon Emerson, Corey Sizemore, Effy, Ellen Allien, JOHNNY_HEALTH, Richie Panic, SEXTILE |
 | Sat, 31 Oct 2026 | Giegling in LA (The Halloween Special) |  |
@@ -19,4 +18,4 @@ TBA - Downtown Los Angeles is a music venue in Los Angeles listed on soundcheck.
 | Sat, 28 Nov 2026 | Midnight Lovers with Demi Riquisimo - All Night Long | Demi Riquisimo |
 | Thu, 31 Dec 2026 | CERTIFIED GROOVERS NYE [72 HOURS NONSTOP] |  |
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*

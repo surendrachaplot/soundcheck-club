@@ -1,6 +1,6 @@
 # Acolyte
 
-Acolyte is a Drum & Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Bread & Butter Arch, London on Fri, 23 Oct 2026.
+Acolyte is a Drum & Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Bread & Butter Arch, London on Fri, 23 Oct 2026.
 
 Acolyte is a drum & bass and experimental artist, with 13 gigs on soundcheck across Edinburgh and London. Often billed alongside CATLADY, Kaizah and Zeph Miles. Next up: Bread & Butter Arch, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Acolyte is a drum & bass and experimental artist, with 13 gigs on soundcheck acr
 
 CATLADY, Kaizah, Zeph Miles
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acolyte/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acolyte/)*

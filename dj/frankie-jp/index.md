@@ -1,6 +1,6 @@
 # Frankie $
 
-Frankie $ is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Circus Osaka, Osaka on Sat, 17 Oct 2026.
+Frankie $ is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Circus Osaka, Osaka on Sat, 17 Oct 2026.
 
 Frankie $ is a house and techno artist based in Japan, with 126 gigs on soundcheck across Kyoto, Osaka, Prague and Tbilisi and 1 more. Often billed alongside Al Jones, Hayato Iwaki and YANNY. Next up: Circus Osaka, Osaka on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Frankie $ is a house and techno artist based in Japan, with 126 gigs on soundche
 
 Al Jones, Hayato Iwaki, YANNY (1)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankie-jp/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankie-jp/)*

@@ -1,6 +1,6 @@
 # Luca Elsi
 
-Luca Elsi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Renate, Berlin on Sat, 21 Nov 2026.
+Luca Elsi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Renate, Berlin on Sat, 21 Nov 2026.
 
 Luca Elsi is a house and techno artist based in Italy, with 24 gigs on soundcheck across Berlin, Milan and Prague. Often billed alongside Organza, ilbroccolovolante and Frinda di Lanco. Next up: Renate, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Luca Elsi is a house and techno artist based in Italy, with 24 gigs on soundchec
 
 Organza, ilbroccolovolante, Frinda di Lanco
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaelsi/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaelsi/)*

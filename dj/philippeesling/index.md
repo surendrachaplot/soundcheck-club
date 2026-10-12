@@ -1,6 +1,6 @@
 # Philippe Esling
 
-Philippe Esling is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
+Philippe Esling is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
 
 Philippe Esling is a techno and experimental artist based in France, with 7 gigs on soundcheck across Tokyo. Often billed alongside Kojiro, SuperUser and PEAKING. Next up: Ooba Camping Village, Tokyo on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Philippe Esling is a techno and experimental artist based in France, with 7 gigs
 
 Kojiro, SuperUser, PEAKING
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippeesling/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippeesling/)*

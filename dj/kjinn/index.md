@@ -1,6 +1,6 @@
 # Kjinn
 
-Kjinn is a Dub Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Frame, Dublin on Sun, 25 Oct 2026.
+Kjinn is a Dub Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Frame, Dublin on Sun, 25 Oct 2026.
 
 Kjinn is a dub techno and acid artist, with 19 gigs on soundcheck across Dublin. Often billed alongside hellokt, Dylan Fogarty and Fayeolo. Next up: Frame, Dublin on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Kjinn is a dub techno and acid artist, with 19 gigs on soundcheck across Dublin.
 
 hellokt, Dylan Fogarty, Fayeolo
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kjinn/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kjinn/)*

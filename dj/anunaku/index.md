@@ -1,6 +1,6 @@
 # Anunaku
 
-Anunaku is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Night Tales Loft, London on Sat, 17 Oct 2026.
+Anunaku is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Night Tales Loft, London on Sat, 17 Oct 2026.
 
 Anunaku is a techno and bass artist based in United Kingdom, with 28 gigs on soundcheck across Barcelona, Berlin, Bristol and Chicago and 15 more. Often billed alongside TSVI, Avalon Emerson and Cameo Blush. Next up: Night Tales Loft, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Anunaku is a techno and bass artist based in United Kingdom, with 28 gigs on sou
 
 TSVI, Avalon Emerson, Cameo Blush
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anunaku/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anunaku/)*

@@ -1,6 +1,6 @@
 # IKLECTIK
 
-IKLECTIK is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Atomiser presents: Abstract Concrete, Borough Council, New Puritan Appeal, PopStar" on Thu, 22 Oct 2026.
+IKLECTIK is a music venue in London with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Atomiser presents: Abstract Concrete, Borough Council, New Puritan Appeal, PopStar" on Thu, 22 Oct 2026.
 
 IKLECTIK is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Voldy Moyo. See dates, start times and who's playing. Peckham Levels - 95a Rye Ln, London SE15 4ST.
 
@@ -16,4 +16,4 @@ IKLECTIK is a music venue in London listed on soundcheck. 3 upcoming gigs, with 
 
 Peckham Levels - 95a Rye Ln, London SE15 4ST, London
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/iklectik/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/iklectik/)*

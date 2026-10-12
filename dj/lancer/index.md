@@ -1,6 +1,6 @@
 # Lancer
 
-Lancer is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The Echoplex, Los Angeles on Fri, 6 Nov 2026.
+Lancer is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Echoplex, Los Angeles on Fri, 6 Nov 2026.
 
 Lancer is an electronica and experimental artist, with 8 gigs on soundcheck across Berlin, London, Los Angeles and Manchester. Often billed alongside Felix Lee, Jawnino and Palmistry. Next up: The Echoplex, Los Angeles on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Lancer is an electronica and experimental artist, with 8 gigs on soundcheck acro
 
 Felix Lee, Jawnino, Palmistry
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lancer/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lancer/)*

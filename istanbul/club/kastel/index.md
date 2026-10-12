@@ -1,6 +1,6 @@
 # Kastel
 
-Kastel is a music venue in Istanbul with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "PETHER + BERK IVELIK + YIGIT KORKMAZ + BUSRA ATIK + WAIPONI & MIRIK + many more" on Wed, 14 Oct 2026.
+Kastel is a music venue in Istanbul with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "PETHER + BERK IVELIK + YIGIT KORKMAZ + BUSRA ATIK + WAIPONI & MIRIK + many more" on Wed, 14 Oct 2026.
 
 Kastel is a music venue in Istanbul listed on soundcheck. 7 upcoming gigs, with line-ups including Alican, Asli Kose, Fault and Fuchs and 2 more. See dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
 
@@ -20,4 +20,4 @@ Kastel is a music venue in Istanbul listed on soundcheck. 7 upcoming gigs, with 
 
 Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey, Istanbul
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*

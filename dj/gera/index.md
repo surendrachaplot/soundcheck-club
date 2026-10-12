@@ -1,14 +1,13 @@
 # Gera
 
-Gera is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Departamento, Mexico City on Wed, 7 Oct 2026.
+Gera is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 7 Nov 2026.
 
-Gera is a tech house and house artist based in Canada, with 15 gigs on soundcheck across Bangkok, Barcelona, Berlin and Mexico City and 2 more. Often billed alongside Chiara, Daescu and Nambeh. Next up: Departamento, Mexico City on Wed 7 Oct.
+Gera is a tech house and house artist based in Canada, with 15 gigs on soundcheck across Bangkok, Barcelona, Berlin and Mexico City and 2 more. Often billed alongside Chiara, Daescu and Nambeh. Next up: 303 Audiophile Bar, Barcelona on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 7 Oct 2026 | Departamento | Mexico City |
 | Sat, 7 Nov 2026 | 303 Audiophile Bar | Barcelona |
 
 ## Recently played
@@ -26,4 +25,4 @@ Gera is a tech house and house artist based in Canada, with 15 gigs on soundchec
 
 Chiara, Daescu, Nambeh
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gera/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gera/)*

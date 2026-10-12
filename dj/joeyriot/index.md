@@ -1,6 +1,6 @@
 # Joey Riot
 
-Joey Riot is a Trance and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The Old Firestation, South-east on Sat, 31 Oct 2026.
+Joey Riot is a Trance and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Old Firestation, South-east on Sat, 31 Oct 2026.
 
 Joey Riot is a trance and hardcore artist based in United Kingdom, with 6 gigs on soundcheck across Berlin, Glasgow, Manchester and South East. Often billed alongside DJ Henk, Darren Styles and Florelle. Next up: The Old Firestation, South East on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Joey Riot is a trance and hardcore artist based in United Kingdom, with 6 gigs o
 
 DJ Henk, Darren Styles, Florelle
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeyriot/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeyriot/)*

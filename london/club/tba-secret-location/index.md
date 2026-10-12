@@ -1,6 +1,6 @@
 # TBA - Secret Location
 
-TBA - Secret Location is a music venue in London with 61 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Himmel unter Berlin Vol. III" on Sun, 11 Oct 2026.
+TBA - Secret Location is a music venue in London with 61 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Himmel unter Berlin Vol. III" on Wed, 14 Oct 2026.
 
 TBA - Secret Location is a music venue in London listed on soundcheck. 61 upcoming gigs, with line-ups including .cosm, The AM/AMX, Amnati and Andere and 2 more. See dates, start times and who's playing.
 
@@ -8,7 +8,6 @@ TBA - Secret Location is a music venue in London listed on soundcheck. 61 upcomi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Himmel unter Berlin Vol. III | Andreas Lutz, Kon (FR), Martin Messier, media.tribe |
 | Wed, 14 Oct 2026 | Himmel unter Berlin Vol. III | Andreas Lutz, Kon (FR), Martin Messier, media.tribe |
 | Thu, 15 Oct 2026 | Never Stop Ps Joyce Muniz Live Show Recording & More ✷✦✷✦ | Joyce Muniz |
 | Thu, 15 Oct 2026 | Himmel unter Berlin Vol. III | Andreas Lutz, Kon (FR), Martin Messier, media.tribe |
@@ -18,5 +17,6 @@ TBA - Secret Location is a music venue in London listed on soundcheck. 61 upcomi
 | Fri, 16 Oct 2026 | Himmel unter Berlin Vol. III | Andreas Lutz, Kon (FR), Martin Messier, media.tribe |
 | Fri, 16 Oct 2026 | Ricardo Roessel & Material / ALL NIGHT LONG | Material (1), Ricardo Roessel |
 | Sat, 17 Oct 2026 | Techno In The Park Presents: [AMX] w/ Max Gardner | Max Gardner, The AM/AMX |
+| Sat, 17 Oct 2026 | 2Passo X Diaries Creative // Pop Up Party |  |
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

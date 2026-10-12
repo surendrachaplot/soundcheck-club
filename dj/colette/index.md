@@ -1,6 +1,6 @@
 # Colette
 
-Colette is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 1 Nov 2026.
+Colette is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 1 Nov 2026.
 
 Colette is a house and techno artist based in Australia, with 112 gigs on soundcheck across Chicago, Los Angeles, Marseille and Melbourne and 3 more. Often billed alongside Lewis Cancut, DJ JNETT and 3rd Orbit. Next up: Revolver Upstairs, Melbourne on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Colette is a house and techno artist based in Australia, with 112 gigs on soundc
 
 Lewis Cancut, DJ JNETT, 3rd Orbit
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colette/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colette/)*

@@ -1,6 +1,6 @@
 # Rasi Z
 
-Rasi Z is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - The O Lounge, Washington DC on Fri, 23 Oct 2026.
+Rasi Z is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - The O Lounge, Washington DC on Fri, 23 Oct 2026.
 
 Rasi Z is a house and deep house artist based in Canada, with 33 gigs on soundcheck across Amsterdam, Los Angeles, Miami and Montreal and 4 more. Often billed alongside Raw Main, El Mundo and Lupe Republic. Next up: TBA - The O Lounge, Washington DC on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Rasi Z is a house and deep house artist based in Canada, with 33 gigs on soundch
 
 Raw Main, El Mundo, Lupe Republic
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rasiz/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rasiz/)*

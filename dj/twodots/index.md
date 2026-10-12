@@ -1,6 +1,6 @@
 # Two Dots
 
-Two Dots is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Interference, Toulouse on Sat, 17 Oct 2026.
+Two Dots is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Interference, Toulouse on Sat, 17 Oct 2026.
 
 Two Dots is a techno and trance artist based in United Kingdom, with 13 gigs on soundcheck across Berlin, Geneva, Hong Kong and Paris and 2 more. Often billed alongside Florian Picasso, Alex Nantaya and The Chronics. Next up: Interference, Toulouse on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Two Dots is a techno and trance artist based in United Kingdom, with 13 gigs on 
 
 Florian Picasso, Alex Nantaya, The Chronics
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twodots/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twodots/)*

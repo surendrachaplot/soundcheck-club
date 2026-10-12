@@ -1,6 +1,6 @@
 # Sin É
 
-Sin É is a music venue in Dublin with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Being Sarah's basement Ft: Unit Two Zero" on Sat, 17 Oct 2026.
+Sin É is a music venue in Dublin with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Being Sarah's basement Ft: Unit Two Zero" on Sat, 17 Oct 2026.
 
 Sin É is a music venue in Dublin listed on soundcheck. 5 upcoming gigs, with line-ups including Trontsephore. See dates, start times and who's playing. 14-15 Upper Ormond Quay, Dublin, Ireland.
 
@@ -18,4 +18,4 @@ Sin É is a music venue in Dublin listed on soundcheck. 5 upcoming gigs, with li
 
 14-15 Upper Ormond Quay, Dublin, Ireland, Dublin
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/sin/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/sin/)*

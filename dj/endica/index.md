@@ -1,6 +1,6 @@
 # Endica
 
-Endica is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
+Endica is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
 
 Endica is a techno and trance artist based in Spain, with 4 gigs on soundcheck across Amsterdam, Berlin and Valencia. Often billed alongside Marí Kozlovska, Patrick Scuro and Alex Xandra. Next up: 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu 22 Oct.
 
@@ -20,4 +20,4 @@ Endica is a techno and trance artist based in Spain, with 4 gigs on soundcheck a
 
 Marí Kozlovska, Patrick Scuro, Alex Xandra
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/endica/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/endica/)*

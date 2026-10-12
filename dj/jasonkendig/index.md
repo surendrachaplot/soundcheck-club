@@ -1,14 +1,13 @@
 # Jason Kendig
 
-Jason Kendig is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
+Jason Kendig is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Bourbon On Division, Chicago on Sat, 31 Oct 2026.
 
-Jason Kendig is a techno and house artist based in United States of America, with 79 gigs on soundcheck across Bali, Berlin, Chicago and Detroit and 13 more. Often billed alongside Kilopatrah Jones, Auspex and Cosmo (NY). Next up: Bassiani, Tbilisi on Fri 9 Oct.
+Jason Kendig is a techno and house artist based in United States of America, with 79 gigs on soundcheck across Bali, Berlin, Chicago and Detroit and 13 more. Often billed alongside Kilopatrah Jones, Auspex and Cosmo (NY). Next up: Bourbon On Division, Chicago on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 | Sat, 31 Oct 2026 | Bourbon On Division | Chicago |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 
@@ -27,4 +26,4 @@ Jason Kendig is a techno and house artist based in United States of America, wit
 
 Kilopatrah Jones, Auspex, Cosmo (NY)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonkendig/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonkendig/)*

@@ -1,6 +1,6 @@
 # Swain
 
-Swain is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Pavilon, Budapest on Thu, 15 Oct 2026.
+Swain is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Pavilon, Budapest on Thu, 15 Oct 2026.
 
 Swain is a techno and house artist based in Hungary, with 6 gigs on soundcheck across Budapest, Seoul and Sydney. Often billed alongside Oliver SCH, JINJU and Ben Dover. Next up: Pavilon, Budapest on Thu 15 Oct.
 
@@ -22,4 +22,4 @@ Swain is a techno and house artist based in Hungary, with 6 gigs on soundcheck a
 
 Oliver SCH, JINJU, Ben Dover
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swain/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swain/)*

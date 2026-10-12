@@ -1,18 +1,18 @@
 # Crusy
 
-Crusy is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Chinois Ibiza, Ibiza on Sun, 11 Oct 2026.
+Crusy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at KOKO, London on Sat, 14 Nov 2026.
 
-Crusy is a house and tech house artist based in Spain, with 36 gigs on soundcheck across Boston, Chicago, Detroit and Ibiza and 12 more. Often billed alongside Tony Romera, Claptone and AAfrAA. Next up: Chinois Ibiza, Ibiza on Sun 11 Oct.
+Crusy is a house and tech house artist based in Spain, with 36 gigs on soundcheck across Boston, Chicago, Detroit and Ibiza and 12 more. Often billed alongside Tony Romera, Claptone and AAfrAA. Next up: KOKO, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Chinois Ibiza | Ibiza |
 | Sat, 14 Nov 2026 | KOKO | London |
 
 ## Recently played
 
+- Chinois Ibiza, Ibiza · Sun, 11 Oct 2026
 - Marina Bay Sands, Singapore · Fri, 9 Oct 2026
 - LAB theCLUB, Madrid · Sat, 3 Oct 2026
 - Hï Ibiza, Ibiza · Thu, 20 Aug 2026
@@ -20,10 +20,9 @@ Crusy is a house and tech house artist based in Spain, with 36 gigs on soundchec
 - Coda, Toronto · Sun, 2 Aug 2026
 - Night We Met, Nashville · Sat, 1 Aug 2026
 - Eden, Ibiza · Thu, 30 Jul 2026
-- Superior Ingredients, New York City · Sun, 19 Jul 2026
 
 ## Shares bills with
 
 Tony Romera, Claptone, AAfrAA
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crusy/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crusy/)*

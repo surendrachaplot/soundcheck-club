@@ -1,6 +1,6 @@
 # Juice
 
-Juice is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "Juice presents Milch & Vjollça" on Sat, 17 Oct 2026.
+Juice is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "Juice presents Milch & Vjollça" on Sat, 17 Oct 2026.
 
 Juice is a music venue in Toronto listed on soundcheck. 1 upcoming gig, with line-ups including Milch and Vjollca. See dates, start times and who's playing. 426 Ossington Ave, Toronto, ON M6J 3A7.
 
@@ -14,4 +14,4 @@ Juice is a music venue in Toronto listed on soundcheck. 1 upcoming gig, with lin
 
 426 Ossington Ave, Toronto, ON M6J 3A7, Toronto
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/juice/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/juice/)*

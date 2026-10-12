@@ -1,6 +1,6 @@
 # COULIN
 
-COULIN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 30 Oct 2026.
+COULIN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 30 Oct 2026.
 
 COULIN is a house and techno artist based in Argentina, with 14 gigs on soundcheck across Barcelona. Often billed alongside Aleski, Mimiq and Ana Alves. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ COULIN is a house and techno artist based in Argentina, with 14 gigs on soundche
 
 Aleski, Mimiq, Ana Alves
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coulin/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coulin/)*

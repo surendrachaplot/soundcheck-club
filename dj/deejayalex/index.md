@@ -1,6 +1,6 @@
 # deejay alex
 
-deejay alex is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The Lido, Vancouver on Wed, 14 Oct 2026.
+deejay alex is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Lido, Vancouver on Wed, 14 Oct 2026.
 
 deejay alex is a house and techno artist based in Canada, with 4 gigs on soundcheck across Vancouver. Often billed alongside Big Zen, 2flowers and Bobby Draino. Next up: The Lido, Vancouver on Wed 14 Oct.
 
@@ -20,4 +20,4 @@ deejay alex is a house and techno artist based in Canada, with 4 gigs on soundch
 
 Big Zen, 2flowers, Bobby Draino
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deejayalex/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deejayalex/)*

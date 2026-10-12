@@ -1,6 +1,6 @@
 # Abbotsford Convent
 
-Abbotsford Convent is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "CONFIDE & LUNA Blessings ✽ A Queer Spring Awakening III" on Sat, 14 Nov 2026.
+Abbotsford Convent is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "CONFIDE & LUNA Blessings ✽ A Queer Spring Awakening III" on Sat, 14 Nov 2026.
 
 Abbotsford Convent is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including Aquenta, Ayebatonye, Caucasian Opportunities and Dashé and 2 more. See dates, start times and who's playing. 1 St Heliers St, Abbotsford VIC 3067.
 
@@ -14,4 +14,4 @@ Abbotsford Convent is a music venue in Melbourne listed on soundcheck. 1 upcomin
 
 1 St Heliers St, Abbotsford VIC 3067, Melbourne
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/abbotsford-convent/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/abbotsford-convent/)*

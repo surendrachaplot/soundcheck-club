@@ -1,6 +1,6 @@
 # Zwi
 
-Zwi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Unmute, Hanoi on Fri, 16 Oct 2026.
+Zwi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Unmute, Hanoi on Fri, 16 Oct 2026.
 
 Zwi is a house and techno artist based in Russia, with 19 gigs on soundcheck across Bali, Bangkok, Hanoi and Ho Chi Minh City and 4 more. Often billed alongside CONG, Di Linh and Ouissam. Next up: Unmute, Hanoi on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Zwi is a house and techno artist based in Russia, with 19 gigs on soundcheck acr
 
 CONG, Di Linh, Ouissam
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zwi/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zwi/)*

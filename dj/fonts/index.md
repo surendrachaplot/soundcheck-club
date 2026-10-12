@@ -1,13 +1,14 @@
 # Fonts
 
-Fonts is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Saloon, Tokyo on Sat, 14 Nov 2026.
+Fonts is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Fri, 23 Oct 2026.
 
-Fonts is a drum & bass and bass artist based in United Kingdom, with 25 gigs on soundcheck across London and Tokyo. Often billed alongside A to C, Azumai and SAKO. Next up: Saloon, Tokyo on Sat 14 Nov.
+Fonts is a drum & bass and bass artist based in United Kingdom, with 26 gigs on soundcheck across London and Tokyo. Often billed alongside A to C, Azumai and SAKO. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | UTOPIA / DYSTOPIA | Tokyo |
 | Sat, 14 Nov 2026 | Saloon | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ Fonts is a drum & bass and bass artist based in United Kingdom, with 25 gigs on 
 
 A to C, Azumai, SAKO
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fonts/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fonts/)*

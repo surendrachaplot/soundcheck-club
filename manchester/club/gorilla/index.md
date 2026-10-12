@@ -1,6 +1,6 @@
 # Gorilla
 
-Gorilla is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Brainiac presents: Napes & DJ Flight" on Sat, 17 Oct 2026.
+Gorilla is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Brainiac presents: Napes & DJ Flight" on Sat, 17 Oct 2026.
 
 Gorilla is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, with line-ups including alterum, Amelia Leigh, Aries and Compulsive Leia and 2 more. See dates, start times and who's playing. 54-56 Whitworth St West, Manchester, M1 5WW, United Kingdom.
 
@@ -18,4 +18,4 @@ Gorilla is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, wi
 
 54-56 Whitworth St West, Manchester, M1 5WW, United Kingdom, Manchester
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/gorilla/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/gorilla/)*

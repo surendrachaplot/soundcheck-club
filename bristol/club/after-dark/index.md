@@ -1,6 +1,6 @@
 # After Dark
 
-After Dark is a music venue in Bristol with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "After Dark presents.. Ibiza Classics with Pooley, MACE, Jack Bobby" on Fri, 16 Oct 2026.
+After Dark is a music venue in Bristol with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "After Dark presents.. Ibiza Classics with Pooley, MACE, Jack Bobby" on Fri, 16 Oct 2026.
 
 After Dark is a music venue in Bristol listed on soundcheck. 4 upcoming gigs, with line-ups including Griff, Hayliegh, Jakobin and MACE and 1 more. See dates, start times and who's playing. Crusader House, 12 St Stephen's St, Bristol BS1 1EL.
 
@@ -17,4 +17,4 @@ After Dark is a music venue in Bristol listed on soundcheck. 4 upcoming gigs, wi
 
 Crusader House, 12 St Stephen's St, Bristol BS1 1EL, Bristol
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/after-dark/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/after-dark/)*

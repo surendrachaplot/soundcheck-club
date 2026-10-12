@@ -1,14 +1,13 @@
 # Demi Riquisimo
 
-Demi Riquisimo is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 11 Oct 2026.
+Demi Riquisimo is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Smoke & Mirrors, Chicago on Sat, 17 Oct 2026.
 
-Demi Riquisimo is a house and techno artist based in United Kingdom, with 184 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 51 more. Often billed alongside Lulah Francs, DJ Tennis and Enzo Siragusa. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 11 Oct.
+Demi Riquisimo is a house and techno artist based in United Kingdom, with 184 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 51 more. Often billed alongside Lulah Francs, DJ Tennis and Enzo Siragusa. Next up: Smoke & Mirrors, Chicago on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Sat, 17 Oct 2026 | Smoke & Mirrors | Chicago |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Thu, 22 Oct 2026 | Madam | Amsterdam |
@@ -23,6 +22,7 @@ Demi Riquisimo is a house and techno artist based in United Kingdom, with 184 gi
 
 ## Recently played
 
+- Piknic Électronik / Parc Jean Drapeau, Montreal · Sun, 11 Oct 2026
 - TBA, New York City · Sat, 10 Oct 2026
 - Open Air Club, New York City · Sat, 10 Oct 2026
 - Outer Heaven, New York City · Sat, 10 Oct 2026
@@ -30,10 +30,9 @@ Demi Riquisimo is a house and techno artist based in United Kingdom, with 184 gi
 - UNO MALTA, Malta · Fri, 18 Sept 2026
 - Lofi, Amsterdam · Sat, 12 Sept 2026
 - Culture Box, Copenhagen · Sat, 5 Sept 2026
-- La Terrrazza, Barcelona · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Lulah Francs, DJ Tennis, Enzo Siragusa
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demiriquisimo/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demiriquisimo/)*

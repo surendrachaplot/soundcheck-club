@@ -1,6 +1,6 @@
 # Zinkbad Eventhalle
 
-Zinkbad Eventhalle is a music venue in Zurich with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "STELLARPULSE × ENERGETICA" on Sat, 24 Oct 2026.
+Zinkbad Eventhalle is a music venue in Zurich with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "STELLARPULSE × ENERGETICA" on Sat, 24 Oct 2026.
 
 Zinkbad Eventhalle is a music venue in Zurich listed on soundcheck. 5 upcoming gigs, with line-ups including DJ DRECKISCH, DJ Hyperdrive, Greg G and HiTMiLØW and 2 more. See dates, start times and who's playing. Geerenweg 2, 8048 Zürich, Schweiz.
 
@@ -18,4 +18,4 @@ Zinkbad Eventhalle is a music venue in Zurich listed on soundcheck. 5 upcoming g
 
 Geerenweg 2, 8048 Zürich, Schweiz, Zurich
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zinkbad-eventhalle/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zinkbad-eventhalle/)*

@@ -1,6 +1,6 @@
 # Villem
 
-Villem is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Loso, Richmond on Sat, 17 Oct 2026.
+Villem is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Loso, Richmond on Sat, 17 Oct 2026.
 
 Villem is a drum & bass and jungle artist based in United Kingdom, with 16 gigs on soundcheck across Boston, Bristol, Denver and Los Angeles and 6 more. Often billed alongside MC Ridda, BCee and BRAIN. Next up: Loso, Richmond on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Villem is a drum & bass and jungle artist based in United Kingdom, with 16 gigs 
 
 MC Ridda, BCee, BRAIN
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/villem/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/villem/)*

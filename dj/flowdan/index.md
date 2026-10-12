@@ -1,6 +1,6 @@
 # Flowdan
 
-Flowdan is a Bass and Garage artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Concorde 2, Brighton on Fri, 16 Oct 2026.
+Flowdan is a Bass and Garage artist with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Concorde 2, Brighton on Fri, 16 Oct 2026.
 
 Flowdan is a bass and garage artist based in United Kingdom, with 118 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside Neffa-T, The Bug and Sammy Virji. Next up: Concorde 2, Brighton on Fri 16 Oct.
 
@@ -31,4 +31,4 @@ Flowdan is a bass and garage artist based in United Kingdom, with 118 gigs on so
 
 Neffa-T, The Bug, Sammy Virji
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flowdan/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flowdan/)*

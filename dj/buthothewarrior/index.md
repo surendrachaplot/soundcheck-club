@@ -1,6 +1,6 @@
 # ButhoTheWarrior
 
-ButhoTheWarrior is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Sub Club, Glasgow on Sat, 17 Oct 2026.
+ButhoTheWarrior is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Sub Club, Glasgow on Sat, 17 Oct 2026.
 
 ButhoTheWarrior is a house and disco artist based in United Kingdom, with 67 gigs on soundcheck across Dundee, Edinburgh, Glasgow and London. Often billed alongside Optimistic Soul, ELANDA and Harri & Domenic. Next up: Sub Club, Glasgow on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ ButhoTheWarrior is a house and disco artist based in United Kingdom, with 67 gig
 
 Optimistic Soul, ELANDA, Harri & Domenic
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buthothewarrior/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buthothewarrior/)*

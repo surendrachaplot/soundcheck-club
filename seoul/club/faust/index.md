@@ -1,6 +1,6 @@
 # Faust
 
-Faust is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "INVITES: EMAN" on Fri, 16 Oct 2026.
+Faust is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "INVITES: EMAN" on Fri, 16 Oct 2026.
 
 Faust is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line-ups including Cristian Marras, Dadachoe, DARIMI TABLE and EMAN (FR) and 2 more. See dates, start times and who's playing. 3F, 127-15, Itaewon, Yongsan, Seoul 04406, South Korea.
 
@@ -17,4 +17,4 @@ Faust is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line
 
 3F, 127-15, Itaewon, Yongsan, Seoul 04406, South Korea, Seoul
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/faust/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/faust/)*

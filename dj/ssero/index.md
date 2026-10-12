@@ -1,6 +1,6 @@
 # Ssero
 
-Ssero is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Privat Mataró, Barcelona on Sat, 17 Oct 2026.
+Ssero is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Privat Mataró, Barcelona on Sat, 17 Oct 2026.
 
 Ssero is a tech house and house artist based in Spain, with 26 gigs on soundcheck across Barcelona, Hamburg, Ibiza and Lisbon and 2 more. Often billed alongside Abdon, Pau Guilera and BizZa. Next up: Privat Mataró, Barcelona on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Ssero is a tech house and house artist based in Spain, with 26 gigs on soundchec
 
 Abdon, Pau Guilera, BizZa
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ssero/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ssero/)*

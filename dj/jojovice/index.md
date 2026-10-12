@@ -1,6 +1,6 @@
 # Jojo Vice
 
-Jojo Vice is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Legal, Munich on Sat, 17 Oct 2026.
+Jojo Vice is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Legal, Munich on Sat, 17 Oct 2026.
 
 Jojo Vice is a house and techno artist, with 27 gigs on soundcheck across Berlin, Leipzig, Munich and Nürnberg and 1 more. Often billed alongside Lavandonia, Andi Britz and André Dancekowski. Next up: Legal, Munich on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Jojo Vice is a house and techno artist, with 27 gigs on soundcheck across Berlin
 
 Lavandonia, Andi Britz, André Dancekowski
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jojovice/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jojovice/)*

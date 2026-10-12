@@ -1,6 +1,6 @@
 # Mha iri
 
-Mha iri is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
+Mha iri is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
 
 Mha iri is a techno and trance artist based in United Kingdom, with 110 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 39 more. Often billed alongside Eli Brown, Joyhauser and Lilly Palmer. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ Mha iri is a techno and trance artist based in United Kingdom, with 110 gigs on 
 
 Eli Brown, Joyhauser, Lilly Palmer
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mhairi/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mhairi/)*

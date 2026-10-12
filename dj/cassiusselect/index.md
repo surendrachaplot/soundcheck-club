@@ -1,6 +1,6 @@
 # Cassius Select
 
-Cassius Select is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Downtown, Los Angeles on Thu, 15 Oct 2026.
+Cassius Select is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Downtown, Los Angeles on Thu, 15 Oct 2026.
 
 Cassius Select is a club and techno artist, with 30 gigs on soundcheck across Berlin, Brussels, Hamburg and Kyoto and 7 more. Often billed alongside DJ Plead, Alys and Monstera Black. Next up: TBA - Downtown, Los Angeles on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Cassius Select is a club and techno artist, with 30 gigs on soundcheck across Be
 
 DJ Plead, Alys, Monstera Black
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassiusselect/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassiusselect/)*

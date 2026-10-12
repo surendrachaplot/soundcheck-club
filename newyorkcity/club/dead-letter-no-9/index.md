@@ -1,14 +1,13 @@
 # Dead Letter No. 9
 
-Dead Letter No. 9 is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Open Decks + Industry Night - Dead Letter No.9" on Sun, 11 Oct 2026.
+Dead Letter No. 9 is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Jean d'Armes, Lord Fascinator, Laura Lynn, Mr. Handyman - Dead Letter No.9" on Fri, 16 Oct 2026.
 
-Dead Letter No. 9 is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including Acid Mama, Bea Hardy, beewack and boyyyish and 2 more. See dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
+Dead Letter No. 9 is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including Acid Mama, Bea Hardy, beewack and boyyyish and 2 more. See dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Open Decks + Industry Night - Dead Letter No.9 |  |
 | Fri, 16 Oct 2026 | Jean d'Armes, Lord Fascinator, Laura Lynn, Mr. Handyman - Dead Letter No.9 | Laura Lynn, Lord Fascinator |
 | Sat, 17 Oct 2026 | Peter Napoli, Prince Rose, Clubsásta: Nasti & Ru Mac, Rich Rotas - Dead Letter No.9 | Peter Napoli, Prince Rose, Rich Rotas |
 | Thu, 22 Oct 2026 | Ultra Violet, La Máquina del Tiempo - Dead Letter No.9 | DJ Ultra Violet |
@@ -21,4 +20,4 @@ Dead Letter No. 9 is a music venue in New York City listed on soundcheck. 8 upco
 
 63 Grand St, Brooklyn, NY 11249, USA, New York City
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*

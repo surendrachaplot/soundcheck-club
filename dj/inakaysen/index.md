@@ -1,14 +1,13 @@
 # Ina Kaysen
 
-Ina Kaysen is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Buda BXL, Brussels on Sat, 10 Oct 2026.
+Ina Kaysen is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Funke, Ghent on Fri, 16 Oct 2026.
 
-Ina Kaysen is a techno and trance artist based in Belgium, with 13 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside Ampe, Bobbi Watson and Domi (FR). Next up: Buda BXL, Brussels on Sat 10 Oct.
+Ina Kaysen is a techno and trance artist based in Belgium, with 13 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside Ampe, Bobbi Watson and Domi (FR). Next up: Funke, Ghent on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Buda BXL | Brussels |
 | Fri, 16 Oct 2026 | Funke | Ghent |
 
 ## Recently played
@@ -26,4 +25,4 @@ Ina Kaysen is a techno and trance artist based in Belgium, with 13 gigs on sound
 
 Ampe, Bobbi Watson, Domi (FR)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inakaysen/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inakaysen/)*

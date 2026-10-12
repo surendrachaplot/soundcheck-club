@@ -1,6 +1,6 @@
 # Emma B
 
-Emma B is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
+Emma B is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
 
 Emma B is a house and techno artist based in France, with 100 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 25 more. Often billed alongside Deborah Aime La Bagarre, Baccus and Solah. Next up: Thuishaven, Amsterdam on Fri 23 Oct.
 
@@ -30,4 +30,4 @@ Emma B is a house and techno artist based in France, with 100 gigs on soundcheck
 
 Deborah Aime La Bagarre, Baccus, Solah
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmab/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmab/)*

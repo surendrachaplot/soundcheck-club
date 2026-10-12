@@ -1,14 +1,13 @@
 # Part Time Killer
 
-Part Time Killer is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+Part Time Killer is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Sonora Bordeaux, Bordeaux on Fri, 16 Oct 2026.
 
-Part Time Killer is a techno and trance artist based in Germany, with 171 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 36 more. Often billed alongside Frederic., KLING&KLANG and CAIVA. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
+Part Time Killer is a techno and trance artist based in Germany, with 171 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 36 more. Often billed alongside Frederic., KLING&KLANG and CAIVA. Next up: Sonora Bordeaux, Bordeaux on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 | Fri, 16 Oct 2026 | Sonora Bordeaux | Bordeaux |
 | Fri, 16 Oct 2026 | Parc des Expositions de Bordeaux lac | Bordeaux |
 | Sat, 17 Oct 2026 | De Flesjesfabriek | Ghent |
@@ -36,4 +35,4 @@ Part Time Killer is a techno and trance artist based in Germany, with 171 gigs o
 
 Frederic., KLING&KLANG, CAIVA
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parttimekiller/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parttimekiller/)*

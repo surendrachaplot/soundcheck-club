@@ -1,6 +1,6 @@
 # MiNNA
 
-MiNNA is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at NX Newcastle, Newcastle on Fri, 23 Oct 2026.
+MiNNA is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at NX Newcastle, Newcastle on Fri, 23 Oct 2026.
 
 MiNNA is a house and disco artist based in United Kingdom, with 151 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bristol and 24 more. Often billed alongside Kirollus, Dan Shake and Horse Meat Disco. Next up: NX Newcastle, Newcastle on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ MiNNA is a house and disco artist based in United Kingdom, with 151 gigs on soun
 
 Kirollus, Dan Shake, Horse Meat Disco
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-2/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-2/)*

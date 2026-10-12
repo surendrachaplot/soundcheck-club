@@ -1,18 +1,18 @@
 # Royce Larøca
 
-Royce Larøca is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Warehouse on Watts, Philadelphia on Sun, 11 Oct 2026.
+Royce Larøca is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Fri, 30 Oct 2026.
 
-Royce Larøca is a house and minimal artist based in Brazil, with 71 gigs on soundcheck across Dublin, Lisbon, London and Paris and 1 more. Often billed alongside Waximum, Hera (IE) and RealTalks Soundsystem. Next up: Warehouse on Watts, Philadelphia on Sun 11 Oct.
+Royce Larøca is a house and minimal artist based in Brazil, with 71 gigs on soundcheck across Dublin, Lisbon, London and Paris and 1 more. Often billed alongside Waximum, Hera (IE) and RealTalks Soundsystem. Next up: Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Warehouse on Watts | Philadelphia |
 | Fri, 30 Oct 2026 | Bad Bobs (Rooftop Terrace), Temple Bar | Dublin |
 
 ## Recently played
 
+- Warehouse on Watts, Philadelphia · Sun, 11 Oct 2026
 - Pawn Shop, Dublin · Wed, 2 Sept 2026
 - Yamamori Tengu, Dublin · Sat, 29 Aug 2026
 - Pawn Shop, Dublin · Fri, 21 Aug 2026
@@ -20,10 +20,9 @@ Royce Larøca is a house and minimal artist based in Brazil, with 71 gigs on sou
 - Wax Bar, Paris · Fri, 24 Jul 2026
 - Bad Bobs (Rooftop Terrace), Temple Bar, Dublin · Sat, 4 Jul 2026
 - Yamamori Tengu, Dublin · Sat, 13 Jun 2026
-- Pawn Shop, Dublin · Sun, 31 May 2026
 
 ## Shares bills with
 
 Waximum, Hera (IE), RealTalks Soundsystem
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roycelaroca/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roycelaroca/)*

@@ -1,8 +1,8 @@
 # Dexon
 
-Dexon is a Techno and Minimal artist with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Melkweg, Amsterdam on Tue, 13 Oct 2026.
+Dexon is a Techno and Minimal artist with 13 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Melkweg, Amsterdam on Tue, 13 Oct 2026.
 
-Dexon is a techno and minimal artist based in Netherlands, with 197 gigs on soundcheck across Amsterdam. Often billed alongside Dauphin Åka, Inez Akker and Jayzo. Next up: Melkweg, Amsterdam on Tue 13 Oct.
+Dexon is a techno and minimal artist based in Netherlands, with 202 gigs on soundcheck across Amsterdam. Often billed alongside Dauphin Åka, Inez Akker and Jayzo. Next up: Melkweg, Amsterdam on Tue 13 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,10 @@ Dexon is a techno and minimal artist based in Netherlands, with 197 gigs on soun
 | Tue, 10 Nov 2026 | Melkweg | Amsterdam |
 | Tue, 17 Nov 2026 | Melkweg | Amsterdam |
 | Tue, 24 Nov 2026 | Melkweg | Amsterdam |
+| Tue, 1 Dec 2026 | Melkweg | Amsterdam |
+| Tue, 8 Dec 2026 | Melkweg | Amsterdam |
+| Tue, 15 Dec 2026 | Melkweg | Amsterdam |
+| Tue, 22 Dec 2026 | Melkweg | Amsterdam |
 
 ## Recently played
 
@@ -32,4 +36,4 @@ Dexon is a techno and minimal artist based in Netherlands, with 197 gigs on soun
 
 Dauphin Åka, Inez Akker, Jayzo
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dexon/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dexon/)*

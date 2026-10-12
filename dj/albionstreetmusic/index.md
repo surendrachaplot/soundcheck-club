@@ -1,6 +1,6 @@
 # Albion Street Music
 
-Albion Street Music is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Club Waziema, San Francisco/Oakland on Fri, 16 Oct 2026.
+Albion Street Music is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Club Waziema, San Francisco/Oakland on Fri, 16 Oct 2026.
 
 Albion Street Music is a deep house and house artist based in United States of America, with 11 gigs on soundcheck across Budapest, London and San Francisco/Oakland. Often billed alongside Monoclick, Alexia and Alicia (UK). Next up: Club Waziema, San Francisco/Oakland on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Albion Street Music is a deep house and house artist based in United States of A
 
 Monoclick, Alexia (2), Alicia (UK)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/albionstreetmusic/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/albionstreetmusic/)*

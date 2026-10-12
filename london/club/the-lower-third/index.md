@@ -1,8 +1,8 @@
 # The Lower Third
 
-The Lower Third is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "BRONKA HATES LONDON - New Date Added" on Fri, 16 Oct 2026.
+The Lower Third is a music venue in London with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "BRONKA HATES LONDON - New Date Added" on Fri, 16 Oct 2026.
 
-The Lower Third is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Adela, AmyElle, Bronka and Budakid and 2 more. See dates, start times and who's playing. 26 Denmark St, London, WC2H 8NJ.
+The Lower Third is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Adela, AmyElle, Bronka and Budakid and 2 more. See dates, start times and who's playing. 26 Denmark St, London, WC2H 8NJ.
 
 ## What's on
 
@@ -10,6 +10,7 @@ The Lower Third is a music venue in London listed on soundcheck. 8 upcoming gigs
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | BRONKA HATES LONDON - New Date Added | Bronka |
 | Sat, 17 Oct 2026 | BRONKA HATES LONDON - The Lower Third (SOLD OUT) | Bronka |
+| Sat, 24 Oct 2026 | Circadian: Circuits - London | Circadian |
 | Mon, 9 Nov 2026 | Marla Kether |  |
 | Sat, 14 Nov 2026 | Supa Dupa Fly: R'n'B LDN Day Party |  |
 | Sat, 14 Nov 2026 | Shingo Nakamura | Shingo Nakamura |
@@ -21,4 +22,4 @@ The Lower Third is a music venue in London listed on soundcheck. 8 upcoming gigs
 
 26 Denmark St, London, WC2H 8NJ, London
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lower-third/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lower-third/)*

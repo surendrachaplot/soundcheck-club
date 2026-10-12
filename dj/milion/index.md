@@ -1,6 +1,6 @@
 # Milion
 
-Milion is a House and Garage artist with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The Art School, Glasgow on Sat, 17 Oct 2026.
+Milion is a House and Garage artist with 13 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Art School, Glasgow on Sat, 17 Oct 2026.
 
 Milion is a house and garage artist based in Netherlands, with 109 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bristol and 23 more. Often billed alongside SAIDAH, Locky and Bella Claxton. Next up: The Art School, Glasgow on Sat 17 Oct.
 
@@ -36,4 +36,4 @@ Milion is a house and garage artist based in Netherlands, with 109 gigs on sound
 
 SAIDAH, Locky, Bella Claxton
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milion/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milion/)*

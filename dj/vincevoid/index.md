@@ -1,6 +1,6 @@
 # Vince Void
 
-Vince Void is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Nido Marseille, Marseille on Sat, 17 Oct 2026.
+Vince Void is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Nido Marseille, Marseille on Sat, 17 Oct 2026.
 
 Vince Void is a house and electro artist based in France, with 118 gigs on soundcheck across Barcelona, Berlin, London and Madrid and 4 more. Often billed alongside Diesco, Alex Garcia and Pau Rosés. Next up: Nido Marseille, Marseille on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Vince Void is a house and electro artist based in France, with 118 gigs on sound
 
 Diesco, Alex Garcia (2), Pau Rosés
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vincevoid/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vincevoid/)*

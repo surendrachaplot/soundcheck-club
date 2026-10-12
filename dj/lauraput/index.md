@@ -1,6 +1,6 @@
 # Laura Put
 
-Laura Put is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Bar Oriente, Mexico City on Fri, 23 Oct 2026.
+Laura Put is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Bar Oriente, Mexico City on Fri, 23 Oct 2026.
 
 Laura Put is a house and hip-hop artist, with 14 gigs on soundcheck across Barcelona, Madrid and Mexico City. Often billed alongside Roberta, Acidnena and Alby Esc. Next up: Bar Oriente, Mexico City on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Laura Put is a house and hip-hop artist, with 14 gigs on soundcheck across Barce
 
 Roberta, Acidnena, Alby Esc
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauraput/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauraput/)*

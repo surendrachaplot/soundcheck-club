@@ -1,6 +1,6 @@
 # Joshua Brooks
 
-Joshua Brooks is a music venue in Manchester with 18 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Badger In The Wild - Joshua Brooks Manchester" on Fri, 16 Oct 2026.
+Joshua Brooks is a music venue in Manchester with 18 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Badger In The Wild - Joshua Brooks Manchester" on Fri, 16 Oct 2026.
 
 Joshua Brooks is a music venue in Manchester listed on soundcheck. 18 upcoming gigs, with line-ups including AYDN, Badger (UK), Benny L and CEEKAY and 2 more. See dates, start times and who's playing. 106 Princess Street; Manchester; M1 6NG, United Kingdom.
 
@@ -23,4 +23,4 @@ Joshua Brooks is a music venue in Manchester listed on soundcheck. 18 upcoming g
 
 106 Princess Street; Manchester; M1 6NG, United Kingdom, Manchester
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*

@@ -1,14 +1,13 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 18 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Queen! feat. Derrick Carter - Grace Sands - Michael Serafini" on Sun, 11 Oct 2026.
+smartbar is a music venue in Chicago with 17 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Flowers of Romance feat. Lady Starlight (Live) - Justin Aulis Long - Zona Cinco" on Fri, 16 Oct 2026.
 
-smartbar is a music venue in Chicago listed on soundcheck. 18 upcoming gigs, with line-ups including Andrew Emil, Brenda, Chris Cruse and Czboogie and 2 more. See dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
+smartbar is a music venue in Chicago listed on soundcheck. 17 upcoming gigs, with line-ups including Andrew Emil, Brenda, Chris Cruse and Czboogie and 2 more. See dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Queen! feat. Derrick Carter - Grace Sands - Michael Serafini | Derrick Carter, Grace Sands, Michael Serafini |
 | Fri, 16 Oct 2026 | Flowers of Romance feat. Lady Starlight (Live) - Justin Aulis Long - Zona Cinco | Justin Aulis Long, Lady Starlight, Zona Cinco |
 | Sat, 17 Oct 2026 | Demuir - Andrew Emil - iamBrandon | Andrew Emil, Demuir, iamBrandon |
 | Sun, 18 Oct 2026 | Derrick's Birthday Queen! feat. Derrick Carter - Luke Solomon - Michael Serafini - Shaun J Wrig | Derrick Carter, Luke Solomon, Michael Serafini, Shaun J. Wright |
@@ -18,9 +17,10 @@ smartbar is a music venue in Chicago listed on soundcheck. 18 upcoming gigs, wit
 | Fri, 30 Oct 2026 | Nanoos & Company feat. Nanoos - DJ Spinn - DJ Zuni | DJ Spinn, Nanoos |
 | Sat, 31 Oct 2026 | THE HOT B!T@# HALLOWEEN PARTY feat. Miss Toto - Madeline - Kitt Vesper - Virago | Kitt Vesper, Madeline (Chi), Miss Toto |
 | Sun, 1 Nov 2026 | All-Building Hallo-Queen | Chris Cruse, Czboogie, DJ Minx, Derrick Carter, Michael Serafini |
+| Fri, 6 Nov 2026 | Tinzo & Jojo - DJ Lady D | DJ Lady D, Jojo Lorenzo, Tinzo |
 
 ## Address
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*

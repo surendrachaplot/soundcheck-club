@@ -1,6 +1,6 @@
 # EEBEE
 
-EEBEE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Club Cheek, London on Fri, 16 Oct 2026.
+EEBEE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Club Cheek, London on Fri, 16 Oct 2026.
 
 EEBEE is a techno and house artist based in United Kingdom, with 4 gigs on soundcheck across Brighton, Leeds and London. Often billed alongside Sheccy, TDV (UK) and BobbyG. Next up: Club Cheek, London on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ EEBEE is a techno and house artist based in United Kingdom, with 4 gigs on sound
 
 Sheccy, TDV (UK), BobbyG
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eebee/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eebee/)*

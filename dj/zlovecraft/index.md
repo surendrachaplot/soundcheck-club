@@ -1,6 +1,6 @@
 # Z Lovecraft
 
-Z Lovecraft is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Palais, London on Sat, 14 Nov 2026.
+Z Lovecraft is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Palais, London on Sat, 14 Nov 2026.
 
 Z Lovecraft is a house and deep house artist based in United Kingdom, with 5 gigs on soundcheck across Berlin and London. Often billed alongside Bradley Zero, Echo Juliet and Frankie Valentine. Next up: Palais, London on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ Z Lovecraft is a house and deep house artist based in United Kingdom, with 5 gig
 
 Bradley Zero, Echo Juliet, Frankie Valentine
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zlovecraft/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zlovecraft/)*

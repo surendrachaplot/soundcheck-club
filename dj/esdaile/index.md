@@ -1,6 +1,6 @@
 # Esdaile
 
-Esdaile is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Headrow House, Leeds on Fri, 30 Oct 2026.
+Esdaile is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Headrow House, Leeds on Fri, 30 Oct 2026.
 
 Esdaile is a garage and bass artist, with 4 gigs on soundcheck across Leeds. Often billed alongside Josef Khan, Buckley (UK) and DJ LUMBRIDGE. Next up: Headrow House, Leeds on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ Esdaile is a garage and bass artist, with 4 gigs on soundcheck across Leeds. Oft
 
 Josef Khan, Buckley (UK), DJ LUMBRIDGE
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esdaile/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esdaile/)*

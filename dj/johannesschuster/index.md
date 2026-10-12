@@ -1,6 +1,6 @@
 # Johannes Schuster
 
-Johannes Schuster is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Ääniwalli, Helsinki on Fri, 16 Oct 2026.
+Johannes Schuster is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Ääniwalli, Helsinki on Fri, 16 Oct 2026.
 
 Johannes Schuster is a techno and trance artist based in Germany, with 207 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside KUKO, Cloudy and Neon Graveyard. Next up: Ääniwalli, Helsinki on Fri 16 Oct.
 
@@ -36,4 +36,4 @@ Johannes Schuster is a techno and trance artist based in Germany, with 207 gigs 
 
 KUKO, Cloudy, Neon Graveyard
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesschuster/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesschuster/)*

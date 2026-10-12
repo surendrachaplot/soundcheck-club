@@ -1,6 +1,6 @@
 # COUCOU CHLOE
 
-COUCOU CHLOE is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
+COUCOU CHLOE is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
 
 COUCOU CHLOE is an electronica and experimental artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 20 more. Often billed alongside Amnesia Scanner, HOUSEWIFE 9 and Milian Dolla. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ COUCOU CHLOE is an electronica and experimental artist based in United Kingdom, 
 
 Amnesia Scanner, HOUSEWIFE 9, Milian Dolla
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coucouchloe/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coucouchloe/)*

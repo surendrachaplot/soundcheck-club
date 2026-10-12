@@ -1,14 +1,13 @@
 # Peggy Gou
 
-Peggy Gou is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
+Peggy Gou is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
 
-Peggy Gou is a house and techno artist based in Germany, with 101 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 40 more. Often billed alongside ANOTR, Chloé Caillet and Skream. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
+Peggy Gou is a house and techno artist based in Germany, with 101 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 40 more. Often billed alongside ANOTR, Chloé Caillet and Skream. Next up: Depot Mayfield, Manchester on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Empire Polo Club | Palm-springs |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 28 Nov 2026 | TBA | Mexico City |
 
@@ -27,4 +26,4 @@ Peggy Gou is a house and techno artist based in Germany, with 101 gigs on soundc
 
 ANOTR, Chloé Caillet, Skream
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peggygou/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peggygou/)*

@@ -1,14 +1,13 @@
 # HiRO (Hush Recordz Ltd.)
 
-HiRO (Hush Recordz Ltd.) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Daikanyama ORD., Tokyo on Mon, 12 Oct 2026.
+HiRO (Hush Recordz Ltd.) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Suree, Tokyo on Sat, 17 Oct 2026.
 
-HiRO (Hush Recordz Ltd.) is a house and tech house artist, with 15 gigs on soundcheck across Tokyo. Often billed alongside Jm3Yoci, KANTA and RReona. Next up: Daikanyama ORD., Tokyo on Mon 12 Oct.
+HiRO (Hush Recordz Ltd.) is a house and tech house artist, with 15 gigs on soundcheck across Tokyo. Often billed alongside Jm3Yoci, KANTA and RReona. Next up: Suree, Tokyo on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 12 Oct 2026 | Daikanyama ORD. | Tokyo |
 | Sat, 17 Oct 2026 | Suree | Tokyo |
 
 ## Recently played
@@ -26,4 +25,4 @@ HiRO (Hush Recordz Ltd.) is a house and tech house artist, with 15 gigs on sound
 
 Jm3Yoci, KANTA, RReona
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hirohushrecordzltd/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hirohushrecordzltd/)*

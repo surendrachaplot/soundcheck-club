@@ -1,6 +1,6 @@
 # KC Happy
 
-KC Happy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Secret Location., London on Fri, 30 Oct 2026.
+KC Happy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Secret Location., London on Fri, 30 Oct 2026.
 
 KC Happy is a house and disco artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Istanbul, London and Miami and 1 more. Often billed alongside GARAN GARAN, Dreamhaus Misha and Jaime Fiorito. Next up: TBA - Secret Location., London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ KC Happy is a house and disco artist based in United Kingdom, with 38 gigs on so
 
 GARAN GARAN, Dreamhaus Misha, Jaime Fiorito
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kchappy/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kchappy/)*

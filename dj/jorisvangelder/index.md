@@ -1,6 +1,6 @@
 # Joris van Gelder
 
-Joris van Gelder is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Club Royal, Amsterdam on Thu, 22 Oct 2026.
+Joris van Gelder is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Club Royal, Amsterdam on Thu, 22 Oct 2026.
 
 Joris van Gelder is a house artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam. Often billed alongside Ive Lovers, Ken Spieker and 22 Interns. Next up: Club Royal, Amsterdam on Thu 22 Oct.
 
@@ -22,4 +22,4 @@ Joris van Gelder is a house artist based in Netherlands, with 6 gigs on soundche
 
 Ive Lovers, Ken Spieker, 22 Interns
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvangelder/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvangelder/)*

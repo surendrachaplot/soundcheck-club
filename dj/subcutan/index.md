@@ -1,6 +1,6 @@
 # subcutan
 
-subcutan is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at E-Werk Kulturzentrum, Nürnberg on Sat, 17 Oct 2026.
+subcutan is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at E-Werk Kulturzentrum, Nürnberg on Sat, 17 Oct 2026.
 
 subcutan is a trance and techno artist based in Germany, with 26 gigs on soundcheck across Berlin, Leipzig, Munich and Nürnberg. Often billed alongside NAGINI, Vaneska and Praun. Next up: E-Werk Kulturzentrum, Nürnberg on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ subcutan is a trance and techno artist based in Germany, with 26 gigs on soundch
 
 NAGINI, Vaneska, Praun
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subcutan/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subcutan/)*

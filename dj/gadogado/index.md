@@ -1,6 +1,6 @@
 # Gado Gado
 
-Gado Gado is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Sunset Beach Bali, Bali on Sat, 28 Nov 2026.
+Gado Gado is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Sunset Beach Bali, Bali on Sat, 28 Nov 2026.
 
 Gado Gado is a techno and trance artist, with 4 gigs on soundcheck across Bali, Cologne and Leipzig. Often billed alongside :MUMM, AMRTUM and ANDATA. Next up: Sunset Beach Bali, Bali on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ Gado Gado is a techno and trance artist, with 4 gigs on soundcheck across Bali, 
 
 :MUMM, AMRTUM, ANDATA
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gadogado/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gadogado/)*

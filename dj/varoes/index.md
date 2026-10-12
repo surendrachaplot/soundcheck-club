@@ -1,6 +1,6 @@
 # Varo (ES)
 
-Varo (ES) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Lasociaciøn, Madrid on Fri, 6 Nov 2026.
+Varo (ES) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Lasociaciøn, Madrid on Fri, 6 Nov 2026.
 
 Varo (ES) is a house and electronica artist based in Spain, with 5 gigs on soundcheck across Madrid. Often billed alongside Nachine, Alex (ES) and Avo (ES). Next up: Lasociaciøn, Madrid on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ Varo (ES) is a house and electronica artist based in Spain, with 5 gigs on sound
 
 Nachine, Alex (ES), Avo (ES)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/varoes/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/varoes/)*

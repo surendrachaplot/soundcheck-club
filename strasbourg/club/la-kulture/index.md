@@ -1,6 +1,6 @@
 # La Kulture
 
-La Kulture is a music venue in Strasbourg with 10 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "CTRL: BASS by Les Pygmalions" on Thu, 15 Oct 2026.
+La Kulture is a music venue in Strasbourg with 10 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "CTRL: BASS by Les Pygmalions" on Thu, 15 Oct 2026.
 
 La Kulture is a music venue in Strasbourg listed on soundcheck. 10 upcoming gigs, with line-ups including atlhas, Bjr Alex, Derode and GOTIS and 2 more. See dates, start times and who's playing. 9 Rue des Bateliers, 67000 Strasbourg, France.
 
@@ -23,4 +23,4 @@ La Kulture is a music venue in Strasbourg listed on soundcheck. 10 upcoming gigs
 
 9 Rue des Bateliers, 67000 Strasbourg, France, Strasbourg
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/la-kulture/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/la-kulture/)*

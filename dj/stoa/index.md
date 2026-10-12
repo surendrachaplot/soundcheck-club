@@ -1,6 +1,6 @@
 # Stoa
 
-Stoa is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Thu, 15 Oct 2026.
+Stoa is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Thu, 15 Oct 2026.
 
 Stoa is a deep house and progressive house artist based in United States of America, with 9 gigs on soundcheck across Athens and San Francisco/Oakland. Often billed alongside Yaz, Oblivion and Phleck. Next up: F8 1192 Folsom, San Francisco/Oakland on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Stoa is a deep house and progressive house artist based in United States of Amer
 
 Yaz, Oblivion, Phleck
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stoa/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stoa/)*

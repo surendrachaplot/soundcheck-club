@@ -1,14 +1,13 @@
 # LSDXOXO
 
-LSDXOXO is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
+LSDXOXO is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Ingram Plaza, San Diego on Sat, 17 Oct 2026.
 
-LSDXOXO is a techno and house artist based in United States of America, with 202 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 58 more. Often billed alongside VTSS, Boys Noize and Helena Hauff. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
+LSDXOXO is a techno and house artist based in United States of America, with 202 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 58 more. Often billed alongside VTSS, Boys Noize and Helena Hauff. Next up: Ingram Plaza, San Diego on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Auditorio Málaga Cortijo de Torres | South |
 | Sat, 17 Oct 2026 | Ingram Plaza | San Diego |
 | Sat, 24 Oct 2026 | Meow Wolf Denver | Denver |
 | Fri, 30 Oct 2026 | Industry City | New York City |
@@ -29,4 +28,4 @@ LSDXOXO is a techno and house artist based in United States of America, with 202
 
 VTSS, Boys Noize, Helena Hauff
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lsdxoxo/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lsdxoxo/)*

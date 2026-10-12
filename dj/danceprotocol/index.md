@@ -1,6 +1,6 @@
 # DANCE PROTOCOL
 
-DANCE PROTOCOL is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 28 Nov 2026.
+DANCE PROTOCOL is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 28 Nov 2026.
 
 DANCE PROTOCOL is a house and deep house artist based in United Kingdom, with 8 gigs on soundcheck across Berlin, Ibiza, Leeds and London. Often billed alongside Hamish & Toby, Heels & Souls and Mari.te. Next up: Starlane Pizza Bar, London on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ DANCE PROTOCOL is a house and deep house artist based in United Kingdom, with 8 
 
 Hamish & Toby, Heels & Souls, Mari.te
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danceprotocol/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danceprotocol/)*

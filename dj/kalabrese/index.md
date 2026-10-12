@@ -1,6 +1,6 @@
 # Kalabrese
 
-Kalabrese is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Kauz, Zurich on Sat, 17 Oct 2026.
+Kalabrese is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Kauz, Zurich on Sat, 17 Oct 2026.
 
 Kalabrese is a house and electronica artist based in Switzerland, with 117 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 13 more. Often billed alongside KAYYAK, Alex Dallas and Dejan. Next up: Kauz, Zurich on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Kalabrese is a house and electronica artist based in Switzerland, with 117 gigs 
 
 KAYYAK, Alex Dallas, Dejan
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalabrese/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalabrese/)*

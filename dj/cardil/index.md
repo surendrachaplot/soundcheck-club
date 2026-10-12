@@ -1,6 +1,6 @@
 # Cardi L
 
-Cardi L is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Horn, Bangkok on Fri, 30 Oct 2026.
+Cardi L is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Horn, Bangkok on Fri, 30 Oct 2026.
 
 Cardi L is a techno and electronica artist based in China, with 4 gigs on soundcheck across Bangkok. Often billed alongside Rui Tang, TMI. and UN!X. Next up: Horn, Bangkok on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ Cardi L is a techno and electronica artist based in China, with 4 gigs on soundc
 
 Rui Tang, TMI., UN!X
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cardil/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cardil/)*

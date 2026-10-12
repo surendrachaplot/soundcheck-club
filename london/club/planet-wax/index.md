@@ -1,6 +1,6 @@
 # Planet Wax
 
-Planet Wax is a music venue in London with 27 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "SUNDAY SERVICE x DEYA 'REPRESS LAUCH'" on Sun, 11 Oct 2026.
+Planet Wax is a music venue in London with 27 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "SUNDAY SERVICE x DEYA 'REPRESS LAUCH'" on Sun, 11 Oct 2026.
 
 Planet Wax is a music venue in London listed on soundcheck. 27 upcoming gigs, with line-ups including Amy  B, Andy Foundations, andz and BCee and 2 more. See dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
 
@@ -23,4 +23,4 @@ Planet Wax is a music venue in London listed on soundcheck. 27 upcoming gigs, wi
 
 318 NEW CROSS ROAD LONDON SE14 6AF, London
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*

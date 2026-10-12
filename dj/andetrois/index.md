@@ -1,6 +1,6 @@
 # AnDe Trois
 
-AnDe Trois is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Base Events Venue, Cyprus on Fri, 6 Aug 2027.
+AnDe Trois is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Base Events Venue, Cyprus on Fri, 6 Aug 2027.
 
 AnDe Trois is a techno and house artist, with 7 gigs on soundcheck across Amsterdam, Cyprus, Lisbon and Melbourne and 3 more. Often billed alongside ALEXANDER M, African Stevenson and Alessandro Reale. Next up: Base Events Venue, Cyprus on Fri 6 Aug.
 
@@ -23,4 +23,4 @@ AnDe Trois is a techno and house artist, with 7 gigs on soundcheck across Amster
 
 ALEXANDER M, African Stevenson, Alessandro Reale
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andetrois/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andetrois/)*

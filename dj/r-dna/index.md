@@ -1,6 +1,6 @@
 # R-DNA
 
-R-DNA is a Techno and Baile Funk artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Boyfriend co-op, New York City on Thu, 15 Oct 2026.
+R-DNA is a Techno and Baile Funk artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Boyfriend co-op, New York City on Thu, 15 Oct 2026.
 
 R-DNA is a techno and baile funk artist based in Ukraine, with 32 gigs on soundcheck across New York City. Often billed alongside masha latte, 1ol1v1a and SEDENTARY. Next up: Boyfriend co-op, New York City on Thu 15 Oct.
 
@@ -28,4 +28,4 @@ R-DNA is a techno and baile funk artist based in Ukraine, with 32 gigs on soundc
 
 masha latte, 1ol1v1a, SEDENTARY
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r-dna/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r-dna/)*

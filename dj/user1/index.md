@@ -1,6 +1,6 @@
 # user1
 
-user1 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Usquare, Brussels on Sat, 14 Nov 2026.
+user1 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Usquare, Brussels on Sat, 14 Nov 2026.
 
 user1 is a techno and electro artist, with 6 gigs on soundcheck across Brussels and Lisbon. Often billed alongside Thojo, Boudewijn Ericx and Cisco FM. Next up: Usquare, Brussels on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ user1 is a techno and electro artist, with 6 gigs on soundcheck across Brussels 
 
 Thojo, Boudewijn Ericx, Cisco FM
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/user1/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/user1/)*

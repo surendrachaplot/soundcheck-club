@@ -1,6 +1,6 @@
 # Tyrel Williams
 
-Tyrel Williams is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Glob, Denver on Sat, 17 Oct 2026.
+Tyrel Williams is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Glob, Denver on Sat, 17 Oct 2026.
 
 Tyrel Williams is a house and acid artist based in United States of America, with 57 gigs on soundcheck across Berlin, Chicago, Denver and Detroit and 6 more. Often billed alongside Solar, C.L.A.W.S. and Mozhgan. Next up: Glob, Denver on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Tyrel Williams is a house and acid artist based in United States of America, wit
 
 Solar, C.L.A.W.S., Mozhgan
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tyrelwilliams/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tyrelwilliams/)*

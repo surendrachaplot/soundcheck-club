@@ -1,6 +1,6 @@
 # u.r.trax
 
-u.r.trax is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Jasna 1, Warsaw on Fri, 16 Oct 2026.
+u.r.trax is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Jasna 1, Warsaw on Fri, 16 Oct 2026.
 
 u.r.trax is a techno and house artist based in France, with 147 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Basel and 50 more. Often billed alongside Nina Kraviz, Héctor Oaks and SALOME. Next up: Jasna 1, Warsaw on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ u.r.trax is a techno and house artist based in France, with 147 gigs on soundche
 
 Nina Kraviz, Héctor Oaks, SALOME
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/u.r.trax/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/u.r.trax/)*

@@ -1,6 +1,6 @@
 # Laura Coch
 
-Laura Coch is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at CHICO, Mexico City on Fri, 23 Oct 2026.
+Laura Coch is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at CHICO, Mexico City on Fri, 23 Oct 2026.
 
 Laura Coch is a techno and electronica artist based in Mexico, with 28 gigs on soundcheck across Mexico City. Often billed alongside Maseriche, Abaunza and Cybebe. Next up: CHICO, Mexico City on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Laura Coch is a techno and electronica artist based in Mexico, with 28 gigs on s
 
 Maseriche, Abaunza, Cybebe
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauracoch/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauracoch/)*

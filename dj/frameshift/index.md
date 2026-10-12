@@ -1,6 +1,6 @@
 # Frame Shift
 
-Frame Shift is a Garage and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The Pav, Cork on Sat, 17 Oct 2026.
+Frame Shift is a Garage and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Pav, Cork on Sat, 17 Oct 2026.
 
 Frame Shift is a garage and breakbeat artist, with 11 gigs on soundcheck across Cork and Dublin. Often billed alongside Sharpson, 2step.png and MICK. Next up: The Pav, Cork on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Frame Shift is a garage and breakbeat artist, with 11 gigs on soundcheck across 
 
 Sharpson, 2step.png, MICK (2)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frameshift/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frameshift/)*

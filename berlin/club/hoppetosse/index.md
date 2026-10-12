@@ -1,14 +1,13 @@
 # Hoppetosse
 
-Hoppetosse is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Analog meets Digital: Reboot Records x djay Pro [Free Entry with RA]" on Sun, 11 Oct 2026.
+Hoppetosse is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Healing Channel: Ron Obvious, Nina Yamada, DJ Pipe b2b SiSi, Garrett David" on Fri, 16 Oct 2026.
 
-Hoppetosse is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including ALCATRAZ, Andrei Ciubuc, Argenis Brito and Baloo (SA) and 2 more. See dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
+Hoppetosse is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including ALCATRAZ, Andrei Ciubuc, Argenis Brito and Baloo (SA) and 2 more. See dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Analog meets Digital: Reboot Records x djay Pro [Free Entry with RA] | DJ ZBB, Flor Coto, Franz Scala, Robosonic, Szew |
 | Fri, 16 Oct 2026 | Healing Channel: Ron Obvious, Nina Yamada, DJ Pipe b2b SiSi, Garrett David | DJ Pipe, Garrett David, Nina Yamada, Ron Obvious, SiSi (2) |
 | Sat, 17 Oct 2026 | Sekt&Brezeln - 4 YEARS ANNIVERSARY | Berto (DE), Fab Massimo, Fast (DE), Kaufmann, Leon Licht, Roman Adam, Rosa Kante, Sarah Wild, unDs |
 | Fri, 23 Oct 2026 | OFF THE GRID x IKIGAI | Diamin, Kithers, Levat, Onirik, Royston Bassmann |
@@ -18,9 +17,10 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, wi
 | Fri, 6 Nov 2026 | Extended PARTYBAR 3000 ∞ LETZTE WIESE | Schlecksi |
 | Sat, 7 Nov 2026 | Slow Life Showcase | Cecilio, GNMR, Laurine, Rafon (2) |
 | Fri, 13 Nov 2026 | MovetoneWax & N.o.N Music presents Andrei Ciubuc & Robin Ordell | Andrei Ciubuc, Maik Yells, Robin Ordell, The Pushamann |
+| Sat, 21 Nov 2026 | Rhythm By Nature: Gideon Jackson, Natascha Kann, Joe BRT, SaPu | Joe BRT, Natascha Kann, SaPu |
 
 ## Address
 
 Eichenstrasse 4; Treptow; 12435 Berlin; Germany, Berlin
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*

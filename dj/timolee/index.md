@@ -1,6 +1,6 @@
 # Timo Lee
 
-Timo Lee is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Outer Heaven, New York City on Thu, 15 Oct 2026.
+Timo Lee is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Outer Heaven, New York City on Thu, 15 Oct 2026.
 
 Timo Lee is a house and disco artist based in United States of America, with 108 gigs on soundcheck across Los Angeles, Mexico City, Miami and New York City and 5 more. Often billed alongside Yurk, Armii1n and Carozilla. Next up: Outer Heaven, New York City on Thu 15 Oct.
 
@@ -28,4 +28,4 @@ Timo Lee is a house and disco artist based in United States of America, with 108
 
 Yurk, Armii1n, Carozilla
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timolee/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timolee/)*

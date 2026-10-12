@@ -1,6 +1,6 @@
-# Host 8th Anniversary with Gemnital (Taipei) & Bouffant Bouffant (New Orleans) at 宀 Club
+# HOST 8TH ANNIVERSARY with Gemnital (Taipei) & Bouffant Bouffant (New Orleans) at 宀 Club
 
-Host 8th Anniversary with Gemnital (Taipei) & Bouffant Bouffant (New Orleans) at 宀 Club on Sat 21 Nov, Hong Kong. 2 artists: Bouffant Bouffant and Gemnital. House. See the line-up on soundcheck.
+HOST 8TH ANNIVERSARY with Gemnital (Taipei) & Bouffant Bouffant (New Orleans) at 宀 Club on Sat 21 Nov, Hong Kong. 2 artists: Bouffant Bouffant and Gemnital. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

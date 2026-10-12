@@ -1,6 +1,6 @@
 # .Fro.
 
-.Fro. is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Ilion Plus, Athens on Fri, 27 Nov 2026.
+.Fro. is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Ilion Plus, Athens on Fri, 27 Nov 2026.
 
 .Fro. is a techno and electro artist based in Greece, with 92 gigs on soundcheck across Athens. Often billed alongside ClubKid, Rlct and Extase Urbaine. Next up: Ilion Plus, Athens on Fri 27 Nov.
 
@@ -25,4 +25,4 @@
 
 ClubKid, Rlct, Extase Urbaine
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/.fro./)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/.fro./)*

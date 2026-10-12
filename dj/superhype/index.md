@@ -1,6 +1,6 @@
 # Superhype
 
-Superhype is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Revolver Upstairs, Melbourne on Wed, 14 Oct 2026.
+Superhype is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Revolver Upstairs, Melbourne on Wed, 14 Oct 2026.
 
 Superhype is a techno and house artist based in Australia, with 28 gigs on soundcheck across Melbourne. Often billed alongside Stockholm Syndrome, Deltoid Curve and Gay Roberto. Next up: Revolver Upstairs, Melbourne on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ Superhype is a techno and house artist based in Australia, with 28 gigs on sound
 
 Stockholm Syndrome, Deltoid Curve, Gay Roberto
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/superhype/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/superhype/)*

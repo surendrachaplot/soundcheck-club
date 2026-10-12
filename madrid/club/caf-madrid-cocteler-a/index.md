@@ -1,6 +1,6 @@
 # Café Madrid Coctelería
 
-Café Madrid Coctelería is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "SPEAK EASY JAZZ" on Thu, 5 Nov 2026.
+Café Madrid Coctelería is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "SPEAK EASY JAZZ" on Thu, 5 Nov 2026.
 
 Café Madrid Coctelería is a music venue in Madrid listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Café Madrid Coctelería is a music venue in Madrid listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | SPEAK EASY JAZZ |  |
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/caf-madrid-cocteler-a/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/caf-madrid-cocteler-a/)*

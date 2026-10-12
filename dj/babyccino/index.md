@@ -1,6 +1,6 @@
 # Babyccino
 
-Babyccino is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at SWG3, Glasgow on Mon, 19 Oct 2026.
+Babyccino is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at SWG3, Glasgow on Mon, 19 Oct 2026.
 
 Babyccino is a house and techno artist based in United Kingdom, with 65 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow and 2 more. Often billed alongside McCart, Domenic Cappello and Kairogen. Next up: SWG3, Glasgow on Mon 19 Oct.
 
@@ -27,4 +27,4 @@ Babyccino is a house and techno artist based in United Kingdom, with 65 gigs on 
 
 McCart, Domenic Cappello, Kairogen
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyccino/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyccino/)*

@@ -1,6 +1,6 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 29 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "CASA: 'BORN SLIPPY' // TUESDAY AT The Berkeley Suite // EXTRA 90'S RAVE MUSIC" on Tue, 13 Oct 2026.
+The Berkeley Suite is a music venue in Glasgow with 29 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "CASA: 'BORN SLIPPY' // TUESDAY AT The Berkeley Suite // EXTRA 90'S RAVE MUSIC" on Tue, 13 Oct 2026.
 
 The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 29 upcoming gigs, with line-ups including Amaliah, Austin Ato, BAUGRUPPE90 and Bella Claxton and 2 more. See dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
@@ -23,4 +23,4 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 29 upcoming
 
 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom, Glasgow
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*

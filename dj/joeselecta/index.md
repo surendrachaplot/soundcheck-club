@@ -1,6 +1,6 @@
 # JOESELECTA
 
-JOESELECTA is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Sidney & Matilda, Sheffield on Sat, 31 Oct 2026.
+JOESELECTA is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Sidney & Matilda, Sheffield on Sat, 31 Oct 2026.
 
 JOESELECTA is a garage and house artist based in United Kingdom, with 7 gigs on soundcheck across Sheffield. Often billed alongside F3rg13, IMO UK and INKLING GIRLZ. Next up: Sidney & Matilda, Sheffield on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ JOESELECTA is a garage and house artist based in United Kingdom, with 7 gigs on 
 
 F3rg13, IMO UK, INKLING GIRLZ
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeselecta/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeselecta/)*

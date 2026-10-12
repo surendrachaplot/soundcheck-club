@@ -1,6 +1,6 @@
 # Village Underground Barcelona
 
-Village Underground Barcelona is a music venue in Barcelona with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "The Sound Society x 22Recordings" on Fri, 16 Oct 2026.
+Village Underground Barcelona is a music venue in Barcelona with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "The Sound Society x 22Recordings" on Fri, 16 Oct 2026.
 
 Village Underground Barcelona is a music venue in Barcelona listed on soundcheck. 6 upcoming gigs, with line-ups including Anabel Arroyo, Aristides, Baldman and Breakfake and 2 more. See dates, start times and who's playing. Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat.
 
@@ -19,4 +19,4 @@ Village Underground Barcelona is a music venue in Barcelona listed on soundcheck
 
 Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat, Barcelona
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*

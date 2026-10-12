@@ -1,6 +1,6 @@
 # Deepa
 
-Deepa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Tokyo Sing Song, Sydney on Sat, 17 Oct 2026.
+Deepa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Tokyo Sing Song, Sydney on Sat, 17 Oct 2026.
 
 Deepa is a house and techno artist based in Australia, with 120 gigs on soundcheck across Berlin, Brisbane, London and Melbourne and 1 more. Often billed alongside Ciara, Rakish and Baschoe. Next up: Tokyo Sing Song, Sydney on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Deepa is a house and techno artist based in Australia, with 120 gigs on soundche
 
 Ciara, Rakish, Baschoe
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepa-au/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepa-au/)*

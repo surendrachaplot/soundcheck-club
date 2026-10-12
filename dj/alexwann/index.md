@@ -1,6 +1,6 @@
 # Alex Wann
 
-Alex Wann is a Afro House and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Westlight Rooftop at The William Vale, New York City on Fri, 16 Oct 2026.
+Alex Wann is a Afro House and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Westlight Rooftop at The William Vale, New York City on Fri, 16 Oct 2026.
 
 Alex Wann is an afro house and house artist based in France, with 149 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 43 more. Often billed alongside Notre Dame, Andrea Oliva and AMÉMÉ. Next up: Westlight Rooftop at The William Vale, New York City on Fri 16 Oct.
 
@@ -19,6 +19,7 @@ Alex Wann is an afro house and house artist based in France, with 149 gigs on so
 
 ## Recently played
 
+- Revolver Upstairs, Melbourne · Sun, 11 Oct 2026
 - The Ivy, Sydney · Sat, 10 Oct 2026
 - Savaya Bali, Bali · Sun, 4 Oct 2026
 - Zumana Bali, Bali · Fri, 2 Oct 2026
@@ -26,10 +27,9 @@ Alex Wann is an afro house and house artist based in France, with 149 gigs on so
 - Moon Warsaw, Warsaw · Sat, 12 Sept 2026
 - Shelter Amsterdam, Amsterdam · Fri, 11 Sept 2026
 - Fitz Mallorca, Mallorca · Fri, 4 Sept 2026
-- L'orangerie, Paris · Fri, 28 Aug 2026
 
 ## Shares bills with
 
 Notre Dame, Andrea Oliva, AMÉMÉ
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwann/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwann/)*

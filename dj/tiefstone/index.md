@@ -1,6 +1,6 @@
 # Tiefstone
 
-Tiefstone is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Akhnaton, Amsterdam on Fri, 23 Oct 2026.
+Tiefstone is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Akhnaton, Amsterdam on Fri, 23 Oct 2026.
 
 Tiefstone is a techno and progressive house artist based in Argentina, with 5 gigs on soundcheck across Amsterdam and Buenos Aires. Often billed alongside Abity, Aubrey Fry and Chloé Caillet. Next up: Akhnaton, Amsterdam on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Tiefstone is a techno and progressive house artist based in Argentina, with 5 gi
 
 Abity, Aubrey Fry, Chloé Caillet
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiefstone/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiefstone/)*

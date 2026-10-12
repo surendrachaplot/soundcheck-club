@@ -1,6 +1,6 @@
 # OMFDAN
 
-OMFDAN is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Outline, Mexico City on Sat, 7 Nov 2026.
+OMFDAN is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Outline, Mexico City on Sat, 7 Nov 2026.
 
 OMFDAN is a house and disco artist based in Mexico, with 32 gigs on soundcheck across Mexico City. Often billed alongside Macarena, Alby Esc and daveh00d. Next up: Outline, Mexico City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ OMFDAN is a house and disco artist based in Mexico, with 32 gigs on soundcheck a
 
 Macarena, Alby Esc, daveh00d
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omfdan/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omfdan/)*

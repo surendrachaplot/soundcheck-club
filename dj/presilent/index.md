@@ -1,6 +1,6 @@
 # Pre Silent
 
-Pre Silent is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Distillery N17, London on Sat, 24 Oct 2026.
+Pre Silent is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Distillery N17, London on Sat, 24 Oct 2026.
 
 Pre Silent is a techno and industrial artist based in Italy, with 38 gigs on soundcheck across Berlin, London and Milan. Often billed alongside Antonio De Angelis, Gabriele Capponi and Laure Croft. Next up: Distillery N17, London on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Pre Silent is a techno and industrial artist based in Italy, with 38 gigs on sou
 
 Antonio De Angelis, Gabriele Capponi, Laure Croft
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/presilent/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/presilent/)*

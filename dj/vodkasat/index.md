@@ -1,6 +1,6 @@
 # Vod Kasat
 
-Vod Kasat is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at La Kulture, Strasbourg on Fri, 30 Oct 2026.
+Vod Kasat is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at La Kulture, Strasbourg on Fri, 30 Oct 2026.
 
 Vod Kasat is a techno and club artist, with 21 gigs on soundcheck across Berlin, Istanbul, Paris and Strasbourg. Often billed alongside itako, Itaho and Bjr Alex. Next up: La Kulture, Strasbourg on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Vod Kasat is a techno and club artist, with 21 gigs on soundcheck across Berlin,
 
 itako, Itaho, Bjr Alex
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vodkasat/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vodkasat/)*

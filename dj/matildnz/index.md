@@ -1,6 +1,6 @@
 # matildnz
 
-matildnz is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Tresor.West, Dortmund-essen on Sat, 17 Oct 2026.
+matildnz is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Tresor.West, Dortmund-essen on Sat, 17 Oct 2026.
 
 matildnz is an electro and techno artist based in Germany, with 5 gigs on soundcheck across Cologne, Dortmund Essen and Hamburg. Often billed alongside Ada Luvv, Andreas Henneberg and Barbara Alvarez. Next up: Tresor.West, Dortmund Essen on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ matildnz is an electro and techno artist based in Germany, with 5 gigs on soundc
 
 Ada Luvv, Andreas Henneberg, Barbara Alvarez
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matildnz/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matildnz/)*

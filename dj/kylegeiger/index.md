@@ -1,6 +1,6 @@
 # Kyle Geiger
 
-Kyle Geiger is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
+Kyle Geiger is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
 
 Kyle Geiger is a techno and dub techno artist based in United States of America, with 34 gigs on soundcheck across Berlin, Chicago, Denver and Detroit and 6 more. Often billed alongside Fadi Mohem, Rødhåd and Dustin Zahn. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Kyle Geiger is a techno and dub techno artist based in United States of America,
 
 Fadi Mohem, Rødhåd, Dustin Zahn
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kylegeiger/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kylegeiger/)*

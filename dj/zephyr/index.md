@@ -1,6 +1,6 @@
 # Zephyr
 
-Zephyr is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Ministerium Club, Lisbon on Thu, 29 Oct 2026.
+Zephyr is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Ministerium Club, Lisbon on Thu, 29 Oct 2026.
 
 Zephyr is a techno and hardcore artist, with 6 gigs on soundcheck across Antwerp, Brussels and Lisbon. Often billed alongside Pirrès, Asian Sal and Calvache. Next up: Ministerium Club, Lisbon on Thu 29 Oct.
 
@@ -22,4 +22,4 @@ Zephyr is a techno and hardcore artist, with 6 gigs on soundcheck across Antwerp
 
 Pirrès, Asian Sal, Calvache
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zephyr/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zephyr/)*

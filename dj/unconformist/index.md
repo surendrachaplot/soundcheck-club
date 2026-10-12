@@ -1,6 +1,6 @@
 # Unconformist
 
-Unconformist is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA, Switzerland on Sat, 24 Oct 2026.
+Unconformist is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA, Switzerland on Sat, 24 Oct 2026.
 
 Unconformist is a techno and electro artist, with 8 gigs on soundcheck across Basel, Lisbon, Madrid and Porto and 2 more. Often billed alongside Midinoize, John-E and AMORAL. Next up: TBA, Switzerland on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Unconformist is a techno and electro artist, with 8 gigs on soundcheck across Ba
 
 Midinoize, John-E, AMORAL
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unconformist/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unconformist/)*

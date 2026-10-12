@@ -1,6 +1,6 @@
 # Zenk
 
-Zenk is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Masada, Milan on Sun, 25 Oct 2026.
+Zenk is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Masada, Milan on Sun, 25 Oct 2026.
 
 Zenk is a house and minimal artist, with 6 gigs on soundcheck across Milan, Turin and Zurich. Often billed alongside Jonny N Travis, Rome (IT) and Always Late. Next up: Masada, Milan on Sun 25 Oct.
 
@@ -22,4 +22,4 @@ Zenk is a house and minimal artist, with 6 gigs on soundcheck across Milan, Turi
 
 Jonny N Travis, Rome (IT), Always Late
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zenk/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zenk/)*

@@ -1,6 +1,6 @@
 # Funke
 
-Funke is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Boondocks, Houston on Sat, 17 Oct 2026.
+Funke is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Boondocks, Houston on Sat, 17 Oct 2026.
 
 Funke is a house and techno artist based in United States of America, with 4 gigs on soundcheck across Houston and New York City. Often billed alongside Arvi, DanyKiss and David Zapata. Next up: Boondocks, Houston on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ Funke is a house and techno artist based in United States of America, with 4 gig
 
 Arvi, DanyKiss, David Zapata
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funke/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funke/)*

@@ -1,6 +1,6 @@
 # CFCF
 
-CFCF is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 6 Nov 2026.
+CFCF is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 6 Nov 2026.
 
 CFCF is a house and club artist based in Canada, with 27 gigs on soundcheck across Los Angeles, Montreal, New York City and Portland and 5 more. Often billed alongside Doss, Bianca Lexis and Franxx. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ CFCF is a house and club artist based in Canada, with 27 gigs on soundcheck acro
 
 Doss, Bianca Lexis, Franxx
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cfcf/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cfcf/)*

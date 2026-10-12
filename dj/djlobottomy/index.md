@@ -1,6 +1,6 @@
 # @djlobottomy
 
-@djlobottomy is a Latin Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at psyched! Radio sf Studios, San Francisco/Oakland on Sat, 24 Oct 2026.
+@djlobottomy is a Latin Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at psyched! Radio sf Studios, San Francisco/Oakland on Sat, 24 Oct 2026.
 
 @djlobottomy is a latin bass and electronica artist based in United States of America, with 26 gigs on soundcheck across San Francisco/Oakland. Often billed alongside xtcemi, Martyr Princess and Maznoize. Next up: psyched! Radio sf Studios, San Francisco/Oakland on Sat 24 Oct.
 
@@ -25,4 +25,4 @@
 
 xtcemi, Martyr Princess, Maznoize
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlobottomy/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlobottomy/)*

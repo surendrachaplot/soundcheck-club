@@ -1,6 +1,6 @@
 # Knayohmi
 
-Knayohmi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Star of Bethnal Green, London on Fri, 30 Oct 2026.
+Knayohmi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Star of Bethnal Green, London on Fri, 30 Oct 2026.
 
 Knayohmi is a house and disco artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Aruna, Jesse James and TOMS. Next up: Star of Bethnal Green, London on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Knayohmi is a house and disco artist based in United Kingdom, with 8 gigs on sou
 
 Aruna, Jesse James, TOMS
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knayohmi/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knayohmi/)*

@@ -1,6 +1,6 @@
 # Aïsha Devi
 
-Aïsha Devi is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Vespers Club, London on Thu, 26 Nov 2026.
+Aïsha Devi is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Vespers Club, London on Thu, 26 Nov 2026.
 
 Aïsha Devi is an experimental and techno artist, with 32 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside ojoo, Slikback and aya. Next up: Vespers Club, London on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Aïsha Devi is an experimental and techno artist, with 32 gigs on soundcheck acr
 
 ojoo, Slikback, aya
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aishadevi/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aishadevi/)*

@@ -1,6 +1,6 @@
 # Jonas Blue
 
-Jonas Blue is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Savaya Bali, Bali on Fri, 30 Oct 2026.
+Jonas Blue is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Savaya Bali, Bali on Fri, 30 Oct 2026.
 
 Jonas Blue is a house and techno artist based in United Kingdom, with 45 gigs on soundcheck across Bali, Barcelona, Boston and Chicago and 14 more. Often billed alongside James Hype (UK), Meduza and Paisley Jensen. Next up: Savaya Bali, Bali on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Jonas Blue is a house and techno artist based in United Kingdom, with 45 gigs on
 
 James Hype (UK), Meduza, Paisley Jensen
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonasblue/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonasblue/)*

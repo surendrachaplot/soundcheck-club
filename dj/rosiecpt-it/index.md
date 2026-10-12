@@ -1,6 +1,6 @@
 # RosieCpt
 
-RosieCpt is a Minimal and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at YSY, Berlin on Sat, 17 Oct 2026.
+RosieCpt is a Minimal and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at YSY, Berlin on Sat, 17 Oct 2026.
 
 RosieCpt is a minimal and downtempo artist based in Italy, with 17 gigs on soundcheck across Berlin, Copenhagen and Rome. Often billed alongside Appleblim, Dalga and Travis or Alice. Next up: YSY, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ RosieCpt is a minimal and downtempo artist based in Italy, with 17 gigs on sound
 
 Appleblim, Dalga, Travis or Alice
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosiecpt-it/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosiecpt-it/)*

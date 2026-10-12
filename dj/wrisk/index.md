@@ -1,18 +1,18 @@
 # Wrisk
 
-Wrisk is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sun, 11 Oct 2026.
+Wrisk is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Bongo Club, Edinburgh on Tue, 13 Oct 2026.
 
-Wrisk is a techno and hardcore artist based in United Kingdom, with 78 gigs on soundcheck across Dundee and Edinburgh. Often billed alongside DV60, Smiff and Sea Urchin. Next up: Sneaky Pete's, Edinburgh on Sun 11 Oct.
+Wrisk is a techno and hardcore artist based in United Kingdom, with 78 gigs on soundcheck across Dundee and Edinburgh. Often billed alongside DV60, Smiff and Sea Urchin. Next up: The Bongo Club, Edinburgh on Tue 13 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Sneaky Pete's | Edinburgh |
 | Tue, 13 Oct 2026 | The Bongo Club | Edinburgh |
 
 ## Recently played
 
+- Sneaky Pete's, Edinburgh · Sun, 11 Oct 2026
 - Paradise Palms, Edinburgh · Sat, 5 Sept 2026
 - The Mash House, Edinburgh · Sat, 22 Aug 2026
 - TBA - The Roastery, George Square Lane, EH8 9LD , Edinburgh · Sat, 15 Aug 2026
@@ -20,10 +20,9 @@ Wrisk is a techno and hardcore artist based in United Kingdom, with 78 gigs on s
 - The Bongo Club, Edinburgh · Fri, 23 Jan 2026
 - The Bongo Club, Edinburgh · Wed, 31 Dec 2025
 - The Bongo Club, Edinburgh · Fri, 26 Dec 2025
-- The Mash House, Edinburgh · Fri, 19 Dec 2025
 
 ## Shares bills with
 
 DV60, Smiff, Sea Urchin
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wrisk/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wrisk/)*

@@ -1,6 +1,6 @@
 # Funk Tribu
 
-Funk Tribu is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The Concourse Project, Austin on Thu, 15 Oct 2026.
+Funk Tribu is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Concourse Project, Austin on Thu, 15 Oct 2026.
 
 Funk Tribu is a techno and trance artist based in Colombia, with 179 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 59 more. Often billed alongside Bad Boombox, 999999999 and Azyr. Next up: The Concourse Project, Austin on Thu 15 Oct.
 
@@ -35,4 +35,4 @@ Funk Tribu is a techno and trance artist based in Colombia, with 179 gigs on sou
 
 Bad Boombox, 999999999, Azyr
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*

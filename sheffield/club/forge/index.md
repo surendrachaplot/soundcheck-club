@@ -1,6 +1,6 @@
 # FORGE
 
-FORGE is a music venue in Sheffield with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Takuya Nakamura [Live] & Supports" on Thu, 15 Oct 2026.
+FORGE is a music venue in Sheffield with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Takuya Nakamura [Live] & Supports" on Thu, 15 Oct 2026.
 
 FORGE is a music venue in Sheffield listed on soundcheck. 9 upcoming gigs, with line-ups including Adam F, Ben Suff Donk, Bimini and Burt Cope and 2 more. See dates, start times and who's playing. 148 Effingham Road, Sheffield, S4 7YS.
 
@@ -22,4 +22,4 @@ FORGE is a music venue in Sheffield listed on soundcheck. 9 upcoming gigs, with 
 
 148 Effingham Road, Sheffield, S4 7YS, Sheffield
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/forge/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/forge/)*

@@ -1,14 +1,15 @@
 # IMEN
 
-IMEN is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Eivissa Ship, Amsterdam on Thu, 22 Oct 2026.
+IMEN is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Eivissa Ship, Amsterdam on Thu, 22 Oct 2026.
 
-IMEN is a house and afro house artist based in Iran, with 18 gigs on soundcheck across Amsterdam, Bali, Cologne and Frankfurt and 3 more. Often billed alongside ATMEN, Affani and Audera. Next up: Eivissa Ship, Amsterdam on Thu 22 Oct.
+IMEN is a house and afro house artist based in Iran, with 19 gigs on soundcheck across Amsterdam, Bali, Cologne and Frankfurt and 3 more. Often billed alongside ATMEN, Affani and Audera. Next up: Eivissa Ship, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Eivissa Ship | Amsterdam |
+| Fri, 23 Oct 2026 | TBA - STOOM SHIP- Ndsm pier 6, Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Madam | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ IMEN is a house and afro house artist based in Iran, with 18 gigs on soundcheck 
 
 ATMEN, Affani, Audera
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imen/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imen/)*

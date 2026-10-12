@@ -1,6 +1,6 @@
 # Jack Jelly
 
-Jack Jelly is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Rocket Bar, Adelaide on Sat, 17 Oct 2026.
+Jack Jelly is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Rocket Bar, Adelaide on Sat, 17 Oct 2026.
 
 Jack Jelly is a house and disco artist, with 8 gigs on soundcheck across Adelaide. Often billed alongside La Lani, DylanWrites and Late Nite Lew. Next up: Rocket Bar, Adelaide on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ Jack Jelly is a house and disco artist, with 8 gigs on soundcheck across Adelaid
 
 La Lani, DylanWrites, Late Nite Lew
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackjelly/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackjelly/)*

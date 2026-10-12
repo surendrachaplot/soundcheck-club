@@ -1,6 +1,6 @@
 # Pan-Pot
 
-Pan-Pot is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Hangar Luke Beograd, Belgrade on Fri, 16 Oct 2026.
+Pan-Pot is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Hangar Luke Beograd, Belgrade on Fri, 16 Oct 2026.
 
 Pan-Pot is a techno and house artist based in Germany, with 185 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 59 more. Often billed alongside Adam Beyer, Anfisa Letyago and Enrico Sangiuliano. Next up: Hangar Luke Beograd, Belgrade on Fri 16 Oct.
 
@@ -34,4 +34,4 @@ Pan-Pot is a techno and house artist based in Germany, with 185 gigs on soundche
 
 Adam Beyer, Anfisa Letyago, Enrico Sangiuliano
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*

@@ -1,6 +1,6 @@
 # Thomas Gram
 
-Thomas Gram is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Buda BXL, Brussels on Sat, 7 Nov 2026.
+Thomas Gram is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Buda BXL, Brussels on Sat, 7 Nov 2026.
 
 Thomas Gram is a techno and idm artist, with 5 gigs on soundcheck across Berlin, Brussels and Ghent. Often billed alongside Acronym, Ampe and Ben Kamal. Next up: Buda BXL, Brussels on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ Thomas Gram is a techno and idm artist, with 5 gigs on soundcheck across Berlin,
 
 Acronym, Ampe, Ben Kamal
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasgram/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasgram/)*

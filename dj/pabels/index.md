@@ -1,6 +1,6 @@
 # Pabels
 
-Pabels is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Crobar - Buenos Aires, Buenos-aires on Fri, 16 Oct 2026.
+Pabels is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Crobar - Buenos Aires, Buenos-aires on Fri, 16 Oct 2026.
 
 Pabels is a house and disco artist based in Argentina, with 74 gigs on soundcheck across Barcelona, Berlin, Brazil and Budapest and 16 more. Often billed alongside Dobao, JUNA and Momo Trosman. Next up: Crobar - Buenos Aires, Buenos Aires on Fri 16 Oct.
 
@@ -31,4 +31,4 @@ Pabels is a house and disco artist based in Argentina, with 74 gigs on soundchec
 
 Dobao, JUNA, Momo Trosman
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pabels/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pabels/)*

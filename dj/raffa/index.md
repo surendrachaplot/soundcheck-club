@@ -1,6 +1,6 @@
 # RAFFA
 
-RAFFA is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Helios37, Cologne on Sat, 17 Oct 2026.
+RAFFA is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Helios37, Cologne on Sat, 17 Oct 2026.
 
 RAFFA is a techno and drum & bass artist based in Germany, with 10 gigs on soundcheck across Amsterdam, Bangkok, Budapest and Cologne. Often billed alongside LSG, Matthias Olck and Tristan K. Next up: Helios37, Cologne on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ RAFFA is a techno and drum & bass artist based in Germany, with 10 gigs on sound
 
 LSG, Matthias Olck, Tristan K (1)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raffa/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raffa/)*

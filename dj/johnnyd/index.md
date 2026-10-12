@@ -1,6 +1,6 @@
 # Johnny D
 
-Johnny D is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Golden Gate, Berlin on Fri, 23 Oct 2026.
+Johnny D is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Golden Gate, Berlin on Fri, 23 Oct 2026.
 
 Johnny D is a house and minimal artist based in Germany, with 28 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Frankfurt and 5 more. Often billed alongside Hagel, Rafa and RAFAELO. Next up: Golden Gate, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Johnny D is a house and minimal artist based in Germany, with 28 gigs on soundch
 
 Hagel, Rafa (1), RAFAELO
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyd/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyd/)*

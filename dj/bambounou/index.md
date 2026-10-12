@@ -1,6 +1,6 @@
 # Bambounou
 
-Bambounou is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Chinois Ibiza, Ibiza on Fri, 16 Oct 2026.
+Bambounou is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Chinois Ibiza, Ibiza on Fri, 16 Oct 2026.
 
 Bambounou is a techno and house artist based in France, with 174 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 49 more. Often billed alongside Sedef Adasï, Sossa and Bradley Zero. Next up: Chinois Ibiza, Ibiza on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ Bambounou is a techno and house artist based in France, with 174 gigs on soundch
 
 Sedef Adasï, Sossa, Bradley Zero
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambounou/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambounou/)*

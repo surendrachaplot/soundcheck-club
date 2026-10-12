@@ -1,6 +1,6 @@
 # OB
 
-OB is a Drum & Bass and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Bread & Butter Arch, London on Fri, 23 Oct 2026.
+OB is a Drum & Bass and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Bread & Butter Arch, London on Fri, 23 Oct 2026.
 
 OB is a drum & bass and deep house artist based in United Kingdom, with 5 gigs on soundcheck across London and Paris. Often billed alongside Acolyte, Counter Culture and ETHICS. Next up: Bread & Butter Arch, London on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ OB is a drum & bass and deep house artist based in United Kingdom, with 5 gigs o
 
 Acolyte, Counter Culture, ETHICS
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ob-uk/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ob-uk/)*

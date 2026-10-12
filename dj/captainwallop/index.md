@@ -1,6 +1,6 @@
 # Captain Wallop
 
-Captain Wallop is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Quarters, Brighton on Sat, 31 Oct 2026.
+Captain Wallop is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Quarters, Brighton on Sat, 31 Oct 2026.
 
 Captain Wallop is a garage and house artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 14 more. Often billed alongside RTK Tarantino, DAISY and Locky. Next up: Quarters, Brighton on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ Captain Wallop is a garage and house artist based in United Kingdom, with 53 gig
 
 RTK Tarantino, DAISY, Locky
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/captainwallop/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/captainwallop/)*

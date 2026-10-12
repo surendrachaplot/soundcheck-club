@@ -1,6 +1,6 @@
 # Afra
 
-Afra is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 16 Oct 2026.
+Afra is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 16 Oct 2026.
 
 Afra is a techno and house artist based in Netherlands, with 119 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 14 more. Often billed alongside Serge, Mary Lake and TWIENA. Next up: Tresor / Globus, Berlin on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ Afra is a techno and house artist based in Netherlands, with 119 gigs on soundch
 
 Serge, Mary Lake, TWIENA
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afra/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afra/)*

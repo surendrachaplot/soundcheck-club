@@ -1,14 +1,13 @@
 # Paragon
 
-Paragon is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "CHARLIE" on Sun, 11 Oct 2026.
+Paragon is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Phantasma: Joey Beltram, Volvox, Light Asylum(DJ Set) + Lenny Dee, FortifiedStructures" on Fri, 16 Oct 2026.
 
-Paragon is a music venue in New York City listed on soundcheck. 12 upcoming gigs, with line-ups including AK (US), Ashley Venom, BLAIZE and Boris and 2 more. See dates, start times and who's playing. 990 Broadway Brooklyn, NY.
+Paragon is a music venue in New York City listed on soundcheck. 11 upcoming gigs, with line-ups including AK (US), Ashley Venom, BLAIZE and Boris and 2 more. See dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | CHARLIE | Hector Romero |
 | Fri, 16 Oct 2026 | Phantasma: Joey Beltram, Volvox, Light Asylum(DJ Set) + Lenny Dee, FortifiedStructures | FortifiedStructures, Joey Beltram, Lenny Dee, Light Asylum, Volvox |
 | Sat, 17 Oct 2026 | HAUSU_OF_BUBBLE T: COSPL_A_ZIA 2026 | LANSUH, Ly Tran |
 | Fri, 23 Oct 2026 | Paradiso: Ultra Naté, Kilopatrah Jones, Karim Olen Ash + Saia, RATONC1T0 | Karim Olen Ash, Kilopatrah Jones, RATONC1T0, Saia, Ultra Naté |
@@ -18,9 +17,10 @@ Paragon is a music venue in New York City listed on soundcheck. 12 upcoming gigs
 | Sat, 31 Oct 2026 | Halloween: Boris, Juana, VILE + DJ SWISHA, nextdimensional | Boris, DJ SWISHA, Juana, VILE, nextdimensional |
 | Thu, 12 Nov 2026 | Doss & Friends | Doss |
 | Thu, 19 Nov 2026 | God Bless This Whorehouse | AK (US), Jin & Juice, Kilopatrah Jones, LITA DA DOLL, phlegm |
+| Sat, 21 Nov 2026 | yaego, Sangre, Glass Halo + Ashley Venom & Nymph | Ashley Venom, Nymph (NY), yaego |
 
 ## Address
 
 990 Broadway Brooklyn, NY, New York City
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*

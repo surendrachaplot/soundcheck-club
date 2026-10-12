@@ -1,6 +1,6 @@
 # Kasun
 
-Kasun is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA, Canberra on Sat, 24 Oct 2026.
+Kasun is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA, Canberra on Sat, 24 Oct 2026.
 
 Kasun is a techno and house artist, with 16 gigs on soundcheck across Canberra, Copenhagen, Melbourne and Sydney. Often billed alongside Kia (AU), Bertie and D-Grade. Next up: TBA, Canberra on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Kasun is a techno and house artist, with 16 gigs on soundcheck across Canberra, 
 
 Kia (AU), Bertie, D-Grade
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasun/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasun/)*

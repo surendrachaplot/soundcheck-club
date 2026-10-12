@@ -1,6 +1,6 @@
 # SKADI
 
-SKADI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Upper Halo, Hamburg on Fri, 6 Nov 2026.
+SKADI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Upper Halo, Hamburg on Fri, 6 Nov 2026.
 
 SKADI is a techno and trance artist based in Germany, with 38 gigs on soundcheck across Berlin, Hamburg and Prague. Often billed alongside Oliver Eich, DAIVER and Henny Freiheit. Next up: Upper Halo, Hamburg on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ SKADI is a techno and trance artist based in Germany, with 38 gigs on soundcheck
 
 Oliver Eich, DAIVER, Henny Freiheit
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skadi/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skadi/)*

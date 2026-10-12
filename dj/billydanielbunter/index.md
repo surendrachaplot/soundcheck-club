@@ -1,6 +1,6 @@
 # Billy Daniel Bunter
 
-Billy Daniel Bunter is a Hardcore and Jungle artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Electrowerkz, London on Sat, 17 Oct 2026.
+Billy Daniel Bunter is a Hardcore and Jungle artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Electrowerkz, London on Sat, 17 Oct 2026.
 
 Billy Daniel Bunter is a hardcore and jungle artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Brighton, Edinburgh and Leeds and 7 more. Often billed alongside Nicky Blackmarket, Ratpack and Grooverider. Next up: Electrowerkz, London on Sat 17 Oct.
 
@@ -30,4 +30,4 @@ Billy Daniel Bunter is a hardcore and jungle artist based in United Kingdom, wit
 
 Nicky Blackmarket, Ratpack, Grooverider
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billydanielbunter/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billydanielbunter/)*

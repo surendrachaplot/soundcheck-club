@@ -1,6 +1,6 @@
 # Kathleen C
 
-Kathleen C is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TRAUM, Antwerp on Sat, 31 Oct 2026.
+Kathleen C is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TRAUM, Antwerp on Sat, 31 Oct 2026.
 
 Kathleen C is a techno and house artist based in Belgium, with 31 gigs on soundcheck across Antwerp, Brussels, Strasbourg and The Hague. Often billed alongside Vera Moro, Azo and Stanislawa. Next up: TRAUM, Antwerp on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Kathleen C is a techno and house artist based in Belgium, with 31 gigs on soundc
 
 Vera Moro, Azo, Stanislawa
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kathleenc/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kathleenc/)*

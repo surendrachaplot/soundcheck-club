@@ -1,6 +1,6 @@
 # chago_91
 
-chago_91 is a Hardcore and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Système, Montreal on Sat, 31 Oct 2026.
+chago_91 is a Hardcore and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Système, Montreal on Sat, 31 Oct 2026.
 
 chago_91 is a hardcore and ghetto tech artist based in Chile, with 4 gigs on soundcheck across Montreal. Often billed alongside Raef (US), Ana Luisa and DJ Syncronizada. Next up: Système, Montreal on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ chago_91 is a hardcore and ghetto tech artist based in Chile, with 4 gigs on sou
 
 Raef (US), Ana Luisa, DJ Syncronizada
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chago_91/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chago_91/)*

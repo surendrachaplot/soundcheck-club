@@ -1,6 +1,6 @@
 # Elly DJ
 
-Elly DJ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 14 Oct 2026.
+Elly DJ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 14 Oct 2026.
 
 Elly DJ is a techno and house artist based in United States of America, with 16 gigs on soundcheck across New York City. Often billed alongside Hannah Account, microfossil and Angel Money. Next up: Bossa Nova Civic Club, New York City on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ Elly DJ is a techno and house artist based in United States of America, with 16 
 
 Hannah Account, microfossil, Angel Money
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellydj/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellydj/)*

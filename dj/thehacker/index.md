@@ -1,6 +1,6 @@
 # The Hacker
 
-The Hacker is a Techno and Electro artist with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Golden Pudel Club, Hamburg on Thu, 15 Oct 2026.
+The Hacker is a Techno and Electro artist with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Golden Pudel Club, Hamburg on Thu, 15 Oct 2026.
 
 The Hacker is a techno and electro artist based in France, with 120 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Miss Kittin, Alessandro Adriani and Charlie. Next up: Golden Pudel Club, Hamburg on Thu 15 Oct.
 
@@ -32,4 +32,4 @@ The Hacker is a techno and electro artist based in France, with 120 gigs on soun
 
 Miss Kittin, Alessandro Adriani, Charlie
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thehacker/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thehacker/)*

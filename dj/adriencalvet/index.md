@@ -1,6 +1,6 @@
 # Adrien Calvet
 
-Adrien Calvet is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Distillery N17, London on Fri, 16 Oct 2026.
+Adrien Calvet is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Distillery N17, London on Fri, 16 Oct 2026.
 
 Adrien Calvet is a house and techno artist based in France, with 48 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 18 more. Often billed alongside Emi Ömar, HearThug and Occibel. Next up: Distillery N17, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Adrien Calvet is a house and techno artist based in France, with 48 gigs on soun
 
 Emi Ömar, HearThug, Occibel
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adriencalvet/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adriencalvet/)*

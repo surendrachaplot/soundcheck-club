@@ -1,6 +1,6 @@
 # Hatiras
 
-Hatiras is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The Comfort Zone, Toronto on Sat, 21 Nov 2026.
+Hatiras is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Comfort Zone, Toronto on Sat, 21 Nov 2026.
 
 Hatiras is a house and tech house artist based in Canada, with 72 gigs on soundcheck across Amsterdam, Chicago, Miami and Montreal and 2 more. Often billed alongside Vincent Caira, Miz Megs and TAKiN. Next up: The Comfort Zone, Toronto on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Hatiras is a house and tech house artist based in Canada, with 72 gigs on soundc
 
 Vincent Caira, Miz Megs, TAKiN
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgehatiras/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgehatiras/)*

@@ -1,6 +1,6 @@
 # Cecilia Tosh
 
-Cecilia Tosh is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Our Sake Club, Berlin on Thu, 15 Oct 2026.
+Cecilia Tosh is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Our Sake Club, Berlin on Thu, 15 Oct 2026.
 
 Cecilia Tosh is a techno and house artist based in Germany, with 74 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Kat Davids, James Ruskin and future.666. Next up: Our Sake Club, Berlin on Thu 15 Oct.
 
@@ -28,4 +28,4 @@ Cecilia Tosh is a techno and house artist based in Germany, with 74 gigs on soun
 
 Kat Davids, James Ruskin, future.666
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ceciliatosh/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ceciliatosh/)*

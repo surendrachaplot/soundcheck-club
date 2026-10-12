@@ -1,6 +1,6 @@
 # mara (AU)
 
-mara (AU) is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Cult Nightclub, Sydney on Fri, 16 Oct 2026.
+mara (AU) is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Cult Nightclub, Sydney on Fri, 16 Oct 2026.
 
 mara (AU) is a techno and tech house artist based in Australia, with 58 gigs on soundcheck across Brisbane and Sydney. Often billed alongside HIJCKD, Allen Cedano and KAYA (AU). Next up: Cult Nightclub, Sydney on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ mara (AU) is a techno and tech house artist based in Australia, with 58 gigs on 
 
 HIJCKD, Allen Cedano, KAYA (AU)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maradj/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maradj/)*

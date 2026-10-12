@@ -1,6 +1,6 @@
 # Carabetta
 
-Carabetta is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Oosterbar, Amsterdam on Thu, 22 Oct 2026.
+Carabetta is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Oosterbar, Amsterdam on Thu, 22 Oct 2026.
 
 Carabetta is a tech house and house artist based in United States of America, with 7 gigs on soundcheck across Amsterdam, Boston and Toronto. Often billed alongside Carlo Lio, Manzone & Strong and Tyler Hill. Next up: Oosterbar, Amsterdam on Thu 22 Oct.
 
@@ -23,4 +23,4 @@ Carabetta is a tech house and house artist based in United States of America, wi
 
 Carlo Lio, Manzone & Strong, Tyler Hill
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carabetta/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carabetta/)*

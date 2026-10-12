@@ -1,6 +1,6 @@
 # Thang
 
-Thang is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Amigo, Ghent on Thu, 31 Dec 2026.
+Thang is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Amigo, Ghent on Thu, 31 Dec 2026.
 
 Thang is a house and disco artist, with 39 gigs on soundcheck across Antwerp, Brussels, Ghent and Paris and 2 more. Often billed alongside Kenny Montana, John Noseda and Bafana. Next up: Amigo, Ghent on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Thang is a house and disco artist, with 39 gigs on soundcheck across Antwerp, Br
 
 Kenny Montana, John Noseda, Bafana
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thang/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thang/)*

@@ -1,6 +1,6 @@
 # DANNY G LUVS U
 
-DANNY G LUVS U is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Club Tee Gee, Los Angeles on Thu, 22 Oct 2026.
+DANNY G LUVS U is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Club Tee Gee, Los Angeles on Thu, 22 Oct 2026.
 
 DANNY G LUVS U is a house and techno artist, with 4 gigs on soundcheck across Los Angeles. Often billed alongside Lily Ardalan, AMANTE and Monchai. Next up: Club Tee Gee, Los Angeles on Thu 22 Oct.
 
@@ -20,4 +20,4 @@ DANNY G LUVS U is a house and techno artist, with 4 gigs on soundcheck across Lo
 
 Lily Ardalan, AMANTE, Monchai
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannygluvsu/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannygluvsu/)*

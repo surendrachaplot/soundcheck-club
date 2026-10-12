@@ -1,6 +1,6 @@
 # Ueberrest
 
-Ueberrest is a Techno and Trance artist with 15 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Valsemøllen, Bergen on Fri, 16 Oct 2026.
+Ueberrest is a Techno and Trance artist with 15 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Valsemøllen, Bergen on Fri, 16 Oct 2026.
 
 Ueberrest is a techno and trance artist based in Switzerland, with 101 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: Valsemøllen, Bergen on Fri 16 Oct.
 
@@ -36,4 +36,4 @@ Ueberrest is a techno and trance artist based in Switzerland, with 101 gigs on s
 
 Kobosil, Somewhen, KUKO
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*

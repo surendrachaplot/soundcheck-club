@@ -1,6 +1,6 @@
 # FJUSHA
 
-FJUSHA is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at De Flesjesfabriek, Ghent on Sat, 17 Oct 2026.
+FJUSHA is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at De Flesjesfabriek, Ghent on Sat, 17 Oct 2026.
 
 FJUSHA is a techno and trance artist based in Germany, with 73 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 22 more. Often billed alongside DJ Cringey, CALLUSH and Clara Cuvé. Next up: De Flesjesfabriek, Ghent on Sat 17 Oct.
 
@@ -30,4 +30,4 @@ FJUSHA is a techno and trance artist based in Germany, with 73 gigs on soundchec
 
 DJ Cringey, CALLUSH, Clara Cuvé
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fjusha/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fjusha/)*

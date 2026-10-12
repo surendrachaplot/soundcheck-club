@@ -1,6 +1,6 @@
 # E.LINA
 
-E.LINA is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 16 Oct 2026.
+E.LINA is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 16 Oct 2026.
 
 E.LINA is a house and techno artist based in Ukraine, with 155 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 34 more. Often billed alongside Annyrock, DJ Senc and Dyed Soundorom. Next up: Gallery 1986, Vilnius on Fri 16 Oct.
 
@@ -33,4 +33,4 @@ E.LINA is a house and techno artist based in Ukraine, with 155 gigs on soundchec
 
 Annyrock, DJ Senc, Dyed Soundorom
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e-lina/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e-lina/)*

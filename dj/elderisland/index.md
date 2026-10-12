@@ -1,6 +1,6 @@
 # Elder Island
 
-Elder Island is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Belgrave Music Hall, Leeds on Fri, 30 Oct 2026.
+Elder Island is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Belgrave Music Hall, Leeds on Fri, 30 Oct 2026.
 
 Elder Island is an electronica and house artist based in United Kingdom, with 5 gigs on soundcheck across Leeds, London and Montreal. Often billed alongside Boston Bun, Conrad Lee and Hemlin. Next up: Belgrave Music Hall, Leeds on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Elder Island is an electronica and house artist based in United Kingdom, with 5 
 
 Boston Bun, Conrad Lee, Hemlin
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elderisland/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elderisland/)*

@@ -1,6 +1,6 @@
 # Dimitri (2)
 
-Dimitri (2) is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Lofi, Amsterdam on Sat, 13 Feb 2027.
+Dimitri (2) is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Lofi, Amsterdam on Sat, 13 Feb 2027.
 
 Dimitri is an acid and house artist based in Vietnam, with 4 gigs on soundcheck across Amsterdam. Often billed alongside Alexander Koning, Divine and Lucien Foort. Next up: Lofi, Amsterdam on Sat 13 Feb.
 
@@ -20,4 +20,4 @@ Dimitri is an acid and house artist based in Vietnam, with 4 gigs on soundcheck 
 
 Alexander Koning, Divine, Lucien Foort
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitri-2/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitri-2/)*

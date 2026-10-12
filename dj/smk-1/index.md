@@ -1,6 +1,6 @@
 # SMK (1)
 
-SMK (1) is a House and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Odonien, Cologne on Wed, 14 Oct 2026.
+SMK (1) is a House and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Odonien, Cologne on Wed, 14 Oct 2026.
 
 SMK is a house and minimal techno artist based in United Kingdom, with 7 gigs on soundcheck across Cologne and Glasgow. Often billed alongside Surplus, Ali Watts and Amizl. Next up: Odonien, Cologne on Wed 14 Oct.
 
@@ -23,4 +23,4 @@ SMK is a house and minimal techno artist based in United Kingdom, with 7 gigs on
 
 Surplus, Ali Watts, Amizl
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smk-1/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smk-1/)*

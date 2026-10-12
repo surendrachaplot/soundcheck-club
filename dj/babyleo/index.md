@@ -1,6 +1,6 @@
 # Baby Leo
 
-Baby Leo is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Bastet, Philadelphia on Fri, 23 Oct 2026.
+Baby Leo is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Bastet, Philadelphia on Fri, 23 Oct 2026.
 
 Baby Leo is a techno and bass artist based in United States of America, with 26 gigs on soundcheck across New York City, Philadelphia, Portland and San Francisco/Oakland. Often billed alongside Relaxer, aka-Sol and K Wata. Next up: Bastet, Philadelphia on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Baby Leo is a techno and bass artist based in United States of America, with 26 
 
 Relaxer, aka-Sol, K Wata
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyleo/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyleo/)*

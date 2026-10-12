@@ -1,6 +1,6 @@
 # MöRDA
 
-MöRDA is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Cabo Beach Club, Cape-town on Sat, 26 Dec 2026.
+MöRDA is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Cabo Beach Club, Cape-town on Sat, 26 Dec 2026.
 
 MöRDA is an afro house and afro tech artist based in South Africa, with 8 gigs on soundcheck across Cape Town, Ibiza, London and New York City. Often billed alongside Black Coffee, Cameron Jack and Carl Craig. Next up: Cabo Beach Club, Cape Town on Sat 26 Dec.
 
@@ -24,4 +24,4 @@ MöRDA is an afro house and afro tech artist based in South Africa, with 8 gigs 
 
 Black Coffee, Cameron Jack, Carl Craig
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morda/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morda/)*

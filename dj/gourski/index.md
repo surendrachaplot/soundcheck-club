@@ -1,6 +1,6 @@
 # Gourski
 
-Gourski is a Drum & Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Void Club, Berlin on Fri, 16 Oct 2026.
+Gourski is a Drum & Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Void Club, Berlin on Fri, 16 Oct 2026.
 
 Gourski is a drum & bass and techno artist based in Germany, with 123 gigs on soundcheck across Berlin, Cologne, Eindhoven and Leipzig and 3 more. Often billed alongside Enaly, Jaycut and DELTA LABS. Next up: Void Club, Berlin on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Gourski is a drum & bass and techno artist based in Germany, with 123 gigs on so
 
 Enaly, Jaycut, DELTA LABS
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gourski/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gourski/)*

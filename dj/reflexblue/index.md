@@ -1,6 +1,6 @@
 # Reflex Blue
 
-Reflex Blue is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Distrikt, Leeds on Sat, 17 Oct 2026.
+Reflex Blue is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Distrikt, Leeds on Sat, 17 Oct 2026.
 
 Reflex Blue is a house and tech house artist based in Australia, with 110 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 35 more. Often billed alongside Fumiya Tanaka, Voigtmann and Cap. Next up: Distrikt, Leeds on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Reflex Blue is a house and tech house artist based in Australia, with 110 gigs o
 
 Fumiya Tanaka, Voigtmann, Cap
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reflexblue/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reflexblue/)*

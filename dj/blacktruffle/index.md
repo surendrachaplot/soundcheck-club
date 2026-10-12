@@ -1,6 +1,6 @@
 # Black Truffle
 
-Black Truffle is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Simach в Недальнем, Moscow on Fri, 16 Oct 2026.
+Black Truffle is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Simach в Недальнем, Moscow on Fri, 16 Oct 2026.
 
 Black Truffle is a disco and italo disco artist, with 9 gigs on soundcheck across Mallorca, Moscow, Naples and Paris. Often billed alongside Aldonna, Aï Smash and Donna Gibson. Next up: Simach в Недальнем, Moscow on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Black Truffle is a disco and italo disco artist, with 9 gigs on soundcheck acros
 
 Aldonna, Aï Smash, Donna Gibson
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktruffle/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktruffle/)*

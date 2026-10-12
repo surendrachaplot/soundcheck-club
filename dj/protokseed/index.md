@@ -1,14 +1,13 @@
 # Protokseed
 
-Protokseed is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+Protokseed is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Mia Mao, Paris on Fri, 13 Nov 2026.
 
-Protokseed is a techno and acid artist based in France, with 43 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Brussels and 13 more. Often billed alongside Sköne, FLKN and DXPE (ES). Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
+Protokseed is a techno and acid artist based in France, with 43 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Brussels and 13 more. Often billed alongside Sköne, FLKN and DXPE (ES). Next up: Mia Mao, Paris on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 | Fri, 13 Nov 2026 | Mia Mao | Paris |
 | Fri, 13 Nov 2026 | Mia Mao | Paris |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
@@ -28,4 +27,4 @@ Protokseed is a techno and acid artist based in France, with 43 gigs on soundche
 
 Sköne, FLKN, DXPE (ES)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/protokseed/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/protokseed/)*

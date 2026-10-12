@@ -1,6 +1,6 @@
 # Mood Architect
 
-Mood Architect is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Tapestry, Toronto on Sun, 25 Oct 2026.
+Mood Architect is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Tapestry, Toronto on Sun, 25 Oct 2026.
 
 Mood Architect is a progressive house and deep house artist based in United Kingdom, with 5 gigs on soundcheck across Toronto. Often billed alongside ARJ (IR), PRSIS10S and Lizard Time. Next up: Tapestry, Toronto on Sun 25 Oct.
 
@@ -21,4 +21,4 @@ Mood Architect is a progressive house and deep house artist based in United King
 
 ARJ (IR), PRSIS10S, Lizard Time
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moodarchitect/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moodarchitect/)*

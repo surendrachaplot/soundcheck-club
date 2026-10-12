@@ -1,6 +1,6 @@
 # Ramyen
 
-Ramyen is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Refuge, New-york-city on Sat, 17 Oct 2026.
+Ramyen is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Refuge, New-york-city on Sat, 17 Oct 2026.
 
 Ramyen is a deep house and house artist based in France, with 53 gigs on soundcheck across Amsterdam, Athens, Budapest and Central and 10 more. Often billed alongside Notre Dame, Saraga and Shimza. Next up: Refuge, New York City on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Ramyen is a deep house and house artist based in France, with 53 gigs on soundch
 
 Notre Dame, Saraga, Shimza
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramyen/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramyen/)*

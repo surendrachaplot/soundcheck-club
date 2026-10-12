@@ -1,6 +1,6 @@
 # KHIDI
 
-KHIDI is a music venue in Tbilisi with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "KHIDI: Ancient Methods, Alexandra, Demuja, Sevda" on Fri, 16 Oct 2026.
+KHIDI is a music venue in Tbilisi with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "KHIDI: Ancient Methods, Alexandra, Demuja, Sevda" on Fri, 16 Oct 2026.
 
 KHIDI is a music venue in Tbilisi listed on soundcheck. 3 upcoming gigs, with line-ups including Ash Scholem, Alexandra (GE), Ancient Methods and Boyd Schidt and 2 more. See dates, start times and who's playing. Vakhushti Bagrationi Bridge, Right Embankment, 0160 Tbilisi.
 
@@ -16,4 +16,4 @@ KHIDI is a music venue in Tbilisi listed on soundcheck. 3 upcoming gigs, with li
 
 Vakhushti Bagrationi Bridge, Right Embankment, 0160 Tbilisi, Tbilisi
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/khidi/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/khidi/)*

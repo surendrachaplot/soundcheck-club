@@ -1,6 +1,6 @@
 # ASCHENBRENNER
 
-ASCHENBRENNER is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Club Exil, Vienna on Fri, 30 Oct 2026.
+ASCHENBRENNER is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Club Exil, Vienna on Fri, 30 Oct 2026.
 
 ASCHENBRENNER is a techno and trance artist based in Germany, with 48 gigs on soundcheck across Berlin, Cologne, Hamburg and Lisbon and 2 more. Often billed alongside SUITSIDE, BabaBass3000 and THURI. Next up: Club Exil, Vienna on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ ASCHENBRENNER is a techno and trance artist based in Germany, with 48 gigs on so
 
 SUITSIDE, BabaBass3000, THURI
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aschenbrenner/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aschenbrenner/)*

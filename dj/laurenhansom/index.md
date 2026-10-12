@@ -1,6 +1,6 @@
 # Lauren Hansom
 
-Lauren Hansom is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
+Lauren Hansom is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
 
 Lauren Hansom is a house and club artist based in Australia, with 24 gigs on soundcheck across Auckland, Brisbane, Melbourne and New York City and 2 more. Often billed alongside HanSom, Wax'o Paradiso and DJ PGZ. Next up: Collingwood Children's Farm, Melbourne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Lauren Hansom is a house and club artist based in Australia, with 24 gigs on sou
 
 HanSom, Wax'o Paradiso, DJ PGZ
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenhansom/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenhansom/)*

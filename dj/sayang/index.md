@@ -1,6 +1,6 @@
 # Sayang
 
-Sayang is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The DBA, Manchester on Thu, 15 Oct 2026.
+Sayang is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The DBA, Manchester on Thu, 15 Oct 2026.
 
 Sayang is a house and techno artist based in United Kingdom, with 13 gigs on soundcheck across Leeds, London, Manchester and Vancouver. Often billed alongside Kessie, DJ dood and Iyesha. Next up: The DBA, Manchester on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Sayang is a house and techno artist based in United Kingdom, with 13 gigs on sou
 
 Kessie, DJ dood, Iyesha
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sayang/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sayang/)*

@@ -1,6 +1,6 @@
 # Kaskada
 
-Kaskada is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "POLSKIE KOLEJE BASSOWE × BRUD" on Sat, 24 Oct 2026.
+Kaskada is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "POLSKIE KOLEJE BASSOWE × BRUD" on Sat, 24 Oct 2026.
 
 Kaskada is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with line-ups including BROTHER TIM, Mikouaj Rejw / Wixapol S.A., Muzaman and PLATTER and 2 more. See dates, start times and who's playing. Wybrzeże Kościuszkowskie 2, 00-390 Warszawa.
 
@@ -15,4 +15,4 @@ Kaskada is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with l
 
 Wybrzeże Kościuszkowskie 2, 00-390 Warszawa, Warsaw
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/kaskada/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/kaskada/)*

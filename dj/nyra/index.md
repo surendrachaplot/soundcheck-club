@@ -1,6 +1,6 @@
 # Nyra
 
-Nyra is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Nyra is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
 Nyra is a house and techno artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam, Antwerp, Athens and Belfast and 18 more. Often billed alongside Chloé Caillet, Demi Riquisimo and Grace Sands. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
@@ -31,4 +31,4 @@ Nyra is a house and techno artist based in United Kingdom, with 66 gigs on sound
 
 Chloé Caillet, Demi Riquisimo, Grace Sands
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyra/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyra/)*

@@ -1,14 +1,13 @@
 # Natasha Diggs
 
-Natasha Diggs is a House and Funk / Soul artist with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Komplexo Tempo, Sao Paulo on Sun, 11 Oct 2026.
+Natasha Diggs is a House and Funk / Soul artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Chocolate Factory, New York City on Fri, 23 Oct 2026.
 
-Natasha Diggs is a house and funk / soul artist based in United States of America, with 124 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 21 more. Often billed alongside Melvo Baptiste, The Shapeshifters and L3Ni. Next up: Komplexo Tempo, Sao Paulo on Sun 11 Oct.
+Natasha Diggs is a house and funk / soul artist based in United States of America, with 124 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 21 more. Often billed alongside Melvo Baptiste, The Shapeshifters and L3Ni. Next up: The Chocolate Factory, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Komplexo Tempo | Sao Paulo |
 | Fri, 23 Oct 2026 | The Chocolate Factory | New York City |
 | Fri, 6 Nov 2026 | TBA | New York City |
 | Wed, 25 Nov 2026 | The Chocolate Factory | New York City |
@@ -17,6 +16,7 @@ Natasha Diggs is a house and funk / soul artist based in United States of Americ
 
 ## Recently played
 
+- Komplexo Tempo, Sao Paulo · Sun, 11 Oct 2026
 - Amnesia Ibiza, Ibiza · Fri, 9 Oct 2026
 - Eden NYC, New York City · Fri, 2 Oct 2026
 - TBA - Various Venues, Malta · Thu, 1 Oct 2026
@@ -24,10 +24,9 @@ Natasha Diggs is a house and funk / soul artist based in United States of Americ
 - The Chocolate Factory, New York City · Fri, 25 Sept 2026
 - Amnesia Ibiza, Ibiza · Fri, 18 Sept 2026
 - Refuge, New York City · Sun, 6 Sept 2026
-- Sunday Sunday, Mexico City · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 Melvo Baptiste, The Shapeshifters, L3Ni
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natashadiggs/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natashadiggs/)*

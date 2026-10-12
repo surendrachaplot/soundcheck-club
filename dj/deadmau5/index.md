@@ -1,6 +1,6 @@
 # Deadmau5
 
-Deadmau5 is a Progressive House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Navy Pier, Chicago on Sat, 17 Oct 2026.
+Deadmau5 is a Progressive House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Navy Pier, Chicago on Sat, 17 Oct 2026.
 
 Deadmau5 is a progressive house and electro artist based in Canada, with 46 gigs on soundcheck across Austin, Bali, Boston and Bristol and 14 more. Often billed alongside Artbat, Above & Beyond and Boris Brejcha. Next up: Navy Pier, Chicago on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Deadmau5 is a progressive house and electro artist based in Canada, with 46 gigs
 
 Artbat, Above & Beyond, Boris Brejcha
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deadmau5/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deadmau5/)*

@@ -1,6 +1,6 @@
 # Lee Burridge
 
-Lee Burridge is a Deep House and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Parc Jean-Drapeau, Montreal on Mon, 12 Oct 2026.
+Lee Burridge is a Deep House and House artist with 12 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Parc Jean-Drapeau, Montreal on Mon, 12 Oct 2026.
 
 Lee Burridge is a deep house and house artist based in United Kingdom, with 151 gigs on soundcheck across Austin, Bali, Barcelona and Belgrade and 35 more. Often billed alongside Jim Rider, Tim Green and Double Touch. Next up: Parc Jean-Drapeau, Montreal on Mon 12 Oct.
 
@@ -36,4 +36,4 @@ Lee Burridge is a deep house and house artist based in United Kingdom, with 151 
 
 Jim Rider, Tim Green, Double Touch
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*

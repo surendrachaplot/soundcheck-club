@@ -1,14 +1,13 @@
 # Domi (FR)
 
-Domi (FR) is a Electro and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Buda BXL, Brussels on Sat, 10 Oct 2026.
+Domi (FR) is a Electro and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Funke, Ghent on Fri, 16 Oct 2026.
 
-Domi (FR) is an electro and house artist based in France, with 70 gigs on soundcheck across Barcelona, Berlin, Brussels and Frankfurt and 9 more. Often billed alongside Jolly (FR), Lastvuska and Lumbago. Next up: Buda BXL, Brussels on Sat 10 Oct.
+Domi (FR) is an electro and house artist based in France, with 70 gigs on soundcheck across Barcelona, Berlin, Brussels and Frankfurt and 9 more. Often billed alongside Jolly (FR), Lastvuska and Lumbago. Next up: Funke, Ghent on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Buda BXL | Brussels |
 | Fri, 16 Oct 2026 | Funke | Ghent |
 | Sat, 17 Oct 2026 | MS Club | Marseille |
 | Fri, 6 Nov 2026 | Badaboum | Paris |
@@ -29,4 +28,4 @@ Domi (FR) is an electro and house artist based in France, with 70 gigs on soundc
 
 Jolly (FR), Lastvuska, Lumbago
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domi-FR/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domi-FR/)*

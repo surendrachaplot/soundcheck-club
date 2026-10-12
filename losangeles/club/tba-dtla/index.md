@@ -1,8 +1,8 @@
 # TBA - DTLA
 
-TBA - DTLA is a music venue in Los Angeles with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Off Record presents 14th Door" on Wed, 14 Oct 2026.
+TBA - DTLA is a music venue in Los Angeles with 14 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Off Record presents 14th Door" on Wed, 14 Oct 2026.
 
-TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 13 upcoming gigs, with line-ups including 6 SENSE, MORENXXX, Alienatrix and BEEBA and 2 more. See dates, start times and who's playing.
+TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 14 upcoming gigs, with line-ups including 6 SENSE, MORENXXX, Alienatrix and BEEBA and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -19,4 +19,4 @@ TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 13 upcoming gig
 | Sat, 7 Nov 2026 | Marmalade Jams X The 900 Block presents James Andrew (US Debut) | Daizz, Dylan Payne, James Andrew, Michael Fam, Stefan Seay, Wyatt Marshall |
 | Sat, 14 Nov 2026 | OBSERVE 24 YEAR ANNIVERSARY // Chris Liebing [5hr Set] // Truncate // OKTAFORM (Visuals) | Chris Liebing, Truncate |
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*

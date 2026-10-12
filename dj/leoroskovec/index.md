@@ -1,6 +1,6 @@
 # Leo Roskovec
 
-Leo Roskovec is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Marmorbar, Berlin on Sat, 24 Oct 2026.
+Leo Roskovec is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Marmorbar, Berlin on Sat, 24 Oct 2026.
 
 Leo Roskovec is a techno and house artist based in France, with 5 gigs on soundcheck across Berlin. Often billed alongside .JKM, Maris Shilton and Ponygirl. Next up: Marmorbar, Berlin on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ Leo Roskovec is a techno and house artist based in France, with 5 gigs on soundc
 
 .JKM, Maris Shilton, Ponygirl
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leoroskovec/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leoroskovec/)*

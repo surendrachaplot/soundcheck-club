@@ -1,6 +1,6 @@
 # Palladium Riga
 
-Palladium Riga is a music venue in Riga with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "Fatboy Slim - CRAVE NIGHT @Palladium" on Fri, 20 Nov 2026.
+Palladium Riga is a music venue in Riga with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "Fatboy Slim - CRAVE NIGHT @Palladium" on Fri, 20 Nov 2026.
 
 Palladium Riga is a music venue in Riga listed on soundcheck. 1 upcoming gig, with line-ups including Fatboy Slim. See dates, start times and who's playing. Marijas iela 21, Centra rajons, Rīga, LV-1050, Latvia.
 
@@ -14,4 +14,4 @@ Palladium Riga is a music venue in Riga listed on soundcheck. 1 upcoming gig, wi
 
 Marijas iela 21, Centra rajons, Rīga, LV-1050, Latvia, Riga
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/palladium-riga/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/palladium-riga/)*

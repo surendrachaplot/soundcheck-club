@@ -1,6 +1,6 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "EvilGroove Records Showcase - Lindsey Herbert - BRALLE - Marble Bar" on Fri, 16 Oct 2026.
+Marble Bar is a music venue in Detroit with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "EvilGroove Records Showcase - Lindsey Herbert - BRALLE - Marble Bar" on Fri, 16 Oct 2026.
 
 Marble Bar is a music venue in Detroit listed on soundcheck. 6 upcoming gigs, with line-ups including Audion, Auntie Chanel, BRALLE and Craze and 2 more. See dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
@@ -19,4 +19,4 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 6 upcoming gigs, wi
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

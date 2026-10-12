@@ -1,6 +1,6 @@
 # Armin van Buuren
 
-Armin van Buuren is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at GASHOUDER, Amsterdam on Wed, 21 Oct 2026.
+Armin van Buuren is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at GASHOUDER, Amsterdam on Wed, 21 Oct 2026.
 
 Armin van Buuren is a trance and techno artist based in Netherlands, with 71 gigs on soundcheck across Amsterdam, Austin, Barcelona and Bristol and 26 more. Often billed alongside Miss Monique, Artbat and Billy Gillies. Next up: GASHOUDER, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Armin van Buuren is a trance and techno artist based in Netherlands, with 71 gig
 
 Miss Monique, Artbat, Billy Gillies
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arminvanbuuren/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arminvanbuuren/)*

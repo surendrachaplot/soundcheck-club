@@ -1,6 +1,6 @@
 # Malone
 
-Malone is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Malone is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Malone is a tech house and house artist based in United States of America, with 98 gigs on soundcheck across Austin, Barcelona, Boston and Buenos Aires and 20 more. Often billed alongside Amal Nemer, Bakke and Ms. Mada. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Malone is a tech house and house artist based in United States of America, with 
 
 Amal Nemer, Bakke, Ms. Mada
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malone/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malone/)*

@@ -1,6 +1,6 @@
 # CD HATA
 
-CD HATA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Cube, Tokyo on Tue, 3 Nov 2026.
+CD HATA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Cube, Tokyo on Tue, 3 Nov 2026.
 
 CD HATA is a techno and house artist, with 30 gigs on soundcheck across Tokyo. Often billed alongside Koyas, Hackmarkt and SAKURA TSURUTA. Next up: Cube, Tokyo on Tue 3 Nov.
 
@@ -25,4 +25,4 @@ CD HATA is a techno and house artist, with 30 gigs on soundcheck across Tokyo. O
 
 Koyas, Hackmarkt, SAKURA TSURUTA
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cdhata/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cdhata/)*

@@ -1,6 +1,6 @@
 # Voodoo Meluk
 
-Voodoo Meluk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Outline, Mexico City on Sat, 7 Nov 2026.
+Voodoo Meluk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Outline, Mexico City on Sat, 7 Nov 2026.
 
 Voodoo Meluk is a house and techno artist, with 29 gigs on soundcheck across Mexico City. Often billed alongside Enya Botello, Deejay Fuego and Goodlooking Bastard. Next up: Outline, Mexico City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Voodoo Meluk is a house and techno artist, with 29 gigs on soundcheck across Mex
 
 Enya Botello, Deejay Fuego, Goodlooking Bastard (2)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voodoomeluk/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voodoomeluk/)*

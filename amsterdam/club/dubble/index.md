@@ -1,14 +1,13 @@
 # dubble
 
-dubble is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "participative vinyl session with DJ Klapsalon" on Sun, 11 Oct 2026.
+dubble is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "afternoon interlude: 7inch special with dj conky " on Sat, 17 Oct 2026.
 
-dubble is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Bella Hall, DJ Klapsalon and Nico Borgio. See dates, start times and who's playing. Bilderdijkstraat 46H, Amsterdam, 1052NB.
+dubble is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Bella Hall and Nico Borgio. See dates, start times and who's playing. Bilderdijkstraat 46H, Amsterdam, 1052NB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | participative vinyl session with DJ Klapsalon | DJ Klapsalon |
 | Sat, 17 Oct 2026 | afternoon interlude: 7inch special with dj conky  |  |
 | Thu, 22 Oct 2026 | ADE: zig~zag.fm deep dive | Bella Hall |
 | Sat, 24 Oct 2026 | ADE: Magic Triangle of Afro-Caribbean heritage: West-Africa, Curaçao and Cuba |  |
@@ -19,4 +18,4 @@ dubble is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with
 
 Bilderdijkstraat 46H, Amsterdam, 1052NB, Amsterdam
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/dubble/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/dubble/)*

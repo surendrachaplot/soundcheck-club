@@ -1,6 +1,6 @@
 # Hades
 
-Hades is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
+Hades is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
 
 Hades is a techno and hardcore artist based in Netherlands, with 68 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 26 more. Often billed alongside KARAH, CARV and JAZZY. Next up: Parc del Fòrum, Barcelona on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Hades is a techno and hardcore artist based in Netherlands, with 68 gigs on soun
 
 KARAH, CARV, JAZZY (2)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hades/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hades/)*

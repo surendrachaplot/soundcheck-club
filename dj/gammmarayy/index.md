@@ -1,6 +1,6 @@
 # gammmarayy
 
-gammmarayy is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 18 Oct 2026.
+gammmarayy is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 18 Oct 2026.
 
 gammmarayy is a house and bass artist, with 4 gigs on soundcheck across Berlin. Often billed alongside 2727, 4M4R and Ahni. Next up: Crack Bellmer, Berlin on Sun 18 Oct.
 
@@ -20,4 +20,4 @@ gammmarayy is a house and bass artist, with 4 gigs on soundcheck across Berlin. 
 
 2727, 4M4R, Ahni
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gammmarayy/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gammmarayy/)*

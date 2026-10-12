@@ -1,14 +1,13 @@
 # Acud Macht NEU
 
-Acud Macht NEU is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "sunday school #25" on Sun, 11 Oct 2026.
+Acud Macht NEU is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "BURRE with Heavenphetamine" on Fri, 16 Oct 2026.
 
-Acud Macht NEU is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Charlotte Lion, DJ Sea View, Dzoara and FILTH.y and 2 more. See dates, start times and who's playing. Veteranenstraße 21, 10119 Berlin, Germany.
+Acud Macht NEU is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Charlotte Lion, DJ Sea View, Dzoara and FILTH.y and 2 more. See dates, start times and who's playing. Veteranenstraße 21, 10119 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | sunday school #25 |  |
 | Fri, 16 Oct 2026 | BURRE with Heavenphetamine |  |
 | Fri, 23 Oct 2026 | SYRUP - FLINTA* & Friends | Charlotte Lion, Dzoara, James Lotion, KETA PERRY, housekatze, maniaclina |
 | Sat, 24 Oct 2026 | Leonardo Das Cabrio & Friends |  |
@@ -21,4 +20,4 @@ Acud Macht NEU is a music venue in Berlin listed on soundcheck. 8 upcoming gigs,
 
 Veteranenstraße 21, 10119 Berlin, Germany, Berlin
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*

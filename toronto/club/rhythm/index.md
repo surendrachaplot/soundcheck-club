@@ -1,8 +1,8 @@
 # Rhythm
 
-Rhythm is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Rhythm Workshop Series: Effects Pedals in Electronic Music - presented by Fairfield Circuitry" on Wed, 14 Oct 2026.
+Rhythm is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Rhythm Workshop Series: Effects Pedals in Electronic Music - presented by Fairfield Circuitry" on Wed, 14 Oct 2026.
 
-Rhythm is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with line-ups including Aaron Dunkies, Greg Burke, Jaw Jones and maxedvisa and 2 more. See dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
+Rhythm is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including Aaron Dunkies, Blkvirgo, Greg Burke and Jaw Jones and 2 more. See dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
 
 ## What's on
 
@@ -14,10 +14,11 @@ Rhythm is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with l
 | Sat, 24 Oct 2026 | r.hythmik invites: Ostrich | Greg Burke, Ostrich, Thomas James (2) |
 | Sun, 25 Oct 2026 | Something Easy | maxedvisa |
 | Thu, 29 Oct 2026 | Long Play: Khruangbin |  |
+| Fri, 30 Oct 2026 | Sweely by OTR x Disqo | Blkvirgo, Mira Méla, Sakiko Nagai, Shen (2), Sweely, Underwaterhasa, me, myself &i |
 | Fri, 13 Nov 2026 | Rhythmic Roots x Rhythm present: TBA |  |
 
 ## Address
 
 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA, Toronto
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*

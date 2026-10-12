@@ -1,6 +1,6 @@
 # Rosax
 
-Rosax is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Talk to Me, Melbourne on Fri, 23 Oct 2026.
+Rosax is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Talk to Me, Melbourne on Fri, 23 Oct 2026.
 
 Rosax is a techno and house artist based in Australia, with 6 gigs on soundcheck across Melbourne. Often billed alongside Joey Coco, AUNTY H!ST@M!NE and Cosmjn. Next up: Talk to Me, Melbourne on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ Rosax is a techno and house artist based in Australia, with 6 gigs on soundcheck
 
 Joey Coco, AUNTY H!ST@M!NE, Cosmjn
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosax/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosax/)*

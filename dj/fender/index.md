@@ -1,6 +1,6 @@
 # Fender
 
-Fender is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Vault Club, East on Sat, 24 Oct 2026.
+Fender is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Vault Club, East on Sat, 24 Oct 2026.
 
 Fender is a techno and electro artist, with 4 gigs on soundcheck across East and Strasbourg. Often billed alongside Bouki, Clarence Rise and FTFL. Next up: Vault Club, East on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ Fender is a techno and electro artist, with 4 gigs on soundcheck across East and
 
 Bouki, Clarence Rise, FTFL
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fender/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fender/)*

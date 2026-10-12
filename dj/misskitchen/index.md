@@ -1,6 +1,6 @@
 # Miss Kitchen
 
-Miss Kitchen is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Cocoon Berlin, Berlin on Fri, 16 Oct 2026.
+Miss Kitchen is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Cocoon Berlin, Berlin on Fri, 16 Oct 2026.
 
 Miss Kitchen is a house and deep house artist based in Germany, with 37 gigs on soundcheck across Berlin and Budapest. Often billed alongside Caapi El Mesti, Krassic and Mitsuko. Next up: Cocoon Berlin, Berlin on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Miss Kitchen is a house and deep house artist based in Germany, with 37 gigs on 
 
 Caapi El Mesti, Krassic, Mitsuko
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misskitchen/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misskitchen/)*

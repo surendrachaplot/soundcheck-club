@@ -1,6 +1,6 @@
 # Vís (1)
 
-Vís (1) is a Techno and Dub artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Spread, Tokyo on Mon, 12 Oct 2026.
+Vís (1) is a Techno and Dub artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Spread, Tokyo on Mon, 12 Oct 2026.
 
 Vís is a techno and dub artist based in Japan, with 133 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Ryogo, Chanaz and E.O.U. Next up: Spread, Tokyo on Mon 12 Oct.
 
@@ -27,4 +27,4 @@ Vís is a techno and dub artist based in Japan, with 133 gigs on soundcheck acro
 
 Ryogo, Chanaz, E.O.U
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vís-1/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vís-1/)*

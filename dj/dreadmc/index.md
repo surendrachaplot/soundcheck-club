@@ -1,6 +1,6 @@
 # DREAD MC
 
-DREAD MC is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Depot, Cardiff on Fri, 16 Oct 2026.
+DREAD MC is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Depot, Cardiff on Fri, 16 Oct 2026.
 
 DREAD MC is a drum & bass and jungle artist based in United Kingdom, with 47 gigs on soundcheck across Birmingham, Brighton, Bristol and Cardiff and 11 more. Often billed alongside K Motionz, Harriet Jaxxon and goddard.. Next up: Depot, Cardiff on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ DREAD MC is a drum & bass and jungle artist based in United Kingdom, with 47 gig
 
 K Motionz, Harriet Jaxxon, goddard.
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dreadmc/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dreadmc/)*

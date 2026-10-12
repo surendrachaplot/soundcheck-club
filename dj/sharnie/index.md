@@ -1,6 +1,6 @@
 # Sharnie
 
-Sharnie is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The Carpet Shop, London on Sat, 31 Oct 2026.
+Sharnie is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Carpet Shop, London on Sat, 31 Oct 2026.
 
 Sharnie is a garage and bass artist based in United Kingdom, with 56 gigs on soundcheck across Birmingham, Bristol, Edinburgh and London and 4 more. Often billed alongside Axle, Beatrice M. and Bluetoof. Next up: The Carpet Shop, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sharnie is a garage and bass artist based in United Kingdom, with 56 gigs on sou
 
 Axle, Beatrice M., Bluetoof
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sharnie/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sharnie/)*

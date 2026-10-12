@@ -1,6 +1,6 @@
 # Conrad Soundsystem
 
-Conrad Soundsystem is a Bass and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Doka, Amsterdam on Thu, 22 Oct 2026.
+Conrad Soundsystem is a Bass and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Doka, Amsterdam on Thu, 22 Oct 2026.
 
 Conrad Soundsystem is a bass and tech house artist based in Netherlands, with 4 gigs on soundcheck across Amsterdam and The Hague. Often billed alongside Anz, Black Cadmium and CARISTA. Next up: Doka, Amsterdam on Thu 22 Oct.
 
@@ -20,4 +20,4 @@ Conrad Soundsystem is a bass and tech house artist based in Netherlands, with 4 
 
 Anz, Black Cadmium, CARISTA
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conradsoundsystem/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conradsoundsystem/)*

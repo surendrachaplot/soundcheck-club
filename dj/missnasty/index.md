@@ -1,6 +1,6 @@
 # Miss Nasty
 
-Miss Nasty is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Pacific Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Miss Nasty is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Pacific Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Miss Nasty is a disco and house artist based in Austria, with 5 gigs on soundcheck across Amsterdam, Munich, Utrecht and Vienna. Often billed alongside Kapote, Arpy Brown and Sam Ruffillo. Next up: Pacific Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ Miss Nasty is a disco and house artist based in Austria, with 5 gigs on soundche
 
 Kapote, Arpy Brown, Sam Ruffillo
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missnasty/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missnasty/)*

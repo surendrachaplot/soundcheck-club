@@ -1,6 +1,6 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 28 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Sublevel Shutdown - Manchester DNB Rave at Stage + Radio" on Thu, 15 Oct 2026.
+Stage and Radio is a music venue in Manchester with 28 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Sublevel Shutdown - Manchester DNB Rave at Stage + Radio" on Thu, 15 Oct 2026.
 
 Stage and Radio is a music venue in Manchester listed on soundcheck. 28 upcoming gigs, with line-ups including 4D (UK), AJC (UK), AJ Jonesy and Alex Milo and 2 more. See dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
@@ -23,4 +23,4 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 28 upcoming
 
 43 Port St, Manchester M1 2EQ, Manchester
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*

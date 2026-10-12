@@ -1,6 +1,6 @@
 # Hope House
 
-Hope House is a music venue in Leeds with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "PleasureMaxxx" on Sat, 17 Oct 2026.
+Hope House is a music venue in Leeds with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "PleasureMaxxx" on Sat, 17 Oct 2026.
 
 Hope House is a music venue in Leeds listed on soundcheck. 9 upcoming gigs, with line-ups including Carl H, CasuallyClued, Chin and Colleen 'Cosmo' Murphy and 2 more. See dates, start times and who's playing. 65 Mabgate Hope House LS9 7DR.
 
@@ -22,4 +22,4 @@ Hope House is a music venue in Leeds listed on soundcheck. 9 upcoming gigs, with
 
 65 Mabgate Hope House LS9 7DR, Leeds
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*

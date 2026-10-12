@@ -1,6 +1,6 @@
 # Tzusing
 
-Tzusing is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
+Tzusing is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
 
 Tzusing is a techno and experimental artist based in China, with 21 gigs on soundcheck across Amsterdam, Bangkok, Berlin and London and 8 more. Often billed alongside Bill Kouligas, nunguja and Crystallmess. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Tzusing is a techno and experimental artist based in China, with 21 gigs on soun
 
 Bill Kouligas, nunguja, Crystallmess
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tzusing/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tzusing/)*

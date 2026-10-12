@@ -1,14 +1,13 @@
 # sclews
 
-sclews is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+sclews is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The White Hotel, Manchester on Fri, 30 Oct 2026.
 
-sclews is an experimental and techno artist based in United Kingdom, with 9 gigs on soundcheck across Manchester, North and Sheffield. Often billed alongside Kop-Z, TOOT and Flames Disperse. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
+sclews is an experimental and techno artist based in United Kingdom, with 9 gigs on soundcheck across Manchester, North and Sheffield. Often billed alongside Kop-Z, TOOT and Flames Disperse. Next up: The White Hotel, Manchester on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | TBA - Multiple Venues across Sheffield & Rotherham | North |
 | Fri, 30 Oct 2026 | The White Hotel | Manchester |
 
 ## Recently played
@@ -26,4 +25,4 @@ sclews is an experimental and techno artist based in United Kingdom, with 9 gigs
 
 Kop-Z, TOOT, Flames Disperse
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sclews/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sclews/)*

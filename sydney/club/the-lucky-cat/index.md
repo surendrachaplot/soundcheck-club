@@ -1,6 +1,6 @@
 # The Lucky Cat
 
-The Lucky Cat is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Refuge & No Rulz pres. Chris Stevo EP Launch" on Fri, 16 Oct 2026.
+The Lucky Cat is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Refuge & No Rulz pres. Chris Stevo EP Launch" on Fri, 16 Oct 2026.
 
 The Lucky Cat is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including Aaiste, Chris Stevo, Cooper Koss and Marc Romboy and 2 more. See dates, start times and who's playing. Level 1, 77 Oxford St, Darlinghurst, Darlinghurst, NSW, Australia, New South Wales.
 
@@ -15,4 +15,4 @@ The Lucky Cat is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, 
 
 Level 1, 77 Oxford St, Darlinghurst, Darlinghurst, NSW, Australia, New South Wales, Sydney
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lucky-cat/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lucky-cat/)*

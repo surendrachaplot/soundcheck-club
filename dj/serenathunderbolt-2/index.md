@@ -1,6 +1,6 @@
 # Serena Thunderbolt (2)
 
-Serena Thunderbolt (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Fri, 16 Oct 2026.
+Serena Thunderbolt (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Fri, 16 Oct 2026.
 
 Serena Thunderbolt is a techno and trance artist based in Italy, with 11 gigs on soundcheck across Barcelona, Berlin, London and Rome. Often billed alongside Erica (IT), A.I.F.O.S. and Aithō. Next up: Soap House - Ex Saponerie Mira Lanza, Rome on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Serena Thunderbolt is a techno and trance artist based in Italy, with 11 gigs on
 
 Erica (IT), A.I.F.O.S., Aithō
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serenathunderbolt-2/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serenathunderbolt-2/)*

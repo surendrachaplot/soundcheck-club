@@ -1,6 +1,6 @@
 # Onas Ueno
 
-Onas Ueno is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Spanners, London on Thu, 22 Oct 2026.
+Onas Ueno is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Spanners, London on Thu, 22 Oct 2026.
 
 Onas Ueno is an experimental and electronica artist, with 5 gigs on soundcheck across London. Often billed alongside Partial Defrag, Ans M and Laila Sakini. Next up: Spanners, London on Thu 22 Oct.
 
@@ -21,4 +21,4 @@ Onas Ueno is an experimental and electronica artist, with 5 gigs on soundcheck a
 
 Partial Defrag, Ans M, Laila Sakini
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onasueno/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onasueno/)*

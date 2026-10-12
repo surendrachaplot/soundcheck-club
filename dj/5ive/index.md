@@ -1,6 +1,6 @@
 # 5ive
 
-5ive is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Yebisu Ya Pro, Chugoku on Sat, 17 Oct 2026.
+5ive is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Yebisu Ya Pro, Chugoku on Sat, 17 Oct 2026.
 
 5ive is a house and deep house artist based in Japan, with 23 gigs on soundcheck across Bristol, Chugoku, Denver and London and 5 more. Often billed alongside Powder, CHIDA and KOOLMFL. Next up: Yebisu Ya Pro, Chugoku on Sat 17 Oct.
 
@@ -26,4 +26,4 @@
 
 Powder, CHIDA, KOOLMFL
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/5ive/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/5ive/)*

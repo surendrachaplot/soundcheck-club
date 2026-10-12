@@ -1,6 +1,6 @@
 # The Yard
 
-The Yard is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "DJ Club x Discability: ALL ACCESS" on Sat, 24 Oct 2026.
+The Yard is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "DJ Club x Discability: ALL ACCESS" on Sat, 24 Oct 2026.
 
 The Yard is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, with line-ups including 13Ø4, Adam Freeland, Alex Q and chlo333e and 2 more. See dates, start times and who's playing. 11 Bent Street, Manchester M8 8NF.
 
@@ -18,4 +18,4 @@ The Yard is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, w
 
 11 Bent Street, Manchester M8 8NF, Manchester
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-yard/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-yard/)*

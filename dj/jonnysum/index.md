@@ -1,6 +1,6 @@
 # Jonny Sum
 
-Jonny Sum is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at H0L0, New York City on Sat, 31 Oct 2026.
+Jonny Sum is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at H0L0, New York City on Sat, 31 Oct 2026.
 
 Jonny Sum is a house and techno artist, with 18 gigs on soundcheck across Los Angeles and New York City. Often billed alongside DGRO, PUFFIE and Willy Soul. Next up: H0L0, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jonny Sum is a house and techno artist, with 18 gigs on soundcheck across Los An
 
 DGRO, PUFFIE, Willy Soul
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnysum/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnysum/)*

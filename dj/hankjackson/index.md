@@ -1,18 +1,18 @@
 # Hank Jackson
 
-Hank Jackson is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Signal, New York City on Sun, 11 Oct 2026.
+Hank Jackson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at public records, New York City on Sun, 22 Nov 2026.
 
-Hank Jackson is a techno and house artist based in United States of America, with 31 gigs on soundcheck across Los Angeles, New York City and Tokyo. Often billed alongside Yumi, Jek (US) and K Wata. Next up: Signal, New York City on Sun 11 Oct.
+Hank Jackson is a techno and house artist based in United States of America, with 31 gigs on soundcheck across Los Angeles, New York City and Tokyo. Often billed alongside Yumi, Jek (US) and K Wata. Next up: public records, New York City on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Signal | New York City |
 | Sun, 22 Nov 2026 | public records | New York City |
 
 ## Recently played
 
+- Signal, New York City · Sun, 11 Oct 2026
 - Lullaby, New York City · Fri, 14 Aug 2026
 - Mansions, New York City · Thu, 16 Jul 2026
 - Bossa Nova Civic Club, New York City · Mon, 8 Jun 2026
@@ -20,10 +20,9 @@ Hank Jackson is a techno and house artist based in United States of America, wit
 - Enter Shibuya, Tokyo · Sat, 21 Mar 2026
 - H0L0, New York City · Fri, 6 Mar 2026
 - Signal, New York City · Sat, 31 Jan 2026
-- Trans-Pecos, New York City · Sat, 15 Nov 2025
 
 ## Shares bills with
 
 Yumi, Jek (US), K Wata
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hankjackson/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hankjackson/)*

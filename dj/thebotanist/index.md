@@ -1,6 +1,6 @@
 # The Botanist
 
-The Botanist is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Gold Bar Distillery Treasure Island, San Francisco/Oakland on Sat, 31 Oct 2026.
+The Botanist is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Gold Bar Distillery Treasure Island, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 The Botanist is a house and tech house artist based in United States of America, with 11 gigs on soundcheck across Chicago, Los Angeles, New York City and San Diego and 3 more. Often billed alongside Adam Ten, Askfor T and Cole Terrazas. Next up: TBA - Gold Bar Distillery Treasure Island, San Francisco/Oakland on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ The Botanist is a house and tech house artist based in United States of America,
 
 Adam Ten, Askfor T, Cole Terrazas
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebotanist/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebotanist/)*

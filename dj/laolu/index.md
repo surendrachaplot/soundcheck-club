@@ -1,6 +1,6 @@
 # Laolu
 
-Laolu is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
+Laolu is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
 Laolu is an afro house and house artist based in Switzerland, with 96 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 26 more. Often billed alongside La Forêt, Ankhoï and Rimbu (CH). Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Laolu is an afro house and house artist based in Switzerland, with 96 gigs on so
 
 La Forêt, Ankhoï, Rimbu (CH)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laolu/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laolu/)*

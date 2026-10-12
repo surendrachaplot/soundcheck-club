@@ -1,14 +1,13 @@
 # The Great Northern
 
-The Great Northern is a music venue in San Francisco/Oakland with 14 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "ELECTRIC FIELDS - FREE PARTY - GOLDEN GATE PARK BANDSHELL" on Sat, 10 Oct 2026.
+The Great Northern is a music venue in San Francisco/Oakland with 13 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Dragons, Dykes & DJs" on Fri, 16 Oct 2026.
 
-The Great Northern is a music venue in San Francisco/Oakland listed on soundcheck. 14 upcoming gigs, with line-ups including arktoi, Avalon Emerson, BEYA and Camillionaire and 2 more. See dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
+The Great Northern is a music venue in San Francisco/Oakland listed on soundcheck. 13 upcoming gigs, with line-ups including arktoi, Avalon Emerson, BEYA and Camillionaire and 2 more. See dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | ELECTRIC FIELDS - FREE PARTY - GOLDEN GATE PARK BANDSHELL | Carrieondisco, DJ M3, J Key, LEDET, discoesq |
 | Fri, 16 Oct 2026 | Dragons, Dykes & DJs | Lil Bebe Cyborg, arktoi |
 | Sat, 17 Oct 2026 | SET UNDERGROUND | Lee Foss |
 | Sat, 17 Oct 2026 | SET with Lee Foss | Lee Foss |
@@ -18,9 +17,10 @@ The Great Northern is a music venue in San Francisco/Oakland listed on soundchec
 | Thu, 29 Oct 2026 | SWEDM - The Great Northern |  |
 | Fri, 30 Oct 2026 | SQUISH: HALLOWEEN → Avalon Emerson + Sedef Adasï | Avalon Emerson, BEYA, Mez Monty, Papa Xanny, Sedef Adasï, Sholim Eso |
 | Fri, 6 Nov 2026 | Mostly Cloudy x Second Skin: EQ [Live] (Argentina) + Special Guest | EQ (Estratosfera + Qiri), Parallel Play |
+| Fri, 13 Nov 2026 | Maceo Plex - The Great Northern | Maceo Plex |
 
 ## Address
 
 119 Utah St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*

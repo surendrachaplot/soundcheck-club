@@ -1,6 +1,6 @@
 # POLLY (UK)
 
-POLLY (UK) is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Two Tribes CAMPFIRE, London on Fri, 16 Oct 2026.
+POLLY (UK) is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Two Tribes CAMPFIRE, London on Fri, 16 Oct 2026.
 
 POLLY (UK) is a garage and house artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Adore Hathaway, Glitch (LDN) and Meow Meow. Next up: Two Tribes CAMPFIRE, London on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ POLLY (UK) is a garage and house artist based in United Kingdom, with 6 gigs on 
 
 Adore Hathaway, Glitch (LDN), Meow Meow
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polly-uk/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polly-uk/)*

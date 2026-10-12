@@ -1,6 +1,6 @@
 # PEOPLE HALLOWEEN lll at Atlantic Club
 
-PEOPLE HALLOWEEN lll at Atlantic Club on Sat 31 Oct, Barcelona. 2 artists: Alice Youngling and Couce. House. See the line-up on soundcheck.
+PEOPLE HALLOWEEN lll at Atlantic Club on Sat 31 Oct, Barcelona. 1 artist: Couce. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ PEOPLE HALLOWEEN lll at Atlantic Club on Sat 31 Oct, Barcelona. 2 artists: Alice
 
 ## Line-up
 
-- Alice Youngling
 - Couce
 
 *Source: [soundcheck](https://soundcheck.club/e/2413379-people-halloween-lll-at-atlantic-club/)*

@@ -1,6 +1,6 @@
 # Kauz
 
-Kauz is a music venue in Zurich with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "irubo × schmusi" on Fri, 16 Oct 2026.
+Kauz is a music venue in Zurich with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "irubo × schmusi" on Fri, 16 Oct 2026.
 
 Kauz is a music venue in Zurich listed on soundcheck. 9 upcoming gigs, with line-ups including Arutani, DJ SWISHA, Eli Verveine and Elsa (CH) and 2 more. See dates, start times and who's playing. Ausstellungsstrasse 21, Zurich, Switzerland.
 
@@ -22,4 +22,4 @@ Kauz is a music venue in Zurich listed on soundcheck. 9 upcoming gigs, with line
 
 Ausstellungsstrasse 21, Zurich, Switzerland, Zurich
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kauz/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kauz/)*

@@ -1,6 +1,6 @@
 # Charity Kill
 
-Charity Kill is a EBM and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Artbean Coffee Roasters, New York City on Sun, 18 Oct 2026.
+Charity Kill is a EBM and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Artbean Coffee Roasters, New York City on Sun, 18 Oct 2026.
 
 Charity Kill is an ebm and industrial artist based in United States of America, with 7 gigs on soundcheck across Los Angeles and New York City. Often billed alongside XSB-R, Jamie K and Joe Hart (US). Next up: Artbean Coffee Roasters, New York City on Sun 18 Oct.
 
@@ -23,4 +23,4 @@ Charity Kill is an ebm and industrial artist based in United States of America, 
 
 XSB-R, Jamie K, Joe Hart (US)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charitykill/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charitykill/)*

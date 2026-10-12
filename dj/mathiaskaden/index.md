@@ -1,6 +1,6 @@
 # Mathias Kaden
 
-Mathias Kaden is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 24 Oct 2026.
+Mathias Kaden is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 24 Oct 2026.
 
 Mathias Kaden is a techno and house artist based in Germany, with 74 gigs on soundcheck across Amsterdam, Antwerp, Austria and Bali and 22 more. Often billed alongside Chris Liebing, Matthias Tanzmann and VNTM. Next up: Thuishaven, Amsterdam on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ Mathias Kaden is a techno and house artist based in Germany, with 74 gigs on sou
 
 Chris Liebing, Matthias Tanzmann, VNTM
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathiaskaden/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathiaskaden/)*

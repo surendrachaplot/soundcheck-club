@@ -1,6 +1,6 @@
 # Butchqueen.fm
 
-Butchqueen.fm is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 18 Oct 2026.
+Butchqueen.fm is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 18 Oct 2026.
 
 Butchqueen.fm is a house and techno artist based in United States of America, with 15 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Carly Zeng, Sub Sahara and Aunty Nora. Next up: Crack Bellmer, Berlin on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ Butchqueen.fm is a house and techno artist based in United States of America, wi
 
 Carly Zeng, Sub Sahara, Aunty Nora
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/butchqueenfm/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/butchqueenfm/)*

@@ -1,6 +1,6 @@
 # Azyr
 
-Azyr is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat, 17 Oct 2026.
+Azyr is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat, 17 Oct 2026.
 
 Azyr is a techno and house artist based in United Kingdom, with 236 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 65 more. Often billed alongside LESSSS, blk. and Charlie Sparks. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat 17 Oct.
 
@@ -36,4 +36,4 @@ Azyr is a techno and house artist based in United Kingdom, with 236 gigs on soun
 
 LESSSS, blk., Charlie Sparks
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*

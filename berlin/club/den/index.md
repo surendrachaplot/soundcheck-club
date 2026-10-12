@@ -1,6 +1,6 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "ＬＩＬＩＴＨ ✦ 5€ PRE-SALE" on Wed, 14 Oct 2026.
+ÆDEN is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "ＬＩＬＩＴＨ ✦ 5€ PRE-SALE" on Wed, 14 Oct 2026.
 
 ÆDEN is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including YOVA, Aaron Blau, ADAM MUNNINGS and Annakonda and 2 more. See dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
@@ -23,4 +23,4 @@
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

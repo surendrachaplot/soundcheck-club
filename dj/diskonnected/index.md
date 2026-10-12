@@ -1,6 +1,6 @@
 # Diskonnected
 
-Diskonnected is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Pawnshop, Taipei on Fri, 20 Nov 2026.
+Diskonnected is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Pawnshop, Taipei on Fri, 20 Nov 2026.
 
 Diskonnected is a techno and house artist, with 48 gigs on soundcheck across Amsterdam, Bali, Bangkok and Berlin and 18 more. Often billed alongside Sarayu, DJ MARIA. and OCCA. Next up: Pawnshop, Taipei on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Diskonnected is a techno and house artist, with 48 gigs on soundcheck across Ams
 
 Sarayu, DJ MARIA., OCCA
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diskonnected/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diskonnected/)*

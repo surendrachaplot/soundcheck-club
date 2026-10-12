@@ -1,6 +1,6 @@
 # RIGO
 
-RIGO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Enter Shibuya, Tokyo on Tue, 20 Oct 2026.
+RIGO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Enter Shibuya, Tokyo on Tue, 20 Oct 2026.
 
 RIGO is a techno and trance artist, with 37 gigs on soundcheck across Berlin, Düsseldorf, Lyon and Nantes and 3 more. Often billed alongside CallBackSami, P errine and oror. Next up: Enter Shibuya, Tokyo on Tue 20 Oct.
 
@@ -25,4 +25,4 @@ RIGO is a techno and trance artist, with 37 gigs on soundcheck across Berlin, D�
 
 CallBackSami, P errine, oror
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rigo/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rigo/)*

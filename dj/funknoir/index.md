@@ -1,6 +1,6 @@
 # Funknoir
 
-Funknoir is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Onder Hans, Amsterdam on Fri, 27 Nov 2026.
+Funknoir is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Onder Hans, Amsterdam on Fri, 27 Nov 2026.
 
 Funknoir is a house and disco artist based in Netherlands, with 4 gigs on soundcheck across Amsterdam. Often billed alongside G-String, Kennedy and Aroy Dee. Next up: Onder Hans, Amsterdam on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ Funknoir is a house and disco artist based in Netherlands, with 4 gigs on soundc
 
 G-String, Kennedy, Aroy Dee
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funknoir/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funknoir/)*

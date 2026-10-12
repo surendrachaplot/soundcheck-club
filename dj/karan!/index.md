@@ -1,6 +1,6 @@
 # KARAN!
 
-KARAN! is a Baile Funk and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at EQ San Diego, San Diego on Sun, 18 Oct 2026.
+KARAN! is a Baile Funk and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at EQ San Diego, San Diego on Sun, 18 Oct 2026.
 
 KARAN! is a baile funk and bass artist based in Brazil, with 6 gigs on soundcheck across Jacksonville, Miami, Osaka and San Diego and 2 more. Often billed alongside AK SPORTS, ALTF4 and Baalti. Next up: EQ San Diego, San Diego on Sun 18 Oct.
 
@@ -22,4 +22,4 @@ KARAN! is a baile funk and bass artist based in Brazil, with 6 gigs on soundchec
 
 AK SPORTS, ALTF4, Baalti
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karan!/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karan!/)*

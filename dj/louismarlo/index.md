@@ -1,14 +1,13 @@
 # Louis Marlo
 
-Louis Marlo is a IDM and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Nowadays, New York City on Sat, 10 Oct 2026.
+Louis Marlo is a IDM and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Djargurd Wurrong Country (Victoria, Australia), Melbourne on Fri, 26 Mar 2027.
 
-Louis Marlo is an idm and techno artist based in Australia, with 7 gigs on soundcheck across Melbourne and New York City. Often billed alongside Kia (AU), Moopie and Tangerine. Next up: Nowadays, New York City on Sat 10 Oct.
+Louis Marlo is an idm and techno artist based in Australia, with 7 gigs on soundcheck across Melbourne and New York City. Often billed alongside Kia (AU), Moopie and Tangerine. Next up: TBA - Djargurd Wurrong Country (Victoria, Australia), Melbourne on Fri 26 Mar.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Nowadays | New York City |
 | Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Victoria, Australia) | Melbourne |
 
 ## Recently played
@@ -24,4 +23,4 @@ Louis Marlo is an idm and techno artist based in Australia, with 7 gigs on sound
 
 Kia (AU), Moopie, Tangerine
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louismarlo/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louismarlo/)*

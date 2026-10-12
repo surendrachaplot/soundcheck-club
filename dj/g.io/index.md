@@ -1,6 +1,6 @@
 # g.io
 
-g.io is a Electronica and Footwork artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Trans-Pecos, New York City on Fri, 23 Oct 2026.
+g.io is a Electronica and Footwork artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Trans-Pecos, New York City on Fri, 23 Oct 2026.
 
 g.io is an electronica and footwork artist based in United States of America, with 5 gigs on soundcheck across New York City. Often billed alongside ARCHANGEL (US), dj mangovape and jauwshewuh. Next up: Trans-Pecos, New York City on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ g.io is an electronica and footwork artist based in United States of America, wi
 
 ARCHANGEL (US), dj mangovape, jauwshewuh
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/g.io/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/g.io/)*

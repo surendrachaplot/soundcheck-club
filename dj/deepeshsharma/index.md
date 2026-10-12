@@ -1,6 +1,6 @@
 # Deepesh Sharma
 
-Deepesh Sharma is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Living Asia Resort, Senggigi, Lombok Island, Indonesia, Indonesia on Fri, 16 Oct 2026.
+Deepesh Sharma is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Living Asia Resort, Senggigi, Lombok Island, Indonesia, Indonesia on Fri, 16 Oct 2026.
 
 Deepesh Sharma is a tech house and techno artist based in India, with 4 gigs on soundcheck across Amsterdam, Cyprus, Frankfurt and Indonesia. Often billed alongside AWEN, Adam Beyer and Adiel. Next up: Living Asia Resort, Senggigi, Lombok Island, Indonesia, Indonesia on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ Deepesh Sharma is a tech house and techno artist based in India, with 4 gigs on 
 
 AWEN, Adam Beyer, Adiel
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepeshsharma/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepeshsharma/)*

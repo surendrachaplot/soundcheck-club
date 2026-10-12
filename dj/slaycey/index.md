@@ -1,6 +1,6 @@
 # Slaycey
 
-Slaycey is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Royale, Boston on Fri, 16 Oct 2026.
+Slaycey is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Royale, Boston on Fri, 16 Oct 2026.
 
 Slaycey is a house and tech house artist based in United States of America, with 40 gigs on soundcheck across Boston, London, New York City and Washington DC. Often billed alongside Electro Cherry, Sarindipity and Aleska. Next up: Royale, Boston on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Slaycey is a house and tech house artist based in United States of America, with
 
 Electro Cherry, Sarindipity, Aleska
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slaycey/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slaycey/)*

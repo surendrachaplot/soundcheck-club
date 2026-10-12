@@ -1,6 +1,6 @@
 # Jumbi
 
-Jumbi is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Jumbi Friday Dance: Sankoh Sounds x AFL" on Fri, 16 Oct 2026.
+Jumbi is a music venue in London with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Jumbi Friday Dance: Sankoh Sounds x AFL" on Fri, 16 Oct 2026.
 
 Jumbi is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including CasuallyClued, DJ Nigga Fox, DJ Travella and Joe Armon-Jones and 2 more. See dates, start times and who's playing. Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN.
 
@@ -17,4 +17,4 @@ Jumbi is a music venue in London listed on soundcheck. 4 upcoming gigs, with lin
 
 Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN, London
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/jumbi/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/jumbi/)*

@@ -1,6 +1,6 @@
 # Cole Terrazas
 
-Cole Terrazas is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Private Location, San Diego on Sat, 31 Oct 2026.
+Cole Terrazas is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Private Location, San Diego on Sat, 31 Oct 2026.
 
 Cole Terrazas is a tech house and house artist based in United States of America, with 23 gigs on soundcheck across Amsterdam, Austin, Chicago and Lisbon and 5 more. Often billed alongside KinAhau, Josh Baker and ChaseWest. Next up: TBA - Private Location, San Diego on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Cole Terrazas is a tech house and house artist based in United States of America
 
 KinAhau, Josh Baker, ChaseWest
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coleterrazas/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coleterrazas/)*

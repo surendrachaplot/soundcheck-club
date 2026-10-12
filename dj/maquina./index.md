@@ -1,6 +1,6 @@
 # MAQUINA.
 
-MAQUINA. is a Experimental and Krautrock artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Various Locations in Innsbruck, Austria on Thu, 15 Oct 2026.
+MAQUINA. is a Experimental and Krautrock artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Various Locations in Innsbruck, Austria on Thu, 15 Oct 2026.
 
 MAQUINA. is an experimental and krautrock artist, with 6 gigs on soundcheck across Austria, Barcelona, Glasgow and Lisbon and 2 more. Often billed alongside Heinali, Abul Mogard and Afra. Next up: TBA - Various Locations in Innsbruck, Austria on Thu 15 Oct.
 
@@ -22,4 +22,4 @@ MAQUINA. is an experimental and krautrock artist, with 6 gigs on soundcheck acro
 
 Heinali, Abul Mogard, Afra
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maquina./)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maquina./)*

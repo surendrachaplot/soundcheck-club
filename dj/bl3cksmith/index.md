@@ -1,6 +1,6 @@
 # BL3CKSMITH
 
-BL3CKSMITH is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+BL3CKSMITH is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
 BL3CKSMITH is a tech house and house artist based in Italy, with 20 gigs on soundcheck across Amsterdam, London and Milan. Often billed alongside Pantomatic, SAGO and Akoriz. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ BL3CKSMITH is a tech house and house artist based in Italy, with 20 gigs on soun
 
 Pantomatic, SAGO (2), Akoriz
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bl3cksmith/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bl3cksmith/)*

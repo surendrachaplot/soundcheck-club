@@ -1,6 +1,6 @@
 # Q'uwa
 
-Q'uwa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Cafe La Palma, Madrid on Fri, 23 Oct 2026.
+Q'uwa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Cafe La Palma, Madrid on Fri, 23 Oct 2026.
 
 Q'uwa is a house and techno artist based in Germany, with 5 gigs on soundcheck across Berlin, Frankfurt and Madrid. Often billed alongside David Delgado, Altinbas and Annina. Next up: Cafe La Palma, Madrid on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Q'uwa is a house and techno artist based in Germany, with 5 gigs on soundcheck a
 
 David Delgado, Altinbas, Annina
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quwa/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quwa/)*

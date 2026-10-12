@@ -1,6 +1,6 @@
 # Mazlow
 
-Mazlow is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Tigres de la Noche, Washington DC on Fri, 16 Oct 2026.
+Mazlow is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Tigres de la Noche, Washington DC on Fri, 16 Oct 2026.
 
 Mazlow is a house and tech house artist based in United States of America, with 28 gigs on soundcheck across New York City, Philadelphia and Washington DC. Often billed alongside Mark Azar, Neko Berg and SPCL.K. Next up: Tigres de la Noche, Washington DC on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Mazlow is a house and tech house artist based in United States of America, with 
 
 Mark Azar, Neko Berg, SPCL.K
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazlow/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazlow/)*

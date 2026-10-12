@@ -1,14 +1,13 @@
 # Kölsch
 
-Kölsch is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Pacha New York, New York City on Sun, 11 Oct 2026.
+Kölsch is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Warehouse, Nantes on Sat, 17 Oct 2026.
 
-Kölsch is a techno and house artist based in Denmark, with 152 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 41 more. Often billed alongside Kevin de Vries, Olympe and CamelPhat. Next up: Pacha New York, New York City on Sun 11 Oct.
+Kölsch is a techno and house artist based in Denmark, with 152 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 41 more. Often billed alongside Kevin de Vries, Olympe and CamelPhat. Next up: Warehouse, Nantes on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Pacha New York | New York City |
 | Sat, 17 Oct 2026 | Warehouse | Nantes |
 | Fri, 23 Oct 2026 | Het Sieraad | Amsterdam |
 | Fri, 30 Oct 2026 | HCC Kuppelsaal | Hannover |
@@ -20,6 +19,7 @@ Kölsch is a techno and house artist based in Denmark, with 152 gigs on soundche
 
 ## Recently played
 
+- Pacha New York, New York City · Sun, 11 Oct 2026
 - ORIGIN, Los Angeles · Sat, 10 Oct 2026
 - [UNVRS], Ibiza · Sat, 26 Sept 2026
 - fabric, London · Fri, 25 Sept 2026
@@ -27,10 +27,9 @@ Kölsch is a techno and house artist based in Denmark, with 152 gigs on soundche
 - Hï Ibiza, Ibiza · Mon, 14 Sept 2026
 - Cova Santa, Ibiza · Fri, 4 Sept 2026
 - Ushuaïa Ibiza, Ibiza · Sat, 29 Aug 2026
-- Budai Vár - Oroszlános Udvar, Budapest · Fri, 28 Aug 2026
 
 ## Shares bills with
 
 Kevin de Vries, Olympe, CamelPhat
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*

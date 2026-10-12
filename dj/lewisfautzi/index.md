@@ -1,6 +1,6 @@
 # Lewis Fautzi
 
-Lewis Fautzi is a Techno and Acid artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Cosmos Club Sevilla, South on Sat, 17 Oct 2026.
+Lewis Fautzi is a Techno and Acid artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Cosmos Club Sevilla, South on Sat, 17 Oct 2026.
 
 Lewis Fautzi is a techno and acid artist based in Portugal, with 84 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 26 more. Often billed alongside CONCEPTUAL, Archives Uniques and Adriana Lopez. Next up: Cosmos Club Sevilla, South on Sat 17 Oct.
 
@@ -29,4 +29,4 @@ Lewis Fautzi is a techno and acid artist based in Portugal, with 84 gigs on soun
 
 CONCEPTUAL, Archives Uniques, Adriana Lopez
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisfautzi/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisfautzi/)*

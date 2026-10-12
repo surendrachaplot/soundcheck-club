@@ -1,6 +1,6 @@
 # PAC Padiglione D'arte Contemporanea
 
-PAC Padiglione D'arte Contemporanea is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "Le Cannibale & Refuge Worldwide al Padiglione d'Arte Contemporanea" on Sat, 24 Oct 2026.
+PAC Padiglione D'arte Contemporanea is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "Le Cannibale & Refuge Worldwide al Padiglione d'Arte Contemporanea" on Sat, 24 Oct 2026.
 
 PAC Padiglione D'arte Contemporanea is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including Fatima Koanda and lil ja. See dates, start times and who's playing. Via Palestro 14.
 
@@ -14,4 +14,4 @@ PAC Padiglione D'arte Contemporanea is a music venue in Milan listed on soundche
 
 Via Palestro 14, Milan
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/pac-padiglione-d-arte-contemporanea/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/pac-padiglione-d-arte-contemporanea/)*

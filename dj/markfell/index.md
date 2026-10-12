@@ -1,14 +1,13 @@
 # Mark Fell
 
-Mark Fell is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+Mark Fell is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
 
-Mark Fell is an experimental and techno artist based in United Kingdom, with 18 gigs on soundcheck across Basel, Berlin, Kyoto and London and 9 more. Often billed alongside Rian Treanor, YPY and Kelman Duran. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
+Mark Fell is an experimental and techno artist based in United Kingdom, with 18 gigs on soundcheck across Basel, Berlin, Kyoto and London and 9 more. Often billed alongside Rian Treanor, YPY and Kelman Duran. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | TBA - Multiple Venues across Sheffield & Rotherham | North |
 | Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Fri, 4 Dec 2026 | The White Hotel | Manchester |
@@ -28,4 +27,4 @@ Mark Fell is an experimental and techno artist based in United Kingdom, with 18 
 
 Rian Treanor, YPY, Kelman Duran
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markfell/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markfell/)*

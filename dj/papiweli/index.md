@@ -1,6 +1,6 @@
 # Papi Weli
 
-Papi Weli is a Baile Funk and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Honey's, New York City on Sat, 17 Oct 2026.
+Papi Weli is a Baile Funk and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Honey's, New York City on Sat, 17 Oct 2026.
 
 Papi Weli is a baile funk and club artist based in Brazil, with 22 gigs on soundcheck across New York City. Often billed alongside Lil Zé, ANNA PURA and Pauli Cakes. Next up: Honey's, New York City on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Papi Weli is a baile funk and club artist based in Brazil, with 22 gigs on sound
 
 Lil Zé, ANNA PURA, Pauli Cakes
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/papiweli/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/papiweli/)*

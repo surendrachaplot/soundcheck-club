@@ -1,6 +1,6 @@
 # Anfisa Letyago
 
-Anfisa Letyago is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Noto Philadelphia, Philadelphia on Thu, 15 Oct 2026.
+Anfisa Letyago is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Noto Philadelphia, Philadelphia on Thu, 15 Oct 2026.
 
 Anfisa Letyago is a techno and house artist based in Italy, with 166 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Enrico Sangiuliano, Eli Brown and Héctor Oaks. Next up: Noto Philadelphia, Philadelphia on Thu 15 Oct.
 
@@ -33,4 +33,4 @@ Anfisa Letyago is a techno and house artist based in Italy, with 166 gigs on sou
 
 Enrico Sangiuliano, Eli Brown, Héctor Oaks
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anfisaletyago/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anfisaletyago/)*

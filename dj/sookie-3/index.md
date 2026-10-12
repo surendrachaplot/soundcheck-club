@@ -1,14 +1,13 @@
 # Sookie (3)
 
-Sookie (3) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Buda BXL, Brussels on Sat, 10 Oct 2026.
+Sookie (3) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Hexagon Brussels, Brussels on Sat, 31 Oct 2026.
 
-Sookie is a trance and techno artist based in Belgium, with 17 gigs on soundcheck across Berlin, Brussels, Düsseldorf and Ghent and 2 more. Often billed alongside su:zy, Sarah Wanita and Trancesetters of Westphalia. Next up: Buda BXL, Brussels on Sat 10 Oct.
+Sookie is a trance and techno artist based in Belgium, with 17 gigs on soundcheck across Berlin, Brussels, Düsseldorf and Ghent and 2 more. Often billed alongside su:zy, Sarah Wanita and Trancesetters of Westphalia. Next up: Hexagon Brussels, Brussels on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Buda BXL | Brussels |
 | Sat, 31 Oct 2026 | Hexagon Brussels | Brussels |
 
 ## Recently played
@@ -26,4 +25,4 @@ Sookie is a trance and techno artist based in Belgium, with 17 gigs on soundchec
 
 su:zy, Sarah Wanita, Trancesetters of Westphalia
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sookie-3/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sookie-3/)*

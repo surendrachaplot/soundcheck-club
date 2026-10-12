@@ -1,6 +1,6 @@
 # Paulette Sauvage
 
-Paulette Sauvage is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 17 Oct 2026.
+Paulette Sauvage is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 17 Oct 2026.
 
 Paulette Sauvage is a techno and house artist, with 46 gigs on soundcheck across Lyon, Nantes and Paris. Often billed alongside Or'l, Nicol and Tina Tornade. Next up: La Station - Gare des Mines, Paris on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Paulette Sauvage is a techno and house artist, with 46 gigs on soundcheck across
 
 Or'l, Nicol, Tina Tornade
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulettesauvage/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulettesauvage/)*

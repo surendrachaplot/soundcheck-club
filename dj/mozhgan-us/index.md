@@ -1,6 +1,6 @@
 # Mozhgan
 
-Mozhgan is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Good Room, New York City on Sat, 24 Oct 2026.
+Mozhgan is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Good Room, New York City on Sat, 24 Oct 2026.
 
 Mozhgan is a techno and acid artist based in United States of America, with 95 gigs on soundcheck across Amsterdam, Austin, Bali and Berlin and 20 more. Often billed alongside Solar, BMG and Carlos Souffront. Next up: Good Room, New York City on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Mozhgan is a techno and acid artist based in United States of America, with 95 g
 
 Solar, BMG, Carlos Souffront
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mozhgan-us/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mozhgan-us/)*

@@ -1,14 +1,13 @@
 # The Timber Loft
 
-The Timber Loft is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Creche presents 'A Trip'" on Sun, 11 Oct 2026.
+The Timber Loft is a music venue in London with 13 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Dirty Saints" on Sun, 18 Oct 2026.
 
-The Timber Loft is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Mariiin, Alexis Raphael, AMBRR and Ammo Avenue and 2 more. See dates, start times and who's playing. 233 Shoreditch High St, London E1 6PJ.
+The Timber Loft is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Mariiin, AMBRR, Ammo Avenue and Anna Wall and 2 more. See dates, start times and who's playing. 233 Shoreditch High St, London E1 6PJ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Creche presents 'A Trip' | Alexis Raphael, Chiara Kidd, Steve Bug |
 | Sun, 18 Oct 2026 | Dirty Saints |  |
 | Sun, 18 Oct 2026 | Dirty Saints - Day Party | AMBRR, Ryan Lovell |
 | Fri, 23 Oct 2026 | Discovery Sessions: London | Ammo Avenue, Antss, Beaton, Ky William |
@@ -18,9 +17,10 @@ The Timber Loft is a music venue in London listed on soundcheck. 14 upcoming gig
 | Sun, 8 Nov 2026 | Step Inside | MUNNI |
 | Sun, 15 Nov 2026 | Tayo and Frank Tope | Frank Tope, Tayo |
 | Sat, 21 Nov 2026 | Tim Green presents: Memories - London | Tim Green |
+| Sun, 22 Nov 2026 | 30 Years Of Freerange @ The Timber Loft | Atjazz, Conrad Lee, Hudson’s Choice, Jimpster, Matt Masters |
 
 ## Address
 
 233 Shoreditch High St, London E1 6PJ, London
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-timber-loft/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-timber-loft/)*

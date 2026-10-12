@@ -1,13 +1,14 @@
 # Latex (1)
 
-Latex (1) is a Tech House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Geheimclub, Saxony-anhalt on Fri, 30 Oct 2026.
+Latex (1) is a Tech House and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Spindler & Klatt, Berlin on Sat, 24 Oct 2026.
 
-Latex is a tech house and minimal techno artist based in Indonesia, with 37 gigs on soundcheck across Bali, Berlin, Madrid and Prague and 1 more. Often billed alongside Zoot, Karim T and Bagvs. Next up: Geheimclub, Saxony Anhalt on Fri 30 Oct.
+Latex is a tech house and minimal techno artist based in Indonesia, with 38 gigs on soundcheck across Bali, Berlin, Madrid and Prague and 1 more. Often billed alongside Zoot, Karim T and Bagvs. Next up: Spindler & Klatt, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Spindler & Klatt | Berlin |
 | Fri, 30 Oct 2026 | Geheimclub | Saxony-anhalt |
 
 ## Recently played
@@ -25,4 +26,4 @@ Latex is a tech house and minimal techno artist based in Indonesia, with 37 gigs
 
 Zoot, Karim T, Bagvs
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/latex/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/latex/)*

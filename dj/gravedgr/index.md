@@ -1,14 +1,13 @@
 # GRAVEDGR
 
-GRAVEDGR is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+GRAVEDGR is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Schrotty, Cologne on Fri, 27 Nov 2026.
 
-GRAVEDGR is a techno and hardcore artist based in United States of America, with 54 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 25 more. Often billed alongside CARV, NOVAH and Basswell. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
+GRAVEDGR is a techno and hardcore artist based in United States of America, with 54 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 25 more. Often billed alongside CARV, NOVAH and Basswell. Next up: Schrotty, Cologne on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 | Fri, 27 Nov 2026 | Schrotty | Cologne |
 | Sat, 19 Dec 2026 | H0L0 | New York City |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
@@ -28,4 +27,4 @@ GRAVEDGR is a techno and hardcore artist based in United States of America, with
 
 CARV, NOVAH, Basswell
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gravedgr/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gravedgr/)*

@@ -1,6 +1,6 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 20 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Mixmag Lab London with Eris Drew & Octo Octa as Alchemical Sisters" on Thu, 15 Oct 2026.
+NUMBER 90 LONDON is a music venue in London with 20 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Mixmag Lab London with Eris Drew & Octo Octa as Alchemical Sisters" on Thu, 15 Oct 2026.
 
 NUMBER 90 LONDON is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including 1BYAKKO, Mariiin, Ruby SD and Alisdair and 2 more. See dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
@@ -23,4 +23,4 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 20 upcoming gi
 
 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom, London
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*

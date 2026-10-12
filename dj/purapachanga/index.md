@@ -1,6 +1,6 @@
 # Pura Pachanga
 
-Pura Pachanga is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Badhuis Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Pura Pachanga is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Badhuis Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Pura Pachanga is a house and techno artist based in Argentina, with 48 gigs on soundcheck across Amsterdam, Barcelona and London. Often billed alongside Kirilski, Snooz and Emma Champagne Queen. Next up: Badhuis Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Pura Pachanga is a house and techno artist based in Argentina, with 48 gigs on s
 
 Kirilski, Snooz, Emma Champagne Queen
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purapachanga/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purapachanga/)*

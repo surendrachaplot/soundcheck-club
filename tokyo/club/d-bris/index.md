@@ -1,14 +1,13 @@
 # Débris
 
-Débris is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Nice DJs vol. 05" on Sun, 11 Oct 2026.
+Débris is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Sammeln" on Sat, 17 Oct 2026.
 
-Débris is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-ups including cirra, DJ Flexure, fotprt and KAIKAI and 2 more. See dates, start times and who's playing. Daikanyamacho 11-12, Shibuya-ku, Tokyo, 150-0034 Japan.
+Débris is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including fotprt, KAIKAI, MAO and Oshi and 2 more. See dates, start times and who's playing. Daikanyamacho 11-12, Shibuya-ku, Tokyo, 150-0034 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Nice DJs vol. 05 | DJ Flexure, MILKMANN, Tommy House, cirra |
 | Sat, 17 Oct 2026 | Sammeln | KAIKAI, MAO, SIGNAL (JP), fotprt |
 | Tue, 27 Oct 2026 | Gig | Oshi |
 | Tue, 27 Oct 2026 | ？！ | Oshi |
@@ -18,4 +17,4 @@ Débris is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with li
 
 Daikanyamacho 11-12, Shibuya-ku, Tokyo, 150-0034 Japan, Tokyo
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/d-bris/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/d-bris/)*

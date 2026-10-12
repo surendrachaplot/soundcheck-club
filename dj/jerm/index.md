@@ -1,6 +1,6 @@
 # JERM
 
-JERM is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 16 Oct 2026.
+JERM is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 16 Oct 2026.
 
 JERM is a techno and industrial artist based in Greece, with 67 gigs on soundcheck across Athens, Belgrade, Berlin and Paris and 1 more. Often billed alongside BMSK, Rlct and Mr.M. Next up: Grelle Forelle, Vienna on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ JERM is a techno and industrial artist based in Greece, with 67 gigs on soundche
 
 BMSK, Rlct, Mr.M
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jerm/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jerm/)*

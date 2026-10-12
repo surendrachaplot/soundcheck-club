@@ -1,14 +1,13 @@
 # EREZ.JPG
 
-EREZ.JPG is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - López 1, Colonia Centro, CDMX, Mexico City on Sat, 10 Oct 2026.
+EREZ.JPG is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Outer Heaven, New York City on Fri, 27 Nov 2026.
 
-EREZ.JPG is a house and minimal artist based in United States of America, with 45 gigs on soundcheck across Detroit, Los Angeles, Mexico City and Miami and 2 more. Often billed alongside shanty mane, Armii1n and Bakke. Next up: TBA - López 1, Colonia Centro, CDMX, Mexico City on Sat 10 Oct.
+EREZ.JPG is a house and minimal artist based in United States of America, with 45 gigs on soundcheck across Detroit, Los Angeles, Mexico City and Miami and 2 more. Often billed alongside shanty mane, Armii1n and Bakke. Next up: Outer Heaven, New York City on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | TBA - López 1, Colonia Centro, CDMX | Mexico City |
 | Fri, 27 Nov 2026 | Outer Heaven | New York City |
 | Thu, 3 Dec 2026 | The Ground at Club Space | Miami |
 
@@ -27,4 +26,4 @@ EREZ.JPG is a house and minimal artist based in United States of America, with 4
 
 shanty mane, Armii1n, Bakke
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erezjpg/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erezjpg/)*

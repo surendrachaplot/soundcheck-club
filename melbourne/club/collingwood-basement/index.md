@@ -1,6 +1,6 @@
 # Collingwood Basement
 
-Collingwood Basement is a music venue in Melbourne with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Live in the Basement: Tectonic Boogie" on Wed, 14 Oct 2026.
+Collingwood Basement is a music venue in Melbourne with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Live in the Basement: Tectonic Boogie" on Wed, 14 Oct 2026.
 
 Collingwood Basement is a music venue in Melbourne listed on soundcheck. 5 upcoming gigs, with line-ups including BERGA, Ivan Kyrov, JANEIN and Jasper Miles and 2 more. See dates, start times and who's playing. (Zero) 0 Langridge St Collingwood, VIC 3066.
 
@@ -18,4 +18,4 @@ Collingwood Basement is a music venue in Melbourne listed on soundcheck. 5 upcom
 
 (Zero) 0 Langridge St Collingwood, VIC 3066, Melbourne
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*

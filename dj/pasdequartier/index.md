@@ -1,6 +1,6 @@
 # Pas de quartier
 
-Pas de quartier is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Cartilage, Paris on Fri, 16 Oct 2026.
+Pas de quartier is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Cartilage, Paris on Fri, 16 Oct 2026.
 
 Pas de quartier is a techno and ebm artist, with 21 gigs on soundcheck across Berlin and Paris. Often billed alongside DMN DJ, Von Riu and Dersee. Next up: Cartilage, Paris on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Pas de quartier is a techno and ebm artist, with 21 gigs on soundcheck across Be
 
 DMN DJ, Von Riu, Dersee
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pasdequartier/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pasdequartier/)*

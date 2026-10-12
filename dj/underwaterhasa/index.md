@@ -1,14 +1,14 @@
 # Underwaterhasa
 
-Underwaterhasa is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA, Toronto on Fri, 30 Oct 2026.
+Underwaterhasa is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Rhythm, Toronto on Fri, 30 Oct 2026.
 
-Underwaterhasa is a house and deep house artist based in South Korea, with 15 gigs on soundcheck across Toronto. Often billed alongside Carlos Estebban, UMA DJ and BABL. Next up: TBA, Toronto on Fri 30 Oct.
+Underwaterhasa is a house and deep house artist based in South Korea, with 15 gigs on soundcheck across Toronto. Often billed alongside Carlos Estebban, UMA DJ and BABL. Next up: Rhythm, Toronto on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | TBA | Toronto |
+| Fri, 30 Oct 2026 | Rhythm | Toronto |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Underwaterhasa is a house and deep house artist based in South Korea, with 15 gi
 
 Carlos Estebban, UMA DJ, BABL
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/underwaterhasa/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/underwaterhasa/)*

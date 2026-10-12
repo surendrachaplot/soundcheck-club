@@ -1,8 +1,8 @@
 # Yulia Niko
 
-Yulia Niko is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Tigres de la Noche, Washington DC on Sat, 17 Oct 2026.
+Yulia Niko is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Tigres de la Noche, Washington DC on Sat, 17 Oct 2026.
 
-Yulia Niko is a house and techno artist based in Germany, with 117 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside ARODES, Damian Lazarus and DJ Holographic. Next up: Tigres de la Noche, Washington DC on Sat 17 Oct.
+Yulia Niko is a house and techno artist based in Germany, with 118 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside ARODES, Damian Lazarus and DJ Holographic. Next up: Tigres de la Noche, Washington DC on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Yulia Niko is a house and techno artist based in Germany, with 117 gigs on sound
 | Sat, 17 Oct 2026 | Tigres de la Noche | Washington DC |
 | Thu, 22 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
+| Fri, 23 Oct 2026 | TBA - STOOM SHIP- Ndsm pier 6, Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 
@@ -29,4 +30,4 @@ Yulia Niko is a house and techno artist based in Germany, with 117 gigs on sound
 
 ARODES, Damian Lazarus, DJ Holographic
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/YuliaNiko/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/YuliaNiko/)*

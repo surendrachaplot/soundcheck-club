@@ -1,6 +1,6 @@
 # Blank Site
 
-Blank Site is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "KADENS 케이던스" on Fri, 16 Oct 2026.
+Blank Site is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "KADENS 케이던스" on Fri, 16 Oct 2026.
 
 Blank Site is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including ATISMIA, BASKERVILLE, Destin and h4rdy and 1 more. See dates, start times and who's playing. B2, 22, Bogwang-ro 60-gil, Yongsan-gu, Seoul, South Korea.
 
@@ -16,4 +16,4 @@ Blank Site is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with
 
 B2, 22, Bogwang-ro 60-gil, Yongsan-gu, Seoul, South Korea, Seoul
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/blank-site/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/blank-site/)*

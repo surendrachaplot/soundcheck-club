@@ -1,14 +1,13 @@
 # WEEUN KIM
 
-WEEUN KIM is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Graphic Hangang, Seoul on Fri, 9 Oct 2026.
+WEEUN KIM is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Volnost, Seoul on Sat, 24 Oct 2026.
 
-WEEUN KIM is a techno and electro artist based in South Korea, with 35 gigs on soundcheck across Seoul. Often billed alongside AEIDA, Hogun and Recy. Next up: Graphic Hangang, Seoul on Fri 9 Oct.
+WEEUN KIM is a techno and electro artist based in South Korea, with 35 gigs on soundcheck across Seoul. Often billed alongside AEIDA, Hogun and Recy. Next up: Volnost, Seoul on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Graphic Hangang | Seoul |
 | Sat, 24 Oct 2026 | Volnost | Seoul |
 
 ## Recently played
@@ -26,4 +25,4 @@ WEEUN KIM is a techno and electro artist based in South Korea, with 35 gigs on s
 
 AEIDA, Hogun, Recy
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weeunkim/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weeunkim/)*

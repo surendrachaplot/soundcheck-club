@@ -1,6 +1,6 @@
 # Georgia Bird
 
-Georgia Bird is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 16 Oct 2026.
+Georgia Bird is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 16 Oct 2026.
 
 Georgia Bird is a techno and house artist based in Australia, with 30 gigs on soundcheck across Berlin, Hobart, Melbourne and Paris and 3 more. Often billed alongside Alfred Czital, Yan (CZ) and Raleigh. Next up: Ankali & Planeta Za, Prague on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Georgia Bird is a techno and house artist based in Australia, with 30 gigs on so
 
 Alfred Czital, Yan (CZ), Raleigh
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgiabird/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgiabird/)*

@@ -1,6 +1,6 @@
 # Dr Humedo
 
-Dr Humedo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Huis van Iemand Anders, Amsterdam on Fri, 16 Oct 2026.
+Dr Humedo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Huis van Iemand Anders, Amsterdam on Fri, 16 Oct 2026.
 
 Dr Humedo is a techno and house artist based in Colombia, with 25 gigs on soundcheck across Amsterdam and Barcelona. Often billed alongside Intruso, Hanakito and Emilio Mustafá. Next up: Huis van Iemand Anders, Amsterdam on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Dr Humedo is a techno and house artist based in Colombia, with 25 gigs on soundc
 
 Intruso, Hanakito, Emilio Mustafá
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drhumedo/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drhumedo/)*

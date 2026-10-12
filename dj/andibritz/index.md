@@ -1,6 +1,6 @@
 # Andi Britz
 
-Andi Britz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Legal, Munich on Fri, 16 Oct 2026.
+Andi Britz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Legal, Munich on Fri, 16 Oct 2026.
 
 Andi Britz is a house and tech house artist based in Germany, with 42 gigs on soundcheck across Hamburg, Munich, Paris and Vienna. Often billed alongside Angel K, Noah Cyriacus and henryk. Next up: Legal, Munich on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Andi Britz is a house and tech house artist based in Germany, with 42 gigs on so
 
 Angel K, Noah Cyriacus, henryk
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andibritz/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andibritz/)*

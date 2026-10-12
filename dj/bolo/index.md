@@ -1,6 +1,6 @@
 # bolo
 
-bolo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+bolo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
 bolo is a techno and house artist based in Poland, with 47 gigs on soundcheck across Austin, Los Angeles, Medellin and Nashville and 2 more. Often billed alongside Abrew, Kobayashkn and PayoYayo. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ bolo is a techno and house artist based in Poland, with 47 gigs on soundcheck ac
 
 Abrew, Kobayashkn, PayoYayo
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bolo/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bolo/)*

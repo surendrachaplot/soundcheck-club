@@ -1,6 +1,6 @@
 # Taylor Torrence
 
-Taylor Torrence is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
+Taylor Torrence is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
 
 Taylor Torrence is a techno and trance artist based in United States of America, with 9 gigs on soundcheck across Detroit, Los Angeles, Medellin and San Francisco/Oakland and 2 more. Often billed alongside Billy Gillies, Amy Wiles and Armin van Buuren. Next up: Wamu Theatre, Seattle on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Taylor Torrence is a techno and trance artist based in United States of America,
 
 Billy Gillies, Amy Wiles, Armin van Buuren
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taylortorrence/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taylortorrence/)*

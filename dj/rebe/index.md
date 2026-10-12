@@ -1,6 +1,6 @@
 # REBE
 
-REBE is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at OHM, Berlin on Fri, 16 Oct 2026.
+REBE is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at OHM, Berlin on Fri, 16 Oct 2026.
 
 REBE is a club and bass artist based in Greece, with 30 gigs on soundcheck across Athens, Barcelona, Berlin and Copenhagen and 1 more. Often billed alongside Dmitra, griefeater and Taylor Cherry. Next up: OHM, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ REBE is a club and bass artist based in Greece, with 30 gigs on soundcheck acros
 
 Dmitra, griefeater, Taylor Cherry
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebe/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebe/)*

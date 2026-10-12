@@ -1,14 +1,13 @@
 # CHIEF TORKEL
 
-CHIEF TORKEL is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Kater, Berlin on Fri, 9 Oct 2026.
+CHIEF TORKEL is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Hive Club, Zurich on Fri, 6 Nov 2026.
 
-CHIEF TORKEL is a house and tech house artist based in Germany, with 11 gigs on soundcheck across Berlin and Zurich. Often billed alongside Benjie Bäm, Dora Dox and Paqueta. Next up: Kater, Berlin on Fri 9 Oct.
+CHIEF TORKEL is a house and tech house artist based in Germany, with 11 gigs on soundcheck across Berlin and Zurich. Often billed alongside Benjie Bäm, Dora Dox and Paqueta. Next up: Hive Club, Zurich on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Kater | Berlin |
 | Fri, 6 Nov 2026 | Hive Club | Zurich |
 
 ## Recently played
@@ -26,4 +25,4 @@ CHIEF TORKEL is a house and tech house artist based in Germany, with 11 gigs on 
 
 Benjie Bäm, Dora Dox, Paqueta
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chieftorkel/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chieftorkel/)*

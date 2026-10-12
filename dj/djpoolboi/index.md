@@ -1,6 +1,6 @@
 # dj poolboi
 
-dj poolboi is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The Airliner, Los Angeles on Sat, 17 Oct 2026.
+dj poolboi is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Airliner, Los Angeles on Sat, 17 Oct 2026.
 
 dj poolboi is a house and techno artist based in United States of America, with 61 gigs on soundcheck across Amsterdam, Berlin, Brussels and Budapest and 22 more. Often billed alongside sunflwr, DJ Cinéma Quartier Latin and Shaolin Cowboy. Next up: The Airliner, Los Angeles on Sat 17 Oct.
 
@@ -29,4 +29,4 @@ dj poolboi is a house and techno artist based in United States of America, with 
 
 sunflwr, DJ Cinéma Quartier Latin, Shaolin Cowboy
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpoolboi/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpoolboi/)*

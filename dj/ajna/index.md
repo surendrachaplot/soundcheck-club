@@ -1,6 +1,6 @@
 # AJNA
 
-AJNA is a Afro House and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Kawasaki - cocktail bar & club, Warsaw on Fri, 16 Oct 2026.
+AJNA is a Afro House and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Kawasaki - cocktail bar & club, Warsaw on Fri, 16 Oct 2026.
 
 AJNA is an afro house and house artist based in Belgium, with 41 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 13 more. Often billed alongside Samm (BE), Maxi Meraki and Samm. Next up: Kawasaki - cocktail bar & club, Warsaw on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ AJNA is an afro house and house artist based in Belgium, with 41 gigs on soundch
 
 Samm (BE), Maxi Meraki, Samm
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ajna/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ajna/)*

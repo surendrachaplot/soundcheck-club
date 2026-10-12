@@ -1,6 +1,6 @@
 # La Machine Du Moulin Rouge
 
-La Machine Du Moulin Rouge is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "DJ KRUSH + DJ Low Cut" on Mon, 12 Oct 2026.
+La Machine Du Moulin Rouge is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "DJ KRUSH + DJ Low Cut" on Mon, 12 Oct 2026.
 
 La Machine Du Moulin Rouge is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including 25EMEHEURE, anyoneID, benzii and Broodoo Ramses and 2 more. See dates, start times and who's playing. 90 boulevard de Clichy; 75018; Paris; France.
 
@@ -21,4 +21,4 @@ La Machine Du Moulin Rouge is a music venue in Paris listed on soundcheck. 8 upc
 
 90 boulevard de Clichy; 75018; Paris; France, Paris
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-machine-du-moulin-rouge/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-machine-du-moulin-rouge/)*

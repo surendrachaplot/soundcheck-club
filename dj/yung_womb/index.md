@@ -1,6 +1,6 @@
 # yung_womb
 
-yung_womb is a Bass and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at KREUZWERK, Berlin on Fri, 16 Oct 2026.
+yung_womb is a Bass and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at KREUZWERK, Berlin on Fri, 16 Oct 2026.
 
 yung_womb is a bass and house artist based in Colombia, with 78 gigs on soundcheck across Berlin, Cologne, Colombia and Hamburg and 5 more. Often billed alongside Nissa Carrington, SLIC Unit and Slimgirl fat. Next up: KREUZWERK, Berlin on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ yung_womb is a bass and house artist based in Colombia, with 78 gigs on soundche
 
 Nissa Carrington, SLIC Unit, Slimgirl fat
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yung_womb/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yung_womb/)*

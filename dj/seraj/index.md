@@ -1,14 +1,13 @@
 # Sera J
 
-Sera J is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Fabrik, Madrid on Sun, 11 Oct 2026.
+Sera J is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
 
-Sera J is a techno and house artist based in Greece, with 34 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside ANNĒ, SHDW and Alarico. Next up: Fabrik, Madrid on Sun 11 Oct.
+Sera J is a techno and house artist based in Greece, with 34 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside ANNĒ, SHDW and Alarico. Next up: TILLATEC, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Fabrik | Madrid |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 | Sat, 24 Oct 2026 | glimmer | Hamburg |
 | Sat, 21 Nov 2026 | WE club | Thessaloniki |
@@ -16,6 +15,7 @@ Sera J is a techno and house artist based in Greece, with 34 gigs on soundcheck 
 
 ## Recently played
 
+- Fabrik, Madrid · Sun, 11 Oct 2026
 - La Cité Fertile, Paris · Sun, 20 Sept 2026
 - SMUT Athens, Athens · Sat, 12 Sept 2026
 - BASEMENT, New York City · Sat, 5 Sept 2026
@@ -23,10 +23,9 @@ Sera J is a techno and house artist based in Greece, with 34 gigs on soundcheck 
 - Mia Mao, Paris · Sat, 30 May 2026
 - Kassa Boat, Budapest · Sat, 16 May 2026
 - Lieberscholli, Munich · Sat, 18 Apr 2026
-- RSO.BERLIN, Berlin · Sat, 14 Mar 2026
 
 ## Shares bills with
 
 ANNĒ, SHDW, Alarico
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seraj/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seraj/)*

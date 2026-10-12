@@ -1,6 +1,6 @@
 # La Bellevilloise
 
-La Bellevilloise is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "La Shattarena #10 - Afro-Caribbean-Tropical Party à La Bellevilloise " on Fri, 16 Oct 2026.
+La Bellevilloise is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "La Shattarena #10 - Afro-Caribbean-Tropical Party à La Bellevilloise " on Fri, 16 Oct 2026.
 
 La Bellevilloise is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Amarou, Another Taste, Coco Maria and DJ Spinna and 2 more. See dates, start times and who's playing. 19-21 rue Boyer; 75020; Paris; France.
 
@@ -17,4 +17,4 @@ La Bellevilloise is a music venue in Paris listed on soundcheck. 4 upcoming gigs
 
 19-21 rue Boyer; 75020; Paris; France, Paris
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-bellevilloise/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-bellevilloise/)*

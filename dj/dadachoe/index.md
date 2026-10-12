@@ -1,6 +1,6 @@
 # Dadachoe
 
-Dadachoe is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Faust, Seoul on Fri, 16 Oct 2026.
+Dadachoe is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Faust, Seoul on Fri, 16 Oct 2026.
 
 Dadachoe is a house and deep house artist based in South Korea, with 15 gigs on soundcheck across Osaka and Seoul. Often billed alongside Nocturnal (KR), Minish and Stann Lumo. Next up: Faust, Seoul on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Dadachoe is a house and deep house artist based in South Korea, with 15 gigs on 
 
 Nocturnal (KR), Minish, Stann Lumo
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dadachoe/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dadachoe/)*

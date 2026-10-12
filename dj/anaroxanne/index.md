@@ -1,6 +1,6 @@
 # Ana Roxanne
 
-Ana Roxanne is a Experimental and Ambient artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The White Hotel, Manchester on Wed, 4 Nov 2026.
+Ana Roxanne is a Experimental and Ambient artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The White Hotel, Manchester on Wed, 4 Nov 2026.
 
 Ana Roxanne is an experimental and ambient artist based in United States of America, with 24 gigs on soundcheck across Barcelona, Berlin, Brussels and Glasgow and 12 more. Often billed alongside DJ Python, Dawuna and Dreamcrusher. Next up: The White Hotel, Manchester on Wed 4 Nov.
 
@@ -27,4 +27,4 @@ Ana Roxanne is an experimental and ambient artist based in United States of Amer
 
 DJ Python, Dawuna, Dreamcrusher
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anaroxanne/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anaroxanne/)*

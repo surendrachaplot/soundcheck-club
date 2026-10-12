@@ -1,8 +1,8 @@
 # Low Profile Studios
 
-Low Profile Studios is a music venue in London with 11 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Ooh Luvleh" on Fri, 16 Oct 2026.
+Low Profile Studios is a music venue in London with 12 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Ooh Luvleh" on Fri, 16 Oct 2026.
 
-Low Profile Studios is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including AKnight, ANNX, chem/sets and Demetzy and 2 more. See dates, start times and who's playing. 94 Vale Rd, Harringay Warehouse District, London N4 1PT.
+Low Profile Studios is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including AKnight, ANNX, chem/sets and ddwy and 2 more. See dates, start times and who's playing. 94 Vale Rd, Harringay Warehouse District, London N4 1PT.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Low Profile Studios is a music venue in London listed on soundcheck. 11 upcoming
 | Sat, 31 Oct 2026 | nospace presents: Final Screening  |  |
 | Sat, 7 Nov 2026 | Digger's Paradise w./ Ralph Lawson | Isaac Reuben, Ralph Lawson |
 | Fri, 13 Nov 2026 | SPICED: SUPERSTITION |  |
+| Fri, 20 Nov 2026 | Spice Palace: ddwy & Galo | Galo (2), ddwy |
 | Sat, 21 Nov 2026 | ebb/flow #014 | ebb/flow collective |
-| Sat, 28 Nov 2026 | Subsume | AKnight, ANNX, Heavy Skin, Horston |
 
 ## Address
 
 94 Vale Rd, Harringay Warehouse District, London N4 1PT, London
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/low-profile-studios/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/low-profile-studios/)*

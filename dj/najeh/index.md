@@ -1,6 +1,6 @@
 # Najeh
 
-Najeh is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Golden Gate, Berlin on Sat, 17 Oct 2026.
+Najeh is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Golden Gate, Berlin on Sat, 17 Oct 2026.
 
 Najeh is a house and techno artist based in Germany, with 93 gigs on soundcheck across Amsterdam, Bali, Berlin and Hamburg and 6 more. Often billed alongside Shimmy Robin, Lenard Klein and EliaHaze. Next up: Golden Gate, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Najeh is a house and techno artist based in Germany, with 93 gigs on soundcheck 
 
 Shimmy Robin, Lenard Klein, EliaHaze
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/najeh/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/najeh/)*

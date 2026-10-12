@@ -1,6 +1,6 @@
 # Brooklyn Storehouse
 
-Brooklyn Storehouse is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Brooklyn Storehouse: WORSHIP" on Sat, 17 Oct 2026.
+Brooklyn Storehouse is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Brooklyn Storehouse: WORSHIP" on Sat, 17 Oct 2026.
 
 Brooklyn Storehouse is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including 1991, Aline Umber, ANOTR and Bedouin and 2 more. See dates, start times and who's playing. Brooklyn Navy Yard.
 
@@ -17,4 +17,4 @@ Brooklyn Storehouse is a music venue in New York City listed on soundcheck. 4 up
 
 Brooklyn Navy Yard, New York City
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-storehouse/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-storehouse/)*

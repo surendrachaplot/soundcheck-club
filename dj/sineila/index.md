@@ -1,6 +1,6 @@
 # sineila
 
-sineila is a Pop and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Collectif MTL, Montreal on Fri, 30 Oct 2026.
+sineila is a Pop and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Collectif MTL, Montreal on Fri, 30 Oct 2026.
 
 sineila is a pop and experimental artist, with 26 gigs on soundcheck across Montreal. Often billed alongside Outback, Baby Bimbo and fangsie. Next up: Collectif MTL, Montreal on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ sineila is a pop and experimental artist, with 26 gigs on soundcheck across Mont
 
 Outback, Baby Bimbo, fangsie
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sineila/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sineila/)*

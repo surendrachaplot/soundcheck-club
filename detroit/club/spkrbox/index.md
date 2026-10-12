@@ -1,14 +1,17 @@
 # Spkrbox
 
-Spkrbox is a music venue in Detroit with 7 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Foggy Sunday" on Sun, 11 Oct 2026.
+Spkrbox is a music venue in Detroit with 10 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Música" on Mon, 12 Oct 2026.
 
-Spkrbox is a music venue in Detroit listed on soundcheck. 7 upcoming gigs, with line-ups including ADMN, DJ 3000, Dru Ruiz and Echoføn and 2 more. See dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
+Spkrbox is a music venue in Detroit listed on soundcheck. 10 upcoming gigs, with line-ups including ADMN, ALEX PAN, DJ 3000 and DJ Ray and 2 more. See dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Foggy Sunday | Dru Ruiz |
+| Mon, 12 Oct 2026 | Música |  |
+| Tue, 13 Oct 2026 | Locomotion | DJ Ray, hypemelo |
+| Wed, 14 Oct 2026 | Nightcap Detroit | Isaac Prieto |
+| Wed, 14 Oct 2026 | The Peel Back | ALEX PAN, Loren |
 | Thu, 15 Oct 2026 | FLAVORS by Snack Time: Tommaso (CHI) all night | Tommaso (IT) |
 | Fri, 16 Oct 2026 | Tour Detroit | ERNO (US) |
 | Sat, 17 Oct 2026 | UNION | DJ 3000, Gary Martin, Los Hermanos |
@@ -20,4 +23,4 @@ Spkrbox is a music venue in Detroit listed on soundcheck. 7 upcoming gigs, with 
 
 200 Grand River Ave, Detroit, MI 48226, United States, Detroit
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*

@@ -1,6 +1,6 @@
 # Supergloss
 
-Supergloss is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Knockdown Center, New York City on Sat, 17 Oct 2026.
+Supergloss is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Knockdown Center, New York City on Sat, 17 Oct 2026.
 
 Supergloss is a techno and trance artist based in Germany, with 217 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Funk Tribu, Omon Breaker and MALUGI. Next up: Knockdown Center, New York City on Sat 17 Oct.
 
@@ -33,4 +33,4 @@ Supergloss is a techno and trance artist based in Germany, with 217 gigs on soun
 
 Funk Tribu, Omon Breaker, MALUGI
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*

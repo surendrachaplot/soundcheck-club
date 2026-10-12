@@ -1,6 +1,6 @@
 # O.KAYE
 
-O.KAYE is a Electro and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Planet Wax, London on Thu, 29 Oct 2026.
+O.KAYE is a Electro and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Planet Wax, London on Thu, 29 Oct 2026.
 
 O.KAYE is an electro and bass artist, with 18 gigs on soundcheck across Brighton, Bristol and London. Often billed alongside uforia, arawzi and Deselecta. Next up: Planet Wax, London on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ O.KAYE is an electro and bass artist, with 18 gigs on soundcheck across Brighton
 
 uforia, arawzi, Deselecta
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/o.kaye/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/o.kaye/)*

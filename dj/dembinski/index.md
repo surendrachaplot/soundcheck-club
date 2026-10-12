@@ -1,6 +1,6 @@
 # Dembinski
 
-Dembinski is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Gaffe, London on Sat, 28 Nov 2026.
+Dembinski is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Gaffe, London on Sat, 28 Nov 2026.
 
 Dembinski is a house and progressive house artist, with 23 gigs on soundcheck across Lisbon, London and Newcastle. Often billed alongside O.WEBSTER, Checketts and Adam Chapman. Next up: Gaffe, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Dembinski is a house and progressive house artist, with 23 gigs on soundcheck ac
 
 O.WEBSTER, Checketts, Adam Chapman
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dembinski/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dembinski/)*

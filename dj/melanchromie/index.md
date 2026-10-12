@@ -1,6 +1,6 @@
 # Melanchromie
 
-Melanchromie is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at OST, Berlin on Fri, 23 Oct 2026.
+Melanchromie is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at OST, Berlin on Fri, 23 Oct 2026.
 
 Melanchromie is a techno and trance artist based in Germany, with 70 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside Millie Forsberg, A.N.I. and Krash Cora. Next up: OST, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Melanchromie is a techno and trance artist based in Germany, with 70 gigs on sou
 
 Millie Forsberg, A.N.I., Krash Cora
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melanchromie/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melanchromie/)*

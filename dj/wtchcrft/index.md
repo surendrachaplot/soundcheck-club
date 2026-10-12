@@ -1,6 +1,6 @@
 # WTCHCRFT
 
-WTCHCRFT is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Paragon, New York City on Sat, 24 Oct 2026.
+WTCHCRFT is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Paragon, New York City on Sat, 24 Oct 2026.
 
 WTCHCRFT is a techno and club artist based in United States of America, with 157 gigs on soundcheck across Austin, Berlin, Boston and Chicago and 16 more. Often billed alongside KYRUH, RITCHRD and estoc. Next up: Paragon, New York City on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ WTCHCRFT is a techno and club artist based in United States of America, with 157
 
 KYRUH, RITCHRD, estoc
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wtchcrft/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wtchcrft/)*

@@ -1,6 +1,6 @@
 # Nina de Koning
 
-Nina de Koning is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Club Royal, Netherlands on Fri, 23 Oct 2026.
+Nina de Koning is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Club Royal, Netherlands on Fri, 23 Oct 2026.
 
 Nina de Koning is a techno and acid artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Berlin, London and Netherlands and 1 more. Often billed alongside Menja Mist, Robin Hastings and Baptist. Next up: Club Royal, Netherlands on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Nina de Koning is a techno and acid artist based in Netherlands, with 28 gigs on
 
 Menja Mist, Robin Hastings, Baptist
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninadekoning/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninadekoning/)*

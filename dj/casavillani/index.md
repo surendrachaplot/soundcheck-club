@@ -1,6 +1,6 @@
 # Casavillani
 
-Casavillani is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Jalousy, Brussels on Fri, 16 Oct 2026.
+Casavillani is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Jalousy, Brussels on Fri, 16 Oct 2026.
 
 Casavillani is a tech house and house artist, with 5 gigs on soundcheck across Brussels. Often billed alongside LIUK, Rick Baguette and Abaque. Next up: Jalousy, Brussels on Fri 16 Oct.
 
@@ -21,4 +21,4 @@ Casavillani is a tech house and house artist, with 5 gigs on soundcheck across B
 
 LIUK (2), Rick Baguette, Abaque
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casavillani/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casavillani/)*

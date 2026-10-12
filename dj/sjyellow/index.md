@@ -1,6 +1,6 @@
 # SJ Yellow
 
-SJ Yellow is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 17 Oct 2026.
+SJ Yellow is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 17 Oct 2026.
 
 SJ Yellow is a techno and electro artist based in Slovakia, with 151 gigs on soundcheck across Amsterdam, Berlin, Budapest and London and 3 more. Often billed alongside tmk (CZ), Nina Farrina and yo haan. Next up: Ankali & Planeta Za, Prague on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ SJ Yellow is a techno and electro artist based in Slovakia, with 151 gigs on sou
 
 tmk (CZ), Nina Farrina, yo haan
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sjyellow/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sjyellow/)*

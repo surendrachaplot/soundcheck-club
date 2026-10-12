@@ -1,14 +1,13 @@
 # GIØ (1)
 
-GIØ (1) is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
+GIØ (1) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Kilomètre25, Paris on Fri, 23 Oct 2026.
 
-GIØ is a techno and trance artist based in Italy, with 40 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 14 more. Often billed alongside KUKO, Adrian Mills and HUMAN ERROR. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
+GIØ is a techno and trance artist based in Italy, with 40 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 14 more. Often billed alongside KUKO, Adrian Mills and HUMAN ERROR. Next up: Kilomètre25, Paris on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Auditorio Málaga Cortijo de Torres | South |
 | Fri, 23 Oct 2026 | Kilomètre25 | Paris |
 | Sat, 7 Nov 2026 | Indiego Glocksee | Hannover |
 | Wed, 30 Dec 2026 | MUENZE | Berlin |
@@ -28,4 +27,4 @@ GIØ is a techno and trance artist based in Italy, with 40 gigs on soundcheck ac
 
 KUKO, Adrian Mills, HUMAN ERROR
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gio-1-it/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gio-1-it/)*

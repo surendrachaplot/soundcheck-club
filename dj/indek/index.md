@@ -1,6 +1,6 @@
 # indek
 
-indek is a IDM and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Underflow Record Store, Athens on Fri, 23 Oct 2026.
+indek is a IDM and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Underflow Record Store, Athens on Fri, 23 Oct 2026.
 
 indek is an idm and electronica artist based in United States of America, with 5 gigs on soundcheck across Athens, Leeds, London and Munich and 1 more. Often billed alongside Nixtrove, Ans M and Echo Canyon. Next up: Underflow Record Store, Athens on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ indek is an idm and electronica artist based in United States of America, with 5
 
 Nixtrove, Ans M, Echo Canyon
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/indek/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/indek/)*

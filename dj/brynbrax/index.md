@@ -1,6 +1,6 @@
 # Bryn Brax
 
-Bryn Brax is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Dalston Den, London on Fri, 16 Oct 2026.
+Bryn Brax is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Dalston Den, London on Fri, 16 Oct 2026.
 
 Bryn Brax is a jungle and drum & bass artist based in United Kingdom, with 18 gigs on soundcheck across London. Often billed alongside Whatsname, Agility and zoneSL. Next up: Dalston Den, London on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Bryn Brax is a jungle and drum & bass artist based in United Kingdom, with 18 gi
 
 Whatsname, Agility, zoneSL
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brynbrax/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brynbrax/)*

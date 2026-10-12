@@ -1,6 +1,6 @@
 # Rampue
 
-Rampue is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 17 Oct 2026.
+Rampue is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 17 Oct 2026.
 
 Rampue is a house and techno artist based in Germany, with 79 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 20 more. Often billed alongside Chris Schwarzwälder, Mimi Love and Britta Arnold. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Rampue is a house and techno artist based in Germany, with 79 gigs on soundcheck
 
 Chris Schwarzwälder, Mimi Love, Britta Arnold
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rampue/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rampue/)*

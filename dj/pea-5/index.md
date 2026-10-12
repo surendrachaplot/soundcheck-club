@@ -1,6 +1,6 @@
 # Pea (5)
 
-Pea (5) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Kazimier Stockroom, Liverpool on Fri, 23 Oct 2026.
+Pea (5) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Kazimier Stockroom, Liverpool on Fri, 23 Oct 2026.
 
 Pea is a house and techno artist based in United Kingdom, with 6 gigs on soundcheck across Liverpool. Often billed alongside Aly P, Kathryn and OP(99). Next up: Kazimier Stockroom, Liverpool on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ Pea is a house and techno artist based in United Kingdom, with 6 gigs on soundch
 
 Aly P, Kathryn, OP(99)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pea-5/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pea-5/)*

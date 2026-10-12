@@ -1,15 +1,13 @@
 # Gorg-O-Mish
 
-Gorg-O-Mish is a music venue in Vancouver with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "ANALOG // Ev O'Reilly, Abasi & Glyn // Vinyl Set" on Fri, 9 Oct 2026.
+Gorg-O-Mish is a music venue in Vancouver with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "ANALOG // Woodhead, Marcella & Oki // Vinyl Set" on Fri, 16 Oct 2026.
 
-Gorg-O-Mish is a music venue in Vancouver listed on soundcheck. 8 upcoming gigs, with line-ups including 87DOVE, Abasi, Afrooz and Dairy Free and 2 more. See dates, start times and who's playing. 695 Smithe St; Vancouver, BC V6B 2C9; Canada.
+Gorg-O-Mish is a music venue in Vancouver listed on soundcheck. 6 upcoming gigs, with line-ups including Dairy Free, DJ dood, Fisher Bryce and Hera (IE) and 2 more. See dates, start times and who's playing. 695 Smithe St; Vancouver, BC V6B 2C9; Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | ANALOG // Ev O'Reilly, Abasi & Glyn // Vinyl Set | Abasi, Ev O'Reilly |
-| Sat, 10 Oct 2026 | Gorg-O-Mish presents: Paul Franc, 87DOVE & Afrooz | 87DOVE, Afrooz, Paul Franc |
 | Fri, 16 Oct 2026 | ANALOG // Woodhead, Marcella & Oki // Vinyl Set | Marcella, Woodhead |
 | Sun, 18 Oct 2026 | Gorg-O-Mish presents: DJ dood & Sayang | DJ dood, Sayang |
 | Fri, 23 Oct 2026 | ANALOG // Dairy Free, Hera & Tienn // Vinyl Set | Dairy Free, Hera (IE), Tienn |
@@ -21,4 +19,4 @@ Gorg-O-Mish is a music venue in Vancouver listed on soundcheck. 8 upcoming gigs,
 
 695 Smithe St; Vancouver, BC V6B 2C9; Canada, Vancouver
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/gorg-o-mish/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/gorg-o-mish/)*

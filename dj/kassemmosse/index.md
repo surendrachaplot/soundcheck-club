@@ -1,14 +1,13 @@
 # Kassem Mosse
 
-Kassem Mosse is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
+Kassem Mosse is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Distillery, Leipzig on Sat, 31 Oct 2026.
 
-Kassem Mosse is a techno and house artist based in Germany, with 13 gigs on soundcheck across Antwerp, Barcelona, Berlin and Budapest and 4 more. Often billed alongside Jay Simon, Lowtec and Viola Klein. Next up: Bassiani, Tbilisi on Fri 9 Oct.
+Kassem Mosse is a techno and house artist based in Germany, with 13 gigs on soundcheck across Antwerp, Barcelona, Berlin and Budapest and 4 more. Often billed alongside Jay Simon, Lowtec and Viola Klein. Next up: Distillery, Leipzig on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 | Sat, 31 Oct 2026 | Distillery | Leipzig |
 
 ## Recently played
@@ -26,4 +25,4 @@ Kassem Mosse is a techno and house artist based in Germany, with 13 gigs on soun
 
 Jay Simon, Lowtec, Viola Klein
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kassemmosse/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kassemmosse/)*

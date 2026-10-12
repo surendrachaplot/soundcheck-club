@@ -1,6 +1,6 @@
 # Breakfake
 
-Breakfake is a Dubstep and Dub artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at fabric, London on Fri, 4 Dec 2026.
+Breakfake is a Dubstep and Dub artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at fabric, London on Fri, 4 Dec 2026.
 
 Breakfake is a dubstep and dub artist based in Latvia, with 46 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 6 more. Often billed alongside Felixculpah, Iration Steppas and Krotone. Next up: fabric, London on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Breakfake is a dubstep and dub artist based in Latvia, with 46 gigs on soundchec
 
 Felixculpah, Iration Steppas, Krotone
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/breakfake/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/breakfake/)*

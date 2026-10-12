@@ -1,6 +1,6 @@
 # Brat Star
 
-Brat Star is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Newspeak, Montreal on Fri, 4 Dec 2026.
+Brat Star is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Newspeak, Montreal on Fri, 4 Dec 2026.
 
 Brat Star is an electronica and electro artist based in Canada, with 4 gigs on soundcheck across Montreal, Toronto and Vancouver. Often billed alongside Loukeman and Mechatok. Next up: Newspeak, Montreal on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ Brat Star is an electronica and electro artist based in Canada, with 4 gigs on s
 
 Loukeman, Mechatok
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bratstar/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bratstar/)*

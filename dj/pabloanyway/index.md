@@ -1,6 +1,6 @@
 # PABLOANYWAY
 
-PABLOANYWAY is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Subcero Club, Madrid on Sat, 17 Oct 2026.
+PABLOANYWAY is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Subcero Club, Madrid on Sat, 17 Oct 2026.
 
 PABLOANYWAY is an electronica and house artist based in Spain, with 5 gigs on soundcheck across Madrid. Often billed alongside Foie Gras, Antoine. and Guim. Next up: Subcero Club, Madrid on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ PABLOANYWAY is an electronica and house artist based in Spain, with 5 gigs on so
 
 Foie Gras, Antoine., Guim
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloanyway/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloanyway/)*

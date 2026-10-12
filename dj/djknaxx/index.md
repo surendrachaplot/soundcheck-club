@@ -1,6 +1,6 @@
 # DJ Knaxx
 
-DJ Knaxx is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Sektor Evolution, Dresden on Sat, 17 Oct 2026.
+DJ Knaxx is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Sektor Evolution, Dresden on Sat, 17 Oct 2026.
 
 DJ Knaxx is an electronic artist, with 5 gigs on soundcheck across Berlin and Dresden. Often billed alongside GEN97, LARSUS and J2K // JANNI. Next up: Sektor Evolution, Dresden on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ DJ Knaxx is an electronic artist, with 5 gigs on soundcheck across Berlin and Dr
 
 GEN97, LARSUS, J2K // JANNI
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djknaxx/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djknaxx/)*

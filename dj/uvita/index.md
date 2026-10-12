@@ -1,18 +1,18 @@
 # UVITA
 
-UVITA is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Harriet's Rooftop, Toronto on Sun, 11 Oct 2026.
+UVITA is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Málaga Forum, Malaga on Sat, 24 Oct 2026.
 
-UVITA is an afro house and house artist based in Ireland, with 8 gigs on soundcheck across Frankfurt, Ibiza, London and Malaga and 2 more. Often billed alongside OSFUR, Bedouin and Claudius (DE). Next up: Harriet's Rooftop, Toronto on Sun 11 Oct.
+UVITA is an afro house and house artist based in Ireland, with 8 gigs on soundcheck across Frankfurt, Ibiza, London and Malaga and 2 more. Often billed alongside OSFUR, Bedouin and Claudius (DE). Next up: TBA - Málaga Forum, Malaga on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Harriet's Rooftop | Toronto |
 | Sat, 24 Oct 2026 | TBA - Málaga Forum | Malaga |
 
 ## Recently played
 
+- Harriet's Rooftop, Toronto · Sun, 11 Oct 2026
 - Chinois Ibiza, Ibiza · Sun, 26 Jul 2026
 - Pracht, Frankfurt · Sat, 30 May 2026
 - Volt Club Milano, Milan · Sat, 4 Apr 2026
@@ -24,4 +24,4 @@ UVITA is an afro house and house artist based in Ireland, with 8 gigs on soundch
 
 OSFUR, Bedouin, Claudius (DE)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uvita/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uvita/)*

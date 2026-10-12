@@ -1,6 +1,6 @@
 # RAMMÖ
 
-RAMMÖ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at West Indish Huis, Amsterdam on Thu, 22 Oct 2026.
+RAMMÖ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at West Indish Huis, Amsterdam on Thu, 22 Oct 2026.
 
 RAMMÖ is a house and techno artist, with 6 gigs on soundcheck across Amsterdam, Bali, Lisbon and Marseille and 1 more. Often billed alongside Parallelle, Adam Purnell and Amber H. Next up: West Indish Huis, Amsterdam on Thu 22 Oct.
 
@@ -22,4 +22,4 @@ RAMMÖ is a house and techno artist, with 6 gigs on soundcheck across Amsterdam,
 
 Parallelle, Adam Purnell, Amber H
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rammo/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rammo/)*

@@ -1,6 +1,6 @@
 # Silence Please
 
-Silence Please is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "softgel: Natural Remedies" on Sat, 17 Oct 2026.
+Silence Please is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "softgel: Natural Remedies" on Sat, 17 Oct 2026.
 
 Silence Please is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including Andi, Margot and softgel. See dates, start times and who's playing. 132 Bowery Floor 2, New York, NY 10013.
 
@@ -17,4 +17,4 @@ Silence Please is a music venue in New York City listed on soundcheck. 4 upcomin
 
 132 Bowery Floor 2, New York, NY 10013, New York City
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silence-please/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silence-please/)*

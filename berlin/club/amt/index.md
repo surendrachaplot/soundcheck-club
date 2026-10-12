@@ -1,6 +1,6 @@
 # AMT
 
-AMT is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "CLASH" on Fri, 16 Oct 2026.
+AMT is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "CLASH" on Fri, 16 Oct 2026.
 
 AMT is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including _minted, ALAN JOE, Bill Sanders and Charlie. and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ AMT is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line
 | Fri, 13 Nov 2026 | CLASH | ALAN JOE, Bill Sanders, Danny Roach, jardabpm |
 | Sat, 14 Nov 2026 | ▥ CAGE by UNDR: Techno / Hard Techno [Kinky] | DEZO, Epicx, Grace Thompson, Lady Maru, Maze Kashi, Miss UNLEASHED, Nat SuPrise |
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*

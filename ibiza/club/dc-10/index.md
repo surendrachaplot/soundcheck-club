@@ -1,6 +1,6 @@
 # DC-10
 
-DC-10 is a music venue in Ibiza with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "CircoLoco Ibiza - The Closing Party" on Mon, 12 Oct 2026.
+DC-10 is a music venue in Ibiza with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "CircoLoco Ibiza - The Closing Party" on Mon, 12 Oct 2026.
 
 DC-10 is a music venue in Ibiza listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. PM-802, Sant Josep de sa Talaia, Ibiza Spain.
 
@@ -14,4 +14,4 @@ DC-10 is a music venue in Ibiza listed on soundcheck. 1 upcoming gig. See dates,
 
 PM-802, Sant Josep de sa Talaia, Ibiza Spain, Ibiza
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/dc-10/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/dc-10/)*

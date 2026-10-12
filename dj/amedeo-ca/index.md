@@ -1,6 +1,6 @@
 # Amedeo (CA)
 
-Amedeo (CA) is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Standard Time, Toronto on Fri, 30 Oct 2026.
+Amedeo (CA) is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Standard Time, Toronto on Fri, 30 Oct 2026.
 
 Amedeo (CA) is a house and deep house artist based in Canada, with 10 gigs on soundcheck across Toronto. Often billed alongside Blkvirgo, Invisible City and Vjollca. Next up: Standard Time, Toronto on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Amedeo (CA) is a house and deep house artist based in Canada, with 10 gigs on so
 
 Blkvirgo, Invisible City, Vjollca
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amedeo-ca/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amedeo-ca/)*

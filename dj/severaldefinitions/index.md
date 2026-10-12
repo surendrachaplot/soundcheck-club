@@ -1,6 +1,6 @@
 # Several Definitions
 
-Several Definitions is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Audio Club, Geneva on Fri, 13 Nov 2026.
+Several Definitions is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Audio Club, Geneva on Fri, 13 Nov 2026.
 
 Several Definitions is a techno and club artist based in Switzerland, with 14 gigs on soundcheck across Cologne, Geneva, Munich and Zurich. Often billed alongside La Forêt, Rimbu (CH) and Alchemiah. Next up: Audio Club, Geneva on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Several Definitions is a techno and club artist based in Switzerland, with 14 gi
 
 La Forêt, Rimbu (CH), Alchemiah
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/severaldefinitions/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/severaldefinitions/)*

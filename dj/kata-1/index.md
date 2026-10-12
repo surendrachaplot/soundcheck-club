@@ -1,6 +1,6 @@
 # Kata (1)
 
-Kata (1) is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Lilli Escher, Hamburg on Tue, 20 Oct 2026.
+Kata (1) is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Lilli Escher, Hamburg on Tue, 20 Oct 2026.
 
 Kata is an electronic artist, with 5 gigs on soundcheck across Copenhagen and Hamburg. Often billed alongside Alibi, Billy Bam and Bélavie. Next up: Lilli Escher, Hamburg on Tue 20 Oct.
 
@@ -21,4 +21,4 @@ Kata is an electronic artist, with 5 gigs on soundcheck across Copenhagen and Ha
 
 Alibi (5), Billy Bam, Bélavie
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kata-1/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kata-1/)*

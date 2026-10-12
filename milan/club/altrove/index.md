@@ -1,6 +1,6 @@
 # Altrove
 
-Altrove is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "TITINA presenta Liad Krispin (Cocktail d'Amore, Berlin)" on Sat, 24 Oct 2026.
+Altrove is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "TITINA presenta Liad Krispin (Cocktail d'Amore, Berlin)" on Sat, 24 Oct 2026.
 
 Altrove is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including Andrea Ratti, Club D'Oro, Duwe and Liad Krispin and 1 more. See dates, start times and who's playing. Via Arcangelo Corelli, 27, 20134 Milano MI, Italy.
 
@@ -14,4 +14,4 @@ Altrove is a music venue in Milan listed on soundcheck. 1 upcoming gig, with lin
 
 Via Arcangelo Corelli, 27, 20134 Milano MI, Italy, Milan
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/altrove/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/altrove/)*

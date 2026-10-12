@@ -1,6 +1,6 @@
 # B (379)
 
-B (379) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Zouk Tokyo, Tokyo on Thu, 22 Oct 2026.
+B (379) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Zouk Tokyo, Tokyo on Thu, 22 Oct 2026.
 
 B is a tech house and house artist based in Japan, with 7 gigs on soundcheck across Tokyo. Often billed alongside COCOLY, Daitto and EIGHT. Next up: Zouk Tokyo, Tokyo on Thu 22 Oct.
 
@@ -23,4 +23,4 @@ B is a tech house and house artist based in Japan, with 7 gigs on soundcheck acr
 
 COCOLY, Daitto, EIGHT
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b-379/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b-379/)*

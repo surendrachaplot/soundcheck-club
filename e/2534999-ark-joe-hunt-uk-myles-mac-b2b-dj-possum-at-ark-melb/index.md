@@ -1,6 +1,6 @@
 # ark // Joe Hunt [UK] - ????? - Myles Mac b2b DJ Possum at ark (Melb)
 
-ark // Joe Hunt [UK] - ????? - Myles Mac b2b DJ Possum at ark (Melb) on Sat 9 Jan, Melbourne. 2 artists: DJ Possum and Myles Mac. See the line-up on soundcheck.
+ark // Joe Hunt [UK] - ????? - Myles Mac b2b DJ Possum at ark (Melb) on Sat 9 Jan, Melbourne. 2 artists: DJ Possum and Myles Mac. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

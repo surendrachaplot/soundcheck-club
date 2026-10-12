@@ -1,6 +1,6 @@
 # Lotits
 
-Lotits is a Experimental and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - NAMELESS, Philadelphia on Sat, 24 Oct 2026.
+Lotits is a Experimental and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - NAMELESS, Philadelphia on Sat, 24 Oct 2026.
 
 Lotits is an experimental and house artist, with 7 gigs on soundcheck across Philadelphia. Often billed alongside 3xpo, DJ-SUN and Jabair. Next up: TBA - NAMELESS, Philadelphia on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Lotits is an experimental and house artist, with 7 gigs on soundcheck across Phi
 
 3xpo, DJ-SUN, Jabair
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lotits/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lotits/)*

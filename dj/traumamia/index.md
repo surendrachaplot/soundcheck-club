@@ -1,6 +1,6 @@
 # TraumaMia
 
-TraumaMia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 31 Oct 2026.
+TraumaMia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 31 Oct 2026.
 
 TraumaMia is a techno and house artist based in Germany, with 91 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside Maurice Mino, Ele Luz and Katzengold. Next up: PKH Warehouse, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ TraumaMia is a techno and house artist based in Germany, with 91 gigs on soundch
 
 Maurice Mino, Ele Luz, Katzengold
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/traumamia/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/traumamia/)*

@@ -1,6 +1,6 @@
 # MARU (2)
 
-MARU (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Circus Osaka, Osaka on Fri, 23 Oct 2026.
+MARU (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Circus Osaka, Osaka on Fri, 23 Oct 2026.
 
 MARU is a techno and house artist based in Japan, with 27 gigs on soundcheck across Osaka and Tokyo. Often billed alongside SEIJI, DOTT and MiTSUYAS. Next up: Circus Osaka, Osaka on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ MARU is a techno and house artist based in Japan, with 27 gigs on soundcheck acr
 
 SEIJI (2), DOTT, MiTSUYAS
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maru-2/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maru-2/)*

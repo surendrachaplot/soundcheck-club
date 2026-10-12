@@ -1,14 +1,13 @@
 # Schrotthagen
 
-Schrotthagen is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+Schrotthagen is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Noto Philadelphia, Philadelphia on Thu, 22 Oct 2026.
 
-Schrotthagen is a techno and trance artist based in Germany, with 51 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 19 more. Often billed alongside A.N.I., PRADA2000 and Somewhen. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
+Schrotthagen is a techno and trance artist based in Germany, with 51 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 19 more. Often billed alongside A.N.I., PRADA2000 and Somewhen. Next up: Noto Philadelphia, Philadelphia on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 | Thu, 22 Oct 2026 | Noto Philadelphia | Philadelphia |
 | Fri, 30 Oct 2026 | TBA | Toronto |
 | Sat, 31 Oct 2026 | 314 Scholes | New York City |
@@ -33,4 +32,4 @@ Schrotthagen is a techno and trance artist based in Germany, with 51 gigs on sou
 
 A.N.I., PRADA2000, Somewhen
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schrotthagen/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schrotthagen/)*

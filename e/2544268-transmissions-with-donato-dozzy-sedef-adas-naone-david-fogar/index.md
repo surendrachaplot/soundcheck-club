@@ -1,6 +1,6 @@
 # Transmissions with Donato Dozzy, Sedef Adasï, Naone, David Fogarty at FOLD
 
-Transmissions with Donato Dozzy, Sedef Adasï, Naone, David Fogarty at FOLD on Sat 21 Nov, London. 5 artists: David Fogarty, Donato Dozzy, Inner Zone and Naone and 1 more. Techno and Tech House. See the line-up on soundcheck.
+Transmissions with Donato Dozzy, Sedef Adasï, Naone, David Fogarty at FOLD on Sat 21 Nov, London. 7 artists: David Fogarty, Donato Dozzy, FROND and Inner Zone and 3 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,10 @@ Transmissions with Donato Dozzy, Sedef Adasï, Naone, David Fogarty at FOLD on S
 
 - David Fogarty
 - Donato Dozzy
+- FROND
 - Inner Zone
 - Naone
+- Ryan Ingleby
 - Sedef Adasï
 
 *Source: [soundcheck](https://soundcheck.club/e/2544268-transmissions-with-donato-dozzy-sedef-adas-naone-david-fogar/)*

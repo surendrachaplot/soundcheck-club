@@ -1,6 +1,6 @@
 # Sansibar
 
-Sansibar is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
+Sansibar is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
 Sansibar is a techno and house artist, with 189 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 46 more. Often billed alongside Denzel, Katerina and dj sweet6teen. Next up: ZENNER, Berlin on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Sansibar is a techno and house artist, with 189 gigs on soundcheck across Amster
 
 Denzel, Katerina, dj sweet6teen
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sansibar/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sansibar/)*

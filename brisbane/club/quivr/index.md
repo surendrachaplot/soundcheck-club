@@ -1,6 +1,6 @@
 # QUIVR
 
-QUIVR is a music venue in Brisbane with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "CIOZ BRISBANE" on Sun, 8 Nov 2026.
+QUIVR is a music venue in Brisbane with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "CIOZ BRISBANE" on Sun, 8 Nov 2026.
 
 QUIVR is a music venue in Brisbane listed on soundcheck. 2 upcoming gigs, with line-ups including Bambi-S, CIOZ, Jesse Maas and Omnis and 1 more. See dates, start times and who's playing. 5m Winn Lane, Fortitude Valley QLD 4006.
 
@@ -15,4 +15,4 @@ QUIVR is a music venue in Brisbane listed on soundcheck. 2 upcoming gigs, with l
 
 5m Winn Lane, Fortitude Valley QLD 4006, Brisbane
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/quivr/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/quivr/)*

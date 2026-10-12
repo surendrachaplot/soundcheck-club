@@ -1,6 +1,6 @@
 # Ridney
 
-Ridney is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at The Bulldog Hotel, Amsterdam on Fri, 23 Oct 2026.
+Ridney is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Bulldog Hotel, Amsterdam on Fri, 23 Oct 2026.
 
 Ridney is a house and disco artist based in United Kingdom, with 8 gigs on soundcheck across Amsterdam, Ibiza, London and Midlands and 1 more. Often billed alongside Black Legend, Doctor Feelgood and Allister Whitehead. Next up: The Bulldog Hotel, Amsterdam on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Ridney is a house and disco artist based in United Kingdom, with 8 gigs on sound
 
 Black Legend, Doctor Feelgood, Allister Whitehead
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ridney/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ridney/)*

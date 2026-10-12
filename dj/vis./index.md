@@ -1,6 +1,6 @@
 # Vis.
 
-Vis. is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Malaga Sin City, Milan on Sat, 17 Oct 2026.
+Vis. is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Malaga Sin City, Milan on Sat, 17 Oct 2026.
 
 Vis. is an electro and techno artist based in Italy, with 6 gigs on soundcheck across Milan. Often billed alongside Buza, Virgo and Audio Alchemy. Next up: Malaga Sin City, Milan on Sat 17 Oct.
 
@@ -22,4 +22,4 @@ Vis. is an electro and techno artist based in Italy, with 6 gigs on soundcheck a
 
 Buza, Virgo (3), Audio Alchemy
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vis./)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vis./)*

@@ -1,6 +1,6 @@
 # MXV (1)
 
-MXV (1) is a Techno and R&B artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at De Fik Garden, Amsterdam on Sat, 24 Oct 2026.
+MXV (1) is a Techno and R&B artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at De Fik Garden, Amsterdam on Sat, 24 Oct 2026.
 
 MXV is a techno and r&b artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside ANNĒ, AYIM and Andy Garvey. Next up: De Fik Garden, Amsterdam on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ MXV is a techno and r&b artist based in Netherlands, with 6 gigs on soundcheck a
 
 ANNĒ, AYIM, Andy Garvey
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mxv-1/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mxv-1/)*

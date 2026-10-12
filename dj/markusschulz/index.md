@@ -1,6 +1,6 @@
 # Markus Schulz
 
-Markus Schulz is a Trance and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Stereo, Montreal on Sun, 11 Oct 2026.
+Markus Schulz is a Trance and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Stereo, Montreal on Sun, 11 Oct 2026.
 
 Markus Schulz is a trance and progressive house artist based in United States of America, with 72 gigs on soundcheck across Amsterdam, Austin, Bangkok and Bristol and 28 more. Often billed alongside Amy Wiles, Ferry Corsten and Billy Gillies. Next up: Stereo, Montreal on Sun 11 Oct.
 
@@ -16,6 +16,7 @@ Markus Schulz is a trance and progressive house artist based in United States of
 
 ## Recently played
 
+- Stereo, Montreal · Sun, 11 Oct 2026
 - Óbuda Bay, Budapest · Sat, 10 Oct 2026
 - Eden, Ibiza · Fri, 25 Sept 2026
 - Eden, Ibiza · Thu, 17 Sept 2026
@@ -23,10 +24,9 @@ Markus Schulz is a trance and progressive house artist based in United States of
 - Lion Super Club, Seoul · Sat, 5 Sept 2026
 - Eden, Ibiza · Thu, 3 Sept 2026
 - Eden, Ibiza · Thu, 27 Aug 2026
-- Document, Bristol · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Amy Wiles, Ferry Corsten, Billy Gillies
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markusschulz/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markusschulz/)*

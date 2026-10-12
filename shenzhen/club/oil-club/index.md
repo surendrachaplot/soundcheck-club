@@ -1,14 +1,13 @@
 # OIL Club
 
-OIL Club is a music venue in Shenzhen with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "SYNTONY Vol.4" on Sun, 11 Oct 2026.
+OIL Club is a music venue in Shenzhen with 12 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "交流方式北京模块节2026预热派对" on Thu, 15 Oct 2026.
 
-OIL Club is a music venue in Shenzhen listed on soundcheck. 13 upcoming gigs, with line-ups including Alion, Beibeilon, DJ 86 and Evian Christ and 2 more. See dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
+OIL Club is a music venue in Shenzhen listed on soundcheck. 12 upcoming gigs, with line-ups including Alion, Beibeilon, DJ 86 and Evian Christ and 2 more. See dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | SYNTONY Vol.4 |  |
 | Thu, 15 Oct 2026 | 交流方式北京模块节2026预热派对 | SPEKT2, SPOTLITE |
 | Fri, 16 Oct 2026 | 晚酒朝舞：Partok | Partok, Sirens, Sulk |
 | Sat, 17 Oct 2026 | OIL Pres. Evian Christ | DJ 86, Evian Christ, zzm (2) |
@@ -18,9 +17,10 @@ OIL Club is a music venue in Shenzhen listed on soundcheck. 13 upcoming gigs, wi
 | Sat, 24 Oct 2026 | 殺氣疼疼: MAX DURANTE | Alion, Fatalis, Jascer, MAX DURANTE |
 | Sun, 25 Oct 2026 | NEO ILLUSION三周年呈现：Shen Long+DODO |  |
 | Fri, 30 Oct 2026 | Race to Ruin: OLHA | NK100, OLHA, Warmchainss |
+| Sat, 31 Oct 2026 | TURMOIL: LCN fka. LCY | Beibeilon, Funkie, zzm (2) |
 
 ## Address
 
 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen, Shenzhen
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*

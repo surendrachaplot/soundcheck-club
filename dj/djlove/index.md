@@ -1,14 +1,15 @@
 # DJ Love
 
-DJ Love is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Warehouse on Watts, Philadelphia on Sat, 24 Oct 2026.
+DJ Love is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Warehouse on Watts, Philadelphia on Sat, 24 Oct 2026.
 
-DJ Love is a club and techno artist based in United States of America, with 21 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Hong Kong and 7 more. Often billed alongside Aletha, Emerald and BLUMITSU. Next up: Warehouse on Watts, Philadelphia on Sat 24 Oct.
+DJ Love is a club and techno artist based in United States of America, with 22 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Hong Kong and 7 more. Often billed alongside Aletha, Emerald and BLUMITSU. Next up: Warehouse on Watts, Philadelphia on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Warehouse on Watts | Philadelphia |
+| Sat, 24 Oct 2026 | Umbria Arts | Philadelphia |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ Love is a club and techno artist based in United States of America, with 21 g
 
 Aletha, Emerald, BLUMITSU
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlove/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlove/)*

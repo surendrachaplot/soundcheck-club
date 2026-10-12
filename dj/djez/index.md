@@ -1,6 +1,6 @@
 # DJ EZ
 
-DJ EZ is a Garage and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Sub Club, Glasgow on Fri, 16 Oct 2026.
+DJ EZ is a Garage and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Sub Club, Glasgow on Fri, 16 Oct 2026.
 
 DJ EZ is a garage and house artist based in United Kingdom, with 109 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bangkok and 31 more. Often billed alongside Danny Howard, Sonny Fodera and Benny Rodrigues. Next up: Sub Club, Glasgow on Fri 16 Oct.
 
@@ -34,4 +34,4 @@ DJ EZ is a garage and house artist based in United Kingdom, with 109 gigs on sou
 
 Danny Howard, Sonny Fodera, Benny Rodrigues
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djez/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djez/)*

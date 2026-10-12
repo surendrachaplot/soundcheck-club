@@ -1,6 +1,6 @@
 # Jamie Rodigan
 
-Jamie Rodigan is a Dancehall and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Rolling Stock, London on Fri, 23 Oct 2026.
+Jamie Rodigan is a Dancehall and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Rolling Stock, London on Fri, 23 Oct 2026.
 
 Jamie Rodigan is a dancehall and jungle artist, with 31 gigs on soundcheck across Amsterdam, Bristol, Liverpool and London. Often billed alongside YNG CPTN, CPTN and Bryan Gee. Next up: Rolling Stock, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Jamie Rodigan is a dancehall and jungle artist, with 31 gigs on soundcheck acros
 
 YNG CPTN, CPTN, Bryan Gee
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamierodigan/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamierodigan/)*

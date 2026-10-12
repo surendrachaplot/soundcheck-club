@@ -1,14 +1,13 @@
 # Lechuga Zafiro
 
-Lechuga Zafiro is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Backsteinboot, Berlin on Sat, 10 Oct 2026.
+Lechuga Zafiro is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
-Lechuga Zafiro is a techno and experimental artist based in Uruguay, with 66 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Verraco, upsammy and Animistic Beliefs. Next up: Backsteinboot, Berlin on Sat 10 Oct.
+Lechuga Zafiro is a techno and experimental artist based in Uruguay, with 66 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Verraco, upsammy and Animistic Beliefs. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Backsteinboot | Berlin |
 | Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 | Thu, 18 Feb 2027 | Bozar | Brussels |
 
@@ -27,4 +26,4 @@ Lechuga Zafiro is a techno and experimental artist based in Uruguay, with 66 gig
 
 Verraco, upsammy, Animistic Beliefs
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lechugazafiro/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lechugazafiro/)*

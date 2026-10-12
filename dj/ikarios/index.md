@@ -1,6 +1,6 @@
 # IKARIOS
 
-IKARIOS is a House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at SASS Music Club, Vienna on Sat, 17 Oct 2026.
+IKARIOS is a House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at SASS Music Club, Vienna on Sat, 17 Oct 2026.
 
 IKARIOS is a house artist based in Austria, with 12 gigs on soundcheck across Austria, Munich and Vienna. Often billed alongside Anni Herzer, Klausson and LizN. Next up: SASS Music Club, Vienna on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ IKARIOS is a house artist based in Austria, with 12 gigs on soundcheck across Au
 
 Anni Herzer, Klausson, LizN
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ikarios/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ikarios/)*

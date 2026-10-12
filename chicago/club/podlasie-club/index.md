@@ -1,6 +1,6 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 11 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "SUBVERSIVE" on Thu, 15 Oct 2026.
+Podlasie Club is a music venue in Chicago with 11 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "SUBVERSIVE" on Thu, 15 Oct 2026.
 
 Podlasie Club is a music venue in Chicago listed on soundcheck. 11 upcoming gigs, with line-ups including Ariel Zetina, ASL Princess, avas and Beau Wanzer and 2 more. See dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
@@ -23,4 +23,4 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 11 upcoming gigs
 
 2918 N Central Park Ave, Avondale, Chicago, IL, 60618, Chicago
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*

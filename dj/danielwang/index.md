@@ -1,6 +1,6 @@
 # Daniel Wang
 
-Daniel Wang is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at OXI, Berlin on Fri, 11 Dec 2026.
+Daniel Wang is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at OXI, Berlin on Fri, 11 Dec 2026.
 
 Daniel Wang is a disco and house artist based in Germany, with 94 gigs on soundcheck across Athens, Barcelona, Belfast and Belgrade and 13 more. Often billed alongside ADAM MUNNINGS, AAguilAA and DJ Petite. Next up: OXI, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Daniel Wang is a disco and house artist based in Germany, with 94 gigs on soundc
 
 ADAM MUNNINGS, AAguilAA, DJ Petite
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielwang/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielwang/)*

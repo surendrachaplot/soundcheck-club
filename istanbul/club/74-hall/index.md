@@ -1,6 +1,6 @@
 # 74 Hall
 
-74 Hall is a music venue in Istanbul with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Cristobal Pesce - LIGHT DOMINION" on Fri, 6 Nov 2026.
+74 Hall is a music venue in Istanbul with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Cristobal Pesce - LIGHT DOMINION" on Fri, 6 Nov 2026.
 
 74 Hall is a music venue in Istanbul listed on soundcheck. 2 upcoming gigs, with line-ups including Alignment, Arda Yazkan, Cristobal Pesce and SlREN and 2 more. See dates, start times and who's playing. Zeytinlik Mah. Yakut Sok. No:7 (Eski 74 Sineması), 34140 Bakırköy/İstanbul.
 
@@ -15,4 +15,4 @@
 
 Zeytinlik Mah. Yakut Sok. No:7 (Eski 74 Sineması), 34140 Bakırköy/İstanbul, Istanbul
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/74-hall/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/74-hall/)*

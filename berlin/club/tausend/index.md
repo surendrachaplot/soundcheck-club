@@ -1,6 +1,6 @@
 # Tausend
 
-Tausend is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Tausend Live: Olla & The Groove Markers" on Wed, 14 Oct 2026.
+Tausend is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Tausend Live: Olla & The Groove Markers" on Wed, 14 Oct 2026.
 
 Tausend is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Bombata, Butterhands, Mambi Dexter and Sado Opera and 1 more. See dates, start times and who's playing. Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany.
 
@@ -18,4 +18,4 @@ Tausend is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with l
 
 Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany, Berlin
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tausend/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tausend/)*

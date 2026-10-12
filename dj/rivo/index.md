@@ -1,6 +1,6 @@
 # Rivo
 
-Rivo is a House and Afro House artist with 5 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Hotel Arena, Amsterdam on Wed, 21 Oct 2026.
+Rivo is a House and Afro House artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Hotel Arena, Amsterdam on Wed, 21 Oct 2026.
 
 Rivo is a house and afro house artist based in France, with 64 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 25 more. Often billed alongside Eric Prydz, Bender and Argy. Next up: Hotel Arena, Amsterdam on Wed 21 Oct.
 
@@ -29,4 +29,4 @@ Rivo is a house and afro house artist based in France, with 64 gigs on soundchec
 
 Eric Prydz, Bender, Argy
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivo/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivo/)*

@@ -1,6 +1,6 @@
 # David Gtronic
 
-David Gtronic is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+David Gtronic is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
 David Gtronic is a house and techno artist based in Colombia, with 40 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 12 more. Often billed alongside Gian-Paul, Sepp and Adam Cloud. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ David Gtronic is a house and techno artist based in Colombia, with 40 gigs on so
 
 Gian-Paul, Sepp, Adam Cloud
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidgtronic/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidgtronic/)*

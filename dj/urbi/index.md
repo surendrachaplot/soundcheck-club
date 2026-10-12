@@ -1,6 +1,6 @@
 # Urbi
 
-Urbi is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Duke Of Tokyo, Amsterdam on Thu, 22 Oct 2026.
+Urbi is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Duke Of Tokyo, Amsterdam on Thu, 22 Oct 2026.
 
 Urbi is a house and deep house artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Budapest, Glasgow and Leeds and 3 more. Often billed alongside Hayley Zalassi, SAVANNAHH and Levi Love. Next up: Duke Of Tokyo, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Urbi is a house and deep house artist based in United Kingdom, with 58 gigs on s
 
 Hayley Zalassi, SAVANNAHH, Levi Love
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/urbi/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/urbi/)*

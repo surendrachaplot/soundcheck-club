@@ -1,6 +1,6 @@
 # Natural Symphony (Live)
 
-Natural Symphony (Live) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Nxt Museum, Amsterdam on Thu, 22 Oct 2026.
+Natural Symphony (Live) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Nxt Museum, Amsterdam on Thu, 22 Oct 2026.
 
 Natural Symphony (Live) is a house and deep house artist, with 6 gigs on soundcheck across Amsterdam, Galway and London. Often billed alongside KT, Anna Wall and Ariane V. Next up: Nxt Museum, Amsterdam on Thu 22 Oct.
 
@@ -22,4 +22,4 @@ Natural Symphony (Live) is a house and deep house artist, with 6 gigs on soundch
 
 KT, Anna Wall, Ariane V
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naturalsymphonylive/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naturalsymphonylive/)*

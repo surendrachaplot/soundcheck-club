@@ -1,6 +1,6 @@
 # Foreverness
 
-Foreverness is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA - Málaga Forum, Malaga on Sat, 24 Oct 2026.
+Foreverness is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Málaga Forum, Malaga on Sat, 24 Oct 2026.
 
 Foreverness is an electronica and techno artist, with 6 gigs on soundcheck across Berlin and Malaga. Often billed alongside Miguel Payda, Adrian Roman and Adron_. Next up: TBA - Málaga Forum, Malaga on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Foreverness is an electronica and techno artist, with 6 gigs on soundcheck acros
 
 Miguel Payda, Adrian Roman, Adron_
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foreverness/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foreverness/)*

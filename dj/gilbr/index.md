@@ -1,6 +1,6 @@
 # Gilb'R
 
-Gilb'R is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Plantation Paris, Paris on Fri, 16 Oct 2026.
+Gilb'R is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Plantation Paris, Paris on Fri, 16 Oct 2026.
 
 Gilb'R is an electro and techno artist based in France, with 25 gigs on soundcheck across Barcelona, Belgrade, Berlin and Bristol and 3 more. Often billed alongside Zaltan, I:Cube and Alex From Tokyo. Next up: Plantation Paris, Paris on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Gilb'R is an electro and techno artist based in France, with 25 gigs on soundche
 
 Zaltan, I:Cube, Alex From Tokyo
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gilbr/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gilbr/)*

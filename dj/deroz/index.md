@@ -1,6 +1,6 @@
 # DEROZ
 
-DEROZ is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Veronica Schip, Amsterdam on Wed, 21 Oct 2026.
+DEROZ is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Veronica Schip, Amsterdam on Wed, 21 Oct 2026.
 
 DEROZ is a techno and acid artist based in Canada, with 2 gigs on soundcheck across Amsterdam and Montreal. Often billed alongside ArioVistus, ARMIX and Belocca. Next up: Veronica Schip, Amsterdam on Wed 21 Oct.
 
@@ -15,4 +15,4 @@ DEROZ is a techno and acid artist based in Canada, with 2 gigs on soundcheck acr
 
 ArioVistus, ARMIX, Belocca
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deroz/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deroz/)*

@@ -1,6 +1,6 @@
 # Ruman
 
-Ruman is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Cadavra, Madrid on Thu, 29 Oct 2026.
+Ruman is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Cadavra, Madrid on Thu, 29 Oct 2026.
 
 Ruman is a techno and ambient artist based in Spain, with 21 gigs on soundcheck across Berlin, Hamburg, Kyiv and Madrid and 1 more. Often billed alongside Katya Milch, Stanislav Tolkachev and Josef Kunz. Next up: Cadavra, Madrid on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Ruman is a techno and ambient artist based in Spain, with 21 gigs on soundcheck 
 
 Katya Milch, Stanislav Tolkachev, Josef Kunz
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruman/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruman/)*

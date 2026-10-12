@@ -1,6 +1,6 @@
 # Amigo
 
-Amigo is a music venue in Ghent with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Grid - Goodbye Edition" on Fri, 16 Oct 2026.
+Amigo is a music venue in Ghent with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Grid - Goodbye Edition" on Fri, 16 Oct 2026.
 
 Amigo is a music venue in Ghent listed on soundcheck. 8 upcoming gigs, with line-ups including Akilla, AliA, Arian Zand and Arter and 2 more. See dates, start times and who's playing. Stapelplein 31, 9000 Gent, Belgium.
 
@@ -21,4 +21,4 @@ Amigo is a music venue in Ghent listed on soundcheck. 8 upcoming gigs, with line
 
 Stapelplein 31, 9000 Gent, Belgium, Ghent
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/amigo/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/amigo/)*

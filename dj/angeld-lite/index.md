@@ -1,6 +1,6 @@
 # Angel D'lite
 
-Angel D'lite is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 17 Oct 2026.
+Angel D'lite is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 17 Oct 2026.
 
 Angel D'lite is a house and techno artist based in United Kingdom, with 244 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside dj sweet6teen, THC and FAFF. Next up: RSO.BERLIN, Berlin on Sat 17 Oct.
 
@@ -32,4 +32,4 @@ Angel D'lite is a house and techno artist based in United Kingdom, with 244 gigs
 
 dj sweet6teen, THC, FAFF
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angeld-lite/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angeld-lite/)*

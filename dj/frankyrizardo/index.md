@@ -1,6 +1,6 @@
 # Franky Rizardo
 
-Franky Rizardo is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Franky Rizardo is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Franky Rizardo is a house and tech house artist based in Netherlands, with 250 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 50 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -36,4 +36,4 @@ Franky Rizardo is a house and tech house artist based in Netherlands, with 250 g
 
 Marco Carola, East End Dubs, Mason Collective
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*

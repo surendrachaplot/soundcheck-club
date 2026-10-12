@@ -1,6 +1,6 @@
 # THALEIA
 
-THALEIA is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Samis Bar, Athens on Sat, 17 Oct 2026.
+THALEIA is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Samis Bar, Athens on Sat, 17 Oct 2026.
 
 THALEIA is a club and electro artist based in Greece, with 5 gigs on soundcheck across Athens and Vienna. Often billed alongside Porschelane, TERPSICHORREE and BABYNYMPH777. Next up: Samis Bar, Athens on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ THALEIA is a club and electro artist based in Greece, with 5 gigs on soundcheck 
 
 Porschelane, TERPSICHORREE, BABYNYMPH777
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thaleia/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thaleia/)*

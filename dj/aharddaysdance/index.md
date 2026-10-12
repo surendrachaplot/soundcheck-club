@@ -1,6 +1,6 @@
 # A Hard Day's Dance
 
-A Hard Day's Dance is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Arch 14, London on Fri, 30 Oct 2026.
+A Hard Day's Dance is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Arch 14, London on Fri, 30 Oct 2026.
 
 A Hard Day's Dance is a house and garage artist based in United Kingdom, with 14 gigs on soundcheck across London. Often billed alongside Brandon Benoit, Josh German and Sahil. Next up: Arch 14, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ A Hard Day's Dance is a house and garage artist based in United Kingdom, with 14
 
 Brandon Benoit, Josh German, Sahil
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aharddaysdance/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aharddaysdance/)*

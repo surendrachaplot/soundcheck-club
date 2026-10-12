@@ -1,14 +1,13 @@
 # FLUCC
 
-FLUCC is a music venue in Vienna with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Garten von Eben im Traumtempo VII" on Sun, 11 Oct 2026.
+FLUCC is a music venue in Vienna with 12 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Palazzo Night" on Thu, 15 Oct 2026.
 
-FLUCC is a music venue in Vienna listed on soundcheck. 13 upcoming gigs, with line-ups including Altroy Jerome, Amar Priganica, AMOVV and anxxxious_t and 2 more. See dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
+FLUCC is a music venue in Vienna listed on soundcheck. 12 upcoming gigs, with line-ups including Altroy Jerome, Amar Priganica, AMOVV and anxxxious_t and 2 more. See dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | Garten von Eben im Traumtempo VII | Nugi, Sansea |
 | Thu, 15 Oct 2026 | Palazzo Night |  |
 | Fri, 16 Oct 2026 | KISSEN | Authentically Plastic, Ethane, Shepperd, anxxxious_t, zey |
 | Sat, 17 Oct 2026 | A party called JACK | Altroy Jerome, JP Bechamel |
@@ -18,9 +17,10 @@ FLUCC is a music venue in Vienna listed on soundcheck. 13 upcoming gigs, with li
 | Sat, 24 Oct 2026 | Tohuwabohu - Technoid Edition | Purrdition |
 | Sun, 25 Oct 2026 | Skofi & Band 'HALT MICH FEST' Album Releaseshow |  |
 | Sun, 25 Oct 2026 | VVAX Vinyl Only Techno x Fabian Hofer | AMOVV, CPR0, Dcascallana, Fabian Hofer (2) |
+| Mon, 2 Nov 2026 | Augend&Addend presents: Joshua Chuquimia Crampton and Amar Priganica & Ina Ebenberger | Amar Priganica |
 
 ## Address
 
 Praterstern 5; Vienna 1020; Austria, Vienna
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*

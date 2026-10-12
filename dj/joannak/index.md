@@ -1,6 +1,6 @@
 # Joanna K
 
-Joanna K is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Goya Social Club, Madrid on Fri, 30 Oct 2026.
+Joanna K is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Goya Social Club, Madrid on Fri, 30 Oct 2026.
 
 Joanna K is a house and disco artist, with 33 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Guisco, Remsess and Guillaume Keller. Next up: Goya Social Club, Madrid on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Joanna K is a house and disco artist, with 33 gigs on soundcheck across Barcelon
 
 Guisco, Remsess, Guillaume Keller
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joannak/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joannak/)*

@@ -1,6 +1,6 @@
 # saeuer
 
-saeuer is a Techno and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at control, Bucharest on Fri, 16 Oct 2026.
+saeuer is a Techno and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at control, Bucharest on Fri, 16 Oct 2026.
 
 saeuer is a techno and italo disco artist, with 37 gigs on soundcheck across Berlin, Bucharest, Stockholm and Stuttgart and 4 more. Often billed alongside Freudenthal, Cyranotaurus Cortex and Emma Keks. Next up: control, Bucharest on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ saeuer is a techno and italo disco artist, with 37 gigs on soundcheck across Ber
 
 Freudenthal, Cyranotaurus Cortex, Emma Keks
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saeuer/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saeuer/)*

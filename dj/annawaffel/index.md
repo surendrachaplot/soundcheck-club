@@ -1,6 +1,6 @@
 # ANNAWAFFEL
 
-ANNAWAFFEL is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 31 Oct 2026.
+ANNAWAFFEL is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 31 Oct 2026.
 
 ANNAWAFFEL is a house and afro house artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside AHAB, Ailin Liefeldt and Captain Ahoi. Next up: Jonny Knüppel, Berlin on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ ANNAWAFFEL is a house and afro house artist based in Germany, with 5 gigs on sou
 
 AHAB, Ailin Liefeldt, Captain Ahoi
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annawaffel/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annawaffel/)*

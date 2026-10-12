@@ -1,6 +1,6 @@
 # The Art School
 
-The Art School is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "DUB CLUB: Simon Scott (EXODUS / SUBDUB / OUTLOOK) & Hometown Sound" on Thu, 15 Oct 2026.
+The Art School is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "DUB CLUB: Simon Scott (EXODUS / SUBDUB / OUTLOOK) & Hometown Sound" on Thu, 15 Oct 2026.
 
 The Art School is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs, with line-ups including ACHIRĀ, ALWAYS 8:15, Céleste and DART and 2 more. See dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
 
@@ -23,4 +23,4 @@ The Art School is a music venue in Glasgow listed on soundcheck. 13 upcoming gig
 
 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom, Glasgow
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*

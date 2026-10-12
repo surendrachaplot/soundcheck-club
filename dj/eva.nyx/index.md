@@ -1,6 +1,6 @@
 # Eva.nyx
 
-Eva.nyx is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Baalsaal, Hamburg on Fri, 16 Oct 2026.
+Eva.nyx is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Baalsaal, Hamburg on Fri, 16 Oct 2026.
 
 Eva.nyx is a techno and electro artist based in Germany, with 23 gigs on soundcheck across Hamburg. Often billed alongside VIĆERO, rodmor and Costa (FR). Next up: Baalsaal, Hamburg on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Eva.nyx is a techno and electro artist based in Germany, with 23 gigs on soundch
 
 VIĆERO, rodmor, Costa (FR)
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eva.nyx/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eva.nyx/)*

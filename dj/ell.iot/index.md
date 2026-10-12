@@ -1,6 +1,6 @@
 # ell.iot
 
-ell.iot is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Nico's Bar at Hackney Bridge, London on Fri, 23 Oct 2026.
+ell.iot is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Nico's Bar at Hackney Bridge, London on Fri, 23 Oct 2026.
 
 ell.iot is a house and electro artist based in United Kingdom, with 25 gigs on soundcheck across Cardiff, Dublin, Leeds and Liverpool and 6 more. Often billed alongside Dowd, DJ Peach Iced Tea and Quick William. Next up: Nico's Bar at Hackney Bridge, London on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ ell.iot is a house and electro artist based in United Kingdom, with 25 gigs on s
 
 Dowd, DJ Peach Iced Tea, Quick William
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ell.iot/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ell.iot/)*

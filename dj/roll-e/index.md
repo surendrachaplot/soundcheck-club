@@ -1,6 +1,6 @@
 # Roll-e
 
-Roll-e is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at The Ground at Club Space, Miami on Sat, 7 Nov 2026.
+Roll-e is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Ground at Club Space, Miami on Sat, 7 Nov 2026.
 
 Roll-e is a bass and house artist based in United States of America, with 50 gigs on soundcheck across Miami. Often billed alongside SATURNSARii, CHAOS! and Viva Vidal. Next up: The Ground at Club Space, Miami on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Roll-e is a bass and house artist based in United States of America, with 50 gig
 
 SATURNSARii, CHAOS!, Viva Vidal
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roll-e/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roll-e/)*

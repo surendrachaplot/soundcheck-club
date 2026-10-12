@@ -1,6 +1,6 @@
 # Lidvall
 
-Lidvall is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Fever, Bilbao on Sat, 17 Oct 2026.
+Lidvall is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Fever, Bilbao on Sat, 17 Oct 2026.
 
 Lidvall is a techno artist, with 8 gigs on soundcheck across Amsterdam, Bilbao, Buenos Aires and Madrid and 2 more. Often billed alongside Dexon, Bas Mooy and Bruno Ledesma. Next up: Fever, Bilbao on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ Lidvall is a techno artist, with 8 gigs on soundcheck across Amsterdam, Bilbao, 
 
 Dexon, Bas Mooy, Bruno Ledesma
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lidvall/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lidvall/)*

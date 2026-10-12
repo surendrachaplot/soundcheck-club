@@ -1,6 +1,6 @@
 # Eventhuset
 
-Eventhuset is a music venue in Stockholm with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "STRECK FROM GBG TAKE OVER at BRONX" on Sat, 17 Oct 2026.
+Eventhuset is a music venue in Stockholm with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "STRECK FROM GBG TAKE OVER at BRONX" on Sat, 17 Oct 2026.
 
 Eventhuset is a music venue in Stockholm listed on soundcheck. 9 upcoming gigs, with line-ups including Alexander Lind, ARANEA, Billie Jo and BMI (GE) and 2 more. See dates, start times and who's playing. Vretensborgsvägen 5, 12630 Hägersten.
 
@@ -22,4 +22,4 @@ Eventhuset is a music venue in Stockholm listed on soundcheck. 9 upcoming gigs, 
 
 Vretensborgsvägen 5, 12630 Hägersten, Stockholm
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/eventhuset/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/eventhuset/)*

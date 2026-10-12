@@ -1,6 +1,6 @@
 # Delta Sine
 
-Delta Sine is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at TBA, Toronto on Fri, 30 Oct 2026.
+Delta Sine is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA, Toronto on Fri, 30 Oct 2026.
 
 Delta Sine is a techno and acid artist, with 6 gigs on soundcheck across Detroit, Los Angeles, Mexico City and Montreal and 2 more. Often billed alongside 2HZY, 8ITR and Aleph. Next up: TBA, Toronto on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Delta Sine is a techno and acid artist, with 6 gigs on soundcheck across Detroit
 
 2HZY, 8ITR, Aleph
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deltasine/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deltasine/)*

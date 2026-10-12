@@ -1,6 +1,6 @@
 # Mike Banks
 
-Mike Banks is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
+Mike Banks is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
 
 Mike Banks is a techno and house artist based in United States of America, with 18 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 10 more. Often billed alongside Carl Craig, Moodymann and Charlotte de Witte. Next up: Verbier, Switzerland on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Mike Banks is a techno and house artist based in United States of America, with 
 
 Carl Craig, Moodymann, Charlotte de Witte
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikebanks/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikebanks/)*

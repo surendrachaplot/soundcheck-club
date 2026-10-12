@@ -1,6 +1,6 @@
 # Sacré
 
-Sacré is a music venue in Paris with 12 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "Sacré présente: Régalade 3 Years Birthday" on Fri, 16 Oct 2026.
+Sacré is a music venue in Paris with 12 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Sacré présente: Régalade 3 Years Birthday" on Fri, 16 Oct 2026.
 
 Sacré is a music venue in Paris listed on soundcheck. 12 upcoming gigs, with line-ups including Axelle Maga, Baccus, Bubs and Butch and 2 more. See dates, start times and who's playing. 142 rue montmartre 75002 Paris.
 
@@ -23,4 +23,4 @@ Sacré is a music venue in Paris listed on soundcheck. 12 upcoming gigs, with li
 
 142 rue montmartre 75002 Paris, Paris
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*

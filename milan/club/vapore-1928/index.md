@@ -1,6 +1,6 @@
 # Vapore 1928
 
-Vapore 1928 is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "CLUBBER: NOT SO LATE! Vapore 1928" on Fri, 23 Oct 2026.
+Vapore 1928 is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "CLUBBER: NOT SO LATE! Vapore 1928" on Fri, 23 Oct 2026.
 
 Vapore 1928 is a music venue in Milan listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Vapore 1928 is a music venue in Milan listed on soundcheck. 1 upcoming gig. See 
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | CLUBBER: NOT SO LATE! Vapore 1928 |  |
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/vapore-1928/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/vapore-1928/)*

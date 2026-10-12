@@ -1,6 +1,6 @@
 # Match Hoffman
 
-Match Hoffman is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Vault Club, East on Sat, 24 Oct 2026.
+Match Hoffman is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Vault Club, East on Sat, 24 Oct 2026.
 
 Match Hoffman is a techno and tech house artist based in Germany, with 45 gigs on soundcheck across Berlin, East and Milan. Often billed alongside DJ Jordan, Rick.O and BOHO. Next up: Vault Club, East on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Match Hoffman is a techno and tech house artist based in Germany, with 45 gigs o
 
 DJ Jordan, Rick.O, BOHO
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matchhoffman/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matchhoffman/)*

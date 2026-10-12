@@ -1,6 +1,6 @@
 # DJ Vadim
 
-DJ Vadim is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Gozo Listening Bar, Budapest on Wed, 14 Oct 2026.
+DJ Vadim is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Gozo Listening Bar, Budapest on Wed, 14 Oct 2026.
 
 DJ Vadim is a hip-hop and bass artist based in Russia, with 12 gigs on soundcheck across Auckland, Bangkok, Berlin and Budapest and 5 more. Often billed alongside Big Red, Chris Munky and Congo Natty. Next up: Gozo Listening Bar, Budapest on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ DJ Vadim is a hip-hop and bass artist based in Russia, with 12 gigs on soundchec
 
 Big Red, Chris Munky, Congo Natty
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djvadim/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djvadim/)*

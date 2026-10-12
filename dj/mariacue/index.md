@@ -1,6 +1,6 @@
 # Maria Cue
 
-Maria Cue is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Café Katoen, Amsterdam on Wed, 21 Oct 2026.
+Maria Cue is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Café Katoen, Amsterdam on Wed, 21 Oct 2026.
 
 Maria Cue is a techno and house artist based in Netherlands, with 34 gigs on soundcheck across Amsterdam, Barcelona, Lisbon and Madrid and 2 more. Often billed alongside Valody, BIANKA and Serti. Next up: Café Katoen, Amsterdam on Wed 21 Oct.
 
@@ -28,4 +28,4 @@ Maria Cue is a techno and house artist based in Netherlands, with 34 gigs on sou
 
 Valody, BIANKA, Serti
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariacue/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariacue/)*

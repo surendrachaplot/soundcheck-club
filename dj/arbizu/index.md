@@ -1,6 +1,6 @@
 # Arbizu
 
-Arbizu is a Electro and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Hangar48 Club, Madrid on Fri, 30 Oct 2026.
+Arbizu is a Electro and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Hangar48 Club, Madrid on Fri, 30 Oct 2026.
 
 Arbizu is an electro and disco artist, with 4 gigs on soundcheck across Berlin, Madrid and Valencia. Often billed alongside Dj badtrip, Domingo Dark Vinyl and F.E.R.. Next up: Hangar48 Club, Madrid on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ Arbizu is an electro and disco artist, with 4 gigs on soundcheck across Berlin, 
 
 Dj badtrip, Domingo Dark Vinyl, F.E.R.
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arbizu/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arbizu/)*

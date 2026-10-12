@@ -1,6 +1,6 @@
 # Ser Silvestre
 
-Ser Silvestre is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Ipse, Berlin on Sat, 17 Oct 2026.
+Ser Silvestre is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Ipse, Berlin on Sat, 17 Oct 2026.
 
 Ser Silvestre is a breakbeat and house artist, with 5 gigs on soundcheck across Berlin. Often billed alongside Bee Lincoln, Felino Only and Glitz. Next up: Ipse, Berlin on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ Ser Silvestre is a breakbeat and house artist, with 5 gigs on soundcheck across 
 
 Bee Lincoln, Felino Only, Glitz
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sersilvestre/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sersilvestre/)*

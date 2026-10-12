@@ -1,6 +1,6 @@
 # Alessia Ceruti
 
-Alessia Ceruti is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Kater, Berlin on Sat, 17 Oct 2026.
+Alessia Ceruti is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Kater, Berlin on Sat, 17 Oct 2026.
 
 Alessia Ceruti is a house and techno artist based in Italy, with 47 gigs on soundcheck across Barcelona, Berlin, Brussels and Düsseldorf and 3 more. Often billed alongside Dana Ruh, L&F and Anthea. Next up: Kater, Berlin on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Alessia Ceruti is a house and techno artist based in Italy, with 47 gigs on soun
 
 Dana Ruh, L&F, Anthea
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiaceruti/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiaceruti/)*

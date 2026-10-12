@@ -1,14 +1,13 @@
 # Quivver
 
-Quivver is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at UNO MALTA, Malta on Thu, 8 Oct 2026.
+Quivver is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Cause, London on Sat, 12 Dec 2026.
 
-Quivver is a progressive house and house artist, with 30 gigs on soundcheck across Amsterdam, Bali, Barcelona and Boston and 13 more. Often billed alongside Dave Seaman, Steve Parry and Cris-H. Next up: UNO MALTA, Malta on Thu 8 Oct.
+Quivver is a progressive house and house artist, with 30 gigs on soundcheck across Amsterdam, Bali, Barcelona and Boston and 13 more. Often billed alongside Dave Seaman, Steve Parry and Cris-H. Next up: The Cause, London on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 8 Oct 2026 | UNO MALTA | Malta |
 | Sat, 12 Dec 2026 | The Cause | London |
 
 ## Recently played
@@ -26,4 +25,4 @@ Quivver is a progressive house and house artist, with 30 gigs on soundcheck acro
 
 Dave Seaman, Steve Parry, Cris-H
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quivver/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quivver/)*

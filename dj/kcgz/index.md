@@ -1,6 +1,6 @@
 # KCGZ
 
-KCGZ is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Istina Mašina, Serbia on Sat, 31 Oct 2026.
+KCGZ is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Istina Mašina, Serbia on Sat, 31 Oct 2026.
 
 KCGZ is a techno and hardcore artist based in Turkey, with 7 gigs on soundcheck across Amsterdam, Ankara, Istanbul and Osaka and 1 more. Often billed alongside Redein, Yagi(1) and Afem Syko. Next up: Istina Mašina, Serbia on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ KCGZ is a techno and hardcore artist based in Turkey, with 7 gigs on soundcheck 
 
 Redein, Yagi(1), Afem Syko
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kcgz/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kcgz/)*

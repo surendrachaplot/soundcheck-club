@@ -1,6 +1,6 @@
 # Coco Bar Vienna
 
-Coco Bar Vienna is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. The next is "re_late w/ Subletvis, Theodora, Lucia Kagramanyan" on Thu, 15 Oct 2026.
+Coco Bar Vienna is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "re_late w/ Subletvis, Theodora, Lucia Kagramanyan" on Thu, 15 Oct 2026.
 
 Coco Bar Vienna is a music venue in Vienna listed on soundcheck. 1 upcoming gig, with line-ups including Lucia Kagramanyan and Theodora. See dates, start times and who's playing. Lerchenfelder Guertel Stadtbahnbogen 34-35.
 
@@ -14,4 +14,4 @@ Coco Bar Vienna is a music venue in Vienna listed on soundcheck. 1 upcoming gig,
 
 Lerchenfelder Guertel Stadtbahnbogen 34-35, Vienna
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/coco-bar-vienna/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/coco-bar-vienna/)*

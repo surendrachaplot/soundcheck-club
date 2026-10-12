@@ -1,15 +1,13 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "DefDistortion #121 -THE LEGENDS COME HOME-" on Sun, 11 Oct 2026.
+R Lounge is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Belated" on Tue, 13 Oct 2026.
 
-R Lounge is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with line-ups including 雷庵(RYan), AEMI, AKIRAM EN and ALKA and 2 more. See dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
+R Lounge is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with line-ups including 雷庵(RYan), AEMI, AKIRAM EN and ALKA and 2 more. See dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | DefDistortion #121 -THE LEGENDS COME HOME- | Relect |
-| Sun, 11 Oct 2026 | UNCHARTED TIME | Mayuri, Shintarø Kanie, junkie babe |
 | Tue, 13 Oct 2026 | Belated | Relect |
 | Thu, 15 Oct 2026 | AXIS -新参者- | ATAMI, Hiro (JP) |
 | Fri, 16 Oct 2026 | Liminal Hour | tech-nas |
@@ -18,9 +16,11 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with 
 | Fri, 23 Oct 2026 | BASS DROP | ASSIGN |
 | Sat, 24 Oct 2026 | PSY LIFE | PONTA |
 | Sun, 25 Oct 2026 | UMB 2026 東京予選 |  |
+| Thu, 29 Oct 2026 | H.O.F | Naoki Ikawa, roomquake |
+| Mon, 2 Nov 2026 | FEEDER feat. PARTY | ALKA, Nobuharu Morimoto, Shogo Ito, tech-nas |
 
 ## Address
 
 Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN, Tokyo
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*

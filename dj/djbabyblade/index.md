@@ -1,6 +1,6 @@
 # DJ Babyblade
 
-DJ Babyblade is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Café Schöne Aussichten (CSA), Hamburg on Sun, 25 Oct 2026.
+DJ Babyblade is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Café Schöne Aussichten (CSA), Hamburg on Sun, 25 Oct 2026.
 
 DJ Babyblade is a techno and house artist based in Germany, with 118 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Munich and 1 more. Often billed alongside EliaHaze, DJ SOURCE and Anton Jonathan. Next up: Café Schöne Aussichten (CSA), Hamburg on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ DJ Babyblade is a techno and house artist based in Germany, with 118 gigs on sou
 
 EliaHaze, DJ SOURCE, Anton Jonathan
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbabyblade/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbabyblade/)*

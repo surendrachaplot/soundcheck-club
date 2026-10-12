@@ -1,6 +1,6 @@
 # R Gamble
 
-R Gamble is a EBM and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at public records, New York City on Fri, 27 Nov 2026.
+R Gamble is a EBM and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at public records, New York City on Fri, 27 Nov 2026.
 
 R Gamble is an ebm and electro artist based in United States of America, with 16 gigs on soundcheck across New York City and Toronto. Often billed alongside Heidi Sabertooth, L.Sangre and Andi. Next up: public records, New York City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ R Gamble is an ebm and electro artist based in United States of America, with 16
 
 Heidi Sabertooth, L.Sangre, Andi
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rgamble/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rgamble/)*

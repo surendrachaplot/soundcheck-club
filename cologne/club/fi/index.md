@@ -1,6 +1,6 @@
 # fi
 
-fi is a music venue in Cologne with 13 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. The next is "fi x The Hacker & Hoove" on Fri, 16 Oct 2026.
+fi is a music venue in Cologne with 13 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "fi x The Hacker & Hoove" on Fri, 16 Oct 2026.
 
 fi is a music venue in Cologne listed on soundcheck. 13 upcoming gigs, with line-ups including Alfalfa, Bonjour Ben, Bonnie Spacey and c00lm8 and 2 more. See dates, start times and who's playing. Widdersdorfer Straße 246, 50825 Köln, Deutschland.
 
@@ -23,4 +23,4 @@ fi is a music venue in Cologne listed on soundcheck. 13 upcoming gigs, with line
 
 Widdersdorfer Straße 246, 50825 Köln, Deutschland, Cologne
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*

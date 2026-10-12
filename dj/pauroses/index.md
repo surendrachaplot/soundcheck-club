@@ -1,6 +1,6 @@
 # Pau Rosés
 
-Pau Rosés is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Switch Bar, Barcelona on Fri, 16 Oct 2026.
+Pau Rosés is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Switch Bar, Barcelona on Fri, 16 Oct 2026.
 
 Pau Rosés is a house and techno artist based in Spain, with 141 gigs on soundcheck across Barcelona, Ibiza, London and Madrid and 2 more. Often billed alongside Adria (ES), Swann and Vince Void. Next up: Switch Bar, Barcelona on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Pau Rosés is a house and techno artist based in Spain, with 141 gigs on soundch
 
 Adria (ES), Swann, Vince Void
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pauroses/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pauroses/)*

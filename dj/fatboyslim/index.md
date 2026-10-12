@@ -1,6 +1,6 @@
 # Fatboy Slim
 
-Fatboy Slim is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Mia Mao, Paris on Thu, 22 Oct 2026.
+Fatboy Slim is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Mia Mao, Paris on Thu, 22 Oct 2026.
 
 Fatboy Slim is a house and tech house artist based in United Kingdom, with 106 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 45 more. Often billed alongside Sarah Story, Jayda G and Tini Gessler. Next up: Mia Mao, Paris on Thu 22 Oct.
 
@@ -33,4 +33,4 @@ Fatboy Slim is a house and tech house artist based in United Kingdom, with 106 g
 
 Sarah Story, Jayda G, Tini Gessler
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fatboyslim/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fatboyslim/)*

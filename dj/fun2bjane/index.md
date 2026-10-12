@@ -1,6 +1,6 @@
 # fun2bjane
 
-fun2bjane is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Better Tomorrow, Los-angeles on Thu, 15 Oct 2026.
+fun2bjane is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Better Tomorrow, Los-angeles on Thu, 15 Oct 2026.
 
 fun2bjane is a techno and house artist based in United States of America, with 37 gigs on soundcheck across Los Angeles, New York City and San Diego. Often billed alongside Capes, Etari and mad gavs. Next up: Better Tomorrow, Los Angeles on Thu 15 Oct.
 
@@ -27,4 +27,4 @@ fun2bjane is a techno and house artist based in United States of America, with 3
 
 Capes, Etari, mad gavs
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fun2bjane/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fun2bjane/)*

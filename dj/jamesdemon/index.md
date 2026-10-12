@@ -1,6 +1,6 @@
 # James Demon
 
-James Demon is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Giri, Berlin on Wed, 28 Oct 2026.
+James Demon is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Giri, Berlin on Wed, 28 Oct 2026.
 
 James Demon is a techno and industrial artist, with 10 gigs on soundcheck across Berlin, New York City and San Francisco/Oakland. Often billed alongside Esther Dune, Juan Ramos and Olin. Next up: Giri, Berlin on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ James Demon is a techno and industrial artist, with 10 gigs on soundcheck across
 
 Esther Dune, Juan Ramos, Olin
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesdemon/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesdemon/)*

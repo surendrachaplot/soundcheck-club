@@ -1,6 +1,6 @@
 # Dari¥a
 
-Dari¥a is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 31 Oct 2026.
+Dari¥a is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 31 Oct 2026.
 
 Dari¥a is a techno and house artist, with 4 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside a51d_with_f, Gostoso and Christoph Cham. Next up: Toekomstmuziek, Amsterdam on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Dari¥a is a techno and house artist, with 4 gigs on soundcheck across Amsterdam
 
 a51d_with_f, Gostoso, Christoph Cham
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dari¥a/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dari¥a/)*

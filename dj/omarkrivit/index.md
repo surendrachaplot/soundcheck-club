@@ -1,6 +1,6 @@
 # Omar Krivit
 
-Omar Krivit is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Barbossa, Montreal on Fri, 30 Oct 2026.
+Omar Krivit is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Barbossa, Montreal on Fri, 30 Oct 2026.
 
 Omar Krivit is a house and garage artist, with 6 gigs on soundcheck across Montreal. Often billed alongside Doc'trin, Emil Paquin and Laurence Nadeau. Next up: Barbossa, Montreal on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Omar Krivit is a house and garage artist, with 6 gigs on soundcheck across Montr
 
 Doc'trin, Emil Paquin, Laurence Nadeau
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omarkrivit/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omarkrivit/)*

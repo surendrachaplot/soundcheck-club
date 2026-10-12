@@ -1,6 +1,6 @@
 # Andrey Pushkarev
 
-Andrey Pushkarev is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Terraza Music Park, Brazil on Sat, 17 Oct 2026.
+Andrey Pushkarev is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Terraza Music Park, Brazil on Sat, 17 Oct 2026.
 
 Andrey Pushkarev is a house and minimal artist, with 91 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 34 more. Often billed alongside Lola Palmer, Eli Verveine and Mihai Popoviciu. Next up: Terraza Music Park, Brazil on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Andrey Pushkarev is a house and minimal artist, with 91 gigs on soundcheck acros
 
 Lola Palmer, Eli Verveine, Mihai Popoviciu
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreypushkarev/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreypushkarev/)*

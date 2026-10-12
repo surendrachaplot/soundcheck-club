@@ -1,6 +1,6 @@
 # Malke
 
-Malke is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Complejo Embrujo, South on Sat, 31 Oct 2026.
+Malke is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Complejo Embrujo, South on Sat, 31 Oct 2026.
 
 Malke is a techno and hardcore artist based in Brazil, with 16 gigs on soundcheck across Barcelona, Buenos Aires, Cologne and Los Angeles and 7 more. Often billed alongside Lenny Dee, Rebekah and CESAR ALMENA. Next up: Complejo Embrujo, South on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Malke is a techno and hardcore artist based in Brazil, with 16 gigs on soundchec
 
 Lenny Dee, Rebekah, CESAR ALMENA
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malke/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malke/)*

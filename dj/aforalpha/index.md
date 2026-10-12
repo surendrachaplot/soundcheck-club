@@ -1,6 +1,6 @@
 # A For Alpha
 
-A For Alpha is a House and Garage artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Skatecafe, Amsterdam on Thu, 22 Oct 2026.
+A For Alpha is a House and Garage artist with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Skatecafe, Amsterdam on Thu, 22 Oct 2026.
 
 A For Alpha is a house and garage artist based in United Kingdom, with 127 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 16 more. Often billed alongside Papa Nugs, Dr Dubplate and Ellie Stokes. Next up: Skatecafe, Amsterdam on Thu 22 Oct.
 
@@ -33,4 +33,4 @@ A For Alpha is a house and garage artist based in United Kingdom, with 127 gigs 
 
 Papa Nugs, Dr Dubplate, Ellie Stokes
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aforalpha/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aforalpha/)*

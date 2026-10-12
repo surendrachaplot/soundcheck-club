@@ -1,6 +1,6 @@
 # Schwarzmalerei
 
-Schwarzmalerei is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 11 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 25 Nov 2026.
+Schwarzmalerei is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 25 Nov 2026.
 
 Schwarzmalerei is an ambient and electronica artist based in Germany, with 6 gigs on soundcheck across Berlin and Prague. Often billed alongside Romi, Stereo and Alejandro Mosso. Next up: Tresor / Globus, Berlin on Wed 25 Nov.
 
@@ -22,4 +22,4 @@ Schwarzmalerei is an ambient and electronica artist based in Germany, with 6 gig
 
 Romi, Stereo (2), Alejandro Mosso
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schwarzmalerei/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schwarzmalerei/)*

@@ -1,14 +1,13 @@
 # Fred P
 
-Fred P is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at Nowadays, New York City on Sat, 10 Oct 2026.
+Fred P is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 16 Oct 2026.
 
-Fred P is a house and techno artist based in United States of America, with 92 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside DJ Nobu, DJ Dustin and Lakuti. Next up: Nowadays, New York City on Sat 10 Oct.
+Fred P is a house and techno artist based in United States of America, with 92 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside DJ Nobu, DJ Dustin and Lakuti. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Nowadays | New York City |
 | Fri, 16 Oct 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
 
 ## Recently played
@@ -26,4 +25,4 @@ Fred P is a house and techno artist based in United States of America, with 92 g
 
 DJ Nobu, DJ Dustin, Lakuti
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fredp/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fredp/)*

@@ -1,6 +1,6 @@
 # Massimiliano Pagliara
 
-Massimiliano Pagliara is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 11 Oct 2026. Next at New Century Locker, Manchester on Fri, 16 Oct 2026.
+Massimiliano Pagliara is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at New Century Locker, Manchester on Fri, 16 Oct 2026.
 
 Massimiliano Pagliara is a house and techno artist based in Italy, with 251 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: New Century Locker, Manchester on Fri 16 Oct.
 
@@ -33,4 +33,4 @@ Massimiliano Pagliara is a house and techno artist based in Italy, with 251 gigs
 
 Jorkes, Boris, Luigi Di Venere
 
-*Updated Sun, 11 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*
+*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*
