@@ -1,8 +1,8 @@
 # Cabaret Voltaire
 
-Cabaret Voltaire is a music venue in Edinburgh with 11 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "FLY - Cam Stockman - Edinburgh" on Fri, 16 Oct 2026.
+Cabaret Voltaire is a music venue in Edinburgh with 12 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "FLY - Cam Stockman - Edinburgh" on Fri, 16 Oct 2026.
 
-Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 11 upcoming gigs, with line-ups including Bakey, Becca Egan, Cam Stockman and Casi (UK) and 2 more. See dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
+Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 12 upcoming gigs, with line-ups including Bakey, Becca Egan, Cam Stockman and Casi (UK) and 2 more. See dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
 
 ## What's on
 
@@ -13,14 +13,14 @@ Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 11 upcoming
 | Fri, 23 Oct 2026 | FLY - Beave - Edinburgh |  |
 | Sat, 24 Oct 2026 | NCTRN: Club Nocturne presents Dukwa | Dukwa |
 | Fri, 30 Oct 2026 | FLY - Tommy Phillips - Edinburgh | Tommy Phillips |
+| Thu, 5 Nov 2026 | Annex: Afterglow |  |
 | Fri, 6 Nov 2026 | FLY x Black Flag / Bakey & Dr Dubplate | Bakey, Becca Egan, Casi (UK), Dr Dubplate |
 | Fri, 13 Nov 2026 | Dreams 21+ - wAFF + more | wAFF |
 | Fri, 27 Nov 2026 | FLY - Denis Sulta - Edinburgh | Denis Sulta |
 | Sat, 5 Dec 2026 | All My Friends Day Disco |  |
-| Fri, 11 Dec 2026 | FLY House Heads with Kitty Hall | Kitty Hall |
 
 ## Address
 
 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom, Edinburgh
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*

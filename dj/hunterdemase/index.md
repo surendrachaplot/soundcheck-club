@@ -1,6 +1,6 @@
 # Hunter Demase
 
-Hunter Demase is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 18 Oct 2026.
+Hunter Demase is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 18 Oct 2026.
 
 Hunter Demase is a house and techno artist based in Australia, with 2 gigs on soundcheck across Amsterdam and London. Often billed alongside Becking, Drabes and George Wight. Next up: Starlane Pizza Bar, London on Sun 18 Oct.
 
@@ -15,4 +15,4 @@ Hunter Demase is a house and techno artist based in Australia, with 2 gigs on so
 
 Becking, Drabes, George Wight
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hunterdemase/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hunterdemase/)*

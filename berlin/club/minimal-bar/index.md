@@ -1,6 +1,6 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 87 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "manic.monday mit VALENCE " on Mon, 12 Oct 2026.
+Minimal Bar is a music venue in Berlin with 87 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "go.play mit Pablo Cornejo (Chile)" on Tue, 13 Oct 2026.
 
 Minimal Bar is a music venue in Berlin listed on soundcheck. 87 upcoming gigs, with line-ups including Beshy, Bruno Bleckmann, Clarence and Danilo Schneider and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
@@ -8,7 +8,6 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 87 upcoming gigs, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 12 Oct 2026 | manic.monday mit VALENCE  | VALENCE |
 | Tue, 13 Oct 2026 | go.play mit Pablo Cornejo (Chile) | Pablo Cornejo |
 | Wed, 14 Oct 2026 | mittendrin mit Beshy | Beshy |
 | Thu, 15 Oct 2026 | electronic.thursday mit Pyrame | Pyrame |
@@ -18,9 +17,10 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 87 upcoming gigs, w
 | Sun, 18 Oct 2026 | Lazy.Sunday with sciarada & freunde | Sciarada |
 | Mon, 19 Oct 2026 | Manic.Monday with Fineberg |  |
 | Tue, 20 Oct 2026 | Go.Play with Flip Marlou |  |
+| Wed, 21 Oct 2026 | Mittendrin with Deacon Frost Jr. & Freunde |  |
 
 ## Address
 
 Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*

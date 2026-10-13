@@ -1,6 +1,6 @@
 # CORDOVA 10 AÑOS BIRTHDAY PARTY at Paral•lel 62
 
-CORDOVA 10 AÑOS BIRTHDAY PARTY at Paral•lel 62 on Fri 16 Oct, Barcelona. 8 artists: Baba Sy, FKS, Julietta Ferrari and Mango and 4 more. See the line-up on soundcheck.
+CORDOVA 10 AÑOS BIRTHDAY PARTY at Paral•lel 62 on Fri 16 Oct, Barcelona. 8 artists: Baba Sy, fks, Julietta Ferrari and Mango and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ CORDOVA 10 AÑOS BIRTHDAY PARTY at Paral•lel 62 on Fri 16 Oct, Barcelona. 8 ar
 ## Line-up
 
 - Baba Sy
-- FKS (1)
+- fks
 - Julietta Ferrari
 - Mango
 - MBODJ

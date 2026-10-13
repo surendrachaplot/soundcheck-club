@@ -1,6 +1,6 @@
 # Hades PRX
 
-Hades PRX is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Kiosk del Rec, Barcelona on Sat, 7 Nov 2026.
+Hades PRX is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Kiosk del Rec, Barcelona on Sat, 7 Nov 2026.
 
 Hades PRX is a techno and electro artist based in Spain, with 25 gigs on soundcheck across Barcelona, Krakow, Madrid and Valencia. Often billed alongside Ikari, Sylvia (ES) and Hector MAD. Next up: TBA - Kiosk del Rec, Barcelona on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Hades PRX is a techno and electro artist based in Spain, with 25 gigs on soundch
 
 Ikari, Sylvia (ES), Hector MAD
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hadesprx/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hadesprx/)*

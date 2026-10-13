@@ -1,14 +1,15 @@
 # Victor (DE)
 
-Victor (DE) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
+Victor (DE) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
 
-Victor (DE) is a techno and house artist based in Germany, with 88 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Fadi Mohem, Yamour and Ogazón. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 17 Oct.
+Victor (DE) is a techno and house artist based in Germany, with 89 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Fadi Mohem, Yamour and Ogazón. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Thu, 22 Oct 2026 | San Francisco | Amsterdam |
 | Sun, 25 Oct 2026 | Radio Radio | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ Victor (DE) is a techno and house artist based in Germany, with 88 gigs on sound
 
 Fadi Mohem, Yamour, Ogazón
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victor-de/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victor-de/)*

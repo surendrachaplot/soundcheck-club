@@ -1,6 +1,6 @@
 # Ezrela
 
-Ezrela is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Joshua Brooks, Manchester on Fri, 6 Nov 2026.
+Ezrela is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Joshua Brooks, Manchester on Fri, 6 Nov 2026.
 
 Ezrela is a techno artist based in United Kingdom, with 5 gigs on soundcheck across Leeds, Liverpool and Manchester. Often billed alongside Vindya, colell and djcd. Next up: Joshua Brooks, Manchester on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ Ezrela is a techno artist based in United Kingdom, with 5 gigs on soundcheck acr
 
 Vindya, colell, djcd
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ezrela/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ezrela/)*

@@ -1,8 +1,8 @@
 # Avalon Cafe Bermondsey
 
-Avalon Cafe Bermondsey is a music venue in London with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Triskl Fundraiser for The Survivors Trust w/ Kate08, Cersy, batgirl & Caroune" on Fri, 23 Oct 2026.
+Avalon Cafe Bermondsey is a music venue in London with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Triskl Fundraiser for The Survivors Trust w/ Kate08, Cersy, batgirl & Caroune" on Fri, 23 Oct 2026.
 
-Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including B4mba, batgirl, Caroune and Cersy and 2 more. See dates, start times and who's playing. Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom.
+Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including B4mba, batgirl, BobbyG and Caroune and 2 more. See dates, start times and who's playing. Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom.
 
 ## What's on
 
@@ -12,10 +12,11 @@ Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 5 upcomi
 | Sat, 24 Oct 2026 | Late Night Essentials 4th Birthday | Isaac Frost, Kristina May, Neev. |
 | Sat, 31 Oct 2026 | Point of No Return | Rosy Ross |
 | Sat, 7 Nov 2026 | IMPULSE CONTROL: Nexus, Keepsakes, TRSSX + more | B4mba, CHEZA LUCINA, Keepsakes, Mooki6, New Flesh (2), TOOTHTAXI, TRSSX, Toni S |
+| Sat, 14 Nov 2026 | Kinetic Sounds Records x ThisWayUp in aid of 999 Club Charity | BobbyG, Sleepy Jean |
 | Fri, 27 Nov 2026 | How It Started 8: Extended Sessions - 100% Vinyl - Jungle/D&B/Hardcore | ETHICS, Hickey |
 
 ## Address
 
 Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom, London
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/avalon-cafe-bermondsey/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/avalon-cafe-bermondsey/)*

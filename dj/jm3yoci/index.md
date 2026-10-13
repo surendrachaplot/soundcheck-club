@@ -1,6 +1,6 @@
 # Jm3Yoci
 
-Jm3Yoci is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Royal Lounge, Tokyo on Sun, 25 Oct 2026.
+Jm3Yoci is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Royal Lounge, Tokyo on Sun, 25 Oct 2026.
 
 Jm3Yoci is a house and techno artist based in Japan, with 37 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), Gewnky and Alex Ormond. Next up: Royal Lounge, Tokyo on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Jm3Yoci is a house and techno artist based in Japan, with 37 gigs on soundcheck 
 
 SIGNAL (JP), Gewnky, Alex Ormond
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jm3yoci/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jm3yoci/)*

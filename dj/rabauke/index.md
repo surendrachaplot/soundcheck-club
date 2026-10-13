@@ -1,6 +1,6 @@
 # Rabauke
 
-Rabauke is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 6 Nov 2026.
+Rabauke is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 6 Nov 2026.
 
 Rabauke is a techno artist based in Germany, with 15 gigs on soundcheck across Berlin. Often billed alongside Confred, Marius Holm and Pajüh. Next up: Ritter Butzke, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Rabauke is a techno artist based in Germany, with 15 gigs on soundcheck across B
 
 Confred, Marius Holm, Pajüh
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rabauke/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rabauke/)*

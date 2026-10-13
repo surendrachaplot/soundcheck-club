@@ -1,6 +1,6 @@
 # CTRLZORA
 
-CTRLZORA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Salt Shed, Chicago on Sun, 18 Oct 2026.
+CTRLZORA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Salt Shed, Chicago on Sun, 18 Oct 2026.
 
 CTRLZORA is a house and techno artist based in United States of America, with 113 gigs on soundcheck across Chicago, Copenhagen, Detroit and Los Angeles and 7 more. Often billed alongside JADALAREIGN, BLESSTONIO and Cordell Johnson. Next up: The Salt Shed, Chicago on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ CTRLZORA is a house and techno artist based in United States of America, with 11
 
 JADALAREIGN, BLESSTONIO, Cordell Johnson
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ctrlzora/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ctrlzora/)*

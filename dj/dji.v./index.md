@@ -1,14 +1,15 @@
 # DJ I.V.
 
-DJ I.V. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Periodicals, Detroit on Thu, 15 Oct 2026.
+DJ I.V. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Periodicals, Detroit on Thu, 15 Oct 2026.
 
-DJ I.V. is a techno and house artist based in United States of America, with 49 gigs on soundcheck across Berlin, Chicago and Detroit. Often billed alongside Hardin, DJ Seoul and Augustus Williams. Next up: Periodicals, Detroit on Thu 15 Oct.
+DJ I.V. is a techno and house artist based in United States of America, with 50 gigs on soundcheck across Berlin, Chicago and Detroit. Often billed alongside Hardin, DJ Seoul and Augustus Williams. Next up: Periodicals, Detroit on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | Periodicals | Detroit |
+| Thu, 22 Oct 2026 | Marble Bar | Detroit |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ I.V. is a techno and house artist based in United States of America, with 49 
 
 Hardin, DJ Seoul, Augustus Williams
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dji.v./)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dji.v./)*

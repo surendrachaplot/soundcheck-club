@@ -1,6 +1,6 @@
 # Lakota
 
-Lakota is a music venue in Bristol with 14 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "K POP MEET EDM with ASTER" on Wed, 14 Oct 2026.
+Lakota is a music venue in Bristol with 14 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "K POP MEET EDM with ASTER" on Wed, 14 Oct 2026.
 
 Lakota is a music venue in Bristol listed on soundcheck. 14 upcoming gigs, with line-ups including C.A.R., Dan Shake, Eksman and Faster Horses and 2 more. See dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
 
@@ -23,4 +23,4 @@ Lakota is a music venue in Bristol listed on soundcheck. 14 upcoming gigs, with 
 
 6 Upper York Street; Bristol, BS2 8QN, United Kingdom, Bristol
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*

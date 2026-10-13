@@ -1,6 +1,6 @@
 # Maltitz
 
-Maltitz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Kater, Berlin on Sat, 24 Oct 2026.
+Maltitz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Kater, Berlin on Sat, 24 Oct 2026.
 
 Maltitz is a house and techno artist based in Germany, with 55 gigs on soundcheck across Berlin, Frankfurt and Hamburg. Often billed alongside David Silver, Haeder and Luca Olivotto. Next up: Kater, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Maltitz is a house and techno artist based in Germany, with 55 gigs on soundchec
 
 David Silver, Haeder, Luca Olivotto
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maltitz/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maltitz/)*

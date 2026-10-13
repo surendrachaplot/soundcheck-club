@@ -1,6 +1,6 @@
 # Zoo
 
-Zoo is a music venue in Geneva with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "GROOVADELIC: Luis M • Rhabia • Psyberpunk • Alma Deya • Argønaut" on Sat, 17 Oct 2026.
+Zoo is a music venue in Geneva with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "GROOVADELIC: Luis M • Rhabia • Psyberpunk • Alma Deya • Argønaut" on Sat, 17 Oct 2026.
 
 Zoo is a music venue in Geneva listed on soundcheck. 6 upcoming gigs, with line-ups including Andy Martin, A Strange Wedding, CAIVA and Channel One Sound and 2 more. See dates, start times and who's playing. Place des Volontaires 4; 1204, Genève; Switzerland.
 
@@ -19,4 +19,4 @@ Zoo is a music venue in Geneva listed on soundcheck. 6 upcoming gigs, with line-
 
 Place des Volontaires 4; 1204, Genève; Switzerland, Geneva
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*

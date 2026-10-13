@@ -1,6 +1,6 @@
 # Alison Swing
 
-Alison Swing is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Kater, Berlin on Sat, 21 Nov 2026.
+Alison Swing is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Kater, Berlin on Sat, 21 Nov 2026.
 
 Alison Swing is a house and techno artist based in United States of America, with 75 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 11 more. Often billed alongside DJ City, Akirahawks and DJ NORTHERN. Next up: Kater, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Alison Swing is a house and techno artist based in United States of America, wit
 
 DJ City, Akirahawks, DJ NORTHERN
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alisonswing/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alisonswing/)*

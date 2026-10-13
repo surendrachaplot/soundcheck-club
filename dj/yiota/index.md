@@ -1,13 +1,14 @@
 # Yiota
 
-Yiota is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Bongo Club, Edinburgh on Sat, 31 Oct 2026.
+Yiota is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Paradise Palms, Edinburgh on Tue, 27 Oct 2026.
 
-Yiota is a techno and trance artist based in United Kingdom, with 43 gigs on soundcheck across Athens, Birmingham, Brighton and Edinburgh and 2 more. Often billed alongside Spinks, ona:v and Atoxyl. Next up: The Bongo Club, Edinburgh on Sat 31 Oct.
+Yiota is a techno and trance artist based in United Kingdom, with 44 gigs on soundcheck across Athens, Birmingham, Brighton and Edinburgh and 2 more. Often billed alongside Spinks, ona:v and Atoxyl. Next up: Paradise Palms, Edinburgh on Tue 27 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 27 Oct 2026 | Paradise Palms | Edinburgh |
 | Sat, 31 Oct 2026 | The Bongo Club | Edinburgh |
 
 ## Recently played
@@ -25,4 +26,4 @@ Yiota is a techno and trance artist based in United Kingdom, with 43 gigs on sou
 
 Spinks, ona:v, Atoxyl
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yiota/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yiota/)*

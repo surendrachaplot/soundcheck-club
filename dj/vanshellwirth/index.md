@@ -1,6 +1,6 @@
 # Vans Hellwirth
 
-Vans Hellwirth is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Golden Gate, Berlin on Fri, 16 Oct 2026.
+Vans Hellwirth is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Golden Gate, Berlin on Fri, 16 Oct 2026.
 
 Vans Hellwirth is an electronic artist, with 17 gigs on soundcheck across Berlin. Often billed alongside Bee Lincoln, Neco and Turmspringer. Next up: Golden Gate, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Vans Hellwirth is an electronic artist, with 17 gigs on soundcheck across Berlin
 
 Bee Lincoln, Neco, Turmspringer
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanshellwirth/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanshellwirth/)*

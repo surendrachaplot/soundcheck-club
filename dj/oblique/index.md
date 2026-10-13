@@ -1,8 +1,8 @@
 # Oblique
 
-Oblique is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Treehouse, Berlin on Sat, 17 Oct 2026.
+Oblique is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Treehouse, Berlin on Sat, 17 Oct 2026.
 
-Oblique is a house and techno artist based in Germany, with 11 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Leipzig and 1 more. Often billed alongside ALKARLINE, Silberhauch and AUHAM. Next up: Treehouse, Berlin on Sat 17 Oct.
+Oblique is a house and techno artist based in Germany, with 12 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Leipzig and 1 more. Often billed alongside ALKARLINE, Silberhauch and AUHAM. Next up: Treehouse, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Oblique is a house and techno artist based in Germany, with 11 gigs on soundchec
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Treehouse | Berlin |
 | Sat, 24 Oct 2026 | RSO.BERLIN | Berlin |
+| Fri, 13 Nov 2026 | KREUZWERK | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Oblique is a house and techno artist based in Germany, with 11 gigs on soundchec
 
 ALKARLINE, Silberhauch, AUHAM
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oblique/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oblique/)*

@@ -1,6 +1,6 @@
 # Bass Paradize PRESENTS 20 YEARS OF DEEP MEDi at La Station - Gare des Mines
 
-Bass Paradize PRESENTS 20 YEARS OF DEEP MEDi at La Station - Gare des Mines on Sat 24 Oct, Paris. 5 artists: Felixculpah, Mala, Silkie and Sîn Ø and 1 more. See the line-up on soundcheck.
+Bass Paradize PRESENTS 20 YEARS OF DEEP MEDi at La Station - Gare des Mines on Sat 24 Oct, Paris. 5 artists: Beatrice M., Felixculpah, Mala and Silkie and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,10 +10,10 @@ Bass Paradize PRESENTS 20 YEARS OF DEEP MEDi at La Station - Gare des Mines on S
 
 ## Line-up
 
+- Beatrice M.
 - Felixculpah
 - Mala
 - Silkie
-- Sîn Ø
 - Von D
 
 *Source: [soundcheck](https://soundcheck.club/e/2544044-bass-paradize-presents-20-years-of-deep-medi-at-la-station-g/)*

@@ -1,6 +1,6 @@
 # VERKNIPT Germany - Hamburg - October 16 & 17 at Edelfettwerk
 
-VERKNIPT Germany - Hamburg - October 16 & 17 at Edelfettwerk on Fri 16 Oct, Hamburg. 6 artists: Charlie, IGDA, KLOUD and KX CHR and 2 more. Techno. See the line-up on soundcheck.
+VERKNIPT Germany - Hamburg - October 16 & 17 at Edelfettwerk on Fri 16 Oct, Hamburg. 7 artists: Charlie, IGDA, KX CHR and luke madness and 3 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,9 @@ VERKNIPT Germany - Hamburg - October 16 & 17 at Edelfettwerk on Fri 16 Oct, Hamb
 
 - Charlie
 - IGDA
-- KLOUD
 - KX CHR
+- luke madness
+- Neon Graveyard
 - SAIKA
 - SANTØS
 

@@ -1,6 +1,6 @@
 # SaoTeknik
 
-SaoTeknik is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at 12 x 12, Bangkok on Fri, 23 Oct 2026.
+SaoTeknik is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at 12 x 12, Bangkok on Fri, 23 Oct 2026.
 
 SaoTeknik is a house and minimal artist based in Thailand, with 50 gigs on soundcheck across Bangkok and Osaka. Often billed alongside Elaheh, Gishiyama and JAKRIN. Next up: 12 x 12, Bangkok on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ SaoTeknik is a house and minimal artist based in Thailand, with 50 gigs on sound
 
 Elaheh, Gishiyama, JAKRIN
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saoteknik/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saoteknik/)*

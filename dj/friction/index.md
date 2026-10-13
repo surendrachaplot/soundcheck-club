@@ -1,6 +1,6 @@
 # Friction
 
-Friction is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Steel Yard, London on Fri, 16 Oct 2026.
+Friction is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Steel Yard, London on Fri, 16 Oct 2026.
 
 Friction is a drum & bass and bass artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Auckland, Berlin and Birmingham and 37 more. Often billed alongside Hybrid Minds, Linguistics and K Motionz. Next up: The Steel Yard, London on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Friction is a drum & bass and bass artist based in United Kingdom, with 79 gigs 
 
 Hybrid Minds, Linguistics, K Motionz
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/friction/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/friction/)*

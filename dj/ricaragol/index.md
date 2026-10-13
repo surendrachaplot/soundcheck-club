@@ -1,6 +1,6 @@
 # Ri Caragol
 
-Ri Caragol is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+Ri Caragol is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
 
 Ri Caragol is a techno and experimental artist based in Puerto Rico, with 9 gigs on soundcheck across Washington DC. Often billed alongside STUKES, Energy Runner and Matthew Cha. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Ri Caragol is a techno and experimental artist based in Puerto Rico, with 9 gigs
 
 STUKES, Energy Runner, Matthew Cha
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricaragol/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricaragol/)*

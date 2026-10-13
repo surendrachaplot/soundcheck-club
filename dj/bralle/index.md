@@ -1,6 +1,6 @@
 # BRALLE
 
-BRALLE is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Marble Bar, Detroit on Fri, 16 Oct 2026.
+BRALLE is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Marble Bar, Detroit on Fri, 16 Oct 2026.
 
 BRALLE is a techno and minimal techno artist based in United States of America, with 20 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Denver and 8 more. Often billed alongside Annie Lew, Lindsey Herbert and A.M.D.. Next up: Marble Bar, Detroit on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ BRALLE is a techno and minimal techno artist based in United States of America, 
 
 Annie Lew, Lindsey Herbert, A.M.D.
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bralle/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bralle/)*

@@ -1,6 +1,6 @@
 # Yeji
 
-Yeji is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Volnost, Seoul on Thu, 15 Oct 2026.
+Yeji is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Volnost, Seoul on Thu, 15 Oct 2026.
 
 Yeji is a techno and house artist based in South Korea, with 37 gigs on soundcheck across Seoul. Often billed alongside Recy, KYVU and DJ SIN. Next up: Volnost, Seoul on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Yeji is a techno and house artist based in South Korea, with 37 gigs on soundche
 
 Recy, KYVU, DJ SIN
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yeji/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yeji/)*

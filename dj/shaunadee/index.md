@@ -1,6 +1,6 @@
 # ShaunaDee
 
-ShaunaDee is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Yamamori Tengu, Dublin on Fri, 16 Oct 2026.
+ShaunaDee is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Yamamori Tengu, Dublin on Fri, 16 Oct 2026.
 
 ShaunaDee is a house and techno artist based in Ireland, with 17 gigs on soundcheck across Dublin and Galway. Often billed alongside Bob Manzanilla, Kaycee and Nicole Spagnol. Next up: Yamamori Tengu, Dublin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ ShaunaDee is a house and techno artist based in Ireland, with 17 gigs on soundch
 
 Bob Manzanilla, Kaycee, Nicole Spagnol
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunadee/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunadee/)*

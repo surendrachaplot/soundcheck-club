@@ -1,6 +1,6 @@
 # Mason Cooper
 
-Mason Cooper is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Pllek, Amsterdam on Sat, 24 Oct 2026.
+Mason Cooper is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Pllek, Amsterdam on Sat, 24 Oct 2026.
 
 Mason Cooper is a house and tech house artist based in United Kingdom, with 24 gigs on soundcheck across Amsterdam, Ibiza, Leeds and London and 2 more. Often billed alongside Joss Dean, Tommy Phillips and Luke Dean_. Next up: Pllek, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Mason Cooper is a house and tech house artist based in United Kingdom, with 24 g
 
 Joss Dean, Tommy Phillips, Luke Dean_
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masoncooper/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masoncooper/)*

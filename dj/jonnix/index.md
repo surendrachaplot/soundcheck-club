@@ -1,6 +1,6 @@
 # Jonnix
 
-Jonnix is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Bsmt 254, Toronto on Thu, 22 Oct 2026.
+Jonnix is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Bsmt 254, Toronto on Thu, 22 Oct 2026.
 
 Jonnix is a techno and deep house artist based in Canada, with 15 gigs on soundcheck across Toronto. Often billed alongside 2HZY, Jose Carbonell and Sartrax. Next up: Bsmt 254, Toronto on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Jonnix is a techno and deep house artist based in Canada, with 15 gigs on soundc
 
 2HZY, Jose Carbonell, Sartrax
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnix/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnix/)*

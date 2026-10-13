@@ -1,6 +1,6 @@
 # Roberta's
 
-Roberta's is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "BEVERAGES presents HalloWine" on Sat, 31 Oct 2026.
+Roberta's is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "BEVERAGES presents HalloWine" on Sat, 31 Oct 2026.
 
 Roberta's is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Fernelly, Fundido, Kristine Barilli and Seedy J. See dates, start times and who's playing. 261 Moore St, Brooklyn, NY 11206.
 
@@ -14,4 +14,4 @@ Roberta's is a music venue in New York City listed on soundcheck. 1 upcoming gig
 
 261 Moore St, Brooklyn, NY 11206, New York City
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/roberta-s/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/roberta-s/)*

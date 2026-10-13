@@ -1,6 +1,6 @@
 # Danielle (UK)
 
-Danielle (UK) is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Gut Level, Sheffield on Fri, 16 Oct 2026.
+Danielle (UK) is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Gut Level, Sheffield on Fri, 16 Oct 2026.
 
 Danielle (UK) is a techno and house artist based in United Kingdom, with 148 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 34 more. Often billed alongside Amaliah, Ogazón and Ryan Elliott. Next up: Gut Level, Sheffield on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Danielle (UK) is a techno and house artist based in United Kingdom, with 148 gig
 
 Amaliah, Ogazón, Ryan Elliott
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielle/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielle/)*

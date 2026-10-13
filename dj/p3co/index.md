@@ -1,6 +1,6 @@
 # P3CO
 
-P3CO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Le Red Room, Montreal on Wed, 14 Oct 2026.
+P3CO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Le Red Room, Montreal on Wed, 14 Oct 2026.
 
 P3CO is a techno and trance artist based in Canada, with 6 gigs on soundcheck across Montreal. Often billed alongside EMN, fangsie and refanged. Next up: Le Red Room, Montreal on Wed 14 Oct.
 
@@ -22,4 +22,4 @@ P3CO is a techno and trance artist based in Canada, with 6 gigs on soundcheck ac
 
 EMN (1), fangsie, refanged
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p3co/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p3co/)*

@@ -1,8 +1,8 @@
 # Naomi (Berlin)
 
-Naomi (Berlin) is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at OHM, Berlin on Sat, 17 Oct 2026.
+Naomi (Berlin) is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at OHM, Berlin on Sat, 17 Oct 2026.
 
-Naomi (Berlin) is a house and techno artist, with 93 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 12 more. Often billed alongside Dj Heartbreak, Natalie Robinson and LOVEFOXY. Next up: OHM, Berlin on Sat 17 Oct.
+Naomi (Berlin) is a house and techno artist, with 94 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 12 more. Often billed alongside Dj Heartbreak, Natalie Robinson and LOVEFOXY. Next up: OHM, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Naomi (Berlin) is a house and techno artist, with 93 gigs on soundcheck across A
 | Sun, 25 Oct 2026 | nachbar | Amsterdam |
 | Sat, 31 Oct 2026 | Mojo | Hamburg |
 | Sat, 28 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 26 Dec 2026 | KREUZWERK | Berlin |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Naomi (Berlin) is a house and techno artist, with 93 gigs on soundcheck across A
 
 Dj Heartbreak, Natalie Robinson, LOVEFOXY
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naomi-berlin/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naomi-berlin/)*

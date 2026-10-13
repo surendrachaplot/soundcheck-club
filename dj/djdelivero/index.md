@@ -1,0 +1,28 @@
+# DJ Delivero
+
+DJ Delivero is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Loop51, Amsterdam on Sun, 25 Oct 2026.
+
+DJ Delivero is a house and techno artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam and Milan. Often billed alongside Crinkhoff, Stëfän Däniëls and Mata Disk. Next up: Loop51, Amsterdam on Sun 25 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sun, 25 Oct 2026 | Loop51 | Amsterdam |
+
+## Recently played
+
+- Masada, Milan · Sun, 11 Oct 2026
+- Noordspace, Amsterdam · Sat, 4 Jul 2026
+- Bar Dancing Multipla, Amsterdam · Fri, 26 Jun 2026
+- Doka, Amsterdam · Fri, 7 Nov 2025
+- CONTACT, Amsterdam · Sat, 14 Dec 2024
+- Bar Dancing Multipla, Amsterdam · Sat, 21 Sept 2024
+- Borisov Amsterdam, Amsterdam · Fri, 19 Jul 2024
+- Levenslang Amsterdam, Amsterdam · Sat, 18 Nov 2023
+
+## Shares bills with
+
+Crinkhoff, Stëfän Däniëls, Mata Disk
+
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdelivero/)*

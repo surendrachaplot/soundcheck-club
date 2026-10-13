@@ -1,6 +1,6 @@
 # Arise festival: Berlin edition + HMLTD at TBA
 
-Arise festival: Berlin edition + HMLTD at TBA on Sat 7 Nov, London. 5 artists: DJ GHEPARD, exmantera, Hovsep (AM) and Mujuice and 1 more. Experimental and Electronica. See the line-up on soundcheck.
+Arise festival: Berlin edition + HMLTD at TBA on Sat 7 Nov, London. 4 artists: exmantera, Hovsep (AM), Mujuice and Softmatter. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Arise festival: Berlin edition + HMLTD at TBA on Sat 7 Nov, London. 5 artists: D
 
 ## Line-up
 
-- DJ GHEPARD
 - exmantera
 - Hovsep (AM)
 - Mujuice

@@ -1,6 +1,6 @@
 # neska
 
-neska is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at CLUB RAUM, Amsterdam on Thu, 22 Oct 2026.
+neska is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at CLUB RAUM, Amsterdam on Thu, 22 Oct 2026.
 
 neska is a techno and house artist based in Spain, with 80 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Central and 8 more. Often billed alongside Naone, dirtydms and BERTON. Next up: CLUB RAUM, Amsterdam on Thu 22 Oct.
 
@@ -29,4 +29,4 @@ neska is a techno and house artist based in Spain, with 80 gigs on soundcheck ac
 
 Naone, dirtydms, BERTON
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neska/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neska/)*

@@ -1,6 +1,6 @@
 # startambourine
 
-startambourine is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at A-Bar, Kyoto on Sat, 17 Oct 2026.
+startambourine is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at A-Bar, Kyoto on Sat, 17 Oct 2026.
 
 startambourine is a house and techno artist based in Japan, with 10 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Ascalypso, HOBOBRAZIL and Akey. Next up: A-Bar, Kyoto on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ startambourine is a house and techno artist based in Japan, with 10 gigs on soun
 
 Ascalypso, HOBOBRAZIL, Akey
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/startambourine/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/startambourine/)*

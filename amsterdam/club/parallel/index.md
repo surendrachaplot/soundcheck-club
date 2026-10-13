@@ -1,8 +1,8 @@
 # Parallel
 
-Parallel is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "La Casa Del Perreo" on Sat, 17 Oct 2026.
+Parallel is a music venue in Amsterdam with 16 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "La Casa Del Perreo" on Sat, 17 Oct 2026.
 
-Parallel is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including Bambii, Chico, Culoe De Song and Gia Fu and 2 more. See dates, start times and who's playing. Buiksloterweg 5C, 1031 CC Amsterdam.
+Parallel is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, with line-ups including Bambii, Chico, Culoe De Song and Gia Fu and 2 more. See dates, start times and who's playing. Buiksloterweg 5C, 1031 CC Amsterdam.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Parallel is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, w
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | La Casa Del Perreo |  |
 | Wed, 21 Oct 2026 | The Bausa - ADE |  |
-| Wed, 21 Oct 2026 | Basshall presents: Kybba - ADE |  |
+| Wed, 21 Oct 2026 | Basshall presents: Kybba - ADE | Jeremiah Asiamah |
 | Thu, 22 Oct 2026 | Eastern Margins x Natural Mind with The Twins, Minna-no-Kimochi, Mechatok & Torus | Mechatok, Minna-no-Kimochi, The Twins (waitareyoutwins), Torus |
 | Fri, 23 Oct 2026 | Modus - ADE | LB aka LABAT, LOVEFOXY, Lucky Done Gone, OLIVIA LENSEN |
 | Fri, 23 Oct 2026 | Bambii | Bambii, Jarreau Vandal, Tsunamy |
@@ -23,4 +23,4 @@ Parallel is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, w
 
 Buiksloterweg 5C, 1031 CC Amsterdam, Amsterdam
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/parallel/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/parallel/)*

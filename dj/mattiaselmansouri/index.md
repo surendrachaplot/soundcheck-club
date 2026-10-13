@@ -1,8 +1,8 @@
 # Mattias El Mansouri
 
-Mattias El Mansouri is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Under Bron, Stockholm on Fri, 16 Oct 2026.
+Mattias El Mansouri is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Under Bron, Stockholm on Fri, 16 Oct 2026.
 
-Mattias El Mansouri is a house and techno artist based in Sweden, with 65 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 6 more. Often billed alongside Sergej Orlov, Hunee and Oberman. Next up: Under Bron, Stockholm on Fri 16 Oct.
+Mattias El Mansouri is a house and techno artist based in Sweden, with 66 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 6 more. Often billed alongside Sergej Orlov, Oberman and Hunee. Next up: Under Bron, Stockholm on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mattias El Mansouri is a house and techno artist based in Sweden, with 65 gigs o
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Under Bron | Stockholm |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
+| Sat, 24 Oct 2026 | Borisov Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played
@@ -25,6 +26,6 @@ Mattias El Mansouri is a house and techno artist based in Sweden, with 65 gigs o
 
 ## Shares bills with
 
-Sergej Orlov, Hunee, Oberman
+Sergej Orlov, Oberman, Hunee
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiaselmansouri/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiaselmansouri/)*

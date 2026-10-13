@@ -1,6 +1,6 @@
 # NSFW
 
-NSFW is a Club and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at John Doe, Amsterdam on Tue, 27 Oct 2026.
+NSFW is a Club and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at John Doe, Amsterdam on Tue, 27 Oct 2026.
 
 NSFW is a club and reggaeton artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam, Leeds and London. Often billed alongside Iyesha, TEDESCO and Dahc Dermur VIII. Next up: John Doe, Amsterdam on Tue 27 Oct.
 
@@ -22,4 +22,4 @@ NSFW is a club and reggaeton artist based in Netherlands, with 6 gigs on soundch
 
 Iyesha, TEDESCO, Dahc Dermur VIII
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nsfw/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nsfw/)*

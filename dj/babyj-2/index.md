@@ -1,6 +1,6 @@
 # Baby J (2)
 
-Baby J (2) is a Baile Funk and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Gallagher Square, San Diego on Sat, 17 Oct 2026.
+Baby J (2) is a Baile Funk and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Gallagher Square, San Diego on Sat, 17 Oct 2026.
 
 Baby J is a baile funk and bass artist based in Australia, with 18 gigs on soundcheck across Birmingham, Bristol, Chicago and Hong Kong and 9 more. Often billed alongside Tye Turner, LARISHKA (UK) and IN PARALLEL. Next up: Gallagher Square, San Diego on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Baby J is a baile funk and bass artist based in Australia, with 18 gigs on sound
 
 Tye Turner, LARISHKA (UK), IN PARALLEL
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyj-2/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyj-2/)*

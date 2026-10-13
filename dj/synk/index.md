@@ -1,6 +1,6 @@
 # S*Y*N*K
 
-S*Y*N*K is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at John Doe, Amsterdam on Sat, 24 Oct 2026.
+S*Y*N*K is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at John Doe, Amsterdam on Sat, 24 Oct 2026.
 
 S*Y*N*K is a techno and hardcore artist based in Germany, with 27 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 16 more. Often billed alongside VRODAK, Dres Codex and Frida Henson. Next up: John Doe, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ S*Y*N*K is a techno and hardcore artist based in Germany, with 27 gigs on soundc
 
 VRODAK, Dres Codex, Frida Henson
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/synk/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/synk/)*

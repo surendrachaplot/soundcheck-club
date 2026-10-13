@@ -1,6 +1,6 @@
 # Carriageworks
 
-Carriageworks is a music venue in Sydney with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "THE WORKS feat. Pegassi" on Sat, 5 Dec 2026.
+Carriageworks is a music venue in Sydney with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "THE WORKS feat. Pegassi" on Sat, 5 Dec 2026.
 
 Carriageworks is a music venue in Sydney listed on soundcheck. 7 upcoming gigs, with line-ups including Armand Van Helden, Dean Turnley, Ewan McVicar and Fatboy Slim and 2 more. See dates, start times and who's playing. 245 Wilson Street, Eveleigh, NSW 2015, Australia.
 
@@ -20,4 +20,4 @@ Carriageworks is a music venue in Sydney listed on soundcheck. 7 upcoming gigs, 
 
 245 Wilson Street, Eveleigh, NSW 2015, Australia, Sydney
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carriageworks/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carriageworks/)*

@@ -1,6 +1,6 @@
 # Diz Jockey
 
-Diz Jockey is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Gingerino's Pizza, Newcastle on Sat, 17 Oct 2026.
+Diz Jockey is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Gingerino's Pizza, Newcastle on Sat, 17 Oct 2026.
 
 Diz Jockey is a disco and house artist based in United Kingdom, with 59 gigs on soundcheck across Newcastle. Often billed alongside Vinny Vins, Bill Brewster and LA!NE. Next up: Gingerino's Pizza, Newcastle on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Diz Jockey is a disco and house artist based in United Kingdom, with 59 gigs on 
 
 Vinny Vins, Bill Brewster, LA!NE
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dizjockey/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dizjockey/)*

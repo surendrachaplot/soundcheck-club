@@ -1,6 +1,6 @@
 # Sahib
 
-Sahib is a UK Funky and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Bread and Butter, London on Sat, 14 Nov 2026.
+Sahib is a UK Funky and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Bread and Butter, London on Sat, 14 Nov 2026.
 
 Sahib is an uk funky and bass artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside CHNDRA, European 305 and Kyuu. Next up: Bread and Butter, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Sahib is an uk funky and bass artist based in United Kingdom, with 10 gigs on so
 
 CHNDRA, European 305, Kyuu
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sahib/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sahib/)*

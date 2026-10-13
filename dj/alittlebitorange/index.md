@@ -1,14 +1,16 @@
 # A Little Bit Orange
 
-A Little Bit Orange is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Club Up, Amsterdam on Thu, 22 Oct 2026.
+A Little Bit Orange is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at renae, Manchester on Wed, 14 Oct 2026.
 
-A Little Bit Orange is a house and tech house artist based in United Kingdom, with 13 gigs on soundcheck across Amsterdam, Leeds and Manchester. Often billed alongside Sam Pratt, SAVANNAHH and CARALUS. Next up: Club Up, Amsterdam on Thu 22 Oct.
+A Little Bit Orange is a house and tech house artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Leeds and Manchester. Often billed alongside Sam Pratt, SAVANNAHH and CARALUS. Next up: renae, Manchester on Wed 14 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 14 Oct 2026 | renae | Manchester |
 | Thu, 22 Oct 2026 | Club Up | Amsterdam |
+| Fri, 6 Nov 2026 | TBA - ELECTRIC PIZZA SHOP. BRAND NEW VENUE! ON DEANSGATE | Manchester |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ A Little Bit Orange is a house and tech house artist based in United Kingdom, wi
 
 Sam Pratt, SAVANNAHH, CARALUS
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alittlebitorange/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alittlebitorange/)*

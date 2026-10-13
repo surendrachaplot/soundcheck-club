@@ -1,6 +1,6 @@
 # Josh Dunn
 
-Josh Dunn is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Marble Bar, Detroit on Fri, 30 Oct 2026.
+Josh Dunn is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Marble Bar, Detroit on Fri, 30 Oct 2026.
 
 Josh Dunn is a house and ambient artist, with 13 gigs on soundcheck across Detroit and New York City. Often billed alongside Kenjiro, Ryan Spencer and Shigeto. Next up: Marble Bar, Detroit on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Josh Dunn is a house and ambient artist, with 13 gigs on soundcheck across Detro
 
 Kenjiro, Ryan Spencer, Shigeto
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshdunn/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshdunn/)*

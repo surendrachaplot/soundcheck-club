@@ -1,13 +1,14 @@
 # Phat Beat
 
-Phat Beat is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Emma Pea, Berlin on Fri, 6 Nov 2026.
+Phat Beat is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Emma Pea, Berlin on Sat, 24 Oct 2026.
 
-Phat Beat is a house and hip-hop artist based in Germany, with 53 gigs on soundcheck across Berlin. Often billed alongside Hit Beat, JaFrei Loufoque and Max Nytram. Next up: Emma Pea, Berlin on Fri 6 Nov.
+Phat Beat is a house and hip-hop artist based in Germany, with 54 gigs on soundcheck across Berlin. Often billed alongside Hit Beat, JaFrei Loufoque and Max Nytram. Next up: Emma Pea, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Emma Pea | Berlin |
 | Fri, 6 Nov 2026 | Emma Pea | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Phat Beat is a house and hip-hop artist based in Germany, with 53 gigs on soundc
 
 Hit Beat, JaFrei Loufoque, Max Nytram
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phatbeat-de/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phatbeat-de/)*

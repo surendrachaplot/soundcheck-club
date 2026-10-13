@@ -1,6 +1,6 @@
 # RHYTMOX
 
-RHYTMOX is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 21 Nov 2026.
+RHYTMOX is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 21 Nov 2026.
 
 RHYTMOX is a psytrance and techno artist based in Germany, with 61 gigs on soundcheck across Berlin and Cologne. Often billed alongside Texo, monervo and Momentune. Next up: PKH Warehouse, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ RHYTMOX is a psytrance and techno artist based in Germany, with 61 gigs on sound
 
 Texo, monervo, Momentune
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhytmox/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhytmox/)*

@@ -1,6 +1,6 @@
 # The Cause
 
-The Cause is a music venue in London with 34 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Indira Paganotto, Lee Ann Roberts, Estella Boersma | The Cause Daytime Open-air" on Sat, 17 Oct 2026.
+The Cause is a music venue in London with 34 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Indira Paganotto, Lee Ann Roberts, Estella Boersma | The Cause Daytime Open-air" on Sat, 17 Oct 2026.
 
 The Cause is a music venue in London listed on soundcheck. 34 upcoming gigs, with line-ups including 4000 Hz, 808 State, KT and Acid Sally and 2 more. See dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
 
@@ -23,4 +23,4 @@ The Cause is a music venue in London listed on soundcheck. 34 upcoming gigs, wit
 
 60 Dock Road, London, E16 1YZ, London
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*

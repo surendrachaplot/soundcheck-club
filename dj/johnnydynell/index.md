@@ -1,6 +1,6 @@
 # Johnny Dynell
 
-Johnny Dynell is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Club Rawhide, New York City on Sun, 18 Oct 2026.
+Johnny Dynell is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Club Rawhide, New York City on Sun, 18 Oct 2026.
 
 Johnny Dynell is a disco and house artist based in United States of America, with 6 gigs on soundcheck across New York City. Often billed alongside Gatekeeper, Kevin Aviance and Kim Anh. Next up: Club Rawhide, New York City on Sun 18 Oct.
 
@@ -22,4 +22,4 @@ Johnny Dynell is a disco and house artist based in United States of America, wit
 
 Gatekeeper, Kevin Aviance, Kim Anh
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnydynell/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnydynell/)*

@@ -1,6 +1,6 @@
 # Richard Fearless
 
-Richard Fearless is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Berkeley Suite, Glasgow on Fri, 16 Oct 2026.
+Richard Fearless is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Berkeley Suite, Glasgow on Fri, 16 Oct 2026.
 
 Richard Fearless is a techno and experimental artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Belfast, Belgrade and Bristol and 8 more. Often billed alongside Daniel Avery, Tom Dubwise and DJ MELL G. Next up: The Berkeley Suite, Glasgow on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ Richard Fearless is a techno and experimental artist based in United Kingdom, wi
 
 Daniel Avery, Tom Dubwise, DJ MELL G
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richardfearless-uk/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richardfearless-uk/)*

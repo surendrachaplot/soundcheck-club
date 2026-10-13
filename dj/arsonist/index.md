@@ -1,6 +1,6 @@
 # Arsonist
 
-Arsonist is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Tokyo Sing Song, Sydney on Sat, 17 Oct 2026.
+Arsonist is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Tokyo Sing Song, Sydney on Sat, 17 Oct 2026.
 
 Arsonist is a bass and experimental artist based in Australia, with 27 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Parcae, Autogenesis and Bastafino. Next up: Tokyo Sing Song, Sydney on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Arsonist is a bass and experimental artist based in Australia, with 27 gigs on s
 
 Parcae, Autogenesis, Bastafino
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arsonist/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arsonist/)*

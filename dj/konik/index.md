@@ -1,6 +1,6 @@
 # Konik
 
-Konik is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Konik is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
 Konik is a techno and tech house artist based in France, with 7 gigs on soundcheck across Budapest, Copenhagen, Lyon and Madrid. Often billed alongside Denes Toth, Justrice and Agents Of Time. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ Konik is a techno and tech house artist based in France, with 7 gigs on soundche
 
 Denes Toth, Justrice, Agents Of Time
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konik/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konik/)*

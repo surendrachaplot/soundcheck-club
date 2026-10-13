@@ -1,6 +1,6 @@
 # Industry Standard
 
-Industry Standard is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Horse & Groom, London on Sat, 28 Nov 2026.
+Industry Standard is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The Horse & Groom, London on Sat, 28 Nov 2026.
 
 Industry Standard is a techno and progressive house artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Nick Muir, Grant McKay and Danny Howells. Next up: The Horse & Groom, London on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Industry Standard is a techno and progressive house artist based in United Kingd
 
 Nick Muir, Grant McKay, Danny Howells
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/industrystandard-2/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/industrystandard-2/)*

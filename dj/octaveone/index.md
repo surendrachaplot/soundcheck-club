@@ -1,6 +1,6 @@
 # Octave One
 
-Octave One is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 16 Oct 2026.
+Octave One is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 16 Oct 2026.
 
 Octave One is a techno and house artist based in United States of America, with 99 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 35 more. Often billed alongside Carl Craig, Charlotte de Witte and FJAAK. Next up: Public Works, San Francisco/Oakland on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Octave One is a techno and house artist based in United States of America, with 
 
 Carl Craig, Charlotte de Witte, FJAAK
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/octaveone/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/octaveone/)*

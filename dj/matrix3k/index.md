@@ -1,8 +1,8 @@
 # MATRIX3K
 
-MATRIX3K is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Crackhouse, Gdansk on Sat, 17 Oct 2026.
+MATRIX3K is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Crackhouse, Gdansk on Sat, 17 Oct 2026.
 
-MATRIX3K is a techno and house artist based in Poland, with 102 gigs on soundcheck across Barcelona, Berlin, Brussels and Gdansk and 8 more. Often billed alongside Buchan, Contakt (PL) and Edvvin. Next up: Crackhouse, Gdansk on Sat 17 Oct.
+MATRIX3K is a techno and house artist based in Poland, with 103 gigs on soundcheck across Barcelona, Berlin, Brussels and Gdansk and 8 more. Often billed alongside Buchan, Contakt (PL) and Edvvin. Next up: Crackhouse, Gdansk on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ MATRIX3K is a techno and house artist based in Poland, with 102 gigs on soundche
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Crackhouse | Gdansk |
 | Fri, 23 Oct 2026 | Jasna 1 | Warsaw |
+| Fri, 13 Nov 2026 | Sekta Selekta | Krakow |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ MATRIX3K is a techno and house artist based in Poland, with 102 gigs on soundche
 
 Buchan, Contakt (PL), Edvvin
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matrix3k/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matrix3k/)*

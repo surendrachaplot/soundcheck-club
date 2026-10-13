@@ -1,6 +1,6 @@
 # Il Brutto Auckland
 
-Il Brutto Auckland is a music venue in Auckland with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "EXORCISM - Halloween Special" on Sat, 31 Oct 2026.
+Il Brutto Auckland is a music venue in Auckland with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "EXORCISM - Halloween Special" on Sat, 31 Oct 2026.
 
 Il Brutto Auckland is a music venue in Auckland listed on soundcheck. 2 upcoming gigs, with line-ups including EMMYJ. See dates, start times and who's playing. 27 Vitoria Street East, Auckland, 1010, New Zealand.
 
@@ -15,4 +15,4 @@ Il Brutto Auckland is a music venue in Auckland listed on soundcheck. 2 upcoming
 
 27 Vitoria Street East, Auckland, 1010, New Zealand, Auckland
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/il-brutto-auckland/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/il-brutto-auckland/)*

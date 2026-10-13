@@ -1,6 +1,6 @@
 # Densha Crisis
 
-Densha Crisis is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Le Rex de Toulouse, Toulouse on Fri, 6 Nov 2026.
+Densha Crisis is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Le Rex de Toulouse, Toulouse on Fri, 6 Nov 2026.
 
 Densha Crisis is a techno and hardcore artist based in France, with 8 gigs on soundcheck across Berlin, Glasgow, Lyon and New York City and 2 more. Often billed alongside Kilbourne, Manu Le Malin and RABBeAT. Next up: Le Rex de Toulouse, Toulouse on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Densha Crisis is a techno and hardcore artist based in France, with 8 gigs on so
 
 Kilbourne, Manu Le Malin, RABBeAT
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denshacrisis/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denshacrisis/)*

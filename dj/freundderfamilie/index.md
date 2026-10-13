@@ -1,6 +1,6 @@
 # Freund der Familie
 
-Freund der Familie is a Dub Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Paloma, Berlin on Fri, 30 Oct 2026.
+Freund der Familie is a Dub Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Paloma, Berlin on Fri, 30 Oct 2026.
 
 Freund der Familie is a dub techno and techno artist based in Germany, with 5 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Barbara Preisinger, Traxx Jr and Zischko. Next up: Paloma, Berlin on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Freund der Familie is a dub techno and techno artist based in Germany, with 5 gi
 
 Barbara Preisinger, Traxx Jr, Zischko
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freundderfamilie/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freundderfamilie/)*

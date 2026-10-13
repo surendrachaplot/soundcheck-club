@@ -1,14 +1,14 @@
 # Soofnic
 
-Soofnic is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
+Soofnic is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
 
-Soofnic is a house and progressive house artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam, Ibiza and Malta. Often billed alongside Amethy, Stylo and AVALAN. Next up: 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu 22 Oct.
+Soofnic is a house and progressive house artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam, Ibiza and Malta. Often billed alongside Amethy, Stylo and AVALAN. Next up: 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | 50:Hertz House & Techno Club Rembrandt Square | Amsterdam |
+| Thu, 22 Oct 2026 | 50:HERTZ HOUSE & TECHNO Club Rembrandt Square | Amsterdam |
 | Fri, 23 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Sun, 25 Oct 2026 | Oliva | Amsterdam |
 
@@ -21,4 +21,4 @@ Soofnic is a house and progressive house artist based in Netherlands, with 5 gig
 
 Amethy, Stylo, AVALAN
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soofnic/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soofnic/)*

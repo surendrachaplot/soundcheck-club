@@ -1,6 +1,6 @@
 # Roger Sanchez
 
-Roger Sanchez is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at LAB theCLUB, Madrid on Sun, 1 Nov 2026.
+Roger Sanchez is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at LAB theCLUB, Madrid on Sun, 1 Nov 2026.
 
 Roger Sanchez is a house and tech house artist, with 130 gigs on soundcheck across Auckland, Barcelona, Birmingham and Bristol and 28 more. Often billed alongside The Shapeshifters, Inner City and Carl Craig. Next up: LAB theCLUB, Madrid on Sun 1 Nov.
 
@@ -27,4 +27,4 @@ Roger Sanchez is a house and tech house artist, with 130 gigs on soundcheck acro
 
 The Shapeshifters, Inner City, Carl Craig
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rogersanchez/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rogersanchez/)*

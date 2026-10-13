@@ -1,6 +1,6 @@
 # Vico Deep
 
-Vico Deep is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at EL SÓTANO, Madrid on Fri, 23 Oct 2026.
+Vico Deep is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at EL SÓTANO, Madrid on Fri, 23 Oct 2026.
 
 Vico Deep is a progressive house and techno artist based in Spain, with 60 gigs on soundcheck across Lisbon and Madrid. Often billed alongside Unai García, Javi Garza and 2Qimic. Next up: EL SÓTANO, Madrid on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Vico Deep is a progressive house and techno artist based in Spain, with 60 gigs 
 
 Unai García, Javi Garza, 2Qimic
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vicodeep/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vicodeep/)*

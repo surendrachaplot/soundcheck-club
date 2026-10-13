@@ -1,6 +1,6 @@
 # Teenage Mutants
 
-Teenage Mutants is a Techno and Tech House artist with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Flux, Istanbul on Fri, 16 Oct 2026.
+Teenage Mutants is a Techno and Tech House artist with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Flux, Istanbul on Fri, 16 Oct 2026.
 
 Teenage Mutants is a techno and tech house artist based in Germany, with 143 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 33 more. Often billed alongside Techmo, Eric Wishes and Intaktogene. Next up: Flux, Istanbul on Fri 16 Oct.
 
@@ -33,4 +33,4 @@ Teenage Mutants is a techno and tech house artist based in Germany, with 143 gig
 
 Techmo, Eric Wishes, Intaktogene
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teenagemutants/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teenagemutants/)*

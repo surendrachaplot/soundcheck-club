@@ -1,6 +1,6 @@
 # [jnny]
 
-[jnny] is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 16 Oct 2026.
+[jnny] is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 16 Oct 2026.
 
 [jnny] is a trance and techno artist, with 5 gigs on soundcheck across Berlin and Hamburg. Often billed alongside MIMI404, OnlyWithYou and e.leptic. Next up: Humboldthain Club, Berlin on Fri 16 Oct.
 
@@ -21,4 +21,4 @@
 
 MIMI404, OnlyWithYou, e.leptic
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jnny/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jnny/)*

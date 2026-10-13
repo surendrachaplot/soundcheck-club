@@ -1,6 +1,6 @@
 # Mikey (UK)
 
-Mikey (UK) is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Studio56, Paris on Wed, 14 Oct 2026.
+Mikey (UK) is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Studio56, Paris on Wed, 14 Oct 2026.
 
 Mikey (UK) is an acid and house artist, with 6 gigs on soundcheck across London, Osaka, Paris and Warsaw. Often billed alongside Will Wiley, Amine Edge & DANCE and Anthony James. Next up: Studio56, Paris on Wed 14 Oct.
 
@@ -22,4 +22,4 @@ Mikey (UK) is an acid and house artist, with 6 gigs on soundcheck across London,
 
 Will Wiley, Amine Edge & DANCE, Anthony James
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikey-uk/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikey-uk/)*

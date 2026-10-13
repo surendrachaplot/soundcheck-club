@@ -1,6 +1,6 @@
 # HiTMiLØW
 
-HiTMiLØW is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Parc Floral De Paris, Paris on Fri, 16 Oct 2026.
+HiTMiLØW is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Parc Floral De Paris, Paris on Fri, 16 Oct 2026.
 
 HiTMiLØW is a techno and trance artist based in Germany, with 86 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 18 more. Often billed alongside Cleopard2000, Justin Tinderdate and Elotrance. Next up: Parc Floral De Paris, Paris on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ HiTMiLØW is a techno and trance artist based in Germany, with 86 gigs on soundc
 
 Cleopard2000, Justin Tinderdate, Elotrance
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hitmilow/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hitmilow/)*

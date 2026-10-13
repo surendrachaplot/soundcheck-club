@@ -1,6 +1,6 @@
 # Cobrastrk
 
-Cobrastrk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at BERHTA, Washington DC on Sat, 7 Nov 2026.
+Cobrastrk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at BERHTA, Washington DC on Sat, 7 Nov 2026.
 
 Cobrastrk is a techno and house artist based in United States of America, with 5 gigs on soundcheck across New York City and Washington DC. Often billed alongside DJ AstroNat, j:drive and Erin Page. Next up: BERHTA, Washington DC on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ Cobrastrk is a techno and house artist based in United States of America, with 5
 
 DJ AstroNat, j:drive, Erin Page
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cobrastrk/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cobrastrk/)*

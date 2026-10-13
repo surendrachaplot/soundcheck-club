@@ -1,13 +1,14 @@
 # SubkoØne
 
-SubkoØne is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Kalif Storch, Erfurt on Fri, 20 Nov 2026.
+SubkoØne is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at elipamanoke, Leipzig on Tue, 17 Nov 2026.
 
-SubkoØne is a techno and trance artist, with 22 gigs on soundcheck across Berlin, Erfurt and Leipzig. Often billed alongside Laviena, KREONE and Ninette. Next up: Kalif Storch, Erfurt on Fri 20 Nov.
+SubkoØne is a techno and trance artist, with 23 gigs on soundcheck across Berlin, Erfurt and Leipzig. Often billed alongside KREONE, Laviena and Ninette. Next up: elipamanoke, Leipzig on Tue 17 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 17 Nov 2026 | elipamanoke | Leipzig |
 | Fri, 20 Nov 2026 | Kalif Storch | Erfurt |
 
 ## Recently played
@@ -23,6 +24,6 @@ SubkoØne is a techno and trance artist, with 22 gigs on soundcheck across Berli
 
 ## Shares bills with
 
-Laviena, KREONE, Ninette
+KREONE, Laviena, Ninette
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subkoone/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subkoone/)*

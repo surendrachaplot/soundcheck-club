@@ -1,6 +1,6 @@
 # Random Memory
 
-Random Memory is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Yellow House, Amsterdam on Sun, 25 Oct 2026.
+Random Memory is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Yellow House, Amsterdam on Sun, 25 Oct 2026.
 
 Random Memory is a house and tech house artist, with 19 gigs on soundcheck across Amsterdam, London, Madrid and Naples. Often billed alongside Carlo Martino, VNP and Gabriele Russo. Next up: Yellow House, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Random Memory is a house and tech house artist, with 19 gigs on soundcheck acros
 
 Carlo Martino, VNP, Gabriele Russo
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/randommemory/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/randommemory/)*

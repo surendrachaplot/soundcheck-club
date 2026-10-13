@@ -1,6 +1,6 @@
-# Dive Deep: ADE Closing - Melodic Edition w/ AVALAN, Corren Cavini, Stylo at Oliva
+# Dive Deep: ADE Closing - Melodic Edition w/ AVALAN, Corren Cavini, Stylo, Miss Evelina at Oliva
 
-Dive Deep: ADE Closing - Melodic Edition w/ AVALAN, Corren Cavini, Stylo at Oliva on Sun 25 Oct, Amsterdam. 9 artists: Amethy, AVALAN, Corren Cavini and FR3ADY and 5 more. Progressive House and Afro House. See the line-up on soundcheck.
+Dive Deep: ADE Closing - Melodic Edition w/ AVALAN, Corren Cavini, Stylo, Miss Evelina at Oliva on Sun 25 Oct, Amsterdam. 9 artists: Amethy, AVALAN, Corren Cavini and FR3ADY and 5 more. Progressive House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

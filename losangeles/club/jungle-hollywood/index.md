@@ -1,6 +1,6 @@
 # Jungle Hollywood
 
-Jungle Hollywood is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Clinic Wednesday" on Wed, 14 Oct 2026.
+Jungle Hollywood is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Clinic Wednesday" on Wed, 14 Oct 2026.
 
 Jungle Hollywood is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Derrick Wize, Diz, DJ Colette and Electric Field and 2 more. See dates, start times and who's playing. 1640 N Cahuenga Blvd, Los Angeles, CA 90028.
 
@@ -15,4 +15,4 @@ Jungle Hollywood is a music venue in Los Angeles listed on soundcheck. 2 upcomin
 
 1640 N Cahuenga Blvd, Los Angeles, CA 90028, Los Angeles
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/jungle-hollywood/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/jungle-hollywood/)*

@@ -1,6 +1,6 @@
 # Gallo
 
-Gallo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at BAR Inc, Osaka on Sun, 18 Oct 2026.
+Gallo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at BAR Inc, Osaka on Sun, 18 Oct 2026.
 
 Gallo is a house and techno artist based in Italy, with 18 gigs on soundcheck across Berlin, Bristol, Glasgow and Mexico City and 4 more. Often billed alongside Kalabrese, Alex Dallas and KAYYAK. Next up: BAR Inc, Osaka on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ Gallo is a house and techno artist based in Italy, with 18 gigs on soundcheck ac
 
 Kalabrese, Alex Dallas, KAYYAK
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gallo/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gallo/)*

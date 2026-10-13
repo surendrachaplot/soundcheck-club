@@ -1,6 +1,6 @@
 # EQUISS
 
-EQUISS is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Home Sweet Home, New York City on Sun, 18 Oct 2026.
+EQUISS is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Home Sweet Home, New York City on Sun, 18 Oct 2026.
 
 EQUISS is a club and techno artist based in United States of America, with 80 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 18 more. Often billed alongside OSSX, ELISE (US) and Bok Bok. Next up: Home Sweet Home, New York City on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ EQUISS is a club and techno artist based in United States of America, with 80 gi
 
 OSSX, ELISE (US), Bok Bok
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/equiss/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/equiss/)*

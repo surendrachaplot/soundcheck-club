@@ -1,6 +1,6 @@
 # Blackmoonchild
 
-Blackmoonchild is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Periodicals, Detroit on Thu, 15 Oct 2026.
+Blackmoonchild is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Periodicals, Detroit on Thu, 15 Oct 2026.
 
 Blackmoonchild is a techno and house artist based in United States of America, with 70 gigs on soundcheck across Berlin, Chicago, Detroit and Los Angeles and 3 more. Often billed alongside AK (US), DJ Etta (US) and The AM/AMX. Next up: Periodicals, Detroit on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Blackmoonchild is a techno and house artist based in United States of America, w
 
 AK (US), DJ Etta (US), The AM/AMX
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmoonchild/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmoonchild/)*

@@ -1,6 +1,6 @@
 # Northern Lights Lounge
 
-Northern Lights Lounge is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "E L I X I R • DR. Disko Dust aka John Ryan • Nick Kothari aka Phunhouse" on Thu, 15 Oct 2026.
+Northern Lights Lounge is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "E L I X I R • DR. Disko Dust aka John Ryan • Nick Kothari aka Phunhouse" on Thu, 15 Oct 2026.
 
 Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including DR. Disko Dust, Dru Allan, Mister Joshooa and Nick Kothari and 1 more. See dates, start times and who's playing. 660 W. Baltimore Street; Detroit, MI 48202; United States.
 
@@ -15,4 +15,4 @@ Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 2 upcom
 
 660 W. Baltimore Street; Detroit, MI 48202; United States, Detroit
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*

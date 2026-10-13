@@ -1,6 +1,6 @@
 # Nomads
 
-Nomads is a Disco and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at export, Rotterdam on Fri, 23 Oct 2026.
+Nomads is a Disco and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at export, Rotterdam on Fri, 23 Oct 2026.
 
 Nomads is a disco and afrobeat artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam, Barcelona and Rotterdam. Often billed alongside Adria (ES), DJ Klapsalon and Dj Almelo. Next up: export, Rotterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Nomads is a disco and afrobeat artist based in Netherlands, with 12 gigs on soun
 
 Adria (ES), DJ Klapsalon, Dj Almelo
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nomads/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nomads/)*

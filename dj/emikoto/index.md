@@ -1,6 +1,6 @@
 # Emi Koto
 
-Emi Koto is a Electronica and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Mondo, Madrid on Thu, 15 Oct 2026.
+Emi Koto is a Electronica and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Mondo, Madrid on Thu, 15 Oct 2026.
 
 Emi Koto is an electronica and electro artist based in Spain, with 23 gigs on soundcheck across Madrid. Often billed alongside Certain People, Le Nomad and Arque. Next up: Mondo, Madrid on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Emi Koto is an electronica and electro artist based in Spain, with 23 gigs on so
 
 Certain People, Le Nomad, Arque
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emikoto/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emikoto/)*

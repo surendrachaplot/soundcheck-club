@@ -1,6 +1,6 @@
 # NEU
 
-NEU is a music venue in Stockholm with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Doof at Neu" on Fri, 16 Oct 2026.
+NEU is a music venue in Stockholm with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Doof at Neu" on Fri, 16 Oct 2026.
 
 NEU is a music venue in Stockholm listed on soundcheck. 8 upcoming gigs, with line-ups including Adellic, Ajaks, Alexi Delano and Alonso Lozano and 2 more. See dates, start times and who's playing. Näckströmsgatan 8, 111 47, Stockholm. Sweden.
 
@@ -21,4 +21,4 @@ NEU is a music venue in Stockholm listed on soundcheck. 8 upcoming gigs, with li
 
 Näckströmsgatan 8, 111 47, Stockholm. Sweden, Stockholm
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/neu/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/neu/)*

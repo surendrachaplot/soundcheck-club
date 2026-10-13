@@ -1,6 +1,6 @@
 # Big Cee
 
-Big Cee is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at St Thomas of Canterbury Episcopal Church, Los Angeles on Sat, 17 Oct 2026.
+Big Cee is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at St Thomas of Canterbury Episcopal Church, Los Angeles on Sat, 17 Oct 2026.
 
 Big Cee is a house and deep house artist based in United States of America, with 17 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside Marques Wyatt, Anton Tumas and Bollo. Next up: St Thomas of Canterbury Episcopal Church, Los Angeles on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Big Cee is a house and deep house artist based in United States of America, with
 
 Marques Wyatt, Anton Tumas, Bollo
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigcee/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigcee/)*

@@ -1,6 +1,6 @@
 # Neptune
 
-Neptune is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at elipamanoke, Leipzig on Sat, 7 Nov 2026.
+Neptune is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at elipamanoke, Leipzig on Sat, 7 Nov 2026.
 
 Neptune is a techno and industrial artist based in Germany, with 6 gigs on soundcheck across Berlin, Frankfurt and Leipzig. Often billed alongside NACHTIGALL, SPLINTER and itsadisasta. Next up: elipamanoke, Leipzig on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Neptune is a techno and industrial artist based in Germany, with 6 gigs on sound
 
 NACHTIGALL, SPLINTER (2), itsadisasta
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neptune/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neptune/)*

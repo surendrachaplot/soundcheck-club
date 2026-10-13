@@ -1,6 +1,6 @@
 # ninasupsa
 
-ninasupsa is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Bassiani, Tbilisi on Fri, 6 Nov 2026.
+ninasupsa is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Bassiani, Tbilisi on Fri, 6 Nov 2026.
 
 ninasupsa is an experimental and techno artist, with 22 gigs on soundcheck across Amsterdam, Berlin, London and Tbilisi. Often billed alongside HVL, Hamatsuki and Ndrx. Next up: Bassiani, Tbilisi on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ ninasupsa is an experimental and techno artist, with 22 gigs on soundcheck acros
 
 HVL, Hamatsuki, Ndrx
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninasupsa/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninasupsa/)*

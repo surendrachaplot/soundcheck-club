@@ -1,6 +1,6 @@
 # La Rumba
 
-La Rumba is a House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Electric Studios, Sheffield on Fri, 6 Nov 2026.
+La Rumba is a House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Electric Studios, Sheffield on Fri, 6 Nov 2026.
 
 La Rumba is a house and afrobeat artist based in United Kingdom, with 48 gigs on soundcheck across Edinburgh, Glasgow, Leeds and North and 1 more. Often billed alongside Dele Sosimi, MYNA and SNO (UK). Next up: Electric Studios, Sheffield on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ La Rumba is a house and afrobeat artist based in United Kingdom, with 48 gigs on
 
 Dele Sosimi, MYNA, SNO (UK)
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larumba/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larumba/)*

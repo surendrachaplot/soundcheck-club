@@ -1,6 +1,6 @@
 # KinoKo
 
-KinoKo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at OST, Berlin on Sat, 17 Oct 2026.
+KinoKo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at OST, Berlin on Sat, 17 Oct 2026.
 
 KinoKo is a techno and house artist based in Israel, with 20 gigs on soundcheck across Berlin, Brussels, Osaka and Prague and 2 more. Often billed alongside Baikamo, Burnhard and Hekuli. Next up: OST, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ KinoKo is a techno and house artist based in Israel, with 20 gigs on soundcheck 
 
 Baikamo, Burnhard, Hekuli
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinoko/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinoko/)*

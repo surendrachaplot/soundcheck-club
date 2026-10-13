@@ -1,6 +1,6 @@
 # Deluxe Ultra
 
-Deluxe Ultra is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - ADDRESS SENT TO TICKET HOLDERS BEFORE SHOW, Philadelphia on Fri, 16 Oct 2026.
+Deluxe Ultra is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - ADDRESS SENT TO TICKET HOLDERS BEFORE SHOW, Philadelphia on Fri, 16 Oct 2026.
 
 Deluxe Ultra is a house and techno artist based in United States of America, with 20 gigs on soundcheck across Philadelphia. Often billed alongside hopifer, Firestone and GorpoPap. Next up: TBA - ADDRESS SENT TO TICKET HOLDERS BEFORE SHOW, Philadelphia on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Deluxe Ultra is a house and techno artist based in United States of America, wit
 
 hopifer, Firestone, GorpoPap
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deluxeultra/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deluxeultra/)*

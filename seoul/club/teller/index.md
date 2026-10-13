@@ -1,6 +1,6 @@
 # teller
 
-teller is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Invites Timur Basha" on Fri, 16 Oct 2026.
+teller is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Invites Timur Basha" on Fri, 16 Oct 2026.
 
 teller is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including .2ndfloor, Acidwork, Dakim and Jesse You and 2 more. See dates, start times and who's playing. B1, 39, Usadan-ro, Yongsan-gu, Seoul.
 
@@ -16,4 +16,4 @@ teller is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with lin
 
 B1, 39, Usadan-ro, Yongsan-gu, Seoul, Seoul
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/teller/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/teller/)*

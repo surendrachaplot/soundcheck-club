@@ -1,6 +1,6 @@
 # Fischio
 
-Fischio is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Fischio presents Mino Luchena" on Sat, 17 Oct 2026.
+Fischio is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Fischio presents Mino Luchena" on Sat, 17 Oct 2026.
 
 Fischio is a music venue in Rome listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Piazzale degli Eroi, 00136 Roma RM.
 
@@ -15,4 +15,4 @@ Fischio is a music venue in Rome listed on soundcheck. 2 upcoming gigs. See date
 
 Piazzale degli Eroi, 00136 Roma RM, Rome
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/fischio/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/fischio/)*

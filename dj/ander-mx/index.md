@@ -1,6 +1,6 @@
 # Andër
 
-Andër is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Bar Espina, Tijuana on Sat, 24 Oct 2026.
+Andër is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Bar Espina, Tijuana on Sat, 24 Oct 2026.
 
 Andër is a house and minimal artist based in Mexico, with 11 gigs on soundcheck across Los Angeles, Mexico City, San Diego and Tijuana. Often billed alongside Oboe, Pily and ALKMST. Next up: Bar Espina, Tijuana on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Andër is a house and minimal artist based in Mexico, with 11 gigs on soundcheck
 
 Oboe (2), Pily (2), ALKMST
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ander-mx/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ander-mx/)*

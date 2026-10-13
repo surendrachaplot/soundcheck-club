@@ -1,6 +1,6 @@
 # Worldpeace DMT
 
-Worldpeace DMT is a Experimental and New Wave artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Botanique, Brussels on Sun, 1 Nov 2026.
+Worldpeace DMT is a Experimental and New Wave artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Botanique, Brussels on Sun, 1 Nov 2026.
 
 Worldpeace DMT is an experimental and new wave artist based in United Kingdom, with 14 gigs on soundcheck across Brussels, Glasgow, Krakow and Leeds and 5 more. Often billed alongside DJ Plead, DJ Python and JASSS. Next up: Botanique, Brussels on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Worldpeace DMT is an experimental and new wave artist based in United Kingdom, w
 
 DJ Plead, DJ Python, JASSS
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/worldpeacedmt/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/worldpeacedmt/)*

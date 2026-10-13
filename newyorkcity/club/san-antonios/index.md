@@ -1,8 +1,8 @@
 # San Antonios
 
-San Antonios is a music venue in New York City with 85 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Reggaeton on Houston - Latin & Reggaeton Party NYC" on Thu, 15 Oct 2026.
+San Antonios is a music venue in New York City with 86 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Reggaeton on Houston - Latin & Reggaeton Party NYC" on Thu, 15 Oct 2026.
 
-San Antonios is a music venue in New York City listed on soundcheck. 85 upcoming gigs. See dates, start times and who's playing. 247 Eldridge St, New York, NY 10002, US.
+San Antonios is a music venue in New York City listed on soundcheck. 86 upcoming gigs. See dates, start times and who's playing. 247 Eldridge St, New York, NY 10002, US.
 
 ## What's on
 
@@ -23,4 +23,4 @@ San Antonios is a music venue in New York City listed on soundcheck. 85 upcoming
 
 247 Eldridge St, New York, NY 10002, US, New York City
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/san-antonios/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/san-antonios/)*

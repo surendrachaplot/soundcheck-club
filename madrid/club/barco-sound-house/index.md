@@ -1,6 +1,6 @@
 # Barco Sound House
 
-Barco Sound House is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Wally López x Barco" on Thu, 15 Oct 2026.
+Barco Sound House is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Wally López x Barco" on Thu, 15 Oct 2026.
 
 Barco Sound House is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, with line-ups including Abity, Anzhio, DJ F (ES) and Lopezhouse_live and 2 more. See dates, start times and who's playing. Calle del Barco, 34, 28004 Madrid, España.
 
@@ -16,4 +16,4 @@ Barco Sound House is a music venue in Madrid listed on soundcheck. 3 upcoming gi
 
 Calle del Barco, 34, 28004 Madrid, España, Madrid
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/barco-sound-house/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/barco-sound-house/)*

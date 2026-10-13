@@ -1,6 +1,6 @@
 # Night & Day: Anthony Rother Hybrid, Ken Ishii, KYRUH, Mike Parker, Mr.Murray at Signal
 
-Night & Day: Anthony Rother Hybrid, Ken Ishii, KYRUH, Mike Parker, Mr.Murray at Signal on Fri 23 Oct, New York City. 9 artists: Anthony Rother, Gino, Jay Prouty and Ken Ishii and 5 more. See the line-up on soundcheck.
+Night & Day: Anthony Rother Hybrid, Ken Ishii, KYRUH, Mike Parker, Mr.Murray at Signal on Fri 23 Oct, New York City. 9 artists: Anthony Rother, Gino (DET), Jay Prouty and Ken Ishii and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ Night & Day: Anthony Rother Hybrid, Ken Ishii, KYRUH, Mike Parker, Mr.Murray at 
 ## Line-up
 
 - Anthony Rother
-- Gino
+- Gino (DET)
 - Jay Prouty
 - Ken Ishii
 - KYRUH

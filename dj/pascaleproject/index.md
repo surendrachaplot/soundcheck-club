@@ -1,14 +1,15 @@
 # Pascale Project
 
-Pascale Project is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Neukölln, Berlin on Sun, 1 Nov 2026.
+Pascale Project is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Neukölln, Berlin on Sun, 1 Nov 2026.
 
-Pascale Project is a techno and house artist based in Canada, with 87 gigs on soundcheck across Amsterdam, Berlin, Brussels and Budapest and 12 more. Often billed alongside Lia Plutonic, Lis Dalton and Amelia Holt. Next up: TBA - Neukölln, Berlin on Sun 1 Nov.
+Pascale Project is a techno and house artist based in Canada, with 88 gigs on soundcheck across Amsterdam, Berlin, Brussels and Budapest and 12 more. Often billed alongside Lis Dalton, Lia Plutonic and Amelia Holt. Next up: TBA - Neukölln, Berlin on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | TBA - Neukölln | Berlin |
+| Fri, 20 Nov 2026 | Signal | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Pascale Project is a techno and house artist based in Canada, with 87 gigs on so
 
 ## Shares bills with
 
-Lia Plutonic, Lis Dalton, Amelia Holt
+Lis Dalton, Lia Plutonic, Amelia Holt
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pascaleproject/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pascaleproject/)*

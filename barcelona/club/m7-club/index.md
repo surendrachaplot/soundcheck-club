@@ -1,6 +1,6 @@
 # M7 Club
 
-M7 Club is a music venue in Barcelona with 16 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "HARD BOUNCE [Vres & Güti]" on Thu, 15 Oct 2026.
+M7 Club is a music venue in Barcelona with 16 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "HARD BOUNCE [Vres & Güti]" on Thu, 15 Oct 2026.
 
 M7 Club is a music venue in Barcelona listed on soundcheck. 16 upcoming gigs, with line-ups including HANI DAKIN, Adviro, AISHA and ArceX and 2 more. See dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
 
@@ -23,4 +23,4 @@ M7 Club is a music venue in Barcelona listed on soundcheck. 16 upcoming gigs, wi
 
 Carrer de Mèxic, 7, 08004 Barcelona, Spain, Barcelona
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*

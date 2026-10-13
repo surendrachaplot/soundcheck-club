@@ -1,6 +1,6 @@
 # Sam Holland
 
-Sam Holland is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at 77, London on Fri, 20 Nov 2026.
+Sam Holland is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at 77, London on Fri, 20 Nov 2026.
 
 Sam Holland is a house and afro house artist based in United Kingdom, with 6 gigs on soundcheck across Barcelona and London. Often billed alongside Deaf Florists, Piem and Alan Dixon. Next up: 77, London on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ Sam Holland is a house and afro house artist based in United Kingdom, with 6 gig
 
 Deaf Florists, Piem, Alan Dixon
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samholland/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samholland/)*

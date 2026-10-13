@@ -1,6 +1,6 @@
 # Q35 WAREHOUSE
 
-Q35 WAREHOUSE is a music venue in Turin with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Héctor Oaks (Oaks, Kaos /ESP), Andrea Perna (WRD /IT, Mikes (WRD /IT) at Q35 WAREHOUSE" on Sun, 18 Oct 2026.
+Q35 WAREHOUSE is a music venue in Turin with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Héctor Oaks (Oaks, Kaos /ESP), Andrea Perna (WRD /IT, Mikes (WRD /IT) at Q35 WAREHOUSE" on Sun, 18 Oct 2026.
 
 Q35 WAREHOUSE is a music venue in Turin listed on soundcheck. 8 upcoming gigs, with line-ups including Aberra, Daniel Avery, Ellen Allien and Gabber Eleganza and 2 more. See dates, start times and who's playing. Lungo Dora Firenze 131/A.
 
@@ -21,4 +21,4 @@ Q35 WAREHOUSE is a music venue in Turin listed on soundcheck. 8 upcoming gigs, w
 
 Lungo Dora Firenze 131/A, Turin
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/q35-warehouse/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/q35-warehouse/)*

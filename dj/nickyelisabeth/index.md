@@ -1,6 +1,6 @@
 # Nicky Elisabeth
 
-Nicky Elisabeth is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Vittoria Wharf Studio, London on Fri, 16 Oct 2026.
+Nicky Elisabeth is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Vittoria Wharf Studio, London on Fri, 16 Oct 2026.
 
 Nicky Elisabeth is a techno and house artist based in Netherlands, with 88 gigs on soundcheck across Amsterdam, Austin, Basel and Berlin and 21 more. Often billed alongside CRi, Jody Wisternoff and Rezident. Next up: Vittoria Wharf Studio, London on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ Nicky Elisabeth is a techno and house artist based in Netherlands, with 88 gigs 
 
 CRi, Jody Wisternoff, Rezident
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyelisabeth/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyelisabeth/)*

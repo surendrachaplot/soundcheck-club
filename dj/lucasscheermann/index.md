@@ -1,6 +1,6 @@
 # Lucas Scheermann
 
-Lucas Scheermann is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Südpol, Hamburg on Sat, 17 Oct 2026.
+Lucas Scheermann is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Südpol, Hamburg on Sat, 17 Oct 2026.
 
 Lucas Scheermann is an electronic artist, with 5 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Didier Dlb, Antoine Baiser and Arne Zabel. Next up: Südpol, Hamburg on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ Lucas Scheermann is an electronic artist, with 5 gigs on soundcheck across Berli
 
 Didier Dlb, Antoine Baiser, Arne Zabel
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasscheermann/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasscheermann/)*

@@ -1,6 +1,6 @@
 # Âme
 
-Âme is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Studio Club Malaga, Malaga on Sat, 17 Oct 2026.
+Âme is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Studio Club Malaga, Malaga on Sat, 17 Oct 2026.
 
 Âme is a techno and house artist based in Germany, with 370 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 64 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Studio Club Malaga, Malaga on Sat 17 Oct.
 
@@ -36,4 +36,4 @@
 
 Trikk, Jimi Jules, Dixon
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*

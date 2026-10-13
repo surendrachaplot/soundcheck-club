@@ -1,6 +1,6 @@
 # Semprey
 
-Semprey is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at K-Bar Powiśle, Warsaw on Fri, 16 Oct 2026.
+Semprey is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at K-Bar Powiśle, Warsaw on Fri, 16 Oct 2026.
 
 Semprey is a bass and electro artist based in Poland, with 22 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Kitty Sarcasm, Cosaco and KarateKnur. Next up: K-Bar Powiśle, Warsaw on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Semprey is a bass and electro artist based in Poland, with 22 gigs on soundcheck
 
 Kitty Sarcasm, Cosaco, KarateKnur
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/semprey/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/semprey/)*

@@ -1,8 +1,8 @@
 # SGT Pokes
 
-SGT Pokes is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Prospect Building, Bristol on Sat, 17 Oct 2026.
+SGT Pokes is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Prospect Building, Bristol on Sat, 17 Oct 2026.
 
-SGT Pokes is a dubstep and bass artist based in United Kingdom, with 100 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brighton and 10 more. Often billed alongside DUKU, Dub Athlete and Mala. Next up: The Prospect Building, Bristol on Sat 17 Oct.
+SGT Pokes is a dubstep and bass artist based in United Kingdom, with 101 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brighton and 10 more. Often billed alongside DUKU, Dub Athlete and Mala. Next up: The Prospect Building, Bristol on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ SGT Pokes is a dubstep and bass artist based in United Kingdom, with 100 gigs on
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | The Prospect Building | Bristol |
 | Sat, 17 Oct 2026 | DRUMSHEDS | London |
+| Sat, 12 Dec 2026 | Village Underground | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ SGT Pokes is a dubstep and bass artist based in United Kingdom, with 100 gigs on
 
 DUKU, Dub Athlete, Mala
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sgtpokes/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sgtpokes/)*

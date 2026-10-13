@@ -1,6 +1,6 @@
 # enem
 
-enem is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Sigma, Ibiza on Thu, 15 Oct 2026.
+enem is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Sigma, Ibiza on Thu, 15 Oct 2026.
 
 enem is a house and techno artist based in Argentina, with 39 gigs on soundcheck across Barcelona, Buenos Aires, Ibiza and Madrid and 1 more. Often billed alongside Aleski, Mariano Cima and Chino Latino. Next up: Sigma, Ibiza on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ enem is a house and techno artist based in Argentina, with 39 gigs on soundcheck
 
 Aleski, Mariano Cima, Chino Latino
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enem/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enem/)*

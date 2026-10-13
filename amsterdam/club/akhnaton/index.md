@@ -1,8 +1,8 @@
 # Akhnaton
 
-Akhnaton is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Let Techno Unite ADE 2026" on Wed, 21 Oct 2026.
+Akhnaton is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Let Techno Unite ADE 2026" on Wed, 21 Oct 2026.
 
-Akhnaton is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Alex O'Rion, Alísha, AMYMI MUSICA and Anthony Rhino and 2 more. See dates, start times and who's playing. Nieuwezijds Kolk 25, 1012 PV Amsterdam.
+Akhnaton is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Alex O'Rion, Alísha, AMYMI MUSICA and Anthony Rhino and 2 more. See dates, start times and who's playing. Nieuwezijds Kolk 25, 1012 PV Amsterdam.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Akhnaton is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, wi
 | Wed, 21 Oct 2026 | Let Techno Unite ADE 2026 | AMYMI MUSICA, BALAI, DJ Perroz, EVNTHZN, Noisy Shaun, Rein (NL), RobertS (NL) |
 | Thu, 22 Oct 2026 | Meanwhile x Solis Labelshowcase ADE | Alex O'Rion, Anthony Rhino, Dowden, Kasper Koman, Nicolas Rada, Subandrio |
 | Fri, 23 Oct 2026 | MOOV - ADE Edition | Aubrey Fry, Kebin van Reeken, Miss Dominguez, Nicholas Van Orton, Rauschhaus, Tash, Tiefstone, W&DY, Weird Sounding Dude |
+| Fri, 23 Oct 2026 | Dualis Records & Zenobius Records present | MEERA (UK) |
 | Sat, 24 Oct 2026 | GOESTING ADE Showcase 2026 | Alísha, Baliology, DJ Ruby, Kostya Outta, NOIYSE PROJECT, Pole Folder, Yvo J |
 | Sat, 24 Oct 2026 | UND3RT3MPL3 x Musique de Lune present Pole Folder | Danae (NL), David J Newton, Jaap Ligthart, Oscar Rosmano, Pole Folder, Tom Banner |
 
@@ -18,4 +19,4 @@ Akhnaton is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, wi
 
 Nieuwezijds Kolk 25, 1012 PV Amsterdam, Amsterdam
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/akhnaton/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/akhnaton/)*

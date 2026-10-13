@@ -1,6 +1,6 @@
 # Lilian
 
-Lilian is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Runner Up Rooftop Bar, Melbourne on Sun, 25 Oct 2026.
+Lilian is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Runner Up Rooftop Bar, Melbourne on Sun, 25 Oct 2026.
 
 Lilian is a house and techno artist based in Australia, with 81 gigs on soundcheck across Barcelona, Berlin, Bristol and Hamburg and 4 more. Often billed alongside Boogs, Matteo Freyrie and Spacey Space. Next up: Runner Up Rooftop Bar, Melbourne on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Lilian is a house and techno artist based in Australia, with 81 gigs on soundche
 
 Boogs, Matteo Freyrie, Spacey Space
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilian/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilian/)*

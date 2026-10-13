@@ -1,6 +1,6 @@
 # 0mSv
 
-0mSv is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Triangle, Osaka on Fri, 30 Oct 2026.
+0mSv is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Triangle, Osaka on Fri, 30 Oct 2026.
 
 0mSv is a bass and drum & bass artist, with 6 gigs on soundcheck across Osaka. Often billed alongside kakepon, CHISE and SAKO. Next up: Triangle, Osaka on Fri 30 Oct.
 
@@ -22,4 +22,4 @@
 
 kakepon, CHISE, SAKO
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/0msv/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/0msv/)*

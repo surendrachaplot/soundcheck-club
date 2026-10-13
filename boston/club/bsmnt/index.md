@@ -1,6 +1,6 @@
 # Bsmnt
 
-Bsmnt is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Marco Strous" on Sat, 17 Oct 2026.
+Bsmnt is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Marco Strous" on Sat, 17 Oct 2026.
 
 Bsmnt is a music venue in Boston listed on soundcheck. 2 upcoming gigs, with line-ups including Kasia (OFC) and Marco Strous. See dates, start times and who's playing. 100 stuart st, boston, ma.
 
@@ -15,4 +15,4 @@ Bsmnt is a music venue in Boston listed on soundcheck. 2 upcoming gigs, with lin
 
 100 stuart st, boston, ma, Boston
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/bsmnt/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/bsmnt/)*

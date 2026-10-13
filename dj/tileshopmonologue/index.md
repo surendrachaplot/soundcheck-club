@@ -1,6 +1,6 @@
 # Tile Shop Monologue
 
-Tile Shop Monologue is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at QQQ ST. Park, Melbourne on Fri, 16 Oct 2026.
+Tile Shop Monologue is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at QQQ ST. Park, Melbourne on Fri, 16 Oct 2026.
 
 Tile Shop Monologue is a techno and acid artist based in Taiwan, with 6 gigs on soundcheck across Melbourne and Milan. Often billed alongside Bubbling, Cr鉻 and DÅwN. Next up: QQQ ST. Park, Melbourne on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Tile Shop Monologue is a techno and acid artist based in Taiwan, with 6 gigs on 
 
 Bubbling, Cr鉻, DÅwN
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tileshopmonologue/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tileshopmonologue/)*

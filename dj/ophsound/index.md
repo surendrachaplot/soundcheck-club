@@ -1,6 +1,6 @@
 # OPH
 
-OPH is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at FVTVR, Paris on Sat, 17 Oct 2026.
+OPH is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at FVTVR, Paris on Sat, 17 Oct 2026.
 
 OPH is a techno and house artist based in France, with 43 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 10 more. Often billed alongside Chami, Blasha & Allatt and Mary Yuzovskaya. Next up: FVTVR, Paris on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ OPH is a techno and house artist based in France, with 43 gigs on soundcheck acr
 
 Chami, Blasha & Allatt, Mary Yuzovskaya
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ophsound/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ophsound/)*

@@ -1,6 +1,6 @@
 # Ellen Trenn
 
-Ellen Trenn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at RAWFACTORY, Amsterdam on Fri, 23 Oct 2026.
+Ellen Trenn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at RAWFACTORY, Amsterdam on Fri, 23 Oct 2026.
 
 Ellen Trenn is a techno and house artist based in Germany, with 31 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Cologne and 9 more. Often billed alongside Flour, BLONDEX and DJ SeXex. Next up: RAWFACTORY, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Ellen Trenn is a techno and house artist based in Germany, with 31 gigs on sound
 
 Flour, BLONDEX, DJ SeXex
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellentrenn/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellentrenn/)*

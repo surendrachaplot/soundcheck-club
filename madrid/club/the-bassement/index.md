@@ -1,6 +1,6 @@
 # The Bassement
 
-The Bassement is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "DVRKSUN MADRID ROUND 2" on Thu, 15 Oct 2026.
+The Bassement is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "DVRKSUN MADRID ROUND 2" on Thu, 15 Oct 2026.
 
 The Bassement is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including Alarico, Alputo, Alviker and Anthony Godfather and 2 more. See dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
 
@@ -22,4 +22,4 @@ The Bassement is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, 
 
 C. de Galileo, 2628015 Madrid, Madrid
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*

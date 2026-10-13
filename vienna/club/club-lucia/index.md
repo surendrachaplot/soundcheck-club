@@ -1,6 +1,6 @@
 # Club Lucia
 
-Club Lucia is a music venue in Vienna with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "innig X Ninecircles" on Fri, 16 Oct 2026.
+Club Lucia is a music venue in Vienna with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "innig X Ninecircles" on Fri, 16 Oct 2026.
 
 Club Lucia is a music venue in Vienna listed on soundcheck. 6 upcoming gigs, with line-ups including Bluest, Chiara Allnutt, Silentsevir and Trugbild and 1 more. See dates, start times and who's playing. Stadtbahnbögen 24/25 (U6 Thaliastraße) 1080 Vienna.
 
@@ -19,4 +19,4 @@ Club Lucia is a music venue in Vienna listed on soundcheck. 6 upcoming gigs, wit
 
 Stadtbahnbögen 24/25 (U6 Thaliastraße) 1080 Vienna, Vienna
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-lucia/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-lucia/)*

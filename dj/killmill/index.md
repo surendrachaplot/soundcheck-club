@@ -1,6 +1,6 @@
 # Kill/Mill
 
-Kill/Mill is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 24 Oct 2026.
+Kill/Mill is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 24 Oct 2026.
 
 Kill/Mill is a techno and tech house artist, with 7 gigs on soundcheck across Melbourne. Often billed alongside Andrea Guadalupi, GavWhitehouse and Ophelie Mercury. Next up: Revolver Upstairs, Melbourne on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Kill/Mill is a techno and tech house artist, with 7 gigs on soundcheck across Me
 
 Andrea Guadalupi, GavWhitehouse, Ophelie Mercury
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/killmill/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/killmill/)*

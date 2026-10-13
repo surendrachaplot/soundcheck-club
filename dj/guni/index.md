@@ -1,6 +1,6 @@
 # GUNI
 
-GUNI is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Deep Green, Thailand on Sat, 31 Oct 2026.
+GUNI is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Deep Green, Thailand on Sat, 31 Oct 2026.
 
 GUNI is a techno and garage artist based in Thailand, with 34 gigs on soundcheck across Bangkok, Thailand and Warsaw. Often billed alongside Em-J, LOMOROOM and MOONBLUE. Next up: Deep Green, Thailand on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ GUNI is a techno and garage artist based in Thailand, with 34 gigs on soundcheck
 
 Em-J, LOMOROOM, MOONBLUE
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guni/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guni/)*

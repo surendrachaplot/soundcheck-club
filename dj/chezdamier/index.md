@@ -1,6 +1,6 @@
 # Chez Damier
 
-Chez Damier is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 13 Nov 2026.
+Chez Damier is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 13 Nov 2026.
 
 Chez Damier is a house and techno artist based in United States of America, with 151 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside Eddie Leader, DJ Deep and Dennis Ferrer. Next up: MIDNIGHT EAST, Tokyo on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Chez Damier is a house and techno artist based in United States of America, with
 
 Eddie Leader, DJ Deep, Dennis Ferrer
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*

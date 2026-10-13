@@ -1,6 +1,6 @@
 # Shed
 
-Shed is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at TRANSMISSION DC, Washington DC on Thu, 15 Oct 2026.
+Shed is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at TRANSMISSION DC, Washington DC on Thu, 15 Oct 2026.
 
 Shed is a techno and house artist based in Germany, with 44 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Head High, Skee Mask and CCL. Next up: TRANSMISSION DC, Washington DC on Thu 15 Oct.
 
@@ -29,4 +29,4 @@ Shed is a techno and house artist based in Germany, with 44 gigs on soundcheck a
 
 Head High, Skee Mask, CCL
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shed/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shed/)*

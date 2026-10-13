@@ -1,6 +1,6 @@
 # Daizy
 
-Daizy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Daizy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Daizy is a techno and house artist based in United States of America, with 36 gigs on soundcheck across Athens, Los Angeles, Medellin and Miami and 2 more. Often billed alongside Max Stern, Bakke and Cole Knight. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Daizy is a techno and house artist based in United States of America, with 36 gi
 
 Max Stern, Bakke, Cole Knight
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daizy/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daizy/)*

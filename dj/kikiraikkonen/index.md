@@ -1,6 +1,6 @@
 # Kiki Raikkonen
 
-Kiki Raikkonen is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
+Kiki Raikkonen is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
 
 Kiki Raikkonen is a techno and trance artist, with 6 gigs on soundcheck across Ho Chi Minh City and Paris. Often billed alongside Andy Pi, Anh Vy and Apocalypse Nao. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
 
@@ -22,4 +22,4 @@ Kiki Raikkonen is a techno and trance artist, with 6 gigs on soundcheck across H
 
 Andy Pi, Anh Vy, Apocalypse Nao
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kikiraikkonen/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kikiraikkonen/)*

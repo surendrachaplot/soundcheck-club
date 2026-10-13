@@ -1,6 +1,6 @@
 # Morse X Code
 
-Morse X Code is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Entrepôts Dominion, Les, Montreal on Sat, 31 Oct 2026.
+Morse X Code is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Entrepôts Dominion, Les, Montreal on Sat, 31 Oct 2026.
 
 Morse X Code are a techno and deep house duo based in United States of America, with 6 gigs on soundcheck across London, Miami, Montreal and Washington DC. Often billed alongside ANTIMATTER, ARMIX and Alexander Technique. Next up: Entrepôts Dominion, Les, Montreal on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Morse X Code are a techno and deep house duo based in United States of America, 
 
 ANTIMATTER, ARMIX, Alexander Technique
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morsexcode/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morsexcode/)*

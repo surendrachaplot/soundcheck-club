@@ -1,8 +1,8 @@
 # Andy Garvey
 
-Andy Garvey is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 17 Oct 2026.
+Andy Garvey is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 17 Oct 2026.
 
-Andy Garvey is a techno and trance artist based in Australia, with 97 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 23 more. Often billed alongside DJ Scorpion, Konduku and Mama Snake. Next up: RSO.BERLIN, Berlin on Sat 17 Oct.
+Andy Garvey is a techno and trance artist based in Australia, with 98 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 23 more. Often billed alongside DJ Scorpion, Konduku and Mama Snake. Next up: RSO.BERLIN, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Andy Garvey is a techno and trance artist based in Australia, with 97 gigs on so
 | Sat, 17 Oct 2026 | Gewölbe | Cologne |
 | Fri, 23 Oct 2026 | TILLATEC | Amsterdam |
 | Sat, 24 Oct 2026 | De Fik Garden | Amsterdam |
+| Sat, 24 Oct 2026 | Borisov Amsterdam | Amsterdam |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Andy Garvey is a techno and trance artist based in Australia, with 97 gigs on so
 
 DJ Scorpion, Konduku, Mama Snake
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andygarvey/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andygarvey/)*

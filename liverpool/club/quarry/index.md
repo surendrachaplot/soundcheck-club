@@ -1,6 +1,6 @@
 # Quarry
 
-Quarry is a music venue in Liverpool with 14 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Makeshift Art Bar + Special Guests at Quarry" on Thu, 15 Oct 2026.
+Quarry is a music venue in Liverpool with 14 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Makeshift Art Bar + Special Guests at Quarry" on Thu, 15 Oct 2026.
 
 Quarry is a music venue in Liverpool listed on soundcheck. 14 upcoming gigs, with line-ups including Hannah Holland, Heka, Jacinta and Or:la and 2 more. See dates, start times and who's playing. 45 Hardman St, Liverpool L1 9AS.
 
@@ -23,4 +23,4 @@ Quarry is a music venue in Liverpool listed on soundcheck. 14 upcoming gigs, wit
 
 45 Hardman St, Liverpool L1 9AS, Liverpool
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/quarry/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/quarry/)*

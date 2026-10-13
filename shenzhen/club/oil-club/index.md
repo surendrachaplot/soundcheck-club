@@ -1,15 +1,15 @@
 # OIL Club
 
-OIL Club is a music venue in Shenzhen with 12 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "交流方式北京模块节2026预热派对" on Thu, 15 Oct 2026.
+OIL Club is a music venue in Shenzhen with 13 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "交流方式北京模块节2026预热派对" on Thu, 15 Oct 2026.
 
-OIL Club is a music venue in Shenzhen listed on soundcheck. 12 upcoming gigs, with line-ups including Alion, Beibeilon, DJ 86 and Evian Christ and 2 more. See dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
+OIL Club is a music venue in Shenzhen listed on soundcheck. 13 upcoming gigs, with line-ups including Alion, Beibeilon, DJ 86 and Evian Christ and 2 more. See dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | 交流方式北京模块节2026预热派对 | SPEKT2, SPOTLITE |
-| Fri, 16 Oct 2026 | 晚酒朝舞：Partok | Partok, Sirens, Sulk |
+| Fri, 16 Oct 2026 | 晚酒朝舞：Partok | Mohemann, Partok, Sirens, Sulk |
 | Sat, 17 Oct 2026 | OIL Pres. Evian Christ | DJ 86, Evian Christ, zzm (2) |
 | Sun, 18 Oct 2026 | Deep Roit vol.2 |  |
 | Thu, 22 Oct 2026 | SiM Pres.舞池杀器 Bass与Techno双修的波兰宝藏制作人Holoe | holoe, meta (CN) |
@@ -23,4 +23,4 @@ OIL Club is a music venue in Shenzhen listed on soundcheck. 12 upcoming gigs, wi
 
 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen, Shenzhen
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*

@@ -1,14 +1,16 @@
 # Ayū (1)
 
-Ayū (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA, Vienna on Sat, 7 Nov 2026.
+Ayū (1) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA, Vienna on Sat, 7 Nov 2026.
 
-Ayū is a techno and house artist based in Germany, with 12 gigs on soundcheck across Berlin, Hobart, Melbourne and Porto and 2 more. Often billed alongside Alfred Czital, Georgia Bird and Yan (CZ). Next up: TBA, Vienna on Sat 7 Nov.
+Ayū is a techno and trance artist based in Germany, with 14 gigs on soundcheck across Berlin, Hobart, Melbourne and Porto and 2 more. Often billed alongside Alfred Czital, Georgia Bird and Yan (CZ). Next up: TBA, Vienna on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | TBA | Vienna |
+| Sat, 5 Dec 2026 | OHM | Berlin |
+| Fri, 18 Dec 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Ayū is a techno and house artist based in Germany, with 12 gigs on soundcheck a
 
 Alfred Czital, Georgia Bird, Yan (CZ)
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayu-1/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayu-1/)*

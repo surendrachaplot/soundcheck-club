@@ -1,6 +1,6 @@
 # Lis Sarroca
 
-Lis Sarroca is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Nido Marseille, Marseille on Sat, 17 Oct 2026.
+Lis Sarroca is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Nido Marseille, Marseille on Sat, 17 Oct 2026.
 
 Lis Sarroca is a house and techno artist based in Spain, with 99 gigs on soundcheck across Barcelona, Berlin, Brussels and Buenos Aires and 20 more. Often billed alongside Mari.te, Vince Void and Mejia. Next up: Nido Marseille, Marseille on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Lis Sarroca is a house and techno artist based in Spain, with 99 gigs on soundch
 
 Mari.te, Vince Void, Mejia
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lissarroca/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lissarroca/)*

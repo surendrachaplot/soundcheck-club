@@ -1,6 +1,6 @@
 # Koenji Cave
 
-Koenji Cave is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Koenji Cave presents ◎PHANTOM◎ Vol.34" on Fri, 16 Oct 2026.
+Koenji Cave is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Koenji Cave presents ◎PHANTOM◎ Vol.34" on Fri, 16 Oct 2026.
 
 Koenji Cave is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with line-ups including aya, BERLINER KINDL, Bones and CATRONICA and 2 more. See dates, start times and who's playing. 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan.
 
@@ -19,4 +19,4 @@ Koenji Cave is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, wit
 
 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan, Tokyo
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koenji-cave/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koenji-cave/)*

@@ -1,6 +1,6 @@
 # Poseidons
 
-Poseidons is a music venue in Riga with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "UNDERGROUNDBASEMENT_03" on Fri, 16 Oct 2026.
+Poseidons is a music venue in Riga with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "UNDERGROUNDBASEMENT_03" on Fri, 16 Oct 2026.
 
 Poseidons is a music venue in Riga listed on soundcheck. 1 upcoming gig, with line-ups including DV8 (LV), hitomori, Leprosy and maniken05. See dates, start times and who's playing. Peldu iela 26-28, Centra rajons, Rīga, LV-1050.
 
@@ -14,4 +14,4 @@ Poseidons is a music venue in Riga listed on soundcheck. 1 upcoming gig, with li
 
 Peldu iela 26-28, Centra rajons, Rīga, LV-1050, Riga
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/poseidons/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/poseidons/)*

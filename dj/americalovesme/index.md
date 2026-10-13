@@ -1,6 +1,6 @@
 # America Loves Me
 
-America Loves Me is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Val’s Lesbian Bar, Philadelphia on Sat, 17 Oct 2026.
+America Loves Me is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Val’s Lesbian Bar, Philadelphia on Sat, 17 Oct 2026.
 
 America Loves Me is a techno and club artist based in United States of America, with 43 gigs on soundcheck across New York City, Philadelphia and Washington DC. Often billed alongside Angel Jelly, miipmiip and JEWELSSEA. Next up: Val’s Lesbian Bar, Philadelphia on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ America Loves Me is a techno and club artist based in United States of America, 
 
 Angel Jelly, miipmiip, JEWELSSEA
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/americalovesme/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/americalovesme/)*

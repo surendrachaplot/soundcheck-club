@@ -1,6 +1,6 @@
 # BUBUCORE69
 
-BUBUCORE69 is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at H0L0, New York City on Thu, 15 Oct 2026.
+BUBUCORE69 is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at H0L0, New York City on Thu, 15 Oct 2026.
 
 BUBUCORE69 is a techno and hardcore artist based in United States of America, with 16 gigs on soundcheck across Chicago and New York City. Often billed alongside ASTER (DJ), Actual Angel and DJ DITTO.. Next up: H0L0, New York City on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ BUBUCORE69 is a techno and hardcore artist based in United States of America, wi
 
 ASTER (DJ), Actual Angel, DJ DITTO.
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bubucore69/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bubucore69/)*

@@ -1,6 +1,6 @@
 # Munchie
 
-Munchie is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at 桃園玉山街影視基地, Taipei on Sat, 24 Oct 2026.
+Munchie is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at 桃園玉山街影視基地, Taipei on Sat, 24 Oct 2026.
 
 Munchie is a garage and house artist based in Taiwan, with 5 gigs on soundcheck across London and Taipei. Often billed alongside AM, BIFA01 and DJ Listener. Next up: 桃園玉山街影視基地, Taipei on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ Munchie is a garage and house artist based in Taiwan, with 5 gigs on soundcheck 
 
 AM (8), BIFA01, DJ Listener
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munchie/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munchie/)*

@@ -1,6 +1,6 @@
 # SHOKI287
 
-SHOKI287 is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 30 Oct 2026.
+SHOKI287 is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 30 Oct 2026.
 
 SHOKI287 is a techno and trance artist based in Germany, with 92 gigs on soundcheck across Amsterdam, Antwerp, Athens and Augsburg and 24 more. Often billed alongside DJ Cringey, Cleopard2000 and DJ https. Next up: Grelle Forelle, Vienna on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ SHOKI287 is a techno and trance artist based in Germany, with 92 gigs on soundch
 
 DJ Cringey, Cleopard2000, DJ https
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shoki287/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shoki287/)*

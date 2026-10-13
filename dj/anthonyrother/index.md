@@ -1,6 +1,6 @@
 # Anthony Rother
 
-Anthony Rother is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Bassiani, Tbilisi on Fri, 16 Oct 2026.
+Anthony Rother is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Bassiani, Tbilisi on Fri, 16 Oct 2026.
 
 Anthony Rother is a techno and electro artist based in Germany, with 88 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Helena Hauff, Alienata and Asymptote. Next up: Bassiani, Tbilisi on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Anthony Rother is a techno and electro artist based in Germany, with 88 gigs on 
 
 Helena Hauff, Alienata, Asymptote
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyrother/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyrother/)*

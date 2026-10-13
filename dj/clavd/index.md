@@ -1,6 +1,6 @@
 # CLAVD
 
-CLAVD is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at MTW, Frankfurt on Sat, 14 Nov 2026.
+CLAVD is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at MTW, Frankfurt on Sat, 14 Nov 2026.
 
 CLAVD is a techno and bass artist based in Germany, with 6 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Hannover and 1 more. Often billed alongside Tarkan, Alignment and Alphabae. Next up: MTW, Frankfurt on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ CLAVD is a techno and bass artist based in Germany, with 6 gigs on soundcheck ac
 
 Tarkan, Alignment, Alphabae
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clavd/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clavd/)*

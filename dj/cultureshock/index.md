@@ -1,6 +1,6 @@
 # Culture Shock
 
-Culture Shock is a Drum & Bass and Bass artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Brooklyn Storehouse, New York City on Sat, 17 Oct 2026.
+Culture Shock is a Drum & Bass and Bass artist with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Brooklyn Storehouse, New York City on Sat, 17 Oct 2026.
 
 Culture Shock is a drum & bass and bass artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 36 more. Often billed alongside Sub Focus, Dimension and 1991. Next up: Brooklyn Storehouse, New York City on Sat 17 Oct.
 
@@ -30,4 +30,4 @@ Culture Shock is a drum & bass and bass artist based in United Kingdom, with 77 
 
 Sub Focus, Dimension, 1991
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cultureshock/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cultureshock/)*

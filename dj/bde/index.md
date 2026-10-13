@@ -1,6 +1,6 @@
 # BDE
 
-BDE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Revolver Upstairs, Melbourne on Tue, 3 Nov 2026.
+BDE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Revolver Upstairs, Melbourne on Tue, 3 Nov 2026.
 
 BDE is a techno and trance artist based in Australia, with 53 gigs on soundcheck across Melbourne. Often billed alongside CAITY WATSON, Shell Shock and AMY.. Next up: Revolver Upstairs, Melbourne on Tue 3 Nov.
 
@@ -25,4 +25,4 @@ BDE is a techno and trance artist based in Australia, with 53 gigs on soundcheck
 
 CAITY WATSON, Shell Shock, AMY.
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bde/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bde/)*

@@ -1,6 +1,6 @@
 # Tigullio
 
-Tigullio is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "ESCAPE THE MATRIX" on Sat, 17 Oct 2026.
+Tigullio is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "ESCAPE THE MATRIX" on Sat, 17 Oct 2026.
 
 Tigullio is a music venue in Malta listed on soundcheck. 1 upcoming gig, with line-ups including Abdy. See dates, start times and who's playing. Spinola Bay, Stj1161 San Giljan.
 
@@ -14,4 +14,4 @@ Tigullio is a music venue in Malta listed on soundcheck. 1 upcoming gig, with li
 
 Spinola Bay, Stj1161 San Giljan, Malta
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/malta/club/tigullio/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/malta/club/tigullio/)*

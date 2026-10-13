@@ -1,13 +1,14 @@
 # EZA (DE)
 
-EZA (DE) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at OST, Berlin on Fri, 27 Nov 2026.
+EZA (DE) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 16 Oct 2026.
 
-EZA (DE) is a techno and trance artist based in Germany, with 47 gigs on soundcheck across Berlin. Often billed alongside e.leptic, Patchy and Paul Bauhaus. Next up: OST, Berlin on Fri 27 Nov.
+EZA (DE) is a techno and trance artist based in Germany, with 48 gigs on soundcheck across Berlin. Often billed alongside e.leptic, Patchy and Paul Bauhaus. Next up: Lokschuppen Berlin, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 27 Nov 2026 | OST | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ EZA (DE) is a techno and trance artist based in Germany, with 47 gigs on soundch
 
 e.leptic, Patchy, Paul Bauhaus
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eza-de/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eza-de/)*

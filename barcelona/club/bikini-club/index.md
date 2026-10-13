@@ -1,6 +1,6 @@
 # Bikini Club
 
-Bikini Club is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Tunnel x Diffuse Reality presents. Anja Schneider" on Fri, 16 Oct 2026.
+Bikini Club is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Tunnel x Diffuse Reality presents. Anja Schneider" on Fri, 16 Oct 2026.
 
 Bikini Club is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including Agatha Pher, Althoff, Andrea Love and Anja Schneider and 2 more. See dates, start times and who's playing. L'Illia, Avinguda Diagonal, 547, 08029 Barcelona.
 
@@ -21,4 +21,4 @@ Bikini Club is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs,
 
 L'Illia, Avinguda Diagonal, 547, 08029 Barcelona, Barcelona
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bikini-club/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bikini-club/)*

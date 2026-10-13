@@ -1,14 +1,13 @@
 # Münich
 
-Münich is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Porta Romana Area, Milan on Sun, 11 Oct 2026.
+Münich is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Department 184, Milan on Fri, 16 Oct 2026.
 
-Münich is a techno and progressive house artist based in Italy, with 19 gigs on soundcheck across Milan. Often billed alongside Diamantha, MISERIA and M.Vertigo. Next up: TBA - Porta Romana Area, Milan on Sun 11 Oct.
+Münich is a techno and progressive house artist based in Italy, with 19 gigs on soundcheck across Milan. Often billed alongside Diamantha, MISERIA and M.Vertigo. Next up: Department 184, Milan on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | TBA - Porta Romana Area | Milan |
 | Fri, 16 Oct 2026 | Department 184 | Milan |
 
 ## Recently played
@@ -26,4 +25,4 @@ Münich is a techno and progressive house artist based in Italy, with 19 gigs on
 
 Diamantha, MISERIA, M.Vertigo
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munich/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munich/)*

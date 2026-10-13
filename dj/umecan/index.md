@@ -1,6 +1,6 @@
 # UME (CAN)
 
-UME (CAN) is a Acid and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Fairmount Theatre, Montreal on Sat, 31 Oct 2026.
+UME (CAN) is a Acid and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Fairmount Theatre, Montreal on Sat, 31 Oct 2026.
 
 UME (CAN) is an acid and club artist, with 6 gigs on soundcheck across Montreal. Often billed alongside SOBAKA, Boomy and Casa Kobrae. Next up: Fairmount Theatre, Montreal on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ UME (CAN) is an acid and club artist, with 6 gigs on soundcheck across Montreal.
 
 SOBAKA, Boomy, Casa Kobrae
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/umecan/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/umecan/)*

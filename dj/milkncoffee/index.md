@@ -1,13 +1,14 @@
 # Milk N Coffee
 
-Milk N Coffee is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at AMT, Berlin on Fri, 6 Nov 2026.
+Milk N Coffee is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at KitKatClub, Berlin on Mon, 2 Nov 2026.
 
-Milk N Coffee is a techno and tech house artist based in Germany, with 43 gigs on soundcheck across Berlin. Often billed alongside Somaphon, Rene Oldenburg and Somaphon Frequenzfreunde Berlin. Next up: AMT, Berlin on Fri 6 Nov.
+Milk N Coffee is a techno and tech house artist based in Germany, with 44 gigs on soundcheck across Berlin. Often billed alongside Somaphon, Rene Oldenburg and Somaphon Frequenzfreunde Berlin. Next up: KitKatClub, Berlin on Mon 2 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 2 Nov 2026 | KitKatClub | Berlin |
 | Fri, 6 Nov 2026 | AMT | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Milk N Coffee is a techno and tech house artist based in Germany, with 43 gigs o
 
 Somaphon, Rene Oldenburg, Somaphon Frequenzfreunde Berlin
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milkncoffee/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milkncoffee/)*

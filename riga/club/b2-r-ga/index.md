@@ -1,6 +1,6 @@
 # B2 Rīga
 
-B2 Rīga is a music venue in Riga with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "FILTER 6YR W Diego Krause [DE]" on Fri, 16 Oct 2026.
+B2 Rīga is a music venue in Riga with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "FILTER 6YR W Diego Krause [DE]" on Fri, 16 Oct 2026.
 
 B2 Rīga is a music venue in Riga listed on soundcheck. 7 upcoming gigs, with line-ups including Alaburda, Balmishev, Diego Krause and D I N and 2 more. See dates, start times and who's playing. Bruņinieku iela 2, Rīga.
 
@@ -20,4 +20,4 @@ B2 Rīga is a music venue in Riga listed on soundcheck. 7 upcoming gigs, with li
 
 Bruņinieku iela 2, Rīga, Riga
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*

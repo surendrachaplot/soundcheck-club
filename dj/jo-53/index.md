@@ -1,6 +1,6 @@
 # jo (53)
 
-jo (53) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 7 Nov 2026.
+jo (53) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 7 Nov 2026.
 
 jo is a techno and bass artist based in Japan, with 17 gigs on soundcheck across Milan and Tokyo. Often billed alongside manato, Usk° and Lynta. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ jo is a techno and bass artist based in Japan, with 17 gigs on soundcheck across
 
 manato, Usk°, Lynta
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jo-53/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jo-53/)*

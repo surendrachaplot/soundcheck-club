@@ -1,6 +1,6 @@
 # Ninajirachi at Radius
 
-Ninajirachi at Radius on Sun 10 Jan, Chicago. 1 artist: Ninajirachi. See the line-up on soundcheck.
+Ninajirachi at Radius on Sun 10 Jan, Chicago. 1 artist: Ninajirachi. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DJ Ray
 
-DJ Ray is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Spkrbox, Detroit on Tue, 13 Oct 2026.
+DJ Ray is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Spkrbox, Detroit on Tue, 13 Oct 2026.
 
 DJ Ray is a house and baile funk artist based in Spain, with 21 gigs on soundcheck across Amsterdam, Detroit, Glasgow and Lisbon and 4 more. Often billed alongside Bakke, Coffintexts and Liquid J. Next up: Spkrbox, Detroit on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ DJ Ray is a house and baile funk artist based in Spain, with 21 gigs on soundche
 
 Bakke, Coffintexts, Liquid J
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djray/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djray/)*

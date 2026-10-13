@@ -1,6 +1,6 @@
 # Forest Drive West
 
-Forest Drive West is a Techno and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Strange Brew, Bristol on Sat, 17 Oct 2026.
+Forest Drive West is a Techno and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Strange Brew, Bristol on Sat, 17 Oct 2026.
 
 Forest Drive West is a techno and jungle artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 19 more. Often billed alongside Azu Tiwaline, Rrose and Mantra. Next up: Strange Brew, Bristol on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Forest Drive West is a techno and jungle artist based in United Kingdom, with 60
 
 Azu Tiwaline, Rrose, Mantra
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/forestdrivewest/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/forestdrivewest/)*

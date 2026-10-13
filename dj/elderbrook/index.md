@@ -1,6 +1,6 @@
 # Elderbrook
 
-Elderbrook is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Salon Amador, Medellin on Wed, 14 Oct 2026.
+Elderbrook is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Salon Amador, Medellin on Wed, 14 Oct 2026.
 
 Elderbrook is a house and electro artist based in United Kingdom, with 84 gigs on soundcheck across Austin, Bali, Barcelona and Basel and 35 more. Often billed alongside Cassian, Eli Brown and Boys Noize. Next up: Salon Amador, Medellin on Wed 14 Oct.
 
@@ -26,4 +26,4 @@ Elderbrook is a house and electro artist based in United Kingdom, with 84 gigs o
 
 Cassian, Eli Brown, Boys Noize
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elderbrook/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elderbrook/)*

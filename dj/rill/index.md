@@ -1,6 +1,6 @@
 # Rill
 
-Rill is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Ephik Club, North on Fri, 16 Oct 2026.
+Rill is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Ephik Club, North on Fri, 16 Oct 2026.
 
 Rill is a techno and breakbeat artist based in Germany, with 60 gigs on soundcheck across Berlin, Düsseldorf, Edinburgh and Hamburg and 9 more. Often billed alongside Hang Aoki, Hanna Baertig and Reka Zalan. Next up: Ephik Club, North on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Rill is a techno and breakbeat artist based in Germany, with 60 gigs on soundche
 
 Hang Aoki, Hanna Baertig, Reka Zalan
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rill/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rill/)*

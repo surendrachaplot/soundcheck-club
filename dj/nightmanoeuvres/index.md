@@ -1,6 +1,6 @@
 # NIGHT manoeuvres
 
-NIGHT manoeuvres is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Social, London on Fri, 16 Oct 2026.
+NIGHT manoeuvres is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Social, London on Fri, 16 Oct 2026.
 
 NIGHT manoeuvres is a bass and techno artist based in United Kingdom, with 10 gigs on soundcheck across Athens, Greece, Helsinki and London. Often billed alongside ABSOLUTE., Dot Major and Mia Lily. Next up: The Social, London on Fri 16 Oct.
 
@@ -10,7 +10,7 @@ NIGHT manoeuvres is a bass and techno artist based in United Kingdom, with 10 gi
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | The Social | London |
 | Fri, 30 Oct 2026 | The Social | London |
-| Sat, 19 Dec 2026 | TBA | Greece |
+| Sat, 19 Dec 2026 | Gazarte | Greece |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ NIGHT manoeuvres is a bass and techno artist based in United Kingdom, with 10 gi
 
 ABSOLUTE., Dot Major, Mia Lily
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nightmanoeuvres/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nightmanoeuvres/)*

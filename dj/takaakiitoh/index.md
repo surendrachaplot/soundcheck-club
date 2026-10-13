@@ -1,6 +1,6 @@
 # Takaaki Itoh
 
-Takaaki Itoh is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Cross Club, Prague on Fri, 16 Oct 2026.
+Takaaki Itoh is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Cross Club, Prague on Fri, 16 Oct 2026.
 
 Takaaki Itoh is a techno and house artist based in Japan, with 112 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 33 more. Often billed alongside DANA NADA, DANDAN and Vulkanski. Next up: Cross Club, Prague on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Takaaki Itoh is a techno and house artist based in Japan, with 112 gigs on sound
 
 DANA NADA, DANDAN, Vulkanski
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takaakiitoh/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takaakiitoh/)*

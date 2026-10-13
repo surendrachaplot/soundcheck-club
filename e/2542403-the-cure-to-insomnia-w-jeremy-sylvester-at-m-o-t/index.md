@@ -1,6 +1,6 @@
-# THE CURE TO INSOMNIA w/ Jeremy Sylvester at M.O.T
+# The Cure To Insomnia W/ Jeremy Sylvester at M.O.T
 
-THE CURE TO INSOMNIA w/ Jeremy Sylvester at M.O.T on Thu 15 Oct, London. 6 artists: DJelley, Jack Costello, Jeremy Sylvester and LUX (uk) and 2 more. Techno and House. See the line-up on soundcheck.
+The Cure To Insomnia W/ Jeremy Sylvester at M.O.T on Thu 15 Oct, London. 6 artists: DJelley, Jack Costello, Jeremy Sylvester and LUX (uk) and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Holten
 
-Holten is a Acid and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at migas, a listening bar, Berlin on Fri, 16 Oct 2026.
+Holten is a Acid and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at migas, a listening bar, Berlin on Fri, 16 Oct 2026.
 
 Holten is an acid and disco artist based in Ireland, with 27 gigs on soundcheck across Berlin, Dublin, Ibiza and London and 1 more. Often billed alongside Dar Molloy, Spraoi Mór and Sound Metaphors Djs. Next up: migas, a listening bar, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Holten is an acid and disco artist based in Ireland, with 27 gigs on soundcheck 
 
 Dar Molloy (2), Spraoi Mór, Sound Metaphors Djs
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holten/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holten/)*

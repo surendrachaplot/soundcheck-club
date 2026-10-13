@@ -1,6 +1,6 @@
 # ALEA at Hope House
 
-ALEA at Hope House on Sat 28 Nov, Leeds. Acid and Garage. See the line-up on soundcheck.
+ALEA at Hope House on Sat 28 Nov, Leeds. Garage and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

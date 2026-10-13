@@ -1,6 +1,6 @@
 # Seb Trillo
 
-Seb Trillo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Grace, London on Sat, 7 Nov 2026.
+Seb Trillo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The Grace, London on Sat, 7 Nov 2026.
 
 Seb Trillo is a house and techno artist based in United Kingdom, with 12 gigs on soundcheck across London and Warsaw. Often billed alongside TR!P, Jacob Trip and Dias (UK). Next up: The Grace, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Seb Trillo is a house and techno artist based in United Kingdom, with 12 gigs on
 
 TR!P, Jacob Trip, Dias (UK)
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebtrillo/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebtrillo/)*

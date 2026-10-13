@@ -1,6 +1,6 @@
 # Donnerdogge at Golden Gate
 
-Donnerdogge at Golden Gate on Thu 15 Oct, Berlin. 4 artists: A.B.U., Jakob Seidensticker, MELINA and Submod. See the line-up on soundcheck.
+Donnerdogge at Golden Gate on Thu 15 Oct, Berlin. 3 artists: A.B.U., Jakob Seidensticker and MELINA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,5 @@ Donnerdogge at Golden Gate on Thu 15 Oct, Berlin. 4 artists: A.B.U., Jakob Seide
 - A.B.U.
 - Jakob Seidensticker
 - MELINA (3)
-- Submod
 
 *Source: [soundcheck](https://soundcheck.club/e/2556828-donnerdogge-at-golden-gate/)*

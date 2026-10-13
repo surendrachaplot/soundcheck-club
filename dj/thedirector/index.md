@@ -1,6 +1,6 @@
 # The Director
 
-The Director is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Club Up, Amsterdam on Thu, 22 Oct 2026.
+The Director is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Club Up, Amsterdam on Thu, 22 Oct 2026.
 
 The Director is a house and disco artist, with 32 gigs on soundcheck across Amsterdam, Detroit, Montreal and New York City and 2 more. Often billed alongside Marbré, THE HOLY and Yambow. Next up: Club Up, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ The Director is a house and disco artist, with 32 gigs on soundcheck across Amst
 
 Marbré, THE HOLY (1), Yambow
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thedirector/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thedirector/)*

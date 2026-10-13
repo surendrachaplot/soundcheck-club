@@ -1,6 +1,6 @@
 # 6LOV3
 
-6LOV3 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - NAMELESS, Philadelphia on Sat, 24 Oct 2026.
+6LOV3 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - NAMELESS, Philadelphia on Sat, 24 Oct 2026.
 
 6LOV3 is a techno and trance artist, with 5 gigs on soundcheck across Philadelphia. Often billed alongside Nine of Wands, human plushie and ADAB. Next up: TBA - NAMELESS, Philadelphia on Sat 24 Oct.
 
@@ -21,4 +21,4 @@
 
 Nine of Wands, human plushie, ADAB
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/6lov3/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/6lov3/)*

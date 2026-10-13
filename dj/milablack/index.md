@@ -1,8 +1,8 @@
 # Mila Black
 
-Mila Black is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Stahlwerk, Düsseldorf on Fri, 16 Oct 2026.
+Mila Black is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Stahlwerk, Düsseldorf on Fri, 16 Oct 2026.
 
-Mila Black is a techno and trance artist based in Netherlands, with 43 gigs on soundcheck across Amsterdam, Berlin, Düsseldorf and Frankfurt and 6 more. Often billed alongside MCR-T, TWIENA and CAIVA. Next up: Stahlwerk, Düsseldorf on Fri 16 Oct.
+Mila Black is a techno and trance artist based in Netherlands, with 43 gigs on soundcheck across Amsterdam, Berlin, Düsseldorf and Frankfurt and 6 more. Often billed alongside MCR-T, TWIENA and ALCATRAZ. Next up: Stahlwerk, Düsseldorf on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Mila Black is a techno and trance artist based in Netherlands, with 43 gigs on s
 
 ## Shares bills with
 
-MCR-T, TWIENA, CAIVA
+MCR-T, TWIENA, ALCATRAZ
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milablack/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milablack/)*

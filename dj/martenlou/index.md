@@ -1,6 +1,6 @@
 # Marten Lou
 
-Marten Lou is a Afro House and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at KOKO, London on Fri, 30 Oct 2026.
+Marten Lou is a Afro House and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at KOKO, London on Fri, 30 Oct 2026.
 
 Marten Lou is an afro house and house artist based in Germany, with 105 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 35 more. Often billed alongside ARODES, Andrea Oliva and Francis Mercier. Next up: KOKO, London on Fri 30 Oct.
 
@@ -31,4 +31,4 @@ Marten Lou is an afro house and house artist based in Germany, with 105 gigs on 
 
 ARODES, Andrea Oliva, Francis Mercier
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martenlou/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martenlou/)*

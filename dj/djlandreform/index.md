@@ -1,14 +1,15 @@
 # DJ Land Reform
 
-DJ Land Reform is a Hardcore and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Umbria Arts, Philadelphia on Sat, 24 Oct 2026.
+DJ Land Reform is a Hardcore and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Umbria Arts, Philadelphia on Sat, 24 Oct 2026.
 
-DJ Land Reform is a hardcore and house artist based in United States of America, with 39 gigs on soundcheck across Philadelphia and Washington DC. Often billed alongside Gabberbitch69, Franxx and GET FACE. Next up: Umbria Arts, Philadelphia on Sat 24 Oct.
+DJ Land Reform is a hardcore and house artist based in United States of America, with 40 gigs on soundcheck across Philadelphia and Washington DC. Often billed alongside Gabberbitch69, Franxx and GET FACE. Next up: Umbria Arts, Philadelphia on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Umbria Arts | Philadelphia |
+| Sat, 31 Oct 2026 | TRANSMISSION DC | Washington DC |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ Land Reform is a hardcore and house artist based in United States of America,
 
 Gabberbitch69, Franxx, GET FACE
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlandreform/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlandreform/)*

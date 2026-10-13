@@ -1,14 +1,15 @@
 # Marco Weibel
 
-Marco Weibel is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at UMI, Brussels on Sat, 17 Oct 2026.
+Marco Weibel is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at UMI, Brussels on Sat, 17 Oct 2026.
 
-Marco Weibel is a house and techno artist, with 130 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 21 more. Often billed alongside Lefto Early Bird, Spurge and Dexter Colt. Next up: UMI, Brussels on Sat 17 Oct.
+Marco Weibel is a house and techno artist, with 131 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 21 more. Often billed alongside Lefto Early Bird, Spurge and Dexter Colt. Next up: UMI, Brussels on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | UMI | Brussels |
+| Fri, 6 Nov 2026 | West Harlem | Kyoto |
 | Sat, 7 Nov 2026 | BAR Inc | Osaka |
 
 ## Recently played
@@ -26,4 +27,4 @@ Marco Weibel is a house and techno artist, with 130 gigs on soundcheck across Am
 
 Lefto Early Bird, Spurge, Dexter Colt
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoweibel/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoweibel/)*

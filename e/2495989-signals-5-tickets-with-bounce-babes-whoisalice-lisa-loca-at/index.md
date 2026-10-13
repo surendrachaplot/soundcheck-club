@@ -1,0 +1,18 @@
+# SIGNALS - 5€ Tickets - with Bounce Babes, WhoisAlice & LISA LOCA at Lokschuppen Berlin
+
+SIGNALS - 5€ Tickets - with Bounce Babes, WhoisAlice & LISA LOCA at Lokschuppen Berlin on Wed 11 Nov, Berlin. 4 artists: 9LALEY, LALØCA, Vaneska and WhoisAlice. Trance and Techno. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Wed, 11 Nov 2026 |
+| Venue | Lokschuppen Berlin |
+| City | Berlin |
+
+## Line-up
+
+- 9LALEY
+- LALØCA
+- Vaneska
+- WhoisAlice
+
+*Source: [soundcheck](https://soundcheck.club/e/2495989-signals-5-tickets-with-bounce-babes-whoisalice-lisa-loca-at/)*

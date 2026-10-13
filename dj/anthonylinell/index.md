@@ -1,6 +1,6 @@
 # Anthony Linell
 
-Anthony Linell is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 15 Oct 2026.
+Anthony Linell is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 15 Oct 2026.
 
 Anthony Linell is a techno and house artist based in Sweden, with 98 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 22 more. Often billed alongside Evigt Mörker, Jin Mustafa and Neel. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 15 Oct.
 
@@ -27,4 +27,4 @@ Anthony Linell is a techno and house artist based in Sweden, with 98 gigs on sou
 
 Evigt Mörker, Jin Mustafa, Neel
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonylinell/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonylinell/)*

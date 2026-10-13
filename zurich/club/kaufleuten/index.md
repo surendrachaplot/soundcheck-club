@@ -1,6 +1,6 @@
 # Kaufleuten
 
-Kaufleuten is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Robin Schulz" on Fri, 16 Oct 2026.
+Kaufleuten is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Robin Schulz" on Fri, 16 Oct 2026.
 
 Kaufleuten is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, with line-ups including CHRIS STASSY and Robin Schulz. See dates, start times and who's playing. Pelikanstrasse 18; 8001, Zürich; Switzerland.
 
@@ -15,4 +15,4 @@ Kaufleuten is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, wit
 
 Pelikanstrasse 18; 8001, Zürich; Switzerland, Zurich
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kaufleuten/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kaufleuten/)*

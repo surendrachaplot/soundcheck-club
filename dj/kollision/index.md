@@ -1,6 +1,6 @@
 # Kollision
 
-Kollision is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at M7 Club, Barcelona on Fri, 23 Oct 2026.
+Kollision is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at M7 Club, Barcelona on Fri, 23 Oct 2026.
 
 Kollision is a techno and trance artist based in India, with 13 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Geneva and 7 more. Often billed alongside Lady Maru, PULSES (NL) and ANDRØMEDA. Next up: M7 Club, Barcelona on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Kollision is a techno and trance artist based in India, with 13 gigs on soundche
 
 Lady Maru, PULSES (NL), ANDRØMEDA
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kollision/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kollision/)*

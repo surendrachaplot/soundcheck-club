@@ -1,6 +1,6 @@
 # Technimatic
 
-Technimatic is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at VIERNULVIER, Ghent on Fri, 27 Nov 2026.
+Technimatic is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at VIERNULVIER, Ghent on Fri, 27 Nov 2026.
 
 Technimatic is a drum & bass and bass artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 17 more. Often billed alongside LowQui, S.P.Y and Camo & Krooked. Next up: VIERNULVIER, Ghent on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Technimatic is a drum & bass and bass artist based in United Kingdom, with 42 gi
 
 LowQui, S.P.Y, Camo & Krooked
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/technimatic-uk/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/technimatic-uk/)*

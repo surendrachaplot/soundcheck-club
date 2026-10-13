@@ -1,6 +1,6 @@
 # DLR (nyc)
 
-DLR (nyc) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
+DLR (nyc) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
 
 DLR (nyc) is a house and techno artist based in United States of America, with 37 gigs on soundcheck across New York City. Often billed alongside Armii1n, Choukroun and Kenia. Next up: TBA - East Williamsburg, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DLR (nyc) is a house and techno artist based in United States of America, with 3
 
 Armii1n, Choukroun, Kenia
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dlrnyc/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dlrnyc/)*

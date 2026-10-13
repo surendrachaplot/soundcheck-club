@@ -1,6 +1,6 @@
 # Beach House San Diego
 
-Beach House San Diego is a music venue in San Diego with 10 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "FNGRS CRSSD presents Palms Beach Club with Prospa" on Sun, 18 Oct 2026.
+Beach House San Diego is a music venue in San Diego with 10 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "FNGRS CRSSD presents Palms Beach Club with Prospa" on Sun, 18 Oct 2026.
 
 Beach House San Diego is a music venue in San Diego listed on soundcheck. 10 upcoming gigs, with line-ups including FLETCH, ChaseWest, Green Velvet and Interplanetary Criminal and 2 more. See dates, start times and who's playing. 3125 Ocean Front Walk.
 
@@ -23,4 +23,4 @@ Beach House San Diego is a music venue in San Diego listed on soundcheck. 10 upc
 
 3125 Ocean Front Walk, San Diego
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/beach-house-san-diego/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/beach-house-san-diego/)*

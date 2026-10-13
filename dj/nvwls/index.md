@@ -1,6 +1,6 @@
 # NVWLS
 
-NVWLS is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at East London Brewing Company, London on Sat, 31 Oct 2026.
+NVWLS is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at East London Brewing Company, London on Sat, 31 Oct 2026.
 
 NVWLS is a house and techno artist based in United Kingdom, with 16 gigs on soundcheck across London. Often billed alongside ATOM UK, Alien Communications and Ally Tropical. Next up: East London Brewing Company, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ NVWLS is a house and techno artist based in United Kingdom, with 16 gigs on soun
 
 ATOM UK, Alien Communications, Ally Tropical
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nvwls/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nvwls/)*

@@ -1,6 +1,6 @@
 # Hekato
 
-Hekato is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Ciało, Wroclaw on Sat, 17 Oct 2026.
+Hekato is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Ciało, Wroclaw on Sat, 17 Oct 2026.
 
 Hekato is a techno and house artist based in Poland, with 39 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Krakow and 3 more. Often billed alongside Jin-Su, Mislaw and Lucyd. Next up: Ciało, Wroclaw on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Hekato is a techno and house artist based in Poland, with 39 gigs on soundcheck 
 
 Jin-Su, Mislaw, Lucyd
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hekato/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hekato/)*

@@ -1,6 +1,6 @@
 # Joshwa
 
-Joshwa is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at XOYO, London on Sat, 17 Oct 2026.
+Joshwa is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at XOYO, London on Sat, 17 Oct 2026.
 
 Joshwa is a tech house and house artist based in United Kingdom, with 83 gigs on soundcheck across Boston, Chicago, Copenhagen and Denver and 27 more. Often billed alongside Sammy Porter, George Mensah and Charlotte Van de Peer. Next up: XOYO, London on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Joshwa is a tech house and house artist based in United Kingdom, with 83 gigs on
 
 Sammy Porter, George Mensah, Charlotte Van de Peer
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwauk/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwauk/)*

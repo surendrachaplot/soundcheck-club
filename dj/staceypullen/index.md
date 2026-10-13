@@ -1,13 +1,14 @@
 # Stacey Pullen
 
-Stacey Pullen is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Northern Lights Lounge, Detroit on Sat, 24 Oct 2026.
+Stacey Pullen is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 16 Oct 2026.
 
-Stacey Pullen is a techno and house artist, with 118 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 26 more. Often billed alongside Carl Craig, Soul Clap and DJ Minx. Next up: Northern Lights Lounge, Detroit on Sat 24 Oct.
+Stacey Pullen is a techno and house artist, with 119 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 26 more. Often billed alongside Carl Craig, Soul Clap and DJ Minx. Next up: Public Works, San Francisco/Oakland on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Public Works | San Francisco/Oakland |
 | Sat, 24 Oct 2026 | Northern Lights Lounge | Detroit |
 | Thu, 29 Oct 2026 | Refuge | New York City |
 
@@ -26,4 +27,4 @@ Stacey Pullen is a techno and house artist, with 118 gigs on soundcheck across A
 
 Carl Craig, Soul Clap, DJ Minx
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/staceypullen/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/staceypullen/)*

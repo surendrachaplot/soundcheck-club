@@ -1,6 +1,6 @@
 # Patrick Scuro
 
-Patrick Scuro is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at KitKatClub, Berlin on Wed, 14 Oct 2026.
+Patrick Scuro is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at KitKatClub, Berlin on Wed, 14 Oct 2026.
 
 Patrick Scuro is a techno and trance artist based in Germany, with 68 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 2 more. Often billed alongside DJ Jordan, Basstronauten and Daniel Boon. Next up: KitKatClub, Berlin on Wed 14 Oct.
 
@@ -9,7 +9,7 @@ Patrick Scuro is a techno and trance artist based in Germany, with 68 gigs on so
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 14 Oct 2026 | KitKatClub | Berlin |
-| Thu, 22 Oct 2026 | 50:Hertz House & Techno Club Rembrandt Square | Amsterdam |
+| Thu, 22 Oct 2026 | 50:HERTZ HOUSE & TECHNO Club Rembrandt Square | Amsterdam |
 | Sat, 7 Nov 2026 | The Cloud | Berlin |
 | Sat, 28 Nov 2026 | Insomnia | Berlin |
 
@@ -28,4 +28,4 @@ Patrick Scuro is a techno and trance artist based in Germany, with 68 gigs on so
 
 DJ Jordan, Basstronauten, Daniel Boon
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickscuro/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickscuro/)*

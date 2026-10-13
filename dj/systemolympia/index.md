@@ -1,6 +1,6 @@
 # System Olympia
 
-System Olympia is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at control, Bucharest on Fri, 23 Oct 2026.
+System Olympia is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at control, Bucharest on Fri, 23 Oct 2026.
 
 System Olympia is a house and disco artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 18 more. Often billed alongside Move D, Attila and Bushbby. Next up: control, Bucharest on Fri 23 Oct.
 
@@ -10,8 +10,8 @@ System Olympia is a house and disco artist based in United Kingdom, with 77 gigs
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | control | Bucharest |
 | Sat, 7 Nov 2026 | Colour Factory | London |
+| Wed, 11 Nov 2026 | The Love Inn | Bristol |
 | Tue, 24 Nov 2026 | Yes | Manchester |
-| Tue, 24 Nov 2026 | The Love Inn | Bristol |
 
 ## Recently played
 
@@ -28,4 +28,4 @@ System Olympia is a house and disco artist based in United Kingdom, with 77 gigs
 
 Move D, Attila, Bushbby
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/systemolympia/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/systemolympia/)*

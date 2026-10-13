@@ -1,6 +1,6 @@
 # Guss
 
-Guss is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at D-EDGE, Sao Paulo on Fri, 16 Oct 2026.
+Guss is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at D-EDGE, Sao Paulo on Fri, 16 Oct 2026.
 
 Guss is a house and techno artist, with 17 gigs on soundcheck across Sao Paulo. Often billed alongside Adnan Sharif, Cactunes and Diogo Accioly. Next up: D-EDGE, Sao Paulo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Guss is a house and techno artist, with 17 gigs on soundcheck across Sao Paulo. 
 
 Adnan Sharif, Cactunes, Diogo Accioly
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guss/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guss/)*

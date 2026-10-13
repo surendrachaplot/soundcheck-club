@@ -1,6 +1,6 @@
 # Bjr Alex
 
-Bjr Alex is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at La Kulture, Strasbourg on Thu, 15 Oct 2026.
+Bjr Alex is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at La Kulture, Strasbourg on Thu, 15 Oct 2026.
 
 Bjr Alex is a club and techno artist based in France, with 19 gigs on soundcheck across Paris and Strasbourg. Often billed alongside Itaho, Vod Kasat and 1client. Next up: La Kulture, Strasbourg on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Bjr Alex is a club and techno artist based in France, with 19 gigs on soundcheck
 
 Itaho, Vod Kasat, 1client
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bjralex/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bjralex/)*

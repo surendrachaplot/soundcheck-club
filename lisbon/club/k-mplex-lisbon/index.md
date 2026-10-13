@@ -1,6 +1,6 @@
 # Kømplex Lisbon
 
-Kømplex Lisbon is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Søliid Community with RUIZ OSC1 [Grüv, Col] - Vinyl set" on Sat, 17 Oct 2026.
+Kømplex Lisbon is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Søliid Community with RUIZ OSC1 [Grüv, Col] - Vinyl set" on Sat, 17 Oct 2026.
 
 Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, with line-ups including ophell and RUIZ OSC1. See dates, start times and who's playing. Praceta Domingos Rodrigues Nr5 2685-327 Lisbon.
 
@@ -15,4 +15,4 @@ Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs
 
 Praceta Domingos Rodrigues Nr5 2685-327 Lisbon, Lisbon
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/k-mplex-lisbon/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/k-mplex-lisbon/)*

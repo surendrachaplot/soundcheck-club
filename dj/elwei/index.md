@@ -1,6 +1,6 @@
 # Elwei
 
-Elwei is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Subcero Club, Madrid on Thu, 22 Oct 2026.
+Elwei is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Subcero Club, Madrid on Thu, 22 Oct 2026.
 
 Elwei is a house and techno artist based in Spain, with 98 gigs on soundcheck across Antwerp, Barcelona, Berlin and Ibiza and 4 more. Often billed alongside Miguel Silva, Popsky and Djoan. Next up: Subcero Club, Madrid on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Elwei is a house and techno artist based in Spain, with 98 gigs on soundcheck ac
 
 Miguel Silva, Popsky, Djoan
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elwei/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elwei/)*

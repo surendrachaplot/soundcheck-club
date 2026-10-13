@@ -1,13 +1,14 @@
 # Yulia Kasa
 
-Yulia Kasa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Collingwood Basement, Melbourne on Fri, 13 Nov 2026.
+Yulia Kasa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Sub Club Melbourne, Melbourne on Fri, 23 Oct 2026.
 
-Yulia Kasa is a techno and house artist based in Australia, with 28 gigs on soundcheck across Berlin and Melbourne. Often billed alongside ALIEN-A, CAITY WATSON and WISER. Next up: Collingwood Basement, Melbourne on Fri 13 Nov.
+Yulia Kasa is a techno and house artist based in Australia, with 29 gigs on soundcheck across Berlin and Melbourne. Often billed alongside ALIEN-A, CAITY WATSON and Craig McWhinney. Next up: Sub Club Melbourne, Melbourne on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Sub Club Melbourne | Melbourne |
 | Fri, 13 Nov 2026 | Collingwood Basement | Melbourne |
 
 ## Recently played
@@ -23,6 +24,6 @@ Yulia Kasa is a techno and house artist based in Australia, with 28 gigs on soun
 
 ## Shares bills with
 
-ALIEN-A, CAITY WATSON, WISER
+ALIEN-A, CAITY WATSON, Craig McWhinney
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuliakasa/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuliakasa/)*

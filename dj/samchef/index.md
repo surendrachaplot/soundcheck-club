@@ -1,6 +1,6 @@
 # SAM CHEF
 
-SAM CHEF is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Blue Room, Montreal on Sat, 31 Oct 2026.
+SAM CHEF is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Blue Room, Montreal on Sat, 31 Oct 2026.
 
 SAM CHEF is a house and tech house artist, with 14 gigs on soundcheck across Montreal. Often billed alongside Villagomez, BPlease and Walji. Next up: Blue Room, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ SAM CHEF is a house and tech house artist, with 14 gigs on soundcheck across Mon
 
 Villagomez, BPlease, Walji
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samchef/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samchef/)*

@@ -1,6 +1,6 @@
 # Fabian Garrido
 
-Fabian Garrido is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 28 Nov 2026.
+Fabian Garrido is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 28 Nov 2026.
 
 Fabian Garrido is an electronic artist based in Germany, with 5 gigs on soundcheck across Berlin and Nürnberg. Often billed alongside Philippa Pacho, Aöcram and Budino. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Fabian Garrido is an electronic artist based in Germany, with 5 gigs on soundche
 
 Philippa Pacho, Aöcram, Budino
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiangarrido-de/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiangarrido-de/)*

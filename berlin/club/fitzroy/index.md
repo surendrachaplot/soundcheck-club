@@ -1,6 +1,6 @@
 # Fitzroy
 
-Fitzroy is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "HOUSE EDUCATION #08" on Thu, 15 Oct 2026.
+Fitzroy is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "HOUSE EDUCATION #08" on Thu, 15 Oct 2026.
 
 Fitzroy is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Adri Alibi, Aimé You, Akua and Atavi and 2 more. See dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
 
@@ -21,4 +21,4 @@ Fitzroy is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with l
 
 Holzmarktstraße 15, 10179 Berlin, Germany, Berlin
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*

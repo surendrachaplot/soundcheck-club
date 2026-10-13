@@ -1,14 +1,16 @@
 # Juana Valeria
 
-Juana Valeria is a Breakbeat and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Tropical (Ex Gozadera), Milan on Fri, 16 Oct 2026.
+Juana Valeria is a Latin Bass and Dembow artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Tropical Milano, Milan on Fri, 16 Oct 2026.
 
-Juana Valeria is a breakbeat and latin bass artist based in Colombia, with 14 gigs on soundcheck across Berlin and Milan. Often billed alongside Noise Casino, Trexeter and Retter (DE). Next up: TBA - Tropical (Ex Gozadera), Milan on Fri 16 Oct.
+Juana Valeria is a latin bass and dembow artist based in Colombia, with 16 gigs on soundcheck across Berlin and Milan. Often billed alongside Noise Casino, Paulawar and Trexeter. Next up: Tropical Milano, Milan on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | TBA - Tropical (Ex Gozadera) | Milan |
+| Fri, 16 Oct 2026 | Tropical Milano | Milan |
+| Fri, 6 Nov 2026 | Crack Bellmer | Berlin |
+| Fri, 6 Nov 2026 | Crack Bellmer | Berlin |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ Juana Valeria is a breakbeat and latin bass artist based in Colombia, with 14 gi
 
 ## Shares bills with
 
-Noise Casino, Trexeter, Retter (DE)
+Noise Casino, Paulawar, Trexeter
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanavaleria/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanavaleria/)*

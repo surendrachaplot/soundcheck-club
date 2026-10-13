@@ -1,6 +1,6 @@
 # TBA - Avda/ Mediterrani,24 17300 Blanes
 
-TBA - Avda/ Mediterrani,24 17300 Blanes is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "La Cantera & Seba Ruiz" on Sat, 17 Oct 2026.
+TBA - Avda/ Mediterrani,24 17300 Blanes is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "La Cantera & Seba Ruiz" on Sat, 17 Oct 2026.
 
 TBA - Avda/ Mediterrani,24 17300 Blanes is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - Avda/ Mediterrani,24 17300 Blanes is a music venue in Barcelona listed on 
 | Sat, 17 Oct 2026 | La Cantera & Seba Ruiz |  |
 | Sat, 31 Oct 2026 | La Cantera & Ivanhoe |  |
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-avda-mediterrani-24-17300-blanes/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-avda-mediterrani-24-17300-blanes/)*

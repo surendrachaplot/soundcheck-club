@@ -1,6 +1,6 @@
 # Dom Dolla
 
-Dom Dolla is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Cow Palace, San Francisco/Oakland on Fri, 16 Oct 2026.
+Dom Dolla is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Cow Palace, San Francisco/Oakland on Fri, 16 Oct 2026.
 
 Dom Dolla is a house and tech house artist based in Australia, with 116 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belfast and 31 more. Often billed alongside Patrick Topping, Ewan McVicar and Charlotte de Witte. Next up: Cow Palace, San Francisco/Oakland on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Dom Dolla is a house and tech house artist based in Australia, with 116 gigs on 
 
 Patrick Topping, Ewan McVicar, Charlotte de Witte
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domdolla/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domdolla/)*

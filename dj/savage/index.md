@@ -1,6 +1,6 @@
 # Savage
 
-Savage is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Black Scorpion Music بلک اسکورپیون موزیک, The-hague on Tue, 1 Aug 2028.
+Savage is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Black Scorpion Music بلک اسکورپیون موزیک, The-hague on Tue, 1 Aug 2028.
 
 Savage is a drum & bass and techno artist, with 11 gigs on soundcheck across Budapest, Ibiza, Lisbon and Lyon and 4 more. Often billed alongside AARON SEVILLA, ARKADYAN and Claudia León. Next up: TBA - Black Scorpion Music بلک اسکورپیون موزیک, The Hague on Tue 1 Aug.
 
@@ -25,4 +25,4 @@ Savage is a drum & bass and techno artist, with 11 gigs on soundcheck across Bud
 
 AARON SEVILLA, ARKADYAN, Claudia León
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/savage/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/savage/)*

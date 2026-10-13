@@ -1,8 +1,8 @@
 # Buday
 
-Buday is a Techno and Neo Perreo artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Barrio Cafe, Brussels on Sat, 17 Oct 2026.
+Buday is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Barrio Cafe, Brussels on Sat, 17 Oct 2026.
 
-Buday is a techno and neo perreo artist based in France, with 17 gigs on soundcheck across Amsterdam, Berlin, Brussels and Madrid and 2 more. Often billed alongside Mar/us, Cristian Marras and BOYCA. Next up: Barrio Cafe, Brussels on Sat 17 Oct.
+Buday is a techno and house artist based in France, with 18 gigs on soundcheck across Amsterdam, Berlin, Brussels and Madrid and 2 more. Often billed alongside Mar/us, Cristian Marras and BOYCA. Next up: Barrio Cafe, Brussels on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Buday is a techno and neo perreo artist based in France, with 17 gigs on soundch
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Barrio Cafe | Brussels |
 | Sun, 1 Nov 2026 | Brown Alley | Melbourne |
+| Fri, 13 Nov 2026 | KitKatClub | Berlin |
 | Sat, 21 Nov 2026 | Skin Club | Madrid |
 | Thu, 31 Dec 2026 | OST | Berlin |
 
@@ -28,4 +29,4 @@ Buday is a techno and neo perreo artist based in France, with 17 gigs on soundch
 
 Mar/us, Cristian Marras, BOYCA
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buday-fr/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buday-fr/)*

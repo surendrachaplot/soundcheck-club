@@ -1,11 +1,11 @@
-# Aevum at 50:Hertz House & Techno Club Rembrandt Square
+# Aevum at 50:HERTZ HOUSE & TECHNO Club Rembrandt Square
 
-Aevum at 50:Hertz House & Techno Club Rembrandt Square on Wed 21 Oct, Amsterdam. 2 artists: DAN:EZ and SNAJDER. Progressive House and Techno. See the line-up on soundcheck.
+Aevum at 50:HERTZ HOUSE & TECHNO Club Rembrandt Square on Wed 21 Oct, Amsterdam. 2 artists: DAN:EZ and SNAJDER. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Wed, 21 Oct 2026 |
-| Venue | 50:Hertz House & Techno Club Rembrandt Square |
+| Venue | 50:HERTZ HOUSE & TECHNO Club Rembrandt Square |
 | City | Amsterdam |
 
 ## Line-up

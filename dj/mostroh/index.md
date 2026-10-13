@@ -1,6 +1,6 @@
 # Møstroh
 
-Møstroh is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Bassement, Madrid on Thu, 29 Oct 2026.
+Møstroh is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The Bassement, Madrid on Thu, 29 Oct 2026.
 
 Møstroh is a techno and industrial artist based in Italy, with 36 gigs on soundcheck across Barcelona, Berlin, Cologne and Madrid. Often billed alongside JRG, Tasuik and JAIROSKUN. Next up: The Bassement, Madrid on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Møstroh is a techno and industrial artist based in Italy, with 36 gigs on sound
 
 JRG, Tasuik, JAIROSKUN
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mostroh/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mostroh/)*

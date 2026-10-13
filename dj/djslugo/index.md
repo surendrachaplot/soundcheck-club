@@ -1,8 +1,8 @@
 # DJ Slugo
 
-DJ Slugo is a Ghetto Tech and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 16 Oct 2026.
+DJ Slugo is a Ghetto Tech and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 16 Oct 2026.
 
-DJ Slugo is a ghetto tech and house artist based in United States of America, with 73 gigs on soundcheck across Amsterdam, Boston, Chicago and Detroit and 14 more. Often billed alongside Traxman, DJ Clent and DJ Godfather. Next up: NUMBER 90 LONDON, London on Fri 16 Oct.
+DJ Slugo is a ghetto tech and house artist based in United States of America, with 74 gigs on soundcheck across Amsterdam, Boston, Chicago and Detroit and 15 more. Often billed alongside Traxman, DJ Clent and DJ Godfather. Next up: NUMBER 90 LONDON, London on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Slugo is a ghetto tech and house artist based in United States of America, wi
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | NUMBER 90 LONDON | London |
 | Sat, 17 Oct 2026 | Soup | Manchester |
+| Sun, 18 Oct 2026 | Altrove | Milan |
 | Fri, 23 Oct 2026 | Stereo | Glasgow |
 | Sat, 24 Oct 2026 | Sneaky Pete's | Edinburgh |
 
@@ -28,4 +29,4 @@ DJ Slugo is a ghetto tech and house artist based in United States of America, wi
 
 Traxman, DJ Clent, DJ Godfather
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djslugo/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djslugo/)*

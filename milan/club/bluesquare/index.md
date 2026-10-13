@@ -1,6 +1,6 @@
 # Bluesquare
 
-Bluesquare is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Hi-Fi Weekends with RARE GEMS" on Fri, 16 Oct 2026.
+Bluesquare is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Hi-Fi Weekends with RARE GEMS" on Fri, 16 Oct 2026.
 
 Bluesquare is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including DJ Matab, Gramophone, Kid Fonque and Samuele De Santis and 2 more. See dates, start times and who's playing. Via Tortona 33, 20144.
 
@@ -17,4 +17,4 @@ Bluesquare is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with
 
 Via Tortona 33, 20144, Milan
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/bluesquare/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/bluesquare/)*

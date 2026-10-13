@@ -1,6 +1,6 @@
 # Tom Hall (AU)
 
-Tom Hall (AU) is a Experimental and IDM artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - William C. Powers, Jr. Student Activity Center (WCP), Austin on Wed, 18 Nov 2026.
+Tom Hall (AU) is a Experimental and IDM artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - William C. Powers, Jr. Student Activity Center (WCP), Austin on Wed, 18 Nov 2026.
 
 Tom Hall (AU) is an experimental and idm artist, with 6 gigs on soundcheck across Austin, Los Angeles, Portland and San Francisco/Oakland and 1 more. Often billed alongside Alex DL, C-KAY and Enzo. Next up: TBA - William C. Powers, Jr. Student Activity Center (WCP), Austin on Wed 18 Nov.
 
@@ -22,4 +22,4 @@ Tom Hall (AU) is an experimental and idm artist, with 6 gigs on soundcheck acros
 
 Alex DL, C-KAY, Enzo
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomhall-au/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomhall-au/)*

@@ -1,6 +1,6 @@
 # Martin Krivano
 
-Martin Krivano is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Cafe De Vlieger, Amsterdam on Sat, 24 Oct 2026.
+Martin Krivano is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Cafe De Vlieger, Amsterdam on Sat, 24 Oct 2026.
 
 Martin Krivano is a tech house and house artist, with 5 gigs on soundcheck across Amsterdam. Often billed alongside Armenski, YORY and Cesco Corrado. Next up: Cafe De Vlieger, Amsterdam on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ Martin Krivano is a tech house and house artist, with 5 gigs on soundcheck acros
 
 Armenski, YORY, Cesco Corrado
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinkrivano/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinkrivano/)*

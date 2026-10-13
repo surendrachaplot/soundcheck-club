@@ -1,6 +1,6 @@
 # Les Enfants Brillants
 
-Les Enfants Brillants is a music venue in Barcelona with 17 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Noizer pres. We Love Wax: Daichi Wada + Kenya Arakama" on Thu, 15 Oct 2026.
+Les Enfants Brillants is a music venue in Barcelona with 17 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Noizer pres. We Love Wax: Daichi Wada + Kenya Arakama" on Thu, 15 Oct 2026.
 
 Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 17 upcoming gigs, with line-ups including Alexander Skancke, Alex Pott, Anah and Angel D'lite and 2 more. See dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
 
@@ -23,4 +23,4 @@ Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 17 upc
 
 Carrer de Guàrdia, 3, 08001 Barcelona, Barcelona
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*

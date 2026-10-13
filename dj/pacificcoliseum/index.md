@@ -1,6 +1,6 @@
 # Pacific Coliseum
 
-Pacific Coliseum is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Kaffibarinn, Iceland on Fri, 16 Oct 2026.
+Pacific Coliseum is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Kaffibarinn, Iceland on Fri, 16 Oct 2026.
 
 Pacific Coliseum is a balearic and house artist based in Canada, with 25 gigs on soundcheck across Iceland, London, Los Angeles and Naples and 2 more. Often billed alongside Teen Daze, DJ D.Dee and Dane. Next up: Kaffibarinn, Iceland on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Pacific Coliseum is a balearic and house artist based in Canada, with 25 gigs on
 
 Teen Daze, DJ D.Dee, Dane
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pacificcoliseum/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pacificcoliseum/)*

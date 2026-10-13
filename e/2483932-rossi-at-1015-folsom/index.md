@@ -1,6 +1,6 @@
 # Rossi at 1015 Folsom
 
-Rossi at 1015 Folsom on Thu 29 Oct, San Francisco/Oakland. 1 artist: Rossi. House. See the line-up on soundcheck.
+Rossi at 1015 Folsom on Thu 29 Oct, San Francisco/Oakland. 5 artists: Hunter Green, Malek, MARÏSUN and McEnnis and 1 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,10 @@ Rossi at 1015 Folsom on Thu 29 Oct, San Francisco/Oakland. 1 artist: Rossi. Hous
 
 ## Line-up
 
+- Hunter Green
+- Malek
+- MARÏSUN
+- McEnnis
 - Rossi
 
 *Source: [soundcheck](https://soundcheck.club/e/2483932-rossi-at-1015-folsom/)*

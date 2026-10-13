@@ -1,6 +1,6 @@
 # Millyosa
 
-Millyosa is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at RADION, Amsterdam on Fri, 30 Oct 2026.
+Millyosa is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at RADION, Amsterdam on Fri, 30 Oct 2026.
 
 Millyosa is a techno and minimal techno artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam. Often billed alongside Bongoat, CyberFairy777 and Travis Allen. Next up: RADION, Amsterdam on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Millyosa is a techno and minimal techno artist based in Netherlands, with 6 gigs
 
 Bongoat, CyberFairy777, Travis Allen
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/millyosa/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/millyosa/)*

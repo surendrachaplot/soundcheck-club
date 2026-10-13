@@ -1,6 +1,6 @@
 # Ak-4ya
 
-Ak-4ya is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at public records, New York City on Fri, 6 Nov 2026.
+Ak-4ya is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at public records, New York City on Fri, 6 Nov 2026.
 
 Ak-4ya is a techno and electro artist based in United States of America, with 11 gigs on soundcheck across Austin and New York City. Often billed alongside AMANDA KOONTZ, Afra and Al V Dam. Next up: public records, New York City on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Ak-4ya is a techno and electro artist based in United States of America, with 11
 
 AMANDA KOONTZ, Afra, Al V Dam
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ak-4ya/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ak-4ya/)*

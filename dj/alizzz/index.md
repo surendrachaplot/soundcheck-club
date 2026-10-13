@@ -1,6 +1,6 @@
 # Alizzz
 
-Alizzz is a Pop and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Bar Oriente, Mexico City on Fri, 23 Oct 2026.
+Alizzz is a Pop and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Bar Oriente, Mexico City on Fri, 23 Oct 2026.
 
 Alizzz is a pop and electronica artist based in Spain, with 5 gigs on soundcheck across Barcelona, Madrid and Mexico City. Often billed alongside Honey Dijon, Mochakk and 700 BLISS. Next up: Bar Oriente, Mexico City on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Alizzz is a pop and electronica artist based in Spain, with 5 gigs on soundcheck
 
 Honey Dijon, Mochakk, 700 BLISS
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alizzz/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alizzz/)*

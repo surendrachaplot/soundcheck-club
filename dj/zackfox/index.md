@@ -1,6 +1,6 @@
 # Zack Fox
 
-Zack Fox is a Ghetto Tech and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at First Avenue Mainroom, Minneapolis-st-paul on Thu, 15 Oct 2026.
+Zack Fox is a Ghetto Tech and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at First Avenue Mainroom, Minneapolis-st-paul on Thu, 15 Oct 2026.
 
 Zack Fox is a ghetto tech and house artist based in United States of America, with 82 gigs on soundcheck across Amsterdam, Antwerp, Austin and Berlin and 23 more. Often billed alongside DJ Bone, JEWELSSEA and Jubilee. Next up: First Avenue Mainroom, Minneapolis St Paul on Thu 15 Oct.
 
@@ -28,4 +28,4 @@ Zack Fox is a ghetto tech and house artist based in United States of America, wi
 
 DJ Bone, JEWELSSEA, Jubilee
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zackfox/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zackfox/)*

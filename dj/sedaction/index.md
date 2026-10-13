@@ -1,13 +1,14 @@
 # Sedaction
 
-Sedaction is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Stadtgarten Konzertsaal / Cafe, Cologne on Sat, 7 Nov 2026.
+Sedaction is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Yan Gastro, Istanbul on Fri, 16 Oct 2026.
 
-Sedaction is a techno and house artist based in Germany, with 80 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 6 more. Often billed alongside Savsannah, Anna Cainelli and AMSL. Next up: Stadtgarten Konzertsaal / Cafe, Cologne on Sat 7 Nov.
+Sedaction is a techno and house artist based in Germany, with 81 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 7 more. Often billed alongside Savsannah, Anna Cainelli and AMSL. Next up: Yan Gastro, Istanbul on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Yan Gastro | Istanbul |
 | Sat, 7 Nov 2026 | Stadtgarten Konzertsaal / Cafe | Cologne |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sedaction is a techno and house artist based in Germany, with 80 gigs on soundch
 
 Savsannah, Anna Cainelli, AMSL
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sedaction/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sedaction/)*

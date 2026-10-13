@@ -1,8 +1,8 @@
 # The Bongo Club
 
-The Bongo Club is a music venue in Edinburgh with 20 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Volta: Wrisk (Overground), Gren, ITEM9 + residents " on Tue, 13 Oct 2026.
+The Bongo Club is a music venue in Edinburgh with 21 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Volta: Wrisk (Overground), Gren, ITEM9 + residents " on Tue, 13 Oct 2026.
 
-The Bongo Club is a music venue in Edinburgh listed on soundcheck. 20 upcoming gigs, with line-ups including YVI, Becca Egan, Darrell Pulse and DJ Gregory and 2 more. See dates, start times and who's playing. 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom.
+The Bongo Club is a music venue in Edinburgh listed on soundcheck. 21 upcoming gigs, with line-ups including YVI, Becca Egan, Darrell Pulse and DJ Gregory and 2 more. See dates, start times and who's playing. 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom.
 
 ## What's on
 
@@ -17,10 +17,10 @@ The Bongo Club is a music venue in Edinburgh listed on soundcheck. 20 upcoming g
 | Sat, 24 Oct 2026 | Chromatic: Oneman20 | Oneman, ZO3 (1) |
 | Tue, 27 Oct 2026 | Volta: Phase Records Takeover [HALLOWEEN SPECIAL] |  |
 | Wed, 28 Oct 2026 | HOOSEPARTY: THE FINAL GIRLS | Miss Cabbage, Salam Kitty |
-| Thu, 29 Oct 2026 | TOTEM Halloween: Silva Snipa (Vinyl-Only UKG) | Maya Hacker, Silva Snipa, TODD, Trucha |
+| Thu, 29 Oct 2026 | TOTEM Halloween: Silva Snipa (Vinyl-Only UKG) | Maya Hacker, Silva Snipa, TODD |
 
 ## Address
 
 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom, Edinburgh
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*

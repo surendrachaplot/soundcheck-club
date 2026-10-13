@@ -1,6 +1,6 @@
 # tasha.mp4
 
-tasha.mp4 is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Planet Wax, London on Thu, 15 Oct 2026.
+tasha.mp4 is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Planet Wax, London on Thu, 15 Oct 2026.
 
 tasha.mp4 is a garage and techno artist based in United Kingdom, with 46 gigs on soundcheck across London. Often billed alongside TRILL (UK), EMROSE and Kitsch. Next up: Planet Wax, London on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ tasha.mp4 is a garage and techno artist based in United Kingdom, with 46 gigs on
 
 TRILL (UK), EMROSE, Kitsch
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha.mp4/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha.mp4/)*

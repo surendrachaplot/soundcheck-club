@@ -1,6 +1,6 @@
 # HI-LO
 
-HI-LO is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Klub Progresja, Warsaw on Fri, 16 Oct 2026.
+HI-LO is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Klub Progresja, Warsaw on Fri, 16 Oct 2026.
 
 HI-LO is a techno and house artist based in Netherlands, with 64 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 25 more. Often billed alongside Eli Brown, Benny Rodrigues and Space 92. Next up: Klub Progresja, Warsaw on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ HI-LO is a techno and house artist based in Netherlands, with 64 gigs on soundch
 
 Eli Brown, Benny Rodrigues, Space 92
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-lo/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-lo/)*

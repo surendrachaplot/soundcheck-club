@@ -1,6 +1,6 @@
 # Kahani
 
-Kahani is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Penthouse Dubai, Dubai on Sat, 17 Oct 2026.
+Kahani is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Penthouse Dubai, Dubai on Sat, 17 Oct 2026.
 
 Kahani is a house and techno artist based in United States of America, with 46 gigs on soundcheck across Amsterdam, Austin, Birmingham and Boston and 17 more. Often billed alongside Kunal Merchant, Anvaya and Ethyr. Next up: The Penthouse Dubai, Dubai on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Kahani is a house and techno artist based in United States of America, with 46 g
 
 Kunal Merchant, Anvaya, Ethyr
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kahani/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kahani/)*

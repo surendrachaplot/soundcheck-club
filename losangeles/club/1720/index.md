@@ -1,6 +1,6 @@
 # 1720
 
-1720 is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "BACKROOMS RAVE [HALLOWEEN EDITION]" on Thu, 29 Oct 2026.
+1720 is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "BACKROOMS RAVE [HALLOWEEN EDITION]" on Thu, 29 Oct 2026.
 
 1720 is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs, with line-ups including Bag Raiders, CSS, Gentleman's Dub Club and Juliet Mendoza and 2 more. See dates, start times and who's playing. 1720 E. 16th Ave, Los Angeles, CA 90021.
 
@@ -18,4 +18,4 @@
 
 1720 E. 16th Ave, Los Angeles, CA 90021, Los Angeles
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/1720/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/1720/)*

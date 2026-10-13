@@ -1,6 +1,6 @@
 # Plumitaa
 
-Plumitaa is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Gewölbe, Cologne on Fri, 11 Dec 2026.
+Plumitaa is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Gewölbe, Cologne on Fri, 11 Dec 2026.
 
 Plumitaa is a techno and acid artist based in Germany, with 5 gigs on soundcheck across Cologne. Often billed alongside Chris Liebing, Corios and DJ ASS TITS. Next up: Gewölbe, Cologne on Fri 11 Dec.
 
@@ -21,4 +21,4 @@ Plumitaa is a techno and acid artist based in Germany, with 5 gigs on soundcheck
 
 Chris Liebing, Corios, DJ ASS TITS
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plumitaa/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plumitaa/)*

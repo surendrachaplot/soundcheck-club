@@ -1,6 +1,6 @@
 # The Jago
 
-The Jago is a music venue in London with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Move Your Boots x Bliss Out" on Fri, 16 Oct 2026.
+The Jago is a music venue in London with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Move Your Boots x Bliss Out" on Fri, 16 Oct 2026.
 
 The Jago is a music venue in London listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 440 Kingsland Road, E8 4AA London, United Kingdom.
 
@@ -16,4 +16,4 @@ The Jago is a music venue in London listed on soundcheck. 3 upcoming gigs. See d
 
 440 Kingsland Road, E8 4AA London, United Kingdom, London
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jago/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jago/)*

@@ -1,14 +1,15 @@
 # Lisatrix
 
-Lisatrix is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at OXI, Berlin on Thu, 22 Oct 2026.
+Lisatrix is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at OXI, Berlin on Thu, 22 Oct 2026.
 
-Lisatrix is a techno and trance artist based in Germany, with 40 gigs on soundcheck across Berlin. Often billed alongside Pilar Jordan, JUWLZ and Bélavie. Next up: OXI, Berlin on Thu 22 Oct.
+Lisatrix is a techno and trance artist based in Germany, with 41 gigs on soundcheck across Berlin. Often billed alongside JUWLZ, Pilar Jordan and cell1. Next up: OXI, Berlin on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | OXI | Berlin |
+| Sat, 24 Oct 2026 | PKH Warehouse | Berlin |
 | Sun, 25 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 14 Nov 2026 | TBA - Westhafen | Berlin |
 
@@ -25,6 +26,6 @@ Lisatrix is a techno and trance artist based in Germany, with 40 gigs on soundch
 
 ## Shares bills with
 
-Pilar Jordan, JUWLZ, Bélavie
+JUWLZ, Pilar Jordan, cell1
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisatrix-de/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisatrix-de/)*

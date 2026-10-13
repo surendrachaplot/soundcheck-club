@@ -1,6 +1,6 @@
 # The Stud
 
-The Stud is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "GRUNT-HALLOWEEN" on Sat, 24 Oct 2026.
+The Stud is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "GRUNT-HALLOWEEN" on Sat, 24 Oct 2026.
 
 The Stud is a music venue in San Francisco/Oakland listed on soundcheck. 3 upcoming gigs, with line-ups including Charles Hawthorne. See dates, start times and who's playing. 1123 Folsom St, San Francisco, CA 94103.
 
@@ -16,4 +16,4 @@ The Stud is a music venue in San Francisco/Oakland listed on soundcheck. 3 upcom
 
 1123 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-stud/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-stud/)*

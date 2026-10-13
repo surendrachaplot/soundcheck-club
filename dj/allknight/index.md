@@ -1,6 +1,6 @@
 # ALLKNIGHT
 
-ALLKNIGHT is a Progressive House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Toekomstmuziek, Amsterdam on Thu, 22 Oct 2026.
+ALLKNIGHT is a Progressive House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Toekomstmuziek, Amsterdam on Thu, 22 Oct 2026.
 
 ALLKNIGHT is a progressive house and deep house artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, London, Madrid and Manchester and 2 more. Often billed alongside Estiva, MXV (UK) and Fejká. Next up: Toekomstmuziek, Amsterdam on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ ALLKNIGHT is a progressive house and deep house artist based in United Kingdom, 
 
 Estiva, MXV (UK), Fejká
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/allknight/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/allknight/)*

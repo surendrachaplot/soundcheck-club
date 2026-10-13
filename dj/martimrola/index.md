@@ -1,6 +1,6 @@
 # Martim Rola
 
-Martim Rola is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Hotel Arena, Amsterdam on Wed, 21 Oct 2026.
+Martim Rola is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Hotel Arena, Amsterdam on Wed, 21 Oct 2026.
 
 Martim Rola is a techno and house artist based in Portugal, with 28 gigs on soundcheck across Amsterdam, Barcelona, Cardiff and Ibiza and 6 more. Often billed alongside ARODES, SHIA and Rodriguez Jr.. Next up: Hotel Arena, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Martim Rola is a techno and house artist based in Portugal, with 28 gigs on soun
 
 ARODES, SHIA, Rodriguez Jr.
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martimrola/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martimrola/)*

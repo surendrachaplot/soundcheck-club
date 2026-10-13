@@ -1,6 +1,6 @@
 # Christinathesaintt
 
-Christinathesaintt is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Smoot Standard, Boston on Fri, 23 Oct 2026.
+Christinathesaintt is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Smoot Standard, Boston on Fri, 23 Oct 2026.
 
 Christinathesaintt is a club and house artist based in United States of America, with 8 gigs on soundcheck across Boston and New York City. Often billed alongside Elysian, ARCHANGEL (US) and Adelaide. Next up: The Smoot Standard, Boston on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Christinathesaintt is a club and house artist based in United States of America,
 
 Elysian (1), ARCHANGEL (US), Adelaide (1)
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christinathesaintt/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christinathesaintt/)*

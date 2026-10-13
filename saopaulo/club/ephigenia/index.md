@@ -1,6 +1,6 @@
 # Ephigenia
 
-Ephigenia is a music venue in Sao Paulo with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "LØVE no Edifício Martinelli l 16.10" on Fri, 16 Oct 2026.
+Ephigenia is a music venue in Sao Paulo with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "LØVE no Edifício Martinelli l 16.10" on Fri, 16 Oct 2026.
 
 Ephigenia is a music venue in Sao Paulo listed on soundcheck. 3 upcoming gigs, with line-ups including Adana Twins, David Triana, Exequiel and Rafael Cerato. See dates, start times and who's playing. Viaduto Santa Ifigênia, 66 - Centro Histórico de São PauloSão Paulo - SP, 01033-050.
 
@@ -16,4 +16,4 @@ Ephigenia is a music venue in Sao Paulo listed on soundcheck. 3 upcoming gigs, w
 
 Viaduto Santa Ifigênia, 66 - Centro Histórico de São PauloSão Paulo - SP, 01033-050, Sao Paulo
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/ephigenia/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/ephigenia/)*

@@ -1,6 +1,6 @@
 # Mattie
 
-Mattie is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Garage Noord, Amsterdam on Sun, 25 Oct 2026.
+Mattie is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Garage Noord, Amsterdam on Sun, 25 Oct 2026.
 
 Mattie is a house and techno artist based in Netherlands, with 30 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 3 more. Often billed alongside Yubu, Caim and 42nd Avenue. Next up: Garage Noord, Amsterdam on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Mattie is a house and techno artist based in Netherlands, with 30 gigs on soundc
 
 Yubu, Caim, 42nd Avenue
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattie/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattie/)*

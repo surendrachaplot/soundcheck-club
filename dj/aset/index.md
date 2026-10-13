@@ -1,6 +1,6 @@
 # Aset
 
-Aset is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Sektor Evolution, Dresden on Sat, 17 Oct 2026.
+Aset is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Sektor Evolution, Dresden on Sat, 17 Oct 2026.
 
 Aset is a techno and house artist, with 5 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside Dolce Bahn, Schero and DUSTNER. Next up: Sektor Evolution, Dresden on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ Aset is a techno and house artist, with 5 gigs on soundcheck across Berlin, Dres
 
 Dolce Bahn, Schero, DUSTNER
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aset/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aset/)*

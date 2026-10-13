@@ -1,13 +1,14 @@
 # DJ Balu
 
-DJ Balu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Hype Discoteca, Naples on Sat, 31 Oct 2026.
+DJ Balu is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Birdcage Radio, Utrecht on Sat, 24 Oct 2026.
 
-DJ Balu is a house and techno artist, with 11 gigs on soundcheck across Amsterdam, Naples, Toronto and Utrecht. Often billed alongside Rochelle Dietz, CezarX and AIS De La Montagne. Next up: Hype Discoteca, Naples on Sat 31 Oct.
+DJ Balu is a house and techno artist, with 12 gigs on soundcheck across Amsterdam, Naples, Toronto and Utrecht. Often billed alongside Rochelle Dietz, CezarX and DJ Taco. Next up: Birdcage Radio, Utrecht on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Birdcage Radio | Utrecht |
 | Sat, 31 Oct 2026 | Hype Discoteca | Naples |
 
 ## Recently played
@@ -23,6 +24,6 @@ DJ Balu is a house and techno artist, with 11 gigs on soundcheck across Amsterda
 
 ## Shares bills with
 
-Rochelle Dietz, CezarX, AIS De La Montagne
+Rochelle Dietz, CezarX, DJ Taco
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbalu/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbalu/)*

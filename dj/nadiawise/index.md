@@ -1,6 +1,6 @@
 # Nadia Wise
 
-Nadia Wise is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Orangerie Neukölln, Berlin on Sat, 21 Nov 2026.
+Nadia Wise is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Orangerie Neukölln, Berlin on Sat, 21 Nov 2026.
 
 Nadia Wise is a house and disco artist based in United Kingdom, with 54 gigs on soundcheck across Berlin, Copenhagen, Leipzig and Lisbon and 4 more. Often billed alongside Ansonica, DJ CHICHI and Tommiboy. Next up: Orangerie Neukölln, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Nadia Wise is a house and disco artist based in United Kingdom, with 54 gigs on 
 
 Ansonica, DJ CHICHI, Tommiboy
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiawise/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiawise/)*

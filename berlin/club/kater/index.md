@@ -1,6 +1,6 @@
 # Kater
 
-Kater is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Kater x 23XI" on Fri, 16 Oct 2026.
+Kater is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Kater x 23XI" on Fri, 16 Oct 2026.
 
 Kater is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including AALIYAH, Adri Tüde, Aio and Alejandro Paz and 2 more. See dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
@@ -23,4 +23,4 @@ Kater is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with li
 
 Holzmarktstrasse 25, 10243 Berlin, Berlin
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*

@@ -1,6 +1,6 @@
 # Kurozumi
 
-Kurozumi is a Funk / Soul and Jazz artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Room, Tokyo on Sat, 24 Oct 2026.
+Kurozumi is a Funk / Soul and Jazz artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The Room, Tokyo on Sat, 24 Oct 2026.
 
 Kurozumi is a funk / soul and jazz artist based in Japan, with 23 gigs on soundcheck across Tokyo. Often billed alongside JINI, Soul Matters and Koichi Shima. Next up: The Room, Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Kurozumi is a funk / soul and jazz artist based in Japan, with 23 gigs on soundc
 
 JINI, Soul Matters, Koichi Shima
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kurozumi/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kurozumi/)*

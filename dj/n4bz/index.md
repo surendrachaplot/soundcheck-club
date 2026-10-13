@@ -1,6 +1,6 @@
 # n4bz
 
-n4bz is a electronic artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at La Cale Rabat, Morocco on Sat, 31 Oct 2026.
+n4bz is a electronic artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at La Cale Rabat, Morocco on Sat, 31 Oct 2026.
 
 n4bz is an electronic artist based in Morocco, with 3 gigs on soundcheck across Central, Morocco and Tunisia. Often billed alongside DJ Senc, Daox and ANOTR. Next up: La Cale Rabat, Morocco on Sat 31 Oct.
 
@@ -19,4 +19,4 @@ n4bz is an electronic artist based in Morocco, with 3 gigs on soundcheck across 
 
 DJ Senc, Daox, ANOTR
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n4bz/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n4bz/)*

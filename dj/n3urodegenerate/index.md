@@ -1,8 +1,8 @@
 # N3urodegenerate
 
-N3urodegenerate is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Sinners and Saints, Washington DC on Fri, 16 Oct 2026.
+N3urodegenerate is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Sinners and Saints, Washington DC on Fri, 16 Oct 2026.
 
-N3urodegenerate is a techno and experimental artist based in United States of America, with 10 gigs on soundcheck across New York City and Washington DC. Often billed alongside Ether Pleaser, Matthew Cha and Vivian Oblivion. Next up: Sinners and Saints, Washington DC on Fri 16 Oct.
+N3urodegenerate is a techno and club artist based in United States of America, with 11 gigs on soundcheck across New York City and Washington DC. Often billed alongside Ether Pleaser, Matthew Cha and Vivian Oblivion. Next up: Sinners and Saints, Washington DC on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ N3urodegenerate is a techno and experimental artist based in United States of Am
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Sinners and Saints | Washington DC |
 | Sat, 17 Oct 2026 | TBA - 16915 Darnestown Road, Boyds, Maryland 20841 | Washington DC |
+| Sat, 31 Oct 2026 | TRANSMISSION DC | Washington DC |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ N3urodegenerate is a techno and experimental artist based in United States of Am
 
 Ether Pleaser, Matthew Cha, Vivian Oblivion
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n3urodegenerate/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n3urodegenerate/)*

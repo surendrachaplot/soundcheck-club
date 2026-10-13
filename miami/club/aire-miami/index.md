@@ -1,6 +1,6 @@
 # Aire Miami
 
-Aire Miami is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Ahyoka, Danidon, Mindgazm, Xonya" on Wed, 14 Oct 2026.
+Aire Miami is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Ahyoka, Danidon, Mindgazm, Xonya" on Wed, 14 Oct 2026.
 
 Aire Miami is a music venue in Miami listed on soundcheck. 2 upcoming gigs, with line-ups including Markem. See dates, start times and who's playing. 111 NE 20th Street, Miami, FL 33137, USA.
 
@@ -15,4 +15,4 @@ Aire Miami is a music venue in Miami listed on soundcheck. 2 upcoming gigs, with
 
 111 NE 20th Street, Miami, FL 33137, USA, Miami
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/aire-miami/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/aire-miami/)*

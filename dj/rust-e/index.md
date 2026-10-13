@@ -1,6 +1,6 @@
 # Rust-e
 
-Rust-e is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Solace, Melbourne on Thu, 22 Oct 2026.
+Rust-e is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Solace, Melbourne on Thu, 22 Oct 2026.
 
 Rust-e is a house and tech house artist based in Australia, with 7 gigs on soundcheck across London and Melbourne. Often billed alongside Roka, Séarlait and Ambedo. Next up: Solace, Melbourne on Thu 22 Oct.
 
@@ -23,4 +23,4 @@ Rust-e is a house and tech house artist based in Australia, with 7 gigs on sound
 
 Roka, Séarlait, Ambedo
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rust-e/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rust-e/)*

@@ -1,14 +1,13 @@
 # Throw Social DC
 
-Throw Social DC is a music venue in Washington DC with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "WICKED MONDAZE" on Mon, 12 Oct 2026.
+Throw Social DC is a music venue in Washington DC with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "BUNNA B" on Fri, 16 Oct 2026.
 
-Throw Social DC is a music venue in Washington DC listed on soundcheck. 5 upcoming gigs, with line-ups including Guy Mantzur. See dates, start times and who's playing. 1401 Okie St NE, Ste #102 Washington D.C. 20002.
+Throw Social DC is a music venue in Washington DC listed on soundcheck. 4 upcoming gigs, with line-ups including Guy Mantzur. See dates, start times and who's playing. 1401 Okie St NE, Ste #102 Washington D.C. 20002.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 12 Oct 2026 | WICKED MONDAZE |  |
 | Fri, 16 Oct 2026 | BUNNA B |  |
 | Fri, 30 Oct 2026 | THE LEGENDS OF SUFI |  |
 | Sun, 1 Nov 2026 | ELECTROPICO: World Sounds |  |
@@ -18,4 +17,4 @@ Throw Social DC is a music venue in Washington DC listed on soundcheck. 5 upcomi
 
 1401 Okie St NE, Ste #102 Washington D.C. 20002, Washington DC
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/throw-social-dc/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/throw-social-dc/)*

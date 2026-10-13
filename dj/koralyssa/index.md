@@ -1,6 +1,6 @@
 # Kora Lyssa
 
-Kora Lyssa is a Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Department 184, Milan on Sun, 18 Oct 2026.
+Kora Lyssa is a Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Department 184, Milan on Sun, 18 Oct 2026.
 
 Kora Lyssa is a techno artist based in Spain, with 27 gigs on soundcheck across Milan. Often billed alongside Marthial, cccre and Iacopo Carli. Next up: Department 184, Milan on Sun 18 Oct.
 
@@ -28,4 +28,4 @@ Kora Lyssa is a techno artist based in Spain, with 27 gigs on soundcheck across 
 
 Marthial, cccre, Iacopo Carli
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koralyssa/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koralyssa/)*

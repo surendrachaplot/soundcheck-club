@@ -1,18 +1,18 @@
 # Timebar
 
-Timebar is a music venue in Stockholm with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Kiff Klubb" on Sat, 24 Oct 2026.
+Timebar is a music venue in Stockholm with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Kiff Klubb" on Sat, 24 Oct 2026.
 
-Timebar is a music venue in Stockholm listed on soundcheck. 2 upcoming gigs, with line-ups including Daddy Problems and Marble. See dates, start times and who's playing. Hornsgatan 174.
+Timebar is a music venue in Stockholm listed on soundcheck. 2 upcoming gigs, with line-ups including Daddy Problems, Hypponix and Marble. See dates, start times and who's playing. Hornsgatan 174.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Kiff Klubb |  |
+| Sat, 24 Oct 2026 | Kiff Klubb | Hypponix |
 | Fri, 30 Oct 2026 | OBEHÖRIGA | Daddy Problems, Marble |
 
 ## Address
 
 Hornsgatan 174, Stockholm
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/timebar/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/timebar/)*

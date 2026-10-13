@@ -1,14 +1,13 @@
 # Edifício Martinelli
 
-Edifício Martinelli is a music venue in Sao Paulo with 10 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "PARAÍSO PERDIDO no Edifício Martinelli |12.10" on Mon, 12 Oct 2026.
+Edifício Martinelli is a music venue in Sao Paulo with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "BAILE DO TREZE no Edifício Martinelli! |17.10" on Sat, 17 Oct 2026.
 
-Edifício Martinelli is a music venue in Sao Paulo listed on soundcheck. 10 upcoming gigs, with line-ups including Discos Baratos, Gui Scott, Martha Pinel and Mendel and 2 more. See dates, start times and who's playing. R. São Bento, 405 - Centro Histórico de São Paulo, São Paulo - SP, 01011-100.
+Edifício Martinelli is a music venue in Sao Paulo listed on soundcheck. 9 upcoming gigs, with line-ups including Discos Baratos, Gui Scott, Martha Pinel and Pabels and 2 more. See dates, start times and who's playing. R. São Bento, 405 - Centro Histórico de São Paulo, São Paulo - SP, 01011-100.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 12 Oct 2026 | PARAÍSO PERDIDO no Edifício Martinelli /12.10 | Mendel, Paraíso Perdido Djs |
 | Sat, 17 Oct 2026 | BAILE DO TREZE no Edifício Martinelli! /17.10 |  |
 | Sun, 18 Oct 2026 | ALPHA BY SUNSET (Anos 80) no Edifício Martinelli / DOMINGO 18.10 |  |
 | Fri, 23 Oct 2026 | DISCOS BARATOS no Edifício Martinelli! / 23.10 | Discos Baratos, Gui Scott, Pino Henrique Pedra |
@@ -23,4 +22,4 @@ Edifício Martinelli is a music venue in Sao Paulo listed on soundcheck. 10 upco
 
 R. São Bento, 405 - Centro Histórico de São Paulo, São Paulo - SP, 01011-100, Sao Paulo
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/edif-cio-martinelli/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/edif-cio-martinelli/)*

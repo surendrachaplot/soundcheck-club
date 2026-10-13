@@ -1,6 +1,6 @@
 # Ricoloop
 
-Ricoloop is a Afrobeat and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Wed, 14 Oct 2026.
+Ricoloop is a Afrobeat and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Wed, 14 Oct 2026.
 
 Ricoloop is an afrobeat and downtempo artist, with 8 gigs on soundcheck across Berlin, Ibiza, Milan and New York City and 1 more. Often billed alongside Christie, oSwald and AMO. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Wed 14 Oct.
 
@@ -24,4 +24,4 @@ Ricoloop is an afrobeat and downtempo artist, with 8 gigs on soundcheck across B
 
 Christie, oSwald, AMO
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricoloop/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricoloop/)*

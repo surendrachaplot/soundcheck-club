@@ -1,6 +1,6 @@
 # Overmono
 
-Overmono is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
+Overmono is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
 
 Overmono is a techno and house artist based in United Kingdom, with 108 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Austin and 47 more. Often billed alongside Nia Archives, KI/KI and Ewan McVicar. Next up: Depot Mayfield, Manchester on Fri 30 Oct.
 
@@ -34,4 +34,4 @@ Overmono is a techno and house artist based in United Kingdom, with 108 gigs on 
 
 Nia Archives, KI/KI, Ewan McVicar
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/overmono/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/overmono/)*

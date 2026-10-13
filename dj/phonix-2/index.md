@@ -1,6 +1,6 @@
 # Phonix (2)
 
-Phonix (2) is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Dave & Busters (Carlsbad), California on Sat, 17 Oct 2026.
+Phonix (2) is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Dave & Busters (Carlsbad), California on Sat, 17 Oct 2026.
 
 Phonix is a techno and drum & bass artist, with 12 gigs on soundcheck across California and San Diego. Often billed alongside Marcus Moscoso, Alien Tom and ARP8. Next up: Dave & Busters (Carlsbad), California on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Phonix is a techno and drum & bass artist, with 12 gigs on soundcheck across Cal
 
 Marcus Moscoso, Alien Tom, ARP8
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phonix-2/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phonix-2/)*

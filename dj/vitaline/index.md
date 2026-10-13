@@ -1,0 +1,28 @@
+# Vitaline
+
+Vitaline is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Cakeshop, Seoul on Sat, 24 Oct 2026.
+
+Vitaline is a techno and house artist based in France, with 85 gigs on soundcheck across Barcelona, Berlin, Brussels and Geneva and 12 more. Often billed alongside Break A Leg, Bassi-fr and Dj Schnake. Next up: Cakeshop, Seoul on Sat 24 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 24 Oct 2026 | Cakeshop | Seoul |
+
+## Recently played
+
+- Kilomètre25, Paris · Sat, 10 Oct 2026
+- La Boule Noire, Paris · Tue, 15 Sept 2026
+- essaim, Paris · Fri, 4 Sept 2026
+- Glazart, Paris · Sun, 2 Aug 2026
+- Château D'egreville, Paris · Fri, 3 Jul 2026
+- La Rotonde Stalingrad, Paris · Sat, 20 Jun 2026
+- Plage De Torcy, Paris · Sun, 24 May 2026
+- Badaboum, Paris · Fri, 15 May 2026
+
+## Shares bills with
+
+Break A Leg, Bassi-fr, Dj Schnake
+
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitaline/)*

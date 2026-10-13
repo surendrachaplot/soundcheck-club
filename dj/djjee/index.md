@@ -1,6 +1,6 @@
 # DJ Jee
 
-DJ Jee is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Kilomètre25, Paris on Sat, 24 Oct 2026.
+DJ Jee is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Kilomètre25, Paris on Sat, 24 Oct 2026.
 
 DJ Jee is a techno and bass artist based in France, with 40 gigs on soundcheck across Paris. Often billed alongside Ekum, A.mo and Pepperpot. Next up: Kilomètre25, Paris on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DJ Jee is a techno and bass artist based in France, with 40 gigs on soundcheck a
 
 Ekum, A.mo, Pepperpot
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjee/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjee/)*

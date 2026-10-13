@@ -1,6 +1,6 @@
 # DJ Statik
 
-DJ Statik is a Noise and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Studio56, Paris on Sun, 11 Oct 2026.
+DJ Statik is a Noise and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Studio56, Paris on Sun, 11 Oct 2026.
 
 DJ Statik is a noise and industrial artist, with 6 gigs on soundcheck across Paris and Tokyo. Often billed alongside FECROMASS, Golpe Mortal and Tomohiko Sagae. Next up: Studio56, Paris on Sun 11 Oct.
 
@@ -23,4 +23,4 @@ DJ Statik is a noise and industrial artist, with 6 gigs on soundcheck across Par
 
 FECROMASS, Golpe Mortal, Tomohiko Sagae
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djstatik/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djstatik/)*

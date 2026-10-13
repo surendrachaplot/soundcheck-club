@@ -1,6 +1,6 @@
 # Simeone (2)
 
-Simeone (2) is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Bike Jesus, Prague on Fri, 23 Oct 2026.
+Simeone (2) is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Bike Jesus, Prague on Fri, 23 Oct 2026.
 
 Simeone is a bass and dub artist based in Czech Republic, with 6 gigs on soundcheck across Prague. Often billed alongside Meldaboi, SMB and Silverbo1. Next up: Bike Jesus, Prague on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ Simeone is a bass and dub artist based in Czech Republic, with 6 gigs on soundch
 
 Meldaboi, SMB (1), Silverbo1
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simeone-2/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simeone-2/)*

@@ -1,6 +1,6 @@
 # Redfern
 
-Redfern is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Smokey Club, Amsterdam on Wed, 21 Oct 2026.
+Redfern is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Smokey Club, Amsterdam on Wed, 21 Oct 2026.
 
 Redfern is a house and progressive house artist, with 6 gigs on soundcheck across Amsterdam and Sao Paulo. Often billed alongside Pedräda, ANNYL and Bauhouse. Next up: Smokey Club, Amsterdam on Wed 21 Oct.
 
@@ -22,4 +22,4 @@ Redfern is a house and progressive house artist, with 6 gigs on soundcheck acros
 
 Pedräda, ANNYL, Bauhouse
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redfern/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redfern/)*

@@ -1,6 +1,6 @@
 # DotDash
 
-DotDash is a Techno and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 6 Nov 2026.
+DotDash is a Techno and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 6 Nov 2026.
 
 DotDash is a techno and italo disco artist based in Poland, with 9 gigs on soundcheck across Berlin. Often billed alongside Bconscious, Vū and nixmoon. Next up: TBA - Secret Location, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ DotDash is a techno and italo disco artist based in Poland, with 9 gigs on sound
 
 Bconscious, Vū, nixmoon
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dotdash/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dotdash/)*

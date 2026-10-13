@@ -1,6 +1,6 @@
 # Prins Filip
 
-Prins Filip is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Gazebo, Stockholm on Sat, 31 Oct 2026.
+Prins Filip is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Gazebo, Stockholm on Sat, 31 Oct 2026.
 
 Prins Filip is a techno and house artist based in Sweden, with 18 gigs on soundcheck across Stockholm. Often billed alongside Rebellen, Billie Jo and Jessie Granqvist. Next up: Gazebo, Stockholm on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Prins Filip is a techno and house artist based in Sweden, with 18 gigs on soundc
 
 Rebellen, Billie Jo, Jessie Granqvist
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prinsfilip/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prinsfilip/)*

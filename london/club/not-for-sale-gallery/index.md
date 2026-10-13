@@ -1,6 +1,6 @@
 # Not For Sale Gallery
 
-Not For Sale Gallery is a music venue in London with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Strobe Soundsystem LIVE AV: James Rail, Atlants, Braden - Frieze Art Week Show" on Wed, 14 Oct 2026.
+Not For Sale Gallery is a music venue in London with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Strobe Soundsystem LIVE AV: James Rail, Atlants, Braden - Frieze Art Week Show" on Wed, 14 Oct 2026.
 
 Not For Sale Gallery is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Braden, Leonardo Cruz DJ, Oscar Jones and Rowland and 2 more. See dates, start times and who's playing. 83 Smeed Road, Hackney Wick, E3 2NR.
 
@@ -15,4 +15,4 @@ Not For Sale Gallery is a music venue in London listed on soundcheck. 2 upcoming
 
 83 Smeed Road, Hackney Wick, E3 2NR, London
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/not-for-sale-gallery/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/not-for-sale-gallery/)*

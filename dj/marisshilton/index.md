@@ -1,14 +1,15 @@
 # Maris Shilton
 
-Maris Shilton is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at PKH Warehouse, Berlin on Fri, 16 Oct 2026.
+Maris Shilton is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at PKH Warehouse, Berlin on Fri, 16 Oct 2026.
 
-Maris Shilton is a techno and house artist based in France, with 73 gigs on soundcheck across Berlin, Frankfurt, Paris and Stockholm and 2 more. Often billed alongside Mara Menace, Sicion and Jessie Granqvist. Next up: PKH Warehouse, Berlin on Fri 16 Oct.
+Maris Shilton is a techno and house artist based in France, with 74 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Paris and 3 more. Often billed alongside Mara Menace, Sicion and Jessie Granqvist. Next up: PKH Warehouse, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | PKH Warehouse | Berlin |
+| Sat, 24 Oct 2026 | nachbar | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Maris Shilton is a techno and house artist based in France, with 73 gigs on soun
 
 Mara Menace, Sicion, Jessie Granqvist
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marisshilton/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marisshilton/)*

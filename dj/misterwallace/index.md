@@ -1,6 +1,6 @@
 # Mister Wallace
 
-Mister Wallace is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Cellblock Chicago, Chicago on Sat, 24 Oct 2026.
+Mister Wallace is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Cellblock Chicago, Chicago on Sat, 24 Oct 2026.
 
 Mister Wallace is a techno and house artist based in United States of America, with 55 gigs on soundcheck across Berlin, Chicago, Detroit and Houston and 4 more. Often billed alongside Shaun J. Wright, Mister Hoochiemama and Sterling Juan Diaz. Next up: Cellblock Chicago, Chicago on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Mister Wallace is a techno and house artist based in United States of America, w
 
 Shaun J. Wright, Mister Hoochiemama, Sterling Juan Diaz
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misterwallace/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misterwallace/)*

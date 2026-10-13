@@ -1,6 +1,6 @@
 # 1LDK
 
-1LDK is a Pop and Experimental artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu, 15 Oct 2026.
+1LDK is a Pop and Experimental artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu, 15 Oct 2026.
 
 1LDK is a pop and experimental artist based in Japan, with 8 gigs on soundcheck across Barcelona, Berlin, Cologne and London and 2 more. Often billed alongside Andriana-Yaroslava Saienko, Carrier and Catu Diosis. Next up: The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu 15 Oct.
 
@@ -24,4 +24,4 @@
 
 Andriana-Yaroslava Saienko, Carrier, Catu Diosis
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1ldk/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1ldk/)*

@@ -1,6 +1,6 @@
 # LRRY
 
-LRRY is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam, Amsterdam on Sun, 25 Oct 2026.
+LRRY is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam, Amsterdam on Sun, 25 Oct 2026.
 
 LRRY is a club and baile funk artist, with 7 gigs on soundcheck across Amsterdam. Often billed alongside Godsendo, Tida Kamara and amara. Next up: TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam, Amsterdam on Sun 25 Oct.
 
@@ -23,4 +23,4 @@ LRRY is a club and baile funk artist, with 7 gigs on soundcheck across Amsterdam
 
 Godsendo, Tida Kamara, amara
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lrry/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lrry/)*

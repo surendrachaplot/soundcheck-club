@@ -1,6 +1,6 @@
 # The DownTempo Temple at Folklore
 
-The DownTempo Temple at Folklore on Sat 17 Oct, London. 6 artists: AALEX, Altayef, Apsara (UK) and Irene S and 2 more. Downtempo. See the line-up on soundcheck.
+The DownTempo Temple at Folklore on Sat 17 Oct, London. 6 artists: AALEX, Altayef, Apsara (UK) and IRENÆ and 2 more. Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ The DownTempo Temple at Folklore on Sat 17 Oct, London. 6 artists: AALEX, Altaye
 - AALEX
 - Altayef
 - Apsara (UK)
-- Irene S
+- IRENÆ
 - Parra Vie
 - Sokolyann
 

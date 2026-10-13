@@ -1,6 +1,6 @@
 # Wall Ra
 
-Wall Ra is a House and Ghetto Tech artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Goldener Reiter, Munich on Sat, 17 Oct 2026.
+Wall Ra is a House and Ghetto Tech artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Goldener Reiter, Munich on Sat, 17 Oct 2026.
 
 Wall Ra is a house and ghetto tech artist based in Germany, with 68 gigs on soundcheck across Basel, Berlin, Hamburg and Hannover and 5 more. Often billed alongside Carl Hang, DJ Business and redblunted. Next up: Goldener Reiter, Munich on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Wall Ra is a house and ghetto tech artist based in Germany, with 68 gigs on soun
 
 Carl Hang, DJ Business (2), redblunted
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wallra/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wallra/)*

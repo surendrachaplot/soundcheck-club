@@ -1,6 +1,6 @@
 # Wilkinson
 
-Wilkinson is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at MK Arena, Midlands on Sat, 31 Oct 2026.
+Wilkinson is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at MK Arena, Midlands on Sat, 31 Oct 2026.
 
 Wilkinson is a drum & bass and bass artist based in United Kingdom, with 80 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 34 more. Often billed alongside Kanine, Mozey and Andy C. Next up: MK Arena, Midlands on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Wilkinson is a drum & bass and bass artist based in United Kingdom, with 80 gigs
 
 Kanine, Mozey, Andy C
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wilkinson/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wilkinson/)*

@@ -1,6 +1,6 @@
 # Krankent
 
-Krankent is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at BRAND SHIBUYA, Tokyo on Thu, 15 Oct 2026.
+Krankent is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at BRAND SHIBUYA, Tokyo on Thu, 15 Oct 2026.
 
 Krankent is a techno and house artist based in Japan, with 107 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), KASHIWAGI and t.t.. Next up: BRAND SHIBUYA, Tokyo on Thu 15 Oct.
 
@@ -29,4 +29,4 @@ Krankent is a techno and house artist based in Japan, with 107 gigs on soundchec
 
 SIGNAL (JP), KASHIWAGI, t.t.
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krankent/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krankent/)*

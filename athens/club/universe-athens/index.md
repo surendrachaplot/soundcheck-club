@@ -1,6 +1,6 @@
 # Universe Athens
 
-Universe Athens is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "BCCO x VLCT ATHENS with Adrián Mills" on Sat, 17 Oct 2026.
+Universe Athens is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "BCCO x VLCT ATHENS with Adrián Mills" on Sat, 17 Oct 2026.
 
 Universe Athens is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with line-ups including Adrian Mills, Até., Ben Klock and Cirkle and 2 more. See dates, start times and who's playing. Leoforos Kifisou 87 Athens 122 41.
 
@@ -15,4 +15,4 @@ Universe Athens is a music venue in Athens listed on soundcheck. 2 upcoming gigs
 
 Leoforos Kifisou 87 Athens 122 41, Athens
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/universe-athens/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/universe-athens/)*

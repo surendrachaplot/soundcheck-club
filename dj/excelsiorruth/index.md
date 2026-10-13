@@ -1,6 +1,6 @@
 # Excelsior Ruth
 
-Excelsior Ruth is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Glove That Fits, London on Fri, 13 Nov 2026.
+Excelsior Ruth is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The Glove That Fits, London on Fri, 13 Nov 2026.
 
 Excelsior Ruth is a trance and techno artist, with 33 gigs on soundcheck across London and Newcastle. Often billed alongside Angel Steele, Sybil and TSUNIMAN. Next up: The Glove That Fits, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Excelsior Ruth is a trance and techno artist, with 33 gigs on soundcheck across 
 
 Angel Steele, Sybil, TSUNIMAN
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/excelsiorruth/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/excelsiorruth/)*

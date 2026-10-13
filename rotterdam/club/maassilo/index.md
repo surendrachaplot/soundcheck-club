@@ -1,6 +1,6 @@
 # Maassilo
 
-Maassilo is a music venue in Rotterdam with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Megarave" on Sat, 24 Oct 2026.
+Maassilo is a music venue in Rotterdam with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Megarave" on Sat, 24 Oct 2026.
 
 Maassilo is a music venue in Rotterdam listed on soundcheck. 6 upcoming gigs, with line-ups including A.M.C., AAT (NL), amara and Art of Fighters and 2 more. See dates, start times and who's playing. Maashaven Zuidzijde 1-2, 3081 AE, Rotterdam, Netherlands.
 
@@ -19,4 +19,4 @@ Maassilo is a music venue in Rotterdam listed on soundcheck. 6 upcoming gigs, wi
 
 Maashaven Zuidzijde 1-2, 3081 AE, Rotterdam, Netherlands, Rotterdam
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/maassilo/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/maassilo/)*

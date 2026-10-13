@@ -1,8 +1,8 @@
 # New Guernica
 
-New Guernica is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "ESTRØ" on Fri, 16 Oct 2026.
+New Guernica is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "ESTRØ" on Fri, 16 Oct 2026.
 
-New Guernica is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including Aaliyah Salem, bbsanii, CAM GIRL and Dashé and 2 more. See dates, start times and who's playing. 64 Smith Street, Collingwood, VIC 3066.
+New Guernica is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, with line-ups including Aaliyah Salem, bbsanii, CAM GIRL and Dashé and 2 more. See dates, start times and who's playing. 64 Smith Street, Collingwood, VIC 3066.
 
 ## What's on
 
@@ -11,9 +11,10 @@ New Guernica is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs
 | Fri, 16 Oct 2026 | ESTRØ | Aaliyah Salem, Haus of Ralph, bbsanii |
 | Thu, 22 Oct 2026 | WavyLand & CLUBHAUS presents: CAM GIRL | CAM GIRL, Dashé, Haus of Ralph |
 | Fri, 23 Oct 2026 | DIRTY DISCO | DJ JNETT, Mothafunk |
+| Fri, 6 Nov 2026 | Pan Party // feat. DJ LONER // Wahaj | DJ Kiti, DJ LONER, MidNightSnack |
 
 ## Address
 
 64 Smith Street, Collingwood, VIC 3066, Melbourne
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/new-guernica/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/new-guernica/)*

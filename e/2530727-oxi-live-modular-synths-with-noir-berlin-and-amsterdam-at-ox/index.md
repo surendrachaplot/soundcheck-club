@@ -1,6 +1,6 @@
 # OXI LIVE: MODULAR / SYNTHS - with .noir. - Berlin and Amsterdam at OXI
 
-OXI LIVE: MODULAR / SYNTHS - with .noir. - Berlin and Amsterdam on Fri 6 Nov, Berlin. 8 artists: Dave Mech, DEN!SE, Elis and ELLA WAX and 4 more. Techno. See the line-up on soundcheck.
+OXI LIVE: MODULAR / SYNTHS - with .noir. - Berlin and Amsterdam on Fri 6 Nov, Berlin. 7 artists: DEN!SE, Elis, ELLA WAX and GVMEDNA and 3 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ OXI LIVE: MODULAR / SYNTHS - with .noir. - Berlin and Amsterdam on Fri 6 Nov, Be
 
 ## Line-up
 
-- Dave Mech
 - DEN!SE
 - Elis
 - ELLA WAX

@@ -1,6 +1,6 @@
 # Eric Yaz
 
-Eric Yaz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Strand DC, Washington DC on Fri, 11 Dec 2026.
+Eric Yaz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Strand DC, Washington DC on Fri, 11 Dec 2026.
 
 Eric Yaz is a techno and house artist based in United States of America, with 65 gigs on soundcheck across Detroit, Miami, New York City and San Diego and 1 more. Often billed alongside SPCL.K, Xav (US) and Stagira. Next up: Strand DC, Washington DC on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Eric Yaz is a techno and house artist based in United States of America, with 65
 
 SPCL.K, Xav (US), Stagira
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericyaz/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericyaz/)*

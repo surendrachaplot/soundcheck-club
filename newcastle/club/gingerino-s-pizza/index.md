@@ -1,6 +1,6 @@
 # Gingerino's Pizza
 
-Gingerino's Pizza is a music venue in Newcastle with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Mercury Prize Fringe Event: Public House Hifi presents Tommy Caulker (World Headquarters) " on Sat, 17 Oct 2026.
+Gingerino's Pizza is a music venue in Newcastle with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Mercury Prize Fringe Event: Public House Hifi presents Tommy Caulker (World Headquarters) " on Sat, 17 Oct 2026.
 
 Gingerino's Pizza is a music venue in Newcastle listed on soundcheck. 3 upcoming gigs, with line-ups including Diz Jockey, The Mighty Zaf and Vinny Vins. See dates, start times and who's playing. 8 Stepney Bank, Newcastle upon Tyne NE1 2PW.
 
@@ -16,4 +16,4 @@ Gingerino's Pizza is a music venue in Newcastle listed on soundcheck. 3 upcoming
 
 8 Stepney Bank, Newcastle upon Tyne NE1 2PW, Newcastle
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/gingerino-s-pizza/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/gingerino-s-pizza/)*

@@ -1,6 +1,6 @@
 # Breakaway: Free Entry Before 12am - Jungle / Drum & Bass at Dalston Den
 
-Breakaway: Free Entry Before 12am - Jungle / Drum & Bass at Dalston Den on Fri 16 Oct, London. 1 artist: Bryn Brax. Drum & Bass and Jungle. See the line-up on soundcheck.
+Breakaway: Free Entry Before 12am - Jungle / Drum & Bass at Dalston Den on Fri 16 Oct, London. 2 artists: Bryn Brax and Whatsname. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Breakaway: Free Entry Before 12am - Jungle / Drum & Bass at Dalston Den on Fri 1
 ## Line-up
 
 - Bryn Brax
+- Whatsname
 
 *Source: [soundcheck](https://soundcheck.club/e/2527809-breakaway-free-entry-before-12am-jungle-drum-bass-at-dalston/)*

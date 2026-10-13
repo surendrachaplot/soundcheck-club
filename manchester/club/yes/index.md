@@ -1,8 +1,8 @@
 # Yes
 
-Yes is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Seb Wildblood + Sonnee" on Fri, 16 Oct 2026.
+Yes is a music venue in Manchester with 20 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Seb Wildblood + Sonnee" on Fri, 16 Oct 2026.
 
-Yes is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, with line-ups including Aiden Francis, Cameo Blush, Celdred and DJ POLLY and 2 more. See dates, start times and who's playing. 38 Charles Street Manchester, M1 7BD, United Kingdom.
+Yes is a music venue in Manchester listed on soundcheck. 20 upcoming gigs, with line-ups including Aiden Francis, Cameo Blush, Celdred and DJ POLLY and 2 more. See dates, start times and who's playing. 38 Charles Street Manchester, M1 7BD, United Kingdom.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Yes is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, with 
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Seb Wildblood + Sonnee | Seb Wildblood, Sonnee |
 | Sat, 17 Oct 2026 | Deptford Northern Soul Club |  |
-| Fri, 23 Oct 2026 | 3 YEARS OF HOUSE RULES COLLECTIVE | Celdred, Macy Lancaster, Megan Wroe, Nick Charles |
+| Fri, 23 Oct 2026 | 3 YEARS OF HOUSE RULES COLLECTIVE | Celdred, Macy Lancaster, Megan Wroe, Sharayda |
 | Thu, 29 Oct 2026 | DISCO PUSS presents HALLOWHISKERS - Full Building Takeover | DJ POLLY, Forbid, LARISHKA (UK), Macy Lancaster, Rich Reason |
 | Sat, 31 Oct 2026 | 365 Party Ghouls: Halloween | kaoti |
 | Wed, 4 Nov 2026 | Grey Lantern presents: Maria BC |  |
@@ -23,4 +23,4 @@ Yes is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, with 
 
 38 Charles Street Manchester, M1 7BD, United Kingdom, Manchester
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*

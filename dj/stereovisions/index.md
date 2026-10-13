@@ -1,14 +1,15 @@
 # Stereo Visions
 
-Stereo Visions is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Romantica, Stuttgart on Tue, 13 Oct 2026.
+Stereo Visions is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Romantica, Stuttgart on Tue, 13 Oct 2026.
 
-Stereo Visions is a techno and house artist based in Germany, with 34 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside Needs, Hjalte and Ardt. Next up: Romantica, Stuttgart on Tue 13 Oct.
+Stereo Visions is a techno and house artist based in Germany, with 35 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside Needs, Hjalte and Ardt. Next up: Romantica, Stuttgart on Tue 13 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 13 Oct 2026 | Romantica | Stuttgart |
+| Fri, 23 Oct 2026 | TBA - Uhu Bar | Stuttgart |
 | Fri, 4 Dec 2026 | Fridas Pier | Stuttgart |
 
 ## Recently played
@@ -26,4 +27,4 @@ Stereo Visions is a techno and house artist based in Germany, with 34 gigs on so
 
 Needs (2), Hjalte, Ardt
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stereovisions/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stereovisions/)*

@@ -1,6 +1,6 @@
 # Wrisk
 
-Wrisk is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Bongo Club, Edinburgh on Tue, 13 Oct 2026.
+Wrisk is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The Bongo Club, Edinburgh on Tue, 13 Oct 2026.
 
 Wrisk is a techno and hardcore artist based in United Kingdom, with 78 gigs on soundcheck across Dundee and Edinburgh. Often billed alongside DV60, Smiff and Sea Urchin. Next up: The Bongo Club, Edinburgh on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ Wrisk is a techno and hardcore artist based in United Kingdom, with 78 gigs on s
 
 DV60, Smiff, Sea Urchin
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wrisk/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wrisk/)*

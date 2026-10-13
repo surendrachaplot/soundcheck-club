@@ -1,6 +1,6 @@
 # DJ Vibes
 
-DJ Vibes is a Hardcore and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Electrowerkz, London on Sat, 17 Oct 2026.
+DJ Vibes is a Hardcore and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Electrowerkz, London on Sat, 17 Oct 2026.
 
 DJ Vibes is a hardcore and trance artist based in Ireland, with 32 gigs on soundcheck across Amsterdam, Bristol, Leeds and Liverpool and 4 more. Often billed alongside Billy Daniel Bunter, Jay Cunning and Arkyn. Next up: Electrowerkz, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ DJ Vibes is a hardcore and trance artist based in Ireland, with 32 gigs on sound
 
 Billy Daniel Bunter, Jay Cunning, Arkyn
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djvibes/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djvibes/)*

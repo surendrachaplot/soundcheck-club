@@ -1,6 +1,6 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Haus of Lil Girlz presents Welcome to the Dollhaus" on Wed, 14 Oct 2026.
+Mood Ring is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Haus of Lil Girlz presents Welcome to the Dollhaus" on Wed, 14 Oct 2026.
 
 Mood Ring is a music venue in New York City listed on soundcheck. 18 upcoming gigs, with line-ups including Abril IRL, AG, Ah Dek and Aleska and 2 more. See dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
@@ -23,4 +23,4 @@ Mood Ring is a music venue in New York City listed on soundcheck. 18 upcoming gi
 
 1260 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*

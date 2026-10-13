@@ -1,6 +1,6 @@
 # Kit Kat
 
-Kit Kat is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Flinders, Sydney on Sat, 17 Oct 2026.
+Kit Kat is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Flinders, Sydney on Sat, 17 Oct 2026.
 
 Kit Kat is a techno and industrial artist based in Australia, with 3 gigs on soundcheck across Sydney. Often billed alongside Bleach, I-SO and JUNN GULDUR. Next up: The Flinders, Sydney on Sat 17 Oct.
 
@@ -19,4 +19,4 @@ Kit Kat is a techno and industrial artist based in Australia, with 3 gigs on sou
 
 Bleach, I-SO, JUNN GULDUR
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kitkat/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kitkat/)*

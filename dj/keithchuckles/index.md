@@ -1,6 +1,6 @@
 # Keith Chuckles
 
-Keith Chuckles is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 14 Nov 2026.
+Keith Chuckles is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 14 Nov 2026.
 
 Keith Chuckles is a trance and techno artist, with 5 gigs on soundcheck across Copenhagen. Often billed alongside ASTA MARI, Astral Bandit and DJ Void. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ Keith Chuckles is a trance and techno artist, with 5 gigs on soundcheck across C
 
 ASTA MARI, Astral Bandit, DJ Void
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keithchuckles/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keithchuckles/)*

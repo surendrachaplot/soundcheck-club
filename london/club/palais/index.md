@@ -1,6 +1,6 @@
 # Palais
 
-Palais is a music venue in London with 18 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Palais: Conducta b2b DJ SWISHA (All Night Long) [SOLD OUT]" on Fri, 16 Oct 2026.
+Palais is a music venue in London with 18 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Palais: Conducta b2b DJ SWISHA (All Night Long) [SOLD OUT]" on Fri, 16 Oct 2026.
 
 Palais is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including Adi (CO), Aurora Halal, Axel Boman and BASHKKA and 2 more. See dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
@@ -12,7 +12,7 @@ Palais is a music venue in London listed on soundcheck. 18 upcoming gigs, with l
 | Sat, 17 Oct 2026 | BASHKKA presents INVIGORATE A.M. with GIDEÖN & Pancratio   | BASHKKA, GIDEÖN, Pancratio |
 | Fri, 23 Oct 2026 | Origins: Hamish & Toby (All Night Long) | Hamish & Toby |
 | Sat, 24 Oct 2026 | Palais: Aurora Halal (All Night Long) | Aurora Halal |
-| Fri, 30 Oct 2026 | dh2 presents George Daniel & Oscar Farrell (All Night Long) | George Daniel, Oscar Farrell |
+| Fri, 30 Oct 2026 | dh2 presents George Daniel & Oscar Farrell (All Night Long) [SOLD OUT] | George Daniel, Oscar Farrell |
 | Sat, 31 Oct 2026 | Palais: In House |  |
 | Fri, 6 Nov 2026 | Palais: Axel Boman & CC:DISCO | Axel Boman, CC:DISCO! |
 | Sat, 7 Nov 2026 | Origins: Or:la & JASSS | JASSS, Or:la |
@@ -23,4 +23,4 @@ Palais is a music venue in London listed on soundcheck. 18 upcoming gigs, with l
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*

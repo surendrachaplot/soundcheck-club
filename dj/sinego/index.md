@@ -1,14 +1,13 @@
 # Sinego
 
-Sinego is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA -  Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri, 16 Oct 2026.
+Sinego is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
 
-Sinego is a house and techno artist based in Colombia, with 20 gigs on soundcheck across Amsterdam, Brussels, Ibiza and Los Angeles and 9 more. Often billed alongside Fiona Kraft, Jimi Jules and Xinobi. Next up: TBA -  Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri 16 Oct.
+Sinego is a house and techno artist based in Colombia, with 19 gigs on soundcheck across Amsterdam, Brussels, Ibiza and Los Angeles and 8 more. Often billed alongside Fiona Kraft, Jimi Jules and Xinobi. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | TBA -  Ex Hacienda de San Pablo de Enmedio | Mexico City |
 | Sat, 24 Oct 2026 | WestWeelde | Amsterdam |
 
 ## Recently played
@@ -26,4 +25,4 @@ Sinego is a house and techno artist based in Colombia, with 20 gigs on soundchec
 
 Fiona Kraft, Jimi Jules, Xinobi
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinego/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinego/)*

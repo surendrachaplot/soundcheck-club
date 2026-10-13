@@ -1,6 +1,6 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 12 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Dance Division 17 - Nour's bday edition" on Fri, 16 Oct 2026.
+Wiggle Room is a music venue in Toronto with 12 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Dance Division 17 - Nour's bday edition" on Fri, 16 Oct 2026.
 
 Wiggle Room is a music venue in Toronto listed on soundcheck. 12 upcoming gigs, with line-ups including Addy, Barroness, Brash-B and Cozmic Cat and 2 more. See dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
@@ -23,4 +23,4 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 12 upcoming gigs, 
 
 772 Dundas St W, Toronto, ON M6J 1V1, Canada, Toronto
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*

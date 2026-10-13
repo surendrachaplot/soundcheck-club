@@ -1,6 +1,6 @@
 # Greg Eversoul
 
-Greg Eversoul is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Monarch, San Francisco/Oakland on Sat, 17 Oct 2026.
+Greg Eversoul is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Monarch, San Francisco/Oakland on Sat, 17 Oct 2026.
 
 Greg Eversoul is a house and deep house artist based in United States of America, with 33 gigs on soundcheck across Denver, Los Angeles, Mexico City and Miami and 2 more. Often billed alongside DJ M3, Duserock and HIDRA. Next up: Monarch, San Francisco/Oakland on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Greg Eversoul is a house and deep house artist based in United States of America
 
 DJ M3, Duserock, HIDRA
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gregeversoul/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gregeversoul/)*

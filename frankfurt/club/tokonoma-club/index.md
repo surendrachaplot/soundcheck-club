@@ -1,14 +1,15 @@
 # Tokonoma Club
 
-Tokonoma Club is a music venue in Frankfurt with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "AOS X TOKONOMA W/ Freddy K, Blasha & Allatt, DJ AYA & MANY MORE" on Fri, 16 Oct 2026.
+Tokonoma Club is a music venue in Frankfurt with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "AOS X TOKONOMA W/ Freddy K, Blasha & Allatt, DJ AYA & MANY MORE" on Fri, 16 Oct 2026.
 
-Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 3 upcoming gigs, with line-ups including 131bpm, Alas, Back2Bass and Bitter Babe and 2 more. See dates, start times and who's playing. Gutleutstraße 320,60327 Frankfurt.
+Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 4 upcoming gigs, with line-ups including 131bpm, Alas, Back2Bass and Bitter Babe and 2 more. See dates, start times and who's playing. Gutleutstraße 320,60327 Frankfurt.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | AOS X TOKONOMA W/ Freddy K, Blasha & Allatt, DJ AYA & MANY MORE | Blasha & Allatt, Cosmic Cherry, DJ AYA, EliaHaze, Freddy K, Janis Zielinski, Penglord, Speckman, Talia Dorr, ZSZS, guuc20459 |
+| Sat, 17 Oct 2026 | CIRCLE X SHORTCUT | Chris Tietjen, Markus Fix, Sweely, Wendy Bkz |
 | Fri, 30 Oct 2026 | Juicy Gang Meets Explorers | Alas (2), Back2Bass, Bitter Babe, DJ MELL G, DJ Spit, JADA MORAES, MCR-T, Newinfluenzer, Pasat |
 | Sat, 31 Oct 2026 | Club Bizarre | 131bpm, DJ ASS TITS, Jorkes, Lea Occhi, Luzie |
 
@@ -16,4 +17,4 @@ Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 3 upcoming gig
 
 Gutleutstraße 320,60327 Frankfurt, Frankfurt
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tokonoma-club/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tokonoma-club/)*

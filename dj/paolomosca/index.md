@@ -1,6 +1,6 @@
 # Paolo Mosca
 
-Paolo Mosca is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at feedbk, New York City on Sun, 18 Oct 2026.
+Paolo Mosca is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at feedbk, New York City on Sun, 18 Oct 2026.
 
 Paolo Mosca is a house and techno artist based in Italy, with 38 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Cecilio, Laurine and Jorge Escribano. Next up: feedbk, New York City on Sun 18 Oct.
 
@@ -27,4 +27,4 @@ Paolo Mosca is a house and techno artist based in Italy, with 38 gigs on soundch
 
 Cecilio, Laurine, Jorge Escribano
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paolomosca/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paolomosca/)*

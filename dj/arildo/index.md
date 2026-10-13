@@ -1,6 +1,6 @@
 # Arildo
 
-Arildo is a Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Switch Bar, Barcelona on Thu, 15 Oct 2026.
+Arildo is a Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Switch Bar, Barcelona on Thu, 15 Oct 2026.
 
 Arildo is an electro artist, with 144 gigs on soundcheck across Barcelona and Oslo. Often billed alongside DAVID LOST, Cyberdom and C.MØ. Next up: Switch Bar, Barcelona on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Arildo is an electro artist, with 144 gigs on soundcheck across Barcelona and Os
 
 DAVID LOST, Cyberdom, C.MØ
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arildo/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arildo/)*

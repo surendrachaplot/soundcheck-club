@@ -1,6 +1,6 @@
 # Manzone & Strong
 
-Manzone & Strong is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Comfort Zone, Toronto on Sat, 17 Oct 2026.
+Manzone & Strong is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Comfort Zone, Toronto on Sat, 17 Oct 2026.
 
 Manzone & Strong are a tech house and house duo based in Canada, with 198 gigs on soundcheck across Toronto. Often billed alongside Barroness, Tyler Hill and Miz Megs. Next up: The Comfort Zone, Toronto on Sat 17 Oct.
 
@@ -31,4 +31,4 @@ Manzone & Strong are a tech house and house duo based in Canada, with 198 gigs o
 
 Barroness, Tyler Hill, Miz Megs
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manzonestrong/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manzonestrong/)*

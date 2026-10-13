@@ -1,6 +1,6 @@
 # Carl Cox
 
-Carl Cox is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Selina's, Sydney on Thu, 15 Oct 2026.
+Carl Cox is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Selina's, Sydney on Thu, 15 Oct 2026.
 
 Carl Cox is a techno and house artist based in United Kingdom, with 141 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 47 more. Often billed alongside Melon Bomb, Chelina Manuhutu and Christopher Coe. Next up: Selina's, Sydney on Thu 15 Oct.
 
@@ -36,4 +36,4 @@ Carl Cox is a techno and house artist based in United Kingdom, with 141 gigs on 
 
 Melon Bomb, Chelina Manuhutu, Christopher Coe
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcox/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcox/)*

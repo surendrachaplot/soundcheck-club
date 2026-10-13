@@ -1,6 +1,6 @@
 # Week-End Fest XV - Day III at Stadtgarten Konzertsaal / Cafe
 
-Week-End Fest XV - Day III at Stadtgarten Konzertsaal / Cafe on Sat 7 Nov, Cologne. 6 artists: AMSL, Anna Cainelli, DJ LoveCatt and Moin and 2 more. Pop and Post-Punk. See the line-up on soundcheck.
+Week-End Fest XV - Day III at Stadtgarten Konzertsaal / Cafe on Sat 7 Nov, Cologne. 7 artists: Actress, AMSL, Anna Cainelli and DJ LoveCatt and 3 more. Pop and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Week-End Fest XV - Day III at Stadtgarten Konzertsaal / Cafe on Sat 7 Nov, Colog
 
 ## Line-up
 
+- Actress
 - AMSL
 - Anna Cainelli
 - DJ LoveCatt

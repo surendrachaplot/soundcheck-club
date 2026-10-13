@@ -1,6 +1,6 @@
 # JAKI
 
-JAKI is a music venue in Cologne with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "JAKI presents: Delight" on Fri, 16 Oct 2026.
+JAKI is a music venue in Cologne with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "JAKI presents: Delight" on Fri, 16 Oct 2026.
 
 JAKI is a music venue in Cologne listed on soundcheck. 3 upcoming gigs, with line-ups including Back2Bass, BUTTMONEY, da:sypoda and DJ ASS TITS and 2 more. See dates, start times and who's playing. Venloer Str. 40,  50672 Cologne.
 
@@ -16,4 +16,4 @@ JAKI is a music venue in Cologne listed on soundcheck. 3 upcoming gigs, with lin
 
 Venloer Str. 40,  50672 Cologne, Cologne
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/jaki/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/jaki/)*

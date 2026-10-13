@@ -1,6 +1,6 @@
 # Jak Sen
 
-Jak Sen is a Electronica and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Twist Bar, Prague on Wed, 14 Oct 2026.
+Jak Sen is a Electronica and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Twist Bar, Prague on Wed, 14 Oct 2026.
 
 Jak Sen is an electronica and afrobeats artist, with 16 gigs on soundcheck across Prague and Vienna. Often billed alongside Austin Powers, Old & Rich and Raphael Kosmos. Next up: Twist Bar, Prague on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ Jak Sen is an electronica and afrobeats artist, with 16 gigs on soundcheck acros
 
 Austin Powers, Old & Rich, Raphael Kosmos
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaksen/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaksen/)*

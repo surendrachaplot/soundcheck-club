@@ -1,6 +1,6 @@
 # Coaster Craft Beer
 
-Coaster Craft Beer is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "Discoball in Shimokita" on Sat, 17 Oct 2026.
+Coaster Craft Beer is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "Discoball in Shimokita" on Sat, 17 Oct 2026.
 
 Coaster Craft Beer is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 1F 5−19−13 daizawa, Setagaya-ku, Tokyo 155-0032.
 
@@ -14,4 +14,4 @@ Coaster Craft Beer is a music venue in Tokyo listed on soundcheck. 1 upcoming gi
 
 1F 5−19−13 daizawa, Setagaya-ku, Tokyo 155-0032, Tokyo
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/coaster-craft-beer/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/coaster-craft-beer/)*

@@ -1,6 +1,6 @@
 # The Great Northern
 
-The Great Northern is a music venue in San Francisco/Oakland with 13 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Dragons, Dykes & DJs" on Fri, 16 Oct 2026.
+The Great Northern is a music venue in San Francisco/Oakland with 13 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Dragons, Dykes & DJs" on Fri, 16 Oct 2026.
 
 The Great Northern is a music venue in San Francisco/Oakland listed on soundcheck. 13 upcoming gigs, with line-ups including arktoi, Avalon Emerson, BEYA and Camillionaire and 2 more. See dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
 
@@ -23,4 +23,4 @@ The Great Northern is a music venue in San Francisco/Oakland listed on soundchec
 
 119 Utah St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*

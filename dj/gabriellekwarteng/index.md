@@ -1,6 +1,6 @@
 # Gabrielle Kwarteng
 
-Gabrielle Kwarteng is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Love Inn, Bristol on Fri, 16 Oct 2026.
+Gabrielle Kwarteng is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Love Inn, Bristol on Fri, 16 Oct 2026.
 
 Gabrielle Kwarteng is a house and techno artist based in United States of America, with 253 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 61 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: The Love Inn, Bristol on Fri 16 Oct.
 
@@ -36,4 +36,4 @@ Gabrielle Kwarteng is a house and techno artist based in United States of Americ
 
 BASHKKA, Peach, Sedef Adasï
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*

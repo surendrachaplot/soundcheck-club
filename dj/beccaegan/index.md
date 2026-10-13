@@ -1,14 +1,15 @@
 # Becca Egan
 
-Becca Egan is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Bongo Club, Edinburgh on Thu, 15 Oct 2026.
+Becca Egan is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Bongo Club, Edinburgh on Thu, 15 Oct 2026.
 
-Becca Egan is a house and garage artist based in United Kingdom, with 13 gigs on soundcheck across Edinburgh. Often billed alongside ARWEN, Fug and HAPOL. Next up: The Bongo Club, Edinburgh on Thu 15 Oct.
+Becca Egan is a house and garage artist based in United Kingdom, with 14 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside ARWEN, Fug and HAPOL. Next up: The Bongo Club, Edinburgh on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | The Bongo Club | Edinburgh |
+| Thu, 22 Oct 2026 | La Cheetah Club | Glasgow |
 | Thu, 29 Oct 2026 | People's Leisure Club | Edinburgh |
 | Fri, 6 Nov 2026 | Cabaret Voltaire | Edinburgh |
 
@@ -27,4 +28,4 @@ Becca Egan is a house and garage artist based in United Kingdom, with 13 gigs on
 
 ARWEN, Fug (1), HAPOL
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beccaegan/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beccaegan/)*

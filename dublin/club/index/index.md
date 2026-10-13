@@ -1,6 +1,6 @@
 # Index
 
-Index is a music venue in Dublin with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Index: Notion" on Fri, 16 Oct 2026.
+Index is a music venue in Dublin with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Index: Notion" on Fri, 16 Oct 2026.
 
 Index is a music venue in Dublin listed on soundcheck. 8 upcoming gigs, with line-ups including Eddie Halliwell, Kerri Chandler, Mauro Picotto and Miss Bashful x DBBD and 2 more. See dates, start times and who's playing. 57 Middle Abbey St, North City, Dublin 1, D01 W573.
 
@@ -21,4 +21,4 @@ Index is a music venue in Dublin listed on soundcheck. 8 upcoming gigs, with lin
 
 57 Middle Abbey St, North City, Dublin 1, D01 W573, Dublin
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/index/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/index/)*

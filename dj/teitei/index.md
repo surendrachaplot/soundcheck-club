@@ -1,6 +1,6 @@
 # TEI TEI
 
-TEI TEI is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Enter Shibuya, Tokyo on Fri, 16 Oct 2026.
+TEI TEI is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Enter Shibuya, Tokyo on Fri, 16 Oct 2026.
 
 TEI TEI is a techno and trance artist based in China, with 140 gigs on soundcheck across Hong Kong, Kanto, Osaka and Shenzhen and 1 more. Often billed alongside DANDAN, the2$ and EVE. Next up: Enter Shibuya, Tokyo on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ TEI TEI is a techno and trance artist based in China, with 140 gigs on soundchec
 
 DANDAN, the2$, EVE (1)
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teitei/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teitei/)*

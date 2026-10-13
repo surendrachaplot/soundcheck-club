@@ -1,6 +1,6 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 34 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "TECHNETIUM X EUPHORIA: Raner Baumgartner, Kaattech, KITAE, Salvatore" on Thu, 15 Oct 2026.
+EL SÓTANO is a music venue in Madrid with 34 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "TECHNETIUM X EUPHORIA: Raner Baumgartner, Kaattech, KITAE, Salvatore" on Thu, 15 Oct 2026.
 
 EL SÓTANO is a music venue in Madrid listed on soundcheck. 34 upcoming gigs, with line-ups including Alexander Kowalski, Arok Shiva, Babylon Whore and Bigot3x and 2 more. See dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
@@ -23,4 +23,4 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 34 upcoming gigs, wi
 
 Calle de las Maldonadas, 6, 28005 Madrid, España, Madrid
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*

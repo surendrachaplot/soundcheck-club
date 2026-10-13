@@ -1,6 +1,6 @@
 # Kommuna at 303 at 303 Audiophile Bar
 
-Kommuna at 303 at 303 Audiophile Bar on Fri 6 Nov, Barcelona. 3 artists: CMYK, pekkuliar and Wendy. House. See the line-up on soundcheck.
+Kommuna at 303 at 303 Audiophile Bar on Fri 6 Nov, Barcelona. 3 artists: CMYK, pekkuliar and Wendy Bkz. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,6 @@ Kommuna at 303 at 303 Audiophile Bar on Fri 6 Nov, Barcelona. 3 artists: CMYK, p
 
 - CMYK
 - pekkuliar
-- Wendy (1)
+- Wendy Bkz
 
 *Source: [soundcheck](https://soundcheck.club/e/2555856-kommuna-at-303-at-303-audiophile-bar/)*

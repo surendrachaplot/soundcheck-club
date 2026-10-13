@@ -1,6 +1,6 @@
 # Surusinghe
 
-Surusinghe is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
+Surusinghe is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
 
 Surusinghe is a techno and bass artist based in United Kingdom, with 148 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 40 more. Often billed alongside Blawan, Moktar and Special Request. Next up: DRUMSHEDS, London on Sat 17 Oct.
 
@@ -31,4 +31,4 @@ Surusinghe is a techno and bass artist based in United Kingdom, with 148 gigs on
 
 Blawan, Moktar, Special Request
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surusinghe/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surusinghe/)*

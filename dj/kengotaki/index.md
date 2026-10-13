@@ -1,6 +1,6 @@
 # kengotaki
 
-kengotaki is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at National Art School, Sydney on Sun, 18 Oct 2026.
+kengotaki is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at National Art School, Sydney on Sun, 18 Oct 2026.
 
 kengotaki is a house and techno artist based in Japan, with 172 gigs on soundcheck across Osaka, Sydney and Tokyo. Often billed alongside r1ku, SAMO (JP) and YUVIE. Next up: National Art School, Sydney on Sun 18 Oct.
 
@@ -27,4 +27,4 @@ kengotaki is a house and techno artist based in Japan, with 172 gigs on soundche
 
 r1ku, SAMO (JP), YUVIE
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kengotaki/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kengotaki/)*

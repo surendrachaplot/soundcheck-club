@@ -1,14 +1,15 @@
 # Labåzuy
 
-Labåzuy is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Transformator, Wroclaw on Sat, 31 Oct 2026.
+Labåzuy is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Transformator, Wroclaw on Sat, 31 Oct 2026.
 
-Labåzuy is a techno and industrial artist based in United Kingdom, with 75 gigs on soundcheck across Brighton, Budapest, Cyprus and London and 5 more. Often billed alongside Lau.tastic, Lezcano and SHARKA. Next up: Transformator, Wroclaw on Sat 31 Oct.
+Labåzuy is a techno and industrial artist based in United Kingdom, with 76 gigs on soundcheck across Brighton, Budapest, Cyprus and London and 5 more. Often billed alongside Lau.tastic, Lezcano and SHARKA. Next up: Transformator, Wroclaw on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Transformator | Wroclaw |
+| Fri, 13 Nov 2026 | Low Profile Studios | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Labåzuy is a techno and industrial artist based in United Kingdom, with 75 gigs
 
 Lau.tastic, Lezcano, SHARKA
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/labazuy-3/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/labazuy-3/)*

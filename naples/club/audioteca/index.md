@@ -1,6 +1,6 @@
 # Audioteca
 
-Audioteca is a music venue in Naples with 10 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Audioteca x Bit Radio • Gianni Serra" on Wed, 14 Oct 2026.
+Audioteca is a music venue in Naples with 10 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Audioteca x Bit Radio • Gianni Serra" on Wed, 14 Oct 2026.
 
 Audioteca is a music venue in Naples listed on soundcheck. 10 upcoming gigs, with line-ups including Aldo Rosati, Angelo Perna, Fred Simon and Gianni serra and 1 more. See dates, start times and who's playing. Via P. Togliatti 70c - S. Giorgio a Cremano, Napoli.
 
@@ -23,4 +23,4 @@ Audioteca is a music venue in Naples listed on soundcheck. 10 upcoming gigs, wit
 
 Via P. Togliatti 70c - S. Giorgio a Cremano, Napoli, Naples
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/audioteca/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/audioteca/)*

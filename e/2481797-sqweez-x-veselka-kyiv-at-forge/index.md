@@ -1,6 +1,6 @@
 # Sqweez! x VESELKA Kyiv at Forge
 
-Sqweez! x VESELKA Kyiv at Forge on Fri 20 Nov, Bucharest. 4 artists: FAUST, Nina Pixina, Tweeman and Vani Vachi. Trance and Techno. See the line-up on soundcheck.
+Sqweez! x VESELKA Kyiv at Forge on Fri 20 Nov, Bucharest. 5 artists: FAUST, Nina Pixina, Synthetica and Tweeman and 1 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Sqweez! x VESELKA Kyiv at Forge on Fri 20 Nov, Bucharest. 4 artists: FAUST, Nina
 
 - FAUST (1)
 - Nina Pixina
+- Synthetica
 - Tweeman
 - Vani Vachi
 

@@ -1,8 +1,8 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "PAN!C ROOM" on Thu, 15 Oct 2026.
+H0L0 is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "PAN!C ROOM" on Thu, 15 Oct 2026.
 
-H0L0 is a music venue in New York City listed on soundcheck. 14 upcoming gigs, with line-ups including 999ADJ, Aaron Clark, Alchemy (US) and Amelia Holt and 2 more. See dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
+H0L0 is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including 999ADJ, Aaron Clark, Alchemy (US) and Amelia Holt and 2 more. See dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
 ## What's on
 
@@ -23,4 +23,4 @@ H0L0 is a music venue in New York City listed on soundcheck. 14 upcoming gigs, w
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

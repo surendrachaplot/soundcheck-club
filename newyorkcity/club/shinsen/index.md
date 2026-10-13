@@ -1,6 +1,6 @@
 # Shinsen
 
-Shinsen is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "Nervous Records Speakeasy with Cosmo & Mike Nervous" on Thu, 5 Nov 2026.
+Shinsen is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "Nervous Records Speakeasy with Cosmo & Mike Nervous" on Thu, 5 Nov 2026.
 
 Shinsen is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Mike Nervous. See dates, start times and who's playing. 44 Bowery, New York, NY 10013.
 
@@ -14,4 +14,4 @@ Shinsen is a music venue in New York City listed on soundcheck. 1 upcoming gig, 
 
 44 Bowery, New York, NY 10013, New York City
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/shinsen/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/shinsen/)*

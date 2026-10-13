@@ -1,6 +1,6 @@
 # Ran Cap Duoi Collective
 
-Ran Cap Duoi Collective is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Spanners, London on Thu, 22 Oct 2026.
+Ran Cap Duoi Collective is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Spanners, London on Thu, 22 Oct 2026.
 
 Ran Cap Duoi Collective is an experimental and electronica artist, with 8 gigs on soundcheck across London, Milan, Paris and Sydney and 1 more. Often billed alongside Anh Phi, mess. and 3Phaz. Next up: Spanners, London on Thu 22 Oct.
 
@@ -24,4 +24,4 @@ Ran Cap Duoi Collective is an experimental and electronica artist, with 8 gigs o
 
 Anh Phi, mess., 3Phaz
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rancapduoicollective/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rancapduoicollective/)*

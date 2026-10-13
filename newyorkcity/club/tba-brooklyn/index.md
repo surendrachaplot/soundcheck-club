@@ -1,6 +1,6 @@
 # TBA - Brooklyn
 
-TBA - Brooklyn is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "PLAY ME TECHNO XII" on Sat, 17 Oct 2026.
+TBA - Brooklyn is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "PLAY ME TECHNO XII" on Sat, 17 Oct 2026.
 
 TBA - Brooklyn is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including Alfonso Javier, Annie Lew, Battygyal and Concrete Husband and 2 more. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ TBA - Brooklyn is a music venue in New York City listed on soundcheck. 5 upcomin
 | Sat, 31 Oct 2026 | Book Club Radio Meeting #39 Maneater | Honey Bun, Jellyfish, Jojo Lorenzo, Lovie, Tinzo |
 | Sun, 1 Nov 2026 | bumpy! | Dee Diggs, Fadi Mohem, Narciss, S'aint Panic, Will Automagic |
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-brooklyn/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-brooklyn/)*

@@ -1,6 +1,6 @@
 # The Liquid Dude
 
-The Liquid Dude is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at La Gare / Le Gore, Paris on Tue, 13 Oct 2026.
+The Liquid Dude is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at La Gare / Le Gore, Paris on Tue, 13 Oct 2026.
 
 The Liquid Dude is a house and electro artist based in Spain, with 20 gigs on soundcheck across Frankfurt, Ibiza, Milan and Paris and 1 more. Often billed alongside Ko Mu, Luigi Rossi and Woodson. Next up: La Gare / Le Gore, Paris on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ The Liquid Dude is a house and electro artist based in Spain, with 20 gigs on so
 
 Ko Mu, Luigi Rossi, Woodson
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theliquiddude/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theliquiddude/)*

@@ -1,6 +1,6 @@
 # D-Program
 
-D-Program is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at District 288, Boston on Sat, 24 Oct 2026.
+D-Program is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at District 288, Boston on Sat, 24 Oct 2026.
 
 D-Program is a drum & bass and jungle artist based in United States of America, with 8 gigs on soundcheck across Boston, Detroit and San Francisco/Oakland. Often billed alongside BLU, DJ Girl and ImpirumCrypt. Next up: District 288, Boston on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ D-Program is a drum & bass and jungle artist based in United States of America, 
 
 BLU (3), DJ Girl, ImpirumCrypt
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d-program/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d-program/)*

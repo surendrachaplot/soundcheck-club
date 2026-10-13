@@ -1,6 +1,6 @@
 # MYOHMY
 
-MYOHMY is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Meraki, Liverpool on Sat, 31 Oct 2026.
+MYOHMY is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Meraki, Liverpool on Sat, 31 Oct 2026.
 
 MYOHMY is a techno and house artist based in United Kingdom, with 37 gigs on soundcheck across Liverpool, London and Manchester. Often billed alongside Dan Chan, Mia Mai and TAMAN. Next up: Meraki, Liverpool on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ MYOHMY is a techno and house artist based in United Kingdom, with 37 gigs on sou
 
 Dan Chan, Mia Mai, TAMAN (2)
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myohmy/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myohmy/)*

@@ -1,6 +1,6 @@
 # Club Rawhide
 
-Club Rawhide is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "CODED Thursdays 10.15.26" on Thu, 15 Oct 2026.
+Club Rawhide is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "CODED Thursdays 10.15.26" on Thu, 15 Oct 2026.
 
 Club Rawhide is a music venue in New York City listed on soundcheck. 13 upcoming gigs, with line-ups including Johnny Dynell, Kevin Aviance, Malcolm XL and Mitch Ferrino and 2 more. See dates, start times and who's playing. 250 W 26TH ST.
 
@@ -23,4 +23,4 @@ Club Rawhide is a music venue in New York City listed on soundcheck. 13 upcoming
 
 250 W 26TH ST, New York City
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*

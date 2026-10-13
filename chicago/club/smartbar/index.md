@@ -1,6 +1,6 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 17 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Flowers of Romance feat. Lady Starlight (Live) - Justin Aulis Long - Zona Cinco" on Fri, 16 Oct 2026.
+smartbar is a music venue in Chicago with 17 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Flowers of Romance feat. Lady Starlight (Live) - Justin Aulis Long - Zona Cinco" on Fri, 16 Oct 2026.
 
 smartbar is a music venue in Chicago listed on soundcheck. 17 upcoming gigs, with line-ups including Andrew Emil, Brenda, Chris Cruse and Czboogie and 2 more. See dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
@@ -23,4 +23,4 @@ smartbar is a music venue in Chicago listed on soundcheck. 17 upcoming gigs, wit
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*

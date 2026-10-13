@@ -1,6 +1,6 @@
 # Beaver Works
 
-Beaver Works is a music venue in Leeds with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Big Fat Rave: Bakey, Samurai Breaks, Napes, Manga Saint Hilare, ESC & More" on Fri, 16 Oct 2026.
+Beaver Works is a music venue in Leeds with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Big Fat Rave: Bakey, Samurai Breaks, Napes, Manga Saint Hilare, ESC & More" on Fri, 16 Oct 2026.
 
 Beaver Works is a music venue in Leeds listed on soundcheck. 6 upcoming gigs, with line-ups including Amelia Leigh, Badger (UK), Bakey and Chinese Daughter and 2 more. See dates, start times and who's playing. 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom.
 
@@ -19,4 +19,4 @@ Beaver Works is a music venue in Leeds listed on soundcheck. 6 upcoming gigs, wi
 
 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom, Leeds
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/beaver-works/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/beaver-works/)*

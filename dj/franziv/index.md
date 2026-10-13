@@ -1,6 +1,6 @@
 # FRANZIV
 
-FRANZIV is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Cloud & Spirits, Boston on Fri, 30 Oct 2026.
+FRANZIV is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Cloud & Spirits, Boston on Fri, 30 Oct 2026.
 
 FRANZIV is a house and progressive house artist, with 31 gigs on soundcheck across Boston and New York City. Often billed alongside ViV:On, AleBCostantino and DJ Bookworm. Next up: Cloud & Spirits, Boston on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ FRANZIV is a house and progressive house artist, with 31 gigs on soundcheck acro
 
 ViV:On, AleBCostantino, DJ Bookworm
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franziv/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franziv/)*

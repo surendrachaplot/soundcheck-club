@@ -1,6 +1,6 @@
 # Brixton Jamm
 
-Brixton Jamm is a music venue in London with 16 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "LAJU - Juls & Larizzle" on Fri, 16 Oct 2026.
+Brixton Jamm is a music venue in London with 16 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "LAJU - Juls & Larizzle" on Fri, 16 Oct 2026.
 
 Brixton Jamm is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including alterum, Benny Page, CHICCA and Deekline and 2 more. See dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
 
@@ -23,4 +23,4 @@ Brixton Jamm is a music venue in London listed on soundcheck. 16 upcoming gigs, 
 
 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom, London
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*

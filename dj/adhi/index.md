@@ -1,6 +1,6 @@
 # ADHI
 
-ADHI is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
+ADHI is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
 
 ADHI is an electronic artist, with 5 gigs on soundcheck across Amsterdam. Often billed alongside AYIM, Mangruv and Naone. Next up: ingang, Amsterdam on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ ADHI is an electronic artist, with 5 gigs on soundcheck across Amsterdam. Often 
 
 AYIM, Mangruv, Naone
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adhi/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adhi/)*

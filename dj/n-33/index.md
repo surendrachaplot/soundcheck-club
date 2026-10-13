@@ -1,6 +1,6 @@
 # N (33)
 
-N (33) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 1 Nov 2026.
+N (33) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 1 Nov 2026.
 
 N is a techno and house artist, with 6 gigs on soundcheck across Berlin and Tokyo. Often billed alongside ecec, AMANE and Actias. Next up: Aoyama Hachi, Tokyo on Sun 1 Nov.
 
@@ -22,4 +22,4 @@ N is a techno and house artist, with 6 gigs on soundcheck across Berlin and Toky
 
 ecec, AMANE, Actias
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n-33/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n-33/)*

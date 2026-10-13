@@ -1,6 +1,6 @@
 # Joe Morrison
 
-Joe Morrison is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA, Glasgow on Fri, 30 Oct 2026.
+Joe Morrison is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA, Glasgow on Fri, 30 Oct 2026.
 
 Joe Morrison is a techno and house artist based in United Kingdom, with 3 gigs on soundcheck across Glasgow. Often billed alongside Bonzai Bonner, David Scott and Danse Atmos. Next up: TBA, Glasgow on Fri 30 Oct.
 
@@ -19,4 +19,4 @@ Joe Morrison is a techno and house artist based in United Kingdom, with 3 gigs o
 
 Bonzai Bonner, David Scott, Danse Atmos
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joemorrison/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joemorrison/)*

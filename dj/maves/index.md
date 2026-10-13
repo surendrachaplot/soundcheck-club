@@ -1,6 +1,6 @@
 # Maves
 
-Maves is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Lithuanian House, Toronto on Sat, 31 Oct 2026.
+Maves is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Lithuanian House, Toronto on Sat, 31 Oct 2026.
 
 Maves is a house and tech house artist based in United Kingdom, with 56 gigs on soundcheck across Leeds, Liverpool, London and Toronto. Often billed alongside RUDEE NIK, Tabbara and Chiara. Next up: Lithuanian House, Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Maves is a house and tech house artist based in United Kingdom, with 56 gigs on 
 
 RUDEE NIK, Tabbara, Chiara
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maves/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maves/)*

@@ -1,6 +1,6 @@
 # Steve Marto
 
-Steve Marto is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Mooi Space, Toronto on Sat, 31 Oct 2026.
+Steve Marto is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Mooi Space, Toronto on Sat, 31 Oct 2026.
 
 Steve Marto is a house and minimal artist based in Canada, with 26 gigs on soundcheck across Toronto. Often billed alongside Milidi, Negin and Pasha. Next up: Mooi Space, Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Steve Marto is a house and minimal artist based in Canada, with 26 gigs on sound
 
 Milidi, Negin, Pasha
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevemarto/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevemarto/)*

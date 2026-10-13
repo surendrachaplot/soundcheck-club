@@ -1,6 +1,6 @@
 # Mantis (5)
 
-Mantis (5) is a Minimal Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at NDR2 Red Room, London on Sat, 28 Nov 2026.
+Mantis (5) is a Minimal Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at NDR2 Red Room, London on Sat, 28 Nov 2026.
 
 Mantis is a minimal techno and electro artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Son of Paul, Phact (UK) and Alfie Aukett. Next up: NDR2 Red Room, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Mantis is a minimal techno and electro artist based in United Kingdom, with 9 gi
 
 Son of Paul, Phact (UK), Alfie Aukett
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mantis-5/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mantis-5/)*

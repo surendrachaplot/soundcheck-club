@@ -1,6 +1,6 @@
 # Joseph Capriati
 
-Joseph Capriati is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Blow, Buenos Aires on Fri, 16 Oct 2026.
+Joseph Capriati is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Blow, Buenos Aires on Fri, 16 Oct 2026.
 
 Joseph Capriati is a techno and house artist based in Italy, with 230 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 47 more. Often billed alongside Jamie Jones, Indira Paganotto and Dennis Cruz. Next up: Blow, Buenos Aires on Fri 16 Oct.
 
@@ -36,4 +36,4 @@ Joseph Capriati is a techno and house artist based in Italy, with 230 gigs on so
 
 Jamie Jones, Indira Paganotto, Dennis Cruz
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*

@@ -1,6 +1,6 @@
 # Dres Codex
 
-Dres Codex is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at EL SÓTANO, Madrid on Sun, 18 Oct 2026.
+Dres Codex is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at EL SÓTANO, Madrid on Sun, 18 Oct 2026.
 
 Dres Codex is a techno and industrial artist based in United Kingdom, with 29 gigs on soundcheck across Birmingham, Brighton, Cardiff and London and 2 more. Often billed alongside KASTILO, Lau.tastic and Baptist (UK). Next up: EL SÓTANO, Madrid on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Dres Codex is a techno and industrial artist based in United Kingdom, with 29 gi
 
 KASTILO, Lau.tastic, Baptist (UK)
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drescodex/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drescodex/)*

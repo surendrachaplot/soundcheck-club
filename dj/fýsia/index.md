@@ -1,14 +1,15 @@
 # fýsia
 
-fýsia is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Bonobo, Tokyo on Sat, 17 Oct 2026.
+fýsia is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Bonobo, Tokyo on Sat, 17 Oct 2026.
 
-fýsia is a techno and experimental artist based in Japan, with 11 gigs on soundcheck across Osaka and Tokyo. Often billed alongside HSC, A G E and AMG SAIMURA (TECHVANE). Next up: Bonobo, Tokyo on Sat 17 Oct.
+fýsia is a techno and experimental artist based in Japan, with 12 gigs on soundcheck across Osaka and Tokyo. Often billed alongside HSC, KCT and A G E. Next up: Bonobo, Tokyo on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Bonobo | Tokyo |
+| Sun, 18 Oct 2026 | Aoyama Hachi | Tokyo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ fýsia is a techno and experimental artist based in Japan, with 11 gigs on sound
 
 ## Shares bills with
 
-HSC (1), A G E, AMG SAIMURA (TECHVANE)
+HSC (1), KCT (1), A G E
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fýsia/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fýsia/)*

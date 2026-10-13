@@ -1,6 +1,6 @@
 # Pedro Beça
 
-Pedro Beça is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 17 Oct 2026.
+Pedro Beça is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 17 Oct 2026.
 
 Pedro Beça is a techno and acid artist, with 15 gigs on soundcheck across Lisbon. Often billed alongside Inês Duarte, André Granada and Bernardo Vaz. Next up: Lux Fragil, Lisbon on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Pedro Beça is a techno and acid artist, with 15 gigs on soundcheck across Lisbo
 
 Inês Duarte, André Granada (2), Bernardo Vaz
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrobeça/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrobeça/)*

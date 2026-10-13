@@ -1,6 +1,6 @@
 # Dj Hermano
 
-Dj Hermano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Bar Datcha, Montreal on Sat, 17 Oct 2026.
+Dj Hermano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Bar Datcha, Montreal on Sat, 17 Oct 2026.
 
 Dj Hermano is a house and techno artist based in Brazil, with 75 gigs on soundcheck across Chicago, Los Angeles, Mexico City and Montreal and 8 more. Often billed alongside Pretty Gay Friendly, CUERPOS and Mok-T. Next up: Bar Datcha, Montreal on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Dj Hermano is a house and techno artist based in Brazil, with 75 gigs on soundch
 
 Pretty Gay Friendly, CUERPOS, Mok-T
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhermano/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhermano/)*

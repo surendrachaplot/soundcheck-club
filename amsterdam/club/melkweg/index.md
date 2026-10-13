@@ -1,14 +1,13 @@
 # Melkweg
 
-Melkweg is a music venue in Amsterdam with 59 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Cheeky Monday: Yamatai X Stupid X Transparent Audio" on Mon, 12 Oct 2026.
+Melkweg is a music venue in Amsterdam with 58 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Techno Tuesday Amsterdam, Ramsey Neville, Ju Lee, Dexon" on Tue, 13 Oct 2026.
 
-Melkweg is a music venue in Amsterdam listed on soundcheck. 59 upcoming gigs, with line-ups including 2HOT2PLAY, 4am Kru, Yulia Niko and ALT8 and 2 more. See dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
+Melkweg is a music venue in Amsterdam listed on soundcheck. 58 upcoming gigs, with line-ups including 2HOT2PLAY, 4am Kru, Yulia Niko and ALT8 and 2 more. See dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 12 Oct 2026 | Cheeky Monday: Yamatai X Stupid X Transparent Audio | Geostatic, Stupid Crew |
 | Tue, 13 Oct 2026 | Techno Tuesday Amsterdam, Ramsey Neville, Ju Lee, Dexon | Dexon, Ramsey Neville |
 | Mon, 19 Oct 2026 | Cheeky Monday: Tamza |  |
 | Tue, 20 Oct 2026 | Techno Tuesday Amsterdam, Icey Planet, Dexon, A.R.T | A.R.T., Dexon, Icey Planet |
@@ -18,9 +17,10 @@ Melkweg is a music venue in Amsterdam listed on soundcheck. 59 upcoming gigs, wi
 | Wed, 21 Oct 2026 | bitbird presents: San Holo & DROELOE - ADE | San Holo |
 | Wed, 21 Oct 2026 | Hyper Dreams x Annie | AK SPORTS, BNZN, CLTX, DJ SPORTSCHUH, Luca Eck, Meg10 |
 | Wed, 21 Oct 2026 | Takuya Nakamura | Takuya Nakamura |
+| Wed, 21 Oct 2026 | Striptopia |  |
 
 ## Address
 
 Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam, Amsterdam
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*

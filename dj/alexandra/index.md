@@ -1,6 +1,6 @@
 # Alexandra
 
-Alexandra is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Şahika, Istanbul on Sat, 7 Nov 2026.
+Alexandra is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Şahika, Istanbul on Sat, 7 Nov 2026.
 
 Alexandra is a house and electro artist based in Romania, with 36 gigs on soundcheck across Amsterdam, Berlin, Brussels and Bucharest and 7 more. Often billed alongside DJ Slim Fit, The Apricots and Pîrvu. Next up: Şahika, Istanbul on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Alexandra is a house and electro artist based in Romania, with 36 gigs on soundc
 
 DJ Slim Fit, The Apricots, Pîrvu
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandra/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandra/)*

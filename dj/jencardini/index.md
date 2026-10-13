@@ -1,6 +1,6 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at La Gaîté Lyrique, Paris on Sun, 18 Oct 2026.
+Jen Cardini is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at La Gaîté Lyrique, Paris on Sun, 18 Oct 2026.
 
 Jen Cardini is a techno and house artist based in France, with 266 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 61 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: La Gaîté Lyrique, Paris on Sun 18 Oct.
 
@@ -36,4 +36,4 @@ Jen Cardini is a techno and house artist based in France, with 266 gigs on sound
 
 Pablo Bozzi, BASHKKA, KI/KI
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*

@@ -1,14 +1,14 @@
 # Relinquo
 
-Relinquo is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
+Relinquo is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
 
-Relinquo is a techno and acid artist based in Austria, with 57 gigs on soundcheck across Amsterdam, Budapest, Copenhagen and Munich and 4 more. Often billed alongside DANBERG, Patrik Pagan and Alena Noctis. Next up: 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu 22 Oct.
+Relinquo is a techno and acid artist based in Austria, with 57 gigs on soundcheck across Amsterdam, Budapest, Copenhagen and Munich and 4 more. Often billed alongside DANBERG, Patrik Pagan and Alena Noctis. Next up: 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | 50:Hertz House & Techno Club Rembrandt Square | Amsterdam |
+| Thu, 22 Oct 2026 | 50:HERTZ HOUSE & TECHNO Club Rembrandt Square | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Relinquo is a techno and acid artist based in Austria, with 57 gigs on soundchec
 
 DANBERG, Patrik Pagan, Alena Noctis
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/relinquo/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/relinquo/)*

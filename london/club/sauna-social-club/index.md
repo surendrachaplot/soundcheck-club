@@ -1,6 +1,6 @@
 # Sauna Social Club
 
-Sauna Social Club is a music venue in London with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Ambient Sauna • o•rbyss with Night Swimmer & Betty" on Fri, 16 Oct 2026.
+Sauna Social Club is a music venue in London with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Ambient Sauna • o•rbyss with Night Swimmer & Betty" on Fri, 16 Oct 2026.
 
 Sauna Social Club is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Angel Cat, Night Swimmer, Small Crab and Unknown Mobile. See dates, start times and who's playing. Railway Arch 842 Brayards Road, Peckham, SE15 2AG.
 
@@ -16,4 +16,4 @@ Sauna Social Club is a music venue in London listed on soundcheck. 3 upcoming gi
 
 Railway Arch 842 Brayards Road, Peckham, SE15 2AG, London
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/sauna-social-club/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/sauna-social-club/)*

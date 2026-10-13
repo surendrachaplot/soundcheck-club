@@ -1,6 +1,6 @@
 # Capitol Theatre
 
-Capitol Theatre is a music venue in Singapore with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "Caribou (Live) - Singapore" on Sat, 28 Nov 2026.
+Capitol Theatre is a music venue in Singapore with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "Caribou (Live) - Singapore" on Sat, 28 Nov 2026.
 
 Capitol Theatre is a music venue in Singapore listed on soundcheck. 1 upcoming gig, with line-ups including Caribou. See dates, start times and who's playing. 11 Stamford Rd, Capitol Piazza, Singapore 178884.
 
@@ -14,4 +14,4 @@ Capitol Theatre is a music venue in Singapore listed on soundcheck. 1 upcoming g
 
 11 Stamford Rd, Capitol Piazza, Singapore 178884, Singapore
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/capitol-theatre/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/capitol-theatre/)*

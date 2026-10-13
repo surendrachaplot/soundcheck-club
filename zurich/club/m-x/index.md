@@ -1,6 +1,6 @@
 # MÄX
 
-MÄX is a music venue in Zurich with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Schranz Nacht with Aiden, Ben Techy & KSN" on Fri, 16 Oct 2026.
+MÄX is a music venue in Zurich with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Schranz Nacht with Aiden, Ben Techy & KSN" on Fri, 16 Oct 2026.
 
 MÄX is a music venue in Zurich listed on soundcheck. 7 upcoming gigs, with line-ups including Ahmet Sisman, Aiden (DE), ALT8 and Ben Techy and 2 more. See dates, start times and who's playing. Hardstrasse 219, 8005 Zurich.
 
@@ -20,4 +20,4 @@ MÄX is a music venue in Zurich listed on soundcheck. 7 upcoming gigs, with line
 
 Hardstrasse 219, 8005 Zurich, Zurich
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/m-x/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/m-x/)*

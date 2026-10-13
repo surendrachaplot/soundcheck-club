@@ -1,6 +1,6 @@
 # Eden NYC
 
-Eden NYC is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Fractals presents: Niki Istrefi" on Fri, 23 Oct 2026.
+Eden NYC is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Fractals presents: Niki Istrefi" on Fri, 23 Oct 2026.
 
 Eden NYC is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including CRYFXB, Developer, DJ Plant Texture and Niki Istrefi and 1 more. See dates, start times and who's playing. 20 w 36th St.
 
@@ -15,4 +15,4 @@ Eden NYC is a music venue in New York City listed on soundcheck. 2 upcoming gigs
 
 20 w 36th St, New York City
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/eden-nyc/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/eden-nyc/)*

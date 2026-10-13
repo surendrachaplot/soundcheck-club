@@ -1,6 +1,6 @@
 # Beste Hira
 
-Beste Hira is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at RADION, Amsterdam on Thu, 22 Oct 2026.
+Beste Hira is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at RADION, Amsterdam on Thu, 22 Oct 2026.
 
 Beste Hira is a techno and house artist based in Netherlands, with 185 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Rødhåd, Freddy K and Lobster (NL). Next up: RADION, Amsterdam on Thu 22 Oct.
 
@@ -32,4 +32,4 @@ Beste Hira is a techno and house artist based in Netherlands, with 185 gigs on s
 
 Rødhåd, Freddy K, Lobster (NL)
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bestehira/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bestehira/)*

@@ -1,6 +1,6 @@
 # RESA UTOPICA
 
-RESA UTOPICA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Hafen7, Düsseldorf on Sat, 31 Oct 2026.
+RESA UTOPICA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Hafen7, Düsseldorf on Sat, 31 Oct 2026.
 
 RESA UTOPICA is a techno and trance artist based in Italy, with 43 gigs on soundcheck across Berlin, Düsseldorf, Ghent and Milan and 3 more. Often billed alongside DOCTOR MÜCKE, Jesooria and ELNA. Next up: Hafen7, Düsseldorf on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ RESA UTOPICA is a techno and trance artist based in Italy, with 43 gigs on sound
 
 DOCTOR MÜCKE, Jesooria, ELNA
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/resautopica/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/resautopica/)*

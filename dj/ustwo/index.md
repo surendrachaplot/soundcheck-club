@@ -1,6 +1,6 @@
 # Us Two
 
-Us Two is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at 93 Feet East, London on Sat, 17 Oct 2026.
+Us Two is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at 93 Feet East, London on Sat, 17 Oct 2026.
 
 Us Two is a tech house and house artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 15 more. Often billed alongside Ilario Alicante, Max Dean and East End Dubs. Next up: 93 Feet East, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Us Two is a tech house and house artist based in United Kingdom, with 64 gigs on
 
 Ilario Alicante, Max Dean, East End Dubs
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ustwo/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ustwo/)*

@@ -1,8 +1,8 @@
 # Dr Banana
 
-Dr Banana is a House and Garage artist with 11 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sun, 25 Oct 2026.
+Dr Banana is a House and Garage artist with 12 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sun, 25 Oct 2026.
 
-Dr Banana is a house and garage artist based in United Kingdom, with 256 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 42 more. Often billed alongside Laidlaw, Melody RA+RE and The Ghost. Next up: NDSM Scheepsbouwloods, Amsterdam on Sun 25 Oct.
+Dr Banana is a house and garage artist based in United Kingdom, with 257 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 42 more. Often billed alongside Laidlaw, Melody RA+RE and The Ghost. Next up: NDSM Scheepsbouwloods, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Dr Banana is a house and garage artist based in United Kingdom, with 256 gigs on
 | Sat, 28 Nov 2026 | fi | Cologne |
 | Fri, 11 Dec 2026 | Fidelity Studio | Dublin |
 | Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
+| Thu, 31 Dec 2026 | E1 | London |
 | Thu, 21 Jan 2027 | Soundscapes Zanzi | Tanzania |
 
 ## Recently played
@@ -35,4 +36,4 @@ Dr Banana is a house and garage artist based in United Kingdom, with 256 gigs on
 
 Laidlaw, Melody RA+RE, The Ghost
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drbanana/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drbanana/)*

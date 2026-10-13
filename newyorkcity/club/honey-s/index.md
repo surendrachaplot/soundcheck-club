@@ -1,8 +1,8 @@
 # Honey's
 
-Honey's is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "PEPPERPOT: DJ Freedem, Love Higher, PSYCHOMOB, samisosa B2B Samantha DaSilva" on Thu, 15 Oct 2026.
+Honey's is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "PEPPERPOT: DJ Freedem, Love Higher, PSYCHOMOB, samisosa B2B Samantha DaSilva" on Thu, 15 Oct 2026.
 
-Honey's is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including Conduit, Amelia Holt, DJ Freedem and Elkind and 2 more. See dates, start times and who's playing. 93 Scott Avenue, Brooklyn, NY 11237.
+Honey's is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Conduit, Amelia Holt, DJ Freedem and EEVEE and 2 more. See dates, start times and who's playing. 93 Scott Avenue, Brooklyn, NY 11237.
 
 ## What's on
 
@@ -13,9 +13,10 @@ Honey's is a music venue in New York City listed on soundcheck. 5 upcoming gigs,
 | Sat, 17 Oct 2026 | PAREDÃO SINISTRO | Embaci, Lil Zé, Papi Weli |
 | Wed, 21 Oct 2026 | Chess.irl X Stop1 | Amelia Holt, Conduit, Iggy Nuclear, Kettle, Rila, SOFIYA V |
 | Sat, 24 Oct 2026 | Vantage presents: GLAZED | JULIEN (NYC), Kettle, Knostalgia, Naomi Duan, Nymphostar, Nöel Black, Rhino Clark, S A M I, Stef Ozaru |
+| Thu, 29 Oct 2026 | 5IVEDOLLAHOLLAWEEN | EEVEE (3), LIL2HOOD, NoahG, Tha Hip Ma, Tromac |
 
 ## Address
 
 93 Scott Avenue, Brooklyn, NY 11237, New York City
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/honey-s/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/honey-s/)*

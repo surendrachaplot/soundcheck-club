@@ -1,6 +1,6 @@
 # BLOND:ISH
 
-BLOND:ISH is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Westerkerk, Amsterdam on Fri, 23 Oct 2026.
+BLOND:ISH is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Westerkerk, Amsterdam on Fri, 23 Oct 2026.
 
 BLOND:ISH is a house and techno artist based in Canada, with 140 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 31 more. Often billed alongside Seth Troxler, Marco Carola and Ben Sterling. Next up: Westerkerk, Amsterdam on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ BLOND:ISH is a house and techno artist based in Canada, with 140 gigs on soundch
 
 Seth Troxler, Marco Carola, Ben Sterling
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blondish/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blondish/)*

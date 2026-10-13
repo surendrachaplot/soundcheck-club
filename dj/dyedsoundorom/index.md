@@ -1,13 +1,14 @@
 # Dyed Soundorom
 
-Dyed Soundorom is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Pllek, Amsterdam on Thu, 22 Oct 2026.
+Dyed Soundorom is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Dybbuk, Athens on Sat, 17 Oct 2026.
 
-Dyed Soundorom is a house and tech house artist based in France, with 230 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 54 more. Often billed alongside Shonky, Apollonia and Dan Ghenacia. Next up: Pllek, Amsterdam on Thu 22 Oct.
+Dyed Soundorom is a house and tech house artist based in France, with 231 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 54 more. Often billed alongside Shonky, Apollonia and Dan Ghenacia. Next up: Dybbuk, Athens on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Dybbuk | Athens |
 | Thu, 22 Oct 2026 | Pllek | Amsterdam |
 | Sat, 24 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Fri, 13 Nov 2026 | Stardust Garage | Austin |
@@ -32,4 +33,4 @@ Dyed Soundorom is a house and tech house artist based in France, with 230 gigs o
 
 Shonky, Apollonia, Dan Ghenacia
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyedsoundorom/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyedsoundorom/)*

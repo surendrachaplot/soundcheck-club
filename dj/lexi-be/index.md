@@ -1,6 +1,6 @@
 # LEXI (BE)
 
-LEXI (BE) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Toffler, Rotterdam on Sat, 21 Nov 2026.
+LEXI (BE) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Toffler, Rotterdam on Sat, 21 Nov 2026.
 
 LEXI (BE) is a techno and tech house artist, with 21 gigs on soundcheck across Antwerp, Brussels, Ghent and Krakow and 4 more. Often billed alongside Auk., GUTIERREZ and Makoveev. Next up: Toffler, Rotterdam on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ LEXI (BE) is a techno and tech house artist, with 21 gigs on soundcheck across A
 
 Auk., GUTIERREZ, Makoveev
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexi-be/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexi-be/)*

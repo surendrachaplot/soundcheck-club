@@ -1,6 +1,6 @@
 # Pablo Vitale
 
-Pablo Vitale is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at H0L0, New York City on Wed, 21 Oct 2026.
+Pablo Vitale is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at H0L0, New York City on Wed, 21 Oct 2026.
 
 Pablo Vitale is a techno artist based in United States of America, with 6 gigs on soundcheck across New York City. Often billed alongside a.gar, AJACENT and ELIVVATE. Next up: H0L0, New York City on Wed 21 Oct.
 
@@ -22,4 +22,4 @@ Pablo Vitale is a techno artist based in United States of America, with 6 gigs o
 
 a.gar, AJACENT, ELIVVATE
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablovitale/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablovitale/)*

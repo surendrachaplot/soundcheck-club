@@ -1,6 +1,6 @@
 # Teclas
 
-Teclas is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at D-EDGE, Sao Paulo on Sat, 17 Oct 2026.
+Teclas is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at D-EDGE, Sao Paulo on Sat, 17 Oct 2026.
 
 Teclas is a house and progressive house artist based in Argentina, with 38 gigs on soundcheck across Brazil, Buenos Aires and Sao Paulo. Often billed alongside DJ Murphy, Diogo Accioly and Adnan Sharif. Next up: D-EDGE, Sao Paulo on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Teclas is a house and progressive house artist based in Argentina, with 38 gigs 
 
 DJ Murphy, Diogo Accioly, Adnan Sharif
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teclas/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teclas/)*

@@ -1,6 +1,6 @@
 # Dudier
 
-Dudier is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at berlinClub, Madrid on Sat, 24 Oct 2026.
+Dudier is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at berlinClub, Madrid on Sat, 24 Oct 2026.
 
 Dudier is a disco and house artist, with 13 gigs on soundcheck across Lisbon and Madrid. Often billed alongside Marcos Boricua, pHer Enough and Adam Pits. Next up: berlinClub, Madrid on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Dudier is a disco and house artist, with 13 gigs on soundcheck across Lisbon and
 
 Marcos Boricua, pHer Enough, Adam Pits
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dudier/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dudier/)*

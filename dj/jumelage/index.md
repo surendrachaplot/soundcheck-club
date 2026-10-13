@@ -1,14 +1,15 @@
 # Jumelage
 
-Jumelage is a Broken Beat and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Black Gold, Amsterdam on Wed, 21 Oct 2026.
+Jumelage is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Black Gold, Amsterdam on Wed, 21 Oct 2026.
 
-Jumelage is a broken beat and afrobeat artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Yannick Roberts, Danou P and Dale Croft. Next up: Black Gold, Amsterdam on Wed 21 Oct.
+Jumelage is a deep house and house artist based in Netherlands, with 8 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Danou P, Yannick Roberts and Ascension. Next up: Black Gold, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Black Gold | Amsterdam |
+| Sat, 24 Oct 2026 | Cafe Restaurant De Bazel | Amsterdam |
 
 ## Recently played
 
@@ -21,6 +22,6 @@ Jumelage is a broken beat and afrobeat artist based in Netherlands, with 7 gigs 
 
 ## Shares bills with
 
-Yannick Roberts, Danou P, Dale Croft
+Danou P, Yannick Roberts, Ascension
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jumelage/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jumelage/)*

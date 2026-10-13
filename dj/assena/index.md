@@ -1,6 +1,6 @@
 # assena
 
-assena is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at KUZ - Kulturzentrum Mainz, Mainz on Fri, 16 Oct 2026.
+assena is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at KUZ - Kulturzentrum Mainz, Mainz on Fri, 16 Oct 2026.
 
 assena is a trance and techno artist based in Germany, with 7 gigs on soundcheck across Frankfurt, Mainz and Rhineland Palatinate. Often billed alongside A.T.E.K, DJ 069 and PAU. Next up: KUZ - Kulturzentrum Mainz, Mainz on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ assena is a trance and techno artist based in Germany, with 7 gigs on soundcheck
 
 A.T.E.K, DJ 069, PAU (6)
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/assena/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/assena/)*

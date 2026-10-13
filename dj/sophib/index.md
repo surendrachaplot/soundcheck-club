@@ -1,8 +1,8 @@
 # Sophi B
 
-Sophi B is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Secret Location., London on Fri, 30 Oct 2026.
+Sophi B is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Secret Location., London on Fri, 30 Oct 2026.
 
-Sophi B is a house and deep house artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside KC Happy, MADAMA and Azire. Next up: TBA - Secret Location., London on Fri 30 Oct.
+Sophi B is a house and deep house artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside MADAMA, Azire and Billa Bazz. Next up: TBA - Secret Location., London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ Sophi B is a house and deep house artist based in United Kingdom, with 6 gigs on
 
 ## Shares bills with
 
-KC Happy, MADAMA, Azire
+MADAMA, Azire, Billa Bazz
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophib/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophib/)*

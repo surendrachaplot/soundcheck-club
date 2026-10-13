@@ -1,6 +1,6 @@
 # Nahum Korm
 
-Nahum Korm is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Araña Club, Madrid on Fri, 16 Oct 2026.
+Nahum Korm is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Araña Club, Madrid on Fri, 16 Oct 2026.
 
 Nahum Korm is a techno and trance artist based in Spain, with 39 gigs on soundcheck across Barcelona, Madrid and Valencia. Often billed alongside CRONEKIA, ZÉ ALMONACID and Nita Key. Next up: Araña Club, Madrid on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Nahum Korm is a techno and trance artist based in Spain, with 39 gigs on soundch
 
 CRONEKIA, ZÉ ALMONACID, Nita Key
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nahumkorm/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nahumkorm/)*

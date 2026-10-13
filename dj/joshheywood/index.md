@@ -1,6 +1,6 @@
 # Josh Heywood
 
-Josh Heywood is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at One22, Canberra on Fri, 30 Oct 2026.
+Josh Heywood is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at One22, Canberra on Fri, 30 Oct 2026.
 
 Josh Heywood is a techno and house artist based in Australia, with 63 gigs on soundcheck across Auckland, Berlin, Brisbane and Canberra and 4 more. Often billed alongside Etwas, HYBE and Matteo Freyrie. Next up: One22, Canberra on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Josh Heywood is a techno and house artist based in Australia, with 63 gigs on so
 
 Etwas, HYBE, Matteo Freyrie
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshheywood/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshheywood/)*

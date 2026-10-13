@@ -1,6 +1,6 @@
 # InRemission
 
-InRemission is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Avve, Bangkok on Sat, 31 Oct 2026.
+InRemission is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Avve, Bangkok on Sat, 31 Oct 2026.
 
 InRemission is a techno and industrial artist based in Thailand, with 38 gigs on soundcheck across Bangkok and Singapore. Often billed alongside POKOLENIE MIKROZAYMOV, REIKS and NØSYNC. Next up: Avve, Bangkok on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ InRemission is a techno and industrial artist based in Thailand, with 38 gigs on
 
 POKOLENIE MIKROZAYMOV, REIKS, NØSYNC
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inremission/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inremission/)*

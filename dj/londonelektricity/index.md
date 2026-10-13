@@ -1,6 +1,6 @@
 # London Elektricity
 
-London Elektricity is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Bunny Club, Florida on Thu, 15 Oct 2026.
+London Elektricity is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Bunny Club, Florida on Thu, 15 Oct 2026.
 
 London Elektricity is a drum & bass and jungle artist based in United Kingdom, with 58 gigs on soundcheck across Auckland, Berlin, Boston and Bristol and 27 more. Often billed alongside Makoto, Degs and Nu:Tone. Next up: The Bunny Club, Florida on Thu 15 Oct.
 
@@ -30,4 +30,4 @@ London Elektricity is a drum & bass and jungle artist based in United Kingdom, w
 
 Makoto, Degs, Nu:Tone
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/londonelektricity/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/londonelektricity/)*

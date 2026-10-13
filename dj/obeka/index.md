@@ -1,13 +1,14 @@
 # Obeka
 
-Obeka is a Baile Funk and Reggaeton artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at AKC Medika, Zagreb on Fri, 23 Oct 2026.
+Obeka is a Baile Funk and Reggaeton artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at renae, Manchester on Sun, 18 Oct 2026.
 
-Obeka is a baile funk and reggaeton artist based in Bermuda, with 120 gigs on soundcheck across Amsterdam, Berlin, Bristol and Glasgow and 10 more. Often billed alongside Atiké, DR MYSTERY and Kop-Z. Next up: AKC Medika, Zagreb on Fri 23 Oct.
+Obeka is a baile funk and reggaeton artist based in Bermuda, with 121 gigs on soundcheck across Amsterdam, Berlin, Bristol and Glasgow and 10 more. Often billed alongside Atiké, DR MYSTERY and Kop-Z. Next up: renae, Manchester on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 18 Oct 2026 | renae | Manchester |
 | Fri, 23 Oct 2026 | AKC Medika | Zagreb |
 | Sat, 31 Oct 2026 | The Yard | Manchester |
 | Sat, 28 Nov 2026 | The DBA | Manchester |
@@ -28,4 +29,4 @@ Obeka is a baile funk and reggaeton artist based in Bermuda, with 120 gigs on so
 
 Atiké, DR MYSTERY, Kop-Z
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obeka/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obeka/)*

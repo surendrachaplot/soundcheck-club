@@ -1,6 +1,6 @@
 # Techno Ganoven
 
-Techno Ganoven is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at PRST, Vienna on Fri, 16 Oct 2026.
+Techno Ganoven is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at PRST, Vienna on Fri, 16 Oct 2026.
 
 Techno Ganoven is a house and tech house artist based in Austria, with 40 gigs on soundcheck across Berlin and Vienna. Often billed alongside It's George!, RED GROOVE SYSTEM and Bambi-S. Next up: PRST, Vienna on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Techno Ganoven is a house and tech house artist based in Austria, with 40 gigs o
 
 It's George!, RED GROOVE SYSTEM, Bambi-S
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/technoganoven/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/technoganoven/)*

@@ -1,6 +1,6 @@
 # Mila Stern
 
-Mila Stern is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
+Mila Stern is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
 
 Mila Stern is a house and techno artist based in Germany, with 92 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 10 more. Often billed alongside Mira, Britta Arnold and Chris Schwarzwälder. Next up: Kater, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Mila Stern is a house and techno artist based in Germany, with 92 gigs on soundc
 
 Mira, Britta Arnold, Chris Schwarzwälder
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milastern/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milastern/)*

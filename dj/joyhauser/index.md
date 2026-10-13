@@ -1,6 +1,6 @@
 # Joyhauser
 
-Joyhauser is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Q-Factory, Amsterdam on Wed, 21 Oct 2026.
+Joyhauser is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Q-Factory, Amsterdam on Wed, 21 Oct 2026.
 
 Joyhauser is a techno and trance artist based in Belgium, with 125 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Juliet Fox, Pan-Pot and Bart Skils. Next up: Q-Factory, Amsterdam on Wed 21 Oct.
 
@@ -29,4 +29,4 @@ Joyhauser is a techno and trance artist based in Belgium, with 125 gigs on sound
 
 Juliet Fox, Pan-Pot, Bart Skils
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joyhauser/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joyhauser/)*

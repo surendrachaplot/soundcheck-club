@@ -1,6 +1,6 @@
 # Ian Crane
 
-Ian Crane is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 18 Oct 2026.
+Ian Crane is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 18 Oct 2026.
 
 Ian Crane is a house and techno artist based in United States of America, with 40 gigs on soundcheck across New York City. Often billed alongside Meilgaarden, LYDO and The Carry Nation. Next up: Bossa Nova Civic Club, New York City on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Ian Crane is a house and techno artist based in United States of America, with 4
 
 Meilgaarden, LYDO, The Carry Nation
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iancrane/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iancrane/)*

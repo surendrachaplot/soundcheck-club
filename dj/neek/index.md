@@ -1,6 +1,6 @@
 # Neek
 
-Neek is a Dubstep and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Dome, Liverpool on Fri, 16 Oct 2026.
+Neek is a Dubstep and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Dome, Liverpool on Fri, 16 Oct 2026.
 
 Neek is a dubstep and techno artist based in United Kingdom, with 72 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 33 more. Often billed alongside Kahn, Medis and SGT Pokes. Next up: The Dome, Liverpool on Fri 16 Oct.
 
@@ -31,4 +31,4 @@ Neek is a dubstep and techno artist based in United Kingdom, with 72 gigs on sou
 
 Kahn, Medis, SGT Pokes
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neek/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neek/)*

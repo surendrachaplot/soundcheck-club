@@ -1,6 +1,6 @@
 # P'tit Ours
 
-P'tit Ours is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Badvil, Shirehead, Kerri" on Tue, 13 Oct 2026.
+P'tit Ours is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Badvil, Shirehead, Kerri" on Tue, 13 Oct 2026.
 
 P'tit Ours is a music venue in Montreal listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 5589 Park Ave, Montreal, Quebec H2V 4S8.
 
@@ -15,4 +15,4 @@ P'tit Ours is a music venue in Montreal listed on soundcheck. 2 upcoming gigs. S
 
 5589 Park Ave, Montreal, Quebec H2V 4S8, Montreal
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/p-tit-ours/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/p-tit-ours/)*

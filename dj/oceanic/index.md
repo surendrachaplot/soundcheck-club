@@ -1,14 +1,15 @@
 # Oceanic
 
-Oceanic is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at FOLD, London on Sat, 17 Oct 2026.
+Oceanic is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at FOLD, London on Sat, 17 Oct 2026.
 
-Oceanic is a techno and house artist based in Netherlands, with 84 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Oberman, Mary Lake and Nelly (NL). Next up: FOLD, London on Sat 17 Oct.
+Oceanic is a techno and house artist based in Netherlands, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Oberman, Mary Lake and Nelly (NL). Next up: FOLD, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | FOLD | London |
+| Wed, 21 Oct 2026 | San Francisco | Amsterdam |
 | Fri, 30 Oct 2026 | Garage Noord | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ Oceanic is a techno and house artist based in Netherlands, with 84 gigs on sound
 
 Oberman, Mary Lake, Nelly (NL)
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oceanic/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oceanic/)*

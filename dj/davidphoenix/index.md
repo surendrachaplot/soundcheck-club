@@ -1,6 +1,6 @@
 # David Phoenix
 
-David Phoenix is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at FLUCC, Vienna on Fri, 20 Nov 2026.
+David Phoenix is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at FLUCC, Vienna on Fri, 20 Nov 2026.
 
 David Phoenix is a techno and minimal techno artist, with 20 gigs on soundcheck across Berlin, Budapest, Hamburg and Munich and 1 more. Often billed alongside Stephan Rausch, Kollektiv Sheesh and Nya Nyx. Next up: FLUCC, Vienna on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ David Phoenix is a techno and minimal techno artist, with 20 gigs on soundcheck 
 
 Stephan Rausch, Kollektiv Sheesh, Nya Nyx
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidphoenix/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidphoenix/)*

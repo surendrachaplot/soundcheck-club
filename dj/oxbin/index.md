@@ -1,13 +1,15 @@
 # Oxbin
 
-Oxbin is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Sala Siroco, Madrid on Fri, 13 Nov 2026.
+Oxbin is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Assaggi, Amsterdam on Wed, 21 Oct 2026.
 
-Oxbin is a techno and electronica artist based in Spain, with 10 gigs on soundcheck across Amsterdam and Madrid. Often billed alongside Nau Leone, Gleezy and ARVØW. Next up: Sala Siroco, Madrid on Fri 13 Nov.
+Oxbin is a techno and electronica artist based in Spain, with 12 gigs on soundcheck across Amsterdam and Madrid. Often billed alongside Nau Leone, Gleezy and ANTO ZAGU. Next up: TBA - Assaggi, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 21 Oct 2026 | TBA - Assaggi | Amsterdam |
+| Thu, 22 Oct 2026 | TBA - Assaggi | Amsterdam |
 | Fri, 13 Nov 2026 | Sala Siroco | Madrid |
 
 ## Recently played
@@ -23,6 +25,6 @@ Oxbin is a techno and electronica artist based in Spain, with 10 gigs on soundch
 
 ## Shares bills with
 
-Nau Leone, Gleezy, ARVØW
+Nau Leone, Gleezy, ANTO ZAGU
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oxbin/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oxbin/)*

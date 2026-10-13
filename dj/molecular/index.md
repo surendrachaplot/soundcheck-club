@@ -1,6 +1,6 @@
 # MOLECULAR
 
-MOLECULAR is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Le Rex de Toulouse, Toulouse on Fri, 23 Oct 2026.
+MOLECULAR is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Le Rex de Toulouse, Toulouse on Fri, 23 Oct 2026.
 
 MOLECULAR is a drum & bass and techno artist based in Latvia, with 17 gigs on soundcheck across Barcelona, Bristol, London and Madrid and 6 more. Often billed alongside Kyrist, A.M.C. and Bou (UK). Next up: Le Rex de Toulouse, Toulouse on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ MOLECULAR is a drum & bass and techno artist based in Latvia, with 17 gigs on so
 
 Kyrist, A.M.C., Bou (UK)
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molecular/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molecular/)*

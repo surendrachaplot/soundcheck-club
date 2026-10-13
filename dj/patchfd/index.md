@@ -1,6 +1,6 @@
 # Patch FD
 
-Patch FD is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at EXIT Glasgow, Glasgow on Fri, 13 Nov 2026.
+Patch FD is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at EXIT Glasgow, Glasgow on Fri, 13 Nov 2026.
 
 Patch FD is an electro and house artist based in United Kingdom, with 9 gigs on soundcheck across Glasgow, Leeds and London. Often billed alongside Elk, Adi (CO) and BP. Next up: EXIT Glasgow, Glasgow on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Patch FD is an electro and house artist based in United Kingdom, with 9 gigs on 
 
 Elk, Adi (CO), BP (1)
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patchfd/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patchfd/)*

@@ -1,6 +1,6 @@
 # BEATS ON THE BOAT: 'SHIPWRECKED.' at TBA - Secret Location.
 
-BEATS ON THE BOAT: 'SHIPWRECKED.' at TBA - Secret Location. on Fri 30 Oct, London. 4 artists: KC Happy, MADAMA, Samir (DVS) and Sophi B. House. See the line-up on soundcheck.
+BEATS ON THE BOAT: 'SHIPWRECKED.' at TBA - Secret Location. on Fri 30 Oct, London. 3 artists: MADAMA, Samir (DVS) and Sophi B. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ BEATS ON THE BOAT: 'SHIPWRECKED.' at TBA - Secret Location. on Fri 30 Oct, Londo
 
 ## Line-up
 
-- KC Happy
 - MADAMA
 - Samir (DVS)
 - Sophi B

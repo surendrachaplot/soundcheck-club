@@ -1,6 +1,6 @@
 # AVAION
 
-AVAION is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at fabric, London on Fri, 20 Nov 2026.
+AVAION is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at fabric, London on Fri, 20 Nov 2026.
 
 AVAION is a techno and electro artist based in Germany, with 13 gigs on soundcheck across Basel, Berlin, Cologne and Hamburg and 4 more. Often billed alongside Ben Dust, Cloudy and Dennis Reif. Next up: fabric, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ AVAION is a techno and electro artist based in Germany, with 13 gigs on soundche
 
 Ben Dust, Cloudy, Dennis Reif
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avaion/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avaion/)*

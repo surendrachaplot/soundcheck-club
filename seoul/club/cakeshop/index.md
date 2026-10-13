@@ -1,6 +1,6 @@
 # Cakeshop
 
-Cakeshop is a music venue in Seoul with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "FENG Weekend Rockstar Asia - SEOUL" on Thu, 15 Oct 2026.
+Cakeshop is a music venue in Seoul with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "FENG Weekend Rockstar Asia - SEOUL" on Thu, 15 Oct 2026.
 
 Cakeshop is a music venue in Seoul listed on soundcheck. 6 upcoming gigs, with line-ups including AUS10, Evian Christ, HASHTAGPOPE and MOONICE and 2 more. See dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
 
@@ -11,7 +11,7 @@ Cakeshop is a music venue in Seoul listed on soundcheck. 6 upcoming gigs, with l
 | Thu, 15 Oct 2026 | FENG Weekend Rockstar Asia - SEOUL | AUS10 |
 | Sat, 17 Oct 2026 | Cakeshop 14th anniv at Cake and Pistil |  |
 | Fri, 23 Oct 2026 | Cakeshop PRESENTS: Evian Christ | Evian Christ, Simo (1), Tabris, Wona |
-| Sat, 24 Oct 2026 | USANSO |  |
+| Sat, 24 Oct 2026 | USANSO | T.K (KR), Vitaline, pa de haan. |
 | Fri, 6 Nov 2026 | Neffa-T: More Breaks & Kimchi Factory Homies present | HASHTAGPOPE, MOONICE, Neffa-T, Nimvy, RAFA (KR), Tabris, untitled (2) |
 | Sat, 12 Dec 2026 | DHJ OPEN CALL FOR A DJ #2 |  |
 
@@ -19,4 +19,4 @@ Cakeshop is a music venue in Seoul listed on soundcheck. 6 upcoming gigs, with l
 
 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎, Seoul
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*

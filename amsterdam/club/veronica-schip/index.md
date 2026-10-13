@@ -1,6 +1,6 @@
 # Veronica Schip
 
-Veronica Schip is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "OUTKZT pres. Berlin Records, Mainground Music, Kraft Events, TRAGEDIE ADE Showcase" on Wed, 21 Oct 2026.
+Veronica Schip is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "OUTKZT pres. Berlin Records, Mainground Music, Kraft Events, TRAGEDIE ADE Showcase" on Wed, 21 Oct 2026.
 
 Veronica Schip is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including ArioVistus, Baliology, Belocca and Danny Howells and 2 more. See dates, start times and who's playing. NDSM-Pier 1, 1033 RG Amsterdam, Netherlands.
 
@@ -18,4 +18,4 @@ Veronica Schip is a music venue in Amsterdam listed on soundcheck. 5 upcoming gi
 
 NDSM-Pier 1, 1033 RG Amsterdam, Netherlands, Amsterdam
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/veronica-schip/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/veronica-schip/)*

@@ -1,6 +1,6 @@
 # Elkind
 
-Elkind is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Honey's, New York City on Fri, 16 Oct 2026.
+Elkind is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Honey's, New York City on Fri, 16 Oct 2026.
 
 Elkind is a house and deep house artist based in United States of America, with 10 gigs on soundcheck across Austin, Los Angeles, New York State and New York City. Often billed alongside DELACOUR, Latas and Akin Paksoy. Next up: Honey's, New York City on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Elkind is a house and deep house artist based in United States of America, with 
 
 DELACOUR, Latas, Akin Paksoy
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elkind/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elkind/)*

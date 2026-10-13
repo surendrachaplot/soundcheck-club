@@ -1,6 +1,6 @@
 # DJ Mum
 
-DJ Mum is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Djargurd Wurrong Country (Victoria, Australia), Melbourne on Fri, 26 Mar 2027.
+DJ Mum is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Djargurd Wurrong Country (Victoria, Australia), Melbourne on Fri, 26 Mar 2027.
 
 DJ Mum is a bass and dubstep artist, with 22 gigs on soundcheck across Melbourne. Often billed alongside Brown Suga Princess, Rakhi and Emelyne. Next up: TBA - Djargurd Wurrong Country (Victoria, Australia), Melbourne on Fri 26 Mar.
 
@@ -25,4 +25,4 @@ DJ Mum is a bass and dubstep artist, with 22 gigs on soundcheck across Melbourne
 
 Brown Suga Princess, Rakhi, Emelyne
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmum/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmum/)*

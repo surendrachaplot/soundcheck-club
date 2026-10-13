@@ -1,6 +1,6 @@
 # Pooja B Vinyl Launch Party: Nur ich kann mich selbst retten at Our Sake Club
 
-Pooja B Vinyl Launch Party: Nur ich kann mich selbst retten at Our Sake Club on Thu 15 Oct, Berlin. 4 artists: Cecilia Tosh, MASCHA, Pooja B and Viktoria Spielmann. Ambient and Downtempo. See the line-up on soundcheck.
+Pooja B Vinyl Launch Party: Nur ich kann mich selbst retten at Our Sake Club on Thu 15 Oct, Berlin. 3 artists: MASCHA, Pooja B and Viktoria Spielmann. Ambient and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Pooja B Vinyl Launch Party: Nur ich kann mich selbst retten at Our Sake Club on 
 
 ## Line-up
 
-- Cecilia Tosh
 - MASCHA
 - Pooja B
 - Viktoria Spielmann

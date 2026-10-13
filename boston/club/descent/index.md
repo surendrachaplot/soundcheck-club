@@ -1,13 +1,14 @@
 # Descent
 
-Descent is a music venue in Boston with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "PROVINCE 44 presents Ranger Trucco" on Sat, 17 Oct 2026.
+Descent is a music venue in Boston with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Fast Forward presents" on Thu, 15 Oct 2026.
 
-Descent is a music venue in Boston listed on soundcheck. 7 upcoming gigs, with line-ups including Cam Stockman, D.Dan, Dean Turnley and DVS1 and 2 more. See dates, start times and who's playing. 33 Dunster St, Camridge MA,02138.
+Descent is a music venue in Boston listed on soundcheck. 8 upcoming gigs, with line-ups including Cam Stockman, D.Dan, Dean Turnley and DVS1 and 2 more. See dates, start times and who's playing. 33 Dunster St, Camridge MA,02138.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 15 Oct 2026 | Fast Forward presents | JACK MARLOW |
 | Sat, 17 Oct 2026 | PROVINCE 44 presents Ranger Trucco | Ranger Trucco |
 | Sat, 24 Oct 2026 | PROVINCE 44 presents Dean Turnley | Dean Turnley |
 | Sat, 31 Oct 2026 | PROVINCE 44 presents Julian Fijma | Julian Fijma |
@@ -20,4 +21,4 @@ Descent is a music venue in Boston listed on soundcheck. 7 upcoming gigs, with l
 
 33 Dunster St, Camridge MA,02138, Boston
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/descent/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/descent/)*

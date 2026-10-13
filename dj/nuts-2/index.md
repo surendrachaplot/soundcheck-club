@@ -1,6 +1,6 @@
 # NUTS (2)
 
-NUTS (2) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Outer Heaven, New York City on Sat, 17 Oct 2026.
+NUTS (2) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Outer Heaven, New York City on Sat, 17 Oct 2026.
 
 NUTS is a house and electro artist based in France, with 6 gigs on soundcheck across Barcelona, Hamburg, Manchester and New York City and 1 more. Often billed alongside Willsy, Alexis Cabrera and B.Love. Next up: Outer Heaven, New York City on Sat 17 Oct.
 
@@ -22,4 +22,4 @@ NUTS is a house and electro artist based in France, with 6 gigs on soundcheck ac
 
 Willsy, Alexis Cabrera, B.Love
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nuts-2/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nuts-2/)*

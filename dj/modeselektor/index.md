@@ -1,6 +1,6 @@
 # Modeselektor
 
-Modeselektor is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
+Modeselektor is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
 
 Modeselektor is a techno and bass artist based in Germany, with 65 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 30 more. Often billed alongside Helena Hauff, Richie Hawtin and Anetha. Next up: The Cause, London on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Modeselektor is a techno and bass artist based in Germany, with 65 gigs on sound
 
 Helena Hauff, Richie Hawtin, Anetha
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/modeselektor/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/modeselektor/)*

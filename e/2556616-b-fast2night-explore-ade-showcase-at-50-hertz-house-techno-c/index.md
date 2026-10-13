@@ -1,11 +1,11 @@
-# B'fast2night & Explore - ADE showcase at 50:Hertz House & Techno Club Rembrandt Square
+# B'fast2night & Explore - ADE showcase at 50:HERTZ HOUSE & TECHNO Club Rembrandt Square
 
-B'fast2night & Explore - ADE showcase at 50:Hertz House & Techno Club Rembrandt Square on Thu 22 Oct, Amsterdam. 4 artists: Amethy, Eran Hersh, HYUS and Soofnic. House and Tech House. See the line-up on soundcheck.
+B'fast2night & Explore - ADE showcase at 50:HERTZ HOUSE & TECHNO Club Rembrandt Square on Thu 22 Oct, Amsterdam. 4 artists: Amethy, Eran Hersh, HYUS and Soofnic. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Thu, 22 Oct 2026 |
-| Venue | 50:Hertz House & Techno Club Rembrandt Square |
+| Venue | 50:HERTZ HOUSE & TECHNO Club Rembrandt Square |
 | City | Amsterdam |
 
 ## Line-up

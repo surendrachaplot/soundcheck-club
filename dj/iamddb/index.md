@@ -1,6 +1,6 @@
 # IAMDDB
 
-IAMDDB is a R&B and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Botanique, Brussels on Fri, 30 Oct 2026.
+IAMDDB is a R&B and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Botanique, Brussels on Fri, 30 Oct 2026.
 
 IAMDDB is a r&b and hip-hop artist based in United Kingdom, with 5 gigs on soundcheck across Barcelona, Brussels, London and Milan and 1 more. Often billed alongside Anna Collecta, BZZHOUND and Bushbby. Next up: Botanique, Brussels on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ IAMDDB is a r&b and hip-hop artist based in United Kingdom, with 5 gigs on sound
 
 Anna Collecta, BZZHOUND, Bushbby
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iamddb/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iamddb/)*

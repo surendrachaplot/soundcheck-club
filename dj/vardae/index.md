@@ -1,6 +1,6 @@
 # Vardae
 
-Vardae is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Bal Chavaux, Paris on Sat, 24 Oct 2026.
+Vardae is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Bal Chavaux, Paris on Sat, 24 Oct 2026.
 
 Vardae is a techno and drum & bass artist based in France, with 45 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Konduku, GiGi FM and Spekki Webu. Next up: Bal Chavaux, Paris on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Vardae is a techno and drum & bass artist based in France, with 45 gigs on sound
 
 Konduku, GiGi FM, Spekki Webu
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vardae/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vardae/)*

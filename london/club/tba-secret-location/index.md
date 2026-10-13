@@ -1,8 +1,8 @@
-# TBA - Secret Location
+# TBA - secret location
 
-TBA - Secret Location is a music venue in London with 61 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Himmel unter Berlin Vol. III" on Wed, 14 Oct 2026.
+TBA - secret location is a music venue in London with 64 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Himmel unter Berlin Vol. III" on Wed, 14 Oct 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 61 upcoming gigs, with line-ups including .cosm, The AM/AMX, Amnati and Andere and 2 more. See dates, start times and who's playing.
+TBA - secret location is a music venue in London listed on soundcheck. 64 upcoming gigs, with line-ups including .cosm, The AM/AMX, Amnati and Andere and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -19,4 +19,4 @@ TBA - Secret Location is a music venue in London listed on soundcheck. 61 upcomi
 | Sat, 17 Oct 2026 | Techno In The Park Presents: [AMX] w/ Max Gardner | Max Gardner, The AM/AMX |
 | Sat, 17 Oct 2026 | 2Passo X Diaries Creative // Pop Up Party |  |
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

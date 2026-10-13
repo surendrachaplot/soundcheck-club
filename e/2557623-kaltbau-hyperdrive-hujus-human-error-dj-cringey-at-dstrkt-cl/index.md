@@ -1,6 +1,6 @@
 # KALTBAU: Hyperdrive, HUJUS, HUMAN ERROR, DJ Cringey at DSTRKT Club Berlin
 
-KALTBAU: Hyperdrive, HUJUS, HUMAN ERROR, DJ Cringey at DSTRKT Club Berlin on Fri 13 Nov, Berlin. 19 artists: Al Aslan, Brauer, Caniche and cell1 and 15 more. Techno. See the line-up on soundcheck.
+KALTBAU: Hyperdrive, HUJUS, HUMAN ERROR, DJ Cringey at DSTRKT Club Berlin on Fri 13 Nov, Berlin. 20 artists: Al Aslan, Brauer, Caniche and cell1 and 16 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -29,5 +29,6 @@ KALTBAU: Hyperdrive, HUJUS, HUMAN ERROR, DJ Cringey at DSTRKT Club Berlin on Fri
 - Slimegoat144
 - tokenbeats
 - TONI BA
+- Yanor
 
 *Source: [soundcheck](https://soundcheck.club/e/2557623-kaltbau-hyperdrive-hujus-human-error-dj-cringey-at-dstrkt-cl/)*

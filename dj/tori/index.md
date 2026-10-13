@@ -1,6 +1,6 @@
 # Tori
 
-Tori is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Sala El Sol, Madrid on Fri, 16 Oct 2026.
+Tori is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Sala El Sol, Madrid on Fri, 16 Oct 2026.
 
 Tori is a techno and acid artist based in Spain, with 31 gigs on soundcheck across London, Madrid, Mexico City and Sydney. Often billed alongside Pulpix, KHAOS IN ORDER and Leofix. Next up: Sala El Sol, Madrid on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Tori is a techno and acid artist based in Spain, with 31 gigs on soundcheck acro
 
 Pulpix, KHAOS IN ORDER, Leofix
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tori/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tori/)*

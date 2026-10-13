@@ -1,6 +1,6 @@
 # LAZA
 
-LAZA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Brown Alley, Melbourne on Sun, 1 Nov 2026.
+LAZA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Brown Alley, Melbourne on Sun, 1 Nov 2026.
 
 LAZA is a techno and house artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside BASHKKA, Bass Toast and CARISTA. Next up: Brown Alley, Melbourne on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ LAZA is a techno and house artist based in Netherlands, with 22 gigs on soundche
 
 BASHKKA, Bass Toast, CARISTA
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laza/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laza/)*

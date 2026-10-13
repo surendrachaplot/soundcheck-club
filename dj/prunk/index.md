@@ -1,6 +1,6 @@
 # Prunk
 
-Prunk is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Fri, 23 Oct 2026.
+Prunk is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Fri, 23 Oct 2026.
 
 Prunk is a house and tech house artist based in Netherlands, with 308 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 42 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: Mediahaven - Minervahaven, Amsterdam on Fri 23 Oct.
 
@@ -34,4 +34,4 @@ Prunk is a house and tech house artist based in Netherlands, with 308 gigs on so
 
 Kellie Allen, M-High, Robbie Doherty
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prunk/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prunk/)*

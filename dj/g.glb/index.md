@@ -1,6 +1,6 @@
 # G.G (LB)
 
-G.G (LB) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Opium Botanical Garden, Dublin on Sat, 14 Nov 2026.
+G.G (LB) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Opium Botanical Garden, Dublin on Sat, 14 Nov 2026.
 
 G.G (LB) is a house and minimal artist based in Ireland, with 9 gigs on soundcheck across Dublin. Often billed alongside Royce Larøca, (navarro) and Gabb (PRY). Next up: Opium Botanical Garden, Dublin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ G.G (LB) is a house and minimal artist based in Ireland, with 9 gigs on soundche
 
 Royce Larøca, (navarro), Gabb (PRY)
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/g.glb/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/g.glb/)*

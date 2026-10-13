@@ -1,6 +1,6 @@
 # Risa Taniguchi
 
-Risa Taniguchi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Risa Taniguchi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
 Risa Taniguchi is a techno and house artist based in Japan, with 116 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 12 more. Often billed alongside YURI VALEN, Drunken Kong and ALEXANDER M. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Risa Taniguchi is a techno and house artist based in Japan, with 116 gigs on sou
 
 YURI VALEN, Drunken Kong, ALEXANDER M
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/risataniguchi/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/risataniguchi/)*

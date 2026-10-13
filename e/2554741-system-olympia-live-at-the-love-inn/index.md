@@ -1,10 +1,10 @@
 # System Olympia (Live) at The Love Inn
 
-System Olympia (Live) at The Love Inn on Tue 24 Nov, Bristol. 1 artist: System Olympia. See the line-up on soundcheck.
+System Olympia (Live) at The Love Inn on Wed 11 Nov, Bristol. 1 artist: System Olympia. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Tue, 24 Nov 2026 |
+| Date | Wed, 11 Nov 2026 |
 | Venue | The Love Inn |
 | City | Bristol |
 

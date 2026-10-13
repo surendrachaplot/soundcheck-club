@@ -1,8 +1,8 @@
 # ACID B4RBIE
 
-ACID B4RBIE is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Lilli Escher, Hamburg on Wed, 21 Oct 2026.
+ACID B4RBIE is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Lilli Escher, Hamburg on Wed, 21 Oct 2026.
 
-ACID B4RBIE is a techno and acid artist, with 25 gigs on soundcheck across Berlin and Hamburg. Often billed alongside DJ Hellfire, Billy Bam and Bailey Brown. Next up: Lilli Escher, Hamburg on Wed 21 Oct.
+ACID B4RBIE is a techno and acid artist based in Germany, with 25 gigs on soundcheck across Berlin and Hamburg. Often billed alongside DJ Hellfire, Billy Bam and Bailey Brown. Next up: Lilli Escher, Hamburg on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ ACID B4RBIE is a techno and acid artist, with 25 gigs on soundcheck across Berli
 
 DJ Hellfire, Billy Bam, Bailey Brown
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidb4rbie/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidb4rbie/)*

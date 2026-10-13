@@ -1,14 +1,15 @@
 # P.O.U
 
-P.O.U is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Eighty-Four Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+P.O.U is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Eighty-Four Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-P.O.U is a techno and tech house artist based in Ireland, with 30 gigs on soundcheck across Amsterdam, Dublin, Geneva and Ibiza and 2 more. Often billed alongside Ginchy, Desyfer and Leena Punks. Next up: Eighty-Four Amsterdam, Amsterdam on Fri 23 Oct.
+P.O.U is a techno and tech house artist based in Ireland, with 31 gigs on soundcheck across Amsterdam, Dublin, Geneva and Ibiza and 2 more. Often billed alongside Ginchy, Desyfer and Leena Punks. Next up: Eighty-Four Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Eighty-Four Amsterdam | Amsterdam |
+| Sat, 31 Oct 2026 | Rolling Stock | London |
 | Sat, 7 Nov 2026 | Ministry Of Sound | London |
 | Fri, 20 Nov 2026 | Ministry Of Sound | London |
 
@@ -27,4 +28,4 @@ P.O.U is a techno and tech house artist based in Ireland, with 30 gigs on soundc
 
 Ginchy, Desyfer, Leena Punks
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p.o.u/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p.o.u/)*

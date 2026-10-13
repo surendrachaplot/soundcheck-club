@@ -1,6 +1,6 @@
 # JRD
 
-JRD is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at WaV, Liverpool on Fri, 6 Nov 2026.
+JRD is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at WaV, Liverpool on Fri, 6 Nov 2026.
 
 JRD is a techno and electro artist, with 5 gigs on soundcheck across Antwerp, Glasgow, Liverpool and Montreal. Often billed alongside 7AZ, Aegis and Anthony Rother. Next up: WaV, Liverpool on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ JRD is a techno and electro artist, with 5 gigs on soundcheck across Antwerp, Gl
 
 7AZ (1), Aegis, Anthony Rother
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jrd/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jrd/)*

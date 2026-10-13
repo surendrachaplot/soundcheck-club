@@ -1,6 +1,6 @@
 # INFERNO'WEEN at Distillery N17
 
-INFERNO'WEEN at Distillery N17 on Fri 30 Oct, London. 4 artists: Goddess II, Lewis G. Burton, Nadine Noor and Oluwafemi. Techno and Hardcore. See the line-up on soundcheck.
+INFERNO'WEEN at Distillery N17 on Fri 30 Oct, London. 5 artists: Goddess II, Lewis G. Burton, Nadine Noor and Oluwafemi and 1 more. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ INFERNO'WEEN at Distillery N17 on Fri 30 Oct, London. 4 artists: Goddess II, Lew
 - Lewis G. Burton
 - Nadine Noor
 - Oluwafemi
+- PUTAS VAMPIRAS
 
 *Source: [soundcheck](https://soundcheck.club/e/2504183-inferno-ween-at-distillery-n17/)*

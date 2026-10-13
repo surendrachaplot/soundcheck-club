@@ -1,6 +1,6 @@
 # Franziska Berns
 
-Franziska Berns is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Robert Johnson, Hesse on Fri, 16 Oct 2026.
+Franziska Berns is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Robert Johnson, Hesse on Fri, 16 Oct 2026.
 
 Franziska Berns is a house and techno artist based in Germany, with 95 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 25 more. Often billed alongside dj sweet6teen and nd_baumecker. Next up: Robert Johnson, Hesse on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Franziska Berns is a house and techno artist based in Germany, with 95 gigs on s
 
 dj sweet6teen, nd_baumecker, 
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskaberns-de/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskaberns-de/)*

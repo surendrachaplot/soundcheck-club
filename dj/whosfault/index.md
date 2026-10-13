@@ -1,6 +1,6 @@
 # Whos Fault
 
-Whos Fault is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Priory, Aberdeen on Sat, 31 Oct 2026.
+Whos Fault is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The Priory, Aberdeen on Sat, 31 Oct 2026.
 
 Whos Fault is a techno and trance artist based in United Kingdom, with 37 gigs on soundcheck across Aberdeen and Glasgow. Often billed alongside HERBS, gau7t and Céleste. Next up: The Priory, Aberdeen on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Whos Fault is a techno and trance artist based in United Kingdom, with 37 gigs o
 
 HERBS, gau7t, Céleste
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whosfault/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whosfault/)*

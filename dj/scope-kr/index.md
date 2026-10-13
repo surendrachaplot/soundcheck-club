@@ -1,6 +1,6 @@
 # Scøpe
 
-Scøpe is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at vurt., Seoul on Sat, 17 Oct 2026.
+Scøpe is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at vurt., Seoul on Sat, 17 Oct 2026.
 
 Scøpe is a techno and ambient artist based in South Korea, with 67 gigs on soundcheck across Barcelona, Seoul and Tokyo. Often billed alongside Xanexx, Ve Bogel and Siot. Next up: vurt., Seoul on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Scøpe is a techno and ambient artist based in South Korea, with 67 gigs on soun
 
 Xanexx, Ve Bogel, Siot
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scope-kr/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scope-kr/)*

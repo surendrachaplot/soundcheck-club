@@ -1,6 +1,6 @@
 # Xuxa
 
-Xuxa is a music venue in Austin with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Homie Hangout ft. Brother Pate, Adrian Poe, Chris Brock (Chicago)" on Thu, 15 Oct 2026.
+Xuxa is a music venue in Austin with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Homie Hangout ft. Brother Pate, Adrian Poe, Chris Brock (Chicago)" on Thu, 15 Oct 2026.
 
 Xuxa is a music venue in Austin listed on soundcheck. 5 upcoming gigs, with line-ups including Hana Sabri, Lucía Beyond, Maurice Fulton and Natch Nadjafi and 2 more. See dates, start times and who's playing. 6910 Shirley Ave, Unit I, Austin, TX 78752, USA.
 
@@ -18,4 +18,4 @@ Xuxa is a music venue in Austin listed on soundcheck. 5 upcoming gigs, with line
 
 6910 Shirley Ave, Unit I, Austin, TX 78752, USA, Austin
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/xuxa/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/xuxa/)*

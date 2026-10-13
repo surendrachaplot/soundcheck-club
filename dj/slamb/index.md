@@ -1,6 +1,6 @@
 # Slamb
 
-Slamb is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA, Sydney on Sat, 31 Oct 2026.
+Slamb is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA, Sydney on Sat, 31 Oct 2026.
 
 Slamb is a house and techno artist based in Australia, with 7 gigs on soundcheck across Sydney. Often billed alongside Caitlin Medcalf, AHJU and Assembler Code. Next up: TBA, Sydney on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Slamb is a house and techno artist based in Australia, with 7 gigs on soundcheck
 
 Caitlin Medcalf, AHJU, Assembler Code
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slamb/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slamb/)*

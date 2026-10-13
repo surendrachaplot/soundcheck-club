@@ -1,6 +1,6 @@
 # Nettta
 
-Nettta is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at OST, Berlin on Fri, 16 Oct 2026.
+Nettta is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at OST, Berlin on Fri, 16 Oct 2026.
 
 Nettta is a techno and trance artist based in Germany, with 32 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hamburg and 2 more. Often billed alongside EZA (DE), Blossmbae and Cobb Douglas. Next up: OST, Berlin on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Nettta is a techno and trance artist based in Germany, with 32 gigs on soundchec
 
 EZA (DE), Blossmbae, Cobb Douglas
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nettta/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nettta/)*

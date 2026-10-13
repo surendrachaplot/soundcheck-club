@@ -1,6 +1,6 @@
 # Desiree'
 
-Desiree' is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at fabric, London on Sat, 31 Oct 2026.
+Desiree' is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at fabric, London on Sat, 31 Oct 2026.
 
 Desiree' is a techno and electro artist based in Italy, with 51 gigs on soundcheck across Berlin, Bristol, London and Madrid and 3 more. Often billed alongside Gianmarco Gazzillo, Manlio and Ordep (UK). Next up: fabric, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Desiree' is a techno and electro artist based in Italy, with 51 gigs on soundche
 
 Gianmarco Gazzillo, Manlio, Ordep (UK)
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-uk/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-uk/)*

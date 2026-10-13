@@ -1,6 +1,6 @@
 # HNTR
 
-HNTR is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Havenpark, Amsterdam on Sat, 24 Oct 2026.
+HNTR is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Havenpark, Amsterdam on Sat, 24 Oct 2026.
 
 HNTR is a techno and house artist based in Canada, with 43 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 19 more. Often billed alongside DÉTOLLY, Eli Brown and Adam Beyer. Next up: Havenpark, Amsterdam on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ HNTR is a techno and house artist based in Canada, with 43 gigs on soundcheck ac
 
 DÉTOLLY, Eli Brown, Adam Beyer
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hntr/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hntr/)*

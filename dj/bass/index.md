@@ -1,6 +1,6 @@
 # Bass
 
-Bass is a Drum & Bass and Jazz artist with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Giri, Berlin on Wed, 14 Oct 2026.
+Bass is a Drum & Bass and Jazz artist with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Giri, Berlin on Wed, 14 Oct 2026.
 
 Bass is a drum & bass and jazz artist based in Egypt, with 121 gigs on soundcheck across Amsterdam, Auckland, Bali and Bangkok and 40 more. Often billed alongside Jungle (UK), Tekk and A². Next up: Giri, Berlin on Wed 14 Oct.
 
@@ -32,4 +32,4 @@ Bass is a drum & bass and jazz artist based in Egypt, with 121 gigs on soundchec
 
 Jungle (UK), Tekk, A²
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bass/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bass/)*

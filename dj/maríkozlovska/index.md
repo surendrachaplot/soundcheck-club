@@ -1,14 +1,14 @@
 # Marí Kozlovska
 
-Marí Kozlovska is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
+Marí Kozlovska is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
 
-Marí Kozlovska is a techno and trance artist based in Spain, with 6 gigs on soundcheck across Amsterdam, Berlin and Valencia. Often billed alongside Endica, Patrick Scuro and Alex Xandra. Next up: 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu 22 Oct.
+Marí Kozlovska is a techno and trance artist based in Spain, with 6 gigs on soundcheck across Amsterdam, Berlin and Valencia. Often billed alongside Endica, Patrick Scuro and Alex Xandra. Next up: 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | 50:Hertz House & Techno Club Rembrandt Square | Amsterdam |
+| Thu, 22 Oct 2026 | 50:HERTZ HOUSE & TECHNO Club Rembrandt Square | Amsterdam |
 
 ## Recently played
 
@@ -22,4 +22,4 @@ Marí Kozlovska is a techno and trance artist based in Spain, with 6 gigs on sou
 
 Endica, Patrick Scuro, Alex Xandra
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maríkozlovska/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maríkozlovska/)*

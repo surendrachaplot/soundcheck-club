@@ -1,6 +1,6 @@
 # CUT:NA
 
-CUT:NA is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at DNA. CLUB, Berlin on Fri, 23 Oct 2026.
+CUT:NA is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at DNA. CLUB, Berlin on Fri, 23 Oct 2026.
 
 CUT:NA is a techno and minimal techno artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside RECLUSE, Louchi and M1RHAN. Next up: DNA. CLUB, Berlin on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ CUT:NA is a techno and minimal techno artist based in Germany, with 6 gigs on so
 
 RECLUSE (2), Louchi, M1RHAN
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cutna/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cutna/)*

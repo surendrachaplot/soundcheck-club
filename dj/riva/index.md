@@ -1,6 +1,6 @@
 # Riva
 
-Riva is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Dalston Superstore, London on Sat, 24 Oct 2026.
+Riva is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Dalston Superstore, London on Sat, 24 Oct 2026.
 
 Riva is a techno and house artist based in United Kingdom, with 45 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 2 more. Often billed alongside Teecra, D.Dan and DJ TOOL. Next up: Dalston Superstore, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Riva is a techno and house artist based in United Kingdom, with 45 gigs on sound
 
 Teecra, D.Dan, DJ TOOL
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riva/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riva/)*

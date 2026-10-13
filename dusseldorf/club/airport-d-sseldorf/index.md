@@ -1,6 +1,6 @@
 # Airport Düsseldorf
 
-Airport Düsseldorf is a music venue in Düsseldorf with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "Hawā Halloween w/ Mind Against - Jonathan Kaspar - Lilya Mandre & IZA" on Sat, 31 Oct 2026.
+Airport Düsseldorf is a music venue in Düsseldorf with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "Hawā Halloween w/ Mind Against - Jonathan Kaspar - Lilya Mandre & IZA" on Sat, 31 Oct 2026.
 
 Airport Düsseldorf is a music venue in Düsseldorf listed on soundcheck. 1 upcoming gig, with line-ups including Jonathan Kaspar, Lilya Mandre and Mind Against. See dates, start times and who's playing. Flughafenstraße 105, 40474 Düsseldorf.
 
@@ -14,4 +14,4 @@ Airport Düsseldorf is a music venue in Düsseldorf listed on soundcheck. 1 upco
 
 Flughafenstraße 105, 40474 Düsseldorf, Düsseldorf
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/airport-d-sseldorf/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/airport-d-sseldorf/)*

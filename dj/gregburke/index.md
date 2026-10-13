@@ -1,6 +1,6 @@
 # Greg Burke
 
-Greg Burke is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Rhythm, Toronto on Sat, 24 Oct 2026.
+Greg Burke is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Rhythm, Toronto on Sat, 24 Oct 2026.
 
 Greg Burke is a minimal and house artist based in United Kingdom, with 23 gigs on soundcheck across Toronto. Often billed alongside Thomas James, Fauren and Hair Gel. Next up: Rhythm, Toronto on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Greg Burke is a minimal and house artist based in United Kingdom, with 23 gigs o
 
 Thomas James (2), Fauren, Hair Gel
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gregburke/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gregburke/)*

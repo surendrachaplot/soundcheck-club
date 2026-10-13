@@ -1,6 +1,6 @@
 # DJ Lynnée Denise
 
-DJ Lynnée Denise is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Dansehallerne, Denmark on Sat, 24 Oct 2026.
+DJ Lynnée Denise is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Dansehallerne, Denmark on Sat, 24 Oct 2026.
 
 DJ Lynnée Denise is an electronic artist, with 5 gigs on soundcheck across Berlin, Denmark, Paris and Utrecht. Often billed alongside Aba Shanti-I, Alex Zhang Hungtai and Arooj Aftab. Next up: Dansehallerne, Denmark on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ DJ Lynnée Denise is an electronic artist, with 5 gigs on soundcheck across Berl
 
 Aba Shanti-I, Alex Zhang Hungtai, Arooj Aftab
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlynneedenise/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlynneedenise/)*

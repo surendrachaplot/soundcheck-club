@@ -1,6 +1,6 @@
 # Rick Offen
 
-Rick Offen is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Cut Throat, Amsterdam on Thu, 22 Oct 2026.
+Rick Offen is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Cut Throat, Amsterdam on Thu, 22 Oct 2026.
 
 Rick Offen is a house and deep house artist based in Portugal, with 25 gigs on soundcheck across Amsterdam, Barcelona, Copenhagen and Frankfurt and 9 more. Often billed alongside Ander Race, Awk and Reezar. Next up: Cut Throat, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Rick Offen is a house and deep house artist based in Portugal, with 25 gigs on s
 
 Ander Race, Awk (2), Reezar
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rickoffen/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rickoffen/)*

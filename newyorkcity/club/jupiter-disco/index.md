@@ -1,6 +1,6 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "synchroNYCity II: the downward spiral with Bella Mode, Sam Valle, SUPER WAV" on Wed, 14 Oct 2026.
+Jupiter Disco is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "synchroNYCity II: the downward spiral with Bella Mode, Sam Valle, SUPER WAV" on Wed, 14 Oct 2026.
 
 Jupiter Disco is a music venue in New York City listed on soundcheck. 16 upcoming gigs, with line-ups including Alpaca_, Ardio Zemog, Balam and Bella Mode and 2 more. See dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
@@ -23,4 +23,4 @@ Jupiter Disco is a music venue in New York City listed on soundcheck. 16 upcomin
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

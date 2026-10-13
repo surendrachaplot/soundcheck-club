@@ -1,6 +1,6 @@
 # Slencho
 
-Slencho is a Drum & Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Alaska Waterloo, London on Fri, 23 Oct 2026.
+Slencho is a Drum & Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Alaska Waterloo, London on Fri, 23 Oct 2026.
 
 Slencho is a drum & bass and electronica artist based in Australia, with 10 gigs on soundcheck across London. Often billed alongside choose1, Cellar and Jawrs. Next up: Alaska Waterloo, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Slencho is a drum & bass and electronica artist based in Australia, with 10 gigs
 
 choose1, Cellar (2), Jawrs
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slencho/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slencho/)*

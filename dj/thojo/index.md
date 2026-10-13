@@ -1,6 +1,6 @@
 # Thojo
 
-Thojo is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Usquare, Brussels on Sat, 14 Nov 2026.
+Thojo is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Usquare, Brussels on Sat, 14 Nov 2026.
 
 Thojo is an electro and house artist based in Belgium, with 14 gigs on soundcheck across Brussels, Copenhagen and Ghent. Often billed alongside user1, Malo Z and Mandana. Next up: Usquare, Brussels on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Thojo is an electro and house artist based in Belgium, with 14 gigs on soundchec
 
 user1, Malo Z, Mandana
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thojo/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thojo/)*

@@ -1,6 +1,6 @@
 # Algha's Plantroom
 
-Algha's Plantroom is a music venue in London with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "afterimage" on Thu, 15 Oct 2026.
+Algha's Plantroom is a music venue in London with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "afterimage" on Thu, 15 Oct 2026.
 
 Algha's Plantroom is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including CHEZA LUCINA, Daskaran, Gabriel Rai and Grove and 2 more. See dates, start times and who's playing. Floor 2 Algha Works, 83 Smeed Road, E3 2NR.
 
@@ -17,4 +17,4 @@ Algha's Plantroom is a music venue in London listed on soundcheck. 4 upcoming gi
 
 Floor 2 Algha Works, 83 Smeed Road, E3 2NR, London
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/algha-s-plantroom/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/algha-s-plantroom/)*

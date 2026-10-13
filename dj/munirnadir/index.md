@@ -1,6 +1,6 @@
 # Munir Nadir
 
-Munir Nadir is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Les Enfants Brillants, Barcelona on Sat, 21 Nov 2026.
+Munir Nadir is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Les Enfants Brillants, Barcelona on Sat, 21 Nov 2026.
 
 Munir Nadir is a techno and house artist based in Morocco, with 73 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside Alex Dima, Cristian Sarde and Lorenzo Aribone. Next up: Les Enfants Brillants, Barcelona on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Munir Nadir is a techno and house artist based in Morocco, with 73 gigs on sound
 
 Alex Dima, Cristian Sarde, Lorenzo Aribone
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munirnadir/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munirnadir/)*

@@ -1,6 +1,6 @@
 # Frontline (BE)
 
-Frontline (BE) is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Amigo, Ghent on Sat, 7 Nov 2026.
+Frontline (BE) is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Amigo, Ghent on Sat, 7 Nov 2026.
 
 Frontline (BE) is a drum & bass and bass artist based in Belgium, with 5 gigs on soundcheck across Antwerp and Ghent. Often billed alongside Expensive KVR, Hiraeth and 1991. Next up: Amigo, Ghent on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ Frontline (BE) is a drum & bass and bass artist based in Belgium, with 5 gigs on
 
 Expensive KVR, Hiraeth, 1991
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frontlinebe/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frontlinebe/)*

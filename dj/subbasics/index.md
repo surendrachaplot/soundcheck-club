@@ -1,14 +1,15 @@
 # Sub Basics
 
-Sub Basics is a Dubstep and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Atno, Budapest on Thu, 22 Oct 2026.
+Sub Basics is a Dubstep and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Atno, Budapest on Thu, 22 Oct 2026.
 
-Sub Basics is a dubstep and dub techno artist based in United Kingdom, with 27 gigs on soundcheck across Auckland, Barcelona, Bristol and Budapest and 8 more. Often billed alongside Javano, Witch Trials and Fearless Dread. Next up: Atno, Budapest on Thu 22 Oct.
+Sub Basics is a dubstep and dub techno artist based in United Kingdom, with 28 gigs on soundcheck across Auckland, Barcelona, Bristol and Budapest and 8 more. Often billed alongside Fearless Dread, Javano and Truant (UK). Next up: Atno, Budapest on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Atno | Budapest |
+| Sat, 28 Nov 2026 | 26 Leake Street | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Sub Basics is a dubstep and dub techno artist based in United Kingdom, with 27 g
 
 ## Shares bills with
 
-Javano, Witch Trials, Fearless Dread
+Fearless Dread, Javano, Truant (UK)
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subbasics/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subbasics/)*

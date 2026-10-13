@@ -1,6 +1,6 @@
 # Laughing Buddha
 
-Laughing Buddha is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Leighton's Farm, Auckland on Wed, 30 Dec 2026.
+Laughing Buddha is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Leighton's Farm, Auckland on Wed, 30 Dec 2026.
 
 Laughing Buddha is a techno and psytrance artist, with 6 gigs on soundcheck across Auckland, Bristol, Lisbon and Manchester and 1 more. Often billed alongside Freetech, Micro Bites and Nanoplex. Next up: Leighton's Farm, Auckland on Wed 30 Dec.
 
@@ -22,4 +22,4 @@ Laughing Buddha is a techno and psytrance artist, with 6 gigs on soundcheck acro
 
 Freetech, Micro Bites, Nanoplex
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laughingbuddha/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laughingbuddha/)*

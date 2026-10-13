@@ -1,6 +1,6 @@
 # Return Fall
 
-Return Fall is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Grapes and Plates, Hamburg on Sat, 17 Oct 2026.
+Return Fall is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Grapes and Plates, Hamburg on Sat, 17 Oct 2026.
 
 Return Fall is a techno and house artist based in Germany, with 23 gigs on soundcheck across Berlin, Cologne, Hamburg and Helsinki and 3 more. Often billed alongside Alexej, JASHTECH and NELØ. Next up: Grapes and Plates, Hamburg on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Return Fall is a techno and house artist based in Germany, with 23 gigs on sound
 
 Alexej, JASHTECH, NELØ
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/returnfall/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/returnfall/)*

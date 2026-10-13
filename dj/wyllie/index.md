@@ -1,6 +1,6 @@
 # Wyllie
 
-Wyllie is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Humble Sea Beer Garden on the Wharf, San Francisco/Oakland on Sat, 17 Oct 2026.
+Wyllie is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Humble Sea Beer Garden on the Wharf, San Francisco/Oakland on Sat, 17 Oct 2026.
 
 Wyllie is a house and dub artist based in United States of America, with 11 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside Erik Vehmeyer, Daizz and Anderson Chase. Next up: Humble Sea Beer Garden on the Wharf, San Francisco/Oakland on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Wyllie is a house and dub artist based in United States of America, with 11 gigs
 
 Erik Vehmeyer, Daizz, Anderson Chase
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wyllie/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wyllie/)*

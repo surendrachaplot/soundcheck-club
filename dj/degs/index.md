@@ -1,6 +1,6 @@
 # Degs
 
-Degs is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at 3oz Dive Club, San Diego on Wed, 14 Oct 2026.
+Degs is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at 3oz Dive Club, San Diego on Wed, 14 Oct 2026.
 
 Degs is a drum & bass and jungle artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Auckland, Berlin and Birmingham and 27 more. Often billed alongside Whiney, Unglued and Metrik. Next up: 3oz Dive Club, San Diego on Wed 14 Oct.
 
@@ -28,4 +28,4 @@ Degs is a drum & bass and jungle artist based in United Kingdom, with 75 gigs on
 
 Whiney, Unglued, Metrik
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/degs/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/degs/)*

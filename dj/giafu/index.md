@@ -1,6 +1,6 @@
 # Gia Fu
 
-Gia Fu is a House and Funk / Soul artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Dahlia Stereo, Manchester on Thu, 15 Oct 2026.
+Gia Fu is a House and Funk / Soul artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Dahlia Stereo, Manchester on Thu, 15 Oct 2026.
 
 Gia Fu is a house and funk / soul artist based in China, with 18 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bristol and 8 more. Often billed alongside Sonido Tupinamba, Andy Votel and Atiké. Next up: Dahlia Stereo, Manchester on Thu 15 Oct.
 
@@ -27,4 +27,4 @@ Gia Fu is a house and funk / soul artist based in China, with 18 gigs on soundch
 
 Sonido Tupinamba, Andy Votel, Atiké
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giafu/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giafu/)*

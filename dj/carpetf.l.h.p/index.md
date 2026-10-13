@@ -1,6 +1,6 @@
 # Carpet (F.L.H.P)
 
-Carpet (F.L.H.P) is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Nowadays, New York City on Thu, 12 Nov 2026.
+Carpet (F.L.H.P) is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Nowadays, New York City on Thu, 12 Nov 2026.
 
 Carpet (F.L.H.P) is an experimental and ambient artist based in United States of America, with 16 gigs on soundcheck across Mexico City and New York City. Often billed alongside MARBLE RYE, Concret and Relaxer. Next up: Nowadays, New York City on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ Carpet (F.L.H.P) is an experimental and ambient artist based in United States of
 
 MARBLE RYE, Concret, Relaxer
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carpetf.l.h.p/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carpetf.l.h.p/)*

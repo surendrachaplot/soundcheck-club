@@ -1,6 +1,6 @@
 # ACA (YU)
 
-ACA (YU) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - AMSTERDAM BARBER COMPANY, Amsterdam on Sat, 24 Oct 2026.
+ACA (YU) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - AMSTERDAM BARBER COMPANY, Amsterdam on Sat, 24 Oct 2026.
 
 ACA (YU) is a house and minimal artist based in Spain, with 71 gigs on soundcheck across Amsterdam, Barcelona, Cologne and Dublin and 6 more. Often billed alongside HARRIE SUMMERS, Ryan Connolly and Darius Syrossian. Next up: TBA - AMSTERDAM BARBER COMPANY, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ ACA (YU) is a house and minimal artist based in Spain, with 71 gigs on soundchec
 
 HARRIE SUMMERS, Ryan Connolly, Darius Syrossian
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acayu/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acayu/)*

@@ -1,6 +1,6 @@
 # Black elektronika
 
-Black elektronika is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA, Berlin on Sat, 17 Oct 2026.
+Black elektronika is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA, Berlin on Sat, 17 Oct 2026.
 
 Black elektronika is a house and techno artist, with 5 gigs on soundcheck across Berlin. Often billed alongside G.rizo, Alejandro Molinari and Baran Kok. Next up: TBA, Berlin on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ Black elektronika is a house and techno artist, with 5 gigs on soundcheck across
 
 G.rizo, Alejandro Molinari, Baran Kok
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackelektronika/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackelektronika/)*

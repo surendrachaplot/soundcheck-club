@@ -1,6 +1,6 @@
 # Neutrix
 
-Neutrix is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Lord Gladstone, Sydney on Sat, 31 Oct 2026.
+Neutrix is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The Lord Gladstone, Sydney on Sat, 31 Oct 2026.
 
 Neutrix is a drum & bass and jungle artist, with 5 gigs on soundcheck across Sydney. Often billed alongside Deverence, Hotel 84 and Jopea. Next up: The Lord Gladstone, Sydney on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Neutrix is a drum & bass and jungle artist, with 5 gigs on soundcheck across Syd
 
 Deverence, Hotel 84, Jopea
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neutrix/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neutrix/)*

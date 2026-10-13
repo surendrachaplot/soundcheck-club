@@ -1,6 +1,6 @@
 # B.Love
 
-B.Love is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Hasta La Vista, Baby, Amsterdam on Thu, 22 Oct 2026.
+B.Love is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Hasta La Vista, Baby, Amsterdam on Thu, 22 Oct 2026.
 
 B.Love is a house and tech house artist based in United Kingdom, with 92 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Edinburgh and 15 more. Often billed alongside Jhobei, Felon5 and Oliver.r. Next up: Hasta La Vista, Baby, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ B.Love is a house and tech house artist based in United Kingdom, with 92 gigs on
 
 Jhobei, Felon5, Oliver.r
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*

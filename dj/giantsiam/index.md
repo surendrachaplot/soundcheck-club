@@ -1,6 +1,6 @@
 # Giantsiam
 
-Giantsiam is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Culture Cafe, Bangkok on Sun, 18 Oct 2026.
+Giantsiam is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Culture Cafe, Bangkok on Sun, 18 Oct 2026.
 
 Giantsiam is a house and techno artist based in Thailand, with 129 gigs on soundcheck across Bangkok. Often billed alongside VIM, Gayath and Funkpheno. Next up: Culture Cafe, Bangkok on Sun 18 Oct.
 
@@ -30,4 +30,4 @@ Giantsiam is a house and techno artist based in Thailand, with 129 gigs on sound
 
 VIM, Gayath, Funkpheno
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giantsiam/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giantsiam/)*

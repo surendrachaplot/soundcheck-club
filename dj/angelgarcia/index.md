@@ -1,6 +1,6 @@
 # Acid Hero
 
-Acid Hero is a Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Sala Villanos, Madrid on Fri, 18 Dec 2026.
+Acid Hero is a Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Sala Villanos, Madrid on Fri, 18 Dec 2026.
 
 Acid Hero is an electronica artist based in Spain, with 6 gigs on soundcheck across Madrid. Often billed alongside DJ F (ES), Horse Meat Disco and Ivan Smagghe. Next up: Sala Villanos, Madrid on Fri 18 Dec.
 
@@ -22,4 +22,4 @@ Acid Hero is an electronica artist based in Spain, with 6 gigs on soundcheck acr
 
 DJ F (ES), Horse Meat Disco, Ivan Smagghe
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angelgarcia/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angelgarcia/)*

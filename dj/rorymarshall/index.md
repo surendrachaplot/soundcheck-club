@@ -1,14 +1,15 @@
 # Rory Marshall
 
-Rory Marshall is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 17 Oct 2026.
+Rory Marshall is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 17 Oct 2026.
 
-Rory Marshall is a techno and house artist based in Australia, with 40 gigs on soundcheck across Brisbane, London, Melbourne and Sydney. Often billed alongside Boogs, Andrea Guadalupi and GavWhitehouse. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 17 Oct.
+Rory Marshall is a techno and house artist based in Australia, with 41 gigs on soundcheck across Brisbane, London, Melbourne and Sydney. Often billed alongside Boogs, Andrea Guadalupi and GavWhitehouse. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | TBA - Il Mercato Centrale | Melbourne |
+| Sat, 28 Nov 2026 | Manning Bar | Sydney |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Rory Marshall is a techno and house artist based in Australia, with 40 gigs on s
 
 Boogs, Andrea Guadalupi, GavWhitehouse
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rorymarshall/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rorymarshall/)*

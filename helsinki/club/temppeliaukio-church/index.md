@@ -1,6 +1,6 @@
 # Temppeliaukio Church
 
-Temppeliaukio Church is a music venue in Helsinki with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Kara-Lis Coverdale" on Tue, 13 Oct 2026.
+Temppeliaukio Church is a music venue in Helsinki with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Kara-Lis Coverdale" on Tue, 13 Oct 2026.
 
 Temppeliaukio Church is a music venue in Helsinki listed on soundcheck. 3 upcoming gigs, with line-ups including Grouper, Kali Malone and Kara-Lis Coverdale. See dates, start times and who's playing. Lutherinkatu 3, 00100, Helsinki, Finland.
 
@@ -16,4 +16,4 @@ Temppeliaukio Church is a music venue in Helsinki listed on soundcheck. 3 upcomi
 
 Lutherinkatu 3, 00100, Helsinki, Finland, Helsinki
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/temppeliaukio-church/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/temppeliaukio-church/)*

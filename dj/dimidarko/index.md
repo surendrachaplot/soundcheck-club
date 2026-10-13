@@ -1,6 +1,6 @@
 # Dimi Darko
 
-Dimi Darko is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Last Arch, London on Sat, 24 Oct 2026.
+Dimi Darko is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Last Arch, London on Sat, 24 Oct 2026.
 
 Dimi Darko is a house and afro house artist based in Australia, with 5 gigs on soundcheck across London. Often billed alongside Marla Kether, val fritz and Archie Holmes. Next up: Last Arch, London on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ Dimi Darko is a house and afro house artist based in Australia, with 5 gigs on s
 
 Marla Kether, val fritz, Archie Holmes
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimidarko/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimidarko/)*

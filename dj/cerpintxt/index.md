@@ -1,6 +1,6 @@
 # Cerpintxt
 
-Cerpintxt is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Vespers Club, London on Thu, 22 Oct 2026.
+Cerpintxt is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Vespers Club, London on Thu, 22 Oct 2026.
 
 Cerpintxt is an experimental and ambient artist, with 10 gigs on soundcheck across London. Often billed alongside Angel D'lite, FAFF and Aloka. Next up: Vespers Club, London on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Cerpintxt is an experimental and ambient artist, with 10 gigs on soundcheck acro
 
 Angel D'lite, FAFF, Aloka
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cerpintxt/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cerpintxt/)*

@@ -1,6 +1,6 @@
 # Andrija Jäger
 
-Andrija Jäger is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Bláthy Ottó utca 3, Budapest 1089, Budapest on Sat, 17 Oct 2026.
+Andrija Jäger is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Bláthy Ottó utca 3, Budapest 1089, Budapest on Sat, 17 Oct 2026.
 
 Andrija Jäger is a house and minimal artist based in Hungary, with 105 gigs on soundcheck across Budapest. Often billed alongside JAGER (HU), Dorota and Acsa. Next up: TBA - Bláthy Ottó utca 3, Budapest 1089, Budapest on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Andrija Jäger is a house and minimal artist based in Hungary, with 105 gigs on 
 
 JAGER (HU), Dorota, Acsa
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrijajager/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrijajager/)*

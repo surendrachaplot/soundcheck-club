@@ -1,6 +1,6 @@
 # Eros Bilgic
 
-Eros Bilgic is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Halfmoon Festival Koh Pha-Nang, Thailand on Wed, 10 Feb 2027.
+Eros Bilgic is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Halfmoon Festival Koh Pha-Nang, Thailand on Wed, 10 Feb 2027.
 
 Eros Bilgic is an electronic artist, with 5 gigs on soundcheck across Berlin, Ibiza and Thailand. Often billed alongside Isaac Elejalde, Gabi and Karlï. Next up: Halfmoon Festival Koh Pha-Nang, Thailand on Wed 10 Feb.
 
@@ -21,4 +21,4 @@ Eros Bilgic is an electronic artist, with 5 gigs on soundcheck across Berlin, Ib
 
 Isaac Elejalde, Gabi, Karlï
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erosbilgic/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erosbilgic/)*

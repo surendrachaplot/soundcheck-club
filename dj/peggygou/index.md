@@ -1,6 +1,6 @@
 # Peggy Gou
 
-Peggy Gou is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
+Peggy Gou is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
 
 Peggy Gou is a house and techno artist based in Germany, with 101 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 40 more. Often billed alongside ANOTR, Chloé Caillet and Skream. Next up: Depot Mayfield, Manchester on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Peggy Gou is a house and techno artist based in Germany, with 101 gigs on soundc
 
 ANOTR, Chloé Caillet, Skream
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peggygou/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peggygou/)*

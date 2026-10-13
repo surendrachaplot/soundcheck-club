@@ -1,8 +1,8 @@
 # uuu7
 
-uuu7 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
+uuu7 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
 
-uuu7 is a techno and house artist based in Japan, with 131 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), Drinkss and EMILIO. Next up: Ooba Camping Village, Tokyo on Fri 16 Oct.
+uuu7 is a techno and house artist based in Japan, with 132 gigs on soundcheck across Tokyo. Often billed alongside EMILIO, SIGNAL (JP) and Drinkss. Next up: Ooba Camping Village, Tokyo on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ uuu7 is a techno and house artist based in Japan, with 131 gigs on soundcheck ac
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Ooba Camping Village | Tokyo |
 | Sat, 24 Oct 2026 | TBA - SHIBAKOEN HIDDEN VENUE BY TOKYO TOWER | Tokyo |
+| Sat, 31 Oct 2026 | TBA - Secret Location  | Tokyo |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ uuu7 is a techno and house artist based in Japan, with 131 gigs on soundcheck ac
 
 ## Shares bills with
 
-SIGNAL (JP), Drinkss, EMILIO (3)
+EMILIO (3), SIGNAL (JP), Drinkss
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uuu7/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uuu7/)*

@@ -1,6 +1,6 @@
 # ANNĒ
 
-ANNĒ is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at WDM, Hannover on Sat, 17 Oct 2026.
+ANNĒ is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at WDM, Hannover on Sat, 17 Oct 2026.
 
 ANNĒ is a techno and house artist based in Greece, with 193 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside SHDW, Sera J and Sol Ortega. Next up: WDM, Hannover on Sat 17 Oct.
 
@@ -36,4 +36,4 @@ ANNĒ is a techno and house artist based in Greece, with 193 gigs on soundcheck 
 
 SHDW, Sera J, Sol Ortega
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*

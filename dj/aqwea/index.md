@@ -1,6 +1,6 @@
 # Aqwea
 
-Aqwea is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Paloma, Berlin on Fri, 23 Oct 2026.
+Aqwea is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Paloma, Berlin on Fri, 23 Oct 2026.
 
 Aqwea is a house and deep house artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Berlin, Bristol and London. Often billed alongside Alexander Nut, Leanne Wright and Benji B. Next up: Paloma, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Aqwea is a house and deep house artist based in United Kingdom, with 33 gigs on 
 
 Alexander Nut, Leanne Wright, Benji B
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aqwea/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aqwea/)*

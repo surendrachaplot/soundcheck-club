@@ -1,6 +1,6 @@
 # KOKO (IT)
 
-KOKO (IT) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Dave & Busters (Carlsbad), California on Sat, 17 Oct 2026.
+KOKO (IT) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Dave & Busters (Carlsbad), California on Sat, 17 Oct 2026.
 
 KOKO (IT) is a house and deep house artist based in Italy, with 34 gigs on soundcheck across Amsterdam, Barcelona, California and Ibiza and 9 more. Often billed alongside Elliot Schooling, Liam Palmer and Locky. Next up: Dave & Busters (Carlsbad), California on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ KOKO (IT) is a house and deep house artist based in Italy, with 34 gigs on sound
 
 Elliot Schooling, Liam Palmer, Locky
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koko-it/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koko-it/)*

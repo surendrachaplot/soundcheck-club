@@ -1,6 +1,6 @@
 # Anna Wall
 
-Anna Wall is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at fabric, London on Sat, 17 Oct 2026.
+Anna Wall is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at fabric, London on Sat, 17 Oct 2026.
 
 Anna Wall is a house and techno artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 24 more. Often billed alongside Craig Richards, Harry McCanna and Bobby.. Next up: fabric, London on Sat 17 Oct.
 
@@ -31,4 +31,4 @@ Anna Wall is a house and techno artist based in United Kingdom, with 120 gigs on
 
 Craig Richards, Harry McCanna, Bobby.
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annawall/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annawall/)*

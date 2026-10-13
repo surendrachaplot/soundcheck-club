@@ -1,6 +1,6 @@
 # DJ Heartstring
 
-DJ Heartstring is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Poolen, Copenhagen on Sat, 17 Oct 2026.
+DJ Heartstring is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Poolen, Copenhagen on Sat, 17 Oct 2026.
 
 DJ Heartstring is a techno and trance artist based in Germany, with 222 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 66 more. Often billed alongside MALUGI, Partiboi69 and KETTAMA. Next up: Poolen, Copenhagen on Sat 17 Oct.
 
@@ -32,4 +32,4 @@ DJ Heartstring is a techno and trance artist based in Germany, with 222 gigs on 
 
 MALUGI, Partiboi69, KETTAMA
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djheartstring/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djheartstring/)*

@@ -1,6 +1,6 @@
 # Atxa
 
-Atxa is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Not so secret location (check the poster), Berlin on Fri, 16 Oct 2026.
+Atxa is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Not so secret location (check the poster), Berlin on Fri, 16 Oct 2026.
 
 Atxa is a breakbeat and bass artist based in Germany, with 11 gigs on soundcheck across Berlin and London. Often billed alongside Tasfet, Lu_x2 and Flickerchild. Next up: TBA - Not so secret location (check the poster), Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Atxa is a breakbeat and bass artist based in Germany, with 11 gigs on soundcheck
 
 Tasfet, Lu_x2, Flickerchild
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atxa/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atxa/)*

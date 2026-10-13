@@ -1,6 +1,6 @@
 # DJ Reezey
 
-DJ Reezey is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Upstairs at the 700, Philadelphia on Thu, 15 Oct 2026.
+DJ Reezey is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Upstairs at the 700, Philadelphia on Thu, 15 Oct 2026.
 
 DJ Reezey is a club and techno artist based in United States of America, with 15 gigs on soundcheck across New York City and Philadelphia. Often billed alongside Traps N Trees, DJ Sega and ALLNATUREL. Next up: Upstairs at the 700, Philadelphia on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ DJ Reezey is a club and techno artist based in United States of America, with 15
 
 Traps N Trees, DJ Sega, ALLNATUREL
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djreezey/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djreezey/)*

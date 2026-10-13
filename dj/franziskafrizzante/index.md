@@ -1,6 +1,6 @@
 # Franziska Frizzante
 
-Franziska Frizzante is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Marmorbar, Berlin on Sat, 17 Oct 2026.
+Franziska Frizzante is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Marmorbar, Berlin on Sat, 17 Oct 2026.
 
 Franziska Frizzante is a house and techno artist based in Germany, with 57 gigs on soundcheck across Berlin, Hamburg and Vienna. Often billed alongside Sam Paradise, freesi and Carluschka. Next up: Marmorbar, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Franziska Frizzante is a house and techno artist based in Germany, with 57 gigs 
 
 Sam Paradise, freesi, Carluschka
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskafrizzante/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskafrizzante/)*

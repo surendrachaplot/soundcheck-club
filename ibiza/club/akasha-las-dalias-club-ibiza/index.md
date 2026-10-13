@@ -1,6 +1,6 @@
 # Akasha Las Dalias Club - Ibiza
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 27 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Namaste Closing" on Wed, 14 Oct 2026.
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 27 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Namaste Closing" on Wed, 14 Oct 2026.
 
 Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 27 upcoming gigs, with line-ups including Alay, Audera, BOHEM and Cameron Jack and 2 more. See dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
 
@@ -23,4 +23,4 @@ Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 2
 
 Carretera San Carlos Km 12, Ibiza, Spain 07850., Ibiza
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/akasha-las-dalias-club-ibiza/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/akasha-las-dalias-club-ibiza/)*

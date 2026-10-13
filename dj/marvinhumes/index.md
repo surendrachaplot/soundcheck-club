@@ -1,6 +1,6 @@
 # Marvin Humes
 
-Marvin Humes is a Drum & Bass and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Freight Brixton, London on Sat, 7 Nov 2026.
+Marvin Humes is a Drum & Bass and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Freight Brixton, London on Sat, 7 Nov 2026.
 
 Marvin Humes is a drum & bass and disco artist based in United Kingdom, with 6 gigs on soundcheck across Ibiza and London. Often billed alongside Carly Wilford, Charlotte Van de Peer and Eden Prince. Next up: Freight Brixton, London on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Marvin Humes is a drum & bass and disco artist based in United Kingdom, with 6 g
 
 Carly Wilford, Charlotte Van de Peer, Eden Prince
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marvinhumes/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marvinhumes/)*

@@ -1,6 +1,6 @@
 # Rich Medina
 
-Rich Medina is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Night Cat, Melbourne on Fri, 16 Oct 2026.
+Rich Medina is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Night Cat, Melbourne on Fri, 16 Oct 2026.
 
 Rich Medina is a house and hip-hop artist based in United States of America, with 200 gigs on soundcheck across Amsterdam, Barcelona, Chicago and Denver and 21 more. Often billed alongside Djinji Brown, Dvize and Sunny Cheeba. Next up: The Night Cat, Melbourne on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Rich Medina is a house and hip-hop artist based in United States of America, wit
 
 Djinji Brown, Dvize, Sunny Cheeba
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richmedina/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richmedina/)*

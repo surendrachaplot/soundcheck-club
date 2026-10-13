@@ -1,6 +1,6 @@
 # Esse
 
-Esse is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Esse is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 Esse is a house and tech house artist based in Lithuania, with 6 gigs on soundcheck across Amsterdam, Boston, Los Angeles and Miami and 1 more. Often billed alongside Alesso, TroyBoi and A Little Sound. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ Esse is a house and tech house artist based in Lithuania, with 6 gigs on soundch
 
 Alesso, TroyBoi, A Little Sound
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esse/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esse/)*

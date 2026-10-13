@@ -1,6 +1,6 @@
 # Juany Bravo
 
-Juany Bravo is a Afro House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at MeWe Amsterdam, Amsterdam on Wed, 21 Oct 2026.
+Juany Bravo is a Afro House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at MeWe Amsterdam, Amsterdam on Wed, 21 Oct 2026.
 
 Juany Bravo is an afro house and tech house artist based in United States of America, with 33 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Ibiza and 12 more. Often billed alongside Hugel, Eran Hersh and Miss Monique. Next up: MeWe Amsterdam, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Juany Bravo is an afro house and tech house artist based in United States of Ame
 
 Hugel, Eran Hersh, Miss Monique
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanybravo/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanybravo/)*

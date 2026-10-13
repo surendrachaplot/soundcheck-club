@@ -1,14 +1,15 @@
 # Alby Esc
 
-Alby Esc is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Fünk, Mexico City on Fri, 16 Oct 2026.
+Alby Esc is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Fünk, Mexico City on Fri, 16 Oct 2026.
 
-Alby Esc is a house and techno artist based in Mexico, with 120 gigs on soundcheck across Brighton, London and Mexico City. Often billed alongside Diz Shocka, Tommy Hart and Enya Botello. Next up: Fünk, Mexico City on Fri 16 Oct.
+Alby Esc is a house and techno artist based in Mexico, with 121 gigs on soundcheck across Brighton, London and Mexico City. Often billed alongside Diz Shocka, Tommy Hart and Celice Monnette. Next up: Fünk, Mexico City on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Fünk | Mexico City |
+| Sat, 24 Oct 2026 | Versalles 64 | Mexico City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Alby Esc is a house and techno artist based in Mexico, with 120 gigs on soundche
 
 ## Shares bills with
 
-Diz Shocka, Tommy Hart, Enya Botello
+Diz Shocka, Tommy Hart, Celice Monnette
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/albyesc/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/albyesc/)*

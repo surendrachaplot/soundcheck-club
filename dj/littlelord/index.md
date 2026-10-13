@@ -1,6 +1,6 @@
 # Little Lord
 
-Little Lord is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 16 Oct 2026.
+Little Lord is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 16 Oct 2026.
 
 Little Lord is a techno and house artist based in United States of America, with 7 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Good Question, Benjamin K and &ndmore. Next up: Public Works, San Francisco/Oakland on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Little Lord is a techno and house artist based in United States of America, with
 
 Good Question, Benjamin K, &ndmore
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/littlelord/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/littlelord/)*

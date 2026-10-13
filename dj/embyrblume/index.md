@@ -1,6 +1,6 @@
 # Ëmbyrblume
 
-Ëmbyrblume is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at or, Tokyo on Sat, 17 Oct 2026.
+Ëmbyrblume is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at or, Tokyo on Sat, 17 Oct 2026.
 
 Ëmbyrblume is a house and tech house artist based in Japan, with 21 gigs on soundcheck across Tokyo. Often billed alongside Yamariki, PUNK N MATRIX and ARCK. Next up: or, Tokyo on Sat 17 Oct.
 
@@ -25,4 +25,4 @@
 
 Yamariki, PUNK N MATRIX, ARCK
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/embyrblume/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/embyrblume/)*

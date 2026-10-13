@@ -1,6 +1,6 @@
 # Garage 442
 
-Garage 442 is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "SEVERAL SHOWCASE" on Wed, 14 Oct 2026.
+Garage 442 is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "SEVERAL SHOWCASE" on Wed, 14 Oct 2026.
 
 Garage 442 is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs, with line-ups including DJ Alen, DJ MELEJ, HANIE and Inpulse. See dates, start times and who's playing. Avinguda Diagonal, 442, 08037 Barcelona.
 
@@ -17,4 +17,4 @@ Garage 442 is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs, 
 
 Avinguda Diagonal, 442, 08037 Barcelona, Barcelona
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*

@@ -1,6 +1,6 @@
 # Mercúrio Gótico
 
-Mercúrio Gótico is a Industrial and EBM artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Festsaal Kreuzberg, Berlin on Sat, 31 Oct 2026.
+Mercúrio Gótico is a Industrial and EBM artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Festsaal Kreuzberg, Berlin on Sat, 31 Oct 2026.
 
 Mercúrio Gótico is an industrial and ebm artist based in Brazil, with 6 gigs on soundcheck across Berlin and Manchester. Often billed alongside Daniel Knutz, Subkultur and Absolute Body Control. Next up: Festsaal Kreuzberg, Berlin on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Mercúrio Gótico is an industrial and ebm artist based in Brazil, with 6 gigs o
 
 Daniel Knutz, Subkultur, Absolute Body Control
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mercúriogotico/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mercúriogotico/)*

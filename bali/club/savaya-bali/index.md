@@ -1,6 +1,6 @@
 # Savaya Bali
 
-Savaya Bali is a music venue in Bali with 28 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Last Light" on Mon, 12 Oct 2026.
+Savaya Bali is a music venue in Bali with 28 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Zamna" on Sat, 17 Oct 2026.
 
 Savaya Bali is a music venue in Bali listed on soundcheck. 28 upcoming gigs, with line-ups including 19:26, AMÉMÉ, Argy and BLOND:ISH and 2 more. See dates, start times and who's playing. Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kabupaten Badung, Bali 80364, Indonesia.
 
@@ -8,7 +8,6 @@ Savaya Bali is a music venue in Bali listed on soundcheck. 28 upcoming gigs, wit
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 12 Oct 2026 | Last Light | Zakes Bantwini |
 | Sat, 17 Oct 2026 | Zamna | 19:26, Brina Knauss, Innellea, Zamna Soundsystem |
 | Sun, 18 Oct 2026 | Zamna | DJEFF, Moojo, Nitefreak, Vanco |
 | Sat, 24 Oct 2026 | Franky Wah | Franky Wah |
@@ -18,9 +17,10 @@ Savaya Bali is a music venue in Bali listed on soundcheck. 28 upcoming gigs, wit
 | Fri, 6 Nov 2026 | ¥ØU$UK€ ¥UK1MAT$U | ¥ØU$UK€ ¥UK1MAT$U |
 | Sat, 7 Nov 2026 | Patrick Mason | Patrick Mason |
 | Sun, 8 Nov 2026 | Elvis Guetta |  |
+| Sat, 14 Nov 2026 | MK | Marc Kinchen |
 
 ## Address
 
 Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kabupaten Badung, Bali 80364, Indonesia, Bali
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/savaya-bali/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/savaya-bali/)*

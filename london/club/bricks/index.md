@@ -1,6 +1,6 @@
 # Bricks
 
-Bricks is a music venue in London with 10 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Refractions x Lab.Club present: Skope, Azaleh & Kori" on Thu, 15 Oct 2026.
+Bricks is a music venue in London with 10 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Refractions x Lab.Club present: Skope, Azaleh & Kori" on Thu, 15 Oct 2026.
 
 Bricks is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Adela, Antepop, AVANTIME and Azaleh and 2 more. See dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
 
@@ -9,7 +9,7 @@ Bricks is a music venue in London listed on soundcheck. 10 upcoming gigs, with l
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | Refractions x Lab.Club present: Skope, Azaleh & Kori | Azaleh |
-| Fri, 16 Oct 2026 | ChoirCo Turns Five: Karaoke & Pop Party |  |
+| Fri, 16 Oct 2026 | Karaoke & Pop Party - ChoirCo's 5th Birthday |  |
 | Sat, 24 Oct 2026 | Efan:EXTENDED [London] | Efan |
 | Fri, 30 Oct 2026 | Hebe Jeebie Halloween |  |
 | Sat, 31 Oct 2026 | HALLOWEEN BOOGIE: DISCO. FUNK. NO COSTUME NO ENTRY |  |
@@ -23,4 +23,4 @@ Bricks is a music venue in London listed on soundcheck. 10 upcoming gigs, with l
 
 414 Coldharbour Lane, London, United Kingdom SW9 8LF, London
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*

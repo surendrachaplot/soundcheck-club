@@ -1,6 +1,6 @@
 # Knotice
 
-Knotice is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at 3oz Dive Club, San Diego on Wed, 14 Oct 2026.
+Knotice is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at 3oz Dive Club, San Diego on Wed, 14 Oct 2026.
 
 Knotice is a drum & bass and jungle artist based in United States of America, with 10 gigs on soundcheck across San Diego. Often billed alongside BCee, Degs and JoshtheBear. Next up: 3oz Dive Club, San Diego on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ Knotice is a drum & bass and jungle artist based in United States of America, wi
 
 BCee, Degs, JoshtheBear
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knotice/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knotice/)*

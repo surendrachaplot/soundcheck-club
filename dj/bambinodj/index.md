@@ -1,6 +1,6 @@
 # bambinodj
 
-bambinodj is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Hoppetosse, Berlin on Sat, 31 Oct 2026.
+bambinodj is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Hoppetosse, Berlin on Sat, 31 Oct 2026.
 
 bambinodj is an electronica and experimental artist based in Germany, with 12 gigs on soundcheck across Barcelona, Berlin, London and New York City and 2 more. Often billed alongside DJ KILLING, DJ Python and Hekt. Next up: Hoppetosse, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ bambinodj is an electronica and experimental artist based in Germany, with 12 gi
 
 DJ KILLING, DJ Python, Hekt
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambinodj/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambinodj/)*

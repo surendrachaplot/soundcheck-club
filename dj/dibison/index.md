@@ -1,6 +1,6 @@
 # Dibison
 
-Dibison is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - El Jardín de las Artes, Zaragoza, North on Sat, 17 Oct 2026.
+Dibison is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - El Jardín de las Artes, Zaragoza, North on Sat, 17 Oct 2026.
 
 Dibison is a techno and trance artist based in Spain, with 10 gigs on soundcheck across Lisbon, Madrid and North. Often billed alongside ESE UVE, ANÍBAL and Afem Syko. Next up: TBA - El Jardín de las Artes, Zaragoza, North on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Dibison is a techno and trance artist based in Spain, with 10 gigs on soundcheck
 
 ESE UVE, ANÍBAL, Afem Syko
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dibison/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dibison/)*

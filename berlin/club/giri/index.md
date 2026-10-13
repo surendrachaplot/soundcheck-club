@@ -1,8 +1,8 @@
 # Giri
 
-Giri is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Pastards" on Wed, 14 Oct 2026.
+Giri is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Pastards" on Wed, 14 Oct 2026.
 
-Giri is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Bass, Dj Hidrataccioni, DJ Jones and Fuerza Kontraria and 2 more. See dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
+Giri is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including Bass, Dj Hidrataccioni, DJ Jones and Fuerza Kontraria and 2 more. See dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Giri is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with lin
 
 Hermannstrasse 14, 12049 Berlin, Berlin
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*

@@ -1,6 +1,6 @@
 # permerin
 
-permerin is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Elsa Restaurang, Stockholm on Wed, 14 Oct 2026.
+permerin is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Elsa Restaurang, Stockholm on Wed, 14 Oct 2026.
 
 permerin is a tech house and minimal artist, with 6 gigs on soundcheck across Stockholm. Often billed alongside Martin Pålsson, Hamparsomian and Erik Sahl. Next up: Elsa Restaurang, Stockholm on Wed 14 Oct.
 
@@ -22,4 +22,4 @@ permerin is a tech house and minimal artist, with 6 gigs on soundcheck across St
 
 Martin Pålsson, Hamparsomian, Erik Sahl
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/permerin/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/permerin/)*

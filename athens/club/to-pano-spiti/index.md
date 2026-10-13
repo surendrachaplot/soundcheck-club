@@ -1,6 +1,6 @@
 # To Pano Spiti
 
-To Pano Spiti is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "Guild - Gkyzi Server¯\(ツ)/¯" on Fri, 23 Oct 2026.
+To Pano Spiti is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "Guild - Gkyzi Server¯\(ツ)/¯" on Fri, 23 Oct 2026.
 
 To Pano Spiti is a music venue in Athens listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Leof. Alexandras 37, Athina 114 73, Greece.
 
@@ -14,4 +14,4 @@ To Pano Spiti is a music venue in Athens listed on soundcheck. 1 upcoming gig. S
 
 Leof. Alexandras 37, Athina 114 73, Greece, Athens
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/to-pano-spiti/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/to-pano-spiti/)*

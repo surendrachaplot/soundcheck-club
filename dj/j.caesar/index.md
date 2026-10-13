@@ -1,6 +1,6 @@
 # J. Caesar
 
-J. Caesar is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at radial, London on Fri, 16 Oct 2026.
+J. Caesar is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at radial, London on Fri, 16 Oct 2026.
 
 J. Caesar is a house and electro artist based in United Kingdom, with 2 gigs on soundcheck across London. Often billed alongside Braga Circuit, Shivum Sharma and Steven Julien. Next up: radial, London on Fri 16 Oct.
 
@@ -15,4 +15,4 @@ J. Caesar is a house and electro artist based in United Kingdom, with 2 gigs on 
 
 Braga Circuit, Shivum Sharma, Steven Julien
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.caesar/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.caesar/)*

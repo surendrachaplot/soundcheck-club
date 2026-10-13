@@ -1,6 +1,6 @@
 # Marie Qrie
 
-Marie Qrie is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Marie Qrie is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Marie Qrie is a techno and breakbeat artist based in United States of America, with 36 gigs on soundcheck across Miami and New York City. Often billed alongside SATURNSARii, Mauricio, The Invisible and Romulo Del Castillo. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Marie Qrie is a techno and breakbeat artist based in United States of America, w
 
 SATURNSARii, Mauricio, The Invisible, Romulo Del Castillo
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marieqrie/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marieqrie/)*

@@ -1,6 +1,6 @@
 # YONIT
 
-YONIT is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at House of Yes, New York City on Sat, 17 Oct 2026.
+YONIT is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at House of Yes, New York City on Sat, 17 Oct 2026.
 
 YONIT is a house and afro house artist, with 10 gigs on soundcheck across New York City. Often billed alongside B Hills, Buggi and Cassy. Next up: House of Yes, New York City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ YONIT is a house and afro house artist, with 10 gigs on soundcheck across New Yo
 
 B Hills, Buggi, Cassy
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yonit/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yonit/)*

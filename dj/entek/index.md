@@ -1,6 +1,6 @@
 # Entek
 
-Entek is a Broken Beat and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Grow, London on Sat, 7 Nov 2026.
+Entek is a Broken Beat and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Grow, London on Sat, 7 Nov 2026.
 
 Entek is a broken beat and house artist based in France, with 16 gigs on soundcheck across Amsterdam, London and Vienna. Often billed alongside Cengiz, Neue Grafik and DJ Programma. Next up: Grow, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Entek is a broken beat and house artist based in France, with 16 gigs on soundch
 
 Cengiz, Neue Grafik, DJ Programma
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/entek/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/entek/)*

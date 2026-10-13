@@ -1,6 +1,6 @@
 # Club Vaag
 
-Club Vaag is a music venue in Antwerp with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Club Vaag invites DROS & GO$PEL" on Fri, 16 Oct 2026.
+Club Vaag is a music venue in Antwerp with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Club Vaag invites DROS & GO$PEL" on Fri, 16 Oct 2026.
 
 Club Vaag is a music venue in Antwerp listed on soundcheck. 9 upcoming gigs, with line-ups including 333CXT, BISOUX, BLNK and BØĘRY and 2 more. See dates, start times and who's playing. Rijnkaai 4 2000 Antwerpen.
 
@@ -22,4 +22,4 @@ Club Vaag is a music venue in Antwerp listed on soundcheck. 9 upcoming gigs, wit
 
 Rijnkaai 4 2000 Antwerpen, Antwerp
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/club-vaag/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/club-vaag/)*

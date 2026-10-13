@@ -1,6 +1,6 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Eerste Communie x Den Anden Side" on Fri, 16 Oct 2026.
+Den Anden Side is a music venue in Copenhagen with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Eerste Communie x Den Anden Side" on Fri, 16 Oct 2026.
 
 Den Anden Side is a music venue in Copenhagen listed on soundcheck. 6 upcoming gigs, with line-ups including Alegrando, AMORAL, Anastasia Kristensen and babysquid and 2 more. See dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
@@ -19,4 +19,4 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 6 upcoming g
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

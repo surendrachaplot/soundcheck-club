@@ -1,6 +1,6 @@
 # Laze
 
-Laze is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at La Belle Électrique, South-east on Sat, 17 Oct 2026.
+Laze is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at La Belle Électrique, South-east on Sat, 17 Oct 2026.
 
 Laze is a techno and trance artist based in France, with 88 gigs on soundcheck across Barcelona, Berlin, Brussels and Cologne and 17 more. Often billed alongside Azyr, Faster Horses and YENKOV. Next up: La Belle Électrique, South East on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Laze is a techno and trance artist based in France, with 88 gigs on soundcheck a
 
 Azyr, Faster Horses, YENKOV
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laze/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laze/)*

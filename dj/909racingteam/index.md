@@ -1,6 +1,6 @@
 # 909 RACING TEAM
 
-909 RACING TEAM is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Artheater, Cologne on Fri, 20 Nov 2026.
+909 RACING TEAM is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Artheater, Cologne on Fri, 20 Nov 2026.
 
 909 RACING TEAM is a house and techno artist based in Germany, with 16 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 3 more. Often billed alongside Domenik Deckert, Mike Momburg and Vagabund. Next up: Artheater, Cologne on Fri 20 Nov.
 
@@ -25,4 +25,4 @@
 
 Domenik Deckert, Mike Momburg, Vagabund
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/909racingteam/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/909racingteam/)*

@@ -1,6 +1,6 @@
 # La Gravière
 
-La Gravière is a music venue in Geneva with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "[NoctamBar] Mah'Mood · Truckthomas · Walla P" on Thu, 15 Oct 2026.
+La Gravière is a music venue in Geneva with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "[NoctamBar] Mah'Mood · Truckthomas · Walla P" on Thu, 15 Oct 2026.
 
 La Gravière is a music venue in Geneva listed on soundcheck. 5 upcoming gigs, with line-ups including Amor Satyr, Azamat B., Bony Fly and Owelle and 1 more. See dates, start times and who's playing. Chemin de la Gravière 9, 1227 Genève, Switzerland.
 
@@ -18,4 +18,4 @@ La Gravière is a music venue in Geneva listed on soundcheck. 5 upcoming gigs, w
 
 Chemin de la Gravière 9, 1227 Genève, Switzerland, Geneva
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/la-gravi-re/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/la-gravi-re/)*

@@ -1,6 +1,6 @@
 # LAB theCLUB
 
-LAB theCLUB is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "LAB theClub pres. Silent w/ Reinier Zonneveld live" on Fri, 16 Oct 2026.
+LAB theCLUB is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "LAB theClub pres. Silent w/ Reinier Zonneveld live" on Fri, 16 Oct 2026.
 
 LAB theCLUB is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with line-ups including ART NO LOGIA, Claptone, Djammin and Joris Voorn and 2 more. See dates, start times and who's playing. Estación de Chamartín. Primera planta s/n 28036 Madrid.
 
@@ -21,4 +21,4 @@ LAB theCLUB is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, wi
 
 Estación de Chamartín. Primera planta s/n 28036 Madrid, Madrid
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*

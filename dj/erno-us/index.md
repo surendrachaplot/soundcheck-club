@@ -1,6 +1,6 @@
 # ERNO (US)
 
-ERNO (US) is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Spkrbox, Detroit on Fri, 16 Oct 2026.
+ERNO (US) is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Spkrbox, Detroit on Fri, 16 Oct 2026.
 
 ERNO (US) is a funk / soul and disco artist based in United States of America, with 131 gigs on soundcheck across Barcelona, Detroit, Los Angeles and Washington DC. Often billed alongside Eastside Jon, John Collins (US) and Ashton Swinton. Next up: Spkrbox, Detroit on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ ERNO (US) is a funk / soul and disco artist based in United States of America, w
 
 Eastside Jon, John Collins (US), Ashton Swinton
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erno-us/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erno-us/)*

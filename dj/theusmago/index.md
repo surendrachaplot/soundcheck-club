@@ -1,6 +1,6 @@
 # Theus Mago
 
-Theus Mago is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Outline, Mexico City on Sat, 7 Nov 2026.
+Theus Mago is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Outline, Mexico City on Sat, 7 Nov 2026.
 
 Theus Mago is a house and techno artist based in Mexico, with 50 gigs on soundcheck across Barcelona, Belgrade, Berlin and Bucharest and 19 more. Often billed alongside Moisees, Thomass Jackson and Cabizbajo. Next up: Outline, Mexico City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Theus Mago is a house and techno artist based in Mexico, with 50 gigs on soundch
 
 Moisees, Thomass Jackson, Cabizbajo
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theusmago/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theusmago/)*

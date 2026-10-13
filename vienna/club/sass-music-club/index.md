@@ -1,6 +1,6 @@
 # SASS Music Club
 
-SASS Music Club is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Housetiere" on Fri, 16 Oct 2026.
+SASS Music Club is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Housetiere" on Fri, 16 Oct 2026.
 
 SASS Music Club is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with line-ups including Apua, Bambi-S, Crazy Sonic and IKARIOS and 2 more. See dates, start times and who's playing. Karlsplatz 1, 1010 Wien, Austria.
 
@@ -18,4 +18,4 @@ SASS Music Club is a music venue in Vienna listed on soundcheck. 5 upcoming gigs
 
 Karlsplatz 1, 1010 Wien, Austria, Vienna
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*

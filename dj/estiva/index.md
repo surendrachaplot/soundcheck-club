@@ -1,6 +1,6 @@
 # Estiva
 
-Estiva is a Progressive House and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Toekomstmuziek, Amsterdam on Thu, 22 Oct 2026.
+Estiva is a Progressive House and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Toekomstmuziek, Amsterdam on Thu, 22 Oct 2026.
 
 Estiva is a progressive house and trance artist based in Netherlands, with 38 gigs on soundcheck across Amsterdam, Auckland, Chicago and Cologne and 11 more. Often billed alongside mölly, ALLKNIGHT and Farius. Next up: Toekomstmuziek, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Estiva is a progressive house and trance artist based in Netherlands, with 38 gi
 
 mölly, ALLKNIGHT, Farius
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estiva/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estiva/)*

@@ -1,6 +1,6 @@
 # Marquis
 
-Marquis is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Street Smash Burgers, Milan on Thu, 15 Oct 2026.
+Marquis is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Street Smash Burgers, Milan on Thu, 15 Oct 2026.
 
 Marquis is a disco and house artist, with 17 gigs on soundcheck across Milan and Rome. Often billed alongside ELASI, Marquis (MQ) and Tamati. Next up: TBA - Street Smash Burgers, Milan on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Marquis is a disco and house artist, with 17 gigs on soundcheck across Milan and
 
 ELASI, Marquis (MQ), Tamati
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marquis/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marquis/)*

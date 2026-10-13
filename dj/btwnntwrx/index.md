@@ -1,6 +1,6 @@
 # BTWN NTWRX
 
-BTWN NTWRX is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 17 Oct 2026.
+BTWN NTWRX is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 17 Oct 2026.
 
 BTWN NTWRX is a techno and breakbeat artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam, Naples and Rome. Often billed alongside Daniel Englisch, Adonis Wolf and Angelo D'onorio. Next up: Toekomstmuziek, Amsterdam on Sat 17 Oct.
 
@@ -22,4 +22,4 @@ BTWN NTWRX is a techno and breakbeat artist based in Netherlands, with 6 gigs on
 
 Daniel Englisch, Adonis Wolf, Angelo D'onorio
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/btwnntwrx/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/btwnntwrx/)*

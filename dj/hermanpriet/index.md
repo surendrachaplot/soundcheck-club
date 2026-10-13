@@ -1,6 +1,6 @@
 # Herman Priet
 
-Herman Priet is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Málaga Forum, Malaga on Sat, 24 Oct 2026.
+Herman Priet is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Málaga Forum, Malaga on Sat, 24 Oct 2026.
 
 Herman Priet is an electronica and techno artist, with 5 gigs on soundcheck across Berlin, Lisbon and Malaga. Often billed alongside DJ himself, James Rod and Miguel Payda. Next up: TBA - Málaga Forum, Malaga on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ Herman Priet is an electronica and techno artist, with 5 gigs on soundcheck acro
 
 DJ himself, James Rod, Miguel Payda
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hermanpriet/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hermanpriet/)*

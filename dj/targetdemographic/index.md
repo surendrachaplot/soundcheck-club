@@ -1,6 +1,6 @@
 # Target Demographic
 
-Target Demographic is a House and Garage artist with 11 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Junkyard Club, Tbilisi on Tue, 13 Oct 2026.
+Target Demographic is a House and Garage artist with 11 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Junkyard Club, Tbilisi on Tue, 13 Oct 2026.
 
 Target Demographic is a house and garage artist based in United States of America, with 26 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Shaolin Cowboy, Baltra and DJ Cinéma Quartier Latin. Next up: TBA - Junkyard Club, Tbilisi on Tue 13 Oct.
 
@@ -35,4 +35,4 @@ Target Demographic is a house and garage artist based in United States of Americ
 
 Shaolin Cowboy, Baltra, DJ Cinéma Quartier Latin
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/targetdemographic/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/targetdemographic/)*

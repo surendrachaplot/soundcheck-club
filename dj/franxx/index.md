@@ -1,14 +1,15 @@
 # Franxx
 
-Franxx is a Club and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Sinners and Saints, Washington DC on Fri, 30 Oct 2026.
+Franxx is a Club and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Sinners and Saints, Washington DC on Fri, 30 Oct 2026.
 
-Franxx is a club and hardcore artist based in United States of America, with 70 gigs on soundcheck across London, New York City, Tokyo and Washington DC. Often billed alongside znorthy, Gabberbitch69 and GET FACE. Next up: Sinners and Saints, Washington DC on Fri 30 Oct.
+Franxx is a club and hardcore artist based in United States of America, with 71 gigs on soundcheck across London, New York City, Tokyo and Washington DC. Often billed alongside znorthy, Gabberbitch69 and GET FACE. Next up: Sinners and Saints, Washington DC on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Sinners and Saints | Washington DC |
+| Sat, 31 Oct 2026 | TRANSMISSION DC | Washington DC |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Franxx is a club and hardcore artist based in United States of America, with 70 
 
 znorthy, Gabberbitch69, GET FACE
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franxx/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franxx/)*

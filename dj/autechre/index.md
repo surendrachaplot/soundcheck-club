@@ -1,15 +1,13 @@
 # Autechre
 
-Autechre is a IDM and Techno artist with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at PTR-Usine, Geneva on Mon, 12 Oct 2026.
+Autechre is a IDM and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Cabaret  Aléatoire, Marseille on Tue, 13 Oct 2026.
 
-Autechre is an idm and techno artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 48 more. Often billed alongside Mark Broom, HiTech and ojoo. Next up: PTR-Usine, Geneva on Mon 12 Oct.
+Autechre is an idm and techno artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 48 more. Often billed alongside Mark Broom, HiTech and ojoo. Next up: Cabaret  Aléatoire, Marseille on Tue 13 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 12 Oct 2026 | PTR-Usine | Geneva |
-| Mon, 12 Oct 2026 | PTR-Usine | Geneva |
 | Tue, 13 Oct 2026 | Cabaret  Aléatoire | Marseille |
 | Wed, 14 Oct 2026 | Le Bataclan | Paris |
 | Thu, 15 Oct 2026 | Le Lieu Unique / Nantes | Nantes |
@@ -20,17 +18,17 @@ Autechre is an idm and techno artist based in United Kingdom, with 59 gigs on so
 
 ## Recently played
 
+- PTR-Usine, Geneva · Mon, 12 Oct 2026
+- PTR-Usine, Geneva · Mon, 12 Oct 2026
 - House of Music Hungary, Budapest · Thu, 8 Oct 2026
 - Club Guesthouse, Bucharest · Wed, 7 Oct 2026
 - Cukrarna Gallery, Ljubljana · Wed, 7 Oct 2026
 - Toplocentrala, Sofia · Tue, 6 Oct 2026
 - Block 33, Thessaloniki · Sun, 4 Oct 2026
 - Universe Athens, Athens · Sat, 3 Oct 2026
-- Ložionica, Belgrade · Thu, 1 Oct 2026
-- Planet.tt Gasometer, Vienna · Tue, 29 Sept 2026
 
 ## Shares bills with
 
 Mark Broom, HiTech, ojoo
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autechre/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autechre/)*

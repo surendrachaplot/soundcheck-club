@@ -1,6 +1,6 @@
 # Tom Kutsche
 
-Tom Kutsche is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Mena Berlin, Berlin on Sun, 25 Oct 2026.
+Tom Kutsche is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Mena Berlin, Berlin on Sun, 25 Oct 2026.
 
 Tom Kutsche is a house and disco artist based in Germany, with 81 gigs on soundcheck across Barcelona, Berlin, Cologne and Hamburg and 4 more. Often billed alongside Diskohengst, Merlin Monroe and Femdelic. Next up: Mena Berlin, Berlin on Sun 25 Oct.
 
@@ -29,4 +29,4 @@ Tom Kutsche is a house and disco artist based in Germany, with 81 gigs on soundc
 
 Diskohengst, Merlin Monroe, Femdelic
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomkutsche/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomkutsche/)*

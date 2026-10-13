@@ -1,6 +1,6 @@
 # Djen
 
-Djen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Fri, 16 Oct 2026.
+Djen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Fri, 16 Oct 2026.
 
 Djen is a techno and house artist based in Spain, with 47 gigs on soundcheck across Lisbon, Madrid and Miami. Often billed alongside Reitze, Tucu (Tucu) and Belkan. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Djen is a techno and house artist based in Spain, with 47 gigs on soundcheck acr
 
 Reitze, Tucu (Tucu), Belkan
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djen/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djen/)*

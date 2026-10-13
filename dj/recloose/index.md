@@ -1,6 +1,6 @@
 # Recloose
 
-Recloose is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Rush Hour, Amsterdam on Sun, 25 Oct 2026.
+Recloose is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Rush Hour, Amsterdam on Sun, 25 Oct 2026.
 
 Recloose is a house and techno artist, with 20 gigs on soundcheck across Amsterdam, Detroit, New York City and Philadelphia and 2 more. Often billed alongside Rimarkable, Glenn Underground and Norm Talley. Next up: Rush Hour, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Recloose is a house and techno artist, with 20 gigs on soundcheck across Amsterd
 
 Rimarkable, Glenn Underground, Norm Talley
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/recloose/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/recloose/)*

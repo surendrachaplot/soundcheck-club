@@ -1,8 +1,8 @@
 # Audio SF
 
-Audio SF is a music venue in San Francisco/Oakland with 25 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "JUNO" on Fri, 16 Oct 2026.
+Audio SF is a music venue in San Francisco/Oakland with 26 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "JUNO" on Fri, 16 Oct 2026.
 
-Audio SF is a music venue in San Francisco/Oakland listed on soundcheck. 25 upcoming gigs, with line-ups including ALMAS, Cristoph, Danny Krivit and David Harness and 2 more. See dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
+Audio SF is a music venue in San Francisco/Oakland listed on soundcheck. 26 upcoming gigs, with line-ups including ALMAS, Cristoph, Danny Krivit and David Harness and 2 more. See dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Audio SF is a music venue in San Francisco/Oakland listed on soundcheck. 25 upco
 
 316 11th St; San Francisco CA 94103; United States, San Francisco/Oakland
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*

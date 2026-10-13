@@ -1,6 +1,6 @@
 # 303 Audiophile Bar
 
-303 Audiophile Bar is a music venue in Barcelona with 16 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "InterAct ar 303" on Thu, 15 Oct 2026.
+303 Audiophile Bar is a music venue in Barcelona with 16 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "InterAct at 303" on Thu, 15 Oct 2026.
 
 303 Audiophile Bar is a music venue in Barcelona listed on soundcheck. 16 upcoming gigs, with line-ups including AARON GEHRIG, Alex Garcia, Andrea Love and B2G and 2 more. See dates, start times and who's playing. C/ de Casp, 33B, L'Eixample, 08010 Barcelona.
 
@@ -8,7 +8,7 @@
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | InterAct ar 303 | Ivan Pugliares, Lea Corio, Lupe Republic, Reezar |
+| Thu, 15 Oct 2026 | InterAct at 303 | Ivan Pugliares, Lea Corio, Lupe Republic, Reezar |
 | Fri, 16 Oct 2026 | El Bassline pres. DoubtingThomas (Live) | AARON GEHRIG, DoubtingThomas, Fedo (UA) |
 | Sat, 17 Oct 2026 | Portia Cassau at 303 | DECA (VE), Moreon |
 | Thu, 22 Oct 2026 | Sounds of Barcy at 303 | B2G (1), Breezywav |
@@ -23,4 +23,4 @@
 
 C/ de Casp, 33B, L'Eixample, 08010 Barcelona, Barcelona
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*

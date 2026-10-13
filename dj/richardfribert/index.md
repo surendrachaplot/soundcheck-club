@@ -1,6 +1,6 @@
 # Richard Fribert
 
-Richard Fribert is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Plantation Paris, Paris on Fri, 16 Oct 2026.
+Richard Fribert is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Plantation Paris, Paris on Fri, 16 Oct 2026.
 
 Richard Fribert is a house and disco artist based in Sweden, with 44 gigs on soundcheck across Bangkok, London, Melbourne and Montreal and 8 more. Often billed alongside Lorem Ipsum Crew, Merchant and Cannelle. Next up: Plantation Paris, Paris on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Richard Fribert is a house and disco artist based in Sweden, with 44 gigs on sou
 
 Lorem Ipsum Crew, Merchant, Cannelle
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richardfribert/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richardfribert/)*

@@ -1,0 +1,19 @@
+# Public Disgrace at TBA - Location via Telegram Group
+
+Public Disgrace at TBA - Location via Telegram Group on Sun 18 Oct, Berlin. 5 artists: DJ STRAIGHT GIRL, Ká (DE), NiKi K and SXCL and 1 more. Bass and Electro. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sun, 18 Oct 2026 |
+| Venue | TBA - Location via Telegram Group |
+| City | Berlin |
+
+## Line-up
+
+- DJ STRAIGHT GIRL
+- Ká (DE)
+- NiKi K
+- SXCL
+- Young Divorcée
+
+*Source: [soundcheck](https://soundcheck.club/e/2499894-public-disgrace-at-tba-location-via-telegram-group/)*

@@ -1,6 +1,6 @@
 # Pickwick's
 
-Pickwick's is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "Subwaves" on Fri, 16 Oct 2026.
+Pickwick's is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "Subwaves" on Fri, 16 Oct 2026.
 
 Pickwick's is a music venue in Vienna listed on soundcheck. 1 upcoming gig, with line-ups including Tence. See dates, start times and who's playing. Marc-Aurel-Straße 10-12, 1010 Wien, Austria.
 
@@ -14,4 +14,4 @@ Pickwick's is a music venue in Vienna listed on soundcheck. 1 upcoming gig, with
 
 Marc-Aurel-Straße 10-12, 1010 Wien, Austria, Vienna
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/pickwick-s/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/pickwick-s/)*

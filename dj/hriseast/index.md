@@ -1,14 +1,15 @@
 # Hris East
 
-Hris East is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Firebird Rooftop, Amsterdam on Thu, 22 Oct 2026.
+Hris East is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Firebird Rooftop, Amsterdam on Thu, 22 Oct 2026.
 
-Hris East is a house and tech house artist based in Netherlands, with 8 gigs on soundcheck across Amsterdam and Netherlands. Often billed alongside Be Lion, Kirilski and Sanne Dammers. Next up: Firebird Rooftop, Amsterdam on Thu 22 Oct.
+Hris East is a house and tech house artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam and Netherlands. Often billed alongside Be Lion, Sanne Dammers and Kirilski. Next up: Firebird Rooftop, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Firebird Rooftop | Amsterdam |
+| Thu, 22 Oct 2026 | Hard Rock Cafe Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Club Royal | Netherlands |
 
 ## Recently played
@@ -22,6 +23,6 @@ Hris East is a house and tech house artist based in Netherlands, with 8 gigs on 
 
 ## Shares bills with
 
-Be Lion, Kirilski, Sanne Dammers
+Be Lion, Sanne Dammers, Kirilski
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hriseast/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hriseast/)*

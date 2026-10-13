@@ -1,13 +1,14 @@
 # Pine
 
-Pine is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Saloon, Tokyo on Sat, 31 Oct 2026.
+Pine is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Bag Factory, Manchester on Sat, 17 Oct 2026.
 
-Pine is a house and techno artist based in Japan, with 104 gigs on soundcheck across Hong Kong, Kyoto, Osaka and Seoul and 1 more. Often billed alongside Romy Mats, Albino Sound and AMANE. Next up: Saloon, Tokyo on Sat 31 Oct.
+Pine is a house and techno artist based in Japan, with 105 gigs on soundcheck across Hong Kong, Kyoto, Manchester and Osaka and 2 more. Often billed alongside Romy Mats, Albino Sound and AMANE. Next up: The Bag Factory, Manchester on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | The Bag Factory | Manchester |
 | Sat, 31 Oct 2026 | Saloon | Tokyo |
 | Fri, 27 Nov 2026 | MIDNIGHT EAST | Tokyo |
 
@@ -26,4 +27,4 @@ Pine is a house and techno artist based in Japan, with 104 gigs on soundcheck ac
 
 Romy Mats, Albino Sound, AMANE
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pine/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pine/)*

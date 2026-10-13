@@ -1,6 +1,6 @@
 # Vaneska
 
-Vaneska is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Hallo Werner, Augsburg on Fri, 16 Oct 2026.
+Vaneska is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Hallo Werner, Augsburg on Fri, 16 Oct 2026.
 
 Vaneska is a trance and techno artist based in Germany, with 39 gigs on soundcheck across Augsburg, Berlin, Cologne and Hamburg and 2 more. Often billed alongside NAGINI, Praun and 9LALEY. Next up: Hallo Werner, Augsburg on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Vaneska is a trance and techno artist based in Germany, with 39 gigs on soundche
 
 NAGINI, Praun, 9LALEY
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vaneska/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vaneska/)*

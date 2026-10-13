@@ -1,6 +1,6 @@
 # SUSKA
 
-SUSKA is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Bernexpo Halle, Bern on Sat, 31 Oct 2026.
+SUSKA is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Bernexpo Halle, Bern on Sat, 31 Oct 2026.
 
 SUSKA is a techno and psytrance artist based in Germany, with 19 gigs on soundcheck across Berlin, Bern, Cologne and Ghent and 1 more. Often billed alongside Johannes Schuster, Alignment and Cloudy. Next up: Bernexpo Halle, Bern on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ SUSKA is a techno and psytrance artist based in Germany, with 19 gigs on soundch
 
 Johannes Schuster, Alignment, Cloudy
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suska/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suska/)*

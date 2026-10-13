@@ -1,6 +1,6 @@
 # Westfall
 
-Westfall is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 16 Oct 2026.
+Westfall is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 16 Oct 2026.
 
 Westfall is a techno and trance artist based in France, with 20 gigs on soundcheck across Barcelona, Berlin and Paris. Often billed alongside HANÀ, BENNETT and Bady (FR). Next up: Lokschuppen Berlin, Berlin on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Westfall is a techno and trance artist based in France, with 20 gigs on soundche
 
 HANÀ, BENNETT, Bady (FR)
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/westfall/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/westfall/)*

@@ -1,6 +1,6 @@
 # Andy Chunes
 
-Andy Chunes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Sunset Beach Bali, Bali on Sat, 28 Nov 2026.
+Andy Chunes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Sunset Beach Bali, Bali on Sat, 28 Nov 2026.
 
 Andy Chunes is a house and techno artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam, Bali and Singapore. Often billed alongside Anstascia, Carlos Valdes and Collé. Next up: Sunset Beach Bali, Bali on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Andy Chunes is a house and techno artist based in Netherlands, with 10 gigs on s
 
 Anstascia, Carlos Valdes, Collé
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andychunes/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andychunes/)*

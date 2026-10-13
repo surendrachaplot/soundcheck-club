@@ -1,6 +1,6 @@
 # Piem
 
-Piem is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Pavilhão Carlos Lopes, Lisbon on Sat, 17 Oct 2026.
+Piem is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Pavilhão Carlos Lopes, Lisbon on Sat, 17 Oct 2026.
 
 Piem is a house and tech house artist based in Spain, with 160 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 7 more. Often billed alongside Nesi, GIVIO and Tamborero. Next up: Pavilhão Carlos Lopes, Lisbon on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Piem is a house and tech house artist based in Spain, with 160 gigs on soundchec
 
 Nesi, GIVIO, Tamborero
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piem/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piem/)*

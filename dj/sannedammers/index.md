@@ -1,14 +1,15 @@
 # Sanne Dammers
 
-Sanne Dammers is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Firebird Rooftop, Amsterdam on Thu, 22 Oct 2026.
+Sanne Dammers is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Firebird Rooftop, Amsterdam on Thu, 22 Oct 2026.
 
-Sanne Dammers is a tech house and house artist based in Netherlands, with 50 gigs on soundcheck across Amsterdam, London, Rotterdam and Utrecht. Often billed alongside Lidia Lo, Jamback and JØASE. Next up: Firebird Rooftop, Amsterdam on Thu 22 Oct.
+Sanne Dammers is a tech house and house artist based in Netherlands, with 51 gigs on soundcheck across Amsterdam, London, Rotterdam and Utrecht. Often billed alongside Lidia Lo, Hris East and Jamback. Next up: Firebird Rooftop, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Firebird Rooftop | Amsterdam |
+| Thu, 22 Oct 2026 | Hard Rock Cafe Amsterdam | Amsterdam |
 | Fri, 6 Nov 2026 | Madam | Amsterdam |
 
 ## Recently played
@@ -24,6 +25,6 @@ Sanne Dammers is a tech house and house artist based in Netherlands, with 50 gig
 
 ## Shares bills with
 
-Lidia Lo, Jamback, JØASE
+Lidia Lo, Hris East, Jamback
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sannedammers/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sannedammers/)*

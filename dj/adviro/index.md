@@ -1,6 +1,6 @@
 # Adviro
 
-Adviro is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at City Hall, Barcelona on Wed, 14 Oct 2026.
+Adviro is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at City Hall, Barcelona on Wed, 14 Oct 2026.
 
 Adviro is a techno and trance artist based in France, with 38 gigs on soundcheck across Barcelona. Often billed alongside SuttleK, Rowsi and ArceX. Next up: City Hall, Barcelona on Wed 14 Oct.
 
@@ -31,4 +31,4 @@ Adviro is a techno and trance artist based in France, with 38 gigs on soundcheck
 
 SuttleK, Rowsi, ArceX
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adviro/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adviro/)*

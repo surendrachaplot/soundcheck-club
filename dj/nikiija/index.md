@@ -1,14 +1,15 @@
 # Nikiija
 
-Nikiija is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Grapes and Plates, Hamburg on Sat, 17 Oct 2026.
+Nikiija is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Grapes and Plates, Hamburg on Sat, 17 Oct 2026.
 
-Nikiija is a techno and house artist, with 53 gigs on soundcheck across Hamburg and Prague. Often billed alongside NO.MADS, Randali and VABU. Next up: Grapes and Plates, Hamburg on Sat 17 Oct.
+Nikiija is a techno and house artist, with 54 gigs on soundcheck across Hamburg and Prague. Often billed alongside NO.MADS, Randali and VABU. Next up: Grapes and Plates, Hamburg on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Grapes and Plates | Hamburg |
+| Fri, 30 Oct 2026 | Fabrique im Gängeviertel | Hamburg |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Nikiija is a techno and house artist, with 53 gigs on soundcheck across Hamburg 
 
 NO.MADS, Randali, VABU
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikiija/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikiija/)*

@@ -1,6 +1,6 @@
 # Freddy K
 
-Freddy K is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 16 Oct 2026.
+Freddy K is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 16 Oct 2026.
 
 Freddy K is a techno and house artist based in Germany, with 289 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside Blasha & Allatt, Chlär and Alarico. Next up: Tokonoma Club, Frankfurt on Fri 16 Oct.
 
@@ -36,4 +36,4 @@ Freddy K is a techno and house artist based in Germany, with 289 gigs on soundch
 
 Blasha & Allatt, Chlär, Alarico
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*

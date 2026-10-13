@@ -1,13 +1,14 @@
 # ADMINISTRATOR
 
-ADMINISTRATOR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Revolver Upstairs, Melbourne on Wed, 28 Oct 2026.
+ADMINISTRATOR is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Solace, Melbourne on Fri, 23 Oct 2026.
 
-ADMINISTRATOR is a techno and house artist based in Australia, with 27 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Ham, DJ Kiti and Lewis Cancut. Next up: Revolver Upstairs, Melbourne on Wed 28 Oct.
+ADMINISTRATOR is a techno and house artist based in Australia, with 28 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Ham, DJ Kiti and Lewis Cancut. Next up: Solace, Melbourne on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Solace | Melbourne |
 | Wed, 28 Oct 2026 | Revolver Upstairs | Melbourne |
 
 ## Recently played
@@ -25,4 +26,4 @@ ADMINISTRATOR is a techno and house artist based in Australia, with 27 gigs on s
 
 Ham (5), DJ Kiti, Lewis Cancut
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/administrator/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/administrator/)*

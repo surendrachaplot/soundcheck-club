@@ -1,6 +1,6 @@
 # osoulsconcept
 
-osoulsconcept is a Garage and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Grey Space In The Middle, The Hague on Fri, 16 Oct 2026.
+osoulsconcept is a Garage and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Grey Space In The Middle, The Hague on Fri, 16 Oct 2026.
 
 osoulsconcept is a garage and club artist based in Netherlands, with 9 gigs on soundcheck across Rotterdam, The Hague and Utrecht. Often billed alongside BLAIZE, Benny2 and EYCEE. Next up: The Grey Space In The Middle, The Hague on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ osoulsconcept is a garage and club artist based in Netherlands, with 9 gigs on s
 
 BLAIZE, Benny2, EYCEE
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osoulsconcept/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osoulsconcept/)*

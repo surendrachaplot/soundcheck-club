@@ -1,8 +1,8 @@
 # Hylke
 
-Hylke is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Skatecafe, Amsterdam on Thu, 22 Oct 2026.
+Hylke is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Skatecafe, Amsterdam on Thu, 22 Oct 2026.
 
-Hylke is a house and techno artist based in Netherlands, with 52 gigs on soundcheck across Amsterdam, Berlin, Ghent and Helsinki and 6 more. Often billed alongside Rey Colino, Iggy P and Kyra Khaldi. Next up: Skatecafe, Amsterdam on Thu 22 Oct.
+Hylke is a house and techno artist based in Netherlands, with 53 gigs on soundcheck across Amsterdam, Berlin, Ghent and Helsinki and 6 more. Often billed alongside Rey Colino, Iggy P and Kyra Khaldi. Next up: Skatecafe, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Hylke is a house and techno artist based in Netherlands, with 52 gigs on soundch
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Skatecafe | Amsterdam |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
+| Sat, 5 Dec 2026 | OHM | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Hylke is a house and techno artist based in Netherlands, with 52 gigs on soundch
 
 Rey Colino, Iggy P, Kyra Khaldi
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hylke/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hylke/)*

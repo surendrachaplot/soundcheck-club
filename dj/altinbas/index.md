@@ -1,8 +1,8 @@
 # Altinbas
 
-Altinbas is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Various Venues - Genève, Geneva on Fri, 16 Oct 2026.
+Altinbas is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Various Venues - Genève, Geneva on Fri, 16 Oct 2026.
 
-Altinbas is a techno and house artist based in Belgium, with 180 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside GiGi FM, Phara and Marie-Julie. Next up: Various Venues - Genève, Geneva on Fri 16 Oct.
+Altinbas is a techno and house artist based in Belgium, with 181 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside GiGi FM, Phara and Marie-Julie. Next up: Various Venues - Genève, Geneva on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ Altinbas is a techno and house artist based in Belgium, with 180 gigs on soundch
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
 | Fri, 23 Oct 2026 | Rote Sonne | Munich |
 | Sat, 24 Oct 2026 | H7 Warehouse | Amsterdam |
+| Sat, 24 Oct 2026 | Borisov Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | essaim | Paris |
 | Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 31 Oct 2026 | C12 | Brussels |
 | Fri, 6 Nov 2026 | BASEMENT | New York City |
 | Sat, 7 Nov 2026 | Standard Time | Toronto |
 | Sat, 14 Nov 2026 | Fuse | Brussels |
-| Sat, 28 Nov 2026 | FOLD | London |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Altinbas is a techno and house artist based in Belgium, with 180 gigs on soundch
 
 GiGi FM, Phara, Marie-Julie
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/altinbas/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/altinbas/)*

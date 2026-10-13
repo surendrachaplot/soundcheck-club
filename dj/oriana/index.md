@@ -1,6 +1,6 @@
 # Oriana
 
-Oriana is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Bryggeriet Scene, Norway on Wed, 14 Oct 2026.
+Oriana is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Bryggeriet Scene, Norway on Wed, 14 Oct 2026.
 
 Oriana is a techno and electro artist based in Uruguay, with 109 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 23 more. Often billed alongside OMAR (UY), Ed Warner and Niff. Next up: Bryggeriet Scene, Norway on Wed 14 Oct.
 
@@ -29,4 +29,4 @@ Oriana is a techno and electro artist based in Uruguay, with 109 gigs on soundch
 
 OMAR (UY), Ed Warner, Niff
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oriana/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oriana/)*

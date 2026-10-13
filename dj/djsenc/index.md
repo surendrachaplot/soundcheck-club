@@ -1,6 +1,6 @@
 # DJ Senc
 
-DJ Senc is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 16 Oct 2026.
+DJ Senc is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 16 Oct 2026.
 
 DJ Senc is a house and tech house artist based in Italy, with 139 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 27 more. Often billed alongside Samuel Deep, Doudou MD and E.LINA. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 16 Oct.
 
@@ -32,4 +32,4 @@ DJ Senc is a house and tech house artist based in Italy, with 139 gigs on soundc
 
 Samuel Deep, Doudou MD, E.LINA
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsenc/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsenc/)*

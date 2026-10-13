@@ -1,6 +1,6 @@
 # Marvel83'
 
-Marvel83' is a Vaporwave and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at KitKatClub, Berlin on Sat, 31 Oct 2026.
+Marvel83' is a Vaporwave and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at KitKatClub, Berlin on Sat, 31 Oct 2026.
 
 Marvel83' is a vaporwave and deep house artist, with 10 gigs on soundcheck across Berlin and Prague. Often billed alongside Hugorieri, Kleitone and Aves Volare. Next up: KitKatClub, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Marvel83' is a vaporwave and deep house artist, with 10 gigs on soundcheck acros
 
 Hugorieri, Kleitone, Aves Volare
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marvel83/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marvel83/)*

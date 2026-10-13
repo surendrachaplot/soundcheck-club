@@ -1,6 +1,6 @@
 # Kantine am Berghain
 
-Kantine am Berghain is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Girls of the Internet (Live)" on Thu, 15 Oct 2026.
+Kantine am Berghain is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Girls of the Internet (Live)" on Thu, 15 Oct 2026.
 
 Kantine am Berghain is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Alex Oxley, Alex P., Fleetmac Wood and Flowgeist and 2 more. See dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
@@ -22,4 +22,4 @@ Kantine am Berghain is a music venue in Berlin listed on soundcheck. 9 upcoming 
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*

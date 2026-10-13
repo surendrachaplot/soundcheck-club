@@ -1,13 +1,14 @@
 # Danou P
 
-Danou P is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Cabaret Sauvage, Paris on Fri, 6 Nov 2026.
+Danou P is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Cafe Restaurant De Bazel, Amsterdam on Sat, 24 Oct 2026.
 
-Danou P is a house and disco artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam, London, Paris and Rotterdam. Often billed alongside Klankarbeit, Jamie 3:26 and Beau Zwart. Next up: Cabaret Sauvage, Paris on Fri 6 Nov.
+Danou P is a house and deep house artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam, London, Paris and Rotterdam. Often billed alongside Klankarbeit, Jamie 3:26 and Jumelage. Next up: Cafe Restaurant De Bazel, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Cafe Restaurant De Bazel | Amsterdam |
 | Fri, 6 Nov 2026 | Cabaret Sauvage | Paris |
 
 ## Recently played
@@ -23,6 +24,6 @@ Danou P is a house and disco artist based in Netherlands, with 17 gigs on soundc
 
 ## Shares bills with
 
-Klankarbeit, Jamie 3:26, Beau Zwart
+Klankarbeit, Jamie 3:26, Jumelage
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danoup/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danoup/)*

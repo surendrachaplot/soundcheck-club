@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a music venue in London with 300 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "system SPOOKY OCTOBER PASS" on Sat, 10 Oct 2026.
+TBA is a music venue in London with 309 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "system SPOOKY OCTOBER PASS" on Sat, 10 Oct 2026.
 
-TBA is a music venue in London listed on soundcheck. 300 upcoming gigs, with line-ups including 1-800 GIRLS, 1OO1O, 2001 Space Odyssey and 2HZY and 2 more. See dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 309 upcoming gigs, with line-ups including 1-800 GIRLS, 2001 Space Odyssey, 2HZY and 8h sleep and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -14,9 +14,9 @@ TBA is a music venue in London listed on soundcheck. 300 upcoming gigs, with lin
 | Wed, 14 Oct 2026 | Colour Out of Space | HIMAWARI, Mars89, ykah |
 | Thu, 15 Oct 2026 | - |  |
 | Thu, 15 Oct 2026 | Xenacosm • Kelela: New Avatar Afters | BRATATTACK, Don Fairylèon, Nyah Cami |
+| Thu, 15 Oct 2026 | Surface DIY with Jeku, fun2bjane & Capes | Capes, Jeku, fun2bjane |
+| Thu, 15 Oct 2026 | Duende | ARCHIVIO FUTURO |
 | Fri, 16 Oct 2026 | Mariano Mellino – Leeds, Reino Unido | Mariano Mellino |
 | Fri, 16 Oct 2026 | Double Espressoul at Ora | Charlie Price, Nicola Mannini |
-| Fri, 16 Oct 2026 | ABRACATADAAA | Alek Sis, LAEXI, Schierke |
-| Fri, 16 Oct 2026 | WHP & TELETECH PRESENT DOOF |  |
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*

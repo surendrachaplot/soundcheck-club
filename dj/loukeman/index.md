@@ -1,6 +1,6 @@
 # Loukeman
 
-Loukeman is a House and Electronica artist with 11 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Ground at Club Space, Miami on Thu, 15 Oct 2026.
+Loukeman is a House and Electronica artist with 11 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Ground at Club Space, Miami on Thu, 15 Oct 2026.
 
 Loukeman is a house and electronica artist based in Canada, with 35 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 12 more. Often billed alongside Lis Dalton, Marie Davidson and Nick León. Next up: The Ground at Club Space, Miami on Thu 15 Oct.
 
@@ -35,4 +35,4 @@ Loukeman is a house and electronica artist based in Canada, with 35 gigs on soun
 
 Lis Dalton, Marie Davidson, Nick León
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loukeman/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loukeman/)*

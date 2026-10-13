@@ -1,6 +1,6 @@
 # District 7
 
-District 7 is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "Putivuelta" on Fri, 11 Dec 2026.
+District 7 is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "Putivuelta" on Fri, 11 Dec 2026.
 
 District 7 is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including C:3, dustn, Karsten Sollors and TOAD. See dates, start times and who's playing. 1926 E 7th Pl, Los Angeles, CA  90021, USA.
 
@@ -14,4 +14,4 @@ District 7 is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig,
 
 1926 E 7th Pl, Los Angeles, CA  90021, USA, Los Angeles
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/district-7/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/district-7/)*

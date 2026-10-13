@@ -1,6 +1,6 @@
-# 𝑴𝑼𝑹𝑫𝑬𝑹 𝑶𝑵 𝑻𝑯𝑬 𝑫𝑨𝑵𝑪𝑬𝑭𝑳𝑶𝑶𝑹 HALLOWEEN at Prozak 2.0
+# 𝑵𝑰𝑮𝑯𝑻𝑴𝑨𝑹𝑬 𝑶𝑵 𝑻𝑯𝑬 𝑫𝑨𝑵𝑪𝑬𝑭𝑳𝑶𝑶𝑹   HALLOWEEN at Prozak 2.0
 
-𝑴𝑼𝑹𝑫𝑬𝑹 𝑶𝑵 𝑻𝑯𝑬 𝑫𝑨𝑵𝑪𝑬𝑭𝑳𝑶𝑶𝑹 HALLOWEEN at Prozak 2.0 on Sat 31 Oct, Krakow. 3 artists: Forest (PL), Francesca and Gunz. Techno and Bass. See the line-up on soundcheck.
+𝑵𝑰𝑮𝑯𝑻𝑴𝑨𝑹𝑬 𝑶𝑵 𝑻𝑯𝑬 𝑫𝑨𝑵𝑪𝑬𝑭𝑳𝑶𝑶𝑹   HALLOWEEN at Prozak 2.0 on Sat 31 Oct, Krakow. 3 artists: Forest (PL), Francesca and Gunz. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

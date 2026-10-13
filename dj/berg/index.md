@@ -1,6 +1,6 @@
 # Berg
 
-Berg is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 21 Nov 2026.
+Berg is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 21 Nov 2026.
 
 Berg is a techno and psytrance artist based in Germany, with 7 gigs on soundcheck across Berlin, Cologne, London and Melbourne and 3 more. Often billed alongside Astrix, Liquid Soul and Shanti People. Next up: PKH Warehouse, Berlin on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Berg is a techno and psytrance artist based in Germany, with 7 gigs on soundchec
 
 Astrix, Liquid Soul, Shanti People
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berg/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berg/)*

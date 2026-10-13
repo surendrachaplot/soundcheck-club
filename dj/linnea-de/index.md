@@ -1,6 +1,6 @@
 # LINNÉA
 
-LINNÉA is a Neo Perreo and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 16 Oct 2026.
+LINNÉA is a Neo Perreo and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 16 Oct 2026.
 
 LINNÉA is a neo perreo and techno artist, with 10 gigs on soundcheck across Berlin. Often billed alongside REBE, Taylor Cherry and TRYCE. Next up: Crack Bellmer, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ LINNÉA is a neo perreo and techno artist, with 10 gigs on soundcheck across Ber
 
 REBE, Taylor Cherry, TRYCE
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linnea-de/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linnea-de/)*

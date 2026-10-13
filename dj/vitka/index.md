@@ -1,6 +1,6 @@
 # Vitka
 
-Vitka is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Golden Gate, Berlin on Sat, 24 Oct 2026.
+Vitka is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Golden Gate, Berlin on Sat, 24 Oct 2026.
 
 Vitka is an electronica and techno artist, with 7 gigs on soundcheck across Berlin, Melbourne and Sydney. Often billed alongside Rosa Kante, Slurm McKenzie and Antoine Baiser. Next up: Golden Gate, Berlin on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Vitka is an electronica and techno artist, with 7 gigs on soundcheck across Berl
 
 Rosa Kante, Slurm McKenzie, Antoine Baiser
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitka/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitka/)*

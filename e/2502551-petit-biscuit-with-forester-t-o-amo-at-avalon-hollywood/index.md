@@ -1,0 +1,16 @@
+# Petit Biscuit with Forester + Téo Amo at Avalon Hollywood
+
+Petit Biscuit with Forester + Téo Amo at Avalon Hollywood on Sat 17 Oct, Los Angeles. 2 artists: Forester and Petit Biscuit. House. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 17 Oct 2026 |
+| Venue | Avalon Hollywood |
+| City | Los Angeles |
+
+## Line-up
+
+- Forester
+- Petit Biscuit
+
+*Source: [soundcheck](https://soundcheck.club/e/2502551-petit-biscuit-with-forester-t-o-amo-at-avalon-hollywood/)*

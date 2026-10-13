@@ -1,6 +1,6 @@
 # Chris Avantgarde
 
-Chris Avantgarde is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Outernet Live, London on Sat, 17 Oct 2026.
+Chris Avantgarde is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Outernet Live, London on Sat, 17 Oct 2026.
 
 Chris Avantgarde is a techno and house artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 35 more. Often billed alongside Kevin de Vries, Adam Beyer and Massano. Next up: Outernet Live, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Chris Avantgarde is a techno and house artist based in United Kingdom, with 124 
 
 Kevin de Vries, Adam Beyer, Massano
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisavantgarde/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisavantgarde/)*

@@ -1,8 +1,8 @@
 # Schrotty
 
-Schrotty is a music venue in Cologne with 10 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Pappenheimer, Kerstin Eden, A*S*Y*S, S. Groth, Drumcomplex uvm. by BACK2BASICS XXL" on Fri, 16 Oct 2026.
+Schrotty is a music venue in Cologne with 11 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Pappenheimer, Kerstin Eden, A*S*Y*S, S. Groth, Drumcomplex uvm. by BACK2BASICS XXL" on Fri, 16 Oct 2026.
 
-Schrotty is a music venue in Cologne listed on soundcheck. 10 upcoming gigs, with line-ups including Alfred Heinrichs, Amilli, Andreas Kraemer and ANNĒ and 2 more. See dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
+Schrotty is a music venue in Cologne listed on soundcheck. 11 upcoming gigs, with line-ups including Alfred Heinrichs, Amilli, Andreas Kraemer and ANNĒ and 2 more. See dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Schrotty is a music venue in Cologne listed on soundcheck. 10 upcoming gigs, wit
 | Sat, 14 Nov 2026 | Alfred Heinrichs by ARTOFURBANLIFE | Alfred Heinrichs |
 | Fri, 20 Nov 2026 | ANTEA with Anne, Grace Dahl, Lacchesi, Norbak, JKS, Flavius, Leon Kofi, Nils Primas, FLACCO | ANNĒ, Amilli, FLACCO, Flavius, Grace Dahl, JKS, Lacchesi, Nils Primas, Shrff |
 | Fri, 27 Nov 2026 | 303 presents Johannes Schuster, Noise Not War, GRAVEDGR, Ally u. v. m. | GRAVEDGR, Johannes Schuster, Noise Not War |
-| Sat, 28 Nov 2026 | AOS w/ Ignez, DJ Fuckoff, Supergloss & MORE | DJ Fuckoff, Ignez, Krackk, Laure Croft, Penglord, Speckman, Supergloss, ferrari rot |
+| Sat, 28 Nov 2026 | AOS w/ Ignez, DJ Fuckoff, Supergloss, Laurecroft & MORE | DJ Fuckoff, DJ Palga, Ignez, Krackk, Laure Croft, Medea, Penglord, Speckman, Supergloss, ferrari rot |
 
 ## Address
 
 Vogelsanger Straße 406, 50827 Köln, Cologne
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*

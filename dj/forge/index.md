@@ -1,6 +1,6 @@
 # Forge
 
-Forge is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Chinese Laundry, Sydney on Sat, 17 Oct 2026.
+Forge is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Chinese Laundry, Sydney on Sat, 17 Oct 2026.
 
 Forge is a house and techno artist, with 7 gigs on soundcheck across London and Sydney. Often billed alongside Banquet DJs, Elijah Something and Jacqui Cunningham. Next up: Chinese Laundry, Sydney on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Forge is a house and techno artist, with 7 gigs on soundcheck across London and 
 
 Banquet DJs, Elijah Something, Jacqui Cunningham
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/forge/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/forge/)*

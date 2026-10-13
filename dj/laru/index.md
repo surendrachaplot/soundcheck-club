@@ -1,6 +1,6 @@
 # Laru
 
-Laru is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - secret warehouse, Denver on Sat, 31 Oct 2026.
+Laru is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - secret warehouse, Denver on Sat, 31 Oct 2026.
 
 Laru is a techno and house artist based in United States of America, with 18 gigs on soundcheck across Denver and Tokyo. Often billed alongside Door Girl, Gramsie and Enmeshed. Next up: TBA - secret warehouse, Denver on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Laru is a techno and house artist based in United States of America, with 18 gig
 
 Door Girl, Gramsie, Enmeshed
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laru/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laru/)*

@@ -1,6 +1,6 @@
 # Stereo Underground
 
-Stereo Underground is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Veronica Schip, Amsterdam on Thu, 22 Oct 2026.
+Stereo Underground is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Veronica Schip, Amsterdam on Thu, 22 Oct 2026.
 
 Stereo Underground is a progressive house and techno artist based in Israel, with 8 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and London and 2 more. Often billed alongside Gai Barone, Tash and Act One. Next up: Veronica Schip, Amsterdam on Thu 22 Oct.
 
@@ -24,4 +24,4 @@ Stereo Underground is a progressive house and techno artist based in Israel, wit
 
 Gai Barone, Tash, Act One
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stereounderground/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stereounderground/)*

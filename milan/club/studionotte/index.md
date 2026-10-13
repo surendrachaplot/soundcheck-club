@@ -1,6 +1,6 @@
 # Studionotte
 
-Studionotte is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "DIG! fear Robag Wruhme, Lele Sacchi" on Fri, 16 Oct 2026.
+Studionotte is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "DIG! fear Robag Wruhme, Lele Sacchi" on Fri, 16 Oct 2026.
 
 Studionotte is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including Larry Masmero, Lele Sacchi, N0BLE R0T and Robag Wruhme. See dates, start times and who's playing. Via Feltre, 30, 20132 Milano MI.
 
@@ -17,4 +17,4 @@ Studionotte is a music venue in Milan listed on soundcheck. 4 upcoming gigs, wit
 
 Via Feltre, 30, 20132 Milano MI, Milan
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/studionotte/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/studionotte/)*

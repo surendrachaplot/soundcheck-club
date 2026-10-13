@@ -1,6 +1,6 @@
 # Karenz
 
-Karenz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Treehouse, Berlin on Sat, 17 Oct 2026.
+Karenz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Treehouse, Berlin on Sat, 17 Oct 2026.
 
 Karenz is a techno and house artist based in Germany, with 9 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside 18:18, Acado and Antigen. Next up: Treehouse, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Karenz is a techno and house artist based in Germany, with 9 gigs on soundcheck 
 
 18:18, Acado, Antigen
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karenz/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karenz/)*

@@ -1,6 +1,6 @@
 # NIEBO
 
-NIEBO is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "JMSN Warszawa" on Tue, 13 Oct 2026.
+NIEBO is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "JMSN Warszawa" on Tue, 13 Oct 2026.
 
 NIEBO is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Nowy Świat 21, 00-001 Warszawa.
 
@@ -15,4 +15,4 @@ NIEBO is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs. See date
 
 Nowy Świat 21, 00-001 Warszawa, Warsaw
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/niebo/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/niebo/)*

@@ -1,6 +1,6 @@
 # Laboratorio Octogon
 
-Laboratorio Octogon is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "INVITACIONES INERZIA 004 with LPV at OCTOGON360" on Fri, 16 Oct 2026.
+Laboratorio Octogon is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "INVITACIONES INERZIA 004 with LPV at OCTOGON360" on Fri, 16 Oct 2026.
 
 Laboratorio Octogon is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with line-ups including LPV and Nita Key. See dates, start times and who's playing. Calle Cerámica, 16, 28038 Madrid.
 
@@ -18,4 +18,4 @@ Laboratorio Octogon is a music venue in Madrid listed on soundcheck. 5 upcoming 
 
 Calle Cerámica, 16, 28038 Madrid, Madrid
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/laboratorio-octogon/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/laboratorio-octogon/)*

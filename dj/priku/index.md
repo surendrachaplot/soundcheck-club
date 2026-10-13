@@ -1,6 +1,6 @@
 # Priku
 
-Priku is a Minimal and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Noorderlicht Café, Amsterdam on Sun, 25 Oct 2026.
+Priku is a Minimal and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Noorderlicht Café, Amsterdam on Sun, 25 Oct 2026.
 
 Priku is a minimal and house artist based in Romania, with 175 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 41 more. Often billed alongside Arapu, Sossa and Seth Troxler. Next up: Noorderlicht Café, Amsterdam on Sun 25 Oct.
 
@@ -27,4 +27,4 @@ Priku is a minimal and house artist based in Romania, with 175 gigs on soundchec
 
 Arapu, Sossa, Seth Troxler
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/priku/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/priku/)*

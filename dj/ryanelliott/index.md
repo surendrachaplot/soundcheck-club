@@ -1,8 +1,8 @@
 # Ryan Elliott
 
-Ryan Elliott is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Ryan Elliott is a House and Techno artist with 17 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Ryan Elliott is a house and techno artist based in United States of America, with 258 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 59 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+Ryan Elliott is a house and techno artist based in United States of America, with 259 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 59 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ Ryan Elliott is a house and techno artist based in United States of America, wit
 | Sat, 7 Nov 2026 | Lofi | Amsterdam |
 | Sat, 14 Nov 2026 | Supermarket | Zurich |
 | Fri, 20 Nov 2026 | Gate Milano | Milan |
-| Wed, 25 Nov 2026 | Nowadays | New York City |
+| Sat, 21 Nov 2026 | Plaza Mayor de El Poble Espanyol | Barcelona |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Ryan Elliott is a house and techno artist based in United States of America, wit
 
 Ogazón, Christian AB, PARAMIDA
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*

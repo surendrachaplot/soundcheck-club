@@ -1,6 +1,6 @@
 # SHERELLE
 
-SHERELLE is a Jungle and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
+SHERELLE is a Jungle and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
 SHERELLE is a jungle and techno artist based in United Kingdom, with 184 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 54 more. Often billed alongside I. JORDAN, Special Request and Job Jobse. Next up: RADION, Amsterdam on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ SHERELLE is a jungle and techno artist based in United Kingdom, with 184 gigs on
 
 I. JORDAN, Special Request, Job Jobse
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*

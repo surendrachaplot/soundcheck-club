@@ -1,6 +1,6 @@
 # Blen (3)
 
-Blen (3) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Jènemar Passéjure, Prague on Sat, 17 Oct 2026.
+Blen (3) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Jènemar Passéjure, Prague on Sat, 17 Oct 2026.
 
 Blen is a house and garage artist based in Czech Republic, with 7 gigs on soundcheck across Prague. Often billed alongside 2NDRA, 3TB and Big Lil. Next up: Jènemar Passéjure, Prague on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Blen is a house and garage artist based in Czech Republic, with 7 gigs on soundc
 
 2NDRA, 3TB (1), Big Lil
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blen-3/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blen-3/)*

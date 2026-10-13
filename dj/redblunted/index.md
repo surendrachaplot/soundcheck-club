@@ -1,6 +1,6 @@
 # redblunted
 
-redblunted is a Funk / Soul and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Panke, Berlin on Wed, 21 Oct 2026.
+redblunted is a Funk / Soul and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Panke, Berlin on Wed, 21 Oct 2026.
 
 redblunted is a funk / soul and hip-hop artist based in Germany, with 18 gigs on soundcheck across Berlin. Often billed alongside Wall Ra, Carl Hang and DJ Business. Next up: Panke, Berlin on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ redblunted is a funk / soul and hip-hop artist based in Germany, with 18 gigs on
 
 Wall Ra, Carl Hang, DJ Business (2)
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redblunted/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redblunted/)*

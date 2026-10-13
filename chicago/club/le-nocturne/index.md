@@ -1,6 +1,6 @@
 # Le Nocturne
 
-Le Nocturne is a music venue in Chicago with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Speakeasy House Radio: K' Alexi Shelby, VITIGRRL, MARRIO" on Sun, 25 Oct 2026.
+Le Nocturne is a music venue in Chicago with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Speakeasy House Radio: K' Alexi Shelby, VITIGRRL, MARRIO" on Sun, 25 Oct 2026.
 
 Le Nocturne is a music venue in Chicago listed on soundcheck. 4 upcoming gigs, with line-ups including Duke Shin, Gene Hunt, MARRIO and Mike Dunn and 2 more. See dates, start times and who's playing. 4810 N Brodway, Chicago IL - 60640.
 
@@ -17,4 +17,4 @@ Le Nocturne is a music venue in Chicago listed on soundcheck. 4 upcoming gigs, w
 
 4810 N Brodway, Chicago IL - 60640, Chicago
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/le-nocturne/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/le-nocturne/)*

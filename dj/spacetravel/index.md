@@ -1,6 +1,6 @@
 # Spacetravel
 
-Spacetravel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
+Spacetravel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
 
 Spacetravel is a techno and house artist, with 16 gigs on soundcheck across Berlin, Lisbon, Miami and Sardinia and 1 more. Often billed alongside Yoshitaca, Kenji Tazaki and Cesare vs Disorder. Next up: The Pickle, Miami on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Spacetravel is a techno and house artist, with 16 gigs on soundcheck across Berl
 
 Yoshitaca, Kenji Tazaki, Cesare vs Disorder
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spacetravel/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spacetravel/)*

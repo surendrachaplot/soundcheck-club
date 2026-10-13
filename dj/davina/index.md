@@ -1,6 +1,6 @@
 # DAVINA
 
-DAVINA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Kunst-Werk am Kaiserhaus, Dortmund-essen on Sat, 21 Nov 2026.
+DAVINA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Kunst-Werk am Kaiserhaus, Dortmund-essen on Sat, 21 Nov 2026.
 
 DAVINA is a house and techno artist based in Germany, with 29 gigs on soundcheck across Berlin, Cologne, Dortmund Essen and Düsseldorf and 1 more. Often billed alongside Mike Momburg, Domenik Deckert and Tom Velden. Next up: Kunst-Werk am Kaiserhaus, Dortmund Essen on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DAVINA is a house and techno artist based in Germany, with 29 gigs on soundcheck
 
 Mike Momburg, Domenik Deckert, Tom Velden
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davina/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davina/)*

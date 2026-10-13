@@ -1,14 +1,15 @@
 # MiniMalene (2)
 
-MiniMalene (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Culture Box, Copenhagen on Sat, 31 Oct 2026.
+MiniMalene (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Culture Box, Copenhagen on Sat, 31 Oct 2026.
 
-MiniMalene is a techno and house artist based in Denmark, with 20 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside Bongo & Pusk, Eski and Tim Andresen. Next up: Culture Box, Copenhagen on Sat 31 Oct.
+MiniMalene is a techno and house artist based in Denmark, with 21 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside Bongo & Pusk, Eski and Tim Andresen. Next up: Culture Box, Copenhagen on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Culture Box | Copenhagen |
+| Fri, 13 Nov 2026 | Pylonen - Frizonen Langebro | Copenhagen |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ MiniMalene is a techno and house artist based in Denmark, with 20 gigs on soundc
 
 Bongo & Pusk, Eski, Tim Andresen
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minimalene-2/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minimalene-2/)*

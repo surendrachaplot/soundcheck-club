@@ -1,6 +1,6 @@
 # Kassie Krut
 
-Kassie Krut is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Franklin Music Hall, Philadelphia on Sat, 31 Oct 2026.
+Kassie Krut is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Franklin Music Hall, Philadelphia on Sat, 31 Oct 2026.
 
 Kassie Krut is a techno and experimental artist based in United States of America, with 15 gigs on soundcheck across Berlin, Copenhagen, Lisbon and London and 7 more. Often billed alongside Astrid Sonne, Boy Harsher and Coby Sey. Next up: Franklin Music Hall, Philadelphia on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Kassie Krut is a techno and experimental artist based in United States of Americ
 
 Astrid Sonne, Boy Harsher, Coby Sey
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kassiekrut/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kassiekrut/)*

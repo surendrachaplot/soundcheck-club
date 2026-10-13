@@ -1,6 +1,6 @@
 # Cosmic Gate
 
-Cosmic Gate is a Trance and Progressive House artist with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Bootshaus, Cologne on Sat, 17 Oct 2026.
+Cosmic Gate is a Trance and Progressive House artist with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Bootshaus, Cologne on Sat, 17 Oct 2026.
 
 Cosmic Gate is a trance and progressive house artist based in Germany, with 66 gigs on soundcheck across Amsterdam, Auckland, Austin and Belfast and 29 more. Often billed alongside Luccio, Armin van Buuren and Ferry Corsten. Next up: Bootshaus, Cologne on Sat 17 Oct.
 
@@ -31,4 +31,4 @@ Cosmic Gate is a trance and progressive house artist based in Germany, with 66 g
 
 Luccio, Armin van Buuren, Ferry Corsten
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicgate/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicgate/)*

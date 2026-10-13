@@ -1,17 +1,18 @@
 # Rastro Live Studio
 
-Rastro Live Studio is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "LA JAULA with Player M1 (live), Genuine & Xácome (synth jam), Todeschini (live)" on Sat, 24 Oct 2026.
+Rastro Live Studio is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "LA JAULA with Player M1 (live), Genuine & Xácome (synth jam), Todeschini (live)" on Sat, 24 Oct 2026.
 
-Rastro Live Studio is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with line-ups including xacome. See dates, start times and who's playing. Santa Ana 9, 28005 Madrid.
+Rastro Live Studio is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Steven Weston, unsui and xacome. See dates, start times and who's playing. Santa Ana 9, 28005 Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | LA JAULA with Player M1 (live), Genuine & Xácome (synth jam), Todeschini (live) | xacome |
+| Sat, 7 Nov 2026 | Steven Weston & unsui pres. Murmur EP (live) - Rastro Live | Steven Weston, unsui |
 
 ## Address
 
 Santa Ana 9, 28005 Madrid, Madrid
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/rastro-live-studio/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/rastro-live-studio/)*

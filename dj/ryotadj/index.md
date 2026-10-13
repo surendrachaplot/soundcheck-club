@@ -1,6 +1,6 @@
 # ryota dj
 
-ryota dj is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at M.O.T, London on Sat, 24 Oct 2026.
+ryota dj is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at M.O.T, London on Sat, 24 Oct 2026.
 
 ryota dj is a bass and house artist based in Japan, with 91 gigs on soundcheck across Bali, Bangkok, Barcelona and Brighton and 16 more. Often billed alongside Ryota, SAMO (JP) and kengotaki. Next up: M.O.T, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ ryota dj is a bass and house artist based in Japan, with 91 gigs on soundcheck a
 
 Ryota, SAMO (JP), kengotaki
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryotadj/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryotadj/)*

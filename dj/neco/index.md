@@ -1,6 +1,6 @@
 # Neco
 
-Neco is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Golden Gate, Berlin on Sat, 17 Oct 2026.
+Neco is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Golden Gate, Berlin on Sat, 17 Oct 2026.
 
 Neco is an electronic artist based in Japan, with 39 gigs on soundcheck across Berlin, Copenhagen and Sao Paulo. Often billed alongside Edgar Peng, Slurm McKenzie and Nils Ohrmann. Next up: Golden Gate, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Neco is an electronic artist based in Japan, with 39 gigs on soundcheck across B
 
 Edgar Peng, Slurm McKenzie, Nils Ohrmann
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neco/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neco/)*

@@ -1,6 +1,6 @@
 # Black Lotus
 
-Black Lotus is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Fruit, North-carolina on Fri, 23 Oct 2026.
+Black Lotus is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The Fruit, North-carolina on Fri, 23 Oct 2026.
 
 Black Lotus is a techno and acid artist, with 26 gigs on soundcheck across Austin, Barcelona, Berlin and Detroit and 10 more. Often billed alongside A.Paul, Carla Schmitt and Melanie Havens. Next up: The Fruit, North Carolina on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Black Lotus is a techno and acid artist, with 26 gigs on soundcheck across Austi
 
 A.Paul, Carla Schmitt, Melanie Havens
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blacklotus-de/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blacklotus-de/)*

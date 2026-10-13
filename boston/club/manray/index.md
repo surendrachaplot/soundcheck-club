@@ -1,6 +1,6 @@
 # Manray
 
-Manray is a music venue in Boston with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Automatique!: DJ James 808" on Fri, 23 Oct 2026.
+Manray is a music venue in Boston with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Automatique!: DJ James 808" on Fri, 23 Oct 2026.
 
 Manray is a music venue in Boston listed on soundcheck. 3 upcoming gigs, with line-ups including Adam Unknown. See dates, start times and who's playing. 40 Prospect Street, Cambridge,  MA 02139 USA.
 
@@ -16,4 +16,4 @@ Manray is a music venue in Boston listed on soundcheck. 3 upcoming gigs, with li
 
 40 Prospect Street, Cambridge,  MA 02139 USA, Boston
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/manray/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/manray/)*

@@ -1,6 +1,6 @@
 # 7T8s
 
-7T8s is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Court Coleman Manor, West-wales on Sat, 31 Oct 2026.
+7T8s is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Court Coleman Manor, West-wales on Sat, 31 Oct 2026.
 
 7T8s is a house and bass artist, with 5 gigs on soundcheck across Cardiff, London and West Wales. Often billed alongside Clare James, KIRSTY and Cj Cooper. Next up: Court Coleman Manor, West Wales on Sat 31 Oct.
 
@@ -21,4 +21,4 @@
 
 Clare James, KIRSTY, Cj Cooper
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/7t8s/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/7t8s/)*

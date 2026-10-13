@@ -1,13 +1,14 @@
 # Andrea Castells
 
-Andrea Castells is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Pracht, Frankfurt on Fri, 30 Oct 2026.
+Andrea Castells is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Ku Barcelona, Barcelona on Fri, 16 Oct 2026.
 
-Andrea Castells is a techno and house artist based in Sweden, with 62 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Frankfurt and 3 more. Often billed alongside Rivellino, K:ROL and Pascale Voltaire. Next up: Pracht, Frankfurt on Fri 30 Oct.
+Andrea Castells is a techno and house artist based in Sweden, with 63 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Frankfurt and 3 more. Often billed alongside Rivellino, K:ROL and Pascale Voltaire. Next up: Ku Barcelona, Barcelona on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Ku Barcelona | Barcelona |
 | Fri, 30 Oct 2026 | Pracht | Frankfurt |
 
 ## Recently played
@@ -25,4 +26,4 @@ Andrea Castells is a techno and house artist based in Sweden, with 62 gigs on so
 
 Rivellino, K:ROL, Pascale Voltaire
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreacastells/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreacastells/)*

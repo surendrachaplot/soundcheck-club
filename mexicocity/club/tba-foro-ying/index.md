@@ -1,6 +1,6 @@
 # TBA - Foro Ying
 
-TBA - Foro Ying is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "Jalowey" on Sat, 31 Oct 2026.
+TBA - Foro Ying is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "Jalowey" on Sat, 31 Oct 2026.
 
 TBA - Foro Ying is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including Dread (Poland) and Ezya. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Foro Ying is a music venue in Mexico City listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Jalowey | Dread (Poland), Ezya |
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-foro-ying/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-foro-ying/)*

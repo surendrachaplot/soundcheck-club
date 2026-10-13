@@ -1,8 +1,8 @@
 # SONI LOBO
 
-SONI LOBO is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Omeara, London on Sat, 17 Oct 2026.
+SONI LOBO is a Techno and EBM artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Omeara, London on Sat, 17 Oct 2026.
 
-SONI LOBO is a techno and ebm artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Arrosa, D LAI and Dimanté. Next up: Omeara, London on Sat 17 Oct.
+SONI LOBO is a techno and ebm artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Dimanté, Arrosa and D LAI. Next up: Omeara, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ SONI LOBO is a techno and ebm artist based in United Kingdom, with 7 gigs on sou
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Omeara | London |
 | Sat, 31 Oct 2026 | The Old Church | London |
+| Sat, 31 Oct 2026 | Rolling Stock | London |
 | Sat, 12 Dec 2026 | Groovetank Live | London |
 
 ## Recently played
@@ -21,6 +22,6 @@ SONI LOBO is a techno and ebm artist based in United Kingdom, with 7 gigs on sou
 
 ## Shares bills with
 
-Arrosa, D LAI, Dimanté
+Dimanté, Arrosa, D LAI
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonilobo/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonilobo/)*

@@ -1,6 +1,6 @@
 # Whistler
 
-Whistler is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "genrefluid #3" on Sat, 21 Nov 2026.
+Whistler is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "genrefluid #3" on Sat, 21 Nov 2026.
 
 Whistler is a music venue in Chicago listed on soundcheck. 1 upcoming gig, with line-ups including RTST and tigermilk. See dates, start times and who's playing. 2421 N. Milwaukee Avenue, Chicago, IL  60647.
 
@@ -14,4 +14,4 @@ Whistler is a music venue in Chicago listed on soundcheck. 1 upcoming gig, with 
 
 2421 N. Milwaukee Avenue, Chicago, IL  60647, Chicago
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/whistler/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/whistler/)*

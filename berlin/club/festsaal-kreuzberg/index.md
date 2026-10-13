@@ -1,6 +1,6 @@
 # Festsaal Kreuzberg
 
-Festsaal Kreuzberg is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "Unterwelt Festival" on Sat, 31 Oct 2026.
+Festsaal Kreuzberg is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "Unterwelt Festival" on Sat, 31 Oct 2026.
 
 Festsaal Kreuzberg is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Absolute Body Control, Claudia Kane, LAVION and Mercúrio Gótico and 2 more. See dates, start times and who's playing. Am Flutgraben 2, 12435 Berlin.
 
@@ -14,4 +14,4 @@ Festsaal Kreuzberg is a music venue in Berlin listed on soundcheck. 1 upcoming g
 
 Am Flutgraben 2, 12435 Berlin, Berlin
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/festsaal-kreuzberg/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/festsaal-kreuzberg/)*

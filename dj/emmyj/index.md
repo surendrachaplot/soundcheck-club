@@ -1,6 +1,6 @@
 # EMMYJ
 
-EMMYJ is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Secret Location, Auckland on Sat, 31 Oct 2026.
+EMMYJ is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Secret Location, Auckland on Sat, 31 Oct 2026.
 
 EMMYJ is a techno and industrial artist based in New Zealand, with 5 gigs on soundcheck across Auckland. Often billed alongside Takydon, H3LLRAIS3R and LeStrange. Next up: TBA - Secret Location, Auckland on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ EMMYJ is a techno and industrial artist based in New Zealand, with 5 gigs on sou
 
 Takydon, H3LLRAIS3R, LeStrange
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmyj/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmyj/)*

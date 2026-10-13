@@ -1,6 +1,6 @@
 # Royal Lounge
 
-Royal Lounge is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "número № 1 - Daytime House - Tech House Session" on Sat, 24 Oct 2026.
+Royal Lounge is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "número № 1 - Daytime House - Tech House Session" on Sat, 24 Oct 2026.
 
 Royal Lounge is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including Dan Miyagishi, Jm3Yoci, MZKN and SIGNAL (JP). See dates, start times and who's playing. 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001.
 
@@ -15,4 +15,4 @@ Royal Lounge is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, wi
 
 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001, Tokyo
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/royal-lounge/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/royal-lounge/)*

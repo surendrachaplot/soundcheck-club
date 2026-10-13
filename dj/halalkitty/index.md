@@ -1,6 +1,6 @@
 # Halal Kitty
 
-Halal Kitty is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Dalston Superstore, London on Fri, 16 Oct 2026.
+Halal Kitty is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Dalston Superstore, London on Fri, 16 Oct 2026.
 
 Halal Kitty is a techno and club artist based in United Kingdom, with 27 gigs on soundcheck across Glasgow and London. Often billed alongside Miss Cabbage, Jam Eye and Brandon Lee Vear. Next up: Dalston Superstore, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Halal Kitty is a techno and club artist based in United Kingdom, with 27 gigs on
 
 Miss Cabbage, Jam Eye, Brandon Lee Vear
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halalkitty/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halalkitty/)*

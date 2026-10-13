@@ -1,6 +1,6 @@
 # Ben Klock
 
-Ben Klock is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Sonora Bordeaux, Bordeaux on Fri, 16 Oct 2026.
+Ben Klock is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Sonora Bordeaux, Bordeaux on Fri, 16 Oct 2026.
 
 Ben Klock is a techno and house artist based in Germany, with 266 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 60 more. Often billed alongside Marcel Dettmann, Fadi Mohem and Rødhåd. Next up: Sonora Bordeaux, Bordeaux on Fri 16 Oct.
 
@@ -36,4 +36,4 @@ Ben Klock is a techno and house artist based in Germany, with 266 gigs on soundc
 
 Marcel Dettmann, Fadi Mohem, Rødhåd
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*

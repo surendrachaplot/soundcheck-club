@@ -1,6 +1,6 @@
 # Trixie (UK)
 
-Trixie (UK) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
+Trixie (UK) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
 
 Trixie (UK) is a house and techno artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 3 more. Often billed alongside E. Alexander, Mauro Ferno and Myriam. Next up: One Marylebone, London on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Trixie (UK) is a house and techno artist based in United Kingdom, with 85 gigs o
 
 E. Alexander, Mauro Ferno, Myriam
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trixie-uk/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trixie-uk/)*

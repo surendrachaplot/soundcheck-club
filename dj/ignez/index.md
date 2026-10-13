@@ -1,6 +1,6 @@
 # Ignez
 
-Ignez is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Den Anden Side, Copenhagen on Fri, 16 Oct 2026.
+Ignez is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Den Anden Side, Copenhagen on Fri, 16 Oct 2026.
 
 Ignez is a techno and house artist based in Netherlands, with 205 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 60 more. Often billed alongside Yanamaste, Inox Traxx and MARRØN. Next up: Den Anden Side, Copenhagen on Fri 16 Oct.
 
@@ -36,4 +36,4 @@ Ignez is a techno and house artist based in Netherlands, with 205 gigs on soundc
 
 Yanamaste, Inox Traxx, MARRØN
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*

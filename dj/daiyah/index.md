@@ -1,14 +1,15 @@
 # DAIYAH
 
-DAIYAH is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
+DAIYAH is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
-DAIYAH is a techno and house artist based in United States of America, with 98 gigs on soundcheck across Amsterdam, Austin, Berlin and Boston and 8 more. Often billed alongside DJ Bone, Devoye and Juliana Huxtable. Next up: RADION, Amsterdam on Fri 23 Oct.
+DAIYAH is a techno and house artist based in United States of America, with 99 gigs on soundcheck across Amsterdam, Austin, Berlin and Boston and 8 more. Often billed alongside DJ Bone, Devoye and Juliana Huxtable. Next up: RADION, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
+| Sun, 25 Oct 2026 | Amsterdams Most Wanted | Amsterdam |
 | Fri, 30 Oct 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 13 Nov 2026 | Tresor / Globus | Berlin |
 
@@ -27,4 +28,4 @@ DAIYAH is a techno and house artist based in United States of America, with 98 g
 
 DJ Bone, Devoye, Juliana Huxtable
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daiyah/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daiyah/)*

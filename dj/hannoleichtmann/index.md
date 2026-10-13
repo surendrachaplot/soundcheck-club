@@ -1,6 +1,6 @@
 # Hanno Leichtmann
 
-Hanno Leichtmann is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Silent Green, Berlin on Tue, 13 Oct 2026.
+Hanno Leichtmann is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Silent Green, Berlin on Tue, 13 Oct 2026.
 
 Hanno Leichtmann is an experimental and ambient artist based in Germany, with 5 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Valerio Tricoli. Next up: Silent Green, Berlin on Tue 13 Oct.
 
@@ -21,4 +21,4 @@ Hanno Leichtmann is an experimental and ambient artist based in Germany, with 5 
 
 Valerio Tricoli
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannoleichtmann/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannoleichtmann/)*

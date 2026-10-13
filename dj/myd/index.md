@@ -1,6 +1,6 @@
 # Myd
 
-Myd is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Petit CAB, Marseille on Fri, 16 Oct 2026.
+Myd is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Petit CAB, Marseille on Fri, 16 Oct 2026.
 
 Myd is a house and electro artist based in France, with 112 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 28 more. Often billed alongside Busy P, Breakbot and Cassius. Next up: Petit CAB, Marseille on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Myd is a house and electro artist based in France, with 112 gigs on soundcheck a
 
 Busy P, Breakbot, Cassius
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myd/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myd/)*

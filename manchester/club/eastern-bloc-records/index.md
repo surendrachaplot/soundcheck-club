@@ -1,8 +1,8 @@
 # Eastern Bloc Records
 
-Eastern Bloc Records is a music venue in Manchester with 17 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Open To Close with Levi Bibby (Tussle)" on Thu, 15 Oct 2026.
+Eastern Bloc Records is a music venue in Manchester with 18 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Open To Close with Levi Bibby (Tussle)" on Thu, 15 Oct 2026.
 
-Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 17 upcoming gigs, with line-ups including Allius, Amy Amor, Artilect and Balrog and 2 more. See dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
+Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 18 upcoming gigs, with line-ups including Allius, Amy Amor, Artilect and Balrog and 2 more. See dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 17 upc
 | Thu, 29 Oct 2026 | Club Culture presents: Electro, Breaks & Bass  |  |
 | Fri, 30 Oct 2026 | present Tense | Amy Amor, Benedict |
 | Sat, 31 Oct 2026 | Yard One presents | Means&3rd, Sam The Bastard, Yard One |
-| Fri, 6 Nov 2026 | Precision | Connor Southerland, Dig This |
+| Thu, 5 Nov 2026 | Bussdown | Campbell, Charlie Boy Manson, Mattik (UK), Subbuteo, Urma |
 
 ## Address
 
 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN, Manchester
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*

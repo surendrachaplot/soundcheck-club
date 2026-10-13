@@ -1,6 +1,6 @@
 # Dorian Craft
 
-Dorian Craft is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Sun, 25 Oct 2026.
+Dorian Craft is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Sun, 25 Oct 2026.
 
 Dorian Craft is a house and afro house artist based in France, with 41 gigs on soundcheck across Amsterdam, Bali, Barcelona and Brussels and 10 more. Often billed alongside Bedouin, Birds of Mind and Baron. Next up: Crane Hotel Faralda, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Dorian Craft is a house and afro house artist based in France, with 41 gigs on s
 
 Bedouin, Birds of Mind, Baron
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doriancraft/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doriancraft/)*

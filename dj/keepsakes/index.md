@@ -1,6 +1,6 @@
 # Keepsakes
 
-Keepsakes is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at OXI, Berlin on Tue, 13 Oct 2026.
+Keepsakes is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at OXI, Berlin on Tue, 13 Oct 2026.
 
 Keepsakes is a techno and house artist based in New Zealand, with 40 gigs on soundcheck across Athens, Auckland, Barcelona and Belfast and 19 more. Often billed alongside Inverse Element, ADMINISTRATOR and DLV. Next up: OXI, Berlin on Tue 13 Oct.
 
@@ -29,4 +29,4 @@ Keepsakes is a techno and house artist based in New Zealand, with 40 gigs on sou
 
 Inverse Element, ADMINISTRATOR, DLV
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keepsakes/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keepsakes/)*

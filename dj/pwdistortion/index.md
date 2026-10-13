@@ -1,6 +1,6 @@
 # PW DISTORTION
 
-PW DISTORTION is a Dub Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Lasociaciøn, Madrid on Mon, 7 Dec 2026.
+PW DISTORTION is a Dub Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Lasociaciøn, Madrid on Mon, 7 Dec 2026.
 
 PW DISTORTION is a dub techno and techno artist based in Spain, with 6 gigs on soundcheck across Berlin and Madrid. Often billed alongside Fgdj, H0H and Redondoo. Next up: Lasociaciøn, Madrid on Mon 7 Dec.
 
@@ -22,4 +22,4 @@ PW DISTORTION is a dub techno and techno artist based in Spain, with 6 gigs on s
 
 Fgdj, H0H, Redondoo
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pwdistortion/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pwdistortion/)*

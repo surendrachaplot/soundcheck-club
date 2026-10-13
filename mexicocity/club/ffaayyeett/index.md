@@ -1,6 +1,6 @@
 # Ffaayyeett
 
-Ffaayyeett is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "ESCA HALLOWEEN" on Fri, 23 Oct 2026.
+Ffaayyeett is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "ESCA HALLOWEEN" on Fri, 23 Oct 2026.
 
 Ffaayyeett is a music venue in Mexico City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Ffaayyeett is a music venue in Mexico City listed on soundcheck. 1 upcoming gig.
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | ESCA HALLOWEEN |  |
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/ffaayyeett/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/ffaayyeett/)*

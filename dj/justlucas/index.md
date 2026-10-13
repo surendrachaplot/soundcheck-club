@@ -1,0 +1,28 @@
+# Just Lucas
+
+Just Lucas is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Wed, 21 Oct 2026.
+
+Just Lucas is a house and tech house artist based in United States of America, with 13 gigs on soundcheck across San Francisco/Oakland. Often billed alongside JJKØ, Desert Hearts and Chelina Manuhutu. Next up: F8 1192 Folsom, San Francisco/Oakland on Wed 21 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Wed, 21 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
+
+## Recently played
+
+- F8 1192 Folsom, San Francisco/Oakland · Wed, 5 Aug 2026
+- 1015 Folsom, San Francisco/Oakland · Fri, 3 Jul 2026
+- The Great Northern, San Francisco/Oakland · Sat, 11 Oct 2025
+- Phoenix Hotel, San Francisco/Oakland · Sat, 24 May 2025
+- Temple SF, San Francisco/Oakland · Fri, 4 Apr 2025
+- Temple SF, San Francisco/Oakland · Sat, 30 Nov 2024
+- Hotel Via, San Francisco/Oakland · Sun, 3 Nov 2024
+- TBA - Secret Warehouse Location, San Francisco/Oakland · Sat, 19 Oct 2024
+
+## Shares bills with
+
+JJKØ, Desert Hearts, Chelina Manuhutu
+
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justlucas/)*

@@ -1,8 +1,8 @@
 # Aiden (DE)
 
-Aiden (DE) is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at MÄX, Zurich on Fri, 16 Oct 2026.
+Aiden (DE) is a Techno and Industrial artist with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at MÄX, Zurich on Fri, 16 Oct 2026.
 
-Aiden (DE) is a techno and industrial artist based in United States of America, with 88 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Kobosil, Somewhen and In Verruf. Next up: MÄX, Zurich on Fri 16 Oct.
+Aiden (DE) is a techno and industrial artist based in United States of America, with 89 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Kobosil, Somewhen and In Verruf. Next up: MÄX, Zurich on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Aiden (DE) is a techno and industrial artist based in United States of America, 
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
 | Fri, 13 Nov 2026 | E1 | London |
 | Sat, 28 Nov 2026 | BEC (Bilbao Exhibition Center) | North |
+| Fri, 11 Dec 2026 | TBA - Port of Belgrade, Stage 2 | Belgrade |
 | Sat, 19 Dec 2026 | Hallenstadion | Zurich |
 
 ## Recently played
@@ -30,4 +31,4 @@ Aiden (DE) is a techno and industrial artist based in United States of America, 
 
 Kobosil, Somewhen, In Verruf
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aiden-de/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aiden-de/)*

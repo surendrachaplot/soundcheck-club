@@ -1,6 +1,6 @@
 # Clemente (DE)
 
-Clemente (DE) is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Kater, Berlin on Sat, 24 Oct 2026.
+Clemente (DE) is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Kater, Berlin on Sat, 24 Oct 2026.
 
 Clemente (DE) is a house and italo disco artist based in Chile, with 21 gigs on soundcheck across Berlin, Ibiza, Lisbon and London. Often billed alongside Juan Ferreyra, Josefina Tapia and Easy Latinos. Next up: Kater, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Clemente (DE) is a house and italo disco artist based in Chile, with 21 gigs on 
 
 Juan Ferreyra, Josefina Tapia (2), Easy Latinos
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clemente-de/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clemente-de/)*

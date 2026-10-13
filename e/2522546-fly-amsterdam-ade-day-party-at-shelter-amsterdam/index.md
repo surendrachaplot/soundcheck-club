@@ -1,6 +1,6 @@
 # FLY Amsterdam ADE - Day Party at Shelter Amsterdam
 
-FLY Amsterdam ADE - Day Party at Shelter Amsterdam on Sat 24 Oct, Amsterdam. 4 artists: Carmen Baía, Morgan Seatree, Oden and PASO. Progressive House and Tech House. See the line-up on soundcheck.
+FLY Amsterdam ADE - Day Party at Shelter Amsterdam on Sat 24 Oct, Amsterdam. 5 artists: Carmen Baía, Jamie Fielding, Morgan Seatree and Oden and 1 more. Progressive House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ FLY Amsterdam ADE - Day Party at Shelter Amsterdam on Sat 24 Oct, Amsterdam. 4 a
 ## Line-up
 
 - Carmen Baía
+- Jamie Fielding
 - Morgan Seatree
 - Oden
 - PASO

@@ -1,6 +1,6 @@
 # Dusky
 
-Dusky is a House and Techno artist with 22 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Electric Studios, Sheffield on Fri, 16 Oct 2026.
+Dusky is a House and Techno artist with 22 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Electric Studios, Sheffield on Fri, 16 Oct 2026.
 
 Dusky is a house and techno artist based in United Kingdom, with 107 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 36 more. Often billed alongside Dan Shake, Denham Audio and Ella Knight. Next up: Electric Studios, Sheffield on Fri 16 Oct.
 
@@ -36,4 +36,4 @@ Dusky is a house and techno artist based in United Kingdom, with 107 gigs on sou
 
 Dan Shake, Denham Audio, Ella Knight
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dusky/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dusky/)*

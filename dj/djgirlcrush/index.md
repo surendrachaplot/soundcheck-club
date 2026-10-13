@@ -1,6 +1,6 @@
 # DJ girlcrush
 
-DJ girlcrush is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Boyfriend co-op, New York City on Thu, 15 Oct 2026.
+DJ girlcrush is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Boyfriend co-op, New York City on Thu, 15 Oct 2026.
 
 DJ girlcrush is a techno and house artist based in United States of America, with 47 gigs on soundcheck across New York City. Often billed alongside Kristen London, Cryostatik and Ah Dek. Next up: Boyfriend co-op, New York City on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ DJ girlcrush is a techno and house artist based in United States of America, wit
 
 Kristen London, Cryostatik, Ah Dek
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgirlcrush/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgirlcrush/)*

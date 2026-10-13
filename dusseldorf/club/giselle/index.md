@@ -1,6 +1,6 @@
 # Giselle
 
-Giselle is a music venue in Düsseldorf with 19 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Kribs, Ariel, DJ Klosing" on Fri, 16 Oct 2026.
+Giselle is a music venue in Düsseldorf with 19 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Kribs, Ariel, DJ Klosing" on Fri, 16 Oct 2026.
 
 Giselle is a music venue in Düsseldorf listed on soundcheck. 19 upcoming gigs, with line-ups including Alessia Ceruti, André Galluzzi, Arthur Baron and Daniel Fritschi and 2 more. See dates, start times and who's playing. 147 Oststrasse 40210.
 
@@ -23,4 +23,4 @@ Giselle is a music venue in Düsseldorf listed on soundcheck. 19 upcoming gigs, 
 
 147 Oststrasse 40210, Düsseldorf
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*

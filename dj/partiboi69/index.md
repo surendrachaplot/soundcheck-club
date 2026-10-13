@@ -1,6 +1,6 @@
 # Partiboi69
 
-Partiboi69 is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at RAWFACTORY, Amsterdam on Fri, 23 Oct 2026.
+Partiboi69 is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at RAWFACTORY, Amsterdam on Fri, 23 Oct 2026.
 
 Partiboi69 is a techno and house artist based in Australia, with 206 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 66 more. Often billed alongside Juicy Romance, KETTAMA and DJ Heartstring. Next up: RAWFACTORY, Amsterdam on Fri 23 Oct.
 
@@ -36,4 +36,4 @@ Partiboi69 is a techno and house artist based in Australia, with 206 gigs on sou
 
 Juicy Romance, KETTAMA, DJ Heartstring
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/partiboi69/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/partiboi69/)*

@@ -1,6 +1,6 @@
 # Vjollca
 
-Vjollca is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Juice, Toronto on Sat, 17 Oct 2026.
+Vjollca is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Juice, Toronto on Sat, 17 Oct 2026.
 
 Vjollca is a house and techno artist based in Canada, with 24 gigs on soundcheck across Toronto. Often billed alongside Kiki LeFreak, Milch and Amedeo (CA). Next up: Juice, Toronto on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Vjollca is a house and techno artist based in Canada, with 24 gigs on soundcheck
 
 Kiki LeFreak, Milch (1), Amedeo (CA)
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vjollca/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vjollca/)*

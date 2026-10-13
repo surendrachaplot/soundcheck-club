@@ -1,6 +1,6 @@
 # Void Hall
 
-Void Hall is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Stoic Music presents. Overview Music (UK) with Klinical, Rizzle, Ewol, Ambion, Sub-Antics" on Sat, 17 Oct 2026.
+Void Hall is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Stoic Music presents. Overview Music (UK) with Klinical, Rizzle, Ewol, Ambion, Sub-Antics" on Sat, 17 Oct 2026.
 
 Void Hall is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Azur, IHOPEIEXIST, Initia and Rizzle and 2 more. See dates, start times and who's playing. Wiesenweg 5-9, 10365 Berlin.
 
@@ -15,4 +15,4 @@ Void Hall is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with
 
 Wiesenweg 5-9, 10365 Berlin, Berlin
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-hall/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-hall/)*

@@ -1,6 +1,6 @@
 # David Ramsay
 
-David Ramsay is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 18 Oct 2026.
+David Ramsay is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 18 Oct 2026.
 
 David Ramsay is a techno and house artist based in United Kingdom, with 24 gigs on soundcheck across London. Often billed alongside Tafkanik, LO-LOW and Selecky. Next up: Starlane Pizza Bar, London on Sun 18 Oct.
 
@@ -27,4 +27,4 @@ David Ramsay is a techno and house artist based in United Kingdom, with 24 gigs 
 
 Tafkanik, LO-LOW, Selecky
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidramsay/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidramsay/)*

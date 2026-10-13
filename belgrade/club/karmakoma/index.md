@@ -1,8 +1,8 @@
 # Karmakoma
 
-Karmakoma is a music venue in Belgrade with 12 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "WWA with Gina Demarchi, Mamavitae, Aneri, cmic.akk b2b SRNA" on Fri, 16 Oct 2026.
+Karmakoma is a music venue in Belgrade with 13 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "WWA with Gina Demarchi, Mamavitae, Aneri, cmic.akk b2b SRNA" on Fri, 16 Oct 2026.
 
-Karmakoma is a music venue in Belgrade listed on soundcheck. 12 upcoming gigs, with line-ups including Aneri, cmic.akk, Evanora Unlimited and Gina Demarchi and 2 more. See dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
+Karmakoma is a music venue in Belgrade listed on soundcheck. 13 upcoming gigs, with line-ups including Ali Guney, Aneri, Ben UFO and cmic.akk and 2 more. See dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 12 upcoming gigs, w
 | Sat, 24 Oct 2026 | Disco Not Disco with Veronica Vasicka | Veronica Vasicka, schwabe |
 | Fri, 30 Oct 2026 | Roman Flügel, Sacha Mambo, Vlada Janjić | Roman Flügel, Sacha Mambo |
 | Sat, 7 Nov 2026 | Evanora Unlimited | Evanora Unlimited |
+| Sat, 7 Nov 2026 | Karmakoma's 3rd Birthday with Ben UFO | Ali Guney, Ben UFO, Nikola Vemic |
 | Sat, 14 Nov 2026 | Lena Willikens, tsola | Lena Willikens, tsola |
 | Fri, 20 Nov 2026 | Još Gori Live - Day 1 |  |
-| Sat, 21 Nov 2026 | Još Gori Live - Day 2 |  |
 
 ## Address
 
 Poenkareova 32, 11000 Belgrade, Belgrade
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*

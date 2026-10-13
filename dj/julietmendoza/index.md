@@ -1,8 +1,8 @@
 # Juliet Mendoza
 
-Juliet Mendoza is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Eldorado Ballroom, Houston on Fri, 16 Oct 2026.
+Juliet Mendoza is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Eldorado Ballroom, Houston on Fri, 16 Oct 2026.
 
-Juliet Mendoza is a house and deep house artist based in United States of America, with 107 gigs on soundcheck across Amsterdam, Chicago, Denver and Detroit and 12 more. Often billed alongside Heidi Lawden, DJ Sneak and Masha Mar. Next up: Eldorado Ballroom, Houston on Fri 16 Oct.
+Juliet Mendoza is a house and deep house artist based in United States of America, with 108 gigs on soundcheck across Amsterdam, Chicago, Denver and Detroit and 12 more. Often billed alongside Heidi Lawden, DJ Sneak and Masha Mar. Next up: Eldorado Ballroom, Houston on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Juliet Mendoza is a house and deep house artist based in United States of Americ
 | Sat, 31 Oct 2026 | Hotel Via | San Francisco/Oakland |
 | Sat, 7 Nov 2026 | 1720 | Los Angeles |
 | Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |
+| Fri, 20 Nov 2026 | The Airliner | Los Angeles |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Juliet Mendoza is a house and deep house artist based in United States of Americ
 
 Heidi Lawden, DJ Sneak, Masha Mar
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julietmendoza/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julietmendoza/)*

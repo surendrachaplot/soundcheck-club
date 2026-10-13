@@ -1,6 +1,6 @@
 # HORS-SOL
 
-HORS-SOL is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Le Trabendo, Paris on Fri, 18 Dec 2026.
+HORS-SOL is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Le Trabendo, Paris on Fri, 18 Dec 2026.
 
 HORS-SOL is a house and trance artist based in France, with 38 gigs on soundcheck across Berlin, Lyon, Madrid and Marseille and 2 more. Often billed alongside Jolly (FR), Lastvuska and Maryu. Next up: Le Trabendo, Paris on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ HORS-SOL is a house and trance artist based in France, with 38 gigs on soundchec
 
 Jolly (FR), Lastvuska, Maryu
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hors-sol/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hors-sol/)*

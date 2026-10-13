@@ -1,6 +1,6 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 20 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "New Nostalgia x Public Release: Heliotropic 3 [SECRET LINEUP / POWERED BY TEENAGE ENGINEERING]" on Thu, 15 Oct 2026.
+Public Works is a music venue in San Francisco/Oakland with 20 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "New Nostalgia x Public Release: Heliotropic 3 [SECRET LINEUP / POWERED BY TEENAGE ENGINEERING]" on Thu, 15 Oct 2026.
 
 Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 20 upcoming gigs, with line-ups including Adam Kraft, Alex Oxley, Alkemiss Erika and ALMAS and 2 more. See dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
@@ -9,7 +9,7 @@ Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 20 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | New Nostalgia x Public Release: Heliotropic 3 [SECRET LINEUP / POWERED BY TEENAGE ENGINEERING] |  |
-| Fri, 16 Oct 2026 | PW 16-Year Anniversary Night Two: Detroit Love with Carl Craig, Octave One (Live) | Benjamin K, Black Panda, Carl Craig, Little Lord, Octave One, Rachel Torro |
+| Fri, 16 Oct 2026 | PW 16-Year Anniversary Night Two: Detroit Love with Carl Craig, Octave One (Live) | Benjamin K, Black Panda, Carl Craig, Little Lord, Octave One, Rachel Torro, Stacey Pullen |
 | Sat, 17 Oct 2026 | PW 16-Year Anniversary Night Three: QUEEN OUT x FAKE & GAY: Tsu Nami, Goth Jafar, Joella | Adam Kraft, Goth Jafar, MASHALLAH, Star Eater, Yuca Frita |
 | Fri, 23 Oct 2026 | EAZYBAKED presented by Public Works & Insomniac |  |
 | Fri, 23 Oct 2026 | First Contact |  |
@@ -23,4 +23,4 @@ Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 20 
 
 161 Erie Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*

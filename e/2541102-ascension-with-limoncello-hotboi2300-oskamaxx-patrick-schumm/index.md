@@ -14,6 +14,6 @@ Ascension with Limoncello, HOTBOI2300, OSKAMAXX, Patrick Schumm at Helios37 on F
 - HOTBOI2300
 - Limoncello
 - OSKAMAXX
-- Tristan K (1)
+- Tristan K
 
 *Source: [soundcheck](https://soundcheck.club/e/2541102-ascension-with-limoncello-hotboi2300-oskamaxx-patrick-schumm/)*

@@ -1,6 +1,6 @@
 # Fabrik
 
-Fabrik is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "LA RESISTENCIA - Lethal industry" on Sat, 17 Oct 2026.
+Fabrik is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "LA RESISTENCIA - Lethal industry" on Sat, 17 Oct 2026.
 
 Fabrik is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including Paolo Ferrara, Adrian Mills, Alex T (UK) and Alienata and 2 more. See dates, start times and who's playing. Av. de la Industria 82, 28970 Humanes de Madrid, Spain.
 
@@ -22,4 +22,4 @@ Fabrik is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with li
 
 Av. de la Industria 82, 28970 Humanes de Madrid, Spain, Madrid
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*

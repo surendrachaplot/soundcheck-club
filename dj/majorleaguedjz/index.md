@@ -1,6 +1,6 @@
 # Major League Djz
 
-Major League Djz is a Afro House and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Queen Elizabeth Theatre, Toronto on Fri, 30 Oct 2026.
+Major League Djz is a Afro House and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Queen Elizabeth Theatre, Toronto on Fri, 30 Oct 2026.
 
 Major League Djz is an afro house and house artist based in South Africa, with 106 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 29 more. Often billed alongside Honey Dijon, DJ Tennis and Kitty Amor. Next up: Queen Elizabeth Theatre, Toronto on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Major League Djz is an afro house and house artist based in South Africa, with 1
 
 Honey Dijon, DJ Tennis, Kitty Amor
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majorleaguedjz/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majorleaguedjz/)*

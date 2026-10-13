@@ -1,6 +1,6 @@
 # stc at Mitsuki
 
-stc at Mitsuki on Mon 2 Nov, Tokyo. 4 artists: AKIRAM EN, LOST, Pointhope and SOGI. Minimal Techno. See the line-up on soundcheck.
+stc at Mitsuki on Mon 2 Nov, Tokyo. 3 artists: AKIRAM EN, Pointhope and SOGI. Trance and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ stc at Mitsuki on Mon 2 Nov, Tokyo. 4 artists: AKIRAM EN, LOST, Pointhope and SO
 ## Line-up
 
 - AKIRAM EN
-- LOST
 - Pointhope
 - SOGI
 

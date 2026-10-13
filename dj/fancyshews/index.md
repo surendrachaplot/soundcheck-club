@@ -1,6 +1,6 @@
 # Fancy Shews
 
-Fancy Shews is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TILLATEC, Amsterdam on Sat, 17 Oct 2026.
+Fancy Shews is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TILLATEC, Amsterdam on Sat, 17 Oct 2026.
 
 Fancy Shews is a house and techno artist based in United Kingdom, with 21 gigs on soundcheck across Amsterdam, Athens, Berlin and Brighton and 4 more. Often billed alongside FAFF, Angel D'lite and David Elimelech. Next up: TILLATEC, Amsterdam on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Fancy Shews is a house and techno artist based in United Kingdom, with 21 gigs o
 
 FAFF, Angel D'lite, David Elimelech
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fancyshews/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fancyshews/)*

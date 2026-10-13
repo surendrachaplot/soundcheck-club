@@ -1,6 +1,6 @@
 # Diana Oliveira
 
-Diana Oliveira is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Hub Criativo Beato, Lisbon on Sat, 14 Nov 2026.
+Diana Oliveira is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Hub Criativo Beato, Lisbon on Sat, 14 Nov 2026.
 
 Diana Oliveira is a techno and electronica artist based in Portugal, with 47 gigs on soundcheck across Lisbon and Porto. Often billed alongside Rui Vargas, David Moreira and Tiago Carvalho. Next up: Hub Criativo Beato, Lisbon on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Diana Oliveira is a techno and electronica artist based in Portugal, with 47 gig
 
 Rui Vargas, David Moreira (2), Tiago Carvalho
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dianaoliveira/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dianaoliveira/)*

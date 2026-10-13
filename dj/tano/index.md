@@ -1,6 +1,6 @@
 # Tano
 
-Tano is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Model, Nottingham on Sun, 25 Oct 2026.
+Tano is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The Model, Nottingham on Sun, 25 Oct 2026.
 
 Tano is a bass and house artist based in United States of America, with 19 gigs on soundcheck across Berlin, Detroit, Edinburgh and Glasgow and 5 more. Often billed alongside Don-Ri, Lewis Lowe and 2Lanes. Next up: The Model, Nottingham on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Tano is a bass and house artist based in United States of America, with 19 gigs 
 
 Don-Ri, Lewis Lowe, 2Lanes
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tano/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tano/)*

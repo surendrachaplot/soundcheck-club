@@ -1,6 +1,6 @@
 # Jetski
 
-Jetski is a Hardcore and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Camp and Furnace, Liverpool on Sat, 21 Nov 2026.
+Jetski is a Hardcore and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Camp and Furnace, Liverpool on Sat, 21 Nov 2026.
 
 Jetski is a hardcore and jungle artist based in United Kingdom, with 8 gigs on soundcheck across Bristol, Edinburgh, Leeds and Liverpool and 2 more. Often billed alongside Zubz, DJ Soyboi and DROMEK. Next up: Camp and Furnace, Liverpool on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Jetski is a hardcore and jungle artist based in United Kingdom, with 8 gigs on s
 
 Zubz, DJ Soyboi, DROMEK
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jetski/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jetski/)*

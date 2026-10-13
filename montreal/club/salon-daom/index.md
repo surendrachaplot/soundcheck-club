@@ -1,6 +1,6 @@
 # Salon Daomé
 
-Salon Daomé is a music venue in Montreal with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Stacy Kidd + Mandiz & Max Hebert" on Fri, 16 Oct 2026.
+Salon Daomé is a music venue in Montreal with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Stacy Kidd + Mandiz & Max Hebert" on Fri, 16 Oct 2026.
 
 Salon Daomé is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, with line-ups including Audrey Bélanger, Guillaume Michaud, Hicky & Kalo and Jojoflores and 2 more. See dates, start times and who's playing. 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8.
 
@@ -21,4 +21,4 @@ Salon Daomé is a music venue in Montreal listed on soundcheck. 8 upcoming gigs,
 
 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8, Montreal
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*

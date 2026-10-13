@@ -1,6 +1,6 @@
 # Raphael Dincsoy
 
-Raphael Dincsoy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Fridas Pier, Stuttgart on Sat, 17 Oct 2026.
+Raphael Dincsoy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Fridas Pier, Stuttgart on Sat, 17 Oct 2026.
 
 Raphael Dincsoy is a techno and house artist based in Germany, with 138 gigs on soundcheck across Amsterdam, Basel, Berlin and Düsseldorf and 7 more. Often billed alongside Tamara Wirth, David Löhlein and Sibel. Next up: Fridas Pier, Stuttgart on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Raphael Dincsoy is a techno and house artist based in Germany, with 138 gigs on 
 
 Tamara Wirth, David Löhlein, Sibel
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaeldincsoy/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaeldincsoy/)*

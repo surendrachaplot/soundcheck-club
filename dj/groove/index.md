@@ -1,6 +1,6 @@
 # Groove
 
-Groove is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Three Buttons, Singapore on Sat, 24 Oct 2026.
+Groove is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Three Buttons, Singapore on Sat, 24 Oct 2026.
 
 Groove is a techno and acid artist based in Bulgaria, with 24 gigs on soundcheck across Athens, Bangkok, Berlin and Bristol and 10 more. Often billed alongside DANI8L, ANNA and After X. Next up: Three Buttons, Singapore on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Groove is a techno and acid artist based in Bulgaria, with 24 gigs on soundcheck
 
 DANI8L, ANNA, After X
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groove/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groove/)*

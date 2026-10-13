@@ -1,6 +1,6 @@
 # Underground Resistance
 
-Underground Resistance is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at fabric, London on Sat, 17 Oct 2026.
+Underground Resistance is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at fabric, London on Sat, 17 Oct 2026.
 
 Underground Resistance is a techno and house artist based in United States of America, with 35 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Mark Flash, Christian AB and Huey Mnemonic. Next up: fabric, London on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Underground Resistance is a techno and house artist based in United States of Am
 
 Mark Flash, Christian AB, Huey Mnemonic
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/undergroundresistance/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/undergroundresistance/)*

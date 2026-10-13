@@ -1,6 +1,6 @@
 # PARISI
 
-PARISI is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Outernet Live, London on Sat, 5 Dec 2026.
+PARISI is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Outernet Live, London on Sat, 5 Dec 2026.
 
 PARISI is a bass and house artist, with 9 gigs on soundcheck across Brussels, Budapest, Copenhagen and London and 3 more. Often billed alongside okgiorgio, Alfred Anders and Alycia Bezgo. Next up: Outernet Live, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ PARISI is a bass and house artist, with 9 gigs on soundcheck across Brussels, Bu
 
 okgiorgio, Alfred Anders, Alycia Bezgo
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parisi/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parisi/)*

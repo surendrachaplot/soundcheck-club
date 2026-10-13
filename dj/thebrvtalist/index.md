@@ -1,6 +1,6 @@
 # The Brvtalist
 
-The Brvtalist is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at OXI, Berlin on Tue, 27 Oct 2026.
+The Brvtalist is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at OXI, Berlin on Tue, 27 Oct 2026.
 
 The Brvtalist is a techno and house artist based in United States of America, with 90 gigs on soundcheck across Barcelona, Berlin, Boston and Chicago and 21 more. Often billed alongside Melanie Havens, Inverse Element and BLACK ANTHEM RESTORE. Next up: OXI, Berlin on Tue 27 Oct.
 
@@ -27,4 +27,4 @@ The Brvtalist is a techno and house artist based in United States of America, wi
 
 Melanie Havens, Inverse Element, BLACK ANTHEM RESTORE
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebrvtalist/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebrvtalist/)*

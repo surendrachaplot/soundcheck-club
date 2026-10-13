@@ -1,6 +1,6 @@
 # Gui Scott
 
-Gui Scott is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Edifício Martinelli, Sao Paulo on Fri, 23 Oct 2026.
+Gui Scott is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Edifício Martinelli, Sao Paulo on Fri, 23 Oct 2026.
 
 Gui Scott is a house and disco artist based in Brazil, with 39 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 8 more. Often billed alongside Pino Henrique Pedra, Discos Baratos and Caio T.. Next up: Edifício Martinelli, Sao Paulo on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Gui Scott is a house and disco artist based in Brazil, with 39 gigs on soundchec
 
 Pino Henrique Pedra, Discos Baratos, Caio T.
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guiscott/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guiscott/)*

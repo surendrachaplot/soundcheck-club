@@ -1,6 +1,6 @@
 # La Cité des Arts de la Rue
 
-La Cité des Arts de la Rue is a music venue in Marseille with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "À Mort La Muerte 4 • Twerkistan" on Sat, 31 Oct 2026.
+La Cité des Arts de la Rue is a music venue in Marseille with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "À Mort La Muerte 4 • Twerkistan" on Sat, 31 Oct 2026.
 
 La Cité des Arts de la Rue is a music venue in Marseille listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 225 Av. Ibrahim Ali, 13015 Marseille.
 
@@ -14,4 +14,4 @@ La Cité des Arts de la Rue is a music venue in Marseille listed on soundcheck. 
 
 225 Av. Ibrahim Ali, 13015 Marseille, Marseille
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/la-cit-des-arts-de-la-rue/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/la-cit-des-arts-de-la-rue/)*

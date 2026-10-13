@@ -1,6 +1,6 @@
 # Philadelphia Museum of Art
 
-Philadelphia Museum of Art is a music venue in Philadelphia with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Philadelphia Art Museum: DJ Dommis Residency" on Fri, 16 Oct 2026.
+Philadelphia Museum of Art is a music venue in Philadelphia with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Philadelphia Art Museum: DJ Dommis Residency" on Fri, 16 Oct 2026.
 
 Philadelphia Museum of Art is a music venue in Philadelphia listed on soundcheck. 7 upcoming gigs, with line-ups including DJ Dommis, Matthew Law and Skeme Richards. See dates, start times and who's playing. 2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130.
 
@@ -20,4 +20,4 @@ Philadelphia Museum of Art is a music venue in Philadelphia listed on soundcheck
 
 2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130, Philadelphia
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/philadelphia-museum-of-art/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/philadelphia-museum-of-art/)*

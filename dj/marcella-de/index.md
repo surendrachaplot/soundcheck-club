@@ -1,6 +1,6 @@
 # Marcella
 
-Marcella is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Gorg-O-Mish, Vancouver on Fri, 16 Oct 2026.
+Marcella is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Gorg-O-Mish, Vancouver on Fri, 16 Oct 2026.
 
 Marcella is a techno and house artist based in Germany, with 6 gigs on soundcheck across Vancouver. Often billed alongside Beiti, Luca Fernandez and Sydney Blu. Next up: Gorg-O-Mish, Vancouver on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Marcella is a techno and house artist based in Germany, with 6 gigs on soundchec
 
 Beiti, Luca Fernandez, Sydney Blu
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcella-de/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcella-de/)*

@@ -1,6 +1,6 @@
 # Tsui
 
-Tsui is a electronic artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Pawnshop, Taipei on Sun, 1 Nov 2026.
+Tsui is a electronic artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Pawnshop, Taipei on Sun, 1 Nov 2026.
 
 Tsui is an electronic artist, with 3 gigs on soundcheck across Taipei. Often billed alongside BADSISTA, Cristian Marras and Danielle (UK). Next up: Pawnshop, Taipei on Sun 1 Nov.
 
@@ -19,4 +19,4 @@ Tsui is an electronic artist, with 3 gigs on soundcheck across Taipei. Often bil
 
 BADSISTA, Cristian Marras, Danielle (UK)
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsui/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsui/)*

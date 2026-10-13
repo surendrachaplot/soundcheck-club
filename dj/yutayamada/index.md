@@ -1,6 +1,6 @@
 # Yuta Yamada
 
-Yuta Yamada is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Enter Shibuya, Tokyo on Tue, 13 Oct 2026.
+Yuta Yamada is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Enter Shibuya, Tokyo on Tue, 13 Oct 2026.
 
 Yuta Yamada is a house and tech house artist based in Japan, with 78 gigs on soundcheck across Amsterdam, Barcelona, Berlin and London and 4 more. Often billed alongside GooPer, Amps and Aiko Inoue. Next up: Enter Shibuya, Tokyo on Tue 13 Oct.
 
@@ -26,4 +26,4 @@ Yuta Yamada is a house and tech house artist based in Japan, with 78 gigs on sou
 
 GooPer, Amps, Aiko Inoue
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yutayamada/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yutayamada/)*

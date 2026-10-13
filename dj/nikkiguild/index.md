@@ -1,6 +1,6 @@
 # Nikki Guild
 
-Nikki Guild is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at West Port Oracle, Edinburgh on Sat, 17 Oct 2026.
+Nikki Guild is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at West Port Oracle, Edinburgh on Sat, 17 Oct 2026.
 
 Nikki Guild is a house and techno artist based in United Kingdom, with 16 gigs on soundcheck across Edinburgh. Often billed alongside ona:v, Iona.Violet and Bartek. Next up: West Port Oracle, Edinburgh on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Nikki Guild is a house and techno artist based in United Kingdom, with 16 gigs o
 
 ona:v, Iona.Violet, Bartek
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkiguild/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkiguild/)*

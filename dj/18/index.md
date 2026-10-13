@@ -1,6 +1,6 @@
 # 18+
 
-18+ is a Techno and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Zoom Club, Frankfurt on Sat, 17 Oct 2026.
+18+ is a Techno and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Zoom Club, Frankfurt on Sat, 17 Oct 2026.
 
 18+ is a techno and reggaeton artist based in United States of America, with 30 gigs on soundcheck across Berlin, Boston, Brighton and Bristol and 12 more. Often billed alongside PM, ALEX REV and Aexhy. Next up: Zoom Club, Frankfurt on Sat 17 Oct.
 
@@ -26,4 +26,4 @@
 
 PM, ALEX REV, Aexhy
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/18/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/18/)*

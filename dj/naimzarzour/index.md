@@ -1,6 +1,6 @@
 # Naim Zarzour
 
-Naim Zarzour is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Naim Zarzour is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Naim Zarzour is a techno and house artist based in Venezuela, with 23 gigs on soundcheck across Houston, Los Angeles, Miami and New York City. Often billed alongside Miguel Clark, Ultrathem and Robyn Sin Love. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Naim Zarzour is a techno and house artist based in Venezuela, with 23 gigs on so
 
 Miguel Clark, Ultrathem, Robyn Sin Love
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naimzarzour/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naimzarzour/)*

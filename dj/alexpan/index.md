@@ -1,6 +1,6 @@
 # ALEX PAN
 
-ALEX PAN is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Spkrbox, Detroit on Wed, 14 Oct 2026.
+ALEX PAN is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Spkrbox, Detroit on Wed, 14 Oct 2026.
 
 ALEX PAN is a garage and house artist based in United States of America, with 9 gigs on soundcheck across Detroit and New York City. Often billed alongside Abril IRL, Boydell and Scribble. Next up: Spkrbox, Detroit on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ ALEX PAN is a garage and house artist based in United States of America, with 9 
 
 Abril IRL, Boydell, Scribble
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpan/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpan/)*

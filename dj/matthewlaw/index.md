@@ -1,6 +1,6 @@
 # Matthew Law
 
-Matthew Law is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Bastet, Philadelphia on Fri, 16 Oct 2026.
+Matthew Law is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Bastet, Philadelphia on Fri, 16 Oct 2026.
 
 Matthew Law is a house and club artist based in United States of America, with 60 gigs on soundcheck across Miami, New York City and Philadelphia. Often billed alongside Khalil, DJ Dommis and DJ Sylo. Next up: Bastet, Philadelphia on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Matthew Law is a house and club artist based in United States of America, with 6
 
 Khalil, DJ Dommis, DJ Sylo
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewlaw/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewlaw/)*

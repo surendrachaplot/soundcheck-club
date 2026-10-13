@@ -1,6 +1,6 @@
 # DJ Ruby
 
-DJ Ruby is a Progressive House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Hub Gozo, Malta on Sat, 17 Oct 2026.
+DJ Ruby is a Progressive House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Hub Gozo, Malta on Sat, 17 Oct 2026.
 
 DJ Ruby is a progressive house and techno artist based in Malta, with 66 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Budapest and 17 more. Often billed alongside Daniel Blade, Abdy and Ruben Karapetyan. Next up: Hub Gozo, Malta on Sat 17 Oct.
 
@@ -29,4 +29,4 @@ DJ Ruby is a progressive house and techno artist based in Malta, with 66 gigs on
 
 Daniel Blade, Abdy, Ruben Karapetyan
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djruby/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djruby/)*

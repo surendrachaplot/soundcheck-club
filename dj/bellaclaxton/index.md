@@ -1,6 +1,6 @@
 # Bella Claxton
 
-Bella Claxton is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at NX Newcastle, Newcastle on Sat, 17 Oct 2026.
+Bella Claxton is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at NX Newcastle, Newcastle on Sat, 17 Oct 2026.
 
 Bella Claxton is a techno and house artist based in Australia, with 128 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 28 more. Often billed alongside Faster Horses, Kyle Starkey and LAMMER. Next up: NX Newcastle, Newcastle on Sat 17 Oct.
 
@@ -36,4 +36,4 @@ Bella Claxton is a techno and house artist based in Australia, with 128 gigs on 
 
 Faster Horses, Kyle Starkey, LAMMER
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaclaxton/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaclaxton/)*

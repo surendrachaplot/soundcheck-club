@@ -1,6 +1,6 @@
 # Lewis Taylor
 
-Lewis Taylor is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Oliva, Amsterdam on Sat, 24 Oct 2026.
+Lewis Taylor is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Oliva, Amsterdam on Sat, 24 Oct 2026.
 
 Lewis Taylor is a house and tech house artist based in United Kingdom, with 48 gigs on soundcheck across Aberdeen, Amsterdam, Brighton and Bristol and 15 more. Often billed alongside Harry Robson, Ellia Jaya and Gaskin. Next up: Oliva, Amsterdam on Sat 24 Oct.
 
@@ -31,4 +31,4 @@ Lewis Taylor is a house and tech house artist based in United Kingdom, with 48 g
 
 Harry Robson, Ellia Jaya, Gaskin
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewistaylor/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewistaylor/)*

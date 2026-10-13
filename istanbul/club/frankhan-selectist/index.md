@@ -1,6 +1,6 @@
 # Frankhan Selectist
 
-Frankhan Selectist is a music venue in Istanbul with 11 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Alan Power: A Night in Tennessee" on Fri, 16 Oct 2026.
+Frankhan Selectist is a music venue in Istanbul with 11 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Alan Power: A Night in Tennessee" on Fri, 16 Oct 2026.
 
 Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 11 upcoming gigs, with line-ups including Alican, Berkan V8, BOOSAY and Delilah and 2 more. See dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
 
@@ -9,7 +9,7 @@ Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 11 upcomin
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Alan Power: A Night in Tennessee |  |
-| Fri, 16 Oct 2026 | Detroit In Effect | Detroit In Effect |
+| Fri, 16 Oct 2026 | Detroit In Effect at Sound Room | Detroit In Effect, emir urundul, Ögem Yılmaz |
 | Sat, 17 Oct 2026 | Satoshi Tomiie b2b Tomoki Tamura | Satoshi Tomiie, Tomoki Tamura |
 | Sat, 17 Oct 2026 | Slum Vilage |  |
 | Fri, 23 Oct 2026 | Delilah Saxena + Jamie S + Maner | Delilah |
@@ -23,4 +23,4 @@ Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 11 upcomin
 
 Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul, Istanbul
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*

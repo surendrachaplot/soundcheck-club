@@ -1,6 +1,6 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Throwback - Closing Party (Back to 80s, 90s & 00s) at La Terrrazza" on Fri, 16 Oct 2026.
+La Terrrazza is a music venue in Barcelona with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Throwback - Closing Party (Back to 80s, 90s & 00s) at La Terrrazza" on Fri, 16 Oct 2026.
 
 La Terrrazza is a music venue in Barcelona listed on soundcheck. 6 upcoming gigs, with line-ups including George Privatti, INEXXSTABLE, Justin Jay and Lexlay and 2 more. See dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
@@ -19,4 +19,4 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 6 upcoming gigs
 
 Avinguda Francesc Ferrer i Guardia, 13, 08038, Barcelona
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*

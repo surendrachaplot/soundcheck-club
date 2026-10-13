@@ -1,6 +1,6 @@
-# J1 - Non Series Quience: Psyk, Erik Luebs [live], PAWEL, vakkum at Jasna 1
+# J1 - Non Series Quience: Psyk, Erik Luebs [live], PAWEL, Vakkum at Jasna 1
 
-J1 - Non Series Quience: Psyk, Erik Luebs [live], PAWEL, vakkum at Jasna 1 on Sat 17 Oct, Warsaw. 3 artists: Erik Luebs, PAWEL (PL) and Psyk. See the line-up on soundcheck.
+J1 - Non Series Quience: Psyk, Erik Luebs [live], PAWEL, Vakkum at Jasna 1 on Sat 17 Oct, Warsaw. 3 artists: Erik Luebs, PAWEL (PL) and Psyk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

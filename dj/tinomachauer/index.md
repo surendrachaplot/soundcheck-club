@@ -1,6 +1,6 @@
 # Tino Machauer
 
-Tino Machauer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Romantica, Stuttgart on Fri, 23 Oct 2026.
+Tino Machauer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Romantica, Stuttgart on Fri, 23 Oct 2026.
 
 Tino Machauer is a techno and house artist based in Germany, with 43 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 11 more. Often billed alongside lex_shockwerk, slin and MATRIX3K. Next up: Romantica, Stuttgart on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Tino Machauer is a techno and house artist based in Germany, with 43 gigs on sou
 
 lex_shockwerk, slin, MATRIX3K
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinomachauer/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinomachauer/)*

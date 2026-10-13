@@ -1,6 +1,6 @@
 # Geheimzinnig Soundsystem
 
-Geheimzinnig Soundsystem is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Wijnhuis.Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Geheimzinnig Soundsystem is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Wijnhuis.Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Geheimzinnig Soundsystem is a house and disco artist based in Belgium, with 40 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent and 1 more. Often billed alongside kneiz, Bibi Seck and Funcadafi. Next up: Wijnhuis.Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Geheimzinnig Soundsystem is a house and disco artist based in Belgium, with 40 g
 
 kneiz, Bibi Seck, Funcadafi
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geheimzinnigsoundsystem/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geheimzinnigsoundsystem/)*

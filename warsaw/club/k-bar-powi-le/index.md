@@ -1,6 +1,6 @@
 # K-Bar Powiśle
 
-K-Bar Powiśle is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "RUMOR COLLAB TOUR: WARSAW, Tymek Papior (LIVE) W/ BASS MATES" on Fri, 16 Oct 2026.
+K-Bar Powiśle is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "RUMOR COLLAB TOUR: WARSAW, Tymek Papior (LIVE) W/ BASS MATES" on Fri, 16 Oct 2026.
 
 K-Bar Powiśle is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with line-ups including dj.zamocno, eylau, kertua and Kogiel and 2 more. See dates, start times and who's playing. aleja 3 maja i Leona Kruczkowskiego, 00-380 Warszawa.
 
@@ -15,4 +15,4 @@ K-Bar Powiśle is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs,
 
 aleja 3 maja i Leona Kruczkowskiego, 00-380 Warszawa, Warsaw
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/k-bar-powi-le/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/k-bar-powi-le/)*

@@ -1,6 +1,6 @@
 # Sandrien
 
-Sandrien is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Gare Porto, Porto on Sat, 17 Oct 2026.
+Sandrien is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Gare Porto, Porto on Sat, 17 Oct 2026.
 
 Sandrien is a techno and house artist based in Netherlands, with 175 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside JakoJako, DVS1 and Fafi Abdel Nour. Next up: Gare Porto, Porto on Sat 17 Oct.
 
@@ -31,4 +31,4 @@ Sandrien is a techno and house artist based in Netherlands, with 175 gigs on sou
 
 JakoJako, DVS1, Fafi Abdel Nour
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrien/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrien/)*

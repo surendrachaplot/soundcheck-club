@@ -1,6 +1,6 @@
 # Miliard
 
-Miliard is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Lucky Cat, Sydney on Fri, 16 Oct 2026.
+Miliard is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The Lucky Cat, Sydney on Fri, 16 Oct 2026.
 
 Miliard is a house and tech house artist based in Australia, with 10 gigs on soundcheck across Sydney. Often billed alongside Chris Stevo, A.Well and Said Dami. Next up: The Lucky Cat, Sydney on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Miliard is a house and tech house artist based in Australia, with 10 gigs on sou
 
 Chris Stevo, A.Well, Said Dami
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miliard/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miliard/)*

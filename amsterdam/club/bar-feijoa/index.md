@@ -1,6 +1,6 @@
 # Bar Feijoa
 
-Bar Feijoa is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Floral Nights Showcase at ADE 2026" on Wed, 21 Oct 2026.
+Bar Feijoa is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Floral Nights Showcase at ADE 2026" on Wed, 21 Oct 2026.
 
 Bar Feijoa is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Baime, CENKK, Christian Voldstad and derderwandert and 2 more. See dates, start times and who's playing. Vijzelstraat 39, 1017 HE Amsterdam, Netherlands.
 
@@ -15,4 +15,4 @@ Bar Feijoa is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, 
 
 Vijzelstraat 39, 1017 HE Amsterdam, Netherlands, Amsterdam
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bar-feijoa/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bar-feijoa/)*

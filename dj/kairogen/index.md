@@ -1,6 +1,6 @@
 # Kairogen
 
-Kairogen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Locale, Glasgow on Sat, 31 Oct 2026.
+Kairogen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The Locale, Glasgow on Sat, 31 Oct 2026.
 
 Kairogen is a techno and house artist based in United Kingdom, with 105 gigs on soundcheck across Barcelona, Bristol, Edinburgh and Glasgow and 1 more. Often billed alongside Slam, Skillis and Feena. Next up: The Locale, Glasgow on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Kairogen is a techno and house artist based in United Kingdom, with 105 gigs on 
 
 Slam, Skillis, Feena
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kairogen/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kairogen/)*

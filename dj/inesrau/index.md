@@ -1,6 +1,6 @@
 # Inès Rau
 
-Inès Rau is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - 52 Walker Street, New York City on Sat, 17 Oct 2026.
+Inès Rau is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - 52 Walker Street, New York City on Sat, 17 Oct 2026.
 
 Inès Rau is a house and disco artist based in France, with 11 gigs on soundcheck across Ibiza, London, Miami and New York City and 1 more. Often billed alongside ALEJO (US), ANDREA VANDALL and ATRIP. Next up: TBA - 52 Walker Street, New York City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Inès Rau is a house and disco artist based in France, with 11 gigs on soundchec
 
 ALEJO (US), ANDREA VANDALL, ATRIP
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inesrau/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inesrau/)*

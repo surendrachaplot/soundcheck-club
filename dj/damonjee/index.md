@@ -1,6 +1,6 @@
 # Damon Jee
 
-Damon Jee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at control, Bucharest on Fri, 16 Oct 2026.
+Damon Jee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at control, Bucharest on Fri, 16 Oct 2026.
 
 Damon Jee is a techno and house artist based in France, with 56 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 16 more. Often billed alongside no_ip, Diego Montiel and Edouard!. Next up: control, Bucharest on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Damon Jee is a techno and house artist based in France, with 56 gigs on soundche
 
 no_ip, Diego Montiel, Edouard!
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damonjee/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damonjee/)*

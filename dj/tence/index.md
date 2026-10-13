@@ -1,6 +1,6 @@
 # Tence
 
-Tence is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Pickwick's, Vienna on Fri, 16 Oct 2026.
+Tence is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Pickwick's, Vienna on Fri, 16 Oct 2026.
 
 Tence is a garage and house artist based in Austria, with 17 gigs on soundcheck across Vienna. Often billed alongside Clark, Der Werther and Ell Murphy. Next up: Pickwick's, Vienna on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Tence is a garage and house artist based in Austria, with 17 gigs on soundcheck 
 
 Clark, Der Werther, Ell Murphy
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tence/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tence/)*

@@ -1,6 +1,6 @@
 # Allexandra
 
-Allexandra is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at M-BIA, Berlin on Sat, 24 Oct 2026.
+Allexandra is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at M-BIA, Berlin on Sat, 24 Oct 2026.
 
 Allexandra is a techno and acid artist based in Romania, with 32 gigs on soundcheck across Amsterdam, Berlin, Bucharest and London and 1 more. Often billed alongside Basstronauten, Gruell and Sancris. Next up: M-BIA, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Allexandra is a techno and acid artist based in Romania, with 32 gigs on soundch
 
 Basstronauten, Gruell, Sancris
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/allexandra/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/allexandra/)*

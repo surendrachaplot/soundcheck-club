@@ -1,6 +1,6 @@
 # Kessler (AR)
 
-Kessler (AR) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Club Ciudad de Buenos Aires, Buenos Aires on Fri, 11 Dec 2026.
+Kessler (AR) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Club Ciudad de Buenos Aires, Buenos Aires on Fri, 11 Dec 2026.
 
 Kessler (AR) is a techno and industrial artist based in Argentina, with 19 gigs on soundcheck across Buenos Aires and New York City. Often billed alongside ALYOSHA, Drëm and Azyr. Next up: Club Ciudad de Buenos Aires, Buenos Aires on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Kessler (AR) is a techno and industrial artist based in Argentina, with 19 gigs 
 
 ALYOSHA, Drëm, Azyr
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kesslerar/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kesslerar/)*

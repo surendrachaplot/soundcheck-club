@@ -1,6 +1,6 @@
 # Skin On Skin
 
-Skin On Skin is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Telegraph Building, Belfast on Fri, 16 Oct 2026.
+Skin On Skin is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Telegraph Building, Belfast on Fri, 16 Oct 2026.
 
 Skin On Skin is a techno and house artist based in South Sudan, with 146 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 55 more. Often billed alongside Mall Grab, KETTAMA and DJ Gigola. Next up: The Telegraph Building, Belfast on Fri 16 Oct.
 
@@ -36,4 +36,4 @@ Skin On Skin is a techno and house artist based in South Sudan, with 146 gigs on
 
 Mall Grab, KETTAMA, DJ Gigola
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*

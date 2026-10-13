@@ -1,13 +1,14 @@
 # Andrea Fiorito
 
-Andrea Fiorito is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Yellow House, Amsterdam on Thu, 22 Oct 2026.
+Andrea Fiorito is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Altrove, Milan on Fri, 16 Oct 2026.
 
-Andrea Fiorito is a house and minimal artist, with 23 gigs on soundcheck across Amsterdam, Berlin, Ibiza and London and 5 more. Often billed alongside Ohm Hourani, Daraio and Nesta. Next up: Yellow House, Amsterdam on Thu 22 Oct.
+Andrea Fiorito is a house and minimal artist, with 24 gigs on soundcheck across Amsterdam, Berlin, Ibiza and London and 5 more. Often billed alongside Ohm Hourani, Daraio and Nesta. Next up: Altrove, Milan on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Altrove | Milan |
 | Thu, 22 Oct 2026 | Yellow House | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Andrea Fiorito is a house and minimal artist, with 23 gigs on soundcheck across 
 
 Ohm Hourani, Daraio, Nesta
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreafiorito/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreafiorito/)*

@@ -1,6 +1,6 @@
 # Glamorama
 
-Glamorama is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Interval - David Jackson [IE]" on Fri, 16 Oct 2026.
+Glamorama is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Interval - David Jackson [IE]" on Fri, 16 Oct 2026.
 
 Glamorama is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including Acid Jacks, BETHANY, Body Clinic and CHARBINKS and 2 more. See dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
 
@@ -8,7 +8,7 @@ Glamorama is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Interval - David Jackson [IE] | David Jackson |
+| Fri, 16 Oct 2026 | Interval - David Jackson [IE] | David Jackson, TiNTON |
 | Fri, 16 Oct 2026 | Glam Open Decks: #6 |  |
 | Sat, 17 Oct 2026 | One More Tune Day Party |  |
 | Fri, 23 Oct 2026 | Interval - DJ Optimism + Special Guests [All Night Long] | DJ Optimism |
@@ -22,4 +22,4 @@ Glamorama is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, w
 
 393 Brunswick street, Fitzroy, Victoria 3065, Melbourne
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*

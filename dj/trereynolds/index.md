@@ -1,6 +1,6 @@
 # Tre Reynolds
 
-Tre Reynolds is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Oran Mor, Glasgow on Sat, 31 Oct 2026.
+Tre Reynolds is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Oran Mor, Glasgow on Sat, 31 Oct 2026.
 
 Tre Reynolds is a tech house and house artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 13 more. Often billed alongside AMMARA, Andhim and Armand Van Helden. Next up: Oran Mor, Glasgow on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Tre Reynolds is a tech house and house artist based in United Kingdom, with 53 g
 
 AMMARA, Andhim, Armand Van Helden
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trereynolds/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trereynolds/)*

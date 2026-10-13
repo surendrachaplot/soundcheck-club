@@ -1,0 +1,22 @@
+# OSTROM x UNWIND pres. REBELLION | HARD INDUSTRIAL TECHNO | at OFF Kultur
+
+OSTROM x UNWIND pres. REBELLION | HARD INDUSTRIAL TECHNO | at OFF Kultur on Sat 24 Oct, Budapest. 8 artists: ALDES, BØĘRY, cassandrah and DUGASZ and 4 more. Techno and Industrial. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 24 Oct 2026 |
+| Venue | OFF Kultur |
+| City | Budapest |
+
+## Line-up
+
+- ALDES (2)
+- BØĘRY
+- cassandrah
+- DUGASZ
+- GØBLIN
+- NØBLESSE
+- PARAPHER
+- VIK B
+
+*Source: [soundcheck](https://soundcheck.club/e/2514388-ostrom-x-unwind-pres-rebellion-hard-industrial-techno-at-off/)*

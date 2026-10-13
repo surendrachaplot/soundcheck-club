@@ -1,6 +1,6 @@
 # Omar Fayyad
 
-Omar Fayyad is a House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA, Tunisia on Fri, 27 Nov 2026.
+Omar Fayyad is a House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA, Tunisia on Fri, 27 Nov 2026.
 
 Omar Fayyad is a house artist based in Egypt, with 6 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Tanzania and 2 more. Often billed alongside Brawther, Daylomar and Zeina. Next up: TBA, Tunisia on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Omar Fayyad is a house artist based in Egypt, with 6 gigs on soundcheck across A
 
 Brawther, Daylomar, Zeina
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omarfayyad/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omarfayyad/)*

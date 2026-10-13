@@ -1,6 +1,6 @@
 # Neue Grafik
 
-Neue Grafik is a Jazz and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Club Cheek, London on Sun, 1 Nov 2026.
+Neue Grafik is a Jazz and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Club Cheek, London on Sun, 1 Nov 2026.
 
 Neue Grafik is a jazz and broken beat artist based in United Kingdom, with 19 gigs on soundcheck across Amsterdam, Cologne, Düsseldorf and London and 3 more. Often billed alongside limi, DJ Programma and Entek. Next up: Club Cheek, London on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Neue Grafik is a jazz and broken beat artist based in United Kingdom, with 19 gi
 
 limi, DJ Programma, Entek
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neuegrafik-ca/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neuegrafik-ca/)*

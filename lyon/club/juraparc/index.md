@@ -1,6 +1,6 @@
 # Juraparc
 
-Juraparc is a music venue in Lyon with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "Lons Electronic Festival" on Sat, 24 Oct 2026.
+Juraparc is a music venue in Lyon with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "Lons Electronic Festival" on Sat, 24 Oct 2026.
 
 Juraparc is a music venue in Lyon listed on soundcheck. 1 upcoming gig, with line-ups including Gabry Ponte. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Juraparc is a music venue in Lyon listed on soundcheck. 1 upcoming gig, with lin
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Lons Electronic Festival | Gabry Ponte |
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/juraparc/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/juraparc/)*

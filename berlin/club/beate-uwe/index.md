@@ -1,8 +1,8 @@
 # Beate Uwe
 
-Beate Uwe is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "BEATE HAT SEHNSUCHT" on Fri, 16 Oct 2026.
+Beate Uwe is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "BEATE HAT SEHNSUCHT" on Fri, 16 Oct 2026.
 
-Beate Uwe is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including AKA AKA, ALXJ, ARSENAL and Cardi-O and 2 more. See dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
+Beate Uwe is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including AKA AKA, ALXJ, ANXA and ARSENAL and 2 more. See dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Beate Uwe is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, wit
 
 Schillingstr. 31, 10179, Berlin, Berlin
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*

@@ -1,6 +1,6 @@
 # Sémaé
 
-Sémaé is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Hen's Teeth, Dublin on Sat, 17 Oct 2026.
+Sémaé is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Hen's Teeth, Dublin on Sat, 17 Oct 2026.
 
 Sémaé is a techno and house artist based in France, with 27 gigs on soundcheck across Dublin. Often billed alongside Fran Ortu, Cailín and Phil Bass. Next up: Hen's Teeth, Dublin on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Sémaé is a techno and house artist based in France, with 27 gigs on soundcheck
 
 Fran Ortu, Cailín, Phil Bass
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/semae/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/semae/)*

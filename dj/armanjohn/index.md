@@ -1,6 +1,6 @@
 # Arman John
 
-Arman John is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Livingroom, Lower-saxony on Sat, 17 Oct 2026.
+Arman John is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Livingroom, Lower-saxony on Sat, 17 Oct 2026.
 
 Arman John is a trance and techno artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Antwerp, Basel and Belfast and 30 more. Often billed alongside Kø:lab, BNZN and Cara Elizabeth. Next up: The Livingroom, Lower Saxony on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Arman John is a trance and techno artist based in Germany, with 114 gigs on soun
 
 Kø:lab, BNZN, Cara Elizabeth
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armanjohn/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armanjohn/)*

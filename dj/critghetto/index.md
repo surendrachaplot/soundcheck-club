@@ -1,6 +1,6 @@
 # critghetto
 
-critghetto is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Golden Pudel Club, Hamburg on Sat, 17 Oct 2026.
+critghetto is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Golden Pudel Club, Hamburg on Sat, 17 Oct 2026.
 
 critghetto is a house and electronica artist, with 11 gigs on soundcheck across Hamburg and Munich. Often billed alongside Bombe, Acid Pablo and Aii PS. Next up: Golden Pudel Club, Hamburg on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ critghetto is a house and electronica artist, with 11 gigs on soundcheck across 
 
 Bombe, Acid Pablo, Aii PS
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/critghetto/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/critghetto/)*

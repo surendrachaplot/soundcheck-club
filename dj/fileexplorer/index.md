@@ -1,6 +1,6 @@
 # File Explorer
 
-File Explorer is a Jungle and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Wigwam, Shanghai on Fri, 23 Oct 2026.
+File Explorer is a Jungle and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Wigwam, Shanghai on Fri, 23 Oct 2026.
 
 File Explorer is a jungle and trance artist based in Australia, with 3 gigs on soundcheck across Osaka, Shanghai and Shenzhen. Often billed alongside ADEAD, D-Grade and Daura. Next up: Wigwam, Shanghai on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ File Explorer is a jungle and trance artist based in Australia, with 3 gigs on s
 
 ADEAD, D-Grade, Daura
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fileexplorer/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fileexplorer/)*

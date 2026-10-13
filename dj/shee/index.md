@@ -1,6 +1,6 @@
 # SHEE
 
-SHEE is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 16 Oct 2026.
+SHEE is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 16 Oct 2026.
 
 SHEE is a house and techno artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Belfast, Berlin and Brighton and 18 more. Often billed alongside Prospa, salute and DJ Heartstring. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ SHEE is a house and techno artist based in United Kingdom, with 56 gigs on sound
 
 Prospa, salute, DJ Heartstring
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shee/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shee/)*

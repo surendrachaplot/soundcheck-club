@@ -1,6 +1,6 @@
 # Ejeca
 
-Ejeca is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at block., Dublin on Sat, 17 Oct 2026.
+Ejeca is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at block., Dublin on Sat, 17 Oct 2026.
 
 Ejeca is a house and techno artist based in United Kingdom, with 19 gigs on soundcheck across Belfast, Brighton, Bristol and Dublin and 5 more. Often billed alongside Trance Wax, ACA (YU) and Alex Culross. Next up: block., Dublin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Ejeca is a house and techno artist based in United Kingdom, with 19 gigs on soun
 
 Trance Wax, ACA (YU), Alex Culross
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ejeca/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ejeca/)*

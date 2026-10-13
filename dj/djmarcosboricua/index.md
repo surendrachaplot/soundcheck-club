@@ -1,6 +1,6 @@
 # DJ Marcos Boricua
 
-DJ Marcos Boricua is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Under Bridge Madrid, Madrid on Sat, 17 Oct 2026.
+DJ Marcos Boricua is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Under Bridge Madrid, Madrid on Sat, 17 Oct 2026.
 
 DJ Marcos Boricua is an electronic artist, with 13 gigs on soundcheck across Madrid. Often billed alongside Marcos Boricua, Irene Yago and Brisa Then. Next up: Under Bridge Madrid, Madrid on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ DJ Marcos Boricua is an electronic artist, with 13 gigs on soundcheck across Mad
 
 Marcos Boricua, Irene Yago, Brisa Then
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarcosboricua/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarcosboricua/)*

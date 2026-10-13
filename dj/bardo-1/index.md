@@ -1,6 +1,6 @@
 # Bardo (1)
 
-Bardo (1) is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA, Berlin on Sat, 24 Oct 2026.
+Bardo (1) is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA, Berlin on Sat, 24 Oct 2026.
 
 Bardo is a techno and ambient artist based in Spain, with 11 gigs on soundcheck across Amsterdam, Barcelona and Berlin. Often billed alongside Charlie Caves, Ousia Sound and Phalcon. Next up: TBA, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Bardo is a techno and ambient artist based in Spain, with 11 gigs on soundcheck 
 
 Charlie Caves, Ousia Sound, Phalcon
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bardo-1/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bardo-1/)*

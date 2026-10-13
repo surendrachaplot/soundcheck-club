@@ -1,6 +1,6 @@
 # Bárbara Lago
 
-Bárbara Lago is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Heat Club, Switzerland on Sat, 17 Oct 2026.
+Bárbara Lago is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Heat Club, Switzerland on Sat, 17 Oct 2026.
 
 Bárbara Lago is a techno and trance artist based in Spain, with 51 gigs on soundcheck across Amsterdam, Barcelona, Bogot and Budapest and 22 more. Often billed alongside Dexphase, Skryption and Daniella da Silva. Next up: TBA - Heat Club, Switzerland on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Bárbara Lago is a techno and trance artist based in Spain, with 51 gigs on soun
 
 Dexphase, Skryption, Daniella da Silva
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaralago/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaralago/)*

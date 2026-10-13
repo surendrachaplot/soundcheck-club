@@ -1,6 +1,6 @@
 # Kay Suzuki
 
-Kay Suzuki is a Jazz and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Club Cheek, London on Sun, 1 Nov 2026.
+Kay Suzuki is a Jazz and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Club Cheek, London on Sun, 1 Nov 2026.
 
 Kay Suzuki is a jazz and house artist based in United Kingdom, with 32 gigs on soundcheck across Athens, Berlin, Leeds and Liverpool and 5 more. Often billed alongside Nina Yamada, Tonydot and harrison guyett. Next up: Club Cheek, London on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Kay Suzuki is a jazz and house artist based in United Kingdom, with 32 gigs on s
 
 Nina Yamada, Tonydot, harrison guyett
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaysuzuki/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaysuzuki/)*

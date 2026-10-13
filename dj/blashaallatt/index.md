@@ -1,6 +1,6 @@
 # Blasha & Allatt
 
-Blasha & Allatt is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 16 Oct 2026.
+Blasha & Allatt is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 16 Oct 2026.
 
 Blasha & Allatt are a techno and house duo based in United Kingdom, with 289 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 53 more. Often billed alongside aalice, Steffi and Freddy K. Next up: Tokonoma Club, Frankfurt on Fri 16 Oct.
 
@@ -36,4 +36,4 @@ Blasha & Allatt are a techno and house duo based in United Kingdom, with 289 gig
 
 aalice, Steffi, Freddy K
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*

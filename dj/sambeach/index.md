@@ -1,6 +1,6 @@
 # Sam Beach
 
-Sam Beach is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Dalston Superstore, London on Thu, 22 Oct 2026.
+Sam Beach is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Dalston Superstore, London on Thu, 22 Oct 2026.
 
 Sam Beach is a house and tech house artist based in United Kingdom, with 49 gigs on soundcheck across Ibiza and London. Often billed alongside Nick Clev, Harry Dale and JAYDAA. Next up: Dalston Superstore, London on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Sam Beach is a house and tech house artist based in United Kingdom, with 49 gigs
 
 Nick Clev, Harry Dale, JAYDAA
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sambeach/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sambeach/)*

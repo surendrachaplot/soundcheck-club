@@ -1,6 +1,6 @@
 # Renceau
 
-Renceau is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 16 Oct 2026.
+Renceau is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 16 Oct 2026.
 
 Renceau is a house and garage artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam, Manchester and Rotterdam. Often billed alongside Luis Ripa, Milion and Silva Bumpa. Next up: Shelter Amsterdam, Amsterdam on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Renceau is a house and garage artist based in Netherlands, with 6 gigs on soundc
 
 Luis Ripa, Milion, Silva Bumpa
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renceau/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renceau/)*

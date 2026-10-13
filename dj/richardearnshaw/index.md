@@ -1,13 +1,14 @@
 # Richard Earnshaw
 
-Richard Earnshaw is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Sat, 24 Oct 2026.
+Richard Earnshaw is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Vic's Bar, Amsterdam on Fri, 23 Oct 2026.
 
-Richard Earnshaw is a house and disco artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Barcelona, London and Los Angeles and 1 more. Often billed alongside Steve Taylor, Bongo Ben and Viktor Olle. Next up: Grand Café Heineken Hoek, Amsterdam on Sat 24 Oct.
+Richard Earnshaw is a house and disco artist based in United Kingdom, with 19 gigs on soundcheck across Amsterdam, Barcelona, London and Los Angeles and 1 more. Often billed alongside Steve Taylor, Bongo Ben and Viktor Olle. Next up: Vic's Bar, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Vic's Bar | Amsterdam |
 | Sat, 24 Oct 2026 | Grand Café Heineken Hoek | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Richard Earnshaw is a house and disco artist based in United Kingdom, with 18 gi
 
 Steve Taylor, Bongo Ben, Viktor Olle
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richardearnshaw/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richardearnshaw/)*

@@ -1,6 +1,6 @@
 # ELYSIUM
 
-ELYSIUM is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Triangle, Osaka on Fri, 30 Oct 2026.
+ELYSIUM is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Triangle, Osaka on Fri, 30 Oct 2026.
 
 ELYSIUM is a techno and hardcore artist based in Latvia, with 46 gigs on soundcheck across Cologne, London, Los Angeles and New York City and 4 more. Often billed alongside maniken05, hitomori and ANGEDONIYA. Next up: Triangle, Osaka on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ ELYSIUM is a techno and hardcore artist based in Latvia, with 46 gigs on soundch
 
 maniken05, hitomori, ANGEDONIYA
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elysium/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elysium/)*

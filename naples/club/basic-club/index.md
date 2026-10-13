@@ -1,6 +1,6 @@
 # Basic Club
 
-Basic Club is a music venue in Naples with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "VESUVIO GROOVE • Kenny Larkin + Gabriele Russo, Fizya" on Fri, 16 Oct 2026.
+Basic Club is a music venue in Naples with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "VESUVIO GROOVE • Kenny Larkin + Gabriele Russo, Fizya" on Fri, 16 Oct 2026.
 
 Basic Club is a music venue in Naples listed on soundcheck. 7 upcoming gigs, with line-ups including Alessio Cristiano, Alfonso Mauro, Fizya and Gabriele Russo and 2 more. See dates, start times and who's playing. Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli.
 
@@ -20,4 +20,4 @@ Basic Club is a music venue in Naples listed on soundcheck. 7 upcoming gigs, wit
 
 Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli, Naples
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/basic-club/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/basic-club/)*

@@ -1,6 +1,6 @@
 # Osmosis Jones
 
-Osmosis Jones is a Garage and House artist with 13 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Bongo Club, Edinburgh on Thu, 15 Oct 2026.
+Osmosis Jones is a Garage and House artist with 13 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Bongo Club, Edinburgh on Thu, 15 Oct 2026.
 
 Osmosis Jones is a garage and house artist based in Australia, with 97 gigs on soundcheck across Amsterdam, Auckland, Australian Capital Territory and Bali and 29 more. Often billed alongside IsGwan, Prizefight and Faster Horses. Next up: The Bongo Club, Edinburgh on Thu 15 Oct.
 
@@ -36,4 +36,4 @@ Osmosis Jones is a garage and house artist based in Australia, with 97 gigs on s
 
 IsGwan, Prizefight, Faster Horses
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osmosisjones/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osmosisjones/)*

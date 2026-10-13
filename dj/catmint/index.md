@@ -1,6 +1,6 @@
 # CatMint
 
-CatMint is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at OXI, Berlin on Sat, 31 Oct 2026.
+CatMint is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at OXI, Berlin on Sat, 31 Oct 2026.
 
 CatMint is a techno and house artist based in Ukraine, with 24 gigs on soundcheck across Berlin, Brussels, Geneva and Helsinki and 2 more. Often billed alongside Reita D Russo, Tweeman and Nastya Muravyova. Next up: OXI, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ CatMint is a techno and house artist based in Ukraine, with 24 gigs on soundchec
 
 Reita D Russo, Tweeman, Nastya Muravyova
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catmint/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catmint/)*

@@ -1,6 +1,6 @@
 # Fred Simon
 
-Fred Simon is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Audioteca, Naples on Sat, 24 Oct 2026.
+Fred Simon is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Audioteca, Naples on Sat, 24 Oct 2026.
 
 Fred Simon is a house and funk / soul artist, with 7 gigs on soundcheck across Milan, Naples, Paris and Rome. Often billed alongside Lela Xein, Matt D (IT) and Mel C. Next up: Audioteca, Naples on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Fred Simon is a house and funk / soul artist, with 7 gigs on soundcheck across M
 
 Lela Xein, Matt D (IT), Mel C
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fredsimon/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fredsimon/)*

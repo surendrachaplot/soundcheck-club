@@ -1,6 +1,6 @@
 # Klubnacht + Afterhour at Golden Gate
 
-Klubnacht + Afterhour at Golden Gate on Fri 16 Oct, Berlin. 8 artists: Clovis, Delavas, Edgar Peng and Gladis and 4 more. See the line-up on soundcheck.
+Klubnacht + Afterhour at Golden Gate on Fri 16 Oct, Berlin. 8 artists: Alessia Ceruti, charli/e, Clovis and Delavas and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,13 +10,13 @@ Klubnacht + Afterhour at Golden Gate on Fri 16 Oct, Berlin. 8 artists: Clovis, D
 
 ## Line-up
 
+- Alessia Ceruti
+- charli/e
 - Clovis
 - Delavas
 - Edgar Peng
-- Gladis
 - MASA
 - RifRaf
-- Vanaenae
 - Vans Hellwirth
 
 *Source: [soundcheck](https://soundcheck.club/e/2556833-klubnacht-afterhour-at-golden-gate/)*

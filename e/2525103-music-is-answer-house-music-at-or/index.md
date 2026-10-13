@@ -1,6 +1,6 @@
 # MUSIC IS ANSWER — HOUSE MUSIC at or
 
-MUSIC IS ANSWER — HOUSE MUSIC at or on Sun 18 Oct, Tokyo. 6 artists: Anri, Ayantula, Gara and liberty (JP) and 2 more. House and Tech House. See the line-up on soundcheck.
+MUSIC IS ANSWER — HOUSE MUSIC at or on Sun 18 Oct, Tokyo. 5 artists: Ayantula, Gara, liberty (JP) and MASASHI and 1 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ MUSIC IS ANSWER — HOUSE MUSIC at or on Sun 18 Oct, Tokyo. 6 artists: Anri, Aya
 
 ## Line-up
 
-- Anri (2)
 - Ayantula
 - Gara
 - liberty (JP)

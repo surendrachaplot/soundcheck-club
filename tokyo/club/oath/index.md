@@ -1,6 +1,6 @@
 # Oath
 
-Oath is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "MOVE ムーブ" on Fri, 16 Oct 2026.
+Oath is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "MOVE ムーブ" on Fri, 16 Oct 2026.
 
 Oath is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including Al Jones, North 90, ThirstKid and yumes. See dates, start times and who's playing. 1-6-5-B1F Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan.
 
@@ -15,4 +15,4 @@ Oath is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-
 
 1-6-5-B1F Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan, Tokyo
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/oath/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/oath/)*

@@ -1,6 +1,6 @@
 # DJ Healthy
 
-DJ Healthy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Nyapi, Seoul on Fri, 16 Oct 2026.
+DJ Healthy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Nyapi, Seoul on Fri, 16 Oct 2026.
 
 DJ Healthy is a techno and house artist based in Japan, with 107 gigs on soundcheck across Bangkok, Dublin, Helsinki and Hong Kong and 11 more. Often billed alongside Amelia Holt, YELLOWUHURU and Chung. Next up: Nyapi, Seoul on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ DJ Healthy is a techno and house artist based in Japan, with 107 gigs on soundch
 
 Amelia Holt, YELLOWUHURU, Chung
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhealthy/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhealthy/)*

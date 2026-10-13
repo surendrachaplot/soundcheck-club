@@ -1,6 +1,6 @@
 # SYREETA
 
-SYREETA is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at UNLOCKED, London on Thu, 15 Oct 2026.
+SYREETA is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at UNLOCKED, London on Thu, 15 Oct 2026.
 
 SYREETA is a house and tech house artist based in United Kingdom, with 139 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 32 more. Often billed alongside Andrea Oliva, Loco Dice and Eats Everything. Next up: UNLOCKED, London on Thu 15 Oct.
 
@@ -33,4 +33,4 @@ SYREETA is a house and tech house artist based in United Kingdom, with 139 gigs 
 
 Andrea Oliva, Loco Dice, Eats Everything
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syreeta-uk/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syreeta-uk/)*

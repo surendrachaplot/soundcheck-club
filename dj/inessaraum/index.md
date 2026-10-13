@@ -1,6 +1,6 @@
 # Inessa Raum
 
-Inessa Raum is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at La Démesure, Paris on Sat, 17 Oct 2026.
+Inessa Raum is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at La Démesure, Paris on Sat, 17 Oct 2026.
 
 Inessa Raum is a minimal and house artist, with 11 gigs on soundcheck across Berlin, Bucharest, London and Paris. Often billed alongside DJ W!ld, Gauthier DM and Alisonn. Next up: La Démesure, Paris on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Inessa Raum is a minimal and house artist, with 11 gigs on soundcheck across Ber
 
 DJ W!ld, Gauthier DM, Alisonn
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inessaraum/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inessaraum/)*

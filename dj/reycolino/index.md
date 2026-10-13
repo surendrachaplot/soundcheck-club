@@ -1,8 +1,8 @@
 # Rey Colino
 
-Rey Colino is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Pllek, Amsterdam on Fri, 23 Oct 2026.
+Rey Colino is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Pllek, Amsterdam on Fri, 23 Oct 2026.
 
-Rey Colino is a techno and house artist based in Belgium, with 109 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 33 more. Often billed alongside Spray, Roza Terenzi and Eversines. Next up: Pllek, Amsterdam on Fri 23 Oct.
+Rey Colino is a techno and house artist based in Belgium, with 110 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 34 more. Often billed alongside Spray, Roza Terenzi and Eversines. Next up: Pllek, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Rey Colino is a techno and house artist based in Belgium, with 109 gigs on sound
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Pllek | Amsterdam |
 | Sun, 25 Oct 2026 | Skatecafe | Amsterdam |
+| Fri, 11 Dec 2026 | Mitsuki | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Rey Colino is a techno and house artist based in Belgium, with 109 gigs on sound
 
 Spray, Roza Terenzi, Eversines
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reycolino/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reycolino/)*

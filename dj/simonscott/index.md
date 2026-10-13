@@ -1,6 +1,6 @@
 # Simon Scott
 
-Simon Scott is a Downtempo and Ambient artist with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Art School, Glasgow on Thu, 15 Oct 2026.
+Simon Scott is a Downtempo and Ambient artist with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Art School, Glasgow on Thu, 15 Oct 2026.
 
 Simon Scott is a downtempo and ambient artist based in United Kingdom, with 126 gigs on soundcheck across Belgrade, Brighton, Glasgow and Leeds and 3 more. Often billed alongside Mike BC, Iration Steppas and Slacky [Space Ritual]. Next up: The Art School, Glasgow on Thu 15 Oct.
 
@@ -31,4 +31,4 @@ Simon Scott is a downtempo and ambient artist based in United Kingdom, with 126 
 
 Mike BC, Iration Steppas, Slacky [Space Ritual]
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonscott/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonscott/)*

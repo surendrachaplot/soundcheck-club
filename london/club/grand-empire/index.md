@@ -1,6 +1,6 @@
 # Grand Empire
 
-Grand Empire is a music venue in London with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Trick or Treat - London's Biggest Halloween Party - Everyone Free Before 12AM" on Sat, 31 Oct 2026.
+Grand Empire is a music venue in London with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Trick or Treat - London's Biggest Halloween Party - Everyone Free Before 12AM" on Sat, 31 Oct 2026.
 
 Grand Empire is a music venue in London listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. 108-110 Rushey Grn, London SE6 4HW.
 
@@ -17,4 +17,4 @@ Grand Empire is a music venue in London listed on soundcheck. 4 upcoming gigs. S
 
 108-110 Rushey Grn, London SE6 4HW, London
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/grand-empire/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/grand-empire/)*

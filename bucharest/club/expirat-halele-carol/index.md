@@ -1,6 +1,6 @@
 # Expirat Halele Carol
 
-Expirat Halele Carol is a music venue in Bucharest with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "B:pressure presents: DJ Hazard" on Thu, 5 Nov 2026.
+Expirat Halele Carol is a music venue in Bucharest with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "B:pressure presents: DJ Hazard" on Thu, 5 Nov 2026.
 
 Expirat Halele Carol is a music venue in Bucharest listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Hazard and Skeptical. See dates, start times and who's playing. Str. Constantin Istrati 1, 040542, Sector 4, Bucharest, Romania.
 
@@ -15,4 +15,4 @@ Expirat Halele Carol is a music venue in Bucharest listed on soundcheck. 2 upcom
 
 Str. Constantin Istrati 1, 040542, Sector 4, Bucharest, Romania, Bucharest
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/expirat-halele-carol/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/expirat-halele-carol/)*

@@ -1,6 +1,6 @@
 # Ilana Ariella
 
-Ilana Ariella is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Decibel, Chicago on Tue, 13 Oct 2026.
+Ilana Ariella is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Decibel, Chicago on Tue, 13 Oct 2026.
 
 Ilana Ariella is a house and deep house artist based in United States of America, with 42 gigs on soundcheck across Chicago. Often billed alongside Karl Almaria, Wyser and Duke Shin. Next up: Decibel, Chicago on Tue 13 Oct.
 
@@ -26,4 +26,4 @@ Ilana Ariella is a house and deep house artist based in United States of America
 
 Karl Almaria, Wyser, Duke Shin
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilanaariella/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilanaariella/)*

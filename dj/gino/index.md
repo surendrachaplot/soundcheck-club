@@ -1,15 +1,14 @@
 # Gino
 
-Gino is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at fabric, London on Fri, 23 Oct 2026.
+Gino is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at fabric, London on Fri, 23 Oct 2026.
 
-Gino is a drum & bass and techno artist based in United States of America, with 49 gigs on soundcheck across Amsterdam, Birmingham, Bristol and Chicago and 11 more. Often billed alongside Turno, Bryan Gee and Charlie Tee. Next up: fabric, London on Fri 23 Oct.
+Gino is a drum & bass and techno artist based in United States of America, with 48 gigs on soundcheck across Amsterdam, Birmingham, Bristol and Chicago and 11 more. Often billed alongside Turno, Bryan Gee and Charlie Tee. Next up: fabric, London on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | fabric | London |
-| Fri, 23 Oct 2026 | Signal | New York City |
 
 ## Recently played
 
@@ -26,4 +25,4 @@ Gino is a drum & bass and techno artist based in United States of America, with 
 
 Turno, Bryan Gee, Charlie Tee
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gino/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gino/)*

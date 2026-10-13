@@ -1,13 +1,14 @@
 # Kirollus
 
-Kirollus is a House and Disco artist with 11 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Pérola Negra Club, Porto on Sat, 24 Oct 2026.
+Kirollus is a House and Disco artist with 12 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Balagan Roma, Rome on Sat, 17 Oct 2026.
 
-Kirollus is a house and disco artist based in United Kingdom, with 153 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 38 more. Often billed alongside MiNNA, Tonno Disko and Dan Shake. Next up: Pérola Negra Club, Porto on Sat 24 Oct.
+Kirollus is a house and disco artist based in United Kingdom, with 154 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 38 more. Often billed alongside MiNNA, Tonno Disko and Dan Shake. Next up: Balagan Roma, Rome on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Balagan Roma | Rome |
 | Sat, 24 Oct 2026 | Pérola Negra Club | Porto |
 | Fri, 30 Oct 2026 | Elysia | Basel |
 | Sat, 31 Oct 2026 | La Paloma | Barcelona |
@@ -35,4 +36,4 @@ Kirollus is a house and disco artist based in United Kingdom, with 153 gigs on s
 
 MiNNA, Tonno Disko, Dan Shake
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirollus/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirollus/)*

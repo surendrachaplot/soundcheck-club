@@ -1,6 +1,6 @@
 # Copyhouse
 
-Copyhouse is a music venue in Osaka with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "BEYOND" on Sun, 18 Oct 2026.
+Copyhouse is a music venue in Osaka with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "BEYOND" on Sun, 18 Oct 2026.
 
 Copyhouse is a music venue in Osaka listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Copyhouse is a music venue in Osaka listed on soundcheck. 2 upcoming gigs. See d
 | Sun, 18 Oct 2026 | BEYOND |  |
 | Mon, 23 Nov 2026 | master kohta 'Mr.Maxmetal' release party |  |
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/copyhouse/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/copyhouse/)*

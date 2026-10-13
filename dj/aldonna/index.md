@@ -1,6 +1,6 @@
 # Aldonna
 
-Aldonna is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Radio Radio, Amsterdam on Fri, 16 Oct 2026.
+Aldonna is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Radio Radio, Amsterdam on Fri, 16 Oct 2026.
 
 Aldonna is a house and techno artist based in Australia, with 139 gigs on soundcheck across Amsterdam, Bali, Berlin and Brisbane and 27 more. Often billed alongside Tjade, D Stone and DAWS. Next up: Radio Radio, Amsterdam on Fri 16 Oct.
 
@@ -32,4 +32,4 @@ Aldonna is a house and techno artist based in Australia, with 139 gigs on soundc
 
 Tjade, D Stone, DAWS
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*

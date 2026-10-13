@@ -1,14 +1,15 @@
 # Lee Osborne
 
-Lee Osborne is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Standard Time, Toronto on Fri, 20 Nov 2026.
+Lee Osborne is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Standard Time, Toronto on Fri, 20 Nov 2026.
 
-Lee Osborne is a techno and electronica artist based in Canada, with 10 gigs on soundcheck across Toronto. Often billed alongside Ian Guthrie, Jeremy P. Caulfield and Bailey Ibbs. Next up: Standard Time, Toronto on Fri 20 Nov.
+Lee Osborne is a techno and electronica artist based in Canada, with 11 gigs on soundcheck across Toronto. Often billed alongside Jeremy P. Caulfield, Ian Guthrie and Bailey Ibbs. Next up: Standard Time, Toronto on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Standard Time | Toronto |
+| Sun, 27 Dec 2026 | Bsmt 254 | Toronto |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Lee Osborne is a techno and electronica artist based in Canada, with 10 gigs on 
 
 ## Shares bills with
 
-Ian Guthrie, Jeremy P. Caulfield, Bailey Ibbs
+Jeremy P. Caulfield, Ian Guthrie, Bailey Ibbs
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leeosborne/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leeosborne/)*

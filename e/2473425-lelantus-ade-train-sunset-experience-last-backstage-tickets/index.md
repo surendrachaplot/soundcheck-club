@@ -1,6 +1,6 @@
-# Lelantus ADE TRAIN - Sunset Experience (Last Backstage Tickets) at Amsterdam Central Station
+# Lelantus ADE TRAIN - Sunset Experience [LAST BACKSTAGE TICKETS] at Amsterdam Central Station
 
-Lelantus ADE TRAIN - Sunset Experience (Last Backstage Tickets) at Amsterdam Central Station on Fri 23 Oct, Amsterdam. 23 artists: Andrew Rayel, Black Box, DONT BLINK and Duvas and 19 more. House and Club. See the line-up on soundcheck.
+Lelantus ADE TRAIN - Sunset Experience [LAST BACKSTAGE TICKETS] at Amsterdam Central Station on Fri 23 Oct, Amsterdam. 23 artists: Andrew Rayel, Black Box, DONT BLINK and Duvas and 19 more. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

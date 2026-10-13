@@ -1,6 +1,6 @@
 # Aikatherina
 
-Aikatherina is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Gólya Presszó, Budapest on Fri, 13 Nov 2026.
+Aikatherina is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Gólya Presszó, Budapest on Fri, 13 Nov 2026.
 
 Aikatherina is a jungle and drum & bass artist based in Hungary, with 13 gigs on soundcheck across Budapest. Often billed alongside Benc, Mentalien and Akos V. Next up: Gólya Presszó, Budapest on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Aikatherina is a jungle and drum & bass artist based in Hungary, with 13 gigs on
 
 Benc, Mentalien, Akos V
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aikatherina/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aikatherina/)*

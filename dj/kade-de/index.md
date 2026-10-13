@@ -1,14 +1,14 @@
 # Ká (DE)
 
-Ká (DE) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Neukölln, Berlin on Sun, 18 Oct 2026.
+Ká (DE) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Location via Telegram Group, Berlin on Sun, 18 Oct 2026.
 
-Ká (DE) is a bass and techno artist based in Germany, with 33 gigs on soundcheck across Berlin, Brussels, Hamburg and Prague and 3 more. Often billed alongside INVERNO, Triqi and hripsime. Next up: TBA - Neukölln, Berlin on Sun 18 Oct.
+Ká (DE) is a bass and techno artist based in Germany, with 33 gigs on soundcheck across Berlin, Brussels, Hamburg and Prague and 3 more. Often billed alongside INVERNO, Triqi and hripsime. Next up: TBA - Location via Telegram Group, Berlin on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | TBA - Neukölln | Berlin |
+| Sun, 18 Oct 2026 | TBA - Location via Telegram Group | Berlin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Ká (DE) is a bass and techno artist based in Germany, with 33 gigs on soundchec
 
 INVERNO, Triqi, hripsime
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kade-de/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kade-de/)*

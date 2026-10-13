@@ -1,8 +1,8 @@
 # Ede
 
-Ede is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
+Ede is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
 
-Ede is a techno and house artist based in Germany, with 96 gigs on soundcheck across Amsterdam, Athens, Austria and Barcelona and 25 more. Often billed alongside Skatman, julës jay and JAMIIE. Next up: Onder Hans, Amsterdam on Thu 22 Oct.
+Ede is a techno and house artist based in Germany, with 97 gigs on soundcheck across Amsterdam, Athens, Austria and Barcelona and 25 more. Often billed alongside Skatman, julës jay and JAMIIE. Next up: Onder Hans, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ede is a techno and house artist based in Germany, with 96 gigs on soundcheck ac
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Onder Hans | Amsterdam |
 | Thu, 22 Oct 2026 | 50:Hertz Club Train | Amsterdam |
+| Sat, 24 Oct 2026 | Kowalski | Stuttgart |
 | Fri, 30 Oct 2026 | Frankhan Selectist | Istanbul |
 | Sat, 31 Oct 2026 | M 32 Restaurant | Austria |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
@@ -30,4 +31,4 @@ Ede is a techno and house artist based in Germany, with 96 gigs on soundcheck ac
 
 Skatman, julës jay, JAMIIE
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ede/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ede/)*

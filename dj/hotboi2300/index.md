@@ -1,6 +1,6 @@
 # HOTBOI2300
 
-HOTBOI2300 is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Helios37, Cologne on Fri, 16 Oct 2026.
+HOTBOI2300 is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Helios37, Cologne on Fri, 16 Oct 2026.
 
 HOTBOI2300 is a techno and trance artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 12 more. Often billed alongside Sabu!, The Jakob Sister and RaverPik. Next up: Helios37, Cologne on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ HOTBOI2300 is a techno and trance artist based in Germany, with 78 gigs on sound
 
 Sabu!, The Jakob Sister, RaverPik
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotboi2300/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotboi2300/)*

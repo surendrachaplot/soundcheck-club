@@ -1,14 +1,15 @@
 # Nigabba
 
-Nigabba is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Araña Club, Madrid on Sun, 18 Oct 2026.
+Nigabba is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Araña Club, Madrid on Sun, 18 Oct 2026.
 
-Nigabba is a techno and acid artist based in Spain, with 71 gigs on soundcheck across Ibiza and Madrid. Often billed alongside Pulpix, Nixy and Trenzark. Next up: Araña Club, Madrid on Sun 18 Oct.
+Nigabba is a techno and acid artist based in Spain, with 72 gigs on soundcheck across Ibiza and Madrid. Often billed alongside Pulpix, Nixy and Trenzark. Next up: Araña Club, Madrid on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 18 Oct 2026 | Araña Club | Madrid |
+| Wed, 28 Oct 2026 | Sala El Sol | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Nigabba is a techno and acid artist based in Spain, with 71 gigs on soundcheck a
 
 Pulpix, Nixy, Trenzark
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nigabba/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nigabba/)*

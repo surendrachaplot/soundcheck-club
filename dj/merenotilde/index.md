@@ -1,6 +1,6 @@
 # Mere Notilde
 
-Mere Notilde is a Experimental and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Zuzu, Boston on Tue, 13 Oct 2026.
+Mere Notilde is a Experimental and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Zuzu, Boston on Tue, 13 Oct 2026.
 
 Mere Notilde is an experimental and hardcore artist based in United States of America, with 8 gigs on soundcheck across Boston and Toronto. Often billed alongside destracshn, BRATATTACK and Chelita. Next up: Zuzu, Boston on Tue 13 Oct.
 
@@ -24,4 +24,4 @@ Mere Notilde is an experimental and hardcore artist based in United States of Am
 
 destracshn, BRATATTACK, Chelita
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merenotilde/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merenotilde/)*

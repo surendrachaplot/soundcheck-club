@@ -1,8 +1,8 @@
 # Maya Hacker
 
-Maya Hacker is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Sneaky Pete's, Edinburgh on Tue, 13 Oct 2026.
+Maya Hacker is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Sneaky Pete's, Edinburgh on Tue, 13 Oct 2026.
 
-Maya Hacker is a house and disco artist based in United Kingdom, with 16 gigs on soundcheck across Edinburgh. Often billed alongside Trucha, Hobbes and A Pavlo. Next up: Sneaky Pete's, Edinburgh on Tue 13 Oct.
+Maya Hacker is a house and disco artist based in United Kingdom, with 16 gigs on soundcheck across Edinburgh. Often billed alongside Hobbes, Trucha and A Pavlo. Next up: Sneaky Pete's, Edinburgh on Tue 13 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Maya Hacker is a house and disco artist based in United Kingdom, with 16 gigs on
 
 ## Shares bills with
 
-Trucha, Hobbes, A Pavlo
+Hobbes, Trucha, A Pavlo
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayahacker/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayahacker/)*

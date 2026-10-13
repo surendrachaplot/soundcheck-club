@@ -1,6 +1,6 @@
 # EMAN (FR)
 
-EMAN (FR) is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Faust, Seoul on Fri, 16 Oct 2026.
+EMAN (FR) is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Faust, Seoul on Fri, 16 Oct 2026.
 
 EMAN (FR) is a techno and minimal techno artist based in France, with 33 gigs on soundcheck across Berlin, Madrid, Miami and Montreal and 3 more. Often billed alongside François X, Isabel Soto and Kian Gast. Next up: Faust, Seoul on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ EMAN (FR) is a techno and minimal techno artist based in France, with 33 gigs on
 
 François X, Isabel Soto, Kian Gast
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eman-FR/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eman-FR/)*

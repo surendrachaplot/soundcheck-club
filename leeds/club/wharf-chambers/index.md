@@ -1,6 +1,6 @@
 # Wharf Chambers
 
-Wharf Chambers is a music venue in Leeds with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "SOLIS: Solidarity In Sound" on Fri, 16 Oct 2026.
+Wharf Chambers is a music venue in Leeds with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "SOLIS: Solidarity In Sound" on Fri, 16 Oct 2026.
 
 Wharf Chambers is a music venue in Leeds listed on soundcheck. 7 upcoming gigs, with line-ups including Ben Vince, Blood of Aza, Gary Gwadera and HEATHER BOA and 2 more. See dates, start times and who's playing. 23-25 Wharf Street, Leeds, LS2 7EQ, United Kingdom.
 
@@ -20,4 +20,4 @@ Wharf Chambers is a music venue in Leeds listed on soundcheck. 7 upcoming gigs, 
 
 23-25 Wharf Street, Leeds, LS2 7EQ, United Kingdom, Leeds
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/wharf-chambers/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/wharf-chambers/)*

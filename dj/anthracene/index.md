@@ -1,6 +1,6 @@
 # Anthracene
 
-Anthracene is a Club and R&B artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 17 Oct 2026.
+Anthracene is a Club and R&B artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 17 Oct 2026.
 
 Anthracene is a club and r&b artist based in Germany, with 17 gigs on soundcheck across Berlin. Often billed alongside Nyennea, Sugar Barbie and Warlord®. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Anthracene is a club and r&b artist based in Germany, with 17 gigs on soundcheck
 
 Nyennea, Sugar Barbie, Warlord®
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthracene/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthracene/)*

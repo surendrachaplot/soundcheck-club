@@ -1,6 +1,6 @@
 # Jesse G
 
-Jesse G is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at OHM, Berlin on Sat, 17 Oct 2026.
+Jesse G is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at OHM, Berlin on Sat, 17 Oct 2026.
 
 Jesse G is a techno and house artist based in Germany, with 106 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Brussels and 16 more. Often billed alongside Blasha & Allatt, Jasmín and Katy De Jesus. Next up: OHM, Berlin on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Jesse G is a techno and house artist based in Germany, with 106 gigs on soundche
 
 Blasha & Allatt, Jasmín, Katy De Jesus
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseg/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseg/)*

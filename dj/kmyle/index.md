@@ -1,6 +1,6 @@
 # Kmyle
 
-Kmyle is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA, Switzerland on Sat, 24 Oct 2026.
+Kmyle is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA, Switzerland on Sat, 24 Oct 2026.
 
 Kmyle is a techno and house artist based in France, with 52 gigs on soundcheck across Amsterdam, Berlin, Geneva and Lyon and 4 more. Often billed alongside Double Trouble, A.mo and Electric Rescue. Next up: TBA, Switzerland on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Kmyle is a techno and house artist based in France, with 52 gigs on soundcheck a
 
 Double Trouble (1), A.mo, Electric Rescue
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kmyle/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kmyle/)*

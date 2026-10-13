@@ -1,6 +1,6 @@
 # TaoFu
 
-TaoFu is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
+TaoFu is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
 
 TaoFu is a tech house and techno artist, with 6 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Seoul and 1 more. Often billed alongside Di Linh, Zwi and Anh Vy. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
 
@@ -22,4 +22,4 @@ TaoFu is a tech house and techno artist, with 6 gigs on soundcheck across Bangko
 
 Di Linh, Zwi, Anh Vy
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taofu/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taofu/)*

@@ -1,6 +1,6 @@
 # TBA - The Bow Club, Costanera
 
-TBA - The Bow Club, Costanera is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "Then, Elements, The Bow Club, Costanera Buenos Aires" on Fri, 16 Oct 2026.
+TBA - The Bow Club, Costanera is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "Then - Elements, The Bow ALLMusicParties" on Fri, 16 Oct 2026.
 
 TBA - The Bow Club, Costanera is a music venue in Buenos Aires listed on soundcheck. 1 upcoming gig, with line-ups including TH;EN. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ TBA - The Bow Club, Costanera is a music venue in Buenos Aires listed on soundch
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Then, Elements, The Bow Club, Costanera Buenos Aires | TH;EN |
+| Fri, 16 Oct 2026 | Then - Elements, The Bow ALLMusicParties | TH;EN |
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-the-bow-club-costanera/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-the-bow-club-costanera/)*

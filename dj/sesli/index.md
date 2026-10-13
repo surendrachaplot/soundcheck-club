@@ -1,6 +1,6 @@
 # Sesli
 
-Sesli is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA, Pittsburgh on Sat, 31 Oct 2026.
+Sesli is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA, Pittsburgh on Sat, 31 Oct 2026.
 
 Sesli is a techno and progressive house artist based in United States of America, with 7 gigs on soundcheck across New York City, Philadelphia and Pittsburgh. Often billed alongside Angelinkast, Omri B and Ben Arsenal. Next up: TBA, Pittsburgh on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Sesli is a techno and progressive house artist based in United States of America
 
 Angelinkast, Omri B, Ben Arsenal
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sesli/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sesli/)*

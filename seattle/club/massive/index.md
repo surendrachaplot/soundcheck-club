@@ -1,6 +1,6 @@
 # Massive
 
-Massive is a music venue in Seattle with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "TKVR presents: Nolid" on Thu, 15 Oct 2026.
+Massive is a music venue in Seattle with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "TKVR presents: Nolid" on Thu, 15 Oct 2026.
 
 Massive is a music venue in Seattle listed on soundcheck. 6 upcoming gigs, with line-ups including ACHAMA, Bimbo Hypnosis, estoc and Jacob Meehan and 2 more. See dates, start times and who's playing. 619 E Pine Street, Seattle, WA 98122.
 
@@ -19,4 +19,4 @@ Massive is a music venue in Seattle listed on soundcheck. 6 upcoming gigs, with 
 
 619 E Pine Street, Seattle, WA 98122, Seattle
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/massive/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/massive/)*

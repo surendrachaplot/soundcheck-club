@@ -1,14 +1,15 @@
 # Re.You
 
-Re.You is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Fri, 16 Oct 2026.
+Re.You is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Fri, 16 Oct 2026.
 
-Re.You is a house and techno artist based in Germany, with 45 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 19 more. Often billed alongside Belben, MAKII and ARODES. Next up: Do Not Sit On The Furniture, Miami on Fri 16 Oct.
+Re.You is a house and techno artist based in Germany, with 46 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 19 more. Often billed alongside Belben, MAKII and ARODES. Next up: Do Not Sit On The Furniture, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Do Not Sit On The Furniture | Miami |
+| Sat, 24 Oct 2026 | Kowalski | Stuttgart |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Re.You is a house and techno artist based in Germany, with 45 gigs on soundcheck
 
 Belben, MAKII, ARODES
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/re.you/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/re.you/)*

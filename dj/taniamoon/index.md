@@ -1,6 +1,6 @@
 # Tania Moon
 
-Tania Moon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Palexpo - Hall 6, Geneva on Sat, 24 Oct 2026.
+Tania Moon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Palexpo - Hall 6, Geneva on Sat, 24 Oct 2026.
 
 Tania Moon is a techno and house artist based in Spain, with 9 gigs on soundcheck across Amsterdam, Geneva, Ibiza and Madrid and 1 more. Often billed alongside Oscar Colorado, Aktor Se and Ede. Next up: Palexpo - Hall 6, Geneva on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Tania Moon is a techno and house artist based in Spain, with 9 gigs on soundchec
 
 Oscar Colorado, Aktor Se, Ede
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taniamoon/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taniamoon/)*

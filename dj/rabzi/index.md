@@ -1,6 +1,6 @@
 # Rabzi
 
-Rabzi is a House and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Bar Datcha, Montreal on Fri, 16 Oct 2026.
+Rabzi is a House and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Bar Datcha, Montreal on Fri, 16 Oct 2026.
 
 Rabzi is a house and trance artist based in Turkey, with 57 gigs on soundcheck across Istanbul, London, Montreal and Toronto. Often billed alongside 99hp, Ficilio and Milch. Next up: Bar Datcha, Montreal on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Rabzi is a house and trance artist based in Turkey, with 57 gigs on soundcheck a
 
 99hp, Ficilio, Milch (1)
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rabzi/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rabzi/)*

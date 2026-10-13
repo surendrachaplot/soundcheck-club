@@ -1,6 +1,6 @@
 # Roulita
 
-Roulita is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Bien Public, Bordeaux on Sat, 17 Oct 2026.
+Roulita is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Bien Public, Bordeaux on Sat, 17 Oct 2026.
 
 Roulita is a techno and trance artist based in France, with 39 gigs on soundcheck across Berlin, Bordeaux, Brussels and Lyon and 4 more. Often billed alongside Adiel, Litoshka and Olivia Mendez. Next up: Bien Public, Bordeaux on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Roulita is a techno and trance artist based in France, with 39 gigs on soundchec
 
 Adiel, Litoshka, Olivia Mendez
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roulita/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roulita/)*

@@ -1,6 +1,6 @@
 # suciopath
 
-suciopath is a House and IDM artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Mood Ring, New York City on Sat, 24 Oct 2026.
+suciopath is a House and IDM artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Mood Ring, New York City on Sat, 24 Oct 2026.
 
 suciopath is a house and idm artist based in United States of America, with 11 gigs on soundcheck across New York City and Toronto. Often billed alongside LIONESSA, PUFF and maiiii. Next up: Mood Ring, New York City on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ suciopath is a house and idm artist based in United States of America, with 11 g
 
 LIONESSA, PUFF, maiiii
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suciopath/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suciopath/)*

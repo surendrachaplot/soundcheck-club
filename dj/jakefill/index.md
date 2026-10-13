@@ -1,6 +1,6 @@
 # Jake Fill
 
-Jake Fill is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Willa, Poland on Fri, 16 Oct 2026.
+Jake Fill is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Willa, Poland on Fri, 16 Oct 2026.
 
 Jake Fill is a techno and industrial artist, with 7 gigs on soundcheck across Bucharest, Krakow, Poland and Poznan and 1 more. Often billed alongside Aithō, MARTINEZ0 and SCHELLT. Next up: Willa, Poland on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Jake Fill is a techno and industrial artist, with 7 gigs on soundcheck across Bu
 
 Aithō, MARTINEZ0, SCHELLT
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakefill/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakefill/)*

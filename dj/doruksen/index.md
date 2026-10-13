@@ -1,6 +1,6 @@
 # Doruksen
 
-Doruksen is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at E1, London on Fri, 16 Oct 2026.
+Doruksen is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at E1, London on Fri, 16 Oct 2026.
 
 Doruksen is a techno and hardcore artist based in Cyprus, with 109 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 39 more. Often billed alongside Raxeller, Cloudy and Jan Vercauteren. Next up: E1, London on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Doruksen is a techno and hardcore artist based in Cyprus, with 109 gigs on sound
 
 Raxeller, Cloudy, Jan Vercauteren
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doruksen/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doruksen/)*

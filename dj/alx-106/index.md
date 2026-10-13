@@ -1,13 +1,14 @@
 # ALX-106
 
-ALX-106 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Coaxial, Los Angeles on Sat, 24 Oct 2026.
+ALX-106 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Location With Ticket, Denver on Thu, 15 Oct 2026.
 
-ALX-106 is a techno and house artist based in United States of America, with 22 gigs on soundcheck across Amsterdam, Berlin, Bristol and Chicago and 5 more. Often billed alongside Trovarsi, SURCO and Cuckoo. Next up: Coaxial, Los Angeles on Sat 24 Oct.
+ALX-106 is a techno and house artist based in United States of America, with 23 gigs on soundcheck across Amsterdam, Berlin, Bristol and Chicago and 5 more. Often billed alongside Trovarsi, SURCO and Cuckoo. Next up: TBA - Location With Ticket, Denver on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 15 Oct 2026 | TBA - Location With Ticket | Denver |
 | Sat, 24 Oct 2026 | Coaxial | Los Angeles |
 
 ## Recently played
@@ -25,4 +26,4 @@ ALX-106 is a techno and house artist based in United States of America, with 22 
 
 Trovarsi, SURCO, Cuckoo
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alx-106/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alx-106/)*

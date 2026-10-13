@@ -1,6 +1,6 @@
 # Tory Stiletto
 
-Tory Stiletto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Industry City, New York City on Fri, 30 Oct 2026.
+Tory Stiletto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Industry City, New York City on Fri, 30 Oct 2026.
 
 Tory Stiletto is a house and techno artist based in United States of America, with 26 gigs on soundcheck across New York City and Paris. Often billed alongside Griffin Maxwell Brooks, Michael Magnan and Amber Valentine. Next up: Industry City, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Tory Stiletto is a house and techno artist based in United States of America, wi
 
 Griffin Maxwell Brooks, Michael Magnan, Amber Valentine
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torystiletto/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torystiletto/)*

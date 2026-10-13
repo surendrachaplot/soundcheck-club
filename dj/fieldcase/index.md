@@ -1,6 +1,6 @@
 # Field Case
 
-Field Case is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The Love Inn, Bristol on Fri, 20 Nov 2026.
+Field Case is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The Love Inn, Bristol on Fri, 20 Nov 2026.
 
 Field Case is a techno and experimental artist based in United Kingdom, with 11 gigs on soundcheck across Bristol and London. Often billed alongside Ceegal, Livid (UK) and Nanzhen Yang. Next up: The Love Inn, Bristol on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Field Case is a techno and experimental artist based in United Kingdom, with 11 
 
 Ceegal, Livid (UK), Nanzhen Yang
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fieldcase/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fieldcase/)*

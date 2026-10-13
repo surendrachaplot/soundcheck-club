@@ -1,14 +1,15 @@
 # Sleepy Jean
 
-Sleepy Jean is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Loft, Manchester on Fri, 16 Oct 2026.
+Sleepy Jean is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Loft, Manchester on Fri, 16 Oct 2026.
 
-Sleepy Jean is a house and electro artist based in United Kingdom, with 36 gigs on soundcheck across Berlin, Birmingham, Brighton and Leeds and 2 more. Often billed alongside TSUNIMAN, Touré and A For Alpha. Next up: The Loft, Manchester on Fri 16 Oct.
+Sleepy Jean is a house and electro artist based in United Kingdom, with 37 gigs on soundcheck across Berlin, Birmingham, Brighton and Leeds and 2 more. Often billed alongside TSUNIMAN, Touré and A For Alpha. Next up: The Loft, Manchester on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | The Loft | Manchester |
+| Sat, 14 Nov 2026 | Avalon Cafe Bermondsey | London |
 | Fri, 11 Dec 2026 | The Glove That Fits | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Sleepy Jean is a house and electro artist based in United Kingdom, with 36 gigs 
 
 TSUNIMAN, Touré, A For Alpha
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyjean/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyjean/)*

@@ -1,6 +1,6 @@
 # RXVEGRL
 
-RXVEGRL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA, Glasgow on Fri, 30 Oct 2026.
+RXVEGRL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA, Glasgow on Fri, 30 Oct 2026.
 
 RXVEGRL is a techno and house artist based in United Kingdom, with 6 gigs on soundcheck across Glasgow. Often billed alongside 4KitSake, Angel Cake and Joe Morrison. Next up: TBA, Glasgow on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ RXVEGRL is a techno and house artist based in United Kingdom, with 6 gigs on sou
 
 4KitSake, Angel Cake, Joe Morrison
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rxvegrl/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rxvegrl/)*

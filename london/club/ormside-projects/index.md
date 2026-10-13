@@ -1,6 +1,6 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 14 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "CLUB YEKE: Tash LC – All Night Long" on Fri, 16 Oct 2026.
+Ormside Projects is a music venue in London with 14 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "CLUB YEKE: Tash LC – All Night Long" on Fri, 16 Oct 2026.
 
 Ormside Projects is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Ab.Diablo, Appleblim, Beatrice M. and Buckley (UK) and 2 more. See dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
@@ -23,4 +23,4 @@ Ormside Projects is a music venue in London listed on soundcheck. 14 upcoming gi
 
 32 Ormside St, London SE15 1TR, UK, London
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*

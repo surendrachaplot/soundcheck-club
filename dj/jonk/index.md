@@ -1,14 +1,15 @@
 # Jon K
 
-Jon K is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at The White Hotel, Manchester on Sat, 7 Nov 2026.
+Jon K is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The White Hotel, Manchester on Sat, 7 Nov 2026.
 
-Jon K is a techno and bass artist based in United Kingdom, with 82 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside Elle Andrews, Annabel Fraser and Conrad Pack. Next up: The White Hotel, Manchester on Sat 7 Nov.
+Jon K is a techno and bass artist based in United Kingdom, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside Elle Andrews, Annabel Fraser and Conrad Pack. Next up: The White Hotel, Manchester on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | The White Hotel | Manchester |
+| Sat, 5 Dec 2026 | M.O.T | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Jon K is a techno and bass artist based in United Kingdom, with 82 gigs on sound
 
 Elle Andrews, Annabel Fraser, Conrad Pack
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonk/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonk/)*

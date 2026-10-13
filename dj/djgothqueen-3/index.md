@@ -1,14 +1,15 @@
 # Djgothqueen (3)
 
-Djgothqueen (3) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 16 Nov 2026.
+Djgothqueen (3) is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 16 Nov 2026.
 
-Djgothqueen is a techno and industrial artist based in United States of America, with 14 gigs on soundcheck across New York City. Often billed alongside Djgothqueen, Rapture and CRYFXB. Next up: Bossa Nova Civic Club, New York City on Mon 16 Nov.
+Djgothqueen is a techno and industrial artist based in United States of America, with 15 gigs on soundcheck across New York City. Often billed alongside Djgothqueen, Rapture and CRYFXB. Next up: Bossa Nova Civic Club, New York City on Mon 16 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 16 Nov 2026 | Bossa Nova Civic Club | New York City |
+| Fri, 20 Nov 2026 | Eden | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Djgothqueen is a techno and industrial artist based in United States of America,
 
 Djgothqueen, Rapture, CRYFXB
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgothqueen-3/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgothqueen-3/)*

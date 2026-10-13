@@ -1,6 +1,6 @@
 # KICKS
 
-KICKS is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Karmen Camina, Strasbourg on Thu, 22 Oct 2026.
+KICKS is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Karmen Camina, Strasbourg on Thu, 22 Oct 2026.
 
 KICKS is a house and funk / soul artist, with 5 gigs on soundcheck across Paris and Strasbourg. Often billed alongside Gunnter, Innershades and Ordinaire Records. Next up: Karmen Camina, Strasbourg on Thu 22 Oct.
 
@@ -21,4 +21,4 @@ KICKS is a house and funk / soul artist, with 5 gigs on soundcheck across Paris 
 
 Gunnter, Innershades, Ordinaire Records
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kicks/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kicks/)*

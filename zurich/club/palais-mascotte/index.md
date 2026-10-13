@@ -1,6 +1,6 @@
 # Palais Mascotte
 
-Palais Mascotte is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "PALAIS MEETS PATCHWORK: Ge-ology | Sassy J" on Fri, 16 Oct 2026.
+Palais Mascotte is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "PALAIS MEETS PATCHWORK: Ge-ology | Sassy J" on Fri, 16 Oct 2026.
 
 Palais Mascotte is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, with line-ups including Flo Real, Ge-ology, Moodymann and Sassy J. See dates, start times and who's playing. Theaterstrasse 10, 8001 Zürich.
 
@@ -15,4 +15,4 @@ Palais Mascotte is a music venue in Zurich listed on soundcheck. 2 upcoming gigs
 
 Theaterstrasse 10, 8001 Zürich, Zurich
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/palais-mascotte/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/palais-mascotte/)*

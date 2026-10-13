@@ -1,6 +1,6 @@
 # Marco Strous
 
-Marco Strous is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Bsmnt, Boston on Sat, 17 Oct 2026.
+Marco Strous is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Bsmnt, Boston on Sat, 17 Oct 2026.
 
 Marco Strous is a tech house and house artist based in Portugal, with 42 gigs on soundcheck across Austin, Boston, Chicago and Houston and 14 more. Often billed alongside Chris Lake, MPH and Jackie Hollander. Next up: Bsmnt, Boston on Sat 17 Oct.
 
@@ -30,4 +30,4 @@ Marco Strous is a tech house and house artist based in Portugal, with 42 gigs on
 
 Chris Lake, MPH (1), Jackie Hollander
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcostrous/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcostrous/)*

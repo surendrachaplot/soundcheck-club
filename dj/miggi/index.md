@@ -1,6 +1,6 @@
 # Miggi
 
-Miggi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at XOYO, London on Wed, 14 Oct 2026.
+Miggi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at XOYO, London on Wed, 14 Oct 2026.
 
 Miggi is a house and tech house artist based in Switzerland, with 5 gigs on soundcheck across London. Often billed alongside Brands, Cristian Sirica and F*ckabouts. Next up: XOYO, London on Wed 14 Oct.
 
@@ -21,4 +21,4 @@ Miggi is a house and tech house artist based in Switzerland, with 5 gigs on soun
 
 Brands, Cristian Sirica, F*ckabouts
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miggi/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miggi/)*

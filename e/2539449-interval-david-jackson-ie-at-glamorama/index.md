@@ -1,6 +1,6 @@
 # Interval - David Jackson [IE] at Glamorama
 
-Interval - David Jackson [IE] at Glamorama on Fri 16 Oct, Melbourne. 1 artist: David Jackson. Techno and House. See the line-up on soundcheck.
+Interval - David Jackson [IE] at Glamorama on Fri 16 Oct, Melbourne. 2 artists: David Jackson and TiNTON. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Interval - David Jackson [IE] at Glamorama on Fri 16 Oct, Melbourne. 1 artist: D
 ## Line-up
 
 - David Jackson
+- TiNTON
 
 *Source: [soundcheck](https://soundcheck.club/e/2539449-interval-david-jackson-ie-at-glamorama/)*

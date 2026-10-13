@@ -1,6 +1,6 @@
 # The Door Club
 
-The Door Club is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "Funk You Label Night with PLASTIK FUNK" on Sat, 17 Oct 2026.
+The Door Club is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "Funk You Label Night with PLASTIK FUNK" on Sat, 17 Oct 2026.
 
 The Door Club is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Joachimsthaler Str. 25, Berlin, Germany.
 
@@ -14,4 +14,4 @@ The Door Club is a music venue in Berlin listed on soundcheck. 1 upcoming gig. S
 
 Joachimsthaler Str. 25, Berlin, Germany, Berlin
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-door-club/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-door-club/)*

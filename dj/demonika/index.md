@@ -1,6 +1,6 @@
 # Demonika
 
-Demonika is a Techno and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Macadam, Nantes on Sat, 17 Oct 2026.
+Demonika is a Techno and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Macadam, Nantes on Sat, 17 Oct 2026.
 
 Demonika is a techno and disco artist based in Czech Republic, with 72 gigs on soundcheck across Berlin, Nantes and Prague. Often billed alongside Shurigen, SJ Yellow and Raphael Kosmos. Next up: Macadam, Nantes on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Demonika is a techno and disco artist based in Czech Republic, with 72 gigs on s
 
 Shurigen, SJ Yellow, Raphael Kosmos
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demonika/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demonika/)*

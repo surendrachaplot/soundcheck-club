@@ -1,8 +1,8 @@
 # Grace Sands
 
-Grace Sands is a House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at public records, New York City on Sat, 17 Oct 2026.
+Grace Sands is a House and Deep House artist with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at public records, New York City on Sat, 17 Oct 2026.
 
-Grace Sands is a house and deep house artist based in United Kingdom, with 150 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Roi Perez, Stuart Patterson and Hannah Holland. Next up: public records, New York City on Sat 17 Oct.
+Grace Sands is a house and deep house artist based in United Kingdom, with 151 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Roi Perez, Stuart Patterson and Hannah Holland. Next up: public records, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Grace Sands is a house and deep house artist based in United Kingdom, with 150 g
 | Thu, 29 Oct 2026 | Amber's | Manchester |
 | Sat, 31 Oct 2026 | Unit 58 | London |
 | Sat, 31 Oct 2026 | NUMBER 90 LONDON | London |
+| Thu, 12 Nov 2026 | Dalston Superstore | London |
 | Thu, 19 Nov 2026 | Movers | Nottingham |
 | Fri, 1 Jan 2027 | The Light Bar | London |
 
@@ -31,4 +32,4 @@ Grace Sands is a house and deep house artist based in United Kingdom, with 150 g
 
 Roi Perez, Stuart Patterson, Hannah Holland
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gracesands/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gracesands/)*

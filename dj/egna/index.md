@@ -1,8 +1,8 @@
 # Egna
 
-Egna is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at La Java, Paris on Thu, 15 Oct 2026.
+Egna is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at La Java, Paris on Thu, 15 Oct 2026.
 
-Egna is a techno and trance artist based in France, with 72 gigs on soundcheck across Antwerp, Bordeaux, Brussels and Cologne and 5 more. Often billed alongside Erna (FR), Corbeille Dallas and Sina XX. Next up: La Java, Paris on Thu 15 Oct.
+Egna is a techno and house artist based in France, with 73 gigs on soundcheck across Antwerp, Bordeaux, Brussels and Cologne and 5 more. Often billed alongside Erna (FR), Corbeille Dallas and Sina XX. Next up: La Java, Paris on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Egna is a techno and trance artist based in France, with 72 gigs on soundcheck a
 | Thu, 15 Oct 2026 | La Java | Paris |
 | Sat, 17 Oct 2026 | ASIAT Park | Brussels |
 | Thu, 5 Nov 2026 | Base Sous-Marine de Bordeaux | Bordeaux |
+| Sat, 19 Dec 2026 | fi | Cologne |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Egna is a techno and trance artist based in France, with 72 gigs on soundcheck a
 
 Erna (FR), Corbeille Dallas, Sina XX
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/egna/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/egna/)*

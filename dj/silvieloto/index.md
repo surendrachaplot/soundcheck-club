@@ -1,14 +1,13 @@
 # Silvie Loto
 
-Silvie Loto is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at TBA - Estadio Nacional, Ezeiza, Buenos Aires on Sun, 11 Oct 2026.
+Silvie Loto is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Silvie Loto is a house and tech house artist based in Italy, with 89 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 31 more. Often billed alongside PAWSA, Dennis Cruz and Jamie Jones. Next up: TBA - Estadio Nacional, Ezeiza, Buenos Aires on Sun 11 Oct.
+Silvie Loto is a house and tech house artist based in Italy, with 89 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 31 more. Often billed alongside PAWSA, Dennis Cruz and Jamie Jones. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | TBA - Estadio Nacional, Ezeiza | Buenos Aires |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 17 Oct 2026 | Floyd | Miami |
 | Fri, 30 Oct 2026 | Gold Bar Hangar | California |
@@ -30,4 +29,4 @@ Silvie Loto is a house and tech house artist based in Italy, with 89 gigs on sou
 
 PAWSA, Dennis Cruz, Jamie Jones
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silvieloto/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silvieloto/)*

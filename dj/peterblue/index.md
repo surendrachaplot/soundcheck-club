@@ -1,6 +1,6 @@
 # PETERBLUE
 
-PETERBLUE is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Sonora Bordeaux, Bordeaux on Fri, 16 Oct 2026.
+PETERBLUE is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Sonora Bordeaux, Bordeaux on Fri, 16 Oct 2026.
 
 PETERBLUE is a techno and trance artist based in Colombia, with 72 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 34 more. Often billed alongside Noise Mafia, Adrian Mills and Afem Syko. Next up: Sonora Bordeaux, Bordeaux on Fri 16 Oct.
 
@@ -33,4 +33,4 @@ PETERBLUE is a techno and trance artist based in Colombia, with 72 gigs on sound
 
 Noise Mafia, Adrian Mills, Afem Syko
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterblue/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterblue/)*

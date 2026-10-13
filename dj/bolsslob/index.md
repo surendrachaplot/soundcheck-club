@@ -1,6 +1,6 @@
 # BoLs/sLoB
 
-BoLs/sLoB is a Hardcore and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Altenburg 1964, Prague on Sat, 24 Oct 2026.
+BoLs/sLoB is a Hardcore and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Altenburg 1964, Prague on Sat, 24 Oct 2026.
 
 BoLs/sLoB is a hardcore and experimental artist based in Czech Republic, with 22 gigs on soundcheck across Berlin, London and Prague. Often billed alongside DJ GHEPARD, Wojownik and gmaail. Next up: Altenburg 1964, Prague on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ BoLs/sLoB is a hardcore and experimental artist based in Czech Republic, with 22
 
 DJ GHEPARD, Wojownik, gmaail
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bolsslob/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bolsslob/)*

@@ -1,6 +1,6 @@
 # Carlos Pérez
 
-Carlos Pérez is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Ephik Club, North on Fri, 16 Oct 2026.
+Carlos Pérez is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Ephik Club, North on Fri, 16 Oct 2026.
 
 Carlos Pérez is a techno and tech house artist based in Spain, with 19 gigs on soundcheck across Amsterdam, Barcelona, Berlin and London and 4 more. Often billed alongside Lino Fuso, K-Style and Cambric. Next up: Ephik Club, North on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Carlos Pérez is a techno and tech house artist based in Spain, with 19 gigs on 
 
 Lino Fuso, K-Style, Cambric
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosperez-es/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosperez-es/)*

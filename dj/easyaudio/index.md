@@ -1,6 +1,6 @@
 # Easy Audio
 
-Easy Audio is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at underiolo, Warsaw on Fri, 16 Oct 2026.
+Easy Audio is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at underiolo, Warsaw on Fri, 16 Oct 2026.
 
 Easy Audio is a house and minimal artist based in Poland, with 71 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Schmeltzer, Valdemar ST and bart ender. Next up: underiolo, Warsaw on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Easy Audio is a house and minimal artist based in Poland, with 71 gigs on soundc
 
 Schmeltzer, Valdemar ST, bart ender
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/easyaudio/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/easyaudio/)*

@@ -1,6 +1,6 @@
 # Derrick May
 
-Derrick May is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Kult, Belgrade on Fri, 16 Oct 2026.
+Derrick May is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Kult, Belgrade on Fri, 16 Oct 2026.
 
 Derrick May is a techno and house artist based in United States of America, with 26 gigs on soundcheck across Barcelona, Belgrade, Detroit and Lyon and 8 more. Often billed alongside Brunson, D-Wynn and Juan Atkins. Next up: Kult, Belgrade on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Derrick May is a techno and house artist based in United States of America, with
 
 Brunson, D-Wynn, Juan Atkins
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickmay/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickmay/)*

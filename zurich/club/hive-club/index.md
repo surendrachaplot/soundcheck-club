@@ -1,6 +1,6 @@
 # Hive Club
 
-Hive Club is a music venue in Zurich with 10 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "LS97" on Fri, 16 Oct 2026.
+Hive Club is a music venue in Zurich with 10 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "LS97" on Fri, 16 Oct 2026.
 
 Hive Club is a music venue in Zurich listed on soundcheck. 10 upcoming gigs, with line-ups including 1luu, CHIEF TORKEL, Dekerim and Dora Dox and 2 more. See dates, start times and who's playing. Geroldstrasse 5; 8005, Zurich; Switzerland.
 
@@ -23,4 +23,4 @@ Hive Club is a music venue in Zurich listed on soundcheck. 10 upcoming gigs, wit
 
 Geroldstrasse 5; 8005, Zurich; Switzerland, Zurich
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*

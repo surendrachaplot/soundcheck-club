@@ -1,6 +1,6 @@
 # Marie Malarie
 
-Marie Malarie is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Ballroom at Palais, London on Sat, 17 Oct 2026.
+Marie Malarie is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Ballroom at Palais, London on Sat, 17 Oct 2026.
 
 Marie Malarie is a house and techno artist based in United Kingdom, with 131 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 31 more. Often billed alongside Byron Yeates, FAFF and Angel D'lite. Next up: Ballroom at Palais, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Marie Malarie is a house and techno artist based in United Kingdom, with 131 gig
 
 Byron Yeates, FAFF, Angel D'lite
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malaria/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malaria/)*

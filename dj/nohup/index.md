@@ -1,6 +1,6 @@
 # 'nohup'
 
-'nohup' is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 17 Oct 2026.
+'nohup' is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 17 Oct 2026.
 
 'nohup' is a house and techno artist based in United States of America, with 17 gigs on soundcheck across New York City, Portland and Seattle. Often billed alongside Jennifer Spektor, August V. M. and wngdu. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat 17 Oct.
 
@@ -26,4 +26,4 @@
 
 Jennifer Spektor, August V. M., wngdu
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nohup/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nohup/)*

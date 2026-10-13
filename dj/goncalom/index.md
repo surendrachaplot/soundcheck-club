@@ -1,6 +1,6 @@
 # Goncalo M
 
-Goncalo M is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Ephik Club, North on Fri, 16 Oct 2026.
+Goncalo M is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Ephik Club, North on Fri, 16 Oct 2026.
 
 Goncalo M is a techno and electronica artist based in Portugal, with 5 gigs on soundcheck across Cologne, Krakow, Madrid and North and 1 more. Often billed alongside Bigot3x, Carlos Pérez and Frank Kvitta. Next up: Ephik Club, North on Fri 16 Oct.
 
@@ -21,4 +21,4 @@ Goncalo M is a techno and electronica artist based in Portugal, with 5 gigs on s
 
 Bigot3x (2), Carlos Pérez, Frank Kvitta
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goncalom/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goncalom/)*

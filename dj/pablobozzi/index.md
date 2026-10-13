@@ -1,6 +1,6 @@
 # Pablo Bozzi
 
-Pablo Bozzi is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at BASEMENT, New York City on Fri, 16 Oct 2026.
+Pablo Bozzi is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at BASEMENT, New York City on Fri, 16 Oct 2026.
 
 Pablo Bozzi is a techno and house artist based in Germany, with 217 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 57 more. Often billed alongside Phase Fatale, Jen Cardini and DJ Gigola. Next up: BASEMENT, New York City on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Pablo Bozzi is a techno and house artist based in Germany, with 217 gigs on soun
 
 Phase Fatale, Jen Cardini, DJ Gigola
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablobozzi/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablobozzi/)*

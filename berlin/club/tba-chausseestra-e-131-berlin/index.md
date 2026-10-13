@@ -1,6 +1,6 @@
 # TBA - Chausseestraße 131, BERLIN
 
-TBA - Chausseestraße 131, BERLIN is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "VERBOTEN SOCIAL " on Thu, 19 Nov 2026.
+TBA - Chausseestraße 131, BERLIN is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "VERBOTEN SOCIAL " on Thu, 19 Nov 2026.
 
 TBA - Chausseestraße 131, BERLIN is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Chausseestraße 131, BERLIN is a music venue in Berlin listed on soundchec
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | VERBOTEN SOCIAL  |  |
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-chausseestra-e-131-berlin/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-chausseestra-e-131-berlin/)*

@@ -1,8 +1,8 @@
 # Stereo
 
-Stereo is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Club Romantico x Stereo: DNGDNGDNG & Florentino" on Fri, 16 Oct 2026.
+Stereo is a music venue in Glasgow with 15 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Club Romantico x Stereo: DNGDNGDNG & Florentino" on Fri, 16 Oct 2026.
 
-Stereo is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs, with line-ups including ACHIRĀ, Acido Cielo, Babyjaii and CLO and 2 more. See dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
+Stereo is a music venue in Glasgow listed on soundcheck. 15 upcoming gigs, with line-ups including ACHIRĀ, Acido Cielo, Babyjaii and CLO and 2 more. See dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Stereo is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs, with 
 
 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom, Glasgow
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*

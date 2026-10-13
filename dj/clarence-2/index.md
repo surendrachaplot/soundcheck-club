@@ -1,6 +1,6 @@
 # Clarence (2)
 
-Clarence (2) is a Deep House and Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Promenaden Eck, Berlin on Sat, 17 Oct 2026.
+Clarence (2) is a Deep House and Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Promenaden Eck, Berlin on Sat, 17 Oct 2026.
 
 Clarence is a deep house and dub techno artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside maniac&me, Bruno Bleckmann and Clarence. Next up: Promenaden Eck, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Clarence is a deep house and dub techno artist based in Germany, with 9 gigs on 
 
 maniac&me, Bruno Bleckmann, Clarence
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clarence-2/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clarence-2/)*

@@ -1,6 +1,6 @@
 # Bephål
 
-Bephål is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Distillery, Leipzig on Fri, 16 Oct 2026.
+Bephål is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Distillery, Leipzig on Fri, 16 Oct 2026.
 
 Bephål is a techno and house artist based in Germany, with 25 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside Ostbam, Kikimike and DJ Luiser. Next up: Distillery, Leipzig on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Bephål is a techno and house artist based in Germany, with 25 gigs on soundchec
 
 Ostbam, Kikimike, DJ Luiser
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bephal/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bephal/)*

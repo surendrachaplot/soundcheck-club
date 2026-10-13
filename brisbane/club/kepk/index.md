@@ -1,6 +1,6 @@
 # KEPK
 
-KEPK is a music venue in Brisbane with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "Noctis Vendetta x ZERØ VØID" on Fri, 30 Oct 2026.
+KEPK is a music venue in Brisbane with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "Noctis Vendetta x ZERØ VØID" on Fri, 30 Oct 2026.
 
 KEPK is a music venue in Brisbane listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Unit J2/241 Station Rd, Yeerongpilly QLD 4105, Australia.
 
@@ -14,4 +14,4 @@ KEPK is a music venue in Brisbane listed on soundcheck. 1 upcoming gig. See date
 
 Unit J2/241 Station Rd, Yeerongpilly QLD 4105, Australia, Brisbane
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/kepk/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/kepk/)*

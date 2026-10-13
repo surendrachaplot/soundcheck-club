@@ -1,14 +1,15 @@
 # Edgar Os
 
-Edgar Os is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Späti98, Berlin on Sat, 17 Oct 2026.
+Edgar Os is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Späti98, Berlin on Sat, 17 Oct 2026.
 
-Edgar Os is a techno and trance artist based in Mexico, with 17 gigs on soundcheck across Berlin and New York City. Often billed alongside Nettta, bbymeister and jeanska. Next up: Späti98, Berlin on Sat 17 Oct.
+Edgar Os is a techno and trance artist based in Mexico, with 18 gigs on soundcheck across Berlin and New York City. Often billed alongside bbymeister, jeanska and Nettta. Next up: Späti98, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Späti98 | Berlin |
+| Sat, 7 Nov 2026 | ÆDEN | Berlin |
 | Fri, 8 Jan 2027 | SILO | New-york-city |
 
 ## Recently played
@@ -24,6 +25,6 @@ Edgar Os is a techno and trance artist based in Mexico, with 17 gigs on soundche
 
 ## Shares bills with
 
-Nettta, bbymeister, jeanska
+bbymeister, jeanska, Nettta
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edgaros/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edgaros/)*

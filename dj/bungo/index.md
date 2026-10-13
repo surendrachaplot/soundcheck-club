@@ -1,6 +1,6 @@
 # bungo
 
-bungo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Aoyama Hachi, Tokyo on Sat, 31 Oct 2026.
+bungo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Aoyama Hachi, Tokyo on Sat, 31 Oct 2026.
 
 bungo is a house and techno artist based in Japan, with 141 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside YELLOWUHURU, 5harpy and YO.AN. Next up: Aoyama Hachi, Tokyo on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ bungo is a house and techno artist based in Japan, with 141 gigs on soundcheck a
 
 YELLOWUHURU, 5harpy, YO.AN
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bungo/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bungo/)*

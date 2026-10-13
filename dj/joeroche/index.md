@@ -1,6 +1,6 @@
 # Joe Roche
 
-Joe Roche is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Mollies, Manchester on Fri, 16 Oct 2026.
+Joe Roche is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Mollies, Manchester on Fri, 16 Oct 2026.
 
 Joe Roche is a house and tech house artist based in United Kingdom, with 45 gigs on soundcheck across Ibiza, Leeds, Liverpool and London and 1 more. Often billed alongside Sharples, Rhod Parry and Balrog. Next up: Mollies, Manchester on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Joe Roche is a house and tech house artist based in United Kingdom, with 45 gigs
 
 Sharples, Rhod Parry, Balrog
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeroche/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeroche/)*

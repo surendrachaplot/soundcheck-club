@@ -1,8 +1,8 @@
 # BENZA
 
-BENZA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at nachbar, Amsterdam on Thu, 22 Oct 2026.
+BENZA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at nachbar, Amsterdam on Thu, 22 Oct 2026.
 
-BENZA is a techno and house artist based in Spain, with 66 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Dublin and 16 more. Often billed alongside Vilchezz, JKS and NDSTPS. Next up: nachbar, Amsterdam on Thu 22 Oct.
+BENZA is a techno and house artist based in Spain, with 67 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Dublin and 16 more. Often billed alongside Vilchezz, JKS and NDSTPS. Next up: nachbar, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ BENZA is a techno and house artist based in Spain, with 66 gigs on soundcheck ac
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | nachbar | Amsterdam |
 | Fri, 13 Nov 2026 | Astoria | Turin |
+| Sat, 26 Dec 2026 | KREUZWERK | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ BENZA is a techno and house artist based in Spain, with 66 gigs on soundcheck ac
 
 Vilchezz, JKS, NDSTPS
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benza/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benza/)*

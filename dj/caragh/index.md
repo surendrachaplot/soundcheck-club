@@ -1,6 +1,6 @@
 # Caragh
 
-Caragh is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at The Love Inn, Bristol on Sat, 31 Oct 2026.
+Caragh is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Love Inn, Bristol on Sat, 31 Oct 2026.
 
 Caragh is a techno and house artist based in United Kingdom, with 13 gigs on soundcheck across Bristol, London, Nottingham and West Wales. Often billed alongside Daisy Moon, EMA and A For Alpha. Next up: The Love Inn, Bristol on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Caragh is a techno and house artist based in United Kingdom, with 13 gigs on sou
 
 Daisy Moon, EMA (1), A For Alpha
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caragh/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caragh/)*

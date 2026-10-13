@@ -1,6 +1,6 @@
 # Octagon Centre
 
-Octagon Centre is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. The next is "SynthFest UK 2026" on Sat, 24 Oct 2026.
+Octagon Centre is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "SynthFest UK 2026" on Sat, 24 Oct 2026.
 
 Octagon Centre is a music venue in Sheffield listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. University Of Sheffield; Western Bank; Sheffield; S10 2TQ; United Kingdom.
 
@@ -14,4 +14,4 @@ Octagon Centre is a music venue in Sheffield listed on soundcheck. 1 upcoming gi
 
 University Of Sheffield; Western Bank; Sheffield; S10 2TQ; United Kingdom, Sheffield
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/octagon-centre/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/octagon-centre/)*

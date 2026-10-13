@@ -1,6 +1,6 @@
 # The Blessed Madonna
 
-The Blessed Madonna is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Phantom, Paris, Paris on Sat, 31 Oct 2026.
+The Blessed Madonna is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Phantom, Paris, Paris on Sat, 31 Oct 2026.
 
 The Blessed Madonna is a house and techno artist based in United States of America, with 141 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 44 more. Often billed alongside Honey Dijon, Mochakk and HAAi. Next up: Phantom, Paris, Paris on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ The Blessed Madonna is a house and techno artist based in United States of Ameri
 
 Honey Dijon, Mochakk, HAAi
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theblessedmadonna/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theblessedmadonna/)*

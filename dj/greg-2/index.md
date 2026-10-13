@@ -1,6 +1,6 @@
 # Greg (2)
 
-Greg (2) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Radio Radio, Amsterdam on Wed, 21 Oct 2026.
+Greg (2) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Radio Radio, Amsterdam on Wed, 21 Oct 2026.
 
 Greg is a techno and bass artist based in Mauritius, with 62 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Tatyana Jane, Busy P and MJK. Next up: Radio Radio, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Greg is a techno and bass artist based in Mauritius, with 62 gigs on soundcheck 
 
 Tatyana Jane, Busy P, MJK
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/greg-2/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/greg-2/)*

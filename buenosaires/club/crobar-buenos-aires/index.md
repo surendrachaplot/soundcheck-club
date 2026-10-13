@@ -1,6 +1,6 @@
 # Crobar - Buenos Aires
 
-Crobar - Buenos Aires is a music venue in Buenos Aires with 7 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Crobar Phuture Pres.: DJ Tennis" on Fri, 16 Oct 2026.
+Crobar - Buenos Aires is a music venue in Buenos Aires with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Crobar Phuture Pres.: DJ Tennis" on Fri, 16 Oct 2026.
 
 Crobar - Buenos Aires is a music venue in Buenos Aires listed on soundcheck. 7 upcoming gigs, with line-ups including DJ Tennis, ETTA!, John Creamer and KAS:ST and 2 more. See dates, start times and who's playing. Marcelo Freyre S/N, Paseo de la Infanta; Palermo; Buenos Aires; Argentina.
 
@@ -20,4 +20,4 @@ Crobar - Buenos Aires is a music venue in Buenos Aires listed on soundcheck. 7 u
 
 Marcelo Freyre S/N, Paseo de la Infanta; Palermo; Buenos Aires; Argentina, Buenos Aires
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/crobar-buenos-aires/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/crobar-buenos-aires/)*

@@ -1,6 +1,6 @@
 # Department 184
 
-Department 184 is a music venue in Milan with 6 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "INNER CIRCLE - | RUIZ OSC1" on Fri, 16 Oct 2026.
+Department 184 is a music venue in Milan with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "INNER CIRCLE - | RUIZ OSC1" on Fri, 16 Oct 2026.
 
 Department 184 is a music venue in Milan listed on soundcheck. 6 upcoming gigs, with line-ups including Alex Brasile, AllaDerivaLontano, ALXV and Cap and 2 more. See dates, start times and who's playing. Via Varesina, 184, 20156 Milano MI.
 
@@ -19,4 +19,4 @@ Department 184 is a music venue in Milan listed on soundcheck. 6 upcoming gigs, 
 
 Via Varesina, 184, 20156 Milano MI, Milan
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/department-184/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/department-184/)*

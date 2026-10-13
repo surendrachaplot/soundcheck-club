@@ -1,6 +1,6 @@
 # Alonso Lozano
 
-Alonso Lozano is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at NEU, Stockholm on Sat, 28 Nov 2026.
+Alonso Lozano is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at NEU, Stockholm on Sat, 28 Nov 2026.
 
 Alonso Lozano is a house and minimal artist, with 5 gigs on soundcheck across Copenhagen, Oslo and Stockholm. Often billed alongside Ajaks, Spiri:tual and 7 Levels. Next up: NEU, Stockholm on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Alonso Lozano is a house and minimal artist, with 5 gigs on soundcheck across Co
 
 Ajaks, Spiri:tual, 7 Levels
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alonsolozano/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alonsolozano/)*

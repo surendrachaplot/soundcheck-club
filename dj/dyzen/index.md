@@ -1,14 +1,15 @@
 # Dyzen
 
-Dyzen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
+Dyzen is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
 
-Dyzen is a techno and house artist based in Italy, with 51 gigs on soundcheck across Amsterdam, Antwerp, Athens and Basel and 19 more. Often billed alongside Mind Against, sideral and Recondite. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
+Dyzen is a techno and house artist based in Italy, with 52 gigs on soundcheck across Amsterdam, Antwerp, Athens and Basel and 19 more. Often billed alongside Mind Against, sideral and Recondite. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
+| Fri, 30 Oct 2026 | Bootshaus | Cologne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Dyzen is a techno and house artist based in Italy, with 51 gigs on soundcheck ac
 
 Mind Against, sideral, Recondite
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyzen/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyzen/)*

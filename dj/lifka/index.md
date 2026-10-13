@@ -1,6 +1,6 @@
 # Lifka
 
-Lifka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at ://about blank, Berlin on Sat, 31 Oct 2026.
+Lifka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at ://about blank, Berlin on Sat, 31 Oct 2026.
 
 Lifka is a techno and house artist based in Germany, with 42 gigs on soundcheck across Berlin, Detroit, Hamburg and Ibiza. Often billed alongside Lucinee, Inverse Element and MARRGIAN. Next up: ://about blank, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Lifka is a techno and house artist based in Germany, with 42 gigs on soundcheck 
 
 Lucinee, Inverse Element, MARRGIAN
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lifka/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lifka/)*

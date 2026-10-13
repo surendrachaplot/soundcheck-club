@@ -1,13 +1,14 @@
 # Vinnie Stew
 
-Vinnie Stew is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Mdlr, Singapore on Fri, 30 Oct 2026.
+Vinnie Stew is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Exit Reality, Singapore on Fri, 16 Oct 2026.
 
-Vinnie Stew is a techno and house artist based in Singapore, with 35 gigs on soundcheck across Singapore. Often billed alongside Joshua Dillon, sho&tell and 3MZY. Next up: Mdlr, Singapore on Fri 30 Oct.
+Vinnie Stew is a techno and house artist based in Singapore, with 36 gigs on soundcheck across Singapore. Often billed alongside Joshua Dillon, sho&tell and 3MZY. Next up: Exit Reality, Singapore on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Exit Reality | Singapore |
 | Fri, 30 Oct 2026 | Mdlr | Singapore |
 
 ## Recently played
@@ -25,4 +26,4 @@ Vinnie Stew is a techno and house artist based in Singapore, with 35 gigs on sou
 
 Joshua Dillon, sho&tell, 3MZY
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vinniestew/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vinniestew/)*

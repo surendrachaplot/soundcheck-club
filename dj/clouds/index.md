@@ -1,14 +1,15 @@
 # Clouds
 
-Clouds is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
+Clouds is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
 
-Clouds is a techno and trance artist based in United Kingdom, with 95 gigs on soundcheck across Aberdeen, Amsterdam, Basel and Belfast and 27 more. Often billed alongside Tommy Holohan, X CLUB. and Faster Horses. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
+Clouds is a techno and trance artist based in United Kingdom, with 96 gigs on soundcheck across Aberdeen, Amsterdam, Basel and Belfast and 27 more. Often billed alongside Tommy Holohan, X CLUB. and Faster Horses. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
+| Sun, 15 Nov 2026 | Thuishaven | Amsterdam |
 | Sat, 28 Nov 2026 | SWG3 | Glasgow |
 | Sat, 28 Nov 2026 | SWG3 | Glasgow |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
@@ -28,4 +29,4 @@ Clouds is a techno and trance artist based in United Kingdom, with 95 gigs on so
 
 Tommy Holohan, X CLUB., Faster Horses
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clouds/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clouds/)*

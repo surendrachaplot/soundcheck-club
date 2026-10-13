@@ -1,6 +1,6 @@
 # Danté
 
-Danté is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Ciało, Wroclaw on Sat, 17 Oct 2026.
+Danté is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Ciało, Wroclaw on Sat, 17 Oct 2026.
 
 Danté is a techno and house artist based in Poland, with 22 gigs on soundcheck across Amsterdam, Berlin, Budapest and Krakow and 7 more. Often billed alongside Sept, CRANZ and AOIFE. Next up: Ciało, Wroclaw on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Danté is a techno and house artist based in Poland, with 22 gigs on soundcheck 
 
 Sept, CRANZ, AOIFE
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dante-pl/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dante-pl/)*

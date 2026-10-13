@@ -1,6 +1,6 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "RAZZCLUBS: Arthi + Flota: Dj Sueño + El Mini Live + Dj Xeira + Sonia Lagoon" on Fri, 16 Oct 2026.
+Razzmatazz is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "RAZZCLUBS: Arthi + Flota: Dj Sueño + El Mini Live + Dj Xeira + Sonia Lagoon" on Fri, 16 Oct 2026.
 
 Razzmatazz is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including Acidnena, Adame DJ, Andrae Durden and ANJELIKA SAHAKIAN and 2 more. See dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
@@ -21,4 +21,4 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, 
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

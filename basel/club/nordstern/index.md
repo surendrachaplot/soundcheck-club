@@ -1,8 +1,8 @@
 # Nordstern
 
-Nordstern is a music venue in Basel with 8 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. The next is "Blackworks with Fatima Hajji" on Fri, 16 Oct 2026.
+Nordstern is a music venue in Basel with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Blackworks with Fatima Hajji" on Fri, 16 Oct 2026.
 
-Nordstern is a music venue in Basel listed on soundcheck. 8 upcoming gigs, with line-ups including Acid Pauli, Agonis, Amber Broos and Cara Elizabeth and 2 more. See dates, start times and who's playing. Westquaistrasse 19; 4057 Basel; Switzerland.
+Nordstern is a music venue in Basel listed on soundcheck. 9 upcoming gigs, with line-ups including Acid Pauli, Agonis, Amber Broos and Cara Elizabeth and 2 more. See dates, start times and who's playing. Westquaistrasse 19; 4057 Basel; Switzerland.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Nordstern is a music venue in Basel listed on soundcheck. 8 upcoming gigs, with 
 | Sat, 24 Oct 2026 | Worakls | Worakls |
 | Fri, 30 Oct 2026 | dasstudach All Night Long | dasstudach |
 | Sat, 31 Oct 2026 | Malive | Malive |
+| Fri, 6 Nov 2026 | Somatic Rituals + Friends |  |
 | Sat, 7 Nov 2026 | Polyamor at Nordster | Amber Broos, Cara Elizabeth, Cleopard2000, DJ DRECKISCH |
 | Sat, 14 Nov 2026 | Space 92 | Space 92 |
 
@@ -21,4 +22,4 @@ Nordstern is a music venue in Basel listed on soundcheck. 8 upcoming gigs, with 
 
 Westquaistrasse 19; 4057 Basel; Switzerland, Basel
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nordstern/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nordstern/)*

@@ -1,6 +1,6 @@
 # Franco Strato
 
-Franco Strato is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 12 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 23 Oct 2026.
+Franco Strato is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 23 Oct 2026.
 
 Franco Strato is a house and disco artist based in Argentina, with 20 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza. Often billed alongside Javier Anxiety, Eva Crystaltips and Luca Olivotto. Next up: Crack Bellmer, Berlin on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Franco Strato is a house and disco artist based in Argentina, with 20 gigs on so
 
 Javier Anxiety, Eva Crystaltips, Luca Olivotto
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francostrato-ar/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francostrato-ar/)*

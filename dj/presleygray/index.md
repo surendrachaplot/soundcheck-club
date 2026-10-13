@@ -1,6 +1,6 @@
 # Presley Gray
 
-Presley Gray is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 12 Oct 2026. Next at Biltmore Cabaret, Vancouver on Fri, 16 Oct 2026.
+Presley Gray is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Biltmore Cabaret, Vancouver on Fri, 16 Oct 2026.
 
 Presley Gray is a garage and bass artist based in Canada, with 5 gigs on soundcheck across Vancouver. Often billed alongside mku_, stargirl and Edd. Next up: Biltmore Cabaret, Vancouver on Fri 16 Oct.
 
@@ -21,4 +21,4 @@ Presley Gray is a garage and bass artist based in Canada, with 5 gigs on soundch
 
 mku_, stargirl, Edd (1)
 
-*Updated Mon, 12 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/presleygray/)*
+*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/presleygray/)*

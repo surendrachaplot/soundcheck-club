@@ -1,6 +1,6 @@
 # The Hammer Hits at The Ulster Sports Club
 
-The Hammer Hits at The Ulster Sports Club on Sat 14 Nov, Belfast. 1 artist: Hammer. House and Disco. See the line-up on soundcheck.
+The Hammer Hits at The Ulster Sports Club on Sat 14 Nov, Belfast. 2 artists: Cáit and Hammer. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ The Hammer Hits at The Ulster Sports Club on Sat 14 Nov, Belfast. 1 artist: Hamm
 
 ## Line-up
 
+- Cáit
 - Hammer
 
 *Source: [soundcheck](https://soundcheck.club/e/2555517-the-hammer-hits-at-the-ulster-sports-club/)*
