@@ -1,6 +1,6 @@
 # Yes
 
-Yes is a music venue in Manchester with 20 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Seb Wildblood + Sonnee" on Fri, 16 Oct 2026.
+Yes is a music venue in Manchester with 20 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Seb Wildblood + Sonnee" on Fri, 16 Oct 2026.
 
 Yes is a music venue in Manchester listed on soundcheck. 20 upcoming gigs, with line-ups including Aiden Francis, Cameo Blush, Celdred and DJ POLLY and 2 more. See dates, start times and who's playing. 38 Charles Street Manchester, M1 7BD, United Kingdom.
 
@@ -23,4 +23,4 @@ Yes is a music venue in Manchester listed on soundcheck. 20 upcoming gigs, with 
 
 38 Charles Street Manchester, M1 7BD, United Kingdom, Manchester
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*

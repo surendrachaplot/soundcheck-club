@@ -1,6 +1,6 @@
 # Mein Bio Spät
 
-Mein Bio Spät is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "Zumzum Baile" on Fri, 16 Oct 2026.
+Mein Bio Spät is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "Zumzum Baile" on Fri, 16 Oct 2026.
 
 Mein Bio Spät is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Mein Bio Spät is a music venue in Berlin listed on soundcheck. 1 upcoming gig. 
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Zumzum Baile |  |
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mein-bio-sp-t/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mein-bio-sp-t/)*

@@ -1,6 +1,6 @@
 # A Good Year
 
-A Good Year is a Electronica and Post-Punk artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 31 Oct 2026.
+A Good Year is a Electronica and Post-Punk artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 31 Oct 2026.
 
 A Good Year is an electronica and post-punk artist based in Denmark, with 5 gigs on soundcheck across Bristol, Brussels, Copenhagen and Madrid and 1 more. Often billed alongside Lord Spikeheart, Loukeman and 96 Back. Next up: La Station - Gare des Mines, Paris on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ A Good Year is an electronica and post-punk artist based in Denmark, with 5 gigs
 
 Lord Spikeheart, Loukeman, 96 Back
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agoodyear/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agoodyear/)*

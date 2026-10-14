@@ -1,6 +1,6 @@
 # The Circle Episode 6 at Sigma
 
-The Circle Episode 6 at Sigma on Fri 16 Oct, Ibiza. 4 artists: AntZ, Charlotte Newman, Marcelo Demarco and Vinicius Honorio. Techno. See the line-up on soundcheck.
+The Circle Episode 6 at Sigma on Fri 16 Oct, Ibiza. 3 artists: Charlotte Newman, Marcelo Demarco and Vinicius Honorio. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ The Circle Episode 6 at Sigma on Fri 16 Oct, Ibiza. 4 artists: AntZ, Charlotte N
 
 ## Line-up
 
-- AntZ (2)
 - Charlotte Newman
 - Marcelo Demarco
 - Vinicius Honorio

@@ -1,8 +1,8 @@
 # Tommy Phillips
 
-Tommy Phillips is a House and Tech House artist with 15 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Mint XL, Leeds on Sat, 17 Oct 2026.
+Tommy Phillips is a House and Tech House artist with 16 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Mint XL, Leeds on Sat, 17 Oct 2026.
 
-Tommy Phillips is a house and tech house artist based in United Kingdom, with 79 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Austin and 30 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: Mint XL, Leeds on Sat 17 Oct.
+Tommy Phillips is a house and tech house artist based in United Kingdom, with 80 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Austin and 30 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: Mint XL, Leeds on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Tommy Phillips is a house and tech house artist based in United Kingdom, with 79
 
 Joss Dean, Max Dean, Luke Dean_
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*

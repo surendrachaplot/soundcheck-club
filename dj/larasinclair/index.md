@@ -1,6 +1,6 @@
 # Lara Sinclair
 
-Lara Sinclair is a Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sun, 18 Oct 2026.
+Lara Sinclair is a Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sun, 18 Oct 2026.
 
 Lara Sinclair is a bass and jungle artist based in United Kingdom, with 198 gigs on soundcheck across Dundee, Edinburgh, Glasgow and London. Often billed alongside ZO3, JI_2001 and DV60. Next up: Sneaky Pete's, Edinburgh on Sun 18 Oct.
 
@@ -27,4 +27,4 @@ Lara Sinclair is a bass and jungle artist based in United Kingdom, with 198 gigs
 
 ZO3 (1), JI_2001, DV60
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larasinclair/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larasinclair/)*

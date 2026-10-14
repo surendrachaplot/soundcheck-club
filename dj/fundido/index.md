@@ -1,6 +1,6 @@
 # Fundido
 
-Fundido is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Roberta's, New York City on Sat, 31 Oct 2026.
+Fundido is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Roberta's, New York City on Sat, 31 Oct 2026.
 
 Fundido is a house and disco artist based in United States of America, with 37 gigs on soundcheck across Austin, Los Angeles, Mexico City and New York City and 2 more. Often billed alongside Extra Meesh, Seedy J and Alex McCracken. Next up: Roberta's, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Fundido is a house and disco artist based in United States of America, with 37 g
 
 Extra Meesh, Seedy J, Alex McCracken
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fundido/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fundido/)*

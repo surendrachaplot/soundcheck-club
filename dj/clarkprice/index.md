@@ -1,6 +1,6 @@
 # Clark Price
 
-Clark Price is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at H0L0, New York City on Sat, 24 Oct 2026.
+Clark Price is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at H0L0, New York City on Sat, 24 Oct 2026.
 
 Clark Price is a house and techno artist based in United States of America, with 28 gigs on soundcheck across Berlin, Detroit, Manchester and Montreal and 5 more. Often billed alongside Aaron Clark, Honcho and d'Adhemar. Next up: H0L0, New York City on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Clark Price is a house and techno artist based in United States of America, with
 
 Aaron Clark, Honcho, d'Adhemar
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clarkprice/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clarkprice/)*

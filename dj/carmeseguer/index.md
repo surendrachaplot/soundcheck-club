@@ -1,6 +1,6 @@
 # CARMESEGUER
 
-CARMESEGUER is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Assaggi, Amsterdam on Thu, 22 Oct 2026.
+CARMESEGUER is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Assaggi, Amsterdam on Thu, 22 Oct 2026.
 
 CARMESEGUER is an electronic artist, with 18 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid. Often billed alongside Nau Leone, Chris Figueroa and Gleezy. Next up: TBA - Assaggi, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ CARMESEGUER is an electronic artist, with 18 gigs on soundcheck across Amsterdam
 
 Nau Leone, Chris Figueroa, Gleezy
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carmeseguer/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carmeseguer/)*

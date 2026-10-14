@@ -1,6 +1,6 @@
 # Noise Orchestra x Minus Pink at Distillery N17
 
-Noise Orchestra x Minus Pink at Distillery N17 on Sat 24 Oct, London. 6 artists: Amotik, Antonio De Angelis, Pre Silent and RayRay and 2 more. Techno. See the line-up on soundcheck.
+Noise Orchestra x Minus Pink at Distillery N17 on Sat 24 Oct, London. 6 artists: Amotik, Antonio De Angelis, Pre Silent and Rachel de Moncuit and 2 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ Noise Orchestra x Minus Pink at Distillery N17 on Sat 24 Oct, London. 6 artists:
 - Amotik
 - Antonio De Angelis
 - Pre Silent
-- RayRay
+- Rachel de Moncuit
 - SBBS
 - Varanasi
 

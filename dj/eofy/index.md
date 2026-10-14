@@ -1,13 +1,14 @@
 # eofy
 
-eofy is a Techno and IDM artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Brooman NSW, Sydney on Fri, 27 Nov 2026.
+eofy is a Techno and IDM artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Miscellania, Melbourne on Sun, 1 Nov 2026.
 
-eofy is a techno and idm artist based in Australia, with 9 gigs on soundcheck across Melbourne, New South Wales and Sydney. Often billed alongside LOIF, Harold and D-Grade. Next up: TBA - Brooman NSW, Sydney on Fri 27 Nov.
+eofy is a techno and idm artist based in Australia, with 10 gigs on soundcheck across Melbourne, New South Wales and Sydney. Often billed alongside LOIF, Harold and D-Grade. Next up: Miscellania, Melbourne on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 1 Nov 2026 | Miscellania | Melbourne |
 | Fri, 27 Nov 2026 | TBA - Brooman NSW | Sydney |
 | Fri, 27 Nov 2026 | TBA | New-south-wales |
 
@@ -25,4 +26,4 @@ eofy is a techno and idm artist based in Australia, with 9 gigs on soundcheck ac
 
 LOIF, Harold, D-Grade
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eofy/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eofy/)*

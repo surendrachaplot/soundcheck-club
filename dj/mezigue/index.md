@@ -1,6 +1,6 @@
 # Mézigue
 
-Mézigue is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Le Bikini, South-east on Fri, 27 Nov 2026.
+Mézigue is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Le Bikini, South-east on Fri, 27 Nov 2026.
 
 Mézigue is a house and techno artist based in France, with 63 gigs on soundcheck across Brussels, Dublin, Geneva and Ghent and 11 more. Often billed alongside Mad Rey, Belaria and GGGG. Next up: Le Bikini, South East on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Mézigue is a house and techno artist based in France, with 63 gigs on soundchec
 
 Mad Rey, Belaria, GGGG
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mezigue/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mezigue/)*

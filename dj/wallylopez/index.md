@@ -1,8 +1,8 @@
 # Wally Lopez
 
-Wally Lopez is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Barco Sound House, Madrid on Thu, 15 Oct 2026.
+Wally Lopez is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Barco Sound House, Madrid on Thu, 15 Oct 2026.
 
-Wally Lopez is a house and tech house artist based in Spain, with 44 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Geneva and 9 more. Often billed alongside NODUS, Oscar Colorado and AN5 (SP). Next up: Barco Sound House, Madrid on Thu 15 Oct.
+Wally Lopez is a house and tech house artist based in Spain, with 44 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Geneva and 9 more. Often billed alongside NODUS, Oscar Colorado and (V)Vilches. Next up: Barco Sound House, Madrid on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Wally Lopez is a house and tech house artist based in Spain, with 44 gigs on sou
 
 ## Shares bills with
 
-NODUS, Oscar Colorado, AN5 (SP)
+NODUS, Oscar Colorado, (V)Vilches
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wallylopez/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wallylopez/)*

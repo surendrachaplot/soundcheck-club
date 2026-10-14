@@ -1,6 +1,6 @@
 # The Cornershop Bar
 
-The Cornershop Bar is a music venue in London with 17 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "The Cornershop Shoreditch - Hip Hop, Bashment, Afrobeats" on Fri, 16 Oct 2026.
+The Cornershop Bar is a music venue in London with 17 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "The Cornershop Shoreditch - Hip Hop, Bashment, Afrobeats" on Fri, 16 Oct 2026.
 
 The Cornershop Bar is a music venue in London listed on soundcheck. 17 upcoming gigs. See dates, start times and who's playing. 123 Shoreditch High Street  London E1 6JE.
 
@@ -23,4 +23,4 @@ The Cornershop Bar is a music venue in London listed on soundcheck. 17 upcoming 
 
 123 Shoreditch High Street  London E1 6JE, London
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cornershop-bar/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cornershop-bar/)*

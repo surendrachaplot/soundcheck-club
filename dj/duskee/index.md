@@ -1,6 +1,6 @@
 # Duskee
 
-Duskee is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
+Duskee is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
 
 Duskee is a drum & bass and jungle artist based in United Kingdom, with 45 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 17 more. Often billed alongside Monrroe, GLXY and Emily Makis. Next up: DRUMSHEDS, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Duskee is a drum & bass and jungle artist based in United Kingdom, with 45 gigs 
 
 Monrroe, GLXY, Emily Makis
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duskee/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duskee/)*

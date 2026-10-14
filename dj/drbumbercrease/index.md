@@ -1,6 +1,6 @@
 # DR BUMBERCREASE
 
-DR BUMBERCREASE is a Hardcore and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Beaver Works, Leeds on Fri, 11 Dec 2026.
+DR BUMBERCREASE is a Hardcore and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Beaver Works, Leeds on Fri, 11 Dec 2026.
 
 DR BUMBERCREASE is a hardcore and drum & bass artist based in United Kingdom, with 7 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside alterum, Amelia Leigh and BUTCHABOI. Next up: Beaver Works, Leeds on Fri 11 Dec.
 
@@ -23,4 +23,4 @@ DR BUMBERCREASE is a hardcore and drum & bass artist based in United Kingdom, wi
 
 alterum, Amelia Leigh, BUTCHABOI
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drbumbercrease/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drbumbercrease/)*

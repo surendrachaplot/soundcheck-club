@@ -1,6 +1,6 @@
 # Dash (CZ)
 
-Dash (CZ) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 28 Nov 2026.
+Dash (CZ) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 28 Nov 2026.
 
 Dash (CZ) is a techno and house artist based in Czech Republic, with 121 gigs on soundcheck across Berlin, Copenhagen, Krakow and Liverpool and 5 more. Often billed alongside Yan (CZ), Misha Jaru and Shurigen. Next up: Circus Tokyo, Tokyo on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Dash (CZ) is a techno and house artist based in Czech Republic, with 121 gigs on
 
 Yan (CZ), Misha Jaru, Shurigen
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dashcz/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dashcz/)*

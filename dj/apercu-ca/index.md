@@ -1,6 +1,6 @@
 # Aperçu
 
-Aperçu is a Experimental and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Macel Studios, Toronto on Sat, 7 Nov 2026.
+Aperçu is a Experimental and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Macel Studios, Toronto on Sat, 7 Nov 2026.
 
 Aperçu is an experimental and tech house artist, with 7 gigs on soundcheck across Toronto. Often billed alongside Theysiii, Xicada and Emissive. Next up: Macel Studios, Toronto on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Aperçu is an experimental and tech house artist, with 7 gigs on soundcheck acro
 
 Theysiii, Xicada, Emissive
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apercu-ca/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apercu-ca/)*

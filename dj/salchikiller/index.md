@@ -1,6 +1,6 @@
 # SALCHIKILLER
 
-SALCHIKILLER is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 24 Oct 2026.
+SALCHIKILLER is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 24 Oct 2026.
 
 SALCHIKILLER is a techno and trance artist based in Ecuador, with 30 gigs on soundcheck across Berlin. Often billed alongside mølly (on molly), DJ AYEN and L X S. Next up: PKH Warehouse, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ SALCHIKILLER is a techno and trance artist based in Ecuador, with 30 gigs on sou
 
 mølly (on molly), DJ AYEN, L X S
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salchikiller/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salchikiller/)*

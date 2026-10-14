@@ -1,14 +1,15 @@
 # Manuka Honey
 
-Manuka Honey is a Club and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Sala Upload Barcelona, Barcelona on Fri, 16 Oct 2026.
+Manuka Honey is a Club and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Sala Upload Barcelona, Barcelona on Fri, 16 Oct 2026.
 
-Manuka Honey is a club and techno artist, with 152 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 42 more. Often billed alongside Baby Cocada, Florentino and TEDESCO. Next up: Sala Upload Barcelona, Barcelona on Fri 16 Oct.
+Manuka Honey is a club and techno artist, with 153 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 42 more. Often billed alongside Baby Cocada, Florentino and TEDESCO. Next up: Sala Upload Barcelona, Barcelona on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Sala Upload Barcelona | Barcelona |
+| Sat, 17 Oct 2026 | The White Hotel | Manchester |
 | Fri, 23 Oct 2026 | The Fruit | North-carolina |
 | Sat, 24 Oct 2026 | Paragon | New York City |
 | Fri, 30 Oct 2026 | TBA - Union Pine | Portland |
@@ -31,4 +32,4 @@ Manuka Honey is a club and techno artist, with 152 gigs on soundcheck across Ams
 
 Baby Cocada, Florentino, TEDESCO
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manukahoney/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manukahoney/)*

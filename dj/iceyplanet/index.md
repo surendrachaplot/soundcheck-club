@@ -1,6 +1,6 @@
 # Icey Planet
 
-Icey Planet is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Melkweg, Amsterdam on Tue, 20 Oct 2026.
+Icey Planet is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Melkweg, Amsterdam on Tue, 20 Oct 2026.
 
 Icey Planet is a techno and house artist based in China, with 8 gigs on soundcheck across Amsterdam, Berlin and Milan. Often billed alongside Dexon, .JKM and A.R.T.. Next up: Melkweg, Amsterdam on Tue 20 Oct.
 
@@ -24,4 +24,4 @@ Icey Planet is a techno and house artist based in China, with 8 gigs on soundche
 
 Dexon, .JKM, A.R.T.
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iceyplanet/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iceyplanet/)*

@@ -1,13 +1,14 @@
 # Ash Scholem
 
-Ash Scholem is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at KHIDI, Tbilisi on Sat, 31 Oct 2026.
+Ash Scholem is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Left Bank, Tbilisi on Sat, 17 Oct 2026.
 
-Ash Scholem is a techno and house artist based in Georgia, with 88 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 2 more. Often billed alongside Gacha, Kraumur and Giorgi Pipia. Next up: KHIDI, Tbilisi on Sat 31 Oct.
+Ash Scholem is a techno and house artist based in Georgia, with 89 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 2 more. Often billed alongside Gacha, Kraumur and Dali (GE). Next up: Left Bank, Tbilisi on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Left Bank | Tbilisi |
 | Sat, 31 Oct 2026 | KHIDI | Tbilisi |
 
 ## Recently played
@@ -23,6 +24,6 @@ Ash Scholem is a techno and house artist based in Georgia, with 88 gigs on sound
 
 ## Shares bills with
 
-Gacha, Kraumur, Giorgi Pipia
+Gacha, Kraumur, Dali (GE)
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/AshScholem/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/AshScholem/)*

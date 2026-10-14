@@ -1,13 +1,14 @@
 # AliTR
 
-AliTR is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at 77, London on Sat, 14 Nov 2026.
+AliTR is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at 12th Knot Rooftop Bar, London on Fri, 30 Oct 2026.
 
-AliTR is a house and afro house artist based in United Kingdom, with 11 gigs on soundcheck across Istanbul and London. Often billed alongside Jezza, Yoel Telyaz and Cenk Gursoy. Next up: 77, London on Sat 14 Nov.
+AliTR is an afro house and house artist based in United Kingdom, with 12 gigs on soundcheck across Istanbul and London. Often billed alongside Jezza, Yoel Telyaz and Cenk Gursoy. Next up: 12th Knot Rooftop Bar, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | 12th Knot Rooftop Bar | London |
 | Sat, 14 Nov 2026 | 77 | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ AliTR is a house and afro house artist based in United Kingdom, with 11 gigs on 
 
 Jezza, Yoel Telyaz, Cenk Gursoy
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alitr/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alitr/)*

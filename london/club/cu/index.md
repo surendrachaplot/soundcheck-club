@@ -1,6 +1,6 @@
 # Cu
 
-Cu is a music venue in London with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Grooves #17: Propulsion, Hickey, Tombs, Merlin, Renfer, Bisect [turntable-only, DnB & jungle]" on Sat, 17 Oct 2026.
+Cu is a music venue in London with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Grooves #17: Propulsion, Hickey, Tombs, Merlin, Renfer, Bisect [turntable-only, DnB & jungle]" on Sat, 17 Oct 2026.
 
 Cu is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Bisect, Cathal, D.N.S and ETHICS and 2 more. See dates, start times and who's playing. 574, 576 Kingsland Rd, London E8 4AP, United Kingdom.
 
@@ -20,4 +20,4 @@ Cu is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-u
 
 574, 576 Kingsland Rd, London E8 4AP, United Kingdom, London
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*

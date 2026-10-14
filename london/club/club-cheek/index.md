@@ -1,6 +1,6 @@
 # Club Cheek
 
-Club Cheek is a music venue in London with 15 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Shoulderwork Vol. 2 - Gallegos" on Fri, 16 Oct 2026.
+Club Cheek is a music venue in London with 15 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Shoulderwork Vol. 2 - Gallegos" on Fri, 16 Oct 2026.
 
 Club Cheek is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Ruby SD, Alienata, Amit and batgirl and 2 more. See dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
 
@@ -23,4 +23,4 @@ Club Cheek is a music venue in London listed on soundcheck. 15 upcoming gigs, wi
 
 302-304 Barrington Road, London, SW9 7JJ, London
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*

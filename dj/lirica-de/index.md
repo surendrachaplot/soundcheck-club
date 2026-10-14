@@ -1,13 +1,14 @@
 # LIRICA
 
-LIRICA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Grapes and Plates, Hamburg on Sat, 17 Oct 2026.
+LIRICA is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at PKH Warehouse, Berlin on Fri, 16 Oct 2026.
 
-LIRICA is a techno and house artist based in Germany, with 7 gigs on soundcheck across Hamburg. Often billed alongside Alexej, JASHTECH and NELØ. Next up: Grapes and Plates, Hamburg on Sat 17 Oct.
+LIRICA is a techno and trance artist based in Germany, with 8 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Alexej, JASHTECH and NELØ. Next up: PKH Warehouse, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | PKH Warehouse | Berlin |
 | Sat, 17 Oct 2026 | Grapes and Plates | Hamburg |
 | Sat, 24 Oct 2026 | Fundbureau | Hamburg |
 
@@ -23,4 +24,4 @@ LIRICA is a techno and house artist based in Germany, with 7 gigs on soundcheck 
 
 Alexej, JASHTECH, NELØ
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lirica-de/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lirica-de/)*

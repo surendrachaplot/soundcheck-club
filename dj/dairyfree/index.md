@@ -1,6 +1,6 @@
 # Dairy Free
 
-Dairy Free is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Lido, Vancouver on Wed, 14 Oct 2026.
+Dairy Free is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Lido, Vancouver on Wed, 14 Oct 2026.
 
 Dairy Free is a house and techno artist based in Canada, with 54 gigs on soundcheck across Vancouver. Often billed alongside dj direct depøsit, ZDBT and dj_2button. Next up: The Lido, Vancouver on Wed 14 Oct.
 
@@ -27,4 +27,4 @@ Dairy Free is a house and techno artist based in Canada, with 54 gigs on soundch
 
 dj direct depøsit, ZDBT, dj_2button
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dairyfree/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dairyfree/)*

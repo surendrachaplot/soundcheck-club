@@ -1,14 +1,14 @@
 # Clochette
 
-Clochette is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - 1585 Boulevard St Laurent, Montreal, QC, H2X 2S9, Montreal on Sat, 31 Oct 2026.
+Clochette is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Sanctuary, Montreal on Sat, 31 Oct 2026.
 
-Clochette is a house and deep house artist based in Canada, with 26 gigs on soundcheck across Montreal and Rotterdam. Often billed alongside Boomy, Deneb and Jino K. Next up: TBA - 1585 Boulevard St Laurent, Montreal, QC, H2X 2S9, Montreal on Sat 31 Oct.
+Clochette is a house and deep house artist based in Canada, with 26 gigs on soundcheck across Montreal and Rotterdam. Often billed alongside Boomy, Deneb and Jino K. Next up: Sanctuary, Montreal on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | TBA - 1585 Boulevard St Laurent, Montreal, QC, H2X 2S9 | Montreal |
+| Sat, 31 Oct 2026 | Sanctuary | Montreal |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Clochette is a house and deep house artist based in Canada, with 26 gigs on soun
 
 Boomy, Deneb, Jino K
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clochette/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clochette/)*

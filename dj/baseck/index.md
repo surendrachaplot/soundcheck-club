@@ -1,6 +1,6 @@
 # Baseck
 
-Baseck is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA, San Francisco/Oakland on Sat, 7 Nov 2026.
+Baseck is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, San Francisco/Oakland on Sat, 7 Nov 2026.
 
 Baseck is a hardcore and techno artist based in United States of America, with 45 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside Flapjack, Thrasher and 4LOKA. Next up: TBA, San Francisco/Oakland on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Baseck is a hardcore and techno artist based in United States of America, with 4
 
 Flapjack, Thrasher, 4LOKA
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baseck/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baseck/)*

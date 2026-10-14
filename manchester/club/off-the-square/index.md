@@ -1,6 +1,6 @@
 # Off The Square
 
-Off The Square is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "DAYDREAM 002" on Sun, 18 Oct 2026.
+Off The Square is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "DAYDREAM 002" on Sun, 18 Oct 2026.
 
 Off The Square is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, with line-ups including BUTCHABOI, Chael-UK, Shumbo Jebang and Smicer and 1 more. See dates, start times and who's playing. 67 Lever Street, Manchester, M1 1FL.
 
@@ -18,4 +18,4 @@ Off The Square is a music venue in Manchester listed on soundcheck. 5 upcoming g
 
 67 Lever Street, Manchester, M1 1FL, Manchester
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/off-the-square/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/off-the-square/)*

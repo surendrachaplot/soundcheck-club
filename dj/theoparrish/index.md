@@ -1,6 +1,6 @@
 # Theo Parrish
 
-Theo Parrish is a House and Funk / Soul artist with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at La Bellevilloise, Paris on Sat, 17 Oct 2026.
+Theo Parrish is a House and Funk / Soul artist with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at La Bellevilloise, Paris on Sat, 17 Oct 2026.
 
 Theo Parrish is a house and funk / soul artist based in United States of America, with 123 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 31 more. Often billed alongside Avalon Emerson, Moodymann and Batu. Next up: La Bellevilloise, Paris on Sat 17 Oct.
 
@@ -32,4 +32,4 @@ Theo Parrish is a house and funk / soul artist based in United States of America
 
 Avalon Emerson, Moodymann, Batu
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*

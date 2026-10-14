@@ -1,6 +1,6 @@
 # Buday
 
-Buday is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Barrio Cafe, Brussels on Sat, 17 Oct 2026.
+Buday is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Barrio Cafe, Brussels on Sat, 17 Oct 2026.
 
 Buday is a techno and house artist based in France, with 18 gigs on soundcheck across Amsterdam, Berlin, Brussels and Madrid and 2 more. Often billed alongside Mar/us, Cristian Marras and BOYCA. Next up: Barrio Cafe, Brussels on Sat 17 Oct.
 
@@ -29,4 +29,4 @@ Buday is a techno and house artist based in France, with 18 gigs on soundcheck a
 
 Mar/us, Cristian Marras, BOYCA
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buday-fr/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buday-fr/)*

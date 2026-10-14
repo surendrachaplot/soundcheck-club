@@ -1,13 +1,14 @@
 # MYSS KETA
 
-MYSS KETA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at E1, London on Fri, 18 Dec 2026.
+MYSS KETA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
-MYSS KETA is a techno and house artist based in Italy, with 11 gigs on soundcheck across Basel, Berlin, Cologne and Leipzig and 5 more. Often billed alongside SHOKI287, 131bpm and ABSOLUTE.. Next up: E1, London on Fri 18 Dec.
+MYSS KETA is a techno and house artist based in Italy, with 12 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 6 more. Often billed alongside SHOKI287, DBBD and 131bpm. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 18 Dec 2026 | E1 | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ MYSS KETA is a techno and house artist based in Italy, with 11 gigs on soundchec
 
 ## Shares bills with
 
-SHOKI287, 131bpm, ABSOLUTE.
+SHOKI287, DBBD, 131bpm
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myssketa/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myssketa/)*

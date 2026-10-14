@@ -1,6 +1,6 @@
 # Hoppetosse
 
-Hoppetosse is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Healing Channel: Ron Obvious, Nina Yamada, DJ Pipe b2b SiSi, Garrett David" on Fri, 16 Oct 2026.
+Hoppetosse is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Healing Channel: Ron Obvious, Nina Yamada, DJ Pipe b2b SiSi, Garrett David" on Fri, 16 Oct 2026.
 
 Hoppetosse is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including ALCATRAZ, Andrei Ciubuc, Argenis Brito and Baloo (SA) and 2 more. See dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, wi
 
 Eichenstrasse 4; Treptow; 12435 Berlin; Germany, Berlin
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*

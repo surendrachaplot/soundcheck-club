@@ -1,6 +1,6 @@
 # ark (Melb)
 
-ark (Melb) is a music venue in Melbourne with 12 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "ark x Novel // special guest (tba)" on Sat, 17 Oct 2026.
+ark (Melb) is a music venue in Melbourne with 12 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "ark x Novel // KiNK [BG] (live)" on Sat, 17 Oct 2026.
 
 ark (Melb) is a music venue in Melbourne listed on soundcheck. 12 upcoming gigs, with line-ups including Auramatic, Caleb Jay, CHARBINKS and Crybaby and 2 more. See dates, start times and who's playing. 2 Geddes Lane, Melbourne, VIC.
 
@@ -8,7 +8,7 @@ ark (Melb) is a music venue in Melbourne listed on soundcheck. 12 upcoming gigs,
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | ark x Novel // special guest (tba) | CHARBINKS, Caleb Jay, Marco Liuzzi, SNAXX, Steve Ward |
+| Sat, 17 Oct 2026 | ark x Novel // KiNK [BG] (live) | CHARBINKS, Caleb Jay, KiNK, Marco Liuzzi, SNAXX, Steve Ward |
 | Sat, 31 Oct 2026 | ark // Guy Contact - DJ Luv You | DJ Luv You, Guy Contact |
 | Sat, 7 Nov 2026 | ark // Crÿbaby - MASSI. - Harry Connell -  | Crybaby, Harry Connell, MASSI. |
 | Sat, 14 Nov 2026 | ark // James Poole [UK] - Jim Jonathan [NL] - KELLAR [NL] | James Poole, KELLAR |
@@ -23,4 +23,4 @@ ark (Melb) is a music venue in Melbourne listed on soundcheck. 12 upcoming gigs,
 
 2 Geddes Lane, Melbourne, VIC, Melbourne
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*

@@ -1,6 +1,6 @@
 # BENNETT
 
-BENNETT is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 16 Oct 2026.
+BENNETT is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 16 Oct 2026.
 
 BENNETT is a techno and trance artist based in Germany, with 26 gigs on soundcheck across Berlin, Cologne, Helsinki and Los Angeles and 6 more. Often billed alongside WAN.1, DJ Jordan and I Hate Models. Next up: Lokschuppen Berlin, Berlin on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ BENNETT is a techno and trance artist based in Germany, with 26 gigs on soundche
 
 WAN.1, DJ Jordan, I Hate Models
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennett/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennett/)*

@@ -1,6 +1,6 @@
 # Ship Sket
 
-Ship Sket is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+Ship Sket is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
 Ship Sket is an experimental and club artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 18 more. Often billed alongside Proc Fiskal, KAVARI and Naramnesia. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Ship Sket is an experimental and club artist based in United Kingdom, with 79 gi
 
 Proc Fiskal, KAVARI, Naramnesia
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shipsket/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shipsket/)*

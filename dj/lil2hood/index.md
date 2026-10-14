@@ -1,13 +1,14 @@
 # LIL2HOOD
 
-LIL2HOOD is a Club and Dancehall artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Honey's, New York City on Thu, 29 Oct 2026.
+LIL2HOOD is a Club and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at 3 Dollar Bill, New York City on Sun, 25 Oct 2026.
 
-LIL2HOOD is a club and dancehall artist based in United States of America, with 17 gigs on soundcheck across New York City and Philadelphia. Often billed alongside EDEN BEKELE, CH3RI and Grabba Ranks. Next up: Honey's, New York City on Thu 29 Oct.
+LIL2HOOD is a club and dancehall artist based in United States of America, with 18 gigs on soundcheck across New York City and Philadelphia. Often billed alongside EDEN BEKELE, BRATATTACK and CH3RI. Next up: 3 Dollar Bill, New York City on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 25 Oct 2026 | 3 Dollar Bill | New York City |
 | Thu, 29 Oct 2026 | Honey's | New York City |
 
 ## Recently played
@@ -23,6 +24,6 @@ LIL2HOOD is a club and dancehall artist based in United States of America, with 
 
 ## Shares bills with
 
-EDEN BEKELE, CH3RI, Grabba Ranks
+EDEN BEKELE, BRATATTACK, CH3RI
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lil2hood/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lil2hood/)*

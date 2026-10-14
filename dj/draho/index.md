@@ -1,6 +1,6 @@
 # DRAHO
 
-DRAHO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 24 Oct 2026.
+DRAHO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 24 Oct 2026.
 
 DRAHO is a techno and trance artist based in Denmark, with 18 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside dj Joe, steamboi and Alegrando. Next up: Den Anden Side, Copenhagen on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DRAHO is a techno and trance artist based in Denmark, with 18 gigs on soundcheck
 
 dj Joe, steamboi, Alegrando
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/draho/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/draho/)*

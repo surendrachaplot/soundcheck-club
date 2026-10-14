@@ -1,6 +1,6 @@
 # Vybz Kartel
 
-Vybz Kartel is a Hip-Hop and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The Lighthouse Club, London on Fri, 30 Oct 2026.
+Vybz Kartel is a Hip-Hop and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at The Lighthouse Club, London on Fri, 30 Oct 2026.
 
 Vybz Kartel is a hip-hop and afrobeat artist based in Jamaica, with 32 gigs on soundcheck across London. Often billed alongside ID, Sweets and Spice. Next up: The Lighthouse Club, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Vybz Kartel is a hip-hop and afrobeat artist based in Jamaica, with 32 gigs on s
 
 ID, Sweets, Spice
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vybzkartel/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vybzkartel/)*

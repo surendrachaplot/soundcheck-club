@@ -1,6 +1,6 @@
 # canumaboys
 
-canumaboys is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at R25 Kulturschlachthof, Düsseldorf on Fri, 16 Oct 2026.
+canumaboys is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at R25 Kulturschlachthof, Düsseldorf on Fri, 16 Oct 2026.
 
 canumaboys is a trance and techno artist, with 6 gigs on soundcheck across Berlin, Düsseldorf, Munich and Stuttgart. Often billed alongside Aexhy, DETOXX and DJ Blockflöte 2000. Next up: R25 Kulturschlachthof, Düsseldorf on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ canumaboys is a trance and techno artist, with 6 gigs on soundcheck across Berli
 
 Aexhy, DETOXX, DJ Blockflöte 2000
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/canumaboys/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/canumaboys/)*

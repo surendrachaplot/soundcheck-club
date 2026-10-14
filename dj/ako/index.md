@@ -1,6 +1,6 @@
 # ako
 
-ako is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Jasna 1, Warsaw on Fri, 16 Oct 2026.
+ako is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Jasna 1, Warsaw on Fri, 16 Oct 2026.
 
 ako is a techno and trance artist based in United Kingdom, with 15 gigs on soundcheck across Antwerp, Brussels, Tokyo and Vienna and 1 more. Often billed alongside MATRIX3K, Ryan Elliott and Spiritjack. Next up: Jasna 1, Warsaw on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ ako is a techno and trance artist based in United Kingdom, with 15 gigs on sound
 
 MATRIX3K, Ryan Elliott, Spiritjack
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ako/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ako/)*

@@ -1,6 +1,6 @@
 # Crossy
 
-Crossy is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at District Cardiff, Cardiff on Fri, 16 Oct 2026.
+Crossy is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at District Cardiff, Cardiff on Fri, 16 Oct 2026.
 
 Crossy is a drum & bass and jungle artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 16 more. Often billed alongside Carasel, Disrupta and Kanine. Next up: District Cardiff, Cardiff on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Crossy is a drum & bass and jungle artist based in United Kingdom, with 65 gigs 
 
 Carasel, Disrupta, Kanine
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crossy/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crossy/)*

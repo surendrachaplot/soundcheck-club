@@ -1,6 +1,6 @@
 # xo.benson
 
-xo.benson is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Ez Inn, Chicago on Fri, 16 Oct 2026.
+xo.benson is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Ez Inn, Chicago on Fri, 16 Oct 2026.
 
 xo.benson is a techno and electronica artist based in United States of America, with 4 gigs on soundcheck across Chicago. Often billed alongside Swan Drama, Abisai and Glamour Cadaver. Next up: Ez Inn, Chicago on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ xo.benson is a techno and electronica artist based in United States of America, 
 
 Swan Drama, Abisai, Glamour Cadaver
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xo.benson/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xo.benson/)*

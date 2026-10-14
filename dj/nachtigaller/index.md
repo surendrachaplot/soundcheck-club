@@ -1,6 +1,6 @@
 # Nachtigaller
 
-Nachtigaller is a Techno and Hip-Hop artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Bootshaus, Cologne on Sat, 7 Nov 2026.
+Nachtigaller is a Techno and Hip-Hop artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Bootshaus, Cologne on Sat, 7 Nov 2026.
 
 Nachtigaller is a techno and hip-hop artist based in Germany, with 21 gigs on soundcheck across Berlin, Cologne, Dortmund Essen and Frankfurt and 7 more. Often billed alongside A.N.I., DTEXX and Filialleiter. Next up: Bootshaus, Cologne on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Nachtigaller is a techno and hip-hop artist based in Germany, with 21 gigs on so
 
 A.N.I., DTEXX, Filialleiter
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nachtigaller/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nachtigaller/)*

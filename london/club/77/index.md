@@ -1,8 +1,8 @@
 # 77
 
-77 is a music venue in London with 16 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "77: Dimitri From Paris" on Fri, 16 Oct 2026.
+77 is a music venue in London with 17 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "77: Dimitri From Paris" on Fri, 16 Oct 2026.
 
-77 is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Akhil (UK), Alan Dixon, AliTR and Cinar and 2 more. See dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
+77 is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Akhil (UK), Alan Dixon, AliTR and Cinar and 2 more. See dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
 ## What's on
 
@@ -16,11 +16,11 @@
 | Sun, 25 Oct 2026 | 77 PRESENT SUNDAYZ: DJ OBI |  |
 | Mon, 26 Oct 2026 | FullHouse Monday Party: Special Guest |  |
 | Fri, 30 Oct 2026 | Halloween: The 77th Hour / Emanuel Satie  | Emanuel Satie |
+| Sun, 1 Nov 2026 | 77 PRESENT SUNDAYZ |  |
 | Mon, 2 Nov 2026 | FullHouse Monday Party: Special Guest |  |
-| Fri, 6 Nov 2026 | 77: SONA | SONA (2) |
 
 ## Address
 
 77 Welbeck Street, W1G 0BB, London
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*

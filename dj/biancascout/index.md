@@ -1,14 +1,15 @@
 # Bianca Scout
 
-Bianca Scout is a Experimental and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Muziekgebouw aan t' IJ, Amsterdam on Wed, 21 Oct 2026.
+Bianca Scout is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Muziekgebouw aan t' IJ, Amsterdam on Wed, 21 Oct 2026.
 
-Bianca Scout is an experimental and post-punk artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Rainy Miller, 2K88 and Lauren Duffus. Next up: Muziekgebouw aan t' IJ, Amsterdam on Wed 21 Oct.
+Bianca Scout is an experimental and electronica artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Rainy Miller, 2K88 and Lauren Duffus. Next up: Muziekgebouw aan t' IJ, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Muziekgebouw aan t' IJ | Amsterdam |
+| Wed, 11 Nov 2026 | Hexagon Brussels | Brussels |
 | Thu, 10 Dec 2026 | The White Hotel | Manchester |
 
 ## Recently played
@@ -26,4 +27,4 @@ Bianca Scout is an experimental and post-punk artist based in United Kingdom, wi
 
 Rainy Miller, 2K88, Lauren Duffus
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biancascout/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biancascout/)*

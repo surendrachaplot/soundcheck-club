@@ -1,6 +1,6 @@
 # Sakiko Nagai
 
-Sakiko Nagai is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Little Jerry, Toronto on Sat, 17 Oct 2026.
+Sakiko Nagai is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Little Jerry, Toronto on Sat, 17 Oct 2026.
 
 Sakiko Nagai is a disco and house artist based in Canada, with 49 gigs on soundcheck across Montreal, Tokyo, Toronto and Vancouver. Often billed alongside Roland Gonzales, Janina Marie and Jason Palma. Next up: The Little Jerry, Toronto on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Sakiko Nagai is a disco and house artist based in Canada, with 49 gigs on soundc
 
 Roland Gonzales, Janina Marie, Jason Palma
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sakikonagai/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sakikonagai/)*

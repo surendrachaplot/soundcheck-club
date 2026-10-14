@@ -1,6 +1,6 @@
 # Kenny M
 
-Kenny M is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Snappy's Small Bar, Washington DC on Fri, 23 Oct 2026.
+Kenny M is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Snappy's Small Bar, Washington DC on Fri, 23 Oct 2026.
 
 Kenny M is a house and funk / soul artist based in United States of America, with 49 gigs on soundcheck across Glasgow, Philadelphia and Washington DC. Often billed alongside DJ Con, DJ Eddy Bauer and lady lavender. Next up: Snappy's Small Bar, Washington DC on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Kenny M is a house and funk / soul artist based in United States of America, wit
 
 DJ Con, DJ Eddy Bauer, lady lavender
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kennym/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kennym/)*

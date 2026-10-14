@@ -1,6 +1,6 @@
 # CYCLO BONETTE
 
-CYCLO BONETTE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 25 Oct 2026.
+CYCLO BONETTE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 25 Oct 2026.
 
 CYCLO BONETTE is a house and techno artist based in Lebanon, with 27 gigs on soundcheck across Boston and New York City. Often billed alongside Maxwellbean, Astral_Dejection and ROARK. Next up: Bossa Nova Civic Club, New York City on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ CYCLO BONETTE is a house and techno artist based in Lebanon, with 27 gigs on sou
 
 Maxwellbean, Astral_Dejection, ROARK
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyclobonette/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyclobonette/)*

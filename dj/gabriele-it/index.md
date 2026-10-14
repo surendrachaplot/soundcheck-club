@@ -1,6 +1,6 @@
 # Gabriele
 
-Gabriele is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Detune, Milan on Fri, 16 Oct 2026.
+Gabriele is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Detune, Milan on Fri, 16 Oct 2026.
 
 Gabriele is a techno and electronica artist based in Italy, with 19 gigs on soundcheck across Milan and Rome. Often billed alongside Nicola Mazzetti, Dove Quiete and Jane Fitz. Next up: Detune, Milan on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Gabriele is a techno and electronica artist based in Italy, with 19 gigs on soun
 
 Nicola Mazzetti, Dove Quiete, Jane Fitz
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriele-it/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriele-it/)*

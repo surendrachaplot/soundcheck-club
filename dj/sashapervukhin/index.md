@@ -1,6 +1,6 @@
 # Sasha Pervukhin
 
-Sasha Pervukhin is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Rūmu, Lisbon on Wed, 14 Oct 2026.
+Sasha Pervukhin is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Rūmu, Lisbon on Wed, 14 Oct 2026.
 
 Sasha Pervukhin is an electronic artist based in Ukraine, with 26 gigs on soundcheck across Berlin, Krakow, Lisbon and Paris and 1 more. Often billed alongside Jorge Caiado, TYSK and Kristina. Next up: Rūmu, Lisbon on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ Sasha Pervukhin is an electronic artist based in Ukraine, with 26 gigs on soundc
 
 Jorge Caiado, TYSK, Kristina (2)
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sashapervukhin/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sashapervukhin/)*

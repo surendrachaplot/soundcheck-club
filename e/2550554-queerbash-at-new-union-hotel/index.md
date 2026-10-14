@@ -1,6 +1,6 @@
 # Queerbash at New Union Hotel
 
-Queerbash at New Union Hotel on Fri 13 Nov, Manchester. Trance and Breakbeat. See the line-up on soundcheck.
+Queerbash at New Union Hotel on Fri 13 Nov, Manchester. Breakbeat and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

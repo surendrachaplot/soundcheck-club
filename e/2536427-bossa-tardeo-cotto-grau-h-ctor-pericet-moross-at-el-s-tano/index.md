@@ -1,0 +1,16 @@
+# BOSSA TARDEO: Cotto, Grau, Héctor Pericet, Moross at EL SÓTANO
+
+BOSSA TARDEO: Cotto, Grau, Héctor Pericet, Moross at EL SÓTANO on Sun 18 Oct, Madrid. 2 artists: Grau and Héctor Pericet. Tech House. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sun, 18 Oct 2026 |
+| Venue | EL SÓTANO |
+| City | Madrid |
+
+## Line-up
+
+- Grau
+- Héctor Pericet
+
+*Source: [soundcheck](https://soundcheck.club/e/2536427-bossa-tardeo-cotto-grau-h-ctor-pericet-moross-at-el-s-tano/)*

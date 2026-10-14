@@ -1,6 +1,6 @@
 # Mochakk
 
-Mochakk is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at GASHOUDER, Amsterdam on Fri, 23 Oct 2026.
+Mochakk is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at GASHOUDER, Amsterdam on Fri, 23 Oct 2026.
 
 Mochakk is a house and tech house artist based in Brazil, with 162 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 44 more. Often billed alongside Seth Troxler, Chloé Caillet and DJ Tennis. Next up: GASHOUDER, Amsterdam on Fri 23 Oct.
 
@@ -31,4 +31,4 @@ Mochakk is a house and tech house artist based in Brazil, with 162 gigs on sound
 
 Seth Troxler, Chloé Caillet, DJ Tennis
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*

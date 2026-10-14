@@ -1,6 +1,6 @@
 # ronch
 
-ronch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Piccadilly Central, Manchester on Fri, 30 Oct 2026.
+ronch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Piccadilly Central, Manchester on Fri, 30 Oct 2026.
 
 ronch is a techno and house artist based in Spain, with 8 gigs on soundcheck across Geneva and Manchester. Often billed alongside Alex Moore, KURLZ and MARCUS THE MARAUDER. Next up: Piccadilly Central, Manchester on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ ronch is a techno and house artist based in Spain, with 8 gigs on soundcheck acr
 
 Alex Moore, KURLZ, MARCUS THE MARAUDER
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronch/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronch/)*

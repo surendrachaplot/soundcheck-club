@@ -1,6 +1,6 @@
 # TBA - Location With Ticket
 
-TBA - Location With Ticket is a music venue in Denver with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "relinquish [vol. 3] - ambient" on Thu, 15 Oct 2026.
+TBA - Location With Ticket is a music venue in Denver with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "relinquish [vol. 3] - ambient" on Thu, 15 Oct 2026.
 
 TBA - Location With Ticket is a music venue in Denver listed on soundcheck. 8 upcoming gigs, with line-ups including ALX-106, Andrew Bon Bosher, Craze and DJ PurRpLeXeD and 2 more. See dates, start times and who's playing.
 
@@ -17,4 +17,4 @@ TBA - Location With Ticket is a music venue in Denver listed on soundcheck. 8 up
 | Sat, 7 Nov 2026 | Abyss feat. Mark Broom | Andrew Bon Bosher, Mark Broom |
 | Sat, 14 Nov 2026 | Architects - The Allegory | DSQISE |
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-location-with-ticket/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-location-with-ticket/)*

@@ -1,6 +1,6 @@
 # Sala Villanos
 
-Sala Villanos is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Danilo Plessow (MCDE) + Marcos Boricua + Javi Frias" on Fri, 16 Oct 2026.
+Sala Villanos is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Danilo Plessow (MCDE) + Marcos Boricua + Javi Frias" on Fri, 16 Oct 2026.
 
 Sala Villanos is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including Acid Pauli, Acid Hero, Axel Boman and Cinthie and 2 more. See dates, start times and who's playing. C. de Bernardino Obregón, 18, 28012 Madrid, Spain.
 
@@ -23,4 +23,4 @@ Sala Villanos is a music venue in Madrid listed on soundcheck. 11 upcoming gigs,
 
 C. de Bernardino Obregón, 18, 28012 Madrid, Spain, Madrid
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-villanos/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-villanos/)*

@@ -1,6 +1,6 @@
 # DJ Greenman
 
-DJ Greenman is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The Locale, Glasgow on Sat, 31 Oct 2026.
+DJ Greenman is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at The Locale, Glasgow on Sat, 31 Oct 2026.
 
 DJ Greenman is a bass and house artist based in United Kingdom, with 31 gigs on soundcheck across Bristol, Edinburgh and Glasgow. Often billed alongside Skillis, Hometown Sound and Kairogen. Next up: The Locale, Glasgow on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ Greenman is a bass and house artist based in United Kingdom, with 31 gigs on 
 
 Skillis, Hometown Sound, Kairogen
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgreenman/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgreenman/)*

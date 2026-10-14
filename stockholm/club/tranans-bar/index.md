@@ -1,6 +1,6 @@
 # Tranans Bar
 
-Tranans Bar is a music venue in Stockholm with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Yuné Pinku at Tranans Bar" on Sat, 24 Oct 2026.
+Tranans Bar is a music venue in Stockholm with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Yuné Pinku at Tranans Bar" on Sat, 24 Oct 2026.
 
 Tranans Bar is a music venue in Stockholm listed on soundcheck. 3 upcoming gigs, with line-ups including Julian Artur. See dates, start times and who's playing. Karlbergsvägen 14, 113 27 Stockholm, Sweden.
 
@@ -16,4 +16,4 @@ Tranans Bar is a music venue in Stockholm listed on soundcheck. 3 upcoming gigs,
 
 Karlbergsvägen 14, 113 27 Stockholm, Sweden, Stockholm
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tranans-bar/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tranans-bar/)*

@@ -1,6 +1,6 @@
 # Lasociaciøn
 
-Lasociaciøn is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "DARKMASS Lasociaciøn ||| Raul Parra • AMBRA • LAPUTASOFI • BIGOT3X • ZBZ" on Fri, 16 Oct 2026.
+Lasociaciøn is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "DARKMASS Lasociaciøn ||| Raul Parra • AMBRA • LAPUTASOFI • BIGOT3X • ZBZ" on Fri, 16 Oct 2026.
 
 Lasociaciøn is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including Aizikovic, Akibeel, Alex (ES) and AMBRA and 2 more. See dates, start times and who's playing. C. Gamonal, 5, 28031 Madrid.
 
@@ -22,4 +22,4 @@ Lasociaciøn is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, w
 
 C. Gamonal, 5, 28031 Madrid, Madrid
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lasociaci-n/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lasociaci-n/)*

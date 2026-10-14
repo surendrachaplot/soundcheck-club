@@ -1,6 +1,6 @@
 # Alarico
 
-Alarico is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Studio Club Malaga, Malaga on Fri, 16 Oct 2026.
+Alarico is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Studio Club Malaga, Malaga on Fri, 16 Oct 2026.
 
 Alarico is a techno and house artist based in Italy, with 277 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 72 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Studio Club Malaga, Malaga on Fri 16 Oct.
 
@@ -36,4 +36,4 @@ Alarico is a techno and house artist based in Italy, with 277 gigs on soundcheck
 
 Chlär, Funk Assault, Yanamaste
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*

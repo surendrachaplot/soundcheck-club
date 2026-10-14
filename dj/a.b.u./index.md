@@ -1,6 +1,6 @@
 # A.B.U.
 
-A.B.U. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Golden Gate, Berlin on Thu, 15 Oct 2026.
+A.B.U. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Golden Gate, Berlin on Thu, 15 Oct 2026.
 
 A.B.U. is a house and techno artist, with 33 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside Antoine Baiser, Jakob Seidensticker and Le.Fu. Next up: Golden Gate, Berlin on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ A.B.U. is a house and techno artist, with 33 gigs on soundcheck across Berlin, H
 
 Antoine Baiser, Jakob Seidensticker, Le.Fu
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.b.u./)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.b.u./)*

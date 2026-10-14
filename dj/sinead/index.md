@@ -1,14 +1,15 @@
 # Sinéad
 
-Sinéad is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at NOWHERE, Manchester on Sat, 31 Oct 2026.
+Sinéad is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at NOWHERE, Manchester on Sat, 31 Oct 2026.
 
-Sinéad is a house and techno artist based in United States of America, with 77 gigs on soundcheck across Berlin, Chicago, Cork and Detroit and 20 more. Often billed alongside Shanti Celeste, Louiv and Galen. Next up: NOWHERE, Manchester on Sat 31 Oct.
+Sinéad is a house and techno artist based in United States of America, with 78 gigs on soundcheck across Berlin, Chicago, Cork and Detroit and 20 more. Often billed alongside Shanti Celeste, Louiv and Galen. Next up: NOWHERE, Manchester on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | NOWHERE | Manchester |
+| Sat, 14 Nov 2026 | The Glove That Fits | London |
 | Sat, 21 Nov 2026 | public records | New York City |
 
 ## Recently played
@@ -26,4 +27,4 @@ Sinéad is a house and techno artist based in United States of America, with 77 
 
 Shanti Celeste, Louiv, Galen
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinead/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinead/)*

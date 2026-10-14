@@ -1,6 +1,6 @@
 # Tresor New Faces hosted by ENIGMA at Tresor / Globus
 
-Tresor New Faces hosted by ENIGMA at Tresor / Globus on Wed 18 Nov, Berlin. 4 artists: Adriano., DAHRAXT, Kerosene and Miss Italia. See the line-up on soundcheck.
+Tresor New Faces hosted by ENIGMA at Tresor / Globus on Wed 18 Nov, Berlin. 4 artists: Adriano., DAHRAXT, KEROSENE (ZA) and Miss Italia. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ Tresor New Faces hosted by ENIGMA at Tresor / Globus on Wed 18 Nov, Berlin. 4 ar
 
 - Adriano.
 - DAHRAXT
-- Kerosene
+- KEROSENE (ZA)
 - Miss Italia
 
 *Source: [soundcheck](https://soundcheck.club/e/2550781-tresor-new-faces-hosted-by-enigma-at-tresor-globus/)*

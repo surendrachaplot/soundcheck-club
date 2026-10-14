@@ -1,6 +1,6 @@
 # Rosie's Bar
 
-Rosie's Bar is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "NTT Records X Rosie's Bar presents: Kantos (all night long)" on Fri, 16 Oct 2026.
+Rosie's Bar is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "NTT Records X Rosie's Bar presents: Kantos (all night long)" on Fri, 16 Oct 2026.
 
 Rosie's Bar is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Bruno Bleckmann, Clarence and maniac&me. See dates, start times and who's playing. Weinbergsweg 1a, Rosenthaler Platz, 10119 Berlin.
 
@@ -15,4 +15,4 @@ Rosie's Bar is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, wi
 
 Weinbergsweg 1a, Rosenthaler Platz, 10119 Berlin, Berlin
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rosie-s-bar/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rosie-s-bar/)*

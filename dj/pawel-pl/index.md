@@ -1,6 +1,6 @@
 # PAWEL (PL)
 
-PAWEL (PL) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Jasna 1, Warsaw on Sat, 17 Oct 2026.
+PAWEL (PL) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Jasna 1, Warsaw on Sat, 17 Oct 2026.
 
 PAWEL (PL) is a techno and electro artist based in Poland, with 68 gigs on soundcheck across Berlin, Krakow and Warsaw. Often billed alongside MKO (PL), Kovvalsky and Olivia. Next up: Jasna 1, Warsaw on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ PAWEL (PL) is a techno and electro artist based in Poland, with 68 gigs on sound
 
 MKO (PL), Kovvalsky, Olivia
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pawel-pl/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pawel-pl/)*

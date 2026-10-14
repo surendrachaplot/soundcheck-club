@@ -1,6 +1,6 @@
 # Kojiro
 
-Kojiro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
+Kojiro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
 
 Kojiro is a techno and house artist based in Japan, with 98 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Taichi Kawahira, DANDAN and PUSTER. Next up: Ooba Camping Village, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Kojiro is a techno and house artist based in Japan, with 98 gigs on soundcheck a
 
 Taichi Kawahira, DANDAN, PUSTER
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kojiro/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kojiro/)*

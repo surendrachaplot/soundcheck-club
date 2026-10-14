@@ -1,6 +1,6 @@
 # KIQ (1)
 
-KIQ (1) is a Deep House and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Hotel Sofitel Skipper Barcelona, Barcelona on Thu, 15 Oct 2026.
+KIQ (1) is a Deep House and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Hotel Sofitel Skipper Barcelona, Barcelona on Thu, 15 Oct 2026.
 
 KIQ is a deep house and pop artist, with 15 gigs on soundcheck across Barcelona. Often billed alongside delta syn, Civaro and AJ Reyes. Next up: Hotel Sofitel Skipper Barcelona, Barcelona on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ KIQ is a deep house and pop artist, with 15 gigs on soundcheck across Barcelona.
 
 delta syn, Civaro, AJ Reyes
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiq-1/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiq-1/)*

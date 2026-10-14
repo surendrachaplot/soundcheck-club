@@ -1,6 +1,6 @@
 # Resi Regelt
 
-Resi Regelt is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Jonny Knüppel, Berlin on Fri, 23 Oct 2026.
+Resi Regelt is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Jonny Knüppel, Berlin on Fri, 23 Oct 2026.
 
 Resi Regelt is a house and bass artist, with 7 gigs on soundcheck across Berlin. Often billed alongside COGNAC200, DJ Gabi and Lisatrix. Next up: Jonny Knüppel, Berlin on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Resi Regelt is a house and bass artist, with 7 gigs on soundcheck across Berlin.
 
 COGNAC200, DJ Gabi, Lisatrix
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/resiregelt/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/resiregelt/)*

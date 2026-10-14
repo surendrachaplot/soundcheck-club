@@ -1,6 +1,6 @@
 # MAV666
 
-MAV666 is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The Sound House, Dublin on Sat, 31 Oct 2026.
+MAV666 is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at The Sound House, Dublin on Sat, 31 Oct 2026.
 
 MAV666 is a techno and hardcore artist based in Ireland, with 52 gigs on soundcheck across Amsterdam, Belfast, Berlin and Dublin and 7 more. Often billed alongside Shannen Blessing, blk. and JWY. Next up: The Sound House, Dublin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ MAV666 is a techno and hardcore artist based in Ireland, with 52 gigs on soundch
 
 Shannen Blessing, blk., JWY (1)
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mav666/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mav666/)*

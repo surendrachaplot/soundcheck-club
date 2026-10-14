@@ -1,6 +1,6 @@
 # Okeam
 
-Okeam is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Madam, Amsterdam on Thu, 26 Nov 2026.
+Okeam is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Madam, Amsterdam on Thu, 26 Nov 2026.
 
 Okeam is a house and tech house artist based in Italy, with 7 gigs on soundcheck across Amsterdam. Often billed alongside Brent New, Cees and Hagelslag. Next up: Madam, Amsterdam on Thu 26 Nov.
 
@@ -23,4 +23,4 @@ Okeam is a house and tech house artist based in Italy, with 7 gigs on soundcheck
 
 Brent New, Cees, Hagelslag
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okeam/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okeam/)*

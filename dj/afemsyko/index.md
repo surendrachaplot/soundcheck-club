@@ -1,6 +1,6 @@
 # Afem Syko
 
-Afem Syko is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Sonora Bordeaux, Bordeaux on Fri, 16 Oct 2026.
+Afem Syko is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Sonora Bordeaux, Bordeaux on Fri, 16 Oct 2026.
 
 Afem Syko is a techno and trance artist based in Germany, with 163 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Barcelona and 50 more. Often billed alongside In Verruf, Johannes Schuster and Somewhen. Next up: Sonora Bordeaux, Bordeaux on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ Afem Syko is a techno and trance artist based in Germany, with 163 gigs on sound
 
 In Verruf, Johannes Schuster, Somewhen
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afemsyko/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afemsyko/)*

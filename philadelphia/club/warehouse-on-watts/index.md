@@ -1,6 +1,6 @@
 # Warehouse on Watts
 
-Warehouse on Watts is a music venue in Philadelphia with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Cortisa Star - For All The Dolls Tour" on Wed, 14 Oct 2026.
+Warehouse on Watts is a music venue in Philadelphia with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Cortisa Star - For All The Dolls Tour" on Wed, 14 Oct 2026.
 
 Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 8 upcoming gigs, with line-ups including De León, DJ Love, DJ Tennis and JFK (USA) and 2 more. See dates, start times and who's playing. 923-29 N. Watts St. Philadelphia, PA 19123.
 
@@ -21,4 +21,4 @@ Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 8 upco
 
 923-29 N. Watts St. Philadelphia, PA 19123, Philadelphia
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/warehouse-on-watts/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/warehouse-on-watts/)*

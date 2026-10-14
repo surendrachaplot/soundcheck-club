@@ -1,8 +1,8 @@
 # Elisa Bee
 
-Elisa Bee is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Campidarte Sardegna, Central on Sun, 18 Oct 2026.
+Elisa Bee is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Campidarte Sardegna, Central on Sun, 18 Oct 2026.
 
-Elisa Bee is a techno and tech house artist based in Italy, with 70 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Central and 14 more. Often billed alongside Industrial Romantico, Acidalia and Alimac. Next up: Campidarte Sardegna, Central on Sun 18 Oct.
+Elisa Bee is a techno and house artist based in Italy, with 70 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Central and 14 more. Often billed alongside Industrial Romantico, Acidalia and Alimac. Next up: Campidarte Sardegna, Central on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Elisa Bee is a techno and tech house artist based in Italy, with 70 gigs on soun
 
 Industrial Romantico, Acidalia, Alimac
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elisabee/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elisabee/)*

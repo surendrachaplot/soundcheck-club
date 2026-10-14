@@ -1,6 +1,6 @@
 # cassandrah
 
-cassandrah is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at SILO, New York City on Thu, 15 Oct 2026.
+cassandrah is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at SILO, New York City on Thu, 15 Oct 2026.
 
 cassandrah is a techno and industrial artist based in Italy, with 36 gigs on soundcheck across Antwerp, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside Rian Wood, Axciid and La Penderie Noire. Next up: SILO, New York City on Thu 15 Oct.
 
@@ -27,4 +27,4 @@ cassandrah is a techno and industrial artist based in Italy, with 36 gigs on sou
 
 Rian Wood, Axciid, La Penderie Noire
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassandrah/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassandrah/)*

@@ -1,13 +1,14 @@
 # Benji B
 
-Benji B is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at public records, New York City on Sat, 7 Nov 2026.
+Benji B is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Standard Time, Toronto on Fri, 6 Nov 2026.
 
-Benji B is a house and techno artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam, Barcelona, Detroit and Helsinki and 14 more. Often billed alongside &ME, Dan Shake and Rampa. Next up: public records, New York City on Sat 7 Nov.
+Benji B is a house and techno artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Barcelona, Detroit and Helsinki and 14 more. Often billed alongside &ME, Dan Shake and Rampa. Next up: Standard Time, Toronto on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Standard Time | Toronto |
 | Sat, 7 Nov 2026 | public records | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Benji B is a house and techno artist based in United Kingdom, with 63 gigs on so
 
 &ME, Dan Shake, Rampa
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benjib/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benjib/)*

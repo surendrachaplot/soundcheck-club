@@ -1,6 +1,6 @@
 # RAMMIE
 
-RAMMIE is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Bageion Hotel, Athens on Sat, 17 Oct 2026.
+RAMMIE is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Bageion Hotel, Athens on Sat, 17 Oct 2026.
 
 RAMMIE is a club and techno artist, with 10 gigs on soundcheck across Athens, Toronto and Vancouver. Often billed alongside NAI-00, SUBDIDI and Anteres. Next up: Bageion Hotel, Athens on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ RAMMIE is a club and techno artist, with 10 gigs on soundcheck across Athens, To
 
 NAI-00, SUBDIDI, Anteres
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rammie/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rammie/)*

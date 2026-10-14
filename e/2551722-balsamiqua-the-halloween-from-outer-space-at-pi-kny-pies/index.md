@@ -1,6 +1,6 @@
 # BALSAMIQUA: The Halloween from Outer Space at Piękny Pies
 
-BALSAMIQUA: The Halloween from Outer Space at Piękny Pies on Sat 31 Oct, Krakow. 3 artists: Djaa (PL), Matt Rudnicki and MATVOICE. House and Electro. See the line-up on soundcheck.
+BALSAMIQUA: The Halloween from Outer Space at Piękny Pies on Sat 31 Oct, Krakow. 3 artists: Djaa (PL), Matt Rudnicki and MATVOICE. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

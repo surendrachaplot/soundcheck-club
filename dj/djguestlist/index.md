@@ -1,6 +1,6 @@
 # DJ GUESTLIST
 
-DJ GUESTLIST is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+DJ GUESTLIST is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
 DJ GUESTLIST is a techno and trance artist based in Germany, with 132 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baden W Rttemberg and 27 more. Often billed alongside Paraçek, Cleopard2000 and DJ Traytex. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ DJ GUESTLIST is a techno and trance artist based in Germany, with 132 gigs on so
 
 Paraçek, Cleopard2000, DJ Traytex
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djguestlist/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djguestlist/)*

@@ -1,14 +1,15 @@
 # Di Chiara Brothers
 
-Di Chiara Brothers is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
+Di Chiara Brothers is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
 
-Di Chiara Brothers is a house and tech house artist based in Italy, with 29 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Buenos Aires and 12 more. Often billed alongside Chiara B, East End Dubs and RUZE. Next up: Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed 21 Oct.
+Di Chiara Brothers is a tech house and house artist based in Italy, with 30 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Buenos Aires and 12 more. Often billed alongside Chiara B, East End Dubs and RUZE. Next up: Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Tropeninstituut: Koninklijk Instituut Voor de Tropen | Amsterdam |
+| Fri, 23 Oct 2026 | Tunnel | Milan |
 | Sat, 24 Oct 2026 | Electric Studios | Sheffield |
 | Sat, 31 Oct 2026 | Chelmsford City Racecourse | London |
 | Sat, 31 Oct 2026 | The Nest | Nottingham |
@@ -30,4 +31,4 @@ Di Chiara Brothers is a house and tech house artist based in Italy, with 29 gigs
 
 Chiara B, East End Dubs, RUZE
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dichiarabrothers/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dichiarabrothers/)*

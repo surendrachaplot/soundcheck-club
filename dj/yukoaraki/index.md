@@ -1,6 +1,6 @@
 # YUKO ARAKI
 
-YUKO ARAKI is a Experimental and Noise artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Forestlimit, Tokyo on Fri, 13 Nov 2026.
+YUKO ARAKI is a Experimental and Noise artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Forestlimit, Tokyo on Fri, 13 Nov 2026.
 
 YUKO ARAKI is an experimental and noise artist, with 22 gigs on soundcheck across Brussels, London, Rome and Tokyo and 2 more. Often billed alongside mlosims, Aho Ssan and JACKSON kaki. Next up: Forestlimit, Tokyo on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ YUKO ARAKI is an experimental and noise artist, with 22 gigs on soundcheck acros
 
 mlosims, Aho Ssan, JACKSON kaki
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yukoaraki/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yukoaraki/)*

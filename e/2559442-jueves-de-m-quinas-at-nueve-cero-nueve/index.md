@@ -1,6 +1,6 @@
-# Jueves de Máquinas at nueve cero nueve
+# jueves de máquinas at nueve cero nueve
 
-Jueves de Máquinas at nueve cero nueve on Thu 15 Oct, Mexico City. 1 artist: Jiony. See the line-up on soundcheck.
+jueves de máquinas at nueve cero nueve on Thu 15 Oct, Mexico City. 1 artist: Jiony. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

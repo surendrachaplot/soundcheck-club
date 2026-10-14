@@ -1,14 +1,13 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "UNCONSCIOUS" on Tue, 13 Oct 2026.
+Enter Shibuya is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Game Chakra" on Wed, 14 Oct 2026.
 
-Enter Shibuya is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including Amps, Blackship, comm and Dan-neo and 2 more. See dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
+Enter Shibuya is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including Blackship, comm, Dan-neo and DANDAN and 2 more. See dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 13 Oct 2026 | UNCONSCIOUS | Amps, GooPer, ISPA, Yuta Yamada |
 | Wed, 14 Oct 2026 | Game Chakra | Foodman, Taigen Kawabe |
 | Thu, 15 Oct 2026 | BS0xtra | Mars89, NullDaSensei, ykah |
 | Fri, 16 Oct 2026 | cipher take over ENTER | DANDAN, Dan-neo, Finsent C, KMG, TEI TEI, UG (1) |
@@ -23,4 +22,4 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, 
 
 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan, Tokyo
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*

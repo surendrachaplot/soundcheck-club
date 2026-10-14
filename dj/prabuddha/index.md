@@ -1,6 +1,6 @@
 # Prabuddha
 
-Prabuddha is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Waterhouse Studios, Amsterdam on Sat, 24 Oct 2026.
+Prabuddha is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Waterhouse Studios, Amsterdam on Sat, 24 Oct 2026.
 
 Prabuddha is an electro and acid artist, with 12 gigs on soundcheck across Amsterdam and Bristol. Often billed alongside Taylor Taylor (NL), Mission Architect and Nicola Piva. Next up: Waterhouse Studios, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Prabuddha is an electro and acid artist, with 12 gigs on soundcheck across Amste
 
 Taylor Taylor (NL), Mission Architect, Nicola Piva
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prabuddha/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prabuddha/)*

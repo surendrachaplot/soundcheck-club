@@ -1,6 +1,6 @@
 # BOYPRINCESS
 
-BOYPRINCESS is a Latin Bass and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
+BOYPRINCESS is a Latin Bass and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
 
 BOYPRINCESS is a latin bass and industrial artist based in United States of America, with 4 gigs on soundcheck across San Francisco/Oakland. Often billed alongside 2AT, @djlobottomy and BRIIZV. Next up: Monarch, San Francisco/Oakland on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ BOYPRINCESS is a latin bass and industrial artist based in United States of Amer
 
 2AT, @djlobottomy, BRIIZV
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boyprincess/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boyprincess/)*

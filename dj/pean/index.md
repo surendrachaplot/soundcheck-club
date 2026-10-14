@@ -1,6 +1,6 @@
 # Pean
 
-Pean is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Mastak, Warsaw on Sat, 17 Oct 2026.
+Pean is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Mastak, Warsaw on Sat, 17 Oct 2026.
 
 Pean is a techno and electronica artist based in Poland, with 36 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Salat, sporra and Slowmode. Next up: Mastak, Warsaw on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Pean is a techno and electronica artist based in Poland, with 36 gigs on soundch
 
 Salat, sporra, Slowmode
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pean/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pean/)*

@@ -1,6 +1,6 @@
 # Toast Hawaii
 
-Toast Hawaii is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at frachtkante, Berlin on Sat, 17 Oct 2026.
+Toast Hawaii is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at frachtkante, Berlin on Sat, 17 Oct 2026.
 
 Toast Hawaii is a house and techno artist based in United States of America, with 28 gigs on soundcheck across Berlin and Vienna. Often billed alongside Alex Grebe, Vaneo and higgy (de). Next up: frachtkante, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Toast Hawaii is a house and techno artist based in United States of America, wit
 
 Alex Grebe, Vaneo, higgy (de)
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toasthawaii/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toasthawaii/)*

@@ -1,6 +1,6 @@
 # Der Schaffner
 
-Der Schaffner is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
+Der Schaffner is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
 
 Der Schaffner is a hardcore and techno artist based in Germany, with 25 gigs on soundcheck across Berlin, Ghent, Leipzig and Lyon and 2 more. Often billed alongside LØUS, FLUCC and Lolalita. Next up: OST, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Der Schaffner is a hardcore and techno artist based in Germany, with 25 gigs on 
 
 LØUS, FLUCC, Lolalita
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derschaffner/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derschaffner/)*

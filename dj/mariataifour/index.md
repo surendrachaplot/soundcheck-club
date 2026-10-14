@@ -1,6 +1,6 @@
 # Maria Taifour
 
-Maria Taifour is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Bambi's, Toronto on Sat, 31 Oct 2026.
+Maria Taifour is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Bambi's, Toronto on Sat, 31 Oct 2026.
 
 Maria Taifour is a house and techno artist based in Canada, with 19 gigs on soundcheck across Toronto. Often billed alongside Tony Price, Mikey Apples and Raf Reza. Next up: Bambi's, Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Maria Taifour is a house and techno artist based in Canada, with 19 gigs on soun
 
 Tony Price, Mikey Apples, Raf Reza
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariataifour/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariataifour/)*

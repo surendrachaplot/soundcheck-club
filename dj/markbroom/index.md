@@ -1,6 +1,6 @@
 # Mark Broom
 
-Mark Broom is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Periodicals, Detroit on Thu, 15 Oct 2026.
+Mark Broom is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Periodicals, Detroit on Thu, 15 Oct 2026.
 
 Mark Broom is a techno and house artist based in United Kingdom, with 115 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 48 more. Often billed alongside Autechre, CESAR ALMENA and Nuke. Next up: Periodicals, Detroit on Thu 15 Oct.
 
@@ -31,4 +31,4 @@ Mark Broom is a techno and house artist based in United Kingdom, with 115 gigs o
 
 Autechre, CESAR ALMENA, Nuke
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markbroom/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markbroom/)*

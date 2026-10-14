@@ -1,14 +1,13 @@
 # Pretty Girl
 
-Pretty Girl is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Sneaky Pete's, Edinburgh on Tue, 13 Oct 2026.
+Pretty Girl is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Fidelity Studio, Dublin on Fri, 16 Oct 2026.
 
-Pretty Girl is a house and techno artist based in Australia, with 71 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 23 more. Often billed alongside Interplanetary Criminal, KI/KI and KETTAMA. Next up: Sneaky Pete's, Edinburgh on Tue 13 Oct.
+Pretty Girl is a house and techno artist based in Australia, with 71 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 23 more. Often billed alongside Interplanetary Criminal, KI/KI and KETTAMA. Next up: Fidelity Studio, Dublin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 13 Oct 2026 | Sneaky Pete's | Edinburgh |
 | Fri, 16 Oct 2026 | Fidelity Studio | Dublin |
 | Sat, 17 Oct 2026 | Night Tales Loft | London |
 | Sun, 1 Nov 2026 | TBA - The UnderpassTBA - The Underpass, 542 Footscray Road, West Melbourne VIC 3003 | Melbourne |
@@ -17,6 +16,7 @@ Pretty Girl is a house and techno artist based in Australia, with 71 gigs on sou
 
 ## Recently played
 
+- Sneaky Pete's, Edinburgh · Tue, 13 Oct 2026
 - public records, New York City · Thu, 8 Oct 2026
 - Finsbury Park, London · Fri, 7 Aug 2026
 - KOKO, London · Fri, 7 Aug 2026
@@ -24,10 +24,9 @@ Pretty Girl is a house and techno artist based in Australia, with 71 gigs on sou
 - Carriageworks, Sydney · Sat, 3 Jan 2026
 - Revolver Upstairs, Melbourne · Sun, 28 Dec 2025
 - King Street Hotel - Newcastle, Sydney · Fri, 19 Dec 2025
-- The Carpet Shop, London · Sat, 1 Nov 2025
 
 ## Shares bills with
 
 Interplanetary Criminal, KI/KI, KETTAMA
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prettygirl/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prettygirl/)*

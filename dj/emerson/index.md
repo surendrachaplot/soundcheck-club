@@ -1,6 +1,6 @@
 # Emerson
 
-Emerson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at ZUBAR, Tokyo on Sun, 18 Oct 2026.
+Emerson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at ZUBAR, Tokyo on Sun, 18 Oct 2026.
 
 Emerson is a house and techno artist based in Germany, with 9 gigs on soundcheck across Barcelona, Berlin, Frankfurt and Tokyo. Often billed alongside Anne-Sophie Selig, Antic Soul and Asem Shama. Next up: ZUBAR, Tokyo on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Emerson is a house and techno artist based in Germany, with 9 gigs on soundcheck
 
 Anne-Sophie Selig, Antic Soul, Asem Shama
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emerson/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emerson/)*

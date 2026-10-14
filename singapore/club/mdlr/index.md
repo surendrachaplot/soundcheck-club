@@ -1,6 +1,6 @@
 # Mdlr
 
-Mdlr is a music venue in Singapore with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "GIVE. X THUGSHOP presents LISTER" on Sat, 17 Oct 2026.
+Mdlr is a music venue in Singapore with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "GIVE. X THUGSHOP presents LISTER" on Sat, 17 Oct 2026.
 
 Mdlr is a music venue in Singapore listed on soundcheck. 4 upcoming gigs, with line-ups including Erwin Linden, Joshua Dillon, Lilith Blaque and Lister and 2 more. See dates, start times and who's playing. 62 Cecil Street #02-00, Singapore 049710.
 
@@ -17,4 +17,4 @@ Mdlr is a music venue in Singapore listed on soundcheck. 4 upcoming gigs, with l
 
 62 Cecil Street #02-00, Singapore 049710, Singapore
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/mdlr/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/mdlr/)*

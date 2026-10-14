@@ -1,6 +1,6 @@
 # Minimüzikhol
 
-Minimüzikhol is a music venue in Istanbul with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Club 34 presents: Bayram Ozcan / FU" on Thu, 15 Oct 2026.
+Minimüzikhol is a music venue in Istanbul with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Club 34 presents: Bayram Ozcan / FU" on Thu, 15 Oct 2026.
 
 Minimüzikhol is a music venue in Istanbul listed on soundcheck. 6 upcoming gigs, with line-ups including 34 DEGREES, Bayram Ozcan, Charles Webster and Elias Mazian and 2 more. See dates, start times and who's playing. Siraselviler Caddesi Soganci Sok. Cihangir Palas No:3/1 Beyoglu Istanbul.
 
@@ -19,4 +19,4 @@ Minimüzikhol is a music venue in Istanbul listed on soundcheck. 6 upcoming gigs
 
 Siraselviler Caddesi Soganci Sok. Cihangir Palas No:3/1 Beyoglu Istanbul, Istanbul
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/minim-zikhol/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/minim-zikhol/)*

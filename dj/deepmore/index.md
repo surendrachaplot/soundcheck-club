@@ -1,6 +1,6 @@
 # Deepmore
 
-Deepmore is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 17 Oct 2026.
+Deepmore is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 17 Oct 2026.
 
 Deepmore is a house and disco artist, with 4 gigs on soundcheck across Berlin and London. Often billed alongside GLUT Sound, Andy Caruso and Club Suave. Next up: Bulbul Berlin, Berlin on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ Deepmore is a house and disco artist, with 4 gigs on soundcheck across Berlin an
 
 GLUT Sound, Andy Caruso, Club Suave
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepmore/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepmore/)*

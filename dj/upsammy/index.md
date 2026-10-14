@@ -1,6 +1,6 @@
 # upsammy
 
-upsammy is a Techno and Experimental artist with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Garage Noord, Amsterdam on Thu, 22 Oct 2026.
+upsammy is a Techno and Experimental artist with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Garage Noord, Amsterdam on Thu, 22 Oct 2026.
 
 upsammy is a techno and experimental artist based in Netherlands, with 194 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 51 more. Often billed alongside Valentina Magaletti, CCL and Skee Mask. Next up: Garage Noord, Amsterdam on Thu 22 Oct.
 
@@ -32,4 +32,4 @@ upsammy is a techno and experimental artist based in Netherlands, with 194 gigs 
 
 Valentina Magaletti, CCL, Skee Mask
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/upsammy/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/upsammy/)*

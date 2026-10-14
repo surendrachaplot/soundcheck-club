@@ -1,6 +1,6 @@
 # Gespona
 
-Gespona is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Suma Han, Istanbul on Fri, 16 Oct 2026.
+Gespona is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Suma Han, Istanbul on Fri, 16 Oct 2026.
 
 Gespona is a progressive house and house artist based in Spain, with 108 gigs on soundcheck across Amsterdam, Azerbaijan, Barcelona and Berlin and 15 more. Often billed alongside Amadori, Djolee and Martin Cozar. Next up: Suma Han, Istanbul on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Gespona is a progressive house and house artist based in Spain, with 108 gigs on
 
 Amadori, Djolee, Martin Cozar
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gespona/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gespona/)*

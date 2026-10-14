@@ -1,6 +1,6 @@
 # RYOHEI
 
-RYOHEI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Z Maruyama, Tokyo on Sat, 24 Oct 2026.
+RYOHEI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Z Maruyama, Tokyo on Sat, 24 Oct 2026.
 
 RYOHEI is a techno and house artist based in Japan, with 330 gigs on soundcheck across Tokyo. Often billed alongside Osamu M, RINALUCKY and SUETSUGU. Next up: Z Maruyama, Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ RYOHEI is a techno and house artist based in Japan, with 330 gigs on soundcheck 
 
 Osamu M, RINALUCKY, SUETSUGU
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryohei/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryohei/)*

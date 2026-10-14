@@ -1,6 +1,6 @@
 # Foufounes Electronique
 
-Foufounes Electronique is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "EQ, meat computer & sa!koro - Good Shows x Cheap Thrill x Heavy Trip" on Sat, 17 Oct 2026.
+Foufounes Electronique is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "EQ, meat computer & sa!koro - Good Shows x Cheap Thrill x Heavy Trip" on Sat, 17 Oct 2026.
 
 Foufounes Electronique is a music venue in Montreal listed on soundcheck. 1 upcoming gig, with line-ups including Beamskii, Claireyy, EQ (Estratosfera + Qiri) and meat computer. See dates, start times and who's playing. 87 Sainte-Catherine St E; Montreal, QC H2X 1K5; Canada.
 
@@ -14,4 +14,4 @@ Foufounes Electronique is a music venue in Montreal listed on soundcheck. 1 upco
 
 87 Sainte-Catherine St E; Montreal, QC H2X 1K5; Canada, Montreal
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/foufounes-electronique/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/foufounes-electronique/)*

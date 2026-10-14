@@ -1,6 +1,6 @@
 # Petra (4)
 
-Petra (4) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Sat, 24 Oct 2026.
+Petra (4) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Sat, 24 Oct 2026.
 
 Petra is a house and electronica artist, with 7 gigs on soundcheck across London, Naples and Rome. Often billed alongside Mordak, Matteo Canori and Nadir. Next up: Soap House - Ex Saponerie Mira Lanza, Rome on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Petra is a house and electronica artist, with 7 gigs on soundcheck across London
 
 Mordak, Matteo Canori, Nadir
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petra-4/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petra-4/)*

@@ -1,6 +1,6 @@
 # nano odorine
 
-nano odorine is a Electronica and Experimental artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Spread, Tokyo on Fri, 16 Oct 2026.
+nano odorine is a Electronica and Experimental artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Spread, Tokyo on Fri, 16 Oct 2026.
 
 nano odorine is an electronica and experimental artist based in Japan, with 8 gigs on soundcheck across Tokyo. Often billed alongside AMIDAdrive, COLA REN and Can. Next up: Spread, Tokyo on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ nano odorine is an electronica and experimental artist based in Japan, with 8 gi
 
 AMIDAdrive, COLA REN, Can (8)
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoodorine/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoodorine/)*

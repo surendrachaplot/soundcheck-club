@@ -1,6 +1,6 @@
 # Concept Haus
 
-Concept Haus is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Distant Future: Binh, Lola Haro, Z@p(live)" on Sat, 17 Oct 2026.
+Concept Haus is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Distant Future: Binh, Lola Haro, Z@p(live)" on Sat, 17 Oct 2026.
 
 Concept Haus is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, with line-ups including Akua, Anthea, AVIAX and Binh and 2 more. See dates, start times and who's playing. 29 Cobden Street, Salford, M66WF.
 
@@ -17,4 +17,4 @@ Concept Haus is a music venue in Manchester listed on soundcheck. 4 upcoming gig
 
 29 Cobden Street, Salford, M66WF, Manchester
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/concept-haus/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/concept-haus/)*

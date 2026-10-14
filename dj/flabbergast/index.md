@@ -1,6 +1,6 @@
 # Flabbergast
 
-Flabbergast is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 24 Oct 2026.
+Flabbergast is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 24 Oct 2026.
 
 Flabbergast is a techno and house artist based in Canada, with 32 gigs on soundcheck across Barcelona, Basel, Berlin and Detroit and 9 more. Often billed alongside Vincent Lemieux, Guillaume & The Coutu Dumonts and Freeka Tet. Next up: Lux Fragil, Lisbon on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Flabbergast is a techno and house artist based in Canada, with 32 gigs on soundc
 
 Vincent Lemieux, Guillaume & The Coutu Dumonts, Freeka Tet
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flabbergast/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flabbergast/)*

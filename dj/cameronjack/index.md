@@ -1,6 +1,6 @@
 # Cameron Jack
 
-Cameron Jack is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at FOMO, Azerbaijan on Fri, 16 Oct 2026.
+Cameron Jack is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at FOMO, Azerbaijan on Fri, 16 Oct 2026.
 
 Cameron Jack is a house and deep house artist based in United Kingdom, with 67 gigs on soundcheck across Azerbaijan, Bali, Barcelona and Berlin and 11 more. Often billed alongside Damian Lazarus, Black Coffee and Paul Reynolds. Next up: FOMO, Azerbaijan on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Cameron Jack is a house and deep house artist based in United Kingdom, with 67 g
 
 Damian Lazarus, Black Coffee, Paul Reynolds
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cameronjack/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cameronjack/)*

@@ -1,14 +1,15 @@
 # Mon Franco
 
-Mon Franco is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Revolver Upstairs, Melbourne on Mon, 2 Nov 2026.
+Mon Franco is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Revolver Upstairs, Melbourne on Mon, 2 Nov 2026.
 
-Mon Franco is a techno and house artist based in Australia, with 39 gigs on soundcheck across Melbourne. Often billed alongside Haus of Ralph, House Mum and Cristal No.5. Next up: Revolver Upstairs, Melbourne on Mon 2 Nov.
+Mon Franco is a techno and house artist based in Australia, with 40 gigs on soundcheck across Melbourne. Often billed alongside Haus of Ralph, House Mum and Cristal No.5. Next up: Revolver Upstairs, Melbourne on Mon 2 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 2 Nov 2026 | Revolver Upstairs | Melbourne |
+| Fri, 13 Nov 2026 | Miscellania | Melbourne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Mon Franco is a techno and house artist based in Australia, with 39 gigs on soun
 
 Haus of Ralph, House Mum, Cristal No.5
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monfranco/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monfranco/)*

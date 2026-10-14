@@ -1,6 +1,6 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 10 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "ROOMER + Vision Fortune" on Thu, 15 Oct 2026.
+La Station - Gare des Mines is a music venue in Paris with 10 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "ROOMER + Vision Fortune" on Thu, 15 Oct 2026.
 
 La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 10 upcoming gigs, with line-ups including 300SkullsAndCounting, Ikävä Pii, A Good Year and Akiï and 2 more. See dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
@@ -23,4 +23,4 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 10 u
 
 29 avenue de la Porte d’Aubervilliers Paris, Paris
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*

@@ -1,6 +1,6 @@
 # Volks
 
-Volks is a music venue in Brighton with 10 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Sigma" on Sat, 17 Oct 2026.
+Volks is a music venue in Brighton with 10 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Sigma" on Sat, 17 Oct 2026.
 
 Volks is a music venue in Brighton listed on soundcheck. 10 upcoming gigs, with line-ups including Benny L, Calyx, Cleveland Watkiss and Diverge and 2 more. See dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
 
@@ -23,4 +23,4 @@ Volks is a music venue in Brighton listed on soundcheck. 10 upcoming gigs, with 
 
 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom, Brighton
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*

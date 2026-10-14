@@ -1,6 +1,6 @@
 # Hanne B
 
-Hanne B is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at PKH Warehouse, Berlin on Fri, 16 Oct 2026.
+Hanne B is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at PKH Warehouse, Berlin on Fri, 16 Oct 2026.
 
 Hanne B is a trance and techno artist based in Germany, with 45 gigs on soundcheck across Berlin and Munich. Often billed alongside Amo (IT), Bruno Brero and 4NOUK. Next up: PKH Warehouse, Berlin on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Hanne B is a trance and techno artist based in Germany, with 45 gigs on soundche
 
 Amo (IT), Bruno Brero, 4NOUK
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hanneb/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hanneb/)*

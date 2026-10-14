@@ -1,6 +1,6 @@
 # FlexibleHeart
 
-FlexibleHeart is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at objekt klein a, Dresden on Sat, 17 Oct 2026.
+FlexibleHeart is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at objekt klein a, Dresden on Sat, 17 Oct 2026.
 
 FlexibleHeart is a techno and industrial artist, with 12 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside KIMYA, SPLINTER and Nienein. Next up: objekt klein a, Dresden on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ FlexibleHeart is a techno and industrial artist, with 12 gigs on soundcheck acro
 
 KIMYA, SPLINTER (2), Nienein
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flexibleheart/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flexibleheart/)*

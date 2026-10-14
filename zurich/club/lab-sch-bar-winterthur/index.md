@@ -1,6 +1,6 @@
 # Labüsch-Bar, Winterthur
 
-Labüsch-Bar, Winterthur is a music venue in Zurich with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Karaoke Night × Alias Sektion G" on Fri, 16 Oct 2026.
+Labüsch-Bar, Winterthur is a music venue in Zurich with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Karaoke Night × Alias Sektion G" on Fri, 16 Oct 2026.
 
 Labüsch-Bar, Winterthur is a music venue in Zurich listed on soundcheck. 4 upcoming gigs, with line-ups including Karaoke. See dates, start times and who's playing. Zur Kesselschmiede 27, 8400 Winterthur, Switzerland.
 
@@ -17,4 +17,4 @@ Labüsch-Bar, Winterthur is a music venue in Zurich listed on soundcheck. 4 upco
 
 Zur Kesselschmiede 27, 8400 Winterthur, Switzerland, Zurich
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/lab-sch-bar-winterthur/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/lab-sch-bar-winterthur/)*

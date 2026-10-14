@@ -1,8 +1,8 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Silva Bumpa · Laidlaw · Alvva / PRADA2000 · VIVAY" on Fri, 16 Oct 2026.
+Nitsa Club is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Silva Bumpa · Laidlaw · Alvva / PRADA2000 · VIVAY" on Fri, 16 Oct 2026.
 
-Nitsa Club is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including Paula Tape, Alvva, Bella Sarris and Boys Noize and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
+Nitsa Club is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Paula Tape, Alvva, Bella Sarris and Boys Noize and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
 ## What's on
 
@@ -16,10 +16,11 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, 
 | Fri, 6 Nov 2026 | horsegiirL | horsegiirL |
 | Fri, 13 Nov 2026 | oskar med k | oskar med k |
 | Sat, 21 Nov 2026 | Cloonee | Cloonee |
+| Fri, 27 Nov 2026 | Overmono DJ Set | Overmono |
 | Sat, 19 Dec 2026 | Hotties: ØTTA | ØTTA |
 
 ## Address
 
 Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain, Barcelona
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*

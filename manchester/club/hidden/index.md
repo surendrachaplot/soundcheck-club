@@ -1,6 +1,6 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 21 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "5 Years of OBP" on Fri, 16 Oct 2026.
+Hidden is a music venue in Manchester with 21 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "5 Years of OBP" on Fri, 16 Oct 2026.
 
 Hidden is a music venue in Manchester listed on soundcheck. 21 upcoming gigs, with line-ups including Adele Tondu, Agnelli & Nelson, Allius and Amelia Leigh and 2 more. See dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
@@ -23,4 +23,4 @@ Hidden is a music venue in Manchester listed on soundcheck. 21 upcoming gigs, wi
 
 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom, Manchester
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*

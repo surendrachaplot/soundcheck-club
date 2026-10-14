@@ -1,6 +1,6 @@
 # Collect LX Factory
 
-Collect LX Factory is a music venue in Lisbon with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Collectors with Caroline Letho, Mafalda Mais, Enko" on Thu, 15 Oct 2026.
+Collect LX Factory is a music venue in Lisbon with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Collectors with Caroline Letho, Mafalda Mais, Enko" on Thu, 15 Oct 2026.
 
 Collect LX Factory is a music venue in Lisbon listed on soundcheck. 9 upcoming gigs, with line-ups including Amulador, Billi, C3D-E and Caroline Lethô and 2 more. See dates, start times and who's playing. R. Rodrigues de Faria 103, 1300-501 Lisboa.
 
@@ -22,4 +22,4 @@ Collect LX Factory is a music venue in Lisbon listed on soundcheck. 9 upcoming g
 
 R. Rodrigues de Faria 103, 1300-501 Lisboa, Lisbon
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-lx-factory/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-lx-factory/)*

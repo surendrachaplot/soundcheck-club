@@ -1,6 +1,6 @@
 # Rhadoo
 
-Rhadoo is a Minimal and House artist with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Les Enfants Brillants, Barcelona on Fri, 30 Oct 2026.
+Rhadoo is a Minimal and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Les Enfants Brillants, Barcelona on Fri, 30 Oct 2026.
 
 Rhadoo is a minimal and house artist based in Romania, with 189 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Petre Inspirescu, Raresh and RPR Soundsystem. Next up: Les Enfants Brillants, Barcelona on Fri 30 Oct.
 
@@ -33,4 +33,4 @@ Rhadoo is a minimal and house artist based in Romania, with 189 gigs on soundche
 
 Petre Inspirescu, Raresh, RPR Soundsystem
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*

@@ -1,6 +1,6 @@
 # WO.IZZY
 
-WO.IZZY is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Das Werk, Vienna on Sat, 17 Oct 2026.
+WO.IZZY is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Das Werk, Vienna on Sat, 17 Oct 2026.
 
 WO.IZZY is a techno and trance artist based in Austria, with 25 gigs on soundcheck across Vienna. Often billed alongside Aleta, Kat Ze and DJ Wolle. Next up: Das Werk, Vienna on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ WO.IZZY is a techno and trance artist based in Austria, with 25 gigs on soundche
 
 Aleta, Kat Ze, DJ Wolle
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wo.izzy/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wo.izzy/)*

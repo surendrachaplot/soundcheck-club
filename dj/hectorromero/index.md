@@ -1,6 +1,6 @@
 # Hector Romero
 
-Hector Romero is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Signal, New York City on Wed, 25 Nov 2026.
+Hector Romero is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Signal, New York City on Wed, 25 Nov 2026.
 
 Hector Romero is a house and deep house artist based in United States of America, with 37 gigs on soundcheck across Barcelona, Detroit, Frankfurt and Miami and 4 more. Often billed alongside Mr. V, Piem and Anna Tur. Next up: Signal, New York City on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Hector Romero is a house and deep house artist based in United States of America
 
 Mr. V, Piem, Anna Tur
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorromero/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorromero/)*

@@ -1,6 +1,6 @@
 # Demontime
 
-Demontime is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at R25 Kulturschlachthof, Düsseldorf on Fri, 16 Oct 2026.
+Demontime is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at R25 Kulturschlachthof, Düsseldorf on Fri, 16 Oct 2026.
 
 Demontime is a trance and techno artist based in Germany, with 7 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Ghent. Often billed alongside KACHU2K, ZOMBIE1000 and DETOXX. Next up: R25 Kulturschlachthof, Düsseldorf on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Demontime is a trance and techno artist based in Germany, with 7 gigs on soundch
 
 KACHU2K, ZOMBIE1000, DETOXX
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demontime/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demontime/)*

@@ -1,6 +1,6 @@
 # Chris child
 
-Chris child is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Caaza, Athens on Fri, 16 Oct 2026.
+Chris child is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Caaza, Athens on Fri, 16 Oct 2026.
 
 Chris child is a house and afro house artist, with 10 gigs on soundcheck across Athens and London. Often billed alongside Valeron, Frankie Lluc and GIO (AR). Next up: Caaza, Athens on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Chris child is a house and afro house artist, with 10 gigs on soundcheck across 
 
 Valeron, Frankie Lluc, GIO (AR)
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrischild/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrischild/)*

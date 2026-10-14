@@ -1,6 +1,6 @@
 # Pookie (2)
 
-Pookie (2) is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Sun, 25 Oct 2026.
+Pookie (2) is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Sun, 25 Oct 2026.
 
 Pookie is a house and r&b artist, with 11 gigs on soundcheck across Amsterdam, Hobart, Melbourne and Sydney. Often billed alongside Angie Osman, Ari Kiko and Azucy. Next up: Amsterdams Most Wanted, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Pookie is a house and r&b artist, with 11 gigs on soundcheck across Amsterdam, H
 
 Angie Osman, Ari Kiko, Azucy
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pookie-2/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pookie-2/)*

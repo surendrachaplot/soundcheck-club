@@ -1,6 +1,6 @@
 # Horse Meat Disco
 
-Horse Meat Disco is a House and Disco artist with 13 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
+Horse Meat Disco is a House and Disco artist with 13 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
 
 Horse Meat Disco is a house and disco artist based in United Kingdom, with 403 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: Iter Tenerife, Canary Islands on Fri 16 Oct.
 
@@ -36,4 +36,4 @@ Horse Meat Disco is a house and disco artist based in United Kingdom, with 403 g
 
 Luke Howard, James Hillard, Severino
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemeatdisco/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemeatdisco/)*

@@ -1,13 +1,14 @@
 # Jezza
 
-Jezza is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at 77, London on Sat, 14 Nov 2026.
+Jezza is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at 12th Knot Rooftop Bar, London on Fri, 30 Oct 2026.
 
-Jezza is an afro house and house artist based in Belgium, with 14 gigs on soundcheck across Amsterdam, Dublin and London. Often billed alongside AliTR, Yoel Telyaz and Black Traffic. Next up: 77, London on Sat 14 Nov.
+Jezza is an afro house and afro tech artist based in Belgium, with 15 gigs on soundcheck across Amsterdam, Dublin and London. Often billed alongside AliTR, Yoel Telyaz and Black Traffic. Next up: 12th Knot Rooftop Bar, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | 12th Knot Rooftop Bar | London |
 | Sat, 14 Nov 2026 | 77 | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jezza is an afro house and house artist based in Belgium, with 14 gigs on soundc
 
 AliTR, Yoel Telyaz, Black Traffic
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jezza/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jezza/)*

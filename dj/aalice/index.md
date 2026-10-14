@@ -1,6 +1,6 @@
 # aalice
 
-aalice is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at FOLD, London on Fri, 23 Oct 2026.
+aalice is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at FOLD, London on Fri, 23 Oct 2026.
 
 aalice is a techno and house artist based in Ireland, with 74 gigs on soundcheck across Amsterdam, Belfast, Berlin and Leeds and 8 more. Often billed alongside Blasha & Allatt, Hanz and Steffi. Next up: FOLD, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ aalice is a techno and house artist based in Ireland, with 74 gigs on soundcheck
 
 Blasha & Allatt, Hanz, Steffi
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aalice/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aalice/)*

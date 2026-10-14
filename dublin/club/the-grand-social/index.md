@@ -1,8 +1,8 @@
 # The Grand Social
 
-The Grand Social is a music venue in Dublin with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "SILENT HAVOC" on Fri, 16 Oct 2026.
+The Grand Social is a music venue in Dublin with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "SILENT HAVOC" on Fri, 16 Oct 2026.
 
-The Grand Social is a music venue in Dublin listed on soundcheck. 7 upcoming gigs, with line-ups including ALPER SKR, ANDATA, Guy J and SAMUX and 2 more. See dates, start times and who's playing. 35 Lower Liffey Street, Dublin, Ireland.
+The Grand Social is a music venue in Dublin listed on soundcheck. 8 upcoming gigs, with line-ups including ALPER SKR, ANDATA, Guy J and Henri Bergmann and 2 more. See dates, start times and who's playing. 35 Lower Liffey Street, Dublin, Ireland.
 
 ## What's on
 
@@ -15,9 +15,10 @@ The Grand Social is a music venue in Dublin listed on soundcheck. 7 upcoming gig
 | Sun, 8 Nov 2026 | MGNA Crrrta & ideasforconversations |  |
 | Thu, 12 Nov 2026 | End of an Error |  |
 | Sat, 21 Nov 2026 | INFLUENCE PRESENTS: XXXXXXXXX & XXXXX |  |
+| Sat, 28 Nov 2026 | ENCORE LAB - Grand opening - HENRI | Henri Bergmann |
 
 ## Address
 
 35 Lower Liffey Street, Dublin, Ireland, Dublin
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-grand-social/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-grand-social/)*

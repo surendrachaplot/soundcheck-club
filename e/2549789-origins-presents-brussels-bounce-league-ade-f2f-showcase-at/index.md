@@ -1,6 +1,6 @@
 # Origins presents Brussels Bounce League (ADE F2F Showcase) at TBA - 50:Hertz House & Techno Club Rembrandt Square
 
-Origins presents Brussels Bounce League (ADE F2F Showcase) at TBA - 50:Hertz House & Techno Club Rembrandt Square on Thu 22 Oct, Amsterdam. 6 artists: Ce$ar, Chris Youké, Dizo and Gouzz and 2 more. Hardcore and Breakcore. See the line-up on soundcheck.
+Origins presents Brussels Bounce League (ADE F2F Showcase) at TBA - 50:Hertz House & Techno Club Rembrandt Square on Thu 22 Oct, Amsterdam. 7 artists: Ce$ar, Chris Youké, Dizo and Gouzz and 3 more. Hardcore and Breakcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Origins presents Brussels Bounce League (ADE F2F Showcase) at TBA - 50:Hertz Hou
 - Chris Youké
 - Dizo
 - Gouzz
+- Loub
 - RELO4D
 - Urumi
 

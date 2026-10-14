@@ -1,6 +1,6 @@
 # Asphodel Ivory
 
-Asphodel Ivory is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at ESC, Montreal on Sat, 31 Oct 2026.
+Asphodel Ivory is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at ESC, Montreal on Sat, 31 Oct 2026.
 
 Asphodel Ivory is a techno and trance artist based in United States of America, with 6 gigs on soundcheck across Boston and Montreal. Often billed alongside Baby Bimbo, Beamskii and CITYSPROBLEM. Next up: ESC, Montreal on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Asphodel Ivory is a techno and trance artist based in United States of America, 
 
 Baby Bimbo, Beamskii, CITYSPROBLEM
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asphodelivory/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asphodelivory/)*

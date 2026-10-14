@@ -1,8 +1,8 @@
 # Club Metro
 
-Club Metro is a music venue in Kyoto with 30 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "the ONEMAN show 'JUDY'" on Thu, 15 Oct 2026.
+Club Metro is a music venue in Kyoto with 31 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "the ONEMAN show 'JUDY'" on Thu, 15 Oct 2026.
 
-Club Metro is a music venue in Kyoto listed on soundcheck. 30 upcoming gigs, with line-ups including DJ Compufunk, DJ Krush, Ken'ichi Itoi and Kensuke Fukushima and 2 more. See dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
+Club Metro is a music venue in Kyoto listed on soundcheck. 31 upcoming gigs, with line-ups including DJ Compufunk, DJ Krush, Ken'ichi Itoi and Kensuke Fukushima and 2 more. See dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Club Metro is a music venue in Kyoto listed on soundcheck. 30 upcoming gigs, wit
 
 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan, Kyoto
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*

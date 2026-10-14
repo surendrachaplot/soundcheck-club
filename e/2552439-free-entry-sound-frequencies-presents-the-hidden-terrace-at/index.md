@@ -1,6 +1,6 @@
 # (FREE ENTRY) Sound Frequencies presents : The Hidden Terrace at TBA - Secret Location
 
-(FREE ENTRY) Sound Frequencies presents : The Hidden Terrace at TBA - Secret Location on Sat 17 Oct, London. 2 artists: Duat and Tall Nico. House and Tech House. See the line-up on soundcheck.
+(FREE ENTRY) Sound Frequencies presents : The Hidden Terrace at TBA - Secret Location on Sat 17 Oct, London. 3 artists: Aur0m, Duat and Tall Nico. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- Aur0m
 - Duat
 - Tall Nico
 

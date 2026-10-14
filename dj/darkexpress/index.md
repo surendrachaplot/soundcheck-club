@@ -1,6 +1,6 @@
 # Darkexpress
 
-Darkexpress is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - BADWATER PROJECT ROOM, Bangkok on Fri, 16 Oct 2026.
+Darkexpress is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - BADWATER PROJECT ROOM, Bangkok on Fri, 16 Oct 2026.
 
 Darkexpress is a techno and electro artist, with 23 gigs on soundcheck across Bangkok. Often billed alongside InRemission, POKOLENIE MIKROZAYMOV and SLAMER LIM. Next up: TBA - BADWATER PROJECT ROOM, Bangkok on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Darkexpress is a techno and electro artist, with 23 gigs on soundcheck across Ba
 
 InRemission, POKOLENIE MIKROZAYMOV, SLAMER LIM
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darkexpress/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darkexpress/)*

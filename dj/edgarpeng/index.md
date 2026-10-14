@@ -1,6 +1,6 @@
 # Edgar Peng
 
-Edgar Peng is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Golden Gate, Berlin on Fri, 16 Oct 2026.
+Edgar Peng is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Golden Gate, Berlin on Fri, 16 Oct 2026.
 
 Edgar Peng is a house and techno artist based in Germany, with 88 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 8 more. Often billed alongside Nils Ohrmann, Koljah and Empro. Next up: Golden Gate, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Edgar Peng is a house and techno artist based in Germany, with 88 gigs on soundc
 
 Nils Ohrmann, Koljah, Empro
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edgarpeng/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edgarpeng/)*

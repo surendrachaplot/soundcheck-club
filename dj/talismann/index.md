@@ -1,6 +1,6 @@
 # Talismann
 
-Talismann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at RADION, Amsterdam on Fri, 27 Nov 2026.
+Talismann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at RADION, Amsterdam on Fri, 27 Nov 2026.
 
 Talismann is a techno and house artist based in Netherlands, with 91 gigs on soundcheck across Amsterdam, Athens, Berlin and Boston and 30 more. Often billed alongside stranger (NL), Carlos Valdes and Fafi Abdel Nour. Next up: RADION, Amsterdam on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Talismann is a techno and house artist based in Netherlands, with 91 gigs on sou
 
 stranger (NL), Carlos Valdes, Fafi Abdel Nour
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/talismann/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/talismann/)*

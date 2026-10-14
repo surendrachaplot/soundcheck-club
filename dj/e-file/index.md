@@ -1,6 +1,6 @@
 # E-File
 
-E-File is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA, Sydney on Sat, 24 Oct 2026.
+E-File is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Sydney on Sat, 24 Oct 2026.
 
 E-File is an electro and techno artist based in Australia, with 6 gigs on soundcheck across Melbourne and Sydney. Often billed alongside The Land of Rah, DAWS and DJ ALI. Next up: TBA, Sydney on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ E-File is an electro and techno artist based in Australia, with 6 gigs on soundc
 
 The Land of Rah, DAWS, DJ ALI
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e-file/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e-file/)*

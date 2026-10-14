@@ -1,6 +1,6 @@
 # O.M.Theorem
 
-O.M.Theorem is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Bryggeriet Scene, Norway on Wed, 14 Oct 2026.
+O.M.Theorem is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Bryggeriet Scene, Norway on Wed, 14 Oct 2026.
 
 O.M.Theorem is a dub and bass artist based in Norway, with 19 gigs on soundcheck across Berlin, Norway and Riga. Often billed alongside 16 Faces, Cate Hops and FridaY (DE). Next up: Bryggeriet Scene, Norway on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ O.M.Theorem is a dub and bass artist based in Norway, with 19 gigs on soundcheck
 
 16 Faces, Cate Hops, FridaY (DE)
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/o.m.theorem/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/o.m.theorem/)*

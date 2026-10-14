@@ -1,6 +1,6 @@
 # Acid Arab
 
-Acid Arab is a Electro and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Gretchen, Berlin on Thu, 15 Oct 2026.
+Acid Arab is a Electro and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Gretchen, Berlin on Thu, 15 Oct 2026.
 
 Acid Arab is an electro and techno artist based in France, with 97 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside NTO, Goom Gum and Hannes Bieger. Next up: Gretchen, Berlin on Thu 15 Oct.
 
@@ -30,4 +30,4 @@ Acid Arab is an electro and techno artist based in France, with 97 gigs on sound
 
 NTO, Goom Gum, Hannes Bieger
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidarab/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidarab/)*

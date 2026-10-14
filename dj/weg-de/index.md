@@ -1,6 +1,6 @@
 # Weg (DE)
 
-Weg (DE) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Golden Gate, Berlin on Fri, 30 Oct 2026.
+Weg (DE) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Golden Gate, Berlin on Fri, 30 Oct 2026.
 
 Weg (DE) is a techno and tech house artist, with 25 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Leipzig and 1 more. Often billed alongside Cesare vs Disorder, Rhom Omit and Ocean Lam. Next up: Golden Gate, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Weg (DE) is a techno and tech house artist, with 25 gigs on soundcheck across Am
 
 Cesare vs Disorder, Rhom Omit, Ocean Lam
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weg-de/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weg-de/)*

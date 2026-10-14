@@ -1,6 +1,6 @@
 # Expensive KVR
 
-Expensive KVR is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Amigo, Ghent on Sat, 7 Nov 2026.
+Expensive KVR is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Amigo, Ghent on Sat, 7 Nov 2026.
 
 Expensive KVR is a drum & bass and bass artist based in Belgium, with 9 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside Hiraeth, Frontline (BE) and Cellarman. Next up: Amigo, Ghent on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Expensive KVR is a drum & bass and bass artist based in Belgium, with 9 gigs on 
 
 Hiraeth, Frontline (BE), Cellarman
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/expensivekvr/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/expensivekvr/)*

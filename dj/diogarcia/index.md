@@ -1,6 +1,6 @@
 # Dio Garcia
 
-Dio Garcia is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Xanadu, New York City on Sun, 18 Oct 2026.
+Dio Garcia is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Xanadu, New York City on Sun, 18 Oct 2026.
 
 Dio Garcia is a house and acid artist, with 47 gigs on soundcheck across New York City and Tokyo. Often billed alongside Marsweather, Serrian and Ben Zo. Next up: Xanadu, New York City on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ Dio Garcia is a house and acid artist, with 47 gigs on soundcheck across New Yor
 
 Marsweather, Serrian, Ben Zo
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diogarcia/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diogarcia/)*

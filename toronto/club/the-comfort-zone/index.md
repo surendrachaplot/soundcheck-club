@@ -1,6 +1,6 @@
 # The Comfort Zone
 
-The Comfort Zone is a music venue in Toronto with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Morning Mass pres. Harry Romero" on Sat, 17 Oct 2026.
+The Comfort Zone is a music venue in Toronto with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Morning Mass pres. Harry Romero" on Sat, 17 Oct 2026.
 
 The Comfort Zone is a music venue in Toronto listed on soundcheck. 9 upcoming gigs, with line-ups including Carlo Lio, DURDENHAUER, Gene Farris and Hatiras and 2 more. See dates, start times and who's playing. 1369 Queen St. West.
 
@@ -22,4 +22,4 @@ The Comfort Zone is a music venue in Toronto listed on soundcheck. 9 upcoming gi
 
 1369 Queen St. West, Toronto
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-comfort-zone/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-comfort-zone/)*

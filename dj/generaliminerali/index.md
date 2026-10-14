@@ -1,14 +1,15 @@
 # Generali Minerali
 
-Generali Minerali is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The 1896, New York City on Sat, 17 Oct 2026.
+Generali Minerali is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The 1896, New York City on Sat, 17 Oct 2026.
 
-Generali Minerali is an electro and techno artist based in Georgia, with 136 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Leipzig and 5 more. Often billed alongside Minerali, Neon Warrior and Seqta. Next up: The 1896, New York City on Sat 17 Oct.
+Generali Minerali is an electro and techno artist based in Georgia, with 137 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Leipzig and 5 more. Often billed alongside Minerali, Neon Warrior and Seqta. Next up: The 1896, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | The 1896 | New York City |
+| Sat, 7 Nov 2026 | Bassiani | Tbilisi |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Generali Minerali is an electro and techno artist based in Georgia, with 136 gig
 
 Minerali, Neon Warrior, Seqta
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/generaliminerali/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/generaliminerali/)*

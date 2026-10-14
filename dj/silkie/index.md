@@ -1,6 +1,6 @@
 # Silkie
 
-Silkie is a Dubstep and Dub artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 24 Oct 2026.
+Silkie is a Dubstep and Dub artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 24 Oct 2026.
 
 Silkie is a dubstep and dub artist based in United Kingdom, with 29 gigs on soundcheck across Antwerp, Berlin, Brighton and Bristol and 4 more. Often billed alongside SGT Pokes, Tessa and Kahn. Next up: La Station - Gare des Mines, Paris on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Silkie is a dubstep and dub artist based in United Kingdom, with 29 gigs on soun
 
 SGT Pokes, Tessa, Kahn
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silkie/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silkie/)*

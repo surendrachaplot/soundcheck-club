@@ -1,6 +1,6 @@
 # SHUFFA
 
-SHUFFA is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Prospect Building, Bristol on Sat, 17 Oct 2026.
+SHUFFA is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Prospect Building, Bristol on Sat, 17 Oct 2026.
 
 SHUFFA is a garage and house artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Auckland, Australian Capital Territory and Belfast and 16 more. Often billed alongside Diffrent, Rich Reason and T-Man (UK). Next up: The Prospect Building, Bristol on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ SHUFFA is a garage and house artist based in United Kingdom, with 49 gigs on sou
 
 Diffrent, Rich Reason, T-Man (UK)
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shuffa/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shuffa/)*

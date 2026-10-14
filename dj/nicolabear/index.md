@@ -1,6 +1,6 @@
 # Nicola Bear
 
-Nicola Bear is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The Underbank, Manchester on Sat, 17 Oct 2026.
+Nicola Bear is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at The Underbank, Manchester on Sat, 17 Oct 2026.
 
 Nicola Bear is a house and balearic artist, with 13 gigs on soundcheck across London and Manchester. Often billed alongside Aletha, Bakey and Bou (UK). Next up: The Underbank, Manchester on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Nicola Bear is a house and balearic artist, with 13 gigs on soundcheck across Lo
 
 Aletha, Bakey, Bou (UK)
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolabear/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolabear/)*

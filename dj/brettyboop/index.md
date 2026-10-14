@@ -1,6 +1,6 @@
 # Bretty Boop
 
-Bretty Boop is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at 1point4hertz, Toronto on Sat, 24 Oct 2026.
+Bretty Boop is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at 1point4hertz, Toronto on Sat, 24 Oct 2026.
 
 Bretty Boop is a house and afro house artist based in Canada, with 25 gigs on soundcheck across Toronto. Often billed alongside Dylan Fly, Dylan Sky and KIMVANITY. Next up: 1point4hertz, Toronto on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Bretty Boop is a house and afro house artist based in Canada, with 25 gigs on so
 
 Dylan Fly, Dylan Sky, KIMVANITY
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brettyboop/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brettyboop/)*

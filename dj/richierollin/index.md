@@ -1,6 +1,6 @@
 # Richie Rollin
 
-Richie Rollin is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Absturz, Leipzig on Thu, 15 Oct 2026.
+Richie Rollin is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Absturz, Leipzig on Thu, 15 Oct 2026.
 
 Richie Rollin is a trance and techno artist based in Germany, with 39 gigs on soundcheck across Leipzig. Often billed alongside Scrappy Coco, DJ KAMMERFLIMMERN and Gigi Spears. Next up: Absturz, Leipzig on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Richie Rollin is a trance and techno artist based in Germany, with 39 gigs on so
 
 Scrappy Coco, DJ KAMMERFLIMMERN, Gigi Spears
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richierollin/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richierollin/)*

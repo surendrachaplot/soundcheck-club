@@ -1,6 +1,6 @@
 # Turbojazz
 
-Turbojazz is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Bluesquare, Milan on Sat, 17 Oct 2026.
+Turbojazz is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Bluesquare, Milan on Sat, 17 Oct 2026.
 
 Turbojazz is a house and disco artist based in Italy, with 45 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Milan and 5 more. Often billed alongside DNN, Ormeye and Alex De Ponti. Next up: Bluesquare, Milan on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Turbojazz is a house and disco artist based in Italy, with 45 gigs on soundcheck
 
 DNN, Ormeye, Alex De Ponti
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/turbojazz/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/turbojazz/)*

@@ -1,8 +1,8 @@
 # or
 
-or is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "HOUSEGATHERING" on Sat, 17 Oct 2026.
+or is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "HOUSEGATHERING" on Sat, 17 Oct 2026.
 
-or is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including AiMii, ANZU, Ayantula and Bluebird and 2 more. See dates, start times and who's playing. 6-20-10 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan.
+or is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-ups including AiMii, ANZU, Ayantula and Bluebird and 2 more. See dates, start times and who's playing. 6-20-10 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan.
 
 ## What's on
 
@@ -12,9 +12,10 @@ or is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-up
 | Sun, 18 Oct 2026 | MUSIC IS ANSWER — HOUSE MUSIC | Ayantula, Gara, MASASHI, Yamariki, liberty (JP) |
 | Sun, 1 Nov 2026 | Category Trance Vol.44 | G'NK, Kotono Shirai, Nanlaze, NØEL (JP), TORUKK, ndk (2) |
 | Wed, 4 Nov 2026 | GROOVE＋ | AiMii, Duality, KIBΘ, MagRena, More (3), N.AOKI, YOSHI KANOU, milltea |
+| Sun, 29 Nov 2026 | MUSIC IS ANSWER - HOUSE MUSIC - | Gewnky, MASASHI, PUNK N MATRIX, RIHO ASAEDA, Yamariki, liberty (JP) |
 
 ## Address
 
 6-20-10 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan, Tokyo
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/or/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/or/)*

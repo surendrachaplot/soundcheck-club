@@ -1,6 +1,6 @@
 # Sonalie Solar
 
-Sonalie Solar is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Beate Uwe, Berlin on Sat, 14 Nov 2026.
+Sonalie Solar is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Beate Uwe, Berlin on Sat, 14 Nov 2026.
 
 Sonalie Solar is a house and tech house artist based in Germany, with 18 gigs on soundcheck across Berlin and Munich. Often billed alongside ANXA, Alice DiMar and Alicea. Next up: Beate Uwe, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Sonalie Solar is a house and tech house artist based in Germany, with 18 gigs on
 
 ANXA, Alice DiMar, Alicea
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonaliesolar/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonaliesolar/)*

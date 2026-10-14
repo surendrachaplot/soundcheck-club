@@ -1,8 +1,8 @@
 # Beltran
 
-Beltran is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Beltran is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Beltran is a house and tech house artist based in United States of America, with 79 gigs on soundcheck across Amsterdam, Austin, Boston and Brazil and 27 more. Often billed alongside Ben Sterling, ChaseWest and Prospa. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Beltran is a house and tech house artist based in United States of America, with 80 gigs on soundcheck across Amsterdam, Austin, Boston and Brazil and 27 more. Often billed alongside Ben Sterling, ChaseWest and Prospa. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Beltran is a house and tech house artist based in United States of America, with
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 17 Oct 2026 | Jolene Downtown Miami | Miami |
+| Sat, 17 Oct 2026 | The Fillmore | Denver |
 | Fri, 30 Oct 2026 | Brooklyn Storehouse | New York City |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Fri, 20 Nov 2026 | Polifonic.MX | Guadalajara |
@@ -33,4 +34,4 @@ Beltran is a house and tech house artist based in United States of America, with
 
 Ben Sterling, ChaseWest, Prospa
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beltran/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beltran/)*

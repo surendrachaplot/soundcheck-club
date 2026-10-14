@@ -1,6 +1,6 @@
 # Racket Space presents: Dorian Concept (Live) at The Racket Space
 
-Racket Space presents: Dorian Concept (Live) at The Racket Space on Sat 14 Nov, Dublin. 1 artist: Dorian Concept. Electronica. See the line-up on soundcheck.
+Racket Space presents: Dorian Concept (Live) at The Racket Space on Sat 14 Nov, Dublin. 1 artist: Dorian Concept. Ambient and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

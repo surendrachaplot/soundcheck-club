@@ -1,13 +1,14 @@
 # Baby Jane
 
-Baby Jane is a Electro and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Fairmount Theatre, Montreal on Wed, 2 Dec 2026.
+Baby Jane is a Electro and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Boombox, Miami on Sat, 31 Oct 2026.
 
-Baby Jane is an electro and hardcore artist based in United States of America, with 3 gigs on soundcheck across Montreal, Portland and San Diego. Often billed alongside Flapjack. Next up: Fairmount Theatre, Montreal on Wed 2 Dec.
+Baby Jane is an electro and hardcore artist based in United States of America, with 4 gigs on soundcheck across Miami, Montreal, Portland and San Diego. Often billed alongside Flapjack. Next up: The Boombox, Miami on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | The Boombox | Miami |
 | Wed, 2 Dec 2026 | Fairmount Theatre | Montreal |
 | Fri, 18 Dec 2026 | EQ San Diego | San Diego |
 
@@ -19,4 +20,4 @@ Baby Jane is an electro and hardcore artist based in United States of America, w
 
 Flapjack
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyjane/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyjane/)*

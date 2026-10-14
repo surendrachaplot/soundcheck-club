@@ -1,6 +1,6 @@
 # Marvio
 
-Marvio is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Fri, 16 Oct 2026.
+Marvio is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Fri, 16 Oct 2026.
 
 Marvio is a house and techno artist based in Argentina, with 62 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Malaga. Often billed alongside Kevin Williams, Perch and Kev Williams. Next up: Azul Rooftop Barceloneta, Barcelona on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Marvio is a house and techno artist based in Argentina, with 62 gigs on soundche
 
 Kevin Williams, Perch, Kev Williams
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marvio/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marvio/)*

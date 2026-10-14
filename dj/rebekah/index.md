@@ -1,6 +1,6 @@
 # Rebekah
 
-Rebekah is a Techno and Hardcore artist with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at BASIS, Utrecht on Sat, 17 Oct 2026.
+Rebekah is a Techno and Hardcore artist with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at BASIS, Utrecht on Sat, 17 Oct 2026.
 
 Rebekah is a techno and hardcore artist based in United Kingdom, with 168 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 60 more. Often billed alongside DYEN, SNTS and AnD. Next up: BASIS, Utrecht on Sat 17 Oct.
 
@@ -32,4 +32,4 @@ Rebekah is a techno and hardcore artist based in United Kingdom, with 168 gigs o
 
 DYEN, SNTS, AnD
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekah/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekah/)*

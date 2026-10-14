@@ -1,8 +1,8 @@
 # Abena
 
-Abena is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 17 Oct 2026.
+Abena is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 17 Oct 2026.
 
-Abena is a techno and house artist based in United Kingdom, with 41 gigs on soundcheck across Berlin, Edinburgh, Ghent and Glasgow and 5 more. Often billed alongside Peverelist, Bitzer Maloney and Clemency. Next up: Honey Street Studio, Manchester on Sat 17 Oct.
+Abena is a techno and house artist based in United Kingdom, with 42 gigs on soundcheck across Berlin, Edinburgh, Ghent and Glasgow and 5 more. Often billed alongside DANCING WITH STANLEY, Peverelist and Bitzer Maloney. Next up: Honey Street Studio, Manchester on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Abena is a techno and house artist based in United Kingdom, with 41 gigs on soun
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Honey Street Studio | Manchester |
 | Fri, 23 Oct 2026 | The White Hotel | Manchester |
+| Fri, 23 Oct 2026 | The DBA | Manchester |
 | Fri, 6 Nov 2026 | The White Hotel | Manchester |
 
 ## Recently played
@@ -25,6 +26,6 @@ Abena is a techno and house artist based in United Kingdom, with 41 gigs on soun
 
 ## Shares bills with
 
-Peverelist, Bitzer Maloney, Clemency
+DANCING WITH STANLEY, Peverelist, Bitzer Maloney
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abena/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abena/)*

@@ -1,6 +1,6 @@
 # Vienna's
 
-Vienna's is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Resurrection: Mannequins, Ikon, Suburbia reunion" on Sat, 31 Oct 2026.
+Vienna's is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Resurrection: Mannequins, Ikon, Suburbia reunion" on Sat, 31 Oct 2026.
 
 Vienna's is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs, with line-ups including Nanna Makina. See dates, start times and who's playing. 20 New St, Paisley PA1 1YB.
 
@@ -17,4 +17,4 @@ Vienna's is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs, with
 
 20 New St, Paisley PA1 1YB, Glasgow
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vienna-s/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vienna-s/)*

@@ -1,6 +1,6 @@
 # Chuimix
 
-Chuimix is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Super7, Lyon on Sat, 17 Oct 2026.
+Chuimix is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Super7, Lyon on Sat, 17 Oct 2026.
 
 Chuimix is a techno and acid artist based in France, with 19 gigs on soundcheck across Lyon. Often billed alongside laurele2n, Krimska and Alignment. Next up: Super7, Lyon on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Chuimix is a techno and acid artist based in France, with 19 gigs on soundcheck 
 
 laurele2n, Krimska, Alignment
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chuimix/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chuimix/)*

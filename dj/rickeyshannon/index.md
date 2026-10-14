@@ -1,6 +1,6 @@
 # Rickey Shannon
 
-Rickey Shannon is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
+Rickey Shannon is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
 
 Rickey Shannon is a techno and tech house artist based in Japan, with 70 gigs on soundcheck across Tokyo. Often billed alongside Louis Shannon, TARO TOKO and EIGHT. Next up: Ooba Camping Village, Tokyo on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Rickey Shannon is a techno and tech house artist based in Japan, with 70 gigs on
 
 Louis Shannon, TARO TOKO, EIGHT
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rickeyshannon/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rickeyshannon/)*

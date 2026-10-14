@@ -1,6 +1,6 @@
 # Lu Fortis
 
-Lu Fortis is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Nuevo Leon 89, Mexico City on Fri, 16 Oct 2026.
+Lu Fortis is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Nuevo Leon 89, Mexico City on Fri, 16 Oct 2026.
 
 Lu Fortis is a house and disco artist, with 50 gigs on soundcheck across Ibiza, Mexico City and New York City. Often billed alongside Disco 86, Macarena and Monsieur Van Pratt. Next up: Nuevo Leon 89, Mexico City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Lu Fortis is a house and disco artist, with 50 gigs on soundcheck across Ibiza, 
 
 Disco 86, Macarena, Monsieur Van Pratt
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lufortis/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lufortis/)*

@@ -1,13 +1,14 @@
 # PAGAN
 
-PAGAN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Lokschuppen Berlin, Berlin on Wed, 23 Dec 2026.
+PAGAN is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Manning Bar, Sydney on Sat, 31 Oct 2026.
 
-PAGAN is a techno and trance artist based in Ireland, with 27 gigs on soundcheck across Amsterdam, Belfast, Berlin and Bristol and 5 more. Often billed alongside Derv, Ayolxi and Culchee. Next up: Lokschuppen Berlin, Berlin on Wed 23 Dec.
+PAGAN is a techno and house artist based in Ireland, with 28 gigs on soundcheck across Amsterdam, Belfast, Berlin and Bristol and 6 more. Often billed alongside Derv, Ayolxi and Culchee. Next up: Manning Bar, Sydney on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Manning Bar | Sydney |
 | Wed, 23 Dec 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ PAGAN is a techno and trance artist based in Ireland, with 27 gigs on soundcheck
 
 Derv, Ayolxi, Culchee
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pagan/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pagan/)*

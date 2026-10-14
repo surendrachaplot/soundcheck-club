@@ -1,6 +1,6 @@
 # Ayantula
 
-Ayantula is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at or, Tokyo on Sun, 18 Oct 2026.
+Ayantula is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at or, Tokyo on Sun, 18 Oct 2026.
 
 Ayantula is a house and tech house artist based in Japan, with 27 gigs on soundcheck across Tokyo. Often billed alongside Yamariki, PUNK N MATRIX and ANZU. Next up: or, Tokyo on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ Ayantula is a house and tech house artist based in Japan, with 27 gigs on soundc
 
 Yamariki, PUNK N MATRIX, ANZU
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayantula/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayantula/)*

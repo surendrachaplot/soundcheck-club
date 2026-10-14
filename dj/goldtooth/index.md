@@ -1,14 +1,15 @@
 # Goldtooth
 
-Goldtooth is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Commercial Bay - Kemuri Hi-Fi, Reign & Pour, Dos Donkey and Public Bar, Auckland on Sat, 17 Oct 2026.
+Goldtooth is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Commercial Bay - Kemuri Hi-Fi, Reign & Pour, Dos Donkey and Public Bar, Auckland on Sat, 17 Oct 2026.
 
-Goldtooth is a house and garage artist based in United Kingdom, with 16 gigs on soundcheck across Auckland, Berlin, London and Sydney. Often billed alongside Caru (NZ), Keighto and Surly (JBW). Next up: Commercial Bay - Kemuri Hi-Fi, Reign & Pour, Dos Donkey and Public Bar, Auckland on Sat 17 Oct.
+Goldtooth is a house and garage artist based in United Kingdom, with 17 gigs on soundcheck across Auckland, Berlin, London and Sydney. Often billed alongside Caru (NZ), Keighto and Surly (JBW). Next up: Commercial Bay - Kemuri Hi-Fi, Reign & Pour, Dos Donkey and Public Bar, Auckland on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Commercial Bay - Kemuri Hi-Fi, Reign & Pour, Dos Donkey and Public Bar | Auckland |
+| Sat, 24 Oct 2026 | Neck of the Woods | Auckland |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Goldtooth is a house and garage artist based in United Kingdom, with 16 gigs on 
 
 Caru (NZ), Keighto, Surly (JBW)
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goldtooth/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goldtooth/)*

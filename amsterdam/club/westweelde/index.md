@@ -1,8 +1,8 @@
 # WestWeelde
 
-WestWeelde is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Hernan Cattaneo b2b Nick Warren - 6hrs ADE" on Wed, 21 Oct 2026.
+WestWeelde is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Hernan Cattaneo b2b Nick Warren - 6hrs ADE" on Wed, 21 Oct 2026.
 
-WestWeelde is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with line-ups including ACID FLORA, Analog Kitchen, Animal Trainer and Awka and 2 more. See dates, start times and who's playing. Klönneplein 4.
+WestWeelde is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including ACID FLORA, Analog Kitchen, Andhim and Animal Trainer and 2 more. See dates, start times and who's playing. Klönneplein 4.
 
 ## What's on
 
@@ -17,10 +17,10 @@ WestWeelde is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs,
 | Sat, 24 Oct 2026 | The Gardens of Babylon: The Seekers of Light - ADE 2026 | ACID FLORA, Animal Trainer, Awka, B-Bop, Bora Uzer, Britta Arnold, Collé, Cyria, Damian Lazarus, Diass, Giolì & Assia, HOVR, Hardt Antoine, Hedda Stenberg, Hot Oasis, Julia Sandstorm, KAHMEYA, MAGA, MXGPU, Madota, Niki Sadeki, OMRI., Omer Tayar, Panyer, Roy Rosenfeld, Sarah Wild, Sinego, Tony L Issac, Vero (NL), WAHM, Xinobi, ZO.1 |
 | Sat, 7 Nov 2026 | John Digweed - Bedrock | John Digweed |
 | Sat, 14 Nov 2026 | 7 Vibes Journey in Amsterdam | Ed Noodle, Mona Pirzad, VE/RA |
-| Sat, 28 Nov 2026 | Multigroove: House of God | Analog Kitchen |
+| Sat, 21 Nov 2026 | Komm Schon Alter - Andhim XL set | Andhim, Rose Ringed |
 
 ## Address
 
 Klönneplein 4, Amsterdam
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/westweelde/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/westweelde/)*

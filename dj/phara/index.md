@@ -1,6 +1,6 @@
 # Phara
 
-Phara is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
+Phara is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
 
 Phara is a techno and house artist based in Belgium, with 181 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Altinbas, Marie-Julie and Kr!z. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 17 Oct.
 
@@ -31,4 +31,4 @@ Phara is a techno and house artist based in Belgium, with 181 gigs on soundcheck
 
 Altinbas, Marie-Julie, Kr!z
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phara/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phara/)*

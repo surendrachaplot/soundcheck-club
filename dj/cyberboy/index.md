@@ -1,6 +1,6 @@
 # Cyberboy
 
-Cyberboy is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Café Katoen, Amsterdam on Wed, 21 Oct 2026.
+Cyberboy is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Café Katoen, Amsterdam on Wed, 21 Oct 2026.
 
 Cyberboy is an electronic artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam, Berlin and Rotterdam. Often billed alongside Kevin Lo, Maria Cue and Pelanoir. Next up: Café Katoen, Amsterdam on Wed 21 Oct.
 
@@ -22,4 +22,4 @@ Cyberboy is an electronic artist based in Netherlands, with 6 gigs on soundcheck
 
 Kevin Lo, Maria Cue, Pelanoir
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyberboy/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyberboy/)*

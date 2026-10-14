@@ -1,8 +1,8 @@
 # Last Arch
 
-Last Arch is a music venue in London with 14 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Mödum presents - Suciu, Beckhäuser, Kyle&Sam, Bonza, Josh b2b Oli" on Sat, 17 Oct 2026.
+Last Arch is a music venue in London with 16 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Mödum presents - Suciu, Beckhäuser, Kyle&Sam, Bonza, Josh b2b Oli" on Sat, 17 Oct 2026.
 
-Last Arch is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Archie Holmes, Arts of the Unknown, BEADS and Calla and 2 more. See dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
+Last Arch is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Archie Holmes, Arts of the Unknown, BEADS and Calla and 2 more. See dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
 
 ## What's on
 
@@ -23,4 +23,4 @@ Last Arch is a music venue in London listed on soundcheck. 14 upcoming gigs, wit
 
 392 Wandsworth Road SW84PH (Through the black gates, last arch), London
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/last-arch/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/last-arch/)*

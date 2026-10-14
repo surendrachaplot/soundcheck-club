@@ -1,6 +1,6 @@
 # Cine
 
-Cine is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The V, Osaka on Wed, 14 Oct 2026.
+Cine is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at The V, Osaka on Wed, 14 Oct 2026.
 
 Cine is a house and techno artist based in Japan, with 143 gigs on soundcheck across Berlin, Hamburg and Osaka. Often billed alongside RICHKID, HSC and Nao Nomura. Next up: The V, Osaka on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ Cine is a house and techno artist based in Japan, with 143 gigs on soundcheck ac
 
 RICHKID, HSC (1), Nao Nomura
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cine-jp/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cine-jp/)*

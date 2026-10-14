@@ -1,6 +1,6 @@
 # JaySwann
 
-JaySwann is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Current Space, Baltimore on Thu, 15 Oct 2026.
+JaySwann is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Current Space, Baltimore on Thu, 15 Oct 2026.
 
 JaySwann is a club and baile funk artist based in United States of America, with 6 gigs on soundcheck across Baltimore, Miami, New York City and Washington DC. Often billed alongside Tromac, Cadeem LaMarr and ARCHANGEL (US). Next up: Current Space, Baltimore on Thu 15 Oct.
 
@@ -22,4 +22,4 @@ JaySwann is a club and baile funk artist based in United States of America, with
 
 Tromac, Cadeem LaMarr, ARCHANGEL (US)
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayswann/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayswann/)*

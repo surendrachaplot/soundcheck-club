@@ -1,6 +1,6 @@
 # Xandra
 
-Xandra is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at New Orleans, LA, Mardi Gras World, New-orleans on Fri, 30 Oct 2026.
+Xandra is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at New Orleans, LA, Mardi Gras World, New-orleans on Fri, 30 Oct 2026.
 
 Xandra is a house and tech house artist based in Hungary, with 19 gigs on soundcheck across Boston, Budapest, Ibiza and Miami and 2 more. Often billed alongside Spanti, Antique (HU) and T:MANIAK. Next up: New Orleans, LA, Mardi Gras World, New Orleans on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Xandra is a house and tech house artist based in Hungary, with 19 gigs on soundc
 
 Spanti, Antique (HU), T:MANIAK
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xandra/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xandra/)*

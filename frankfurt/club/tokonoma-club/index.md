@@ -1,6 +1,6 @@
 # Tokonoma Club
 
-Tokonoma Club is a music venue in Frankfurt with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "AOS X TOKONOMA W/ Freddy K, Blasha & Allatt, DJ AYA & MANY MORE" on Fri, 16 Oct 2026.
+Tokonoma Club is a music venue in Frankfurt with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "AOS X TOKONOMA W/ Freddy K, Blasha & Allatt, DJ AYA & MANY MORE" on Fri, 16 Oct 2026.
 
 Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 4 upcoming gigs, with line-ups including 131bpm, Alas, Back2Bass and Bitter Babe and 2 more. See dates, start times and who's playing. Gutleutstraße 320,60327 Frankfurt.
 
@@ -17,4 +17,4 @@ Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 4 upcoming gig
 
 Gutleutstraße 320,60327 Frankfurt, Frankfurt
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tokonoma-club/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tokonoma-club/)*

@@ -1,6 +1,6 @@
 # Sánlo
 
-Sánlo is a Club and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Arcana, San Francisco/Oakland on Fri, 30 Oct 2026.
+Sánlo is a Club and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Arcana, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 Sánlo is a club and house artist based in United States of America, with 35 gigs on soundcheck across San Francisco/Oakland and Washington DC. Often billed alongside mymy, Femme Jatale and TEGH. Next up: Arcana, San Francisco/Oakland on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sánlo is a club and house artist based in United States of America, with 35 gig
 
 mymy, Femme Jatale, TEGH (2)
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanlo/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanlo/)*

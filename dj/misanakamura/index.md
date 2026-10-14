@@ -1,6 +1,6 @@
 # misa nakamura
 
-misa nakamura is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at clubasia, Tokyo on Wed, 21 Oct 2026.
+misa nakamura is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at clubasia, Tokyo on Wed, 21 Oct 2026.
 
 misa nakamura is a hip-hop and bass artist based in Japan, with 92 gigs on soundcheck across Tokyo. Often billed alongside FUJI TRILL, kyuuu and Jellyf!sh. Next up: clubasia, Tokyo on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ misa nakamura is a hip-hop and bass artist based in Japan, with 92 gigs on sound
 
 FUJI TRILL, kyuuu, Jellyf!sh
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misanakamura/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misanakamura/)*

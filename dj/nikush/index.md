@@ -1,6 +1,6 @@
 # NIKUSH
 
-NIKUSH is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Tanzhaus West, Frankfurt on Fri, 23 Oct 2026.
+NIKUSH is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Tanzhaus West, Frankfurt on Fri, 23 Oct 2026.
 
 NIKUSH is a trance and techno artist based in Germany, with 32 gigs on soundcheck across Berlin, Frankfurt and Munich. Often billed alongside cravings320, Boltcore and Kacy. Next up: Tanzhaus West, Frankfurt on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ NIKUSH is a trance and techno artist based in Germany, with 32 gigs on soundchec
 
 cravings320, Boltcore, Kacy
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikush/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikush/)*

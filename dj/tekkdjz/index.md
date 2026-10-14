@@ -1,6 +1,6 @@
 # Tekk DJ'z
 
-Tekk DJ'z is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at M-BIA, Berlin on Fri, 6 Nov 2026.
+Tekk DJ'z is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at M-BIA, Berlin on Fri, 6 Nov 2026.
 
 Tekk DJ'z is a techno and hardcore artist based in United States of America, with 8 gigs on soundcheck across Berlin. Often billed alongside Techno Frühstück, Tekk and Bass. Next up: M-BIA, Berlin on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Tekk DJ'z is a techno and hardcore artist based in United States of America, wit
 
 Techno Frühstück, Tekk, Bass
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tekkdjz/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tekkdjz/)*

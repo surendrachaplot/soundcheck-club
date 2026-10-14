@@ -1,0 +1,11 @@
+# ALBERT JANE b2b HECTOR ENGLI Warm Up ARITZ at M7 Club
+
+ALBERT JANE b2b HECTOR ENGLI Warm Up ARITZ at M7 Club on Sat 17 Oct, Barcelona. Progressive House. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 17 Oct 2026 |
+| Venue | M7 Club |
+| City | Barcelona |
+
+*Source: [soundcheck](https://soundcheck.club/e/2519216-albert-jane-b2b-hector-engli-warm-up-aritz-at-m7-club/)*

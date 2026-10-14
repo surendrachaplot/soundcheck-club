@@ -1,14 +1,15 @@
 # JD (4)
 
-JD (4) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 23 Oct 2026.
+JD (4) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 23 Oct 2026.
 
-JD is a techno and house artist based in Australia, with 14 gigs on soundcheck across Melbourne. Often billed alongside Charlotte Rooney, Hannah D and Pharis. Next up: Angel Music Bar, Melbourne on Fri 23 Oct.
+JD is a house and techno artist based in Australia, with 15 gigs on soundcheck across Melbourne. Often billed alongside Charlotte Rooney, Ricky Nord and Afrodisiac. Next up: Angel Music Bar, Melbourne on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Angel Music Bar | Melbourne |
+| Sat, 31 Oct 2026 | Solace | Melbourne |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ JD is a techno and house artist based in Australia, with 14 gigs on soundcheck a
 
 ## Shares bills with
 
-Charlotte Rooney, Hannah D, Pharis
+Charlotte Rooney, Ricky Nord, Afrodisiac
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jd-4/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jd-4/)*

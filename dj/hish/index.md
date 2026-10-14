@@ -1,6 +1,6 @@
 # Hish
 
-Hish is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Ministry Of Sound, London on Sat, 31 Oct 2026.
+Hish is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Ministry Of Sound, London on Sat, 31 Oct 2026.
 
 Hish is a house and minimal artist based in United Kingdom, with 13 gigs on soundcheck across London, Manchester and Tokyo. Often billed alongside Ells, Stefan Andrei and Andrea Giudice. Next up: Ministry Of Sound, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Hish is a house and minimal artist based in United Kingdom, with 13 gigs on soun
 
 Ells, Stefan Andrei, Andrea Giudice
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hish/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hish/)*

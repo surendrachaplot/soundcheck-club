@@ -1,14 +1,15 @@
 # Da Yama
 
-Da Yama is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 17 Oct 2026.
+Da Yama is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 17 Oct 2026.
 
-Da Yama is a techno and house artist based in Japan, with 195 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Taichi Kawahira, Kojiro and junkie babe. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 17 Oct.
+Da Yama is a techno and house artist based in Japan, with 196 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Taichi Kawahira, Kojiro and junkie babe. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | UTOPIA / DYSTOPIA | Tokyo |
+| Sat, 17 Oct 2026 | Aoyama Hachi | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Da Yama is a techno and house artist based in Japan, with 195 gigs on soundcheck
 
 Taichi Kawahira, Kojiro, junkie babe
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dayama/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dayama/)*

@@ -1,14 +1,15 @@
 # Naycab
 
-Naycab is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+Naycab is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
-Naycab is a techno and house artist based in Australia, with 38 gigs on soundcheck across Melbourne, Sydney and Victoria. Often billed alongside DJ PGZ, Bertie and Hannah D. Next up: TBA, Victoria on Fri 6 Nov.
+Naycab is a techno and house artist based in Australia, with 39 gigs on soundcheck across Melbourne, Sydney and Victoria. Often billed alongside DJ PGZ, Bertie and Hannah D. Next up: TBA, Victoria on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | TBA | Victoria |
+| Sat, 5 Dec 2026 | Footscray Community Arts Centre | Melbourne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Naycab is a techno and house artist based in Australia, with 38 gigs on soundche
 
 DJ PGZ, Bertie, Hannah D
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naycab/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naycab/)*

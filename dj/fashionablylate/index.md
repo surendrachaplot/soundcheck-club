@@ -1,6 +1,6 @@
 # Fashionably Late
 
-Fashionably Late is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Abercrombie Hotel, Sydney on Fri, 30 Oct 2026.
+Fashionably Late is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Abercrombie Hotel, Sydney on Fri, 30 Oct 2026.
 
 Fashionably Late is a house and techno artist based in Australia, with 32 gigs on soundcheck across Sydney. Often billed alongside Deverence, Hotel 84 and PIX. Next up: Abercrombie Hotel, Sydney on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Fashionably Late is a house and techno artist based in Australia, with 32 gigs o
 
 Deverence, Hotel 84, PIX
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fashionablylate/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fashionablylate/)*

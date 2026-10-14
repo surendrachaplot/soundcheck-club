@@ -1,6 +1,6 @@
 # SASSY 009
 
-SASSY 009 is a Electronica and Experimental artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Villa, Oslo on Fri, 16 Oct 2026.
+SASSY 009 is a Electronica and Experimental artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Villa, Oslo on Fri, 16 Oct 2026.
 
 SASSY 009 is an electronica and experimental artist based in Norway, with 17 gigs on soundcheck across Amsterdam, Berlin, Brighton and Copenhagen and 9 more. Often billed alongside James Massiah, Jawnino and Sophia Stel. Next up: The Villa, Oslo on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ SASSY 009 is an electronica and experimental artist based in Norway, with 17 gig
 
 James Massiah, Jawnino, Sophia Stel
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sassy009/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sassy009/)*

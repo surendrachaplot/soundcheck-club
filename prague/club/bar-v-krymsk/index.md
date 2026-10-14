@@ -1,6 +1,6 @@
 # Bar v Krymský
 
-Bar v Krymský is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Scratch 005 with Ill Pepson & DJ Aphect (Vinyl Only Set)" on Wed, 14 Oct 2026.
+Bar v Krymský is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Scratch 005 with Ill Pepson & DJ Aphect (Vinyl Only Set)" on Wed, 14 Oct 2026.
 
 Bar v Krymský is a music venue in Prague listed on soundcheck. 10 upcoming gigs, with line-ups including André Allin, Cubik, Javas and Kat Kat Tat and 2 more. See dates, start times and who's playing. Krymská 21, Praha.
 
@@ -23,4 +23,4 @@ Bar v Krymský is a music venue in Prague listed on soundcheck. 10 upcoming gigs
 
 Krymská 21, Praha, Prague
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*

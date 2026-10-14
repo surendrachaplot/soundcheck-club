@@ -1,6 +1,6 @@
 # Nicolas Taboada
 
-Nicolas Taboada is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - La Fabrica, Cordoba, Argentina on Sat, 7 Nov 2026.
+Nicolas Taboada is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - La Fabrica, Cordoba, Argentina on Sat, 7 Nov 2026.
 
 Nicolas Taboada is a techno and electronica artist, with 12 gigs on soundcheck across Argentina, Barcelona, Buenos Aires and Cologne and 1 more. Often billed alongside Adam Beyer, Bob Tosh and Dist. Next up: TBA - La Fabrica, Cordoba, Argentina on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Nicolas Taboada is a techno and electronica artist, with 12 gigs on soundcheck a
 
 Adam Beyer, Bob Tosh, Dist
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolastaboada/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolastaboada/)*

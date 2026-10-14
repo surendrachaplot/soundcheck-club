@@ -1,6 +1,6 @@
 # Ketrix
 
-Ketrix is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Thu, 22 Oct 2026.
+Ketrix is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Thu, 22 Oct 2026.
 
 Ketrix is a house and techno artist, with 7 gigs on soundcheck across Amsterdam. Often billed alongside Kristiaan Kiwitz, cathü and Daniel Englisch. Next up: Amsterdams Most Wanted, Amsterdam on Thu 22 Oct.
 
@@ -23,4 +23,4 @@ Ketrix is a house and techno artist, with 7 gigs on soundcheck across Amsterdam.
 
 Kristiaan Kiwitz, cathü, Daniel Englisch
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ketrix/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ketrix/)*

@@ -1,13 +1,14 @@
 # Annabelle Gaspar
 
-Annabelle Gaspar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Brown Alley, Melbourne on Sun, 1 Nov 2026.
+Annabelle Gaspar is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Portugal Madeira Club, Sydney on Sat, 24 Oct 2026.
 
-Annabelle Gaspar is a house and techno artist based in Australia, with 26 gigs on soundcheck across Berlin, Melbourne and Sydney. Often billed alongside Deepa, Simon Caldwell and AHJU. Next up: Brown Alley, Melbourne on Sun 1 Nov.
+Annabelle Gaspar is a house and techno artist based in Australia, with 27 gigs on soundcheck across Berlin, Melbourne and Sydney. Often billed alongside Simon Caldwell, Deepa and AHJU. Next up: Portugal Madeira Club, Sydney on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Portugal Madeira Club | Sydney |
 | Sun, 1 Nov 2026 | Brown Alley | Melbourne |
 
 ## Recently played
@@ -23,6 +24,6 @@ Annabelle Gaspar is a house and techno artist based in Australia, with 26 gigs o
 
 ## Shares bills with
 
-Deepa, Simon Caldwell, AHJU
+Simon Caldwell, Deepa, AHJU
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annabellegaspar/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annabellegaspar/)*

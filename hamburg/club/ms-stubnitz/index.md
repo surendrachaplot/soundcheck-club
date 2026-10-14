@@ -1,6 +1,6 @@
 # MS Stubnitz
 
-MS Stubnitz is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "STUDIO 69" on Sat, 28 Nov 2026.
+MS Stubnitz is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "STUDIO 69" on Sat, 28 Nov 2026.
 
 MS Stubnitz is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with line-ups including CHIEF QUEEF, Cufme, DJ Business and HiHat and 2 more. See dates, start times and who's playing. Kirchenpauerkai 29, 20457 Hamburg, Germany.
 
@@ -15,4 +15,4 @@ MS Stubnitz is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, w
 
 Kirchenpauerkai 29, 20457 Hamburg, Germany, Hamburg
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-stubnitz/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-stubnitz/)*

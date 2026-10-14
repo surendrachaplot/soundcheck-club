@@ -1,14 +1,15 @@
 # Bradley Skeng
 
-Bradley Skeng is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at UNLOCKED, London on Thu, 15 Oct 2026.
+Bradley Skeng is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at UNLOCKED, London on Thu, 15 Oct 2026.
 
-Bradley Skeng is a house and tech house artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Bristol, Cardiff and Copenhagen and 2 more. Often billed alongside Joshua James, SYREETA and Viktor Victoria. Next up: UNLOCKED, London on Thu 15 Oct.
+Bradley Skeng is a house and tech house artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Bristol, Cardiff and Copenhagen and 2 more. Often billed alongside Joshua James, SYREETA and Viktor Victoria. Next up: UNLOCKED, London on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | UNLOCKED | London |
+| Sat, 31 Oct 2026 | Aethos London Shoreditch | London |
 | Sat, 12 Dec 2026 | Culture Box | Copenhagen |
 
 ## Recently played
@@ -26,4 +27,4 @@ Bradley Skeng is a house and tech house artist based in United Kingdom, with 34 
 
 Joshua James, SYREETA, Viktor Victoria
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyskeng/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyskeng/)*

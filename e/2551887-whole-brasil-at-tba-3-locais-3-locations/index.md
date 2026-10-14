@@ -1,6 +1,6 @@
 # WHOLE Brasil at TBA - 3 LOCAIS / 3 LOCATIONS
 
-WHOLE Brasil at TBA - 3 LOCAIS / 3 LOCATIONS on Fri 6 Nov, Sao Paulo. 17 artists: Alírio, Cashu, Clementaum and EVEHIVE and 13 more. Techno and House. See the line-up on soundcheck.
+WHOLE Brasil at TBA - 3 LOCAIS / 3 LOCATIONS on Fri 6 Nov, Sao Paulo. 18 artists: Alírio, Cashu, Clementaum and EVEHIVE and 14 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ WHOLE Brasil at TBA - 3 LOCAIS / 3 LOCATIONS on Fri 6 Nov, Sao Paulo. 17 artists
 - Cashu
 - Clementaum
 - EVEHIVE
+- From House to Disco
 - Gezender
 - IDLIBRA
 - JESUZ X

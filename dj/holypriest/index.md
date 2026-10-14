@@ -1,8 +1,8 @@
 # Holy Priest
 
-Holy Priest is a Techno and Hardcore artist with 15 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The OVO Hydro, Glasgow on Fri, 16 Oct 2026.
+Holy Priest is a Techno and Hardcore artist with 15 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The OVO Hydro, Glasgow on Fri, 16 Oct 2026.
 
-Holy Priest is a techno and hardcore artist based in Germany, with 136 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Austin and 55 more. Often billed alongside elMefti, Onlynumbers and Fantasm. Next up: The OVO Hydro, Glasgow on Fri 16 Oct.
+Holy Priest is a techno and hardcore artist based in Germany, with 136 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Austin and 55 more. Often billed alongside elMefti, Onlynumbers and Azyr. Next up: The OVO Hydro, Glasgow on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ Holy Priest is a techno and hardcore artist based in Germany, with 136 gigs on s
 
 ## Shares bills with
 
-elMefti, Onlynumbers, Fantasm
+elMefti, Onlynumbers, Azyr
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holypriest/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holypriest/)*

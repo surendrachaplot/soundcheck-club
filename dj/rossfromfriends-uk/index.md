@@ -1,6 +1,6 @@
 # Ross From Friends
 
-Ross From Friends is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Lakota, Bristol on Fri, 30 Oct 2026.
+Ross From Friends is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Lakota, Bristol on Fri, 30 Oct 2026.
 
 Ross From Friends is a house and techno artist based in United Kingdom, with 154 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 47 more. Often billed alongside Bicep, Cameo Blush and Logic1000. Next up: Lakota, Bristol on Fri 30 Oct.
 
@@ -31,4 +31,4 @@ Ross From Friends is a house and techno artist based in United Kingdom, with 154
 
 Bicep, Cameo Blush, Logic1000
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rossfromfriends-uk/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rossfromfriends-uk/)*

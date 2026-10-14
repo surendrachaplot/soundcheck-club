@@ -1,6 +1,6 @@
 # MAC-V
 
-MAC-V is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Club Up, Amsterdam on Fri, 6 Nov 2026.
+MAC-V is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Club Up, Amsterdam on Fri, 6 Nov 2026.
 
 MAC-V is a drum & bass and jungle artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam and Brussels. Often billed alongside Chris Inperspective, ADHDJ and Campbell. Next up: Club Up, Amsterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ MAC-V is a drum & bass and jungle artist based in Netherlands, with 10 gigs on s
 
 Chris Inperspective, ADHDJ (2), Campbell
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mac-v/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mac-v/)*

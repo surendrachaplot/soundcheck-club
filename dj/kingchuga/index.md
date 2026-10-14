@@ -1,6 +1,6 @@
 # King Chuga
 
-King Chuga is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Sidney & Matilda, Sheffield on Fri, 16 Oct 2026.
+King Chuga is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Sidney & Matilda, Sheffield on Fri, 16 Oct 2026.
 
 King Chuga is a jungle and drum & bass artist based in United Kingdom, with 23 gigs on soundcheck across London, North and Sheffield. Often billed alongside Charla Green, Equinox (UK) and Kid Lib. Next up: Sidney & Matilda, Sheffield on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ King Chuga is a jungle and drum & bass artist based in United Kingdom, with 23 g
 
 Charla Green, Equinox (UK), Kid Lib
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kingchuga/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kingchuga/)*

@@ -1,14 +1,15 @@
 # JOVIGIBS
 
-JOVIGIBS is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+JOVIGIBS is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-JOVIGIBS is a house and disco artist based in United States of America, with 37 gigs on soundcheck across Barcelona, Madrid, Mexico City and Miami. Often billed alongside True Vine, Bort and Mutant Pete. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+JOVIGIBS is a house and disco artist based in United States of America, with 38 gigs on soundcheck across Barcelona, Madrid, Mexico City and Miami. Often billed alongside True Vine, Bort and Mutant Pete. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
+| Fri, 13 Nov 2026 | Jolene Downtown Miami | Miami |
 | Sat, 28 Nov 2026 | Floyd | Miami |
 
 ## Recently played
@@ -26,4 +27,4 @@ JOVIGIBS is a house and disco artist based in United States of America, with 37 
 
 True Vine, Bort, Mutant Pete
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jovigibs/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jovigibs/)*

@@ -1,6 +1,6 @@
 # Technodrome: Friday The 13th - Warehouse Rave at Low Profile Studios
 
-Technodrome: Friday The 13th - Warehouse Rave at Low Profile Studios on Fri 13 Nov, London. 6 artists: Fvck Totvm, Labåzuy, Lady Maru and Lau.tastic and 2 more. Techno and Industrial. See the line-up on soundcheck.
+Technodrome: Friday The 13th - Warehouse Rave at Low Profile Studios on Fri 13 Nov, London. 7 artists: Arrosa, Fvck Totvm, Labåzuy and Lady Maru and 3 more. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Technodrome: Friday The 13th - Warehouse Rave at Low Profile Studios on Fri 13 N
 
 ## Line-up
 
+- Arrosa
 - Fvck Totvm
 - Labåzuy
 - Lady Maru

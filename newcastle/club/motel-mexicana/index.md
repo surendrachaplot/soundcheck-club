@@ -1,6 +1,6 @@
 # Motel Mexicana
 
-Motel Mexicana is a music venue in Newcastle with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "Kalisz: 001" on Thu, 12 Nov 2026.
+Motel Mexicana is a music venue in Newcastle with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "Kalisz: 001 - Will Brown B2B Cassius Holland + Guests" on Thu, 12 Nov 2026.
 
 Motel Mexicana is a music venue in Newcastle listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Motel Mexicana is a music venue in Newcastle listed on soundcheck. 1 upcoming gi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Kalisz: 001 |  |
+| Thu, 12 Nov 2026 | Kalisz: 001 - Will Brown B2B Cassius Holland + Guests |  |
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/motel-mexicana/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/motel-mexicana/)*

@@ -1,6 +1,6 @@
 # Frank Master
 
-Frank Master is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Thu, 22 Oct 2026.
+Frank Master is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Thu, 22 Oct 2026.
 
 Frank Master is a house and afro house artist, with 14 gigs on soundcheck across Amsterdam, Ibiza, London and Miami and 1 more. Often billed alongside Monika Kiss, Mimmo Errico and Viktor Martini. Next up: Amsterdams Most Wanted, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Frank Master is a house and afro house artist, with 14 gigs on soundcheck across
 
 Monika Kiss, Mimmo Errico, Viktor Martini
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankmaster/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankmaster/)*

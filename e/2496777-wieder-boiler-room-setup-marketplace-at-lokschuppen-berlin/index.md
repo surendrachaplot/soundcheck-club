@@ -1,6 +1,6 @@
 # wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin
 
-wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin on Sun 18 Oct, Berlin. 1 artist: Ozzwald. Trance and Techno. See the line-up on soundcheck.
+wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin on Sun 18 Oct, Berlin. 3 artists: alemiko, Megaira and Ozzwald. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin on Sun 18 Oct, Ber
 
 ## Line-up
 
+- alemiko
+- Megaira
 - Ozzwald
 
 *Source: [soundcheck](https://soundcheck.club/e/2496777-wieder-boiler-room-setup-marketplace-at-lokschuppen-berlin/)*

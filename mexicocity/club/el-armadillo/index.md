@@ -1,6 +1,6 @@
 # El Armadillo
 
-El Armadillo is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "BRIGADE PRESENTA: HUGO ESQUINCA" on Fri, 30 Oct 2026.
+El Armadillo is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "BRIGADE PRESENTA: HUGO ESQUINCA" on Fri, 30 Oct 2026.
 
 El Armadillo is a music venue in Mexico City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ El Armadillo is a music venue in Mexico City listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | BRIGADE PRESENTA: HUGO ESQUINCA |  |
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/el-armadillo/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/el-armadillo/)*

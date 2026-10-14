@@ -1,6 +1,6 @@
 # Darren Emerson
 
-Darren Emerson is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Roxy, Prague on Sat, 14 Nov 2026.
+Darren Emerson is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Roxy, Prague on Sat, 14 Nov 2026.
 
 Darren Emerson is a house and techno artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Auckland, Berlin and Brighton and 20 more. Often billed alongside Brandon Block, Danny Tenaglia and John Course. Next up: Roxy, Prague on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Darren Emerson is a house and techno artist based in United Kingdom, with 32 gig
 
 Brandon Block, Danny Tenaglia, John Course
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenemerson/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenemerson/)*

@@ -1,6 +1,6 @@
 # Seaseaclub Barcelona
 
-Seaseaclub Barcelona is a music venue in Barcelona with 14 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "INPUT x HOT CREATIONS w/ Patrick Topping + Richy Ahmed + Rossko" on Sat, 17 Oct 2026.
+Seaseaclub Barcelona is a music venue in Barcelona with 14 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "INPUT x HOT CREATIONS w/ Patrick Topping + Richy Ahmed + Rossko" on Sat, 17 Oct 2026.
 
 Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 14 upcoming gigs, with line-ups including Agatha Pher, Alec Falconer, Alice Youngling and Bailey Leunig and 2 more. See dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
 
@@ -23,4 +23,4 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 14 upco
 
 Carrer Port Esportiu, 14P, 08930 Barcelona, Barcelona
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*

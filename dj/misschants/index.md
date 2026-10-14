@@ -1,6 +1,6 @@
 # Miss Chants
 
-Miss Chants is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Egg London, London on Fri, 4 Dec 2026.
+Miss Chants is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Egg London, London on Fri, 4 Dec 2026.
 
 Miss Chants is a house and deep house artist, with 10 gigs on soundcheck across London. Often billed alongside AR (UK), Ashley Knights and Iwizz. Next up: Egg London, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Miss Chants is a house and deep house artist, with 10 gigs on soundcheck across 
 
 AR (UK), Ashley Knights, Iwizz
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misschants/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misschants/)*

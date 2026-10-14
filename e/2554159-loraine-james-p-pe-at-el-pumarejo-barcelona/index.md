@@ -1,6 +1,6 @@
-# Loraine James + Pépe at El Pumarejo Barcelona
+# Loraine James & Pépe at El Pumarejo Barcelona
 
-Loraine James + Pépe at El Pumarejo Barcelona on Thu 15 Oct, Barcelona. See the line-up on soundcheck.
+Loraine James & Pépe at El Pumarejo Barcelona on Thu 15 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Club Sauvage
 
-Club Sauvage is a music venue in Ghent with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Deep Horizon (Keleo B2B Averix)" on Fri, 23 Oct 2026.
+Club Sauvage is a music venue in Ghent with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Deep Horizon (Keleo B2B Averix)" on Fri, 23 Oct 2026.
 
 Club Sauvage is a music venue in Ghent listed on soundcheck. 5 upcoming gigs, with line-ups including Keleo. See dates, start times and who's playing. Schuurkenstraat 2, 9000 Gent.
 
@@ -18,4 +18,4 @@ Club Sauvage is a music venue in Ghent listed on soundcheck. 5 upcoming gigs, wi
 
 Schuurkenstraat 2, 9000 Gent, Ghent
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/club-sauvage/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/club-sauvage/)*

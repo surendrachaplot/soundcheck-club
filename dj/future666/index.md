@@ -1,8 +1,8 @@
 # future.666
 
-future.666 is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Sonora Bordeaux, Bordeaux on Fri, 16 Oct 2026.
+future.666 is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Sonora Bordeaux, Bordeaux on Fri, 16 Oct 2026.
 
-future.666 is a techno and trance artist based in Germany, with 233 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 56 more. Often billed alongside DJ Hyperdrive, ÜBERKIKZ and Adrian Mills. Next up: Sonora Bordeaux, Bordeaux on Fri 16 Oct.
+future.666 is a techno and trance artist based in Germany, with 234 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 56 more. Often billed alongside DJ Hyperdrive, ÜBERKIKZ and Adrian Mills. Next up: Sonora Bordeaux, Bordeaux on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ future.666 is a techno and trance artist based in Germany, with 233 gigs on soun
 | Sat, 31 Oct 2026 | RSO.BERLIN | Berlin |
 | Sat, 31 Oct 2026 | Fabrik | Madrid |
 | Sat, 28 Nov 2026 | MUENZE | Berlin |
+| Fri, 4 Dec 2026 | Smolna | Warsaw |
 | Sat, 12 Dec 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Wed, 30 Dec 2026 | MUENZE | Berlin |
 | Fri, 30 Apr 2027 | Haus der Visionäre | Berlin |
@@ -35,4 +36,4 @@ future.666 is a techno and trance artist based in Germany, with 233 gigs on soun
 
 DJ Hyperdrive, ÜBERKIKZ, Adrian Mills
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/future666/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/future666/)*

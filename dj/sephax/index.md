@@ -1,14 +1,15 @@
 # SEPHAX
 
-SEPHAX is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Skin Club, Madrid on Sat, 17 Oct 2026.
+SEPHAX is a Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Skin Club, Madrid on Sat, 17 Oct 2026.
 
-SEPHAX is an electronic artist, with 10 gigs on soundcheck across Madrid. Often billed alongside Cristobal Pesce, RMXR and 6EJOU. Next up: Skin Club, Madrid on Sat 17 Oct.
+SEPHAX is an industrial artist, with 11 gigs on soundcheck across Madrid. Often billed alongside Cristobal Pesce, RMXR and 6EJOU. Next up: Skin Club, Madrid on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Skin Club | Madrid |
+| Sat, 24 Oct 2026 | The Bassement | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ SEPHAX is an electronic artist, with 10 gigs on soundcheck across Madrid. Often 
 
 Cristobal Pesce, RMXR, 6EJOU
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sephax/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sephax/)*

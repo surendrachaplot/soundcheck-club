@@ -1,6 +1,6 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 12 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Relay: Decimate, Electric Dad, Lock B2b Shy, Raveraffe" on Wed, 14 Oct 2026.
+TRANSMISSION DC is a music venue in Washington DC with 12 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Relay: Decimate, Electric Dad, Lock B2b Shy, Raveraffe" on Wed, 14 Oct 2026.
 
 TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 12 upcoming gigs, with line-ups including 1tbsp, 6 SENSE, B0YG1RL and Bulma and 2 more. See dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
@@ -23,4 +23,4 @@ TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 12 upcom
 
 1353 H st NE, Washington, DC, 20002, Washington DC
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*

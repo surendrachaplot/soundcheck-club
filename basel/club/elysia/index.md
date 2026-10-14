@@ -1,6 +1,6 @@
 # Elysia
 
-Elysia is a music venue in Basel with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Elysia Freitag 30. Oktober" on Fri, 30 Oct 2026.
+Elysia is a music venue in Basel with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Elysia Freitag 30. Oktober" on Fri, 30 Oct 2026.
 
 Elysia is a music venue in Basel listed on soundcheck. 3 upcoming gigs, with line-ups including AYIM, BINA, Bouncy Bongi and ch4r20tte and 2 more. See dates, start times and who's playing. Frankfurt-Strasse 36, 4142, Basel.
 
@@ -16,4 +16,4 @@ Elysia is a music venue in Basel listed on soundcheck. 3 upcoming gigs, with lin
 
 Frankfurt-Strasse 36, 4142, Basel, Basel
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/elysia/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/elysia/)*

@@ -1,8 +1,8 @@
 # The Great Northern
 
-The Great Northern is a music venue in San Francisco/Oakland with 13 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Dragons, Dykes & DJs" on Fri, 16 Oct 2026.
+The Great Northern is a music venue in San Francisco/Oakland with 15 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Dragons, Dykes & DJs" on Fri, 16 Oct 2026.
 
-The Great Northern is a music venue in San Francisco/Oakland listed on soundcheck. 13 upcoming gigs, with line-ups including arktoi, Avalon Emerson, BEYA and Camillionaire and 2 more. See dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
+The Great Northern is a music venue in San Francisco/Oakland listed on soundcheck. 15 upcoming gigs, with line-ups including ALMAS, Anderson Bourne, arktoi and Avalon Emerson and 2 more. See dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
 
 ## What's on
 
@@ -16,11 +16,11 @@ The Great Northern is a music venue in San Francisco/Oakland listed on soundchec
 | Sat, 24 Oct 2026 | Safada: Brazilian Horror Story | Kevin Karrera, Profesito |
 | Thu, 29 Oct 2026 | SWEDM - The Great Northern |  |
 | Fri, 30 Oct 2026 | SQUISH: HALLOWEEN → Avalon Emerson + Sedef Adasï | Avalon Emerson, BEYA, Mez Monty, Papa Xanny, Sedef Adasï, Sholim Eso |
+| Sat, 31 Oct 2026 | The Boo-Over SF |  |
 | Fri, 6 Nov 2026 | Mostly Cloudy x Second Skin: EQ [Live] (Argentina) + Special Guest | EQ (Estratosfera + Qiri), Parallel Play |
-| Fri, 13 Nov 2026 | Maceo Plex - The Great Northern | Maceo Plex |
 
 ## Address
 
 119 Utah St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*

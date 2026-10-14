@@ -1,6 +1,6 @@
 # MMM
 
-MMM is a House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Socore Factory, Osaka on Thu, 19 Nov 2026.
+MMM is a House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Socore Factory, Osaka on Thu, 19 Nov 2026.
 
 MMM is a house and afrobeat artist based in Germany, with 9 gigs on soundcheck across Berlin, Hamburg, Milan and Osaka and 2 more. Often billed alongside ALUCA, Anton Jonathan and Aquarian. Next up: Socore Factory, Osaka on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ MMM is a house and afrobeat artist based in Germany, with 9 gigs on soundcheck a
 
 ALUCA, Anton Jonathan, Aquarian
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mmm/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mmm/)*

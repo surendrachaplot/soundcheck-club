@@ -1,6 +1,6 @@
 # C12 (1)
 
-C12 (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at PRST, Vienna on Thu, 15 Oct 2026.
+C12 (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at PRST, Vienna on Thu, 15 Oct 2026.
 
 C12 is a techno and house artist based in Austria, with 10 gigs on soundcheck across Berlin, Brussels, Munich and Vienna. Often billed alongside Flœr, lex_shockwerk and -LaLa-. Next up: PRST, Vienna on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ C12 is a techno and house artist based in Austria, with 10 gigs on soundcheck ac
 
 Flœr, lex_shockwerk, -LaLa-
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c12-1/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c12-1/)*

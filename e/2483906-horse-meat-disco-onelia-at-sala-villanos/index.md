@@ -1,0 +1,17 @@
+# Horse Meat Disco + Onelia at Sala Villanos
+
+Horse Meat Disco + Onelia at Sala Villanos on Fri 18 Dec, Madrid. 3 artists: Acid Hero, Horse Meat Disco and Onelia. Electronica. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 18 Dec 2026 |
+| Venue | Sala Villanos |
+| City | Madrid |
+
+## Line-up
+
+- Acid Hero
+- Horse Meat Disco
+- Onelia
+
+*Source: [soundcheck](https://soundcheck.club/e/2483906-horse-meat-disco-onelia-at-sala-villanos/)*

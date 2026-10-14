@@ -1,6 +1,6 @@
 # TBA - WARSCHAUER PLATZ 18 10245 BERLIN
 
-TBA - WARSCHAUER PLATZ 18 10245 BERLIN is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "[8] x COORD: Acid Souljah, MYSPACEMARK, ASCHE, bod [包家巷], Freestyler & co [3 STAGES with GARDEN]" on Sat, 17 Oct 2026.
+TBA - WARSCHAUER PLATZ 18 10245 BERLIN is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "[8] x COORD: Acid Souljah, MYSPACEMARK, ASCHE, bod [包家巷], Freestyler & co [3 STAGES with GARDEN]" on Sat, 17 Oct 2026.
 
 TBA - WARSCHAUER PLATZ 18 10245 BERLIN is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Acid Souljah, Anthracene, auto_timer and bod [包家巷] and 2 more. See dates, start times and who's playing.
 
@@ -16,4 +16,4 @@ TBA - WARSCHAUER PLATZ 18 10245 BERLIN is a music venue in Berlin listed on soun
 | Fri, 13 Nov 2026 | [8]: FRIDAY 13TH |  |
 | Thu, 31 Dec 2026 | NYE with FOREVER ENDLESS UNLIMITED CLUBBING |  |
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-warschauer-platz-18-10245-berlin/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-warschauer-platz-18-10245-berlin/)*

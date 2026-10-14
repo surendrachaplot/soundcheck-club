@@ -1,6 +1,6 @@
 # Feroun
 
-Feroun is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Email Deepsidebaltimore@gmail.com for info/address, Baltimore on Fri, 30 Oct 2026.
+Feroun is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Email Deepsidebaltimore@gmail.com for info/address, Baltimore on Fri, 30 Oct 2026.
 
 Feroun is a house and techno artist, with 3 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside Cassy, Jus Nowhere and Mazi_R. Next up: TBA - Email Deepsidebaltimore@gmail.com for info/address, Baltimore on Fri 30 Oct.
 
@@ -19,4 +19,4 @@ Feroun is a house and techno artist, with 3 gigs on soundcheck across Baltimore 
 
 Cassy, Jus Nowhere, Mazi_R
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feroun/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feroun/)*

@@ -1,8 +1,8 @@
 # Ankali & Planeta Za
 
-Ankali & Planeta Za is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Harmony Rec. x Mala Junta" on Fri, 16 Oct 2026.
+Ankali & Planeta Za is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Harmony Rec. x Mala Junta" on Fri, 16 Oct 2026.
 
-Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 10 upcoming gigs, with line-ups including 3ever, Alfred Czital, anthró and AVHD and 2 more. See dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
+Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with line-ups including 3ever, Alfred Czital, anthró and artilerie and 2 more. See dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 10 upcoming
 | Fri, 30 Oct 2026 | Archiv Teknologi: Pariah, Microchic, kletis | Microchic, Pariah, kletis |
 | Sat, 31 Oct 2026 | Spooky Sexy Extravgnza | Ayiaa, Big Lil, Fembot, PRDELANZA, TAPCUE, VISNEACS, patricccio |
 | Sat, 7 Nov 2026 | Dřevjeno: Dušičky | Eva Falt, Kino Paladino, Malachi Constant, Matysku, anthró |
+| Fri, 13 Nov 2026 | ★ BRUXA with LOLSNAKE (Weeirdos), Nina Farrina, MIKLEI, Madeleine, 3ever, Silhouette, artilerie | 3ever, LOLSNAKE, MIKLEI, Madeleine, Nina Farrina, Silhouette, artilerie |
 | Sat, 14 Nov 2026 | HEAT X with GLIA | Demonika, GLIA, Midirama, VI:AM, Zuzana Hakl |
 | Fri, 18 Dec 2026 | Harmony XMAS | Ayū (1), BB. angel, DINA, Dash (CZ), Georgia Bird, Misha Jaru, Raleigh, Yan (CZ), Zubescu |
-| Thu, 31 Dec 2026 | #nye_extended [24h] |  |
 
 ## Address
 
 Lopuchová 58/6, Prague, 101 00, Czechia, Prague
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*

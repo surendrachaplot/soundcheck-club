@@ -1,6 +1,6 @@
 # Romare
 
-Romare is a House and Electronica artist with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Berkeley Suite, Glasgow on Sat, 17 Oct 2026.
+Romare is a House and Electronica artist with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Berkeley Suite, Glasgow on Sat, 17 Oct 2026.
 
 Romare is a house and electronica artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Austin, Berlin and Brighton and 28 more. Often billed alongside Nightmares on Wax, Tamati and Tarzsa. Next up: The Berkeley Suite, Glasgow on Sat 17 Oct.
 
@@ -33,4 +33,4 @@ Romare is a house and electronica artist based in United Kingdom, with 85 gigs o
 
 Nightmares on Wax, Tamati, Tarzsa
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romare/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romare/)*

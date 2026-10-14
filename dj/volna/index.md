@@ -1,6 +1,6 @@
 # VØLNA
 
-VØLNA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at M7 Club, Barcelona on Fri, 30 Oct 2026.
+VØLNA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at M7 Club, Barcelona on Fri, 30 Oct 2026.
 
 VØLNA is a techno and trance artist based in Spain, with 7 gigs on soundcheck across Barcelona. Often billed alongside INEXXSTABLE, BreakStyle and Coroco. Next up: M7 Club, Barcelona on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ VØLNA is a techno and trance artist based in Spain, with 7 gigs on soundcheck a
 
 INEXXSTABLE, BreakStyle, Coroco
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/volna/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/volna/)*

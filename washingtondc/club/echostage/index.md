@@ -1,6 +1,6 @@
 # Echostage
 
-Echostage is a music venue in Washington DC with 17 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "San Holo with Taiki Nulight, Atura" on Sat, 17 Oct 2026.
+Echostage is a music venue in Washington DC with 17 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "San Holo with Taiki Nulight, Atura" on Sat, 17 Oct 2026.
 
 Echostage is a music venue in Washington DC listed on soundcheck. 17 upcoming gigs, with line-ups including 10cust, Brutalismus 3000, Casey Club and Chris Lorenzo and 2 more. See dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
 
@@ -10,7 +10,7 @@ Echostage is a music venue in Washington DC listed on soundcheck. 17 upcoming gi
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | San Holo with Taiki Nulight, Atura | San Holo |
 | Fri, 23 Oct 2026 | Chris Lorenzo w/ Ragie Ban, Mai iachetti, MIRACLETEK | Chris Lorenzo, Mai iachetti |
-| Sat, 24 Oct 2026 | Factory 93 presents: ¥ØU$UK€ ¥UK1MAT$U | ¥ØU$UK€ ¥UK1MAT$U |
+| Sat, 24 Oct 2026 | Factory 93 presents: ¥ØU$UK€ ¥UK1MAT$U w/ DOSS, MARTYN3024 | ¥ØU$UK€ ¥UK1MAT$U |
 | Thu, 29 Oct 2026 | Kaytranada (DJ Set) with Lou Phelps (DJ Set), Darling Cool | Darling Cool, Kaytranada |
 | Fri, 30 Oct 2026 | Factory 93: Eli Brown with Massano (360° SetS) | Eli Brown, Massano |
 | Fri, 6 Nov 2026 | Nico Moreno | Nico Moreno |
@@ -23,4 +23,4 @@ Echostage is a music venue in Washington DC listed on soundcheck. 17 upcoming gi
 
 2135 Queens Chapel Road NE, Washington, DC 20018, Washington DC
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*

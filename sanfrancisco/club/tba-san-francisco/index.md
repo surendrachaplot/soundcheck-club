@@ -1,6 +1,6 @@
 # TBA - San Francisco
 
-TBA - San Francisco is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "Texture Summit Pres. Jex Opolis" on Sat, 24 Oct 2026.
+TBA - San Francisco is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "Texture Summit Pres. Jex Opolis" on Sat, 24 Oct 2026.
 
 TBA - San Francisco is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig, with line-ups including Anderson Chase, Eug, Infinite Jess and Jex Opolis and 1 more. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - San Francisco is a music venue in San Francisco/Oakland listed on soundche
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Texture Summit Pres. Jex Opolis | Anderson Chase, Eug, Infinite Jess, Jex Opolis, Joe Fro |
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/tba-san-francisco/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/tba-san-francisco/)*

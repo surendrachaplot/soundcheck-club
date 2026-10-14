@@ -1,6 +1,6 @@
 # Joaquim Quadros
 
-Joaquim Quadros is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 17 Oct 2026.
+Joaquim Quadros is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 17 Oct 2026.
 
 Joaquim Quadros is a club and electronica artist, with 16 gigs on soundcheck across Lisbon and Sao Paulo. Often billed alongside Afonso (PT), Bernardo Vaz and Catarina Silva. Next up: Lux Fragil, Lisbon on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Joaquim Quadros is a club and electronica artist, with 16 gigs on soundcheck acr
 
 Afonso (PT), Bernardo Vaz, Catarina Silva
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joaquimquadros/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joaquimquadros/)*

@@ -1,6 +1,6 @@
 # IRENÆ
 
-IRENÆ is a Techno and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - EAST LONDON- announced to ticket holders on the day, London on Fri, 16 Oct 2026.
+IRENÆ is a Techno and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - EAST LONDON- announced to ticket holders on the day, London on Fri, 16 Oct 2026.
 
 IRENÆ is a techno and downtempo artist based in United Kingdom, with 2 gigs on soundcheck across London. Often billed alongside AALEX, Altayef and Any Koh. Next up: TBA - EAST LONDON- announced to ticket holders on the day, London on Fri 16 Oct.
 
@@ -15,4 +15,4 @@ IRENÆ is a techno and downtempo artist based in United Kingdom, with 2 gigs on 
 
 AALEX, Altayef, Any Koh
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irenæ/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irenæ/)*

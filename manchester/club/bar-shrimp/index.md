@@ -1,6 +1,6 @@
 # Bar Shrimp
 
-Bar Shrimp is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Bar Shrimp: Cronners" on Wed, 14 Oct 2026.
+Bar Shrimp is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Bar Shrimp: Cronners" on Wed, 14 Oct 2026.
 
 Bar Shrimp is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with line-ups including King Kit, Kusasa, MARACUYá and Rhod Parry and 1 more. See dates, start times and who's playing. 7 New York Street, Manchester, M1 4JB.
 
@@ -20,4 +20,4 @@ Bar Shrimp is a music venue in Manchester listed on soundcheck. 7 upcoming gigs,
 
 7 New York Street, Manchester, M1 4JB, Manchester
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/bar-shrimp/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/bar-shrimp/)*

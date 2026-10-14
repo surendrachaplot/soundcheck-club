@@ -1,6 +1,6 @@
 # MARØ (2)
 
-MARØ (2) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at PRST, Vienna on Sat, 17 Oct 2026.
+MARØ (2) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at PRST, Vienna on Sat, 17 Oct 2026.
 
 MARØ is a techno and trance artist based in Austria, with 11 gigs on soundcheck across Vienna. Often billed alongside Anna Ullrich, KRAWALLBARBIE and BLUDHOUND. Next up: PRST, Vienna on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ MARØ is a techno and trance artist based in Austria, with 11 gigs on soundcheck
 
 Anna Ullrich, KRAWALLBARBIE, BLUDHOUND
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maro-2/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maro-2/)*

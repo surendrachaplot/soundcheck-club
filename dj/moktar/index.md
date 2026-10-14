@@ -1,6 +1,6 @@
 # Moktar
 
-Moktar is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Liberty Hall, Sydney on Sat, 12 Dec 2026.
+Moktar is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Liberty Hall, Sydney on Sat, 12 Dec 2026.
 
 Moktar is a techno and house artist based in Australia, with 58 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Surusinghe, Roza Terenzi and Yung Singh. Next up: Liberty Hall, Sydney on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Moktar is a techno and house artist based in Australia, with 58 gigs on soundche
 
 Surusinghe, Roza Terenzi, Yung Singh
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moktar/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moktar/)*

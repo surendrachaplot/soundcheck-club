@@ -1,6 +1,6 @@
 # La Notte fino al Mattino at Bunker
 
-La Notte fino al Mattino at Bunker on Fri 30 Oct, Turin. 6 artists: Emiliano Comollo, Francesco Skip, Gatto Nero and Luce Clandestina and 2 more. Techno and Dub Techno. See the line-up on soundcheck.
+La Notte fino al Mattino at Bunker on Fri 30 Oct, Turin. 5 artists: Emiliano Comollo, Francesco Skip, Luce Clandestina and Stenny and 1 more. Techno and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ La Notte fino al Mattino at Bunker on Fri 30 Oct, Turin. 6 artists: Emiliano Com
 
 - Emiliano Comollo
 - Francesco Skip
-- Gatto Nero
 - Luce Clandestina
 - Stenny
 - VC-118A

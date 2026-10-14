@@ -1,10 +1,10 @@
 # PARADOX at XOYO
 
-PARADOX at XOYO on Wed 28 Oct, London. Tech House and Deep House. See the line-up on soundcheck.
+PARADOX at XOYO on Thu 5 Nov, London. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Wed, 28 Oct 2026 |
+| Date | Thu, 5 Nov 2026 |
 | Venue | XOYO |
 | City | London |
 

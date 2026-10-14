@@ -1,8 +1,8 @@
 # Sameheads
 
-Sameheads is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "SACA SAL" on Thu, 15 Oct 2026.
+Sameheads is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "SACA SAL" on Thu, 15 Oct 2026.
 
-Sameheads is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Amuleto Manuela, Beppe Loda, Caillou and Calamidades Lola and 2 more. See dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
+Sameheads is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Amuleto Manuela, Beppe Loda, Caillou and Calamidades Lola and 2 more. See dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Sameheads is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, wit
 | Fri, 30 Oct 2026 | We'll be there in a bit with Rhyw, Samira, Levente | Levente, Rhyw, Samira (NL) |
 | Sat, 31 Oct 2026 | Weddings vs Funerals - Sameheads Halloween Costume Party | DJ soFa, Miss Take |
 | Sat, 7 Nov 2026 | ELSI with Beppe Loda x Universal Waves (Record Release Party) | Beppe Loda, Denzel, Jimmie, Trent |
-| Sat, 12 Dec 2026 | NYAPI presents Tia Cousins & Chez de Milo | Chez de Milo, FFAN, Tia Cousins |
+| Fri, 11 Dec 2026 | Subject To Restrictions Discs pres. Nicolas Balmer • Jenne • SONOKI • Nive • Dominik André | Dominik André, Jenne, Nive, SONOKI |
 
 ## Address
 
 Richardstrasse 10; Neukölln; 12043 Berlin; Germany, Berlin
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*

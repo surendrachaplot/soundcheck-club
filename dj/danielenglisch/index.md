@@ -1,6 +1,6 @@
 # Daniel Englisch
 
-Daniel Englisch is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 17 Oct 2026.
+Daniel Englisch is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 17 Oct 2026.
 
 Daniel Englisch is a techno and house artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam, Cologne, Detroit and Utrecht. Often billed alongside Detune, Raw Underground and Redmadvelvet. Next up: Toekomstmuziek, Amsterdam on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Daniel Englisch is a techno and house artist based in Netherlands, with 17 gigs 
 
 Detune, Raw Underground, Redmadvelvet
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielenglisch/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielenglisch/)*

@@ -1,6 +1,6 @@
 # Breaka
 
-Breaka is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The DBA, Manchester on Fri, 16 Oct 2026.
+Breaka is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The DBA, Manchester on Fri, 16 Oct 2026.
 
 Breaka is a bass and techno artist based in United Kingdom, with 114 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 34 more. Often billed alongside Bakey, Yushh and Dubrunner. Next up: The DBA, Manchester on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Breaka is a bass and techno artist based in United Kingdom, with 114 gigs on sou
 
 Bakey, Yushh, Dubrunner
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/breaka/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/breaka/)*

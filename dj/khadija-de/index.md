@@ -1,13 +1,14 @@
 # Khadija (DE)
 
-Khadija (DE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
+Khadija (DE) is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Westerkerk, Amsterdam on Thu, 22 Oct 2026.
 
-Khadija (DE) is a house and techno artist based in Germany, with 30 gigs on soundcheck across Amsterdam, Berlin, Brussels and Frankfurt and 3 more. Often billed alongside Njeri, Anele and Katerinha. Next up: Basement (Amsterdam), Amsterdam on Thu 22 Oct.
+Khadija (DE) is a house and afro house artist based in Germany, with 31 gigs on soundcheck across Amsterdam, Berlin, Brussels and Frankfurt and 3 more. Often billed alongside Njeri, Anele and Katerinha. Next up: Westerkerk, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Westerkerk | Amsterdam |
 | Thu, 22 Oct 2026 | Basement (Amsterdam) | Amsterdam |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
 
@@ -26,4 +27,4 @@ Khadija (DE) is a house and techno artist based in Germany, with 30 gigs on soun
 
 Njeri, Anele, Katerinha
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khadija-de/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khadija-de/)*

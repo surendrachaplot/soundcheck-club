@@ -1,6 +1,6 @@
 # Mordak
 
-Mordak is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Sat, 24 Oct 2026.
+Mordak is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Sat, 24 Oct 2026.
 
 Mordak is a house and electronica artist based in Italy, with 50 gigs on soundcheck across London, Milan and Rome. Often billed alongside Fabrizio Sala, DANAE and Matteo Canori. Next up: Soap House - Ex Saponerie Mira Lanza, Rome on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Mordak is a house and electronica artist based in Italy, with 50 gigs on soundch
 
 Fabrizio Sala, DANAE, Matteo Canori
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mordak/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mordak/)*

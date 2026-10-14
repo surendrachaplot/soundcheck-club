@@ -1,8 +1,8 @@
 # Maceo Plex
 
-Maceo Plex is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Native Beach Club, Cardales, Buenos Aires on Fri, 16 Oct 2026.
+Maceo Plex is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Native Beach Club, Cardales, Buenos Aires on Fri, 16 Oct 2026.
 
-Maceo Plex is a techno and house artist based in United States of America, with 193 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 52 more. Often billed alongside Seth Troxler, Adam Beyer and DJ Tennis. Next up: TBA - Native Beach Club, Cardales, Buenos Aires on Fri 16 Oct.
+Maceo Plex is a techno and house artist based in United States of America, with 194 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 52 more. Often billed alongside Seth Troxler, Adam Beyer and DJ Tennis. Next up: TBA - Native Beach Club, Cardales, Buenos Aires on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Maceo Plex is a techno and house artist based in United States of America, with 
 | Fri, 13 Nov 2026 | The Great Northern | San Francisco/Oakland |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Sat, 21 Nov 2026 | TBA - Aurora @ Soho City Center | Panama |
+| Fri, 4 Dec 2026 | The Concourse Project | Austin |
 | Sat, 5 Dec 2026 | Brooklyn Pacha | New York City |
 | Thu, 31 Dec 2026 | Zamna Tulum | Tulum |
 
@@ -33,4 +34,4 @@ Maceo Plex is a techno and house artist based in United States of America, with 
 
 Seth Troxler, Adam Beyer, DJ Tennis
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maceoplex/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maceoplex/)*

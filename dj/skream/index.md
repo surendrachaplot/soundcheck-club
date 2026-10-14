@@ -1,6 +1,6 @@
 # Skream
 
-Skream is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Volt Club Milano, Milan on Thu, 15 Oct 2026.
+Skream is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Volt Club Milano, Milan on Thu, 15 Oct 2026.
 
 Skream is a house and techno artist based in United Kingdom, with 225 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 61 more. Often billed alongside Seth Troxler, Benga and DJ Tennis. Next up: Volt Club Milano, Milan on Thu 15 Oct.
 
@@ -33,4 +33,4 @@ Skream is a house and techno artist based in United Kingdom, with 225 gigs on so
 
 Seth Troxler, Benga, DJ Tennis
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skream/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skream/)*

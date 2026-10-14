@@ -1,6 +1,6 @@
 # othrwrld
 
-othrwrld is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Process PDX, Portland on Fri, 23 Oct 2026.
+othrwrld is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Process PDX, Portland on Fri, 23 Oct 2026.
 
 othrwrld is a techno and bass artist based in Canada, with 6 gigs on soundcheck across Portland. Often billed alongside DJ DISSOLVE, Nolid and Peter Sheppard. Next up: Process PDX, Portland on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ othrwrld is a techno and bass artist based in Canada, with 6 gigs on soundcheck 
 
 DJ DISSOLVE, Nolid, Peter Sheppard
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/othrwrld/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/othrwrld/)*

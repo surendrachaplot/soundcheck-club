@@ -1,6 +1,6 @@
 # Atnosphere :: Seedlings invites: Sub Basics (UK) at Atno
 
-Atnosphere :: Seedlings invites: Sub Basics (UK) on Thu 22 Oct, Budapest. 4 artists: FLUIDUM, klpflrtpr, Sub Basics and Zakhorov. Dub and Club. See the line-up on soundcheck.
+Atnosphere :: Seedlings invites: Sub Basics (UK) on Thu 22 Oct, Budapest. 6 artists: Banyek, FLUIDUM, klpflrtpr and Mental and 2 more. Dub and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,10 @@ Atnosphere :: Seedlings invites: Sub Basics (UK) on Thu 22 Oct, Budapest. 4 arti
 
 ## Line-up
 
+- Banyek
 - FLUIDUM
 - klpflrtpr
+- Mental
 - Sub Basics
 - Zakhorov
 

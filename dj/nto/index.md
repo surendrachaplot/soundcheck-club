@@ -1,6 +1,6 @@
 # NTO
 
-NTO is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Kompass Klub, Ghent on Sat, 17 Oct 2026.
+NTO is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Kompass Klub, Ghent on Sat, 17 Oct 2026.
 
 NTO is a techno and house artist based in France, with 124 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside Prismode, Solvane and Joachim Pastor. Next up: Kompass Klub, Ghent on Sat 17 Oct.
 
@@ -34,4 +34,4 @@ NTO is a techno and house artist based in France, with 124 gigs on soundcheck ac
 
 Prismode, Solvane, Joachim Pastor
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nto/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nto/)*

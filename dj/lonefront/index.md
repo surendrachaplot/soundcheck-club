@@ -1,6 +1,6 @@
 # Lonefront
 
-Lonefront is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Subspace, Denver on Sat, 17 Oct 2026.
+Lonefront is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Subspace, Denver on Sat, 17 Oct 2026.
 
 Lonefront is a techno and dub techno artist based in United States of America, with 25 gigs on soundcheck across Berlin, Boston, Chicago and Denver and 8 more. Often billed alongside Decoder, FLAWS and Dustin Zahn. Next up: Subspace, Denver on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Lonefront is a techno and dub techno artist based in United States of America, w
 
 Decoder, FLAWS, Dustin Zahn
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lonefront/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lonefront/)*

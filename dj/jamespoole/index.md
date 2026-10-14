@@ -1,6 +1,6 @@
 # James Poole
 
-James Poole is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Club Space Miami, Miami on Sat, 24 Oct 2026.
+James Poole is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Club Space Miami, Miami on Sat, 24 Oct 2026.
 
 James Poole is a house and minimal artist based in United Kingdom, with 8 gigs on soundcheck across Amsterdam, Eindhoven, Ibiza and Los Angeles and 4 more. Often billed alongside East End Dubs, Ryan Nicholls and Sosa. Next up: Club Space Miami, Miami on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ James Poole is a house and minimal artist based in United Kingdom, with 8 gigs o
 
 East End Dubs, Ryan Nicholls, Sosa
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamespoole/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamespoole/)*

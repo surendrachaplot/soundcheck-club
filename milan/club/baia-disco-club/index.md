@@ -1,6 +1,6 @@
 # Baia Disco Club
 
-Baia Disco Club is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "Bene Bene bar presents TAPPA:  Edie Ashley, Tonito Yama, Nodef" on Fri, 16 Oct 2026.
+Baia Disco Club is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "Bene Bene bar presents TAPPA:  Edie Ashley, Tonito Yama, Nodef" on Fri, 16 Oct 2026.
 
 Baia Disco Club is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including Tonito Yama. See dates, start times and who's playing. Via Ottavio Rinuccini, 7, 20127 Milano MI.
 
@@ -14,4 +14,4 @@ Baia Disco Club is a music venue in Milan listed on soundcheck. 1 upcoming gig, 
 
 Via Ottavio Rinuccini, 7, 20127 Milano MI, Milan
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/baia-disco-club/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/baia-disco-club/)*

@@ -1,6 +1,6 @@
 # Sigurd CPH
 
-Sigurd CPH is a music venue in Copenhagen with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Thirstay - for Dancing" on Thu, 15 Oct 2026.
+Sigurd CPH is a music venue in Copenhagen with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Thirstay - for Dancing" on Thu, 15 Oct 2026.
 
 Sigurd CPH is a music venue in Copenhagen listed on soundcheck. 7 upcoming gigs, with line-ups including Jungle Julia(DK), Kapela and Lisa Fosmark. See dates, start times and who's playing. Sigurdsgade 39, Copenhagen, Denmark, 2200.
 
@@ -20,4 +20,4 @@ Sigurd CPH is a music venue in Copenhagen listed on soundcheck. 7 upcoming gigs,
 
 Sigurdsgade 39, Copenhagen, Denmark, 2200, Copenhagen
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/sigurd-cph/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/sigurd-cph/)*

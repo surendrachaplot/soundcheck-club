@@ -1,6 +1,6 @@
 # Larry Masmero
 
-Larry Masmero is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Studionotte, Milan on Fri, 16 Oct 2026.
+Larry Masmero is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Studionotte, Milan on Fri, 16 Oct 2026.
 
 Larry Masmero is a house and disco artist based in Italy, with 102 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and London and 4 more. Often billed alongside Lele Sacchi, Xavich and Eternal Love. Next up: Studionotte, Milan on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Larry Masmero is a house and disco artist based in Italy, with 102 gigs on sound
 
 Lele Sacchi, Xavich, Eternal Love
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larrymasmero/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larrymasmero/)*

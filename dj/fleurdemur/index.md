@@ -1,6 +1,6 @@
 # Fleur De Mur
 
-Fleur De Mur is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at La Java, Paris on Sat, 17 Oct 2026.
+Fleur De Mur is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at La Java, Paris on Sat, 17 Oct 2026.
 
 Fleur De Mur is a house and disco artist based in Australia, with 24 gigs on soundcheck across Amsterdam, Barcelona, London and Nantes and 1 more. Often billed alongside Georges, Bellaire and Bomel. Next up: La Java, Paris on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Fleur De Mur is a house and disco artist based in Australia, with 24 gigs on sou
 
 Georges, Bellaire, Bomel
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fleurdemur/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fleurdemur/)*

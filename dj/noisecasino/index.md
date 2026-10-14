@@ -1,6 +1,6 @@
 # Noise Casino
 
-Noise Casino is a Latin Bass and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Tropical Milano, Milan on Fri, 16 Oct 2026.
+Noise Casino is a Latin Bass and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Tropical Milano, Milan on Fri, 16 Oct 2026.
 
 Noise Casino is a latin bass and acid artist based in Colombia, with 16 gigs on soundcheck across Berlin, Milan and Prague. Often billed alongside Juana Valeria, Francisco Nada and SEPBTT. Next up: Tropical Milano, Milan on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Noise Casino is a latin bass and acid artist based in Colombia, with 16 gigs on 
 
 Juana Valeria, Francisco Nada, SEPBTT
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noisecasino/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noisecasino/)*

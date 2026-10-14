@@ -1,0 +1,17 @@
+# smalltown with Gerd Janson B2B Marcel Dettmann (5hrs) at Preston Warehouse
+
+smalltown with Gerd Janson B2B Marcel Dettmann (5hrs) at Preston Warehouse on Sat 21 Nov, Melbourne. 3 artists: Gerd Janson, Lex and Marcel Dettmann. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 21 Nov 2026 |
+| Venue | Preston Warehouse |
+| City | Melbourne |
+
+## Line-up
+
+- Gerd Janson
+- Lex
+- Marcel Dettmann
+
+*Source: [soundcheck](https://soundcheck.club/e/2495178-smalltown-with-gerd-janson-b2b-marcel-dettmann-5hrs-at-prest/)*

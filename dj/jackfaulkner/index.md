@@ -1,6 +1,6 @@
 # JACK FAULKNER
 
-JACK FAULKNER is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - DTLA, Los Angeles on Fri, 23 Oct 2026.
+JACK FAULKNER is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - DTLA, Los Angeles on Fri, 23 Oct 2026.
 
 JACK FAULKNER is a deep house and house artist based in United States of America, with 19 gigs on soundcheck across Los Angeles and Puerto Vallarta. Often billed alongside Noir D Costas, David Harness and Sou Saudade. Next up: TBA - DTLA, Los Angeles on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ JACK FAULKNER is a deep house and house artist based in United States of America
 
 Noir D Costas, David Harness, Sou Saudade
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackfaulkner/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackfaulkner/)*

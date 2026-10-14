@@ -1,6 +1,6 @@
 # TRUEUNSOL
 
-TRUEUNSOL is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 12 Oct 2026.
+TRUEUNSOL is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 12 Oct 2026.
 
 TRUEUNSOL is a house and techno artist based in South Korea, with 89 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Daul, DJ Wow and Youngseok. Next up: Stoked&stoned, Seoul on Mon 12 Oct.
 
@@ -26,4 +26,4 @@ TRUEUNSOL is a house and techno artist based in South Korea, with 89 gigs on sou
 
 Daul, DJ Wow, Youngseok
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trueunsol/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trueunsol/)*

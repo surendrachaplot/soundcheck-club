@@ -1,6 +1,6 @@
 # Rachel Torro
 
-Rachel Torro is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 16 Oct 2026.
+Rachel Torro is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 16 Oct 2026.
 
 Rachel Torro is a house and disco artist based in United States of America, with 15 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Benjamin K, Galen and Jimmy B. Next up: Public Works, San Francisco/Oakland on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Rachel Torro is a house and disco artist based in United States of America, with
 
 Benjamin K, Galen, Jimmy B
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/racheltorro/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/racheltorro/)*

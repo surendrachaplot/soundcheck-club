@@ -1,6 +1,6 @@
 # kyly
 
-kyly is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Silodom, Saarland on Sat, 17 Oct 2026.
+kyly is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Silodom, Saarland on Sat, 17 Oct 2026.
 
 kyly is a techno and trance artist based in Germany, with 30 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 6 more. Often billed alongside slin, MATRIX3K and lex_shockwerk. Next up: Silodom, Saarland on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ kyly is a techno and trance artist based in Germany, with 30 gigs on soundcheck 
 
 slin, MATRIX3K, lex_shockwerk
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyly/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyly/)*

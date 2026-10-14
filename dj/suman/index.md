@@ -1,14 +1,15 @@
 # Suman
 
-Suman is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Faust, Seoul on Sat, 17 Oct 2026.
+Suman is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Faust, Seoul on Sat, 17 Oct 2026.
 
-Suman is a techno and house artist based in South Korea, with 121 gigs on soundcheck across Amsterdam, Seoul and South Korea. Often billed alongside Marcus L, Joon Kwak and DAMIE (KR). Next up: Faust, Seoul on Sat 17 Oct.
+Suman is a techno and house artist based in South Korea, with 122 gigs on soundcheck across Amsterdam, Seoul and South Korea. Often billed alongside Marcus L, Joon Kwak and Stann Lumo. Next up: Faust, Seoul on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Faust | Seoul |
+| Fri, 30 Oct 2026 | Faust | Seoul |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Suman is a techno and house artist based in South Korea, with 121 gigs on soundc
 
 ## Shares bills with
 
-Marcus L, Joon Kwak, DAMIE (KR)
+Marcus L, Joon Kwak, Stann Lumo
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suman/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suman/)*

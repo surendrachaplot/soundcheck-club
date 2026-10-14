@@ -1,6 +1,6 @@
 # The Scala
 
-The Scala is a music venue in London with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Back To The 90's & 00's: Throwback Session" on Sat, 17 Oct 2026.
+The Scala is a music venue in London with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Back To The 90's & 00's: Throwback Session" on Sat, 17 Oct 2026.
 
 The Scala is a music venue in London listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. 275 Pentonville Road; King´s Cross; London N1 9NL; United Kingdom.
 
@@ -19,4 +19,4 @@ The Scala is a music venue in London listed on soundcheck. 6 upcoming gigs. See 
 
 275 Pentonville Road; King´s Cross; London N1 9NL; United Kingdom, London
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-scala/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-scala/)*

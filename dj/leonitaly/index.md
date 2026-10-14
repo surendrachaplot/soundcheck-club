@@ -1,6 +1,6 @@
 # Leon
 
-Leon is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 24 Oct 2026.
+Leon is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 24 Oct 2026.
 
 Leon is a tech house and techno artist based in Italy, with 65 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Marco Carola, Kulage and Pirate Copy. Next up: Starlane Pizza Bar, London on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Leon is a tech house and techno artist based in Italy, with 65 gigs on soundchec
 
 Marco Carola, Kulage, Pirate Copy
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonitaly/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonitaly/)*

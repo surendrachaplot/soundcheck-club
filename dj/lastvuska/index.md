@@ -1,6 +1,6 @@
 # Lastvuska
 
-Lastvuska is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Hasta La Vista, Baby, Amsterdam on Sun, 25 Oct 2026.
+Lastvuska is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Hasta La Vista, Baby, Amsterdam on Sun, 25 Oct 2026.
 
 Lastvuska is a techno and trance artist based in France, with 84 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Jolly (FR), Maryu and Forest. Next up: Hasta La Vista, Baby, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Lastvuska is a techno and trance artist based in France, with 84 gigs on soundch
 
 Jolly (FR), Maryu, Forest
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lastvuska/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lastvuska/)*

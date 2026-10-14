@@ -24,7 +24,7 @@ Tech Couture [24 Hours] // The Last Dance of 2026 at FOLD on Sat 28 Nov, London.
 - Mari Sakurai
 - NIKS
 - Paula Koski
-- RayRay
+- Rachel de Moncuit
 - Setaoc Mass
 - sweetestcape
 - Teecra

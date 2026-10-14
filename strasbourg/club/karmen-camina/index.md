@@ -1,6 +1,6 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 11 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "COMBO CLUB [Carlita Bandita • K2S • Neurone (Syn & Tatlo)]" on Thu, 15 Oct 2026.
+Karmen Camina is a music venue in Strasbourg with 11 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "COMBO CLUB [Carlita Bandita • K2S • Neurone (Syn & Tatlo)]" on Thu, 15 Oct 2026.
 
 Karmen Camina is a music venue in Strasbourg listed on soundcheck. 11 upcoming gigs, with line-ups including ALOT, Amadeo Savio, Arbo and Bitter Babe and 2 more. See dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
@@ -23,4 +23,4 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 11 upcoming g
 
 4 cour des Cigarières 67000 Strasbourg, Strasbourg
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*

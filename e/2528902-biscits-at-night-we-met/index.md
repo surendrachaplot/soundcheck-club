@@ -1,6 +1,6 @@
 # Biscits at Night We Met
 
-Biscits at Night We Met on Sat 31 Oct, Nashville. 1 artist: Biscits. House and Tech House. See the line-up on soundcheck.
+Biscits at Night We Met on Sat 31 Oct, Nashville. 2 artists: Biscits and Cheeko. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Biscits at Night We Met on Sat 31 Oct, Nashville. 1 artist: Biscits. House and T
 ## Line-up
 
 - Biscits
+- Cheeko
 
 *Source: [soundcheck](https://soundcheck.club/e/2528902-biscits-at-night-we-met/)*

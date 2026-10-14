@@ -1,14 +1,13 @@
 # Keepsakes
 
-Keepsakes is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at OXI, Berlin on Tue, 13 Oct 2026.
+Keepsakes is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - SECRET LOCATION, Belfast on Sat, 31 Oct 2026.
 
-Keepsakes is a techno and house artist based in New Zealand, with 40 gigs on soundcheck across Athens, Auckland, Barcelona and Belfast and 19 more. Often billed alongside Inverse Element, ADMINISTRATOR and DLV. Next up: OXI, Berlin on Tue 13 Oct.
+Keepsakes is a techno and house artist based in New Zealand, with 40 gigs on soundcheck across Athens, Auckland, Barcelona and Belfast and 19 more. Often billed alongside Inverse Element, ADMINISTRATOR and DLV. Next up: TBA - SECRET LOCATION, Belfast on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 13 Oct 2026 | OXI | Berlin |
 | Sat, 31 Oct 2026 | TBA - SECRET LOCATION | Belfast |
 | Sat, 31 Oct 2026 | TBA - SECRET LOCATION BT7 | Belfast |
 | Sat, 7 Nov 2026 | Avalon Cafe Bermondsey | London |
@@ -16,6 +15,7 @@ Keepsakes is a techno and house artist based in New Zealand, with 40 gigs on sou
 
 ## Recently played
 
+- OXI, Berlin · Tue, 13 Oct 2026
 - Glazart, Paris · Sun, 20 Sept 2026
 - STK 47 WAREHOUSE, Krakow · Fri, 11 Sept 2026
 - Fuchs2, Prague · Sat, 5 Sept 2026
@@ -23,10 +23,9 @@ Keepsakes is a techno and house artist based in New Zealand, with 40 gigs on sou
 - Solace, Melbourne · Fri, 17 Apr 2026
 - Il Brutto Auckland, Auckland · Fri, 30 Jan 2026
 - Glazart, Paris · Sun, 30 Nov 2025
-- Astron Club, Athens · Fri, 28 Nov 2025
 
 ## Shares bills with
 
 Inverse Element, ADMINISTRATOR, DLV
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keepsakes/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keepsakes/)*

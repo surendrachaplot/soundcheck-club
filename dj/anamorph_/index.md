@@ -1,6 +1,6 @@
 # ANAMORPH_
 
-ANAMORPH_ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Drakiana, Crete on Tue, 27 Oct 2026.
+ANAMORPH_ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Drakiana, Crete on Tue, 27 Oct 2026.
 
 ANAMORPH_ is a techno and house artist based in Germany, with 7 gigs on soundcheck across Athens, Berlin and Crete. Often billed alongside ADAM MUNNINGS, ANFS and Alpha Tracks. Next up: Drakiana, Crete on Tue 27 Oct.
 
@@ -23,4 +23,4 @@ ANAMORPH_ is a techno and house artist based in Germany, with 7 gigs on soundche
 
 ADAM MUNNINGS, ANFS, Alpha Tracks
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anamorph_/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anamorph_/)*

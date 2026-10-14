@@ -1,6 +1,6 @@
 # EDJM
 
-EDJM is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Meraki, Liverpool on Sat, 24 Oct 2026.
+EDJM is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Meraki, Liverpool on Sat, 24 Oct 2026.
 
 EDJM is a techno and trance artist based in United Kingdom, with 12 gigs on soundcheck across Berlin, Leeds, Liverpool and Malta and 1 more. Often billed alongside CHVZ, BONSWA and BRNE. Next up: Meraki, Liverpool on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ EDJM is a techno and trance artist based in United Kingdom, with 12 gigs on soun
 
 CHVZ, BONSWA, BRNE
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edjm/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edjm/)*

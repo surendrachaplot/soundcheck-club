@@ -1,6 +1,6 @@
 # DaDa • VFY • SALLY KIPA • Hutzzy • LVN at Mtkvarze
 
-DaDa • VFY • SALLY KIPA • Hutzzy • LVN at Mtkvarze on Sat 17 Oct, Tbilisi. 3 artists: LVN, SALLY KIPA and VFY. See the line-up on soundcheck.
+DaDa • VFY • SALLY KIPA • Hutzzy • LVN at Mtkvarze on Sat 17 Oct, Tbilisi. 3 artists: LVN., SALLY KIPA and VFY. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ DaDa • VFY • SALLY KIPA • Hutzzy • LVN at Mtkvarze on Sat 17 Oct, Tbilis
 
 ## Line-up
 
-- LVN
+- LVN.
 - SALLY KIPA
 - VFY (1)
 

@@ -1,6 +1,6 @@
 # Sage (CA)
 
-Sage (CA) is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Triangle, Osaka on Fri, 30 Oct 2026.
+Sage (CA) is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Triangle, Osaka on Fri, 30 Oct 2026.
 
 Sage (CA) is an industrial and techno artist based in Canada, with 19 gigs on soundcheck across London, Osaka, Oslo and Philadelphia and 2 more. Often billed alongside Baikamo, Davis (BR) and P.O.U. Next up: Triangle, Osaka on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sage (CA) is an industrial and techno artist based in Canada, with 19 gigs on so
 
 Baikamo, Davis (BR), P.O.U
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sage-ca/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sage-ca/)*

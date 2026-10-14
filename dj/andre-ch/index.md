@@ -1,6 +1,6 @@
 # And.re
 
-And.re is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Arlington 5, Ottawa on Sat, 17 Oct 2026.
+And.re is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Arlington 5, Ottawa on Sat, 17 Oct 2026.
 
 And.re is a house and minimal artist based in Switzerland, with 18 gigs on soundcheck across Berlin, Frankfurt, Ibiza and Ottawa and 3 more. Often billed alongside Per Hammar, tobe and Kevin Cook. Next up: Arlington 5, Ottawa on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ And.re is a house and minimal artist based in Switzerland, with 18 gigs on sound
 
 Per Hammar, tobe, Kevin Cook
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andre-ch/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andre-ch/)*

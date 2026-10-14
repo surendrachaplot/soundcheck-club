@@ -1,13 +1,14 @@
 # ASMOT
 
-ASMOT is a Afro House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Unveiled, New York City on Sat, 12 Dec 2026.
+ASMOT is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Bulldog Hotel, Amsterdam on Fri, 23 Oct 2026.
 
-ASMOT is an afro house and tech house artist based in United States of America, with 12 gigs on soundcheck across Miami and New York City. Often billed alongside Tiffy Vera, ARYMÉ and AWEN. Next up: Unveiled, New York City on Sat 12 Dec.
+ASMOT is an afro house and afro tech artist based in United States of America, with 13 gigs on soundcheck across Amsterdam, Miami and New York City. Often billed alongside Tiffy Vera, ARYMÉ and AWEN. Next up: The Bulldog Hotel, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | The Bulldog Hotel | Amsterdam |
 | Sat, 12 Dec 2026 | Unveiled | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ ASMOT is an afro house and tech house artist based in United States of America, 
 
 Tiffy Vera, ARYMÉ, AWEN
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asmot/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asmot/)*

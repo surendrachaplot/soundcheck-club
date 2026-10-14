@@ -1,6 +1,6 @@
 # SIETE
 
-SIETE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Club Rawhide, New York City on Sat, 17 Oct 2026.
+SIETE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Club Rawhide, New York City on Sat, 17 Oct 2026.
 
 SIETE is a techno and house artist based in United States of America, with 24 gigs on soundcheck across Barcelona, Los Angeles, Mexico City and Milan and 4 more. Often billed alongside Siete Catorce, CUERPOS and Coyado. Next up: Club Rawhide, New York City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ SIETE is a techno and house artist based in United States of America, with 24 gi
 
 Siete Catorce, CUERPOS, Coyado
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siete/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siete/)*

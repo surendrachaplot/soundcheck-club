@@ -1,6 +1,6 @@
 # Goosey
 
-Goosey is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Mama Roux, Birmingham on Fri, 16 Oct 2026.
+Goosey is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Mama Roux, Birmingham on Fri, 16 Oct 2026.
 
 Goosey is a house and tech house artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Austin, Barcelona and Birmingham and 12 more. Often billed alongside Enzo is Burning, Gaskin and Manda Moor. Next up: Mama Roux, Birmingham on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Goosey is a house and tech house artist based in United Kingdom, with 75 gigs on
 
 Enzo is Burning, Gaskin, Manda Moor
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goosey/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goosey/)*

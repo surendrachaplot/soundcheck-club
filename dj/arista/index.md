@@ -1,14 +1,15 @@
 # Arista
 
-Arista is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Het Dorp, Amsterdam on Thu, 22 Oct 2026.
+Arista is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Het Dorp, Amsterdam on Thu, 22 Oct 2026.
 
-Arista is a house and techno artist based in El Salvador, with 36 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Lyon and 5 more. Often billed alongside Sampol, tINI and EMIR-B. Next up: Het Dorp, Amsterdam on Thu 22 Oct.
+Arista is a house and techno artist based in El Salvador, with 37 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Lyon and 5 more. Often billed alongside Sampol, tINI and EMIR-B. Next up: Het Dorp, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Het Dorp | Amsterdam |
+| Sat, 31 Oct 2026 | Club Malasaña | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Arista is a house and techno artist based in El Salvador, with 36 gigs on soundc
 
 Sampol, tINI, EMIR-B
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arista/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arista/)*

@@ -1,6 +1,6 @@
 # Jerzyk
 
-Jerzyk is a electronic artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Transformator, Wroclaw on Sat, 24 Oct 2026.
+Jerzyk is a electronic artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Transformator, Wroclaw on Sat, 24 Oct 2026.
 
 Jerzyk is an electronic artist based in Poland, with 2 gigs on soundcheck across Wroclaw. Often billed alongside GEST (UK), Kaj.O and London Elektricity. Next up: Transformator, Wroclaw on Sat 24 Oct.
 
@@ -15,4 +15,4 @@ Jerzyk is an electronic artist based in Poland, with 2 gigs on soundcheck across
 
 GEST (UK), Kaj.O, London Elektricity
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jerzyk/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jerzyk/)*

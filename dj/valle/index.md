@@ -1,13 +1,14 @@
 # Valle
 
-Valle is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Cadavra, Madrid on Sat, 28 Nov 2026.
+Valle is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Subcero Club, Madrid on Fri, 16 Oct 2026.
 
-Valle is an electronica and techno artist based in Spain, with 7 gigs on soundcheck across Madrid. Often billed alongside Mamba Nera, Mica Wagner and 2garlics. Next up: Cadavra, Madrid on Sat 28 Nov.
+Valle is an electronica and techno artist based in Spain, with 8 gigs on soundcheck across Madrid. Often billed alongside Mamba Nera, Mica Wagner and BELLA (NL). Next up: Subcero Club, Madrid on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Subcero Club | Madrid |
 | Sat, 28 Nov 2026 | Cadavra | Madrid |
 
 ## Recently played
@@ -21,6 +22,6 @@ Valle is an electronica and techno artist based in Spain, with 7 gigs on soundch
 
 ## Shares bills with
 
-Mamba Nera, Mica Wagner, 2garlics
+Mamba Nera, Mica Wagner, BELLA (NL)
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valle/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valle/)*

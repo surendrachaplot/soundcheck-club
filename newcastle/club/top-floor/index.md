@@ -1,6 +1,6 @@
 # Top Floor
 
-Top Floor is a music venue in Newcastle with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "Balance" on Fri, 4 Dec 2026.
+Top Floor is a music venue in Newcastle with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "Balance" on Fri, 4 Dec 2026.
 
 Top Floor is a music venue in Newcastle listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 13 Bigg Market NE1 1SU.
 
@@ -14,4 +14,4 @@ Top Floor is a music venue in Newcastle listed on soundcheck. 1 upcoming gig. Se
 
 13 Bigg Market NE1 1SU, Newcastle
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/top-floor/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/top-floor/)*

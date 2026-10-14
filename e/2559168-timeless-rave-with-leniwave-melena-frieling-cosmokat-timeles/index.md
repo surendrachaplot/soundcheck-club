@@ -1,10 +1,10 @@
 # TIMELESS RAVE with LENIWAVE, MELENA, FRIELING, COSMOKAT, TIMELESS MOMENTS at Club Frau Holle
 
-TIMELESS RAVE with LENIWAVE, MELENA, FRIELING, COSMOKAT, TIMELESS MOMENTS at Club Frau Holle on Sat 17 Oct, Hamburg. Techno and House. See the line-up on soundcheck.
+TIMELESS RAVE with LENIWAVE, MELENA, FRIELING, COSMOKAT, TIMELESS MOMENTS at Club Frau Holle on Fri 16 Oct, Hamburg. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 17 Oct 2026 |
+| Date | Fri, 16 Oct 2026 |
 | Venue | Club Frau Holle |
 | City | Hamburg |
 

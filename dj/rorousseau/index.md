@@ -1,6 +1,6 @@
 # Ro Rousseau
 
-Ro Rousseau is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Lion's Den, Miami on Sun, 25 Oct 2026.
+Ro Rousseau is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Lion's Den, Miami on Sun, 25 Oct 2026.
 
 Ro Rousseau is a house and deep house artist based in Ukraine, with 37 gigs on soundcheck across London, Los Angeles, Miami and New York City. Often billed alongside Magician On Duty, Caleesi and GALI. Next up: Lion's Den, Miami on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Ro Rousseau is a house and deep house artist based in Ukraine, with 37 gigs on s
 
 Magician On Duty, Caleesi, GALI
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rorousseau/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rorousseau/)*

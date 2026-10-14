@@ -1,13 +1,14 @@
 # Meschwitz
 
-Meschwitz is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Lower Level, Boston on Sat, 31 Oct 2026.
+Meschwitz is a Techno and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Boston on Thu, 15 Oct 2026.
 
-Meschwitz is a techno and acid artist based in Bolivia, with 25 gigs on soundcheck across Boston and New York City. Often billed alongside Xoce, Niqi and Ketzaal. Next up: The Lower Level, Boston on Sat 31 Oct.
+Meschwitz is a techno and deep house artist based in Bolivia, with 26 gigs on soundcheck across Boston and New York City. Often billed alongside Xoce, Niqi and Ketzaal. Next up: TBA, Boston on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 15 Oct 2026 | TBA | Boston |
 | Sat, 31 Oct 2026 | The Lower Level | Boston |
 | Thu, 19 Nov 2026 | Descent | Boston |
 
@@ -26,4 +27,4 @@ Meschwitz is a techno and acid artist based in Bolivia, with 25 gigs on soundche
 
 Xoce, Niqi, Ketzaal
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meschwitz/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meschwitz/)*

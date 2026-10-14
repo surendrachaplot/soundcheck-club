@@ -1,6 +1,6 @@
 # Pauli Cakes
 
-Pauli Cakes is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Phantom Bar Berlin, Berlin on Fri, 16 Oct 2026.
+Pauli Cakes is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Phantom Bar Berlin, Berlin on Fri, 16 Oct 2026.
 
 Pauli Cakes is a techno and club artist based in United States of America, with 83 gigs on soundcheck across Berlin, Chicago, Leeds and Lisbon and 8 more. Often billed alongside Total XTC, Mossy Mugler and Princess Peggie. Next up: Phantom Bar Berlin, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Pauli Cakes is a techno and club artist based in United States of America, with 
 
 Total XTC, Mossy Mugler, Princess Peggie
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulicakes/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulicakes/)*

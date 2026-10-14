@@ -1,6 +1,6 @@
 # DJ GayBash!
 
-DJ GayBash! is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Podlasie Club, Chicago on Sat, 24 Oct 2026.
+DJ GayBash! is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Podlasie Club, Chicago on Sat, 24 Oct 2026.
 
 DJ GayBash! is a techno and club artist based in United States of America, with 18 gigs on soundcheck across Chicago and New York City. Often billed alongside Kirk (US), ASL Princess and Doss. Next up: Podlasie Club, Chicago on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ DJ GayBash! is a techno and club artist based in United States of America, with 
 
 Kirk (US), ASL Princess, Doss
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgaybash!/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgaybash!/)*

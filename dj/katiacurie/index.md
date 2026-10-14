@@ -1,6 +1,6 @@
 # Katia Curie
 
-Katia Curie is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 17 Oct 2026.
+Katia Curie is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 17 Oct 2026.
 
 Katia Curie is a house and techno artist based in Ukraine, with 121 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Nizar Sarakbi, KATIA and vince. Next up: Tresor / Globus, Berlin on Sat 17 Oct.
 
@@ -33,4 +33,4 @@ Katia Curie is a house and techno artist based in Ukraine, with 121 gigs on soun
 
 Nizar Sarakbi, KATIA, vince
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katiacurie/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katiacurie/)*

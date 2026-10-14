@@ -1,13 +1,14 @@
 # Kasper Bjorke
 
-Kasper Bjorke is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Jolene, Copenhagen on Fri, 16 Oct 2026.
+Kasper Bjorke is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Jolene, Copenhagen on Fri, 16 Oct 2026.
 
-Kasper Bjorke is a house and electro artist based in Denmark, with 20 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Munich and 1 more. Often billed alongside Prom Night, Hazy Pockets and Ida Daugaard. Next up: Jolene, Copenhagen on Fri 16 Oct.
+Kasper Bjorke is a house and deep house artist based in Denmark, with 21 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Munich and 1 more. Often billed alongside Prom Night, Hazy Pockets and Ida Daugaard. Next up: Jolene, Copenhagen on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Jolene | Copenhagen |
 | Fri, 16 Oct 2026 | Jolene | Copenhagen |
 
 ## Recently played
@@ -25,4 +26,4 @@ Kasper Bjorke is a house and electro artist based in Denmark, with 20 gigs on so
 
 Prom Night, Hazy Pockets, Ida Daugaard
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasperbjorke/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasperbjorke/)*

@@ -1,6 +1,6 @@
 # SAUD
 
-SAUD is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Social Room, Hong Kong on Fri, 16 Oct 2026.
+SAUD is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Social Room, Hong Kong on Fri, 16 Oct 2026.
 
 SAUD is a bass and jungle artist based in Serbia, with 26 gigs on soundcheck across Belgrade, Berlin, Budapest and Hong Kong and 2 more. Often billed alongside Carne, VLAHEK and ABADIR. Next up: Social Room, Hong Kong on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ SAUD is a bass and jungle artist based in Serbia, with 26 gigs on soundcheck acr
 
 Carne, VLAHEK, ABADIR
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saud/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saud/)*

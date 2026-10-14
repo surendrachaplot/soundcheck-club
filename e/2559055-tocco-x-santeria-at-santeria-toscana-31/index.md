@@ -1,6 +1,6 @@
-# Tocco x Santeria at Santeria Toscana 31
+# Tocco X Santeria at Santeria Toscana 31
 
-Tocco x Santeria at Santeria Toscana 31 on Fri 16 Oct, Milan. 2 artists: Nuno (IT) and Salzetto. House and Deep House. See the line-up on soundcheck.
+Tocco X Santeria at Santeria Toscana 31 on Fri 16 Oct, Milan. 2 artists: Nuno (IT) and Salzetto. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

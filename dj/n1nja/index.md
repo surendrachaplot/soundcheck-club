@@ -1,6 +1,6 @@
 # N1NJA
 
-N1NJA is a Deep House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at fabric, London on Thu, 15 Oct 2026.
+N1NJA is a Deep House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at fabric, London on Thu, 15 Oct 2026.
 
 N1NJA is a deep house and afro tech artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Berlin, Ibiza and London. Often billed alongside B.o.T, Kakura and Nhii. Next up: fabric, London on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ N1NJA is a deep house and afro tech artist based in United Kingdom, with 18 gigs
 
 B.o.T, Kakura, Nhii
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n1nja/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n1nja/)*

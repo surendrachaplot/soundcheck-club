@@ -1,6 +1,6 @@
 # KOKO Electronic: THEMBA at KOKO
 
-KOKO Electronic: THEMBA on Fri 23 Oct, London. 1 artist: THEMBA. Afro House. See the line-up on soundcheck.
+KOKO Electronic: THEMBA on Fri 23 Oct, London. 3 artists: Da Mike, THEMBA and TIMANTI. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ KOKO Electronic: THEMBA on Fri 23 Oct, London. 1 artist: THEMBA. Afro House. See
 
 ## Line-up
 
+- Da Mike
 - THEMBA
+- TIMANTI
 
 *Source: [soundcheck](https://soundcheck.club/e/2533036-koko-electronic-themba-at-koko/)*

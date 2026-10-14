@@ -1,6 +1,6 @@
 # Danya (DE)
 
-Danya (DE) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Loft, Vienna on Fri, 16 Oct 2026.
+Danya (DE) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Loft, Vienna on Fri, 16 Oct 2026.
 
 Danya (DE) is a techno and house artist based in Greece, with 51 gigs on soundcheck across Athens, Berlin, Hamburg and Leipzig and 3 more. Often billed alongside SIX DIMENSIONS, GRØMM and ATAVEM. Next up: The Loft, Vienna on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Danya (DE) is a techno and house artist based in Greece, with 51 gigs on soundch
 
 SIX DIMENSIONS, GRØMM, ATAVEM
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danyade/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danyade/)*

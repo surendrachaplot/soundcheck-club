@@ -1,6 +1,6 @@
 # JADALAREIGN
 
-JADALAREIGN is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 16 Oct 2026.
+JADALAREIGN is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 16 Oct 2026.
 
 JADALAREIGN is a house and techno artist based in United States of America, with 187 gigs on soundcheck across Amsterdam, Austin, Berlin and Boston and 19 more. Often billed alongside Mike Servito, Ash Lauryn and Carlos Souffront. Next up: Circus Tokyo, Tokyo on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ JADALAREIGN is a house and techno artist based in United States of America, with
 
 Mike Servito, Ash Lauryn, Carlos Souffront
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jadalareign/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jadalareign/)*

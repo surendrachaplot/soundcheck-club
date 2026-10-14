@@ -1,6 +1,6 @@
 # angela baskets
 
-angela baskets is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The High Dive, Detroit on Fri, 16 Oct 2026.
+angela baskets is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The High Dive, Detroit on Fri, 16 Oct 2026.
 
 angela baskets is a house and techno artist based in United States of America, with 7 gigs on soundcheck across Detroit. Often billed alongside Zoe Talley, DJ Skeez and Eddie Logix. Next up: The High Dive, Detroit on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ angela baskets is a house and techno artist based in United States of America, w
 
 Zoe Talley, DJ Skeez, Eddie Logix
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angelabaskets/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angelabaskets/)*

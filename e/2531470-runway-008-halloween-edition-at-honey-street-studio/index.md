@@ -1,6 +1,6 @@
 # RUNWAY 008 - Halloween Edition at Honey Street Studio
 
-RUNWAY 008 - Halloween Edition at Honey Street Studio on Sat 31 Oct, Manchester. 4 artists: caonix, Girlfriend, Jase Jeffery and RayRay. Techno and House. See the line-up on soundcheck.
+RUNWAY 008 - Halloween Edition at Honey Street Studio on Sat 31 Oct, Manchester. 4 artists: caonix, Girlfriend, Jase Jeffery and Rachel de Moncuit. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,6 @@ RUNWAY 008 - Halloween Edition at Honey Street Studio on Sat 31 Oct, Manchester.
 - caonix
 - Girlfriend
 - Jase Jeffery
-- RayRay
+- Rachel de Moncuit
 
 *Source: [soundcheck](https://soundcheck.club/e/2531470-runway-008-halloween-edition-at-honey-street-studio/)*

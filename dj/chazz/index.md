@@ -1,6 +1,6 @@
 # Chazz
 
-Chazz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Sigma, Ibiza on Fri, 23 Oct 2026.
+Chazz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Sigma, Ibiza on Fri, 23 Oct 2026.
 
 Chazz is a techno and house artist, with 9 gigs on soundcheck across Auckland, Buenos Aires, Hamburg and Ibiza and 1 more. Often billed alongside AGY3NA, AndShe and Anja Schneider. Next up: Sigma, Ibiza on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Chazz is a techno and house artist, with 9 gigs on soundcheck across Auckland, B
 
 AGY3NA, AndShe, Anja Schneider
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chazz/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chazz/)*

@@ -1,6 +1,6 @@
 # Placid
 
-Placid is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
+Placid is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
 
 Placid is an acid and house artist based in United Kingdom, with 42 gigs on soundcheck across Bristol, Glasgow, Leeds and London and 1 more. Often billed alongside Owain K, Zobol and Posthuman. Next up: Brithdir Hall, West Wales on Fri 2 Jul.
 
@@ -25,4 +25,4 @@ Placid is an acid and house artist based in United Kingdom, with 42 gigs on soun
 
 Owain K, Zobol, Posthuman
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/placid/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/placid/)*

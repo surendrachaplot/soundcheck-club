@@ -1,6 +1,6 @@
 # Miguel Peres
 
-Miguel Peres is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at John Doe, Amsterdam on Thu, 22 Oct 2026.
+Miguel Peres is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at John Doe, Amsterdam on Thu, 22 Oct 2026.
 
 Miguel Peres is a techno and acid artist based in Portugal, with 15 gigs on soundcheck across Amsterdam and Lisbon. Often billed alongside DJ Dextro, HUMA-NOYD and Myne. Next up: John Doe, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Miguel Peres is a techno and acid artist based in Portugal, with 15 gigs on soun
 
 DJ Dextro, HUMA-NOYD, Myne
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelperes/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelperes/)*

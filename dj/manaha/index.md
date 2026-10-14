@@ -1,6 +1,6 @@
 # Manaha
 
-Manaha is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at DJ Bar Bridge, Tokyo on Sat, 24 Oct 2026.
+Manaha is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at DJ Bar Bridge, Tokyo on Sat, 24 Oct 2026.
 
 Manaha is a house and electronica artist based in Japan, with 7 gigs on soundcheck across Tokyo. Often billed alongside An toi, Curses and DNG. Next up: DJ Bar Bridge, Tokyo on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Manaha is a house and electronica artist based in Japan, with 7 gigs on soundche
 
 An toi, Curses, DNG (1)
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manaha/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manaha/)*

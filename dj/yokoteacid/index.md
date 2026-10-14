@@ -1,6 +1,6 @@
 # Yokote Acid
 
-Yokote Acid is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Thu, 15 Oct 2026.
+Yokote Acid is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Thu, 15 Oct 2026.
 
 Yokote Acid is a techno and acid artist, with 14 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Shoko-Bons, K.N. and Noritachibana. Next up: UTOPIA / DYSTOPIA, Tokyo on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Yokote Acid is a techno and acid artist, with 14 gigs on soundcheck across Osaka
 
 Shoko-Bons, K.N., Noritachibana
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yokoteacid/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yokoteacid/)*

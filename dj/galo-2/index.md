@@ -1,6 +1,6 @@
 # Galo (2)
 
-Galo (2) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Low Profile Studios, London on Fri, 20 Nov 2026.
+Galo (2) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Low Profile Studios, London on Fri, 20 Nov 2026.
 
 Galo is a trance and techno artist based in Germany, with 19 gigs on soundcheck across Amsterdam, Berlin, London and Tbilisi. Often billed alongside DRAMA SOURCE ARTIFACTS, Caim and Carl H. Next up: Low Profile Studios, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Galo is a trance and techno artist based in Germany, with 19 gigs on soundcheck 
 
 DRAMA SOURCE ARTIFACTS, Caim, Carl H
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/galo-2/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/galo-2/)*

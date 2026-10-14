@@ -1,6 +1,6 @@
 # AB Club (Ancienne Belgique)
 
-AB Club (Ancienne Belgique) is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "CREVETTE RECORDS - 10 YEAR ANNIVERSARY - CONCERT NIGHT" on Thu, 15 Oct 2026.
+AB Club (Ancienne Belgique) is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "CREVETTE RECORDS - 10 YEAR ANNIVERSARY - CONCERT NIGHT" on Thu, 15 Oct 2026.
 
 AB Club (Ancienne Belgique) is a music venue in Brussels listed on soundcheck. 3 upcoming gigs, with line-ups including Das Firmament and Mogwai. See dates, start times and who's playing. Anspachlaan 110, 1000 Brussel.
 
@@ -16,4 +16,4 @@ AB Club (Ancienne Belgique) is a music venue in Brussels listed on soundcheck. 3
 
 Anspachlaan 110, 1000 Brussel, Brussels
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/ab-club-ancienne-belgique/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/ab-club-ancienne-belgique/)*

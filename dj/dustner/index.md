@@ -1,14 +1,15 @@
 # DUSTNER
 
-DUSTNER is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Sektor Evolution, Dresden on Sat, 17 Oct 2026.
+DUSTNER is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Sektor Evolution, Dresden on Sat, 17 Oct 2026.
 
-DUSTNER is a techno and trance artist based in Germany, with 8 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside Skurrben, Mascha Roth and Aset. Next up: Sektor Evolution, Dresden on Sat 17 Oct.
+DUSTNER is a techno and trance artist based in Germany, with 9 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside Skurrben, Mascha Roth and Aset. Next up: Sektor Evolution, Dresden on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Sektor Evolution | Dresden |
+| Sat, 31 Oct 2026 | Westhafen | Leipzig |
 
 ## Recently played
 
@@ -24,4 +25,4 @@ DUSTNER is a techno and trance artist based in Germany, with 8 gigs on soundchec
 
 Skurrben, Mascha Roth, Aset
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dustner/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dustner/)*

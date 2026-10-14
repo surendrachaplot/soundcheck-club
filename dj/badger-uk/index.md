@@ -1,6 +1,6 @@
 # Badger (UK)
 
-Badger (UK) is a Garage and Bass artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Joshua Brooks, Manchester on Fri, 16 Oct 2026.
+Badger (UK) is a Garage and Bass artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Joshua Brooks, Manchester on Fri, 16 Oct 2026.
 
 Badger (UK) is a garage and bass artist based in United Kingdom, with 68 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 29 more. Often billed alongside Arthi, Main Phase and Mandidextrous. Next up: Joshua Brooks, Manchester on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Badger (UK) is a garage and bass artist based in United Kingdom, with 68 gigs on
 
 Arthi, Main Phase, Mandidextrous
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badger-uk/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badger-uk/)*

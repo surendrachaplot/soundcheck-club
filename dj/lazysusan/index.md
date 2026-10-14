@@ -1,6 +1,6 @@
 # Lazy Susan
 
-Lazy Susan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Brown Alley, Melbourne on Sun, 1 Nov 2026.
+Lazy Susan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Brown Alley, Melbourne on Sun, 1 Nov 2026.
 
 Lazy Susan is a techno and house artist based in Australia, with 8 gigs on soundcheck across Melbourne, Mexico City and Sydney. Often billed alongside Kato, AAK (MX) and Alina. Next up: Brown Alley, Melbourne on Sun 1 Nov.
 
@@ -24,4 +24,4 @@ Lazy Susan is a techno and house artist based in Australia, with 8 gigs on sound
 
 Kato, AAK (MX), Alina (1)
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lazysusan/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lazysusan/)*

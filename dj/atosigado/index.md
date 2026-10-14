@@ -1,6 +1,6 @@
 # Atosigado
 
-Atosigado is a Club and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Barba Azul, Mexico City on Fri, 30 Oct 2026.
+Atosigado is a Club and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Barba Azul, Mexico City on Fri, 30 Oct 2026.
 
 Atosigado is a club and pop artist based in Mexico, with 8 gigs on soundcheck across Berlin and Mexico City. Often billed alongside ADAKEO, dj mico and ALDOX. Next up: Barba Azul, Mexico City on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Atosigado is a club and pop artist based in Mexico, with 8 gigs on soundcheck ac
 
 ADAKEO, dj mico, ALDOX
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atosigado/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atosigado/)*

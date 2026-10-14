@@ -1,6 +1,6 @@
 # Tretriix
 
-Tretriix is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Korpuss, Riga on Fri, 16 Oct 2026.
+Tretriix is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Korpuss, Riga on Fri, 16 Oct 2026.
 
 Tretriix is a techno and drum & bass artist based in Latvia, with 10 gigs on soundcheck across Riga. Often billed alongside Slepe, privatazona and zaptsmaize. Next up: Korpuss, Riga on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Tretriix is a techno and drum & bass artist based in Latvia, with 10 gigs on sou
 
 Slepe, privatazona, zaptsmaize
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tretriix/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tretriix/)*

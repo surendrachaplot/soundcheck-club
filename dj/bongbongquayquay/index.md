@@ -1,6 +1,6 @@
 # BongBongQuayQuay
 
-BongBongQuayQuay is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
+BongBongQuayQuay is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
 
 BongBongQuayQuay is a techno and house artist, with 6 gigs on soundcheck across Bangkok, Ho Chi Minh City, Seoul and Singapore. Often billed alongside YOKOSUN, Alex From Tokyo and Anh Vy. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
 
@@ -22,4 +22,4 @@ BongBongQuayQuay is a techno and house artist, with 6 gigs on soundcheck across 
 
 YOKOSUN, Alex From Tokyo, Anh Vy
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bongbongquayquay/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bongbongquayquay/)*

@@ -1,6 +1,6 @@
 # Reka Zalan
 
-Reka Zalan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The White Hotel, Manchester on Fri, 13 Nov 2026.
+Reka Zalan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The White Hotel, Manchester on Fri, 13 Nov 2026.
 
 Reka Zalan is a techno and house artist based in Germany, with 109 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 18 more. Often billed alongside THNTS, Rill and Rodmin. Next up: The White Hotel, Manchester on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Reka Zalan is a techno and house artist based in Germany, with 109 gigs on sound
 
 THNTS, Rill, Rodmin
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rekazalan-de/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rekazalan-de/)*

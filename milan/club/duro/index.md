@@ -1,6 +1,6 @@
 # DURO
 
-DURO is a music venue in Milan with 19 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "SOS - Gene On Earth" on Fri, 16 Oct 2026.
+DURO is a music venue in Milan with 19 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "SOS - Gene On Earth" on Fri, 16 Oct 2026.
 
 DURO is a music venue in Milan listed on soundcheck. 19 upcoming gigs, with line-ups including Biocym, Caim, Chloé and Dante (H501) and 2 more. See dates, start times and who's playing. Via Perin del Vaga, 8.
 
@@ -23,4 +23,4 @@ DURO is a music venue in Milan listed on soundcheck. 19 upcoming gigs, with line
 
 Via Perin del Vaga, 8, Milan
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/duro/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/duro/)*

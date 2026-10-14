@@ -1,6 +1,6 @@
 # Schmeltzer
 
-Schmeltzer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at MONKEY LOVE, Warsaw on Fri, 16 Oct 2026.
+Schmeltzer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at MONKEY LOVE, Warsaw on Fri, 16 Oct 2026.
 
 Schmeltzer is a house and techno artist based in Poland, with 55 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Taan, bart ender and bielak. Next up: MONKEY LOVE, Warsaw on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Schmeltzer is a house and techno artist based in Poland, with 55 gigs on soundch
 
 Taan, bart ender, bielak
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schmeltzer/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schmeltzer/)*

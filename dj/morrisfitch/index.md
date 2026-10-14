@@ -1,6 +1,6 @@
 # Morris Fitch
 
-Morris Fitch is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 28 Nov 2026.
+Morris Fitch is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 28 Nov 2026.
 
 Morris Fitch is a techno and tech house artist, with 45 gigs on soundcheck across Berlin. Often billed alongside Bisk, Maschine and DAV3. Next up: Der Weiße Hase, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Morris Fitch is a techno and tech house artist, with 45 gigs on soundcheck acros
 
 Bisk, Maschine, DAV3
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morrisfitch/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morrisfitch/)*

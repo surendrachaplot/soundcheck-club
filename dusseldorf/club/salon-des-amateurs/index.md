@@ -1,6 +1,6 @@
 # Salon des Amateurs
 
-Salon des Amateurs is a music venue in Düsseldorf with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "The Burrell Connection (live) Dream_E Lucas Croon" on Fri, 16 Oct 2026.
+Salon des Amateurs is a music venue in Düsseldorf with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "The Burrell Connection (live) Dream_E Lucas Croon" on Fri, 16 Oct 2026.
 
 Salon des Amateurs is a music venue in Düsseldorf listed on soundcheck. 2 upcoming gigs, with line-ups including Die Wilde Jagd, Dream_E, Jimu Kobayashi and Lucas Croon and 2 more. See dates, start times and who's playing. Grabbeplatz 4; 40213 Düsseldorf; Germany.
 
@@ -15,4 +15,4 @@ Salon des Amateurs is a music venue in Düsseldorf listed on soundcheck. 2 upcom
 
 Grabbeplatz 4; 40213 Düsseldorf; Germany, Düsseldorf
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/salon-des-amateurs/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/salon-des-amateurs/)*

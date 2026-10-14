@@ -1,6 +1,6 @@
 # multivitaminmarie
 
-multivitaminmarie is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Marmorbar, Berlin on Fri, 23 Oct 2026.
+multivitaminmarie is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Marmorbar, Berlin on Fri, 23 Oct 2026.
 
 multivitaminmarie is a trance and techno artist based in Germany, with 26 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside MIMI404, CARGO (DE) and A.N.I.. Next up: Marmorbar, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ multivitaminmarie is a trance and techno artist based in Germany, with 26 gigs o
 
 MIMI404, CARGO (DE), A.N.I.
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/multivitaminmarie/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/multivitaminmarie/)*

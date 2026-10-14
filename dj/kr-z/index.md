@@ -1,6 +1,6 @@
 # Kr!z
 
-Kr!z is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Ministerium Club, Lisbon on Sat, 31 Oct 2026.
+Kr!z is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Ministerium Club, Lisbon on Sat, 31 Oct 2026.
 
 Kr!z is a techno and acid artist based in Belgium, with 107 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 30 more. Often billed alongside Phara, Border One and Marie-Julie. Next up: Ministerium Club, Lisbon on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Kr!z is a techno and acid artist based in Belgium, with 107 gigs on soundcheck a
 
 Phara, Border One, Marie-Julie
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kr-z/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kr-z/)*

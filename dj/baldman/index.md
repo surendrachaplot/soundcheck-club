@@ -1,6 +1,6 @@
 # Baldman
 
-Baldman is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Cadavra, Madrid on Fri, 16 Oct 2026.
+Baldman is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Cadavra, Madrid on Fri, 16 Oct 2026.
 
 Baldman is a techno and house artist based in Spain, with 59 gigs on soundcheck across Barcelona, Berlin, Madrid and Osaka and 3 more. Often billed alongside Lucient, Axis Mundi and Gala (ES). Next up: Cadavra, Madrid on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Baldman is a techno and house artist based in Spain, with 59 gigs on soundcheck 
 
 Lucient, Axis Mundi, Gala (ES)
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baldman/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baldman/)*

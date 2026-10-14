@@ -1,6 +1,6 @@
 # KREUZWERK
 
-KREUZWERK is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "LECKEN X SLIC Unit" on Fri, 16 Oct 2026.
+KREUZWERK is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "LECKEN X SLIC Unit" on Fri, 16 Oct 2026.
 
 KREUZWERK is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Amowia, Amphia, Ana Rs and ARMANA KHAN and 2 more. See dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
 
@@ -23,4 +23,4 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, wit
 
 Lobeckstraße 30-35, 10969 Berlin, Deutschland, Berlin
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*

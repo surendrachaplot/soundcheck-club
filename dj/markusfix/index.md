@@ -1,6 +1,6 @@
 # Markus Fix
 
-Markus Fix is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 17 Oct 2026.
+Markus Fix is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 17 Oct 2026.
 
 Markus Fix is a house and techno artist, with 7 gigs on soundcheck across Frankfurt and Milan. Often billed alongside Chris Tietjen, Adryan and Doublewave. Next up: Tokonoma Club, Frankfurt on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Markus Fix is a house and techno artist, with 7 gigs on soundcheck across Frankf
 
 Chris Tietjen, Adryan, Doublewave
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markusfix/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markusfix/)*

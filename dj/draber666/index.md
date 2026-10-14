@@ -1,14 +1,15 @@
 # DRABER666
 
-DRABER666 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at KB3, Copenhagen on Fri, 16 Oct 2026.
+DRABER666 is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at KB3, Copenhagen on Fri, 16 Oct 2026.
 
-DRABER666 is a house and techno artist based in Denmark, with 19 gigs on soundcheck across Copenhagen and Oslo. Often billed alongside DJ Spice, Halfdan Sandquist and Ryan Dank. Next up: KB3, Copenhagen on Fri 16 Oct.
+DRABER666 is a house and techno artist based in Denmark, with 20 gigs on soundcheck across Copenhagen and Oslo. Often billed alongside DJ Spice, Halfdan Sandquist and Ryan Dank. Next up: KB3, Copenhagen on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | KB3 | Copenhagen |
+| Sat, 24 Oct 2026 | MODULE | Copenhagen |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DRABER666 is a house and techno artist based in Denmark, with 19 gigs on soundch
 
 DJ Spice, Halfdan Sandquist, Ryan Dank (2)
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/draber666/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/draber666/)*

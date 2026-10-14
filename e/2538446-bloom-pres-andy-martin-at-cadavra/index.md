@@ -14,6 +14,6 @@ bloom pres. Andy Martin at Cadavra on Fri 16 Oct, Madrid. 5 artists: Andy Martin
 - Baldman
 - berta (ES)
 - Gala (ES)
-- KATIA
+- Luisma C
 
 *Source: [soundcheck](https://soundcheck.club/e/2538446-bloom-pres-andy-martin-at-cadavra/)*

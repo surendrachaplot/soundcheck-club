@@ -1,6 +1,6 @@
 # Beach Neukölln
 
-Beach Neukölln is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "BRASIL CORE - BAILECRIA - GLOBAL RAVE" on Thu, 19 Aug 2027.
+Beach Neukölln is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "BRASIL CORE - BAILECRIA - GLOBAL RAVE" on Thu, 19 Aug 2027.
 
 Beach Neukölln is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including BERLIN, DJ S (UK) and Prints. See dates, start times and who's playing. Treptower Str. 39, 12059 Berlin.
 
@@ -14,4 +14,4 @@ Beach Neukölln is a music venue in Berlin listed on soundcheck. 1 upcoming gig,
 
 Treptower Str. 39, 12059 Berlin, Berlin
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beach-neuk-lln/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beach-neuk-lln/)*

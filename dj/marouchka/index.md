@@ -1,6 +1,6 @@
 # Marouchka
 
-Marouchka is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 31 Oct 2026.
+Marouchka is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 31 Oct 2026.
 
 Marouchka is a techno artist based in Belgium, with 16 gigs on soundcheck across Brussels and Paris. Often billed alongside DJ Bisou, Jessen and Keyser. Next up: La Station - Gare des Mines, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Marouchka is a techno artist based in Belgium, with 16 gigs on soundcheck across
 
 DJ Bisou, Jessen, Keyser
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marouchka/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marouchka/)*

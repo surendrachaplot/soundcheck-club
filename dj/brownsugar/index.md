@@ -1,6 +1,6 @@
 # Brown Sugar
 
-Brown Sugar is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Casa Luma, Mexico City on Sat, 17 Oct 2026.
+Brown Sugar is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Casa Luma, Mexico City on Sat, 17 Oct 2026.
 
 Brown Sugar is a tech house and house artist based in Mexico, with 11 gigs on soundcheck across Athens, Auckland and Mexico City. Often billed alongside Toriz, D.N.A. and Law is she. Next up: Casa Luma, Mexico City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Brown Sugar is a tech house and house artist based in Mexico, with 11 gigs on so
 
 Toriz, D.N.A., Law is she
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brownsugar/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brownsugar/)*

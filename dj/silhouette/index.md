@@ -1,14 +1,15 @@
 # Silhouette
 
-Silhouette is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Twist Bar, Prague on Fri, 23 Oct 2026.
+Silhouette is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Twist Bar, Prague on Fri, 23 Oct 2026.
 
-Silhouette is a techno and house artist based in Czech Republic, with 44 gigs on soundcheck across Prague. Often billed alongside Yan (CZ), NCOL and Nina Farrina. Next up: Twist Bar, Prague on Fri 23 Oct.
+Silhouette is a techno and club artist based in Czech Republic, with 45 gigs on soundcheck across Prague. Often billed alongside Yan (CZ), Nina Farrina and NCOL. Next up: Twist Bar, Prague on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Twist Bar | Prague |
+| Fri, 13 Nov 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Silhouette is a techno and house artist based in Czech Republic, with 44 gigs on
 
 ## Shares bills with
 
-Yan (CZ), NCOL, Nina Farrina
+Yan (CZ), Nina Farrina, NCOL
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silhouette/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silhouette/)*

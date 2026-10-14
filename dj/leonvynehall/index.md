@@ -1,8 +1,8 @@
 # Leon Vynehall
 
-Leon Vynehall is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Fidelity Studio, Dublin on Sat, 17 Oct 2026.
+Leon Vynehall is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Fidelity Studio, Dublin on Sat, 17 Oct 2026.
 
-Leon Vynehall is a house and techno artist based in United Kingdom, with 141 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 38 more. Often billed alongside Moxie, Young Marco and Yu Su. Next up: Fidelity Studio, Dublin on Sat 17 Oct.
+Leon Vynehall is a house and techno artist based in United Kingdom, with 142 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 38 more. Often billed alongside Moxie, Young Marco and Yu Su. Next up: Fidelity Studio, Dublin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Leon Vynehall is a house and techno artist based in United Kingdom, with 141 gig
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Fidelity Studio | Dublin |
 | Sat, 24 Oct 2026 | KOKO | London |
+| Sat, 31 Oct 2026 | 528 Ibiza | Ibiza |
 | Fri, 4 Dec 2026 | Jaeger | Oslo |
 | Fri, 11 Dec 2026 | Fidelity Studio | Dublin |
 
@@ -28,4 +29,4 @@ Leon Vynehall is a house and techno artist based in United Kingdom, with 141 gig
 
 Moxie, Young Marco, Yu Su
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonvynehall/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonvynehall/)*

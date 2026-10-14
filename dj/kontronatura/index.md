@@ -1,14 +1,15 @@
 # Kontronatura
 
-Kontronatura is a Baile Funk and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Hackney Bridge, London on Fri, 16 Oct 2026.
+Kontronatura is a Baile Funk and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Hackney Bridge, London on Fri, 16 Oct 2026.
 
-Kontronatura is a baile funk and techno artist based in Brazil, with 102 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside Cashu, Alírio and EVEHIVE. Next up: Hackney Bridge, London on Fri 16 Oct.
+Kontronatura is a baile funk and techno artist based in Brazil, with 103 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside Cashu, Alírio and EVEHIVE. Next up: Hackney Bridge, London on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Hackney Bridge | London |
+| Sat, 17 Oct 2026 | Studio1111 | Berlin |
 | Sun, 18 Oct 2026 | Fitzroy | Berlin |
 | Fri, 23 Oct 2026 | The Island | Bristol |
 | Sat, 24 Oct 2026 | The Cause | London |
@@ -29,4 +30,4 @@ Kontronatura is a baile funk and techno artist based in Brazil, with 102 gigs on
 
 Cashu, Alírio, EVEHIVE
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kontronatura/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kontronatura/)*

@@ -1,6 +1,6 @@
 # All Dave
 
-All Dave is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Thu, 22 Oct 2026.
+All Dave is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Thu, 22 Oct 2026.
 
 All Dave is a house and techno artist, with 6 gigs on soundcheck across Amsterdam. Often billed alongside MelFerdi, Kazerne Records and B-Bop. Next up: Amsterdams Most Wanted, Amsterdam on Thu 22 Oct.
 
@@ -22,4 +22,4 @@ All Dave is a house and techno artist, with 6 gigs on soundcheck across Amsterda
 
 MelFerdi, Kazerne Records, B-Bop
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alldave/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alldave/)*

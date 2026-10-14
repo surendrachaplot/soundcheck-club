@@ -1,8 +1,8 @@
 # Gaffe
 
-Gaffe is a music venue in London with 14 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Stripped Back Sounds with Daniel Bell, Richard Akingbehin & Sansibar" on Fri, 16 Oct 2026.
+Gaffe is a music venue in London with 15 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Stripped Back Sounds with Daniel Bell, Richard Akingbehin & Sansibar" on Fri, 16 Oct 2026.
 
-Gaffe is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including 1BYAKKO, 3 Minds, Andrew James Gustav and Aniaef and 2 more. See dates, start times and who's playing. 1 Anthony Way, N18 3QT.
+Gaffe is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including 1BYAKKO, 3 Minds, Andrew James Gustav and Aniaef and 2 more. See dates, start times and who's playing. 1 Anthony Way, N18 3QT.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Gaffe is a music venue in London listed on soundcheck. 14 upcoming gigs, with li
 
 1 Anthony Way, N18 3QT, London
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*

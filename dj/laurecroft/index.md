@@ -1,8 +1,8 @@
 # Laure Croft
 
-Laure Croft is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Lutfi Kirdar Congress Center, Istanbul on Sat, 17 Oct 2026.
+Laure Croft is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Lutfi Kirdar Congress Center, Istanbul on Sat, 17 Oct 2026.
 
-Laure Croft is a techno and house artist based in Netherlands, with 194 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 50 more. Often billed alongside Lacchesi, Spikey Lee and Carmen Electro. Next up: Lutfi Kirdar Congress Center, Istanbul on Sat 17 Oct.
+Laure Croft is a techno and house artist based in Netherlands, with 195 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 50 more. Often billed alongside Lacchesi, Spikey Lee and Carmen Electro. Next up: Lutfi Kirdar Congress Center, Istanbul on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ Laure Croft is a techno and house artist based in Netherlands, with 194 gigs on 
 | Fri, 23 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 30 Oct 2026 | BASEMENT | New York City |
 | Sat, 31 Oct 2026 | TBA - Los Angeles (Warehouse) | Los Angeles |
+| Fri, 6 Nov 2026 | Domicile | Miami |
 | Sat, 7 Nov 2026 | TBA | Atlanta |
 | Sat, 28 Nov 2026 | Schrotty | Cologne |
 | Sat, 28 Nov 2026 | Thuishaven | Amsterdam |
 | Thu, 31 Dec 2026 | OST | Berlin |
-| Thu, 31 Dec 2026 | Distillery N17 | London |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Laure Croft is a techno and house artist based in Netherlands, with 194 gigs on 
 
 Lacchesi, Spikey Lee, Carmen Electro
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurecroft/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurecroft/)*

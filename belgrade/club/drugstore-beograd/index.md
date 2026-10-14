@@ -1,6 +1,6 @@
 # Drugstore Beograd
 
-Drugstore Beograd is a music venue in Belgrade with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Known Artist X BEZDNA" on Fri, 16 Oct 2026.
+Drugstore Beograd is a music venue in Belgrade with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Known Artist X BEZDNA" on Fri, 16 Oct 2026.
 
 Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 8 upcoming gigs, with line-ups including Alarico, Asarri, BEREZA and Brtinzz and 2 more. See dates, start times and who's playing. Bulevar Despota Stefana 115 - Poenkareova.
 
@@ -21,4 +21,4 @@ Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 8 upcoming 
 
 Bulevar Despota Stefana 115 - Poenkareova, Belgrade
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/drugstore-beograd/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/drugstore-beograd/)*

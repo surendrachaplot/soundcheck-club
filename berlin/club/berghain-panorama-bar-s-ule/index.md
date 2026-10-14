@@ -1,14 +1,13 @@
 # Berghain | Panorama Bar | Säule
 
-Berghain | Panorama Bar | Säule is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Krallice + Rashad Becker" on Tue, 13 Oct 2026.
+Berghain | Panorama Bar | Säule is a music venue in Berlin with 22 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Hunger To Create" on Thu, 15 Oct 2026.
 
-Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line-ups including Justine Perry, Abajour, Aba Shanti-I and Abo Abo and 2 more. See dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
+Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, with line-ups including Justine Perry, Abajour, Aba Shanti-I and Abo Abo and 2 more. See dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 13 Oct 2026 | Krallice + Rashad Becker | Rashad Becker |
 | Thu, 15 Oct 2026 | Hunger To Create | Anthony Linell, Dasha Rush, Megan Leber |
 | Fri, 16 Oct 2026 | Sister | Ben UFO, DJ Senc, Dulce (1), Nathalie Seres, Samuel Deep |
 | Sat, 17 Oct 2026 | Klubnacht | Binh, Blasha & Allatt, Darwin, Fadi Mohem, Justine Perry, Kyle Geiger, Lakuti, Lucas Depta, Mystery Affair, Phara, Phase Fatale, Richard Akingbehin, Rødhåd, Setaoc Mass, Victor (DE), Violetta (DE) |
@@ -18,9 +17,10 @@ Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck
 | Thu, 29 Oct 2026 | SOUND METAPHORS FESTIVAL PART 1 | ASIA (DE), Alessandro Cortini, Grand River, Jonathan Fitoussi |
 | Fri, 30 Oct 2026 | SOUND METAPHORS FESTIVAL PART 2 | Aba Shanti-I, Audrey Danza, Courtney Bailey, Daphni, David Fogarty, HiTOMi, Jane Fitz, John Talabot, Lena Willikens, Mark Ernestus, Mark Fell, Melina Serser, Robert Henke, Robert Leiner, Samara, Sound Metaphors Djs, Sunju Hargun, Surgeon, Temple Rat, Timnah, Z@p |
 | Sat, 31 Oct 2026 | Klubnacht | Alex Kassian, Altinbas, André Galluzzi, Aurora Halal, Gerd Janson, GiGi FM, Jelena, Lea Occhi, MARRØN, Nørbak, Perel, Roman Flügel, Snad, Tobias., Verraco |
+| Thu, 5 Nov 2026 | Mirror Zone | DONIA, Lilian Stark, Sampi, Spekki Webu, V:SONNTAG |
 
 ## Address
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*

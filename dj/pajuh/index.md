@@ -1,13 +1,14 @@
 # Pajüh
 
-Pajüh is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 6 Nov 2026.
+Pajüh is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Feijoa, Amsterdam on Sat, 24 Oct 2026.
 
-Pajüh is a techno artist based in Germany, with 19 gigs on soundcheck across Berlin. Often billed alongside Confred, Marius Holm and Rabauke. Next up: Ritter Butzke, Berlin on Fri 6 Nov.
+Pajüh is a techno and house artist based in Germany, with 20 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Confred, Marius Holm and Rabauke. Next up: Feijoa, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Feijoa | Amsterdam |
 | Fri, 6 Nov 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Pajüh is a techno artist based in Germany, with 19 gigs on soundcheck across Be
 
 Confred, Marius Holm, Rabauke
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pajuh/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pajuh/)*

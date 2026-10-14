@@ -1,14 +1,13 @@
 # Lady Starlight
 
-Lady Starlight is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Zeiss Grossplanetarium, Berlin on Tue, 13 Oct 2026.
+Lady Starlight is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at smartbar, Chicago on Fri, 16 Oct 2026.
 
-Lady Starlight is a techno and house artist based in United States of America, with 91 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Basel and 35 more. Often billed alongside STERAC, Rødhåd and David Castellani. Next up: Zeiss Grossplanetarium, Berlin on Tue 13 Oct.
+Lady Starlight is a techno and house artist based in United States of America, with 91 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Basel and 35 more. Often billed alongside STERAC, Rødhåd and David Castellani. Next up: smartbar, Chicago on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 13 Oct 2026 | Zeiss Grossplanetarium | Berlin |
 | Fri, 16 Oct 2026 | smartbar | Chicago |
 | Sat, 17 Oct 2026 | TBA - 16915 Darnestown Road, Boyds, Maryland 20841 | Washington DC |
 | Sat, 17 Oct 2026 | The Lower Level | Boston |
@@ -21,6 +20,7 @@ Lady Starlight is a techno and house artist based in United States of America, w
 
 ## Recently played
 
+- Zeiss Grossplanetarium, Berlin · Tue, 13 Oct 2026
 - Laboral Ciudad de la Cultura, North · Fri, 25 Sept 2026
 - TBA - Brooklyn, New York City · Fri, 18 Sept 2026
 - Metropol, Berlin · Thu, 10 Sept 2026
@@ -28,10 +28,9 @@ Lady Starlight is a techno and house artist based in United States of America, w
 - Rote Fabrik, Zurich · Fri, 7 Aug 2026
 - Amsterdamse Bos, Amsterdam · Sun, 2 Aug 2026
 - Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
-- TBA - @ Zefīrs by day, @ SPĒLĒT by night, Riga · Fri, 24 Jul 2026
 
 ## Shares bills with
 
 STERAC, Rødhåd, David Castellani
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladystarlight/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladystarlight/)*

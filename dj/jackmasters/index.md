@@ -1,6 +1,6 @@
 # Jack Masters
 
-Jack Masters is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Kemuri Hi-Fi, Auckland on Sat, 24 Oct 2026.
+Jack Masters is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Kemuri Hi-Fi, Auckland on Sat, 24 Oct 2026.
 
 Jack Masters is a house and tech house artist based in New Zealand, with 8 gigs on soundcheck across Auckland. Often billed alongside Isaac Denny, Scarlett (NZ) and Ana Teles. Next up: Kemuri Hi-Fi, Auckland on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Jack Masters is a house and tech house artist based in New Zealand, with 8 gigs 
 
 Isaac Denny, Scarlett (NZ), Ana Teles
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackmasters/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackmasters/)*

@@ -1,6 +1,6 @@
 # SKALA
 
-SKALA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Signal, New York City on Sat, 17 Oct 2026.
+SKALA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Signal, New York City on Sat, 17 Oct 2026.
 
 SKALA is a techno and house artist based in Germany, with 93 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Theologos, ELIF and Mila Stern. Next up: Signal, New York City on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ SKALA is a techno and house artist based in Germany, with 93 gigs on soundcheck 
 
 Theologos, ELIF, Mila Stern
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skala/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skala/)*

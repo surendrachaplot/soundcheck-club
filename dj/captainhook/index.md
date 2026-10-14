@@ -1,6 +1,6 @@
 # Captain Hook
 
-Captain Hook is a Techno and Psytrance artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Sat, 17 Oct 2026.
+Captain Hook is a Techno and Psytrance artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Sat, 17 Oct 2026.
 
 Captain Hook is a techno and psytrance artist based in Israel, with 16 gigs on soundcheck across Berlin, Budapest, Cologne and Ho Chi Minh City and 7 more. Often billed alongside Astrix, Animato and Indira Paganotto. Next up: The Observatory, Ho Chi Minh City on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Captain Hook is a techno and psytrance artist based in Israel, with 16 gigs on s
 
 Astrix, Animato, Indira Paganotto
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/captainhook/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/captainhook/)*

@@ -1,6 +1,6 @@
 # The Ragga Twins
 
-The Ragga Twins is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Fri, 30 Oct 2026.
+The Ragga Twins is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Fri, 30 Oct 2026.
 
 The Ragga Twins is a drum & bass and jungle artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 8 more. Often billed alongside DJ Brockie, Uncle Dugs and Nicky Blackmarket. Next up: TAC (Tottenham Arts Collective), London on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ The Ragga Twins is a drum & bass and jungle artist based in United Kingdom, with
 
 DJ Brockie, Uncle Dugs, Nicky Blackmarket
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theraggatwins/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theraggatwins/)*

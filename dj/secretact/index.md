@@ -1,6 +1,6 @@
 # Secret Act
 
-Secret Act is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Odonien, Cologne on Sat, 14 Nov 2026.
+Secret Act is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Odonien, Cologne on Sat, 14 Nov 2026.
 
 Secret Act is a techno and tech house artist based in Germany, with 17 gigs on soundcheck across Berlin, Cologne and Hamburg. Often billed alongside Aio, Martin Ka and Maurice Mino. Next up: Odonien, Cologne on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Secret Act is a techno and tech house artist based in Germany, with 17 gigs on s
 
 Aio, Martin Ka, Maurice Mino
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secretact/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secretact/)*

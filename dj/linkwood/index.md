@@ -1,6 +1,6 @@
 # Linkwood
 
-Linkwood is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Leith FAB Cricket Club, Edinburgh on Fri, 16 Oct 2026.
+Linkwood is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Leith FAB Cricket Club, Edinburgh on Fri, 16 Oct 2026.
 
 Linkwood is a house and disco artist based in United Kingdom, with 22 gigs on soundcheck across Barcelona, Edinburgh, Glasgow and Helsinki and 2 more. Often billed alongside DJ Dribbler, damside and Athens of the North. Next up: Leith FAB Cricket Club, Edinburgh on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Linkwood is a house and disco artist based in United Kingdom, with 22 gigs on so
 
 DJ Dribbler, damside, Athens of the North
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linkwood/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linkwood/)*

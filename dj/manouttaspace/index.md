@@ -1,6 +1,6 @@
 # Man Outta Space
 
-Man Outta Space is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Decadance, Ghent on Fri, 16 Oct 2026.
+Man Outta Space is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Decadance, Ghent on Fri, 16 Oct 2026.
 
 Man Outta Space is a techno and industrial artist, with 19 gigs on soundcheck across Berlin, Brussels and Ghent. Often billed alongside MANON, Azra Tekuma and Maharti. Next up: Decadance, Ghent on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Man Outta Space is a techno and industrial artist, with 19 gigs on soundcheck ac
 
 MANON (2), Azra Tekuma, Maharti
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manouttaspace/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manouttaspace/)*

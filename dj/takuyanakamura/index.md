@@ -1,14 +1,13 @@
 # Takuya Nakamura
 
-Takuya Nakamura is a Jungle and Jazz artist with 22 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Grove, Newcastle on Tue, 13 Oct 2026.
+Takuya Nakamura is a Jungle and Jazz artist with 21 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at FORGE, Sheffield on Thu, 15 Oct 2026.
 
-Takuya Nakamura is a jungle and jazz artist based in Japan, with 121 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 40 more. Often billed alongside rmzi, Aanandi and Doc Scott. Next up: The Grove, Newcastle on Tue 13 Oct.
+Takuya Nakamura is a jungle and jazz artist based in Japan, with 121 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 40 more. Often billed alongside rmzi, Aanandi and Doc Scott. Next up: FORGE, Sheffield on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 13 Oct 2026 | The Grove | Newcastle |
 | Thu, 15 Oct 2026 | FORGE | Sheffield |
 | Fri, 16 Oct 2026 | New Century Locker | Manchester |
 | Sat, 17 Oct 2026 | EartH | London |
@@ -20,9 +19,11 @@ Takuya Nakamura is a jungle and jazz artist based in Japan, with 121 gigs on sou
 | Fri, 30 Oct 2026 | The Limelight | Belfast |
 | Fri, 6 Nov 2026 | Circolo Magnolia | Milan |
 | Sat, 7 Nov 2026 | Various Venues, Bristol | Bristol |
+| Fri, 20 Nov 2026 | Music Box | San Diego |
 
 ## Recently played
 
+- The Grove, Newcastle · Tue, 13 Oct 2026
 - Belgrave Music Hall, Leeds · Mon, 12 Oct 2026
 - Pica (Port Melbourne Industrial Centre for the Arts), Melbourne · Sun, 4 Oct 2026
 - Carriageworks, Sydney · Sat, 3 Oct 2026
@@ -30,10 +31,9 @@ Takuya Nakamura is a jungle and jazz artist based in Japan, with 121 gigs on sou
 - 29th Street Ballroom, Austin · Sat, 12 Sept 2026
 - Village Studios, Vancouver · Sat, 5 Sept 2026
 - Star Theater, Portland · Fri, 4 Sept 2026
-- Cervantes' Other Side, Denver · Fri, 28 Aug 2026
 
 ## Shares bills with
 
 rmzi, Aanandi, Doc Scott
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*

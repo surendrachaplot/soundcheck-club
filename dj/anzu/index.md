@@ -1,6 +1,6 @@
 # ANZU
 
-ANZU is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at or, Tokyo on Sat, 17 Oct 2026.
+ANZU is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at or, Tokyo on Sat, 17 Oct 2026.
 
 ANZU is a house and techno artist based in Japan, with 70 gigs on soundcheck across Tokyo. Often billed alongside Yamariki, PUNK N MATRIX and SIGNAL (JP). Next up: or, Tokyo on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ ANZU is a house and techno artist based in Japan, with 70 gigs on soundcheck acr
 
 Yamariki, PUNK N MATRIX, SIGNAL (JP)
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anzu/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anzu/)*

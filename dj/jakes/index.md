@@ -1,8 +1,8 @@
 # Jakes
 
-Jakes is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
+Jakes is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
 
-Jakes is a drum & bass and jungle artist based in United Kingdom, with 65 gigs on soundcheck across Bali, Bristol, Bucharest and Budapest and 5 more. Often billed alongside Carasel, SP:MC and Enei. Next up: DRUMSHEDS, London on Sat 17 Oct.
+Jakes is a drum & bass and jungle artist based in United Kingdom, with 66 gigs on soundcheck across Bali, Bristol, Bucharest and Budapest and 6 more. Often billed alongside Carasel, SP:MC and Enei. Next up: DRUMSHEDS, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Jakes is a drum & bass and jungle artist based in United Kingdom, with 65 gigs o
 | Fri, 20 Nov 2026 | Thekla | Bristol |
 | Sat, 21 Nov 2026 | E1 | London |
 | Sat, 28 Nov 2026 | Sawmills | Bristol |
+| Fri, 4 Dec 2026 | Stealth | Nottingham |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Jakes is a drum & bass and jungle artist based in United Kingdom, with 65 gigs o
 
 Carasel, SP:MC, Enei
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakes/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakes/)*

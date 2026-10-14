@@ -1,6 +1,6 @@
 # Gop Tun DJs
 
-Gop Tun DJs is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Armazem Solon, Sao-paulo on Sat, 7 Nov 2026.
+Gop Tun DJs is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Armazem Solon, Sao-paulo on Sat, 7 Nov 2026.
 
 Gop Tun DJs is a house and disco artist based in Brazil, with 72 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 10 more. Often billed alongside Cashu, Millos Kaiser and Suelen Mesmo. Next up: Armazem Solon, Sao Paulo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Gop Tun DJs is a house and disco artist based in Brazil, with 72 gigs on soundch
 
 Cashu, Millos Kaiser, Suelen Mesmo
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goptundjs/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goptundjs/)*

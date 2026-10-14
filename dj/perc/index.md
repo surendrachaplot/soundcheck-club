@@ -1,6 +1,6 @@
 # Perc
 
-Perc is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Refuge, New York City on Fri, 16 Oct 2026.
+Perc is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Refuge, New York City on Fri, 16 Oct 2026.
 
 Perc is a techno and industrial artist based in United Kingdom, with 162 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Ansome, Somniac One and DAX J. Next up: Refuge, New York City on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Perc is a techno and industrial artist based in United Kingdom, with 162 gigs on
 
 Ansome, Somniac One, DAX J
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perc/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perc/)*

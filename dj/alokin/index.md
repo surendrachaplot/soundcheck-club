@@ -1,6 +1,6 @@
 # ALOKIN
 
-ALOKIN is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Frankie's, Vancouver on Sat, 31 Oct 2026.
+ALOKIN is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Frankie's, Vancouver on Sat, 31 Oct 2026.
 
 ALOKIN is a techno and hardcore artist based in Canada, with 19 gigs on soundcheck across Edmonton, Montreal, Toronto and Vancouver. Often billed alongside Behrad Tehrani, Fizch and Sopik. Next up: Frankie's, Vancouver on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ ALOKIN is a techno and hardcore artist based in Canada, with 19 gigs on soundche
 
 Behrad Tehrani, Fizch, Sopik
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alokin/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alokin/)*

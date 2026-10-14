@@ -1,6 +1,6 @@
 # Age of Aconitum
 
-Age of Aconitum is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Sat, 24 Oct 2026.
+Age of Aconitum is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Sat, 24 Oct 2026.
 
 Age of Aconitum is a house and techno artist, with 6 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside 7CIRCLE, AHIL and AZA. Next up: Amsterdams Most Wanted, Amsterdam on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Age of Aconitum is a house and techno artist, with 6 gigs on soundcheck across A
 
 7CIRCLE, AHIL, AZA
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ageofaconitum/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ageofaconitum/)*

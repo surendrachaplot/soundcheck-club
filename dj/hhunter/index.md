@@ -1,13 +1,14 @@
 # hhunter
 
-hhunter is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+hhunter is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Domicile, Miami on Fri, 16 Oct 2026.
 
-hhunter is a techno and house artist based in United States of America, with 79 gigs on soundcheck across Atlanta, Austin, Chicago and Dallas Fort Worth and 10 more. Often billed alongside Elarm, Kula and Flores Negras. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
+hhunter is a techno and house artist based in United States of America, with 80 gigs on soundcheck across Atlanta, Austin, Chicago and Dallas Fort Worth and 10 more. Often billed alongside Elarm, Kula and Flores Negras. Next up: Domicile, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Domicile | Miami |
 | Thu, 22 Oct 2026 | Spirit of the Suwannee Music Park | Jacksonville |
 | Fri, 30 Oct 2026 | TBA - Secret Location | Atlanta |
 | Fri, 30 Oct 2026 | Concord Music Hall | Chicago |
@@ -29,4 +30,4 @@ hhunter is a techno and house artist based in United States of America, with 79 
 
 Elarm, Kula, Flores Negras
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hhunter/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hhunter/)*

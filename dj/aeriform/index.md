@@ -1,6 +1,6 @@
 # aeriform
 
-aeriform is a Dub and Footwork artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at OHM, Berlin on Fri, 30 Oct 2026.
+aeriform is a Dub and Footwork artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at OHM, Berlin on Fri, 30 Oct 2026.
 
 aeriform is a dub and footwork artist based in Italy, with 6 gigs on soundcheck across Berlin and London. Often billed alongside Discka, Mark Dartau and TOXE. Next up: OHM, Berlin on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ aeriform is a dub and footwork artist based in Italy, with 6 gigs on soundcheck 
 
 Discka, Mark Dartau, TOXE
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aeriform/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aeriform/)*

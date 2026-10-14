@@ -1,6 +1,6 @@
-# Club Eiger x MUSAR: DMX Krew (live), Dweedo, Oscar Mitha & Ruby Ruby at Eiger Studios
+# Club Eiger x MUSAR: DMX Krew (live), Dweedo, Oscar (Mitha) & Ruby Ruby at Eiger Studios
 
-Club Eiger x MUSAR: DMX Krew (live), Dweedo, Oscar Mitha & Ruby Ruby at Eiger Studios on Sat 5 Dec, Leeds. 4 artists: DMX Krew, Dweedo, Oscar (MITHA) and Ruby Ruby. Electro and Acid. See the line-up on soundcheck.
+Club Eiger x MUSAR: DMX Krew (live), Dweedo, Oscar (Mitha) & Ruby Ruby at Eiger Studios on Sat 5 Dec, Leeds. 4 artists: DMX Krew, Dweedo, Oscar (MITHA) and Ruby Ruby. Acid and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

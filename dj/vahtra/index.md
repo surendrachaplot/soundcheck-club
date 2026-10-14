@@ -1,6 +1,6 @@
 # Vahtra
 
-Vahtra is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Baltachill, Tallinn on Fri, 16 Oct 2026.
+Vahtra is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Baltachill, Tallinn on Fri, 16 Oct 2026.
 
 Vahtra is a house and disco artist, with 7 gigs on soundcheck across Tallinn. Often billed alongside Renno Paat and Erkin Antov. Next up: Baltachill, Tallinn on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Vahtra is a house and disco artist, with 7 gigs on soundcheck across Tallinn. Of
 
 Renno Paat, Erkin Antov
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vahtra/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vahtra/)*

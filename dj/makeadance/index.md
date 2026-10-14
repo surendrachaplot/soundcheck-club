@@ -1,8 +1,8 @@
 # Make A Dance
 
-Make A Dance is a House and Disco artist with 12 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Strange Brew, Bristol on Fri, 16 Oct 2026.
+Make A Dance is a House and Disco artist with 13 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Strange Brew, Bristol on Fri, 16 Oct 2026.
 
-Make A Dance is a house and disco artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Auckland, Bali and Bangkok and 30 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: Strange Brew, Bristol on Fri 16 Oct.
+Make A Dance is a house and disco artist based in United Kingdom, with 129 gigs on soundcheck across Amsterdam, Auckland, Bali and Bangkok and 31 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: Strange Brew, Bristol on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ Make A Dance is a house and disco artist based in United Kingdom, with 128 gigs 
 | Sat, 28 Nov 2026 | Azimut Club | Turin |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
-| Thu, 31 Dec 2026 | KOKO | London |
+| Fri, 18 Dec 2026 | Smolna | Warsaw |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Make A Dance is a house and disco artist based in United Kingdom, with 128 gigs 
 
 Paula Tape, Tash LC, Thom Parris
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*

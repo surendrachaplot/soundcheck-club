@@ -1,6 +1,6 @@
 # MENTA
 
-MENTA is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Switch Bar, Barcelona on Wed, 21 Oct 2026.
+MENTA is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Switch Bar, Barcelona on Wed, 21 Oct 2026.
 
 MENTA is a techno and electro artist based in Argentina, with 106 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Madrid and 2 more. Often billed alongside Intruso, J Bronsted and Roberta.Mikeila. Next up: Switch Bar, Barcelona on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ MENTA is a techno and electro artist based in Argentina, with 106 gigs on soundc
 
 Intruso, J Bronsted, Roberta.Mikeila
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/menta/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/menta/)*

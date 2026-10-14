@@ -1,6 +1,6 @@
 # Opi (CZ)
 
-Opi (CZ) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Wed, 14 Oct 2026.
+Opi (CZ) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Wed, 14 Oct 2026.
 
 Opi (CZ) is a house and deep house artist based in Czech Republic, with 13 gigs on soundcheck across Miami and Prague. Often billed alongside tg_paul, C-Motion and Jessy Nimni. Next up: Do Not Sit On The Furniture, Miami on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ Opi (CZ) is a house and deep house artist based in Czech Republic, with 13 gigs 
 
 tg_paul, C-Motion, Jessy Nimni
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/opi-cz/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/opi-cz/)*

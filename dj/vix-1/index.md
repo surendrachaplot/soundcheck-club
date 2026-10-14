@@ -1,6 +1,6 @@
 # VIX (1)
 
-VIX (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Exit Reality, Singapore on Wed, 14 Oct 2026.
+VIX (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Exit Reality, Singapore on Wed, 14 Oct 2026.
 
 VIX is a techno and house artist based in Singapore, with 25 gigs on soundcheck across Kuala Lumpur, Medellin and Singapore. Often billed alongside Loyboy, POH and sho&tell. Next up: Exit Reality, Singapore on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ VIX is a techno and house artist based in Singapore, with 25 gigs on soundcheck 
 
 Loyboy, POH (1), sho&tell
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vix-1/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vix-1/)*

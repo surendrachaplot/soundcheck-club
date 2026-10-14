@@ -1,8 +1,8 @@
 # Gaskin
 
-Gaskin is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Limelight, Belfast on Sat, 17 Oct 2026.
+Gaskin is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Limelight, Belfast on Sat, 17 Oct 2026.
 
-Gaskin is a house and tech house artist based in United Kingdom, with 188 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 35 more. Often billed alongside Ellia Jaya, L.P. Rhythm and Ellam. Next up: The Limelight, Belfast on Sat 17 Oct.
+Gaskin is a house and tech house artist based in United Kingdom, with 187 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 35 more. Often billed alongside Ellia Jaya, L.P. Rhythm and Ellam. Next up: The Limelight, Belfast on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -11,7 +11,6 @@ Gaskin is a house and tech house artist based in United Kingdom, with 188 gigs o
 | Sat, 17 Oct 2026 | The Limelight | Belfast |
 | Thu, 22 Oct 2026 | Theater Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
-| Fri, 23 Oct 2026 | Tunnel | Milan |
 | Sat, 31 Oct 2026 | SWG3 | Glasgow |
 | Sat, 31 Oct 2026 | The Liquid Room | Edinburgh |
 | Sun, 1 Nov 2026 | The Cause | London |
@@ -33,4 +32,4 @@ Gaskin is a house and tech house artist based in United Kingdom, with 188 gigs o
 
 Ellia Jaya, L.P. Rhythm, Ellam
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskin/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskin/)*

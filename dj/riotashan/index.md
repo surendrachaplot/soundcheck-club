@@ -1,14 +1,15 @@
 # Rio Tashan
 
-Rio Tashan is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at BRET, Amsterdam on Thu, 22 Oct 2026.
+Rio Tashan is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at BRET, Amsterdam on Thu, 22 Oct 2026.
 
-Rio Tashan is a house and tech house artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam, Berlin, Bristol and Edinburgh and 7 more. Often billed alongside Sam Divine, Eats Everything and Low Steppa. Next up: BRET, Amsterdam on Thu 22 Oct.
+Rio Tashan is a house and tech house artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Berlin, Bristol and Edinburgh and 7 more. Often billed alongside Sam Divine, Eats Everything and Low Steppa. Next up: BRET, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | BRET | Amsterdam |
+| Fri, 6 Nov 2026 | UNLOCKED | London |
 | Sat, 14 Nov 2026 | Kater | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Rio Tashan is a house and tech house artist based in United Kingdom, with 66 gig
 
 Sam Divine, Eats Everything, Low Steppa
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riotashan/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riotashan/)*

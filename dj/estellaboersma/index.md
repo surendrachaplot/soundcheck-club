@@ -1,6 +1,6 @@
 # Estella Boersma
 
-Estella Boersma is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Cause, London on Sat, 17 Oct 2026.
+Estella Boersma is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Cause, London on Sat, 17 Oct 2026.
 
 Estella Boersma is a techno and house artist based in Germany, with 182 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Patrick Mason, Daria Kolosova and Cera Khin. Next up: The Cause, London on Sat 17 Oct.
 
@@ -34,4 +34,4 @@ Estella Boersma is a techno and house artist based in Germany, with 182 gigs on 
 
 Patrick Mason, Daria Kolosova, Cera Khin
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estellaboersma/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estellaboersma/)*

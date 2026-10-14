@@ -1,6 +1,6 @@
 # HANI DAKIN
 
-HANI DAKIN is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at M7 Club, Barcelona on Sat, 17 Oct 2026.
+HANI DAKIN is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at M7 Club, Barcelona on Sat, 17 Oct 2026.
 
 HANI DAKIN is a techno and industrial artist based in Spain, with 30 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 6 more. Often billed alongside Lilly Palmer, Gregor Tresher and Lorenzo Raganzini. Next up: M7 Club, Barcelona on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ HANI DAKIN is a techno and industrial artist based in Spain, with 30 gigs on sou
 
 Lilly Palmer, Gregor Tresher, Lorenzo Raganzini
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/HANIDAKIN/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/HANIDAKIN/)*

@@ -1,6 +1,6 @@
 # Yamato
 
-Yamato is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 8 Nov 2026.
+Yamato is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 8 Nov 2026.
 
 Yamato is a techno and trance artist based in United States of America, with 25 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Drunken Kong, WAKA XINXI and Shogo Ito. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Yamato is a techno and trance artist based in United States of America, with 25 
 
 Drunken Kong, WAKA XINXI, Shogo Ito
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamato/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamato/)*

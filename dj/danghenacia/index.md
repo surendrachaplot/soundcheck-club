@@ -1,6 +1,6 @@
 # Dan Ghenacia
 
-Dan Ghenacia is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at REC Napoli, Naples on Sat, 17 Oct 2026.
+Dan Ghenacia is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at REC Napoli, Naples on Sat, 17 Oct 2026.
 
 Dan Ghenacia is a house and tech house artist based in France, with 154 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 36 more. Often billed alongside Shonky, Apollonia and Dyed Soundorom. Next up: REC Napoli, Naples on Sat 17 Oct.
 
@@ -29,4 +29,4 @@ Dan Ghenacia is a house and tech house artist based in France, with 154 gigs on 
 
 Shonky, Apollonia, Dyed Soundorom
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danghenacia/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danghenacia/)*

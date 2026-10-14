@@ -1,6 +1,6 @@
 # Buckley (UK)
 
-Buckley (UK) is a Garage and Dubstep artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Sneaky Pete's, Edinburgh on Wed, 14 Oct 2026.
+Buckley (UK) is a Garage and Dubstep artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Sneaky Pete's, Edinburgh on Wed, 14 Oct 2026.
 
 Buckley (UK) is a garage and dubstep artist based in United Kingdom, with 79 gigs on soundcheck across Berlin, Bristol, Cardiff and Dundee and 8 more. Often billed alongside harpriya, Dawsons Kriek and Howie Booth. Next up: Sneaky Pete's, Edinburgh on Wed 14 Oct.
 
@@ -29,4 +29,4 @@ Buckley (UK) is a garage and dubstep artist based in United Kingdom, with 79 gig
 
 harpriya, Dawsons Kriek, Howie Booth
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buckley-uk/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buckley-uk/)*

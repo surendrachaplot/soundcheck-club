@@ -1,6 +1,6 @@
 # Meimei / &rumble
 
-Meimei / &rumble is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "#いいジュークの日 (#NICE JUKE DAY)" on Thu, 19 Nov 2026.
+Meimei / &rumble is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "#いいジュークの日 (#NICE JUKE DAY)" on Thu, 19 Nov 2026.
 
 Meimei / &rumble is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Meimei / &rumble is a music venue in Tokyo listed on soundcheck. 1 upcoming gig.
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | #いいジュークの日 (#NICE JUKE DAY) |  |
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/meimei-rumble/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/meimei-rumble/)*

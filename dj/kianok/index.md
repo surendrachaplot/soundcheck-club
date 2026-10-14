@@ -1,8 +1,8 @@
 # Kian OK
 
-Kian OK is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Ballroom at Palais, London on Fri, 23 Oct 2026.
+Kian OK is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Ballroom at Palais, London on Fri, 23 Oct 2026.
 
-Kian OK is a house and techno artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Berlin, Ghent and London and 5 more. Often billed alongside Picasso, Bowyer and Kyle Toole. Next up: Ballroom at Palais, London on Fri 23 Oct.
+Kian OK is a house and techno artist based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Berlin, Ghent and London and 6 more. Often billed alongside Picasso, Kyle Toole and Bowyer. Next up: Ballroom at Palais, London on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kian OK is a house and techno artist based in United Kingdom, with 39 gigs on so
 | Fri, 23 Oct 2026 | Ballroom at Palais | London |
 | Sat, 7 Nov 2026 | Gaffe | London |
 | Fri, 27 Nov 2026 | TBA | Tunisia |
+| Fri, 11 Dec 2026 | Cobalt Studios | Newcastle |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Kian OK is a house and techno artist based in United Kingdom, with 39 gigs on so
 
 ## Shares bills with
 
-Picasso, Bowyer, Kyle Toole
+Picasso, Kyle Toole, Bowyer
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kianok/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kianok/)*

@@ -1,6 +1,6 @@
 # JØASE x Boogie House x CLBHUIS: ADE at Panama
 
-JØASE x Boogie House x CLBHUIS: ADE at Panama on Sun 25 Oct, Amsterdam. 6 artists: Becking, Drabes, Hunter Demase and JØASE and 2 more. Techno and House. See the line-up on soundcheck.
+JØASE x Boogie House x CLBHUIS: ADE at Panama on Sun 25 Oct, Amsterdam. 7 artists: Becking, Drabes, Hunter Demase and JØASE and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,5 +16,6 @@ JØASE x Boogie House x CLBHUIS: ADE at Panama on Sun 25 Oct, Amsterdam. 6 artis
 - JØASE
 - Kirilski
 - LIKE61
+- Trias Kinetica
 
 *Source: [soundcheck](https://soundcheck.club/e/2514292-j-ase-x-boogie-house-x-clbhuis-ade-at-panama/)*

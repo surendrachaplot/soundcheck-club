@@ -1,6 +1,6 @@
 # Sasha Shuttleworth
 
-Sasha Shuttleworth is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Soup, Manchester on Thu, 15 Oct 2026.
+Sasha Shuttleworth is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Soup, Manchester on Thu, 15 Oct 2026.
 
 Sasha Shuttleworth is a house and downtempo artist, with 7 gigs on soundcheck across Manchester and Sheffield. Often billed alongside Hannah O'Gorman, Babs and Chunky. Next up: Soup, Manchester on Thu 15 Oct.
 
@@ -23,4 +23,4 @@ Sasha Shuttleworth is a house and downtempo artist, with 7 gigs on soundcheck ac
 
 Hannah O'Gorman, Babs (3), Chunky
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sashashuttleworth/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sashashuttleworth/)*

@@ -1,6 +1,6 @@
 # Twist Bar
 
-Twist Bar is a music venue in Prague with 13 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Jak Sen" on Wed, 14 Oct 2026.
+Twist Bar is a music venue in Prague with 13 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Jak Sen" on Wed, 14 Oct 2026.
 
 Twist Bar is a music venue in Prague listed on soundcheck. 13 upcoming gigs, with line-ups including Ariane V, Ben Gomori, Dodo and fleika and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ Twist Bar is a music venue in Prague listed on soundcheck. 13 upcoming gigs, wit
 | Sat, 24 Oct 2026 | SEED - Mike H., Not_me |  |
 | Wed, 28 Oct 2026 | Nako Ono |  |
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/twist-bar/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/twist-bar/)*

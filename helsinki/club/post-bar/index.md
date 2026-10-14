@@ -1,6 +1,6 @@
 # Post Bar
 
-Post Bar is a music venue in Helsinki with 10 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Post Bar — Mallamáret, Bobi De Oro, 2THEMAX" on Fri, 16 Oct 2026.
+Post Bar is a music venue in Helsinki with 10 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Post Bar — Mallamáret, Bobi De Oro, 2THEMAX" on Fri, 16 Oct 2026.
 
 Post Bar is a music venue in Helsinki listed on soundcheck. 10 upcoming gigs, with line-ups including 2THEMAX, Daniel Kayrouz, Denzel and DJ Aleksi and 2 more. See dates, start times and who's playing. Kaikukatu 2.
 
@@ -23,4 +23,4 @@ Post Bar is a music venue in Helsinki listed on soundcheck. 10 upcoming gigs, wi
 
 Kaikukatu 2, Helsinki
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/post-bar/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/post-bar/)*

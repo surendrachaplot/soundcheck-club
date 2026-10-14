@@ -1,6 +1,6 @@
 # Brooke Steele
 
-Brooke Steele is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Jupiter Disco, New York City on Sun, 18 Oct 2026.
+Brooke Steele is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Jupiter Disco, New York City on Sun, 18 Oct 2026.
 
 Brooke Steele is a techno and electro artist based in United States of America, with 12 gigs on soundcheck across Detroit and New York City. Often billed alongside Primordian, Radicchio and espurr. Next up: Jupiter Disco, New York City on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Brooke Steele is a techno and electro artist based in United States of America, 
 
 Primordian, Radicchio, espurr
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brookesteele/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brookesteele/)*

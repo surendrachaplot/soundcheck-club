@@ -1,6 +1,6 @@
 # 4AM NYC
 
-4AM NYC is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Good Room, New York City on Fri, 16 Oct 2026.
+4AM NYC is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Good Room, New York City on Fri, 16 Oct 2026.
 
 4AM NYC is a house and disco artist based in United States of America, with 107 gigs on soundcheck across Berlin, Chicago, Detroit and Montreal and 7 more. Often billed alongside Shigeto, Toribio and Planet B. Next up: Good Room, New York City on Fri 16 Oct.
 
@@ -26,4 +26,4 @@
 
 Shigeto, Toribio, Planet B
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/4amnyc/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/4amnyc/)*

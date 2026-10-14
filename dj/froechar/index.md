@@ -1,6 +1,6 @@
 # Froe Char
 
-Froe Char is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Lavallée, Brussels on Thu, 15 Oct 2026.
+Froe Char is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Lavallée, Brussels on Thu, 15 Oct 2026.
 
 Froe Char is an ebm and techno artist based in France, with 6 gigs on soundcheck across Brussels and Paris. Often billed alongside Ottoman Grüw, 2+2=5 and Age of Hate. Next up: Lavallée, Brussels on Thu 15 Oct.
 
@@ -22,4 +22,4 @@ Froe Char is an ebm and techno artist based in France, with 6 gigs on soundcheck
 
 Ottoman Grüw, 2+2=5, Age of Hate
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/froechar/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/froechar/)*

@@ -1,8 +1,8 @@
 # KiNK
 
-KiNK is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 16 Oct 2026.
+KiNK is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 16 Oct 2026.
 
-KiNK is a techno and house artist based in Bulgaria, with 177 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 46 more. Often billed alongside Raredub, FJAAK and Ben Klock. Next up: Carousel Bar & Ballroom, Sydney on Fri 16 Oct.
+KiNK is a techno and house artist based in Bulgaria, with 178 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 46 more. Often billed alongside Raredub, FJAAK and Ben Klock. Next up: Carousel Bar & Ballroom, Sydney on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ KiNK is a techno and house artist based in Bulgaria, with 177 gigs on soundcheck
 | Fri, 16 Oct 2026 | Carousel Bar & Ballroom | Sydney |
 | Fri, 16 Oct 2026 | Carousel Bar & Ballroom | Sydney |
 | Sat, 17 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
+| Sat, 17 Oct 2026 | ark (Melb) | Melbourne |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sun, 25 Oct 2026 | Radio Radio | Amsterdam |
@@ -32,4 +33,4 @@ KiNK is a techno and house artist based in Bulgaria, with 177 gigs on soundcheck
 
 Raredub, FJAAK, Ben Klock
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kink/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kink/)*

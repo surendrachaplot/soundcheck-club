@@ -1,6 +1,6 @@
 # MRTI
 
-MRTI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Legal, Munich on Sat, 24 Oct 2026.
+MRTI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Legal, Munich on Sat, 24 Oct 2026.
 
 MRTI is a techno and trance artist, with 52 gigs on soundcheck across Berlin, Hamburg, Leipzig and Munich. Often billed alongside Louis EMP, Leon Haller and Alicea. Next up: Legal, Munich on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ MRTI is a techno and trance artist, with 52 gigs on soundcheck across Berlin, Ha
 
 Louis EMP, Leon Haller, Alicea
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrti/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrti/)*

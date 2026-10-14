@@ -1,6 +1,6 @@
 # Austin Garden & Studio
 
-Austin Garden & Studio is a music venue in Austin with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "ZHU × GENIX: Draftkings The Austin Grand Prix F1 Experience Along with An F1 Racing team" on Fri, 23 Oct 2026.
+Austin Garden & Studio is a music venue in Austin with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "GENIX: Draftkings The Austin Grand Prix F1 Experience Along with An F1 Racing team" on Fri, 23 Oct 2026.
 
 Austin Garden & Studio is a music venue in Austin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 1209 E 6th St, Austin, TX 78702.
 
@@ -8,10 +8,10 @@ Austin Garden & Studio is a music venue in Austin listed on soundcheck. 1 upcomi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | ZHU × GENIX: Draftkings The Austin Grand Prix F1 Experience Along with An F1 Racing team |  |
+| Fri, 23 Oct 2026 | GENIX: Draftkings The Austin Grand Prix F1 Experience Along with An F1 Racing team |  |
 
 ## Address
 
 1209 E 6th St, Austin, TX 78702, Austin
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/austin-garden-studio/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/austin-garden-studio/)*

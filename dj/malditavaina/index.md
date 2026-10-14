@@ -1,6 +1,6 @@
 # Maldita Vaina
 
-Maldita Vaina is a Reggaeton and Dembow artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Hackney Bridge, London on Fri, 16 Oct 2026.
+Maldita Vaina is a Reggaeton and Dembow artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Hackney Bridge, London on Fri, 16 Oct 2026.
 
 Maldita Vaina is a reggaeton and dembow artist based in Dominican Republic, with 11 gigs on soundcheck across Houston, Leeds, London and New York City and 2 more. Often billed alongside Total XTC, ARMANA KHAN and ASHTREY. Next up: Hackney Bridge, London on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Maldita Vaina is a reggaeton and dembow artist based in Dominican Republic, with
 
 Total XTC, ARMANA KHAN, ASHTREY
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malditavaina/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malditavaina/)*

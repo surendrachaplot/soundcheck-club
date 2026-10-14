@@ -1,0 +1,28 @@
+# Trinity Forever
+
+Trinity Forever is a Club and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at 618 DC, Washington DC on Fri, 13 Nov 2026.
+
+Trinity Forever is a club and hardcore artist based in United States of America, with 23 gigs on soundcheck across Philadelphia and Washington DC. Often billed alongside Franxx, Mrs. Qbert and Gabberbitch69. Next up: 618 DC, Washington DC on Fri 13 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 13 Nov 2026 | 618 DC | Washington DC |
+
+## Recently played
+
+- TRANSMISSION DC, Washington DC · Fri, 2 Oct 2026
+- Sinners and Saints, Washington DC · Sat, 12 Sept 2026
+- TRANSMISSION DC, Washington DC · Fri, 10 Jul 2026
+- TRANSMISSION DC, Washington DC · Sat, 25 Apr 2026
+- Sinners and Saints, Washington DC · Thu, 23 Apr 2026
+- TRANSMISSION DC, Washington DC · Sat, 28 Feb 2026
+- Sinners and Saints, Washington DC · Thu, 26 Feb 2026
+- Sinners and Saints, Washington DC · Thu, 22 Jan 2026
+
+## Shares bills with
+
+Franxx, Mrs. Qbert, Gabberbitch69
+
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trinityforever/)*

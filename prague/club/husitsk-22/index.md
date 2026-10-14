@@ -1,6 +1,6 @@
 # Husitská 22
 
-Husitská 22 is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "SLVRSKN ☆ NOISE CANVAS " on Sat, 24 Oct 2026.
+Husitská 22 is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "SLVRSKN ☆ NOISE CANVAS ★ ART&RAVE" on Sat, 24 Oct 2026.
 
 Husitská 22 is a music venue in Prague listed on soundcheck. 1 upcoming gig, with line-ups including 2NDRA, cydra★, GETSET and Nøteleks and 1 more. See dates, start times and who's playing. Husitská 22130 00 Praha 3-Žižko.
 
@@ -8,10 +8,10 @@ Husitská 22 is a music venue in Prague listed on soundcheck. 1 upcoming gig, wi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | SLVRSKN ☆ NOISE CANVAS  | 2NDRA, GETSET, Nøteleks, Yachym, cydra★ |
+| Sat, 24 Oct 2026 | SLVRSKN ☆ NOISE CANVAS ★ ART&RAVE | 2NDRA, GETSET, Nøteleks, Yachym, cydra★ |
 
 ## Address
 
 Husitská 22130 00 Praha 3-Žižko, Prague
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/husitsk-22/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/husitsk-22/)*

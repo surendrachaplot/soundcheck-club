@@ -1,13 +1,14 @@
 # Raymond
 
-Raymond is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at McChuills Music Bar, Glasgow on Sat, 31 Oct 2026.
+Raymond is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Flat Iron Square, London on Sat, 17 Oct 2026.
 
-Raymond is an electro and techno artist based in United Kingdom, with 7 gigs on soundcheck across Barcelona, Brussels, Glasgow and London and 1 more. Often billed alongside CHAAC, B.UNQ! and Billy Nasty. Next up: McChuills Music Bar, Glasgow on Sat 31 Oct.
+Raymond is a house and electro artist based in United Kingdom, with 8 gigs on soundcheck across Barcelona, Brussels, Glasgow and London and 1 more. Often billed alongside CHAAC, B.UNQ! and Billy Nasty. Next up: Flat Iron Square, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Flat Iron Square | London |
 | Sat, 31 Oct 2026 | McChuills Music Bar | Glasgow |
 
 ## Recently played
@@ -23,4 +24,4 @@ Raymond is an electro and techno artist based in United Kingdom, with 7 gigs on 
 
 CHAAC, B.UNQ!, Billy Nasty
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raymond/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raymond/)*

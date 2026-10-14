@@ -1,6 +1,6 @@
 # Kevin Saunderson at Spybar
 
-Kevin Saunderson at Spybar on Fri 16 Oct, Chicago. 1 artist: Kevin Saunderson. Techno and Tech House. See the line-up on soundcheck.
+Kevin Saunderson at Spybar on Fri 16 Oct, Chicago. 2 artists: Iváno Lima and Kevin Saunderson. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Kevin Saunderson at Spybar on Fri 16 Oct, Chicago. 1 artist: Kevin Saunderson. T
 
 ## Line-up
 
+- Iváno Lima
 - Kevin Saunderson
 
 *Source: [soundcheck](https://soundcheck.club/e/2538213-kevin-saunderson-at-spybar/)*

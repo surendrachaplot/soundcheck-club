@@ -1,6 +1,6 @@
 # Raw Underground
 
-Raw Underground is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Wed, 21 Oct 2026.
+Raw Underground is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Wed, 21 Oct 2026.
 
 Raw Underground is a house and tech house artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam, Los Angeles and Utrecht. Often billed alongside Daniel Englisch, GraceBones and Dante Tom. Next up: Amsterdams Most Wanted, Amsterdam on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ Raw Underground is a house and tech house artist based in Netherlands, with 11 g
 
 Daniel Englisch, GraceBones, Dante Tom
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rawunderground/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rawunderground/)*

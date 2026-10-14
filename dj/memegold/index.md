@@ -1,13 +1,14 @@
 # Meme Gold
 
-Meme Gold is a Hip-Hop and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
+Meme Gold is a Hip-Hop and Afrobeats artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at renae, Manchester on Tue, 20 Oct 2026.
 
-Meme Gold is a hip-hop and afrobeats artist based in United Kingdom, with 23 gigs on soundcheck across Manchester. Often billed alongside Lawal, Bollibubbles and Mix-Stress. Next up: Depot Mayfield, Manchester on Sat 7 Nov.
+Meme Gold is a hip-hop and afrobeats artist based in United Kingdom, with 24 gigs on soundcheck across Manchester. Often billed alongside Lawal, Bollibubbles and Mix-Stress. Next up: renae, Manchester on Tue 20 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 20 Oct 2026 | renae | Manchester |
 | Sat, 7 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
@@ -25,4 +26,4 @@ Meme Gold is a hip-hop and afrobeats artist based in United Kingdom, with 23 gig
 
 Lawal, Bollibubbles, Mix-Stress
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memegold/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memegold/)*

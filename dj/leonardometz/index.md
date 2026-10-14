@@ -1,6 +1,6 @@
 # Leonardo Metz
 
-Leonardo Metz is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at BARDO, Milan on Tue, 20 Oct 2026.
+Leonardo Metz is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at BARDO, Milan on Tue, 20 Oct 2026.
 
 Leonardo Metz is an electronica and experimental artist, with 16 gigs on soundcheck across Berlin, Milan, Naples and Rome. Often billed alongside 42 Cent Hotline, Mira Vivian and Luca Fitzgerald. Next up: BARDO, Milan on Tue 20 Oct.
 
@@ -25,4 +25,4 @@ Leonardo Metz is an electronica and experimental artist, with 16 gigs on soundch
 
 42 Cent Hotline, Mira Vivian, Luca Fitzgerald
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonardometz/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonardometz/)*

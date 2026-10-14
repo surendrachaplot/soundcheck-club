@@ -1,6 +1,6 @@
 # k means
 
-k means is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at De Sering, Amsterdam on Sat, 24 Oct 2026.
+k means is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at De Sering, Amsterdam on Sat, 24 Oct 2026.
 
 k means is a techno and experimental artist based in Sweden, with 105 gigs on soundcheck across Amsterdam, Berlin, Bristol and Edinburgh and 20 more. Often billed alongside i-sha, Batu and Kode9. Next up: De Sering, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ k means is a techno and experimental artist based in Sweden, with 105 gigs on so
 
 i-sha, Batu, Kode9
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kmeans/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kmeans/)*

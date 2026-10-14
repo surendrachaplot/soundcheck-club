@@ -1,6 +1,6 @@
 # DIAGE 2026 at Cloud 11 Hall
 
-DIAGE 2026 at Cloud 11 Hall on Sat 31 Oct, Bangkok. 23 artists: ahivar, Club Mascot, DJ Dragon and DJ Praw and 19 more. Experimental and IDM. See the line-up on soundcheck.
+DIAGE 2026 at Cloud 11 Hall on Sat 31 Oct, Bangkok. 25 artists: ahivar, Club Mascot, DJ Dragon and DJ Praw and 21 more. Experimental and IDM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ DIAGE 2026 at Cloud 11 Hall on Sat 31 Oct, Bangkok. 23 artists: ahivar, Club Mas
 - DJ Praw
 - DJ Zombie
 - Evian Christ
+- Jamira Estrada
 - Kim Laughton
 - Koichi Shimizu
 - Kova O' Sarin
@@ -26,6 +27,7 @@ DIAGE 2026 at Cloud 11 Hall on Sat 31 Oct, Bangkok. 23 artists: ahivar, Club Mas
 - MJMA
 - MONOCOLOR
 - Montonn Jira
+- NVST
 - Slikback
 - Soup snakeS
 - Takky

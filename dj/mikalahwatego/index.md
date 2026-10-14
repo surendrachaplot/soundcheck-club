@@ -1,6 +1,6 @@
 # Mikalah Watego
 
-Mikalah Watego is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 1 Nov 2026.
+Mikalah Watego is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 1 Nov 2026.
 
 Mikalah Watego is a techno and house artist based in Australia, with 39 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside Hasvat Informant, Ed Kent and Moopie. Next up: Revolver Upstairs, Melbourne on Sun 1 Nov.
 
@@ -30,4 +30,4 @@ Mikalah Watego is a techno and house artist based in Australia, with 39 gigs on 
 
 Hasvat Informant, Ed Kent, Moopie
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikalahwatego/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikalahwatego/)*

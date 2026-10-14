@@ -1,6 +1,6 @@
 # Proper NYE 26/27 at Petco Park
 
-Proper NYE 26/27 at Petco Park on Thu 31 Dec, San Diego. 32 artists: ¥ØU$UK€ ¥UK1MAT$U, Beltran, Ben Sterling and canary yellow and 28 more. See the line-up on soundcheck.
+Proper NYE 26/27 at Petco Park on Thu 31 Dec, San Diego. 38 artists: ¥ØU$UK€ ¥UK1MAT$U, Beltran, Ben Sterling and canary yellow and 34 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,13 +18,17 @@ Proper NYE 26/27 at Petco Park on Thu 31 Dec, San Diego. 32 artists: ¥ØU$UK€
 - Chris Lorenzo
 - Cloonee
 - DJ MANDY
+- Dombresky
 - Eli Brown
+- FISHER
+- Four Tet
 - Green Velvet
 - I Hate Models
 - INVT
 - Jackie Hollander
 - Josh Baker
 - Kamino
+- Kaskade
 - KETTAMA
 - KlangKuenstler
 - Lane 8
@@ -33,6 +37,7 @@ Proper NYE 26/27 at Petco Park on Thu 31 Dec, San Diego. 32 artists: ¥ØU$UK€
 - Max Dean
 - MYRNE
 - Nico Moreno
+- NOVAH
 - Omar+
 - PARIS (AU)
 - Player Dave
@@ -40,6 +45,7 @@ Proper NYE 26/27 at Petco Park on Thu 31 Dec, San Diego. 32 artists: ¥ØU$UK€
 - Robby East
 - Sara Landry
 - Sosa
+- Tiga
 - Tommy Phillips
 - umru
 

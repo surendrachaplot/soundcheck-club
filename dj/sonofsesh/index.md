@@ -1,6 +1,6 @@
 # Son Of Sesh
 
-Son Of Sesh is a Breakbeat and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at OT301, Amsterdam on Thu, 10 Dec 2026.
+Son Of Sesh is a Breakbeat and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at OT301, Amsterdam on Thu, 10 Dec 2026.
 
 Son Of Sesh is a breakbeat and jungle artist, with 7 gigs on soundcheck across Amsterdam. Often billed alongside Gimmeamfbreakbeat, Déandrah and Acidic Male. Next up: OT301, Amsterdam on Thu 10 Dec.
 
@@ -23,4 +23,4 @@ Son Of Sesh is a breakbeat and jungle artist, with 7 gigs on soundcheck across A
 
 Gimmeamfbreakbeat, Déandrah, Acidic Male
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonofsesh/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonofsesh/)*

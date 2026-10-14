@@ -1,6 +1,6 @@
 # Eklekt1k
 
-Eklekt1k is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Crack Bellmer, Berlin on Thu, 29 Oct 2026.
+Eklekt1k is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Crack Bellmer, Berlin on Thu, 29 Oct 2026.
 
 Eklekt1k is a bass and dubstep artist based in Germany, with 13 gigs on soundcheck across Berlin. Often billed alongside Hovercat, Dub Isotope and Matryoschka. Next up: Crack Bellmer, Berlin on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Eklekt1k is a bass and dubstep artist based in Germany, with 13 gigs on soundche
 
 Hovercat, Dub Isotope, Matryoschka
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eklekt1k/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eklekt1k/)*

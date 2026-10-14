@@ -1,13 +1,14 @@
 # Boranimals
 
-Boranimals is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Resume Valencia, Valencia on Fri, 20 Nov 2026.
+Boranimals is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Club Malasaña, Madrid on Fri, 23 Oct 2026.
 
-Boranimals is a house and tech house artist based in Spain, with 19 gigs on soundcheck across Barcelona, Ibiza, Madrid and Valencia. Often billed alongside Goalmaker, AAPAES and Ion Pananides. Next up: Resume Valencia, Valencia on Fri 20 Nov.
+Boranimals is a house and electronica artist based in Spain, with 20 gigs on soundcheck across Barcelona, Ibiza, Madrid and Valencia. Often billed alongside Goalmaker, AAPAES and Ion Pananides. Next up: Club Malasaña, Madrid on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Club Malasaña | Madrid |
 | Fri, 20 Nov 2026 | Resume Valencia | Valencia |
 
 ## Recently played
@@ -25,4 +26,4 @@ Boranimals is a house and tech house artist based in Spain, with 19 gigs on soun
 
 Goalmaker, AAPAES, Ion Pananides
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boranimals/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boranimals/)*

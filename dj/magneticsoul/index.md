@@ -1,6 +1,6 @@
 # Magnetic Soul
 
-Magnetic Soul is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at OMA, Hong Kong on Fri, 30 Oct 2026.
+Magnetic Soul is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at OMA, Hong Kong on Fri, 30 Oct 2026.
 
 Magnetic Soul is a drum & bass and jungle artist, with 42 gigs on soundcheck across Bali, Hong Kong and Singapore. Often billed alongside Dan Stezo, Mengzy and NENENEKO. Next up: OMA, Hong Kong on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Magnetic Soul is a drum & bass and jungle artist, with 42 gigs on soundcheck acr
 
 Dan Stezo, Mengzy, NENENEKO
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magneticsoul/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magneticsoul/)*

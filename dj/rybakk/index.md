@@ -1,6 +1,6 @@
 # Rybakk
 
-Rybakk is a House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Dybbuk, Athens on Fri, 16 Oct 2026.
+Rybakk is a House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Dybbuk, Athens on Fri, 16 Oct 2026.
 
 Rybakk is a house artist, with 7 gigs on soundcheck across Athens. Often billed alongside BRB, Ale De Tuglie and CJ Jeff. Next up: Dybbuk, Athens on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Rybakk is a house artist, with 7 gigs on soundcheck across Athens. Often billed 
 
 BRB, Ale De Tuglie, CJ Jeff
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rybakk/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rybakk/)*

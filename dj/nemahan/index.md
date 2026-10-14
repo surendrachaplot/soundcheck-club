@@ -1,6 +1,6 @@
 # Nema Hän
 
-Nema Hän is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Bastet, Philadelphia on Sat, 17 Oct 2026.
+Nema Hän is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Bastet, Philadelphia on Sat, 17 Oct 2026.
 
 Nema Hän is a house and techno artist based in South Korea, with 63 gigs on soundcheck across Detroit, Los Angeles, Mexico City and Montreal and 5 more. Often billed alongside aka-Sol, Shvili and Corrina. Next up: Bastet, Philadelphia on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Nema Hän is a house and techno artist based in South Korea, with 63 gigs on sou
 
 aka-Sol, Shvili, Corrina
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nemahan/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nemahan/)*

@@ -1,6 +1,6 @@
 # The Ginger Lash
 
-The Ginger Lash is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Zinkbad Eventhalle, Zurich on Sat, 12 Dec 2026.
+The Ginger Lash is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Zinkbad Eventhalle, Zurich on Sat, 12 Dec 2026.
 
 The Ginger Lash is a techno and hardcore artist, with 7 gigs on soundcheck across Zurich. Often billed alongside Alan Lao, Das Amt and Kinnari. Next up: Zinkbad Eventhalle, Zurich on Sat 12 Dec.
 
@@ -23,4 +23,4 @@ The Ginger Lash is a techno and hardcore artist, with 7 gigs on soundcheck acros
 
 Alan Lao, Das Amt, Kinnari
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thegingerlash/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thegingerlash/)*

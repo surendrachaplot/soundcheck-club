@@ -1,18 +1,18 @@
 # nataliepops
 
-nataliepops is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Nowadays, New York City on Tue, 13 Oct 2026.
+nataliepops is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - BK, New York City on Sat, 17 Oct 2026.
 
-nataliepops is a techno and house artist based in United States of America, with 72 gigs on soundcheck across Mexico City, New York City and Washington DC. Often billed alongside ethereal.mvp, Pacha DJ and kyxm. Next up: Nowadays, New York City on Tue 13 Oct.
+nataliepops is a techno and house artist based in United States of America, with 72 gigs on soundcheck across Mexico City, New York City and Washington DC. Often billed alongside ethereal.mvp, Pacha DJ and kyxm. Next up: TBA - BK, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 13 Oct 2026 | Nowadays | New York City |
 | Sat, 17 Oct 2026 | TBA - BK | New York City |
 
 ## Recently played
 
+- Nowadays, New York City · Tue, 13 Oct 2026
 - TBA - Camp Tall Timbers, WV, Washington DC · Fri, 4 Sept 2026
 - Bossa Nova Civic Club, New York City · Mon, 27 Jul 2026
 - Mood Ring, New York City · Fri, 17 Jul 2026
@@ -20,10 +20,9 @@ nataliepops is a techno and house artist based in United States of America, with
 - Paragon, New York City · Thu, 28 May 2026
 - TBA - Secret Location, New York City · Fri, 8 May 2026
 - Honey's, New York City · Sun, 19 Apr 2026
-- public records, New York City · Fri, 13 Mar 2026
 
 ## Shares bills with
 
 ethereal.mvp, Pacha DJ, kyxm
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nataliepops/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nataliepops/)*

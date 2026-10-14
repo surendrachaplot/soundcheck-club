@@ -1,6 +1,6 @@
 # TBA - Downtown Los Angeles
 
-TBA - Downtown Los Angeles is a music venue in Los Angeles with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Certified Groovers: SHROOMIE [Vinyl Set - All Night]" on Sat, 17 Oct 2026.
+TBA - Downtown Los Angeles is a music venue in Los Angeles with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Certified Groovers: SHROOMIE [Vinyl Set - All Night]" on Sat, 17 Oct 2026.
 
 TBA - Downtown Los Angeles is a music venue in Los Angeles listed on soundcheck. 9 upcoming gigs, with line-ups including Avalon Emerson, Baauer, Bianca Oblivion and Cinthie and 2 more. See dates, start times and who's playing.
 
@@ -18,4 +18,4 @@ TBA - Downtown Los Angeles is a music venue in Los Angeles listed on soundcheck.
 | Sat, 28 Nov 2026 | Midnight Lovers with Demi Riquisimo - All Night Long | Demi Riquisimo |
 | Thu, 31 Dec 2026 | CERTIFIED GROOVERS NYE [72 HOURS NONSTOP] |  |
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*

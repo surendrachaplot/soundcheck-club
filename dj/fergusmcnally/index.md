@@ -1,6 +1,6 @@
 # fergusmcnally
 
-fergusmcnally is a Electro and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Many Studios, Glasgow on Sat, 24 Oct 2026.
+fergusmcnally is a Electro and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Many Studios, Glasgow on Sat, 24 Oct 2026.
 
 fergusmcnally is an electro and garage artist based in United Kingdom, with 15 gigs on soundcheck across Glasgow. Often billed alongside Work Coach, DJ ADHD and DJ CABLECAR. Next up: Many Studios, Glasgow on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ fergusmcnally is an electro and garage artist based in United Kingdom, with 15 g
 
 Work Coach, DJ ADHD, DJ CABLECAR
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fergusmcnally/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fergusmcnally/)*

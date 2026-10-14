@@ -1,14 +1,15 @@
 # Paul Ray
 
-Paul Ray is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Volta, Amsterdam on Wed, 21 Oct 2026.
+Paul Ray is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Volta, Amsterdam on Wed, 21 Oct 2026.
 
-Paul Ray is a techno and progressive house artist based in Germany, with 5 gigs on soundcheck across Amsterdam, Berlin, Munich and The Hague. Often billed alongside #Damur, Acid Rebels and Alienata. Next up: Volta, Amsterdam on Wed 21 Oct.
+Paul Ray is a techno and progressive house artist based in Germany, with 6 gigs on soundcheck across Amsterdam, Berlin, Munich and The Hague. Often billed alongside GVMEDNA, #Damur and Acid Rebels. Next up: Volta, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Volta | Amsterdam |
+| Fri, 6 Nov 2026 | OXI | Berlin |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ Paul Ray is a techno and progressive house artist based in Germany, with 5 gigs 
 
 ## Shares bills with
 
-#Damur, Acid Rebels, Alienata
+GVMEDNA, #Damur, Acid Rebels
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulray/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulray/)*

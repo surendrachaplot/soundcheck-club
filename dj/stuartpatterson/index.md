@@ -1,14 +1,15 @@
 # Stuart Patterson
 
-Stuart Patterson is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 18 Oct 2026.
+Stuart Patterson is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 18 Oct 2026.
 
-Stuart Patterson is a house and disco artist based in United Kingdom, with 70 gigs on soundcheck across Brighton, Cardiff, Ibiza and Krakow and 4 more. Often billed alongside Terry Farley, JARVIS and Tito Pulpo. Next up: Pikes Ibiza, Ibiza on Sun 18 Oct.
+Stuart Patterson is a house and disco artist based in United Kingdom, with 71 gigs on soundcheck across Brighton, Cardiff, Ibiza and Krakow and 4 more. Often billed alongside Terry Farley, JARVIS and Tito Pulpo. Next up: Pikes Ibiza, Ibiza on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 18 Oct 2026 | Pikes Ibiza | Ibiza |
+| Sat, 14 Nov 2026 | The Eagle | London |
 | Fri, 1 Jan 2027 | The Light Bar | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Stuart Patterson is a house and disco artist based in United Kingdom, with 70 gi
 
 Terry Farley, JARVIS, Tito Pulpo
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stuartpatterson/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stuartpatterson/)*

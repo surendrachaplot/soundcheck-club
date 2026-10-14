@@ -1,13 +1,14 @@
 # Liza
 
-Liza is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Bar Feijoa, Amsterdam on Sun, 25 Oct 2026.
+Liza is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Blvck Water, Osaka on Mon, 19 Oct 2026.
 
-Liza is a techno and house artist based in Germany, with 46 gigs on soundcheck across Amsterdam, Barcelona, Dublin and Osaka and 4 more. Often billed alongside FENGX2, ZAGUN and _goodbyeforever_. Next up: Bar Feijoa, Amsterdam on Sun 25 Oct.
+Liza is a techno and house artist based in Germany, with 47 gigs on soundcheck across Amsterdam, Barcelona, Dublin and Osaka and 4 more. Often billed alongside FENGX2, ZAGUN and _goodbyeforever_. Next up: Blvck Water, Osaka on Mon 19 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 19 Oct 2026 | Blvck Water | Osaka |
 | Sun, 25 Oct 2026 | Bar Feijoa | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Liza is a techno and house artist based in Germany, with 46 gigs on soundcheck a
 
 FENGX2, ZAGUN, _goodbyeforever_
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liza/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liza/)*

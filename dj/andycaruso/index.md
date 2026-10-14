@@ -1,6 +1,6 @@
 # Andy Caruso
 
-Andy Caruso is a Disco and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Hotel Pelirocco Bar, Brighton on Thu, 15 Oct 2026.
+Andy Caruso is a Disco and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Hotel Pelirocco Bar, Brighton on Thu, 15 Oct 2026.
 
 Andy Caruso is a disco and deep house artist based in United Kingdom, with 24 gigs on soundcheck across Brighton, London, Mexico City and Milan. Often billed alongside Davide Del Vecchio, LOVE SOUND SYSTEM and BODYHEAT. Next up: Hotel Pelirocco Bar, Brighton on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Andy Caruso is a disco and deep house artist based in United Kingdom, with 24 gi
 
 Davide Del Vecchio, LOVE SOUND SYSTEM, BODYHEAT
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andycaruso/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andycaruso/)*

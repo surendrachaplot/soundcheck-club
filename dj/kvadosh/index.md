@@ -1,6 +1,6 @@
 # kvadosh
 
-kvadosh is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Bageion Hotel, Athens on Sat, 17 Oct 2026.
+kvadosh is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Bageion Hotel, Athens on Sat, 17 Oct 2026.
 
 kvadosh is an experimental and club artist based in Greece, with 39 gigs on soundcheck across Athens, Berlin and Milan. Often billed alongside Troy Violens, Jeph Vanger and Miss Trouli. Next up: Bageion Hotel, Athens on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ kvadosh is an experimental and club artist based in Greece, with 39 gigs on soun
 
 Troy Violens, Jeph Vanger, Miss Trouli
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kvadosh/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kvadosh/)*

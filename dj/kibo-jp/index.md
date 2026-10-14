@@ -1,6 +1,6 @@
 # KIBΘ
 
-KIBΘ is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at WOMB, Tokyo on Sun, 18 Oct 2026.
+KIBΘ is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at WOMB, Tokyo on Sun, 18 Oct 2026.
 
 KIBΘ is a techno and tech house artist, with 4 gigs on soundcheck across Tokyo. Often billed alongside AiMii, CHIKA and Calavera. Next up: WOMB, Tokyo on Sun 18 Oct.
 
@@ -20,4 +20,4 @@ KIBΘ is a techno and tech house artist, with 4 gigs on soundcheck across Tokyo.
 
 AiMii, CHIKA, Calavera
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kibo-jp/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kibo-jp/)*

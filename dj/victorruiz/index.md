@@ -1,6 +1,6 @@
 # Victor Ruiz
 
-Victor Ruiz is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
+Victor Ruiz is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
 
 Victor Ruiz is a techno and trance artist based in Brazil, with 105 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 42 more. Often billed alongside Alex Stein, Bart Skils and Sama' Abdulhadi. Next up: Iter Tenerife, Canary Islands on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ Victor Ruiz is a techno and trance artist based in Brazil, with 105 gigs on soun
 
 Alex Stein, Bart Skils, Sama' Abdulhadi
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victorruiz/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victorruiz/)*

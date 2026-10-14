@@ -1,6 +1,6 @@
 # L.P. Rhythm - Montréal at Newspeak
 
-L.P. Rhythm - Montréal at Newspeak on Fri 16 Oct, Montreal. 1 artist: L.P. Rhythm. House and Minimal. See the line-up on soundcheck.
+L.P. Rhythm - Montréal at Newspeak on Fri 16 Oct, Montreal. 2 artists: Flytz and L.P. Rhythm. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ L.P. Rhythm - Montréal at Newspeak on Fri 16 Oct, Montreal. 1 artist: L.P. Rhyt
 
 ## Line-up
 
+- Flytz
 - L.P. Rhythm
 
 *Source: [soundcheck](https://soundcheck.club/e/2518057-l-p-rhythm-montr-al-at-newspeak/)*

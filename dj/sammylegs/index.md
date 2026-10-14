@@ -1,14 +1,15 @@
 # Sammy Legs
 
-Sammy Legs is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA, Victoria on Fri, 30 Oct 2026.
+Sammy Legs is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Victoria on Fri, 30 Oct 2026.
 
-Sammy Legs is a techno and house artist, with 13 gigs on soundcheck across Chicago, Melbourne, New York City and San Diego and 4 more. Often billed alongside Kaipora, Torie and Britton. Next up: TBA, Victoria on Fri 30 Oct.
+Sammy Legs is a techno and tech house artist, with 14 gigs on soundcheck across Chicago, Melbourne, New York City and San Diego and 4 more. Often billed alongside Chillosophy, Kaipora and Torie. Next up: TBA, Victoria on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | TBA | Victoria |
+| Sat, 5 Dec 2026 | TBA - Secret Bushwick Location  | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Sammy Legs is a techno and house artist, with 13 gigs on soundcheck across Chica
 
 ## Shares bills with
 
-Kaipora, Torie, Britton
+Chillosophy, Kaipora, Torie
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sammylegs/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sammylegs/)*

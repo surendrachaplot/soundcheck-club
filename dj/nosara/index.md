@@ -1,6 +1,6 @@
 # NØSARA
 
-NØSARA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Teritorija, Riga on Fri, 11 Dec 2026.
+NØSARA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Teritorija, Riga on Fri, 11 Dec 2026.
 
 NØSARA is a techno and house artist based in Finland, with 14 gigs on soundcheck across Helsinki, Riga and Tallinn. Often billed alongside ANNDRA, Ekitech and RSKS. Next up: Teritorija, Riga on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ NØSARA is a techno and house artist based in Finland, with 14 gigs on soundchec
 
 ANNDRA, Ekitech, RSKS
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nosara/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nosara/)*

@@ -1,6 +1,6 @@
 # Daniel Vila
 
-Daniel Vila is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Silence Please, New York City on Thu, 15 Oct 2026.
+Daniel Vila is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Silence Please, New York City on Thu, 15 Oct 2026.
 
 Daniel Vila is an ambient and experimental artist, with 9 gigs on soundcheck across New York City. Often billed alongside Andi, Bell Domin and For Future's Sake. Next up: Silence Please, New York City on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Daniel Vila is an ambient and experimental artist, with 9 gigs on soundcheck acr
 
 Andi, Bell Domin, For Future's Sake
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielvila/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielvila/)*

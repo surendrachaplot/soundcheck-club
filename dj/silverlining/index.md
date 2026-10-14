@@ -1,8 +1,8 @@
 # Silverlining
 
-Silverlining is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at La Démesure, Paris on Sat, 17 Oct 2026.
+Silverlining is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at La Démesure, Paris on Sat, 17 Oct 2026.
 
-Silverlining is a house and tech house artist based in United Kingdom, with 102 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 20 more. Often billed alongside 3 Minds, Sueezo and Trixie (UK). Next up: La Démesure, Paris on Sat 17 Oct.
+Silverlining is a house and tech house artist based in United Kingdom, with 103 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 20 more. Often billed alongside 3 Minds, Sueezo and Trixie (UK). Next up: La Démesure, Paris on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Silverlining is a house and tech house artist based in United Kingdom, with 102 
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | La Démesure | Paris |
 | Sat, 24 Oct 2026 | Legal | Munich |
+| Sat, 5 Dec 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Silverlining is a house and tech house artist based in United Kingdom, with 102 
 
 3 Minds, Sueezo, Trixie (UK)
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silverlining/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silverlining/)*

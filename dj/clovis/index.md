@@ -1,6 +1,6 @@
 # Clovis
 
-Clovis is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Golden Gate, Berlin on Fri, 16 Oct 2026.
+Clovis is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Golden Gate, Berlin on Fri, 16 Oct 2026.
 
 Clovis is a house and minimal artist based in Germany, with 96 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 15 more. Often billed alongside Cesar Merveille, Topper and Inner. Next up: Golden Gate, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Clovis is a house and minimal artist based in Germany, with 96 gigs on soundchec
 
 Cesar Merveille, Topper, Inner
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clovis/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clovis/)*

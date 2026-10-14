@@ -1,14 +1,17 @@
 # liberty (JP)
 
-liberty (JP) is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at or, Tokyo on Sun, 18 Oct 2026.
+liberty (JP) is a House and Balearic artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at or, Tokyo on Sun, 18 Oct 2026.
 
-liberty (JP) is a house and balearic artist based in Japan, with 38 gigs on soundcheck across Tokyo. Often billed alongside Anri, Yamariki and Ayantula. Next up: or, Tokyo on Sun 18 Oct.
+liberty (JP) is a house and balearic artist based in Japan, with 41 gigs on soundcheck across Tokyo. Often billed alongside Yamariki, Anri and Ayantula. Next up: or, Tokyo on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 18 Oct 2026 | or | Tokyo |
+| Wed, 21 Oct 2026 | BRAND SHIBUYA | Tokyo |
+| Fri, 30 Oct 2026 | Cafein | Tokyo |
+| Sun, 29 Nov 2026 | or | Tokyo |
 
 ## Recently played
 
@@ -23,6 +26,6 @@ liberty (JP) is a house and balearic artist based in Japan, with 38 gigs on soun
 
 ## Shares bills with
 
-Anri (2), Yamariki, Ayantula
+Yamariki, Anri (2), Ayantula
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liberty-jp/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liberty-jp/)*

@@ -1,6 +1,6 @@
 # Absturz
 
-Absturz is a music venue in Leipzig with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "BPM ERA Run & Rave Afterparty" on Thu, 15 Oct 2026.
+Absturz is a music venue in Leipzig with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "BPM ERA Run & Rave Afterparty" on Thu, 15 Oct 2026.
 
 Absturz is a music venue in Leipzig listed on soundcheck. 5 upcoming gigs, with line-ups including DJ.PRO.PHET, Mariposa x Lyra, Richie Rollin and Sebastian Strootmann. See dates, start times and who's playing. Karl-Liebknecht-Str. 36, 04107 Leipzig.
 
@@ -18,4 +18,4 @@ Absturz is a music venue in Leipzig listed on soundcheck. 5 upcoming gigs, with 
 
 Karl-Liebknecht-Str. 36, 04107 Leipzig, Leipzig
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/absturz/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/absturz/)*

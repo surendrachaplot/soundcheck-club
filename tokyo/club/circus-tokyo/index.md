@@ -1,6 +1,6 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 15 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "SIREN OF SOUL" on Fri, 16 Oct 2026.
+Circus Tokyo is a music venue in Tokyo with 15 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "SIREN OF SOUL" on Fri, 16 Oct 2026.
 
 Circus Tokyo is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, with line-ups including Acrocanthosaurus, Azumai, Blacky and cirra and 2 more. See dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
@@ -23,4 +23,4 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, w
 
 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002, Tokyo
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*

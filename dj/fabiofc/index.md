@@ -1,6 +1,6 @@
 # Fabio FC
 
-Fabio FC is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Oberhaum, Amsterdam on Fri, 23 Oct 2026.
+Fabio FC is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Oberhaum, Amsterdam on Fri, 23 Oct 2026.
 
 Fabio FC is a techno and house artist, with 6 gigs on soundcheck across Amsterdam, Milan and Prague. Often billed alongside DNN, ARMANDO and Al Paino. Next up: Oberhaum, Amsterdam on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ Fabio FC is a techno and house artist, with 6 gigs on soundcheck across Amsterda
 
 DNN, ARMANDO, Al Paino
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiofc/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiofc/)*

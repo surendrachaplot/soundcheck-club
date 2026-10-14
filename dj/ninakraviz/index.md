@@ -1,6 +1,6 @@
 # Nina Kraviz
 
-Nina Kraviz is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Sonora Bordeaux, Bordeaux on Fri, 16 Oct 2026.
+Nina Kraviz is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Sonora Bordeaux, Bordeaux on Fri, 16 Oct 2026.
 
 Nina Kraviz is a techno and house artist based in Russia, with 156 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 48 more. Often billed alongside Adiel, Héctor Oaks and I Hate Models. Next up: Sonora Bordeaux, Bordeaux on Fri 16 Oct.
 
@@ -31,4 +31,4 @@ Nina Kraviz is a techno and house artist based in Russia, with 156 gigs on sound
 
 Adiel, Héctor Oaks, I Hate Models
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninakraviz/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninakraviz/)*

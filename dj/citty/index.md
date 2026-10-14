@@ -1,6 +1,6 @@
 # Citty
 
-Citty is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Stadion Strahov, Prague on Fri, 13 Nov 2026.
+Citty is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Stadion Strahov, Prague on Fri, 13 Nov 2026.
 
 Citty is an ambient and techno artist based in Czech Republic, with 21 gigs on soundcheck across Berlin and Prague. Often billed alongside Nior, Axis Alpha and Elektrabel. Next up: Stadion Strahov, Prague on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Citty is an ambient and techno artist based in Czech Republic, with 21 gigs on s
 
 Nior, Axis Alpha, Elektrabel
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/citty/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/citty/)*

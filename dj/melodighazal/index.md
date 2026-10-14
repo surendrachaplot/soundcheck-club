@@ -1,6 +1,6 @@
 # Melodi Ghazal
 
-Melodi Ghazal is a Pop and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Basement Vesterbro, Copenhagen on Sat, 17 Oct 2026.
+Melodi Ghazal is a Pop and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Basement Vesterbro, Copenhagen on Sat, 17 Oct 2026.
 
 Melodi Ghazal is a pop and trance artist, with 11 gigs on soundcheck across Copenhagen. Often billed alongside Fine, Ydegirl and haloplus+. Next up: Basement Vesterbro, Copenhagen on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Melodi Ghazal is a pop and trance artist, with 11 gigs on soundcheck across Cope
 
 Fine (2), Ydegirl, haloplus+
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melodighazal/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melodighazal/)*

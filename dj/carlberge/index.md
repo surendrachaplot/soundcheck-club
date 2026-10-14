@@ -1,14 +1,15 @@
 # Carl Bergé
 
-Carl Bergé is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Chinois Ibiza, Ibiza on Fri, 16 Oct 2026.
+Carl Bergé is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Chinois Ibiza, Ibiza on Fri, 16 Oct 2026.
 
-Carl Bergé is a house and techno artist based in Germany, with 74 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 7 more. Often billed alongside Talia Dorr, Pauly and BERF. Next up: Chinois Ibiza, Ibiza on Fri 16 Oct.
+Carl Bergé is a house and techno artist based in Germany, with 75 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 7 more. Often billed alongside Talia Dorr, Pauly and BERF. Next up: Chinois Ibiza, Ibiza on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Chinois Ibiza | Ibiza |
+| Sat, 24 Oct 2026 | Studio1111 | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Carl Bergé is a house and techno artist based in Germany, with 74 gigs on sound
 
 Talia Dorr, Pauly, BERF
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlberge/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlberge/)*

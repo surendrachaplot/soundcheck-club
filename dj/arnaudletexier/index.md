@@ -1,6 +1,6 @@
 # Arnaud Le Texier
 
-Arnaud Le Texier is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Glazart, Paris on Sat, 31 Oct 2026.
+Arnaud Le Texier is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Glazart, Paris on Sat, 31 Oct 2026.
 
 Arnaud Le Texier is a techno and trance artist based in France, with 20 gigs on soundcheck across Amsterdam, Denmark, Ibiza and London and 5 more. Often billed alongside Antonio De Angelis, Pre Silent and ADRI.G. Next up: Glazart, Paris on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Arnaud Le Texier is a techno and trance artist based in France, with 20 gigs on 
 
 Antonio De Angelis, Pre Silent, ADRI.G
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arnaudletexier/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arnaudletexier/)*

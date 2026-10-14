@@ -1,6 +1,6 @@
 # REO (UK)
 
-REO (UK) is a Broken Beat and Jazz artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Nico's Bar at Hackney Bridge, London on Fri, 23 Oct 2026.
+REO (UK) is a Broken Beat and Jazz artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Nico's Bar at Hackney Bridge, London on Fri, 23 Oct 2026.
 
 REO (UK) is a broken beat and jazz artist based in United Kingdom, with 4 gigs on soundcheck across Leeds, London and San Francisco/Oakland. Often billed alongside CasuallyClued, Juno and Marvin Jupiter. Next up: Nico's Bar at Hackney Bridge, London on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ REO (UK) is a broken beat and jazz artist based in United Kingdom, with 4 gigs o
 
 CasuallyClued, Juno (4), Marvin Jupiter
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reo-uk/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reo-uk/)*

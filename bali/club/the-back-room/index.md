@@ -1,6 +1,6 @@
 # The Back Room
 
-The Back Room is a music venue in Bali with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "LUNAX" on Sat, 17 Oct 2026.
+The Back Room is a music venue in Bali with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "LUNAX" on Sat, 17 Oct 2026.
 
 The Back Room is a music venue in Bali listed on soundcheck. 1 upcoming gig, with line-ups including CPSL, Polyfaer and YOGV. See dates, start times and who's playing. Jl. Pantai Batu Bolong No.39a, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia.
 
@@ -14,4 +14,4 @@ The Back Room is a music venue in Bali listed on soundcheck. 1 upcoming gig, wit
 
 Jl. Pantai Batu Bolong No.39a, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia, Bali
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/the-back-room/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/the-back-room/)*

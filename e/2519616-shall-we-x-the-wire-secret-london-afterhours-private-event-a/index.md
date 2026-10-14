@@ -16,7 +16,7 @@ SHALL WE? x THE WIRE: SECRET LONDON AFTERHOURS - PRIVATE EVENT at TBA - EAST LON
 - IRENÆ
 - mayflowduo
 - Moonz
-- Pharo
+- Phåro (2)
 - Shallum
 
 *Source: [soundcheck](https://soundcheck.club/e/2519616-shall-we-x-the-wire-secret-london-afterhours-private-event-a/)*

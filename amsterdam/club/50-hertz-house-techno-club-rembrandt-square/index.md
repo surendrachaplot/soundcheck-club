@@ -1,6 +1,6 @@
 # 50:HERTZ HOUSE & TECHNO Club Rembrandt Square
 
-50:HERTZ HOUSE & TECHNO Club Rembrandt Square is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "AEVUM" on Wed, 21 Oct 2026.
+50:HERTZ HOUSE & TECHNO Club Rembrandt Square is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "AEVUM" on Wed, 21 Oct 2026.
 
 50:HERTZ HOUSE & TECHNO Club Rembrandt Square is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Alena Noctis, Amethy, Barbur and DAN:EZ and 2 more. See dates, start times and who's playing. Rembrandtplein 45, 1017 CT, Amsterdam.
 
@@ -20,4 +20,4 @@
 
 Rembrandtplein 45, 1017 CT, Amsterdam, Amsterdam
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/50-hertz-house-techno-club-rembrandt-square/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/50-hertz-house-techno-club-rembrandt-square/)*

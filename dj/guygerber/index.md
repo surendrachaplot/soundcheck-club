@@ -1,6 +1,6 @@
 # Guy Gerber
 
-Guy Gerber is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Silencio, Paris on Thu, 22 Oct 2026.
+Guy Gerber is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Silencio, Paris on Thu, 22 Oct 2026.
 
 Guy Gerber is a house and techno artist based in Israel, with 130 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 25 more. Often billed alongside Noncitizens, Saraga and Annicka. Next up: Silencio, Paris on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Guy Gerber is a house and techno artist based in Israel, with 130 gigs on soundc
 
 Noncitizens, Saraga, Annicka
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guygerber/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guygerber/)*

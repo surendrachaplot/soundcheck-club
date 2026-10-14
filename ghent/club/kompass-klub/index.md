@@ -1,6 +1,6 @@
 # Kompass Klub
 
-Kompass Klub is a music venue in Ghent with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Vieze Asbak at Kompass (ALL NIGHT LONG)" on Fri, 16 Oct 2026.
+Kompass Klub is a music venue in Ghent with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Vieze Asbak at Kompass (ALL NIGHT LONG)" on Fri, 16 Oct 2026.
 
 Kompass Klub is a music venue in Ghent listed on soundcheck. 8 upcoming gigs, with line-ups including Alignment, Azo, Bad Boombox and Basstripper and 2 more. See dates, start times and who's playing. Vliegtuiglaan 12, 9000 Gent - Belgium.
 
@@ -21,4 +21,4 @@ Kompass Klub is a music venue in Ghent listed on soundcheck. 8 upcoming gigs, wi
 
 Vliegtuiglaan 12, 9000 Gent - Belgium, Ghent
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/kompass-klub/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/kompass-klub/)*

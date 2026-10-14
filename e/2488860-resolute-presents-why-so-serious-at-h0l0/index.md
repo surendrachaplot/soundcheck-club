@@ -1,6 +1,6 @@
 # ReSolute presents: Why So Serious! at H0L0
 
-ReSolute presents: Why So Serious! at H0L0 on Sat 31 Oct, New York City. 23 artists: Argenis Brito, Caruan, Connie and Dan Shake and 19 more. Techno and House. See the line-up on soundcheck.
+ReSolute presents: Why So Serious! at H0L0 on Sat 31 Oct, New York City. 22 artists: Argenis Brito, Connie, Dan Shake and Dandy Jack and 18 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ ReSolute presents: Why So Serious! at H0L0 on Sat 31 Oct, New York City. 23 arti
 ## Line-up
 
 - Argenis Brito
-- Caruan
 - Connie
 - Dan Shake
 - Dandy Jack

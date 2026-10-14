@@ -1,6 +1,6 @@
 # Llupe
 
-Llupe is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Paloma, Berlin on Thu, 22 Oct 2026.
+Llupe is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Paloma, Berlin on Thu, 22 Oct 2026.
 
 Llupe is a house and acid artist based in Spain, with 31 gigs on soundcheck across Berlin, Madrid, Mexico City and Prague. Often billed alongside DJ Aficionado, Eleonora K and Frinda di Lanco. Next up: Paloma, Berlin on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Llupe is a house and acid artist based in Spain, with 31 gigs on soundcheck acro
 
 DJ Aficionado, Eleonora K, Frinda di Lanco
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/llupe/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/llupe/)*

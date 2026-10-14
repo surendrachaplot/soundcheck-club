@@ -1,8 +1,8 @@
 # H-Foundation
 
-H-Foundation is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at BRET, Amsterdam on Sat, 24 Oct 2026.
+H-Foundation is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at BRET, Amsterdam on Sat, 24 Oct 2026.
 
-H-Foundation is a tech house and house artist based in United States of America, with 12 gigs on soundcheck across Amsterdam, Chicago, Denver and London and 4 more. Often billed alongside Frank Haag, Halo Varga and Hipp-e. Next up: BRET, Amsterdam on Sat 24 Oct.
+H-Foundation is a tech house and house artist based in United States of America, with 13 gigs on soundcheck across Amsterdam, Chicago, Denver and London and 5 more. Often billed alongside Doc Martin, Frank Haag and Halo Varga. Next up: BRET, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ H-Foundation is a tech house and house artist based in United States of America,
 | Fri, 30 Oct 2026 | Soup | Manchester |
 | Sat, 31 Oct 2026 | The Cause | London |
 | Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |
+| Sat, 28 Nov 2026 | Quartyard | San Diego |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ H-Foundation is a tech house and house artist based in United States of America,
 
 ## Shares bills with
 
-Frank Haag, Halo Varga, Hipp-e
+Doc Martin, Frank Haag, Halo Varga
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hfoundation/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hfoundation/)*

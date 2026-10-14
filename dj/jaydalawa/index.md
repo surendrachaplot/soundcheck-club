@@ -1,6 +1,6 @@
 # Jay Dalawa
 
-Jay Dalawa is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Elsewhere, New York City on Sat, 17 Oct 2026.
+Jay Dalawa is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Elsewhere, New York City on Sat, 17 Oct 2026.
 
 Jay Dalawa is a house and disco artist based in Philippines, with 35 gigs on soundcheck across Detroit and New York City. Often billed alongside LANSUH, Alcantara and Gabriel Etrata. Next up: Elsewhere, New York City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Jay Dalawa is a house and disco artist based in Philippines, with 35 gigs on sou
 
 LANSUH, Alcantara, Gabriel Etrata
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydalawa/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydalawa/)*

@@ -1,6 +1,6 @@
 # ☆ GOODNIGHT.AT x PRST #2 ☆ at PRST
 
-☆ GOODNIGHT.AT x PRST #2 ☆ on Thu 22 Oct, Vienna. 2 artists: KRAWALLBARBIE and WO.IZZY. Trance and Techno. See the line-up on soundcheck.
+☆ GOODNIGHT.AT x PRST #2 ☆ on Thu 22 Oct, Vienna. 3 artists: Alexis Hera, KRAWALLBARBIE and WO.IZZY. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- Alexis Hera
 - KRAWALLBARBIE
 - WO.IZZY
 

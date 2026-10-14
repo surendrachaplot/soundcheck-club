@@ -1,8 +1,8 @@
 # Bangkok Island
 
-Bangkok Island is a music venue in Bangkok with 14 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "THE WEEKND BOAT PARTY by ONLYUS" on Wed, 14 Oct 2026.
+Bangkok Island is a music venue in Bangkok with 15 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "THE WEEKND BOAT PARTY by ONLYUS" on Wed, 14 Oct 2026.
 
-Bangkok Island is a music venue in Bangkok listed on soundcheck. 14 upcoming gigs, with line-ups including Connect, More, Selecta (ES) and SM. See dates, start times and who's playing. 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120.
+Bangkok Island is a music venue in Bangkok listed on soundcheck. 15 upcoming gigs, with line-ups including Connect, More, Selecta (ES) and SM. See dates, start times and who's playing. 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Bangkok Island is a music venue in Bangkok listed on soundcheck. 14 upcoming gig
 
 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120, Bangkok
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bangkok-island/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bangkok-island/)*

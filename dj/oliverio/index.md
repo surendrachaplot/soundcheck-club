@@ -1,6 +1,6 @@
 # Oliverio
 
-Oliverio is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at WOMB, Tokyo on Sat, 7 Nov 2026.
+Oliverio is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at WOMB, Tokyo on Sat, 7 Nov 2026.
 
 Oliverio is a progressive house and house artist based in Argentina, with 9 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Osaka and 1 more. Often billed alongside DJ OGAWA, Graziano Raffa and Hernan Cattaneo. Next up: WOMB, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Oliverio is a progressive house and house artist based in Argentina, with 9 gigs
 
 DJ OGAWA, Graziano Raffa, Hernan Cattaneo
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverio/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverio/)*

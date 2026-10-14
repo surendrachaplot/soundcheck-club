@@ -1,6 +1,6 @@
 # Allius
 
-Allius is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Eastern Bloc Records, Manchester on Fri, 23 Oct 2026.
+Allius is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Eastern Bloc Records, Manchester on Fri, 23 Oct 2026.
 
 Allius is a techno and house artist based in United Kingdom, with 44 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Cersy, ngoma and Channell. Next up: Eastern Bloc Records, Manchester on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Allius is a techno and house artist based in United Kingdom, with 44 gigs on sou
 
 Cersy, ngoma, Channell
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/allius/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/allius/)*

@@ -1,6 +1,6 @@
 # DJ Con
 
-DJ Con is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Snappy's Small Bar, Washington DC on Fri, 23 Oct 2026.
+DJ Con is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Snappy's Small Bar, Washington DC on Fri, 23 Oct 2026.
 
 DJ Con is a house and club artist, with 27 gigs on soundcheck across Washington DC. Often billed alongside Kenny M, DJ Eddy Bauer and Nocturnal Wax. Next up: Snappy's Small Bar, Washington DC on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ DJ Con is a house and club artist, with 27 gigs on soundcheck across Washington 
 
 Kenny M, DJ Eddy Bauer, Nocturnal Wax
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcon/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcon/)*

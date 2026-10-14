@@ -1,6 +1,6 @@
 # Ken Spieker
 
-Ken Spieker is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Club Royal, Amsterdam on Thu, 22 Oct 2026.
+Ken Spieker is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Club Royal, Amsterdam on Thu, 22 Oct 2026.
 
 Ken Spieker is a house and garage artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam, Bali, Melbourne and The Hague and 1 more. Often billed alongside Cas Tang, Ive Lovers and Joris van Gelder. Next up: Club Royal, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Ken Spieker is a house and garage artist based in Netherlands, with 13 gigs on s
 
 Cas Tang, Ive Lovers, Joris van Gelder
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenspieker/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenspieker/)*

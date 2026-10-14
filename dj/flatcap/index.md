@@ -1,6 +1,6 @@
 # flatcap
 
-flatcap is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Aaja Basement, London on Sat, 24 Oct 2026.
+flatcap is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Aaja Basement, London on Sat, 24 Oct 2026.
 
 flatcap is a techno and bass artist, with 12 gigs on soundcheck across Berlin, London and Mexico City. Often billed alongside Cam Joon, Manami and Octoptic. Next up: Aaja Basement, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ flatcap is a techno and bass artist, with 12 gigs on soundcheck across Berlin, L
 
 Cam Joon, Manami, Octoptic
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flatcap/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flatcap/)*

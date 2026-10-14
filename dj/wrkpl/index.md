@@ -1,6 +1,6 @@
 # WRK (PL)
 
-WRK (PL) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Transformator, Wroclaw on Sat, 31 Oct 2026.
+WRK (PL) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Transformator, Wroclaw on Sat, 31 Oct 2026.
 
 WRK (PL) is a techno and trance artist based in Poland, with 19 gigs on soundcheck across Berlin, Krakow, London and Warsaw and 1 more. Often billed alongside ANXHELA, MERVH and VIVØ. Next up: Transformator, Wroclaw on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ WRK (PL) is a techno and trance artist based in Poland, with 19 gigs on soundche
 
 ANXHELA, MERVH, VIVØ
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wrkpl/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wrkpl/)*

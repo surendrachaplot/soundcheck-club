@@ -1,8 +1,8 @@
 # The Lubber Fiend
 
-The Lubber Fiend is a music venue in Newcastle with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Wynding Floor: Katiusha w' Two French Tek Lads & Sheep Paralysis (live)" on Sat, 24 Oct 2026.
+The Lubber Fiend is a music venue in Newcastle with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Wynding Floor: Katiusha w' Two French Tek Lads & Sheep Paralysis (live)" on Sat, 24 Oct 2026.
 
-The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 9 upcoming gigs, with line-ups including Budino, Bunney, Elijah Minnelli and Ghost Dubs and 2 more. See dates, start times and who's playing. 81 Blandford St., Newcastle upon Tyne NE1 3PZ.
+The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 9 upcoming gigs, with line-ups including Berwick (Live), Budino, Bunney and Elijah Minnelli and 2 more. See dates, start times and who's playing. 81 Blandford St., Newcastle upon Tyne NE1 3PZ.
 
 ## What's on
 
@@ -14,7 +14,7 @@ The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 9 upcoming 
 | Fri, 20 Nov 2026 | Budino & Bunney | Budino, Bunney |
 | Fri, 27 Nov 2026 | Ambo Club w. Phuong-Dan, Love-Songs, Acid Drones + more | Jon Cornbill, Phuong Dan |
 | Sat, 28 Nov 2026 | DoNotDisturb presents // Redshift | Redshift (2) |
-| Sat, 5 Dec 2026 | Patrol Records x Keep Moovin' presents... TBA |  |
+| Sat, 5 Dec 2026 | Patrol Records x Keep Moovin' presents... Berwick (Live) | Berwick (Live), FroD, LA!NE, PIP. |
 | Sat, 12 Dec 2026 | Ghost Dubs, Elijah Minnelli + support | Elijah Minnelli, Ghost Dubs |
 | Thu, 31 Dec 2026 | LUBBER FIEND NYE | Jon Cornbill |
 
@@ -22,4 +22,4 @@ The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 9 upcoming 
 
 81 Blandford St., Newcastle upon Tyne NE1 3PZ, Newcastle
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-lubber-fiend/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-lubber-fiend/)*

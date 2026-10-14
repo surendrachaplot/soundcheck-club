@@ -1,6 +1,6 @@
 # Erkin Antov
 
-Erkin Antov is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Baltachill, Tallinn on Fri, 16 Oct 2026.
+Erkin Antov is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Baltachill, Tallinn on Fri, 16 Oct 2026.
 
 Erkin Antov is a house and broken beat artist, with 10 gigs on soundcheck across Tallinn. Often billed alongside Renno Paat, Vahtra and Daniel Monaco. Next up: Baltachill, Tallinn on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Erkin Antov is a house and broken beat artist, with 10 gigs on soundcheck across
 
 Renno Paat, Vahtra, Daniel Monaco
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erkinantov/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erkinantov/)*

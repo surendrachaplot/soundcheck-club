@@ -1,6 +1,6 @@
 # Olivia Mendez
 
-Olivia Mendez is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Gaffe, London on Sat, 17 Oct 2026.
+Olivia Mendez is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Gaffe, London on Sat, 17 Oct 2026.
 
 Olivia Mendez is a techno and house artist based in France, with 151 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Chami, Blasha & Allatt and Freddy K. Next up: Gaffe, London on Sat 17 Oct.
 
@@ -32,4 +32,4 @@ Olivia Mendez is a techno and house artist based in France, with 151 gigs on sou
 
 Chami, Blasha & Allatt, Freddy K
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviamendez/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviamendez/)*

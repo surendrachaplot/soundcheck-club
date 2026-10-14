@@ -1,6 +1,6 @@
 # Romain Fx
 
-Romain Fx is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 21 Nov 2026.
+Romain Fx is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 21 Nov 2026.
 
 Romain Fx is a house and disco artist based in China, with 53 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bucharest and 20 more. Often billed alongside Maï-Linh, Ryu and KOTSU. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Romain Fx is a house and disco artist based in China, with 53 gigs on soundcheck
 
 Maï-Linh, Ryu (2), KOTSU
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romainfx/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romainfx/)*

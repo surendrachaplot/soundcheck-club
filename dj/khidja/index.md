@@ -1,13 +1,14 @@
 # Khidja
 
-Khidja is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Recyclart, Brussels on Sat, 31 Oct 2026.
+Khidja is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Platforma Wolff, Bucharest on Sat, 24 Oct 2026.
 
-Khidja is a techno and electronica artist based in Romania, with 45 gigs on soundcheck across Belgrade, Berlin, Brussels and Bucharest and 6 more. Often billed alongside Katzele, Marius Georgescu and Fantastic Twins. Next up: Recyclart, Brussels on Sat 31 Oct.
+Khidja is a techno and electronica artist based in Romania, with 46 gigs on soundcheck across Belgrade, Berlin, Brussels and Bucharest and 6 more. Often billed alongside Katzele, Marius Georgescu and Fantastic Twins. Next up: Platforma Wolff, Bucharest on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Platforma Wolff | Bucharest |
 | Sat, 31 Oct 2026 | Recyclart | Brussels |
 
 ## Recently played
@@ -25,4 +26,4 @@ Khidja is a techno and electronica artist based in Romania, with 45 gigs on soun
 
 Katzele, Marius Georgescu, Fantastic Twins
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khidja/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khidja/)*

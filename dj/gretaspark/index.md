@@ -1,6 +1,6 @@
 # Greta Spark
 
-Greta Spark is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at KREUZWERK, Berlin on Fri, 13 Nov 2026.
+Greta Spark is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at KREUZWERK, Berlin on Fri, 13 Nov 2026.
 
 Greta Spark is a house and techno artist based in Germany, with 25 gigs on soundcheck across Berlin, Cologne, Hamburg and Ibiza and 3 more. Often billed alongside Dj Norma, Power Squad and Immy. Next up: KREUZWERK, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Greta Spark is a house and techno artist based in Germany, with 25 gigs on sound
 
 Dj Norma, Power Squad, Immy
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gretaspark/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gretaspark/)*

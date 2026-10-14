@@ -1,6 +1,6 @@
 # Ellis
 
-Ellis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Sun, 25 Oct 2026.
+Ellis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Sun, 25 Oct 2026.
 
 Ellis is a house and techno artist, with 6 gigs on soundcheck across Amsterdam, Berlin, Munich and Newcastle and 1 more. Often billed alongside Azucy, Curtis Bledsoe and CøkiT. Next up: Amsterdams Most Wanted, Amsterdam on Sun 25 Oct.
 
@@ -22,4 +22,4 @@ Ellis is a house and techno artist, with 6 gigs on soundcheck across Amsterdam, 
 
 Azucy, Curtis Bledsoe, CøkiT
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellis/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellis/)*

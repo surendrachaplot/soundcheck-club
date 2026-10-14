@@ -1,14 +1,14 @@
 # Aleja Sanchez
 
-Aleja Sanchez is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Village Underground, London on Sat, 24 Oct 2026.
+Aleja Sanchez is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Village Underground Barcelona, London on Sat, 24 Oct 2026.
 
-Aleja Sanchez is a techno and dub techno artist based in Colombia, with 12 gigs on soundcheck across Amsterdam, Barcelona, Berlin and London. Often billed alongside Claudio PRC, !nertia and ANDRØMEDA. Next up: Village Underground, London on Sat 24 Oct.
+Aleja Sanchez is a techno and dub techno artist based in Colombia, with 12 gigs on soundcheck across Amsterdam, Barcelona, Berlin and London. Often billed alongside Claudio PRC, !nertia and ANDRØMEDA. Next up: Village Underground Barcelona, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Village Underground | London |
+| Sat, 24 Oct 2026 | Village Underground Barcelona | London |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Aleja Sanchez is a techno and dub techno artist based in Colombia, with 12 gigs 
 
 Claudio PRC, !nertia, ANDRØMEDA
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alejasanchez/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alejasanchez/)*

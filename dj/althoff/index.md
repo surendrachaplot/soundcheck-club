@@ -1,6 +1,6 @@
 # Althoff
 
-Althoff is a Deep House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Bikini Club, Barcelona on Sat, 17 Oct 2026.
+Althoff is a Deep House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Bikini Club, Barcelona on Sat, 17 Oct 2026.
 
 Althoff is a deep house and afro house artist based in Brazil, with 71 gigs on soundcheck across Amsterdam, Barcelona, London and Milan and 2 more. Often billed alongside ERRANT, Last Set and NAC Oliver. Next up: Bikini Club, Barcelona on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Althoff is a deep house and afro house artist based in Brazil, with 71 gigs on s
 
 ERRANT, Last Set, NAC Oliver
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/althoff/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/althoff/)*

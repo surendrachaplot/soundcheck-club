@@ -1,6 +1,6 @@
 # Seo (US)
 
-Seo (US) is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Descent, Boston on Fri, 4 Dec 2026.
+Seo (US) is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Descent, Boston on Fri, 4 Dec 2026.
 
 Seo (US) is a techno and dub techno artist based in United States of America, with 7 gigs on soundcheck across Boston and New York City. Often billed alongside Cow Tools, Niqi and oansen. Next up: Descent, Boston on Fri 4 Dec.
 
@@ -23,4 +23,4 @@ Seo (US) is a techno and dub techno artist based in United States of America, wi
 
 Cow Tools, Niqi, oansen
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seo-us/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seo-us/)*

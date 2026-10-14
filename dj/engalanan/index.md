@@ -1,13 +1,14 @@
 # ENGALANAN
 
-ENGALANAN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at OST, Berlin on Thu, 31 Dec 2026.
+ENGALANAN is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Core, Madrid on Thu, 15 Oct 2026.
 
-ENGALANAN is a techno and house artist based in Spain, with 71 gigs on soundcheck across Athens, Barcelona, Berlin and Copenhagen and 8 more. Often billed alongside softchaos, M8NSE and Twang. Next up: OST, Berlin on Thu 31 Dec.
+ENGALANAN is a techno and house artist based in Spain, with 72 gigs on soundcheck across Athens, Barcelona, Berlin and Copenhagen and 8 more. Often billed alongside softchaos, M8NSE and Twang. Next up: Core, Madrid on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 15 Oct 2026 | Core | Madrid |
 | Thu, 31 Dec 2026 | OST | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ ENGALANAN is a techno and house artist based in Spain, with 71 gigs on soundchec
 
 softchaos, M8NSE, Twang
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/engalanan/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/engalanan/)*

@@ -1,13 +1,14 @@
 # Fuocco
 
-Fuocco is a Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Maquinal Espacio Cultural, Buenos Aires on Sat, 17 Oct 2026.
+Fuocco is a Disco and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Blue Velvet Bar de Copas, Buenos Aires on Fri, 16 Oct 2026.
 
-Fuocco is a disco and techno artist based in Argentina, with 253 gigs on soundcheck across Buenos Aires. Often billed alongside Berger Muzik, COMPLEX GROOVE and KCHI HOMELESS. Next up: Maquinal Espacio Cultural, Buenos Aires on Sat 17 Oct.
+Fuocco is a disco and techno artist based in Argentina, with 254 gigs on soundcheck across Buenos Aires. Often billed alongside Berger Muzik, COMPLEX GROOVE and KCHI HOMELESS. Next up: Blue Velvet Bar de Copas, Buenos Aires on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Blue Velvet Bar de Copas | Buenos Aires |
 | Sat, 17 Oct 2026 | Maquinal Espacio Cultural | Buenos Aires |
 
 ## Recently played
@@ -25,4 +26,4 @@ Fuocco is a disco and techno artist based in Argentina, with 253 gigs on soundch
 
 Berger Muzik, COMPLEX GROOVE, KCHI HOMELESS
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fuocco/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fuocco/)*

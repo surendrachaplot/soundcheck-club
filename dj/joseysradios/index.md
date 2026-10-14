@@ -1,6 +1,6 @@
 # Joseysradios
 
-Joseysradios is a Afro House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Kaiku, Helsinki on Sat, 17 Oct 2026.
+Joseysradios is a Afro House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Kaiku, Helsinki on Sat, 17 Oct 2026.
 
 Joseysradios is an afro house and hip-hop artist based in Finland, with 21 gigs on soundcheck across Amsterdam and Helsinki. Often billed alongside CEB (FI), HiToshi and DJ Aleksi. Next up: Kaiku, Helsinki on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Joseysradios is an afro house and hip-hop artist based in Finland, with 21 gigs 
 
 CEB (FI), HiToshi, DJ Aleksi
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joseysradios/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joseysradios/)*

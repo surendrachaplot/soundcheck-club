@@ -1,6 +1,6 @@
 # Poppy (BE)
 
-Poppy (BE) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Jalousy, Brussels on Fri, 16 Oct 2026.
+Poppy (BE) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Jalousy, Brussels on Fri, 16 Oct 2026.
 
 Poppy (BE) is a house and electro artist based in Belgium, with 48 gigs on soundcheck across Amsterdam, Berlin, Brussels and Ghent and 2 more. Often billed alongside PHIL, Ava Eva and DJ Rino. Next up: Jalousy, Brussels on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Poppy (BE) is a house and electro artist based in Belgium, with 48 gigs on sound
 
 PHIL (5), Ava Eva, DJ Rino
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poppy-be/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poppy-be/)*

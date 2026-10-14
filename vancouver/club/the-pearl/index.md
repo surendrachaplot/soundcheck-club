@@ -1,6 +1,6 @@
 # The Pearl
 
-The Pearl is a music venue in Vancouver with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Versus: Battle of the Bands (Afterparty)" on Fri, 16 Oct 2026.
+The Pearl is a music venue in Vancouver with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Versus: Battle of the Bands (Afterparty)" on Fri, 16 Oct 2026.
 
 The Pearl is a music venue in Vancouver listed on soundcheck. 5 upcoming gigs, with line-ups including DJ TRANCERIGHTS, ethnicdad, EtOH and EXPORT2MP3 and 2 more. See dates, start times and who's playing. 881 Granville St, Vancouver, BC V6Z 1L1, Canada.
 
@@ -18,4 +18,4 @@ The Pearl is a music venue in Vancouver listed on soundcheck. 5 upcoming gigs, w
 
 881 Granville St, Vancouver, BC V6Z 1L1, Canada, Vancouver
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-pearl/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-pearl/)*

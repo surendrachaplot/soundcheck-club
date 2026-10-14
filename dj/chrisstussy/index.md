@@ -1,6 +1,6 @@
 # CHRIS STASSY
 
-CHRIS STASSY is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Bootshaus, Cologne on Fri, 16 Oct 2026.
+CHRIS STASSY is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Bootshaus, Cologne on Fri, 16 Oct 2026.
 
 CHRIS STASSY is a house and techno artist based in Netherlands, with 288 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 60 more. Often billed alongside Jamie Jones, Seth Troxler and Joseph Capriati. Next up: Bootshaus, Cologne on Fri 16 Oct.
 
@@ -36,4 +36,4 @@ CHRIS STASSY is a house and techno artist based in Netherlands, with 288 gigs on
 
 Jamie Jones, Seth Troxler, Joseph Capriati
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*

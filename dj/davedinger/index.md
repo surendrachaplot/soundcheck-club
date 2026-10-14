@@ -1,6 +1,6 @@
 # Dave Dinger
 
-Dave Dinger is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 16 Oct 2026.
+Dave Dinger is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 16 Oct 2026.
 
 Dave Dinger is a techno and house artist based in Germany, with 57 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 7 more. Often billed alongside Avocado, Leon Licht and Bergstock. Next up: Bahnwärter Thiel, Munich on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Dave Dinger is a techno and house artist based in Germany, with 57 gigs on sound
 
 Avocado, Leon Licht, Bergstock
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davedinger/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davedinger/)*

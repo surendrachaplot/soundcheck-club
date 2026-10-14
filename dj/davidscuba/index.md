@@ -1,6 +1,6 @@
 # David Scuba
 
-David Scuba is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA, Los Angeles on Fri, 16 Oct 2026.
+David Scuba is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Los Angeles on Fri, 16 Oct 2026.
 
 David Scuba is a techno and house artist based in United States of America, with 18 gigs on soundcheck across London, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Mr C, Lee Reynolds and Michael Rosa. Next up: TBA, Los Angeles on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ David Scuba is a techno and house artist based in United States of America, with
 
 Mr C, Lee Reynolds, Michael Rosa
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidscuba/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidscuba/)*

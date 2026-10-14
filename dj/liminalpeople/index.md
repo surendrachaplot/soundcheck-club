@@ -1,14 +1,15 @@
 # Liminal People
 
-Liminal People is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Dom Polski, London on Sat, 24 Oct 2026.
+Liminal People is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Dom Polski, London on Sat, 24 Oct 2026.
 
-Liminal People is a disco and house artist based in United Kingdom, with 15 gigs on soundcheck across London and Paris. Often billed alongside Paloma (DJ), Alfie Panaiotis and Mr Bongo. Next up: Dom Polski, London on Sat 24 Oct.
+Liminal People is a disco and house artist based in United Kingdom, with 16 gigs on soundcheck across London and Paris. Often billed alongside Paloma (DJ), Alfie Panaiotis and ARLYSS. Next up: Dom Polski, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Dom Polski | London |
+| Fri, 30 Oct 2026 | The BBE Store | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Liminal People is a disco and house artist based in United Kingdom, with 15 gigs
 
 ## Shares bills with
 
-Paloma (DJ), Alfie Panaiotis, Mr Bongo
+Paloma (DJ), Alfie Panaiotis, ARLYSS
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liminalpeople/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liminalpeople/)*

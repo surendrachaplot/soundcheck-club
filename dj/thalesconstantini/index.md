@@ -1,6 +1,6 @@
 # Thales Constantini
 
-Thales Constantini is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Not For Sale Gallery, London on Sat, 31 Oct 2026.
+Thales Constantini is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Not For Sale Gallery, London on Sat, 31 Oct 2026.
 
 Thales Constantini is a techno and electronica artist based in Brazil, with 7 gigs on soundcheck across London. Often billed alongside Labyrinthine, Harknee and Jamie de Rooy. Next up: Not For Sale Gallery, London on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Thales Constantini is a techno and electronica artist based in Brazil, with 7 gi
 
 Labyrinthine, Harknee, Jamie de Rooy
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thalesconstantini/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thalesconstantini/)*

@@ -1,6 +1,6 @@
 # DSGNRPSSY
 
-DSGNRPSSY is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The Berkeley Suite, Glasgow on Sat, 17 Oct 2026.
+DSGNRPSSY is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at The Berkeley Suite, Glasgow on Sat, 17 Oct 2026.
 
 DSGNRPSSY is an electro and techno artist based in Germany, with 20 gigs on soundcheck across Berlin, Glasgow and Hamburg. Often billed alongside La Carpio, Khloe and Liad Krispin. Next up: The Berkeley Suite, Glasgow on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ DSGNRPSSY is an electro and techno artist based in Germany, with 20 gigs on soun
 
 La Carpio, Khloe, Liad Krispin
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dsgnrpssy/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dsgnrpssy/)*

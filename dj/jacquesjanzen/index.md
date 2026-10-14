@@ -1,6 +1,6 @@
 # Jacques Janzen
 
-Jacques Janzen is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Paloma, Berlin on Fri, 6 Nov 2026.
+Jacques Janzen is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Paloma, Berlin on Fri, 6 Nov 2026.
 
 Jacques Janzen is a deep house and house artist based in Germany, with 9 gigs on soundcheck across Berlin, Munich and New York City. Often billed alongside Paul Hupfer, ADREE and BASHKKA. Next up: Paloma, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Jacques Janzen is a deep house and house artist based in Germany, with 9 gigs on
 
 Paul Hupfer, ADREE, BASHKKA
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquesjanzen/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquesjanzen/)*

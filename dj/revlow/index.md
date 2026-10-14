@@ -1,6 +1,6 @@
 # Revlow
 
-Revlow is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Mezzanine - Tooting, London on Sat, 17 Oct 2026.
+Revlow is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Mezzanine - Tooting, London on Sat, 17 Oct 2026.
 
 Revlow is a house and disco artist based in United Kingdom, with 40 gigs on soundcheck across London. Often billed alongside Ardishko, LuSay and AJ Moreno. Next up: Mezzanine - Tooting, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Revlow is a house and disco artist based in United Kingdom, with 40 gigs on soun
 
 Ardishko, LuSay, AJ Moreno
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/revlow/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/revlow/)*

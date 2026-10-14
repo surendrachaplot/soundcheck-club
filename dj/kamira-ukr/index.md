@@ -1,6 +1,6 @@
 # Kamira
 
-Kamira is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 23 Oct 2026.
+Kamira is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 23 Oct 2026.
 
 Kamira is a techno and house artist, with 22 gigs on soundcheck across Berlin. Often billed alongside Marc DePulse, Einmusik and Format B. Next up: Ritter Butzke, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Kamira is a techno and house artist, with 22 gigs on soundcheck across Berlin. O
 
 Marc DePulse, Einmusik, Format B
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamira-ukr/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamira-ukr/)*

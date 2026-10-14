@@ -1,6 +1,6 @@
 # Mathew Jonson
 
-Mathew Jonson is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Salon Iksv, Istanbul on Sat, 17 Oct 2026.
+Mathew Jonson is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Salon Iksv, Istanbul on Sat, 17 Oct 2026.
 
 Mathew Jonson is a techno and house artist based in Canada, with 147 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 45 more. Often billed alongside EVGHENIIA, Francesco Del Garda and O.BEE. Next up: Salon Iksv, Istanbul on Sat 17 Oct.
 
@@ -30,4 +30,4 @@ Mathew Jonson is a techno and house artist based in Canada, with 147 gigs on sou
 
 EVGHENIIA, Francesco Del Garda, O.BEE
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathewjonson/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathewjonson/)*

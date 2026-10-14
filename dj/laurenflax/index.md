@@ -1,6 +1,6 @@
 # Lauren Flax
 
-Lauren Flax is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at BASEMENT, New York City on Sat, 17 Oct 2026.
+Lauren Flax is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at BASEMENT, New York City on Sat, 17 Oct 2026.
 
 Lauren Flax is a techno and house artist based in United States of America, with 172 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Boston and 16 more. Often billed alongside Mike Servito, Shaun J. Wright and Justin Cudmore. Next up: BASEMENT, New York City on Sat 17 Oct.
 
@@ -29,4 +29,4 @@ Lauren Flax is a techno and house artist based in United States of America, with
 
 Mike Servito, Shaun J. Wright, Justin Cudmore
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenflax/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenflax/)*

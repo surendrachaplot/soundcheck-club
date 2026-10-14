@@ -1,8 +1,8 @@
 # NOVAH
 
-NOVAH is a Techno and Trance artist with 15 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Lutfi Kirdar Congress Center, Istanbul on Sat, 17 Oct 2026.
+NOVAH is a Techno and Trance artist with 16 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Lutfi Kirdar Congress Center, Istanbul on Sat, 17 Oct 2026.
 
-NOVAH is a techno and trance artist based in Belgium, with 178 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Cloudy, Nico Moreno and Onlynumbers. Next up: Lutfi Kirdar Congress Center, Istanbul on Sat 17 Oct.
+NOVAH is a techno and trance artist based in Belgium, with 179 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside Cloudy, Nico Moreno and Onlynumbers. Next up: Lutfi Kirdar Congress Center, Istanbul on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ NOVAH is a techno and trance artist based in Belgium, with 178 gigs on soundchec
 
 Cloudy, Nico Moreno, Onlynumbers
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*

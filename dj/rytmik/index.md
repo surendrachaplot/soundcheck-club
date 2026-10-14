@@ -1,6 +1,6 @@
 # Rytmik
 
-Rytmik is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at MONKEY LOVE, Warsaw on Fri, 16 Oct 2026.
+Rytmik is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at MONKEY LOVE, Warsaw on Fri, 16 Oct 2026.
 
 Rytmik is a house and techno artist based in Poland, with 43 gigs on soundcheck across Warsaw. Often billed alongside Kamilescu, Jerry M and Korenberg. Next up: MONKEY LOVE, Warsaw on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Rytmik is a house and techno artist based in Poland, with 43 gigs on soundcheck 
 
 Kamilescu, Jerry M, Korenberg
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rytmik/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rytmik/)*

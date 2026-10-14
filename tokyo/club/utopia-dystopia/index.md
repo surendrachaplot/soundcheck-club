@@ -1,8 +1,8 @@
 # UTOPIA / DYSTOPIA
 
-UTOPIA / DYSTOPIA is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "YOSUGA -縁-" on Thu, 15 Oct 2026.
+UTOPIA / DYSTOPIA is a music venue in Tokyo with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "YOSUGA -縁-" on Thu, 15 Oct 2026.
 
-UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including 35DH-1, 雷庵(RYan), AMANE and Anri and 2 more. See dates, start times and who's playing. 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F.
+UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 8 upcoming gigs, with line-ups including 35DH-1, 雷庵(RYan), AMANE and Anri and 2 more. See dates, start times and who's playing. 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F.
 
 ## What's on
 
@@ -15,9 +15,10 @@ UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 7 upcoming gig
 | Fri, 23 Oct 2026 | Localize! Open Air x Tokyo Night Market After Party -TETSUJI TANAKA 30th Anniversary | AMANE, DJ MIYU, Dx, Fonts, Jackit, ReFuCafé, SN_Yeah, Sarina Tokihira, Velocity |
 | Sat, 24 Oct 2026 | Unique | Anri, CKRN303, KAIKAI, Krankent, SIGNAL (JP), Sofozor, TECSTONE, ki (43), 雷庵(RYan) |
 | Sat, 24 Oct 2026 | Unique | Anri, CKRN303, KAIKAI, Krankent, SIGNAL (JP), Sofozor, TECSTONE, ki (43), 雷庵(RYan) |
+| Sat, 14 Nov 2026 | plug vol.25 | KASHIWAGI, Kajitsu, Nobuharu Morimoto, SEIichiro Mitsuma, Soma Oue |
 
 ## Address
 
 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F, Tokyo
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/utopia-dystopia/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/utopia-dystopia/)*

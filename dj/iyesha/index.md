@@ -1,8 +1,8 @@
 # Iyesha
 
-Iyesha is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Eutopia Warehouse, London on Fri, 30 Oct 2026.
+Iyesha is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Eutopia Warehouse, London on Fri, 30 Oct 2026.
 
-Iyesha is a techno and club artist based in United Kingdom, with 46 gigs on soundcheck across Berlin, Brighton, Glasgow and Leeds and 4 more. Often billed alongside NSFW, Kessie and Michelle Manetti. Next up: Eutopia Warehouse, London on Fri 30 Oct.
+Iyesha is a techno and club artist based in United Kingdom, with 46 gigs on soundcheck across Berlin, Brighton, Glasgow and Leeds and 4 more. Often billed alongside NSFW, TEDESCO and Kessie. Next up: Eutopia Warehouse, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Iyesha is a techno and club artist based in United Kingdom, with 46 gigs on soun
 
 ## Shares bills with
 
-NSFW, Kessie, Michelle Manetti
+NSFW, TEDESCO, Kessie
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iyesha/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iyesha/)*

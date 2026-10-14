@@ -1,13 +1,14 @@
 # Westhafen
 
-Westhafen is a music venue in Leipzig with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "KINKY ON Tour Leipzig" on Sat, 7 Nov 2026.
+Westhafen is a music venue in Leipzig with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Westhafen HALLOWEEN with Trancecore & ELOS" on Sat, 31 Oct 2026.
 
-Westhafen is a music venue in Leipzig listed on soundcheck. 5 upcoming gigs, with line-ups including CAVVØ, Emina Helena, Johannes Schuster and Meyhartt and 2 more. See dates, start times and who's playing. Ernst Keil Straße 17, 04179 Leipzig, Germany.
+Westhafen is a music venue in Leipzig listed on soundcheck. 6 upcoming gigs, with line-ups including Amøn, CAVVØ, CHRL and DUSTNER and 2 more. See dates, start times and who's playing. Ernst Keil Straße 17, 04179 Leipzig, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Westhafen HALLOWEEN with Trancecore & ELOS | Amøn, CHRL, DUSTNER, FEROTONINO, Felinae, Kamäleon, Skurrben, nordcorreia.mp3 |
 | Sat, 7 Nov 2026 | KINKY ON Tour Leipzig | Emina Helena, Moto Moto, WIEK |
 | Tue, 17 Nov 2026 | HARBOUR Indoor Festival | CAVVØ, Johannes Schuster, Meyhartt, Raphus, VLUNA, Vendex |
 | Sat, 28 Nov 2026 | DOCKYARD FESTIVAL presents: Teddy Killerz, Pythius, TC + MORE | Pythius, TC, Teddy Killerz |
@@ -18,4 +19,4 @@ Westhafen is a music venue in Leipzig listed on soundcheck. 5 upcoming gigs, wit
 
 Ernst Keil Straße 17, 04179 Leipzig, Germany, Leipzig
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/westhafen/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/westhafen/)*

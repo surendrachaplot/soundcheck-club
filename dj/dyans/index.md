@@ -1,6 +1,6 @@
 # Dyans
 
-Dyans is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Fri, 16 Oct 2026.
+Dyans is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Fri, 16 Oct 2026.
 
 Dyans is a techno and electronica artist based in Spain, with 58 gigs on soundcheck across Madrid. Often billed alongside Vandiaz, Javier Klash and Reitze. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Dyans is a techno and electronica artist based in Spain, with 58 gigs on soundch
 
 Vandiaz, Javier Klash, Reitze
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyans/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyans/)*

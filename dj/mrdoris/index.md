@@ -1,6 +1,6 @@
 # Mr Doris
 
-Mr Doris is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at STEREO, London on Sat, 31 Oct 2026.
+Mr Doris is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at STEREO, London on Sat, 31 Oct 2026.
 
 Mr Doris is a house and disco artist based in Spain, with 56 gigs on soundcheck across Dundee, Edinburgh, Ibiza and London and 2 more. Often billed alongside Guy Williams, Robin Schulz and Tigerbalm. Next up: STEREO, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Mr Doris is a house and disco artist based in Spain, with 56 gigs on soundcheck 
 
 Guy Williams, Robin Schulz, Tigerbalm
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrdoris/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrdoris/)*

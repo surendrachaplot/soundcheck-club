@@ -1,6 +1,6 @@
 # Nørbak
 
-Nørbak is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Distillery, Leipzig on Fri, 16 Oct 2026.
+Nørbak is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Distillery, Leipzig on Fri, 16 Oct 2026.
 
 Nørbak is a techno and house artist based in Portugal, with 144 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Temudo, Quelza and CRAVO. Next up: Distillery, Leipzig on Fri 16 Oct.
 
@@ -32,4 +32,4 @@ Nørbak is a techno and house artist based in Portugal, with 144 gigs on soundch
 
 Temudo, Quelza, CRAVO
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/norbak/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/norbak/)*

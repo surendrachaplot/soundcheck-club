@@ -1,6 +1,6 @@
 # Pinch
 
-Pinch is a Dubstep and Dub artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Phonox, London on Sat, 17 Oct 2026.
+Pinch is a Dubstep and Dub artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Phonox, London on Sat, 17 Oct 2026.
 
 Pinch is a dubstep and dub artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Berlin, Bristol and Bucharest and 14 more. Often billed alongside SGT Pokes, Yushh and Beatrice M.. Next up: Phonox, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Pinch is a dubstep and dub artist based in United Kingdom, with 55 gigs on sound
 
 SGT Pokes, Yushh, Beatrice M.
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pinch/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pinch/)*

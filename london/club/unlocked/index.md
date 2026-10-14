@@ -1,8 +1,8 @@
 # UNLOCKED
 
-UNLOCKED is a music venue in London with 11 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "SYREETA presents: SYREN Label Launch" on Thu, 15 Oct 2026.
+UNLOCKED is a music venue in London with 12 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "SYREETA presents: SYREN Label Launch" on Thu, 15 Oct 2026.
 
-UNLOCKED is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Alythia Kwan, Andhim, Bradley Skeng and Carlita and 2 more. See dates, start times and who's playing. 118, Curtain Road, London, EC2A 3AY.
+UNLOCKED is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Alythia Kwan, Andhim, Bradley Skeng and Carlita and 2 more. See dates, start times and who's playing. 118, Curtain Road, London, EC2A 3AY.
 
 ## What's on
 
@@ -14,13 +14,13 @@ UNLOCKED is a music venue in London listed on soundcheck. 11 upcoming gigs, with
 | Fri, 23 Oct 2026 | Sultan + Shepard (DJ) | Sultan + Shepard |
 | Sat, 24 Oct 2026 | Klangkarussell (360 DJ Set) | Klangkarussell |
 | Fri, 30 Oct 2026 | Y U QT - Halloween @ UNLOCKED | Ned Bennett, Sam Girling, Y U QT |
+| Fri, 6 Nov 2026 | Moxy Muzik - Darius Syrossian, Jeremy Underground, Rio Tashan, Miruna Ghica B2B MRCL | Darius Syrossian, Jeremy Underground, Miruna Ghica, Rio Tashan |
 | Sat, 7 Nov 2026 | RAVE IN SPACE | HARTY, JAYDAA, Jnr Windross, Summer Ghemati |
 | Fri, 20 Nov 2026 | Parable: Andhim, TIMANTI, Nat Gohl | Andhim, Nat Gohl, TIMANTI |
 | Fri, 27 Nov 2026 | IDEMI - Headline Show - UNLOCKED, London | IDEMI |
-| Sat, 28 Nov 2026 | Don Diablo London | Don Diablo |
 
 ## Address
 
 118, Curtain Road, London, EC2A 3AY, London
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*

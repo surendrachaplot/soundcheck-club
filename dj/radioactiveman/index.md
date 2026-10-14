@@ -1,14 +1,15 @@
 # Radioactive Man
 
-Radioactive Man is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Les Enfants Brillants, Barcelona on Sat, 14 Nov 2026.
+Radioactive Man is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Les Enfants Brillants, Barcelona on Sat, 14 Nov 2026.
 
-Radioactive Man is a techno and electro artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 19 more. Often billed alongside Unai Trotti, Craig Richards and Alien Communications. Next up: Les Enfants Brillants, Barcelona on Sat 14 Nov.
+Radioactive Man is a techno and electro artist based in United Kingdom, with 87 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 19 more. Often billed alongside Unai Trotti, Craig Richards and Alien Communications. Next up: Les Enfants Brillants, Barcelona on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Les Enfants Brillants | Barcelona |
+| Fri, 20 Nov 2026 | Humboldthain Club | Berlin |
 | Sat, 28 Nov 2026 | The Cause | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Radioactive Man is a techno and electro artist based in United Kingdom, with 86 
 
 Unai Trotti, Craig Richards, Alien Communications
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/radioactiveman/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/radioactiveman/)*

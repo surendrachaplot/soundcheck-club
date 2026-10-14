@@ -1,6 +1,6 @@
 # DJ MEGA
 
-DJ MEGA is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - join our Telegram group to get the exact location in Neukölln!, Berlin on Sat, 24 Oct 2026.
+DJ MEGA is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - join our Telegram group to get the exact location in Neukölln!, Berlin on Sat, 24 Oct 2026.
 
 DJ MEGA is a trance and techno artist based in Czech Republic, with 7 gigs on soundcheck across Berlin. Often billed alongside Plugin Ears, Hovercat and 11th Hour. Next up: TBA - join our Telegram group to get the exact location in Neukölln!, Berlin on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ DJ MEGA is a trance and techno artist based in Czech Republic, with 7 gigs on so
 
 Plugin Ears, Hovercat, 11th Hour
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmega/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmega/)*

@@ -1,6 +1,6 @@
 # Nino Msk
 
-Nino Msk is a Italo Disco and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Madrone Art Bar, San Francisco/Oakland on Wed, 14 Oct 2026.
+Nino Msk is a Italo Disco and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Madrone Art Bar, San Francisco/Oakland on Wed, 14 Oct 2026.
 
 Nino Msk is an italo disco and deep house artist based in Italy, with 88 gigs on soundcheck across San Francisco/Oakland. Often billed alongside AGROPOL, DJ Panderer and Pap.. Next up: Madrone Art Bar, San Francisco/Oakland on Wed 14 Oct.
 
@@ -26,4 +26,4 @@ Nino Msk is an italo disco and deep house artist based in Italy, with 88 gigs on
 
 AGROPOL, DJ Panderer, Pap.
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninomsk/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninomsk/)*

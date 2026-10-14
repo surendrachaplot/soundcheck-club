@@ -1,14 +1,15 @@
 # San Pedro
 
-San Pedro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 24 Oct 2026.
+San Pedro is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 24 Oct 2026.
 
-San Pedro is a techno and house artist based in Italy, with 41 gigs on soundcheck across Berlin, Miami and Milan. Often billed alongside Uabos, Giamma Soren and Vannelli Bros. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 24 Oct.
+San Pedro is a techno and house artist based in Italy, with 42 gigs on soundcheck across Berlin, Miami and Milan. Often billed alongside Uabos, Giamma Soren and Vannelli Bros. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
+| Sat, 31 Oct 2026 | Masada | Milan |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ San Pedro is a techno and house artist based in Italy, with 41 gigs on soundchec
 
 Uabos, Giamma Soren, Vannelli Bros
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanpedro/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanpedro/)*

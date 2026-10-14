@@ -1,13 +1,14 @@
 # Leo Mas
 
-Leo Mas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Secret Location, Berlin on Sat, 12 Dec 2026.
+Leo Mas is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Masada, Milan on Sun, 1 Nov 2026.
 
-Leo Mas is a house and techno artist based in Italy, with 29 gigs on soundcheck across Athens, Belgrade, Berlin and Bristol and 7 more. Often billed alongside Cristian Croce, Cio (Spezialmaterial) and Innuendo. Next up: TBA - Secret Location, Berlin on Sat 12 Dec.
+Leo Mas is a house and techno artist based in Italy, with 30 gigs on soundcheck across Athens, Belgrade, Berlin and Bristol and 7 more. Often billed alongside Cristian Croce, Nicola Mazzetti and Cio (Spezialmaterial). Next up: Masada, Milan on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 1 Nov 2026 | Masada | Milan |
 | Sat, 12 Dec 2026 | TBA - Secret Location | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Leo Mas is a house and techno artist based in Italy, with 29 gigs on soundcheck 
 
 ## Shares bills with
 
-Cristian Croce, Cio (Spezialmaterial), Innuendo
+Cristian Croce, Nicola Mazzetti, Cio (Spezialmaterial)
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leo-mas/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leo-mas/)*

@@ -1,6 +1,6 @@
 # Willow
 
-Willow is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Electric Bristol, Bristol on Fri, 30 Oct 2026.
+Willow is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Electric Bristol, Bristol on Fri, 30 Oct 2026.
 
 Willow is a house and techno artist based in United Kingdom, with 132 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 27 more. Often billed alongside Lukas Wigflex, Dr Banana and Bobby.. Next up: Electric Bristol, Bristol on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ Willow is a house and techno artist based in United Kingdom, with 132 gigs on so
 
 Lukas Wigflex, Dr Banana, Bobby.
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willow/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willow/)*

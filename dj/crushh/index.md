@@ -1,6 +1,6 @@
 # crushh
 
-crushh is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Monarch, San Francisco/Oakland on Sat, 31 Oct 2026.
+crushh is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Monarch, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 crushh is an electro and electronica artist based in United States of America, with 6 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside AMERICANRECYCLING, 10cust and Avalon Lurks. Next up: Monarch, San Francisco/Oakland on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ crushh is an electro and electronica artist based in United States of America, w
 
 AMERICANRECYCLING, 10cust, Avalon Lurks
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crushh/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crushh/)*

@@ -1,6 +1,6 @@
 # Henrik Schwarz
 
-Henrik Schwarz is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Studio Club Malaga, Malaga on Sat, 17 Oct 2026.
+Henrik Schwarz is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Studio Club Malaga, Malaga on Sat, 17 Oct 2026.
 
 Henrik Schwarz is a house and techno artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 30 more. Often billed alongside Âme, Mano Le Tough and Black Coffee. Next up: Studio Club Malaga, Malaga on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Henrik Schwarz is a house and techno artist based in Germany, with 114 gigs on s
 
 Âme, Mano Le Tough, Black Coffee
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henrikschwarz/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henrikschwarz/)*

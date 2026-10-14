@@ -1,8 +1,8 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 20 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "MAXIS MAXIMAAL / WAP SHOO WAP RECORDS" on Fri, 16 Oct 2026.
+Skatecafe is a music venue in Amsterdam with 22 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "MAXIS MAXIMAAL / WAP SHOO WAP RECORDS" on Fri, 16 Oct 2026.
 
-Skatecafe is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs, with line-ups including Abstract (US), A For Alpha, amara and Amz and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 42.
+Skatecafe is a music venue in Amsterdam listed on soundcheck. 22 upcoming gigs, with line-ups including Abstract (US), A For Alpha, amara and Amz and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
 ## What's on
 
@@ -15,7 +15,7 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs, 
 | Fri, 23 Oct 2026 | ADE - PIP GOES Skatecafe | David Vunk, Itz3bby, Izzy, JELLY, Jeans (NL), Jetti, Marsman |
 | Sat, 24 Oct 2026 | ADE / PATTA X KEEP HUSH W/ TBA |  |
 | Sat, 24 Oct 2026 | ADE - PATTA X KEEP HUSH X SANKOFA ARCHIVES X MOSAIKO X STUDIO STRIP | Amz, Anèl, EYCEE, Jarreau Vandal, Passion DEEZ, Riddimbox, Rotational, Tida Kamara, amara, awhlkuhn |
-| Sun, 25 Oct 2026 | FSTM ADE Take Over | Blasha & Allatt, Call Super, DJ Masda, Eris Drew, Hannecart, Helena Hauff, Quest (CA), Rey Colino, Ryan Elliott, mad miran |
+| Sun, 25 Oct 2026 | FSTM ADE Take Over | Blasha & Allatt, Call Super, DJ Masda, Eris Drew, Hannecart, Helena Hauff, Laura Meester, Quest (CA), Rey Colino, Ryan Elliott, Tommy Chikara, mad miran |
 | Thu, 29 Oct 2026 | Brainwash Festival: Bold Ideas For Curious Minds w/ Deborah Levy |  |
 | Fri, 30 Oct 2026 | ZWARTE LIEFDE | Abstract (US), Leks, Nymfo, Seb Wes, Silloh |
 
@@ -23,4 +23,4 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs, 
 
 Gedempt Hamerkanaal 42, Amsterdam
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*

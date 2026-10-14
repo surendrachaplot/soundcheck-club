@@ -1,6 +1,6 @@
 # Nyxa
 
-Nyxa is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Nº Space - No Space, Budapest on Fri, 16 Oct 2026.
+Nyxa is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Nº Space - No Space, Budapest on Fri, 16 Oct 2026.
 
 Nyxa is a techno and experimental artist, with 7 gigs on soundcheck across Budapest. Often billed alongside Vatsanah, Akos V and CQUE. Next up: Nº Space - No Space, Budapest on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Nyxa is a techno and experimental artist, with 7 gigs on soundcheck across Budap
 
 Vatsanah, Akos V, CQUE
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyxa/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyxa/)*

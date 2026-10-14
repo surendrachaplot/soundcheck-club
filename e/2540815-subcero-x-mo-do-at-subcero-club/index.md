@@ -1,6 +1,6 @@
 # Subcero x MO.DO at Subcero Club
 
-Subcero x MO.DO at Subcero Club on Fri 16 Oct, Madrid. 2 artists: Karjala and Terence :Terry:. Electronica. See the line-up on soundcheck.
+Subcero x MO.DO at Subcero Club on Fri 16 Oct, Madrid. 3 artists: Karjala, Terence :Terry: and Valle. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Subcero x MO.DO at Subcero Club on Fri 16 Oct, Madrid. 2 artists: Karjala and Te
 
 - Karjala
 - Terence :Terry:
+- Valle
 
 *Source: [soundcheck](https://soundcheck.club/e/2540815-subcero-x-mo-do-at-subcero-club/)*

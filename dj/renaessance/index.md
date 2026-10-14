@@ -1,6 +1,6 @@
 # Renaessance
 
-Renaessance is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
+Renaessance is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
 
 Renaessance is a house and techno artist based in Australia, with 41 gigs on soundcheck across Melbourne, Sydney and Victoria. Often billed alongside Love, Jess, Prizefight and Charlotte Rooney. Next up: Barunah Plains, Victoria on Mon 28 Dec.
 
@@ -25,4 +25,4 @@ Renaessance is a house and techno artist based in Australia, with 41 gigs on sou
 
 Love, Jess, Prizefight, Charlotte Rooney
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renaessance/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renaessance/)*

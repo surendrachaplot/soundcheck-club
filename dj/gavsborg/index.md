@@ -1,6 +1,6 @@
 # Gavsborg
 
-Gavsborg is a Dub and Dancehall artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at murmur, Amsterdam on Sat, 24 Oct 2026.
+Gavsborg is a Dub and Dancehall artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at murmur, Amsterdam on Sat, 24 Oct 2026.
 
 Gavsborg is a dub and dancehall artist based in Jamaica, with 43 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 9 more. Often billed alongside MBODJ, Baba Sy and Opoku. Next up: murmur, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Gavsborg is a dub and dancehall artist based in Jamaica, with 43 gigs on soundch
 
 MBODJ, Baba Sy, Opoku
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gavsborg/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gavsborg/)*

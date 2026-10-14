@@ -1,6 +1,6 @@
 # Medea
 
-Medea is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Tresor.West, Dortmund-essen on Sat, 24 Oct 2026.
+Medea is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Tresor.West, Dortmund-essen on Sat, 24 Oct 2026.
 
 Medea is a techno and house artist based in Germany, with 28 gigs on soundcheck across Athens, Berlin, Cologne and Dortmund Essen and 4 more. Often billed alongside DJ SOURCE, Gutkind and Parallx. Next up: Tresor.West, Dortmund Essen on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Medea is a techno and house artist based in Germany, with 28 gigs on soundcheck 
 
 DJ SOURCE, Gutkind, Parallx
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medea/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medea/)*

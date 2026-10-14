@@ -1,6 +1,6 @@
 # De La Zouche
 
-De La Zouche is a Garage and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Secret Location, Essex , South-east on Sat, 31 Oct 2026.
+De La Zouche is a Garage and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Secret Location, Essex , South-east on Sat, 31 Oct 2026.
 
 De La Zouche is a garage and electronica artist based in United Kingdom, with 6 gigs on soundcheck across London, Manchester and South East. Often billed alongside Adam Romo, Marcos Loveday and RORO. Next up: TBA - Secret Location, Essex , South East on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ De La Zouche is a garage and electronica artist based in United Kingdom, with 6 
 
 Adam Romo, Marcos Loveday, RORO
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delazouche/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delazouche/)*

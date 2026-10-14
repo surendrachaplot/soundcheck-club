@@ -1,6 +1,6 @@
 # Autumns
 
-Autumns is a Industrial and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Kapsule, Liverpool on Sat, 17 Oct 2026.
+Autumns is a Industrial and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Kapsule, Liverpool on Sat, 17 Oct 2026.
 
 Autumns is an industrial and techno artist based in Ireland, with 36 gigs on soundcheck across Berlin, Bristol, Cork and Dublin and 12 more. Often billed alongside Kahn, Batu and CCL. Next up: Kapsule, Liverpool on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Autumns is an industrial and techno artist based in Ireland, with 36 gigs on sou
 
 Kahn, Batu, CCL
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autumns/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autumns/)*

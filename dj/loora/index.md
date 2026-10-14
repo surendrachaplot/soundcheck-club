@@ -1,6 +1,6 @@
 # Loora
 
-Loora is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Rolling Stock, London on Sat, 31 Oct 2026.
+Loora is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Rolling Stock, London on Sat, 31 Oct 2026.
 
 Loora is a techno and tech house artist based in Brazil, with 28 gigs on soundcheck across London. Often billed alongside Thomas Galbardi, Dhez and Giusy S. Next up: Rolling Stock, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Loora is a techno and tech house artist based in Brazil, with 28 gigs on soundch
 
 Thomas Galbardi, Dhez, Giusy S (2)
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loora/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loora/)*

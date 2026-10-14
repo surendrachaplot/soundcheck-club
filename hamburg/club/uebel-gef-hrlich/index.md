@@ -1,6 +1,6 @@
 # Uebel & Gefährlich
 
-Uebel & Gefährlich is a music venue in Hamburg with 11 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "RESONANZ w/ Oliver Huntemann, Kaufmann, Victor Ruiz & André Winter" on Fri, 16 Oct 2026.
+Uebel & Gefährlich is a music venue in Hamburg with 11 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "RESONANZ w/ Oliver Huntemann, Kaufmann, Victor Ruiz & André Winter" on Fri, 16 Oct 2026.
 
 Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 11 upcoming gigs, with line-ups including AEREA, Andre Winter, Ave (DE) and BOVSKI and 2 more. See dates, start times and who's playing. Feldstrasse 66; 20359 Hamburg; Germany.
 
@@ -14,8 +14,8 @@ Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 11 upcomin
 | Fri, 13 Nov 2026 | ONE NIGHT WITH Felix Kröcher - 4h Set | Felix Kröcher |
 | Sat, 14 Nov 2026 | Oliver Schories All Night Long | Oliver Schories |
 | Sat, 21 Nov 2026 | DURCH DIE NACHT — Teenage Mutants ALL NIGHT LONG | Lanka, Sophie Cut, Teenage Mutants |
-| Sat, 28 Nov 2026 | BUNKER RAVE W/ David Löhlein & Johannes Schuster | David Löhlein, Johannes Schuster, L.A.tifa, Merve |
-| Sat, 5 Dec 2026 | DISCOVAGANZA with Nyra, BOVSKI, Dirty Disco Divas uvm | BOVSKI, Cherries040, Dirty Disco Divas, Linh (2), Nyra, Sodom |
+| Sat, 28 Nov 2026 | BUNKER RAVE W/ David Löhlein & Johannes Schuster | David Löhlein, Johannes Schuster, L.A.tifa, mer.ve |
+| Sat, 5 Dec 2026 | DISCOVAGANZA with Nyra, BOVSKI, Dirty Disco Divas uvm | BOVSKI, Cherries040, Dirty Disco Divas, Linh (2), Sodom |
 | Sat, 19 Dec 2026 | Stil vor Talent Showcase | Fabian Krooss, Frida Darko, Juan Hansen, Konfusia, Oliver Koletzki |
 | Fri, 8 Jan 2027 | King Kong Kicks • IndiePop&Hypes + RaveIsKing• Uebel & Gefährlich • Hamburg |  |
 
@@ -23,4 +23,4 @@ Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 11 upcomin
 
 Feldstrasse 66; 20359 Hamburg; Germany, Hamburg
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*

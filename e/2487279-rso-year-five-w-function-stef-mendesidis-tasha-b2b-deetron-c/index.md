@@ -1,6 +1,6 @@
 # RSO: YEAR FIVE w/ Function, Stef Mendesidis, Tasha b2b Deetron, CEM, Maara, Stenny (Live) at RSO.BERLIN
 
-RSO: YEAR FIVE w/ Function, Stef Mendesidis, Tasha b2b Deetron, CEM, Maara, Stenny (Live) at RSO.BERLIN on Fri 20 Nov, Berlin. 23 artists: 131bpm, Answer Code Request, CEM and Dangermami and 19 more. Techno. See the line-up on soundcheck.
+RSO: YEAR FIVE w/ Function, Stef Mendesidis, Tasha b2b Deetron, CEM, Maara, Stenny (Live) at RSO.BERLIN on Fri 20 Nov, Berlin. 25 artists: 131bpm, Anna Z., Answer Code Request and CEM and 21 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ RSO: YEAR FIVE w/ Function, Stef Mendesidis, Tasha b2b Deetron, CEM, Maara, Sten
 ## Line-up
 
 - 131bpm
+- Anna Z.
 - Answer Code Request
 - CEM
 - Dangermami
@@ -28,6 +29,7 @@ RSO: YEAR FIVE w/ Function, Stef Mendesidis, Tasha b2b Deetron, CEM, Maara, Sten
 - Mary Lake
 - Remco Beekwilder
 - RUIZ OSC1
+- Sepehr
 - Stef Mendesidis
 - Stenny
 - Tasha

@@ -1,6 +1,6 @@
 # 2001 Space Odyssey
 
-2001 Space Odyssey is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA, Berlin on Sat, 24 Oct 2026.
+2001 Space Odyssey is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Berlin on Sat, 24 Oct 2026.
 
 2001 Space Odyssey is a techno and experimental artist, with 9 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Charlie Caves, Prieste5s and Rafush. Next up: TBA, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@
 
 Charlie Caves, Prieste5s, Rafush
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2001spaceodyssey/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2001spaceodyssey/)*

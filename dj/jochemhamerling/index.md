@@ -1,6 +1,6 @@
 # Jochem Hamerling
 
-Jochem Hamerling is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Bar Feijoa, Amsterdam on Wed, 21 Oct 2026.
+Jochem Hamerling is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Bar Feijoa, Amsterdam on Wed, 21 Oct 2026.
 
 Jochem Hamerling is a progressive house and house artist, with 28 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside Jaap Ligthart, Project89 and Mike Scot. Next up: Bar Feijoa, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Jochem Hamerling is a progressive house and house artist, with 28 gigs on soundc
 
 Jaap Ligthart, Project89, Mike Scot
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jochemhamerling/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jochemhamerling/)*

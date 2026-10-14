@@ -1,6 +1,6 @@
 # Cinetol
 
-Cinetol is a music venue in Amsterdam with 20 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Roomer" on Wed, 14 Oct 2026.
+Cinetol is a music venue in Amsterdam with 20 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Roomer" on Wed, 14 Oct 2026.
 
 Cinetol is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs, with line-ups including Dublon, echofarmer, Lucy Snake and Lynnic and 2 more. See dates, start times and who's playing. Tolstraat 182, 1074VM Amsterdam.
 
@@ -23,4 +23,4 @@ Cinetol is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs, wi
 
 Tolstraat 182, 1074VM Amsterdam, Amsterdam
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cinetol/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cinetol/)*

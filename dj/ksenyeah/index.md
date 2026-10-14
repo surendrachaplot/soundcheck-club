@@ -1,8 +1,8 @@
 # Ksenyeah
 
-Ksenyeah is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Knockdown Center, New York City on Sat, 17 Oct 2026.
+Ksenyeah is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Knockdown Center, New York City on Sat, 17 Oct 2026.
 
-Ksenyeah is a house and deep house artist based in Ukraine, with 45 gigs on soundcheck across New York City. Often billed alongside Manguito, Van Der Laan and OBA+FLIP. Next up: Knockdown Center, New York City on Sat 17 Oct.
+Ksenyeah is a house and deep house artist based in Ukraine, with 46 gigs on soundcheck across New York City. Often billed alongside Manguito, Van Der Laan and OBA+FLIP. Next up: Knockdown Center, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ksenyeah is a house and deep house artist based in Ukraine, with 45 gigs on soun
 | Sat, 17 Oct 2026 | Knockdown Center | New York City |
 | Fri, 30 Oct 2026 | Industry City | New York City |
 | Fri, 6 Nov 2026 | H0L0 | New York City |
+| Fri, 18 Dec 2026 | 99 Scott Ave | New York City |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Ksenyeah is a house and deep house artist based in Ukraine, with 45 gigs on soun
 
 Manguito, Van Der Laan, OBA+FLIP
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ksenyeah/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ksenyeah/)*

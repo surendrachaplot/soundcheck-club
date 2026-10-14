@@ -1,6 +1,6 @@
 # Ryan Resso
 
-Ryan Resso is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Chelmsford City Racecourse, London on Sat, 31 Oct 2026.
+Ryan Resso is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Chelmsford City Racecourse, London on Sat, 31 Oct 2026.
 
 Ryan Resso is a house and tech house artist based in United Kingdom, with 98 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 13 more. Often billed alongside Chopper (UK), Stef Davidse and FINKY. Next up: Chelmsford City Racecourse, London on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Ryan Resso is a house and tech house artist based in United Kingdom, with 98 gig
 
 Chopper (UK), Stef Davidse, FINKY
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanresso/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanresso/)*

@@ -1,6 +1,6 @@
 # SUW: Disco Riders at Freedonia
 
-SUW: Disco Riders at Freedonia on Sat 17 Oct, Barcelona. 1 artist: Diego Montiel. Electronica. See the line-up on soundcheck.
+SUW: Disco Riders at Freedonia on Sat 17 Oct, Barcelona. 2 artists: Diego Montiel and THEDGE. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ SUW: Disco Riders at Freedonia on Sat 17 Oct, Barcelona. 1 artist: Diego Montiel
 ## Line-up
 
 - Diego Montiel
+- THEDGE
 
 *Source: [soundcheck](https://soundcheck.club/e/2557211-suw-disco-riders-at-freedonia/)*

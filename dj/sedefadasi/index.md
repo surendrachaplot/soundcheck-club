@@ -1,14 +1,15 @@
 # Sedef Adasï
 
-Sedef Adasï is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Various Venues - Genève, Geneva on Fri, 16 Oct 2026.
+Sedef Adasï is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Various Venues - Genève, Geneva on Fri, 16 Oct 2026.
 
-Sedef Adasï is a techno and house artist based in Turkey, with 287 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 58 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and Job Jobse. Next up: Various Venues - Genève, Geneva on Fri 16 Oct.
+Sedef Adasï is a techno and house artist based in Turkey, with 288 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 58 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and Job Jobse. Next up: Various Venues - Genève, Geneva on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Various Venues - Genève | Geneva |
+| Fri, 16 Oct 2026 | Motel Campo | Geneva |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 23 Oct 2026 | Bajes Amsterdam | Amsterdam |
@@ -19,7 +20,6 @@ Sedef Adasï is a techno and house artist based in Turkey, with 287 gigs on soun
 | Fri, 20 Nov 2026 | Burger Disco Club | Athens |
 | Sat, 21 Nov 2026 | FOLD | London |
 | Fri, 27 Nov 2026 | CLUB RAUM | Amsterdam |
-| Wed, 2 Dec 2026 | Factory Town | Miami |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Sedef Adasï is a techno and house artist based in Turkey, with 287 gigs on soun
 
 BASHKKA, Gabrielle Kwarteng, Job Jobse
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*

@@ -1,6 +1,6 @@
 # Shinedoe
 
-Shinedoe is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Signal, New York City on Sun, 18 Oct 2026.
+Shinedoe is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Signal, New York City on Sun, 18 Oct 2026.
 
 Shinedoe is a techno and house artist based in Netherlands, with 58 gigs on soundcheck across Amsterdam, Bali, Berlin and Copenhagen and 13 more. Often billed alongside Answer Code Request, BASHKKA and Barker. Next up: Signal, New York City on Sun 18 Oct.
 
@@ -27,4 +27,4 @@ Shinedoe is a techno and house artist based in Netherlands, with 58 gigs on soun
 
 Answer Code Request, BASHKKA, Barker
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shinedoe/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shinedoe/)*

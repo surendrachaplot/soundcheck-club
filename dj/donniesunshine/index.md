@@ -1,6 +1,6 @@
 # Donnie Sunshine
 
-Donnie Sunshine is a House and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at DRUMSHEDS, London on Sat, 24 Oct 2026.
+Donnie Sunshine is a House and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at DRUMSHEDS, London on Sat, 24 Oct 2026.
 
 Donnie Sunshine is a house and dancehall artist based in United Kingdom, with 75 gigs on soundcheck across London, Manchester and Paris. Often billed alongside Mark-Ashley Dupé, AyChibs and Mayowa. Next up: DRUMSHEDS, London on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Donnie Sunshine is a house and dancehall artist based in United Kingdom, with 75
 
 Mark-Ashley Dupé, AyChibs, Mayowa
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donniesunshine/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donniesunshine/)*

@@ -1,6 +1,6 @@
 # XXXOUND - LE GRAND SALON at Usquare
 
-XXXOUND - LE GRAND SALON at Usquare on Sat 24 Oct, Brussels. 6 artists: ATARAXY, Aymen, Disjoli and GRACIANO and 2 more. Techno. See the line-up on soundcheck.
+XXXOUND - LE GRAND SALON at Usquare on Sat 24 Oct, Brussels. 5 artists: ATARAXY, Disjoli, GRACIANO and Niko Hoke and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ XXXOUND - LE GRAND SALON at Usquare on Sat 24 Oct, Brussels. 6 artists: ATARAXY,
 ## Line-up
 
 - ATARAXY
-- Aymen
 - Disjoli
 - GRACIANO
 - Niko Hoke

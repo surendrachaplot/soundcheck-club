@@ -1,6 +1,6 @@
 # Exchange LA
 
-Exchange LA is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "MUTATE: Charlie Sparks" on Sat, 24 Oct 2026.
+Exchange LA is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "MUTATE: Charlie Sparks" on Sat, 24 Oct 2026.
 
 Exchange LA is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including Dillon Francis, Massano and Township Rebellion. See dates, start times and who's playing. 618 S. Spring St., Los Angeles, CA 90014.
 
@@ -17,4 +17,4 @@ Exchange LA is a music venue in Los Angeles listed on soundcheck. 4 upcoming gig
 
 618 S. Spring St., Los Angeles, CA 90014, Los Angeles
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/exchange-la/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/exchange-la/)*

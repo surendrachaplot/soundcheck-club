@@ -1,6 +1,6 @@
 # Monoky (2)
 
-Monoky (2) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Monoky (2) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Monoky is a house and tech house artist based in United States of America, with 8 gigs on soundcheck across Miami and Orlando. Often billed alongside ChaseWest, Franky Rizardo and Inbal. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ Monoky is a house and tech house artist based in United States of America, with 
 
 ChaseWest, Franky Rizardo, Inbal
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monoky-2/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monoky-2/)*

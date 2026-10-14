@@ -1,6 +1,6 @@
 # Le 211
 
-Le 211 is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Pygments Extended: Human Safari, Alhena, Groundstate," on Sat, 24 Oct 2026.
+Le 211 is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Pygments Extended: Human Safari, Alhena, Groundstate," on Sat, 24 Oct 2026.
 
 Le 211 is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Alhena_, Art of Tones, Gabbor and Human Safari and 2 more. See dates, start times and who's playing. 211 Av. Jean Jaurès, 75019.
 
@@ -16,4 +16,4 @@ Le 211 is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with lin
 
 211 Av. Jean Jaurès, 75019, Paris
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-211/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-211/)*

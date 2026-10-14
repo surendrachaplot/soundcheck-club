@@ -1,6 +1,6 @@
 # microtear
 
-microtear is a Club and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The Pearl, Vancouver on Sat, 17 Oct 2026.
+microtear is a Club and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at The Pearl, Vancouver on Sat, 17 Oct 2026.
 
 microtear is a club and hardcore artist, with 8 gigs on soundcheck across Vancouver. Often billed alongside BINKY, soratora and Earthware. Next up: The Pearl, Vancouver on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ microtear is a club and hardcore artist, with 8 gigs on soundcheck across Vancou
 
 BINKY, soratora, Earthware
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/microtear/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/microtear/)*

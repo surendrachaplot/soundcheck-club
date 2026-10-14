@@ -1,6 +1,6 @@
 # divinity statue
 
-divinity statue is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Altenburg 1964, Prague on Sat, 24 Oct 2026.
+divinity statue is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Altenburg 1964, Prague on Sat, 24 Oct 2026.
 
 divinity statue is an experimental and techno artist based in Ukraine, with 24 gigs on soundcheck across Berlin, Prague and Vienna. Often billed alongside Lil Autotune, Vividx and exegesis. Next up: Altenburg 1964, Prague on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ divinity statue is an experimental and techno artist based in Ukraine, with 24 g
 
 Lil Autotune, Vividx, exegesis
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/divinitystatue/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/divinitystatue/)*

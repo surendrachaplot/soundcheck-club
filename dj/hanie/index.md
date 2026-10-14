@@ -1,6 +1,6 @@
 # HANIE
 
-HANIE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Garage 442, Barcelona on Sat, 24 Oct 2026.
+HANIE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Garage 442, Barcelona on Sat, 24 Oct 2026.
 
 HANIE is a house and tech house artist based in Venezuela, with 91 gigs on soundcheck across Barcelona, Madrid and Prague. Often billed alongside Bill Hates, Brieela and Cucut. Next up: Garage 442, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ HANIE is a house and tech house artist based in Venezuela, with 91 gigs on sound
 
 Bill Hates, Brieela, Cucut
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hanie/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hanie/)*

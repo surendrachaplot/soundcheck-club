@@ -1,6 +1,6 @@
 # Grabba Ranks
 
-Grabba Ranks is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Current Space, Baltimore on Thu, 15 Oct 2026.
+Grabba Ranks is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Current Space, Baltimore on Thu, 15 Oct 2026.
 
 Grabba Ranks is a club and hip-hop artist based in United States of America, with 29 gigs on soundcheck across Baltimore, Chicago, Miami and New York City. Often billed alongside NoahG, SUPR SPRT and Daniro. Next up: Current Space, Baltimore on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Grabba Ranks is a club and hip-hop artist based in United States of America, wit
 
 NoahG, SUPR SPRT, Daniro
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grabbaranks/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grabbaranks/)*

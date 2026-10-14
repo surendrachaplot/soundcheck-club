@@ -1,6 +1,6 @@
 # IBÁN MENDOZA
 
-IBÁN MENDOZA is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Wed, 21 Oct 2026.
+IBÁN MENDOZA is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Wed, 21 Oct 2026.
 
 IBÁN MENDOZA is a house and deep house artist based in Spain, with 20 gigs on soundcheck across Ibiza and Miami. Often billed alongside Audera, Bakean and Andy Bros. Next up: Do Not Sit On The Furniture, Miami on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ IBÁN MENDOZA is a house and deep house artist based in Spain, with 20 gigs on s
 
 Audera, Bakean, Andy Bros
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ibanmendoza/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ibanmendoza/)*

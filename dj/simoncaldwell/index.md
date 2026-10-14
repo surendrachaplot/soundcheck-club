@@ -1,13 +1,14 @@
 # Simon Caldwell
 
-Simon Caldwell is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Fraser Park, Sydney on Sat, 7 Nov 2026.
+Simon Caldwell is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Portugal Madeira Club, Sydney on Sat, 24 Oct 2026.
 
-Simon Caldwell is a house and techno artist based in Australia, with 81 gigs on soundcheck across Berlin, Brisbane, Hamburg and Melbourne and 1 more. Often billed alongside Kato, Deepa and Ken Cloud. Next up: Fraser Park, Sydney on Sat 7 Nov.
+Simon Caldwell is a house and techno artist based in Australia, with 82 gigs on soundcheck across Berlin, Brisbane, Hamburg and Melbourne and 1 more. Often billed alongside Kato, Ken Cloud and Deepa. Next up: Portugal Madeira Club, Sydney on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Portugal Madeira Club | Sydney |
 | Sat, 7 Nov 2026 | Fraser Park | Sydney |
 | Sun, 29 Nov 2026 | Liberty Hall | Sydney |
 
@@ -24,6 +25,6 @@ Simon Caldwell is a house and techno artist based in Australia, with 81 gigs on 
 
 ## Shares bills with
 
-Kato, Deepa, Ken Cloud
+Kato, Ken Cloud, Deepa
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simoncaldwell/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simoncaldwell/)*

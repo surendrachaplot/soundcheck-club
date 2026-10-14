@@ -1,6 +1,6 @@
 # ROLL CALL at VFD
 
-ROLL CALL at VFD on Fri 13 Nov, London. 4 artists: BBY FOOD, kcutie, petit richie and Sharnie. See the line-up on soundcheck.
+ROLL CALL at VFD on Fri 13 Nov, London. 4 artists: BBY FOOD, kcutie, petit richie and Sharnie. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

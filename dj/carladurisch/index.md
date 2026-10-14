@@ -1,6 +1,6 @@
 # Carla Durisch
 
-Carla Durisch is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Secret Location, Switzerland on Sat, 24 Oct 2026.
+Carla Durisch is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Secret Location, Switzerland on Sat, 24 Oct 2026.
 
 Carla Durisch is a house and techno artist based in Switzerland, with 41 gigs on soundcheck across Basel, Berlin, Düsseldorf and Ibiza and 3 more. Often billed alongside MARCISM, Damian Lazarus and Black Coffee. Next up: TBA - Secret Location, Switzerland on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Carla Durisch is a house and techno artist based in Switzerland, with 41 gigs on
 
 MARCISM, Damian Lazarus, Black Coffee
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carladurisch/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carladurisch/)*

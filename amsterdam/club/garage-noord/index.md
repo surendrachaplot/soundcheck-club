@@ -1,6 +1,6 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "co-curated by T.NO with Toma Kami, MALLAURY, T.NO Bar40 hosted by Crossover" on Fri, 16 Oct 2026.
+Garage Noord is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "co-curated by T.NO with Toma Kami, MALLAURY, T.NO Bar40 hosted by Crossover" on Fri, 16 Oct 2026.
 
 Garage Noord is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including 300SkullsAndCounting, 42nd Avenue, Akua and Andre Zimmer and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
@@ -23,4 +23,4 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 15 upcoming gig
 
 Gedempt Hamerkanaal 40, 1012 KM Amsterdam, Amsterdam
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*

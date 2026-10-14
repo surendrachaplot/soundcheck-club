@@ -1,6 +1,6 @@
 # Reboot
 
-Reboot is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at PRST, Vienna on Fri, 16 Oct 2026.
+Reboot is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at PRST, Vienna on Fri, 16 Oct 2026.
 
 Reboot is a house and tech house artist based in Germany, with 60 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Bucharest and 14 more. Often billed alongside Valenzia, Boutiq.808 and Nick Curly. Next up: PRST, Vienna on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Reboot is a house and tech house artist based in Germany, with 60 gigs on soundc
 
 Valenzia, Boutiq.808, Nick Curly
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reboot/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reboot/)*

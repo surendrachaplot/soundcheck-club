@@ -1,6 +1,6 @@
 # funksmack
 
-funksmack is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Rising Sons Brewery, Cork on Sat, 24 Oct 2026.
+funksmack is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Rising Sons Brewery, Cork on Sat, 24 Oct 2026.
 
 funksmack is a disco and house artist based in Ireland, with 23 gigs on soundcheck across Cork and Dublin. Often billed alongside Boogiemann, Colleen 'Cosmo' Murphy and Danilo Milk. Next up: Rising Sons Brewery, Cork on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ funksmack is a disco and house artist based in Ireland, with 23 gigs on soundche
 
 Boogiemann, Colleen 'Cosmo' Murphy, Danilo Milk
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funksmack/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funksmack/)*

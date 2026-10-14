@@ -1,8 +1,8 @@
 # Sama' Abdulhadi
 
-Sama' Abdulhadi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
+Sama' Abdulhadi is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
 
-Sama' Abdulhadi is a techno and house artist based in Palestine, with 142 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 47 more. Often billed alongside Richie Hawtin, Adam Beyer and Anfisa Letyago. Next up: Iter Tenerife, Canary Islands on Fri 16 Oct.
+Sama' Abdulhadi is a techno and house artist based in Palestine, with 143 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 47 more. Often billed alongside Richie Hawtin, Adam Beyer and Anfisa Letyago. Next up: Iter Tenerife, Canary Islands on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Sama' Abdulhadi is a techno and house artist based in Palestine, with 142 gigs o
 | Sat, 17 Oct 2026 | fabric | London |
 | Fri, 23 Oct 2026 | Rex Club | Paris |
 | Sat, 31 Oct 2026 | Las Tres Chimeneas | Barcelona |
+| Fri, 6 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Sama' Abdulhadi is a techno and house artist based in Palestine, with 142 gigs o
 
 Richie Hawtin, Adam Beyer, Anfisa Letyago
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samaabdulhadi/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samaabdulhadi/)*

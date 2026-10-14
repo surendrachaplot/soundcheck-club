@@ -1,15 +1,17 @@
 # Hardt Antoine
 
-Hardt Antoine is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Signal, New York City on Sat, 17 Oct 2026.
+Hardt Antoine is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Signal, New York City on Sat, 17 Oct 2026.
 
-Hardt Antoine is a techno and house artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Caleesi, Sarah Kreis and Mira. Next up: Signal, New York City on Sat 17 Oct.
+Hardt Antoine is a techno and house artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Caleesi, Sarah Kreis and Mira. Next up: Signal, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Signal | New York City |
+| Sat, 17 Oct 2026 | Hive Club | Zurich |
 | Wed, 21 Oct 2026 | THE OTHER SIDE | Amsterdam |
+| Sat, 24 Oct 2026 | Ironworks | London |
 | Sat, 24 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 7 Nov 2026 | Frontón Bucareli | Mexico City |
 
@@ -28,4 +30,4 @@ Hardt Antoine is a techno and house artist based in United Kingdom, with 77 gigs
 
 Caleesi, Sarah Kreis, Mira
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hardtantoine/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hardtantoine/)*

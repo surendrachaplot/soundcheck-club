@@ -1,6 +1,6 @@
 # Roni (2)
 
-Roni (2) is a Techno and Footwork artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Brooklyn, New York City on Sat, 24 Oct 2026.
+Roni (2) is a Techno and Footwork artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Brooklyn, New York City on Sat, 24 Oct 2026.
 
 Roni is a techno and footwork artist, with 7 gigs on soundcheck across New York City. Often billed alongside Buzi, Charles Moon and Daniro. Next up: TBA - Brooklyn, New York City on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Roni is a techno and footwork artist, with 7 gigs on soundcheck across New York 
 
 Buzi, Charles Moon, Daniro
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roni-2/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roni-2/)*

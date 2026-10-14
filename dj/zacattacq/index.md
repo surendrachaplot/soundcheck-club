@@ -1,6 +1,6 @@
 # zacattacq
 
-zacattacq is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+zacattacq is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
 zacattacq is a garage and techno artist based in Australia, with 11 gigs on soundcheck across Australian Capital Territory, Brisbane, Melbourne and Sydney. Often billed alongside Baron Von Trax, Deens and Harry Hayes. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
@@ -25,4 +25,4 @@ zacattacq is a garage and techno artist based in Australia, with 11 gigs on soun
 
 Baron Von Trax, Deens, Harry Hayes
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zacattacq/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zacattacq/)*

@@ -1,6 +1,6 @@
 # Soul Mass Transit System
 
-Soul Mass Transit System is a Garage and House artist with 16 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at 11 Bromley Street, Birmingham on Sat, 17 Oct 2026.
+Soul Mass Transit System is a Garage and House artist with 16 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at 11 Bromley Street, Birmingham on Sat, 17 Oct 2026.
 
 Soul Mass Transit System is a garage and house artist based in United Kingdom, with 160 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 39 more. Often billed alongside Silva Bumpa, Dr Dubplate and Prozak (IRL). Next up: 11 Bromley Street, Birmingham on Sat 17 Oct.
 
@@ -36,4 +36,4 @@ Soul Mass Transit System is a garage and house artist based in United Kingdom, w
 
 Silva Bumpa, Dr Dubplate, Prozak (IRL)
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*

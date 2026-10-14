@@ -1,8 +1,8 @@
 # Paul Hazendonk
 
-Paul Hazendonk is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Fri, 23 Oct 2026.
+Paul Hazendonk is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Fri, 23 Oct 2026.
 
-Paul Hazendonk is a progressive house and techno artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam and The Hague. Often billed alongside Around Us, Francesco Pico and Callecat. Next up: Kadinsky Cafe, Amsterdam on Fri 23 Oct.
+Paul Hazendonk is a progressive house and techno artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam and The Hague. Often billed alongside Around Us, Callecat and Francesco Pico. Next up: Kadinsky Cafe, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Paul Hazendonk is a progressive house and techno artist based in Netherlands, wi
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Kadinsky Cafe | Amsterdam |
 | Sat, 24 Oct 2026 | Kadinsky Cafe | Amsterdam |
+| Sat, 21 Nov 2026 | Kaap Amsterdam | Amsterdam |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Paul Hazendonk is a progressive house and techno artist based in Netherlands, wi
 
 ## Shares bills with
 
-Around Us, Francesco Pico, Callecat
+Around Us, Callecat, Francesco Pico
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulhazendonk/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulhazendonk/)*

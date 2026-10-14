@@ -1,6 +1,6 @@
 # Kate Zubok
 
-Kate Zubok is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Silencio, Paris on Sat, 24 Oct 2026.
+Kate Zubok is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Silencio, Paris on Sat, 24 Oct 2026.
 
 Kate Zubok is a techno and deep house artist based in Ukraine, with 18 gigs on soundcheck across Antwerp, Athens, Lisbon and London and 1 more. Often billed alongside Agoria, Chambord and Guy Gerber. Next up: Silencio, Paris on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Kate Zubok is a techno and deep house artist based in Ukraine, with 18 gigs on s
 
 Agoria, Chambord, Guy Gerber
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katezubok/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katezubok/)*

@@ -1,8 +1,8 @@
 # Maddix
 
-Maddix is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA, Melbourne on Tue, 20 Oct 2026.
+Maddix is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Melbourne on Tue, 20 Oct 2026.
 
-Maddix is a techno and trance artist based in Netherlands, with 166 gigs on soundcheck across Amsterdam, Arizona, Austin and Bangkok and 59 more. Often billed alongside The Rocketman, Billy Gillies and Armin van Buuren. Next up: TBA, Melbourne on Tue 20 Oct.
+Maddix is a techno and trance artist based in Netherlands, with 167 gigs on soundcheck across Amsterdam, Arizona, Austin and Bangkok and 59 more. Often billed alongside The Rocketman, Billy Gillies and Armin van Buuren. Next up: TBA, Melbourne on Tue 20 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Maddix is a techno and trance artist based in Netherlands, with 166 gigs on soun
 | Sat, 31 Oct 2026 | Time Nightclub | Orange-county |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
+| Fri, 20 Nov 2026 | Melbourne Showgrounds | Melbourne |
 
 ## Recently played
 
@@ -33,4 +34,4 @@ Maddix is a techno and trance artist based in Netherlands, with 166 gigs on soun
 
 The Rocketman, Billy Gillies, Armin van Buuren
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maddix/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maddix/)*

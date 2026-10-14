@@ -1,13 +1,14 @@
 # FridaY (DE)
 
-FridaY (DE) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Vinoy Park, Florida on Fri, 20 Nov 2026.
+FridaY (DE) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Descent, Boston on Fri, 13 Nov 2026.
 
-FridaY (DE) is a techno and bass artist based in Germany, with 45 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 10 more. Often billed alongside Dirtie Blonde, H.U.D.L and Quarterdef. Next up: Vinoy Park, Florida on Fri 20 Nov.
+FridaY (DE) is a techno and bass artist based in Germany, with 46 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Boston and 11 more. Often billed alongside Dirtie Blonde, H.U.D.L and Quarterdef. Next up: Descent, Boston on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Descent | Boston |
 | Fri, 20 Nov 2026 | Vinoy Park | Florida |
 
 ## Recently played
@@ -25,4 +26,4 @@ FridaY (DE) is a techno and bass artist based in Germany, with 45 gigs on soundc
 
 Dirtie Blonde, H.U.D.L, Quarterdef
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/friday-de/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/friday-de/)*

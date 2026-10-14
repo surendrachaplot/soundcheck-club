@@ -1,14 +1,15 @@
 # Samtheman
 
-Samtheman is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Old Blue Last, London on Wed, 14 Oct 2026.
+Samtheman is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Old Blue Last, London on Wed, 14 Oct 2026.
 
-Samtheman is a house and garage artist based in United Kingdom, with 22 gigs on soundcheck across Brighton, Bristol, Leeds and London. Often billed alongside Izco, Capo Lee and Liam Bailey. Next up: The Old Blue Last, London on Wed 14 Oct.
+Samtheman is a house and garage artist based in United Kingdom, with 23 gigs on soundcheck across Brighton, Bristol, Leeds and London. Often billed alongside Izco, Capo Lee and Esa. Next up: The Old Blue Last, London on Wed 14 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 14 Oct 2026 | The Old Blue Last | London |
+| Fri, 30 Oct 2026 | The Jazz Cafe | London |
 | Fri, 30 Oct 2026 | The Jazz Cafe | London |
 
 ## Recently played
@@ -24,6 +25,6 @@ Samtheman is a house and garage artist based in United Kingdom, with 22 gigs on 
 
 ## Shares bills with
 
-Izco, Capo Lee, Liam Bailey
+Izco, Capo Lee, Esa
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samtheman/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samtheman/)*

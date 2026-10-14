@@ -1,6 +1,6 @@
 # Catch One
 
-Catch One is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Emanate - Twisted Tour (Open To Close)" on Fri, 16 Oct 2026.
+Catch One is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Emanate - Twisted Tour (Open To Close)" on Fri, 16 Oct 2026.
 
 Catch One is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs, with line-ups including Cali and Emanate. See dates, start times and who's playing. 4067 W Pico Blvd, Los Angeles, CA 90019.
 
@@ -18,4 +18,4 @@ Catch One is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs,
 
 4067 W Pico Blvd, Los Angeles, CA 90019, Los Angeles
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/catch-one/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/catch-one/)*

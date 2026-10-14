@@ -1,6 +1,6 @@
 # No Art ADE Festival After By Night at Nxt Museum
 
-No Art ADE Festival After By Night at Nxt Museum on Sat 24 Oct, Amsterdam. House. See the line-up on soundcheck.
+No Art ADE Festival After By Night at Nxt Museum on Sat 24 Oct, Amsterdam. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

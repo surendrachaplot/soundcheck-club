@@ -1,6 +1,6 @@
 # CHARBINKS
 
-CHARBINKS is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at ark (Melb), Melbourne on Sat, 17 Oct 2026.
+CHARBINKS is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at ark (Melb), Melbourne on Sat, 17 Oct 2026.
 
 CHARBINKS is a house and techno artist based in France, with 25 gigs on soundcheck across Melbourne. Often billed alongside Andrew88, Caleb Jay and Andrea Guadalupi. Next up: ark (Melb), Melbourne on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ CHARBINKS is a house and techno artist based in France, with 25 gigs on soundche
 
 Andrew88, Caleb Jay, Andrea Guadalupi
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charbinks/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charbinks/)*

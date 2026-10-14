@@ -1,8 +1,8 @@
 # Melody RA+RE
 
-Melody RA+RE is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Distrikt, Leeds on Sat, 17 Oct 2026.
+Melody RA+RE is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Distrikt, Leeds on Sat, 17 Oct 2026.
 
-Melody RA+RE is a house and electro artist based in France, with 128 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside Dr Banana, The Ghost and Truly Madly. Next up: Distrikt, Leeds on Sat 17 Oct.
+Melody RA+RE is a house and electro artist based in France, with 129 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 30 more. Often billed alongside Dr Banana, The Ghost and Truly Madly. Next up: Distrikt, Leeds on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Melody RA+RE is a house and electro artist based in France, with 128 gigs on sou
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |
 | Sat, 24 Oct 2026 | Rex Club | Paris |
 | Sat, 12 Dec 2026 | radial | London |
+| Thu, 14 Jan 2027 | Zanzibar - Various Venues | Tanzania |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Melody RA+RE is a house and electro artist based in France, with 128 gigs on sou
 
 Dr Banana, The Ghost, Truly Madly
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melodyrare/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melodyrare/)*

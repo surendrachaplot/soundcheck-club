@@ -1,6 +1,6 @@
 # ESHAUSTED
 
-ESHAUSTED is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Marmorbar, Berlin on Fri, 23 Oct 2026.
+ESHAUSTED is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Marmorbar, Berlin on Fri, 23 Oct 2026.
 
 ESHAUSTED is a trance and techno artist based in Indonesia, with 19 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 2 more. Often billed alongside DJ YARAK, EliaHaze and AbuGlitsch. Next up: Marmorbar, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ ESHAUSTED is a trance and techno artist based in Indonesia, with 19 gigs on soun
 
 DJ YARAK, EliaHaze, AbuGlitsch
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eshausted/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eshausted/)*

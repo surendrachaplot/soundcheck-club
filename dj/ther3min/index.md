@@ -1,6 +1,6 @@
 # Ther3min
 
-Ther3min is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at SMUT Athens, Athens on Sat, 17 Oct 2026.
+Ther3min is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at SMUT Athens, Athens on Sat, 17 Oct 2026.
 
 Ther3min is a techno and trance artist based in Greece, with 45 gigs on soundcheck across Athens. Often billed alongside Mr.M, Nadja and Nikos Thanos. Next up: SMUT Athens, Athens on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Ther3min is a techno and trance artist based in Greece, with 45 gigs on soundche
 
 Mr.M, Nadja, Nikos Thanos
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ther3min/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ther3min/)*

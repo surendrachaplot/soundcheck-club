@@ -1,6 +1,6 @@
 # BEEBA
 
-BEEBA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - DTLA, Los Angeles on Sat, 24 Oct 2026.
+BEEBA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - DTLA, Los Angeles on Sat, 24 Oct 2026.
 
 BEEBA is a techno and house artist based in United States of America, with 20 gigs on soundcheck across Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Disfu, FAUNA and JAQ.XS. Next up: TBA - DTLA, Los Angeles on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ BEEBA is a techno and house artist based in United States of America, with 20 gi
 
 Disfu, FAUNA (2), JAQ.XS
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beeba/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beeba/)*

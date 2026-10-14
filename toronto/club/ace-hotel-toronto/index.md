@@ -1,6 +1,6 @@
 # Ace Hotel Toronto
 
-Ace Hotel Toronto is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "The Nostalgia Club" on Fri, 16 Oct 2026.
+Ace Hotel Toronto is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "The Nostalgia Club" on Fri, 16 Oct 2026.
 
 Ace Hotel Toronto is a music venue in Toronto listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 51 Camden St, Toronto, ON M5V 1V2.
 
@@ -16,4 +16,4 @@ Ace Hotel Toronto is a music venue in Toronto listed on soundcheck. 3 upcoming g
 
 51 Camden St, Toronto, ON M5V 1V2, Toronto
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/ace-hotel-toronto/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/ace-hotel-toronto/)*

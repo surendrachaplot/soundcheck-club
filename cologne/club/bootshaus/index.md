@@ -1,6 +1,6 @@
 # Bootshaus
 
-Bootshaus is a music venue in Cologne with 19 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Chris Stassy pres. by Bootshaus" on Fri, 16 Oct 2026.
+Bootshaus is a music venue in Cologne with 19 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Chris Stassy pres. by Bootshaus" on Fri, 16 Oct 2026.
 
 Bootshaus is a music venue in Cologne listed on soundcheck. 19 upcoming gigs, with line-ups including 6EJOU, 999999999, Alle Farben and Arado and 2 more. See dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
 
@@ -23,4 +23,4 @@ Bootshaus is a music venue in Cologne listed on soundcheck. 19 upcoming gigs, wi
 
 Auenweg 173; 51063 Cologne; Germany, Cologne
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*

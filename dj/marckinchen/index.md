@@ -1,8 +1,8 @@
 # Marc Kinchen
 
-Marc Kinchen is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at 600 Pennsylvania Ave NW, Washington DC on Sat, 24 Oct 2026.
+Marc Kinchen is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at 600 Pennsylvania Ave NW, Washington DC on Sat, 24 Oct 2026.
 
-Marc Kinchen is a house and tech house artist based in United States of America, with 107 gigs on soundcheck across Antwerp, Austin, Bali and Barcelona and 26 more. Often billed alongside Calvin Harris, Sonny Fodera and Green Velvet. Next up: 600 Pennsylvania Ave NW, Washington DC on Sat 24 Oct.
+Marc Kinchen is a house and tech house artist based in United States of America, with 108 gigs on soundcheck across Antwerp, Austin, Bali and Barcelona and 26 more. Often billed alongside Calvin Harris, Sonny Fodera and Green Velvet. Next up: 600 Pennsylvania Ave NW, Washington DC on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Marc Kinchen is a house and tech house artist based in United States of America,
 | Sat, 24 Oct 2026 | 600 Pennsylvania Ave NW | Washington DC |
 | Sat, 31 Oct 2026 | DRUMSHEDS | London |
 | Sat, 14 Nov 2026 | Savaya Bali | Bali |
+| Sat, 5 Dec 2026 | Beach House San Diego | San Diego |
 | Sat, 6 Feb 2027 | Depot | Cardiff |
 | Sat, 6 Mar 2027 | The Telegraph Building | Belfast |
 
@@ -29,4 +30,4 @@ Marc Kinchen is a house and tech house artist based in United States of America,
 
 Calvin Harris, Sonny Fodera, Green Velvet
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marckinchen/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marckinchen/)*

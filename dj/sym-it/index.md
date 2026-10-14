@@ -1,6 +1,6 @@
 # SYM
 
-SYM is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Fri, 23 Oct 2026.
+SYM is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Fri, 23 Oct 2026.
 
 SYM is a techno and acid artist, with 66 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Hong Kong and 4 more. Often billed alongside Niko Sanchez, H-R-Z and Lino Fuso. Next up: Amsterdams Most Wanted, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ SYM is a techno and acid artist, with 66 gigs on soundcheck across Amsterdam, Ba
 
 Niko Sanchez, H-R-Z, Lino Fuso
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sym-it/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sym-it/)*

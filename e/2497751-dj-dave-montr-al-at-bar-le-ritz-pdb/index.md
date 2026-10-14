@@ -1,6 +1,6 @@
 # DJ_Dave - Montréal at Bar Le Ritz PDB
 
-DJ_Dave - Montréal at Bar Le Ritz PDB on Sat 17 Oct, Montreal. 1 artist: DJ_Dave. Electro and Pop. See the line-up on soundcheck.
+DJ_Dave - Montréal at Bar Le Ritz PDB on Sat 17 Oct, Montreal. 2 artists: DJ_Dave and sineila. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ DJ_Dave - Montréal at Bar Le Ritz PDB on Sat 17 Oct, Montreal. 1 artist: DJ_Dav
 ## Line-up
 
 - DJ_Dave
+- sineila
 
 *Source: [soundcheck](https://soundcheck.club/e/2497751-dj-dave-montr-al-at-bar-le-ritz-pdb/)*

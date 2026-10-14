@@ -1,8 +1,8 @@
 # Richie Hawtin
 
-Richie Hawtin is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at FVTVR, Paris on Sat, 24 Oct 2026.
+Richie Hawtin is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at FVTVR, Paris on Sat, 24 Oct 2026.
 
-Richie Hawtin is a techno and house artist based in United Kingdom, with 185 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Héctor Oaks, Adiel and KI/KI. Next up: FVTVR, Paris on Sat 24 Oct.
+Richie Hawtin is a techno and house artist based in United Kingdom, with 186 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Héctor Oaks, Adiel and KI/KI. Next up: FVTVR, Paris on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Richie Hawtin is a techno and house artist based in United Kingdom, with 185 gig
 | Sat, 24 Oct 2026 | FVTVR | Paris |
 | Fri, 30 Oct 2026 | Gold Bar Hangar | California |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
+| Fri, 6 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
 | Fri, 27 Nov 2026 | Ace*Mission Studios | Los Angeles |
 | Fri, 1 Jan 2027 | Bosc Tancat / Diverbosc | Barcelona |
 
@@ -29,4 +30,4 @@ Richie Hawtin is a techno and house artist based in United Kingdom, with 185 gig
 
 Héctor Oaks, Adiel, KI/KI
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*

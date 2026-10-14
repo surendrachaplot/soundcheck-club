@@ -1,6 +1,6 @@
 # Glow in the Dark 'Halloween Special' 2026 at Maassilo
 
-Glow in the Dark 'Halloween Special' 2026 at Maassilo on Sat 31 Oct, Rotterdam. 27 artists: AAT (NL), amara, AUTOFLOWER and Benny Rodrigues and 23 more. Techno and House. See the line-up on soundcheck.
+Glow in the Dark 'Halloween Special' 2026 at Maassilo on Sat 31 Oct, Rotterdam. 26 artists: AAT (NL), amara, AUTOFLOWER and Benny Rodrigues and 22 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -29,7 +29,6 @@ Glow in the Dark 'Halloween Special' 2026 at Maassilo on Sat 31 Oct, Rotterdam. 
 - Michel de Hey
 - MIT (6)
 - NewTone
-- Nyra
 - Olive Anguz
 - Sam Hofman
 - SANTØS

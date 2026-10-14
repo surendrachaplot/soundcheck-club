@@ -1,6 +1,6 @@
 # Baka G
 
-Baka G is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Ceryle, Egypt on Thu, 15 Oct 2026.
+Baka G is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Ceryle, Egypt on Thu, 15 Oct 2026.
 
 Baka G is a house and disco artist based in Belgium, with 51 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 9 more. Often billed alongside Crowd Control, Maggy Smiss and Cinthie. Next up: Ceryle, Egypt on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Baka G is a house and disco artist based in Belgium, with 51 gigs on soundcheck 
 
 Crowd Control, Maggy Smiss, Cinthie
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bakag/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bakag/)*

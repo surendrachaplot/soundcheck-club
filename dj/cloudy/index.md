@@ -1,6 +1,6 @@
 # Cloudy
 
-Cloudy is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Lutfi Kirdar Congress Center, Istanbul on Sat, 17 Oct 2026.
+Cloudy is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Lutfi Kirdar Congress Center, Istanbul on Sat, 17 Oct 2026.
 
 Cloudy is a techno and trance artist based in Germany, with 228 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 62 more. Often billed alongside Adrian Mills, KUKO and Johannes Schuster. Next up: Lutfi Kirdar Congress Center, Istanbul on Sat 17 Oct.
 
@@ -36,4 +36,4 @@ Cloudy is a techno and trance artist based in Germany, with 228 gigs on soundche
 
 Adrian Mills, KUKO, Johannes Schuster
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cloudy/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cloudy/)*

@@ -1,6 +1,6 @@
 # Treehouse
 
-Treehouse is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "GiSCHT. - Welle 02" on Sat, 17 Oct 2026.
+Treehouse is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "GiSCHT. - Welle 02" on Sat, 17 Oct 2026.
 
 Treehouse is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Jaelo, Karenz, Oblique and REC° and 2 more. See dates, start times and who's playing. Revaler Str. 99, 10245 Berlin.
 
@@ -14,4 +14,4 @@ Treehouse is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with 
 
 Revaler Str. 99, 10245 Berlin, Berlin
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/treehouse/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/treehouse/)*

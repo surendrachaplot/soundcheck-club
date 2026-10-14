@@ -1,6 +1,6 @@
 # Karretero
 
-Karretero is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at fabric, London on Mon, 28 Dec 2026.
+Karretero is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at fabric, London on Mon, 28 Dec 2026.
 
 Karretero is a techno and tech house artist based in Spain, with 49 gigs on soundcheck across Barcelona, Ibiza, Lisbon and London and 4 more. Often billed alongside Joseph Capriati, Chelina Manuhutu and Vitrie Vitoli. Next up: fabric, London on Mon 28 Dec.
 
@@ -25,4 +25,4 @@ Karretero is a techno and tech house artist based in Spain, with 49 gigs on soun
 
 Joseph Capriati, Chelina Manuhutu, Vitrie Vitoli
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karretero/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karretero/)*

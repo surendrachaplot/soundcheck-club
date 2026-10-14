@@ -1,6 +1,6 @@
 # Sick Seek
 
-Sick Seek is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Bunker, Turin on Sat, 17 Oct 2026.
+Sick Seek is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Bunker, Turin on Sat, 17 Oct 2026.
 
 Sick Seek is a techno and electro artist based in Italy, with 31 gigs on soundcheck across Milan and Turin. Often billed alongside Andrea Vietti, Andrea Martello and Enrico Vivaldi. Next up: Bunker, Turin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Sick Seek is a techno and electro artist based in Italy, with 31 gigs on soundch
 
 Andrea Vietti, Andrea Martello, Enrico Vivaldi
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sickseek/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sickseek/)*

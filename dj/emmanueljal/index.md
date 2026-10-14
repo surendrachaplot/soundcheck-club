@@ -1,6 +1,6 @@
 # Emmanuel Jal
 
-Emmanuel Jal is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Sarnıç Istanbul, Istanbul on Sun, 31 Jan 2027.
+Emmanuel Jal is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Sarnıç Istanbul, Istanbul on Sun, 31 Jan 2027.
 
 Emmanuel Jal is an afro house and house artist based in South Sudan, with 22 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 7 more. Often billed alongside Enzo Siffredi, Orkun Bozdemir and ADIOS AYER. Next up: Sarnıç Istanbul, Istanbul on Sun 31 Jan.
 
@@ -25,4 +25,4 @@ Emmanuel Jal is an afro house and house artist based in South Sudan, with 22 gig
 
 Enzo Siffredi, Orkun Bozdemir, ADIOS AYER
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmanueljal/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmanueljal/)*

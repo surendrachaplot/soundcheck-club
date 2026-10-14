@@ -1,8 +1,8 @@
 # Grub Stretford
 
-Grub Stretford is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "GRUB Stretford: Steam Radio Showcase" on Thu, 15 Oct 2026.
+Grub Stretford is a music venue in Manchester with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "GRUB Stretford: Steam Radio Showcase" on Thu, 15 Oct 2026.
 
-Grub Stretford is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with line-ups including SNO (UK) and Stereo Master. See dates, start times and who's playing. Multi-Storey Car park, King St, Stretford, Manchester M32 9AH.
+Grub Stretford is a music venue in Manchester listed on soundcheck. 9 upcoming gigs, with line-ups including SNO (UK), Stereo Master and Werkha. See dates, start times and who's playing. Multi-Storey Car park, King St, Stretford, Manchester M32 9AH.
 
 ## What's on
 
@@ -15,10 +15,11 @@ Grub Stretford is a music venue in Manchester listed on soundcheck. 8 upcoming g
 | Sun, 18 Oct 2026 | GRUB Stretford: Hip hop Chess Club |  |
 | Fri, 23 Oct 2026 | GRUB Stretford: Super Disco Friends |  |
 | Sat, 24 Oct 2026 | GRUB Stretford: DJ Dave Fortune |  |
+| Fri, 6 Nov 2026 | GRUB Stretford: Werkha (DJ Set) | Werkha |
 | Fri, 13 Nov 2026 | GRUB Stretford: SNO (DJ Set) | SNO (UK) |
 
 ## Address
 
 Multi-Storey Car park, King St, Stretford, Manchester M32 9AH, Manchester
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/grub-stretford/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/grub-stretford/)*

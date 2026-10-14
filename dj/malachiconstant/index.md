@@ -1,6 +1,6 @@
 # Malachi Constant
 
-Malachi Constant is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 7 Nov 2026.
+Malachi Constant is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 7 Nov 2026.
 
 Malachi Constant is an acid and techno artist based in Czech Republic, with 14 gigs on soundcheck across Prague. Often billed alongside Eva Porating, Marie Pravda and Høll. Next up: Ankali & Planeta Za, Prague on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Malachi Constant is an acid and techno artist based in Czech Republic, with 14 g
 
 Eva Porating, Marie Pravda, Høll
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malachiconstant/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malachiconstant/)*

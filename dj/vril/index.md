@@ -1,8 +1,8 @@
 # .VRIL
 
-.VRIL is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
+.VRIL is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
-.VRIL is a techno and house artist based in Germany, with 132 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside DJ Dustin, Edward and Konstantin. Next up: ZENNER, Berlin on Fri 16 Oct.
+.VRIL is a techno and house artist based in Germany, with 133 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside DJ Dustin, Edward and Konstantin. Next up: ZENNER, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
 | Fri, 6 Nov 2026 | Gray Area | San Francisco/Oakland |
+| Sat, 7 Nov 2026 | Green Room NYC | New York City |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 | Sat, 21 Nov 2026 | Magasins Généraux | Paris |
 
@@ -29,4 +30,4 @@
 
 DJ Dustin, Edward, Konstantin
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vril/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vril/)*

@@ -1,6 +1,6 @@
 # Palais: In House at Palais
 
-Palais: In House on Sat 31 Oct, London. See the line-up on soundcheck.
+Palais: In House on Sat 31 Oct, London. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

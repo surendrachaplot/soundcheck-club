@@ -1,6 +1,6 @@
 # MELLA MARA
 
-MELLA MARA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Thu, 22 Oct 2026.
+MELLA MARA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Thu, 22 Oct 2026.
 
 MELLA MARA is a house and techno artist based in Germany, with 23 gigs on soundcheck across Amsterdam, Berlin and Ibiza. Often billed alongside Pilar Jordan, kattastrophe and rundom. Next up: Nicholas Groente & Fruit, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ MELLA MARA is a house and techno artist based in Germany, with 23 gigs on soundc
 
 Pilar Jordan, kattastrophe, rundom
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mellamara/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mellamara/)*

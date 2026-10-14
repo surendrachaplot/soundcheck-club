@@ -1,6 +1,6 @@
 # PARALLELS at H0L0
 
-PARALLELS at H0L0 on Wed 21 Oct, New York City. 5 artists: Alchemy (US), ceviché, KOLO and Pablo Vitale and 1 more. Techno. See the line-up on soundcheck.
+PARALLELS at H0L0 on Wed 21 Oct, New York City. 5 artists: a.gar, Fritz Ta, JEK G and Pablo Vitale and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,10 +10,10 @@ PARALLELS at H0L0 on Wed 21 Oct, New York City. 5 artists: Alchemy (US), cevich�
 
 ## Line-up
 
-- Alchemy (US)
-- ceviché
-- KOLO
+- a.gar
+- Fritz Ta
+- JEK G
 - Pablo Vitale
-- VHS
+- R-DNA
 
 *Source: [soundcheck](https://soundcheck.club/e/2555009-parallels-at-h0l0/)*

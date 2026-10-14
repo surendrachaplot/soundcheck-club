@@ -1,6 +1,6 @@
 # Dj Ojojo
 
-Dj Ojojo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Bukanyr Boat, Prague on Fri, 16 Oct 2026.
+Dj Ojojo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Bukanyr Boat, Prague on Fri, 16 Oct 2026.
 
 Dj Ojojo is a techno and house artist, with 21 gigs on soundcheck across Prague. Often billed alongside Misha Jaru, S.Tian and Jemazzz. Next up: Bukanyr Boat, Prague on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Dj Ojojo is a techno and house artist, with 21 gigs on soundcheck across Prague.
 
 Misha Jaru, S.Tian, Jemazzz
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djojojo/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djojojo/)*

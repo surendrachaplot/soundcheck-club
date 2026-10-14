@@ -1,6 +1,6 @@
 # Delavas
 
-Delavas is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Golden Gate, Berlin on Fri, 16 Oct 2026.
+Delavas is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Golden Gate, Berlin on Fri, 16 Oct 2026.
 
 Delavas is a house and techno artist based in Sweden, with 30 gigs on soundcheck across Berlin, Copenhagen, Lisbon and Stockholm. Often billed alongside Reina Bandida, Abstraxion and Andree Bohlin. Next up: Golden Gate, Berlin on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Delavas is a house and techno artist based in Sweden, with 30 gigs on soundcheck
 
 Reina Bandida, Abstraxion, Andree Bohlin
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delavas/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delavas/)*

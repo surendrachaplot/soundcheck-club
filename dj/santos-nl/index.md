@@ -1,6 +1,6 @@
 # SANTØS
 
-SANTØS is a Techno and Industrial artist with 13 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Edelfettwerk, Hamburg on Fri, 16 Oct 2026.
+SANTØS is a Techno and Industrial artist with 13 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Edelfettwerk, Hamburg on Fri, 16 Oct 2026.
 
 SANTØS is a techno and industrial artist based in Netherlands, with 112 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 30 more. Often billed alongside KARAH, KLOFAMA and 6EJOU. Next up: Edelfettwerk, Hamburg on Fri 16 Oct.
 
@@ -19,7 +19,7 @@ SANTØS is a techno and industrial artist based in Netherlands, with 112 gigs on
 | Sat, 21 Nov 2026 | Panama | Amsterdam |
 | Sun, 29 Nov 2026 | Tirana Olympic Park | Tirana |
 | Thu, 31 Dec 2026 | Garage Klub | Antwerp |
-| Thu, 31 Dec 2026 | TBA - Paris | Paris |
+| Thu, 31 Dec 2026 | Le Grand Dome | Paris |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ SANTØS is a techno and industrial artist based in Netherlands, with 112 gigs on
 
 KARAH, KLOFAMA, 6EJOU
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santos-nl/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santos-nl/)*

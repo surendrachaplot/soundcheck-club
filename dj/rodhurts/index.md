@@ -1,6 +1,6 @@
 # Rod Hurts
 
-Rod Hurts is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Rote Flora, Hamburg on Sat, 17 Oct 2026.
+Rod Hurts is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Rote Flora, Hamburg on Sat, 17 Oct 2026.
 
 Rod Hurts is a techno and psytrance artist, with 14 gigs on soundcheck across Hamburg. Often billed alongside Aio, Antoine Baiser and Kolja Broxi. Next up: Rote Flora, Hamburg on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Rod Hurts is a techno and psytrance artist, with 14 gigs on soundcheck across Ha
 
 Aio, Antoine Baiser, Kolja Broxi
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodhurts/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodhurts/)*

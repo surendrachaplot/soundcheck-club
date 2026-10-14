@@ -1,6 +1,6 @@
 # Gremlinz
 
-Gremlinz is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Cafeteria, Toronto on Fri, 16 Oct 2026.
+Gremlinz is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Cafeteria, Toronto on Fri, 16 Oct 2026.
 
 Gremlinz is a drum & bass and jungle artist based in Canada, with 46 gigs on soundcheck across Amsterdam, Birmingham, Bristol and Denver and 10 more. Often billed alongside Jesta, Rumbleton and Rhythmo. Next up: Cafeteria, Toronto on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Gremlinz is a drum & bass and jungle artist based in Canada, with 46 gigs on sou
 
 Jesta, Rumbleton, Rhythmo
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gremlinz/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gremlinz/)*

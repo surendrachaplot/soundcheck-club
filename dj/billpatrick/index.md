@@ -1,6 +1,6 @@
 # Bill Patrick
 
-Bill Patrick is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Bill Patrick is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Bill Patrick is a house and techno artist based in United States of America, with 33 gigs on soundcheck across Chicago, Ibiza, London and Los Angeles and 5 more. Often billed alongside Seth Troxler, Greg Paulus and Maher Daniel. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Bill Patrick is a house and techno artist based in United States of America, wit
 
 Seth Troxler, Greg Paulus, Maher Daniel
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billpatrick/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billpatrick/)*

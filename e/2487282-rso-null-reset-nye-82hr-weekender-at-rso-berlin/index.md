@@ -1,6 +1,6 @@
 # RSO: NULL RESET — NYE 82HR WEEKENDER at RSO.BERLIN
 
-RSO: NULL RESET — NYE 82HR WEEKENDER at RSO.BERLIN on Thu 31 Dec, Berlin. 37 artists: Adiel, Akua, Alarico and AMORAL and 33 more. Techno. See the line-up on soundcheck.
+RSO: NULL RESET — NYE 82HR WEEKENDER at RSO.BERLIN on Thu 31 Dec, Berlin. 38 artists: Adiel, Akua, Alarico and AMORAL and 34 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -38,6 +38,7 @@ RSO: NULL RESET — NYE 82HR WEEKENDER at RSO.BERLIN on Thu 31 Dec, Berlin. 37 a
 - Miley Serious
 - Nastia Reigel
 - NIKS
+- Pariah
 - Phil Berg
 - Philipp Drube
 - Pureblast

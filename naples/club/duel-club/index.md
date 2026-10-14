@@ -1,6 +1,6 @@
 # Duel Club
 
-Duel Club is a music venue in Naples with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Harmonia // SYREETA // Romano Alfieri // Chris Bowl // Rakk" on Fri, 16 Oct 2026.
+Duel Club is a music venue in Naples with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Harmonia // SYREETA // Romano Alfieri // Chris Bowl // Rakk" on Fri, 16 Oct 2026.
 
 Duel Club is a music venue in Naples listed on soundcheck. 5 upcoming gigs, with line-ups including Cassius, Diego Cardarelli, Harmonia and Key Eff and 2 more. See dates, start times and who's playing. Via Antiniana 2/a, 80078 Pozzuoli, Napoli, Italy.
 
@@ -18,4 +18,4 @@ Duel Club is a music venue in Naples listed on soundcheck. 5 upcoming gigs, with
 
 Via Antiniana 2/a, 80078 Pozzuoli, Napoli, Italy, Naples
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/duel-club/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/duel-club/)*

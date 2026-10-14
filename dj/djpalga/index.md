@@ -1,6 +1,6 @@
 # DJ Palga
 
-DJ Palga is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Schrotty, Cologne on Sat, 28 Nov 2026.
+DJ Palga is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Schrotty, Cologne on Sat, 28 Nov 2026.
 
 DJ Palga is a techno and house artist based in Germany, with 49 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Munich. Often billed alongside HiHat, Mike Momburg and DJ ASS TITS. Next up: Schrotty, Cologne on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DJ Palga is a techno and house artist based in Germany, with 49 gigs on soundche
 
 HiHat, Mike Momburg, DJ ASS TITS
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpalga/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpalga/)*

@@ -1,14 +1,16 @@
 # YAMARCHY
 
-YAMARCHY is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Mitsuki, Tokyo on Thu, 15 Oct 2026.
+YAMARCHY is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Mitsuki, Tokyo on Thu, 15 Oct 2026.
 
-YAMARCHY is a house and techno artist based in Japan, with 336 gigs on soundcheck across Bali, Bangkok, Berlin and Hong Kong and 10 more. Often billed alongside Monkey Timers, CHIDA and Kenji Takimi. Next up: Mitsuki, Tokyo on Thu 15 Oct.
+YAMARCHY is a house and techno artist based in Japan, with 338 gigs on soundcheck across Bali, Bangkok, Berlin and Hong Kong and 10 more. Often billed alongside Monkey Timers, CHIDA and Kenji Takimi. Next up: Mitsuki, Tokyo on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | Mitsuki | Tokyo |
+| Fri, 16 Oct 2026 | DJ Bar Bridge | Tokyo |
+| Wed, 21 Oct 2026 | Mitsuki | Tokyo |
 | Sat, 24 Oct 2026 | VENT | Tokyo |
 | Sat, 21 Nov 2026 | Noon + Cafe | Osaka |
 
@@ -27,4 +29,4 @@ YAMARCHY is a house and techno artist based in Japan, with 336 gigs on soundchec
 
 Monkey Timers, CHIDA, Kenji Takimi
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamarchy/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamarchy/)*

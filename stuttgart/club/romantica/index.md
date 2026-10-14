@@ -1,14 +1,13 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "MÄRCHENSTUNDE am DIENSTAG mit Hjalte & Stereo Visions" on Tue, 13 Oct 2026.
+Romantica is a music venue in Stuttgart with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "KATZENGOLD am DONNERSTAG meets 'VIOLI' mit RIKA & TACHYCARDIE" on Thu, 15 Oct 2026.
 
-Romantica is a music venue in Stuttgart listed on soundcheck. 9 upcoming gigs, with line-ups including Alexander Maier, chaos.disco.club, Daniel Bortz and Femcat and 2 more. See dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
+Romantica is a music venue in Stuttgart listed on soundcheck. 8 upcoming gigs, with line-ups including Alexander Maier, chaos.disco.club, Daniel Bortz and Femcat and 2 more. See dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 13 Oct 2026 | MÄRCHENSTUNDE am DIENSTAG mit Hjalte & Stereo Visions | Hjalte, Stereo Visions |
 | Thu, 15 Oct 2026 | KATZENGOLD am DONNERSTAG meets 'VIOLI' mit RIKA & TACHYCARDIE |  |
 | Fri, 16 Oct 2026 | Rythmo Romántico meets Panopticum | Jochen Junker |
 | Sat, 17 Oct 2026 | Freeride Millenium with Muallem (Blitz), Skinny P, Jorkes | Jorkes, Muallem, Skinny P (2) |
@@ -22,4 +21,4 @@ Romantica is a music venue in Stuttgart listed on soundcheck. 9 upcoming gigs, w
 
 Hauptstatter Str. 40, Stuttgart, Stuttgart
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*

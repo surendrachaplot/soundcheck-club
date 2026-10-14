@@ -1,6 +1,6 @@
 # Miss Kittin
 
-Miss Kittin is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Elastica, Vilnius on Fri, 16 Oct 2026.
+Miss Kittin is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Elastica, Vilnius on Fri, 16 Oct 2026.
 
 Miss Kittin is a techno and electro artist based in France, with 103 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside The Hacker, BASHKKA and JakoJako. Next up: Elastica, Vilnius on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ Miss Kittin is a techno and electro artist based in France, with 103 gigs on sou
 
 The Hacker, BASHKKA, JakoJako
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misskittin/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misskittin/)*

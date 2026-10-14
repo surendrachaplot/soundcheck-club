@@ -1,6 +1,6 @@
 # TBA - The Vault, Morden 
 
-TBA - The Vault, Morden  is a music venue in London with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "Eargasm - The Heist Before Xmas " on Sat, 12 Dec 2026.
+TBA - The Vault, Morden  is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "Eargasm - The Heist Before Xmas " on Sat, 12 Dec 2026.
 
 TBA - The Vault, Morden  is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - The Vault, Morden  is a music venue in London listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Eargasm - The Heist Before Xmas  |  |
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-the-vault-morden/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-the-vault-morden/)*

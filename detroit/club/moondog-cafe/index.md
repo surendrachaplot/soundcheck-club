@@ -1,6 +1,6 @@
 # Moondog Cafe
 
-Moondog Cafe is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "DIE SYSTEMS SHOWCASE (DEEP GLENS, OTO DOJO, SEAN AND DIEGO)" on Fri, 6 Nov 2026.
+Moondog Cafe is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "DIE SYSTEMS SHOWCASE (DEEP GLENS, OTO DOJO, SEAN AND DIEGO)" on Fri, 6 Nov 2026.
 
 Moondog Cafe is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including deep glens and otodojo. See dates, start times and who's playing. 8045 Linwood St #2, Detroit, MI 48206.
 
@@ -15,4 +15,4 @@ Moondog Cafe is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, 
 
 8045 Linwood St #2, Detroit, MI 48206, Detroit
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/moondog-cafe/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/moondog-cafe/)*

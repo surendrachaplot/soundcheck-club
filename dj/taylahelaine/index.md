@@ -1,6 +1,6 @@
 # Taylah Elaine
 
-Taylah Elaine is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at M.O.T, London on Sat, 28 Nov 2026.
+Taylah Elaine is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at M.O.T, London on Sat, 28 Nov 2026.
 
 Taylah Elaine is a hip-hop and house artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 29 more. Often billed alongside Jyoty, DJ Heartstring and Donnie Sunshine. Next up: M.O.T, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Taylah Elaine is a hip-hop and house artist based in United Kingdom, with 79 gig
 
 Jyoty, DJ Heartstring, Donnie Sunshine
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taylahelaine/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taylahelaine/)*

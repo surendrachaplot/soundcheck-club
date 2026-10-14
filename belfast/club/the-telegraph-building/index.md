@@ -1,6 +1,6 @@
 # The Telegraph Building
 
-The Telegraph Building is a music venue in Belfast with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "SHINE -- Skin On Skin" on Fri, 16 Oct 2026.
+The Telegraph Building is a music venue in Belfast with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "SHINE -- Skin On Skin" on Fri, 16 Oct 2026.
 
 The Telegraph Building is a music venue in Belfast listed on soundcheck. 9 upcoming gigs, with line-ups including Andrew Cairns, Cloudy, DIEBYVEG and Duke Dumont and 2 more. See dates, start times and who's playing. 124-144 Royal Avenue, Belfast, BT1 1ND, United Kingdom.
 
@@ -22,4 +22,4 @@ The Telegraph Building is a music venue in Belfast listed on soundcheck. 9 upcom
 
 124-144 Royal Avenue, Belfast, BT1 1ND, United Kingdom, Belfast
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-telegraph-building/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-telegraph-building/)*

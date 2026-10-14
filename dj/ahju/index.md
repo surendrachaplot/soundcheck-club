@@ -1,6 +1,6 @@
 # AHJU
 
-AHJU is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA, Sydney on Sat, 31 Oct 2026.
+AHJU is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Sydney on Sat, 31 Oct 2026.
 
 AHJU is a house and techno artist based in Australia, with 37 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Reenie, Aldonna and Jungist. Next up: TBA, Sydney on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ AHJU is a house and techno artist based in Australia, with 37 gigs on soundcheck
 
 Reenie, Aldonna, Jungist
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ahju/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ahju/)*

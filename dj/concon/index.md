@@ -1,6 +1,6 @@
 # ConCon
 
-ConCon is a Ambient and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - a soft opening (by the Morgan L - RSVP for address), New York City on Wed, 21 Oct 2026.
+ConCon is a Ambient and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - a soft opening (by the Morgan L - RSVP for address), New York City on Wed, 21 Oct 2026.
 
 ConCon is an ambient and pop artist based in United States of America, with 47 gigs on soundcheck across Leeds, Munich and New York City. Often billed alongside BABES The DJ, Adam R and Boyfriend Dick. Next up: TBA - a soft opening (by the Morgan L - RSVP for address), New York City on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ ConCon is an ambient and pop artist based in United States of America, with 47 g
 
 BABES The DJ, Adam R, Boyfriend Dick
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/concon/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/concon/)*

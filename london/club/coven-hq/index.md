@@ -1,6 +1,6 @@
 # Coven HQ
 
-Coven HQ is a music venue in London with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "HOUSE OF ABLOH PRESENTS: GET JOSH HOME" on Wed, 14 Oct 2026.
+Coven HQ is a music venue in London with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "HOUSE OF ABLOH PRESENTS: GET JOSH HOME" on Wed, 14 Oct 2026.
 
 Coven HQ is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including La Negrita and SCARBA. See dates, start times and who's playing. 30 Old Compton Street, W1D 4UR, London, UK.
 
@@ -18,4 +18,4 @@ Coven HQ is a music venue in London listed on soundcheck. 5 upcoming gigs, with 
 
 30 Old Compton Street, W1D 4UR, London, UK, London
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/coven-hq/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/coven-hq/)*

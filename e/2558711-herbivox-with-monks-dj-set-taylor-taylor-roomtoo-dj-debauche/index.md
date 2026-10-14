@@ -1,6 +1,6 @@
 # Herbivox with Monks (DJ Set), Taylor Taylor, RoomToo, DJ Debauchery, Ken & Thomas H at Commune
 
-Herbivox with Monks (DJ Set), Taylor Taylor, RoomToo, DJ Debauchery, Ken & Thomas H at Commune on Fri 11 Dec, Liverpool. 2 artists: RoomToo and Taylor Taylor (NL). Acid and New Wave. See the line-up on soundcheck.
+Herbivox with Monks (DJ Set), Taylor Taylor, RoomToo, DJ Debauchery, Ken & Thomas H at Commune on Fri 11 Dec, Liverpool. 3 artists: Ken(UK), RoomToo and Taylor Taylor (NL). Acid and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Herbivox with Monks (DJ Set), Taylor Taylor, RoomToo, DJ Debauchery, Ken & Thoma
 
 ## Line-up
 
+- Ken(UK)
 - RoomToo
 - Taylor Taylor (NL)
 

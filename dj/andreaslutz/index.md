@@ -1,6 +1,6 @@
 # Andreas Lutz
 
-Andreas Lutz is a electronic artist with 10 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Secret Location, Berlin on Wed, 14 Oct 2026.
+Andreas Lutz is a electronic artist with 10 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Secret Location, Berlin on Wed, 14 Oct 2026.
 
 Andreas Lutz is an electronic artist based in Germany, with 16 gigs on soundcheck across Berlin, Krakow and Vienna. Often billed alongside Kon (FR), Martin Messier and media.tribe. Next up: TBA - Secret Location, Berlin on Wed 14 Oct.
 
@@ -32,4 +32,4 @@ Andreas Lutz is an electronic artist based in Germany, with 16 gigs on soundchec
 
 Kon (FR), Martin Messier, media.tribe
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaslutz/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaslutz/)*

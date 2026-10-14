@@ -1,6 +1,6 @@
 # Xiorro
 
-Xiorro is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at UNDERCITY, Seoul on Sat, 10 Oct 2026.
+Xiorro is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at UNDERCITY, Seoul on Sat, 10 Oct 2026.
 
 Xiorro is a techno and house artist based in United States of America, with 85 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Boston and 26 more. Often billed alongside Laure Croft, Parallx and Disguised. Next up: UNDERCITY, Seoul on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Xiorro is a techno and house artist based in United States of America, with 85 g
 
 Laure Croft, Parallx, Disguised
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xiorro/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xiorro/)*

@@ -1,6 +1,6 @@
 # Felix E
 
-Felix E is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Bar Feijoa, Amsterdam on Sun, 25 Oct 2026.
+Felix E is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Bar Feijoa, Amsterdam on Sun, 25 Oct 2026.
 
 Felix E is a techno and progressive house artist, with 33 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Frankfurt and 4 more. Often billed alongside Michael Ritter, Till Antonio and Chris Zippel. Next up: Bar Feijoa, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Felix E is a techno and progressive house artist, with 33 gigs on soundcheck acr
 
 Michael Ritter, Till Antonio, Chris Zippel
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixe/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixe/)*

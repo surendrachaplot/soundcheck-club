@@ -1,6 +1,6 @@
 # Felixculpah
 
-Felixculpah is a Dubstep and Dub artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 24 Oct 2026.
+Felixculpah is a Dubstep and Dub artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 24 Oct 2026.
 
 Felixculpah is a dubstep and dub artist based in United Kingdom, with 36 gigs on soundcheck across Antwerp, Barcelona, Bucharest and Leeds and 4 more. Often billed alongside Breakfake, SGT Pokes and Kahn. Next up: La Station - Gare des Mines, Paris on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Felixculpah is a dubstep and dub artist based in United Kingdom, with 36 gigs on
 
 Breakfake, SGT Pokes, Kahn
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixculpah/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixculpah/)*

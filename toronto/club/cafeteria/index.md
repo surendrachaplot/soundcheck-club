@@ -1,8 +1,8 @@
 # Cafeteria
 
-Cafeteria is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Bass Station X Soul in Motion LDN " on Fri, 16 Oct 2026.
+Cafeteria is a music venue in Toronto with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Bass Station X Soul in Motion LDN " on Fri, 16 Oct 2026.
 
-Cafeteria is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including Ard1n, Blkvirgo, Ciel and Delicious DJ and 2 more. See dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
+Cafeteria is a music venue in Toronto listed on soundcheck. 9 upcoming gigs, with line-ups including Amedeo (CA), Ard1n, Blkvirgo and Ciel and 2 more. See dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
 
 ## What's on
 
@@ -15,10 +15,11 @@ Cafeteria is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, wit
 | Sat, 31 Oct 2026 | Cafeteria Halloween: Invisible City x LYRIX | Ard1n, DJ Chris (CA), Invisible City, Marnigurl, Milch (1), OMG.BLOG, Rabzi |
 | Fri, 6 Nov 2026 | slowburn: Gi Gi, Ciel & Milch | Ciel, Gi Gi, Milch (1) |
 | Sat, 7 Nov 2026 | unimmune: SUZY SHEER | Indie Sleaze, Patch+ |
+| Fri, 13 Nov 2026 | TONY PRICE'S NAME? ALBUM RELEASE PARTY WITH MILCH, BLKVRGO & AMEDEO | Amedeo (CA), Blkvirgo, Milch (1), Tony Price |
 | Sun, 15 Nov 2026 | SABR - by Mastané |  |
 
 ## Address
 
 1650 Dupont St, Toronto, ON M6P 3T2, Canada, Toronto
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*

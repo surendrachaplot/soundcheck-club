@@ -1,6 +1,6 @@
 # BERHTA
 
-BERHTA is a music venue in Washington DC with 18 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Anfisa Letyago" on Fri, 16 Oct 2026.
+BERHTA is a music venue in Washington DC with 18 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Anfisa Letyago" on Fri, 16 Oct 2026.
 
 BERHTA is a music venue in Washington DC listed on soundcheck. 18 upcoming gigs, with line-ups including 100 gecs, Anfisa Letyago, Bob Moses and bradeazy and 2 more. See dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
 
@@ -23,4 +23,4 @@ BERHTA is a music venue in Washington DC listed on soundcheck. 18 upcoming gigs,
 
 1237 W Place NE, Washington, D.C., 20018, Washington DC
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*

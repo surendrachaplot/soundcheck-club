@@ -1,6 +1,6 @@
 # Lens: Moving Mad UK Tour - Bristol at Lost Horizon
 
-Lens: Moving Mad UK Tour - Bristol at Lost Horizon on Sat 17 Oct, Bristol. 1 artist: Lens. Drum & Bass and Dubstep. See the line-up on soundcheck.
+Lens: Moving Mad UK Tour - Bristol at Lost Horizon on Sat 17 Oct, Bristol. 3 artists: Diagnostix, DREAD MC and Lens. Drum & Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Lens: Moving Mad UK Tour - Bristol at Lost Horizon on Sat 17 Oct, Bristol. 1 art
 
 ## Line-up
 
+- Diagnostix
+- DREAD MC
 - Lens (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2528457-lens-moving-mad-uk-tour-bristol-at-lost-horizon/)*

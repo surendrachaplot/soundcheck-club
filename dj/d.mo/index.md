@@ -1,6 +1,6 @@
 # D.Mo
 
-D.Mo is a Garage and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Geary Avenue Warehouse Project, Toronto on Sat, 31 Oct 2026.
+D.Mo is a Garage and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Geary Avenue Warehouse Project, Toronto on Sat, 31 Oct 2026.
 
 D.Mo is a garage and tech house artist, with 7 gigs on soundcheck across Toronto. Often billed alongside Operator P, 1TK and A.J. Matos. Next up: Geary Avenue Warehouse Project, Toronto on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ D.Mo is a garage and tech house artist, with 7 gigs on soundcheck across Toronto
 
 Operator P, 1TK (1), A.J. Matos
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d.mo/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d.mo/)*

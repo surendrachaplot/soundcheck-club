@@ -1,6 +1,6 @@
 # Joanna Party
 
-Joanna Party is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Under Bron, Stockholm on Sat, 31 Oct 2026.
+Joanna Party is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Under Bron, Stockholm on Sat, 31 Oct 2026.
 
 Joanna Party is a techno and electro artist based in Sweden, with 16 gigs on soundcheck across Copenhagen, London, New York City and Sao Paulo and 1 more. Often billed alongside Staffan Lindberg, Bella Sarris and Pjotr. Next up: Under Bron, Stockholm on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Joanna Party is a techno and electro artist based in Sweden, with 16 gigs on sou
 
 Staffan Lindberg, Bella Sarris, Pjotr
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joannaparty/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joannaparty/)*

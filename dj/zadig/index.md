@@ -1,6 +1,6 @@
 # Zadig
 
-Zadig is a Techno and Guaracha artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA, Colombia on Sat, 17 Oct 2026.
+Zadig is a Techno and Guaracha artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Colombia on Sat, 17 Oct 2026.
 
 Zadig is a techno and guaracha artist based in France, with 41 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 9 more. Often billed alongside Maemm, Benabou and Eastel. Next up: TBA, Colombia on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Zadig is a techno and guaracha artist based in France, with 41 gigs on soundchec
 
 Maemm, Benabou, Eastel
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zadig/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zadig/)*

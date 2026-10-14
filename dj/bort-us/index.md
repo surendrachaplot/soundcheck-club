@@ -1,6 +1,6 @@
 # Bort
 
-Bort is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Bort is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Bort is a house and techno artist based in United States of America, with 57 gigs on soundcheck across Birmingham, Melbourne and Miami. Often billed alongside True Vine, Sister System and Milo Ziro. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Bort is a house and techno artist based in United States of America, with 57 gig
 
 True Vine, Sister System, Milo Ziro
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bort-us/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bort-us/)*

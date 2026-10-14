@@ -1,6 +1,6 @@
 # Early Doors with Elizabeth Davis (Wilted Woman) - live at Doublet Bar
 
-Early Doors with Elizabeth Davis (Wilted Woman) - live at Doublet Bar on Sun 15 Nov, Glasgow. 2 artists: Andrew Thomson and Wilted Woman. See the line-up on soundcheck.
+Early Doors with Elizabeth Davis (Wilted Woman) - live at Doublet Bar on Sun 15 Nov, Glasgow. 3 artists: Andrew Thomson, Elazer and Wilted Woman. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Early Doors with Elizabeth Davis (Wilted Woman) - live at Doublet Bar on Sun 15 
 ## Line-up
 
 - Andrew Thomson
+- Elazer
 - Wilted Woman
 
 *Source: [soundcheck](https://soundcheck.club/e/2558342-early-doors-with-elizabeth-davis-wilted-woman-live-at-double/)*

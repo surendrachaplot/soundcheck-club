@@ -1,8 +1,8 @@
 # Cleric
 
-Cleric is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at ART Madrid Club, Madrid on Fri, 16 Oct 2026.
+Cleric is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at ART Madrid Club, Madrid on Fri, 16 Oct 2026.
 
-Cleric is a techno and acid artist based in United Kingdom, with 117 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Félicie, Bailey Ibbs and CESAR ALMENA. Next up: ART Madrid Club, Madrid on Fri 16 Oct.
+Cleric is a techno and acid artist based in United Kingdom, with 118 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Félicie, Bailey Ibbs and CESAR ALMENA. Next up: ART Madrid Club, Madrid on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Cleric is a techno and acid artist based in United Kingdom, with 117 gigs on sou
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | ART Madrid Club | Madrid |
 | Sat, 31 Oct 2026 | TBA - WAREHOUSE TBA  | New York City |
+| Sat, 14 Nov 2026 | Village Underground Lisboa | Lisbon |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Cleric is a techno and acid artist based in United Kingdom, with 117 gigs on sou
 
 Félicie, Bailey Ibbs, CESAR ALMENA
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cleric/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cleric/)*

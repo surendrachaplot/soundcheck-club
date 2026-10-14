@@ -1,6 +1,6 @@
 # Peter Invasion
 
-Peter Invasion is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
+Peter Invasion is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
 
 Peter Invasion is a house and techno artist, with 50 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 10 more. Often billed alongside Panthera Krause, Baby Mango and Vincent Neumann. Next up: Kater, Berlin on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Peter Invasion is a house and techno artist, with 50 gigs on soundcheck across A
 
 Panthera Krause, Baby Mango, Vincent Neumann
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterinvasion/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterinvasion/)*

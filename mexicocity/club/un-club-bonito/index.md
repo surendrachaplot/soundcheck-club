@@ -1,6 +1,6 @@
 # un club bonito
 
-un club bonito is a music venue in Mexico City with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "XULEO takeover x Guapa" on Sat, 17 Oct 2026.
+un club bonito is a music venue in Mexico City with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "XULEO takeover x Guapa" on Sat, 17 Oct 2026.
 
 un club bonito is a music venue in Mexico City listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. Nuevo Leon 89.
 
@@ -16,4 +16,4 @@ un club bonito is a music venue in Mexico City listed on soundcheck. 3 upcoming 
 
 Nuevo Leon 89, Mexico City
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/un-club-bonito/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/un-club-bonito/)*

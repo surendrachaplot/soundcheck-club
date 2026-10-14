@@ -1,6 +1,6 @@
 # Domi (FR)
 
-Domi (FR) is a Electro and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Funke, Ghent on Fri, 16 Oct 2026.
+Domi (FR) is a Electro and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Funke, Ghent on Fri, 16 Oct 2026.
 
 Domi (FR) is an electro and house artist based in France, with 70 gigs on soundcheck across Barcelona, Berlin, Brussels and Frankfurt and 9 more. Often billed alongside Jolly (FR), Lastvuska and Lumbago. Next up: Funke, Ghent on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Domi (FR) is an electro and house artist based in France, with 70 gigs on soundc
 
 Jolly (FR), Lastvuska, Lumbago
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domi-FR/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domi-FR/)*

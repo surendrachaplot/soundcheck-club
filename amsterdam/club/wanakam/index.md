@@ -1,13 +1,14 @@
 # Wanakam
 
-Wanakam is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "KAZI (كازي) X LEVITATE presents: Future Club from The Subcontinent" on Fri, 23 Oct 2026.
+Wanakam is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Amsterdam Vinyl Club x Wanakam- ADE opening night" on Wed, 21 Oct 2026.
 
-Wanakam is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Lacuna. See dates, start times and who's playing.
+Wanakam is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including dHET and Lacuna. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Wed, 21 Oct 2026 | Amsterdam Vinyl Club x Wanakam- ADE opening night | dHET |
 | Fri, 23 Oct 2026 | KAZI (كازي) X LEVITATE presents: Future Club from The Subcontinent | Lacuna |
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/wanakam/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/wanakam/)*

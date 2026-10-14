@@ -1,6 +1,6 @@
 # Neighbourhood w/Lutz (DE) & Division (AT) - three floors: house, deep & tech house, dnb at Chapeau Rouge
 
-Neighbourhood w/Lutz (DE) & Division (AT) - three floors: house, deep & tech house, dnb at Chapeau Rouge on Fri 13 Nov, Prague. 3 artists: Daniel Neighbour, KAMA and Kuta. Drum & Bass and House. See the line-up on soundcheck.
+Neighbourhood w/Lutz (DE) & Division (AT) - three floors: house, deep & tech house, dnb at Chapeau Rouge on Fri 13 Nov, Prague. 4 artists: Cubik, Daniel Neighbour, KAMA and Kuta. Drum & Bass and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Neighbourhood w/Lutz (DE) & Division (AT) - three floors: house, deep & tech hou
 
 ## Line-up
 
+- Cubik
 - Daniel Neighbour
 - KAMA
 - Kuta

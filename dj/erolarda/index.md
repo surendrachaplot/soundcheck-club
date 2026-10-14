@@ -1,6 +1,6 @@
 # Erol Arda
 
-Erol Arda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Sun, 25 Oct 2026.
+Erol Arda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Sun, 25 Oct 2026.
 
 Erol Arda is a techno and house artist, with 7 gigs on soundcheck across Amsterdam and London. Often billed alongside Low-D, AZA and Azucy. Next up: Amsterdams Most Wanted, Amsterdam on Sun 25 Oct.
 
@@ -23,4 +23,4 @@ Erol Arda is a techno and house artist, with 7 gigs on soundcheck across Amsterd
 
 Low-D, AZA, Azucy
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erolarda/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erolarda/)*

@@ -1,6 +1,6 @@
 # Bastienne
 
-Bastienne is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at BRET, Amsterdam on Sat, 24 Oct 2026.
+Bastienne is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at BRET, Amsterdam on Sat, 24 Oct 2026.
 
 Bastienne is a techno and house artist based in Netherlands, with 96 gigs on soundcheck across Amsterdam, Berlin, Ghent and Netherlands and 4 more. Often billed alongside Mahabe, Vuur and Tjade. Next up: BRET, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Bastienne is a techno and house artist based in Netherlands, with 96 gigs on sou
 
 Mahabe, Vuur, Tjade
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bastienne/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bastienne/)*

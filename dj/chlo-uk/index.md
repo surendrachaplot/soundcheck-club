@@ -1,6 +1,6 @@
 # CHLO (UK)
 
-CHLO (UK) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Basing House, London on Fri, 27 Nov 2026.
+CHLO (UK) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Basing House, London on Fri, 27 Nov 2026.
 
 CHLO (UK) is a house and deep house artist, with 8 gigs on soundcheck across London. Often billed alongside Brian Smith, B2B The Movement and DRIA. Next up: Basing House, London on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ CHLO (UK) is a house and deep house artist, with 8 gigs on soundcheck across Lon
 
 Brian Smith, B2B The Movement, DRIA
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chlo-uk/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chlo-uk/)*

@@ -1,6 +1,6 @@
 # Cuillere
 
-Cuillere is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at How Much Studios, Austin on Sat, 24 Oct 2026.
+Cuillere is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at How Much Studios, Austin on Sat, 24 Oct 2026.
 
 Cuillere is a house and deep house artist based in United States of America, with 10 gigs on soundcheck across Austin. Often billed alongside Knos, Above The Trees and Brett Johnson. Next up: How Much Studios, Austin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Cuillere is a house and deep house artist based in United States of America, wit
 
 Knos, Above The Trees, Brett Johnson
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cuillere/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cuillere/)*

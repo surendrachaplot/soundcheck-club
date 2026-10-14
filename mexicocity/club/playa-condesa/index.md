@@ -1,6 +1,6 @@
 # Playa Condesa
 
-Playa Condesa is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "GLOBAL BASS CDMX" on Thu, 22 Oct 2026.
+Playa Condesa is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "GLOBAL BASS CDMX" on Thu, 22 Oct 2026.
 
 Playa Condesa is a music venue in Mexico City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. insurgentes sur 516, Roma Sur, Cuauhtémoc, 06760 Ciudad de México, CDMX.
 
@@ -14,4 +14,4 @@ Playa Condesa is a music venue in Mexico City listed on soundcheck. 1 upcoming g
 
 insurgentes sur 516, Roma Sur, Cuauhtémoc, 06760 Ciudad de México, CDMX, Mexico City
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/playa-condesa/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/playa-condesa/)*

@@ -1,6 +1,6 @@
 # Matthias Olck
 
-Matthias Olck is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Schrotty, Cologne on Fri, 16 Oct 2026.
+Matthias Olck is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Schrotty, Cologne on Fri, 16 Oct 2026.
 
 Matthias Olck is a techno and industrial artist based in Germany, with 20 gigs on soundcheck across Bavaria, Berlin, Cologne and Frankfurt and 1 more. Often billed alongside Ropemaker, Diode Eins and Kos:mo. Next up: Schrotty, Cologne on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Matthias Olck is a techno and industrial artist based in Germany, with 20 gigs o
 
 Ropemaker, Diode Eins, Kos:mo
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasolck/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasolck/)*

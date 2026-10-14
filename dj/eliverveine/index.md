@@ -1,6 +1,6 @@
 # Eli Verveine
 
-Eli Verveine is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Kauz, Zurich on Sun, 25 Oct 2026.
+Eli Verveine is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Kauz, Zurich on Sun, 25 Oct 2026.
 
 Eli Verveine is a house and techno artist based in Switzerland, with 91 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 18 more. Often billed alongside Gwenan, Vera and Mind Against. Next up: Kauz, Zurich on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Eli Verveine is a house and techno artist based in Switzerland, with 91 gigs on 
 
 Gwenan, Vera, Mind Against
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliverveine/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliverveine/)*

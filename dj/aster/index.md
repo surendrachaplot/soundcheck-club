@@ -1,6 +1,6 @@
 # Aster
 
-Aster is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Mood Ring, New York City on Fri, 23 Oct 2026.
+Aster is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Mood Ring, New York City on Fri, 23 Oct 2026.
 
 Aster is a hip-hop and bass artist based in Spain, with 6 gigs on soundcheck across Miami, New York City, Paris and Tokyo. Often billed alongside Anna Eberg, CITYSPROBLEM and DJ Try. Next up: Mood Ring, New York City on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ Aster is a hip-hop and bass artist based in Spain, with 6 gigs on soundcheck acr
 
 Anna Eberg, CITYSPROBLEM, DJ Try
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aster/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aster/)*

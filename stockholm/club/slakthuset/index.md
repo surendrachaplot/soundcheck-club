@@ -1,6 +1,6 @@
 # Slakthuset
 
-Slakthuset is a music venue in Stockholm with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Psykoterapi & Emson" on Fri, 16 Oct 2026.
+Slakthuset is a music venue in Stockholm with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Psykoterapi & Emson" on Fri, 16 Oct 2026.
 
 Slakthuset is a music venue in Stockholm listed on soundcheck. 4 upcoming gigs, with line-ups including 5ekvens, Chris Veron, Floormagnet and Franck With You and 2 more. See dates, start times and who's playing. Slakthusgatan 6, 121 62 Johanneshov, Sweden.
 
@@ -17,4 +17,4 @@ Slakthuset is a music venue in Stockholm listed on soundcheck. 4 upcoming gigs, 
 
 Slakthusgatan 6, 121 62 Johanneshov, Sweden, Stockholm
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slakthuset/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slakthuset/)*

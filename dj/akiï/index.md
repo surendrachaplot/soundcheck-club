@@ -1,6 +1,6 @@
 # Akiï
 
-Akiï is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 16 Oct 2026.
+Akiï is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 16 Oct 2026.
 
 Akiï is a bass and experimental artist based in Italy, with 27 gigs on soundcheck across Berlin, Paris and Rome. Often billed alongside Lyndon Lewis, FISK and Fukinsei. Next up: La Station - Gare des Mines, Paris on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Akiï is a bass and experimental artist based in Italy, with 27 gigs on soundche
 
 Lyndon Lewis, FISK, Fukinsei
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akiï/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akiï/)*

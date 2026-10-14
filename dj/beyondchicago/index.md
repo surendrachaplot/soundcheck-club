@@ -1,6 +1,6 @@
 # Beyond Chicago
 
-Beyond Chicago is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Het Sieraad, Amsterdam on Sun, 25 Oct 2026.
+Beyond Chicago is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Het Sieraad, Amsterdam on Sun, 25 Oct 2026.
 
 Beyond Chicago is a tech house and house artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Chicago, Edinburgh and Ibiza and 2 more. Often billed alongside Sammy Porter, Charlotte Van de Peer and George Mensah. Next up: Het Sieraad, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Beyond Chicago is a tech house and house artist based in United Kingdom, with 57
 
 Sammy Porter, Charlotte Van de Peer, George Mensah
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beyondchicago/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beyondchicago/)*

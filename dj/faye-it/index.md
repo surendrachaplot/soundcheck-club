@@ -1,6 +1,6 @@
 # Faye
 
-Faye is a Afro House and Footwork artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Social Room, Hong Kong on Fri, 16 Oct 2026.
+Faye is a Afro House and Footwork artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Social Room, Hong Kong on Fri, 16 Oct 2026.
 
 Faye is an afro house and footwork artist, with 7 gigs on soundcheck across Bristol, Hong Kong, Milan and New York City and 2 more. Often billed alongside Immuno, Alexia and Alyhas. Next up: Social Room, Hong Kong on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Faye is an afro house and footwork artist, with 7 gigs on soundcheck across Bris
 
 Immuno, Alexia (2), Alyhas
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faye-it/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faye-it/)*

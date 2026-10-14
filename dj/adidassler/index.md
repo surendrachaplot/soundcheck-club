@@ -1,6 +1,6 @@
 # Adi Dassler
 
-Adi Dassler is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Otto05, Baden-w-rttemberg on Sat, 17 Oct 2026.
+Adi Dassler is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Otto05, Baden-w-rttemberg on Sat, 17 Oct 2026.
 
 Adi Dassler is a techno and tech house artist based in Germany, with 99 gigs on soundcheck across Baden W Rttemberg, Cologne, Frankfurt and Rome and 2 more. Often billed alongside Sid_Porwal, Tonino and Magia Mafia. Next up: Otto05, Baden W Rttemberg on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Adi Dassler is a techno and tech house artist based in Germany, with 99 gigs on 
 
 Sid_Porwal, Tonino, Magia Mafia
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adidassler/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adidassler/)*

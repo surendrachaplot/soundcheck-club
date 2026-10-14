@@ -1,6 +1,6 @@
 # Ferdi
 
-Ferdi is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Silencio, Paris on Thu, 15 Oct 2026.
+Ferdi is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Silencio, Paris on Thu, 15 Oct 2026.
 
 Ferdi is a tech house and house artist, with 7 gigs on soundcheck across Berlin, Milan, Munich and Paris. Often billed alongside AMORAL, Aino DJ and Almedina. Next up: Silencio, Paris on Thu 15 Oct.
 
@@ -23,4 +23,4 @@ Ferdi is a tech house and house artist, with 7 gigs on soundcheck across Berlin,
 
 AMORAL, Aino DJ, Almedina (2)
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferdi/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferdi/)*

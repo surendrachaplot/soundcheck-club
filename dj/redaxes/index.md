@@ -1,8 +1,8 @@
 # Red Axes
 
-Red Axes is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Floyd, Miami on Thu, 15 Oct 2026.
+Red Axes is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Floyd, Miami on Thu, 15 Oct 2026.
 
-Red Axes is a house and techno artist based in Israel, with 80 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside DJ Tennis, Adiel and Bakke. Next up: Floyd, Miami on Thu 15 Oct.
+Red Axes is a house and techno artist based in Israel, with 81 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside DJ Tennis, Adiel and Bakke. Next up: Floyd, Miami on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Red Axes is a house and techno artist based in Israel, with 80 gigs on soundchec
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | Floyd | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
+| Sat, 17 Oct 2026 | The Fillmore | Denver |
 | Sun, 25 Oct 2026 | nachbar | Amsterdam |
 | Fri, 30 Oct 2026 | LED Unit | Riga |
 | Fri, 13 Nov 2026 | Village Underground | London |
@@ -31,4 +32,4 @@ Red Axes is a house and techno artist based in Israel, with 80 gigs on soundchec
 
 DJ Tennis, Adiel, Bakke
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redaxes/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redaxes/)*

@@ -1,6 +1,6 @@
 # rRoxymore
 
-rRoxymore is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at FOLD, London on Sat, 17 Oct 2026.
+rRoxymore is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at FOLD, London on Sat, 17 Oct 2026.
 
 rRoxymore is a techno and house artist based in France, with 91 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside DJ Plead, CCL and Josey Rebelle. Next up: FOLD, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ rRoxymore is a techno and house artist based in France, with 91 gigs on soundche
 
 DJ Plead, CCL, Josey Rebelle
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roxymore/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roxymore/)*

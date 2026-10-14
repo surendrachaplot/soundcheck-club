@@ -1,6 +1,6 @@
 # Cloonee
 
-Cloonee is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Cloonee is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Cloonee is a house and tech house artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 31 more. Often billed alongside Jamie Jones, Sosa and Franky Rizardo. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -36,4 +36,4 @@ Cloonee is a house and tech house artist based in United Kingdom, with 73 gigs o
 
 Jamie Jones, Sosa, Franky Rizardo
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*

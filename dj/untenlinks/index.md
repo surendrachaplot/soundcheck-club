@@ -1,6 +1,6 @@
 # UNTENLINKS
 
-UNTENLINKS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at elipamanoke, Leipzig on Sun, 25 Oct 2026.
+UNTENLINKS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at elipamanoke, Leipzig on Sun, 25 Oct 2026.
 
 UNTENLINKS is a techno and trance artist based in Germany, with 13 gigs on soundcheck across Hamburg and Leipzig. Often billed alongside LYZI, EinfachWinter and KETA PERRY. Next up: elipamanoke, Leipzig on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ UNTENLINKS is a techno and trance artist based in Germany, with 13 gigs on sound
 
 LYZI, EinfachWinter, KETA PERRY
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/untenlinks/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/untenlinks/)*

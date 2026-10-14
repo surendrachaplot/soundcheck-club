@@ -1,6 +1,6 @@
 # Harrison Heat
 
-Harrison Heat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at KB3, Copenhagen on Fri, 16 Oct 2026.
+Harrison Heat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at KB3, Copenhagen on Fri, 16 Oct 2026.
 
 Harrison Heat is a house and techno artist based in Denmark, with 78 gigs on soundcheck across Copenhagen and Nantes. Often billed alongside Anna Logic, Lucky Lube and Prom Night. Next up: KB3, Copenhagen on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Harrison Heat is a house and techno artist based in Denmark, with 78 gigs on sou
 
 Anna Logic, Lucky Lube, Prom Night
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harrisonheat/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harrisonheat/)*

@@ -1,14 +1,13 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Klubkneipe x Tuesday Ritual - Zine Workshop & Dance with Friends Takeover" on Tue, 13 Oct 2026.
+Prisma is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Sssmile Afterhour" on Thu, 15 Oct 2026.
 
-Prisma is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Agustin Mendez, D.Sociation, DJ Kodah and Domovnika and 2 more. See dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
+Prisma is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Agustin Mendez, D.Sociation, DJ Kodah and Domovnika and 2 more. See dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 13 Oct 2026 | Klubkneipe x Tuesday Ritual - Zine Workshop & Dance with Friends Takeover | Shoplifter, Thys |
 | Thu, 15 Oct 2026 | Sssmile Afterhour | Agustin Mendez, maniaclina |
 | Sun, 18 Oct 2026 | Klubkneipe x Dance Salon |  |
 | Tue, 20 Oct 2026 | Klubkneipe x Tuesday Ritual - Magic Wand Making Workshop | Agustin Mendez |
@@ -22,4 +21,4 @@ Prisma is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with li
 
 Brückenstraße 1, 10179 Berlin, Berlin
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*

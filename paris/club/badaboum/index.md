@@ -1,6 +1,6 @@
 # Badaboum
 
-Badaboum is a music venue in Paris with 16 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Club — Sauti: Not Your Africa" on Wed, 14 Oct 2026.
+Badaboum is a music venue in Paris with 16 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Club — Sauti: Not Your Africa" on Wed, 14 Oct 2026.
 
 Badaboum is a music venue in Paris listed on soundcheck. 16 upcoming gigs, with line-ups including Bon Public, Curses, Dana Kuehr and Didi Han and 2 more. See dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
 
@@ -23,4 +23,4 @@ Badaboum is a music venue in Paris listed on soundcheck. 16 upcoming gigs, with 
 
 2 bis rue des Taillandiers; 75011; Paris; France, Paris
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*

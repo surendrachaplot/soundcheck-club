@@ -1,6 +1,6 @@
 # Südpol
 
-Südpol is a music venue in Hamburg with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Sachsentrance x Südpol" on Fri, 16 Oct 2026.
+Südpol is a music venue in Hamburg with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Sachsentrance x Südpol" on Fri, 16 Oct 2026.
 
 Südpol is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, with line-ups including 3LEEZA, 5euroGoldi, Afem Syko and ANDATA and 2 more. See dates, start times and who's playing. Süderstraße 112, 20537 Hamburg, Germany.
 
@@ -20,4 +20,4 @@ Südpol is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, with 
 
 Süderstraße 112, 20537 Hamburg, Germany, Hamburg
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/s-dpol/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/s-dpol/)*

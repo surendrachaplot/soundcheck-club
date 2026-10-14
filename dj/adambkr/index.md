@@ -1,6 +1,6 @@
 # Adam Bkr
 
-Adam Bkr is a Afrobeat and Kwaito artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Sounds Jazz Club, Brussels on Thu, 12 Nov 2026.
+Adam Bkr is a Afrobeat and Kwaito artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Sounds Jazz Club, Brussels on Thu, 12 Nov 2026.
 
 Adam Bkr is an afrobeat and kwaito artist based in Belgium, with 26 gigs on soundcheck across Berlin, Brussels, Paris and Utrecht. Often billed alongside Midnight Voodoo, Hassan Raphael and El Nicoya. Next up: Sounds Jazz Club, Brussels on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Adam Bkr is an afrobeat and kwaito artist based in Belgium, with 26 gigs on soun
 
 Midnight Voodoo, Hassan Raphael, El Nicoya
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adambkr/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adambkr/)*

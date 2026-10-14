@@ -1,6 +1,6 @@
 # Sahar Z
 
-Sahar Z is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Wed, 14 Oct 2026.
+Sahar Z is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Wed, 14 Oct 2026.
 
 Sahar Z is a progressive house and house artist based in Israel, with 38 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Glasgow and 6 more. Often billed alongside Guy Mantzur, Guy J and Stefano Richetta. Next up: Do Not Sit On The Furniture, Miami on Wed 14 Oct.
 
@@ -27,4 +27,4 @@ Sahar Z is a progressive house and house artist based in Israel, with 38 gigs on
 
 Guy Mantzur, Guy J, Stefano Richetta
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saharz/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saharz/)*

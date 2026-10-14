@@ -1,6 +1,6 @@
 # The Strays
 
-The Strays is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "The Radio Broadcast/ Access To Concrete" on Wed, 14 Oct 2026.
+The Strays is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "The Radio Broadcast/ Access To Concrete" on Wed, 14 Oct 2026.
 
 The Strays is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including The AM/AMX, AIDEL, Garrison XR and Ghoztbomb and 1 more. See dates, start times and who's playing. 8850 Joseph Campau Ave, Hamtramck, MI 48212, USA.
 
@@ -15,4 +15,4 @@ The Strays is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, wi
 
 8850 Joseph Campau Ave, Hamtramck, MI 48212, USA, Detroit
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-strays/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-strays/)*

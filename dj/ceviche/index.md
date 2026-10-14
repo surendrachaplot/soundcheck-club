@@ -1,14 +1,13 @@
 # ceviché
 
-ceviché is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at H0L0, New York City on Wed, 21 Oct 2026.
+ceviché is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Bossa Nova Civic Club, New-york-city on Tue, 10 Nov 2026.
 
-ceviché is a techno and house artist based in United States of America, with 66 gigs on soundcheck across New York City and Tokyo. Often billed alongside SHRAY, Sam Valle and STEEN. Next up: H0L0, New York City on Wed 21 Oct.
+ceviché is a techno and house artist based in United States of America, with 65 gigs on soundcheck across New York City and Tokyo. Often billed alongside SHRAY, Sam Valle and STEEN. Next up: Bossa Nova Civic Club, New York City on Tue 10 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | H0L0 | New York City |
 | Tue, 10 Nov 2026 | Bossa Nova Civic Club | New-york-city |
 | Fri, 8 Jan 2027 | SILO | New-york-city |
 
@@ -27,4 +26,4 @@ ceviché is a techno and house artist based in United States of America, with 66
 
 SHRAY, Sam Valle, STEEN
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ceviche/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ceviche/)*

@@ -1,6 +1,6 @@
 # Zu Mir Oder Zu Dir
 
-Zu Mir Oder Zu Dir is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "LAB NIGHTS: SESSION 010 – DISKOHEXE" on Thu, 15 Oct 2026.
+Zu Mir Oder Zu Dir is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "LAB NIGHTS: SESSION 010 – DISKOHEXE" on Thu, 15 Oct 2026.
 
 Zu Mir Oder Zu Dir is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Lychener Str. 15, 10437 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Zu Mir Oder Zu Dir is a music venue in Berlin listed on soundcheck. 1 upcoming g
 
 Lychener Str. 15, 10437 Berlin, Germany, Berlin
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zu-mir-oder-zu-dir/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zu-mir-oder-zu-dir/)*

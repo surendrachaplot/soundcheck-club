@@ -1,6 +1,6 @@
 # CCTV
 
-CCTV is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - DM FX.FM FOR LOCATION, Chicago on Sat, 17 Oct 2026.
+CCTV is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - DM FX.FM FOR LOCATION, Chicago on Sat, 17 Oct 2026.
 
 CCTV is a techno and electro artist based in United States of America, with 10 gigs on soundcheck across Berlin, Chicago and Copenhagen. Often billed alongside ATT1C, CHILDISH BAMBINO and DJ Godfather. Next up: TBA - DM FX.FM FOR LOCATION, Chicago on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ CCTV is a techno and electro artist based in United States of America, with 10 g
 
 ATT1C, CHILDISH BAMBINO, DJ Godfather
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cctv/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cctv/)*

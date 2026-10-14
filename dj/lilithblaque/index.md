@@ -1,6 +1,6 @@
 # Lilith Blaque
 
-Lilith Blaque is a House and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Host, Singapore on Sat, 10 Oct 2026.
+Lilith Blaque is a House and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Host, Singapore on Sat, 10 Oct 2026.
 
 Lilith Blaque is a house and dancehall artist, with 3 gigs on soundcheck across Singapore. Often billed alongside Lady Shaka and Loyboy. Next up: Host, Singapore on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ Lilith Blaque is a house and dancehall artist, with 3 gigs on soundcheck across 
 
 Lady Shaka, Loyboy
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilithblaque/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilithblaque/)*

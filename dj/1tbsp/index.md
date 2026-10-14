@@ -1,6 +1,6 @@
 # 1tbsp
 
-1tbsp is a House and Electronica artist with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Pisces, Atlanta on Sat, 17 Oct 2026.
+1tbsp is a House and Electronica artist with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Pisces, Atlanta on Sat, 17 Oct 2026.
 
 1tbsp is a house and electronica artist based in Australia, with 121 gigs on soundcheck across Atlanta, Auckland, Austin and Barcelona and 34 more. Often billed alongside Mietze Conte, SOLTERA and Killian. Next up: Pisces, Atlanta on Sat 17 Oct.
 
@@ -31,4 +31,4 @@
 
 Mietze Conte, SOLTERA, Killian
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1tbsp/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1tbsp/)*

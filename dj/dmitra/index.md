@@ -1,6 +1,6 @@
 # Dmitra
 
-Dmitra is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at OHM, Berlin on Fri, 16 Oct 2026.
+Dmitra is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at OHM, Berlin on Fri, 16 Oct 2026.
 
 Dmitra is a bass and electro artist based in United States of America, with 47 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Brussels and 3 more. Often billed alongside soraya (DE), REBE and griefeater. Next up: OHM, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Dmitra is a bass and electro artist based in United States of America, with 47 g
 
 soraya (DE), REBE, griefeater
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dmitra/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dmitra/)*

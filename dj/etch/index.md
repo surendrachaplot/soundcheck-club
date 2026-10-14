@@ -1,6 +1,6 @@
 # Etch
 
-Etch is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at The Jam Jar, Bristol on Fri, 27 Nov 2026.
+Etch is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at The Jam Jar, Bristol on Fri, 27 Nov 2026.
 
 Etch is a drum & bass and jungle artist based in United Kingdom, with 33 gigs on soundcheck across Berlin, Brighton, Bristol and Denver and 2 more. Often billed alongside Decibella, Abby Daze and Sumgii. Next up: The Jam Jar, Bristol on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Etch is a drum & bass and jungle artist based in United Kingdom, with 33 gigs on
 
 Decibella, Abby Daze, Sumgii
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etch/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etch/)*

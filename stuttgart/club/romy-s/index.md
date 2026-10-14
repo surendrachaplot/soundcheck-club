@@ -1,6 +1,6 @@
 # Romy S.
 
-Romy S. is a music venue in Stuttgart with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "EANODE" on Fri, 16 Oct 2026.
+Romy S. is a music venue in Stuttgart with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "EANODE" on Fri, 16 Oct 2026.
 
 Romy S. is a music venue in Stuttgart listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Langestrasse 7; 70173 Stuttgart; Germany.
 
@@ -14,4 +14,4 @@ Romy S. is a music venue in Stuttgart listed on soundcheck. 1 upcoming gig. See 
 
 Langestrasse 7; 70173 Stuttgart; Germany, Stuttgart
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romy-s/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romy-s/)*

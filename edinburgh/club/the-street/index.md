@@ -1,6 +1,6 @@
 # The Street
 
-The Street is a music venue in Edinburgh with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "MFSB: Scott Malcolm" on Sat, 17 Oct 2026.
+The Street is a music venue in Edinburgh with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "MFSB: Scott Malcolm" on Sat, 17 Oct 2026.
 
 The Street is a music venue in Edinburgh listed on soundcheck. 3 upcoming gigs, with line-ups including Yogi Haughton. See dates, start times and who's playing. 2 Picardy Place, Edinburgh, EH1 3JT.
 
@@ -16,4 +16,4 @@ The Street is a music venue in Edinburgh listed on soundcheck. 3 upcoming gigs, 
 
 2 Picardy Place, Edinburgh, EH1 3JT, Edinburgh
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-street/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-street/)*

@@ -1,6 +1,6 @@
 # Tripmastaz
 
-Tripmastaz is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Kater, Berlin on Sat, 17 Oct 2026.
+Tripmastaz is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Kater, Berlin on Sat, 17 Oct 2026.
 
 Tripmastaz is a house and techno artist based in Germany, with 62 gigs on soundcheck across Amsterdam, Basel, Berlin and Budapest and 13 more. Often billed alongside Inga!, David Delgado and Brizman. Next up: Kater, Berlin on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Tripmastaz is a house and techno artist based in Germany, with 62 gigs on soundc
 
 Inga!, David Delgado, Brizman
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tripmastaz/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tripmastaz/)*

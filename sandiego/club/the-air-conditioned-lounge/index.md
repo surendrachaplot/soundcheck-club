@@ -1,6 +1,6 @@
 # The Air Conditioned Lounge
 
-The Air Conditioned Lounge is a music venue in San Diego with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "House Music Fridays ALL VINYL: Daniel Allen (TX), Candace Ferguson + Eric Leonardis" on Fri, 16 Oct 2026.
+The Air Conditioned Lounge is a music venue in San Diego with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "House Music Fridays ALL VINYL: Daniel Allen (TX), Candace Ferguson + Eric Leonardis" on Fri, 16 Oct 2026.
 
 The Air Conditioned Lounge is a music venue in San Diego listed on soundcheck. 4 upcoming gigs, with line-ups including Bruno Browning, Daniel Allen, DJ Colette and Eric Leonardis and 1 more. See dates, start times and who's playing. 4673 30th St, San Diego, CA 92116.
 
@@ -17,4 +17,4 @@ The Air Conditioned Lounge is a music venue in San Diego listed on soundcheck. 4
 
 4673 30th St, San Diego, CA 92116, San Diego
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/the-air-conditioned-lounge/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/the-air-conditioned-lounge/)*

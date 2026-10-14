@@ -1,13 +1,14 @@
 # Pierrinski
 
-Pierrinski is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Cabaret Sauvage, Paris on Fri, 23 Oct 2026.
+Pierrinski is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Collect - Cais do Sodre, Lisbon on Thu, 15 Oct 2026.
 
-Pierrinski is a house and disco artist based in France, with 38 gigs on soundcheck across Amsterdam, Berlin, Montreal and Paris. Often billed alongside Marbré, Yambow and Lyss. Next up: Cabaret Sauvage, Paris on Fri 23 Oct.
+Pierrinski is a house and disco artist based in France, with 39 gigs on soundcheck across Amsterdam, Berlin, Lisbon and Montreal and 1 more. Often billed alongside Marbré, Yambow and Lyss. Next up: Collect - Cais do Sodre, Lisbon on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 15 Oct 2026 | Collect - Cais do Sodre | Lisbon |
 | Fri, 23 Oct 2026 | Cabaret Sauvage | Paris |
 
 ## Recently played
@@ -25,4 +26,4 @@ Pierrinski is a house and disco artist based in France, with 38 gigs on soundche
 
 Marbré, Yambow, Lyss
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pierrinski/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pierrinski/)*

@@ -1,6 +1,6 @@
 # Rodent
 
-Rodent is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Bongo Club, Edinburgh on Fri, 16 Oct 2026.
+Rodent is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Bongo Club, Edinburgh on Fri, 16 Oct 2026.
 
 Rodent is a drum & bass and jungle artist based in United Kingdom, with 86 gigs on soundcheck across Buenos Aires, Edinburgh, Glasgow and London and 1 more. Often billed alongside F:N (UK), Teknocrat and FOLIE (UK). Next up: The Bongo Club, Edinburgh on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Rodent is a drum & bass and jungle artist based in United Kingdom, with 86 gigs 
 
 F:N (UK), Teknocrat, FOLIE (UK)
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodent/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodent/)*

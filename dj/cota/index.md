@@ -1,6 +1,6 @@
 # COTA
 
-COTA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Edenico Osaka, Osaka on Sun, 18 Oct 2026.
+COTA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Edenico Osaka, Osaka on Sun, 18 Oct 2026.
 
 COTA is a house and techno artist based in Japan, with 32 gigs on soundcheck across New York City, Osaka and Tokyo. Often billed alongside AOKI takamasa, DJ Compufunk and Daisuke Kakimoto. Next up: TBA - Edenico Osaka, Osaka on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ COTA is a house and techno artist based in Japan, with 32 gigs on soundcheck acr
 
 AOKI takamasa, DJ Compufunk, Daisuke Kakimoto
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cota/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cota/)*

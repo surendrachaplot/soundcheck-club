@@ -1,8 +1,8 @@
 # Hexagon Brussels
 
-Hexagon Brussels is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Slagwerk: Bobby Beethoven / Emma DJ b2b Suutoo / Hekt / amil raja / PALA10" on Fri, 16 Oct 2026.
+Hexagon Brussels is a music venue in Brussels with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Slagwerk: Bobby Beethoven / Emma DJ b2b Suutoo / Hekt / amil raja / PALA10" on Fri, 16 Oct 2026.
 
-Hexagon Brussels is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including amil raja, Fossette, Emma DJ and Hekt and 2 more. See dates, start times and who's playing.
+Hexagon Brussels is a music venue in Brussels listed on soundcheck. 4 upcoming gigs, with line-ups including amil raja, Bianca Scout, Fossette and Emma DJ and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -10,5 +10,7 @@ Hexagon Brussels is a music venue in Brussels listed on soundcheck. 2 upcoming g
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Slagwerk: Bobby Beethoven / Emma DJ b2b Suutoo / Hekt / amil raja / PALA10 | Emma DJ, Hekt, PALA10, Suutoo, Total Freedom, amil raja |
 | Sat, 31 Oct 2026 | Hexagon Holloween Night with Kuba '97 / Sookie b2b su:zy / Sarda Etcetera (live) / Fossette | Fossette, Kuba'97, Sarda Etcetera, Sookie (3), su:zy |
+| Wed, 11 Nov 2026 | Matinée with Bianca Scout & Smitness | Bianca Scout |
+| Wed, 25 Nov 2026 | Matinée with Nour Sokhon & Younes Zarhoni | Nour Sokhon |
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/hexagon-brussels/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/hexagon-brussels/)*

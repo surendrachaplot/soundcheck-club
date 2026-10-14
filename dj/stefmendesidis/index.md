@@ -1,6 +1,6 @@
 # Stef Mendesidis
 
-Stef Mendesidis is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Fuse, Brussels on Sat, 17 Oct 2026.
+Stef Mendesidis is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Fuse, Brussels on Sat, 17 Oct 2026.
 
 Stef Mendesidis is a techno and house artist based in Netherlands, with 148 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 43 more. Often billed alongside DAX J, SHDW and Yanamaste. Next up: Fuse, Brussels on Sat 17 Oct.
 
@@ -31,4 +31,4 @@ Stef Mendesidis is a techno and house artist based in Netherlands, with 148 gigs
 
 DAX J, SHDW, Yanamaste
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefmendesidis/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefmendesidis/)*

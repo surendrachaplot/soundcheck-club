@@ -1,14 +1,15 @@
 # Callecat
 
-Callecat is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Thu, 22 Oct 2026.
+Callecat is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Thu, 22 Oct 2026.
 
-Callecat is a progressive house and house artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam, Ibiza and Utrecht. Often billed alongside Around Us, Gustin and Paul Hazendonk. Next up: Kadinsky Cafe, Amsterdam on Thu 22 Oct.
+Callecat is a progressive house and house artist based in Netherlands, with 16 gigs on soundcheck across Amsterdam, Ibiza and Utrecht. Often billed alongside Around Us, Paul Hazendonk and Gustin. Next up: Kadinsky Cafe, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Kadinsky Cafe | Amsterdam |
+| Sat, 21 Nov 2026 | Kaap Amsterdam | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Callecat is a progressive house and house artist based in Netherlands, with 15 g
 
 ## Shares bills with
 
-Around Us, Gustin, Paul Hazendonk
+Around Us, Paul Hazendonk, Gustin
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/callecat/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/callecat/)*

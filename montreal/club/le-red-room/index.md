@@ -1,14 +1,13 @@
 # Le Red Room
 
-Le Red Room is a music venue in Montreal with 12 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "5:14 Sessions with Jon Wait [All Night Long - Free]" on Tue, 13 Oct 2026.
+Le Red Room is a music venue in Montreal with 11 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "DOWN2TECHNO: Every Wednesday" on Wed, 14 Oct 2026.
 
-Le Red Room is a music venue in Montreal listed on soundcheck. 12 upcoming gigs, with line-ups including Baby Bimbo, ccil, EMN and InFiltr and 2 more. See dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
+Le Red Room is a music venue in Montreal listed on soundcheck. 11 upcoming gigs, with line-ups including Baby Bimbo, ccil, EMN and K657 and 2 more. See dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 13 Oct 2026 | 5:14 Sessions with Jon Wait [All Night Long - Free] | InFiltr |
 | Wed, 14 Oct 2026 | DOWN2TECHNO: Every Wednesday | EMN (1), P3CO |
 | Fri, 16 Oct 2026 | UNCONSECRATED | Baby Bimbo, Mowie (2), the bald girl |
 | Sat, 17 Oct 2026 | LEAFY + more |  |
@@ -18,9 +17,10 @@ Le Red Room is a music venue in Montreal listed on soundcheck. 12 upcoming gigs,
 | Sun, 25 Oct 2026 | Proper MTL X DIALD: MORE FYAH |  |
 | Tue, 27 Oct 2026 | 5:14 Sessions with ccil [All Night Long - Free] | ccil |
 | Wed, 28 Oct 2026 | DOWN2TECHNO: Every Wednesday |  |
+| Sat, 31 Oct 2026 | My Haunted Haus 2026 | Ratchet |
 
 ## Address
 
 2037 rue Saint-Denis, Montreal, Quebec H2X3K8, Montreal
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*

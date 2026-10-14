@@ -1,6 +1,6 @@
 # Tiffy Vera
 
-Tiffy Vera is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Tiffy Vera is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Tiffy Vera is a house and tech house artist based in Paraguay, with 49 gigs on soundcheck across Los Angeles, Melbourne, Miami and New York City and 4 more. Often billed alongside Nii Tei, Malone and Marten Lou. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Tiffy Vera is a house and tech house artist based in Paraguay, with 49 gigs on s
 
 Nii Tei, Malone, Marten Lou
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffyvera/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffyvera/)*

@@ -1,6 +1,6 @@
 # LAPORTE
 
-LAPORTE is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Franklin Park, Washington DC on Sun, 18 Oct 2026.
+LAPORTE is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Franklin Park, Washington DC on Sun, 18 Oct 2026.
 
 LAPORTE is a house and deep house artist based in United States of America, with 24 gigs on soundcheck across Brussels, Geneva, New York City and Washington DC. Often billed alongside LAPORTE TWINS, James Juke and Coco & Breezy. Next up: Franklin Park, Washington DC on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ LAPORTE is a house and deep house artist based in United States of America, with
 
 LAPORTE TWINS, James Juke, Coco & Breezy
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laporte/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laporte/)*

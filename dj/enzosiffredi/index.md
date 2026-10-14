@@ -1,6 +1,6 @@
 # Enzo Siffredi
 
-Enzo Siffredi is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Enzo Siffredi is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
 Enzo Siffredi is an afro house and house artist, with 24 gigs on soundcheck across Amsterdam, Brighton, Brussels and Geneva and 8 more. Often billed alongside Emmanuel Jal, Call Me Ben and MoBlack. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Enzo Siffredi is an afro house and house artist, with 24 gigs on soundcheck acro
 
 Emmanuel Jal, Call Me Ben, MoBlack
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiffredi/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiffredi/)*

@@ -1,6 +1,6 @@
 # Felipe (1)
 
-Felipe (1) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 16 Oct 2026.
+Felipe (1) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 16 Oct 2026.
 
 Felipe is a house and deep house artist based in United States of America, with 6 gigs on soundcheck across Melbourne and Miami. Often billed alongside Nico Moon, Pol K and Elizabëth. Next up: Angel Music Bar, Melbourne on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Felipe is a house and deep house artist based in United States of America, with 
 
 Nico Moon, Pol K, Elizabëth
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felipe-1/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felipe-1/)*

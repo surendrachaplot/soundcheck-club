@@ -1,6 +1,6 @@
 # Reeno Reluv
 
-Reeno Reluv is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Funkhaus, Vienna on Fri, 16 Oct 2026.
+Reeno Reluv is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Funkhaus, Vienna on Fri, 16 Oct 2026.
 
 Reeno Reluv is a house and disco artist based in Austria, with 27 gigs on soundcheck across Berlin and Vienna. Often billed alongside JP Bechamel, Altroy Jerome and Miyra Lim. Next up: Funkhaus, Vienna on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Reeno Reluv is a house and disco artist based in Austria, with 27 gigs on soundc
 
 JP Bechamel, Altroy Jerome, Miyra Lim
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reenoreluv/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reenoreluv/)*

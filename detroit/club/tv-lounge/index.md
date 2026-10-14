@@ -1,8 +1,8 @@
 # TV Lounge
 
-TV Lounge is a music venue in Detroit with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Hear Here • sillygirlcarmen, Disc Jockey George, & KRW" on Sat, 17 Oct 2026.
+TV Lounge is a music venue in Detroit with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Hear Here • sillygirlcarmen, Disc Jockey George, & KRW" on Sat, 17 Oct 2026.
 
-TV Lounge is a music venue in Detroit listed on soundcheck. 6 upcoming gigs, with line-ups including Brent Shay, Bruce Bailey, Disc Jockey George and DJ Bone and 2 more. See dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
+TV Lounge is a music venue in Detroit listed on soundcheck. 7 upcoming gigs, with line-ups including Brent Shay, Bruce Bailey, Disc Jockey George and DJ Bone and 2 more. See dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
 
 ## What's on
 
@@ -10,6 +10,7 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 6 upcoming gigs, wit
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Hear Here • sillygirlcarmen, Disc Jockey George, & KRW | Disc Jockey George, KRW (1), sillygirlcarmen |
 | Fri, 23 Oct 2026 | Dilemmas B Day Bash | Brent Shay, DJ Seoul, Sinister Dosage |
+| Sun, 25 Oct 2026 | T Hill Detroit Radio presents Gospel House 313 | Terrence Parker |
 | Fri, 30 Oct 2026 | Pre- HALLOWEEN TURN UP | Bruce Bailey, LADYMONIX |
 | Sat, 31 Oct 2026 | Halloween at TV |  |
 | Sat, 7 Nov 2026 | TV • Further • Charivari Detroit • UMA | DJ Bone, Waajeed, sillygirlcarmen |
@@ -19,4 +20,4 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 6 upcoming gigs, wit
 
 2548 Grand River Avenue; Detroit, MI; United States, Detroit
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*

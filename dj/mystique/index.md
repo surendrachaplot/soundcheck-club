@@ -1,6 +1,6 @@
 # Mystique
 
-Mystique is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 31 Oct 2026.
+Mystique is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 31 Oct 2026.
 
 Mystique is a techno and bass artist, with 38 gigs on soundcheck across Hamburg, London, Lyon and Manchester and 4 more. Often billed alongside Kitsta, Alex Milo and DaiSu. Next up: La Station - Gare des Mines, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Mystique is a techno and bass artist, with 38 gigs on soundcheck across Hamburg,
 
 Kitsta, Alex Milo, DaiSu
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mystique/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mystique/)*

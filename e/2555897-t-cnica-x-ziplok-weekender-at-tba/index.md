@@ -1,6 +1,6 @@
 # Técnica X Ziplok Weekender at TBA
 
-Técnica X Ziplok Weekender at TBA on Sat 24 Oct, Berlin. 12 artists: 2001 Space Odyssey, alizé.e, Bardo and Charlie Caves and 8 more. Experimental and Club. See the line-up on soundcheck.
+Técnica X Ziplok Weekender at TBA on Sat 24 Oct, Berlin. 13 artists: 2001 Space Odyssey, alizé.e, Bardo and Charlie Caves and 9 more. Experimental and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Técnica X Ziplok Weekender at TBA on Sat 24 Oct, Berlin. 12 artists: 2001 Space
 - Bardo (1)
 - Charlie Caves
 - Concepción Huerta
+- DJ Sotofett
 - GOD69
 - Laura Vargas
 - Marie Midori

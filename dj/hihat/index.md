@@ -1,6 +1,6 @@
 # HiHat
 
-HiHat is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
+HiHat is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
 
 HiHat is a techno and trance artist based in Germany, with 127 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 4 more. Often billed alongside DJ Palga, DJ Fucks Himself and Arno. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ HiHat is a techno and trance artist based in Germany, with 127 gigs on soundchec
 
 DJ Palga, DJ Fucks Himself, Arno
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hihat/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hihat/)*

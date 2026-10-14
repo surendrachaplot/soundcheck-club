@@ -1,6 +1,6 @@
 # Morz Des Soundsystem
 
-Morz Des Soundsystem is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Goldener Reiter, Munich on Fri, 23 Oct 2026.
+Morz Des Soundsystem is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Goldener Reiter, Munich on Fri, 23 Oct 2026.
 
 Morz Des Soundsystem is a house and acid artist based in Germany, with 19 gigs on soundcheck across Munich and Naples. Often billed alongside heronymus, André Dancekowski and Julie Fleischer. Next up: Goldener Reiter, Munich on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Morz Des Soundsystem is a house and acid artist based in Germany, with 19 gigs o
 
 heronymus, André Dancekowski, Julie Fleischer
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morzdessoundsystem/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morzdessoundsystem/)*

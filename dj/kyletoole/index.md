@@ -1,8 +1,8 @@
 # Kyle Toole
 
-Kyle Toole is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Ikii, Berlin on Thu, 15 Oct 2026.
+Kyle Toole is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Ikii, Berlin on Thu, 15 Oct 2026.
 
-Kyle Toole is a house and techno artist based in United Kingdom, with 92 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Kian OK, DJ Dustin and Millie McKee. Next up: Ikii, Berlin on Thu 15 Oct.
+Kyle Toole is a house and techno artist based in United Kingdom, with 93 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 16 more. Often billed alongside Kian OK, DJ Dustin and Millie McKee. Next up: Ikii, Berlin on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kyle Toole is a house and techno artist based in United Kingdom, with 92 gigs on
 | Thu, 15 Oct 2026 | Ikii | Berlin |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
+| Fri, 11 Dec 2026 | Cobalt Studios | Newcastle |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Kyle Toole is a house and techno artist based in United Kingdom, with 92 gigs on
 
 Kian OK, DJ Dustin, Millie McKee
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyletoole/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyletoole/)*

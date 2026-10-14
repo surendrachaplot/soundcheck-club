@@ -1,13 +1,14 @@
 # SCARLETT
 
-SCARLETT is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+SCARLETT is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Motley Warehaus, Melbourne on Sat, 24 Oct 2026.
 
-SCARLETT is a techno and acid artist based in Italy, with 13 gigs on soundcheck across Berlin, Bucharest, Lisbon and London and 5 more. Often billed alongside Luca Accardi, ALISTARM and Activator (AU). Next up: TBA, Victoria on Fri 6 Nov.
+SCARLETT is a techno and acid artist based in Italy, with 14 gigs on soundcheck across Berlin, Bucharest, Lisbon and London and 6 more. Often billed alongside Bridget Small, Elsie and Luca Accardi. Next up: The Motley Warehaus, Melbourne on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | The Motley Warehaus | Melbourne |
 | Fri, 6 Nov 2026 | TBA | Victoria |
 
 ## Recently played
@@ -23,6 +24,6 @@ SCARLETT is a techno and acid artist based in Italy, with 13 gigs on soundcheck 
 
 ## Shares bills with
 
-Luca Accardi, ALISTARM, Activator (AU)
+Bridget Small (2), Elsie, Luca Accardi
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scarlett/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scarlett/)*

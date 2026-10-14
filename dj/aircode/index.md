@@ -1,6 +1,6 @@
 # Aircode
 
-Aircode is a Experimental and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Vespers Club, London on Fri, 23 Oct 2026.
+Aircode is a Experimental and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Vespers Club, London on Fri, 23 Oct 2026.
 
 Aircode is an experimental and broken beat artist, with 24 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 5 more. Often billed alongside DJ Pitch, Bill Kouligas and Datashader. Next up: Vespers Club, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Aircode is an experimental and broken beat artist, with 24 gigs on soundcheck ac
 
 DJ Pitch, Bill Kouligas, Datashader
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aircode/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aircode/)*

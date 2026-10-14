@@ -1,13 +1,14 @@
 # DORAH
 
-DORAH is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Club Exil, Vienna on Fri, 6 Nov 2026.
+DORAH is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Das Werk, Vienna on Fri, 16 Oct 2026.
 
-DORAH is a techno and trance artist based in Austria, with 17 gigs on soundcheck across Berlin and Vienna. Often billed alongside Joey, Crystal O and KILIÅN. Next up: Club Exil, Vienna on Fri 6 Nov.
+DORAH is a techno and trance artist based in Austria, with 18 gigs on soundcheck across Berlin and Vienna. Often billed alongside Joey, Crystal O and KILIÅN. Next up: Das Werk, Vienna on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Das Werk | Vienna |
 | Fri, 6 Nov 2026 | Club Exil | Vienna |
 
 ## Recently played
@@ -25,4 +26,4 @@ DORAH is a techno and trance artist based in Austria, with 17 gigs on soundcheck
 
 Joey (2), Crystal O, KILIÅN
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dorah/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dorah/)*

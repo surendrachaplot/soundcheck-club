@@ -1,6 +1,6 @@
 # Jôka
 
-Jôka is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Dings, Munich on Sat, 24 Oct 2026.
+Jôka is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Dings, Munich on Sat, 24 Oct 2026.
 
 Jôka is a house and dub techno artist based in Germany, with 23 gigs on soundcheck across Amsterdam and Munich. Often billed alongside David Hornung, Javier Gallardo and tanjuesch. Next up: Dings, Munich on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Jôka is a house and dub techno artist based in Germany, with 23 gigs on soundch
 
 David Hornung, Javier Gallardo, tanjuesch
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jôka/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jôka/)*

@@ -1,6 +1,6 @@
 # OFF Kultur
 
-OFF Kultur is a music venue in Budapest with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is " OSTROM x UNWIND pres. REBELLION | HARD INDUSTRIAL TECHNO |" on Sat, 24 Oct 2026.
+OFF Kultur is a music venue in Budapest with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is " OSTROM x UNWIND pres. REBELLION | HARD INDUSTRIAL TECHNO |" on Sat, 24 Oct 2026.
 
 OFF Kultur is a music venue in Budapest listed on soundcheck. 1 upcoming gig, with line-ups including ALDES, BØĘRY, cassandrah and DUGASZ and 2 more. See dates, start times and who's playing. 1045 Budapest, Berni utca 1..
 
@@ -14,4 +14,4 @@ OFF Kultur is a music venue in Budapest listed on soundcheck. 1 upcoming gig, wi
 
 1045 Budapest, Berni utca 1., Budapest
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/off-kultur/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/off-kultur/)*

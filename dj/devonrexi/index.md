@@ -1,6 +1,6 @@
 # Devon Rexi
 
-Devon Rexi is a Dub and Electronica artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Bryggeriet Scene, Norway on Wed, 14 Oct 2026.
+Devon Rexi is a Dub and Electronica artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Bryggeriet Scene, Norway on Wed, 14 Oct 2026.
 
 Devon Rexi is a dub and electronica artist based in Netherlands, with 41 gigs on soundcheck across Amsterdam, Antwerp, Bergen and Berlin and 18 more. Often billed alongside John T. Gast, DJ Marcelle and Batu. Next up: Bryggeriet Scene, Norway on Wed 14 Oct.
 
@@ -28,4 +28,4 @@ Devon Rexi is a dub and electronica artist based in Netherlands, with 41 gigs on
 
 John T. Gast, DJ Marcelle, Batu
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/devonrexi/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/devonrexi/)*

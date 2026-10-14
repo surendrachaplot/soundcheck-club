@@ -1,6 +1,6 @@
 # Bailey Ibbs
 
-Bailey Ibbs is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat, 17 Oct 2026.
+Bailey Ibbs is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat, 17 Oct 2026.
 
 Bailey Ibbs is a techno and house artist based in United Kingdom, with 164 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belfast and 45 more. Often billed alongside JKS, Paige (Night Service) and Beau Didier. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat 17 Oct.
 
@@ -29,4 +29,4 @@ Bailey Ibbs is a techno and house artist based in United Kingdom, with 164 gigs 
 
 JKS, Paige (Night Service), Beau Didier
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyibbs/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyibbs/)*

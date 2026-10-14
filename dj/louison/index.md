@@ -1,6 +1,6 @@
 # Louison
 
-Louison is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Macadam, Nantes on Sun, 18 Oct 2026.
+Louison is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Macadam, Nantes on Sun, 18 Oct 2026.
 
 Louison is a house and techno artist based in France, with 52 gigs on soundcheck across Barcelona, Brussels, Lisbon and Lyon and 9 more. Often billed alongside Maco Maria, Jolly (FR) and LAMALICE. Next up: Macadam, Nantes on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Louison is a house and techno artist based in France, with 52 gigs on soundcheck
 
 Maco Maria, Jolly (FR), LAMALICE
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louison/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louison/)*

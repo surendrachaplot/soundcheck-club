@@ -1,6 +1,6 @@
 # Solique
 
-Solique is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Bootshaus, Cologne on Fri, 30 Oct 2026.
+Solique is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Bootshaus, Cologne on Fri, 30 Oct 2026.
 
 Solique is a techno and house artist based in Germany, with 35 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 2 more. Often billed alongside AVANT, VINTASH and Marino Canal. Next up: Bootshaus, Cologne on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Solique is a techno and house artist based in Germany, with 35 gigs on soundchec
 
 AVANT, VINTASH, Marino Canal
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solique/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solique/)*

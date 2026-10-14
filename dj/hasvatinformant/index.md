@@ -1,6 +1,6 @@
 # Hasvat Informant
 
-Hasvat Informant is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Bassiani, Tbilisi on Fri, 16 Oct 2026.
+Hasvat Informant is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Bassiani, Tbilisi on Fri, 16 Oct 2026.
 
 Hasvat Informant is a techno and house artist based in Australia, with 68 gigs on soundcheck across Amsterdam, Berlin, Brisbane and Copenhagen and 6 more. Often billed alongside Mama Snake, Cloudy Ku and Simrana. Next up: Bassiani, Tbilisi on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Hasvat Informant is a techno and house artist based in Australia, with 68 gigs o
 
 Mama Snake, Cloudy Ku, Simrana
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hasvatinformant/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hasvatinformant/)*

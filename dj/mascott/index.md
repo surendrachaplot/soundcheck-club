@@ -1,6 +1,6 @@
 # Mascott
 
-Mascott is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Cupra City Garage Manchester, Manchester on Sat, 21 Nov 2026.
+Mascott is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Cupra City Garage Manchester, Manchester on Sat, 21 Nov 2026.
 
 Mascott is a disco and house artist based in United Kingdom, with 49 gigs on soundcheck across Ibiza, London and Manchester. Often billed alongside Mai Tai, Kellit and Mark Whites. Next up: Cupra City Garage Manchester, Manchester on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Mascott is a disco and house artist based in United Kingdom, with 49 gigs on sou
 
 Mai Tai, Kellit, Mark Whites
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mascott/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mascott/)*

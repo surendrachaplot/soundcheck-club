@@ -1,6 +1,6 @@
 # glimmer
 
-glimmer is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Clubnight w/ Carmen Electro, CHÆF, Daria Kolosova, and more" on Fri, 16 Oct 2026.
+glimmer is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Clubnight w/ Carmen Electro, CHÆF, Daria Kolosova, and more" on Fri, 16 Oct 2026.
 
 glimmer is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, with line-ups including Alphabae, Ben Derris, Bernd and BREITBAND and 2 more. See dates, start times and who's playing. Stockmeyerstraße 43, 20457 Hamburg, Germany.
 
@@ -18,4 +18,4 @@ glimmer is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, with 
 
 Stockmeyerstraße 43, 20457 Hamburg, Germany, Hamburg
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/glimmer/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/glimmer/)*

@@ -1,6 +1,6 @@
 # Juan Evangelista
 
-Juan Evangelista is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at ://about blank, Berlin on Sat, 28 Nov 2026.
+Juan Evangelista is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at ://about blank, Berlin on Sat, 28 Nov 2026.
 
 Juan Evangelista is a techno and house artist based in Argentina, with 52 gigs on soundcheck across Barcelona, Berlin, Boston and Buenos Aires and 11 more. Often billed alongside Jamaica Suk, Alejandro Franco and Alexander Kowalski. Next up: ://about blank, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Juan Evangelista is a techno and house artist based in Argentina, with 52 gigs o
 
 Jamaica Suk, Alejandro Franco, Alexander Kowalski
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanevangelista/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanevangelista/)*

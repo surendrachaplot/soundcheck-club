@@ -1,6 +1,6 @@
 # GUMGO
 
-GUMGO is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Optimist, Bali on Sat, 17 Oct 2026.
+GUMGO is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Optimist, Bali on Sat, 17 Oct 2026.
 
 GUMGO is a house and minimal artist based in South Korea, with 15 gigs on soundcheck across Bali, Barcelona, Seoul and Singapore. Often billed alongside Mingsturn, Mars Parck and PAIK. Next up: Optimist, Bali on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ GUMGO is a house and minimal artist based in South Korea, with 15 gigs on soundc
 
 Mingsturn, Mars Parck, PAIK
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gumgo/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gumgo/)*

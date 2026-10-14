@@ -1,6 +1,6 @@
 # Terrence Dixon
 
-Terrence Dixon is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Bryggeriet Scene, Norway on Wed, 14 Oct 2026.
+Terrence Dixon is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Bryggeriet Scene, Norway on Wed, 14 Oct 2026.
 
 Terrence Dixon is a techno and house artist based in United States of America, with 47 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Cody Hammer, DAIYAH and Fred P. Next up: Bryggeriet Scene, Norway on Wed 14 Oct.
 
@@ -28,4 +28,4 @@ Terrence Dixon is a techno and house artist based in United States of America, w
 
 Cody Hammer, DAIYAH, Fred P
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terrencedixon/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terrencedixon/)*

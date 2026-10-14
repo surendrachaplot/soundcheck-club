@@ -1,6 +1,6 @@
 # Martin Gilleshøj
 
-Martin Gilleshøj is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
+Martin Gilleshøj is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
 
 Martin Gilleshøj is a techno and trance artist based in Denmark, with 62 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Lyon and 4 more. Often billed alongside Kasper Marott, Popmix and Alfredo92. Next up: ingang, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Martin Gilleshøj is a techno and trance artist based in Denmark, with 62 gigs o
 
 Kasper Marott, Popmix, Alfredo92
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martingilleshoj/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martingilleshoj/)*

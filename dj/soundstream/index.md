@@ -1,6 +1,6 @@
 # Soundstream
 
-Soundstream is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at H0L0, New York City on Sat, 17 Oct 2026.
+Soundstream is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at H0L0, New York City on Sat, 17 Oct 2026.
 
 Soundstream is a house and disco artist based in Germany, with 70 gigs on soundcheck across Berlin, Brussels, Budapest and Chicago and 15 more. Often billed alongside Snow (DE), Virginia and Nick Höppner. Next up: H0L0, New York City on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Soundstream is a house and disco artist based in Germany, with 70 gigs on soundc
 
 Snow (DE), Virginia, Nick Höppner
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soundstream/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soundstream/)*

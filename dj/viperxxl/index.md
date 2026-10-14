@@ -1,6 +1,6 @@
 # ViperXXL
 
-ViperXXL is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Elektroküche, Cologne on Sat, 14 Nov 2026.
+ViperXXL is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Elektroküche, Cologne on Sat, 14 Nov 2026.
 
 ViperXXL is a techno and acid artist based in Germany, with 17 gigs on soundcheck across Berlin, Budapest, Cologne and Düsseldorf and 5 more. Often billed alongside Golpe, Ropemaker and Basstronauten. Next up: Elektroküche, Cologne on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ ViperXXL is a techno and acid artist based in Germany, with 17 gigs on soundchec
 
 Golpe, Ropemaker, Basstronauten
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viperxxl/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viperxxl/)*

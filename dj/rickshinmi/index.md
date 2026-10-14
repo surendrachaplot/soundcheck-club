@@ -1,6 +1,6 @@
 # Rickshinmi
 
-Rickshinmi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Traffic, Tokyo on Sat, 17 Oct 2026.
+Rickshinmi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Traffic, Tokyo on Sat, 17 Oct 2026.
 
 Rickshinmi is a techno and house artist based in Japan, with 63 gigs on soundcheck across Kanto, Seoul and Tokyo. Often billed alongside EVE, EMILIO and Kojiro. Next up: Traffic, Tokyo on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Rickshinmi is a techno and house artist based in Japan, with 63 gigs on soundche
 
 EVE (1), EMILIO (3), Kojiro
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rickshinmi/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rickshinmi/)*

@@ -1,13 +1,14 @@
 # Babies R Stupid
 
-Babies R Stupid is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Bsmt 254, Toronto on Wed, 28 Oct 2026.
+Babies R Stupid is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Highland Gardens, Detroit on Fri, 16 Oct 2026.
 
-Babies R Stupid is a techno and electro artist based in United States of America, with 26 gigs on soundcheck across Amsterdam, Chicago, Detroit and Portland and 3 more. Often billed alongside OMO (US), Seanni B and YxFF. Next up: Bsmt 254, Toronto on Wed 28 Oct.
+Babies R Stupid is a techno and electro artist based in United States of America, with 27 gigs on soundcheck across Amsterdam, Chicago, Detroit and Portland and 3 more. Often billed alongside OMO (US), Seanni B and YxFF. Next up: Highland Gardens, Detroit on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Highland Gardens | Detroit |
 | Wed, 28 Oct 2026 | Bsmt 254 | Toronto |
 | Fri, 4 Dec 2026 | Bsmt 254 | Toronto |
 
@@ -26,4 +27,4 @@ Babies R Stupid is a techno and electro artist based in United States of America
 
 OMO (US), Seanni B, YxFF
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babiesrstupid/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babiesrstupid/)*

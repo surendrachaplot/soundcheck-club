@@ -1,6 +1,6 @@
 # Cynthia Matisse
 
-Cynthia Matisse is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Distillery, Leipzig on Fri, 16 Oct 2026.
+Cynthia Matisse is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Distillery, Leipzig on Fri, 16 Oct 2026.
 
 Cynthia Matisse is a techno and house artist, with 18 gigs on soundcheck across Berlin, Hamburg, Leipzig and Munich and 2 more. Often billed alongside Submod, Lydmate and MAY/O. Next up: Distillery, Leipzig on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Cynthia Matisse is a techno and house artist, with 18 gigs on soundcheck across 
 
 Submod, Lydmate, MAY/O
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cynthiamatisse/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cynthiamatisse/)*

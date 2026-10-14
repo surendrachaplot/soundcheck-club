@@ -1,14 +1,15 @@
 # Jacom (Adroit)
 
-Jacom (Adroit) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at MÄX, Zurich on Sat, 17 Oct 2026.
+Jacom (Adroit) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at MÄX, Zurich on Sat, 17 Oct 2026.
 
-Jacom (Adroit) is a techno and house artist based in Switzerland, with 22 gigs on soundcheck across Basel, Berlin, Turin and Zurich. Often billed alongside Thomas Bianco, Toni Dextor and Tajara. Next up: MÄX, Zurich on Sat 17 Oct.
+Jacom (Adroit) is a techno and house artist based in Switzerland, with 23 gigs on soundcheck across Basel, Berlin, Turin and Zurich. Often billed alongside Thomas Bianco, Toni Dextor and Cortez. Next up: MÄX, Zurich on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | MÄX | Zurich |
+| Fri, 6 Nov 2026 | Zinkbad Eventhalle | Zurich |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Jacom (Adroit) is a techno and house artist based in Switzerland, with 22 gigs o
 
 ## Shares bills with
 
-Thomas Bianco, Toni Dextor, Tajara
+Thomas Bianco, Toni Dextor, Cortez (2)
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacomadroit/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacomadroit/)*

@@ -1,6 +1,6 @@
 # Sophia Riv
 
-Sophia Riv is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Mood Ring, New York City on Thu, 22 Oct 2026.
+Sophia Riv is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Mood Ring, New York City on Thu, 22 Oct 2026.
 
 Sophia Riv is a techno and electro artist based in United States of America, with 18 gigs on soundcheck across New York City. Often billed alongside y2aura, Castillonaire and NIJEII. Next up: Mood Ring, New York City on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Sophia Riv is a techno and electro artist based in United States of America, wit
 
 y2aura, Castillonaire, NIJEII
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiariv/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiariv/)*

@@ -1,6 +1,6 @@
 # Urmet K
 
-Urmet K is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Space Lounge London, London on Fri, 30 Oct 2026.
+Urmet K is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Space Lounge London, London on Fri, 30 Oct 2026.
 
 Urmet K is a deep house and tech house artist, with 7 gigs on soundcheck across Ibiza and London. Often billed alongside Bosacki, Maia Lee and jeFF Fury. Next up: Space Lounge London, London on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Urmet K is a deep house and tech house artist, with 7 gigs on soundcheck across 
 
 Bosacki, Maia Lee, jeFF Fury
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/urmetk/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/urmetk/)*

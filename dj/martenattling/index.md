@@ -1,8 +1,8 @@
 # Marten Attling
 
-Marten Attling is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Eventhuset, Stockholm on Sat, 14 Nov 2026.
+Marten Attling is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Eventhuset, Stockholm on Sat, 14 Nov 2026.
 
-Marten Attling is a techno and house artist based in Sweden, with 18 gigs on soundcheck across Stockholm. Often billed alongside MERILIN, CC Luna and DJ Alban. Next up: Eventhuset, Stockholm on Sat 14 Nov.
+Marten Attling is a techno and house artist based in Sweden, with 18 gigs on soundcheck across Stockholm. Often billed alongside MERILIN, CC Luna and The Machine Soul. Next up: Eventhuset, Stockholm on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Marten Attling is a techno and house artist based in Sweden, with 18 gigs on sou
 
 ## Shares bills with
 
-MERILIN, CC Luna, DJ Alban
+MERILIN, CC Luna, The Machine Soul
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martenattling/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martenattling/)*

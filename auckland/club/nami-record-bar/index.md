@@ -1,6 +1,6 @@
 # nami record bar
 
-nami record bar is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "Nami Record Bar presents: Aunty El, Pash and Sauna" on Sat, 24 Oct 2026.
+nami record bar is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "Nami Record Bar presents: Aunty El, Pash and Sauna" on Sat, 24 Oct 2026.
 
 nami record bar is a music venue in Auckland listed on soundcheck. 1 upcoming gig, with line-ups including Aunty El. See dates, start times and who's playing. 115a Ponsonby Road, Ponsonby, Auckland.
 
@@ -14,4 +14,4 @@ nami record bar is a music venue in Auckland listed on soundcheck. 1 upcoming gi
 
 115a Ponsonby Road, Ponsonby, Auckland, Auckland
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/nami-record-bar/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/nami-record-bar/)*

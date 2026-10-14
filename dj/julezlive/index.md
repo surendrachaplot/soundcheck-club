@@ -1,6 +1,6 @@
 # Julez (live)
 
-Julez (live) is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Telegramm: @MauerparkLoveKommando, Berlin on Sat, 17 Oct 2026.
+Julez (live) is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Telegramm: @MauerparkLoveKommando, Berlin on Sat, 17 Oct 2026.
 
 Julez (live) is a techno artist based in Germany, with 10 gigs on soundcheck across Berlin. Often billed alongside Dshanna, Gray Contrast and Hendrik Nitsche. Next up: TBA - Telegramm: @MauerparkLoveKommando, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Julez (live) is a techno artist based in Germany, with 10 gigs on soundcheck acr
 
 Dshanna, Gray Contrast, Hendrik Nitsche
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julezlive/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julezlive/)*

@@ -10,6 +10,6 @@ Hard-Coord: JAchan, DJ Proto & more at District 288 on Sat 24 Oct, Boston. 1 art
 
 ## Line-up
 
-- D-Program
+- D-Program (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2527402-hard-coord-jachan-dj-proto-more-at-district-288/)*

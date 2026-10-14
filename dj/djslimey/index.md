@@ -1,6 +1,6 @@
 # DJ Slimey
 
-DJ Slimey is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Umbria Arts, Philadelphia on Sat, 24 Oct 2026.
+DJ Slimey is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Umbria Arts, Philadelphia on Sat, 24 Oct 2026.
 
 DJ Slimey is a house and acid artist, with 6 gigs on soundcheck across Detroit, New York City and Philadelphia. Often billed alongside Teeyam, Ali Berger and Byld. Next up: Umbria Arts, Philadelphia on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ DJ Slimey is a house and acid artist, with 6 gigs on soundcheck across Detroit, 
 
 Teeyam, Ali Berger, Byld
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djslimey/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djslimey/)*

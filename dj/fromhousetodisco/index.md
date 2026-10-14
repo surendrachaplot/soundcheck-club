@@ -1,13 +1,15 @@
 # From House to Disco
 
-From House to Disco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Canoa Quebrada Beach, Brazil on Sat, 26 Dec 2026.
+From House to Disco is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - 3 LOCAIS / 3 LOCATIONS, Sao-paulo on Fri, 6 Nov 2026.
 
-From House to Disco is a house and disco artist based in Brazil, with 63 gigs on soundcheck across Berlin, Brazil, Lisbon and New York City and 1 more. Often billed alongside Paulete Lindacelva, Eli Iwasa and Leo Janeiro. Next up: Canoa Quebrada Beach, Brazil on Sat 26 Dec.
+From House to Disco is a house and disco artist based in Brazil, with 65 gigs on soundcheck across Berlin, Brazil, Lisbon and New York City and 1 more. Often billed alongside Paulete Lindacelva, Eli Iwasa and Leo Janeiro. Next up: TBA - 3 LOCAIS / 3 LOCATIONS, Sao Paulo on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | TBA - 3 LOCAIS / 3 LOCATIONS | Sao-paulo |
+| Fri, 20 Nov 2026 | Edifício Martinelli | Sao Paulo |
 | Sat, 26 Dec 2026 | Canoa Quebrada Beach | Brazil |
 
 ## Recently played
@@ -25,4 +27,4 @@ From House to Disco is a house and disco artist based in Brazil, with 63 gigs on
 
 Paulete Lindacelva, Eli Iwasa, Leo Janeiro
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fromhousetodisco/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fromhousetodisco/)*

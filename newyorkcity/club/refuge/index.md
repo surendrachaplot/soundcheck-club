@@ -1,6 +1,6 @@
 # Refuge
 
-Refuge is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Refuge Friday: ÄGAPĒ with Adam X, Fran LF, Frankie Bones & Perc" on Fri, 16 Oct 2026.
+Refuge is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Refuge Friday: ÄGAPĒ with Adam X, Fran LF, Frankie Bones & Perc" on Fri, 16 Oct 2026.
 
 Refuge is a music venue in New York City listed on soundcheck. 16 upcoming gigs, with line-ups including Adam X, Anthony Middleton, Baltra and cotton and 2 more. See dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
 
@@ -23,4 +23,4 @@ Refuge is a music venue in New York City listed on soundcheck. 16 upcoming gigs,
 
 366 Ten Eyck St, Brooklyn, NY 11206, New York City
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*

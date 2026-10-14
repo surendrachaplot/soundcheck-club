@@ -1,6 +1,6 @@
 # DVS1
 
-DVS1 is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Stereo, Montreal on Fri, 16 Oct 2026.
+DVS1 is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Stereo, Montreal on Fri, 16 Oct 2026.
 
 DVS1 is a techno and house artist based in United States of America, with 326 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 71 more. Often billed alongside Ogazón, Helena Hauff and Jeff Mills. Next up: Stereo, Montreal on Fri 16 Oct.
 
@@ -36,4 +36,4 @@ DVS1 is a techno and house artist based in United States of America, with 326 gi
 
 Ogazón, Helena Hauff, Jeff Mills
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*

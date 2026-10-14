@@ -1,6 +1,6 @@
 # Saku
 
-Saku is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Bike Jesus, Prague on Sat, 17 Oct 2026.
+Saku is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Bike Jesus, Prague on Sat, 17 Oct 2026.
 
 Saku is a house and techno artist based in Czech Republic, with 19 gigs on soundcheck across Budapest, Prague and Tokyo. Often billed alongside Ghandi, OIEE and Andrea Dare. Next up: Bike Jesus, Prague on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Saku is a house and techno artist based in Czech Republic, with 19 gigs on sound
 
 Ghandi, OIEE, Andrea Dare
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saku/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saku/)*

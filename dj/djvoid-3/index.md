@@ -1,6 +1,6 @@
 # DJ Void (3)
 
-DJ Void (3) is a Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at MODULE, Copenhagen on Fri, 16 Oct 2026.
+DJ Void (3) is a Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at MODULE, Copenhagen on Fri, 16 Oct 2026.
 
 DJ Void is a trance artist, with 11 gigs on soundcheck across Copenhagen. Often billed alongside Crisco, Ae:ther and Aja Gulris. Next up: MODULE, Copenhagen on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ DJ Void is a trance artist, with 11 gigs on soundcheck across Copenhagen. Often 
 
 Crisco, Ae:ther, Aja Gulris
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djvoid-3/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djvoid-3/)*

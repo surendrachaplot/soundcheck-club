@@ -1,6 +1,6 @@
 # TivoliVredenburg
 
-TivoliVredenburg is a music venue in Utrecht with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Motiv - Lisa Korver (Extended set) & More" on Sat, 17 Oct 2026.
+TivoliVredenburg is a music venue in Utrecht with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Motiv - Lisa Korver (Extended set) & More" on Sat, 17 Oct 2026.
 
 TivoliVredenburg is a music venue in Utrecht listed on soundcheck. 6 upcoming gigs, with line-ups including Aba Shanti-I, Aho Ssan, Ambu Bambu and Ana Roxanne and 2 more. See dates, start times and who's playing. Vredenburgkade 11, 3511 WC, Utrecht, Netherlands.
 
@@ -19,4 +19,4 @@ TivoliVredenburg is a music venue in Utrecht listed on soundcheck. 6 upcoming gi
 
 Vredenburgkade 11, 3511 WC, Utrecht, Netherlands, Utrecht
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/tivolivredenburg/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/tivolivredenburg/)*

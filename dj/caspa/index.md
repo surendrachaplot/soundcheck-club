@@ -1,6 +1,6 @@
 # Caspa
 
-Caspa is a Dubstep and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at 45 East, Portland on Fri, 16 Oct 2026.
+Caspa is a Dubstep and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at 45 East, Portland on Fri, 16 Oct 2026.
 
 Caspa is a dubstep and drum & bass artist based in United Kingdom, with 25 gigs on soundcheck across Berlin, Bristol, Chicago and London and 9 more. Often billed alongside Deep Tempo, MINTY and SGT Pokes. Next up: 45 East, Portland on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Caspa is a dubstep and drum & bass artist based in United Kingdom, with 25 gigs 
 
 Deep Tempo, MINTY, SGT Pokes
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caspa/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caspa/)*

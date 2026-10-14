@@ -1,6 +1,6 @@
 # Club Guesthouse
 
-Club Guesthouse is a music venue in Bucharest with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "GH 17.10 - Gonno, Raresh" on Sat, 17 Oct 2026.
+Club Guesthouse is a music venue in Bucharest with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "GH 17.10 - Gonno, Raresh" on Sat, 17 Oct 2026.
 
 Club Guesthouse is a music venue in Bucharest listed on soundcheck. 4 upcoming gigs, with line-ups including Andrei Ciubuc, Dan Andrei, Gabbs and Gonno and 2 more. See dates, start times and who's playing. Splaiul Unirii 160, Bucharest, Romania.
 
@@ -17,4 +17,4 @@ Club Guesthouse is a music venue in Bucharest listed on soundcheck. 4 upcoming g
 
 Splaiul Unirii 160, Bucharest, Romania, Bucharest
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/club-guesthouse/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/club-guesthouse/)*

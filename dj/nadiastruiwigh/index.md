@@ -1,8 +1,8 @@
 # Nadia Struiwigh
 
-Nadia Struiwigh is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Wed, 21 Oct 2026.
+Nadia Struiwigh is a Techno and Ambient artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Wed, 21 Oct 2026.
 
-Nadia Struiwigh is a techno and house artist based in Germany, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 18 more. Often billed alongside DJ MELL G, MAEDON and Regis. Next up: THE OTHER SIDE, Amsterdam on Wed 21 Oct.
+Nadia Struiwigh is a techno and ambient artist based in Germany, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 18 more. Often billed alongside DJ MELL G, MAEDON and Regis. Next up: THE OTHER SIDE, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Nadia Struiwigh is a techno and house artist based in Germany, with 83 gigs on s
 
 DJ MELL G, MAEDON, Regis
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiastruiwigh/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiastruiwigh/)*

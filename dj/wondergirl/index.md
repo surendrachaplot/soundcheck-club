@@ -1,6 +1,6 @@
 # WÖNDER GIRL
 
-WÖNDER GIRL is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Blvck Water, Osaka on Wed, 14 Oct 2026.
+WÖNDER GIRL is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Blvck Water, Osaka on Wed, 14 Oct 2026.
 
 WÖNDER GIRL is a techno and electro artist based in Japan, with 18 gigs on soundcheck across Kyoto and Osaka. Often billed alongside Chiaki Uehira, Lhinen and CAPTAIN HOOK Jr.. Next up: Blvck Water, Osaka on Wed 14 Oct.
 
@@ -27,4 +27,4 @@ WÖNDER GIRL is a techno and electro artist based in Japan, with 18 gigs on soun
 
 Chiaki Uehira, Lhinen, CAPTAIN HOOK Jr.
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wondergirl/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wondergirl/)*

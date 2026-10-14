@@ -1,14 +1,15 @@
 # Christa K
 
-Christa K is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Fitzroy, Berlin on Fri, 16 Oct 2026.
+Christa K is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Fitzroy, Berlin on Fri, 16 Oct 2026.
 
-Christa K is a house and techno artist based in Germany, with 62 gigs on soundcheck across Berlin, Hamburg, Leipzig and Munich. Often billed alongside ATTA (GER), groovyjuri and DJ SPORTSCHUH. Next up: Fitzroy, Berlin on Fri 16 Oct.
+Christa K is a house and techno artist based in Germany, with 63 gigs on soundcheck across Berlin, Hamburg, Leipzig and Munich. Often billed alongside ATTA (GER), groovyjuri and DJ SPORTSCHUH. Next up: Fitzroy, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Fitzroy | Berlin |
+| Fri, 23 Oct 2026 | Monarch | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Christa K is a house and techno artist based in Germany, with 62 gigs on soundch
 
 ATTA (GER), groovyjuri, DJ SPORTSCHUH
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christak/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christak/)*

@@ -1,13 +1,14 @@
 # Loris
 
-Loris is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at 1990, Glasgow on Sat, 31 Oct 2026.
+Loris is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The White Hotel, Manchester on Sat, 17 Oct 2026.
 
-Loris is a techno and club artist based in Mexico, with 65 gigs on soundcheck across Armenia, Berlin, Brussels and Detroit and 9 more. Often billed alongside 1OO1O, Kodemul and PAURRO. Next up: 1990, Glasgow on Sat 31 Oct.
+Loris is a techno and club artist based in Mexico, with 66 gigs on soundcheck across Armenia, Berlin, Brussels and Detroit and 10 more. Often billed alongside 1OO1O, Kodemul and PAURRO. Next up: The White Hotel, Manchester on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | The White Hotel | Manchester |
 | Sat, 31 Oct 2026 | 1990 | Glasgow |
 
 ## Recently played
@@ -25,4 +26,4 @@ Loris is a techno and club artist based in Mexico, with 65 gigs on soundcheck ac
 
 1OO1O, Kodemul, PAURRO
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loris/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loris/)*

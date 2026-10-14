@@ -1,13 +1,14 @@
 # Mene
 
-Mene is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - AMSTERDAM BARBER COMPANY, Amsterdam on Sat, 24 Oct 2026.
+Mene is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Kult, Belgrade on Sat, 17 Oct 2026.
 
-Mene is a tech house and house artist based in Serbia, with 40 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Ibiza and 3 more. Often billed alongside ACA (YU), Nemax and Dimitri J. Next up: TBA - AMSTERDAM BARBER COMPANY, Amsterdam on Sat 24 Oct.
+Mene is a tech house and house artist based in Serbia, with 41 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Ibiza and 3 more. Often billed alongside ACA (YU), Nemax and Dimitri J. Next up: Kult, Belgrade on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Kult | Belgrade |
 | Sat, 24 Oct 2026 | TBA - AMSTERDAM BARBER COMPANY | Amsterdam |
 | Fri, 13 Nov 2026 | Egg London | London |
 
@@ -26,4 +27,4 @@ Mene is a tech house and house artist based in Serbia, with 40 gigs on soundchec
 
 ACA (YU), Nemax, Dimitri J
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mene/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mene/)*

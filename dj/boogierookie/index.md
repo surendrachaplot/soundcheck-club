@@ -1,6 +1,6 @@
 # Boogie Rookie
 
-Boogie Rookie is a Italo Disco and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at OXI, Berlin on Fri, 16 Oct 2026.
+Boogie Rookie is a Italo Disco and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at OXI, Berlin on Fri, 16 Oct 2026.
 
 Boogie Rookie is an italo disco and disco artist based in Denmark, with 56 gigs on soundcheck across Berlin, Copenhagen, Milan and New York City. Often billed alongside Harrison Heat, Dingo Tracks and Frinda di Lanco. Next up: OXI, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Boogie Rookie is an italo disco and disco artist based in Denmark, with 56 gigs 
 
 Harrison Heat, Dingo Tracks, Frinda di Lanco
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boogierookie/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boogierookie/)*

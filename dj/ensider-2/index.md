@@ -1,6 +1,6 @@
 # ENSIDER (2)
 
-ENSIDER (2) is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA, Toronto on Fri, 16 Oct 2026.
+ENSIDER (2) is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Toronto on Fri, 16 Oct 2026.
 
 ENSIDER is a club and bass artist based in Canada, with 16 gigs on soundcheck across Toronto. Often billed alongside MS.MYLES, moodyjooly and Coco de Mol. Next up: TBA, Toronto on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ ENSIDER is a club and bass artist based in Canada, with 16 gigs on soundcheck ac
 
 MS.MYLES, moodyjooly, Coco de Mol
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ensider-2/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ensider-2/)*

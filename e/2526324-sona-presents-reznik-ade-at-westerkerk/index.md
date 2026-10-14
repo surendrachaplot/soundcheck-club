@@ -1,6 +1,6 @@
 # SONA presents: Reznik [ADE] at Westerkerk
 
-SONA presents: Reznik [ADE] at Westerkerk on Thu 22 Oct, Amsterdam. 1 artist: Reznik. House and Afro House. See the line-up on soundcheck.
+SONA presents: Reznik [ADE] at Westerkerk on Thu 22 Oct, Amsterdam. 3 artists: Khadija (DE), Laolu and Reznik. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ SONA presents: Reznik [ADE] at Westerkerk on Thu 22 Oct, Amsterdam. 1 artist: Re
 
 ## Line-up
 
+- Khadija (DE)
+- Laolu
 - Reznik
 
 *Source: [soundcheck](https://soundcheck.club/e/2526324-sona-presents-reznik-ade-at-westerkerk/)*

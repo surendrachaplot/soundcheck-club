@@ -1,6 +1,6 @@
 # NYRA (DE)
 
-NYRA (DE) is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at E-Werk Kulturzentrum, Nürnberg on Sat, 17 Oct 2026.
+NYRA (DE) is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at E-Werk Kulturzentrum, Nürnberg on Sat, 17 Oct 2026.
 
 NYRA (DE) is a techno and trance artist based in Germany, with 49 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside davyboi, Cara Elizabeth and Justin Tinderdate. Next up: E-Werk Kulturzentrum, Nürnberg on Sat 17 Oct.
 
@@ -32,4 +32,4 @@ NYRA (DE) is a techno and trance artist based in Germany, with 49 gigs on soundc
 
 davyboi, Cara Elizabeth, Justin Tinderdate
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/NYRA.DE/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/NYRA.DE/)*

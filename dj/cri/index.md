@@ -1,6 +1,6 @@
 # CRi
 
-CRi is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Rex Club, Paris on Sat, 17 Oct 2026.
+CRi is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Rex Club, Paris on Sat, 17 Oct 2026.
 
 CRi is a house and deep house artist based in Canada, with 49 gigs on soundcheck across Austin, Berlin, Chicago and London and 14 more. Often billed alongside Nicky Elisabeth, Hana and Eli & Fur. Next up: Rex Club, Paris on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ CRi is a house and deep house artist based in Canada, with 49 gigs on soundcheck
 
 Nicky Elisabeth, Hana, Eli & Fur
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cri/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cri/)*

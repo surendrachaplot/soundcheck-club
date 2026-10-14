@@ -1,6 +1,6 @@
-# Symbiosis at PKH Warehouse
+# SYMBIOSIS at PKH Warehouse
 
-Symbiosis at PKH Warehouse on Sat 21 Nov, Berlin. 10 artists: Atype, Berg, Daora and Grace Thompson and 6 more. Techno and Psytrance. See the line-up on soundcheck.
+SYMBIOSIS at PKH Warehouse on Sat 21 Nov, Berlin. 9 artists: Atype, Daora, Grace Thompson and K3VKO and 5 more. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Symbiosis at PKH Warehouse on Sat 21 Nov, Berlin. 10 artists: Atype, Berg, Daora
 ## Line-up
 
 - Atype
-- Berg
 - Daora
 - Grace Thompson
 - K3VKO

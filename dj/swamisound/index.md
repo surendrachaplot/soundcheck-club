@@ -1,13 +1,14 @@
 # Swami Sound
 
-Swami Sound is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at The Foundry, San Francisco/Oakland on Sat, 31 Oct 2026.
+Swami Sound is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Dublab, Los Angeles on Fri, 30 Oct 2026.
 
-Swami Sound is a garage and house artist based in United States of America, with 107 gigs on soundcheck across Austin, Boston, Chicago and Denver and 14 more. Often billed alongside gum.mp3, Dazegxd and AceMo. Next up: The Foundry, San Francisco/Oakland on Sat 31 Oct.
+Swami Sound is a garage and house artist based in United States of America, with 108 gigs on soundcheck across Austin, Boston, Chicago and Denver and 14 more. Often billed alongside gum.mp3, Dazegxd and AceMo. Next up: Dublab, Los Angeles on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Dublab | Los Angeles |
 | Sat, 31 Oct 2026 | The Foundry | San Francisco/Oakland |
 | Fri, 27 Nov 2026 | Nowadays | New York City |
 
@@ -26,4 +27,4 @@ Swami Sound is a garage and house artist based in United States of America, with
 
 gum.mp3, Dazegxd, AceMo
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swamisound/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swamisound/)*

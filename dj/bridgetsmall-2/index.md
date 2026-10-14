@@ -1,13 +1,14 @@
 # Bridget Small (2)
 
-Bridget Small (2) is a Dub and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
+Bridget Small (2) is a Dub and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Motley Warehaus, Melbourne on Sat, 24 Oct 2026.
 
-Bridget Small is a dub and electronica artist based in Australia, with 14 gigs on soundcheck across Athens, Melbourne, New South Wales and Victoria. Often billed alongside Nick Ure, Elsie and Sofay. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
+Bridget Small is a dub and electronica artist based in Australia, with 15 gigs on soundcheck across Athens, Melbourne, New South Wales and Victoria. Often billed alongside Nick Ure, Elsie and Sofay. Next up: The Motley Warehaus, Melbourne on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | The Motley Warehaus | Melbourne |
 | Fri, 6 Nov 2026 | TBA - Mount Adrah, Wiradjuri Country NSW | New-south-wales |
 | Fri, 6 Nov 2026 | TBA | Victoria |
 
@@ -26,4 +27,4 @@ Bridget Small is a dub and electronica artist based in Australia, with 14 gigs o
 
 Nick Ure, Elsie, Sofay
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bridgetsmall-2/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bridgetsmall-2/)*

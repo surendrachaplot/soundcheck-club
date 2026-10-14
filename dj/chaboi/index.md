@@ -1,6 +1,6 @@
 # Chaboi
 
-Chaboi is a Latin Bass and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at TBA - 818-724-7836, Los Angeles on Sat, 17 Oct 2026.
+Chaboi is a Latin Bass and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - 818-724-7836, Los Angeles on Sat, 17 Oct 2026.
 
 Chaboi is a latin bass and reggaeton artist based in Mexico, with 11 gigs on soundcheck across Los Angeles. Often billed alongside BL4ZE, Bianca Maieli and Helikonia. Next up: TBA - 818-724-7836, Los Angeles on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Chaboi is a latin bass and reggaeton artist based in Mexico, with 11 gigs on sou
 
 BL4ZE, Bianca Maieli, Helikonia
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chaboi/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chaboi/)*

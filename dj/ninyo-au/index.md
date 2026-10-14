@@ -1,13 +1,14 @@
 # Ninyo (AU)
 
-Ninyo (AU) is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Oxford Art Factory, Sydney on Fri, 8 Jan 2027.
+Ninyo (AU) is a Drum & Bass and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Sydney on Wed, 30 Dec 2026.
 
-Ninyo (AU) is a drum & bass and bass artist based in Australia, with 10 gigs on soundcheck across Barcelona and Sydney. Often billed alongside 4am Kru, An Gelo and Andrew Wowk. Next up: Oxford Art Factory, Sydney on Fri 8 Jan.
+Ninyo (AU) is a drum & bass and psytrance artist based in Australia, with 11 gigs on soundcheck across Barcelona and Sydney. Often billed alongside Ebony Willis, Quakes and $CRAIC. Next up: TBA, Sydney on Wed 30 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 30 Dec 2026 | TBA | Sydney |
 | Fri, 8 Jan 2027 | Oxford Art Factory | Sydney |
 
 ## Recently played
@@ -23,6 +24,6 @@ Ninyo (AU) is a drum & bass and bass artist based in Australia, with 10 gigs on 
 
 ## Shares bills with
 
-4am Kru, An Gelo, Andrew Wowk
+Ebony Willis, Quakes, $CRAIC
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninyo-au/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninyo-au/)*

@@ -1,8 +1,8 @@
 # nordcorreia.mp3
 
-nordcorreia.mp3 is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 24 Oct 2026.
+nordcorreia.mp3 is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 24 Oct 2026.
 
-nordcorreia.mp3 is a techno and trance artist based in Germany, with 51 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 4 more. Often billed alongside Amøn, Boltcore and FEROTONINO. Next up: Toekomstmuziek, Amsterdam on Sat 24 Oct.
+nordcorreia.mp3 is a techno and trance artist based in Germany, with 52 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 4 more. Often billed alongside Amøn, FEROTONINO and Boltcore. Next up: Toekomstmuziek, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ nordcorreia.mp3 is a techno and trance artist based in Germany, with 51 gigs on 
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Toekomstmuziek | Amsterdam |
 | Fri, 30 Oct 2026 | Lokschuppen Berlin | Berlin |
+| Sat, 31 Oct 2026 | Westhafen | Leipzig |
 | Wed, 16 Dec 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
@@ -25,6 +26,6 @@ nordcorreia.mp3 is a techno and trance artist based in Germany, with 51 gigs on 
 
 ## Shares bills with
 
-Amøn, Boltcore, FEROTONINO
+Amøn, FEROTONINO, Boltcore
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nordcorreia.mp3/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nordcorreia.mp3/)*

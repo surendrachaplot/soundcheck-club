@@ -1,13 +1,14 @@
 # Russell E.L. Butler
 
-Russell E.L. Butler is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Umbria Arts, Philadelphia on Sat, 24 Oct 2026.
+Russell E.L. Butler is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Mansions, New York City on Thu, 15 Oct 2026.
 
-Russell E.L. Butler is a house and techno artist based in United States of America, with 97 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Detroit and 10 more. Often billed alongside ADAB, Ali Berger and Kiernan Laveaux. Next up: Umbria Arts, Philadelphia on Sat 24 Oct.
+Russell E.L. Butler is a house and techno artist based in United States of America, with 98 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Detroit and 10 more. Often billed alongside ADAB, Ali Berger and Kiernan Laveaux. Next up: Mansions, New York City on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 15 Oct 2026 | Mansions | New York City |
 | Sat, 24 Oct 2026 | Umbria Arts | Philadelphia |
 | Mon, 9 Nov 2026 | public records | New York City |
 | Sat, 14 Nov 2026 | public records | New York City |
@@ -27,4 +28,4 @@ Russell E.L. Butler is a house and techno artist based in United States of Ameri
 
 ADAB, Ali Berger, Kiernan Laveaux
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/russellelbutler/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/russellelbutler/)*

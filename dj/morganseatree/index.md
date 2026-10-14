@@ -1,8 +1,8 @@
 # Morgan Seatree
 
-Morgan Seatree is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at SILO, New York City on Fri, 16 Oct 2026.
+Morgan Seatree is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at SILO, New York City on Fri, 16 Oct 2026.
 
-Morgan Seatree is a house and tech house artist based in United Kingdom, with 93 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Birmingham and 27 more. Often billed alongside Kyle Starkey, Diffrent and DART. Next up: SILO, New York City on Fri 16 Oct.
+Morgan Seatree is a house and tech house artist based in United Kingdom, with 94 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Birmingham and 27 more. Often billed alongside Kyle Starkey, Diffrent and DART. Next up: SILO, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Morgan Seatree is a house and tech house artist based in United Kingdom, with 93
 | Sat, 28 Nov 2026 | Ice Cream Factory | Perth |
 | Fri, 4 Dec 2026 | Club Vaag | Antwerp |
 | Sat, 5 Dec 2026 | Blackstone Street Warehouse | Liverpool |
+| Sat, 19 Dec 2026 | Inter-City | The Hague |
 
 ## Recently played
 
@@ -33,4 +34,4 @@ Morgan Seatree is a house and tech house artist based in United Kingdom, with 93
 
 Kyle Starkey, Diffrent, DART
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morganseatree/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morganseatree/)*

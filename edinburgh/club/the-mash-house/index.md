@@ -1,6 +1,6 @@
 # The Mash House
 
-The Mash House is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "CALYX - Halloween Hell Raiser pt.II: Kerr & TiLA + residents" on Fri, 30 Oct 2026.
+The Mash House is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "CALYX - Halloween Hell Raiser pt.II: Kerr & TiLA + residents" on Fri, 30 Oct 2026.
 
 The Mash House is a music venue in Edinburgh listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom.
 
@@ -15,4 +15,4 @@ The Mash House is a music venue in Edinburgh listed on soundcheck. 2 upcoming gi
 
 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom, Edinburgh
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*

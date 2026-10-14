@@ -1,8 +1,8 @@
 # Terry Francis
 
-Terry Francis is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Gaffe, London on Sat, 31 Oct 2026.
+Terry Francis is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Gaffe, London on Sat, 31 Oct 2026.
 
-Terry Francis is a house and tech house artist based in United Kingdom, with 62 gigs on soundcheck across Aberdeen, Berlin, Birmingham and Brighton and 9 more. Often billed alongside 3 Minds, Eddie Richards and Jake Beautyman. Next up: Gaffe, London on Sat 31 Oct.
+Terry Francis is a house and tech house artist based in United Kingdom, with 63 gigs on soundcheck across Aberdeen, Berlin, Birmingham and Brighton and 9 more. Often billed alongside 3 Minds, Eddie Richards and Jake Beautyman. Next up: Gaffe, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Terry Francis is a house and tech house artist based in United Kingdom, with 62 
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Gaffe | London |
 | Sat, 28 Nov 2026 | Movers | Nottingham |
+| Fri, 4 Dec 2026 | Starlane Pizza Bar | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Terry Francis is a house and tech house artist based in United Kingdom, with 62 
 
 3 Minds, Eddie Richards, Jake Beautyman
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terryfrancis/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terryfrancis/)*

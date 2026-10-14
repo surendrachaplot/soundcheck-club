@@ -1,6 +1,6 @@
 # Mika Heggemann
 
-Mika Heggemann is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Ääniwalli, Helsinki on Fri, 16 Oct 2026.
+Mika Heggemann is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Ääniwalli, Helsinki on Fri, 16 Oct 2026.
 
 Mika Heggemann is a techno and trance artist based in Germany, with 173 gigs on soundcheck across Amsterdam, Antwerp, Augsburg and Barcelona and 35 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Ääniwalli, Helsinki on Fri 16 Oct.
 
@@ -35,4 +35,4 @@ Mika Heggemann is a techno and trance artist based in Germany, with 173 gigs on 
 
 Cleopard2000, Trancemaster Krause, davyboi
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*

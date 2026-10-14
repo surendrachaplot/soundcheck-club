@@ -1,6 +1,6 @@
 # San Nicola
 
-San Nicola is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at THE MAGICK BAR, Rome on Thu, 15 Oct 2026.
+San Nicola is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at THE MAGICK BAR, Rome on Thu, 15 Oct 2026.
 
 San Nicola is a house and techno artist based in Italy, with 27 gigs on soundcheck across Naples, Rome and Sicily. Often billed alongside Kodacci, Joe Rosh and lōrenzo. Next up: THE MAGICK BAR, Rome on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ San Nicola is a house and techno artist based in Italy, with 27 gigs on soundche
 
 Kodacci, Joe Rosh, lōrenzo
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sannicola/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sannicola/)*

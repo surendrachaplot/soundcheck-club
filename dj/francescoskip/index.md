@@ -1,6 +1,6 @@
 # Francesco Skip
 
-Francesco Skip is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Bunker, Turin on Fri, 30 Oct 2026.
+Francesco Skip is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Bunker, Turin on Fri, 30 Oct 2026.
 
 Francesco Skip is a techno and electronica artist, with 11 gigs on soundcheck across Milan, Rome and Turin. Often billed alongside Luce Clandestina, Emiliano Comollo and Stefania Vos. Next up: Bunker, Turin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Francesco Skip is a techno and electronica artist, with 11 gigs on soundcheck ac
 
 Luce Clandestina, Emiliano Comollo, Stefania Vos
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescoskip/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescoskip/)*

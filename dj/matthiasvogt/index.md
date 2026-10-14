@@ -1,6 +1,6 @@
 # Matthias Vogt
 
-Matthias Vogt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. Next at Silbergold, Frankfurt on Sat, 17 Oct 2026.
+Matthias Vogt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Silbergold, Frankfurt on Sat, 17 Oct 2026.
 
 Matthias Vogt is a house and techno artist based in Germany, with 18 gigs on soundcheck across Berlin, Frankfurt and London. Often billed alongside Johannes Albert, John Osborn and AMSL. Next up: Silbergold, Frankfurt on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Matthias Vogt is a house and techno artist based in Germany, with 18 gigs on sou
 
 Johannes Albert, John Osborn, AMSL
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasvogt/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasvogt/)*

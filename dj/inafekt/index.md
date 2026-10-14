@@ -1,6 +1,6 @@
 # Inafekt
 
-Inafekt is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Mondo, Madrid on Thu, 22 Oct 2026.
+Inafekt is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Mondo, Madrid on Thu, 22 Oct 2026.
 
 Inafekt is a techno and house artist based in United Kingdom, with 56 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 15 more. Often billed alongside Kyle Starkey, Entasia and DART. Next up: Mondo, Madrid on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Inafekt is a techno and house artist based in United Kingdom, with 56 gigs on so
 
 Kyle Starkey, Entasia, DART
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inafekt/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inafekt/)*

@@ -1,6 +1,6 @@
 # Vinyl Euphoria,Psy-Phoria,Needle Damage at Basing House
 
-Vinyl Euphoria,Psy-Phoria,Needle Damage at Basing House on Sun 27 Dec, London. Trance and Psytrance. See the line-up on soundcheck.
+Vinyl Euphoria,Psy-Phoria,Needle Damage at Basing House on Sun 27 Dec, London. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

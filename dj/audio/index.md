@@ -1,14 +1,15 @@
 # Audio
 
-Audio is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. Next at Maassilo, Rotterdam on Fri, 30 Oct 2026.
+Audio is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Maassilo, Rotterdam on Fri, 30 Oct 2026.
 
-Audio is a drum & bass and jungle artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Brighton and 19 more. Often billed alongside Ed Rush, Optical and Pythius. Next up: Maassilo, Rotterdam on Fri 30 Oct.
+Audio is a drum & bass and jungle artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Brighton and 19 more. Often billed alongside Ed Rush, Optical and Pythius. Next up: Maassilo, Rotterdam on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Maassilo | Rotterdam |
+| Fri, 13 Nov 2026 | Křižík Pavilion B | Prague |
 | Sun, 13 Dec 2026 | Lunchbox | Atlanta |
 
 ## Recently played
@@ -26,4 +27,4 @@ Audio is a drum & bass and jungle artist based in United Kingdom, with 36 gigs o
 
 Ed Rush, Optical, Pythius
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audio/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audio/)*

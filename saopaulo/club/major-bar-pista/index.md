@@ -1,15 +1,15 @@
 # Major Bar & Pista
 
-Major Bar & Pista is a music venue in Sao Paulo with 24 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "Major recebe RESIDÊNCIA SYNCE" on Wed, 14 Oct 2026.
+Major Bar & Pista is a music venue in Sao Paulo with 24 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Major recebe RESIDÊNCIA SYNCE" on Wed, 14 Oct 2026.
 
-Major Bar & Pista is a music venue in Sao Paulo listed on soundcheck. 24 upcoming gigs. See dates, start times and who's playing. Rua Major Sertório, 347.
+Major Bar & Pista is a music venue in Sao Paulo listed on soundcheck. 24 upcoming gigs, with line-ups including AmadoPeace. See dates, start times and who's playing. Rua Major Sertório, 347.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 14 Oct 2026 | Major recebe RESIDÊNCIA SYNCE |  |
-| Fri, 16 Oct 2026 | Major recebe Amadopeace |  |
+| Fri, 16 Oct 2026 | Major recebe AmadoPeace | AmadoPeace |
 | Sat, 17 Oct 2026 | Major recebe Grazi Flores |  |
 | Wed, 21 Oct 2026 | Major recebe Golden Kong |  |
 | Thu, 22 Oct 2026 | Major recebe Mateus G |  |
@@ -23,4 +23,4 @@ Major Bar & Pista is a music venue in Sao Paulo listed on soundcheck. 24 upcomin
 
 Rua Major Sertório, 347, Sao Paulo
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/major-bar-pista/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/major-bar-pista/)*

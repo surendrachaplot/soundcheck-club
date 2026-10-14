@@ -1,6 +1,6 @@
 # Honey's
 
-Honey's is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "PEPPERPOT: DJ Freedem, Love Higher, PSYCHOMOB, samisosa B2B Samantha DaSilva" on Thu, 15 Oct 2026.
+Honey's is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "PEPPERPOT: DJ Freedem, Love Higher, PSYCHOMOB, samisosa B2B Samantha DaSilva" on Thu, 15 Oct 2026.
 
 Honey's is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Conduit, Amelia Holt, DJ Freedem and EEVEE and 2 more. See dates, start times and who's playing. 93 Scott Avenue, Brooklyn, NY 11237.
 
@@ -19,4 +19,4 @@ Honey's is a music venue in New York City listed on soundcheck. 6 upcoming gigs,
 
 93 Scott Avenue, Brooklyn, NY 11237, New York City
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/honey-s/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/honey-s/)*

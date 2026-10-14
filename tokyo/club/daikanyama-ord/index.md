@@ -1,6 +1,6 @@
 # Daikanyama ORD.
 
-Daikanyama ORD. is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Tue, 13 Oct 2026. The next is "CORE 対 CORE" on Thu, 15 Oct 2026.
+Daikanyama ORD. is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "CORE 対 CORE" on Thu, 15 Oct 2026.
 
 Daikanyama ORD. is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including AOKI takamasa, DAIY, Lucci (CA) and Itou and 2 more. See dates, start times and who's playing. za HOUSE 2F 1-34-17 ebisu-nishi shibuyaku tokyo.
 
@@ -17,4 +17,4 @@ Daikanyama ORD. is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs,
 
 za HOUSE 2F 1-34-17 ebisu-nishi shibuyaku tokyo, Tokyo
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/daikanyama-ord/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/daikanyama-ord/)*

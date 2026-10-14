@@ -1,13 +1,13 @@
 # Aethos London Shoreditch
 
-Aethos London Shoreditch is a music venue in London with 1 upcoming gig listed on soundcheck as of Tue, 13 Oct 2026. The next is "Heaven & Hell Halloween Party" on Sat, 31 Oct 2026.
+Aethos London Shoreditch is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "Heaven & Hell Halloween Party" on Sat, 31 Oct 2026.
 
-Aethos London Shoreditch is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
+Aethos London Shoreditch is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Bradley Skeng, Daisybelle, Enzo is Burning and Ryussi. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Heaven & Hell Halloween Party |  |
+| Sat, 31 Oct 2026 | Heaven & Hell Halloween Party | Bradley Skeng, Daisybelle, Enzo is Burning, Ryussi |
 
-*Updated Tue, 13 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/aethos-london-shoreditch/)*
+*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/aethos-london-shoreditch/)*
