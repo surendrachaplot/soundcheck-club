@@ -1,6 +1,6 @@
 # Mariiin
 
-Mariiin is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Ouseburn Garden, Newcastle on Sat, 17 Oct 2026.
+Mariiin is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Ouseburn Garden, Newcastle on Sat, 17 Oct 2026.
 
 Mariiin is a techno and electro artist based in United Kingdom, with 94 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 17 more. Often billed alongside Bobby., Jos and Anna Wall. Next up: Ouseburn Garden, Newcastle on Sat 17 Oct.
 
@@ -29,4 +29,4 @@ Mariiin is a techno and electro artist based in United Kingdom, with 94 gigs on 
 
 Bobby., Jos, Anna Wall
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Mariiin/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Mariiin/)*

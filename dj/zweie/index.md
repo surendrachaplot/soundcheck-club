@@ -1,6 +1,6 @@
 # ZweiE
 
-ZweiE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at PKH Warehouse, Berlin on Thu, 15 Oct 2026.
+ZweiE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at PKH Warehouse, Berlin on Thu, 15 Oct 2026.
 
 ZweiE is a techno and house artist based in Germany, with 25 gigs on soundcheck across Berlin, Cologne and Warsaw. Often billed alongside Maurice Mino, Sin:port and Martin Ka. Next up: PKH Warehouse, Berlin on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ ZweiE is a techno and house artist based in Germany, with 25 gigs on soundcheck 
 
 Maurice Mino, Sin:port, Martin Ka
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zweie/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zweie/)*

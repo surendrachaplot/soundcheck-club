@@ -1,8 +1,8 @@
 # 2HOT2PLAY
 
-2HOT2PLAY is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Sonora Bordeaux, Bordeaux on Fri, 16 Oct 2026.
+2HOT2PLAY is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Sonora Bordeaux, Bordeaux on Fri, 16 Oct 2026.
 
-2HOT2PLAY is a techno and trance artist based in Germany, with 105 gigs on soundcheck across Amsterdam, Antwerp, Augsburg and Barcelona and 28 more. Often billed alongside L.zwo, Mika Heggemann and Cara Elizabeth. Next up: Sonora Bordeaux, Bordeaux on Fri 16 Oct.
+2HOT2PLAY is a techno and trance artist based in Germany, with 106 gigs on soundcheck across Amsterdam, Antwerp, Augsburg and Barcelona and 29 more. Often billed alongside L.zwo, Mika Heggemann and Cara Elizabeth. Next up: Sonora Bordeaux, Bordeaux on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@
 | Fri, 16 Oct 2026 | Parc des Expositions de Bordeaux lac | Bordeaux |
 | Thu, 22 Oct 2026 | Melkweg | Amsterdam |
 | Sat, 24 Oct 2026 | The Bulldog Palace | Amsterdam |
+| Sat, 31 Oct 2026 | Kømplex Lisbon | Lisbon |
 | Sun, 15 Nov 2026 | Thuishaven | Amsterdam |
 | Fri, 20 Nov 2026 | Kesselhaus Augsburg | Augsburg |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
@@ -34,4 +35,4 @@
 
 L.zwo, Mika Heggemann, Cara Elizabeth
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2hot2play/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2hot2play/)*

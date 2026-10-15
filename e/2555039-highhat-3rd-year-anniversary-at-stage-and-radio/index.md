@@ -1,6 +1,6 @@
 # HighHat - 3rd Year Anniversary at Stage and Radio
 
-HighHat - 3rd Year Anniversary at Stage and Radio on Sat 21 Nov, Manchester. 3 artists: 4D (UK), Daneal and Mazzoni. Techno and House. See the line-up on soundcheck.
+HighHat - 3rd Year Anniversary at Stage and Radio on Sat 21 Nov, Manchester. 3 artists: 4D, Daneal and Mazzoni. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ HighHat - 3rd Year Anniversary at Stage and Radio on Sat 21 Nov, Manchester. 3 a
 
 ## Line-up
 
-- 4D (UK)
+- 4D
 - Daneal
 - Mazzoni
 

@@ -1,6 +1,6 @@
 # HotLap
 
-HotLap is a House and Afro House artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Volt Club Milano, Milan on Fri, 16 Oct 2026.
+HotLap is a House and Afro House artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Volt Club Milano, Milan on Fri, 16 Oct 2026.
 
 HotLap is a house and afro house artist based in United States of America, with 18 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Budapest and 9 more. Often billed alongside Cima, IMEN and Rolbac. Next up: Volt Club Milano, Milan on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ HotLap is a house and afro house artist based in United States of America, with 
 
 Cima, IMEN, Rolbac
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotlap/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotlap/)*

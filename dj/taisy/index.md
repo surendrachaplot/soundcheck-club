@@ -1,6 +1,6 @@
 # Taisy
 
-Taisy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at glimmer, Hamburg on Fri, 16 Oct 2026.
+Taisy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at glimmer, Hamburg on Fri, 16 Oct 2026.
 
 Taisy is a house and techno artist based in Germany, with 15 gigs on soundcheck across Hamburg. Often billed alongside DJ Babyblade, VALI THUN and Jakob Seidensticker. Next up: glimmer, Hamburg on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Taisy is a house and techno artist based in Germany, with 15 gigs on soundcheck 
 
 DJ Babyblade, VALI THUN, Jakob Seidensticker
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taisy/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taisy/)*

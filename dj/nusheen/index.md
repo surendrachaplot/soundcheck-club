@@ -1,6 +1,6 @@
 # Nusheen
 
-Nusheen is a House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at EXIT Glasgow, Glasgow on Fri, 4 Dec 2026.
+Nusheen is a House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at EXIT Glasgow, Glasgow on Fri, 4 Dec 2026.
 
 Nusheen is a house and amapiano artist based in United Kingdom, with 27 gigs on soundcheck across Glasgow, London and Manchester. Often billed alongside Hometown Sound, Kahn and Naone. Next up: EXIT Glasgow, Glasgow on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Nusheen is a house and amapiano artist based in United Kingdom, with 27 gigs on 
 
 Hometown Sound, Kahn, Naone
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nusheen/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nusheen/)*

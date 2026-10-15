@@ -1,6 +1,6 @@
 # Silva Bumpa
 
-Silva Bumpa is a Garage and House artist with 15 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Mondo, Madrid on Thu, 15 Oct 2026.
+Silva Bumpa is a Garage and House artist with 15 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Mondo, Madrid on Thu, 15 Oct 2026.
 
 Silva Bumpa is a garage and house artist based in United Kingdom, with 219 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 53 more. Often billed alongside Soul Mass Transit System, Prozak (IRL) and Main Phase. Next up: Mondo, Madrid on Thu 15 Oct.
 
@@ -36,4 +36,4 @@ Silva Bumpa is a garage and house artist based in United Kingdom, with 219 gigs 
 
 Soul Mass Transit System, Prozak (IRL), Main Phase
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silvabumpa/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silvabumpa/)*

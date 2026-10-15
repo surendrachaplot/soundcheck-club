@@ -1,6 +1,6 @@
 # Nawaz
 
-Nawaz is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
+Nawaz is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
 
 Nawaz is a techno and bass artist, with 34 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Paris and 2 more. Often billed alongside Woody92, Hitam and Bill Kouligas. Next up: ingang, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Nawaz is a techno and bass artist, with 34 gigs on soundcheck across Amsterdam, 
 
 Woody92, Hitam, Bill Kouligas
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nawaz/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nawaz/)*

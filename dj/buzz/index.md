@@ -1,6 +1,6 @@
 # Buzz
 
-Buzz is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Whammy Bar, Auckland on Fri, 16 Oct 2026.
+Buzz is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Whammy Bar, Auckland on Fri, 16 Oct 2026.
 
 Buzz is a psytrance and techno artist based in Italy, with 10 gigs on soundcheck across Auckland, Osaka, Tokyo and Vienna. Often billed alongside C!AO, YUKI (JP) and YUKI.T. Next up: Whammy Bar, Auckland on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Buzz is a psytrance and techno artist based in Italy, with 10 gigs on soundcheck
 
 C!AO, YUKI (JP), YUKI.T
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buzz/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buzz/)*

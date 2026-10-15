@@ -1,13 +1,14 @@
 # Brahmski
 
-Brahmski is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Paloma, Berlin on Sun, 25 Oct 2026.
+Brahmski is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Orangerie Neukölln, Berlin on Sat, 24 Oct 2026.
 
-Brahmski is a house and deep house artist based in Germany, with 41 gigs on soundcheck across Berlin, Munich and Prague. Often billed alongside DJ whity, Johana Jost and heinrich grooves. Next up: Paloma, Berlin on Sun 25 Oct.
+Brahmski is a house and deep house artist based in Germany, with 42 gigs on soundcheck across Berlin, Munich and Prague. Often billed alongside DJ whity, Johana Jost and heinrich grooves. Next up: Orangerie Neukölln, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Orangerie Neukölln | Berlin |
 | Sun, 25 Oct 2026 | Paloma | Berlin |
 | Fri, 13 Nov 2026 | Renate | Berlin |
 | Sat, 28 Nov 2026 | Beate Uwe | Berlin |
@@ -27,4 +28,4 @@ Brahmski is a house and deep house artist based in Germany, with 41 gigs on soun
 
 DJ whity, Johana Jost, heinrich grooves
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brahmski/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brahmski/)*

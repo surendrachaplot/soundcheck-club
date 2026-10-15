@@ -1,6 +1,6 @@
 # Dizo
 
-Dizo is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Chinastraat, Ghent on Sat, 17 Oct 2026.
+Dizo is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Chinastraat, Ghent on Sat, 17 Oct 2026.
 
 Dizo is a techno and tech house artist based in Belgium, with 35 gigs on soundcheck across Amsterdam, Berlin, Brussels and Ghent. Often billed alongside Ce$ar, Auk. and Makoveev. Next up: Chinastraat, Ghent on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Dizo is a techno and tech house artist based in Belgium, with 35 gigs on soundch
 
 Ce$ar, Auk., Makoveev
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dizo/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dizo/)*

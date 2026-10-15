@@ -1,6 +1,6 @@
 # DirdyGerdi
 
-DirdyGerdi is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Klunkerkranich, Berlin on Fri, 16 Oct 2026.
+DirdyGerdi is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Klunkerkranich, Berlin on Fri, 16 Oct 2026.
 
 DirdyGerdi is a house and deep house artist based in New Zealand, with 17 gigs on soundcheck across Auckland, Barcelona, Berlin and Bucharest and 1 more. Often billed alongside Mia Kober, Dylan C and Kon Faber. Next up: Klunkerkranich, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ DirdyGerdi is a house and deep house artist based in New Zealand, with 17 gigs o
 
 Mia Kober, Dylan C, Kon Faber
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirdygerdi/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirdygerdi/)*

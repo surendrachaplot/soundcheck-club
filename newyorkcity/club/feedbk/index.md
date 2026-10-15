@@ -1,6 +1,6 @@
 # feedbk
 
-feedbk is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "feedbk x Attention Spin!" on Thu, 15 Oct 2026.
+feedbk is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "feedbk x Attention Spin!" on Thu, 15 Oct 2026.
 
 feedbk is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including Alex Neri, Amelia Holt, Burchan Acar and Cecilio and 2 more. See dates, start times and who's playing. 153 Morgan Avenue.
 
@@ -23,4 +23,4 @@ feedbk is a music venue in New York City listed on soundcheck. 10 upcoming gigs,
 
 153 Morgan Avenue, New York City
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/feedbk/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/feedbk/)*

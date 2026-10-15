@@ -1,6 +1,6 @@
 # Karmakoma
 
-Karmakoma is a music venue in Belgrade with 13 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "WWA with Gina Demarchi, Mamavitae, Aneri, cmic.akk b2b SRNA" on Fri, 16 Oct 2026.
+Karmakoma is a music venue in Belgrade with 13 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "WWA with Gina Demarchi, Mamavitae, Aneri, cmic.akk b2b SRNA" on Fri, 16 Oct 2026.
 
 Karmakoma is a music venue in Belgrade listed on soundcheck. 13 upcoming gigs, with line-ups including Ali Guney, Aneri, Ben UFO and cmic.akk and 2 more. See dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
@@ -23,4 +23,4 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 13 upcoming gigs, w
 
 Poenkareova 32, 11000 Belgrade, Belgrade
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*

@@ -1,6 +1,6 @@
 # SCARBA
 
-SCARBA is a Techno and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Coven HQ, London on Sat, 17 Oct 2026.
+SCARBA is a Techno and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Coven HQ, London on Sat, 17 Oct 2026.
 
 SCARBA is a techno and baile funk artist based in United Kingdom, with 30 gigs on soundcheck across Brighton, London and Newcastle. Often billed alongside Nick Clev, Sam Beach and CHEZA LUCINA. Next up: Coven HQ, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ SCARBA is a techno and baile funk artist based in United Kingdom, with 30 gigs o
 
 Nick Clev, Sam Beach, CHEZA LUCINA
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scarba/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scarba/)*

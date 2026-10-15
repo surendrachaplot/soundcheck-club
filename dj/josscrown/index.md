@@ -1,0 +1,28 @@
+# Joss Crown
+
+Joss Crown is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Penthouse, Mexico City on Sun, 15 Nov 2026.
+
+Joss Crown is a house and techno artist based in Mexico, with 28 gigs on soundcheck across Mexico City. Often billed alongside Eliel Capa, Diego Walle and Lamati. Next up: TBA - Penthouse, Mexico City on Sun 15 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sun, 15 Nov 2026 | TBA - Penthouse | Mexico City |
+
+## Recently played
+
+- Versalles 64, Mexico City · Sat, 26 Sept 2026
+- Versalles 64, Mexico City · Sat, 5 Sept 2026
+- Versalles 64, Mexico City · Sat, 15 Aug 2026
+- Hookah Lounge, Mexico City · Wed, 17 Jun 2026
+- Versalles 64, Mexico City · Sat, 16 May 2026
+- Drama Radio Bar, Mexico City · Tue, 28 Apr 2026
+- Rei Room, Mexico City · Sat, 11 Apr 2026
+- Rumores Speakeasy Cdmx, Mexico City · Sat, 28 Feb 2026
+
+## Shares bills with
+
+Eliel Capa, Diego Walle, Lamati
+
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josscrown/)*

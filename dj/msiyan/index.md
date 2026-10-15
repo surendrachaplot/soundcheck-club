@@ -1,6 +1,6 @@
 # Msiyan
 
-Msiyan is a Hardcore and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at KOK Bazar, Kazakhstan on Fri, 16 Oct 2026.
+Msiyan is a Hardcore and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at KOK Bazar, Kazakhstan on Fri, 16 Oct 2026.
 
 Msiyan is a hardcore and industrial artist, with 4 gigs on soundcheck across Istanbul, Kazakhstan and Stockholm. Often billed alongside Arsen Superfly, B-5. and CEM. Next up: KOK Bazar, Kazakhstan on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ Msiyan is a hardcore and industrial artist, with 4 gigs on soundcheck across Ist
 
 Arsen Superfly, B-5., CEM
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/msiyan/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/msiyan/)*

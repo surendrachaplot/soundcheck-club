@@ -1,8 +1,8 @@
 # Miss Melera
 
-Miss Melera is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Escape, Amsterdam on Thu, 22 Oct 2026.
+Miss Melera is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Escape, Amsterdam on Thu, 22 Oct 2026.
 
-Miss Melera is a progressive house and house artist based in Netherlands, with 84 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Buenos Aires and 16 more. Often billed alongside Olivier Weiter, Mees Salomé and Cris-H. Next up: Escape, Amsterdam on Thu 22 Oct.
+Miss Melera is a progressive house and house artist based in Netherlands, with 85 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Buenos Aires and 16 more. Often billed alongside Olivier Weiter, Mees Salomé and Cris-H. Next up: Escape, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Miss Melera is a progressive house and house artist based in Netherlands, with 8
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Escape | Amsterdam |
 | Fri, 23 Oct 2026 | Onder Hans | Amsterdam |
+| Sun, 25 Oct 2026 | Veronica Schip | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Miss Melera is a progressive house and house artist based in Netherlands, with 8
 
 Olivier Weiter, Mees Salomé, Cris-H
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missmelera/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missmelera/)*

@@ -1,6 +1,6 @@
 # Fatty M
 
-Fatty M is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Bike Jesus, Prague on Fri, 16 Oct 2026.
+Fatty M is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Bike Jesus, Prague on Fri, 16 Oct 2026.
 
 Fatty M is a techno and house artist based in Czech Republic, with 63 gigs on soundcheck across Prague. Often billed alongside S.Tian, Teresi and Raketa95. Next up: Bike Jesus, Prague on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Fatty M is a techno and house artist based in Czech Republic, with 63 gigs on so
 
 S.Tian, Teresi, Raketa95
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fattym/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fattym/)*

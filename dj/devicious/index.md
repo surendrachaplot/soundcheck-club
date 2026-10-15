@@ -1,14 +1,16 @@
 # Devicious
 
-Devicious is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Bridge 48, Barcelona on Thu, 15 Oct 2026.
+Devicious is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Bridge 48, Barcelona on Thu, 15 Oct 2026.
 
-Devicious is a tech house and house artist based in Spain, with 69 gigs on soundcheck across Barcelona. Often billed alongside DIROS, Vidaloca and Armand Carrion. Next up: Bridge 48, Barcelona on Thu 15 Oct.
+Devicious is a tech house and house artist based in Spain, with 71 gigs on soundcheck across Barcelona. Often billed alongside DIROS, Vidaloca and Armand Carrion. Next up: Bridge 48, Barcelona on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | Bridge 48 | Barcelona |
+| Sun, 18 Oct 2026 | Sidecar | Barcelona |
+| Sun, 18 Oct 2026 | BUS Hexperience | Barcelona |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Devicious is a tech house and house artist based in Spain, with 69 gigs on sound
 
 DIROS, Vidaloca, Armand Carrion
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/devicious/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/devicious/)*

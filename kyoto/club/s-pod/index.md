@@ -1,6 +1,6 @@
 # S-Pod
 
-S-Pod is a music venue in Kyoto with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "LEFT 003 by OSM" on Sat, 17 Oct 2026.
+S-Pod is a music venue in Kyoto with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "LEFT 003 by OSM" on Sat, 17 Oct 2026.
 
 S-Pod is a music venue in Kyoto listed on soundcheck. 3 upcoming gigs, with line-ups including h1rune. See dates, start times and who's playing. Japan, 〒602-0033 Kyoto, Kamigyo Ward, Imadegawacho, 328 KARASUMA IMADEGAWA BUILDING 5F.
 
@@ -16,4 +16,4 @@ S-Pod is a music venue in Kyoto listed on soundcheck. 3 upcoming gigs, with line
 
 Japan, 〒602-0033 Kyoto, Kamigyo Ward, Imadegawacho, 328 KARASUMA IMADEGAWA BUILDING 5F, Kyoto
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/s-pod/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/s-pod/)*

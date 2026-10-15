@@ -1,6 +1,6 @@
 # Hertz Collision
 
-Hertz Collision is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Gaffe, London on Sat, 17 Oct 2026.
+Hertz Collision is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Gaffe, London on Sat, 17 Oct 2026.
 
 Hertz Collision is a techno and house artist based in Italy, with 29 gigs on soundcheck across Athens, Berlin, London and Los Angeles and 10 more. Often billed alongside ARMANDO, IKIIR and Truncate. Next up: Gaffe, London on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Hertz Collision is a techno and house artist based in Italy, with 29 gigs on sou
 
 ARMANDO, IKIIR, Truncate
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hertzcollision/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hertzcollision/)*

@@ -1,8 +1,8 @@
 # Shanti Celeste
 
-Shanti Celeste is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Jolene Downtown Miami, Miami on Thu, 15 Oct 2026.
+Shanti Celeste is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Jolene Downtown Miami, Miami on Thu, 15 Oct 2026.
 
-Shanti Celeste is a house and techno artist based in United Kingdom, with 218 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 56 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: Jolene Downtown Miami, Miami on Thu 15 Oct.
+Shanti Celeste is a house and techno artist based in United Kingdom, with 219 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 56 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: Jolene Downtown Miami, Miami on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Shanti Celeste is a house and techno artist based in United Kingdom, with 218 gi
 | Thu, 22 Oct 2026 | Skatecafe | Amsterdam |
 | Sat, 24 Oct 2026 | KOKO | London |
 | Fri, 6 Nov 2026 | The Berkeley Suite | Glasgow |
+| Sat, 14 Nov 2026 | Strange Brew | Bristol |
 | Fri, 27 Nov 2026 | DSTRKT Club Berlin | Berlin |
 | Sat, 28 Nov 2026 | Quarters | Brighton |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
@@ -33,4 +34,4 @@ Shanti Celeste is a house and techno artist based in United Kingdom, with 218 gi
 
 Peach, Saoirse, Ogazón
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*

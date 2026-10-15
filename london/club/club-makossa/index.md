@@ -1,6 +1,6 @@
 # Club Makossa
 
-Club Makossa is a music venue in London with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "AFRO In Da Endz: Afro House, Afro Tech & Gqom" on Thu, 15 Oct 2026.
+Club Makossa is a music venue in London with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "AFRO In Da Endz: Afro House, Afro Tech & Gqom" on Thu, 15 Oct 2026.
 
 Club Makossa is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including BIDOIS, Eliah Culker, Gibby. and Jackie Stewart and 2 more. See dates, start times and who's playing. 113 Kingsland High Street, London E8 2PB.
 
@@ -22,4 +22,4 @@ Club Makossa is a music venue in London listed on soundcheck. 9 upcoming gigs, w
 
 113 Kingsland High Street, London E8 2PB, London
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*

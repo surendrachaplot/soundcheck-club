@@ -1,6 +1,6 @@
 # .JKM
 
-.JKM is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Marmorbar, Berlin on Sat, 24 Oct 2026.
+.JKM is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Marmorbar, Berlin on Sat, 24 Oct 2026.
 
 .JKM is a techno and trance artist based in France, with 25 gigs on soundcheck across Berlin, Nantes and Paris. Often billed alongside niclazik, La Rose and Shanda. Next up: Marmorbar, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@
 
 niclazik, La Rose (2), Shanda
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/.jkm/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/.jkm/)*

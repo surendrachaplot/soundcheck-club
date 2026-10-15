@@ -1,6 +1,6 @@
 # Andrei Ciubuc
 
-Andrei Ciubuc is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Club Guesthouse, Bucharest on Fri, 23 Oct 2026.
+Andrei Ciubuc is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Club Guesthouse, Bucharest on Fri, 23 Oct 2026.
 
 Andrei Ciubuc is a house and minimal artist based in Romania, with 62 gigs on soundcheck across Barcelona, Berlin, Brussels and Bucharest and 10 more. Often billed alongside Herodot, Aleksan'dru and Cap. Next up: Club Guesthouse, Bucharest on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Andrei Ciubuc is a house and minimal artist based in Romania, with 62 gigs on so
 
 Herodot, Aleksan'dru, Cap
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreiciubuc-ro/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreiciubuc-ro/)*

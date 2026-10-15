@@ -1,6 +1,6 @@
 # Salzetto
 
-Salzetto is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Santeria Toscana 31, Milan on Fri, 16 Oct 2026.
+Salzetto is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Santeria Toscana 31, Milan on Fri, 16 Oct 2026.
 
 Salzetto is a deep house and house artist, with 8 gigs on soundcheck across Milan. Often billed alongside Nuno (IT), Figio's and Gramophone. Next up: Santeria Toscana 31, Milan on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ Salzetto is a deep house and house artist, with 8 gigs on soundcheck across Mila
 
 Nuno (IT), Figio's, Gramophone
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salzetto/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salzetto/)*

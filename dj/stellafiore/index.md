@@ -1,6 +1,6 @@
 # Stella Fiore
 
-Stella Fiore is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Kater, Berlin on Sat, 17 Oct 2026.
+Stella Fiore is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Kater, Berlin on Sat, 17 Oct 2026.
 
 Stella Fiore is a house and techno artist based in Germany, with 46 gigs on soundcheck across Athens, Barcelona, Berlin and Boston and 17 more. Often billed alongside Ivan Iacobucci, Friendzone and Naima. Next up: Kater, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Stella Fiore is a house and techno artist based in Germany, with 46 gigs on soun
 
 Ivan Iacobucci, Friendzone, Naima (2)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stellafiore/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stellafiore/)*

@@ -1,6 +1,6 @@
 # Facets
 
-Facets is a Italo Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Club D'arc Timisoara, Timisoara on Sat, 31 Oct 2026.
+Facets is a Italo Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Club D'arc Timisoara, Timisoara on Sat, 31 Oct 2026.
 
 Facets is an italo disco and techno artist based in Serbia, with 127 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 20 more. Often billed alongside Andi, Franz Scala and Berlin Bunny. Next up: Club D'arc Timisoara, Timisoara on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Facets is an italo disco and techno artist based in Serbia, with 127 gigs on sou
 
 Andi, Franz Scala, Berlin Bunny
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/facets/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/facets/)*

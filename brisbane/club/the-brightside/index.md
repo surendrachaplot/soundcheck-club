@@ -1,6 +1,6 @@
 # The Brightside
 
-The Brightside is a music venue in Brisbane with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Open Air Day Party Ft. Ammo Avenue" on Sun, 18 Oct 2026.
+The Brightside is a music venue in Brisbane with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Open Air Day Party Ft. Ammo Avenue" on Sun, 18 Oct 2026.
 
 The Brightside is a music venue in Brisbane listed on soundcheck. 3 upcoming gigs, with line-ups including Ammo Avenue, Brock Ferrar, Steve Bug and Turno. See dates, start times and who's playing. 27 Warner St, Fortitude Valley.
 
@@ -16,4 +16,4 @@ The Brightside is a music venue in Brisbane listed on soundcheck. 3 upcoming gig
 
 27 Warner St, Fortitude Valley, Brisbane
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-brightside/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-brightside/)*

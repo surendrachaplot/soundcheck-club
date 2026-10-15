@@ -1,6 +1,6 @@
 # FOURA
 
-FOURA is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Milneys, Melbourne on Fri, 16 Oct 2026.
+FOURA is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Milneys, Melbourne on Fri, 16 Oct 2026.
 
 FOURA is a garage and techno artist based in Australia, with 23 gigs on soundcheck across Hobart, Melbourne and Sydney. Often billed alongside Prizefight, CRUSH3d and Crybaby. Next up: Milneys, Melbourne on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ FOURA is a garage and techno artist based in Australia, with 23 gigs on soundche
 
 Prizefight, CRUSH3d, Crybaby
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foura/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foura/)*

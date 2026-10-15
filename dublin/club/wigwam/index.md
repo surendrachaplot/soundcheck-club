@@ -1,8 +1,8 @@
 # Wigwam
 
-Wigwam is a music venue in Dublin with 21 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Omni.Dub presents: PARAMIDA & Lewis Carroll" on Fri, 16 Oct 2026.
+Wigwam is a music venue in Dublin with 22 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Omni.Dub presents: PARAMIDA & Lewis Carroll" on Fri, 16 Oct 2026.
 
-Wigwam is a music venue in Dublin listed on soundcheck. 21 upcoming gigs, with line-ups including Aero, Angel D'lite, Ayolxi and Boyd Schidt and 2 more. See dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
+Wigwam is a music venue in Dublin listed on soundcheck. 22 upcoming gigs, with line-ups including Aero, Angel D'lite, Ayolxi and Boyd Schidt and 2 more. See dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Wigwam is a music venue in Dublin listed on soundcheck. 21 upcoming gigs, with l
 
 54 Abbey Street Middle, North City, Dublin, Ireland, Dublin
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*

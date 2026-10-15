@@ -1,8 +1,8 @@
 # Simo Cell
 
-Simo Cell is a Bass and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Strange Brew, Bristol on Sat, 17 Oct 2026.
+Simo Cell is a Bass and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Strange Brew, Bristol on Sat, 17 Oct 2026.
 
-Simo Cell is a bass and techno artist based in France, with 116 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 45 more. Often billed alongside CCL, DjRUM and Ehua. Next up: Strange Brew, Bristol on Sat 17 Oct.
+Simo Cell is a bass and techno artist based in France, with 118 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 46 more. Often billed alongside CCL, DjRUM and Ehua. Next up: Strange Brew, Bristol on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ Simo Cell is a bass and techno artist based in France, with 116 gigs on soundche
 | Sat, 17 Oct 2026 | Strange Brew | Bristol |
 | Sat, 24 Oct 2026 | Basic Club | Naples |
 | Fri, 6 Nov 2026 | TBA - Mount Adrah, Wiradjuri Country NSW | New-south-wales |
+| Sat, 14 Nov 2026 | Miscellania | Melbourne |
+| Sun, 15 Nov 2026 | Miscellania | Melbourne |
 | Sat, 28 Nov 2026 | EartH | London |
 | Sat, 12 Dec 2026 | OCZKI | Warsaw |
 
@@ -29,4 +31,4 @@ Simo Cell is a bass and techno artist based in France, with 116 gigs on soundche
 
 CCL, DjRUM, Ehua
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simocell/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simocell/)*

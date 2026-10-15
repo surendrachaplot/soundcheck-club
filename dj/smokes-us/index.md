@@ -1,6 +1,6 @@
 # Smokes
 
-Smokes is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at San Francisco Belle Hornblower, San Francisco/Oakland on Sun, 25 Oct 2026.
+Smokes is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at San Francisco Belle Hornblower, San Francisco/Oakland on Sun, 25 Oct 2026.
 
 Smokes is a house and acid artist, with 21 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside Jimmy B, Zoz and Eichef. Next up: San Francisco Belle Hornblower, San Francisco/Oakland on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Smokes is a house and acid artist, with 21 gigs on soundcheck across New York Ci
 
 Jimmy B, Zoz, Eichef
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smokes-us/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smokes-us/)*

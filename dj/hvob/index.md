@@ -1,6 +1,6 @@
 # HVOB
 
-HVOB is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Fléda, Brno on Fri, 16 Oct 2026.
+HVOB is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Fléda, Brno on Fri, 16 Oct 2026.
 
 HVOB is a techno and house artist, with 62 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 31 more. Often billed alongside Eris Drew, Paul Kalkbrenner and ANOTR. Next up: Fléda, Brno on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ HVOB is a techno and house artist, with 62 gigs on soundcheck across Amsterdam, 
 
 Eris Drew, Paul Kalkbrenner, ANOTR
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hvob/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hvob/)*

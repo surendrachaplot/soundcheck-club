@@ -1,13 +1,14 @@
 # Zoot
 
-Zoot is a Tech House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Optimist, Bali on Sat, 17 Oct 2026.
+Zoot is a Tech House and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Optimist, Bali on Thu, 15 Oct 2026.
 
-Zoot is a tech house and minimal techno artist based in Indonesia, with 22 gigs on soundcheck across Bali. Often billed alongside Latex, Adam Dado and Bagvs. Next up: Optimist, Bali on Sat 17 Oct.
+Zoot is a tech house and minimal techno artist based in Indonesia, with 23 gigs on soundcheck across Bali. Often billed alongside Latex, Adam Dado and Bagvs. Next up: Optimist, Bali on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 15 Oct 2026 | Optimist | Bali |
 | Sat, 17 Oct 2026 | Optimist | Bali |
 
 ## Recently played
@@ -25,4 +26,4 @@ Zoot is a tech house and minimal techno artist based in Indonesia, with 22 gigs 
 
 Latex (1), Adam Dado, Bagvs
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoot/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoot/)*

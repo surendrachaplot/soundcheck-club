@@ -1,6 +1,6 @@
 # Giuseppe Martini
 
-Giuseppe Martini is a Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Privat Mataró, Barcelona on Sat, 17 Oct 2026.
+Giuseppe Martini is a Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Privat Mataró, Barcelona on Sat, 17 Oct 2026.
 
 Giuseppe Martini is a tech house artist based in Spain, with 5 gigs on soundcheck across Barcelona. Often billed alongside DIROS, Ssero and Jorgesyn. Next up: Privat Mataró, Barcelona on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ Giuseppe Martini is a tech house artist based in Spain, with 5 gigs on soundchec
 
 DIROS, Ssero, Jorgesyn
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giuseppemartini/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giuseppemartini/)*

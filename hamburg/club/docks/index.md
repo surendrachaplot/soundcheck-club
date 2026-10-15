@@ -1,6 +1,6 @@
 # Docks
 
-Docks is a music venue in Hamburg with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Lekkerfaces pres. Hyper & The Dark Horror" on Fri, 23 Oct 2026.
+Docks is a music venue in Hamburg with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Lekkerfaces pres. Hyper & The Dark Horror" on Fri, 23 Oct 2026.
 
 Docks is a music venue in Hamburg listed on soundcheck. 6 upcoming gigs, with line-ups including Iorie, Lekkerfaces, Nina Hepburn and Somewhen and 2 more. See dates, start times and who's playing. Spielbudenplatz 19, 20359 Hamburg.
 
@@ -19,4 +19,4 @@ Docks is a music venue in Hamburg listed on soundcheck. 6 upcoming gigs, with li
 
 Spielbudenplatz 19, 20359 Hamburg, Hamburg
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/docks/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/docks/)*

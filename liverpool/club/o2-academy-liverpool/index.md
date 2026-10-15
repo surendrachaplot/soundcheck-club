@@ -1,6 +1,6 @@
 # O2 Academy Liverpool
 
-O2 Academy Liverpool is a music venue in Liverpool with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Týwch Collective presents: SIKOTI, FIN CARROLL, DEEVEY + MORE" on Sat, 21 Nov 2026.
+O2 Academy Liverpool is a music venue in Liverpool with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Týwch Collective presents: SIKOTI, FIN CARROLL, DEEVEY + MORE" on Sat, 21 Nov 2026.
 
 O2 Academy Liverpool is a music venue in Liverpool listed on soundcheck. 2 upcoming gigs, with line-ups including Craig Charles and SIKOTI. See dates, start times and who's playing. 11-13 Hotham Street; Liverpool; L3 5UF; United Kingdom.
 
@@ -15,4 +15,4 @@ O2 Academy Liverpool is a music venue in Liverpool listed on soundcheck. 2 upcom
 
 11-13 Hotham Street; Liverpool; L3 5UF; United Kingdom, Liverpool
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/o2-academy-liverpool/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/o2-academy-liverpool/)*

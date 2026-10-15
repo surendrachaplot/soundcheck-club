@@ -1,8 +1,8 @@
 # Rene Wise
 
-Rene Wise is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Studio Club Malaga, Malaga on Fri, 16 Oct 2026.
+Rene Wise is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Studio Club Malaga, Malaga on Fri, 16 Oct 2026.
 
-Rene Wise is a techno and house artist based in United Kingdom, with 258 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 74 more. Often billed alongside Blasha & Allatt, MARRØN and Ogazón. Next up: Studio Club Malaga, Malaga on Fri 16 Oct.
+Rene Wise is a techno and house artist based in United Kingdom, with 259 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 74 more. Often billed alongside Blasha & Allatt, MARRØN and Ogazón. Next up: Studio Club Malaga, Malaga on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Rene Wise is a techno and house artist based in United Kingdom, with 258 gigs on
 
 Blasha & Allatt, MARRØN, Ogazón
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*

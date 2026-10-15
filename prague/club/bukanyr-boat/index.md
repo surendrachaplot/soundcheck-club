@@ -1,6 +1,6 @@
 # Bukanyr Boat
 
-Bukanyr Boat is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Karate Club: INTIMATE SESSION" on Fri, 16 Oct 2026.
+Bukanyr Boat is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Karate Club: INTIMATE SESSION" on Fri, 16 Oct 2026.
 
 Bukanyr Boat is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with line-ups including aros, Biodan, Blackloud and Cubik and 2 more. See dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
 
@@ -22,4 +22,4 @@ Bukanyr Boat is a music venue in Prague listed on soundcheck. 9 upcoming gigs, w
 
 Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic, Prague
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*

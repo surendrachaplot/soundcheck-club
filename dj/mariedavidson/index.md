@@ -1,6 +1,6 @@
 # Marie Davidson
 
-Marie Davidson is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Saint Vitus, New York City on Fri, 16 Oct 2026.
+Marie Davidson is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Saint Vitus, New York City on Fri, 16 Oct 2026.
 
 Marie Davidson is a techno and electro artist based in Canada, with 153 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 51 more. Often billed alongside Laurel Halo, TAYHANA and deBasement. Next up: Saint Vitus, New York City on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Marie Davidson is a techno and electro artist based in Canada, with 153 gigs on 
 
 Laurel Halo, TAYHANA, deBasement
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariedavidson/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariedavidson/)*

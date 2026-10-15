@@ -1,6 +1,6 @@
 # Calvin Harris
 
-Calvin Harris is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
+Calvin Harris is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
 
 Calvin Harris is a house and progressive house artist based in United Kingdom, with 111 gigs on soundcheck across Glasgow, Ibiza, London and Los Angeles and 5 more. Often billed alongside Marc Kinchen, Bastille and Mumford. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Calvin Harris is a house and progressive house artist based in United Kingdom, w
 
 Marc Kinchen, Bastille, Mumford
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calvinharris/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calvinharris/)*

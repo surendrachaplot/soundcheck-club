@@ -1,6 +1,6 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Haus of Lil Girlz presents Welcome to the Dollhaus" on Wed, 14 Oct 2026.
+Mood Ring is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "EL AFTERS: A FUNDRAISER FOR PUERTO RICO" on Thu, 15 Oct 2026.
 
 Mood Ring is a music venue in New York City listed on soundcheck. 19 upcoming gigs, with line-ups including Abril IRL, AG, Ah Dek and Aleska and 2 more. See dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
@@ -8,7 +8,6 @@ Mood Ring is a music venue in New York City listed on soundcheck. 19 upcoming gi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 14 Oct 2026 | Haus of Lil Girlz presents Welcome to the Dollhaus |  |
 | Thu, 15 Oct 2026 | EL AFTERS: A FUNDRAISER FOR PUERTO RICO | AROON, grunge mum |
 | Thu, 15 Oct 2026 | E'Klektik x CELOSIA | ANTON (ES), Harry Fletcher, Jared Maharaj |
 | Fri, 16 Oct 2026 | Rare Frequency Transmissions | Dynoman, Matük, Sevyn, Zara Dekho |
@@ -17,10 +16,11 @@ Mood Ring is a music venue in New York City listed on soundcheck. 19 upcoming gi
 | Sat, 17 Oct 2026 | ANKHARA Session 003 |  |
 | Wed, 21 Oct 2026 | Bounce Project | Abril IRL, Bella Hex, LoKho |
 | Thu, 22 Oct 2026 | Creatures of the night | Aleska, BABEITSPURR, Charmed, KC (NYC), Remniqe, Sophia Riv, y2aura |
-| Fri, 23 Oct 2026 | LIFE AFTER TRANCE | Anna Eberg, Aster, CITYSPROBLEM, DJ Try, FUSSY |
+| Fri, 23 Oct 2026 | LIFE AFTER TRANCE | Anna Eberg, Aster, CITYSPROBLEM, FUSSY, dj try (US) |
+| Fri, 23 Oct 2026 | Aaron Title, Angel Gabri, HEYFAYBAE | HEYFAYBAE |
 
 ## Address
 
 1260 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*

@@ -1,6 +1,6 @@
 # Sam J
 
-Sam J is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at The System, Sheffield on Fri, 27 Nov 2026.
+Sam J is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at The System, Sheffield on Fri, 27 Nov 2026.
 
 Sam J is a techno and electro artist, with 23 gigs on soundcheck across Berlin and Sheffield. Often billed alongside Torque, Harrison (UK) and Linnemann. Next up: The System, Sheffield on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Sam J is a techno and electro artist, with 23 gigs on soundcheck across Berlin a
 
 Torque (2), Harrison (UK), Linnemann
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samj-uk/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samj-uk/)*

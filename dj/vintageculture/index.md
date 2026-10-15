@@ -1,8 +1,8 @@
 # Vintage Culture
 
-Vintage Culture is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Vintage Culture is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Vintage Culture is a house and tech house artist based in Brazil, with 197 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 42 more. Often billed alongside FISHER, Andrea Oliva and Franky Rizardo. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Vintage Culture is a house and tech house artist based in Brazil, with 198 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 42 more. Often billed alongside FISHER, Andrea Oliva and Franky Rizardo. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Vintage Culture is a house and tech house artist based in Brazil, with 197 gigs 
 | Fri, 16 Oct 2026 | Blow | Buenos Aires |
 | Thu, 29 Oct 2026 | Pacha New York | New York City |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
+| Fri, 13 Nov 2026 | The Rady Shell at Jacobs Park | San Diego |
 | Fri, 18 Dec 2026 | TBA - Rhythm Park | Thailand |
 | Sat, 19 Dec 2026 | Savaya Bali | Bali |
 
@@ -30,4 +31,4 @@ Vintage Culture is a house and tech house artist based in Brazil, with 197 gigs 
 
 FISHER, Andrea Oliva, Franky Rizardo
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vintageculture/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vintageculture/)*

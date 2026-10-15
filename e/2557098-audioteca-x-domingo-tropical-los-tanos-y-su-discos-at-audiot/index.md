@@ -1,6 +1,6 @@
-# Audioteca x Domingo Tropical Los Tanos Y Su Discos at Audioteca
+# Audioteca x Domingo Tropical • Los Tanos Y Su Discos at Audioteca
 
-Audioteca x Domingo Tropical Los Tanos Y Su Discos on Sun 18 Oct, Naples. See the line-up on soundcheck.
+Audioteca x Domingo Tropical • Los Tanos Y Su Discos on Sun 18 Oct, Naples. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

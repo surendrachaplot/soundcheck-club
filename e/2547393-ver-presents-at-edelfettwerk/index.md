@@ -1,10 +1,10 @@
 # VER PRESENTS at Edelfettwerk
 
-VER PRESENTS at Edelfettwerk on Mon 30 Nov, Hamburg. See the line-up on soundcheck.
+VER PRESENTS at Edelfettwerk on Fri 30 Oct, Hamburg. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Mon, 30 Nov 2026 |
+| Date | Fri, 30 Oct 2026 |
 | Venue | Edelfettwerk |
 | City | Hamburg |
 

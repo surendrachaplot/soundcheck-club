@@ -1,6 +1,6 @@
 # DJ Nox
 
-DJ Nox is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Sophia Pizzoteca & Bar, Lisbon on Sat, 17 Oct 2026.
+DJ Nox is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Sophia Pizzoteca & Bar, Lisbon on Sat, 17 Oct 2026.
 
 DJ Nox is a techno and house artist based in Portugal, with 82 gigs on soundcheck across Amsterdam, Geneva, Lisbon and Porto. Often billed alongside Syper, Analodjica and Gilvaia. Next up: Sophia Pizzoteca & Bar, Lisbon on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ DJ Nox is a techno and house artist based in Portugal, with 82 gigs on soundchec
 
 Syper, Analodjica, Gilvaia
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnox/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnox/)*

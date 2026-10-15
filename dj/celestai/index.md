@@ -1,6 +1,6 @@
 # CELESTAI
 
-CELESTAI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Arti2istanbul, Istanbul on Thu, 15 Oct 2026.
+CELESTAI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Arti2istanbul, Istanbul on Thu, 15 Oct 2026.
 
 CELESTAI is a techno and house artist based in Canada, with 8 gigs on soundcheck across Istanbul and Toronto. Often billed alongside Groefer, Chrissandro and DJ LÉA. Next up: Arti2istanbul, Istanbul on Thu 15 Oct.
 
@@ -24,4 +24,4 @@ CELESTAI is a techno and house artist based in Canada, with 8 gigs on soundcheck
 
 Groefer, Chrissandro, DJ LÉA
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/celestai/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/celestai/)*

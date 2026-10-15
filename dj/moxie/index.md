@@ -1,6 +1,6 @@
 # Moxie
 
-Moxie is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Taets Art & Event Park, Amsterdam on Sat, 24 Oct 2026.
+Moxie is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Taets Art & Event Park, Amsterdam on Sat, 24 Oct 2026.
 
 Moxie is a house and techno artist based in United Kingdom, with 193 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 51 more. Often billed alongside Leon Vynehall, Shanti Celeste and NIKS. Next up: Taets Art & Event Park, Amsterdam on Sat 24 Oct.
 
@@ -31,4 +31,4 @@ Moxie is a house and techno artist based in United Kingdom, with 193 gigs on sou
 
 Leon Vynehall, Shanti Celeste, NIKS
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moxie/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moxie/)*

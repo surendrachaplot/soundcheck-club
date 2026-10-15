@@ -1,6 +1,6 @@
 # Bassman
 
-Bassman is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
+Bassman is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
 
 Bassman is a drum & bass and jungle artist based in United Kingdom, with 11 gigs on soundcheck across Birmingham, London, Manchester and Sheffield and 1 more. Often billed alongside DJ SS, Eksman and Grooverider. Next up: Marshall Arena, South East on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Bassman is a drum & bass and jungle artist based in United Kingdom, with 11 gigs
 
 DJ SS, Eksman, Grooverider
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bassman/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bassman/)*

@@ -1,6 +1,6 @@
 # Staszko
 
-Staszko is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Edelfettwerk, Hamburg on Fri, 6 Nov 2026.
+Staszko is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Edelfettwerk, Hamburg on Fri, 6 Nov 2026.
 
 Staszko is a techno artist based in Germany, with 10 gigs on soundcheck across Hamburg and Wroclaw. Often billed alongside TRYPTAJ, TZO and co:co. Next up: Edelfettwerk, Hamburg on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Staszko is a techno artist based in Germany, with 10 gigs on soundcheck across H
 
 TRYPTAJ, TZO (1), co:co
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/staszko/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/staszko/)*

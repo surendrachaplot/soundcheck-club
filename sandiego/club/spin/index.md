@@ -1,8 +1,8 @@
 # Spin
 
-Spin is a music venue in San Diego with 12 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "RISE: Trance Thursday Nightclub - Data Drain" on Thu, 15 Oct 2026.
+Spin is a music venue in San Diego with 13 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "RISE: Trance Thursday Nightclub - Data Drain" on Thu, 15 Oct 2026.
 
-Spin is a music venue in San Diego listed on soundcheck. 12 upcoming gigs, with line-ups including 6 SENSE, Anthony Attalla, Arran Lee and BAUGRUPPE90 and 2 more. See dates, start times and who's playing. 2028 Hancock Street; San Diego, CA 92110, USA.
+Spin is a music venue in San Diego listed on soundcheck. 13 upcoming gigs, with line-ups including 6 SENSE, Anthony Attalla, Arran Lee and BAUGRUPPE90 and 2 more. See dates, start times and who's playing. 2028 Hancock Street; San Diego, CA 92110, USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Spin is a music venue in San Diego listed on soundcheck. 12 upcoming gigs, with 
 
 2028 Hancock Street; San Diego, CA 92110, USA, San Diego
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*

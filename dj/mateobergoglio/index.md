@@ -1,13 +1,14 @@
 # MATEO BERGOGLIO
 
-MATEO BERGOGLIO is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 29 Oct 2026.
+MATEO BERGOGLIO is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - secret location, Barcelona on Sat, 17 Oct 2026.
 
-MATEO BERGOGLIO is a house and electro artist based in Argentina, with 12 gigs on soundcheck across Barcelona. Often billed alongside Kid Moss, Guedes (ES) and IVAN POSEIDON. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 29 Oct.
+MATEO BERGOGLIO is a house and disco artist based in Argentina, with 13 gigs on soundcheck across Barcelona. Often billed alongside Kid Moss, Guedes (ES) and IVAN POSEIDON. Next up: TBA - secret location, Barcelona on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | TBA - secret location | Barcelona |
 | Thu, 29 Oct 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 
 ## Recently played
@@ -25,4 +26,4 @@ MATEO BERGOGLIO is a house and electro artist based in Argentina, with 12 gigs o
 
 Kid Moss, Guedes (ES), IVAN POSEIDON
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mateobergoglio/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mateobergoglio/)*

@@ -1,8 +1,8 @@
 # Secus
 
-Secus is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Los Angeles, Los Angeles on Sun, 25 Oct 2026.
+Secus is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Los Angeles, Los Angeles on Sun, 25 Oct 2026.
 
-Secus is a techno and acid artist based in United States of America, with 14 gigs on soundcheck across Detroit, Los Angeles and San Francisco/Oakland. Often billed alongside Annika Wolfe, Anastasia Giovani and DAX J. Next up: TBA - Los Angeles, Los Angeles on Sun 25 Oct.
+Secus is a techno and acid artist based in United States of America, with 14 gigs on soundcheck across Detroit, Los Angeles and San Francisco/Oakland. Often billed alongside Annika Wolfe, DAX J and David Castellani. Next up: TBA - Los Angeles, Los Angeles on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Secus is a techno and acid artist based in United States of America, with 14 gig
 
 ## Shares bills with
 
-Annika Wolfe, Anastasia Giovani, DAX J
+Annika Wolfe, DAX J, David Castellani
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secus/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secus/)*

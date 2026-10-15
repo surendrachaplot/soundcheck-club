@@ -1,6 +1,6 @@
 # Jordi Castell (1)
 
-Jordi Castell (1) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Club Malasaña, Madrid on Fri, 23 Oct 2026.
+Jordi Castell (1) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Club Malasaña, Madrid on Fri, 23 Oct 2026.
 
 Jordi Castell is a house and electronica artist based in Spain, with 14 gigs on soundcheck across Barcelona, Berlin, Madrid and South and 1 more. Often billed alongside Alvaro Medina, Federico Molinari and Nekes. Next up: Club Malasaña, Madrid on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Jordi Castell is a house and electronica artist based in Spain, with 14 gigs on 
 
 Alvaro Medina, Federico Molinari, Nekes
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordicastell-1/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordicastell-1/)*

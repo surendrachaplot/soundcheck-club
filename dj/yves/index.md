@@ -1,6 +1,6 @@
 # yves
 
-yves is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Salzhaus, Zurich on Sat, 24 Oct 2026.
+yves is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Salzhaus, Zurich on Sat, 24 Oct 2026.
 
 yves is a trance and techno artist, with 23 gigs on soundcheck across Basel, Krakow, Tbilisi and Vienna and 1 more. Often billed alongside andris, FALCO and Galopp. Next up: Salzhaus, Zurich on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ yves is a trance and techno artist, with 23 gigs on soundcheck across Basel, Kra
 
 andris, FALCO (2), Galopp
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yves/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yves/)*

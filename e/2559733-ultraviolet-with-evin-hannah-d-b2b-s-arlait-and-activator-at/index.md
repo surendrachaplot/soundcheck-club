@@ -1,6 +1,6 @@
-# ultraviolet with evin, Hannah D b2b Séarlait and Activator at Miscellania
+# Ultraviolet with evin, Hannah D B2B Séarlait and Activator at Miscellania
 
-ultraviolet with evin, Hannah D b2b Séarlait and Activator at Miscellania on Fri 23 Oct, Melbourne. 4 artists: Activator, evin, Hannah D and Séarlait. See the line-up on soundcheck.
+Ultraviolet with evin, Hannah D B2B Séarlait and Activator at Miscellania on Fri 23 Oct, Melbourne. 4 artists: Activator, evin, Hannah D and Séarlait. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

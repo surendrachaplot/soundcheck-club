@@ -1,6 +1,6 @@
 # Insom
 
-Insom is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at B side Athens, Athens on Fri, 16 Oct 2026.
+Insom is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at B side Athens, Athens on Fri, 16 Oct 2026.
 
 Insom is a drum & bass and jungle artist based in Greece, with 82 gigs on soundcheck across Amsterdam and Athens. Often billed alongside Gibbo, Type Zero and Unified Method. Next up: B side Athens, Athens on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Insom is a drum & bass and jungle artist based in Greece, with 82 gigs on soundc
 
 Gibbo, Type Zero, Unified Method
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/insom/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/insom/)*

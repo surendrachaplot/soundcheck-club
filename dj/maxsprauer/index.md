@@ -1,6 +1,6 @@
 # Max Sprauer
 
-Max Sprauer is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Amsterdam on Sat, 24 Oct 2026.
+Max Sprauer is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Amsterdam on Sat, 24 Oct 2026.
 
 Max Sprauer is a house and techno artist based in United States of America, with 109 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 12 more. Often billed alongside Shvili, Rama NYC and Desyn. Next up: TBA, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Max Sprauer is a house and techno artist based in United States of America, with
 
 Shvili, Rama NYC, Desyn
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsprauer/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsprauer/)*

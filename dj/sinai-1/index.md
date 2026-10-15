@@ -1,6 +1,6 @@
 # Sinai (1)
 
-Sinai (1) is a Electronica and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Department 184, Milan on Sat, 24 Oct 2026.
+Sinai (1) is a Electronica and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Department 184, Milan on Sat, 24 Oct 2026.
 
 Sinai is an electronica and tech house artist based in Italy, with 43 gigs on soundcheck across Barcelona, Berlin, Bristol and Milan and 1 more. Often billed alongside Alis, Anton Iofus and David Bes. Next up: Department 184, Milan on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Sinai is an electronica and tech house artist based in Italy, with 43 gigs on so
 
 Alis, Anton Iofus, David Bes
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinai-1/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinai-1/)*

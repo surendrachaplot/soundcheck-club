@@ -1,14 +1,15 @@
 # Crew Ombrelle
 
-Crew Ombrelle is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Goldener Salon, Hamburg on Sun, 18 Oct 2026.
+Crew Ombrelle is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Goldener Salon, Hamburg on Sun, 18 Oct 2026.
 
-Crew Ombrelle is a house and techno artist, with 32 gigs on soundcheck across Berlin and Hamburg. Often billed alongside E-Gerät, Late Night Jockel Session and Kabeljo. Next up: Goldener Salon, Hamburg on Sun 18 Oct.
+Crew Ombrelle is a house and techno artist, with 33 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Late Night Jockel Session, E-Gerät and Kabeljo. Next up: Goldener Salon, Hamburg on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 18 Oct 2026 | Goldener Salon | Hamburg |
+| Sat, 21 Nov 2026 | MS Stubnitz | Hamburg |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Crew Ombrelle is a house and techno artist, with 32 gigs on soundcheck across Be
 
 ## Shares bills with
 
-E-Gerät, Late Night Jockel Session, Kabeljo
+Late Night Jockel Session, E-Gerät, Kabeljo
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crewombrelle/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crewombrelle/)*

@@ -1,6 +1,6 @@
 # LAMSI
 
-LAMSI is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+LAMSI is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
 LAMSI is a house and electronica artist based in Netherlands, with 64 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside Jarreau Vandal, Tida Kamara and Chinnamasta. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ LAMSI is a house and electronica artist based in Netherlands, with 64 gigs on so
 
 Jarreau Vandal, Tida Kamara, Chinnamasta
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamsi/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamsi/)*

@@ -1,6 +1,6 @@
 # DJ Hell
 
-DJ Hell is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Richard Wagner Museum, Bavaria on Fri, 16 Oct 2026.
+DJ Hell is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Richard Wagner Museum, Bavaria on Fri, 16 Oct 2026.
 
 DJ Hell is a techno and house artist based in Germany, with 132 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Binh, Paty Vapor and Helena Hauff. Next up: Richard Wagner Museum, Bavaria on Fri 16 Oct.
 
@@ -33,4 +33,4 @@ DJ Hell is a techno and house artist based in Germany, with 132 gigs on soundche
 
 Binh, Paty Vapor, Helena Hauff
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hell/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hell/)*

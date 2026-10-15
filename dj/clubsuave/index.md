@@ -1,6 +1,6 @@
 # Club Suave
 
-Club Suave is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 17 Oct 2026.
+Club Suave is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 17 Oct 2026.
 
 Club Suave is a house and techno artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside DAAS, Domovnika and Emilion Dollar Baby. Next up: Bulbul Berlin, Berlin on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ Club Suave is a house and techno artist based in Germany, with 8 gigs on soundch
 
 DAAS (1), Domovnika, Emilion Dollar Baby
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubsuave/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubsuave/)*

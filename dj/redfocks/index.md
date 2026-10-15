@@ -1,14 +1,15 @@
 # Redfocks
 
-Redfocks is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Amp, Munster on Fri, 30 Oct 2026.
+Redfocks is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Amp, Munster on Fri, 30 Oct 2026.
 
-Redfocks is a techno and house artist based in Germany, with 43 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Frankfurt and 2 more. Often billed alongside Eszter, LALENA and Marcel Janovsky. Next up: Amp, Munster on Fri 30 Oct.
+Redfocks is a techno and house artist based in Germany, with 44 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Frankfurt and 2 more. Often billed alongside Eszter, LALENA and Marcel Janovsky. Next up: Amp, Munster on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Amp | Munster |
+| Sat, 31 Oct 2026 | Dockland | Munster |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Redfocks is a techno and house artist based in Germany, with 43 gigs on soundche
 
 Eszter, LALENA, Marcel Janovsky
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redfocks/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redfocks/)*

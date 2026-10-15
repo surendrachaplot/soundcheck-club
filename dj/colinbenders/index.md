@@ -1,6 +1,6 @@
 # Colin Benders
 
-Colin Benders is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at essaim, Paris on Fri, 16 Oct 2026.
+Colin Benders is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at essaim, Paris on Fri, 16 Oct 2026.
 
 Colin Benders is a techno and house artist based in Netherlands, with 96 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 36 more. Often billed alongside Speedy J, Dasha Rush and Ben Klock. Next up: essaim, Paris on Fri 16 Oct.
 
@@ -35,4 +35,4 @@ Colin Benders is a techno and house artist based in Netherlands, with 96 gigs on
 
 Speedy J, Dasha Rush, Ben Klock
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colinbenders/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colinbenders/)*

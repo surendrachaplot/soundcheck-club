@@ -1,6 +1,6 @@
 # Vytauras
 
-Vytauras is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 21 Nov 2026.
+Vytauras is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 21 Nov 2026.
 
 Vytauras is a bass and techno artist, with 10 gigs on soundcheck across Berlin, Krakow and Riga. Often billed alongside 2727, 4BLISS# and doctor doms. Next up: Crack Bellmer, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Vytauras is a bass and techno artist, with 10 gigs on soundcheck across Berlin, 
 
 2727, 4BLISS#, doctor doms
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vytauras/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vytauras/)*

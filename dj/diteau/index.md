@@ -1,14 +1,15 @@
 # dit:eau
 
-dit:eau is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Kraftwerk, Zurich on Sat, 24 Oct 2026.
+dit:eau is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Kraftwerk, Zurich on Sat, 24 Oct 2026.
 
-dit:eau is a techno and deep house artist based in Switzerland, with 28 gigs on soundcheck across Basel, Berlin and Zurich. Often billed alongside Faro Alip, Juli Lee and Arutani. Next up: Kraftwerk, Zurich on Sat 24 Oct.
+dit:eau is a techno and deep house artist based in Switzerland, with 29 gigs on soundcheck across Basel, Berlin and Zurich. Often billed alongside Juli Lee, Faro Alip and AVEM. Next up: Kraftwerk, Zurich on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Kraftwerk | Zurich |
+| Sat, 7 Nov 2026 | Kauz | Zurich |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ dit:eau is a techno and deep house artist based in Switzerland, with 28 gigs on 
 
 ## Shares bills with
 
-Faro Alip, Juli Lee, Arutani
+Juli Lee, Faro Alip, AVEM
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diteau/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diteau/)*

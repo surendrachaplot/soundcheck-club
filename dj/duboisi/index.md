@@ -1,6 +1,6 @@
 # duboisi
 
-duboisi is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Tendance, Prague on Fri, 16 Oct 2026.
+duboisi is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Tendance, Prague on Fri, 16 Oct 2026.
 
 duboisi is a house and club artist based in Slovakia, with 42 gigs on soundcheck across Prague. Often billed alongside Wuss, Kirill Astra and SAAB. Next up: Tendance, Prague on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ duboisi is a house and club artist based in Slovakia, with 42 gigs on soundcheck
 
 Wuss, Kirill Astra, SAAB
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duboisi/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duboisi/)*

@@ -1,6 +1,6 @@
 # Centrific
 
-Centrific is a Techno and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - TRXX WRHS, Minneapolis-st-paul on Sat, 17 Oct 2026.
+Centrific is a Techno and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - TRXX WRHS, Minneapolis-st-paul on Sat, 17 Oct 2026.
 
 Centrific is a techno and minimal techno artist based in United States of America, with 26 gigs on soundcheck across Chicago, Denver, Detroit and Los Angeles and 6 more. Often billed alongside Dustin Zahn, Juana and Carlos Souffront. Next up: TBA - TRXX WRHS, Minneapolis St Paul on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Centrific is a techno and minimal techno artist based in United States of Americ
 
 Dustin Zahn, Juana, Carlos Souffront
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/centrific/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/centrific/)*

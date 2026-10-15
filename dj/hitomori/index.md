@@ -1,14 +1,16 @@
 # hitomori
 
-hitomori is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Poseidons, Riga on Fri, 16 Oct 2026.
+hitomori is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Poseidons, Riga on Fri, 16 Oct 2026.
 
-hitomori is a hardcore and techno artist, with 76 gigs on soundcheck across Riga and Tallinn. Often billed alongside maniken05, porfod and PERCOSET. Next up: Poseidons, Riga on Fri 16 Oct.
+hitomori is a hardcore and techno artist, with 78 gigs on soundcheck across Riga and Tallinn. Often billed alongside maniken05, porfod and PERCOSET. Next up: Poseidons, Riga on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Poseidons | Riga |
+| Sat, 24 Oct 2026 | Teritorija | Riga |
+| Sat, 24 Oct 2026 | Teritorija | Riga |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ hitomori is a hardcore and techno artist, with 76 gigs on soundcheck across Riga
 
 maniken05, porfod, PERCOSET
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hitomori/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hitomori/)*

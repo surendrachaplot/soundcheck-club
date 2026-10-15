@@ -1,6 +1,6 @@
 # DJ Beluga92
 
-DJ Beluga92 is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Le Hasard Ludique, Paris on Sat, 31 Oct 2026.
+DJ Beluga92 is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Le Hasard Ludique, Paris on Sat, 31 Oct 2026.
 
 DJ Beluga92 is a techno and experimental artist, with 10 gigs on soundcheck across Paris and Tokyo. Often billed alongside Acid Astrid, Delskiz and Antoine Calvino. Next up: Le Hasard Ludique, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ Beluga92 is a techno and experimental artist, with 10 gigs on soundcheck acro
 
 Acid Astrid, Delskiz, Antoine Calvino
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbeluga92/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbeluga92/)*

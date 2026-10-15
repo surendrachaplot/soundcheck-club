@@ -1,6 +1,6 @@
 # Djoon
 
-Djoon is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "LET ME HOLD YOU - R&B & Future Beats Night 16.10.2026" on Fri, 16 Oct 2026.
+Djoon is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "LET ME HOLD YOU - R&B & Future Beats Night 16.10.2026" on Fri, 16 Oct 2026.
 
 Djoon is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Chaos In The CBD, JOSH FB and Maison Blanche. See dates, start times and who's playing. 22 boulevard Vincent Auriol; 75013; Paris; France.
 
@@ -16,4 +16,4 @@ Djoon is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line
 
 22 boulevard Vincent Auriol; 75013; Paris; France, Paris
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*

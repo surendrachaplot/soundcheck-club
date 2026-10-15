@@ -1,10 +1,10 @@
 # Héctor Oaks (Oaks, Kaos /ESP), Andrea Perna (WRD /IT, Mikes (WRD /IT) at Q35 WAREHOUSE at Q35 WAREHOUSE
 
-Héctor Oaks (Oaks, Kaos /ESP), Andrea Perna (WRD /IT, Mikes (WRD /IT) at Q35 WAREHOUSE on Sun 18 Oct, Turin. 3 artists: Héctor Oaks, Mike Esse and Rytm. Techno. See the line-up on soundcheck.
+Héctor Oaks (Oaks, Kaos /ESP), Andrea Perna (WRD /IT, Mikes (WRD /IT) at Q35 WAREHOUSE on Sat 17 Oct, Turin. 3 artists: Héctor Oaks, Mike Esse and Rytm. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sun, 18 Oct 2026 |
+| Date | Sat, 17 Oct 2026 |
 | Venue | Q35 WAREHOUSE |
 | City | Turin |
 

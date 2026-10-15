@@ -1,6 +1,6 @@
 # JASSS
 
-JASSS is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Voce - Triennale, Milan on Sat, 17 Oct 2026.
+JASSS is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Voce - Triennale, Milan on Sat, 17 Oct 2026.
 
 JASSS is a techno and house artist based in Spain, with 181 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 47 more. Often billed alongside CEM, MCMLXXXV and Dj Saliva. Next up: Voce - Triennale, Milan on Sat 17 Oct.
 
@@ -32,4 +32,4 @@ JASSS is a techno and house artist based in Spain, with 181 gigs on soundcheck a
 
 CEM, MCMLXXXV, Dj Saliva
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasss/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasss/)*

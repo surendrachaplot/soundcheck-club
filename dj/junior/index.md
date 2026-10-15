@@ -1,6 +1,6 @@
 # Junior
 
-Junior is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at The House on Sathorn, Myanmar on Fri, 30 Oct 2026.
+Junior is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at The House on Sathorn, Myanmar on Fri, 30 Oct 2026.
 
 Junior is a house and techno artist, with 27 gigs on soundcheck across Bangkok, Berlin, Edinburgh and Hamburg and 7 more. Often billed alongside Koray T, Procombo and Stephan Bodzin. Next up: The House on Sathorn, Myanmar on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Junior is a house and techno artist, with 27 gigs on soundcheck across Bangkok, 
 
 Koray T, Procombo, Stephan Bodzin
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/junior/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/junior/)*

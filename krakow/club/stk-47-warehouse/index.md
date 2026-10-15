@@ -1,6 +1,6 @@
 # STK 47 WAREHOUSE
 
-STK 47 WAREHOUSE is a music venue in Krakow with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "4SOME INVITES - PUZZ" on Fri, 16 Oct 2026.
+STK 47 WAREHOUSE is a music venue in Krakow with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "4SOME INVITES - PUZZ" on Fri, 16 Oct 2026.
 
 STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 7 upcoming gigs, with line-ups including AregV, Forest (PL), KRZ (PL) and Lyor Kalt and 2 more. See dates, start times and who's playing. Kraków, 30-727, Pana Tadeusza 6, Poland.
 
@@ -20,4 +20,4 @@ STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 7 upcoming gig
 
 Kraków, 30-727, Pana Tadeusza 6, Poland, Krakow
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*

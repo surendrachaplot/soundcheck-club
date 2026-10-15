@@ -1,6 +1,6 @@
 # Taylor Trostle
 
-Taylor Trostle is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - 1624 U St NW, Washington DC on Fri, 16 Oct 2026.
+Taylor Trostle is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - 1624 U St NW, Washington DC on Fri, 16 Oct 2026.
 
 Taylor Trostle is a techno and deep house artist, with 8 gigs on soundcheck across Washington DC. Often billed alongside Babypufff, Black Grealish and Valentina (US). Next up: TBA - 1624 U St NW, Washington DC on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ Taylor Trostle is a techno and deep house artist, with 8 gigs on soundcheck acro
 
 Babypufff, Black Grealish, Valentina (US)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taylortrostle/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taylortrostle/)*

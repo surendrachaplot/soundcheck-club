@@ -1,8 +1,8 @@
 # Maruwa
 
-Maruwa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Le Sucre, Lyon on Sat, 17 Oct 2026.
+Maruwa is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Le Sucre, Lyon on Sat, 17 Oct 2026.
 
-Maruwa is a house and techno artist based in Germany, with 144 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 38 more. Often billed alongside Younger Than Me, Surf 2 Glory and DJ Heartstring. Next up: Le Sucre, Lyon on Sat 17 Oct.
+Maruwa is a house and techno artist based in Germany, with 145 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 38 more. Often billed alongside Younger Than Me, Surf 2 Glory and DJ Heartstring. Next up: Le Sucre, Lyon on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Maruwa is a house and techno artist based in Germany, with 144 gigs on soundchec
 | Sat, 17 Oct 2026 | Le Sucre | Lyon |
 | Sat, 24 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Indiego Glocksee | Hannover |
+| Sat, 14 Nov 2026 | Renate | Berlin |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Maruwa is a house and techno artist based in Germany, with 144 gigs on soundchec
 
 Younger Than Me, Surf 2 Glory, DJ Heartstring
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maruwa/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maruwa/)*

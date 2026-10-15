@@ -1,6 +1,6 @@
 # Poly
 
-Poly is a music venue in Lyon with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "useless seconds at Poly" on Sat, 24 Oct 2026.
+Poly is a music venue in Lyon with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "useless seconds at Poly" on Sat, 24 Oct 2026.
 
 Poly is a music venue in Lyon listed on soundcheck. 1 upcoming gig, with line-ups including Anna Kost, basic chanel and Maelita. See dates, start times and who's playing. TBA VENUE.
 
@@ -14,4 +14,4 @@ Poly is a music venue in Lyon listed on soundcheck. 1 upcoming gig, with line-up
 
 TBA VENUE, Lyon
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/poly/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/poly/)*

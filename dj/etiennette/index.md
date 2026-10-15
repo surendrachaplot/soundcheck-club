@@ -1,6 +1,6 @@
 # Etiennette
 
-Etiennette is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Golden Gate, Berlin on Fri, 30 Oct 2026.
+Etiennette is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Golden Gate, Berlin on Fri, 30 Oct 2026.
 
 Etiennette is a house and minimal artist based in Germany, with 47 gigs on soundcheck across Berlin and Hamburg. Often billed alongside babxi, Don Andres and Seemless. Next up: Golden Gate, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Etiennette is a house and minimal artist based in Germany, with 47 gigs on sound
 
 babxi, Don Andres, Seemless
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennette/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennette/)*

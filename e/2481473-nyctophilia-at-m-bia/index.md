@@ -1,6 +1,6 @@
 # Nyctophilia at M-BIA
 
-Nyctophilia at M-BIA on Fri 30 Oct, Berlin. 2 artists: NYXEA and SON!CA. Trance and Techno. See the line-up on soundcheck.
+Nyctophilia at M-BIA on Fri 30 Oct, Berlin. 3 artists: ALICA RØUGH, NYXEA and SON!CA. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Nyctophilia at M-BIA on Fri 30 Oct, Berlin. 2 artists: NYXEA and SON!CA. Trance 
 
 ## Line-up
 
+- ALICA RØUGH
 - NYXEA
 - SON!CA
 

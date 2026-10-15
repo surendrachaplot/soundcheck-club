@@ -1,6 +1,6 @@
 # DkA
 
-DkA is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Cabaret  Aléatoire, Marseille on Fri, 16 Oct 2026.
+DkA is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Cabaret  Aléatoire, Marseille on Fri, 16 Oct 2026.
 
 DkA is a house and minimal techno artist based in Belgium, with 7 gigs on soundcheck across Brussels and Marseille. Often billed alongside RELO4D, Ce$ar and Contrefaçon. Next up: Cabaret  Aléatoire, Marseille on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ DkA is a house and minimal techno artist based in Belgium, with 7 gigs on soundc
 
 RELO4D, Ce$ar, Contrefaçon
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dka/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dka/)*

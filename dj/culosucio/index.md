@@ -1,6 +1,6 @@
 # Culo Sucio
 
-Culo Sucio is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Crack Bellmer, Berlin on Thu, 22 Oct 2026.
+Culo Sucio is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Crack Bellmer, Berlin on Thu, 22 Oct 2026.
 
 Culo Sucio is a house and minimal artist based in Ecuador, with 9 gigs on soundcheck across Berlin. Often billed alongside DAZA, Daniel Jaramillo and Juan Diego Drouet. Next up: Crack Bellmer, Berlin on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Culo Sucio is a house and minimal artist based in Ecuador, with 9 gigs on soundc
 
 DAZA, Daniel Jaramillo, Juan Diego Drouet
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/culosucio/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/culosucio/)*

@@ -1,6 +1,6 @@
 # Demuir
 
-Demuir is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at smartbar, Chicago on Sat, 17 Oct 2026.
+Demuir is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at smartbar, Chicago on Sat, 17 Oct 2026.
 
 Demuir is a house and deep house artist based in Canada, with 48 gigs on soundcheck across Auckland, Austin, Chicago and Denver and 10 more. Often billed alongside Boys Don't Disco, Ian Llorens and Paul Najera. Next up: smartbar, Chicago on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Demuir is a house and deep house artist based in Canada, with 48 gigs on soundch
 
 Boys Don't Disco, Ian Llorens, Paul Najera
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demuir/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demuir/)*

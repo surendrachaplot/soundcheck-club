@@ -1,6 +1,6 @@
 # AmadoPeace
 
-AmadoPeace is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Major Bar & Pista, Sao Paulo on Fri, 16 Oct 2026.
+AmadoPeace is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Major Bar & Pista, Sao Paulo on Fri, 16 Oct 2026.
 
 AmadoPeace is a house and balearic artist based in Brazil, with 35 gigs on soundcheck across Sao Paulo. Often billed alongside Gabe Ortiz, Discos Baratos and Gop Tun DJs. Next up: Major Bar & Pista, Sao Paulo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ AmadoPeace is a house and balearic artist based in Brazil, with 35 gigs on sound
 
 Gabe Ortiz, Discos Baratos, Gop Tun DJs
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amadopeace/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amadopeace/)*

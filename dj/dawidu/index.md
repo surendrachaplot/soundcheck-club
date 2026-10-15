@@ -1,6 +1,6 @@
 # Dawidu
 
-Dawidu is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at feedbk, New York City on Thu, 15 Oct 2026.
+Dawidu is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at feedbk, New York City on Thu, 15 Oct 2026.
 
 Dawidu is a house and techno artist based in France, with 60 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 16 more. Often billed alongside Maxime dB, Sibil and Aline Umber. Next up: feedbk, New York City on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Dawidu is a house and techno artist based in France, with 60 gigs on soundcheck 
 
 Maxime dB, Sibil (1), Aline Umber
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dawidu/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dawidu/)*

@@ -1,6 +1,6 @@
 # Emma DJ
 
-Emma DJ is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Hexagon Brussels, Brussels on Fri, 16 Oct 2026.
+Emma DJ is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Hexagon Brussels, Brussels on Fri, 16 Oct 2026.
 
 Emma DJ is an experimental and techno artist based in France, with 91 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside ojoo, OKO DJ and Otis (BE). Next up: Hexagon Brussels, Brussels on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Emma DJ is an experimental and techno artist based in France, with 91 gigs on so
 
 ojoo, OKO DJ, Otis (BE)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmadj/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmadj/)*

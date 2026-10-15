@@ -1,6 +1,6 @@
 # Gorg-O-Mish
 
-Gorg-O-Mish is a music venue in Vancouver with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "ANALOG // Woodhead, Marcella & Oki // Vinyl Set" on Fri, 16 Oct 2026.
+Gorg-O-Mish is a music venue in Vancouver with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "ANALOG // Woodhead, Marcella & Oki // Vinyl Set" on Fri, 16 Oct 2026.
 
 Gorg-O-Mish is a music venue in Vancouver listed on soundcheck. 6 upcoming gigs, with line-ups including Dairy Free, DJ dood, Fisher Bryce and Hera (IE) and 2 more. See dates, start times and who's playing. 695 Smithe St; Vancouver, BC V6B 2C9; Canada.
 
@@ -19,4 +19,4 @@ Gorg-O-Mish is a music venue in Vancouver listed on soundcheck. 6 upcoming gigs,
 
 695 Smithe St; Vancouver, BC V6B 2C9; Canada, Vancouver
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/gorg-o-mish/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/gorg-o-mish/)*

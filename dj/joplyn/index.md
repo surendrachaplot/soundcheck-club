@@ -1,6 +1,6 @@
 # Joplyn
 
-Joplyn is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 31 Oct 2026.
+Joplyn is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 31 Oct 2026.
 
 Joplyn is a house and techno artist based in Germany, with 66 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 21 more. Often billed alongside Agents Of Time, Colyn and Deer Jade. Next up: PKH Warehouse, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Joplyn is a house and techno artist based in Germany, with 66 gigs on soundcheck
 
 Agents Of Time, Colyn, Deer Jade
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joplyn/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joplyn/)*

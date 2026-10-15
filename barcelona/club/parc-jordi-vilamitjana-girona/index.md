@@ -1,6 +1,6 @@
 # Parc Jordi Vilamitjana (Girona)
 
-Parc Jordi Vilamitjana (Girona) is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "Girona Extreme" on Sat, 17 Oct 2026.
+Parc Jordi Vilamitjana (Girona) is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "Girona Extreme" on Sat, 17 Oct 2026.
 
 Parc Jordi Vilamitjana (Girona) is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Parc Jordi Vilamitjana (Girona) is a music venue in Barcelona listed on soundche
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Girona Extreme |  |
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/parc-jordi-vilamitjana-girona/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/parc-jordi-vilamitjana-girona/)*

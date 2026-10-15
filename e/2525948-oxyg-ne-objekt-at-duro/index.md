@@ -1,6 +1,6 @@
 # Oxygène // Objekt at DURO
 
-Oxygène // Objekt at DURO on Sat 21 Nov, Milan. 1 artist: Objekt. Techno. See the line-up on soundcheck.
+Oxygène // Objekt at DURO on Sat 21 Nov, Milan. 2 artists: DRUMS AND CHANTS and Objekt. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Oxygène // Objekt at DURO on Sat 21 Nov, Milan. 1 artist: Objekt. Techno. See t
 
 ## Line-up
 
+- DRUMS AND CHANTS
 - Objekt
 
 *Source: [soundcheck](https://soundcheck.club/e/2525948-oxyg-ne-objekt-at-duro/)*

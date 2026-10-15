@@ -1,8 +1,8 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Marsolo, JACK MARLOW, Natalia Roth, Blaise Bracic, cutback! + friends: LILLE, Dylan Rhee" on Fri, 16 Oct 2026.
+Elsewhere is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Marsolo, JACK MARLOW, Natalia Roth, Blaise Bracic, cutback! + friends: LILLE, Dylan Rhee" on Fri, 16 Oct 2026.
 
-Elsewhere is a music venue in New York City listed on soundcheck. 16 upcoming gigs, with line-ups including 6 SENSE, AEREA, Alcantara and Alex Farell and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
+Elsewhere is a music venue in New York City listed on soundcheck. 16 upcoming gigs, with line-ups including 6 SENSE, Pei Up, AEREA and Alcantara and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
 ## What's on
 
@@ -11,7 +11,7 @@ Elsewhere is a music venue in New York City listed on soundcheck. 16 upcoming gi
 | Fri, 16 Oct 2026 | Marsolo, JACK MARLOW, Natalia Roth, Blaise Bracic, cutback! + friends: LILLE, Dylan Rhee | JACK MARLOW, Marsolo, Natalia Roth |
 | Fri, 16 Oct 2026 | MIRCHI: Halla, Krithi, MAIYA | Krithi, MAIYA |
 | Sat, 17 Oct 2026 | Tye Turner, Goldie Harris, Hanti, ZABAAN presents CLUB CHUTIYA, BARANGAY | Alcantara, Jay Dalawa, LILLA, SRI (1), Tye Turner, YUVI (UA) |
-| Fri, 23 Oct 2026 | Franc Moody DJ Set, Cody Currie (open to close) | Cody Currie |
+| Fri, 23 Oct 2026 | Franc Moody DJ Set, Cody Currie (open to close), Cosmo, Pei Up + friends | Cody Currie, Cosmo, Iris Estefanía, Pei Up |
 | Sat, 24 Oct 2026 | 10 Years of CruCast: Harriet Jaxxon, [IVY], SKEPSIS, Voltage, oomfRAVE | oomfhaver |
 | Sat, 31 Oct 2026 | Elsewhere Halloween - Major League Djz, Bantu, SAIDAH, D Stone, Ariel Lights b2b Sissy Elliott | Bantu, D Stone, Kush Jones, Major League Djz, SAIDAH, Sissy Elliott |
 | Sat, 31 Oct 2026 | Elsewhere Halloween: Cannelle, EQ, Tommy Fleece, Corridos Ketamina, Isla Den, Ali RQ + more | Ali RQ, Cannelle, EQ (Estratosfera + Qiri), Isla Den, Petal Supply, RICO RICA |
@@ -23,4 +23,4 @@ Elsewhere is a music venue in New York City listed on soundcheck. 16 upcoming gi
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

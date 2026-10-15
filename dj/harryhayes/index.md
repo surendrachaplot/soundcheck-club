@@ -1,6 +1,6 @@
 # Harry Hayes
 
-Harry Hayes is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Hootananny Brixton, London on Fri, 16 Oct 2026.
+Harry Hayes is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Hootananny Brixton, London on Fri, 16 Oct 2026.
 
 Harry Hayes is a house and garage artist based in Australia, with 26 gigs on soundcheck across Dublin, London, Manchester and Melbourne and 1 more. Often billed alongside LUPO.THEBOY, Memphis LK and Mike McCaskill. Next up: Hootananny Brixton, London on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Harry Hayes is a house and garage artist based in Australia, with 26 gigs on sou
 
 LUPO.THEBOY, Memphis LK, Mike McCaskill
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harryhayes/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harryhayes/)*

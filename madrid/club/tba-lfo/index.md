@@ -1,6 +1,6 @@
 # TBA - LFO
 
-TBA - LFO is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Fernweh OPENING SEASON" on Fri, 16 Oct 2026.
+TBA - LFO is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Fernweh OPENING SEASON" on Fri, 16 Oct 2026.
 
 TBA - LFO is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with line-ups including Alputo, Amphia, Anso and Chris Gorrie and 2 more. See dates, start times and who's playing.
 
@@ -16,4 +16,4 @@ TBA - LFO is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with
 | Sat, 14 Nov 2026 | SABLES MOUVANTS X Marylou - Extended Set | John Garcia, Marylou, Pillen |
 | Sat, 5 Dec 2026 | Tincture |  |
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-lfo/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-lfo/)*

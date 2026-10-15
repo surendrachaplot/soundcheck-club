@@ -1,6 +1,6 @@
 # hhunter
 
-hhunter is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Domicile, Miami on Fri, 16 Oct 2026.
+hhunter is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Domicile, Miami on Fri, 16 Oct 2026.
 
 hhunter is a techno and house artist based in United States of America, with 80 gigs on soundcheck across Atlanta, Austin, Chicago and Dallas Fort Worth and 10 more. Often billed alongside Elarm, Kula and Flores Negras. Next up: Domicile, Miami on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ hhunter is a techno and house artist based in United States of America, with 80 
 
 Elarm, Kula, Flores Negras
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hhunter/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hhunter/)*

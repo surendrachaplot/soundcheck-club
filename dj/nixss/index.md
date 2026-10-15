@@ -1,6 +1,6 @@
 # Nixss
 
-Nixss is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Lourdes Music Hall, Bogot on Fri, 30 Oct 2026.
+Nixss is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Lourdes Music Hall, Bogot on Fri, 30 Oct 2026.
 
 Nixss is a techno and latin bass artist based in Colombia, with 9 gigs on soundcheck across Berlin, Bogot, Budapest and Lyon and 4 more. Often billed alongside 2AT, Isablu and Aleroj. Next up: Lourdes Music Hall, Bogot on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Nixss is a techno and latin bass artist based in Colombia, with 9 gigs on soundc
 
 2AT, Isablu, Aleroj
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nixss/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nixss/)*

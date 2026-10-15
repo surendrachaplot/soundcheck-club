@@ -1,6 +1,6 @@
 # CallBackSami
 
-CallBackSami is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Lyon/Villeurbanne, Lyon on Sat, 21 Nov 2026.
+CallBackSami is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Lyon/Villeurbanne, Lyon on Sat, 21 Nov 2026.
 
 CallBackSami is a trance and progressive house artist based in France, with 35 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Lyon and 1 more. Often billed alongside RIGO, Ramtarr and Axel Blanc. Next up: TBA - Lyon/Villeurbanne, Lyon on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ CallBackSami is a trance and progressive house artist based in France, with 35 g
 
 RIGO, Ramtarr, Axel Blanc
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/callbacksami/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/callbacksami/)*

@@ -1,6 +1,6 @@
 # Gatsby Hall
 
-Gatsby Hall is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Gatsby Hall — Soft Opening" on Fri, 16 Oct 2026.
+Gatsby Hall is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Gatsby Hall — Soft Opening" on Fri, 16 Oct 2026.
 
 Gatsby Hall is a music venue in Prague listed on soundcheck. 2 upcoming gigs, with line-ups including SAVBEA. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Gatsby Hall is a music venue in Prague listed on soundcheck. 2 upcoming gigs, wi
 | Fri, 16 Oct 2026 | Gatsby Hall — Soft Opening |  |
 | Thu, 5 Nov 2026 | Masquerade Dating - BIG EDITION Official Pre-Party | SAVBEA |
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/gatsby-hall/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/gatsby-hall/)*

@@ -1,6 +1,6 @@
 # Vispera
 
-Vispera is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Planet Wax, London on Sat, 21 Nov 2026.
+Vispera is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Planet Wax, London on Sat, 21 Nov 2026.
 
 Vispera is a drum & bass and jungle artist based in United Kingdom, with 19 gigs on soundcheck across Bristol, Leeds, London and Manchester. Often billed alongside Jessy P, Kyber and Loker. Next up: Planet Wax, London on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Vispera is a drum & bass and jungle artist based in United Kingdom, with 19 gigs
 
 Jessy P, Kyber, Loker
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vispera/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vispera/)*

@@ -1,8 +1,8 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Zuzana Hakl INVITES Patrick DSP" on Fri, 16 Oct 2026.
+Fuchs2 is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Zuzana Hakl INVITES Patrick DSP" on Fri, 16 Oct 2026.
 
-Fuchs2 is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with line-ups including 2NDRA, Ancient Methods, Atlaskin and AVHD and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
+Fuchs2 is a music venue in Prague listed on soundcheck. 10 upcoming gigs, with line-ups including 2NDRA, Ancient Methods, Atlaskin and AVHD and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
 
 ## What's on
 
@@ -17,9 +17,10 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with li
 | Fri, 30 Oct 2026 | BRVTAL HALLOWEEN: Ancient Methods ☆ The Brvtalist ☆ Nastya Muravyova ☆ C4AT ☆ Kat Kat Tat | Ancient Methods, Kat Kat Tat, Lillou, Nastya Muravyova, The Brvtalist |
 | Sat, 31 Oct 2026 | FACE-OFF: 2NDRA F2F NEUWERTH ☆ SJ Yellow F2F tmk ☆ Etienn Grey F2F Fake Agent ☆ Dunik F2F Mich | 2NDRA, Atlaskin, Etienn Grey, Fake Agent, NEUWERTH, SJ Yellow, VNNUK, tmk (CZ) |
 | Sat, 7 Nov 2026 | Rave Generation | DjEgo, GRVYWRLD, KJAER, Kerrie, Lucas Hulan, Mirka, Paul Krist, Philip Ackowsky, Raul Young, Rudeboy |
+| Thu, 12 Nov 2026 | SALO: Lovačka Srca Takeover | VLZQUES |
 
 ## Address
 
 Štvanice, 17000 Prague, Prague
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*

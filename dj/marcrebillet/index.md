@@ -1,6 +1,6 @@
 # Marc Rebillet
 
-Marc Rebillet is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at The Midway, San-francisco-oakland on Sat, 24 Oct 2026.
+Marc Rebillet is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at The Midway, San-francisco-oakland on Sat, 24 Oct 2026.
 
 Marc Rebillet is a house and electronica artist based in United States of America, with 21 gigs on soundcheck across Bali, Barcelona, Budapest and Dublin and 13 more. Often billed alongside WhoMadeWho, I Hate Models and Anyma. Next up: The Midway, San Francisco Oakland on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Marc Rebillet is a house and electronica artist based in United States of Americ
 
 WhoMadeWho, I Hate Models, Anyma
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcrebillet/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcrebillet/)*

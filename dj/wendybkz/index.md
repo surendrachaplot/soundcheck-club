@@ -1,6 +1,6 @@
 # Wendy Bkz
 
-Wendy Bkz is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 17 Oct 2026.
+Wendy Bkz is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 17 Oct 2026.
 
 Wendy Bkz is a house and techno artist based in France, with 60 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside Amau, Burchan Acar and Guillermo Jamas. Next up: Tokonoma Club, Frankfurt on Sat 17 Oct.
 
@@ -29,4 +29,4 @@ Wendy Bkz is a house and techno artist based in France, with 60 gigs on soundche
 
 Amau, Burchan Acar, Guillermo Jamas
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wendybkz/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wendybkz/)*

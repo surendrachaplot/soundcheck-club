@@ -1,6 +1,6 @@
 # AUGUSTE
 
-AUGUSTE is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Luminair Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+AUGUSTE is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Luminair Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 AUGUSTE is an afro house and house artist based in France, with 28 gigs on soundcheck across Amsterdam, Detroit, Ibiza and London and 6 more. Often billed alongside DJ Habibeats, Vann Essa and Admiral. Next up: Luminair Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ AUGUSTE is an afro house and house artist based in France, with 28 gigs on sound
 
 DJ Habibeats, Vann Essa, Admiral
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auguste/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auguste/)*

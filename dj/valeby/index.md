@@ -1,18 +1,18 @@
 # Valeby
 
-Valeby is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Amp, Munster on Wed, 14 Oct 2026.
+Valeby is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Amp, Munster on Fri, 30 Oct 2026.
 
-Valeby is a techno and house artist based in Germany, with 24 gigs on soundcheck across Amsterdam, Berlin, Cologne and Madrid and 1 more. Often billed alongside Rozie, CHOREOPHILA and Multifun. Next up: Amp, Munster on Wed 14 Oct.
+Valeby is a techno and house artist based in Germany, with 24 gigs on soundcheck across Amsterdam, Berlin, Cologne and Madrid and 1 more. Often billed alongside Rozie, CHOREOPHILA and Multifun. Next up: Amp, Munster on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 14 Oct 2026 | Amp | Munster |
 | Fri, 30 Oct 2026 | Amp | Munster |
 
 ## Recently played
 
+- Amp, Munster · Wed, 14 Oct 2026
 - Amp, Munster · Sat, 3 Oct 2026
 - Amp, Munster · Sat, 26 Sept 2026
 - Paloma, Berlin · Sun, 20 Sept 2026
@@ -20,10 +20,9 @@ Valeby is a techno and house artist based in Germany, with 24 gigs on soundcheck
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
 - TBA - Selfkant, Cologne · Sat, 25 Jul 2026
 - Pier 14, Amsterdam · Sat, 13 Jun 2026
-- SISSI'S Amsterdam, Amsterdam · Sat, 2 May 2026
 
 ## Shares bills with
 
 Rozie, CHOREOPHILA, Multifun
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valeby/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valeby/)*

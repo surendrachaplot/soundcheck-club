@@ -1,6 +1,6 @@
 # X Private Club
 
-X Private Club is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "NOIZZE W/ FEDE ALIPRANDI (LTF - NERVOUS) FREE ENTRY" on Fri, 16 Oct 2026.
+X Private Club is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "NOIZZE W/ FEDE ALIPRANDI (LTF - NERVOUS) FREE ENTRY" on Fri, 16 Oct 2026.
 
 X Private Club is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Alex Warp, DPAZ, Herrera (ES) and Jaime O'Connor and 2 more. See dates, start times and who's playing. Madrid.
 
@@ -15,4 +15,4 @@ X Private Club is a music venue in Madrid listed on soundcheck. 2 upcoming gigs,
 
 Madrid, Madrid
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*

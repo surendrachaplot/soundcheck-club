@@ -1,6 +1,6 @@
 # Vladimir Dubyshkin
 
-Vladimir Dubyshkin is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Night Tales, London on Sat, 21 Nov 2026.
+Vladimir Dubyshkin is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Night Tales, London on Sat, 21 Nov 2026.
 
 Vladimir Dubyshkin is a techno and trance artist based in Russia, with 111 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 45 more. Often billed alongside u.r.trax, DJ Hyperdrive and fka.m4a. Next up: Night Tales, London on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Vladimir Dubyshkin is a techno and trance artist based in Russia, with 111 gigs 
 
 u.r.trax, DJ Hyperdrive, fka.m4a
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirdubyshkin-de/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirdubyshkin-de/)*

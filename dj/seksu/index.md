@@ -1,6 +1,6 @@
 # Seksu
 
-Seksu is a Baile Funk and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Dalston Superstore, London on Fri, 16 Oct 2026.
+Seksu is a Baile Funk and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Dalston Superstore, London on Fri, 16 Oct 2026.
 
 Seksu is a baile funk and afro tech artist based in United Kingdom, with 11 gigs on soundcheck across Brighton and London. Often billed alongside Disco Monde, 3DMA and ASHTREY. Next up: Dalston Superstore, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Seksu is a baile funk and afro tech artist based in United Kingdom, with 11 gigs
 
 Disco Monde, 3DMA, ASHTREY
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seksu/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seksu/)*

@@ -1,6 +1,6 @@
 # DETROIT CLUB
 
-DETROIT CLUB is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "HARD NOISES - DJ MORE, ALTRAX, SORONELLAS, FLORES, IKEROVSKI, SHIMIKO" on Sat, 17 Oct 2026.
+DETROIT CLUB is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "HARD NOISES - DJ MORE, ALTRAX, SORONELLAS, FLORES, IKEROVSKI, SHIMIKO" on Sat, 17 Oct 2026.
 
 DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs, with line-ups including ALTRAX, CARGO (DE), Casanøva and Cobb Douglas and 2 more. See dates, start times and who's playing. Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona.
 
@@ -20,4 +20,4 @@ DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs
 
 Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona, Barcelona
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*

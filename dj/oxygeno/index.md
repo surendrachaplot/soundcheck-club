@@ -1,14 +1,15 @@
 # Oxygeno
 
-Oxygeno is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - SALA MUV, Madrid on Sat, 7 Nov 2026.
+Oxygeno is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - SALA MUV, Madrid on Sat, 7 Nov 2026.
 
-Oxygeno is a techno and trance artist, with 20 gigs on soundcheck across Amsterdam, Barcelona, Boston and Budapest and 6 more. Often billed alongside AEREA, Anxiety for Living and Cera Khin. Next up: TBA - SALA MUV, Madrid on Sat 7 Nov.
+Oxygeno is a techno and experimental artist, with 21 gigs on soundcheck across Amsterdam, Barcelona, Boston and Budapest and 7 more. Often billed alongside AEREA, Anxiety for Living and Cera Khin. Next up: TBA - SALA MUV, Madrid on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | TBA - SALA MUV | Madrid |
+| Fri, 13 Nov 2026 | FLUCC | Vienna |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Oxygeno is a techno and trance artist, with 20 gigs on soundcheck across Amsterd
 
 AEREA, Anxiety for Living, Cera Khin
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oxygeno/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oxygeno/)*

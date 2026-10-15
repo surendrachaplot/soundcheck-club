@@ -1,6 +1,6 @@
 # The Prospect Building
 
-The Prospect Building is a music venue in Bristol with 11 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "History Of Rave: Eats Everything, Groove Armada, Mike Skinner " on Sat, 17 Oct 2026.
+The Prospect Building is a music venue in Bristol with 11 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "History Of Rave: Eats Everything, Groove Armada " on Sat, 17 Oct 2026.
 
 The Prospect Building is a music venue in Bristol listed on soundcheck. 11 upcoming gigs, with line-ups including 4am Kru, Above & Beyond, ABSOLUTE. and A Little Sound and 2 more. See dates, start times and who's playing. 45 Feeder Rd Bristol, BS2 0SE.
 
@@ -8,7 +8,7 @@ The Prospect Building is a music venue in Bristol listed on soundcheck. 11 upcom
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | History Of Rave: Eats Everything, Groove Armada, Mike Skinner  | Eats Everything, Groove Armada, Lulah Francs, Mike Skinner, SGT Pokes, SHADEV, SHUFFA, Safiye, Scarlett O'Malley |
+| Sat, 17 Oct 2026 | History Of Rave: Eats Everything, Groove Armada  | Eats Everything, Girls Don't Sync, Groove Armada, Lulah Francs, SGT Pokes, SHADEV, SHUFFA, Safiye, Scarlett O'Malley |
 | Sat, 24 Oct 2026 | BIG MOOD | ABSOLUTE., Bimini, Jodie Harsh, Liam Parsons |
 | Fri, 30 Oct 2026 | Above & Beyond presents Anjunabeats Warehouse | Above & Beyond, Marsh, Mat Zo, Sanaz |
 | Sat, 31 Oct 2026 | 4am Kru / [The Blast] Halloween Carnival of the Dead x LSTD | 4am Kru, Blackeye MC, Chimpo, DJ Storm, Guido YZ, Hypershe, Janaway, Lou Nour, Napes, Oppidan, Origin8a & Propa, SIS:DEM, Sexy Lady Massive, Shirley Temper, The Bass Injector |
@@ -23,4 +23,4 @@ The Prospect Building is a music venue in Bristol listed on soundcheck. 11 upcom
 
 45 Feeder Rd Bristol, BS2 0SE, Bristol
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-prospect-building/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-prospect-building/)*

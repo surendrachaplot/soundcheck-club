@@ -1,6 +1,6 @@
 # Off Script X Moodyverse - ADE SPECIAL at Het Veronica Schip
 
-Off Script X Moodyverse - ADE SPECIAL at Het Veronica Schip on Fri 23 Oct, Amsterdam. 7 artists: AVANT, Cyantist, Denes Toth and Maarten Spoor and 3 more. Progressive House and Techno. See the line-up on soundcheck.
+Off Script X Moodyverse - ADE SPECIAL at Het Veronica Schip on Fri 23 Oct, Amsterdam. 8 artists: AVANT, Cyantist, Denes Toth and Estiva and 4 more. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Off Script X Moodyverse - ADE SPECIAL at Het Veronica Schip on Fri 23 Oct, Amste
 - AVANT
 - Cyantist
 - Denes Toth
+- Estiva
 - Maarten Spoor
 - Milan Steenwinkel
 - Stoac

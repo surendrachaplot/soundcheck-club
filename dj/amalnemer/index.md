@@ -1,13 +1,14 @@
 # Amal Nemer
 
-Amal Nemer is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at PKL Boston, Boston on Sat, 31 Oct 2026.
+Amal Nemer is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Listen Brooklyn, New York City on Fri, 30 Oct 2026.
 
-Amal Nemer is a tech house and house artist based in United States of America, with 42 gigs on soundcheck across Austin, Boston, Chicago and Detroit and 9 more. Often billed alongside Malone, Lazaro Casanova and Oscar G. Next up: PKL Boston, Boston on Sat 31 Oct.
+Amal Nemer is a tech house and house artist based in United States of America, with 43 gigs on soundcheck across Austin, Boston, Chicago and Detroit and 9 more. Often billed alongside Malone, Lazaro Casanova and Oscar G. Next up: Listen Brooklyn, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Listen Brooklyn | New York City |
 | Sat, 31 Oct 2026 | PKL Boston | Boston |
 | Sat, 31 Oct 2026 | PKL Boston | Boston |
 
@@ -26,4 +27,4 @@ Amal Nemer is a tech house and house artist based in United States of America, w
 
 Malone, Lazaro Casanova, Oscar G
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amalnemer/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amalnemer/)*

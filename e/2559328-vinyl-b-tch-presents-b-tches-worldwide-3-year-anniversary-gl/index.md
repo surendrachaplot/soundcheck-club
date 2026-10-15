@@ -1,6 +1,6 @@
 # Vinyl B*tch presents: B*TCHES WORLDWIDE - 3 Year Anniversary Global Takeover at Dalston Superstore
 
-Vinyl B*tch presents: B*TCHES WORLDWIDE - 3 Year Anniversary Global Takeover at Dalston Superstore on Thu 12 Nov, London. 10 artists: Elianne, Grace Sands, Ivy F and Kidcat and 6 more. Techno and House. See the line-up on soundcheck.
+Vinyl B*tch presents: B*TCHES WORLDWIDE - 3 Year Anniversary Global Takeover at Dalston Superstore on Thu 12 Nov, London. 9 artists: Elianne, Grace Sands, Ivy F and Kidcat and 5 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,7 +18,6 @@ Vinyl B*tch presents: B*TCHES WORLDWIDE - 3 Year Anniversary Global Takeover at 
 - Love Sensation
 - MADDØG
 - Rux (UK)
-- SHAY
 - sohotsospicy
 
 *Source: [soundcheck](https://soundcheck.club/e/2559328-vinyl-b-tch-presents-b-tches-worldwide-3-year-anniversary-gl/)*

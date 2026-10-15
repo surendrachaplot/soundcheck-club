@@ -1,6 +1,6 @@
 # Alan Epps
 
-Alan Epps is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Thu, 22 Oct 2026.
+Alan Epps is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Thu, 22 Oct 2026.
 
 Alan Epps is a house and deep house artist based in United States of America, with 19 gigs on soundcheck across Miami. Often billed alongside Dude Skywalker, Mary Jane (US) and Alex Cecil. Next up: Do Not Sit On The Furniture, Miami on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Alan Epps is a house and deep house artist based in United States of America, wi
 
 Dude Skywalker, Mary Jane (US), Alex Cecil
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alanepps/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alanepps/)*

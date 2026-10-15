@@ -1,14 +1,14 @@
 # S_STEELE
 
-S_STEELE is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Unit 58 Millmead Industrial Estate, Mill Mead Rd, London N17, London on Fri, 6 Nov 2026.
+S_STEELE is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Unit 58, London on Fri, 6 Nov 2026.
 
-S_STEELE is a club and techno artist based in United Kingdom, with 63 gigs on soundcheck across Barcelona, London and San Francisco/Oakland. Often billed alongside teleopath, Bekefi and Sam Londt. Next up: TBA - Unit 58 Millmead Industrial Estate, Mill Mead Rd, London N17, London on Fri 6 Nov.
+S_STEELE is a club and techno artist based in United Kingdom, with 63 gigs on soundcheck across Barcelona, London and San Francisco/Oakland. Often billed alongside teleopath, Bekefi and Sam Londt. Next up: Unit 58, London on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TBA - Unit 58 Millmead Industrial Estate, Mill Mead Rd, London N17 | London |
+| Fri, 6 Nov 2026 | Unit 58 | London |
 | Sat, 14 Nov 2026 | Club Cheek | London |
 
 ## Recently played
@@ -26,4 +26,4 @@ S_STEELE is a club and techno artist based in United Kingdom, with 63 gigs on so
 
 teleopath, Bekefi, Sam Londt
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s_steele/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s_steele/)*

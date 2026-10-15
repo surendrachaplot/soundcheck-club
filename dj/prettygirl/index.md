@@ -1,6 +1,6 @@
 # Pretty Girl
 
-Pretty Girl is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Fidelity Studio, Dublin on Fri, 16 Oct 2026.
+Pretty Girl is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Fidelity Studio, Dublin on Fri, 16 Oct 2026.
 
 Pretty Girl is a house and techno artist based in Australia, with 71 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 23 more. Often billed alongside Interplanetary Criminal, KI/KI and KETTAMA. Next up: Fidelity Studio, Dublin on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Pretty Girl is a house and techno artist based in Australia, with 71 gigs on sou
 
 Interplanetary Criminal, KI/KI, KETTAMA
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prettygirl/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prettygirl/)*

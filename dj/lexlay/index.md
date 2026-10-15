@@ -1,6 +1,6 @@
 # Lexlay
 
-Lexlay is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 17 Oct 2026.
+Lexlay is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 17 Oct 2026.
 
 Lexlay is a tech house and house artist based in Spain, with 87 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Ibiza and 8 more. Often billed alongside Shitake, Alvaro Smart and Carlo Lio. Next up: La Terrrazza, Barcelona on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Lexlay is a tech house and house artist based in Spain, with 87 gigs on soundche
 
 Shitake, Alvaro Smart, Carlo Lio
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexlay/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexlay/)*

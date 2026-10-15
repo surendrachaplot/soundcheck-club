@@ -1,13 +1,14 @@
 # Tiago
 
-Tiago is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Open Ground, Wuppertal on Sat, 17 Oct 2026.
+Tiago is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Vago, Lisbon on Thu, 15 Oct 2026.
 
-Tiago is a house and techno artist based in Portugal, with 88 gigs on soundcheck across Amsterdam, Ibiza, Lisbon and Liverpool and 11 more. Often billed alongside Inês Duarte, Varela and Ze Pedro Moura. Next up: Open Ground, Wuppertal on Sat 17 Oct.
+Tiago is a house and techno artist based in Portugal, with 89 gigs on soundcheck across Amsterdam, Ibiza, Lisbon and Liverpool and 11 more. Often billed alongside Inês Duarte, Varela and Ze Pedro Moura. Next up: Vago, Lisbon on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 15 Oct 2026 | Vago | Lisbon |
 | Sat, 17 Oct 2026 | Open Ground | Wuppertal |
 | Sun, 18 Oct 2026 | Harbour Music Shelter | Lisbon |
 
@@ -26,4 +27,4 @@ Tiago is a house and techno artist based in Portugal, with 88 gigs on soundcheck
 
 Inês Duarte, Varela, Ze Pedro Moura
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiago/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiago/)*

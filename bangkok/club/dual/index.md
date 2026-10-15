@@ -1,6 +1,6 @@
 # Dual
 
-Dual is a music venue in Bangkok with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Chalo, Vell, Jojo Bueno & more" on Fri, 16 Oct 2026.
+Dual is a music venue in Bangkok with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Chalo, Vell, Jojo Bueno & more" on Fri, 16 Oct 2026.
 
 Dual is a music venue in Bangkok listed on soundcheck. 7 upcoming gigs, with line-ups including .g (TH), Chalo, DMT Disco and DOTT and 2 more. See dates, start times and who's playing. Soi Naradhiwas Rajanagarindra 3, Si Lom, Bang Rak, Bangkok 10500.
 
@@ -20,4 +20,4 @@ Dual is a music venue in Bangkok listed on soundcheck. 7 upcoming gigs, with lin
 
 Soi Naradhiwas Rajanagarindra 3, Si Lom, Bang Rak, Bangkok 10500, Bangkok
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/dual/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/dual/)*

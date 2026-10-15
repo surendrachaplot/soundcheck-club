@@ -1,6 +1,6 @@
 # Potato Head Beach Club
 
-Potato Head Beach Club is a music venue in Bali with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Evolving Landscapes: Rostarr" on Fri, 16 Oct 2026.
+Potato Head Beach Club is a music venue in Bali with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Evolving Landscapes: Rostarr" on Fri, 16 Oct 2026.
 
 Potato Head Beach Club is a music venue in Bali listed on soundcheck. 2 upcoming gigs, with line-ups including Alex From Tokyo, Archie Dennis, The Avalanches and Benedek and 2 more. See dates, start times and who's playing. Jl. Petitenget No.51B, Seminyak, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia.
 
@@ -15,4 +15,4 @@ Potato Head Beach Club is a music venue in Bali listed on soundcheck. 2 upcoming
 
 Jl. Petitenget No.51B, Seminyak, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia, Bali
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/potato-head-beach-club/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/potato-head-beach-club/)*

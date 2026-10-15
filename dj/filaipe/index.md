@@ -1,6 +1,6 @@
 # FILAIPE
 
-FILAIPE is a Baile Funk and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Madame Moustache, Brussels on Fri, 30 Oct 2026.
+FILAIPE is a Baile Funk and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Madame Moustache, Brussels on Fri, 30 Oct 2026.
 
 FILAIPE is a baile funk and latin bass artist based in Brazil, with 12 gigs on soundcheck across Amsterdam and Brussels. Often billed alongside AAlva, Kontronatura and Alexander T. Rose. Next up: Madame Moustache, Brussels on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ FILAIPE is a baile funk and latin bass artist based in Brazil, with 12 gigs on s
 
 AAlva, Kontronatura, Alexander T. Rose
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/filaipe/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/filaipe/)*

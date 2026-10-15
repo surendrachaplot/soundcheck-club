@@ -1,6 +1,6 @@
 # Unregular
 
-Unregular is a House and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Inter-City, The Hague on Sat, 19 Dec 2026.
+Unregular is a House and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Inter-City, The Hague on Sat, 19 Dec 2026.
 
 Unregular is a house and trance artist based in Belgium, with 6 gigs on soundcheck across Amsterdam, Antwerp, The Hague and Utrecht. Often billed alongside Arter, Boudi and Di After. Next up: Inter-City, The Hague on Sat 19 Dec.
 
@@ -22,4 +22,4 @@ Unregular is a house and trance artist based in Belgium, with 6 gigs on soundche
 
 Arter, Boudi, Di After
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unregular/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unregular/)*

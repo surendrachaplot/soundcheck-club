@@ -1,6 +1,6 @@
 # Ciriya
 
-Ciriya is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Clutch, Warehouse Bangkok, Bangkok on Sat, 31 Oct 2026.
+Ciriya is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Clutch, Warehouse Bangkok, Bangkok on Sat, 31 Oct 2026.
 
 Ciriya is a techno and house artist based in Thailand, with 36 gigs on soundcheck across Bangkok. Often billed alongside Patimala, Gaspray and IYY (TH). Next up: Clutch, Warehouse Bangkok, Bangkok on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Ciriya is a techno and house artist based in Thailand, with 36 gigs on soundchec
 
 Patimala, Gaspray, IYY (TH)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ciriya/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ciriya/)*

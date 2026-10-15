@@ -1,6 +1,6 @@
 # Tom Mils
 
-Tom Mils is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Minimal Bar, Berlin on Thu, 15 Oct 2026.
+Tom Mils is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Minimal Bar, Berlin on Thu, 15 Oct 2026.
 
 Tom Mils is a techno and tech house artist based in France, with 2 gigs on soundcheck across Berlin and Lyon. Often billed alongside LETVINK and Substrack. Next up: Minimal Bar, Berlin on Thu 15 Oct.
 
@@ -15,4 +15,4 @@ Tom Mils is a techno and tech house artist based in France, with 2 gigs on sound
 
 LETVINK, Substrack
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommils/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommils/)*

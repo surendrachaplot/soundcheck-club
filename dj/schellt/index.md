@@ -1,13 +1,14 @@
 # SCHELLT
 
-SCHELLT is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Smolna, Warsaw on Sun, 25 Oct 2026.
+SCHELLT is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Smolna, Warsaw on Sun, 25 Oct 2026.
 
-SCHELLT is a techno and trance artist based in Ukraine, with 53 gigs on soundcheck across Berlin, Bucharest, Hamburg and Krakow and 4 more. Often billed alongside VRAXX, Józef Keuner and ERNST (UA). Next up: Smolna, Warsaw on Sun 25 Oct.
+SCHELLT is a techno and trance artist based in Ukraine, with 54 gigs on soundcheck across Berlin, Bucharest, Hamburg and Krakow and 4 more. Often billed alongside VRAXX, Józef Keuner and ERNST (UA). Next up: Smolna, Warsaw on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 25 Oct 2026 | Smolna | Warsaw |
 | Sun, 25 Oct 2026 | Smolna | Warsaw |
 | Thu, 31 Dec 2026 | Hala Orion | Wroclaw |
 
@@ -26,4 +27,4 @@ SCHELLT is a techno and trance artist based in Ukraine, with 53 gigs on soundche
 
 VRAXX, Józef Keuner, ERNST (UA)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schellt/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schellt/)*

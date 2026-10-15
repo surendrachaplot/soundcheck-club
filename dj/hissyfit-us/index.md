@@ -1,6 +1,6 @@
 # Hissyfit
 
-Hissyfit is a Hardcore and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TRANSMISSION DC, Washington DC on Sat, 31 Oct 2026.
+Hissyfit is a Hardcore and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TRANSMISSION DC, Washington DC on Sat, 31 Oct 2026.
 
 Hissyfit is a hardcore and club artist based in United States of America, with 40 gigs on soundcheck across Nashville, New York City and Washington DC. Often billed alongside Franxx, Gabberbitch69 and znorthy. Next up: TRANSMISSION DC, Washington DC on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Hissyfit is a hardcore and club artist based in United States of America, with 4
 
 Franxx, Gabberbitch69, znorthy
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hissyfit-us/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hissyfit-us/)*

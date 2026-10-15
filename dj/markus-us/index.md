@@ -1,6 +1,6 @@
 # Markus (US)
 
-Markus (US) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Silencio, Paris on Thu, 15 Oct 2026.
+Markus (US) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Silencio, Paris on Thu, 15 Oct 2026.
 
 Markus (US) is a techno and house artist based in United States of America, with 47 gigs on soundcheck across Barcelona, Berlin, Frankfurt and Naples and 4 more. Often billed alongside Makadsi, FASHION (US) and Kilopatrah Jones. Next up: Silencio, Paris on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Markus (US) is a techno and house artist based in United States of America, with
 
 Makadsi, FASHION (US), Kilopatrah Jones
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markus-us/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markus-us/)*

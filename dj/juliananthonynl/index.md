@@ -1,6 +1,6 @@
 # Julian Anthony
 
-Julian Anthony is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at 11 Bromley Street, Birmingham on Sat, 17 Oct 2026.
+Julian Anthony is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at 11 Bromley Street, Birmingham on Sat, 17 Oct 2026.
 
 Julian Anthony is a house and tech house artist based in Netherlands, with 159 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 33 more. Often billed alongside Laidlaw, Voigtmann and Reeshy. Next up: 11 Bromley Street, Birmingham on Sat 17 Oct.
 
@@ -32,4 +32,4 @@ Julian Anthony is a house and tech house artist based in Netherlands, with 159 g
 
 Laidlaw, Voigtmann, Reeshy
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*

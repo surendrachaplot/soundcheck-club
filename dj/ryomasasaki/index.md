@@ -1,6 +1,6 @@
 # Ryoma Sasaki
 
-Ryoma Sasaki is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Club Metro, Kyoto on Fri, 16 Oct 2026.
+Ryoma Sasaki is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Club Metro, Kyoto on Fri, 16 Oct 2026.
 
 Ryoma Sasaki is a house and techno artist based in Japan, with 138 gigs on soundcheck across Kyoto and Osaka. Often billed alongside Ouchi-S, Paul Leonard and Koichi (Koichiro Okada). Next up: Club Metro, Kyoto on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Ryoma Sasaki is a house and techno artist based in Japan, with 138 gigs on sound
 
 Ouchi-S, Paul Leonard, Koichi (Koichiro Okada)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryomasasaki/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryomasasaki/)*

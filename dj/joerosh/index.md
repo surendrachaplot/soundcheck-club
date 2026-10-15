@@ -1,6 +1,6 @@
 # Joe Rosh
 
-Joe Rosh is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Rest Favignana, Sicily on Fri, 16 Oct 2026.
+Joe Rosh is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Rest Favignana, Sicily on Fri, 16 Oct 2026.
 
 Joe Rosh is a techno and house artist, with 35 gigs on soundcheck across Berlin, London, Milan and Naples and 2 more. Often billed alongside Kodacci, San Nicola and Mehmet Alpdogan. Next up: Rest Favignana, Sicily on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Joe Rosh is a techno and house artist, with 35 gigs on soundcheck across Berlin,
 
 Kodacci, San Nicola, Mehmet Alpdogan
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joerosh/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joerosh/)*

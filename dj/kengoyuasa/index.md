@@ -1,14 +1,15 @@
 # Kengo Yuasa
 
-Kengo Yuasa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Spread, Tokyo on Fri, 16 Oct 2026.
+Kengo Yuasa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Spread, Tokyo on Fri, 16 Oct 2026.
 
-Kengo Yuasa is a techno and house artist based in Japan, with 51 gigs on soundcheck across Tokyo. Often billed alongside hiroto yano, Leefia and AMIDAdrive. Next up: Spread, Tokyo on Fri 16 Oct.
+Kengo Yuasa is a techno and house artist based in Japan, with 52 gigs on soundcheck across Tokyo. Often billed alongside hiroto yano, Leefia and AMIDAdrive. Next up: Spread, Tokyo on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Spread | Tokyo |
+| Mon, 16 Nov 2026 | Enter Shibuya | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kengo Yuasa is a techno and house artist based in Japan, with 51 gigs on soundch
 
 hiroto yano, Leefia, AMIDAdrive
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kengoyuasa/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kengoyuasa/)*

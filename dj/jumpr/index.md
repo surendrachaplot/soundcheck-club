@@ -1,6 +1,6 @@
 # Jumpr
 
-Jumpr is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Secret Location , Denver on Fri, 30 Oct 2026.
+Jumpr is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Secret Location , Denver on Fri, 30 Oct 2026.
 
 Jumpr is a techno and house artist based in United States of America, with 46 gigs on soundcheck across Denver, Los Angeles, New York City and San Francisco/Oakland and 2 more. Often billed alongside Fawks, Sholim Eso and Astro. Next up: TBA - Secret Location , Denver on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Jumpr is a techno and house artist based in United States of America, with 46 gi
 
 Fawks, Sholim Eso, Astro (2)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jumpr/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jumpr/)*

@@ -1,6 +1,6 @@
 # Abo Abo
 
-Abo Abo is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 19 Nov 2026.
+Abo Abo is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 19 Nov 2026.
 
 Abo Abo is a techno and experimental artist, with 23 gigs on soundcheck across Amsterdam, Berlin, Brussels and Hamburg and 14 more. Often billed alongside TOMO, Marco Maldarella and Plastique01. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Abo Abo is a techno and experimental artist, with 23 gigs on soundcheck across A
 
 TOMO (2), Marco Maldarella, Plastique01
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abo-1/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abo-1/)*

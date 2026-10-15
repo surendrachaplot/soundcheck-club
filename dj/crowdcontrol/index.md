@@ -1,14 +1,15 @@
 # Crowd Control
 
-Crowd Control is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Ceryle, Egypt on Thu, 15 Oct 2026.
+Crowd Control is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Ceryle, Egypt on Thu, 15 Oct 2026.
 
-Crowd Control is a house and disco artist based in France, with 90 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 19 more. Often billed alongside Maggy Smiss, Baka G and Denyl Brook. Next up: Ceryle, Egypt on Thu 15 Oct.
+Crowd Control is a house and techno artist based in France, with 91 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 19 more. Often billed alongside Maggy Smiss, Baka G and Strandtuch. Next up: Ceryle, Egypt on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | Ceryle | Egypt |
+| Sat, 31 Oct 2026 | La Java | Paris |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Crowd Control is a house and disco artist based in France, with 90 gigs on sound
 
 ## Shares bills with
 
-Maggy Smiss, Baka G, Denyl Brook
+Maggy Smiss, Baka G, Strandtuch
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crowdcontrol/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crowdcontrol/)*

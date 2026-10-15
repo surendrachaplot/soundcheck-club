@@ -1,6 +1,6 @@
 # ALICE XLS
 
-ALICE XLS is a Electro and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Rote Flora, Hamburg on Fri, 23 Oct 2026.
+ALICE XLS is a Electro and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Rote Flora, Hamburg on Fri, 23 Oct 2026.
 
 ALICE XLS is an electro and ghetto tech artist, with 19 gigs on soundcheck across Berlin, Hamburg, Leipzig and Tbilisi. Often billed alongside aitch, Memorycardio and Bunny Tsukino. Next up: Rote Flora, Hamburg on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ ALICE XLS is an electro and ghetto tech artist, with 19 gigs on soundcheck acros
 
 aitch, Memorycardio, Bunny Tsukino
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alicexls/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alicexls/)*

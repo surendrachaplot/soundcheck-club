@@ -1,6 +1,6 @@
 # LA CATHARSIS
 
-LA CATHARSIS is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Araña Club, Madrid on Fri, 16 Oct 2026.
+LA CATHARSIS is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Araña Club, Madrid on Fri, 16 Oct 2026.
 
 LA CATHARSIS is a techno and acid artist, with 11 gigs on soundcheck across Madrid. Often billed alongside Arok Shiva, KZTÀ and Nitoryu. Next up: Araña Club, Madrid on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ LA CATHARSIS is a techno and acid artist, with 11 gigs on soundcheck across Madr
 
 Arok Shiva, KZTÀ, Nitoryu
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lacatharsis/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lacatharsis/)*

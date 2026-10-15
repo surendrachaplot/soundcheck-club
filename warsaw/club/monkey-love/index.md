@@ -1,6 +1,6 @@
 # MONKEY LOVE
 
-MONKEY LOVE is a music venue in Warsaw with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "VINYLOVERS pres. KinkyOutsider x Schmeltzer x Rytmik" on Fri, 16 Oct 2026.
+MONKEY LOVE is a music venue in Warsaw with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "VINYLOVERS pres. KinkyOutsider x Schmeltzer x Rytmik" on Fri, 16 Oct 2026.
 
 MONKEY LOVE is a music venue in Warsaw listed on soundcheck. 5 upcoming gigs, with line-ups including bart ender, Easy Audio, Farry and Fideshi and 2 more. See dates, start times and who's playing. Bulwar Flotylii Pińskiej 1a, 00-468 Warszawa.
 
@@ -10,12 +10,12 @@ MONKEY LOVE is a music venue in Warsaw listed on soundcheck. 5 upcoming gigs, wi
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | VINYLOVERS pres. KinkyOutsider x Schmeltzer x Rytmik | KinkyOutsider, Rytmik, Schmeltzer |
 | Sat, 17 Oct 2026 | Jellin'VITES pres. Farry x Nowosad | Farry, Jellin, Nowosad |
-| Sun, 18 Oct 2026 | Monkey Love presents Dayshift |  |
+| Sun, 18 Oct 2026 | MONKEY LOVE pres. DAYSHIFT |  |
 | Fri, 23 Oct 2026 | MONKEY LOVE PRES. MLS LABEL LAUNCH NIGHT | Easy Audio, Fideshi, bart ender, uiava |
-| Sun, 25 Oct 2026 | Monkey Love presents Dayshift |  |
+| Sun, 25 Oct 2026 | MONKEY LOVE pres. DAYSHIFT |  |
 
 ## Address
 
 Bulwar Flotylii Pińskiej 1a, 00-468 Warszawa, Warsaw
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/monkey-love/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/monkey-love/)*

@@ -1,6 +1,6 @@
 # Concentio
 
-Concentio is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Feijoa, Amsterdam on Sat, 24 Oct 2026.
+Concentio is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Feijoa, Amsterdam on Sat, 24 Oct 2026.
 
 Concentio is a techno and house artist based in Germany, with 39 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Confred, Pajüh and Marius Holm. Next up: Feijoa, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Concentio is a techno and house artist based in Germany, with 39 gigs on soundch
 
 Confred, Pajüh, Marius Holm
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/concentio/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/concentio/)*

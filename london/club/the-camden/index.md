@@ -1,6 +1,6 @@
 # The Camden
 
-The Camden is a music venue in London with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "All About The day Rave The Camden" on Sat, 17 Oct 2026.
+The Camden is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "All About The day Rave The Camden" on Sat, 17 Oct 2026.
 
 The Camden is a music venue in London listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 65 Crowndale Road, Camden, London, NW1 1TN.
 
@@ -16,4 +16,4 @@ The Camden is a music venue in London listed on soundcheck. 3 upcoming gigs. See
 
 65 Crowndale Road, Camden, London, NW1 1TN, London
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-camden/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-camden/)*

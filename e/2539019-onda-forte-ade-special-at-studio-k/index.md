@@ -1,6 +1,6 @@
 # ONDA FORTE - ADE Special at Studio/K
 
-ONDA FORTE - ADE Special at Studio/K on Thu 22 Oct, Amsterdam. 3 artists: Isa Castelari, Not Yet and Pedro da Mata. Bass and Baile Funk. See the line-up on soundcheck.
+ONDA FORTE - ADE Special at Studio/K on Thu 22 Oct, Amsterdam. 4 artists: Guiz, Isa Castelari, Not Yet and Pedro da Mata. Bass and Baile Funk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ ONDA FORTE - ADE Special at Studio/K on Thu 22 Oct, Amsterdam. 3 artists: Isa Ca
 
 ## Line-up
 
+- Guiz
 - Isa Castelari
 - Not Yet (2)
 - Pedro da Mata

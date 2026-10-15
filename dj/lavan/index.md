@@ -1,6 +1,6 @@
 # Lavan
 
-Lavan is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Paloma, Berlin on Fri, 23 Oct 2026.
+Lavan is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Paloma, Berlin on Fri, 23 Oct 2026.
 
 Lavan is a house and disco artist based in United Kingdom, with 35 gigs on soundcheck across Berlin and Düsseldorf. Often billed alongside Quadrakey, Eva Crystaltips and Frau Braun. Next up: Paloma, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Lavan is a house and disco artist based in United Kingdom, with 35 gigs on sound
 
 Quadrakey, Eva Crystaltips, Frau Braun
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lavan/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lavan/)*

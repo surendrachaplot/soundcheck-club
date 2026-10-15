@@ -1,6 +1,6 @@
 # Messina
 
-Messina is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - STADE GEORGES LYVET - VILLEURBANNE, Lyon on Sat, 17 Oct 2026.
+Messina is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - STADE GEORGES LYVET - VILLEURBANNE, Lyon on Sat, 17 Oct 2026.
 
 Messina is a techno and house artist based in France, with 31 gigs on soundcheck across Geneva, Lyon, Montreal and Paris. Often billed alongside Rōse (CH), SUERTE (FR) and CAROLO. Next up: TBA - STADE GEORGES LYVET - VILLEURBANNE, Lyon on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Messina is a techno and house artist based in France, with 31 gigs on soundcheck
 
 Rōse (CH), SUERTE (FR), CAROLO
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/messina/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/messina/)*

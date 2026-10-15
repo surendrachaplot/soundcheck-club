@@ -1,6 +1,6 @@
 # Pavlo Plastikk
 
-Pavlo Plastikk is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Becco, Oslo on Thu, 15 Oct 2026.
+Pavlo Plastikk is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Becco, Oslo on Thu, 15 Oct 2026.
 
 Pavlo Plastikk is a downtempo and house artist based in Ukraine, with 59 gigs on soundcheck across Berlin, Dublin, London and Oslo and 4 more. Often billed alongside Rune Lindbæk, Philipp Markovich and Anton Klint. Next up: Becco, Oslo on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Pavlo Plastikk is a downtempo and house artist based in Ukraine, with 59 gigs on
 
 Rune Lindbæk, Philipp Markovich, Anton Klint
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pavloplastikk/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pavloplastikk/)*

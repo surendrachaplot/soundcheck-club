@@ -1,6 +1,6 @@
 # GWELD
 
-GWELD is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Ministerium Club, Lisbon on Thu, 29 Oct 2026.
+GWELD is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Ministerium Club, Lisbon on Thu, 29 Oct 2026.
 
 GWELD is a techno and industrial artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam, Berlin, Budapest and Lisbon and 2 more. Often billed alongside BØĘRY, KASSIS and SEMPLIFIER. Next up: Ministerium Club, Lisbon on Thu 29 Oct.
 
@@ -23,4 +23,4 @@ GWELD is a techno and industrial artist based in Netherlands, with 7 gigs on sou
 
 BØĘRY, KASSIS, SEMPLIFIER
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gweld/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gweld/)*

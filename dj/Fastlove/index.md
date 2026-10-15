@@ -1,6 +1,6 @@
 # Fastlove
 
-Fastlove is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The White Hotel, Manchester on Fri, 16 Oct 2026.
+Fastlove is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The White Hotel, Manchester on Fri, 16 Oct 2026.
 
 Fastlove is a house and techno artist based in United Kingdom, with 80 gigs on soundcheck across Amsterdam, Leeds, Liverpool and London and 4 more. Often billed alongside Aiden Francis, Merve and Angel D'lite. Next up: The White Hotel, Manchester on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Fastlove is a house and techno artist based in United Kingdom, with 80 gigs on s
 
 Aiden Francis, Merve, Angel D'lite
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Fastlove/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Fastlove/)*

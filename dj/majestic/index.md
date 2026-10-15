@@ -1,8 +1,8 @@
 # Majestic
 
-Majestic is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Mimosa, London on Fri, 16 Oct 2026.
+Majestic is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Mimosa, London on Fri, 16 Oct 2026.
 
-Majestic is a house and tech house artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Ibiza and 5 more. Often billed alongside Charlotte Van de Peer, Sammy Porter and Beyond Chicago. Next up: Mimosa, London on Fri 16 Oct.
+Majestic is a house and tech house artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Ibiza and 5 more. Often billed alongside Charlotte Van de Peer, Sammy Porter and Beyond Chicago. Next up: Mimosa, London on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Majestic is a house and tech house artist based in United Kingdom, with 62 gigs 
 | Fri, 16 Oct 2026 | Mimosa | London |
 | Sat, 24 Oct 2026 | Flat Iron Square | London |
 | Sun, 25 Oct 2026 | Het Sieraad | Amsterdam |
+| Sat, 14 Nov 2026 | Ministry Of Sound | London |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Majestic is a house and tech house artist based in United Kingdom, with 62 gigs 
 
 Charlotte Van de Peer, Sammy Porter, Beyond Chicago
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majestic/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majestic/)*

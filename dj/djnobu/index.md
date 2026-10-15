@@ -1,8 +1,8 @@
 # DJ Nobu
 
-DJ Nobu is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
+DJ Nobu is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
 
-DJ Nobu is a techno and house artist based in Japan, with 229 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 60 more. Often billed alongside Gabrielle Kwarteng, Wata Igarashi and DVS1. Next up: TILLATEC, Amsterdam on Thu 22 Oct.
+DJ Nobu is a techno and house artist based in Japan, with 230 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 60 more. Often billed alongside Gabrielle Kwarteng, Wata Igarashi and DVS1. Next up: TILLATEC, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ DJ Nobu is a techno and house artist based in Japan, with 229 gigs on soundcheck
 | Sat, 24 Oct 2026 | H7 Warehouse | Amsterdam |
 | Fri, 30 Oct 2026 | WOMB | Tokyo |
 | Sat, 21 Nov 2026 | Pawnshop | Taipei |
+| Sat, 12 Dec 2026 | FOLD | London |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ DJ Nobu is a techno and house artist based in Japan, with 229 gigs on soundcheck
 
 Gabrielle Kwarteng, Wata Igarashi, DVS1
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*

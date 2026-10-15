@@ -1,8 +1,8 @@
 # Carrier
 
-Carrier is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu, 15 Oct 2026.
+Carrier is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu, 15 Oct 2026.
 
-Carrier is a techno and experimental artist based in United Kingdom, with 81 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 32 more. Often billed alongside Emily Jeanne, Patrick Russell and Zohar. Next up: The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu 15 Oct.
+Carrier is a techno and experimental artist based in United Kingdom, with 82 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 33 more. Often billed alongside Emily Jeanne, Patrick Russell and Zohar. Next up: The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Carrier is a techno and experimental artist based in United Kingdom, with 81 gig
 | Thu, 15 Oct 2026 | The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller | Cologne |
 | Thu, 15 Oct 2026 | TBA - Multi venue | Cologne |
 | Fri, 30 Oct 2026 | Macadam | Nantes |
+| Fri, 20 Nov 2026 | Archa+ | Prague |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Carrier is a techno and experimental artist based in United Kingdom, with 81 gig
 
 Emily Jeanne, Patrick Russell, Zohar
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carrier/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carrier/)*

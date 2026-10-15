@@ -1,8 +1,8 @@
 # SCNR
 
-SCNR is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at MÄX, Zurich on Sat, 17 Oct 2026.
+SCNR is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at MÄX, Zurich on Sat, 17 Oct 2026.
 
-SCNR is a techno and house artist based in Switzerland, with 6 gigs on soundcheck across Zurich. Often billed alongside Jacom (Adroit), Cortez and Tajara. Next up: MÄX, Zurich on Sat 17 Oct.
+SCNR is a techno and house artist based in Switzerland, with 6 gigs on soundcheck across Zurich. Often billed alongside Cortez, Tajara and GCOD. Next up: MÄX, Zurich on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ SCNR is a techno and house artist based in Switzerland, with 6 gigs on soundchec
 
 ## Shares bills with
 
-Jacom (Adroit), Cortez (2), Tajara
+Cortez (2), Tajara, GCOD
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scnr/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scnr/)*

@@ -1,6 +1,6 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "ORKA X SAKRAL: BIIA, Dica, BOTICKA, SKOLLARIS, PAULINE D7" on Fri, 16 Oct 2026.
+Kilomètre25 is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "ORKA X SAKRAL: BIIA, Dica, BOTICKA, SKOLLARIS, PAULINE D7" on Fri, 16 Oct 2026.
 
 Kilomètre25 is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including ASLO, Avenir, BIIA and BOTICKA and 2 more. See dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
@@ -19,4 +19,4 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 6 upcoming gigs, wi
 
 8 Boulevard MacDonald 75019 Paris, Paris
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*

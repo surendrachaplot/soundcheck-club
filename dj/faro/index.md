@@ -1,8 +1,8 @@
 # Faro
 
-Faro is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Jazz Cafe, London on Sat, 17 Oct 2026.
+Faro is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Jazz Cafe, London on Sat, 17 Oct 2026.
 
-Faro is a house and disco artist based in United Kingdom, with 65 gigs on soundcheck across Berlin, Brighton, Edinburgh and London and 3 more. Often billed alongside LEV (UK), Daisha and Jamesey. Next up: The Jazz Cafe, London on Sat 17 Oct.
+Faro is a house and disco artist based in United Kingdom, with 66 gigs on soundcheck across Berlin, Brighton, Edinburgh and London and 3 more. Often billed alongside LEV (UK), Daisha and Jamesey. Next up: The Jazz Cafe, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Faro is a house and disco artist based in United Kingdom, with 65 gigs on soundc
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | The Jazz Cafe | London |
 | Sat, 24 Oct 2026 | Acanteen | South-east |
+| Sat, 31 Oct 2026 | The BBE Store | London |
 | Sat, 14 Nov 2026 | Mssng Pieces | Nottingham |
 
 ## Recently played
@@ -27,4 +28,4 @@ Faro is a house and disco artist based in United Kingdom, with 65 gigs on soundc
 
 LEV (UK), Daisha, Jamesey
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faro/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faro/)*

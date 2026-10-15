@@ -1,6 +1,6 @@
 # Bad Boombox
 
-Bad Boombox is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Lofi, Amsterdam on Thu, 22 Oct 2026.
+Bad Boombox is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Lofi, Amsterdam on Thu, 22 Oct 2026.
 
 Bad Boombox is a techno and trance artist based in Bulgaria, with 207 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Mischluft, Janis Zielinski and Ollie Lishman. Next up: Lofi, Amsterdam on Thu 22 Oct.
 
@@ -29,4 +29,4 @@ Bad Boombox is a techno and trance artist based in Bulgaria, with 207 gigs on so
 
 Mischluft, Janis Zielinski, Ollie Lishman
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badboombox/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badboombox/)*

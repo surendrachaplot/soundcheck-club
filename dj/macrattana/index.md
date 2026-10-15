@@ -1,6 +1,6 @@
 # Mac Rattana
 
-Mac Rattana is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at 12 x 12, Bangkok on Fri, 16 Oct 2026.
+Mac Rattana is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at 12 x 12, Bangkok on Fri, 16 Oct 2026.
 
 Mac Rattana is a minimal and house artist based in Thailand, with 24 gigs on soundcheck across Bangkok. Often billed alongside Krit Su, Gishiyama and DJ Krit Morton. Next up: 12 x 12, Bangkok on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Mac Rattana is a minimal and house artist based in Thailand, with 24 gigs on sou
 
 Krit Su, Gishiyama, DJ Krit Morton
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/macrattana/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/macrattana/)*

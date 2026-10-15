@@ -1,6 +1,6 @@
 # Slave To The Rave 43 at OST
 
-Slave To The Rave 43 at OST on Sat 12 Dec, Berlin. 3 artists: CJ Bolland, Fish56Octagon and Huamaniser. See the line-up on soundcheck.
+Slave To The Rave 43 at OST on Sat 12 Dec, Berlin. 4 artists: Beau Didier, CJ Bolland, Fish56Octagon and Huamaniser. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Slave To The Rave 43 at OST on Sat 12 Dec, Berlin. 3 artists: CJ Bolland, Fish56
 
 ## Line-up
 
+- Beau Didier
 - CJ Bolland
 - Fish56Octagon
 - Huamaniser

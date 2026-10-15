@@ -1,6 +1,6 @@
 # DJ-CK
 
-DJ-CK is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Waiting Room, London on Sat, 17 Oct 2026.
+DJ-CK is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Waiting Room, London on Sat, 17 Oct 2026.
 
 DJ-CK is a house and techno artist based in Ireland, with 43 gigs on soundcheck across Antwerp, Cork, Dublin and London and 1 more. Often billed alongside Katiaki, Toraigh and GLUT Sound. Next up: The Waiting Room, London on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ DJ-CK is a house and techno artist based in Ireland, with 43 gigs on soundcheck 
 
 Katiaki, Toraigh, GLUT Sound
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-ck/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-ck/)*

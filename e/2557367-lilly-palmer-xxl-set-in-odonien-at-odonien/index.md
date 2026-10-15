@@ -1,6 +1,6 @@
 # Lilly Palmer XXL-Set in Odonien at Odonien
 
-Lilly Palmer XXL-Set in Odonien on Sat 17 Oct, Cologne. 1 artist: Lilly Palmer. Trance and Techno. See the line-up on soundcheck.
+Lilly Palmer XXL-Set in Odonien on Sat 17 Oct, Cologne. 3 artists: Lilly Palmer, Mylena and SERA. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ Lilly Palmer XXL-Set in Odonien on Sat 17 Oct, Cologne. 1 artist: Lilly Palmer. 
 ## Line-up
 
 - Lilly Palmer
+- Mylena
+- SERA (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2557367-lilly-palmer-xxl-set-in-odonien-at-odonien/)*

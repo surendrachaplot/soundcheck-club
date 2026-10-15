@@ -1,6 +1,6 @@
 # Sweeney
 
-Sweeney is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at King Tut's Wah Wah Hut, Glasgow on Thu, 3 Dec 2026.
+Sweeney is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at King Tut's Wah Wah Hut, Glasgow on Thu, 3 Dec 2026.
 
 Sweeney is a house and garage artist based in United Kingdom, with 49 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow and 2 more. Often billed alongside Sally Swan, Jardine and Tais-Toi. Next up: King Tut's Wah Wah Hut, Glasgow on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ Sweeney is a house and garage artist based in United Kingdom, with 49 gigs on so
 
 Sally Swan, Jardine, Tais-Toi
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweeney/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweeney/)*

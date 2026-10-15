@@ -1,14 +1,16 @@
 # AI (10)
 
-AI (10) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Saloon, Tokyo on Thu, 29 Oct 2026.
+AI (10) is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Saloon, Tokyo on Thu, 29 Oct 2026.
 
-AI is a techno and house artist based in Japan, with 38 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Yui (JP), tnseei and Kurea. Next up: Saloon, Tokyo on Thu 29 Oct.
+AI is a techno and house artist based in Japan, with 40 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Yui (JP), tnseei and Isshin. Next up: Saloon, Tokyo on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Saloon | Tokyo |
+| Fri, 30 Oct 2026 | Circus Tokyo | Tokyo |
+| Sat, 31 Oct 2026 | Circus Osaka | Osaka |
 | Fri, 13 Nov 2026 | VENT | Tokyo |
 
 ## Recently played
@@ -24,6 +26,6 @@ AI is a techno and house artist based in Japan, with 38 gigs on soundcheck acros
 
 ## Shares bills with
 
-Yui (JP), tnseei, Kurea
+Yui (JP), tnseei, Isshin
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ai-10/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ai-10/)*

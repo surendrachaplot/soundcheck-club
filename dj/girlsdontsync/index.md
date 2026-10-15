@@ -1,14 +1,15 @@
 # Girls Don't Sync
 
-Girls Don't Sync is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at fabric, London on Fri, 16 Oct 2026.
+Girls Don't Sync is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at fabric, London on Fri, 16 Oct 2026.
 
-Girls Don't Sync is a garage and house artist based in United Kingdom, with 119 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 26 more. Often billed alongside Interplanetary Criminal, Sophia Violet and Rich Reason. Next up: fabric, London on Fri 16 Oct.
+Girls Don't Sync is a garage and house artist based in United Kingdom, with 120 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 26 more. Often billed alongside Interplanetary Criminal, Sophia Violet and Eats Everything. Next up: fabric, London on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | fabric | London |
+| Sat, 17 Oct 2026 | The Prospect Building | Bristol |
 | Sat, 24 Oct 2026 | Blackstone Street Warehouse | Liverpool |
 | Sat, 31 Oct 2026 | Gaswrx Birmingham | London |
 | Sat, 31 Oct 2026 | Electric Studios | Sheffield |
@@ -26,6 +27,6 @@ Girls Don't Sync is a garage and house artist based in United Kingdom, with 119 
 
 ## Shares bills with
 
-Interplanetary Criminal, Sophia Violet, Rich Reason
+Interplanetary Criminal, Sophia Violet, Eats Everything
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsdontsync/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsdontsync/)*

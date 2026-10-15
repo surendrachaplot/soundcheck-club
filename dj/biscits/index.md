@@ -1,6 +1,6 @@
 # Biscits
 
-Biscits is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Night We Met, Nashville on Sat, 31 Oct 2026.
+Biscits is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Night We Met, Nashville on Sat, 31 Oct 2026.
 
 Biscits is a house and tech house artist based in United Kingdom, with 72 gigs on soundcheck across Austin, Boston, Brisbane and Chicago and 24 more. Often billed alongside Sonny Fodera, Gorgon City and Azzecca. Next up: Night We Met, Nashville on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Biscits is a house and tech house artist based in United Kingdom, with 72 gigs o
 
 Sonny Fodera, Gorgon City, Azzecca
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biscits/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biscits/)*

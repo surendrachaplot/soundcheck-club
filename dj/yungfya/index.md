@@ -1,8 +1,8 @@
 # yungfya
 
-yungfya is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
+yungfya is a Bass and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
 
-yungfya is a bass and house artist based in United Kingdom, with 88 gigs on soundcheck across Barcelona, Berlin, Brighton and Cologne and 8 more. Often billed alongside Dangermami, Punani and Formella. Next up: DRUMSHEDS, London on Sat 17 Oct.
+yungfya is a bass and house artist based in United Kingdom, with 89 gigs on soundcheck across Barcelona, Berlin, Brighton and Cologne and 8 more. Often billed alongside Dangermami, Punani and Formella. Next up: DRUMSHEDS, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ yungfya is a bass and house artist based in United Kingdom, with 88 gigs on soun
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | DRUMSHEDS | London |
 | Sat, 7 Nov 2026 | AMT | Berlin |
+| Fri, 13 Nov 2026 | MS Stubnitz | Hamburg |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ yungfya is a bass and house artist based in United Kingdom, with 88 gigs on soun
 
 Dangermami, Punani, Formella
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yungfya/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yungfya/)*

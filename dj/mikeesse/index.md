@@ -1,14 +1,14 @@
 # Mike Esse
 
-Mike Esse is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Q35 WAREHOUSE, Turin on Sun, 18 Oct 2026.
+Mike Esse is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Q35 WAREHOUSE, Turin on Sat, 17 Oct 2026.
 
-Mike Esse is a techno artist based in Italy, with 17 gigs on soundcheck across Turin. Often billed alongside Teeo, Rytm and Aberra. Next up: Q35 WAREHOUSE, Turin on Sun 18 Oct.
+Mike Esse is a techno artist based in Italy, with 17 gigs on soundcheck across Turin. Often billed alongside Teeo, Rytm and Aberra. Next up: Q35 WAREHOUSE, Turin on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Q35 WAREHOUSE | Turin |
+| Sat, 17 Oct 2026 | Q35 WAREHOUSE | Turin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Mike Esse is a techno artist based in Italy, with 17 gigs on soundcheck across T
 
 Teeo, Rytm, Aberra
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeesse/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeesse/)*

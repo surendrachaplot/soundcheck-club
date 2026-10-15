@@ -1,6 +1,6 @@
 # dylan.james
 
-dylan.james is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at The Greyhound, London on Fri, 27 Nov 2026.
+dylan.james is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at The Greyhound, London on Fri, 27 Nov 2026.
 
 dylan.james is a trance and progressive house artist based in United States of America, with 8 gigs on soundcheck across London and Prague. Often billed alongside turn_t, DELARA and FITS ME FUNNY. Next up: The Greyhound, London on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ dylan.james is a trance and progressive house artist based in United States of A
 
 turn_t, DELARA, FITS ME FUNNY
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylan.james/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylan.james/)*

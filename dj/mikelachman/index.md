@@ -1,6 +1,6 @@
 # Mike Lachman
 
-Mike Lachman is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Sat, 24 Oct 2026.
+Mike Lachman is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Sat, 24 Oct 2026.
 
 Mike Lachman is a house and techno artist based in Netherlands, with 2 gigs on soundcheck across Amsterdam. Often billed alongside Joel DeMarzo, AZA and Age of Aconitum. Next up: Amsterdams Most Wanted, Amsterdam on Sat 24 Oct.
 
@@ -15,4 +15,4 @@ Mike Lachman is a house and techno artist based in Netherlands, with 2 gigs on s
 
 Joel DeMarzo, AZA, Age of Aconitum
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikelachman/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikelachman/)*

@@ -1,8 +1,8 @@
 # Chris Lake
 
-Chris Lake is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Blow, Buenos Aires on Fri, 16 Oct 2026.
+Chris Lake is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Blow, Buenos Aires on Fri, 16 Oct 2026.
 
-Chris Lake is a house and tech house artist based in United Kingdom, with 77 gigs on soundcheck across Austin, Barcelona, Boston and Buenos Aires and 26 more. Often billed alongside FISHER, Loco Dice and Boys Noize. Next up: Blow, Buenos Aires on Fri 16 Oct.
+Chris Lake is a house and tech house artist based in United Kingdom, with 78 gigs on soundcheck across Austin, Barcelona, Boston and Buenos Aires and 26 more. Often billed alongside FISHER, Loco Dice and Boys Noize. Next up: Blow, Buenos Aires on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Chris Lake is a house and tech house artist based in United Kingdom, with 77 gig
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Blow | Buenos Aires |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
+| Sat, 26 Dec 2026 | Echostage | Washington DC |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 
@@ -28,4 +29,4 @@ Chris Lake is a house and tech house artist based in United Kingdom, with 77 gig
 
 FISHER, Loco Dice, Boys Noize
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislake/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislake/)*

@@ -1,6 +1,6 @@
 # camb
 
-camb is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Thu, 22 Oct 2026.
+camb is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Thu, 22 Oct 2026.
 
 camb is a house and techno artist, with 10 gigs on soundcheck across Washington DC. Often billed alongside $et, Bridget and DJ Dubu. Next up: Jimmy Valentine's Lonely Hearts Club, Washington DC on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ camb is a house and techno artist, with 10 gigs on soundcheck across Washington 
 
 $et, Bridget, DJ Dubu
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camb/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camb/)*

@@ -1,8 +1,8 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 19 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Jackie Mitoo (A Tribute)" on Thu, 15 Oct 2026.
+The Fox and Firkin is a music venue in London with 20 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Jackie Mitoo (A Tribute)" on Thu, 15 Oct 2026.
 
-The Fox and Firkin is a music venue in London listed on soundcheck. 19 upcoming gigs, with line-ups including African Head Charge, Colleen 'Cosmo' Murphy, Danny Rankin and Dexta and 2 more. See dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
+The Fox and Firkin is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including African Head Charge, Colleen 'Cosmo' Murphy, Danny Rankin and Dexta and 2 more. See dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Fox and Firkin is a music venue in London listed on soundcheck. 19 upcoming 
 
 316 Lewisham High Street London SE136JZ, London
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*

@@ -1,6 +1,6 @@
 # Sonnenraum
 
-Sonnenraum is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "The Point of NO RETURN" on Sat, 17 Oct 2026.
+Sonnenraum is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "The Point of NO RETURN" on Sat, 17 Oct 2026.
 
 Sonnenraum is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Sound Metaphors Djs. See dates, start times and who's playing. Eichenstraße 4A, 12435 Berlin, Germany.
 
@@ -16,4 +16,4 @@ Sonnenraum is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, wit
 
 Eichenstraße 4A, 12435 Berlin, Germany, Berlin
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sonnenraum/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sonnenraum/)*

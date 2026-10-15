@@ -1,8 +1,8 @@
 # Meet Berlage
 
-Meet Berlage is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Canapa-x invite Discosabotage records" on Thu, 22 Oct 2026.
+Meet Berlage is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Canapa-x invite Discosabotage records" on Thu, 22 Oct 2026.
 
-Meet Berlage is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Mariiin, ALE_MELLONI, Alex Stein and A.M. Project and 2 more. See dates, start times and who's playing. Oudebrugsteeg 9, 1012 JN Amsterdam.
+Meet Berlage is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Mariiin, ALE_MELLONI, Alex Stein and A.M. Project and 2 more. See dates, start times and who's playing. Oudebrugsteeg 9, 1012 JN Amsterdam.
 
 ## What's on
 
@@ -15,9 +15,10 @@ Meet Berlage is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs
 | Fri, 23 Oct 2026 | CrunchyHouse ADE Gathering '26 | A.M. Project, ALE_MELLONI, Klevi Koci, brotherz |
 | Sat, 24 Oct 2026 | ADE EAST Techno Collective - THE AFTER | Jayzo, PunkFunkLove, Xiorro, rebrånded |
 | Sat, 24 Oct 2026 | ADE  with a Twist of Orange & A Pinch of Spice | Haze (1), JAXX NOVEIRA |
+| Sun, 25 Oct 2026 | KE-RIKO x ADE 24H Music Marathon - Latin House ADE Closing Party | Argüello, BRA/DAN, CasaNova, Gandalf, INOFF, Jurgen Booi, Leandro (DE), Planas |
 
 ## Address
 
 Oudebrugsteeg 9, 1012 JN Amsterdam, Amsterdam
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/meet-berlage/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/meet-berlage/)*

@@ -1,14 +1,16 @@
 # DJ maddog
 
-DJ maddog is a Club and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
+DJ maddog is a Club and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
 
-DJ maddog is a club and hardcore artist based in United States of America, with 51 gigs on soundcheck across Boston, Brussels, Byron Bay and Cardiff and 13 more. Often billed alongside Chelita, Replicator and Roiju. Next up: Airport Würzburg, Nürnberg on Fri 16 Oct.
+DJ maddog is a club and hardcore artist based in United States of America, with 53 gigs on soundcheck across Boston, Brussels, Byron Bay and Cardiff and 13 more. Often billed alongside Chelita, Replicator and Roiju. Next up: Airport Würzburg, Nürnberg on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
+| Fri, 16 Oct 2026 | TBA - Crown Night Club 275 Tremont St, Boston, MA 02116 | Boston |
+| Thu, 29 Oct 2026 | TBA - Then House 29 locust street. Brooklyn | New York City |
 | Fri, 30 Oct 2026 | TBA - Warehouse Location  | Boston |
 
 ## Recently played
@@ -26,4 +28,4 @@ DJ maddog is a club and hardcore artist based in United States of America, with 
 
 Chelita, Replicator, Roiju
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaddog/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaddog/)*

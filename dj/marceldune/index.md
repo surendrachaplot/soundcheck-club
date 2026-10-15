@@ -1,6 +1,6 @@
 # MarcelDune
 
-MarcelDune is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Mia Mao, Paris on Fri, 16 Oct 2026.
+MarcelDune is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Mia Mao, Paris on Fri, 16 Oct 2026.
 
 MarcelDune is a techno and house artist based in Greece, with 66 gigs on soundcheck across Amsterdam, Athens, Berlin and Brighton and 11 more. Often billed alongside Amphia, RayRay and ASHTREY. Next up: Mia Mao, Paris on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ MarcelDune is a techno and house artist based in Greece, with 66 gigs on soundch
 
 Amphia, RayRay, ASHTREY
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldune/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldune/)*

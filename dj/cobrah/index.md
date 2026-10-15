@@ -1,6 +1,6 @@
 # COBRAH
 
-COBRAH is a Club and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at DRUMSHEDS, London on Sat, 24 Oct 2026.
+COBRAH is a Club and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at DRUMSHEDS, London on Sat, 24 Oct 2026.
 
 COBRAH is a club and techno artist based in Sweden, with 45 gigs on soundcheck across Amsterdam, Barcelona, Brisbane and Bristol and 18 more. Often billed alongside Job Jobse, TAAHLIAH and Adam Kraft. Next up: DRUMSHEDS, London on Sat 24 Oct.
 
@@ -30,4 +30,4 @@ COBRAH is a club and techno artist based in Sweden, with 45 gigs on soundcheck a
 
 Job Jobse, TAAHLIAH, Adam Kraft
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cobrah/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cobrah/)*

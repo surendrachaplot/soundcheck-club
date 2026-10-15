@@ -1,6 +1,6 @@
 # OHM
 
-OHM is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Fear Of Silence x Ghosttown" on Thu, 15 Oct 2026.
+OHM is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Fear Of Silence x Ghosttown" on Thu, 15 Oct 2026.
 
 OHM is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including aeriform, AliA, Amaliah and Ario and 2 more. See dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
@@ -23,4 +23,4 @@ OHM is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line
 
 Köpenicker Str. 70, 10179 Berlin, Germany, Berlin
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*

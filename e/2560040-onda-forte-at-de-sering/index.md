@@ -1,6 +1,6 @@
 # ONDA FORTE at De Sering
 
-ONDA FORTE at De Sering on Fri 6 Nov, Amsterdam. 4 artists: AAlva, Not Yet, Pedro da Mata and Stupid Crew. Bass and Baile Funk. See the line-up on soundcheck.
+ONDA FORTE at De Sering on Fri 6 Nov, Amsterdam. 5 artists: AAlva, Guiz, Not Yet and Pedro da Mata and 1 more. Bass and Baile Funk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ ONDA FORTE at De Sering on Fri 6 Nov, Amsterdam. 4 artists: AAlva, Not Yet, Pedr
 ## Line-up
 
 - AAlva
+- Guiz
 - Not Yet (2)
 - Pedro da Mata
 - Stupid Crew

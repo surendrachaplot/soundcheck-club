@@ -1,6 +1,6 @@
 # Shannen SP
 
-Shannen SP is a Amapiano and Club artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Dabadaba, North on Fri, 23 Oct 2026.
+Shannen SP is a Amapiano and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Dabadaba, North on Fri, 23 Oct 2026.
 
 Shannen SP is an amapiano and club artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 19 more. Often billed alongside Bok Bok, Ikonika and Nico Adomako. Next up: Dabadaba, North on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Shannen SP is an amapiano and club artist based in United Kingdom, with 64 gigs 
 
 Bok Bok, Ikonika, Nico Adomako
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shannensp/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shannensp/)*

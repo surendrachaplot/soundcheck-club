@@ -1,6 +1,6 @@
 # Bress Underground
 
-Bress Underground is a House and UK Funky artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Jmes, Berlin on Thu, 22 Oct 2026.
+Bress Underground is a House and UK Funky artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Jmes, Berlin on Thu, 22 Oct 2026.
 
 Bress Underground is a house and uk funky artist based in Italy, with 7 gigs on soundcheck across Berlin. Often billed alongside Ana Molina, Carlo and Ruff Stuff. Next up: Jmes, Berlin on Thu 22 Oct.
 
@@ -23,4 +23,4 @@ Bress Underground is a house and uk funky artist based in Italy, with 7 gigs on 
 
 Ana Molina, Carlo, Ruff Stuff
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bressunderground/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bressunderground/)*

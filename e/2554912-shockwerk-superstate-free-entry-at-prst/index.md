@@ -1,6 +1,6 @@
 # shockwerk & Superstate FREE ENTRY at PRST
 
-shockwerk & Superstate FREE ENTRY at PRST on Thu 15 Oct, Vienna. 2 artists: C12 and lex_shockwerk. Techno and House. See the line-up on soundcheck.
+shockwerk & Superstate FREE ENTRY at PRST on Thu 15 Oct, Vienna. 3 artists: C12, Fil Palmer and lex_shockwerk. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ shockwerk & Superstate FREE ENTRY at PRST on Thu 15 Oct, Vienna. 2 artists: C12 
 ## Line-up
 
 - C12 (1)
+- Fil Palmer
 - lex_shockwerk
 
 *Source: [soundcheck](https://soundcheck.club/e/2554912-shockwerk-superstate-free-entry-at-prst/)*

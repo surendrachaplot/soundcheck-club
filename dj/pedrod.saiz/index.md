@@ -1,6 +1,6 @@
 # Pedro D. Saiz
 
-Pedro D. Saiz is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Tokyo on Sun, 18 Oct 2026.
+Pedro D. Saiz is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Tokyo on Sun, 18 Oct 2026.
 
 Pedro D. Saiz is an electronica and experimental artist based in Spain, with 22 gigs on soundcheck across Barcelona, Kyoto, Madrid and Osaka and 2 more. Often billed alongside Dichas, Bianca Lexis and 3rill. Next up: TBA, Tokyo on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Pedro D. Saiz is an electronica and experimental artist based in Spain, with 22 
 
 Dichas, Bianca Lexis, 3rill
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrod.saiz/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrod.saiz/)*

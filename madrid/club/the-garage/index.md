@@ -1,6 +1,6 @@
 # The Garage
 
-The Garage is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Dennis Cruz - ALL DAY LONG" on Sat, 17 Oct 2026.
+The Garage is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Dennis Cruz - ALL DAY LONG" on Sat, 17 Oct 2026.
 
 The Garage is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, with line-ups including Alba Franch, Azyr, Dennis Cruz and ines isla and 2 more. See dates, start times and who's playing. Calle Isla de Java 2, 28034 Madrid.
 
@@ -16,4 +16,4 @@ The Garage is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, wit
 
 Calle Isla de Java 2, 28034 Madrid, Madrid
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-garage/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-garage/)*

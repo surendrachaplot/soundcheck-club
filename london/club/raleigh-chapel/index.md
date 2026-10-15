@@ -1,6 +1,6 @@
 # Raleigh Chapel
 
-Raleigh Chapel is a music venue in London with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Hasfeldt presents Play Me Like One of the Others" on Thu, 15 Oct 2026.
+Raleigh Chapel is a music venue in London with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Hasfeldt presents Play Me Like One of the Others" on Thu, 15 Oct 2026.
 
 Raleigh Chapel is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Chloe Lula, Colombian Drone Mafia, Flora Yin-Wong and Hasfeldt and 2 more. See dates, start times and who's playing. 138 Church Walk, N16 8QQ, London UK.
 
@@ -19,4 +19,4 @@ Raleigh Chapel is a music venue in London listed on soundcheck. 6 upcoming gigs,
 
 138 Church Walk, N16 8QQ, London UK, London
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/raleigh-chapel/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/raleigh-chapel/)*

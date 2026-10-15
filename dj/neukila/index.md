@@ -1,6 +1,6 @@
 # Neukila
 
-Neukila is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Versalles 94, Mexico City on Fri, 16 Oct 2026.
+Neukila is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Versalles 94, Mexico City on Fri, 16 Oct 2026.
 
 Neukila is a bass and drum & bass artist based in Mexico, with 27 gigs on soundcheck across Mexico City. Often billed alongside Ekcent, Vinil Motion and Redeker. Next up: Versalles 94, Mexico City on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Neukila is a bass and drum & bass artist based in Mexico, with 27 gigs on soundc
 
 Ekcent, Vinil Motion, Redeker
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neukila/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neukila/)*

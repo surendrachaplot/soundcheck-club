@@ -1,24 +1,25 @@
 # Gabbs
 
-Gabbs is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 16 Oct 2026.
+Gabbs is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 16 Oct 2026.
 
-Gabbs is a house and techno artist based in Italy, with 191 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 40 more. Often billed alongside Alexia Glensy, Alex Dima and Cap. Next up: Gallery 1986, Vilnius on Fri 16 Oct.
+Gabbs is a house and techno artist based in Italy, with 193 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 40 more. Often billed alongside Alexia Glensy, Alex Dima and Cap. Next up: Gallery 1986, Vilnius on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Gallery 1986 | Vilnius |
+| Sat, 17 Oct 2026 | THE MAGICK BAR | Rome |
 | Fri, 23 Oct 2026 | Studionotte | Milan |
 | Sat, 24 Oct 2026 | Under Bron | Stockholm |
 | Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Sat, 31 Oct 2026 | Club Guesthouse | Bucharest |
 | Fri, 6 Nov 2026 | Lasociaciøn | Madrid |
+| Fri, 20 Nov 2026 | Studio Club Malaga | Malaga |
 | Sat, 21 Nov 2026 | Concept Haus | Manchester |
 | Sat, 28 Nov 2026 | BRET | Amsterdam |
 | Sat, 28 Nov 2026 | BRET | Amsterdam |
 | Sat, 5 Dec 2026 | Kapsule | Liverpool |
-| Fri, 1 Jan 2027 | TBA | Barcelona |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ Gabbs is a house and techno artist based in Italy, with 191 gigs on soundcheck a
 
 Alexia Glensy, Alex Dima, Cap
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*

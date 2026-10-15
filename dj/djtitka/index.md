@@ -1,6 +1,6 @@
 # DJ titka
 
-DJ titka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 18 Oct 2026.
+DJ titka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 18 Oct 2026.
 
 DJ titka is a house and techno artist based in Canada, with 12 gigs on soundcheck across Berlin. Often billed alongside Ká (DE), Triqi and INVERNO. Next up: Crack Bellmer, Berlin on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ DJ titka is a house and techno artist based in Canada, with 12 gigs on soundchec
 
 Ká (DE), Triqi, INVERNO
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtitka/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtitka/)*

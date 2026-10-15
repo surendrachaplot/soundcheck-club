@@ -1,6 +1,6 @@
 # iigong
 
-iigong is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Nué Seoul, Seoul on Sat, 17 Oct 2026.
+iigong is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Nué Seoul, Seoul on Sat, 17 Oct 2026.
 
 iigong is a house and disco artist, with 16 gigs on soundcheck across Seoul. Often billed alongside Gumi, DOHWA and Afrodite. Next up: Nué Seoul, Seoul on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ iigong is a house and disco artist, with 16 gigs on soundcheck across Seoul. Oft
 
 Gumi, DOHWA, Afrodite (2)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iigong/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iigong/)*

@@ -1,8 +1,8 @@
 # Ms. Mada
 
-Ms. Mada is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Ms. Mada is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Ms. Mada is a house and tech house artist based in United States of America, with 233 gigs on soundcheck across Amsterdam, Barcelona, Chicago and Ibiza and 9 more. Often billed alongside Danyelino, Bakke and Dennis Cruz. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Ms. Mada is a house and tech house artist based in United States of America, with 234 gigs on soundcheck across Amsterdam, Barcelona, Chicago and Ibiza and 9 more. Often billed alongside Danyelino, Bakke and Dennis Cruz. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ms. Mada is a house and tech house artist based in United States of America, wit
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 24 Oct 2026 | Club Space Miami | Miami |
 | Sat, 31 Oct 2026 | Club Space Miami | Miami |
+| Fri, 6 Nov 2026 | Jolene Downtown Miami | Miami |
 | Sat, 14 Nov 2026 | Club Space Miami | Miami |
 | Fri, 20 Nov 2026 | Club Space Miami | Miami |
 
@@ -29,4 +30,4 @@ Ms. Mada is a house and tech house artist based in United States of America, wit
 
 Danyelino, Bakke, Dennis Cruz
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.mada/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.mada/)*

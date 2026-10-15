@@ -1,6 +1,6 @@
 # Constructible
 
-Constructible is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+Constructible is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
 
 Constructible is a techno and ambient artist based in United States of America, with 11 gigs on soundcheck across New York City and Washington DC. Often billed alongside Scotia, boy_c0ded and crnk.dgtl. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Constructible is a techno and ambient artist based in United States of America, 
 
 Scotia, boy_c0ded, crnk.dgtl
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/constructible/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/constructible/)*

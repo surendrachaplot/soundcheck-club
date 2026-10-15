@@ -1,6 +1,6 @@
 # Sixtroke
 
-Sixtroke is a House and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at The Wych, Toronto on Fri, 16 Oct 2026.
+Sixtroke is a House and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at The Wych, Toronto on Fri, 16 Oct 2026.
 
 Sixtroke is a house and hardcore artist based in Canada, with 28 gigs on soundcheck across Toronto. Often billed alongside Hycastle, 25ohms and 666.pastel. Next up: The Wych, Toronto on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Sixtroke is a house and hardcore artist based in Canada, with 28 gigs on soundch
 
 Hycastle, 25ohms, 666.pastel
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sixtroke/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sixtroke/)*

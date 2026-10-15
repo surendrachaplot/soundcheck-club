@@ -1,6 +1,6 @@
 # Hongor
 
-Hongor is a House and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 30 Oct 2026.
+Hongor is a House and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 30 Oct 2026.
 
 Hongor is a house and experimental artist based in Germany, with 9 gigs on soundcheck across Berlin and Milan. Often billed alongside Evaluvfrog, MIAN and Sam Eyvaz. Next up: Tempio del Futuro Perduto, Milan on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Hongor is a house and experimental artist based in Germany, with 9 gigs on sound
 
 Evaluvfrog, MIAN, Sam Eyvaz
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hongor/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hongor/)*

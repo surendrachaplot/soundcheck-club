@@ -1,8 +1,8 @@
 # RADION
 
-RADION is a music venue in Amsterdam with 20 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "BAILE TRAMA 4TH ANNIVERSARY" on Fri, 16 Oct 2026.
+RADION is a music venue in Amsterdam with 21 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "BAILE TRAMA 4TH ANNIVERSARY" on Fri, 16 Oct 2026.
 
-RADION is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs, with line-ups including 36framez, 42nd Avenue, Justine Perry and Alan Fitzpatrick and 2 more. See dates, start times and who's playing. Louwesweg 1 ,1066 EA Amsterdam.
+RADION is a music venue in Amsterdam listed on soundcheck. 21 upcoming gigs, with line-ups including 36framez, 42nd Avenue, Justine Perry and Alan Fitzpatrick and 2 more. See dates, start times and who's playing. Louwesweg 1 ,1066 EA Amsterdam.
 
 ## What's on
 
@@ -23,4 +23,4 @@ RADION is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs, wit
 
 Louwesweg 1 ,1066 EA Amsterdam, Amsterdam
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radion/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radion/)*

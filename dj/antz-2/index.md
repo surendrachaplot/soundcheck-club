@@ -1,6 +1,6 @@
 # AntZ (2)
 
-AntZ (2) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Summum, Ibiza on Fri, 16 Oct 2026.
+AntZ (2) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Summum, Ibiza on Fri, 16 Oct 2026.
 
 AntZ is a techno and acid artist based in Argentina, with 22 gigs on soundcheck across Berlin, Ibiza and Madrid. Often billed alongside SEMREH, Marcelo Demarco and FLAKOO. Next up: Summum, Ibiza on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ AntZ is a techno and acid artist based in Argentina, with 22 gigs on soundcheck 
 
 SEMREH, Marcelo Demarco, FLAKOO
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antz-2/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antz-2/)*

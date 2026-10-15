@@ -1,6 +1,6 @@
 # Alejandro Alvarez
 
-Alejandro Alvarez is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at NY.Club, Munich on Sat, 17 Oct 2026.
+Alejandro Alvarez is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at NY.Club, Munich on Sat, 17 Oct 2026.
 
 Alejandro Alvarez is a techno and house artist based in Portugal, with 20 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Cologne and 1 more. Often billed alongside DJ MANU (MUNICH), Alalkih and HGR. Next up: NY.Club, Munich on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Alejandro Alvarez is a techno and house artist based in Portugal, with 20 gigs o
 
 DJ MANU (MUNICH), Alalkih, HGR
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandroalvarez-de/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandroalvarez-de/)*

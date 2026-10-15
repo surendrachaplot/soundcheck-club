@@ -1,6 +1,6 @@
 # KX CHR
 
-KX CHR is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Edelfettwerk, Hamburg on Fri, 16 Oct 2026.
+KX CHR is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Edelfettwerk, Hamburg on Fri, 16 Oct 2026.
 
 KX CHR is a techno and industrial artist based in France, with 48 gigs on soundcheck across Ankara, Athens, Belfast and Berlin and 27 more. Often billed alongside OMAKS, Alex Farell and A.N.I.. Next up: Edelfettwerk, Hamburg on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ KX CHR is a techno and industrial artist based in France, with 48 gigs on soundc
 
 OMAKS, Alex Farell, A.N.I.
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kxchr/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kxchr/)*

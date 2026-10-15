@@ -1,8 +1,8 @@
 # ALONSO (ES)
 
-ALONSO (ES) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Madrid on Fri, 23 Oct 2026.
+ALONSO (ES) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Madrid on Fri, 23 Oct 2026.
 
-ALONSO (ES) is a house and electro artist, with 7 gigs on soundcheck across Madrid. Often billed alongside Javi Infantes, bobi and Flaco Bengala. Next up: TBA, Madrid on Fri 23 Oct.
+ALONSO (ES) is a house and electro artist, with 7 gigs on soundcheck across Madrid. Often billed alongside Javi Infantes, Guest and INTK (ES). Next up: TBA, Madrid on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ ALONSO (ES) is a house and electro artist, with 7 gigs on soundcheck across Madr
 
 ## Shares bills with
 
-Javi Infantes, bobi (2), Flaco Bengala
+Javi Infantes, Guest, INTK (ES)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alonsoes/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alonsoes/)*

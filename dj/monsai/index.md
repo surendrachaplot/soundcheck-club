@@ -1,6 +1,6 @@
 # Monsai
 
-Monsai is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Bulbul Berlin, Berlin on Fri, 16 Oct 2026.
+Monsai is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Bulbul Berlin, Berlin on Fri, 16 Oct 2026.
 
 Monsai is a house and club artist, with 22 gigs on soundcheck across Berlin and Madrid. Often billed alongside anna G, Lobo (DE) and Kat_Es. Next up: Bulbul Berlin, Berlin on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Monsai is a house and club artist, with 22 gigs on soundcheck across Berlin and 
 
 anna G, Lobo (DE), Kat_Es
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monsai/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monsai/)*

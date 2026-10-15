@@ -1,8 +1,8 @@
 # DJ Plead
 
-DJ Plead is a Techno and Bass artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The White Hotel, Manchester on Sat, 17 Oct 2026.
+DJ Plead is a Techno and Bass artist with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The White Hotel, Manchester on Sat, 17 Oct 2026.
 
-DJ Plead is a techno and bass artist based in Australia, with 137 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 38 more. Often billed alongside rRoxymore, Azu Tiwaline and DJ Python. Next up: The White Hotel, Manchester on Sat 17 Oct.
+DJ Plead is a techno and bass artist based in Australia, with 139 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 38 more. Often billed alongside rRoxymore, Azu Tiwaline and DJ Python. Next up: The White Hotel, Manchester on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ DJ Plead is a techno and bass artist based in Australia, with 137 gigs on soundc
 | Sun, 18 Oct 2026 | Golden Pudel Club | Hamburg |
 | Fri, 30 Oct 2026 | Centro Cultural Conde Duque | Madrid |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
+| Sat, 14 Nov 2026 | Miscellania | Melbourne |
+| Sun, 15 Nov 2026 | Miscellania | Melbourne |
 | Sat, 5 Dec 2026 | Club 77 | Sydney |
 | Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Victoria, Australia) | Melbourne |
 
@@ -30,4 +32,4 @@ DJ Plead is a techno and bass artist based in Australia, with 137 gigs on soundc
 
 rRoxymore, Azu Tiwaline, DJ Python
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djplead/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djplead/)*

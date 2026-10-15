@@ -1,14 +1,14 @@
 # Maurice Fulton
 
-Maurice Fulton is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Xuxa, Austin on Fri, 16 Oct 2026.
+Maurice Fulton is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at XuXa, Austin on Fri, 16 Oct 2026.
 
-Maurice Fulton is a house and disco artist based in United States of America, with 105 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 31 more. Often billed alongside MUSCLECARS, Tama Sumo and Lakuti. Next up: Xuxa, Austin on Fri 16 Oct.
+Maurice Fulton is a house and disco artist based in United States of America, with 105 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 31 more. Often billed alongside MUSCLECARS, Tama Sumo and Lakuti. Next up: XuXa, Austin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Xuxa | Austin |
+| Fri, 16 Oct 2026 | XuXa | Austin |
 | Sat, 14 Nov 2026 | Colour Factory | London |
 
 ## Recently played
@@ -26,4 +26,4 @@ Maurice Fulton is a house and disco artist based in United States of America, wi
 
 MUSCLECARS, Tama Sumo, Lakuti
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricefulton/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricefulton/)*

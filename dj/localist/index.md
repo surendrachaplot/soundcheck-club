@@ -1,6 +1,6 @@
 # Localist
 
-Localist is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Arch 535, London on Fri, 16 Oct 2026.
+Localist is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Arch 535, London on Fri, 16 Oct 2026.
 
 Localist is a house and electro artist, with 18 gigs on soundcheck across Leeds and London. Often billed alongside Leoplur, Marcelina and Marcelina Wick. Next up: Arch 535, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Localist is a house and electro artist, with 18 gigs on soundcheck across Leeds 
 
 Leoplur, Marcelina, Marcelina Wick
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/localist/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/localist/)*

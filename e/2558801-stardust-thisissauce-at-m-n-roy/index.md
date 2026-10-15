@@ -1,6 +1,6 @@
 # Stardust & THISISSAUCE at M.N.Roy
 
-Stardust & THISISSAUCE at M.N.Roy on Thu 12 Nov, Mexico City. 3 artists: Ian Martz, SSYSTEM and VCIII. Progressive House and Deep House. See the line-up on soundcheck.
+Stardust & THISISSAUCE at M.N.Roy on Thu 12 Nov, Mexico City. 3 artists: Ian Martz, SSYSTEM and VCIII. Progressive House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

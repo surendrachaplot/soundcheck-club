@@ -1,6 +1,6 @@
 # Jamaica Suk
 
-Jamaica Suk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at ://about blank, Berlin on Sat, 28 Nov 2026.
+Jamaica Suk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at ://about blank, Berlin on Sat, 28 Nov 2026.
 
 Jamaica Suk is a techno and house artist based in United States of America, with 80 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 24 more. Often billed alongside Curses, BLACK ANTHEM RESTORE and Volvox. Next up: ://about blank, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Jamaica Suk is a techno and house artist based in United States of America, with
 
 Curses, BLACK ANTHEM RESTORE, Volvox
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamaicasuk/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamaicasuk/)*

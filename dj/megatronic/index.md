@@ -1,6 +1,6 @@
 # Megatronic
 
-Megatronic is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Bar Badassery, Lisbon on Fri, 16 Oct 2026.
+Megatronic is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Bar Badassery, Lisbon on Fri, 16 Oct 2026.
 
 Megatronic is a house and disco artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 11 more. Often billed alongside JKriv, Disgonuts and Aaron Dae. Next up: Bar Badassery, Lisbon on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Megatronic is a house and disco artist based in United Kingdom, with 60 gigs on 
 
 JKriv, Disgonuts, Aaron Dae
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/megatronic/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/megatronic/)*

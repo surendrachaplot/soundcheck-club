@@ -1,6 +1,6 @@
 # Harrison BDP
 
-Harrison BDP is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at OXI, Berlin on Sat, 17 Oct 2026.
+Harrison BDP is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at OXI, Berlin on Sat, 17 Oct 2026.
 
 Harrison BDP is a house and tech house artist based in United Kingdom, with 137 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 37 more. Often billed alongside Black Loops, Kolter and Alien Communications. Next up: OXI, Berlin on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Harrison BDP is a house and tech house artist based in United Kingdom, with 137 
 
 Black Loops, Kolter, Alien Communications
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harrisonbdp/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harrisonbdp/)*

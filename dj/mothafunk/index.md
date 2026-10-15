@@ -1,6 +1,6 @@
 # Mothafunk
 
-Mothafunk is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Night Cat, Melbourne on Sat, 17 Oct 2026.
+Mothafunk is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Night Cat, Melbourne on Sat, 17 Oct 2026.
 
 Mothafunk is a house and disco artist based in United States of America, with 71 gigs on soundcheck across Chicago, Los Angeles, Melbourne and New York City. Often billed alongside Chris NG, Kgomotso and Sophie Forrest. Next up: The Night Cat, Melbourne on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Mothafunk is a house and disco artist based in United States of America, with 71
 
 Chris NG, Kgomotso, Sophie Forrest
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mothafunk/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mothafunk/)*

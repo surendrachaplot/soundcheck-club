@@ -1,6 +1,6 @@
 # ilbroccolovolante
 
-ilbroccolovolante is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Renate, Berlin on Sat, 28 Nov 2026.
+ilbroccolovolante is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Renate, Berlin on Sat, 28 Nov 2026.
 
 ilbroccolovolante is a house and techno artist based in Italy, with 78 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Kidcat, zikade and materia hache. Next up: Renate, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ ilbroccolovolante is a house and techno artist based in Italy, with 78 gigs on s
 
 Kidcat, zikade, materia hache
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilbroccolovolante/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilbroccolovolante/)*

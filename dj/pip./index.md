@@ -1,6 +1,6 @@
 # PIP.
 
-PIP. is a House and Electro artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Ouseburn Garden, Newcastle on Sat, 24 Oct 2026.
+PIP. is a House and Electro artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Ouseburn Garden, Newcastle on Sat, 24 Oct 2026.
 
 PIP. is a house and electro artist based in United Kingdom, with 46 gigs on soundcheck across Amsterdam, Glasgow, Leeds and London and 3 more. Often billed alongside Weston, FroD and Westy. Next up: Ouseburn Garden, Newcastle on Sat 24 Oct.
 
@@ -30,4 +30,4 @@ PIP. is a house and electro artist based in United Kingdom, with 46 gigs on soun
 
 Weston, FroD, Westy
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pip./)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pip./)*

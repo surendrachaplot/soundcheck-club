@@ -1,6 +1,6 @@
 # Rubberax
 
-Rubberax is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at The Cause, London on Fri, 6 Nov 2026.
+Rubberax is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at The Cause, London on Fri, 6 Nov 2026.
 
 Rubberax is a techno and house artist based in France, with 13 gigs on soundcheck across Amsterdam, Berlin, Leipzig and London and 1 more. Often billed alongside CLEO, KEROSENE (ZA) and ALAN JOE. Next up: The Cause, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Rubberax is a techno and house artist based in France, with 13 gigs on soundchec
 
 CLEO, KEROSENE (ZA), ALAN JOE
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rubberax/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rubberax/)*

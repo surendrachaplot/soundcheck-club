@@ -1,6 +1,6 @@
 # Ögem Yılmaz
 
-Ögem Yılmaz is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Frankhan Selectist, Istanbul on Fri, 16 Oct 2026.
+Ögem Yılmaz is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Frankhan Selectist, Istanbul on Fri, 16 Oct 2026.
 
 Ögem Yılmaz is a house and acid artist, with 8 gigs on soundcheck across Istanbul. Often billed alongside Ezgi, Ace Brothers and Ali Kuru. Next up: Frankhan Selectist, Istanbul on Fri 16 Oct.
 
@@ -24,4 +24,4 @@
 
 Ezgi, Ace Brothers, Ali Kuru
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ogemyilmaz/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ogemyilmaz/)*

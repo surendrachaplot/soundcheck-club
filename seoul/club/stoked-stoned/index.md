@@ -1,6 +1,6 @@
 # Stoked&stoned
 
-Stoked&stoned is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "12 Oct - 18 Oct" on Mon, 12 Oct 2026.
+Stoked&stoned is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "12 Oct - 18 Oct" on Mon, 12 Oct 2026.
 
 Stoked&stoned is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line-ups including bumv, Dakim, Hansy and hcy. and 2 more. See dates, start times and who's playing. Seoul, Yongsan District, Daesagwan-ro, 72 2F.
 
@@ -17,4 +17,4 @@ Stoked&stoned is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, w
 
 Seoul, Yongsan District, Daesagwan-ro, 72 2F, Seoul
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/stoked-stoned/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/stoked-stoned/)*

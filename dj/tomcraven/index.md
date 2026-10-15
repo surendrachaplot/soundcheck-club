@@ -1,6 +1,6 @@
 # Tom Craven
 
-Tom Craven is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Event is at Club Collette, Midlands on Sat, 14 Nov 2026.
+Tom Craven is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Event is at Club Collette, Midlands on Sat, 14 Nov 2026.
 
 Tom Craven is a house and minimal artist, with 16 gigs on soundcheck across Birmingham, Leeds, Lisbon and Manchester and 1 more. Often billed alongside Shez, Lopaski and Peter Glasspool. Next up: TBA - Event is at Club Collette, Midlands on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Tom Craven is a house and minimal artist, with 16 gigs on soundcheck across Birm
 
 Shez, Lopaski, Peter Glasspool
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomcraven/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomcraven/)*

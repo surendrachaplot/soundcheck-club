@@ -1,6 +1,6 @@
 # UVITA
 
-UVITA is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Málaga Forum, Malaga on Sat, 24 Oct 2026.
+UVITA is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Málaga Forum, Malaga on Sat, 24 Oct 2026.
 
 UVITA is an afro house and house artist based in Ireland, with 8 gigs on soundcheck across Frankfurt, Ibiza, London and Malaga and 2 more. Often billed alongside OSFUR, Bedouin and Claudius (DE). Next up: TBA - Málaga Forum, Malaga on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ UVITA is an afro house and house artist based in Ireland, with 8 gigs on soundch
 
 OSFUR, Bedouin, Claudius (DE)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uvita/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uvita/)*

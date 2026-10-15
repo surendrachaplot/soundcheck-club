@@ -1,13 +1,14 @@
 # Yohei Hibiki
 
-Yohei Hibiki is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 29 Nov 2026.
+Yohei Hibiki is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Ginza Records & Audio Kuramae, Tokyo on Thu, 15 Oct 2026.
 
-Yohei Hibiki is a techno and house artist based in Japan, with 54 gigs on soundcheck across Osaka and Tokyo. Often billed alongside SIGNAL (JP), Ayana Pattra and MOTOKA. Next up: Aoyama Hachi, Tokyo on Sun 29 Nov.
+Yohei Hibiki is a techno and house artist based in Japan, with 55 gigs on soundcheck across Osaka and Tokyo. Often billed alongside SIGNAL (JP), Ayana Pattra and MOTOKA. Next up: Ginza Records & Audio Kuramae, Tokyo on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 15 Oct 2026 | Ginza Records & Audio Kuramae | Tokyo |
 | Sun, 29 Nov 2026 | Aoyama Hachi | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ Yohei Hibiki is a techno and house artist based in Japan, with 54 gigs on soundc
 
 SIGNAL (JP), Ayana Pattra, MOTOKA
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoheihibiki/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoheihibiki/)*

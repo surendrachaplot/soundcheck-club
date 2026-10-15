@@ -1,6 +1,6 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 18 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Crash Course presents DJ Parrot's Bday Bash feat. J Espinosa" on Wed, 14 Oct 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 18 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Causmic Creative presents Taso" on Thu, 15 Oct 2026.
 
 F8 1192 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 18 upcoming gigs, with line-ups including Alkemiss Erika, ANCARCO, Arreola Grande and bastiengoat and 2 more. See dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
@@ -8,10 +8,10 @@ F8 1192 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 1
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 14 Oct 2026 | Crash Course presents DJ Parrot's Bday Bash feat. J Espinosa | DJ Parrot, Velvet Pistol, vRok |
 | Thu, 15 Oct 2026 | Causmic Creative presents Taso | Camillionaire, Taso |
 | Thu, 15 Oct 2026 | Wayward: Phantasm | Jonboy, Phleck, Stoa, Yaz |
 | Fri, 16 Oct 2026 | HALLOWEEN RAVE : DVALITY 2 YEAR ANNIVERSARY PRESENTING ACID CIRCUS FEATURING: DANI THORNE  |  |
+| Sun, 18 Oct 2026 | Stamina presents Winslow | Winslow |
 | Tue, 20 Oct 2026 | INTERZONE - You Suck & Lip Service Party | Byter, Hex Embrace, Hopelesss |
 | Wed, 21 Oct 2026 | Strut SF and F8 present NYX takeover with JJKØ and Just Lucas | JJKØ, Just Lucas |
 | Thu, 22 Oct 2026 | Teego presents Afro Thursdays featuring Danna | HIDRA, Kamu Kamu |
@@ -23,4 +23,4 @@ F8 1192 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 1
 
 1192 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*

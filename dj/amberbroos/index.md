@@ -1,6 +1,6 @@
 # Amber Broos
 
-Amber Broos is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 17 Oct 2026.
+Amber Broos is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 17 Oct 2026.
 
 Amber Broos is a techno and trance artist based in Belgium, with 31 gigs on soundcheck across Amsterdam, Basel, Berlin and Brussels and 9 more. Often billed alongside The Rocketman, VE/RA and Acid Asian. Next up: Ritter Butzke, Berlin on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Amber Broos is a techno and trance artist based in Belgium, with 31 gigs on soun
 
 The Rocketman, VE/RA, Acid Asian
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amberbroos/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amberbroos/)*

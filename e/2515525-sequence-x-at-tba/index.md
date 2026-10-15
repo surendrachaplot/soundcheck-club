@@ -1,6 +1,6 @@
 # SEQUENCE X at TBA
 
-SEQUENCE X at TBA on Sat 24 Oct, Washington DC. 8 artists: Associate, Damon Bradley, DJ Dubu and Juana and 4 more. Techno and Industrial. See the line-up on soundcheck.
+SEQUENCE X at TBA on Sat 24 Oct, Washington DC. 10 artists: Associate, Damon Bradley, DJ Dubu and has.san and 6 more. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,8 @@ SEQUENCE X at TBA on Sat 24 Oct, Washington DC. 8 artists: Associate, Damon Brad
 - Associate
 - Damon Bradley
 - DJ Dubu
+- has.san
+- JADE CAO
 - Juana
 - Perc
 - Ron Jackson

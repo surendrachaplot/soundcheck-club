@@ -1,6 +1,6 @@
 # Peach
 
-Peach is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Jolene Downtown Miami, Miami on Thu, 15 Oct 2026.
+Peach is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Jolene Downtown Miami, Miami on Thu, 15 Oct 2026.
 
 Peach is a house and techno artist based in Canada, with 225 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 55 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Jolene Downtown Miami, Miami on Thu 15 Oct.
 
@@ -36,4 +36,4 @@ Peach is a house and techno artist based in Canada, with 225 gigs on soundcheck 
 
 Shanti Celeste, Gabrielle Kwarteng, Saoirse
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*

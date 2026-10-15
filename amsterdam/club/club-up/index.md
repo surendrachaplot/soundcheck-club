@@ -1,6 +1,6 @@
 # Club Up
 
-Club Up is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Re'Mind invites DJ Q & Douvelle19 - ADE edition" on Wed, 21 Oct 2026.
+Club Up is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Re'Mind invites DJ Q & Douvelle19 - ADE edition" on Wed, 21 Oct 2026.
 
 Club Up is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including A Little Bit Orange, ASLO, Becking and Ben Dust and 2 more. See dates, start times and who's playing. Korte Leidsedwarsstraat 26-1; 1017  Binnenstad; Amsterdam; Netherlands.
 
@@ -19,4 +19,4 @@ Club Up is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, wit
 
 Korte Leidsedwarsstraat 26-1; 1017  Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-up/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-up/)*

@@ -1,6 +1,6 @@
 # Worm
 
-Worm is a music venue in Rotterdam with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "PERREO31 X FRIKITONA" on Fri, 16 Oct 2026.
+Worm is a music venue in Rotterdam with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "PERREO31 X FRIKITONA" on Fri, 16 Oct 2026.
 
 Worm is a music venue in Rotterdam listed on soundcheck. 1 upcoming gig, with line-ups including Veinte Uñas. See dates, start times and who's playing. Boomgaardsstraat 71, 3012 XA, Rotterdam.
 
@@ -14,4 +14,4 @@ Worm is a music venue in Rotterdam listed on soundcheck. 1 upcoming gig, with li
 
 Boomgaardsstraat 71, 3012 XA, Rotterdam, Rotterdam
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/worm/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/worm/)*

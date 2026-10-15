@@ -1,6 +1,6 @@
 # General Levy
 
-General Levy is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Bullingdon, South-east on Sat, 17 Oct 2026.
+General Levy is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Bullingdon, South-east on Sat, 17 Oct 2026.
 
 General Levy is a jungle and drum & bass artist based in United Kingdom, with 59 gigs on soundcheck across Birmingham, Brighton, Bristol and Dublin and 11 more. Often billed alongside Deekline, Navigator and Killa P. Next up: The Bullingdon, South East on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ General Levy is a jungle and drum & bass artist based in United Kingdom, with 59
 
 Deekline, Navigator, Killa P
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/generallevy/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/generallevy/)*

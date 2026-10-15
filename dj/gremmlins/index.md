@@ -1,6 +1,6 @@
 # GREMMLiNS
 
-GREMMLiNS is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Vault Club, East on Sat, 17 Oct 2026.
+GREMMLiNS is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Vault Club, East on Sat, 17 Oct 2026.
 
 GREMMLiNS is a techno and psytrance artist based in France, with 9 gigs on soundcheck across East and Strasbourg. Often billed alongside Bruyant, Cinder and Kingsmo. Next up: Vault Club, East on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ GREMMLiNS is a techno and psytrance artist based in France, with 9 gigs on sound
 
 Bruyant, Cinder, Kingsmo
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gremmlins/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gremmlins/)*

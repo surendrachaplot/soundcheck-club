@@ -1,6 +1,6 @@
 # Beate Uwe
 
-Beate Uwe is a music venue in Berlin with 19 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "BEATE HAT SEHNSUCHT" on Fri, 16 Oct 2026.
+Beate Uwe is a music venue in Berlin with 19 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "BEATE HAT SEHNSUCHT" on Fri, 16 Oct 2026.
 
 Beate Uwe is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, with line-ups including AKA AKA, ALXJ, ANXA and ARSENAL and 2 more. See dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
 
@@ -9,7 +9,7 @@ Beate Uwe is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, wit
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | BEATE HAT SEHNSUCHT | Dydaa Forne, Klyde Tribes |
-| Sat, 17 Oct 2026 | Beate Invites /// Jackfruit & Friends | Danilo Kupfernagel, LEENI, Rabella |
+| Sat, 17 Oct 2026 | Beate Invites /// Jackfruit & Friends | Juleklub, Rabella |
 | Sun, 18 Oct 2026 | Beate Barfuß /// tatzentanz, olibrii, mimikri, (live), coco loris b2b ele, pi:menta |  |
 | Thu, 22 Oct 2026 | Be Home /// Ninze & Niju (live), Camillenfee b2b alefala | Niju, Ninze |
 | Fri, 23 Oct 2026 | Track:ID x zauberhaft! (KollektivNacht) | ARSENAL, Cheap Coffee, Czech Strings, DJ Fresh Garlic, Der olle Kramer, Fabian Fischbach |
@@ -23,4 +23,4 @@ Beate Uwe is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, wit
 
 Schillingstr. 31, 10179, Berlin, Berlin
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*

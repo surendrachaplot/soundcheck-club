@@ -1,6 +1,6 @@
 # Nué Seoul
 
-Nué Seoul is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Nue thursday: 1st Dream •••" on Thu, 15 Oct 2026.
+Nué Seoul is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Nue thursday: 1st Dream •••" on Thu, 15 Oct 2026.
 
 Nué Seoul is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including ccb, E3, Gumi and Gyusco and 2 more. See dates, start times and who's playing. 2F, 3F 45 Itaewon-ro 27ga-gil, Yongsan-gu, Seoul.
 
@@ -16,4 +16,4 @@ Nué Seoul is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with
 
 2F, 3F 45 Itaewon-ro 27ga-gil, Yongsan-gu, Seoul, Seoul
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/nu-seoul/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/nu-seoul/)*

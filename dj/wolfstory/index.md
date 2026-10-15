@@ -1,6 +1,6 @@
 # Wolf Story
 
-Wolf Story is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Elysian Park, Los Angeles on Sun, 18 Oct 2026.
+Wolf Story is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Elysian Park, Los Angeles on Sun, 18 Oct 2026.
 
 Wolf Story is a house and techno artist, with 57 gigs on soundcheck across Denver, Kyoto, Los Angeles and Miami and 4 more. Often billed alongside Sebastian Arreguin, Yury Black and Michael Toobz. Next up: Elysian Park, Los Angeles on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Wolf Story is a house and techno artist, with 57 gigs on soundcheck across Denve
 
 Sebastian Arreguin, Yury Black, Michael Toobz
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfstory/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfstory/)*

@@ -1,6 +1,6 @@
 # Tom Bolas
 
-Tom Bolas is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Restaurante Covadonga, Mexico City on Sat, 31 Oct 2026.
+Tom Bolas is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Restaurante Covadonga, Mexico City on Sat, 31 Oct 2026.
 
 Tom Bolas is a disco and house artist based in Germany, with 16 gigs on soundcheck across Bali, Barcelona, Berlin and Madrid and 4 more. Often billed alongside Helene Havro, Johan Ressle and MLiR. Next up: Restaurante Covadonga, Mexico City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Tom Bolas is a disco and house artist based in Germany, with 16 gigs on soundche
 
 Helene Havro, Johan Ressle, MLiR
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tombolas/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tombolas/)*

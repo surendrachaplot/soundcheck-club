@@ -1,6 +1,6 @@
 # Dominik André
 
-Dominik André is a House and New Wave artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Hidden Sounds, London on Fri, 16 Oct 2026.
+Dominik André is a House and New Wave artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Hidden Sounds, London on Fri, 16 Oct 2026.
 
 Dominik André is a house and new wave artist based in Switzerland, with 35 gigs on soundcheck across Amsterdam, Basel, Berlin and Düsseldorf and 6 more. Often billed alongside Nive, Courtney Bailey and Sound Metaphors Djs. Next up: Hidden Sounds, London on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Dominik André is a house and new wave artist based in Switzerland, with 35 gigs
 
 Nive, Courtney Bailey, Sound Metaphors Djs
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikandre/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikandre/)*

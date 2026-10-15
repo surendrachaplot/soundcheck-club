@@ -1,6 +1,6 @@
 # Kemuri Hi-Fi
 
-Kemuri Hi-Fi is a music venue in Auckland with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Dj Sai Funkin + Leon D at Kemuri Hifi" on Fri, 16 Oct 2026.
+Kemuri Hi-Fi is a music venue in Auckland with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Dj Sai Funkin + Leon D at Kemuri Hifi" on Fri, 16 Oct 2026.
 
 Kemuri Hi-Fi is a music venue in Auckland listed on soundcheck. 3 upcoming gigs, with line-ups including Connor Tomoana and Jack Masters. See dates, start times and who's playing. 1 Queen Street, Commercial Bay, Auckland 1010.
 
@@ -16,4 +16,4 @@ Kemuri Hi-Fi is a music venue in Auckland listed on soundcheck. 3 upcoming gigs,
 
 1 Queen Street, Commercial Bay, Auckland 1010, Auckland
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/kemuri-hi-fi/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/kemuri-hi-fi/)*

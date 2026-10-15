@@ -1,8 +1,8 @@
 # Levi (AU)
 
-Levi (AU) is a Afro House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Escape, Amsterdam on Fri, 23 Oct 2026.
+Levi (AU) is a Afro House and Deep House artist with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Escape, Amsterdam on Fri, 23 Oct 2026.
 
-Levi (AU) is an afro house and deep house artist based in Australia, with 99 gigs on soundcheck across Amsterdam, Athens, Austria and Bangkok and 40 more. Often billed alongside AJ Christou, Freddy Bello and SARA AFSHAR. Next up: Escape, Amsterdam on Fri 23 Oct.
+Levi (AU) is an afro house and deep house artist based in Australia, with 100 gigs on soundcheck across Amsterdam, Athens, Austria and Bangkok and 41 more. Often billed alongside AJ Christou, Freddy Bello and SARA AFSHAR. Next up: Escape, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Levi (AU) is an afro house and deep house artist based in Australia, with 99 gig
 | Sat, 7 Nov 2026 | Marquee | New York City |
 | Sat, 14 Nov 2026 | Marquee Dayclub | Las-vegas |
 | Sat, 21 Nov 2026 | TBA | Florida |
+| Sat, 28 Nov 2026 | Marquee Singapore | Singapore |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Levi (AU) is an afro house and deep house artist based in Australia, with 99 gig
 
 AJ Christou, Freddy Bello, SARA AFSHAR
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-au/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-au/)*

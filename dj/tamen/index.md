@@ -1,6 +1,6 @@
 # Tamen
 
-Tamen is a Jungle and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at OT301, Amsterdam on Thu, 10 Dec 2026.
+Tamen is a Jungle and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at OT301, Amsterdam on Thu, 10 Dec 2026.
 
 Tamen is a jungle and bass artist, with 30 gigs on soundcheck across Amsterdam, Barcelona, Brisbane and Cork and 8 more. Often billed alongside Pugilist, Emelyne and Ham. Next up: OT301, Amsterdam on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Tamen is a jungle and bass artist, with 30 gigs on soundcheck across Amsterdam, 
 
 Pugilist, Emelyne, Ham (5)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamen/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamen/)*

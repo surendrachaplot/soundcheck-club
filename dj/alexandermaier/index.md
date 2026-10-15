@@ -1,6 +1,6 @@
 # Alexander Maier
 
-Alexander Maier is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Romantica, Stuttgart on Sat, 24 Oct 2026.
+Alexander Maier is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Romantica, Stuttgart on Sat, 24 Oct 2026.
 
 Alexander Maier is a house and techno artist based in Germany, with 67 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside Jochen Junker, Marco Bastone and Sibel. Next up: Romantica, Stuttgart on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Alexander Maier is a house and techno artist based in Germany, with 67 gigs on s
 
 Jochen Junker, Marco Bastone, Sibel
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandermaier/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandermaier/)*

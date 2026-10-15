@@ -1,6 +1,6 @@
 # Nyx
 
-Nyx is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Zurich on Sat, 14 Nov 2026.
+Nyx is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Zurich on Sat, 14 Nov 2026.
 
 Nyx is a techno and tech house artist based in United States of America, with 15 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and Hamburg and 4 more. Often billed alongside Animistic Beliefs, DjRUM and Gwen Wayne. Next up: TBA, Zurich on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Nyx is a techno and tech house artist based in United States of America, with 15
 
 Animistic Beliefs, DjRUM, Gwen Wayne
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyx/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyx/)*

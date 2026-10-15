@@ -1,8 +1,8 @@
 # F3rg13
 
-F3rg13 is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Meraki, Liverpool on Fri, 16 Oct 2026.
+F3rg13 is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Meraki, Liverpool on Fri, 16 Oct 2026.
 
-F3rg13 is a garage and house artist based in United Kingdom, with 15 gigs on soundcheck across Leeds, Liverpool, Manchester and Sheffield. Often billed alongside B-HIND, Phia (UK) and TJOS. Next up: Meraki, Liverpool on Fri 16 Oct.
+F3rg13 is a garage and house artist based in United Kingdom, with 16 gigs on soundcheck across Leeds, Liverpool, Manchester and Sheffield. Often billed alongside B-HIND, Phia (UK) and TJOS. Next up: Meraki, Liverpool on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ F3rg13 is a garage and house artist based in United Kingdom, with 15 gigs on sou
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Meraki | Liverpool |
 | Sat, 31 Oct 2026 | Sidney & Matilda | Sheffield |
+| Fri, 13 Nov 2026 | Hidden | Manchester |
 | Fri, 11 Dec 2026 | Piccadilly Central | Manchester |
 
 ## Recently played
@@ -27,4 +28,4 @@ F3rg13 is a garage and house artist based in United Kingdom, with 15 gigs on sou
 
 B-HIND, Phia (UK), TJOS
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/f3rg13/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/f3rg13/)*

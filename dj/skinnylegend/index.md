@@ -1,6 +1,6 @@
 # Skinny Legend
 
-Skinny Legend is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 16 Oct 2026.
+Skinny Legend is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 16 Oct 2026.
 
 Skinny Legend is a techno and house artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside DJ Bude, fbi and Toke12. Next up: Ritter Butzke, Berlin on Fri 16 Oct.
 
@@ -21,4 +21,4 @@ Skinny Legend is a techno and house artist based in Germany, with 5 gigs on soun
 
 DJ Bude, fbi (1), Toke12
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skinnylegend/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skinnylegend/)*

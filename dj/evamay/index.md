@@ -1,6 +1,6 @@
 # Eva May
 
-Eva May is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Motel Campo, Geneva on Fri, 16 Oct 2026.
+Eva May is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Motel Campo, Geneva on Fri, 16 Oct 2026.
 
 Eva May is a techno and house artist based in Switzerland, with 21 gigs on soundcheck across Berlin, Brussels, Geneva and London and 2 more. Often billed alongside Gioski, picchu and Braises de Velours. Next up: Motel Campo, Geneva on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Eva May is a techno and house artist based in Switzerland, with 21 gigs on sound
 
 Gioski, picchu, Braises de Velours
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evamay/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evamay/)*

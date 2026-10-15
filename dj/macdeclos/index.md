@@ -1,6 +1,6 @@
 # Mac Declos
 
-Mac Declos is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Masada, Milan on Sat, 17 Oct 2026.
+Mac Declos is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Masada, Milan on Sat, 17 Oct 2026.
 
 Mac Declos is a techno and house artist based in France, with 197 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside Anetha, Lacchesi and Blasha & Allatt. Next up: Masada, Milan on Sat 17 Oct.
 
@@ -35,4 +35,4 @@ Mac Declos is a techno and house artist based in France, with 197 gigs on soundc
 
 Anetha, Lacchesi, Blasha & Allatt
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/macdeclos/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/macdeclos/)*

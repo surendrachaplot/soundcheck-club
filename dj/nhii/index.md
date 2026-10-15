@@ -1,6 +1,6 @@
 # Nhii
 
-Nhii is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Signal, New York City on Fri, 16 Oct 2026.
+Nhii is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Signal, New York City on Fri, 16 Oct 2026.
 
 Nhii is a deep house and house artist based in Germany, with 61 gigs on soundcheck across Amsterdam, Berlin, Brussels and Chicago and 17 more. Often billed alongside Saqib, Sarkis Mikael and CIOZ. Next up: Signal, New York City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Nhii is a deep house and house artist based in Germany, with 61 gigs on soundche
 
 Saqib, Sarkis Mikael, CIOZ
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nhii/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nhii/)*

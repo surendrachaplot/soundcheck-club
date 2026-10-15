@@ -1,6 +1,6 @@
 # Société des arts technologiques
 
-Société des arts technologiques is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Mall Grab - Montréal" on Sat, 24 Oct 2026.
+Société des arts technologiques is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Mall Grab - Montréal" on Sat, 24 Oct 2026.
 
 Société des arts technologiques is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, with line-ups including Adrian Sherwood, Bambii, Carlos Souffront and Clarisa Kimskii and 2 more. See dates, start times and who's playing. 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada.
 
@@ -20,4 +20,4 @@ Société des arts technologiques is a music venue in Montreal listed on soundch
 
 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada, Montreal
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*

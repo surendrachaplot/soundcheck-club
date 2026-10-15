@@ -1,6 +1,6 @@
 # Kenya Arakama
 
-Kenya Arakama is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Les Enfants Brillants, Barcelona on Thu, 15 Oct 2026.
+Kenya Arakama is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Les Enfants Brillants, Barcelona on Thu, 15 Oct 2026.
 
 Kenya Arakama is a techno and house artist based in Spain, with 38 gigs on soundcheck across Barcelona, Madrid and North. Often billed alongside DJ Bruce Lee, DJohnston and Lucho The G. Next up: Les Enfants Brillants, Barcelona on Thu 15 Oct.
 
@@ -27,4 +27,4 @@ Kenya Arakama is a techno and house artist based in Spain, with 38 gigs on sound
 
 DJ Bruce Lee, DJohnston, Lucho The G
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenyaarakama/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenyaarakama/)*

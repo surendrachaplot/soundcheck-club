@@ -1,6 +1,6 @@
 # Madre
 
-Madre is a music venue in Valencia with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "Halloween House party with Ingy" on Sat, 31 Oct 2026.
+Madre is a music venue in Valencia with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "Halloween House Party with Ingy" on Sat, 31 Oct 2026.
 
 Madre is a music venue in Valencia listed on soundcheck. 1 upcoming gig, with line-ups including Flow, Flowing and Ingy. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Madre is a music venue in Valencia listed on soundcheck. 1 upcoming gig, with li
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Halloween House party with Ingy | Flow, Flowing, Ingy |
+| Sat, 31 Oct 2026 | Halloween House Party with Ingy | Flow, Flowing, Ingy |
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/madre/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/madre/)*

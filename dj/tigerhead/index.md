@@ -1,14 +1,15 @@
 # Tigerhead
 
-Tigerhead is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at OST, Berlin on Sat, 31 Oct 2026.
+Tigerhead is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at OST, Berlin on Sat, 31 Oct 2026.
 
-Tigerhead is a techno and trance artist, with 64 gigs on soundcheck across Basel, Berlin, Brussels and Bucharest and 21 more. Often billed alongside Ellen Allien, Bours? and Beau Didier. Next up: OST, Berlin on Sat 31 Oct.
+Tigerhead is a techno and trance artist, with 65 gigs on soundcheck across Basel, Berlin, Brussels and Bucharest and 22 more. Often billed alongside Ellen Allien, Bours? and Beau Didier. Next up: OST, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | OST | Berlin |
+| Mon, 2 Nov 2026 | VENT | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Tigerhead is a techno and trance artist, with 64 gigs on soundcheck across Basel
 
 Ellen Allien, Bours?, Beau Didier
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tigerhead/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tigerhead/)*

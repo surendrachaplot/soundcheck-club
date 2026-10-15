@@ -1,8 +1,8 @@
 # Tommy Pickles
 
-Tommy Pickles is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Loft Studios, London on Fri, 16 Oct 2026.
+Tommy Pickles is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Loft Studios, London on Fri, 16 Oct 2026.
 
-Tommy Pickles is a house and techno artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 25 more. Often billed alongside Desyn, Tom Morgan and Alex Picone. Next up: Loft Studios, London on Fri 16 Oct.
+Tommy Pickles is a house and techno artist based in United Kingdom, with 100 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 25 more. Often billed alongside Desyn, Tom Morgan and Alex Picone. Next up: Loft Studios, London on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tommy Pickles is a house and techno artist based in United Kingdom, with 99 gigs
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Loft Studios | London |
 | Sat, 31 Oct 2026 | TBA - Arts District LA | Los Angeles |
+| Sat, 14 Nov 2026 | Starlane Pizza Bar | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Tommy Pickles is a house and techno artist based in United Kingdom, with 99 gigs
 
 Desyn, Tom Morgan, Alex Picone
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommypickles/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommypickles/)*

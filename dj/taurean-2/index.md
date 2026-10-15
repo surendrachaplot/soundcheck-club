@@ -1,6 +1,6 @@
 # TAUREAN (2)
 
-TAUREAN (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Fitzroy, Berlin on Sun, 18 Oct 2026.
+TAUREAN (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Fitzroy, Berlin on Sun, 18 Oct 2026.
 
 TAUREAN is a techno and house artist based in Ireland, with 51 gigs on soundcheck across Berlin, Cork, Dublin and Prague. Often billed alongside JenTen, The Camel and Ayham. Next up: Fitzroy, Berlin on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ TAUREAN is a techno and house artist based in Ireland, with 51 gigs on soundchec
 
 JenTen, The Camel, Ayham
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taurean-2/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taurean-2/)*

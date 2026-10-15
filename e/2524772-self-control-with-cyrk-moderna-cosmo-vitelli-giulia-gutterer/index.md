@@ -1,6 +1,6 @@
 # Self. Control. with CYRK, Moderna, Cosmo Vitelli, Giulia Gutterer & Sesto Senso at RSO.BERLIN
 
-Self. Control. with CYRK, Moderna, Cosmo Vitelli, Giulia Gutterer & Sesto Senso at RSO.BERLIN on Fri 16 Oct, Berlin. 4 artists: Cosmo Vitelli, CYRK, Giulia Gutterer and Moderna. EBM and Italo Disco. See the line-up on soundcheck.
+Self. Control. with CYRK, Moderna, Cosmo Vitelli, Giulia Gutterer & Sesto Senso at RSO.BERLIN on Fri 16 Oct, Berlin. 6 artists: Cosmo Vitelli, CYRK, Fabrizio Mammarella and Franz Scala and 2 more. EBM and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,8 @@ Self. Control. with CYRK, Moderna, Cosmo Vitelli, Giulia Gutterer & Sesto Senso 
 
 - Cosmo Vitelli
 - CYRK
+- Fabrizio Mammarella
+- Franz Scala
 - Giulia Gutterer
 - Moderna
 

@@ -1,6 +1,6 @@
-# THE BIRTHDAY PARTY at B-SIDE
+# The Birthday Party at B-SIDE
 
-THE BIRTHDAY PARTY at B-SIDE on Fri 23 Oct, Warsaw. See the line-up on soundcheck.
+The Birthday Party at B-SIDE on Fri 23 Oct, Warsaw. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

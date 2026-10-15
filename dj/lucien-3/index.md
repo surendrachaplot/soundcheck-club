@@ -1,6 +1,6 @@
 # Lucien (3)
 
-Lucien (3) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Cafe La Palma, Madrid on Fri, 23 Oct 2026.
+Lucien (3) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Cafe La Palma, Madrid on Fri, 23 Oct 2026.
 
 Lucien is a house and electro artist based in Spain, with 8 gigs on soundcheck across Madrid. Often billed alongside Posada, Jose Vera and Misla. Next up: Cafe La Palma, Madrid on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Lucien is a house and electro artist based in Spain, with 8 gigs on soundcheck a
 
 Posada, Jose Vera, Misla
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucien-3/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucien-3/)*

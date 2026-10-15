@@ -1,6 +1,6 @@
 # Big Night Live
 
-Big Night Live is a music venue in Boston with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Mochakk" on Thu, 29 Oct 2026.
+Big Night Live is a music venue in Boston with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Mochakk" on Thu, 29 Oct 2026.
 
 Big Night Live is a music venue in Boston listed on soundcheck. 3 upcoming gigs, with line-ups including Mochakk and Pauly D. See dates, start times and who's playing. 110 Causeway St, Boston, MA 02114, USA.
 
@@ -16,4 +16,4 @@ Big Night Live is a music venue in Boston listed on soundcheck. 3 upcoming gigs,
 
 110 Causeway St, Boston, MA 02114, USA, Boston
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/big-night-live/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/big-night-live/)*

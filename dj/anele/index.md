@@ -1,6 +1,6 @@
 # Anele
 
-Anele is a House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at L'Écurie, Geneva on Fri, 16 Oct 2026.
+Anele is a House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at L'Écurie, Geneva on Fri, 16 Oct 2026.
 
 Anele is a house and amapiano artist based in South Africa, with 26 gigs on soundcheck across Berlin and Geneva. Often billed alongside Katerinha, Njeri and Khadija (DE). Next up: L'Écurie, Geneva on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Anele is a house and amapiano artist based in South Africa, with 26 gigs on soun
 
 Katerinha, Njeri, Khadija (DE)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anele/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anele/)*

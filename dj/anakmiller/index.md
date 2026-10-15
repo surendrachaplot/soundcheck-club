@@ -1,6 +1,6 @@
 # Ana K Miller
 
-Ana K Miller is a Ambient and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Outlaws Yacht Club, Leeds on Sun, 1 Nov 2026.
+Ana K Miller is a Ambient and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Outlaws Yacht Club, Leeds on Sun, 1 Nov 2026.
 
 Ana K Miller is an ambient and downtempo artist based in United Kingdom, with 21 gigs on soundcheck across Edinburgh, Glasgow, Leeds and Manchester. Often billed alongside Slacky [Space Ritual], Simon Scott and Anna Vs June. Next up: Outlaws Yacht Club, Leeds on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Ana K Miller is an ambient and downtempo artist based in United Kingdom, with 21
 
 Slacky [Space Ritual], Simon Scott, Anna Vs June
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anakmiller/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anakmiller/)*

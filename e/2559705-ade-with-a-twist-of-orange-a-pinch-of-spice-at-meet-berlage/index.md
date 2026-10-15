@@ -1,6 +1,6 @@
 # ADE  with a Twist of Orange & A Pinch of Spice at Meet Berlage
 
-ADE  with a Twist of Orange & A Pinch of Spice at Meet Berlage on Sat 24 Oct, Amsterdam. 2 artists: Haze and JAXX NOVEIRA. House. See the line-up on soundcheck.
+ADE  with a Twist of Orange & A Pinch of Spice at Meet Berlage on Sat 24 Oct, Amsterdam. 2 artists: Haze and JAXX NOVEIRA. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

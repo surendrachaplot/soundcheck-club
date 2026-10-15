@@ -1,6 +1,6 @@
 # Craig Charles
 
-Craig Charles is a Funk / Soul and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Charlies Loft, Glasgow on Sat, 24 Oct 2026.
+Craig Charles is a Funk / Soul and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Charlies Loft, Glasgow on Sat, 24 Oct 2026.
 
 Craig Charles is a funk / soul and disco artist based in United Kingdom, with 33 gigs on soundcheck across Birmingham, Bristol, Dundee and Edinburgh and 5 more. Often billed alongside Norman Jay, Crazy P and Fabio. Next up: Charlies Loft, Glasgow on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Craig Charles is a funk / soul and disco artist based in United Kingdom, with 33
 
 Norman Jay, Crazy P, Fabio
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craigcharles/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craigcharles/)*

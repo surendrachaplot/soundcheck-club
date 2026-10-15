@@ -1,6 +1,6 @@
 # Czboogie
 
-Czboogie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at smartbar, Chicago on Sun, 1 Nov 2026.
+Czboogie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at smartbar, Chicago on Sun, 1 Nov 2026.
 
 Czboogie is a house and techno artist based in United States of America, with 64 gigs on soundcheck across Chicago, Detroit and London. Often billed alongside Gant-Man, John Simmons and Gregboi. Next up: smartbar, Chicago on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Czboogie is a house and techno artist based in United States of America, with 64
 
 Gant-Man, John Simmons, Gregboi
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/czboogie/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/czboogie/)*

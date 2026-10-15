@@ -1,6 +1,6 @@
 # Lux Fragil
 
-Lux Fragil is a music venue in Lisbon with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Wattusi all night set" on Thu, 15 Oct 2026.
+Lux Fragil is a music venue in Lisbon with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Wattusi all night set" on Thu, 15 Oct 2026.
 
 Lux Fragil is a music venue in Lisbon listed on soundcheck. 9 upcoming gigs, with line-ups including Afonso Peixoto, André Granada, Bernardo Vaz and Caim and 2 more. See dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
 
@@ -22,4 +22,4 @@ Lux Fragil is a music venue in Lisbon listed on soundcheck. 9 upcoming gigs, wit
 
 Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal, Lisbon
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*

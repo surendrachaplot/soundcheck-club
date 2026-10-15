@@ -1,6 +1,6 @@
-# Âme (DJ) + Mystery Affair + Paulor at Fünk
+# Âme DJ + Mystery Affair + Paulor at Fünk
 
-Âme (DJ) + Mystery Affair + Paulor at Fünk on Fri 30 Oct, Mexico City. 3 artists: Âme, Mystery Affair and Paulor. Techno and House. See the line-up on soundcheck.
+Âme DJ + Mystery Affair + Paulor at Fünk on Fri 30 Oct, Mexico City. 3 artists: Âme, Mystery Affair and Paulor. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

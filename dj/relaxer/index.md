@@ -1,6 +1,6 @@
 # Relaxer
 
-Relaxer is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Nowadays, New York City on Thu, 12 Nov 2026.
+Relaxer is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Nowadays, New York City on Thu, 12 Nov 2026.
 
 Relaxer is a techno and experimental artist, with 64 gigs on soundcheck across Chicago, Krakow, Los Angeles and Montreal and 7 more. Often billed alongside aka-Sol, Baby Leo and Kilbourne. Next up: Nowadays, New York City on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ Relaxer is a techno and experimental artist, with 64 gigs on soundcheck across C
 
 aka-Sol, Baby Leo, Kilbourne
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/relaxer/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/relaxer/)*

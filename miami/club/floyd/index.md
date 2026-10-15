@@ -1,8 +1,8 @@
 # Floyd
 
-Floyd is a music venue in Miami with 17 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Satellite: Moscoman, Red Axes, & Whitesquare" on Thu, 15 Oct 2026.
+Floyd is a music venue in Miami with 18 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Satellite: Moscoman, Red Axes, & Whitesquare" on Thu, 15 Oct 2026.
 
-Floyd is a music venue in Miami listed on soundcheck. 17 upcoming gigs, with line-ups including Berrakka, Aluna, Bag Raiders and Cole Knight and 2 more. See dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
+Floyd is a music venue in Miami listed on soundcheck. 18 upcoming gigs, with line-ups including Berrakka, Aluna, Bag Raiders and Cole Knight and 2 more. See dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Floyd is a music venue in Miami listed on soundcheck. 17 upcoming gigs, with lin
 
 34 NE 11th Street Miami, FL 33132, Miami
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*

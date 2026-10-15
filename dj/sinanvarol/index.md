@@ -1,6 +1,6 @@
 # Sinan Varol
 
-Sinan Varol is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Marmorbar, Berlin on Fri, 13 Nov 2026.
+Sinan Varol is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Marmorbar, Berlin on Fri, 13 Nov 2026.
 
 Sinan Varol is a house and trance artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside LG JASPER <3, Baumeister and DJ FUNKI TASTE. Next up: Marmorbar, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Sinan Varol is a house and trance artist based in Germany, with 9 gigs on soundc
 
 LG JASPER <3, Baumeister (2), DJ FUNKI TASTE
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinanvarol/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinanvarol/)*

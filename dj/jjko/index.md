@@ -1,6 +1,6 @@
 # JJKØ
 
-JJKØ is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Wed, 21 Oct 2026.
+JJKØ is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Wed, 21 Oct 2026.
 
 JJKØ is a tech house and minimal artist based in Brazil, with 20 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Just Lucas, DJ Fridge and Desert Hearts. Next up: F8 1192 Folsom, San Francisco/Oakland on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ JJKØ is a tech house and minimal artist based in Brazil, with 20 gigs on soundc
 
 Just Lucas, DJ Fridge, Desert Hearts
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jjko/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jjko/)*

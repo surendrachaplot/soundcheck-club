@@ -1,6 +1,6 @@
 # MOCA
 
-MOCA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Downtown LA Grand Avenue, Los Angeles on Sat, 24 Oct 2026.
+MOCA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Downtown LA Grand Avenue, Los Angeles on Sat, 24 Oct 2026.
 
 MOCA is a house and techno artist, with 18 gigs on soundcheck across Bangkok, Los Angeles and Tokyo. Often billed alongside dj yumi-cco, 4STAR and ABILIO. Next up: Downtown LA Grand Avenue, Los Angeles on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ MOCA is a house and techno artist, with 18 gigs on soundcheck across Bangkok, Lo
 
 dj yumi-cco, 4STAR, ABILIO
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moca/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moca/)*

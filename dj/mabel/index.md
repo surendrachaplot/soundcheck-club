@@ -1,6 +1,6 @@
 # Mabel
 
-Mabel is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Solace, Melbourne on Sat, 17 Oct 2026.
+Mabel is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Solace, Melbourne on Sat, 17 Oct 2026.
 
 Mabel is a techno and trance artist based in Australia, with 116 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 21 more. Often billed alongside suki, Hannah D and Ricky Nord. Next up: Solace, Melbourne on Sat 17 Oct.
 
@@ -31,4 +31,4 @@ Mabel is a techno and trance artist based in Australia, with 116 gigs on soundch
 
 suki, Hannah D, Ricky Nord
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mabel/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mabel/)*

@@ -1,6 +1,6 @@
 # Rhiavas
 
-Rhiavas is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Brixton Jamm, London on Fri, 16 Oct 2026.
+Rhiavas is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Brixton Jamm, London on Fri, 16 Oct 2026.
 
 Rhiavas is a house and tech house artist based in United Kingdom, with 15 gigs on soundcheck across London. Often billed alongside FLORA THA EXPLORA, DRIA and Jerome Six. Next up: Brixton Jamm, London on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Rhiavas is a house and tech house artist based in United Kingdom, with 15 gigs o
 
 FLORA THA EXPLORA, DRIA, Jerome Six
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhiavas/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhiavas/)*

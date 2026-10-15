@@ -1,6 +1,6 @@
 # Forst
 
-Forst is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Sektor 9, Prague on Fri, 23 Oct 2026.
+Forst is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Sektor 9, Prague on Fri, 23 Oct 2026.
 
 Forst is a techno and house artist based in Czech Republic, with 11 gigs on soundcheck across Prague. Often billed alongside S.Tian, Big Lil and Misha Jaru. Next up: Sektor 9, Prague on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Forst is a techno and house artist based in Czech Republic, with 11 gigs on soun
 
 S.Tian, Big Lil, Misha Jaru
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/forst/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/forst/)*

@@ -1,6 +1,6 @@
 # SAAB
 
-SAAB is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Groove Bar, Prague on Fri, 16 Oct 2026.
+SAAB is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Groove Bar, Prague on Fri, 16 Oct 2026.
 
 SAAB is a house and minimal artist based in Czech Republic, with 40 gigs on soundcheck across Amsterdam, Barcelona, Paris and Prague. Often billed alongside Dona, Chris Rosewarne and Lucas Hulan. Next up: Groove Bar, Prague on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ SAAB is a house and minimal artist based in Czech Republic, with 40 gigs on soun
 
 Dona, Chris Rosewarne, Lucas Hulan
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saab/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saab/)*

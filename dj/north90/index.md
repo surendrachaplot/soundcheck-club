@@ -1,6 +1,6 @@
 # North 90
 
-North 90 is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Oath, Tokyo on Fri, 16 Oct 2026.
+North 90 is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Oath, Tokyo on Fri, 16 Oct 2026.
 
 North 90 is a house and club artist, with 11 gigs on soundcheck across Liverpool, London, Manchester and Paris and 1 more. Often billed alongside Al Jones, ABACILAR and All Trades. Next up: Oath, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ North 90 is a house and club artist, with 11 gigs on soundcheck across Liverpool
 
 Al Jones, ABACILAR, All Trades
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/north90/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/north90/)*

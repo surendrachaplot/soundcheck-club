@@ -1,6 +1,6 @@
 # Rave Rebels 2 at Vespers Club
 
-Rave Rebels 2 at Vespers Club on Sat 17 Oct, London. 3 artists: Cosmic Caz, Franzine and Princess Elf Bar. Techno and Electro. See the line-up on soundcheck.
+Rave Rebels 2 at Vespers Club on Sat 17 Oct, London. 4 artists: Cosmic Caz, Franzine, Princess Elf Bar and Sid The Science Bitch. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Rave Rebels 2 at Vespers Club on Sat 17 Oct, London. 3 artists: Cosmic Caz, Fran
 - Cosmic Caz
 - Franzine
 - Princess Elf Bar
+- Sid The Science Bitch
 
 *Source: [soundcheck](https://soundcheck.club/e/2550256-rave-rebels-2-at-vespers-club/)*

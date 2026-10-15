@@ -1,6 +1,6 @@
 # Capo Lee
 
-Capo Lee is a Garage and Grime artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Ministry Of Sound, London on Sat, 17 Oct 2026.
+Capo Lee is a Garage and Grime artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Ministry Of Sound, London on Sat, 17 Oct 2026.
 
 Capo Lee is a garage and grime artist based in United Kingdom, with 98 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Birmingham and 23 more. Often billed alongside Bakey, Izco and bullet tooth. Next up: Ministry Of Sound, London on Sat 17 Oct.
 
@@ -29,4 +29,4 @@ Capo Lee is a garage and grime artist based in United Kingdom, with 98 gigs on s
 
 Bakey, Izco, bullet tooth
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/capolee/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/capolee/)*

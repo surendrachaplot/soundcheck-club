@@ -1,6 +1,6 @@
 # IDA
 
-IDA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at ciao ciao Bar, Berlin on Sat, 17 Oct 2026.
+IDA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at ciao ciao Bar, Berlin on Sat, 17 Oct 2026.
 
 IDA is a techno and house artist based in Finland, with 24 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and Glasgow and 5 more. Often billed alongside Giordano, Denzel and Sansibar. Next up: ciao ciao Bar, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ IDA is a techno and house artist based in Finland, with 24 gigs on soundcheck ac
 
 Giordano, Denzel, Sansibar
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ida-uk/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ida-uk/)*

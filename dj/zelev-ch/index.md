@@ -1,6 +1,6 @@
 # Zelev (CH)
 
-Zelev (CH) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Galvanik Zug, Switzerland on Sat, 24 Oct 2026.
+Zelev (CH) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Galvanik Zug, Switzerland on Sat, 24 Oct 2026.
 
 Zelev (CH) is a house and minimal artist based in Switzerland, with 24 gigs on soundcheck across Berlin, Hamburg, London and Switzerland and 1 more. Often billed alongside Juli Lee, ATTA (GER) and 2M (CH). Next up: Galvanik Zug, Switzerland on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Zelev (CH) is a house and minimal artist based in Switzerland, with 24 gigs on s
 
 Juli Lee, ATTA (GER), 2M (CH)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zelev-ch/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zelev-ch/)*

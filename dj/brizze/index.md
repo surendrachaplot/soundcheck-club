@@ -1,6 +1,6 @@
 # Brizze
 
-Brizze is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 24 Oct 2026.
+Brizze is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 24 Oct 2026.
 
 Brizze is a techno and industrial artist based in Germany, with 57 gigs on soundcheck across Berlin. Often billed alongside DaSoMaZo, Wachbär and Kopflos. Next up: PKH Warehouse, Berlin on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Brizze is a techno and industrial artist based in Germany, with 57 gigs on sound
 
 DaSoMaZo, Wachbär, Kopflos
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brizze/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brizze/)*

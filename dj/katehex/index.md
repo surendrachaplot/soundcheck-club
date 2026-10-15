@@ -1,6 +1,6 @@
 # Kate Hex
 
-Kate Hex is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Supermarket, Zurich on Fri, 16 Oct 2026.
+Kate Hex is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Supermarket, Zurich on Fri, 16 Oct 2026.
 
 Kate Hex is a techno and psytrance artist, with 9 gigs on soundcheck across Berlin, Budapest, London and Sydney and 1 more. Often billed alongside NoNameLeft, Ele Luz and Karim Alkhayat. Next up: Supermarket, Zurich on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Kate Hex is a techno and psytrance artist, with 9 gigs on soundcheck across Berl
 
 NoNameLeft, Ele Luz, Karim Alkhayat
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katehex/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katehex/)*

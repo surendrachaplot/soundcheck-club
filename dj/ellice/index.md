@@ -1,6 +1,6 @@
 # Ellice
 
-Ellice is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Legal, Munich on Fri, 16 Oct 2026.
+Ellice is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Legal, Munich on Fri, 16 Oct 2026.
 
 Ellice is a house and tech house artist based in Germany, with 29 gigs on soundcheck across Berlin and Munich. Often billed alongside Subthiel, Andi Britz and Chet Rubbs. Next up: Legal, Munich on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Ellice is a house and tech house artist based in Germany, with 29 gigs on soundc
 
 Subthiel, Andi Britz, Chet Rubbs
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellice/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellice/)*

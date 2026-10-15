@@ -1,6 +1,6 @@
 # August V. M.
 
-August V. M. is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 17 Oct 2026.
+August V. M. is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 17 Oct 2026.
 
 August V. M. is a techno and experimental artist based in United States of America, with 12 gigs on soundcheck across New York City, Portland and Seattle. Often billed alongside 'nohup', Carly Barton and DJ Eft. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ August V. M. is a techno and experimental artist based in United States of Ameri
 
 'nohup', Carly Barton, DJ Eft
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/augustv.m./)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/augustv.m./)*

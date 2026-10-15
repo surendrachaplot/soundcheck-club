@@ -1,11 +1,11 @@
-# Groove Therapy presents Sibil at Xuxa
+# Groove Therapy presents Sibil at XuXa
 
-Groove Therapy presents Sibil at Xuxa on Fri 30 Oct, Austin. 4 artists: DJ HOT DONNA, Sam Clark, Sibil and Stone. Techno and House. See the line-up on soundcheck.
+Groove Therapy presents Sibil at XuXa on Fri 30 Oct, Austin. 4 artists: DJ HOT DONNA, Sam Clark, Sibil and Stone. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 30 Oct 2026 |
-| Venue | Xuxa |
+| Venue | XuXa |
 | City | Austin |
 
 ## Line-up

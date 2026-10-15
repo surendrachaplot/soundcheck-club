@@ -1,6 +1,6 @@
 # Sweetly
 
-Sweetly is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Honey Street Studio, Manchester on Fri, 16 Oct 2026.
+Sweetly is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Honey Street Studio, Manchester on Fri, 16 Oct 2026.
 
 Sweetly is a jungle and drum & bass artist based in United Kingdom, with 25 gigs on soundcheck across Leeds, Liverpool, London and Manchester. Often billed alongside Amelia Leigh, Simmo. and D.Tee. Next up: Honey Street Studio, Manchester on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Sweetly is a jungle and drum & bass artist based in United Kingdom, with 25 gigs
 
 Amelia Leigh, Simmo., D.Tee
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetly/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetly/)*

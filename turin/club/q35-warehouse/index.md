@@ -1,6 +1,6 @@
 # Q35 WAREHOUSE
 
-Q35 WAREHOUSE is a music venue in Turin with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Héctor Oaks (Oaks, Kaos /ESP), Andrea Perna (WRD /IT, Mikes (WRD /IT) at Q35 WAREHOUSE" on Sun, 18 Oct 2026.
+Q35 WAREHOUSE is a music venue in Turin with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Héctor Oaks (Oaks, Kaos /ESP), Andrea Perna (WRD /IT, Mikes (WRD /IT) at Q35 WAREHOUSE" on Sat, 17 Oct 2026.
 
 Q35 WAREHOUSE is a music venue in Turin listed on soundcheck. 8 upcoming gigs, with line-ups including Aberra, Daniel Avery, Ellen Allien and Gabber Eleganza and 2 more. See dates, start times and who's playing. Lungo Dora Firenze 131/A.
 
@@ -8,17 +8,17 @@ Q35 WAREHOUSE is a music venue in Turin listed on soundcheck. 8 upcoming gigs, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Héctor Oaks (Oaks, Kaos /ESP), Andrea Perna (WRD /IT, Mikes (WRD /IT) at Q35 WAREHOUSE | Héctor Oaks, Mike Esse, Rytm |
+| Sat, 17 Oct 2026 | Héctor Oaks (Oaks, Kaos /ESP), Andrea Perna (WRD /IT, Mikes (WRD /IT) at Q35 WAREHOUSE | Héctor Oaks, Mike Esse, Rytm |
 | Sat, 24 Oct 2026 | Daniel Avery hosted by EAR\WAX | Daniel Avery |
 | Sat, 31 Oct 2026 | sim0ne hosted by EAR\WAX halloween night + afterhours | sim0ne |
 | Sat, 7 Nov 2026 | Ogazón hosted by EAR\WAX | Ogazón |
 | Sat, 14 Nov 2026 | Gabber Eleganza All Night Long (Never Sleep /IT) | Gabber Eleganza |
 | Sat, 21 Nov 2026 | John Talabot hosted by EAR\WAX | John Talabot |
 | Sat, 28 Nov 2026 | MARRØN ext set (EersteCommunie /NL), Andrea Perna (WRD /IT), Aberra (WRD /IT) at Q35 WAREHOUSE | Aberra, MARRØN, Rytm |
-| Sat, 12 Dec 2026 | Ellen Allien (BPitch Control), madwoman (BPitch Control), Teeo Kristo (WRD, Technobull) | Ellen Allien, Teeo, madwoman |
+| Sat, 12 Dec 2026 | Ellen Allien (BPitch Control), madwoman (BPitch Control), Teeo Kristo (WRD, Technobull) | Ellen Allien, Teeo Kristo, madwoman |
 
 ## Address
 
 Lungo Dora Firenze 131/A, Turin
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/q35-warehouse/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/q35-warehouse/)*

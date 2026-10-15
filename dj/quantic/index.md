@@ -1,6 +1,6 @@
 # Quantic
 
-Quantic is a Jazz and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Jaeger, Oslo on Fri, 30 Oct 2026.
+Quantic is a Jazz and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Jaeger, Oslo on Fri, 30 Oct 2026.
 
 Quantic is a jazz and funk / soul artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Alejandra Sabillón, G-HA and Jamz Supernova. Next up: Jaeger, Oslo on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Quantic is a jazz and funk / soul artist based in United Kingdom, with 39 gigs o
 
 Alejandra Sabillón, G-HA, Jamz Supernova
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quantic/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quantic/)*

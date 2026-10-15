@@ -1,6 +1,6 @@
 # Paige Julia
 
-Paige Julia is a Bass and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Mothership, Auckland on Sat, 17 Oct 2026.
+Paige Julia is a Bass and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Mothership, Auckland on Sat, 17 Oct 2026.
 
 Paige Julia is a bass and drum & bass artist based in New Zealand, with 28 gigs on soundcheck across Auckland, Bristol, Christchurch and Leeds and 5 more. Often billed alongside Dylan C, Rob Warner and Alix Perez. Next up: The Mothership, Auckland on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Paige Julia is a bass and drum & bass artist based in New Zealand, with 28 gigs 
 
 Dylan C, Rob Warner, Alix Perez
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paigejulia/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paigejulia/)*

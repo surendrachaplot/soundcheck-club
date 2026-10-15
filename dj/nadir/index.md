@@ -1,13 +1,14 @@
 # Nadir
 
-Nadir is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Sat, 24 Oct 2026.
+Nadir is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at THE MAGICK BAR, Rome on Sat, 17 Oct 2026.
 
-Nadir is a techno and tech house artist based in Italy, with 15 gigs on soundcheck across London, Milan and Rome. Often billed alongside Mordak, Matteo Canori and Petra. Next up: Soap House - Ex Saponerie Mira Lanza, Rome on Sat 24 Oct.
+Nadir is a techno and tech house artist based in Italy, with 16 gigs on soundcheck across London, Milan and Rome. Often billed alongside Mordak, Kodacci and Matteo Canori. Next up: THE MAGICK BAR, Rome on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | THE MAGICK BAR | Rome |
 | Sat, 24 Oct 2026 | Soap House - Ex Saponerie Mira Lanza | Rome |
 
 ## Recently played
@@ -23,6 +24,6 @@ Nadir is a techno and tech house artist based in Italy, with 15 gigs on soundche
 
 ## Shares bills with
 
-Mordak, Matteo Canori, Petra
+Mordak, Kodacci, Matteo Canori
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadir/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadir/)*

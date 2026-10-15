@@ -1,8 +1,8 @@
 # JAYDAA
 
-JAYDAA is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Egg London, London on Sat, 17 Oct 2026.
+JAYDAA is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Egg London, London on Sat, 17 Oct 2026.
 
-JAYDAA is a tech house and house artist based in United Kingdom, with 204 gigs on soundcheck across Algarve, Birmingham, Ibiza and London and 2 more. Often billed alongside Shenin Amara, Jerome Six and Beezo. Next up: Egg London, London on Sat 17 Oct.
+JAYDAA is a tech house and house artist based in United Kingdom, with 205 gigs on soundcheck across Algarve, Birmingham, Ibiza and London and 2 more. Often billed alongside Shenin Amara, Jerome Six and Beezo. Next up: Egg London, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ JAYDAA is a tech house and house artist based in United Kingdom, with 204 gigs o
 | Sat, 24 Oct 2026 | The Steel Yard | London |
 | Sat, 31 Oct 2026 | Eutopia Warehouse | London |
 | Sat, 7 Nov 2026 | UNLOCKED | London |
+| Sat, 14 Nov 2026 | Ministry Of Sound | London |
 | Fri, 20 Nov 2026 | The Rainbow Pub | Birmingham |
 
 ## Recently played
@@ -29,4 +30,4 @@ JAYDAA is a tech house and house artist based in United Kingdom, with 204 gigs o
 
 Shenin Amara, Jerome Six, Beezo
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydaa/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydaa/)*

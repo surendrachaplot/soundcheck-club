@@ -1,6 +1,6 @@
 # Truncate
 
-Truncate is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at ART Madrid Club, Madrid on Fri, 16 Oct 2026.
+Truncate is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at ART Madrid Club, Madrid on Fri, 16 Oct 2026.
 
 Truncate is a techno and house artist based in United States of America, with 154 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 44 more. Often billed alongside Drumcell, DJ Hyperactive and Max Gardner. Next up: ART Madrid Club, Madrid on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ Truncate is a techno and house artist based in United States of America, with 15
 
 Drumcell, DJ Hyperactive, Max Gardner
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/truncate/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/truncate/)*

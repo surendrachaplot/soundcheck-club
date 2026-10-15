@@ -1,6 +1,6 @@
 # Petite Nhi
 
-Petite Nhi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 26 Oct 2026.
+Petite Nhi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 26 Oct 2026.
 
 Petite Nhi is a techno and trance artist based in United States of America, with 9 gigs on soundcheck across New York City. Often billed alongside shirlz, DJanae and 7ACHIEF. Next up: Bossa Nova Civic Club, New York City on Mon 26 Oct.
 
@@ -25,4 +25,4 @@ Petite Nhi is a techno and trance artist based in United States of America, with
 
 shirlz, DJanae, 7ACHIEF
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petitenhi/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petitenhi/)*

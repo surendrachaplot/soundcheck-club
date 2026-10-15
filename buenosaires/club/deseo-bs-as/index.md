@@ -1,8 +1,8 @@
 # Deseo BS AS
 
-Deseo BS AS is a music venue in Buenos Aires with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "0800-LINEA-CALIENTE & DESEO pres. Halloween with Marcellus Pittman" on Fri, 30 Oct 2026.
+Deseo BS AS is a music venue in Buenos Aires with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "0800-LINEA-CALIENTE & DESEO pres. Halloween with Marcellus Pittman" on Fri, 30 Oct 2026.
 
-Deseo BS AS is a music venue in Buenos Aires listed on soundcheck. 3 upcoming gigs, with line-ups including Bermani, Chloé Caillet, EllA and Marcellus Pittman and 2 more. See dates, start times and who's playing. Av. Chorroarín 1040, C1427CXU, Buenos Aires.
+Deseo BS AS is a music venue in Buenos Aires listed on soundcheck. 4 upcoming gigs, with line-ups including Bermani, Chloé Caillet, EllA and Marcellus Pittman and 2 more. See dates, start times and who's playing. Av. Chorroarín 1040, C1427CXU, Buenos Aires.
 
 ## What's on
 
@@ -11,9 +11,10 @@ Deseo BS AS is a music venue in Buenos Aires listed on soundcheck. 3 upcoming gi
 | Fri, 30 Oct 2026 | 0800-LINEA-CALIENTE & DESEO pres. Halloween with Marcellus Pittman | Marcellus Pittman, Pabels |
 | Fri, 30 Oct 2026 | HOT HALLOWEEN | Marcellus Pittman, Pabels |
 | Fri, 6 Nov 2026 | KLAV PRES. Chloé Caillet & LUKE ALESSI | Bermani, Chloé Caillet, EllA, Mar Monzon |
+| Fri, 13 Nov 2026 | SVEN VÄTH - CREAMFIELDS PRE PARTY | Maurizio Schmitz, Sven Vath |
 
 ## Address
 
 Av. Chorroarín 1040, C1427CXU, Buenos Aires, Buenos Aires
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/deseo-bs-as/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/deseo-bs-as/)*

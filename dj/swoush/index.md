@@ -1,6 +1,6 @@
 # Swoush
 
-Swoush is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Unité.22, Marseille on Sat, 24 Oct 2026.
+Swoush is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Unité.22, Marseille on Sat, 24 Oct 2026.
 
 Swoush is a bass and club artist based in France, with 11 gigs on soundcheck across Berlin, Marseille and Paris. Often billed alongside Unsho, Halfpipe Records and Enflure. Next up: Unité.22, Marseille on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Swoush is a bass and club artist based in France, with 11 gigs on soundcheck acr
 
 Unsho, Halfpipe Records, Enflure
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swoush/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swoush/)*

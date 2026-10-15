@@ -1,6 +1,6 @@
 # MARCHANTE
 
-MARCHANTE is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Silverlake Lounge, Los Angeles on Fri, 16 Oct 2026.
+MARCHANTE is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Silverlake Lounge, Los Angeles on Fri, 16 Oct 2026.
 
 MARCHANTE is a club and ghetto tech artist based in United States of America, with 8 gigs on soundcheck across Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside DJ Kita, Pretty R1cky and Banoffee. Next up: Silverlake Lounge, Los Angeles on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ MARCHANTE is a club and ghetto tech artist based in United States of America, wi
 
 DJ Kita, Pretty R1cky, Banoffee
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marchante/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marchante/)*

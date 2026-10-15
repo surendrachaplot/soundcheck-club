@@ -1,6 +1,6 @@
 # Ronny Luft
 
-Ronny Luft is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Insomnia, Berlin on Sat, 28 Nov 2026.
+Ronny Luft is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Insomnia, Berlin on Sat, 28 Nov 2026.
 
 Ronny Luft is a techno and house artist based in Germany, with 38 gigs on soundcheck across Berlin. Often billed alongside Felix Reichelt, Cat Vermillion and Kaminka Merel. Next up: Insomnia, Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Ronny Luft is a techno and house artist based in Germany, with 38 gigs on soundc
 
 Felix Reichelt, Cat Vermillion, Kaminka Merel
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronnyluft/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronnyluft/)*

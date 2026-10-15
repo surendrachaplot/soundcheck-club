@@ -1,6 +1,6 @@
 # alemiko
 
-alemiko is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at ://about blank, Berlin on Sat, 17 Oct 2026.
+alemiko is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at ://about blank, Berlin on Sat, 17 Oct 2026.
 
 alemiko is a techno and trance artist, with 128 gigs on soundcheck across Berlin, Leipzig and Malta. Often billed alongside Balkhausen, Limoncello and DJ Henk. Next up: ://about blank, Berlin on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ alemiko is a techno and trance artist, with 128 gigs on soundcheck across Berlin
 
 Balkhausen, Limoncello, DJ Henk
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alemiko/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alemiko/)*

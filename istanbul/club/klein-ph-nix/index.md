@@ -1,6 +1,6 @@
 # Klein Phönix
 
-Klein Phönix is a music venue in Istanbul with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Gioli & Assia + Bittermind + Fratello" on Fri, 16 Oct 2026.
+Klein Phönix is a music venue in Istanbul with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Gioli & Assia + Bittermind + Fratello" on Fri, 16 Oct 2026.
 
 Klein Phönix is a music venue in Istanbul listed on soundcheck. 6 upcoming gigs, with line-ups including Avangart Tabldot, Black Batu, Fratello and Giolì & Assia and 2 more. See dates, start times and who's playing. Atatürk Oto Sanayi Sitesi 52 Sokak No: 12/1, Maslak, Istanbul, Turkey.
 
@@ -19,4 +19,4 @@ Klein Phönix is a music venue in Istanbul listed on soundcheck. 6 upcoming gigs
 
 Atatürk Oto Sanayi Sitesi 52 Sokak No: 12/1, Maslak, Istanbul, Turkey, Istanbul
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/klein-ph-nix/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/klein-ph-nix/)*

@@ -1,6 +1,6 @@
 # LegenDari
 
-LegenDari is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Danger Danger, New York City on Sun, 18 Oct 2026.
+LegenDari is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Danger Danger, New York City on Sun, 18 Oct 2026.
 
 LegenDari is a house and techno artist based in United States of America, with 19 gigs on soundcheck across Miami and New York City. Often billed alongside Rei Calero, CAÑITA and A.Arias. Next up: Danger Danger, New York City on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ LegenDari is a house and techno artist based in United States of America, with 1
 
 Rei Calero, CAÑITA, A.Arias
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/legendari/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/legendari/)*

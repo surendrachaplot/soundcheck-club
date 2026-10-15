@@ -1,6 +1,6 @@
 # Daichi Wada
 
-Daichi Wada is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Les Enfants Brillants, Barcelona on Thu, 15 Oct 2026.
+Daichi Wada is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Les Enfants Brillants, Barcelona on Thu, 15 Oct 2026.
 
 Daichi Wada is a techno and trance artist based in Japan, with 63 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 9 more. Often billed alongside XINOVI, KOSEI and Golpe Mortal. Next up: Les Enfants Brillants, Barcelona on Thu 15 Oct.
 
@@ -27,4 +27,4 @@ Daichi Wada is a techno and trance artist based in Japan, with 63 gigs on soundc
 
 XINOVI, KOSEI, Golpe Mortal
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daichiwada/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daichiwada/)*

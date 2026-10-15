@@ -1,6 +1,6 @@
 # Franca
 
-Franca is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Fri, 23 Oct 2026.
+Franca is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Fri, 23 Oct 2026.
 
 Franca is a house and techno artist based in Germany, with 95 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 19 more. Often billed alongside Mimi Love, Britta Arnold and Mira. Next up: THE OTHER SIDE, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Franca is a house and techno artist based in Germany, with 95 gigs on soundcheck
 
 Mimi Love, Britta Arnold, Mira
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franca-de/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franca-de/)*

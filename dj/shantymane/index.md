@@ -1,8 +1,8 @@
 # shanty mane
 
-shanty mane is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Green Room NYC, New-york-city on Sat, 17 Oct 2026.
+shanty mane is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Green Room NYC, New-york-city on Sat, 17 Oct 2026.
 
-shanty mane is a house and techno artist based in United States of America, with 42 gigs on soundcheck across Amsterdam, Detroit, Los Angeles and Mexico City and 4 more. Often billed alongside EREZ.JPG, Willy Gorgon and Gill (US). Next up: Green Room NYC, New York City on Sat 17 Oct.
+shanty mane is a house and techno artist based in United States of America, with 44 gigs on soundcheck across Amsterdam, Detroit, Los Angeles and Mexico City and 4 more. Often billed alongside EREZ.JPG, Willy Gorgon and Jeny Michelle. Next up: Green Room NYC, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ shanty mane is a house and techno artist based in United States of America, with
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Green Room NYC | New-york-city |
 | Sat, 24 Oct 2026 | Basement Amsterdam | Amsterdam |
+| Fri, 6 Nov 2026 | TBA - Secret Location | New York City |
+| Fri, 20 Nov 2026 | The Bridge | Los Angeles |
 | Fri, 27 Nov 2026 | Outer Heaven | New York City |
 | Thu, 3 Dec 2026 | The Ground at Club Space | Miami |
 
@@ -26,6 +28,6 @@ shanty mane is a house and techno artist based in United States of America, with
 
 ## Shares bills with
 
-EREZ.JPG, Willy Gorgon, Gill (US)
+EREZ.JPG, Willy Gorgon, Jeny Michelle
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shantymane/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shantymane/)*

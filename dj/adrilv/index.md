@@ -1,6 +1,6 @@
 # ADRI (LV)
 
-ADRI (LV) is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Spkrbox, Detroit on Sun, 18 Oct 2026.
+ADRI (LV) is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Spkrbox, Detroit on Sun, 18 Oct 2026.
 
 ADRI (LV) is a techno and drum & bass artist based in Latvia, with 7 gigs on soundcheck across Cologne, Detroit, Lisbon and Riga. Often billed alongside AIDEL, Abel (FR) and Afshin. Next up: Spkrbox, Detroit on Sun 18 Oct.
 
@@ -23,4 +23,4 @@ ADRI (LV) is a techno and drum & bass artist based in Latvia, with 7 gigs on sou
 
 AIDEL, Abel (FR), Afshin
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrilv/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrilv/)*

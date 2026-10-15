@@ -1,6 +1,6 @@
 # Melania Wonder
 
-Melania Wonder is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Dune Park, Buenos Aires on Fri, 23 Oct 2026.
+Melania Wonder is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Dune Park, Buenos Aires on Fri, 23 Oct 2026.
 
 Melania Wonder is a house and tech house artist, with 7 gigs on soundcheck across Berlin, Buenos Aires, Mexico City and Sao Paulo. Often billed alongside Pedro Gariani, Manu Barcelo and Nebula Estudio. Next up: Dune Park, Buenos Aires on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Melania Wonder is a house and tech house artist, with 7 gigs on soundcheck acros
 
 Pedro Gariani, Manu Barcelo, Nebula Estudio
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melaniawonder/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melaniawonder/)*

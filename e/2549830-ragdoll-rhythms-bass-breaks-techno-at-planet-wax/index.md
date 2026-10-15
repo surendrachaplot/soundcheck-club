@@ -10,7 +10,7 @@ Ragdoll Rhythms: Bass, Breaks, Techno at Planet Wax on Sat 7 Nov, London. 5 arti
 
 ## Line-up
 
-- EDFX (2)
+- EDFX
 - NIIX
 - Sands Spheric
 - Sou Varine

@@ -1,6 +1,6 @@
 # Club Malasaña
 
-Club Malasaña is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Club Malasaña feat. Lea + CINCOCEROSEIS" on Thu, 15 Oct 2026.
+Club Malasaña is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Club Malasaña feat. Lea + CINCOCEROSEIS" on Thu, 15 Oct 2026.
 
 Club Malasaña is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including 1Night Only, Alvaro Medina, Arista and Boranimals and 2 more. See dates, start times and who's playing. Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain.
 
@@ -23,4 +23,4 @@ Club Malasaña is a music venue in Madrid listed on soundcheck. 10 upcoming gigs
 
 Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain, Madrid
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-malasa-a/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-malasa-a/)*

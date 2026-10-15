@@ -1,6 +1,6 @@
 # Fadi Mohem
 
-Fadi Mohem is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at EXIL, Zurich on Fri, 16 Oct 2026.
+Fadi Mohem is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at EXIL, Zurich on Fri, 16 Oct 2026.
 
 Fadi Mohem is a techno and house artist based in Germany, with 235 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 55 more. Often billed alongside Ben Klock, Ogazón and JakoJako. Next up: EXIL, Zurich on Fri 16 Oct.
 
@@ -10,7 +10,7 @@ Fadi Mohem is a techno and house artist based in Germany, with 235 gigs on sound
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | EXIL | Zurich |
 | Sat, 17 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
-| Thu, 22 Oct 2026 | Levenslang Amsterdam | Amsterdam |
+| Thu, 22 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
 | Fri, 30 Oct 2026 | TBA - Brooklyn | New York City |
@@ -36,4 +36,4 @@ Fadi Mohem is a techno and house artist based in Germany, with 235 gigs on sound
 
 Ben Klock, Ogazón, JakoJako
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fadimohem/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fadimohem/)*

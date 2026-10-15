@@ -1,6 +1,6 @@
 # BERTØ
 
-BERTØ is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Lamma Island, Hong Kong on Sat, 31 Oct 2026.
+BERTØ is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Lamma Island, Hong Kong on Sat, 31 Oct 2026.
 
 BERTØ is a techno and trance artist, with 12 gigs on soundcheck across Berlin, Hong Kong and Rotterdam. Often billed alongside Flowerboiii, KEALAN and __Poppy__. Next up: TBA - Lamma Island, Hong Kong on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ BERTØ is a techno and trance artist, with 12 gigs on soundcheck across Berlin, 
 
 Flowerboiii, KEALAN, __Poppy__
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berto/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berto/)*

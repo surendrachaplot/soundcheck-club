@@ -1,6 +1,6 @@
 # Ben UFO
 
-Ben UFO is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 16 Oct 2026.
+Ben UFO is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 16 Oct 2026.
 
 Ben UFO is a techno and house artist based in United Kingdom, with 243 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 62 more. Often billed alongside Helena Hauff, Ogazón and Avalon Emerson. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 16 Oct.
 
@@ -34,4 +34,4 @@ Ben UFO is a techno and house artist based in United Kingdom, with 243 gigs on s
 
 Helena Hauff, Ogazón, Avalon Emerson
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*

@@ -1,6 +1,6 @@
 # xoxo (DE)
 
-xoxo (DE) is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Neukölln, Berlin on Fri, 23 Oct 2026.
+xoxo (DE) is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Neukölln, Berlin on Fri, 23 Oct 2026.
 
 xoxo (DE) is a trance and house artist based in Germany, with 16 gigs on soundcheck across Berlin, Hamburg and Milan. Often billed alongside Mumu, BreakLD and HAMY. Next up: TBA - Neukölln, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ xoxo (DE) is a trance and house artist based in Germany, with 16 gigs on soundch
 
 Mumu, BreakLD, HAMY
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xoxode/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xoxode/)*

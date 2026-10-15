@@ -1,6 +1,6 @@
 # Supperclub Cruise
 
-Supperclub Cruise is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "[LAST 25 TICKETS] Jackies ADE Boat Party 2026 - Louie Vega - Open to Close" on Thu, 22 Oct 2026.
+Supperclub Cruise is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "[LAST 25 TICKETS] Jackies ADE Boat Party 2026 - Louie Vega - Open to Close" on Thu, 22 Oct 2026.
 
 Supperclub Cruise is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including 86Hz, Akira, Alex Sharp and Cris-H and 2 more. See dates, start times and who's playing. De Ruyterkade, Pier 14; Binnenstad Amsterdam; Netherlands.
 
@@ -18,4 +18,4 @@ Supperclub Cruise is a music venue in Amsterdam listed on soundcheck. 5 upcoming
 
 De Ruyterkade, Pier 14; Binnenstad Amsterdam; Netherlands, Amsterdam
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/supperclub-cruise/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/supperclub-cruise/)*

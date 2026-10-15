@@ -1,14 +1,15 @@
 # Kate Savage
 
-Kate Savage is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at The Lord Gladstone, Sydney on Sat, 31 Oct 2026.
+Kate Savage is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Lord Gladstone, Sydney on Sat, 31 Oct 2026.
 
-Kate Savage is a drum & bass and bass artist, with 21 gigs on soundcheck across London and Sydney. Often billed alongside Thierry D, Jay See and UBERMOON. Next up: The Lord Gladstone, Sydney on Sat 31 Oct.
+Kate Savage is a drum & bass and jungle artist, with 22 gigs on soundcheck across London and Sydney. Often billed alongside Thierry D, Jay See and UBERMOON. Next up: The Lord Gladstone, Sydney on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | The Lord Gladstone | Sydney |
+| Sun, 29 Nov 2026 | Factory Theatre | Sydney |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kate Savage is a drum & bass and bass artist, with 21 gigs on soundcheck across 
 
 Thierry D, Jay See, UBERMOON
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katesavage/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katesavage/)*

@@ -1,6 +1,6 @@
 # JCow
 
-JCow is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Berlin on Sat, 31 Oct 2026.
+JCow is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Berlin on Sat, 31 Oct 2026.
 
 JCow is a bass and breakbeat artist, with 20 gigs on soundcheck across Berlin and Hamburg. Often billed alongside DJ STRAIGHT GIRL, Babe Gorgeous and Exael. Next up: TBA, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ JCow is a bass and breakbeat artist, with 20 gigs on soundcheck across Berlin an
 
 DJ STRAIGHT GIRL, Babe Gorgeous, Exael
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jcow/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jcow/)*

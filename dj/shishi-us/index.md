@@ -1,6 +1,6 @@
 # Shi Shi
 
-Shi Shi is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Mansions, New York City on Thu, 15 Oct 2026.
+Shi Shi is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Mansions, New York City on Thu, 15 Oct 2026.
 
 Shi Shi is a house and club artist based in United States of America, with 39 gigs on soundcheck across Chicago, London, Los Angeles and New York City and 3 more. Often billed alongside Pacer, AceMo and sqip. Next up: Mansions, New York City on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Shi Shi is a house and club artist based in United States of America, with 39 gi
 
 Pacer, AceMo, sqip
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shishi-us/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shishi-us/)*

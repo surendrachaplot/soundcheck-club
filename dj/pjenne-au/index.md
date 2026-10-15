@@ -1,6 +1,6 @@
 # Pjenné
 
-Pjenné is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Collingwood Yards, Melbourne on Sat, 17 Oct 2026.
+Pjenné is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Collingwood Yards, Melbourne on Sat, 17 Oct 2026.
 
 Pjenné is a techno and tech house artist based in Australia, with 79 gigs on soundcheck across Amsterdam, Athens, Berlin and London and 6 more. Often billed alongside Millú, Andy Hart and Hybrid Man. Next up: Collingwood Yards, Melbourne on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Pjenné is a techno and tech house artist based in Australia, with 79 gigs on so
 
 Millú, Andy Hart, Hybrid Man
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pjenne-au/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pjenne-au/)*

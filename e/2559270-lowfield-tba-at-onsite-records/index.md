@@ -1,10 +1,10 @@
 # Lowfield TBA at Onsite Records
 
-Lowfield TBA at Onsite Records on Sat 12 Dec, Manchester. See the line-up on soundcheck.
+Lowfield TBA at Onsite Records on Sat 5 Dec, Manchester. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 12 Dec 2026 |
+| Date | Sat, 5 Dec 2026 |
 | Venue | Onsite Records |
 | City | Manchester |
 

@@ -1,6 +1,6 @@
 # Rossa
 
-Rossa is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at InDeep'n'Dance Records, Amsterdam on Wed, 21 Oct 2026.
+Rossa is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at InDeep'n'Dance Records, Amsterdam on Wed, 21 Oct 2026.
 
 Rossa is a techno and tech house artist based in Netherlands, with 29 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Paris and 1 more. Often billed alongside Dexon, Aur3lius and Caelestis. Next up: InDeep'n'Dance Records, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Rossa is a techno and tech house artist based in Netherlands, with 29 gigs on so
 
 Dexon, Aur3lius, Caelestis
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrossa/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrossa/)*

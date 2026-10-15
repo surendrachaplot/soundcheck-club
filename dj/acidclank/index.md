@@ -1,6 +1,6 @@
 # Acidclank
 
-Acidclank is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at ZUBAR, Tokyo on Thu, 29 Oct 2026.
+Acidclank is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at ZUBAR, Tokyo on Thu, 29 Oct 2026.
 
 Acidclank is a techno and electro artist based in Japan, with 30 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Lewo Chyba, Alpha Decay and Big Animal Theory. Next up: ZUBAR, Tokyo on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Acidclank is a techno and electro artist based in Japan, with 30 gigs on soundch
 
 Lewo Chyba, Alpha Decay, Big Animal Theory
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidclank/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidclank/)*

@@ -1,6 +1,6 @@
 # DJ KING KOBRA
 
-DJ KING KOBRA is a electronic artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Nova Cvernovka, Bratislava on Fri, 16 Oct 2026.
+DJ KING KOBRA is a electronic artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Nova Cvernovka, Bratislava on Fri, 16 Oct 2026.
 
 DJ KING KOBRA is an electronic artist based in Slovakia, with 2 gigs on soundcheck across Bratislava. Often billed alongside Ansea, BARRA and KRISTIE KARDIO. Next up: Nova Cvernovka, Bratislava on Fri 16 Oct.
 
@@ -15,4 +15,4 @@ DJ KING KOBRA is an electronic artist based in Slovakia, with 2 gigs on soundche
 
 Ansea, BARRA, KRISTIE KARDIO
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkingkobra/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkingkobra/)*

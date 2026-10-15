@@ -1,6 +1,6 @@
 # RNG (1)
 
-RNG (1) is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Forestlimit, Tokyo on Sat, 7 Nov 2026.
+RNG (1) is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Forestlimit, Tokyo on Sat, 7 Nov 2026.
 
 RNG is a bass and drum & bass artist based in Japan, with 15 gigs on soundcheck across Tokyo. Often billed alongside ITSUKI, ATAMI and Ginji. Next up: Forestlimit, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ RNG is a bass and drum & bass artist based in Japan, with 15 gigs on soundcheck 
 
 ITSUKI, ATAMI, Ginji
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rng-1/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rng-1/)*

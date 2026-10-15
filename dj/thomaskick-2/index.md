@@ -1,6 +1,6 @@
 # Thomas Kick (2)
 
-Thomas Kick (2) is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Tibidabo Area, Barcelona on Sat, 17 Oct 2026.
+Thomas Kick (2) is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Tibidabo Area, Barcelona on Sat, 17 Oct 2026.
 
 Thomas Kick is a house and club artist based in Spain, with 36 gigs on soundcheck across Barcelona, London, Madrid and Milan. Often billed alongside Adria (ES), Pau Rosés and Perro Jimbo. Next up: TBA - Tibidabo Area, Barcelona on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Thomas Kick is a house and club artist based in Spain, with 36 gigs on soundchec
 
 Adria (ES), Pau Rosés, Perro Jimbo
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomaskick-2/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomaskick-2/)*

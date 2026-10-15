@@ -1,6 +1,6 @@
 # Dianthe
 
-Dianthe is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at EQ San Diego, San Diego on Thu, 15 Oct 2026.
+Dianthe is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at EQ San Diego, San Diego on Thu, 15 Oct 2026.
 
 Dianthe is a techno and progressive house artist based in United States of America, with 25 gigs on soundcheck across Berlin, Hamburg, London and Los Angeles and 2 more. Often billed alongside Emanate, Kelly Verse and JustJovani. Next up: EQ San Diego, San Diego on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Dianthe is a techno and progressive house artist based in United States of Ameri
 
 Emanate, Kelly Verse, JustJovani
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dianthe/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dianthe/)*

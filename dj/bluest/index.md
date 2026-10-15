@@ -1,6 +1,6 @@
 # Bluest
 
-Bluest is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Club Lucia, Vienna on Fri, 16 Oct 2026.
+Bluest is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Club Lucia, Vienna on Fri, 16 Oct 2026.
 
 Bluest is a techno and industrial artist based in Austria, with 11 gigs on soundcheck across Vienna. Often billed alongside eskalia, Maddest and Silentsevir. Next up: Club Lucia, Vienna on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Bluest is a techno and industrial artist based in Austria, with 11 gigs on sound
 
 eskalia, Maddest, Silentsevir
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bluest/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bluest/)*

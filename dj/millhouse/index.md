@@ -1,6 +1,6 @@
 # Millhouse
 
-Millhouse is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Smith St Hotel, Melbourne on Sun, 18 Oct 2026.
+Millhouse is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Smith St Hotel, Melbourne on Sun, 18 Oct 2026.
 
 Millhouse is a house and techno artist, with 12 gigs on soundcheck across Austin, Berlin, Los Angeles and Melbourne. Often billed alongside Mechanic Slave, Thian and Sarkha. Next up: Smith St Hotel, Melbourne on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Millhouse is a house and techno artist, with 12 gigs on soundcheck across Austin
 
 Mechanic Slave, Thian, Sarkha
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/millhouse/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/millhouse/)*

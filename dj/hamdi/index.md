@@ -1,6 +1,6 @@
 # Hamdi
 
-Hamdi is a Dubstep and Garage artist with 10 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+Hamdi is a Dubstep and Garage artist with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
 Hamdi is a dubstep and garage artist based in Germany, with 66 gigs on soundcheck across Auckland, Austin, Barcelona and Berlin and 26 more. Often billed alongside MPH, Oppidan and John Summit. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
@@ -34,4 +34,4 @@ Hamdi is a dubstep and garage artist based in Germany, with 66 gigs on soundchec
 
 MPH (1), Oppidan, John Summit
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hamdi/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hamdi/)*

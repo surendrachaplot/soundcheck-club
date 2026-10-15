@@ -1,8 +1,8 @@
 # BERLIN
 
-BERLIN is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Catonium, Hamburg on Fri, 16 Oct 2026.
+BERLIN is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Catonium, Hamburg on Fri, 16 Oct 2026.
 
-BERLIN is a techno and house artist based in Japan, with 48 gigs on soundcheck across Berlin, Hamburg, Montreal and Osaka and 2 more. Often billed alongside Laigonen Kanonen, V (NYC) and Max Muth. Next up: Catonium, Hamburg on Fri 16 Oct.
+BERLIN is a techno and house artist based in Japan, with 49 gigs on soundcheck across Berlin, Hamburg, Montreal and Osaka and 3 more. Often billed alongside Laigonen Kanonen, V (NYC) and Max Muth. Next up: Catonium, Hamburg on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ BERLIN is a techno and house artist based in Japan, with 48 gigs on soundcheck a
 | Fri, 16 Oct 2026 | Catonium | Hamburg |
 | Fri, 23 Oct 2026 | KitKatClub | Berlin |
 | Sat, 24 Oct 2026 | Spindler & Klatt | Berlin |
+| Fri, 4 Dec 2026 | Bike Jesus | Prague |
 | Thu, 19 Aug 2027 | Beach Neukölln | Berlin |
 
 ## Recently played
@@ -28,4 +29,4 @@ BERLIN is a techno and house artist based in Japan, with 48 gigs on soundcheck a
 
 Laigonen Kanonen, V (NYC), Max Muth
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berlin/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berlin/)*

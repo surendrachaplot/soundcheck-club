@@ -1,6 +1,6 @@
 # Shanti
 
-Shanti is a Techno and Acid artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Red Room, Milwaukee on Fri, 16 Oct 2026.
+Shanti is a Techno and Acid artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Red Room, Milwaukee on Fri, 16 Oct 2026.
 
 Shanti is a techno and acid artist based in United States of America, with 75 gigs on soundcheck across Amsterdam, Berlin, Chicago and Detroit and 5 more. Often billed alongside Scum.ee, Josh Tong and JS Alvarez. Next up: TBA - Red Room, Milwaukee on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Shanti is a techno and acid artist based in United States of America, with 75 gi
 
 Scum.ee, Josh Tong, JS Alvarez
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shanti/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shanti/)*

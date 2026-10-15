@@ -1,6 +1,6 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 20 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "New Nostalgia x Public Release: Heliotropic 3 [SECRET LINEUP / POWERED BY TEENAGE ENGINEERING]" on Thu, 15 Oct 2026.
+Public Works is a music venue in San Francisco/Oakland with 20 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "New Nostalgia x Public Release: Heliotropic 3 [SECRET LINEUP / POWERED BY TEENAGE ENGINEERING]" on Thu, 15 Oct 2026.
 
 Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 20 upcoming gigs, with line-ups including Adam Kraft, Alex Oxley, Alkemiss Erika and ALMAS and 2 more. See dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
@@ -23,4 +23,4 @@ Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 20 
 
 161 Erie Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*

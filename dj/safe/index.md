@@ -1,6 +1,6 @@
 # Safe
 
-Safe is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Smith St Hotel, Melbourne on Sun, 18 Oct 2026.
+Safe is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Smith St Hotel, Melbourne on Sun, 18 Oct 2026.
 
 Safe is a techno and club artist based in Egypt, with 20 gigs on soundcheck across Dublin and Melbourne. Often billed alongside Kiara Friend, Clancy and Cosy. Next up: Smith St Hotel, Melbourne on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Safe is a techno and club artist based in Egypt, with 20 gigs on soundcheck acro
 
 Kiara Friend, Clancy (2), Cosy (2)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/safe/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/safe/)*

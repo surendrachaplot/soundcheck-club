@@ -1,6 +1,6 @@
 # PRANAYAMA
 
-PRANAYAMA is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - DIABLO NEGRO BAR, Mexico City on Fri, 6 Nov 2026.
+PRANAYAMA is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - DIABLO NEGRO BAR, Mexico City on Fri, 6 Nov 2026.
 
 PRANAYAMA is a techno and hardcore artist based in Mexico, with 16 gigs on soundcheck across Mexico City. Often billed alongside Cabe, Jasym and NAHAN. Next up: TBA - DIABLO NEGRO BAR, Mexico City on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ PRANAYAMA is a techno and hardcore artist based in Mexico, with 16 gigs on sound
 
 Cabe, Jasym, NAHAN
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pranayama/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pranayama/)*

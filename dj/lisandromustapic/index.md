@@ -1,6 +1,6 @@
 # Lisandro Mustapic
 
-Lisandro Mustapic is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Cadavra, Madrid on Fri, 20 Nov 2026.
+Lisandro Mustapic is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Cadavra, Madrid on Fri, 20 Nov 2026.
 
 Lisandro Mustapic is a house and minimal artist based in Spain, with 48 gigs on soundcheck across Barcelona and Madrid. Often billed alongside IVAN POSEIDON, MARYO and Derk. Next up: Cadavra, Madrid on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Lisandro Mustapic is a house and minimal artist based in Spain, with 48 gigs on 
 
 IVAN POSEIDON, MARYO, Derk
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisandromustapic/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisandromustapic/)*

@@ -1,8 +1,8 @@
 # ://about blank
 
-://about blank is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Amsterdam Techno Records and DEPOT BERLIN [Amsterdam & Berlin]" on Fri, 16 Oct 2026.
+://about blank is a music venue in Berlin with 27 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Amsterdam Techno Records and DEPOT BERLIN [Amsterdam & Berlin]" on Fri, 16 Oct 2026.
 
-://about blank is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including 4NOUK, Aamir, alemiko and Alex.Do and 2 more. See dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
+://about blank is a music venue in Berlin listed on soundcheck. 27 upcoming gigs, with line-ups including 4NOUK, 50PHIE, Aamir and Acid Managment and 2 more. See dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
 
 ## What's on
 
@@ -16,11 +16,11 @@
 | Sat, 31 Oct 2026 | Glücklich durch die Krise (G2DK) - Daytime Rave | Anna Kasyan, DJ.KRISE, Felizissima, Rosa Luxemburg, The Brvtalist |
 | Sat, 31 Oct 2026 | Fangtasm Vol.2 | Anna Kasyan, Dj Exagggerator, Gretchen B, Heshumi, Holywanderer, Lifka, ZAGROZA, tech_punk |
 | Fri, 6 Nov 2026 | Strassen Aus Zucker | Bruder Jakob |
+| Fri, 6 Nov 2026 | Party aus ZUCKER | 50PHIE, Acid Managment, Christian Kluge, DJ Detective, DJ WETPANTS, Full Multi, Gwen Wayne, Haiyti, Kenji Tanaka, Modschi |
 | Sat, 7 Nov 2026 | ANTIHOUR - Party minus Antisemitismus | Saturator, Staím, deliora |
-| Sat, 7 Nov 2026 | DUALISM with Anuuk & DON CHOPPA, Charleen Herzig, Paul Meier, Alex.Do | 4NOUK, Alex.Do, Anuuk, Balkhausen, Charleen Herzig, DJ Flink, DonChoppa, Jacky Ickx, Paul Meier, SEKTOR69, happysadgirl |
 
 ## Address
 
 Markgrafendamm 24c, 10245 Berlin, Germany, Berlin
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*

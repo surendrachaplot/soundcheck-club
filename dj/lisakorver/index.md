@@ -1,6 +1,6 @@
 # Lisa Korver
 
-Lisa Korver is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TivoliVredenburg, Utrecht on Sat, 17 Oct 2026.
+Lisa Korver is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TivoliVredenburg, Utrecht on Sat, 17 Oct 2026.
 
 Lisa Korver is a techno and house artist based in Netherlands, with 74 gigs on soundcheck across Amsterdam, Antwerp, Eindhoven and Ibiza and 8 more. Often billed alongside LAMMER, OLIVIA LENSEN and Freddi. Next up: TivoliVredenburg, Utrecht on Sat 17 Oct.
 
@@ -36,4 +36,4 @@ Lisa Korver is a techno and house artist based in Netherlands, with 74 gigs on s
 
 LAMMER, OLIVIA LENSEN, Freddi
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakorver/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakorver/)*

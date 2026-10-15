@@ -1,8 +1,8 @@
 # UFO95
 
-UFO95 is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Paradiso, Amsterdam on Sat, 24 Oct 2026.
+UFO95 is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Paradiso, Amsterdam on Sat, 24 Oct 2026.
 
-UFO95 is a techno and house artist based in France, with 165 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 55 more. Often billed alongside Hadone, Adriana Lopez and Anetha. Next up: Paradiso, Amsterdam on Sat 24 Oct.
+UFO95 is a techno and house artist based in France, with 166 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 55 more. Often billed alongside Hadone, Adriana Lopez and Anetha. Next up: Paradiso, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ UFO95 is a techno and house artist based in France, with 165 gigs on soundcheck 
 | Sat, 31 Oct 2026 | Cosmos Club Sevilla | South |
 | Fri, 6 Nov 2026 | Domicile | Miami |
 | Sat, 7 Nov 2026 | smartbar | Chicago |
+| Fri, 13 Nov 2026 | RADION | Amsterdam |
 | Sat, 14 Nov 2026 | SMUT Athens | Athens |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
 | Wed, 9 Dec 2026 | TBA - Lyon - Confluence | Lyon |
@@ -33,4 +34,4 @@ UFO95 is a techno and house artist based in France, with 165 gigs on soundcheck 
 
 Hadone, Adriana Lopez, Anetha
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ufo95/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ufo95/)*

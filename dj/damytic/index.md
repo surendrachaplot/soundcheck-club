@@ -1,6 +1,6 @@
 # Damytic
 
-Damytic is a electronic artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at El Rio Hostel, Colombia on Sun, 18 Oct 2026.
+Damytic is a electronic artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at El Rio Hostel, Colombia on Sun, 18 Oct 2026.
 
 Damytic is an electronic artist based in Colombia, with 2 gigs on soundcheck across Colombia. Often billed alongside Benny (El Rio Hostel), Bitter Babe and DJ Mentiras. Next up: El Rio Hostel, Colombia on Sun 18 Oct.
 
@@ -15,4 +15,4 @@ Damytic is an electronic artist based in Colombia, with 2 gigs on soundcheck acr
 
 Benny (El Rio Hostel), Bitter Babe, DJ Mentiras
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damytic/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damytic/)*

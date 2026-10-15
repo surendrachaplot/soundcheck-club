@@ -1,14 +1,13 @@
 # WOMB
 
-WOMB is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "WTW (TECHNO)" on Wed, 14 Oct 2026.
+WOMB is a music venue in Tokyo with 23 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "WTW (HOUSE / DISCO)" on Thu, 15 Oct 2026.
 
-WOMB is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including AHREUM, Akua, ASIN and Bart Skils and 2 more. See dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
+WOMB is a music venue in Tokyo listed on soundcheck. 23 upcoming gigs, with line-ups including Addiy, AHREUM, AIBA and Akua and 2 more. See dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 14 Oct 2026 | WTW (TECHNO) | Connor Wall, DANA NADA, Shinsuke Goto |
 | Thu, 15 Oct 2026 | WTW (HOUSE / DISCO) | DNG (1), DiscCampForest, Hayato |
 | Fri, 16 Oct 2026 | DEEP DIVE DRIVE | DJ SO, Delta Funktionen, Full Sentimental, John Plaza, LØST, Peter Van Hoesen, Remi Ohsugi, Yo Nishijima |
 | Fri, 16 Oct 2026 | DEEP DIVE DRIVE (TECHNO) | DJ SO, Delta Funktionen, Full Sentimental, John Plaza, LØST, Nico (Le Cirque Sonore), Peter Van Hoesen, Yo Nishijima |
@@ -18,9 +17,10 @@ WOMB is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line
 | Wed, 21 Oct 2026 | INFUSE_INTO (Hardtechno - Schranz - Industrial) | ASIN, CHIKA, SHO (10), YOXIKI, YURI VALEN |
 | Thu, 22 Oct 2026 | BABA LOOP -TAKEOVER- (TECH HOUSE) |  |
 | Fri, 23 Oct 2026 | INTER 4TH ANNIVERSARY EDITION (TECHNO / HOUSE) | DJ Emma, KUNPEI, LogicBeat, MUSCLE ∞ BROTHERS, STRATAH, Shannon Brothers, Shinichi Osawa, YURI VALEN |
+| Sat, 24 Oct 2026 | CARTULIS (TECHNO/HOUSE) | CHIDA, DSKE, Junki Inoue, P-YAN, RYOKEI, Unai Trotti, YAMA(JP/OSK), Z@p, teppei |
 
 ## Address
 
 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan, Tokyo
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*

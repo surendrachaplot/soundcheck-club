@@ -1,6 +1,6 @@
 # RAPH
 
-RAPH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Silencio, Paris on Thu, 15 Oct 2026.
+RAPH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Silencio, Paris on Thu, 15 Oct 2026.
 
 RAPH is a techno and house artist based in Belgium, with 12 gigs on soundcheck across Berlin, Melbourne, Munich and Paris. Often billed alongside Kamo, SHAJAN and Choss. Next up: Silencio, Paris on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ RAPH is a techno and house artist based in Belgium, with 12 gigs on soundcheck a
 
 Kamo, SHAJAN, Choss
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raph/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raph/)*

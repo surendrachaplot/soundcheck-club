@@ -1,6 +1,6 @@
 # Isoskeles
 
-Isoskeles is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at AMT, Berlin on Sat, 24 Oct 2026.
+Isoskeles is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at AMT, Berlin on Sat, 24 Oct 2026.
 
 Isoskeles is a techno and industrial artist based in Germany, with 15 gigs on soundcheck across Athens and Berlin. Often billed alongside Kelly Cortese, OXOPOHA and _minted. Next up: AMT, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Isoskeles is a techno and industrial artist based in Germany, with 15 gigs on so
 
 Kelly Cortese, OXOPOHA, _minted
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isoskeles/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isoskeles/)*

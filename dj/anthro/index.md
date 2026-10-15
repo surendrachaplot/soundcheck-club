@@ -1,6 +1,6 @@
 # anthró
 
-anthró is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 7 Nov 2026.
+anthró is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 7 Nov 2026.
 
 anthró is a techno and deep house artist based in Czech Republic, with 16 gigs on soundcheck across Prague. Often billed alongside Efectiv, Grafik and Nastya Muravyova. Next up: Ankali & Planeta Za, Prague on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ anthró is a techno and deep house artist based in Czech Republic, with 16 gigs 
 
 Efectiv, Grafik (2), Nastya Muravyova
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthro/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthro/)*

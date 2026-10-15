@@ -1,6 +1,6 @@
 # Ben Sterling
 
-Ben Sterling is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Ben Sterling is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Ben Sterling is a tech house and house artist based in United Kingdom, with 189 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 40 more. Often billed alongside Marco Carola, Max Dean and Ms. Mada. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Ben Sterling is a tech house and house artist based in United Kingdom, with 189 
 
 Marco Carola, Max Dean, Ms. Mada
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bensterling/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bensterling/)*

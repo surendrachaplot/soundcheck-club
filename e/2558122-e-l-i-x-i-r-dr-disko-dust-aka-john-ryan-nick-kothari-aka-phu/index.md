@@ -1,6 +1,6 @@
-# E L I X I R • DR. Disko Dust aka John Ryan • Nick Kothari aka Phunhousen wsg madeera at Northern Lights Lounge
+# E L I X I R • DR. Disko Dust aka John Ryan • Nick Kothari aka Phunhouse wsg madeera at Northern Lights Lounge
 
-E L I X I R • DR. Disko Dust aka John Ryan • Nick Kothari aka Phunhousen wsg madeera at Northern Lights Lounge on Thu 15 Oct, Detroit. 3 artists: DR. Disko Dust, madeera and Nick Kothari. Techno and Disco. See the line-up on soundcheck.
+E L I X I R • DR. Disko Dust aka John Ryan • Nick Kothari aka Phunhouse wsg madeera at Northern Lights Lounge on Thu 15 Oct, Detroit. 3 artists: DR. Disko Dust, madeera and Nick Kothari. Techno and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

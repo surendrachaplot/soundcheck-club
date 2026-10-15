@@ -1,6 +1,6 @@
 # DJ Candor
 
-DJ Candor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at The Vault 313, Detroit on Sat, 24 Oct 2026.
+DJ Candor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at The Vault 313, Detroit on Sat, 24 Oct 2026.
 
 DJ Candor is a techno and house artist based in United States of America, with 37 gigs on soundcheck across Detroit. Often billed alongside Hood (US), Redax and Zafar. Next up: The Vault 313, Detroit on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DJ Candor is a techno and house artist based in United States of America, with 3
 
 Hood (US), Redax, Zafar
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcandor/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcandor/)*

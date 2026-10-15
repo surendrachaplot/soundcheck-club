@@ -1,6 +1,6 @@
 # Oppidan
 
-Oppidan is a Garage and House artist with 12 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at 1015 Folsom, San Francisco/Oakland on Thu, 15 Oct 2026.
+Oppidan is a Garage and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at 1015 Folsom, San Francisco/Oakland on Thu, 15 Oct 2026.
 
 Oppidan is a garage and house artist based in United Kingdom, with 154 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 51 more. Often billed alongside MPH, Sammy Virji and Notion. Next up: 1015 Folsom, San Francisco/Oakland on Thu 15 Oct.
 
@@ -36,4 +36,4 @@ Oppidan is a garage and house artist based in United Kingdom, with 154 gigs on s
 
 MPH (1), Sammy Virji, Notion
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oppidan/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oppidan/)*

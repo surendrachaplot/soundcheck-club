@@ -1,6 +1,6 @@
 # Sophia Violet
 
-Sophia Violet is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
+Sophia Violet is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
 
 Sophia Violet is a garage and house artist based in United Kingdom, with 76 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Belfast and 12 more. Often billed alongside Girls Don't Sync, Rich Reason and Skeptic. Next up: Thuishaven, Amsterdam on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Sophia Violet is a garage and house artist based in United Kingdom, with 76 gigs
 
 Girls Don't Sync, Rich Reason, Skeptic
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiaviolet/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiaviolet/)*

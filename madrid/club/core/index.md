@@ -1,8 +1,8 @@
 # Core
 
-Core is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Spook feat. ENGALANAN + Ariezzz + Rei Tier" on Thu, 15 Oct 2026.
+Core is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Spook feat. ENGALANAN + Ariezzz + Rei Tier" on Thu, 15 Oct 2026.
 
-Core is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with line-ups including Alejandro Gata, Ariezzz, Axis Mundi and beltranz and 2 more. See dates, start times and who's playing. Madrid, 28013, Calle de Tetuán, 27, España.
+Core is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including Alejandro Gata, Ariezzz, Axis Mundi and beltranz and 2 more. See dates, start times and who's playing. Madrid, 28013, Calle de Tetuán, 27, España.
 
 ## What's on
 
@@ -16,9 +16,10 @@ Core is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with line
 | Sat, 24 Oct 2026 | Invaders con Axis Mundi y MARYO | Axis Mundi, MARYO |
 | Thu, 29 Oct 2026 | Spook feat. gitano del futuro + Quka + Biondo | Biondo, Quka, gitano del futuro |
 | Fri, 30 Oct 2026 | Elena Barker b2b beltranz y Nachine | Elena Barker, Nachine, beltranz |
+| Sat, 31 Oct 2026 | Whell: Halloween Party |  |
 
 ## Address
 
 Madrid, 28013, Calle de Tetuán, 27, España, Madrid
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/core/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/core/)*

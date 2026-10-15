@@ -1,6 +1,6 @@
 # Aio
 
-Aio is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Odonien, Cologne on Sat, 14 Nov 2026.
+Aio is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Odonien, Cologne on Sat, 14 Nov 2026.
 
 Aio is a techno and house artist based in Germany, with 71 gigs on soundcheck across Auckland, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside Aender, Maurice Mino and Konfusia. Next up: Odonien, Cologne on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Aio is a techno and house artist based in Germany, with 71 gigs on soundcheck ac
 
 Aender, Maurice Mino, Konfusia
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aio/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aio/)*

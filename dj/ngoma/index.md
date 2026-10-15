@@ -1,13 +1,14 @@
 # ngoma
 
-ngoma is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - 1215 Bloor St. West, Toronto on Fri, 20 Nov 2026.
+ngoma is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Flok, Manchester on Sat, 31 Oct 2026.
 
-ngoma is a bass and club artist based in United Kingdom, with 21 gigs on soundcheck across London, Manchester and Toronto. Often billed alongside Allius, Cersy and Channell. Next up: TBA - 1215 Bloor St. West, Toronto on Fri 20 Nov.
+ngoma is a techno and bass artist based in United Kingdom, with 22 gigs on soundcheck across London, Manchester and Toronto. Often billed alongside Allius, Cersy and Channell. Next up: Flok, Manchester on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Flok | Manchester |
 | Fri, 20 Nov 2026 | TBA - 1215 Bloor St. West | Toronto |
 
 ## Recently played
@@ -25,4 +26,4 @@ ngoma is a bass and club artist based in United Kingdom, with 21 gigs on soundch
 
 Allius, Cersy, Channell
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ngoma/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ngoma/)*

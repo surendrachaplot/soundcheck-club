@@ -1,6 +1,6 @@
 # Nomal
 
-Nomal is a Minimal Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Hertz, Seoul on Sat, 17 Oct 2026.
+Nomal is a Minimal Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Hertz, Seoul on Sat, 17 Oct 2026.
 
 Nomal is a minimal techno and minimal artist based in South Korea, with 39 gigs on soundcheck across Seoul. Often billed alongside Kibum, Mihak and Jongho. Next up: Hertz, Seoul on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Nomal is a minimal techno and minimal artist based in South Korea, with 39 gigs 
 
 Kibum, Mihak, Jongho
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nomal-KR/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nomal-KR/)*

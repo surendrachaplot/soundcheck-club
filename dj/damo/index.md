@@ -1,6 +1,6 @@
 # DAMO
 
-DAMO is a House and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at The Croft, Bristol on Thu, 15 Oct 2026.
+DAMO is a House and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at The Croft, Bristol on Thu, 15 Oct 2026.
 
 DAMO is a house and hardcore artist based in United Kingdom, with 10 gigs on soundcheck across Amsterdam, Bristol, London and Toronto. Often billed alongside By Dusk, Grace Sands and ASIA (DE). Next up: The Croft, Bristol on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ DAMO is a house and hardcore artist based in United Kingdom, with 10 gigs on sou
 
 By Dusk, Grace Sands, ASIA (DE)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damo/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damo/)*

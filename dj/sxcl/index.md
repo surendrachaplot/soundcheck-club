@@ -1,6 +1,6 @@
 # SXCL
 
-SXCL is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Location via Telegram Group, Berlin on Sun, 18 Oct 2026.
+SXCL is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Location via Telegram Group, Berlin on Sun, 18 Oct 2026.
 
 SXCL is a house and techno artist based in France, with 55 gigs on soundcheck across Berlin, Hamburg, Leipzig and Madrid and 1 more. Often billed alongside Dirty Daddy Don, Posture and Cheriii. Next up: TBA - Location via Telegram Group, Berlin on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ SXCL is a house and techno artist based in France, with 55 gigs on soundcheck ac
 
 Dirty Daddy Don, Posture, Cheriii
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sxcl/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sxcl/)*

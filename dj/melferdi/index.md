@@ -1,6 +1,6 @@
 # MelFerdi
 
-MelFerdi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Thu, 22 Oct 2026.
+MelFerdi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Thu, 22 Oct 2026.
 
 MelFerdi is a techno and house artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside All Dave, B-Bop and Baliology. Next up: Amsterdams Most Wanted, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ MelFerdi is a techno and house artist based in Netherlands, with 10 gigs on soun
 
 All Dave, B-Bop, Baliology
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melferdi/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melferdi/)*

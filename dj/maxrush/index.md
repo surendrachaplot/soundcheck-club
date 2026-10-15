@@ -1,6 +1,6 @@
 # Max Rush
 
-Max Rush is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Level 8 DTLA, Los Angeles on Fri, 16 Oct 2026.
+Max Rush is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Level 8 DTLA, Los Angeles on Fri, 16 Oct 2026.
 
 Max Rush is a house and minimal artist based in United States of America, with 83 gigs on soundcheck across Los Angeles, San Diego and Tokyo. Often billed alongside Lavenge, BLANC MAMBA and Aplex. Next up: Level 8 DTLA, Los Angeles on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Max Rush is a house and minimal artist based in United States of America, with 8
 
 Lavenge, BLANC MAMBA, Aplex
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxrush/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxrush/)*

@@ -1,6 +1,6 @@
 # Target Demographic
 
-Target Demographic is a House and Garage artist with 10 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Illegaal, Brussels on Fri, 16 Oct 2026.
+Target Demographic is a House and Garage artist with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Illegaal, Brussels on Fri, 16 Oct 2026.
 
 Target Demographic is a house and garage artist based in United States of America, with 26 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Shaolin Cowboy, Baltra and DJ Cinéma Quartier Latin. Next up: Illegaal, Brussels on Fri 16 Oct.
 
@@ -34,4 +34,4 @@ Target Demographic is a house and garage artist based in United States of Americ
 
 Shaolin Cowboy, Baltra, DJ Cinéma Quartier Latin
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/targetdemographic/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/targetdemographic/)*

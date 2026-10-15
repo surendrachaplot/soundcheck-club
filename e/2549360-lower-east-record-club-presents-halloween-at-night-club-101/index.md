@@ -1,6 +1,6 @@
 # Lower East Record Club presents Halloween at Night Club 101 at Nightclub 101
 
-Lower East Record Club presents Halloween at Night Club 101 at Nightclub 101 on Sat 31 Oct, New York City. 1 artist: Kimby (US). Disco and Club. See the line-up on soundcheck.
+Lower East Record Club presents Halloween at Night Club 101 at Nightclub 101 on Sat 31 Oct, New York City. 2 artists: Kimby (US) and Ranking Evan. Disco and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Lower East Record Club presents Halloween at Night Club 101 at Nightclub 101 on 
 ## Line-up
 
 - Kimby (US)
+- Ranking Evan
 
 *Source: [soundcheck](https://soundcheck.club/e/2549360-lower-east-record-club-presents-halloween-at-night-club-101/)*

@@ -1,6 +1,6 @@
 # Akác
 
-Akác is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Turbina, Budapest on Sat, 17 Oct 2026.
+Akác is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Turbina, Budapest on Sat, 17 Oct 2026.
 
 Akác is a techno and trance artist based in Hungary, with 80 gigs on soundcheck across Belgrade, Budapest and Paris. Often billed alongside Technokool, Kamafaka and szoliver. Next up: Turbina, Budapest on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Akác is a techno and trance artist based in Hungary, with 80 gigs on soundcheck
 
 Technokool, Kamafaka, szoliver
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akac/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akac/)*

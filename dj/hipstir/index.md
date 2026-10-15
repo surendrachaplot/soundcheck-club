@@ -1,6 +1,6 @@
 # Hip Stir
 
-Hip Stir is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Neon Grotto, Austin on Fri, 16 Oct 2026.
+Hip Stir is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Neon Grotto, Austin on Fri, 16 Oct 2026.
 
 Hip Stir is a house and techno artist, with 37 gigs on soundcheck across Austin, New York City and San Francisco/Oakland. Often billed alongside DJ BAD APPLE, Lefty and Sarah Pederzani. Next up: Neon Grotto, Austin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Hip Stir is a house and techno artist, with 37 gigs on soundcheck across Austin,
 
 DJ BAD APPLE, Lefty, Sarah Pederzani
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hipstir/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hipstir/)*

@@ -1,6 +1,6 @@
 # DJ SWISHA
 
-DJ SWISHA is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Palais, London on Fri, 16 Oct 2026.
+DJ SWISHA is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Palais, London on Fri, 16 Oct 2026.
 
 DJ SWISHA is a house and techno artist based in United States of America, with 207 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 49 more. Often billed alongside Kush Jones, AceMo and MoMA Ready. Next up: Palais, London on Fri 16 Oct.
 
@@ -34,4 +34,4 @@ DJ SWISHA is a house and techno artist based in United States of America, with 2
 
 Kush Jones, AceMo, MoMA Ready
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisha/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisha/)*

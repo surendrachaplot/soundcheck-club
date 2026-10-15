@@ -1,8 +1,8 @@
 # shekdash
 
-shekdash is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Pearl, Vancouver on Fri, 30 Oct 2026.
+shekdash is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Pearl, Vancouver on Fri, 30 Oct 2026.
 
-shekdash is a techno and club artist based in United States of America, with 91 gigs on soundcheck across Boston, Chicago, Denver and Detroit and 14 more. Often billed alongside Tromac, DJ SWISHA and Daniro. Next up: The Pearl, Vancouver on Fri 30 Oct.
+shekdash is a techno and club artist based in United States of America, with 92 gigs on soundcheck across Boston, Chicago, Denver and Detroit and 15 more. Often billed alongside Tromac, DJ SWISHA and Daniro. Next up: The Pearl, Vancouver on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ shekdash is a techno and club artist based in United States of America, with 91 
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | The Pearl | Vancouver |
 | Sat, 31 Oct 2026 | TBA | Los Angeles |
+| Fri, 6 Nov 2026 | Art Club | Houston |
 | Fri, 13 Nov 2026 | 314 Scholes | New York City |
 
 ## Recently played
@@ -27,4 +28,4 @@ shekdash is a techno and club artist based in United States of America, with 91 
 
 Tromac, DJ SWISHA, Daniro
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shekdash/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shekdash/)*

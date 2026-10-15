@@ -1,6 +1,6 @@
 # Kichta
 
-Kichta is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Toronto on Sat, 10 Oct 2026.
+Kichta is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Toronto on Sat, 10 Oct 2026.
 
 Kichta is a techno and trance artist based in France, with 46 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 10 more. Often billed alongside Amøn, Eskha and KLING&KLANG. Next up: TBA, Toronto on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Kichta is a techno and trance artist based in France, with 46 gigs on soundcheck
 
 Amøn, Eskha, KLING&KLANG
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kichta/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kichta/)*

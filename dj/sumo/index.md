@@ -1,6 +1,6 @@
 # SUMO
 
-SUMO is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Sabagiro, Tbilisi on Sat, 17 Oct 2026.
+SUMO is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Sabagiro, Tbilisi on Sat, 17 Oct 2026.
 
 SUMO is a house and deep house artist based in Georgia, with 112 gigs on soundcheck across Berlin, Hamburg, Lisbon and Stuttgart and 2 more. Often billed alongside BEQA, Gio Shengelia and AudioSpace. Next up: Sabagiro, Tbilisi on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ SUMO is a house and deep house artist based in Georgia, with 112 gigs on soundch
 
 BEQA, Gio Shengelia, AudioSpace
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sumo/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sumo/)*

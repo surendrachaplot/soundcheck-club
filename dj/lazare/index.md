@@ -1,6 +1,6 @@
 # Lazare
 
-Lazare is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Hive Club, Zurich on Sat, 24 Oct 2026.
+Lazare is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Hive Club, Zurich on Sat, 24 Oct 2026.
 
 Lazare is an afro house and house artist, with 8 gigs on soundcheck across Amsterdam, Ibiza, London and Miami and 3 more. Often billed alongside :DARREN, BARON (FR) and Benja (NL). Next up: Hive Club, Zurich on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Lazare is an afro house and house artist, with 8 gigs on soundcheck across Amste
 
 :DARREN, BARON (FR), Benja (NL)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lazare/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lazare/)*

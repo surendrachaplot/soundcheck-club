@@ -1,14 +1,15 @@
 # Mental
 
-Mental is a Drum & Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Atno, Budapest on Thu, 22 Oct 2026.
+Mental is a Hardcore and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Atno, Budapest on Thu, 22 Oct 2026.
 
-Mental is a drum & bass and hardcore artist, with 11 gigs on soundcheck across Berlin, Budapest, Marseille and Paris and 4 more. Often billed alongside Tekno, Arcene K and Banyek. Next up: Atno, Budapest on Thu 22 Oct.
+Mental is a hardcore and drum & bass artist, with 12 gigs on soundcheck across Berlin, Budapest, Marseille and Paris and 4 more. Often billed alongside Tekno, Arcene K and Banyek. Next up: Atno, Budapest on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Atno | Budapest |
+| Sat, 21 Nov 2026 | Terminus | Paris |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Mental is a drum & bass and hardcore artist, with 11 gigs on soundcheck across B
 
 Tekno (1), Arcene K, Banyek
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mental/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mental/)*

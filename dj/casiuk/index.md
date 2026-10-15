@@ -1,6 +1,6 @@
 # Casi (UK)
 
-Casi (UK) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Cabaret Voltaire, Edinburgh on Fri, 6 Nov 2026.
+Casi (UK) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Cabaret Voltaire, Edinburgh on Fri, 6 Nov 2026.
 
 Casi (UK) is a house and disco artist based in United Kingdom, with 5 gigs on soundcheck across Edinburgh. Often billed alongside Ben Kok, Pheebs and Bakey. Next up: Cabaret Voltaire, Edinburgh on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ Casi (UK) is a house and disco artist based in United Kingdom, with 5 gigs on so
 
 Ben Kok (2), Pheebs, Bakey
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casiuk/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casiuk/)*

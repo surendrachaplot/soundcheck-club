@@ -1,6 +1,6 @@
 # HWK
 
-HWK is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "J. Müller & Friends" on Fri, 16 Oct 2026.
+HWK is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "J. Müller & Friends" on Fri, 16 Oct 2026.
 
 HWK is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including C4LYPSO, DATGRUVEE and J.Müller. See dates, start times and who's playing. 29 White Post Lane, E9 5EN.
 
@@ -15,4 +15,4 @@ HWK is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-
 
 29 White Post Lane, E9 5EN, London
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/hwk/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/hwk/)*

@@ -1,6 +1,6 @@
 # TRIXXI
 
-TRIXXI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Hangar48 Club, Madrid on Sat, 17 Oct 2026.
+TRIXXI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Hangar48 Club, Madrid on Sat, 17 Oct 2026.
 
 TRIXXI is a techno and house artist based in Argentina, with 21 gigs on soundcheck across Madrid. Often billed alongside Tucu (Tucu), Brisa Then and Alexis mayer. Next up: Hangar48 Club, Madrid on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ TRIXXI is a techno and house artist based in Argentina, with 21 gigs on soundche
 
 Tucu (Tucu), Brisa Then, Alexis mayer
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trixxi/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trixxi/)*

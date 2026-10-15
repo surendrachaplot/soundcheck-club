@@ -1,6 +1,6 @@
 # Wallace
 
-Wallace is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Sneaky Pete's, Edinburgh on Fri, 23 Oct 2026.
+Wallace is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Sneaky Pete's, Edinburgh on Fri, 23 Oct 2026.
 
 Wallace is a house and techno artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 28 more. Often billed alongside Bradley Zero, Gallegos and Moxie. Next up: Sneaky Pete's, Edinburgh on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Wallace is a house and techno artist based in United Kingdom, with 79 gigs on so
 
 Bradley Zero, Gallegos, Moxie
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wallace/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wallace/)*

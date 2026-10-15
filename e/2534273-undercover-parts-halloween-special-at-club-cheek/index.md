@@ -1,6 +1,6 @@
 # Undercover Parts: Halloween Special at Club Cheek
 
-Undercover Parts: Halloween Special at Club Cheek on Fri 30 Oct, London. 5 artists: CHAMBER45, Lozzy, Riel and Scratcha and 1 more. Bass and UK Funky. See the line-up on soundcheck.
+Undercover Parts: Halloween Special at Club Cheek on Fri 30 Oct, London. 6 artists: CHAMBER45, Lozzy, Marleigh and Riel and 2 more. Bass and UK Funky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Undercover Parts: Halloween Special at Club Cheek on Fri 30 Oct, London. 5 artis
 
 - CHAMBER45
 - Lozzy
+- Marleigh
 - Riel
 - Scratcha
 - Tibor

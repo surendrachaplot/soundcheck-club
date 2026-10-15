@@ -1,6 +1,6 @@
 # Sala ART
 
-Sala ART is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "POLENTA" on Sat, 17 Oct 2026.
+Sala ART is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "POLENTA" on Sat, 17 Oct 2026.
 
 Sala ART is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including Grau, Héctor Pericet, Javiherr and Julio Machicado and 2 more. See dates, start times and who's playing. P.º de la Florida, 2, 28008 Madrid.
 
@@ -17,4 +17,4 @@ Sala ART is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with 
 
 P.º de la Florida, 2, 28008 Madrid, Madrid
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-art/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-art/)*

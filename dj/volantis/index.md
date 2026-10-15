@@ -1,14 +1,15 @@
 # Volantis
 
-Volantis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Skate Park (Parco Lambro), Milan on Sat, 17 Oct 2026.
+Volantis is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Skate Park (Parco Lambro), Milan on Sat, 17 Oct 2026.
 
-Volantis is a house and techno artist based in Italy, with 61 gigs on soundcheck across Berlin, London, Madrid and Milan and 4 more. Often billed alongside Nicodemo, Odd Shy Guy and Fabrizio Mammarella. Next up: Skate Park (Parco Lambro), Milan on Sat 17 Oct.
+Volantis is a house and techno artist based in Italy, with 62 gigs on soundcheck across Berlin, London, Madrid and Milan and 4 more. Often billed alongside Nicodemo, Odd Shy Guy and Fabrizio Mammarella. Next up: Skate Park (Parco Lambro), Milan on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Skate Park (Parco Lambro) | Milan |
+| Sat, 31 Oct 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Volantis is a house and techno artist based in Italy, with 61 gigs on soundcheck
 
 Nicodemo, Odd Shy Guy, Fabrizio Mammarella
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/volantis/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/volantis/)*

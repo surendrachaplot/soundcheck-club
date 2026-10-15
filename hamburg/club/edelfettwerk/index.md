@@ -1,6 +1,6 @@
 # Edelfettwerk
 
-Edelfettwerk is a music venue in Hamburg with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "VERKNIPT Germany - Hamburg - October 16 & 17" on Fri, 16 Oct 2026.
+Edelfettwerk is a music venue in Hamburg with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "VERKNIPT Germany - Hamburg - October 16 & 17" on Fri, 16 Oct 2026.
 
 Edelfettwerk is a music venue in Hamburg listed on soundcheck. 8 upcoming gigs, with line-ups including Charlie, co:co, IGDA and Jo van der Meer and 2 more. See dates, start times and who's playing. Schnackenburgsallee 202, 22525 Hamburg.
 
@@ -11,14 +11,14 @@ Edelfettwerk is a music venue in Hamburg listed on soundcheck. 8 upcoming gigs, 
 | Fri, 16 Oct 2026 | VERKNIPT Germany - Hamburg - October 16 & 17 | Charlie, IGDA, KX CHR, Neon Graveyard, SAIKA, SANTØS, luke madness |
 | Fri, 23 Oct 2026 | RÖYKSOPP DJ Set / Hamburg | Jo van der Meer (2), MikAH |
 | Fri, 30 Oct 2026 | VER pres. WINSON |  |
+| Fri, 30 Oct 2026 | VER PRESENTS |  |
 | Fri, 6 Nov 2026 | SECTOR with TRIPTYKH, Noise Not War, KSN, DANNAE, KAIZEN B2B STASZKØ, co:co B2B TEMAZCAL | Noise Not War, Staszko, TRIPTYKH, Temazcal (2), co:co |
 | Sat, 14 Nov 2026 | VER x TELETECH |  |
 | Fri, 27 Nov 2026 | VER pres. Paraçek ALL NIGHT LONG | Paraçek |
-| Mon, 30 Nov 2026 | VER PRESENTS |  |
 | Sat, 6 Feb 2027 | VER pres. Ueberrest (44 FRONT ROW), SPECIAL GUEST (44 FRONT ROW) uvm | Special Guest (US), Ueberrest |
 
 ## Address
 
 Schnackenburgsallee 202, 22525 Hamburg, Hamburg
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/edelfettwerk/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/edelfettwerk/)*

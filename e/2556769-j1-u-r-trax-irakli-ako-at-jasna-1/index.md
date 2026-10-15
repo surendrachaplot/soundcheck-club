@@ -1,6 +1,6 @@
 # J1 - u.r.trax, Irakli, ako at Jasna 1
 
-J1 - u.r.trax, Irakli, ako at Jasna 1 on Fri 16 Oct, Warsaw. 3 artists: ako, Irakli and u.r.trax. See the line-up on soundcheck.
+J1 - u.r.trax, Irakli, ako at Jasna 1 on Fri 16 Oct, Warsaw. 2 artists: Irakli and u.r.trax. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ J1 - u.r.trax, Irakli, ako at Jasna 1 on Fri 16 Oct, Warsaw. 3 artists: ako, Ira
 
 ## Line-up
 
-- ako
 - Irakli
 - u.r.trax
 

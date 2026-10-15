@@ -1,6 +1,6 @@
 # Motion at Aoyama Hachi
 
-Motion at Aoyama Hachi on Sun 29 Nov, Tokyo. 12 artists: CKRN303, DJ B2B, Krankent and KUBOTA and 8 more. Techno and House. See the line-up on soundcheck.
+Motion at Aoyama Hachi on Sun 29 Nov, Tokyo. 11 artists: CKRN303, Krankent, KUBOTA and milltea and 7 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Motion at Aoyama Hachi on Sun 29 Nov, Tokyo. 12 artists: CKRN303, DJ B2B, Kranke
 ## Line-up
 
 - CKRN303
-- DJ B2B
 - Krankent
 - KUBOTA
 - milltea

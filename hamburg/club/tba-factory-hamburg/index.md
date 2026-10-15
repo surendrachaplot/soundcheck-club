@@ -1,6 +1,6 @@
 # TBA - Factory, Hamburg
 
-TBA - Factory, Hamburg is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "fin: The Refinery" on Sat, 17 Oct 2026.
+TBA - Factory, Hamburg is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "fin: The Refinery" on Sat, 17 Oct 2026.
 
 TBA - Factory, Hamburg is a music venue in Hamburg listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Factory, Hamburg is a music venue in Hamburg listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | fin: The Refinery |  |
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/tba-factory-hamburg/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/tba-factory-hamburg/)*

@@ -1,6 +1,6 @@
 # C.M.A.
 
-C.M.A. is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Tausend, Berlin on Fri, 16 Oct 2026.
+C.M.A. is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Tausend, Berlin on Fri, 16 Oct 2026.
 
 C.M.A. is a house and afro house artist based in Germany, with 25 gigs on soundcheck across Berlin and New York City. Often billed alongside JANE RYSE, Jordi Iven and Hyenah. Next up: Tausend, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ C.M.A. is a house and afro house artist based in Germany, with 25 gigs on soundc
 
 JANE RYSE, Jordi Iven, Hyenah
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c.m.a./)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c.m.a./)*

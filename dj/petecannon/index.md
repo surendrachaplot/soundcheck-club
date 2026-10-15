@@ -1,6 +1,6 @@
 # Pete Cannon
 
-Pete Cannon is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Electrowerkz, London on Sat, 17 Oct 2026.
+Pete Cannon is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Electrowerkz, London on Sat, 17 Oct 2026.
 
 Pete Cannon is a jungle and drum & bass artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 12 more. Often billed alongside Swankout, The Bass Injector and mixtress. Next up: Electrowerkz, London on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Pete Cannon is a jungle and drum & bass artist based in United Kingdom, with 67 
 
 Swankout, The Bass Injector, mixtress
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petecannon/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petecannon/)*

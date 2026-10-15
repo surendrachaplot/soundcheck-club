@@ -1,0 +1,17 @@
+# Rhythm Labs 7th Birthday W/ MADVILLA, Kitsta, Nicou Nejad - Secret North London Location at Secret Location - North London
+
+Rhythm Labs 7th Birthday W/ MADVILLA, Kitsta, Nicou Nejad - Secret North London Location at Secret Location - North London on Fri 4 Dec, London. 3 artists: Kitsta, MADVILLA and Nicou Nejad. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 4 Dec 2026 |
+| Venue | Secret Location - North London |
+| City | London |
+
+## Line-up
+
+- Kitsta
+- MADVILLA
+- Nicou Nejad
+
+*Source: [soundcheck](https://soundcheck.club/e/2522714-rhythm-labs-7th-birthday-w-madvilla-kitsta-nicou-nejad-secre/)*

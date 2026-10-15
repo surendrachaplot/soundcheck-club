@@ -1,14 +1,15 @@
 # Maharti
 
-Maharti is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at MTW, Frankfurt on Sat, 14 Nov 2026.
+Maharti is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at MTW, Frankfurt on Sat, 14 Nov 2026.
 
-Maharti is a techno and trance artist based in Belgium, with 42 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 3 more. Often billed alongside Azra Tekuma, Jane Muss and Massimo Mephisto. Next up: MTW, Frankfurt on Sat 14 Nov.
+Maharti is a techno and trance artist based in Belgium, with 43 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 3 more. Often billed alongside Azra Tekuma, Jane Muss and Massimo Mephisto. Next up: MTW, Frankfurt on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | MTW | Frankfurt |
+| Fri, 11 Dec 2026 | Kompass Klub | Ghent |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Maharti is a techno and trance artist based in Belgium, with 42 gigs on soundche
 
 Azra Tekuma, Jane Muss, Massimo Mephisto
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maharti/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maharti/)*

@@ -1,6 +1,6 @@
 # ÆNN
 
-ÆNN is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Hallo Werner, Augsburg on Fri, 16 Oct 2026.
+ÆNN is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Hallo Werner, Augsburg on Fri, 16 Oct 2026.
 
 ÆNN is a trance and techno artist based in Germany, with 13 gigs on soundcheck across Augsburg, Berlin and Munich. Often billed alongside ANASTASÍA, NAGINI and Jan Minnerup. Next up: Hallo Werner, Augsburg on Fri 16 Oct.
 
@@ -25,4 +25,4 @@
 
 ANASTASÍA, NAGINI, Jan Minnerup
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aenn/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aenn/)*

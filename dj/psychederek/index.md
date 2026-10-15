@@ -1,6 +1,6 @@
 # Psychederek
 
-Psychederek is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Metro's Social Club, Manchester on Sat, 31 Oct 2026.
+Psychederek is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Metro's Social Club, Manchester on Sat, 31 Oct 2026.
 
 Psychederek is a house and disco artist based in United Kingdom, with 22 gigs on soundcheck across Liverpool and Manchester. Often billed alongside Chris Massey, Bobby Thorpe and Aural-B. Next up: TBA - Metro's Social Club, Manchester on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Psychederek is a house and disco artist based in United Kingdom, with 22 gigs on
 
 Chris Massey, Bobby Thorpe, Aural-B
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/psychederek/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/psychederek/)*

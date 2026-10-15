@@ -1,6 +1,6 @@
 # Monnay
 
-Monnay is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Rolling Stock, London on Sat, 31 Oct 2026.
+Monnay is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Rolling Stock, London on Sat, 31 Oct 2026.
 
 Monnay is a techno and progressive house artist based in United Kingdom, with 18 gigs on soundcheck across Dublin and London. Often billed alongside Loora, Vortex (BR) and Dimanté. Next up: Rolling Stock, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Monnay is a techno and progressive house artist based in United Kingdom, with 18
 
 Loora, Vortex (BR), Dimanté
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monnay/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monnay/)*

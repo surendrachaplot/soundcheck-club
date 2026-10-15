@@ -1,0 +1,27 @@
+# Daya Dadlani
+
+Daya Dadlani is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at High Club Room, Madrid on Fri, 16 Oct 2026.
+
+Daya Dadlani is a house and electronica artist based in Spain, with 8 gigs on soundcheck across Madrid. Often billed alongside Iker Lobo, Alex Sosa and David Carro. Next up: High Club Room, Madrid on Fri 16 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 16 Oct 2026 | High Club Room | Madrid |
+
+## Recently played
+
+- Casa Amante Club, Madrid · Wed, 14 Oct 2026
+- Casa Amante Club, Madrid · Sat, 12 Sept 2026
+- Sala El Sol, Madrid · Fri, 11 Sept 2026
+- Casa Amante Club, Madrid · Sun, 30 Aug 2026
+- berlinClub, Madrid · Fri, 17 Jul 2026
+- Casa Amante Club, Madrid · Sat, 27 Jun 2026
+- Casa Amante Club, Madrid · Sun, 21 Jun 2026
+
+## Shares bills with
+
+Iker Lobo, Alex Sosa, David Carro
+
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dayadadlani/)*

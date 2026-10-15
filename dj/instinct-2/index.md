@@ -1,6 +1,6 @@
 # INSTINCT (2)
 
-INSTINCT (2) is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Domicile, Miami on Fri, 23 Oct 2026.
+INSTINCT (2) is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Domicile, Miami on Fri, 23 Oct 2026.
 
 INSTINCT is a techno and dub techno artist, with 9 gigs on soundcheck across Miami, Munich and Stuttgart. Often billed alongside SHDW, Aaron Leviz and Altinbas. Next up: Domicile, Miami on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ INSTINCT is a techno and dub techno artist, with 9 gigs on soundcheck across Mia
 
 SHDW, Aaron Leviz, Altinbas
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/instinct-2/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/instinct-2/)*

@@ -1,6 +1,6 @@
 # cravings320
 
-cravings320 is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Tanzhaus West, Frankfurt on Fri, 23 Oct 2026.
+cravings320 is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Tanzhaus West, Frankfurt on Fri, 23 Oct 2026.
 
 cravings320 is a techno and trance artist based in Germany, with 30 gigs on soundcheck across Berlin, Cologne and Frankfurt. Often billed alongside DJ 069, ADHASS and NIKUSH. Next up: Tanzhaus West, Frankfurt on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ cravings320 is a techno and trance artist based in Germany, with 30 gigs on soun
 
 DJ 069, ADHASS, NIKUSH
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cravings320/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cravings320/)*

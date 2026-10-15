@@ -1,0 +1,17 @@
+# [EELF RECORDS] Shaolin Cowboy, Paluma Sound, Surfbored + more at Phonox
+
+[EELF RECORDS] Shaolin Cowboy, Paluma Sound, Surfbored + more at Phonox on Sat 14 Nov, London. 3 artists: Paluma Sound, Shaolin Cowboy and surfbored.. Electronica. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 14 Nov 2026 |
+| Venue | Phonox |
+| City | London |
+
+## Line-up
+
+- Paluma Sound
+- Shaolin Cowboy
+- surfbored. (2)
+
+*Source: [soundcheck](https://soundcheck.club/e/2512336-eelf-records-shaolin-cowboy-paluma-sound-surfbored-more-at-p/)*

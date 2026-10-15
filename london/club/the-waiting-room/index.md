@@ -1,6 +1,6 @@
 # The Waiting Room
 
-The Waiting Room is a music venue in London with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "WINK" on Sat, 17 Oct 2026.
+The Waiting Room is a music venue in London with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "WINK" on Sat, 17 Oct 2026.
 
 The Waiting Room is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including DJ-CK, Kaikobad, Little Luce and Shiela.. See dates, start times and who's playing. 175 Stoke Newington High Street; Stoke Newington; London N16 0LH; United Kingdom.
 
@@ -9,7 +9,7 @@ The Waiting Room is a music venue in London listed on soundcheck. 4 upcoming gig
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | WINK | DJ-CK, Little Luce |
-| Sat, 24 Oct 2026 | Kaikobad + Special Guests | Kaikobad |
+| Sat, 24 Oct 2026 | Kaikobad + Percolate Djs | Kaikobad |
 | Fri, 6 Nov 2026 | Segment  | Shiela. |
 | Sat, 14 Nov 2026 | Inflo presents - Darkside Rinseout |  |
 
@@ -17,4 +17,4 @@ The Waiting Room is a music venue in London listed on soundcheck. 4 upcoming gig
 
 175 Stoke Newington High Street; Stoke Newington; London N16 0LH; United Kingdom, London
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-waiting-room/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-waiting-room/)*

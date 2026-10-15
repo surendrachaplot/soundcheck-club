@@ -1,13 +1,14 @@
 # Pythius
 
-Pythius is a Drum & Bass and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Westhafen, Leipzig on Sat, 28 Nov 2026.
+Pythius is a Drum & Bass and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at OT301, Amsterdam on Sun, 25 Oct 2026.
 
-Pythius is a drum & bass and electro artist based in Netherlands, with 34 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Budapest and 14 more. Often billed alongside Black Sun Empire, Audio and Merikan. Next up: Westhafen, Leipzig on Sat 28 Nov.
+Pythius is a drum & bass and hardcore artist based in Netherlands, with 35 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Budapest and 14 more. Often billed alongside Black Sun Empire, Audio and Merikan. Next up: OT301, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 25 Oct 2026 | OT301 | Amsterdam |
 | Sat, 28 Nov 2026 | Westhafen | Leipzig |
 | Sun, 27 Dec 2026 | Klokgebouw | Eindhoven |
 
@@ -26,4 +27,4 @@ Pythius is a drum & bass and electro artist based in Netherlands, with 34 gigs o
 
 Black Sun Empire, Audio, Merikan
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pythius/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pythius/)*

@@ -1,6 +1,6 @@
 # SWG3
 
-SWG3 is a music venue in Glasgow with 38 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Above & Beyond present Anjunabeats Warehouse" on Fri, 16 Oct 2026.
+SWG3 is a music venue in Glasgow with 38 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Above & Beyond present Anjunabeats Warehouse" on Fri, 16 Oct 2026.
 
 SWG3 is a music venue in Glasgow listed on soundcheck. 38 upcoming gigs, with line-ups including Above & Beyond, Alexandria, AMMARA and Archie Hamilton and 2 more. See dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
 
@@ -23,4 +23,4 @@ SWG3 is a music venue in Glasgow listed on soundcheck. 38 upcoming gigs, with li
 
 100 Eastvale Place, Glasgow, G3 8QG, Glasgow
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*

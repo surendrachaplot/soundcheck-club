@@ -1,6 +1,6 @@
 # TBA
 
-TBA is a Techno and House artist with 24 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Electric Ballroom, London on Sat, 17 Oct 2026.
+TBA is a Techno and House artist with 24 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Electric Ballroom, London on Sat, 17 Oct 2026.
 
 TBA is a techno and house artist based in Georgia, with 269 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 47 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: Electric Ballroom, London on Sat 17 Oct.
 
@@ -36,4 +36,4 @@ TBA is a techno and house artist based in Georgia, with 269 gigs on soundcheck a
 
 PARIS (AU), Gerald VDH, Natalie Beridze
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*

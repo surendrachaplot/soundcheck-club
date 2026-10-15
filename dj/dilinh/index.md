@@ -1,6 +1,6 @@
 # Di Linh
 
-Di Linh is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Pisco Bar, Kuala Lumpur on Sat, 24 Oct 2026.
+Di Linh is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Pisco Bar, Kuala Lumpur on Sat, 24 Oct 2026.
 
 Di Linh is a house and techno artist based in Vietnam, with 37 gigs on soundcheck across Bali, Bangkok, Berlin and Geneva and 13 more. Often billed alongside Ouissam, Saint Guel and OMOLOKO. Next up: Pisco Bar, Kuala Lumpur on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Di Linh is a house and techno artist based in Vietnam, with 37 gigs on soundchec
 
 Ouissam, Saint Guel, OMOLOKO
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dilinh/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dilinh/)*

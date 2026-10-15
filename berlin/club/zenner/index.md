@@ -1,8 +1,8 @@
 # ZENNER
 
-ZENNER is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "NICE ONE WEEKENDER" on Fri, 16 Oct 2026.
+ZENNER is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "NICE ONE WEEKENDER" on Fri, 16 Oct 2026.
 
-ZENNER is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Aleksi Perälä, Alexia, Alex Jenkin and Bex and 2 more. See dates, start times and who's playing. Alt-Treptow 15, 12435 Berlin.
+ZENNER is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Aleksi Perälä, Alexia, Alex Jenkin and Barbara Preisinger and 2 more. See dates, start times and who's playing. Alt-Treptow 15, 12435 Berlin.
 
 ## What's on
 
@@ -12,9 +12,10 @@ ZENNER is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with li
 | Sat, 31 Oct 2026 | LITTLEBIG | Cecilia Tosh, David August, JakoJako, KiNK, Plaid, Randomer, Sarah Sommers, Skee Mask |
 | Thu, 5 Nov 2026 | 180 min with Polygonia (live) | Polygonia, ophélie |
 | Fri, 6 Nov 2026 | Analogue Foundation presents Gaister & Maya Shenfeld |  |
+| Fri, 1 Jan 2027 | ЯETURN | Barbara Preisinger, Dorian Paic, Federico Molinari, Ricardo Villalobos, Richard Akingbehin, SOLANA, Volkan Akin |
 
 ## Address
 
 Alt-Treptow 15, 12435 Berlin, Berlin
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zenner/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zenner/)*

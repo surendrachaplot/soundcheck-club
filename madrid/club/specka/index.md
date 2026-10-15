@@ -1,6 +1,6 @@
 # Specka
 
-Specka is a music venue in Madrid with 13 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Erik Luebs: Live | Void Control" on Fri, 16 Oct 2026.
+Specka is a music venue in Madrid with 13 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Erik Luebs: Live | Void Control" on Fri, 16 Oct 2026.
 
 Specka is a music venue in Madrid listed on soundcheck. 13 upcoming gigs, with line-ups including Alvaro Cabana, Brody, David Ponziano and Denso and 2 more. See dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
 
@@ -23,4 +23,4 @@ Specka is a music venue in Madrid listed on soundcheck. 13 upcoming gigs, with l
 
 Calle Orense, 26 bajos Madrid 28020, Madrid
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*

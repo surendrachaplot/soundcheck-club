@@ -1,6 +1,6 @@
 # Jerome Hill
 
-Jerome Hill is a Techno and Acid artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 23 Oct 2026.
+Jerome Hill is a Techno and Acid artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 23 Oct 2026.
 
 Jerome Hill is a techno and acid artist based in United Kingdom, with 126 gigs on soundcheck across Bangkok, Barcelona, Belfast and Belgrade and 26 more. Often billed alongside Louise Plus One, Hughesee and Equinox (UK). Next up: Drugstore Beograd, Belgrade on Fri 23 Oct.
 
@@ -30,4 +30,4 @@ Jerome Hill is a techno and acid artist based in United Kingdom, with 126 gigs o
 
 Louise Plus One, Hughesee, Equinox (UK)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeromehill/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeromehill/)*

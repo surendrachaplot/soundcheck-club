@@ -1,6 +1,6 @@
 # Coline Cornélis
 
-Coline Cornélis is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Bozar, Brussels on Thu, 28 Jan 2027.
+Coline Cornélis is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Bozar, Brussels on Thu, 28 Jan 2027.
 
 Coline Cornélis is a house and downtempo artist based in Belgium, with 23 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Seoul. Often billed alongside Bon Public, Umbra. and Catalina. Next up: Bozar, Brussels on Thu 28 Jan.
 
@@ -25,4 +25,4 @@ Coline Cornélis is a house and downtempo artist based in Belgium, with 23 gigs 
 
 Bon Public, Umbra., Catalina
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colinecornelis/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colinecornelis/)*

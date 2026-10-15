@@ -1,6 +1,6 @@
 # Lupini
 
-Lupini is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Hang Dai Chinese, Dublin on Fri, 16 Oct 2026.
+Lupini is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Hang Dai Chinese, Dublin on Fri, 16 Oct 2026.
 
 Lupini is a house and techno artist based in United Kingdom, with 58 gigs on soundcheck across Berlin, Bristol, Copenhagen and Dublin and 7 more. Often billed alongside Cowper, Annabel Fraser and Chez de Milo. Next up: Hang Dai Chinese, Dublin on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Lupini is a house and techno artist based in United Kingdom, with 58 gigs on sou
 
 Cowper, Annabel Fraser, Chez de Milo
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lupini/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lupini/)*

@@ -1,6 +1,6 @@
 # Emora
 
-Emora is a Electronica and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Honey Street Studio, Manchester on Sun, 18 Oct 2026.
+Emora is a Electronica and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Honey Street Studio, Manchester on Sun, 18 Oct 2026.
 
 Emora is an electronica and downtempo artist based in United Kingdom, with 10 gigs on soundcheck across Manchester. Often billed alongside AdomasLP, Tommy Cross and Abby Harris. Next up: Honey Street Studio, Manchester on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Emora is an electronica and downtempo artist based in United Kingdom, with 10 gi
 
 AdomasLP, Tommy Cross, Abby Harris
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emora/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emora/)*

@@ -1,6 +1,6 @@
 # Girlcop
 
-Girlcop is a Electro and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Vecinos, Miami on Sat, 24 Oct 2026.
+Girlcop is a Electro and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Vecinos, Miami on Sat, 24 Oct 2026.
 
 Girlcop is an electro and acid artist, with 37 gigs on soundcheck across Austin, Denver, Mexico City and Miami and 2 more. Often billed alongside SATURNSARii, Ctrl+Opt and Alexx in Chainss. Next up: Vecinos, Miami on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Girlcop is an electro and acid artist, with 37 gigs on soundcheck across Austin,
 
 SATURNSARii, Ctrl+Opt, Alexx in Chainss
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/girlcop/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/girlcop/)*

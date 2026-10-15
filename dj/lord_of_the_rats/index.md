@@ -1,6 +1,6 @@
 # lord_of_the_rats
 
-lord_of_the_rats is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Phonobar, San Francisco/Oakland on Thu, 15 Oct 2026.
+lord_of_the_rats is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Phonobar, San Francisco/Oakland on Thu, 15 Oct 2026.
 
 lord_of_the_rats is a disco and italo disco artist, with 27 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Evbot, Amatric and Jaage. Next up: Phonobar, San Francisco/Oakland on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ lord_of_the_rats is a disco and italo disco artist, with 27 gigs on soundcheck a
 
 Evbot, Amatric, Jaage
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lord_of_the_rats/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lord_of_the_rats/)*

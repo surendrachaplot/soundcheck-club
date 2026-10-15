@@ -1,6 +1,6 @@
 # El Hey
 
-El Hey is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at FVTVR, Paris on Fri, 6 Nov 2026.
+El Hey is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at FVTVR, Paris on Fri, 6 Nov 2026.
 
 El Hey is a house and electro artist based in France, with 26 gigs on soundcheck across Paris. Often billed alongside Sebizarre, Mic Mac and NOCH. Next up: FVTVR, Paris on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ El Hey is a house and electro artist based in France, with 26 gigs on soundcheck
 
 Sebizarre, Mic Mac, NOCH (2)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elhey/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elhey/)*

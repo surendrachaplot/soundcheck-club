@@ -1,6 +1,6 @@
 # Nick Warren
 
-Nick Warren is a Progressive House and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Óbuda Bay, Budapest on Sat, 17 Oct 2026.
+Nick Warren is a Progressive House and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Óbuda Bay, Budapest on Sat, 17 Oct 2026.
 
 Nick Warren is a progressive house and house artist based in United Kingdom, with 139 gigs on soundcheck across Amsterdam, Argentina, Athens and Bali and 37 more. Often billed alongside Hernan Cattaneo, Martin Fredes and Sasha. Next up: Óbuda Bay, Budapest on Sat 17 Oct.
 
@@ -31,4 +31,4 @@ Nick Warren is a progressive house and house artist based in United Kingdom, wit
 
 Hernan Cattaneo, Martin Fredes, Sasha
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickwarren/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickwarren/)*

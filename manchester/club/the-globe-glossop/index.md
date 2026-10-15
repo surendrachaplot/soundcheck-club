@@ -1,6 +1,6 @@
 # The Globe, Glossop
 
-The Globe, Glossop is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "TBC#23: Tiny Vipers + Delphine Joussein + Chantal Acda" on Sat, 17 Oct 2026.
+The Globe, Glossop is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "TBC#23: Tiny Vipers + Delphine Joussein + Chantal Acda" on Sat, 17 Oct 2026.
 
 The Globe, Glossop is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, with line-ups including Chilly (LDN), Conor Thomas, Faux Naif and Kode9. See dates, start times and who's playing. The Globe, 144 High St W, Glossop SK13 8HJ.
 
@@ -18,4 +18,4 @@ The Globe, Glossop is a music venue in Manchester listed on soundcheck. 5 upcomi
 
 The Globe, 144 High St W, Glossop SK13 8HJ, Manchester
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-globe-glossop/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-globe-glossop/)*

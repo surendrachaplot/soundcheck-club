@@ -1,6 +1,6 @@
 # telos.haus
 
-telos.haus is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "Vortex presents: An Evening of Trance Films" on Thu, 29 Oct 2026.
+telos.haus is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "Vortex presents: An Evening of Trance Films" on Thu, 29 Oct 2026.
 
 telos.haus is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including COVE(US), Cow Tools, dj33L and R-DNA and 1 more. See dates, start times and who's playing. 303 Ten Eyck St, Brooklyn NY 11206.
 
@@ -14,4 +14,4 @@ telos.haus is a music venue in New York City listed on soundcheck. 1 upcoming gi
 
 303 Ten Eyck St, Brooklyn NY 11206, New York City
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/telos-haus/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/telos-haus/)*

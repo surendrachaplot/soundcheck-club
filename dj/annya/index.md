@@ -1,6 +1,6 @@
 # ANNYA
 
-ANNYA is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Flash, Washington DC on Sat, 24 Oct 2026.
+ANNYA is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Flash, Washington DC on Sat, 24 Oct 2026.
 
 ANNYA is a house and deep house artist based in United States of America, with 31 gigs on soundcheck across Montreal, Paris and Washington DC. Often billed alongside VYNX, Jess in the Flesh and NABŪ. Next up: Flash, Washington DC on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ ANNYA is a house and deep house artist based in United States of America, with 3
 
 VYNX, Jess in the Flesh, NABŪ
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annya/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annya/)*

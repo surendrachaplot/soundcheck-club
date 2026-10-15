@@ -1,6 +1,6 @@
 # Schleuse Zwei
 
-Schleuse Zwei is a music venue in Düsseldorf with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "European Music Collective – live" on Thu, 15 Oct 2026.
+Schleuse Zwei is a music venue in Düsseldorf with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "European Music Collective – live" on Thu, 15 Oct 2026.
 
 Schleuse Zwei is a music venue in Düsseldorf listed on soundcheck. 7 upcoming gigs, with line-ups including Bufiman, Keshavara and Twit One. See dates, start times and who's playing. Aachener Str. 39, 40223 Düsseldorf, Germany.
 
@@ -20,4 +20,4 @@ Schleuse Zwei is a music venue in Düsseldorf listed on soundcheck. 7 upcoming g
 
 Aachener Str. 39, 40223 Düsseldorf, Germany, Düsseldorf
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/schleuse-zwei/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/schleuse-zwei/)*

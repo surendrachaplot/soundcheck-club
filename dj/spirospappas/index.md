@@ -1,6 +1,6 @@
 # Spiros Pappas
 
-Spiros Pappas is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at 2ten, Athens on Fri, 16 Oct 2026.
+Spiros Pappas is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at 2ten, Athens on Fri, 16 Oct 2026.
 
 Spiros Pappas is a tech house and techno artist, with 11 gigs on soundcheck across Athens. Often billed alongside STEPHANOS, James Suko and Voices Of Valley. Next up: 2ten, Athens on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Spiros Pappas is a tech house and techno artist, with 11 gigs on soundcheck acro
 
 STEPHANOS, James Suko, Voices Of Valley
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spirospappas/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spirospappas/)*

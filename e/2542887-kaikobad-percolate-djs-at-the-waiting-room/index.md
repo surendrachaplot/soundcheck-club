@@ -1,0 +1,15 @@
+# Kaikobad + Percolate Djs at The Waiting Room
+
+Kaikobad + Percolate Djs at The Waiting Room on Sat 24 Oct, London. 1 artist: Kaikobad. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 24 Oct 2026 |
+| Venue | The Waiting Room |
+| City | London |
+
+## Line-up
+
+- Kaikobad
+
+*Source: [soundcheck](https://soundcheck.club/e/2542887-kaikobad-percolate-djs-at-the-waiting-room/)*

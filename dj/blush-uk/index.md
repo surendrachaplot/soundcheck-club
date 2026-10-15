@@ -1,6 +1,6 @@
 # Blush
 
-Blush is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Whammy Bar, Auckland on Fri, 16 Oct 2026.
+Blush is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Whammy Bar, Auckland on Fri, 16 Oct 2026.
 
 Blush is a house and techno artist based in United Kingdom, with 7 gigs on soundcheck across Auckland, Berlin and London. Often billed alongside Si Kurrage, Scottie D and Aino DJ. Next up: Whammy Bar, Auckland on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Blush is a house and techno artist based in United Kingdom, with 7 gigs on sound
 
 Si Kurrage, Scottie D, Aino DJ
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blush-uk/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blush-uk/)*

@@ -1,6 +1,6 @@
 # Lee Burton
 
-Lee Burton is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at La Démesure, Paris on Sat, 17 Oct 2026.
+Lee Burton is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at La Démesure, Paris on Sat, 17 Oct 2026.
 
 Lee Burton is a house and techno artist based in Greece, with 31 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 8 more. Often billed alongside Nekes, Federico Molinari and Giuliano Lomonte. Next up: La Démesure, Paris on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Lee Burton is a house and techno artist based in Greece, with 31 gigs on soundch
 
 Nekes, Federico Molinari, Giuliano Lomonte
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburton/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburton/)*

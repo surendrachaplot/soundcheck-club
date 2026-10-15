@@ -1,6 +1,6 @@
 # Boxpark Shoreditch
 
-Boxpark Shoreditch is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "IN UR FEELS" on Thu, 15 Oct 2026.
+Boxpark Shoreditch is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "IN UR FEELS" on Thu, 15 Oct 2026.
 
 Boxpark Shoreditch is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 2-10 Bethnal Green Rd, London E1 6GY.
 
@@ -14,4 +14,4 @@ Boxpark Shoreditch is a music venue in London listed on soundcheck. 1 upcoming g
 
 2-10 Bethnal Green Rd, London E1 6GY, London
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/boxpark-shoreditch/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/boxpark-shoreditch/)*

@@ -1,6 +1,6 @@
 # Edward
 
-Edward is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
+Edward is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
 Edward is a house and minimal artist based in Germany, with 137 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 30 more. Often billed alongside Konstantin, Leafar Legov and Yamour. Next up: ZENNER, Berlin on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Edward is a house and minimal artist based in Germany, with 137 gigs on soundche
 
 Konstantin, Leafar Legov, Yamour
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edward/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edward/)*

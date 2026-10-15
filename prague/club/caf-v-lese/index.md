@@ -1,17 +1,18 @@
 # Café V Lese
 
-Café V Lese is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "Adult DVD + Vlasta" on Mon, 16 Nov 2026.
+Café V Lese is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Adult DVD + Vlasta" on Mon, 16 Nov 2026.
 
-Café V Lese is a music venue in Prague listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Krymska 12, Praha 10 - Vrsovice.
+Café V Lese is a music venue in Prague listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Krymska 12, Praha 10 - Vrsovice.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Mon, 16 Nov 2026 | Adult DVD + Vlasta |  |
+| Thu, 19 Nov 2026 | Karin Park |  |
 
 ## Address
 
 Krymska 12, Praha 10 - Vrsovice, Prague
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/caf-v-lese/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/caf-v-lese/)*

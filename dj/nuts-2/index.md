@@ -1,6 +1,6 @@
 # NUTS (2)
 
-NUTS (2) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at feedbk, New York City on Thu, 15 Oct 2026.
+NUTS (2) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at feedbk, New York City on Thu, 15 Oct 2026.
 
 NUTS is a house and electro artist based in France, with 7 gigs on soundcheck across Barcelona, Hamburg, Manchester and New York City and 1 more. Often billed alongside Dawidu, Willsy and Alexis Cabrera. Next up: feedbk, New York City on Thu 15 Oct.
 
@@ -23,4 +23,4 @@ NUTS is a house and electro artist based in France, with 7 gigs on soundcheck ac
 
 Dawidu, Willsy, Alexis Cabrera
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nuts-2/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nuts-2/)*

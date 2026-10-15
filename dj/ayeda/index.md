@@ -1,6 +1,6 @@
 # AYEDA
 
-AYEDA is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Het Sieraad, Amsterdam on Fri, 23 Oct 2026.
+AYEDA is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Het Sieraad, Amsterdam on Fri, 23 Oct 2026.
 
 AYEDA is an electronica and club artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Lena Rigel, A Guy Called Gerald and ABADIR. Next up: Het Sieraad, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ AYEDA is an electronica and club artist based in Netherlands, with 9 gigs on sou
 
 Lena Rigel, A Guy Called Gerald, ABADIR
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayeda/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayeda/)*

@@ -1,6 +1,6 @@
 # Kaskade
 
-Kaskade is a House and Bass artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Kaskade is a House and Bass artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
 Kaskade is a house and bass artist based in United States of America, with 56 gigs on soundcheck across Amsterdam, Austin, Chicago and Detroit and 12 more. Often billed alongside Green Velvet, Eli Brown and Chris Lake. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ Kaskade is a house and bass artist based in United States of America, with 56 gi
 
 Green Velvet, Eli Brown, Chris Lake
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaskade/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaskade/)*

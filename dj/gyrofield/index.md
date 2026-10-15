@@ -1,6 +1,6 @@
 # gyrofield
 
-gyrofield is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Various Venues, Guimarães, PT, Portugal on Thu, 29 Oct 2026.
+gyrofield is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Various Venues, Guimarães, PT, Portugal on Thu, 29 Oct 2026.
 
 gyrofield is a drum & bass and bass artist based in Netherlands, with 78 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 29 more. Often billed alongside KAVARI, Mala and DjRUM. Next up: TBA - Various Venues, Guimarães, PT, Portugal on Thu 29 Oct.
 
@@ -29,4 +29,4 @@ gyrofield is a drum & bass and bass artist based in Netherlands, with 78 gigs on
 
 KAVARI, Mala, DjRUM
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gyrofield/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gyrofield/)*

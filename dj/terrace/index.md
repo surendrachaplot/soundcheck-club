@@ -1,6 +1,6 @@
 # Terrace
 
-Terrace is a Garage and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Sat, 17 Oct 2026.
+Terrace is a Garage and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Sat, 17 Oct 2026.
 
 Terrace is a garage and tech house artist based in Netherlands, with 19 gigs on soundcheck across Dublin, Ho Chi Minh City, Ibiza and London and 2 more. Often billed alongside ALISHA, Belmar (UK) and Robbie Doherty. Next up: The Observatory, Ho Chi Minh City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Terrace is a garage and tech house artist based in Netherlands, with 19 gigs on 
 
 ALISHA, Belmar (UK), Robbie Doherty
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terrace/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terrace/)*

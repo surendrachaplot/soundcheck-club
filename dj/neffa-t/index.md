@@ -1,6 +1,6 @@
 # Neffa-T
 
-Neffa-T is a Bass and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Concorde 2, Brighton on Fri, 16 Oct 2026.
+Neffa-T is a Bass and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Concorde 2, Brighton on Fri, 16 Oct 2026.
 
 Neffa-T is a bass and techno artist based in United Kingdom, with 175 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Belfast and 43 more. Often billed alongside Flowdan, Jay Carder and Main Phase. Next up: Concorde 2, Brighton on Fri 16 Oct.
 
@@ -31,4 +31,4 @@ Neffa-T is a bass and techno artist based in United Kingdom, with 175 gigs on so
 
 Flowdan, Jay Carder, Main Phase
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neffa-t/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neffa-t/)*

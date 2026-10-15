@@ -1,6 +1,6 @@
 # SHDW
 
-SHDW is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Fret, Amsterdam on Wed, 21 Oct 2026.
+SHDW is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Fret, Amsterdam on Wed, 21 Oct 2026.
 
 SHDW is a techno and house artist based in Germany, with 220 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 70 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: Fret, Amsterdam on Wed 21 Oct.
 
@@ -14,7 +14,7 @@ SHDW is a techno and house artist based in Germany, with 220 gigs on soundcheck 
 | Fri, 30 Oct 2026 | Hive Club | Zurich |
 | Sat, 31 Oct 2026 | Klub Progresja | Warsaw |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
-| Fri, 6 Nov 2026 | Xuxa | Austin |
+| Fri, 6 Nov 2026 | XuXa | Austin |
 | Sat, 7 Nov 2026 | Warehouse on Watts | Philadelphia |
 | Sat, 21 Nov 2026 | WE club | Thessaloniki |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
@@ -36,4 +36,4 @@ SHDW is a techno and house artist based in Germany, with 220 gigs on soundcheck 
 
 ANNĒ, Alarico, Lars Huismann
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*

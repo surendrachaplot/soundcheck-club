@@ -1,8 +1,8 @@
 # Aurora Halal
 
-Aurora Halal is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Aisle 5, Atlanta on Sat, 17 Oct 2026.
+Aurora Halal is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Aisle 5, Atlanta on Sat, 17 Oct 2026.
 
-Aurora Halal is a techno and house artist based in United States of America, with 231 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 54 more. Often billed alongside Priori, Avalon Emerson and Kia (AU). Next up: Aisle 5, Atlanta on Sat 17 Oct.
+Aurora Halal is a techno and house artist based in United States of America, with 233 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 54 more. Often billed alongside Priori, Avalon Emerson and Kia (AU). Next up: Aisle 5, Atlanta on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -16,10 +16,10 @@ Aurora Halal is a techno and house artist based in United States of America, wit
 | Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 6 Nov 2026 | BASEMENT | New York City |
+| Fri, 13 Nov 2026 | TBA - Downtown | Los Angeles |
 | Sat, 14 Nov 2026 | Monument SF | San Francisco/Oakland |
 | Sat, 21 Nov 2026 | Basic Club | Naples |
 | Sat, 28 Nov 2026 | Plaza Monumental de Barcelona | Barcelona |
-| Fri, 11 Dec 2026 | The White Hotel | Manchester |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Aurora Halal is a techno and house artist based in United States of America, wit
 
 Priori, Avalon Emerson, Kia (AU)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*

@@ -1,14 +1,13 @@
 # Neue Zukunft
 
-Neue Zukunft is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Dazzling Killmen (US), Prophet & Flesh" on Wed, 14 Oct 2026.
+Neue Zukunft is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "BLACKOUT" on Thu, 15 Oct 2026.
 
-Neue Zukunft is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Die Wilde Jagd. See dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
+Neue Zukunft is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Die Wilde Jagd. See dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 14 Oct 2026 | Dazzling Killmen (US), Prophet & Flesh |  |
 | Thu, 15 Oct 2026 | BLACKOUT |  |
 | Sun, 25 Oct 2026 | Lagrimas (US), ONLY, Greetings From |  |
 | Fri, 30 Oct 2026 | subsidized time 7+8 Team Work + 13YC |  |
@@ -22,4 +21,4 @@ Neue Zukunft is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, w
 
 Alt-Stralau 68, 10245 Berlin, Berlin
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*

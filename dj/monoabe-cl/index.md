@@ -1,6 +1,6 @@
 # MonoAbe
 
-MonoAbe is a Electronica and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Klunkerkranich, Berlin on Fri, 16 Oct 2026.
+MonoAbe is a Electronica and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Klunkerkranich, Berlin on Fri, 16 Oct 2026.
 
 MonoAbe is an electronica and downtempo artist based in Chile, with 24 gigs on soundcheck across Berlin, Ibiza and Riga. Often billed alongside nasnan, Lisa Thaens and Monkyman. Next up: Klunkerkranich, Berlin on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ MonoAbe is an electronica and downtempo artist based in Chile, with 24 gigs on s
 
 nasnan, Lisa Thaens, Monkyman
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monoabe-cl/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monoabe-cl/)*

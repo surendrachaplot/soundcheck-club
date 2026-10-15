@@ -1,6 +1,6 @@
 # Daiki (2)
 
-Daiki (2) is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Circus Osaka, Osaka on Thu, 15 Oct 2026.
+Daiki (2) is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Circus Osaka, Osaka on Thu, 15 Oct 2026.
 
 Daiki is a house and hip-hop artist based in Japan, with 4 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside Hiroyuki Abe, Kitano and LOOZBONE. Next up: Circus Osaka, Osaka on Thu 15 Oct.
 
@@ -20,4 +20,4 @@ Daiki is a house and hip-hop artist based in Japan, with 4 gigs on soundcheck ac
 
 Hiroyuki Abe, Kitano, LOOZBONE
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daiki-2/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daiki-2/)*

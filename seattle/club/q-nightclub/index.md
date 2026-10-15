@@ -1,8 +1,8 @@
 # Q Nightclub
 
-Q Nightclub is a music venue in Seattle with 21 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Kyle Watson" on Fri, 16 Oct 2026.
+Q Nightclub is a music venue in Seattle with 22 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Kyle Watson" on Fri, 16 Oct 2026.
 
-Q Nightclub is a music venue in Seattle listed on soundcheck. 21 upcoming gigs, with line-ups including Bontan, Broken Hill, Ely Oaks and Gabriel & Dresden and 2 more. See dates, start times and who's playing. 1426 Broadway, Seattle, WA..
+Q Nightclub is a music venue in Seattle listed on soundcheck. 22 upcoming gigs, with line-ups including Bontan, Broken Hill, Ely Oaks and Gabriel & Dresden and 2 more. See dates, start times and who's playing. 1426 Broadway, Seattle, WA..
 
 ## What's on
 
@@ -23,4 +23,4 @@ Q Nightclub is a music venue in Seattle listed on soundcheck. 21 upcoming gigs, 
 
 1426 Broadway, Seattle, WA., Seattle
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/q-nightclub/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/q-nightclub/)*

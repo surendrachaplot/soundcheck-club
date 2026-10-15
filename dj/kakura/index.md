@@ -1,6 +1,6 @@
 # Kakura
 
-Kakura is a Afro House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Theater de Richel, Amsterdam on Thu, 22 Oct 2026.
+Kakura is a Afro House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Theater de Richel, Amsterdam on Thu, 22 Oct 2026.
 
 Kakura is an afro house and techno artist based in United Kingdom, with 11 gigs on soundcheck across Amsterdam, London and Manchester. Often billed alongside MYDIR, Bushman (UK) and Azur. Next up: Theater de Richel, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Kakura is an afro house and techno artist based in United Kingdom, with 11 gigs 
 
 MYDIR, Bushman (UK), Azur
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kakura/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kakura/)*

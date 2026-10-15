@@ -1,17 +1,17 @@
 # Nightclub 101
 
-Nightclub 101 is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "Lower East Record Club presents Halloween at Night Club 101" on Sat, 31 Oct 2026.
+Nightclub 101 is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "Lower East Record Club presents Halloween at Night Club 101" on Sat, 31 Oct 2026.
 
-Nightclub 101 is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Kimby (US). See dates, start times and who's playing. 101 Avenue A, New York, NY 10009.
+Nightclub 101 is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Kimby (US) and Ranking Evan. See dates, start times and who's playing. 101 Avenue A, New York, NY 10009.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Lower East Record Club presents Halloween at Night Club 101 | Kimby (US) |
+| Sat, 31 Oct 2026 | Lower East Record Club presents Halloween at Night Club 101 | Kimby (US), Ranking Evan |
 
 ## Address
 
 101 Avenue A, New York, NY 10009, New York City
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nightclub-101/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nightclub-101/)*

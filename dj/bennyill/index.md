@@ -1,6 +1,6 @@
 # Benny Ill
 
-Benny Ill is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Red Lion, London on Fri, 16 Oct 2026.
+Benny Ill is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Red Lion, London on Fri, 16 Oct 2026.
 
 Benny Ill is a dubstep and bass artist based in United Kingdom, with 17 gigs on soundcheck across Athens, Leeds, London and Stockholm. Often billed alongside Horsepower Productions, Benton (UK) and Breakfake. Next up: The Red Lion, London on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Benny Ill is a dubstep and bass artist based in United Kingdom, with 17 gigs on 
 
 Horsepower Productions, Benton (UK), Breakfake
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyill/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyill/)*

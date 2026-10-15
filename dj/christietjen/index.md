@@ -1,6 +1,6 @@
 # Chris Tietjen
 
-Chris Tietjen is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 17 Oct 2026.
+Chris Tietjen is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 17 Oct 2026.
 
 Chris Tietjen is a house and techno artist, with 11 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside Markus Fix, ALNA and André Dancekowski. Next up: Tokonoma Club, Frankfurt on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Chris Tietjen is a house and techno artist, with 11 gigs on soundcheck across Be
 
 Markus Fix, ALNA, André Dancekowski
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christietjen/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christietjen/)*

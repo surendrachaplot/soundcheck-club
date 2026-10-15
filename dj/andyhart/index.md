@@ -1,6 +1,6 @@
 # Andy Hart
 
-Andy Hart is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Angel Music Bar, Melbourne on Sat, 31 Oct 2026.
+Andy Hart is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Angel Music Bar, Melbourne on Sat, 31 Oct 2026.
 
 Andy Hart is a house and techno artist based in Australia, with 32 gigs on soundcheck across Berlin, Melbourne, Mexico City and Tokyo. Often billed alongside Myles Mac, Alex Albrecht and Dasha SPRW. Next up: Angel Music Bar, Melbourne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Andy Hart is a house and techno artist based in Australia, with 32 gigs on sound
 
 Myles Mac, Alex Albrecht, Dasha SPRW
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andyhart/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andyhart/)*

@@ -1,6 +1,6 @@
 # Flow
 
-Flow is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Madre, Valencia on Sat, 31 Oct 2026.
+Flow is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Madre, Valencia on Sat, 31 Oct 2026.
 
 Flow is a house and techno artist based in Netherlands, with 20 gigs on soundcheck across Berlin, Melbourne, Osaka and Valencia. Often billed alongside Flowing, Ingy and Robert Estrela. Next up: Madre, Valencia on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Flow is a house and techno artist based in Netherlands, with 20 gigs on soundche
 
 Flowing, Ingy, Robert Estrela
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flow/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flow/)*

@@ -1,13 +1,14 @@
 # heronymus
 
-heronymus is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Goldener Reiter, Munich on Fri, 23 Oct 2026.
+heronymus is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Xolo, Munich on Fri, 16 Oct 2026.
 
-heronymus is a house and tech house artist, with 34 gigs on soundcheck across Munich and Vienna. Often billed alongside Mo the prophet, Morz Des Soundsystem and Julie Fleischer. Next up: Goldener Reiter, Munich on Fri 23 Oct.
+heronymus is a house and tech house artist, with 35 gigs on soundcheck across Munich and Vienna. Often billed alongside Mo the prophet, Morz Des Soundsystem and Julie Fleischer. Next up: Xolo, Munich on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Xolo | Munich |
 | Fri, 23 Oct 2026 | Goldener Reiter | Munich |
 
 ## Recently played
@@ -25,4 +26,4 @@ heronymus is a house and tech house artist, with 34 gigs on soundcheck across Mu
 
 Mo the prophet, Morz Des Soundsystem, Julie Fleischer
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heronymus/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heronymus/)*

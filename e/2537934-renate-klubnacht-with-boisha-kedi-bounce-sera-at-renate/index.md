@@ -14,7 +14,7 @@ Renate Klubnacht with Boisha, Kedi Bounce & SERA on Sat 24 Oct, Berlin. 7 artist
 - Kedi Bounce
 - Mandel
 - moe.
-- Pert (CZ)
+- PERT
 - SERA (2)
 - Shanda
 

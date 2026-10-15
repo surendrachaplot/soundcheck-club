@@ -1,6 +1,6 @@
 # Light Blue File
 
-Light Blue File is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Kinzen Tea House, Buenos Aires on Fri, 23 Oct 2026.
+Light Blue File is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Kinzen Tea House, Buenos Aires on Fri, 23 Oct 2026.
 
 Light Blue File is a house and electro artist, with 14 gigs on soundcheck across Barcelona, Buenos Aires, London and New York City and 1 more. Often billed alongside LUKAS, Manu Oubiña and Guile. Next up: Kinzen Tea House, Buenos Aires on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Light Blue File is a house and electro artist, with 14 gigs on soundcheck across
 
 LUKAS (4), Manu Oubiña, Guile
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lightbluefile/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lightbluefile/)*

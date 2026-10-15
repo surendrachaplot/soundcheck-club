@@ -1,6 +1,6 @@
 # elcabron
 
-elcabron is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at K7, Prague on Fri, 16 Oct 2026.
+elcabron is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at K7, Prague on Fri, 16 Oct 2026.
 
 elcabron is a techno and trance artist based in Czech Republic, with 13 gigs on soundcheck across Prague. Often billed alongside Vihainen Kissa, EL!SE and Ansea. Next up: K7, Prague on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ elcabron is a techno and trance artist based in Czech Republic, with 13 gigs on 
 
 Vihainen Kissa, EL!SE, Ansea
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elcabron/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elcabron/)*

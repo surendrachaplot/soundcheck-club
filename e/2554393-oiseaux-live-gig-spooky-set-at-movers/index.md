@@ -1,6 +1,6 @@
 # OISEAUX - Live Gig - Spooky Set at Movers
 
-OISEAUX - Live Gig - Spooky Set at Movers on Thu 29 Oct, Nottingham. See the line-up on soundcheck.
+OISEAUX - Live Gig - Spooky Set at Movers on Thu 29 Oct, Nottingham. Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # EL PADRE
 
-EL PADRE is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Bar Rouge, Amsterdam on Thu, 22 Oct 2026.
+EL PADRE is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Bar Rouge, Amsterdam on Thu, 22 Oct 2026.
 
 EL PADRE is a techno and progressive house artist based in Poland, with 5 gigs on soundcheck across Amsterdam, Glasgow, London and Warsaw. Often billed alongside Nathassia, Major K and Jay Cluss. Next up: Bar Rouge, Amsterdam on Thu 22 Oct.
 
@@ -21,4 +21,4 @@ EL PADRE is a techno and progressive house artist based in Poland, with 5 gigs o
 
 Nathassia, Major K, Jay Cluss
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elpadre/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elpadre/)*

@@ -1,6 +1,6 @@
 # Eliza
 
-Eliza is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Yamamori Tengu, Dublin on Sat, 31 Oct 2026.
+Eliza is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Yamamori Tengu, Dublin on Sat, 31 Oct 2026.
 
 Eliza is an electro and techno artist based in Ireland, with 50 gigs on soundcheck across Amsterdam, Basel, Berlin and Cork and 6 more. Often billed alongside Lolz, Maeve O'Neill and Tr One. Next up: Yamamori Tengu, Dublin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Eliza is an electro and techno artist based in Ireland, with 50 gigs on soundche
 
 Lolz, Maeve O'Neill, Tr One
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliza/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliza/)*

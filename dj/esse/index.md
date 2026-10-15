@@ -1,6 +1,6 @@
 # Esse
 
-Esse is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Locke, Hamburg on Sat, 17 Oct 2026.
+Esse is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Locke, Hamburg on Sat, 17 Oct 2026.
 
 Esse is a house and tech house artist based in Lithuania, with 7 gigs on soundcheck across Amsterdam, Boston, Hamburg and Los Angeles and 2 more. Often billed alongside Alesso, TroyBoi and A Little Sound. Next up: Locke, Hamburg on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Esse is a house and tech house artist based in Lithuania, with 7 gigs on soundch
 
 Alesso, TroyBoi, A Little Sound
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esse/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esse/)*

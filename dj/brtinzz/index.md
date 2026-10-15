@@ -1,6 +1,6 @@
 # Brtinzz
 
-Brtinzz is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Bar Broei, Ghent on Fri, 23 Oct 2026.
+Brtinzz is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Bar Broei, Ghent on Fri, 23 Oct 2026.
 
 Brtinzz is a techno and trance artist based in Slovenia, with 41 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 9 more. Often billed alongside GLIA, Manrick Stapez and Asarri. Next up: Bar Broei, Ghent on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Brtinzz is a techno and trance artist based in Slovenia, with 41 gigs on soundch
 
 GLIA, Manrick Stapez, Asarri
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brtinzz/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brtinzz/)*

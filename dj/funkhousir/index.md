@@ -1,6 +1,6 @@
 # Funkhousir
 
-Funkhousir is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at 3oz Dive Club, San Diego on Sat, 24 Oct 2026.
+Funkhousir is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at 3oz Dive Club, San Diego on Sat, 24 Oct 2026.
 
 Funkhousir is a house and techno artist based in United States of America, with 33 gigs on soundcheck across Los Angeles and San Diego. Often billed alongside Shefa, AB3D and Tango. Next up: 3oz Dive Club, San Diego on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Funkhousir is a house and techno artist based in United States of America, with 
 
 Shefa, AB3D, Tango
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funkhousir/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funkhousir/)*

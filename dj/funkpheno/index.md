@@ -1,14 +1,14 @@
 # Funkpheno
 
-Funkpheno is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Amnesia, Bangkok on Sat, 17 Oct 2026.
+Funkpheno is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Amnesia, Bangkok on Thu, 22 Oct 2026.
 
-Funkpheno is a techno and house artist based in Thailand, with 52 gigs on soundcheck across Bangkok. Often billed alongside Krit Su, plazdj and Tetez. Next up: Amnesia, Bangkok on Sat 17 Oct.
+Funkpheno is a techno and house artist based in Thailand, with 52 gigs on soundcheck across Bangkok. Often billed alongside Krit Su, plazdj and Tetez. Next up: Amnesia, Bangkok on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Amnesia | Bangkok |
+| Thu, 22 Oct 2026 | Amnesia | Bangkok |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Funkpheno is a techno and house artist based in Thailand, with 52 gigs on soundc
 
 Krit Su, plazdj, Tetez
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funkpheno/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funkpheno/)*

@@ -1,6 +1,6 @@
 # The Golden Lion
 
-The Golden Lion is a music venue in Manchester with 13 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Say What? presents: Special Request (all night long)" on Fri, 16 Oct 2026.
+The Golden Lion is a music venue in Manchester with 13 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Say What? presents: Special Request (all night long)" on Fri, 16 Oct 2026.
 
 The Golden Lion is a music venue in Manchester listed on soundcheck. 13 upcoming gigs, with line-ups including Alex Dallas, Balrog, Bijon and Bill Brewster and 2 more. See dates, start times and who's playing. Fielden Square, Todmorden, OL14 6LZ, United Kingdom.
 
@@ -17,10 +17,10 @@ The Golden Lion is a music venue in Manchester listed on soundcheck. 13 upcoming
 | Fri, 6 Nov 2026 | Plynyl presents - Mr Scruff | Mr Scruff |
 | Fri, 13 Nov 2026 | Zukunft X Optimo at Golden Lion Todmorden | Alex Dallas, Cio (Spezialmaterial), Kalabrese, Leo Gretener, Optimo (Espacio) |
 | Fri, 20 Nov 2026 | Plynyl presents - Daddy G |  |
-| Sat, 12 Dec 2026 | [RESCHEDULED] AYA Away Day 2. Golden Lion. Are You Affiliated vs Shoulda Known Better | Iain Mac, Man Power |
+| Sat, 12 Dec 2026 | AYA Away Day 2. Golden Lion. W/ Man Power & ROSIE | Man Power, ROSIE |
 
 ## Address
 
 Fielden Square, Todmorden, OL14 6LZ, United Kingdom, Manchester
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-golden-lion/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-golden-lion/)*

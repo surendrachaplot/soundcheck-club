@@ -1,6 +1,6 @@
 # SloMo
 
-SloMo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Dings, Munich on Sat, 24 Oct 2026.
+SloMo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Dings, Munich on Sat, 24 Oct 2026.
 
 SloMo is a house and techno artist based in Germany, with 25 gigs on soundcheck across Berlin, Munich, Osaka and Stockholm and 2 more. Often billed alongside Neverglass, Toobris and VSSL. Next up: Dings, Munich on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ SloMo is a house and techno artist based in Germany, with 25 gigs on soundcheck 
 
 Neverglass, Toobris, VSSL
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slomo/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slomo/)*

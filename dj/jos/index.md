@@ -1,6 +1,6 @@
 # Jos
 
-Jos is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at 5A, Lisbon on Sat, 17 Oct 2026.
+Jos is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at 5A, Lisbon on Sat, 17 Oct 2026.
 
 Jos is a techno and house artist based in United Kingdom, with 138 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 23 more. Often billed alongside Alien Communications, Loa Szala and De La Reef. Next up: 5A, Lisbon on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Jos is a techno and house artist based in United Kingdom, with 138 gigs on sound
 
 Alien Communications, Loa Szala, De La Reef
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jos/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jos/)*

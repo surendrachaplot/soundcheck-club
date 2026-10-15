@@ -1,6 +1,6 @@
 # Volt Club Milano
 
-Volt Club Milano is a music venue in Milan with 10 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Skream + ALDAVE" on Thu, 15 Oct 2026.
+Volt Club Milano is a music venue in Milan with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Skream + ALDAVE" on Thu, 15 Oct 2026.
 
 Volt Club Milano is a music venue in Milan listed on soundcheck. 10 upcoming gigs, with line-ups including ALDAVE, Alessio Cristiano, Auggië and AWEN and 2 more. See dates, start times and who's playing. Via Molino delle Armi, 16, 20123 Milano MI, Italy.
 
@@ -23,4 +23,4 @@ Volt Club Milano is a music venue in Milan listed on soundcheck. 10 upcoming gig
 
 Via Molino delle Armi, 16, 20123 Milano MI, Italy, Milan
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/volt-club-milano/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/volt-club-milano/)*

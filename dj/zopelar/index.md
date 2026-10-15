@@ -1,6 +1,6 @@
 # Zopelar
 
-Zopelar is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Av Benavides 347 Miraflores - ExpoCentro, Peru on Fri, 16 Oct 2026.
+Zopelar is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Av Benavides 347 Miraflores - ExpoCentro, Peru on Fri, 16 Oct 2026.
 
 Zopelar is a house and techno artist based in Brazil, with 57 gigs on soundcheck across Amsterdam, Brazil, Lisbon and Lyon and 4 more. Often billed alongside Vermelho, From House to Disco and Akin/Non Exist. Next up: TBA - Av Benavides 347 Miraflores - ExpoCentro, Peru on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Zopelar is a house and techno artist based in Brazil, with 57 gigs on soundcheck
 
 Vermelho, From House to Disco, Akin/Non Exist
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zopelar/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zopelar/)*

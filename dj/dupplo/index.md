@@ -1,6 +1,6 @@
 # Dupplo
 
-Dupplo is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Plano B, Porto on Sat, 24 Oct 2026.
+Dupplo is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Plano B, Porto on Sat, 24 Oct 2026.
 
 Dupplo is a house and electronica artist based in Portugal, with 18 gigs on soundcheck across Lisbon and Porto. Often billed alongside 2jack4u, AlFaer and Armanda. Next up: Plano B, Porto on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Dupplo is a house and electronica artist based in Portugal, with 18 gigs on soun
 
 2jack4u, AlFaer, Armanda
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dupplo/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dupplo/)*

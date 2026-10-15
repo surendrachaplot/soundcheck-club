@@ -1,6 +1,6 @@
 # FIRZA
 
-FIRZA is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Mama Roux, Birmingham on Fri, 16 Oct 2026.
+FIRZA is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Mama Roux, Birmingham on Fri, 16 Oct 2026.
 
 FIRZA is a house and tech house artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Ibiza and 9 more. Often billed alongside Ryan Resso, FINKY and Stef Davidse. Next up: Mama Roux, Birmingham on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ FIRZA is a house and tech house artist based in United Kingdom, with 30 gigs on 
 
 Ryan Resso, FINKY, Stef Davidse
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/firza/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/firza/)*

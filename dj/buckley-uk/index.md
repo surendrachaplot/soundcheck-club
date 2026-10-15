@@ -1,14 +1,13 @@
 # Buckley (UK)
 
-Buckley (UK) is a Garage and Dubstep artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Sneaky Pete's, Edinburgh on Wed, 14 Oct 2026.
+Buckley (UK) is a Garage and Dubstep artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Stage and Radio, Manchester on Sat, 24 Oct 2026.
 
-Buckley (UK) is a garage and dubstep artist based in United Kingdom, with 79 gigs on soundcheck across Berlin, Bristol, Cardiff and Dundee and 8 more. Often billed alongside harpriya, Dawsons Kriek and Howie Booth. Next up: Sneaky Pete's, Edinburgh on Wed 14 Oct.
+Buckley (UK) is a garage and dubstep artist based in United Kingdom, with 79 gigs on soundcheck across Berlin, Bristol, Cardiff and Dundee and 8 more. Often billed alongside harpriya, Dawsons Kriek and Howie Booth. Next up: Stage and Radio, Manchester on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 14 Oct 2026 | Sneaky Pete's | Edinburgh |
 | Sat, 24 Oct 2026 | Stage and Radio | Manchester |
 | Fri, 6 Nov 2026 | Headrow House | Leeds |
 | Sat, 14 Nov 2026 | Ormside Projects | London |
@@ -16,6 +15,7 @@ Buckley (UK) is a garage and dubstep artist based in United Kingdom, with 79 gig
 
 ## Recently played
 
+- Sneaky Pete's, Edinburgh · Wed, 14 Oct 2026
 - The Croft, Bristol · Fri, 9 Oct 2026
 - The White Hotel, Manchester · Sat, 18 Jul 2026
 - OXI, Berlin · Thu, 9 Jul 2026
@@ -23,10 +23,9 @@ Buckley (UK) is a garage and dubstep artist based in United Kingdom, with 79 gig
 - Exchange, Bristol · Fri, 17 Oct 2025
 - Paloma, Berlin · Sat, 27 Sept 2025
 - The Hifi Club, Leeds · Fri, 26 Sept 2025
-- M.O.T, London · Sat, 20 Sept 2025
 
 ## Shares bills with
 
 harpriya, Dawsons Kriek, Howie Booth
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buckley-uk/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buckley-uk/)*

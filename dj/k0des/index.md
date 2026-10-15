@@ -1,6 +1,6 @@
 # k0des
 
-k0des is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Şahika, Istanbul on Thu, 15 Oct 2026.
+k0des is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Şahika, Istanbul on Thu, 15 Oct 2026.
 
 k0des is a techno and tech house artist, with 9 gigs on soundcheck across Berlin and Istanbul. Often billed alongside HEDDA, Concentio and Mx. Sür. Next up: Şahika, Istanbul on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ k0des is a techno and tech house artist, with 9 gigs on soundcheck across Berlin
 
 HEDDA, Concentio, Mx. Sür
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k0des/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k0des/)*

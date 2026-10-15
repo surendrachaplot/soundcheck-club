@@ -1,6 +1,6 @@
 # Robin Kampschoer
 
-Robin Kampschoer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Fri, 23 Oct 2026.
+Robin Kampschoer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Fri, 23 Oct 2026.
 
 Robin Kampschoer is a techno and house artist, with 12 gigs on soundcheck across Amsterdam. Often billed alongside Benny Rodrigues, SPEEDY and Speedy J. Next up: Amsterdams Most Wanted, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Robin Kampschoer is a techno and house artist, with 12 gigs on soundcheck across
 
 Benny Rodrigues, SPEEDY, Speedy J
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robinkampschoer/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robinkampschoer/)*

@@ -1,6 +1,6 @@
 # Maggie Tra
 
-Maggie Tra is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Sydney on Wed, 4 Nov 2026.
+Maggie Tra is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Sydney on Wed, 4 Nov 2026.
 
 Maggie Tra is a house and techno artist based in Australia, with 37 gigs on soundcheck across Bangkok, Melbourne, Sydney and Utrecht. Often billed alongside Nadia Sandiego, Xanthe and Kimi Hendrix. Next up: TBA, Sydney on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Maggie Tra is a house and techno artist based in Australia, with 37 gigs on soun
 
 Nadia Sandiego, Xanthe, Kimi Hendrix
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maggietra/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maggietra/)*

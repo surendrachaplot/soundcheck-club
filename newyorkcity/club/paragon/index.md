@@ -1,8 +1,8 @@
 # Paragon
 
-Paragon is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Phantasma: Joey Beltram, Volvox, Light Asylum(DJ Set) + Lenny Dee, FortifiedStructures" on Fri, 16 Oct 2026.
+Paragon is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Phantasma: Joey Beltram, Volvox, Light Asylum(DJ Set) + Lenny Dee, FortifiedStructures" on Fri, 16 Oct 2026.
 
-Paragon is a music venue in New York City listed on soundcheck. 11 upcoming gigs, with line-ups including AK (US), Ashley Venom, BLAIZE and Boris and 2 more. See dates, start times and who's playing. 990 Broadway Brooklyn, NY.
+Paragon is a music venue in New York City listed on soundcheck. 12 upcoming gigs, with line-ups including 1morning, AK (US), Amadeezy and Ashley Venom and 2 more. See dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Paragon is a music venue in New York City listed on soundcheck. 11 upcoming gigs
 | Sat, 31 Oct 2026 | Halloween: Boris, Juana, VILE + DJ SWISHA, nextdimensional | Boris, DJ SWISHA, Juana, VILE, nextdimensional |
 | Thu, 12 Nov 2026 | Doss & Friends | Doss |
 | Thu, 19 Nov 2026 | God Bless This Whorehouse | AK (US), Jin & Juice, Kilopatrah Jones, LITA DA DOLL, phlegm |
-| Sat, 21 Nov 2026 | yaego, Sangre, Glass Halo + Ashley Venom & Nymph | Ashley Venom, Nymph (NY), yaego |
+| Fri, 20 Nov 2026 | Phantasma: TYGAPAW, 1morning, Ether Pleaser + purp, Amadeezy, Tromac b2b King Virgo | 1morning, Amadeezy, Ether Pleaser, TYGAPAW, Tromac, purp |
 
 ## Address
 
 990 Broadway Brooklyn, NY, New York City
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*

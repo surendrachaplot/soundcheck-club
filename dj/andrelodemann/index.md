@@ -1,6 +1,6 @@
 # André Lodemann
 
-André Lodemann is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at KitKatClub, Berlin on Mon, 2 Nov 2026.
+André Lodemann is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at KitKatClub, Berlin on Mon, 2 Nov 2026.
 
 André Lodemann is a techno and house artist, with 7 gigs on soundcheck across Alicante and Berlin. Often billed alongside Frankie Flowerz, HANNAHHANSEN and Milk N Coffee. Next up: KitKatClub, Berlin on Mon 2 Nov.
 
@@ -23,4 +23,4 @@ André Lodemann is a techno and house artist, with 7 gigs on soundcheck across A
 
 Frankie Flowerz, HANNAHHANSEN, Milk N Coffee
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrelodemann/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrelodemann/)*

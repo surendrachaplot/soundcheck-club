@@ -1,6 +1,6 @@
 # Geller
 
-Geller is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Pacific Electric, Los Angeles on Sat, 17 Oct 2026.
+Geller is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Pacific Electric, Los Angeles on Sat, 17 Oct 2026.
 
 Geller is an ambient and electronica artist based in United States of America, with 9 gigs on soundcheck across Ghent, Los Angeles and New York City. Often billed alongside Headkick, Mental Geller and Audiotist. Next up: Pacific Electric, Los Angeles on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Geller is an ambient and electronica artist based in United States of America, w
 
 Headkick, Mental Geller, Audiotist
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geller/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geller/)*

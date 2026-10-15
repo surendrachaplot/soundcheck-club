@@ -1,6 +1,6 @@
 # Oxia
 
-Oxia is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Lurin live, Peru on Sat, 31 Oct 2026.
+Oxia is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Lurin live, Peru on Sat, 31 Oct 2026.
 
 Oxia is a techno and house artist based in France, with 30 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 13 more. Often billed alongside Nicolas Masseyeff, Julian Prince and AWEN. Next up: TBA - Lurin live, Peru on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Oxia is a techno and house artist based in France, with 30 gigs on soundcheck ac
 
 Nicolas Masseyeff, Julian Prince, AWEN
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oxia/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oxia/)*

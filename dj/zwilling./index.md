@@ -1,6 +1,6 @@
 # zwilling.
 
-zwilling. is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Parc Floral De Paris, Paris on Fri, 16 Oct 2026.
+zwilling. is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Parc Floral De Paris, Paris on Fri, 16 Oct 2026.
 
 zwilling. is a techno and trance artist based in Germany, with 102 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Serafina, WILDERÍCH and Adrian Mills. Next up: Parc Floral De Paris, Paris on Fri 16 Oct.
 
@@ -31,4 +31,4 @@ zwilling. is a techno and trance artist based in Germany, with 102 gigs on sound
 
 Serafina, WILDERÍCH, Adrian Mills
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zwilling./)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zwilling./)*

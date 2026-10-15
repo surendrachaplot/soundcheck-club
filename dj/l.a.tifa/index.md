@@ -1,6 +1,6 @@
 # L.A.tifa
 
-L.A.tifa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 28 Nov 2026.
+L.A.tifa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 28 Nov 2026.
 
 L.A.tifa is a techno and house artist based in Germany, with 47 gigs on soundcheck across Berlin, Hamburg, Leipzig and Nürnberg. Often billed alongside Ring41, JAMera and Ivaldo Gino. Next up: Uebel & Gefährlich, Hamburg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ L.A.tifa is a techno and house artist based in Germany, with 47 gigs on soundche
 
 Ring41, JAMera, Ivaldo Gino
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l.a.tifa/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l.a.tifa/)*

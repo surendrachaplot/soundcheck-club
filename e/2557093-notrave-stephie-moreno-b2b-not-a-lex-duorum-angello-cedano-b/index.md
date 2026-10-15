@@ -1,6 +1,6 @@
-# NOTRAVE: Stephie moreno B2B Not A Lex, Duorum, Angello Cedano B2B Maktüb, Barry at EL SÓTANO
+# NOTRAVE: Stephie moreno B2B Not A Lex, Duorum, Angello Cedano, Barry at EL SÓTANO
 
-NOTRAVE: Stephie moreno B2B Not A Lex, Duorum, Angello Cedano B2B Maktüb, Barry at EL SÓTANO on Thu 5 Nov, Madrid. 1 artist: Not A Lex. Tech House. See the line-up on soundcheck.
+NOTRAVE: Stephie moreno B2B Not A Lex, Duorum, Angello Cedano, Barry at EL SÓTANO on Thu 5 Nov, Madrid. 1 artist: Not A Lex. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

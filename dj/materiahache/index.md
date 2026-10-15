@@ -1,8 +1,8 @@
 # materia hache
 
-materia hache is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Berlin on Fri, 16 Oct 2026.
+materia hache is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Berlin on Fri, 16 Oct 2026.
 
-materia hache is a house and techno artist based in Spain, with 86 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Hamburg and 2 more. Often billed alongside Fluffi, Mamede and ilbroccolovolante. Next up: TBA, Berlin on Fri 16 Oct.
+materia hache is a house and techno artist based in Spain, with 87 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Hamburg and 2 more. Often billed alongside Fluffi, Mamede and ilbroccolovolante. Next up: TBA, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ materia hache is a house and techno artist based in Spain, with 86 gigs on sound
 | Fri, 16 Oct 2026 | TBA | Berlin |
 | Sat, 24 Oct 2026 | Crack Bellmer | Berlin |
 | Sun, 25 Oct 2026 | Crack Bellmer | Berlin |
+| Fri, 6 Nov 2026 | Hangar48 Club | Madrid |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ materia hache is a house and techno artist based in Spain, with 86 gigs on sound
 
 Fluffi, Mamede, ilbroccolovolante
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/materiahache/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/materiahache/)*

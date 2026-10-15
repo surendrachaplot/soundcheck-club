@@ -1,6 +1,6 @@
 # Warehouse Elementenstraat
 
-Warehouse Elementenstraat is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Caiiro presents: AKHET (ADE) powered by PURE" on Fri, 23 Oct 2026.
+Warehouse Elementenstraat is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Caiiro presents: AKHET (ADE) powered by PURE" on Fri, 23 Oct 2026.
 
 Warehouse Elementenstraat is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including A.M.C., Adrian Mills, Ape Drums and Aphøtic and 2 more. See dates, start times and who's playing. Elementenstraat 25, 1014 AR, Amsterdam.
 
@@ -21,4 +21,4 @@ Warehouse Elementenstraat is a music venue in Amsterdam listed on soundcheck. 8 
 
 Elementenstraat 25, 1014 AR, Amsterdam, Amsterdam
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/warehouse-elementenstraat/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/warehouse-elementenstraat/)*

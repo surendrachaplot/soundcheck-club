@@ -1,6 +1,6 @@
 # Dana Kuehr
 
-Dana Kuehr is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Badaboum, Paris on Fri, 16 Oct 2026.
+Dana Kuehr is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Badaboum, Paris on Fri, 16 Oct 2026.
 
 Dana Kuehr is a house and techno artist based in United States of America, with 82 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 11 more. Often billed alongside Fais Le Beau, DJ Rino and Karla Böhm. Next up: Badaboum, Paris on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Dana Kuehr is a house and techno artist based in United States of America, with 
 
 Fais Le Beau, DJ Rino, Karla Böhm
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danakuehr/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danakuehr/)*

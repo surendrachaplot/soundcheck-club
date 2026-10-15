@@ -16,7 +16,7 @@ Bassiani – Horoom – Fri, 06.11.2026 on Fri 6 Nov, Tbilisi. 9 artists: Barker
 - Hamatsuki
 - Ndrx
 - ninasupsa
-- Orion
+- ORION (IT)
 - skyra
 - Willow
 

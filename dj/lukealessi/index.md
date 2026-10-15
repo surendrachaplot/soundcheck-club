@@ -1,6 +1,6 @@
 # Luke Alessi
 
-Luke Alessi is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Switch, Porto on Sat, 17 Oct 2026.
+Luke Alessi is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Switch, Porto on Sat, 17 Oct 2026.
 
 Luke Alessi is a house and techno artist based in Australia, with 123 gigs on soundcheck across Amsterdam, Austin, Bangkok and Belgrade and 37 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: Switch, Porto on Sat 17 Oct.
 
@@ -35,4 +35,4 @@ Luke Alessi is a house and techno artist based in Australia, with 123 gigs on so
 
 Jordan Brando, DJ Tennis, William Kiss
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealessi/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealessi/)*

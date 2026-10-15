@@ -1,8 +1,8 @@
 # Kompass Klub
 
-Kompass Klub is a music venue in Ghent with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Vieze Asbak at Kompass (ALL NIGHT LONG)" on Fri, 16 Oct 2026.
+Kompass Klub is a music venue in Ghent with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Vieze Asbak at Kompass (ALL NIGHT LONG)" on Fri, 16 Oct 2026.
 
-Kompass Klub is a music venue in Ghent listed on soundcheck. 8 upcoming gigs, with line-ups including Alignment, Azo, Bad Boombox and Basstripper and 2 more. See dates, start times and who's playing. Vliegtuiglaan 12, 9000 Gent - Belgium.
+Kompass Klub is a music venue in Ghent listed on soundcheck. 9 upcoming gigs, with line-ups including Alignment, Azo, Bad Boombox and Basstripper and 2 more. See dates, start times and who's playing. Vliegtuiglaan 12, 9000 Gent - Belgium.
 
 ## What's on
 
@@ -15,10 +15,11 @@ Kompass Klub is a music venue in Ghent listed on soundcheck. 8 upcoming gigs, wi
 | Sat, 21 Nov 2026 | The Subs at Kompass | Azo, Crookers, Digitalism, Dr. Lektroluv, Etienne De Crecy, Kenny Montana, The Subs |
 | Fri, 27 Nov 2026 | KRUELTY, Toxic Machinery at Kompass | Jane Muss, KRUELTY, SLVL |
 | Sat, 28 Nov 2026 | I Hate Models at Kompass (4HOUR SET) | I Hate Models, SOYA, Swarobski, myu:sa |
+| Fri, 11 Dec 2026 | Primal Instinct x Kompass | BLANKA, Chlär, DAX J, Hadone, Maharti, Setaoc Mass, Vera Grace |
 | Sat, 12 Dec 2026 | KUKO & Vendex at Kompass | Alignment, Johannes Schuster, KASIENKA, KUKO, Vendex |
 
 ## Address
 
 Vliegtuiglaan 12, 9000 Gent - Belgium, Ghent
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/kompass-klub/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/kompass-klub/)*

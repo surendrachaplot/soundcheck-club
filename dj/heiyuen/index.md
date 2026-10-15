@@ -1,6 +1,6 @@
 # Heiyuen
 
-Heiyuen is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Patision65, Athens on Fri, 16 Oct 2026.
+Heiyuen is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Patision65, Athens on Fri, 16 Oct 2026.
 
 Heiyuen is a techno and bass artist based in China, with 8 gigs on soundcheck across Athens, Berlin, Hong Kong and Shenzhen and 1 more. Often billed alongside Taste of Blue, BUSYBOI and COLA REN. Next up: Patision65, Athens on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ Heiyuen is a techno and bass artist based in China, with 8 gigs on soundcheck ac
 
 Taste of Blue, BUSYBOI, COLA REN
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heiyuen/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heiyuen/)*

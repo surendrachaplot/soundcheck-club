@@ -1,6 +1,6 @@
 # Justin Muscat
 
-Justin Muscat is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Chinese Laundry, Sydney on Sat, 24 Oct 2026.
+Justin Muscat is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Chinese Laundry, Sydney on Sat, 24 Oct 2026.
 
 Justin Muscat is a techno and house artist based in Australia, with 40 gigs on soundcheck across Brisbane and Sydney. Often billed alongside Alison Belle, Alternate State and Bryan Ro. Next up: Chinese Laundry, Sydney on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Justin Muscat is a techno and house artist based in Australia, with 40 gigs on s
 
 Alison Belle, Alternate State, Bryan Ro
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justinmuscat/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justinmuscat/)*

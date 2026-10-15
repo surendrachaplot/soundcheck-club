@@ -1,8 +1,8 @@
 # Jude Lenihan
 
-Jude Lenihan is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Wed, 21 Oct 2026.
+Jude Lenihan is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Wed, 21 Oct 2026.
 
-Jude Lenihan is a house and tech house artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Leeds and 2 more. Often billed alongside Benji King, Phill de Janeiro and j:me. Next up: Shelter Amsterdam, Amsterdam on Wed 21 Oct.
+Jude Lenihan is a house and tech house artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Leeds and 2 more. Often billed alongside Benji King, Phill de Janeiro and j:me. Next up: Shelter Amsterdam, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jude Lenihan is a house and tech house artist based in United Kingdom, with 52 g
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sun, 1 Nov 2026 | The Cause | London |
+| Sat, 7 Nov 2026 | Distrikt | Leeds |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
@@ -27,4 +28,4 @@ Jude Lenihan is a house and tech house artist based in United Kingdom, with 52 g
 
 Benji King, Phill de Janeiro, j:me
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/judelenihan/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/judelenihan/)*

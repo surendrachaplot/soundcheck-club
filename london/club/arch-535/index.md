@@ -1,6 +1,6 @@
 # Arch 535
 
-Arch 535 is a music venue in London with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "QUARRY " on Fri, 16 Oct 2026.
+Arch 535 is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "QUARRY " on Fri, 16 Oct 2026.
 
 Arch 535 is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including boys name, Costikyan, Localist and Make Money Mafia and 2 more. See dates, start times and who's playing. Arch 535, Orphans Yard, Brixton Station Rd, London SW9 8QB.
 
@@ -16,4 +16,4 @@ Arch 535 is a music venue in London listed on soundcheck. 3 upcoming gigs, with 
 
 Arch 535, Orphans Yard, Brixton Station Rd, London SW9 8QB, London
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch-535/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch-535/)*

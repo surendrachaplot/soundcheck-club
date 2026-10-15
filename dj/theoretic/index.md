@@ -1,14 +1,15 @@
 # theoretic
 
-theoretic is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Friends & Lovers, New York City on Sat, 17 Oct 2026.
+theoretic is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Friends & Lovers, New York City on Sat, 17 Oct 2026.
 
-theoretic is a house and techno artist based in United States of America, with 64 gigs on soundcheck across Copenhagen, Hamburg, London and New York City and 1 more. Often billed alongside Niyah West, PlayPlay and VARSHA. Next up: Friends & Lovers, New York City on Sat 17 Oct.
+theoretic is a house and techno artist based in United States of America, with 65 gigs on soundcheck across Copenhagen, Hamburg, London and New York City and 2 more. Often billed alongside Niyah West, PlayPlay and VARSHA. Next up: Friends & Lovers, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Friends & Lovers | New York City |
+| Wed, 11 Nov 2026 | Ginza Records & Audio Kuramae | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ theoretic is a house and techno artist based in United States of America, with 6
 
 Niyah West, PlayPlay, VARSHA
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theoretic/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theoretic/)*

@@ -1,6 +1,6 @@
 # Aneri
 
-Aneri is a Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Karmakoma, Belgrade on Fri, 16 Oct 2026.
+Aneri is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Karmakoma, Belgrade on Fri, 16 Oct 2026.
 
 Aneri is a techno artist based in Serbia, with 20 gigs on soundcheck across Belgrade and Serbia. Often billed alongside Mamavitae, Asarri and Essio. Next up: Karmakoma, Belgrade on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Aneri is a techno artist based in Serbia, with 20 gigs on soundcheck across Belg
 
 Mamavitae, Asarri, Essio
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aneri/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aneri/)*

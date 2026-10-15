@@ -1,6 +1,6 @@
 # Curtis Bledsoe
 
-Curtis Bledsoe is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA -  HEY HEY SOCIAL , San-antonio on Sat, 17 Oct 2026.
+Curtis Bledsoe is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA -  HEY HEY SOCIAL , San-antonio on Sat, 17 Oct 2026.
 
 Curtis Bledsoe is a deep house and house artist based in United States of America, with 11 gigs on soundcheck across Amsterdam, Austin, Chicago and San Antonio. Often billed alongside Dj Jes, Eric Ross and Mauricio Meade. Next up: TBA -  HEY HEY SOCIAL , San Antonio on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Curtis Bledsoe is a deep house and house artist based in United States of Americ
 
 Dj Jes, Eric Ross, Mauricio Meade
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/curtisbledsoe/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/curtisbledsoe/)*

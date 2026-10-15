@@ -1,6 +1,6 @@
 # Tommaso (IT)
 
-Tommaso (IT) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Spkrbox, Detroit on Thu, 15 Oct 2026.
+Tommaso (IT) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Spkrbox, Detroit on Thu, 15 Oct 2026.
 
 Tommaso (IT) is a house and disco artist based in Italy, with 58 gigs on soundcheck across Amsterdam, Chicago, Detroit and London and 6 more. Often billed alongside CTRLZORA, Gene Hunt and TonyDeepDisco. Next up: Spkrbox, Detroit on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Tommaso (IT) is a house and disco artist based in Italy, with 58 gigs on soundch
 
 CTRLZORA, Gene Hunt, TonyDeepDisco
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommaso-it/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommaso-it/)*

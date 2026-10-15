@@ -1,6 +1,6 @@
 # Anna Z.
 
-Anna Z. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 20 Nov 2026.
+Anna Z. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 20 Nov 2026.
 
 Anna Z. is a techno and house artist based in Germany, with 50 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 11 more. Often billed alongside FJAAK, J.Manuel and Elli Acula. Next up: RSO.BERLIN, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Anna Z. is a techno and house artist based in Germany, with 50 gigs on soundchec
 
 FJAAK, J.Manuel, Elli Acula
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annaz/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annaz/)*

@@ -1,6 +1,6 @@
 # MOVIN.KR
 
-MOVIN.KR is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Shelter, Seoul on Sat, 17 Oct 2026.
+MOVIN.KR is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Shelter, Seoul on Sat, 17 Oct 2026.
 
 MOVIN.KR is a techno and electro artist based in South Korea, with 152 gigs on soundcheck across Seoul. Often billed alongside Honn, X2C and bumv. Next up: Shelter, Seoul on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ MOVIN.KR is a techno and electro artist based in South Korea, with 152 gigs on s
 
 Honn, X2C (1), bumv
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/movin.kr/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/movin.kr/)*

@@ -1,8 +1,8 @@
 # Cole Terrazas
 
-Cole Terrazas is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Fillmore, Denver on Sat, 17 Oct 2026.
+Cole Terrazas is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Fillmore, Denver on Sat, 17 Oct 2026.
 
-Cole Terrazas is a tech house and house artist based in United States of America, with 24 gigs on soundcheck across Amsterdam, Austin, Chicago and Denver and 6 more. Often billed alongside KinAhau, Josh Baker and Beltran. Next up: The Fillmore, Denver on Sat 17 Oct.
+Cole Terrazas is a tech house and house artist based in United States of America, with 25 gigs on soundcheck across Amsterdam, Austin, Chicago and Denver and 6 more. Often billed alongside KinAhau, Hank (US) and Josh Baker. Next up: The Fillmore, Denver on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Cole Terrazas is a tech house and house artist based in United States of America
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | The Fillmore | Denver |
 | Sat, 31 Oct 2026 | TBA - Private Location | San Diego |
+| Fri, 20 Nov 2026 | The Bridge | Los Angeles |
 | Sat, 21 Nov 2026 | THE BATHS | Austin |
 
 ## Recently played
@@ -25,6 +26,6 @@ Cole Terrazas is a tech house and house artist based in United States of America
 
 ## Shares bills with
 
-KinAhau, Josh Baker, Beltran
+KinAhau, Hank (US), Josh Baker
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coleterrazas/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coleterrazas/)*

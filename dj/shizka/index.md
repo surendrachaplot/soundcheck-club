@@ -1,14 +1,15 @@
 # SHIZKA
 
-SHIZKA is a House and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Forestlimit, Tokyo on Sat, 17 Oct 2026.
+SHIZKA is a Experimental and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Forestlimit, Tokyo on Sat, 17 Oct 2026.
 
-SHIZKA is a house and experimental artist based in Japan, with 10 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside Lil Mofo, E.O.U and COLA REN. Next up: Forestlimit, Tokyo on Sat 17 Oct.
+SHIZKA is an experimental and house artist based in Japan, with 11 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside Lil Mofo, E.O.U and COLA REN. Next up: Forestlimit, Tokyo on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Forestlimit | Tokyo |
+| Tue, 27 Oct 2026 | Enter Shibuya | Tokyo |
 | Mon, 2 Nov 2026 | Grassroots | Tokyo |
 
 ## Recently played
@@ -26,4 +27,4 @@ SHIZKA is a house and experimental artist based in Japan, with 10 gigs on soundc
 
 Lil Mofo, E.O.U, COLA REN
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shizka/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shizka/)*

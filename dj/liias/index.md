@@ -1,6 +1,6 @@
 # LIIAS
 
-LIIAS is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 16 Oct 2026.
+LIIAS is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 16 Oct 2026.
 
 LIIAS is a techno and trance artist based in Germany, with 15 gigs on soundcheck across Berlin. Often billed alongside Filialleiter, BENITO (DE) and EZA (DE). Next up: Lokschuppen Berlin, Berlin on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ LIIAS is a techno and trance artist based in Germany, with 15 gigs on soundcheck
 
 Filialleiter, BENITO (DE), EZA (DE)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liias/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liias/)*

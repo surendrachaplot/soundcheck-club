@@ -1,6 +1,6 @@
 # Alina Viktoria
 
-Alina Viktoria is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at frachtkante, Berlin on Sat, 17 Oct 2026.
+Alina Viktoria is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at frachtkante, Berlin on Sat, 17 Oct 2026.
 
 Alina Viktoria is a techno and trance artist based in Germany, with 69 gigs on soundcheck across Berlin, Budapest, Cologne and Frankfurt and 6 more. Often billed alongside SACID, Dexy's Midnight and Aexhy. Next up: frachtkante, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Alina Viktoria is a techno and trance artist based in Germany, with 69 gigs on s
 
 SACID, Dexy's Midnight, Aexhy
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alinaviktoria/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alinaviktoria/)*

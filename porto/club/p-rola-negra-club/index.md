@@ -1,6 +1,6 @@
 # Pérola Negra Club
 
-Pérola Negra Club is a music venue in Porto with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "DJ Masda" on Sat, 17 Oct 2026.
+Pérola Negra Club is a music venue in Porto with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "DJ Masda" on Sat, 17 Oct 2026.
 
 Pérola Negra Club is a music venue in Porto listed on soundcheck. 3 upcoming gigs, with line-ups including Arpy Brown, DJ Masda, Gee Lane and Kirollus and 1 more. See dates, start times and who's playing. Rua de Gonçalo Cristóvão 284, 4000-145 Porto, Portugal.
 
@@ -16,4 +16,4 @@ Pérola Negra Club is a music venue in Porto listed on soundcheck. 3 upcoming gi
 
 Rua de Gonçalo Cristóvão 284, 4000-145 Porto, Portugal, Porto
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/p-rola-negra-club/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/p-rola-negra-club/)*

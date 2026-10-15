@@ -1,15 +1,15 @@
 # The Eagle
 
-The Eagle is a music venue in London with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Horse Meat Disco at Eagle London" on Sun, 18 Oct 2026.
+The Eagle is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Horse Meat Disco at Eagle London" on Sun, 18 Oct 2026.
 
-The Eagle is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Horse Meat Disco, Stuart Patterson and Terry Farley. See dates, start times and who's playing. 349 Kennington Ln, London SE11 5QY, United Kingdom.
+The Eagle is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Boys' Shorts, Horse Meat Disco, Michelle Manetti and Stuart Patterson and 1 more. See dates, start times and who's playing. 349 Kennington Ln, London SE11 5QY, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Horse Meat Disco at Eagle London | Horse Meat Disco |
-| Sun, 25 Oct 2026 | Horse Meat Disco at Eagle London | Horse Meat Disco |
+| Sun, 18 Oct 2026 | Horse Meat Disco at Eagle London | Horse Meat Disco, Michelle Manetti |
+| Sun, 25 Oct 2026 | Horse Meat Disco at Eagle London | Boys' Shorts, Horse Meat Disco |
 | Sun, 1 Nov 2026 | Horse Meat Disco Halloween at Eagle London | Horse Meat Disco |
 | Fri, 6 Nov 2026 | The Boy Is Mine |  |
 | Sat, 14 Nov 2026 | Handsome's 14th Birthday Bash (Terry Farley / Stuart Patterson) | Stuart Patterson, Terry Farley |
@@ -18,4 +18,4 @@ The Eagle is a music venue in London listed on soundcheck. 5 upcoming gigs, with
 
 349 Kennington Ln, London SE11 5QY, United Kingdom, London
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-eagle/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-eagle/)*

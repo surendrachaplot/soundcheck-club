@@ -1,6 +1,6 @@
 # Symonne
 
-Symonne is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Los Angeles on Sat, 17 Oct 2026.
+Symonne is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Los Angeles on Sat, 17 Oct 2026.
 
 Symonne is a house and tech house artist based in United States of America, with 19 gigs on soundcheck across Los Angeles and New York City. Often billed alongside BLANC MAMBA, BAE BAE and Lavenge. Next up: TBA, Los Angeles on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Symonne is a house and tech house artist based in United States of America, with
 
 BLANC MAMBA, BAE BAE, Lavenge
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/symonne/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/symonne/)*

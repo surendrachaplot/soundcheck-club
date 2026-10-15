@@ -1,6 +1,6 @@
 # Shelter Antwerp
 
-Shelter Antwerp is a music venue in Antwerp with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Ben Gomori: Trax On Da Tracks Tour" on Thu, 15 Oct 2026.
+Shelter Antwerp is a music venue in Antwerp with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Ben Gomori: Trax On Da Tracks Tour" on Thu, 15 Oct 2026.
 
 Shelter Antwerp is a music venue in Antwerp listed on soundcheck. 4 upcoming gigs, with line-ups including Ben Gomori and Steve Cop. See dates, start times and who's playing. Oude Koornmarkt 42, 2000 Antwerpen, Belgium.
 
@@ -17,4 +17,4 @@ Shelter Antwerp is a music venue in Antwerp listed on soundcheck. 4 upcoming gig
 
 Oude Koornmarkt 42, 2000 Antwerpen, Belgium, Antwerp
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/shelter-antwerp/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/shelter-antwerp/)*

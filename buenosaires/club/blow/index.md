@@ -1,6 +1,6 @@
 # Blow
 
-Blow is a music venue in Buenos Aires with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Shift - BRN - Edicion Internacional - Aniversario" on Fri, 16 Oct 2026.
+Blow is a music venue in Buenos Aires with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Shift - BRN - Edicion Internacional - Aniversario" on Fri, 16 Oct 2026.
 
 Blow is a music venue in Buenos Aires listed on soundcheck. 3 upcoming gigs, with line-ups including Camila Isabel, Chris Lake, Faustø and FISHER and 2 more. See dates, start times and who's playing. Av. Cnel. Niceto Vega 5699, C1414BFE C1414BFE C1414BFI, Buenos Aires, Argentina.
 
@@ -16,4 +16,4 @@ Blow is a music venue in Buenos Aires listed on soundcheck. 3 upcoming gigs, wit
 
 Av. Cnel. Niceto Vega 5699, C1414BFE C1414BFE C1414BFI, Buenos Aires, Argentina, Buenos Aires
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/blow/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/blow/)*

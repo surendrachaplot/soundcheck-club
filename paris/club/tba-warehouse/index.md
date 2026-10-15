@@ -1,6 +1,6 @@
 # TBA - Warehouse
 
-TBA - Warehouse is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Sub Terra presents: Alex Stein" on Fri, 16 Oct 2026.
+TBA - Warehouse is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Sub Terra presents: Alex Stein" on Fri, 16 Oct 2026.
 
 TBA - Warehouse is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including AEREA, Alex Stein, Danny L Harle and Frederic. and 2 more. See dates, start times and who's playing.
 
@@ -16,4 +16,4 @@ TBA - Warehouse is a music venue in Paris listed on soundcheck. 7 upcoming gigs,
 | Sun, 22 Nov 2026 | THC 15 YEARS WITH Lars Huismann & LEGA | Lars Huismann |
 | Fri, 4 Dec 2026 | TAKEOVER 6IX presents Serafina [EXTENDED SET] | Serafina |
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-warehouse/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-warehouse/)*

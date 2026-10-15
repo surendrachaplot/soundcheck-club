@@ -1,6 +1,6 @@
 # Columbiahalle
 
-Columbiahalle is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "TOMORA: Aurora X Tom Rowlands (The Chemical Brothers)" on Sun, 1 Nov 2026.
+Columbiahalle is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "TOMORA: Aurora X Tom Rowlands (The Chemical Brothers)" on Sun, 1 Nov 2026.
 
 Columbiahalle is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Aurora. See dates, start times and who's playing. Columbiadamm 13-21, 10965 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Columbiahalle is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, 
 
 Columbiadamm 13-21, 10965 Berlin, Germany, Berlin
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/columbiahalle/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/columbiahalle/)*

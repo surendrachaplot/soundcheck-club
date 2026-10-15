@@ -1,6 +1,6 @@
 # Laces
 
-Laces is a Club and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Milneys, Melbourne on Fri, 16 Oct 2026.
+Laces is a Club and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Milneys, Melbourne on Fri, 16 Oct 2026.
 
 Laces is a club and hardcore artist based in Australia, with 10 gigs on soundcheck across Melbourne, Sydney and Tokyo. Often billed alongside FOURA, Nina Las Vegas and Scariestgirlintheworld. Next up: Milneys, Melbourne on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Laces is a club and hardcore artist based in Australia, with 10 gigs on soundche
 
 FOURA, Nina Las Vegas, Scariestgirlintheworld
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laces/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laces/)*

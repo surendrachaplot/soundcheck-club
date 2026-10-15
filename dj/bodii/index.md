@@ -1,6 +1,6 @@
 # BODII
 
-BODII is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Stile Rooftop, Los Angeles on Fri, 16 Oct 2026.
+BODII is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Stile Rooftop, Los Angeles on Fri, 16 Oct 2026.
 
 BODII is a hip-hop and house artist based in United States of America, with 27 gigs on soundcheck across Los Angeles. Often billed alongside Terrell Brooke, DeFacto X and Cquestt. Next up: Stile Rooftop, Los Angeles on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ BODII is a hip-hop and house artist based in United States of America, with 27 g
 
 Terrell Brooke, DeFacto X, Cquestt
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bodii/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bodii/)*

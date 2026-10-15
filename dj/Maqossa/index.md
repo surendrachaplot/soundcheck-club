@@ -1,6 +1,6 @@
 # Maqossa
 
-Maqossa is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Smokey Club, Amsterdam on Thu, 22 Oct 2026.
+Maqossa is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Smokey Club, Amsterdam on Thu, 22 Oct 2026.
 
 Maqossa is a house and tech house artist based in Netherlands, with 100 gigs on soundcheck across Amsterdam, Barcelona, Düsseldorf and Ibiza and 7 more. Often billed alongside Joey Daniel, Prunk and Benny Rodrigues. Next up: Smokey Club, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Maqossa is a house and tech house artist based in Netherlands, with 100 gigs on 
 
 Joey Daniel, Prunk, Benny Rodrigues
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Maqossa/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Maqossa/)*

@@ -1,6 +1,6 @@
 # HONEY B
 
-HONEY B is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Market Hotel, New York City on Fri, 16 Oct 2026.
+HONEY B is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Market Hotel, New York City on Fri, 16 Oct 2026.
 
 HONEY B is a techno and club artist based in United States of America, with 88 gigs on soundcheck across Berlin, Boston, Edinburgh and Miami and 8 more. Often billed alongside nextdimensional, DJ Shannon and Kandylion. Next up: Market Hotel, New York City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ HONEY B is a techno and club artist based in United States of America, with 88 g
 
 nextdimensional, DJ Shannon, Kandylion
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honeyb/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honeyb/)*

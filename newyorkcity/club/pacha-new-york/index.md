@@ -1,6 +1,6 @@
 # Pacha New York
 
-Pacha New York is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Music On: Marco Carola, Franky Rizardo, Mason Collective" on Fri, 16 Oct 2026.
+Pacha New York is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Music On: Marco Carola, Franky Rizardo, Mason Collective" on Fri, 16 Oct 2026.
 
 Pacha New York is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including Ale De Tuglie, Black Coffee, Franky Rizardo and Locky and 2 more. See dates, start times and who's playing. 140 Stewart Ave, Brooklyn, NY 11237.
 
@@ -21,4 +21,4 @@ Pacha New York is a music venue in New York City listed on soundcheck. 8 upcomin
 
 140 Stewart Ave, Brooklyn, NY 11237, New York City
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pacha-new-york/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pacha-new-york/)*

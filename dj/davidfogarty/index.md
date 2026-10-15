@@ -1,6 +1,6 @@
 # David Fogarty
 
-David Fogarty is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
+David Fogarty is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
 
 David Fogarty is a techno and trance artist based in Germany, with 56 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Dublin and 12 more. Often billed alongside Sound Metaphors Djs, Temple Rat and Alicia Carrera. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ David Fogarty is a techno and trance artist based in Germany, with 56 gigs on so
 
 Sound Metaphors Djs, Temple Rat, Alicia Carrera
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidfogarty/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidfogarty/)*

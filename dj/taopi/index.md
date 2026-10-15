@@ -1,0 +1,28 @@
+# Taopi
+
+Taopi is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at White Space Lab, Tokyo on Fri, 13 Nov 2026.
+
+Taopi is a minimal and house artist based in Japan, with 61 gigs on soundcheck across Tokyo. Often billed alongside Bi-Polar, Rimo and Air.. Next up: White Space Lab, Tokyo on Fri 13 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 13 Nov 2026 | White Space Lab | Tokyo |
+
+## Recently played
+
+- White Space Lab, Tokyo · Fri, 11 Sept 2026
+- Monkeybar, Tokyo · Sat, 1 Aug 2026
+- Azumaya, Tokyo · Wed, 22 Jul 2026
+- Aoyama Hachi, Tokyo · Thu, 16 Jul 2026
+- White Space Lab, Tokyo · Fri, 10 Jul 2026
+- White Space Lab, Tokyo · Fri, 5 Jun 2026
+- White Space Lab, Tokyo · Fri, 8 May 2026
+- MEIMEI, Tokyo · Fri, 10 Apr 2026
+
+## Shares bills with
+
+Bi-Polar, Rimo, Air.
+
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taopi/)*

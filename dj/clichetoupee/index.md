@@ -1,6 +1,6 @@
 # Cliché Toupée
 
-Cliché Toupée is a Noise and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at The Tin Tabernacle, Kilburn, London on Sat, 24 Oct 2026.
+Cliché Toupée is a Noise and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at The Tin Tabernacle, Kilburn, London on Sat, 24 Oct 2026.
 
 Cliché Toupée is a noise and experimental artist based in United Kingdom, with 13 gigs on soundcheck across London and Paris. Often billed alongside ARCHANGEL (US), Arewà Basit and Authentically Plastic. Next up: The Tin Tabernacle, Kilburn, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Cliché Toupée is a noise and experimental artist based in United Kingdom, with
 
 ARCHANGEL (US), Arewà Basit, Authentically Plastic
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clichetoupee/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clichetoupee/)*

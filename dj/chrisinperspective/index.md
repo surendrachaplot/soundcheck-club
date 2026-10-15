@@ -1,6 +1,6 @@
 # Chris Inperspective
 
-Chris Inperspective is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Club Up, Amsterdam on Fri, 6 Nov 2026.
+Chris Inperspective is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Club Up, Amsterdam on Fri, 6 Nov 2026.
 
 Chris Inperspective is a drum & bass and jungle artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Berlin, London and Los Angeles and 1 more. Often billed alongside Subject 13, Gibbo and Loxy. Next up: Club Up, Amsterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Chris Inperspective is a drum & bass and jungle artist based in United Kingdom, 
 
 Subject 13, Gibbo, Loxy
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisinperspective/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisinperspective/)*

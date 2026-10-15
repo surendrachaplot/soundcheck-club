@@ -1,6 +1,6 @@
 # Sofi Vonn
 
-Sofi Vonn is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - East Williamsburg, New York City on Fri, 13 Nov 2026.
+Sofi Vonn is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - East Williamsburg, New York City on Fri, 13 Nov 2026.
 
 Sofi Vonn is a house and techno artist based in United States of America, with 8 gigs on soundcheck across London and New York City. Often billed alongside 2 boots, Afr0delic and Atomheartmommy. Next up: TBA - East Williamsburg, New York City on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ Sofi Vonn is a house and techno artist based in United States of America, with 8
 
 2 boots, Afr0delic, Atomheartmommy
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofivonn/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofivonn/)*

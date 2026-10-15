@@ -1,6 +1,6 @@
 # Climax-Institutes
 
-Climax-Institutes is a music venue in Stuttgart with 12 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "30 Jahre Climax - Climax & Friends - nur mit Einladung" on Thu, 15 Oct 2026.
+Climax-Institutes is a music venue in Stuttgart with 12 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "30 Jahre Climax - Climax & Friends - nur mit Einladung" on Thu, 15 Oct 2026.
 
 Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 12 upcoming gigs, with line-ups including Adi Dassler, Adono, Chamelio 3000 and E-PUNK and 2 more. See dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
 
@@ -23,4 +23,4 @@ Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 12 upcomin
 
 Calwer Str. 25, 70173 Stuttgart, Stuttgart
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*

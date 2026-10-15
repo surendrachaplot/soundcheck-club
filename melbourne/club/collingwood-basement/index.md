@@ -1,14 +1,13 @@
 # Collingwood Basement
 
-Collingwood Basement is a music venue in Melbourne with 12 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "[Free] Live in the Basement: Tectonic Boogi " on Wed, 14 Oct 2026.
+Collingwood Basement is a music venue in Melbourne with 11 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Hatch" on Thu, 15 Oct 2026.
 
-Collingwood Basement is a music venue in Melbourne listed on soundcheck. 12 upcoming gigs, with line-ups including BERGA, Ivan Kyrov, JANEIN and Jasper Miles and 2 more. See dates, start times and who's playing. (Zero) 0 Langridge St Collingwood, VIC 3066.
+Collingwood Basement is a music venue in Melbourne listed on soundcheck. 11 upcoming gigs, with line-ups including BERGA, Ivan Kyrov, JANEIN and Jasper Miles and 2 more. See dates, start times and who's playing. (Zero) 0 Langridge St Collingwood, VIC 3066.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 14 Oct 2026 | [Free] Live in the Basement: Tectonic Boogi  |  |
 | Thu, 15 Oct 2026 | Hatch |  |
 | Thu, 15 Oct 2026 | Hatch |  |
 | Fri, 16 Oct 2026 | [CANCELLED] BLLNBSSMNT presents: Dambience |  |
@@ -18,9 +17,10 @@ Collingwood Basement is a music venue in Melbourne listed on soundcheck. 12 upco
 | Fri, 23 Oct 2026 | Succulent Funk & Club De Migo present Nathan Haines | Jasper Miles, Nathan Haines |
 | Sat, 24 Oct 2026 | TOASTER | Kait Xri, Mabel |
 | Thu, 29 Oct 2026 | Hatch |  |
+| Sat, 7 Nov 2026 | HEADROOM presents: Richard Sen (UK) All Night Long | Richard Sen |
 
 ## Address
 
 (Zero) 0 Langridge St Collingwood, VIC 3066, Melbourne
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*

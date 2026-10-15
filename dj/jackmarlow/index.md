@@ -1,6 +1,6 @@
 # JACK MARLOW
 
-JACK MARLOW is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Descent, Boston on Thu, 15 Oct 2026.
+JACK MARLOW is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Descent, Boston on Thu, 15 Oct 2026.
 
 JACK MARLOW is a garage and house artist based in United Kingdom, with 55 gigs on soundcheck across Berlin, Boston, Brighton and Brisbane and 17 more. Often billed alongside GEE LEE, Lemtom and salameh. Next up: Descent, Boston on Thu 15 Oct.
 
@@ -29,4 +29,4 @@ JACK MARLOW is a garage and house artist based in United Kingdom, with 55 gigs o
 
 GEE LEE, Lemtom, salameh
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackmarlow/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackmarlow/)*

@@ -1,6 +1,6 @@
 # Zsófi
 
-Zsófi is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Kauz, Zurich on Thu, 31 Dec 2026.
+Zsófi is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Kauz, Zurich on Thu, 31 Dec 2026.
 
 Zsófi is a trance and house artist, with 15 gigs on soundcheck across Zurich. Often billed alongside MosArt, DJ Equipment and fraumuhlin. Next up: Kauz, Zurich on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Zsófi is a trance and house artist, with 15 gigs on soundcheck across Zurich. O
 
 MosArt, DJ Equipment, fraumuhlin
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zsofi/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zsofi/)*

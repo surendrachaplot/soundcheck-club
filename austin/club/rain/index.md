@@ -1,6 +1,6 @@
 # Rain
 
-Rain is a music venue in Austin with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "Dance Therapy with Lavender Thug" on Thu, 15 Oct 2026.
+Rain is a music venue in Austin with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "Dance Therapy with Lavender Thug" on Thu, 15 Oct 2026.
 
 Rain is a music venue in Austin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 217 W 4th St, Austin, TX 78701.
 
@@ -14,4 +14,4 @@ Rain is a music venue in Austin listed on soundcheck. 1 upcoming gig. See dates,
 
 217 W 4th St, Austin, TX 78701, Austin
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/rain/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/rain/)*

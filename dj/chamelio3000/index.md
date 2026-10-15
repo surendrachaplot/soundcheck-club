@@ -1,6 +1,6 @@
 # Chamelio 3000
 
-Chamelio 3000 is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Climax-Institutes, Stuttgart on Sat, 17 Oct 2026.
+Chamelio 3000 is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Climax-Institutes, Stuttgart on Sat, 17 Oct 2026.
 
 Chamelio 3000 is a house and techno artist based in Germany, with 52 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside Michael Clash Gottschalk, Schlepp Geist and Alexander Maier. Next up: Climax-Institutes, Stuttgart on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Chamelio 3000 is a house and techno artist based in Germany, with 52 gigs on sou
 
 Michael Clash Gottschalk, Schlepp Geist, Alexander Maier
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chamelio3000/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chamelio3000/)*

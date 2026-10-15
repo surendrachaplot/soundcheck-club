@@ -1,6 +1,6 @@
 # 12 x 12
 
-12 x 12 is a music venue in Bangkok with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Avo Garde" on Thu, 15 Oct 2026.
+12 x 12 is a music venue in Bangkok with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Avo Garde" on Thu, 15 Oct 2026.
 
 12 x 12 is a music venue in Bangkok listed on soundcheck. 5 upcoming gigs, with line-ups including DJ Krit Morton, Elaheh, Gishiyama and Keep Me In The Light and 2 more. See dates, start times and who's playing. 810, 22 Thara Rom 2 Alley, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand.
 
@@ -18,4 +18,4 @@
 
 810, 22 Thara Rom 2 Alley, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand, Bangkok
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/12-x-12/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/12-x-12/)*

@@ -1,6 +1,6 @@
 # Kirollus
 
-Kirollus is a House and Disco artist with 12 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Balagan Roma, Rome on Sat, 17 Oct 2026.
+Kirollus is a House and Disco artist with 12 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Balagan Roma, Rome on Sat, 17 Oct 2026.
 
 Kirollus is a house and disco artist based in United Kingdom, with 154 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 38 more. Often billed alongside MiNNA, Tonno Disko and Dan Shake. Next up: Balagan Roma, Rome on Sat 17 Oct.
 
@@ -36,4 +36,4 @@ Kirollus is a house and disco artist based in United Kingdom, with 154 gigs on s
 
 MiNNA, Tonno Disko, Dan Shake
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirollus/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirollus/)*

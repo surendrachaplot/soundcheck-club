@@ -1,6 +1,6 @@
 # Marcio S
 
-Marcio S is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Collect - Cais do Sodre, Lisbon on Fri, 16 Oct 2026.
+Marcio S is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Collect - Cais do Sodre, Lisbon on Fri, 16 Oct 2026.
 
 Marcio S is a house and tech house artist, with 27 gigs on soundcheck across Amsterdam, Barcelona, Hamburg and Lisbon and 2 more. Often billed alongside Anderson Noise, Rodrigo Ferrari and Adnan Sharif. Next up: Collect - Cais do Sodre, Lisbon on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Marcio S is a house and tech house artist, with 27 gigs on soundcheck across Ams
 
 Anderson Noise, Rodrigo Ferrari, Adnan Sharif
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcios/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcios/)*

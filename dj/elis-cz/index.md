@@ -1,6 +1,6 @@
 # Elis
 
-Elis is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at OXI, Berlin on Fri, 6 Nov 2026.
+Elis is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at OXI, Berlin on Fri, 6 Nov 2026.
 
 Elis is a techno artist based in Germany, with 17 gigs on soundcheck across Berlin, Milan and Prague. Often billed alongside Gabrielle (DE), TAKT130 and UniKhatu. Next up: OXI, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Elis is a techno artist based in Germany, with 17 gigs on soundcheck across Berl
 
 Gabrielle (DE), TAKT130, UniKhatu
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elis-cz/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elis-cz/)*

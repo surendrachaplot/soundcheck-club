@@ -1,8 +1,8 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 11 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "COMBO CLUB [Carlita Bandita • K2S • Neurone (Syn & Tatlo)]" on Thu, 15 Oct 2026.
+Karmen Camina is a music venue in Strasbourg with 13 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "COMBO CLUB [Carlita Bandita • K2S • Neurone (Syn & Tatlo)]" on Thu, 15 Oct 2026.
 
-Karmen Camina is a music venue in Strasbourg listed on soundcheck. 11 upcoming gigs, with line-ups including ALOT, Amadeo Savio, Arbo and Bitter Babe and 2 more. See dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
+Karmen Camina is a music venue in Strasbourg listed on soundcheck. 13 upcoming gigs, with line-ups including ALOT, Amadeo Savio, Arbo and Bitter Babe and 2 more. See dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 11 upcoming g
 | Thu, 29 Oct 2026 | COMBO CLUB [Breki • Cilex • KOZYSTORM • Mokass • Sonova • Viaak • YXAM • Zygo Matić] |  |
 | Fri, 30 Oct 2026 | SINIAL x PARODIA [Lola Haro • Nathan Melja • Amadeo & Varhat] | Amadeo Savio, Lola Haro, Nathan Melja, Varhat |
 | Sat, 31 Oct 2026 | KC [WICKED GIRLS (Louisahhh & kimifromtheinternet) • Bitter Babe • Evissimax • &+] | Bitter Babe, Bjr Alex, Evissimax, Kelly Placard, Louisahhh |
-| Sat, 14 Nov 2026 | KC x FLASHBALL [Nicolas Lutz • Sedef Adasï, MEL, +TBA] | Nicolas Lutz, Sedef Adasï |
-| Sat, 28 Nov 2026 | HEISSS x 31Hertz [Disguised • Juri Heidemann • Kim She • Aligatou • Arbo • Neurone • Ochenne] | Arbo, Disguised, Juri Heidemann, Kim She |
-| Fri, 4 Dec 2026 | SOUND OF KARMEN [Danilo Plessow aka MCDE (4Hs set) • +TBA] | Danilo Plessow, Motor City Drum Ensemble |
+| Fri, 6 Nov 2026 | Musik im Augenblick [Alice Gift (live) • DJ Marcelle • Oskar Haag (live) • Rachid Bowie] | DJ Marcelle |
+| Sat, 7 Nov 2026 | KC [Ollie Lishman • RUIZ OSC1 • Triste Trans • VOIDE] | Ollie Lishman, RUIZ OSC1 |
+| Sat, 14 Nov 2026 | KC x FLASHBALL [Nicolas Lutz • Sedef Adasï • Mel • Sanon] | Nicolas Lutz, Sedef Adasï |
 
 ## Address
 
 4 cour des Cigarières 67000 Strasbourg, Strasbourg
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*

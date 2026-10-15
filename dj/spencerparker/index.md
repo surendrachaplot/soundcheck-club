@@ -1,6 +1,6 @@
 # Spencer Parker
 
-Spencer Parker is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Kater, Berlin on Fri, 16 Oct 2026.
+Spencer Parker is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Kater, Berlin on Fri, 16 Oct 2026.
 
 Spencer Parker is a house and techno artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Dublin and 10 more. Often billed alongside Bunsen, ENNIO and Haeder. Next up: Kater, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Spencer Parker is a house and techno artist based in United Kingdom, with 57 gig
 
 Bunsen, ENNIO, Haeder
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerparker/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerparker/)*

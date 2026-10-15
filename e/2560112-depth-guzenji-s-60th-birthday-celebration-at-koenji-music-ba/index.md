@@ -1,6 +1,6 @@
 # depth -Guzenji's 60th Birthday Celebration at Koenji Music Bar C-Studio
 
-depth -Guzenji's 60th Birthday Celebration at Koenji Music Bar C-Studio on Sat 17 Oct, Tokyo. 4 artists: Krankent, maikoo, sayapan and Shuta. Techno and Ambient. See the line-up on soundcheck.
+depth -Guzenji's 60th Birthday Celebration at Koenji Music Bar C-Studio on Sat 17 Oct, Tokyo. 5 artists: guzenji, Krankent, maikoo and sayapan and 1 more. Techno and Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ depth -Guzenji's 60th Birthday Celebration at Koenji Music Bar C-Studio on Sat 1
 
 ## Line-up
 
+- guzenji
 - Krankent
 - maikoo
 - sayapan

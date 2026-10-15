@@ -1,6 +1,6 @@
 # Ryoichi Kurokawa
 
-Ryoichi Kurokawa is a Experimental and Electronica artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Manggha, Krakow on Fri, 16 Oct 2026.
+Ryoichi Kurokawa is a Experimental and Electronica artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Manggha, Krakow on Fri, 16 Oct 2026.
 
 Ryoichi Kurokawa is an experimental and electronica artist based in Japan, with 10 gigs on soundcheck across Barcelona, Helsinki, Krakow and Mexico City and 4 more. Often billed alongside Ali M. Demirel, Daito Manabe and Grand River. Next up: Manggha, Krakow on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Ryoichi Kurokawa is an experimental and electronica artist based in Japan, with 
 
 Ali M. Demirel, Daito Manabe, Grand River
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryoichikurokawa/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryoichikurokawa/)*

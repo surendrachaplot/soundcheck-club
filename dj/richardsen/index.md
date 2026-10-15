@@ -1,6 +1,6 @@
 # Richard Sen
 
-Richard Sen is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Social, London on Fri, 23 Oct 2026.
+Richard Sen is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Social, London on Fri, 23 Oct 2026.
 
 Richard Sen is a house and techno artist based in United Kingdom, with 38 gigs on soundcheck across Aberdeen, Amsterdam, Belfast and Berlin and 12 more. Often billed alongside DJ Subaru, Holten and Marie Avril. Next up: The Social, London on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Richard Sen is a house and techno artist based in United Kingdom, with 38 gigs o
 
 DJ Subaru, Holten, Marie Avril
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richardsen/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richardsen/)*

@@ -1,8 +1,8 @@
 # Demifiend
 
-Demifiend is a Hardcore and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Boombox, Miami on Fri, 16 Oct 2026.
+Demifiend is a Hardcore and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Boombox, Miami on Fri, 16 Oct 2026.
 
-Demifiend is a hardcore and club artist based in United States of America, with 22 gigs on soundcheck across Atlanta, Austin, Chicago and Denver and 7 more. Often billed alongside kittenhouse, Obi-Wan Shinobi and Seanni B. Next up: The Boombox, Miami on Fri 16 Oct.
+Demifiend is a hardcore and club artist based in United States of America, with 23 gigs on soundcheck across Atlanta, Austin, Chicago and Denver and 8 more. Often billed alongside kittenhouse, Obi-Wan Shinobi and Seanni B. Next up: The Boombox, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Demifiend is a hardcore and club artist based in United States of America, with 
 | Fri, 16 Oct 2026 | The Boombox | Miami |
 | Sat, 17 Oct 2026 | Toon Town | Jacksonville |
 | Fri, 30 Oct 2026 | Underground Atlanta | Atlanta |
+| Sat, 14 Nov 2026 | Biltmore Cabaret | Vancouver |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Demifiend is a hardcore and club artist based in United States of America, with 
 
 kittenhouse, Obi-Wan Shinobi, Seanni B
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demifiend/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demifiend/)*

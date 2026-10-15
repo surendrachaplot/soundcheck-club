@@ -1,6 +1,6 @@
 # Tikitula
 
-Tikitula is a Trance and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Zentralwäscherei, Zurich on Sat, 31 Oct 2026.
+Tikitula is a Trance and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Zentralwäscherei, Zurich on Sat, 31 Oct 2026.
 
 Tikitula is a trance and electro artist based in Switzerland, with 10 gigs on soundcheck across Basel, Berlin and Zurich. Often billed alongside Tayphoon, CAERMI and Gabber Eleganza. Next up: Zentralwäscherei, Zurich on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Tikitula is a trance and electro artist based in Switzerland, with 10 gigs on so
 
 Tayphoon, CAERMI, Gabber Eleganza
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tikitula/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tikitula/)*

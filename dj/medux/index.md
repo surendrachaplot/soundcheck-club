@@ -1,6 +1,6 @@
 # Medux
 
-Medux is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Boston on Thu, 15 Oct 2026.
+Medux is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Boston on Thu, 15 Oct 2026.
 
 Medux is a house and techno artist, with 18 gigs on soundcheck across Boston. Often billed alongside Charles Mazzola, Jordan Graham and Sacha Madadian. Next up: TBA, Boston on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Medux is a house and techno artist, with 18 gigs on soundcheck across Boston. Of
 
 Charles Mazzola, Jordan Graham, Sacha Madadian
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medux/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medux/)*

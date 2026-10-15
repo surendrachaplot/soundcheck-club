@@ -1,6 +1,6 @@
 # J.Rocc
 
-J.Rocc is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Lodge Room, Los Angeles on Fri, 16 Oct 2026.
+J.Rocc is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Lodge Room, Los Angeles on Fri, 16 Oct 2026.
 
 J.Rocc is a hip-hop and house artist based in United States of America, with 16 gigs on soundcheck across Hamburg, London, Los Angeles and Miami and 7 more. Often billed alongside Muro, Gara and Peanut Butter Wolf. Next up: Lodge Room, Los Angeles on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ J.Rocc is a hip-hop and house artist based in United States of America, with 16 
 
 Muro, Gara, Peanut Butter Wolf
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j-rocc-us/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j-rocc-us/)*

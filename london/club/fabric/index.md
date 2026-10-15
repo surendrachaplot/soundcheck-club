@@ -1,8 +1,8 @@
 # fabric
 
-fabric is a music venue in London with 27 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Change the Beat: fabric London — Conference, Mixer & Club Night" on Thu, 15 Oct 2026.
+fabric is a music venue in London with 28 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Change the Beat: fabric London — Conference, Mixer & Club Night" on Thu, 15 Oct 2026.
 
-fabric is a music venue in London listed on soundcheck. 27 upcoming gigs, with line-ups including 2 Bad Mice, Adana Twins, Alexis Raphael and Alfie Aukett and 2 more. See dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
+fabric is a music venue in London listed on soundcheck. 28 upcoming gigs, with line-ups including 2 Bad Mice, Adana Twins, Alexis Raphael and Alfie Aukett and 2 more. See dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ fabric is a music venue in London listed on soundcheck. 27 upcoming gigs, with l
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

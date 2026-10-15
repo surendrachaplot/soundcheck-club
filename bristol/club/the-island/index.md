@@ -1,6 +1,6 @@
 # The Island
 
-The Island is a music venue in Bristol with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Baile do Futuro X BAILE TRAMA w/ Kontronatura, DJ Lorrany, Gus b2b SZAL and JCVS" on Fri, 23 Oct 2026.
+The Island is a music venue in Bristol with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Baile do Futuro X BAILE TRAMA w/ Kontronatura, DJ Lorrany, Gus b2b SZAL and JCVS" on Fri, 23 Oct 2026.
 
 The Island is a music venue in Bristol listed on soundcheck. 4 upcoming gigs, with line-ups including Dual Monitor, Fez the Kid, GUS and i-sha and 2 more. See dates, start times and who's playing. Bridewell St, Bristol, BS1 2QD, United Kingdom.
 
@@ -17,4 +17,4 @@ The Island is a music venue in Bristol listed on soundcheck. 4 upcoming gigs, wi
 
 Bridewell St, Bristol, BS1 2QD, United Kingdom, Bristol
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-island/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-island/)*

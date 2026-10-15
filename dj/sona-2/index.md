@@ -1,6 +1,6 @@
 # SONA (2)
 
-SONA (2) is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at 77, London on Fri, 6 Nov 2026.
+SONA (2) is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at 77, London on Fri, 6 Nov 2026.
 
 SONA is an afro house and house artist based in South Africa, with 55 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 25 more. Often billed alongside Black Coffee, Damian Lazarus and DJ Tennis. Next up: 77, London on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ SONA is an afro house and house artist based in South Africa, with 55 gigs on so
 
 Black Coffee, Damian Lazarus, DJ Tennis
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sona-2/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sona-2/)*

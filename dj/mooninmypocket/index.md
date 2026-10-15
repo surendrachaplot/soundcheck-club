@@ -1,6 +1,6 @@
 # Moon In My Pocket
 
-Moon In My Pocket is a House and EBM artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Kultur Lounge, Saxony-anhalt on Sat, 19 Dec 2026.
+Moon In My Pocket is a House and EBM artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Kultur Lounge, Saxony-anhalt on Sat, 19 Dec 2026.
 
 Moon In My Pocket is a house and ebm artist based in Germany, with 6 gigs on soundcheck across Berlin, Leipzig and Saxony Anhalt. Often billed alongside Bertha, Thyrie and Amarcord. Next up: Kultur Lounge, Saxony Anhalt on Sat 19 Dec.
 
@@ -22,4 +22,4 @@ Moon In My Pocket is a house and ebm artist based in Germany, with 6 gigs on sou
 
 Bertha, Thyrie, Amarcord
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mooninmypocket/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mooninmypocket/)*

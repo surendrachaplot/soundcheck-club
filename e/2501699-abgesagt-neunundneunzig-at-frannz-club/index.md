@@ -1,0 +1,11 @@
+# ABGESAGT: NEUNUNDNEUNZIG at Frannz Club
+
+ABGESAGT: NEUNUNDNEUNZIG at Frannz Club on Fri 30 Oct, Berlin. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 30 Oct 2026 |
+| Venue | Frannz Club |
+| City | Berlin |
+
+*Source: [soundcheck](https://soundcheck.club/e/2501699-abgesagt-neunundneunzig-at-frannz-club/)*

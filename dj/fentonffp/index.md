@@ -1,14 +1,15 @@
 # Fentonffp
 
-Fentonffp is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Stage and Radio, Manchester on Sat, 17 Oct 2026.
+Fentonffp is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Stage and Radio, Manchester on Sat, 17 Oct 2026.
 
-Fentonffp is a house and tech house artist based in United Kingdom, with 16 gigs on soundcheck across Leeds and Manchester. Often billed alongside 3PM RECORDS, Partridge and AJ Jonesy. Next up: Stage and Radio, Manchester on Sat 17 Oct.
+Fentonffp is a house and tech house artist based in United Kingdom, with 17 gigs on soundcheck across Leeds and Manchester. Often billed alongside 3PM RECORDS, Partridge and AJ Jonesy. Next up: Stage and Radio, Manchester on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Stage and Radio | Manchester |
+| Sat, 7 Nov 2026 | Distrikt | Leeds |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Fentonffp is a house and tech house artist based in United Kingdom, with 16 gigs
 
 3PM RECORDS, Partridge, AJ Jonesy
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fentonffp/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fentonffp/)*

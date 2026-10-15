@@ -1,6 +1,6 @@
 # Toriz
 
-Toriz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Casa Luma, Mexico City on Sat, 17 Oct 2026.
+Toriz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Casa Luma, Mexico City on Sat, 17 Oct 2026.
 
 Toriz is a house and tech house artist based in Mexico, with 9 gigs on soundcheck across Mexico City. Often billed alongside Brown Sugar, D.N.A. and Law is she. Next up: Casa Luma, Mexico City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Toriz is a house and tech house artist based in Mexico, with 9 gigs on soundchec
 
 Brown Sugar, D.N.A., Law is she
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toriz/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toriz/)*

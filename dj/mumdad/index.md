@@ -1,6 +1,6 @@
 # Mum & Dad
 
-Mum & Dad is a Disco and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Sol y Luna Lounge & Club, Düsseldorf on Wed, 11 Nov 2026.
+Mum & Dad is a Disco and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Sol y Luna Lounge & Club, Düsseldorf on Wed, 11 Nov 2026.
 
 Mum & Dad are a disco and trance duo based in United Kingdom, with 11 gigs on soundcheck across Auckland, Düsseldorf and London. Often billed alongside Boat Floaters, DJ Bax and Jana Vitiligo. Next up: Sol y Luna Lounge & Club, Düsseldorf on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Mum & Dad are a disco and trance duo based in United Kingdom, with 11 gigs on so
 
 Boat Floaters, DJ Bax, Jana Vitiligo
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mumdad/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mumdad/)*

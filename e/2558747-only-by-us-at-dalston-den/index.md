@@ -1,10 +1,10 @@
 # ONLY BY US at Dalston Den
 
-ONLY BY US at Dalston Den on Sat 17 Oct, London. See the line-up on soundcheck.
+ONLY BY US at Dalston Den on Thu 12 Nov, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 17 Oct 2026 |
+| Date | Thu, 12 Nov 2026 |
 | Venue | Dalston Den |
 | City | London |
 

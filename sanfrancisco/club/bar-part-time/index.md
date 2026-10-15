@@ -1,6 +1,6 @@
 # Bar Part Time
 
-Bar Part Time is a music venue in San Francisco/Oakland with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Matthew Paul" on Thu, 15 Oct 2026.
+Bar Part Time is a music venue in San Francisco/Oakland with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Matthew Paul" on Thu, 15 Oct 2026.
 
 Bar Part Time is a music venue in San Francisco/Oakland listed on soundcheck. 7 upcoming gigs, with line-ups including Buck Wilson, Deejay Energy, Discnogirl and Eug and 2 more. See dates, start times and who's playing. 496 14th Street.
 
@@ -20,4 +20,4 @@ Bar Part Time is a music venue in San Francisco/Oakland listed on soundcheck. 7 
 
 496 14th Street, San Francisco/Oakland
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/bar-part-time/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/bar-part-time/)*

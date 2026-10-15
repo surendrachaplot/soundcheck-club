@@ -1,6 +1,6 @@
 # Night District at Crack Bellmer
 
-Night District at Crack Bellmer on Thu 29 Oct, Berlin. 4 artists: Dub Isotope, Eklekt1k, FISK and Lyndon Lewis. Breakbeat and Bass. See the line-up on soundcheck.
+Night District at Crack Bellmer on Thu 29 Oct, Berlin. 5 artists: Dub Isotope, Eklekt1k, FISK and Lyndon Lewis and 1 more. Breakbeat and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ Night District at Crack Bellmer on Thu 29 Oct, Berlin. 4 artists: Dub Isotope, E
 - Eklekt1k
 - FISK
 - Lyndon Lewis
+- Migz
 
 *Source: [soundcheck](https://soundcheck.club/e/2558397-night-district-at-crack-bellmer/)*

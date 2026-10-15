@@ -1,6 +1,6 @@
 # Matteo Manzini
 
-Matteo Manzini is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at fabric, London on Sat, 17 Oct 2026.
+Matteo Manzini is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at fabric, London on Sat, 17 Oct 2026.
 
 Matteo Manzini is a techno and electro artist based in United Kingdom, with 34 gigs on soundcheck across Berlin, Bucharest, London and New York City and 1 more. Often billed alongside Bobby., Craig Richards and Harry McCanna. Next up: fabric, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Matteo Manzini is a techno and electro artist based in United Kingdom, with 34 g
 
 Bobby., Craig Richards, Harry McCanna
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matteomanzini/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matteomanzini/)*

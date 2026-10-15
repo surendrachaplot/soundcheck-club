@@ -1,6 +1,6 @@
 # Patrick Topping
 
-Patrick Topping is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 17 Oct 2026.
+Patrick Topping is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 17 Oct 2026.
 
 Patrick Topping is a tech house and house artist based in United Kingdom, with 172 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 43 more. Often billed alongside Eric Prydz, Adam Beyer and Dom Dolla. Next up: Seaseaclub Barcelona, Barcelona on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Patrick Topping is a tech house and house artist based in United Kingdom, with 1
 
 Eric Prydz, Adam Beyer, Dom Dolla
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patricktopping/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patricktopping/)*

@@ -1,6 +1,6 @@
 # Vortex (BR)
 
-Vortex (BR) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Union Club, Vauxhall, London on Sun, 18 Oct 2026.
+Vortex (BR) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Union Club, Vauxhall, London on Sun, 18 Oct 2026.
 
 Vortex (BR) is a techno and tech house artist based in Brazil, with 21 gigs on soundcheck across London. Often billed alongside Thomas Galbardi, Dhez and Monnay. Next up: Union Club, Vauxhall, London on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Vortex (BR) is a techno and tech house artist based in Brazil, with 21 gigs on s
 
 Thomas Galbardi, Dhez, Monnay
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vortexbr/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vortexbr/)*

@@ -1,21 +1,20 @@
 # Lil Kevo 303
 
-Lil Kevo 303 is a Breakcore and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Blue Note Club, Midlands on Tue, 13 Oct 2026.
+Lil Kevo 303 is a Breakcore and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Suki10c, Birmingham on Fri, 23 Oct 2026.
 
-Lil Kevo 303 is a breakcore and hardcore artist based in United States of America, with 43 gigs on soundcheck across Barcelona, Berlin, Birmingham and Boston and 17 more. Often billed alongside Hitori Tori, goreshit and 99jakes. Next up: The Blue Note Club, Midlands on Tue 13 Oct.
+Lil Kevo 303 is a breakcore and hardcore artist based in United States of America, with 43 gigs on soundcheck across Barcelona, Berlin, Birmingham and Boston and 17 more. Often billed alongside Hitori Tori, goreshit and 99jakes. Next up: Suki10c, Birmingham on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 13 Oct 2026 | The Blue Note Club | Midlands |
-| Wed, 14 Oct 2026 | Vespers Club | London |
 | Fri, 23 Oct 2026 | Suki10c | Birmingham |
 | Sat, 24 Oct 2026 | Altenburg 1964 | Prague |
 | Sat, 7 Nov 2026 | TBA | San Francisco/Oakland |
 
 ## Recently played
 
+- Vespers Club, London · Wed, 14 Oct 2026
 - The Blue Note Club, Midlands · Tue, 13 Oct 2026
 - The DBA, Manchester · Mon, 12 Oct 2026
 - Şahika, Istanbul · Thu, 8 Oct 2026
@@ -23,10 +22,9 @@ Lil Kevo 303 is a breakcore and hardcore artist based in United States of Americ
 - The Burlington, Chicago · Sat, 22 Aug 2026
 - TBA - Warehouse Venue, Seattle · Fri, 20 Mar 2026
 - Water & Power, Los Angeles · Sat, 14 Mar 2026
-- Copper Boot, Toronto · Sat, 14 Feb 2026
 
 ## Shares bills with
 
 Hitori Tori, goreshit, 99jakes
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilkevo303/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilkevo303/)*

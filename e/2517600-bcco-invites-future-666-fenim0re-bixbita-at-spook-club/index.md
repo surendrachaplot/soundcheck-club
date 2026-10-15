@@ -1,6 +1,6 @@
-# BCCO invites: future.666 + FENIM0RE + BIXBITA at Spook Club
+# BCCO invites: Future.666 + FENIM0RE + BIXBITA at Spook Club
 
-BCCO invites: future.666 + FENIM0RE + BIXBITA at Spook Club on Sat 24 Oct, Valencia. 3 artists: BIXBITA, FENIM0RE and future.666. Techno. See the line-up on soundcheck.
+BCCO invites: Future.666 + FENIM0RE + BIXBITA at Spook Club on Sat 24 Oct, Valencia. 3 artists: BIXBITA, FENIM0RE and future.666. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

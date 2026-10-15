@@ -1,8 +1,8 @@
 # Jungle (UK)
 
-Jungle (UK) is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Accor Arena, Paris on Fri, 30 Oct 2026.
+Jungle (UK) is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Accor Arena, Paris on Fri, 30 Oct 2026.
 
-Jungle (UK) is a drum & bass and jungle artist based in United Kingdom, with 81 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 36 more. Often billed alongside Bass, Bassline and Carlita. Next up: Accor Arena, Paris on Fri 30 Oct.
+Jungle (UK) is a drum & bass and jungle artist based in United Kingdom, with 82 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 36 more. Often billed alongside Bass, Bassline and Carlita. Next up: Accor Arena, Paris on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jungle (UK) is a drum & bass and jungle artist based in United Kingdom, with 81 
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Accor Arena | Paris |
 | Sat, 31 Oct 2026 | Brussels Gate | Brussels |
+| Sun, 29 Nov 2026 | Factory Theatre | Sydney |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Jungle (UK) is a drum & bass and jungle artist based in United Kingdom, with 81 
 
 Bass, Bassline, Carlita
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jungle-uk/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jungle-uk/)*

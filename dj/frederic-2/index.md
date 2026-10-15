@@ -1,6 +1,6 @@
 # frederic (2)
 
-frederic (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Borisov Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+frederic (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Borisov Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 frederic is a house and techno artist based in Belgium, with 8 gigs on soundcheck across Amsterdam, Ghent, Mexico City and South. Often billed alongside Hame, Hafa and Méni. Next up: Borisov Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ frederic is a house and techno artist based in Belgium, with 8 gigs on soundchec
 
 Hame (1), Hafa, Méni
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frederic-2/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frederic-2/)*

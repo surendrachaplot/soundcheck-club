@@ -1,6 +1,6 @@
 # Pablo Romero
 
-Pablo Romero is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Le Bain, New York City on Fri, 16 Oct 2026.
+Pablo Romero is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Le Bain, New York City on Fri, 16 Oct 2026.
 
 Pablo Romero is a house and techno artist based in United States of America, with 136 gigs on soundcheck across Amsterdam, Boston, Colombia and Frankfurt and 8 more. Often billed alongside Daniel Dutts, Jean-Paul and mink. Next up: Le Bain, New York City on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Pablo Romero is a house and techno artist based in United States of America, wit
 
 Daniel Dutts, Jean-Paul, mink
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloromero/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloromero/)*

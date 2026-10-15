@@ -1,6 +1,6 @@
 # Conures (DJ Tokunaga)
 
-Conures (DJ Tokunaga) is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Z Maruyama, Tokyo on Sat, 21 Nov 2026.
+Conures (DJ Tokunaga) is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Z Maruyama, Tokyo on Sat, 21 Nov 2026.
 
 Conures (DJ Tokunaga) is a progressive house and techno artist based in Japan, with 30 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Kamekawa, Tuyetmizuno and DJ NECO. Next up: Z Maruyama, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Conures (DJ Tokunaga) is a progressive house and techno artist based in Japan, w
 
 Kamekawa, Tuyetmizuno, DJ NECO
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conuresdjtokunaga/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conuresdjtokunaga/)*

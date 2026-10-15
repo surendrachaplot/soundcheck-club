@@ -1,6 +1,6 @@
 # Xoce
 
-Xoce is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Boston on Thu, 15 Oct 2026.
+Xoce is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Boston on Thu, 15 Oct 2026.
 
 Xoce is a techno and house artist based in United States of America, with 77 gigs on soundcheck across Boston, Miami, New York City and Washington DC. Often billed alongside MRRV, Niqi and Ketzaal. Next up: TBA, Boston on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Xoce is a techno and house artist based in United States of America, with 77 gig
 
 MRRV, Niqi, Ketzaal
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xoce/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xoce/)*

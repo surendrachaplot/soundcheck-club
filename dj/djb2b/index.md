@@ -1,15 +1,14 @@
 # DJ B2B
 
-DJ B2B is a Hip-Hop and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at IT Athens, Athens on Sat, 14 Nov 2026.
+DJ B2B is a Hip-Hop and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at IT Athens, Athens on Sat, 14 Nov 2026.
 
-DJ B2B is a hip-hop and house artist based in Mexico, with 217 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 24 more. Often billed alongside Mori, ATAMI and Fig (DYN). Next up: IT Athens, Athens on Sat 14 Nov.
+DJ B2B is a hip-hop and house artist based in Mexico, with 216 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 24 more. Often billed alongside Mori, ATAMI and Fig (DYN). Next up: IT Athens, Athens on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | IT Athens | Athens |
-| Sun, 29 Nov 2026 | Aoyama Hachi | Tokyo |
 | Mon, 30 Nov 2026 | clubasia | Tokyo |
 
 ## Recently played
@@ -27,4 +26,4 @@ DJ B2B is a hip-hop and house artist based in Mexico, with 217 gigs on soundchec
 
 Mori, ATAMI, Fig (DYN)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djb2b/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djb2b/)*

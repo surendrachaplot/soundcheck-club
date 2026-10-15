@@ -1,6 +1,6 @@
 # JP eXbert
 
-JP eXbert is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Weberknecht, Vienna on Fri, 30 Oct 2026.
+JP eXbert is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Weberknecht, Vienna on Fri, 30 Oct 2026.
 
 JP eXbert is a techno artist, with 8 gigs on soundcheck across Vienna. Often billed alongside Richard Steinschlag, Purrdition and Alena Noctis. Next up: Weberknecht, Vienna on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ JP eXbert is a techno artist, with 8 gigs on soundcheck across Vienna. Often bil
 
 Richard Steinschlag, Purrdition, Alena Noctis
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jpexbert/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jpexbert/)*

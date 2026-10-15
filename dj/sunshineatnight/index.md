@@ -1,6 +1,6 @@
 # Sunshine [at Night]
 
-Sunshine [at Night] is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at First Street Market, Boston on Sat, 31 Oct 2026.
+Sunshine [at Night] is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at First Street Market, Boston on Sat, 31 Oct 2026.
 
 Sunshine [at Night] is a techno and electronica artist, with 11 gigs on soundcheck across Boston, New York City and Sydney. Often billed alongside KANZE, A$HLEY and ANDROMEDA. Next up: First Street Market, Boston on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sunshine [at Night] is a techno and electronica artist, with 11 gigs on soundche
 
 KANZE, A$HLEY, ANDROMEDA
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunshineatnight/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunshineatnight/)*

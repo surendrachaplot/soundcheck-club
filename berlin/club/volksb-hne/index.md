@@ -1,6 +1,6 @@
 # Volksbühne
 
-Volksbühne is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "Space Afrika present: Quiet Storm" on Thu, 22 Oct 2026.
+Volksbühne is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "Space Afrika present: Quiet Storm" on Thu, 22 Oct 2026.
 
 Volksbühne is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Bapari and Space Afrika. See dates, start times and who's playing. Rosa-Luxemburg-Platz, 10178 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Volksbühne is a music venue in Berlin listed on soundcheck. 1 upcoming gig, wit
 
 Rosa-Luxemburg-Platz, 10178 Berlin, Germany, Berlin
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/volksb-hne/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/volksb-hne/)*

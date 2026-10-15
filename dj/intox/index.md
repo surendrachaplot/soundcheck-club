@@ -1,6 +1,6 @@
 # INTOX
 
-INTOX is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at M-BIA, Berlin on Fri, 20 Nov 2026.
+INTOX is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at M-BIA, Berlin on Fri, 20 Nov 2026.
 
 INTOX is a techno and hardcore artist based in Germany, with 18 gigs on soundcheck across Berlin. Often billed alongside Refl3ction, DJ BenGalo and EAX030. Next up: M-BIA, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ INTOX is a techno and hardcore artist based in Germany, with 18 gigs on soundche
 
 Refl3ction, DJ BenGalo, EAX030
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/intox/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/intox/)*

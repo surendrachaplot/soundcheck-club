@@ -1,6 +1,6 @@
 # Benwal
 
-Benwal is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at De Flesjesfabriek, Ghent on Fri, 16 Oct 2026.
+Benwal is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at De Flesjesfabriek, Ghent on Fri, 16 Oct 2026.
 
 Benwal is a techno and house artist based in Netherlands, with 187 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 47 more. Often billed alongside Kyle Starkey, MALUGI and Pegassi. Next up: De Flesjesfabriek, Ghent on Fri 16 Oct.
 
@@ -36,4 +36,4 @@ Benwal is a techno and house artist based in Netherlands, with 187 gigs on sound
 
 Kyle Starkey, MALUGI, Pegassi
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*

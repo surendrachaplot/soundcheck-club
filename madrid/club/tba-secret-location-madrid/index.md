@@ -1,6 +1,6 @@
 # TBA - Secret Location (Madrid)
 
-TBA - Secret Location (Madrid) is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Espora season begins in fall" on Sat, 17 Oct 2026.
+TBA - Secret Location (Madrid) is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Espora season begins in fall" on Sat, 17 Oct 2026.
 
 TBA - Secret Location (Madrid) is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with line-ups including Butter.Jim, Cristal Roto, Killo and ONA (SP) and 1 more. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ TBA - Secret Location (Madrid) is a music venue in Madrid listed on soundcheck. 
 | Sun, 6 Dec 2026 | MyPleasure // ANNIVERSARY WEEK // Climax |  |
 | Mon, 7 Dec 2026 | MyPleasure // ANNIVERSARY WEEK // Ending |  |
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-secret-location-madrid/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-secret-location-madrid/)*

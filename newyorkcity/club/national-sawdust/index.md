@@ -1,6 +1,6 @@
 # National Sawdust
 
-National Sawdust is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Disco Bambino presents: An Italian Disco Revolution" on Fri, 23 Oct 2026.
+National Sawdust is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Disco Bambino presents: An Italian Disco Revolution" on Fri, 23 Oct 2026.
 
 National Sawdust is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including EL GARO. See dates, start times and who's playing. 80 N 6th St, Brooklyn, NY 11249.
 
@@ -15,4 +15,4 @@ National Sawdust is a music venue in New York City listed on soundcheck. 2 upcom
 
 80 N 6th St, Brooklyn, NY 11249, New York City
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/national-sawdust/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/national-sawdust/)*

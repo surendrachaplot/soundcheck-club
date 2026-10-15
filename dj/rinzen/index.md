@@ -1,6 +1,6 @@
 # Rinzen
 
-Rinzen is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at EQ San Diego, San Diego on Fri, 20 Nov 2026.
+Rinzen is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at EQ San Diego, San Diego on Fri, 20 Nov 2026.
 
 Rinzen is a techno and house artist based in United States of America, with 46 gigs on soundcheck across Amsterdam, Austin, Chicago and Denver and 10 more. Often billed alongside Robby East, Le Youth and Massane. Next up: EQ San Diego, San Diego on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Rinzen is a techno and house artist based in United States of America, with 46 g
 
 Robby East, Le Youth, Massane
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rinzen/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rinzen/)*

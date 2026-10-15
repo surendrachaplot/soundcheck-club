@@ -1,6 +1,6 @@
 # Studerkel
 
-Studerkel is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Point Ephémère, Paris on Sat, 31 Oct 2026.
+Studerkel is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Point Ephémère, Paris on Sat, 31 Oct 2026.
 
 Studerkel is an electro and ebm artist, with 13 gigs on soundcheck across Brussels and Paris. Often billed alongside cfds, Kalyug Citizen and Mascarpone. Next up: Point Ephémère, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Studerkel is an electro and ebm artist, with 13 gigs on soundcheck across Brusse
 
 cfds, Kalyug Citizen, Mascarpone
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/studerkel/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/studerkel/)*

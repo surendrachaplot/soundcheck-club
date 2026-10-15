@@ -1,6 +1,6 @@
 # Smolna 10th B-day DAY 1: Matrixxman, Lars Huismann, Deas, Edvvin, Azzecca at Smolna
 
-Smolna 10th B-day DAY 1: Matrixxman, Lars Huismann, Deas, Edvvin, Azzecca on Fri 23 Oct, Warsaw. 6 artists: Azzecca, Deas, Edvvin and Lars Huismann and 2 more. Techno and House. See the line-up on soundcheck.
+Smolna 10th B-day DAY 1: Matrixxman, Lars Huismann, Deas, Edvvin, Azzecca on Fri 23 Oct, Warsaw. 7 artists: Azzecca, Casper Weiss, Deas and Edvvin and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Smolna 10th B-day DAY 1: Matrixxman, Lars Huismann, Deas, Edvvin, Azzecca on Fri
 ## Line-up
 
 - Azzecca
+- Casper Weiss
 - Deas
 - Edvvin
 - Lars Huismann

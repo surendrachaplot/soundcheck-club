@@ -1,13 +1,14 @@
 # Disrupta
 
-Disrupta is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at XOYO, London on Sat, 24 Oct 2026.
+Disrupta is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Concorde 2, Brighton on Sat, 17 Oct 2026.
 
-Disrupta is a drum & bass and jungle artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 25 more. Often billed alongside Kanine, Camo & Krooked and Crossy. Next up: XOYO, London on Sat 24 Oct.
+Disrupta is a drum & bass and jungle artist based in United Kingdom, with 78 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 25 more. Often billed alongside Kanine, Camo & Krooked and Crossy. Next up: Concorde 2, Brighton on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Concorde 2 | Brighton |
 | Sat, 24 Oct 2026 | XOYO | London |
 | Sat, 31 Oct 2026 | O2 Academy Bournemouth | South-east |
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
@@ -27,4 +28,4 @@ Disrupta is a drum & bass and jungle artist based in United Kingdom, with 77 gig
 
 Kanine, Camo & Krooked, Crossy
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/disrupta/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/disrupta/)*

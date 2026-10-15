@@ -1,6 +1,6 @@
 # Kasia DVD
 
-Kasia DVD is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Smolna, Warsaw on Fri, 30 Oct 2026.
+Kasia DVD is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Smolna, Warsaw on Fri, 30 Oct 2026.
 
 Kasia DVD is a house and techno artist based in Poland, with 33 gigs on soundcheck across Warsaw. Often billed alongside HANICZ, KEVS and Mabu. Next up: Smolna, Warsaw on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Kasia DVD is a house and techno artist based in Poland, with 33 gigs on soundche
 
 HANICZ, KEVS, Mabu
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasiadvd/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasiadvd/)*

@@ -1,6 +1,6 @@
 # L-CC
 
-L-CC is a House and EBM artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Pawnshop, Taipei on Sat, 17 Oct 2026.
+L-CC is a House and EBM artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Pawnshop, Taipei on Sat, 17 Oct 2026.
 
 L-CC is a house and ebm artist based in Taiwan, with 10 gigs on soundcheck across Bali, Hanoi, Ho Chi Minh City and Hong Kong and 2 more. Often billed alongside Umbra, F.G.D. and Tsuuu. Next up: Pawnshop, Taipei on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ L-CC is a house and ebm artist based in Taiwan, with 10 gigs on soundcheck acros
 
 Umbra (2), F.G.D., Tsuuu
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l-cc/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l-cc/)*

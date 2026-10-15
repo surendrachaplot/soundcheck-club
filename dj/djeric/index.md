@@ -1,6 +1,6 @@
 # Eric (UA)
 
-Eric (UA) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Hive Club, Zurich on Sat, 17 Oct 2026.
+Eric (UA) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Hive Club, Zurich on Sat, 17 Oct 2026.
 
 Eric (UA) is a techno and house artist based in Ukraine, with 9 gigs on soundcheck across Berlin, Warsaw and Zurich. Often billed alongside Elnur, ACID FLORA and Animal Trainer. Next up: Hive Club, Zurich on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Eric (UA) is a techno and house artist based in Ukraine, with 9 gigs on soundche
 
 Elnur, ACID FLORA, Animal Trainer
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djeric/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djeric/)*

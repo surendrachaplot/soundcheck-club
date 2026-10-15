@@ -1,6 +1,6 @@
 # uber_acid
 
-uber_acid is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Tendance, Prague on Fri, 16 Oct 2026.
+uber_acid is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Tendance, Prague on Fri, 16 Oct 2026.
 
 uber_acid is a house and acid artist, with 10 gigs on soundcheck across Amsterdam and Prague. Often billed alongside Paradiso Rhythm, Wuss and duboisi. Next up: Tendance, Prague on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ uber_acid is a house and acid artist, with 10 gigs on soundcheck across Amsterda
 
 Paradiso Rhythm, Wuss, duboisi
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uber_acid/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uber_acid/)*

@@ -1,6 +1,6 @@
 # Sarah Davachi
 
-Sarah Davachi is a Experimental and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Gedächtniskirche, Berlin on Thu, 22 Oct 2026.
+Sarah Davachi is a Experimental and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Gedächtniskirche, Berlin on Thu, 22 Oct 2026.
 
 Sarah Davachi is an experimental and minimal artist based in United States of America, with 22 gigs on soundcheck across Athens, Berlin, Hamburg and Krakow and 10 more. Often billed alongside Justin Carter, Clarissa Connelly and Dawuna. Next up: Gedächtniskirche, Berlin on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Sarah Davachi is an experimental and minimal artist based in United States of Am
 
 Justin Carter, Clarissa Connelly, Dawuna
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahdavachi/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahdavachi/)*

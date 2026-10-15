@@ -1,6 +1,6 @@
 # Caiya
 
-Caiya is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Ulana's, Philadelphia on Sat, 17 Oct 2026.
+Caiya is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Ulana's, Philadelphia on Sat, 17 Oct 2026.
 
 Caiya is a techno and club artist based in United States of America, with 20 gigs on soundcheck across Paris, Philadelphia and Washington DC. Often billed alongside Blueverbs, GorpoPap and Alien Body. Next up: Ulana's, Philadelphia on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Caiya is a techno and club artist based in United States of America, with 20 gig
 
 Blueverbs, GorpoPap, Alien Body
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caiya/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caiya/)*

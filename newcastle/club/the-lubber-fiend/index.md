@@ -1,6 +1,6 @@
 # The Lubber Fiend
 
-The Lubber Fiend is a music venue in Newcastle with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Wynding Floor: Katiusha w' Two French Tek Lads & Sheep Paralysis (live)" on Sat, 24 Oct 2026.
+The Lubber Fiend is a music venue in Newcastle with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Wynding Floor: Katiusha w' Two French Tek Lads & Sheep Paralysis (live)" on Sat, 24 Oct 2026.
 
 The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 9 upcoming gigs, with line-ups including Berwick (Live), Budino, Bunney and Elijah Minnelli and 2 more. See dates, start times and who's playing. 81 Blandford St., Newcastle upon Tyne NE1 3PZ.
 
@@ -22,4 +22,4 @@ The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 9 upcoming 
 
 81 Blandford St., Newcastle upon Tyne NE1 3PZ, Newcastle
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-lubber-fiend/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-lubber-fiend/)*

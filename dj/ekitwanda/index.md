@@ -1,6 +1,6 @@
 # Ekitwanda
 
-Ekitwanda is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Bar Datcha, Montreal on Thu, 15 Oct 2026.
+Ekitwanda is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Bar Datcha, Montreal on Thu, 15 Oct 2026.
 
 Ekitwanda is a techno and club artist based in Canada, with 40 gigs on soundcheck across Montreal. Often billed alongside Monsieurmadam, BLANKET and LaFHomme. Next up: Bar Datcha, Montreal on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Ekitwanda is a techno and club artist based in Canada, with 40 gigs on soundchec
 
 Monsieurmadam, BLANKET, LaFHomme
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ekitwanda/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ekitwanda/)*

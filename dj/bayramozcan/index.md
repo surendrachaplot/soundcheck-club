@@ -1,6 +1,6 @@
 # Bayram Ozcan
 
-Bayram Ozcan is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Minimüzikhol, Istanbul on Thu, 15 Oct 2026.
+Bayram Ozcan is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Minimüzikhol, Istanbul on Thu, 15 Oct 2026.
 
 Bayram Ozcan is a house and disco artist, with 27 gigs on soundcheck across Istanbul. Often billed alongside Ezgi, 34 DEGREES and Francesca Lombardo. Next up: Minimüzikhol, Istanbul on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Bayram Ozcan is a house and disco artist, with 27 gigs on soundcheck across Ista
 
 Ezgi, 34 DEGREES, Francesca Lombardo
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bayramozcan/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bayramozcan/)*

@@ -1,6 +1,6 @@
 # Jubilee
 
-Jubilee is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Jubilee is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Jubilee is a house and techno artist based in United States of America, with 158 gigs on soundcheck across Berlin, Bristol, Chicago and Copenhagen and 18 more. Often billed alongside NIGELTHREETIMES, Eli Escobar and Berrakka. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ Jubilee is a house and techno artist based in United States of America, with 158
 
 NIGELTHREETIMES, Eli Escobar, Berrakka
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jubilee/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jubilee/)*

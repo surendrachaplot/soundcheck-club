@@ -1,6 +1,6 @@
 # KRØK
 
-KRØK is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - SECRET WAREHOUSE LOCATION 18+, Philadelphia on Sat, 31 Oct 2026.
+KRØK is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - SECRET WAREHOUSE LOCATION 18+, Philadelphia on Sat, 31 Oct 2026.
 
 KRØK is a techno and trance artist, with 30 gigs on soundcheck across Miami, New York City, Philadelphia and Washington DC. Often billed alongside Madison Kay, Waaablo and BAMBI (US). Next up: TBA - SECRET WAREHOUSE LOCATION 18+, Philadelphia on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ KRØK is a techno and trance artist, with 30 gigs on soundcheck across Miami, Ne
 
 Madison Kay, Waaablo, BAMBI (US)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krok/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krok/)*

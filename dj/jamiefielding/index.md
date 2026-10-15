@@ -1,8 +1,8 @@
 # Jamie Fielding
 
-Jamie Fielding is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Jamie Fielding is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Jamie Fielding is a house and tech house artist based in United Kingdom, with 71 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 14 more. Often billed alongside Marsolo, Niteplan and Job de Jong. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+Jamie Fielding is a house and tech house artist based in United Kingdom, with 72 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 14 more. Often billed alongside Marsolo, Niteplan and Job de Jong. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Jamie Fielding is a house and tech house artist based in United Kingdom, with 71
 | Fri, 23 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | The Warehouse | Leeds |
+| Fri, 30 Oct 2026 | Electric Studios | Sheffield |
 | Sat, 31 Oct 2026 | XOYO | London |
 | Sat, 7 Nov 2026 | block. | Dublin |
 | Thu, 12 Nov 2026 | The Telegraph Building | Belfast |
@@ -35,4 +36,4 @@ Jamie Fielding is a house and tech house artist based in United Kingdom, with 71
 
 Marsolo, Niteplan, Job de Jong
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiefielding/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiefielding/)*

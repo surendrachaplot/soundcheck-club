@@ -1,6 +1,6 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 31 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Sih-Lest presents: Ned Bennett & Sam Girling" on Thu, 15 Oct 2026.
+The Berkeley Suite is a music venue in Glasgow with 31 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Sih-Lest presents: Ned Bennett b2b Sam Girling" on Thu, 15 Oct 2026.
 
 The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 31 upcoming gigs, with line-ups including Amaliah, Austin Ato, BAUGRUPPE90 and Bella Claxton and 2 more. See dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
@@ -8,7 +8,7 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 31 upcoming
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Sih-Lest presents: Ned Bennett & Sam Girling | Ned Bennett, Sam Girling |
+| Thu, 15 Oct 2026 | Sih-Lest presents: Ned Bennett b2b Sam Girling | Ned Bennett, Sam Girling |
 | Fri, 16 Oct 2026 | I Love Acid - Death In Vegas Afterparty | Dixon Avenue Basement Jams, Posthuman, Richard Fearless |
 | Sat, 17 Oct 2026 | Romare: Free Time – Glasgow | Romare |
 | Sat, 17 Oct 2026 | Shoot Your Shot | Bonzai Bonner, DSGNRPSSY |
@@ -23,4 +23,4 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 31 upcoming
 
 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom, Glasgow
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*

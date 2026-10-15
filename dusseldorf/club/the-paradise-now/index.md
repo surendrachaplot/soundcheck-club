@@ -1,6 +1,6 @@
 # The Paradise Now
 
-The Paradise Now is a music venue in Düsseldorf with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "FRIDAY CLUB - The Paradise Now" on Fri, 16 Oct 2026.
+The Paradise Now is a music venue in Düsseldorf with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "FRIDAY CLUB - The Paradise Now" on Fri, 16 Oct 2026.
 
 The Paradise Now is a music venue in Düsseldorf listed on soundcheck. 9 upcoming gigs, with line-ups including Dante T., David Christopher, Denoir and FALYN and 2 more. See dates, start times and who's playing. Hammer Str. 27, 40219 Düsseldorf, Germany.
 
@@ -22,4 +22,4 @@ The Paradise Now is a music venue in Düsseldorf listed on soundcheck. 9 upcomin
 
 Hammer Str. 27, 40219 Düsseldorf, Germany, Düsseldorf
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/the-paradise-now/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/the-paradise-now/)*

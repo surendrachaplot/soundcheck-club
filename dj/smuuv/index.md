@@ -1,14 +1,14 @@
 # SMUUV
 
-SMUUV is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Warsaw on Sat, 24 Oct 2026.
+SMUUV is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - HOS gallery , Warsaw on Sat, 24 Oct 2026.
 
-SMUUV is an experimental and techno artist based in Poland, with 8 gigs on soundcheck across Warsaw. Often billed alongside PAWEL (PL), ATARMAL and Buchan. Next up: TBA, Warsaw on Sat 24 Oct.
+SMUUV is an experimental and techno artist based in Poland, with 8 gigs on soundcheck across Warsaw. Often billed alongside PAWEL (PL), ATARMAL and Buchan. Next up: TBA - HOS gallery , Warsaw on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | TBA | Warsaw |
+| Sat, 24 Oct 2026 | TBA - HOS gallery  | Warsaw |
 
 ## Recently played
 
@@ -24,4 +24,4 @@ SMUUV is an experimental and techno artist based in Poland, with 8 gigs on sound
 
 PAWEL (PL), ATARMAL, Buchan
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smuuv/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smuuv/)*

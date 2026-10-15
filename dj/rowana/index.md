@@ -1,6 +1,6 @@
 # ROWANA
 
-ROWANA is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Document, Bristol on Sat, 17 Oct 2026.
+ROWANA is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Document, Bristol on Sat, 17 Oct 2026.
 
 ROWANA is a trance and techno artist based in United Kingdom, with 13 gigs on soundcheck across Bristol. Often billed alongside Neil And I, Emma Rose and BBY GOOSE. Next up: Document, Bristol on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ ROWANA is a trance and techno artist based in United Kingdom, with 13 gigs on so
 
 Neil And I, Emma Rose, BBY GOOSE
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rowana/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rowana/)*

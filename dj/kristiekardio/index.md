@@ -1,14 +1,15 @@
 # KRISTIE KARDIO
 
-KRISTIE KARDIO is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Radost Music Club, Bratislava on Sat, 17 Oct 2026.
+KRISTIE KARDIO is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Radost Music Club, Bratislava on Sat, 17 Oct 2026.
 
-KRISTIE KARDIO is a techno and tech house artist based in Slovakia, with 14 gigs on soundcheck across Bratislava, Brno, Copenhagen and Prague and 1 more. Often billed alongside zazitech, DDK and DIENTE. Next up: Radost Music Club, Bratislava on Sat 17 Oct.
+KRISTIE KARDIO is a techno and club artist based in Slovakia, with 15 gigs on soundcheck across Bratislava, Brno, Copenhagen and Prague and 1 more. Often billed alongside zazitech, DDK and DIENTE. Next up: Radost Music Club, Bratislava on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Radost Music Club | Bratislava |
+| Fri, 20 Nov 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ KRISTIE KARDIO is a techno and tech house artist based in Slovakia, with 14 gigs
 
 zazitech, DDK (1), DIENTE
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kristiekardio/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kristiekardio/)*

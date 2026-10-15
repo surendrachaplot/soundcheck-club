@@ -1,6 +1,6 @@
 # Milo Makua
 
-Milo Makua is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 21 Oct 2026.
+Milo Makua is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 21 Oct 2026.
 
 Milo Makua is a techno and trance artist based in Denmark, with 72 gigs on soundcheck across Berlin, Copenhagen and Oslo. Often billed alongside Johannes Astrup, Elliott Taguchi and Tino. Next up: Tresor / Globus, Berlin on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ Milo Makua is a techno and trance artist based in Denmark, with 72 gigs on sound
 
 Johannes Astrup, Elliott Taguchi, Tino (3)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milomakua/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milomakua/)*

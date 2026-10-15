@@ -1,8 +1,8 @@
 # John Talabot
 
-John Talabot is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at FOLD, London on Sat, 17 Oct 2026.
+John Talabot is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at FOLD, London on Sat, 17 Oct 2026.
 
-John Talabot is a house and techno artist based in Spain, with 184 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 53 more. Often billed alongside mad miran, Nicolas Lutz and Christian AB. Next up: FOLD, London on Sat 17 Oct.
+John Talabot is a house and techno artist based in Spain, with 185 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 53 more. Often billed alongside mad miran, Nicolas Lutz and Christian AB. Next up: FOLD, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ John Talabot is a house and techno artist based in Spain, with 184 gigs on sound
 | Sat, 31 Oct 2026 | Las Tres Chimeneas | Barcelona |
 | Sat, 7 Nov 2026 | TRAUM | Antwerp |
 | Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
+| Fri, 20 Nov 2026 | Studio Club Malaga | Malaga |
 | Sat, 21 Nov 2026 | Q35 WAREHOUSE | Turin |
 
 ## Recently played
@@ -32,4 +33,4 @@ John Talabot is a house and techno artist based in Spain, with 184 gigs on sound
 
 mad miran, Nicolas Lutz, Christian AB
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*

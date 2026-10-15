@@ -1,6 +1,6 @@
 # Rudeboy
 
-Rudeboy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Fuchs2, Prague on Sat, 7 Nov 2026.
+Rudeboy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Fuchs2, Prague on Sat, 7 Nov 2026.
 
 Rudeboy is a techno and house artist based in Poland, with 14 gigs on soundcheck across Berlin, Krakow, Miami and Prague and 1 more. Often billed alongside Berrakka, Marie Qrie and SATURNSARii. Next up: Fuchs2, Prague on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Rudeboy is a techno and house artist based in Poland, with 14 gigs on soundcheck
 
 Berrakka, Marie Qrie, SATURNSARii
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rudeboy/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rudeboy/)*

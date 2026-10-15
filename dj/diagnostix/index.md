@@ -1,6 +1,6 @@
 # Diagnostix
 
-Diagnostix is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Lost Horizon, Bristol on Sat, 17 Oct 2026.
+Diagnostix is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Lost Horizon, Bristol on Sat, 17 Oct 2026.
 
 Diagnostix is a drum & bass and jungle artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 15 more. Often billed alongside Carasel, Crossy and Benny L. Next up: Lost Horizon, Bristol on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Diagnostix is a drum & bass and jungle artist based in United Kingdom, with 52 g
 
 Carasel, Crossy, Benny L
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diagnostix/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diagnostix/)*

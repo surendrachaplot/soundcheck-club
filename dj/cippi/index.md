@@ -1,6 +1,6 @@
 # Cippi
 
-Cippi is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Amboss Rampe, Zurich on Fri, 23 Oct 2026.
+Cippi is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Amboss Rampe, Zurich on Fri, 23 Oct 2026.
 
 Cippi is a minimal and house artist based in Switzerland, with 7 gigs on soundcheck across Basel and Zurich. Often billed alongside Carmine, BRAINDAAMAGE and Bondi (DE). Next up: Amboss Rampe, Zurich on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Cippi is a minimal and house artist based in Switzerland, with 7 gigs on soundch
 
 Carmine, BRAINDAAMAGE, Bondi (DE)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cippi/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cippi/)*

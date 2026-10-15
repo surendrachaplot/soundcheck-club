@@ -1,6 +1,6 @@
 # SAKURA TSURUTA
 
-SAKURA TSURUTA is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Cube, Tokyo on Tue, 3 Nov 2026.
+SAKURA TSURUTA is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Cube, Tokyo on Tue, 3 Nov 2026.
 
 SAKURA TSURUTA is an electronica and techno artist based in Japan, with 24 gigs on soundcheck across Berlin, Glasgow, Kanto and London and 4 more. Often billed alongside Koyas, CD HATA and Satoshi Otsuki. Next up: Cube, Tokyo on Tue 3 Nov.
 
@@ -26,4 +26,4 @@ SAKURA TSURUTA is an electronica and techno artist based in Japan, with 24 gigs 
 
 Koyas, CD HATA, Satoshi Otsuki
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sakuratsuruta/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sakuratsuruta/)*

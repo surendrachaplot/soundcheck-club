@@ -1,14 +1,15 @@
 # Kondrat
 
-Kondrat is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at B-SIDE, Warsaw on Sat, 17 Oct 2026.
+Kondrat is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at B-SIDE, Warsaw on Sat, 17 Oct 2026.
 
-Kondrat is an electro and techno artist based in Poland, with 152 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Meke, Badalian and Wagary. Next up: B-SIDE, Warsaw on Sat 17 Oct.
+Kondrat is an electro and techno artist based in Poland, with 153 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Meke, Badalian and Wagary. Next up: B-SIDE, Warsaw on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | B-SIDE | Warsaw |
+| Fri, 23 Oct 2026 | Sekta Selekta | Krakow |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kondrat is an electro and techno artist based in Poland, with 152 gigs on soundc
 
 Meke, Badalian, Wagary
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kondrat/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kondrat/)*

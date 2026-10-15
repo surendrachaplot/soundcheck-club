@@ -1,6 +1,6 @@
 # Drum & Beer x Næbula: Nætwork & Party - Varied DnB at Continental
 
-Drum & Beer x Næbula: Nætwork & Party - Varied DnB at Continental on Sat 24 Oct, Brussels. 1 act on the bill: Cellarman. Drum & Bass. Preview the line-up and save it on soundcheck.
+Drum & Beer x Næbula: Nætwork & Party - Varied DnB at Continental on Sat 24 Oct, Brussels. 1 artist: Cellarman. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

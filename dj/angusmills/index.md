@@ -1,6 +1,6 @@
 # Angus Mills
 
-Angus Mills is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Sydney on Fri, 30 Oct 2026.
+Angus Mills is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Sydney on Fri, 30 Oct 2026.
 
 Angus Mills is a techno and house artist based in Australia, with 12 gigs on soundcheck across Sydney. Often billed alongside Claire O'Brien, Cousin and DVS1. Next up: TBA, Sydney on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Angus Mills is a techno and house artist based in Australia, with 12 gigs on sou
 
 Claire O'Brien, Cousin, DVS1
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angusmills/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angusmills/)*

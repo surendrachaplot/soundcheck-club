@@ -1,10 +1,10 @@
 # Ben Gomori: Trax On Da Trax Tour at Spin Munich
 
-Ben Gomori: Trax On Da Trax Tour at Spin Munich on Thu 15 Oct, Munich. 1 artist: Ben Gomori. Downtempo and Balearic. See the line-up on soundcheck.
+Ben Gomori: Trax On Da Trax Tour at Spin Munich on Fri 16 Oct, Munich. 1 artist: Ben Gomori. Downtempo and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Thu, 15 Oct 2026 |
+| Date | Fri, 16 Oct 2026 |
 | Venue | Spin Munich |
 | City | Munich |
 

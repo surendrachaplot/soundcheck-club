@@ -1,8 +1,8 @@
 # kichererbsenstampf
 
-kichererbsenstampf is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at ÆDEN, Berlin on Sat, 24 Oct 2026.
+kichererbsenstampf is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at ÆDEN, Berlin on Sat, 24 Oct 2026.
 
-kichererbsenstampf is a trance and techno artist based in Germany, with 44 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside VLUNA, DJ Schnürschuh and Jaszaloth. Next up: ÆDEN, Berlin on Sat 24 Oct.
+kichererbsenstampf is a trance and techno artist based in Germany, with 44 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside VLUNA, CARGO (DE) and DJ Schnürschuh. Next up: ÆDEN, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ kichererbsenstampf is a trance and techno artist based in Germany, with 44 gigs 
 
 ## Shares bills with
 
-VLUNA, DJ Schnürschuh, Jaszaloth
+VLUNA, CARGO (DE), DJ Schnürschuh
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kichererbsenstampf/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kichererbsenstampf/)*

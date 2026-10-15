@@ -1,6 +1,6 @@
 # Manuel de Lorenzi
 
-Manuel de Lorenzi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Golden Gate, Berlin on Fri, 30 Oct 2026.
+Manuel de Lorenzi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Golden Gate, Berlin on Fri, 30 Oct 2026.
 
 Manuel de Lorenzi is a house and techno artist, with 8 gigs on soundcheck across Amsterdam, Berlin, London and Rome. Often billed alongside Cesare vs Disorder, Francesco Maddalena and Rhom Omit. Next up: Golden Gate, Berlin on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Manuel de Lorenzi is a house and techno artist, with 8 gigs on soundcheck across
 
 Cesare vs Disorder, Francesco Maddalena, Rhom Omit
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manueldelorenzi/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manueldelorenzi/)*

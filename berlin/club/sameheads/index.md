@@ -1,6 +1,6 @@
 # Sameheads
 
-Sameheads is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "SACA SAL" on Thu, 15 Oct 2026.
+Sameheads is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "SACA SAL" on Thu, 15 Oct 2026.
 
 Sameheads is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Amuleto Manuela, Beppe Loda, Caillou and Calamidades Lola and 2 more. See dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Sameheads is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, wit
 
 Richardstrasse 10; Neukölln; 12043 Berlin; Germany, Berlin
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*

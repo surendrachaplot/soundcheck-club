@@ -1,6 +1,6 @@
 # Palo Santo Discos
 
-Palo Santo Discos is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Eastway Baths, London on Sun, 25 Oct 2026.
+Palo Santo Discos is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Eastway Baths, London on Sun, 25 Oct 2026.
 
 Palo Santo Discos is a house and jazz artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam, Berlin, London and Paris and 1 more. Often billed alongside Coco Maria, Poly-Ritmo and DJK. Next up: Eastway Baths, London on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Palo Santo Discos is a house and jazz artist based in Netherlands, with 22 gigs 
 
 Coco Maria, Poly-Ritmo, DJK
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/palosantodiscos/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/palosantodiscos/)*

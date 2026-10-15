@@ -1,6 +1,6 @@
 # La Paloma
 
-La Paloma is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "La Paloma presents: Eliza Rose + Alinka + Nahoomie" on Fri, 16 Oct 2026.
+La Paloma is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "La Paloma presents: Eliza Rose + Alinka + Nahoomie" on Fri, 16 Oct 2026.
 
 La Paloma is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including Alinka, CC:DISCO!, Coco Maria and Colleen 'Cosmo' Murphy and 2 more. See dates, start times and who's playing. Calle Tigre 27, 08001 Barcelona.
 
@@ -10,7 +10,7 @@ La Paloma is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, w
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | La Paloma presents: Eliza Rose + Alinka + Nahoomie | Alinka, Eliza Rose, Nahoomie |
 | Sat, 17 Oct 2026 | HUNKY FUNKY Feel the Groove: CC:DISCO! b2b Dee Diggs | CC:DISCO!, Dee Diggs |
-| Fri, 23 Oct 2026 | La Paloma presents: Coco María + Red Bananna + TBA | Coco Maria |
+| Fri, 23 Oct 2026 | La Paloma presents: Coco María + Izco + Red Bananna | Coco Maria, Izco |
 | Fri, 23 Oct 2026 | Kelela | Kelela |
 | Sat, 24 Oct 2026 | POLENTA |  |
 | Fri, 30 Oct 2026 | La Paloma presents: Soichi Terada + Jennifer Loveless + Pau Roca | Jennifer Loveless, Pau Roca, Soichi Terada |
@@ -21,4 +21,4 @@ La Paloma is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, w
 
 Calle Tigre 27, 08001 Barcelona, Barcelona
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-paloma/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-paloma/)*

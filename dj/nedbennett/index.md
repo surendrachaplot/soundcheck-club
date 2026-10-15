@@ -1,6 +1,6 @@
 # Ned Bennett
 
-Ned Bennett is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Berkeley Suite, Glasgow on Thu, 15 Oct 2026.
+Ned Bennett is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Berkeley Suite, Glasgow on Thu, 15 Oct 2026.
 
 Ned Bennett is a techno and house artist based in Australia, with 70 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 13 more. Often billed alongside KSMBA, Bella Claxton and 6 SENSE. Next up: The Berkeley Suite, Glasgow on Thu 15 Oct.
 
@@ -32,4 +32,4 @@ Ned Bennett is a techno and house artist based in Australia, with 70 gigs on sou
 
 KSMBA, Bella Claxton, 6 SENSE
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nedbennett/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nedbennett/)*

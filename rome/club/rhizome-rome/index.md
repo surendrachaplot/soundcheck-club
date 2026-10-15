@@ -1,6 +1,6 @@
 # Rhizome Rome
 
-Rhizome Rome is a music venue in Rome with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Rhizome presents: a nice noise, "the cut of your jib" | listening party" on Thu, 15 Oct 2026.
+Rhizome Rome is a music venue in Rome with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Rhizome presents: a nice noise, "the cut of your jib" | listening party" on Thu, 15 Oct 2026.
 
 Rhizome Rome is a music venue in Rome listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. Via Nuoro, 10, 00182 Roma RM.
 
@@ -17,4 +17,4 @@ Rhizome Rome is a music venue in Rome listed on soundcheck. 4 upcoming gigs. See
 
 Via Nuoro, 10, 00182 Roma RM, Rome
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/rhizome-rome/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/rhizome-rome/)*

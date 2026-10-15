@@ -1,6 +1,6 @@
 # Clouds
 
-Clouds is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Banana Block, Belfast on Sat, 31 Oct 2026.
+Clouds is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Banana Block, Belfast on Sat, 31 Oct 2026.
 
 Clouds is a techno and trance artist based in United Kingdom, with 97 gigs on soundcheck across Aberdeen, Amsterdam, Basel and Belfast and 27 more. Often billed alongside Tommy Holohan, X CLUB. and Faster Horses. Next up: Banana Block, Belfast on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ Clouds is a techno and trance artist based in United Kingdom, with 97 gigs on so
 
 Tommy Holohan, X CLUB., Faster Horses
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clouds/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clouds/)*

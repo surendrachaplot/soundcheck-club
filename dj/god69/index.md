@@ -1,6 +1,6 @@
 # GOD69
 
-GOD69 is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Berlin on Sat, 24 Oct 2026.
+GOD69 is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Berlin on Sat, 24 Oct 2026.
 
 GOD69 is a techno and experimental artist, with 9 gigs on soundcheck across Berlin, Los Angeles, New York City and Toronto. Often billed alongside Conna Haraway, King Softy and Prieste5s. Next up: TBA, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ GOD69 is a techno and experimental artist, with 9 gigs on soundcheck across Berl
 
 Conna Haraway, King Softy, Prieste5s
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/god69/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/god69/)*

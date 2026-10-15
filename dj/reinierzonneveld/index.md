@@ -1,6 +1,6 @@
 # Reinier Zonneveld
 
-Reinier Zonneveld is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Inter Expo Centre, Sofia on Fri, 16 Oct 2026.
+Reinier Zonneveld is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Inter Expo Centre, Sofia on Fri, 16 Oct 2026.
 
 Reinier Zonneveld is a techno and house artist based in Netherlands, with 124 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 46 more. Often billed alongside 999999999, Adam Beyer and I Hate Models. Next up: Inter Expo Centre, Sofia on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ Reinier Zonneveld is a techno and house artist based in Netherlands, with 124 gi
 
 999999999, Adam Beyer, I Hate Models
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reinierzonneveld/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reinierzonneveld/)*

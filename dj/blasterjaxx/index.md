@@ -1,6 +1,6 @@
 # Blasterjaxx
 
-Blasterjaxx is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Melrose Ballroom, New York City on Fri, 20 Nov 2026.
+Blasterjaxx is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Melrose Ballroom, New York City on Fri, 20 Nov 2026.
 
 Blasterjaxx is a techno and electro artist, with 13 gigs on soundcheck across Amsterdam, Austin, Cologne and Kuala Lumpur and 6 more. Often billed alongside LNY TNZ, Amelie Lens and BENNETT. Next up: Melrose Ballroom, New York City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Blasterjaxx is a techno and electro artist, with 13 gigs on soundcheck across Am
 
 LNY TNZ, Amelie Lens, BENNETT
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blasterjaxx/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blasterjaxx/)*

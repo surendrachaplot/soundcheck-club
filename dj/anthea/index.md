@@ -1,6 +1,6 @@
 # Anthea
 
-Anthea is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Garage Noord, Amsterdam on Thu, 22 Oct 2026.
+Anthea is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Garage Noord, Amsterdam on Thu, 22 Oct 2026.
 
 Anthea is a house and techno artist based in United Kingdom, with 180 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 44 more. Often billed alongside Oshana, tINI and Astral Travel. Next up: Garage Noord, Amsterdam on Thu 22 Oct.
 
@@ -33,4 +33,4 @@ Anthea is a house and techno artist based in United Kingdom, with 180 gigs on so
 
 Oshana, tINI, Astral Travel
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthea/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthea/)*

@@ -1,6 +1,6 @@
 # Araña Club
 
-Araña Club is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "[LISTAS GRATIS] SPEEDWAX invites: Nahum Korm " on Fri, 16 Oct 2026.
+Araña Club is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "[LISTAS GRATIS] SPEEDWAX invites: Nahum Korm " on Fri, 16 Oct 2026.
 
 Araña Club is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including Gune 909, JvggedDoggie, KHAOS IN ORDER and KZTÀ and 2 more. See dates, start times and who's playing. Madrid, Centro 28013, Calle Flor Baja 6, , Madrid.
 
@@ -19,4 +19,4 @@ Araña Club is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, wi
 
 Madrid, Centro 28013, Calle Flor Baja 6, , Madrid, Madrid
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/ara-a-club/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/ara-a-club/)*

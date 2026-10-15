@@ -1,6 +1,6 @@
 # Javier Carballo
 
-Javier Carballo is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Sigma, Ibiza on Thu, 15 Oct 2026.
+Javier Carballo is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Sigma, Ibiza on Thu, 15 Oct 2026.
 
 Javier Carballo is a house and electro artist based in Spain, with 96 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 12 more. Often billed alongside ildec, Hitch and Alex (ES). Next up: Sigma, Ibiza on Thu 15 Oct.
 
@@ -28,4 +28,4 @@ Javier Carballo is a house and electro artist based in Spain, with 96 gigs on so
 
 ildec, Hitch, Alex (ES)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javiercarballo/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javiercarballo/)*

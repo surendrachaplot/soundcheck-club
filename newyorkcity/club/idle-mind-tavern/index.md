@@ -1,8 +1,8 @@
 # Idle Mind Tavern
 
-Idle Mind Tavern is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Rendezvous Grooves Open decks" on Thu, 15 Oct 2026.
+Idle Mind Tavern is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Rendezvous Grooves Open decks" on Thu, 15 Oct 2026.
 
-Idle Mind Tavern is a music venue in New York City listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 623 Manhattan Ave, Brooklyn, NY 11222.
+Idle Mind Tavern is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including DJ Sauci Soni, FTZGRLD, Kristen London and ROBOTRAN and 2 more. See dates, start times and who's playing. 623 Manhattan Ave, Brooklyn, NY 11222.
 
 ## What's on
 
@@ -11,9 +11,10 @@ Idle Mind Tavern is a music venue in New York City listed on soundcheck. 3 upcom
 | Thu, 15 Oct 2026 | Rendezvous Grooves Open decks |  |
 | Thu, 22 Oct 2026 | Rendezvous Grooves Open decks |  |
 | Thu, 29 Oct 2026 | Rendezvous Grooves Open decks |  |
+| Sat, 14 Nov 2026 | Liquid Chrome | DJ Sauci Soni, FTZGRLD, Kristen London, ROBOTRAN, SENGA, STEEN, SurfingDJs |
 
 ## Address
 
 623 Manhattan Ave, Brooklyn, NY 11222, New York City
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/idle-mind-tavern/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/idle-mind-tavern/)*

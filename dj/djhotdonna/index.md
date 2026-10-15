@@ -1,14 +1,14 @@
 # DJ HOT DONNA
 
-DJ HOT DONNA is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Xuxa, Austin on Fri, 30 Oct 2026.
+DJ HOT DONNA is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at XuXa, Austin on Fri, 30 Oct 2026.
 
-DJ HOT DONNA is a house and disco artist based in United States of America, with 29 gigs on soundcheck across Austin. Often billed alongside Brett Johnson, .CLOUDED. and Hotmood. Next up: Xuxa, Austin on Fri 30 Oct.
+DJ HOT DONNA is a house and disco artist based in United States of America, with 29 gigs on soundcheck across Austin. Often billed alongside Brett Johnson, .CLOUDED. and Hotmood. Next up: XuXa, Austin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Xuxa | Austin |
+| Fri, 30 Oct 2026 | XuXa | Austin |
 | Sat, 31 Oct 2026 | Neon Grotto | Austin |
 
 ## Recently played
@@ -26,4 +26,4 @@ DJ HOT DONNA is a house and disco artist based in United States of America, with
 
 Brett Johnson, .CLOUDED., Hotmood
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhotdonna/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhotdonna/)*

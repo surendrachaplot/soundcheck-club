@@ -1,17 +1,18 @@
 # Yellow Arch Studios
 
-Yellow Arch Studios is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "Planet Zogg Halloween Ball" on Fri, 30 Oct 2026.
+Yellow Arch Studios is a music venue in Sheffield with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Planet Zogg Halloween Ball" on Fri, 30 Oct 2026.
 
-Yellow Arch Studios is a music venue in Sheffield listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 30-36 Burton Rd, Sheffield, South Yorkshire, S3 8BX.
+Yellow Arch Studios is a music venue in Sheffield listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 30-36 Burton Rd, Sheffield, South Yorkshire, S3 8BX.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Planet Zogg Halloween Ball |  |
+| Sat, 28 Nov 2026 | Funky Drummer X Phonetics |  |
 
 ## Address
 
 30-36 Burton Rd, Sheffield, South Yorkshire, S3 8BX, Sheffield
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/yellow-arch-studios/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/yellow-arch-studios/)*

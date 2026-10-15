@@ -1,14 +1,15 @@
 # Dali (GE)
 
-Dali (GE) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Left Bank, Tbilisi on Sat, 17 Oct 2026.
+Dali (GE) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Left Bank, Tbilisi on Sat, 17 Oct 2026.
 
-Dali (GE) is a techno and bass artist based in Georgia, with 66 gigs on soundcheck across Athens, Bangkok, Berlin and Copenhagen and 4 more. Often billed alongside Ash Scholem, Giorgi Pipia and Wesley Wise. Next up: Left Bank, Tbilisi on Sat 17 Oct.
+Dali (GE) is a techno and bass artist based in Georgia, with 67 gigs on soundcheck across Athens, Bangkok, Berlin and Copenhagen and 4 more. Often billed alongside Ash Scholem, Giorgi Pipia and Wesley Wise. Next up: Left Bank, Tbilisi on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Left Bank | Tbilisi |
+| Fri, 30 Oct 2026 | Left Bank | Tbilisi |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Dali (GE) is a techno and bass artist based in Georgia, with 66 gigs on soundche
 
 Ash Scholem, Giorgi Pipia, Wesley Wise
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dali-ge/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dali-ge/)*

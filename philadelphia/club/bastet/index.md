@@ -1,13 +1,14 @@
 # Bastet
 
-Bastet is a music venue in Philadelphia with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "bwc sounds: Joshua Lang & DJ Sylo || Matthew Law" on Fri, 16 Oct 2026.
+Bastet is a music venue in Philadelphia with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "KIN" on Thu, 15 Oct 2026.
 
-Bastet is a music venue in Philadelphia listed on soundcheck. 7 upcoming gigs, with line-ups including aka-Sol, America Loves Me, Baby Leo and Coffintexts and 2 more. See dates, start times and who's playing. 601 Spring Garden St, Philadelphia PA 19123.
+Bastet is a music venue in Philadelphia listed on soundcheck. 8 upcoming gigs, with line-ups including aka-Sol, America Loves Me, Baby Leo and Coffintexts and 2 more. See dates, start times and who's playing. 601 Spring Garden St, Philadelphia PA 19123.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 15 Oct 2026 | KIN | Ohlei |
 | Fri, 16 Oct 2026 | bwc sounds: Joshua Lang & DJ Sylo // Matthew Law | DJ Sylo, Joshua Lang, Matthew Law |
 | Sat, 17 Oct 2026 | DJ SYNCLAIRE (Nema Hän & aka Sol), yōsukeDJ // Vicenta, DOLL.REDACTED | Doll.Redacted, Nema Hän, Vicenta, Yōsuke DJ, aka-Sol |
 | Fri, 23 Oct 2026 | Chrysalis: Baby Leo, Afro.fem, DJ Papaya b2b Amylia // Anshi The Rae & DJ Afrvbz | Baby Leo, DJ Papaya |
@@ -20,4 +21,4 @@ Bastet is a music venue in Philadelphia listed on soundcheck. 7 upcoming gigs, w
 
 601 Spring Garden St, Philadelphia PA 19123, Philadelphia
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*

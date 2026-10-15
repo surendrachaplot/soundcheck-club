@@ -1,6 +1,6 @@
 # Kaleido Vol.2 at Cellar
 
-Kaleido Vol.2 at Cellar on Sat 31 Oct, London. 4 artists: DJ Himitsu, JUNTARO Y, Ozwick and thomyorko. Techno and Minimal. See the line-up on soundcheck.
+Kaleido Vol.2 at Cellar on Sat 31 Oct, London. 5 artists: DJ Himitsu, JUNTARO Y, Ozwick and thomyorko and 1 more. Techno and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ Kaleido Vol.2 at Cellar on Sat 31 Oct, London. 4 artists: DJ Himitsu, JUNTARO Y,
 - JUNTARO Y
 - Ozwick
 - thomyorko
+- Vlaish
 
 *Source: [soundcheck](https://soundcheck.club/e/2556118-kaleido-vol-2-at-cellar/)*

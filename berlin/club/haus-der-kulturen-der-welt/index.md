@@ -1,6 +1,6 @@
 # Haus Der Kulturen Der Welt
 
-Haus Der Kulturen Der Welt is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "The Berlin Afrobeat Company, Santrofi" on Thu, 15 Oct 2026.
+Haus Der Kulturen Der Welt is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "The Berlin Afrobeat Company, Santrofi" on Thu, 15 Oct 2026.
 
 Haus Der Kulturen Der Welt is a music venue in Berlin listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. John-Foster-Dulles-Allee 10; Mitte; 10557 Berlin; Germany.
 
@@ -16,4 +16,4 @@ Haus Der Kulturen Der Welt is a music venue in Berlin listed on soundcheck. 3 up
 
 John-Foster-Dulles-Allee 10; Mitte; 10557 Berlin; Germany, Berlin
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-kulturen-der-welt/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-kulturen-der-welt/)*

@@ -1,6 +1,6 @@
 # discoesq
 
-discoesq is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Monarch, San-francisco-oakland on Sat, 2 Jan 2027.
+discoesq is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Monarch, San-francisco-oakland on Sat, 2 Jan 2027.
 
 discoesq is a disco and house artist based in United States of America, with 37 gigs on soundcheck across San Francisco Oakland and San Francisco/Oakland. Often billed alongside Amatric, Evbot and HUFFY. Next up: Monarch, San Francisco Oakland on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ discoesq is a disco and house artist based in United States of America, with 37 
 
 Amatric, Evbot, HUFFY
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discoesq/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discoesq/)*

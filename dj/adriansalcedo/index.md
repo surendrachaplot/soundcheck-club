@@ -1,6 +1,6 @@
 # Adrian Salcedo
 
-Adrian Salcedo is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at KB3, Copenhagen on Fri, 16 Oct 2026.
+Adrian Salcedo is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at KB3, Copenhagen on Fri, 16 Oct 2026.
 
 Adrian Salcedo is a tech house and house artist based in Denmark, with 27 gigs on soundcheck across Copenhagen and Toronto. Often billed alongside RUDEE NIK, Tabbara and Alley Kay. Next up: KB3, Copenhagen on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Adrian Salcedo is a tech house and house artist based in Denmark, with 27 gigs o
 
 RUDEE NIK, Tabbara, Alley Kay
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adriansalcedo/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adriansalcedo/)*

@@ -1,6 +1,6 @@
 # DJ OGAWA
 
-DJ OGAWA is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Joule, Osaka on Fri, 6 Nov 2026.
+DJ OGAWA is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Joule, Osaka on Fri, 6 Nov 2026.
 
 DJ OGAWA is a progressive house and house artist based in Japan, with 35 gigs on soundcheck across Buenos Aires, Copenhagen, Kyoto and Lisbon and 3 more. Often billed alongside Senda, Hernan Cattaneo and Nao Nomura. Next up: Joule, Osaka on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ DJ OGAWA is a progressive house and house artist based in Japan, with 35 gigs on
 
 Senda, Hernan Cattaneo, Nao Nomura
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djogawanitelistmusic/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djogawanitelistmusic/)*

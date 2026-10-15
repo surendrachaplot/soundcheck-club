@@ -1,6 +1,6 @@
 # DJ Name
 
-DJ Name is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Rumbler Bar, Melbourne on Fri, 23 Oct 2026.
+DJ Name is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Rumbler Bar, Melbourne on Fri, 23 Oct 2026.
 
 DJ Name is a house and deep house artist, with 26 gigs on soundcheck across Auckland and Melbourne. Often billed alongside Logan Baker, Jay Tripwire and Tina Mairi. Next up: Rumbler Bar, Melbourne on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ DJ Name is a house and deep house artist, with 26 gigs on soundcheck across Auck
 
 Logan Baker, Jay Tripwire, Tina Mairi
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djname/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djname/)*

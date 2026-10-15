@@ -1,6 +1,6 @@
 # Shannon
 
-Shannon is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 17 Oct 2026.
+Shannon is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 17 Oct 2026.
 
 Shannon is a house and garage artist based in Germany, with 12 gigs on soundcheck across Berlin, London, Melbourne and Paris and 1 more. Often billed alongside Lewis Cancut, 3rd Orbit and Hijack. Next up: Revolver Upstairs, Melbourne on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Shannon is a house and garage artist based in Germany, with 12 gigs on soundchec
 
 Lewis Cancut, 3rd Orbit, Hijack
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shannon/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shannon/)*

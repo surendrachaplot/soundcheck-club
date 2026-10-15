@@ -1,6 +1,6 @@
 # DJ SIN
 
-DJ SIN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Department.en, Seoul on Sat, 17 Oct 2026.
+DJ SIN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Department.en, Seoul on Sat, 17 Oct 2026.
 
 DJ SIN is a techno and house artist based in South Korea, with 152 gigs on soundcheck across Malta and Seoul. Often billed alongside Purusha, SIJIN and Siot. Next up: Department.en, Seoul on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ DJ SIN is a techno and house artist based in South Korea, with 152 gigs on sound
 
 Purusha, SIJIN, Siot
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsin/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsin/)*

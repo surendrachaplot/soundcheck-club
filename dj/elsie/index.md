@@ -1,6 +1,6 @@
 # Elsie
 
-Elsie is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Motley Warehaus, Melbourne on Sat, 24 Oct 2026.
+Elsie is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Motley Warehaus, Melbourne on Sat, 24 Oct 2026.
 
 Elsie is a house and electronica artist based in Australia, with 37 gigs on soundcheck across Melbourne and Victoria. Often billed alongside Adriana, Babycino and Bridget Small. Next up: The Motley Warehaus, Melbourne on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Elsie is a house and electronica artist based in Australia, with 37 gigs on soun
 
 Adriana (1), Babycino, Bridget Small (2)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elsie/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elsie/)*

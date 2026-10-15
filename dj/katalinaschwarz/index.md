@@ -1,6 +1,6 @@
 # Katalina Schwarz
 
-Katalina Schwarz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at H0L0, New York City on Fri, 13 Nov 2026.
+Katalina Schwarz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at H0L0, New York City on Fri, 13 Nov 2026.
 
 Katalina Schwarz is a techno and house artist, with 10 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Leipzig and 2 more. Often billed alongside NSPERGER, Daniela Fuzz and Dirty Daddy Don. Next up: H0L0, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Katalina Schwarz is a techno and house artist, with 10 gigs on soundcheck across
 
 NSPERGER, Daniela Fuzz, Dirty Daddy Don
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katalinaschwarz/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katalinaschwarz/)*

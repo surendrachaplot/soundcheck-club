@@ -1,6 +1,6 @@
 # ANDRÉS GARCIL
 
-ANDRÉS GARCIL is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA -  SECRET CLUB LOCATION., Philadelphia on Fri, 16 Oct 2026.
+ANDRÉS GARCIL is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA -  SECRET CLUB LOCATION., Philadelphia on Fri, 16 Oct 2026.
 
 ANDRÉS GARCIL is a techno and trance artist based in United States of America, with 22 gigs on soundcheck across Boston, New York City, Philadelphia and Washington DC. Often billed alongside Anna Eberg, Junkfile and The Consciousness. Next up: TBA -  SECRET CLUB LOCATION., Philadelphia on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ ANDRÉS GARCIL is a techno and trance artist based in United States of America, 
 
 Anna Eberg, Junkfile, The Consciousness
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andresgarcil/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andresgarcil/)*

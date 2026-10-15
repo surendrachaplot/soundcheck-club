@@ -1,6 +1,6 @@
 # SUJINPAAK
 
-SUJINPAAK is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Bolero, Seoul on Sat, 17 Oct 2026.
+SUJINPAAK is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Bolero, Seoul on Sat, 17 Oct 2026.
 
 SUJINPAAK is a house and club artist based in South Korea, with 49 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Multivsn, TRUEUNSOL and Gyusco. Next up: Bolero, Seoul on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ SUJINPAAK is a house and club artist based in South Korea, with 49 gigs on sound
 
 Multivsn, TRUEUNSOL, Gyusco
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sujinpaak/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sujinpaak/)*

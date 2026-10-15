@@ -1,6 +1,6 @@
 # Hello Darling - Halloween Special at The Deaf Institute
 
-Hello Darling - Halloween Special at The Deaf Institute on Sat 24 Oct, Manchester. 2 artists: DJ Scissher and Treble Gemini. House and Disco. See the line-up on soundcheck.
+Hello Darling - Halloween Special at The Deaf Institute on Sat 24 Oct, Manchester. 3 artists: DJ Scissher, Qoqnut and Treble Gemini. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Hello Darling - Halloween Special at The Deaf Institute on Sat 24 Oct, Mancheste
 ## Line-up
 
 - DJ Scissher
+- Qoqnut
 - Treble Gemini
 
 *Source: [soundcheck](https://soundcheck.club/e/2528683-hello-darling-halloween-special-at-the-deaf-institute/)*

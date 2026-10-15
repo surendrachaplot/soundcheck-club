@@ -1,13 +1,14 @@
 # 1520
 
-1520 is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Persona - Paquita Gordon & Manfredas " on Fri, 30 Oct 2026.
+1520 is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Times Flies & Hats Off - Tumbling Down" on Sun, 25 Oct 2026.
 
-1520 is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, with line-ups including Allius, Ana K Miller, April (UK) and Cersy and 2 more. See dates, start times and who's playing. 19 Cheetham Hill Rd, Cheetham Hill, Manchester, M4 4FY.
+1520 is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, with line-ups including Allius, Ana K Miller, April (UK) and Cersy and 2 more. See dates, start times and who's playing. 19 Cheetham Hill Rd, Cheetham Hill, Manchester, M4 4FY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sun, 25 Oct 2026 | Times Flies & Hats Off - Tumbling Down | Ethan., Vindya, harrison guyett |
 | Fri, 30 Oct 2026 | Persona - Paquita Gordon & Manfredas  | April (UK), FROND, Louie G, Manfredas, Neb Spook, Olita (UK), Paquita Gordon, Ryan Ingleby |
 | Sat, 7 Nov 2026 | Closer x Haunted Dancehall | Allius, Ana K Miller, Cersy, Etienne Groh, Nikol, Timur Basha, Volodymyr Gnatenko, Yone-Ko |
 | Sat, 12 Dec 2026 | LACE: TBA |  |
@@ -16,4 +17,4 @@
 
 19 Cheetham Hill Rd, Cheetham Hill, Manchester, M4 4FY, Manchester
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/1520/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/1520/)*

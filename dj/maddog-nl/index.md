@@ -1,6 +1,6 @@
 # Mad Dog
 
-Mad Dog is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
+Mad Dog is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
 
 Mad Dog is a techno and hardcore artist based in Italy, with 63 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Angerfist, Korsakoff and CLTX. Next up: Airport Würzburg, Nürnberg on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Mad Dog is a techno and hardcore artist based in Italy, with 63 gigs on soundche
 
 Angerfist, Korsakoff, CLTX
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maddog-nl/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maddog-nl/)*

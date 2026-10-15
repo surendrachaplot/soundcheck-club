@@ -1,13 +1,14 @@
 # House of Lords
 
-House of Lords is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Standard Time, Toronto on Sat, 28 Nov 2026.
+House of Lords is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Bambi's, Toronto on Fri, 30 Oct 2026.
 
-House of Lords is a house and deep house artist based in Canada, with 34 gigs on soundcheck across Toronto. Often billed alongside Will Scheffel, Chloe J and me, myself &i. Next up: Standard Time, Toronto on Sat 28 Nov.
+House of Lords is a house and deep house artist based in Canada, with 35 gigs on soundcheck across Toronto. Often billed alongside Will Scheffel, Chloe J and me, myself &i. Next up: Bambi's, Toronto on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Bambi's | Toronto |
 | Sat, 28 Nov 2026 | Standard Time | Toronto |
 
 ## Recently played
@@ -25,4 +26,4 @@ House of Lords is a house and deep house artist based in Canada, with 34 gigs on
 
 Will Scheffel, Chloe J, me, myself &i
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/houseoflords/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/houseoflords/)*

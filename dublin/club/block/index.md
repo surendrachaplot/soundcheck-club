@@ -1,8 +1,8 @@
 # block.
 
-block. is a music venue in Dublin with 10 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Block: MCR-T" on Fri, 16 Oct 2026.
+block. is a music venue in Dublin with 11 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Block: MCR-T" on Fri, 16 Oct 2026.
 
-block. is a music venue in Dublin listed on soundcheck. 10 upcoming gigs, with line-ups including Blasha & Allatt, Boss Priester, John Digweed and Ejeca and 2 more. See dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
+block. is a music venue in Dublin listed on soundcheck. 11 upcoming gigs, with line-ups including BIIA, Blasha & Allatt, Boss Priester and John Digweed and 2 more. See dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
 
 ## What's on
 
@@ -17,10 +17,10 @@ block. is a music venue in Dublin listed on soundcheck. 10 upcoming gigs, with l
 | Sat, 31 Oct 2026 | Block: Spray & Or:la | Or:la, Spray |
 | Sat, 7 Nov 2026 | Block x Endless: Jamie Fielding All Night Long | Jamie Fielding |
 | Sat, 14 Nov 2026 | Block x Research x Subject: Blasha & Allatt | Blasha & Allatt, Shannen Blessing |
-| Sat, 28 Nov 2026 | Block: John Digweed | John Digweed, Ste Flynn |
+| Fri, 27 Nov 2026 | Block x RAW: BIIA | BIIA, NILAAA |
 
 ## Address
 
 13-14, Liberty Ln, Portobello, Dublin
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*

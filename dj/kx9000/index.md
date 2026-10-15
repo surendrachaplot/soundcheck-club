@@ -1,6 +1,6 @@
 # Kx9000
 
-Kx9000 is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at FVTVR, Paris on Fri, 4 Dec 2026.
+Kx9000 is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at FVTVR, Paris on Fri, 4 Dec 2026.
 
 Kx9000 is a house and electro artist based in France, with 19 gigs on soundcheck across Paris. Often billed alongside Tour-Maubourg, Mira Ló and Maison Blanche. Next up: FVTVR, Paris on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Kx9000 is a house and electro artist based in France, with 19 gigs on soundcheck
 
 Tour-Maubourg, Mira Ló, Maison Blanche
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kx9000/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kx9000/)*

@@ -1,6 +1,6 @@
 # Julian Prince
 
-Julian Prince is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Julian Prince is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
 Julian Prince is a house and afro house artist, with 15 gigs on soundcheck across Amsterdam, Ibiza, Miami and Montreal and 2 more. Often billed alongside Kadosh, Oxia and Sander Kleinenberg. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Julian Prince is a house and afro house artist, with 15 gigs on soundcheck acros
 
 Kadosh, Oxia, Sander Kleinenberg
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianprince/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianprince/)*

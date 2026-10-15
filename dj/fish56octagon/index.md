@@ -1,6 +1,6 @@
 # Fish56Octagon
 
-Fish56Octagon is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at 02 Victoria Warehouse, Manchester on Fri, 16 Oct 2026.
+Fish56Octagon is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at 02 Victoria Warehouse, Manchester on Fri, 16 Oct 2026.
 
 Fish56Octagon is a house and techno artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 25 more. Often billed alongside Ben Hemsley, 4am Kru and Ghoulish. Next up: 02 Victoria Warehouse, Manchester on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ Fish56Octagon is a house and techno artist based in United Kingdom, with 65 gigs
 
 Ben Hemsley, 4am Kru, Ghoulish
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fish56octagon/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fish56octagon/)*

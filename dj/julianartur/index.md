@@ -1,6 +1,6 @@
 # Julian Artur
 
-Julian Artur is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Space Talk, London on Fri, 16 Oct 2026.
+Julian Artur is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Space Talk, London on Fri, 16 Oct 2026.
 
 Julian Artur is a house and garage artist, with 21 gigs on soundcheck across Hamburg, London and Stockholm. Often billed alongside Kornél Kovács, Speckman and Josephine Moriko. Next up: Space Talk, London on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Julian Artur is a house and garage artist, with 21 gigs on soundcheck across Ham
 
 Kornél Kovács, Speckman, Josephine Moriko
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianartur/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianartur/)*

@@ -1,6 +1,6 @@
 # AAlva
 
-AAlva is a Baile Funk and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at De Sering, Amsterdam on Fri, 6 Nov 2026.
+AAlva is a Baile Funk and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at De Sering, Amsterdam on Fri, 6 Nov 2026.
 
 AAlva is a baile funk and bass artist based in Netherlands, with 19 gigs on soundcheck across Amsterdam, Brussels and Rotterdam. Often billed alongside Pedro da Mata, Not Yet and FILAIPE. Next up: De Sering, Amsterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ AAlva is a baile funk and bass artist based in Netherlands, with 19 gigs on soun
 
 Pedro da Mata, Not Yet (2), FILAIPE
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aalva/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aalva/)*

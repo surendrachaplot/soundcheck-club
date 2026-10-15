@@ -1,8 +1,8 @@
 # Elotrance
 
-Elotrance is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Elotrance is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
-Elotrance is a techno and trance artist based in Germany, with 120 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 18 more. Often billed alongside Justin Tinderdate, Cleopard2000 and Mika Heggemann. Next up: Melkweg, Amsterdam on Fri 23 Oct.
+Elotrance is a techno and trance artist based in Germany, with 121 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 18 more. Often billed alongside Justin Tinderdate, Cleopard2000 and Mika Heggemann. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Elotrance is a techno and trance artist based in Germany, with 120 gigs on sound
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 | Sun, 25 Oct 2026 | Thuishaven | Amsterdam |
 | Tue, 10 Nov 2026 | Mia Mao | Paris |
+| Wed, 11 Nov 2026 | Schrotty | Cologne |
 | Fri, 20 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Sun, 22 Nov 2026 | Thuishaven | Amsterdam |
 | Fri, 4 Dec 2026 | Toffler | Rotterdam |
@@ -32,4 +33,4 @@ Elotrance is a techno and trance artist based in Germany, with 120 gigs on sound
 
 Justin Tinderdate, Cleopard2000, Mika Heggemann
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elotrance/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elotrance/)*

@@ -1,13 +1,14 @@
 # Losoul
 
-Losoul is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Open Ground, Wuppertal on Sat, 5 Dec 2026.
+Losoul is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, London on Thu, 5 Nov 2026.
 
-Losoul is a house and techno artist, with 15 gigs on soundcheck across Berlin, Dublin, Frankfurt and Ghent and 3 more. Often billed alongside Alexander Skancke, Barbara Preisinger and Robert Drewek. Next up: Open Ground, Wuppertal on Sat 5 Dec.
+Losoul is a house and techno artist, with 16 gigs on soundcheck across Berlin, Dublin, Frankfurt and Ghent and 4 more. Often billed alongside Alexander Skancke, Alexandre Petit and Barbara Preisinger. Next up: TBA, London on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | TBA | London |
 | Sat, 5 Dec 2026 | Open Ground | Wuppertal |
 
 ## Recently played
@@ -23,6 +24,6 @@ Losoul is a house and techno artist, with 15 gigs on soundcheck across Berlin, D
 
 ## Shares bills with
 
-Alexander Skancke, Barbara Preisinger, Robert Drewek
+Alexander Skancke, Alexandre Petit, Barbara Preisinger
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/losoul/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/losoul/)*

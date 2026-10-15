@@ -1,6 +1,6 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 22 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "MAXIS MAXIMAAL / WAP SHOO WAP RECORDS" on Fri, 16 Oct 2026.
+Skatecafe is a music venue in Amsterdam with 22 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "MAXIS MAXIMAAL / WAP SHOO WAP RECORDS" on Fri, 16 Oct 2026.
 
 Skatecafe is a music venue in Amsterdam listed on soundcheck. 22 upcoming gigs, with line-ups including Abstract (US), A For Alpha, amara and Amz and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
@@ -23,4 +23,4 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 22 upcoming gigs, 
 
 Gedempt Hamerkanaal 42, Amsterdam
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*

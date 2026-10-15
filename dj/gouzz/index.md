@@ -1,13 +1,14 @@
 # Gouzz
 
-Gouzz is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
+Gouzz is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Jungle Bar, Brussels on Thu, 15 Oct 2026.
 
-Gouzz is a techno and hardcore artist based in Belgium, with 6 gigs on soundcheck across Amsterdam, Brussels, Ghent and Luxembourg and 1 more. Often billed alongside Kingsmo, Naomi Baldacchino and Ce$ar. Next up: TBA - 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu 22 Oct.
+Gouzz is a techno and hardcore artist based in Belgium, with 7 gigs on soundcheck across Amsterdam, Brussels, Ghent and Luxembourg and 1 more. Often billed alongside Kingsmo, Naomi Baldacchino and Ce$ar. Next up: Jungle Bar, Brussels on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 15 Oct 2026 | Jungle Bar | Brussels |
 | Thu, 22 Oct 2026 | TBA - 50:Hertz House & Techno Club Rembrandt Square | Amsterdam |
 
 ## Recently played
@@ -22,4 +23,4 @@ Gouzz is a techno and hardcore artist based in Belgium, with 6 gigs on soundchec
 
 Kingsmo, Naomi Baldacchino, Ce$ar
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gouzz/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gouzz/)*

@@ -1,6 +1,6 @@
 # mafiii
 
-mafiii is a Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Fortuna Irgendwo, Frankfurt on Fri, 16 Oct 2026.
+mafiii is a Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Fortuna Irgendwo, Frankfurt on Fri, 16 Oct 2026.
 
 mafiii is a tech house artist based in Venezuela, with 12 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Madrid and 1 more. Often billed alongside groovian peruvian, Katopodis and Anthony Godfather. Next up: Fortuna Irgendwo, Frankfurt on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ mafiii is a tech house artist based in Venezuela, with 12 gigs on soundcheck acr
 
 groovian peruvian, Katopodis, Anthony Godfather (2)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mafiii/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mafiii/)*

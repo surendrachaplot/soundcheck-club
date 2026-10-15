@@ -1,6 +1,6 @@
 # Index: Notion at Index
 
-Index: Notion on Fri 16 Oct, Dublin. 1 artist: Notion. Electronica. See the line-up on soundcheck.
+Index: Notion on Fri 16 Oct, Dublin. 2 artists: Milion and Notion. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Index: Notion on Fri 16 Oct, Dublin. 1 artist: Notion. Electronica. See the line
 
 ## Line-up
 
+- Milion
 - Notion
 
 *Source: [soundcheck](https://soundcheck.club/e/2532272-index-notion-at-index/)*

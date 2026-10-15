@@ -1,6 +1,6 @@
 # Giovannii
 
-Giovannii is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Good Room, New York City on Fri, 23 Oct 2026.
+Giovannii is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Good Room, New York City on Fri, 23 Oct 2026.
 
 Giovannii is a techno and house artist based in United States of America, with 21 gigs on soundcheck across New York City. Often billed alongside Will Jack, Sevyn Love and DJ DEADNAME. Next up: Good Room, New York City on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Giovannii is a techno and house artist based in United States of America, with 2
 
 Will Jack, Sevyn Love, DJ DEADNAME
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giovannii/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giovannii/)*

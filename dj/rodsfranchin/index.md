@@ -1,6 +1,6 @@
 # Rods Franchin
 
-Rods Franchin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Recreo Bar, Barcelona on Fri, 16 Oct 2026.
+Rods Franchin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Recreo Bar, Barcelona on Fri, 16 Oct 2026.
 
 Rods Franchin is a techno and house artist based in Brazil, with 65 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 6 more. Often billed alongside Gabo Oliveira, Alex Sharp and MURI. Next up: Recreo Bar, Barcelona on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Rods Franchin is a techno and house artist based in Brazil, with 65 gigs on soun
 
 Gabo Oliveira, Alex Sharp, MURI
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodsfranchin/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodsfranchin/)*

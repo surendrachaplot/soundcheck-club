@@ -1,6 +1,6 @@
 # unders
 
-unders is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Zamna Tulum, Tulum on Thu, 31 Dec 2026.
+unders is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Zamna Tulum, Tulum on Thu, 31 Dec 2026.
 
 unders is a deep house and house artist based in Netherlands, with 67 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 15 more. Often billed alongside Igor Marijuan, Omer Tayar and Words of Niō. Next up: Zamna Tulum, Tulum on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ unders is a deep house and house artist based in Netherlands, with 67 gigs on so
 
 Igor Marijuan, Omer Tayar, Words of Niō
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unders/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unders/)*

@@ -1,8 +1,8 @@
 # adobeprincess
 
-adobeprincess is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at public records, New York City on Fri, 16 Oct 2026.
+adobeprincess is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at public records, New York City on Fri, 16 Oct 2026.
 
-adobeprincess is a techno and house artist, with 62 gigs on soundcheck across Berlin, Brussels, Dublin and London and 9 more. Often billed alongside Jek (US), deep creep and djfix. Next up: public records, New York City on Fri 16 Oct.
+adobeprincess is a techno and house artist, with 63 gigs on soundcheck across Berlin, Brussels, Dublin and London and 9 more. Often billed alongside Jek (US), deep creep and djfix. Next up: public records, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ adobeprincess is a techno and house artist, with 62 gigs on soundcheck across Be
 | Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
 | Sat, 21 Nov 2026 | Nowadays | New York City |
 | Fri, 4 Dec 2026 | Uus Laine | Tallinn |
+| Sat, 12 Dec 2026 | FOLD | London |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ adobeprincess is a techno and house artist, with 62 gigs on soundcheck across Be
 
 Jek (US), deep creep, djfix
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adobeprincess/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adobeprincess/)*

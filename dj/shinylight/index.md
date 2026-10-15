@@ -1,13 +1,14 @@
 # ShinyLight
 
-ShinyLight is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at or, Tokyo on Sat, 17 Oct 2026.
+ShinyLight is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Casa Corona Seoul, Seoul on Fri, 16 Oct 2026.
 
-ShinyLight is a house and tech house artist, with 16 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Better, HAO(KR) and Liza (KR). Next up: or, Tokyo on Sat 17 Oct.
+ShinyLight is a house and tech house artist, with 17 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Better, HAO(KR) and Liza (KR). Next up: Casa Corona Seoul, Seoul on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Casa Corona Seoul | Seoul |
 | Sat, 17 Oct 2026 | or | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ ShinyLight is a house and tech house artist, with 16 gigs on soundcheck across S
 
 Better, HAO(KR), Liza (KR)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shinylight/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shinylight/)*

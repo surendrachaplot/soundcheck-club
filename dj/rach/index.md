@@ -1,6 +1,6 @@
 # RACH
 
-RACH is a Dubstep and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Yellow House, Amsterdam on Fri, 16 Oct 2026.
+RACH is a Dubstep and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Yellow House, Amsterdam on Fri, 16 Oct 2026.
 
 RACH is a dubstep and jungle artist based in Colombia, with 9 gigs on soundcheck across Amsterdam, Brighton, London and North. Often billed alongside Charla Green, King Chuga and 96 Back. Next up: Yellow House, Amsterdam on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ RACH is a dubstep and jungle artist based in Colombia, with 9 gigs on soundcheck
 
 Charla Green, King Chuga, 96 Back
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rach/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rach/)*

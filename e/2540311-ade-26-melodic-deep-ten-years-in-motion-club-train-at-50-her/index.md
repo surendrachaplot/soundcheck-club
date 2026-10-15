@@ -1,6 +1,6 @@
 # ADE 26: Melodic Deep - Ten Years In Motion Club Train at 50:Hertz Club Train
 
-ADE 26: Melodic Deep - Ten Years In Motion Club Train at 50:Hertz Club Train on Thu 22 Oct, Amsterdam. 13 artists: Ape Drums, Ede, Fairplay and Floyd Lavine and 9 more. Deep House and Afro House. See the line-up on soundcheck.
+ADE 26: Melodic Deep - Ten Years In Motion Club Train at 50:Hertz Club Train on Thu 22 Oct, Amsterdam. 14 artists: Ape Drums, Ede, Fairplay and Floyd Lavine and 10 more. Deep House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,6 +19,7 @@ ADE 26: Melodic Deep - Ten Years In Motion Club Train at 50:Hertz Club Train on 
 - KENZA KAYATI
 - Laolu
 - Megatronic
+- Momery
 - No Rush (IT)
 - OSFUR
 - VIEL (IT)

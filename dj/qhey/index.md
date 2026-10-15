@@ -1,6 +1,6 @@
 # Q'hey
 
-Q'hey is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at WOMB, Tokyo on Sat, 17 Oct 2026.
+Q'hey is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at WOMB, Tokyo on Sat, 17 Oct 2026.
 
 Q'hey is a techno and house artist based in Japan, with 50 gigs on soundcheck across Tokyo. Often billed alongside Takami, Drunken Kong and ATT. Next up: WOMB, Tokyo on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Q'hey is a techno and house artist based in Japan, with 50 gigs on soundcheck ac
 
 Takami, Drunken Kong, ATT
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qhey/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qhey/)*

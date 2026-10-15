@@ -1,6 +1,6 @@
 # Nomis
 
-Nomis is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Itzel Club, London on Thu, 15 Oct 2026.
+Nomis is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Itzel Club, London on Thu, 15 Oct 2026.
 
 Nomis is an afro house and deep house artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Ibiza, London and New York City and 2 more. Often billed alongside Sasson, Oktave and ARKADYAN. Next up: Itzel Club, London on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Nomis is an afro house and deep house artist based in United Kingdom, with 30 gi
 
 Sasson, Oktave, ARKADYAN
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nomis/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nomis/)*

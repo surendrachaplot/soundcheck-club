@@ -1,0 +1,28 @@
+# Iker Lobo
+
+Iker Lobo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at High Club Room, Madrid on Fri, 16 Oct 2026.
+
+Iker Lobo is a house and tech house artist based in Mexico, with 9 gigs on soundcheck across Madrid. Often billed alongside Daya Dadlani, Hugo Carter and Alex Sosa. Next up: High Club Room, Madrid on Fri 16 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 16 Oct 2026 | High Club Room | Madrid |
+
+## Recently played
+
+- Casa Amante Club, Madrid · Sat, 12 Sept 2026
+- Say No More Madrid, Madrid · Fri, 28 Aug 2026
+- Casa Amante Club, Madrid · Sun, 21 Jun 2026
+- Subcero Club, Madrid · Fri, 22 May 2026
+- Subcero Club, Madrid · Thu, 30 Apr 2026
+- Soundbaths, Madrid · Sat, 25 Apr 2026
+- Gilda Club, Madrid · Fri, 28 Nov 2025
+- FONDEO, Madrid · Fri, 4 Jul 2025
+
+## Shares bills with
+
+Daya Dadlani, Hugo Carter, Alex Sosa
+
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ikerlobo/)*

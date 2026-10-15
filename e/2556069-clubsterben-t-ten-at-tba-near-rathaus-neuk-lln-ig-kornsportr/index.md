@@ -1,6 +1,6 @@
 # Clubsterben Töten at TBA - near Rathaus Neukölln- IG @kornsportrecords
 
-Clubsterben Töten at TBA - near Rathaus Neukölln- IG @kornsportrecords on Fri 16 Oct, Berlin. 3 artists: Gigi Basso, MIRALEO and Phillinger. Techno and House. See the line-up on soundcheck.
+Clubsterben Töten at TBA - near Rathaus Neukölln- IG @kornsportrecords on Fri 16 Oct, Berlin. 4 artists: francesca (DE), Gigi Basso, MIRALEO and Phillinger. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Clubsterben Töten at TBA - near Rathaus Neukölln- IG @kornsportrecords on Fri 
 
 ## Line-up
 
+- francesca (DE)
 - Gigi Basso
 - MIRALEO
 - Phillinger

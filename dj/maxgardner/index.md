@@ -1,6 +1,6 @@
 # Max Gardner
 
-Max Gardner is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Secret Location, Sacramento on Sat, 17 Oct 2026.
+Max Gardner is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Secret Location, Sacramento on Sat, 17 Oct 2026.
 
 Max Gardner is a techno and dub techno artist based in United States of America, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 10 more. Often billed alongside Adra, Lindsey Herbert and 9-System. Next up: TBA - Secret Location, Sacramento on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Max Gardner is a techno and dub techno artist based in United States of America,
 
 Adra, Lindsey Herbert, 9-System
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxgardner/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxgardner/)*

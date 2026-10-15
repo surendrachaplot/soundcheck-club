@@ -1,6 +1,6 @@
 # VIKk
 
-VIKk is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Fri, 30 Oct 2026.
+VIKk is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Fri, 30 Oct 2026.
 
 VIKk is a house and electro artist based in Spain, with 76 gigs on soundcheck across Barcelona, Berlin, Brussels and Budapest and 8 more. Often billed alongside Perro Jimbo, MATT.. and Lamache. Next up: Seaseaclub Barcelona, Barcelona on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ VIKk is a house and electro artist based in Spain, with 76 gigs on soundcheck ac
 
 Perro Jimbo, MATT.., Lamache
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vikk/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vikk/)*

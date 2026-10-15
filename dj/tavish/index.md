@@ -1,8 +1,8 @@
 # Tavish
 
-Tavish is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Yamashiro Hollywood, Los Angeles on Sat, 31 Oct 2026.
+Tavish is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Yamashiro Hollywood, Los Angeles on Sat, 31 Oct 2026.
 
-Tavish is a house and disco artist based in United States of America, with 26 gigs on soundcheck across Los Angeles, Mexico City, New York City and San Diego. Often billed alongside Dave Aju, SONNS and Stacy Christine. Next up: Yamashiro Hollywood, Los Angeles on Sat 31 Oct.
+Tavish is a house and disco artist based in United States of America, with 27 gigs on soundcheck across Los Angeles, Mexico City, New York City and San Diego. Often billed alongside Dave Aju, SONNS and Stacy Christine. Next up: Yamashiro Hollywood, Los Angeles on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tavish is a house and disco artist based in United States of America, with 26 gi
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Yamashiro Hollywood | Los Angeles |
 | Sat, 21 Nov 2026 | Good Room | New York City |
+| Sat, 28 Nov 2026 | TBA - Los Angeles | Los Angeles |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Tavish is a house and disco artist based in United States of America, with 26 gi
 
 Dave Aju, SONNS, Stacy Christine
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tavish/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tavish/)*

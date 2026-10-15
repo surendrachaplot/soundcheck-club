@@ -1,6 +1,6 @@
 # Ketris
 
-Ketris is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Turbo422, Melbourne on Sat, 17 Oct 2026.
+Ketris is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Turbo422, Melbourne on Sat, 17 Oct 2026.
 
 Ketris is a techno and house artist based in Australia, with 21 gigs on soundcheck across Melbourne. Often billed alongside Ejeckt, Gus McKinna and AK-97. Next up: Turbo422, Melbourne on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Ketris is a techno and house artist based in Australia, with 21 gigs on soundche
 
 Ejeckt, Gus McKinna, AK-97
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ketris/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ketris/)*

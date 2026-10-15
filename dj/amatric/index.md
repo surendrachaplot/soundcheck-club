@@ -1,6 +1,6 @@
 # Amatric
 
-Amatric is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Phonobar, San Francisco/Oakland on Thu, 15 Oct 2026.
+Amatric is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Phonobar, San Francisco/Oakland on Thu, 15 Oct 2026.
 
 Amatric is a disco and italo disco artist, with 52 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Evbot, lord_of_the_rats and DJ PlayStation. Next up: Phonobar, San Francisco/Oakland on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Amatric is a disco and italo disco artist, with 52 gigs on soundcheck across San
 
 Evbot, lord_of_the_rats, DJ PlayStation
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amatric/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amatric/)*

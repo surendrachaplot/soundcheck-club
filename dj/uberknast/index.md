@@ -1,6 +1,6 @@
 # UBER KNAST
 
-UBER KNAST is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at MODULE, Copenhagen on Fri, 30 Oct 2026.
+UBER KNAST is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at MODULE, Copenhagen on Fri, 30 Oct 2026.
 
 UBER KNAST is a techno and trance artist based in Denmark, with 18 gigs on soundcheck across Copenhagen. Often billed alongside Kardinal Bertram, CF682 and Dr. Dextro. Next up: MODULE, Copenhagen on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ UBER KNAST is a techno and trance artist based in Denmark, with 18 gigs on sound
 
 Kardinal Bertram, CF682, Dr. Dextro
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uberknast/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uberknast/)*

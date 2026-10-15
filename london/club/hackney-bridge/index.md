@@ -1,6 +1,6 @@
 # Hackney Bridge
 
-Hackney Bridge is a music venue in London with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "SENSORIAL: SCENE THREE [Listening Session + Live Performance + Club night]" on Fri, 16 Oct 2026.
+Hackney Bridge is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "SENSORIAL: SCENE THREE [Listening Session + Live Performance + Club night]" on Fri, 16 Oct 2026.
 
 Hackney Bridge is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Amancai, Kontronatura, Maldita Vaina and Olive Juice and 2 more. See dates, start times and who's playing. Units 1-28, Echo Building, E Bay Ln, London E15 2SJ.
 
@@ -16,4 +16,4 @@ Hackney Bridge is a music venue in London listed on soundcheck. 3 upcoming gigs,
 
 Units 1-28, Echo Building, E Bay Ln, London E15 2SJ, London
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/hackney-bridge/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/hackney-bridge/)*

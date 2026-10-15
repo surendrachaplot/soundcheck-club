@@ -1,6 +1,6 @@
 # IZREAL
 
-IZREAL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Luka, Seoul on Fri, 16 Oct 2026.
+IZREAL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Luka, Seoul on Fri, 16 Oct 2026.
 
 IZREAL is a techno and house artist, with 17 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside Mukthi, HAO (CN) and R.I.M. Next up: Luka, Seoul on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ IZREAL is a techno and house artist, with 17 gigs on soundcheck across Osaka, Se
 
 Mukthi, HAO (CN), R.I.M
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/izreal/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/izreal/)*

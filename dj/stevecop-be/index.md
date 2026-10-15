@@ -1,6 +1,6 @@
 # Steve Cop
 
-Steve Cop is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Shelter Antwerp, Antwerp on Sat, 17 Oct 2026.
+Steve Cop is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Shelter Antwerp, Antwerp on Sat, 17 Oct 2026.
 
 Steve Cop is a house and techno artist based in Belgium, with 17 gigs on soundcheck across Amsterdam, Antwerp and Ghent. Often billed alongside Alexander Koning, DJ Prinz and Erick E. Next up: Shelter Antwerp, Antwerp on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Steve Cop is a house and techno artist based in Belgium, with 17 gigs on soundch
 
 Alexander Koning, DJ Prinz, Erick E
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevecop-be/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevecop-be/)*

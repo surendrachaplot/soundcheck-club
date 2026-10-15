@@ -1,6 +1,6 @@
 # Chris Stevo
 
-Chris Stevo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at The Lucky Cat, Sydney on Fri, 16 Oct 2026.
+Chris Stevo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at The Lucky Cat, Sydney on Fri, 16 Oct 2026.
 
 Chris Stevo is a house and tech house artist based in Australia, with 18 gigs on soundcheck across Sydney. Often billed alongside Miliard, A.Well and Alternate State. Next up: The Lucky Cat, Sydney on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Chris Stevo is a house and tech house artist based in Australia, with 18 gigs on
 
 Miliard, A.Well, Alternate State
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstevo/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstevo/)*

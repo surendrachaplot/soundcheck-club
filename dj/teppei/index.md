@@ -1,6 +1,6 @@
 # teppei
 
-teppei is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Mitsuki, Tokyo on Thu, 15 Oct 2026.
+teppei is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Mitsuki, Tokyo on Thu, 15 Oct 2026.
 
 teppei is a techno and house artist based in Japan, with 123 gigs on soundcheck across Bangkok, Seoul and Tokyo. Often billed alongside SIGNAL (JP), ARUTA and YELLOWUHURU. Next up: Mitsuki, Tokyo on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ teppei is a techno and house artist based in Japan, with 123 gigs on soundcheck 
 
 SIGNAL (JP), ARUTA, YELLOWUHURU
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teppei/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teppei/)*

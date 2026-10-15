@@ -1,6 +1,6 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 23 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "ANFANG FAM DAY" on Thu, 15 Oct 2026.
+Cadavra is a music venue in Madrid with 23 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "ANFANG FAM DAY" on Thu, 15 Oct 2026.
 
 Cadavra is a music venue in Madrid listed on soundcheck. 23 upcoming gigs, with line-ups including Abdulla A., Andy Martin, Anna Wall and Avo (ES) and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
@@ -23,4 +23,4 @@ Cadavra is a music venue in Madrid listed on soundcheck. 23 upcoming gigs, with 
 
 C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*

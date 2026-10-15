@@ -1,13 +1,14 @@
 # Julianna
 
-Julianna is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Mexico City on Sat, 24 Oct 2026.
+Julianna is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Relink:Data, Mexico City on Fri, 16 Oct 2026.
 
-Julianna is a techno and house artist, with 9 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 5 more. Often billed alongside 40% FODA/MANEIRÍSSIMO, AceMoMA and Agrabah. Next up: TBA, Mexico City on Sat 24 Oct.
+Julianna is a techno and bass artist, with 10 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 5 more. Often billed alongside Enya Botello, 40% FODA/MANEIRÍSSIMO and AceMoMA. Next up: Relink:Data, Mexico City on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Relink:Data | Mexico City |
 | Sat, 24 Oct 2026 | TBA | Mexico City |
 
 ## Recently played
@@ -23,6 +24,6 @@ Julianna is a techno and house artist, with 9 gigs on soundcheck across Amsterda
 
 ## Shares bills with
 
-40% FODA/MANEIRÍSSIMO, AceMoMA, Agrabah
+Enya Botello, 40% FODA/MANEIRÍSSIMO, AceMoMA
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianna/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianna/)*

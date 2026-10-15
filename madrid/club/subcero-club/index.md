@@ -1,6 +1,6 @@
 # Subcero Club
 
-Subcero Club is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Subcero x PBP Recdords" on Thu, 15 Oct 2026.
+Subcero Club is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Subcero x PBP Recdords" on Thu, 15 Oct 2026.
 
 Subcero Club is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including AL MANDO, Elwei, Fontango and Gäbrø and 2 more. See dates, start times and who's playing. Calle Ayala, 27, Madrid, Spain.
 
@@ -23,4 +23,4 @@ Subcero Club is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, 
 
 Calle Ayala, 27, Madrid, Spain, Madrid
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/subcero-club/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/subcero-club/)*

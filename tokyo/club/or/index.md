@@ -1,6 +1,6 @@
 # or
 
-or is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "HOUSEGATHERING" on Sat, 17 Oct 2026.
+or is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "HOUSEGATHERING" on Sat, 17 Oct 2026.
 
 or is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-ups including AiMii, ANZU, Ayantula and Bluebird and 2 more. See dates, start times and who's playing. 6-20-10 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan.
 
@@ -18,4 +18,4 @@ or is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-up
 
 6-20-10 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan, Tokyo
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/or/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/or/)*

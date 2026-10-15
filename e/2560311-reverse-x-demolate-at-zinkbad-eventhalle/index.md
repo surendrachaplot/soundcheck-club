@@ -1,6 +1,6 @@
 # Reverse X Demolate at Zinkbad Eventhalle
 
-Reverse X Demolate at Zinkbad Eventhalle on Fri 6 Nov, Zurich. 8 artists: Blasha & Allatt, Cortez, GCOD and Jacom (Adroit) and 4 more. Techno and Electronica. See the line-up on soundcheck.
+Reverse X Demolate at Zinkbad Eventhalle on Fri 6 Nov, Zurich. 8 artists: Blasha & Allatt, Cortez, GCOD and Jacom and 4 more. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ Reverse X Demolate at Zinkbad Eventhalle on Fri 6 Nov, Zurich. 8 artists: Blasha
 - Blasha & Allatt
 - Cortez (2)
 - GCOD
-- Jacom (Adroit)
+- Jacom
 - Kaiser (K S R)
 - Mefteh
 - Scheppērt

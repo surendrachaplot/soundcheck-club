@@ -1,13 +1,14 @@
 # KALMIKVCS
 
-KALMIKVCS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Arzenal, Budapest on Sat, 5 Dec 2026.
+KALMIKVCS is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Vektor - The Klub, Budapest on Fri, 30 Oct 2026.
 
-KALMIKVCS is a techno and industrial artist based in Hungary, with 29 gigs on soundcheck across Budapest. Often billed alongside Detective Kelly, THIRD 2HIFT and Sikztah. Next up: Arzenal, Budapest on Sat 5 Dec.
+KALMIKVCS is a techno and industrial artist based in Hungary, with 30 gigs on soundcheck across Budapest. Often billed alongside Detective Kelly, THIRD 2HIFT and Sikztah. Next up: Vektor - The Klub, Budapest on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Vektor - The Klub | Budapest |
 | Sat, 5 Dec 2026 | Arzenal | Budapest |
 
 ## Recently played
@@ -25,4 +26,4 @@ KALMIKVCS is a techno and industrial artist based in Hungary, with 29 gigs on so
 
 Detective Kelly, THIRD 2HIFT, Sikztah
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalmikvcs/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalmikvcs/)*

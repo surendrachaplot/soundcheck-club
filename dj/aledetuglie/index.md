@@ -1,6 +1,6 @@
 # Ale De Tuglie
 
-Ale De Tuglie is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Pacha New York, New York City on Sun, 18 Oct 2026.
+Ale De Tuglie is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Pacha New York, New York City on Sun, 18 Oct 2026.
 
 Ale De Tuglie is a tech house and house artist based in Italy, with 79 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bucharest and 19 more. Often billed alongside Marco Carola, Joey Daniel and Franky Rizardo. Next up: Pacha New York, New York City on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Ale De Tuglie is a tech house and house artist based in Italy, with 79 gigs on s
 
 Marco Carola, Joey Daniel, Franky Rizardo
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aledetuglie/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aledetuglie/)*

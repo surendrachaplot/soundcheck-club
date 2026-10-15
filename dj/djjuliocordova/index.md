@@ -1,13 +1,14 @@
 # J. Córdova
 
-J. Córdova is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Paragon, New York City on Sat, 24 Oct 2026.
+J. Córdova is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Smoke & Mirrors, Chicago on Fri, 23 Oct 2026.
 
-J. Córdova is a techno and club artist based in United States of America, with 43 gigs on soundcheck across Chicago, New York City and San Francisco/Oakland. Often billed alongside karennoid, DJ Aguara'i and Ariel Zetina. Next up: Paragon, New York City on Sat 24 Oct.
+J. Córdova is a techno and club artist based in United States of America, with 44 gigs on soundcheck across Chicago, New York City and San Francisco/Oakland. Often billed alongside karennoid, DJ Aguara'i and Ariel Zetina. Next up: Smoke & Mirrors, Chicago on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Smoke & Mirrors | Chicago |
 | Sat, 24 Oct 2026 | Paragon | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ J. Córdova is a techno and club artist based in United States of America, with 
 
 karennoid, DJ Aguara'i, Ariel Zetina
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjuliocordova/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjuliocordova/)*

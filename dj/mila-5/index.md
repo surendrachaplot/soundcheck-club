@@ -1,6 +1,6 @@
 # Mila (5)
 
-Mila (5) is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at SCHRON, Poznan on Sat, 17 Oct 2026.
+Mila (5) is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at SCHRON, Poznan on Sat, 17 Oct 2026.
 
 Mila is a techno and industrial artist based in Poland, with 4 gigs on soundcheck across Poznan, Prague, Vienna and Warsaw. Often billed alongside VRAXX, 2NDRA and Jake Fill. Next up: SCHRON, Poznan on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ Mila is a techno and industrial artist based in Poland, with 4 gigs on soundchec
 
 VRAXX, 2NDRA, Jake Fill
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mila-5/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mila-5/)*

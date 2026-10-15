@@ -1,6 +1,6 @@
 # My Friend
 
-My Friend is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at UNLOCKED, London on Sat, 17 Oct 2026.
+My Friend is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at UNLOCKED, London on Sat, 17 Oct 2026.
 
 My Friend is a progressive house and house artist based in United Kingdom, with 30 gigs on soundcheck across Austin, Belfast, Berlin and Dublin and 11 more. Often billed alongside Braxton, Because of Art and Daniel Curpen. Next up: UNLOCKED, London on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ My Friend is a progressive house and house artist based in United Kingdom, with 
 
 Braxton, Because of Art, Daniel Curpen
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myfriend/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myfriend/)*

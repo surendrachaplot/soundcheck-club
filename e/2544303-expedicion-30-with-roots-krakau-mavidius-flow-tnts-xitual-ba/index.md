@@ -1,6 +1,6 @@
 # Expedicion 30 with Roots., Krakau, Mavidius, Flow TNTS, Xitual, Baraquz, Dark Anomaly at Void Club
 
-Expedicion 30 with Roots., Krakau, Mavidius, Flow TNTS, Xitual, Baraquz, Dark Anomaly at Void Club on Sat 17 Oct, Berlin. 3 artists: Dark Anomaly, Flow TNTS and Roots.. Techno and Psytrance. See the line-up on soundcheck.
+Expedicion 30 with Roots., Krakau, Mavidius, Flow TNTS, Xitual, Baraquz, Dark Anomaly at Void Club on Sat 17 Oct, Berlin. 4 artists: Dark Anomaly, Flow TNTS, Mavidius and Roots.. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Expedicion 30 with Roots., Krakau, Mavidius, Flow TNTS, Xitual, Baraquz, Dark An
 
 - Dark Anomaly (2)
 - Flow TNTS
+- Mavidius
 - Roots.
 
 *Source: [soundcheck](https://soundcheck.club/e/2544303-expedicion-30-with-roots-krakau-mavidius-flow-tnts-xitual-ba/)*

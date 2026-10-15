@@ -1,6 +1,6 @@
 # MrD
 
-MrD is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Rex Club, Paris on Fri, 13 Nov 2026.
+MrD is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Rex Club, Paris on Fri, 13 Nov 2026.
 
 MrD is a techno and trance artist based in Qatar, with 97 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 41 more. Often billed alongside MRD (NO), MCR-T and DJ Gigola. Next up: Rex Club, Paris on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ MrD is a techno and trance artist based in Qatar, with 97 gigs on soundcheck acr
 
 MRD (NO), MCR-T, DJ Gigola
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrd/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrd/)*

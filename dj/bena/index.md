@@ -1,6 +1,6 @@
 # Bena
 
-Bena is a Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Grow, London on Fri, 16 Oct 2026.
+Bena is a Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Grow, London on Fri, 16 Oct 2026.
 
 Bena is a disco and techno artist based in United States of America, with 10 gigs on soundcheck across Frankfurt and London. Often billed alongside Chameleonas, Daniele Mizar and Emanuel Pavlova. Next up: Grow, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Bena is a disco and techno artist based in United States of America, with 10 gig
 
 Chameleonas, Daniele Mizar, Emanuel Pavlova
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bena/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bena/)*

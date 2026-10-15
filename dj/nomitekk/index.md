@@ -1,6 +1,6 @@
 # nomitekk
 
-nomitekk is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Schlachthof Wiesbaden, Frankfurt on Sat, 17 Oct 2026.
+nomitekk is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Schlachthof Wiesbaden, Frankfurt on Sat, 17 Oct 2026.
 
 nomitekk is a techno and trance artist based in Germany, with 21 gigs on soundcheck across Baden W Rttemberg, Frankfurt and Nürnberg. Often billed alongside Kacy, PENELOPE (DE) and CiKi. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ nomitekk is a techno and trance artist based in Germany, with 21 gigs on soundch
 
 Kacy, PENELOPE (DE), CiKi
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nomitekk/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nomitekk/)*

@@ -1,14 +1,15 @@
 # Madeleine
 
-Madeleine is a Techno and Jazz artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 13 Nov 2026.
+Madeleine is a Techno and Jazz artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 13 Nov 2026.
 
-Madeleine is a techno and jazz artist based in Slovakia, with 35 gigs on soundcheck across Amsterdam, Berlin, Bristol and London and 3 more. Often billed alongside Atch22, Kobayashi Maru and Inger Illel. Next up: Ankali & Planeta Za, Prague on Fri 13 Nov.
+Madeleine is a techno and jazz artist based in Slovakia, with 36 gigs on soundcheck across Amsterdam, Berlin, Bristol and London and 3 more. Often billed alongside Atch22, Kobayashi Maru and DDAT. Next up: Ankali & Planeta Za, Prague on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Ankali & Planeta Za | Prague |
+| Fri, 20 Nov 2026 | Archa+ | Prague |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Madeleine is a techno and jazz artist based in Slovakia, with 35 gigs on soundch
 
 ## Shares bills with
 
-Atch22, Kobayashi Maru, Inger Illel
+Atch22, Kobayashi Maru, DDAT
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madeleine/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madeleine/)*

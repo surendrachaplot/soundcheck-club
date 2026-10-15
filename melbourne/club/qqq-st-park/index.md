@@ -1,6 +1,6 @@
 # QQQ ST. Park
 
-QQQ ST. Park is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "DISTORTED TRAP" on Fri, 16 Oct 2026.
+QQQ ST. Park is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "DISTORTED TRAP" on Fri, 16 Oct 2026.
 
 QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including KINEKTA, Monique Tya, PM and Pugilist and 2 more. See dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
 
@@ -19,4 +19,4 @@ QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs
 
 2 Peel St, Collingwood VIC 3066, Melbourne
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*

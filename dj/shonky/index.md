@@ -1,6 +1,6 @@
 # Shonky
 
-Shonky is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Union Nautique de Marseille, Marseille on Fri, 16 Oct 2026.
+Shonky is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Union Nautique de Marseille, Marseille on Fri, 16 Oct 2026.
 
 Shonky is a house and tech house artist based in France, with 233 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: TBA - Union Nautique de Marseille, Marseille on Fri 16 Oct.
 
@@ -33,4 +33,4 @@ Shonky is a house and tech house artist based in France, with 233 gigs on soundc
 
 Dyed Soundorom, Dan Ghenacia, Apollonia
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shonky/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shonky/)*

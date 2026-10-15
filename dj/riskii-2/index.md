@@ -1,6 +1,6 @@
 # Riskii (2)
 
-Riskii (2) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 12 Oct 2026.
+Riskii (2) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 12 Oct 2026.
 
 Riskii is a house and techno artist based in South Korea, with 142 gigs on soundcheck across Seoul. Often billed alongside givogi, JNS and Lyumin. Next up: Stoked&stoned, Seoul on Mon 12 Oct.
 
@@ -27,4 +27,4 @@ Riskii is a house and techno artist based in South Korea, with 142 gigs on sound
 
 givogi, JNS, Lyumin
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riskii-2/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riskii-2/)*

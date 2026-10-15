@@ -1,6 +1,6 @@
 # Angel Karel
 
-Angel Karel is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Cabaret  Aléatoire, Marseille on Sat, 21 Nov 2026.
+Angel Karel is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Cabaret  Aléatoire, Marseille on Sat, 21 Nov 2026.
 
 Angel Karel is a techno and industrial artist based in France, with 75 gigs on soundcheck across Amsterdam, Berlin, Cologne and Geneva and 15 more. Often billed alongside Vinka Wydro, LiXaa and Aida Arko. Next up: Cabaret  Aléatoire, Marseille on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Angel Karel is a techno and industrial artist based in France, with 75 gigs on s
 
 Vinka Wydro, LiXaa, Aida Arko
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angelkarel/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angelkarel/)*

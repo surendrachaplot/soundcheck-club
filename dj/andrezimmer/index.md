@@ -1,6 +1,6 @@
 # Andre Zimmer
 
-Andre Zimmer is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Garage Noord, Amsterdam on Thu, 22 Oct 2026.
+Andre Zimmer is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Garage Noord, Amsterdam on Thu, 22 Oct 2026.
 
 Andre Zimmer is a house and techno artist based in Canada, with 62 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside AKWA, Jacob de Hooge and Venus in Foil. Next up: Garage Noord, Amsterdam on Thu 22 Oct.
 
@@ -30,4 +30,4 @@ Andre Zimmer is a house and techno artist based in Canada, with 62 gigs on sound
 
 AKWA, Jacob de Hooge, Venus in Foil
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrezimmer/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrezimmer/)*

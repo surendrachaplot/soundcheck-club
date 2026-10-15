@@ -1,6 +1,6 @@
 # Wax Motif
 
-Wax Motif is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Edmonton Expo Center, Edmonton on Fri, 30 Oct 2026.
+Wax Motif is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Edmonton Expo Center, Edmonton on Fri, 30 Oct 2026.
 
 Wax Motif is a house and tech house artist based in Australia, with 44 gigs on soundcheck across Austin, Boston, Chicago and Edmonton and 13 more. Often billed alongside Chris Lake, Matroda and Alesso. Next up: Edmonton Expo Center, Edmonton on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Wax Motif is a house and tech house artist based in Australia, with 44 gigs on s
 
 Chris Lake, Matroda, Alesso
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waxmotif/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waxmotif/)*

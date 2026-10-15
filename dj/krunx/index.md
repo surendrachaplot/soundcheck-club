@@ -1,6 +1,6 @@
 # Krunx
 
-Krunx is a Hardcore and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Wibar, Netherlands on Sat, 17 Oct 2026.
+Krunx is a Hardcore and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Wibar, Netherlands on Sat, 17 Oct 2026.
 
 Krunx is a hardcore and jungle artist based in Netherlands, with 35 gigs on soundcheck across Amsterdam, Bristol, London and Manchester and 3 more. Often billed alongside ISORA, Hughesee and Louise Plus One. Next up: Wibar, Netherlands on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Krunx is a hardcore and jungle artist based in Netherlands, with 35 gigs on soun
 
 ISORA, Hughesee, Louise Plus One
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krunx/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krunx/)*

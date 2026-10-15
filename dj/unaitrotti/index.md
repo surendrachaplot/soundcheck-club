@@ -1,8 +1,8 @@
 # Unai Trotti
 
-Unai Trotti is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Hertz, Seoul on Fri, 16 Oct 2026.
+Unai Trotti is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Hertz, Seoul on Fri, 16 Oct 2026.
 
-Unai Trotti is a techno and house artist based in United Kingdom, with 171 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 50 more. Often billed alongside Z@p, Vass and Junki Inoue. Next up: Hertz, Seoul on Fri 16 Oct.
+Unai Trotti is a techno and house artist based in United Kingdom, with 172 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 51 more. Often billed alongside Z@p, Vass and Junki Inoue. Next up: Hertz, Seoul on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Unai Trotti is a techno and house artist based in United Kingdom, with 171 gigs 
 | Sat, 24 Oct 2026 | WOMB | Tokyo |
 | Fri, 13 Nov 2026 | Le Trabendo | Paris |
 | Fri, 27 Nov 2026 | The Bassement | Madrid |
+| Sat, 12 Dec 2026 | Spook Club | Valencia |
 | Sat, 19 Dec 2026 | Mint XL | Leeds |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
@@ -32,4 +33,4 @@ Unai Trotti is a techno and house artist based in United Kingdom, with 171 gigs 
 
 Z@p, Vass, Junki Inoue
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unaitrotti/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unaitrotti/)*

@@ -1,6 +1,6 @@
 # Francesco Castelli
 
-Francesco Castelli is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Zumana Bali, Bali on Sat, 17 Oct 2026.
+Francesco Castelli is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Zumana Bali, Bali on Sat, 17 Oct 2026.
 
 Francesco Castelli is a house and tech house artist, with 15 gigs on soundcheck across Bali. Often billed alongside Kaiser Waldon, Nacho Corominas and Sara Siu. Next up: Zumana Bali, Bali on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Francesco Castelli is a house and tech house artist, with 15 gigs on soundcheck 
 
 Kaiser Waldon, Nacho Corominas, Sara Siu
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/castelli/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/castelli/)*

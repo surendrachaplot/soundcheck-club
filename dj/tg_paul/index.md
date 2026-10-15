@@ -1,6 +1,6 @@
 # tg_paul
 
-tg_paul is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Bike Jesus, Prague on Fri, 16 Oct 2026.
+tg_paul is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Bike Jesus, Prague on Fri, 16 Oct 2026.
 
 tg_paul is a garage and house artist based in Czech Republic, with 31 gigs on soundcheck across Prague and Tbilisi. Often billed alongside C-Motion, Big Lil and Opi (CZ). Next up: Bike Jesus, Prague on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ tg_paul is a garage and house artist based in Czech Republic, with 31 gigs on so
 
 C-Motion, Big Lil, Opi (CZ)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tg_paul/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tg_paul/)*

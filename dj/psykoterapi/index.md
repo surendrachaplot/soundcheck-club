@@ -1,6 +1,6 @@
 # Psykoterapi
 
-Psykoterapi is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Slakthuset, Stockholm on Fri, 16 Oct 2026.
+Psykoterapi is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Slakthuset, Stockholm on Fri, 16 Oct 2026.
 
 Psykoterapi is a techno and tech house artist based in Sweden, with 25 gigs on soundcheck across Stockholm. Often billed alongside Dog on Acid, Jessie Granqvist and SkyVibes. Next up: Slakthuset, Stockholm on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Psykoterapi is a techno and tech house artist based in Sweden, with 25 gigs on s
 
 Dog on Acid, Jessie Granqvist, SkyVibes
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/psykoterapi/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/psykoterapi/)*

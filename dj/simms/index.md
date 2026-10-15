@@ -1,19 +1,19 @@
 # SIMMS
 
-SIMMS is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Love Inn, Bristol on Wed, 14 Oct 2026.
+SIMMS is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
 
-SIMMS is a jungle and drum & bass artist based in United Kingdom, with 71 gigs on soundcheck across Bristol, Edinburgh, Glasgow and Leeds and 3 more. Often billed alongside CITIZEN, BOLOJOEY and Blue Ringed Baby. Next up: The Love Inn, Bristol on Wed 14 Oct.
+SIMMS is a jungle and drum & bass artist based in United Kingdom, with 71 gigs on soundcheck across Bristol, Edinburgh, Glasgow and Leeds and 3 more. Often billed alongside CITIZEN, BOLOJOEY and Blue Ringed Baby. Next up: DRUMSHEDS, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 14 Oct 2026 | The Love Inn | Bristol |
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
 
+- The Love Inn, Bristol · Wed, 14 Oct 2026
 - Colour Factory, London · Sat, 10 Oct 2026
 - Stereo, Glasgow · Sat, 26 Sept 2026
 - Amber's, Manchester · Fri, 25 Sept 2026
@@ -21,10 +21,9 @@ SIMMS is a jungle and drum & bass artist based in United Kingdom, with 71 gigs o
 - TBA - SECRET HACKNEY LOCATION, London · Fri, 7 Aug 2026
 - Silverworks Island, London · Sun, 5 Jul 2026
 - Document, Bristol · Fri, 19 Jun 2026
-- The Fox and Firkin, London · Sat, 9 May 2026
 
 ## Shares bills with
 
 CITIZEN, BOLOJOEY, Blue Ringed Baby
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simms/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simms/)*

@@ -1,6 +1,6 @@
 # Beate Invites /// Jackfruit & Friends at Beate Uwe
 
-Beate Invites /// Jackfruit & Friends at Beate Uwe on Sat 17 Oct, Berlin. 3 artists: Danilo Kupfernagel, LEENI and Rabella. House and Disco. See the line-up on soundcheck.
+Beate Invites /// Jackfruit & Friends at Beate Uwe on Sat 17 Oct, Berlin. 2 artists: Juleklub and Rabella. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,7 @@ Beate Invites /// Jackfruit & Friends at Beate Uwe on Sat 17 Oct, Berlin. 3 arti
 
 ## Line-up
 
-- Danilo Kupfernagel
-- LEENI
+- Juleklub
 - Rabella
 
 *Source: [soundcheck](https://soundcheck.club/e/2518021-beate-invites-jackfruit-friends-at-beate-uwe/)*

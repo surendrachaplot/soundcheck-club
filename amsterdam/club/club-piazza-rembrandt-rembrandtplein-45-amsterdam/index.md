@@ -1,6 +1,6 @@
 # Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam
 
-Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. The next is "CHICAGO MEETS AMSTERDAM X ADE 26" on Sat, 24 Oct 2026.
+Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "CHICAGO MEETS AMSTERDAM X ADE 26" on Sat, 24 Oct 2026.
 
 Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including ADEZ, Bianchetti, DJ Vivona and MR. SKIN and 2 more. See dates, start times and who's playing. Rembrandtplein 45, 1017 CT Amsterdam, Paesi Bassi.
 
@@ -14,4 +14,4 @@ Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam is a music venue in Amsterd
 
 Rembrandtplein 45, 1017 CT Amsterdam, Paesi Bassi, Amsterdam
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-piazza-rembrandt-rembrandtplein-45-amsterdam/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-piazza-rembrandt-rembrandtplein-45-amsterdam/)*

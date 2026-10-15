@@ -1,6 +1,6 @@
 # Mandragora
 
-Mandragora is a Techno and Psytrance artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Loo Loo, Mexico City on Thu, 15 Oct 2026.
+Mandragora is a Techno and Psytrance artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Loo Loo, Mexico City on Thu, 15 Oct 2026.
 
 Mandragora is a techno and psytrance artist based in Brazil, with 43 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 16 more. Often billed alongside Vladimir Cauchemar, Angerfist and DYEN. Next up: Loo Loo, Mexico City on Thu 15 Oct.
 
@@ -29,4 +29,4 @@ Mandragora is a techno and psytrance artist based in Brazil, with 43 gigs on sou
 
 Vladimir Cauchemar, Angerfist, DYEN
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandragora/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandragora/)*

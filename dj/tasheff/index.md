@@ -1,14 +1,15 @@
 # Tasheff
 
-Tasheff is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Danger Danger, New York City on Thu, 15 Oct 2026.
+Tasheff is a Pop and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Danger Danger, New York City on Thu, 15 Oct 2026.
 
-Tasheff is a house and techno artist based in United States of America, with 22 gigs on soundcheck across New York City. Often billed alongside porygon k, ALLAN RITUAL and cute boys. Next up: Danger Danger, New York City on Thu 15 Oct.
+Tasheff is a pop and house artist based in United States of America, with 23 gigs on soundcheck across New York City. Often billed alongside porygon k, ALLAN RITUAL and cute boys. Next up: Danger Danger, New York City on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | Danger Danger | New York City |
+| Fri, 16 Oct 2026 | Oberon | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Tasheff is a house and techno artist based in United States of America, with 22 
 
 porygon k, ALLAN RITUAL, cute boys
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tasheff/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tasheff/)*

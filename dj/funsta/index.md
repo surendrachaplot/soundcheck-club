@@ -1,6 +1,6 @@
 # Funsta
 
-Funsta is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at XOYO, London on Sat, 7 Nov 2026.
+Funsta is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at XOYO, London on Sat, 7 Nov 2026.
 
 Funsta is a drum & bass and jungle artist based in United Kingdom, with 49 gigs on soundcheck across Brighton, Liverpool, London and Seoul. Often billed alongside Jumping Jack Frost, Moose and DJ Brockie. Next up: XOYO, London on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Funsta is a drum & bass and jungle artist based in United Kingdom, with 49 gigs 
 
 Jumping Jack Frost, Moose, DJ Brockie
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funsta/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funsta/)*

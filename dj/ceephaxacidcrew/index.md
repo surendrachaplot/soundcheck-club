@@ -1,6 +1,6 @@
 # Ceephax Acid Crew
 
-Ceephax Acid Crew is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 24 Oct 2026.
+Ceephax Acid Crew is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 24 Oct 2026.
 
 Ceephax Acid Crew is an acid and house artist, with 29 gigs on soundcheck across Antwerp, Berlin, Bristol and London and 7 more. Often billed alongside Binary Digit, DMX Krew and EN.VEE. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Ceephax Acid Crew is an acid and house artist, with 29 gigs on soundcheck across
 
 Binary Digit, DMX Krew, EN.VEE
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ceephaxacidcrew/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ceephaxacidcrew/)*

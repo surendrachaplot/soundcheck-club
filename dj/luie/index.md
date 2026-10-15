@@ -1,6 +1,6 @@
 # LUIE
 
-LUIE is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Baggen, Copenhagen on Thu, 15 Oct 2026.
+LUIE is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Baggen, Copenhagen on Thu, 15 Oct 2026.
 
 LUIE is a garage and techno artist based in Denmark, with 11 gigs on soundcheck across Barcelona and Copenhagen. Often billed alongside Valentina(DK), Ave Maria and DJ Lukey. Next up: Baggen, Copenhagen on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ LUIE is a garage and techno artist based in Denmark, with 11 gigs on soundcheck 
 
 Valentina(DK), Ave Maria, DJ Lukey
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luie/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luie/)*

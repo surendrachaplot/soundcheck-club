@@ -1,6 +1,6 @@
 # Bibi D'ragostino
 
-Bibi D'ragostino is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Location via Telegram Group, Berlin on Sat, 17 Oct 2026.
+Bibi D'ragostino is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Location via Telegram Group, Berlin on Sat, 17 Oct 2026.
 
 Bibi D'ragostino is a breakbeat and house artist, with 13 gigs on soundcheck across Berlin and Hamburg. Often billed alongside arthaus, Mavro and D-JIL. Next up: TBA - Location via Telegram Group, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Bibi D'ragostino is a breakbeat and house artist, with 13 gigs on soundcheck acr
 
 arthaus, Mavro, D-JIL
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bibidragostino/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bibidragostino/)*

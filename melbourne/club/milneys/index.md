@@ -1,6 +1,6 @@
 # Milneys
 
-Milneys is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "NLV presents: Nina Las Vegas, Swick, FOURA, Shuga, Laces & Erika Ever" on Fri, 16 Oct 2026.
+Milneys is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "NLV presents: Nina Las Vegas, Swick, FOURA, Shuga, Laces & Erika Ever" on Fri, 16 Oct 2026.
 
 Milneys is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including Draw 4, Erika Ever, FOURA and Laces and 2 more. See dates, start times and who's playing. 451b Brunswick St, Fitzroy VIC 3065.
 
@@ -16,4 +16,4 @@ Milneys is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, wit
 
 451b Brunswick St, Fitzroy VIC 3065, Melbourne
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/milneys/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/milneys/)*

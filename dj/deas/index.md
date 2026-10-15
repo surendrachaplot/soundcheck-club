@@ -1,6 +1,6 @@
 # Deas
 
-Deas is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Smolna, Warsaw on Fri, 23 Oct 2026.
+Deas is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Smolna, Warsaw on Fri, 23 Oct 2026.
 
 Deas is a techno and house artist based in Poland, with 54 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 17 more. Often billed alongside Hiago Pauli, ENTHUSE and Edvvin. Next up: Smolna, Warsaw on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Deas is a techno and house artist based in Poland, with 54 gigs on soundcheck ac
 
 Hiago Pauli, ENTHUSE, Edvvin
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deas/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deas/)*

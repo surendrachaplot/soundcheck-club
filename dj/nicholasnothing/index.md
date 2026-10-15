@@ -1,0 +1,28 @@
+# Nicholas Nothing
+
+Nicholas Nothing is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Rhythm, Toronto on Fri, 13 Nov 2026.
+
+Nicholas Nothing is a house and deep house artist, with 24 gigs on soundcheck across Toronto. Often billed alongside Edan Negrin, Paul Quzz and Carlos Estebban. Next up: Rhythm, Toronto on Fri 13 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 13 Nov 2026 | Rhythm | Toronto |
+
+## Recently played
+
+- Paradise Grapevine Winery, Toronto · Sat, 19 Sept 2026
+- Soleil, Toronto · Sat, 12 Sept 2026
+- Open Aera, Toronto · Thu, 3 Sept 2026
+- Cherry Beach, Toronto · Sun, 5 Jul 2026
+- Reverie at the Park, Toronto · Fri, 19 Jun 2026
+- Tapestry, Toronto · Sat, 30 May 2026
+- Motorista Studio, Toronto · Sat, 18 Apr 2026
+- Standard Time, Toronto · Fri, 20 Feb 2026
+
+## Shares bills with
+
+Edan Negrin, Paul Quzz, Carlos Estebban
+
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicholasnothing/)*

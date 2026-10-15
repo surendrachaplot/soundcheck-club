@@ -1,6 +1,6 @@
 # Mista Wallizz
 
-Mista Wallizz is a Amapiano and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Maaya, Berlin on Fri, 16 Oct 2026.
+Mista Wallizz is a Amapiano and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Maaya, Berlin on Fri, 16 Oct 2026.
 
 Mista Wallizz is an amapiano and afrobeat artist, with 25 gigs on soundcheck across Berlin, Hamburg and Stuttgart. Often billed alongside Ukãi Ndame, Gojas and Juba. Next up: Maaya, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Mista Wallizz is an amapiano and afrobeat artist, with 25 gigs on soundcheck acr
 
 Ukãi Ndame, Gojas, Juba
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mistawallizz/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mistawallizz/)*

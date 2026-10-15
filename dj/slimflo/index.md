@@ -1,6 +1,6 @@
 # Slimflo
 
-Slimflo is a Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Hive Club, Zurich on Sat, 17 Oct 2026.
+Slimflo is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Hive Club, Zurich on Sat, 17 Oct 2026.
 
 Slimflo is a techno artist based in Switzerland, with 2 gigs on soundcheck across Amsterdam and Zurich. Often billed alongside ACID FLORA, Alex Medina and Alex Sharp. Next up: Hive Club, Zurich on Sat 17 Oct.
 
@@ -15,4 +15,4 @@ Slimflo is a techno artist based in Switzerland, with 2 gigs on soundcheck acros
 
 ACID FLORA, Alex Medina, Alex Sharp
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slimflo/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slimflo/)*

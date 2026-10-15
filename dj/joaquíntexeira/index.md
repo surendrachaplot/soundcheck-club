@@ -1,13 +1,14 @@
 # Joaquín Texeira
 
-Joaquín Texeira is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Subcero Club, Madrid on Fri, 23 Oct 2026.
+Joaquín Texeira is a Electronica and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at High Club Room, Madrid on Sat, 17 Oct 2026.
 
-Joaquín Texeira is an electronica and electro artist based in Portugal, with 8 gigs on soundcheck across Dublin, Lisbon and Madrid. Often billed alongside Straka, Axel Amara and Billi. Next up: Subcero Club, Madrid on Fri 23 Oct.
+Joaquín Texeira is an electronica and electro artist based in Portugal, with 9 gigs on soundcheck across Dublin, Lisbon and Madrid. Often billed alongside Chris Gorrie, Straka and Axel Amara. Next up: High Club Room, Madrid on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | High Club Room | Madrid |
 | Fri, 23 Oct 2026 | Subcero Club | Madrid |
 
 ## Recently played
@@ -22,6 +23,6 @@ Joaquín Texeira is an electronica and electro artist based in Portugal, with 8 
 
 ## Shares bills with
 
-Straka (2), Axel Amara, Billi
+Chris Gorrie, Straka (2), Axel Amara
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joaquíntexeira/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joaquíntexeira/)*

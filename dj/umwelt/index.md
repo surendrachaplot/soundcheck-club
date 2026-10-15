@@ -1,6 +1,6 @@
 # Umwelt
 
-Umwelt is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Secret Loft Location, New York City on Fri, 30 Oct 2026.
+Umwelt is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Secret Loft Location, New York City on Fri, 30 Oct 2026.
 
 Umwelt is a techno and electro artist based in France, with 54 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 18 more. Often billed alongside DAX J, Chloe Lula and Terence Fixmer. Next up: TBA - Secret Loft Location, New York City on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Umwelt is a techno and electro artist based in France, with 54 gigs on soundchec
 
 DAX J, Chloe Lula (3), Terence Fixmer
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/umwelt/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/umwelt/)*

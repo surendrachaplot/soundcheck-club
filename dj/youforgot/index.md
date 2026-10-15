@@ -1,14 +1,15 @@
 # YouForgot
 
-YouForgot is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at PBOX STND, Tokyo on Fri, 16 Oct 2026.
+YouForgot is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at PBOX STND, Tokyo on Fri, 16 Oct 2026.
 
-YouForgot is a techno and house artist based in Japan, with 100 gigs on soundcheck across Chubu, Osaka, Seoul and Tokyo. Often billed alongside DJ HI-C, Yo Nishijima and Sunga. Next up: PBOX STND, Tokyo on Fri 16 Oct.
+YouForgot is a techno and house artist based in Japan, with 101 gigs on soundcheck across Chubu, Osaka, Seoul and Tokyo. Often billed alongside DJ HI-C, Yo Nishijima and Sunga. Next up: PBOX STND, Tokyo on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | PBOX STND | Tokyo |
+| Fri, 16 Oct 2026 | Red Bar | Tokyo |
 | Fri, 30 Oct 2026 | WOMB | Tokyo |
 | Sat, 5 Dec 2026 | Club Daphnia | Osaka |
 
@@ -27,4 +28,4 @@ YouForgot is a techno and house artist based in Japan, with 100 gigs on soundche
 
 DJ HI-C, Yo Nishijima, Sunga
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youforgot/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youforgot/)*

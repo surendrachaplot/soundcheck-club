@@ -1,0 +1,20 @@
+# SUBconscious // [[Function Records Jungle DnB Showcase]] Digital & Charla Green at Village Underground Barcelona
+
+SUBconscious // [[Function Records Jungle DnB Showcase]] Digital & Charla Green at Village Underground Barcelona on Sat 21 Nov, Barcelona. 6 artists: Charla Green, Egres, Jon-roy and MC Stormy and 2 more. Drum & Bass and Jungle. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 21 Nov 2026 |
+| Venue | Village Underground Barcelona |
+| City | Barcelona |
+
+## Line-up
+
+- Charla Green
+- Egres
+- Jon-roy
+- MC Stormy
+- Sekev
+- VJ Meerkat
+
+*Source: [soundcheck](https://soundcheck.club/e/2534617-subconscious-function-records-jungle-dnb-showcase-digital-ch/)*

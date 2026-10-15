@@ -1,6 +1,6 @@
 # WHAT.THE.EL at Four Quarters
 
-WHAT.THE.EL at Four Quarters on Fri 13 Nov, London. 5 artists: Cass Brewster, Cristian Ebasta, El Cassar and PERILOUS P and 1 more. Tech House and Minimal. See the line-up on soundcheck.
+WHAT.THE.EL at Four Quarters on Fri 13 Nov, London. 6 artists: Cass Brewster, Cristian Ebasta, DJ iLEOSA and El Cassar and 2 more. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ WHAT.THE.EL at Four Quarters on Fri 13 Nov, London. 5 artists: Cass Brewster, Cr
 
 - Cass Brewster
 - Cristian Ebasta
+- DJ iLEOSA
 - El Cassar
 - PERILOUS P
 - Ty Henry

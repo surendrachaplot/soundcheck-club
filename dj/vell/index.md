@@ -1,6 +1,6 @@
 # Vell
 
-Vell is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Dual, Bangkok on Fri, 16 Oct 2026.
+Vell is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Dual, Bangkok on Fri, 16 Oct 2026.
 
 Vell is a house and techno artist based in United Kingdom, with 25 gigs on soundcheck across Bangkok and Seoul. Often billed alongside Chalo, Issasha and DOTT. Next up: Dual, Bangkok on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Vell is a house and techno artist based in United Kingdom, with 25 gigs on sound
 
 Chalo, Issasha, DOTT
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vell/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vell/)*

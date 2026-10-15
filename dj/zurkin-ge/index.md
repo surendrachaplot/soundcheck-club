@@ -1,6 +1,6 @@
 # Zurkin
 
-Zurkin is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The 1896, New York City on Sat, 17 Oct 2026.
+Zurkin is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The 1896, New York City on Sat, 17 Oct 2026.
 
 Zurkin is a house and techno artist based in Georgia, with 116 gigs on soundcheck across Barcelona, Berlin, London and Lyon and 9 more. Often billed alongside Zitto, Gio Shengelia and Vakho. Next up: The 1896, New York City on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Zurkin is a house and techno artist based in Georgia, with 116 gigs on soundchec
 
 Zitto, Gio Shengelia, Vakho
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zurkin-ge/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zurkin-ge/)*

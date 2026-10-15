@@ -1,13 +1,14 @@
 # SCHRZØ
 
-SCHRZØ is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Dabadaba, North on Sat, 26 Dec 2026.
+SCHRZØ is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Spook Club, Valencia on Sat, 12 Dec 2026.
 
-SCHRZØ is a techno and industrial artist based in Spain, with 8 gigs on soundcheck across Barcelona, Madrid, North and Valencia. Often billed alongside Dani Soto, RBNK and Adversario. Next up: Dabadaba, North on Sat 26 Dec.
+SCHRZØ is a techno and tech house artist based in Spain, with 9 gigs on soundcheck across Barcelona, Madrid, North and Valencia. Often billed alongside Dani Soto, RBNK and Adversario. Next up: Spook Club, Valencia on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | Spook Club | Valencia |
 | Sat, 26 Dec 2026 | Dabadaba | North |
 
 ## Recently played
@@ -24,4 +25,4 @@ SCHRZØ is a techno and industrial artist based in Spain, with 8 gigs on soundch
 
 Dani Soto, RBNK, Adversario
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schrzo/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schrzo/)*

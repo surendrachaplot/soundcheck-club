@@ -1,8 +1,8 @@
 # Styro 2000
 
-Styro 2000 is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Kauz, Zurich on Sun, 25 Oct 2026.
+Styro 2000 is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Kauz, Zurich on Sun, 25 Oct 2026.
 
-Styro 2000 is a house and tech house artist based in Switzerland, with 28 gigs on soundcheck across Berlin, Munich, Stuttgart and Zurich. Often billed alongside Playlove, fabulus and Juli Lee. Next up: Kauz, Zurich on Sun 25 Oct.
+Styro 2000 is a house and tech house artist based in Switzerland, with 29 gigs on soundcheck across Berlin, Munich, Stuttgart and Zurich. Often billed alongside Playlove, fabulus and Juli Lee. Next up: Kauz, Zurich on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Styro 2000 is a house and tech house artist based in Switzerland, with 28 gigs o
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Kauz | Zurich |
 | Thu, 29 Oct 2026 | Supermarket | Zurich |
+| Sat, 7 Nov 2026 | Kauz | Zurich |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Styro 2000 is a house and tech house artist based in Switzerland, with 28 gigs o
 
 Playlove, fabulus, Juli Lee
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/styro2000/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/styro2000/)*

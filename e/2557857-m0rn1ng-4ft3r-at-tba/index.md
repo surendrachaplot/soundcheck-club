@@ -1,6 +1,6 @@
 # M0RN1NG 4FT3R at TBA
 
-M0RN1NG 4FT3R at TBA on Sun 25 Oct, Amsterdam. 2 artists: Alberto Tolo and MARRØN. Techno and House. See the line-up on soundcheck.
+M0RN1NG 4FT3R at TBA on Sun 25 Oct, Amsterdam. 3 artists: Akua, Alberto Tolo and MARRØN. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ M0RN1NG 4FT3R at TBA on Sun 25 Oct, Amsterdam. 2 artists: Alberto Tolo and MARR�
 
 ## Line-up
 
+- Akua
 - Alberto Tolo
 - MARRØN
 

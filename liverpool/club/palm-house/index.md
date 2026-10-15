@@ -1,6 +1,6 @@
 # Palm House
 
-Palm House is a music venue in Liverpool with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "An Evening With Todd Terry at The Palm House - Liverpool" on Fri, 30 Oct 2026.
+Palm House is a music venue in Liverpool with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "An Evening With Todd Terry at The Palm House - Liverpool" on Fri, 30 Oct 2026.
 
 Palm House is a music venue in Liverpool listed on soundcheck. 6 upcoming gigs, with line-ups including Greg Wilson, K-Klass, Tall Paul and Todd Terry. See dates, start times and who's playing. Sefton Park; Liverpool; L17 1AP; United Kingdom.
 
@@ -19,4 +19,4 @@ Palm House is a music venue in Liverpool listed on soundcheck. 6 upcoming gigs, 
 
 Sefton Park; Liverpool; L17 1AP; United Kingdom, Liverpool
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/palm-house/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/palm-house/)*

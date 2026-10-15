@@ -1,14 +1,15 @@
 # LERM
 
-LERM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Dojo Boutique Club, Budapest on Fri, 16 Oct 2026.
+LERM is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Dojo Boutique Club, Budapest on Fri, 16 Oct 2026.
 
-LERM is a techno and house artist based in Hungary, with 19 gigs on soundcheck across Auckland, Barcelona, Budapest and Mexico City and 2 more. Often billed alongside Secret Factory, DJ Rush and Daria Kolosova. Next up: Dojo Boutique Club, Budapest on Fri 16 Oct.
+LERM is a techno and house artist based in Hungary, with 20 gigs on soundcheck across Auckland, Barcelona, Budapest and Mexico City and 2 more. Often billed alongside Secret Factory, Sobek and DJ Rush. Next up: Dojo Boutique Club, Budapest on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Dojo Boutique Club | Budapest |
+| Fri, 30 Oct 2026 | Hungarian Railway Museum | Budapest |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ LERM is a techno and house artist based in Hungary, with 19 gigs on soundcheck a
 
 ## Shares bills with
 
-Secret Factory, DJ Rush, Daria Kolosova
+Secret Factory, Sobek, DJ Rush
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lerm/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lerm/)*

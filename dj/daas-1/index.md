@@ -1,6 +1,6 @@
 # DAAS (1)
 
-DAAS (1) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Not so secret location (check the poster), Berlin on Fri, 16 Oct 2026.
+DAAS (1) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Not so secret location (check the poster), Berlin on Fri, 16 Oct 2026.
 
 DAAS is a house and deep house artist, with 15 gigs on soundcheck across Berlin and Marseille. Often billed alongside MARIE.MOON, No Silver Bullet and Daya Pruna. Next up: TBA - Not so secret location (check the poster), Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ DAAS is a house and deep house artist, with 15 gigs on soundcheck across Berlin 
 
 MARIE.MOON, No Silver Bullet, Daya Pruna
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daas-1/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daas-1/)*

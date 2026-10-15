@@ -1,6 +1,6 @@
 # VFY (1)
 
-VFY (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Mtkvarze, Tbilisi on Sat, 17 Oct 2026.
+VFY (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Mtkvarze, Tbilisi on Sat, 17 Oct 2026.
 
 VFY is a house and techno artist based in Georgia, with 31 gigs on soundcheck across Tbilisi. Often billed alongside Sevda, Toko k and Tomma. Next up: Mtkvarze, Tbilisi on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ VFY is a house and techno artist based in Georgia, with 31 gigs on soundcheck ac
 
 Sevda, Toko k, Tomma
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vfy-1/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vfy-1/)*

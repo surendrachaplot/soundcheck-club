@@ -1,6 +1,6 @@
 # salute
 
-salute is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Yamamori Tengu, Dublin on Fri, 16 Oct 2026.
+salute is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Yamamori Tengu, Dublin on Fri, 16 Oct 2026.
 
 salute is a house and techno artist based in Austria, with 198 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 61 more. Often billed alongside DJ BORING, Eliza Rose and HAAi. Next up: Yamamori Tengu, Dublin on Fri 16 Oct.
 
@@ -36,4 +36,4 @@ salute is a house and techno artist based in Austria, with 198 gigs on soundchec
 
 DJ BORING, Eliza Rose, HAAi
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*

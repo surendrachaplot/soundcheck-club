@@ -1,13 +1,14 @@
 # Eitetsu Takamiya
 
-Eitetsu Takamiya is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Tue, 17 Nov 2026.
+Eitetsu Takamiya is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Ximxim Bar, Seoul on Fri, 6 Nov 2026.
 
-Eitetsu Takamiya is a house and disco artist based in Japan, with 60 gigs on soundcheck across Tokyo. Often billed alongside Toshiyuki Goto, DJ Nori and Dazzle Drums. Next up: DJ Bar Bridge Shinjuku, Tokyo on Tue 17 Nov.
+Eitetsu Takamiya is a house and disco artist based in Japan, with 61 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Toshiyuki Goto, DJ Nori and Dazzle Drums. Next up: Ximxim Bar, Seoul on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Ximxim Bar | Seoul |
 | Tue, 17 Nov 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 | Tue, 15 Dec 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 
@@ -26,4 +27,4 @@ Eitetsu Takamiya is a house and disco artist based in Japan, with 60 gigs on sou
 
 Toshiyuki Goto, DJ Nori, Dazzle Drums
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eitetsutakamiya/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eitetsutakamiya/)*

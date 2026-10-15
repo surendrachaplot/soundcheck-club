@@ -1,8 +1,8 @@
 # BIIA
 
-BIIA is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Kilomètre25, Paris on Fri, 16 Oct 2026.
+BIIA is a Techno and Hardcore artist with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Kilomètre25, Paris on Fri, 16 Oct 2026.
 
-BIIA is a techno and hardcore artist based in Portugal, with 146 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 52 more. Often billed alongside Shlømo, Alignment and Basswell. Next up: Kilomètre25, Paris on Fri 16 Oct.
+BIIA is a techno and hardcore artist based in Portugal, with 147 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 53 more. Often billed alongside Shlømo, Alignment and Basswell. Next up: Kilomètre25, Paris on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ BIIA is a techno and hardcore artist based in Portugal, with 146 gigs on soundch
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sat, 24 Oct 2026 | AUX Club | Athens |
 | Sat, 14 Nov 2026 | Fabrik | Madrid |
+| Fri, 27 Nov 2026 | block. | Dublin |
 | Wed, 30 Dec 2026 | MUENZE | Berlin |
 
 ## Recently played
@@ -30,4 +31,4 @@ BIIA is a techno and hardcore artist based in Portugal, with 146 gigs on soundch
 
 Shlømo, Alignment, Basswell
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biia/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biia/)*

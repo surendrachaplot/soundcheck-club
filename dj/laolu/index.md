@@ -1,6 +1,6 @@
 # Laolu
 
-Laolu is a Afro House and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Westerkerk, Amsterdam on Thu, 22 Oct 2026.
+Laolu is a Afro House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Westerkerk, Amsterdam on Thu, 22 Oct 2026.
 
 Laolu is an afro house and house artist based in Switzerland, with 97 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 26 more. Often billed alongside La Forêt, Ankhoï and Rimbu (CH). Next up: Westerkerk, Amsterdam on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Laolu is an afro house and house artist based in Switzerland, with 97 gigs on so
 
 La Forêt, Ankhoï, Rimbu (CH)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laolu/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laolu/)*

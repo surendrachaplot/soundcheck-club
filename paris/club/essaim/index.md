@@ -1,6 +1,6 @@
 # essaim
 
-essaim is a music venue in Paris with 19 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "tribalism modular live sets - Colin Benders Live, Rue B Live, Vera Grace Live" on Fri, 16 Oct 2026.
+essaim is a music venue in Paris with 19 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "tribalism modular live sets - Colin Benders Live, Rue B Live, Vera Grace Live" on Fri, 16 Oct 2026.
 
 essaim is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with line-ups including Justine Perry, A.Litique, Aleqs Notal and Altinbas and 2 more. See dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
 
@@ -23,4 +23,4 @@ essaim is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with li
 
 14 Rue Philippe de Girard, 75010 Paris, Paris
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*

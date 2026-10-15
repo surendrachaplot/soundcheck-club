@@ -1,6 +1,6 @@
 # Fonoteek
 
-Fonoteek is a music venue in Tallinn with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Elektröönika 2nd Birthday Bash" on Fri, 16 Oct 2026.
+Fonoteek is a music venue in Tallinn with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Elektröönika 2nd Birthday Bash" on Fri, 16 Oct 2026.
 
 Fonoteek is a music venue in Tallinn listed on soundcheck. 6 upcoming gigs, with line-ups including Fedo (UA), Lill, QSLAP and Silat Beksi. See dates, start times and who's playing. Telliskivi tn 62, 10412 ,Tallinn, Estonia.
 
@@ -19,4 +19,4 @@ Fonoteek is a music venue in Tallinn listed on soundcheck. 6 upcoming gigs, with
 
 Telliskivi tn 62, 10412 ,Tallinn, Estonia, Tallinn
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/fonoteek/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/fonoteek/)*

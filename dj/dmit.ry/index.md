@@ -1,6 +1,6 @@
 # dMIT.RY
 
-dMIT.RY is a Club and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Tendance, Prague on Thu, 15 Oct 2026.
+dMIT.RY is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Tendance, Prague on Thu, 15 Oct 2026.
 
 dMIT.RY is a club and house artist, with 107 gigs on soundcheck across Prague. Often billed alongside Kredenc, Chep and Olinstvi. Next up: Tendance, Prague on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ dMIT.RY is a club and house artist, with 107 gigs on soundcheck across Prague. O
 
 Kredenc, Chep, Olinstvi
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dmit.ry/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dmit.ry/)*

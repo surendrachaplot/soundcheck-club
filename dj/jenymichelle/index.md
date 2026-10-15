@@ -1,14 +1,15 @@
 # Jeny Michelle
 
-Jeny Michelle is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Nublu, New York City on Fri, 16 Oct 2026.
+Jeny Michelle is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Nublu, New York City on Fri, 16 Oct 2026.
 
-Jeny Michelle is a house and minimal artist based in Mexico, with 74 gigs on soundcheck across London, Mexico City, New York City and San Diego and 1 more. Often billed alongside Auphoria, Amba and shanty mane. Next up: Nublu, New York City on Fri 16 Oct.
+Jeny Michelle is a house and minimal artist based in Mexico, with 75 gigs on soundcheck across London, Mexico City, New York City and San Diego and 1 more. Often billed alongside Auphoria, shanty mane and Amba. Next up: Nublu, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Nublu | New York City |
+| Fri, 6 Nov 2026 | TBA - Secret Location | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Jeny Michelle is a house and minimal artist based in Mexico, with 74 gigs on sou
 
 ## Shares bills with
 
-Auphoria, Amba, shanty mane
+Auphoria, shanty mane, Amba
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenymichelle/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenymichelle/)*

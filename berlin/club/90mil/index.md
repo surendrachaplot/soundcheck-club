@@ -1,14 +1,13 @@
 # 90mil
 
-90mil is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "salox90mil: My New Band Believe + Jasper Llewellyn (Caroline)" on Wed, 14 Oct 2026.
+90mil is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "90mil presents: KULKU & MONOSUM" on Fri, 16 Oct 2026.
 
-90mil is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including abstraqt, Alex Jenkin, CuCiCuCi and Different Shades and 2 more. See dates, start times and who's playing. Holzmarktstrasse 19-23, 10243 Berlin.
+90mil is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including abstraqt, Alex Jenkin, CuCiCuCi and Different Shades and 2 more. See dates, start times and who's playing. Holzmarktstrasse 19-23, 10243 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 14 Oct 2026 | salox90mil: My New Band Believe + Jasper Llewellyn (Caroline) |  |
 | Fri, 16 Oct 2026 | 90mil presents: KULKU & MONOSUM | MONOSUM, Miri Malek |
 | Thu, 5 Nov 2026 | salox90mil: Dagmar Zuniga + nykolaes & Daniël Paul |  |
 | Sat, 7 Nov 2026 | Dwam birthday | Different Shades, Hilary C/B, Iceboy Violet, Miri Malek, teiaaa |
@@ -19,4 +18,4 @@
 
 Holzmarktstrasse 19-23, 10243 Berlin, Berlin
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/90mil/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/90mil/)*

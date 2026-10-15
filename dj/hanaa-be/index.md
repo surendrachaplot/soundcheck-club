@@ -1,6 +1,6 @@
 # HANAA
 
-HANAA is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at ÆDEN, Berlin on Sat, 24 Oct 2026.
+HANAA is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at ÆDEN, Berlin on Sat, 24 Oct 2026.
 
 HANAA is a techno and trance artist based in Belgium, with 7 gigs on soundcheck across Berlin, Geneva, London and Manchester and 2 more. Often billed alongside Alex Farell, Anetha and ELOISA. Next up: ÆDEN, Berlin on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ HANAA is a techno and trance artist based in Belgium, with 7 gigs on soundcheck 
 
 Alex Farell, Anetha, ELOISA
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hanaa-be/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hanaa-be/)*

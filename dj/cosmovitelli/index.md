@@ -1,8 +1,8 @@
 # Cosmo Vitelli
 
-Cosmo Vitelli is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 16 Oct 2026.
+Cosmo Vitelli is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 16 Oct 2026.
 
-Cosmo Vitelli is a techno and house artist based in France, with 24 gigs on soundcheck across Belgrade, Berlin, Bristol and Leeds and 8 more. Often billed alongside Franz Scala, Acid Washed and An-i. Next up: RSO.BERLIN, Berlin on Fri 16 Oct.
+Cosmo Vitelli is a techno and house artist based in France, with 24 gigs on soundcheck across Belgrade, Berlin, Bristol and Leeds and 8 more. Often billed alongside Franz Scala, Fabrizio Mammarella and Acid Washed. Next up: RSO.BERLIN, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Cosmo Vitelli is a techno and house artist based in France, with 24 gigs on soun
 
 ## Shares bills with
 
-Franz Scala, Acid Washed, An-i
+Franz Scala, Fabrizio Mammarella, Acid Washed
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmovitelli/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmovitelli/)*

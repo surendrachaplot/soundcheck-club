@@ -1,6 +1,6 @@
 # George Bleicher
 
-George Bleicher is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Palais, Munich on Fri, 23 Oct 2026.
+George Bleicher is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Palais, Munich on Fri, 23 Oct 2026.
 
 George Bleicher is a techno and tech house artist based in Germany, with 32 gigs on soundcheck across Berlin and Munich. Often billed alongside Dj Sonic, Sandra Gold and Stan Starry. Next up: Palais, Munich on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ George Bleicher is a techno and tech house artist based in Germany, with 32 gigs
 
 Dj Sonic, Sandra Gold, Stan Starry
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgebleicher/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgebleicher/)*

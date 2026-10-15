@@ -1,6 +1,6 @@
 # Bar Franca
 
-Bar Franca is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "TheyHouse" on Sun, 18 Oct 2026.
+Bar Franca is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "TheyHouse" on Sun, 18 Oct 2026.
 
 Bar Franca is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including Calvin Dunn, Dekmantel Soundsystem, Demi Riquisimo and Masha Mar and 2 more. See dates, start times and who's playing. 438 S Main St, Los Angeles, CA 90013.
 
@@ -17,4 +17,4 @@ Bar Franca is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs
 
 438 S Main St, Los Angeles, CA 90013, Los Angeles
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/bar-franca/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/bar-franca/)*

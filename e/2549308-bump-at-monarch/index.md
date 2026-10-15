@@ -1,6 +1,6 @@
 # Bump at Monarch
 
-Bump at Monarch on Thu 15 Oct, San Francisco/Oakland. 1 artist: Huffy. House and Disco. See the line-up on soundcheck.
+Bump at Monarch on Thu 15 Oct, San Francisco/Oakland. 2 artists: Huffy and Juanelo. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Bump at Monarch on Thu 15 Oct, San Francisco/Oakland. 1 artist: Huffy. House and
 ## Line-up
 
 - Huffy (2)
+- Juanelo
 
 *Source: [soundcheck](https://soundcheck.club/e/2549308-bump-at-monarch/)*

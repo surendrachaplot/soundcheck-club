@@ -1,8 +1,8 @@
 # Kaufmann
 
-Kaufmann is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Fri, 16 Oct 2026.
+Kaufmann is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Fri, 16 Oct 2026.
 
-Kaufmann is a techno and house artist based in Germany, with 149 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Barcelona and 23 more. Often billed alongside Leon Licht, Memo. and ADAMN. Next up: Uebel & Gefährlich, Hamburg on Fri 16 Oct.
+Kaufmann is a techno and house artist based in Germany, with 150 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Barcelona and 23 more. Often billed alongside Leon Licht, Memo. and ADAMN. Next up: Uebel & Gefährlich, Hamburg on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Kaufmann is a techno and house artist based in Germany, with 149 gigs on soundch
 | Fri, 30 Oct 2026 | Smolna | Warsaw |
 | Fri, 6 Nov 2026 | Fridas Pier | Stuttgart |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
+| Sat, 12 Dec 2026 | fi | Cologne |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Kaufmann is a techno and house artist based in Germany, with 149 gigs on soundch
 
 Leon Licht, Memo., ADAMN
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaufmann/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaufmann/)*

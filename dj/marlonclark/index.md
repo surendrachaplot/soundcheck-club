@@ -1,6 +1,6 @@
 # Marlon Clark
 
-Marlon Clark is a Minimal Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Compufunk Records, Osaka on Sat, 24 Oct 2026.
+Marlon Clark is a Minimal Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Compufunk Records, Osaka on Sat, 24 Oct 2026.
 
 Marlon Clark is a minimal techno and electronica artist, with 9 gigs on soundcheck across Brussels, Copenhagen, Glasgow and Leeds and 3 more. Often billed alongside Jake Hodgkinson, BP and Carl H. Next up: Compufunk Records, Osaka on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Marlon Clark is a minimal techno and electronica artist, with 9 gigs on soundche
 
 Jake Hodgkinson, BP (1), Carl H
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonclark/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonclark/)*

@@ -1,6 +1,6 @@
 # Nicole
 
-Nicole is a Funk / Soul and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 16 Oct 2026.
+Nicole is a Funk / Soul and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 16 Oct 2026.
 
 Nicole is a funk / soul and tech house artist based in Croatia, with 16 gigs on soundcheck across Barcelona, Berlin, Milan and Tbilisi and 1 more. Often billed alongside Bekuchi, Chica Paula and Felix Hk. Next up: Mtkvarze, Tbilisi on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Nicole is a funk / soul and tech house artist based in Croatia, with 16 gigs on 
 
 Bekuchi, Chica Paula, Felix Hk
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicole/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicole/)*

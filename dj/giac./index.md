@@ -1,6 +1,6 @@
 # giac.
 
-giac. is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 15 Oct 2026.
+giac. is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 15 Oct 2026.
 
 giac. is a house and electro artist based in Italy, with 49 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Swann, Martini Raw and Pau Rosés. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ giac. is a house and electro artist based in Italy, with 49 gigs on soundcheck a
 
 Swann, Martini Raw, Pau Rosés
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giac./)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giac./)*

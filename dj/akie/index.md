@@ -1,6 +1,6 @@
 # Akie
 
-Akie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Mitsuki, Tokyo on Mon, 19 Oct 2026.
+Akie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Mitsuki, Tokyo on Mon, 19 Oct 2026.
 
 Akie is a techno and house artist based in Japan, with 60 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside YAMARCHY, CHIDA and DJ Nobu. Next up: Mitsuki, Tokyo on Mon 19 Oct.
 
@@ -25,4 +25,4 @@ Akie is a techno and house artist based in Japan, with 60 gigs on soundcheck acr
 
 YAMARCHY, CHIDA, DJ Nobu
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akie/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akie/)*

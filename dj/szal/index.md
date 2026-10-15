@@ -1,6 +1,6 @@
 # SZAL
 
-SZAL is a Baile Funk and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Island, Bristol on Fri, 23 Oct 2026.
+SZAL is a Baile Funk and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Island, Bristol on Fri, 23 Oct 2026.
 
 SZAL is a baile funk and club artist based in Brazil, with 12 gigs on soundcheck across Berlin, Birmingham, Bristol and London and 2 more. Often billed alongside GUS, JCVS and Don Lino. Next up: The Island, Bristol on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ SZAL is a baile funk and club artist based in Brazil, with 12 gigs on soundcheck
 
 GUS (4), JCVS, Don Lino
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/szal/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/szal/)*

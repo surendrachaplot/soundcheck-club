@@ -1,6 +1,6 @@
 # Mazi
 
-Mazi is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Smolna, Warsaw on Sun, 1 Nov 2026.
+Mazi is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Smolna, Warsaw on Sun, 1 Nov 2026.
 
 Mazi is a house and acid artist based in United States of America, with 20 gigs on soundcheck across Amsterdam, Chicago and Warsaw. Often billed alongside Geto Mark, Janesita and Audio Soul Project. Next up: Smolna, Warsaw on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Mazi is a house and acid artist based in United States of America, with 20 gigs 
 
 Geto Mark, Janesita, Audio Soul Project
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazi/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazi/)*

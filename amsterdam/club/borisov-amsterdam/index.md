@@ -1,6 +1,6 @@
 # Borisov Amsterdam
 
-Borisov Amsterdam is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Vessel presents Kenny Dope & Todd Terry" on Thu, 22 Oct 2026.
+Borisov Amsterdam is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Vessel presents Kenny Dope & Todd Terry" on Thu, 22 Oct 2026.
 
 Borisov Amsterdam is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including Altinbas, Andy Garvey, dirtydms and Eversines and 2 more. See dates, start times and who's playing. Rigakade 10 1013 BC Amsterdam, Netherlands.
 
@@ -17,4 +17,4 @@ Borisov Amsterdam is a music venue in Amsterdam listed on soundcheck. 4 upcoming
 
 Rigakade 10 1013 BC Amsterdam, Netherlands, Amsterdam
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/borisov-amsterdam/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/borisov-amsterdam/)*

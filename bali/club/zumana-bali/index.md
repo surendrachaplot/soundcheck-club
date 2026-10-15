@@ -1,14 +1,13 @@
 # Zumana Bali
 
-Zumana Bali is a music venue in Bali with 18 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Argy" on Wed, 14 Oct 2026.
+Zumana Bali is a music venue in Bali with 17 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Artbat" on Fri, 16 Oct 2026.
 
-Zumana Bali is a music venue in Bali listed on soundcheck. 18 upcoming gigs, with line-ups including Artbat, Argy, BRAD WATTS and Cameron Jack and 2 more. See dates, start times and who's playing.
+Zumana Bali is a music venue in Bali listed on soundcheck. 17 upcoming gigs, with line-ups including Artbat, BRAD WATTS, Cameron Jack and Francesco Castelli and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 14 Oct 2026 | Argy | Argy |
 | Fri, 16 Oct 2026 | Artbat | Artbat |
 | Fri, 16 Oct 2026 | Artbat | Artbat |
 | Sat, 17 Oct 2026 | Elation & Zumana presents Ritual of the Sun | BRAD WATTS, Francesco Castelli |
@@ -18,5 +17,6 @@ Zumana Bali is a music venue in Bali listed on soundcheck. 18 upcoming gigs, wit
 | Wed, 4 Nov 2026 | Enoo Napa | Enoo Napa |
 | Fri, 6 Nov 2026 | ELVIS GUETTA |  |
 | Sat, 7 Nov 2026 | Cameron Jack | Cameron Jack |
+| Wed, 11 Nov 2026 | Tayllor |  |
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*

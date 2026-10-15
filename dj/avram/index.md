@@ -1,6 +1,6 @@
 # Avram
 
-Avram is a Electronica and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at control, Bucharest on Sat, 17 Oct 2026.
+Avram is a Electronica and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at control, Bucharest on Sat, 17 Oct 2026.
 
 Avram is an electronica and minimal artist based in United Kingdom, with 9 gigs on soundcheck across Bucharest and London. Often billed alongside Gescu, Louie Fresco and Vlad Ioachimescu. Next up: control, Bucharest on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Avram is an electronica and minimal artist based in United Kingdom, with 9 gigs 
 
 Gescu, Louie Fresco, Vlad Ioachimescu
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avram/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avram/)*

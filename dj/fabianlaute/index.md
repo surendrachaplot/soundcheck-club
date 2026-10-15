@@ -1,18 +1,18 @@
 # Fabian Laute
 
-Fabian Laute is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - The Den, Tokyo on Wed, 14 Oct 2026.
+Fabian Laute is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
 
-Fabian Laute is a techno and psytrance artist based in Germany, with 9 gigs on soundcheck across Berlin, Cologne, Hamburg and Tokyo. Often billed alongside TECSTONE, ALLY and A.B.U.. Next up: TBA - The Den, Tokyo on Wed 14 Oct.
+Fabian Laute is a techno and psytrance artist based in Germany, with 9 gigs on soundcheck across Berlin, Cologne, Hamburg and Tokyo. Often billed alongside TECSTONE, ALLY and A.B.U.. Next up: Ooba Camping Village, Tokyo on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 14 Oct 2026 | TBA - The Den | Tokyo |
 | Fri, 16 Oct 2026 | Ooba Camping Village | Tokyo |
 
 ## Recently played
 
+- TBA - The Den, Tokyo · Wed, 14 Oct 2026
 - White Space Lab, Tokyo · Fri, 9 Oct 2026
 - Ruby Room, Tokyo · Thu, 8 Oct 2026
 - Under The Palmo, Tokyo · Sun, 4 Oct 2026
@@ -25,4 +25,4 @@ Fabian Laute is a techno and psytrance artist based in Germany, with 9 gigs on s
 
 TECSTONE, ALLY, A.B.U.
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianlaute/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianlaute/)*

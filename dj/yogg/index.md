@@ -1,6 +1,6 @@
 # Yogg
 
-Yogg is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Astron Club, Athens on Fri, 16 Oct 2026.
+Yogg is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Astron Club, Athens on Fri, 16 Oct 2026.
 
 Yogg is a techno and industrial artist, with 21 gigs on soundcheck across Antwerp, Athens, Berlin and Brussels and 6 more. Often billed alongside Katra, Aaron J and Altinbas. Next up: Astron Club, Athens on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Yogg is a techno and industrial artist, with 21 gigs on soundcheck across Antwer
 
 Katra, Aaron J, Altinbas
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yogg/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yogg/)*

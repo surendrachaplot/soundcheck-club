@@ -1,6 +1,6 @@
 # public records
 
-public records is a music venue in New York City with 36 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Razor-N-Tape presents A Joyful Noise - Live From public records Album Release Show" on Thu, 15 Oct 2026.
+public records is a music venue in New York City with 36 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Razor-N-Tape presents A Joyful Noise - Live From public records Album Release Show" on Thu, 15 Oct 2026.
 
 public records is a music venue in New York City listed on soundcheck. 36 upcoming gigs, with line-ups including 320, 4AM NYC, MORENXXX and Aaron Dae and 2 more. See dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
@@ -23,4 +23,4 @@ public records is a music venue in New York City listed on soundcheck. 36 upcomi
 
 233 Butler St, Brooklyn, NY 11217, USA, New York City
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*

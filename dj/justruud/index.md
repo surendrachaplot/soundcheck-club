@@ -1,8 +1,8 @@
 # Justruud
 
-Justruud is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 12 Oct 2026.
+Justruud is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 12 Oct 2026.
 
-Justruud is a house and electro artist based in South Korea, with 62 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside RTRP, Cozyhoon and Gyusco. Next up: Stoked&stoned, Seoul on Mon 12 Oct.
+Justruud is a house and electro artist based in South Korea, with 63 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside RTRP, Cozyhoon and Gyusco. Next up: Stoked&stoned, Seoul on Mon 12 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Justruud is a house and electro artist based in South Korea, with 62 gigs on sou
 | --- | --- | --- |
 | Mon, 12 Oct 2026 | Stoked&stoned | Seoul |
 | Thu, 15 Oct 2026 | Stoked&stoned | Seoul |
+| Sat, 24 Oct 2026 | Teranoma Tidepool | Osaka |
 | Sun, 25 Oct 2026 | BAR Inc | Osaka |
 
 ## Recently played
@@ -27,4 +28,4 @@ Justruud is a house and electro artist based in South Korea, with 62 gigs on sou
 
 RTRP, Cozyhoon, Gyusco
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justruud/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justruud/)*

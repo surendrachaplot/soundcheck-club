@@ -1,6 +1,6 @@
 # Brown Excellence
 
-Brown Excellence is a Bass and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at La Cheetah Club, Glasgow on Thu, 15 Oct 2026.
+Brown Excellence is a Bass and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at La Cheetah Club, Glasgow on Thu, 15 Oct 2026.
 
 Brown Excellence is a bass and electro artist based in United Kingdom, with 37 gigs on soundcheck across Berlin, Brighton, Bristol and Dundee and 8 more. Often billed alongside Arabesque, Buggery Grips and Jay Carder. Next up: La Cheetah Club, Glasgow on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Brown Excellence is a bass and electro artist based in United Kingdom, with 37 g
 
 Arabesque, Buggery Grips, Jay Carder
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brownexcellence/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brownexcellence/)*

@@ -1,6 +1,6 @@
 # Ce$ar
 
-Ce$ar is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Chinastraat, Ghent on Sat, 17 Oct 2026.
+Ce$ar is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Chinastraat, Ghent on Sat, 17 Oct 2026.
 
 Ce$ar is a techno and hardcore artist based in Belgium, with 32 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 1 more. Often billed alongside Dizo, Holiness and John Gilliot. Next up: Chinastraat, Ghent on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Ce$ar is a techno and hardcore artist based in Belgium, with 32 gigs on soundche
 
 Dizo, Holiness, John Gilliot
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cear/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cear/)*

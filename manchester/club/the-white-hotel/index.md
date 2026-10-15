@@ -1,6 +1,6 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 41 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Grey Lantern presents: DITZ / Bathing Suits" on Thu, 15 Oct 2026.
+The White Hotel is a music venue in Manchester with 41 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Grey Lantern presents: DITZ / Bathing Suits" on Thu, 15 Oct 2026.
 
 The White Hotel is a music venue in Manchester listed on soundcheck. 41 upcoming gigs, with line-ups including Fastlove, Abena, Aiden Francis and Ana Roxanne and 2 more. See dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
@@ -23,4 +23,4 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 41 upcoming
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

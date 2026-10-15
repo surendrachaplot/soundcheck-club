@@ -1,6 +1,6 @@
 # Beechy
 
-Beechy is a Disco and Funk / Soul artist with 10 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Night Tales, London on Sat, 24 Oct 2026.
+Beechy is a Disco and Funk / Soul artist with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Night Tales, London on Sat, 24 Oct 2026.
 
 Beechy is a disco and funk / soul artist based in United Kingdom, with 19 gigs on soundcheck across Liverpool, London and Manchester. Often billed alongside Izaac Moses, LARA-RA and Touch Of Funk. Next up: Night Tales, London on Sat 24 Oct.
 
@@ -34,4 +34,4 @@ Beechy is a disco and funk / soul artist based in United Kingdom, with 19 gigs o
 
 Izaac Moses, LARA-RA, Touch Of Funk
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beechy/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beechy/)*

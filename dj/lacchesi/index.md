@@ -1,8 +1,8 @@
 # Lacchesi
 
-Lacchesi is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Circolo Amelia, Milan on Sat, 17 Oct 2026.
+Lacchesi is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Circolo Amelia, Milan on Sat, 17 Oct 2026.
 
-Lacchesi is a techno and trance artist based in France, with 172 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 48 more. Often billed alongside Lorenzo Lacchesi, Mac Declos and Laure Croft. Next up: Circolo Amelia, Milan on Sat 17 Oct.
+Lacchesi is a techno and trance artist based in France, with 173 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 48 more. Often billed alongside Lorenzo Lacchesi, Mac Declos and Laure Croft. Next up: Circolo Amelia, Milan on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Lacchesi is a techno and trance artist based in France, with 172 gigs on soundch
 | Sat, 17 Oct 2026 | Circolo Amelia | Milan |
 | Fri, 23 Oct 2026 | BASEMENT | New York City |
 | Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
+| Sun, 1 Nov 2026 | Groove Gardens | Malta |
 | Fri, 20 Nov 2026 | Schrotty | Cologne |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 
@@ -29,4 +30,4 @@ Lacchesi is a techno and trance artist based in France, with 172 gigs on soundch
 
 Lorenzo Lacchesi, Mac Declos, Laure Croft
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lacchesi/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lacchesi/)*

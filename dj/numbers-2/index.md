@@ -1,8 +1,8 @@
 # numbers (2)
 
-numbers (2) is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Mooi Space, Toronto on Sat, 14 Nov 2026.
+numbers (2) is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Mooi Space, Toronto on Sat, 14 Nov 2026.
 
-numbers is a club and electro artist, with 11 gigs on soundcheck across Toronto. Often billed alongside HVN, Ard1n and Chinelo. Next up: Mooi Space, Toronto on Sat 14 Nov.
+numbers is a club and electro artist, with 11 gigs on soundcheck across Toronto. Often billed alongside HVN, Ard1n and prayinsecret. Next up: Mooi Space, Toronto on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ numbers is a club and electro artist, with 11 gigs on soundcheck across Toronto.
 
 ## Shares bills with
 
-HVN (1), Ard1n, Chinelo
+HVN (1), Ard1n, prayinsecret
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/numbers-2/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/numbers-2/)*

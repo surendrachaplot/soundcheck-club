@@ -1,6 +1,6 @@
 # PAURRO
 
-PAURRO is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
+PAURRO is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
 
 PAURRO is a house and techno artist based in Mexico, with 182 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Ranma Entero, Kodemul and Valeriana. Next up: Iter Tenerife, Canary Islands on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ PAURRO is a house and techno artist based in Mexico, with 182 gigs on soundcheck
 
 Ranma Entero, Kodemul, Valeriana
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paurro/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paurro/)*

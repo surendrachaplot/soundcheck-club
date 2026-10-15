@@ -1,6 +1,6 @@
 # Cameron Kelly
 
-Cameron Kelly is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Penn Treaty Park, Philadelphia on Sun, 18 Oct 2026.
+Cameron Kelly is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Penn Treaty Park, Philadelphia on Sun, 18 Oct 2026.
 
 Cameron Kelly is a house and disco artist based in United States of America, with 14 gigs on soundcheck across New York City and Philadelphia. Often billed alongside Tommy HoGunz, 1CLUE. and Anne Fahn. Next up: Penn Treaty Park, Philadelphia on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Cameron Kelly is a house and disco artist based in United States of America, wit
 
 Tommy HoGunz, 1CLUE., Anne Fahn
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cameronkelly/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cameronkelly/)*

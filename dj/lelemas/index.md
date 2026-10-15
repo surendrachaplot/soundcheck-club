@@ -1,14 +1,15 @@
 # Lele Mas
 
-Lele Mas is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Lele Mas is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
-Lele Mas is a tech house and techno artist, with 8 gigs on soundcheck across Amsterdam and Ibiza. Often billed alongside ADEZ, BL3CKSMITH and DJ Skizzo. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
+Lele Mas is a techno and progressive house artist, with 9 gigs on soundcheck across Amsterdam and Ibiza. Often billed alongside ADEZ, David Berrie and David Gtronic. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Amsterdam Central Station | Amsterdam |
+| Fri, 23 Oct 2026 | TBA - 50:HERTZ CLUB TRAIN 2026 / Amsterdam Central Station, Amsterdam | Amsterdam |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ Lele Mas is a tech house and techno artist, with 8 gigs on soundcheck across Ams
 
 ## Shares bills with
 
-ADEZ, BL3CKSMITH, DJ Skizzo
+ADEZ, David Berrie, David Gtronic
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lelemas/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lelemas/)*

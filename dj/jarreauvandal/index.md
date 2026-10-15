@@ -1,6 +1,6 @@
 # Jarreau Vandal
 
-Jarreau Vandal is a Hip-Hop and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Parallel, Amsterdam on Fri, 23 Oct 2026.
+Jarreau Vandal is a Hip-Hop and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Parallel, Amsterdam on Fri, 23 Oct 2026.
 
 Jarreau Vandal is a hip-hop and house artist based in Netherlands, with 74 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 27 more. Often billed alongside LAMSI, Conducta and Franky Sticks. Next up: Parallel, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Jarreau Vandal is a hip-hop and house artist based in Netherlands, with 74 gigs 
 
 LAMSI, Conducta, Franky Sticks
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jarreauvandal/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jarreauvandal/)*

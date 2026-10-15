@@ -1,6 +1,6 @@
 # Mind Against
 
-Mind Against is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
+Mind Against is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
 
 Mind Against is a techno and house artist based in Italy, with 160 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 44 more. Often billed alongside Adriatique, sideral and Dyzen. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Mind Against is a techno and house artist based in Italy, with 160 gigs on sound
 
 Adriatique, sideral, Dyzen
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mindagainst/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mindagainst/)*

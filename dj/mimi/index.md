@@ -1,6 +1,6 @@
 # Mimi
 
-Mimi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Flinders, Sydney on Fri, 16 Oct 2026.
+Mimi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Flinders, Sydney on Fri, 16 Oct 2026.
 
 Mimi is a techno and house artist based in Croatia, with 43 gigs on soundcheck across Athens, Basel, Belgrade and Brighton and 15 more. Often billed alongside JOVE, Aggro and Black Coffee. Next up: The Flinders, Sydney on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Mimi is a techno and house artist based in Croatia, with 43 gigs on soundcheck a
 
 JOVE, Aggro, Black Coffee
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi/)*

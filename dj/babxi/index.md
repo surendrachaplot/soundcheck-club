@@ -1,8 +1,8 @@
 # babxi
 
-babxi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at OST, Berlin on Sat, 17 Oct 2026.
+babxi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at OST, Berlin on Sat, 17 Oct 2026.
 
-babxi is a house and techno artist based in Canada, with 107 gigs on soundcheck across Berlin, Cologne, Hamburg and New York City. Often billed alongside Seemless, Don Andres and Martin Meyer. Next up: OST, Berlin on Sat 17 Oct.
+babxi is a house and techno artist based in Canada, with 108 gigs on soundcheck across Berlin, Cologne, Hamburg and New York City. Often billed alongside Seemless, Martin Meyer and Don Andres. Next up: OST, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ babxi is a house and techno artist based in Canada, with 107 gigs on soundcheck 
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | OST | Berlin |
 | Fri, 23 Oct 2026 | Klunkerkranich | Berlin |
+| Sat, 24 Oct 2026 | Orangerie Neukölln | Berlin |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ babxi is a house and techno artist based in Canada, with 107 gigs on soundcheck 
 
 ## Shares bills with
 
-Seemless, Don Andres, Martin Meyer
+Seemless, Martin Meyer, Don Andres
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babxi/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babxi/)*

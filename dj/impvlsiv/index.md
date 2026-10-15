@@ -1,6 +1,6 @@
 # IMPVLSIV
 
-IMPVLSIV is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Patision65, Athens on Fri, 30 Oct 2026.
+IMPVLSIV is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Patision65, Athens on Fri, 30 Oct 2026.
 
 IMPVLSIV is a techno and electro artist based in Greece, with 131 gigs on soundcheck across Athens and Berlin. Often billed alongside BMSK, DΛS and 118119. Next up: Patision65, Athens on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ IMPVLSIV is a techno and electro artist based in Greece, with 131 gigs on soundc
 
 BMSK, DΛS, 118119
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/impvlsiv/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/impvlsiv/)*

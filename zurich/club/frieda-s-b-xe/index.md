@@ -1,6 +1,6 @@
 # Frieda's Büxe
 
-Frieda's Büxe is a music venue in Zurich with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "system32" on Fri, 16 Oct 2026.
+Frieda's Büxe is a music venue in Zurich with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "system32" on Fri, 16 Oct 2026.
 
 Frieda's Büxe is a music venue in Zurich listed on soundcheck. 4 upcoming gigs, with line-ups including Alessio da Silva, Aron (CH), Cortez and GENE and 2 more. See dates, start times and who's playing. Friedaustrasse 23; 8003, Zürich; Switzerland.
 
@@ -17,4 +17,4 @@ Frieda's Büxe is a music venue in Zurich listed on soundcheck. 4 upcoming gigs,
 
 Friedaustrasse 23; 8003, Zürich; Switzerland, Zurich
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/frieda-s-b-xe/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/frieda-s-b-xe/)*

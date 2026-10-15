@@ -1,6 +1,6 @@
 # luvandula
 
-luvandula is a Downtempo and Ambient artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Sauna Social Club, London on Sun, 25 Oct 2026.
+luvandula is a Downtempo and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Sauna Social Club, London on Sun, 25 Oct 2026.
 
 luvandula is a downtempo and ambient artist based in United Kingdom, with 13 gigs on soundcheck across Berlin, Bristol, Leeds and London. Often billed alongside teleopath, Aquamarine and Avsluta. Next up: Sauna Social Club, London on Sun 25 Oct.
 
@@ -9,7 +9,7 @@ luvandula is a downtempo and ambient artist based in United Kingdom, with 13 gig
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Sauna Social Club | London |
-| Fri, 6 Nov 2026 | TBA - Unit 58 Millmead Industrial Estate, Mill Mead Rd, London N17 | London |
+| Fri, 6 Nov 2026 | Unit 58 | London |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ luvandula is a downtempo and ambient artist based in United Kingdom, with 13 gig
 
 teleopath, Aquamarine, Avsluta
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luvandula/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luvandula/)*

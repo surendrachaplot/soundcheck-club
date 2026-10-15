@@ -1,6 +1,6 @@
 # Kasei P
 
-Kasei P is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Centro Sociale Rivolta, Venice on Sat, 17 Oct 2026.
+Kasei P is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Centro Sociale Rivolta, Venice on Sat, 17 Oct 2026.
 
 Kasei P is an electronica and experimental artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam, Berlin, Krakow and Venice and 1 more. Often billed alongside KULYENCHIKEV, xPOLLYx and Azemad. Next up: Centro Sociale Rivolta, Venice on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Kasei P is an electronica and experimental artist based in Netherlands, with 17 
 
 KULYENCHIKEV, xPOLLYx, Azemad
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaseip/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaseip/)*

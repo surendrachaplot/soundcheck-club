@@ -1,6 +1,6 @@
 # WADDLE
 
-WADDLE is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at H0L0, New York City on Thu, 15 Oct 2026.
+WADDLE is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at H0L0, New York City on Thu, 15 Oct 2026.
 
 WADDLE is a techno and house artist based in United States of America, with 68 gigs on soundcheck across New York City, San Francisco/Oakland and Seoul. Often billed alongside duco, y2aura and NIJEII. Next up: H0L0, New York City on Thu 15 Oct.
 
@@ -27,4 +27,4 @@ WADDLE is a techno and house artist based in United States of America, with 68 g
 
 duco, y2aura, NIJEII
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waddle/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waddle/)*

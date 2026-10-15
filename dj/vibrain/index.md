@@ -1,6 +1,6 @@
 # Vibrain
 
-Vibrain is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Gore Lounge Club, Belgrade on Thu, 15 Oct 2026.
+Vibrain is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Gore Lounge Club, Belgrade on Thu, 15 Oct 2026.
 
 Vibrain is a techno and club artist, with 13 gigs on soundcheck across Belgrade, Budapest and Malta. Often billed alongside Essio, aleksssa and DAD4. Next up: Gore Lounge Club, Belgrade on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Vibrain is a techno and club artist, with 13 gigs on soundcheck across Belgrade,
 
 Essio, aleksssa, DAD4
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vibrain/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vibrain/)*

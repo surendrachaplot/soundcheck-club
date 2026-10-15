@@ -1,6 +1,6 @@
 # Jepe
 
-Jepe is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Dusty Munky Bar, Cyprus on Sat, 17 Oct 2026.
+Jepe is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Dusty Munky Bar, Cyprus on Sat, 17 Oct 2026.
 
 Jepe is a house and techno artist based in Germany, with 41 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cyprus and 9 more. Often billed alongside Berny, Manu Strasse and Alexander Maier. Next up: Dusty Munky Bar, Cyprus on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Jepe is a house and techno artist based in Germany, with 41 gigs on soundcheck a
 
 Berny, Manu Strasse, Alexander Maier
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jepe/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jepe/)*

@@ -1,6 +1,6 @@
 # DJ Fett Burger
 
-DJ Fett Burger is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Sub Club Melbourne, Melbourne on Fri, 16 Oct 2026.
+DJ Fett Burger is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Sub Club Melbourne, Melbourne on Fri, 16 Oct 2026.
 
 DJ Fett Burger is a house and disco artist based in Norway, with 99 gigs on soundcheck across Antwerp, Bali, Bangkok and Barcelona and 20 more. Often billed alongside Telephones, DJ Sotofett and Jana Falcon. Next up: Sub Club Melbourne, Melbourne on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ DJ Fett Burger is a house and disco artist based in Norway, with 99 gigs on soun
 
 Telephones, DJ Sotofett, Jana Falcon
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfettburger/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfettburger/)*

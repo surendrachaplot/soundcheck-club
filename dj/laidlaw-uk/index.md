@@ -1,6 +1,6 @@
 # Laidlaw
 
-Laidlaw is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 16 Oct 2026.
+Laidlaw is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 16 Oct 2026.
 
 Laidlaw is a house and tech house artist based in United Kingdom, with 200 gigs on soundcheck across Aberdeen, Amsterdam, Bali and Barcelona and 34 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Nitsa Club, Barcelona on Fri 16 Oct.
 
@@ -32,4 +32,4 @@ Laidlaw is a house and tech house artist based in United Kingdom, with 200 gigs 
 
 Enzo Siragusa, Dr Banana, Julian Anthony
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*

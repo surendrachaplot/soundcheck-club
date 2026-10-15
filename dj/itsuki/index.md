@@ -1,13 +1,14 @@
 # ITSUKI
 
-ITSUKI is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Forestlimit, Tokyo on Sat, 7 Nov 2026.
+ITSUKI is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at clubasia, Tokyo on Sat, 17 Oct 2026.
 
-ITSUKI is a drum & bass and bass artist based in Japan, with 61 gigs on soundcheck across Tokyo. Often billed alongside MOOTOE, OPTIMIST and SAKO. Next up: Forestlimit, Tokyo on Sat 7 Nov.
+ITSUKI is a drum & bass and bass artist based in Japan, with 62 gigs on soundcheck across Tokyo. Often billed alongside MOOTOE, OPTIMIST and SAKO. Next up: clubasia, Tokyo on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | clubasia | Tokyo |
 | Sat, 7 Nov 2026 | Forestlimit | Tokyo |
 | Sat, 28 Nov 2026 | Z Maruyama | Tokyo |
 
@@ -26,4 +27,4 @@ ITSUKI is a drum & bass and bass artist based in Japan, with 61 gigs on soundche
 
 MOOTOE, OPTIMIST, SAKO
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/itsuki/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/itsuki/)*

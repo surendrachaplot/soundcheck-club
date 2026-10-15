@@ -1,13 +1,14 @@
 # Iris Estefanía
 
-Iris Estefanía is a Electronica and Guaracha artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at The Meadows, New York City on Fri, 30 Oct 2026.
+Iris Estefanía is a Electronica and Guaracha artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Elsewhere, New York City on Fri, 23 Oct 2026.
 
-Iris Estefanía is an electronica and guaracha artist based in Mexico, with 37 gigs on soundcheck across Los Angeles, Madrid, Mexico City and New York City. Often billed alongside Aleroj, KEBRA and RICO RICA. Next up: The Meadows, New York City on Fri 30 Oct.
+Iris Estefanía is an electronica and guaracha artist based in Mexico, with 38 gigs on soundcheck across Los Angeles, Madrid, Mexico City and New York City. Often billed alongside Aleroj, KEBRA and RICO RICA. Next up: Elsewhere, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Elsewhere | New York City |
 | Fri, 30 Oct 2026 | The Meadows | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Iris Estefanía is an electronica and guaracha artist based in Mexico, with 37 g
 
 Aleroj, KEBRA, RICO RICA
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irisestefania/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irisestefania/)*

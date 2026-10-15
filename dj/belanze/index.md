@@ -1,6 +1,6 @@
 # Belanze
 
-Belanze is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA, Berlin on Fri, 16 Oct 2026.
+Belanze is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Berlin on Fri, 16 Oct 2026.
 
 Belanze is a house and techno artist, with 13 gigs on soundcheck across Berlin. Often billed alongside allesbut, Concentio and DJ BONEY S. Next up: TBA, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Belanze is a house and techno artist, with 13 gigs on soundcheck across Berlin. 
 
 allesbut, Concentio, DJ BONEY S
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belanze/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belanze/)*

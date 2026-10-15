@@ -1,6 +1,6 @@
 # Tiago DJ
 
-Tiago DJ is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 23 Oct 2026.
+Tiago DJ is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 23 Oct 2026.
 
 Tiago DJ is an electronic artist based in Portugal, with 30 gigs on soundcheck across Lisbon and New York City. Often billed alongside HNRQ, Inês Duarte and Rui Vargas. Next up: Lux Fragil, Lisbon on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Tiago DJ is an electronic artist based in Portugal, with 30 gigs on soundcheck a
 
 HNRQ (2), Inês Duarte, Rui Vargas
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagodj/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagodj/)*

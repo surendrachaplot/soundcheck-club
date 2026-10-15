@@ -1,6 +1,6 @@
 # Jezero
 
-Jezero is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - Berlin Neukölln , Berlin on Fri, 6 Nov 2026.
+Jezero is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Berlin Neukölln , Berlin on Fri, 6 Nov 2026.
 
 Jezero is a techno and house artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside Anthony Georges Patrice, Marelko and Gforty. Next up: TBA - Berlin Neukölln , Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Jezero is a techno and house artist based in Germany, with 11 gigs on soundcheck
 
 Anthony Georges Patrice, Marelko, Gforty
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jezero/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jezero/)*

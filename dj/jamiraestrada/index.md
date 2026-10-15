@@ -1,6 +1,6 @@
 # Jamira Estrada
 
-Jamira Estrada is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Silence Please, New York City on Fri, 16 Oct 2026.
+Jamira Estrada is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Silence Please, New York City on Fri, 16 Oct 2026.
 
 Jamira Estrada is a club and house artist based in Switzerland, with 66 gigs on soundcheck across Amsterdam, Bangkok, Basel and Berlin and 11 more. Often billed alongside fka phaedra, Manuel Fischer and NVST. Next up: Silence Please, New York City on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Jamira Estrada is a club and house artist based in Switzerland, with 66 gigs on 
 
 fka phaedra, Manuel Fischer, NVST
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiraestrada/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiraestrada/)*

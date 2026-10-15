@@ -1,6 +1,6 @@
 # La Discothèque with Purple Disco Machine, Folamour, Dan Shake, Ron Trent, Jayda G at DRUMSHEDS
 
-La Discothèque with Purple Disco Machine, Folamour, Dan Shake, Ron Trent, Jayda G at DRUMSHEDS on Fri 13 Nov, London. 16 artists: Daisybelle, Dan Shake, DJ Paulette and Dombresky and 12 more. House and Disco. See the line-up on soundcheck.
+La Discothèque with Purple Disco Machine, Folamour, Dan Shake, Ron Trent, Jayda G at DRUMSHEDS on Fri 13 Nov, London. 12 artists: Daisybelle, Dan Shake, DJ Paulette and Dombresky and 8 more. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,11 +17,7 @@ La Discothèque with Purple Disco Machine, Folamour, Dan Shake, Ron Trent, Jayda
 - Folamour
 - Heléna Star
 - Jayda G
-- Jenna G
 - Jennifer Loveless
-- Kenny Dope
-- Louie Vega
-- Masters At Work
 - Purple Disco Machine
 - Ron Trent
 - SIGGY

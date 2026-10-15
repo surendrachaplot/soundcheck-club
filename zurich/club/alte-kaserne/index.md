@@ -1,6 +1,6 @@
 # Alte Kaserne
 
-Alte Kaserne is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "SUPER UNTZIG" on Fri, 16 Oct 2026.
+Alte Kaserne is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "SUPER UNTZIG" on Fri, 16 Oct 2026.
 
 Alte Kaserne is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, with line-ups including Ambient Pino, Caromelle, Galopp and Honcho and 2 more. See dates, start times and who's playing. Kanonengasse 16; 8004, Zürich; Switzerland.
 
@@ -15,4 +15,4 @@ Alte Kaserne is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, w
 
 Kanonengasse 16; 8004, Zürich; Switzerland, Zurich
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/alte-kaserne/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/alte-kaserne/)*

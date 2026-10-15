@@ -1,0 +1,18 @@
+# Club — Silva Bumpa, Scolcab, Unsho, NOON at Badaboum
+
+Club — Silva Bumpa, Scolcab, Unsho, NOON at Badaboum on Fri 30 Oct, Paris. 4 artists: Halfpipe Records, NOON, Silva Bumpa and Unsho. Breakbeat and Bass. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 30 Oct 2026 |
+| Venue | Badaboum |
+| City | Paris |
+
+## Line-up
+
+- Halfpipe Records
+- NOON
+- Silva Bumpa
+- Unsho
+
+*Source: [soundcheck](https://soundcheck.club/e/2540498-club-silva-bumpa-scolcab-unsho-noon-at-badaboum/)*

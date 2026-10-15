@@ -1,6 +1,6 @@
 # Saya (3)
 
-Saya (3) is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Passos Manuel, Porto on Sat, 17 Oct 2026.
+Saya (3) is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Passos Manuel, Porto on Sat, 17 Oct 2026.
 
 Saya is a club and experimental artist based in Portugal, with 17 gigs on soundcheck across Lisbon and Porto. Often billed alongside Onio (PT), BLEID and CLYTA. Next up: Passos Manuel, Porto on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Saya is a club and experimental artist based in Portugal, with 17 gigs on soundc
 
 Onio (PT), BLEID, CLYTA
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saya-3/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saya-3/)*

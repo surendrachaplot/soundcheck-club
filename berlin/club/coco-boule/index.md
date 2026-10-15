@@ -1,6 +1,6 @@
 # Coco Boule
 
-Coco Boule is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "DJ SPORTSCHUH x BNZN [ALL NIGHT LONG]" on Sat, 17 Oct 2026.
+Coco Boule is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "DJ SPORTSCHUH x BNZN [ALL NIGHT LONG]" on Sat, 17 Oct 2026.
 
 Coco Boule is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including AZULU, babymullet, BNZN and David Baguetta and 2 more. See dates, start times and who's playing. Prinzenstraße 85/D-F, 10969 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Coco Boule is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, wit
 
 Prinzenstraße 85/D-F, 10969 Berlin, Germany, Berlin
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/coco-boule/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/coco-boule/)*

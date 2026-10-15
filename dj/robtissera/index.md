@@ -1,6 +1,6 @@
 # Rob Tissera
 
-Rob Tissera is a Trance and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Cambridge Junction, South-east on Sat, 31 Oct 2026.
+Rob Tissera is a Trance and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Cambridge Junction, South-east on Sat, 31 Oct 2026.
 
 Rob Tissera is a trance and house artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Ibiza, Leeds and Liverpool and 6 more. Often billed alongside Dale Castell, Slipmatt and John Marshall. Next up: The Cambridge Junction, South East on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Rob Tissera is a trance and house artist based in United Kingdom, with 54 gigs o
 
 Dale Castell, Slipmatt, John Marshall
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robtissera/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robtissera/)*

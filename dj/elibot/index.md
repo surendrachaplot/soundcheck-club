@@ -1,13 +1,14 @@
 # Eli Bot
 
-Eli Bot is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at ÆDEN, Berlin on Sat, 7 Nov 2026.
+Eli Bot is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Orangerie Neukölln, Berlin on Fri, 16 Oct 2026.
 
-Eli Bot is a trance and techno artist based in United States of America, with 11 gigs on soundcheck across Berlin and Malaga. Often billed alongside Deltapeak, bbymeister and jeanska. Next up: ÆDEN, Berlin on Sat 7 Nov.
+Eli Bot is a trance and techno artist based in United States of America, with 12 gigs on soundcheck across Berlin and Malaga. Often billed alongside Deltapeak, bbymeister and jeanska. Next up: Orangerie Neukölln, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Orangerie Neukölln | Berlin |
 | Sat, 7 Nov 2026 | ÆDEN | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Eli Bot is a trance and techno artist based in United States of America, with 11
 
 Deltapeak, bbymeister, jeanska
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elibot/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elibot/)*

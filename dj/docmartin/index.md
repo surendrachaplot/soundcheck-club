@@ -1,8 +1,8 @@
 # Doc Martin
 
-Doc Martin is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Lion's Den, Miami on Fri, 16 Oct 2026.
+Doc Martin is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Lion's Den, Miami on Fri, 16 Oct 2026.
 
-Doc Martin is a house and techno artist based in United States of America, with 99 gigs on soundcheck across Amsterdam, Austin, California and Chicago and 18 more. Often billed alongside DJ Sneak, DJ M3 and Mark Farina. Next up: Lion's Den, Miami on Fri 16 Oct.
+Doc Martin is a house and techno artist based in United States of America, with 100 gigs on soundcheck across Amsterdam, Austin, California and Chicago and 18 more. Often billed alongside DJ Sneak, DJ M3 and Mark Farina. Next up: Lion's Den, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Doc Martin is a house and techno artist based in United States of America, with 
 | Sat, 17 Oct 2026 | The Nest at St. Pete Brewing Co. | Tampa-bay |
 | Sat, 31 Oct 2026 | Laguna Lab | California |
 | Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |
+| Sat, 14 Nov 2026 | XuXa | Austin |
 | Sat, 28 Nov 2026 | Quartyard | San Diego |
 
 ## Recently played
@@ -29,4 +30,4 @@ Doc Martin is a house and techno artist based in United States of America, with 
 
 DJ Sneak, DJ M3, Mark Farina
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/docmartin/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/docmartin/)*

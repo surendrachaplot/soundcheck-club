@@ -1,13 +1,14 @@
 # Ethan.
 
-Ethan. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - TBA, North on Fri, 27 Nov 2026.
+Ethan. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at 1520, Manchester on Sun, 25 Oct 2026.
 
-Ethan. is a techno and house artist based in United Kingdom, with 43 gigs on soundcheck across Birmingham, Leeds, Liverpool and London and 3 more. Often billed alongside Louie G, Ryan Ingleby and Blason. Next up: TBA - TBA, North on Fri 27 Nov.
+Ethan. is a techno and house artist based in United Kingdom, with 44 gigs on soundcheck across Birmingham, Leeds, Liverpool and London and 3 more. Often billed alongside Louie G, Ryan Ingleby and Blason. Next up: 1520, Manchester on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 25 Oct 2026 | 1520 | Manchester |
 | Fri, 27 Nov 2026 | TBA - TBA | North |
 
 ## Recently played
@@ -25,4 +26,4 @@ Ethan. is a techno and house artist based in United Kingdom, with 43 gigs on sou
 
 Louie G, Ryan Ingleby, Blason
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ethan./)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ethan./)*

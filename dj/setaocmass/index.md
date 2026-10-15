@@ -1,8 +1,8 @@
 # Setaoc Mass
 
-Setaoc Mass is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
+Setaoc Mass is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
 
-Setaoc Mass is a techno and house artist based in United Kingdom, with 187 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 58 more. Often billed alongside Philippa Pacho, Altinbas and Phara. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 17 Oct.
+Setaoc Mass is a techno and house artist based in United Kingdom, with 188 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 58 more. Often billed alongside Philippa Pacho, Altinbas and Phara. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Setaoc Mass is a techno and house artist based in United Kingdom, with 187 gigs 
 | Sat, 7 Nov 2026 | Motel Campo | Geneva |
 | Fri, 13 Nov 2026 | Stadion Strahov | Prague |
 | Sat, 28 Nov 2026 | FOLD | London |
+| Fri, 11 Dec 2026 | Kompass Klub | Ghent |
 | Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
@@ -32,4 +33,4 @@ Setaoc Mass is a techno and house artist based in United Kingdom, with 187 gigs 
 
 Philippa Pacho, Altinbas, Phara
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/setaocmass/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/setaocmass/)*

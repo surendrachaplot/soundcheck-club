@@ -1,6 +1,6 @@
 # Erol Alkan
 
-Erol Alkan is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Hope House, Leeds on Sat, 17 Oct 2026.
+Erol Alkan is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Hope House, Leeds on Sat, 17 Oct 2026.
 
 Erol Alkan is a house and techno artist based in United Kingdom, with 138 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside 2ManyDJs, CC:DISCO! and DJ Paulette. Next up: Hope House, Leeds on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Erol Alkan is a house and techno artist based in United Kingdom, with 138 gigs o
 
 2ManyDJs, CC:DISCO!, DJ Paulette
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erolalkan/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erolalkan/)*

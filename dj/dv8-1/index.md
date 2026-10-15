@@ -1,8 +1,8 @@
 # DV8 (LV)
 
-DV8 (LV) is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Poseidons, Riga on Fri, 16 Oct 2026.
+DV8 (LV) is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Poseidons, Riga on Fri, 16 Oct 2026.
 
-DV8 (LV) is a techno and hardcore artist based in Azerbaijan, with 17 gigs on soundcheck across Riga. Often billed alongside UZAY, hitomori and maniken05. Next up: Poseidons, Riga on Fri 16 Oct.
+DV8 (LV) is a techno and experimental artist based in Azerbaijan, with 18 gigs on soundcheck across Riga. Often billed alongside hitomori, maniken05 and UZAY. Next up: Poseidons, Riga on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DV8 (LV) is a techno and hardcore artist based in Azerbaijan, with 17 gigs on so
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Poseidons | Riga |
 | Sat, 24 Oct 2026 | Bams | Riga |
+| Sat, 24 Oct 2026 | Teritorija | Riga |
 | Fri, 13 Nov 2026 | TBA - Kroņu iela 23B, Riga, Latvia. | Riga |
 
 ## Recently played
@@ -25,6 +26,6 @@ DV8 (LV) is a techno and hardcore artist based in Azerbaijan, with 17 gigs on so
 
 ## Shares bills with
 
-UZAY, hitomori, maniken05
+hitomori, maniken05, UZAY
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dv8-1/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dv8-1/)*

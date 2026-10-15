@@ -1,14 +1,15 @@
 # NITA
 
-NITA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Sound space α, Kyushu on Sat, 7 Nov 2026.
+NITA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Sound space α, Kyushu on Sat, 7 Nov 2026.
 
-NITA is a techno and house artist, with 82 gigs on soundcheck across Kyushu and Tokyo. Often billed alongside Bundo, XINOVI and Rimo. Next up: Sound space α, Kyushu on Sat 7 Nov.
+NITA is a techno and house artist, with 83 gigs on soundcheck across Kyushu and Tokyo. Often billed alongside Bundo, XINOVI and Rimo. Next up: Sound space α, Kyushu on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Sound space α | Kyushu |
+| Sat, 21 Nov 2026 | VENT | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ NITA is a techno and house artist, with 82 gigs on soundcheck across Kyushu and 
 
 Bundo, XINOVI, Rimo
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nita/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nita/)*

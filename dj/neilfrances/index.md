@@ -1,6 +1,6 @@
 # Neil Frances
 
-Neil Frances is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Standard Time, Toronto on Sat, 14 Nov 2026.
+Neil Frances is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Standard Time, Toronto on Sat, 14 Nov 2026.
 
 Neil Frances is a house and disco artist based in United States of America, with 26 gigs on soundcheck across Amsterdam, Austin, Barcelona and Brussels and 15 more. Often billed alongside KI/KI, Masha Mar and Octo Octa. Next up: Standard Time, Toronto on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Neil Frances is a house and disco artist based in United States of America, with
 
 KI/KI, Masha Mar, Octo Octa
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neilfrances/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neilfrances/)*

@@ -1,6 +1,6 @@
 # Dasha SPRW
 
-Dasha SPRW is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Coil, Melbourne on Fri, 16 Oct 2026.
+Dasha SPRW is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Coil, Melbourne on Fri, 16 Oct 2026.
 
 Dasha SPRW is a house and techno artist, with 50 gigs on soundcheck across Leipzig, Melbourne, Prague and Sydney. Often billed alongside Andy Hart, Ricky Nord and Charlotte Rooney. Next up: Coil, Melbourne on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Dasha SPRW is a house and techno artist, with 50 gigs on soundcheck across Leipz
 
 Andy Hart, Ricky Nord, Charlotte Rooney
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dashasprw/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dashasprw/)*

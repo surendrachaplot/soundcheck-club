@@ -1,18 +1,18 @@
 # RIØ (DE)
 
-RIØ (DE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Pimpernel, Munich on Wed, 14 Oct 2026.
+RIØ (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Club Baggerbeest, Amsterdam on Wed, 21 Oct 2026.
 
-RIØ (DE) is a house and techno artist based in Germany, with 30 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Munich and 1 more. Often billed alongside Sarica, Seva Rosendorfer and Sub.Vision. Next up: Pimpernel, Munich on Wed 14 Oct.
+RIØ (DE) is a house and techno artist based in Germany, with 30 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Munich and 1 more. Often billed alongside Sarica, Seva Rosendorfer and Sub.Vision. Next up: Club Baggerbeest, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 14 Oct 2026 | Pimpernel | Munich |
 | Wed, 21 Oct 2026 | Club Baggerbeest | Amsterdam |
 
 ## Recently played
 
+- Pimpernel, Munich · Wed, 14 Oct 2026
 - Club Baggerbeest, Amsterdam · Mon, 21 Sept 2026
 - Clou, Munich · Sat, 20 Jun 2026
 - Pimpernel, Munich · Thu, 11 Dec 2025
@@ -20,10 +20,9 @@ RIØ (DE) is a house and techno artist based in Germany, with 30 gigs on soundch
 - Bahnwärter Thiel, Munich · Sat, 30 Aug 2025
 - Rote Sonne, Munich · Thu, 10 Jul 2025
 - Bahnwärter Thiel, Munich · Thu, 19 Jun 2025
-- TBA - Munich, Munich · Sat, 14 Jun 2025
 
 ## Shares bills with
 
 Sarica, Seva Rosendorfer, Sub.Vision
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riodj/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riodj/)*

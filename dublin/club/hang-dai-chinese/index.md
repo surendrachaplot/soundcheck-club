@@ -1,6 +1,6 @@
 # Hang Dai Chinese
 
-Hang Dai Chinese is a music venue in Dublin with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Bella Festa with Lupini" on Fri, 16 Oct 2026.
+Hang Dai Chinese is a music venue in Dublin with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Bella Festa with Lupini" on Fri, 16 Oct 2026.
 
 Hang Dai Chinese is a music venue in Dublin listed on soundcheck. 7 upcoming gigs, with line-ups including Aidan, Don Carlos, Frawl and Lupini and 1 more. See dates, start times and who's playing. 2 Camden Street Lower, Saint Kevin's, Dublin, D02 T275, Ireland.
 
@@ -20,4 +20,4 @@ Hang Dai Chinese is a music venue in Dublin listed on soundcheck. 7 upcoming gig
 
 2 Camden Street Lower, Saint Kevin's, Dublin, D02 T275, Ireland, Dublin
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/hang-dai-chinese/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/hang-dai-chinese/)*

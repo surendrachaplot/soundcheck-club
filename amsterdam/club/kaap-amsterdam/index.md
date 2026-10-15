@@ -1,6 +1,6 @@
 # Kaap Amsterdam
 
-Kaap Amsterdam is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Moments" on Thu, 22 Oct 2026.
+Kaap Amsterdam is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Moments" on Thu, 22 Oct 2026.
 
 Kaap Amsterdam is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including Antrim, Ben Evers, Callecat and Chicola and 2 more. See dates, start times and who's playing. Zuider Ijdijk 1006.
 
@@ -17,4 +17,4 @@ Kaap Amsterdam is a music venue in Amsterdam listed on soundcheck. 4 upcoming gi
 
 Zuider Ijdijk 1006, Amsterdam
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kaap-amsterdam/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kaap-amsterdam/)*

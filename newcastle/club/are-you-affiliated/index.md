@@ -1,6 +1,6 @@
 # Are You Affiliated
 
-Are You Affiliated is a music venue in Newcastle with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Knats + Support" on Fri, 23 Oct 2026.
+Are You Affiliated is a music venue in Newcastle with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Knats + Support" on Fri, 23 Oct 2026.
 
 Are You Affiliated is a music venue in Newcastle listed on soundcheck. 6 upcoming gigs, with line-ups including 2ManyDJs, Bradley Zero, Decius and Logan Fisher and 2 more. See dates, start times and who's playing. Phoenix House, 27 King St, Tynemouth, North Shields NE30 1BZ.
 
@@ -19,4 +19,4 @@ Are You Affiliated is a music venue in Newcastle listed on soundcheck. 6 upcomin
 
 Phoenix House, 27 King St, Tynemouth, North Shields NE30 1BZ, Newcastle
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/are-you-affiliated/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/are-you-affiliated/)*

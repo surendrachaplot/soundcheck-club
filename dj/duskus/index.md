@@ -1,6 +1,6 @@
 # Duskus
 
-Duskus is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Wigwam, Dublin on Sat, 24 Oct 2026.
+Duskus is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Wigwam, Dublin on Sat, 24 Oct 2026.
 
 Duskus is a house and garage artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 21 more. Often billed alongside ATRIP, Disclosure and Jasper Tygner. Next up: Wigwam, Dublin on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Duskus is a house and garage artist based in United Kingdom, with 53 gigs on sou
 
 ATRIP, Disclosure, Jasper Tygner
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duskus/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duskus/)*

@@ -1,8 +1,8 @@
 # Movers
 
-Movers is a music venue in Nottingham with 26 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Pool Table Launch: Pool, Board Games & Cocktails" on Thu, 15 Oct 2026.
+Movers is a music venue in Nottingham with 30 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Pool Table Launch: Pool, Board Games & Cocktails" on Thu, 15 Oct 2026.
 
-Movers is a music venue in Nottingham listed on soundcheck. 26 upcoming gigs, with line-ups including Alex Traska, Alien Communications, Brawther and Crazy P and 2 more. See dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
+Movers is a music venue in Nottingham listed on soundcheck. 30 upcoming gigs, with line-ups including Alex Traska, Alien Communications, Brawther and Crazy P and 2 more. See dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Movers is a music venue in Nottingham listed on soundcheck. 26 upcoming gigs, wi
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

@@ -1,6 +1,6 @@
 # Udo Wiessmann
 
-Udo Wiessmann is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Feierwerk, Munich on Sat, 17 Oct 2026.
+Udo Wiessmann is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Feierwerk, Munich on Sat, 17 Oct 2026.
 
 Udo Wiessmann is an industrial and techno artist, with 10 gigs on soundcheck across Berlin, Munich and Nürnberg. Often billed alongside Sordid, Cervello Elettronico and ICD-10. Next up: Feierwerk, Munich on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Udo Wiessmann is an industrial and techno artist, with 10 gigs on soundcheck acr
 
 Sordid, Cervello Elettronico, ICD-10
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/udowiessmann/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/udowiessmann/)*

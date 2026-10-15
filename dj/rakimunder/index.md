@@ -1,6 +1,6 @@
 # Rakim Under
 
-Rakim Under is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at la Maison de la Conversation, Paris on Sat, 31 Oct 2026.
+Rakim Under is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at la Maison de la Conversation, Paris on Sat, 31 Oct 2026.
 
 Rakim Under is a house and techno artist based in United Kingdom, with 86 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bucharest and 15 more. Often billed alongside David Triana, Der and Kenia. Next up: la Maison de la Conversation, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Rakim Under is a house and techno artist based in United Kingdom, with 86 gigs o
 
 David Triana, Der, Kenia
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rakimunder/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rakimunder/)*

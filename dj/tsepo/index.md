@@ -1,6 +1,6 @@
 # Tsepo
 
-Tsepo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Pllek, Amsterdam on Fri, 23 Oct 2026.
+Tsepo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Pllek, Amsterdam on Fri, 23 Oct 2026.
 
 Tsepo is a house and techno artist based in Netherlands, with 124 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 8 more. Often billed alongside Lucky Done Gone, dj sweet6teen and Eversines. Next up: Pllek, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Tsepo is a house and techno artist based in Netherlands, with 124 gigs on soundc
 
 Lucky Done Gone, dj sweet6teen, Eversines
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsepo/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsepo/)*

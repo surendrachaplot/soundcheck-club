@@ -1,6 +1,6 @@
 # The Jama
 
-The Jama is a music venue in Toronto with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "forever night 4....feat. Mutualism, stiff dance, bip b2b GRRLCRRSH, zola, dj miss, Critter " on Fri, 16 Oct 2026.
+The Jama is a music venue in Toronto with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "forever night 4....feat. Mutualism, stiff dance, bip b2b GRRLCRRSH, zola, dj miss, Critter " on Fri, 16 Oct 2026.
 
 The Jama is a music venue in Toronto listed on soundcheck. 4 upcoming gigs, with line-ups including Aji, B I P, Blkvirgo and Critter and 2 more. See dates, start times and who's playing. 961 College Street.
 
@@ -17,4 +17,4 @@ The Jama is a music venue in Toronto listed on soundcheck. 4 upcoming gigs, with
 
 961 College Street, Toronto
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*

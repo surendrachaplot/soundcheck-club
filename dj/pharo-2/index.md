@@ -1,6 +1,6 @@
 # Phåro (2)
 
-Phåro (2) is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at TBA - EAST LONDON- announced to ticket holders on the day, London on Fri, 16 Oct 2026.
+Phåro (2) is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - EAST LONDON- announced to ticket holders on the day, London on Fri, 16 Oct 2026.
 
 Phåro is an electro and techno artist based in United Kingdom, with 16 gigs on soundcheck across London. Often billed alongside Reeno, Moonz and Areeb Abbasi. Next up: TBA - EAST LONDON- announced to ticket holders on the day, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Phåro is an electro and techno artist based in United Kingdom, with 16 gigs on 
 
 Reeno, Moonz, Areeb Abbasi
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pharo-2/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pharo-2/)*

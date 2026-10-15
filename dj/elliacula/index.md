@@ -1,6 +1,6 @@
 # Elli Acula
 
-Elli Acula is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 17 Oct 2026.
+Elli Acula is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 17 Oct 2026.
 
 Elli Acula is a techno and house artist based in Germany, with 221 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 58 more. Often billed alongside FJAAK, Daria Kolosova and 999999999. Next up: RSO.BERLIN, Berlin on Sat 17 Oct.
 
@@ -31,4 +31,4 @@ Elli Acula is a techno and house artist based in Germany, with 221 gigs on sound
 
 FJAAK, Daria Kolosova, 999999999
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliacula/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliacula/)*

@@ -1,6 +1,6 @@
 # JAMIIE
 
-JAMIIE is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 23 Oct 2026.
+JAMIIE is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 23 Oct 2026.
 
 JAMIIE is a house and techno artist based in Germany, with 102 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 27 more. Often billed alongside Black Coffee, Âme and Jimi Jules. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ JAMIIE is a house and techno artist based in Germany, with 102 gigs on soundchec
 
 Black Coffee, Âme, Jimi Jules
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiie/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiie/)*

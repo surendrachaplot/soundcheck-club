@@ -1,8 +1,8 @@
 # Upzet
 
-Upzet is a Drum & Bass and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Void Club, Berlin on Fri, 16 Oct 2026.
+Upzet is a Drum & Bass and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Void Club, Berlin on Fri, 16 Oct 2026.
 
-Upzet is a drum & bass and techno artist based in Germany, with 280 gigs on soundcheck across Berlin. Often billed alongside Anton Quasi, Aynaet and Honschu Lee. Next up: Void Club, Berlin on Fri 16 Oct.
+Upzet is a drum & bass and techno artist based in Germany, with 281 gigs on soundcheck across Berlin. Often billed alongside Anton Quasi, Aynaet and Honschu Lee. Next up: Void Club, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Upzet is a drum & bass and techno artist based in Germany, with 280 gigs on soun
 | Sat, 24 Oct 2026 | Void Hall | Berlin |
 | Sat, 31 Oct 2026 | Void Club | Berlin |
 | Sat, 7 Nov 2026 | Void Club | Berlin |
+| Fri, 13 Nov 2026 | Void Club | Berlin |
 | Fri, 20 Nov 2026 | Void Club | Berlin |
 | Sat, 28 Nov 2026 | Void Club | Berlin |
 
@@ -30,4 +31,4 @@ Upzet is a drum & bass and techno artist based in Germany, with 280 gigs on soun
 
 Anton Quasi, Aynaet, Honschu Lee
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/upzet/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/upzet/)*

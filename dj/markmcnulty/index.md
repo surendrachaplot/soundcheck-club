@@ -1,6 +1,6 @@
 # Mark McNulty
 
-Mark McNulty is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at Under the K Bridge, New York City on Sun, 18 Oct 2026.
+Mark McNulty is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Under the K Bridge, New York City on Sun, 18 Oct 2026.
 
 Mark McNulty is a house and tech house artist, with 14 gigs on soundcheck across Boston, New York City and Philadelphia. Often billed alongside Andrey Trofimov, Edward Frame and Terraphorm. Next up: Under the K Bridge, New York City on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Mark McNulty is a house and tech house artist, with 14 gigs on soundcheck across
 
 Andrey Trofimov, Edward Frame, Terraphorm
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markmcnulty/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markmcnulty/)*

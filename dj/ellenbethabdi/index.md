@@ -1,6 +1,6 @@
 # Ellen Beth Abdi
 
-Ellen Beth Abdi is a Funk / Soul and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 14 Oct 2026. Next at renae, Manchester on Tue, 20 Oct 2026.
+Ellen Beth Abdi is a Funk / Soul and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at renae, Manchester on Tue, 20 Oct 2026.
 
 Ellen Beth Abdi is a funk / soul and experimental artist, with 13 gigs on soundcheck across Manchester. Often billed alongside Chunky, AMAKA and Adele Tondu. Next up: renae, Manchester on Tue 20 Oct.
 
@@ -25,4 +25,4 @@ Ellen Beth Abdi is a funk / soul and experimental artist, with 13 gigs on soundc
 
 Chunky, AMAKA, Adele Tondu
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenbethabdi/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenbethabdi/)*

@@ -1,6 +1,6 @@
 # Deselecta
 
-Deselecta is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at The Love Inn, Bristol on Thu, 15 Oct 2026.
+Deselecta is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Love Inn, Bristol on Thu, 15 Oct 2026.
 
 Deselecta is a jungle and drum & bass artist based in United Kingdom, with 71 gigs on soundcheck across Bristol, Frankfurt, London and Manchester and 2 more. Often billed alongside Krash Dubs, 50CAL and Sleazebag. Next up: The Love Inn, Bristol on Thu 15 Oct.
 
@@ -28,4 +28,4 @@ Deselecta is a jungle and drum & bass artist based in United Kingdom, with 71 gi
 
 Krash Dubs, 50CAL, Sleazebag
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deselecta/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deselecta/)*

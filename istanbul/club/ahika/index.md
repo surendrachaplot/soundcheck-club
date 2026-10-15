@@ -1,6 +1,6 @@
 # Şahika
 
-Şahika is a music venue in Istanbul with 3 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. The next is "Untitled" on Thu, 15 Oct 2026.
+Şahika is a music venue in Istanbul with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Untitled" on Thu, 15 Oct 2026.
 
 Şahika is a music venue in Istanbul listed on soundcheck. 3 upcoming gigs, with line-ups including 4-i, Alexandra, Appleblim and Chunky and 2 more. See dates, start times and who's playing. Hüseyinağa mahallesi, Nevizade sokak, No: 5.
 
@@ -16,4 +16,4 @@
 
 Hüseyinağa mahallesi, Nevizade sokak, No: 5, Istanbul
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/ahika/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/ahika/)*

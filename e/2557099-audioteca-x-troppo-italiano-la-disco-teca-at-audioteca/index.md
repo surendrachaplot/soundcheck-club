@@ -1,6 +1,6 @@
-# Audioteca x Troppo Italiano La Disco_Teca at Audioteca
+# Audioteca x Troppo Italiano • La Disco_Teca at Audioteca
 
-Audioteca x Troppo Italiano La Disco_Teca on Sun 25 Oct, Naples. See the line-up on soundcheck.
+Audioteca x Troppo Italiano • La Disco_Teca on Sun 25 Oct, Naples. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

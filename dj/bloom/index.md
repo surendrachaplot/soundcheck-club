@@ -1,14 +1,14 @@
 # Bloom
 
-Bloom is a House and Grime artist with 2 upcoming gigs listed on soundcheck as of Wed, 14 Oct 2026. Next at Amnesia, Bangkok on Sat, 17 Oct 2026.
+Bloom is a House and Grime artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Amnesia, Bangkok on Thu, 22 Oct 2026.
 
-Bloom is a house and grime artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Belfast and 5 more. Often billed alongside Giantsiam, Manymaur and AAT (NL). Next up: Amnesia, Bangkok on Sat 17 Oct.
+Bloom is a house and grime artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Belfast and 5 more. Often billed alongside Giantsiam, Manymaur and AAT (NL). Next up: Amnesia, Bangkok on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Amnesia | Bangkok |
+| Thu, 22 Oct 2026 | Amnesia | Bangkok |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 
 ## Recently played
@@ -26,4 +26,4 @@ Bloom is a house and grime artist based in United Kingdom, with 14 gigs on sound
 
 Giantsiam, Manymaur, AAT (NL)
 
-*Updated Wed, 14 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bloom/)*
+*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bloom/)*
