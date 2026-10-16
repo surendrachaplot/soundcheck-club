@@ -1,6 +1,6 @@
 # ALPHA (4)
 
-ALPHA (4) is a Bass and Dub artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Shinjuku Duusraa, Tokyo on Tue, 3 Nov 2026.
+ALPHA (4) is a Bass and Dub artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Shinjuku Duusraa, Tokyo on Tue, 3 Nov 2026.
 
 ALPHA is a bass and dub artist based in Japan, with 3 gigs on soundcheck across Tokyo. Often billed alongside Acrocanthosaurus, saqess and 反核機動隊. Next up: Shinjuku Duusraa, Tokyo on Tue 3 Nov.
 
@@ -19,4 +19,4 @@ ALPHA is a bass and dub artist based in Japan, with 3 gigs on soundcheck across 
 
 Acrocanthosaurus, saqess, 反核機動隊
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alpha-4/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alpha-4/)*

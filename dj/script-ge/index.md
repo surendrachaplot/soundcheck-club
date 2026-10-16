@@ -1,6 +1,6 @@
 # Script (GE)
 
-Script (GE) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Art Club, Houston on Sat, 24 Oct 2026.
+Script (GE) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Art Club, Houston on Sat, 24 Oct 2026.
 
 Script (GE) is a techno and tech house artist based in Georgia, with 39 gigs on soundcheck across Amsterdam, Austin, Buenos Aires and Houston and 7 more. Often billed alongside Uväll, gwän and Dual Pistols. Next up: Art Club, Houston on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Script (GE) is a techno and tech house artist based in Georgia, with 39 gigs on 
 
 Uväll, gwän, Dual Pistols
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/script-ge/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/script-ge/)*

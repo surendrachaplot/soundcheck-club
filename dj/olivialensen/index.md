@@ -1,8 +1,8 @@
 # OLIVIA LENSEN
 
-OLIVIA LENSEN is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
+OLIVIA LENSEN is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
 
-OLIVIA LENSEN is a house and techno artist based in Netherlands, with 67 gigs on soundcheck across Amsterdam, Cologne, Netherlands and Rotterdam and 2 more. Often billed alongside Lisa Korver, DART and Freddi. Next up: RAWFACTORY, Amsterdam on Thu 22 Oct.
+OLIVIA LENSEN is a house and techno artist based in Netherlands, with 69 gigs on soundcheck across Amsterdam, Cologne, Netherlands and Rotterdam and 2 more. Often billed alongside Lisa Korver, NewTone and DART. Next up: RAWFACTORY, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -12,10 +12,12 @@ OLIVIA LENSEN is a house and techno artist based in Netherlands, with 67 gigs on
 | Thu, 22 Oct 2026 | Ijver | Amsterdam |
 | Fri, 23 Oct 2026 | Thuishaven | Amsterdam |
 | Fri, 23 Oct 2026 | Parallel | Amsterdam |
+| Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 | Fri, 30 Oct 2026 | Complex Maastricht | Netherlands |
 | Sat, 14 Nov 2026 | Maassilo | Rotterdam |
 | Sun, 22 Nov 2026 | Thuishaven | Amsterdam |
 | Sat, 28 Nov 2026 | Inter-City | The Hague |
+| Sat, 19 Dec 2026 | Van Nelle Fabriek | Rotterdam |
 | Sun, 20 Dec 2026 | Thuishaven | Amsterdam |
 | Thu, 31 Dec 2026 | BASIS | Utrecht |
 
@@ -32,6 +34,6 @@ OLIVIA LENSEN is a house and techno artist based in Netherlands, with 67 gigs on
 
 ## Shares bills with
 
-Lisa Korver, DART, Freddi
+Lisa Korver, NewTone, DART
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olivialensen/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olivialensen/)*

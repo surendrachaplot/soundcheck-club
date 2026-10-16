@@ -1,8 +1,8 @@
 # Recondite
 
-Recondite is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Nordstern, Basel on Sat, 17 Oct 2026.
+Recondite is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Nordstern, Basel on Sat, 17 Oct 2026.
 
-Recondite is a techno and house artist based in Germany, with 106 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Tale Of Us, Anyma and Dyzen. Next up: Nordstern, Basel on Sat 17 Oct.
+Recondite is a techno and house artist based in Germany, with 107 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Tale Of Us, Anyma and Dyzen. Next up: Nordstern, Basel on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Recondite is a techno and house artist based in Germany, with 106 gigs on soundc
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Nordstern | Basel |
 | Wed, 28 Oct 2026 | Staatstheater & Alte Feuerwache | Saarland |
+| Fri, 6 Nov 2026 | Antwerp Expo | Antwerp |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Recondite is a techno and house artist based in Germany, with 106 gigs on soundc
 
 Tale Of Us, Anyma, Dyzen
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/recondite/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/recondite/)*

@@ -1,6 +1,6 @@
 # Bryce Byrd
 
-Bryce Byrd is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Homage Brewing, Los Angeles on Fri, 16 Oct 2026.
+Bryce Byrd is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Homage Brewing, Los Angeles on Fri, 16 Oct 2026.
 
 Bryce Byrd is a house and deep house artist, with 11 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Lorenzo Daniels, 69999 and 92Jelani. Next up: Homage Brewing, Los Angeles on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Bryce Byrd is a house and deep house artist, with 11 gigs on soundcheck across L
 
 Lorenzo Daniels, 69999, 92Jelani
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brycebyrd/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brycebyrd/)*

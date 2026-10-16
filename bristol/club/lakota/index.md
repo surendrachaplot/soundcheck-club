@@ -1,6 +1,6 @@
 # Lakota
 
-Lakota is a music venue in Bristol with 15 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "8 Years of Stacked Out Free Rave" on Fri, 16 Oct 2026.
+Lakota is a music venue in Bristol with 15 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "8 Years of Stacked Out Free Rave" on Fri, 16 Oct 2026.
 
 Lakota is a music venue in Bristol listed on soundcheck. 15 upcoming gigs, with line-ups including Captain Wallop, C.A.R., Dan Shake and Eksman and 2 more. See dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
 
@@ -23,4 +23,4 @@ Lakota is a music venue in Bristol listed on soundcheck. 15 upcoming gigs, with 
 
 6 Upper York Street; Bristol, BS2 8QN, United Kingdom, Bristol
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*

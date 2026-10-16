@@ -1,6 +1,6 @@
 # Agoostina
 
-Agoostina is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Sun, 18 Oct 2026.
+Agoostina is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Sun, 18 Oct 2026.
 
 Agoostina is a progressive house and deep house artist based in Argentina, with 14 gigs on soundcheck across Barcelona. Often billed alongside GUS PICCO, Santi Gonzalez and Enzo Lautaro. Next up: Azul Rooftop Barceloneta, Barcelona on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ Agoostina is a progressive house and deep house artist based in Argentina, with 
 
 GUS PICCO, Santi Gonzalez, Enzo Lautaro
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agoostina/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agoostina/)*

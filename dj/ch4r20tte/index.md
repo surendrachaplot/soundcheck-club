@@ -1,6 +1,6 @@
 # ch4r20tte
 
-ch4r20tte is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at elipamanoke, Leipzig on Fri, 30 Oct 2026.
+ch4r20tte is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at elipamanoke, Leipzig on Fri, 30 Oct 2026.
 
 ch4r20tte is a techno and trance artist based in Germany, with 33 gigs on soundcheck across Basel, Berlin and Leipzig. Often billed alongside Gladee, NACHTIGALL and nea.cuajo. Next up: elipamanoke, Leipzig on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ ch4r20tte is a techno and trance artist based in Germany, with 33 gigs on soundc
 
 Gladee, NACHTIGALL, nea.cuajo
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ch4r20tte/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ch4r20tte/)*

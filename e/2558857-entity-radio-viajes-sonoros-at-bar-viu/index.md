@@ -1,6 +1,6 @@
 # Entity Radio // Viajes Sonoros at Bar Viu
 
-Entity Radio // Viajes Sonoros at Bar Viu on Sun 1 Nov, Barcelona. 1 artist: SAAB. House and Hip-Hop. See the line-up on soundcheck.
+Entity Radio // Viajes Sonoros at Bar Viu on Sun 1 Nov, Barcelona. 1 artist: SAAB. Hip-Hop and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

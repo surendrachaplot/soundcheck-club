@@ -1,6 +1,6 @@
 # Toldi Klub
 
-Toldi Klub is a music venue in Budapest with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "A 444 bemutatja: Közért Premier x Sajtódiszkó a Toldiban (utána cicciolina.jpeg és wobe)" on Fri, 16 Oct 2026.
+Toldi Klub is a music venue in Budapest with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "A 444 bemutatja: Közért Premier x Sajtódiszkó a Toldiban (utána cicciolina.jpeg és wobe)" on Fri, 16 Oct 2026.
 
 Toldi Klub is a music venue in Budapest listed on soundcheck. 10 upcoming gigs, with line-ups including Andras Bader, dtnb, Falcao and IPAR and 2 more. See dates, start times and who's playing. Bajcsy-Zsilinszky út 36-38, 1054 Budapest.
 
@@ -23,4 +23,4 @@ Toldi Klub is a music venue in Budapest listed on soundcheck. 10 upcoming gigs, 
 
 Bajcsy-Zsilinszky út 36-38, 1054 Budapest, Budapest
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/toldi-klub/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/toldi-klub/)*

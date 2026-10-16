@@ -1,6 +1,6 @@
 # Caniche
 
-Caniche is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at ÆDEN, Berlin on Fri, 23 Oct 2026.
+Caniche is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at ÆDEN, Berlin on Fri, 23 Oct 2026.
 
 Caniche is a techno and trance artist based in Germany, with 115 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 20 more. Often billed alongside Mischa Beton, Specific Objects and TONI BA. Next up: ÆDEN, Berlin on Fri 23 Oct.
 
@@ -30,4 +30,4 @@ Caniche is a techno and trance artist based in Germany, with 115 gigs on soundch
 
 Mischa Beton, Specific Objects, TONI BA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caniche/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caniche/)*

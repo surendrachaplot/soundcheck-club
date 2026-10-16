@@ -1,6 +1,6 @@
 # Westdale
 
-Westdale is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Grrrnd Zero, South-east on Thu, 22 Oct 2026.
+Westdale is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Grrrnd Zero, South-east on Thu, 22 Oct 2026.
 
 Westdale is a techno and bass artist based in Canada, with 18 gigs on soundcheck across Belgrade, Berlin, Leipzig and Mexico City and 4 more. Often billed alongside Warzou, Skalm and Brodinski. Next up: Grrrnd Zero, South East on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Westdale is a techno and bass artist based in Canada, with 18 gigs on soundcheck
 
 Warzou, Skalm, Brodinski
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/westdale/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/westdale/)*

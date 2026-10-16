@@ -1,6 +1,6 @@
 # Queen Majesty
 
-Queen Majesty is a Bass and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at public records, New York City on Thu, 22 Oct 2026.
+Queen Majesty is a Bass and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at public records, New York City on Thu, 22 Oct 2026.
 
 Queen Majesty is a bass and disco artist, with 12 gigs on soundcheck across New York City. Often billed alongside Akanbi, Ayanna Heaven and Earth Beat. Next up: public records, New York City on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Queen Majesty is a bass and disco artist, with 12 gigs on soundcheck across New 
 
 Akanbi, Ayanna Heaven, Earth Beat
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/queenmajesty/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/queenmajesty/)*

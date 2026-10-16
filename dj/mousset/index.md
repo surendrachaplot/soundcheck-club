@@ -1,6 +1,6 @@
 # Mousse T.
 
-Mousse T. is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Mousse T. is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
 Mousse T. is a house and disco artist based in Germany, with 93 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 24 more. Often billed alongside Horse Meat Disco, Melvo Baptiste and MiNNA. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
@@ -30,4 +30,4 @@ Mousse T. is a house and disco artist based in Germany, with 93 gigs on soundche
 
 Horse Meat Disco, Melvo Baptiste, MiNNA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mousset/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mousset/)*

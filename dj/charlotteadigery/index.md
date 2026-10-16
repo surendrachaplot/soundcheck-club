@@ -1,6 +1,6 @@
 # Charlotte Adigéry
 
-Charlotte Adigéry is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Paradiso, Amsterdam on Fri, 23 Oct 2026.
+Charlotte Adigéry is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Paradiso, Amsterdam on Fri, 23 Oct 2026.
 
 Charlotte Adigéry is a disco and house artist based in Belgium, with 19 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brussels and 7 more. Often billed alongside Bolis Pupul, 2ManyDJs and Anz. Next up: Paradiso, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Charlotte Adigéry is a disco and house artist based in Belgium, with 19 gigs on
 
 Bolis Pupul, 2ManyDJs, Anz
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlotteadigery/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlotteadigery/)*

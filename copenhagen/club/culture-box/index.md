@@ -1,8 +1,8 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 18 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Chich / Kallax / Rexxx M / The Gathering: SHK / GeorgeBox / Georgeous / Dani Panda" on Fri, 16 Oct 2026.
+Culture Box is a music venue in Copenhagen with 19 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Chich / Kallax / Rexxx M / The Gathering: SHK / GeorgeBox / Georgeous / Dani Panda" on Fri, 16 Oct 2026.
 
-Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming gigs, with line-ups including Adelina, Aja Gulris, Albano Bastonero and Ama Lien and 2 more. See dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
+Culture Box is a music venue in Copenhagen listed on soundcheck. 19 upcoming gigs, with line-ups including Adelina, Aja Gulris, Albano Bastonero and Ama Lien and 2 more. See dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming gig
 
 Kronprinsessegade 54; Copenhagen K. 1306; Denmark, Copenhagen
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*

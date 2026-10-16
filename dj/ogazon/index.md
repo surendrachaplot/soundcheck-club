@@ -1,6 +1,6 @@
 # Ogazón
 
-Ogazón is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 16 Oct 2026.
+Ogazón is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 16 Oct 2026.
 
 Ogazón is a techno and house artist based in Luxembourg, with 286 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 65 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 16 Oct.
 
@@ -36,4 +36,4 @@ Ogazón is a techno and house artist based in Luxembourg, with 286 gigs on sound
 
 Ryan Elliott, Marcel Dettmann, BASHKKA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*

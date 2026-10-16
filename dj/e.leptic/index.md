@@ -1,14 +1,15 @@
 # e.leptic
 
-e.leptic is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 16 Oct 2026.
+e.leptic is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 16 Oct 2026.
 
-e.leptic is a techno and trance artist based in Germany, with 44 gigs on soundcheck across Berlin, Hamburg and Munich. Often billed alongside EZA (DE), MIMI404 and E.T.. Next up: Humboldthain Club, Berlin on Fri 16 Oct.
+e.leptic is a techno and trance artist based in Germany, with 45 gigs on soundcheck across Berlin, Hamburg and Munich. Often billed alongside EZA (DE), MIMI404 and E.T.. Next up: Humboldthain Club, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Humboldthain Club | Berlin |
+| Fri, 6 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 13 Nov 2026 | ÆDEN | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ e.leptic is a techno and trance artist based in Germany, with 44 gigs on soundch
 
 EZA (DE), MIMI404, E.T.
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e.leptic/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e.leptic/)*

@@ -1,6 +1,6 @@
 # klu (1)
 
-klu (1) is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at 桃園玉山街影視基地, Taipei on Sat, 24 Oct 2026.
+klu (1) is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at 桃園玉山街影視基地, Taipei on Sat, 24 Oct 2026.
 
 klu is a disco and house artist, with 11 gigs on soundcheck across Bangkok, Berlin and Taipei. Often billed alongside Arnav, Pocari Sweaty and jivi2mebaby. Next up: 桃園玉山街影視基地, Taipei on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ klu is a disco and house artist, with 11 gigs on soundcheck across Bangkok, Berl
 
 Arnav, Pocari Sweaty, jivi2mebaby
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klu-1/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klu-1/)*

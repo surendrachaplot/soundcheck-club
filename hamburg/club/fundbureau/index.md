@@ -1,8 +1,8 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Liquic Concrete with Charlie Tee & T-Lex & Melina" on Fri, 16 Oct 2026.
+Fundbureau is a music venue in Hamburg with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Liquic Concrete with Charlie Tee & T-Lex & Melina" on Fri, 16 Oct 2026.
 
-Fundbureau is a music venue in Hamburg listed on soundcheck. 10 upcoming gigs, with line-ups including Bizzarro Universe, BNZN, Charlie Tee and DINKS and 2 more. See dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
+Fundbureau is a music venue in Hamburg listed on soundcheck. 11 upcoming gigs, with line-ups including Ani con Gas, Bizzarro Universe, BNZN and Charlie Tee and 2 more. See dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 10 upcoming gigs, w
 | Fri, 30 Oct 2026 | HARDBUERAU HALLOWEEN EDITION W/ Natta + INNER CIRCLE | Natta |
 | Sat, 31 Oct 2026 | G SPOT HALLOWEEN with BNZN, Softdrive, Rittmus  | BNZN, Lennart Ken, Rittmus, Softdrive |
 | Sat, 7 Nov 2026 | RAUM.fahrt |  |
+| Sat, 7 Nov 2026 | AOTM X Fundbureau with Ani Con Gas | Ani con Gas (2) |
 | Sat, 14 Nov 2026 | Tausch dein' Trash Night |  |
-| Fri, 27 Nov 2026 | Hafen7 goes to Hamburg |  |
 
 ## Address
 
 Altländer Str. 1120095 Hamburg, Germany, Hamburg
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*

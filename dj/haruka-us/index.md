@@ -1,13 +1,14 @@
 # Haruka (US)
 
-Haruka (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Dead Letter No. 9, New York City on Sat, 31 Oct 2026.
+Haruka (US) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Green Room NYC, New York City on Fri, 16 Oct 2026.
 
-Haruka (US) is a house and techno artist based in United States of America, with 43 gigs on soundcheck across Chicago, New York City and Tokyo. Often billed alongside 4AM NYC, 7e and Akua. Next up: Dead Letter No. 9, New York City on Sat 31 Oct.
+Haruka (US) is a house and techno artist based in United States of America, with 44 gigs on soundcheck across Chicago, New York City and Tokyo. Often billed alongside 4AM NYC, 7e and Akua. Next up: Green Room NYC, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Green Room NYC | New York City |
 | Sat, 31 Oct 2026 | Dead Letter No. 9 | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Haruka (US) is a house and techno artist based in United States of America, with
 
 4AM NYC, 7e, Akua
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haruka-us/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haruka-us/)*

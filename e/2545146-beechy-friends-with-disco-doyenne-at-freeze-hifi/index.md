@@ -1,10 +1,10 @@
 # BEECHY & FRIENDS with Disco Doyenne at Freeze HiFi
 
-BEECHY & FRIENDS with Disco Doyenne at Freeze HiFi on Tue 27 Oct, Liverpool. 1 artist: Beechy. Disco and Funk / Soul. See the line-up on soundcheck.
+BEECHY & FRIENDS with Disco Doyenne at Freeze HiFi on Thu 29 Oct, Liverpool. 1 artist: Beechy. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Tue, 27 Oct 2026 |
+| Date | Thu, 29 Oct 2026 |
 | Venue | Freeze HiFi |
 | City | Liverpool |
 

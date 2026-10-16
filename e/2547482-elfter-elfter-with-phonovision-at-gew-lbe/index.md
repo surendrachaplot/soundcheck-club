@@ -1,6 +1,6 @@
 # Elfter Elfter with Phonovision at Gewölbe
 
-Elfter Elfter with Phonovision at Gewölbe on Wed 11 Nov, Cologne. 5 artists: DJ ASS TITS, HiHat, juno.j and Pavelo Promillo and 1 more. See the line-up on soundcheck.
+Elfter Elfter with Phonovision at Gewölbe on Wed 11 Nov, Cologne. 6 artists: DJ ASS TITS, HiHat, juno.j and Pavelo Promillo and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Elfter Elfter with Phonovision at Gewölbe on Wed 11 Nov, Cologne. 5 artists: DJ
 - HiHat
 - juno.j
 - Pavelo Promillo
+- Slaymira
 - Sophti
 
 *Source: [soundcheck](https://soundcheck.club/e/2547482-elfter-elfter-with-phonovision-at-gew-lbe/)*

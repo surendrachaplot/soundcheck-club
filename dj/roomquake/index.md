@@ -1,6 +1,6 @@
 # roomquake
 
-roomquake is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at HVEN, Tokyo on Fri, 16 Oct 2026.
+roomquake is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at HVEN, Tokyo on Fri, 16 Oct 2026.
 
 roomquake is a techno and bass artist based in Japan, with 20 gigs on soundcheck across Tokyo. Often billed alongside Kanamemandala, Seimei and PANICWORKS. Next up: HVEN, Tokyo on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ roomquake is a techno and bass artist based in Japan, with 20 gigs on soundcheck
 
 Kanamemandala, Seimei, PANICWORKS
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roomquake/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roomquake/)*

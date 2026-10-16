@@ -1,6 +1,6 @@
 # Ms. Renegade
 
-Ms. Renegade is a Breakbeat and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Debaser Hornstulls Strand, Stockholm on Sat, 17 Oct 2026.
+Ms. Renegade is a Breakbeat and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Debaser Hornstulls Strand, Stockholm on Sat, 17 Oct 2026.
 
 Ms. Renegade is a breakbeat and garage artist based in Sweden, with 11 gigs on soundcheck across London and Stockholm. Often billed alongside FANNY (SE), Marble and Sho Gabi. Next up: Debaser Hornstulls Strand, Stockholm on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Ms. Renegade is a breakbeat and garage artist based in Sweden, with 11 gigs on s
 
 FANNY (SE), Marble, Sho Gabi
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.renegade/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.renegade/)*

@@ -1,8 +1,8 @@
 # Andi
 
-Andi is a EBM and Italo Disco artist with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Saint Vitus, New York City on Fri, 16 Oct 2026.
+Andi is a EBM and Italo Disco artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Saint Vitus, New York City on Fri, 16 Oct 2026.
 
-Andi is an ebm and italo disco artist based in United States of America, with 227 gigs on soundcheck across Austin, Barcelona, Berlin and Chicago and 17 more. Often billed alongside Eli Escobar, Facets and Arvin T. Next up: Saint Vitus, New York City on Fri 16 Oct.
+Andi is an ebm and italo disco artist based in United States of America, with 228 gigs on soundcheck across Austin, Barcelona, Berlin and Chicago and 17 more. Often billed alongside Eli Escobar, Facets and Arvin T. Next up: Saint Vitus, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Andi is an ebm and italo disco artist based in United States of America, with 22
 | Sat, 31 Oct 2026 | Industry City | New York City |
 | Thu, 5 Nov 2026 | Bossa Nova Civic Club | New-york-city |
 | Sat, 28 Nov 2026 | The Cause | London |
+| Sun, 13 Dec 2026 | Good Room | New York City |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Andi is an ebm and italo disco artist based in United States of America, with 22
 
 Eli Escobar, Facets, Arvin T
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi/)*

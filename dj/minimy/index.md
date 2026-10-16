@@ -1,6 +1,6 @@
 # Minimy
 
-Minimy is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at MODULE, Copenhagen on Sat, 31 Oct 2026.
+Minimy is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at MODULE, Copenhagen on Sat, 31 Oct 2026.
 
 Minimy is a techno and trance artist based in Sweden, with 8 gigs on soundcheck across Copenhagen. Often billed alongside Anna Logic, CF682 and UBER KNAST. Next up: MODULE, Copenhagen on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Minimy is a techno and trance artist based in Sweden, with 8 gigs on soundcheck 
 
 Anna Logic, CF682, UBER KNAST
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minimy/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minimy/)*

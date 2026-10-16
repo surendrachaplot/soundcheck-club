@@ -1,6 +1,6 @@
 # San Holo
 
-San Holo is a Bass and Experimental artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Echostage, Washington DC on Sat, 17 Oct 2026.
+San Holo is a Bass and Experimental artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Echostage, Washington DC on Sat, 17 Oct 2026.
 
 San Holo is a bass and experimental artist based in Netherlands, with 26 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 13 more. Often billed alongside Boys Noize, Brutalismus 3000 and I Hate Models. Next up: Echostage, Washington DC on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ San Holo is a bass and experimental artist based in Netherlands, with 26 gigs on
 
 Boys Noize, Brutalismus 3000, I Hate Models
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanholo/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanholo/)*

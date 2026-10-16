@@ -1,6 +1,6 @@
 # KW Institute for Contemporary Art
 
-KW Institute for Contemporary Art is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Vaseline" on Wed, 21 Oct 2026.
+KW Institute for Contemporary Art is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Vaseline" on Wed, 21 Oct 2026.
 
 KW Institute for Contemporary Art is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including 7038634357. See dates, start times and who's playing. Auguststraße 69 10117 Berlin.
 
@@ -15,4 +15,4 @@ KW Institute for Contemporary Art is a music venue in Berlin listed on soundchec
 
 Auguststraße 69 10117 Berlin, Berlin
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kw-institute-for-contemporary-art/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kw-institute-for-contemporary-art/)*

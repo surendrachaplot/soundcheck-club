@@ -1,6 +1,6 @@
 # Venus X
 
-Venus X is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at La Machine Du Moulin Rouge, Paris on Fri, 30 Oct 2026.
+Venus X is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at La Machine Du Moulin Rouge, Paris on Fri, 30 Oct 2026.
 
 Venus X is a club and techno artist based in United States of America, with 18 gigs on soundcheck across Berlin, Detroit, Frankfurt and London and 4 more. Often billed alongside EDEN BEKELE, 7ieben.Leben and A-Trak. Next up: La Machine Du Moulin Rouge, Paris on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Venus X is a club and techno artist based in United States of America, with 18 g
 
 EDEN BEKELE, 7ieben.Leben, A-Trak
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/venusx/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/venusx/)*

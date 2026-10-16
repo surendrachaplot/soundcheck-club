@@ -1,6 +1,6 @@
 # DJ W!ld
 
-DJ W!ld is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at La Démesure, Paris on Sat, 17 Oct 2026.
+DJ W!ld is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at La Démesure, Paris on Sat, 17 Oct 2026.
 
 DJ W!ld is a house and techno artist based in France, with 32 gigs on soundcheck across Bali, Bangkok, Barcelona and Berlin and 13 more. Often billed alongside Inessa Raum, Gauthier DM and BeleeJean. Next up: La Démesure, Paris on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ DJ W!ld is a house and techno artist based in France, with 32 gigs on soundcheck
 
 Inessa Raum, Gauthier DM, BeleeJean
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwild/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwild/)*

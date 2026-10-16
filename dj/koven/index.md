@@ -1,6 +1,6 @@
 # Koven
 
-Koven is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Antwerp Expo, Antwerp on Fri, 30 Oct 2026.
+Koven is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Antwerp Expo, Antwerp on Fri, 30 Oct 2026.
 
 Koven is a drum & bass and bass artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Brisbane and 22 more. Often billed alongside Hybrid Minds, Camo & Krooked and Circadian. Next up: Antwerp Expo, Antwerp on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Koven is a drum & bass and bass artist based in United Kingdom, with 53 gigs on 
 
 Hybrid Minds, Camo & Krooked, Circadian
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koven/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koven/)*

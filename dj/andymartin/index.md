@@ -1,8 +1,8 @@
 # Andy Martin
 
-Andy Martin is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Cadavra, Madrid on Fri, 16 Oct 2026.
+Andy Martin is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Cadavra, Madrid on Fri, 16 Oct 2026.
 
-Andy Martin is a techno and house artist based in Mexico, with 79 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside Niño Arbol, Ogazón and Rene Wise. Next up: Cadavra, Madrid on Fri 16 Oct.
+Andy Martin is a techno and house artist based in Mexico, with 80 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside Niño Arbol, Ogazón and Rene Wise. Next up: Cadavra, Madrid on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Andy Martin is a techno and house artist based in Mexico, with 79 gigs on soundc
 | Fri, 30 Oct 2026 | The Love Inn | Bristol |
 | Sat, 7 Nov 2026 | Zoo | Geneva |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
+| Sat, 28 Nov 2026 | TBA - Saint-Denis | Paris |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 | Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Victoria, Australia) | Melbourne |
 
@@ -33,4 +34,4 @@ Andy Martin is a techno and house artist based in Mexico, with 79 gigs on soundc
 
 Niño Arbol, Ogazón, Rene Wise
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*

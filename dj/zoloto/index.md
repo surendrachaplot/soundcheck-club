@@ -1,13 +1,14 @@
 # ZOLOTO
 
-ZOLOTO is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Luka, Seoul on Sat, 17 Oct 2026.
+ZOLOTO is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Luka, Seoul on Sat, 17 Oct 2026.
 
-ZOLOTO is a techno and industrial artist based in Russia, with 13 gigs on soundcheck across Seoul. Often billed alongside D.E.F, Rivako and PONGPONG. Next up: Luka, Seoul on Sat 17 Oct.
+ZOLOTO is a techno and industrial artist based in Russia, with 14 gigs on soundcheck across Seoul. Often billed alongside D.E.F, Rivako and PONGPONG. Next up: Luka, Seoul on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Luka | Seoul |
 | Sat, 17 Oct 2026 | Luka | Seoul |
 
 ## Recently played
@@ -25,4 +26,4 @@ ZOLOTO is a techno and industrial artist based in Russia, with 13 gigs on soundc
 
 D.E.F, Rivako, PONGPONG
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoloto/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoloto/)*

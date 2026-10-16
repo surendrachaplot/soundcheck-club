@@ -1,6 +1,6 @@
 # Peaky Blindrunk
 
-Peaky Blindrunk is a Disco and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Bramble, Edinburgh on Fri, 16 Oct 2026.
+Peaky Blindrunk is a Disco and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Bramble, Edinburgh on Fri, 16 Oct 2026.
 
 Peaky Blindrunk is a disco and pop artist based in United Kingdom, with 50 gigs on soundcheck across Edinburgh. Often billed alongside Nick from Sneaks, Alexis Taylor and Scottieboy. Next up: Bramble, Edinburgh on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Peaky Blindrunk is a disco and pop artist based in United Kingdom, with 50 gigs 
 
 Nick from Sneaks, Alexis Taylor, Scottieboy
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peakyblindrunk/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peakyblindrunk/)*

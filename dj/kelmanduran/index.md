@@ -1,6 +1,6 @@
 # Kelman Duran
 
-Kelman Duran is a Experimental and Club artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Bryggeriet Scene, Norway on Wed, 14 Oct 2026.
+Kelman Duran is a Experimental and Club artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bryggeriet Scene, Norway on Wed, 14 Oct 2026.
 
 Kelman Duran is an experimental and club artist based in Dominican Republic, with 88 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 24 more. Often billed alongside BAE BAE, Loraine James and Nick León. Next up: Bryggeriet Scene, Norway on Wed 14 Oct.
 
@@ -29,4 +29,4 @@ Kelman Duran is an experimental and club artist based in Dominican Republic, wit
 
 BAE BAE, Loraine James, Nick León
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kelmanduran/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kelmanduran/)*

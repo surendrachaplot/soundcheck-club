@@ -1,6 +1,6 @@
 # xin
 
-xin is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Ormside Projects, London on Sun, 18 Oct 2026.
+xin is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Ormside Projects, London on Sun, 18 Oct 2026.
 
 xin is a club and bass artist, with 11 gigs on soundcheck across London, Manchester, Newcastle and Seoul and 1 more. Often billed alongside Jennifer Walton, aya and 96 Back. Next up: Ormside Projects, London on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ xin is a club and bass artist, with 11 gigs on soundcheck across London, Manches
 
 Jennifer Walton, aya, 96 Back
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xin/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xin/)*

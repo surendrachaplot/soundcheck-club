@@ -1,6 +1,6 @@
 # DJ LESSONS
 
-DJ LESSONS is a Jungle and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Aaja Basement, London on Sat, 31 Oct 2026.
+DJ LESSONS is a Jungle and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Aaja Basement, London on Sat, 31 Oct 2026.
 
 DJ LESSONS is a jungle and hardcore artist based in United Kingdom, with 31 gigs on soundcheck across London. Often billed alongside Rhi Spect, Snoozy and bomb shelter crew. Next up: Aaja Basement, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ LESSONS is a jungle and hardcore artist based in United Kingdom, with 31 gigs
 
 Rhi Spect, Snoozy, bomb shelter crew
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlessons/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlessons/)*

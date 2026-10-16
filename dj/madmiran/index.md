@@ -1,6 +1,6 @@
 # mad miran
 
-mad miran is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
+mad miran is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
 mad miran is a techno and bass artist based in Netherlands, with 205 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 44 more. Often billed alongside Identified Patient, Pariah and DjRUM. Next up: ZENNER, Berlin on Fri 16 Oct.
 
@@ -31,4 +31,4 @@ mad miran is a techno and bass artist based in Netherlands, with 205 gigs on sou
 
 Identified Patient, Pariah, DjRUM
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madmiran/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madmiran/)*

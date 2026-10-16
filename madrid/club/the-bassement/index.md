@@ -1,6 +1,6 @@
 # The Bassement
 
-The Bassement is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "DVRKSUN MADRID ROUND 2" on Thu, 15 Oct 2026.
+The Bassement is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Official After Party BSMT LIVE" on Sat, 17 Oct 2026.
 
 The Bassement is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including Alarico, Alputo, Alviker and Anna Jevills and 2 more. See dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
 
@@ -8,7 +8,7 @@ The Bassement is a music venue in Madrid listed on soundcheck. 12 upcoming gigs,
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | DVRKSUN MADRID ROUND 2 | Daniella da Silva, Parsa Jafari, RIKHTER |
+| Sat, 17 Oct 2026 | Official After Party BSMT LIVE | Chris Figueroa, Karretero |
 | Sat, 24 Oct 2026 | KELLER HARD CLUB 38: CLTX | CLTX, SEPHAX, Sora Éke |
 | Thu, 29 Oct 2026 | NITRO: Pawlowski + Sandwicho B2B TOTTI + Alviker B2B Alputo + Møstroh | Alputo, Alviker, Møstroh, Pawlowski, Sandwicho, TOTTI |
 | Fri, 30 Oct 2026 | Laster Club presents FRIDAY SPECIAL HALLOWEEN WEEKENDER x NON SERIES SHOWCASE | Feral, Nastia Reigel, Psyk, Wata Igarashi |
@@ -23,4 +23,4 @@ The Bassement is a music venue in Madrid listed on soundcheck. 12 upcoming gigs,
 
 C. de Galileo, 2628015 Madrid, Madrid
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*

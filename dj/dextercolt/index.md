@@ -1,14 +1,15 @@
 # Dexter Colt
 
-Dexter Colt is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Pawnshop, Taipei on Sat, 17 Oct 2026.
+Dexter Colt is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Pawnshop, Taipei on Sat, 17 Oct 2026.
 
-Dexter Colt is a house and techno artist based in Canada, with 59 gigs on soundcheck across Bangkok, Hong Kong, Kyoto and New York City and 4 more. Often billed alongside Daryl Knows, Bongomann and Dean Chew. Next up: Pawnshop, Taipei on Sat 17 Oct.
+Dexter Colt is a house and techno artist based in Canada, with 60 gigs on soundcheck across Bangkok, Hong Kong, Kyoto and New York City and 4 more. Often billed alongside Daryl Knows, Bongomann and Dean Chew. Next up: Pawnshop, Taipei on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Pawnshop | Taipei |
+| Fri, 23 Oct 2026 | Earworm | Singapore |
 | Sat, 24 Oct 2026 | Ida's | Singapore |
 | Sat, 31 Oct 2026 | TBA | Singapore |
 | Fri, 6 Nov 2026 | West Harlem | Kyoto |
@@ -30,4 +31,4 @@ Dexter Colt is a house and techno artist based in Canada, with 59 gigs on soundc
 
 Daryl Knows, Bongomann, Dean Chew
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dextercolt/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dextercolt/)*

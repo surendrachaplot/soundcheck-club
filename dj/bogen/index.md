@@ -1,6 +1,6 @@
 # Bøgen
 
-Bøgen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 23 Oct 2026.
+Bøgen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 23 Oct 2026.
 
 Bøgen is a techno and house artist based in Chile, with 45 gigs on soundcheck across Amsterdam, Berlin, Prague and Stockholm. Often billed alongside Vlad Yaki, Hugorieri and Leah Marie. Next up: Ritter Butzke, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Bøgen is a techno and house artist based in Chile, with 45 gigs on soundcheck a
 
 Vlad Yaki, Hugorieri, Leah Marie
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bogen/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bogen/)*

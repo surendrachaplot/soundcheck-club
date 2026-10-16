@@ -1,13 +1,14 @@
 # Bread & Butter
 
-Bread & Butter is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at NEU, Stockholm on Sat, 28 Nov 2026.
+Bread & Butter is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - ALL AROUND LONDON, London on Fri, 30 Oct 2026.
 
-Bread & Butter are a tech house and house duo based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and London and 1 more. Often billed alongside William Quintero, TIME LVPSE and Itswilliamquintero. Next up: NEU, Stockholm on Sat 28 Nov.
+Bread & Butter are a tech house and house duo based in United Kingdom, with 41 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and London and 1 more. Often billed alongside William Quintero, TIME LVPSE and Itswilliamquintero. Next up: TBA - ALL AROUND LONDON, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | TBA - ALL AROUND LONDON | London |
 | Sat, 28 Nov 2026 | NEU | Stockholm |
 | Sun, 27 Dec 2026 | E1 | London |
 
@@ -26,4 +27,4 @@ Bread & Butter are a tech house and house duo based in United Kingdom, with 40 g
 
 William Quintero (2), TIME LVPSE, Itswilliamquintero
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/breadbutter/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/breadbutter/)*

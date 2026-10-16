@@ -1,13 +1,14 @@
 # hÿdra
 
-hÿdra is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Bar Datcha, Montreal on Sat, 31 Oct 2026.
+hÿdra is a Techno and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at ESC, Montreal on Fri, 23 Oct 2026.
 
-hÿdra is a techno and ghetto tech artist based in Canada, with 25 gigs on soundcheck across Montreal and Tallinn. Often billed alongside nastygloss, Katamina and Casa Kobrae. Next up: Bar Datcha, Montreal on Sat 31 Oct.
+hÿdra is a techno and ghetto tech artist based in Canada, with 26 gigs on soundcheck across Montreal and Tallinn. Often billed alongside nastygloss, Casa Kobrae and Katamina. Next up: ESC, Montreal on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | ESC | Montreal |
 | Sat, 31 Oct 2026 | Bar Datcha | Montreal |
 
 ## Recently played
@@ -23,6 +24,6 @@ hÿdra is a techno and ghetto tech artist based in Canada, with 25 gigs on sound
 
 ## Shares bills with
 
-nastygloss, Katamina, Casa Kobrae
+nastygloss, Casa Kobrae, Katamina
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hÿdra/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hÿdra/)*

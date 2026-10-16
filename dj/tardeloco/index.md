@@ -1,6 +1,6 @@
 # Tarde Loco
 
-Tarde Loco is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Arch 535, London on Fri, 16 Oct 2026.
+Tarde Loco is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Arch 535, London on Fri, 16 Oct 2026.
 
 Tarde Loco is a tech house and house artist based in Trinidad and Tobago, with 41 gigs on soundcheck across Barcelona, Bristol, Leeds and Liverpool and 5 more. Often billed alongside Dig This, ATST and Aerofunk. Next up: Arch 535, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Tarde Loco is a tech house and house artist based in Trinidad and Tobago, with 4
 
 Dig This, ATST, Aerofunk
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tardeloco/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tardeloco/)*

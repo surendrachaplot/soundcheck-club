@@ -1,6 +1,6 @@
 # Words of Niō
 
-Words of Niō is a Progressive House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Casa Amante Club, Madrid on Sat, 17 Oct 2026.
+Words of Niō is a Progressive House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Casa Amante Club, Madrid on Sat, 17 Oct 2026.
 
 Words of Niō is a progressive house and deep house artist based in Spain, with 42 gigs on soundcheck across Amsterdam, Ibiza, Madrid and Milan. Often billed alongside ETNA, Omer Tayar and Panyer. Next up: Casa Amante Club, Madrid on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Words of Niō is a progressive house and deep house artist based in Spain, with 
 
 ETNA, Omer Tayar, Panyer
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wordsofnio/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wordsofnio/)*

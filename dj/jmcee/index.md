@@ -1,6 +1,6 @@
 # Jmcee
 
-Jmcee is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at OneSixOne, Melbourne on Sun, 18 Oct 2026.
+Jmcee is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at OneSixOne, Melbourne on Sun, 18 Oct 2026.
 
 Jmcee is a house and techno artist based in Australia, with 85 gigs on soundcheck across Bali, Bangkok, Barcelona and Berlin and 10 more. Often billed alongside Lucca Tan, Gabri-L and Steph Yeah. Next up: OneSixOne, Melbourne on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ Jmcee is a house and techno artist based in Australia, with 85 gigs on soundchec
 
 Lucca Tan, Gabri-L, Steph Yeah
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jmcee/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jmcee/)*

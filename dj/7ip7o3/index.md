@@ -1,6 +1,6 @@
 # 7ip7o3
 
-7ip7o3 is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Henz Club, Seoul on Fri, 16 Oct 2026.
+7ip7o3 is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Henz Club, Seoul on Fri, 16 Oct 2026.
 
 7ip7o3 is a bass and club artist based in South Korea, with 7 gigs on soundcheck across London and Seoul. Often billed alongside Arexibo, MAZE (KR) and MOHO. Next up: The Henz Club, Seoul on Fri 16 Oct.
 
@@ -23,4 +23,4 @@
 
 Arexibo, MAZE (KR), MOHO (1)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/7ip7o3/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/7ip7o3/)*

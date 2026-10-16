@@ -1,8 +1,8 @@
 # Saoirse
 
-Saoirse is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at NX Newcastle, Newcastle on Fri, 16 Oct 2026.
+Saoirse is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at NX Newcastle, Newcastle on Fri, 16 Oct 2026.
 
-Saoirse is a house and techno artist based in Ireland, with 193 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 42 more. Often billed alongside Mella Dee, Shanti Celeste and Job Jobse. Next up: NX Newcastle, Newcastle on Fri 16 Oct.
+Saoirse is a house and techno artist based in Ireland, with 194 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 42 more. Often billed alongside Mella Dee, Shanti Celeste and Job Jobse. Next up: NX Newcastle, Newcastle on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Saoirse is a house and techno artist based in Ireland, with 193 gigs on soundche
 | Fri, 20 Nov 2026 | Gate Milano | Milan |
 | Sat, 21 Nov 2026 | Plaza Mayor de El Poble Espanyol | Barcelona |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 28 Nov 2026 | GASHOUDER | Amsterdam |
 
 ## Recently played
 
@@ -33,4 +34,4 @@ Saoirse is a house and techno artist based in Ireland, with 193 gigs on soundche
 
 Mella Dee, Shanti Celeste, Job Jobse
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saoirse/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saoirse/)*

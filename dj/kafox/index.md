@@ -1,6 +1,6 @@
 # Kafox
 
-Kafox is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Kømplex Lisbon, Lisbon on Fri, 16 Oct 2026.
+Kafox is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Kømplex Lisbon, Lisbon on Fri, 16 Oct 2026.
 
 Kafox is a techno and acid artist based in Brazil, with 21 gigs on soundcheck across Lisbon, Madrid and Porto. Often billed alongside GAIVEU, Destt and GTH (FR). Next up: Kømplex Lisbon, Lisbon on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Kafox is a techno and acid artist based in Brazil, with 21 gigs on soundcheck ac
 
 GAIVEU, Destt, GTH (FR)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kafox/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kafox/)*

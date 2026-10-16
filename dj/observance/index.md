@@ -1,6 +1,6 @@
 # observance
 
-observance is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Domicile, Miami on Fri, 16 Oct 2026.
+observance is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Domicile, Miami on Fri, 16 Oct 2026.
 
 observance is a techno and house artist based in United States of America, with 8 gigs on soundcheck across Miami. Often billed alongside Robyn Sin Love, Boris and Boyfriend Dick. Next up: Domicile, Miami on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ observance is a techno and house artist based in United States of America, with 
 
 Robyn Sin Love, Boris, Boyfriend Dick
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/observance/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/observance/)*

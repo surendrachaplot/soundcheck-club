@@ -1,6 +1,6 @@
 # kalkyl
 
-kalkyl is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Dual, Bangkok on Fri, 23 Oct 2026.
+kalkyl is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Dual, Bangkok on Fri, 23 Oct 2026.
 
 kalkyl is a house and tech house artist, with 8 gigs on soundcheck across Bangkok, Barcelona, Berlin and Stockholm. Often billed alongside Alex New, Mumsfilibaba and Zlene. Next up: Dual, Bangkok on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ kalkyl is a house and tech house artist, with 8 gigs on soundcheck across Bangko
 
 Alex New, Mumsfilibaba, Zlene
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalkyl/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalkyl/)*

@@ -1,14 +1,14 @@
 # Marlie
 
-Marlie is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at 11 Bromley Street, Birmingham on Sat, 17 Oct 2026.
+Marlie is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Gaswrx Birmingham, Birmingham on Sat, 17 Oct 2026.
 
-Marlie is a house and tech house artist, with 131 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 25 more. Often billed alongside Enzo Siragusa, Traumer and PACH. Next up: 11 Bromley Street, Birmingham on Sat 17 Oct.
+Marlie is a house and tech house artist, with 131 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 25 more. Often billed alongside Enzo Siragusa, Traumer and PACH. Next up: Gaswrx Birmingham, Birmingham on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | 11 Bromley Street | Birmingham |
+| Sat, 17 Oct 2026 | Gaswrx Birmingham | Birmingham |
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 | Sun, 25 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
@@ -34,4 +34,4 @@ Marlie is a house and tech house artist, with 131 gigs on soundcheck across Amst
 
 Enzo Siragusa, Traumer, PACH
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*

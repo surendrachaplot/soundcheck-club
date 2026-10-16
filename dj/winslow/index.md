@@ -1,6 +1,6 @@
 # Winslow
 
-Winslow is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Spin, San Diego on Fri, 16 Oct 2026.
+Winslow is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Spin, San Diego on Fri, 16 Oct 2026.
 
 Winslow is a drum & bass and jungle artist based in United States of America, with 24 gigs on soundcheck across Boston, Bristol, Columbus and Edinburgh and 8 more. Often billed alongside imo-Lu, Bristol Luke and London Elektricity. Next up: Spin, San Diego on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Winslow is a drum & bass and jungle artist based in United States of America, wi
 
 imo-Lu, Bristol Luke, London Elektricity
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/winslow/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/winslow/)*

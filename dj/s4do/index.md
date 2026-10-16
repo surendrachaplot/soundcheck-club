@@ -1,6 +1,6 @@
 # S4DO
 
-S4DO is a Techno and Rio Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Beato 30, Lisbon on Fri, 30 Oct 2026.
+S4DO is a Techno and Rio Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Beato 30, Lisbon on Fri, 30 Oct 2026.
 
 S4DO is a techno and rio funk artist based in Portugal, with 45 gigs on soundcheck across Amsterdam, Lisbon, London and Paris and 1 more. Often billed alongside xavbeatz, Bieu and Maribell. Next up: Beato 30, Lisbon on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ S4DO is a techno and rio funk artist based in Portugal, with 45 gigs on soundche
 
 xavbeatz, Bieu, Maribell
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s4do/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s4do/)*

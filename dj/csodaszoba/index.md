@@ -1,6 +1,6 @@
 # Csodaszoba
 
-Csodaszoba is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Atno, Budapest on Sat, 14 Nov 2026.
+Csodaszoba is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Atno, Budapest on Sat, 14 Nov 2026.
 
 Csodaszoba is a club and house artist based in Hungary, with 13 gigs on soundcheck across Budapest. Often billed alongside baeker, Meduzah and Valenthin. Next up: Atno, Budapest on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Csodaszoba is a club and house artist based in Hungary, with 13 gigs on soundche
 
 baeker, Meduzah, Valenthin
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/csodaszoba/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/csodaszoba/)*

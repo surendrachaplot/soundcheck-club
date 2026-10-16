@@ -1,6 +1,6 @@
 # purp
 
-purp is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Paragon, New York City on Fri, 20 Nov 2026.
+purp is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Paragon, New York City on Fri, 20 Nov 2026.
 
 purp is a club and techno artist based in United States of America, with 89 gigs on soundcheck across Amsterdam, Brussels, Los Angeles and Miami and 6 more. Often billed alongside Bodegaparty, jo_sway and JuanDeOne. Next up: Paragon, New York City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ purp is a club and techno artist based in United States of America, with 89 gigs
 
 Bodegaparty, jo_sway, JuanDeOne
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purp/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purp/)*

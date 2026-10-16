@@ -1,6 +1,6 @@
 # Jon1st
 
-Jon1st is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at 440, Midlands on Sat, 17 Oct 2026.
+Jon1st is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at 440, Midlands on Sat, 17 Oct 2026.
 
 Jon1st is a drum & bass and jungle artist based in United Kingdom, with 19 gigs on soundcheck across Bristol, Denver, Leeds and Leipzig and 6 more. Often billed alongside Dolenz, Ila Brugal and Matt Frost. Next up: 440, Midlands on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Jon1st is a drum & bass and jungle artist based in United Kingdom, with 19 gigs 
 
 Dolenz, Ila Brugal, Matt Frost
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jon1st/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jon1st/)*

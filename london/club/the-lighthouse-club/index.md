@@ -1,6 +1,6 @@
 # The Lighthouse Club
 
-The Lighthouse Club is a music venue in London with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Bashment X Afrobeats - Shoreditch Party - Everyone Free Before 12AM" on Sat, 17 Oct 2026.
+The Lighthouse Club is a music venue in London with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Bashment X Afrobeats - Shoreditch Party - Everyone Free Before 12AM" on Sat, 17 Oct 2026.
 
 The Lighthouse Club is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Vybz Kartel. See dates, start times and who's playing. 62 Rivington Street.
 
@@ -23,4 +23,4 @@ The Lighthouse Club is a music venue in London listed on soundcheck. 10 upcoming
 
 62 Rivington Street, London
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lighthouse-club/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lighthouse-club/)*

@@ -1,6 +1,6 @@
 # EAZYBAKED presented by Public Works & Insomniac at Public Works
 
-EAZYBAKED presented by Public Works & Insomniac on Fri 23 Oct, San Francisco/Oakland. See the line-up on soundcheck.
+EAZYBAKED presented by Public Works & Insomniac on Fri 23 Oct, San Francisco/Oakland. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

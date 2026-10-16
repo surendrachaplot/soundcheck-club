@@ -1,6 +1,6 @@
 # Club 77
 
-Club 77 is a music venue in Sydney with 18 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Fridays at 77 x Love Message: Alex Diwa, Shoop DJs" on Fri, 16 Oct 2026.
+Club 77 is a music venue in Sydney with 18 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Fridays at 77 x Love Message: Alex Diwa, Shoop DJs" on Fri, 16 Oct 2026.
 
 Club 77 is a music venue in Sydney listed on soundcheck. 18 upcoming gigs, with line-ups including A Guy Called Gerald, Alex Diwa, b_man (AU) and Ben Fester and 2 more. See dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
 
@@ -23,4 +23,4 @@ Club 77 is a music venue in Sydney listed on soundcheck. 18 upcoming gigs, with 
 
 77 William St, Darlinghurst NSW 2010, Sydney
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*

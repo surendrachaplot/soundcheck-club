@@ -1,6 +1,6 @@
 # Admo
 
-Admo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 13 Nov 2026.
+Admo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 13 Nov 2026.
 
 Admo is a house and tech house artist based in France, with 72 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 21 more. Often billed alongside International Mac, Gene On Earth and Kirill Astra. Next up: 303 Audiophile Bar, Barcelona on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Admo is a house and tech house artist based in France, with 72 gigs on soundchec
 
 International Mac, Gene On Earth, Kirill Astra
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/admo/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/admo/)*

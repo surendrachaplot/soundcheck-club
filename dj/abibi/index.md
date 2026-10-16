@@ -1,6 +1,6 @@
 # Abibi
 
-Abibi is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at HVEN, Tokyo on Sat, 17 Oct 2026.
+Abibi is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at HVEN, Tokyo on Sat, 17 Oct 2026.
 
 Abibi is a breakbeat and house artist based in Pakistan, with 18 gigs on soundcheck across Berlin, London and Tokyo. Often billed alongside Gavsborg, Marylou and Perera Elsewhere. Next up: HVEN, Tokyo on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Abibi is a breakbeat and house artist based in Pakistan, with 18 gigs on soundch
 
 Gavsborg, Marylou, Perera Elsewhere
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abibi/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abibi/)*

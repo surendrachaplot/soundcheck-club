@@ -1,18 +1,18 @@
 # Northern Lights Lounge
 
-Northern Lights Lounge is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "E L I X I R • DR. Disko Dust aka John Ryan • Nick Kothari aka Phunhouse wsg madeera" on Thu, 15 Oct 2026.
+Northern Lights Lounge is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "HOUSE IS HOME: STACEY PULLEN | MISTER JOSHOOA | DRU ALLAN | VINYL ALL NIGHT" on Sat, 24 Oct 2026.
 
-Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including DR. Disko Dust, Dru Allan, madeera and Mister Joshooa and 2 more. See dates, start times and who's playing. 660 W. Baltimore Street; Detroit, MI 48202; United States.
+Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including Ameera, Dru Allan, Glenn Underground and Mister Joshooa and 2 more. See dates, start times and who's playing. 660 W. Baltimore Street; Detroit, MI 48202; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | E L I X I R • DR. Disko Dust aka John Ryan • Nick Kothari aka Phunhouse wsg madeera | DR. Disko Dust, Nick Kothari, madeera |
 | Sat, 24 Oct 2026 | HOUSE IS HOME: STACEY PULLEN / MISTER JOSHOOA / DRU ALLAN / VINYL ALL NIGHT | Dru Allan, Mister Joshooa, Stacey Pullen |
+| Sat, 14 Nov 2026 | Alternative School presents: Musicology with Glenn Underground, Ameera & Turtle Bugg | Ameera, Glenn Underground, Turtle Bugg |
 
 ## Address
 
 660 W. Baltimore Street; Detroit, MI 48202; United States, Detroit
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*

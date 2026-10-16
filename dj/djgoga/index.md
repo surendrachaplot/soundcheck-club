@@ -1,6 +1,6 @@
 # DJ GOGA
 
-DJ GOGA is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Horn, Bangkok on Sat, 31 Oct 2026.
+DJ GOGA is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Horn, Bangkok on Sat, 31 Oct 2026.
 
 DJ GOGA is a techno and club artist, with 8 gigs on soundcheck across Bangkok, Mexico City, Shenzhen and Tokyo. Often billed alongside Sriracha Czaddy, Emex and Evita Manji. Next up: Horn, Bangkok on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ DJ GOGA is a techno and club artist, with 8 gigs on soundcheck across Bangkok, M
 
 Sriracha Czaddy, Emex, Evita Manji
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgoga/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgoga/)*

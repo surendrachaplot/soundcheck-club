@@ -1,6 +1,6 @@
 # Soundexile
 
-Soundexile is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Crobar - Buenos Aires, Buenos Aires on Sat, 17 Oct 2026.
+Soundexile is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Crobar - Buenos Aires, Buenos Aires on Sat, 17 Oct 2026.
 
 Soundexile is a progressive house and techno artist based in Argentina, with 13 gigs on soundcheck across Amsterdam, Buenos Aires and Madrid. Often billed alongside Figueras, Hernan Cattaneo and Antrim. Next up: Crobar - Buenos Aires, Buenos Aires on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Soundexile is a progressive house and techno artist based in Argentina, with 13 
 
 Figueras, Hernan Cattaneo, Antrim
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soundexile/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soundexile/)*

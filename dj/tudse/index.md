@@ -1,6 +1,6 @@
 # Tudse
 
-Tudse is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Void Club, Berlin on Fri, 13 Nov 2026.
+Tudse is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Void Club, Berlin on Fri, 13 Nov 2026.
 
 Tudse is a techno and house artist based in Germany, with 29 gigs on soundcheck across Berlin, Hamburg and Munich. Often billed alongside Empro, Coco and Phauna. Next up: Void Club, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Tudse is a techno and house artist based in Germany, with 29 gigs on soundcheck 
 
 Empro, Coco, Phauna
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tudse/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tudse/)*

@@ -1,6 +1,6 @@
 # DJ Cosworth
 
-DJ Cosworth is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Gaffe, London on Fri, 30 Oct 2026.
+DJ Cosworth is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Gaffe, London on Fri, 30 Oct 2026.
 
 DJ Cosworth is a garage and house artist based in United Kingdom, with 82 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Belfast and 21 more. Often billed alongside Oldboy, Dr Dubplate and Bakey. Next up: Gaffe, London on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ DJ Cosworth is a garage and house artist based in United Kingdom, with 82 gigs o
 
 Oldboy, Dr Dubplate, Bakey
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcosworth/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcosworth/)*

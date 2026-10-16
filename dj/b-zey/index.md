@@ -1,6 +1,6 @@
 # B-ZEY
 
-B-ZEY is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at MH5 Rooftop, Munich on Sat, 31 Oct 2026.
+B-ZEY is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at MH5 Rooftop, Munich on Sat, 31 Oct 2026.
 
 B-ZEY is a house and tech house artist based in Germany, with 12 gigs on soundcheck across Munich. Often billed alongside CHOOSE WHITE, Dan Mlinar and ROBOTIQ. Next up: MH5 Rooftop, Munich on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ B-ZEY is a house and tech house artist based in Germany, with 12 gigs on soundch
 
 CHOOSE WHITE, Dan Mlinar, ROBOTIQ
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b-zey/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b-zey/)*

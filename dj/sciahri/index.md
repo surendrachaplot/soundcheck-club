@@ -1,6 +1,6 @@
 # Sciahri
 
-Sciahri is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Sat, 7 Nov 2026.
+Sciahri is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Sat, 7 Nov 2026.
 
 Sciahri is a techno and house artist based in Italy, with 34 gigs on soundcheck across Athens, Barcelona, Berlin and Leipzig and 11 more. Often billed alongside Wizard K, ARMANDO and Aniaef. Next up: INPUT High Fidelity Dance Club, Barcelona on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Sciahri is a techno and house artist based in Italy, with 34 gigs on soundcheck 
 
 Wizard K, ARMANDO, Aniaef
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sciahri/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sciahri/)*

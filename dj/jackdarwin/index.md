@@ -1,6 +1,6 @@
 # Jack Darwin
 
-Jack Darwin is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at LOU, Rotterdam on Fri, 16 Oct 2026.
+Jack Darwin is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at LOU, Rotterdam on Fri, 16 Oct 2026.
 
 Jack Darwin is a house and tech house artist, with 10 gigs on soundcheck across Amsterdam, Berlin, Cardiff and Leeds and 1 more. Often billed alongside Andy Luff, Still Water and E.LINA. Next up: LOU, Rotterdam on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Jack Darwin is a house and tech house artist, with 10 gigs on soundcheck across 
 
 Andy Luff, Still Water, E.LINA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackdarwin/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackdarwin/)*

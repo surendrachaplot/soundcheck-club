@@ -1,6 +1,6 @@
 # Stealth
 
-Stealth is a music venue in Nottingham with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "FMS 6 Deck - Nottingham" on Fri, 16 Oct 2026.
+Stealth is a music venue in Nottingham with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "FMS 6 Deck - Nottingham" on Fri, 16 Oct 2026.
 
 Stealth is a music venue in Nottingham listed on soundcheck. 5 upcoming gigs, with line-ups including Casnova, Crossy, Fred V and Hoax (UK) and 2 more. See dates, start times and who's playing. Masonic Place, Goldsmith Street, Nottingham, NG1 5JT, United Kingdom.
 
@@ -18,4 +18,4 @@ Stealth is a music venue in Nottingham listed on soundcheck. 5 upcoming gigs, wi
 
 Masonic Place, Goldsmith Street, Nottingham, NG1 5JT, United Kingdom, Nottingham
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/stealth/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/stealth/)*

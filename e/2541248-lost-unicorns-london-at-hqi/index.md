@@ -1,6 +1,6 @@
 # Lost Unicorns - LONDON at HQI
 
-Lost Unicorns - LONDON at HQI on Fri 13 Nov, London. 3 artists: Adela, D LAI and JFOX. Trance and Techno. See the line-up on soundcheck.
+Lost Unicorns - LONDON at HQI on Fri 13 Nov, London. 4 artists: Adela, D LAI, JFOX and Jtucker. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Lost Unicorns - LONDON at HQI on Fri 13 Nov, London. 3 artists: Adela, D LAI and
 - Adela
 - D LAI
 - JFOX
+- Jtucker
 
 *Source: [soundcheck](https://soundcheck.club/e/2541248-lost-unicorns-london-at-hqi/)*

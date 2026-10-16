@@ -1,6 +1,6 @@
 # Serō
 
-Serō is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Marmorbar, Berlin on Sat, 24 Oct 2026.
+Serō is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Marmorbar, Berlin on Sat, 24 Oct 2026.
 
 Serō is a techno and trance artist based in France, with 9 gigs on soundcheck across Berlin, Brussels and Paris. Often billed alongside .JKM, Acid Oslo and Alhena_. Next up: Marmorbar, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Serō is a techno and trance artist based in France, with 9 gigs on soundcheck a
 
 .JKM, Acid Oslo, Alhena_
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sero-fr/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sero-fr/)*

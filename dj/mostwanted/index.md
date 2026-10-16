@@ -1,6 +1,6 @@
 # MostWanted
 
-MostWanted is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Seawolf Records Barcelona, Barcelona on Fri, 16 Oct 2026.
+MostWanted is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Seawolf Records Barcelona, Barcelona on Fri, 16 Oct 2026.
 
 MostWanted is a house and electro artist based in Peru, with 17 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Santacreu, JJ Beteta and Christian Arcila. Next up: Seawolf Records Barcelona, Barcelona on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ MostWanted is a house and electro artist based in Peru, with 17 gigs on soundche
 
 Santacreu, JJ Beteta, Christian Arcila
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mostwanted/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mostwanted/)*

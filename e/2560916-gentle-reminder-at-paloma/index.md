@@ -1,6 +1,6 @@
 # Gentle Reminder at Paloma
 
-Gentle Reminder at Paloma on Sun 22 Nov, Berlin. 4 artists: Charlie Vaux, DJ Bricks, MVHY and VRTL. House and Club. See the line-up on soundcheck.
+Gentle Reminder at Paloma on Sun 22 Nov, Berlin. 5 artists: Charlie Vaux, DJ Bricks, Giulia Gutterer and MVHY and 1 more. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Gentle Reminder at Paloma on Sun 22 Nov, Berlin. 4 artists: Charlie Vaux, DJ Bri
 
 - Charlie Vaux
 - DJ Bricks
+- Giulia Gutterer
 - MVHY
 - VRTL
 

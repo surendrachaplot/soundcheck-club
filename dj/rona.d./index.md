@@ -1,6 +1,6 @@
 # Ron A.D.
 
-Ron A.D. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Chicago on Sun, 18 Oct 2026.
+Ron A.D. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Chicago on Sun, 18 Oct 2026.
 
 Ron A.D. is a techno and house artist based in United States of America, with 13 gigs on soundcheck across Chicago, Detroit and New York City. Often billed alongside Microdot, Aaron Chase and Blu9. Next up: TBA, Chicago on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Ron A.D. is a techno and house artist based in United States of America, with 13
 
 Microdot, Aaron Chase, Blu9
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rona.d./)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rona.d./)*

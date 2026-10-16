@@ -1,6 +1,6 @@
 # Gbenga
 
-Gbenga is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Private Warehouse DTLA, Los Angeles on Sat, 31 Oct 2026.
+Gbenga is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Private Warehouse DTLA, Los Angeles on Sat, 31 Oct 2026.
 
 Gbenga is a techno and club artist based in United States of America, with 56 gigs on soundcheck across Berlin, Leeds, Los Angeles and New York City and 1 more. Often billed alongside Mapamota, Stealth Angel and Umbra Abra. Next up: TBA - Private Warehouse DTLA, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Gbenga is a techno and club artist based in United States of America, with 56 gi
 
 Mapamota, Stealth Angel, Umbra Abra
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gbenga/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gbenga/)*

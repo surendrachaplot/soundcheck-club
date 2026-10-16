@@ -1,6 +1,6 @@
 # N:Fostell
 
-N:Fostell is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Pushkar Cocktail & Dining, Birmingham on Sat, 17 Oct 2026.
+N:Fostell is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Pushkar Cocktail & Dining, Birmingham on Sat, 17 Oct 2026.
 
 N:Fostell is an afro house and house artist based in United Kingdom, with 8 gigs on soundcheck across Birmingham and London. Often billed alongside Mark Radford, Tippa and Master Stepz. Next up: Pushkar Cocktail & Dining, Birmingham on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ N:Fostell is an afro house and house artist based in United Kingdom, with 8 gigs
 
 Mark Radford, Tippa, Master Stepz
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nfostell-uk/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nfostell-uk/)*

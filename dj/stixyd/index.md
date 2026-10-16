@@ -1,13 +1,14 @@
 # Stixy D
 
-Stixy D is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at 45 London, London on Sun, 29 Nov 2026.
+Stixy D is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at XOYO Birmingham, Birmingham on Sat, 28 Nov 2026.
 
-Stixy D is a garage and house artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Bear Winder, Boon (UK) and Braindead. Next up: 45 London, London on Sun 29 Nov.
+Stixy D is a garage and house artist based in United Kingdom, with 9 gigs on soundcheck across Birmingham and London. Often billed alongside Bear Winder, Boon (UK) and Braindead. Next up: XOYO Birmingham, Birmingham on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | XOYO Birmingham | Birmingham |
 | Sun, 29 Nov 2026 | 45 London | London |
 
 ## Recently played
@@ -24,4 +25,4 @@ Stixy D is a garage and house artist based in United Kingdom, with 8 gigs on sou
 
 Bear Winder, Boon (UK), Braindead
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stixyd/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stixyd/)*

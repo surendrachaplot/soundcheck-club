@@ -1,6 +1,6 @@
 # nanaceba
 
-nanaceba is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Apotheke, Los Angeles on Sun, 18 Oct 2026.
+nanaceba is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Apotheke, Los Angeles on Sun, 18 Oct 2026.
 
 nanaceba is a house and deep house artist based in Ukraine, with 8 gigs on soundcheck across Los Angeles. Often billed alongside Stepushin, KOMLEV and Aaron Paar. Next up: Apotheke, Los Angeles on Sun 18 Oct.
 
@@ -24,4 +24,4 @@ nanaceba is a house and deep house artist based in Ukraine, with 8 gigs on sound
 
 Stepushin, KOMLEV, Aaron Paar
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanaceba/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanaceba/)*

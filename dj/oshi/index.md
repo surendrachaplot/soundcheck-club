@@ -1,8 +1,8 @@
 # Oshi
 
-Oshi is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Débris, Tokyo on Tue, 27 Oct 2026.
+Oshi is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Débris, Tokyo on Tue, 27 Oct 2026.
 
-Oshi is a techno and bass artist based in France, with 92 gigs on soundcheck across Barcelona, Riga and Tokyo. Often billed alongside --- mr ---, Da Yama and Kuro. Next up: Débris, Tokyo on Tue 27 Oct.
+Oshi is a techno and bass artist based in France, with 93 gigs on soundcheck across Barcelona, Riga and Tokyo. Often billed alongside --- mr ---, Da Yama and Ken Sugai. Next up: Débris, Tokyo on Tue 27 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Oshi is a techno and bass artist based in France, with 92 gigs on soundcheck acr
 | --- | --- | --- |
 | Tue, 27 Oct 2026 | Débris | Tokyo |
 | Tue, 27 Oct 2026 | Débris | Tokyo |
+| Sat, 7 Nov 2026 | ZUBAR | Tokyo |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Oshi is a techno and bass artist based in France, with 92 gigs on soundcheck acr
 
 ## Shares bills with
 
---- mr ---, Da Yama, Kuro
+--- mr ---, Da Yama, Ken Sugai
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oshi/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oshi/)*

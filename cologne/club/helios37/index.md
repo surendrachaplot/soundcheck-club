@@ -1,6 +1,6 @@
 # Helios37
 
-Helios37 is a music venue in Cologne with 12 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Ascension with Limoncello, HOTBOI2300, OSKAMAXX, Patrick Schumm at Helios37" on Fri, 16 Oct 2026.
+Helios37 is a music venue in Cologne with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Ascension with Limoncello, HOTBOI2300, OSKAMAXX, Patrick Schumm at Helios37" on Fri, 16 Oct 2026.
 
 Helios37 is a music venue in Cologne listed on soundcheck. 12 upcoming gigs, with line-ups including Belasto, Bensonius, Esther and Felix Kröcher and 2 more. See dates, start times and who's playing. Heliosstr. 37, 50825 Köln, Deutschland.
 
@@ -23,4 +23,4 @@ Helios37 is a music venue in Cologne listed on soundcheck. 12 upcoming gigs, wit
 
 Heliosstr. 37, 50825 Köln, Deutschland, Cologne
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*

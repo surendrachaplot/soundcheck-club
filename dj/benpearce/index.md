@@ -1,6 +1,6 @@
 # Ben Pearce
 
-Ben Pearce is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Portsmouth on Fri, 30 Oct 2026.
+Ben Pearce is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Portsmouth on Fri, 30 Oct 2026.
 
 Ben Pearce is a deep house and house artist based in United Kingdom, with 14 gigs on soundcheck across Bristol, Leeds, Liverpool and London and 2 more. Often billed alongside Alexis Raphael, Huxley and Josh Butler. Next up: TBA, Portsmouth on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Ben Pearce is a deep house and house artist based in United Kingdom, with 14 gig
 
 Alexis Raphael, Huxley, Josh Butler
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benpearce/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benpearce/)*

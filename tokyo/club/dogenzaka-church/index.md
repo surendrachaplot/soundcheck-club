@@ -1,14 +1,13 @@
 # Dogenzaka Church
 
-Dogenzaka Church is a music venue in Tokyo with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "AMEN" on Thu, 15 Oct 2026.
+Dogenzaka Church is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "re:ACCiDENTAL JaM" on Sat, 17 Oct 2026.
 
-Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 8 upcoming gigs, with line-ups including DADO, Hironobu Jyounai, KAIKAI and Nevermind and 2 more. See dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階.
+Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including DADO, Hironobu Jyounai, KAIKAI and Okehazama and 2 more. See dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | AMEN | Nevermind, yuitty |
 | Sat, 17 Oct 2026 | re:ACCiDENTAL JaM |  |
 | Sun, 18 Oct 2026 | rehabilitation | Okehazama |
 | Wed, 21 Oct 2026 | JESUS | Tinker |
@@ -21,4 +20,4 @@ Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 8 upcoming gigs
 
 Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階, Tokyo
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dogenzaka-church/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dogenzaka-church/)*

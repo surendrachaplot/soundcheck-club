@@ -1,6 +1,6 @@
 # Ninajirachi
 
-Ninajirachi is a Electro and Pop artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Fair Park, Dallas-fort-worth on Wed, 30 Dec 2026.
+Ninajirachi is a Electro and Pop artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Fair Park, Dallas-fort-worth on Wed, 30 Dec 2026.
 
 Ninajirachi is an electro and pop artist based in Australia, with 61 gigs on soundcheck across Auckland, Austin, Barcelona and Berlin and 27 more. Often billed alongside umru, Izzy Camina and KAVARI. Next up: Fair Park, Dallas Fort Worth on Wed 30 Dec.
 
@@ -29,4 +29,4 @@ Ninajirachi is an electro and pop artist based in Australia, with 61 gigs on sou
 
 umru, Izzy Camina, KAVARI
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninajirachi/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninajirachi/)*

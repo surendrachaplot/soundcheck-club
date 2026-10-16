@@ -1,6 +1,6 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "SIREN OF SOUL" on Fri, 16 Oct 2026.
+Circus Tokyo is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "SIREN OF SOUL" on Fri, 16 Oct 2026.
 
 Circus Tokyo is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with line-ups including Acrocanthosaurus, AI, Azumai and Blacky and 2 more. See dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
@@ -9,7 +9,7 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, w
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | SIREN OF SOUL | DiscCampForest, FU (JP), JADALAREIGN, Kairi Komoda, Lapistar, Nari (2), Senma (DCF）, cirra |
-| Sat, 17 Oct 2026 | synts presents: Mietze Conte |  |
+| Sat, 17 Oct 2026 | synts presents: Mietze Conte | Mietze Conte |
 | Fri, 23 Oct 2026 | Circus Tokyo 11TH ANNIVERSARY DAY1 | HEAVEN'S GATE CREW, M.I.O, Makoto, SAKO, nasthug |
 | Sat, 24 Oct 2026 | Circus Tokyo 11TH ANNIVERSARY DAY2 | DJ Haus, Guchon, Licaxxx, kengotaki, okadada |
 | Fri, 30 Oct 2026 | ENSITE 4 Year Anniversary with Mareena (Tresor, Unrush, Fides) | AI (10), Isshin, KOSHIRO, Kotaro Shimizu, Kurea, Lynta, Mareena, Mistr Dean, Yui (JP), tnseei |
@@ -23,4 +23,4 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, w
 
 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002, Tokyo
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*

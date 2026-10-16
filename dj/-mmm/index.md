@@ -1,6 +1,6 @@
 # :MUMM
 
-:MUMM is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at elipamanoke, Leipzig on Fri, 6 Nov 2026.
+:MUMM is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at elipamanoke, Leipzig on Fri, 6 Nov 2026.
 
 :MUMM is a trance and house artist based in Germany, with 40 gigs on soundcheck across Berlin and Leipzig. Often billed alongside s-ray, KRUE and DJ Ferrari. Next up: elipamanoke, Leipzig on Fri 6 Nov.
 
@@ -25,4 +25,4 @@
 
 s-ray, KRUE, DJ Ferrari (2)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/-mmm/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/-mmm/)*

@@ -1,6 +1,6 @@
 # JuicySteamedHams
 
-JuicySteamedHams is a UK Funky and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Haggerston, London on Sat, 17 Oct 2026.
+JuicySteamedHams is a UK Funky and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Haggerston, London on Sat, 17 Oct 2026.
 
 JuicySteamedHams is an uk funky and dancehall artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside Missy T, Ovrtic and EWASOUNDZ. Next up: The Haggerston, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ JuicySteamedHams is an uk funky and dancehall artist based in United Kingdom, wi
 
 Missy T, Ovrtic, EWASOUNDZ
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juicysteamedhams/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juicysteamedhams/)*

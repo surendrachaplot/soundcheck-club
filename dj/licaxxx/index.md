@@ -1,8 +1,8 @@
 # Licaxxx
 
-Licaxxx is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Circus Osaka, Osaka on Sat, 17 Oct 2026.
+Licaxxx is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Circus Osaka, Osaka on Sat, 17 Oct 2026.
 
-Licaxxx is a house and techno artist based in Japan, with 96 gigs on soundcheck across Hong Kong, Kyoto, Lyon and Melbourne and 4 more. Often billed alongside JUN INAGAWA, FELINE (JP) and kengotaki. Next up: Circus Osaka, Osaka on Sat 17 Oct.
+Licaxxx is a house and techno artist based in Japan, with 97 gigs on soundcheck across Hong Kong, Kyoto, Lyon and Melbourne and 4 more. Often billed alongside JUN INAGAWA, FELINE (JP) and kengotaki. Next up: Circus Osaka, Osaka on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Licaxxx is a house and techno artist based in Japan, with 96 gigs on soundcheck 
 | Sat, 17 Oct 2026 | Circus Osaka | Osaka |
 | Sat, 24 Oct 2026 | Circus Tokyo | Tokyo |
 | Sun, 25 Oct 2026 | Toner | Tokyo |
+| Mon, 23 Nov 2026 | BAR Inc | Osaka |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Licaxxx is a house and techno artist based in Japan, with 96 gigs on soundcheck 
 
 JUN INAGAWA, FELINE (JP), kengotaki
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/licaxxx/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/licaxxx/)*

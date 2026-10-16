@@ -1,6 +1,6 @@
 # Cosmic Love Rotation
 
-Cosmic Love Rotation is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Xorostasio, Athens on Fri, 16 Oct 2026.
+Cosmic Love Rotation is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Xorostasio, Athens on Fri, 16 Oct 2026.
 
 Cosmic Love Rotation is a club and house artist, with 12 gigs on soundcheck across Athens, Budapest, Riga and Tbilisi. Often billed alongside Tng Razgo, Andreas Palmer and Onda. Next up: Xorostasio, Athens on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Cosmic Love Rotation is a club and house artist, with 12 gigs on soundcheck acro
 
 Tng Razgo, Andreas Palmer, Onda (3)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicloverotation/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicloverotation/)*

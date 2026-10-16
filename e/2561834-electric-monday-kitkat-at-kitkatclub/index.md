@@ -1,6 +1,6 @@
 # Electric Monday @Kitkat at KitKatClub
 
-Electric Monday @Kitkat at KitKatClub on Mon 7 Dec, Berlin. 4 artists: Diego Montiel, Frankie Flowerz, Ricardo Rodriguez and Serena Thunderbolt. Techno and House. See the line-up on soundcheck.
+Electric Monday @Kitkat at KitKatClub on Mon 7 Dec, Berlin. 4 artists: Diego Montiel, Frankie Flowerz, Ricardo Rodriguez and Xminder. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,6 @@ Electric Monday @Kitkat at KitKatClub on Mon 7 Dec, Berlin. 4 artists: Diego Mon
 - Diego Montiel
 - Frankie Flowerz
 - Ricardo Rodriguez
-- Serena Thunderbolt (2)
+- Xminder
 
 *Source: [soundcheck](https://soundcheck.club/e/2561834-electric-monday-kitkat-at-kitkatclub/)*

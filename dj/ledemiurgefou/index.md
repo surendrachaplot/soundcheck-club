@@ -1,6 +1,6 @@
 # Ledemiurgefou
 
-Ledemiurgefou is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Company Club, Milan on Sat, 17 Oct 2026.
+Ledemiurgefou is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Company Club, Milan on Sat, 17 Oct 2026.
 
 Ledemiurgefou is a techno and house artist based in Italy, with 13 gigs on soundcheck across Milan. Often billed alongside Kingsizebed, ARMANDO and IKIIR. Next up: Company Club, Milan on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Ledemiurgefou is a techno and house artist based in Italy, with 13 gigs on sound
 
 Kingsizebed, ARMANDO, IKIIR
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ledemiurgefou/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ledemiurgefou/)*

@@ -1,6 +1,6 @@
 # Mel (FR)
 
-Mel (FR) is a Techno and Minimal artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Badaboum, Paris on Fri, 16 Oct 2026.
+Mel (FR) is a Techno and Minimal artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Badaboum, Paris on Fri, 16 Oct 2026.
 
 Mel (FR) is a techno and minimal artist based in France, with 16 gigs on soundcheck across Bordeaux, Brussels, Lyon and Paris and 1 more. Often billed alongside Domi (FR), Jolly (FR) and Mathiou. Next up: Badaboum, Paris on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Mel (FR) is a techno and minimal artist based in France, with 16 gigs on soundch
 
 Domi (FR), Jolly (FR), Mathiou
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mel-fr/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mel-fr/)*

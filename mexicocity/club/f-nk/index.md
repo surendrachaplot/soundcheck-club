@@ -1,6 +1,6 @@
 # Fünk
 
-Fünk is a music venue in Mexico City with 11 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Ssensorial x Fünk" on Thu, 15 Oct 2026.
+Fünk is a music venue in Mexico City with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Ssensorial x Fünk" on Thu, 15 Oct 2026.
 
 Fünk is a music venue in Mexico City listed on soundcheck. 11 upcoming gigs, with line-ups including Alby Esc, Âme, Astroboii and BADSISTA and 2 more. See dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
@@ -23,4 +23,4 @@ Fünk is a music venue in Mexico City listed on soundcheck. 11 upcoming gigs, wi
 
 Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico, Mexico City
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*

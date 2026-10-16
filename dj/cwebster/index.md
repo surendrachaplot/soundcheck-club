@@ -1,6 +1,6 @@
 # Charles Webster
 
-Charles Webster is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Honey Street Studio, Manchester on Sun, 18 Oct 2026.
+Charles Webster is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Honey Street Studio, Manchester on Sun, 18 Oct 2026.
 
 Charles Webster is a house and deep house artist based in United Kingdom, with 17 gigs on soundcheck across Alicante, Athens, Cork and Detroit and 8 more. Often billed alongside Paul Nickerson, Alex Dallas and André Lodemann. Next up: Honey Street Studio, Manchester on Sun 18 Oct.
 
@@ -30,4 +30,4 @@ Charles Webster is a house and deep house artist based in United Kingdom, with 1
 
 Paul Nickerson, Alex Dallas, André Lodemann
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cwebster/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cwebster/)*

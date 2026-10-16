@@ -1,6 +1,6 @@
 # Oolongbru
 
-Oolongbru is a Broken Beat and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Ankali & Planeta Za, Prague on Tue, 27 Oct 2026.
+Oolongbru is a Broken Beat and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Ankali & Planeta Za, Prague on Tue, 27 Oct 2026.
 
 Oolongbru is a broken beat and techno artist, with 20 gigs on soundcheck across Prague. Often billed alongside domizako, AXT and Breaka. Next up: Ankali & Planeta Za, Prague on Tue 27 Oct.
 
@@ -25,4 +25,4 @@ Oolongbru is a broken beat and techno artist, with 20 gigs on soundcheck across 
 
 domizako, AXT, Breaka
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oolongbru/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oolongbru/)*

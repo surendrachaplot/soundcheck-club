@@ -1,6 +1,6 @@
 # Omar Latigo
 
-Omar Latigo is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Versalles 64, Mexico City on Sat, 31 Oct 2026.
+Omar Latigo is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Versalles 64, Mexico City on Sat, 31 Oct 2026.
 
 Omar Latigo is a house and trance artist, with 9 gigs on soundcheck across Mexico City. Often billed alongside Alatriste (MX), Eliel Capa and Holder. Next up: Versalles 64, Mexico City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Omar Latigo is a house and trance artist, with 9 gigs on soundcheck across Mexic
 
 Alatriste (MX), Eliel Capa, Holder
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omarlatigo/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omarlatigo/)*

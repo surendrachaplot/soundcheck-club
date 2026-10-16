@@ -1,14 +1,13 @@
 # Eris Drew
 
-Eris Drew is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at NUMBER 90 LONDON, London on Thu, 15 Oct 2026.
+Eris Drew is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
 
-Eris Drew is a house and techno artist based in United States of America, with 192 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 54 more. Often billed alongside Octo Octa, Mike Servito and CCL. Next up: NUMBER 90 LONDON, London on Thu 15 Oct.
+Eris Drew is a house and techno artist based in United States of America, with 192 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 54 more. Often billed alongside Octo Octa, Mike Servito and CCL. Next up: Iter Tenerife, Canary Islands on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | NUMBER 90 LONDON | London |
 | Fri, 16 Oct 2026 | Iter Tenerife | Canary-islands |
 | Fri, 23 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 | Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
@@ -23,6 +22,7 @@ Eris Drew is a house and techno artist based in United States of America, with 1
 
 ## Recently played
 
+- NUMBER 90 LONDON, London · Thu, 15 Oct 2026
 - Empire Polo Club, Palm-springs · Sat, 10 Oct 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal · Sun, 4 Oct 2026
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
@@ -30,10 +30,9 @@ Eris Drew is a house and techno artist based in United States of America, with 1
 - RSO.BERLIN, Berlin · Sat, 12 Sept 2026
 - Trädgården, Stockholm · Fri, 11 Sept 2026
 - 528 Ibiza, Ibiza · Tue, 1 Sept 2026
-- Southwark Park, London · Sun, 30 Aug 2026
 
 ## Shares bills with
 
 Octo Octa, Mike Servito, CCL
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*

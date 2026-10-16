@@ -1,6 +1,6 @@
 # DaiSu
 
-DaiSu is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at 26 Leake Street, London on Fri, 27 Nov 2026.
+DaiSu is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at 26 Leake Street, London on Fri, 27 Nov 2026.
 
 DaiSu is a bass and electronica artist, with 14 gigs on soundcheck across London and Manchester. Often billed alongside Kitsta, Mystique and Miggs. Next up: 26 Leake Street, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DaiSu is a bass and electronica artist, with 14 gigs on soundcheck across London
 
 Kitsta, Mystique, Miggs
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daisu/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daisu/)*

@@ -1,6 +1,6 @@
 # lifeloose
 
-lifeloose is a Electronica and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Social, London on Thu, 5 Nov 2026.
+lifeloose is a Electronica and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Social, London on Thu, 5 Nov 2026.
 
 lifeloose is an electronica and electro artist, with 14 gigs on soundcheck across Brighton, Bristol, London and Manchester. Often billed alongside Alexis, Krunx and PVA. Next up: The Social, London on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ lifeloose is an electronica and electro artist, with 14 gigs on soundcheck acros
 
 Alexis, Krunx, PVA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lifeloose/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lifeloose/)*

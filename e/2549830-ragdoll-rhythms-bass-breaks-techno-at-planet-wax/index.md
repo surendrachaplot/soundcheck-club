@@ -14,6 +14,6 @@ Ragdoll Rhythms: Bass, Breaks, Techno at Planet Wax on Sat 7 Nov, London. 5 arti
 - NIIX
 - Sands Spheric
 - Sou Varine
-- youyou
+- YouYou (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2549830-ragdoll-rhythms-bass-breaks-techno-at-planet-wax/)*

@@ -1,14 +1,15 @@
 # RUZE
 
-RUZE is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Joshua Brooks, Manchester on Sat, 17 Oct 2026.
+RUZE is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Joshua Brooks, Manchester on Sat, 17 Oct 2026.
 
-RUZE is a house and tech house artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Robbie Doherty. Next up: Joshua Brooks, Manchester on Sat 17 Oct.
+RUZE is a house and tech house artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Robbie Doherty. Next up: Joshua Brooks, Manchester on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Joshua Brooks | Manchester |
+| Thu, 22 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 31 Oct 2026 | Chelmsford City Racecourse | London |
 | Sat, 31 Oct 2026 | The Nest | Nottingham |
@@ -31,4 +32,4 @@ RUZE is a house and tech house artist based in United Kingdom, with 124 gigs on 
 
 Prunk, Kellie Allen, Robbie Doherty
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*

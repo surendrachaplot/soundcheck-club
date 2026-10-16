@@ -1,8 +1,8 @@
 # Le Sucre
 
-Le Sucre is a music venue in Lyon with 16 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "club: Fasme (live), Quadratschulz (live)" on Fri, 16 Oct 2026.
+Le Sucre is a music venue in Lyon with 24 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "club: Fasme (live), Quadratschulz (live)" on Fri, 16 Oct 2026.
 
-Le Sucre is a music venue in Lyon listed on soundcheck. 16 upcoming gigs, with line-ups including Akalex, aya, Blood of Aza and Camion Bazar and 2 more. See dates, start times and who's playing. 50 quai Rambaud, 69002 Lyon, France.
+Le Sucre is a music venue in Lyon listed on soundcheck. 24 upcoming gigs, with line-ups including Akalex, Anetha, aya and Bad Boombox and 2 more. See dates, start times and who's playing. 50 quai Rambaud, 69002 Lyon, France.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Le Sucre is a music venue in Lyon listed on soundcheck. 16 upcoming gigs, with l
 
 50 quai Rambaud, 69002 Lyon, France, Lyon
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/le-sucre/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/le-sucre/)*

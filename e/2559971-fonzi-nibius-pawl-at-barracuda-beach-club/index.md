@@ -1,6 +1,6 @@
 # Fonzi, Nibius & Pawl at Barracuda Beach Club
 
-Fonzi, Nibius & Pawl at Barracuda Beach Club on Sat 17 Oct, Lisbon. 2 artists: Fonzi and Nibius. House and Tech House. See the line-up on soundcheck.
+Fonzi, Nibius & Pawl at Barracuda Beach Club on Sat 17 Oct, Lisbon. 3 artists: Fonzi, Nibius and Pawl. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Fonzi, Nibius & Pawl at Barracuda Beach Club on Sat 17 Oct, Lisbon. 2 artists: F
 
 - Fonzi (2)
 - Nibius
+- Pawl
 
 *Source: [soundcheck](https://soundcheck.club/e/2559971-fonzi-nibius-pawl-at-barracuda-beach-club/)*

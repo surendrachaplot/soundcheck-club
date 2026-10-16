@@ -1,6 +1,6 @@
 # What The Fish Queens
 
-What The Fish Queens is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "Demon Hunters: After Dark – What The Fish Halloween Party" on Sat, 17 Oct 2026.
+What The Fish Queens is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "Demon Hunters: After Dark – What The Fish Halloween Party" on Sat, 17 Oct 2026.
 
 What The Fish Queens is a music venue in New York City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ What The Fish Queens is a music venue in New York City listed on soundcheck. 1 u
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Demon Hunters: After Dark – What The Fish Halloween Party |  |
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/what-the-fish-queens/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/what-the-fish-queens/)*

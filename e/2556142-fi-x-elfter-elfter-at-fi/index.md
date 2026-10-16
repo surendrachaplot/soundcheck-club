@@ -1,6 +1,6 @@
 # fi x ELFTER ELFTER at fi
 
-fi x ELFTER ELFTER on Wed 11 Nov, Cologne. 6 artists: DJ HÖRDE, Evissimax, Kalte Liebe and paaradoxx and 2 more. Techno and House. See the line-up on soundcheck.
+fi x ELFTER ELFTER on Wed 11 Nov, Cologne. 7 artists: DJ HÖRDE, Evissimax, Kalte Liebe and KIMME and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ fi x ELFTER ELFTER on Wed 11 Nov, Cologne. 6 artists: DJ HÖRDE, Evissimax, Kalt
 - DJ HÖRDE
 - Evissimax
 - Kalte Liebe
+- KIMME
 - paaradoxx
 - Ursula Erdmann
 - ZAHNATZIN

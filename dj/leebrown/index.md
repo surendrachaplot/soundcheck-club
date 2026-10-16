@@ -1,6 +1,6 @@
 # Lee Brown
 
-Lee Brown is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at La Cheetah Club, Glasgow on Thu, 29 Oct 2026.
+Lee Brown is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at La Cheetah Club, Glasgow on Thu, 29 Oct 2026.
 
 Lee Brown is a house and garage artist, with 11 gigs on soundcheck across Dundee, Edinburgh, Glasgow and Newcastle. Often billed alongside Thomas + James, McCart and BORLEY. Next up: La Cheetah Club, Glasgow on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Lee Brown is a house and garage artist, with 11 gigs on soundcheck across Dundee
 
 Thomas + James, McCart, BORLEY
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leebrown/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leebrown/)*

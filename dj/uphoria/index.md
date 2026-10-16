@@ -1,6 +1,6 @@
 # uphoria
 
-uphoria is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at M7 Club, Barcelona on Fri, 16 Oct 2026.
+uphoria is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at M7 Club, Barcelona on Fri, 16 Oct 2026.
 
 uphoria is a techno and hardcore artist based in France, with 38 gigs on soundcheck across Barcelona, Belfast, Brussels and Ghent and 12 more. Often billed alongside ECZODIA, Emma Ollivary and Trym. Next up: M7 Club, Barcelona on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ uphoria is a techno and hardcore artist based in France, with 38 gigs on soundch
 
 ECZODIA, Emma Ollivary, Trym
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uphoria/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uphoria/)*

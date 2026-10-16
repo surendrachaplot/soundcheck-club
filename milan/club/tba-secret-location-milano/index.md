@@ -1,6 +1,6 @@
 # TBA - Secret Location — Milano
 
-TBA - Secret Location — Milano is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "AXYRON EVENTS PRESENTS: DARK TRANSMISSION" on Sun, 18 Oct 2026.
+TBA - Secret Location — Milano is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "AXYRON EVENTS PRESENTS: DARK TRANSMISSION" on Sun, 18 Oct 2026.
 
 TBA - Secret Location — Milano is a music venue in Milan listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Secret Location — Milano is a music venue in Milan listed on soundcheck.
 | --- | --- | --- |
 | Sun, 18 Oct 2026 | AXYRON EVENTS PRESENTS: DARK TRANSMISSION |  |
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tba-secret-location-milano/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tba-secret-location-milano/)*

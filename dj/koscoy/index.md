@@ -1,6 +1,6 @@
 # Koscoy
 
-Koscoy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Relink:Data, Mexico City on Fri, 16 Oct 2026.
+Koscoy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Relink:Data, Mexico City on Fri, 16 Oct 2026.
 
 Koscoy is a techno and house artist based in Mexico, with 35 gigs on soundcheck across Mexico City. Often billed alongside Deejay Energy, Fig (DYN) and MirrorLake. Next up: Relink:Data, Mexico City on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Koscoy is a techno and house artist based in Mexico, with 35 gigs on soundcheck 
 
 Deejay Energy, Fig (DYN), MirrorLake
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koscoy/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koscoy/)*

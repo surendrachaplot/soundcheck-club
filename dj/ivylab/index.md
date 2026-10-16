@@ -1,6 +1,6 @@
 # Ivy Lab
 
-Ivy Lab is a Bass and Drum & Bass artist with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Ground at Club Space, Miami on Thu, 15 Oct 2026.
+Ivy Lab is a Bass and Drum & Bass artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Ground at Club Space, Miami on Thu, 15 Oct 2026.
 
 Ivy Lab is a bass and drum & bass artist based in United Kingdom, with 87 gigs on soundcheck across Antwerp, Arkansas, Auckland and Austin and 32 more. Often billed alongside Kasra, Lake Hills and Jubilee. Next up: The Ground at Club Space, Miami on Thu 15 Oct.
 
@@ -20,6 +20,7 @@ Ivy Lab is a bass and drum & bass artist based in United Kingdom, with 87 gigs o
 
 ## Recently played
 
+- The Ground at Club Space, Miami · Thu, 15 Oct 2026
 - Le Belmont, Montreal · Sun, 11 Oct 2026
 - SILO, New York City · Sat, 10 Oct 2026
 - Smoke & Mirrors, Chicago · Thu, 8 Oct 2026
@@ -27,10 +28,9 @@ Ivy Lab is a bass and drum & bass artist based in United Kingdom, with 87 gigs o
 - Ogden Theatre, Denver · Fri, 25 Sept 2026
 - Lincoln Factory, Detroit · Fri, 11 Sept 2026
 - UNO MALTA, Malta · Thu, 3 Sept 2026
-- Cooks Valley Campground, San Francisco/Oakland · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Kasra, Lake Hills, Jubilee
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivylab/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivylab/)*

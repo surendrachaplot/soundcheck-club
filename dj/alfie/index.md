@@ -1,14 +1,15 @@
 # Alfie
 
-Alfie is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 24 Oct 2026.
+Alfie is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 24 Oct 2026.
 
-Alfie is a tech house and house artist based in United Kingdom, with 15 gigs on soundcheck across Ibiza, Leeds, London and Madrid and 2 more. Often billed alongside Jenn Getz, Jenn Getz & Alfie and George Mensah. Next up: Starlane Pizza Bar, London on Sat 24 Oct.
+Alfie is a tech house and house artist based in United Kingdom, with 16 gigs on soundcheck across Ibiza, Leeds, London and Madrid and 2 more. Often billed alongside Jenn Getz, Jenn Getz & Alfie and George Mensah. Next up: Starlane Pizza Bar, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Starlane Pizza Bar | London |
+| Fri, 13 Nov 2026 | Club Silly (Bosi) | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Alfie is a tech house and house artist based in United Kingdom, with 15 gigs on 
 
 Jenn Getz, Jenn Getz & Alfie, George Mensah
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alfie/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alfie/)*

@@ -1,11 +1,15 @@
 # HONEY HONEY - HALLOWEEN SPECIAL at Electrowerkz
 
-HONEY HONEY - HALLOWEEN SPECIAL at Electrowerkz on Fri 23 Oct, London. House and Pop. See the line-up on soundcheck.
+HONEY HONEY - HALLOWEEN SPECIAL at Electrowerkz on Fri 23 Oct, London. 1 artist: Cactushead. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 23 Oct 2026 |
 | Venue | Electrowerkz |
 | City | London |
+
+## Line-up
+
+- Cactushead
 
 *Source: [soundcheck](https://soundcheck.club/e/2537469-honey-honey-halloween-special-at-electrowerkz/)*

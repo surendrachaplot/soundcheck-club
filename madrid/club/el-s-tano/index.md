@@ -1,14 +1,13 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 36 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "TECHNETIUM X EUPHORIA: Raner Baumgartner, Kaattech, KITAE, Salvatore" on Thu, 15 Oct 2026.
+EL SÓTANO is a music venue in Madrid with 35 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "FARADAY: Ozzwald, Mamba Nera, Serrato, Open Decks" on Fri, 16 Oct 2026.
 
-EL SÓTANO is a music venue in Madrid listed on soundcheck. 36 upcoming gigs, with line-ups including Alexander Kowalski, Arok Shiva, Babylon Whore and Bigot3x and 2 more. See dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
+EL SÓTANO is a music venue in Madrid listed on soundcheck. 35 upcoming gigs, with line-ups including Alexander Kowalski, Arok Shiva, Babylon Whore and Bigot3x and 2 more. See dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | TECHNETIUM X EUPHORIA: Raner Baumgartner, Kaattech, KITAE, Salvatore | KITAE, Raner Baumgartner |
 | Fri, 16 Oct 2026 | FARADAY: Ozzwald, Mamba Nera, Serrato, Open Decks | Mamba Nera, Ozzwald, Serrato |
 | Sat, 17 Oct 2026 | HOUSENATION: Deetron, FredoomB, Anth | Deetron, freedomB |
 | Sun, 18 Oct 2026 | RIOT CLUB: Dres Codex , Zaphy, Arok Shiva | Arok Shiva, Dres Codex, Zaphy |
@@ -18,9 +17,10 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 36 upcoming gigs, wi
 | Sat, 24 Oct 2026 | BAKALAO presenta PONT AERI: DJ Skudero, Xavi Metralla, Monty | DJ Skudero, Xavi Metralla |
 | Sun, 25 Oct 2026 | RIOT CLUB: Arzadous, Lukketh, Arok Shiva | Arok Shiva |
 | Sun, 25 Oct 2026 | BOSSA TARDEO: Grau, Héctor Pericet, Julio Machicado | Grau (ES), Héctor Pericet |
+| Thu, 29 Oct 2026 | UNDER HAZE: Natxo, CX-0, VOLTA DEKYRA | Natxo |
 
 ## Address
 
 Calle de las Maldonadas, 6, 28005 Madrid, España, Madrid
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*

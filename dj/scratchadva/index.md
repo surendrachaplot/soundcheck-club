@@ -1,6 +1,6 @@
 # Scratcha DVA
 
-Scratcha DVA is a Bass and Gqom artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at OHM, Berlin on Fri, 6 Nov 2026.
+Scratcha DVA is a Bass and Gqom artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at OHM, Berlin on Fri, 6 Nov 2026.
 
 Scratcha DVA is a bass and gqom artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 15 more. Often billed alongside Tash LC, Ikonika and Nkisi. Next up: OHM, Berlin on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Scratcha DVA is a bass and gqom artist based in United Kingdom, with 44 gigs on 
 
 Tash LC, Ikonika, Nkisi
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scratchadva/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scratchadva/)*

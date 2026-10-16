@@ -1,6 +1,6 @@
 # Mike McSuede
 
-Mike McSuede is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Gorg-O-Mish, Vancouver on Fri, 30 Oct 2026.
+Mike McSuede is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Gorg-O-Mish, Vancouver on Fri, 30 Oct 2026.
 
 Mike McSuede is a house and techno artist, with 21 gigs on soundcheck across Vancouver. Often billed alongside Kozue, Lalo Campo and Marist. Next up: Gorg-O-Mish, Vancouver on Fri 30 Oct.
 
@@ -9,7 +9,7 @@ Mike McSuede is a house and techno artist, with 21 gigs on soundcheck across Van
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Gorg-O-Mish | Vancouver |
-| Sat, 31 Oct 2026 | Frankie's | Vancouver |
+| Sat, 31 Oct 2026 | Frankie’s | Vancouver |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Mike McSuede is a house and techno artist, with 21 gigs on soundcheck across Van
 
 Kozue, Lalo Campo, Marist
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemcsuede/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemcsuede/)*

@@ -1,6 +1,6 @@
 # Lory D
 
-Lory D is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at THE MAGICK BAR, Rome on Fri, 16 Oct 2026.
+Lory D is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at THE MAGICK BAR, Rome on Fri, 16 Oct 2026.
 
 Lory D is a techno and acid artist, with 13 gigs on soundcheck across Barcelona, Milan and Rome. Often billed alongside Asymptote, Giorgia Ferrero and fivequestionmarks. Next up: THE MAGICK BAR, Rome on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Lory D is a techno and acid artist, with 13 gigs on soundcheck across Barcelona,
 
 Asymptote, Giorgia Ferrero, fivequestionmarks
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loryd/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loryd/)*

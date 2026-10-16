@@ -1,6 +1,6 @@
 # CLTX
 
-CLTX is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Melkweg, Amsterdam on Wed, 21 Oct 2026.
+CLTX is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Melkweg, Amsterdam on Wed, 21 Oct 2026.
 
 CLTX is a techno and industrial artist based in France, with 174 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside DYEN, Alignment and Charlie Sparks. Next up: Melkweg, Amsterdam on Wed 21 Oct.
 
@@ -29,4 +29,4 @@ CLTX is a techno and industrial artist based in France, with 174 gigs on soundch
 
 DYEN, Alignment, Charlie Sparks
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cltx/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cltx/)*

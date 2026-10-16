@@ -1,0 +1,28 @@
+# Edge <3
+
+Edge <3 is a Dubstep and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Brixtonia Lounge, London on Thu, 22 Oct 2026.
+
+Edge <3 is a dubstep and garage artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside Agility, Bryn Brax and DubFreq. Next up: Brixtonia Lounge, London on Thu 22 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 22 Oct 2026 | Brixtonia Lounge | London |
+
+## Recently played
+
+- Dalston Den, London · Sat, 10 Oct 2026
+- Dalston Den, London · Fri, 9 Oct 2026
+- Brixtonia Lounge, London · Thu, 27 Aug 2026
+- Dalston Den, London · Fri, 21 Aug 2026
+- Goodness Brewing Company, London · Sat, 15 Aug 2026
+- Dalston Den, London · Sat, 27 Jun 2026
+- Goodness Brewing Company, London · Sat, 13 Dec 2025
+- The Greyhound, London · Sat, 27 Sept 2025
+
+## Shares bills with
+
+Agility, Bryn Brax, DubFreq (2)
+
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edge3/)*

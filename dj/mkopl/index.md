@@ -1,6 +1,6 @@
 # MKO (PL)
 
-MKO (PL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Pałac Kultury i Nauki, Warsaw on Fri, 30 Oct 2026.
+MKO (PL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Pałac Kultury i Nauki, Warsaw on Fri, 30 Oct 2026.
 
 MKO (PL) is a techno and house artist based in Poland, with 80 gigs on soundcheck across Berlin, Krakow, Manchester and Prague and 3 more. Often billed alongside PAWEL (PL), Kovvalsky and Ola Teks. Next up: Pałac Kultury i Nauki, Warsaw on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ MKO (PL) is a techno and house artist based in Poland, with 80 gigs on soundchec
 
 PAWEL (PL), Kovvalsky, Ola Teks
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mkopl/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mkopl/)*

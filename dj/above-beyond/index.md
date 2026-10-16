@@ -1,8 +1,8 @@
 # Above & Beyond
 
-Above & Beyond is a Trance and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at SWG3, Glasgow on Fri, 16 Oct 2026.
+Above & Beyond is a Trance and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at SWG3, Glasgow on Fri, 16 Oct 2026.
 
-Above & Beyond are a trance and techno duo based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Austin, Bali and Belfast and 21 more. Often billed alongside Billy Gillies, Charlotte de Witte and Deadmau5. Next up: SWG3, Glasgow on Fri 16 Oct.
+Above & Beyond are a trance and techno duo based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Austin, Bali and Belfast and 23 more. Often billed alongside Billy Gillies, Charlotte de Witte and Deadmau5. Next up: SWG3, Glasgow on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,8 @@ Above & Beyond are a trance and techno duo based in United Kingdom, with 47 gigs
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 | Fri, 27 Nov 2026 | Tides | Hong Kong |
+| Fri, 4 Dec 2026 | The XOX Arena Arch Galeries | Kuala Lumpur |
+| Sat, 5 Dec 2026 | Pasir Panjang Power Station | Singapore |
 | Fri, 18 Dec 2026 | TBA - Rhythm Park | Thailand |
 | Thu, 31 Dec 2026 | 1015 Folsom | San Francisco/Oakland |
 
@@ -33,4 +35,4 @@ Above & Beyond are a trance and techno duo based in United Kingdom, with 47 gigs
 
 Billy Gillies, Charlotte de Witte, Deadmau5
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/above-beyond/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/above-beyond/)*

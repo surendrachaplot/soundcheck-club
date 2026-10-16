@@ -1,6 +1,6 @@
 # PANTERNOISE
 
-PANTERNOISE is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at KitKatClub, Berlin on Thu, 22 Oct 2026.
+PANTERNOISE is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at KitKatClub, Berlin on Thu, 22 Oct 2026.
 
 PANTERNOISE is a techno and industrial artist based in Germany, with 20 gigs on soundcheck across Athens, Berlin, Leipzig and Paris. Often billed alongside Andy Kolwes, DJ Aybee and Deluka. Next up: KitKatClub, Berlin on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ PANTERNOISE is a techno and industrial artist based in Germany, with 20 gigs on 
 
 Andy Kolwes, DJ Aybee, Deluka
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/panternoise/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/panternoise/)*

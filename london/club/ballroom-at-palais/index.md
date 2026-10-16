@@ -1,14 +1,13 @@
 # Ballroom at Palais
 
-Ballroom at Palais is a music venue in London with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Ballroom at Palais: Sound Affects" on Thu, 15 Oct 2026.
+Ballroom at Palais is a music venue in London with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Ballroom at Palais: DRYBABE & Zaleel" on Fri, 16 Oct 2026.
 
-Ballroom at Palais is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Bekefi, Kian OK, Marie Malarie and Matt Cowell and 2 more. See dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
+Ballroom at Palais is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Bekefi, Kian OK, Marie Malarie and Matt Cowell and 2 more. See dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Ballroom at Palais: Sound Affects |  |
 | Fri, 16 Oct 2026 | Ballroom at Palais: DRYBABE & Zaleel | Zaleel |
 | Sat, 17 Oct 2026 | Ballroom at Palais: SOAK - Bekefi, Marie Malarie & Yazmina | Bekefi, Marie Malarie, Yazmina |
 | Thu, 22 Oct 2026 | Ballroom at Palais: Antony |  |
@@ -22,4 +21,4 @@ Ballroom at Palais is a music venue in London listed on soundcheck. 9 upcoming g
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballroom-at-palais/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballroom-at-palais/)*

@@ -1,6 +1,6 @@
 # Kenjinho
 
-Kenjinho is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Cafe la Siesta, Kyoto on Fri, 16 Oct 2026.
+Kenjinho is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Cafe la Siesta, Kyoto on Fri, 16 Oct 2026.
 
 Kenjinho is a house and baile funk artist based in Brazil, with 26 gigs on soundcheck across Bangkok, Kyoto and Tokyo. Often billed alongside 7e, Baru and DJ PS2 DESBLOQUEADO. Next up: Cafe la Siesta, Kyoto on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Kenjinho is a house and baile funk artist based in Brazil, with 26 gigs on sound
 
 7e, Baru, DJ PS2 DESBLOQUEADO
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjinho/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjinho/)*

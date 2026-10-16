@@ -1,6 +1,6 @@
 # Bi Nuu
 
-Bi Nuu is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Stella & The Longos + Sua Galera [LIVE]" on Fri, 16 Oct 2026.
+Bi Nuu is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Stella & The Longos + Sua Galera [LIVE]" on Fri, 16 Oct 2026.
 
 Bi Nuu is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including GEE LEE, Nayoo, Paluma Sound and Pijus and 2 more. See dates, start times and who's playing. Im U-Bhf. Schlesisches Tor; 10997 Berlin; Germany.
 
@@ -17,4 +17,4 @@ Bi Nuu is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with li
 
 Im U-Bhf. Schlesisches Tor; 10997 Berlin; Germany, Berlin
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bi-nuu/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bi-nuu/)*

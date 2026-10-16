@@ -1,6 +1,6 @@
 # Yu Su
 
-Yu Su is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Fidelity Studio, Dublin on Sat, 17 Oct 2026.
+Yu Su is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Fidelity Studio, Dublin on Sat, 17 Oct 2026.
 
 Yu Su is a house and techno artist based in China, with 154 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 45 more. Often billed alongside Leon Vynehall, DJ Python and Paula Tape. Next up: Fidelity Studio, Dublin on Sat 17 Oct.
 
@@ -32,4 +32,4 @@ Yu Su is a house and techno artist based in China, with 154 gigs on soundcheck a
 
 Leon Vynehall, DJ Python, Paula Tape
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*

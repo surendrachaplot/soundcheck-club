@@ -1,6 +1,6 @@
 # Handlebar
 
-Handlebar is a music venue in Toronto with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Frequencies: Earth Echo, Bryce Hackford, SHEMONA & the OCADU Creative Writing, Kazuki Koga" on Fri, 16 Oct 2026.
+Handlebar is a music venue in Toronto with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Frequencies: Earth Echo, Bryce Hackford, SHEMONA & the OCADU Creative Writing, Kazuki Koga" on Fri, 16 Oct 2026.
 
 Handlebar is a music venue in Toronto listed on soundcheck. 4 upcoming gigs, with line-ups including Bryce Hackford, Disthene, esme2k and Gruve Collective and 2 more. See dates, start times and who's playing. 159 Augusta, Ave, Toronto, Canada, M5T 2L4.
 
@@ -17,4 +17,4 @@ Handlebar is a music venue in Toronto listed on soundcheck. 4 upcoming gigs, wit
 
 159 Augusta, Ave, Toronto, Canada, M5T 2L4, Toronto
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/handlebar/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/handlebar/)*

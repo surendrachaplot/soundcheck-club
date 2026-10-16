@@ -1,6 +1,6 @@
 # Elena Barker
 
-Elena Barker is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Core, Madrid on Fri, 30 Oct 2026.
+Elena Barker is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Core, Madrid on Fri, 30 Oct 2026.
 
 Elena Barker is a techno and tech house artist based in Spain, with 21 gigs on soundcheck across Barcelona, Berlin, Madrid and Seoul. Often billed alongside beltranz, Christian AB and DISTORT (ES). Next up: Core, Madrid on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Elena Barker is a techno and tech house artist based in Spain, with 21 gigs on s
 
 beltranz, Christian AB, DISTORT (ES)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elenabarker/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elenabarker/)*

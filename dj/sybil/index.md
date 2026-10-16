@@ -1,6 +1,6 @@
 # Sybil
 
-Sybil is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
+Sybil is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
 Sybil is a techno and trance artist based in United Kingdom, with 136 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 31 more. Often billed alongside .VRIL, BASHKKA and Kia (AU). Next up: ZENNER, Berlin on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ Sybil is a techno and trance artist based in United Kingdom, with 136 gigs on so
 
 .VRIL, BASHKKA, Kia (AU)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sybil/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sybil/)*

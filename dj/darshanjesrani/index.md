@@ -1,6 +1,6 @@
 # Darshan Jesrani
 
-Darshan Jesrani is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Spy Bar, Boston on Sat, 14 Nov 2026.
+Darshan Jesrani is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Spy Bar, Boston on Sat, 14 Nov 2026.
 
 Darshan Jesrani is a disco and funk / soul artist, with 15 gigs on soundcheck across Boston, Detroit and New York City. Often billed alongside Dylan Payne, AAA and Adi (CO). Next up: Spy Bar, Boston on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Darshan Jesrani is a disco and funk / soul artist, with 15 gigs on soundcheck ac
 
 Dylan Payne, AAA, Adi (CO)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darshanjesrani/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darshanjesrani/)*

@@ -1,6 +1,6 @@
 # PEAKSOU
 
-PEAKSOU is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 16 Oct 2026.
+PEAKSOU is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 16 Oct 2026.
 
 PEAKSOU is a techno and trance artist based in France, with 27 gigs on soundcheck across Berlin, Cologne, Dublin and Lyon and 3 more. Often billed alongside CARAVEL, 25EMEHEURE and AISHA. Next up: Lokschuppen Berlin, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ PEAKSOU is a techno and trance artist based in France, with 27 gigs on soundchec
 
 CARAVEL, 25EMEHEURE, AISHA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peaksou/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peaksou/)*

@@ -1,6 +1,6 @@
 # IDRA
 
-IDRA is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Kaluki presents: Dystopia Halloween IDRA" on Sat, 31 Oct 2026.
+IDRA is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Kaluki presents: Dystopia Halloween IDRA" on Sat, 31 Oct 2026.
 
 IDRA is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including Archie Hamilton, Denis Sulta, Dennis Quin and DXNBY and 2 more. See dates, start times and who's playing. 53 Store Street, Manchester, M1 2WD.
 
@@ -15,4 +15,4 @@ IDRA is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with 
 
 53 Store Street, Manchester, M1 2WD, Manchester
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/idra/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/idra/)*

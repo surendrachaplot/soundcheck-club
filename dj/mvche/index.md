@@ -1,6 +1,6 @@
 # MVCHE
 
-MVCHE is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Overture Studios, Toronto on Fri, 23 Oct 2026.
+MVCHE is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Overture Studios, Toronto on Fri, 23 Oct 2026.
 
 MVCHE is a techno and hardcore artist based in Canada, with 15 gigs on soundcheck across Madrid and Toronto. Often billed alongside R4TS, KILL 9 1 and Maul. Next up: Overture Studios, Toronto on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ MVCHE is a techno and hardcore artist based in Canada, with 15 gigs on soundchec
 
 R4TS, KILL 9 1, Maul (2)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mvche/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mvche/)*

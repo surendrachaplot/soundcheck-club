@@ -1,6 +1,6 @@
 # Off Supply x Max NRG Supply at Unter Deck
 
-Off Supply x Max NRG Supply at Unter Deck on Fri 30 Oct, Munich. 2 artists: Max NRG Supply and Off Supply. Downtempo and Club. See the line-up on soundcheck.
+Off Supply x Max NRG Supply at Unter Deck on Fri 30 Oct, Munich. 2 artists: Max NRG Supply and off supply. Downtempo and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,6 @@ Off Supply x Max NRG Supply at Unter Deck on Fri 30 Oct, Munich. 2 artists: Max 
 ## Line-up
 
 - Max NRG Supply
-- Off Supply
+- off supply
 
 *Source: [soundcheck](https://soundcheck.club/e/2561482-off-supply-x-max-nrg-supply-at-unter-deck/)*

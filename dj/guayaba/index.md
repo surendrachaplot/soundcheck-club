@@ -1,6 +1,6 @@
 # Guayaba
 
-Guayaba is a Club and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Tropical Milano, Milan on Fri, 16 Oct 2026.
+Guayaba is a Club and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Tropical Milano, Milan on Fri, 16 Oct 2026.
 
 Guayaba is a club and latin bass artist based in Colombia, with 19 gigs on soundcheck across Madrid and Milan. Often billed alongside Cristian Comes, Violett Moon and HAAS (IT). Next up: Tropical Milano, Milan on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Guayaba is a club and latin bass artist based in Colombia, with 19 gigs on sound
 
 Cristian Comes, Violett Moon, HAAS (IT)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guayaba/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guayaba/)*

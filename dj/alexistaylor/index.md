@@ -1,6 +1,6 @@
 # Alexis Taylor
 
-Alexis Taylor is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at The Cider Box, Bristol on Fri, 16 Oct 2026.
+Alexis Taylor is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Cider Box, Bristol on Fri, 16 Oct 2026.
 
 Alexis Taylor is a house and disco artist based in United Kingdom, with 48 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 13 more. Often billed alongside Erol Alkan, Hot Chip and Mike Simonetti. Next up: The Cider Box, Bristol on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Alexis Taylor is a house and disco artist based in United Kingdom, with 48 gigs 
 
 Erol Alkan, Hot Chip, Mike Simonetti
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexistaylor/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexistaylor/)*

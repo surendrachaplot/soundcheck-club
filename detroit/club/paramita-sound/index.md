@@ -1,6 +1,6 @@
 # Paramita Sound
 
-Paramita Sound is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Open Decks" on Wed, 21 Oct 2026.
+Paramita Sound is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Open Decks" on Wed, 21 Oct 2026.
 
 Paramita Sound is a music venue in Detroit listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 1515 Broadway St Suite C, Detroit, MI 48226, United States.
 
@@ -15,4 +15,4 @@ Paramita Sound is a music venue in Detroit listed on soundcheck. 2 upcoming gigs
 
 1515 Broadway St Suite C, Detroit, MI 48226, United States, Detroit
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/paramita-sound/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/paramita-sound/)*

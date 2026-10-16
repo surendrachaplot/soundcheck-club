@@ -1,14 +1,13 @@
 # The Art School
 
-The Art School is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "DUB CLUB: Simon Scott (EXODUS / SUBDUB / OUTLOOK) & Hometown Sound" on Thu, 15 Oct 2026.
+The Art School is a music venue in Glasgow with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "iNTRA: Jason Cluff, Nyctonian. (After Holy priest)" on Fri, 16 Oct 2026.
 
-The Art School is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs, with line-ups including ACHIRĀ, ALWAYS 8:15, Céleste and DART and 2 more. See dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
+The Art School is a music venue in Glasgow listed on soundcheck. 12 upcoming gigs, with line-ups including ACHIRĀ, ALWAYS 8:15, Céleste and DART and 2 more. See dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | DUB CLUB: Simon Scott (EXODUS / SUBDUB / OUTLOOK) & Hometown Sound | Hometown Sound, James Hometown, Simon Scott |
 | Fri, 16 Oct 2026 | iNTRA: Jason Cluff, Nyctonian. (After Holy priest) | Jason Cluff, Nyctonian |
 | Sat, 17 Oct 2026 | FLY - DART, Milion & Céleste | Céleste, DART, Milion |
 | Wed, 21 Oct 2026 | PILOT / Upper90 | ALWAYS 8:15, Loose E, Upper90 |
@@ -18,9 +17,10 @@ The Art School is a music venue in Glasgow listed on soundcheck. 13 upcoming gig
 | Sat, 31 Oct 2026 | Polka Dot Disco Club x Relentless LOCAL: Halloween ᜊ(°-°)ᜊ | Frankie Elyse, Olympe4000 |
 | Sat, 7 Nov 2026 | Glasstattoo  | ACHIRĀ |
 | Fri, 20 Nov 2026 | Nu:Tone \\\ Pray To Good | IYRE, Nu:Tone, Ruthless, Winslow |
+| Sat, 21 Nov 2026 | November Danse Macabre | DJ Catnip |
 
 ## Address
 
 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom, Glasgow
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*

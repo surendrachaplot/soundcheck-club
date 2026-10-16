@@ -1,6 +1,6 @@
 # WHP26 /// New Year's Eve: Defected + Glitterbox at Depot Mayfield
 
-WHP26 /// New Year's Eve: Defected + Glitterbox at Depot Mayfield on Thu 31 Dec, Manchester. 12 artists: Don't F**k with Disco, Eats Everything, Ella Knight and Fattony and 8 more. House. See the line-up on soundcheck.
+WHP26 /// New Year's Eve: Defected + Glitterbox at Depot Mayfield on Thu 31 Dec, Manchester. 12 artists: Don't F**k with Disco, Eats Everything, Ella Knight and Fat Tony and 8 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ WHP26 /// New Year's Eve: Defected + Glitterbox at Depot Mayfield on Thu 31 Dec,
 - Don't F**k with Disco
 - Eats Everything
 - Ella Knight
-- Fattony
+- Fat Tony
 - Fatzo
 - Groove Armada
 - Lowsteppa

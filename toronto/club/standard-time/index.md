@@ -1,8 +1,8 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 18 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Odd Soul featuring Keys N Krates b2b LOSTBOYJAY and Dylan-Thomas" on Fri, 16 Oct 2026.
+Standard Time is a music venue in Toronto with 17 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Odd Soul featuring Keys N Krates b2b LOSTBOYJAY and Dylan-Thomas" on Fri, 16 Oct 2026.
 
-Standard Time is a music venue in Toronto listed on soundcheck. 18 upcoming gigs, with line-ups including Adrian Sherwood, Altinbas, Amedeo (CA) and anise and 2 more. See dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
+Standard Time is a music venue in Toronto listed on soundcheck. 17 upcoming gigs, with line-ups including Adrian Sherwood, Altinbas, Amedeo (CA) and anise and 2 more. See dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Standard Time is a music venue in Toronto listed on soundcheck. 18 upcoming gigs
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

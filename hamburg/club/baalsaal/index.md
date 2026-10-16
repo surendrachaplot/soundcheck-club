@@ -1,6 +1,6 @@
 # Baalsaal
 
-Baalsaal is a music venue in Hamburg with 17 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "SENZA NOME" on Fri, 16 Oct 2026.
+Baalsaal is a music venue in Hamburg with 17 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "SENZA NOME" on Fri, 16 Oct 2026.
 
 Baalsaal is a music venue in Hamburg listed on soundcheck. 17 upcoming gigs, with line-ups including Ani con Gas, Billy Bam, BLACK LYON and Eva.nyx and 2 more. See dates, start times and who's playing. Reeperbahn 25; 20359 Hamburg; Germany.
 
@@ -23,4 +23,4 @@ Baalsaal is a music venue in Hamburg listed on soundcheck. 17 upcoming gigs, wit
 
 Reeperbahn 25; 20359 Hamburg; Germany, Hamburg
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*

@@ -1,6 +1,6 @@
 # Unkompress
 
-Unkompress is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Saturday Session: Avec Plaisir (residency finale)" on Sat, 17 Oct 2026.
+Unkompress is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Saturday Session: Avec Plaisir (residency finale)" on Sat, 17 Oct 2026.
 
 Unkompress is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Frinda di Lanco and Hendrik Stein. See dates, start times and who's playing. Fichtestrasse 23, 10967 Berlin.
 
@@ -17,4 +17,4 @@ Unkompress is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, wit
 
 Fichtestrasse 23, 10967 Berlin, Berlin
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/unkompress/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/unkompress/)*

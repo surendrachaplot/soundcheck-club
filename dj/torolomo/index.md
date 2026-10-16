@@ -1,6 +1,6 @@
 # Toro Lomo
 
-Toro Lomo is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Pavilon, Budapest on Thu, 15 Oct 2026.
+Toro Lomo is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Pavilon, Budapest on Thu, 15 Oct 2026.
 
 Toro Lomo is a house and minimal artist based in Hungary, with 26 gigs on soundcheck across Budapest. Often billed alongside Kernel, Lost in Details and Peter Bernath. Next up: Pavilon, Budapest on Thu 15 Oct.
 
@@ -13,6 +13,7 @@ Toro Lomo is a house and minimal artist based in Hungary, with 26 gigs on soundc
 
 ## Recently played
 
+- Pavilon, Budapest · Thu, 15 Oct 2026
 - Atno, Budapest · Fri, 25 Sept 2026
 - Kassa Boat, Budapest · Fri, 3 Apr 2026
 - Kassa Boat, Budapest · Fri, 19 Sept 2025
@@ -20,10 +21,9 @@ Toro Lomo is a house and minimal artist based in Hungary, with 26 gigs on soundc
 - Kassa Boat, Budapest · Sat, 21 Jun 2025
 - TBA, Budapest · Sat, 24 May 2025
 - Savoyai Terasz, Budapest · Fri, 16 May 2025
-- Kassa Boat, Budapest · Sat, 22 Feb 2025
 
 ## Shares bills with
 
 Kernel, Lost in Details, Peter Bernath
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torolomo/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torolomo/)*

@@ -1,13 +1,14 @@
 # Kino Paladino
 
-Kino Paladino is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 7 Nov 2026.
+Kino Paladino is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA -  Celetná 12, Praha 1 , Prague on Fri, 16 Oct 2026.
 
-Kino Paladino is a techno artist, with 17 gigs on soundcheck across Prague. Often billed alongside Vlad Lyss, zazitech and AVHD. Next up: Ankali & Planeta Za, Prague on Sat 7 Nov.
+Kino Paladino is a techno and house artist, with 18 gigs on soundcheck across Prague. Often billed alongside Vlad Lyss, ishka machina and zazitech. Next up: TBA -  Celetná 12, Praha 1 , Prague on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | TBA -  Celetná 12, Praha 1  | Prague |
 | Sat, 7 Nov 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played
@@ -23,6 +24,6 @@ Kino Paladino is a techno artist, with 17 gigs on soundcheck across Prague. Ofte
 
 ## Shares bills with
 
-Vlad Lyss, zazitech, AVHD
+Vlad Lyss, ishka machina, zazitech
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinopaladino/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinopaladino/)*

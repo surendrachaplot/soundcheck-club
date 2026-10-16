@@ -1,6 +1,6 @@
 # MONSTRUO at Brown Alley
 
-MONSTRUO at Brown Alley on Sun 1 Nov, Melbourne. 8 artists: Annabelle Gaspar, Buday, CAGED and Clover and 4 more. Techno and Neo Perreo. See the line-up on soundcheck.
+MONSTRUO at Brown Alley on Sun 1 Nov, Melbourne. 6 artists: Annabelle Gaspar, Buday, CAGED and Clover and 2 more. Techno and Neo Perreo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,8 +15,6 @@ MONSTRUO at Brown Alley on Sun 1 Nov, Melbourne. 8 artists: Annabelle Gaspar, Bu
 - CAGED
 - Clover
 - Grimmer
-- LAZA
-- Lazy Susan
 - Linapary
 
 *Source: [soundcheck](https://soundcheck.club/e/2558250-monstruo-at-brown-alley/)*

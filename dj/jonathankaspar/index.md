@@ -1,6 +1,6 @@
 # Jonathan Kaspar
 
-Jonathan Kaspar is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Switch, Porto on Fri, 16 Oct 2026.
+Jonathan Kaspar is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Switch, Porto on Fri, 16 Oct 2026.
 
 Jonathan Kaspar is a house and techno artist based in Germany, with 199 gigs on soundcheck across Amsterdam, Argentina, Athens and Barcelona and 29 more. Often billed alongside Mira, Mano Le Tough and Robag Wruhme. Next up: Switch, Porto on Fri 16 Oct.
 
@@ -33,4 +33,4 @@ Jonathan Kaspar is a house and techno artist based in Germany, with 199 gigs on 
 
 Mira, Mano Le Tough, Robag Wruhme
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankaspar/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankaspar/)*

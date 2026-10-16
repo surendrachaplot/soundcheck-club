@@ -1,6 +1,6 @@
 # groovian peruvian
 
-groovian peruvian is a Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Fortuna Irgendwo, Frankfurt on Fri, 16 Oct 2026.
+groovian peruvian is a Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Fortuna Irgendwo, Frankfurt on Fri, 16 Oct 2026.
 
 groovian peruvian is a tech house artist based in Peru, with 17 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Mexico City and 1 more. Often billed alongside mafiii, DJ SEXSTASY and Katopodis. Next up: Fortuna Irgendwo, Frankfurt on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ groovian peruvian is a tech house artist based in Peru, with 17 gigs on soundche
 
 mafiii, DJ SEXSTASY, Katopodis
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groovianperuvian/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groovianperuvian/)*

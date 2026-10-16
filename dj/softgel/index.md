@@ -1,6 +1,6 @@
 # softgel
 
-softgel is a Ambient and Jazz artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Silence Please, New York City on Sat, 17 Oct 2026.
+softgel is a Ambient and Jazz artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Silence Please, New York City on Sat, 17 Oct 2026.
 
 softgel is an ambient and jazz artist based in United States of America, with 2 gigs on soundcheck across New York City. Next up: Silence Please, New York City on Sat 17 Oct.
 
@@ -11,4 +11,4 @@ softgel is an ambient and jazz artist based in United States of America, with 2 
 | Sat, 17 Oct 2026 | Silence Please | New York City |
 | Sat, 17 Oct 2026 | Silence Please | New York City |
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/softgel/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/softgel/)*

@@ -1,6 +1,6 @@
 # Young Divorcée
 
-Young Divorcée is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Location via Telegram Group, Berlin on Sun, 18 Oct 2026.
+Young Divorcée is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Location via Telegram Group, Berlin on Sun, 18 Oct 2026.
 
 Young Divorcée is a bass and house artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside NiKi K, Diva DJ and Blu:sh. Next up: TBA - Location via Telegram Group, Berlin on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Young Divorcée is a bass and house artist based in Germany, with 9 gigs on soun
 
 NiKi K, Diva DJ, Blu:sh
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngdivorcee/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngdivorcee/)*

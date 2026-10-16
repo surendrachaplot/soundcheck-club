@@ -1,6 +1,6 @@
 # O'SIMMIE
 
-O'SIMMIE is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Silence Please, New York City on Fri, 16 Oct 2026.
+O'SIMMIE is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Silence Please, New York City on Fri, 16 Oct 2026.
 
 O'SIMMIE is a bass and club artist based in Belgium, with 19 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent and 1 more. Often billed alongside Erykah, cyvira and gaiko. Next up: Silence Please, New York City on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ O'SIMMIE is a bass and club artist based in Belgium, with 19 gigs on soundcheck 
 
 Erykah, cyvira, gaiko
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osimmie/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osimmie/)*

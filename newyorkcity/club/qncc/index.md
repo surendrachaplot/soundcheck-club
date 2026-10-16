@@ -1,14 +1,13 @@
 # Qncc
 
-Qncc is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "RA25 UNLOCKED with QNCC - Free Workshop" on Thu, 15 Oct 2026.
+Qncc is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Entangled Opening Night + Festival Passes" on Thu, 5 Nov 2026.
 
-Qncc is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including BASSBEAR!! and Lauren Murada. See dates, start times and who's playing. 100 Hinsdale Street, Brooklyn, NY.
+Qncc is a music venue in New York City listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. 100 Hinsdale Street, Brooklyn, NY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | RA25 UNLOCKED with QNCC - Free Workshop | BASSBEAR!!, Lauren Murada |
 | Thu, 5 Nov 2026 | Entangled Opening Night + Festival Passes |  |
 | Fri, 6 Nov 2026 | The Mother Particle  |  |
 | Sat, 7 Nov 2026 | FACESTRAPPED Vol II |  |
@@ -19,4 +18,4 @@ Qncc is a music venue in New York City listed on soundcheck. 6 upcoming gigs, wi
 
 100 Hinsdale Street, Brooklyn, NY, New York City
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/qncc/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/qncc/)*

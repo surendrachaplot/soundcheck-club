@@ -1,8 +1,8 @@
 # Decoder
 
-Decoder is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Ministerium Club, Lisbon on Fri, 16 Oct 2026.
+Decoder is a Techno and Minimal Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Ministerium Club, Lisbon on Fri, 16 Oct 2026.
 
-Decoder is a techno and house artist based in United States of America, with 95 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 36 more. Often billed alongside jay york, Barbosa and Lindsey Herbert. Next up: Ministerium Club, Lisbon on Fri 16 Oct.
+Decoder is a techno and minimal techno artist based in United States of America, with 96 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 37 more. Often billed alongside jay york, Barbosa and Lindsey Herbert. Next up: Ministerium Club, Lisbon on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Decoder is a techno and house artist based in United States of America, with 95 
 | Mon, 9 Nov 2026 | public records | New York City |
 | Fri, 13 Nov 2026 | public records | New York City |
 | Sat, 21 Nov 2026 | Tresor / Globus | Berlin |
+| Sat, 26 Dec 2026 | Flash | Washington DC |
 | Fri, 22 Jan 2027 | 宀 Club | Hong-kong |
 
 ## Recently played
@@ -32,4 +33,4 @@ Decoder is a techno and house artist based in United States of America, with 95 
 
 jay york, Barbosa, Lindsey Herbert
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/decoder/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/decoder/)*

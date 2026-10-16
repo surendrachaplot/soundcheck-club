@@ -1,14 +1,13 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 23 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "ANFANG FAM DAY" on Thu, 15 Oct 2026.
+Cadavra is a music venue in Madrid with 22 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "bloom pres. Andy Martin" on Fri, 16 Oct 2026.
 
-Cadavra is a music venue in Madrid listed on soundcheck. 23 upcoming gigs, with line-ups including Abdulla A., Andy Martin, Anna Wall and Avo (ES) and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
+Cadavra is a music venue in Madrid listed on soundcheck. 22 upcoming gigs, with line-ups including Abdulla A., Andy Martin, Anna Wall and Avo (ES) and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | ANFANG FAM DAY | Irazu, Safia (2) |
 | Fri, 16 Oct 2026 | bloom pres. Andy Martin | Andy Martin, Baldman, Gala (ES), Luisma C, berta (ES) |
 | Sat, 17 Oct 2026 | Distrito 91 with Kinetic & Protocolo Sys.ex (live) | Kinetic (2), tekka (2) |
 | Thu, 22 Oct 2026 | IMOGEN at Anfang | IMOGEN, Jakka, VRØD |
@@ -18,9 +17,10 @@ Cadavra is a music venue in Madrid listed on soundcheck. 23 upcoming gigs, with 
 | Fri, 30 Oct 2026 | Phonotheque Showcase with Christian Bonanata, Oriana, J.C., Ces-Q, Aaliaga | Ces-Q, J.C., Oriana |
 | Sat, 31 Oct 2026 | Halloween: 10 YEARS OF ORCHID with Loa Szala & Luna Ludmila | BOTHER, Loa Szala, Luna Ludmila, Martin Balladares, Nurias |
 | Fri, 6 Nov 2026 | CDVR with Camion Bazar | Camion Bazar |
+| Sat, 7 Nov 2026 | CDVR with Anna Wall | Anna Wall |
 
 ## Address
 
 C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*

@@ -1,6 +1,6 @@
 # Scacco
 
-Scacco is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Les Enfants Brillants, Barcelona on Fri, 16 Oct 2026.
+Scacco is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Les Enfants Brillants, Barcelona on Fri, 16 Oct 2026.
 
 Scacco is a techno and house artist based in Italy, with 17 gigs on soundcheck across Barcelona, Buenos Aires, Ibiza and Malaga and 5 more. Often billed alongside tINI, Boyoon and Gabbs. Next up: Les Enfants Brillants, Barcelona on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Scacco is a techno and house artist based in Italy, with 17 gigs on soundcheck a
 
 tINI, Boyoon, Gabbs
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scacco-it/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scacco-it/)*

@@ -1,6 +1,6 @@
 # Rick Baguette
 
-Rick Baguette is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at ASIAT Park, Brussels on Sat, 17 Oct 2026.
+Rick Baguette is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at ASIAT Park, Brussels on Sat, 17 Oct 2026.
 
 Rick Baguette is a house and techno artist based in Belgium, with 48 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 3 more. Often billed alongside Rozevelt, r.omy and DTM Funk. Next up: ASIAT Park, Brussels on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Rick Baguette is a house and techno artist based in Belgium, with 48 gigs on sou
 
 Rozevelt, r.omy, DTM Funk
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rickbaguette/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rickbaguette/)*

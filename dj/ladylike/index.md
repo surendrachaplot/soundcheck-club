@@ -1,6 +1,6 @@
 # Ladylike
 
-Ladylike is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Marble Bar, Detroit on Sat, 24 Oct 2026.
+Ladylike is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Marble Bar, Detroit on Sat, 24 Oct 2026.
 
 Ladylike is a house and techno artist based in United States of America, with 56 gigs on soundcheck across Bristol and Detroit. Often billed alongside Father Dukes, Ryan Spencer and Scott Zacharias. Next up: Marble Bar, Detroit on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ladylike is a house and techno artist based in United States of America, with 56
 
 Father Dukes, Ryan Spencer, Scott Zacharias
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladylike/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladylike/)*

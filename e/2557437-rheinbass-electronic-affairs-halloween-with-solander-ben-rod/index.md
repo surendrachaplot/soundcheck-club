@@ -1,6 +1,6 @@
 # Rheinbass & Electronic Affairs Halloween with Solander / Ben Rodd / Matteo (IT) at Sol y Luna Lounge & Club
 
-Rheinbass & Electronic Affairs Halloween with Solander / Ben Rodd / Matteo (IT) at Sol y Luna Lounge & Club on Sat 31 Oct, Düsseldorf. 4 artists: Ben:Rodd, Fabio Broox & Violahaiti, Matteo (IT) and Solander. Tech House and Minimal. See the line-up on soundcheck.
+Rheinbass & Electronic Affairs Halloween with Solander / Ben Rodd / Matteo (IT) at Sol y Luna Lounge & Club on Sat 31 Oct, Düsseldorf. 5 artists: Ben:Rodd, CORZ, Fabio Broox & Violahaiti and Matteo (IT) and 1 more. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Rheinbass & Electronic Affairs Halloween with Solander / Ben Rodd / Matteo (IT) 
 ## Line-up
 
 - Ben:Rodd
+- CORZ
 - Fabio Broox & Violahaiti
 - Matteo (IT)
 - Solander

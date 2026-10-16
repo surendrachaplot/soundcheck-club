@@ -1,14 +1,15 @@
 # Striz
 
-Striz is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Park West, Chicago on Sat, 31 Oct 2026.
+Striz is a House and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Park West, Chicago on Sat, 31 Oct 2026.
 
-Striz is a house and downtempo artist based in United States of America, with 33 gigs on soundcheck across Chicago. Often billed alongside Duke Shin, Gene Hunt and Justin Reed. Next up: Park West, Chicago on Sat 31 Oct.
+Striz is a house and downtempo artist based in United States of America, with 34 gigs on soundcheck across Chicago. Often billed alongside Duke Shin, Gene Hunt and Justin Reed. Next up: Park West, Chicago on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Park West | Chicago |
+| Sat, 14 Nov 2026 | TBA | Chicago |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Striz is a house and downtempo artist based in United States of America, with 33
 
 Duke Shin, Gene Hunt, Justin Reed
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/striz/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/striz/)*

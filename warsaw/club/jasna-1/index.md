@@ -1,6 +1,6 @@
 # Jasna 1
 
-Jasna 1 is a music venue in Warsaw with 11 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "J1 - u.r.trax, Irakli, ako" on Fri, 16 Oct 2026.
+Jasna 1 is a music venue in Warsaw with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "J1 - u.r.trax, Irakli, ako" on Fri, 16 Oct 2026.
 
 Jasna 1 is a music venue in Warsaw listed on soundcheck. 11 upcoming gigs, with line-ups including 999999999, Adnable, Akua and Broken English Club and 2 more. See dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
 
@@ -23,4 +23,4 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 11 upcoming gigs, with 
 
 Jasna 1, 00-013 Warszawa, Warsaw
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*

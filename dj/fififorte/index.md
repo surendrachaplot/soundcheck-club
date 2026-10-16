@@ -1,6 +1,6 @@
 # FIFI FORTE
 
-FIFI FORTE is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Electric Garden, Dublin on Sat, 17 Oct 2026.
+FIFI FORTE is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Electric Garden, Dublin on Sat, 17 Oct 2026.
 
 FIFI FORTE is a tech house and house artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Dublin, Ibiza and Liverpool and 5 more. Often billed alongside Jamie Jones, Manda Moor and Mike Morrisey. Next up: Electric Garden, Dublin on Sat 17 Oct.
 
@@ -29,4 +29,4 @@ FIFI FORTE is a tech house and house artist based in United Kingdom, with 29 gig
 
 Jamie Jones, Manda Moor, Mike Morrisey
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fififorte/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fififorte/)*

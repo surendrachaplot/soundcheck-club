@@ -1,6 +1,6 @@
 # Abril IRL
 
-Abril IRL is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Mood Ring, New York City on Wed, 21 Oct 2026.
+Abril IRL is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Mood Ring, New York City on Wed, 21 Oct 2026.
 
 Abril IRL is a house and garage artist, with 10 gigs on soundcheck across New York City. Often billed alongside LoKho, ALEX PAN and Scribble. Next up: Mood Ring, New York City on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Abril IRL is a house and garage artist, with 10 gigs on soundcheck across New Yo
 
 LoKho, ALEX PAN, Scribble
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abrilirl/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abrilirl/)*

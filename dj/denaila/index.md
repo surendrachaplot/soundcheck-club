@@ -1,6 +1,6 @@
 # Denaila
 
-Denaila is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Bunker, Turin on Fri, 16 Oct 2026.
+Denaila is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Bunker, Turin on Fri, 16 Oct 2026.
 
 Denaila is a techno and house artist, with 34 gigs on soundcheck across Barcelona, Berlin, Brussels and London and 10 more. Often billed alongside Bakked, Munir Nadir and Cristian Sarde. Next up: Bunker, Turin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Denaila is a techno and house artist, with 34 gigs on soundcheck across Barcelon
 
 Bakked, Munir Nadir, Cristian Sarde
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denaila/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denaila/)*

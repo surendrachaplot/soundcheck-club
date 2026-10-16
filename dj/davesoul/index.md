@@ -1,13 +1,14 @@
 # Dave Soul
 
-Dave Soul is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - 50:HERTZ CLUB TRAIN 2026 | Amsterdam Central Station, Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Dave Soul is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
-Dave Soul is a techno and progressive house artist based in Thailand, with 9 gigs on soundcheck across Amsterdam, Bangkok and Ibiza. Often billed alongside JAXX NOVEIRA, ADEZ and DJ Dragon. Next up: TBA - 50:HERTZ CLUB TRAIN 2026 | Amsterdam Central Station, Amsterdam, Amsterdam on Fri 23 Oct.
+Dave Soul is a techno and progressive house artist based in Thailand, with 10 gigs on soundcheck across Amsterdam, Bangkok and Ibiza. Often billed alongside ADEZ, David Berrie and David Gtronic. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Fri, 23 Oct 2026 | TBA - 50:HERTZ CLUB TRAIN 2026 / Amsterdam Central Station, Amsterdam | Amsterdam |
 
 ## Recently played
@@ -23,6 +24,6 @@ Dave Soul is a techno and progressive house artist based in Thailand, with 9 gig
 
 ## Shares bills with
 
-JAXX NOVEIRA, ADEZ, DJ Dragon
+ADEZ, David Berrie, David Gtronic
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davesoul/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davesoul/)*

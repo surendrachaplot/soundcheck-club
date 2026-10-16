@@ -1,6 +1,6 @@
 # Galopp
 
-Galopp is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Alte Kaserne, Zurich on Fri, 16 Oct 2026.
+Galopp is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Alte Kaserne, Zurich on Fri, 16 Oct 2026.
 
 Galopp is a techno and trance artist based in Switzerland, with 84 gigs on soundcheck across Basel, Geneva and Zurich. Often billed alongside Dekerim, Megix and FALCO. Next up: Alte Kaserne, Zurich on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Galopp is a techno and trance artist based in Switzerland, with 84 gigs on sound
 
 Dekerim, Megix, FALCO (2)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/galopp/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/galopp/)*

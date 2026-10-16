@@ -1,6 +1,6 @@
 # Paul Seul
 
-Paul Seul is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Cause, London on Fri, 6 Nov 2026.
+Paul Seul is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Cause, London on Fri, 6 Nov 2026.
 
 Paul Seul is a techno and hardcore artist based in France, with 52 gigs on soundcheck across Amsterdam, Basel, Berlin and Brussels and 16 more. Often billed alongside Glayden, Lolalita and Von Bikräv. Next up: The Cause, London on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Paul Seul is a techno and hardcore artist based in France, with 52 gigs on sound
 
 Glayden, Lolalita, Von Bikräv
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulseul/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulseul/)*

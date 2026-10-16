@@ -1,6 +1,6 @@
 # Roton
 
-Roton is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Kramladen, Vienna on Sat, 7 Nov 2026.
+Roton is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Kramladen, Vienna on Sat, 7 Nov 2026.
 
 Roton is a techno and industrial artist, with 13 gigs on soundcheck across Vienna. Often billed alongside Hetum and Michel Lauriola. Next up: Kramladen, Vienna on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Roton is a techno and industrial artist, with 13 gigs on soundcheck across Vienn
 
 Hetum, Michel Lauriola
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roton/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roton/)*

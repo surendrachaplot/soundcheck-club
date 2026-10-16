@@ -1,6 +1,6 @@
 # Eternaut
 
-Eternaut is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Sunday Sunday, Mexico City on Sun, 18 Oct 2026.
+Eternaut is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Sunday Sunday, Mexico City on Sun, 18 Oct 2026.
 
 Eternaut is a house and deep house artist, with 8 gigs on soundcheck across Los Angeles and Mexico City. Often billed alongside Bonnz!, FEROTO and Julia Toporek. Next up: Sunday Sunday, Mexico City on Sun 18 Oct.
 
@@ -24,4 +24,4 @@ Eternaut is a house and deep house artist, with 8 gigs on soundcheck across Los 
 
 Bonnz!, FEROTO, Julia Toporek
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eternaut/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eternaut/)*

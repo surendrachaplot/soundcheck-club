@@ -1,6 +1,6 @@
 # Toribio
 
-Toribio is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Club House on Fulton, New York City on Sun, 25 Oct 2026.
+Toribio is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Club House on Fulton, New York City on Sun, 25 Oct 2026.
 
 Toribio is a house and disco artist based in United States of America, with 219 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Mickey Perez, Love Injection and Guthrie. Next up: TBA - Club House on Fulton, New York City on Sun 25 Oct.
 
@@ -28,4 +28,4 @@ Toribio is a house and disco artist based in United States of America, with 219 
 
 Mickey Perez, Love Injection, Guthrie
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*

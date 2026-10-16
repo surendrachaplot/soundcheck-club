@@ -1,6 +1,6 @@
 # Betical
 
-Betical is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Sing Sing Theater, Bangkok on Fri, 16 Oct 2026.
+Betical is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Sing Sing Theater, Bangkok on Fri, 16 Oct 2026.
 
 Betical is a house and techno artist based in France, with 42 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 17 more. Often billed alongside ANNA, Alex Wann and Bibi Seck. Next up: Sing Sing Theater, Bangkok on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Betical is a house and techno artist based in France, with 42 gigs on soundcheck
 
 ANNA, Alex Wann, Bibi Seck
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/betical/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/betical/)*

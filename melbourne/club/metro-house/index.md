@@ -1,6 +1,6 @@
 # Metro House
 
-Metro House is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "LOGIKA presents: House of Clubs Vol. I" on Fri, 16 Oct 2026.
+Metro House is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "LOGIKA presents: House of Clubs Vol. I" on Fri, 16 Oct 2026.
 
 Metro House is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including KARDIA. See dates, start times and who's playing. 265 William st.
 
@@ -14,4 +14,4 @@ Metro House is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, 
 
 265 William st, Melbourne
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/metro-house/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/metro-house/)*

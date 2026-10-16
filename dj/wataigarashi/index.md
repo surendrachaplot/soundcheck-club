@@ -1,8 +1,8 @@
 # Wata Igarashi
 
-Wata Igarashi is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
+Wata Igarashi is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
-Wata Igarashi is a techno and house artist based in Japan, with 218 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: ZENNER, Berlin on Fri 16 Oct.
+Wata Igarashi is a techno and house artist based in Japan, with 219 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: ZENNER, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Wata Igarashi is a techno and house artist based in Japan, with 218 gigs on soun
 | Fri, 30 Oct 2026 | The Bassement | Madrid |
 | Sat, 31 Oct 2026 | Mia Mao | Paris |
 | Sat, 7 Nov 2026 | FOLD | London |
+| Sat, 28 Nov 2026 | MIDNIGHT EAST | Tokyo |
 | Fri, 18 Dec 2026 | Abercrombie Hotel | Sydney |
 
 ## Recently played
@@ -32,4 +33,4 @@ Wata Igarashi is a techno and house artist based in Japan, with 218 gigs on soun
 
 DJ Nobu, CCL, Octo Octa
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*

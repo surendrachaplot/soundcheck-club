@@ -1,6 +1,6 @@
 # Keen
 
-Keen is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Dolphin, Philadelphia on Fri, 16 Oct 2026.
+Keen is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Dolphin, Philadelphia on Fri, 16 Oct 2026.
 
 Keen is a house and techno artist based in United States of America, with 70 gigs on soundcheck across Austin, Boston, Dublin and Lisbon and 7 more. Often billed alongside John Raffaele, Rob Paine and Sweater. Next up: The Dolphin, Philadelphia on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Keen is a house and techno artist based in United States of America, with 70 gig
 
 John Raffaele, Rob Paine, Sweater
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keen-phl/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keen-phl/)*

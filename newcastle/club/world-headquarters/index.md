@@ -1,6 +1,6 @@
 # World Headquarters
 
-World Headquarters is a music venue in Newcastle with 19 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Motion Sickness: A.M.C Presents GRASSROOTS ENERGY" on Fri, 16 Oct 2026.
+World Headquarters is a music venue in Newcastle with 19 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Motion Sickness: A.M.C Presents GRASSROOTS ENERGY" on Fri, 16 Oct 2026.
 
 World Headquarters is a music venue in Newcastle listed on soundcheck. 19 upcoming gigs, with line-ups including A.M.C., adamgr, Alousea and Danielle (UK) and 2 more. See dates, start times and who's playing. Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF.
 
@@ -23,4 +23,4 @@ World Headquarters is a music venue in Newcastle listed on soundcheck. 19 upcomi
 
 Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF, Newcastle
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/world-headquarters/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/world-headquarters/)*

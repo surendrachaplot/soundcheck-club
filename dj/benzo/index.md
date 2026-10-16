@@ -1,6 +1,6 @@
 # Ben Zo
 
-Ben Zo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at SILO, New York City on Thu, 22 Oct 2026.
+Ben Zo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at SILO, New York City on Thu, 22 Oct 2026.
 
 Ben Zo is a techno and house artist based in Philippines, with 143 gigs on soundcheck across Cologne, Dundee, Ghent and Leipzig and 4 more. Often billed alongside cruz ctrl, STEEN and David Lunch. Next up: SILO, New York City on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Ben Zo is a techno and house artist based in Philippines, with 143 gigs on sound
 
 cruz ctrl, STEEN, David Lunch
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benzo/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benzo/)*

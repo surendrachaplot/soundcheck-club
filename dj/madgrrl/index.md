@@ -1,6 +1,6 @@
 # MADGRRL
 
-MADGRRL is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Fair Park, Dallas-fort-worth on Wed, 30 Dec 2026.
+MADGRRL is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Fair Park, Dallas-fort-worth on Wed, 30 Dec 2026.
 
 MADGRRL is a techno and industrial artist based in United States of America, with 19 gigs on soundcheck across Dallas Fort Worth, Denver, Los Angeles and Miami and 6 more. Often billed alongside I Hate Models, Azyr and Chris Lake. Next up: Fair Park, Dallas Fort Worth on Wed 30 Dec.
 
@@ -27,4 +27,4 @@ MADGRRL is a techno and industrial artist based in United States of America, wit
 
 I Hate Models, Azyr, Chris Lake
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madgrrl/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madgrrl/)*

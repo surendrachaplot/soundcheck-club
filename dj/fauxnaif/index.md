@@ -1,6 +1,6 @@
 # Faux Naif
 
-Faux Naif is a EBM and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Globe, Glossop, Manchester on Sat, 7 Nov 2026.
+Faux Naif is a EBM and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Globe, Glossop, Manchester on Sat, 7 Nov 2026.
 
 Faux Naif is an ebm and techno artist based in United Kingdom, with 48 gigs on soundcheck across Berlin, Glasgow, London and Manchester and 1 more. Often billed alongside Conor Thomas, Ireen Amnes and Tapefeed. Next up: The Globe, Glossop, Manchester on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Faux Naif is an ebm and techno artist based in United Kingdom, with 48 gigs on s
 
 Conor Thomas, Ireen Amnes, Tapefeed
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fauxnaif/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fauxnaif/)*

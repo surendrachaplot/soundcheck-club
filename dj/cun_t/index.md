@@ -1,6 +1,6 @@
 # cun_t
 
-cun_t is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Fitzroy, Berlin on Fri, 16 Oct 2026.
+cun_t is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Fitzroy, Berlin on Fri, 16 Oct 2026.
 
 cun_t is a techno and trance artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside Aimé You, HugoXL and LASC11. Next up: Fitzroy, Berlin on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ cun_t is a techno and trance artist based in Germany, with 6 gigs on soundcheck 
 
 Aimé You, HugoXL, LASC11
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cun_t/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cun_t/)*

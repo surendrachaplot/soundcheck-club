@@ -1,6 +1,6 @@
 # MBREKK
 
-MBREKK is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Hallo Werner, Augsburg on Fri, 16 Oct 2026.
+MBREKK is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Hallo Werner, Augsburg on Fri, 16 Oct 2026.
 
 MBREKK is an electronic artist based in Germany, with 18 gigs on soundcheck across Amsterdam, Augsburg, Berlin and Munich. Often billed alongside 9LALEY, NAGINI and Praun. Next up: Hallo Werner, Augsburg on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ MBREKK is an electronic artist based in Germany, with 18 gigs on soundcheck acro
 
 9LALEY, NAGINI, Praun
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mbrekk/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mbrekk/)*

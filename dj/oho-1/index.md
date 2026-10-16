@@ -1,6 +1,6 @@
 # Oho (1)
 
-Oho (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Hertz, Seoul on Sat, 17 Oct 2026.
+Oho (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Hertz, Seoul on Sat, 17 Oct 2026.
 
 Oho is a techno and house artist, with 27 gigs on soundcheck across Seoul. Often billed alongside Lyumin, Haemin Kim and Jesse You. Next up: Hertz, Seoul on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Oho is a techno and house artist, with 27 gigs on soundcheck across Seoul. Often
 
 Lyumin, Haemin Kim, Jesse You
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oho-1/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oho-1/)*

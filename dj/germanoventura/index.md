@@ -1,6 +1,6 @@
 # Germano Ventura
 
-Germano Ventura is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Circolo degli Illuminati, Rome on Sat, 24 Oct 2026.
+Germano Ventura is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Circolo degli Illuminati, Rome on Sat, 24 Oct 2026.
 
 Germano Ventura is a house and tech house artist based in Italy, with 102 gigs on soundcheck across Barcelona, Berlin, Ibiza and Naples and 3 more. Often billed alongside Ricardo Villalobos, SAWE and Franco Cinelli. Next up: Circolo degli Illuminati, Rome on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Germano Ventura is a house and tech house artist based in Italy, with 102 gigs o
 
 Ricardo Villalobos, SAWE, Franco Cinelli
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/germanoventura/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/germanoventura/)*

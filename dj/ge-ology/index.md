@@ -1,6 +1,6 @@
 # Ge-ology
 
-Ge-ology is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Palais Mascotte, Zurich on Fri, 16 Oct 2026.
+Ge-ology is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Palais Mascotte, Zurich on Fri, 16 Oct 2026.
 
 Ge-ology is a house and disco artist based in United States of America, with 85 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brussels and 24 more. Often billed alongside Cosmo (NY), Disgonuts and Aaron Dae. Next up: Palais Mascotte, Zurich on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Ge-ology is a house and disco artist based in United States of America, with 85 
 
 Cosmo (NY), Disgonuts, Aaron Dae
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ge-ology/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ge-ology/)*

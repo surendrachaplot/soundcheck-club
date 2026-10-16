@@ -1,6 +1,6 @@
 # XCX WORLD at Arch
 
-XCX WORLD at Arch on Fri 23 Oct, Tokyo. 1 artist: MAXIM. Club. See the line-up on soundcheck.
+XCX WORLD at Arch on Fri 23 Oct, Tokyo. 2 artists: MAXIM and MUNÉO. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ XCX WORLD at Arch on Fri 23 Oct, Tokyo. 1 artist: MAXIM. Club. See the line-up o
 ## Line-up
 
 - MAXIM (8)
+- MUNÉO
 
 *Source: [soundcheck](https://soundcheck.club/e/2527512-xcx-world-at-arch/)*

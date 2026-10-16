@@ -1,6 +1,6 @@
 # Moon Club
 
-Moon Club is a music venue in Bristol with 11 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Mas Que Nada" on Fri, 16 Oct 2026.
+Moon Club is a music venue in Bristol with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Mas Que Nada" on Fri, 16 Oct 2026.
 
 Moon Club is a music venue in Bristol listed on soundcheck. 11 upcoming gigs, with line-ups including BETH, Cristi Cons, DJ Sarah Bonito and Fumiya Tanaka and 2 more. See dates, start times and who's playing. 6 Upper York St, St Paul's, Bristol, BS2 8QN.
 
@@ -23,4 +23,4 @@ Moon Club is a music venue in Bristol listed on soundcheck. 11 upcoming gigs, wi
 
 6 Upper York St, St Paul's, Bristol, BS2 8QN, Bristol
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/moon-club/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/moon-club/)*

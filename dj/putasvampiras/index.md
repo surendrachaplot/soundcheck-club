@@ -1,6 +1,6 @@
 # PUTAS VAMPIRAS
 
-PUTAS VAMPIRAS is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Distillery N17, London on Fri, 30 Oct 2026.
+PUTAS VAMPIRAS is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Distillery N17, London on Fri, 30 Oct 2026.
 
 PUTAS VAMPIRAS is a techno and hardcore artist based in Brazil, with 23 gigs on soundcheck across Berlin, London, Nantes and New York City and 4 more. Often billed alongside Silenzo, Acierate and Rebeka Warrior. Next up: Distillery N17, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ PUTAS VAMPIRAS is a techno and hardcore artist based in Brazil, with 23 gigs on 
 
 Silenzo, Acierate, Rebeka Warrior
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/putasvampiras/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/putasvampiras/)*

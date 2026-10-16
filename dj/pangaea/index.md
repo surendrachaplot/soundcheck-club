@@ -1,6 +1,6 @@
 # Pangaea
 
-Pangaea is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
+Pangaea is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
 
 Pangaea is a techno and bass artist based in United Kingdom, with 129 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 50 more. Often billed alongside Ben UFO, Pearson Sound and Amaliah. Next up: DRUMSHEDS, London on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Pangaea is a techno and bass artist based in United Kingdom, with 129 gigs on so
 
 Ben UFO, Pearson Sound, Amaliah
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pangaea/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pangaea/)*

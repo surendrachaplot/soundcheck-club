@@ -1,6 +1,6 @@
 # Loidis
 
-Loidis is a Techno and Minimal artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
+Loidis is a Techno and Minimal artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
 Loidis is a techno and minimal artist based in United States of America, with 66 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 29 more. Often billed alongside Huerco S., Skee Mask and DJ Python. Next up: ZENNER, Berlin on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ Loidis is a techno and minimal artist based in United States of America, with 66
 
 Huerco S., Skee Mask, DJ Python
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loidis/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loidis/)*

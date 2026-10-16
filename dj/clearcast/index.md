@@ -1,6 +1,6 @@
 # Clearcast
 
-Clearcast is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Cow Palace, San Francisco/Oakland on Fri, 16 Oct 2026.
+Clearcast is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Cow Palace, San Francisco/Oakland on Fri, 16 Oct 2026.
 
 Clearcast is a techno and garage artist based in United States of America, with 57 gigs on soundcheck across Auckland, Detroit, Los Angeles and New York City and 2 more. Often billed alongside Skiis, Vertigo and Adware. Next up: Cow Palace, San Francisco/Oakland on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Clearcast is a techno and garage artist based in United States of America, with 
 
 Skiis, Vertigo, Adware
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clearcast/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clearcast/)*

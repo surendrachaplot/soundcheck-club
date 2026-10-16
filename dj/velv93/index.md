@@ -1,6 +1,6 @@
 # Velv.93
 
-Velv.93 is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Botanique, Brussels on Sat, 28 Nov 2026.
+Velv.93 is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Botanique, Brussels on Sat, 28 Nov 2026.
 
 Velv.93 is an experimental and techno artist based in Sweden, with 10 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Vlada, Vaahzer and ISAbella. Next up: Botanique, Brussels on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Velv.93 is an experimental and techno artist based in Sweden, with 10 gigs on so
 
 Vlada, Vaahzer, ISAbella
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/velv93/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/velv93/)*

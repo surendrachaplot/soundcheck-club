@@ -1,6 +1,6 @@
 # human plushie
 
-human plushie is a Techno and Club artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Toronto on Fri, 16 Oct 2026.
+human plushie is a Techno and Club artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Toronto on Fri, 16 Oct 2026.
 
 human plushie is a techno and club artist based in United States of America, with 27 gigs on soundcheck across Boston, Nashville, Pennsylvania and Philadelphia and 2 more. Often billed alongside rippenzack, Sambee and 6LOV3. Next up: TBA, Toronto on Fri 16 Oct.
 
@@ -9,7 +9,7 @@ human plushie is a techno and club artist based in United States of America, wit
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | TBA | Toronto |
-| Sat, 17 Oct 2026 | Cëcret by cë Gallery | Nashville |
+| Sat, 17 Oct 2026 | TBA - 1015 W Kirkland Ave, Suite #305 | Nashville |
 | Sat, 24 Oct 2026 | Umbria Arts | Philadelphia |
 | Sat, 31 Oct 2026 | Val’s Lesbian Bar | Philadelphia |
 | Fri, 6 Nov 2026 | TBA - Warehouse Location | Philadelphia |
@@ -29,4 +29,4 @@ human plushie is a techno and club artist based in United States of America, wit
 
 rippenzack, Sambee, 6LOV3
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/humanplushie/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/humanplushie/)*

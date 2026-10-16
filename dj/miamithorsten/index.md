@@ -1,6 +1,6 @@
 # miamithorsten
 
-miamithorsten is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Salon Babette, Berlin on Thu, 29 Oct 2026.
+miamithorsten is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Salon Babette, Berlin on Thu, 29 Oct 2026.
 
 miamithorsten is a techno and trance artist, with 10 gigs on soundcheck across Berlin. Often billed alongside Sievert Serviert, OLED and Alex Friday. Next up: Salon Babette, Berlin on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ miamithorsten is a techno and trance artist, with 10 gigs on soundcheck across B
 
 Sievert Serviert, OLED, Alex Friday
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miamithorsten/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miamithorsten/)*

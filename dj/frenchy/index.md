@@ -1,13 +1,14 @@
 # Frenchy
 
-Frenchy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Stage and Radio, Manchester on Fri, 18 Dec 2026.
+Frenchy is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 25 Oct 2026.
 
-Frenchy is a house and tech house artist based in United Kingdom, with 20 gigs on soundcheck across Ibiza, Leeds, London and Manchester. Often billed alongside Robert James, Adam Nahalewicz and Annie Errez. Next up: Stage and Radio, Manchester on Fri 18 Dec.
+Frenchy is a house and tech house artist based in United Kingdom, with 21 gigs on soundcheck across Ibiza, Leeds, London and Manchester. Often billed alongside Robert James, Adam Nahalewicz and Simon Morell. Next up: Pikes Ibiza, Ibiza on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 25 Oct 2026 | Pikes Ibiza | Ibiza |
 | Fri, 18 Dec 2026 | Stage and Radio | Manchester |
 
 ## Recently played
@@ -23,6 +24,6 @@ Frenchy is a house and tech house artist based in United Kingdom, with 20 gigs o
 
 ## Shares bills with
 
-Robert James, Adam Nahalewicz, Annie Errez
+Robert James, Adam Nahalewicz, Simon Morell
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frenchy/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frenchy/)*

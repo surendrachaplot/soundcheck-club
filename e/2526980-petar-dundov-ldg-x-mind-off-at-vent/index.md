@@ -14,7 +14,7 @@ Petar Dundov / LDG x MIND OFF at VENT on Sat 17 Oct, Tokyo. 6 artists: Dani Sava
 - Petar Dundov
 - Raul (2)
 - Shelly
-- Yama
+- YAMA(JP/OSK)
 - YUTA
 
 *Source: [soundcheck](https://soundcheck.club/e/2526980-petar-dundov-ldg-x-mind-off-at-vent/)*

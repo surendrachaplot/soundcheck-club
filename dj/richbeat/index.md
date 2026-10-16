@@ -1,6 +1,6 @@
 # RichBeat
 
-RichBeat is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 16 Oct 2026.
+RichBeat is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 16 Oct 2026.
 
 RichBeat is a trance and techno artist based in Germany, with 10 gigs on soundcheck across Berlin and Munich. Often billed alongside e.leptic, B.R.K.Ø. and Dr.Waumiau. Next up: Humboldthain Club, Berlin on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ RichBeat is a trance and techno artist based in Germany, with 10 gigs on soundch
 
 e.leptic, B.R.K.Ø., Dr.Waumiau
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richbeat/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richbeat/)*

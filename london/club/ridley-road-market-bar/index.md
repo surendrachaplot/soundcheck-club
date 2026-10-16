@@ -1,14 +1,13 @@
 # Ridley Road Market Bar
 
-Ridley Road Market Bar is a music venue in London with 13 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Telefunk and Friends" on Thu, 15 Oct 2026.
+Ridley Road Market Bar is a music venue in London with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Icons Only" on Fri, 16 Oct 2026.
 
-Ridley Road Market Bar is a music venue in London listed on soundcheck. 13 upcoming gigs. See dates, start times and who's playing. 49 Ridley Road; London E8 2NP; United Kingdom.
+Ridley Road Market Bar is a music venue in London listed on soundcheck. 12 upcoming gigs. See dates, start times and who's playing. 49 Ridley Road; London E8 2NP; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Telefunk and Friends |  |
 | Fri, 16 Oct 2026 | Icons Only |  |
 | Sat, 17 Oct 2026 | Club Mix |  |
 | Tue, 20 Oct 2026 | DANCE THIS MESS AROUND |  |
@@ -18,9 +17,10 @@ Ridley Road Market Bar is a music venue in London listed on soundcheck. 13 upcom
 | Sat, 24 Oct 2026 | Club Mix |  |
 | Tue, 27 Oct 2026 | Back Then |  |
 | Wed, 28 Oct 2026 | SOON COME |  |
+| Thu, 29 Oct 2026 | Disco FREAKS Halloween Special |  |
 
 ## Address
 
 49 Ridley Road; London E8 2NP; United Kingdom, London
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ridley-road-market-bar/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ridley-road-market-bar/)*

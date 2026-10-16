@@ -1,6 +1,6 @@
 # justfin
 
-justfin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Bar Temp., Bangkok on Thu, 12 Nov 2026.
+justfin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bar Temp., Bangkok on Thu, 12 Nov 2026.
 
 justfin is a techno and house artist based in United Kingdom, with 8 gigs on soundcheck across Bangkok, Berlin and Thailand. Often billed alongside Chalo, DOTT and Mizuyo. Next up: Bar Temp., Bangkok on Thu 12 Nov.
 
@@ -24,4 +24,4 @@ justfin is a techno and house artist based in United Kingdom, with 8 gigs on sou
 
 Chalo, DOTT, Mizuyo
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justfin/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justfin/)*

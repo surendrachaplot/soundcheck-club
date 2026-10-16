@@ -1,8 +1,8 @@
 # BEPPU
 
-BEPPU is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at R Lounge, Tokyo on Fri, 16 Oct 2026.
+BEPPU is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at R Lounge, Tokyo on Fri, 16 Oct 2026.
 
-BEPPU is a techno and trance artist based in Japan, with 147 gigs on soundcheck across Tokyo. Often billed alongside Takami, YOSHIMASA and Nanlaze. Next up: R Lounge, Tokyo on Fri 16 Oct.
+BEPPU is a techno and trance artist based in Japan, with 149 gigs on soundcheck across Tokyo. Often billed alongside Takami, Nanlaze and YOSHIMASA. Next up: R Lounge, Tokyo on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ BEPPU is a techno and trance artist based in Japan, with 147 gigs on soundcheck 
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | R Lounge | Tokyo |
 | Sun, 18 Oct 2026 | DeTour | Tokyo |
+| Sat, 24 Oct 2026 | DeTour | Tokyo |
+| Sun, 25 Oct 2026 | DeTour | Tokyo |
 
 ## Recently played
 
@@ -24,6 +26,6 @@ BEPPU is a techno and trance artist based in Japan, with 147 gigs on soundcheck 
 
 ## Shares bills with
 
-Takami, YOSHIMASA, Nanlaze
+Takami, Nanlaze, YOSHIMASA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beppu/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beppu/)*

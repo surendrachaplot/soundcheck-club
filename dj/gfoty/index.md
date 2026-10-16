@@ -1,6 +1,6 @@
 # GFOTY
 
-GFOTY is a Pop and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Wapping Hydraulic Power Station, London on Sat, 17 Oct 2026.
+GFOTY is a Pop and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Wapping Hydraulic Power Station, London on Sat, 17 Oct 2026.
 
 GFOTY is a pop and club artist based in United Kingdom, with 27 gigs on soundcheck across Budapest, Edinburgh, Leeds and London and 8 more. Often billed alongside Mother Cell, Petal Supply and DJ Trick. Next up: Wapping Hydraulic Power Station, London on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ GFOTY is a pop and club artist based in United Kingdom, with 27 gigs on soundche
 
 Mother Cell, Petal Supply, DJ Trick
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gfoty/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gfoty/)*

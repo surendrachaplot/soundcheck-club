@@ -1,6 +1,6 @@
 # Le TIZI
 
-Le TIZI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Tausend, Berlin on Fri, 16 Oct 2026.
+Le TIZI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Tausend, Berlin on Fri, 16 Oct 2026.
 
 Le TIZI is a house and techno artist, with 11 gigs on soundcheck across Berlin, Hamburg, Munich and New York City. Often billed alongside Concentio, Confred and Ede. Next up: Tausend, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Le TIZI is a house and techno artist, with 11 gigs on soundcheck across Berlin, 
 
 Concentio, Confred, Ede
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/letizi/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/letizi/)*

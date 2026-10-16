@@ -1,8 +1,8 @@
 # DALJAE
 
-DALJAE is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Secret Location, Toronto on Fri, 16 Oct 2026.
+DALJAE is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Secret Location, Toronto on Fri, 16 Oct 2026.
 
-DALJAE is a techno and industrial artist based in Japan, with 103 gigs on soundcheck across Amsterdam, Milan, Osaka and Seoul and 3 more. Often billed alongside Kaito, KAITO and YOXIKI. Next up: TBA - Secret Location, Toronto on Fri 16 Oct.
+DALJAE is a techno and industrial artist based in Japan, with 104 gigs on soundcheck across Amsterdam, Milan, Osaka and Seoul and 3 more. Often billed alongside Kaito, KAITO and YUXI. Next up: TBA - Secret Location, Toronto on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DALJAE is a techno and industrial artist based in Japan, with 103 gigs on soundc
 | Fri, 16 Oct 2026 | TBA - Secret Location | Toronto |
 | Fri, 16 Oct 2026 | TBA - Secret Location  | Tokyo |
 | Fri, 23 Oct 2026 | clubasia | Tokyo |
+| Thu, 29 Oct 2026 | WOMB | Tokyo |
 | Sat, 31 Oct 2026 | Tide Tokyo | Tokyo |
 
 ## Recently played
@@ -26,6 +27,6 @@ DALJAE is a techno and industrial artist based in Japan, with 103 gigs on soundc
 
 ## Shares bills with
 
-Kaito, KAITO (5), YOXIKI
+Kaito, KAITO (5), YUXI
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daljae/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daljae/)*

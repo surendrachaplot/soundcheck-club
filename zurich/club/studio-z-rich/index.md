@@ -1,6 +1,6 @@
 # Studio Zürich
 
-Studio Zürich is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "SOUK - Open the Gate" on Sat, 17 Oct 2026.
+Studio Zürich is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "SOUK - Open the Gate" on Sat, 17 Oct 2026.
 
 Studio Zürich is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, with line-ups including Daughter In Law, GIANNI, SOMMA and Spanks. See dates, start times and who's playing. Geroldstrasse 15, 8005 Zürich.
 
@@ -15,4 +15,4 @@ Studio Zürich is a music venue in Zurich listed on soundcheck. 2 upcoming gigs,
 
 Geroldstrasse 15, 8005 Zürich, Zurich
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/studio-z-rich/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/studio-z-rich/)*

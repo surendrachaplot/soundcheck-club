@@ -1,6 +1,6 @@
 # NIKOLINA_
 
-NIKOLINA_ is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Gate Milano, Milan on Fri, 16 Oct 2026.
+NIKOLINA_ is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Gate Milano, Milan on Fri, 16 Oct 2026.
 
 NIKOLINA_ is a techno and house artist based in Germany, with 55 gigs on soundcheck across Amsterdam, Berlin, Brussels and Budapest and 25 more. Often billed alongside A.N.I., Azyr and KRUELTY. Next up: Gate Milano, Milan on Fri 16 Oct.
 
@@ -32,4 +32,4 @@ NIKOLINA_ is a techno and house artist based in Germany, with 55 gigs on soundch
 
 A.N.I., Azyr, KRUELTY
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina_/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina_/)*

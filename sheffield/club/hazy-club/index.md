@@ -1,6 +1,6 @@
 # Hazy Club
 
-Hazy Club is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "Commune: Captain Wallop b2b Oldboy b2b Dj Cosworth - 4 Hour Set" on Sat, 5 Dec 2026.
+Hazy Club is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "Commune: Captain Wallop b2b Oldboy b2b Dj Cosworth - 4 Hour Set" on Sat, 5 Dec 2026.
 
 Hazy Club is a music venue in Sheffield listed on soundcheck. 1 upcoming gig, with line-ups including Captain Wallop, DJ Cosworth and Oldboy. See dates, start times and who's playing. 28 Eyre St, Sheffield City Centre, Sheffield S1 4QY.
 
@@ -14,4 +14,4 @@ Hazy Club is a music venue in Sheffield listed on soundcheck. 1 upcoming gig, wi
 
 28 Eyre St, Sheffield City Centre, Sheffield S1 4QY, Sheffield
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/hazy-club/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/hazy-club/)*

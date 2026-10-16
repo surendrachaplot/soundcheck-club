@@ -1,14 +1,15 @@
 # Dave P
 
-Dave P is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Franklin Music Hall, Philadelphia on Sat, 31 Oct 2026.
+Dave P is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Franklin Music Hall, Philadelphia on Sat, 31 Oct 2026.
 
-Dave P is a techno and trance artist based in United States of America, with 63 gigs on soundcheck across Barcelona, Cologne, Glasgow and Mexico City and 5 more. Often billed alongside Zillas on Acid, Mario Cotto and JEWELSSEA. Next up: Franklin Music Hall, Philadelphia on Sat 31 Oct.
+Dave P is a techno and trance artist based in United States of America, with 64 gigs on soundcheck across Barcelona, Cologne, Glasgow and Mexico City and 5 more. Often billed alongside Zillas on Acid, Mario Cotto and Universal Cave. Next up: Franklin Music Hall, Philadelphia on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Franklin Music Hall | Philadelphia |
+| Sat, 31 Oct 2026 | TBA -  A THRILLING TRANSCENDENTAL Secret Location !!!  | Philadelphia |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Dave P is a techno and trance artist based in United States of America, with 63 
 
 ## Shares bills with
 
-Zillas on Acid, Mario Cotto, JEWELSSEA
+Zillas on Acid, Mario Cotto, Universal Cave
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davep/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davep/)*

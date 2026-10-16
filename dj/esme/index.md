@@ -1,6 +1,6 @@
 # Esmé
 
-Esmé is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 17 Oct 2026.
+Esmé is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 17 Oct 2026.
 
 Esmé is a techno and house artist based in United Kingdom, with 88 gigs on soundcheck across Glasgow, Leeds, Liverpool and London and 3 more. Often billed alongside April (UK), Jase Jeffery and Luke Daniels. Next up: Honey Street Studio, Manchester on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Esmé is a techno and house artist based in United Kingdom, with 88 gigs on soun
 
 April (UK), Jase Jeffery, Luke Daniels
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esme/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esme/)*

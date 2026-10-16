@@ -1,6 +1,6 @@
 # Pato Mallet
 
-Pato Mallet is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Crobar - Buenos Aires, Buenos-aires on Fri, 16 Oct 2026.
+Pato Mallet is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Crobar - Buenos Aires, Buenos-aires on Fri, 16 Oct 2026.
 
 Pato Mallet is a house and deep house artist based in Mexico, with 48 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Madrid and 3 more. Often billed alongside Loïc, Signo and Pabels. Next up: Crobar - Buenos Aires, Buenos Aires on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Pato Mallet is a house and deep house artist based in Mexico, with 48 gigs on so
 
 Loïc, Signo, Pabels
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patomallet/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patomallet/)*

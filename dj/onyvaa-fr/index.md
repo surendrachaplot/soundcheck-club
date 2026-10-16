@@ -1,6 +1,6 @@
 # ONYVAA
 
-ONYVAA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Stereo, Montreal on Fri, 23 Oct 2026.
+ONYVAA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Stereo, Montreal on Fri, 23 Oct 2026.
 
 ONYVAA is a techno and house artist based in United States of America, with 62 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 26 more. Often billed alongside Anfisa Letyago, Chris Liebing and Ida Engberg. Next up: Stereo, Montreal on Fri 23 Oct.
 
@@ -10,7 +10,7 @@ ONYVAA is a techno and house artist based in United States of America, with 62 g
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Stereo | Montreal |
 | Sat, 24 Oct 2026 | Jolene Downtown Miami | Miami |
-| Fri, 27 Nov 2026 | Ace*Mission Studios | Los Angeles |
+| Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 
 ## Recently played
 
@@ -27,4 +27,4 @@ ONYVAA is a techno and house artist based in United States of America, with 62 g
 
 Anfisa Letyago, Chris Liebing, Ida Engberg
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onyvaa-fr/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onyvaa-fr/)*

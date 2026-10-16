@@ -1,6 +1,6 @@
 # Sara Landry
 
-Sara Landry is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Edmonton Expo Center, Edmonton on Fri, 30 Oct 2026.
+Sara Landry is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Edmonton Expo Center, Edmonton on Fri, 30 Oct 2026.
 
 Sara Landry is a techno and house artist based in United States of America, with 202 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 61 more. Often billed alongside Nico Moreno, Trym and Azyr. Next up: Edmonton Expo Center, Edmonton on Fri 30 Oct.
 
@@ -33,4 +33,4 @@ Sara Landry is a techno and house artist based in United States of America, with
 
 Nico Moreno, Trym, Azyr
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*

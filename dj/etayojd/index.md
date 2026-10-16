@@ -1,6 +1,6 @@
 # Etayo JD
 
-Etayo JD is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at E1, London on Thu, 29 Oct 2026.
+Etayo JD is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at E1, London on Thu, 29 Oct 2026.
 
 Etayo JD is a house and techno artist, with 4 gigs on soundcheck across London. Often billed alongside VanRock, NYCity Soundz and Art e Fect. Next up: E1, London on Thu 29 Oct.
 
@@ -9,7 +9,7 @@ Etayo JD is a house and techno artist, with 4 gigs on soundcheck across London. 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | E1 | London |
-| Thu, 29 Oct 2026 | E1 | London |
+| Thu, 29 Oct 2026 | Studio Spaces | London |
 
 ## Recently played
 
@@ -20,4 +20,4 @@ Etayo JD is a house and techno artist, with 4 gigs on soundcheck across London. 
 
 VanRock, NYCity Soundz, Art e Fect
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etayojd/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etayojd/)*

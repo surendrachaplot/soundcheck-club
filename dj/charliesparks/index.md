@@ -1,13 +1,14 @@
 # Charlie Sparks
 
-Charlie Sparks is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
+Charlie Sparks is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Wed, 21 Oct 2026.
 
-Charlie Sparks is a techno and trance artist based in United Kingdom, with 267 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Barcelona and 68 more. Often billed alongside 999999999, Parfait and I Hate Models. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
+Charlie Sparks is a techno and trance artist based in United Kingdom, with 268 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Barcelona and 68 more. Often billed alongside 999999999, Parfait and I Hate Models. Next up: Warehouse Elementenstraat, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 21 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
 | Thu, 22 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
 | Fri, 30 Oct 2026 | TBA - Fohrstraat, 9000 Gent, België | Belgium |
@@ -35,4 +36,4 @@ Charlie Sparks is a techno and trance artist based in United Kingdom, with 267 g
 
 999999999, Parfait, I Hate Models
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesparks/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesparks/)*

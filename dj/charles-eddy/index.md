@@ -1,6 +1,6 @@
 # CHARLES-EDDY
 
-CHARLES-EDDY is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at 29th Apartment, Melbourne on Wed, 28 Oct 2026.
+CHARLES-EDDY is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at 29th Apartment, Melbourne on Wed, 28 Oct 2026.
 
 CHARLES-EDDY is a house and deep house artist based in France, with 24 gigs on soundcheck across Barcelona, Berlin, Melbourne and Sydney and 1 more. Often billed alongside DJ JNETT, Oscar de Lima and Ed Kent. Next up: 29th Apartment, Melbourne on Wed 28 Oct.
 
@@ -26,4 +26,4 @@ CHARLES-EDDY is a house and deep house artist based in France, with 24 gigs on s
 
 DJ JNETT, Oscar de Lima, Ed Kent
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charles-eddy/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charles-eddy/)*

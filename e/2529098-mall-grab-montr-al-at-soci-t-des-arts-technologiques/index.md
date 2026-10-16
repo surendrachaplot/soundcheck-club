@@ -1,6 +1,6 @@
 # Mall Grab - Montréal at Société des arts technologiques
 
-Mall Grab - Montréal at Société des arts technologiques on Sat 24 Oct, Montreal. 1 artist: Mall Grab. Techno and House. See the line-up on soundcheck.
+Mall Grab - Montréal at Société des arts technologiques on Sat 24 Oct, Montreal. 3 artists: DJ Cinéma Quartier Latin, Lia Plutonic and Mall Grab. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Mall Grab - Montréal at Société des arts technologiques on Sat 24 Oct, Montre
 
 ## Line-up
 
+- DJ Cinéma Quartier Latin
+- Lia Plutonic
 - Mall Grab
 
 *Source: [soundcheck](https://soundcheck.club/e/2529098-mall-grab-montr-al-at-soci-t-des-arts-technologiques/)*

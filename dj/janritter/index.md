@@ -1,6 +1,6 @@
 # Jan Ritter
 
-Jan Ritter is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Telegramm: @MauerparkLoveKommando, Berlin on Sat, 17 Oct 2026.
+Jan Ritter is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Telegramm: @MauerparkLoveKommando, Berlin on Sat, 17 Oct 2026.
 
 Jan Ritter is a techno artist based in Germany, with 10 gigs on soundcheck across Berlin. Often billed alongside Mattone, DEN!SE and Dave Mech. Next up: TBA - Telegramm: @MauerparkLoveKommando, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Jan Ritter is a techno artist based in Germany, with 10 gigs on soundcheck acros
 
 Mattone, DEN!SE, Dave Mech
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janritter/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janritter/)*

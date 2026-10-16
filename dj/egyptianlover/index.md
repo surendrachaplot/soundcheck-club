@@ -1,6 +1,6 @@
 # Egyptian Lover
 
-Egyptian Lover is a Electro and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Egyptian Lover is a Electro and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
 Egyptian Lover is an electro and house artist based in United States of America, with 100 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside DJ Godfather, Binh and DJ Business. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
@@ -35,4 +35,4 @@ Egyptian Lover is an electro and house artist based in United States of America,
 
 DJ Godfather, Binh, DJ Business (2)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/egyptianlover/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/egyptianlover/)*

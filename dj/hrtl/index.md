@@ -1,6 +1,6 @@
 # Hrtl
 
-Hrtl is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Bike Jesus, Prague on Fri, 16 Oct 2026.
+Hrtl is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bike Jesus, Prague on Fri, 16 Oct 2026.
 
 Hrtl is a techno and house artist based in Czech Republic, with 19 gigs on soundcheck across Berlin and Prague. Often billed alongside Fatty M, Nina Farrina and SJ Yellow. Next up: Bike Jesus, Prague on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Hrtl is a techno and house artist based in Czech Republic, with 19 gigs on sound
 
 Fatty M, Nina Farrina, SJ Yellow
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hrtl/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hrtl/)*

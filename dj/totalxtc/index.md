@@ -1,6 +1,6 @@
 # Total XTC
 
-Total XTC is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Market Hotel, New York City on Sat, 31 Oct 2026.
+Total XTC is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Market Hotel, New York City on Sat, 31 Oct 2026.
 
 Total XTC is a club and techno artist based in United States of America, with 95 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Donis, friedplatano and Pauli Cakes. Next up: Market Hotel, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Total XTC is a club and techno artist based in United States of America, with 95
 
 Donis, friedplatano, Pauli Cakes
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/totalxtc/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/totalxtc/)*

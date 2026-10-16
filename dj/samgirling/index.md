@@ -1,20 +1,20 @@
 # Sam Girling
 
-Sam Girling is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Berkeley Suite, Glasgow on Thu, 15 Oct 2026.
+Sam Girling is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at UNLOCKED, London on Fri, 30 Oct 2026.
 
-Sam Girling is a house and garage artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 16 more. Often billed alongside LAMMER, Y U QT and Body Clinic. Next up: The Berkeley Suite, Glasgow on Thu 15 Oct.
+Sam Girling is a house and garage artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 16 more. Often billed alongside LAMMER, Y U QT and Body Clinic. Next up: UNLOCKED, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | The Berkeley Suite | Glasgow |
 | Fri, 30 Oct 2026 | UNLOCKED | London |
 | Sat, 31 Oct 2026 | Secret Warehouse | Manchester |
 | Mon, 30 Nov 2026 | Sneaky Pete's | Edinburgh |
 
 ## Recently played
 
+- The Berkeley Suite, Glasgow · Thu, 15 Oct 2026
 - Melkweg, Amsterdam · Sat, 3 Oct 2026
 - The Model, Nottingham · Fri, 2 Oct 2026
 - Wigwam, Dublin · Sat, 26 Sept 2026
@@ -22,10 +22,9 @@ Sam Girling is a house and garage artist based in United Kingdom, with 48 gigs o
 - The Wee Bar, Belfast · Sat, 19 Sept 2026
 - The Villa, Oslo · Sat, 12 Sept 2026
 - SISSI'S Amsterdam, Amsterdam · Sat, 5 Sept 2026
-- Night Tales Loft, London · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 LAMMER, Y U QT, Body Clinic
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samgirling/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samgirling/)*

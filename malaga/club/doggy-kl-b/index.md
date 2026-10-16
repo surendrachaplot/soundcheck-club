@@ -1,6 +1,6 @@
 # Doggy Klœb
 
-Doggy Klœb is a music venue in Malaga with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Cultura Club: Unreal Vibes All Night Long" on Fri, 16 Oct 2026.
+Doggy Klœb is a music venue in Malaga with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Cultura Club: Unreal Vibes All Night Long" on Fri, 16 Oct 2026.
 
 Doggy Klœb is a music venue in Malaga listed on soundcheck. 7 upcoming gigs, with line-ups including Andrés Sancho, Arval, Cesare vs Disorder and Dudster and 2 more. See dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
 
@@ -20,4 +20,4 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 7 upcoming gigs, wi
 
 C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain, Malaga
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*

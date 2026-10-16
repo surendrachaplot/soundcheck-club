@@ -1,6 +1,6 @@
 # Strandtuch
 
-Strandtuch is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at La Java, Paris on Sat, 31 Oct 2026.
+Strandtuch is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at La Java, Paris on Sat, 31 Oct 2026.
 
 Strandtuch is a house and techno artist based in France, with 14 gigs on soundcheck across Berlin, Lyon and Paris. Often billed alongside Crowd Control, Maggy Smiss and Denyl Brook. Next up: La Java, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Strandtuch is a house and techno artist based in France, with 14 gigs on soundch
 
 Crowd Control, Maggy Smiss, Denyl Brook
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/strandtuch/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/strandtuch/)*

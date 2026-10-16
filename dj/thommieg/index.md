@@ -1,8 +1,8 @@
 # Thommie G
 
-Thommie G is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Thommie G is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
-Thommie G is a techno and progressive house artist, with 13 gigs on soundcheck across Amsterdam, Berlin, Kuala Lumpur and London and 2 more. Often billed alongside ADEZ, David Berrie and David Gtronic. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
+Thommie G is a techno and progressive house artist, with 13 gigs on soundcheck across Amsterdam, Berlin, Kuala Lumpur and London and 2 more. Often billed alongside ADEZ, Dave Soul and David Berrie. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Thommie G is a techno and progressive house artist, with 13 gigs on soundcheck a
 
 ## Shares bills with
 
-ADEZ, David Berrie, David Gtronic
+ADEZ, Dave Soul, David Berrie
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thommieg/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thommieg/)*

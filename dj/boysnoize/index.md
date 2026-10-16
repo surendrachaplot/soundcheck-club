@@ -1,6 +1,6 @@
 # Boys Noize
 
-Boys Noize is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Mia Mao, Paris on Fri, 16 Oct 2026.
+Boys Noize is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mia Mao, Paris on Fri, 16 Oct 2026.
 
 Boys Noize is a techno and house artist based in Germany, with 162 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 53 more. Often billed alongside VTSS, MCR-T and DJ Tennis. Next up: Mia Mao, Paris on Fri 16 Oct.
 
@@ -35,4 +35,4 @@ Boys Noize is a techno and house artist based in Germany, with 162 gigs on sound
 
 VTSS, MCR-T, DJ Tennis
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boysnoize/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boysnoize/)*

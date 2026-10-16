@@ -1,6 +1,6 @@
 # Shahrokh
 
-Shahrokh is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Jmes, Berlin on Thu, 22 Oct 2026.
+Shahrokh is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Jmes, Berlin on Thu, 22 Oct 2026.
 
 Shahrokh is a house and techno artist, with 16 gigs on soundcheck across Berlin, Munich, Stuttgart and Tbilisi. Often billed alongside Marian Tone, Paulita and Anna Schreit. Next up: Jmes, Berlin on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Shahrokh is a house and techno artist, with 16 gigs on soundcheck across Berlin,
 
 Marian Tone, Paulita, Anna Schreit
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shahrokh/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shahrokh/)*

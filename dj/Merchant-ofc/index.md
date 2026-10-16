@@ -1,6 +1,6 @@
 # Merchant (OFC)
 
-Merchant (OFC) is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Night We Met, Nashville on Fri, 30 Oct 2026.
+Merchant (OFC) is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Night We Met, Nashville on Fri, 30 Oct 2026.
 
 Merchant (OFC) is an afro house and deep house artist, with 11 gigs on soundcheck across Nashville. Often billed alongside Alex Kennon, Ape Drums and Kiko. Next up: Night We Met, Nashville on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Merchant (OFC) is an afro house and deep house artist, with 11 gigs on soundchec
 
 Alex Kennon, Ape Drums, Kiko
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Merchant-ofc/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Merchant-ofc/)*

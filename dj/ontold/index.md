@@ -1,6 +1,6 @@
 # Øntold
 
-Øntold is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Luzztro, Warsaw on Sat, 17 Oct 2026.
+Øntold is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Luzztro, Warsaw on Sat, 17 Oct 2026.
 
 Øntold is a techno and tech house artist based in Germany, with 15 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Frankfurt and 5 more. Often billed alongside MPathy, Iman Deeper and David Bucka. Next up: Luzztro, Warsaw on Sat 17 Oct.
 
@@ -26,4 +26,4 @@
 
 MPathy, Iman Deeper, David Bucka
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ontold/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ontold/)*

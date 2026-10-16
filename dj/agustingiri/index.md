@@ -1,6 +1,6 @@
 # Agustin Giri
 
-Agustin Giri is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Suma Han, Istanbul on Fri, 16 Oct 2026.
+Agustin Giri is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Suma Han, Istanbul on Fri, 16 Oct 2026.
 
 Agustin Giri is a techno and electronica artist based in Argentina, with 26 gigs on soundcheck across Amsterdam, Azerbaijan, Barcelona and Berlin and 3 more. Often billed alongside Gespona, Last Men On Earth and Djolee. Next up: Suma Han, Istanbul on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Agustin Giri is a techno and electronica artist based in Argentina, with 26 gigs
 
 Gespona, Last Men On Earth, Djolee
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agustingiri/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agustingiri/)*

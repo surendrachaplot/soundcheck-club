@@ -1,8 +1,8 @@
 # Anetha
 
-Anetha is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Sonora Bordeaux, Bordeaux on Fri, 16 Oct 2026.
+Anetha is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Sonora Bordeaux, Bordeaux on Fri, 16 Oct 2026.
 
-Anetha is a techno and house artist based in France, with 214 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 62 more. Often billed alongside Mac Declos, SPFDJ and VEL (MA). Next up: Sonora Bordeaux, Bordeaux on Fri 16 Oct.
+Anetha is a techno and house artist based in France, with 215 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 62 more. Often billed alongside Mac Declos, SPFDJ and VEL (MA). Next up: Sonora Bordeaux, Bordeaux on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -14,12 +14,12 @@ Anetha is a techno and house artist based in France, with 214 gigs on soundcheck
 | Thu, 19 Nov 2026 | Flash | Washington DC |
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
+| Sun, 29 Nov 2026 | Le Sucre | Lyon |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
 | Fri, 1 Jan 2027 | The Nursery At Flemington | Melbourne |
-| Sat, 2 Jan 2027 | Arena Joondalup | Perth |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Anetha is a techno and house artist based in France, with 214 gigs on soundcheck
 
 Mac Declos, SPFDJ, VEL (MA)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anetha/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anetha/)*

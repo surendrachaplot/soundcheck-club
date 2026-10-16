@@ -1,6 +1,6 @@
 # Messiahwaits
 
-Messiahwaits is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Shelter, Seoul on Fri, 16 Oct 2026.
+Messiahwaits is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Shelter, Seoul on Fri, 16 Oct 2026.
 
 Messiahwaits is a techno and trance artist, with 89 gigs on soundcheck across Amsterdam, Bangkok, Basel and Berlin and 17 more. Often billed alongside NO1ELSE, FENGX2 and EMILIO. Next up: Shelter, Seoul on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Messiahwaits is a techno and trance artist, with 89 gigs on soundcheck across Am
 
 NO1ELSE, FENGX2, EMILIO (3)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/messiahwaits/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/messiahwaits/)*

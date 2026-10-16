@@ -1,6 +1,6 @@
 # Lofi
 
-Lofi is a music venue in Amsterdam with 20 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "ADE - Patrick Mason pres MASONICS" on Wed, 21 Oct 2026.
+Lofi is a music venue in Amsterdam with 20 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "ADE - Patrick Mason pres MASONICS" on Wed, 21 Oct 2026.
 
 Lofi is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs, with line-ups including AAT (NL), Agents Of Time, Alexander Koning and Amz and 2 more. See dates, start times and who's playing. Basisweg 63, Amsterdam 1043AN, Netherlands.
 
@@ -23,4 +23,4 @@ Lofi is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs, with 
 
 Basisweg 63, Amsterdam 1043AN, Netherlands, Amsterdam
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*

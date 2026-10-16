@@ -1,13 +1,14 @@
 # ASSIGN
 
-ASSIGN is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at R Lounge, Tokyo on Fri, 23 Oct 2026.
+ASSIGN is a Drum & Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at WOMB, Tokyo on Wed, 21 Oct 2026.
 
-ASSIGN is a drum & bass and techno artist based in Japan, with 5 gigs on soundcheck across Tokyo. Often billed alongside Maozon, Velocity and kens:k. Next up: R Lounge, Tokyo on Fri 23 Oct.
+ASSIGN is a drum & bass and techno artist based in Japan, with 6 gigs on soundcheck across Tokyo. Often billed alongside KEiTA, Maozon and Velocity. Next up: WOMB, Tokyo on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 21 Oct 2026 | WOMB | Tokyo |
 | Fri, 23 Oct 2026 | R Lounge | Tokyo |
 | Sat, 28 Nov 2026 | Z Maruyama | Tokyo |
 
@@ -19,6 +20,6 @@ ASSIGN is a drum & bass and techno artist based in Japan, with 5 gigs on soundch
 
 ## Shares bills with
 
-Maozon, Velocity, kens:k
+KEiTA, Maozon, Velocity
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/assign/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/assign/)*

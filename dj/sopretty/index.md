@@ -1,6 +1,6 @@
 # sopretty
 
-sopretty is a Electro and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Hilo, Toronto on Sun, 18 Oct 2026.
+sopretty is a Electro and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Hilo, Toronto on Sun, 18 Oct 2026.
 
 sopretty is an electro and club artist, with 28 gigs on soundcheck across Montreal and Toronto. Often billed alongside prayinsecret, 1-800 NATZ and Boysinblush. Next up: Hilo, Toronto on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ sopretty is an electro and club artist, with 28 gigs on soundcheck across Montre
 
 prayinsecret, 1-800 NATZ, Boysinblush
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sopretty/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sopretty/)*

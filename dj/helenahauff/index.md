@@ -1,6 +1,6 @@
 # Helena Hauff
 
-Helena Hauff is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at WestWeelde, Amsterdam on Fri, 23 Oct 2026.
+Helena Hauff is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at WestWeelde, Amsterdam on Fri, 23 Oct 2026.
 
 Helena Hauff is a techno and house artist based in Germany, with 218 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 68 more. Often billed alongside DVS1, Job Jobse and Ben UFO. Next up: WestWeelde, Amsterdam on Fri 23 Oct.
 
@@ -18,7 +18,7 @@ Helena Hauff is a techno and house artist based in Germany, with 218 gigs on sou
 | Sat, 14 Nov 2026 | Sawmills | Bristol |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Sat, 21 Nov 2026 | Nowadays | New York City |
-| Fri, 27 Nov 2026 | Ace*Mission Studios | Los Angeles |
+| Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Thu, 31 Dec 2026 | Sidney Myer Music Bowl | Melbourne |
 
 ## Recently played
@@ -36,4 +36,4 @@ Helena Hauff is a techno and house artist based in Germany, with 218 gigs on sou
 
 DVS1, Job Jobse, Ben UFO
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*

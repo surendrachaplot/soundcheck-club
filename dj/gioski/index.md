@@ -1,6 +1,6 @@
 # Gioski
 
-Gioski is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Le Romandie, Lausanne on Sat, 17 Oct 2026.
+Gioski is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Le Romandie, Lausanne on Sat, 17 Oct 2026.
 
 Gioski is a techno and acid artist based in Switzerland, with 63 gigs on soundcheck across Basel, Berlin, Geneva and Lausanne and 1 more. Often billed alongside Pooja B, Alex Nantaya and Frankie Flowerz. Next up: Le Romandie, Lausanne on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Gioski is a techno and acid artist based in Switzerland, with 63 gigs on soundch
 
 Pooja B, Alex Nantaya, Frankie Flowerz
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gioski/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gioski/)*

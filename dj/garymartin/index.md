@@ -1,6 +1,6 @@
 # Gary Martin
 
-Gary Martin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Spkrbox, Detroit on Sat, 17 Oct 2026.
+Gary Martin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Spkrbox, Detroit on Sat, 17 Oct 2026.
 
 Gary Martin is a techno and house artist based in United States of America, with 34 gigs on soundcheck across Berlin, Cologne, Detroit and Glasgow. Often billed alongside Human Robot, Drivetrain and Los Hermanos. Next up: Spkrbox, Detroit on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Gary Martin is a techno and house artist based in United States of America, with
 
 Human Robot, Drivetrain, Los Hermanos
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garymartin/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garymartin/)*

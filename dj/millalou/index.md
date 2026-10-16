@@ -1,14 +1,15 @@
 # MILLA LOU
 
-MILLA LOU is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Lieberscholli, Munich on Fri, 16 Oct 2026.
+MILLA LOU is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Lieberscholli, Munich on Fri, 16 Oct 2026.
 
-MILLA LOU is a techno and house artist based in Germany, with 84 gigs on soundcheck across Bangkok, Berlin, Hamburg and Leipzig and 4 more. Often billed alongside justUS, Katzengold and Dydaa Forne. Next up: Lieberscholli, Munich on Fri 16 Oct.
+MILLA LOU is a techno and house artist based in Germany, with 85 gigs on soundcheck across Bangkok, Berlin, Hamburg and Leipzig and 4 more. Often billed alongside justUS, Katzengold and Dydaa Forne. Next up: Lieberscholli, Munich on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Lieberscholli | Munich |
+| Sat, 17 Oct 2026 | Süss War Gestern | Berlin |
 | Fri, 23 Oct 2026 | Der Weiße Hase | Berlin |
 | Sat, 24 Oct 2026 | MUENZE | Berlin |
 
@@ -27,4 +28,4 @@ MILLA LOU is a techno and house artist based in Germany, with 84 gigs on soundch
 
 justUS, Katzengold, Dydaa Forne
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/millalou/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/millalou/)*

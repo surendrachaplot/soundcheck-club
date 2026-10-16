@@ -1,6 +1,6 @@
 # Vlennes
 
-Vlennes is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Patision65, Athens on Fri, 16 Oct 2026.
+Vlennes is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Patision65, Athens on Fri, 16 Oct 2026.
 
 Vlennes is a bass and electro artist based in Greece, with 21 gigs on soundcheck across Athens. Often billed alongside pink.wav, Bonebrokk and qanossonap. Next up: Patision65, Athens on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Vlennes is a bass and electro artist based in Greece, with 21 gigs on soundcheck
 
 pink.wav, Bonebrokk, qanossonap
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vlennes/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vlennes/)*

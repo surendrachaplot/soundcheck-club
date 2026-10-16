@@ -1,6 +1,6 @@
 # TBA - Location Provided After Purchase
 
-TBA - Location Provided After Purchase is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "The Post" on Fri, 16 Oct 2026.
+TBA - Location Provided After Purchase is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "The Post" on Fri, 16 Oct 2026.
 
 TBA - Location Provided After Purchase is a music venue in Chicago listed on soundcheck. 1 upcoming gig, with line-ups including Yanna Lynette. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Location Provided After Purchase is a music venue in Chicago listed on sou
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | The Post | Yanna Lynette |
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/tba-location-provided-after-purchase/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/tba-location-provided-after-purchase/)*

@@ -1,6 +1,6 @@
 # xXabiXx
 
-xXabiXx is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - 1624 U St NW, Washington DC on Fri, 16 Oct 2026.
+xXabiXx is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - 1624 U St NW, Washington DC on Fri, 16 Oct 2026.
 
 xXabiXx is a house and club artist based in United States of America, with 35 gigs on soundcheck across Washington DC. Often billed alongside Harley (US), $et and DJ Con. Next up: TBA - 1624 U St NW, Washington DC on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ xXabiXx is a house and club artist based in United States of America, with 35 gi
 
 Harley (US), $et, DJ Con
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xxabixx/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xxabixx/)*

@@ -1,6 +1,6 @@
 # Out of Bounds presents: SHADOW WIZARD MONEY GANG, User2222, ACHIRĀ B2B CU-SITH, VA, SPIRALGIRL at EXIT Glasgow
 
-Out of Bounds presents: SHADOW WIZARD MONEY GANG, User2222, ACHIRĀ B2B CU-SITH, VA, SPIRALGIRL at EXIT Glasgow on Fri 16 Oct, Glasgow. 2 artists: ACHIRĀ and User2222. Experimental and Club. See the line-up on soundcheck.
+Out of Bounds presents: SHADOW WIZARD MONEY GANG, User2222, ACHIRĀ B2B CU-SITH, VA, SPIRALGIRL at EXIT Glasgow on Fri 16 Oct, Glasgow. 3 artists: ACHIRĀ, CU-SITH and User2222. Experimental and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Out of Bounds presents: SHADOW WIZARD MONEY GANG, User2222, ACHIRĀ B2B CU-SITH,
 ## Line-up
 
 - ACHIRĀ
+- CU-SITH
 - User2222
 
 *Source: [soundcheck](https://soundcheck.club/e/2541274-out-of-bounds-presents-shadow-wizard-money-gang-user2222-ach/)*

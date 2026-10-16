@@ -1,6 +1,6 @@
 # Michael Gray
 
-Michael Gray is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Peti Kupe, Zagreb on Sat, 17 Oct 2026.
+Michael Gray is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Peti Kupe, Zagreb on Sat, 17 Oct 2026.
 
 Michael Gray is a house and disco artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Brighton and 15 more. Often billed alongside Melvo Baptiste, Dave Lee and MiNNA. Next up: Peti Kupe, Zagreb on Sat 17 Oct.
 
@@ -30,4 +30,4 @@ Michael Gray is a house and disco artist based in United Kingdom, with 49 gigs o
 
 Melvo Baptiste, Dave Lee, MiNNA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelgray/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelgray/)*

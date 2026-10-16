@@ -1,6 +1,6 @@
 # Memo (CO)
 
-Memo (CO) is a Latin Bass and Dembow artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Tropical Milano, Milan on Fri, 16 Oct 2026.
+Memo (CO) is a Latin Bass and Dembow artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Tropical Milano, Milan on Fri, 16 Oct 2026.
 
 Memo (CO) is a latin bass and dembow artist, with 14 gigs on soundcheck across Milan. Often billed alongside Sunday Lapolees, Sdrumbi and Amazon. Next up: Tropical Milano, Milan on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Memo (CO) is a latin bass and dembow artist, with 14 gigs on soundcheck across M
 
 Sunday Lapolees, Sdrumbi, Amazon
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memoco/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memoco/)*

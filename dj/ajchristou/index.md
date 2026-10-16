@@ -1,6 +1,6 @@
 # AJ Christou
 
-AJ Christou is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Coda, Toronto on Fri, 16 Oct 2026.
+AJ Christou is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Coda, Toronto on Fri, 16 Oct 2026.
 
 AJ Christou is a tech house and house artist based in United Kingdom, with 110 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 23 more. Often billed alongside Mason Collective, Fleur Shore and Jesse Calosso. Next up: Coda, Toronto on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ AJ Christou is a tech house and house artist based in United Kingdom, with 110 g
 
 Mason Collective, Fleur Shore, Jesse Calosso
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ajchristou/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ajchristou/)*

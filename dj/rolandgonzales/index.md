@@ -1,6 +1,6 @@
 # Roland Gonzales
 
-Roland Gonzales is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Little Jerry, Toronto on Sat, 17 Oct 2026.
+Roland Gonzales is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Little Jerry, Toronto on Sat, 17 Oct 2026.
 
 Roland Gonzales is a house and disco artist based in Canada, with 145 gigs on soundcheck across Kyoto, Montreal, New York City and Toronto and 1 more. Often billed alongside Sakiko Nagai, Toronto Hustle and Gil Masuda. Next up: The Little Jerry, Toronto on Sat 17 Oct.
 
@@ -29,4 +29,4 @@ Roland Gonzales is a house and disco artist based in Canada, with 145 gigs on so
 
 Sakiko Nagai, Toronto Hustle, Gil Masuda
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandgonzales/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandgonzales/)*

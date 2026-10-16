@@ -1,6 +1,6 @@
 # Kondaktor
 
-Kondaktor is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Athens on Fri, 23 Oct 2026.
+Kondaktor is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Athens on Fri, 23 Oct 2026.
 
 Kondaktor is a techno and experimental artist based in Greece, with 15 gigs on soundcheck across Athens, Brussels and The Hague. Often billed alongside 3.14, Zorz and Bekha Mujiri. Next up: TBA, Athens on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Kondaktor is a techno and experimental artist based in Greece, with 15 gigs on s
 
 3.14, Zorz, Bekha Mujiri
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kondaktor/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kondaktor/)*

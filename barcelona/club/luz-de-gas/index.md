@@ -1,6 +1,6 @@
 # Luz De Gas
 
-Luz De Gas is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Petit Comité of House with Bastian Bux & Baum" on Fri, 16 Oct 2026.
+Luz De Gas is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Petit Comité of House with Bastian Bux & Baum" on Fri, 16 Oct 2026.
 
 Luz De Gas is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, with line-ups including Agents Of Time, Âme, Bastian Bux and Baum and 2 more. See dates, start times and who's playing. Carrer de Muntaner, 246, 08021 Barcelona.
 
@@ -18,4 +18,4 @@ Luz De Gas is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, 
 
 Carrer de Muntaner, 246, 08021 Barcelona, Barcelona
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/luz-de-gas/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/luz-de-gas/)*

@@ -1,6 +1,6 @@
 # Madam invites: Kitty Amor curates at Madam
 
-Madam invites: Kitty Amor curates on Fri 23 Oct, Amsterdam. 4 artists: Damian Lazarus, Fka Mash, Kitty Amor and MEERA (UK). Afro House and Afro Tech. See the line-up on soundcheck.
+Madam invites: Kitty Amor curates on Fri 23 Oct, Amsterdam. 4 artists: Damian Lazarus, Fka Mash, Kitty Amor and meera. Afro House and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,6 @@ Madam invites: Kitty Amor curates on Fri 23 Oct, Amsterdam. 4 artists: Damian La
 - Damian Lazarus
 - Fka Mash
 - Kitty Amor
-- MEERA (UK)
+- meera
 
 *Source: [soundcheck](https://soundcheck.club/e/2459380-madam-invites-kitty-amor-curates-at-madam/)*

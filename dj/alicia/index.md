@@ -1,6 +1,6 @@
 # Alicia (UK)
 
-Alicia (UK) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Berlin on Sun, 1 Nov 2026.
+Alicia (UK) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Berlin on Sun, 1 Nov 2026.
 
 Alicia (UK) is a techno and bass artist based in United Kingdom, with 66 gigs on soundcheck across Barcelona, Berlin, Bristol and Lisbon and 4 more. Often billed alongside Avsluta, Softi and Allecto. Next up: TBA, Berlin on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Alicia (UK) is a techno and bass artist based in United Kingdom, with 66 gigs on
 
 Avsluta, Softi, Allecto
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alicia/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alicia/)*

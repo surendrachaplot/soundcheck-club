@@ -1,6 +1,6 @@
 # Guido Iacovitti
 
-Guido Iacovitti is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Promenaden Eck, Berlin on Sat, 17 Oct 2026.
+Guido Iacovitti is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Promenaden Eck, Berlin on Sat, 17 Oct 2026.
 
 Guido Iacovitti is a techno and house artist based in Germany, with 26 gigs on soundcheck across Berlin. Often billed alongside Gforty, Bconscious and Sciarada. Next up: Promenaden Eck, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Guido Iacovitti is a techno and house artist based in Germany, with 26 gigs on s
 
 Gforty, Bconscious, Sciarada
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guidoiacovitti/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guidoiacovitti/)*

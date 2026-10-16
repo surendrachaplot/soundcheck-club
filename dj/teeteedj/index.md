@@ -1,6 +1,6 @@
 # Teetee
 
-Teetee is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Burtown House, Ireland on Sat, 31 Oct 2026.
+Teetee is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Burtown House, Ireland on Sat, 31 Oct 2026.
 
 Teetee is a techno and house artist based in United Kingdom, with 24 gigs on soundcheck across Dublin, Ireland, London and Nottingham. Often billed alongside Delano (UK), Paddy Cotter and Alien Communications. Next up: Burtown House, Ireland on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Teetee is a techno and house artist based in United Kingdom, with 24 gigs on sou
 
 Delano (UK), Paddy Cotter, Alien Communications
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teeteedj/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teeteedj/)*

@@ -1,6 +1,6 @@
 # Kléo
 
-Kléo is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at ASIAT Park, Brussels on Sat, 17 Oct 2026.
+Kléo is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at ASIAT Park, Brussels on Sat, 17 Oct 2026.
 
 Kléo is a house and disco artist based in France, with 108 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 25 more. Often billed alongside Antal, Hunee and Lakuti. Next up: ASIAT Park, Brussels on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Kléo is a house and disco artist based in France, with 108 gigs on soundcheck a
 
 Antal, Hunee, Lakuti
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kleo/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kleo/)*

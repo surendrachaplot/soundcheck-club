@@ -1,6 +1,6 @@
 # The Beehive
 
-The Beehive is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Black Market Flea" on Sun, 18 Oct 2026.
+The Beehive is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Black Market Flea" on Sun, 18 Oct 2026.
 
 The Beehive is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Bladerunner, KENE O, Kings of the Rollers and Serum (UK) and 2 more. See dates, start times and who's playing. 1000 E 60th Street, Los Angeles, CA 90001.
 
@@ -15,4 +15,4 @@ The Beehive is a music venue in Los Angeles listed on soundcheck. 2 upcoming gig
 
 1000 E 60th Street, Los Angeles, CA 90001, Los Angeles
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-beehive/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-beehive/)*

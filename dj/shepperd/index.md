@@ -1,6 +1,6 @@
 # Shepperd
 
-Shepperd is a Techno and R&B artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at FLUCC, Vienna on Fri, 16 Oct 2026.
+Shepperd is a Techno and R&B artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at FLUCC, Vienna on Fri, 16 Oct 2026.
 
 Shepperd is a techno and r&b artist, with 9 gigs on soundcheck across Berlin and Vienna. Often billed alongside anxxxious_t, AfroNinja and Gawdesque. Next up: FLUCC, Vienna on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Shepperd is a techno and r&b artist, with 9 gigs on soundcheck across Berlin and
 
 anxxxious_t, AfroNinja, Gawdesque
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shepperd/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shepperd/)*

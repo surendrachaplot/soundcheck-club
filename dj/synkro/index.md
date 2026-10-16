@@ -1,14 +1,15 @@
 # Synkro
 
-Synkro is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Bruk, Manchester on Sat, 17 Oct 2026.
+Synkro is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bruk, Manchester on Sat, 17 Oct 2026.
 
-Synkro is a drum & bass and bass artist, with 30 gigs on soundcheck across Antwerp, Berlin, Brighton and Bristol and 5 more. Often billed alongside Bop, WDDS and Jim Bane. Next up: Bruk, Manchester on Sat 17 Oct.
+Synkro is a drum & bass and bass artist, with 31 gigs on soundcheck across Antwerp, Berlin, Brighton and Bristol and 5 more. Often billed alongside Bop, WDDS and Jim Bane. Next up: Bruk, Manchester on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Bruk | Manchester |
+| Wed, 4 Nov 2026 | Cu | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Synkro is a drum & bass and bass artist, with 30 gigs on soundcheck across Antwe
 
 Bop, WDDS, Jim Bane
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/synkro/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/synkro/)*

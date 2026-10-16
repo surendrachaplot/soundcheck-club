@@ -1,6 +1,6 @@
 # Dead Letter No. 9
 
-Dead Letter No. 9 is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Jean d'Armes, Lord Fascinator, Laura Lynn, Mr. Handyman - Dead Letter No.9" on Fri, 16 Oct 2026.
+Dead Letter No. 9 is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Jean d'Armes, Lord Fascinator, Laura Lynn, Mr. Handyman - Dead Letter No.9" on Fri, 16 Oct 2026.
 
 Dead Letter No. 9 is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including Acid Mama, Bea Hardy, beewack and boyyyish and 2 more. See dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
 
@@ -20,4 +20,4 @@ Dead Letter No. 9 is a music venue in New York City listed on soundcheck. 7 upco
 
 63 Grand St, Brooklyn, NY 11249, USA, New York City
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*

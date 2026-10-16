@@ -1,6 +1,6 @@
 # Leo Mas
 
-Leo Mas is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Masada, Milan on Sun, 1 Nov 2026.
+Leo Mas is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Masada, Milan on Sun, 1 Nov 2026.
 
 Leo Mas is a house and techno artist based in Italy, with 30 gigs on soundcheck across Athens, Belgrade, Berlin and Bristol and 7 more. Often billed alongside Cristian Croce, Nicola Mazzetti and Cio (Spezialmaterial). Next up: Masada, Milan on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Leo Mas is a house and techno artist based in Italy, with 30 gigs on soundcheck 
 
 Cristian Croce, Nicola Mazzetti, Cio (Spezialmaterial)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leo-mas/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leo-mas/)*

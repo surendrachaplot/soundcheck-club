@@ -1,6 +1,6 @@
 # Bileebob
 
-Bileebob is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Ashley Street Social, Detroit on Fri, 16 Oct 2026.
+Bileebob is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Ashley Street Social, Detroit on Fri, 16 Oct 2026.
 
 Bileebob is an acid and techno artist, with 33 gigs on soundcheck across Detroit and London. Often billed alongside Eric Hinchman, OMO (US) and Charles Trees. Next up: Ashley Street Social, Detroit on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Bileebob is an acid and techno artist, with 33 gigs on soundcheck across Detroit
 
 Eric Hinchman, OMO (US), Charles Trees
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bileebob/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bileebob/)*

@@ -1,6 +1,6 @@
 # Guillaume Michaud
 
-Guillaume Michaud is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Salon Daomé, Montreal on Sat, 17 Oct 2026.
+Guillaume Michaud is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Salon Daomé, Montreal on Sat, 17 Oct 2026.
 
 Guillaume Michaud is a house and tech house artist based in Canada, with 37 gigs on soundcheck across Montreal and Toronto. Often billed alongside Shirlee, Cirque Cosmic and Nathan Burns. Next up: Salon Daomé, Montreal on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Guillaume Michaud is a house and tech house artist based in Canada, with 37 gigs
 
 Shirlee, Cirque Cosmic, Nathan Burns
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guillaumemichaud/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guillaumemichaud/)*

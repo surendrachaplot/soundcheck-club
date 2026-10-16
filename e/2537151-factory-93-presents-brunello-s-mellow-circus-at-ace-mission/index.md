@@ -1,11 +1,11 @@
-# Factory 93 presents Brunello's Mellow Circus at Ace*Mission Studios
+# Factory 93 presents Brunello's Mellow Circus at Ace*Mission
 
-Factory 93 presents Brunello's Mellow Circus at Ace*Mission Studios on Sat 31 Oct, Los Angeles. 2 artists: Bambounou and Brunello. Tech House. See the line-up on soundcheck.
+Factory 93 presents Brunello's Mellow Circus at Ace*Mission on Sat 31 Oct, Los Angeles. 2 artists: Bambounou and Brunello. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 31 Oct 2026 |
-| Venue | Ace*Mission Studios |
+| Venue | Ace*Mission |
 | City | Los Angeles |
 
 ## Line-up

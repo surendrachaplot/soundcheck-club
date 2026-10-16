@@ -1,14 +1,15 @@
 # hainafromchina
 
-hainafromchina is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Toronto on Sat, 24 Oct 2026.
+hainafromchina is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Toronto on Sat, 24 Oct 2026.
 
-hainafromchina is a club and techno artist, with 45 gigs on soundcheck across Bangkok, Barcelona, Berlin and Copenhagen and 15 more. Often billed alongside DJ 86, Dr4kken and SUBDIDI. Next up: TBA, Toronto on Sat 24 Oct.
+hainafromchina is a club and techno artist, with 46 gigs on soundcheck across Bangkok, Barcelona, Berlin and Copenhagen and 15 more. Often billed alongside DJ 86, Dr4kken and SUBDIDI. Next up: TBA, Toronto on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | TBA | Toronto |
+| Sat, 31 Oct 2026 | Skylight Warehouse | Vancouver |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ hainafromchina is a club and techno artist, with 45 gigs on soundcheck across Ba
 
 DJ 86, Dr4kken, SUBDIDI
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hainafromchina/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hainafromchina/)*

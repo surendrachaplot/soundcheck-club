@@ -1,0 +1,17 @@
+# GLOSS: Primo (NYC), Frankie Teardrop & Syd Woz at Système
+
+GLOSS: Primo (NYC), Frankie Teardrop & Syd Woz at Système on Fri 23 Oct, Montreal. 3 artists: DJ Primo, Frankie Teardrop and Syd Woz. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 23 Oct 2026 |
+| Venue | Système |
+| City | Montreal |
+
+## Line-up
+
+- DJ Primo
+- Frankie Teardrop
+- Syd Woz
+
+*Source: [soundcheck](https://soundcheck.club/e/2544487-gloss-primo-nyc-frankie-teardrop-syd-woz-at-syst-me/)*

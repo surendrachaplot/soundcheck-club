@@ -1,13 +1,14 @@
 # DJ MOCHIZUKI
 
-DJ MOCHIZUKI is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Violetta, Tokyo on Thu, 22 Oct 2026.
+DJ MOCHIZUKI is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Djbar Lollapalooza, Osaka on Sat, 17 Oct 2026.
 
-DJ MOCHIZUKI is a house and bass artist based in Japan, with 44 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Masayoshi Kimura, KAMIYA. and KIMURA. Next up: Violetta, Tokyo on Thu 22 Oct.
+DJ MOCHIZUKI is a house and bass artist based in Japan, with 45 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Masayoshi Kimura, KAMIYA. and KIMURA. Next up: Djbar Lollapalooza, Osaka on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Djbar Lollapalooza | Osaka |
 | Thu, 22 Oct 2026 | Violetta | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ DJ MOCHIZUKI is a house and bass artist based in Japan, with 44 gigs on soundche
 
 Masayoshi Kimura, KAMIYA., KIMURA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmochizuki/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmochizuki/)*

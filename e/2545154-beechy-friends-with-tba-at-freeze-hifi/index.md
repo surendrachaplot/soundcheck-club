@@ -1,10 +1,10 @@
 # BEECHY & FRIENDS with TBA at Freeze HiFi
 
-BEECHY & FRIENDS with TBA at Freeze HiFi on Tue 1 Dec, Liverpool. 1 artist: Beechy. Disco and Funk / Soul. See the line-up on soundcheck.
+BEECHY & FRIENDS with TBA at Freeze HiFi on Thu 3 Dec, Liverpool. 1 artist: Beechy. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Tue, 1 Dec 2026 |
+| Date | Thu, 3 Dec 2026 |
 | Venue | Freeze HiFi |
 | City | Liverpool |
 

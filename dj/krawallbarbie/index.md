@@ -1,6 +1,6 @@
 # KRAWALLBARBIE
 
-KRAWALLBARBIE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at PRST, Vienna on Thu, 22 Oct 2026.
+KRAWALLBARBIE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at PRST, Vienna on Thu, 22 Oct 2026.
 
 KRAWALLBARBIE is a techno and trance artist based in Austria, with 40 gigs on soundcheck across Berlin and Vienna. Often billed alongside Who is ela¿, KAROLINA and Paul Mile. Next up: PRST, Vienna on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ KRAWALLBARBIE is a techno and trance artist based in Austria, with 40 gigs on so
 
 Who is ela¿, KAROLINA, Paul Mile
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krawallbarbie/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krawallbarbie/)*

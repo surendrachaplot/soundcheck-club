@@ -1,6 +1,6 @@
 # SYNERGY RAVE x Trance + Hard Techno at Das Werk
 
-SYNERGY RAVE x Trance + Hard Techno at Das Werk on Fri 16 Oct, Vienna. 6 artists: Dan.P, Dimitrios, DJ Böhm and DJ Wolle and 2 more. Trance and Techno. See the line-up on soundcheck.
+SYNERGY RAVE x Trance + Hard Techno at Das Werk on Fri 16 Oct, Vienna. 7 artists: Dan.P, Dimitrios, DJ Böhm and DJ Wolle and 3 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,5 +16,6 @@ SYNERGY RAVE x Trance + Hard Techno at Das Werk on Fri 16 Oct, Vienna. 6 artists
 - DJ Wolle
 - DORAH
 - presso
+- VIERZUDREI
 
 *Source: [soundcheck](https://soundcheck.club/e/2542472-synergy-rave-x-trance-hard-techno-at-das-werk/)*

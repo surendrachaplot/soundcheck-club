@@ -1,14 +1,15 @@
 # PASO
 
-PASO is a House and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Cabaret Voltaire, Edinburgh on Sat, 17 Oct 2026.
+PASO is a House and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Cabaret Voltaire, Edinburgh on Sat, 17 Oct 2026.
 
-PASO is a house and trance artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and Glasgow and 1 more. Often billed alongside Nadia Summer, BORLEY and Mixfits. Next up: Cabaret Voltaire, Edinburgh on Sat 17 Oct.
+PASO is a house and trance artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and Glasgow and 1 more. Often billed alongside Nadia Summer, BORLEY and Danse Atmos. Next up: Cabaret Voltaire, Edinburgh on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Cabaret Voltaire | Edinburgh |
+| Tue, 20 Oct 2026 | La Cheetah Club | Glasgow |
 | Sat, 24 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Thu, 3 Dec 2026 | King Tut's Wah Wah Hut | Glasgow |
 
@@ -25,6 +26,6 @@ PASO is a house and trance artist based in United Kingdom, with 47 gigs on sound
 
 ## Shares bills with
 
-Nadia Summer, BORLEY, Mixfits (2)
+Nadia Summer, BORLEY, Danse Atmos
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paso/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paso/)*

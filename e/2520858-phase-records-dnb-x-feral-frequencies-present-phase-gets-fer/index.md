@@ -1,6 +1,6 @@
 # Phase Records DNB x Feral Frequencies present: Phase Gets Feral at Planet Wax
 
-Phase Records DNB x Feral Frequencies present: Phase Gets Feral at Planet Wax on Sat 21 Nov, London. 6 artists: Gui (PT), Jirani, Randoma and Tianna Franxx and 2 more. Drum & Bass and Jungle. See the line-up on soundcheck.
+Phase Records DNB x Feral Frequencies present: Phase Gets Feral at Planet Wax on Sat 21 Nov, London. 5 artists: Gui (PT), Jirani, Randoma and Tianna Franxx and 1 more. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,7 +14,6 @@ Phase Records DNB x Feral Frequencies present: Phase Gets Feral at Planet Wax on
 - Jirani (2)
 - Randoma
 - Tianna Franxx
-- Vispera
 - Zeph Miles
 
 *Source: [soundcheck](https://soundcheck.club/e/2520858-phase-records-dnb-x-feral-frequencies-present-phase-gets-fer/)*

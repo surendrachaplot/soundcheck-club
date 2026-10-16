@@ -1,6 +1,6 @@
 # Emma Moon
 
-Emma Moon is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat, 17 Oct 2026.
+Emma Moon is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat, 17 Oct 2026.
 
 Emma Moon is a techno and trance artist based in Australia, with 55 gigs on soundcheck across Amsterdam, Berlin, Brisbane and Ghent and 5 more. Often billed alongside Garfie, Bella Claxton and Pleasant Michelle. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Emma Moon is a techno and trance artist based in Australia, with 55 gigs on soun
 
 Garfie, Bella Claxton, Pleasant Michelle
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmamoon/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmamoon/)*

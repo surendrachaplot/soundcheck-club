@@ -1,6 +1,6 @@
 # Rozzer
 
-Rozzer is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Club Magno, Madrid on Sat, 24 Oct 2026.
+Rozzer is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Club Magno, Madrid on Sat, 24 Oct 2026.
 
 Rozzer is an electronica and club artist based in Spain, with 16 gigs on soundcheck across London and Madrid. Often billed alongside Rubén Secaduras, Facs and TOM CHIESA. Next up: Club Magno, Madrid on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Rozzer is an electronica and club artist based in Spain, with 16 gigs on soundch
 
 Rubén Secaduras, Facs, TOM CHIESA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rozzer/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rozzer/)*

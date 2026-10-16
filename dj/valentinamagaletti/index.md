@@ -1,14 +1,13 @@
 # Valentina Magaletti
 
-Valentina Magaletti is a Experimental and Electronica artist with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Carhartt WIP Store, Warsaw on Thu, 15 Oct 2026.
+Valentina Magaletti is a Experimental and Electronica artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Voce - Triennale, Milan on Sat, 17 Oct 2026.
 
-Valentina Magaletti is an experimental and electronica artist based in Italy, with 78 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside upsammy, Al Wootton and ojoo. Next up: Carhartt WIP Store, Warsaw on Thu 15 Oct.
+Valentina Magaletti is an experimental and electronica artist based in Italy, with 78 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside upsammy, Al Wootton and ojoo. Next up: Voce - Triennale, Milan on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Carhartt WIP Store | Warsaw |
 | Sat, 17 Oct 2026 | Voce - Triennale | Milan |
 | Fri, 23 Oct 2026 | public records | New York City |
 | Thu, 29 Oct 2026 | TBA - Various Venues, Guimarães, PT | Portugal |
@@ -20,6 +19,7 @@ Valentina Magaletti is an experimental and electronica artist based in Italy, wi
 
 ## Recently played
 
+- Carhartt WIP Store, Warsaw · Thu, 15 Oct 2026
 - public records, New York City · Sat, 19 Sept 2026
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 - Sleeping Village, Chicago · Wed, 16 Sept 2026
@@ -27,10 +27,9 @@ Valentina Magaletti is an experimental and electronica artist based in Italy, wi
 - Neue Nationalgalerie, Berlin · Wed, 12 Aug 2026
 - Neue Nationalgalerie, Berlin · Wed, 12 Aug 2026
 - Cafe OTO, London · Wed, 29 Jul 2026
-- TBA - Bari Various Venues , Naples · Wed, 15 Jul 2026
 
 ## Shares bills with
 
 upsammy, Al Wootton, ojoo
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinamagaletti/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinamagaletti/)*

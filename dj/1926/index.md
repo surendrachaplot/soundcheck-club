@@ -1,6 +1,6 @@
 # 19:26
 
-19:26 is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Savaya Bali, Bali on Sat, 17 Oct 2026.
+19:26 is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Savaya Bali, Bali on Sat, 17 Oct 2026.
 
 19:26 is a techno and electronica artist based in Italy, with 69 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 24 more. Often billed alongside Tale Of Us, Chris Avantgarde and Kevin de Vries. Next up: Savaya Bali, Bali on Sat 17 Oct.
 
@@ -27,4 +27,4 @@
 
 Tale Of Us, Chris Avantgarde, Kevin de Vries
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1926/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1926/)*

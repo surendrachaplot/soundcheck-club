@@ -1,6 +1,6 @@
 # Stojche
 
-Stojche is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Studio Club Malaga, Malaga on Fri, 23 Oct 2026.
+Stojche is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Studio Club Malaga, Malaga on Fri, 23 Oct 2026.
 
 Stojche is a techno and dub techno artist based in North Macedonia, with 62 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside SHDW, Anika Kunst and Phara. Next up: Studio Club Malaga, Malaga on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Stojche is a techno and dub techno artist based in North Macedonia, with 62 gigs
 
 SHDW, Anika Kunst, Phara
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stojche/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stojche/)*

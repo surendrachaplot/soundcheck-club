@@ -1,6 +1,6 @@
 # madame3swords
 
-madame3swords is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Social, London on Sat, 24 Oct 2026.
+madame3swords is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Social, London on Sat, 24 Oct 2026.
 
 madame3swords is a club and experimental artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside six-winged hilda, dogheadsurigeri and novasdemise. Next up: The Social, London on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ madame3swords is a club and experimental artist based in United Kingdom, with 11
 
 six-winged hilda, dogheadsurigeri, novasdemise
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madame3swords/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madame3swords/)*

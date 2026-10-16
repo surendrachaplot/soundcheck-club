@@ -1,6 +1,6 @@
 # Aizikovic
 
-Aizikovic is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 24 Oct 2026.
+Aizikovic is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 24 Oct 2026.
 
 Aizikovic is an industrial and techno artist, with 17 gigs on soundcheck across Madrid. Often billed alongside Dzeko, Hector MAD and Anso. Next up: Lasociaciøn, Madrid on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Aizikovic is an industrial and techno artist, with 17 gigs on soundcheck across 
 
 Dzeko, Hector MAD, Anso
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aizikovic/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aizikovic/)*

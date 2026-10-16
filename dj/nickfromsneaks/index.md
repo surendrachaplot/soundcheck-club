@@ -1,6 +1,6 @@
 # Nick from Sneaks
 
-Nick from Sneaks is a Pop and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sat, 17 Oct 2026.
+Nick from Sneaks is a Pop and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sat, 17 Oct 2026.
 
 Nick from Sneaks is a pop and disco artist based in United Kingdom, with 46 gigs on soundcheck across Edinburgh. Often billed alongside Peaky Blindrunk, Buckfast Barbie and Erol Alkan. Next up: Sneaky Pete's, Edinburgh on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Nick from Sneaks is a pop and disco artist based in United Kingdom, with 46 gigs
 
 Peaky Blindrunk, Buckfast Barbie, Erol Alkan
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickfromsneaks/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickfromsneaks/)*

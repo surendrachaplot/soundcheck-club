@@ -1,6 +1,6 @@
 # Viot
 
-Viot is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at D-EDGE, Sao Paulo on Fri, 30 Oct 2026.
+Viot is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at D-EDGE, Sao Paulo on Fri, 30 Oct 2026.
 
 Viot is a tech house and house artist, with 28 gigs on soundcheck across Buenos Aires, Chicago, Ibiza and Lisbon and 8 more. Often billed alongside Antdot, Carl Cox and Maz (BR). Next up: D-EDGE, Sao Paulo on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Viot is a tech house and house artist, with 28 gigs on soundcheck across Buenos 
 
 Antdot, Carl Cox, Maz (BR)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viot/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viot/)*

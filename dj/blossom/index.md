@@ -1,13 +1,14 @@
 # Blossom
 
-Blossom is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Edmonton Expo Center, Edmonton on Fri, 30 Oct 2026.
+Blossom is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Elsewhere, New York City on Sat, 24 Oct 2026.
 
-Blossom is a bass and drum & bass artist based in United States of America, with 10 gigs on soundcheck across Athens, Edmonton, London and Manchester and 4 more. Often billed alongside Alesso, Ama (UK) and Andrew Rayel. Next up: Edmonton Expo Center, Edmonton on Fri 30 Oct.
+Blossom is a bass and drum & bass artist based in United States of America, with 11 gigs on soundcheck across Athens, Edmonton, London and Manchester and 4 more. Often billed alongside Alesso, Ama (UK) and Andrew Rayel. Next up: Elsewhere, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Elsewhere | New York City |
 | Fri, 30 Oct 2026 | Edmonton Expo Center | Edmonton |
 
 ## Recently played
@@ -25,4 +26,4 @@ Blossom is a bass and drum & bass artist based in United States of America, with
 
 Alesso, Ama (UK), Andrew Rayel
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blossom/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blossom/)*

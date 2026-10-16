@@ -1,6 +1,6 @@
 # Hito Scheveningen
 
-Hito Scheveningen is a music venue in The Hague with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "hito naar binnen" on Sat, 28 Nov 2026.
+Hito Scheveningen is a music venue in The Hague with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "hito naar binnen" on Sat, 28 Nov 2026.
 
 Hito Scheveningen is a music venue in The Hague listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Strand Noord 1,  2586 ZZ Den Haag.
 
@@ -14,4 +14,4 @@ Hito Scheveningen is a music venue in The Hague listed on soundcheck. 1 upcoming
 
 Strand Noord 1,  2586 ZZ Den Haag, The Hague
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/hito-scheveningen/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/hito-scheveningen/)*

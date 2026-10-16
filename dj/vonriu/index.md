@@ -1,6 +1,6 @@
 # Von Riu
 
-Von Riu is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Cartilage, Paris on Fri, 16 Oct 2026.
+Von Riu is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Cartilage, Paris on Fri, 16 Oct 2026.
 
 Von Riu is a techno and trance artist based in France, with 73 gigs on soundcheck across Amsterdam, Basel, Berlin and Cape Town and 12 more. Often billed alongside Maté, Amor Satyr and Jacky Jeane. Next up: Cartilage, Paris on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Von Riu is a techno and trance artist based in France, with 73 gigs on soundchec
 
 Maté, Amor Satyr, Jacky Jeane
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vonriu/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vonriu/)*

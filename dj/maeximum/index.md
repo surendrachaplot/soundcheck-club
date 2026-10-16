@@ -1,13 +1,14 @@
 # Maeximum
 
-Maeximum is a Techno and Hard Drum artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
+Maeximum is a Techno and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Odonien, Cologne on Wed, 21 Oct 2026.
 
-Maeximum is a techno and hard drum artist based in Germany, with 3 gigs on soundcheck across Cologne. Often billed alongside Esther, MIXXR and Matthias Olck. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
+Maeximum is a techno and drum & bass artist based in Germany, with 4 gigs on soundcheck across Cologne. Often billed alongside Esther, MIXXR and Matthias Olck. Next up: Odonien, Cologne on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 21 Oct 2026 | Odonien | Cologne |
 | Sat, 24 Oct 2026 | Ehrenfeld XL | Cologne |
 | Sat, 24 Oct 2026 | Helios37 | Cologne |
 
@@ -19,4 +20,4 @@ Maeximum is a techno and hard drum artist based in Germany, with 3 gigs on sound
 
 Esther, MIXXR, Matthias Olck
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maeximum/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maeximum/)*

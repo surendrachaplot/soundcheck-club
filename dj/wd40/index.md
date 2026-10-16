@@ -1,6 +1,6 @@
 # WD40
 
-WD40 is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Berlin on Sat, 31 Oct 2026.
+WD40 is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Berlin on Sat, 31 Oct 2026.
 
 WD40 is a bass and dub artist, with 25 gigs on soundcheck across Berlin, Chicago, Hamburg and Leipzig. Often billed alongside Lily Haz, DJ STRAIGHT GIRL and JCow. Next up: TBA, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ WD40 is a bass and dub artist, with 25 gigs on soundcheck across Berlin, Chicago
 
 Lily Haz, DJ STRAIGHT GIRL, JCow
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wd40/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wd40/)*

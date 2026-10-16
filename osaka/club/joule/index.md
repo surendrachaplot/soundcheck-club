@@ -1,6 +1,6 @@
 # Joule
 
-Joule is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "MIDWEEK GROOVE -TECHNO EVERY WEDNESDAY-" on Wed, 14 Oct 2026.
+Joule is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "MIDWEEK GROOVE -TECHNO EVERY WEDNESDAY-" on Wed, 14 Oct 2026.
 
 Joule is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with line-ups including DJ OGAWA, Hernan Cattaneo, K.I.M and Marcellus Pittman and 2 more. See dates, start times and who's playing. 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan.
 
@@ -17,4 +17,4 @@ Joule is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with line
 
 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan, Osaka
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*

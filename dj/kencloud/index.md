@@ -1,6 +1,6 @@
 # Ken Cloud
 
-Ken Cloud is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Portugal Madeira Club, Sydney on Sat, 24 Oct 2026.
+Ken Cloud is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Portugal Madeira Club, Sydney on Sat, 24 Oct 2026.
 
 Ken Cloud is a deep house and house artist based in Australia, with 9 gigs on soundcheck across Sydney. Often billed alongside Simon Caldwell, Alfa Mist and Annabelle Gaspar. Next up: Portugal Madeira Club, Sydney on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ken Cloud is a deep house and house artist based in Australia, with 9 gigs on so
 
 Simon Caldwell, Alfa Mist, Annabelle Gaspar
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kencloud/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kencloud/)*

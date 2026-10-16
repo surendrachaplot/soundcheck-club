@@ -1,6 +1,6 @@
 # Paradise Traxx Label Launch Party at Marmorbar
 
-Paradise Traxx Label Launch Party at Marmorbar on Sat 17 Oct, Berlin. 2 artists: Franziska Frizzante and Sam Paradise. House and Balearic. See the line-up on soundcheck.
+Paradise Traxx Label Launch Party at Marmorbar on Sat 17 Oct, Berlin. 2 artists: Franziska Frizzante and Sam Paradise. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

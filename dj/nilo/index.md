@@ -1,6 +1,6 @@
 # Nilo
 
-Nilo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Tana Kiosk, Naples on Sat, 17 Oct 2026.
+Nilo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Tana Kiosk, Naples on Sat, 17 Oct 2026.
 
 Nilo is a techno and house artist based in Italy, with 13 gigs on soundcheck across Naples and North. Often billed alongside Amiran, Jesooria and Kobold. Next up: Tana Kiosk, Naples on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Nilo is a techno and house artist based in Italy, with 13 gigs on soundcheck acr
 
 Amiran, Jesooria, Kobold
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nilo/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nilo/)*

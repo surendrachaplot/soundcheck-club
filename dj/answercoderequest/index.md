@@ -1,6 +1,6 @@
 # Answer Code Request
 
-Answer Code Request is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Mexico City on Fri, 23 Oct 2026.
+Answer Code Request is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Mexico City on Fri, 23 Oct 2026.
 
 Answer Code Request is a techno and house artist based in Germany, with 125 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 40 more. Often billed alongside Amotik, Barker and Oracy. Next up: TBA, Mexico City on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Answer Code Request is a techno and house artist based in Germany, with 125 gigs
 
 Amotik, Barker, Oracy
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/answercoderequest/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/answercoderequest/)*

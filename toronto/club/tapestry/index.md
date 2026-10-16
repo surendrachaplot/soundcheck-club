@@ -1,6 +1,6 @@
 # Tapestry
 
-Tapestry is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "11N17N presents Magic Carpet Tales with BORA DAVID (UV Noir / Movement) — Outdoor" on Sun, 25 Oct 2026.
+Tapestry is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "11N17N presents Magic Carpet Tales with BORA DAVID (UV Noir / Movement) — Outdoor" on Sun, 25 Oct 2026.
 
 Tapestry is a music venue in Toronto listed on soundcheck. 1 upcoming gig, with line-ups including Mood Architect. See dates, start times and who's playing. 224 Augusta Ave..
 
@@ -14,4 +14,4 @@ Tapestry is a music venue in Toronto listed on soundcheck. 1 upcoming gig, with 
 
 224 Augusta Ave., Toronto
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tapestry/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tapestry/)*

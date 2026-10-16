@@ -1,6 +1,6 @@
 # SJQ
 
-SJQ is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Enlighten presents: See The Lieutenant (PTP), How Du + special guests" on Mon, 19 Oct 2026.
+SJQ is a music venue in London with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Enlighten presents: See The Lieutenant (PTP), How Du + special guests" on Mon, 19 Oct 2026.
 
 SJQ is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Donna Leake. See dates, start times and who's playing. 10a Bradbury Street , Dalston, N16 8JH.
 
@@ -15,4 +15,4 @@ SJQ is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-
 
 10a Bradbury Street , Dalston, N16 8JH, London
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/sjq/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/sjq/)*

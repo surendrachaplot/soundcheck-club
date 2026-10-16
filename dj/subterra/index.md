@@ -1,6 +1,6 @@
 # Subterra
 
-Subterra is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at ÆDEN, Berlin on Fri, 16 Oct 2026.
+Subterra is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at ÆDEN, Berlin on Fri, 16 Oct 2026.
 
 Subterra is a techno and industrial artist, with 26 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 13 more. Often billed alongside BELCEBÚ, Asarri and Deeda. Next up: ÆDEN, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Subterra is a techno and industrial artist, with 26 gigs on soundcheck across Am
 
 BELCEBÚ, Asarri, Deeda
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subterra/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subterra/)*

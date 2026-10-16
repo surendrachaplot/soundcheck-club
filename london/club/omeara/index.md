@@ -1,6 +1,6 @@
 # Omeara
 
-Omeara is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Necropolis Festival: VAMPIRE BALL II" on Sat, 17 Oct 2026.
+Omeara is a music venue in London with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Necropolis Festival: VAMPIRE BALL II" on Sat, 17 Oct 2026.
 
 Omeara is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Arrosa, Caleesi, DungeonMaster and Evil Dust and 2 more. See dates, start times and who's playing. 6 O'Meara Street, SE1 1TE, London.
 
@@ -16,4 +16,4 @@ Omeara is a music venue in London listed on soundcheck. 3 upcoming gigs, with li
 
 6 O'Meara Street, SE1 1TE, London, London
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/omeara/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/omeara/)*

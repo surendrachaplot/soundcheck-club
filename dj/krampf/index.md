@@ -1,6 +1,6 @@
 # Krampf
 
-Krampf is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
+Krampf is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
 Krampf is a techno and hardcore artist based in France, with 16 gigs on soundcheck across Amsterdam, Berlin, Brisbane and Geneva and 7 more. Often billed alongside MCR-T, DJ Gigola and Paul Seul. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Krampf is a techno and hardcore artist based in France, with 16 gigs on soundche
 
 MCR-T, DJ Gigola, Paul Seul
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krampf/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krampf/)*

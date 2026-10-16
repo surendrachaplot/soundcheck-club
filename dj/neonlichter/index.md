@@ -1,6 +1,6 @@
 # Neonlichter
 
-Neonlichter is a Experimental and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Archivio Records, 55 MEADOW STREET, BK, New York City on Tue, 20 Oct 2026.
+Neonlichter is a Experimental and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Archivio Records, 55 MEADOW STREET, BK, New York City on Tue, 20 Oct 2026.
 
 Neonlichter is an experimental and dub techno artist based in Canada, with 23 gigs on soundcheck across Montreal, New York City, San Francisco/Oakland and Toronto. Often billed alongside Mahmood Schricker, MMRI and Dastgamachine. Next up: TBA - Archivio Records, 55 MEADOW STREET, BK, New York City on Tue 20 Oct.
 
@@ -25,4 +25,4 @@ Neonlichter is an experimental and dub techno artist based in Canada, with 23 gi
 
 Mahmood Schricker, MMRI, Dastgamachine
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neonlichter/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neonlichter/)*

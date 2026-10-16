@@ -1,6 +1,6 @@
 # Glitterbox at SWG3
 
-Glitterbox at SWG3 on Sat 5 Dec, Glasgow. 7 artists: Daisybelle, Eats Everything, Fattony and Hifi Sean and 3 more. House and Disco. See the line-up on soundcheck.
+Glitterbox at SWG3 on Sat 5 Dec, Glasgow. 7 artists: Daisybelle, Eats Everything, Fat Tony and Hifi Sean and 3 more. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ Glitterbox at SWG3 on Sat 5 Dec, Glasgow. 7 artists: Daisybelle, Eats Everything
 
 - Daisybelle
 - Eats Everything
-- Fattony
+- Fat Tony
 - Hifi Sean
 - Horse Meat Disco
 - LEV (UK)

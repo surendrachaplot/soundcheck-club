@@ -1,6 +1,6 @@
 # Sacha Robotti
 
-Sacha Robotti is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Halcyon, San Francisco/Oakland on Sat, 31 Oct 2026.
+Sacha Robotti is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Halcyon, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 Sacha Robotti is a house and tech house artist, with 27 gigs on soundcheck across Austin, Chicago, Houston and Los Angeles and 5 more. Often billed alongside Ardalan, J.Phlip and Victoria Rawlins. Next up: Halcyon, San Francisco/Oakland on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Sacha Robotti is a house and tech house artist, with 27 gigs on soundcheck acros
 
 Ardalan, J.Phlip, Victoria Rawlins
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sacharobotti/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sacharobotti/)*

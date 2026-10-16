@@ -1,6 +1,6 @@
 # The Prince Albert
 
-The Prince Albert is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "Brixton Mortars' Recreational Dance" on Sat, 17 Oct 2026.
+The Prince Albert is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "Brixton Mortars' Recreational Dance" on Sat, 17 Oct 2026.
 
 The Prince Albert is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 418 Coldharbour Lane London, United Kingdom.
 
@@ -14,4 +14,4 @@ The Prince Albert is a music venue in London listed on soundcheck. 1 upcoming gi
 
 418 Coldharbour Lane London, United Kingdom, London
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-prince-albert/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-prince-albert/)*

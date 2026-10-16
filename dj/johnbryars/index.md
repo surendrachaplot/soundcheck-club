@@ -1,14 +1,14 @@
 # John Bryars
 
-John Bryars is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Ace*Mission Studios, Los Angeles on Fri, 27 Nov 2026.
+John Bryars is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
 
-John Bryars is a techno and house artist based in United States of America, with 17 gigs on soundcheck across Los Angeles, New York City, San Diego and San Francisco/Oakland. Often billed alongside Annika Wolfe, Corey Sizemore and Etari. Next up: Ace*Mission Studios, Los Angeles on Fri 27 Nov.
+John Bryars is a techno and house artist based in United States of America, with 17 gigs on soundcheck across Los Angeles, New York City, San Diego and San Francisco/Oakland. Often billed alongside Annika Wolfe, Corey Sizemore and Etari. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Ace*Mission Studios | Los Angeles |
+| Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ John Bryars is a techno and house artist based in United States of America, with
 
 Annika Wolfe, Corey Sizemore, Etari
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnbryars/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnbryars/)*

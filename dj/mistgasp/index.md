@@ -1,6 +1,6 @@
 # Mist Gasp
 
-Mist Gasp is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Bridge 48, Barcelona on Thu, 29 Oct 2026.
+Mist Gasp is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Bridge 48, Barcelona on Thu, 29 Oct 2026.
 
 Mist Gasp is a techno and industrial artist, with 13 gigs on soundcheck across Barcelona, London, Manchester and Milan. Often billed alongside Dalton Dist, Livid (UK) and Roi (ES). Next up: Bridge 48, Barcelona on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Mist Gasp is a techno and industrial artist, with 13 gigs on soundcheck across B
 
 Dalton Dist, Livid (UK), Roi (ES)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mistgasp/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mistgasp/)*

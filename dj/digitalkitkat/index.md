@@ -1,14 +1,15 @@
 # Digital KitKat
 
-Digital KitKat is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Underground SF, San Francisco/Oakland on Fri, 23 Oct 2026.
+Digital KitKat is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Underground SF, San Francisco/Oakland on Fri, 23 Oct 2026.
 
-Digital KitKat is a house and club artist based in United States of America, with 50 gigs on soundcheck across Berlin, Los Angeles, San Francisco/Oakland and Seattle. Often billed alongside Freaky Emo, HEAVENLY ARCH and Saint Triste. Next up: Underground SF, San Francisco/Oakland on Fri 23 Oct.
+Digital KitKat is a house and club artist based in United States of America, with 51 gigs on soundcheck across Berlin, Los Angeles, San Francisco/Oakland and Seattle. Often billed alongside Freaky Emo, HEAVENLY ARCH and Saint Triste. Next up: Underground SF, San Francisco/Oakland on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Underground SF | San Francisco/Oakland |
+| Sat, 31 Oct 2026 | DNA Lounge | San Francisco/Oakland |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Digital KitKat is a house and club artist based in United States of America, wit
 
 Freaky Emo, HEAVENLY ARCH, Saint Triste
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalkitkat/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalkitkat/)*

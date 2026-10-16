@@ -1,6 +1,6 @@
 # Cooper
 
-Cooper is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Distillery, Leipzig on Fri, 23 Oct 2026.
+Cooper is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Distillery, Leipzig on Fri, 23 Oct 2026.
 
 Cooper is a techno and bass artist based in Germany, with 8 gigs on soundcheck across Berlin, Leipzig, London and Tokyo. Often billed alongside DJ OVER N OUT, RST98 and Leeza. Next up: Distillery, Leipzig on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Cooper is a techno and bass artist based in Germany, with 8 gigs on soundcheck a
 
 DJ OVER N OUT, RST98, Leeza (2)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cooper/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cooper/)*

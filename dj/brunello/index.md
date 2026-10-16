@@ -1,8 +1,8 @@
 # Brunello
 
-Brunello is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Brunello is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Brunello is a house and techno artist based in United States of America, with 16 gigs on soundcheck across Amsterdam, Austin, Chicago and Ibiza and 7 more. Often billed alongside VTSS, Brutalismus 3000 and Dennis Cruz. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Brunello is a house and tech house artist based in United States of America, with 16 gigs on soundcheck across Amsterdam, Austin, Chicago and Ibiza and 7 more. Often billed alongside VTSS, Brutalismus 3000 and Dennis Cruz. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -11,7 +11,7 @@ Brunello is a house and techno artist based in United States of America, with 16
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 24 Oct 2026 | Taets Art & Event Park | Amsterdam |
 | Sun, 25 Oct 2026 | Taets Art & Event Park | Amsterdam |
-| Sat, 31 Oct 2026 | Ace*Mission Studios | Los Angeles |
+| Sat, 31 Oct 2026 | Ace*Mission | Los Angeles |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
@@ -32,4 +32,4 @@ Brunello is a house and techno artist based in United States of America, with 16
 
 VTSS, Brutalismus 3000, Dennis Cruz
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunello/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunello/)*

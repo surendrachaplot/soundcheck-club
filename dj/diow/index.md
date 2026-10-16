@@ -1,6 +1,6 @@
 # DIOW
 
-DIOW is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Skin Club, Madrid on Sun, 1 Nov 2026.
+DIOW is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Skin Club, Madrid on Sun, 1 Nov 2026.
 
 DIOW is a techno and hardcore artist based in Spain, with 19 gigs on soundcheck across Madrid. Often billed alongside Reitze, JRG and 3polar. Next up: Skin Club, Madrid on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ DIOW is a techno and hardcore artist based in Spain, with 19 gigs on soundcheck 
 
 Reitze, JRG, 3polar
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diow/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diow/)*

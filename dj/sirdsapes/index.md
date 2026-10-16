@@ -1,6 +1,6 @@
 # SIRDSAPES
 
-SIRDSAPES is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Nova Cvernovka, Bratislava on Fri, 16 Oct 2026.
+SIRDSAPES is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Nova Cvernovka, Bratislava on Fri, 16 Oct 2026.
 
 SIRDSAPES is a techno and electro artist based in Latvia, with 46 gigs on soundcheck across Bratislava, Prague, Riga and Tallinn and 1 more. Often billed alongside Taiga (LV), maniken05 and Queer On Acid. Next up: Nova Cvernovka, Bratislava on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ SIRDSAPES is a techno and electro artist based in Latvia, with 46 gigs on soundc
 
 Taiga (LV), maniken05, Queer On Acid
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sirdsapes/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sirdsapes/)*

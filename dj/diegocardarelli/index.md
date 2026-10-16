@@ -1,6 +1,6 @@
 # Diego Cardarelli
 
-Diego Cardarelli is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Duel Club, Naples on Sat, 17 Oct 2026.
+Diego Cardarelli is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Duel Club, Naples on Sat, 17 Oct 2026.
 
 Diego Cardarelli is a tech house and house artist, with 23 gigs on soundcheck across Barcelona, Naples and Rome. Often billed alongside URBANKIDZ, Key Eff and Lorenzo Negri. Next up: Duel Club, Naples on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Diego Cardarelli is a tech house and house artist, with 23 gigs on soundcheck ac
 
 URBANKIDZ, Key Eff, Lorenzo Negri
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diegocardarelli/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diegocardarelli/)*

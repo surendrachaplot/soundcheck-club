@@ -1,6 +1,6 @@
 # Fenrick
 
-Fenrick is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Yellow House, Amsterdam on Wed, 21 Oct 2026.
+Fenrick is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Yellow House, Amsterdam on Wed, 21 Oct 2026.
 
 Fenrick is a techno and trance artist based in Belgium, with 129 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside EMILIJA, Odymel and Adrian Mills. Next up: Yellow House, Amsterdam on Wed 21 Oct.
 
@@ -28,4 +28,4 @@ Fenrick is a techno and trance artist based in Belgium, with 129 gigs on soundch
 
 EMILIJA, Odymel, Adrian Mills
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fenrick/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fenrick/)*

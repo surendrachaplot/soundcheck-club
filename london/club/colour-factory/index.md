@@ -1,14 +1,13 @@
 # Colour Factory
 
-Colour Factory is a music venue in London with 28 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "2charm" on Thu, 15 Oct 2026.
+Colour Factory is a music venue in London with 27 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "5 Years of Habibti Nation: PAYDAR (UK Debut), Hiba Salameh, LUMA & Özten" on Fri, 16 Oct 2026.
 
-Colour Factory is a music venue in London listed on soundcheck. 28 upcoming gigs, with line-ups including Aeroplane, Alexander Robotnick, Alex Metric and AMBRR and 2 more. See dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
+Colour Factory is a music venue in London listed on soundcheck. 27 upcoming gigs, with line-ups including Aeroplane, Alexander Robotnick, Alex Metric and AMBRR and 2 more. See dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | 2charm |  |
 | Fri, 16 Oct 2026 | 5 Years of Habibti Nation: PAYDAR (UK Debut), Hiba Salameh, LUMA & Özten | LUMA (UK), PAYDAR, Özten |
 | Sat, 17 Oct 2026 | Bubbledee: House Music Haven in Hackney Wick at Colour Factory Loft | Andrea Giudice, Irren, Larry Cadge, Mono Dust_ |
 | Sat, 17 Oct 2026 | Barrio Cantón with Gia Fu | Gia Fu, Norsicaa |
@@ -18,9 +17,10 @@ Colour Factory is a music venue in London listed on soundcheck. 28 upcoming gigs
 | Sun, 1 Nov 2026 | Jungle Splash Promotions presents Aba Shanti I |  |
 | Fri, 6 Nov 2026 | Labyrinth presents: J Gadget - Groove with Gadget |  |
 | Sat, 7 Nov 2026 | Fever 105: Breakbot, Alexander Robotnick, System Olympia, Theon Bower, Metroplane + more | Aeroplane, Alex Metric, Alexander Robotnick, Breakbot, System Olympia, Theon Bower |
+| Fri, 13 Nov 2026 | Origins: DJ Assault + more TBA | DJ Assault |
 
 ## Address
 
 8 Queen's Yard, London E9 5EN, London
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*

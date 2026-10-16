@@ -1,6 +1,6 @@
 # Abdulla A.
 
-Abdulla A. is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Cadavra, Madrid on Fri, 27 Nov 2026.
+Abdulla A. is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Cadavra, Madrid on Fri, 27 Nov 2026.
 
 Abdulla A. is a house and electronica artist based in Spain, with 12 gigs on soundcheck across Barcelona, Lisbon and Madrid. Often billed alongside Avo (ES), Cesc (ES) and DJ F (ES). Next up: Cadavra, Madrid on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Abdulla A. is a house and electronica artist based in Spain, with 12 gigs on sou
 
 Avo (ES), Cesc (ES), DJ F (ES)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abdullaa./)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abdullaa./)*

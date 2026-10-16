@@ -1,6 +1,6 @@
 # DJ Hyperdrive
 
-DJ Hyperdrive is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Universe Athens, Athens on Sat, 17 Oct 2026.
+DJ Hyperdrive is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Universe Athens, Athens on Sat, 17 Oct 2026.
 
 DJ Hyperdrive is a techno and trance artist based in Germany, with 211 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside future.666, ÜBERKIKZ and DJ Cringey. Next up: Universe Athens, Athens on Sat 17 Oct.
 
@@ -36,4 +36,4 @@ DJ Hyperdrive is a techno and trance artist based in Germany, with 211 gigs on s
 
 future.666, ÜBERKIKZ, DJ Cringey
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhyperdrive/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhyperdrive/)*

@@ -1,6 +1,6 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 19 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Self. Control. with CYRK, Moderna, Cosmo Vitelli, Giulia Gutterer & Sesto Senso" on Fri, 16 Oct 2026.
+RSO.BERLIN is a music venue in Berlin with 19 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Self. Control. with CYRK, Moderna, Cosmo Vitelli, Giulia Gutterer & Sesto Senso" on Fri, 16 Oct 2026.
 
 RSO.BERLIN is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, with line-ups including 131bpm, Justine Perry, Adiel and AEREA and 2 more. See dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
@@ -23,4 +23,4 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, wi
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

@@ -1,6 +1,6 @@
 # LIGHTA! POST NYE at TBA - Address sent to ticket holders 7 pm day of show
 
-LIGHTA! POST NYE at TBA - Address sent to ticket holders 7 pm day of show on Sat 2 Jan, Vancouver. 9 artists: Daega Sound, Mandai, Max Ulis and Michael Red and 5 more. Dubstep and Jungle. See the line-up on soundcheck.
+LIGHTA! POST NYE at TBA - Address sent to ticket holders 7 pm day of show on Sat 2 Jan, Vancouver. 8 artists: Daega Sound, Mandai, Max Ulis and Michael Red and 4 more. Dubstep and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,7 +15,6 @@ LIGHTA! POST NYE at TBA - Address sent to ticket holders 7 pm day of show on Sat
 - Max Ulis
 - Michael Red
 - Patrik Cure
-- Self Evident
 - Taal Mala
 - Tank Gyal
 - The Librarian (CA)

@@ -1,14 +1,15 @@
 # Lee Cash
 
-Lee Cash is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Good Room, New York City on Fri, 16 Oct 2026.
+Lee Cash is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Good Room, New York City on Fri, 16 Oct 2026.
 
-Lee Cash is a techno and house artist based in United States of America, with 23 gigs on soundcheck across Melbourne, Montreal and New York City. Often billed alongside whydan, Fundido and Gbar. Next up: Good Room, New York City on Fri 16 Oct.
+Lee Cash is a techno and house artist based in United States of America, with 24 gigs on soundcheck across Melbourne, Montreal and New York City. Often billed alongside Gbar, whydan and Fundido. Next up: Good Room, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Good Room | New York City |
+| Sun, 18 Oct 2026 | Green Room NYC | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Lee Cash is a techno and house artist based in United States of America, with 23
 
 ## Shares bills with
 
-whydan, Fundido, Gbar
+Gbar, whydan, Fundido
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leecash/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leecash/)*

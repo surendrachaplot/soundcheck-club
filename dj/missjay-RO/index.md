@@ -1,14 +1,15 @@
 # Miss Jay (RO)
 
-Miss Jay (RO) is a Bass and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Apollo Club Milano, Milan on Sat, 17 Oct 2026.
+Miss Jay (RO) is a Bass and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Apollo Club Milano, Milan on Sat, 17 Oct 2026.
 
-Miss Jay (RO) is a bass and club artist based in Romania, with 43 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Sukubratz, BRAVA and Mareeo. Next up: Apollo Club Milano, Milan on Sat 17 Oct.
+Miss Jay (RO) is a bass and club artist based in Romania, with 44 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Sukubratz, BRAVA and Mareeo. Next up: Apollo Club Milano, Milan on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Apollo Club Milano | Milan |
+| Fri, 23 Oct 2026 | ESC | Montreal |
 | Sat, 24 Oct 2026 | TBA | Toronto |
 | Sat, 31 Oct 2026 | TBA | Mexico City |
 
@@ -27,4 +28,4 @@ Miss Jay (RO) is a bass and club artist based in Romania, with 43 gigs on soundc
 
 Sukubratz, BRAVA, Mareeo
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missjay-RO/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missjay-RO/)*

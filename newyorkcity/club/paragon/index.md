@@ -1,6 +1,6 @@
 # Paragon
 
-Paragon is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Phantasma: Joey Beltram, Volvox, Light Asylum(DJ Set) + Lenny Dee, FortifiedStructures" on Fri, 16 Oct 2026.
+Paragon is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Phantasma: Joey Beltram, Volvox, Light Asylum(DJ Set) + Lenny Dee, FortifiedStructures" on Fri, 16 Oct 2026.
 
 Paragon is a music venue in New York City listed on soundcheck. 12 upcoming gigs, with line-ups including 1morning, AK (US), Amadeezy and Ashley Venom and 2 more. See dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
@@ -23,4 +23,4 @@ Paragon is a music venue in New York City listed on soundcheck. 12 upcoming gigs
 
 990 Broadway Brooklyn, NY, New York City
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*

@@ -1,6 +1,6 @@
 # Kanem
 
-Kanem is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at 93 Feet East, London on Sat, 14 Nov 2026.
+Kanem is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at 93 Feet East, London on Sat, 14 Nov 2026.
 
 Kanem is a house and deep house artist based in United Kingdom, with 17 gigs on soundcheck across London. Often billed alongside Kojay, P-Lucas and Midnight Runner. Next up: 93 Feet East, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Kanem is a house and deep house artist based in United Kingdom, with 17 gigs on 
 
 Kojay, P-Lucas, Midnight Runner
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanem/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanem/)*

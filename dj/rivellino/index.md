@@ -1,6 +1,6 @@
 # Rivellino
 
-Rivellino is a Techno and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Ku Barcelona, Barcelona on Fri, 16 Oct 2026.
+Rivellino is a Techno and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Ku Barcelona, Barcelona on Fri, 16 Oct 2026.
 
 Rivellino is a techno and deep house artist based in Colombia, with 81 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Frankfurt and 3 more. Often billed alongside Andrea Castells, Ivan Pugliares and LIZA.. Next up: Ku Barcelona, Barcelona on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Rivellino is a techno and deep house artist based in Colombia, with 81 gigs on s
 
 Andrea Castells, Ivan Pugliares, LIZA.
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivellino/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivellino/)*

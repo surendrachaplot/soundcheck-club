@@ -1,6 +1,6 @@
 # Andreas Vural
 
-Andreas Vural is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Sing Sing Theater, Bangkok on Fri, 16 Oct 2026.
+Andreas Vural is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Sing Sing Theater, Bangkok on Fri, 16 Oct 2026.
 
 Andreas Vural is a techno and tech house artist based in Sweden, with 11 gigs on soundcheck across Bangkok and Tokyo. Often billed alongside Sziko Bakos, B and Berry (KR). Next up: Sing Sing Theater, Bangkok on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Andreas Vural is a techno and tech house artist based in Sweden, with 11 gigs on
 
 Sziko Bakos, B (379), Berry (KR)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasvural/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasvural/)*

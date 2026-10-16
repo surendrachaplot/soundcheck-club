@@ -1,6 +1,6 @@
 # Epifanix
 
-Epifanix is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - SISLI HALASKARGAZI STREET, Istanbul on Sat, 17 Oct 2026.
+Epifanix is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - SISLI HALASKARGAZI STREET, Istanbul on Sat, 17 Oct 2026.
 
 Epifanix is a techno and industrial artist, with 20 gigs on soundcheck across Istanbul and Tbilisi. Often billed alongside Inf3ris, 2TAL and VRDS. Next up: TBA - SISLI HALASKARGAZI STREET, Istanbul on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Epifanix is a techno and industrial artist, with 20 gigs on soundcheck across Is
 
 Inf3ris, 2TAL, VRDS
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/epifanix/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/epifanix/)*

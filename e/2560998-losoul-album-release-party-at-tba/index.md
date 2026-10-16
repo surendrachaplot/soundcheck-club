@@ -1,6 +1,6 @@
 # Losoul Album Release Party at TBA
 
-Losoul Album Release Party at TBA on Thu 5 Nov, London. 4 artists: Alexandre Petit, C.A.R., Laura Garrido and Losoul. Minimal and Electronica. See the line-up on soundcheck.
+Losoul Album Release Party at TBA on Thu 5 Nov, London. 5 artists: Alexandre Petit, C.A.R., Gil and Laura Garrido and 1 more. Minimal and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Losoul Album Release Party at TBA on Thu 5 Nov, London. 4 artists: Alexandre Pet
 
 - Alexandre Petit
 - C.A.R.
+- Gil (3)
 - Laura Garrido
 - Losoul
 

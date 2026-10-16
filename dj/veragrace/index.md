@@ -1,6 +1,6 @@
 # Vera Grace
 
-Vera Grace is a Techno and Industrial artist with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at essaim, Paris on Fri, 16 Oct 2026.
+Vera Grace is a Techno and Industrial artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at essaim, Paris on Fri, 16 Oct 2026.
 
 Vera Grace is a techno and industrial artist based in Netherlands, with 133 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 33 more. Often billed alongside SEMMUS, Cynthia Spiering and SNTS. Next up: essaim, Paris on Fri 16 Oct.
 
@@ -32,4 +32,4 @@ Vera Grace is a techno and industrial artist based in Netherlands, with 133 gigs
 
 SEMMUS, Cynthia Spiering, SNTS
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/veragrace/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/veragrace/)*

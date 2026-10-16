@@ -1,6 +1,6 @@
 # Hitori Tori
 
-Hitori Tori is a Breakcore and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Nakano Heavysick Zero, Tokyo on Sat, 5 Dec 2026.
+Hitori Tori is a Breakcore and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Nakano Heavysick Zero, Tokyo on Sat, 5 Dec 2026.
 
 Hitori Tori is a breakcore and hardcore artist based in Canada, with 15 gigs on soundcheck across Kyoto, Osaka, Portland and Seattle and 2 more. Often billed alongside RiDylan, Lil Kevo 303 and goreshit. Next up: Nakano Heavysick Zero, Tokyo on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Hitori Tori is a breakcore and hardcore artist based in Canada, with 15 gigs on 
 
 RiDylan, Lil Kevo 303, goreshit
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hitoritori/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hitoritori/)*

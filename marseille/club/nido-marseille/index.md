@@ -1,14 +1,13 @@
 # Nido Marseille
 
-Nido Marseille is a music venue in Marseille with 14 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Nido live session - Canine Cracks & Tibahuult" on Thu, 15 Oct 2026.
+Nido Marseille is a music venue in Marseille with 13 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Nido invite: Camion Bazar" on Fri, 16 Oct 2026.
 
-Nido Marseille is a music venue in Marseille listed on soundcheck. 14 upcoming gigs, with line-ups including ALiNA, Arthur Lastmann, Atree and Camion Bazar and 2 more. See dates, start times and who's playing. 20 boulevard fifi turin.
+Nido Marseille is a music venue in Marseille listed on soundcheck. 13 upcoming gigs, with line-ups including ALiNA, Arthur Lastmann, Atree and Camion Bazar and 2 more. See dates, start times and who's playing. 20 boulevard fifi turin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Nido live session - Canine Cracks & Tibahuult | Canine Cracks |
 | Fri, 16 Oct 2026 | Nido invite: Camion Bazar | Camion Bazar |
 | Sat, 17 Oct 2026 | Nido label night: Tresydos avec Lis Sarroca, Mari.te, Papolious Jones, Vince Void | Lis Sarroca, Mari.te, Vince Void |
 | Fri, 23 Oct 2026 |  Nido toute la nuit - Victor Mantel |  |
@@ -18,9 +17,10 @@ Nido Marseille is a music venue in Marseille listed on soundcheck. 14 upcoming g
 | Sat, 31 Oct 2026 | Nido label night: Komplices 3rd Birthday | ALiNA, Atree, JO SZT |
 | Fri, 6 Nov 2026 | Nido - local - Cess & tba | Cess (2) |
 | Sat, 7 Nov 2026 | Nido label night: O Mato - Jonas Köksal ,Julian Feirabend & Logidy |  |
+| Tue, 10 Nov 2026 | Nido - invite - O Mato: Cristobal & Karine | Cristobal, Karine |
 
 ## Address
 
 20 boulevard fifi turin, Marseille
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*

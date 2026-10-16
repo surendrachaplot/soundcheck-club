@@ -1,6 +1,6 @@
 # Blossmbae
 
-Blossmbae is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 17 Oct 2026.
+Blossmbae is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 17 Oct 2026.
 
 Blossmbae is a techno and trance artist based in Germany, with 32 gigs on soundcheck across Berlin and Hamburg. Often billed alongside bbymeister, jeanska and subga. Next up: Lokschuppen Berlin, Berlin on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Blossmbae is a techno and trance artist based in Germany, with 32 gigs on soundc
 
 bbymeister, jeanska, subga
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blossmbae_/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blossmbae_/)*

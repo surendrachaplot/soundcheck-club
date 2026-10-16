@@ -1,6 +1,6 @@
 # T.Wan
 
-T.Wan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Val’s Lesbian Bar, Philadelphia on Sat, 31 Oct 2026.
+T.Wan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Val’s Lesbian Bar, Philadelphia on Sat, 31 Oct 2026.
 
 T.Wan is a techno and house artist based in United States of America, with 47 gigs on soundcheck across Boston, Detroit, New York City and Philadelphia and 2 more. Often billed alongside Yaya Flows, Lychee and Nutrition Facts. Next up: Val’s Lesbian Bar, Philadelphia on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ T.Wan is a techno and house artist based in United States of America, with 47 gi
 
 Yaya Flows, Lychee, Nutrition Facts
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t.wan/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t.wan/)*

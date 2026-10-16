@@ -1,6 +1,6 @@
 # PEACHI
 
-PEACHI is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Smith St Hotel, Melbourne on Sun, 18 Oct 2026.
+PEACHI is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Smith St Hotel, Melbourne on Sun, 18 Oct 2026.
 
 PEACHI is a house and techno artist based in Australia, with 11 gigs on soundcheck across Melbourne. Often billed alongside Tommy Craig, Joey Coco and Bongo. Next up: Smith St Hotel, Melbourne on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ PEACHI is a house and techno artist based in Australia, with 11 gigs on soundche
 
 Tommy Craig, Joey Coco, Bongo
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peachi/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peachi/)*

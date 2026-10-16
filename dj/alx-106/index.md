@@ -1,18 +1,18 @@
 # ALX-106
 
-ALX-106 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Location With Ticket, Denver on Thu, 15 Oct 2026.
+ALX-106 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Coaxial, Los Angeles on Sat, 24 Oct 2026.
 
-ALX-106 is a techno and house artist based in United States of America, with 23 gigs on soundcheck across Amsterdam, Berlin, Bristol and Chicago and 5 more. Often billed alongside Trovarsi, SURCO and Cuckoo. Next up: TBA - Location With Ticket, Denver on Thu 15 Oct.
+ALX-106 is a techno and house artist based in United States of America, with 23 gigs on soundcheck across Amsterdam, Berlin, Bristol and Chicago and 5 more. Often billed alongside Trovarsi, SURCO and Cuckoo. Next up: Coaxial, Los Angeles on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | TBA - Location With Ticket | Denver |
 | Sat, 24 Oct 2026 | Coaxial | Los Angeles |
 
 ## Recently played
 
+- TBA - Location With Ticket, Denver · Thu, 15 Oct 2026
 - TBA - Void Studios, Denver · Sat, 29 Aug 2026
 - TBA - Denver, Denver · Fri, 31 Jul 2026
 - Corktown Tavern, Detroit · Fri, 22 May 2026
@@ -20,10 +20,9 @@ ALX-106 is a techno and house artist based in United States of America, with 23 
 - TBA -  Carolina Sardi Studio, 260 Northeast 60th Street, Miami, FL 33137, USA, Miami · Sat, 28 Mar 2026
 - Boomtown Brewery, Los Angeles · Sat, 24 Jan 2026
 - Fort Greene, Denver · Fri, 25 Jul 2025
-- Klunkerkranich, Berlin · Sun, 11 May 2025
 
 ## Shares bills with
 
 Trovarsi, SURCO, Cuckoo
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alx-106/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alx-106/)*

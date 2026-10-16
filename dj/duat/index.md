@@ -1,6 +1,6 @@
 # Duat
 
-Duat is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Secret Location, London on Sat, 17 Oct 2026.
+Duat is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Secret Location, London on Sat, 17 Oct 2026.
 
 Duat is a house and tech house artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Eva Banks, Aur0m and BERNT. Next up: TBA - Secret Location, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Duat is a house and tech house artist based in United Kingdom, with 9 gigs on so
 
 Eva Banks, Aur0m, BERNT
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duat/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duat/)*

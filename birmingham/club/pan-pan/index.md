@@ -1,6 +1,6 @@
 # Pan-Pan
 
-Pan-Pan is a music venue in Birmingham with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "BodyOrigami with Nonna Fab" on Sat, 21 Nov 2026.
+Pan-Pan is a music venue in Birmingham with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "BodyOrigami with Nonna Fab" on Sat, 21 Nov 2026.
 
 Pan-Pan is a music venue in Birmingham listed on soundcheck. 1 upcoming gig, with line-ups including Fading Objects and Nonna Fab. See dates, start times and who's playing. 25D Floodgate St, Deritend.
 
@@ -14,4 +14,4 @@ Pan-Pan is a music venue in Birmingham listed on soundcheck. 1 upcoming gig, wit
 
 25D Floodgate St, Deritend, Birmingham
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/pan-pan/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/pan-pan/)*

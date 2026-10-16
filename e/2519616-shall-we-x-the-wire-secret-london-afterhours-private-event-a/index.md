@@ -1,11 +1,11 @@
-# SHALL WE? x THE WIRE: SECRET LONDON AFTERHOURS - PRIVATE EVENT at TBA - EAST LONDON- announced to ticket holders on the day
+# SHALL WE? x THE WIRE: SECRET LONDON AFTERHOURS - PRIVATE EVENT at TBA - CENTRAL LONDON- announced to ticket holders on the day
 
-SHALL WE? x THE WIRE: SECRET LONDON AFTERHOURS - PRIVATE EVENT at TBA - EAST LONDON- announced to ticket holders on the day on Fri 16 Oct, London. 8 artists: Any Koh, Azire, Dimanté and IRENÆ and 4 more. Techno and Electro. See the line-up on soundcheck.
+SHALL WE? x THE WIRE: SECRET LONDON AFTERHOURS - PRIVATE EVENT at TBA - CENTRAL LONDON- announced to ticket holders on the day on Fri 16 Oct, London. 8 artists: Any Koh, Azire, Dimanté and IRENÆ and 4 more. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 16 Oct 2026 |
-| Venue | TBA - EAST LONDON- announced to ticket holders on the day |
+| Venue | TBA - CENTRAL LONDON- announced to ticket holders on the day |
 | City | London |
 
 ## Line-up

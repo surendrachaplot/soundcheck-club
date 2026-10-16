@@ -1,6 +1,6 @@
 # Tyrellativ
 
-Tyrellativ is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Rote Sonne, Munich on Fri, 16 Oct 2026.
+Tyrellativ is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Rote Sonne, Munich on Fri, 16 Oct 2026.
 
 Tyrellativ is a techno and gabber artist based in Germany, with 28 gigs on soundcheck across Berlin, Munich, Nürnberg and Stuttgart. Often billed alongside Punktmidi, SpanierMitAuto and SpanierOhneAuto. Next up: Rote Sonne, Munich on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Tyrellativ is a techno and gabber artist based in Germany, with 28 gigs on sound
 
 Punktmidi, SpanierMitAuto, SpanierOhneAuto
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tyrellativ/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tyrellativ/)*

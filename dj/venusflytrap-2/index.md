@@ -1,13 +1,14 @@
 # Venus Flytrap (2)
 
-Venus Flytrap (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Heide Museum of Modern Art Sculpture Park, Melbourne on Sat, 19 Dec 2026.
+Venus Flytrap (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Miscellania, Melbourne on Sat, 21 Nov 2026.
 
-Venus Flytrap is a techno and house artist based in China, with 36 gigs on soundcheck across Berlin, Melbourne and Shenzhen. Often billed alongside Paper-Cuts, Pjenné and Hybrid Man. Next up: Heide Museum of Modern Art Sculpture Park, Melbourne on Sat 19 Dec.
+Venus Flytrap is a techno and house artist based in China, with 37 gigs on soundcheck across Berlin, Melbourne and Shenzhen. Often billed alongside Paper-Cuts, Pjenné and Hybrid Man. Next up: Miscellania, Melbourne on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Miscellania | Melbourne |
 | Sat, 19 Dec 2026 | Heide Museum of Modern Art Sculpture Park | Melbourne |
 
 ## Recently played
@@ -25,4 +26,4 @@ Venus Flytrap is a techno and house artist based in China, with 36 gigs on sound
 
 Paper-Cuts, Pjenné, Hybrid Man
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/venusflytrap-2/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/venusflytrap-2/)*

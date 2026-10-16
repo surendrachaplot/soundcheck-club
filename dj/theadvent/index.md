@@ -1,6 +1,6 @@
 # The Advent
 
-The Advent is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Good Fortune St. Pete, Tampa-bay on Fri, 16 Oct 2026.
+The Advent is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Good Fortune St. Pete, Tampa-bay on Fri, 16 Oct 2026.
 
 The Advent is a techno and house artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 39 more. Often billed alongside Nastia, Philippa Pacho and STERAC. Next up: Good Fortune St. Pete, Tampa Bay on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ The Advent is a techno and house artist based in United Kingdom, with 99 gigs on
 
 Nastia, Philippa Pacho, STERAC
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theadvent/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theadvent/)*

@@ -1,6 +1,6 @@
 # Hyperaktivist
 
-Hyperaktivist is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 16 Oct 2026.
+Hyperaktivist is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 16 Oct 2026.
 
 Hyperaktivist is a techno and house artist based in Germany, with 185 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 49 more. Often billed alongside DJ TOOL, Yazzus and D.Dan. Next up: Ankali & Planeta Za, Prague on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Hyperaktivist is a techno and house artist based in Germany, with 185 gigs on so
 
 DJ TOOL, Yazzus, D.Dan
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperaktivist/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperaktivist/)*

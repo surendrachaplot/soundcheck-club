@@ -1,6 +1,6 @@
 # Bass
 
-Bass is a Drum & Bass and Jazz artist with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at BRUS, Copenhagen on Sat, 17 Oct 2026.
+Bass is a Drum & Bass and Jazz artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at BRUS, Copenhagen on Sat, 17 Oct 2026.
 
 Bass is a drum & bass and jazz artist based in Egypt, with 122 gigs on soundcheck across Amsterdam, Auckland, Bali and Bangkok and 40 more. Often billed alongside Jungle (UK), Tekk and A². Next up: BRUS, Copenhagen on Sat 17 Oct.
 
@@ -32,4 +32,4 @@ Bass is a drum & bass and jazz artist based in Egypt, with 122 gigs on soundchec
 
 Jungle (UK), Tekk, A²
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bass/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bass/)*

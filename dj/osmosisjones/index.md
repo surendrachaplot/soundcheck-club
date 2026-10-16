@@ -1,14 +1,13 @@
 # Osmosis Jones
 
-Osmosis Jones is a Garage and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Bongo Club, Edinburgh on Thu, 15 Oct 2026.
+Osmosis Jones is a Garage and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at fabric, London on Fri, 16 Oct 2026.
 
-Osmosis Jones is a garage and house artist based in Australia, with 97 gigs on soundcheck across Amsterdam, Auckland, Australian Capital Territory and Bali and 29 more. Often billed alongside IsGwan, Prizefight and Faster Horses. Next up: The Bongo Club, Edinburgh on Thu 15 Oct.
+Osmosis Jones is a garage and house artist based in Australia, with 97 gigs on soundcheck across Amsterdam, Auckland, Australian Capital Territory and Bali and 29 more. Often billed alongside IsGwan, Prizefight and Faster Horses. Next up: fabric, London on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | The Bongo Club | Edinburgh |
 | Fri, 16 Oct 2026 | fabric | London |
 | Sat, 17 Oct 2026 | Quarters | Brighton |
 | Fri, 30 Oct 2026 | Circus Osaka | Osaka |
@@ -20,9 +19,11 @@ Osmosis Jones is a garage and house artist based in Australia, with 97 gigs on s
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 | Mon, 28 Dec 2026 | Langley Park | Perth |
+| Sat, 2 Jan 2027 | Superordinary | Brisbane |
 
 ## Recently played
 
+- The Bongo Club, Edinburgh · Thu, 15 Oct 2026
 - Depot Mayfield, Manchester · Sat, 10 Oct 2026
 - The Warehouse, Leeds · Fri, 9 Oct 2026
 - NUMBER 90 LONDON, London · Thu, 1 Oct 2026
@@ -30,10 +31,9 @@ Osmosis Jones is a garage and house artist based in Australia, with 97 gigs on s
 - Ostrov Štvanice, Prague · Sat, 11 Jul 2026
 - Eden, Ibiza · Wed, 1 Jul 2026
 - Heaton Park, Manchester · Sat, 20 Jun 2026
-- Thuishaven, Amsterdam · Sun, 14 Jun 2026
 
 ## Shares bills with
 
 IsGwan, Prizefight, Faster Horses
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osmosisjones/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osmosisjones/)*

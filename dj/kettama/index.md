@@ -1,6 +1,6 @@
 # KETTAMA
 
-KETTAMA is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+KETTAMA is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 KETTAMA is a techno and house artist based in Ireland, with 254 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 68 more. Often billed alongside Partiboi69, Ben Hemsley and DJ Heartstring. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -34,4 +34,4 @@ KETTAMA is a techno and house artist based in Ireland, with 254 gigs on soundche
 
 Partiboi69, Ben Hemsley, DJ Heartstring
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kettama/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kettama/)*

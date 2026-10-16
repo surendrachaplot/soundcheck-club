@@ -1,6 +1,6 @@
 # -LaLa-
 
--LaLa- is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Elsewhere, Bangkok on Fri, 16 Oct 2026.
+-LaLa- is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Elsewhere, Bangkok on Fri, 16 Oct 2026.
 
 -LaLa- is a house and tech house artist based in Canada, with 22 gigs on soundcheck across Bangkok, Berlin, Munich and Valencia and 1 more. Often billed alongside Æ-X, IAMBP and Ladrillovitz. Next up: Elsewhere, Bangkok on Fri 16 Oct.
 
@@ -25,4 +25,4 @@
 
 Æ-X, IAMBP, Ladrillovitz
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/-lala-/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/-lala-/)*

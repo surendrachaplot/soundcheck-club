@@ -1,8 +1,8 @@
 # Sam Redmore
 
-Sam Redmore is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Model, Nottingham on Sat, 17 Oct 2026.
+Sam Redmore is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Model, Nottingham on Sat, 17 Oct 2026.
 
-Sam Redmore is a house and disco artist based in United Kingdom, with 3 gigs on soundcheck across Manchester, Nottingham and Sheffield. Often billed alongside Jim Bane. Next up: The Model, Nottingham on Sat 17 Oct.
+Sam Redmore is a house and disco artist based in United Kingdom, with 3 gigs on soundcheck across Manchester, Nottingham and Sheffield. Often billed alongside Jim Bane and Rayworth. Next up: The Model, Nottingham on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ Sam Redmore is a house and disco artist based in United Kingdom, with 3 gigs on 
 
 ## Shares bills with
 
-Jim Bane
+Jim Bane, Rayworth
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samredmore/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samredmore/)*

@@ -1,6 +1,6 @@
 # VANI
 
-VANI is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Don Quixote, Los-angeles on Sat, 17 Oct 2026.
+VANI is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Don Quixote, Los-angeles on Sat, 17 Oct 2026.
 
 VANI is a house and baile funk artist based in United States of America, with 12 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Bianca Maieli, MTooray and ARINI. Next up: Don Quixote, Los Angeles on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ VANI is a house and baile funk artist based in United States of America, with 12
 
 Bianca Maieli, MTooray, ARINI
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vani/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vani/)*

@@ -1,6 +1,6 @@
 # Boys' Shorts
 
-Boys' Shorts is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at The Eagle, London on Sun, 25 Oct 2026.
+Boys' Shorts is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Eagle, London on Sun, 25 Oct 2026.
 
 Boys' Shorts is a house and techno artist based in Greece, with 48 gigs on soundcheck across Athens, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Luigi Di Venere, Philippa Pacho and Roi Perez. Next up: The Eagle, London on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Boys' Shorts is a house and techno artist based in Greece, with 48 gigs on sound
 
 Luigi Di Venere, Philippa Pacho, Roi Perez
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boysshorts/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boysshorts/)*

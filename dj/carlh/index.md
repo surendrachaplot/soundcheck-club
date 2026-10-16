@@ -1,6 +1,6 @@
 # Carl H
 
-Carl H is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Unmute, Hanoi on Fri, 16 Oct 2026.
+Carl H is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Unmute, Hanoi on Fri, 16 Oct 2026.
 
 Carl H is a techno and trance artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 40 more. Often billed alongside Jane Fitz, So-Fi and DJ TEETH. Next up: Unmute, Hanoi on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ Carl H is a techno and trance artist based in United Kingdom, with 128 gigs on s
 
 Jane Fitz, So-Fi, DJ TEETH
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlh/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlh/)*

@@ -1,6 +1,6 @@
 # Awesome Tapes From Africa
 
-Awesome Tapes From Africa is a Afrobeat and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Audioteca, Naples on Thu, 22 Oct 2026.
+Awesome Tapes From Africa is a Afrobeat and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Audioteca, Naples on Thu, 22 Oct 2026.
 
 Awesome Tapes From Africa is an afrobeat and house artist, with 33 gigs on soundcheck across Barcelona, Berlin, Birmingham and Bristol and 12 more. Often billed alongside 2THEMAX, Adam Shelton and Alexa D!saster. Next up: Audioteca, Naples on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Awesome Tapes From Africa is an afrobeat and house artist, with 33 gigs on sound
 
 2THEMAX, Adam Shelton, Alexa D!saster
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/awesometapesfromafrica/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/awesometapesfromafrica/)*

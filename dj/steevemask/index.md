@@ -1,6 +1,6 @@
 # Steeve Mask
 
-Steeve Mask is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at NEO CLUB ROMA, Rome on Fri, 16 Oct 2026.
+Steeve Mask is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at NEO CLUB ROMA, Rome on Fri, 16 Oct 2026.
 
 Steeve Mask is a club and house artist based in Italy, with 2 gigs on soundcheck across Rome. Often billed alongside Marco Rea and Luca Cucchetti. Next up: NEO CLUB ROMA, Rome on Fri 16 Oct.
 
@@ -15,4 +15,4 @@ Steeve Mask is a club and house artist based in Italy, with 2 gigs on soundcheck
 
 Marco Rea, Luca Cucchetti
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steevemask/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steevemask/)*

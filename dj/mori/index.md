@@ -1,6 +1,6 @@
 # Mori
 
-Mori is a Hip-Hop and R&B artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at clubasia, Tokyo on Sat, 17 Oct 2026.
+Mori is a Hip-Hop and R&B artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at clubasia, Tokyo on Sat, 17 Oct 2026.
 
 Mori is a hip-hop and r&b artist based in Germany, with 28 gigs on soundcheck across Frankfurt, London, Miami and Tokyo. Often billed alongside DJ B2B, ATAMI and DA BOOK. Next up: clubasia, Tokyo on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Mori is a hip-hop and r&b artist based in Germany, with 28 gigs on soundcheck ac
 
 DJ B2B, ATAMI, DA BOOK
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mori/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mori/)*

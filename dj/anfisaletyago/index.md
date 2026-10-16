@@ -1,14 +1,13 @@
 # Anfisa Letyago
 
-Anfisa Letyago is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Noto Philadelphia, Philadelphia on Thu, 15 Oct 2026.
+Anfisa Letyago is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at BERHTA, Washington DC on Fri, 16 Oct 2026.
 
-Anfisa Letyago is a techno and house artist based in Italy, with 166 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Enrico Sangiuliano, Eli Brown and Héctor Oaks. Next up: Noto Philadelphia, Philadelphia on Thu 15 Oct.
+Anfisa Letyago is a techno and house artist based in Italy, with 166 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Enrico Sangiuliano, Eli Brown and Héctor Oaks. Next up: BERHTA, Washington DC on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Noto Philadelphia | Philadelphia |
 | Fri, 16 Oct 2026 | BERHTA | Washington DC |
 | Sat, 17 Oct 2026 | 821 Runnymede Rd | Toronto |
 | Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |
@@ -20,6 +19,7 @@ Anfisa Letyago is a techno and house artist based in Italy, with 166 gigs on sou
 
 ## Recently played
 
+- Noto Philadelphia, Philadelphia · Thu, 15 Oct 2026
 - Exchange LA, Los Angeles · Sat, 10 Oct 2026
 - Klein Phönix, Istanbul · Sat, 3 Oct 2026
 - Audio Club, Geneva · Fri, 2 Oct 2026
@@ -27,10 +27,9 @@ Anfisa Letyago is a techno and house artist based in Italy, with 166 gigs on sou
 - SAGE, Berlin · Sat, 5 Sept 2026
 - Amnesia Ibiza, Ibiza · Tue, 1 Sept 2026
 - INPUT High Fidelity Dance Club, Barcelona · Sat, 8 Aug 2026
-- Amnesia Ibiza, Ibiza · Tue, 4 Aug 2026
 
 ## Shares bills with
 
 Enrico Sangiuliano, Eli Brown, Héctor Oaks
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anfisaletyago/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anfisaletyago/)*

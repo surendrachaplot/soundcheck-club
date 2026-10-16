@@ -1,14 +1,13 @@
 # Ben Gomori
 
-Ben Gomori is a House and Disco artist with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Shelter Antwerp, Antwerp on Thu, 15 Oct 2026.
+Ben Gomori is a House and Disco artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Goldener Reiter, Munich on Fri, 16 Oct 2026.
 
-Ben Gomori is a house and disco artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Budapest and 13 more. Often billed alongside Ariane V, Gaucho (UK) and Sarahtonin. Next up: Shelter Antwerp, Antwerp on Thu 15 Oct.
+Ben Gomori is a house and disco artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Budapest and 13 more. Often billed alongside Ariane V, Gaucho (UK) and Sarahtonin. Next up: Goldener Reiter, Munich on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Shelter Antwerp | Antwerp |
 | Fri, 16 Oct 2026 | Goldener Reiter | Munich |
 | Fri, 16 Oct 2026 | Spin Munich | Munich |
 | Sat, 17 Oct 2026 | Funkhaus | Vienna |
@@ -21,6 +20,7 @@ Ben Gomori is a house and disco artist based in United Kingdom, with 61 gigs on 
 
 ## Recently played
 
+- Shelter Antwerp, Antwerp · Thu, 15 Oct 2026
 - 93 Feet East, London · Sat, 11 Jul 2026
 - Cine Jussara, Sao Paulo · Thu, 4 Jun 2026
 - Berghain | Panorama Bar | Säule, Berlin · Wed, 13 May 2026
@@ -28,10 +28,9 @@ Ben Gomori is a house and disco artist based in United Kingdom, with 61 gigs on 
 - The Social, London · Sat, 22 Nov 2025
 - Sunday Sunday, Mexico City · Sun, 26 Oct 2025
 - Distillery N17, London · Fri, 5 Sept 2025
-- Hackney Wick Multiple Venues, London · Sat, 12 Jul 2025
 
 ## Shares bills with
 
 Ariane V, Gaucho (UK), Sarahtonin
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bengomori/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bengomori/)*

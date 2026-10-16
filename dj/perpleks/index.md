@@ -1,6 +1,6 @@
 # Per Pleks
 
-Per Pleks is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at WDM, Hannover on Sat, 31 Oct 2026.
+Per Pleks is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at WDM, Hannover on Sat, 31 Oct 2026.
 
 Per Pleks is a techno and industrial artist based in Germany, with 95 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 37 more. Often billed alongside Luciid, Aphøtic and Nuke. Next up: WDM, Hannover on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Per Pleks is a techno and industrial artist based in Germany, with 95 gigs on so
 
 Luciid, Aphøtic, Nuke
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perpleks/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perpleks/)*

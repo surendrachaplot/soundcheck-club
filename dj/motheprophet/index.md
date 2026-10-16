@@ -1,6 +1,6 @@
 # Mo the prophet
 
-Mo the prophet is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Xolo, Munich on Fri, 16 Oct 2026.
+Mo the prophet is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Xolo, Munich on Fri, 16 Oct 2026.
 
 Mo the prophet is a house and balearic artist, with 23 gigs on soundcheck across Hamburg and Munich. Often billed alongside heronymus, Chet Rubbs and Julie Fleischer. Next up: Xolo, Munich on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Mo the prophet is a house and balearic artist, with 23 gigs on soundcheck across
 
 heronymus, Chet Rubbs, Julie Fleischer
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/motheprophet/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/motheprophet/)*

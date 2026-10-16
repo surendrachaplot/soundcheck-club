@@ -1,6 +1,6 @@
 # ambre club presents: Janeret, Dana Kuehr, Cem Ozden & katje at radial
 
-ambre club presents: Janeret, Dana Kuehr, Cem Ozden & katje at radial on Sun 1 Nov, London. 4 artists: Cem Ozden, Dana Kuehr, Janeret and katje. See the line-up on soundcheck.
+ambre club presents: Janeret, Dana Kuehr, Cem Ozden & katje at radial on Sun 1 Nov, London. 4 artists: Cem Ozden, Dana Kuehr, Janeret and katje. Progressive House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

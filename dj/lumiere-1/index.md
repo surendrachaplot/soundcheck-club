@@ -1,6 +1,6 @@
 # Lumiere
 
-Lumiere is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Night Tales, London on Sat, 17 Oct 2026.
+Lumiere is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Night Tales, London on Sat, 17 Oct 2026.
 
 Lumiere is a house and techno artist based in Argentina, with 121 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Florence and 13 more. Often billed alongside Anah, Francesco Del Garda and Binh. Next up: Night Tales, London on Sat 17 Oct.
 
@@ -31,4 +31,4 @@ Lumiere is a house and techno artist based in Argentina, with 121 gigs on soundc
 
 Anah, Francesco Del Garda, Binh
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lumiere-1/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lumiere-1/)*

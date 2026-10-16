@@ -1,6 +1,6 @@
 # Kanine
 
-Kanine is a Drum & Bass and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Concorde 2, Brighton on Sat, 17 Oct 2026.
+Kanine is a Drum & Bass and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Concorde 2, Brighton on Sat, 17 Oct 2026.
 
 Kanine is a drum & bass and house artist based in United Kingdom, with 95 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 39 more. Often billed alongside Disrupta, Mozey and Bou (UK). Next up: Concorde 2, Brighton on Sat 17 Oct.
 
@@ -29,4 +29,4 @@ Kanine is a drum & bass and house artist based in United Kingdom, with 95 gigs o
 
 Disrupta, Mozey, Bou (UK)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanine/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanine/)*

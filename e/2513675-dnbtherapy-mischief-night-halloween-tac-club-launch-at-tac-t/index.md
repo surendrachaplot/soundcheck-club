@@ -1,6 +1,6 @@
 # dnbtherapy: Mischief Night [Halloween / TAC Club Launch] at TAC (Tottenham Arts Collective)
 
-dnbtherapy: Mischief Night [Halloween / TAC Club Launch] at TAC (Tottenham Arts Collective) on Fri 30 Oct, London. 11 artists: Abby Daze, Congo Natty, DJ Kane and DJ Stretch and 7 more. Drum & Bass and Jungle. See the line-up on soundcheck.
+dnbtherapy: Mischief Night [Halloween / TAC Club Launch] at TAC (Tottenham Arts Collective) on Fri 30 Oct, London. 12 artists: Abby Daze, Bailey (UK), Congo Natty and DJ Kane and 8 more. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ dnbtherapy: Mischief Night [Halloween / TAC Club Launch] at TAC (Tottenham Arts 
 ## Line-up
 
 - Abby Daze
+- Bailey (UK)
 - Congo Natty
 - DJ Kane (1)
 - DJ Stretch

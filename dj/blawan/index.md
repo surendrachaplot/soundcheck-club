@@ -1,6 +1,6 @@
 # Blawan
 
-Blawan is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Cieloterra, Rome on Fri, 16 Oct 2026.
+Blawan is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Cieloterra, Rome on Fri, 16 Oct 2026.
 
 Blawan is a techno and house artist based in United Kingdom, with 163 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Helena Hauff, JakoJako and Overmono. Next up: Cieloterra, Rome on Fri 16 Oct.
 
@@ -11,7 +11,7 @@ Blawan is a techno and house artist based in United Kingdom, with 163 gigs on so
 | Fri, 16 Oct 2026 | Cieloterra | Rome |
 | Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
 | Thu, 12 Nov 2026 | Uber Eats Music Hall | Berlin |
-| Fri, 27 Nov 2026 | Ace*Mission Studios | Los Angeles |
+| Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Fri, 11 Dec 2026 | Gate Milano | Milan |
 | Fri, 11 Dec 2026 | Gate Milano | Milan |
 
@@ -30,4 +30,4 @@ Blawan is a techno and house artist based in United Kingdom, with 163 gigs on so
 
 Helena Hauff, JakoJako, Overmono
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blawan/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blawan/)*

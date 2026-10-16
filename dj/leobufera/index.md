@@ -1,6 +1,6 @@
 # Leo Bufera
 
-Leo Bufera is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at CIRCOLO BOTULINO, Milan on Fri, 16 Oct 2026.
+Leo Bufera is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at CIRCOLO BOTULINO, Milan on Fri, 16 Oct 2026.
 
 Leo Bufera is a techno and industrial artist based in Italy, with 14 gigs on soundcheck across Amsterdam, Cologne, Los Angeles and Madrid and 6 more. Often billed alongside Andreas Kraemer, PLOYZZ and SIRO (DE). Next up: CIRCOLO BOTULINO, Milan on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Leo Bufera is a techno and industrial artist based in Italy, with 14 gigs on sou
 
 Andreas Kraemer, PLOYZZ, SIRO (DE)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leobufera/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leobufera/)*

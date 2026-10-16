@@ -1,6 +1,6 @@
 # Sophie (2)
 
-Sophie (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Ulster Sports Club, Belfast on Sat, 17 Oct 2026.
+Sophie (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Ulster Sports Club, Belfast on Sat, 17 Oct 2026.
 
 Sophie is a techno and house artist based in United Kingdom, with 31 gigs on soundcheck across Belfast, Dublin and London. Often billed alongside Hannah, Body Clinic and CIAN__. Next up: The Ulster Sports Club, Belfast on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Sophie is a techno and house artist based in United Kingdom, with 31 gigs on sou
 
 Hannah (1), Body Clinic, CIAN__
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophie-2/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophie-2/)*

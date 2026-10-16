@@ -1,6 +1,6 @@
 # export
 
-export is a music venue in Rotterdam with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Deets, Pariah" on Fri, 16 Oct 2026.
+export is a music venue in Rotterdam with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Deets, Pariah" on Fri, 16 Oct 2026.
 
 export is a music venue in Rotterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Blood of Aza, CAIN, Candy Coup and Chinnamasta and 2 more. See dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
 
@@ -23,4 +23,4 @@ export is a music venue in Rotterdam listed on soundcheck. 10 upcoming gigs, wit
 
 Keilestraat 7E, 3029 BP, Rotterdam, Rotterdam
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*

@@ -1,14 +1,13 @@
 # Girls of the Internet
 
-Girls of the Internet is a Disco and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Kantine am Berghain, Berlin on Thu, 15 Oct 2026.
+Girls of the Internet is a Disco and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Room 2 Glasgow, Glasgow on Sat, 24 Oct 2026.
 
-Girls of the Internet is a disco and house artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Brighton and 15 more. Often billed alongside James Alexander Bright, The Shapeshifters and Melvo Baptiste. Next up: Kantine am Berghain, Berlin on Thu 15 Oct.
+Girls of the Internet is a disco and house artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Brighton and 15 more. Often billed alongside James Alexander Bright, The Shapeshifters and Melvo Baptiste. Next up: Room 2 Glasgow, Glasgow on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Kantine am Berghain | Berlin |
 | Sat, 24 Oct 2026 | Room 2 Glasgow | Glasgow |
 | Sat, 24 Oct 2026 | The Berkeley Suite | Glasgow |
 | Fri, 6 Nov 2026 | The Jam Jar | Bristol |
@@ -19,6 +18,7 @@ Girls of the Internet is a disco and house artist based in United Kingdom, with 
 
 ## Recently played
 
+- Kantine am Berghain, Berlin · Thu, 15 Oct 2026
 - Fabwick, London · Sat, 26 Sept 2026
 - TBA - Select FM London, Los Angeles · Fri, 25 Sept 2026
 - TBA - address sent to all ticket holders , London · Thu, 23 Jul 2026
@@ -26,10 +26,9 @@ Girls of the Internet is a disco and house artist based in United Kingdom, with 
 - Next Door Records Two, London · Thu, 2 Jul 2026
 - The Fox and Firkin, London · Fri, 26 Jun 2026
 - Miradouro de Baixo, Lisbon · Sat, 9 May 2026
-- Truman Brewery Multiple Venues, London · Sat, 25 Apr 2026
 
 ## Shares bills with
 
 James Alexander Bright, The Shapeshifters, Melvo Baptiste
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsoftheinternet/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsoftheinternet/)*

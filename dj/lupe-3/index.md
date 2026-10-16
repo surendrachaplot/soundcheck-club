@@ -1,6 +1,6 @@
 # LUPE (3)
 
-LUPE (3) is a Downtempo and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Apotheke, Los Angeles on Fri, 6 Nov 2026.
+LUPE (3) is a Downtempo and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Apotheke, Los Angeles on Fri, 6 Nov 2026.
 
 LUPE is a downtempo and deep house artist, with 8 gigs on soundcheck across Los Angeles. Often billed alongside Glo Phase, Jessie Calistri and Kike Mayor. Next up: Apotheke, Los Angeles on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ LUPE is a downtempo and deep house artist, with 8 gigs on soundcheck across Los 
 
 Glo Phase, Jessie Calistri, Kike Mayor
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lupe-3/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lupe-3/)*

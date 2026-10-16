@@ -1,8 +1,8 @@
 # Alfred Czital
 
-Alfred Czital is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 16 Oct 2026.
+Alfred Czital is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 16 Oct 2026.
 
-Alfred Czital is a techno and trance artist based in Czech Republic, with 118 gigs on soundcheck across Bangkok, Berlin, Bristol and Copenhagen and 23 more. Often billed alongside Yan (CZ), Raleigh and Georgia Bird. Next up: Ankali & Planeta Za, Prague on Fri 16 Oct.
+Alfred Czital is a techno and trance artist based in Czech Republic, with 119 gigs on soundcheck across Bangkok, Berlin, Bristol and Copenhagen and 23 more. Often billed alongside Yan (CZ), Raleigh and Georgia Bird. Next up: Ankali & Planeta Za, Prague on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Alfred Czital is a techno and trance artist based in Czech Republic, with 118 gi
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Ankali & Planeta Za | Prague |
 | Sat, 17 Oct 2026 | RSO.BERLIN | Berlin |
+| Fri, 30 Oct 2026 | Sekta Selekta | Krakow |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Alfred Czital is a techno and trance artist based in Czech Republic, with 118 gi
 
 Yan (CZ), Raleigh, Georgia Bird
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alfredczital/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alfredczital/)*

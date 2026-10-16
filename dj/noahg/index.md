@@ -1,6 +1,6 @@
 # NoahG
 
-NoahG is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Honey's, New York City on Thu, 29 Oct 2026.
+NoahG is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Honey's, New York City on Thu, 29 Oct 2026.
 
 NoahG is a club and ghetto tech artist based in United States of America, with 46 gigs on soundcheck across Chicago, Los Angeles, Miami and New York City and 1 more. Often billed alongside Grabba Ranks, JuanDeOne and Bodegaparty. Next up: Honey's, New York City on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ NoahG is a club and ghetto tech artist based in United States of America, with 4
 
 Grabba Ranks, JuanDeOne, Bodegaparty
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noahg/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noahg/)*

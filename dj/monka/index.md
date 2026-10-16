@@ -1,6 +1,6 @@
 # monka
 
-monka is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Jasna 1, Warsaw on Sat, 24 Oct 2026.
+monka is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Jasna 1, Warsaw on Sat, 24 Oct 2026.
 
 monka is a bass and breakbeat artist, with 15 gigs on soundcheck across Krakow and Warsaw. Often billed alongside ALLG, DiV4 and larissa. Next up: Jasna 1, Warsaw on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ monka is a bass and breakbeat artist, with 15 gigs on soundcheck across Krakow a
 
 ALLG, DiV4, larissa
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monka/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monka/)*

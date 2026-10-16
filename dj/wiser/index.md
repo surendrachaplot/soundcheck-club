@@ -1,13 +1,14 @@
 # WISER
 
-WISER is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at 24 Moons, Melbourne on Fri, 13 Nov 2026.
+WISER is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 18 Oct 2026.
 
-WISER is a techno and trance artist based in Australia, with 60 gigs on soundcheck across Berlin, Hobart, Lisbon and London and 4 more. Often billed alongside BDE, Ophelie Mercury and Boogs. Next up: 24 Moons, Melbourne on Fri 13 Nov.
+WISER is a techno and trance artist based in Australia, with 61 gigs on soundcheck across Berlin, Hobart, Lisbon and London and 4 more. Often billed alongside BDE, Boogs and Ophelie Mercury. Next up: Revolver Upstairs, Melbourne on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 18 Oct 2026 | Revolver Upstairs | Melbourne |
 | Fri, 13 Nov 2026 | 24 Moons | Melbourne |
 
 ## Recently played
@@ -23,6 +24,6 @@ WISER is a techno and trance artist based in Australia, with 60 gigs on soundche
 
 ## Shares bills with
 
-BDE, Ophelie Mercury, Boogs
+BDE, Boogs, Ophelie Mercury
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wiser/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wiser/)*

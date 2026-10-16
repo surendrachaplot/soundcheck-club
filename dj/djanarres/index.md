@@ -1,6 +1,6 @@
 # DJ Anarres
 
-DJ Anarres is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at The Dolphin, Philadelphia on Sat, 24 Oct 2026.
+DJ Anarres is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Dolphin, Philadelphia on Sat, 24 Oct 2026.
 
 DJ Anarres is a house and techno artist, with 11 gigs on soundcheck across New York City, Philadelphia and Washington DC. Often billed alongside ADAB, Associate and Devoye. Next up: The Dolphin, Philadelphia on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DJ Anarres is a house and techno artist, with 11 gigs on soundcheck across New Y
 
 ADAB, Associate, Devoye
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djanarres/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djanarres/)*

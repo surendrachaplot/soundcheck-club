@@ -1,14 +1,15 @@
 # Danny Ghost
 
-Danny Ghost is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Pushkar Cocktail & Dining, Birmingham on Sat, 17 Oct 2026.
+Danny Ghost is a Deep House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Pushkar Cocktail & Dining, Birmingham on Sat, 17 Oct 2026.
 
-Danny Ghost is a tech house and deep house artist based in United Kingdom, with 7 gigs on soundcheck across Birmingham, London and Manchester. Often billed alongside JAYDAA, DJ S (UK) and Jerome Six. Next up: Pushkar Cocktail & Dining, Birmingham on Sat 17 Oct.
+Danny Ghost is a deep house and tech house artist based in United Kingdom, with 8 gigs on soundcheck across Birmingham, London and Manchester. Often billed alongside JAYDAA, DJ S (UK) and Jerome Six. Next up: Pushkar Cocktail & Dining, Birmingham on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Pushkar Cocktail & Dining | Birmingham |
+| Sat, 28 Nov 2026 | XOYO Birmingham | Birmingham |
 
 ## Recently played
 
@@ -23,4 +24,4 @@ Danny Ghost is a tech house and deep house artist based in United Kingdom, with 
 
 JAYDAA, DJ S (UK), Jerome Six
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyghost/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyghost/)*

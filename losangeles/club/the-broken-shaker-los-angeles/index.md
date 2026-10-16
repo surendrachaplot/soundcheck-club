@@ -1,6 +1,6 @@
 # The Broken Shaker Los Angeles
 
-The Broken Shaker Los Angeles is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "Higher Grooves Rooftop Party" on Sat, 17 Oct 2026.
+The Broken Shaker Los Angeles is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "Higher Grooves Rooftop Party" on Sat, 17 Oct 2026.
 
 The Broken Shaker Los Angeles is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including agraybé and Andy Oro. See dates, start times and who's playing. 416 W 8th St., Los Angeles, CA 90014, USA.
 
@@ -14,4 +14,4 @@ The Broken Shaker Los Angeles is a music venue in Los Angeles listed on soundche
 
 416 W 8th St., Los Angeles, CA 90014, USA, Los Angeles
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-broken-shaker-los-angeles/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-broken-shaker-los-angeles/)*

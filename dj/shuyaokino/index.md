@@ -1,6 +1,6 @@
 # Shuya Okino
 
-Shuya Okino is a Jazz and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Room, Tokyo on Sat, 17 Oct 2026.
+Shuya Okino is a Jazz and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Room, Tokyo on Sat, 17 Oct 2026.
 
 Shuya Okino is a jazz and club artist based in Japan, with 41 gigs on soundcheck across Bangkok, Kyoto, London and Madrid and 2 more. Often billed alongside Yoshihiro Okino, Kyoto Jazz Massive and Masaki Tamura. Next up: The Room, Tokyo on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Shuya Okino is a jazz and club artist based in Japan, with 41 gigs on soundcheck
 
 Yoshihiro Okino, Kyoto Jazz Massive, Masaki Tamura
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shuyaokino/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shuyaokino/)*

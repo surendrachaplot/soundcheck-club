@@ -1,14 +1,15 @@
 # Jimmy Allen
 
-Jimmy Allen is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Kazimier Garden, Liverpool on Sat, 31 Oct 2026.
+Jimmy Allen is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Kazimier Garden, Liverpool on Sat, 31 Oct 2026.
 
-Jimmy Allen is a house and disco artist based in United Kingdom, with 24 gigs on soundcheck across Edinburgh, Lisbon, Liverpool and Manchester and 1 more. Often billed alongside Craig Smith, DJ Spen and Ella Knight. Next up: Kazimier Garden, Liverpool on Sat 31 Oct.
+Jimmy Allen is a house and disco artist based in United Kingdom, with 25 gigs on soundcheck across Edinburgh, Lisbon, Liverpool and Manchester and 1 more. Often billed alongside Craig Smith, DJ Spen and Ella Knight. Next up: Kazimier Garden, Liverpool on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Kazimier Garden | Liverpool |
+| Sat, 31 Oct 2026 | Gloria's | Liverpool |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Jimmy Allen is a house and disco artist based in United Kingdom, with 24 gigs on
 
 Craig Smith, DJ Spen, Ella Knight
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmyallen/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmyallen/)*

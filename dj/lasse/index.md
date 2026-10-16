@@ -1,6 +1,6 @@
 # Lasse
 
-Lasse is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Bulldog Palace, Amsterdam on Wed, 21 Oct 2026.
+Lasse is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Bulldog Palace, Amsterdam on Wed, 21 Oct 2026.
 
 Lasse is a techno and house artist based in Netherlands, with 95 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 7 more. Often billed alongside Lasse Top, Flits and Isaiah (NL). Next up: The Bulldog Palace, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Lasse is a techno and house artist based in Netherlands, with 95 gigs on soundch
 
 Lasse Top, Flits, Isaiah (NL)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lasse/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lasse/)*

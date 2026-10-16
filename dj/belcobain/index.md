@@ -1,6 +1,6 @@
 # Bel Cobain
 
-Bel Cobain is a R&B and Jazz artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at 24 Kitchen Street, Liverpool on Sat, 24 Oct 2026.
+Bel Cobain is a R&B and Jazz artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at 24 Kitchen Street, Liverpool on Sat, 24 Oct 2026.
 
 Bel Cobain is a r&b and jazz artist based in United Kingdom, with 15 gigs on soundcheck across Berlin, Leeds, Liverpool and London and 1 more. Often billed alongside 2fox, Coco Maria and Ella Knight. Next up: 24 Kitchen Street, Liverpool on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Bel Cobain is a r&b and jazz artist based in United Kingdom, with 15 gigs on sou
 
 2fox, Coco Maria, Ella Knight
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belcobain/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belcobain/)*

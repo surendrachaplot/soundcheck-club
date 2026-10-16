@@ -1,13 +1,14 @@
 # Linnea Mae
 
-Linnea Mae is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at BABY01, Berlin on Sat, 5 Dec 2026.
+Linnea Mae is a Electro and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Crack Bellmer, Berlin on Thu, 5 Nov 2026.
 
-Linnea Mae is an electro and techno artist, with 9 gigs on soundcheck across Berlin and Prague. Often billed alongside anna andersrum, Acidic Juice and KaraKara. Next up: BABY01, Berlin on Sat 5 Dec.
+Linnea Mae is an electro and breakbeat artist, with 10 gigs on soundcheck across Berlin and Prague. Often billed alongside anna andersrum, Acidic Juice and KaraKara. Next up: Crack Bellmer, Berlin on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | Crack Bellmer | Berlin |
 | Sat, 5 Dec 2026 | BABY01 | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Linnea Mae is an electro and techno artist, with 9 gigs on soundcheck across Ber
 
 anna andersrum, Acidic Juice, KaraKara
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linneamae/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linneamae/)*

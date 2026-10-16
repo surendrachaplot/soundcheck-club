@@ -1,6 +1,6 @@
 # Get Physical! - ADE at Melkweg
 
-Get Physical! - ADE at Melkweg on Fri 23 Oct, Amsterdam. 5 artists: CIOZ, Helsloot, Monkey Safari and Rockin Moroccin and 1 more. Tech House and Deep House. See the line-up on soundcheck.
+Get Physical! - ADE at Melkweg on Fri 23 Oct, Amsterdam. 5 artists: Cioz, Helsloot, Monkey Safari and Rockin Moroccin and 1 more. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Get Physical! - ADE at Melkweg on Fri 23 Oct, Amsterdam. 5 artists: CIOZ, Helslo
 
 ## Line-up
 
-- CIOZ
+- Cioz
 - Helsloot
 - Monkey Safari
 - Rockin Moroccin

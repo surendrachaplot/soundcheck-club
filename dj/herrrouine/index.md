@@ -1,6 +1,6 @@
 # Herrrouine
 
-Herrrouine is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Elysia, Basel on Sat, 14 Nov 2026.
+Herrrouine is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Elysia, Basel on Sat, 14 Nov 2026.
 
 Herrrouine is a techno and ghetto tech artist based in Switzerland, with 24 gigs on soundcheck across Basel, Stuttgart and Zurich. Often billed alongside Gomorra, Cepheì and kso12. Next up: Elysia, Basel on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Herrrouine is a techno and ghetto tech artist based in Switzerland, with 24 gigs
 
 Gomorra, Cepheì, kso12
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herrrouine/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herrrouine/)*

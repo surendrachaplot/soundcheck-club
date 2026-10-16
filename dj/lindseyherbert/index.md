@@ -1,6 +1,6 @@
 # Lindsey Herbert
 
-Lindsey Herbert is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Marble Bar, Detroit on Fri, 16 Oct 2026.
+Lindsey Herbert is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Marble Bar, Detroit on Fri, 16 Oct 2026.
 
 Lindsey Herbert is a techno and house artist based in United States of America, with 116 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Richie Hawtin, PLEASURES (US) and Decoder. Next up: Marble Bar, Detroit on Fri 16 Oct.
 
@@ -31,4 +31,4 @@ Lindsey Herbert is a techno and house artist based in United States of America, 
 
 Richie Hawtin, PLEASURES (US), Decoder
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lindseyherbert/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lindseyherbert/)*

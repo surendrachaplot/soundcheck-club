@@ -1,6 +1,6 @@
 # Rene Engel
 
-Rene Engel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Het Dorp, Amsterdam on Sat, 24 Oct 2026.
+Rene Engel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Het Dorp, Amsterdam on Sat, 24 Oct 2026.
 
 Rene Engel is a techno and house artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam. Often billed alongside Hightower, Mark Mywords and OswaldDJ. Next up: Het Dorp, Amsterdam on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Rene Engel is a techno and house artist based in Netherlands, with 7 gigs on sou
 
 Hightower, Mark Mywords, OswaldDJ
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reneengel/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reneengel/)*

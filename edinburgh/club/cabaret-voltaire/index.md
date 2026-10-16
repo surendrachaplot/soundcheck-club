@@ -1,6 +1,6 @@
 # Cabaret Voltaire
 
-Cabaret Voltaire is a music venue in Edinburgh with 13 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "FLY - Cam Stockman - Edinburgh" on Fri, 16 Oct 2026.
+Cabaret Voltaire is a music venue in Edinburgh with 13 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "FLY - Cam Stockman - Edinburgh" on Fri, 16 Oct 2026.
 
 Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 13 upcoming gigs, with line-ups including Bakey, Becca Egan, Cam Stockman and Casi (UK) and 2 more. See dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 13 upcoming
 
 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom, Edinburgh
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*

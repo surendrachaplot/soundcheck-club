@@ -1,6 +1,6 @@
 # Muerte Lenta
 
-Muerte Lenta is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 4 Nov 2026.
+Muerte Lenta is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 4 Nov 2026.
 
 Muerte Lenta is a techno and ebm artist based in United States of America, with 35 gigs on soundcheck across New York City and Tbilisi. Often billed alongside DREAMINSLOW, DJ Sour and Umfang. Next up: Bossa Nova Civic Club, New York City on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Muerte Lenta is a techno and ebm artist based in United States of America, with 
 
 DREAMINSLOW, DJ Sour, Umfang
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muertelenta/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muertelenta/)*

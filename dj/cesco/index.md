@@ -1,6 +1,6 @@
 # Cesco
 
-Cesco is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at The Momentary, Arkansas on Thu, 22 Oct 2026.
+Cesco is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Momentary, Arkansas on Thu, 22 Oct 2026.
 
 Cesco is a drum & bass and bass artist based in Italy, with 62 gigs on soundcheck across Amsterdam, Arkansas, Austin and Birmingham and 25 more. Often billed alongside SP:MC, Alix Perez and Monty. Next up: The Momentary, Arkansas on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Cesco is a drum & bass and bass artist based in Italy, with 62 gigs on soundchec
 
 SP:MC, Alix Perez, Monty
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cesco/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cesco/)*

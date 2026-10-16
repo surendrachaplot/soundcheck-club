@@ -1,6 +1,6 @@
 # Unit 58
 
-Unit 58 is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Club Citrus: IAMBP, Oh Henry, Liam J" on Fri, 16 Oct 2026.
+Unit 58 is a music venue in London with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Club Citrus: IAMBP, Oh Henry, Liam J" on Fri, 16 Oct 2026.
 
 Unit 58 is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Adam Curtain, Al Gray, boogielou and Grace Sands and 2 more. See dates, start times and who's playing. Unit 58, Millmead Industrial Estate, Mill Mead Road, London, N17 9QU, UK.
 
@@ -18,4 +18,4 @@ Unit 58 is a music venue in London listed on soundcheck. 5 upcoming gigs, with l
 
 Unit 58, Millmead Industrial Estate, Mill Mead Road, London, N17 9QU, UK, London
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-58/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-58/)*

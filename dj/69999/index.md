@@ -1,6 +1,6 @@
 # 69999
 
-69999 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Homage Brewing, Los Angeles on Fri, 16 Oct 2026.
+69999 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Homage Brewing, Los Angeles on Fri, 16 Oct 2026.
 
 69999 is a techno and house artist, with 8 gigs on soundcheck across Los Angeles. Often billed alongside Bryce Byrd, Lorenzo Daniels and Christopher Fodera. Next up: Homage Brewing, Los Angeles on Fri 16 Oct.
 
@@ -24,4 +24,4 @@
 
 Bryce Byrd, Lorenzo Daniels, Christopher Fodera
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/69999/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/69999/)*

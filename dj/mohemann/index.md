@@ -1,6 +1,6 @@
 # Mohemann
 
-Mohemann is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at OIL Club, Shenzhen on Fri, 16 Oct 2026.
+Mohemann is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at OIL Club, Shenzhen on Fri, 16 Oct 2026.
 
 Mohemann is a techno and club artist, with 11 gigs on soundcheck across Düsseldorf, Osaka, Seoul and Shenzhen and 1 more. Often billed alongside T.K.L, DANDAN and Fatalis. Next up: OIL Club, Shenzhen on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Mohemann is a techno and club artist, with 11 gigs on soundcheck across Düsseld
 
 T.K.L, DANDAN, Fatalis
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mohemann/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mohemann/)*

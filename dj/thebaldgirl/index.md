@@ -1,6 +1,6 @@
 # the bald girl
 
-the bald girl is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Le Red Room, Montreal on Fri, 16 Oct 2026.
+the bald girl is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Le Red Room, Montreal on Fri, 16 Oct 2026.
 
 the bald girl is a hardcore and gabber artist based in Canada, with 43 gigs on soundcheck across Montreal and Toronto. Often billed alongside Outback, Baby Bimbo and Mowie. Next up: Le Red Room, Montreal on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ the bald girl is a hardcore and gabber artist based in Canada, with 43 gigs on s
 
 Outback, Baby Bimbo, Mowie (2)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebaldgirl/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebaldgirl/)*

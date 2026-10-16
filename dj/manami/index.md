@@ -1,6 +1,6 @@
 # Manami
 
-Manami is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at San Francisco, Amsterdam on Wed, 21 Oct 2026.
+Manami is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at San Francisco, Amsterdam on Wed, 21 Oct 2026.
 
 Manami is a house and techno artist, with 98 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 24 more. Often billed alongside Amaliah, Beatrice M. and KT. Next up: San Francisco, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Manami is a house and techno artist, with 98 gigs on soundcheck across Amsterdam
 
 Amaliah, Beatrice M., KT
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manami/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manami/)*

@@ -1,20 +1,20 @@
 # André Galluzzi
 
-André Galluzzi is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Georgia Bar, Berlin on Thu, 15 Oct 2026.
+André Galluzzi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Waterhouse Studios, Amsterdam on Sun, 25 Oct 2026.
 
-André Galluzzi is a house and techno artist based in Germany, with 74 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside Sven Vath, Maurizio Schmitz and Dana Ruh. Next up: Georgia Bar, Berlin on Thu 15 Oct.
+André Galluzzi is a house and techno artist based in Germany, with 74 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside Sven Vath, Maurizio Schmitz and Dana Ruh. Next up: Waterhouse Studios, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Georgia Bar | Berlin |
 | Sun, 25 Oct 2026 | Waterhouse Studios | Amsterdam |
 | Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 7 Nov 2026 | Giselle | Düsseldorf |
 
 ## Recently played
 
+- Georgia Bar, Berlin · Thu, 15 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 22 Aug 2026
 - Club der Visionaere, Berlin · Sun, 9 Aug 2026
 - Fridas Pier, Stuttgart · Sun, 2 Aug 2026
@@ -22,10 +22,9 @@ André Galluzzi is a house and techno artist based in Germany, with 74 gigs on s
 - Les Enfants Brillants, Barcelona · Sat, 18 Jul 2026
 - Club der Visionaere, Berlin · Fri, 26 Jun 2026
 - Sparta Schwimmclub, Frankfurt · Sun, 21 Jun 2026
-- Georgia Bar, Berlin · Thu, 11 Jun 2026
 
 ## Shares bills with
 
 Sven Vath, Maurizio Schmitz, Dana Ruh
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andregalluzzi/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andregalluzzi/)*

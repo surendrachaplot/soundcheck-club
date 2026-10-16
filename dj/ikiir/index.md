@@ -1,6 +1,6 @@
 # IKIIR
 
-IKIIR is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Gaffe, London on Sat, 17 Oct 2026.
+IKIIR is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Gaffe, London on Sat, 17 Oct 2026.
 
 IKIIR is a techno and house artist based in Italy, with 37 gigs on soundcheck across London and Milan. Often billed alongside ARMANDO, Hertz Collision and Luca Armando. Next up: Gaffe, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ IKIIR is a techno and house artist based in Italy, with 37 gigs on soundcheck ac
 
 ARMANDO, Hertz Collision, Luca Armando
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ikiir/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ikiir/)*

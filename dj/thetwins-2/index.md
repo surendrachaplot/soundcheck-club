@@ -1,6 +1,6 @@
 # The Twins (waitareyoutwins)
 
-The Twins (waitareyoutwins) is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Parallel, Amsterdam on Thu, 22 Oct 2026.
+The Twins (waitareyoutwins) is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Parallel, Amsterdam on Thu, 22 Oct 2026.
 
 The Twins (waitareyoutwins) is an experimental and ambient artist based in United Kingdom, with 13 gigs on soundcheck across Amsterdam, London, Manchester and Paris and 1 more. Often billed alongside amil raja, Kamixlo and 3DMA. Next up: Parallel, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ The Twins (waitareyoutwins) is an experimental and ambient artist based in Unite
 
 amil raja, Kamixlo, 3DMA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thetwins-2/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thetwins-2/)*

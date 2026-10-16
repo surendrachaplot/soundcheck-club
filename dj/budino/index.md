@@ -1,6 +1,6 @@
 # Budino
 
-Budino is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Printhouse, Munich on Sat, 17 Oct 2026.
+Budino is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Printhouse, Munich on Sat, 17 Oct 2026.
 
 Budino is a house and techno artist based in Italy, with 163 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 41 more. Often billed alongside Massimiliano Pagliara, Gabrielle Kwarteng and Cormac. Next up: Printhouse, Munich on Sat 17 Oct.
 
@@ -36,4 +36,4 @@ Budino is a house and techno artist based in Italy, with 163 gigs on soundcheck 
 
 Massimiliano Pagliara, Gabrielle Kwarteng, Cormac
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/budino/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/budino/)*

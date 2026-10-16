@@ -1,14 +1,15 @@
 # GI.O
 
-GI.O is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+GI.O is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
-GI.O is a techno and trance artist based in Brazil, with 77 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 14 more. Often billed alongside Cara Elizabeth, The Jakob Sister and A.N.I.. Next up: Renate, Berlin on Fri 16 Oct.
+GI.O is a techno and trance artist based in Brazil, with 78 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 14 more. Often billed alongside Cara Elizabeth, The Jakob Sister and A.N.I.. Next up: Renate, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Renate | Berlin |
+| Sat, 14 Nov 2026 | FVTVR | Paris |
 | Fri, 20 Nov 2026 | Südpol | Hamburg |
 
 ## Recently played
@@ -26,4 +27,4 @@ GI.O is a techno and trance artist based in Brazil, with 77 gigs on soundcheck a
 
 Cara Elizabeth, The Jakob Sister, A.N.I.
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gio/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gio/)*

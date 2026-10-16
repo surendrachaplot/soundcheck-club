@@ -1,6 +1,6 @@
 # Chaos In The CBD
 
-Chaos In The CBD is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Kapsule, Liverpool on Sat, 24 Oct 2026.
+Chaos In The CBD is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Kapsule, Liverpool on Sat, 24 Oct 2026.
 
 Chaos In The CBD is a house and techno artist based in New Zealand, with 218 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 57 more. Often billed alongside Sally C, Seth Troxler and Ben UFO. Next up: Kapsule, Liverpool on Sat 24 Oct.
 
@@ -33,4 +33,4 @@ Chaos In The CBD is a house and techno artist based in New Zealand, with 218 gig
 
 Sally C, Seth Troxler, Ben UFO
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosinthecbd/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosinthecbd/)*

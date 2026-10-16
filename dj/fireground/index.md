@@ -1,6 +1,6 @@
 # Fireground
 
-Fireground is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Jasna 1, Warsaw on Fri, 23 Oct 2026.
+Fireground is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Jasna 1, Warsaw on Fri, 23 Oct 2026.
 
 Fireground is a techno and house artist based in Italy, with 70 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Zenker Brothers, Stenny and Ben Sims. Next up: Jasna 1, Warsaw on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Fireground is a techno and house artist based in Italy, with 70 gigs on soundche
 
 Zenker Brothers, Stenny, Ben Sims
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fireground/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fireground/)*

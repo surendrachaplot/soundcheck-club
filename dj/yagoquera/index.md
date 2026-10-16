@@ -1,6 +1,6 @@
 # Yago Quera
 
-Yago Quera is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Opposite, Barcelona on Fri, 30 Oct 2026.
+Yago Quera is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Opposite, Barcelona on Fri, 30 Oct 2026.
 
 Yago Quera is a house and tech house artist based in Spain, with 9 gigs on soundcheck across Barcelona and New York City. Often billed alongside Adria (ES), Pau Rosés and Chuwee. Next up: Opposite, Barcelona on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Yago Quera is a house and tech house artist based in Spain, with 9 gigs on sound
 
 Adria (ES), Pau Rosés, Chuwee
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yagoquera/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yagoquera/)*

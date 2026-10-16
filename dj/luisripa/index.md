@@ -1,6 +1,6 @@
 # Luis Ripa
 
-Luis Ripa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 16 Oct 2026.
+Luis Ripa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 16 Oct 2026.
 
 Luis Ripa is a house and techno artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Leeds and The Hague. Often billed alongside Mees Mattern, Khun and Dan Dusty. Next up: Shelter Amsterdam, Amsterdam on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Luis Ripa is a house and techno artist based in Netherlands, with 20 gigs on sou
 
 Mees Mattern, Khun, Dan Dusty
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luisripa/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luisripa/)*

@@ -1,13 +1,14 @@
 # Useless Co.
 
-Useless Co. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at 2ten, Athens on Sat, 17 Oct 2026.
+Useless Co. is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Crust Basement, Athens on Fri, 16 Oct 2026.
 
-Useless Co. is a house and techno artist, with 66 gigs on soundcheck across Athens, Barcelona, Greece and Turin. Often billed alongside Nikolas Gale, Bonso and ClubKid. Next up: 2ten, Athens on Sat 17 Oct.
+Useless Co. is a house and techno artist, with 67 gigs on soundcheck across Athens, Barcelona, Greece and Turin. Often billed alongside Nikolas Gale, Bonso and ClubKid. Next up: Crust Basement, Athens on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Crust Basement | Athens |
 | Sat, 17 Oct 2026 | 2ten | Athens |
 
 ## Recently played
@@ -25,4 +26,4 @@ Useless Co. is a house and techno artist, with 66 gigs on soundcheck across Athe
 
 Nikolas Gale, Bonso, ClubKid
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uselessco./)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uselessco./)*

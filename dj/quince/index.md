@@ -1,6 +1,6 @@
 # Quince
 
-Quince is a Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Slay, Glasgow on Fri, 11 Dec 2026.
+Quince is a Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Slay, Glasgow on Fri, 11 Dec 2026.
 
 Quince is a trance artist based in Netherlands, with 8 gigs on soundcheck across Berlin, Glasgow, Madrid and Rotterdam. Often billed alongside H1pnos1s, Da Terror and Sandwicho. Next up: Slay, Glasgow on Fri 11 Dec.
 
@@ -24,4 +24,4 @@ Quince is a trance artist based in Netherlands, with 8 gigs on soundcheck across
 
 H1pnos1s, Da Terror, Sandwicho
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quince/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quince/)*

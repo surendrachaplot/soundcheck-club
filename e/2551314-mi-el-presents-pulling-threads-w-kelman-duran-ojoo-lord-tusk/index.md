@@ -1,6 +1,6 @@
 # mi-el presents Pulling Threads w/ Kelman Duran, ojoo, Lord Tusk at Ormside Projects
 
-mi-el presents Pulling Threads w/ Kelman Duran, ojoo, Lord Tusk at Ormside Projects on Fri 30 Oct, London. 4 artists: Kelman Duran, Lord Tusk, mi-el and ojoo. See the line-up on soundcheck.
+mi-el presents Pulling Threads w/ Kelman Duran, ojoo, Lord Tusk at Ormside Projects on Fri 30 Oct, London. 4 artists: Kelman Duran, Lord Tusk, mi-el and ojoo. Dub and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

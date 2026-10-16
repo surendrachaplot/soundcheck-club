@@ -1,6 +1,6 @@
 # Selene (2)
 
-Selene (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Sat, 24 Oct 2026.
+Selene (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Sat, 24 Oct 2026.
 
 Selene is a techno and house artist, with 16 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and Milan and 3 more. Often billed alongside Carmen Lisa, MYRA (NL) and Paula Sanz. Next up: Amsterdams Most Wanted, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Selene is a techno and house artist, with 16 gigs on soundcheck across Amsterdam
 
 Carmen Lisa (2), MYRA (NL), Paula Sanz
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selene-2/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selene-2/)*

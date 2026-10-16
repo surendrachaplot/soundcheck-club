@@ -1,6 +1,6 @@
 # HOPESTARXX
 
-HOPESTARXX is a Club and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Deep End, New York City on Fri, 16 Oct 2026.
+HOPESTARXX is a Club and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Deep End, New York City on Fri, 16 Oct 2026.
 
 HOPESTARXX is a club and electronica artist based in United States of America, with 4 gigs on soundcheck across New York City. Often billed alongside Niyx, AG and BRATATTACK. Next up: The Deep End, New York City on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ HOPESTARXX is a club and electronica artist based in United States of America, w
 
 Niyx, AG (1), BRATATTACK
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hopestarxx/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hopestarxx/)*

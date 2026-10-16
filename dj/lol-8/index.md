@@ -1,6 +1,6 @@
 # lol (8)
 
-lol (8) is a Bass and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Sauna Social Club, London on Sat, 24 Oct 2026.
+lol (8) is a Bass and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Sauna Social Club, London on Sat, 24 Oct 2026.
 
 lol is a bass and baile funk artist, with 14 gigs on soundcheck across Berlin, Leeds, London and Manchester. Often billed alongside Princess Elf Bar, DJ Mango and BSB. Next up: Sauna Social Club, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ lol is a bass and baile funk artist, with 14 gigs on soundcheck across Berlin, L
 
 Princess Elf Bar, DJ Mango, BSB (2)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lol-8/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lol-8/)*

@@ -1,6 +1,6 @@
 # ARMANDO
 
-ARMANDO is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Gaffe, London on Sat, 17 Oct 2026.
+ARMANDO is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Gaffe, London on Sat, 17 Oct 2026.
 
 ARMANDO is a techno and house artist based in Portugal, with 35 gigs on soundcheck across Berlin, London, Milan and Stuttgart. Often billed alongside IKIIR, Hertz Collision and Lady Goccia. Next up: Gaffe, London on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ ARMANDO is a techno and house artist based in Portugal, with 35 gigs on soundche
 
 IKIIR, Hertz Collision, Lady Goccia
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armando/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armando/)*

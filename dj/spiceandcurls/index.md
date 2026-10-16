@@ -1,6 +1,6 @@
 # Spice & Curls
 
-Spice & Curls is a Baile Funk and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Motel Campo, Geneva on Fri, 16 Oct 2026.
+Spice & Curls is a Baile Funk and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Motel Campo, Geneva on Fri, 16 Oct 2026.
 
 Spice & Curls are a baile funk and dancehall duo based in Switzerland, with 41 gigs on soundcheck across Geneva. Often billed alongside Bony Fly, Hirma and OKRASHH. Next up: Motel Campo, Geneva on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Spice & Curls are a baile funk and dancehall duo based in Switzerland, with 41 g
 
 Bony Fly, Hirma, OKRASHH
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spiceandcurls/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spiceandcurls/)*

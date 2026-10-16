@@ -1,6 +1,6 @@
 # Sarah Wild
 
-Sarah Wild is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+Sarah Wild is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
 Sarah Wild is a house and techno artist based in Germany, with 106 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 12 more. Often billed alongside Kotoe, Britta Arnold and Chris Schwarzwälder. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ Sarah Wild is a house and techno artist based in Germany, with 106 gigs on sound
 
 Kotoe, Britta Arnold, Chris Schwarzwälder
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahwild/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahwild/)*

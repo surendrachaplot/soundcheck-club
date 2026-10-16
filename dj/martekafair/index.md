@@ -1,6 +1,6 @@
 # Marteka Fair
 
-Marteka Fair is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+Marteka Fair is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
 
 Marteka Fair is a techno and minimal artist based in United States of America, with 29 gigs on soundcheck across Berlin, Boston, Chicago and Detroit and 4 more. Often billed alongside Matthew Cha, JADE CAO and RAH (US). Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Marteka Fair is a techno and minimal artist based in United States of America, w
 
 Matthew Cha, JADE CAO, RAH (US)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martekafair/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martekafair/)*

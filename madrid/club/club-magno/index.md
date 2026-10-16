@@ -1,6 +1,6 @@
 # Club Magno
 
-Club Magno is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Antidoto Club: Paralich + Klandestina" on Thu, 22 Oct 2026.
+Club Magno is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Antidoto Club: Paralich + Klandestina" on Thu, 22 Oct 2026.
 
 Club Magno is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including DJ Co.kr, Albal, Atrâm and Diego Armando and 2 more. See dates, start times and who's playing. c. de cedaceros 7, Madrid.
 
@@ -23,4 +23,4 @@ Club Magno is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, wi
 
 c. de cedaceros 7, Madrid, Madrid
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-magno/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-magno/)*

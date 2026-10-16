@@ -1,10 +1,10 @@
 # I DZIEŃ ŚWIĄT at Smolna
 
-I DZIEŃ ŚWIĄT at Smolna on Sat 26 Dec, Warsaw. Techno and House. See the line-up on soundcheck.
+I DZIEŃ ŚWIĄT at Smolna on Fri 25 Dec, Warsaw. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 26 Dec 2026 |
+| Date | Fri, 25 Dec 2026 |
 | Venue | Smolna |
 | City | Warsaw |
 

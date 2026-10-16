@@ -1,6 +1,6 @@
 # Bluemarina
 
-Bluemarina is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at THE MAGICK BAR, Rome on Fri, 16 Oct 2026.
+Bluemarina is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at THE MAGICK BAR, Rome on Fri, 16 Oct 2026.
 
 Bluemarina is an experimental and techno artist based in Italy, with 27 gigs on soundcheck across Milan, Naples, Rome and Turin. Often billed alongside Ettore Corsi, Gattonero and Hugo Sanchez. Next up: THE MAGICK BAR, Rome on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Bluemarina is an experimental and techno artist based in Italy, with 27 gigs on 
 
 Ettore Corsi, Gattonero, Hugo Sanchez
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bluemarina/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bluemarina/)*

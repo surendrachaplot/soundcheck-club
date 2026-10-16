@@ -1,6 +1,6 @@
-# Fuse presents Life Extension w/ Partiboi69, LB aka LABAT & SALOME at Fuse
+# Fuse presents: Life Extension w/ Partiboi69, LB aka LABAT & SALOME at Fuse
 
-Fuse presents Life Extension w/ Partiboi69, LB aka LABAT & SALOME on Fri 20 Nov, Brussels. 3 artists: LB aka LABAT, Partiboi69 and SALOME. Trance. See the line-up on soundcheck.
+Fuse presents: Life Extension w/ Partiboi69, LB aka LABAT & SALOME on Fri 20 Nov, Brussels. 3 artists: LB aka LABAT, Partiboi69 and SALOME. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

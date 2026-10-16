@@ -1,6 +1,6 @@
 # Dominique Danielle
 
-Dominique Danielle is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Jungla London, London on Sat, 31 Oct 2026.
+Dominique Danielle is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Jungla London, London on Sat, 31 Oct 2026.
 
 Dominique Danielle is a deep house and house artist based in United Kingdom, with 29 gigs on soundcheck across Birmingham and London. Often billed alongside Mark Radford, Lance Morgan and B3. Next up: Jungla London, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Dominique Danielle is a deep house and house artist based in United Kingdom, wit
 
 Mark Radford, Lance Morgan, B3
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dominiquedanielle/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dominiquedanielle/)*

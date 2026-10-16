@@ -1,6 +1,6 @@
 # Kormos
 
-Kormos is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 18 Oct 2026.
+Kormos is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 18 Oct 2026.
 
 Kormos is a house and minimal artist based in Turkey, with 18 gigs on soundcheck across Budapest, London, Prague and Vienna. Often billed alongside Nick Hanzo, Sam Gittis and Nizar Sarakbi. Next up: Starlane Pizza Bar, London on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Kormos is a house and minimal artist based in Turkey, with 18 gigs on soundcheck
 
 Nick Hanzo, Sam Gittis, Nizar Sarakbi
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kormos/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kormos/)*

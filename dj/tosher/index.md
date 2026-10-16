@@ -1,14 +1,15 @@
 # Tosher
 
-Tosher is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at The Berkeley Suite, Glasgow on Thu, 22 Oct 2026.
+Tosher is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Berkeley Suite, Glasgow on Thu, 22 Oct 2026.
 
-Tosher is a house and techno artist based in United Kingdom, with 11 gigs on soundcheck across Dundee, Edinburgh and Glasgow. Often billed alongside Brody James, Sweeney and Big Miz. Next up: The Berkeley Suite, Glasgow on Thu 22 Oct.
+Tosher is a house and techno artist based in United Kingdom, with 12 gigs on soundcheck across Dundee, Edinburgh and Glasgow. Often billed alongside Brody James, Sweeney and Big Miz. Next up: The Berkeley Suite, Glasgow on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | The Berkeley Suite | Glasgow |
+| Sat, 31 Oct 2026 | The Penthouse | Glasgow |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Tosher is a house and techno artist based in United Kingdom, with 11 gigs on sou
 
 Brody James, Sweeney, Big Miz
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tosher/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tosher/)*

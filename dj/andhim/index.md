@@ -1,6 +1,6 @@
 # Andhim
 
-Andhim is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Bellagio Shanghai, Shanghai on Fri, 16 Oct 2026.
+Andhim is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bellagio Shanghai, Shanghai on Fri, 16 Oct 2026.
 
 Andhim is a house and techno artist based in Germany, with 119 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 34 more. Often billed alongside Rafael Da Cruz, Claptone and HOSH. Next up: Bellagio Shanghai, Shanghai on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Andhim is a house and techno artist based in Germany, with 119 gigs on soundchec
 
 Rafael Da Cruz, Claptone, HOSH
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andhim/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andhim/)*

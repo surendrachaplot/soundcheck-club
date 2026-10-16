@@ -1,6 +1,6 @@
 # geneva
 
-geneva is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at La Marbrerie, Paris on Fri, 4 Dec 2026.
+geneva is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at La Marbrerie, Paris on Fri, 4 Dec 2026.
 
 geneva is a house and deep house artist, with 13 gigs on soundcheck across Barcelona, Berlin, Geneva and Madrid and 1 more. Often billed alongside Adnan Suara, Davide Dev and Kapote. Next up: La Marbrerie, Paris on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ geneva is a house and deep house artist, with 13 gigs on soundcheck across Barce
 
 Adnan Suara, Davide Dev, Kapote
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geneva/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geneva/)*

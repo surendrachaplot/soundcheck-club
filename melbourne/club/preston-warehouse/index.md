@@ -1,6 +1,6 @@
 # Preston Warehouse
 
-Preston Warehouse is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "smalltown with Gerd Janson B2B Marcel Dettmann (5hrs)" on Sat, 21 Nov 2026.
+Preston Warehouse is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "smalltown with Gerd Janson B2B Marcel Dettmann (5hrs)" on Sat, 21 Nov 2026.
 
 Preston Warehouse is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, with line-ups including Gerd Janson, LB aka LABAT, Lex and Marcel Dettmann and 2 more. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Preston Warehouse is a music venue in Melbourne listed on soundcheck. 4 upcoming
 | Sat, 5 Dec 2026 | VTSS Melbourne | VTSS |
 | Sat, 23 Jan 2027 | smalltown with LB aka LABAT & Ollie Lishman | LB aka LABAT, Mikalah Watego, Ollie Lishman, Prizefight |
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/preston-warehouse/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/preston-warehouse/)*

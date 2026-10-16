@@ -1,6 +1,6 @@
 # Erin Page
 
-Erin Page is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Secret Location, New York City on Fri, 6 Nov 2026.
+Erin Page is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Secret Location, New York City on Fri, 6 Nov 2026.
 
 Erin Page is a house and techno artist based in United States of America, with 18 gigs on soundcheck across Miami, New York City and Washington DC. Often billed alongside shanty mane, Cobrastrk and DJ AstroNat. Next up: TBA - Secret Location, New York City on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Erin Page is a house and techno artist based in United States of America, with 1
 
 shanty mane, Cobrastrk, DJ AstroNat
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erinpage/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erinpage/)*

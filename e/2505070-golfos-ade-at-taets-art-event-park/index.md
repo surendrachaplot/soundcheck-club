@@ -1,6 +1,6 @@
 # GOLFOS [ADE] at Taets Art & Event Park
 
-GOLFOS [ADE] at Taets Art & Event Park on Sun 25 Oct, Amsterdam. 4 artists: Brunello, Dennis Cruz, Matisa and PAWSA. House. See the line-up on soundcheck.
+GOLFOS [ADE] at Taets Art & Event Park on Sun 25 Oct, Amsterdam. 4 artists: Brunello, Dennis Cruz, Matisa and PAWSA. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

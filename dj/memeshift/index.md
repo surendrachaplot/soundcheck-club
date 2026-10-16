@@ -1,6 +1,6 @@
 # Memeshift
 
-Memeshift is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Giri, Berlin on Wed, 21 Oct 2026.
+Memeshift is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Giri, Berlin on Wed, 21 Oct 2026.
 
 Memeshift is an experimental and electronica artist, with 15 gigs on soundcheck across Berlin, Glasgow and London. Often billed alongside BLUME, Dmytro Filatov and Leng Seong. Next up: Giri, Berlin on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Memeshift is an experimental and electronica artist, with 15 gigs on soundcheck 
 
 BLUME, Dmytro Filatov, Leng Seong
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memeshift/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memeshift/)*

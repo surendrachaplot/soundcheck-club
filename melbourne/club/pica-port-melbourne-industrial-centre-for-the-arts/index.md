@@ -1,6 +1,6 @@
 # Pica (Port Melbourne Industrial Centre for the Arts)
 
-Pica (Port Melbourne Industrial Centre for the Arts) is a music venue in Melbourne with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Sonny Fodera 'can we do it all again?' AU Tour" on Fri, 16 Oct 2026.
+Pica (Port Melbourne Industrial Centre for the Arts) is a music venue in Melbourne with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Sonny Fodera 'can we do it all again?' AU Tour" on Fri, 16 Oct 2026.
 
 Pica (Port Melbourne Industrial Centre for the Arts) is a music venue in Melbourne listed on soundcheck. 5 upcoming gigs, with line-ups including AKEYLAH, Azyr, Bailey Ibbs and Ben Hemsley and 2 more. See dates, start times and who's playing. 1 Woolboard Rd, Port Melbourne VIC 3207.
 
@@ -18,4 +18,4 @@ Pica (Port Melbourne Industrial Centre for the Arts) is a music venue in Melbour
 
 1 Woolboard Rd, Port Melbourne VIC 3207, Melbourne
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/pica-port-melbourne-industrial-centre-for-the-arts/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/pica-port-melbourne-industrial-centre-for-the-arts/)*

@@ -1,6 +1,6 @@
 # Djoon Paris x Canvas Nights [ADE] with Young Pulse & friends at Canvas
 
-Djoon Paris x Canvas Nights [ADE] with Young Pulse & friends on Sat 24 Oct, Amsterdam. 1 artist: Young Pulse. Disco and Afro House. See the line-up on soundcheck.
+Djoon Paris x Canvas Nights [ADE] with Young Pulse & friends on Sat 24 Oct, Amsterdam. 5 artists: Donna Gibson, Hugo LX, Jamie 3:26 and MiNNA and 1 more. Disco and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,10 @@ Djoon Paris x Canvas Nights [ADE] with Young Pulse & friends on Sat 24 Oct, Amst
 
 ## Line-up
 
+- Donna Gibson
+- Hugo LX
+- Jamie 3:26
+- MiNNA
 - Young Pulse
 
 *Source: [soundcheck](https://soundcheck.club/e/2516701-djoon-paris-x-canvas-nights-ade-with-young-pulse-friends-at/)*

@@ -1,6 +1,6 @@
 # Carl Craig & Octave One (Live) at TBA
 
-Carl Craig & Octave One (Live) at TBA on Sat 17 Oct, Los Angeles. 3 artists: Carl Craig, Octave One and Symonne. Techno and House. See the line-up on soundcheck.
+Carl Craig & Octave One (Live) at TBA on Sat 17 Oct, Los Angeles. 3 artists: Carl Craig, Octave One and Symønne. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,6 @@ Carl Craig & Octave One (Live) at TBA on Sat 17 Oct, Los Angeles. 3 artists: Car
 
 - Carl Craig
 - Octave One
-- Symonne
+- Symønne
 
 *Source: [soundcheck](https://soundcheck.club/e/2553888-carl-craig-octave-one-live-at-tba/)*

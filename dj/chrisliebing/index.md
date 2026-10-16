@@ -1,6 +1,6 @@
 # Chris Liebing
 
-Chris Liebing is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 17 Oct 2026.
+Chris Liebing is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 17 Oct 2026.
 
 Chris Liebing is a techno and house artist based in Germany, with 196 gigs on soundcheck across Amsterdam, Antwerp, Athens and Augsburg and 59 more. Often billed alongside Speedy J, Daria Kolosova and FJAAK. Next up: RSO.BERLIN, Berlin on Sat 17 Oct.
 
@@ -36,4 +36,4 @@ Chris Liebing is a techno and house artist based in Germany, with 196 gigs on so
 
 Speedy J, Daria Kolosova, FJAAK
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliebing/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliebing/)*

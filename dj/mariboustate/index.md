@@ -1,8 +1,8 @@
 # Maribou State
 
-Maribou State is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Fuse, Brussels on Fri, 16 Oct 2026.
+Maribou State is a House and Electronica artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Fuse, Brussels on Fri, 16 Oct 2026.
 
-Maribou State is a house and disco artist based in United Kingdom, with 41 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 22 more. Often billed alongside CHRIS STASSY, Adam Ten and Blawan. Next up: Fuse, Brussels on Fri 16 Oct.
+Maribou State is a house and electronica artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 22 more. Often billed alongside CHRIS STASSY, Adam Ten and Blawan. Next up: Fuse, Brussels on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Maribou State is a house and disco artist based in United Kingdom, with 41 gigs 
 | Sat, 17 Oct 2026 | BAR15 | Stockholm |
 | Fri, 6 Nov 2026 | Jaeger | Oslo |
 | Sat, 7 Nov 2026 | DR Koncerthuset | Copenhagen |
+| Fri, 20 Nov 2026 | Nitsa Club | Barcelona |
 | Sat, 21 Nov 2026 | Centre Point | Dublin |
 
 ## Recently played
@@ -29,4 +30,4 @@ Maribou State is a house and disco artist based in United Kingdom, with 41 gigs 
 
 CHRIS STASSY, Adam Ten, Blawan
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariboustate/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariboustate/)*

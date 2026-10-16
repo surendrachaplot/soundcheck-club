@@ -1,6 +1,6 @@
 # CIRCOLO BOTULINO
 
-CIRCOLO BOTULINO is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Confusion in sex pres.'EXTREME' with Leo Bufera" on Fri, 16 Oct 2026.
+CIRCOLO BOTULINO is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Confusion in sex pres.'EXTREME' with Leo Bufera" on Fri, 16 Oct 2026.
 
 CIRCOLO BOTULINO is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including DJ PIRO, EMME, Leo Bufera and OTHERSIDE (ITA) and 1 more. See dates, start times and who's playing. Via Plezzo, 16, 20132 Milano MI, Italy.
 
@@ -15,4 +15,4 @@ CIRCOLO BOTULINO is a music venue in Milan listed on soundcheck. 2 upcoming gigs
 
 Via Plezzo, 16, 20132 Milano MI, Italy, Milan
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-botulino/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-botulino/)*

@@ -1,6 +1,6 @@
 # lali:
 
-lali: is a Experimental and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Ormside Projects, London on Sat, 17 Oct 2026.
+lali: is a Experimental and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Ormside Projects, London on Sat, 17 Oct 2026.
 
 lali: is an experimental and house artist based in United Kingdom, with 13 gigs on soundcheck across London, Manchester and Tokyo. Often billed alongside A Psychic Yes, YELLOWUHURU and YAMARCHY. Next up: Ormside Projects, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ lali: is an experimental and house artist based in United Kingdom, with 13 gigs 
 
 A Psychic Yes, YELLOWUHURU, YAMARCHY
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lali/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lali/)*

@@ -1,6 +1,6 @@
 # Stenny
 
-Stenny is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Bunker, Turin on Fri, 30 Oct 2026.
+Stenny is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bunker, Turin on Fri, 30 Oct 2026.
 
 Stenny is a techno and house artist based in Italy, with 129 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 25 more. Often billed alongside Zenker Brothers, Tasha and Skee Mask. Next up: Bunker, Turin on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Stenny is a techno and house artist based in Italy, with 129 gigs on soundcheck 
 
 Zenker Brothers, Tasha, Skee Mask
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stenny/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stenny/)*

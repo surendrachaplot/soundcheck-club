@@ -1,6 +1,6 @@
 # Nina Las Vegas
 
-Nina Las Vegas is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Milneys, Melbourne on Fri, 16 Oct 2026.
+Nina Las Vegas is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Milneys, Melbourne on Fri, 16 Oct 2026.
 
 Nina Las Vegas is a club and house artist, with 17 gigs on soundcheck across Bali, Denver, Edinburgh and London and 6 more. Often billed alongside dameeeela, Bob Moses and Boys Noize. Next up: Milneys, Melbourne on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Nina Las Vegas is a club and house artist, with 17 gigs on soundcheck across Bal
 
 dameeeela, Bob Moses, Boys Noize
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninalasvegas/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninalasvegas/)*

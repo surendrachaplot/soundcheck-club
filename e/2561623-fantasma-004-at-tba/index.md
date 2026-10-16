@@ -10,6 +10,6 @@ Fantasma 004 at TBA on Fri 27 Nov, London. 1 artist: Alex Parsons. See the line-
 
 ## Line-up
 
-- Alex Parsons (2)
+- Alex Parsons
 
 *Source: [soundcheck](https://soundcheck.club/e/2561623-fantasma-004-at-tba/)*

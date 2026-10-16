@@ -1,6 +1,6 @@
 # CamelPhat ∞ ROXY Prague at Roxy
 
-CamelPhat ∞ ROXY Prague at Roxy on Fri 16 Oct, Prague. 1 artist: CamelPhat. Progressive House and House. See the line-up on soundcheck.
+CamelPhat ∞ ROXY Prague at Roxy on Fri 16 Oct, Prague. 3 artists: Blackloud, CamelPhat and Michael C.. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ CamelPhat ∞ ROXY Prague at Roxy on Fri 16 Oct, Prague. 1 artist: CamelPhat. Pr
 
 ## Line-up
 
+- Blackloud
 - CamelPhat
+- Michael C.
 
 *Source: [soundcheck](https://soundcheck.club/e/2506035-camelphat-roxy-prague-at-roxy/)*

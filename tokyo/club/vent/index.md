@@ -1,6 +1,6 @@
 # VENT
 
-VENT is a music venue in Tokyo with 17 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Ata" on Fri, 16 Oct 2026.
+VENT is a music venue in Tokyo with 17 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Ata" on Fri, 16 Oct 2026.
 
 VENT is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, with line-ups including 5ive, AI, ANNĒ and arow and 2 more. See dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
 
@@ -9,7 +9,7 @@ VENT is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, with line
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Ata | Ata, Dr. Nishimura, Hayato, Kasumisty, Lui (6), Rio (JP) |
-| Sat, 17 Oct 2026 | Petar Dundov / LDG x MIND OFF | Dani Savant, Petar Dundov, Raul (2), Shelly, YUTA, Yama |
+| Sat, 17 Oct 2026 | Petar Dundov / LDG x MIND OFF | Dani Savant, Petar Dundov, Raul (2), Shelly, YAMA(JP/OSK), YUTA |
 | Fri, 23 Oct 2026 | Eric Duncan / DISKO KLUBB | Eric Duncan, HARUTO, Monkey Timers, Rami, YOSHIHAARAA |
 | Sat, 24 Oct 2026 | XDB / PACIFIC MODE x Solstice | 5ive, ChunLi, DJ Healthy, Hue Ray, Joni DJ, KOTSU, XDB, YAMARCHY |
 | Fri, 30 Oct 2026 | Claudio PRC | Claudio PRC, DJ SO, FUJI (3) |
@@ -23,4 +23,4 @@ VENT is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, with line
 
 Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan, Tokyo
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*

@@ -1,6 +1,6 @@
 # Bronka
 
-Bronka is a Baile Funk and Breakbeat artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Lower Third, London on Fri, 16 Oct 2026.
+Bronka is a Baile Funk and Breakbeat artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Lower Third, London on Fri, 16 Oct 2026.
 
 Bronka is a baile funk and breakbeat artist based in Brazil, with 13 gigs on soundcheck across Amsterdam, Barcelona, Cologne and Hamburg and 7 more. Often billed alongside Mango and Ginger, Caio Prince and Carmilla Sioux. Next up: The Lower Third, London on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Bronka is a baile funk and breakbeat artist based in Brazil, with 13 gigs on sou
 
 Mango and Ginger, Caio Prince, Carmilla Sioux
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bronka/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bronka/)*

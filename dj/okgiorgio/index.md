@@ -1,6 +1,6 @@
 # okgiorgio
 
-okgiorgio is a Electronica and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Benelux BAR, Amsterdam on Wed, 21 Oct 2026.
+okgiorgio is a Electronica and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Benelux BAR, Amsterdam on Wed, 21 Oct 2026.
 
 okgiorgio is an electronica and bass artist based in Italy, with 23 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Copenhagen and 7 more. Often billed alongside PARISI, Aurora Halal and Avalon Emerson. Next up: Benelux BAR, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ okgiorgio is an electronica and bass artist based in Italy, with 23 gigs on soun
 
 PARISI, Aurora Halal, Avalon Emerson
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okgiorgio/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okgiorgio/)*

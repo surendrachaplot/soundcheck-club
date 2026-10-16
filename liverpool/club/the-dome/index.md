@@ -1,6 +1,6 @@
 # The Dome
 
-The Dome is a music venue in Liverpool with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Dual Damage Present: Built2Break" on Fri, 16 Oct 2026.
+The Dome is a music venue in Liverpool with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Dual Damage Present: Built2Break" on Fri, 16 Oct 2026.
 
 The Dome is a music venue in Liverpool listed on soundcheck. 6 upcoming gigs, with line-ups including Adam F, bullet tooth, Don't F**k with Disco and Dr Dubplate and 2 more. See dates, start times and who's playing. Grand Central Hall, 35 Renshaw St, Liverpool, L1 2SF, United Kingdom.
 
@@ -19,4 +19,4 @@ The Dome is a music venue in Liverpool listed on soundcheck. 6 upcoming gigs, wi
 
 Grand Central Hall, 35 Renshaw St, Liverpool, L1 2SF, United Kingdom, Liverpool
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/the-dome/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/the-dome/)*

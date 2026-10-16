@@ -1,6 +1,6 @@
 # Silja Ellis
 
-Silja Ellis is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at La Gare / Le Gore, Paris on Fri, 16 Oct 2026.
+Silja Ellis is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at La Gare / Le Gore, Paris on Fri, 16 Oct 2026.
 
 Silja Ellis is a house and deep house artist based in Sweden, with 6 gigs on soundcheck across Paris and Stockholm. Often billed alongside Bogeyman, Aurèle and Kapote. Next up: La Gare / Le Gore, Paris on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Silja Ellis is a house and deep house artist based in Sweden, with 6 gigs on sou
 
 Bogeyman, Aurèle, Kapote
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siljaellis/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siljaellis/)*

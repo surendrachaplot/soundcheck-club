@@ -1,6 +1,6 @@
 # Huamaniser
 
-Huamaniser is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 4 Nov 2026.
+Huamaniser is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 4 Nov 2026.
 
 Huamaniser is a techno and house artist based in Spain, with 55 gigs on soundcheck across Amsterdam, Berlin, Dublin and Ibiza and 4 more. Often billed alongside Cristian Marras, Khloe and Miss Bashful. Next up: Bossa Nova Civic Club, New York City on Wed 4 Nov.
 
@@ -27,4 +27,4 @@ Huamaniser is a techno and house artist based in Spain, with 55 gigs on soundche
 
 Cristian Marras, Khloe, Miss Bashful
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/huamaniser/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/huamaniser/)*

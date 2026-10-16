@@ -1,6 +1,6 @@
 # Amethy
 
-Amethy is a Afro House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
+Amethy is a Afro House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
 
 Amethy is an afro house and tech house artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam and Tallinn. Often billed alongside KARINSMATIC, Corren Cavini and Kitty Marroni. Next up: 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Amethy is an afro house and tech house artist based in Netherlands, with 11 gigs
 
 KARINSMATIC, Corren Cavini, Kitty Marroni
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amethy/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amethy/)*

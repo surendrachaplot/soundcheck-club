@@ -1,6 +1,6 @@
 # ALL ABOARD (CLUB TRAIN) at Amsterdam Central Station
 
-ALL ABOARD (CLUB TRAIN) at Amsterdam Central Station on Fri 23 Oct, Amsterdam. 12 artists: ADEZ, BL3CKSMITH, David Berrie and David Gtronic and 8 more. Techno and Tech House. See the line-up on soundcheck.
+ALL ABOARD (CLUB TRAIN) at Amsterdam Central Station on Fri 23 Oct, Amsterdam. 14 artists: ADEZ, BL3CKSMITH, Dave Soul and David Berrie and 10 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,11 +12,13 @@ ALL ABOARD (CLUB TRAIN) at Amsterdam Central Station on Fri 23 Oct, Amsterdam. 1
 
 - ADEZ
 - BL3CKSMITH
+- Dave Soul
 - David Berrie
 - David Gtronic
 - DJ Skizzo
 - Enzo Siffredi
 - Gerben
+- Ion Ludwig
 - Lele Mas
 - Lucien Foort
 - N4C (1)

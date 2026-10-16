@@ -1,6 +1,6 @@
 # tmk (CZ)
 
-tmk (CZ) is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 17 Oct 2026.
+tmk (CZ) is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 17 Oct 2026.
 
 tmk (CZ) is a techno and electro artist based in Czech Republic, with 60 gigs on soundcheck across London and Prague. Often billed alongside SJ Yellow, Nina Farrina and yo haan. Next up: Ankali & Planeta Za, Prague on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ tmk (CZ) is a techno and electro artist based in Czech Republic, with 60 gigs on
 
 SJ Yellow, Nina Farrina, yo haan
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tmkcz/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tmkcz/)*

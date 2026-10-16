@@ -1,6 +1,6 @@
 # Big Pink
 
-Big Pink is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "BLING: 2000s HIPHOP NIGHT (THROWBACKS)" on Fri, 16 Oct 2026.
+Big Pink is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "BLING: 2000s HIPHOP NIGHT (THROWBACKS)" on Fri, 16 Oct 2026.
 
 Big Pink is a music venue in Detroit listed on soundcheck. 8 upcoming gigs. See dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
 
@@ -21,4 +21,4 @@ Big Pink is a music venue in Detroit listed on soundcheck. 8 upcoming gigs. See 
 
 6440 Wight St, Detroit, MI 48207, USA, Detroit
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*

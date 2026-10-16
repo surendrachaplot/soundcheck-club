@@ -1,6 +1,6 @@
 # NAFIY
 
-NAFIY is a Hip-Hop and R&B artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Cul Sec, Seoul on Fri, 16 Oct 2026.
+NAFIY is a Hip-Hop and R&B artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Cul Sec, Seoul on Fri, 16 Oct 2026.
 
 NAFIY is a hip-hop and r&b artist based in South Korea, with 17 gigs on soundcheck across Seoul. Often billed alongside BIGTER, Yunu and Guno. Next up: Cul Sec, Seoul on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ NAFIY is a hip-hop and r&b artist based in South Korea, with 17 gigs on soundche
 
 BIGTER, Yunu, Guno
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nafiy/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nafiy/)*

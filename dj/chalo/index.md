@@ -1,6 +1,6 @@
 # Chalo
 
-Chalo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Dual, Bangkok on Fri, 16 Oct 2026.
+Chalo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Dual, Bangkok on Fri, 16 Oct 2026.
 
 Chalo is a techno and house artist based in Thailand, with 31 gigs on soundcheck across Bangkok, Seoul, Singapore and Thailand. Often billed alongside Vell, DOTT and Elaheh. Next up: Dual, Bangkok on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Chalo is a techno and house artist based in Thailand, with 31 gigs on soundcheck
 
 Vell, DOTT, Elaheh
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chalo/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chalo/)*

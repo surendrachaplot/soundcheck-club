@@ -1,14 +1,15 @@
 # Bianca
 
-Bianca is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Hall, Tallinn on Fri, 30 Oct 2026.
+Bianca is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Hall, Tallinn on Fri, 30 Oct 2026.
 
-Bianca is a house and tech house artist based in Spain, with 10 gigs on soundcheck across Ghent, Madrid, New York City and San Francisco/Oakland and 1 more. Often billed alongside David Carro, Katja Adrikova and QSLAP. Next up: Hall, Tallinn on Fri 30 Oct.
+Bianca is a house and tech house artist based in Spain, with 11 gigs on soundcheck across Ghent, Madrid, New York City and San Francisco/Oakland and 1 more. Often billed alongside David Carro, Katja Adrikova and QSLAP. Next up: Hall, Tallinn on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Hall | Tallinn |
+| Sat, 7 Nov 2026 | X Private Club | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Bianca is a house and tech house artist based in Spain, with 10 gigs on soundche
 
 David Carro, Katja Adrikova, QSLAP
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bianca/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bianca/)*

@@ -1,8 +1,8 @@
 # The Airliner
 
-The Airliner is a music venue in Los Angeles with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "BAJO w. Jeremy Sole & Captain Planet" on Fri, 16 Oct 2026.
+The Airliner is a music venue in Los Angeles with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "BAJO w. Jeremy Sole & Captain Planet" on Fri, 16 Oct 2026.
 
-The Airliner is a music venue in Los Angeles listed on soundcheck. 7 upcoming gigs, with line-ups including agraybé, Akumen, Andy Oro and Ava Blank and 2 more. See dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
+The Airliner is a music venue in Los Angeles listed on soundcheck. 8 upcoming gigs, with line-ups including agraybé, Akumen, Andy Oro and Ava Blank and 2 more. See dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
 
 ## What's on
 
@@ -13,6 +13,7 @@ The Airliner is a music venue in Los Angeles listed on soundcheck. 7 upcoming gi
 | Fri, 23 Oct 2026 | HAUNTED HOUSE by Made to Move | Akumen, Andy Oro, BB Shaine, No Pressure, TAJ (2), agraybé |
 | Sat, 24 Oct 2026 | Reflections: Jeremey Groove, Donny Dream, Jake B |  |
 | Sun, 25 Oct 2026 | Discostan with Minz, Sidu and Special Guests | Sima&Sidu, discostan |
+| Thu, 5 Nov 2026 | Dazegxd | Dazegxd |
 | Tue, 17 Nov 2026 | VINSON presents: Good Company | VINSON |
 | Fri, 20 Nov 2026 | The One Hundred | Juliet Mendoza, Yazmina |
 
@@ -20,4 +21,4 @@ The Airliner is a music venue in Los Angeles listed on soundcheck. 7 upcoming gi
 
 2419 N Broadway, Los Angeles, CA 90036, Los Angeles
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-airliner/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-airliner/)*

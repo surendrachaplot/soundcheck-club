@@ -1,14 +1,13 @@
 # MEERA (UK)
 
-MEERA (UK) is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Madam, Amsterdam on Fri, 23 Oct 2026.
+MEERA (UK) is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Akhnaton, Amsterdam on Fri, 23 Oct 2026.
 
-MEERA (UK) is a house and afro house artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam, London, Manchester and Munster. Often billed alongside Picep, Simon Alfred and Bradley Skeng. Next up: Madam, Amsterdam on Fri 23 Oct.
+MEERA (UK) is a house and garage artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, London, Manchester and Munster. Often billed alongside Picep, Simon Alfred and Bradley Skeng. Next up: Akhnaton, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Madam | Amsterdam |
 | Fri, 23 Oct 2026 | Akhnaton | Amsterdam |
 | Fri, 23 Oct 2026 | Blauwe Theehuis | Amsterdam |
 | Sat, 31 Oct 2026 | Secret Warehouse | Manchester |
@@ -28,4 +27,4 @@ MEERA (UK) is a house and afro house artist based in United Kingdom, with 31 gig
 
 Picep, Simon Alfred, Bradley Skeng
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meerauk/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meerauk/)*

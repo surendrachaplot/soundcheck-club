@@ -1,14 +1,15 @@
 # Sabrina
 
-Sabrina is a Drum & Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at fabric, London on Fri, 23 Oct 2026.
+Sabrina is a Drum & Bass and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at fabric, London on Fri, 23 Oct 2026.
 
-Sabrina is a drum & bass and electronica artist based in Bolivia, with 34 gigs on soundcheck across Bali, Barcelona, Berlin and Birmingham and 10 more. Often billed alongside Iñigo Vontier, SP:MC and Charlie Tee. Next up: fabric, London on Fri 23 Oct.
+Sabrina is a drum & bass and electronica artist based in Bolivia, with 35 gigs on soundcheck across Bali, Barcelona, Berlin and Birmingham and 10 more. Often billed alongside Iñigo Vontier, SP:MC and Charlie Tee. Next up: fabric, London on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | fabric | London |
+| Sat, 7 Nov 2026 | X Private Club | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sabrina is a drum & bass and electronica artist based in Bolivia, with 34 gigs o
 
 Iñigo Vontier, SP:MC, Charlie Tee
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrina/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrina/)*

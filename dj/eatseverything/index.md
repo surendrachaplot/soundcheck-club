@@ -1,6 +1,6 @@
 # Eats Everything
 
-Eats Everything is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Prospect Building, Bristol on Sat, 17 Oct 2026.
+Eats Everything is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Prospect Building, Bristol on Sat, 17 Oct 2026.
 
 Eats Everything is a house and tech house artist based in United Kingdom, with 183 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 33 more. Often billed alongside EATS, Sam Divine and Melé. Next up: The Prospect Building, Bristol on Sat 17 Oct.
 
@@ -31,4 +31,4 @@ Eats Everything is a house and tech house artist based in United Kingdom, with 1
 
 EATS, Sam Divine, Melé
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eatseverything/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eatseverything/)*

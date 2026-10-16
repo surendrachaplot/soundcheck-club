@@ -1,6 +1,6 @@
 # Studio1111
 
-Studio1111 is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Heaven On Earth presents Erotic Discount Club" on Fri, 16 Oct 2026.
+Studio1111 is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Heaven On Earth presents Erotic Discount Club" on Fri, 16 Oct 2026.
 
 Studio1111 is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including A.tari, Adame DJ, Arpy Brown and arsen (DE) and 2 more. See dates, start times and who's playing. Potsdamer Str. 96, 10785 Berlin.
 
@@ -19,4 +19,4 @@ Studio1111 is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, wit
 
 Potsdamer Str. 96, 10785 Berlin, Berlin
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studio1111/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studio1111/)*

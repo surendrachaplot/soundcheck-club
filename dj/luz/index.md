@@ -1,6 +1,6 @@
 # Luz
 
-Luz is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Sat, 24 Oct 2026.
+Luz is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Sat, 24 Oct 2026.
 
 Luz is a bass and house artist based in Germany, with 11 gigs on soundcheck across Amsterdam, Berlin, Bucharest and Leipzig and 3 more. Often billed alongside Stella Zekri, rRoxymore and BLEID. Next up: Amsterdams Most Wanted, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Luz is a bass and house artist based in Germany, with 11 gigs on soundcheck acro
 
 Stella Zekri, rRoxymore, BLEID
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luz/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luz/)*

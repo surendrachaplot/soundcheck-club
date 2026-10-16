@@ -1,6 +1,6 @@
 # Enmeshed
 
-Enmeshed is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Location With Ticket, Denver on Sat, 17 Oct 2026.
+Enmeshed is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Location With Ticket, Denver on Sat, 17 Oct 2026.
 
 Enmeshed is a house and club artist, with 11 gigs on soundcheck across Denver. Often billed alongside DJ Sauce, Gramsie and Laru. Next up: TBA - Location With Ticket, Denver on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Enmeshed is a house and club artist, with 11 gigs on soundcheck across Denver. O
 
 DJ Sauce, Gramsie, Laru
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enmeshed/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enmeshed/)*

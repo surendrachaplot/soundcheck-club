@@ -1,6 +1,6 @@
 # Vespers Club
 
-Vespers Club is a music venue in London with 17 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Pherotone 5.0 with Mx. Blaire (extended vinyl set) * FLINTA lineup" on Fri, 16 Oct 2026.
+Vespers Club is a music venue in London with 17 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Pherotone 5.0 with Mx. Blaire (extended vinyl set) * FLINTA lineup" on Fri, 16 Oct 2026.
 
 Vespers Club is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including AAKAARA, Abobo, Aircode and Aïsha Devi and 2 more. See dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
 
@@ -23,4 +23,4 @@ Vespers Club is a music venue in London listed on soundcheck. 17 upcoming gigs, 
 
 133A Rye Lane, London, SE15 4BQ, UK, London
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*

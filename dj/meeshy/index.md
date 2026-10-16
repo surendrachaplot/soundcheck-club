@@ -1,6 +1,6 @@
 # Meeshy
 
-Meeshy is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Ministry Of Sound, London on Sat, 31 Oct 2026.
+Meeshy is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Ministry Of Sound, London on Sat, 31 Oct 2026.
 
 Meeshy is a tech house and house artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Birmingham, Ibiza and London and 3 more. Often billed alongside hitty, Djammin and Shenin Amara. Next up: Ministry Of Sound, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Meeshy is a tech house and house artist based in United Kingdom, with 47 gigs on
 
 hitty, Djammin, Shenin Amara
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meeshy/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meeshy/)*

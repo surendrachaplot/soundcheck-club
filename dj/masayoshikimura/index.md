@@ -1,13 +1,14 @@
 # Masayoshi Kimura
 
-Masayoshi Kimura is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Violetta, Tokyo on Thu, 22 Oct 2026.
+Masayoshi Kimura is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Djbar Lollapalooza, Osaka on Sat, 17 Oct 2026.
 
-Masayoshi Kimura is a house and bass artist based in Japan, with 48 gigs on soundcheck across Osaka and Tokyo. Often billed alongside DJ MOCHIZUKI, KAMIYA. and KIMURA. Next up: Violetta, Tokyo on Thu 22 Oct.
+Masayoshi Kimura is a house and techno artist based in Japan, with 49 gigs on soundcheck across Osaka and Tokyo. Often billed alongside DJ MOCHIZUKI, KAMIYA. and KIMURA. Next up: Djbar Lollapalooza, Osaka on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Djbar Lollapalooza | Osaka |
 | Thu, 22 Oct 2026 | Violetta | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ Masayoshi Kimura is a house and bass artist based in Japan, with 48 gigs on soun
 
 DJ MOCHIZUKI, KAMIYA., KIMURA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masayoshikimura/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masayoshikimura/)*

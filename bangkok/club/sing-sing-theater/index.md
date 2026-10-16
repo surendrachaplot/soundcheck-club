@@ -1,6 +1,6 @@
 # Sing Sing Theater
 
-Sing Sing Theater is a music venue in Bangkok with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Betical" on Fri, 16 Oct 2026.
+Sing Sing Theater is a music venue in Bangkok with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Betical" on Fri, 16 Oct 2026.
 
 Sing Sing Theater is a music venue in Bangkok listed on soundcheck. 2 upcoming gigs, with line-ups including Andreas Vural, Betical and Henry Saiz. See dates, start times and who's playing. Sukhumvit 45.
 
@@ -15,4 +15,4 @@ Sing Sing Theater is a music venue in Bangkok listed on soundcheck. 2 upcoming g
 
 Sukhumvit 45, Bangkok
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/sing-sing-theater/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/sing-sing-theater/)*

@@ -1,8 +1,8 @@
 # Tauceti (FR)
 
-Tauceti (FR) is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Unité.22, Marseille on Fri, 16 Oct 2026.
+Tauceti (FR) is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Unité.22, Marseille on Fri, 16 Oct 2026.
 
-Tauceti (FR) is a techno and house artist based in France, with 82 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 24 more. Often billed alongside Tommy Four Seven, Kangding Ray and Psyk. Next up: Unité.22, Marseille on Fri 16 Oct.
+Tauceti (FR) is a techno and house artist based in France, with 83 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 25 more. Often billed alongside Tommy Four Seven, Kangding Ray and Psyk. Next up: Unité.22, Marseille on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Tauceti (FR) is a techno and house artist based in France, with 82 gigs on sound
 | Wed, 25 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Sun, 29 Nov 2026 | TBA - Brooklyn Warehouse | New York City |
 | Sat, 19 Dec 2026 | INPUT High Fidelity Dance Club | Barcelona |
+| Fri, 2 Jul 2027 | TBA - Veta Festival, Barruelo de Santullán | North |
 
 ## Recently played
 
@@ -33,4 +34,4 @@ Tauceti (FR) is a techno and house artist based in France, with 82 gigs on sound
 
 Tommy Four Seven, Kangding Ray, Psyk
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taucetifr/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taucetifr/)*

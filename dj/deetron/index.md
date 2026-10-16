@@ -1,6 +1,6 @@
 # Deetron
 
-Deetron is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at EL SÓTANO, Madrid on Sat, 17 Oct 2026.
+Deetron is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at EL SÓTANO, Madrid on Sat, 17 Oct 2026.
 
 Deetron is a techno and house artist based in Switzerland, with 59 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Berlin and 26 more. Often billed alongside Zenker Brothers, Armand Van Helden and SG Lewis. Next up: EL SÓTANO, Madrid on Sat 17 Oct.
 
@@ -29,4 +29,4 @@ Deetron is a techno and house artist based in Switzerland, with 59 gigs on sound
 
 Zenker Brothers, Armand Van Helden, SG Lewis
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deetron/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deetron/)*

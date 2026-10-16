@@ -1,6 +1,6 @@
 # Azul Rooftop Barceloneta
 
-Azul Rooftop Barceloneta is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Azul Sessions Rooftop Indoor 360° views over Barcelona" on Fri, 16 Oct 2026.
+Azul Rooftop Barceloneta is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Azul Sessions Rooftop Indoor 360° views over Barcelona" on Fri, 16 Oct 2026.
 
 Azul Rooftop Barceloneta is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs, with line-ups including Agoostina, Althoff, Dimarziio and DJ SOFÍDIA and 2 more. See dates, start times and who's playing. Pg. de Joan de Borbó, 101, planta 8, Ciutat Vella, 08038 Barcelona.
 
@@ -17,4 +17,4 @@ Azul Rooftop Barceloneta is a music venue in Barcelona listed on soundcheck. 4 u
 
 Pg. de Joan de Borbó, 101, planta 8, Ciutat Vella, 08038 Barcelona, Barcelona
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/azul-rooftop-barceloneta/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/azul-rooftop-barceloneta/)*

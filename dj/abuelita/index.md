@@ -1,6 +1,6 @@
 # Abuelita
 
-Abuelita is a Latin Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at barStudio, Warsaw on Sat, 31 Oct 2026.
+Abuelita is a Latin Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at barStudio, Warsaw on Sat, 31 Oct 2026.
 
 Abuelita is a latin bass and dub artist based in Poland, with 29 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Adobo (PL), KarateKnur and eylau. Next up: barStudio, Warsaw on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Abuelita is a latin bass and dub artist based in Poland, with 29 gigs on soundch
 
 Adobo (PL), KarateKnur, eylau
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abuelita/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abuelita/)*

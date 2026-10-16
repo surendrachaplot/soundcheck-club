@@ -1,8 +1,8 @@
 # Schwesta P
 
-Schwesta P is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
+Schwesta P is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
 
-Schwesta P is a techno and trance artist based in Germany, with 66 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 9 more. Often billed alongside EliaHaze, Anton Jonathan and DJ Babyblade. Next up: RAWFACTORY, Amsterdam on Thu 22 Oct.
+Schwesta P is a techno and trance artist based in Germany, with 67 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 9 more. Often billed alongside EliaHaze, Anton Jonathan and DJ Babyblade. Next up: RAWFACTORY, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Schwesta P is a techno and trance artist based in Germany, with 66 gigs on sound
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
 | Thu, 22 Oct 2026 | Ijver | Amsterdam |
+| Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 | Sat, 7 Nov 2026 | Neue Welle | Leipzig |
 | Sat, 14 Nov 2026 | Golden Pudel Club | Hamburg |
 | Sat, 21 Nov 2026 | Werkspoorkathedraal | Netherlands |
@@ -30,4 +31,4 @@ Schwesta P is a techno and trance artist based in Germany, with 66 gigs on sound
 
 EliaHaze, Anton Jonathan, DJ Babyblade
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schwestap/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schwestap/)*

@@ -1,6 +1,6 @@
 # ZENA
 
-ZENA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Alte Feuerwache THF, Berlin on Fri, 16 Oct 2026.
+ZENA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Alte Feuerwache THF, Berlin on Fri, 16 Oct 2026.
 
 ZENA is a techno and house artist based in Germany, with 15 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 4 more. Often billed alongside Rivako, OLIV and 2fox. Next up: Alte Feuerwache THF, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ ZENA is a techno and house artist based in Germany, with 15 gigs on soundcheck a
 
 Rivako, OLIV, 2fox
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zena/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zena/)*

@@ -1,14 +1,13 @@
 # Motor Oil Cocktail Garage
 
-Motor Oil Cocktail Garage is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "DJ YODA" on Thu, 15 Oct 2026.
+Motor Oil Cocktail Garage is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "TONY MORALES" on Fri, 16 Oct 2026.
 
-Motor Oil Cocktail Garage is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs, with line-ups including Joe Cabana. See dates, start times and who's playing. Calle  Ample 46, 08002, Barcelona, ES.
+Motor Oil Cocktail Garage is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, with line-ups including Joe Cabana. See dates, start times and who's playing. Calle  Ample 46, 08002, Barcelona, ES.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | DJ YODA |  |
 | Fri, 16 Oct 2026 | TONY MORALES |  |
 | Sat, 17 Oct 2026 | PROFESOR ÁNGEL DUST |  |
 | Mon, 19 Oct 2026 | HONEY BUNNY | Joe Cabana |
@@ -17,4 +16,4 @@ Motor Oil Cocktail Garage is a music venue in Barcelona listed on soundcheck. 4 
 
 Calle  Ample 46, 08002, Barcelona, ES, Barcelona
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/motor-oil-cocktail-garage/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/motor-oil-cocktail-garage/)*

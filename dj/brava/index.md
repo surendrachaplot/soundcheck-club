@@ -1,6 +1,6 @@
 # BRAVA
 
-BRAVA is a Bass and Dembow artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Apollo Club Milano, Milan on Sat, 17 Oct 2026.
+BRAVA is a Bass and Dembow artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Apollo Club Milano, Milan on Sat, 17 Oct 2026.
 
 BRAVA is a bass and dembow artist based in Spain, with 74 gigs on soundcheck across Athens, Barcelona, Belgrade and Berlin and 20 more. Often billed alongside CRKS290, Umami and Umami (ES). Next up: Apollo Club Milano, Milan on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ BRAVA is a bass and dembow artist based in Spain, with 74 gigs on soundcheck acr
 
 CRKS290, Umami, Umami (ES)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brava/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brava/)*

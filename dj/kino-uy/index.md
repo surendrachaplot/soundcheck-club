@@ -1,8 +1,8 @@
 # KINO (UY)
 
-KINO (UY) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Revolver Upstairs, Melbourne on Fri, 16 Oct 2026.
+KINO (UY) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Revolver Upstairs, Melbourne on Fri, 16 Oct 2026.
 
-KINO (UY) is a techno and house artist based in Uruguay, with 55 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 20 more. Often billed alongside EMilio, DJ Masda and Nico Etorena. Next up: Revolver Upstairs, Melbourne on Fri 16 Oct.
+KINO (UY) is a techno and house artist based in Uruguay, with 56 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 21 more. Often billed alongside EMilio, DJ Masda and Nico Etorena. Next up: Revolver Upstairs, Melbourne on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ KINO (UY) is a techno and house artist based in Uruguay, with 55 gigs on soundch
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Revolver Upstairs | Melbourne |
 | Fri, 30 Oct 2026 | feedbk | New York City |
+| Sat, 7 Nov 2026 | Love City Gardens | Philadelphia |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ KINO (UY) is a techno and house artist based in Uruguay, with 55 gigs on soundch
 
 EMilio (2), DJ Masda, Nico Etorena
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kino-uy/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kino-uy/)*

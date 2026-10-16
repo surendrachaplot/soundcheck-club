@@ -1,6 +1,6 @@
 # Israel Sunshine
 
-Israel Sunshine is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Mad Radio Miami, Miami on Sat, 17 Oct 2026.
+Israel Sunshine is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Mad Radio Miami, Miami on Sat, 17 Oct 2026.
 
 Israel Sunshine is a house and techno artist based in Venezuela, with 61 gigs on soundcheck across Miami. Often billed alongside Puma (US), Leo Del Toro and Argenis Brito. Next up: Mad Radio Miami, Miami on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Israel Sunshine is a house and techno artist based in Venezuela, with 61 gigs on
 
 Puma (US), Leo Del Toro, Argenis Brito
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/israelsunshine/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/israelsunshine/)*

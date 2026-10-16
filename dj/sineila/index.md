@@ -1,6 +1,6 @@
 # sineila
 
-sineila is a Pop and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Bar Le Ritz PDB, Montreal on Sat, 17 Oct 2026.
+sineila is a Pop and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bar Le Ritz PDB, Montreal on Sat, 17 Oct 2026.
 
 sineila is a pop and experimental artist, with 27 gigs on soundcheck across Montreal. Often billed alongside Outback, Baby Bimbo and fangsie. Next up: Bar Le Ritz PDB, Montreal on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ sineila is a pop and experimental artist, with 27 gigs on soundcheck across Mont
 
 Outback, Baby Bimbo, fangsie
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sineila/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sineila/)*

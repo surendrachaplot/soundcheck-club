@@ -1,6 +1,6 @@
 # DJ Marky
 
-DJ Marky is a Drum & Bass and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Ampere, Antwerp on Fri, 20 Nov 2026.
+DJ Marky is a Drum & Bass and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Ampere, Antwerp on Fri, 20 Nov 2026.
 
 DJ Marky is a drum & bass and house artist based in Brazil, with 102 gigs on soundcheck across Antwerp, Barcelona, Belfast and Berlin and 20 more. Often billed alongside MC GQ, Makoto and SP:MC. Next up: Ampere, Antwerp on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ DJ Marky is a drum & bass and house artist based in Brazil, with 102 gigs on sou
 
 MC GQ, Makoto, SP:MC
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarky/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarky/)*

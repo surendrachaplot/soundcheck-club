@@ -1,14 +1,15 @@
 # Agustina Aliaga
 
-Agustina Aliaga is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Il Brutto Auckland, Auckland on Fri, 16 Oct 2026.
+Agustina Aliaga is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Il Brutto Auckland, Auckland on Fri, 16 Oct 2026.
 
-Agustina Aliaga is a techno and electronica artist based in Spain, with 22 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 4 more. Often billed alongside HNKS, Julieta Wins and Lautaro Ibañez. Next up: Il Brutto Auckland, Auckland on Fri 16 Oct.
+Agustina Aliaga is a techno and electronica artist based in Spain, with 23 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 5 more. Often billed alongside HNKS, Julieta Wins and Lautaro Ibañez. Next up: Il Brutto Auckland, Auckland on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Il Brutto Auckland | Auckland |
+| Thu, 29 Oct 2026 | WOMB | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Agustina Aliaga is a techno and electronica artist based in Spain, with 22 gigs 
 
 HNKS, Julieta Wins, Lautaro Ibañez
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinaaliaga/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinaaliaga/)*

@@ -1,6 +1,6 @@
 # Makèz
 
-Makèz is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Kyas Art Salon, Amsterdam on Wed, 21 Oct 2026.
+Makèz is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Kyas Art Salon, Amsterdam on Wed, 21 Oct 2026.
 
 Makèz is a house and disco artist based in Netherlands, with 81 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Chicago and 17 more. Often billed alongside ANOTR, Dan Shake and MiNNA. Next up: Kyas Art Salon, Amsterdam on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ Makèz is a house and disco artist based in Netherlands, with 81 gigs on soundch
 
 ANOTR, Dan Shake, MiNNA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makez/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makez/)*

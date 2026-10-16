@@ -1,6 +1,6 @@
 # ONX (CH)
 
-ONX (CH) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Zinkbad Eventhalle, Zurich on Sat, 12 Dec 2026.
+ONX (CH) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Zinkbad Eventhalle, Zurich on Sat, 12 Dec 2026.
 
 ONX (CH) is a techno and hardcore artist, with 43 gigs on soundcheck across Amsterdam and Zurich. Often billed alongside CAERMI, Megix and Scheppērt. Next up: Zinkbad Eventhalle, Zurich on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ ONX (CH) is a techno and hardcore artist, with 43 gigs on soundcheck across Amst
 
 CAERMI, Megix, Scheppērt
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onx-ch/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onx-ch/)*

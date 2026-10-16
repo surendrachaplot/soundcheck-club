@@ -1,6 +1,6 @@
 # Tormented
 
-Tormented is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Secret Location, Detroit on Sat, 14 Nov 2026.
+Tormented is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Secret Location, Detroit on Sat, 14 Nov 2026.
 
 Tormented is a techno and house artist based in United States of America, with 18 gigs on soundcheck across Detroit. Often billed alongside Nick Burgess, Brent Shay and DykeChow. Next up: TBA - Secret Location, Detroit on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Tormented is a techno and house artist based in United States of America, with 1
 
 Nick Burgess, Brent Shay, DykeChow
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tormented/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tormented/)*

@@ -1,6 +1,6 @@
 # MADITATION
 
-MADITATION is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at MODULE, Copenhagen on Sat, 24 Oct 2026.
+MADITATION is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at MODULE, Copenhagen on Sat, 24 Oct 2026.
 
 MADITATION is a techno and trance artist based in Germany, with 4 gigs on soundcheck across Copenhagen. Often billed alongside avoN, SILK! and DJ Sandy P. Next up: MODULE, Copenhagen on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ MADITATION is a techno and trance artist based in Germany, with 4 gigs on soundc
 
 avoN, SILK!, DJ Sandy P
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maditation/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maditation/)*

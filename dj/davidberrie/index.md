@@ -1,6 +1,6 @@
 # David Berrie
 
-David Berrie is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+David Berrie is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
 David Berrie is a house and techno artist based in United States of America, with 77 gigs on soundcheck across Amsterdam, Barcelona, Boston and Chicago and 5 more. Often billed alongside CHKLTE, Chuwee and Gian-Paul. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ David Berrie is a house and techno artist based in United States of America, wit
 
 CHKLTE, Chuwee, Gian-Paul
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidberrie/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidberrie/)*

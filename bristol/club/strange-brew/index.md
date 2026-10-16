@@ -1,6 +1,6 @@
 # Strange Brew
 
-Strange Brew is a music venue in Bristol with 12 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Zen Arcade vs. Make A Dance" on Fri, 16 Oct 2026.
+Strange Brew is a music venue in Bristol with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Zen Arcade vs. Make A Dance" on Fri, 16 Oct 2026.
 
 Strange Brew is a music venue in Bristol listed on soundcheck. 12 upcoming gigs, with line-ups including Bakey, Berwick, BLUMITSU and Chiedza and 2 more. See dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
 
@@ -23,4 +23,4 @@ Strange Brew is a music venue in Bristol listed on soundcheck. 12 upcoming gigs,
 
 10-12 Fairfax Street, Bristol, BS1 3DB, Bristol
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*

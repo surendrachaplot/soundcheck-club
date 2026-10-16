@@ -1,6 +1,6 @@
 # Milla - Live Club
 
-Milla - Live Club is a music venue in Munich with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Schuettel @Milla Club" on Fri, 16 Oct 2026.
+Milla - Live Club is a music venue in Munich with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Schuettel @Milla Club" on Fri, 16 Oct 2026.
 
 Milla - Live Club is a music venue in Munich listed on soundcheck. 5 upcoming gigs, with line-ups including Leon Haller. See dates, start times and who's playing. Holzstr. 28, 80469 München.
 
@@ -18,4 +18,4 @@ Milla - Live Club is a music venue in Munich listed on soundcheck. 5 upcoming gi
 
 Holzstr. 28, 80469 München, Munich
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/milla-live-club/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/milla-live-club/)*

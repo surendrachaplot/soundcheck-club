@@ -1,6 +1,6 @@
 # Rebecca Ardura
 
-Rebecca Ardura is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Azotea 37º, Alicante on Sat, 31 Oct 2026.
+Rebecca Ardura is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Azotea 37º, Alicante on Sat, 31 Oct 2026.
 
 Rebecca Ardura is a house and tech house artist based in Spain, with 13 gigs on soundcheck across Alicante, Barcelona, Madrid and Turin and 1 more. Often billed alongside Manchon, Cesc (ES) and Avo (ES). Next up: Azotea 37º, Alicante on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Rebecca Ardura is a house and tech house artist based in Spain, with 13 gigs on 
 
 Manchon, Cesc (ES), Avo (ES)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccaardura/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccaardura/)*

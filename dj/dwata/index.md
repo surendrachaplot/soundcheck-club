@@ -1,6 +1,6 @@
 # DWATA
 
-DWATA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Pure Nightclub, San Francisco/Oakland on Sat, 17 Oct 2026.
+DWATA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Pure Nightclub, San Francisco/Oakland on Sat, 17 Oct 2026.
 
 DWATA is a house and tech house artist based in United States of America, with 28 gigs on soundcheck across San Francisco/Oakland and Vancouver. Often billed alongside J.Phlip, Neumonic and AMPRS&ND. Next up: Pure Nightclub, San Francisco/Oakland on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ DWATA is a house and tech house artist based in United States of America, with 2
 
 J.Phlip, Neumonic, AMPRS&ND
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dwata/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dwata/)*

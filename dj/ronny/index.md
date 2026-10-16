@@ -1,6 +1,6 @@
 # RONNY
 
-RONNY is a Electro and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Unter Deck, Munich on Wed, 21 Oct 2026.
+RONNY is a Electro and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Unter Deck, Munich on Wed, 21 Oct 2026.
 
 RONNY is an electro and techno artist based in Germany, with 16 gigs on soundcheck across Mexico City and Munich. Often billed alongside DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung and Fej:tal. Next up: Unter Deck, Munich on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ RONNY is an electro and techno artist based in Germany, with 16 gigs on soundche
 
 DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung, Fej:tal
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronny/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronny/)*

@@ -1,6 +1,6 @@
 # AQUTIE
 
-AQUTIE is a House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Maaya, Berlin on Fri, 16 Oct 2026.
+AQUTIE is a House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Maaya, Berlin on Fri, 16 Oct 2026.
 
 AQUTIE is a house and amapiano artist based in United States of America, with 31 gigs on soundcheck across Amsterdam, Berlin, London and Los Angeles and 6 more. Often billed alongside WEMI, Dennis Free and Shermanology. Next up: Maaya, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ AQUTIE is a house and amapiano artist based in United States of America, with 31
 
 WEMI, Dennis Free, Shermanology
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aqutie/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aqutie/)*

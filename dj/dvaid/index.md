@@ -1,6 +1,6 @@
 # DVAID
 
-DVAID is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Link, Bologna on Sat, 17 Oct 2026.
+DVAID is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Link, Bologna on Sat, 17 Oct 2026.
 
 DVAID is a techno and trance artist based in Germany, with 44 gigs on soundcheck across Amsterdam, Ankara, Basel and Berlin and 16 more. Often billed alongside HUMAN ERROR, Adrian Mills and Serafina. Next up: Link, Bologna on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ DVAID is a techno and trance artist based in Germany, with 44 gigs on soundcheck
 
 HUMAN ERROR, Adrian Mills, Serafina
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dvaid/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dvaid/)*

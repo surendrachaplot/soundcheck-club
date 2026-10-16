@@ -1,6 +1,6 @@
 # Abzocka
 
-Abzocka is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Sky Club, Leipzig on Fri, 30 Oct 2026.
+Abzocka is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Sky Club, Leipzig on Fri, 30 Oct 2026.
 
 Abzocka is a techno and hardcore artist based in Germany, with 7 gigs on soundcheck across Berlin, Frankfurt and Leipzig. Often billed alongside Benzn, TAKTSTÖRER and Tiefundton. Next up: Sky Club, Leipzig on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Abzocka is a techno and hardcore artist based in Germany, with 7 gigs on soundch
 
 Benzn, TAKTSTÖRER, Tiefundton
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abzocka/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abzocka/)*

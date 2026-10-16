@@ -1,6 +1,6 @@
 # Royce Larøca
 
-Royce Larøca is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
+Royce Larøca is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
 
 Royce Larøca is a house and minimal artist based in Brazil, with 72 gigs on soundcheck across Dublin, Lisbon, London and Paris and 1 more. Often billed alongside Waximum, Hera (IE) and RealTalks Soundsystem. Next up: Orlagh House, Dublin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Royce Larøca is a house and minimal artist based in Brazil, with 72 gigs on sou
 
 Waximum, Hera (IE), RealTalks Soundsystem
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roycelaroca/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roycelaroca/)*

@@ -1,6 +1,6 @@
 # Samuel Moriero (2)
 
-Samuel Moriero (2) is a Techno and Psytrance artist with 19 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Toronto on Sat, 10 Oct 2026.
+Samuel Moriero (2) is a Techno and Psytrance artist with 19 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Toronto on Sat, 10 Oct 2026.
 
 Samuel Moriero is a techno and psytrance artist based in Italy, with 32 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 20 more. Often billed alongside Onlynumbers, ASLO and Adam Bartas. Next up: TBA, Toronto on Sat 10 Oct.
 
@@ -36,4 +36,4 @@ Samuel Moriero is a techno and psytrance artist based in Italy, with 32 gigs on 
 
 Onlynumbers, ASLO, Adam Bartas
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*

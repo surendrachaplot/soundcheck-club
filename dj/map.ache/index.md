@@ -1,8 +1,8 @@
 # Map.ache
 
-Map.ache is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
+Map.ache is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
 
-Map.ache is a house and techno artist based in Germany, with 100 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 24 more. Often billed alongside Konstantin, Leafar Legov and Edward. Next up: Klaproos, Amsterdam on Sun 25 Oct.
+Map.ache is a house and techno artist based in Germany, with 101 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 24 more. Often billed alongside Konstantin, Leafar Legov and Edward. Next up: Klaproos, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Map.ache is a house and techno artist based in Germany, with 100 gigs on soundch
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Klaproos | Amsterdam |
 | Fri, 30 Oct 2026 | Brooklyn Storehouse | New York City |
+| Sat, 31 Oct 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Thu, 21 Jan 2027 | Soundscapes Zanzi | Tanzania |
 
 ## Recently played
@@ -27,4 +28,4 @@ Map.ache is a house and techno artist based in Germany, with 100 gigs on soundch
 
 Konstantin, Leafar Legov, Edward
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/map.ache/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/map.ache/)*

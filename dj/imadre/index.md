@@ -1,6 +1,6 @@
 # imad:re
 
-imad:re is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at People's Leisure Club, Edinburgh on Fri, 23 Oct 2026.
+imad:re is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at People's Leisure Club, Edinburgh on Fri, 23 Oct 2026.
 
 imad:re is a bass and house artist based in United Kingdom, with 56 gigs on soundcheck across Edinburgh, Ibiza, Leeds and London and 2 more. Often billed alongside Ginster, RYLO (UK) and Amelia Leigh. Next up: People's Leisure Club, Edinburgh on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ imad:re is a bass and house artist based in United Kingdom, with 56 gigs on soun
 
 Ginster, RYLO (UK), Amelia Leigh
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imadre/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imadre/)*

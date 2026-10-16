@@ -1,6 +1,6 @@
 # Blå
 
-Blå is a music venue in Oslo with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "R@B Soundsystems pres. GNMR (IT)" on Sat, 17 Oct 2026.
+Blå is a music venue in Oslo with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "R@B Soundsystems pres. GNMR (IT)" on Sat, 17 Oct 2026.
 
 Blå is a music venue in Oslo listed on soundcheck. 9 upcoming gigs, with line-ups including Dj Danifox, DJ Marfox, Fakethias and Felisha Ledesma and 2 more. See dates, start times and who's playing. Brennerivn 9c; 0182 Oslo; Norway.
 
@@ -22,4 +22,4 @@ Blå is a music venue in Oslo listed on soundcheck. 9 upcoming gigs, with line-u
 
 Brennerivn 9c; 0182 Oslo; Norway, Oslo
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*

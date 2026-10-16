@@ -1,6 +1,6 @@
 # Nora En Pure - 2gthr, Archi Club Open Air - ALLMusicParties at TBA - Archi Club, Costanera
 
-Nora En Pure - 2gthr, Archi Club Open Air - ALLMusicParties at TBA - Archi Club, Costanera on Sat 7 Nov, Buenos Aires. 2 artists: Anhauser and Nora En Pure. Deep House. See the line-up on soundcheck.
+Nora En Pure - 2gthr, Archi Club Open Air - ALLMusicParties at TBA - Archi Club, Costanera on Sat 7 Nov, Buenos Aires. 2 artists: Anhauser and Nora En Pure. Progressive House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

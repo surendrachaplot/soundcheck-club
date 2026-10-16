@@ -1,6 +1,6 @@
 # SENGA
 
-SENGA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Idle Mind Tavern, New York City on Sat, 14 Nov 2026.
+SENGA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Idle Mind Tavern, New York City on Sat, 14 Nov 2026.
 
 SENGA is a techno and house artist based in United States of America, with 100 gigs on soundcheck across Antwerp, Berlin, New York City and Washington DC. Often billed alongside Dundar, TS Julien and Wren's Lullaby. Next up: Idle Mind Tavern, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ SENGA is a techno and house artist based in United States of America, with 100 g
 
 Dundar, TS Julien, Wren's Lullaby
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/senga/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/senga/)*

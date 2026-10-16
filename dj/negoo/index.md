@@ -1,6 +1,6 @@
 # NegoO
 
-NegoO is a Afrobeat and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at La Fabriek, Brussels on Sat, 7 Nov 2026.
+NegoO is a Afrobeat and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at La Fabriek, Brussels on Sat, 7 Nov 2026.
 
 NegoO is an afrobeat and afro house artist based in Portugal, with 18 gigs on soundcheck across Barcelona, Brussels, Lisbon and London and 4 more. Often billed alongside San Farafina, Moonshine and Pierre Kwenders. Next up: La Fabriek, Brussels on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ NegoO is an afrobeat and afro house artist based in Portugal, with 18 gigs on so
 
 San Farafina, Moonshine, Pierre Kwenders
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/negoo/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/negoo/)*

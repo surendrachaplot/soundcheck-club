@@ -1,8 +1,8 @@
 # Danny Tenaglia
 
-Danny Tenaglia is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Ciudad Universitaria, Belgrano, Buenos Aires on Sat, 17 Oct 2026.
+Danny Tenaglia is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Ciudad Universitaria, Belgrano, Buenos Aires on Sat, 17 Oct 2026.
 
-Danny Tenaglia is a house and techno artist based in United States of America, with 109 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 26 more. Often billed alongside Brandon Block, DJ Chus and Darren Emerson. Next up: TBA - Ciudad Universitaria, Belgrano, Buenos Aires on Sat 17 Oct.
+Danny Tenaglia is a house and techno artist based in United States of America, with 110 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 26 more. Often billed alongside Brandon Block, DJ Chus and Darren Emerson. Next up: TBA - Ciudad Universitaria, Belgrano, Buenos Aires on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Danny Tenaglia is a house and techno artist based in United States of America, w
 | Sat, 24 Oct 2026 | Superior Ingredients | New York City |
 | Sat, 31 Oct 2026 | Stereo | Montreal |
 | Fri, 4 Dec 2026 | Sub Club | Glasgow |
+| Sat, 12 Dec 2026 | E1 | London |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Danny Tenaglia is a house and techno artist based in United States of America, w
 
 Brandon Block, DJ Chus, Darren Emerson
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*

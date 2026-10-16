@@ -1,6 +1,6 @@
 # Holy Home
 
-Holy Home is a music venue in Munich with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Holy Home w/ Magsi" on Fri, 16 Oct 2026.
+Holy Home is a music venue in Munich with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Holy Home w/ Magsi" on Fri, 16 Oct 2026.
 
 Holy Home is a music venue in Munich listed on soundcheck. 3 upcoming gigs, with line-ups including Magsi. See dates, start times and who's playing. Reichenbachstr. 21, 80469 Munich.
 
@@ -16,4 +16,4 @@ Holy Home is a music venue in Munich listed on soundcheck. 3 upcoming gigs, with
 
 Reichenbachstr. 21, 80469 Munich, Munich
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/holy-home/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/holy-home/)*

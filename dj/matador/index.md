@@ -1,6 +1,6 @@
 # Matador
 
-Matador is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Matador is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Matador is a techno and house artist based in Ireland, with 45 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Budapest and 17 more. Often billed alongside Deep Dish, Anhauser and CamelPhat. Next up: Kaap Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Matador is a techno and house artist based in Ireland, with 45 gigs on soundchec
 
 Deep Dish, Anhauser, CamelPhat
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matador/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matador/)*

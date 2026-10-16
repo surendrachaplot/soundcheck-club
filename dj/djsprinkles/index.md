@@ -1,6 +1,6 @@
 # DJ Sprinkles
 
-DJ Sprinkles is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Burtown House, Ireland on Sat, 31 Oct 2026.
+DJ Sprinkles is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Burtown House, Ireland on Sat, 31 Oct 2026.
 
 DJ Sprinkles is a deep house and house artist based in United States of America, with 24 gigs on soundcheck across Amsterdam, Berlin, Bristol and Ireland and 6 more. Often billed alongside Christian AB, Jyoty and Ryan Elliott. Next up: Burtown House, Ireland on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ DJ Sprinkles is a deep house and house artist based in United States of America,
 
 Christian AB, Jyoty, Ryan Elliott
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsprinkles/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsprinkles/)*

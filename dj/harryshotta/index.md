@@ -1,8 +1,8 @@
 # Harry Shotta
 
-Harry Shotta is a Drum & Bass and Jungle artist with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Boxing Club, Bristol on Fri, 13 Nov 2026.
+Harry Shotta is a Drum & Bass and Jungle artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Boxing Club, Bristol on Fri, 13 Nov 2026.
 
-Harry Shotta is a drum & bass and jungle artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 6 more. Often billed alongside IC3, Logan D and Eksman. Next up: The Boxing Club, Bristol on Fri 13 Nov.
+Harry Shotta is a drum & bass and jungle artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 6 more. Often billed alongside IC3, Logan D and Eksman. Next up: The Boxing Club, Bristol on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Harry Shotta is a drum & bass and jungle artist based in United Kingdom, with 58
 | Fri, 20 Nov 2026 | The Dome | Liverpool |
 | Sat, 21 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
 | Fri, 27 Nov 2026 | FORGE | Sheffield |
+| Sat, 28 Nov 2026 | Lab11 | Birmingham |
 | Fri, 4 Dec 2026 | The Prospect Building | Bristol |
 | Sat, 12 Dec 2026 | Brixton Jamm | London |
 | Thu, 31 Dec 2026 | Fire | London |
@@ -34,4 +35,4 @@ Harry Shotta is a drum & bass and jungle artist based in United Kingdom, with 58
 
 IC3, Logan D, Eksman
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harryshotta/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harryshotta/)*

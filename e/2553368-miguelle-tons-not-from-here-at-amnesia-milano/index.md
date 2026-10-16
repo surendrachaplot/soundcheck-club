@@ -1,6 +1,6 @@
-# Miguelle & TONS, NOT FROM HERE at Amnesia Milano
+# Miguelle & TONS, Not From Here at Amnesia Milano
 
-Miguelle & TONS, NOT FROM HERE at Amnesia Milano on Sat 24 Oct, Milan. 2 artists: Miguelle and TONS. See the line-up on soundcheck.
+Miguelle & TONS, Not From Here at Amnesia Milano on Sat 24 Oct, Milan. 2 artists: Miguelle and TONS. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

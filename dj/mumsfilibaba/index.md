@@ -1,6 +1,6 @@
 # Mumsfilibaba
 
-Mumsfilibaba is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Dual, Bangkok on Fri, 23 Oct 2026.
+Mumsfilibaba is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Dual, Bangkok on Fri, 23 Oct 2026.
 
 Mumsfilibaba is a house and tech house artist based in Sweden, with 75 gigs on soundcheck across Bangkok, Central, Copenhagen and Hong Kong and 6 more. Often billed alongside Brent Burns, Jayja and DOTT. Next up: Dual, Bangkok on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Mumsfilibaba is a house and tech house artist based in Sweden, with 75 gigs on s
 
 Brent Burns, Jayja, DOTT
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mumsfilibaba/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mumsfilibaba/)*

@@ -1,6 +1,6 @@
 # DjSteph
 
-DjSteph is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at 2ten, Athens on Fri, 16 Oct 2026.
+DjSteph is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at 2ten, Athens on Fri, 16 Oct 2026.
 
 DjSteph is a techno and tech house artist, with 28 gigs on soundcheck across Athens. Often billed alongside Rezo, Steve Sai and Nick Devon. Next up: 2ten, Athens on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ DjSteph is a techno and tech house artist, with 28 gigs on soundcheck across Ath
 
 Rezo (2), Steve Sai, Nick Devon
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsteph/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsteph/)*

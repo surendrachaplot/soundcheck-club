@@ -1,0 +1,28 @@
+# Socrates Antypas
+
+Socrates Antypas is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at To Pano Spiti, Athens on Fri, 23 Oct 2026.
+
+Socrates Antypas is an experimental and electronica artist, with 22 gigs on soundcheck across Athens. Often billed alongside Apu Nanu, Andreas Palmer and DJ NOT I. Next up: To Pano Spiti, Athens on Fri 23 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 23 Oct 2026 | To Pano Spiti | Athens |
+
+## Recently played
+
+- B side Athens, Athens · Sat, 10 Oct 2026
+- Ilion Plus, Athens · Fri, 18 Sept 2026
+- Astron Club, Athens · Fri, 8 May 2026
+- Patision65, Athens · Fri, 3 Apr 2026
+- Astron Club, Athens · Fri, 27 Feb 2026
+- Cine Alice, Athens · Sat, 27 Sept 2025
+- Astron Club, Athens · Thu, 25 Sept 2025
+- Latraac, Athens · Fri, 15 Aug 2025
+
+## Shares bills with
+
+Apu Nanu, Andreas Palmer, DJ NOT I
+
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/socratesantypas/)*

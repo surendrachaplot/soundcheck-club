@@ -1,6 +1,6 @@
 # EDX
 
-EDX is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at E11EVEN MIAMI, Miami on Sat, 24 Oct 2026.
+EDX is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at E11EVEN MIAMI, Miami on Sat, 24 Oct 2026.
 
 EDX is a house and progressive house artist, with 29 gigs on soundcheck across Austin, Basel, Denver and Detroit and 11 more. Often billed alongside Anthony Attalla, Matroda and Nicky Romero. Next up: E11EVEN MIAMI, Miami on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ EDX is a house and progressive house artist, with 29 gigs on soundcheck across A
 
 Anthony Attalla, Matroda, Nicky Romero
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edx/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edx/)*

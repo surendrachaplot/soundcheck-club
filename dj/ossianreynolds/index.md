@@ -1,6 +1,6 @@
 # Ossian Reynolds
 
-Ossian Reynolds is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Gazebo, Stockholm on Sat, 24 Oct 2026.
+Ossian Reynolds is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Gazebo, Stockholm on Sat, 24 Oct 2026.
 
 Ossian Reynolds is a techno and minimal artist, with 11 gigs on soundcheck across Stockholm. Often billed alongside ABSTRS, Andreas Barth and Delavas. Next up: Gazebo, Stockholm on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ossian Reynolds is a techno and minimal artist, with 11 gigs on soundcheck acros
 
 ABSTRS, Andreas Barth, Delavas
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ossianreynolds/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ossianreynolds/)*

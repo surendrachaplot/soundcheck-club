@@ -1,6 +1,6 @@
 # pumbum
 
-pumbum is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Fri, 16 Oct 2026.
+pumbum is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Fri, 16 Oct 2026.
 
 pumbum is a progressive house and deep house artist based in Russia, with 16 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Dan Maurique, DJ SOFÍDIA and Paul Ikky. Next up: Azul Rooftop Barceloneta, Barcelona on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ pumbum is a progressive house and deep house artist based in Russia, with 16 gig
 
 Dan Maurique, DJ SOFÍDIA, Paul Ikky
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pumbum/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pumbum/)*

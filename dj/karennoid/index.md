@@ -1,6 +1,6 @@
 # karennoid
 
-karennoid is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Smoke & Mirrors, Chicago on Fri, 23 Oct 2026.
+karennoid is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Smoke & Mirrors, Chicago on Fri, 23 Oct 2026.
 
 karennoid is a techno and club artist based in United States of America, with 50 gigs on soundcheck across Chicago, Los Angeles and Mexico City. Often billed alongside J. Córdova, DJ Aguara'i and Flores Negras. Next up: Smoke & Mirrors, Chicago on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ karennoid is a techno and club artist based in United States of America, with 50
 
 J. Córdova, DJ Aguara'i, Flores Negras
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karennoid/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karennoid/)*

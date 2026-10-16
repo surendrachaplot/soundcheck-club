@@ -1,6 +1,6 @@
 # Mark Holcomb
 
-Mark Holcomb is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Animal, New York City on Sat, 17 Oct 2026.
+Mark Holcomb is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Animal, New York City on Sat, 17 Oct 2026.
 
 Mark Holcomb is a house and techno artist based in United States of America, with 21 gigs on soundcheck across Detroit and New York City. Often billed alongside Eric Umble, Kilopatrah Jones and Alissa Brianna. Next up: Animal, New York City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Mark Holcomb is a house and techno artist based in United States of America, wit
 
 Eric Umble, Kilopatrah Jones, Alissa Brianna
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markholcomb/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markholcomb/)*

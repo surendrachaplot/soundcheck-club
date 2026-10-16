@@ -1,6 +1,6 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 21 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "The Sound Of 宀 with Sunsiaré (宀, Hong Kong) B2B Yadin Moha (Zagareet, Hong Kong)" on Fri, 16 Oct 2026.
+宀 Club is a music venue in Hong Kong with 21 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "The Sound Of 宀 with Sunsiaré (宀, Hong Kong) B2B Yadin Moha (Zagareet, Hong Kong)" on Fri, 16 Oct 2026.
 
 宀 Club is a music venue in Hong Kong listed on soundcheck. 21 upcoming gigs, with line-ups including Bouffant Bouffant, Charlieowo, CVLT and Daura and 2 more. See dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
@@ -23,4 +23,4 @@
 
 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong, Hong Kong
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*

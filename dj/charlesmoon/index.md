@@ -1,17 +1,19 @@
 # Charles Moon
 
-Charles Moon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at CHICO, Mexico City on Fri, 30 Oct 2026.
+Charles Moon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at La Vista, Mexico City on Wed, 14 Oct 2026.
 
-Charles Moon is a house and techno artist based in United States of America, with 61 gigs on soundcheck across Amsterdam, Auckland, Austin and Berlin and 8 more. Often billed alongside Gi Gi, IN PRAISE and MOOD HSM. Next up: CHICO, Mexico City on Fri 30 Oct.
+Charles Moon is a house and techno artist based in United States of America, with 62 gigs on soundcheck across Amsterdam, Auckland, Austin and Berlin and 8 more. Often billed alongside MOOD HSM, Gi Gi and IN PRAISE. Next up: La Vista, Mexico City on Wed 14 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 14 Oct 2026 | La Vista | Mexico City |
 | Fri, 30 Oct 2026 | CHICO | Mexico City |
 
 ## Recently played
 
+- La Vista, Mexico City · Wed, 14 Oct 2026
 - Mitsuki, Tokyo · Wed, 30 Sept 2026
 - Nyapi, Seoul · Sat, 19 Sept 2026
 - Salon Palomilla, Mexico City · Thu, 10 Sept 2026
@@ -19,10 +21,9 @@ Charles Moon is a house and techno artist based in United States of America, wit
 - La Vista, Mexico City · Wed, 19 Aug 2026
 - Sonnenraum, Berlin · Fri, 15 May 2026
 - YuYu Cine Club, Mexico City · Fri, 3 Apr 2026
-- Drama Radio Bar, Mexico City · Tue, 31 Mar 2026
 
 ## Shares bills with
 
-Gi Gi, IN PRAISE, MOOD HSM
+MOOD HSM, Gi Gi, IN PRAISE
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlesmoon/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlesmoon/)*

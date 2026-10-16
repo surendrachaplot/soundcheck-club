@@ -1,6 +1,6 @@
 # vivi
 
-vivi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Fundbureau, Hamburg on Sat, 17 Oct 2026.
+vivi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Fundbureau, Hamburg on Sat, 17 Oct 2026.
 
 vivi is a house and disco artist based in Australia, with 42 gigs on soundcheck across Berlin, Cologne, Hamburg and London and 2 more. Often billed alongside Justice, MikAH and Ashlea Milinkovic. Next up: Fundbureau, Hamburg on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ vivi is a house and disco artist based in Australia, with 42 gigs on soundcheck 
 
 Justice, MikAH, Ashlea Milinkovic
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi/)*

@@ -1,6 +1,6 @@
 # ADE: Klub Analog x Benelux at Benelux BAR
 
-ADE: Klub Analog x Benelux at Benelux BAR on Thu 22 Oct, Amsterdam. 3 artists: Fais Le Beau, Tomoki Tamura and Varuna Agosti. House. See the line-up on soundcheck.
+ADE: Klub Analog x Benelux at Benelux BAR on Thu 22 Oct, Amsterdam. 6 artists: Fais Le Beau, PIKE, Shana and Tomoki Tamura and 2 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,10 @@ ADE: Klub Analog x Benelux at Benelux BAR on Thu 22 Oct, Amsterdam. 3 artists: F
 ## Line-up
 
 - Fais Le Beau
+- PIKE
+- Shana
 - Tomoki Tamura
+- Uksimo
 - Varuna Agosti
 
 *Source: [soundcheck](https://soundcheck.club/e/2536435-ade-klub-analog-x-benelux-at-benelux-bar/)*

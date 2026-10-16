@@ -1,14 +1,15 @@
 # Darush
 
-Darush is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Collect LX Factory, Lisbon on Fri, 16 Oct 2026.
+Darush is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Collect LX Factory, Lisbon on Fri, 16 Oct 2026.
 
-Darush is a house and techno artist based in Iran, with 38 gigs on soundcheck across Barcelona, Glasgow, Lisbon and London. Often billed alongside Jos, KT and De La Reef. Next up: Collect LX Factory, Lisbon on Fri 16 Oct.
+Darush is a house and techno artist based in Iran, with 39 gigs on soundcheck across Barcelona, Glasgow, Lisbon and London. Often billed alongside Jos, KT and De La Reef. Next up: Collect LX Factory, Lisbon on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Collect LX Factory | Lisbon |
+| Sun, 1 Nov 2026 | 83 Smeed Road | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Darush is a house and techno artist based in Iran, with 38 gigs on soundcheck ac
 
 Jos, KT, De La Reef
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darush/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darush/)*

@@ -1,6 +1,6 @@
 # Linus Villa
 
-Linus Villa is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at glimmer, Hamburg on Sat, 17 Oct 2026.
+Linus Villa is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at glimmer, Hamburg on Sat, 17 Oct 2026.
 
 Linus Villa is a techno and trance artist based in Germany, with 70 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Ben Derris, CMK (DE) and DJ SPORTSCHUH. Next up: glimmer, Hamburg on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Linus Villa is a techno and trance artist based in Germany, with 70 gigs on soun
 
 Ben Derris, CMK (DE), DJ SPORTSCHUH
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linusvilla/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linusvilla/)*

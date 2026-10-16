@@ -1,6 +1,6 @@
 # TEDESCO
 
-TEDESCO is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Electrowerkz, London on Fri, 23 Oct 2026.
+TEDESCO is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Electrowerkz, London on Fri, 23 Oct 2026.
 
 TEDESCO is a techno and club artist based in United Kingdom, with 126 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 12 more. Often billed alongside JONE OF ARX, Ivicore and Twang. Next up: Electrowerkz, London on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ TEDESCO is a techno and club artist based in United Kingdom, with 126 gigs on so
 
 JONE OF ARX, Ivicore, Twang
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tedesco/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tedesco/)*

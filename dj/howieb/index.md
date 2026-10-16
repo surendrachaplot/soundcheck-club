@@ -1,6 +1,6 @@
 # Howie B
 
-Howie B is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at clubasia, Tokyo on Mon, 30 Nov 2026.
+Howie B is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at clubasia, Tokyo on Mon, 30 Nov 2026.
 
 Howie B is an electronica and techno artist based in United Kingdom, with 10 gigs on soundcheck across Bangkok, Edinburgh, London and Rome and 2 more. Often billed alongside Gilles Peterson, Jerry Dammers and A Guy Called Gerald. Next up: clubasia, Tokyo on Mon 30 Nov.
 
@@ -25,4 +25,4 @@ Howie B is an electronica and techno artist based in United Kingdom, with 10 gig
 
 Gilles Peterson, Jerry Dammers, A Guy Called Gerald
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/howieb/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/howieb/)*

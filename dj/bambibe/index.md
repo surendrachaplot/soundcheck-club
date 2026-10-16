@@ -1,18 +1,18 @@
 # BAMBI (BE)
 
-BAMBI (BE) is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Moog Club, Barcelona on Thu, 15 Oct 2026.
+BAMBI (BE) is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Moog Club, Barcelona on Fri, 23 Oct 2026.
 
-BAMBI (BE) is a techno artist based in Spain, with 10 gigs on soundcheck across Barcelona. Next up: Moog Club, Barcelona on Thu 15 Oct.
+BAMBI (BE) is a techno artist based in Spain, with 10 gigs on soundcheck across Barcelona. Next up: Moog Club, Barcelona on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Moog Club | Barcelona |
 | Fri, 23 Oct 2026 | Moog Club | Barcelona |
 
 ## Recently played
 
+- Moog Club, Barcelona · Thu, 15 Oct 2026
 - Moog Club, Barcelona · Thu, 10 Sept 2026
 - Moog Club, Barcelona · Thu, 20 Aug 2026
 - Moog Club, Barcelona · Fri, 7 Aug 2026
@@ -20,6 +20,5 @@ BAMBI (BE) is a techno artist based in Spain, with 10 gigs on soundcheck across 
 - Moog Club, Barcelona · Fri, 17 Jul 2026
 - Moog Club, Barcelona · Tue, 23 Jun 2026
 - Moog Club, Barcelona · Thu, 23 Apr 2026
-- Moog Club, Barcelona · Thu, 12 Mar 2026
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambibe/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambibe/)*

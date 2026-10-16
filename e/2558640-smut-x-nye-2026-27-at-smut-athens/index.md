@@ -1,6 +1,6 @@
 # SMUT x NYE 2026/27 at SMUT Athens
 
-SMUT x NYE 2026/27 at SMUT Athens on Thu 31 Dec, Athens. 1 artist: Robert Hood. Techno. See the line-up on soundcheck.
+SMUT x NYE 2026/27 at SMUT Athens on Thu 31 Dec, Athens. 2 artists: Dasha Rush and Robert Hood. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SMUT x NYE 2026/27 at SMUT Athens on Thu 31 Dec, Athens. 1 artist: Robert Hood. 
 
 ## Line-up
 
+- Dasha Rush
 - Robert Hood
 
 *Source: [soundcheck](https://soundcheck.club/e/2558640-smut-x-nye-2026-27-at-smut-athens/)*

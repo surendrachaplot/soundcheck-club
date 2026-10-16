@@ -1,6 +1,6 @@
 # TR4CK ID?
 
-TR4CK ID? is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Biltmore Cabaret, Vancouver on Sat, 14 Nov 2026.
+TR4CK ID? is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Biltmore Cabaret, Vancouver on Sat, 14 Nov 2026.
 
 TR4CK ID? is a hardcore and techno artist based in Canada, with 27 gigs on soundcheck across Vancouver. Often billed alongside EtOH, buny and VioletNoise. Next up: Biltmore Cabaret, Vancouver on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ TR4CK ID? is a hardcore and techno artist based in Canada, with 27 gigs on sound
 
 EtOH, buny, VioletNoise
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tr4ckid/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tr4ckid/)*

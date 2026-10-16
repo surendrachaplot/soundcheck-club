@@ -1,6 +1,6 @@
 # Django
 
-Django is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Sat, 17 Oct 2026.
+Django is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Sat, 17 Oct 2026.
 
 Django is a house and tech house artist based in Indonesia, with 11 gigs on soundcheck across Amsterdam, Dublin, Ho Chi Minh City and Melbourne and 2 more. Often billed alongside ZOËZO, DJ Gomes and Mcspyder. Next up: The Observatory, Ho Chi Minh City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Django is a house and tech house artist based in Indonesia, with 11 gigs on soun
 
 ZOËZO, DJ Gomes, Mcspyder
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/django/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/django/)*

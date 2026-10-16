@@ -1,6 +1,6 @@
 # DJ Glitterelli
 
-DJ Glitterelli is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 24 Oct 2026.
+DJ Glitterelli is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 24 Oct 2026.
 
 DJ Glitterelli is a house and club artist based in Germany, with 14 gigs on soundcheck across Berlin. Often billed alongside Grenouillette, Lealaetitia and DIEGÖ. Next up: Bulbul Berlin, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DJ Glitterelli is a house and club artist based in Germany, with 14 gigs on soun
 
 Grenouillette, Lealaetitia, DIEGÖ
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djglitterelli/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djglitterelli/)*

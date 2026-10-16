@@ -1,6 +1,6 @@
 # Total Freedom
 
-Total Freedom is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Hexagon Brussels, Brussels on Fri, 16 Oct 2026.
+Total Freedom is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Hexagon Brussels, Brussels on Fri, 16 Oct 2026.
 
 Total Freedom is a club and techno artist based in United States of America, with 61 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 18 more. Often billed alongside BAE BAE, Bapari and Evian Christ. Next up: Hexagon Brussels, Brussels on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Total Freedom is a club and techno artist based in United States of America, wit
 
 BAE BAE, Bapari, Evian Christ
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/totalfreedom/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/totalfreedom/)*

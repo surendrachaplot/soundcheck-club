@@ -1,6 +1,6 @@
 # Prozak 2.0
 
-Prozak 2.0 is a music venue in Krakow with 14 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "NO SLEEP ROOM" on Wed, 14 Oct 2026.
+Prozak 2.0 is a music venue in Krakow with 14 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "NO SLEEP ROOM" on Wed, 14 Oct 2026.
 
 Prozak 2.0 is a music venue in Krakow listed on soundcheck. 14 upcoming gigs, with line-ups including Club Angel, Forest (PL), Francesca and Gunz and 2 more. See dates, start times and who's playing. plac Dominikański 6, 33-332 Kraków, Poland.
 
@@ -23,4 +23,4 @@ Prozak 2.0 is a music venue in Krakow listed on soundcheck. 14 upcoming gigs, wi
 
 plac Dominikański 6, 33-332 Kraków, Poland, Krakow
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/prozak-2-0/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/prozak-2-0/)*

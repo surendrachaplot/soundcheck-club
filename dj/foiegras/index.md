@@ -1,6 +1,6 @@
 # Foie Gras
 
-Foie Gras is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Club Malasaña, Madrid on Sat, 31 Oct 2026.
+Foie Gras is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Club Malasaña, Madrid on Sat, 31 Oct 2026.
 
 Foie Gras is a house and electronica artist based in Spain, with 80 gigs on soundcheck across Barcelona, Budapest, Madrid and Milan and 1 more. Often billed alongside 1Night Only, Le Nomad and Antoine.. Next up: Club Malasaña, Madrid on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Foie Gras is a house and electronica artist based in Spain, with 80 gigs on soun
 
 1Night Only, Le Nomad, Antoine.
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foiegras/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foiegras/)*

@@ -1,6 +1,6 @@
 # Snoozy
 
-Snoozy is a Jungle and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Aaja Basement, London on Sat, 31 Oct 2026.
+Snoozy is a Jungle and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Aaja Basement, London on Sat, 31 Oct 2026.
 
 Snoozy is a jungle and breakbeat artist based in United Kingdom, with 39 gigs on soundcheck across London. Often billed alongside Rhi Spect, bomb shelter crew and Dogfish. Next up: Aaja Basement, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Snoozy is a jungle and breakbeat artist based in United Kingdom, with 39 gigs on
 
 Rhi Spect, bomb shelter crew, Dogfish
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snoozy/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snoozy/)*

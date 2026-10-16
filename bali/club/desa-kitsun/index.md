@@ -1,6 +1,6 @@
 # Desa Kitsuné
 
-Desa Kitsuné is a music venue in Bali with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "Halloween - Les Clown Du Chaos" on Tue, 27 Oct 2026.
+Desa Kitsuné is a music venue in Bali with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "Halloween - Les Clown Du Chaos" on Tue, 27 Oct 2026.
 
 Desa Kitsuné is a music venue in Bali listed on soundcheck. 1 upcoming gig, with line-ups including Angelos. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Desa Kitsuné is a music venue in Bali listed on soundcheck. 1 upcoming gig, wit
 | --- | --- | --- |
 | Tue, 27 Oct 2026 | Halloween - Les Clown Du Chaos | Angelos |
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/desa-kitsun/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/desa-kitsun/)*

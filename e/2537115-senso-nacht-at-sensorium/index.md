@@ -1,6 +1,6 @@
 # SENSO NACHT at Sensorium
 
-SENSO NACHT at Sensorium on Sat 24 Oct, Berlin. 9 artists: April the pink, b.e.n.m, DJ Black Moses and LA BITCHENCIO and 5 more. Techno and Tech House. See the line-up on soundcheck.
+SENSO NACHT at Sensorium on Sat 24 Oct, Berlin. 10 artists: April the pink, b.e.n.m, DJ Black Moses and LA BITCHENCIO and 6 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,6 +17,7 @@ SENSO NACHT at Sensorium on Sat 24 Oct, Berlin. 9 artists: April the pink, b.e.n
 - Lukeez
 - Miriam
 - Rio (QPLO)
+- sapskt
 - VADE!
 - Vantavision
 

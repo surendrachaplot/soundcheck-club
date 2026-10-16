@@ -1,6 +1,6 @@
 # Jacom
 
-Jacom is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at MÄX, Zurich on Sat, 17 Oct 2026.
+Jacom is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at MÄX, Zurich on Sat, 17 Oct 2026.
 
 Jacom is a techno and electronica artist based in Switzerland, with 2 gigs on soundcheck across Zurich. Often billed alongside SCNR, Ahmet Sisman and BLANKA. Next up: MÄX, Zurich on Sat 17 Oct.
 
@@ -15,4 +15,4 @@ Jacom is a techno and electronica artist based in Switzerland, with 2 gigs on so
 
 SCNR, Ahmet Sisman, BLANKA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacom/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacom/)*

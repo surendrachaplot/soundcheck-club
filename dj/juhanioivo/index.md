@@ -1,6 +1,6 @@
 # Juhani Oivo
 
-Juhani Oivo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Paloma, Berlin on Sat, 5 Dec 2026.
+Juhani Oivo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Paloma, Berlin on Sat, 5 Dec 2026.
 
 Juhani Oivo is a house and techno artist based in Finland, with 29 gigs on soundcheck across Berlin, Bristol, Helsinki and London and 6 more. Often billed alongside Mesak, Carlina Carpelan and Katerina. Next up: Paloma, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Juhani Oivo is a house and techno artist based in Finland, with 29 gigs on sound
 
 Mesak, Carlina Carpelan, Katerina
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juhanioivo/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juhanioivo/)*

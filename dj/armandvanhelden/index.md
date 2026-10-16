@@ -1,6 +1,6 @@
 # Armand Van Helden
 
-Armand Van Helden is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Hemkade 48, Amsterdam on Sat, 24 Oct 2026.
+Armand Van Helden is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Hemkade 48, Amsterdam on Sat, 24 Oct 2026.
 
 Armand Van Helden is a house and tech house artist based in United States of America, with 116 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 37 more. Often billed alongside Fatzo, Oden and MiNNA. Next up: Hemkade 48, Amsterdam on Sat 24 Oct.
 
@@ -34,4 +34,4 @@ Armand Van Helden is a house and tech house artist based in United States of Ame
 
 Fatzo, Oden, MiNNA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*

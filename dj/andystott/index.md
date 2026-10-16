@@ -1,6 +1,6 @@
 # Andy Stott
 
-Andy Stott is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+Andy Stott is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
 Andy Stott is an experimental and electronica artist based in United Kingdom, with 30 gigs on soundcheck across Athens, Austin, Barcelona and Berlin and 19 more. Often billed alongside Debit, Demdike Stare and The Bug. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Andy Stott is an experimental and electronica artist based in United Kingdom, wi
 
 Debit, Demdike Stare, The Bug
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andystott/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andystott/)*

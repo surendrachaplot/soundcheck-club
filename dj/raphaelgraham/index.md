@@ -1,6 +1,6 @@
 # Raphael Graham
 
-Raphael Graham is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Audio Club, Geneva on Sat, 24 Oct 2026.
+Raphael Graham is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Audio Club, Geneva on Sat, 24 Oct 2026.
 
 Raphael Graham is a techno and house artist based in Switzerland, with 25 gigs on soundcheck across Barcelona and Geneva. Often billed alongside Auguste Safar, AGELESS and DJ Reas. Next up: Audio Club, Geneva on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Raphael Graham is a techno and house artist based in Switzerland, with 25 gigs o
 
 Auguste Safar, AGELESS, DJ Reas
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaelgraham/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaelgraham/)*

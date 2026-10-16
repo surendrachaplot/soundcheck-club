@@ -1,6 +1,6 @@
 # The Alchemist
 
-The Alchemist is a Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Sunhall, Osaka on Sat, 21 Nov 2026.
+The Alchemist is a Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Sunhall, Osaka on Sat, 21 Nov 2026.
 
 The Alchemist is a hip-hop artist, with 7 gigs on soundcheck across Amsterdam, Copenhagen, Lisbon and Mexico City and 2 more. Often billed alongside DJ Premier, Aba Shanti-I and Bambii. Next up: Sunhall, Osaka on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ The Alchemist is a hip-hop artist, with 7 gigs on soundcheck across Amsterdam, C
 
 DJ Premier, Aba Shanti-I, Bambii
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thealchemist-ch/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thealchemist-ch/)*

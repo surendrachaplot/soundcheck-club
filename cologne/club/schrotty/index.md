@@ -1,6 +1,6 @@
 # Schrotty
 
-Schrotty is a music venue in Cologne with 11 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Pappenheimer, Kerstin Eden, A*S*Y*S, S. Groth, Drumcomplex uvm. by BACK2BASICS XXL" on Fri, 16 Oct 2026.
+Schrotty is a music venue in Cologne with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Pappenheimer, Kerstin Eden, A*S*Y*S, S. Groth, Drumcomplex uvm. by BACK2BASICS XXL" on Fri, 16 Oct 2026.
 
 Schrotty is a music venue in Cologne listed on soundcheck. 11 upcoming gigs, with line-ups including Alfred Heinrichs, Amilli, Andreas Kraemer and ANNĒ and 2 more. See dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
 
@@ -23,4 +23,4 @@ Schrotty is a music venue in Cologne listed on soundcheck. 11 upcoming gigs, wit
 
 Vogelsanger Straße 406, 50827 Köln, Cologne
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*

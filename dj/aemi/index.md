@@ -1,6 +1,6 @@
 # AEMI
 
-AEMI is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at R Lounge, Tokyo on Fri, 16 Oct 2026.
+AEMI is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at R Lounge, Tokyo on Fri, 16 Oct 2026.
 
 AEMI is a trance and techno artist based in Japan, with 22 gigs on soundcheck across Tokyo. Often billed alongside DJ 34, BEPPU and Okamon. Next up: R Lounge, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ AEMI is a trance and techno artist based in Japan, with 22 gigs on soundcheck ac
 
 DJ 34, BEPPU, Okamon
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aemi/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aemi/)*

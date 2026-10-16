@@ -1,14 +1,13 @@
 # Badaboum
 
-Badaboum is a music venue in Paris with 15 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Club — LA CH!CK: JUST DANCE IRL" on Thu, 15 Oct 2026.
+Badaboum is a music venue in Paris with 14 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Club — LAMALICE Residency: Janeret, Dana Kuehr, Mel" on Fri, 16 Oct 2026.
 
-Badaboum is a music venue in Paris listed on soundcheck. 15 upcoming gigs, with line-ups including Bon Public, Curses, Dana Kuehr and Didi Han and 2 more. See dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
+Badaboum is a music venue in Paris listed on soundcheck. 14 upcoming gigs, with line-ups including Bon Public, Curses, Dana Kuehr and Didi Han and 2 more. See dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Club — LA CH!CK: JUST DANCE IRL |  |
 | Fri, 16 Oct 2026 | Club — LAMALICE Residency: Janeret, Dana Kuehr, Mel | Dana Kuehr, Janeret, LAMALICE, Mel (FR) |
 | Sat, 17 Oct 2026 | Club — Spray, Pureblast, Maco Maria | Maco Maria, Pureblast, Spray |
 | Thu, 22 Oct 2026 | Club — LA CH!CK: CH!CK MUSIC ONLY |  |
@@ -18,9 +17,10 @@ Badaboum is a music venue in Paris listed on soundcheck. 15 upcoming gigs, with 
 | Thu, 29 Oct 2026 | Concert — Hypershot: Europa, Sodomland, The Velvet Brothers | Europa (1), Sodomland, The Velvet Brothers |
 | Fri, 30 Oct 2026 | Club — Silva Bumpa, Scolcab, Unsho, NOON | Halfpipe Records, NOON, Silva Bumpa, Unsho |
 | Fri, 30 Oct 2026 | Loukeman | Loukeman |
+| Sat, 31 Oct 2026 | Halloween Party — Curses, Joe Lewandowski, Le Saint, RAG | Curses, Joe Lewandowski, Le Saint, RAG |
 
 ## Address
 
 2 bis rue des Taillandiers; 75011; Paris; France, Paris
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*

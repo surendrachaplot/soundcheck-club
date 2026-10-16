@@ -1,6 +1,6 @@
 # Jess Hands
 
-Jess Hands is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at The Glove That Fits, London on Sat, 28 Nov 2026.
+Jess Hands is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Glove That Fits, London on Sat, 28 Nov 2026.
 
 Jess Hands is a techno and house artist based in United Kingdom, with 48 gigs on soundcheck across Birmingham, Brighton, Bristol and Copenhagen and 4 more. Often billed alongside Michelle Manetti, Jay Carder and Jaye Ward. Next up: The Glove That Fits, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Jess Hands is a techno and house artist based in United Kingdom, with 48 gigs on
 
 Michelle Manetti, Jay Carder, Jaye Ward
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jesshands/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jesshands/)*

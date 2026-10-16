@@ -1,14 +1,13 @@
 # La Java
 
-La Java is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "La Java 103 Ans: Louis The 4th, Egna B2b Equus Belli & More" on Thu, 15 Oct 2026.
+La Java is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "La Java 103 Ans: Florian Picasso, Surf 2 Glory, Die Klar" on Fri, 16 Oct 2026.
 
-La Java is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with line-ups including Alhena_, CASSIOPÉE, Chinau and Crowd Control and 2 more. See dates, start times and who's playing. 105 rue du faubourg du Temple; 75010; Paris; France.
+La Java is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including Alhena_, CASSIOPÉE, Chinau and Crowd Control and 2 more. See dates, start times and who's playing. 105 rue du faubourg du Temple; 75010; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | La Java 103 Ans: Louis The 4th, Egna B2b Equus Belli & More | Egna, Equus Belli, Louis The 4th |
 | Fri, 16 Oct 2026 | La Java 103 Ans: Florian Picasso, Surf 2 Glory, Die Klar | Die Klar, Florian Picasso, Surf 2 Glory |
 | Sat, 17 Oct 2026 | La Java 103 Ans: Deborah Aime La Bagarre, Fleur De Mur, Tartine Music | Deborah Aime La Bagarre, Fleur De Mur |
 | Fri, 23 Oct 2026 | ESSENCE x OPTIMAL REQUEST | Ey.rah, Juste S, NEWIN |
@@ -22,4 +21,4 @@ La Java is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with li
 
 105 rue du faubourg du Temple; 75010; Paris; France, Paris
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*

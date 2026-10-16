@@ -1,6 +1,6 @@
 # Lagué Moin
 
-Lagué Moin is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Unter Deck, Munich on Fri, 16 Oct 2026.
+Lagué Moin is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Unter Deck, Munich on Fri, 16 Oct 2026.
 
 Lagué Moin is a house and disco artist based in Germany, with 17 gigs on soundcheck across Berlin, Munich and Vienna. Often billed alongside Julie Fleischer, Rafatel and heronymus. Next up: Unter Deck, Munich on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Lagué Moin is a house and disco artist based in Germany, with 17 gigs on soundc
 
 Julie Fleischer, Rafatel, heronymus
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laguemoin/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laguemoin/)*

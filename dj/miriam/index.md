@@ -1,6 +1,6 @@
 # Miriam
 
-Miriam is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Sensorium, Berlin on Sat, 24 Oct 2026.
+Miriam is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Sensorium, Berlin on Sat, 24 Oct 2026.
 
 Miriam is a techno and tech house artist based in Germany, with 9 gigs on soundcheck across Athens, Belgrade, Berlin and Chicago and 1 more. Often billed alongside Luka Jukic, 600 mojo and April the pink. Next up: Sensorium, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Miriam is a techno and tech house artist based in Germany, with 9 gigs on soundc
 
 Luka Jukic, 600 mojo, April the pink
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miriam/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miriam/)*

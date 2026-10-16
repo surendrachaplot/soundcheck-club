@@ -1,14 +1,15 @@
 # Marco Ohboy
 
-Marco Ohboy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at OXI, Berlin on Fri, 16 Oct 2026.
+Marco Ohboy is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at OXI, Berlin on Fri, 16 Oct 2026.
 
-Marco Ohboy is a house and disco artist based in Italy, with 38 gigs on soundcheck across Barcelona, Berlin and Milan. Often billed alongside Ansonica, Luca Carluccio and Izzy Demzky. Next up: OXI, Berlin on Fri 16 Oct.
+Marco Ohboy is a house and disco artist based in Italy, with 39 gigs on soundcheck across Barcelona, Berlin and Milan. Often billed alongside Ansonica, Luca Carluccio and Izzy Demzky. Next up: OXI, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | OXI | Berlin |
+| Fri, 23 Oct 2026 | Renate | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Marco Ohboy is a house and disco artist based in Italy, with 38 gigs on soundche
 
 Ansonica, Luca Carluccio, Izzy Demzky
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoohboy/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoohboy/)*

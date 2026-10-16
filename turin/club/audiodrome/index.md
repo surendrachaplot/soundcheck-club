@@ -1,6 +1,6 @@
 # Audiodrome
 
-Audiodrome is a music venue in Turin with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Luca Agnelli for OVER PARTY" on Fri, 16 Oct 2026.
+Audiodrome is a music venue in Turin with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Luca Agnelli for OVER PARTY" on Fri, 16 Oct 2026.
 
 Audiodrome is a music venue in Turin listed on soundcheck. 4 upcoming gigs, with line-ups including Enrico Sangiuliano, Gandalf, Luca Agnelli and Part Time Killer and 1 more. See dates, start times and who's playing. Strada Mongina 9, 10024 Moncalieri (TO), Italy.
 
@@ -17,4 +17,4 @@ Audiodrome is a music venue in Turin listed on soundcheck. 4 upcoming gigs, with
 
 Strada Mongina 9, 10024 Moncalieri (TO), Italy, Turin
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/audiodrome/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/audiodrome/)*

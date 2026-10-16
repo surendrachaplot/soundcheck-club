@@ -1,14 +1,13 @@
 # Crack Bellmer
 
-Crack Bellmer is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "All My Fears (Album Release Event) presented by Aexhy & Sonny Smiles" on Thu, 15 Oct 2026.
+Crack Bellmer is a music venue in Berlin with 22 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "CAUSE&EFFECT" on Fri, 16 Oct 2026.
 
-Crack Bellmer is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with line-ups including 2727, 4M4R, Aexhy and AGUSTIN BARBEI and 2 more. See dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
+Crack Bellmer is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, with line-ups including 2727, 4M4R, AGUSTIN BARBEI and anna andersrum and 2 more. See dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | All My Fears (Album Release Event) presented by Aexhy & Sonny Smiles | Aexhy, LŸBRA, Marcie (2), SACID, Sonny Smiles, happysadgirl |
 | Fri, 16 Oct 2026 | CAUSE&EFFECT | LINNÉA, ULY99 |
 | Sat, 17 Oct 2026 | Black Lab x Crack Bellmer | Minù Jr, Salem Unsigned |
 | Sat, 17 Oct 2026 | CC COLLECTIVE PRESENTS CVNTY.VOL1 |  |
@@ -18,9 +17,10 @@ Crack Bellmer is a music venue in Berlin listed on soundcheck. 21 upcoming gigs,
 | Fri, 23 Oct 2026 | PLAYTOWN by Confluencia | AGUSTIN BARBEI, Club Suave, Don Bellanton, Franco Strato, Kat_Es, Mati Amoretti |
 | Sat, 24 Oct 2026 | Others to the Baile | Kandylion, Robin Flux, Sky Deep, Thomasito, VRTL, materia hache |
 | Sun, 25 Oct 2026 | GAY PANIC: Alter Ego | DJ Gianni, materia hache |
+| Wed, 28 Oct 2026 | OPEN DECKS FOR FLINTA* PING PONG FOR ALL |  |
 
 ## Address
 
 Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany, Berlin
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*

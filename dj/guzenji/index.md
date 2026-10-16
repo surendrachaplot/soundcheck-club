@@ -1,6 +1,6 @@
 # guzenji
 
-guzenji is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Koenji Music Bar C-Studio, Tokyo on Sat, 17 Oct 2026.
+guzenji is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Koenji Music Bar C-Studio, Tokyo on Sat, 17 Oct 2026.
 
 guzenji is a techno and ambient artist, with 9 gigs on soundcheck across Tokyo. Often billed alongside maikoo, sayapan and Krankent. Next up: Koenji Music Bar C-Studio, Tokyo on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ guzenji is a techno and ambient artist, with 9 gigs on soundcheck across Tokyo. 
 
 maikoo, sayapan, Krankent
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guzenji/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guzenji/)*

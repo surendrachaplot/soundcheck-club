@@ -1,6 +1,6 @@
 # April the pink
 
-April the pink is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Sensorium, Berlin on Sat, 24 Oct 2026.
+April the pink is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Sensorium, Berlin on Sat, 24 Oct 2026.
 
 April the pink is a techno and tech house artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside EVYA, Vantavision and jaynetics. Next up: Sensorium, Berlin on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ April the pink is a techno and tech house artist based in Germany, with 4 gigs o
 
 EVYA, Vantavision, jaynetics
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aprilthepink/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aprilthepink/)*

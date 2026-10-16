@@ -1,6 +1,6 @@
 # OMAR (UY)
 
-OMAR (UY) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Les Enfants Brillants, Barcelona on Fri, 16 Oct 2026.
+OMAR (UY) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Les Enfants Brillants, Barcelona on Fri, 16 Oct 2026.
 
 OMAR (UY) is a house and techno artist based in Uruguay, with 109 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belgrade and 32 more. Often billed alongside Oriana, Binh and Bobby.. Next up: Les Enfants Brillants, Barcelona on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ OMAR (UY) is a house and techno artist based in Uruguay, with 109 gigs on soundc
 
 Oriana, Binh, Bobby.
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omar-uy/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omar-uy/)*

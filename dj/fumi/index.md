@@ -1,8 +1,8 @@
 # FUMI
 
-FUMI is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Arzenal, Budapest on Fri, 16 Oct 2026.
+FUMI is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Arzenal, Budapest on Fri, 16 Oct 2026.
 
-FUMI is a techno and industrial artist based in France, with 100 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 28 more. Often billed alongside EVE, Monk000 and Adrian Mills. Next up: Arzenal, Budapest on Fri 16 Oct.
+FUMI is a techno and industrial artist based in France, with 101 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside EVE, Monk000 and Adrian Mills. Next up: Arzenal, Budapest on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ FUMI is a techno and industrial artist based in France, with 100 gigs on soundch
 | Sat, 17 Oct 2026 | TBA - SKY ROOM (Ex Mate Disco) | Sicily |
 | Sat, 31 Oct 2026 | TBA - Studio Orfei | Sofia |
 | Sat, 7 Nov 2026 | RSO.BERLIN | Berlin |
+| Fri, 20 Nov 2026 | TBA | Melbourne |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ FUMI is a techno and industrial artist based in France, with 100 gigs on soundch
 
 EVE (1), Monk000, Adrian Mills
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi/)*

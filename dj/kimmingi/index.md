@@ -1,6 +1,6 @@
 # Kimmingi
 
-Kimmingi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Paper, Seoul on Sat, 17 Oct 2026.
+Kimmingi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Paper, Seoul on Sat, 17 Oct 2026.
 
 Kimmingi is a house and techno artist based in South Korea, with 116 gigs on soundcheck across Seoul. Often billed alongside JNS, Nitecaps and Mihak. Next up: Paper, Seoul on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Kimmingi is a house and techno artist based in South Korea, with 116 gigs on sou
 
 JNS, Nitecaps, Mihak
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmingi/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmingi/)*

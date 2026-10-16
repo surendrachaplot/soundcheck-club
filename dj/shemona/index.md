@@ -1,6 +1,6 @@
 # SHEMONA
 
-SHEMONA is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Handlebar, Toronto on Fri, 16 Oct 2026.
+SHEMONA is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Handlebar, Toronto on Fri, 16 Oct 2026.
 
 SHEMONA is an ambient and experimental artist, with 11 gigs on soundcheck across Toronto. Often billed alongside CIBER1A, Bryce Hackford and CASSRAA. Next up: Handlebar, Toronto on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ SHEMONA is an ambient and experimental artist, with 11 gigs on soundcheck across
 
 CIBER1A, Bryce Hackford, CASSRAA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shemona/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shemona/)*

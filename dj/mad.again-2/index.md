@@ -1,6 +1,6 @@
 # Mad.Again (2)
 
-Mad.Again (2) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Warehouse, Leeds on Fri, 30 Oct 2026.
+Mad.Again (2) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Warehouse, Leeds on Fri, 30 Oct 2026.
 
 Mad.Again is a house and tech house artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bristol and 13 more. Often billed alongside Locky, Liam Palmer and Elliot Schooling. Next up: The Warehouse, Leeds on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Mad.Again is a house and tech house artist based in United Kingdom, with 66 gigs
 
 Locky, Liam Palmer, Elliot Schooling
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mad.again-2/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mad.again-2/)*

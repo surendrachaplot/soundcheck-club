@@ -1,6 +1,6 @@
 # Kościół Ewangelicko-Reformowany
 
-Kościół Ewangelicko-Reformowany is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "BEST OF LUCK vol.4" on Fri, 23 Oct 2026.
+Kościół Ewangelicko-Reformowany is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "BEST OF LUCK vol.4" on Fri, 23 Oct 2026.
 
 Kościół Ewangelicko-Reformowany is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, with line-ups including Generator42, Lutto Lento and madmami. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Kościół Ewangelicko-Reformowany is a music venue in Warsaw listed on soundche
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | BEST OF LUCK vol.4 | Generator42, Lutto Lento, madmami |
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/ko-ci-ewangelicko-reformowany/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/ko-ci-ewangelicko-reformowany/)*

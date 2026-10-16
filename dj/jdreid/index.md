@@ -1,8 +1,8 @@
 # JD. REID
 
-JD. REID is a Club and UK Funky artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Hope House, Leeds on Sat, 7 Nov 2026.
+JD. REID is a Club and UK Funky artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Hope House, Leeds on Sat, 7 Nov 2026.
 
-JD. REID is a club and uk funky artist based in United Kingdom, with 28 gigs on soundcheck across Dublin, Leeds, London and Manchester. Often billed alongside Bok Bok, Halogenix and Call Super. Next up: Hope House, Leeds on Sat 7 Nov.
+JD. REID is a club and uk funky artist based in United Kingdom, with 29 gigs on soundcheck across Dublin, Leeds, London and Manchester. Often billed alongside Bok Bok, Halogenix and Call Super. Next up: Hope House, Leeds on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ JD. REID is a club and uk funky artist based in United Kingdom, with 28 gigs on 
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Hope House | Leeds |
 | Sat, 14 Nov 2026 | New Century Locker | Manchester |
+| Fri, 20 Nov 2026 | Palais | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ JD. REID is a club and uk funky artist based in United Kingdom, with 28 gigs on 
 
 Bok Bok, Halogenix, Call Super
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jdreid/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jdreid/)*

@@ -1,14 +1,15 @@
 # AREA ØNE
 
-AREA ØNE is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at BASIS, Utrecht on Fri, 16 Oct 2026.
+AREA ØNE is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at BASIS, Utrecht on Fri, 16 Oct 2026.
 
-AREA ØNE is a techno and trance artist based in Netherlands, with 57 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 21 more. Often billed alongside Niotech, HANÀ and THISO. Next up: BASIS, Utrecht on Fri 16 Oct.
+AREA ØNE is a techno and trance artist based in Netherlands, with 58 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 21 more. Often billed alongside Niotech, HANÀ and THISO. Next up: BASIS, Utrecht on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | BASIS | Utrecht |
+| Wed, 21 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
 | Fri, 20 Nov 2026 | Garagen | Cologne |
 | Wed, 30 Dec 2026 | DSTRKT Club Berlin | Berlin |
 
@@ -27,4 +28,4 @@ AREA ØNE is a techno and trance artist based in Netherlands, with 57 gigs on so
 
 Niotech, HANÀ, THISO
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/areaone/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/areaone/)*

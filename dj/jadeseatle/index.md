@@ -1,6 +1,6 @@
 # Jade Seatle
 
-Jade Seatle is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Rest Favignana, Sicily on Fri, 16 Oct 2026.
+Jade Seatle is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Rest Favignana, Sicily on Fri, 16 Oct 2026.
 
 Jade Seatle is a house and techno artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 11 more. Often billed alongside Jane Fitz, NIGHT MOVES and Seb Odyssey. Next up: Rest Favignana, Sicily on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Jade Seatle is a house and techno artist based in United Kingdom, with 55 gigs o
 
 Jane Fitz, NIGHT MOVES, Seb Odyssey
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jadeseatle/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jadeseatle/)*

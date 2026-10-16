@@ -1,6 +1,6 @@
 # Mike Medow
 
-Mike Medow is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Tigris, Detroit on Fri, 16 Oct 2026.
+Mike Medow is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Tigris, Detroit on Fri, 16 Oct 2026.
 
 Mike Medow is a house and italo disco artist, with 11 gigs on soundcheck across Detroit and Toronto. Often billed alongside Ryan Spencer, BEIGE and Cal C (Modern Art). Next up: Tigris, Detroit on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Mike Medow is a house and italo disco artist, with 11 gigs on soundcheck across 
 
 Ryan Spencer, BEIGE, Cal C (Modern Art)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemedow/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemedow/)*

@@ -1,6 +1,6 @@
 # 1tbsp at Le Studio TD
 
-1tbsp at Le Studio TD on Fri 30 Oct, Montreal. 1 artist: 1tbsp. House. See the line-up on soundcheck.
+1tbsp at Le Studio TD on Fri 30 Oct, Montreal. 2 artists: 1tbsp and Audrey Bélanger. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@
 ## Line-up
 
 - 1tbsp
+- Audrey Bélanger
 
 *Source: [soundcheck](https://soundcheck.club/e/2561767-1tbsp-at-le-studio-td/)*

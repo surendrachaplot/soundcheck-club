@@ -1,6 +1,6 @@
 # Atlaskin
 
-Atlaskin is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Fuchs2, Prague on Sat, 31 Oct 2026.
+Atlaskin is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Fuchs2, Prague on Sat, 31 Oct 2026.
 
 Atlaskin is a techno and tech house artist based in Czech Republic, with 32 gigs on soundcheck across Prague. Often billed alongside VNNUK, Nastya Muravyova and Takē. Next up: Fuchs2, Prague on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Atlaskin is a techno and tech house artist based in Czech Republic, with 32 gigs
 
 VNNUK, Nastya Muravyova, Takē
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atlaskin/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atlaskin/)*

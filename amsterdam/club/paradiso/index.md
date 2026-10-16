@@ -1,6 +1,6 @@
 # Paradiso
 
-Paradiso is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "MALUGI - ADE" on Wed, 21 Oct 2026.
+Paradiso is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "MALUGI - ADE" on Wed, 21 Oct 2026.
 
 Paradiso is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with line-ups including 2ManyDJs, Alex Oxley, Because of Art and Bolis Pupul and 2 more. See dates, start times and who's playing. Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands.
 
@@ -23,4 +23,4 @@ Paradiso is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, w
 
 Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*

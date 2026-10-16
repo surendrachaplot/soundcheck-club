@@ -1,6 +1,6 @@
 # Het Sieraad
 
-Het Sieraad is a music venue in Amsterdam with 22 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Fabe B2B Fabio Santos (5hrs) - OG Sanja" on Fri, 16 Oct 2026.
+Het Sieraad is a music venue in Amsterdam with 22 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Fabe B2B Fabio Santos (5hrs) - OG Sanja" on Fri, 16 Oct 2026.
 
 Het Sieraad is a music venue in Amsterdam listed on soundcheck. 22 upcoming gigs, with line-ups including Adam Ten, Adapter, Alexander Koning and Alicia Hahn and 2 more. See dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
 
@@ -23,4 +23,4 @@ Het Sieraad is a music venue in Amsterdam listed on soundcheck. 22 upcoming gigs
 
 Postjesweg 1, 1057 DT Amsterdam, Amsterdam
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*

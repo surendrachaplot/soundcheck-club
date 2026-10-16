@@ -1,6 +1,6 @@
 # TBA - Neukölln
 
-TBA - Neukölln is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Samar Samar by Kretekklang x A -ZN" on Fri, 23 Oct 2026.
+TBA - Neukölln is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Samar Samar by Kretekklang x A -ZN" on Fri, 23 Oct 2026.
 
 TBA - Neukölln is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including BreakLD, clay (DE), Flørist and Mattie and 2 more. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ TBA - Neukölln is a music venue in Berlin listed on soundcheck. 3 upcoming gigs
 | Fri, 30 Oct 2026 | WICKED WELLNESS by Studio Wellness w/ Peter Invasion | Peter Invasion |
 | Sun, 1 Nov 2026 | WATCH EP RELEASE PARTY | Flørist, Mattie, Pascale Project, Shjva |
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-neuk-lln/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-neuk-lln/)*

@@ -1,6 +1,6 @@
 # Prayer
 
-Prayer is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Dunia, Istanbul on Sat, 17 Oct 2026.
+Prayer is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Dunia, Istanbul on Sat, 17 Oct 2026.
 
 Prayer is an experimental and bass artist, with 8 gigs on soundcheck across Istanbul, London and Prague. Often billed alongside Granul, Anymodal and Fosil. Next up: Dunia, Istanbul on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ Prayer is an experimental and bass artist, with 8 gigs on soundcheck across Ista
 
 Granul, Anymodal, Fosil
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prayer/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prayer/)*

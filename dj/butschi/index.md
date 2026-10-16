@@ -1,6 +1,6 @@
 # Butschi
 
-Butschi is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at WDM, Hannover on Fri, 6 Nov 2026.
+Butschi is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at WDM, Hannover on Fri, 6 Nov 2026.
 
 Butschi is a trance and techno artist based in Germany, with 81 gigs on soundcheck across Basel, Berlin, Budapest and Cologne and 12 more. Often billed alongside Upper90, Carluschka and DJ Sonnenbrand. Next up: WDM, Hannover on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Butschi is a trance and techno artist based in Germany, with 81 gigs on soundche
 
 Upper90, Carluschka, DJ Sonnenbrand
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/butschi/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/butschi/)*

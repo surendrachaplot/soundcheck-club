@@ -1,6 +1,6 @@
 # komunal
 
-komunal is a music venue in Birmingham with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Vanessa Malado, Ashley Parris + O'Neill" on Fri, 16 Oct 2026.
+komunal is a music venue in Birmingham with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Vanessa Malado, Ashley Parris + O'Neill" on Fri, 16 Oct 2026.
 
 komunal is a music venue in Birmingham listed on soundcheck. 7 upcoming gigs, with line-ups including Cam Foster, Dannheimer, Faraz (UK) and Richard Gregory. See dates, start times and who's playing. 11 Shaw's Passage, Digbeth, B5 5JG.
 
@@ -20,4 +20,4 @@ komunal is a music venue in Birmingham listed on soundcheck. 7 upcoming gigs, wi
 
 11 Shaw's Passage, Digbeth, B5 5JG, Birmingham
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*

@@ -1,14 +1,15 @@
 # d. clemente
 
-d. clemente is a Jungle and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at The White Hotel, Manchester on Fri, 16 Oct 2026.
+d. clemente is a Jungle and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The White Hotel, Manchester on Fri, 16 Oct 2026.
 
-d. clemente is a jungle and electro artist based in United Kingdom, with 36 gigs on soundcheck across London, Manchester and Sheffield. Often billed alongside FKA Hardcore, djlaundrybasket and salt pillar. Next up: The White Hotel, Manchester on Fri 16 Oct.
+d. clemente is a jungle and techno artist based in United Kingdom, with 37 gigs on soundcheck across London, Manchester and Sheffield. Often billed alongside FKA Hardcore, djlaundrybasket and salt pillar. Next up: The White Hotel, Manchester on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | The White Hotel | Manchester |
+| Fri, 13 Nov 2026 | The DBA | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ d. clemente is a jungle and electro artist based in United Kingdom, with 36 gigs
 
 FKA Hardcore, djlaundrybasket, salt pillar
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d.clemente/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d.clemente/)*

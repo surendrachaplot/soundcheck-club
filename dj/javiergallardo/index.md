@@ -1,6 +1,6 @@
 # Javier Gallardo
 
-Javier Gallardo is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Dings, Munich on Sat, 24 Oct 2026.
+Javier Gallardo is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Dings, Munich on Sat, 24 Oct 2026.
 
 Javier Gallardo is a house and dub techno artist based in Germany, with 32 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ghent and 4 more. Often billed alongside David Hornung, Jôka and Konrad Schneider. Next up: Dings, Munich on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Javier Gallardo is a house and dub techno artist based in Germany, with 32 gigs 
 
 David Hornung, Jôka, Konrad Schneider
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javiergallardo/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javiergallardo/)*

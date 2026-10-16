@@ -1,6 +1,6 @@
 # Bart Skils
 
-Bart Skils is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at UNDERCITY, Seoul on Fri, 16 Oct 2026.
+Bart Skils is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at UNDERCITY, Seoul on Fri, 16 Oct 2026.
 
 Bart Skils is a techno and house artist based in Netherlands, with 134 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 43 more. Often billed alongside Adam Beyer, Eli Brown and Victor Ruiz. Next up: UNDERCITY, Seoul on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Bart Skils is a techno and house artist based in Netherlands, with 134 gigs on s
 
 Adam Beyer, Eli Brown, Victor Ruiz
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bartskils/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bartskils/)*

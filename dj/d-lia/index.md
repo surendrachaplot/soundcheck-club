@@ -1,13 +1,14 @@
 # D-LIA
 
-D-LIA is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Hidden, Manchester on Fri, 13 Nov 2026.
+D-LIA is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Off The Square, Manchester on Sat, 7 Nov 2026.
 
-D-LIA is a house and disco artist based in United Kingdom, with 21 gigs on soundcheck across Leeds and Manchester. Often billed alongside sez., HSTN and KABOCANA. Next up: Hidden, Manchester on Fri 13 Nov.
+D-LIA is a house and disco artist based in United Kingdom, with 22 gigs on soundcheck across Leeds and Manchester. Often billed alongside sez., HSTN and KABOCANA. Next up: Off The Square, Manchester on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Off The Square | Manchester |
 | Fri, 13 Nov 2026 | Hidden | Manchester |
 
 ## Recently played
@@ -25,4 +26,4 @@ D-LIA is a house and disco artist based in United Kingdom, with 21 gigs on sound
 
 sez., HSTN, KABOCANA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d-lia/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d-lia/)*

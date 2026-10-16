@@ -1,6 +1,6 @@
 # Quelza
 
-Quelza is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Open Ground, Wuppertal on Sat, 17 Oct 2026.
+Quelza is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Open Ground, Wuppertal on Sat, 17 Oct 2026.
 
 Quelza is a techno and house artist based in France, with 221 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 63 more. Often billed alongside BASHKKA, Freddy K and JakoJako. Next up: Open Ground, Wuppertal on Sat 17 Oct.
 
@@ -35,4 +35,4 @@ Quelza is a techno and house artist based in France, with 221 gigs on soundcheck
 
 BASHKKA, Freddy K, JakoJako
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quelza/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quelza/)*

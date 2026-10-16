@@ -1,6 +1,6 @@
 # Fran.cis
 
-Fran.cis is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Spook Club, Valencia on Sat, 31 Oct 2026.
+Fran.cis is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Spook Club, Valencia on Sat, 31 Oct 2026.
 
 Fran.cis is a deep house and house artist based in Spain, with 11 gigs on soundcheck across Valencia. Often billed alongside Sueezo, Tommaso Pizzelli and Pizzicatto. Next up: Spook Club, Valencia on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Fran.cis is a deep house and house artist based in Spain, with 11 gigs on soundc
 
 Sueezo, Tommaso Pizzelli, Pizzicatto
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fran.cis/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fran.cis/)*

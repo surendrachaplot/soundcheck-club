@@ -1,6 +1,6 @@
 # Joel DeMarzo
 
-Joel DeMarzo is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Bar22, Amsterdam on Sat, 24 Oct 2026.
+Joel DeMarzo is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bar22, Amsterdam on Sat, 24 Oct 2026.
 
 Joel DeMarzo is a house and disco artist based in United States of America, with 6 gigs on soundcheck across Amsterdam, Los Angeles, San Diego and Seattle. Often billed alongside Doc Link, Mike Lachman and Nonfiction. Next up: Bar22, Amsterdam on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Joel DeMarzo is a house and disco artist based in United States of America, with
 
 Doc Link, Mike Lachman, Nonfiction
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeldemarzo/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeldemarzo/)*

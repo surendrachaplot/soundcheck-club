@@ -1,6 +1,6 @@
 # Saber Rider
 
-Saber Rider is a Electronica and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Xorostasio, Athens on Fri, 16 Oct 2026.
+Saber Rider is a Electronica and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Xorostasio, Athens on Fri, 16 Oct 2026.
 
 Saber Rider is an electronica and bass artist based in Greece, with 33 gigs on soundcheck across Athens. Often billed alongside Poor J’Darr, Andreas Palmer and Miss Trouli. Next up: Xorostasio, Athens on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Saber Rider is an electronica and bass artist based in Greece, with 33 gigs on s
 
 Poor J’Darr, Andreas Palmer, Miss Trouli
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saberrider/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saberrider/)*

@@ -1,6 +1,6 @@
 # Chafik
 
-Chafik is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at The DBA, Manchester on Fri, 6 Nov 2026.
+Chafik is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The DBA, Manchester on Fri, 6 Nov 2026.
 
 Chafik is a house and electro artist, with 15 gigs on soundcheck across Amsterdam and Manchester. Often billed alongside Judas Du, 3MR. and Aiden Francis. Next up: The DBA, Manchester on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Chafik is a house and electro artist, with 15 gigs on soundcheck across Amsterda
 
 Judas Du, 3MR., Aiden Francis
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chafik/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chafik/)*

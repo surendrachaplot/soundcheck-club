@@ -1,6 +1,6 @@
 # DJ Shimamura
 
-DJ Shimamura is a Hardcore and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at DJ BAR Bonkers, Kanto on Sun, 25 Oct 2026.
+DJ Shimamura is a Hardcore and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at DJ BAR Bonkers, Kanto on Sun, 25 Oct 2026.
 
 DJ Shimamura is a hardcore and club artist based in Japan, with 54 gigs on soundcheck across Bangkok, Chubu, Kanto and Osaka and 1 more. Often billed alongside M-Project, MIDI War and NATSUMI. Next up: DJ BAR Bonkers, Kanto on Sun 25 Oct.
 
@@ -28,4 +28,4 @@ DJ Shimamura is a hardcore and club artist based in Japan, with 54 gigs on sound
 
 M-Project, MIDI War, NATSUMI
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djshimamura/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djshimamura/)*

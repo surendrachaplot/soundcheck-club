@@ -1,6 +1,6 @@
 # Molø
 
-Molø is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
+Molø is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
 
 Molø is a techno and progressive house artist, with 26 gigs on soundcheck across Berlin, London, Malta and Manchester and 3 more. Often billed alongside Because of Art, Jody Wisternoff and OLING. Next up: Stinsen, Stockholm on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Molø is a techno and progressive house artist, with 26 gigs on soundcheck acros
 
 Because of Art, Jody Wisternoff, OLING
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molo/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molo/)*

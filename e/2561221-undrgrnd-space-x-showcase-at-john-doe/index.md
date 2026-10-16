@@ -1,6 +1,6 @@
 # UNDRGRND · Space X Showcase at John Doe
 
-UNDRGRND · Space X Showcase at John Doe on Fri 16 Oct, Amsterdam. 4 artists: Alex Sharp, DAN:EZ, Guzova and SOROUSH. Progressive House and Techno. See the line-up on soundcheck.
+UNDRGRND · Space X Showcase at John Doe on Fri 16 Oct, Amsterdam. 5 artists: Alex Sharp, DAN:EZ, Guzova and Ju and 1 more. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ UNDRGRND · Space X Showcase at John Doe on Fri 16 Oct, Amsterdam. 4 artists: Al
 - Alex Sharp
 - DAN:EZ
 - Guzova
+- Ju (38)
 - SOROUSH
 
 *Source: [soundcheck](https://soundcheck.club/e/2561221-undrgrnd-space-x-showcase-at-john-doe/)*

@@ -1,13 +1,14 @@
 # Fearless Dread
 
-Fearless Dread is a Dubstep and Dub artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at 26 Leake Street, London on Sat, 28 Nov 2026.
+Fearless Dread is a Dubstep and Dub artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Brixtonia Lounge, London on Thu, 22 Oct 2026.
 
-Fearless Dread is a dubstep and dub artist, with 15 gigs on soundcheck across Bristol, Leeds, London and Manchester and 2 more. Often billed alongside Truant (UK), Axle and Nio-B. Next up: 26 Leake Street, London on Sat 28 Nov.
+Fearless Dread is a dubstep and dub artist, with 16 gigs on soundcheck across Bristol, Leeds, London and Manchester and 2 more. Often billed alongside Truant (UK), Axle and Nio-B. Next up: Brixtonia Lounge, London on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Brixtonia Lounge | London |
 | Sat, 28 Nov 2026 | 26 Leake Street | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Fearless Dread is a dubstep and dub artist, with 15 gigs on soundcheck across Br
 
 Truant (UK), Axle, Nio-B
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fearlessdread/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fearlessdread/)*

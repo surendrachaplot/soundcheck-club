@@ -1,6 +1,6 @@
 # Lebawski
 
-Lebawski is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Funke, Ghent on Fri, 13 Nov 2026.
+Lebawski is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Funke, Ghent on Fri, 13 Nov 2026.
 
 Lebawski is a techno and trance artist based in Belgium, with 23 gigs on soundcheck across Ghent and Prague. Often billed alongside Lena De Roose, Helena Lauwaert and Barbosa. Next up: Funke, Ghent on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Lebawski is a techno and trance artist based in Belgium, with 23 gigs on soundch
 
 Lena De Roose, Helena Lauwaert, Barbosa
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lebawski/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lebawski/)*

@@ -1,6 +1,6 @@
 # Tempted Audio
 
-Tempted Audio is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at GOT.Drip Streetwear & Records, Amsterdam on Sat, 24 Oct 2026.
+Tempted Audio is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at GOT.Drip Streetwear & Records, Amsterdam on Sat, 24 Oct 2026.
 
 Tempted Audio is a techno and deep house artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam. Often billed alongside SAMEFACES, Acopo and André Galluzzi. Next up: GOT.Drip Streetwear & Records, Amsterdam on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ Tempted Audio is a techno and deep house artist based in Netherlands, with 5 gig
 
 SAMEFACES, Acopo, André Galluzzi
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/temptedaudio/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/temptedaudio/)*

@@ -1,18 +1,17 @@
 # 11 Bromley Street
 
-11 Bromley Street is a music venue in Birmingham with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Colette + CNTRL pres Contact W/Kepler, Soul Mass Transit, Burnski, Boss Priester + more" on Sat, 17 Oct 2026.
+11 Bromley Street is a music venue in Birmingham with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "Slapfunk Birmingham - Colette and CNTRL Pres" on Sat, 12 Dec 2026.
 
-11 Bromley Street is a music venue in Birmingham listed on soundcheck. 2 upcoming gigs, with line-ups including Kepler, Boss Priester, Burnski and Faraz (UK) and 2 more. See dates, start times and who's playing. 11 Bromley Street.
+11 Bromley Street is a music venue in Birmingham listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 11 Bromley Street.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Colette + CNTRL pres Contact W/Kepler, Soul Mass Transit, Burnski, Boss Priester + more | Boss Priester, Burnski, Faraz (UK), Julian Anthony, Kepler, Marlie, Soul Mass Transit System |
 | Sat, 12 Dec 2026 | Slapfunk Birmingham - Colette and CNTRL Pres |  |
 
 ## Address
 
 11 Bromley Street, Birmingham
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/11-bromley-street/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/11-bromley-street/)*

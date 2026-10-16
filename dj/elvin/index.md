@@ -1,6 +1,6 @@
 # Elvin
 
-Elvin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at AMT, Berlin on Fri, 23 Oct 2026.
+Elvin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at AMT, Berlin on Fri, 23 Oct 2026.
 
 Elvin is a techno and house artist, with 61 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 4 more. Often billed alongside KVLR, DJ SPORTSCHUH and Alputo. Next up: AMT, Berlin on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Elvin is a techno and house artist, with 61 gigs on soundcheck across Amsterdam,
 
 KVLR, DJ SPORTSCHUH, Alputo
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elvin/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elvin/)*

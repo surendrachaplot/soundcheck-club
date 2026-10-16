@@ -1,6 +1,6 @@
 # rogue.wav
 
-rogue.wav is a Ghetto Tech and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Mood Ring, New York City on Sat, 24 Oct 2026.
+rogue.wav is a Ghetto Tech and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Mood Ring, New York City on Sat, 24 Oct 2026.
 
 rogue.wav is a ghetto tech and drum & bass artist, with 16 gigs on soundcheck across Mexico City, Miami, New York City and Washington DC. Often billed alongside Castillonaire, Dwai and WILHELMINA. Next up: Mood Ring, New York City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ rogue.wav is a ghetto tech and drum & bass artist, with 16 gigs on soundcheck ac
 
 Castillonaire, Dwai, WILHELMINA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rogue.wav/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rogue.wav/)*

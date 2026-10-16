@@ -1,6 +1,6 @@
 # LÄUFF
 
-LÄUFF is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at ÆDEN, Berlin on Sat, 28 Nov 2026.
+LÄUFF is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at ÆDEN, Berlin on Sat, 28 Nov 2026.
 
 LÄUFF is a techno and trance artist based in France, with 19 gigs on soundcheck across Berlin, Cologne, Lyon and Marseille and 1 more. Often billed alongside ARPL, ASCHENBRENNER and Apocalypse Nao. Next up: ÆDEN, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ LÄUFF is a techno and trance artist based in France, with 19 gigs on soundcheck
 
 ARPL, ASCHENBRENNER, Apocalypse Nao
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauff/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauff/)*

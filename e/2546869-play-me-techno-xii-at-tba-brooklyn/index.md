@@ -1,6 +1,6 @@
 # PLAY ME TECHNO XII at TBA - Brooklyn
 
-PLAY ME TECHNO XII at TBA - Brooklyn on Sat 17 Oct, New York City. 8 artists: Alfonso Javier, Battygyal, Concrete Husband and Feonix and 4 more. Techno and Electro. See the line-up on soundcheck.
+PLAY ME TECHNO XII at TBA - Brooklyn on Sat 17 Oct, New York City. 9 artists: Alfonso Javier, Battygyal, Concrete Husband and Feonix and 5 more. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,5 +18,6 @@ PLAY ME TECHNO XII at TBA - Brooklyn on Sat 17 Oct, New York City. 8 artists: Al
 - OCTI
 - SKIN CONTACT
 - sydfalls
+- Von
 
 *Source: [soundcheck](https://soundcheck.club/e/2546869-play-me-techno-xii-at-tba-brooklyn/)*

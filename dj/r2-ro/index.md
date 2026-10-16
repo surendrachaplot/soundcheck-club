@@ -1,6 +1,6 @@
 # R2-RO
 
-R2-RO is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Marmorbar, Berlin on Sat, 7 Nov 2026.
+R2-RO is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Marmorbar, Berlin on Sat, 7 Nov 2026.
 
 R2-RO is a house and electronica artist based in United Kingdom, with 11 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Czech Strings, Aude (DR) and Anne-Sophie Selig. Next up: Marmorbar, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ R2-RO is a house and electronica artist based in United Kingdom, with 11 gigs on
 
 Czech Strings, Aude (DR), Anne-Sophie Selig
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r2-ro/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r2-ro/)*

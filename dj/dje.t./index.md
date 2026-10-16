@@ -1,6 +1,6 @@
 # Dj E.T.
 
-Dj E.T. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Penthouse, Mexico City on Sun, 15 Nov 2026.
+Dj E.T. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Penthouse, Mexico City on Sun, 15 Nov 2026.
 
 Dj E.T. is a house and techno artist based in Mexico, with 10 gigs on soundcheck across Mexico City. Often billed alongside Joss Crown, Papi Scorpio and Villaseñor. Next up: TBA - Penthouse, Mexico City on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Dj E.T. is a house and techno artist based in Mexico, with 10 gigs on soundcheck
 
 Joss Crown, Papi Scorpio, Villaseñor
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dje.t./)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dje.t./)*

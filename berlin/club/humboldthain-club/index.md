@@ -1,6 +1,6 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Abgedreht Birthday Bash" on Fri, 16 Oct 2026.
+Humboldthain Club is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Abgedreht Birthday Bash" on Fri, 16 Oct 2026.
 
 Humboldthain Club is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including 3diz, YOVA, Atze G and aykanakdag and 2 more. See dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 17 upcoming g
 
 Hochstraße 46; 13357 Berlin; Germany, Berlin
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*

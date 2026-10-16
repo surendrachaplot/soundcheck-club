@@ -1,6 +1,6 @@
 # zizi k
 
-zizi k is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 12 Dec 2026.
+zizi k is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 12 Dec 2026.
 
 zizi k is a techno and electronica artist based in Colombia, with 13 gigs on soundcheck across Barcelona, Lisbon and Madrid. Often billed alongside Gala (ES), Admo and Balheim. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ zizi k is a techno and electronica artist based in Colombia, with 13 gigs on sou
 
 Gala (ES), Admo, Balheim
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zizik/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zizik/)*

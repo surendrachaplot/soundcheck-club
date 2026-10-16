@@ -1,6 +1,6 @@
 # aitch
 
-aitch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Rote Flora, Hamburg on Fri, 23 Oct 2026.
+aitch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Rote Flora, Hamburg on Fri, 23 Oct 2026.
 
 aitch is a techno and house artist based in Germany, with 47 gigs on soundcheck across Antwerp, Berlin, Hamburg and Leipzig and 2 more. Often billed alongside ALICE XLS, Memorycardio and Eluzid. Next up: Rote Flora, Hamburg on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ aitch is a techno and house artist based in Germany, with 47 gigs on soundcheck 
 
 ALICE XLS, Memorycardio, Eluzid
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aitch/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aitch/)*

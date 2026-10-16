@@ -1,6 +1,6 @@
 # El Rio
 
-El Rio is a music venue in San Francisco/Oakland with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "CLB INTRNCNL" on Sat, 17 Oct 2026.
+El Rio is a music venue in San Francisco/Oakland with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "CLB INTRNCNL" on Sat, 17 Oct 2026.
 
 El Rio is a music venue in San Francisco/Oakland listed on soundcheck. 7 upcoming gigs, with line-ups including DJ Mutant Otter, Dj Nico, ECTO and FINISHHER and 2 more. See dates, start times and who's playing. 3158 Mission St, San Francisco, CA 94110, USA.
 
@@ -20,4 +20,4 @@ El Rio is a music venue in San Francisco/Oakland listed on soundcheck. 7 upcomin
 
 3158 Mission St, San Francisco, CA 94110, USA, San Francisco/Oakland
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/el-rio/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/el-rio/)*

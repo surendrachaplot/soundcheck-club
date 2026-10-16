@@ -1,6 +1,6 @@
 # MMali
 
-MMali is a House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Yan Gastro, Istanbul on Fri, 16 Oct 2026.
+MMali is a House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Yan Gastro, Istanbul on Fri, 16 Oct 2026.
 
 MMali is a house artist based in Slovenia, with 4 gigs on soundcheck across Istanbul, Ljubljana and Slovenia. Often billed alongside Ed Davenport, Efdemin and Obscur. Next up: Yan Gastro, Istanbul on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ MMali is a house artist based in Slovenia, with 4 gigs on soundcheck across Ista
 
 Ed Davenport, Efdemin, Obscur
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mmali/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mmali/)*

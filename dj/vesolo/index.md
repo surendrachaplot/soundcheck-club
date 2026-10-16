@@ -1,14 +1,15 @@
 # Vesolo
 
-Vesolo is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 21 Oct 2026.
+Vesolo is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 21 Oct 2026.
 
-Vesolo is a techno and club artist based in United States of America, with 64 gigs on soundcheck across Barcelona, Chicago, Detroit and London and 4 more. Often billed alongside Miss Twink USA, Flores Negras and Swan Drama. Next up: Bossa Nova Civic Club, New York City on Wed 21 Oct.
+Vesolo is a techno and club artist based in United States of America, with 65 gigs on soundcheck across Barcelona, Chicago, Detroit and London and 4 more. Often billed alongside Miss Twink USA, Flores Negras and Swan Drama. Next up: Bossa Nova Civic Club, New York City on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Bossa Nova Civic Club | New York City |
+| Fri, 30 Oct 2026 | The Strays | Detroit |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Vesolo is a techno and club artist based in United States of America, with 64 gi
 
 Miss Twink USA, Flores Negras, Swan Drama
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vesolo/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vesolo/)*

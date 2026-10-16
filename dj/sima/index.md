@@ -1,14 +1,15 @@
 # SIMA
 
-SIMA is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Pistil, Seoul on Fri, 16 Oct 2026.
+SIMA is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Pistil, Seoul on Fri, 16 Oct 2026.
 
-SIMA is a tech house and techno artist, with 12 gigs on soundcheck across Lisbon, London, Osaka and Seoul and 2 more. Often billed alongside KOTSU, deafcandance and Adam Obrębski. Next up: Pistil, Seoul on Fri 16 Oct.
+SIMA is a tech house and techno artist, with 13 gigs on soundcheck across Lisbon, London, Osaka and Seoul and 2 more. Often billed alongside KOTSU, deafcandance and Adam Obrębski. Next up: Pistil, Seoul on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Pistil | Seoul |
+| Sat, 17 Oct 2026 | Atdge Seoul | Seoul |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ SIMA is a tech house and techno artist, with 12 gigs on soundcheck across Lisbon
 
 KOTSU, deafcandance, Adam Obrębski
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sima/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sima/)*

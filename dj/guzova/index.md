@@ -1,8 +1,8 @@
 # Guzova
 
-Guzova is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at John Doe, Amsterdam on Fri, 16 Oct 2026.
+Guzova is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at John Doe, Amsterdam on Fri, 16 Oct 2026.
 
-Guzova is a techno and progressive house artist based in Ukraine, with 2 gigs on soundcheck across Amsterdam. Often billed alongside Alex Sharp, DAN:EZ and SOROUSH. Next up: John Doe, Amsterdam on Fri 16 Oct.
+Guzova is a techno and progressive house artist based in Ukraine, with 2 gigs on soundcheck across Amsterdam. Often billed alongside Alex Sharp, DAN:EZ and Ju. Next up: John Doe, Amsterdam on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,6 @@ Guzova is a techno and progressive house artist based in Ukraine, with 2 gigs on
 
 ## Shares bills with
 
-Alex Sharp, DAN:EZ, SOROUSH
+Alex Sharp, DAN:EZ, Ju (38)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guzova/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guzova/)*

@@ -1,14 +1,15 @@
 # Wax Assassin
 
-Wax Assassin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - El Trombone 4654 Vernor Hwy, Detroit, MI 48209, Detroit on Fri, 16 Oct 2026.
+Wax Assassin is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - El Trombone 4654 Vernor Hwy, Detroit, MI 48209, Detroit on Fri, 16 Oct 2026.
 
-Wax Assassin is a techno and house artist based in United States of America, with 167 gigs on soundcheck across Detroit. Often billed alongside we1sman, LATEX GIRL and Tylr. Next up: TBA - El Trombone 4654 Vernor Hwy, Detroit, MI 48209, Detroit on Fri 16 Oct.
+Wax Assassin is a techno and house artist based in United States of America, with 168 gigs on soundcheck across Detroit. Often billed alongside we1sman, LATEX GIRL and Tylr. Next up: TBA - El Trombone 4654 Vernor Hwy, Detroit, MI 48209, Detroit on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | TBA - El Trombone 4654 Vernor Hwy, Detroit, MI 48209 | Detroit |
+| Fri, 16 Oct 2026 | The Eagle of Detroit | Detroit |
 | Sat, 14 Nov 2026 | TBA - (313) 395 8288 | Detroit |
 | Sat, 5 Dec 2026 | TBA - 310 W 7 MILE | Detroit |
 
@@ -27,4 +28,4 @@ Wax Assassin is a techno and house artist based in United States of America, wit
 
 we1sman, LATEX GIRL, Tylr
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waxassassin/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waxassassin/)*

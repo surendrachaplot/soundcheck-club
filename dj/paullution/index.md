@@ -1,6 +1,6 @@
 # Paul Lution
 
-Paul Lution is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Nostro Spazio Titeica 85, Bucharest on Fri, 16 Oct 2026.
+Paul Lution is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Nostro Spazio Titeica 85, Bucharest on Fri, 16 Oct 2026.
 
 Paul Lution is a techno and house artist based in Italy, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 10 more. Often billed alongside Munir Nadir, OTIS and Alex Dima. Next up: TBA - Nostro Spazio Titeica 85, Bucharest on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Paul Lution is a techno and house artist based in Italy, with 43 gigs on soundch
 
 Munir Nadir, OTIS (3), Alex Dima
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paullution/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paullution/)*

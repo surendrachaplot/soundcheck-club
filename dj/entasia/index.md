@@ -1,6 +1,6 @@
 # Entasia
 
-Entasia is a House and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Decadance, Ghent on Fri, 16 Oct 2026.
+Entasia is a House and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Decadance, Ghent on Fri, 16 Oct 2026.
 
 Entasia is a house and trance artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Antwerp, Bali and Cologne and 15 more. Often billed alongside Kyle Starkey, Inafekt and DART. Next up: Decadance, Ghent on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ Entasia is a house and trance artist based in United Kingdom, with 65 gigs on so
 
 Kyle Starkey, Inafekt, DART
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/entasia/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/entasia/)*

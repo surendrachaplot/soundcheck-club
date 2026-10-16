@@ -1,6 +1,6 @@
 # Davide Ragazzoni
 
-Davide Ragazzoni is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Santeria Toscana 31, Milan on Sat, 17 Oct 2026.
+Davide Ragazzoni is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Santeria Toscana 31, Milan on Sat, 17 Oct 2026.
 
 Davide Ragazzoni is a house and disco artist, with 33 gigs on soundcheck across Milan and Paris. Often billed alongside Isa Diamond, Aznamir and Bustin' Loose. Next up: Santeria Toscana 31, Milan on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Davide Ragazzoni is a house and disco artist, with 33 gigs on soundcheck across 
 
 Isa Diamond, Aznamir, Bustin' Loose
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davideragazzoni/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davideragazzoni/)*

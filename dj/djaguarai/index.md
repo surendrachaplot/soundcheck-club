@@ -1,6 +1,6 @@
 # DJ Aguara'i
 
-DJ Aguara'i is a Latin Bass and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Smoke & Mirrors, Chicago on Fri, 23 Oct 2026.
+DJ Aguara'i is a Latin Bass and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Smoke & Mirrors, Chicago on Fri, 23 Oct 2026.
 
 DJ Aguara'i is a latin bass and neo perreo artist based in United States of America, with 14 gigs on soundcheck across Chicago. Often billed alongside J. Córdova, karennoid and Angelia Word. Next up: Smoke & Mirrors, Chicago on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ DJ Aguara'i is a latin bass and neo perreo artist based in United States of Amer
 
 J. Córdova, karennoid, Angelia Word
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djaguarai/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djaguarai/)*

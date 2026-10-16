@@ -1,6 +1,6 @@
 # Enamour
 
-Enamour is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Barbary, Philadelphia on Sat, 17 Oct 2026.
+Enamour is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Barbary, Philadelphia on Sat, 17 Oct 2026.
 
 Enamour is a house and progressive house artist based in United States of America, with 85 gigs on soundcheck across Amsterdam, Berlin, Brisbane and Chicago and 20 more. Often billed alongside Cassian, Lee Burridge and Airrica. Next up: The Barbary, Philadelphia on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Enamour is a house and progressive house artist based in United States of Americ
 
 Cassian, Lee Burridge, Airrica
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enamour/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enamour/)*

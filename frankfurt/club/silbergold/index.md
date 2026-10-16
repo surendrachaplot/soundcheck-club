@@ -1,6 +1,6 @@
 # Silbergold
 
-Silbergold is a music venue in Frankfurt with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "AREA 3 year anniversary" on Fri, 16 Oct 2026.
+Silbergold is a music venue in Frankfurt with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "AREA 3 year anniversary" on Fri, 16 Oct 2026.
 
 Silbergold is a music venue in Frankfurt listed on soundcheck. 2 upcoming gigs, with line-ups including Matthias Vogt and NØDJ. See dates, start times and who's playing. Heiligkreuzgasse 22; 60313 Frankfurt; Germany.
 
@@ -15,4 +15,4 @@ Silbergold is a music venue in Frankfurt listed on soundcheck. 2 upcoming gigs, 
 
 Heiligkreuzgasse 22; 60313 Frankfurt; Germany, Frankfurt
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/silbergold/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/silbergold/)*

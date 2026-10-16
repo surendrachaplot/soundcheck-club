@@ -1,6 +1,6 @@
 # Eschschloraque
 
-Eschschloraque is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Danza Coyote Berlin" on Fri, 16 Oct 2026.
+Eschschloraque is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Danza Coyote Berlin" on Fri, 16 Oct 2026.
 
 Eschschloraque is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Bial HClap, Lancer, MissVergnügen and Robot Girl. See dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Eschschloraque is a music venue in Berlin listed on soundcheck. 10 upcoming gigs
 
 Rosenthaler Str. 39, 10178 Berlin, Germany, Berlin
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*

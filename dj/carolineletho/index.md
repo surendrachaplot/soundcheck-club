@@ -1,18 +1,18 @@
 # Caroline Lethô
 
-Caroline Lethô is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Collect LX Factory, Lisbon on Thu, 15 Oct 2026.
+Caroline Lethô is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Spacy Club Caldas, Lisbon on Fri, 16 Oct 2026.
 
-Caroline Lethô is a techno and house artist based in Portugal, with 26 gigs on soundcheck across Berlin, Lisbon and Porto. Often billed alongside Mafalda Mais, Hiroma Keo and Mayan (PT). Next up: Collect LX Factory, Lisbon on Thu 15 Oct.
+Caroline Lethô is a techno and house artist based in Portugal, with 26 gigs on soundcheck across Berlin, Lisbon and Porto. Often billed alongside Mafalda Mais, Hiroma Keo and Mayan (PT). Next up: Spacy Club Caldas, Lisbon on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Collect LX Factory | Lisbon |
 | Fri, 16 Oct 2026 | Spacy Club Caldas | Lisbon |
 
 ## Recently played
 
+- Collect LX Factory, Lisbon · Thu, 15 Oct 2026
 - RnA Studio, Lisbon · Wed, 8 Jul 2026
 - Miradouro de Baixo, Lisbon · Sat, 25 Apr 2026
 - Passevite, Lisbon · Sun, 28 Dec 2025
@@ -20,10 +20,9 @@ Caroline Lethô is a techno and house artist based in Portugal, with 26 gigs on 
 - Lisa, Lisbon · Wed, 1 Oct 2025
 - Lisa, Lisbon · Wed, 1 Oct 2025
 - Outra Cena, Lisbon · Fri, 22 Aug 2025
-- Carpintarias de São Lázaro, Lisbon · Sat, 26 Apr 2025
 
 ## Shares bills with
 
 Mafalda Mais, Hiroma Keo, Mayan (PT)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carolineletho/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carolineletho/)*

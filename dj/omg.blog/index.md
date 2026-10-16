@@ -1,18 +1,18 @@
 # OMG.BLOG
 
-OMG.BLOG is a Electro and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Piston, Toronto on Thu, 15 Oct 2026.
+OMG.BLOG is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Cafeteria, Toronto on Sat, 31 Oct 2026.
 
-OMG.BLOG is an electro and club artist based in Canada, with 40 gigs on soundcheck across Toronto. Often billed alongside Marnigurl, Kuscheln and Rabzi. Next up: The Piston, Toronto on Thu 15 Oct.
+OMG.BLOG is an electro and club artist based in Canada, with 40 gigs on soundcheck across Toronto. Often billed alongside Marnigurl, Kuscheln and Rabzi. Next up: Cafeteria, Toronto on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | The Piston | Toronto |
 | Sat, 31 Oct 2026 | Cafeteria | Toronto |
 
 ## Recently played
 
+- The Piston, Toronto · Thu, 15 Oct 2026
 - Sound Machine, Toronto · Fri, 18 Sept 2026
 - Cafeteria, Toronto · Fri, 17 Jul 2026
 - The Jama, Toronto · Sat, 16 May 2026
@@ -20,10 +20,9 @@ OMG.BLOG is an electro and club artist based in Canada, with 40 gigs on soundche
 - Bambi's, Toronto · Fri, 6 Mar 2026
 - TBA - Toronto, Toronto · Sat, 20 Dec 2025
 - Cafeteria, Toronto · Fri, 19 Dec 2025
-- Bambi's, Toronto · Fri, 12 Dec 2025
 
 ## Shares bills with
 
 Marnigurl, Kuscheln, Rabzi
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omg.blog/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omg.blog/)*

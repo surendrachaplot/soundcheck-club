@@ -1,6 +1,6 @@
 # Helter Skelper
 
-Helter Skelper is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at West Port Oracle, Edinburgh on Fri, 16 Oct 2026.
+Helter Skelper is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at West Port Oracle, Edinburgh on Fri, 16 Oct 2026.
 
 Helter Skelper is a house and disco artist, with 21 gigs on soundcheck across Edinburgh. Often billed alongside Amber Leith, Chameleon and Frankie Elyse. Next up: West Port Oracle, Edinburgh on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Helter Skelper is a house and disco artist, with 21 gigs on soundcheck across Ed
 
 Amber Leith, Chameleon (1), Frankie Elyse
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helterskelper/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helterskelper/)*

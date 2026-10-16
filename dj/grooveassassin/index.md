@@ -1,13 +1,14 @@
 # Groove Assassin
 
-Groove Assassin is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Beatfabriek, Amsterdam on Fri, 23 Oct 2026.
+Groove Assassin is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Secret Location, Leeds on Sat, 17 Oct 2026.
 
-Groove Assassin is a house and deep house artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Belgrade, Birmingham and Edinburgh and 7 more. Often billed alongside Billy Cocks, Sy Sez and Boon (UK). Next up: Beatfabriek, Amsterdam on Fri 23 Oct.
+Groove Assassin is a house and deep house artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Belgrade, Birmingham and Edinburgh and 7 more. Often billed alongside Billy Cocks, Sy Sez and Boon (UK). Next up: TBA - Secret Location, Leeds on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | TBA - Secret Location | Leeds |
 | Fri, 23 Oct 2026 | Beatfabriek | Amsterdam |
 | Sat, 24 Oct 2026 | Hootananny Brixton | London |
 | Sat, 28 Nov 2026 | fabric | London |
@@ -27,4 +28,4 @@ Groove Assassin is a house and deep house artist based in United Kingdom, with 3
 
 Billy Cocks, Sy Sez, Boon (UK)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grooveassassin/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grooveassassin/)*

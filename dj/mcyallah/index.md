@@ -1,6 +1,6 @@
 # MC Yallah
 
-MC Yallah is a Experimental and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Unit, Tokyo on Sun, 27 Dec 2026.
+MC Yallah is a Experimental and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Unit, Tokyo on Sun, 27 Dec 2026.
 
 MC Yallah is an experimental and hip-hop artist based in Kenya, with 44 gigs on soundcheck across Amsterdam, Athens, Berlin and Bristol and 21 more. Often billed alongside Debmaster, DJ Travella and Kampire. Next up: Unit, Tokyo on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ MC Yallah is an experimental and hip-hop artist based in Kenya, with 44 gigs on 
 
 Debmaster, DJ Travella, Kampire
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcyallah/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcyallah/)*

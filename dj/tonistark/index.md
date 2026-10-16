@@ -1,6 +1,6 @@
 # Toni Stark
 
-Toni Stark is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at SASS Music Club, Vienna on Sun, 18 Oct 2026.
+Toni Stark is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at SASS Music Club, Vienna on Sun, 18 Oct 2026.
 
 Toni Stark is a house and tech house artist, with 13 gigs on soundcheck across Vienna. Often billed alongside Leon Diamant, Schleifer and Vinzenz Schwarz. Next up: SASS Music Club, Vienna on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Toni Stark is a house and tech house artist, with 13 gigs on soundcheck across V
 
 Leon Diamant, Schleifer, Vinzenz Schwarz
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonistark/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonistark/)*

@@ -1,0 +1,28 @@
+# ED (MX)
+
+ED (MX) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
+
+ED (MX) is a house and electronica artist based in Mexico, with 41 gigs on soundcheck across Copenhagen, Mexico City, Miami and Paris. Often billed alongside Itza Chacón, Alo and Mejia. Next up: Drama Radio Bar, Mexico City on Tue 13 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Tue, 13 Oct 2026 | Drama Radio Bar | Mexico City |
+
+## Recently played
+
+- Drama Radio Bar, Mexico City · Tue, 13 Oct 2026
+- Club Bermellón, Mexico City · Fri, 2 Oct 2026
+- Fünk, Mexico City · Thu, 27 Aug 2026
+- Rei Room, Mexico City · Sun, 2 Aug 2026
+- Drama Radio Bar, Mexico City · Tue, 28 Jul 2026
+- Drama Radio Bar, Mexico City · Tue, 21 Jul 2026
+- YoYo - Palais de Tokyo, Paris · Fri, 26 Jun 2026
+- Club M2 Miami, Miami · Fri, 12 Jun 2026
+
+## Shares bills with
+
+Itza Chacón, Alo, Mejia
+
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ed-mx/)*

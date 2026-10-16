@@ -1,6 +1,6 @@
 # Alex Whittier
 
-Alex Whittier is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Eter Denver, Denver on Fri, 16 Oct 2026.
+Alex Whittier is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Eter Denver, Denver on Fri, 16 Oct 2026.
 
 Alex Whittier is a techno and experimental artist, with 9 gigs on soundcheck across Denver. Often billed alongside FCKDSKO, Leenie and Allan Gallego. Next up: Eter Denver, Denver on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Alex Whittier is a techno and experimental artist, with 9 gigs on soundcheck acr
 
 FCKDSKO, Leenie, Allan Gallego
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwhittier/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwhittier/)*

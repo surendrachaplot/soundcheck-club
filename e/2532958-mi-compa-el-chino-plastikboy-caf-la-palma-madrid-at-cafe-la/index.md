@@ -1,10 +1,10 @@
 # MI COMPA EL CHINO & PLASTIKBOY - Café La Palma, Madrid at Cafe La Palma
 
-MI COMPA EL CHINO & PLASTIKBOY - Café La Palma, Madrid at Cafe La Palma on Wed 11 Nov, Madrid. See the line-up on soundcheck.
+MI COMPA EL CHINO & PLASTIKBOY - Café La Palma, Madrid at Cafe La Palma on Mon 9 Nov, Madrid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Wed, 11 Nov 2026 |
+| Date | Mon, 9 Nov 2026 |
 | Venue | Cafe La Palma |
 | City | Madrid |
 

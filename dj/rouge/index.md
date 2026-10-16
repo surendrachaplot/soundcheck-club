@@ -1,6 +1,6 @@
 # ROÜGE
 
-ROÜGE is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Mia Mao, Paris on Sat, 17 Oct 2026.
+ROÜGE is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mia Mao, Paris on Sat, 17 Oct 2026.
 
 ROÜGE is a techno and trance artist based in France, with 105 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 34 more. Often billed alongside Bours?, EARGASM GOD and I Hate Models. Next up: Mia Mao, Paris on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ ROÜGE is a techno and trance artist based in France, with 105 gigs on soundchec
 
 Bours?, EARGASM GOD, I Hate Models
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rouge/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rouge/)*

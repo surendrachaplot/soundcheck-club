@@ -1,6 +1,6 @@
 # Arzenal
 
-Arzenal is a music venue in Budapest with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Nachtwerk XXL Pres: USH I FUMI I CEEJAY I BLURREDMOVEMENT" on Fri, 16 Oct 2026.
+Arzenal is a music venue in Budapest with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Nachtwerk XXL Pres: USH I FUMI I CEEJAY I BLURREDMOVEMENT" on Fri, 16 Oct 2026.
 
 Arzenal is a music venue in Budapest listed on soundcheck. 9 upcoming gigs, with line-ups including ädene, AESZTETIK, Fernanda Martins and FUMI and 2 more. See dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
 
@@ -22,4 +22,4 @@ Arzenal is a music venue in Budapest listed on soundcheck. 9 upcoming gigs, with
 
 Soroksári út 158/C Budapest, Hungary 1095, Budapest
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*

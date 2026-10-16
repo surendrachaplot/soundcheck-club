@@ -1,6 +1,6 @@
 # ALOT
 
-ALOT is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Karmen Camina, Strasbourg on Fri, 16 Oct 2026.
+ALOT is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Karmen Camina, Strasbourg on Fri, 16 Oct 2026.
 
 ALOT is a house and disco artist based in United States of America, with 31 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Ibiza and 7 more. Often billed alongside Kapote, Gee Lane and Arpy Brown. Next up: Karmen Camina, Strasbourg on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ ALOT is a house and disco artist based in United States of America, with 31 gigs
 
 Kapote, Gee Lane, Arpy Brown
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alot/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alot/)*

@@ -1,6 +1,6 @@
 # Refilled
 
-Refilled is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Crown Night Club 275 Tremont St, Boston, MA 02116, Boston on Fri, 16 Oct 2026.
+Refilled is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Crown Night Club 275 Tremont St, Boston, MA 02116, Boston on Fri, 16 Oct 2026.
 
 Refilled is a club and house artist based in United States of America, with 14 gigs on soundcheck across Boston, Florida, New York City and Philadelphia. Often billed alongside Flash Gea, Traps N Trees and shekdash. Next up: TBA - Crown Night Club 275 Tremont St, Boston, MA 02116, Boston on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Refilled is a club and house artist based in United States of America, with 14 g
 
 Flash Gea, Traps N Trees, shekdash
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/refilled/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/refilled/)*

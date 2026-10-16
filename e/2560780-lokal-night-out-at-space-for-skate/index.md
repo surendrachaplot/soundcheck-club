@@ -1,6 +1,6 @@
 # lokal night out at Space for Skate
 
-lokal night out at Space for Skate on Sat 24 Oct, Munich. 2 artists: ege arslan and EMYR. House and Pop. See the line-up on soundcheck.
+lokal night out at Space for Skate on Sat 24 Oct, Munich. 3 artists: ege arslan, EMYR and relux. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ lokal night out at Space for Skate on Sat 24 Oct, Munich. 2 artists: ege arslan 
 
 - ege arslan
 - EMYR
+- relux
 
 *Source: [soundcheck](https://soundcheck.club/e/2560780-lokal-night-out-at-space-for-skate/)*

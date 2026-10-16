@@ -1,6 +1,6 @@
-# Hotwire: Ford Scott & Friends at TBA - Secret Location
+# HOTWIRE: Ford Scott & Friends at TBA - Secret Location
 
-Hotwire: Ford Scott & Friends at TBA - Secret Location on Fri 6 Nov, New York City. 6 artists: Erin Page, Ford Scott, Jeny Michelle and Mac Briggs and 2 more. House and Garage. See the line-up on soundcheck.
+HOTWIRE: Ford Scott & Friends at TBA - Secret Location on Fri 6 Nov, New York City. 6 artists: Erin Page, Ford Scott, Jeny Michelle and Mac Briggs and 2 more. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Say Yes
 
-Say Yes is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Victoria's Secret Fashion Show After Party (Top Talent + Media + Celebs)" on Sun, 18 Oct 2026.
+Say Yes is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Fashion Show After Party " on Sun, 18 Oct 2026.
 
 Say Yes is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 1645 Wilcox Ave, Los Angeles, CA 90028.
 
@@ -8,11 +8,11 @@ Say Yes is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs. S
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Victoria's Secret Fashion Show After Party (Top Talent + Media + Celebs) |  |
+| Sun, 18 Oct 2026 | Fashion Show After Party  |  |
 | Sun, 18 Oct 2026 | Fashion Show After Party (Top Talent + Media + Celebs) |  |
 
 ## Address
 
 1645 Wilcox Ave, Los Angeles, CA 90028, Los Angeles
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/say-yes/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/say-yes/)*

@@ -1,6 +1,6 @@
 # Leon Diamant
 
-Leon Diamant is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at SASS Music Club, Vienna on Sun, 18 Oct 2026.
+Leon Diamant is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at SASS Music Club, Vienna on Sun, 18 Oct 2026.
 
 Leon Diamant is a house and deep house artist based in Austria, with 16 gigs on soundcheck across Vienna. Often billed alongside Toni Stark, Reinhard Zach and Magsi. Next up: SASS Music Club, Vienna on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Leon Diamant is a house and deep house artist based in Austria, with 16 gigs on 
 
 Toni Stark, Reinhard Zach, Magsi
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leondiamant/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leondiamant/)*

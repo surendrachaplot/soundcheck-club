@@ -1,6 +1,6 @@
 # Chima Isaaro
 
-Chima Isaaro is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 24 Oct 2026.
+Chima Isaaro is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 24 Oct 2026.
 
 Chima Isaaro is a house and disco artist based in Portugal, with 103 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside CC:DISCO!, DJ Caring and Yen Sung. Next up: Lux Fragil, Lisbon on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Chima Isaaro is a house and disco artist based in Portugal, with 103 gigs on sou
 
 CC:DISCO!, DJ Caring, Yen Sung
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chimaisaaro/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chimaisaaro/)*

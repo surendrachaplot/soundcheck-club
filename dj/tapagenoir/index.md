@@ -1,6 +1,6 @@
 # Tapage Noir
 
-Tapage Noir is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Kassa Boat, Budapest on Fri, 11 Dec 2026.
+Tapage Noir is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Kassa Boat, Budapest on Fri, 11 Dec 2026.
 
 Tapage Noir is a techno and industrial artist based in France, with 19 gigs on soundcheck across Budapest and Prague. Often billed alongside CRY.NN, Flakka and Arturo Legorreta. Next up: Kassa Boat, Budapest on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Tapage Noir is a techno and industrial artist based in France, with 19 gigs on s
 
 CRY.NN, Flakka, Arturo Legorreta
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tapagenoir/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tapagenoir/)*

@@ -1,6 +1,6 @@
 # Kaiku
 
-Kaiku is a music venue in Helsinki with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "SMUT DISCO x VULGED" on Fri, 16 Oct 2026.
+Kaiku is a music venue in Helsinki with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "SMUT DISCO x VULGED" on Fri, 16 Oct 2026.
 
 Kaiku is a music venue in Helsinki listed on soundcheck. 5 upcoming gigs, with line-ups including Beau Didier, C4KE, Carlos Valdes and Denzel and 2 more. See dates, start times and who's playing. Kaikukatu 4; 00530 Helsinki; Finland.
 
@@ -18,4 +18,4 @@ Kaiku is a music venue in Helsinki listed on soundcheck. 5 upcoming gigs, with l
 
 Kaikukatu 4; 00530 Helsinki; Finland, Helsinki
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/kaiku/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/kaiku/)*

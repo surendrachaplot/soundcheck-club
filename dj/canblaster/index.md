@@ -1,14 +1,14 @@
 # Canblaster
 
-Canblaster is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at MoN Takanawa: The Museum of Narratives, Tokyo on Fri, 20 Nov 2026.
+Canblaster is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at MoN Takanawa, Tokyo on Fri, 20 Nov 2026.
 
-Canblaster is an industrial and techno artist based in France, with 17 gigs on soundcheck across Lyon, Marseille, Nantes and Paris and 1 more. Often billed alongside Elise Massoni, Miley Serious and Paloma Colombe. Next up: MoN Takanawa: The Museum of Narratives, Tokyo on Fri 20 Nov.
+Canblaster is an industrial and techno artist based in France, with 17 gigs on soundcheck across Lyon, Marseille, Nantes and Paris and 1 more. Often billed alongside Elise Massoni, Miley Serious and Paloma Colombe. Next up: MoN Takanawa, Tokyo on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | MoN Takanawa: The Museum of Narratives | Tokyo |
+| Fri, 20 Nov 2026 | MoN Takanawa | Tokyo |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Canblaster is an industrial and techno artist based in France, with 17 gigs on s
 
 Elise Massoni, Miley Serious, Paloma Colombe
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/canblaster/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/canblaster/)*

@@ -1,6 +1,6 @@
 # ANNA
 
-ANNA is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at LA Coralina Island House OF AD Sidera, Panama on Fri, 30 Oct 2026.
+ANNA is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at LA Coralina Island House OF AD Sidera, Panama on Fri, 30 Oct 2026.
 
 ANNA is a techno and house artist based in Brazil, with 103 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Vintage Culture, DJ Tennis and Artbat. Next up: LA Coralina Island House OF AD Sidera, Panama on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ ANNA is a techno and house artist based in Brazil, with 103 gigs on soundcheck a
 
 Vintage Culture, DJ Tennis, Artbat
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djanna/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djanna/)*

@@ -1,6 +1,6 @@
 # Heritage Listed
 
-Heritage Listed is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Hard Rock Cafe Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Heritage Listed is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Hard Rock Cafe Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Heritage Listed is a house and disco artist based in Australia, with 33 gigs on soundcheck across Amsterdam, Geneva, Melbourne and Paris. Often billed alongside Le Hutin, Kirilski and Emma Champagne Queen. Next up: Hard Rock Cafe Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Heritage Listed is a house and disco artist based in Australia, with 33 gigs on 
 
 Le Hutin, Kirilski, Emma Champagne Queen
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heritagelisted/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heritagelisted/)*

@@ -1,8 +1,8 @@
 # radial
 
-radial is a music venue in London with 15 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Steven Julien 808 PRINCE ALBUM LAUNCH PARTY" on Fri, 16 Oct 2026.
+radial is a music venue in London with 17 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Steven Julien 808 PRINCE ALBUM LAUNCH PARTY" on Fri, 16 Oct 2026.
 
-radial is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Seyer (UK), Aaron Burr, Adam Curtain and ADHDj (UK) and 2 more. See dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
+radial is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Seyer (UK), Aaron Burr, Adam Curtain and ADHDj (UK) and 2 more. See dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
 ## What's on
 
@@ -16,11 +16,11 @@ radial is a music venue in London listed on soundcheck. 15 upcoming gigs, with l
 | Fri, 30 Oct 2026 | grounded w. Yushh x LWS x Delay Grounds | Delay Grounds, Djuar, LWS, Yushh, carmen (7) |
 | Sat, 31 Oct 2026 | Violet Moss x Percolate: Halloween with Strath | Strath |
 | Sun, 1 Nov 2026 | ambre club presents: Janeret, Dana Kuehr, Cem Ozden & katje | Cem Ozden, Dana Kuehr, Janeret, katje |
+| Wed, 4 Nov 2026 | from the source: House of Multiple Occupants |  |
 | Fri, 6 Nov 2026 | Rancho Relaxo #5 with Eversines & Monika Taneska | Compass, Eversines, Joey Fontaine, L.J. Violet, Monika Taneska |
-| Sat, 7 Nov 2026 | Void. Sazzle (TraTraTrax), Seyer (FAW), Terry Cotta (PM+) | Sazzle, Seyer (UK), Terry Cotta |
 
 ## Address
 
 39b Markfield Rd, N154QA, London, United Kingdom, London
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*

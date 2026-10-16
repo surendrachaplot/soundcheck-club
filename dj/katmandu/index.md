@@ -1,6 +1,6 @@
 # Katmandü
 
-Katmandü is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Switch Bar, Barcelona on Fri, 23 Oct 2026.
+Katmandü is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Switch Bar, Barcelona on Fri, 23 Oct 2026.
 
 Katmandü is a disco and house artist, with 24 gigs on soundcheck across Barcelona, Berlin and Madrid. Often billed alongside Lzztto, Akainu and Stacey Cute. Next up: Switch Bar, Barcelona on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Katmandü is a disco and house artist, with 24 gigs on soundcheck across Barcelo
 
 Lzztto, Akainu, Stacey Cute
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katmandu/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katmandu/)*

@@ -1,6 +1,6 @@
 # V3NÜ5
 
-V3NÜ5 is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Cloud, Berlin on Sat, 24 Oct 2026.
+V3NÜ5 is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Cloud, Berlin on Sat, 24 Oct 2026.
 
 V3NÜ5 is a techno and industrial artist based in Colombia, with 11 gigs on soundcheck across Berlin, Cologne, Hamburg and Helsinki and 1 more. Often billed alongside Dj handbag, JESUZ X and Cristian Marras. Next up: The Cloud, Berlin on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ V3NÜ5 is a techno and industrial artist based in Colombia, with 11 gigs on soun
 
 Dj handbag, JESUZ X, Cristian Marras
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/v3nu5/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/v3nu5/)*

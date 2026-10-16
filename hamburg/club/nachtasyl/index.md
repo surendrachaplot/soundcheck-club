@@ -1,6 +1,6 @@
 # Nachtasyl
 
-Nachtasyl is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "Golden Diskó Ship and Paula Reissig: POV:BirdMix" on Thu, 3 Dec 2026.
+Nachtasyl is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "Golden Diskó Ship and Paula Reissig: POV:BirdMix" on Thu, 3 Dec 2026.
 
 Nachtasyl is a music venue in Hamburg listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Alstertor 1, 20095 Hamburg, Germany.
 
@@ -14,4 +14,4 @@ Nachtasyl is a music venue in Hamburg listed on soundcheck. 1 upcoming gig. See 
 
 Alstertor 1, 20095 Hamburg, Germany, Hamburg
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/nachtasyl/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/nachtasyl/)*

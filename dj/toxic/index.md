@@ -1,6 +1,6 @@
 # Toxic
 
-Toxic is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Le 211, Paris on Fri, 13 Nov 2026.
+Toxic is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Le 211, Paris on Fri, 13 Nov 2026.
 
 Toxic is a techno and tech house artist based in Germany, with 9 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Madrid and 2 more. Often billed alongside CHAAC, Dj Pepo and ICS [RO]. Next up: Le 211, Paris on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Toxic is a techno and tech house artist based in Germany, with 9 gigs on soundch
 
 CHAAC, Dj Pepo, ICS [RO]
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toxic/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toxic/)*

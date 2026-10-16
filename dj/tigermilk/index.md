@@ -1,6 +1,6 @@
 # tigermilk
 
-tigermilk is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Sleeping Village, Chicago on Fri, 13 Nov 2026.
+tigermilk is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Sleeping Village, Chicago on Fri, 13 Nov 2026.
 
 tigermilk is a club and techno artist based in United States of America, with 13 gigs on soundcheck across Chicago. Often billed alongside Ariel Zetina, COBRA B and Floor Supervisor. Next up: Sleeping Village, Chicago on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ tigermilk is a club and techno artist based in United States of America, with 13
 
 Ariel Zetina, COBRA B, Floor Supervisor
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tigermilk/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tigermilk/)*

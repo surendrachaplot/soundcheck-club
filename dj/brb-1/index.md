@@ -1,6 +1,6 @@
 # BRB
 
-BRB is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Dybbuk, Athens on Fri, 16 Oct 2026.
+BRB is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Dybbuk, Athens on Fri, 16 Oct 2026.
 
 BRB is a house and afro house artist based in Greece, with 30 gigs on soundcheck across Amsterdam and Athens. Often billed alongside Pablo Nuevo, Friez and Tonya. Next up: Dybbuk, Athens on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ BRB is a house and afro house artist based in Greece, with 30 gigs on soundcheck
 
 Pablo Nuevo, Friez, Tonya
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brb-1/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brb-1/)*

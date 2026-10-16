@@ -1,6 +1,6 @@
 # antron
 
-antron is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Bossa Nova Civic Club, New York City on Tue, 3 Nov 2026.
+antron is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Bossa Nova Civic Club, New York City on Tue, 3 Nov 2026.
 
 antron is a techno and dub techno artist based in United States of America, with 31 gigs on soundcheck across London, New York City and Paris. Often billed alongside Alex Viper, Anito Soul and Cherry Orchard. Next up: Bossa Nova Civic Club, New York City on Tue 3 Nov.
 
@@ -25,4 +25,4 @@ antron is a techno and dub techno artist based in United States of America, with
 
 Alex Viper, Anito Soul, Cherry Orchard
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antron/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antron/)*

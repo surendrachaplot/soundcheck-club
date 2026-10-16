@@ -1,6 +1,6 @@
 # Tasha
 
-Tasha is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Phonox, London on Sat, 17 Oct 2026.
+Tasha is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Phonox, London on Sat, 17 Oct 2026.
 
 Tasha is a techno and house artist based in United Kingdom, with 199 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Steffi, Blasha & Allatt and Stenny. Next up: Phonox, London on Sat 17 Oct.
 
@@ -34,4 +34,4 @@ Tasha is a techno and house artist based in United Kingdom, with 199 gigs on sou
 
 Steffi, Blasha & Allatt, Stenny
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha/)*

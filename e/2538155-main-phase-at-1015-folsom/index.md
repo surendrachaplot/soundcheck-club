@@ -1,6 +1,6 @@
 # Main Phase at 1015 Folsom
 
-Main Phase at 1015 Folsom on Fri 6 Nov, San Francisco/Oakland. 1 artist: Main Phase. Garage. See the line-up on soundcheck.
+Main Phase at 1015 Folsom on Fri 6 Nov, San Francisco/Oakland. 3 artists: Dan Frandisco, Main Phase and Nightware. Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Main Phase at 1015 Folsom on Fri 6 Nov, San Francisco/Oakland. 1 artist: Main Ph
 
 ## Line-up
 
+- Dan Frandisco
 - Main Phase
+- Nightware
 
 *Source: [soundcheck](https://soundcheck.club/e/2538155-main-phase-at-1015-folsom/)*

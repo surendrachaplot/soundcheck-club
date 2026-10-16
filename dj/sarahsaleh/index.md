@@ -1,14 +1,15 @@
 # Sarah Saleh
 
-Sarah Saleh is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
+Sarah Saleh is a Ambient and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
 
-Sarah Saleh is an experimental and ambient artist, with 10 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside Bailey Ibbs, Bambounou and Bennet (DE). Next up: ingang, Amsterdam on Sat 24 Oct.
+Sarah Saleh is an ambient and downtempo artist, with 11 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside Bailey Ibbs, Bambounou and Bennet (DE). Next up: ingang, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | ingang | Amsterdam |
+| Sat, 24 Oct 2026 | W139 | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sarah Saleh is an experimental and ambient artist, with 10 gigs on soundcheck ac
 
 Bailey Ibbs, Bambounou, Bennet (DE)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsaleh/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsaleh/)*

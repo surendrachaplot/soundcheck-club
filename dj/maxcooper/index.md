@@ -1,6 +1,6 @@
 # Max Cooper
 
-Max Cooper is a Techno and Electronica artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
+Max Cooper is a Techno and Electronica artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
 
 Max Cooper is a techno and electronica artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 49 more. Often billed alongside Actress, Blawan and Logic1000. Next up: Fira Barcelona, Barcelona on Fri 6 Nov.
 
@@ -12,7 +12,7 @@ Max Cooper is a techno and electronica artist based in United Kingdom, with 128 
 | Sun, 8 Nov 2026 | La Riviera | Madrid |
 | Fri, 13 Nov 2026 | Club Wintercircus | Ghent |
 | Sat, 14 Nov 2026 | Club Wintercircus | Ghent |
-| Fri, 20 Nov 2026 | MoN Takanawa: The Museum of Narratives | Tokyo |
+| Fri, 20 Nov 2026 | MoN Takanawa | Tokyo |
 | Sat, 12 Dec 2026 | TESTBED | Leeds |
 
 ## Recently played
@@ -30,4 +30,4 @@ Max Cooper is a techno and electronica artist based in United Kingdom, with 128 
 
 Actress, Blawan, Logic1000
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*

@@ -1,6 +1,6 @@
 # Manolaco
 
-Manolaco is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Flying Horses, Athens on Sun, 18 Oct 2026.
+Manolaco is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Flying Horses, Athens on Sun, 18 Oct 2026.
 
 Manolaco is a techno and house artist, with 79 gigs on soundcheck across Athens, Bucharest, London and Milan and 1 more. Often billed alongside Mikee (Athens), Ilario Alicante and Viton. Next up: Flying Horses, Athens on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Manolaco is a techno and house artist, with 79 gigs on soundcheck across Athens,
 
 Mikee (Athens), Ilario Alicante, Viton
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manolaco/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manolaco/)*

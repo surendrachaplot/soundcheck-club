@@ -1,13 +1,15 @@
 # Mietze Conte
 
-Mietze Conte is a House and Experimental artist with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Gorilla, Manchester on Fri, 30 Oct 2026.
+Mietze Conte is a House and Experimental artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Circus Osaka, Osaka on Fri, 16 Oct 2026.
 
-Mietze Conte is a house and experimental artist based in Austria, with 61 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 22 more. Often billed alongside 1tbsp, DJ Gigola and Skin On Skin. Next up: Gorilla, Manchester on Fri 30 Oct.
+Mietze Conte is a house and experimental artist based in Austria, with 63 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 23 more. Often billed alongside 1tbsp, DJ Gigola and Skin On Skin. Next up: Circus Osaka, Osaka on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Circus Osaka | Osaka |
+| Sat, 17 Oct 2026 | Circus Tokyo | Tokyo |
 | Fri, 30 Oct 2026 | Gorilla | Manchester |
 | Thu, 5 Nov 2026 | Hole44 | Berlin |
 | Sat, 7 Nov 2026 | Various Venues, Bristol | Bristol |
@@ -33,4 +35,4 @@ Mietze Conte is a house and experimental artist based in Austria, with 61 gigs o
 
 1tbsp, DJ Gigola, Skin On Skin
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mietzeconte/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mietzeconte/)*

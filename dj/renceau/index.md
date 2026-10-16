@@ -1,6 +1,6 @@
 # Renceau
 
-Renceau is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Club NYX, Amsterdam on Fri, 23 Oct 2026.
+Renceau is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Club NYX, Amsterdam on Fri, 23 Oct 2026.
 
 Renceau is a house and garage artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam, Manchester and Rotterdam. Often billed alongside Milion, Silva Bumpa and Bella Claxton. Next up: Club NYX, Amsterdam on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Renceau is a house and garage artist based in Netherlands, with 5 gigs on soundc
 
 Milion, Silva Bumpa, Bella Claxton
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renceau/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renceau/)*

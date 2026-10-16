@@ -1,6 +1,6 @@
 # Camp and Furnace
 
-Camp and Furnace is a music venue in Liverpool with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Chase & Status: DJ Set" on Wed, 11 Nov 2026.
+Camp and Furnace is a music venue in Liverpool with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Chase & Status: DJ Set" on Wed, 11 Nov 2026.
 
 Camp and Furnace is a music venue in Liverpool listed on soundcheck. 4 upcoming gigs, with line-ups including Chase & Status and Jetski. See dates, start times and who's playing. 67 Greenland Street, Liverpool, L1 0BY, United Kingdom.
 
@@ -17,4 +17,4 @@ Camp and Furnace is a music venue in Liverpool listed on soundcheck. 4 upcoming 
 
 67 Greenland Street, Liverpool, L1 0BY, United Kingdom, Liverpool
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/camp-and-furnace/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/camp-and-furnace/)*

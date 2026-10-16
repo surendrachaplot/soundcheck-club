@@ -1,6 +1,6 @@
 # Kings of the Rollers
 
-Kings of the Rollers is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Electric Studios, Sheffield on Sat, 28 Nov 2026.
+Kings of the Rollers is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Electric Studios, Sheffield on Sat, 28 Nov 2026.
 
 Kings of the Rollers is a drum & bass and jungle artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Auckland, Brighton and Bristol and 10 more. Often billed alongside Inja, Hedex and Bou (UK). Next up: Electric Studios, Sheffield on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Kings of the Rollers is a drum & bass and jungle artist based in United Kingdom,
 
 Inja, Hedex, Bou (UK)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsoftherollers/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsoftherollers/)*

@@ -1,8 +1,8 @@
 # Marley Swain
 
-Marley Swain is a Electronica and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
+Marley Swain is a Electronica and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
 
-Marley Swain is an electronica and house artist based in Australia, with 20 gigs on soundcheck across Melbourne, New South Wales and Victoria. Often billed alongside Pjenné, Darcy Justice and Hannah D. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
+Marley Swain is an electronica and house artist based in Australia, with 21 gigs on soundcheck across Melbourne, New South Wales and Victoria. Often billed alongside Pjenné, Kia (AU) and Kiernan Laveaux. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Marley Swain is an electronica and house artist based in Australia, with 20 gigs
 | Fri, 6 Nov 2026 | TBA - Mount Adrah, Wiradjuri Country NSW | New-south-wales |
 | Fri, 6 Nov 2026 | TBA | Victoria |
 | Sat, 14 Nov 2026 | Northcote Theatre | Melbourne |
+| Fri, 20 Nov 2026 | TBA | Melbourne |
 | Sat, 28 Nov 2026 | Collingwood Children's Farm | Melbourne |
 
 ## Recently played
@@ -26,6 +27,6 @@ Marley Swain is an electronica and house artist based in Australia, with 20 gigs
 
 ## Shares bills with
 
-Pjenné, Darcy Justice, Hannah D
+Pjenné, Kia (AU), Kiernan Laveaux
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marleyswain/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marleyswain/)*

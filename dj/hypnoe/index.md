@@ -1,6 +1,6 @@
 # hypnoe
 
-hypnoe is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Kauz, Zurich on Sat, 7 Nov 2026.
+hypnoe is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Kauz, Zurich on Sat, 7 Nov 2026.
 
 hypnoe is a techno and electronica artist based in Switzerland, with 18 gigs on soundcheck across Basel, Hamburg and Zurich. Often billed alongside Alissa, Playlove and fabulus. Next up: Kauz, Zurich on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ hypnoe is a techno and electronica artist based in Switzerland, with 18 gigs on 
 
 Alissa, Playlove, fabulus
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnoe/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnoe/)*

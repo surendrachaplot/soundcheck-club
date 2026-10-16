@@ -1,6 +1,6 @@
 # Echostage
 
-Echostage is a music venue in Washington DC with 18 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "San Holo with Taiki Nulight, Atura" on Sat, 17 Oct 2026.
+Echostage is a music venue in Washington DC with 18 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "San Holo with Taiki Nulight, Atura" on Sat, 17 Oct 2026.
 
 Echostage is a music venue in Washington DC listed on soundcheck. 18 upcoming gigs, with line-ups including 10cust, Brutalismus 3000, Casey Club and Chris Lake and 2 more. See dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
 
@@ -23,4 +23,4 @@ Echostage is a music venue in Washington DC listed on soundcheck. 18 upcoming gi
 
 2135 Queens Chapel Road NE, Washington, DC 20018, Washington DC
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*

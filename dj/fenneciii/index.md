@@ -1,6 +1,6 @@
 # Fennec III
 
-Fennec III is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Thu, 15 Oct 2026.
+Fennec III is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Thu, 15 Oct 2026.
 
 Fennec III is an electronic artist based in Italy, with 12 gigs on soundcheck across Milan and Rome. Often billed alongside MA\E, Blunderr and Collider. Next up: Tempio del Futuro Perduto, Milan on Thu 15 Oct.
 
@@ -12,6 +12,7 @@ Fennec III is an electronic artist based in Italy, with 12 gigs on soundcheck ac
 
 ## Recently played
 
+- Tempio del Futuro Perduto, Milan · Thu, 15 Oct 2026
 - Brancaleone, Rome · Sat, 11 Apr 2026
 - La Redazione di Scomodo, Rome · Fri, 12 Dec 2025
 - Brancaleone, Rome · Sat, 22 Nov 2025
@@ -19,10 +20,9 @@ Fennec III is an electronic artist based in Italy, with 12 gigs on soundcheck ac
 - Hotel Butterfly, Rome · Wed, 4 Jun 2025
 - Brancaleone, Rome · Sat, 15 Mar 2025
 - Brancaleone, Rome · Sat, 15 Feb 2025
-- Brancaleone, Rome · Sun, 5 Jan 2025
 
 ## Shares bills with
 
 MA\E, Blunderr, Collider
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fenneciii/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fenneciii/)*

@@ -1,6 +1,6 @@
 # Tanison
 
-Tanison is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Daddy’S all day bar, Athens on Fri, 16 Oct 2026.
+Tanison is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Daddy’S all day bar, Athens on Fri, 16 Oct 2026.
 
 Tanison is a techno and tech house artist based in Greece, with 54 gigs on soundcheck across Athens. Often billed alongside Deherian, SCTR and Christian Cambas. Next up: Daddy’S all day bar, Athens on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Tanison is a techno and tech house artist based in Greece, with 54 gigs on sound
 
 Deherian, SCTR (2), Christian Cambas
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tanison/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tanison/)*

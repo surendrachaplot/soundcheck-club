@@ -1,6 +1,6 @@
 # Jane Decks
 
-Jane Decks is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Red Rattler, Sydney on Sat, 24 Oct 2026.
+Jane Decks is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Red Rattler, Sydney on Sat, 24 Oct 2026.
 
 Jane Decks is a house and techno artist based in Australia, with 39 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Lily FM, Max Cherry and Bouki. Next up: The Red Rattler, Sydney on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Jane Decks is a house and techno artist based in Australia, with 39 gigs on soun
 
 Lily FM, Max Cherry, Bouki
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janedecks/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janedecks/)*

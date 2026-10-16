@@ -1,14 +1,15 @@
 # DETOXX
 
-DETOXX is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at R25 Kulturschlachthof, Düsseldorf on Fri, 16 Oct 2026.
+DETOXX is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at R25 Kulturschlachthof, Düsseldorf on Fri, 16 Oct 2026.
 
-DETOXX is a techno and trance artist based in Germany, with 71 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 6 more. Often billed alongside Amøn, YËDM and DJ Achim Feuervogel. Next up: R25 Kulturschlachthof, Düsseldorf on Fri 16 Oct.
+DETOXX is a techno and trance artist based in Germany, with 72 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 6 more. Often billed alongside Amøn, YËDM and DJ Achim Feuervogel. Next up: R25 Kulturschlachthof, Düsseldorf on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | R25 Kulturschlachthof | Düsseldorf |
+| Fri, 23 Oct 2026 | Das Werk | Vienna |
 | Sat, 24 Oct 2026 | Toekomstmuziek | Amsterdam |
 | Fri, 30 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 12 Dec 2026 | Lokschuppen Berlin | Berlin |
@@ -30,4 +31,4 @@ DETOXX is a techno and trance artist based in Germany, with 71 gigs on soundchec
 
 Amøn, YËDM, DJ Achim Feuervogel
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/detoxx/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/detoxx/)*

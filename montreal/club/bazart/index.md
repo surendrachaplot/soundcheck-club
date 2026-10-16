@@ -1,18 +1,17 @@
 # Bazart
 
-Bazart is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Antdot, Mezz, Hudare" on Thu, 15 Oct 2026.
+Bazart is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "THEMBA, Andrew Pololos, Malena" on Thu, 29 Oct 2026.
 
-Bazart is a music venue in Montreal listed on soundcheck. 2 upcoming gigs, with line-ups including Antdot and THEMBA. See dates, start times and who's playing. 950 Ottawa St, Montreal, Quebec H3C 1W4.
+Bazart is a music venue in Montreal listed on soundcheck. 1 upcoming gig, with line-ups including THEMBA. See dates, start times and who's playing. 950 Ottawa St, Montreal, Quebec H3C 1W4.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Antdot, Mezz, Hudare | Antdot |
 | Thu, 29 Oct 2026 | THEMBA, Andrew Pololos, Malena | THEMBA |
 
 ## Address
 
 950 Ottawa St, Montreal, Quebec H3C 1W4, Montreal
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bazart/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bazart/)*

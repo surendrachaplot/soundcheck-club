@@ -1,6 +1,6 @@
 # mattia
 
-mattia is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Jasna 1, Warsaw on Sat, 31 Oct 2026.
+mattia is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Jasna 1, Warsaw on Sat, 31 Oct 2026.
 
 mattia is a bass and electro artist based in France, with 12 gigs on soundcheck across Krakow, Prague and Warsaw. Often billed alongside ECCO.EXE, MERVH and PLATTER. Next up: Jasna 1, Warsaw on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ mattia is a bass and electro artist based in France, with 12 gigs on soundcheck 
 
 ECCO.EXE, MERVH, PLATTER
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattia/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattia/)*

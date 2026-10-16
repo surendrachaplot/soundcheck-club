@@ -1,6 +1,6 @@
 # CRUSH: The Frosty Fairytale at Prisma
 
-CRUSH: The Frosty Fairytale at Prisma on Fri 13 Nov, Berlin. 2 artists: D.Sociation and Julian Shore. Techno. See the line-up on soundcheck.
+CRUSH: The Frosty Fairytale at Prisma on Fri 13 Nov, Berlin. 3 artists: D.Sociation, Julian Shore and Leon Eliah. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ CRUSH: The Frosty Fairytale at Prisma on Fri 13 Nov, Berlin. 2 artists: D.Sociat
 
 - D.Sociation
 - Julian Shore
+- Leon Eliah
 
 *Source: [soundcheck](https://soundcheck.club/e/2541555-crush-the-frosty-fairytale-at-prisma/)*

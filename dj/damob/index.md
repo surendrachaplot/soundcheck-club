@@ -1,6 +1,6 @@
 # Damo B
 
-Damo B is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at The Greyhound, London on Sat, 7 Nov 2026.
+Damo B is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Greyhound, London on Sat, 7 Nov 2026.
 
 Damo B is a house and techno artist based in United Kingdom, with 15 gigs on soundcheck across London and Manchester. Often billed alongside Daz Mac, Pharaoh Brunson and Al Bradley. Next up: The Greyhound, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Damo B is a house and techno artist based in United Kingdom, with 15 gigs on sou
 
 Daz Mac, Pharaoh Brunson, Al Bradley
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damob/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damob/)*

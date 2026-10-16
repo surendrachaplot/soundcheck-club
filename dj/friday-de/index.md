@@ -1,6 +1,6 @@
 # FridaY (DE)
 
-FridaY (DE) is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Zero Club, Lisbon on Fri, 16 Oct 2026.
+FridaY (DE) is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Zero Club, Lisbon on Fri, 16 Oct 2026.
 
 FridaY (DE) is a techno and bass artist based in Germany, with 47 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Boston and 11 more. Often billed alongside Dirtie Blonde, H.U.D.L and Quarterdef. Next up: Zero Club, Lisbon on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ FridaY (DE) is a techno and bass artist based in Germany, with 47 gigs on soundc
 
 Dirtie Blonde, H.U.D.L, Quarterdef
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/friday-de/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/friday-de/)*

@@ -1,14 +1,13 @@
 # M.O.T
 
-M.O.T is a music venue in London with 39 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "The Cure To Insomnia W/ Jeremy Sylvester" on Thu, 15 Oct 2026.
+M.O.T is a music venue in London with 38 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "23 Degrees x Profound Sound: IsGwan, Sulphur, parashoot, Hyphen & THIRZA" on Fri, 16 Oct 2026.
 
-M.O.T is a music venue in London listed on soundcheck. 39 upcoming gigs, with line-ups including abejizaza, abs8lute, Addison Groove and Aldonna and 2 more. See dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
+M.O.T is a music venue in London listed on soundcheck. 38 upcoming gigs, with line-ups including abejizaza, abs8lute, Addison Groove and Aldonna and 2 more. See dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | The Cure To Insomnia W/ Jeremy Sylvester | DJelley, Jack Costello, Jeremy Sylvester, LUX (uk), Sean Nolan, Sophia Constantinou |
 | Fri, 16 Oct 2026 | 23 Degrees x Profound Sound: IsGwan, Sulphur, parashoot, Hyphen & THIRZA | IsGwan, Sulphur, THIRZA, parashoot |
 | Fri, 16 Oct 2026 | RUFF RAT presents: JUNGLE MISCHIEF | Guido YZ, Ixn (1), The Bass Injector |
 | Sat, 17 Oct 2026 | Percolate presents Benwal | Benwal, Lola So, Osmaan |
@@ -18,9 +17,10 @@ M.O.T is a music venue in London listed on soundcheck. 39 upcoming gigs, with li
 | Fri, 23 Oct 2026 | Club Romantico x MOT: Dengue Dengue Dengue, Florentino & Pochola | Dengue Dengue Dengue, Florentino, Pochola |
 | Sat, 24 Oct 2026 | Loefah - Venue MOT | GEM (UK), Loefah |
 | Sat, 24 Oct 2026 | Ryota - Venue MOT | Fez the Kid, ryota dj |
+| Thu, 29 Oct 2026 | ✦ M.O.T Radio ✦ Tim Reaper + ???, Grandmixxer, Jay Duncan ✦ | Grandmixxer, Jay Duncan, Tim Reaper, Woody Boase |
 
 ## Address
 
 Orion Business Centre, Surrey Canal Rd SE14 5RT, London
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*

@@ -1,6 +1,6 @@
 # Aku
 
-Aku is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 16 Oct 2026.
+Aku is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 16 Oct 2026.
 
 Aku is a house and club artist based in United States of America, with 30 gigs on soundcheck across Buenos Aires, Chicago, Detroit and Los Angeles and 3 more. Often billed alongside MTooray, Bianca Maieli and DJ SUDI. Next up: Mtkvarze, Tbilisi on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Aku is a house and club artist based in United States of America, with 30 gigs o
 
 MTooray, Bianca Maieli, DJ SUDI
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aku/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aku/)*

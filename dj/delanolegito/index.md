@@ -1,6 +1,6 @@
 # Delano Legito
 
-Delano Legito is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at De Fik Garden, Amsterdam on Sat, 24 Oct 2026.
+Delano Legito is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at De Fik Garden, Amsterdam on Sat, 24 Oct 2026.
 
 Delano Legito is a techno and house artist based in Netherlands, with 108 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Julie, Amotik and Serti. Next up: De Fik Garden, Amsterdam on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Delano Legito is a techno and house artist based in Netherlands, with 108 gigs o
 
 Julie, Amotik, Serti
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delanolegito/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delanolegito/)*

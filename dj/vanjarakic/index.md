@@ -1,14 +1,15 @@
 # Vanja Rakic
 
-Vanja Rakic is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 17 Oct 2026.
+Vanja Rakic is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 17 Oct 2026.
 
-Vanja Rakic is a downtempo and house artist, with 11 gigs on soundcheck across Amsterdam, Berlin and Vienna. Often billed alongside Elina Tapio, Olgica and 2K88. Next up: Garage Noord, Amsterdam on Sat 17 Oct.
+Vanja Rakic is a techno and experimental artist, with 12 gigs on soundcheck across Amsterdam, Berlin, London and Vienna. Often billed alongside Olgica, Elina Tapio and upsammy. Next up: Garage Noord, Amsterdam on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Garage Noord | Amsterdam |
+| Sat, 7 Nov 2026 | Ormside Projects | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Vanja Rakic is a downtempo and house artist, with 11 gigs on soundcheck across A
 
 ## Shares bills with
 
-Elina Tapio, Olgica, 2K88
+Olgica, Elina Tapio, upsammy
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanjarakic/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanjarakic/)*

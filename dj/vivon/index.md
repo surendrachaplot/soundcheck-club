@@ -1,6 +1,6 @@
 # ViV:On
 
-ViV:On is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Union Tavern, Boston on Sat, 31 Oct 2026.
+ViV:On is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Union Tavern, Boston on Sat, 31 Oct 2026.
 
 ViV:On is a house and progressive house artist based in Italy, with 30 gigs on soundcheck across Boston, Milan and New York City. Often billed alongside FRANZIV, AleBCostantino and DJ Bookworm. Next up: Union Tavern, Boston on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ ViV:On is a house and progressive house artist based in Italy, with 30 gigs on s
 
 FRANZIV, AleBCostantino, DJ Bookworm
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivon/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivon/)*

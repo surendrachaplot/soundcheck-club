@@ -1,6 +1,6 @@
 # Malzof
 
-Malzof is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Secret Location, San Diego on Sat, 17 Oct 2026.
+Malzof is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Secret Location, San Diego on Sat, 17 Oct 2026.
 
 Malzof is a house and techno artist based in United States of America, with 13 gigs on soundcheck across Detroit, Los Angeles, New York City and Philadelphia and 3 more. Often billed alongside Kiernan Laveaux, Yessi and Security Dog. Next up: TBA - Secret Location, San Diego on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Malzof is a house and techno artist based in United States of America, with 13 g
 
 Kiernan Laveaux, Yessi, Security Dog
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malzof/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malzof/)*

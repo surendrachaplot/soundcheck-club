@@ -1,6 +1,6 @@
 # DXNBY
 
-DXNBY is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Bulldog Palace, Amsterdam on Thu, 22 Oct 2026.
+DXNBY is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Bulldog Palace, Amsterdam on Thu, 22 Oct 2026.
 
 DXNBY is a house and tech house artist based in United Kingdom, with 119 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 22 more. Often billed alongside Ozzie Guven, ALISHA and East End Dubs. Next up: The Bulldog Palace, Amsterdam on Thu 22 Oct.
 
@@ -30,4 +30,4 @@ DXNBY is a house and tech house artist based in United Kingdom, with 119 gigs on
 
 Ozzie Guven, ALISHA, East End Dubs
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dxnby/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dxnby/)*

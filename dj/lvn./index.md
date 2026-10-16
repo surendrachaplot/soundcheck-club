@@ -1,6 +1,6 @@
 # LVN.
 
-LVN. is a House and Jazz artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Left Bank, Tbilisi on Fri, 16 Oct 2026.
+LVN. is a House and Jazz artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Left Bank, Tbilisi on Fri, 16 Oct 2026.
 
 LVN. is a house and jazz artist, with 22 gigs on soundcheck across Tbilisi. Often billed alongside Kraumur, Giorgi Pipia and Ash Scholem. Next up: Left Bank, Tbilisi on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ LVN. is a house and jazz artist, with 22 gigs on soundcheck across Tbilisi. Ofte
 
 Kraumur, Giorgi Pipia, Ash Scholem
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lvn./)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lvn./)*

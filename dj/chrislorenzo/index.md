@@ -1,6 +1,6 @@
 # Chris Lorenzo
 
-Chris Lorenzo is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Echostage, Washington DC on Fri, 23 Oct 2026.
+Chris Lorenzo is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Echostage, Washington DC on Fri, 23 Oct 2026.
 
 Chris Lorenzo is a house and tech house artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 15 more. Often billed alongside Kaskade, FISHER and SG Lewis. Next up: Echostage, Washington DC on Fri 23 Oct.
 
@@ -30,4 +30,4 @@ Chris Lorenzo is a house and tech house artist based in United Kingdom, with 55 
 
 Kaskade, FISHER, SG Lewis
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislorenzo/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislorenzo/)*

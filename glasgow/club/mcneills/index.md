@@ -1,6 +1,6 @@
 # McNeills
 
-McNeills is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "Slippery Music" on Fri, 16 Oct 2026.
+McNeills is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "[CANCELLED] Slippery Music" on Fri, 16 Oct 2026.
 
 McNeills is a music venue in Glasgow listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 106 Torrisdale Street, Glasgow, G42 8ED.
 
@@ -8,10 +8,10 @@ McNeills is a music venue in Glasgow listed on soundcheck. 1 upcoming gig. See d
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Slippery Music |  |
+| Fri, 16 Oct 2026 | [CANCELLED] Slippery Music |  |
 
 ## Address
 
 106 Torrisdale Street, Glasgow, G42 8ED, Glasgow
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcneills/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcneills/)*

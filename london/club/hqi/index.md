@@ -1,6 +1,6 @@
 # HQI
 
-HQI is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Initialize" on Fri, 30 Oct 2026.
+HQI is a music venue in London with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Initialize" on Fri, 30 Oct 2026.
 
 HQI is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Adela, ANMLxPRTY, By Dusk and D LAI and 2 more. See dates, start times and who's playing. 195 Wood Lane, London, W12 7FQ.
 
@@ -9,10 +9,10 @@ HQI is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Initialize | ANMLxPRTY, By Dusk, FRANK (UK), Fernweh (2), Karolkode, MEAKIN, SHAW (TW) |
-| Fri, 13 Nov 2026 | Lost Unicorns - LONDON | Adela, D LAI, JFOX |
+| Fri, 13 Nov 2026 | Lost Unicorns - LONDON | Adela, D LAI, JFOX, Jtucker |
 
 ## Address
 
 195 Wood Lane, London, W12 7FQ, London
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/hqi/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/hqi/)*

@@ -1,6 +1,6 @@
 # LIRICA
 
-LIRICA is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at PKH Warehouse, Berlin on Fri, 16 Oct 2026.
+LIRICA is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at PKH Warehouse, Berlin on Fri, 16 Oct 2026.
 
 LIRICA is a techno and trance artist based in Germany, with 8 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Alexej, JASHTECH and NELØ. Next up: PKH Warehouse, Berlin on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ LIRICA is a techno and trance artist based in Germany, with 8 gigs on soundcheck
 
 Alexej, JASHTECH, NELØ
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lirica-de/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lirica-de/)*

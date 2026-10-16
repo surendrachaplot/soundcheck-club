@@ -1,6 +1,6 @@
 # Coco & Breezy
 
-Coco & Breezy is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Stockholm on Fri, 23 Oct 2026.
+Coco & Breezy is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Stockholm on Fri, 23 Oct 2026.
 
 Coco & Breezy are a house and techno duo based in United States of America, with 87 gigs on soundcheck across Austin, Boston, Chicago and Copenhagen and 22 more. Often billed alongside Aluna, Breezy and Eric Prydz. Next up: TBA, Stockholm on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Coco & Breezy are a house and techno duo based in United States of America, with
 
 Aluna, Breezy, Eric Prydz
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cocobreezy/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cocobreezy/)*

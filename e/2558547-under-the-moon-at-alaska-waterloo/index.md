@@ -1,6 +1,6 @@
 # Under the Moon at Alaska Waterloo
 
-Under the Moon at Alaska Waterloo on Fri 13 Nov, London. 4 artists: Blink Twice, BOA, Samirah and TAYLR. Afro House and Afro Tech. See the line-up on soundcheck.
+Under the Moon at Alaska Waterloo on Fri 13 Nov, London. 5 artists: Adaje, Blink Twice, BOA and Samirah and 1 more. Afro House and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Under the Moon at Alaska Waterloo on Fri 13 Nov, London. 4 artists: Blink Twice,
 
 ## Line-up
 
+- Adaje
 - Blink Twice
 - BOA (1)
 - Samirah

@@ -1,6 +1,6 @@
 # Bruder Jakob
 
-Bruder Jakob is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at ://about blank, Berlin on Fri, 6 Nov 2026.
+Bruder Jakob is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at ://about blank, Berlin on Fri, 6 Nov 2026.
 
 Bruder Jakob is a house and techno artist based in Germany, with 53 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Prosekko Papi, Bekka and Nikklaas. Next up: ://about blank, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Bruder Jakob is a house and techno artist based in Germany, with 53 gigs on soun
 
 Prosekko Papi, Bekka, Nikklaas
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bruderjakob/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bruderjakob/)*

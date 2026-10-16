@@ -1,6 +1,6 @@
 # ://about blank
 
-://about blank is a music venue in Berlin with 27 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Amsterdam Techno Records and DEPOT BERLIN [Amsterdam & Berlin]" on Fri, 16 Oct 2026.
+://about blank is a music venue in Berlin with 27 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Amsterdam Techno Records and DEPOT BERLIN [Amsterdam & Berlin]" on Fri, 16 Oct 2026.
 
 ://about blank is a music venue in Berlin listed on soundcheck. 27 upcoming gigs, with line-ups including 4NOUK, 50PHIE, Aamir and Acid Managment and 2 more. See dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
 
@@ -23,4 +23,4 @@
 
 Markgrafendamm 24c, 10245 Berlin, Germany, Berlin
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*

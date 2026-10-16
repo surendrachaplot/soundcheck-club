@@ -1,6 +1,6 @@
 # Joshua Dillon
 
-Joshua Dillon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Mdlr, Singapore on Sat, 17 Oct 2026.
+Joshua Dillon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Mdlr, Singapore on Sat, 17 Oct 2026.
 
 Joshua Dillon is a techno and house artist based in Singapore, with 55 gigs on soundcheck across Kuala Lumpur and Singapore. Often billed alongside Vinnie Stew, sho&tell and VAIBS. Next up: Mdlr, Singapore on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Joshua Dillon is a techno and house artist based in Singapore, with 55 gigs on s
 
 Vinnie Stew, sho&tell, VAIBS
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuadillon/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuadillon/)*

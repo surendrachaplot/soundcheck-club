@@ -1,6 +1,6 @@
 # Tania Kim
 
-Tania Kim is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at OT301, Amsterdam on Sat, 24 Oct 2026.
+Tania Kim is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at OT301, Amsterdam on Sat, 24 Oct 2026.
 
 Tania Kim is a techno and club artist based in Italy, with 24 gigs on soundcheck across Amsterdam, Lisbon, Milan and Rome. Often billed alongside Waldo, DRUM THE SYSTEM live and Atmosphreal. Next up: OT301, Amsterdam on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Tania Kim is a techno and club artist based in Italy, with 24 gigs on soundcheck
 
 Waldo, DRUM THE SYSTEM live, Atmosphreal
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taniakim/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taniakim/)*

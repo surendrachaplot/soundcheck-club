@@ -1,14 +1,13 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Riktus Invites BALAGAN" on Thu, 15 Oct 2026.
+Ministerium Club is a music venue in Lisbon with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Decoder b2b Jessie Granqvist, Salbany & Tiago" on Fri, 16 Oct 2026.
 
-Ministerium Club is a music venue in Lisbon listed on soundcheck. 10 upcoming gigs, with line-ups including Antilope, ANÍBAL, Banditst4r and BigT and 2 more. See dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
+Ministerium Club is a music venue in Lisbon listed on soundcheck. 9 upcoming gigs, with line-ups including Antilope, Banditst4r, BigT and Bubas and 2 more. See dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Riktus Invites BALAGAN | ANÍBAL, Djooke, GADDAM, Madson Carpenter, Saint Caboclo, pavvvvvvlo |
 | Fri, 16 Oct 2026 | Decoder b2b Jessie Granqvist, Salbany & Tiago | Decoder, Jessie Granqvist, Salbany, Tíago |
 | Sat, 17 Oct 2026 | Ricardo Grüssl b2b DJ Johnny Suede & Pedronium | Ricardo Grüssl |
 | Sat, 24 Oct 2026 | Ministerium Club // Dj Lynce, Shcuro (Live) & Rita Maomenos b2b Bandits4r | Banditst4r, Dj Lynce, Rita Maomenos, Shcuro |
@@ -23,4 +22,4 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 10 upcoming gi
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

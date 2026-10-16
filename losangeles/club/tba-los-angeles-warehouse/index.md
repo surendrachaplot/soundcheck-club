@@ -1,6 +1,6 @@
 # TBA - Los Angeles (Warehouse)
 
-TBA - Los Angeles (Warehouse) is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "008 - SWXCH x Boudica: Samantha Togni, masato and Vein" on Fri, 23 Oct 2026.
+TBA - Los Angeles (Warehouse) is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "008 - SWXCH x Boudica: Samantha Togni, masato and Vein" on Fri, 23 Oct 2026.
 
 TBA - Los Angeles (Warehouse) is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including Bloody Mary, Bryan Gee, Diverge and DRS and 2 more. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ TBA - Los Angeles (Warehouse) is a music venue in Los Angeles listed on soundche
 | Sat, 31 Oct 2026 | INCOGNITO X WAXXX Society present All-Vinyl HALLOWEEN Rave | Bloody Mary, Julia Govor, Laure Croft, Xica Soul |
 | Fri, 11 Dec 2026 | INCOGNITO x Metalheadz: Goldie, Photek, DRS, Diverge | DRS, Diverge, Goldie, Photek |
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles-warehouse/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles-warehouse/)*

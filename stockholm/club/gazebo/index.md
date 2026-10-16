@@ -1,6 +1,6 @@
 # Gazebo
 
-Gazebo is a music venue in Stockholm with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "𝐁𝐋𝐀𝐂𝐊 𝐋𝐎𝐓𝐔𝐒" on Sat, 24 Oct 2026.
+Gazebo is a music venue in Stockholm with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "𝐁𝐋𝐀𝐂𝐊 𝐋𝐎𝐓𝐔𝐒" on Sat, 24 Oct 2026.
 
 Gazebo is a music venue in Stockholm listed on soundcheck. 2 upcoming gigs, with line-ups including Britta Arnold, Diamandy, OrKatz and Ossian Reynolds and 2 more. See dates, start times and who's playing. Upplagsvägen 22, 142 91 Skogås.
 
@@ -15,4 +15,4 @@ Gazebo is a music venue in Stockholm listed on soundcheck. 2 upcoming gigs, with
 
 Upplagsvägen 22, 142 91 Skogås, Stockholm
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/gazebo/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/gazebo/)*

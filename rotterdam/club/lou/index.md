@@ -1,6 +1,6 @@
 # LOU
 
-LOU is a music venue in Rotterdam with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "LOU with Jack Darwin" on Fri, 16 Oct 2026.
+LOU is a music venue in Rotterdam with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "LOU with Jack Darwin" on Fri, 16 Oct 2026.
 
 LOU is a music venue in Rotterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Jack Darwin. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ LOU is a music venue in Rotterdam listed on soundcheck. 5 upcoming gigs, with li
 | Fri, 30 Oct 2026 | LOU w. Hashii |  |
 | Sat, 31 Oct 2026 | LOU shirt launchday |  |
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/lou/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/lou/)*

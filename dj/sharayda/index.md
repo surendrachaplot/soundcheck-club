@@ -1,6 +1,6 @@
 # Sharayda
 
-Sharayda is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Yes, Manchester on Fri, 23 Oct 2026.
+Sharayda is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Yes, Manchester on Fri, 23 Oct 2026.
 
 Sharayda is a house and garage artist based in United Kingdom, with 19 gigs on soundcheck across Manchester. Often billed alongside krioso, Javan and Macy Lancaster. Next up: Yes, Manchester on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Sharayda is a house and garage artist based in United Kingdom, with 19 gigs on s
 
 krioso, Javan, Macy Lancaster
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sharayda/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sharayda/)*

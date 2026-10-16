@@ -1,6 +1,6 @@
 # Binaryh
 
-Binaryh is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Crema Club, Sao Paulo on Fri, 23 Oct 2026.
+Binaryh is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Crema Club, Sao Paulo on Fri, 23 Oct 2026.
 
 Binaryh is a techno and house artist, with 19 gigs on soundcheck across Dublin, Ibiza, London and Los Angeles and 3 more. Often billed alongside Tale Of Us, Cassian and 8KAYS. Next up: Crema Club, Sao Paulo on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Binaryh is a techno and house artist, with 19 gigs on soundcheck across Dublin, 
 
 Tale Of Us, Cassian, 8KAYS
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/binaryh/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/binaryh/)*

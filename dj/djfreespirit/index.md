@@ -1,6 +1,6 @@
 # DJ Freespirit
 
-DJ Freespirit is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Ministry Of Sound, London on Sat, 28 Nov 2026.
+DJ Freespirit is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Ministry Of Sound, London on Sat, 28 Nov 2026.
 
 DJ Freespirit is a house and afro house artist based in Greece, with 8 gigs on soundcheck across Amsterdam, Athens, Frankfurt and London and 3 more. Often billed alongside Freespirit, ANT Mifsud and Amber Rose. Next up: Ministry Of Sound, London on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ DJ Freespirit is a house and afro house artist based in Greece, with 8 gigs on s
 
 Freespirit, ANT Mifsud, Amber Rose
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfreespirit/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfreespirit/)*

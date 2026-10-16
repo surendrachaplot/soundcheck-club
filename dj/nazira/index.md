@@ -1,6 +1,6 @@
 # Nazira
 
-Nazira is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at KOK Bazar, Kazakhstan on Fri, 16 Oct 2026.
+Nazira is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at KOK Bazar, Kazakhstan on Fri, 16 Oct 2026.
 
 Nazira is a techno and house artist based in Kazakhstan, with 29 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 12 more. Often billed alongside BASHKKA, Byron Yeates and CEM. Next up: KOK Bazar, Kazakhstan on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Nazira is a techno and house artist based in Kazakhstan, with 29 gigs on soundch
 
 BASHKKA, Byron Yeates, CEM
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nazira/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nazira/)*

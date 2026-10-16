@@ -1,8 +1,8 @@
 # bbymeister
 
-bbymeister is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 17 Oct 2026.
+bbymeister is a Trance and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 17 Oct 2026.
 
-bbymeister is a techno and trance artist based in Germany, with 97 gigs on soundcheck across Berlin, London and Paris. Often billed alongside August Kind, Deltapeak and jeanska. Next up: Lokschuppen Berlin, Berlin on Sat 17 Oct.
+bbymeister is a trance and techno artist based in Germany, with 97 gigs on soundcheck across Berlin, London and Paris. Often billed alongside August Kind, Deltapeak and jeanska. Next up: Lokschuppen Berlin, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ bbymeister is a techno and trance artist based in Germany, with 97 gigs on sound
 
 August Kind, Deltapeak, jeanska
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bbymeister/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bbymeister/)*

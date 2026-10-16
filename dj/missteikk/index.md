@@ -1,14 +1,15 @@
 # missteikk
 
-missteikk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Relink:Data, Mexico City on Fri, 16 Oct 2026.
+missteikk is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Relink:Data, Mexico City on Fri, 16 Oct 2026.
 
-missteikk is a techno and house artist based in Armenia, with 32 gigs on soundcheck across Armenia, Berlin, Mexico City and Tbilisi and 2 more. Often billed alongside ulises4000, kamunts and GOOSINDRA. Next up: Relink:Data, Mexico City on Fri 16 Oct.
+missteikk is a techno and house artist based in Armenia, with 33 gigs on soundcheck across Armenia, Berlin, Mexico City and Tbilisi and 2 more. Often billed alongside ulises4000, kamunts and GOOSINDRA. Next up: Relink:Data, Mexico City on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Relink:Data | Mexico City |
+| Sat, 17 Oct 2026 | Goethe Institut Mexiko | Mexico City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ missteikk is a techno and house artist based in Armenia, with 32 gigs on soundch
 
 ulises4000, kamunts, GOOSINDRA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missteikk/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missteikk/)*

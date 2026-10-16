@@ -1,8 +1,8 @@
 # Gerben
 
-Gerben is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Gerben is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
-Gerben is a techno and tech house artist, with 3 gigs on soundcheck across Amsterdam. Often billed alongside ADEZ, David Berrie and David Gtronic. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
+Gerben is a techno and tech house artist, with 3 gigs on soundcheck across Amsterdam. Often billed alongside ADEZ, Dave Soul and David Berrie. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ Gerben is a techno and tech house artist, with 3 gigs on soundcheck across Amste
 
 ## Shares bills with
 
-ADEZ, David Berrie, David Gtronic
+ADEZ, Dave Soul, David Berrie
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gerben/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gerben/)*

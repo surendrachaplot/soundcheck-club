@@ -1,14 +1,15 @@
 # Chris Ku
 
-Chris Ku is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Kater, Berlin on Fri, 16 Oct 2026.
+Chris Ku is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Kater, Berlin on Fri, 16 Oct 2026.
 
-Chris Ku is a house and tech house artist based in Germany, with 17 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside Tajik, Chris Beulich and Boutiq.808. Next up: Kater, Berlin on Fri 16 Oct.
+Chris Ku is a house and techno artist based in Germany, with 18 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside Tajik, Chris Beulich and Boutiq.808. Next up: Kater, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Kater | Berlin |
+| Fri, 27 Nov 2026 | Renate | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Chris Ku is a house and tech house artist based in Germany, with 17 gigs on soun
 
 Tajik, Chris Beulich, Boutiq.808
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisku/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisku/)*

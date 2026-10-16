@@ -1,6 +1,6 @@
 # Revstreet
 
-Revstreet is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 18 Dec 2026.
+Revstreet is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 18 Dec 2026.
 
 Revstreet is a garage and house artist based in United Kingdom, with 43 gigs on soundcheck across Brighton, Leeds and London. Often billed alongside Paddy Cotter, Oldfield and Delano (UK). Next up: NUMBER 90 LONDON, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Revstreet is a garage and house artist based in United Kingdom, with 43 gigs on 
 
 Paddy Cotter, Oldfield, Delano (UK)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/revstreet/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/revstreet/)*

@@ -1,6 +1,6 @@
 # The Mothership
 
-The Mothership is a music venue in Auckland with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "PANDEMONIUM | FEAT: PAIGE JULIA / SHARKA / NIKENB2BVERMINX / NEKYIA / HUSTLE" on Sat, 17 Oct 2026.
+The Mothership is a music venue in Auckland with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "PANDEMONIUM | FEAT: PAIGE JULIA / SHARKA / NIKENB2BVERMINX / NEKYIA / HUSTLE" on Sat, 17 Oct 2026.
 
 The Mothership is a music venue in Auckland listed on soundcheck. 6 upcoming gigs, with line-ups including Sam Divine, Paige Julia, SHARKA and Truth. See dates, start times and who's playing. 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand.
 
@@ -19,4 +19,4 @@ The Mothership is a music venue in Auckland listed on soundcheck. 6 upcoming gig
 
 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand, Auckland
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-mothership/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-mothership/)*

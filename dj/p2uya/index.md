@@ -1,6 +1,6 @@
 # P2UYA
 
-P2UYA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Dear Darling, London on Fri, 23 Oct 2026.
+P2UYA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Dear Darling, London on Fri, 23 Oct 2026.
 
 P2UYA is a house and tech house artist based in United Kingdom, with 37 gigs on soundcheck across London. Often billed alongside Nojan, Karillix and Ali Sayadi. Next up: Dear Darling, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ P2UYA is a house and tech house artist based in United Kingdom, with 37 gigs on 
 
 Nojan, Karillix, Ali Sayadi
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p2uya/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p2uya/)*

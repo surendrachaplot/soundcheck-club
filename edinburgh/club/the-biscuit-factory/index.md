@@ -1,6 +1,6 @@
 # The Biscuit Factory
 
-The Biscuit Factory is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "BIG HOT MESS Halloween Special with Cormac" on Fri, 30 Oct 2026.
+The Biscuit Factory is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "BIG HOT MESS Halloween Special with Cormac" on Fri, 30 Oct 2026.
 
 The Biscuit Factory is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig, with line-ups including Cormac and Simonotron. See dates, start times and who's playing. 4-6 Anderson Place, Edinburgh, EH6 5NP.
 
@@ -14,4 +14,4 @@ The Biscuit Factory is a music venue in Edinburgh listed on soundcheck. 1 upcomi
 
 4-6 Anderson Place, Edinburgh, EH6 5NP, Edinburgh
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-biscuit-factory/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-biscuit-factory/)*

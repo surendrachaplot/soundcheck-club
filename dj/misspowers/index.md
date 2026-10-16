@@ -1,18 +1,18 @@
 # Miss Powers
 
-Miss Powers is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Noto Philadelphia, Philadelphia on Thu, 15 Oct 2026.
+Miss Powers is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Noto Philadelphia, Philadelphia on Thu, 12 Nov 2026.
 
-Miss Powers is a techno and house artist based in United States of America, with 24 gigs on soundcheck across Detroit and Philadelphia. Often billed alongside Fold Theory, ANDi MANDi and DJ Kalin. Next up: Noto Philadelphia, Philadelphia on Thu 15 Oct.
+Miss Powers is a techno and house artist based in United States of America, with 24 gigs on soundcheck across Detroit and Philadelphia. Often billed alongside Fold Theory, ANDi MANDi and DJ Kalin. Next up: Noto Philadelphia, Philadelphia on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Noto Philadelphia | Philadelphia |
 | Thu, 12 Nov 2026 | Noto Philadelphia | Philadelphia |
 
 ## Recently played
 
+- Noto Philadelphia, Philadelphia · Thu, 15 Oct 2026
 - Ground Floor, Philadelphia · Sat, 18 Jul 2026
 - Bookies, Detroit · Fri, 22 May 2026
 - TBA - Ticket Holders will be sent the location at 6pmEST the day of the event.., Philadelphia · Sat, 25 Apr 2026
@@ -20,10 +20,9 @@ Miss Powers is a techno and house artist based in United States of America, with
 - Warehouse on Watts, Philadelphia · Sat, 4 Oct 2025
 - Winston On The Water, Philadelphia · Sat, 12 Jul 2025
 - Bookies, Detroit · Fri, 23 May 2025
-- Ruby Room, Philadelphia · Sat, 12 Apr 2025
 
 ## Shares bills with
 
 Fold Theory, ANDi MANDi, DJ Kalin
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misspowers/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misspowers/)*

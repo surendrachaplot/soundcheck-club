@@ -1,6 +1,6 @@
 # DVDE
 
-DVDE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Paper, Seoul on Fri, 16 Oct 2026.
+DVDE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Paper, Seoul on Fri, 16 Oct 2026.
 
 DVDE is a house and techno artist based in France, with 110 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 17 more. Often billed alongside Maison Blanche, CL Beats and Cinthie. Next up: Paper, Seoul on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ DVDE is a house and techno artist based in France, with 110 gigs on soundcheck a
 
 Maison Blanche, CL Beats, Cinthie
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dvde/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dvde/)*

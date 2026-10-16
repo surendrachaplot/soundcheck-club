@@ -1,6 +1,6 @@
 # KE-YEN
 
-KE-YEN is a Garage and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Manning Bar, Sydney on Sat, 31 Oct 2026.
+KE-YEN is a Garage and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Manning Bar, Sydney on Sat, 31 Oct 2026.
 
 KE-YEN is a garage and trance artist based in Australia, with 22 gigs on soundcheck across Bali, Bangkok, Barcelona and Berlin and 11 more. Often billed alongside Maruwa, Benga and LAMMER. Next up: Manning Bar, Sydney on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ KE-YEN is a garage and trance artist based in Australia, with 22 gigs on soundch
 
 Maruwa, Benga, LAMMER
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ke-yen/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ke-yen/)*

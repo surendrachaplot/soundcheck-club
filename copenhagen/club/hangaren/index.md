@@ -1,8 +1,8 @@
 # Hangaren
 
-Hangaren is a music venue in Copenhagen with 13 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Konfusia, AELVA K, Eusherr" on Fri, 16 Oct 2026.
+Hangaren is a music venue in Copenhagen with 14 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Konfusia, AELVA K, Eusherr" on Fri, 16 Oct 2026.
 
-Hangaren is a music venue in Copenhagen listed on soundcheck. 13 upcoming gigs, with line-ups including AELVA K, Anna Logic, Baime and B From E and 2 more. See dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
+Hangaren is a music venue in Copenhagen listed on soundcheck. 14 upcoming gigs, with line-ups including AELVA K, Anna Logic, Baime and B From E and 2 more. See dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 13 upcoming gigs, 
 
 Refshalevej 185, 1432 København, Denmark, Copenhagen
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*

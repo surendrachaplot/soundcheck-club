@@ -1,6 +1,6 @@
 # DJ STRAIGHT GIRL
 
-DJ STRAIGHT GIRL is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at frachtkante, Berlin on Sat, 17 Oct 2026.
+DJ STRAIGHT GIRL is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at frachtkante, Berlin on Sat, 17 Oct 2026.
 
 DJ STRAIGHT GIRL is a bass and techno artist based in Canada, with 37 gigs on soundcheck across Berlin and Vancouver. Often billed alongside JCow, Otto Vlotto and Pleasure Politics. Next up: frachtkante, Berlin on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ DJ STRAIGHT GIRL is a bass and techno artist based in Canada, with 37 gigs on so
 
 JCow, Otto Vlotto, Pleasure Politics
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djstraightgirl/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djstraightgirl/)*

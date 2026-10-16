@@ -1,6 +1,6 @@
 # Splendore
 
-Splendore is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Tokyo on Sun, 18 Oct 2026.
+Splendore is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Tokyo on Sun, 18 Oct 2026.
 
 Splendore is an experimental and ambient artist, with 9 gigs on soundcheck across Milan, Rome and Tokyo. Often billed alongside fivequestionmarks, DJ Python and Istanbul Ghetto Club. Next up: TBA, Tokyo on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Splendore is an experimental and ambient artist, with 9 gigs on soundcheck acros
 
 fivequestionmarks, DJ Python, Istanbul Ghetto Club
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/splendore/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/splendore/)*

@@ -1,14 +1,13 @@
 # Gallery
 
-Gallery is a music venue in London with 15 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Paradox Nexus: Tommy Gold - Thursdays at Gallery " on Thu, 15 Oct 2026.
+Gallery is a music venue in London with 15 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Nightly x DOVnROBS (Gallery Club London)" on Fri, 16 Oct 2026.
 
-Gallery is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Ale Grooves, AOB, Batuka and Bhaskar and 2 more. See dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
+Gallery is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Ale Grooves, Batuka, Bhaskar and DOVnROBS and 2 more. See dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Paradox Nexus: Tommy Gold - Thursdays at Gallery  | AOB, Cris Cioata, Rocco Han, Tommy Gold |
 | Fri, 16 Oct 2026 | Nightly x DOVnROBS (Gallery Club London) | DOVnROBS |
 | Thu, 22 Oct 2026 | Paradox Nexus: EVIE  - Thursdays at Gallery | EVIE UK, Giacomo-XL, VITTO |
 | Sat, 24 Oct 2026 | Cosmic Saga vol.6 |  |
@@ -18,9 +17,10 @@ Gallery is a music venue in London listed on soundcheck. 15 upcoming gigs, with 
 | Fri, 30 Oct 2026 | Halloween Organic: Bhaskar | Bhaskar |
 | Fri, 6 Nov 2026 | Gallery X VIRAGE |  |
 | Sat, 7 Nov 2026 | Barbaro: ONE MORE DANCE | Ale Grooves, Nico Ramírez, Ramoss |
+| Fri, 13 Nov 2026 | XPALM PRESENTS (KARTY) |  |
 
 ## Address
 
 2A Kensington High Street, London, W8 4PT, London
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*

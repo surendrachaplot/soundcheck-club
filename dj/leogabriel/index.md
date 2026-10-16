@@ -1,6 +1,6 @@
 # Leo Gabriel
 
-Leo Gabriel is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at The Room, Tokyo on Sat, 17 Oct 2026.
+Leo Gabriel is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Room, Tokyo on Sat, 17 Oct 2026.
 
 Leo Gabriel is a house and jazz artist based in Japan, with 202 gigs on soundcheck across Osaka and Tokyo. Often billed alongside RIHO ASAEDA, Hayato Iwaki and JINI. Next up: The Room, Tokyo on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Leo Gabriel is a house and jazz artist based in Japan, with 202 gigs on soundche
 
 RIHO ASAEDA, Hayato Iwaki, JINI
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leogabriel/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leogabriel/)*

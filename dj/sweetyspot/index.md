@@ -1,6 +1,6 @@
 # Sweetyspot
 
-Sweetyspot is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Sekta Selekta, Krakow on Fri, 16 Oct 2026.
+Sweetyspot is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Sekta Selekta, Krakow on Fri, 16 Oct 2026.
 
 Sweetyspot is an electro and tech house artist, with 13 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Nadezh No, zeroday and Badalian. Next up: Sekta Selekta, Krakow on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Sweetyspot is an electro and tech house artist, with 13 gigs on soundcheck acros
 
 Nadezh No, zeroday, Badalian
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetyspot/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetyspot/)*

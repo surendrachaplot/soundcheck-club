@@ -1,6 +1,6 @@
 # Mental Limit
 
-Mental Limit is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Marmorbar, Berlin on Sat, 24 Oct 2026.
+Mental Limit is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Marmorbar, Berlin on Sat, 24 Oct 2026.
 
 Mental Limit is a techno and house artist, with 12 gigs on soundcheck across Berlin, Madrid, Paris and Tbilisi. Often billed alongside Comethisfar, Ketato M and Ponygirl. Next up: Marmorbar, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Mental Limit is a techno and house artist, with 12 gigs on soundcheck across Ber
 
 Comethisfar, Ketato M, Ponygirl
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mentallimit/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mentallimit/)*

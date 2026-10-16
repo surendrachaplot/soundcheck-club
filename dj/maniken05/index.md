@@ -1,6 +1,6 @@
 # maniken05
 
-maniken05 is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Poseidons, Riga on Fri, 16 Oct 2026.
+maniken05 is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Poseidons, Riga on Fri, 16 Oct 2026.
 
 maniken05 is a hardcore and techno artist based in Latvia, with 86 gigs on soundcheck across Amsterdam, Berlin, Ghent and London and 6 more. Often billed alongside hitomori, porfod and PERCOSET. Next up: Poseidons, Riga on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ maniken05 is a hardcore and techno artist based in Latvia, with 86 gigs on sound
 
 hitomori, porfod, PERCOSET
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maniken05/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maniken05/)*

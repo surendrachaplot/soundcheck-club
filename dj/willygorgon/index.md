@@ -1,6 +1,6 @@
 # Willy Gorgon
 
-Willy Gorgon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Green Room NYC, New-york-city on Sat, 17 Oct 2026.
+Willy Gorgon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Green Room NYC, New-york-city on Sat, 17 Oct 2026.
 
 Willy Gorgon is a house and techno artist based in United States of America, with 15 gigs on soundcheck across New York City. Often billed alongside shanty mane, Jeny Michelle and EREZ.JPG. Next up: Green Room NYC, New York City on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Willy Gorgon is a house and techno artist based in United States of America, wit
 
 shanty mane, Jeny Michelle, EREZ.JPG
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willygorgon/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willygorgon/)*

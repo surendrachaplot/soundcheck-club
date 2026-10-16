@@ -1,6 +1,6 @@
 # TAUSEND2Ø
 
-TAUSEND2Ø is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at PRST, Vienna on Sat, 17 Oct 2026.
+TAUSEND2Ø is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at PRST, Vienna on Sat, 17 Oct 2026.
 
 TAUSEND2Ø is a techno and trance artist based in Austria, with 8 gigs on soundcheck across Vienna. Often billed alongside Anna Ullrich, WO.IZZY and MARØ. Next up: PRST, Vienna on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ TAUSEND2Ø is a techno and trance artist based in Austria, with 8 gigs on soundc
 
 Anna Ullrich, WO.IZZY, MARØ (2)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tausend2o/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tausend2o/)*

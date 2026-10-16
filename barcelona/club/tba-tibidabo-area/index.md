@@ -1,6 +1,6 @@
 # TBA - Tibidabo Area
 
-TBA - Tibidabo Area is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "NIGHTSHIFT at La Experimental" on Sat, 17 Oct 2026.
+TBA - Tibidabo Area is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "[MOVED TO NOVEMBER 7th] NIGHTSHIFT at La Experimental" on Sat, 17 Oct 2026.
 
 TBA - Tibidabo Area is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, with line-ups including Bumpy Jones, Devesa, Sergi (ES) and Suonoteso and 1 more. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ TBA - Tibidabo Area is a music venue in Barcelona listed on soundcheck. 1 upcomi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | NIGHTSHIFT at La Experimental | Bumpy Jones, Devesa, Sergi (ES), Suonoteso, Thomas Kick (2) |
+| Sat, 17 Oct 2026 | [MOVED TO NOVEMBER 7th] NIGHTSHIFT at La Experimental | Bumpy Jones, Devesa, Sergi (ES), Suonoteso, Thomas Kick (2) |
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-tibidabo-area/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-tibidabo-area/)*

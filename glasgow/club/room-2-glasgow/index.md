@@ -1,6 +1,6 @@
 # Room 2 Glasgow
 
-Room 2 Glasgow is a music venue in Glasgow with 11 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "ABRUPT presents NEEK + more" on Fri, 23 Oct 2026.
+Room 2 Glasgow is a music venue in Glasgow with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "ABRUPT presents NEEK + more" on Fri, 23 Oct 2026.
 
 Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 11 upcoming gigs, with line-ups including 6EJOU, Girls of the Internet, Jalo and KIRSTY and 2 more. See dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
 
@@ -23,4 +23,4 @@ Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 11 upcoming gig
 
 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom, Glasgow
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*

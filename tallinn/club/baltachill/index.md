@@ -1,6 +1,6 @@
 # Baltachill
 
-Baltachill is a music venue in Tallinn with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "B.I.A - Balta Integrated Audio" on Fri, 16 Oct 2026.
+Baltachill is a music venue in Tallinn with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "B.I.A - Balta Integrated Audio" on Fri, 16 Oct 2026.
 
 Baltachill is a music venue in Tallinn listed on soundcheck. 1 upcoming gig, with line-ups including Erkin Antov, Renno Paat and Vahtra. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Baltachill is a music venue in Tallinn listed on soundcheck. 1 upcoming gig, wit
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | B.I.A - Balta Integrated Audio | Erkin Antov, Renno Paat, Vahtra |
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/baltachill/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/baltachill/)*

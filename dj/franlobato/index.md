@@ -1,6 +1,6 @@
 # Fran Lobato
 
-Fran Lobato is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Lula Club, Madrid on Fri, 16 Oct 2026.
+Fran Lobato is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Lula Club, Madrid on Fri, 16 Oct 2026.
 
 Fran Lobato is a tech house and house artist based in Spain, with 23 gigs on soundcheck across Madrid and Mexico City. Often billed alongside Ruben Luna, Red Effects and Aaron Martin. Next up: Lula Club, Madrid on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Fran Lobato is a tech house and house artist based in Spain, with 23 gigs on sou
 
 Ruben Luna, Red Effects, Aaron Martin
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franlobato/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franlobato/)*

@@ -1,6 +1,6 @@
 # Mahmut Orhan
 
-Mahmut Orhan is a House and Afro House artist with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Hangar Luke Beograd, Belgrade on Fri, 16 Oct 2026.
+Mahmut Orhan is a House and Afro House artist with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Hangar Luke Beograd, Belgrade on Fri, 16 Oct 2026.
 
 Mahmut Orhan is a house and afro house artist based in Turkey, with 134 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside ARODES, Francis Mercier and Shimza. Next up: Hangar Luke Beograd, Belgrade on Fri 16 Oct.
 
@@ -34,4 +34,4 @@ Mahmut Orhan is a house and afro house artist based in Turkey, with 134 gigs on 
 
 ARODES, Francis Mercier, Shimza
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*

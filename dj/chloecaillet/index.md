@@ -1,8 +1,8 @@
 # Chloé Caillet
 
-Chloé Caillet is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Klaproos, Amsterdam on Thu, 22 Oct 2026.
+Chloé Caillet is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Klaproos, Amsterdam on Thu, 22 Oct 2026.
 
-Chloé Caillet is a house and techno artist based in United States of America, with 243 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 50 more. Often billed alongside Seth Troxler, DJ Tennis and Mochakk. Next up: Klaproos, Amsterdam on Thu 22 Oct.
+Chloé Caillet is a house and techno artist based in United States of America, with 242 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 50 more. Often billed alongside Seth Troxler, DJ Tennis and Mochakk. Next up: Klaproos, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -11,7 +11,6 @@ Chloé Caillet is a house and techno artist based in United States of America, w
 | Thu, 22 Oct 2026 | Klaproos | Amsterdam |
 | Fri, 23 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
-| Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sun, 1 Nov 2026 | Brooklyn Storehouse | New-york-city |
 | Fri, 6 Nov 2026 | Deseo BS AS | Buenos Aires |
 | Sat, 7 Nov 2026 | Armazem Solon | Sao-paulo |
@@ -34,4 +33,4 @@ Chloé Caillet is a house and techno artist based in United States of America, w
 
 Seth Troxler, DJ Tennis, Mochakk
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*

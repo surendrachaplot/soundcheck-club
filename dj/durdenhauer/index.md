@@ -1,8 +1,8 @@
 # DURDENHAUER
 
-DURDENHAUER is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Toronto on Sat, 10 Oct 2026.
+DURDENHAUER is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Toronto on Sat, 10 Oct 2026.
 
-DURDENHAUER is a techno and trance artist based in France, with 74 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 20 more. Often billed alongside Fenrick, Carla Schmitt and DJ GUESTLIST. Next up: TBA, Toronto on Sat 10 Oct.
+DURDENHAUER is a techno and trance artist based in France, with 75 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 20 more. Often billed alongside Fenrick, Kichta and Afem Syko. Next up: TBA, Toronto on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DURDENHAUER is a techno and trance artist based in France, with 74 gigs on sound
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | TBA | Toronto |
 | Wed, 21 Oct 2026 | Yellow House | Amsterdam |
+| Wed, 21 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
 | Fri, 30 Oct 2026 | The Comfort Zone | Toronto |
 | Sat, 7 Nov 2026 | Bootshaus | Cologne |
 | Sat, 14 Nov 2026 | Mia Mao | Paris |
@@ -27,6 +28,6 @@ DURDENHAUER is a techno and trance artist based in France, with 74 gigs on sound
 
 ## Shares bills with
 
-Fenrick, Carla Schmitt, DJ GUESTLIST
+Fenrick, Kichta, Afem Syko
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/durdenhauer/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/durdenhauer/)*

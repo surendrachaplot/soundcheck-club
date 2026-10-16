@@ -1,8 +1,8 @@
 # Egg London
 
-Egg London is a music venue in London with 55 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Egg LDN Pres: Ibiza Closing Party pt. 1" on Fri, 16 Oct 2026.
+Egg London is a music venue in London with 56 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Egg LDN Pres: Ibiza Closing Party pt. 1" on Fri, 16 Oct 2026.
 
-Egg London is a music venue in London listed on soundcheck. 55 upcoming gigs, with line-ups including ACA (YU), AR (UK), B3 and Beezo and 2 more. See dates, start times and who's playing. 5-13 Vale Royal, London, N7 9AP.
+Egg London is a music venue in London listed on soundcheck. 56 upcoming gigs, with line-ups including ACA (YU), AR (UK), B3 and Beezo and 2 more. See dates, start times and who's playing. 5-13 Vale Royal, London, N7 9AP.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Egg London is a music venue in London listed on soundcheck. 55 upcoming gigs, wi
 
 5-13 Vale Royal, London, N7 9AP, London
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/egg-london/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/egg-london/)*

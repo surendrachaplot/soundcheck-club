@@ -1,6 +1,6 @@
 # Flow TNTS
 
-Flow TNTS is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Void Club, Berlin on Sat, 17 Oct 2026.
+Flow TNTS is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Void Club, Berlin on Sat, 17 Oct 2026.
 
 Flow TNTS is a techno and drum & bass artist based in Germany, with 35 gigs on soundcheck across Berlin. Often billed alongside Upzet, Ed Shepherd and Yves Meyer. Next up: Void Club, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Flow TNTS is a techno and drum & bass artist based in Germany, with 35 gigs on s
 
 Upzet, Ed Shepherd, Yves Meyer
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flowtnts/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flowtnts/)*

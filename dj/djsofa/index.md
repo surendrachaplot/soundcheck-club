@@ -1,6 +1,6 @@
 # DJ soFa
 
-DJ soFa is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Sameheads, Berlin on Sat, 31 Oct 2026.
+DJ soFa is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Sameheads, Berlin on Sat, 31 Oct 2026.
 
 DJ soFa is an electronic artist, with 9 gigs on soundcheck across Amsterdam, Berlin, Brussels and New York City. Often billed alongside Boudewijn Ericx, DJ Tracksuit and Devon Rexi. Next up: Sameheads, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ soFa is an electronic artist, with 9 gigs on soundcheck across Amsterdam, Ber
 
 Boudewijn Ericx, DJ Tracksuit, Devon Rexi
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsofa/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsofa/)*

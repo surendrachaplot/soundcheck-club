@@ -1,6 +1,6 @@
 # Teychee
 
-Teychee is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Depo Klub, Zagreb on Sat, 24 Oct 2026.
+Teychee is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Depo Klub, Zagreb on Sat, 24 Oct 2026.
 
 Teychee is a techno and acid artist based in Croatia, with 10 gigs on soundcheck across Amsterdam, Düsseldorf, Ibiza and London and 3 more. Often billed alongside Teo Harouda, Robin Hastings and Aaron Leviz. Next up: Depo Klub, Zagreb on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Teychee is a techno and acid artist based in Croatia, with 10 gigs on soundcheck
 
 Teo Harouda, Robin Hastings, Aaron Leviz
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teychee/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teychee/)*

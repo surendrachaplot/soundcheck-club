@@ -1,6 +1,6 @@
 # Hidden Hall
 
-Hidden Hall is a music venue in Seattle with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "HIGH STEP SOCIETY with Willdabeast" on Thu, 17 Dec 2026.
+Hidden Hall is a music venue in Seattle with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "HIGH STEP SOCIETY with Willdabeast" on Thu, 17 Dec 2026.
 
 Hidden Hall is a music venue in Seattle listed on soundcheck. 4 upcoming gigs, with line-ups including Christine Michelle, Jamie Schwabl, Marques Wyatt and Michael Manahan and 1 more. See dates, start times and who's playing. 400 N 35th Street Seattle, WA 98103.
 
@@ -17,4 +17,4 @@ Hidden Hall is a music venue in Seattle listed on soundcheck. 4 upcoming gigs, w
 
 400 N 35th Street Seattle, WA 98103, Seattle
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/hidden-hall/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/hidden-hall/)*

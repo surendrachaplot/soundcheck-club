@@ -1,6 +1,6 @@
 # Cincity
 
-Cincity is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
+Cincity is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
 
 Cincity is an afro house and house artist based in Netherlands, with 109 gigs on soundcheck across Amsterdam, Azerbaijan, Bangkok and Basel and 13 more. Often billed alongside Philou Louzolo, Benny Rodrigues and Karim Soliman. Next up: NDSM Scheepsbouwloods, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Cincity is an afro house and house artist based in Netherlands, with 109 gigs on
 
 Philou Louzolo, Benny Rodrigues, Karim Soliman
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cincity/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cincity/)*

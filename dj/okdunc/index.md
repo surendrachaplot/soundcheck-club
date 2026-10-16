@@ -1,13 +1,14 @@
 # okDUNC
 
-okDUNC is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Green Room NYC, New York City on Fri, 6 Nov 2026.
+okDUNC is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Green Room NYC, New York City on Sun, 18 Oct 2026.
 
-okDUNC is a house and techno artist based in United States of America, with 34 gigs on soundcheck across New York City. Often billed alongside S A M I, tyben and Manimogo. Next up: Green Room NYC, New York City on Fri 6 Nov.
+okDUNC is a house and techno artist based in United States of America, with 35 gigs on soundcheck across New York City. Often billed alongside tyben, S A M I and Manimogo. Next up: Green Room NYC, New York City on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 18 Oct 2026 | Green Room NYC | New York City |
 | Fri, 6 Nov 2026 | Green Room NYC | New York City |
 
 ## Recently played
@@ -23,6 +24,6 @@ okDUNC is a house and techno artist based in United States of America, with 34 g
 
 ## Shares bills with
 
-S A M I, tyben, Manimogo
+tyben, S A M I, Manimogo
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okdunc/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okdunc/)*

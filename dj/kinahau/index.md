@@ -1,6 +1,6 @@
 # KinAhau
 
-KinAhau is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+KinAhau is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 KinAhau is a house and tech house artist based in Mexico, with 66 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 20 more. Often billed alongside Beltran, ChaseWest and Danyelino. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ KinAhau is a house and tech house artist based in Mexico, with 66 gigs on soundc
 
 Beltran, ChaseWest, Danyelino
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinahau/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinahau/)*

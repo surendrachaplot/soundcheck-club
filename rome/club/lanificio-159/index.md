@@ -1,6 +1,6 @@
 # Lanificio 159
 
-Lanificio 159 is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Anti Santa Club invites Gilda Club" on Sat, 17 Oct 2026.
+Lanificio 159 is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Anti Santa Club invites Gilda Club" on Sat, 17 Oct 2026.
 
 Lanificio 159 is a music venue in Rome listed on soundcheck. 2 upcoming gigs, with line-ups including Ces Garçons, Ciancio, Jason K (IT) and Whitenoise and 1 more. See dates, start times and who's playing. Via di Pietralata 159A, 00158 Roma (RM).
 
@@ -15,4 +15,4 @@ Lanificio 159 is a music venue in Rome listed on soundcheck. 2 upcoming gigs, wi
 
 Via di Pietralata 159A, 00158 Roma (RM), Rome
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/lanificio-159/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/lanificio-159/)*

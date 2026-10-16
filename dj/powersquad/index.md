@@ -1,14 +1,15 @@
 # Power Squad
 
-Power Squad is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
+Power Squad is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
 
-Power Squad is a house and techno artist based in Germany, with 51 gigs on soundcheck across Athens, Berlin, Cologne and Düsseldorf and 5 more. Often billed alongside Dj Norma, Greta Spark and Natalie Robinson. Next up: Kater, Berlin on Fri 30 Oct.
+Power Squad is a house and techno artist based in Germany, with 52 gigs on soundcheck across Athens, Berlin, Cologne and Düsseldorf and 5 more. Often billed alongside Dj Norma, Greta Spark and Natalie Robinson. Next up: Kater, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Kater | Berlin |
+| Sat, 28 Nov 2026 | Atelier Rooftop | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Power Squad is a house and techno artist based in Germany, with 51 gigs on sound
 
 Dj Norma, Greta Spark, Natalie Robinson
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/powersquad/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/powersquad/)*

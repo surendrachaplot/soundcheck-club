@@ -1,14 +1,15 @@
 # Midirama
 
-Midirama is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Fuchs2, Prague on Sat, 24 Oct 2026.
+Midirama is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Fuchs2, Prague on Sat, 24 Oct 2026.
 
-Midirama is a techno and electro artist based in Czech Republic, with 71 gigs on soundcheck across Berlin, Prague and Riga. Often billed alongside Raphael Kosmos, Zuzana Hakl and Dash (CZ). Next up: Fuchs2, Prague on Sat 24 Oct.
+Midirama is a techno and electro artist based in Czech Republic, with 72 gigs on soundcheck across Berlin, Prague and Riga. Often billed alongside Raphael Kosmos, Zuzana Hakl and Dash (CZ). Next up: Fuchs2, Prague on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Fuchs2 | Prague |
+| Fri, 6 Nov 2026 | Fuchs2 | Prague |
 | Sat, 14 Nov 2026 | Ankali & Planeta Za | Prague |
 | Fri, 20 Nov 2026 | Bike Jesus | Prague |
 
@@ -27,4 +28,4 @@ Midirama is a techno and electro artist based in Czech Republic, with 71 gigs on
 
 Raphael Kosmos, Zuzana Hakl, Dash (CZ)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midirama/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midirama/)*

@@ -1,6 +1,6 @@
 # Anaïs
 
-Anaïs is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Steel Yard, London on Fri, 16 Oct 2026.
+Anaïs is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Steel Yard, London on Fri, 16 Oct 2026.
 
 Anaïs is a drum & bass and jungle artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 19 more. Often billed alongside Whiney, Degs and P Money. Next up: The Steel Yard, London on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Anaïs is a drum & bass and jungle artist based in United Kingdom, with 59 gigs 
 
 Whiney, Degs, P Money
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anaïs/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anaïs/)*

@@ -1,6 +1,6 @@
 # Aunty Bev
 
-Aunty Bev is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Whammy Bar, Auckland on Fri, 16 Oct 2026.
+Aunty Bev is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Whammy Bar, Auckland on Fri, 16 Oct 2026.
 
 Aunty Bev is a techno and industrial artist, with 4 gigs on soundcheck across Auckland. Often billed alongside 75 ARROWHEADS, Andwahn and Aunty El. Next up: Whammy Bar, Auckland on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ Aunty Bev is a techno and industrial artist, with 4 gigs on soundcheck across Au
 
 75 ARROWHEADS, Andwahn, Aunty El
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auntybev/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auntybev/)*

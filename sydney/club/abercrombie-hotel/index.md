@@ -1,6 +1,6 @@
 # Abercrombie Hotel
 
-Abercrombie Hotel is a music venue in Sydney with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "TRIBQU pres. Zjoso, Seki, Kenfo & Sekuru" on Fri, 16 Oct 2026.
+Abercrombie Hotel is a music venue in Sydney with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "TRIBQU pres. Zjoso, Seki, Kenfo & Sekuru" on Fri, 16 Oct 2026.
 
 Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 8 upcoming gigs, with line-ups including Arkywaters, Baby G, BASHKKA and Cedar and 2 more. See dates, start times and who's playing. 100 Broadway; Ultimo, NSW 2007; Australia.
 
@@ -21,4 +21,4 @@ Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 8 upcoming gi
 
 100 Broadway; Ultimo, NSW 2007; Australia, Sydney
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/abercrombie-hotel/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/abercrombie-hotel/)*

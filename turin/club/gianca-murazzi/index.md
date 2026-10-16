@@ -1,6 +1,6 @@
 # Gianca - Murazzi
 
-Gianca - Murazzi is a music venue in Turin with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Gianca&Fiends" on Fri, 16 Oct 2026.
+Gianca - Murazzi is a music venue in Turin with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Gianca&Fiends" on Fri, 16 Oct 2026.
 
 Gianca - Murazzi is a music venue in Turin listed on soundcheck. 3 upcoming gigs, with line-ups including Angelo Ferreri and Jelena. See dates, start times and who's playing. Torino, 10123, Murazzi del Po Gipo Farassino.
 
@@ -16,4 +16,4 @@ Gianca - Murazzi is a music venue in Turin listed on soundcheck. 3 upcoming gigs
 
 Torino, 10123, Murazzi del Po Gipo Farassino, Turin
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/gianca-murazzi/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/gianca-murazzi/)*

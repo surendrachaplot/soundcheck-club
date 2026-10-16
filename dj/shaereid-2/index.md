@@ -1,6 +1,6 @@
 # SHAE REID (2)
 
-SHAE REID (2) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Ministry Of Sound, London on Sat, 31 Oct 2026.
+SHAE REID (2) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Ministry Of Sound, London on Sat, 31 Oct 2026.
 
 SHAE REID is a tech house and house artist based in United Kingdom, with 13 gigs on soundcheck across Ibiza, London and Malaga. Often billed alongside Djammin, The Menendez Brothers and Meeshy. Next up: Ministry Of Sound, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ SHAE REID is a tech house and house artist based in United Kingdom, with 13 gigs
 
 Djammin, The Menendez Brothers, Meeshy
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaereid-2/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaereid-2/)*

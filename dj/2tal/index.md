@@ -1,6 +1,6 @@
 # 2TAL
 
-2TAL is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - SISLI HALASKARGAZI STREET, Istanbul on Sat, 17 Oct 2026.
+2TAL is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - SISLI HALASKARGAZI STREET, Istanbul on Sat, 17 Oct 2026.
 
 2TAL is a techno and industrial artist, with 13 gigs on soundcheck across Istanbul. Often billed alongside Epifanix, Inf3ris and ADZE. Next up: TBA - SISLI HALASKARGAZI STREET, Istanbul on Sat 17 Oct.
 
@@ -25,4 +25,4 @@
 
 Epifanix, Inf3ris, ADZE
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2tal/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2tal/)*

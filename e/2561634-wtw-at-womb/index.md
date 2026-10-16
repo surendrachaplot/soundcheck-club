@@ -1,6 +1,6 @@
 # WTW at WOMB
 
-WTW at WOMB on Wed 4 Nov, Tokyo. 1 artist: ISPA. House and Tech House. See the line-up on soundcheck.
+WTW at WOMB on Wed 4 Nov, Tokyo. 2 artists: HERO (JPN) and ISPA. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ WTW at WOMB on Wed 4 Nov, Tokyo. 1 artist: ISPA. House and Tech House. See the l
 
 ## Line-up
 
+- HERO (JPN)
 - ISPA
 
 *Source: [soundcheck](https://soundcheck.club/e/2561634-wtw-at-womb/)*

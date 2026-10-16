@@ -1,6 +1,6 @@
 # Takashi Mori
 
-Takashi Mori is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Kagurane, Tokyo on Fri, 16 Oct 2026.
+Takashi Mori is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Kagurane, Tokyo on Fri, 16 Oct 2026.
 
 Takashi Mori is a techno and experimental artist based in Japan, with 23 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside ACID NAGATA, Arao and MMORITA. Next up: Kagurane, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Takashi Mori is a techno and experimental artist based in Japan, with 23 gigs on
 
 ACID NAGATA, Arao, MMORITA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takashimori/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takashimori/)*

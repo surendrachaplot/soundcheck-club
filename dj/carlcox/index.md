@@ -1,14 +1,13 @@
 # Carl Cox
 
-Carl Cox is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Selina's, Sydney on Thu, 15 Oct 2026.
+Carl Cox is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Selina's, Sydney on Fri, 16 Oct 2026.
 
-Carl Cox is a techno and house artist based in United Kingdom, with 141 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 47 more. Often billed alongside Melon Bomb, Chelina Manuhutu and Christopher Coe. Next up: Selina's, Sydney on Thu 15 Oct.
+Carl Cox is a techno and house artist based in United Kingdom, with 141 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 47 more. Often billed alongside Melon Bomb, Chelina Manuhutu and Christopher Coe. Next up: Selina's, Sydney on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Selina's | Sydney |
 | Fri, 16 Oct 2026 | Selina's | Sydney |
 | Fri, 30 Oct 2026 | TBA - Lurin live | Peru |
 | Sat, 31 Oct 2026 | Parque Norte | Medellin |
@@ -23,6 +22,7 @@ Carl Cox is a techno and house artist based in United Kingdom, with 141 gigs on 
 
 ## Recently played
 
+- Selina's, Sydney · Thu, 15 Oct 2026
 - CÉ LA VI, Singapore · Sun, 11 Oct 2026
 - [UNVRS], Ibiza · Sun, 4 Oct 2026
 - [UNVRS], Ibiza · Sun, 27 Sept 2026
@@ -30,10 +30,9 @@ Carl Cox is a techno and house artist based in United Kingdom, with 141 gigs on 
 - Carroponte, Milan · Sat, 19 Sept 2026
 - [UNVRS], Ibiza · Sun, 13 Sept 2026
 - [UNVRS], Ibiza · Sun, 6 Sept 2026
-- Parque Papa Francisco - Bobadela , Loures, Lisbon · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Melon Bomb, Chelina Manuhutu, Christopher Coe
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcox/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcox/)*

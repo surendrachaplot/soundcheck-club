@@ -1,8 +1,8 @@
 # The Ulster Sports Club
 
-The Ulster Sports Club is a music venue in Belfast with 12 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "TWISTD presents: Niall Kelly" on Fri, 16 Oct 2026.
+The Ulster Sports Club is a music venue in Belfast with 13 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "TWISTD presents: Niall Kelly" on Fri, 16 Oct 2026.
 
-The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 12 upcoming gigs, with line-ups including ByPhil, Cáit, Chris Flannigan and Conor Schmtz and 2 more. See dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
+The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 13 upcoming gigs, with line-ups including ByPhil, Cáit, Chris Flannigan and Conor Schmtz and 2 more. See dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
 
 ## What's on
 
@@ -17,10 +17,10 @@ The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 12 upco
 | Sat, 31 Oct 2026 | USC presents - Halloween Night | Conor Schmtz, Marion Hawkes, Mount Kimbie |
 | Sat, 31 Oct 2026 | head above water presents // Witching Hour | ByPhil, Cooke, Jude Dude |
 | Fri, 6 Nov 2026 | Coda Residents Party |  |
-| Sat, 14 Nov 2026 | The Hammer Hits | Cáit, Hammer |
+| Sat, 7 Nov 2026 | The Mushroom X Féline | Conor Schmtz |
 
 ## Address
 
 The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom, Belfast
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*

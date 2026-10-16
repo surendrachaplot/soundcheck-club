@@ -1,14 +1,13 @@
 # Arcana
 
-Arcana is a music venue in San Francisco/Oakland with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Shakoor Hakeem Live Band" on Thu, 15 Oct 2026.
+Arcana is a music venue in San Francisco/Oakland with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "ROOM 4 IMPROVEMENT: Mesmé + Archie Sullivan b2b Phil Spank" on Sat, 17 Oct 2026.
 
-Arcana is a music venue in San Francisco/Oakland listed on soundcheck. 7 upcoming gigs, with line-ups including Adra, Femme Jatale, Louie El Ser and Mesmé and 2 more. See dates, start times and who's playing. 2512 Mission St, San Francisco.
+Arcana is a music venue in San Francisco/Oakland listed on soundcheck. 6 upcoming gigs, with line-ups including Adra, Femme Jatale, Louie El Ser and Mesmé and 2 more. See dates, start times and who's playing. 2512 Mission St, San Francisco.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Shakoor Hakeem Live Band |  |
 | Sat, 17 Oct 2026 | ROOM 4 IMPROVEMENT: Mesmé + Archie Sullivan b2b Phil Spank | Mesmé, Phil Spank |
 | Thu, 22 Oct 2026 | Rabiah Trio Live Band |  |
 | Sat, 24 Oct 2026 | Arcana 5 YR ANNIVERSARY: DANIEL HERWITT ART EXHIBITION AFTER PARTY + MIKE BEE |  |
@@ -20,4 +19,4 @@ Arcana is a music venue in San Francisco/Oakland listed on soundcheck. 7 upcomin
 
 2512 Mission St, San Francisco, San Francisco/Oakland
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/arcana/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/arcana/)*

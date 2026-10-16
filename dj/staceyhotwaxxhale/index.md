@@ -1,6 +1,6 @@
 # Stacey Hotwaxx Hale
 
-Stacey Hotwaxx Hale is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 24 Oct 2026.
+Stacey Hotwaxx Hale is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 24 Oct 2026.
 
 Stacey Hotwaxx Hale is a house and techno artist based in United States of America, with 147 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Rimarkable, Darryl G and Ashton Swinton. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Stacey Hotwaxx Hale is a house and techno artist based in United States of Ameri
 
 Rimarkable, Darryl G, Ashton Swinton
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/staceyhotwaxxhale/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/staceyhotwaxxhale/)*

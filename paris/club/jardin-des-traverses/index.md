@@ -1,6 +1,6 @@
 # Jardin des Traverses
 
-Jardin des Traverses is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "Closing • Jardin des Traverses" on Sat, 17 Oct 2026.
+Jardin des Traverses is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "Closing • Jardin des Traverses" on Sat, 17 Oct 2026.
 
 Jardin des Traverses is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including carin kelly and Jacky Jeane. See dates, start times and who's playing. Bd Ney, face à la station de Tram Diane Arbus.
 
@@ -14,4 +14,4 @@ Jardin des Traverses is a music venue in Paris listed on soundcheck. 1 upcoming 
 
 Bd Ney, face à la station de Tram Diane Arbus, Paris
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/jardin-des-traverses/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/jardin-des-traverses/)*

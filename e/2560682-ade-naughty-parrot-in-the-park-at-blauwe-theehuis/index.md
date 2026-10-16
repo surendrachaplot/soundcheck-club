@@ -1,6 +1,6 @@
 # ADE: Naughty Parrot in the Park at Blauwe Theehuis
 
-ADE: Naughty Parrot in the Park at Blauwe Theehuis on Fri 23 Oct, Amsterdam. 4 artists: Adam Romo, MEERA (UK), RIJ. and STYLI. House and UK Funky. See the line-up on soundcheck.
+ADE: Naughty Parrot in the Park at Blauwe Theehuis on Fri 23 Oct, Amsterdam. 6 artists: Adam Romo, Charlie Delta, MEERA (UK) and RIJ. and 2 more. House and UK Funky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,10 @@ ADE: Naughty Parrot in the Park at Blauwe Theehuis on Fri 23 Oct, Amsterdam. 4 a
 ## Line-up
 
 - Adam Romo
+- Charlie Delta
 - MEERA (UK)
 - RIJ.
+- Ross Whisper
 - STYLI
 
 *Source: [soundcheck](https://soundcheck.club/e/2560682-ade-naughty-parrot-in-the-park-at-blauwe-theehuis/)*

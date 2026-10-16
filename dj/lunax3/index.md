@@ -1,6 +1,6 @@
 # LUNAx3
 
-LUNAx3 is a Gabber and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Suki10c, Birmingham on Fri, 23 Oct 2026.
+LUNAx3 is a Gabber and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Suki10c, Birmingham on Fri, 23 Oct 2026.
 
 LUNAx3 is a gabber and hardcore artist based in United Kingdom, with 22 gigs on soundcheck across Birmingham, Brighton, Leeds and London and 5 more. Often billed alongside RUBY RAWR, beansclub and Purity Filter. Next up: Suki10c, Birmingham on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ LUNAx3 is a gabber and hardcore artist based in United Kingdom, with 22 gigs on 
 
 RUBY RAWR, beansclub, Purity Filter
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lunax3/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lunax3/)*

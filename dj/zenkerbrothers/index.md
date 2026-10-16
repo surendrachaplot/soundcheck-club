@@ -1,8 +1,8 @@
 # Zenker Brothers
 
-Zenker Brothers is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Printhouse, Munich on Sat, 17 Oct 2026.
+Zenker Brothers is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Printhouse, Munich on Sat, 17 Oct 2026.
 
-Zenker Brothers is a techno and house artist based in Germany, with 153 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 42 more. Often billed alongside Stenny, Skee Mask and re:ni. Next up: Printhouse, Munich on Sat 17 Oct.
+Zenker Brothers is a techno and house artist based in Germany, with 154 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 43 more. Often billed alongside Stenny, Skee Mask and re:ni. Next up: Printhouse, Munich on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Zenker Brothers is a techno and house artist based in Germany, with 153 gigs on 
 | Fri, 23 Oct 2026 | ingang | Amsterdam |
 | Sat, 24 Oct 2026 | Gewölbe | Cologne |
 | Sat, 31 Oct 2026 | The Cause | London |
+| Fri, 2 Jul 2027 | TBA - Veta Festival, Barruelo de Santullán | North |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Zenker Brothers is a techno and house artist based in Germany, with 153 gigs on 
 
 Stenny, Skee Mask, re:ni
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zenkerbrothers/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zenkerbrothers/)*

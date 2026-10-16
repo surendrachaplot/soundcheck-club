@@ -1,6 +1,6 @@
 # LIBIDOH █ at ROSA
 
-LIBIDOH █ at ROSA on Sat 14 Nov, Berlin. 6 artists: AISHA, Amo (IT), An Chen and BOOTHBUNNY and 2 more. Trance and Techno. See the line-up on soundcheck.
+LIBIDOH █ at ROSA on Sat 14 Nov, Berlin. 8 artists: AISHA, Amo (IT), An Chen and BOOTHBUNNY and 4 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,8 @@ LIBIDOH █ at ROSA on Sat 14 Nov, Berlin. 6 artists: AISHA, Amo (IT), An Chen a
 - Amo (IT)
 - An Chen
 - BOOTHBUNNY
+- DJ Rakita
+- Eric Brwn
 - Samantha Togni
 - Sekt auf Eis
 

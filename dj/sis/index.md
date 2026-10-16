@@ -1,6 +1,6 @@
 # SIS
 
-SIS is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Supperclub Cruise, Amsterdam on Sat, 24 Oct 2026.
+SIS is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Supperclub Cruise, Amsterdam on Sat, 24 Oct 2026.
 
 SIS is a house and deep house artist, with 24 gigs on soundcheck across Amsterdam, Barcelona, Frankfurt and Ibiza and 10 more. Often billed alongside Ben Arsenal, Black Velveteen and Christine Michelle. Next up: Supperclub Cruise, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ SIS is a house and deep house artist, with 24 gigs on soundcheck across Amsterda
 
 Ben Arsenal, Black Velveteen, Christine Michelle
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sis/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sis/)*

@@ -1,6 +1,6 @@
 # Skarn
 
-Skarn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at MODULE, Copenhagen on Sat, 17 Oct 2026.
+Skarn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at MODULE, Copenhagen on Sat, 17 Oct 2026.
 
 Skarn is a techno and house artist based in Denmark, with 39 gigs on soundcheck across Copenhagen. Often billed alongside Aja Gulris, CERJ and Azpecialguest. Next up: MODULE, Copenhagen on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Skarn is a techno and house artist based in Denmark, with 39 gigs on soundcheck 
 
 Aja Gulris, CERJ, Azpecialguest
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skarn/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skarn/)*

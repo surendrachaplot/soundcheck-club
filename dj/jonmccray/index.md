@@ -1,6 +1,6 @@
 # Jon McCray
 
-Jon McCray is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Wicker Park, Chicago on Sat, 24 Oct 2026.
+Jon McCray is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Wicker Park, Chicago on Sat, 24 Oct 2026.
 
 Jon McCray is a techno and club artist based in United States of America, with 43 gigs on soundcheck across Chicago and New York City. Often billed alongside R°sha, Vyper and Flores Negras. Next up: Wicker Park, Chicago on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Jon McCray is a techno and club artist based in United States of America, with 4
 
 R°sha, Vyper, Flores Negras
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonmccray/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonmccray/)*

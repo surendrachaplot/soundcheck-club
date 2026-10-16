@@ -1,6 +1,6 @@
 # Baloo (SA)
 
-Baloo (SA) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Hoppetosse, Berlin on Sat, 24 Oct 2026.
+Baloo (SA) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Hoppetosse, Berlin on Sat, 24 Oct 2026.
 
 Baloo (SA) is a house and minimal artist, with 14 gigs on soundcheck across Amsterdam, Berlin, Ibiza and New York City and 3 more. Often billed alongside Carlo, Agha and Andrey Pushkarev. Next up: Hoppetosse, Berlin on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Baloo (SA) is a house and minimal artist, with 14 gigs on soundcheck across Amst
 
 Carlo, Agha, Andrey Pushkarev
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baloosa/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baloosa/)*

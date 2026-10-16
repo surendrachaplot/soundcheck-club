@@ -1,6 +1,6 @@
 # David Hornung
 
-David Hornung is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Dings, Munich on Sat, 24 Oct 2026.
+David Hornung is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Dings, Munich on Sat, 24 Oct 2026.
 
 David Hornung is a house and techno artist based in Germany, with 49 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Ghent and 10 more. Often billed alongside Javier Gallardo, Jôka and Buzé. Next up: Dings, Munich on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ David Hornung is a house and techno artist based in Germany, with 49 gigs on sou
 
 Javier Gallardo, Jôka, Buzé
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidhornung/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidhornung/)*

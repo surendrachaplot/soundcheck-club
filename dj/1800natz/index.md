@@ -1,6 +1,6 @@
 # 1-800 NATZ
 
-1-800 NATZ is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Hilo, Toronto on Sun, 18 Oct 2026.
+1-800 NATZ is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Hilo, Toronto on Sun, 18 Oct 2026.
 
 1-800 NATZ is a club and electro artist, with 10 gigs on soundcheck across Paris and Toronto. Often billed alongside Teo Nio, sopretty and Nino Brown. Next up: Hilo, Toronto on Sun 18 Oct.
 
@@ -25,4 +25,4 @@
 
 Teo Nio, sopretty, Nino Brown (2)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1800natz/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1800natz/)*

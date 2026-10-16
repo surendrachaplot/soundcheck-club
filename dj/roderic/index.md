@@ -1,6 +1,6 @@
 # Roderic
 
-Roderic is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA -  Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri, 16 Oct 2026.
+Roderic is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA -  Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri, 16 Oct 2026.
 
 Roderic is a house and deep house artist based in Austria, with 12 gigs on soundcheck across Berlin, Ibiza, Lisbon and Mexico City and 2 more. Often billed alongside GOLDEN PINEAPPLE, Metrika and ACID FLORA. Next up: TBA -  Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Roderic is a house and deep house artist based in Austria, with 12 gigs on sound
 
 GOLDEN PINEAPPLE, Metrika, ACID FLORA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roderic/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roderic/)*

@@ -1,6 +1,6 @@
 # pink.wav
 
-pink.wav is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Patision65, Athens on Fri, 16 Oct 2026.
+pink.wav is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Patision65, Athens on Fri, 16 Oct 2026.
 
 pink.wav is a bass and techno artist based in Greece, with 48 gigs on soundcheck across Athens, Brussels and Prague. Often billed alongside Andreas Palmer, Poor J’Darr and A. Square. Next up: Patision65, Athens on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ pink.wav is a bass and techno artist based in Greece, with 48 gigs on soundcheck
 
 Andreas Palmer, Poor J’Darr, A. Square
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pink.wav/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pink.wav/)*

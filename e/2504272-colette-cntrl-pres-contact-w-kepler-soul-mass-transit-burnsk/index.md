@@ -1,11 +1,11 @@
-# Colette + CNTRL pres Contact W/Kepler, Soul Mass Transit, Burnski, Boss Priester + more at 11 Bromley Street
+# Colette + CNTRL pres Contact W/Kepler, Soul Mass Transit, Burnski, Boss Priester + more at Gaswrx Birmingham
 
-Colette + CNTRL pres Contact W/Kepler, Soul Mass Transit, Burnski, Boss Priester + more at 11 Bromley Street on Sat 17 Oct, Birmingham. 7 artists: Boss Priester, Burnski, Faraz (UK) and Julian Anthony and 3 more. House and Garage. See the line-up on soundcheck.
+Colette + CNTRL pres Contact W/Kepler, Soul Mass Transit, Burnski, Boss Priester + more at Gaswrx Birmingham on Sat 17 Oct, Birmingham. 7 artists: Boss Priester, Burnski, Faraz (UK) and Julian Anthony and 3 more. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 17 Oct 2026 |
-| Venue | 11 Bromley Street |
+| Venue | Gaswrx Birmingham |
 | City | Birmingham |
 
 ## Line-up

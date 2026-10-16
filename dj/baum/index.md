@@ -1,6 +1,6 @@
 # Baum
 
-Baum is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Luz De Gas, Barcelona on Fri, 16 Oct 2026.
+Baum is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Luz De Gas, Barcelona on Fri, 16 Oct 2026.
 
 Baum is a house and tech house artist based in Spain, with 25 gigs on soundcheck across Barcelona, Berlin, Brussels and Ibiza and 3 more. Often billed alongside Bastian Bux, Andres Campo and De La Swing. Next up: Luz De Gas, Barcelona on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Baum is a house and tech house artist based in Spain, with 25 gigs on soundcheck
 
 Bastian Bux, Andres Campo, De La Swing
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baum/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baum/)*

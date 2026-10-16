@@ -1,6 +1,6 @@
 # Sanktuarium
 
-Sanktuarium is a music venue in Krakow with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "Sanktuarium halloween - bestia" on Sat, 31 Oct 2026.
+Sanktuarium is a music venue in Krakow with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "Sanktuarium halloween - bestia" on Sat, 31 Oct 2026.
 
 Sanktuarium is a music venue in Krakow listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Sanktuarium is a music venue in Krakow listed on soundcheck. 1 upcoming gig. See
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Sanktuarium halloween - bestia |  |
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/sanktuarium/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/sanktuarium/)*

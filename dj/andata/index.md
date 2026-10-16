@@ -1,6 +1,6 @@
 # ANDATA
 
-ANDATA is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at E-Werk Kulturzentrum, Nürnberg on Sat, 17 Oct 2026.
+ANDATA is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at E-Werk Kulturzentrum, Nürnberg on Sat, 17 Oct 2026.
 
 ANDATA is a techno and trance artist based in Germany, with 99 gigs on soundcheck across Berlin, Budapest, Cologne and Dublin and 12 more. Often billed alongside two girls one mom, Cobb Douglas and HOTBOI2300. Next up: E-Werk Kulturzentrum, Nürnberg on Sat 17 Oct.
 
@@ -31,4 +31,4 @@ ANDATA is a techno and trance artist based in Germany, with 99 gigs on soundchec
 
 two girls one mom, Cobb Douglas, HOTBOI2300
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andata/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andata/)*

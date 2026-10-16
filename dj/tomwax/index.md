@@ -1,6 +1,6 @@
 # Tom Wax
 
-Tom Wax is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 9 Jan 2027.
+Tom Wax is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 9 Jan 2027.
 
 Tom Wax is a techno and acid artist, with 10 gigs on soundcheck across Amsterdam, Berlin and Vienna. Often billed alongside Alexander Koning, Lucien Foort and Erick E. Next up: Thuishaven, Amsterdam on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ Tom Wax is a techno and acid artist, with 10 gigs on soundcheck across Amsterdam
 
 Alexander Koning, Lucien Foort, Erick E
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomwax/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomwax/)*

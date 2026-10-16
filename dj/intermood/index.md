@@ -1,14 +1,15 @@
 # Intermood
 
-Intermood is a House and Jazz artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+Intermood is a House and Jazz artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
-Intermood is a house and jazz artist, with 13 gigs on soundcheck across Melbourne and Victoria. Often billed alongside DJ Possum, Moopie and Drifting Clouds. Next up: TBA, Victoria on Fri 6 Nov.
+Intermood is a house and jazz artist, with 14 gigs on soundcheck across Melbourne and Victoria. Often billed alongside Moopie, DJ Possum and Drifting Clouds. Next up: TBA, Victoria on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | TBA | Victoria |
+| Fri, 20 Nov 2026 | TBA | Melbourne |
 | Thu, 31 Dec 2026 | Collingwood Children's Farm | Melbourne |
 
 ## Recently played
@@ -24,6 +25,6 @@ Intermood is a house and jazz artist, with 13 gigs on soundcheck across Melbourn
 
 ## Shares bills with
 
-DJ Possum, Moopie, Drifting Clouds
+Moopie, DJ Possum, Drifting Clouds
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/intermood/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/intermood/)*

@@ -1,6 +1,6 @@
 # Tiefundton
 
-Tiefundton is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Gaswerk Augsburg, Augsburg on Fri, 30 Oct 2026.
+Tiefundton is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Gaswerk Augsburg, Augsburg on Fri, 30 Oct 2026.
 
 Tiefundton is a techno and house artist based in Germany, with 33 gigs on soundcheck across Augsburg, Berlin, Cologne and Dresden and 4 more. Often billed alongside TAKTSTÖRER, Thomas Lizzara and A.N.I.. Next up: Gaswerk Augsburg, Augsburg on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ Tiefundton is a techno and house artist based in Germany, with 33 gigs on soundc
 
 TAKTSTÖRER, Thomas Lizzara, A.N.I.
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiefundton/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiefundton/)*

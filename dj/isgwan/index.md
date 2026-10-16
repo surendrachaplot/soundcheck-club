@@ -1,8 +1,8 @@
 # IsGwan
 
-IsGwan is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at M.O.T, London on Fri, 16 Oct 2026.
+IsGwan is a Garage and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at M.O.T, London on Fri, 16 Oct 2026.
 
-IsGwan is a garage and house artist based in Australia, with 67 gigs on soundcheck across Amsterdam, Auckland, Bali and Berlin and 20 more. Often billed alongside Osmosis Jones, KJONES and Prizefight. Next up: M.O.T, London on Fri 16 Oct.
+IsGwan is a garage and house artist based in Australia, with 68 gigs on soundcheck across Amsterdam, Auckland, Bali and Berlin and 20 more. Often billed alongside Osmosis Jones, Prizefight and KJONES. Next up: M.O.T, London on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ IsGwan is a garage and house artist based in Australia, with 67 gigs on soundche
 | Sat, 24 Oct 2026 | La Péniche Mécanique | Strasbourg |
 | Fri, 30 Oct 2026 | Beaver Works | Leeds |
 | Sat, 31 Oct 2026 | Secret Warehouse | Manchester |
+| Fri, 20 Nov 2026 | TBA | Melbourne |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 
 ## Recently played
@@ -29,6 +30,6 @@ IsGwan is a garage and house artist based in Australia, with 67 gigs on soundche
 
 ## Shares bills with
 
-Osmosis Jones, KJONES, Prizefight
+Osmosis Jones, Prizefight, KJONES
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isgwan/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isgwan/)*

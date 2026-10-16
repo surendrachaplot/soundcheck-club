@@ -1,6 +1,6 @@
 # Voigtmann
 
-Voigtmann is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Coil, Melbourne on Fri, 16 Oct 2026.
+Voigtmann is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Coil, Melbourne on Fri, 16 Oct 2026.
 
 Voigtmann is a house and tech house artist based in United Kingdom, with 197 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 37 more. Often billed alongside Laidlaw, Julian Anthony and Enzo Siragusa. Next up: Coil, Melbourne on Fri 16 Oct.
 
@@ -34,4 +34,4 @@ Voigtmann is a house and tech house artist based in United Kingdom, with 197 gig
 
 Laidlaw, Julian Anthony, Enzo Siragusa
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voigtmann/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voigtmann/)*

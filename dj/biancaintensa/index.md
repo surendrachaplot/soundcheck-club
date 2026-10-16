@@ -1,6 +1,6 @@
 # Bianca Intensa
 
-Bianca Intensa is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at KC Grad, Belgrade on Fri, 23 Oct 2026.
+Bianca Intensa is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at KC Grad, Belgrade on Fri, 23 Oct 2026.
 
 Bianca Intensa is a bass and club artist based in Serbia, with 23 gigs on soundcheck across Belgrade and Milan. Often billed alongside Feloneezy, ninafterdark and Honey Jazz. Next up: KC Grad, Belgrade on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Bianca Intensa is a bass and club artist based in Serbia, with 23 gigs on soundc
 
 Feloneezy, ninafterdark, Honey Jazz
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biancaintensa/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biancaintensa/)*

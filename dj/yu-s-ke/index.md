@@ -1,6 +1,6 @@
 # YU-S-KE
 
-YU-S-KE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at WOMB, Tokyo on Sat, 17 Oct 2026.
+YU-S-KE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at WOMB, Tokyo on Sat, 17 Oct 2026.
 
 YU-S-KE is a techno and house artist based in Japan, with 63 gigs on soundcheck across Tokyo. Often billed alongside BEPPU, Q'hey and Kulage. Next up: WOMB, Tokyo on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ YU-S-KE is a techno and house artist based in Japan, with 63 gigs on soundcheck 
 
 BEPPU, Q'hey, Kulage
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-s-ke/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-s-ke/)*

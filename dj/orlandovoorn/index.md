@@ -1,6 +1,6 @@
 # Orlando Voorn
 
-Orlando Voorn is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Eden NYC, New York City on Sun, 1 Nov 2026.
+Orlando Voorn is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Eden NYC, New York City on Sun, 1 Nov 2026.
 
 Orlando Voorn is a techno and house artist, with 11 gigs on soundcheck across Amsterdam, Chicago, Detroit and London and 4 more. Often billed alongside Andy Stroble, Duke Shin and Lester Fitzpatrick. Next up: Eden NYC, New York City on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Orlando Voorn is a techno and house artist, with 11 gigs on soundcheck across Am
 
 Andy Stroble, Duke Shin, Lester Fitzpatrick
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orlandovoorn/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orlandovoorn/)*

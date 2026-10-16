@@ -1,6 +1,6 @@
 # Nikki Guild
 
-Nikki Guild is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Voodoo Rooms, Edinburgh on Fri, 16 Oct 2026.
+Nikki Guild is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Voodoo Rooms, Edinburgh on Fri, 16 Oct 2026.
 
 Nikki Guild is a house and techno artist based in United Kingdom, with 17 gigs on soundcheck across Edinburgh. Often billed alongside ona:v, Iona.Violet and Bartek. Next up: The Voodoo Rooms, Edinburgh on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Nikki Guild is a house and techno artist based in United Kingdom, with 17 gigs o
 
 ona:v, Iona.Violet, Bartek
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkiguild/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkiguild/)*

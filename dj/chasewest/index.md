@@ -1,14 +1,13 @@
 # ChaseWest
 
-ChaseWest is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at ZeyZey, Miami on Thu, 15 Oct 2026.
+ChaseWest is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-ChaseWest is a house and tech house artist based in United States of America, with 52 gigs on soundcheck across Austin, Boston, Chicago and Denver and 13 more. Often billed alongside Beltran, KinAhau and Max Dean. Next up: ZeyZey, Miami on Thu 15 Oct.
+ChaseWest is a house and tech house artist based in United States of America, with 52 gigs on soundcheck across Austin, Boston, Chicago and Denver and 13 more. Often billed alongside Beltran, KinAhau and Max Dean. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | ZeyZey | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
@@ -19,6 +18,7 @@ ChaseWest is a house and tech house artist based in United States of America, wi
 
 ## Recently played
 
+- ZeyZey, Miami · Thu, 15 Oct 2026
 - Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
 - 1015 Folsom, San Francisco/Oakland · Fri, 28 Aug 2026
 - Radius, Chicago · Sun, 16 Aug 2026
@@ -26,10 +26,9 @@ ChaseWest is a house and tech house artist based in United States of America, wi
 - Piknic Électronik / Parc Jean Drapeau, Montreal · Sat, 11 Jul 2026
 - KOKO, London · Fri, 26 Jun 2026
 - Los Angeles State Historic Park, Los Angeles · Sun, 31 May 2026
-- RFK Stadium Memorial Stadium, Washington DC · Sat, 30 May 2026
 
 ## Shares bills with
 
 Beltran, KinAhau, Max Dean
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chasewest/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chasewest/)*

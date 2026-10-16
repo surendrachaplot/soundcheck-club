@@ -1,6 +1,6 @@
 # Johannes Drakenberg
 
-Johannes Drakenberg is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Slakthuset, Stockholm on Fri, 6 Nov 2026.
+Johannes Drakenberg is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Slakthuset, Stockholm on Fri, 6 Nov 2026.
 
 Johannes Drakenberg is a house and tech house artist, with 11 gigs on soundcheck across Stockholm. Often billed alongside Antonsson, Surfface and Nassim Mehran. Next up: Slakthuset, Stockholm on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Johannes Drakenberg is a house and tech house artist, with 11 gigs on soundcheck
 
 Antonsson, Surfface, Nassim Mehran
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesdrakenberg/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesdrakenberg/)*

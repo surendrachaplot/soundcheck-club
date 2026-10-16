@@ -1,6 +1,6 @@
 # Fonts
 
-Fonts is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at 88block, Tokyo on Sat, 17 Oct 2026.
+Fonts is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at 88block, Tokyo on Sat, 17 Oct 2026.
 
 Fonts is a drum & bass and bass artist based in United Kingdom, with 29 gigs on soundcheck across London, Osaka and Tokyo. Often billed alongside A to C, Azumai and SAKO. Next up: 88block, Tokyo on Sat 17 Oct.
 
@@ -29,4 +29,4 @@ Fonts is a drum & bass and bass artist based in United Kingdom, with 29 gigs on 
 
 A to C, Azumai, SAKO
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fonts/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fonts/)*

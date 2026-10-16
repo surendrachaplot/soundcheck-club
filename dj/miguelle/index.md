@@ -1,6 +1,6 @@
 # Miguelle
 
-Miguelle is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Amnesia Milano, Milan on Sat, 24 Oct 2026.
+Miguelle is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Amnesia Milano, Milan on Sat, 24 Oct 2026.
 
 Miguelle is a tech house and house artist based in Venezuela, with 116 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 20 more. Often billed alongside TONS, Ben Sterling and Marco Carola. Next up: Amnesia Milano, Milan on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ Miguelle is a tech house and house artist based in Venezuela, with 116 gigs on s
 
 TONS, Ben Sterling, Marco Carola
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelle/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelle/)*

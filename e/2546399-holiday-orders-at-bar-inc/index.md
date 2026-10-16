@@ -1,6 +1,6 @@
 # HOLIDAY ORDERS at BAR Inc
 
-HOLIDAY ORDERS at BAR Inc on Sun 25 Oct, Osaka. 2 artists: Justruud and Ryu. House. See the line-up on soundcheck.
+HOLIDAY ORDERS at BAR Inc on Sun 25 Oct, Osaka. 2 artists: Justruud and Ryu (JP). House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,6 @@ HOLIDAY ORDERS at BAR Inc on Sun 25 Oct, Osaka. 2 artists: Justruud and Ryu. Hou
 ## Line-up
 
 - Justruud
-- Ryu (2)
+- Ryu (JP)
 
 *Source: [soundcheck](https://soundcheck.club/e/2546399-holiday-orders-at-bar-inc/)*

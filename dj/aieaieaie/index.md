@@ -1,6 +1,6 @@
 # AIEAIEAIE
 
-AIEAIEAIE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Le Douze, Geneva on Fri, 23 Oct 2026.
+AIEAIEAIE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Le Douze, Geneva on Fri, 23 Oct 2026.
 
 AIEAIEAIE is a techno and house artist based in Switzerland, with 4 gigs on soundcheck across Geneva. Often billed alongside Rebelo, Djamzer and Ecar. Next up: Le Douze, Geneva on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ AIEAIEAIE is a techno and house artist based in Switzerland, with 4 gigs on soun
 
 Rebelo, Djamzer, Ecar
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aieaieaie/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aieaieaie/)*

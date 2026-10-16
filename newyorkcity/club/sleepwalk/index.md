@@ -1,6 +1,6 @@
 # Sleepwalk
 
-Sleepwalk is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "SlaySistasNYC - LADY LIZ BIRTHDAY" on Sat, 17 Oct 2026.
+Sleepwalk is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "SlaySistasNYC - LADY LIZ BIRTHDAY" on Sat, 17 Oct 2026.
 
 Sleepwalk is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including alter.world, DJ Courtney K, LADYLIZBK and Oscil and 1 more. See dates, start times and who's playing. 251 Bushwick Avenue, Brooklyn, NY, 11211.
 
@@ -17,4 +17,4 @@ Sleepwalk is a music venue in New York City listed on soundcheck. 4 upcoming gig
 
 251 Bushwick Avenue, Brooklyn, NY, 11211, New York City
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sleepwalk/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sleepwalk/)*

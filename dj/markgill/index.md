@@ -1,13 +1,14 @@
 # Mark Gill
 
-Mark Gill is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Renate, Berlin on Fri, 27 Nov 2026.
+Mark Gill is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at OXI, Berlin on Sat, 24 Oct 2026.
 
-Mark Gill is a house and techno artist based in Ireland, with 74 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Budapest and 8 more. Often billed alongside Tania Just, Murrin and Big Leg. Next up: Renate, Berlin on Fri 27 Nov.
+Mark Gill is a house and techno artist based in Ireland, with 75 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Budapest and 8 more. Often billed alongside Murrin, Tania Just and Big Leg. Next up: OXI, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | OXI | Berlin |
 | Fri, 27 Nov 2026 | Renate | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Mark Gill is a house and techno artist based in Ireland, with 74 gigs on soundch
 
 ## Shares bills with
 
-Tania Just, Murrin, Big Leg
+Murrin, Tania Just, Big Leg
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markgill/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markgill/)*

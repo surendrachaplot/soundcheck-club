@@ -1,6 +1,6 @@
 # Palatine Cocktail Bar
 
-Palatine Cocktail Bar is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "Syntagma Street Party by Anti-Sobrr and Missed Call" on Sat, 17 Oct 2026.
+Palatine Cocktail Bar is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "Syntagma Street Party by Anti-Sobrr and Missed Call" on Sat, 17 Oct 2026.
 
 Palatine Cocktail Bar is a music venue in Athens listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Athanasiou Axarlian 2, Athina 105 63, Greece.
 
@@ -14,4 +14,4 @@ Palatine Cocktail Bar is a music venue in Athens listed on soundcheck. 1 upcomin
 
 Athanasiou Axarlian 2, Athina 105 63, Greece, Athens
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/palatine-cocktail-bar/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/palatine-cocktail-bar/)*

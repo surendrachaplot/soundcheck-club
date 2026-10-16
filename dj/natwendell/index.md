@@ -1,14 +1,15 @@
 # Nat Wendell
 
-Nat Wendell is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 14 Nov 2026.
+Nat Wendell is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 14 Nov 2026.
 
-Nat Wendell is a house and techno artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Berlin, Brussels and Buenos Aires and 18 more. Often billed alongside Luca Olivotto, Eva Crystaltips and JAXX TMS. Next up: Tresor / Globus, Berlin on Sat 14 Nov.
+Nat Wendell is a house and techno artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Berlin, Brussels and Buenos Aires and 18 more. Often billed alongside Luca Olivotto, Eva Crystaltips and JAXX TMS. Next up: Tresor / Globus, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Tresor / Globus | Berlin |
+| Sat, 28 Nov 2026 | Atelier Rooftop | Berlin |
 | Sat, 5 Dec 2026 | OXI | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Nat Wendell is a house and techno artist based in United Kingdom, with 84 gigs o
 
 Luca Olivotto, Eva Crystaltips, JAXX TMS
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natwendell/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natwendell/)*

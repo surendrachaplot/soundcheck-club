@@ -1,6 +1,6 @@
 # DJ Seinfeld
 
-DJ Seinfeld is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Cow Palace, San Francisco/Oakland on Fri, 16 Oct 2026.
+DJ Seinfeld is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Cow Palace, San Francisco/Oakland on Fri, 16 Oct 2026.
 
 DJ Seinfeld is a house and techno artist based in Sweden, with 196 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Bali and 51 more. Often billed alongside DJ BORING, Dom Dolla and Sossa. Next up: Cow Palace, San Francisco/Oakland on Fri 16 Oct.
 
@@ -36,4 +36,4 @@ DJ Seinfeld is a house and techno artist based in Sweden, with 196 gigs on sound
 
 DJ BORING, Dom Dolla, Sossa
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djseinfeld/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djseinfeld/)*

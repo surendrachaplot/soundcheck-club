@@ -1,6 +1,6 @@
 # Nebula Estudio
 
-Nebula Estudio is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Dune Park, Buenos Aires on Fri, 23 Oct 2026.
+Nebula Estudio is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Dune Park, Buenos Aires on Fri, 23 Oct 2026.
 
 Nebula Estudio is a house and tech house artist, with 8 gigs on soundcheck across Buenos Aires. Often billed alongside Manu Barcelo, Melania Wonder and Pedro Gariani. Next up: Dune Park, Buenos Aires on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Nebula Estudio is a house and tech house artist, with 8 gigs on soundcheck acros
 
 Manu Barcelo, Melania Wonder, Pedro Gariani
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nebulaestudio/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nebulaestudio/)*

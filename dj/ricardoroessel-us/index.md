@@ -1,6 +1,6 @@
 # Ricardo Roessel
 
-Ricardo Roessel is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Secret Location, Chicago on Fri, 16 Oct 2026.
+Ricardo Roessel is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Secret Location, Chicago on Fri, 16 Oct 2026.
 
 Ricardo Roessel is a house and techno artist based in United States of America, with 75 gigs on soundcheck across Berlin, Boston, Chicago and Copenhagen and 11 more. Often billed alongside Crisco, jayah and Gene Hunt. Next up: TBA - Secret Location, Chicago on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Ricardo Roessel is a house and techno artist based in United States of America, 
 
 Crisco, jayah, Gene Hunt
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardoroessel-us/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardoroessel-us/)*

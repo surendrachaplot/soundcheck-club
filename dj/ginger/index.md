@@ -1,6 +1,6 @@
 # Ginger
 
-Ginger is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at The Motley Warehaus, Melbourne on Sat, 24 Oct 2026.
+Ginger is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Motley Warehaus, Melbourne on Sat, 24 Oct 2026.
 
 Ginger is a techno and house artist based in Mexico, with 17 gigs on soundcheck across Frankfurt, Melbourne, Seoul and Stuttgart. Often billed alongside Zion, Minish and Hyunsung. Next up: The Motley Warehaus, Melbourne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ginger is a techno and house artist based in Mexico, with 17 gigs on soundcheck 
 
 Zion, Minish, Hyunsung
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ginger/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ginger/)*

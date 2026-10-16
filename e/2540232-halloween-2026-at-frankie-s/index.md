@@ -1,11 +1,11 @@
-# HALLOWEEN 2026 at Frankie's
+# HALLOWEEN 2026 at Frankie’s
 
-HALLOWEEN 2026 at Frankie's on Sat 31 Oct, Vancouver. 21 artists: ALOKIN, Bloody Mary, Briser Gonzalez and Bÿständer and 17 more. Techno and House. See the line-up on soundcheck.
+HALLOWEEN 2026 at Frankie’s on Sat 31 Oct, Vancouver. 21 artists: ALOKIN, Bloody Mary, Briser Gonzalez and Bÿständer and 17 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 31 Oct 2026 |
-| Venue | Frankie's |
+| Venue | Frankie’s |
 | City | Vancouver |
 
 ## Line-up

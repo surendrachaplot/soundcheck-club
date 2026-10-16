@@ -1,6 +1,6 @@
 # Ziziphus Jujuba
 
-Ziziphus Jujuba is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Nakano Heavysick Zero, Tokyo on Wed, 21 Oct 2026.
+Ziziphus Jujuba is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Nakano Heavysick Zero, Tokyo on Wed, 21 Oct 2026.
 
 Ziziphus Jujuba is an experimental and bass artist based in Japan, with 21 gigs on soundcheck across Osaka and Tokyo. Often billed alongside mlosims, JACKSON kaki and NTsKi. Next up: Nakano Heavysick Zero, Tokyo on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Ziziphus Jujuba is an experimental and bass artist based in Japan, with 21 gigs 
 
 mlosims, JACKSON kaki, NTsKi
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ziziphusjujuba/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ziziphusjujuba/)*

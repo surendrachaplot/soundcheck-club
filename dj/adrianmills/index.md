@@ -1,6 +1,6 @@
 # Adrian Mills
 
-Adrian Mills is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Parc Floral De Paris, Paris on Fri, 16 Oct 2026.
+Adrian Mills is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Parc Floral De Paris, Paris on Fri, 16 Oct 2026.
 
 Adrian Mills is a techno and trance artist based in Germany, with 226 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 58 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: Parc Floral De Paris, Paris on Fri 16 Oct.
 
@@ -14,7 +14,7 @@ Adrian Mills is a techno and trance artist based in Germany, with 226 gigs on so
 | Sun, 25 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
 | Tue, 27 Oct 2026 | Roxy | Prague |
 | Fri, 30 Oct 2026 | Gotec | Karlsruhe |
-| Fri, 13 Nov 2026 | Ace*Mission Studios | Los Angeles |
+| Fri, 13 Nov 2026 | Ace*Mission | Los Angeles |
 | Sat, 14 Nov 2026 | Level 1 @ Cannonball Arts | Seattle |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 | Sat, 5 Dec 2026 | Flanders Expo Centre | Ghent |
@@ -36,4 +36,4 @@ Adrian Mills is a techno and trance artist based in Germany, with 226 gigs on so
 
 Cloudy, KUKO, Serafina
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*

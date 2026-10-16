@@ -1,6 +1,6 @@
 # Dj Babatr
 
-Dj Babatr is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Maassilo, Rotterdam on Sat, 14 Nov 2026.
+Dj Babatr is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Maassilo, Rotterdam on Sat, 14 Nov 2026.
 
 Dj Babatr is a techno and house artist based in Venezuela, with 103 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 21 more. Often billed alongside Ruiseñor, Dj Deep RH and Blawan. Next up: Maassilo, Rotterdam on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Dj Babatr is a techno and house artist based in Venezuela, with 103 gigs on soun
 
 Ruiseñor, Dj Deep RH, Blawan
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbaba-2/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbaba-2/)*

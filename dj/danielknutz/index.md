@@ -1,6 +1,6 @@
 # Daniel Knutz
 
-Daniel Knutz is a Vaporwave and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at KitKatClub, Berlin on Sat, 31 Oct 2026.
+Daniel Knutz is a Vaporwave and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at KitKatClub, Berlin on Sat, 31 Oct 2026.
 
 Daniel Knutz is a vaporwave and disco artist based in Brazil, with 9 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Electric Visionary, Marko König and Mercúrio Gótico. Next up: KitKatClub, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Daniel Knutz is a vaporwave and disco artist based in Brazil, with 9 gigs on sou
 
 Electric Visionary, Marko König, Mercúrio Gótico
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielknutz/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielknutz/)*

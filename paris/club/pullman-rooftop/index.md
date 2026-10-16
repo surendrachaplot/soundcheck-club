@@ -1,6 +1,6 @@
 # Pullman Rooftop
 
-Pullman Rooftop is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Rooftop Party - Opening Pink Party" on Sat, 17 Oct 2026.
+Pullman Rooftop is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Rooftop Party - Opening Pink Party" on Sat, 17 Oct 2026.
 
 Pullman Rooftop is a music venue in Paris listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 22 Rue Jean Rey, 75015 Paris.
 
@@ -15,4 +15,4 @@ Pullman Rooftop is a music venue in Paris listed on soundcheck. 2 upcoming gigs.
 
 22 Rue Jean Rey, 75015 Paris, Paris
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/pullman-rooftop/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/pullman-rooftop/)*

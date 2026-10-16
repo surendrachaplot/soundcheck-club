@@ -1,6 +1,6 @@
 # YoYo - Palais de Tokyo
 
-YoYo - Palais de Tokyo is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "Kalua - PARIS 3000 - Maxi Meraki / NICO DE ANDREA" on Sat, 17 Oct 2026.
+YoYo - Palais de Tokyo is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "Kalua - PARIS 3000 - Maxi Meraki / NICO DE ANDREA" on Sat, 17 Oct 2026.
 
 YoYo - Palais de Tokyo is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Maxi Meraki. See dates, start times and who's playing. 13 avenue du Président Wilson 75016 Paris.
 
@@ -14,4 +14,4 @@ YoYo - Palais de Tokyo is a music venue in Paris listed on soundcheck. 1 upcomin
 
 13 avenue du Président Wilson 75016 Paris, Paris
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/yoyo-palais-de-tokyo/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/yoyo-palais-de-tokyo/)*

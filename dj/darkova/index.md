@@ -1,6 +1,6 @@
 # Darkova
 
-Darkova is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Lithuanian House, Toronto on Sat, 31 Oct 2026.
+Darkova is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Lithuanian House, Toronto on Sat, 31 Oct 2026.
 
 Darkova is a techno and minimal techno artist based in Canada, with 41 gigs on soundcheck across Montreal and Toronto. Often billed alongside Alley Kay, Measure Divide and Vadim Khan. Next up: Lithuanian House, Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Darkova is a techno and minimal techno artist based in Canada, with 41 gigs on s
 
 Alley Kay, Measure Divide, Vadim Khan
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darkova/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darkova/)*

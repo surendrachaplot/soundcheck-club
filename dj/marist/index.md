@@ -1,14 +1,14 @@
 # Marist
 
-Marist is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Frankie's, Vancouver on Sat, 31 Oct 2026.
+Marist is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Frankie’s, Vancouver on Sat, 31 Oct 2026.
 
-Marist is a techno and house artist based in Canada, with 59 gigs on soundcheck across Vancouver. Often billed alongside Fizch, Behrad Tehrani and C-Star. Next up: Frankie's, Vancouver on Sat 31 Oct.
+Marist is a techno and house artist based in Canada, with 59 gigs on soundcheck across Vancouver. Often billed alongside Fizch, Behrad Tehrani and C-Star. Next up: Frankie’s, Vancouver on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Frankie's | Vancouver |
+| Sat, 31 Oct 2026 | Frankie’s | Vancouver |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Marist is a techno and house artist based in Canada, with 59 gigs on soundcheck 
 
 Fizch, Behrad Tehrani, C-Star
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marist/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marist/)*

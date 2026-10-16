@@ -1,6 +1,6 @@
 # gwän
 
-gwän is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Spacehall, Tbilisi on Fri, 16 Oct 2026.
+gwän is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Spacehall, Tbilisi on Fri, 16 Oct 2026.
 
 gwän is a techno and house artist based in Georgia, with 77 gigs on soundcheck across Athens, Basel, Berlin and Düsseldorf and 3 more. Often billed alongside Comethisfar, Uväll and VINVAR. Next up: Spacehall, Tbilisi on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ gwän is a techno and house artist based in Georgia, with 77 gigs on soundcheck 
 
 Comethisfar, Uväll, VINVAR
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gwan/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gwan/)*

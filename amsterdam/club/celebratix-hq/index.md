@@ -1,13 +1,13 @@
 # Celebratix HQ
 
-Celebratix HQ is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. The next is "ADE Office Rave" on Fri, 23 Oct 2026.
+Celebratix HQ is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "ADE Office Rave" on Fri, 23 Oct 2026.
 
-Celebratix HQ is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
+Celebratix HQ is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Andrew Azara, Caleb Jackson and Retrouve. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | ADE Office Rave |  |
+| Fri, 23 Oct 2026 | ADE Office Rave | Andrew Azara, Caleb Jackson, Retrouve |
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/celebratix-hq/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/celebratix-hq/)*

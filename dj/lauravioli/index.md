@@ -1,6 +1,6 @@
 # Lauravioli
 
-Lauravioli is a Bass and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Decadance, Ghent on Fri, 16 Oct 2026.
+Lauravioli is a Bass and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Decadance, Ghent on Fri, 16 Oct 2026.
 
 Lauravioli is a bass and house artist based in Belgium, with 11 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside Kōma, Adi and Alix Perez. Next up: Decadance, Ghent on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Lauravioli is a bass and house artist based in Belgium, with 11 gigs on soundche
 
 Kōma, Adi, Alix Perez
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauravioli/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauravioli/)*

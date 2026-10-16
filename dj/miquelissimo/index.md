@@ -1,6 +1,6 @@
 # MIQUELISSIMO
 
-MIQUELISSIMO is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Core, Madrid on Fri, 16 Oct 2026.
+MIQUELISSIMO is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Core, Madrid on Fri, 16 Oct 2026.
 
 MIQUELISSIMO is a techno and tech house artist based in Spain, with 11 gigs on soundcheck across Madrid. Often billed alongside DISTORT (ES), Maya B and Rubén Secaduras. Next up: Core, Madrid on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ MIQUELISSIMO is a techno and tech house artist based in Spain, with 11 gigs on s
 
 DISTORT (ES), Maya B, Rubén Secaduras
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miquelissimo/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miquelissimo/)*

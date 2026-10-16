@@ -1,14 +1,15 @@
 # Stan Yaroslavsky
 
-Stan Yaroslavsky is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Collect LX Factory, Lisbon on Thu, 29 Oct 2026.
+Stan Yaroslavsky is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Collect LX Factory, Lisbon on Thu, 29 Oct 2026.
 
-Stan Yaroslavsky is a house and minimal artist based in Portugal, with 15 gigs on soundcheck across Berlin, Lisbon, London and New York City and 1 more. Often billed alongside Benjamin Fehr, Modebaku and Alex Celler. Next up: Collect LX Factory, Lisbon on Thu 29 Oct.
+Stan Yaroslavsky is a house and minimal artist based in Portugal, with 16 gigs on soundcheck across Berlin, Lisbon, London and New York City and 2 more. Often billed alongside Benjamin Fehr, Modebaku and Alex Celler. Next up: Collect LX Factory, Lisbon on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Collect LX Factory | Lisbon |
+| Sat, 5 Dec 2026 | Aoyama Hachi | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Stan Yaroslavsky is a house and minimal artist based in Portugal, with 15 gigs o
 
 Benjamin Fehr, Modebaku, Alex Celler
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stanyaroslavsky/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stanyaroslavsky/)*

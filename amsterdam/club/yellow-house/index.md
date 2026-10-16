@@ -1,8 +1,8 @@
 # Yellow House
 
-Yellow House is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Lemon Works" on Fri, 16 Oct 2026.
+Yellow House is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Lemon Works" on Fri, 16 Oct 2026.
 
-Yellow House is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Afem Syko, Ammé, Andrea Fiorito and Andrew Azara and 2 more. See dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
+Yellow House is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Afem Syko, Ammé, Andrea Fiorito and Andrew Azara and 2 more. See dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
 
 ## What's on
 
@@ -17,9 +17,10 @@ Yellow House is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs
 | Sat, 24 Oct 2026 | b:wired presents: Bondage-Music x Paracou | Bambi-S, Cinthie, Cristina Lazic, Danilo Kupfernagel, LEENI, Lola Palmer, Lolu Menayed, Mathias Kaden, Meat, Mihai Popoviciu, Norman Weber, Pornbugs, Steve Bug, Thomas Stieler |
 | Sun, 25 Oct 2026 | RAPSODIA x ADE | Ammé, Cher Semain, Joey Daniel, Leyo, Milo Passier, Random Memory, Reboot |
 | Fri, 30 Oct 2026 | Five30 Halloween Special | Carlos Tiburon |
+| Fri, 13 Nov 2026 | CHASE GIBBONS x GLIMLIP album release and afterparty | Becking |
 
 ## Address
 
 1013AM Amsterdam, Danzigerbocht 45-R, Amsterdam
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*

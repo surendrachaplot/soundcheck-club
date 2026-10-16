@@ -1,6 +1,6 @@
 # Golden Record NYC x pregame x Chomp! Chomp! present Mike Servito, Haruka, Gee Dee & More at Green Room NYC
 
-Golden Record NYC x pregame x Chomp! Chomp! present Mike Servito, Haruka, Gee Dee & More at Green Room NYC on Fri 16 Oct, New York City. 6 artists: Armii1n, Gee Dee, Haruka and Lubelski and 2 more. House and Tech House. See the line-up on soundcheck.
+Golden Record NYC x pregame x Chomp! Chomp! present Mike Servito, Haruka, Gee Dee & More at Green Room NYC on Fri 16 Oct, New York City. 6 artists: Armii1n, Gee Dee, Haruka (US) and Lubelski and 2 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ Golden Record NYC x pregame x Chomp! Chomp! present Mike Servito, Haruka, Gee De
 
 - Armii1n
 - Gee Dee
-- Haruka
+- Haruka (US)
 - Lubelski
 - Mike Servito
 - Timo Lee

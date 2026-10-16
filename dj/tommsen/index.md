@@ -1,6 +1,6 @@
 # TØMMSEN
 
-TØMMSEN is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Telegramm: @MauerparkLoveKommando, Berlin on Sat, 17 Oct 2026.
+TØMMSEN is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Telegramm: @MauerparkLoveKommando, Berlin on Sat, 17 Oct 2026.
 
 TØMMSEN is a techno and hardcore artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside Hendrik Nitsche, Sonse and Balkhausen. Next up: TBA - Telegramm: @MauerparkLoveKommando, Berlin on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ TØMMSEN is a techno and hardcore artist based in Germany, with 4 gigs on soundc
 
 Hendrik Nitsche, Sonse, Balkhausen
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommsen/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommsen/)*

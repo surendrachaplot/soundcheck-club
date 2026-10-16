@@ -1,6 +1,6 @@
 # Evensong at The First Presbyterian Church of Chicago
 
-Evensong at The First Presbyterian Church of Chicago on Sat 17 Oct, Chicago. 6 artists: Abisai, Hameedullah, JULLS and Swan Drama and 2 more. Afro House and Electronica. See the line-up on soundcheck.
+Evensong at The First Presbyterian Church of Chicago on Sat 17 Oct, Chicago. 9 artists: Abisai, Fortune (US), Hameedullah and JULLS and 5 more. Afro House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,11 @@ Evensong at The First Presbyterian Church of Chicago on Sat 17 Oct, Chicago. 6 a
 ## Line-up
 
 - Abisai
+- Fortune (US)
 - Hameedullah
 - JULLS
+- Passion Purée
+- RICKYBAUBAU
 - Swan Drama
 - xo.benson
 - Yanna Lynette

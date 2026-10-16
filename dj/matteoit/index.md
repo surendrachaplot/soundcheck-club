@@ -1,8 +1,8 @@
 # Matteo (IT)
 
-Matteo (IT) is a Tech House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Panama, Amsterdam on Fri, 23 Oct 2026.
+Matteo (IT) is a Tech House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Panama, Amsterdam on Fri, 23 Oct 2026.
 
-Matteo (IT) is a tech house and minimal artist based in Germany, with 7 gigs on soundcheck across Amsterdam, Cologne, Düsseldorf and Paris. Often billed alongside Ben:Rodd, Catsinka and Fabio Broox & Violahaiti. Next up: Panama, Amsterdam on Fri 23 Oct.
+Matteo (IT) is a tech house and minimal artist based in Germany, with 7 gigs on soundcheck across Amsterdam, Cologne, Düsseldorf and Paris. Often billed alongside Ben:Rodd, CORZ and Catsinka. Next up: Panama, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ Matteo (IT) is a tech house and minimal artist based in Germany, with 7 gigs on 
 
 ## Shares bills with
 
-Ben:Rodd, Catsinka, Fabio Broox & Violahaiti
+Ben:Rodd, CORZ, Catsinka
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matteoit/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matteoit/)*

@@ -1,6 +1,6 @@
 # Whammy Bar
 
-Whammy Bar is a music venue in Auckland with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Small Rooms Big Noise" on Fri, 16 Oct 2026.
+Whammy Bar is a music venue in Auckland with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Small Rooms Big Noise" on Fri, 16 Oct 2026.
 
 Whammy Bar is a music venue in Auckland listed on soundcheck. 4 upcoming gigs, with line-ups including Aunty Bev, Aunty El, BBYFACEKILLA and Blush and 2 more. See dates, start times and who's playing. 183 Karangahape Rd, Auckland, 1010, New Zealand.
 
@@ -17,4 +17,4 @@ Whammy Bar is a music venue in Auckland listed on soundcheck. 4 upcoming gigs, w
 
 183 Karangahape Rd, Auckland, 1010, New Zealand, Auckland
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/whammy-bar/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/whammy-bar/)*

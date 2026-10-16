@@ -1,6 +1,6 @@
 # Sensu (2)
 
-Sensu (2) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Hootananny Brixton, London on Fri, 16 Oct 2026.
+Sensu (2) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Hootananny Brixton, London on Fri, 16 Oct 2026.
 
 Sensu is a house and garage artist based in Switzerland, with 11 gigs on soundcheck across Brighton, Bristol, Geneva and London and 4 more. Often billed alongside Auramatic, Swimming Paul and Arithmittel. Next up: Hootananny Brixton, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Sensu is a house and garage artist based in Switzerland, with 11 gigs on soundch
 
 Auramatic, Swimming Paul, Arithmittel
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sensu-2/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sensu-2/)*

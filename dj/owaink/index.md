@@ -1,6 +1,6 @@
 # Owain K
 
-Owain K is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at To The Moon, Bristol on Sat, 17 Oct 2026.
+Owain K is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at To The Moon, Bristol on Sat, 17 Oct 2026.
 
 Owain K is a house and acid artist based in United Kingdom, with 75 gigs on soundcheck across Bristol, Cardiff, London and Manchester and 1 more. Often billed alongside Placid, Zobol and Alien Communications. Next up: To The Moon, Bristol on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Owain K is a house and acid artist based in United Kingdom, with 75 gigs on soun
 
 Placid, Zobol, Alien Communications
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/owaink/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/owaink/)*

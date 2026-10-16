@@ -1,6 +1,6 @@
 # Santeria Toscana 31
 
-Santeria Toscana 31 is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Tocco X Santeria" on Fri, 16 Oct 2026.
+Santeria Toscana 31 is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Tocco X Santeria" on Fri, 16 Oct 2026.
 
 Santeria Toscana 31 is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including Davide Ragazzoni, Nuno (IT) and Salzetto. See dates, start times and who's playing. Viale Toscana 31, 20136 Milan (MI).
 
@@ -15,4 +15,4 @@ Santeria Toscana 31 is a music venue in Milan listed on soundcheck. 2 upcoming g
 
 Viale Toscana 31, 20136 Milan (MI), Milan
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/santeria-toscana-31/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/santeria-toscana-31/)*

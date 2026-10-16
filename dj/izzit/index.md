@@ -1,6 +1,6 @@
 # IZZIT
 
-IZZIT is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Sawmills, Bristol on Sat, 17 Oct 2026.
+IZZIT is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Sawmills, Bristol on Sat, 17 Oct 2026.
 
 IZZIT is a house and tech house artist based in United Kingdom, with 48 gigs on soundcheck across Bristol, Cardiff and London. Often billed alongside Lily Huu, Phia500 and DASHY. Next up: Sawmills, Bristol on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ IZZIT is a house and tech house artist based in United Kingdom, with 48 gigs on 
 
 Lily Huu, Phia500, DASHY
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/izzit/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/izzit/)*

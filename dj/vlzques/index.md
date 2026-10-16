@@ -1,6 +1,6 @@
 # VLZQUES
 
-VLZQUES is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Fuchs2, Prague on Thu, 12 Nov 2026.
+VLZQUES is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Fuchs2, Prague on Thu, 12 Nov 2026.
 
 VLZQUES is a techno artist based in Slovakia, with 25 gigs on soundcheck across Barcelona, Krakow and Prague. Often billed alongside yangovica, VISNEACS and AVHD. Next up: Fuchs2, Prague on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ VLZQUES is a techno artist based in Slovakia, with 25 gigs on soundcheck across 
 
 yangovica, VISNEACS, AVHD
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vlzques/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vlzques/)*

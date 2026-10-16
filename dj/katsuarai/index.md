@@ -1,6 +1,6 @@
 # Katsu Arai
 
-Katsu Arai is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Enter Shibuya, Tokyo on Sat, 17 Oct 2026.
+Katsu Arai is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Enter Shibuya, Tokyo on Sat, 17 Oct 2026.
 
 Katsu Arai is a techno and house artist based in Japan, with 22 gigs on soundcheck across Berlin and Tokyo. Often billed alongside AMG SAIMURA (TECHVANE), Kojiro and Blackship. Next up: Enter Shibuya, Tokyo on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Katsu Arai is a techno and house artist based in Japan, with 22 gigs on soundche
 
 AMG SAIMURA (TECHVANE), Kojiro, Blackship
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katsuarai/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katsuarai/)*

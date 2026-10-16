@@ -1,6 +1,6 @@
 # LA!NE
 
-LA!NE is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at World Headquarters, Newcastle on Fri, 16 Oct 2026.
+LA!NE is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at World Headquarters, Newcastle on Fri, 16 Oct 2026.
 
 LA!NE is a house and garage artist based in United Kingdom, with 38 gigs on soundcheck across Leeds, Newcastle and Nottingham. Often billed alongside JP(UK), FroD and Socialness. Next up: World Headquarters, Newcastle on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ LA!NE is a house and garage artist based in United Kingdom, with 38 gigs on soun
 
 JP(UK), FroD, Socialness
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/la!ne/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/la!ne/)*

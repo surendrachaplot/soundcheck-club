@@ -1,6 +1,6 @@
 # Ana Rs
 
-Ana Rs is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 28 Nov 2026.
+Ana Rs is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 28 Nov 2026.
 
 Ana Rs is a techno and house artist based in Montenegro, with 39 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 18 more. Often billed alongside CONCEPTUAL, Hadone and NEUX. Next up: RSO.BERLIN, Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Ana Rs is a techno and house artist based in Montenegro, with 39 gigs on soundch
 
 CONCEPTUAL, Hadone, NEUX
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anars/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anars/)*

@@ -1,8 +1,8 @@
 # Sunju Hargun
 
-Sunju Hargun is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
+Sunju Hargun is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
 
-Sunju Hargun is a techno and house artist based in Thailand, with 95 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 25 more. Often billed alongside Kia (AU), Woody92 and DJ MARIA.. Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
+Sunju Hargun is a techno and house artist based in Thailand, with 96 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 25 more. Often billed alongside Kia (AU), Woody92 and DJ MARIA.. Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Sunju Hargun is a techno and house artist based in Thailand, with 95 gigs on sou
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
 | Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 13 Nov 2026 | Exit Reality | Singapore |
+| Fri, 20 Nov 2026 | TBA | Melbourne |
 | Fri, 5 Feb 2027 | 宀 Club | Hong-kong |
 
 ## Recently played
@@ -29,4 +30,4 @@ Sunju Hargun is a techno and house artist based in Thailand, with 95 gigs on sou
 
 Kia (AU), Woody92, DJ MARIA.
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunjuhargun/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunjuhargun/)*

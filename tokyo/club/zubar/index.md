@@ -1,14 +1,13 @@
 # ZUBAR
 
-ZUBAR is a music venue in Tokyo with 19 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "DELIGHT" on Thu, 15 Oct 2026.
+ZUBAR is a music venue in Tokyo with 22 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Galecstasy Japan Tour 2026" on Fri, 16 Oct 2026.
 
-ZUBAR is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, with line-ups including Acidclank, Cuckoo, Emerson and Futa and 2 more. See dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
+ZUBAR is a music venue in Tokyo listed on soundcheck. 22 upcoming gigs, with line-ups including Acidclank, Cuckoo, Emerson and Futa and 2 more. See dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | DELIGHT |  |
 | Fri, 16 Oct 2026 | Galecstasy Japan Tour 2026 |  |
 | Sat, 17 Oct 2026 | SEVENTH HEAVEN |  |
 | Sun, 18 Oct 2026 | MAGOME BASIC | Emerson |
@@ -18,9 +17,10 @@ ZUBAR is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, with lin
 | Sat, 24 Oct 2026 | FReSHeR VOL.2 |  |
 | Sun, 25 Oct 2026 | CLEAN | KEi, Nao.Ichikawa, TOSHIHISA HIRANO |
 | Wed, 28 Oct 2026 | 笠井爾示 and friends |  |
+| Thu, 29 Oct 2026 | エレクトロン | Acidclank, Cuckoo, Mini |
 
 ## Address
 
 ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021, Tokyo
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zubar/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zubar/)*

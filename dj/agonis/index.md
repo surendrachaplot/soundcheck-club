@@ -1,6 +1,6 @@
 # Agonis
 
-Agonis is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Nordstern, Basel on Sat, 17 Oct 2026.
+Agonis is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Nordstern, Basel on Sat, 17 Oct 2026.
 
 Agonis is a techno and experimental artist based in Switzerland, with 76 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 24 more. Often billed alongside Garçon, Timnah and Konduku. Next up: Nordstern, Basel on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Agonis is a techno and experimental artist based in Switzerland, with 76 gigs on
 
 Garçon, Timnah, Konduku
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agonis/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agonis/)*

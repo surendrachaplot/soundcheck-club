@@ -1,14 +1,15 @@
 # Universal Cave
 
-Universal Cave is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Good Room, New York City on Sat, 24 Oct 2026.
+Universal Cave is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Good Room, New York City on Sat, 24 Oct 2026.
 
-Universal Cave is a house and disco artist based in United States of America, with 38 gigs on soundcheck across New York City, Philadelphia, San Francisco/Oakland and Washington DC. Often billed alongside Shawn Ryan, Zillas on Acid and JEWELSSEA. Next up: Good Room, New York City on Sat 24 Oct.
+Universal Cave is a house and disco artist based in United States of America, with 39 gigs on soundcheck across New York City, Philadelphia, San Francisco/Oakland and Washington DC. Often billed alongside Shawn Ryan, Zillas on Acid and Dave P. Next up: Good Room, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Good Room | New York City |
+| Sat, 31 Oct 2026 | TBA -  A THRILLING TRANSCENDENTAL Secret Location !!!  | Philadelphia |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Universal Cave is a house and disco artist based in United States of America, wi
 
 ## Shares bills with
 
-Shawn Ryan, Zillas on Acid, JEWELSSEA
+Shawn Ryan, Zillas on Acid, Dave P
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/universalcave/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/universalcave/)*

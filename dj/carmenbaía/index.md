@@ -1,6 +1,6 @@
 # Carmen Baía
 
-Carmen Baía is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Carmen Baía is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Carmen Baía is a house and techno artist based in United Kingdom, with 82 gigs on soundcheck across Amsterdam, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside Jamie Gunn, Robbie and T.D. Slider. Next up: Shelter Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Carmen Baía is a house and techno artist based in United Kingdom, with 82 gigs 
 
 Jamie Gunn, Robbie, T.D. Slider
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenbaía/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenbaía/)*

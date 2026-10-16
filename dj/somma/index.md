@@ -1,6 +1,6 @@
 # SOMMA
 
-SOMMA is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Studio Zürich, Zurich on Sat, 17 Oct 2026.
+SOMMA is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Studio Zürich, Zurich on Sat, 17 Oct 2026.
 
 SOMMA is a house and deep house artist based in Germany, with 20 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Düsseldorf and 10 more. Often billed alongside YUMA, LE YORA and Jewels. Next up: Studio Zürich, Zurich on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ SOMMA is a house and deep house artist based in Germany, with 20 gigs on soundch
 
 YUMA, LE YORA, Jewels
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somma/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somma/)*

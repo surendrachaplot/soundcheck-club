@@ -1,6 +1,6 @@
 # Digi Doll
 
-Digi Doll is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Plaza Hotel Sydney, Sydney on Sat, 17 Oct 2026.
+Digi Doll is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Plaza Hotel Sydney, Sydney on Sat, 17 Oct 2026.
 
 Digi Doll is a techno and club artist based in Australia, with 9 gigs on soundcheck across Sydney. Often billed alongside PARTIGIRL, Domonique Dee and MINI SKIRT MIDI. Next up: Plaza Hotel Sydney, Sydney on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Digi Doll is a techno and club artist based in Australia, with 9 gigs on soundch
 
 PARTIGIRL, Domonique Dee, MINI SKIRT MIDI
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digidoll/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digidoll/)*

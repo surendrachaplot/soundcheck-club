@@ -1,6 +1,6 @@
 # Roi (ES)
 
-Roi (ES) is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at 8sixa, Amsterdam on Fri, 23 Oct 2026.
+Roi (ES) is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at 8sixa, Amsterdam on Fri, 23 Oct 2026.
 
 Roi (ES) is a techno artist, with 15 gigs on soundcheck across Amsterdam, London, Madrid and Mexico City and 3 more. Often billed alongside Mist Gasp, Dalton Dist and 3Points. Next up: 8sixa, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Roi (ES) is a techno artist, with 15 gigs on soundcheck across Amsterdam, London
 
 Mist Gasp, Dalton Dist, 3Points
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roi-es/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roi-es/)*

@@ -1,6 +1,6 @@
 # Diplo
 
-Diplo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Ramona Ave Landing, Sacramento on Fri, 16 Oct 2026.
+Diplo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Ramona Ave Landing, Sacramento on Fri, 16 Oct 2026.
 
 Diplo is a house and techno artist based in United States of America, with 91 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 24 more. Often billed alongside DJ Holographic, Carlita and Charlotte de Witte. Next up: Ramona Ave Landing, Sacramento on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Diplo is a house and techno artist based in United States of America, with 91 gi
 
 DJ Holographic, Carlita, Charlotte de Witte
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diplo/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diplo/)*

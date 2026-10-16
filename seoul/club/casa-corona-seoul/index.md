@@ -1,6 +1,6 @@
 # Casa Corona Seoul
 
-Casa Corona Seoul is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Seoul House Club" on Fri, 16 Oct 2026.
+Casa Corona Seoul is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Seoul House Club" on Fri, 16 Oct 2026.
 
 Casa Corona Seoul is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including Better, HAO(KR), Pingpong (KR) and ShinyLight. See dates, start times and who's playing. 7, Bogwang-ro 60-gil, Yongsan-gu, Seoul, Korea 04406.
 
@@ -15,4 +15,4 @@ Casa Corona Seoul is a music venue in Seoul listed on soundcheck. 2 upcoming gig
 
 7, Bogwang-ro 60-gil, Yongsan-gu, Seoul, Korea 04406, Seoul
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/casa-corona-seoul/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/casa-corona-seoul/)*

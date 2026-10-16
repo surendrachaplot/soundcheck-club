@@ -1,6 +1,6 @@
 # GASHOUDER presents: Eric Prydz at GASHOUDER
 
-GASHOUDER presents: Eric Prydz on Thu 22 Oct, Amsterdam. 1 artist: Eric Prydz. Progressive House and House. See the line-up on soundcheck.
+GASHOUDER presents: Eric Prydz on Thu 22 Oct, Amsterdam. 2 artists: Cristoph and Eric Prydz. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ GASHOUDER presents: Eric Prydz on Thu 22 Oct, Amsterdam. 1 artist: Eric Prydz. P
 
 ## Line-up
 
+- Cristoph
 - Eric Prydz
 
 *Source: [soundcheck](https://soundcheck.club/e/2515482-gashouder-presents-eric-prydz-at-gashouder/)*

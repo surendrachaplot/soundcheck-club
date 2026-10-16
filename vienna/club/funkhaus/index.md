@@ -1,6 +1,6 @@
 # Funkhaus
 
-Funkhaus is a music venue in Vienna with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "The House of Funk Funkhaus Takeover with Franco, Reeno Reluv, and Paul Heimlich" on Fri, 16 Oct 2026.
+Funkhaus is a music venue in Vienna with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "The House of Funk Funkhaus Takeover with Franco, Reeno Reluv, and Paul Heimlich" on Fri, 16 Oct 2026.
 
 Funkhaus is a music venue in Vienna listed on soundcheck. 6 upcoming gigs, with line-ups including Ariane V, Ben Gomori, Felix Rupprecht and Felix Wolfs and 2 more. See dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ Funkhaus is a music venue in Vienna listed on soundcheck. 6 upcoming gigs, with 
 | Fri, 18 Dec 2026 | LOVEDANCIN' Vienna | Gerd Janson, Tom Kutsche |
 | Sat, 19 Dec 2026 | traveling without moving |  |
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/funkhaus/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/funkhaus/)*

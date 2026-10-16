@@ -1,6 +1,6 @@
 # enthrust
 
-enthrust is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Jènemar Passéjure, Prague on Sat, 17 Oct 2026.
+enthrust is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Jènemar Passéjure, Prague on Sat, 17 Oct 2026.
 
 enthrust is a techno and house artist based in Czech Republic, with 4 gigs on soundcheck across Prague. Often billed alongside V!KK!, VISNEACS and 2NDRA. Next up: Jènemar Passéjure, Prague on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ enthrust is a techno and house artist based in Czech Republic, with 4 gigs on so
 
 V!KK!, VISNEACS, 2NDRA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enthrust/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enthrust/)*

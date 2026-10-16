@@ -1,6 +1,6 @@
 # dj_kareless
 
-dj_kareless is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at elipamanoke, Leipzig on Fri, 6 Nov 2026.
+dj_kareless is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at elipamanoke, Leipzig on Fri, 6 Nov 2026.
 
 dj_kareless is a progressive house and house artist based in Germany, with 16 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Leipzig. Often billed alongside DJ Keyframe, Bonzo and Kenny Danger. Next up: elipamanoke, Leipzig on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ dj_kareless is a progressive house and house artist based in Germany, with 16 gi
 
 DJ Keyframe, Bonzo (2), Kenny Danger
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj_kareless/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj_kareless/)*

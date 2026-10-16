@@ -1,6 +1,6 @@
 # Edelfettwerk
 
-Edelfettwerk is a music venue in Hamburg with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "VERKNIPT Germany - Hamburg - October 16 & 17" on Fri, 16 Oct 2026.
+Edelfettwerk is a music venue in Hamburg with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "VERKNIPT Germany - Hamburg - October 16 & 17" on Fri, 16 Oct 2026.
 
 Edelfettwerk is a music venue in Hamburg listed on soundcheck. 8 upcoming gigs, with line-ups including Charlie, co:co, IGDA and Jo van der Meer and 2 more. See dates, start times and who's playing. Schnackenburgsallee 202, 22525 Hamburg.
 
@@ -21,4 +21,4 @@ Edelfettwerk is a music venue in Hamburg listed on soundcheck. 8 upcoming gigs, 
 
 Schnackenburgsallee 202, 22525 Hamburg, Hamburg
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/edelfettwerk/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/edelfettwerk/)*

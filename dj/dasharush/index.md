@@ -1,14 +1,13 @@
 # Dasha Rush
 
-Dasha Rush is a Techno and Experimental artist with 13 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 15 Oct 2026.
+Dasha Rush is a Techno and Experimental artist with 13 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at La Comédie De Genève, Geneva on Sat, 17 Oct 2026.
 
-Dasha Rush is a techno and experimental artist, with 170 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside DVS1, Adriana Lopez and JakoJako. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 15 Oct.
+Dasha Rush is a techno and experimental artist, with 171 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside DVS1, Adriana Lopez and JakoJako. Next up: La Comédie De Genève, Geneva on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 17 Oct 2026 | La Comédie De Genève | Geneva |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
@@ -20,9 +19,11 @@ Dasha Rush is a techno and experimental artist, with 170 gigs on soundcheck acro
 | Sat, 14 Nov 2026 | Lincoln Factory | Detroit |
 | Fri, 27 Nov 2026 | RADION | Amsterdam |
 | Sat, 28 Nov 2026 | The Bassement | Madrid |
+| Fri, 4 Dec 2026 | MFCC Arena | Malta |
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin · Thu, 15 Oct 2026
 - fabric, London · Sat, 3 Oct 2026
 - Herdade do Aguilhão, Lisbon · Fri, 2 Oct 2026
 - Turbina, Budapest · Fri, 2 Oct 2026
@@ -30,10 +31,9 @@ Dasha Rush is a techno and experimental artist, with 170 gigs on soundcheck acro
 - Berghain | Panorama Bar | Säule, Berlin · Fri, 25 Sept 2026
 - Kaserne Basel, Basel · Thu, 17 Sept 2026
 - RSO.BERLIN, Berlin · Fri, 11 Sept 2026
-- Razzmatazz, Barcelona · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 DVS1, Adriana Lopez, JakoJako
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dasharush/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dasharush/)*

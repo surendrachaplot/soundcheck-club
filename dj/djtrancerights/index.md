@@ -1,6 +1,6 @@
 # DJ TRANCERIGHTS
 
-DJ TRANCERIGHTS is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Pearl, Vancouver on Fri, 16 Oct 2026.
+DJ TRANCERIGHTS is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Pearl, Vancouver on Fri, 16 Oct 2026.
 
 DJ TRANCERIGHTS is a techno and trance artist based in Zimbabwe, with 17 gigs on soundcheck across Vancouver. Often billed alongside EtOH, GOTH-TROPIC and Bÿständer. Next up: The Pearl, Vancouver on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ DJ TRANCERIGHTS is a techno and trance artist based in Zimbabwe, with 17 gigs on
 
 EtOH, GOTH-TROPIC, Bÿständer
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtrancerights/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtrancerights/)*

@@ -1,6 +1,6 @@
 # PARAMIDA
 
-PARAMIDA is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Wigwam, Dublin on Fri, 16 Oct 2026.
+PARAMIDA is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Wigwam, Dublin on Fri, 16 Oct 2026.
 
 PARAMIDA is a house and techno artist based in Germany, with 262 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 51 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: Wigwam, Dublin on Fri 16 Oct.
 
@@ -33,4 +33,4 @@ PARAMIDA is a house and techno artist based in Germany, with 262 gigs on soundch
 
 Alex Kassian, Ryan Elliott, tINI
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*

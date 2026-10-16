@@ -1,6 +1,6 @@
-# VOID x Vanta.nyx VII with Tudse, Sofi Lucius, access:dance, K.EULE, Aynaet, Sagrivox, Upzet at Void Club
+# VOID x VANTA.NYX VII with Tudse, Sofi Lucius, access:dance, K.EULE, Aynaet, Sagrivox, Upzet at Void Club
 
-VOID x Vanta.nyx VII with Tudse, Sofi Lucius, access:dance, K.EULE, Aynaet, Sagrivox, Upzet at Void Club on Fri 13 Nov, Berlin. 8 artists: access:dance, Aynaet, buktuu and K.EULE and 4 more. Drum & Bass and Techno. See the line-up on soundcheck.
+VOID x VANTA.NYX VII with Tudse, Sofi Lucius, access:dance, K.EULE, Aynaet, Sagrivox, Upzet at Void Club on Fri 13 Nov, Berlin. 8 artists: access:dance, Aynaet, buktuu and K.EULE and 4 more. Drum & Bass and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

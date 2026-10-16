@@ -1,6 +1,6 @@
 # Carmelina
 
-Carmelina is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
+Carmelina is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
 
 Carmelina is a house and minimal artist based in Germany, with 12 gigs on soundcheck across Berlin, Frankfurt, Greece and Lisbon. Often billed alongside Elia Nafzger, Marc. and Alexia. Next up: Kater, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Carmelina is a house and minimal artist based in Germany, with 12 gigs on soundc
 
 Elia Nafzger, Marc., Alexia (2)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carmelina-de/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carmelina-de/)*

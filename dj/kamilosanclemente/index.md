@@ -1,6 +1,6 @@
 # Kamilo Sanclemente
 
-Kamilo Sanclemente is a Progressive House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Brown Alley, Melbourne on Fri, 16 Oct 2026.
+Kamilo Sanclemente is a Progressive House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Brown Alley, Melbourne on Fri, 16 Oct 2026.
 
 Kamilo Sanclemente is a progressive house and deep house artist based in Colombia, with 44 gigs on soundcheck across Amsterdam, Barcelona, Budapest and Buenos Aires and 17 more. Often billed alongside Antrim, Emi Galvan and Alex Stein. Next up: Brown Alley, Melbourne on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ Kamilo Sanclemente is a progressive house and deep house artist based in Colombi
 
 Antrim, Emi Galvan, Alex Stein
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamilosanclemente/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamilosanclemente/)*

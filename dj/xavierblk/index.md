@@ -1,6 +1,6 @@
 # Xavier BLK
 
-Xavier BLK is a Ghetto Tech and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Beato 30, Lisbon on Fri, 30 Oct 2026.
+Xavier BLK is a Ghetto Tech and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Beato 30, Lisbon on Fri, 30 Oct 2026.
 
 Xavier BLK is a ghetto tech and club artist, with 16 gigs on soundcheck across Amsterdam, Lisbon, London and Mexico City and 1 more. Often billed alongside Kuza Bruta, Maribell and Pxmp. Next up: Beato 30, Lisbon on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Xavier BLK is a ghetto tech and club artist, with 16 gigs on soundcheck across A
 
 Kuza Bruta (2), Maribell, Pxmp
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xavierblk/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xavierblk/)*

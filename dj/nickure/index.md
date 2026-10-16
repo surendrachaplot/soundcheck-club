@@ -1,6 +1,6 @@
 # Nick Ure
 
-Nick Ure is a Experimental and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Miscellania, Melbourne on Sat, 24 Oct 2026.
+Nick Ure is a Experimental and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Miscellania, Melbourne on Sat, 24 Oct 2026.
 
 Nick Ure is an experimental and downtempo artist based in Australia, with 12 gigs on soundcheck across Melbourne, New South Wales and Victoria. Often billed alongside Bridget Small, Elsie and Mike Midnight. Next up: Miscellania, Melbourne on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Nick Ure is an experimental and downtempo artist based in Australia, with 12 gig
 
 Bridget Small (2), Elsie, Mike Midnight
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickure/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickure/)*

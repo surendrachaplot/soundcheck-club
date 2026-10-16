@@ -1,6 +1,6 @@
 # Restricted
 
-Restricted is a Techno and Hardcore artist with 15 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Royale, Boston on Sat, 17 Oct 2026.
+Restricted is a Techno and Hardcore artist with 15 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Royale, Boston on Sat, 17 Oct 2026.
 
 Restricted is a techno and hardcore artist based in Australia, with 83 gigs on soundcheck across Amsterdam, Antwerp, Arizona and Athens and 49 more. Often billed alongside Azyr, Onlynumbers and Vieze Asbak. Next up: Royale, Boston on Sat 17 Oct.
 
@@ -36,4 +36,4 @@ Restricted is a techno and hardcore artist based in Australia, with 83 gigs on s
 
 Azyr, Onlynumbers, Vieze Asbak
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*

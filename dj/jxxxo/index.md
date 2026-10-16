@@ -1,6 +1,6 @@
 # JXXXO
 
-JXXXO is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Crobar - Buenos Aires, Buenos Aires on Fri, 20 Nov 2026.
+JXXXO is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Crobar - Buenos Aires, Buenos Aires on Fri, 20 Nov 2026.
 
 JXXXO is a techno and electronica artist based in Argentina, with 39 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 7 more. Often billed alongside HERS, Lucas Sosa (AR) and PERT. Next up: Crobar - Buenos Aires, Buenos Aires on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ JXXXO is a techno and electronica artist based in Argentina, with 39 gigs on sou
 
 HERS, Lucas Sosa (AR), PERT
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jxxxo/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jxxxo/)*

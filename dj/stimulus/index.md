@@ -1,6 +1,6 @@
 # Stimulus
 
-Stimulus is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Maaya, Berlin on Fri, 16 Oct 2026.
+Stimulus is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Maaya, Berlin on Fri, 16 Oct 2026.
 
 Stimulus is a hip-hop and club artist based in Germany, with 24 gigs on soundcheck across Berlin, Lisbon, Munich and New York City. Often billed alongside Helina, ALBA and Adonis Wolf. Next up: Maaya, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Stimulus is a hip-hop and club artist based in Germany, with 24 gigs on soundche
 
 Helina, ALBA (3), Adonis Wolf
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stimulus/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stimulus/)*

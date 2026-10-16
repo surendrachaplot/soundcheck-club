@@ -1,16 +1,16 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 11 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "SUBSTRATE: Shed" on Thu, 15 Oct 2026.
+TRANSMISSION DC is a music venue in Washington DC with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Dj Fuckoff & Lovefoxy" on Fri, 16 Oct 2026.
 
-TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 11 upcoming gigs, with line-ups including 1tbsp, 6 SENSE, B0YG1RL and Bulma and 2 more. See dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
+TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 11 upcoming gigs, with line-ups including 1tbsp, 6 SENSE, B0YG1RL and blankphosphenes and 2 more. See dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | SUBSTRATE: Shed | Shed |
 | Fri, 16 Oct 2026 | Dj Fuckoff & Lovefoxy | DJ Fuckoff, DJ Pearl, LOVEFOXY |
 | Sat, 24 Oct 2026 | 1tbsp | 1tbsp |
+| Thu, 29 Oct 2026 | PRÆTER·NATURA - Nyx//Erebus | GOkibstarGO, MEEP, Tombgirl, blankphosphenes, dicqbeats, mollygotmetrippin |
 | Sat, 31 Oct 2026 | LOBOTOMY 4 pres by 140+ X Fwb X Xunt | B0YG1RL, Bulma, DJ DEADNAME, DJ Land Reform, Franxx, GET FACE, Hissyfit, N3urodegenerate, claire.h0e |
 | Fri, 6 Nov 2026 | SUBSTRATE: Pariah | Pariah |
 | Sat, 7 Nov 2026 | Mood II Swing | Diyanna Monet, Mood II Swing, My Friend Jack |
@@ -23,4 +23,4 @@ TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 11 upcom
 
 1353 H st NE, Washington, DC, 20002, Washington DC
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*

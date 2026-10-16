@@ -1,13 +1,14 @@
 # Significant Other
 
-Significant Other is a Experimental and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at public records, New York City on Mon, 9 Nov 2026.
+Significant Other is a Bass and Experimental artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 4 Nov 2026.
 
-Significant Other is an experimental and bass artist, with 54 gigs on soundcheck across Belgrade, Berlin, Cologne and London and 5 more. Often billed alongside Eleftheria, Jon K and John T. Gast. Next up: public records, New York City on Mon 9 Nov.
+Significant Other is a bass and experimental artist, with 55 gigs on soundcheck across Belgrade, Berlin, Cologne and London and 5 more. Often billed alongside Eleftheria, Jon K and John T. Gast. Next up: TBA - Secret Location (near Frankfurter Allee), Berlin on Wed 4 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 4 Nov 2026 | TBA - Secret Location (near Frankfurter Allee) | Berlin |
 | Mon, 9 Nov 2026 | public records | New York City |
 | Thu, 12 Nov 2026 | public records | New York City |
 | Fri, 20 Nov 2026 | TBA - Secret Location | New York City |
@@ -27,4 +28,4 @@ Significant Other is an experimental and bass artist, with 54 gigs on soundcheck
 
 Eleftheria, Jon K, John T. Gast
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/significantother/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/significantother/)*

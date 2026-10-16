@@ -1,14 +1,15 @@
 # SNC Crew
 
-SNC Crew is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Paloma, Berlin on Sat, 31 Oct 2026.
+SNC Crew is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Paloma, Berlin on Sat, 31 Oct 2026.
 
-SNC Crew is a house and tech house artist based in Germany, with 15 gigs on soundcheck across Berlin and Munich. Often billed alongside 3Hertz, DJ NORTHERN and Hanna Baertig. Next up: Paloma, Berlin on Sat 31 Oct.
+SNC Crew is a house and tech house artist based in Germany, with 16 gigs on soundcheck across Berlin and Munich. Often billed alongside 3Hertz, DJ NORTHERN and Hanna Baertig. Next up: Paloma, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Paloma | Berlin |
+| Sat, 14 Nov 2026 | Renate | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ SNC Crew is a house and tech house artist based in Germany, with 15 gigs on soun
 
 3Hertz, DJ NORTHERN, Hanna Baertig
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snccrew/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snccrew/)*

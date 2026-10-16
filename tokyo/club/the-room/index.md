@@ -1,6 +1,6 @@
 # The Room
 
-The Room is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "MAGNETiC" on Sat, 17 Oct 2026.
+The Room is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "MAGNETiC" on Sat, 17 Oct 2026.
 
 The Room is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including AMARI, cosmolady, DJ Wada and JINI and 2 more. See dates, start times and who's playing. B1, 15-19, Sakuragaokacho, Shibuya Ku, Tokyo To, 150-003.
 
@@ -17,4 +17,4 @@ The Room is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with l
 
 B1, 15-19, Sakuragaokacho, Shibuya Ku, Tokyo To, 150-003, Tokyo
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/the-room/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/the-room/)*

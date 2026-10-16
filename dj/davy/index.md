@@ -1,14 +1,15 @@
 # Davy
 
-Davy is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Romantica, Stuttgart on Sun, 18 Oct 2026.
+Davy is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Romantica, Stuttgart on Sun, 18 Oct 2026.
 
-Davy is a techno and electro artist, with 25 gigs on soundcheck across Berlin, Brussels, Frankfurt and Ghent and 3 more. Often billed alongside T.A.M.22, Mogus and Annechoic. Next up: Romantica, Stuttgart on Sun 18 Oct.
+Davy is a techno and electro artist, with 26 gigs on soundcheck across Berlin, Brussels, Frankfurt and Ghent and 4 more. Often billed alongside T.A.M.22, Mogus and Annechoic. Next up: Romantica, Stuttgart on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 18 Oct 2026 | Romantica | Stuttgart |
+| Sat, 14 Nov 2026 | Distillery | Leipzig |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Davy is a techno and electro artist, with 25 gigs on soundcheck across Berlin, B
 
 T.A.M.22, Mogus, Annechoic
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davy/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davy/)*

@@ -1,6 +1,6 @@
 # Jurgen Booi
 
-Jurgen Booi is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Meet Berlage, Amsterdam on Sun, 25 Oct 2026.
+Jurgen Booi is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Meet Berlage, Amsterdam on Sun, 25 Oct 2026.
 
 Jurgen Booi is a tech house and house artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam, Berlin and Rotterdam. Often billed alongside Juan Diabl, Jorick Croes and Argüello. Next up: Meet Berlage, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Jurgen Booi is a tech house and house artist based in Netherlands, with 12 gigs 
 
 Juan Diabl, Jorick Croes, Argüello
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jurgenbooi/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jurgenbooi/)*

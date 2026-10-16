@@ -1,6 +1,6 @@
 # HERS
 
-HERS is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Crobar - Buenos Aires, Buenos Aires on Fri, 20 Nov 2026.
+HERS is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Crobar - Buenos Aires, Buenos Aires on Fri, 20 Nov 2026.
 
 HERS is a techno and electronica artist based in Argentina, with 29 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 2 more. Often billed alongside JXXXO, Lucas Sosa (AR) and Bondarük. Next up: Crobar - Buenos Aires, Buenos Aires on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ HERS is a techno and electronica artist based in Argentina, with 29 gigs on soun
 
 JXXXO, Lucas Sosa (AR), Bondarük
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hers/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hers/)*

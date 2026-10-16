@@ -1,6 +1,6 @@
 # Cara Elizabeth
 
-Cara Elizabeth is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Ääniwalli, Helsinki on Fri, 16 Oct 2026.
+Cara Elizabeth is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Ääniwalli, Helsinki on Fri, 16 Oct 2026.
 
 Cara Elizabeth is a techno and trance artist based in Germany, with 146 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 25 more. Often billed alongside Kø:lab, Mika Heggemann and davyboi. Next up: Ääniwalli, Helsinki on Fri 16 Oct.
 
@@ -33,4 +33,4 @@ Cara Elizabeth is a techno and trance artist based in Germany, with 146 gigs on 
 
 Kø:lab, Mika Heggemann, davyboi
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caraelizabeth/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caraelizabeth/)*

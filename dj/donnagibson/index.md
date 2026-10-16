@@ -1,13 +1,15 @@
 # Donna Gibson
 
-Donna Gibson is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Kings Arms E2, London on Sat, 14 Nov 2026.
+Donna Gibson is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Canvas, Amsterdam on Sat, 24 Oct 2026.
 
-Donna Gibson is a disco and house artist based in France, with 19 gigs on soundcheck across Amsterdam, Berlin, Brussels and Edinburgh and 2 more. Often billed alongside Young Pulse, Aï Smash and Chris Wheatley. Next up: Kings Arms E2, London on Sat 14 Nov.
+Donna Gibson is a disco and house artist based in France, with 21 gigs on soundcheck across Amsterdam, Berlin, Brussels and Edinburgh and 2 more. Often billed alongside Young Pulse, Aï Smash and Chris Wheatley. Next up: Canvas, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Canvas | Amsterdam |
+| Fri, 6 Nov 2026 | La Bellevilloise | Paris |
 | Sat, 14 Nov 2026 | Kings Arms E2 | London |
 
 ## Recently played
@@ -25,4 +27,4 @@ Donna Gibson is a disco and house artist based in France, with 19 gigs on soundc
 
 Young Pulse, Aï Smash, Chris Wheatley
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donnagibson/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donnagibson/)*

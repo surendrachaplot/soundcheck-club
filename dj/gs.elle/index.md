@@ -1,14 +1,15 @@
 # GS.ELLE
 
-GS.ELLE is a Latin Bass and Dembow artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Tropical Milano, Milan on Fri, 16 Oct 2026.
+GS.ELLE is a Latin Bass and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Tropical Milano, Milan on Fri, 16 Oct 2026.
 
-GS.ELLE is a latin bass and dembow artist, with 24 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Milan and 2 more. Often billed alongside Amazon, Evissimax and Luwei. Next up: Tropical Milano, Milan on Fri 16 Oct.
+GS.ELLE is a latin bass and reggaeton artist, with 25 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Milan and 2 more. Often billed alongside Amazon, Evissimax and Luwei. Next up: Tropical Milano, Milan on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Tropical Milano | Milan |
+| Sat, 31 Oct 2026 | Magazzino sul Po | Turin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ GS.ELLE is a latin bass and dembow artist, with 24 gigs on soundcheck across Ams
 
 Amazon, Evissimax, Luwei
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gs.elle/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gs.elle/)*

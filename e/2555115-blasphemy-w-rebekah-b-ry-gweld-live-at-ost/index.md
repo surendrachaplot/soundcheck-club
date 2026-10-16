@@ -1,6 +1,6 @@
 # Blasphemy w. Rebekah, BØĘRY, GWELD (Live) at OST
 
-Blasphemy w. Rebekah, BØĘRY, GWELD (Live) at OST on Fri 18 Dec, Berlin. 3 artists: BØĘRY, GWELD and Rebekah. Techno. See the line-up on soundcheck.
+Blasphemy w. Rebekah, BØĘRY, GWELD (Live) at OST on Fri 18 Dec, Berlin. 5 artists: BØĘRY, Bollmann, GWELD and Laviena and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,9 @@ Blasphemy w. Rebekah, BØĘRY, GWELD (Live) at OST on Fri 18 Dec, Berlin. 3 arti
 ## Line-up
 
 - BØĘRY
+- Bollmann
 - GWELD
+- Laviena
 - Rebekah
 
 *Source: [soundcheck](https://soundcheck.club/e/2555115-blasphemy-w-rebekah-b-ry-gweld-live-at-ost/)*

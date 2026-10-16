@@ -1,6 +1,6 @@
 # Breakbot
 
-Breakbot is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at La Station - Gare des Mines, Paris on Wed, 14 Oct 2026.
+Breakbot is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at La Station - Gare des Mines, Paris on Wed, 14 Oct 2026.
 
 Breakbot is a house and disco artist based in France, with 77 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 26 more. Often billed alongside Irfane, Busy P and Myd. Next up: La Station - Gare des Mines, Paris on Wed 14 Oct.
 
@@ -26,4 +26,4 @@ Breakbot is a house and disco artist based in France, with 77 gigs on soundcheck
 
 Irfane, Busy P, Myd
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/breakbot/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/breakbot/)*

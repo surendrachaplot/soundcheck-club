@@ -1,6 +1,6 @@
 # Claptone
 
-Claptone is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Pacha, Munich on Sat, 17 Oct 2026.
+Claptone is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Pacha, Munich on Sat, 17 Oct 2026.
 
 Claptone is a house and tech house artist based in Germany, with 243 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 60 more. Often billed alongside DIEGO SAN DIEGO, Ferreck Dawn and Hannah Wants. Next up: Pacha, Munich on Sat 17 Oct.
 
@@ -34,4 +34,4 @@ Claptone is a house and tech house artist based in Germany, with 243 gigs on sou
 
 DIEGO SAN DIEGO, Ferreck Dawn, Hannah Wants
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*

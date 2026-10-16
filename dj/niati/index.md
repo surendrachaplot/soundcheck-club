@@ -1,6 +1,6 @@
 # niati
 
-niati is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Left Bank, Tbilisi on Sat, 17 Oct 2026.
+niati is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Left Bank, Tbilisi on Sat, 17 Oct 2026.
 
 niati is an electronic artist based in Georgia, with 15 gigs on soundcheck across Tbilisi. Often billed alongside Dali (GE), Arnii and Bekuchi. Next up: Left Bank, Tbilisi on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ niati is an electronic artist based in Georgia, with 15 gigs on soundcheck acros
 
 Dali (GE), Arnii, Bekuchi
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niati/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niati/)*

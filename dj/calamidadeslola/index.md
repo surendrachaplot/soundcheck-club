@@ -1,17 +1,18 @@
 # Calamidades Lola
 
-Calamidades Lola is a Reggaeton and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Sameheads, Berlin on Thu, 15 Oct 2026.
+Calamidades Lola is a Pop and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Noch Besser Leben, Leipzig on Sat, 24 Oct 2026.
 
-Calamidades Lola is a reggaeton and latin bass artist based in Colombia, with 26 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Amuleto Manuela, D'Monk and Coco Maria. Next up: Sameheads, Berlin on Thu 15 Oct.
+Calamidades Lola is a pop and reggaeton artist based in Colombia, with 27 gigs on soundcheck across Amsterdam, Berlin and Leipzig. Often billed alongside Amuleto Manuela, D'Monk and Azulado. Next up: Noch Besser Leben, Leipzig on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Sameheads | Berlin |
+| Sat, 24 Oct 2026 | Noch Besser Leben | Leipzig |
 
 ## Recently played
 
+- Sameheads, Berlin · Thu, 15 Oct 2026
 - remove, Amsterdam · Sat, 26 Sept 2026
 - ÆDEN, Berlin · Sat, 19 Sept 2026
 - Beach Neukölln, Berlin · Sun, 30 Aug 2026
@@ -19,10 +20,9 @@ Calamidades Lola is a reggaeton and latin bass artist based in Colombia, with 26
 - Badehaus Berlin, Berlin · Thu, 16 Jul 2026
 - Zossener Brücke, Berlin · Fri, 22 May 2026
 - arkaoda Berlin, Berlin · Fri, 15 May 2026
-- Pastiche, Berlin · Sat, 4 Apr 2026
 
 ## Shares bills with
 
-Amuleto Manuela, D'Monk, Coco Maria
+Amuleto Manuela, D'Monk, Azulado
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calamidadeslola/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calamidadeslola/)*

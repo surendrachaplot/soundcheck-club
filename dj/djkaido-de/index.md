@@ -1,6 +1,6 @@
 # DJ KAIDO
 
-DJ KAIDO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Sektor Evolution, Dresden on Sat, 17 Oct 2026.
+DJ KAIDO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Sektor Evolution, Dresden on Sat, 17 Oct 2026.
 
 DJ KAIDO is a techno and trance artist based in Germany, with 15 gigs on soundcheck across Berlin, Cologne, Dresden and Leipzig. Often billed alongside Popsen, 3LEEZA and Abimixx. Next up: Sektor Evolution, Dresden on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ DJ KAIDO is a techno and trance artist based in Germany, with 15 gigs on soundch
 
 Popsen, 3LEEZA, Abimixx
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkaido-de/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkaido-de/)*

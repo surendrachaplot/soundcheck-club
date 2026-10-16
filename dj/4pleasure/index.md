@@ -1,6 +1,6 @@
 # 4Pleasure
 
-4Pleasure is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Pacha Ibiza, Ibiza on Sat, 17 Oct 2026.
+4Pleasure is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Pacha Ibiza, Ibiza on Sat, 17 Oct 2026.
 
 4Pleasure is a tech house and house artist based in Spain, with 32 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Madrid and 1 more. Often billed alongside Angel Sani, Ion Pananides and Alvaro Medina. Next up: Pacha Ibiza, Ibiza on Sat 17 Oct.
 
@@ -25,4 +25,4 @@
 
 Angel Sani, Ion Pananides, Alvaro Medina
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/4pleasure/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/4pleasure/)*

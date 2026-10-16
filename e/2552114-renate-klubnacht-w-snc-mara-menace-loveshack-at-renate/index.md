@@ -1,6 +1,6 @@
 # Renate Klubnacht w/ SNC, Mara Menace & Loveshack at Renate
 
-Renate Klubnacht w/ SNC, Mara Menace & Loveshack on Sat 14 Nov, Berlin. 7 artists: Bekkler, Bonzai Bonner, Charlie Vaux and EMIRA and 3 more. Techno and House. See the line-up on soundcheck.
+Renate Klubnacht w/ SNC, Mara Menace & Loveshack on Sat 14 Nov, Berlin. 9 artists: Bekkler, Bonzai Bonner, Charlie Vaux and DCHM and 5 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,9 +13,11 @@ Renate Klubnacht w/ SNC, Mara Menace & Loveshack on Sat 14 Nov, Berlin. 7 artist
 - Bekkler
 - Bonzai Bonner
 - Charlie Vaux
+- DCHM
 - EMIRA
 - exuvia
 - Mara Menace
 - Maruwa
+- SNC Crew
 
 *Source: [soundcheck](https://soundcheck.club/e/2552114-renate-klubnacht-w-snc-mara-menace-loveshack-at-renate/)*

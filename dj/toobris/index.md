@@ -1,8 +1,8 @@
 # Toobris
 
-Toobris is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Address sent out to ticket holders at 6 PM on Oct 17, Philadelphia on Sat, 17 Oct 2026.
+Toobris is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Address sent out to ticket holders at 6 PM on Oct 17, Philadelphia on Sat, 17 Oct 2026.
 
-Toobris is a techno and house artist based in Germany, with 62 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 23 more. Often billed alongside Freddy K, Alarico and Lobster (NL). Next up: TBA - Address sent out to ticket holders at 6 PM on Oct 17, Philadelphia on Sat 17 Oct.
+Toobris is a techno and house artist based in Germany, with 63 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Freddy K, Alarico and Lobster (NL). Next up: TBA - Address sent out to ticket holders at 6 PM on Oct 17, Philadelphia on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Toobris is a techno and house artist based in Germany, with 62 gigs on soundchec
 | Sat, 24 Oct 2026 | RSO.BERLIN | Berlin |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |
 | Tue, 27 Oct 2026 | AUX Club | Athens |
+| Fri, 30 Oct 2026 | FLUCC | Vienna |
 | Fri, 20 Nov 2026 | RSO.BERLIN | Berlin |
 | Sat, 26 Dec 2026 | KREUZWERK | Berlin |
 
@@ -31,4 +32,4 @@ Toobris is a techno and house artist based in Germany, with 62 gigs on soundchec
 
 Freddy K, Alarico, Lobster (NL)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toobris/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toobris/)*

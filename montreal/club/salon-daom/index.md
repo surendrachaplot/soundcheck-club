@@ -1,6 +1,6 @@
 # Salon Daomé
 
-Salon Daomé is a music venue in Montreal with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Seer Record Co" on Thu, 15 Oct 2026.
+Salon Daomé is a music venue in Montreal with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Seer Record Co" on Thu, 15 Oct 2026.
 
 Salon Daomé is a music venue in Montreal listed on soundcheck. 10 upcoming gigs, with line-ups including Audrey Bélanger, Don Barbarino, Guillaume Michaud and Hicky & Kalo and 2 more. See dates, start times and who's playing. 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8.
 
@@ -23,4 +23,4 @@ Salon Daomé is a music venue in Montreal listed on soundcheck. 10 upcoming gigs
 
 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8, Montreal
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*

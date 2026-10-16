@@ -1,6 +1,6 @@
 # NTHR
 
-NTHR is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Blindspot*, Bucharest on Fri, 30 Oct 2026.
+NTHR is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Blindspot*, Bucharest on Fri, 30 Oct 2026.
 
 NTHR is a techno and hardcore artist based in Romania, with 61 gigs on soundcheck across Amsterdam and Bucharest. Often billed alongside GXXXGX, FILTRACK and FACDEZORDINESIPLEC. Next up: Blindspot*, Bucharest on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ NTHR is a techno and hardcore artist based in Romania, with 61 gigs on soundchec
 
 GXXXGX, FILTRACK, FACDEZORDINESIPLEC
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nthr/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nthr/)*

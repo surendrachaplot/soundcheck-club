@@ -1,6 +1,6 @@
 # Paula Tape
 
-Paula Tape is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Night Tales, London on Fri, 16 Oct 2026.
+Paula Tape is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Night Tales, London on Fri, 16 Oct 2026.
 
 Paula Tape is a house and techno artist based in Chile, with 170 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 51 more. Often billed alongside Avalon Emerson, Bonobo and Bradley Zero. Next up: Night Tales, London on Fri 16 Oct.
 
@@ -33,4 +33,4 @@ Paula Tape is a house and techno artist based in Chile, with 170 gigs on soundch
 
 Avalon Emerson, Bonobo, Bradley Zero
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*

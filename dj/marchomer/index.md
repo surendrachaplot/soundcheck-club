@@ -1,6 +1,6 @@
 # Marc Homer
 
-Marc Homer is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Sexto Piso, Mexico City on Sat, 17 Oct 2026.
+Marc Homer is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Sexto Piso, Mexico City on Sat, 17 Oct 2026.
 
 Marc Homer is a techno and house artist based in Germany, with 38 gigs on soundcheck across Berlin, Detroit, Los Angeles and Mexico City and 2 more. Often billed alongside Khloe, The Camel and Wax Assassin. Next up: Sexto Piso, Mexico City on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Marc Homer is a techno and house artist based in Germany, with 38 gigs on soundc
 
 Khloe, The Camel, Wax Assassin
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marchomer/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marchomer/)*

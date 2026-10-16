@@ -1,6 +1,6 @@
 # Telesforo
 
-Telesforo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Bossa Nova Civic Club, New York City on Fri, 16 Oct 2026.
+Telesforo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Bossa Nova Civic Club, New York City on Fri, 16 Oct 2026.
 
 Telesforo is a techno and house artist based in United States of America, with 129 gigs on soundcheck across Mexico City, Newcastle and New York City. Often billed alongside Simge, Interpretive Sound and STEEN. Next up: Bossa Nova Civic Club, New York City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Telesforo is a techno and house artist based in United States of America, with 1
 
 Simge, Interpretive Sound, STEEN
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/telesforo/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/telesforo/)*

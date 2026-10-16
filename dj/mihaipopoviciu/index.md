@@ -1,6 +1,6 @@
 # Mihai Popoviciu
 
-Mihai Popoviciu is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Terraza Music Park, Brazil on Sat, 17 Oct 2026.
+Mihai Popoviciu is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Terraza Music Park, Brazil on Sat, 17 Oct 2026.
 
 Mihai Popoviciu is a house and deep house artist based in Romania, with 75 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 31 more. Often billed alongside Andrey Pushkarev, Lola Palmer and Janeret. Next up: Terraza Music Park, Brazil on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Mihai Popoviciu is a house and deep house artist based in Romania, with 75 gigs 
 
 Andrey Pushkarev, Lola Palmer, Janeret
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipopoviciu/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipopoviciu/)*

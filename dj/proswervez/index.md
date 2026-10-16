@@ -1,6 +1,6 @@
 # proswervez
 
-proswervez is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Descent, Boston on Fri, 16 Oct 2026.
+proswervez is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Descent, Boston on Fri, 16 Oct 2026.
 
 proswervez is a house and club artist based in United States of America, with 13 gigs on soundcheck across Boston. Often billed alongside DJ Rayvino, Elysian and Zack Fox. Next up: Descent, Boston on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ proswervez is a house and club artist based in United States of America, with 13
 
 DJ Rayvino, Elysian (1), Zack Fox
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/proswervez/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/proswervez/)*

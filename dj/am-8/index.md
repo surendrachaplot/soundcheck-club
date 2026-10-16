@@ -1,6 +1,6 @@
 # AM (8)
 
-AM (8) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Garage OST, Leipzig on Tue, 27 Oct 2026.
+AM (8) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Garage OST, Leipzig on Tue, 27 Oct 2026.
 
 AM is a techno and tech house artist based in Greece, with 14 gigs on soundcheck across Bangkok, Barcelona, Denver and Detroit and 7 more. Often billed alongside PM, dUb and 1 AM. Next up: Garage OST, Leipzig on Tue 27 Oct.
 
@@ -25,4 +25,4 @@ AM is a techno and tech house artist based in Greece, with 14 gigs on soundcheck
 
 PM, dUb, 1 AM (1)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/am-8/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/am-8/)*

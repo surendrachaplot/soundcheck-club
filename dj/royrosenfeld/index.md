@@ -1,6 +1,6 @@
 # Roy Rosenfeld
 
-Roy Rosenfeld is a House and Progressive House artist with 10 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA -  Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri, 16 Oct 2026.
+Roy Rosenfeld is a House and Progressive House artist with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA -  Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri, 16 Oct 2026.
 
 Roy Rosenfeld is a house and progressive house artist based in Czech Republic, with 126 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 31 more. Often billed alongside Sebastien Leger, Guy Mantzur and Lee Burridge. Next up: TBA -  Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri 16 Oct.
 
@@ -34,4 +34,4 @@ Roy Rosenfeld is a house and progressive house artist based in Czech Republic, w
 
 Sebastien Leger, Guy Mantzur, Lee Burridge
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/royrosenfeld/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/royrosenfeld/)*

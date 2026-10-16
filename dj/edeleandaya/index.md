@@ -1,6 +1,6 @@
 # Edele Andaya
 
-Edele Andaya is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Horizon, Brighton, Brighton on Sat, 17 Oct 2026.
+Edele Andaya is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Horizon, Brighton, Brighton on Sat, 17 Oct 2026.
 
 Edele Andaya is a progressive house and house artist based in United Kingdom, with 22 gigs on soundcheck across Brighton, Ibiza, London and West Wales. Often billed alongside Chris Bayne, Graham Gold and K-Klass. Next up: Horizon, Brighton, Brighton on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Edele Andaya is a progressive house and house artist based in United Kingdom, wi
 
 Chris Bayne, Graham Gold, K-Klass
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edeleandaya/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edeleandaya/)*

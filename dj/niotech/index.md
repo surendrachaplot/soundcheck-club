@@ -1,13 +1,14 @@
 # Niotech
 
-Niotech is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Hangar 34, Liverpool on Sat, 24 Oct 2026.
+Niotech is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Wed, 21 Oct 2026.
 
-Niotech is a techno and trance artist based in Germany, with 79 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 19 more. Often billed alongside AREA ØNE, 3LEEZA and IGDA. Next up: Hangar 34, Liverpool on Sat 24 Oct.
+Niotech is a techno and trance artist based in Germany, with 80 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 19 more. Often billed alongside AREA ØNE, 3LEEZA and IGDA. Next up: Warehouse Elementenstraat, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 21 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
 | Sat, 24 Oct 2026 | Hangar 34 | Liverpool |
 | Sat, 14 Nov 2026 | Turbinenhalle | Oberhausen |
 | Sat, 5 Dec 2026 | DSTRKT Club Berlin | Berlin |
@@ -28,4 +29,4 @@ Niotech is a techno and trance artist based in Germany, with 79 gigs on soundche
 
 AREA ØNE, 3LEEZA, IGDA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niotech/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niotech/)*

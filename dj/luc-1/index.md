@@ -1,6 +1,6 @@
 # Luc (1)
 
-Luc (1) is a Electronica and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at THE MAGICK BAR, Rome on Sat, 17 Oct 2026.
+Luc (1) is a Electronica and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at THE MAGICK BAR, Rome on Sat, 17 Oct 2026.
 
 Luc is an electronica and dancehall artist based in Italy, with 27 gigs on soundcheck across Amsterdam, Barcelona, Berlin and London and 7 more. Often billed alongside Brasi, Lumiere and Marcolino. Next up: THE MAGICK BAR, Rome on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Luc is an electronica and dancehall artist based in Italy, with 27 gigs on sound
 
 Brasi, Lumiere, Marcolino
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luc-1/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luc-1/)*

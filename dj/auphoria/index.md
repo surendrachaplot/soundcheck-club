@@ -1,6 +1,6 @@
 # Auphoria
 
-Auphoria is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at MAD Radio NYC, New York City on Fri, 16 Oct 2026.
+Auphoria is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at MAD Radio NYC, New York City on Fri, 16 Oct 2026.
 
 Auphoria is a house and minimal artist based in Argentina, with 71 gigs on soundcheck across Mexico City, Miami and New York City. Often billed alongside Armii1n, Jeny Michelle and Choukroun. Next up: MAD Radio NYC, New York City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Auphoria is a house and minimal artist based in Argentina, with 71 gigs on sound
 
 Armii1n, Jeny Michelle, Choukroun
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auphoria/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auphoria/)*

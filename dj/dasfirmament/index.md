@@ -1,18 +1,18 @@
 # Das Firmament
 
-Das Firmament is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at AB Club (Ancienne Belgique), Brussels on Thu, 15 Oct 2026.
+Das Firmament is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Usquare, Brussels on Sat, 14 Nov 2026.
 
-Das Firmament is a techno and electro artist based in Switzerland, with 8 gigs on soundcheck across Brussels, Lyon and Zurich. Often billed alongside Exkursion, Sanctus Libido and Innuendo. Next up: AB Club (Ancienne Belgique), Brussels on Thu 15 Oct.
+Das Firmament is a techno and electro artist based in Switzerland, with 8 gigs on soundcheck across Brussels, Lyon and Zurich. Often billed alongside Exkursion, Sanctus Libido and Innuendo. Next up: Usquare, Brussels on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | AB Club (Ancienne Belgique) | Brussels |
 | Sat, 14 Nov 2026 | Usquare | Brussels |
 
 ## Recently played
 
+- AB Club (Ancienne Belgique), Brussels · Thu, 15 Oct 2026
 - TBA - SECRET PLACE, Lyon · Sat, 26 Sept 2026
 - TBA - Schwing und Stampf Festival, Zurich · Thu, 27 Aug 2026
 - Buda BXL, Brussels · Fri, 17 Apr 2026
@@ -24,4 +24,4 @@ Das Firmament is a techno and electro artist based in Switzerland, with 8 gigs o
 
 Exkursion, Sanctus Libido, Innuendo
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dasfirmament/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dasfirmament/)*

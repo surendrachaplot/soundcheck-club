@@ -1,6 +1,6 @@
 # VITTAO
 
-VITTAO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Sun, 25 Oct 2026.
+VITTAO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Sun, 25 Oct 2026.
 
 VITTAO is a house and techno artist based in Brazil, with 13 gigs on soundcheck across Amsterdam and London. Often billed alongside Christoph Cham, LGNA and Mauzk. Next up: Amsterdams Most Wanted, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ VITTAO is a house and techno artist based in Brazil, with 13 gigs on soundcheck 
 
 Christoph Cham, LGNA, Mauzk
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vittao/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vittao/)*

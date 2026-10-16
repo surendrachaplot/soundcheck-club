@@ -1,6 +1,6 @@
 # LUKAS & FRANK
 
-LUKAS & FRANK is a Afro House and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at The Warehouse, Leeds on Thu, 19 Nov 2026.
+LUKAS & FRANK is a Afro House and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Warehouse, Leeds on Thu, 19 Nov 2026.
 
 LUKAS & FRANK are an afro house and house duo based in Germany, with 12 gigs on soundcheck across Brighton, Düsseldorf, Edinburgh and Ibiza and 6 more. Often billed alongside Noel Holler. Next up: The Warehouse, Leeds on Thu 19 Nov.
 
@@ -28,4 +28,4 @@ LUKAS & FRANK are an afro house and house duo based in Germany, with 12 gigs on 
 
 Noel Holler
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasfrank/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasfrank/)*

@@ -1,8 +1,8 @@
 # Toekomstmuziek
 
-Toekomstmuziek is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Alexandra Căpitănescu live in Amsterdam" on Fri, 16 Oct 2026.
+Toekomstmuziek is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Alexandra Căpitănescu live in Amsterdam" on Fri, 16 Oct 2026.
 
-Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including a51d_with_f, Alex Breitling, ALLKNIGHT and Alycia Bezgo and 2 more. See dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
+Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including a51d_with_f, Alex Breitling, ALLKNIGHT and Alycia Bezgo and 2 more. See dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 13 upcoming g
 
 Danzigerbocht 29, 1013 AM Amsterdam, Amsterdam
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*

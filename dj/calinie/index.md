@@ -1,6 +1,6 @@
 # CAlinie
 
-CAlinie is a Electro and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Nether Club, Bucharest on Sun, 18 Oct 2026.
+CAlinie is a Electro and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Nether Club, Bucharest on Sun, 18 Oct 2026.
 
 CAlinie is an electro and minimal techno artist based in Romania, with 2 gigs on soundcheck across Brighton and Bucharest. Next up: Nether Club, Bucharest on Sun 18 Oct.
 
@@ -11,4 +11,4 @@ CAlinie is an electro and minimal techno artist based in Romania, with 2 gigs on
 | Sun, 18 Oct 2026 | Nether Club | Bucharest |
 | Fri, 13 Nov 2026 | Dust | Brighton |
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calinie/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calinie/)*

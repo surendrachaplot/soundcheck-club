@@ -1,6 +1,6 @@
 # Kassa Boat
 
-Kassa Boat is a music venue in Budapest with 11 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "DJ Budai '30 Years Of Techno' Special guest: Sonic Rain" on Thu, 22 Oct 2026.
+Kassa Boat is a music venue in Budapest with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "DJ Budai '30 Years Of Techno' Special guest: Sonic Rain" on Thu, 22 Oct 2026.
 
 Kassa Boat is a music venue in Budapest listed on soundcheck. 11 upcoming gigs, with line-ups including Axel Karakasis, CHRSTPHR, Counterstrike and Daniel Avery and 2 more. See dates, start times and who's playing. 1011 Budapest Szilágyi Dezső square dock 2.
 
@@ -23,4 +23,4 @@ Kassa Boat is a music venue in Budapest listed on soundcheck. 11 upcoming gigs, 
 
 1011 Budapest Szilágyi Dezső square dock 2, Budapest
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*

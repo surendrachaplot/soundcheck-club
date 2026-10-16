@@ -1,18 +1,18 @@
 # Fej:tal
 
-Fej:tal is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 15 Oct 2026.
+Fej:tal is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Unter Deck, Munich on Sat, 14 Nov 2026.
 
-Fej:tal is a techno and electro artist based in Germany, with 29 gigs on soundcheck across Berlin, Munich and Vienna. Often billed alongside DJ FM & DJ FREUND, KECKi and Kim_Twiddle. Next up: Bahnwärter Thiel, Munich on Thu 15 Oct.
+Fej:tal is a techno and electro artist based in Germany, with 29 gigs on soundcheck across Berlin, Munich and Vienna. Often billed alongside DJ FM & DJ FREUND, KECKi and Kim_Twiddle. Next up: Unter Deck, Munich on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Bahnwärter Thiel | Munich |
 | Sat, 14 Nov 2026 | Unter Deck | Munich |
 
 ## Recently played
 
+- Bahnwärter Thiel, Munich · Thu, 15 Oct 2026
 - DNA Club, Munich · Thu, 2 Jul 2026
 - Bahnwärter Thiel, Munich · Thu, 21 May 2026
 - Unter Deck, Munich · Wed, 20 May 2026
@@ -20,10 +20,9 @@ Fej:tal is a techno and electro artist based in Germany, with 29 gigs on soundch
 - DNA Club, Munich · Thu, 30 Apr 2026
 - TBA - Gatsy Club Rosenheim, Munich · Fri, 27 Mar 2026
 - DNA Club, Munich · Thu, 19 Mar 2026
-- Feierwerk, Munich · Sat, 17 Jan 2026
 
 ## Shares bills with
 
 DJ FM & DJ FREUND, KECKi, Kim_Twiddle
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fejtal/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fejtal/)*

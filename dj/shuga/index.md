@@ -1,6 +1,6 @@
 # Shuga
 
-Shuga is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Milneys, Melbourne on Fri, 16 Oct 2026.
+Shuga is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Milneys, Melbourne on Fri, 16 Oct 2026.
 
 Shuga is a garage and bass artist, with 11 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Addison Groove, Alcemist and Ango (AU). Next up: Milneys, Melbourne on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Shuga is a garage and bass artist, with 11 gigs on soundcheck across Melbourne a
 
 Addison Groove, Alcemist, Ango (AU)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shuga/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shuga/)*

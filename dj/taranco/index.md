@@ -1,6 +1,6 @@
 # Taranco
 
-Taranco is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Goya Social Club, Madrid on Fri, 16 Oct 2026.
+Taranco is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Goya Social Club, Madrid on Fri, 16 Oct 2026.
 
 Taranco is a tech house and house artist based in Spain, with 22 gigs on soundcheck across Barcelona, Frankfurt and Madrid. Often billed alongside Trembow, Marco Jenner and FIRZA. Next up: Goya Social Club, Madrid on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Taranco is a tech house and house artist based in Spain, with 22 gigs on soundch
 
 Trembow, Marco Jenner, FIRZA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taranco/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taranco/)*

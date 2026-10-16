@@ -1,8 +1,8 @@
 # State OFFF
 
-State OFFF is a Gqom and Club artist with 5 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Paradiso, Amsterdam on Thu, 22 Oct 2026.
+State OFFF is a Gqom and Club artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Paradiso, Amsterdam on Thu, 22 Oct 2026.
 
-State OFFF is a gqom and club artist based in Netherlands, with 69 gigs on soundcheck across Amsterdam, Berlin, Brussels and Edinburgh and 12 more. Often billed alongside Wes Lee, Ikonika and Batu. Next up: Paradiso, Amsterdam on Thu 22 Oct.
+State OFFF is a gqom and club artist based in Netherlands, with 70 gigs on soundcheck across Amsterdam, Berlin, Brussels and Edinburgh and 12 more. Often billed alongside Wes Lee, Ikonika and Batu. Next up: Paradiso, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ State OFFF is a gqom and club artist based in Netherlands, with 69 gigs on sound
 | Thu, 22 Oct 2026 | Loods6 | Amsterdam |
 | Fri, 23 Oct 2026 | Loods6 | Amsterdam |
 | Fri, 30 Oct 2026 | fabric | London |
+| Sat, 21 Nov 2026 | Panke | Berlin |
 | Fri, 11 Dec 2026 | Uus Laine | Tallinn |
 
 ## Recently played
@@ -29,4 +30,4 @@ State OFFF is a gqom and club artist based in Netherlands, with 69 gigs on sound
 
 Wes Lee, Ikonika, Batu
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stateofff/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stateofff/)*

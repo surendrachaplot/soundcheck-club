@@ -1,6 +1,6 @@
 # Juan Izguerra
 
-Juan Izguerra is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Homage Brewing, Los Angeles on Sat, 24 Oct 2026.
+Juan Izguerra is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Homage Brewing, Los Angeles on Sat, 24 Oct 2026.
 
 Juan Izguerra is a house and downtempo artist based in United States of America, with 42 gigs on soundcheck across Chicago, London, Los Angeles and Melbourne and 9 more. Often billed alongside Bianca Lexis, Soos and Adam Pits. Next up: Homage Brewing, Los Angeles on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Juan Izguerra is a house and downtempo artist based in United States of America,
 
 Bianca Lexis, Soos, Adam Pits
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanizguerra/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanizguerra/)*

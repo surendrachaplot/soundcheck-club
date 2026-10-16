@@ -1,6 +1,6 @@
 # Sevenn
 
-Sevenn is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - STOOM SHIP- Ndsm pier 6, Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Sevenn is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - STOOM SHIP- Ndsm pier 6, Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Sevenn is a techno and tech house artist, with 13 gigs on soundcheck across Amsterdam, Austin, Bali and Buenos Aires and 7 more. Often billed alongside Artbat, Massano and Agents Of Time. Next up: TBA - STOOM SHIP- Ndsm pier 6, Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Sevenn is a techno and tech house artist, with 13 gigs on soundcheck across Amst
 
 Artbat, Massano, Agents Of Time
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sevenn/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sevenn/)*

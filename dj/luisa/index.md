@@ -1,6 +1,6 @@
 # Luisa
 
-Luisa is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 17 Oct 2026.
+Luisa is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 17 Oct 2026.
 
 Luisa is a techno and house artist based in Portugal, with 109 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside Solid-Funk, Worm Class and Cruz (PT). Next up: Lux Fragil, Lisbon on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Luisa is a techno and house artist based in Portugal, with 109 gigs on soundchec
 
 Solid-Funk, Worm Class, Cruz (PT)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luisa/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luisa/)*

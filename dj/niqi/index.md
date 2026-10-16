@@ -1,13 +1,14 @@
 # Niqi
 
-Niqi is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Dx, Boston on Thu, 17 Dec 2026.
+Niqi is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Flash, Washington DC on Fri, 11 Dec 2026.
 
-Niqi is a techno and minimal techno artist based in United States of America, with 43 gigs on soundcheck across Boston, Los Angeles, Miami and New York City. Often billed alongside Xoce, Sebas FX and Ketzaal. Next up: Dx, Boston on Thu 17 Dec.
+Niqi is a techno and minimal techno artist based in United States of America, with 44 gigs on soundcheck across Boston, Los Angeles, Miami and New York City and 1 more. Often billed alongside Xoce, Sebas FX and Ketzaal. Next up: Flash, Washington DC on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Flash | Washington DC |
 | Thu, 17 Dec 2026 | Dx | Boston |
 
 ## Recently played
@@ -25,4 +26,4 @@ Niqi is a techno and minimal techno artist based in United States of America, wi
 
 Xoce, Sebas FX, Ketzaal
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niqi/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niqi/)*

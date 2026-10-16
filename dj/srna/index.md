@@ -1,6 +1,6 @@
 # SRNA
 
-SRNA is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Karmakoma, Belgrade on Fri, 16 Oct 2026.
+SRNA is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Karmakoma, Belgrade on Fri, 16 Oct 2026.
 
 SRNA is a techno and electronica artist, with 11 gigs on soundcheck across Belgrade. Often billed alongside ANSHI, Cvayn and cmic.akk. Next up: Karmakoma, Belgrade on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ SRNA is a techno and electronica artist, with 11 gigs on soundcheck across Belgr
 
 ANSHI, Cvayn, cmic.akk
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/srna/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/srna/)*

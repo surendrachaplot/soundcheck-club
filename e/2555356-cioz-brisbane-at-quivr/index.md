@@ -1,6 +1,6 @@
 # CIOZ BRISBANE at QUIVR
 
-CIOZ BRISBANE at QUIVR on Sun 8 Nov, Brisbane. 2 artists: CIOZ and Shady Lady. Progressive House and House. See the line-up on soundcheck.
+CIOZ BRISBANE at QUIVR on Sun 8 Nov, Brisbane. 2 artists: Cioz and Shady Lady. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ CIOZ BRISBANE at QUIVR on Sun 8 Nov, Brisbane. 2 artists: CIOZ and Shady Lady. P
 
 ## Line-up
 
-- CIOZ
+- Cioz
 - Shady Lady
 
 *Source: [soundcheck](https://soundcheck.club/e/2555356-cioz-brisbane-at-quivr/)*

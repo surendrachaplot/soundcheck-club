@@ -1,6 +1,6 @@
 # DISKQ
 
-DISKQ is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at High Tide, Los Angeles on Thu, 22 Oct 2026.
+DISKQ is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at High Tide, Los Angeles on Thu, 22 Oct 2026.
 
 DISKQ is a techno and experimental artist based in United States of America, with 8 gigs on soundcheck across Los Angeles. Often billed alongside 92Jelani, C.R.T.R. and DJ LIGMA. Next up: High Tide, Los Angeles on Thu 22 Oct.
 
@@ -24,4 +24,4 @@ DISKQ is a techno and experimental artist based in United States of America, wit
 
 92Jelani, C.R.T.R., DJ LIGMA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diskq/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diskq/)*

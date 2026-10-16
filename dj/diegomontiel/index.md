@@ -1,6 +1,6 @@
 # Diego Montiel
 
-Diego Montiel is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Freedonia, Barcelona on Sat, 17 Oct 2026.
+Diego Montiel is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Freedonia, Barcelona on Sat, 17 Oct 2026.
 
 Diego Montiel is a techno and electro artist based in Spain, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid and 4 more. Often billed alongside Frankie Flowerz, Jessica Bellomo and Heinech. Next up: Freedonia, Barcelona on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Diego Montiel is a techno and electro artist based in Spain, with 85 gigs on sou
 
 Frankie Flowerz, Jessica Bellomo, Heinech
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diegomontiel/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diegomontiel/)*

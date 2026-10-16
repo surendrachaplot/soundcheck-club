@@ -1,6 +1,6 @@
 # VINVAR
 
-VINVAR is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Secret Location, Bogot on Sat, 24 Oct 2026.
+VINVAR is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Secret Location, Bogot on Sat, 24 Oct 2026.
 
 VINVAR is a techno and house artist, with 115 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Rakans, LOLSNAKE and Spikey Lee. Next up: TBA - Secret Location, Bogot on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ VINVAR is a techno and house artist, with 115 gigs on soundcheck across Amsterda
 
 Rakans, LOLSNAKE, Spikey Lee
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vinvar/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vinvar/)*

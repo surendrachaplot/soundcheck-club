@@ -1,6 +1,6 @@
 # Rafa (1)
 
-Rafa (1) is a Electro and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Golden Gate, Berlin on Fri, 23 Oct 2026.
+Rafa (1) is a Electro and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Golden Gate, Berlin on Fri, 23 Oct 2026.
 
 Rafa is an electro and reggaeton artist, with 12 gigs on soundcheck across Berlin, Miami, Montreal and New York City and 2 more. Often billed alongside Hagel, Johnny D and MASA. Next up: Golden Gate, Berlin on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Rafa is an electro and reggaeton artist, with 12 gigs on soundcheck across Berli
 
 Hagel, Johnny D, MASA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafa-1/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafa-1/)*

@@ -1,6 +1,6 @@
 # Motel Campo
 
-Motel Campo is a music venue in Geneva with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Motel ✰ Sedef Adasi" on Fri, 16 Oct 2026.
+Motel Campo is a music venue in Geneva with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Motel ✰ Sedef Adasi" on Fri, 16 Oct 2026.
 
 Motel Campo is a music venue in Geneva listed on soundcheck. 8 upcoming gigs, with line-ups including AIEAIEAIE, Audrey Danza, Eva May and Hirma and 2 more. See dates, start times and who's playing. Route des Jeunes 13; Carouge, 1227, Geneva, Switzerland.
 
@@ -21,4 +21,4 @@ Motel Campo is a music venue in Geneva listed on soundcheck. 8 upcoming gigs, wi
 
 Route des Jeunes 13; Carouge, 1227, Geneva, Switzerland, Geneva
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/motel-campo/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/motel-campo/)*

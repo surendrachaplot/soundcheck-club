@@ -1,6 +1,6 @@
 # C4STRO
 
-C4STRO is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Vago, Lisbon on Sat, 17 Oct 2026.
+C4STRO is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Vago, Lisbon on Sat, 17 Oct 2026.
 
 C4STRO is a house and downtempo artist based in Portugal, with 17 gigs on soundcheck across Lisbon. Often billed alongside Martim Tonic, MURI and 4IN. Next up: Vago, Lisbon on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ C4STRO is a house and downtempo artist based in Portugal, with 17 gigs on soundc
 
 Martim Tonic, MURI, 4IN
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c4stro/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c4stro/)*

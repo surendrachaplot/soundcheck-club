@@ -1,6 +1,6 @@
 # Artbat
 
-Artbat is a Techno and Progressive House artist with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Zumana Bali, Bali on Fri, 16 Oct 2026.
+Artbat is a Techno and Progressive House artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Zumana Bali, Bali on Fri, 16 Oct 2026.
 
 Artbat is a techno and progressive house artist based in Ukraine, with 127 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Miss Monique, Adam Beyer and Argy. Next up: Zumana Bali, Bali on Fri 16 Oct.
 
@@ -32,4 +32,4 @@ Artbat is a techno and progressive house artist based in Ukraine, with 127 gigs 
 
 Miss Monique, Adam Beyer, Argy
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Artbat/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Artbat/)*

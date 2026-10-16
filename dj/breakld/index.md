@@ -1,6 +1,6 @@
 # BreakLD
 
-BreakLD is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - Neukölln, Berlin on Fri, 23 Oct 2026.
+BreakLD is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Neukölln, Berlin on Fri, 23 Oct 2026.
 
 BreakLD is a techno and dub techno artist, with 15 gigs on soundcheck across Berlin. Often billed alongside Mumu, B.A.O. and xoxo (DE). Next up: TBA - Neukölln, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ BreakLD is a techno and dub techno artist, with 15 gigs on soundcheck across Ber
 
 Mumu, B.A.O., xoxo (DE)
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/breakld/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/breakld/)*

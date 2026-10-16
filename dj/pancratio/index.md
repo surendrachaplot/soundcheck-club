@@ -1,6 +1,6 @@
 # Pancratio
 
-Pancratio is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Palais, London on Sat, 17 Oct 2026.
+Pancratio is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Palais, London on Sat, 17 Oct 2026.
 
 Pancratio is a house and techno artist based in Italy, with 63 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 20 more. Often billed alongside Dante (H501), Fabrizio Sala and Leo Benassi. Next up: Palais, London on Sat 17 Oct.
 
@@ -33,4 +33,4 @@ Pancratio is a house and techno artist based in Italy, with 63 gigs on soundchec
 
 Dante (H501), Fabrizio Sala, Leo Benassi
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pancratio/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pancratio/)*

@@ -1,6 +1,6 @@
 # PARISH
 
-PARISH is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Bar Temp., Bangkok on Thu, 22 Oct 2026.
+PARISH is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Bar Temp., Bangkok on Thu, 22 Oct 2026.
 
 PARISH is a house and deep house artist, with 11 gigs on soundcheck across Bangkok, Cologne and Seoul. Often billed alongside 1977, Andre Power and BAAWLA. Next up: Bar Temp., Bangkok on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ PARISH is a house and deep house artist, with 11 gigs on soundcheck across Bangk
 
 1977, Andre Power, BAAWLA
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parish/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parish/)*

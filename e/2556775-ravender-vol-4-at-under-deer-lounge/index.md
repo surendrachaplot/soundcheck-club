@@ -1,6 +1,6 @@
 # Ravender Vol.4 at Under Deer Lounge
 
-Ravender Vol.4 at Under Deer Lounge on Sat 24 Oct, Tokyo. 1 artist: Seimei. Techno and House. See the line-up on soundcheck.
+Ravender Vol.4 at Under Deer Lounge on Sat 24 Oct, Tokyo. 2 artists: PANICWORKS and Seimei. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Ravender Vol.4 at Under Deer Lounge on Sat 24 Oct, Tokyo. 1 artist: Seimei. Tech
 
 ## Line-up
 
+- PANICWORKS
 - Seimei
 
 *Source: [soundcheck](https://soundcheck.club/e/2556775-ravender-vol-4-at-under-deer-lounge/)*

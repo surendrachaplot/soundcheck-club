@@ -1,13 +1,14 @@
 # GENNARO
 
-GENNARO is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
+GENNARO is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Studio Club Malaga, Malaga on Sun, 25 Oct 2026.
 
-GENNARO is a house and tech house artist based in Italy, with 21 gigs on soundcheck across Amsterdam, Chicago, Cologne and Ibiza and 7 more. Often billed alongside ANOTR, Aline Umber and Beltran. Next up: One Marylebone, London on Thu 29 Oct.
+GENNARO is a house and tech house artist based in Italy, with 22 gigs on soundcheck across Amsterdam, Chicago, Cologne and Ibiza and 8 more. Often billed alongside ANOTR, Aline Umber and Beltran. Next up: Studio Club Malaga, Malaga on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 25 Oct 2026 | Studio Club Malaga | Malaga |
 | Thu, 29 Oct 2026 | One Marylebone | London |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 
@@ -26,4 +27,4 @@ GENNARO is a house and tech house artist based in Italy, with 21 gigs on soundch
 
 ANOTR, Aline Umber, Beltran
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gennaro/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gennaro/)*

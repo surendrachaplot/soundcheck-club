@@ -1,6 +1,6 @@
 # Dopamyne
 
-Dopamyne is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Le Livart, Montreal on Sat, 17 Oct 2026.
+Dopamyne is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Le Livart, Montreal on Sat, 17 Oct 2026.
 
 Dopamyne is a techno and trance artist, with 30 gigs on soundcheck across Madrid and Montreal. Often billed alongside No Police, Katamina and Kris Tin. Next up: Le Livart, Montreal on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Dopamyne is a techno and trance artist, with 30 gigs on soundcheck across Madrid
 
 No Police, Katamina, Kris Tin
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dopamyne/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dopamyne/)*

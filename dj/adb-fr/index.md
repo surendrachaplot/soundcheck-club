@@ -1,6 +1,6 @@
 # ADB (FR)
 
-ADB (FR) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Mia Mao, Paris on Thu, 31 Dec 2026.
+ADB (FR) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Mia Mao, Paris on Thu, 31 Dec 2026.
 
 ADB (FR) is a trance and techno artist based in France, with 21 gigs on soundcheck across Berlin, Montreal, Munich and Paris. Often billed alongside MEYEM, Bady (FR) and DJ Caline. Next up: Mia Mao, Paris on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ ADB (FR) is a trance and techno artist based in France, with 21 gigs on soundche
 
 MEYEM, Bady (FR), DJ Caline
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adb-fr/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adb-fr/)*

@@ -1,6 +1,6 @@
 # Bunker
 
-Bunker is a music venue in Turin with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "OUTCAST CORE [Opening Season]" on Fri, 16 Oct 2026.
+Bunker is a music venue in Turin with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "OUTCAST CORE [Opening Season]" on Fri, 16 Oct 2026.
 
 Bunker is a music venue in Turin listed on soundcheck. 7 upcoming gigs, with line-ups including Andrea Martello, Andrea Vietti, ANNĒ and BLACK CROW and 2 more. See dates, start times and who's playing. Via Niccolò Paganini, 0/200, 10154 Torino TO, Italy.
 
@@ -20,4 +20,4 @@ Bunker is a music venue in Turin listed on soundcheck. 7 upcoming gigs, with lin
 
 Via Niccolò Paganini, 0/200, 10154 Torino TO, Italy, Turin
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/bunker/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/bunker/)*

@@ -1,6 +1,6 @@
 # echocatcher
 
-echocatcher is a Bass and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at West Harlem, Kyoto on Fri, 16 Oct 2026.
+echocatcher is a Bass and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at West Harlem, Kyoto on Fri, 16 Oct 2026.
 
 echocatcher is a bass and club artist based in China, with 15 gigs on soundcheck across Kyoto, London, Osaka and Shanghai and 2 more. Often billed alongside K8 (TYO GQOM), ZHUO and DJ EBP. Next up: West Harlem, Kyoto on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ echocatcher is a bass and club artist based in China, with 15 gigs on soundcheck
 
 K8 (TYO GQOM), ZHUO, DJ EBP
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/echocatcher/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/echocatcher/)*

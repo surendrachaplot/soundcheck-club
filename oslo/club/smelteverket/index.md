@@ -1,6 +1,6 @@
 # Smelteverket
 
-Smelteverket is a music venue in Oslo with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "DØRUM CURATES: SOUPHERB RECORDS SHOWCASE" on Fri, 16 Oct 2026.
+Smelteverket is a music venue in Oslo with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "DØRUM CURATES: SOUPHERB RECORDS SHOWCASE" on Fri, 16 Oct 2026.
 
 Smelteverket is a music venue in Oslo listed on soundcheck. 3 upcoming gigs, with line-ups including Ash Roy and Madelusken. See dates, start times and who's playing. Vulkan 5, 0182 Oslo.
 
@@ -16,4 +16,4 @@ Smelteverket is a music venue in Oslo listed on soundcheck. 3 upcoming gigs, wit
 
 Vulkan 5, 0182 Oslo, Oslo
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/smelteverket/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/smelteverket/)*

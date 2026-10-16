@@ -1,6 +1,6 @@
 # Rhythm
 
-Rhythm is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Long Play: Frank Ocean + Extended Session with Aaron Dunkies" on Fri, 16 Oct 2026.
+Rhythm is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Long Play: Frank Ocean + Extended Session with Aaron Dunkies" on Fri, 16 Oct 2026.
 
 Rhythm is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including Aaron Dunkies, Blkvirgo, D Stone and Greg Burke and 2 more. See dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
 
@@ -21,4 +21,4 @@ Rhythm is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with l
 
 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA, Toronto
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*

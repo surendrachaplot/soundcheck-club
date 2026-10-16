@@ -1,8 +1,8 @@
 # Innersha
 
-Innersha is a Techno and Experimental artist with 8 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - MOXIR, Armenia on Sat, 17 Oct 2026.
+Innersha is a Techno and Experimental artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - MOXIR, Armenia on Sat, 17 Oct 2026.
 
-Innersha is a techno and experimental artist based in Armenia, with 29 gigs on soundcheck across Amsterdam, Armenia, Berlin and Brussels and 15 more. Often billed alongside Dasha Rush, Claudio PRC and Decoder. Next up: TBA - MOXIR, Armenia on Sat 17 Oct.
+Innersha is a techno and experimental artist based in Armenia, with 30 gigs on soundcheck across Amsterdam, Armenia, Berlin and Brussels and 16 more. Often billed alongside Dasha Rush, Polar Inertia and Spekki Webu. Next up: TBA - MOXIR, Armenia on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Innersha is a techno and experimental artist based in Armenia, with 29 gigs on s
 | Thu, 19 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
+| Fri, 27 Nov 2026 | Shunter | Rotterdam |
 
 ## Recently played
 
@@ -30,6 +31,6 @@ Innersha is a techno and experimental artist based in Armenia, with 29 gigs on s
 
 ## Shares bills with
 
-Dasha Rush, Claudio PRC, Decoder
+Dasha Rush, Polar Inertia, Spekki Webu
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innersha/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innersha/)*

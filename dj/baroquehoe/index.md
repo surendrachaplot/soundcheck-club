@@ -1,14 +1,14 @@
 # Baroque Hoe
 
-Baroque Hoe is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at TBA - BK, New York City on Sat, 17 Oct 2026.
+Baroque Hoe is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Green Room NYC, New York City on Sun, 18 Oct 2026.
 
-Baroque Hoe is a techno and progressive house artist based in United States of America, with 30 gigs on soundcheck across Berlin and New York City. Often billed alongside 320, Brutal Twink and Actual Angel. Next up: TBA - BK, New York City on Sat 17 Oct.
+Baroque Hoe is a techno and progressive house artist based in United States of America, with 30 gigs on soundcheck across Berlin and New York City. Often billed alongside 320, Brutal Twink and Actual Angel. Next up: Green Room NYC, New York City on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA - BK | New York City |
+| Sun, 18 Oct 2026 | Green Room NYC | New York City |
 | Fri, 6 Nov 2026 | Green Room NYC | New York City |
 | Fri, 13 Nov 2026 | ErF Studios | New York City |
 
@@ -27,4 +27,4 @@ Baroque Hoe is a techno and progressive house artist based in United States of A
 
 320 (1), Brutal Twink, Actual Angel
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baroquehoe/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baroquehoe/)*

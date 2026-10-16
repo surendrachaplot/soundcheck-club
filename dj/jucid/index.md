@@ -1,6 +1,6 @@
 # Jucid
 
-Jucid is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at teller, Seoul on Sat, 17 Oct 2026.
+Jucid is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at teller, Seoul on Sat, 17 Oct 2026.
 
 Jucid is a house and club artist based in South Korea, with 134 gigs on soundcheck across Hong Kong and Seoul. Often billed alongside Jesse You, Soyo and Acidwork. Next up: teller, Seoul on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Jucid is a house and club artist based in South Korea, with 134 gigs on soundche
 
 Jesse You, Soyo, Acidwork
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jucid/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jucid/)*

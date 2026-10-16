@@ -1,6 +1,6 @@
 # Dj Homie
 
-Dj Homie is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Club Malasaña, Madrid on Sat, 17 Oct 2026.
+Dj Homie is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Club Malasaña, Madrid on Sat, 17 Oct 2026.
 
 Dj Homie is a house and electronica artist based in Spain, with 12 gigs on soundcheck across Madrid. Often billed alongside Ninalash!, David Cabrera and WO KEM. Next up: Club Malasaña, Madrid on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Dj Homie is a house and electronica artist based in Spain, with 12 gigs on sound
 
 Ninalash!, David Cabrera, WO KEM
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhomie/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhomie/)*

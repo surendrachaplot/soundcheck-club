@@ -1,6 +1,6 @@
 # Nic Cammelli
 
-Nic Cammelli is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at The Cross, London on Sat, 17 Oct 2026.
+Nic Cammelli is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Cross, London on Sat, 17 Oct 2026.
 
 Nic Cammelli is a techno and house artist, with 26 gigs on soundcheck across London. Often billed alongside Tear of Joy, Yashar (UK) and STRAY SON. Next up: The Cross, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Nic Cammelli is a techno and house artist, with 26 gigs on soundcheck across Lon
 
 Tear of Joy, Yashar (UK), STRAY SON
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niccammelli/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niccammelli/)*

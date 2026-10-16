@@ -1,14 +1,15 @@
 # Greentea Peng
 
-Greentea Peng is a Jazz and House artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at KABUL à GoGo, Utrecht on Sat, 7 Nov 2026.
+Greentea Peng is a House and Jazz artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at KABUL à GoGo, Utrecht on Sat, 7 Nov 2026.
 
-Greentea Peng is a jazz and house artist based in United Kingdom, with 10 gigs on soundcheck across Birmingham, Copenhagen, Istanbul and Leeds and 3 more. Often billed alongside Anish Kumar, Arthi and Barry Can't Swim. Next up: KABUL à GoGo, Utrecht on Sat 7 Nov.
+Greentea Peng is a house and jazz artist based in United Kingdom, with 11 gigs on soundcheck across Birmingham, Copenhagen, Istanbul and Leeds and 4 more. Often billed alongside Ahadadream, Anish Kumar and Arthi. Next up: KABUL à GoGo, Utrecht on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | KABUL à GoGo | Utrecht |
+| Fri, 20 Nov 2026 | TBA | Melbourne |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Greentea Peng is a jazz and house artist based in United Kingdom, with 10 gigs o
 
 ## Shares bills with
 
-Anish Kumar, Arthi, Barry Can't Swim
+Ahadadream, Anish Kumar, Arthi
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/greenteapeng/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/greenteapeng/)*

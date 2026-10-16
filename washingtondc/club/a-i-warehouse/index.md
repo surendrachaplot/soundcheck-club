@@ -1,6 +1,6 @@
 # A.i Warehouse
 
-A.i Warehouse is a music venue in Washington DC with 6 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Nü Androids presents: Kettama" on Fri, 16 Oct 2026.
+A.i Warehouse is a music venue in Washington DC with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Nü Androids presents: Kettama" on Fri, 16 Oct 2026.
 
 A.i Warehouse is a music venue in Washington DC listed on soundcheck. 6 upcoming gigs, with line-ups including Francis Mercier, Hamdi (UK), MPH and Prospa. See dates, start times and who's playing. 530 Penn St NE Washington DC 20002.
 
@@ -19,4 +19,4 @@ A.i Warehouse is a music venue in Washington DC listed on soundcheck. 6 upcoming
 
 530 Penn St NE Washington DC 20002, Washington DC
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/a-i-warehouse/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/a-i-warehouse/)*

@@ -1,6 +1,6 @@
 # Griff
 
-Griff is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at After Dark, Bristol on Fri, 30 Oct 2026.
+Griff is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at After Dark, Bristol on Fri, 30 Oct 2026.
 
 Griff is a house and disco artist, with 14 gigs on soundcheck across Bristol, Leeds, Liverpool and London and 2 more. Often billed alongside Mas Que Nada Brothers, Hot Cross Fun and Todd Terry. Next up: After Dark, Bristol on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Griff is a house and disco artist, with 14 gigs on soundcheck across Bristol, Le
 
 Mas Que Nada Brothers, Hot Cross Fun, Todd Terry
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/griff/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/griff/)*

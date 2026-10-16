@@ -1,6 +1,6 @@
 # Shirley Temper
 
-Shirley Temper is a Jungle and Footwork artist with 2 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Beaver Works, Leeds on Fri, 16 Oct 2026.
+Shirley Temper is a Jungle and Footwork artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Beaver Works, Leeds on Fri, 16 Oct 2026.
 
 Shirley Temper is a jungle and footwork artist based in United Kingdom, with 76 gigs on soundcheck across Berlin, Brighton, Bristol and Leeds and 5 more. Often billed alongside PEPPA, Sleazebag and Samurai Breaks. Next up: Beaver Works, Leeds on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Shirley Temper is a jungle and footwork artist based in United Kingdom, with 76 
 
 PEPPA (2), Sleazebag, Samurai Breaks
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shirleytemper/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shirleytemper/)*

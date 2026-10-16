@@ -1,6 +1,6 @@
 # Q Club
 
-Q Club is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "RÀTAVA - dkr X Q club with Schacke" on Fri, 16 Oct 2026.
+Q Club is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "RÀTAVA - dkr X Q club with Schacke" on Fri, 16 Oct 2026.
 
 Q Club is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including Andromeda\Unchained, CEM, Galilea and Juicy Hammer and 2 more. See dates, start times and who's playing. Via Padova 21, 20100 Milano (MI), Italy.
 
@@ -16,4 +16,4 @@ Q Club is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with lin
 
 Via Padova 21, 20100 Milano (MI), Italy, Milan
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/q-club/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/q-club/)*

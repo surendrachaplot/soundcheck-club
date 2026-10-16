@@ -1,14 +1,15 @@
 # 131bpm
 
-131bpm is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 31 Oct 2026.
+131bpm is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 31 Oct 2026.
 
-131bpm is a house and techno artist, with 129 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 25 more. Often billed alongside Camilla Rae, Aaron Blau and Stella Zekri. Next up: Tokonoma Club, Frankfurt on Sat 31 Oct.
+131bpm is a house and techno artist, with 130 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 25 more. Often billed alongside Camilla Rae, Stella Zekri and Aaron Blau. Next up: Tokonoma Club, Frankfurt on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Tokonoma Club | Frankfurt |
+| Fri, 6 Nov 2026 | KREUZWERK | Berlin |
 | Fri, 20 Nov 2026 | RSO.BERLIN | Berlin |
 | Sat, 28 Nov 2026 | ASIAT Park | Brussels |
 
@@ -25,6 +26,6 @@
 
 ## Shares bills with
 
-Camilla Rae, Aaron Blau, Stella Zekri
+Camilla Rae, Stella Zekri, Aaron Blau
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/131bpm/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/131bpm/)*

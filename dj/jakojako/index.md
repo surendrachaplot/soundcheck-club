@@ -1,6 +1,6 @@
 # JakoJako
 
-JakoJako is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. Next at Open Ground, Wuppertal on Sat, 17 Oct 2026.
+JakoJako is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Open Ground, Wuppertal on Sat, 17 Oct 2026.
 
 JakoJako is a techno and house artist based in Germany, with 173 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Rødhåd, Barker and Fadi Mohem. Next up: Open Ground, Wuppertal on Sat 17 Oct.
 
@@ -35,4 +35,4 @@ JakoJako is a techno and house artist based in Germany, with 173 gigs on soundch
 
 Rødhåd, Barker, Fadi Mohem
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*

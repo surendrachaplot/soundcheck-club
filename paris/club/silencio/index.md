@@ -1,14 +1,13 @@
 # Silencio
 
-Silencio is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "CASA ATA W/ MAMBA SKAR, RAPH, Ferdi, MARKUS" on Thu, 15 Oct 2026.
+Silencio is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "BLT Autumn Edition" on Fri, 16 Oct 2026.
 
-Silencio is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including Âme, Fabrice Dayan, Ferdi and Guy Gerber and 2 more. See dates, start times and who's playing. 142 rue Montmartre Paris.
+Silencio is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Âme, Fabrice Dayan, Guy Gerber and HEN YANNI and 2 more. See dates, start times and who's playing. 142 rue Montmartre Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | CASA ATA W/ MAMBA SKAR, RAPH, Ferdi, MARKUS | Ferdi, Markus (US), RAPH |
 | Fri, 16 Oct 2026 | BLT Autumn Edition |  |
 | Sat, 17 Oct 2026 | Fabrice Dayan & FRIENDS | Fabrice Dayan |
 | Thu, 22 Oct 2026 | Guy Gerber, NOEMIE (LIVE), HEN YANNI, Niv Yefet | Guy Gerber, HEN YANNI, Niv Yefet |
@@ -20,4 +19,4 @@ Silencio is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with l
 
 142 rue Montmartre Paris, Paris
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/silencio/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/silencio/)*

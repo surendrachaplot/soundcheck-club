@@ -1,6 +1,6 @@
 # DJ Böhm
 
-DJ Böhm is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 15 Oct 2026. Next at Das Werk, Vienna on Fri, 16 Oct 2026.
+DJ Böhm is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Das Werk, Vienna on Fri, 16 Oct 2026.
 
 DJ Böhm is a techno and trance artist based in Austria, with 40 gigs on soundcheck across Vienna. Often billed alongside Dan.P, L4NC3 and presso. Next up: Das Werk, Vienna on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ DJ Böhm is a techno and trance artist based in Austria, with 40 gigs on soundch
 
 Dan.P, L4NC3, presso
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbohm/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbohm/)*

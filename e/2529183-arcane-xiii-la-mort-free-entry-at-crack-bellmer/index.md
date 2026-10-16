@@ -1,6 +1,6 @@
 # Arcane XIII: La Mort (Free Entry*) at Crack Bellmer
 
-Arcane XIII: La Mort (Free Entry*) at Crack Bellmer on Thu 12 Nov, Berlin. 5 artists: Dima Kachan, Lola Kay, MAXIMILIANO and Pamela Svart and 1 more. Trance and Techno. See the line-up on soundcheck.
+Arcane XIII: La Mort (Free Entry*) at Crack Bellmer on Thu 12 Nov, Berlin. 5 artists: Dima Kachan, Lola Kay, MAXIMILIANO and Pamela Svart and 1 more. Techno and Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

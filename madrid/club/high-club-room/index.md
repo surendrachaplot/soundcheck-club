@@ -1,6 +1,6 @@
 # High Club Room
 
-High Club Room is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "DECIBEL: Daya Dadlani, Iker Lobo, Alex Sosa" on Fri, 16 Oct 2026.
+High Club Room is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "DECIBEL: Daya Dadlani, Iker Lobo, Alex Sosa" on Fri, 16 Oct 2026.
 
 High Club Room is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with line-ups including Alex Sosa, BOTHER, Chris Gorrie and Daya Dadlani and 2 more. See dates, start times and who's playing. C/ de Joaquin Costa 27, 28002. Madrid.
 
@@ -20,4 +20,4 @@ High Club Room is a music venue in Madrid listed on soundcheck. 7 upcoming gigs,
 
 C/ de Joaquin Costa 27, 28002. Madrid, Madrid
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/high-club-room/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/high-club-room/)*

@@ -1,6 +1,6 @@
 # Meow Wolf Houston
 
-Meow Wolf Houston is a music venue in Houston with 3 upcoming gigs listed on soundcheck as of Thu, 15 Oct 2026. The next is "Nikita, the Wicked" on Fri, 16 Oct 2026.
+Meow Wolf Houston is a music venue in Houston with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Nikita, the Wicked" on Fri, 16 Oct 2026.
 
 Meow Wolf Houston is a music venue in Houston listed on soundcheck. 3 upcoming gigs, with line-ups including Baauer. See dates, start times and who's playing. 2103 Lyons Ave Bldg 2, Houston, TX 77020, USA.
 
@@ -16,4 +16,4 @@ Meow Wolf Houston is a music venue in Houston listed on soundcheck. 3 upcoming g
 
 2103 Lyons Ave Bldg 2, Houston, TX 77020, USA, Houston
 
-*Updated Thu, 15 Oct 2026 · source: [soundcheck](https://soundcheck.club/houston/club/meow-wolf-houston/)*
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/houston/club/meow-wolf-houston/)*
